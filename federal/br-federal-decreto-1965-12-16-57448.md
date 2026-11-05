@@ -1,5 +1,3 @@
-###DEC-057448-0-000-16-12-1965@@@
-
 Decreto nº 57.448, de 16 de dezembro de 1965.
 
 Autoriza o Banco Central da República do Brasil a negociar e contratar com o Banco Interamericano de Desenvolvimento operação de empréstimo, em moeda estrangeira, para o fim que menciona.

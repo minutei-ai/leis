@@ -1,5 +1,3 @@
-###DEC-049252-0-000-17-11-1960@@@
-
 decreto nº 49.252, de 17 de Novembro de 1960.
 
 Autoriza o cidadão brasileiro Antônio Pacífico Homem Júnior a pesquisar minério de ferro, talco e quartzo no município de Congonhas, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002428-0-000-14-04-1988@@@
-
 # DECRETO‑LEI Nº 2.428, DE 14 DE ABRIL DE 1988
 
 Dispõe sobre o imposto de renda incidente sobre os ganhos auferidos, por pessoas físicas, nas operações a prazo em bolsas de valores, de mercadorias e mercados outros de liqüidação futura.

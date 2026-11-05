@@ -1,5 +1,3 @@
-###DEC-052662-A-000-11-10-1963@@@
-
 DECRETO Nº 52.662-A, DE 11 DE Outubro DE 1963.
 
 Regulamenta a Lei nº 4.127 de 27 de Agosto de 1962, que dispõe sôbre a criação da taxa destinada a remuneração de vigias portuários.

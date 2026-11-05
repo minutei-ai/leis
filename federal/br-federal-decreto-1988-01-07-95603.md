@@ -1,7 +1,3 @@
-1
-
-###DEC-095603-0-000-07-01-1988@@@
-
 DECRETO N° 95.603, DE 7 DE JANEIRO DE 1988
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo Comercial nº 5, no Setor da Indústria Química.

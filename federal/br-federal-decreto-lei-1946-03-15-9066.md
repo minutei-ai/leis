@@ -1,5 +1,3 @@
-###DEL-009066-0-000-15-03-1946@@@
-
 DECRETO-LEI N. 9.066 – DE 15 DE MARÇO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o Real Gabinete Português de Leitura de pagamento do impôsto predial, na forma que menciona.

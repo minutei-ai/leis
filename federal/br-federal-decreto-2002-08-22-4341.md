@@ -1,5 +1,3 @@
-###DEC-004341-0-000-22-08-2002@@@
-
 DECRETO Nº 4.341, DE 22 DE AGOSTO DE 2002
 
 Institui a carteira de identidade funcional dos membros das carreiras de Advogado da União e Procurador Federal e dá outras providências.

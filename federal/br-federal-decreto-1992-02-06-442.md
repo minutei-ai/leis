@@ -1,5 +1,3 @@
-###DEC-000442-0-000-06-02-1992@@@
-
 DECRETO Nº 442, DE 06 DE FEVEREIRO DE 1992
 
 Promulga o Acordo de Comércio, entre o Governo da República Federativa do Brasil e o Governo do Reino da Tailândia.

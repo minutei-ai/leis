@@ -1,5 +1,3 @@
-###DEL-006714-0-000-19-07-1944@@@
-
 DECRETO-LEI N. 6.714 – de 19 de julho de 1944
 
 Isenta do pagamento de foros as entidades de desportos náuticos, titulares de aforamentos concedidos antes da vigência do Decreto-lei n. 3.438, de 17 de julho de 1941

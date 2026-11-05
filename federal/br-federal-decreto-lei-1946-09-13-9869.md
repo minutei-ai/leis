@@ -1,5 +1,3 @@
-###DEL-009869-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.869 – DE 13 DE SETEMBRO DE 1946
 
 Autoriza a encampação da The São Paulo Railway Company Limited, e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-007782-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.782 – DE 26 DE JULHO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a exonerar o "Asilo Isabel" do pagamento do impôsto que menciona.

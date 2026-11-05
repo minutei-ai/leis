@@ -1,5 +1,3 @@
-###DEC-055158-0-000-04-12-1964@@@
-
 Decreto nº 55.158, de 4 de dezembro de 1964.
 
 Autoriza Th. Badin de Minérios Ltda a pesquisar córidon, nos municípios de Andaraí e Itaberava, Estado da Bahia.

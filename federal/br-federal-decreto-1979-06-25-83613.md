@@ -1,5 +1,3 @@
-###DEC-083613-0-000-25-06-1979@@@
-
 Decreto nº 83.613, de 25 de junho de 1979.
 
 Regulamenta o resgate dos financiamentos autorizados pelas Leis nºs 2.321, de 11 de setembro de 1954, 3.473, de 1º de dezembro de 1958 e 4.698, de 28 de junho de 1965.

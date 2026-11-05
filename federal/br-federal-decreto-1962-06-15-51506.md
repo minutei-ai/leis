@@ -1,5 +1,3 @@
-###DEC-051506-0-000-15-06-1962@@@
-
 DECRETO Nº 51.506, DE 15 DE JUNHO DE 1962.
 
 Corrige enquadramento provisorio

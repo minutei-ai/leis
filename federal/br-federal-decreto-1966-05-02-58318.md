@@ -1,5 +1,3 @@
-###DEC-058318-0-000-02-05-1966@@@
-
 decreto nº 58.318, de 2 de maio de 1966.
 
 Autoriza o cidadão brasileiro Luiz Lopes da Silva a pesquisar quartzo e ametista no Município de Itaboraí Estado do Rio de Janeiro.

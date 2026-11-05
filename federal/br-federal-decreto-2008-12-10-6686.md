@@ -1,5 +1,3 @@
-###DEC-006686-0-000-10-12-2008@@@
-
 DECRETO Nº 6.686, DE 10 DE DEZEMBRO DE 2008.
 
 Altera e acresce dispositivos ao Decreto no 6.514, de 22 de julho de 2008, que dispõe sobre as infrações e sanções administrativas ao meio ambiente e estabelece o processo administrativo federal para apuração destas infrações.

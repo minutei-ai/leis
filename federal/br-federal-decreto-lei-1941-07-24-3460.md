@@ -1,5 +1,3 @@
-###DEL-003460-0-000-24-07-1941@@@
-
 DECRETO-LEI N. 3.460 – DE 24 DE JULHO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 3.004 :000$0, às verbas que especifica

@@ -1,5 +1,3 @@
-###DEC-083362-0-000-23-04-1979@@@
-
 Decreto nº 83.362, de 23 de abril de 1979.
 
 Dá nova redação ao artigo 1º do Decreto nº 83.306, de 29 de março de 1979, que autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada pela VALESUL ALUMÍNIO S.A.

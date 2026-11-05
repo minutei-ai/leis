@@ -1,5 +1,3 @@
-###DEC-077738-0-000-01-06-1976@@@
-
 DECRETO Nº 77.738, DE 1º DE JUNHO DE 1976.
 
 Cria a 14º Bateria de Artilharia Antiaérea e dá outras providências.

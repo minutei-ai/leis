@@ -1,7 +1,3 @@
-1
-
-###DEC-097849-0-000-20-06-1989@@@
-
 DECRETO Nº 97.849, DE 20 DE JUNHO DE 1989
 
 Fixa o Valor Básico de Diárias a que se refere o Decreto nº 94.344, de 19 de maio de 1987.

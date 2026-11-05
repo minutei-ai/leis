@@ -1,5 +1,3 @@
-###DEC-074255-0-000-05-07-1974@@@
-
 DECRETO Nº 74.255 - DE 5 DE JULHO DE 1974
 
 Concede reconhecimento à Escola de Educação Física, mantida pelo Instituto Porto Alegre, com sede na Cidade de Porto Alegre, no Estado do Rio Grande do Sul.

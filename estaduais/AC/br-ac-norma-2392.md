@@ -1,6 +1,10 @@
 > **LEI Nº 3.215, DE 29 DE DEZEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a comunicação eletrônica entre a Secretaria de Estado da Fazenda e o sujeito passivo de tributos estaduais.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a comunicação eletrônica entre a Secretaria de Estado da Fazenda e o sujeito passivo de tributos estaduais.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-050306-0-000-28-02-1961@@@
-
 DECRETO Nº 50.306, DE 28 DE FEVEREIRO DE 1961.
 
 Concede reconhecimento a curso.

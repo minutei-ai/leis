@@ -1,5 +1,3 @@
-###DEC-081520-0-000-04-04-1978@@@
-
 Decreto nº 81.520, de 04 de abril de 1978.
 
 Aprova o novo Plano de Reestruturação da Universidade Federal do Pará.

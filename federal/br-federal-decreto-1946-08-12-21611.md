@@ -1,14 +1,12 @@
-###DEC-021611-0-000-12-08-1946@@@
+**DECRETO Nº 21.611, DE 12 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.611, DE 12 DE AGÔSTO DE 1946.</strong>
+***Altera a lotação numérica do Ministério da Agricultura.***
 
-<em><strong>Altera a lotação numérica do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição e tendo em vista o Decreto-lei nº 9.503, de 23 de Julho de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição e tendo em vista o Decreto-lei nº 9.503, de 23 de Julho de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterada a lotação numérica dos Quadros Permanente e Suplementar, do Ministério da Agricultura, da seguinte maneira:
+**Art**. 1º Fica alterada a lotação numérica dos Quadros Permanente e Suplementar, do Ministério da Agricultura, da seguinte maneira:
 
 I - nas carreiras de Dactilógrafo e Escriturário, a lotação da Divisão do Pessoal, do Departamento da Administração, passa a ser de dezessete cargos permanentes na carreira de Dactilógrafo e de trinta e cinco cargos permanentes na carreira de escriturário;
 
@@ -16,12 +14,12 @@ II - nas carreiras de Oficial Administrativo, Dactilógrafo e Contínuo, a lota�
 
 III - a lotação da Diretoria da Divisão de Fomento da produção Vegetal, do Departamento Nacional da Produção Vegetal, passa a ter um cargo suplementar da carreira de Desenhista.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 12 de Agôsto de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Junior

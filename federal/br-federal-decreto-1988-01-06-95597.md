@@ -1,7 +1,3 @@
-1
-
-###DEC-095597-0-000-06-01-1988@@@
-
 DECRETO N° 95.597, DE 6 DE JANEIRO DE 1988
 
 Dispõe sobre a execução do Sexto Protocolo Modificativo, ao Acordo de Alcance Parcial (Acordo n° 35).

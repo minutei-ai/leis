@@ -1,5 +1,3 @@
-###DEC-059785-0-000-19-12-1966@@@
-
 DECRETO Nº 59.785, DE 19 DE DEZEMBRO DE 1966.
 
 Autoriza a cidadã brasileira Joaquina Fontanini Stuber a pesquisar apatita e baritina, no município de Ribeira, Estado de São Paulo.

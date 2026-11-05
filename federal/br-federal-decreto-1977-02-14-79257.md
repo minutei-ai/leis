@@ -1,5 +1,3 @@
-###DEC-079257-0-000-14-02-1977@@@
-
 DECRETO Nº 79.257, DE 14 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento aos cursos de Pedagogia, de Letras e de Psicologia, da Faculdade de Filosofia, Ciências e Letras Tuiuti, com sede na Cidade de Curitiba, Estado do Paraná.

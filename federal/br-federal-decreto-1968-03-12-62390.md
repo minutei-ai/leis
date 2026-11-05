@@ -1,5 +1,3 @@
-###DEC-062390-0-000-12-03-1968@@@
-
 DECRETO Nº 62.390, DE 12 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Associação Feminina de Proteção à Maternidade e à Infância de Curitiba’’, com sede em Curitiba, Estado do Paraná.

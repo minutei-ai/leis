@@ -1,7 +1,3 @@
-1
-
-###DEC-001412-0-000-07-03-1995@@@
-
 DECRETO N° 1.412, DE 7 DE MARÇO DE 1995
 
 Dispõe sobre a liberação de recursos financeiros para pagamento de pessoal dos órgãos e entidades da Administração Pública Federal e dá outras providências.

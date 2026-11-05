@@ -1,5 +1,3 @@
-###DEC-049487-0-000-09-12-1960@@@
-
 decreto nº 49.487, de 9 de dezembro de 1960.
 
 Dá nova redação ao art. 66 do Decreto n.º 42.820, de 16 de dezembro de 1957.

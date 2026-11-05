@@ -1,5 +1,3 @@
-###DEL-004072-0-000-30-01-1942@@@
-
 DECRETO-LEI N. 4.072 – DE 30 DE JANEIRO DE 1942
 
 Concede pensão aos herdeiros do Capitão Esperidião Rosas Filho

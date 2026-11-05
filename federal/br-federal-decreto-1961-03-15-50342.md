@@ -1,5 +1,3 @@
-###DEC-050342-0-000-15-03-1961@@@
-
 DECRETO Nº 50.342, DE 15 DE MARÇO DE 1961.
 
 Declara de utilidade pública, para efeito de desapropriação, em caráter de urgência, os terrenos que menciona.

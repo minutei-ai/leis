@@ -1,5 +1,3 @@
-###DEC-082599-0-000-07-11-1978@@@
-
 Decreto nº 82.599, de 07 de novembro de 1978.
 
 Concede reconhecimento à habilitação em Química, do Curso de Ciências da Fundação Universidade de Caxias do Sul, com sede em Caxias do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-073941-0-000-16-04-1974@@@
-
 DECRETO Nº 73.941, DE 16 DE ABRIL DE 1974.
 
 Concede à Empresa de Mineração Santa Clara Ltda. O direito de lavrar mármore no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

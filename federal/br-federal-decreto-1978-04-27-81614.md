@@ -1,5 +1,3 @@
-###DEC-081614-0-000-27-04-1978@@@
-
 Decreto nº 81.614, de 27 de abril de 1978
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo que menciona.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209288)<br>
-
 # LEI N° 17.895, DE 09 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 999/2017, do Deputado Campos Machado - PTB)

@@ -1,5 +1,3 @@
-###DEL-005107-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.107 – DE 17 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 8.000,00 á verba que especifica

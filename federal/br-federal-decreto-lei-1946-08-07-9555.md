@@ -1,5 +1,3 @@
-###DEL-009555-0-000-07-08-1946@@@
-
 DECRETO-LEI N. 9.555 – DE 7 DE AGÔSTO DE 1946
 
 Dispõe sôbre aproveitamento de oficiais subalternos da reserva de 2ª classe no Quadro Auxiliar de Oficiais.

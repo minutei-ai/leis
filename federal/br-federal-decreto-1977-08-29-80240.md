@@ -1,5 +1,3 @@
-###DEC-080240-0-000-29-08-1977@@@
-
 Decreto nº 80.240, de 29 de agosto de 1977.
 
 Concede à Empresa de Caolim Ltda. o direito de lavrar caulim no Município de Pedro Leopoldo, Estado de Minas Gerais.

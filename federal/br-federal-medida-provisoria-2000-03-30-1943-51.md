@@ -1,5 +1,3 @@
-###MPV-001943-0-051-30-03-2000@@@
-
 MEDIDA PROVISóRIA Nº 1.943-51, DE 30 de março DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

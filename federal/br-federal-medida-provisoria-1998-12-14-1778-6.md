@@ -1,5 +1,3 @@
-###MPV-001778-0-006-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.778-6, DE 14 DE DEZEMBRO DE 1998.
 
 Estabelece prazo de prescrição para o exercício de ação punitiva pela Administração Pública Federal, direta e indireta, e dá outras providências.

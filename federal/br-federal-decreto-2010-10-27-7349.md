@@ -1,5 +1,3 @@
-###DEC-007349-0-000-27-10-2010-PUB-01@@@
-
 DECRETO Nº 7.349, DE 27 DE OUTUBRO DE 2010.
 
 Cria a Embaixada do Brasil em Lilongue, na República do Maláui.

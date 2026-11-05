@@ -1,10 +1,8 @@
-###DEC-022938-0-000-15-04-1947@@@
+**DECRETO Nº 22.938, DE 15 DE ABRIL DE 1947.**
 
-<strong>DECRETO Nº 22.938, DE 15 DE ABRIL DE 1947.</strong>
+***Suspende funcionamento, em todo o Território Nacional, da associação civil "União da Juventude Comunista"***
 
-<em><strong>Suspende funcionamento, em todo o Território Nacional, da associação civil "União da Juventude Comunista"</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere artigo 87, n.º I, da Constituição, e o artigo 6.º do Decreto-lei n.º 9.085, de 25 de março de 1946, e
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere artigo 87, n.º I, da Constituição, e o artigo 6.º do Decreto-lei n.º 9.085, de 25 de março de 1946, e
 
 CONSIDERANDO que as Leis n.º 4.269, de 17-1-1921, art. 12 e n.º 38, de 4 de abril de 1935, art. 29, promulgadas em regime constitucional, a primeira sob a constituição de 1891 e a segundo sob a de 1934, ambas do Congresso Nacional, impuseram ao Governo o dever de suspender ou fechar por prazo determinado as associações ou sociedades, que tenham adquirido personalidade jurídica mediante falsa declaração de seus fins, ou que, uma vez constituídas, passaram a exercer atividades contrárias à ordem pública ou social, desde que, sem demora, fosse proposta a ação judicial de dissolução das mesmas;
 
@@ -22,18 +20,18 @@ CONSIDERANDO, com efeito que ela se propõe, como a sua denominação inequivoca
 
 CONSIDERANDO assim, que o Governo faltaria a suas atribuições constitucionais se deixasse de cumprir, pelas formas legais, o dever que lhe incumbe, pela Constituição e as Leis, cuja execução o observância está disposto, pelos meios ao seu alcance, a assegurar, resguardando o bem público e a segurança coletiva e a do Estado:
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º É declarado suspenso, nos termos dos arts. 2.º e 6.º do Decreto-lei n.º 9.085, de 25 de março de 1946, pelo prazo de seis meses, o funcionamento, por qualquer forma, em todo o território nacional, da associação civil. "União da Juventude Comunista".
+**Art**. 1º É declarado suspenso, nos termos dos arts. 2.º e 6.º do Decreto-lei n.º 9.085, de 25 de março de 1946, pelo prazo de seis meses, o funcionamento, por qualquer forma, em todo o território nacional, da associação civil. "União da Juventude Comunista".
 
-<strong>Art</strong>. 2º O Ministério Público Federal, nos termos do art. 6.º, parágrafo único, do mesmo Decreto-lei, promoverá, imediatamente, no Juízo competente a dissolução da associação suspensa.
+**Art**. 2º O Ministério Público Federal, nos termos do art. 6.º, parágrafo único, do mesmo Decreto-lei, promoverá, imediatamente, no Juízo competente a dissolução da associação suspensa.
 
-<strong>Art</strong>. 3º O Ministro de Estado da Justiça e Negócios Interiores adotará as providências necessárias à pronta execução deste Decreto.
+**Art**. 3º O Ministro de Estado da Justiça e Negócios Interiores adotará as providências necessárias à pronta execução deste Decreto.
 
-<strong>Art</strong>. 4º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 15 de abril de 1947, 126.º da Independência e 59.º da República.
 
-<strong>Eurico G. Dutra</strong>
+**Eurico G. Dutra**
 
 Benedito Costa Netto

@@ -1,5 +1,3 @@
-###DEC-006926-0-000-06-08-2009@@@
-
 DECRETO Nº 6.926, DE 6 DE AGOSTO DE 2009.
 
 Autoriza a doação de matéria-prima florestal efetivamente produzida em empreendimentos de interesse público ou social ao Ministério do Desenvolvimento Social e Combate à Fome.

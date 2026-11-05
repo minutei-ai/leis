@@ -1,5 +1,3 @@
-###DEC-086992-0-000-08-03-1982@@@
-
 DECRETO Nº 86.992, DE 08 DE MARÇO DE 1982.
 
 Suspende, por inconstituicionalidade, a execução da Emenda Constitucional nº 18, de 22 de setembro de 1980, do Estado de São Paulo.

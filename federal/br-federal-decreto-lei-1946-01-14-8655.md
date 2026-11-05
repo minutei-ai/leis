@@ -1,5 +1,3 @@
-###DEL-008655-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.655 – DE 14 DE JANEIRO DE 1946
 
 Altera, sem aumento de despesa, o Orçamento Geral da República.

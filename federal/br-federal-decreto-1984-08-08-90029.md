@@ -1,5 +1,3 @@
-###DEC-090029-0-000-08-08-1984@@@
-
 Decreto nº 90.029, de 08 de agosto de 1984
 
 Concede novo prazo para o arrendamento do imóvel que menciona, situado no Município de Foz do Iguaçu, Estado do Paraná.

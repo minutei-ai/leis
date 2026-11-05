@@ -1,5 +1,3 @@
-###DEL-006056-0-000-02-12-1943@@@
-
 DECRETO-LEI N. 6.056 – DE 2 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 43.000.000,00 para aquisição de material e realização de obras udgentes

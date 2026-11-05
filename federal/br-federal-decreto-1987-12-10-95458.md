@@ -1,5 +1,3 @@
-###DEC-095458-0-000-10-12-1987@@@
-
 DECRETO Nº 95.458, DE 10 DE DEZEMBRO DE 1987
 
 Outorga concessão à TELEVISÃO JOVEM PAN LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de São Paulo, Estado de São Paulo.

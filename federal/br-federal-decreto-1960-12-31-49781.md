@@ -1,5 +1,3 @@
-###DEC-049781-0-000-31-12-1960@@@
-
 DECRETO Nº 49.781, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Bruce de Mendonça Clark a pesquisa areias ilmeníticas ao município de Araioses, Estado do Maranhão.

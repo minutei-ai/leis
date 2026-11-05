@@ -1,5 +1,3 @@
-###DEL-004562-0-000-10-08-1942@@@
-
 DECRETO-LEI N. 4.562 – DE 10 DE AGOSTO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a isentar a “Associação Brasileira de Imprensa” do pagamento do imposto que menciona

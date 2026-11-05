@@ -1,5 +1,3 @@
-###DEC-003277-0-000-07-12-1999@@@
-
 DECRETO Nº 3.277, DE 7 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a dissolução, liquidação e extinção da Rede Ferroviária Federal S.A. - RFFSA.

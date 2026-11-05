@@ -1,5 +1,3 @@
-###DEC-076624-0-000-18-11-1975@@@
-
 Decreto nº 76.624, de 18 de novembro de 1975.
 
 Declara-se de utilidade pública, para fins de desapropriação, o imóvel que menciona, destinado ao Ministério do Exército.

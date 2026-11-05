@@ -1,5 +1,3 @@
-###DEC-054634-0-000-27-10-1964@@@
-
 DECRETO Nº 54.634, DE 27 DE OUTUBRO DE 1964.
 
 Concede à Legal & General Assurance Society Limited autorização para aumentar o capital destinado às suas operações no país.

@@ -1,5 +1,3 @@
-###DEC-082442-0-000-18-10-1978@@@
-
 Decreto nº 82.442, de 18 de outubro de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão das Centrais Elétricas Matogrossenses S.A. - CEMAT, no Estado de Mato Grosso.

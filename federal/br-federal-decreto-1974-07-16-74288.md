@@ -1,5 +1,3 @@
-###DEC-074288-0-000-16-07-1974@@@
-
 DECRETO Nº 74.288 - DE 16 DE JULHO DE 1974.
 
 Cancela autorização para funcionamento no Brasil da L´Union des Assurances de Paris - I.A.R.D.

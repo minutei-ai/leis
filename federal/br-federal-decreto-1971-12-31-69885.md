@@ -1,5 +1,3 @@
-###DEC-069885-0-000-31-12-1971@@@
-
 DECRETO Nº 69.885 - DE 31 DE DEZEMBRO DE 1971
 
 Dispõe sôbre a incorporação dos direitos de lavra ao Ativo das emprêsas de mineração e dá outras providências.

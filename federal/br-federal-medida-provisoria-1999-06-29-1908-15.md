@@ -1,5 +1,3 @@
-###MPV-001908-0-015-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.908-15, DE 29 DE JUNHO DE 1999.
 
 Altera dispositivos da Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, e dá outras providências.

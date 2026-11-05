@@ -1,5 +1,3 @@
-###DEC-002821-0-000-27-10-1998@@@
-
 DECRETO Nº 2.821, DE 27 DE OUTUBRO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.567, de 28 de abril de 1998.

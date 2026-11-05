@@ -1,5 +1,3 @@
-###DEC-045285-0-000-26-01-1959@@@
-
 DECRETO Nº 45.285, DE 26 DE JANEIRO DE 1959.
 
 Autoriza o funcionamento do Conservatório Goiano de Música.

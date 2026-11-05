@@ -1,5 +1,3 @@
-###DEC-066491-0-000-24-04-1970@@@
-
 DECRETO Nº 66.491, DE 24 DE ABRIL dE 1970.
 
 Transfere para o Estado de Mato Grosso a competência sôbre estabelecimentos de Ensino Médio.

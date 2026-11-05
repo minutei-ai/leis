@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209726)<br>
-
 # DECRETO N° 68.700, DE 15 DE JULHO DE 2024
 
 ### _Dispõe sobre os procedimentos e critérios relativos à progressão dos empregados públicos de que tratam os artigos 21 a 24 da Lei Complementar n° 1.195, de 17 de janeiro de 2013._
@@ -10,7 +8,8 @@ Decreta:    
 
 **Artigo 1° -** Este decreto estabelece os procedimentos e critérios relativos à progressão dos empregados públicos permanentes, integrantes das carreiras de Agente Estadual de Trânsito e Oficial Estadual de Trânsito do Departamento Estadual de Trânsito de São Paulo - DETRAN SP, de que trata a [Lei Complementar n.° 1.195, de 17 de janeiro de 2013](https://www.al.sp.gov.br/norma/169266).    
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Avaliação de Desempenho Individual
 
 **Artigo 2° -** A avaliação de desempenho individual para fins de progressão é o conjunto de atos realizados anualmente para aferir as ações desenvolvidas pelo empregado público na execução de suas atividades e atribui-lhes pontos a partir de critérios objetivos e pré-definidos, de acordo com os seguintes fatores de competência:  
@@ -85,10 +84,12 @@ III - "c" corresponde à soma do conjunto da avaliação do superior mediato dos
 
 **Parágrafo único -** A consolidação dos resultados de cada ciclo de desempenho será feita no relatório de desempenho a que se refere o item 4 do parágrafo único do artigo 3° deste decreto.    
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Progressão
 
-#### Seção I<br>
+#### Seção I
+
 Disposições Gerais    
 
 **Artigo 7° -** Progressão é a passagem do empregado público permanente de um grau para o outro imediatamente superior, dentro da mesma classe e mediante processo de avaliação de desempenho.  
@@ -137,7 +138,8 @@ VII - classificação final;  
 
 VIII- expedição de ato específico do Diretor-Presidente do DETRAN-SP, progredindo os empregados públicos segundo sua classificação final, respeitado o número de vagas.    
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Dos Requisitos para Progressão
 
 **Artigo 12 -** Poderá participar do processo de progressão o empregado público que em 30 de junho do ano de referência do processo de progressão:  
@@ -164,7 +166,8 @@ III - não ter sofrido qualquer penalidade administrativa nos 36 (trinta e seis)
 
 7\. afastado por licença médica por, no máximo, 15 (quinze) dias por ciclo de desempenho.    
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Classificação Prévia da Progressão
 
 **Artigo 13 -** A classificação prévia para fins de progressão, em ordem decrescente de resultado, agrupada por classe e padrão, deverá ser publicada pela Gerência de Recursos Humanos da Diretoria de Administração do DETRAN-SP, no Diário Oficial do Estado, conforme cronograma estabelecido nos termos do artigo 10, inciso IV, deste decreto.  
@@ -193,7 +196,8 @@ III - maior tempo de efetivo exercício no padrão da classe atual de enquadrame
 
 IV - maior idade.    
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Dos Recursos e da Classificação Final
 
 **Artigo 15 -** O empregado público poderá apresentar recurso, fundamentado, ao Comitê de Recursos Humanos, uma única vez, no prazo de 7 (sete) dias úteis contados da data da publicação a que se refere o artigo 13 deste decreto, se discordar:  
@@ -206,14 +210,16 @@ III - da classificação prévia obtida.    
 
 **Artigo 16 -** O extrato da decisão referente aos recursos interpostos e a classificação final para fins de progressão serão publicados no Diário Oficial do Estado.    
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Da Homologação do Processo de Progressão
 
 **Artigo 17 -** O resultado do processo de progressão será homologado pelo Diretor Presidente do DETRAN-SP e deverá ser publicado no Diário Oficial do Estado, conforme cronograma a que se refere o inciso IV do artigo 10 deste decreto.    
 
 **Artigo 18 -** A progressão do empregado público far-se-á por ato da Gerência de Recursos Humanos, da Diretoria de Administração, do DETRAN-SP, nos termos do inciso VIII do artigo 36 do [Decreto n° 52.833, de 24 de março de 2008](https://www.al.sp.gov.br/norma/76584), e produzirá efeitos a partir de 1° de julho do ano de referência do processo de progressão.    
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Disposições Finais
 
 **Artigo 19 -** Ato do Diretor Presidente do DETRAN-SP disporá sobre as normas complementares para execução deste decreto, em especial sobre:  

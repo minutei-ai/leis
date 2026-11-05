@@ -1,5 +1,3 @@
-###DEL-001360-0-000-22-11-1974@@@
-
 # DECRETO-LEI Nº 1.360, DE 22 DE novembrO DE 1974
 
 Dispõe sobre a implantação gradualista do Plano de Classificação de Cargos de que trata a Lei nº 5.920, de 19 de setembro de 1973, e dá outras providências.

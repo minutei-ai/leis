@@ -1,5 +1,3 @@
-###DEC-076122-0-000-13-08-1975@@@
-
 DECRETO Nº 76.122 - DE 13 DE AGOSTO DE 1975
 
 Concede reconhecimento ao curso de Direito da Faculdade de Direito de Araçatuba, Estado de São Paulo.

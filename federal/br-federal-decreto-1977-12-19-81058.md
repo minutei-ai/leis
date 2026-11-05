@@ -1,5 +1,3 @@
-###DEC-081058-0-000-19-12-1977@@@
-
 DECRETO Nº 81.058, DE 19 DE DEZEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-058127-0-000-30-03-1966@@@
-
 Decreto nº 58.127, de 30 de março de 1966.
 
 Autoriza estrangeiros a adquirirem, em revigoração de aforamento, o domínio útil de fração ideal do terreno acrescido de marinha que menciona, no Estado da Guanabara.

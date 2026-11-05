@@ -93,7 +93,3 @@ Amilcar Vianna Martins Filho
 José Militão Costa
 
 Arésio A. de Almeida Dâmaso e Silva
-
-\================================================================
-
-Data da última atualização: 13/12/2007

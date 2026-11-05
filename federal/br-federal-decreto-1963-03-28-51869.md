@@ -1,5 +1,3 @@
-###DEC-051869-0-000-28-03-1963@@@
-
 DECRETO Nº 51.869, DE 28 DE MARÇO DE 1963.
 
 Aprova o Regimento da Comissão de Intercâmbio e Coordenação da Assistência Técnica Internacional (CICATI), criada pela Lei Delegada n.º 9, de 11 outubro de 1962.
@@ -127,8 +125,6 @@ Art. 16. As resoluções da CICATI terão caráter de sugestões apresentadas ao
 Art. 17. Os casos omissos do presente Regimento serão resolvidos pelo
 
 José Ermirio de Moraes
-
-###DEC-051869-0-000-28-03-1963@@@RET01+++
 
 decreto nº 51.869, de 28 de março de 1963.
 

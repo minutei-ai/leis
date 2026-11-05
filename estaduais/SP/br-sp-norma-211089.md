@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211089)<br>
-
 # DECRETO N° 69.644, DE 23 DE JUNHO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Guará, de parte do imóvel que especifica, e dá providências correlatas._

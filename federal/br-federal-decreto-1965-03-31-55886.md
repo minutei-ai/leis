@@ -1,5 +1,3 @@
-###DEC-055886-0-000-31-03-1965@@@
-
 DECRETO Nº 55.886, DE 31 DE MARÇO DE 1965
 
 Inclui mais dois membros na Comissão para as comemorações do centenário de “Iracema”, de José de Alencar.

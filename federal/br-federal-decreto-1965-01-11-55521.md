@@ -1,5 +1,3 @@
-###DEC-055521-0-000-11-01-1965@@@
-
 DECRETO Nº 55.521, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro José Vitti a pesquisar calcário dolomitico, no município de Rio Claro, Estado de São Paulo.

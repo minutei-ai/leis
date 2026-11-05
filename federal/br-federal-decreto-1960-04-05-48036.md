@@ -1,5 +1,3 @@
-###DEC-048036-0-000-05-04-1960@@@
-
 DECRETO Nº 48.036, DE 5 DE ABRIL DE 1960.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a firma Moinho Caramuru Ltda.

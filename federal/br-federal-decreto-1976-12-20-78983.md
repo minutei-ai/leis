@@ -1,5 +1,3 @@
-###DEC-078983-0-000-20-12-1976@@@
-
 DECRETO Nº 78.983, DE 20 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Pedagogia, de Letras, de Ciências e de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Alegre com sede na cidade de Alegre, Estado do Espirito Santo.

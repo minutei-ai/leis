@@ -42,34 +42,44 @@ VII – implantação e ampliação das ações educativas destinadas à supera�
 
 VIII – democratização do acesso e fruição dos espaços e serviços públicos.
 
-Art. 4º-A Especificamente quanto à saúde sexual e reprodutiva das mulheres em situação de rua, a Política Estadual instituída por esta Lei atenderá, prioritariamente, às seguintes diretrizes:<br>
+Art. 4º-A Especificamente quanto à saúde sexual e reprodutiva das mulheres em situação de rua, a Política Estadual instituída por esta Lei atenderá, prioritariamente, às seguintes diretrizes:
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-I – estimular a garantia da dignidade menstrual, com o fornecimento de absorventes higiênicos e demais produtos de higiene necessários nesse período;<br>
+I – estimular a garantia da dignidade menstrual, com o fornecimento de absorventes higiênicos e demais produtos de higiene necessários nesse período;
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-II – estimular a garantia do acesso anual a consultas ginecológicas ou com maior frequência, conforme as necessidades individuais de cada mulher;<br>
+II – estimular a garantia do acesso anual a consultas ginecológicas ou com maior frequência, conforme as necessidades individuais de cada mulher;
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-III – estimular a realização do exame Papanicolau, de acordo com as orientações da Secretaria Estadual de Saúde;<br>
+III – estimular a realização do exame Papanicolau, de acordo com as orientações da Secretaria Estadual de Saúde;
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-IV – estimular a realização do exame preventivo de mamografia para as mulheres acima de 40 (quarenta) anos de idade, ou abaixo dessa faixa etária de acordo com a necessidade individual de cada mulher;<br>
+IV – estimular a realização do exame preventivo de mamografia para as mulheres acima de 40 (quarenta) anos de idade, ou abaixo dessa faixa etária de acordo com a necessidade individual de cada mulher;
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-V – estimular a vacinação contra o papilomavírus humano – HPV;<br>
+V – estimular a vacinação contra o papilomavírus humano – HPV;
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-VI – estimular o acompanhamento psicológico e psiquiátrico;<br>
+VI – estimular o acompanhamento psicológico e psiquiátrico;
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-VII – estimular a realização do teste de doenças sexualmente transmissíveis;<br>
+VII – estimular a realização do teste de doenças sexualmente transmissíveis;
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-VIII – estimular o fornecimento de preservativos e anticoncepcionais;<br>
+VIII – estimular o fornecimento de preservativos e anticoncepcionais;
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
-IX – estimular a realização de campanhas de prevenção, proteção, diagnóstico, tratamento, reabilitação, cuidados paliativos e vigilância em saúde, com enfoque na mulher em situação de rua.<br>
+IX – estimular a realização de campanhas de prevenção, proteção, diagnóstico, tratamento, reabilitação, cuidados paliativos e vigilância em saúde, com enfoque na mulher em situação de rua.
+
 \- [Acrescido pela Lei nº 23.119, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109992).
 
 Art. 5º São objetivos da Política Estadual para a População em Situação de Rua de Goiás:
@@ -106,7 +116,8 @@ XV – criar meios de articulação entre o Sistema Único de Assistência Socia
 
 XVI – garantir ações de apoio e sustentação aos programas de habitação social que atendam à população em situação de rua, com o acompanhamento social desenvolvido por equipe multidisciplinar, nos períodos anterior e posterior à ida para o imóvel.
 
-XVII – garantir a efetividade da vedação do emprego de materiais, estruturas, equipamentos e técnicas construtivas hostis que tenham como objetivo ou resultado o afastamento de pessoas em situação de rua de espaços livres de uso público nas cidades, conforme previsto no inciso XX do art. 2º da Lei federal nº 10.257, de 10 de julho de 2001.<br>
+XVII – garantir a efetividade da vedação do emprego de materiais, estruturas, equipamentos e técnicas construtivas hostis que tenham como objetivo ou resultado o afastamento de pessoas em situação de rua de espaços livres de uso público nas cidades, conforme previsto no inciso XX do art. 2º da Lei federal nº 10.257, de 10 de julho de 2001.
+
 \- [Acrescido pela Lei nº 22.349, de 25-10-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107898/lei-22349).
 
 Art. 6º A Política Estadual para a População em Situação de Rua de Goiás será implementada de forma descentralizada e articulada com os Municípios e com as entidades da sociedade civil que a ela aderirem.

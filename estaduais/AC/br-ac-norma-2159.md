@@ -1,6 +1,10 @@
 > **LEI Nº 3.402, DE 27 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 2.148, de 21 de setembro de 2009, que Cria banco de horas no âmbito da Polícia Militar e do Corpo de Bombeiros Militar do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 2.148, de 21 de setembro de 2009, que Cria banco de horas no âmbito da Polícia Militar e do Corpo de Bombeiros Militar do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

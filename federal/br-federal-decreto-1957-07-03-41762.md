@@ -1,14 +1,12 @@
-###DEC-041762-0-000-03-07-1957@@@
+**DECRETO Nº 41.762, DE 3 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.762, DE 3 DE JULHO DE 1957.</strong>
+***Dá nova redação aos ns. 19, 21 e 22 do art. 1º do Decreto nº 40.781, de 17 de janeiro de 1957.***
 
-<em><strong>Dá nova redação aos ns. 19, 21 e 22 do art. 1º do Decreto nº 40.781, de 17 de janeiro de 1957.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, tendo em vista o § 16 do art. 141 da Constituição Federal e usando das atribuições que lhe confere o item I do art. 87 da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, tendo em vista o § 16 do art. 141 da Constituição Federal e usando das atribuições que lhe confere o item I do art. 87 da mesma Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passam a ter a redação seguinte os ns. 19, 21 e 22 do art. 1º do Decreto nº 40.781 de 17 de janeiro de 1957:
+**Art**. 1º Passam a ter a redação seguinte os ns. 19, 21 e 22 do art. 1º do Decreto nº 40.781 de 17 de janeiro de 1957:
 
 .....................................................................................................................................................
 
@@ -22,10 +20,10 @@
 
 .....................................................................................................................................................
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro ,3 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

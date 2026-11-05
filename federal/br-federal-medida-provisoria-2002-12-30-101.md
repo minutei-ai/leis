@@ -1,5 +1,3 @@
-###MPV-000101-0-000-30-12-2002@@@
-
 MEDIDA PROVISÓRIA N. 101 – DE 30 DE DEZEMBRO DE 2002
 
 Dispõe sobre a contribuição para o Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para Seguridade Social - COFINS devidas pelas sociedades cooperativas em geral.

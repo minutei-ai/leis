@@ -1,14 +1,12 @@
-###LEI-000483-0-000-24-08-1937@@@
+**LEI N. 483 – DE 24 DE AGÔSTO DE 1937**
 
-<strong>LEI N. 483 – DE 24 DE AGÔSTO DE 1937</strong>
-
-<em><strong>Discrimina os recursos que constituem a receita das Caixas de Economia de que trata o Regulamento para os Conselhos Econômicos da Marinha</strong></em>
+***Discrimina os recursos que constituem a receita das Caixas de Economia de que trata o Regulamento para os Conselhos Econômicos da Marinha***
 
 O Presidente da República dos Estados Unidos do Brasil:
 
 Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte lei:
 
-<strong>Art.</strong> 1º A receita das Caixas de Economias de que trata o Regulamento para os Conselhos Econômicos da Marinha será constituída dos seguintes recursos:
+**Art.** 1º A receita das Caixas de Economias de que trata o Regulamento para os Conselhos Econômicos da Marinha será constituída dos seguintes recursos:
 
 a) o produto das sobras lícitas de rações, demonstradas em balanço mensal;
 
@@ -26,12 +24,12 @@ e) parte dos saldos das Caixas extintas, distribuído na forma regulamentar.
 
 § 3º Sòmente nos hospitais, sanatórios e enfermarias que tenham administração autônoma poderão ser arrecadadas em proveito das Caixas de Economias, sobras dos artigos fornecidos para dietas, de acôrdo com a respectiva tabela. São excluídos desta permissão os artigos que constituem dietas extraordinárias.
 
-<strong>Art.</strong> 2º O funcionamento das Caixas de Economias continua subordinado às normas estabelecidas pelo Regulamento em vigor para os Conselhos Econômicos da Marinha, aprovado pelo decreto n. 22.098, de 17 de novembro de 1932.
+**Art.** 2º O funcionamento das Caixas de Economias continua subordinado às normas estabelecidas pelo Regulamento em vigor para os Conselhos Econômicos da Marinha, aprovado pelo decreto n. 22.098, de 17 de novembro de 1932.
 
-<strong>Art.</strong> 3º Revogam-se, as disposições em contrário.
+**Art.** 3º Revogam-se, as disposições em contrário.
 
 Rio de Janeiro, em 24 de agôsto de 1937, 116º da Independência e 49º da República.
 
-<strong>GETULIO VARGAS.</strong>
+**GETULIO VARGAS.**
 
 Henrique A. Guilhem.

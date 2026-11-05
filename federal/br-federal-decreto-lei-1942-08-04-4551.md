@@ -1,5 +1,3 @@
-###DEL-004551-0-000-04-08-1942@@@
-
 DECRETO-LEI N. 4.551 – DE 4 DE AGOSTO DE 1942
 
 Dispõe sobre operações do Instituto de Previdência e Assistência dos Servidores do Estado

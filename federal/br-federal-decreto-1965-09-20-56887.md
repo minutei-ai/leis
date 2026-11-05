@@ -1,5 +1,3 @@
-###DEC-056887-0-000-20-09-1965@@@
-
 DECRETO Nº 56.887, DE 20 DE SETEMBRO DE 1965.
 
 Altera o Regimento da Comissão de Classificação de Cargos.

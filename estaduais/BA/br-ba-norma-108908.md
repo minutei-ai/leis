@@ -1,6 +1,7 @@
 LEI Nº 7.988 DE 21 DE DEZEMBRO DE 2001
 
-Ver também:<br>
+Ver também:
+
 Lei nº 9.509, de 20 de maio de 2005 - Altera a Lei nº 7.988, de 21 de dezembro de 2001, que criou a Secretaria de Combate à Pobreza e às Desigualdades Sociais SECOMP e o Fundo Estadual de Combate e Erradicação da Pobreza, e dá outras providências.
 
 Cria a Secretaria de Combate à Pobreza e às Desigualdades Sociais e o Fundo Estadual de Combate e Erradicação da Pobreza e dá outras providências.
@@ -35,16 +36,26 @@ e) Superintendência de Apoio à Inclusão Social;
 
 f) Superintendência de Articulação e Programas Especiais.
 
-Estrutura básica da Secretaria de Combate à Pobreza e às Desigualdades Sociais, de acordo com o art. 1º da Lei nº 9.509, de 20 de maio de 2005.<br>
-Estrutura básica original: "I - Órgãos Colegiados:<br>
-a) Conselho de Políticas de Inclusão Social;<br>
-b) Câmara Técnica de Gestão de Programas.<br>
-II - Órgãos da Administração Direta:<br>
-a) Gabinete do Secretário;<br>
-b) Diretoria Geral;<br>
-c) Diretoria Executiva do Fundo Estadual de Combate e Erradicação da Pobreza;<br>
-d) Coordenação de Relações e Informações Comunitárias;<br>
-e) Superintendência de Apoio à Inclusão Social;<br>
+Estrutura básica da Secretaria de Combate à Pobreza e às Desigualdades Sociais, de acordo com o art. 1º da Lei nº 9.509, de 20 de maio de 2005.
+
+Estrutura básica original: "I - Órgãos Colegiados:
+
+a) Conselho de Políticas de Inclusão Social;
+
+b) Câmara Técnica de Gestão de Programas.
+
+II - Órgãos da Administração Direta:
+
+a) Gabinete do Secretário;
+
+b) Diretoria Geral;
+
+c) Diretoria Executiva do Fundo Estadual de Combate e Erradicação da Pobreza;
+
+d) Coordenação de Relações e Informações Comunitárias;
+
+e) Superintendência de Apoio à Inclusão Social;
+
 f) Superintendência de Articulação e Programas Especiais."
 
 § 1º - O Conselho de Políticas de Inclusão Social, presidido pelo Governador do Estado, tem a finalidade de formular políticas e diretrizes, avaliar os programas e ações governamentais voltados para a redução da pobreza e das desigualdades sociais, bem como estabelecer a programação a ser financiada com recursos provenientes do Fundo Estadual de Combate e Erradicação da Pobreza.
@@ -89,24 +100,30 @@ Art. 3º - Para atender à implantação da Secretaria de que trata esta Lei, fi
 
 Art. 4º - Fica instituído, para vigorar por prazo indeterminado, o Fundo Estadual de Combate e Erradicação da Pobreza, com o objetivo de viabilizar à população do Estado o acesso a níveis dignos de vida cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço da renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida.
 
-Redação de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-11610-de-28-de-setembro-de-2009#art1) da Lei nº 11.610, de 28 de setembro de 2009.<br>
+Redação de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-11610-de-28-de-setembro-de-2009#art1) da Lei nº 11.610, de 28 de setembro de 2009.
+
 Redação original: "Art. 4º - Fica instituído, para vigorar até o ano de 2010, o Fundo Estadual de Combate e Erradicação da Pobreza, com o objetivo de viabilizar à população do Estado o acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço da renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida."
 
 § 1º - Os recursos do Fundo serão aplicados única e exclusivamente em despesas finalísticas destinadas ao combate à pobreza, salvo para atender as despesas com pessoal da Secretaria de Combate à Pobreza e às Desigualdades Sociais, garantindo-se a destinação de no mínimo 10% (dez por cento) do orçamento anual do Fundo para ações do Sistema Estadual de Promoção da Igualdade Racial - SISEPIR.
 
-Redação de acordo com o [art. 88](javascript: openDoc\() da Lei nº 13.182, de 06 de junho de 2014.<br>
-Redação anteriror de acordo com o art. 5º da Lei nº 9.509, de 20 de maio de 2005: "§ 1º - Os recursos do Fundo serão aplicados única e exclusivamente em despesas com ações finalísticas, salvo para atender as despesas com pessoal da Secretaria de Combate à Pobreza e às Desigualdades Sociais."<br>
+Redação de acordo com o [art. 88](javascript: openDoc\() da Lei nº 13.182, de 06 de junho de 2014.
+
+Redação anteriror de acordo com o art. 5º da Lei nº 9.509, de 20 de maio de 2005: "§ 1º - Os recursos do Fundo serão aplicados única e exclusivamente em despesas com ações finalísticas, salvo para atender as despesas com pessoal da Secretaria de Combate à Pobreza e às Desigualdades Sociais."
+
 Redação original: "§ 1º - Os recursos do Fundo serão aplicados única e exclusivamente em despesas finalísticas."
 
 § 2º - O Fundo será gerido pela Casa Civil, segundo a programação estabelecida pelo Conselho de Políticas de Inclusão Social.
 
-Redação de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-11610-de-28-de-setembro-de-2009#art1) da Lei nº 11.610, de 28 de setembro de 2009.<br>
+Redação de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-11610-de-28-de-setembro-de-2009#art1) da Lei nº 11.610, de 28 de setembro de 2009.
+
 Redação original: "§ 2º - O Fundo será gerido pela Secretaria de Combate à Pobreza e às Desigualdades Sociais, segundo a programação estabelecida pelo Conselho de Políticas de Inclusão Social."
 
 § 3º - Os recursos do Fundo poderão ser alocados diretamente nos programas de trabalho de outros órgãos, secretarias ou entidades da Administração Pública Estadual, para financiar ações que contribuam para a consecução de diretrizes, objetivos e metas previstas no Plano Estadual de Combate e Erradicação da Pobreza, bem como as fixadas no Estatuto da Igualdade Racial e de Combate à Intolerância Religiosa, observadas, em qualquer caso, as finalidades estabelecidas no art. 4º desta lei.
 
-Redação de acordo com o [art. 88](javascript: openDoc\() da Lei nº 13.182, de 06 de junho de 2014.<br>
-Redação original: "§ 3º - Os recursos do Fundo poderão ser alocados diretamente nos programas de trabalho de outros órgãos, secretarias ou entidades da Administração Pública Estadual, para financiar ações que contribuam para a consecução de diretrizes, objetivos e metas previstas no Plano Estadual de Combate e Erradicação da Pobreza."<br>
+Redação de acordo com o [art. 88](javascript: openDoc\() da Lei nº 13.182, de 06 de junho de 2014.
+
+Redação original: "§ 3º - Os recursos do Fundo poderão ser alocados diretamente nos programas de trabalho de outros órgãos, secretarias ou entidades da Administração Pública Estadual, para financiar ações que contribuam para a consecução de diretrizes, objetivos e metas previstas no Plano Estadual de Combate e Erradicação da Pobreza."
+
 § 3º acrescido ao art. 4º pelo art. 5º da Lei nº 9.509, de 20 de maio de 2005.
 
 § 4º - O Órgão gestor do Fundo poderá solicitar, a qualquer momento, aos órgãos, secretarias e entidades referidos no parágrafo anterior, demonstrativos e relatórios sobre a execução físico-financeira das ações, sem prejuízo da prestação de contas e informações aos órgãos de controle interno e externo.
@@ -129,7 +146,8 @@ VI - outros recursos eventuais ou que legalmente lhe sejam atribuídos.
 
 Parágrafo único - Os recursos destinados ao Fundo serão inteiramente recolhidos em conta única e específica, aberta em instituição financeira autorizada pelo Poder Executivo, podendo ser movimentados, também, pelos órgãos e entidades que executem ações por ele financiadas, conforme previsto no § 4º, do art. 4º, desta Lei.
 
-Redação do parágrafo único do art. 5º de acordo com o art. 5º da Lei nº 9.509, de 20 de maio de 2005.<br>
+Redação do parágrafo único do art. 5º de acordo com o art. 5º da Lei nº 9.509, de 20 de maio de 2005.
+
 Redação original: "Parágrafo único - Os recursos destinados ao Fundo serão inteiramente recolhidos em conta única e específica, aberta em instituição financeira autorizada pelo Poder Executivo."
 
 Art. 6º - Fica atribuída à Secretaria de Combate à Pobreza e às Desigualdades Sociais a coordenação do Programa Faz Cidadão e do Projeto Alvorada.
@@ -228,4 +246,134 @@ Secretário da Cultura e Turismo
 
 Redação do Anexo Único de acordo com o art. 4º da Lei nº 9.509, de 20 de maio de 2005.
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 3.55pt 0cm 3.55pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 194.9pt; border: none; border-top: solid black 1.0pt; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">CARGO</p></td><td style="width: 148.8pt; border: none; border-top: solid black 1.0pt; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">SÍMBOLO</p></td><td style="width: 119.35pt; border: none; border-top: solid black 1.0pt; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 194.9pt; border: none; border-top: solid black 1.0pt; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Chefe de Gabinete</p></td><td style="width: 148.8pt; border: none; border-top: solid black 1.0pt; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2A</p></td><td style="width: 119.35pt; border: none; border-top: solid black 1.0pt; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Superintendente</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2A</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor Geral</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2B</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2B</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador Executivo</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2B</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Assessor Especial</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador I</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">08</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador Técnico</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2D</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor Adjunto</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-2D</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Assessor Técnico</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">09</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Assessor de Comunicação Social I</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Secretário de Gabinete</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador II</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">31</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Assistente de Conselho I</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador III</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">25</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Assistente Orçamentário</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Oficial de Gabinete</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Secretário Administrativo I</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">08</p></td></tr><tr><td style="width: 194.9pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador IV</p></td><td style="width: 148.8pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 119.35pt; border: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 194.9pt; border: none; border-bottom: solid black 1.0pt; mso-border-bottom-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="260"><p class="Tabela-Texto">Secretário Administrativo II</p></td><td style="width: 148.8pt; border: none; border-bottom: solid black 1.0pt; mso-border-bottom-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="198"><p class="Tabela-Texto">DAI-6</p></td><td style="width: 119.35pt; border: none; border-bottom: solid black 1.0pt; mso-border-bottom-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="159"><p class="Tabela-Texto">03</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Chefe de Gabinete
+
+DAS-2A
+
+01
+
+Superintendente
+
+DAS-2A
+
+02
+
+Diretor Geral
+
+DAS-2B
+
+01
+
+Diretor
+
+DAS-2B
+
+01
+
+Coordenador Executivo
+
+DAS-2B
+
+01
+
+Assessor Especial
+
+DAS-2C
+
+03
+
+Diretor
+
+DAS-2C
+
+01
+
+Coordenador I
+
+DAS-2C
+
+08
+
+Coordenador Técnico
+
+DAS-2D
+
+03
+
+Diretor Adjunto
+
+DAS-2D
+
+01
+
+Assessor Técnico
+
+DAS-3
+
+09
+
+Assessor de Comunicação Social I
+
+DAS-3
+
+01
+
+Secretário de Gabinete
+
+DAS-3
+
+01
+
+Coordenador II
+
+DAS-3
+
+31
+
+Assistente de Conselho I
+
+DAS-3
+
+01
+
+Coordenador III
+
+DAI-4
+
+25
+
+Assistente Orçamentário
+
+DAI-4
+
+02
+
+Oficial de Gabinete
+
+DAI-5
+
+02
+
+Secretário Administrativo I
+
+DAI-5
+
+08
+
+Coordenador IV
+
+DAI-5
+
+02
+
+Secretário Administrativo II
+
+DAI-6
+
+03

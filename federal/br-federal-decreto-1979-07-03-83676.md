@@ -1,5 +1,3 @@
-###DEC-083676-0-000-03-07-1979@@@
-
 Decreto nº 83.676, de 03 de julho de 1979.
 
 Concede reconhecimento à habilitação licenciatura de 1º grau do curso de Ciências da Faculdade de Filosofia, Ciências e Letras Camilo Castelo Branco, com sede na cidade de São Paulo, Estado de São Paulo.

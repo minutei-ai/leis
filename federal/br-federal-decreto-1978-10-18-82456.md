@@ -1,5 +1,3 @@
-###DEC-082456-0-000-18-10-1978@@@
-
 Decreto nº 82.456, de 18 de outubro de 1978
 
 Concede à Valinho Minerais Ltda. o direito de lavrar calcário no Município de Capim Branco, Estado de Minas Gerais.

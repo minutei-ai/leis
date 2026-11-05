@@ -1,5 +1,3 @@
-###DEC-005924-0-000-04-10-2006@@@
-
 DECRETO Nº 5.924, DE 4 DE OUTUBRO DE 2006.
 
 Regula a concessão do Prêmio Almirante Álvaro Alberto para Ciência e Tecnologia.
@@ -39,5 +37,3 @@ Brasília,  4  de  outubro   de 2006; 185o da Independência e 118o da Rep�
 LUIZ INÁCIO LULA DA SILVA
 
 Sérgio Machado Rezende
-
-Este texto não substitui o publicado no D.O.U. de 5.10.2006

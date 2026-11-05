@@ -1,5 +1,3 @@
-###DEC-087191-0-000-19-05-1982@@@
-
 Decreto nº 87.191, de 19 de maio de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado da Bahia.

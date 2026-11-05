@@ -1,5 +1,3 @@
-###DEC-082373-0-000-04-10-1978@@@
-
 Decreto nº 82 373, de 04 de outubro de 1978.
 
 Concede reconhecimento ao curso de Enfermagem e Obstetrícia do Centro de Ciências Biológicas e da Saúde, com sede na cidade de Campina Grande, Estado da Paraíba.

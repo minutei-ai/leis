@@ -2,10 +2,10 @@
 
 Altera o disposto no § 4º-A do art. 101 da Constituição do Estado de Goiás.
 
-A **MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS,** nos termos do § 3º do art. 19 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), promulga a seguinte Emenda ao texto Constitucional:<br>
+A **MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS,** nos termos do § 3º do art. 19 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), promulga a seguinte Emenda ao texto Constitucional:
 
-Art. 1º A Constituição do Estado de Goiás passa a vigorar com a seguinte alteração:<br>
-<br>
+Art. 1º A Constituição do Estado de Goiás passa a vigorar com a seguinte alteração:
+
                           "Art. 101.  .............................................................
 
 ...............................................................................
@@ -16,8 +16,7 @@ Art. 1º A Constituição do Estado de Goiás passa a vigorar com a seguinte alt
 
 Art. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
-**ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, em Goiânia, 16 de dezembro de 2021.<br>
-<br>
+**ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, em Goiânia, 16 de dezembro de 2021.
 
 **DEPUTADO LISSAUER VIEIRA**
 

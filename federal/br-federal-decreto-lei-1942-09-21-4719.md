@@ -1,5 +1,3 @@
-###DEL-004719-0-000-21-09-1942@@@
-
 DECRETO-LEI N. 4.719 – DE 21 DE SETEMBRO DE 1942
 
 Extingue diversos órgãos atuarias no Ministério do Trabalho, Indústria e Comércio

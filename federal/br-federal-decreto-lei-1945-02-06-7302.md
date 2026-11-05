@@ -1,5 +1,3 @@
-###DEL-007302-0-000-06-02-1945@@@
-
 DECRETO-LEI N. 7.302 – DE 6 DE FEVEREIRO DE 1945
 
 Modifica a redação do art. 42 ao Decreto-lei nº 6.365, de 23 de março de 1944

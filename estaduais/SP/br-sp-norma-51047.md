@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51047)
-
 # LEI Nº 11.729, DE 25 DE MAIO DE 2004
 
 ## ( PL 732/2003 - Edson Aparecido)

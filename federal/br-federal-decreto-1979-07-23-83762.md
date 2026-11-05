@@ -1,5 +1,3 @@
-###DEC-083762-0-000-23-07-1979@@@
-
 DECRETO Nº 83.762 DE 23 DE JULHO DE 1979.
 
 Concede reconhecimento ao curso de Educação Artística da Universidade Federal de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

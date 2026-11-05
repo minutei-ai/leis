@@ -1,5 +1,3 @@
-###DEC-088355-0-000-06-06-1983@@@
-
 # Decreto nº 88.355, de 06 de junho de 1983
 
 Altera dispositivo do Decreto nº 72.493, de 19 de julho de 1973, que dispõe sobre o Grupo-Outras Atividades de Nível Superior.

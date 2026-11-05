@@ -1,5 +1,3 @@
-###DEC-059113-0-000-22-08-1966@@@
-
 DECRETO Nº 59.113, DE 22 DE AGôSTO DE 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Rio Negro, Estado do Paraná.

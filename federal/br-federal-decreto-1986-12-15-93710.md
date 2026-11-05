@@ -1,5 +1,3 @@
-###DEC-093710-0-000-15-12-1986@@@
-
 DECRETO Nº 93.710, DE 15 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Rio da Lagoa", situado no Município de Mafra, no Estado de Santa Catarina, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.693, de 19 de maio de 1986 e dá outras providências.

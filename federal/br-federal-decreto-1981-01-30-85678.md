@@ -1,5 +1,3 @@
-###DEC-085678-0-000-30-01-1981@@@
-
 DECRETO Nº 85.678, DE 30 DE JANEIRO DE 1981
 
 Altera o Decreto nº 82.476, de 23 de outubro de 1978, que estabelece normas para o escoamento e a comercialização do álcool para fins carburantes.

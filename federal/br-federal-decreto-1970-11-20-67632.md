@@ -1,5 +1,3 @@
-###DEC-067632-0-000-20-11-1970@@@
-
 Decreto Nº 67.632, DE 20 DE NOVEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial do Ministério da Agricultura cargo originário do Quadro de Pessoal do Ministério da Saúde.

@@ -1,5 +1,3 @@
-###DEC-061744-0-000-23-11-1967@@@
-
 DECRETO Nº 61.744, DE 23 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, a área de terreno situada na BR-116-RS (Rodovia Barra Mansa - RJ - Jaguarão - RS.)

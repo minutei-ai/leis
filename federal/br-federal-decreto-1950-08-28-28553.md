@@ -1,14 +1,12 @@
-###DEC-028553-0-000-28-08-1950@@@
+**DECRETO Nº 28.553, DE 28 DE AGÔSTO DE 1950.**
 
-<strong>DECRETO Nº 28.553, DE 28 DE AGÔSTO DE 1950.</strong>
+***Altera o Regulamento aprovado pelo Decreto nº 8.401, de 16-12-941.***
 
-<em><strong>Altera o Regulamento aprovado pelo Decreto nº 8.401, de 16-12-941.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O artigo 2º do Regulamento para o Corpo do Pessoal Subalterno da Aeronáutica, aprovado pelo Decreto nº 8.401, de 16 de dezembro de 1941, passa a vigorar com a seguinte redação:
+**Art**. 1º O artigo 2º do Regulamento para o Corpo do Pessoal Subalterno da Aeronáutica, aprovado pelo Decreto nº 8.401, de 16 de dezembro de 1941, passa a vigorar com a seguinte redação:
 
 “Art. 2º O C.P.S.Aer. compreende, inicialmente os seguintes ramos e quadros de pessoal combatente e dos serviços:
 
@@ -48,12 +46,12 @@ a) Quadro de Taiferos - (Q-TA).
 
 § 2º Essas subespecialidades são fixadas por ato do Ministro e possuem efetivos próprios.”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 28 de agôsto de 1950; 129º da independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Armando Trompowsky

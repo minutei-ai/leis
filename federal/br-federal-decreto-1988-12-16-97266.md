@@ -1,5 +1,3 @@
-###DEC-097266-0-000-16-12-1988@@@
-
 DECRETO N° 97.266, DE 16 DE DEZEMBRO DE 1988
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou insti­tuição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A -   PETROBRÁS, os imóveis consti­tuídos de terras e benfeitorias, de proprie­dade particular, situados nos Municípios de Caraúbas, Governador Dix-Sept Rosado, Mossoró, Areia Branca, Upanema, Açu, Serra do Mel, Carnaubais, Alto do Rodri­gues, Pendências, Macau e Guamaré, no Estado do Rio Grande do Norte, necessá­rios à construção de dutos de transporte e instalações complementares, para os cam­pos produtores de gás e óleo do sul de Mossoró e Canto do Amaro.

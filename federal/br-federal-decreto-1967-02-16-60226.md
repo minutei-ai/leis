@@ -1,5 +1,3 @@
-###DEC-060226-0-000-16-02-1967@@@
-
 DECRETO Nº 60.226, DE 16 DE FEVEREIRO DE 1967.
 
 Cria o Consulado Honorário do Brasil em Nassau, Bahamas.

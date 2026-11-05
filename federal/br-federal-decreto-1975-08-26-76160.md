@@ -1,5 +1,3 @@
-###DEC-076160-0-000-26-08-1975@@@
-
 DECRETO Nº 76.160 - DE 26 DE AGOSTO DE 1975
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Mandaguari, mantida pela Fundação Faculdade de Filosofia, Ciências e Letras de Mandaguari, Estado do Paraná.

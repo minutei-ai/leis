@@ -1,22 +1,20 @@
-###DEC-024542-0-000-19-02-1948@@@
+**DECRETO Nº 24.542, DE 19 DE FEVEREIRO DE 1948.**
 
-<strong>DECRETO Nº 24.542, DE 19 DE FEVEREIRO DE 1948.</strong>
+***Concede à sociedade “R. Beca & Co. S. L., Indústrias Agrícolas” autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade “R. Beca & Co. S. L., Indústrias Agrícolas” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REÚBLICA,** atendendo ao que requerem a sociedade “R. Beca & Co. S. L., Indústrias Agrícolas”
 
-<strong>O PRESIDENTE DA REÚBLICA,</strong> atendendo ao que requerem a sociedade “R. Beca & Co. S. L., Indústrias Agrícolas”
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à sociedade “R. Beca & Co. S. L., Indústrias Agrícolas”, com sede na cidade de Alacá de Guadaíra, Espanha, autorização para funcionar na República, com os estatutos que apresentou e com o capital de Cr$500.000,00 (quinhentos mil cruzeiros) destinado às suas onerações no Brasil, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado de Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sobre o objeto da referida autorização.
 
 Rio de Janeiro, 19 de fevereiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 24.542, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 24.542, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer uma das cláusulas para a qual não esteja cominada pen
 
 Rio de Janeiro, 19 de fevereiro de 1948.
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

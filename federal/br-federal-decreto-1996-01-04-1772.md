@@ -1,5 +1,3 @@
-###DEC-001772-0-000-04-01-1996@@@
-
 DECRETO Nº 1.772, DE 04 DE JANEIRO DE 1996
 
 Dispõe sobre o remanejamento de cargos em comissão que menciona.

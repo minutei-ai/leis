@@ -1,5 +1,3 @@
-###DEC-058266-0-000-27-04-1966@@@
-
 DECRETO Nº 58.266, DE 27 DE ABRIL de 1966.
 
 Institui normas para a realização da IV Conferência Nacional de Saúde, e dá outras providências.

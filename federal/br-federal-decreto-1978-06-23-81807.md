@@ -1,5 +1,3 @@
-###DEC-081807-0-000-23-06-1978@@@
-
 Decreto nº 81.807, de 23 de junho de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, situados na cidade de Fortaleza, no Estado do Ceará, necessários ao Ministério da Aeronáutica

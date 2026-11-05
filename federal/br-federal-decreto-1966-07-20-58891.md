@@ -1,5 +1,3 @@
-###DEC-058891-0-000-20-07-1966@@@
-
 DECRETO Nº 58.891, DE 20 DE JULHO DE 1966.
 
 Renova o Decreto nº 53.807, de 23 de março de 1964.

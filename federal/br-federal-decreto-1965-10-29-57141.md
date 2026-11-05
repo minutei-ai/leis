@@ -1,5 +1,3 @@
-###DEC-057141-0-000-29-10-1965@@@
-
 DECRETO Nº 57.141, DE 29 DE OUTUBRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Sagres, relativa ao aumento do capital Social.

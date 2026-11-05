@@ -1,5 +1,3 @@
-###DEL-005312-0-000-10-03-1943@@@
-
 DECRETO‑LEI N. 5.312 – DE 10 DE MARÇO BE 1943
 
 Lei de Organização do Exército – Atualização do decreto‑lei n. 413, de 6 de maio de 1938

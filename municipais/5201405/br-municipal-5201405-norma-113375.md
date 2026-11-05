@@ -4,7 +4,8 @@ Dispõe sobre a contratação por tempo determinado para atender à necessidade 
 
 Faço saber que a CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA aprovou e eu, PREFEITO MUNICIPAL, sanciono a seguinte lei:
 
-Art. 1° Para atender a necessidade temporária de excepcional interesse público, os órgãos da administração direta, autárquica e fundacional do Poder Executivo poderão contratar pessoal por tempo determinado, pelo prazo máximo de 03 (três) anos, podendo ser prorrogado por necessidade de conveniência e oportunidade da administração pública, sendo ainda permitida a recontratação na mesma ou em outra função.<br>
+Art. 1° Para atender a necessidade temporária de excepcional interesse público, os órgãos da administração direta, autárquica e fundacional do Poder Executivo poderão contratar pessoal por tempo determinado, pelo prazo máximo de 03 (três) anos, podendo ser prorrogado por necessidade de conveniência e oportunidade da administração pública, sendo ainda permitida a recontratação na mesma ou em outra função.
+
 (Redação alterada pela Lei Ordinária nº 3.328, de 22 de julho de 2016).
 
 ~~Art. 1º - Para atender a necessidade temporária de excepcional interesse publico, os órgãos da administração direta, autárquica e fundacional do Poder Executivo poderão contratar pessoal por tempo determinado, pelo prazo máximo de 02 (dois) anos, dentro do qual será permitida a recontratação na mesma ou em outra função.~~
@@ -29,10 +30,12 @@ VIII - atendimento urgente a exigências do serviço, em decorrência da falta d
 
 IX – vigilância e inspeção, relacionadas com a defesa agropecuária, no âmbito da Secretaria de Saúde e de suas jurisdicionadas, para atendimento de situações emergenciais ligadas ao comércio municipal de produtos de origem animal ou vegetal ou de iminente risco à saúde animal, vegetal ou humana.
 
-X – admissão de profissional de assistência social, de acordo com a NOB-SUAS/RH, bem como outros recursos humanos na área da assistência social, também em regime de substituição, necessários ao desenvolvimento de atividades e de programas sociais de convênios e/ou de contratos firmados com a União e Estado, suas autarquias e fundações.<br>
+X – admissão de profissional de assistência social, de acordo com a NOB-SUAS/RH, bem como outros recursos humanos na área da assistência social, também em regime de substituição, necessários ao desenvolvimento de atividades e de programas sociais de convênios e/ou de contratos firmados com a União e Estado, suas autarquias e fundações.
+
 (Redação acrescentada pela Lei Ordinária nº 3.328, de 22 de julho de 2016).
 
-Parágrafo único - A contratação de professor e de profissional de saúde substitutos, bem como de outros recursos humanos na área de saúde, também em regime de substituição, aos quais se referem o inciso IV e V, far-se-á exclusivamente para suprir a falta de profissionais da carreira, decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamento para capacitação e afastamento ou licença obrigatória, não se aplicando este dispositivo ao profissional da assistência social, mencionado no inciso X do artigo 2º, o previsto no Art.10, III.<br>
+Parágrafo único - A contratação de professor e de profissional de saúde substitutos, bem como de outros recursos humanos na área de saúde, também em regime de substituição, aos quais se referem o inciso IV e V, far-se-á exclusivamente para suprir a falta de profissionais da carreira, decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamento para capacitação e afastamento ou licença obrigatória, não se aplicando este dispositivo ao profissional da assistência social, mencionado no inciso X do artigo 2º, o previsto no Art.10, III.
+
 (Redação alterada pela Lei Ordinária nº 3.328, de 22 de julho de 2016).
 
 ~~Parágrafo único - A contratação de professor e de profissional de saúde substitutos, bem como de outros recursos humanos na área de saúde, também em regime de substituição, aos quais se referem o inciso IV e V, far-se-á exclusivamente para suprir a falta de profissionais da carreira, decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamento para capacitação e afastamento ou licença obrigatória.~~
@@ -83,14 +86,18 @@ II – ser nomeado ou designado, ainda que a título precário ou em substituiç
 
 ~~III – ser novamente contratado, com fundamento nesta Lei, antes de decorrido 02 (dois) anos do encerramento de seu contrato anterior, salvo na hipótese prevista no inciso I do art. 2°, mediante prévia autorização.~~
 
-~~§1º - A inobservância do disposto neste artigo importará na rescisão do contrato nos casos dos incisos I e II, ou na declaração da sua insubsistência, no caso do inciso III, sem prejuízo da responsabilidade administrativa das autoridades envolvidas na transgressão.~~ <br>
+~~§1º - A inobservância do disposto neste artigo importará na rescisão do contrato nos casos dos incisos I e II, ou na declaração da sua insubsistência, no caso do inciso III, sem prejuízo da responsabilidade administrativa das autoridades envolvidas na transgressão.~~ 
+
 ~~(Redação alterada pela Lei Ordinária nº 3.328, de 22 de julho de 2016).~~
 
-~~§2º - Não se aplica o estabelecido no inciso III, ao profissional de assistência social, tendo em vista o vínculo afetivo criado entre o servidor e o usuário do Sistema Único de Assistência Social – SUAS, no desenvolvimento do Programa Social, podendo ser reconduzido, de acordo com a conveniência e oportunidade da administração pública municipal, após prévia avaliação e aprovação da Secretaria de Assistência Social.~~<br>
-~~(Redação acrescentada pela Lei Ordinária nº 3.328, de 22 de julho de 2016).~~<br>
+~~§2º - Não se aplica o estabelecido no inciso III, ao profissional de assistência social, tendo em vista o vínculo afetivo criado entre o servidor e o usuário do Sistema Único de Assistência Social – SUAS, no desenvolvimento do Programa Social, podendo ser reconduzido, de acordo com a conveniência e oportunidade da administração pública municipal, após prévia avaliação e aprovação da Secretaria de Assistência Social.~~
+
+~~(Redação acrescentada pela Lei Ordinária nº 3.328, de 22 de julho de 2016).~~
+
 (Revogado pela Lei Ordinária nº 3.891, de 25 de fevereiro de 2026).
 
-Parágrafo único – A inobservância do disposto neste artigo importará na rescisão do contrato nos casos dos incisos I e II, ou na declaração da sua insubsistência.<br>
+Parágrafo único – A inobservância do disposto neste artigo importará na rescisão do contrato nos casos dos incisos I e II, ou na declaração da sua insubsistência.
+
 (Redação dada pela Lei Ordinária nº 3.891, de 25 de fevereiro de 2026).
 
 ~~Parágrafo único – A inobservância do disposto neste artigo importará na rescisão do contrato nos casos dos incisos I e II, ou na declaração da sua insubsistência, no caso do inciso III, sem prejuízo da responsabilidade administrativa das autoridades envolvidas na transgressão.~~
@@ -121,11 +128,14 @@ Art. 14 - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos cinco dias do mês de janeiro de dois mil e quatro.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-RONALDO AGUIAR DA SILVA<br>
+RONALDO AGUIAR DA SILVA
+
 SEC. DE ADMINISTRAÇÃO

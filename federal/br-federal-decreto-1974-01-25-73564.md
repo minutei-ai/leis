@@ -1,5 +1,3 @@
-###DEC-073564-0-000-25-01-1974@@@
-
 DECRETO N° 73.564, DE 25 DE JANEIRO DE 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

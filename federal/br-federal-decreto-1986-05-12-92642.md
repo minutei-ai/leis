@@ -1,5 +1,3 @@
-###DEC-092642-0-000-12-05-1986@@@
-
 Decreto nº 92.642, de 12 de maio de 1986
 
 Altera disposições do Decreto nº 86.816, de 5 de janeiro de 1982, que dispõe sobre a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES, e dá outras providências.

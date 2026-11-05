@@ -1,5 +1,3 @@
-###DEC-091088-0-000-12-03-1985@@@
-
 DECRETO Nº 91.088, DE 12 DE MARÇO DE 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

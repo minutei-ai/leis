@@ -1,5 +1,3 @@
-###DEC-053757-0-000-19-03-1964@@@
-
 Decreto nº 53.757, de 19 de março de 1964.
 
 Renova o Decreto nº 649, de 7 de março de 1962, que outorgou concessão à Hidrelétrica do Rio Doce S.A..

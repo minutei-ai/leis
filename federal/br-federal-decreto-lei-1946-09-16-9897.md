@@ -1,5 +1,3 @@
-###DEL-009897-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.897 – DE 16 DE SETEMBRO DE 1946
 
 Altera a redação do art. 30 do Decreto-lei nº 9.813, de 9 de setembro de 1946.

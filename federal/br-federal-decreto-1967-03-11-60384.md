@@ -1,5 +1,3 @@
-###DEC-060384-0-000-11-03-1967@@@
-
 DECRETO Nº 60.384, DE 11 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Hiroyuki Morikawa a lavrar caulim, no Município de Mogi das Cruzes, Estado de São Paulo

@@ -1,5 +1,3 @@
-###DEL-005497-0-000-17-05-1943@@@
-
 DECRETO‑LEI N. 5.497 –  DE 17 DE MAIO DE 1943
 
 Cria o 1º Batalhão de Engenhos, com sede na Capital Federal

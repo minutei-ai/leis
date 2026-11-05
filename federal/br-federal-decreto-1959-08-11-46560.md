@@ -1,5 +1,3 @@
-###DEC-046560-0-000-11-08-1959@@@
-
 DECRETO Nº 46.560, DE 11 DE AGÔSTO DE 1959.
 
 Altera o Decreto nº 26.335, de 1949.

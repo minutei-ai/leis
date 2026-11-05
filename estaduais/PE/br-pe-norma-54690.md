@@ -122,860 +122,326 @@ Presidente
 
 CIRCUNSCRIÇÕES x QUANTITATIVOS DE CARGOS JUIZ DE PAZ
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="154" valign="top" style="width:115.15pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Comarca</span></p></td><td width="154" valign="top" style="width:115.15pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Termo Judiciário</span></p></td><td width="154" valign="top" style="width:115.15pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Juiz de Paz</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Igarassu</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Araçoiaba</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Itapissuma</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">4º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Glória de Goitá</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Chã de Alegria</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">5º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Buenos Aires</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Carpina</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Lagoa do Carro</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Ferreiros</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Camutanga</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Itaquitinga</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Lagoa de Itaenga</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Água Preta</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Xexéu</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Belém de Maria</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Cortês</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Gameleira</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Joaquim Nabuco</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Maraial</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Primavera</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Quipapá</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">São Benedito do Sul</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Rio Formoso</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Sirinhaém</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">7º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Cachoeirinha</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Jataúba</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Poção</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Riacho das Almas</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Tacaimbó</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">8º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Bonito</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Barra de Guabiraba</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Ibirajuba</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Sairé</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">São Joaquim do Monte</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">9º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Bom Jardim</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Machados</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Cumaru</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">João Alfredo</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Salgadinho</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Orobó</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">São Vicente Férrer</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">10</span><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Angelim</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Bom Conselho</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Terezinha</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Brejão</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Calçado</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Capoeiras</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Iati</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Jurema</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Lagoa do Ouro</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Palmeirina</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Saloá</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Paranatama</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">11º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Pedra</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Santa Maria do Cambucá</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Frei Miguelinho</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Surubim</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Casinhas</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Vertentes</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">13º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Afogados da Ingazeira</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Iguaraci</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Tuparetama</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Ingazeira</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">14º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Betânia</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Manari</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Inajá</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">15º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Serrita</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Cedro</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Terra Nova</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Verdejante</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">16º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Belém de São Francisco</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Itacuruba</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Tacaratu</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">17º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Bodocó</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Granito</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Moreilândia</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Ouricuri</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Santa Cruz</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">18º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Afrânio</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Dormentes</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">20º</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Carnaíba</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormalCxSpMiddle" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Quixaba</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr></tbody></table>
+Circunscrição
+
+Comarca
+
+Termo Judiciário
+
+Juiz de Paz
+
+3º
+
+Igarassu
+
+Araçoiaba
+
+01
+
+Itapissuma
+
+01
+
+4º
+
+Glória de Goitá
+
+Chã de Alegria
+
+01
+
+5º
+
+Buenos Aires
+
+01
+
+Carpina
+
+Lagoa do Carro
+
+01
+
+Ferreiros
+
+Camutanga
+
+01
+
+Itaquitinga
+
+01
+
+Lagoa de Itaenga
+
+01
+
+6º
+
+Água Preta
+
+Xexéu
+
+01
+
+Belém de Maria
+
+01
+
+Cortês
+
+01
+
+Gameleira
+
+01
+
+Joaquim Nabuco
+
+01
+
+Maraial
+
+01
+
+Primavera
+
+01
+
+Quipapá
+
+São Benedito do Sul
+
+01
+
+Rio Formoso
+
+01
+
+Sirinhaém
+
+01
+
+7º
+
+Cachoeirinha
+
+01
+
+Jataúba
+
+01
+
+Poção
+
+01
+
+Riacho das Almas
+
+01
+
+Tacaimbó
+
+01
+
+8º
+
+Bonito
+
+Barra de Guabiraba
+
+01
+
+Ibirajuba
+
+01
+
+Sairé
+
+01
+
+São Joaquim do Monte
+
+01
+
+9º
+
+Bom Jardim
+
+Machados
+
+01
+
+Cumaru
+
+01
+
+João Alfredo
+
+Salgadinho
+
+01
+
+Orobó
+
+01
+
+São Vicente Férrer
+
+01
+
+10º
+
+Angelim
+
+01
+
+Bom Conselho
+
+Terezinha
+
+01
+
+Brejão
+
+01
+
+Calçado
+
+01
+
+Capoeiras
+
+01
+
+Iati
+
+01
+
+Jurema
+
+01
+
+Lagoa do Ouro
+
+01
+
+Palmeirina
+
+01
+
+Saloá
+
+Paranatama
+
+01
+
+11º
+
+Pedra
+
+01
+
+Santa Maria do Cambucá
+
+Frei Miguelinho
+
+01
+
+Surubim
+
+Casinhas
+
+01
+
+Vertentes
+
+01
+
+13º
+
+Afogados da Ingazeira
+
+Iguaraci
+
+01
+
+Tuparetama
+
+Ingazeira
+
+01
+
+14º
+
+Betânia
+
+Manari
+
+01
+
+Inajá
+
+01
+
+15º
+
+Serrita
+
+Cedro
+
+01
+
+Terra Nova
+
+01
+
+Verdejante
+
+01
+
+16º
+
+Belém de São Francisco
+
+Itacuruba
+
+01
+
+Tacaratu
+
+01
+
+17º
+
+Bodocó
+
+Granito
+
+01
+
+Moreilândia
+
+01
+
+Ouricuri
+
+Santa Cruz
+
+01
+
+18º
+
+Afrânio
+
+Dormentes
+
+01
+
+20º
+
+Carnaíba
+
+Quixaba
+
+01

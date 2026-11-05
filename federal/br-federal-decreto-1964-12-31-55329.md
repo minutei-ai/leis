@@ -1,5 +1,3 @@
-###DEC-055329-0-000-31-12-1964@@@
-
 DECRETO Nº 55.329, DE 31 DE DEZEMBRO DE 1964.
 
 Retifica e ratifica o art. 1º do decreto nº 9.117, de 25 de março de 1942.

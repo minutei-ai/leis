@@ -1,5 +1,3 @@
-###DEL-004717-0-000-21-09-1942@@@
-
 DECRETO-LEI N. 4.717 – DE 21 DE SETEMBRO DE 1942
 
 Dispõe sobre as declarações dos súditos alemães, italianos e japoneses ao registro do comércio e dá outras providências

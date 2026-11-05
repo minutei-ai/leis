@@ -1,5 +1,3 @@
-###DEC-048319-0-000-20-06-1960@@@
-
 DECRETO Nº 48.319, DE 20 DE JUNHO DE 1960.
 
 Renova o Decreto nº 42.857, de 19 de dezembro de 1957.

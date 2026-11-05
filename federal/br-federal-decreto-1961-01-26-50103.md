@@ -1,5 +1,3 @@
-###DEC-050103-0-000-26-01-1961@@@
-
 DECRETO Nº 50.103, DE 26 DE JANEIRO DE 1961.
 
 Autoriza a firma Agatas do Brasil, Exportação e Importação Ltda., a comprar pedras preciosas.

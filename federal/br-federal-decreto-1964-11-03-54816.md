@@ -1,5 +1,3 @@
-###DEC-054816-0-000-03-11-1964@@@
-
 DECRETO Nº 54.816, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Simão Weitisky Dutter a pesquisar ilmenita, no município de Paranaguá, Estado do Paraná.

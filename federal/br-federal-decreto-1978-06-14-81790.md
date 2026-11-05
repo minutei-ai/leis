@@ -1,5 +1,3 @@
-###DEC-081790-0-000-14-06-1978@@@
-
 Decreto nº 81.790, de 14 de junho de 1978.
 
 Fixa o fator de reajustamento salarial relativo a junho de 1978.

@@ -1,5 +1,3 @@
-###DEC-051195-0-000-12-08-1961@@@
-
 DECREO Nº 51.195, DE 12 DE AGôSTO DE 1961.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$8.000,000,00, para auxiliar às despesas com a construção do “Dormitório do Estudante”, em Manaus, Estado do Amazonas.

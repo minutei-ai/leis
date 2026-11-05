@@ -1,5 +1,3 @@
-###MPV-001950-0-063-27-04-2000@@@
-
 MEDIDA provisória nº 1.950-63, de 27 de abril de 2000.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

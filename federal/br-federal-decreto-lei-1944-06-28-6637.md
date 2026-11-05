@@ -1,5 +1,3 @@
-###DEL-006637-0-000-28-06-1944@@@
-
 DECRETO-LEI N. 6.637 – DE 28 DE JUNHO DE 1944
 
 Altera a redação do item 13, do art. 12, do Decreto-lei nº 300 de 24 de fevereiro de 1938

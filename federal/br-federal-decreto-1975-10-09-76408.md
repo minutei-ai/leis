@@ -1,5 +1,3 @@
-###DEC-076408-0-000-09-10-1975@@@
-
 Decreto nº 76.408, de 6 de outubro de 1975.
 
 Estabelece critérios para apreciação de pedidos de assistência ou auxílios especiais formulados por Estados.

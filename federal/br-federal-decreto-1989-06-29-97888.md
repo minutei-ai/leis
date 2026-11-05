@@ -1,7 +1,3 @@
-1
-
-###DEC-097888-0-000-29-06-1989@@@
-
 DECRETO N.° 97.888, DE 29 DE JUNHO DE 1989
 
 Dispõe sobre a comprovação da realização de trabalhos de pesquisa e lavra mineral, para os fins do art. 43 do Ato das Disposições Constitucionais Transitórias.

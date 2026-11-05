@@ -1,5 +1,3 @@
-###DEC-083840-0-000-14-08-1979@@@
-
 Decreto nº 83.840, de 14 de agosto de 1979.
 
 Delega competência a Ministros de Estado e a outras autoridades, para a prática dos atos que especifica, e dá outras providências.

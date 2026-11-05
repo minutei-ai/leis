@@ -1,5 +1,3 @@
-###DEC-050786-0-000-12-06-1961@@@
-
 Decreto nº 50.786, de 12 de julho de 1961.
 
 Concede reconhecimento aos cursos que indica.

@@ -1,5 +1,3 @@
-###DEC-072141-0-000-26-04-1973@@@
-
 DECRETO Nº 72.141, DE 26 DE ABRIL DE 1973.
 
 Dá nova redação a dispositivos do Regulamento do Fundo de Garantia do Tempo de Serviço (FGTS), aprovado pelo Decreto nº 59.820, de 20 de dezembro de 1966.

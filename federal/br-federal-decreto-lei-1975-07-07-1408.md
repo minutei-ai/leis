@@ -1,5 +1,3 @@
-###DEL-001408-0-000-07-07-1975@@@
-
 # DECRETO-LEI Nº 1.408, DE 7 DE JULHO DE 1975
 
 Prorroga a vigência do incentivo fiscal para aplicação em ações novas da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

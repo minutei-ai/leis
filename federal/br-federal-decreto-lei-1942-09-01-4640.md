@@ -1,5 +1,3 @@
-###DEL-004640-0-000-01-09-1942@@@
-
 DECRETO-LEI N. 4.640 – DE 1 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de 80:322$6 para despesas com os funcionários da Polícia Cívil do Distrito Federal, designados para prestar serviços no estrangeiro.

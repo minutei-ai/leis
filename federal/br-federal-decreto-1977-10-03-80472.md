@@ -1,5 +1,3 @@
-###DEC-080472-0-000-03-10-1977@@@
-
 Decreto nº 80.472, de 3 de outubro de 1977.
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

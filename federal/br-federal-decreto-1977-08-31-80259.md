@@ -1,5 +1,3 @@
-###DEC-080259-0-000-31-08-1977@@@
-
 decreto nº 80.259, de 31 de agosto de 1977.
 
 Concede à Industria Cerâmica S.A. o direito de lavrar argila no Municipio de Candeias, Estado da Bahia.

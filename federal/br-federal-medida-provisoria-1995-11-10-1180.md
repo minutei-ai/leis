@@ -1,5 +1,3 @@
-###MPV-001180-0-000-10-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.180, DE 10 DE NOVEMBRO DE 1995.
 
 Acrescenta parágrafo ao art. 75 da Lei nº 4.728, de 14 de julho de 1965.

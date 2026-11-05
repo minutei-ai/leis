@@ -1,5 +1,3 @@
-###DEC-080793-0-000-22-11-1977@@@
-
 Decreto nº 80.793, de 22 de novembro de 1977.
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Ciências, ministrados pelo Centro Pedagógico de Aquidauana, com sede na cidade de Aquidauana, Estado do Mato Grosso.

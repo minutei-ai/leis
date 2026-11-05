@@ -1,5 +1,3 @@
-###DEC-005828-0-000-04-07-2006@@@
-
 DECRETO Nº 5.828, DE 4 DE JULHO DE 2006.
 
 Promulga o Acordo de Cooperação na Área de Turismo entre o Governo da República Federativa do Brasil e o Governo da República da Estônia, celebrado em Brasília, em 9 de novembro de 2000.
@@ -24,11 +22,7 @@ Brasília, 4 de julho de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 5.7.2006
-
-ACORDO DE COOPERAÇÃO NA ÁREA DE TURISMO ENTRE
+         Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO NA ÁREA DE TURISMO ENTRE
 
 O GOVERNO DAREPÚBLICA FEDERATIVA DO BRASIL E O
 

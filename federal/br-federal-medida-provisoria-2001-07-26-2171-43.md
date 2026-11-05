@@ -1,5 +1,3 @@
-###MPV-002171-0-043-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.171‑43, DE 26 DE JUlHO DE 2001
 
 Altera as Leis nos 6.368, de 21 de outubro de 1976, 8.112, de 11 de dezembro de 1990, 8.429, de 2 de junho de 1992, e 9.525, de 3 de dezembro de 1997, e dá outras providências.

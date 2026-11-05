@@ -1,5 +1,3 @@
-###DEC-086252-0-000-31-07-1981@@@
-
 DECRETO nº 86.252, de 31 de julho de 1981.
 
 Altera o Regulamento de Promoções de Graduados do Exército (R-196), aprovado pelo Decreto nº 77.920, de 28 de junho de 1976, e dá outras providências.

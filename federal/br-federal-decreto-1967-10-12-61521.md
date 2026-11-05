@@ -1,5 +1,3 @@
-###DEC-061521-0-000-12-10-1967@@@
-
 DECRETO Nº 61.521, DE 12 DE OUTUBRO DE 1967.
 
 Declara de utilidade publica para fins de desapropriação, os imóveis de números 70 - 70/2º andar - 72 - 74 - 76 - 78 - 80 e 82, situados à Ladeira do Barroso, e 83 - 87 c/1 - 87 c/2 - 87 c/3 - 89 - 89-A - 93 e 95, localizados na Ladeira do Livramento, cidade do Rio de Janeiro, Estado da Guanabara, necessários à instalação de estação terminal de micro-ondas do Rio de Janeiro, integrante do Sistema Nacional de Telecomunicações.

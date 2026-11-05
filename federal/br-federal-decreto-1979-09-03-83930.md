@@ -1,5 +1,3 @@
-###DEC-083930-0-000-03-09-1979@@@
-
 Decreto nº 83.930, de 03 de setembro de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-005270-0-000-12-11-2004@@@
-
 DECRETO Nº 5.270 DE 12 DE NOVEMBRO DE 2004
 
 Dispõe sobre a execução, no Território Nacional, da Resolução nº 1.552, de 27 de julho de 2004, do Conselho de Segurança das Nações Unidas, que renova, por um ano, sanções aos grupos armados e milícias rebeldes atuando na região oriental da República Democrática do Congo.

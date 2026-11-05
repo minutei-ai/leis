@@ -1,5 +1,3 @@
-###DEC-048213-0-000-13-05-1960@@@
-
 decreto nº 48.213, de 13 de maio de 1960.
 
 Autoriza o cidadão brasileiro Edécio Roma a pesquisar ilmenita no município de Tutoia, Estado do Maranhão.

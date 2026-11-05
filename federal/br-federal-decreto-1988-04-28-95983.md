@@ -1,5 +1,3 @@
-###DEC-095983-0-000-28-04-1988@@@
-
 DECRETO N° 95.983, DE 28 DE ABRIL DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias, necessárias à formação da bacia de acumulação do reservatório da usina hidrelétrica de Nova Ponte da Companhia Energética de Minas Gerais - CEMIG, no Estado de Minas Gerais.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cd6abce1-0e68-43e6-ba73-42fe35c03f36/texto#nowhere)
 
-###DEL-000923-0-000-10-10-1969@@@
-
 DECRETO-LEI Nº 923, DE 10 DE OUTUBRO DE 1969
 
 Dispõe sôbre a comercialização do leite.

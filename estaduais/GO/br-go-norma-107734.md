@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 15 dias do mês de Agosto de 2023.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 QUADRO 1
@@ -75,6 +73,7 @@ QUADRO 2
 | 26 782 1041 3.103 | GOIÁS EM MOVIMENTO - CONSTRUÇÃO DE PONTES | 4 - INVESTIMENTOS | 15000100 | 90 |
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | R$ 0,00 | R$ 46.933,79 | R$ 46.933,79 |
-|   | **VALOR TOTAL<br>
+|   | **VALOR TOTAL
+
 A REDUZIR** |
 | R$ 5.184.346,47 |

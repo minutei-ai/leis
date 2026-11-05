@@ -1,5 +1,3 @@
-###DEC-059108-0-000-22-08-1966@@@
-
 DECRETO Nº 59.108, DE 22 DE AGÔSTO DE 1966.
 
 Autoriza o cidadão brasileiro José Noberto Diniz a pesquisar minério de manganês nos municípios de Jaboticatubas e Taquaraçu, Estado de Minas Gerias.

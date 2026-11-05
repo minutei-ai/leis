@@ -1,30 +1,28 @@
-###DEC-032446-0-000-18-03-1953@@@
+**DECRETO Nº 32.446, DE 18 DE MARÇO DE 1953.**
 
-<strong>DECRETO Nº 32.446, DE 18 DE MARÇO DE 1953.</strong>
+***Aprova o Regulamento para a Diretoria de Engenharia da Marinha.***
 
-<em><strong>Aprova o Regulamento para a Diretoria de Engenharia da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**RESOLVE:**
 
-<strong>RESOLVE:</strong>
+**Art**. 1º Fica aprovado o Regulamento para a Diretoria de Engenharia da Marinha, que com êste baixa, assiando pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para a Diretoria de Engenharia da Marinha, que com êste baixa, assiando pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 18 de março de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 
-<strong>REGULAMENTO PARA A DIRETORIA DE ENGENHARIA DA MARINHA</strong>
+**REGULAMENTO PARA A DIRETORIA DE ENGENHARIA DA MARINHA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Fins</em>
+*Dos Fins*
 
-<strong>Art</strong>. 1º A Diretoria de Engenharia da Marinha (DE) é o órgão do Ministério da Marinha que tem por finalidade dirigir, coordenar e controlar as atividades técnicas e administrativas relacionadas com a construção naval e civil da MB, exceto o que disser respeito a faróis e demais sinais de balizamento náutico, e com os equipamentos e material técnico que não forem da competência específica de outra Diretoria.
+**Art**. 1º A Diretoria de Engenharia da Marinha (DE) é o órgão do Ministério da Marinha que tem por finalidade dirigir, coordenar e controlar as atividades técnicas e administrativas relacionadas com a construção naval e civil da MB, exceto o que disser respeito a faróis e demais sinais de balizamento náutico, e com os equipamentos e material técnico que não forem da competência específica de outra Diretoria.
 
 Parágrafo único. A DE é subordinada:
 
@@ -34,7 +32,7 @@ b) ao Estado-Maior da Armada, quanto ao comando e à logística de consumo;
 
 c) à Secretaria Geral da Marinha, quanto à logística de produção e à administração dos negócios da MB.
 
-<strong>Art</strong>. 2º À DE competirá:
+**Art**. 2º À DE competirá:
 
 a) planejar suas atividades;
 
@@ -60,31 +58,45 @@ l) representar a MB em congressos e conferências técnicas sôbre assuntos de s
 
 m) emitir parecer sôbre os assuntos técnicos de sua alçada.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
 Estrutura Orgânica
 
-<strong>Art</strong>. 3º Além do Diretor-Geral de Engenharia e seu Gabinete, a DE disporá de uma Vice-Diretoria, um Grupo de Inspeção e dos quatro seguintes Departamentos:
+**Art**. 3º Além do Diretor-Geral de Engenharia e seu Gabinete, a DE disporá de uma Vice-Diretoria, um Grupo de Inspeção e dos quatro seguintes Departamentos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:379.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Planejamento.....................................................................................</span></span></p></td><td style="width:45.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>(DE-10)</span></span></p></td></tr><tr><td style="width:379.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Estudos..............................................................................................</span></span></p></td><td style="width:45.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>(DE-20)</span></span></p></td></tr><tr><td style="width:379.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Experiências e Pesquisas..................................................................</span></span></p></td><td style="width:45.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>(DE-30)</span></span></p></td></tr><tr><td style="width:379.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Intendência.........................................................................................</span></span></p></td><td style="width:45.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>(DE-40)</span></span></p></td></tr></tbody></table>
+Departamento de Planejamento.....................................................................................
+
+(DE-10)
+
+Departamento de Estudos..............................................................................................
+
+(DE-20)
+
+Departamento de Experiências e Pesquisas..................................................................
+
+(DE-30)
+
+Departamento de Intendência.........................................................................................
+
+(DE-40)
 
 Parágrafo único. A Vice-Diretoria será constituída pelo Vice-Diretor de Engenharia assessorado pela Divisão de Estudos Gerais.
 
 Atribuições dos diversos órgãos
 
-<strong>Art</strong>. 4º O Diretor-Geral de Engenharia (DGE), Assessor Técnico do Ministro da Marinha em assuntos de engenharia naval e civil, será o responsável pelo fornecimento dos requisitos de apôio logístico às Fôrças, Estabelecimentos Navais e Serviços da MB, no que se referir a todo o material de competência da DE.
+**Art**. 4º O Diretor-Geral de Engenharia (DGE), Assessor Técnico do Ministro da Marinha em assuntos de engenharia naval e civil, será o responsável pelo fornecimento dos requisitos de apôio logístico às Fôrças, Estabelecimentos Navais e Serviços da MB, no que se referir a todo o material de competência da DE.
 
-<strong>Art</strong>. 5º O DGE será o responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DE e dos Estabelecimentos e Serviços que lhe forem subordinados.
+**Art**. 5º O DGE será o responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DE e dos Estabelecimentos e Serviços que lhe forem subordinados.
 
-<strong>Art</strong>. 6º O DGE manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou erros que forem verificados e aperfeiçoar os serviços.
+**Art**. 6º O DGE manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou erros que forem verificados e aperfeiçoar os serviços.
 
-<strong>Art</strong>. 7º No desempenho de suas atribuições, o DGE terá como auxiliares diretos o Vice-Diretor e seu Gabinete.
+**Art**. 7º No desempenho de suas atribuições, o DGE terá como auxiliares diretos o Vice-Diretor e seu Gabinete.
 
 Vice-Diretoria (DE-05)
 
-<strong>Art</strong>. 8º A Vice-Diretoria competirá:
+**Art**. 8º A Vice-Diretoria competirá:
 
 a) providenciar a execução das diretivas e ordens do DGE;
 
@@ -106,7 +118,7 @@ i) verificar todo o expediente a ser submetido ao DGE.
 
 Grupo de Inspeção (DE-06)
 
-<strong>Art</strong>. 9º Ao Grupo de Inspeção - (DE-06) - constituído por um Chefe assessorado por oficias da própria DE, competirá:
+**Art**. 9º Ao Grupo de Inspeção - (DE-06) - constituído por um Chefe assessorado por oficias da própria DE, competirá:
 
 a) inspecionar periodicamente todos os órgãos sob o contrôle técnico ou administrativo da DE, atendendo às instruções ou recomendações da Inspetoria Geral da Marinha e procurando especialmente constatar:
 
@@ -124,9 +136,9 @@ d) manter o DGE a par da produção das fábricas, oficinas e laboratórios da D
 
 Departamentos
 
-<strong>Art</strong>. 10. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
+**Art**. 10. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
 
-<strong>Art</strong>. 11. Ao Departamento de Planejamento (DE-10) competirá:
+**Art**. 11. Ao Departamento de Planejamento (DE-10) competirá:
 
 a) elaborar os planos de atividade da DE e dos órgãos que lhe são subordinados;
 
@@ -144,7 +156,7 @@ g) projetar a instalação ou modificação dos serviços de fôrça, luz, água
 
 h) estabelecer a dotação de equipamentos e material técnico da competência da DE, para as Fôrças, Estabelecimentos Navais e Serviços, atendendo às finalidades que lhes forem atribuídas.
 
-<strong>Art</strong>. 12. Ao Departamento de Estudos (DE-20), competirá:
+**Art**. 12. Ao Departamento de Estudos (DE-20), competirá:
 
 a) estudar e especificar as alterações que devam ser feitas em todo o material afeto à DE, visando nêle introduzir aperfeiçoamentos de utilidade para a MB;
 
@@ -164,7 +176,7 @@ h) acompanhar o progresso, científico e técnico, da engenharia naval, estimula
 
 i) representar a DE junto às entidades e associações congêneres.
 
-<strong>Art</strong>. 13. Ao Departamento de Experiências e Pesquisas (DE-30) competirá:
+**Art**. 13. Ao Departamento de Experiências e Pesquisas (DE-30) competirá:
 
 a) realizar, promover e auxiliar experiências e pesquisas que interessem à engenharia naval;
 
@@ -178,7 +190,7 @@ e) efetuar a perícia de todo o material afeto à DE;
 
 f) testar e submeter a experiências, provas e medidas, todo o material da competência da DE, recem-fabricado ou adquirido, e ainda não utilizado na MB.
 
-<strong>Art</strong>. 14. Ao Departamento de Intendência (DE-40) competirá:
+**Art**. 14. Ao Departamento de Intendência (DE-40) competirá:
 
 a) lavrar contratos;
 
@@ -194,21 +206,21 @@ f) elaborar a proposta orçamentária da DE e dos órgãos a ela subordinados;
 
 g) coligir e analisar os dados referentes a contabilidade industrial dos órgãos subordinados à DE, indicando providências para seu aperfeiçoamento.
 
-<strong>Art</strong>. 15. Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DE.
+**Art**. 15. Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DE.
 
 Gabinete
 
-<strong>Art</strong>. 16. Ao Gabinete do DGE - (DE-02) competirá:
+**Art**. 16. Ao Gabinete do DGE - (DE-02) competirá:
 
 a) o desempenho de funções de representação;
 
 b) a correspondência de caráter pessoal do DGE.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 17. A DE disporá do seguinte pessoal:
+**Art**. 17. A DE disporá do seguinte pessoal:
 
 a) um Diretor-Geral de Engenharia, oficial general, da ativa, do Corpo de Engenheiros e Técnicos Navais;
 
@@ -230,37 +242,37 @@ j) tantos oficiais, da ativa ou da reserva, dos diversos Corpos e Quadros da MB,
 
 l) tantos sub-oficiais, sargentos, marinheiros, fuzileiros, taifeiros e servidores civis, quantos forem necessários de acordo com os efetivos fixados no Regimento Interno.
 
-<strong>Art</strong>. 18. As atribuições do pessoal serão discriminadas no Regimento Interno do DE.
+**Art**. 18. As atribuições do pessoal serão discriminadas no Regimento Interno do DE.
 
-<strong>Art</strong>. 19. O pessoal da DE será nomeado, designado ou admitido de acôrdo com a legislação em vigor.
+**Art**. 19. O pessoal da DE será nomeado, designado ou admitido de acôrdo com a legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das disposições gerais</em>
+*Das disposições gerais*
 
-<strong>Art</strong>. 20. Ficarão subordinados à DE todos os órgãos dos seguintes tipos: Fábricas de Material de Construção Naval, Laboratórios Especializados em Assuntos de Engenharia Naval.
+**Art**. 20. Ficarão subordinados à DE todos os órgãos dos seguintes tipos: Fábricas de Material de Construção Naval, Laboratórios Especializados em Assuntos de Engenharia Naval.
 
 Parágrafo único. Os Estaleiros e Arsenais, subordinados aos Distritos navais, receberão orientação técnica da DE.
 
-<strong>Art</strong>. 21. O Serviço Químico da Marinha passará a denominar-se Laboratório de Pesquisas Químicas, ficando incluído entre os órgãos previstos no artigo 20.
+**Art**. 21. O Serviço Químico da Marinha passará a denominar-se Laboratório de Pesquisas Químicas, ficando incluído entre os órgãos previstos no artigo 20.
 
-<strong>Art</strong>. 22. O serviço interno da DE obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data de aprovação dêste Regulamento.
+**Art**. 22. O serviço interno da DE obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data de aprovação dêste Regulamento.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Disposições Transitórias</em>
+*Das Disposições Transitórias*
 
-<strong>Art</strong>. 23. Durante o prazo fixado no art. 22, o DGE expedirá as instruções necessárias à adaptação das disposições contidas nêste Regulamento.
+**Art**. 23. Durante o prazo fixado no art. 22, o DGE expedirá as instruções necessárias à adaptação das disposições contidas nêste Regulamento.
 
-<strong>Art</strong>. 24. Antes da criação de qualquer novo Estabelecimento ou Serviço, deverá ser elaborado e aprovado o regulamento ou regimento interno, conforme o caso, pelo qual se deverá reger.
+**Art**. 24. Antes da criação de qualquer novo Estabelecimento ou Serviço, deverá ser elaborado e aprovado o regulamento ou regimento interno, conforme o caso, pelo qual se deverá reger.
 
-<strong>Art</strong>. 25. Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os Regulamentos ou Regimentos Internos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá-los no que vem de ser estabelecido. Os anteprojetos dos Regulamentos ou Regimentos Internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
+**Art**. 25. Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os Regulamentos ou Regimentos Internos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá-los no que vem de ser estabelecido. Os anteprojetos dos Regulamentos ou Regimentos Internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
 
-<strong>Art</strong>. 26. Êste Regulamento deverá ser revisto dentro do prazo de doze meses contados a partir de sua aprovação.
+**Art**. 26. Êste Regulamento deverá ser revisto dentro do prazo de doze meses contados a partir de sua aprovação.
 
 Rio de Janeiro, D.F., em 18 de março de 1953
 
-<strong>RENATO DE ALMEIDA GUILLOBEL</strong>
+**RENATO DE ALMEIDA GUILLOBEL**
 
 Vice-Almirante
 

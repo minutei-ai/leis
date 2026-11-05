@@ -1,5 +1,3 @@
-###DEC-004267-0-000-12-06-2002@@@
-
 DECRETO Nº 4.267, DE 12 DE JUNHO DE 2002
 
 Regulamenta os arts. 7º e 8º da Lei nº 10.453, de 13 de maio de 2002, que dispõe sobre subvenções ao preço e ao transporte do álcool combustível e subsídios ao preço do gás liquefeito de petróleo - GLP, altera o sistema de deliberação do Conselho Interministerial do Açúcar e do Álcool - CIMA, e dá outras providências.

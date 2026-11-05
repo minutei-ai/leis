@@ -1,5 +1,3 @@
-###DEC-057401-0-000-10-12-1965@@@
-
 Decreto nº 57.401, de 10 de dezembro de 1965.
 
 Cria a 9ª Companhia Depósito de Armamento e Munição e dá outras providências.

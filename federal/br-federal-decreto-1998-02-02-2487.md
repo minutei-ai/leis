@@ -1,5 +1,3 @@
-###DEC-002487-0-000-02-02-1998@@@
-
 DECRETO Nº 2.487, DE 2 DE FEVEREIRO DE 1998
 
 Dispõe sobre a qualificação de autarquias e fundações como Agências Executivas, estabelece critérios e procedimentos para a elaboração, acompanhamento e avaliação dos contratos de gestão e dos planos estratégicos de reestruturação e de desenvolvimento institucional das entidades qualificadas e dá outras providências.

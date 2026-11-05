@@ -1,5 +1,3 @@
-###DEC-087441-0-000-03-08-1982@@@
-
 Decreto nº 87.441, de 03 de agosto de 1982.
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO EDUCADORA DE PARNAÍBA S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Parnaíba, Estado do Piauí.

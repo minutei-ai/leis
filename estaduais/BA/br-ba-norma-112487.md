@@ -6,7 +6,8 @@ Institui a Política Estadual de Apoio ao Cooperativismo, e dá outras providên
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA POLÍTICA ESTADUAL DE APOIO AO COOPERATIVISMO
 
 Art. 1º - Fica instituída no Estado da Bahia a Política Estadual de Apoio ao Cooperativismo como o conjunto de princípios, diretrizes, regras e ações a cargo dos diversos órgãos e entidades da Administração Direta e Indireta do Estado da Bahia, com os seguintes objetivos:
@@ -31,7 +32,8 @@ IV - articulação das ações entre os diferentes órgãos e instituições da 
 
 Art. 3º - São beneficiárias da Política Estadual de Apoio ao Cooperativismo as cooperativas com sede e atuação no Estado da Bahia, e seus respectivos sócios.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS ESTÍMULOS AO COOPERATIVISMO
 
 Art. 4º - Para efetivar a Política instituída por esta Lei, compete ao Poder Público Estadual, através dos órgãos e entidades da Administração Direta e Indireta:
@@ -70,7 +72,8 @@ I - exercício de práticas pedagógicas sobre o cooperativismo;
 
 II - fomento e manutenção de cooperativas escolares e escolas, na forma da legislação em vigor.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO CONSELHO ESTADUAL DE COOPERATIVISMO
 
 Art. 11 - Fica criado o Conselho Estadual de Cooperativismo - CECOOP, órgão de natureza consultiva e deliberativa vinculado à Secretaria do Trabalho, Emprego, Renda e Esporte - SETRE, com a finalidade de planejar e avaliar as ações desenvolvidas no âmbito da Política Estadual de Apoio ao Cooperativismo, com as seguintes atribuições: 
@@ -129,7 +132,8 @@ Art. 15 - As deliberações do CECOOP serão tomadas em forma de resolução, po
 
 Art. 16 - A participação dos membros do CECOOP será considerada de relevante interesse público, não remunerada.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 17 - O Poder Executivo Estadual regulamentará esta Lei no prazo de 90 (noventa) dias a contar da data de sua publicação.

@@ -1,5 +1,3 @@
-###DEC-048237-0-000-19-05-1960@@@
-
 DECRETO Nº 48.237, de 19 de maio de 1960.
 
 Declara de utilidade pública a Santa Casa de Ministério de Juiz de Fora.

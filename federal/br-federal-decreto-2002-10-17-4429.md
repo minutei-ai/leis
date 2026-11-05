@@ -1,5 +1,3 @@
-###DEC-004429-0-000-17-10-2002@@@
-
 DECRETO Nº 4.429, DE 17 DE OUTUBRO DE 2002
 
 Institui a carteira de identidade funcional dos servidores da Carreira Finanças e Controle e dá outras providências.

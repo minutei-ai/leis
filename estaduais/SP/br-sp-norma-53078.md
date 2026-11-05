@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53078)
-
 # LEI Nº 11.909, DE 22 DE MARÇO DE 2005
 
 ## (PL 267/2004 - Caldini Crespo)

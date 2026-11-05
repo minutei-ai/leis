@@ -1,5 +1,3 @@
-###DEC-072705-0-000-28-08-1973@@@
-
 DECRETO Nº 72.705, DE 28 DE AGOSTO DE 1973.
 
 Reduz as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

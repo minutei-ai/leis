@@ -1,5 +1,3 @@
-###MPV-000442-0-000-06-10-2008@@@
-
 MEDIDA PROVISÓRIA Nº 442, DE 6 DE OUTUBRO DE 2008.
 
 Dispõe sobre operações de redesconto pelo Banco Central do Brasil e autoriza a emissão da Letra de Arrendamento Mercantil - LAM, e dá outras providências.

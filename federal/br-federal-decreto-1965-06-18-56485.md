@@ -1,5 +1,3 @@
-###DEC-056485-0-000-18-06-1965@@@
-
 DECRETO Nº 56.485, DE 18 DE JUNHO DE 1965.
 
 Declara de utilidade pública a “Fundação Pioneiro de Assistência Social”, com sede em São Paulo, Estado de São Paulo.

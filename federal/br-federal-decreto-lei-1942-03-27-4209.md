@@ -1,5 +1,3 @@
-###DEL-004209-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.209 – DE 27 DE MARÇO DE 1942
 
 Dispõe sobre aplicação de crédito orçamentário e dá outras providências

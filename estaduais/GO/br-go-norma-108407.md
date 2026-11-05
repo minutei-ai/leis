@@ -10,7 +10,8 @@ Art. 1º O [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legi
 
 “Art. 1º Fica a Secretaria de Estado da Educação – SEDUC autorizada a celebrar e manter, nos termos da [Lei nº 20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 12.548 (doze mil e quinhentos e quarenta e oito) contratos temporários pelo prazo máximo estabelecido na alínea “a” do inciso VI do art. 2º da referida lei, conforme as especificações dispostas no Anexo I deste Decreto.
 
-§ 1º A função temporária de Apoio à Gestão Escolar será destinada às unidades parciais e às unidades do colégio estadual em período integral ~~centros de ensino em período integral~~, exclusivamente para o desempenho das atribuições da equipe gestora de Secretário Escolar e Coordenador Administrativo-Financeiro, salvo no que tange à função de Gestor Escolar, reservada a ocupantes de cargo de provimento efetivo, nos termos do art. 9º da [Lei nº 20.115](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99991), de 6 de junho de 2018.<br>
+§ 1º A função temporária de Apoio à Gestão Escolar será destinada às unidades parciais e às unidades do colégio estadual em período integral ~~centros de ensino em período integral~~, exclusivamente para o desempenho das atribuições da equipe gestora de Secretário Escolar e Coordenador Administrativo-Financeiro, salvo no que tange à função de Gestor Escolar, reservada a ocupantes de cargo de provimento efetivo, nos termos do art. 9º da [Lei nº 20.115](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99991), de 6 de junho de 2018.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 § 2º A remuneração do contrato temporário de Apoio à Gestão Escolar será composta pelo vencimento acrescido das parcelas dos complementos variáveis, de acordo com o tipo de unidade escolar, conforme Anexo II deste Decreto e a seguinte especificação:
@@ -67,54 +68,93 @@ ANEXO ÚNICO
 
 ([DECRETO Nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103946), DE 23 DE ABRIL DE 2021)
 
-TABELA DE CONTRATOS TEMPORÁRIOS DISCRIMINADA POR FUNÇÕES,<br>
+TABELA DE CONTRATOS TEMPORÁRIOS DISCRIMINADA POR FUNÇÕES,
+
 QUANTITATIVO, CARGA HORÁRIA, VENCIMENTO, ATRIBUIÇÕES E REQUISITOS
 
 | Função Temporária | Quant. | Carga Horária Semanal | Vencimento | Atribuições | Requisitos |
 | --- | --- | --- | --- | --- | --- |
 | …………. | ………… | …………. | …………. | …………. | …………. |
-| Apoio Administrativo de Nível Médio | 240 | 30 horas | R$ 1.463,60 | 1 – acompanhar o funcionamento das unidades escolares e oferecer apoio à administração das Coordenações Regionais de Educação e das unidades administrativas da Centralizada;<br>
-2 – prestar suporte aos multimeios didáticos e orientação para atividades nas bibliotecas escolares, nos laboratórios e nas salas de ciência e operação de eletroeletrônico;<br>
-3 – prestar assessoria de natureza econômico-financeira e administrativa nas áreas de recursos humanos, compras, estoque, análise de sistema de órgão central, regional e de unidades escolares;<br>
-4 – exercer atividades de alimentação, higiene e locomoção de educandos com deficiência; e<br>
+| Apoio Administrativo de Nível Médio | 240 | 30 horas | R$ 1.463,60 | 1 – acompanhar o funcionamento das unidades escolares e oferecer apoio à administração das Coordenações Regionais de Educação e das unidades administrativas da Centralizada;
+
+2 – prestar suporte aos multimeios didáticos e orientação para atividades nas bibliotecas escolares, nos laboratórios e nas salas de ciência e operação de eletroeletrônico;
+
+3 – prestar assessoria de natureza econômico-financeira e administrativa nas áreas de recursos humanos, compras, estoque, análise de sistema de órgão central, regional e de unidades escolares;
+
+4 – exercer atividades de alimentação, higiene e locomoção de educandos com deficiência; e
+
 5 – realizar atividades correlatas. | Diploma de conclusão do Ensino Médio ou equivalente expedido por instituição devidamente reconhecida pelo Ministério da Educação – MEC. |
-| Apoio Administrativo de Nível Superior | 2.651 | 30 horas | R$ 1.876,41 | 1 – acompanhar o funcionamento das unidades escolares e oferecer apoio à administração das Coordenações Regionais de Educação e das unidades administrativas da Centralizada;<br>
-2 – prestar suporte aos multimeios didáticos e orientação para atividades nas bibliotecas escolares, nos laboratórios e nas salas de ciência e operação de eletroeletrônicos;<br>
-3 – prestar assessoria de natureza econômico-financeira e administrativa nas áreas de recursos humanos, compras, estoque, análise de sistema de órgão central, regional e de unidades escolares;<br>
-4 – prestar assessoria nas áreas especializadas de natureza jurídica, de comunicação, de engenharia e arquitetura, administração, recursos humanos, contabilidade, fonoaudiologia, psicologia, serviço social, nutrição e afins;<br>
-5 – acompanhar os educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, bem como auxiliar na organização do material didático e na elaboração de plano de trabalho diário e de relatórios semanais sobre as atividades realizadas;<br>
-6 – atuar em todas as atividades escolares nas quais se fizer necessário, excluídas as técnicas ou os procedimentos identificados com profissões legalmente estabelecidas; e<br>
+| Apoio Administrativo de Nível Superior | 2.651 | 30 horas | R$ 1.876,41 | 1 – acompanhar o funcionamento das unidades escolares e oferecer apoio à administração das Coordenações Regionais de Educação e das unidades administrativas da Centralizada;
+
+2 – prestar suporte aos multimeios didáticos e orientação para atividades nas bibliotecas escolares, nos laboratórios e nas salas de ciência e operação de eletroeletrônicos;
+
+3 – prestar assessoria de natureza econômico-financeira e administrativa nas áreas de recursos humanos, compras, estoque, análise de sistema de órgão central, regional e de unidades escolares;
+
+4 – prestar assessoria nas áreas especializadas de natureza jurídica, de comunicação, de engenharia e arquitetura, administração, recursos humanos, contabilidade, fonoaudiologia, psicologia, serviço social, nutrição e afins;
+
+5 – acompanhar os educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, bem como auxiliar na organização do material didático e na elaboração de plano de trabalho diário e de relatórios semanais sobre as atividades realizadas;
+
+6 – atuar em todas as atividades escolares nas quais se fizer necessário, excluídas as técnicas ou os procedimentos identificados com profissões legalmente estabelecidas; e
+
 7 – realizar atividades correlatas. | Diploma de conclusão do Ensino Superior expedido por instituição devidamente reconhecida pelo MEC. |
-| Apoio Administrativo de Nível Superior | 1.253 | 40 horas | R$ 2.501,89 | 1 – acompanhar o funcionamento das unidades escolares e oferecer apoio à administração das Coordenações Regionais de Educação e das unidades administrativas da Centralizada;<br>
-2 – prestar suporte aos multimeios didáticos e orientação para atividades nas bibliotecas escolares, nos laboratórios e nas salas de ciência e operação de eletroeletrônicos;<br>
-3 – prestar assessoria de natureza econômico-financeira e administrativa nas áreas de recursos humanos, compras, estoque, análise de sistema de órgão central, regional e de unidades escolares;<br>
-4 – prestar assessoria nas áreas especializadas de natureza jurídica, de comunicação, de engenharia e arquitetura, administração, recursos humanos, contabilidade, fonoaudiologia, psicologia, serviço social, nutrição e afins;<br>
-5 – acompanhar os educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, bem como auxiliar na organização do material didático e na elaboração de plano de trabalho diário e de relatórios semanais sobre as atividades realizadas;<br>
-6 – atuar em todas as atividades escolares nas quais se fizer necessário, excluídas as técnicas ou os procedimentos identificados com profissões legalmente estabelecidas; e<br>
+| Apoio Administrativo de Nível Superior | 1.253 | 40 horas | R$ 2.501,89 | 1 – acompanhar o funcionamento das unidades escolares e oferecer apoio à administração das Coordenações Regionais de Educação e das unidades administrativas da Centralizada;
+
+2 – prestar suporte aos multimeios didáticos e orientação para atividades nas bibliotecas escolares, nos laboratórios e nas salas de ciência e operação de eletroeletrônicos;
+
+3 – prestar assessoria de natureza econômico-financeira e administrativa nas áreas de recursos humanos, compras, estoque, análise de sistema de órgão central, regional e de unidades escolares;
+
+4 – prestar assessoria nas áreas especializadas de natureza jurídica, de comunicação, de engenharia e arquitetura, administração, recursos humanos, contabilidade, fonoaudiologia, psicologia, serviço social, nutrição e afins;
+
+5 – acompanhar os educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, bem como auxiliar na organização do material didático e na elaboração de plano de trabalho diário e de relatórios semanais sobre as atividades realizadas;
+
+6 – atuar em todas as atividades escolares nas quais se fizer necessário, excluídas as técnicas ou os procedimentos identificados com profissões legalmente estabelecidas; e
+
 7 – realizar atividades correlatas. | Diploma de conclusão do Ensino Superior expedido por instituição devidamente reconhecida pelo MEC. |
 | …………. | ………… | …………. | …………. | …………. | …………. |
-| Apoio à Gestão Escolar | 670 | 40 horas | R$ 2.501,89 | 1 – organizar e manter em dia coletânea de leis, regulamentos, resoluções, diretrizes, ordens de serviço e demais documentos;<br>
-2 – coordenar as atividades da secretaria da unidade escolar;<br>
-3 – secretariar os conselhos de classe e outras reuniões similares;<br>
-4 – organizar e manter atualizados os documentos da unidade escolar e da vida escolar dos alunos, inclusive diários de classe, de forma a permitir sua verificação em qualquer época, com o uso das ferramentas do Sistema de Gestão Escolar – SIGE e responsabilização pelos dados registrados;<br>
-5 – capacitar, incentivar e monitorar seus auxiliares na utilização do SIGE;<br>
-6 – empregar os instrumentos e os documentos do SIGE para registrar e manter atualizados dados dos alunos (cadastrais, enturmação, frequência, avaliações etc.), dos professores (cadastrais, modulação etc.) e da unidade escolar (cursos e modalidades de ensino ministrados, matriz curricular etc.), com a responsabilização pelo processo de manutenção dos dados da unidade escolar, dos docentes e dos agentes administrativos educacionais e alunos, bem como pela veracidade dos dados;<br>
-7 – expedir e autenticar certificados de conclusão de curso e outros documentos pertinentes;<br>
-8 – lavrar em atas os resultados finais, de recuperação, exames especiais, classificação e reclassificação, bem como outros processos avaliativos;<br>
-9 – orientar, acompanhar e monitorar professores quanto à escrituração escolar sob sua responsabilidade;<br>
-10 – responsabilizar-se, com o Gestor Escolar, pela frequência dos professores e dos agentes administrativos educacionais;<br>
-11 – cumprir a legislação vigente e as orientações advindas da SEDUC; 12 – lançar diariamente e manter atualizados os dados do sistema de gestão da SEDUC;<br>
-13 – promover e coordenar ações referentes às prestações de contas de recursos financeiros recebidos pela unidade escolar;<br>
-14 – zelar, acompanhar, fiscalizar, intervir e adotar medidas necessárias para garantir melhor aplicabilidade dos recursos da unidade escolar;<br>
-15 – monitorar a alocação dos estudantes e as alterações que ocorram, informá-las ao Secretário-Geral da unidade, para que se proceda à inserção dos dados, também auxiliar no processo de atualização das informações no banco de dados da SEDUC;<br>
-16 – acompanhar, cuidar, aplicar, executar e prestar contas dos repasses financeiros destinados à merenda escolar de todos os níveis e modalidades de ensino, também todos os recursos da unidade em tempo hábil;<br>
-17 – confeccionar cartazes com o cardápio da semana, para informação à executora e aos estudantes;<br>
-18 – preencher, diária e adequadamente, a ficha de controle de merenda, com o auxílio da executora;<br>
-19 – cumprir o cronograma estipulado pela coordenação;<br>
-20 – realizar pesquisas de preços para a aquisição dos produtos destinados à merenda escolar;<br>
-21 – montar a prestação de contas conforme as normas do Programa Nacional de Alimentação Escolar - PNAE e as orientações expressas da SEDUC;<br>
-22 – promover e coordenar as ações executadas em parceria com os corpos docente e discente da unidade escolar e toda a comunidade por meio de projetos;<br>
-23 – acompanhar os processos licitatórios; e<br>
+| Apoio à Gestão Escolar | 670 | 40 horas | R$ 2.501,89 | 1 – organizar e manter em dia coletânea de leis, regulamentos, resoluções, diretrizes, ordens de serviço e demais documentos;
+
+2 – coordenar as atividades da secretaria da unidade escolar;
+
+3 – secretariar os conselhos de classe e outras reuniões similares;
+
+4 – organizar e manter atualizados os documentos da unidade escolar e da vida escolar dos alunos, inclusive diários de classe, de forma a permitir sua verificação em qualquer época, com o uso das ferramentas do Sistema de Gestão Escolar – SIGE e responsabilização pelos dados registrados;
+
+5 – capacitar, incentivar e monitorar seus auxiliares na utilização do SIGE;
+
+6 – empregar os instrumentos e os documentos do SIGE para registrar e manter atualizados dados dos alunos (cadastrais, enturmação, frequência, avaliações etc.), dos professores (cadastrais, modulação etc.) e da unidade escolar (cursos e modalidades de ensino ministrados, matriz curricular etc.), com a responsabilização pelo processo de manutenção dos dados da unidade escolar, dos docentes e dos agentes administrativos educacionais e alunos, bem como pela veracidade dos dados;
+
+7 – expedir e autenticar certificados de conclusão de curso e outros documentos pertinentes;
+
+8 – lavrar em atas os resultados finais, de recuperação, exames especiais, classificação e reclassificação, bem como outros processos avaliativos;
+
+9 – orientar, acompanhar e monitorar professores quanto à escrituração escolar sob sua responsabilidade;
+
+10 – responsabilizar-se, com o Gestor Escolar, pela frequência dos professores e dos agentes administrativos educacionais;
+
+11 – cumprir a legislação vigente e as orientações advindas da SEDUC; 12 – lançar diariamente e manter atualizados os dados do sistema de gestão da SEDUC;
+
+13 – promover e coordenar ações referentes às prestações de contas de recursos financeiros recebidos pela unidade escolar;
+
+14 – zelar, acompanhar, fiscalizar, intervir e adotar medidas necessárias para garantir melhor aplicabilidade dos recursos da unidade escolar;
+
+15 – monitorar a alocação dos estudantes e as alterações que ocorram, informá-las ao Secretário-Geral da unidade, para que se proceda à inserção dos dados, também auxiliar no processo de atualização das informações no banco de dados da SEDUC;
+
+16 – acompanhar, cuidar, aplicar, executar e prestar contas dos repasses financeiros destinados à merenda escolar de todos os níveis e modalidades de ensino, também todos os recursos da unidade em tempo hábil;
+
+17 – confeccionar cartazes com o cardápio da semana, para informação à executora e aos estudantes;
+
+18 – preencher, diária e adequadamente, a ficha de controle de merenda, com o auxílio da executora;
+
+19 – cumprir o cronograma estipulado pela coordenação;
+
+20 – realizar pesquisas de preços para a aquisição dos produtos destinados à merenda escolar;
+
+21 – montar a prestação de contas conforme as normas do Programa Nacional de Alimentação Escolar - PNAE e as orientações expressas da SEDUC;
+
+22 – promover e coordenar as ações executadas em parceria com os corpos docente e discente da unidade escolar e toda a comunidade por meio de projetos;
+
+23 – acompanhar os processos licitatórios; e
+
 24 – realizar atividades correlatas. | Diploma de conclusão do Ensino Superior expedido por instituição devidamente reconhecida pelo MEC. |
 | TOTAL | 12.548 |   |   |   |   |
 
@@ -163,7 +203,8 @@ CONTRATO TEMPORÁRIO – FUNÇÃO ADMINISTRATIVO ESCOLAR – UNIDADES PARCIAIS
 
 TABELA 2
 
-CONTRATO TEMPORÁRIO – FUNÇÃO ADMINISTRATIVO ESCOLAR – COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~<br>
+CONTRATO TEMPORÁRIO – FUNÇÃO ADMINISTRATIVO ESCOLAR – COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 | FUNÇÃO TEMPORÁRIA | Quant. | Vencimento | ALUNOS | Complemento Variável 1 | Complemento Variável 2 | Complemento Variável 3 | Complemento Variável 4 |

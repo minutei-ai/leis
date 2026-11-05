@@ -1,5 +1,3 @@
-###DEC-055758-0-000-15-02-1965@@@
-
 DECRETO Nº 55.758, DE 15 DE FEVEREIRO DE 1965.
 
 Estende aos beneficiários do IAPFESP - que especifica, o regime de manutenção de salário previsto no Decreto-lei nº 7.036, de 10 se novembro de 1944.

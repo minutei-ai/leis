@@ -1,5 +1,3 @@
-###DEC-067972-0-000-29-12-1970@@@
-
 DECERETO Nº 67.972, DE 29 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 32.059, de 7.1.1953, retificado pelo de número 54.987, de 13.11.1964.

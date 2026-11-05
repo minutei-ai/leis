@@ -1,5 +1,3 @@
-###DEC-064896-0-000-28-07-1969@@@
-
 Decreto nº 64.896 - de 28 de julho de 1969.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Dracena, em Dracena, Estado de São Paulo.

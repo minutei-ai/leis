@@ -1,5 +1,3 @@
-###DEC-075555-0-000-02-04-1975@@@
-
 DECRETO Nº 75.555, DE 2 DE ABRIL DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à implantação da subestação de Paineiras, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

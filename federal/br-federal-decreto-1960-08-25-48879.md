@@ -1,5 +1,3 @@
-###DEC-048879-0-000-25-08-1960@@@
-
 DECRETO Nº 48.879, DE 25 DE AGÔSTO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio.

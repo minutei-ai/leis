@@ -1,5 +1,3 @@
-###DEC-049537-0-000-15-12-1960@@@
-
 DECRETO Nº 49.537, DE 15 DE DEZEMBRO DE 1960.
 
 Declara de utilidade pública, para efeitos de desapropriação, um imóvel situadas na cidade de Fortaleza, Estado do Ceará e dá outras providências.

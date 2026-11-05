@@ -1,5 +1,3 @@
-###DEC-054692-0-000-29-10-1964@@@
-
 DECRETO Nº 54.692, DE 29 DE OUTUBRO DE 1964.
 
 Outorga ao Município de São Caetano de Odivelas concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Brasília, 29 de outubro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054692-0-000-29-10-1964@@@RET01+++
 
 DECRETO Nº 54.692, DE 29 DE OUTUBRO DE 1964.
 

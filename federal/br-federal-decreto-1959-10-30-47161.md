@@ -1,5 +1,3 @@
-###DEC-047161-0-000-30-10-1959@@@
-
 DECRETO Nº 47.161, DE 30 DE OUTUBRO DE 1959.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Hidrelétrica Paraná S. A.

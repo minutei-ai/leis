@@ -1,14 +1,12 @@
-###DEC-022381-0-000-31-12-1946@@@
+**DECRETO N. 22.381 – DE 31 DE DEZEMBRO DE 1946**
 
-<strong>DECRETO N. 22.381 – DE 31 DE DEZEMBRO DE 1946</strong>
-
-<em><strong>Altera o art. 7º e o § 2º do art. 14 do Decreto nº 25, de 4 de fevereiro de 1939 dá outras providências.</strong></em>
+***Altera o art. 7º e o § 2º do art. 14 do Decreto nº 25, de 4 de fevereiro de 1939 dá outras providências.***
 
 O Presidente da República, usando da atribuição que lhe confere o art. 12 do Ato das Disposições Constitucionais Transtórias,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º O art. 7º, suas alíneas e parágrafos, do Decreto-lei nº 251, de 4 de fevereiro de 1938, ficam assim redigidos:
+**Art.** 1º O art. 7º, suas alíneas e parágrafos, do Decreto-lei nº 251, de 4 de fevereiro de 1938, ficam assim redigidos:
 
 " O imposto de licença para localização será representado pela soma de duas setas
 
@@ -48,16 +46,16 @@ c) a utilização de materiais indispensáveis ao exercício de qualquer  arte,
 
 § 6º Para os estabelecimentos que exploram exclusivamente o comércio  varejista de líquidos e combustíveis é estabelecida a percentagem de 14%, independente de qualquer concomitância a que se refere o § 5%, dêste artigo.    
 
-<strong>Art.</strong> 2º O § 2º do art. 14 do Decreto-lei nº 251, de 4 de fevereiro de 1938, fica assim redigido:
+**Art.** 2º O § 2º do art. 14 do Decreto-lei nº 251, de 4 de fevereiro de 1938, fica assim redigido:
 
 “O contribuinte que no primeiro vencer até o fim do exercício, gozará o desconto de 55 sôbre a importância paga adiantadamente".
 
-<strong>Art.</strong> 3º Fica revogado o art. 16 do Decreto-lei nº 8.629, de 10 de janeiro de 1946.
+**Art.** 3º Fica revogado o art. 16 do Decreto-lei nº 8.629, de 10 de janeiro de 1946.
 
-<strong>Art.</strong> 4º Êste Decreto entrará em vigor a partir de 1 de janeiro de 1947.
+**Art.** 4º Êste Decreto entrará em vigor a partir de 1 de janeiro de 1947.
 
 Rio de Janeiro, 31 de dezembro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Benedito Costa Neto.

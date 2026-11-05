@@ -1,5 +1,3 @@
-###DEC-069519-0-000-09-11-1971@@@
-
 DECRETO Nº 69.519 - de 9 de Novembro de 1971
 
 Autoriza a cessão de terreno da União Federal que menciona, situado no Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-058728-0-000-27-06-1966@@@
-
 DECRETO Nº 58.728, de 27 de junho de 1966.
 
 Autoriza o cidadão brasileiro Gilberto Ricciotti a lavrar conchas calcárias, no município de Cananéia, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-075689-0-000-02-05-1975@@@
-
 DECRETO Nº 75.689, DE 2 DE MAIO DE 1975.
 
 Altera o item I no artigo 44 do Decreto nº 71.727, de 17 de janeiro de 1973, que regulamentou para a Marinha a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

@@ -1,5 +1,3 @@
-###MPV-001978-0-027\-28-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-27, DE 28 de julho DE 2000.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

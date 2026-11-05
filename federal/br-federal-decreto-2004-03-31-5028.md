@@ -1,5 +1,3 @@
-###DEC-005028-0-000-31-03-2004@@@
-
 DECRETO Nº 5.028,  DE 31 DE MARÇO DE 2004
 
 Altera os valores dos limites fixados nos incisos I e II do art. 2º da Lei nº 9.841 de 5 de outubro de 1999, que instituiu o Estatuto da Microempresa e da Empresa de Pequeno Porte.

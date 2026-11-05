@@ -30,7 +30,8 @@ Art. 3º. Ficam nomeados, para compor os cargos definidos no artigo anterior, os
 
 I.    GESTOR DE RECURSOS:
 
-a)    Paulo Ricardo Oliveira Santos – mat. 1972360;<br>
+a)    Paulo Ricardo Oliveira Santos – mat. 1972360;
+
 (Redação alterada pelo Decreto "N" nº 892, de 23 de outubro de 2024).
 
 ~~a)    Khayo Eduardo Pires de Oliveira – Matrícula nº 1972048.~~
@@ -71,11 +72,14 @@ Art. 7º. – Este Decreto entrará em vigor na data de sua publicação, revoga
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 26 de Maio de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-EINSTEIN ALMEIDA FERREIRA PANIANO<br>
+EINSTEIN ALMEIDA FERREIRA PANIANO
+
 Presidente do APARECIDAPREV

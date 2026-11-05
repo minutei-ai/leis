@@ -1,7 +1,3 @@
-1
-
-###DEC-000871-0-000-14-07-1993@@@
-
 DECRETO N° 871, DE 14 DE JULHO DE 1993
 
 Dispõe sobre a execução do Décimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 22/04/93.

@@ -1,5 +1,3 @@
-###DEC-069879-0-000-30-12-1971@@@
-
 DECRETO Nº 69.879 - DE 30 DE DEZEMBRO DE 1971
 
 Retifica os Decretos nºs 57.645, de 20 de janeiro de 1966, 65.602, de 22 de outubro de 1969 e 67.880, de 18 de dezembro de 1970, que tratam de inclusão e redistribuição de Servidores do Ministério do Trabalho e Previdência Social.

@@ -1,5 +1,3 @@
-###DEL-003483-0-000-12-08-1941@@@
-
 DECRETO-LEI N. 3.483 – DE 12 DE AGOSTO DE 1941
 
 Concede ao Senhor General Antonio Oscar de Fragoso Carmona, Presidente da República Portuguesa, a patente de General de Divisão honorário do Exército brasileiro

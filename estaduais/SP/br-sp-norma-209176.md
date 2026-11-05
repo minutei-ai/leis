@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209176)<br>
-
 # DECRETO N° 68.377, DE 09 DE MARÇO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 447 e 457 da Rodovia SP-284, nos Municípios de Assis e Paraguaçu Paulista, e dá providências correlatas._

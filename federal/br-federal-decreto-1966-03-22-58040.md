@@ -1,5 +1,3 @@
-###DEC-058040-0-000-22-03-1966@@@
-
 decreto nº 58.040, de 22 de março de 1966.
 
 Concede à Emprêsa de Mineração Santo Amaro Ltda. autorização para funcionar como emprêsa de mineração.

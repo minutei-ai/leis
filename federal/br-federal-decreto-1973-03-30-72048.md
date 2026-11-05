@@ -1,5 +1,3 @@
-###DEC-072048-0-000-30-03-1973@@@
-
 DECRETO Nº 72.048, DE 30 DE MARÇO DE 1973
 
 Concede à REAGO - Indústria e Comércio S.A. o direito de lavrar gnaisse no Município de Itapecerica da Serra, Estado de São Paulo.

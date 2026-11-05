@@ -1,5 +1,3 @@
-###DEC-088330-0-000-25-05-1983@@@
-
 Decreto nº 88.330, de 25 de maio de 1983
 
 Autoriza a transferência direta para a RÁDIO DIFUSORA DO BRASIL LTDA., da concessão deferida à RÁDIO CACIQUE DE SÃO CAETANO DO SUL LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Caetano do Sul, Estado de São Paulo.

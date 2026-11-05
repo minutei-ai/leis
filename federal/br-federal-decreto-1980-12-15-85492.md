@@ -1,5 +1,3 @@
-###DEC-085492-0-000-15-12-1980@@@
-
 Decreto nº 85.492, de 15 de dezembro de 1980.
 
 Autoriza a elevação do capital Social da Fertilizantes Fosfatados S. A. - FOSFÉRTIL.

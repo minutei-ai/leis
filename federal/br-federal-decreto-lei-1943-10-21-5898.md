@@ -1,5 +1,3 @@
-###DEL-005898-0-000-21-10-1943@@@
-
 DECRETO‑LEI N. 5.898 – DE 21 DE OUTUBRO DE 1943
 
 Abre ao Ministério da Educação e Saúde a crédito especial de Cr$ 1.652.923,00 Para aquisição de produtos destinados ao combate à malária

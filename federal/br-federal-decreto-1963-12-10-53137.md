@@ -1,5 +1,3 @@
-###DEC-053137-0-000-10-12-1963@@@
-
 DECRETO Nº 53.137, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à São Thomaz Minérios S.A. autorização para funcionar como emprêsa de mineração.

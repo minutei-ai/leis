@@ -1,5 +1,3 @@
-###DEC-000000-0-000-04-02-1823@@@
-
 DECRETO - DE 4 DE FEVEREIRO DE 1823
 
 Crêa na Mesa do Consulado uma Administração para arrecadação de diversas rendas.
@@ -178,7 +176,25 @@ Rio de Janeiro, 4 de Fevereiro de 1823. - Martim Francisco Ribeiro de Andrada.
 
 TABELLA DOS DESCONTOS QUE SE DEVEM FAZER NO PREÇO DO ASSUCARANTES DE SE DEDUZIR O DIZIMO
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Por encaixe e transporte de cada arroba de assucar fabricado nos engenhos do reconcavo desta cidade, situados de barra dentro junto a portos de mar, e de rios navegaveis</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">$160</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Dito nos engenhos situados dentro da distancia de 5 leguas dos ditos portos</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">$240</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Dito nos engenhos situados desde a distancia de 5 leguas dos mesmos portos até á serra</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">$320</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Dito nos engenhos de serra acima</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">$480</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Por encaixe e conducção de cada arroba de assucar, que vier de barra fóra, como Campos, Macahé, Cabo-frio, Sepetiba, Ilha Grande, etc</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">$320</span></p></td></tr></tbody></table>
+Por encaixe e transporte de cada arroba de assucar fabricado nos engenhos do reconcavo desta cidade, situados de barra dentro junto a portos de mar, e de rios navegaveis
+
+$160
+
+Dito nos engenhos situados dentro da distancia de 5 leguas dos ditos portos
+
+$240
+
+Dito nos engenhos situados desde a distancia de 5 leguas dos mesmos portos até á serra
+
+$320
+
+Dito nos engenhos de serra acima
+
+$480
+
+Por encaixe e conducção de cada arroba de assucar, que vier de barra fóra, como Campos, Macahé, Cabo-frio, Sepetiba, Ilha Grande, etc
+
+$320
 
 Além destas despesas se hão de abater 15 réis por cada arroba de assucar, que tiver entrado nos trapiches desta cidade, e no que vier de barra fóra mais 200 réis de guarda-costa por caixa ou feixo.
 

@@ -1,5 +1,3 @@
-###DEC-055198-0-000-11-12-1964@@@
-
 DECRETO Nº 55.198, DE 11 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Tosiharo Nonaka a pesquisar mármore, no município de Itabirito, Estado de Minas Gerais.

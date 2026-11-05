@@ -1,5 +1,3 @@
-###DEC-050779-0-000-10-06-1961@@@
-
 DECRETO Nº 50.779, DE 10 DE JUNHO DE 1961
 
 Outorga à Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul concessão para distribuir energia elétrica.

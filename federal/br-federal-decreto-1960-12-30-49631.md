@@ -1,5 +1,3 @@
-###DEC-049631-0-000-30-12-1960@@@
-
 decreto nº 49.631, de 30 de dezembro de 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Colonial - Companhia Nacional de Seguros Gerais.

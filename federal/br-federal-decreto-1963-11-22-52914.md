@@ -1,5 +1,3 @@
-###DEC-052914-0-000-22-11-1963@@@
-
 DECRETO Nº 52.914, DE 22 DE NOVEMBRO DE 1963.
 
 Aprova alteração introduzidas nos Estatutos da COLONIAL COMPANHIA DE SEGUROS GERAIS, relativa ao aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 22 de novembro de 1963; 142º da Independência e 75 º da República
 João Goulart
 
 Marcial Dias Pequeno
-
-###DEC-052914-0-000-22-11-1963@@@RET01+++
 
 DECRETO Nº 52.914, DE 22 DE NOVEMBRO DE 1963.
 

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74340)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2007/compilacao-lei.complementar-1015-15.10.2007.html)
 
 # LEI COMPLEMENTAR Nº 1.015, DE 15 DE OUTUBRO DE 2007

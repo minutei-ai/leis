@@ -1,5 +1,3 @@
-###DEC-093263-0-000-17-09-1986@@@
-
 DECRETO Nº 93.263, DE 17 DE SETEMBRO DE 1986
 
 Declara de ocupação dos indígenas, área de terras que menciona no Estado do Maranhão, e dá outras providências.

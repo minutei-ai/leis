@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210552)<br>
-
 # DECRETO N° 69.324, DE 22 DE JANEIRO DE 2025
 
 ### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas._

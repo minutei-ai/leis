@@ -1,5 +1,3 @@
-###DEC-072544-0-000-30-07-1973@@@
-
 decreto nº 72.544, de 30 de julho de 1973.
 
 Concede reconhecimento a Escola de Engenharia do Maranhão, mantida pelo Governo Estadual, São Luiz, Estado do Maranhão.

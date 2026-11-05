@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185566)
-
 # DECRETO Nº 63.279, DE 19 DE MARÇO DE 2018
 
 ### _Dispõe sobre as alterações que especifica na estrutura da Agência Paulista de Tecnologia dos Agronegócios (APTA), introduz modificações no Decreto nº 46.488, de 8 de janeiro de 2002, que trata de sua reorganização, e dá providências correlatas_
@@ -1056,16 +1054,19 @@ Palácio dos Bandeirantes, 19 de março de 2018
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
-Publicado na Secretaria de Governo, aos 19 de março de 2018.
+Arnaldo Calil Pereira Jardim
 
-<br>
-<br>
+Secretário de Agricultura e Abastecimento
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
+Publicado na Secretaria de Governo, aos 19 de março de 2018.
 
 #### [DECRETO Nº 63.279, DE 19 DE MARÇO DE 2018](https://www.al.sp.gov.br/norma/185566)
 
@@ -1073,11 +1074,18 @@ Publicado na Secretaria de Governo, aos 19 de março de 2018.
 
 No artigo 6º, inciso XXII, alínea “b”, leia-se como segue e não como constou:
 
-b) o “caput” e as alíneas “a” e “b” do inciso III:<br>
-“III - 68 (sessenta e oito) de Diretor Técnico I, destinadas:<br>
-... ”;(NR) e no artigo 7º, inciso XIX, leia-se como segue e não como constou:<br>
-XIX - do artigo 110:<br>
-a) a alínea “m” do inciso III:<br>
-“m) 1 (uma) ao Núcleo de Atividades Técnico-Operacionais;”;<br>
-b) a alínea “i” do inciso V:<br>
+b) o “caput” e as alíneas “a” e “b” do inciso III:
+
+“III - 68 (sessenta e oito) de Diretor Técnico I, destinadas:
+
+... ”;(NR) e no artigo 7º, inciso XIX, leia-se como segue e não como constou:
+
+XIX - do artigo 110:
+
+a) a alínea “m” do inciso III:
+
+“m) 1 (uma) ao Núcleo de Atividades Técnico-Operacionais;”;
+
+b) a alínea “i” do inciso V:
+
 “i) 1 (uma) ao Núcleo de Apoio à Gestão de Recursos Humanos.”; ...

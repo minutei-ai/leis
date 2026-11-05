@@ -1,5 +1,3 @@
-###DEC-051191-0-000-11-08-1961@@@
-
 DECRETO Nº 51.191, DE 11 DE AGÔSTO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Município de São João Evangelista, no Estado de Minas Gerais.

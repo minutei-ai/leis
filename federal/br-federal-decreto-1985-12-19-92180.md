@@ -1,5 +1,3 @@
-###DEC-092180-0-000-19-12-1985@@@
-
 DECRETO Nº 92.180, DE 19 DE DEZEMBRO DE 1985.
 
 Regulamenta a Lei nº 7.418, de 16 de dezembro de 1985, que cria o Vale-Transporte.

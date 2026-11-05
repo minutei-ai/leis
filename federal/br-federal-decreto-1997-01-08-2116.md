@@ -1,5 +1,3 @@
-###DEC-002116-0-000-08-01-1997@@@
-
 DECRETO Nº 2.116, DE 8 DE JANEIRO DE 1997
 
 Fixa o valor absoluto do limite global das deduções do Imposto sobre a Renda devido, relativas a doações e patrocínios em favor de projetos culturais e incentivos à atividade audiovisual.

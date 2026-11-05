@@ -1,5 +1,3 @@
-###DEL-002064-0-000-19-10-1983@@@
-
 # Decreto-lei nº 2.064, de 19 de outubro de 1983
 
 Altera a legislação do Imposto de Renda, dispõe sobre o reajustamento dos aluguéis residenciais, sobre as prestações dos empréstimos do Sistema Financeiro da Habitação, sobre a revisão do valor dos salários, e dá outras providências.
@@ -34,7 +32,21 @@ II - pelo cônjuge, ou parente de primeiro grau, das pessoas físicas referidas 
 
 Art. 5º - Os juros percebidos por pessoas físicas ou jurídicas produzidos por Obrigações Reajustáveis do Tesouro Nacional e outros títulos da dívida pública federal, estadual ou municipal, letras imobiliárias, depósitos a prazo fixo em instituição financeira autorizada, com ou sem emissão de certificado, debêntures, ou debêntures conversíveis em ações, letras de câmbio de aceite ou coobrigação de instituição financeira autorizada, cédulas hipotecárias emitidas ou endossadas por instituição financeira autorizada, sujeitos à correção monetária aos mesmos índices aprovados para as Obrigações Reajustáveis do Tesouro Nacional, serão tributados na fonte, no ato do respectivo pagamento ou crédito, de acordo com a tabela seguinte:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:210.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="font-size:10pt"><span>PRAZO DE EMISSÃ</span><span>O</span></p></td><td style="width:210.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="font-size:10pt"><span>ALÍ</span><span>QUOTA</span></p></td></tr><tr><td style="width:210.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="font-size:10pt"><span>Inferior a 24 meses</span></p></td><td style="width:210.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="font-size:10pt"><span>40%</span></p></td></tr><tr><td style="width:210.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="font-size:10pt"><span>De 24 a 60 meses</span></p></td><td style="width:210.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="font-size:10pt"><span>35%</span></p></td></tr><tr><td style="width:210.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="font-size:10pt"><span>Superior a 60 meses</span></p></td><td style="width:210.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="font-size:10pt"><span>30%</span></p></td></tr></tbody></table>
+PRAZO DE EMISSÃO
+
+ALÍQUOTA
+
+Inferior a 24 meses
+
+40%
+
+De 24 a 60 meses
+
+35%
+
+Superior a 60 meses
+
+30%
 
 § 1º - À opção da pessoa física, os juros de que trata este artigo poderão ser incluídos na declaração como rendimento tributado exclusivamente na fonte.
 
@@ -88,7 +100,7 @@ Art. 12 - A partir do exercício de 1984, o limite fixado no artigo 4º do Decre
 
 Art. 13 - A partir do exercício financeiro de 1985, o total das reduções previstas no artigo 2º do Decreto-lei nº 1.841, de 29 de dezembro de 1980, calculado sobre o imposto devido, não excederá os limites constantes da tabela abaixo, cujos valores em cruzeiros serão atualizados para o exercício financeiro de 1985:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td colspan="2" style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>CLASSES DE RENDA BRUTA</span><span style="-aw-import:spaces">&nbsp; </span><span>Cr$</span></p></td><td colspan="2" style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>LIMITES DE REDUÇÃ</span><span>O DO IMPOSTO DEVIDO</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>De 8.000.001 Acima</span></p></td><td colspan="2" style="width:174.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>Até</span><span> 8.000.000 a 12.000.000 de 12.000.000</span></p></td><td style="width:136pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>6% 4% 2%</span></p></td></tr><tr style="height:0pt"><td style="width:110.7pt"></td><td style="width:110.7pt"></td><td style="width:74.6pt"></td><td style="width:146.8pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> CLASSES DE RENDA BRUTA&nbsp; Cr$ </td><td colspan="2"> LIMITES DE REDUÇÃO DO IMPOSTO DEVIDO </td></tr><tr><td> De 8.000.001 Acima </td><td colspan="2"> Até 8.000.000 a 12.000.000 de 12.000.000 </td><td> 6% 4% 2% </td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 Art. 14 - Fica revogada a redução do imposto de renda devido pela pessoa física, prevista pelo artigo 3º do Decreto-lei nº 157, de 10 de fevereiro de 1967, e legislação posterior.
 
@@ -198,7 +210,165 @@ Art. 25 - A negociação coletiva observará a legislação aplicável e as norm
 
 Art. 26 - O aumento salarial, até 31 de julho de 1985, será obtido multiplicando-se o montante do salário do empregado, semestralmente, pelo fator da variação, no período, do Índice Nacional de Preços ao Consumidor (INPC) que lhe corresponda na seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>Montante de Salá</span><span>rios em Salá</span><span>rios Mí</span><span>nimos</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>Fator de Variaçã</span><span>o do INPC</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>Montante de Salá</span><span>rios em Salá</span><span>rios Mí</span><span>nimos</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>Fator de Variaçã</span><span>o do INPC</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>Até</span><span> 3</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>100</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>21 - 22</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>53</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>3 - 4</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>95</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>22 - 23</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>51</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>4 - 5</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>92</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>23 - 24</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>49</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>5 - 6</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>90</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>24 - 25</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>47</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>6 - 7</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>88</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>25 - 26</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>45</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>7 - 8</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>84</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>26 - 27</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>43</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>8 - 9</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>80</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>27 - 28</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>42</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>9 - 10</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>77</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>28 - 29</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>40</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>10 - 11</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>75</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>29 - 30</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>39</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>11 - 12</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>73</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>30 - 31</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>38</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>12 - 13</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>71</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>31 - 32</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>37</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>13 - 14</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>69</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>32 - 33</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>35</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>14 - 15</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>68</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>33 - 34</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>34</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>15 - 16</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>66</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>34 - 35</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>33</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>16 - 17</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>64</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>35 - 36</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>32</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>17 - 18</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>62</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>36 - 37</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>31</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>18 - 19</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>60</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>37 - 38-</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>30</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>19 - 20</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>58</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>38 - 39</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>30</span></p></td></tr><tr><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>20 - 21</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>56</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>39 - 40</span></p></td><td style="width:99.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span>30</span></p></td></tr></tbody></table>
+Montante de Salários em Salários Mínimos
+
+Fator de Variação do INPC
+
+Montante de Salários em Salários Mínimos
+
+Fator de Variação do INPC
+
+Até 3
+
+100
+
+21 - 22
+
+53
+
+3 - 4
+
+95
+
+22 - 23
+
+51
+
+4 - 5
+
+92
+
+23 - 24
+
+49
+
+5 - 6
+
+90
+
+24 - 25
+
+47
+
+6 - 7
+
+88
+
+25 - 26
+
+45
+
+7 - 8
+
+84
+
+26 - 27
+
+43
+
+8 - 9
+
+80
+
+27 - 28
+
+42
+
+9 - 10
+
+77
+
+28 - 29
+
+40
+
+10 - 11
+
+75
+
+29 - 30
+
+39
+
+11 - 12
+
+73
+
+30 - 31
+
+38
+
+12 - 13
+
+71
+
+31 - 32
+
+37
+
+13 - 14
+
+69
+
+32 - 33
+
+35
+
+14 - 15
+
+68
+
+33 - 34
+
+34
+
+15 - 16
+
+66
+
+34 - 35
+
+33
+
+16 - 17
+
+64
+
+35 - 36
+
+32
+
+17 - 18
+
+62
+
+36 - 37
+
+31
+
+18 - 19
+
+60
+
+37 - 38-
+
+30
+
+19 - 20
+
+58
+
+38 - 39
+
+30
+
+20 - 21
+
+56
+
+39 - 40
+
+30
 
 § 1º - O empregado que receber salário em montante superior a 40 (quarenta) salários mínimos terá aumento como se 40 (quarenta) salários mínimos percebesse.
 

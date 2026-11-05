@@ -1,5 +1,3 @@
-###DEC-002518-0-000-12-03-1998@@@
-
 DECRETO Nº 2.518, DE 12 DE MARÇO DE 1998
 
 Promulga a Convenção número 144 da OIT sobre Consultas Tripartites para Promover a Aplicação das Normas Internacionais do Trabalho, adotada em Genebra, em 21 de junho de 1976.

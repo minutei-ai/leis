@@ -1,5 +1,3 @@
-###DEC-048167-0-000-10-05-1960@@@
-
 Decreto nº 48.167, de 10 de maio de 1960.
 
 Autoriza o cidadão brasileiro Genor Maragno a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-004260-0-000-06-06-2002@@@
-
 DECRETO Nº 4.260, DE 6 DE JUNHO DE 2002
 
 Extingue a atividade de impressão plana da Imprensa Nacional e dá outras providências.

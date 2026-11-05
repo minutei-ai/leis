@@ -1,5 +1,3 @@
-###DEC-046866-0-000-16-09-1959@@@
-
 DECRETO Nº 46.866, DE 16 DE SETEMBRO DE 1959.
 
 Dispõe sôbre equiparação de cursos do ensino industrial.

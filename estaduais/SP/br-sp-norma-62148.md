@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62148)
-
 # LEI Nº 12.371, DE 27 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 554/2005, do Deputado Sebastião Batista Machado - PV)

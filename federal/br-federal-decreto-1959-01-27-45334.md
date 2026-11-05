@@ -1,5 +1,3 @@
-###DEC-045334-0-000-27-01-1959@@@
-
 DECRETO Nº 45.334, DE 27 DE JANEIRO DE 1959.
 
 Outorga a Francisco Agudo Romão concessão para aproveitamento de energia hidráulica de um desnível existente no rio Vermelho, Distrito e Município de Florestópolis, Estado do Paraná.

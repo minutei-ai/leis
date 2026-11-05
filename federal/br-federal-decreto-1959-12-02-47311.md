@@ -1,5 +1,3 @@
-###DEC-047311-0-000-02-12-1959@@@
-
 DECRETO nº 47.311, DE 2 DE DEZEMBRO DE 1959.
 
 Concede à sociedade Navegação Murtinhense Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

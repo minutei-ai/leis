@@ -1,5 +1,3 @@
-###DEC-096187-0-000-21-06-1988@@@
-
 DECRETO N° 96.187, DE 21 DE JUNHO DE 1988
 
 Autoriza o aumento do capital social da Empresa Brasileira de Trens Urbanos de Porto Alegre S.A. - TRENSURB.

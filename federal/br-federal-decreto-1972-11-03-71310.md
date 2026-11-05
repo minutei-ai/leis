@@ -1,5 +1,3 @@
-###DEC-071310-0-000-03-11-1972@@@
-
 DECRETO Nº 71.310 - DE 3 DE NOVEMBRO DE 1972.
 
 Aprova o Regulamento da Diretoria de Pessoal Civil, do Departamento Geral do Pessoal do Ministério do Exército e dá outras providências.

@@ -1,30 +1,28 @@
-###DEC-052662-0-000-11-10-1963@@@
+**DECRETO Nº 52.662, DE 11 DE OUTUBRO DE 1963.**
 
-<strong>DECRETO Nº 52.662, DE 11 DE OUTUBRO DE 1963.</strong>
+***Aprova o Regimento do Departamento de Defesa e Inspeção Agropecuária, do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Departamento de Defesa e Inspeção Agropecuária, do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento de Defesa e Inspeção Agropecuária, do Ministério da Agricultura, que com êste baixa assinado pelo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento de Defesa e Inspeção Agropecuária, do Ministério da Agricultura, que com êste baixa assinado pelo Ministro de Estado.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogados as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogados as disposições em contrário.
 
 Brasília, 11 de outubro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Osvaldo Lima Filho
 
-<strong>REGIMENTO DO DEPARTAMENTO DE DEFESA E INSPEÇÃO AGROPECUÁRIA (DDIA)</strong>
+**REGIMENTO DO DEPARTAMENTO DE DEFESA E INSPEÇÃO AGROPECUÁRIA (DDIA)**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Departamento de Defesa e Inspeção Agropecuária (DDIA), criado pela Lei Delegada nº 9, de 11-10-62, diretamente subordinado ao Secretário Geral da Agricultura, é o órgão central das atividades de defesa, inspeção, padronização e classificação dos produtos de origem vegetal e animal e dos bens essenciais à sua produção, competindo-lhe:
+**Art**. 1º O Departamento de Defesa e Inspeção Agropecuária (DDIA), criado pela Lei Delegada nº 9, de 11-10-62, diretamente subordinado ao Secretário Geral da Agricultura, é o órgão central das atividades de defesa, inspeção, padronização e classificação dos produtos de origem vegetal e animal e dos bens essenciais à sua produção, competindo-lhe:
 
 I - planejar, promover a execução e controlar as medidas de defesa sanitária animal e vegetal;
 
@@ -34,11 +32,11 @@ III - planejar, promover a execução e controlar os trabalhos de registro, fisc
 
 IV - cumprir e fazer cumprir a legislação federal, atos complementares e os acôrdos e convênios internacionais referentes à sanidade animal e vegetal, classificação e padronização e sanidade dos produtos e subprodutos de origem animal e vegetal.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O Departamento de Defesa e Inspeção Agropecuária (DDIA) compreende:
+**Art**. 2º O Departamento de Defesa e Inspeção Agropecuária (DDIA) compreende:
 
 A - ÓRGÃOS CENTRAIS
 
@@ -180,39 +178,39 @@ Laboratórios de Contrôle de Produtos Agropecuários (LAGRO).
 
 § 5º Os membros consultivos sòmente tomarão parte nas reuniões quando convocados pelo Diretor-Geral do DDIA, não tendo direito a voto.
 
-<strong>Art</strong>. 3º O DDIA será dirigido por um Diretor-Geral, nomeado em comissão pelo Presidente da República, entre os ocupantes de cargos de Engenheiro-Agrônomo e Veterinário.
+**Art**. 3º O DDIA será dirigido por um Diretor-Geral, nomeado em comissão pelo Presidente da República, entre os ocupantes de cargos de Engenheiro-Agrônomo e Veterinário.
 
 Parágrafo único. O Diretor-Geral terá quatro (4) assessôres, um Secrétario e dois Auxiliares, todos de sua livre escolha, entre funcionários do Ministério da Agricultura.
 
-<strong>Art</strong>. 4º Os Serviços de Defesa Sanitária Animal e Defesa Sanitária Vegetal terão Diretores, nomeados em comissão pelo Presidente da República e escolhidos, respectivamente, entre ocupantes de cargos de Veterinário e Engenheiro-Agrônomo do Ministério da Agricultura.
+**Art**. 4º Os Serviços de Defesa Sanitária Animal e Defesa Sanitária Vegetal terão Diretores, nomeados em comissão pelo Presidente da República e escolhidos, respectivamente, entre ocupantes de cargos de Veterinário e Engenheiro-Agrônomo do Ministério da Agricultura.
 
-<strong>Art</strong>. 5º Os Serviços de Padronização e Classificação e de Inspeção de Produtos Agropecuários e Materiais Agrícolas terão Diretores, nomeados em comissão pelo Presidente da República e escolhidos entre os ocupantes de cargos de Engenheiro-Agrônomo ou Veterinário do Ministério da Agricultura.
+**Art**. 5º Os Serviços de Padronização e Classificação e de Inspeção de Produtos Agropecuários e Materiais Agrícolas terão Diretores, nomeados em comissão pelo Presidente da República e escolhidos entre os ocupantes de cargos de Engenheiro-Agrônomo ou Veterinário do Ministério da Agricultura.
 
-<strong>Art</strong>. 6º Cada Diretor terá um assessor um Secretário e um auxiliar, todos de sua livre escolha entre funcionários públicos federais, sendo que os Diretores do SIPAMA e SPC terão, cada um, 2 (dois) assessôres, um Engenheiro-Agrônomo e outro Veterinário.
+**Art**. 6º Cada Diretor terá um assessor um Secretário e um auxiliar, todos de sua livre escolha entre funcionários públicos federais, sendo que os Diretores do SIPAMA e SPC terão, cada um, 2 (dois) assessôres, um Engenheiro-Agrônomo e outro Veterinário.
 
-<strong>Art</strong>. 7º As funções de assessor de que tratam os artigos anteriores serão, de preferência, exercidas por ocupantes de cargos técnicos.
+**Art**. 7º As funções de assessor de que tratam os artigos anteriores serão, de preferência, exercidas por ocupantes de cargos técnicos.
 
-<strong>Art</strong>. 8º Os Postos de Defesa Sanitária Vegetal serão sediados nas cidades de Itabuna, São Gonçalo, Nova Iguaçu, Rio de Janeiro, Campo Grande, União de Vitória, São Francisco do Sul, Pelotas, Livramento, Uruguaiana, Rio Grande, Barbacena, Ubá, Angra dos Reis, Paranaguá e Uberlândia.
+**Art**. 8º Os Postos de Defesa Sanitária Vegetal serão sediados nas cidades de Itabuna, São Gonçalo, Nova Iguaçu, Rio de Janeiro, Campo Grande, União de Vitória, São Francisco do Sul, Pelotas, Livramento, Uruguaiana, Rio Grande, Barbacena, Ubá, Angra dos Reis, Paranaguá e Uberlândia.
 
-<strong>Art</strong>. 9º As Seções, Laboratórios Centrais, Patrulha Aérea, Biblioteca Central e Setor terão chefes e as Turmas, encarregados.
+**Art**. 9º As Seções, Laboratórios Centrais, Patrulha Aérea, Biblioteca Central e Setor terão chefes e as Turmas, encarregados.
 
-<strong>Art</strong>. 10. As Inspetorias e Agências, à Estação de Premunição em Pinheiral, os Quarentenários Veterinários em Fernando Noronha e Samaritá, a Estação de Expurgo de Produtos Vegetais na Guanabara a Estação Fitossanitária de São Bento e os Postos de Defesa Sanitária Vegetal de que trata o art. 8º, terão chefes e as Turmas de Administração, Encarregados, designados pelos respectivos Diretores.
+**Art**. 10. As Inspetorias e Agências, à Estação de Premunição em Pinheiral, os Quarentenários Veterinários em Fernando Noronha e Samaritá, a Estação de Expurgo de Produtos Vegetais na Guanabara a Estação Fitossanitária de São Bento e os Postos de Defesa Sanitária Vegetal de que trata o art. 8º, terão chefes e as Turmas de Administração, Encarregados, designados pelos respectivos Diretores.
 
-<strong>Art</strong>. 11. O Diretor-Geral do DDIA designará um dos chefes de Inspetoria ou Agência para coordenar os serviços do Departamento no respectivo Estado e representá-lo junto à Comissão Técnico-Administrativa da Delegacia Federal de Agricultura, no mesmo Estado.
+**Art**. 11. O Diretor-Geral do DDIA designará um dos chefes de Inspetoria ou Agência para coordenar os serviços do Departamento no respectivo Estado e representá-lo junto à Comissão Técnico-Administrativa da Delegacia Federal de Agricultura, no mesmo Estado.
 
-<strong>Art</strong>. 12. Os trabalhos de planejamento e coordenação das atividades do DDIA em cada Estado ficarão a cargo de uma comissão constituída pelos Chefes das Inspetorias e Agência, presidida pelo representante do Departamento de que trata o artigo anterior.
+**Art**. 12. Os trabalhos de planejamento e coordenação das atividades do DDIA em cada Estado ficarão a cargo de uma comissão constituída pelos Chefes das Inspetorias e Agência, presidida pelo representante do Departamento de que trata o artigo anterior.
 
-<strong>Art</strong>. 13. Os órgãos integrantes do DDIA funcionarão articulados, em regime de mútua colaboração, sob a orientação do Diretor-Geral que coordenará, supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais, do Departamento.
+**Art**. 13. Os órgãos integrantes do DDIA funcionarão articulados, em regime de mútua colaboração, sob a orientação do Diretor-Geral que coordenará, supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais, do Departamento.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Conselho de Diretores</em>
+*Do Conselho de Diretores*
 
-<strong>Art</strong>. 14. Ao Conselho de Diretores compete:
+**Art**. 14. Ao Conselho de Diretores compete:
 
 I - elaborar, sob critérios prioritários e periódico, a curto e a longo prazo, planos e programas do DDIA;
 
@@ -224,7 +222,7 @@ IV - discutir a proposta orçamentária do DDIA;
 
 V - sugerir ao Diretor-Geral a convocação de técnicos estrangeiros e nacionais de reconhecido valor, para reuniões de intercâmbio técnico científico.
 
-<strong>Art</strong>. 15. À Seção de Programa e Avaliação (SEPRA - DDIA) compete:
+**Art**. 15. À Seção de Programa e Avaliação (SEPRA - DDIA) compete:
 
 I - assessorar o Diretor-Geral no exame dos problemas relativos a planejamento, programação e avaliação das atividades a cargo do DDIA, visando a harmonizar o trabalho dos diferentes órgãos, em função das diretrizes do Ministério e da agricultura do país;
 
@@ -234,11 +232,11 @@ III - cooperar na implantação da programação aprovada;
 
 IV - prestar ao Conselho de Diretores a cooperação indispensável ao levantamento de necessidades e ao exame das tarefas atinentes ao DDIA.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Dos Conselhos de Defesa Sanitária</em>
+*Dos Conselhos de Defesa Sanitária*
 
-<strong>Art</strong>. 16. Ao Conselho de Defesa Sanitária Animal (CDSA) compete:
+**Art**. 16. Ao Conselho de Defesa Sanitária Animal (CDSA) compete:
 
 I - estudar, propor ou estabelecer medidas de defesa sanitária animal, complementares a legislação vigente, bem como outras que se fizerem necessárias ao atendimento de convênios ou recomendações internacionais;
 
@@ -246,7 +244,7 @@ II - manifestar-se sôbre casos omissos e interpretações relativas à execuç�
 
 III - opinar, do ponto de vista técnico, nos recursos sôbre penalidades aplicadas por infração das disposições legais específicas.
 
-<strong>Art</strong>. 17. Ao Conselho de Defesa Sanitária Vegetal (CDSV) compete:
+**Art**. 17. Ao Conselho de Defesa Sanitária Vegetal (CDSV) compete:
 
 I - estudar, propor ou estabelecer medidas de defesa sanitária vegetal, complementares a legislação vigente, bem como outras que se fizerem necessárias ao atendimento de convênios ou recomendações internacionais;
 
@@ -254,15 +252,15 @@ II - manifestar-se sôbre casos omissos e interpretações relativas a execuçã
 
 III - opinar, do ponto de vista técnico, nos recursos sôbre penalidades aplicadas por infração das disposições legais específicas.
 
-<strong>Art</strong>. 18. Tôdas as deliberações dos Conselhos serão tomadas por maioria de votos dos membros permanentes.
+**Art**. 18. Tôdas as deliberações dos Conselhos serão tomadas por maioria de votos dos membros permanentes.
 
-Parágrafo único. As deliberações dos Conselhos serão publicadas no <em>Diário</em> <em>Oficial</em>.
+Parágrafo único. As deliberações dos Conselhos serão publicadas no *DiárioOficial*.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Serviço de Defesa Sanitária Animal</em>
+*Do Serviço de Defesa Sanitária Animal*
 
-<strong>Art</strong>. 19. Ao Serviço de Defesa Sanitária Animal (SDSA) compete:
+**Art**. 19. Ao Serviço de Defesa Sanitária Animal (SDSA) compete:
 
 I - planejar, promover, executar e controlar os trabalhos de vigilância zoosanitária;
 
@@ -278,7 +276,7 @@ VI - cumprir e fazer cumprir os acordos e convênios internacionais de defesa sa
 
 VII - promover a fabricação de soros, vacinas e outros produtos biológicos de uso veterinário, em caráter supletivo.
 
-<strong>Art</strong>. 20. À Seção de Doenças Infeciosas (SEINF) compete:
+**Art**. 20. À Seção de Doenças Infeciosas (SEINF) compete:
 
 I - estabelecer, promover e coordenar as medidas referentes à profilaxia e combate às enzootias e epizootias infeciosas dos animais;
 
@@ -292,7 +290,7 @@ V - colaborar com a Seção de Nosografia e Informes Zoosanitários, fornecendo-
 
 Parágrafo único. As atividades de defesa sanitária animal, relativas às doenças infeciosas das aves e à febre aftosa, serão desempenhadas, respectivamente, pela SERNI e SEFAF.
 
-<strong>Art</strong>. 21. À Seção de Doenças Parasitárias (SEDOE) compete:
+**Art**. 21. À Seção de Doenças Parasitárias (SEDOE) compete:
 
 I - estabelecer, promover e coordenar as medidas referentes à profilaxia e combate às parasitoses dos animais;
 
@@ -308,7 +306,7 @@ VI - coordenar as atividades das Estações de Premunição.
 
 Parágrafo único. As atividades de defesa sanitário animal relativas às doenças parasitárias das aves, serão exercidas pela SERNI.
 
-<strong>Art</strong>. 22. À Seção de Ornitopatologia (SERNI) compete:
+**Art**. 22. À Seção de Ornitopatologia (SERNI) compete:
 
 I - estabelecer, promover e coordenar as medidas referentes à profilaxia e combate às doenças das aves;
 
@@ -318,7 +316,7 @@ III - manter atualizados códigos, regulamentos e outros atos, bem como a docume
 
 IV - colaborar com a Seção de Nosografia e Informes Zoosanitários, fornecendo-lhe informações e dados referentes às doenças sob seu contrôle.
 
-<strong>Art</strong>. 23. À Seção de Febre Aftosa (SEFAF) compete:
+**Art**. 23. À Seção de Febre Aftosa (SEFAF) compete:
 
 I - estabelecer, promover e coordenar as medidas referentes à profilaxia e combate à febre aftosa e doenças vesiculares correlatas;
 
@@ -328,7 +326,7 @@ III - manter atualizados códigos, regulamentos e outros atos, bem como a docume
 
 IV - colaborar com a Seção de Nosografia e Informes Zoosanitários, fornecendo-lhe informações e dados referentes às doenças sob seu contrôle;
 
-<strong>Art</strong>. 24. À Seção de Vigilância Sanitário Animal (SEVIG) compete:
+**Art**. 24. À Seção de Vigilância Sanitário Animal (SEVIG) compete:
 
 I - estabelecer, promover e coordenar a execução das medidas de vigilância zoosantiárias referentes à importação e exportação internacional de animais, produtos derivados e materiais diversos nos postos e estações de fronteira do país junto às alfândegas, postos aduaneiros, correios, armazéns frigoríficos, meios de transportes marítimos, fluviais, terrestres e aéreos e onde mais se fizer necessário, a fim de impedir a introdução e a disseminação, no território nacional, de doenças infeciosas ou parasitárias;
 
@@ -348,7 +346,7 @@ VIII - manter atualizados códigos, regulamentos e outros atos, bem como a docum
 
 IX - colaborar com a Seção de Nosografia e Informes Zoosanitários, fornecendo-lhe informações e dados referentes aos diagnósticos efetuados e às demais atividades que lhe são atribuídas.
 
-<strong>Art</strong>. 25. À Seção de Produtos Veterinários (SEVET) compete:
+**Art**. 25. À Seção de Produtos Veterinários (SEVET) compete:
 
 I - promover o registro, o financiamento e contrôle e a fiscalização dos produtos e materiais veterinários e dos estabelecimentos que os fabricam, mantendo atualizados os assentamentos correspondentes;
 
@@ -370,7 +368,7 @@ IX - cooperar com o Serviço de Revenda do Material Agropecuário (SRMA) no que 
 
 X - colaborar com a Seção de Nosografia e Informes Zoosanitários, fornecendo-lhe os informes referentes à produtos de uso veterinário e estabelecimentos que os fabricam.
 
-<strong>Art</strong>. 26. À Seção de Nosografia e Informes Zoosanitários (SENOS) compete:
+**Art**. 26. À Seção de Nosografia e Informes Zoosanitários (SENOS) compete:
 
 I - promover e coordenar os levantamentos e epizootiológicos relativos às doenças infecto-contagiosas e parasitárias dos animais, com a colaboração das demais Seções técnicas e do Laboratório Central de Patologia Animal;
 
@@ -388,7 +386,7 @@ VII - difundir os métodos de profilaxia e tratamento das doenças infecto-conta
 
 VIII - promover contatos com órgãos e entidades nacionais e internacionais vinculados à defesa sanitária animal;
 
-<strong>Art</strong>. 27. Ao Laboratório Central de Patologia Animal (LACEA) compete:
+**Art**. 27. Ao Laboratório Central de Patologia Animal (LACEA) compete:
 
 I - proceder exames para fins de julgamento, registro, licenciamento e contrôle dos produtos e materiais veterinários, estabelecendo e interpretando as normas reguladoras da indústria e comércio dos mesmos;
 
@@ -406,13 +404,13 @@ VII - manter estudos atualizados das técnicas de elaboração e contrôle de pr
 
 VIII - colaborar no preparo ou aperfeiçoamento de técnicos do SDSA e outros, nas questões atinentes às suas atribuições.
 
-<strong>Art</strong>. 28. As Seções técnicas e o Laboratório Central de atologia Animal trabalhar e mútua cooperação, articular-se-ão com os demais órgãos do Ministério da Agricultura nos assuntos de suas respectivas competências, bem como colaboração na propaganda e divulga o de métodos zooprofiláticos e na publicação de trabalhos referentes à defesa sanitária animal.
+**Art**. 28. As Seções técnicas e o Laboratório Central de atologia Animal trabalhar e mútua cooperação, articular-se-ão com os demais órgãos do Ministério da Agricultura nos assuntos de suas respectivas competências, bem como colaboração na propaganda e divulga o de métodos zooprofiláticos e na publicação de trabalhos referentes à defesa sanitária animal.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do serviço de defesa sanitária vegetal</em>
+*Do serviço de defesa sanitária vegetal*
 
-<strong>Art</strong>. 29. Ao Serviço de Defesa Sanitária Vegetal (SDSV) compete:
+**Art**. 29. Ao Serviço de Defesa Sanitária Vegetal (SDSV) compete:
 
 I - planejar, promover, executar e controlar os trabalhos de vigilância Fitossanitária;
 
@@ -428,7 +426,7 @@ VI - orientar, coordenar e controlar e execução dos trabalhos de defesa sanit�
 
 Parágrafo único. Ao SDSV compete, ainda, cumprir e fazer cumprir os acôrdos e convênios internacionais de defesa sanitária vegetal.
 
-<strong>Art</strong>. 30. À Seção de Vigilância Fitossanitária (SEVIT) compete:
+**Art**. 30. À Seção de Vigilância Fitossanitária (SEVIT) compete:
 
 I - orientar, coordenar e executar a vigilância Fitossanitária nos postos e estações de fronteira do país junto às alfândegas, postos aduaneiros, correios, armazéns, frigoríficos, meios de transportes marítimos, fluviais, terrestres e aéreos, estabelecimentos de expurgo e onde mais se fizer necessário, a fim de impedir a introdução e dispersão, no território nacional, de doenças e pragas dos vegetais, partes de vegetal e produtos vegetais;
 
@@ -454,7 +452,7 @@ XI - Promover a execução da fiscalização fitossanitária no trânsito de pla
 
 XII - elaborar instruções fitossanitárias atinentes à importação, exportação, trânsito, comércio, propagação e armazenagem de plantas, produtos vegetais e outros materiais capazes de veicular parasitos.
 
-<strong>Art</strong>. 31. À Seção de Assistência Fitossanitária (SEASF) compete:
+**Art**. 31. À Seção de Assistência Fitossanitária (SEASF) compete:
 
 I - Elaborar e difundir instruções sôbre profilaxia e combate às doenças e pragas da lavoura;
 
@@ -466,7 +464,7 @@ IV - orientar e coordenar os trabalhos de sanidade vegetal, decorrentes de acord
 
 V - orientar os trabalhos das estações de expurgo do SDSV.
 
-<strong>Art</strong>. 32. À Seção de Produtos Fitossanitários (SEFIT) compete:
+**Art**. 32. À Seção de Produtos Fitossanitários (SEFIT) compete:
 
 I - manter o registro dos produtos fitossanitários, nos têrmos da legislação em vigor;
 
@@ -476,7 +474,7 @@ III - manter o registro dos estabelecimentos de expurgo e beneficiamento de vege
 
 IV - regular o uso dos produtos fitossanitários no tocante à sua eficiência e colaborar com os órgãos de Saúde Pública quanto às medidas de segurança na sua manipulação e aplicação.
 
-<strong>Art</strong>. 33. À Seção de Campanhas Fitossanitárias (SECAM) compete:
+**Art**. 33. À Seção de Campanhas Fitossanitárias (SECAM) compete:
 
 I - organizar, orientar, coordenar, fazer executar e controlar os trabalhos das campanhas fitossanitárias;
 
@@ -496,7 +494,7 @@ III - realizar a conservação permanente das aeronaves, dos equipamentos, insta
 
 IV - cumprir e fazer cumprir as exigências e formalidades estabelecidas pelo Ministério da Aeronáutica no tocante à operação das aeronaves e segurança de vôo.
 
-<strong>Art</strong>. 34. À Seção de Certificação de Sementes (SECER) compete:
+**Art**. 34. À Seção de Certificação de Sementes (SECER) compete:
 
 I - manter o registro das firmas produtoras e importadoras de sementes e demais elementos de propagação de sementes com o objetivo de assegurar ao agricultor sementes de alto valor cultural e perfeita sanidade;
 
@@ -504,7 +502,7 @@ III - estabelecer e interpretar as normas técnicas reguladoras da produção, c
 
 IV - estabelecer as medidas para incentivar a produção e multiplicação de sementes certificadas.
 
-<strong>Art</strong>. 35. Ao Laboratório Central de Patologia Vegetal (LACEV) compete:
+**Art**. 35. Ao Laboratório Central de Patologia Vegetal (LACEV) compete:
 
 I - identificar as doenças e pragas dos vegetais, inclusive para fins de contrôle dos levantamentos fitossanitários;
 
@@ -522,11 +520,11 @@ VII - realizar provas quanto aos métodos de combate às doenças e pragas dos v
 
 VIII - pôr em prática os testes indispensáveis à comprovação de sanidade das sementes, visando à sua certificação.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Serviço de Padronização e Classificação</em>
+*Do Serviço de Padronização e Classificação*
 
-<strong>Art</strong>. 36. Ao Serviço de Padronização e Classificação (SPC) compete:
+**Art**. 36. Ao Serviço de Padronização e Classificação (SPC) compete:
 
 I - promover e organizar a padronização dos produtos agropecuários industrializados ou não, seus subprodutos e resíduos de valor econômico, mediante o estabelecimento de padrões e respectivas especificações para o efeito de classificação, de acôrdo com a legislação específica;
 
@@ -544,7 +542,7 @@ VII - Efetuar o licenciamento e o registro dos classificadores de produtos e mat
 
 VIII - Representar o Ministério da Agricultura junto às Delegacias de Trabalho Marítimo.
 
-<strong>Art</strong>. 37. À Seção de Padronização de Fibras Têxteis (SEFIB) compete:
+**Art**. 37. À Seção de Padronização de Fibras Têxteis (SEFIB) compete:
 
 I - Promover, ouvidas as associações de classes interessadas, a padronização das fibra têxteis, seus subprodutos e resíduos de valor econômico, produzidos no país, mediante o estabelecimento de padrões e suas especificações para efeito de classificação;
 
@@ -566,7 +564,7 @@ IX - fiscalizar o estado dos padrões oficiais que servem de base às transaçõ
 
 X - estabelecer normas e efetuar o registro e as equivalências das marcas-padrão particulares, adotadas pelos comerciantes e exportadores, como também das legendas ou marcas identificadoras da origem do produto.
 
-<strong>Art</strong>. 38. À Seção de Padronização de Produtos Alimentares Vegetais (SEALI) compete:
+**Art**. 38. À Seção de Padronização de Produtos Alimentares Vegetais (SEALI) compete:
 
 I - promover, ouvidas as associações de classes interessadas, a padronização dos produtos alimentares vegetais, seus subprodutos e resíduos de valor econômico, produzidos no país, mediante o estabelecimento de padrões e especificações para efeito de classificação;
 
@@ -588,7 +586,7 @@ IX - Fiscalizar o estado dos padrões oficiais que servem de base às transaçõ
 
 X - Estabelecer normas e efetuar o registro e as equivalências da marcas-padrão particulares adotadas pelos comerciantes e exportadores como, também, da legendas ou marcas identificadoras da origem do produto.
 
-<strong>Art</strong>. 39. À Seção de Padronização de Produtos Extrativos Vegetais (SEXVE) compete:
+**Art**. 39. À Seção de Padronização de Produtos Extrativos Vegetais (SEXVE) compete:
 
 I - Promover, ouvidas as associações de classes interessadas, a padronização dos produtos extrativos vegetais, seus subprodutos e resíduos de valor econômico, produzidos no país, mediante o estabelecimento de padrões e especificações para efeito de classificação;
 
@@ -610,7 +608,7 @@ IX - Fiscalizar o estado dos padrões oficiais que servem de base às transaçõ
 
 X - Estabelecer normas e efetuar o registro e as equivalências das marcas-padrão particulares adotadas pelos comerciantes e exportadores, como, também das legendas ou marcas identificadoras da origem do produto.
 
-<strong>Art</strong>. 40. À Seção de Padronização de Produtos de Origem Animal (SEORI) compete:
+**Art**. 40. À Seção de Padronização de Produtos de Origem Animal (SEORI) compete:
 
 I - Promover, ouvidas as associações de classes interessadas, a padronização dos produtos de origem animal, seus subprodutos e resíduos de valor econômico, produzidos no país, mediante o estabelecimento de padrões e especificações para efeito de classificação;
 
@@ -632,7 +630,7 @@ IX - Fiscalizar o estado dos padrões oficiais que servem de base às transaçõ
 
 X - Estabelecer normas e efetuar o registro e as equivalências das marcas-padrão particulares adotadas pelos comerciantes e exportadores, como, também, das legendas ou marcas identificadoras da origem do produto.
 
-<strong>Art</strong>. 41. À Seção de Classificação e Fiscalização (SECAL) compete:
+**Art**. 41. À Seção de Classificação e Fiscalização (SECAL) compete:
 
 I - Promover, orientar e fiscalizar os trabalhos de classificações dos produtos agrícolas e pecuários, das matérias primas, seus subprodutos e resíduos de valor econômico, executados pelos órgãos regionais do Serviço ou através de acôrdos ou convênios firmados entre a União e governos dos Estados;
 
@@ -664,11 +662,11 @@ XIV - manter cadastro das firmas exportadoras registradas nas Agências de Padro
 
 XV - propor atos, medidas e providências visando a melhoria dos serviços a cargo da Seção.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Serviço de Inspeção de Produtos Agropecuários e Materiais Agrícolas</em>
+*Do Serviço de Inspeção de Produtos Agropecuários e Materiais Agrícolas*
 
-<strong>Art</strong>. 42. Ao Serviço de Inspeção de Produtos Agropecuários e Materiais Agrícolas (SIPANA) compete:
+**Art**. 42. Ao Serviço de Inspeção de Produtos Agropecuários e Materiais Agrícolas (SIPANA) compete:
 
 I - Promover e controlar o registro dos estabelecimentos industriais que fazem comércio interestadual e internacional e proceder à inspeção das matérias primas e produtos de origem animal e vegetal, comestíveis ou não, nêles elaborados, preparados, manipulados, transformados, conservados, recebidos, acondicionados e depositados;
 
@@ -684,7 +682,7 @@ VI - Promover o registro dos fertilizantes, corretivos e correlatos e dos estabe
 
 VII - Cooperar com o Departamento de Promoção Agropecuária na promoção, coordenação e fiscalização da produção e comércio de espécimes e materiais de multiplicação animal e vegetal.
 
-<strong>Art</strong>. 43. À Seção de Carnes e Derivados (SECAR) compete:
+**Art**. 43. À Seção de Carnes e Derivados (SECAR) compete:
 
 I - Promover o cumprimento de leis, regulamentos e demais atos oficiais referentes à inspeção industrial e sanitária da carne e derivados;
 
@@ -708,7 +706,7 @@ X - Participar dos estudos da elaboração de padrões de produtos carneos e der
 
 XI - Colaborar na promoção e no contrôle da execução da classificação de produtos e subprodutos de carnes e derivados.
 
-<strong>Art</strong>. 44. À Seção de Leite e Derivados (SELEI) compete:
+**Art**. 44. À Seção de Leite e Derivados (SELEI) compete:
 
 I - Promover o cumprimento de leis, regulamentos e demais atos oficiais referentes à inspeção industrial e sanitária do leite e derivados;
 
@@ -734,7 +732,7 @@ XI - Colaborar na promoção e no contrôle da execução da classificação de 
 
 Parágrafo único. Compete, também, à Seção de Leite e Derivados, promover e controlar a execução da inspeção industrial e sanitária de ovos e derivados, mel e cera de abelhas.
 
-<strong>Art</strong>. 45. À Seção de Pescado e Derivados (SEPES) compete:
+**Art**. 45. À Seção de Pescado e Derivados (SEPES) compete:
 
 I - Promover o cumprimento de leis, regulamentos e demais atos oficiais referentes à inspeção industrial e sanitária do pescado e derivado;
 
@@ -758,7 +756,7 @@ X - Participar dos estudos para estabelecimento de padrões de produtos do pesca
 
 XI - Colaborar na promoção e no contrôle da execução da classificação de produtos e subprodutos do pescado e derivados.
 
-<strong>Art</strong>. 46. À Seção de Produtos de Origem Vegetal (SEVEG) compete:
+**Art**. 46. À Seção de Produtos de Origem Vegetal (SEVEG) compete:
 
 I - Promover o cumprimento de leis, regulamentos e demais atos oficiais referentes à inspeção industrial e sanitária de vegetais e derivados;
 
@@ -782,7 +780,7 @@ X - Participar dos estudos para estabelecimento de padrões de produtos vegetais
 
 XI - Colaborar na promoção e no contrôle da execução de classificação de produtos e subprodutos vegetais e derivados.
 
-<strong>Art</strong>. 47. À Seção de Rações e Concentrados (SERON) compete:
+**Art**. 47. À Seção de Rações e Concentrados (SERON) compete:
 
 I - Estudar e opinar sôbre projetos, planos e orçamentos dos estabelecimentos de rações e concentrados que funcionem ou venham a funcionar sob regime de inspeção federal;
 
@@ -806,7 +804,7 @@ X - Colaborar na atualização de leis, regulamentos e demais atos referentes à
 
 Parágrafo único. Compete ainda à SERON cooperar com o Departamento de Promoção Agropecuária na promoção, coordenação, fiscalização da produção e comércio de espécimes e materiais de multiplicação animal.
 
-<strong>Art</strong>. 48. À Seção de Fertilizantes e Produtos Correlatos (SECOR) compete:
+**Art**. 48. À Seção de Fertilizantes e Produtos Correlatos (SECOR) compete:
 
 I - Promover o cumprimento de leis, regulamentos e demais atos oficiais, referentes à fiscalização da indústria e comércio de fertilizantes e produtos correlatos;
 
@@ -830,7 +828,7 @@ X - Colaborar na promoção e no contrôle da execução da classificação de f
 
 Parágrafo único. Compete ainda à SECOR cooperar com o Departamento de Promoção Agropecuária na promoção, coordenação e fiscalização da produção e comércio de espécimes e materiais de multiplicação vegetal.
 
-<strong>Art</strong>. 49. À Seção de Projetos e Equipamentos (SEJET) compete:
+**Art**. 49. À Seção de Projetos e Equipamentos (SEJET) compete:
 
 I - Organizar projetos, plantas e orçamentos, relativos a estabelecimentos particulares de produtos e subprodutos agropecuários e materiais agrícolas, tendo em vista o critério adotado pelo SIPAMA;
 
@@ -848,7 +846,7 @@ VII - Realizar trabalhos de desenho, fotografias e microfotografias de interêss
 
 VIII - Promover o estudo de medidas relativas ao abastecimento de água e o tratamento das águas residuais.
 
-<strong>Art</strong>. 50. À Seção de Registro e Cadastro (SECAD) compete:
+**Art**. 50. À Seção de Registro e Cadastro (SECAD) compete:
 
 I - Proceder ao registro dos estabelecimentos que se dedicam à industrialização de produtos agropecuários e materiais agrícolas;
 
@@ -856,7 +854,7 @@ II - Proceder ao registro dos produtos elaborados nos estabelecimentos agropecu�
 
 III - Apreciar os levantamentos referentes às causas de rejeição e de aproveitamento condicional, por procedência, para encaminhamento, com seu parecer, aos órgãos competentes.
 
-<strong>Art</strong>. 51. Ao Laboratório Central de Contrôle de Produtos Agropecuários (LACEP) compete:
+**Art**. 51. Ao Laboratório Central de Contrôle de Produtos Agropecuários (LACEP) compete:
 
 I - Proceder a exames para fins de julgamento, registro e contrôle de produtos e subprodutos agropecuários e materiais agrícolas;
 
@@ -876,11 +874,11 @@ VIII - Promover a uniformização dos métodos de trabalhos e rotina de análise
 
 IX - Dirigir e orientar os estágios e cursos para pessoal técnico e auxiliar.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Da Seção de Administração</em>
+*Da Seção de Administração*
 
-<strong>Art</strong>. 52. À Seção de Administração (SA-DDIA) compete:
+**Art**. 52. À Seção de Administração (SA-DDIA) compete:
 
 I - Elaborar o expediente administrativo do Departamento;
 
@@ -924,15 +922,15 @@ II - Atender ao público em seus pedidos de informações, bem como orientá-lo 
 
 III - Expedir certidões, exceto as relativas a tempo de serviço prestado ao DDIA;
 
-IV - Providenciar a publicação no <em>Diário</em> <em>Oficial</em> de expediente do DDIA.
+IV - Providenciar a publicação no *DiárioOficial* de expediente do DDIA.
 
 § 2º A SA-DDIA funcionará em perfeita articulação com o Departamento de Administração do Ministério da Agricultura.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Da turmas de Administração</em>
+*Da turmas de Administração*
 
-<strong>Art</strong>. 53. Às Turmas de Administração (TA) compete:
+**Art**. 53. Às Turmas de Administração (TA) compete:
 
 I - Articular-se com a SA-DDIA no que disser respeito aos trabalhos dos órgãos a que estão subordinados;
 
@@ -946,11 +944,11 @@ V - Organizar e expedir os boletins de freqüência dos funcionários;
 
 VI - Elaborar o expediente dos respectivos órgãos, referentes a pessoal, orçamento e material.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Da Biblioteca Central</em>
+*Da Biblioteca Central*
 
-<strong>Art</strong>. 54. À Biblioteca Central (BIDIA) e ao Setor de Serviço de Defesa Sanitária Vegetal (SETEV) compete:
+**Art**. 54. À Biblioteca Central (BIDIA) e ao Setor de Serviço de Defesa Sanitária Vegetal (SETEV) compete:
 
 I - Registrar, classificar, catalogar, guardar e conservar obras de interêsse do órgão a que estiverem subordinados;
 
@@ -974,11 +972,11 @@ VIII - Ter sob sua guarda e responsabilidade o documentário dos trabalhos técn
 
 § 3º O Setor do Serviço de Defesa Sanitária Vegetal é tècnicamente subordinado à Biblioteca Central e, administrativamente, ao referido Serviço.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Das Inspetorias e Agências</em>
+*Das Inspetorias e Agências*
 
-<strong>Art</strong>. 55. Às Inspetorias e Agências compete:
+**Art**. 55. Às Inspetorias e Agências compete:
 
 I - Orientar, executar e coordenar as atividades do órgão a que estão subordinadas na respectiva área de ação;
 
@@ -1046,9 +1044,9 @@ VI - Colaborar no contrôle da execução da classificação de produtos agropec
 
 VII - Executar os trabalhos de fiscalização da indústria e comércio de produtos agropecuários em materiais agrícolas, previstos no presente Regimento.
 
-<strong>Art</strong>. 56. Aos Quarentenários Veterinários (QUAVE) de Fernando Noronha e Samaritá compete executar os exames e provas julgadas indispensáveis à comprovação da sanidade dos animais importados ou a serem exportados, submetidos à quarentena, de conformidade com as diretrizes traçadas pelos órgãos centrais do SDSA.
+**Art**. 56. Aos Quarentenários Veterinários (QUAVE) de Fernando Noronha e Samaritá compete executar os exames e provas julgadas indispensáveis à comprovação da sanidade dos animais importados ou a serem exportados, submetidos à quarentena, de conformidade com as diretrizes traçadas pelos órgãos centrais do SDSA.
 
-<strong>Art</strong>. 57. Aos Postos de Defesa Sanitária Vegetal (PODEF), dentro das respectivas áreas de jurisdição, compete:
+**Art**. 57. Aos Postos de Defesa Sanitária Vegetal (PODEF), dentro das respectivas áreas de jurisdição, compete:
 
 I - Executar as atividades de defesa sanitária vegetal que lhes forem atribuídas pelas Inspetorias de Defesa Sanitária Vegetal às quais se subordinam;
 
@@ -1062,7 +1060,7 @@ V - Executar a fiscalização fitossanitária na importação, exportação e tr
 
 VI - Coletar e enviar material de interêsse fitossanitário para Laboratório Central de Patologia Vegetal.
 
-<strong>Art</strong>. 58. À Estação de Expurgo de Produtos Vegetais da Guanabara (ESTEX) compete:
+**Art**. 58. À Estação de Expurgo de Produtos Vegetais da Guanabara (ESTEX) compete:
 
 I - Realizar a desinfestação e o expurgo de plantas, produtos vegetais e embalagens;
 
@@ -1074,7 +1072,7 @@ IV - Realizar trabalhos relativos ao aperfeiçoamento de processos físicos e qu
 
 V - Opinar sôbre processo de tratamento e preservação dos produtos agrícolas armazenados;
 
-<strong>Art</strong>. 59. À Estação Fitossanitária de São Bento - RJ, tècnicamente subordinada ao Laboratório Central de Patologia Vegetal, compete:
+**Art**. 59. À Estação Fitossanitária de São Bento - RJ, tècnicamente subordinada ao Laboratório Central de Patologia Vegetal, compete:
 
 I - Fazer observações referentes ao Combate às doenças e pragas das plantas;
 
@@ -1088,11 +1086,11 @@ V - Executar a quarentena de vegetais e partes de vegetal;
 
 VI - Manter cultura de espécies vegetais necessárias aos trabalhos fitossanitários.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 60. Ao Diretor-Geral do DDIA incumbe:
+**Art**. 60. Ao Diretor-Geral do DDIA incumbe:
 
 I - Superintender, de acôrdo com a legislação, normas e instruções vigentes, as atividades a cargo do Departamento;
 
@@ -1144,7 +1142,7 @@ XXIV - Examinar e aprovar os relatórios dos órgãos que lhe são subordinados;
 
 XXV - Exercer quaisquer outras atribuições que lhe competirem por êste Regimento ou lhe forem cometidas pelo Secretário-Geral da Agricultura ou pelo Ministro de Estado.
 
-<strong>Art</strong>. 61 - Aos Diretores de Serviços e aos Chefes da SEPRA e da SA, no que lhes couber, incumbe:
+**Art**. 61 - Aos Diretores de Serviços e aos Chefes da SEPRA e da SA, no que lhes couber, incumbe:
 
 I - dirigir, coordenar, orientar e fiscalizar os trabalhos a cargo do respectivo órgão, estabelecendo normas e métodos para a execução dos mesmos;
 
@@ -1234,7 +1232,7 @@ I - Conceder e cassar o registro de estabelecimentos sujeitos à inspeção indu
 
 II - Aprovar projetos e planos relativos à construção, reconstrução ou ampliação de estabelecimentos industriais que funcionem sob regime de inspeção do Serviço.
 
-<strong>Art</strong>. 62. Aos Chefes de Seção, Biblioteca, Setor, Laboratórios Central e Patrulha Aérea e aos Encarregados da Turma incumbe:
+**Art**. 62. Aos Chefes de Seção, Biblioteca, Setor, Laboratórios Central e Patrulha Aérea e aos Encarregados da Turma incumbe:
 
 I - dirigir e fiscalizar os trabalhos das respectivas unidades administrativas;
 
@@ -1264,11 +1262,11 @@ XIII - designar e dispensar, quando lhe forem diretamente subordinados, os ocupa
 
 XIV - Exercer tôdas as demais atividades não expressamente previstas neste Regimento, que lhes caibam em virtude da legislação em vigor e que sejam necessárias à plena realização das atribuições afetas aos órgãos a que estiverem subordinados.
 
-<strong>Art</strong>. 63. Aos Chefes dos Laboratórios Centrais compete, em particular:
+**Art**. 63. Aos Chefes dos Laboratórios Centrais compete, em particular:
 
 I - Orientar e supervisionar as atividades técnico-científicas dos respectivos órgãos e dos laboratórios das Inspetorias, que em face do presente regimento lhe são tècnicamente subordinados.
 
-<strong>Art</strong>. 64. Aos Chefes de Inspetoria, Agência, Pôsto de Defesa Sanitária Vegetal, Estação de Expurgo de Produtos Vegetais e Estação Fitossanitária, no que lhes couber, incumbe:
+**Art**. 64. Aos Chefes de Inspetoria, Agência, Pôsto de Defesa Sanitária Vegetal, Estação de Expurgo de Produtos Vegetais e Estação Fitossanitária, no que lhes couber, incumbe:
 
 I - orientar, coordenar e dirigir os serviços da respectiva repartição;
 
@@ -1322,9 +1320,9 @@ XXV - Atender às solicitações de esclarecimentos quanto aos trabalhos em anda
 
 XXVI - Designar e dispensar, quando lhe forem diretamente subordinados, os ocupantes de funções gratificadas e seus substitutos eventuais.
 
-<strong>Art</strong>. 65. Aos Assessôres incumbe o desempenho das atribuições de natureza especializada que lhes forem cometidas pelos respectivos superiores hierárquicos.
+**Art**. 65. Aos Assessôres incumbe o desempenho das atribuições de natureza especializada que lhes forem cometidas pelos respectivos superiores hierárquicos.
 
-<strong>Art</strong>. 66. Aos Secretários do Diretor-Geral e dos Diretores incumbe:
+**Art**. 66. Aos Secretários do Diretor-Geral e dos Diretores incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com a autoridade junto à qual servirem, encaminhado-as ou dando a esta conhecimento do assunto a tratar;
 
@@ -1332,35 +1330,35 @@ II - redigir a correspondência que lhes fôr determinada;
 
 III - Realizar outras tarefas que lhes forem cometidas pelos respectivos superiores hierárquicos.
 
-<strong>Art</strong>. 67. Aos Auxiliares do Diretor-Geral e dos Diretores incumbe:
+**Art**. 67. Aos Auxiliares do Diretor-Geral e dos Diretores incumbe:
 
 I - Organizar e manter atualizado o contrôle da movimentação de processos submetidos a despacho da autoridade a que estiverem subordinados;
 
 II - Executar trabalhos de datilografia e outros que lhes forem determinados.
 
-<strong>Art</strong>. 68. Aos servidores do DDIA que não tenham atribuições especificadas neste Regimento, cumpre executar os trabalhos de que forem incumbidos pelos seus superiores imediatos.
+**Art**. 68. Aos servidores do DDIA que não tenham atribuições especificadas neste Regimento, cumpre executar os trabalhos de que forem incumbidos pelos seus superiores imediatos.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 69. O DDIA terá lotação que fôr aprovada em Decreto.
+**Art**. 69. O DDIA terá lotação que fôr aprovada em Decreto.
 
 Parágrafo único. Além dos funcionários constantes de sua lotação, poderá o DDIA dispor de pessoal requisitado, na forma da legislação vigente.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 70. O horário normal de trabalho é o fixado para o Serviço Público Federal, respeitados os regimes especiais estabelecidos na legislação vigente.
+**Art**. 70. O horário normal de trabalho é o fixado para o Serviço Público Federal, respeitados os regimes especiais estabelecidos na legislação vigente.
 
 Parágrafo único - Poderá ser estabelecido horário especial, de acôrdo com a natureza das atividades do DDIA, desde que observado o número normal de horas semanais ou mensais.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 71. Serão substituídos automàticamente em suas faltas e impedimentos:
+**Art**. 71. Serão substituídos automàticamente em suas faltas e impedimentos:
 
 I - O Diretor-Geral, pelo Diretor do Serviço de sua indicação designado pelo Ministro da Agricultura;
 
@@ -1382,44 +1380,44 @@ IX - Os demais Chefes e Encarregados, por servidores de sua indicação, designa
 
 Parágrafo único. Haverá sempre servidores designados para as substituições de que trata êste artigo.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Disposições Gerais e Transitórias</em>
+*Disposições Gerais e Transitórias*
 
-<strong>Art</strong>. 72. O DDIA, através seus Serviços, poderá, mediante acordos, convênios, ajustes ou contratos, aprovados pela Comissão de Planejamento da Política Agrícola, articular serviços com órgãos internacionais, federais, estaduais e municipais, bem como entidades ou pessoas de direito privado, visando à expansão ou à melhoria das atividades agropecuárias.
+**Art**. 72. O DDIA, através seus Serviços, poderá, mediante acordos, convênios, ajustes ou contratos, aprovados pela Comissão de Planejamento da Política Agrícola, articular serviços com órgãos internacionais, federais, estaduais e municipais, bem como entidades ou pessoas de direito privado, visando à expansão ou à melhoria das atividades agropecuárias.
 
-<strong>Art</strong>. 73. De acôrdo com a necessidade do serviço poderão ser instituídos, mediante portarias do Diretor Geral do DDIA, por proposta dos Diretores de Serviços, comissões, equipes ou grupos de estudos ou de trabalho especializados, para melhor desempenho de atividades atinentes ao respectivo órgão.
+**Art**. 73. De acôrdo com a necessidade do serviço poderão ser instituídos, mediante portarias do Diretor Geral do DDIA, por proposta dos Diretores de Serviços, comissões, equipes ou grupos de estudos ou de trabalho especializados, para melhor desempenho de atividades atinentes ao respectivo órgão.
 
-<strong>Art</strong>. 74. O DDIA, através seus Serviços manterá contado e cooperação permanentes com as entidades públicas ou particulares que exerçam atividades afins com as que lhe são peculiares.
+**Art**. 74. O DDIA, através seus Serviços manterá contado e cooperação permanentes com as entidades públicas ou particulares que exerçam atividades afins com as que lhe são peculiares.
 
-<strong>Art</strong>. 75. O DDIA orientará e supervisionará, autorizado pelo Ministro do Estado, as atividades inerentes aos seus Serviços quando levadas a efeito por outros órgãos do Ministério da Agricultura.
+**Art**. 75. O DDIA orientará e supervisionará, autorizado pelo Ministro do Estado, as atividades inerentes aos seus Serviços quando levadas a efeito por outros órgãos do Ministério da Agricultura.
 
-<strong>Art</strong>. 76. Os órgãos do DDIA colaborarão no ensino da veterinária e da agronomia e no aperfeiçoamento de técnicos do DDIA ou estranhos aos seus quadros, podendo para tanto facultar a utilização de suas dependências.
+**Art**. 76. Os órgãos do DDIA colaborarão no ensino da veterinária e da agronomia e no aperfeiçoamento de técnicos do DDIA ou estranhos aos seus quadros, podendo para tanto facultar a utilização de suas dependências.
 
-<strong>Art</strong>. 77. Os órgãos do DDIA promoverão, quando autorizados pelo Diretor-Geral, a publicação de trabalhos técnico-científicos, relatórios, noticiários e outros trabalhos de divulgação, de interêsse dos respectivos Serviços, inclusive, colaborando com o SIA na publicação dos mesmos.
+**Art**. 77. Os órgãos do DDIA promoverão, quando autorizados pelo Diretor-Geral, a publicação de trabalhos técnico-científicos, relatórios, noticiários e outros trabalhos de divulgação, de interêsse dos respectivos Serviços, inclusive, colaborando com o SIA na publicação dos mesmos.
 
-<strong>Art</strong>. 78. As invenções ou descobertas científicas dos serviços do DDIA, feitas quando em exercício de suas funções, individualmente ou em equipe, não constituirão propriedade ou privilégio dos mesmos, podendo, entretanto, o Govêrno premiá-los após o exame do objeto da invenção ou descoberta, por técnicos de comprovada idoneidade.
+**Art**. 78. As invenções ou descobertas científicas dos serviços do DDIA, feitas quando em exercício de suas funções, individualmente ou em equipe, não constituirão propriedade ou privilégio dos mesmos, podendo, entretanto, o Govêrno premiá-los após o exame do objeto da invenção ou descoberta, por técnicos de comprovada idoneidade.
 
-<strong>Art</strong>. 79. Os Serviços, por solicitação de particulares, poderão realizar trabalhos relativos à sua especialidade, mediante pagamento da execução dos mesmos pelo preço da tabela que fôr aprovada pelo Secretário-Geral da Agricultura.
+**Art**. 79. Os Serviços, por solicitação de particulares, poderão realizar trabalhos relativos à sua especialidade, mediante pagamento da execução dos mesmos pelo preço da tabela que fôr aprovada pelo Secretário-Geral da Agricultura.
 
-<strong>Art</strong>. 80. Os servidores incumbidos da inspeção ou fiscalização sanitária de estabelecimentos de produtos agropecuários e materiais agrícolas, que funcionem periòdicamente uma vez interrompidos os trabalhos a seu cargo e durante o tempo em que aquêles estabelecimentos permanecerem paralisados, prestarão, na forma estabelecida em instruções baixadas pelo Diretor-Geral, colaboração direta aos demais órgãos do DDIA.
+**Art**. 80. Os servidores incumbidos da inspeção ou fiscalização sanitária de estabelecimentos de produtos agropecuários e materiais agrícolas, que funcionem periòdicamente uma vez interrompidos os trabalhos a seu cargo e durante o tempo em que aquêles estabelecimentos permanecerem paralisados, prestarão, na forma estabelecida em instruções baixadas pelo Diretor-Geral, colaboração direta aos demais órgãos do DDIA.
 
-<strong>Art</strong>. 81. As Inspetorias e Agências dos Serviços do DDIA e respectivas dependências, colaborarão com o DPA e órgãos de extensão agropecuária, na assistência técnica às atividades agrícolas e pecuárias regionais, através medidas e providências que objetivem o amparo e à melhoria da produção agropecuária.
+**Art**. 81. As Inspetorias e Agências dos Serviços do DDIA e respectivas dependências, colaborarão com o DPA e órgãos de extensão agropecuária, na assistência técnica às atividades agrícolas e pecuárias regionais, através medidas e providências que objetivem o amparo e à melhoria da produção agropecuária.
 
-<strong>Art</strong>. 82. Onde não houver dependência de determinado Serviço do DDIA, as atribuições que deveriam ser pelo mesmo exercidas poderão ser excepcionalmente delegadas à dependência mais próxima de outro Serviço, mediante ato do Diretor-Geral.
+**Art**. 82. Onde não houver dependência de determinado Serviço do DDIA, as atribuições que deveriam ser pelo mesmo exercidas poderão ser excepcionalmente delegadas à dependência mais próxima de outro Serviço, mediante ato do Diretor-Geral.
 
-<strong>Art</strong>. 83. Nenhum servidor do DDIA poderá fazer publicações, conferências ou dar entrevista sôbre assuntos que se relacionem com a organização e as atividades do Departamento, sem prévia autorização do Diretor-Geral.
+**Art**. 83. Nenhum servidor do DDIA poderá fazer publicações, conferências ou dar entrevista sôbre assuntos que se relacionem com a organização e as atividades do Departamento, sem prévia autorização do Diretor-Geral.
 
-<strong>Art</strong>. 84. Enquanto os órgãos previstos neste Regimento não forem instalados e possuírem condições de funcionamento, os encargos que lhes são atribuídos continuarão a ser exercidos por aquêles de outros Departamentos, que os vinham desempenhando.
+**Art**. 84. Enquanto os órgãos previstos neste Regimento não forem instalados e possuírem condições de funcionamento, os encargos que lhes são atribuídos continuarão a ser exercidos por aquêles de outros Departamentos, que os vinham desempenhando.
 
-<strong>Art</strong>. 85. Enquanto os Laboratórios Centrais dos SDSA, SDSV e SIPAMA não tiverem possibilidades de seu pleno funcionamento, as atribuições serão executadas em colaboração pelos Institutos de Pesquisas e Experimentação Agropecuárias ou demais dependências do Departamento de Pesquisas e Experimentação Agropecuárias.
+**Art**. 85. Enquanto os Laboratórios Centrais dos SDSA, SDSV e SIPAMA não tiverem possibilidades de seu pleno funcionamento, as atribuições serão executadas em colaboração pelos Institutos de Pesquisas e Experimentação Agropecuárias ou demais dependências do Departamento de Pesquisas e Experimentação Agropecuárias.
 
-<strong>Art</strong>. 86. Os Conselhos de Defesa Sanitária Animal e de Defesa Sanitária Vegetal terão seu funcionamento regulamentados por ato ministerial.
+**Art**. 86. Os Conselhos de Defesa Sanitária Animal e de Defesa Sanitária Vegetal terão seu funcionamento regulamentados por ato ministerial.
 
-<strong>Art</strong>. 87. O DDIA, enquanto não se efetivar a transferência de seus órgãos centrais para o Distrito Federal manterá em Brasília uma Assessoria representativa do respectivo Departamento.
+**Art**. 87. O DDIA, enquanto não se efetivar a transferência de seus órgãos centrais para o Distrito Federal manterá em Brasília uma Assessoria representativa do respectivo Departamento.
 
-<strong>Art</strong>. 88. Os casos omissos e as dúvidas suscitadas na execução dêste Regimento serão resolvidos pelo Ministro de Estado ou pelo Secretário-Geral da Agricultura.
+**Art**. 88. Os casos omissos e as dúvidas suscitadas na execução dêste Regimento serão resolvidos pelo Ministro de Estado ou pelo Secretário-Geral da Agricultura.
 
 Brasília, 11 de outubro de 1963.
 
-<strong>OSWALDO LIMA FILHO</strong>
+**OSWALDO LIMA FILHO**

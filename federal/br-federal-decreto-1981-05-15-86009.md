@@ -1,5 +1,3 @@
-###DEC-086009-0-000-15-05-1981@@@
-
 DECRETO nº 86.009, de 15 de maio de 1981.
 
 Restringe, na Administração Federal, a exigência de prestação de informações por pessoas físicas e jurídicas e o uso de formulários e questionários de preenchimento obrigatório.

@@ -1,5 +1,3 @@
-###DEC-073346-0-000-20-12-1973@@@
-
 DECRETO N  73.346 - DE 20 DE DEZEMBRO DE 1973
 
 Concede reconhecimento ao curso de Estudos Sociais (licenciatura de 1º grau) da Faculdade de Filosofia, Ciências e Letras de Cruz Alta, mantida pela associação de Professores de Cruz Alta, com sede na cidade de Cruz Alta, Estado do Rio Grande do Sul.

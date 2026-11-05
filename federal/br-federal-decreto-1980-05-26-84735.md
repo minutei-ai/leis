@@ -1,5 +1,3 @@
-###DEC-084735-0-000-26-05-1980@@@
-
 Decreto nº 84.735, de 26 de maio de 1980.
 
 Autoriza o funcionamento do Curso de Ciências, do Centro de Estudos Superiores do Estado do Pará.

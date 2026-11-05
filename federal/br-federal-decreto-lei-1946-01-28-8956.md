@@ -1,5 +1,3 @@
-###DEL-008956-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.956 – DE 28 DE JANEIRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.777.200.00, e dá outras providências.

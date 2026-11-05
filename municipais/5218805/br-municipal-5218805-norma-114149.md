@@ -32,11 +32,10 @@ Art. 5º As escolas poderão firmar parcerias com entidades, associações comun
 
 Gabinete do Prefeito de Rio Verde, aos 12 de novembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral
+VINÍCIUS FONSÊCA CAMPOS
 
-<br>
+Procurador-Geral

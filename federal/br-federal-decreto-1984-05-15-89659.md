@@ -1,5 +1,3 @@
-###DEC-089659-0-000-15-05-1984@@@
-
 DECRETO Nº 89.659, DE 15 DE MAIO DE 1984
 
 Cria a Base Aérea de Boa Vista e dá outras providências.

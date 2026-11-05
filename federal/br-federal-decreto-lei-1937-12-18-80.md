@@ -1,5 +1,3 @@
-###DEL-000080-0-000-18-12-1937@@@
-
 DECRETO-LEI N. 80 – DE 18 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 30:000$000, à verba de serviços extraordinários

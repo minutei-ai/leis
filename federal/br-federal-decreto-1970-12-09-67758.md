@@ -1,5 +1,3 @@
-###DEC-067758-0-000-09-12-1970@@@
-
 DECRETO Nº 67.758, DE 9 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina Cachoeira Dourada até a cidade de Bom Jesus de Goiás no município do mesmo nome no Estado de Goiás.

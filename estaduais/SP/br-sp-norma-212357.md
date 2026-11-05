@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212357)<br>
-
 # LEI N° 18.428, DE 13 DE MARÇO DE 2026
 
 ## (Projeto de lei n° 867/2024, dos Deputados Teonilio Barba - PT e Fábio Faria de Sá - PODE)

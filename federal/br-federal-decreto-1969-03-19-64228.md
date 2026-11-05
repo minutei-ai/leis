@@ -1,5 +1,3 @@
-###DEC-064228-0-000-19-03-1969@@@
-
 DECRETO Nº 64.228, DE 19 DE MARÇO DE 1969.
 
 Conde a J. Martins de Carvalho, Guimarães & Cia. Ltda. o direito de lavrar caulim no município de Mage, Estado do Rio de Janeiro.

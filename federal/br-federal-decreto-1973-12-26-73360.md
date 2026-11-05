@@ -1,5 +1,3 @@
-###DEC-073360-0-000-26-12-1973@@@
-
 DECRETO Nº 73.360 - DE 26 DE DEZEMBRO DE 1973
 
 Concede reconhecimento aos cursos de Engenharia Mecânica, de Engenharia Metalúrgica e de Engenharia de Operação do Instituto de Tecnologia de Governador Valadares, mantido pela Fundação Percival Farquhar, com sede na Cidade de Governador Valadares, Estado de Minas Gerais.

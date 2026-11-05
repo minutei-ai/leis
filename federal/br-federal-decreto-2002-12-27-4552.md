@@ -1,5 +1,3 @@
-###DEC-004552-0-000-27-12-2002@@@
-
 DECRETO N. 4.552 – DE 27 DE DEZEMBRO DE 2002
 
 Aprova o Regulamento da Inspeção do Trabalho.

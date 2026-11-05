@@ -1,7 +1,3 @@
-1
-
-###DEC-000992-0-000-25-11-1993@@@
-
 DECRETO N° 992, DE 25 DE NOVEMBRO DE 1993
 
 Aprova o Estatuto da empresa pública Financiadora de Estudos e Projetos FINEP e dá outras providências.

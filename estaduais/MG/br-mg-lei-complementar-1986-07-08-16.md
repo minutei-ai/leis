@@ -51,7 +51,3 @@ Dada no Palácio da Liberdade, em Belo Horizonte, aos 8 de julho de 1986.
 HÉLIO CARVALHO GARCIA
 
 Kildare Gonçalves Carvalho
-
-\================================================================
-
-Data da última atualização: 16/03/2005.

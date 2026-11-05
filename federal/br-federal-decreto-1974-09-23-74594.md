@@ -1,5 +1,3 @@
-###DEC-074594-0-000-23-09-1974@@@
-
 DECRETO Nº 74.594, DE 23 DE SETEMBRO DE 1974.
 
 Renova por 10 (de) anos a concessão outorgada á Radio Cultura de Maringá Ltda., para executar serviço de radifusão sonora em onda média de âmbito regional na cidade de Maringá, Estado do Paraná.

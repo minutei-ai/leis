@@ -1,5 +1,3 @@
-###DEC-062268-0-000-15-02-1968@@@
-
 DECRETO Nº 62.268, DE 15 DE FEVEREIRO DE 1968.
 
 Dispõe sôbre recolhimento de diferenças de preços sôbre estoques de trigo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-091664-0-000-20-09-1985@@@
-
 Decreto nº 91.664, de 20 de setembro de 1985
 
 Renova a concessão outorgada à RÁDIO EDUCADORA JAGUARIBANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Limoeiro do Norte, Estado do Ceará.

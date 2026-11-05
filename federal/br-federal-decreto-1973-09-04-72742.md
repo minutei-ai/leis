@@ -1,5 +1,3 @@
-###DEC-072742-0-000-04-09-1973@@@
-
 DECRETO Nº 72.742, DE 4 DE SETEMBRO DE 1973.
 
 Concede à Siderúrgica Barra Mansa S.A. o direito de lavrar minérios de ferro e manganês no Município de Ouro Preto, Estado de Minas Gerais.

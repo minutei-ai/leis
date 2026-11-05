@@ -32,17 +32,22 @@ Art. 5º. Esta Lei entrará em vigor a partir de 1.º de janeiro de 2006, revoga
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos oito dias do mês de dezembro de dois mil e cinco.
 
-JOSÉ MACÊDO DE ARAÚJO<br>
+JOSÉ MACÊDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-MARCOS A. L. DE ARIMATÉA<br>
+MARCOS A. L. DE ARIMATÉA
+
 SEC. DE PLANEJAMENTO
 
-CARLOS AUGUSTO B. MACHADO<br>
+CARLOS AUGUSTO B. MACHADO
+
 SEC. DE SAÚDE
 
-JOVIANO BUENO F. NETO<br>
+JOVIANO BUENO F. NETO
+
 SEC. DE AÇÃO URBANA E MEIO AMBIENTE

@@ -1,5 +1,3 @@
-###DEC-097326-0-000-21-12-1988@@@
-
 DECRETO Nº 97.326, DE 21 DE DEZEMBRO DE 1988
 
 Autoriza o aumento de capital do Banco Nacional de Crédito Cooperativo S/A - BNCC.

@@ -1,5 +1,3 @@
-###DEL-007542-0-000-11-05-1945@@@
-
 DECRETO-LEI N. 7.542 – DE 11 DE MAIO DE 1945
 
 Autoriza a derivação de águas do ribeirão do Vigário e dos rios Piraí e Paraíba, para a ampliação da usina de Ribeirão da Lajes

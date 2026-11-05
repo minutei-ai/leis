@@ -1,5 +1,3 @@
-###DEC-084209-0-000-14-11-1979@@@
-
 Decreto nº 84.209, de 14 de novembro de 1979.
 
 Outorga à Companhia Paranaense de Energia Elétrica - COPEL concessão para o aproveitamento da energia hidráulica de um trecho do rio Iguaçu, situado no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-064703-0-000-16-06-1969@@@
-
 DECRETO Nº 64.703, DE 16 DE JUNHO DE 1969.
 
 Fixa número de Diretores da Indústria Carboquímica Catarinense S. A (I.C.C).

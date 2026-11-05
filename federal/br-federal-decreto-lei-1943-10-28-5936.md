@@ -1,5 +1,3 @@
-###DEL-005936-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.936 – DE 28 DE OUTUBRO DE 1943
 
 Consagra ao Servidor Público o dia 28 de outubro

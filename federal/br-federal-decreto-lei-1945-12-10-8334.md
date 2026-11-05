@@ -1,5 +1,3 @@
-###DEL-008334-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.334 – DE 10 DE DEZEMBRO DE 1945
 
 Anula o disposto no art. 3º do Decreto-lei nº 6.773, de 7 de agôsto de 1944.

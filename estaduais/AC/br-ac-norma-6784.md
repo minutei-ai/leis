@@ -1,6 +1,10 @@
 > **LEI Nº 4.781, DE 01 DE ABRIL DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a contratação de operação de crédito externo com o Banco Interamericano de Desenvolvimento - BID, com a garantia da União, visando à execução do Programa de Modernização da Gestão Fiscal do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a contratação de operação de crédito externo com o Banco Interamericano de Desenvolvimento - BID, com a garantia da União, visando à execução do Programa de Modernização da Gestão Fiscal do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

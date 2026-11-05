@@ -1,5 +1,3 @@
-###DEC-092850-0-000-27-06-1986@@@
-
 DECRETO Nº 92.850, DE 27 DE JUNHO DE 1986
 
 Renova a concessão outorgada à FUNDAÇÃO CULTURAL RIOGRANDENSE - RÁDIO SÃO FRANCISCO, para explorar serviço de radiodifusão sonora em onda média, na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-004455-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.455 – DE 9 DE JULHO DE 1942
 
 Isenta a Fundação Osório de pagamento do Imposto Predial relativo ao período que menciona

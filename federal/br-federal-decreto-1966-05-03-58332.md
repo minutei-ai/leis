@@ -1,5 +1,3 @@
-###DEC-058332-0-000-03-05-1966@@@
-
 DECRETO Nº 58.332, DE 3 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Domingos Cardoso da Matta a pesquisar minério de tungstênio no município de Guabiruba, Estado de Santa Catarina.

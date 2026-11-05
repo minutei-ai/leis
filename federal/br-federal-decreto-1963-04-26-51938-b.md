@@ -1,5 +1,3 @@
-###DEC-051938-B-000-26-04-1963@@@
-
 Decreto nº 51.938-B, de 26 de abril de 1963.
 
 Autoriza a firma lapidação Alka S. A., a comprar pedras preciosas.

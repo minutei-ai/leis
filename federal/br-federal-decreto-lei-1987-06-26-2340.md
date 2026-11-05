@@ -1,7 +1,3 @@
-1
-
-###DEL-002340-0-000-26-06-1987@@@
-
 # DECRETO-LEI Nº 2.340, DE 26 DE JUNHO DE 1987
 
 Altera o Decreto-lei no 2.288, de 23 de julho de 1986.

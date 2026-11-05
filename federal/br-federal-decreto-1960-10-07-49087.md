@@ -1,5 +1,3 @@
-###DEC-049087-0-000-07-10-1960@@@
-
 DECRETO Nº 49.087, DE 7 DE OUTUBRO DE 1960.
 
 Concede à “Trans Atlântica Argentina S.A. de Aeronavegacion”, autorização para funcionar na República.

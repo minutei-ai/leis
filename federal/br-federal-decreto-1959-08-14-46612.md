@@ -1,5 +1,3 @@
-###DEC-046612-0-000-14-08-1959@@@
-
 DECRETO Nº 46.612, DE 14 DE agôsto DE 1959.
 
 Autoriza o cidadão brasileiro Reinaldo Versani a pesquisar quartzo no município de Socorro, Estado de São Paulo.

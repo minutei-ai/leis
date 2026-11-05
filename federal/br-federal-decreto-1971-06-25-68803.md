@@ -1,5 +1,3 @@
-###DEC-068803-0-000-25-06-1971@@@
-
 DECRETO Nº 68.803 - DE 25 DE JUNHO DE 1971.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Fazenda e dá outras providências.

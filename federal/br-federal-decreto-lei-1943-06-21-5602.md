@@ -1,5 +1,3 @@
-###DEL-005602-0-000-21-06-1943@@@
-
 DECRETO‑LEI N. 5.602 – DE 21 DE JUNHO DE 1943
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$ 22.261.700,00 e dá outras providências

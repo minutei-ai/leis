@@ -1,5 +1,3 @@
-###DEL-007974-0-000-20-09-1945@@@
-
 DECRETO-LEI N. 7.974 – DE 20 DE SETEMBRO DE 1945
 
 Dispõe sôbre a isenção de impostos nas aquisições de imóveis rurais ou urbanos feitas pelos oficiais e praças da Fôrça Expedicionária Brasileira

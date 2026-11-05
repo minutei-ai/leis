@@ -1,5 +1,3 @@
-###DEC-068684-0-000-26-05-1971@@@
-
 DECRETO Nº 68.684 - DE 26 DE MAIO DE 1971.
 
 Concede autorização à Companhia Ingram Marine Inc. para operar, em águas brasileiras, com os barcos especializados "Power Tide", "Cindy Dee", "El Bisonte", "W.B. Nº 109, "E. Bronson Ingram", "W.B. 110" e "OS-100", de nacionalidade norte-americana, nos serviços que específica.

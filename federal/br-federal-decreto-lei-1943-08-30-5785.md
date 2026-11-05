@@ -1,5 +1,3 @@
-###DEL-005785-0-000-30-08-1943@@@
-
 DECRETO‑LEI N. 5.785 – DE 30 DE AGÔSTO DE 1943
 
 Altera os padrões de vencimento dos cargos de Tesoureiro e Ajudante de Tesoureiro das Diretorias Regionais dos Correios e Telégrafos do Rio Grande do Sul e do Paraná e dá outras Providências

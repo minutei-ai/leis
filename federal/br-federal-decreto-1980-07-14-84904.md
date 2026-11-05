@@ -1,5 +1,3 @@
-###DEC-084904-0-000-14-07-1980@@@
-
 decreto nº 84.904, de 14 de julho de 1980.
 
 Cancela autorização para funcionamento no Brasil da The London Assurance.

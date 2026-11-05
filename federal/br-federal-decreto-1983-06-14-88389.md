@@ -1,5 +1,3 @@
-###DEC-088389-0-000-14-06-1983@@@
-
 Decreto nº 88.389, de 14 de junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de banco de capacitores Indústrias Reunidas Francisco Matarazzo Rayon da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

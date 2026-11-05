@@ -18,7 +18,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 CRÉDITO ESPECIAL
 
 | Exercício | 2024 |
@@ -34,7 +35,8 @@ CRÉDITO ESPECIAL
 | Código Orçamentário | 0000 – IDENTIFICAÇÃO DE DESPESAS GERAIS |
 | Valor | R$ 1.120.000,00 |
 
-ANEXO II<br>
+ANEXO II
+
 REDUÇÃO
 
 | Exercício | 2024 |
@@ -61,9 +63,12 @@ PRODUTO A SER CRIADO NO PLANO PLURIANUAL 2024-2027
 | NOME DA ENTREGA | _Wi-Fi_ fornecido em Pontos Turísticos ( _Access Points_ – APs) |
 | UNIDADE DE MEDIDA | Número |
 | META ACUMULATIVA (S/N) | Não |
-| DESCRIÇÃO DO PRODUTO | O produto se trata de prestação de serviços de fornecimento de Pontos de Acesso _Outdoor_ ( _Access Points_ – APs) e demais itens necessários para uma rede sem fio ( _Wi-Fi_ público) em regiões de pouca disponibilidade desse serviço de conectividade, considerados os pontos preliminarmente levantados (40 pontos) e demais pontos para o atendimento de demandas futuras (40 pontos). Esses APs deverão considerar os seguintes cenários:<br>
-\- Cenário 1 ( _kit_ 1): locais com infraestrutura de _links_ de dados via fibra óptica ou rádio e energia comercial;<br>
-\- Cenário 2 ( _kit_ 2): locais com infraestrutura de energia comercial e _links_ de dados via satélite;<br>
+| DESCRIÇÃO DO PRODUTO | O produto se trata de prestação de serviços de fornecimento de Pontos de Acesso _Outdoor_ ( _Access Points_ – APs) e demais itens necessários para uma rede sem fio ( _Wi-Fi_ público) em regiões de pouca disponibilidade desse serviço de conectividade, considerados os pontos preliminarmente levantados (40 pontos) e demais pontos para o atendimento de demandas futuras (40 pontos). Esses APs deverão considerar os seguintes cenários:
+
+\- Cenário 1 ( _kit_ 1): locais com infraestrutura de _links_ de dados via fibra óptica ou rádio e energia comercial;
+
+\- Cenário 2 ( _kit_ 2): locais com infraestrutura de energia comercial e _links_ de dados via satélite;
+
 \- Cenário 3 ( _kit_ 3): locais sem infraestrutura onde serão implantados energia solar e _links_ de dados via satélite. |
 | MÉTODO DE COMPROVAÇÃO | Gestão de contrato e fiscalização de cumprimento do contrato. |
 | COMPROMISSOS DO PLANO DE GOVERNO | Infraestrutura – Implantar e ampliar a conectividade nos destinos turísticos. |

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b417cd1a-bd94-4379-8307-45da7f73779b/texto#nowhere)
 
-###DEL-000259-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 259, DE 28 DE FEVEREIRO DE 1967
 
 Atribui competência ao Conselho Deliberativo da Superintendência do Desenvolvimento do Nordeste (SUDENE) para aprovar a estrutura e regimento da Secretaria Executiva da entidade

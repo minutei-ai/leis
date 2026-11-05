@@ -1,7 +1,3 @@
-1
-
-###DEL-000722-0-000-31-07-1969@@@
-
 DECRETO-LEI Nº 722, DE 31 DE JULHO DE 1969
 
 Autoriza o funcionamento da Universidade do Vale do Rio dos Sinos.

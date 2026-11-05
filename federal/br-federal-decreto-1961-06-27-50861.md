@@ -1,5 +1,3 @@
-###DEC-050861-0-000-27-06-1961@@@
-
 DECRETO Nº 50.861, DE 27 DE JUNHO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.672, de 28 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Riacho do Bode, no Município de Santana de Ipanema, Estado de Alagoas.

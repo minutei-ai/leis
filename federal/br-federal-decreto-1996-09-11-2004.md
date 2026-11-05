@@ -1,7 +1,3 @@
-1
-
-###DEC-002004-0-000-11-09-1996@@@
-
 DECRETO N° 2.004, DE 11 DE SETEMBRO DE 1996.
 
 Dispõe sobre a comunicação social do Poder Executivo Federal.

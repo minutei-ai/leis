@@ -1,5 +1,3 @@
-###DEC-079768-0-000-02-06-1977@@@
-
 DECRETO Nº 79.768, DE 2 DE JUNHO DE 1977
 
 Aprova alteração introduzida nos Estatutos da companhia de Pesquisa Recursos Minerais - CPRM

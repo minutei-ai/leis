@@ -1,5 +1,3 @@
-###DEC-065199-0-000-19-09-1969@@@
-
 DECRETO Nº 65.199 - DE 19 DE SETEMBRO DE 1969.
 
 Autoriza a Carteira de Comércio Exteriores do Banco do Brasil S.A. a conceder os benefícios da remissão do impôsto de importação, em caráter temporário.

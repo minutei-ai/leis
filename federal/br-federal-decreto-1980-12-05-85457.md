@@ -1,5 +1,3 @@
-###DEC-085457-0-000-05-12-1980@@@
-
 DECRETO nº 85.457, de 5 de dezembro de 1980.
 
 Declara luto oficial.

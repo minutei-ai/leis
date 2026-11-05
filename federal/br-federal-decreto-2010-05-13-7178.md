@@ -1,5 +1,3 @@
-###DEC-007178-0-000-13-05-2010@@@
-
 DECRETO Nº 7.178, DE 13 DE MAIO DE 2010.
 
 Delega competência ao Ministro de Estado das Relações Exteriores para a prática dos atos que especifica

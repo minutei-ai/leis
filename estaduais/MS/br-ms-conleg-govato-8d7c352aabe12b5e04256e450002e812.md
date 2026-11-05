@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:33:31.000Z"
 sha256_fonte: "a0b753656fd825268813aca333e6f1a63b1104d4383d30c9098179130470bb4b"
 sha256_markdown: "e0fb6a41cacdfe9008c23a0e02d5b1dbcafbe2da7e58e43d2b0b4c1d18f451da"
 ---
-
 # LEI Nº 646, DE 17 DE JUNHO DE 1986.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,16 +20,18 @@ Declara de Utilidade Pública o Lions Clube de Campo Grande Sul.
 
 Publicada no Diário Oficial nº 1.839, de 18 de junho de 1986.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarado de Utilidade Pública o LIONS CLUBE DE CAMPO GRANDE SUL, sociedade civil sem fins lucrativos, com sede em Campo Grande-MS.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 17 de Junho de 1986.<br>
-<br>
-RAMEZ TEBET<br>
-Governador<br>
-<br>
-FRANCISCO LEAL DE QUEIROZ<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarado de Utilidade Pública o LIONS CLUBE DE CAMPO GRANDE SUL, sociedade civil sem fins lucrativos, com sede em Campo Grande-MS.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Campo Grande, 17 de Junho de 1986.
+
+RAMEZ TEBET
+
+Governador
+
+FRANCISCO LEAL DE QUEIROZ
+
 Secretário de Estado de Justiça

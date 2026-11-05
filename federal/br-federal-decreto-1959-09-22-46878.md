@@ -1,5 +1,3 @@
-###DEC-046878-0-000-22-09-1959@@@
-
 DECRETO Nº 46.878, DE 22 DE SETEMBRO DE 1959.
 
 Declara de utilidade pública e autoriza a desapropriação de imóvel necessário ao Ministério da Guerra.

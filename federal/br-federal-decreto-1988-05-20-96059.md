@@ -1,5 +1,3 @@
-###DEC-096059-0-000-20-05-1988@@@
-
 DECRETO N° 96.059, DE 20 DE MAIO DE 1988
 
 Dispõe sobre aumento do capital social da Indústria Aeronáutica Neiva S.A.

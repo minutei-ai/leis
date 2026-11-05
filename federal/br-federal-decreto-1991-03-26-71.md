@@ -1,5 +1,3 @@
-###DEC-000071-0-000-26-03-1991@@@
-
 DECRETO Nº 71, DE 26 DE MARÇO DE 1991
 
 Promulga o Acordo sobre Cooperação no Campo da Ciência e da Tecnologia, entre o Governo da República Federativa do Brasil e o Governo do Japão.

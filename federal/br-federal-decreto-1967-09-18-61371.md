@@ -1,5 +1,3 @@
-###DEC-061371-0-000-18-09-1967@@@
-
 Decreto nº 61.371, de 18 de setembro de 1967.
 
 Declara caduco o Decreto nº 36.742, de 3 de janeiro de 1955.

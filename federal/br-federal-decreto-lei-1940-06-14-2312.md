@@ -1,5 +1,3 @@
-###DEL-002312-0-000-14-06-1940@@@
-
 DECRETO-LEi N. 2.312 – DE 14 DE JUNHO DE 1940
 
 Cria o Laboratório de Provas de Material no Ministério da Marinha

@@ -1,5 +1,3 @@
-###DEC-088491-0-000-12-07-1983@@@
-
 Decreto nº 88.491, de 12 de Julho de 1983.
 
 Dispõe sobre o aumento do Capital Social da Espírito Santo Centrais Elétricas S.A. - ESCELSA.

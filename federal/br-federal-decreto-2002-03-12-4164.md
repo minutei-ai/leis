@@ -1,5 +1,3 @@
-###DEC-004164-0-000-12-03-2002@@@
-
 DECRETO Nº 4.164, DE 12 DE MARÇO DE 2002
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República da Colômbia, da República do Equador, da República do Peru e da República Bolivariana da Venezuela (países-membros da Comunidade Andina), de 28 de dezembro de 2001.

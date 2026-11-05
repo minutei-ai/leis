@@ -1,7 +1,3 @@
-1
-
-###DEC-097963-0-000-17-07-1989@@@
-
 DECRETO Nº 97.963, DE 17 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados do Centro de Informática da Lagoa, no Rio de Janeiro.

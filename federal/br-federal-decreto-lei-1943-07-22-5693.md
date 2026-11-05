@@ -1,5 +1,3 @@
-###DEL-005693-0-000-22-07-1943@@@
-
 DECRETO‑LEI N.  5.693 – DE 22 DE JULHO DE 1943
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 379.360,00, para auxílio à Prefeitura Municipal de Santana do Livramento.

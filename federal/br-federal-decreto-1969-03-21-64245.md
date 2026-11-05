@@ -1,5 +1,3 @@
-###DEC-064245-0-000-21-03-1969@@@
-
 DECRETO Nº 64.245, DE 21 DE MARÇO DE 1969.
 
 Declara sem efeito o decreto número 45.316, de 27 de janeiro de 1959.

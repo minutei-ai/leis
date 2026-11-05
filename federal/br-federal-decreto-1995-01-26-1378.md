@@ -1,7 +1,3 @@
-1
-
-###DEC-001378-0-000-26-01-1995@@@
-
 DECRETO Nº 1.378, DE 26 DE JANEIRO DE 1995
 
 Dá nova redação ao art. 13 do Decreto nº 193, de 21 de agosto de 1991.

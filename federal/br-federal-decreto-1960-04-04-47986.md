@@ -1,5 +1,3 @@
-###DEC-047986-0-000-04-04-1960@@@
-
 DECRETO Nº 47.986, DE 4 DE ABRIL DE 1960.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona, em Recife, Estado de Pernambuco, necessários ao ministério da Aeronáutica.

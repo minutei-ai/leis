@@ -1,5 +1,3 @@
-###DEC-074395-0-000-12-08-1974@@@
-
 DECRETO Nº 74.395, DE 12 DE AGOsTO DE 1974.
 
 Retifica a concessão de lavra outorgada a Antônio Cândido de Aguiar, pelo Decreto nº 9.343, de 4 de maio de 1942.

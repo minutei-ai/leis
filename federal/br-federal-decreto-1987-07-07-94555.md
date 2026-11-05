@@ -1,5 +1,3 @@
-###DEC-094555-0-000-07-07-1987@@@
-
 DECRETO N° 94.555, DE 7 DE JULHO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia a ser ministrado pela Faculdade Maria Augusta Ribeiro Daher.

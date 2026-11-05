@@ -1,5 +1,3 @@
-###DEC-066470-0-000-22-04-1970@@@
-
 DECRETO Nº 66.470, DE 22 DE ABRIL DE 1970.
 
 Declara de utilidade pública o Asilo e Hospital São Vicente de Paulo, com sede em Lambari, Estado de Minas Gerais.

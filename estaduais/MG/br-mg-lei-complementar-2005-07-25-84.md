@@ -849,7 +849,3 @@ g) a realização de inspeção, de operação e investigação policial, além 
 (Anexo acrescentado pelo Anexo II da Lei Complementar nº 113, de 29/6/2010.)
 
 (Vide art. 6º da Lei Complementar nº 113, de 29/6/2010.)
-
-\============================================================
-
-Data da última atualização: 24/3/2025.

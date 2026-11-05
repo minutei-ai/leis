@@ -1,14 +1,12 @@
-###DEC-045424-0-000-14-02-1959@@@
+**DECRETO Nº 45.424, DE 14 DE FEVEREIRO DE 1959.**
 
-<strong>DECRETO Nº 45.424, DE 14 DE FEVEREIRO DE 1959.</strong>
+***Reajusta as Tabelas aprovadas pelo Decreto nº 45.195, de 1958.***
 
-<em><strong>Reajusta as Tabelas aprovadas pelo Decreto nº 45.195, de 1958.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87 número I da Constituição e tendo em vista o disposto no artigo 1º da Lei nº 2.745, de12 de março de 1956, combinado com artigo 2º do Decreto nº 45.400, de 6 de fevereiro de 1959,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87 número I da Constituição e tendo em vista o disposto no artigo 1º da Lei nº 2.745, de12 de março de 1956, combinado com artigo 2º do Decreto nº 45.400, de 6 de fevereiro de 1959,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os quantitativos fixados nas Tabelas de Representação e de Suplemento de Representação aprovadas pelo Decreto nº 45.195, de 31 de dezembro de 1958, ficam reajustadas como se segue:
+**Art**. 1º Os quantitativos fixados nas Tabelas de Representação e de Suplemento de Representação aprovadas pelo Decreto nº 45.195, de 31 de dezembro de 1958, ficam reajustadas como se segue:
 
 I - Na Tabela I:
 
@@ -156,10 +154,10 @@ c) de Cr$6.118,70 para Cr$19.229,00
 
 d) de Cr$3.671,10 para Cr$11.537,00
 
-<strong>Art</strong>. 2º Os quantitativos de que trata êste Decreto vigorarão para o ano de 1959 a partir da vigência do Decreto nº 45.400, de 6 de fevereiro de 1959, revogadas as disposições em contrário.
+**Art**. 2º Os quantitativos de que trata êste Decreto vigorarão para o ano de 1959 a partir da vigência do Decreto nº 45.400, de 6 de fevereiro de 1959, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 14 de fevereiro de 1959, 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco Negrão de Lima

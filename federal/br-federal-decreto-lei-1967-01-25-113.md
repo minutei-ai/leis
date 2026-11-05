@@ -1,5 +1,3 @@
-###DEL-000113-0-000-25-01-1967@@@
-
 DECRETO-LEI Nº 113, DE 25 DE JANEIRO DE 1967
 
 Altera a Organização Judiciária do Distrito Federal e dá outras providências.

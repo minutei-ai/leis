@@ -1,5 +1,3 @@
-###DEC-007771-0-000-29-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.771, DE 29 DE JUNHO DE 2012
 
 Altera o Decreto n° 6.521, de 30 de julho de 2008, n° 6.191, de 20 de agosto de 2007, n° 6.280, de 3 de dezembro de 2007, n° 5.551, de 26 de setembro de 2005, n° 6.359, de 18 de janeiro de 2008 e n° 7.659, de 23 de dezembro de 2011, para prorrogar o prazo de remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS.

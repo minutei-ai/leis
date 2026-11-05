@@ -1,5 +1,3 @@
-###DEC-050940-0-000-13-07-1961@@@
-
 DECRETO Nº 50.940, DE 13 DE JULHO DE 1961.
 
 Autoriza o Ministério da Agricultura a aceitar a doação de um terreno que menciona, situado no município de Garanhuns, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-092663-0-000-16-05-1986@@@
-
 DECRETO Nº 92.663, DE 16 DE MAIO DE 1986
 
 Renova a concessão outorgada à RÁDIO PRINCESA DE LAGOA FORMOSA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Lagoa Formosa, Estado de Minas Gerais.

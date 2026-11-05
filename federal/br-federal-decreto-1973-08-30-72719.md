@@ -1,5 +1,3 @@
-###DEC-072719-0-000-30-08-1973@@@
-
 DECRETO Nº 72.719, DE 30 DE AGOSTO DE 1973.
 
 Disciplina a aplicação de recursos necessários à implantação do Plano de Classificação de cargos, de que trata a Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

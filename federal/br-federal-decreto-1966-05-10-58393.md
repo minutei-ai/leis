@@ -1,5 +1,3 @@
-###DEC-058393-0-000-10-05-1966@@@
-
 DECRETO Nº 58.393, DE 10 DE MAIO DE 1966.
 
 Reduz o interstício para promoção ao pôsto de Major-Brigadeiro no Quadro de Oficiais Médicos do Corpo de Oficiais da Aeronáutica.

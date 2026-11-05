@@ -1,5 +1,3 @@
-###DEL-004942-0-000-12-11-1942@@@
-
 DECRETO-LEI N. 4.942 – DE 12 DE NOVEMBRO DE 1942
 
 Autoriza a prorrogação do contrato da loteria federal, até 30 de junho de 1943

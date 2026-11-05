@@ -1,5 +1,3 @@
-###DEC-076329-0-000-24-09-1975@@@
-
 DECRETO Nº 76.329 - DE 24 DE SETEMBRO DE 1975
 
 Declara de utilidade pública para fins de desapropriação, 18/350 avos de uma área de terreno urbano, sem benfeitorias, na cidade do Rio de Janeiro, Estado do Rio de Janeiro, destinada à instalação de uma estação telefônica pela Companhia Telefônica Brasileira - CTB.

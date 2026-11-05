@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209999)<br>
-
 # DECRETO N° 68.883, DE 18 DE SETEMBRO DE 2024
 
 ### _Altera a denominação da Estação da Linha 1 - Azul, da Companhia do Metropolitano de São Paulo - METRÔ, de Estação Jabaquara para Estação Jabaquara - Comitê Paralímpico Brasileiro._

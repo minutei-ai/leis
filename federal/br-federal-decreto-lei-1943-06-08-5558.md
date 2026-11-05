@@ -1,5 +1,3 @@
-###DEL-005558-0-000-08-06-1943@@@
-
 DECRETO-LEI N. 5.558 – DE 8 DE JUNHO DE 1943
 
 Cria o Serviço de Documentação da Marinha

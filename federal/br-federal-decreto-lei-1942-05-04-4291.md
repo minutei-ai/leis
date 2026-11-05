@@ -1,5 +1,3 @@
-###DEL-004291-0-000-04-05-1942@@@
-
 DECRETO-LEI N. 4.291 – DE 4 DE MAIO DE 1942
 
 Amplia os encargos das atuais Comissões de Rede, dando-Ihes tambem atribuições rodoviárias e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-078545-0-000-06-10-1976@@@
-
 DECRETO Nº 78.545, DE 6 DE OUTUBRO DE 1976.
 
 Revoga Decretos que aprova e alteram o Regulamento da Escola de Aperfeiçoamento de Oficiais da Aeronáutica.

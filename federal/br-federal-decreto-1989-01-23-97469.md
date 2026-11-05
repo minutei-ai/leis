@@ -1,5 +1,3 @@
-###DEC-097469-0-000-23-01-1989@@@
-
 DECRETO N° 97.469, DE 23 DE JANEIRO DE 1989
 
 Modifica o Estatuto da Casa da Moeda do Brasil  CMB.

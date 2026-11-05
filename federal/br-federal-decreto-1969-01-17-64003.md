@@ -1,5 +1,3 @@
-###DEC-064003-0-000-17-01-1969@@@
-
 decreto nº 64.003, de 17 de janeiro de 1969.
 
 Aprova as faixas de atuação e as áreas de execução fixadas nas Reuniões Regionais Preparatórias ao II Congresso Nacional de Agropecuária, os objetivos e metas da Carta de Brasília atualizados no II Congresso Nacional de Agropecuária e dá outras providências.

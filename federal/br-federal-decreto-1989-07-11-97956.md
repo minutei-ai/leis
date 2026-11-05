@@ -1,7 +1,3 @@
-1
-
-###DEC-097956-0-000-11-07-1989@@@
-
 DECRETO Nº 97.956, DE 11 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “GLEBA GAMELEIRA/MATÕES”, classificado como “latifúndio” por exploração, situado no Município de Imperatriz, Estado do Maranhão, compreendido na zona prioritária fixada pelo Decreto nº 92.619, de 2 de maio de 1986, e dá outras providencias,

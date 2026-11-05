@@ -1,7 +1,3 @@
-1
-
-###DEC-000524-0-000-19-05-1992@@@
-
 DECRETO Nº 524, DE 19 DE MAIO DE 1992
 
 Institui como fundação pública a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES e dá outras providências.

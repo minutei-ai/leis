@@ -1,5 +1,3 @@
-###DEC-007184-0-000-27-05-2010@@@
-
 DECRETO Nº 7.184, DE 27 DE MAIO DE 2010.
 
 Autoriza o aumento do capital social do Banco do Brasil S.A. e dá outras providências

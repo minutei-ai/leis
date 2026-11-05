@@ -1,5 +1,3 @@
-###DEC-086574-0-000-11-11-1981@@@
-
 Decreto nº 86.574, de 11 de novembro de 1981
 
 Autoriza o Banco de Santander S.A. a funcionar no País.

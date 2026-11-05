@@ -1,5 +1,3 @@
-###DEC-076373-0-000-02-10-1975@@@
-
 Decreto nº 76.373, de 2 de outubro de 1975
 
 Cria a Comissão Naval em São Paulo.

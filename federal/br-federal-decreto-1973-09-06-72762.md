@@ -1,5 +1,3 @@
-###DEC-072762-0-000-06-09-1973@@@
-
 DECRETO Nº 72.762, DE 6 DE SETEMBRO DE 1973.
 
 Concede à CALFIBRA S. A. - Mineração, Indústria e Comércio o direito de lavrar calcário no Município de Adrianópolis, Estado do Paraná.

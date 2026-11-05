@@ -1,5 +1,3 @@
-###DEC-088608-0-000-09-08-1983@@@
-
 Decreto nº 88.608, de 09 de agosto de 1983
 
 Outorga concessão à SOCIEDADE RÁDIO AMETISTA LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Planalto, Estado do Rio Grande do Sul.

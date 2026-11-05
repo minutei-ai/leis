@@ -1,5 +1,3 @@
-###DEC-072777-0-000-11-09-1973@@@
-
 DECRETO Nº 72.777, DE 11 DE SETEMBRO DE 1973.
 
 Dispõe sobre a estrutura e funcionamento da Superintendência do Desenvolvimento da Região Centro Oeste - SUDECO.

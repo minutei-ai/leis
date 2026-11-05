@@ -1,7 +1,3 @@
-1
-
-###DEC-098201-0-000-27-09-1989@@@
-
 DECRETO Nº 98.201, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA PAI JOÃO/FOAGRO (ÁREA REMANESCENTE)”, constituído de vários lotes contíguos, situado no Município de Coribe, Estado da Bahia, e dá outras providências.

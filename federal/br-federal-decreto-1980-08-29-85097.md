@@ -1,5 +1,3 @@
-###DEC-085097-0-000-29-08-1980@@@
-
 Decreto nº 85.097, de 29 de agosto de 1980.
 
 Institui como Patrono do Quadro Auxiliar de Oficiais, do Exército, o Tenente Antônio João Ribeiro.

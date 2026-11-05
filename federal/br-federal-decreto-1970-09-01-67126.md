@@ -1,5 +1,3 @@
-###DEC-067126-0-000-01-09-1970@@@
-
 DECRETO Nº 67.126, DE 1 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno destinada à construção do açude público "Delmiro Gouveia", no município do mesmo nome, Estado de Alagoas.

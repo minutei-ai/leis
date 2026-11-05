@@ -1,5 +1,3 @@
-###DEL-005168-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.168 – DE 31 DE DEZEMBRO DE 1942
 
 Prorroga a vigência do crédito especial de Cr$ 6.400.000,00, aberto pelo decreto-lei nº 3.895, de 5 de dezembro de 1941

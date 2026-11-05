@@ -1,5 +1,3 @@
-###DEC-073400-0-000-31-12-1973@@@
-
 DECRETO Nº 73.400 - DE 31 DE DEZEMBRO DE 1973
 
 Promulga o Convênio Internacional para a constituição do Instituto Ítalo-Latino-Americano.

@@ -1,14 +1,12 @@
-###DEC-037814-0-000-29-08-1955@@@
+**DECRETO Nº 37.814, DE 29 DE AGÔSTO DE 1955.**
 
-<strong>DECRETO Nº 37.814, DE 29 DE AGÔSTO DE 1955.</strong>
+***Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.***
 
-<em><strong>Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regulamento da Escola de Comando e Estado-Maior da Aeronáutica, aprovado pelo Decreto número 35.937, de 29 de julho de 1954, e alterado pelo de nº 36.916, de 16 de fevereiro de 1955, fica assim modificado:
+**Art**. 1º O Regulamento da Escola de Comando e Estado-Maior da Aeronáutica, aprovado pelo Decreto número 35.937, de 29 de julho de 1954, e alterado pelo de nº 36.916, de 16 de fevereiro de 1955, fica assim modificado:
 
 I - O Art. 9º passa a vigorar com a seguinte redação:
 
@@ -36,10 +34,10 @@ V - O Art. 19 passa a ter a segiunte redação:
 
 Parágrafo único. Os oficiais dispensados de exame de admissão na forma do presente artigo, satisfeitas as condições estabelecidas nos artigos 5º e 6º, deverão requerer, dentro do prazo estabelecido no art. 9º, matrícula ao Chefe do Estado-Maior da Aeronáutica”.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 29 de agôsto de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

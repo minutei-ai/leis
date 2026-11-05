@@ -1,5 +1,3 @@
-###DEC-094247-0-000-22-04-1987@@@
-
 DECRETO Nº 94.247, DE 22 DE ABRIL DE 1987
 
 Outorga concessão à RÁDIO SERRA AZUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Caiapônia, Estado de Goiás.

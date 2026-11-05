@@ -1,5 +1,3 @@
-###DEL-009413-0-000-28-06-1946@@@
-
 DECRETO-LEI N. 9.413 – DE 28 DE JUNHO DE 1946
 
 Proíbe a exportação, pelo prazo de 180 dias, do leite condensado, concentrado, com açúcar; em pó tabloides ou outro estado com ou sem açúcar.

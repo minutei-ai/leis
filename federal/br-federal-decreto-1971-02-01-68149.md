@@ -1,5 +1,3 @@
-###DEC-068149-0-000-01-02-1971@@@
-
 DECRETO Nº 68.149, DE 1º DE FEVEREIRO DE 1971
 
 Redistribui, com o respectivo ocupante cargo do Ministério da Saúde para a Universidade Federal do Rio de Janeiro, e dá outras providências.

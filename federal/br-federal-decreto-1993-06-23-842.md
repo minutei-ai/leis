@@ -1,7 +1,3 @@
-1
-
-###DEC-000842-0-000-23-06-1993@@@
-
 DECRETO N° 842, DE 23 DE JUNHO DE 1993
 
 Altera o Decreto n° 71.848, de 16 de fevereiro de 1973, que regulamenta a Lei n° 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas.

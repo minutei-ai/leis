@@ -1,5 +1,3 @@
-###DEC-076855-0-000-17-12-1975@@@
-
 DECRETO Nº 76.855, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Educação São Luís, com sede na cidade de Jaboticabal, Estado de São Paulo.

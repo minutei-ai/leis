@@ -1,5 +1,3 @@
-###DEC-053308-0-000-16-12-1963@@@
-
 DECRETO Nº 53.308, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Hermenegildo Espinosa Casado a pesquisar caulim e feldspato, no município de Franco da Rocha, Estado de São Paulo.

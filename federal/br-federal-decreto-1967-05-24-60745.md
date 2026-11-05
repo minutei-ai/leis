@@ -1,5 +1,3 @@
-###DEC-060745-0-000-24-05-1967@@@
-
 DECRETO Nº 60.745, DE 24 DE MAIO DE 1967.
 
 Fixa normas para aprovação dos orçamentos das entidades mencionadas no artigo 107, da Lei número 4.320, de 17 de março de 1964.

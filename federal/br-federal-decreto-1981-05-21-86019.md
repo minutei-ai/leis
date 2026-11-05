@@ -1,5 +1,3 @@
-###DEC-086019-0-000-21-05-1981@@@
-
 decreto nº 86.019, de 21 de maio de 1981.
 
 Aprova o Regulamento da Progressão Funcional na Carreira de Diplomata.

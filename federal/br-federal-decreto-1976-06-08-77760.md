@@ -1,5 +1,3 @@
-###DEC-077760-0-000-08-06-1976@@@
-
 DECRETO Nº 77.760, de 8 de junho de 1976.
 
 Renova por 10 (dez) anos a concessão outorgada ao Governo do Estado do Maranhão para que a Fundação Cultural do Maranhão Rádio Timbira do Maranhão passe a executar serviço de radiodifusão sonora em onda curta, na Cidade de São Luís, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-082816-0-000-06-12-1978@@@
-
 Decreto nº 82 816, de 06 de dezembro de 1978
 
 Renova por 15 (quinze) anos a concessão outorgada à Empresa Jornal do Comércio S.A. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Recife, Estado de Pernambuco.

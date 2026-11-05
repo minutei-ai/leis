@@ -1,5 +1,3 @@
-###DEL-003755-0-000-24-10-1941@@@
-
 DECRETO-LEI N. 3.755 – DE 24 DE OUTUBRO DE 1941
 
 Cria a Comissão Nacional de Combustiveis e Lubrificantes

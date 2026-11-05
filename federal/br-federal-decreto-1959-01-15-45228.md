@@ -1,5 +1,3 @@
-###DEC-045228-0-000-15-01-1959@@@
-
 DECRETO Nº 45.228, DE 15 DE JANEIRO DE 1959.
 
 Autoriza a “Sertaneja” - Emprêsa Agropastoril S.A. a ampliar as suas instalações da usina hidrelétrica de Barreiras , Estado da Bahia.

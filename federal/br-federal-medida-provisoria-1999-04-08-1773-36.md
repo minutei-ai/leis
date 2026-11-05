@@ -1,5 +1,3 @@
-###MPV-001773-0-036-08-04-1999@@@
-
 MEDIDA PrOVISóRiA Nº 1.773-36, DE 8 DE ABril DE 1999.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

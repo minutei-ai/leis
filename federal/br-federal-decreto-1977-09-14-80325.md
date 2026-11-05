@@ -1,5 +1,3 @@
-###DEC-080325-0-000-14-09-1977@@@
-
 DECRETO Nº 80.325, DE 14 DE SETEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da subestação de Cajati II, no Distrito de Cajati, pertencente ao Município de Jacupiranga, Estado de São Paulo, da Centrais Elétricas de São Paulo S.A. - CESP.

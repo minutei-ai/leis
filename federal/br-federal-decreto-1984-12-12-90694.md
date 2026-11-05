@@ -1,5 +1,3 @@
-###DEC-090694-0-000-12-12-1984@@@
-
 Decreto nº 90.694, de 12 de dezembro de 1984
 
 Autoriza a funcionamento do curso de Serviço Social da Associação de Ensino de Botucatu.

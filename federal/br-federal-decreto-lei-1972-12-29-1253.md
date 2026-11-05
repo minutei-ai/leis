@@ -1,5 +1,3 @@
-###DEL-001253-0-000-29-12-1972@@@
-
 # DECRETO-LEI Nº 1.253, DE 29 DE DEZEMBRO DE 1972
 
 Prorroga até 31 de dezembro de 1973 o regime especial de que trata o Decreto-lei nº 1.182, de 16 de julho de 1971, e dá outras providências.

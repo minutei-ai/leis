@@ -1,14 +1,12 @@
-###DEC-028320-0-000-29-06-1950@@@
+**DECRETO Nº 28.320, DE 29 DE JUNHO DE 1950.**
 
-<strong>DECRETO Nº 28.320, DE 29 DE JUNHO DE 1950.</strong>
+***Cria o estandarte-distintivo para o 14º Regimento de Infantaria.***
 
-<em><strong>Cria o estandarte-distintivo para o 14º Regimento de Infantaria.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica criado o estandarte-distintivo para o 14º Regimento de Infantaria, de acôrdo com o modêlo que acompanha o presente Decreto e as seguintes características:
+**Art**. 1º Fica criado o estandarte-distintivo para o 14º Regimento de Infantaria, de acôrdo com o modêlo que acompanha o presente Decreto e as seguintes características:
 
 a) Campo de azul e vermelho cortado de uma faixa branca, com bordadura de verde;
 
@@ -26,10 +24,10 @@ g) campo franjado de ouro; laço militar das côres nacionais com a inscrição 
 
 Dimensões: 0,80 x 1,10 metro.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 29 de junho de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

@@ -1,5 +1,3 @@
-###DEC-084179-0-000-12-11-1979@@@
-
 decreto nº 84.179, de 12 de novembro de 1979
 
 Altera o Artigo 1º do Decreto nº 83 475, de 21 de maio de 1979.

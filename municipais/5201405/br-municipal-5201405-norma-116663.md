@@ -16,14 +16,18 @@ Art. 4º - Esta Lei entrará em vigor na data de sua publicação, revogadas as 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 18 de maio de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-RODRIGO GONZAGA CALDAS<br>
-Secretário de Educação e Cultura<br>
+RODRIGO GONZAGA CALDAS
+
+Secretário de Educação e Cultura
+
  
 
 | **ANEXO ÚNICO** |

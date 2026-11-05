@@ -1,5 +1,3 @@
-###DEC-062519-0-000-09-04-1968@@@
-
 DECRETO Nº 62.519, DE 9 DE ABRIL DE 1968.
 
 Dispõe sôbre a mudança de nome do Colégio Agrícola de Passo Fundo e dá outras providências.

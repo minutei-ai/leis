@@ -1,5 +1,3 @@
-###DEC-076417-0-000-10-10-1975@@@
-
 DECRETO nº 76.417, DE 10 DE OUTUBRO DE 1975.
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica, no curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Alegrete, Estado do Rio Grande do Sul.

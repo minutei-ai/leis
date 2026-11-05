@@ -1,5 +1,3 @@
-###DEC-055550-0-000-11-01-1965@@@
-
 DECRETO Nº 55.550, DE 11 DE JANEIRO DE 1965.
 
 Autoriza a Mineração e Usina Wigg S. A. a pesquisar minérios de ferro e manganês, e dolomita no município de Itabirito, Estado de Minas Gerias.

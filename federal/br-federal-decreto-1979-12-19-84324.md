@@ -1,5 +1,3 @@
-###DEC-084324-0-000-19-12-1979@@@
-
 Decreto nº 84.324 de 19 de dezembro de 1979.
 
 Institui a Secretaria da Comissão Interministerial para os Recursos do Mar (SECIRM,) e dá outras providências.

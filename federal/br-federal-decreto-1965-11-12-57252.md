@@ -1,5 +1,3 @@
-###DEC-057252-0-000-12-11-1965@@@
-
 DECRETO Nº 57.252, DE 12 DE NOVEMBRO DE 1965.
 
 Concede à sociedade Navegação Cometa Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-091677-0-000-20-09-1985@@@
-
 Decreto nº 91.677, de 20 de setembro de 1985
 
 Autoriza o funcionamento do curso de Administração do Centro de Ensino Superior da Fundação Educacional Regional Jaraguaense.

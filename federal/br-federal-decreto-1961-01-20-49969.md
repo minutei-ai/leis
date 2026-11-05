@@ -1,5 +1,3 @@
-###DEC-049969-0-000-20-01-1961@@@
-
 DECRETO Nº 49.969, DE 20 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Cornélio Procópio S.A. para instalar uma estação redio-fusora.

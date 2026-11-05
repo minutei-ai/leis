@@ -1,5 +1,3 @@
-###DEL-003151-0-000-27-03-1941@@@
-
 DECRETO-LEI N. 3.151 – DE 27 DE MARÇO DE 1941
 
 Altera as tabelas do Pessoal Civil do Ministério da Guerra, anexas ao decreto-lei n. 2.903, de 20 de janeiro de 1941

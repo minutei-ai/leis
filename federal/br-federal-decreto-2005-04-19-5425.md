@@ -1,5 +1,3 @@
-###DEC-005425-0-000-19-04-2005@@@
-
 DECRETO Nº 5.425 DE 19 DE ABRIL DE 2005
 
 Dispõe sobre a execução do Vigésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República da Colômbia, de 14 de dezembro de 2004.

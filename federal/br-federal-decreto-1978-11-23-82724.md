@@ -1,5 +1,3 @@
-###DEC-082724-0-000-23-11-1978@@@
-
 Decreto nº 82.724, de 23 de novembro de 1978
 
 Suprime e altera dispositivos do Decreto nº 77.919, de 25 de junho de 1976, que regulamenta a Lei n.º 6.265, de 19 de novembro de 1975, Lei do Ensino no Exército, e dá outras providências.

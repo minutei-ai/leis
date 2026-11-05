@@ -1,5 +1,3 @@
-###DEC-052933-0-000-26-11-1963@@@
-
 Decreto nº 52.933, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Alumínio Minas Gerais S.A. a pesquisar quartzo, no município de Mariana, Estado de Minas Gerais.

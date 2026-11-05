@@ -1,5 +1,3 @@
-###DEC-055435-0-000-31-12-1964@@@
-
 DECRETO Nº 55.435, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Emprêsa Comercial e Técnica de Minérios S.A. a lavrar minério de manganês, no município de Caetité, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-096042-0-000-17-05-1988@@@
-
 DECRETO N° 96.042, DE 17 DE MAIO DE 1988
 
 Dispõe sobre o aumento do Capital Autorizado da (PETROFLEX INDÚSTRIA E COMÉRCIO S.A.).

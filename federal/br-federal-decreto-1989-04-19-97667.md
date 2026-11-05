@@ -1,7 +1,3 @@
-1
-
-###DEC-097667-0-000-19-04-1989@@@
-
 DECRETO Nº 97.667, DE 19 DE ABRIL DE 1989
 
 Regulamenta a Retribuição Adicional Variável e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099958-0-000-28-12-1990@@@
-
 # DECRETO Nº 99.958, DE 28 DE DEZEMBRO DE 1990
 
 Dispõe sobre a concessão de auxílios a Municípios atingidos pela seca.

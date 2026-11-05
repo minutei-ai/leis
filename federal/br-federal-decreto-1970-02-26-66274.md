@@ -1,5 +1,3 @@
-###DEC-066274-0-000-26-02-1970@@@
-
 DECRETO Nº 66.274 - DE 26 DE FEVEREIRO DE 1970
 
 Fixa os valôres da Gratificação de Função Militar - Categoria II, da Gratificação de Localidade Especial, de Indenização de Representação e da Indenização para Moradia, referentes ao ano de 1970.

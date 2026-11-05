@@ -1,5 +1,3 @@
-###DEC-050250-0-000-28-01-1961@@@
-
 DECRETO Nº 50.250, DE 28 DE Janeiro DE 1961.
 
 Autoriza o Departamento Nacional de Educação do Ministério da Educação e Cultura a instalar, em Brasília, estação de radiodifusão com finalidades educativas.

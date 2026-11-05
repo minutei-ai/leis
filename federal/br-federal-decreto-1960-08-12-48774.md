@@ -1,5 +1,3 @@
-###DEC-048774-0-000-12-08-1960@@@
-
 DECRETO Nº 48.774, DE 12 DE AGôSTO DE 1960.
 
 Renova o Decreto nº 43.492, de 2 de abril de 1958.

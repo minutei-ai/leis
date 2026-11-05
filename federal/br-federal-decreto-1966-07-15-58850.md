@@ -1,5 +1,3 @@
-###DEC-058850-0-000-15-07-1966@@@
-
 DECRETO Nº 58.850, DE 15 DE JULHO DE 1966.
 
 Renova o Decreto nº 1.957, de 26 de dezembro de 1962.

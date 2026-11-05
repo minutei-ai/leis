@@ -1,6 +1,7 @@
 LEI Nº 1.671 DE 12 DE ABRIL DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.179](https://www.legislabahia.ba.gov.br/documentos/lei-no-13179-de-26-de-maio-de-2014#LO%2013.179) de 26 de maio de 2014. Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Aiquara, Apuarema, Barra do Rocha, Boa Nova, Dário Meira, Gongogi, Ibirataia, Ipiaú, Itagi, Itagibá, Itamari, Jequié, Jitaúna, Manoel Vitorino, Nova Ibiá e Ubatã, e altera a Lei nº 12.926, de 18 de dezembro de 2013, no que concerne ao limite de Ibirapitanga. 
 
 Cria o município de Aiquara, desmembrado do de Jequié, constituído do distrito do mesmo nome e obedecendo os limites atuais.
@@ -59,4 +60,4 @@ Governador
 
 Manso Cabral
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-046292-0-000-29-06-1959@@@
-
 DECRETO Nº 46.292, DE 29 DE junho DE 1959.
 
 Autoriza o cidadão brasileiro. Antônio Evaristo Barbosa a pesquisar mica no município de Minas Novas, Estado de Minas Gerais.

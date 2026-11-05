@@ -1,6 +1,10 @@
 > **LEI Nº 4.524, DE 27 DE FEVEREIRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão excepcional de bônus de produtividade aos servidores efetivos da Assembleia Legislativa do Estado do Acre, na forma que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão excepcional de bônus de produtividade aos servidores efetivos da Assembleia Legislativa do Estado do Acre, na forma que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-049312-0-000-21-11-1960@@@
-
 DECRETO Nº 49.312, DE 21 DE novembro DE 1960.
 
 Cria o cargo de Adido Militar junto à Embaixada do Brasil em Lisboa (Portugal), e dá outras providências.

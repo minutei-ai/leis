@@ -1,5 +1,3 @@
-###DEL-008746-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.746 – DE 21 DE JANEIRO DE 1946
 
 Cria cargos isolados, de provimento efetivo, no Quadro I, Parte Permanente, do Ministério da Viação e Obras Públicas, e dá outras providências.

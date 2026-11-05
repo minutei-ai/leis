@@ -1,5 +1,3 @@
-###DEC-071509-0-000-07-12-1972@@@
-
 DECRETO Nº 71.509 - DE 7 DE DEZEMBRO DE 1972
 
 Dispõe sobre a Comissão de Comércio com a Europa Oriental - COLESTE.

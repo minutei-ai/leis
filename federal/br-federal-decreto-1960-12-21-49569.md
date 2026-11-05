@@ -1,5 +1,3 @@
-###DEC-049569-0-000-21-12-1960@@@
-
 DECRETO Nº 49.569, DE 21 DE DEZEMBRO DE 1960.
 
 Declara de utilidade pública imóvel que menciona e dá outras providências.

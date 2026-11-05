@@ -1,5 +1,3 @@
-###DEC-045264-0-000-16-01-1959@@@
-
 DECRETO Nº 45.264, DE 16 DE JANEIRO DE 1959.
 
 Dá nova redação ao art. 1º do Decreto nº 42.823, de 16 de dezembro

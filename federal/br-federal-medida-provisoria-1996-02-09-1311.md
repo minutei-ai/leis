@@ -1,7 +1,3 @@
-1
-
-###MPV-001311-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.311, DE 9 DE FEVEREIRO DE 1996.
 
 Reduz o imposto de importação para os produtos que especifica e dá outras providências.

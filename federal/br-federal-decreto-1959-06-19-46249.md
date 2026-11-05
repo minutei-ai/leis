@@ -1,5 +1,3 @@
-###DEC-046249-0-000-19-06-1959@@@
-
 DECRETO Nº 46.249, DE 19 DE JUNHO DE 1959.
 
 Extingue Coletoria Federal.

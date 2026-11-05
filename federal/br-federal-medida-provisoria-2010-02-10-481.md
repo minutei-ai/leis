@@ -1,5 +1,3 @@
-###MPV-000481-0-000-10-02-2010@@@
-
 MEDIDA PROVISÓRIA Nº 481, DE 10 DE FEVEREIRO DE 2010.
 
 Autoriza o Poder Executivo a doar estoques públicos de alimentos para assistência humanitária internacional.

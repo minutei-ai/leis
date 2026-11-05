@@ -1,5 +1,3 @@
-###DEC-062369-0-000-08-03-1968@@@
-
 decreto nº62.396, de 8 de março de 1968.
 
 Declara de utilidade pública o “Ginásio Dom Bosco”, com sede em Araxá, Estado de Minas Gerais.

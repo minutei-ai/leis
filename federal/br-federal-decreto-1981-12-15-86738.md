@@ -1,5 +1,3 @@
-###DEC-086738-0-000-15-12-1981@@@
-
 DECRETO Nº 86.738, DE 15 DE DEZEMBRO DE 1981
 
 Autoriza, até 31 de dezembro de 1982, o aproveitamento dos navios estrangeiros na cabotagem nacional.

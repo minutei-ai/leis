@@ -1,5 +1,3 @@
-###DEC-071016-0-000-25-08-1972@@@
-
 DECRETO Nº 71.016, de 25 DE AGOSTO DE 1972.
 
 Autoriza a contratação de empréstimo externo.

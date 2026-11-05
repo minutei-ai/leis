@@ -1,5 +1,3 @@
-###DEC-068720-0-000-08-06-1971@@@
-
 DECRETO Nº 68.720 - DE 8 DE JUNHO DE 1971.
 
 Cede à Emprêsa Brasileira de Telecomunicações (EMBRATEL), o uso das terras que especifica, no Estado de Mato Grosso, e dá outras providências.

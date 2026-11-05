@@ -1,5 +1,3 @@
-###DEC-085370-0-000-18-11-1980@@@
-
 decreto nº 85.370, de 18 de novembro de 1980.
 
 Promulga o Protocolo de Prorrogação do Acordo sobre o Comércio Internacional de Têxteis.

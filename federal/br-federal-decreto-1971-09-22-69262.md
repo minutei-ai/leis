@@ -1,5 +1,3 @@
-###DEC-069262-0-000-22-09-1971@@@
-
 DECRETO Nº 69.262, DE 22 DE SETEMBRO DE 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Estradas de Rodagem, cargos originários da ex-Companhia Nacional de Navegação Costeira-AF., e do Lloyde Brasileiro-PN., e dá outras providências.

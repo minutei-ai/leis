@@ -1,5 +1,3 @@
-###DEC-078371-0-000-03-09-1976@@@
-
 DECRETO Nº 78.371, DE 3 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Estudos Sociais, de Ciências e de Letras, da Faculdade Estadual de Feira de Santana, com sede na cidade de Feira de Santana, Estado da Bahia.

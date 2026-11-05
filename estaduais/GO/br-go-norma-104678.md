@@ -84,12 +84,14 @@ II – os incisos V e VII do § 1º do art. 41 do ADCT da [Constituição Estad
 
 III – os §§ 3º, 6º e 7º do art. 41 do ADCT da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual).
 
-Art. 4º Esta Emenda Constitucional entra em vigor na data de sua publicação, ressalvados, porém, os efeitos financeiros das alterações ao art. 107 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), que produzirão efeitos a partir de 1º de janeiro de 2025.<br>
+Art. 4º Esta Emenda Constitucional entra em vigor na data de sua publicação, ressalvados, porém, os efeitos financeiros das alterações ao art. 107 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), que produzirão efeitos a partir de 1º de janeiro de 2025.
+
 \- [Redação dada pela Emenda Constitucional nº 73, de 06-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106428/emenda-constitucional-73).
 
 ~~Art. 4º Esta Emenda Constitucional entra em vigor na data de sua publicação, ressalvadas, porém, os efeitos financeiros das alterações ao art. 107 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), que produzirão efeitos a partir de 1º de janeiro de 2023.~~
 
 ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 7 de dezembro de 2021.
 
- **Deputado LISSAUER VIEIRA<br>
+ **Deputado LISSAUER VIEIRA
+
 **\- **PRESIDENTE -**

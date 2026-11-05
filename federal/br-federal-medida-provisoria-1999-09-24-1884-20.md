@@ -1,5 +1,3 @@
-###MPV-001884-0-020-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.884-20, DE 24 DE SETEMBRO DE 1999.
 
 Altera a redação dos arts. 26, 27,31, 44 e 59 da Lei nº 9.473, de 22 de julho de 1997, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1998.

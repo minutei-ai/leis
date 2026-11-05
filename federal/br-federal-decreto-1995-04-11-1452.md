@@ -1,7 +1,3 @@
-1
-
-###DEC-001452-0-000-11-04-1995@@@
-
 DECRETO Nº 1.452, DE 11 DE ABRIL DE 1995
 
 Prorroga o prazo de que trata o art. 1º do Decreto nº 1.368, de 12 de janeiro de 1995, e dá outras providências.

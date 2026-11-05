@@ -1,5 +1,3 @@
-###DEC-082588-0-000-06-11-1978@@@
-
 Decreto nº 82.588, de 06 de novembro de 1978
 
 Concede reconhecimento aos cursos de Pedagogia; Letras; de Estudos Sociais e de Matemática, ministrados pela Faculdade de Filosofia, Ciências e Letras Professor Luiz Pardini, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-053029-0-000-28-11-1963@@@
-
 DECRETO Nº 53.029, DE 28 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Dalmo de Souza Dornellas a pesquisar minério de ferro no Município do Rio Piracicaba, Estado de Minas Gerais.

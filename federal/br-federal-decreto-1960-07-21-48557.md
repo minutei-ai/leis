@@ -1,5 +1,3 @@
-###DEC-048557-0-000-21-07-1960@@@
-
 DECRETO Nº 48.557, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro João Caçapava a pesquisar calcita e minério de chumbo e manganês, no município de Ribeira, Estado de São Paulo.

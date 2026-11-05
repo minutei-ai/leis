@@ -1,6 +1,10 @@
 > **LEI Nº 3.682, DE 31 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.588, de 19 de dezembro de 2019, que estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2020, a fim de alterar e acrescer descrição às Emendas Parlamentares que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.588, de 19 de dezembro de 2019, que estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2020, a fim de alterar e acrescer descrição às Emendas Parlamentares que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -14,18 +18,16 @@ II - acréscimo de novas especificações às Emendas Parlamentares ns. 09/2019
 
 **Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
-<br>
-
 Rio Branco-Acre, 31 de dezembro de 2020, 132º da República, 118º do Tratado de Petrópolis e 59º do Estado do Acre.
 
 **Gladson de Lima Cameli**
 
 Governador do Estado do Acre
 
-<br>
+ANEXO I
 
-ANEXO I<br>
-ALTERA O ANEXO - EMENDAS DA LEI Nº 3.588, DE 19 DE DEZEMBRO DE 2019<br>
+ALTERA O ANEXO - EMENDAS DA LEI Nº 3.588, DE 19 DE DEZEMBRO DE 2019
+
 (Arquivo disponível no final da página principal de visualização)
 
 ## Anexo oficial: ANEXO I - Lei 3.682.pdf

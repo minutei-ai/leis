@@ -1,5 +1,3 @@
-###DEC-007479-0-000-16-05-2011-PUB-01@@@
-
 DECRETO Nº 7.479, DE 16 DE MAIO DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1.928, de 7 de junho de 2010, do Conselho de Segurança das Nações Unidas, que prorroga o mandato do Painel de Peritos estabelecido para auxiliar o Comitê do Conselho de Segurança sobre a República Popular Democrática da Coreia (RPDC).

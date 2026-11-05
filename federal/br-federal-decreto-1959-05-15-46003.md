@@ -1,5 +1,3 @@
-###DEC-046003-0-000-15-05-1959@@@
-
 DECRETO Nº 46.003, DE 15 DE MAIO DE 1959.
 
 Outorga concessão à Rádio Difusora Maranhão Limitada para instalar uma estação radiodifusora.

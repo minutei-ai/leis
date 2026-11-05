@@ -1,5 +1,3 @@
-###DEC-050141-0-000-26-01-1961@@@
-
 DECRETO Nº 50.141, DE 26 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Oscar Lacê Teixeira Lopes a lavrar guano fosfato, na Ilha Rata, do arquipélago de Fernando de Noronha.

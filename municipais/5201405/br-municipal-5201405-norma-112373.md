@@ -20,15 +20,16 @@ Aparecida de Goiânia, 14 de março de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO ÚNICO
 
 SITUAÇÃO ATUAL
 
-<table><tbody><tr><td style=" width:508px;  height:61px;   ">IMÓVEL: <b>ÁREA PÚBLICA MUNICIPAL – DESTINADA A EQUIPAMENTOS COMUNITÁRIOS</b>,&nbsp; com a área de 20.865,29 metros quadrados; medindo 156,28 metros confrontando com à Rua Primulas; sem medidas convencionada com a divisa de loteamento; 36,31 metros confrontando com a divisa de loteamento; mede 286,80 metros confrontando com à Rua Bouganville; e pelo chanfrado 8,46 metros. <b>“Destinado ao uso comum do povo inalienável por qualquer forma de direito”.</b></td></tr></tbody></table>
+<table><tbody><tr><td style=" width:508px;  height:61px;   ">IMÓVEL: **ÁREA PÚBLICA MUNICIPAL – DESTINADA A EQUIPAMENTOS COMUNITÁRIOS**,&nbsp; com a área de 20.865,29 metros quadrados; medindo 156,28 metros confrontando com à Rua Primulas; sem medidas convencionada com a divisa de loteamento; 36,31 metros confrontando com a divisa de loteamento; mede 286,80 metros confrontando com à Rua Bouganville; e pelo chanfrado 8,46 metros. **“Destinado ao uso comum do povo inalienável por qualquer forma de direito”.**</td></tr></tbody></table>
 
 SITUAÇÃO PROPOSTA DE DESTINAÇÃO
 
-<table><tbody><tr><td style=" width:510px;    ">IMÓVEL: <b>ÁREA PÚBLICA MUNICIPAL – DESTINADA A HABITAÇÃO DE INTERESSE SOCIAL,</b>&nbsp; com a área de 20.865,29 metros quadrados; medindo 156,28 metros confrontando com à Rua Primulas; sem medidas convencionada com a divisa de loteamento; 36,31 metros confrontando com a divisa de loteamento; mede 286,80 metros confrontando com à Rua Bouganville; e pelo chanfrado 8,46 metros. <b>“Destinado a construção moradia custo zero”.</b></td></tr></tbody></table>
+<table><tbody><tr><td style=" width:510px;    ">IMÓVEL: **ÁREA PÚBLICA MUNICIPAL – DESTINADA A HABITAÇÃO DE INTERESSE SOCIAL,**&nbsp; com a área de 20.865,29 metros quadrados; medindo 156,28 metros confrontando com à Rua Primulas; sem medidas convencionada com a divisa de loteamento; 36,31 metros confrontando com a divisa de loteamento; mede 286,80 metros confrontando com à Rua Bouganville; e pelo chanfrado 8,46 metros. **“Destinado a construção moradia custo zero”.**</td></tr></tbody></table>

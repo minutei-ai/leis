@@ -1,5 +1,3 @@
-###DEC-005775-0-000-10-05-2006@@@
-
 DECRETO Nº 5.775, DE 10 DE MAIO DE 2006.
 
 Dispõe sobre o fracionamento de medicamentos, dá nova redação aos arts. 2º e 9º do Decreto nº 74.170, de 10 de junho de 1974, e dá outras providências.

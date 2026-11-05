@@ -1,5 +1,3 @@
-###DEC-090506-0-000-14-11-1984@@@
-
 decreto nº 90.506, de 14 de novembro de 1984
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica no Município de Mamanguape, Estado da Paraíba, determina intervenção administrativa, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004529-0-000-18-12-2002@@@
-
 DECRETO N. 4.529 – DE 18 DE DEZEMBRO DE 2002
 
 Dispõe sobre a arrecadação de receitas diretamente pelo Tesouro Nacional.

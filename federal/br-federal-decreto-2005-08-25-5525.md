@@ -1,5 +1,3 @@
-###DEC-005525-0-000-25-08-2005@@@
-
 DECRETO Nº 5.525, DE 25 DE AGOSTO DE 2005.
 
       Dá nova redação ao art. 4º do Decreto nº 4.376, de 13 de setembro de 2002, que dispõe sobre a organização e o funcionamento do Sistema Brasileiro de Inteligência.
@@ -29,5 +27,3 @@ XIV - Controladoria-Geral da União, por meio da Sub-Controladoria.
 LUIZ INÁCIO LULA DA SILVA
 
         Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 26.8.2005

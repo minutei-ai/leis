@@ -1,5 +1,3 @@
-###DEC-068662-0-000-24-05-1971@@@
-
 decreto nº 68.662 - de 24 de maio de 1971.
 
 Concede à Cerâmica Togni S.A. o direito de lavrar argila refratária, no município de Vargem Grande do Sul, Estado de São Paulo.

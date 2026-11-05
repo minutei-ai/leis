@@ -1,7 +1,3 @@
-1
-
-###DEC-098654-0-000-20-12-1989@@@
-
 DECRETO Nº 98.654, DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão à TV 2.000 Ltda., para explorar Serviço Especial de Televisão por Assinatura  TVA, nos municípios de Vitória, Serra, Cariacica, Vila Velha e Viana, Estado do Espírito Santo.

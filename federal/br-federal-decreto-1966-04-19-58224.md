@@ -1,5 +1,3 @@
-###DEC-058224-0-000-19-04-1966@@@
-
 decreto nº 58.224, de 19 de abril de 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 46.225, de 16 de junho de 1959, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açúde público “Major Izidoro”, no município de Santana do Ipanema, Estado de Alagoas.

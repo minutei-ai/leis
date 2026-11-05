@@ -1,5 +1,3 @@
-###DEL-004860-0-000-22-10-1942@@@
-
 DECRETO-LEI N. 4.860 – DE 22 DE OUTUBRO DE 1942
 
 Proibe a concessão da gratificações adicionais por tempo de serviço

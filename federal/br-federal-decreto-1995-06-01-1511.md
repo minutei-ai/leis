@@ -1,7 +1,3 @@
-1
-
-###DEC-001511-0-000-01-06-1995@@@
-
 DECRETO Nº 1.511, DE 1º DE JUNHO DE 1995
 
 Dispõe sobre a transformação do cargo em comissão que menciona.

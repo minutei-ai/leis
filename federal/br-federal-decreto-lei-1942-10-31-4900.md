@@ -1,5 +1,3 @@
-###DEL-004900-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.900 – DE 31 DE OUTUBR0 DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de 132 :130$0 à verba que especifica

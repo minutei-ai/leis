@@ -1,5 +1,3 @@
-###DEC-066489-0-000-24-04-1970@@@
-
 DECRETO Nº 66.489, DE 24 DE ABRIL DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à construção de uma estação telefônica de microondas em Taubaté, no Estado de São Paulo.

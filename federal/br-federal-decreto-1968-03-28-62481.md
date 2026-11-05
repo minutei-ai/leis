@@ -1,5 +1,3 @@
-###DEC-062481-0-000-28-03-1968@@@
-
 DECRETO Nº 62.481, DE 28 DE MARÇO DE 1968.
 
 Declara de utilidade pública o “Asilo São Vicente de Paulo”, com sede em São José do Rio Prêto, Estado de São Paulo.

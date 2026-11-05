@@ -1,5 +1,3 @@
-###DEC-051562-0-000-11-10-1962@@@
-
 DECRETO Nº 51.562, DE 11 DE OUTUBRO DE 1962.
 
 Dispõe sôbre a constituição do Grupo de Trabalho referido no § 1º do artigo 2º, do Decreto nº 51.551, de 19 de setembro de 1962.

@@ -1,5 +1,3 @@
-###DEC-084614-0-000-07-04-1980@@@
-
 Decreto nº 84.614, de 07 de abril de 1980.
 
 Altera o artigo 6º do Decreto nº 77.455, de 19 de abril de 1976, que dispõe sobre a transferência de alunos de estabelecimento de ensino superior.

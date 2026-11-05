@@ -4,7 +4,8 @@ Autoriza a criação do Instituto de Previdência Complementar da Assembléia Le
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA ENTIDADE E SEUS FINS
 
 Art. 1º - Fica autorizada a criação do Instituto de Previdência Complementar da Assembléia Legislativa do Estado da Bahia ALBAPREV, entidade fechada de previdência complementar, sob a forma de sociedade civil sem fins lucrativos, vinculada ao Poder Legislativo, com autonomia administrativa e financeira, e sede e foro na Capital do Estado da Bahia.
@@ -13,14 +14,16 @@ Art. 2º - O Instituto reger-se-á pela presente Lei, pelo Regulamento relativo 
 
 Art. 3º - O prazo de duração do ALBAPREV é indeterminado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO OBJETO
 
 Art. 4º - O ALBAPREV tem por objeto a concessão e a manutenção da complementação dos benefícios previdenciários previstos no [artigo 15](https://www.legislabahia.ba.gov.br/documentos/lei-no-9426-de-27-de-janeiro-de-2005#LO_9_426_Art__15) , mediante contribuição de seus participantes e da Assembléia Legislativa do Estado da Bahia, como patrocinadora.
 
 Parágrafo único - O plano de benefícios a ser instituído pelo ALBAPREV atenderá o disposto nesta Lei, observando os padrões mínimos fixados pelos órgãos reguladores e fiscalizadores do regime de previdência complementar.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS MEMBROS DO ALBAPREV
 
 Art. 5º - São membros do ALBAPREV:
@@ -31,7 +34,8 @@ II - os dependentes, na forma do [artigo 13](https://www.legislabahia.ba.gov.br/
 
 III - a patrocinadora.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DOS PARTICIPANTES
 
 Art. 6º - São participantes do ALBAPREV:
@@ -56,7 +60,8 @@ Art. 11 - Ao participante que não mais exerça mandato de Deputado Estadual, qu
 
 Art. 12 - Participa também do ALBAPREV, na condição de isento, o contribuinte que não mais exerça o mandato de Deputado Estadual e que tenha contribuído para o Instituto por, no mínimo, 5 (cinco) anos.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DOS DEPENDENTES
 
 Art. 13 - Para fins desta Lei, são dependentes do participante:
@@ -69,7 +74,8 @@ III - os filhos solteiros inválidos de qualquer idade.
 
 Art. 14 - Somente terá direito ao benefício o dependente previamente inscrito no ALBAPREV.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS BENEFÍCIOS
 
 Art. 15 - São assegurados os seguintes benefícios aos participantes e dependentes do Instituto:
@@ -84,7 +90,8 @@ c) complementação de aposentadoria compulsória;
 
 II - Aos dependentes é assegurada complementação de pensão por morte.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 COMPLEMENTAÇÃO DE APOSENTADORIA
 
 Art. 16 Conceder-se-á complementação de aposentadoria ao participante do ALBAPREV pelo exercício de mandato eletivo estadual e desde que comprove tempo de contribuição ou de serviço reconhecido pelos sistemas de previdência social do servidor público, civil ou militar, e da atividade privada, rural ou urbana, na forma do regulamento do plano.
@@ -95,7 +102,8 @@ Art. 16 Conceder-se-á complementação de aposentadoria ao participante do ALBA
 
 Art. 17 - Considera-se, para efeito do cálculo de complementação da aposentadoria e pensão concedidas na forma desta Lei, o valor do subsídio mensal do Deputado Estadual, deduzido o valor do teto estabelecido para os benefícios do Regime Geral de Previdência Social de que trata o art. 201 da Constituição Federal.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 COMPLEMENTAÇÃO DE APOSENTADORIA POR INVALIDEZ
 
 Art. 18 - Conceder-se-á complementação de aposentadoria por invalidez ao participante contribuinte do ALBAPREV que se invalidar, decorrente de acidente ou doença grave, contagiosa ou incurável, definida em lei, que impossibilite ao parlamentar o exercício do mandato, independentemente de idade ou tempo de vinculação no ALBAPREV, sendo paga durante o período em que lhe for garantida a aposentadoria por invalidez pelo Regime Geral de Previdência Social.
@@ -106,7 +114,8 @@ Art. 19 - A complementação da aposentadoria por invalidez se constituirá em u
 
 Art. 20 - O valor da complementação de aposentadoria por invalidez concedido será atualizado, na mesma proporção, sempre que ocorrer reajustamento do subsídio mensal do Deputado Estadual.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 COMPLEMENTAÇÃO DE PENSÃO POR MORTE
 
 Art. 21 - Conceder-se-á complementação de pensão por morte ao cônjuge ou companheiro (a) do participante contribuinte do ALBAPREV.
@@ -123,7 +132,8 @@ Art. 24 - Extinguindo-se a condição de dependente por emancipação, maioridad
 
 Art. 25 - O valor da complementação de pensão por morte concedido será atualizado, na mesma proporção, sempre que ocorrer reajustamento do subsídio mensal do Deputado Estadual.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS FONTES DE RECEITAS E SUAS APLICAÇÕES
 
 Art. 26 - São fontes de receitas para a cobertura do benefício de complementação de aposentadoria normal:
@@ -164,7 +174,8 @@ II - contribuição do dependente com 1,15% (um vírgula quinze por cento) sobre
 
 § 2º - A alíquota de contribuição prevista neste artigo será anualmente revista, mediante avaliação atuarial.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA APLICAÇÃO DOS RECURSOS
 
 Art. 29 - As reservas e disponibilidades do ALBAPREV serão aplicadas tendo em vista o interesse social, a segurança, a manutenção do valor real do patrimônio e a obtenção de rentabilidade satisfatória, para cumprimento das finalidades de sua criação.
@@ -173,7 +184,8 @@ Art. 30 - Os recursos disponíveis pelo ALBAPREV serão aplicados em inversões 
 
 Parágrafo único - É vedado ao ALBAPREV realizar empréstimos a seus participantes.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DO PATRIMÔNIO
 
 Art. 31 - Constituem patrimônio do ALBAPREV:
@@ -184,10 +196,12 @@ II - a doação, o legado e os bens provenientes de pessoas físicas ou jurídic
 
 Art. 32 - O patrimônio do ALBAPREV é autônomo e, portanto, desvinculado de quaisquer obrigações assumidas pela Assembléia Legislativa do Estado da Bahia.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DA ADMINISTRAÇÃO E FISCALIZAÇÃO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DA ESTRUTURA DO ALBAPREV
 
 Art. 33 - São órgãos do ALBAPREV:
@@ -204,7 +218,8 @@ Art. 34 - Os ocupantes dos cargos do Conselho Deliberativo e do Conselho Fiscal 
 
 Art. 35 - A Assembléia Geral e as reuniões dos Conselho Deliberativo e Fiscal serão realizadas na sede do ALBAPREV.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA ASSEMBLÉIA GERAL
 
 Art. 36 - A Assembléia Geral do ALBAPREV, composta pelos seus contribuintes, reunir-se-á ordinariamente no primeiro trimestre de cada ano, por convocação, mediante edital publicado no Diário do Legislativo com antecedência mínima de sete dias, para:
@@ -219,7 +234,8 @@ Parágrafo único - Presidirá a reunião da Assembléia Geral um dos participan
 
 Art. 37 - A Assembléia Geral poderá ser convocada, extraordinariamente, por iniciativa do Conselho Deliberativo, do Conselho Fiscal ou de um terço dos contribuintes.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO CONSELHO DELIBERATIVO
 
 Art. 38 - O Conselho Deliberativo será composto de cinco membros participantes do ALBAPREV, dos quais 3 (três), no mínimo, serão Deputados Estaduais em exercício de mandato, eleitos em reunião da Assembléia Geral convocada especificamente para este fim, para um mandato de 2 (dois) anos, permitida a reeleição, por uma única vez, no período imediatamente subseqüente.
@@ -266,7 +282,8 @@ X - suspender o pagamento de benefício, na ocorrência de razão de ordem legal
 
 Parágrafo único - O Conselho Deliberativo reunir-se-á e decidirá por maioria de seus membros.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DO PRESIDENTE DO CONSELHO DELIBERATIVO
 
 Art. 42 - Compete ao Presidente do Conselho Deliberativo do ALBAPREV:
@@ -285,7 +302,8 @@ VI - determinar o exame e a instrução de processos de admissão de contribuint
 
 VII - decidir sobre a admissão de participantes e concessão de benefícios, após instrução do processo pela Diretoria Administrativa e Financeira.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DA DIRETORIA ADMINISTRATIVA E FINANCEIRA
 
 Art. 43 - Compete ao Diretor Administrativo e Financeiro:
@@ -306,7 +324,8 @@ VII - instruir os processos de admissão de contribuintes e os de concessão de 
 
 VIII - determinar a escrituração e o registro dos atos e dos fatos do Instituto.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 DO CONSELHO FISCAL
 
 Art. 44 - O Conselho Fiscal do ALBAPREV é composto de 3 (três) participantes, dos quais 2 (dois) serão Deputados Estaduais em exercício de mandato, eleitos em Assembléia Geral para um mandato de dois anos, permitida uma reeleição.
@@ -327,7 +346,8 @@ Art. 47 - Os membros do Conselho Fiscal poderão assistir às reuniões do Conse
 
 Art. 48 - A responsabilidade dos membros do Conselho Fiscal por descumprimento de dever é solidária, mas dela se exime o membro dissidente que fizer consignar sua divergência, devidamente justificada, em ata da reunião do órgão.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 49 - A estrutura administrativa do ALBAPREV e as normas de seu funcionamento adequar-se-ão às disposições constitucionais relativas ao órgão regulador, mediante proposta da Diretoria Administrativa e Financeira do Instituto, aprovada pelo Conselho Deliberativo e submetida à Assembléia Geral.
@@ -358,4 +378,4 @@ Walter Cairo de Oliveira Filho
 
 Secretário da Fazenda, em exercício
 
-* * *
+ *

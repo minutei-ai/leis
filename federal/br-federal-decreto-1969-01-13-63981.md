@@ -1,5 +1,3 @@
-###DEC-063981-0-000-13-01-1969@@@
-
 decreto nº 63.981, de 13 de janeiro de 1969.
 
 Transfere o Sistema Rádio-Educativo Nacional (SIRENA) para fundação Movimento Brasileiro de Alfabetização (MOBRAL).

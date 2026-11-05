@@ -1,5 +1,3 @@
-###DEC-006880-0-000-18-06-2009@@@
-
 DECRETO Nº 6.880, DE 18 DE JUNHO DE 2009.
 
 Dispõe sobre a execução da Decisão CMC No 23/04 “Procedimento para Atender Casos Excepcionais de Urgência - Art. 24 do Protocolo de Olivos para a Solução de Controvérsias no Mercosul”, aprovada pelo Conselho do Mercado Comum, em 7 de julho de 2004.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=186348)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16720-15.05.2018.html)
 
 # LEI Nº 16.720, DE 15 DE MAIO DE 2018
@@ -11,66 +10,117 @@
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
 
-~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1º -** Ficam classificados como de Interesse Turístico os seguintes Municípios:<br>
-**I -** Apiaí;<br>
-**II -** Barbosa;<br>
-**III -** Bofete;<br>
-**IV -** Boituva;<br>
-**V -** Cachoeira Paulista;<br>
-**VI -** Cesário Lange;<br>
-**VII -** Cubatão;<br>
-**VIII -** Estiva Gerbi;<br>
-**IX -** Fernandópolis;<br>
-**X -** Igaratá;<br>
-**XI -** Iporanga;<br>
-**XII -** Itaoca;<br>
-**XIII -** Itapira;<br>
-**XIV -** Itápolis;<br>
-**XV -** Itapura;<br>
-**XVI -** Itararé;<br>
-**XVII -** Itatiba;<br>
-**XVIII -** Ituverava;<br>
-**XIX -** Jacareí;<br>
-**XX -** Jacupiranga;<br>
-**XXI -** Jales;<br>
-**XXII -** Laranjal Paulista;<br>
-**XXIII -** Mendonça;<br>
-**XXIV -** Miguelópolis;<br>
-**XXV -** Mineiros do Tietê;<br>
-**XXVI -** Miracatu;<br>
-**XXVII -** Monteiro Lobato;<br>
-**XXVIII -** Orlândia;<br>
-**XXIX -** Ouroeste;<br>
-**XXX -** Panorama;~~<br>
+~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1º -** Ficam classificados como de Interesse Turístico os seguintes Municípios:
+
+**I -** Apiaí;
+
+**II -** Barbosa;
+
+**III -** Bofete;
+
+**IV -** Boituva;
+
+**V -** Cachoeira Paulista;
+
+**VI -** Cesário Lange;
+
+**VII -** Cubatão;
+
+**VIII -** Estiva Gerbi;
+
+**IX -** Fernandópolis;
+
+**X -** Igaratá;
+
+**XI -** Iporanga;
+
+**XII -** Itaoca;
+
+**XIII -** Itapira;
+
+**XIV -** Itápolis;
+
+**XV -** Itapura;
+
+**XVI -** Itararé;
+
+**XVII -** Itatiba;
+
+**XVIII -** Ituverava;
+
+**XIX -** Jacareí;
+
+**XX -** Jacupiranga;
+
+**XXI -** Jales;
+
+**XXII -** Laranjal Paulista;
+
+**XXIII -** Mendonça;
+
+**XXIV -** Miguelópolis;
+
+**XXV -** Mineiros do Tietê;
+
+**XXVI -** Miracatu;
+
+**XXVII -** Monteiro Lobato;
+
+**XXVIII -** Orlândia;
+
+**XXIX -** Ouroeste;
+
+**XXX -** Panorama;~~
+
 ~~**XXXI -** Paraibuna;~~
 
 ~~**XXXII -** Pardinho;~~
 
-~~**XXXIII -** Patrocínio Paulista;<br>
-**XXXIV -** Paulo de Faria;<br>
-**XXXV -** Pedrinhas Paulista;<br>
-**XXXVI -** Piracaia;<br>
-**XXXVII -** Piratininga;<br>
-**XXXVIII -** Queluz<br>
-**XXXIX -** Ribeirão Grande;<br>
-**XL -** São José do Rio Pardo;<br>
-**XLI -** São Miguel Arcanjo;<br>
-**XLII -** Sertãozinho;<br>
-**XLIII -** Sete Barras;<br>
-**XLIV -** Sud Menucci;<br>
-**XLV -** Torrinha;<br>
-**XLVI -** Ubarana.<br>
-**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 15 de maio de 2018.<br>
-MÁRCIO FRANÇA<br>
-José Roberto Aprillanti Junior<br>
-Secretário de Turismo<br>
-Claudio Valverde Santos<br>
-Secretário-Chefe da Casa Civil<br>
-Publicada na Assessoria Técnica da Casa Civil, em 15 de maio de 2018.~~
+~~**XXXIII -** Patrocínio Paulista;
 
-<br>
+**XXXIV -** Paulo de Faria;
+
+**XXXV -** Pedrinhas Paulista;
+
+**XXXVI -** Piracaia;
+
+**XXXVII -** Piratininga;
+
+**XXXVIII -** Queluz
+
+**XXXIX -** Ribeirão Grande;
+
+**XL -** São José do Rio Pardo;
+
+**XLI -** São Miguel Arcanjo;
+
+**XLII -** Sertãozinho;
+
+**XLIII -** Sete Barras;
+
+**XLIV -** Sud Menucci;
+
+**XLV -** Torrinha;
+
+**XLVI -** Ubarana.
+
+**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 15 de maio de 2018.
+
+MÁRCIO FRANÇA
+
+José Roberto Aprillanti Junior
+
+Secretário de Turismo
+
+Claudio Valverde Santos
+
+Secretário-Chefe da Casa Civil
+
+Publicada na Assessoria Técnica da Casa Civil, em 15 de maio de 2018.~~
 
 Revogada.
 

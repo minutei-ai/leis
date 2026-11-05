@@ -1,5 +1,3 @@
-###DEC-055673-0-000-01-02-1965@@@
-
 DECRETO Nº 55.673, DE 1 DE FEVEREIRO DE 1965.
 
 Retifica relação que acompanhou o Decreto nº 51.523, de 25 de junho de 1962, que aprovou o enquadramento dos cargos e funções da Rêde Mineira de Viação.

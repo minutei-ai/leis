@@ -1,5 +1,3 @@
-###DEL-003877-0-000-04-12-1941@@@
-
 DECRETO-LEI N. 3.877 – DE 4 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 50:000$0, para despesas do Primeiro Congresso de Brasilidade

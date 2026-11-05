@@ -1,5 +1,3 @@
-###DEC-094889-0-000-17-09-1987@@@
-
 DECRETO Nº 94.889, DE 17 DE SETEMBRO DE 1987
 
 Transforma a Assessoria para Assuntos Internacionais da Secretaria de Planejamento e Coordenação da Presidência da República - SEPLAN/PR em Secretaria de Assuntos Internacionais, e dá outras providências.

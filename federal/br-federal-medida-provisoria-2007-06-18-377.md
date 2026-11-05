@@ -1,5 +1,3 @@
-###MPV-000377-0-000-18-06-2007@@@
-
 MEDIDA PROVISÓRIA Nº 377, DE 18 DE JUNHO DE 2007.
 
 Acresce e altera dispositivos da Lei no 10.683, de 28 de maio de 2003, acresce dispositivos à Lei no 11.356, de 19 de outubro de 2006, cria a Secretaria de Planejamento de Longo Prazo da Presidência da República, cria cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas, e dá outras providências.
@@ -131,5 +129,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 19.5.2007

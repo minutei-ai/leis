@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/197421)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2021/compilacao-lei-17334-09.03.2021.html)
 
 # LEI N° 17.334, DE 09 DE MARÇO DE 2021

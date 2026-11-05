@@ -1,5 +1,3 @@
-###DEC-078603-0-000-21-10-1976@@@
-
 DECRETO Nº 78.603, DE 21 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras Alta Sorocabana, com sede na cidade de Presidente Prudente, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-000104-0-000-24-12-1937@@@
-
 DECRETO-LEI N. 104 – DE 24 DE DEZEMBRO DE 1937
 
 Suspende a cobrança à boca do cofre dos prêmios e taxas postais e telegráficas pelas correspondências e telegramas oficiais federais, até que seja regulamentado o dispositivo legal.

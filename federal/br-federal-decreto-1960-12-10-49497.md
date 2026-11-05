@@ -1,5 +1,3 @@
-###DEC-049497-0-000-10-12-1960@@@
-
 Decreto nº 49.497, de 10 de dezembro de 1960.
 
 Altera o art. 1º do Decreto número 48.918, de 6 de setembro de 1960.

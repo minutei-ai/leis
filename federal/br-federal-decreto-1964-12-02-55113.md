@@ -1,5 +1,3 @@
-###DEC-055113-0-000-02-12-1964@@@
-
 DECRETO Nº 55.113, DE 2 DE DEZEMBRO DE 1964.
 
 Concede à Aliança do Amapá Indústria e Comércio autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-007646-0-000-21-12-2011-PUB-01@@@
-
 DECRETO Nº 7.646, DE 21 DE DEZEMBRO DE 2011
 
 Dispõe sobre a Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde e sobre o processo administrativo para incorporação, exclusão e alteração de tecnologias em saúde pelo Sistema Único de Saúde - SUS, e dá outras providências.

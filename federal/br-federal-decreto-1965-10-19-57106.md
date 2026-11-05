@@ -1,5 +1,3 @@
-###DEC-057106-0-000-19-10-1965@@@
-
 DECRETO Nº 57.106, DE 19 DE OUTUBRO DE 1965.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 46.441, de 16 de julho de 1959, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Várzea do Boi”, no município de Tauá, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-090879-0-000-30-01-1985@@@
-
 Decreto nº 90.879, de 30 de janeiro de 1985
 
 Outorga concessão á RÁDIO E TELEVISÃO LIMEIRA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Nova Odessa, Estado de São Paulo.

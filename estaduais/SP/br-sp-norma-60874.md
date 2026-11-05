@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=60874)
-
 # LEI Nº 12.256, DE 09 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 314, de 2003, da Deputada Ana Martins - PC do B)

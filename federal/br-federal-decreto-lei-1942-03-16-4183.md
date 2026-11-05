@@ -1,5 +1,3 @@
-###DEL-004183-0-000-16-03-1942@@@
-
 DECRETO-LEI N. 4.183 – DE 16 DE MARÇO DE 1942
 
 Autoriza a emissão de papel-moeda até 200.000:000$0

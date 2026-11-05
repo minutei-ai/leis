@@ -1,5 +1,3 @@
-###DEL-004332-0-000-23-05-1942@@@
-
 DECRETO-LEI N. 4.332 – DE 23 DE MAIO DE 1942
 
 Modifica o art. 17 do decreto-lei n 4.255, de 15 de abril de 1942

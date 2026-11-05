@@ -1,5 +1,3 @@
-###MPV-002049-0-022-28-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.049-22, DE 28 DE agosto DE 2000.
 
 Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

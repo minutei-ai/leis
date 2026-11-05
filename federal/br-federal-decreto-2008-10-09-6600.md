@@ -1,5 +1,3 @@
-###DEC-006600-0-000-09-10-2008@@@
-
 DECRETO Nº 6.600, DE 9 DE OUTUBRO DE 2008.
 
 Cria a Medalha “20 anos da Constituição Cidadã”.

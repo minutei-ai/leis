@@ -1,5 +1,3 @@
-###DEC-075941-0-000-04-07-1975@@@
-
 DECRETO Nº 75.941 - DE 4 DE JULHO DE 1975.
 
 Extingue o 4º Esquadrão de Remonta e dá outras providências.

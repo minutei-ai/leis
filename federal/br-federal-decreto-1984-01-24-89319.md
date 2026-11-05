@@ -1,5 +1,3 @@
-###DEC-089319-0-000-24-01-1984@@@
-
 Decreto nº 89.319, de 24 de janeiro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

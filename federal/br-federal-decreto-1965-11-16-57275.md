@@ -1,5 +1,3 @@
-###DEC-057275-0-000-16-11-1965@@@
-
 DECRETO Nº 57.275, DE 16 DE NOVEMBRO DE 1965.
 
 Dispõe sôbre medalha comemorativa do centenário do nascimento de Olavo Bilac.

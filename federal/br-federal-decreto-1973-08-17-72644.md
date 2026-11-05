@@ -1,5 +1,3 @@
-###DEC-072644-0-000-17-08-1973@@@
-
 DECRETO Nº 72.644, DE 17 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica, no curso de Estudos Sociais da Faculdade de Filosofia, Ciências, e Letras, mantidas pelo Instituto de Ensino Superior de Cruzeiro, Estado de São Paulo.

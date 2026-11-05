@@ -1,7 +1,3 @@
-1
-
-###DEC-097798-0-000-01-06-1989@@@
-
 DECRETO N° 97.798, DE 1° DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA VALE FORMOSO”, classificado como “latifúndio por exploração”, situado no Mu­nicípio de Xinguara, Estado do Pará compreendido na zona prioritária fixada pelo Decreto n° 92.623, de 02 de maio de 1986, e dá outras providências.

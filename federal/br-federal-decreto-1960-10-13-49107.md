@@ -1,5 +1,3 @@
-###DEC-049107-0-000-13-10-1960@@@
-
 Decreto nº 49.107, de 13 de outubro de 1960.
 
 Modifica a redação do Decreto número 43.190, de 12 de fevereiro de 1958.

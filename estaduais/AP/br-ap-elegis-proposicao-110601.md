@@ -66,4 +66,14 @@ II – o fomento à logística reversa têxtil adaptada as limitações geográf
 
 Macapá, 21 de setembro de 2026.
 
-<table class="MsoNormalTable" style="border-collapse: collapse; mso-table-layout-alt: fixed; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="0" width="611" cellspacing="0" cellpadding="0"><tbody><tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 19.3pt;"><td style="width: 458.15pt; border: dashed white 1.0pt; padding: 5.0pt 5.0pt 5.0pt 5.0pt; height: 19.3pt;" valign="top" width="611"><p class="MsoNormal" style="margin-left: .1pt; mso-para-margin-left: 0gd; text-indent: -.1pt; line-height: 115%;"><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial',sans-serif;">&nbsp;</span></p><p class="MsoNormal" style="margin-left: .1pt; mso-para-margin-left: 0gd; text-align: center; text-indent: -.1pt; line-height: 115%;" align="center"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Calibri; color: black;">CLÉCIO LUÍS VILHENA VIEIRA</span></strong></p><p class="MsoNormal" style="margin-left: .1pt; mso-para-margin-left: 0gd; text-align: center; text-indent: -.1pt; line-height: 115%;" align="center"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Calibri; color: black;">Governador</span></strong></p><p class="MsoNormal" style="margin-left: .1pt; mso-para-margin-left: 0gd; text-align: center; text-indent: -.1pt; line-height: 115%;" align="center"><strong><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial',sans-serif;">&nbsp;</span></strong></p></td></tr></tbody></table>
+<table class="MsoNormalTable" style="border-collapse: collapse; mso-table-layout-alt: fixed; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="0" width="611" cellspacing="0" cellpadding="0"><tbody><tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes; height: 19.3pt;"><td style="width: 458.15pt; border: dashed white 1.0pt; padding: 5.0pt 5.0pt 5.0pt 5.0pt; height: 19.3pt;" valign="top" width="611">
+
+&nbsp;
+
+**CLÉCIO LUÍS VILHENA VIEIRA**
+
+**Governador**
+
+**&nbsp;**
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-049273-0-000-17-11-1960@@@
-
 DECRETO Nº 49.273, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza Pexbex Minérios S.A. a pesquisar caulim, mica e feldspato no município de Matias Barbosa, Estado de Minas Gerais.

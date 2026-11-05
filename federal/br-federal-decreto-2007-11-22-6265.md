@@ -1,5 +1,3 @@
-###DEC-006265-0-000-22-11-2007@@@
-
 DECRETO Nº 6.265, DE 22 DE NOVEMBRO DE 2007.
 
 Altera e acresce dispositivos ao Decreto no 4.550, de 27 de dezembro de 2002, que regulamenta a comercialização de energia elétrica gerada pela Eletrobrás Termonuclear S/A - ELETRONUCLEAR, por ITAIPU Binacional.
@@ -126,11 +124,7 @@ LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
 
-Nelson José Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 23.11.2007
-
-REPUBLICAÇÃO
+Nelson José Hubner MoreiraREPUBLICAÇÃO
 
 DECRETO No- 6.265, DE 22 DE NOVEMBRO DE 2007(\*)
 

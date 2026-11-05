@@ -1,5 +1,3 @@
-###DEC-068245-0-000-16-02-1971@@@
-
 DECRETO Nº 68.245, DE 16 DE FEVEREIRO DE 1971.
 
 Declara caduco o Decreto nº 44.812, de 7 de novembro de 1958.

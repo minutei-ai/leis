@@ -1,5 +1,3 @@
-###DEC-059206-0-000-13-09-1966@@@
-
 decreto nº 59.206, de 13 de setembro de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Paranaense de Seguros Gerais, relativa ao aumento do capital social.

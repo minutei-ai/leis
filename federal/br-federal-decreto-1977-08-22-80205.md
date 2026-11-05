@@ -1,5 +1,3 @@
-###DEC-080205-0-000-22-08-1977@@@
-
 DECRETO Nº 80.205, DE 22 DE AGOSTO DE 1977.
 
 Concede à Cia. Materiais Sulfurosos - MATSULFUR o direito de lavrar calcário e argila no Município de Montes Claros, Estado de Minas Gerais.

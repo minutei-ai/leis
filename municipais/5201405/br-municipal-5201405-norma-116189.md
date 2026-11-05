@@ -28,5 +28,6 @@ Art. 6º - Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito de Aparecida de Goiânia – GO, aos 13 de março de 2020.
 
-VETER MARTINS<br>
+VETER MARTINS
+
 Prefeito Municipal em Exercício

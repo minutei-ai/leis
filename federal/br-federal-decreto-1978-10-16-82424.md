@@ -1,5 +1,3 @@
-###DEC-082424-0-000-16-10-1978@@@
-
 Decreto nº 82.424, de 16 de outubro de 1978.
 
 Concede à SOBEMILA - Sociedade Beneficiadora de Minérios Ltda. o direito de lavrar areia industrial no Município de São Gonçalo do Rio Abaixo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-045542-0-000-05-03-1959@@@
-
 DECRETO Nº 45.542, DE 5 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro Couite Uemari a lavrar talcoxisto no município de Franco da Rocha, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-002340-0-000-07-10-1997@@@
-
 DECRETO Nº 2.340, DE 7 DE OUTUBRO DE 1997
 
 Dispõe sobre o remanejamento temporário do cargo em comissão que menciona.

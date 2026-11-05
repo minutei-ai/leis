@@ -1,5 +1,3 @@
-###DEC-005030-0-000-31-03-2004@@@
-
 DECRETO Nº 5.030,  DE 31 DE MARÇO DE 2004
 
 Institui o Grupo de Trabalho Interministerial para elaborar proposta de medida legislativa e outros instrumentos para coibir a violência doméstica contra a mulher, e dá outras providências.

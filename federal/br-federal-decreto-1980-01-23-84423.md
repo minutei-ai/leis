@@ -1,5 +1,3 @@
-###DEC-084423-0-000-23-01-1980@@@
-
 DECRETO Nº 84.423, DE 23 DE JANEIRO DE 1980
 
 Estabelece área de proteção para fonte de água mineral.

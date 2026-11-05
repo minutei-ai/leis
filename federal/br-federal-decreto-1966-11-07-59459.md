@@ -1,5 +1,3 @@
-###DEC-059459-0-000-07-11-1966@@@
-
 DECRETO Nº 59.459, DE 7 DE NOVEMBRO DE 1966.
 
 Aprova o Regulamento para o “Serviço de Seleção do Pessoal da Marinha”.

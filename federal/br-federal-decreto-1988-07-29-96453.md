@@ -1,5 +1,3 @@
-###DEC-096453-0-000-29-07-1988@@@
-
 DECRETO N° 96.453, de 29 DE JULHO DE 1988
 
 Altera os arts. 8º e 9º do Estatuto da Caixa Econômica Federal, aprovado pelo Decreto nº 95.572, de 22 de dezembro de 1987.

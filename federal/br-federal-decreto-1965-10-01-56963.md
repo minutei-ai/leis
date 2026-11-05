@@ -1,5 +1,3 @@
-###DEC-056963-0-000-01-10-1965@@@
-
 DECRETO Nº 56.963, DE 1º DE OUTUBRO de 1965.
 
 Concede à sociedade Navegação Aliança Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

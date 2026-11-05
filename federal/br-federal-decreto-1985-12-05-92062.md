@@ -1,5 +1,3 @@
-###DEC-092062-0-000-05-12-1985@@@
-
 Decreto nº 92.062, de 05 de dezembro de 1985
 
 Dispõe sobre a Comissão Nacional do V Centenário do Descobrimento da América.

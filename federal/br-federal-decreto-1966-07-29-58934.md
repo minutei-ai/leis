@@ -1,5 +1,3 @@
-###DEC-058934-0-000-29-07-1966@@@
-
 decreto Nº 58.934, DE 29 DE JULHO DE 1966.
 
 Concede à Christóvão Neumann & Filhos Ltda., autorização para funcionar como emprêsa de mineração.

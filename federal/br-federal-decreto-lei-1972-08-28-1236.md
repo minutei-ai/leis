@@ -1,5 +1,3 @@
-###DEL-001236-0-000-28-08-1972@@@
-
 # DECRETO-LEI Nº 1.236, DE 28 DE AGOSTO DE 1972
 
 Altera o artigo 17 do Decreto-lei número 37, de 18 de novembro de 1966:

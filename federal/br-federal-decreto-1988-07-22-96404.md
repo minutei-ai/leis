@@ -1,5 +1,3 @@
-###DEC-096404-0-000-22-07-1988@@@
-
 DECRETO N° 96.404, DE 22 DE JULHO DE 1988
 
 Outorga concessão à RÁDIO DIFUSORA ARCO IRIS DE ARAPUTANGA LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Araputanga, Estado do Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-007604-0-000-10-11-2011-PUB-01@@@
-
 DECRETO Nº 7.604, DE 10 DE NOVEMBRO DE 2011
 
 Altera o Decreto nº 7.567, de 15 de setembro de 2011, que regulamenta os arts. 5º e 6º da Medida Provisória nº 540, de 2 de agosto de 2011, e dá outras providências.

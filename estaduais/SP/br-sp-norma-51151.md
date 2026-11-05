@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51151)
-
 # LEI Nº 11.745, DE 16 DE JUNHO DE 2004
 
 ## ( PL 1011/2003 - José Carlos Stangarlini)

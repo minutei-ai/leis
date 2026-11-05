@@ -1,5 +1,3 @@
-###DEC-045722-0-000-06-04-1959@@@
-
 DECRETO Nº 45.722, DE 6 DE ABRIL DE 1959.
 
 Autoriza a S. A. de Cimento, Mineração e Cabotagem “Cimimar” a lavrar baritina no município de Rio Branco do Sul, Estado do Paraná.

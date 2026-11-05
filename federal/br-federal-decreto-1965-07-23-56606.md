@@ -1,5 +1,3 @@
-###DEC-056606-0-000-23-07-1965@@@
-
 decreto nº 56.606, de 23 de julho de 1965.
 
 Declara de utilidade pública, para fins de desapropriação, em favor e por conta da Universidade Federal do Estado do Rio de Janeiro, imóveis situados em Niterói, Capital do Estado do Rio de Janeiro.

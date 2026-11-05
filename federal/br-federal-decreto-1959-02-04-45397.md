@@ -1,5 +1,3 @@
-###DEC-045397-0-000-04-02-1959@@@
-
 DECRETO Nº 45.397, DE 4 DE FEVEREIRO DE 1959.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista, do Departamento Administrativo do Serviço Público, na forma que menciona.

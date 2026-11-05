@@ -1,5 +1,3 @@
-###MPV-001773-0-032-14-12-1998@@@
-
 MEDIDA PROVISÓRIa Nº 1.773-32, DE 14 DE DEZEMBRO DE 1998.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

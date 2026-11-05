@@ -1,5 +1,3 @@
-###DEC-081899-0-000-10-07-1978@@@
-
 Decreto nº 81.899, de 10 de julho de 1978.
 
 Concede reconhecimento ao curso de Psicologia do Centro de Estudos Superiores de Juiz de Fora, com sede na cidade Juiz de Fora, Estado de Minas Gerais.

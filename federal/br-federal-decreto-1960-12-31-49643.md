@@ -1,5 +1,3 @@
-###DEC-049643-0-000-31-12-1960@@@
-
 DECRETO Nº 49.643, DE 31 DE dezembro DE 1960.
 
 Retifica o contrato de concessão do Serviço de Loterias do estado do Piauí.

@@ -1,5 +1,3 @@
-###DEC-071892-0-000-12-03-1973@@@
-
 DECRETO Nº 71.892, DE 12 DE MARÇO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Filosofia de Santa Dorotéia, da Congregação de Santa Dorotéia do Brasil.

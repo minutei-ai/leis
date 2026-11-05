@@ -1,12 +1,15 @@
-LEI Nº 22.317, DE 18 DE OUTUBRO DE 2023<br>
+LEI Nº 22.317, DE 18 DE OUTUBRO DE 2023
+
 \- [Vide Decreto nº 10.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110965), de 16-6-2025 - Regulamento.
 
 Dispõe sobre o Plano Plurianual para o quadriênio 2024-2027.
 
-<br>
-\- [Vide Lei nº 23.255, de 28-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110441), art. 3º - Altera a "descrição do Programa 1007 – DEFESA DA SOCIEDADE"<br>
-\- [Vide Lei nº 22.938,de 21-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109396/lei-22938), art. 3º - Abre crédito especial à Secretaria-Geral de Governo – SGG e cria produto no Plano Plurianual para o quadriênio 2024- 2027.<br>
-\- [Vide Lei nº 22.936, de 21-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109395/lei-22936), art. 3º - Abre crédito especial à Secretaria-Geral de Governo – SGG e cria produto no Plano Plurianual para o quadriênio 2024-2027.<br>
+\- [Vide Lei nº 23.255, de 28-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110441), art. 3º - Altera a "descrição do Programa 1007 – DEFESA DA SOCIEDADE"
+
+\- [Vide Lei nº 22.938,de 21-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109396/lei-22938), art. 3º - Abre crédito especial à Secretaria-Geral de Governo – SGG e cria produto no Plano Plurianual para o quadriênio 2024- 2027.
+
+\- [Vide Lei nº 22.936, de 21-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109395/lei-22936), art. 3º - Abre crédito especial à Secretaria-Geral de Governo – SGG e cria produto no Plano Plurianual para o quadriênio 2024-2027.
+
 \- [Vide Decreto nº 10.412](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108469), de 23-2-2024 - Regulamenta Lei a estadual nº 22.317, de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual para o quadriênio 2024-2027.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
@@ -83,53 +86,66 @@ II – objetivo estratégico: consiste em desdobramento do eixo estratégico e �
 
 III – programa: instrumento de organização da atuação governamental que se caracteriza como um conjunto prioritariamente multissetorial e articulado de iniciativas agrupadas em torno de um dos objetivos estratégicos, que se destinam à resolução ou à mitigação de problema público;
 
-IV – iniciativa: conjunto de atividades e de projetos em um programa a serem realizados para o enfrentamento das causas de problema público, por meio da articulação, da integração e da sinergia com as demais intervenções previstas no programa, e que se concretizam como entregas mensuradas por indicadores;<br>
+IV – iniciativa: conjunto de atividades e de projetos em um programa a serem realizados para o enfrentamento das causas de problema público, por meio da articulação, da integração e da sinergia com as demais intervenções previstas no programa, e que se concretizam como entregas mensuradas por indicadores;
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~IV – iniciativa: conjunto de entregas de um órgão a serem realizadas para o enfrentamento das causas de problema público, por meio da articulação, da integração e da sinergia com as demais intervenções previstas no programa, e essas entregas são mensuradas por indicadores;~~
 
-V – produto: atributo infralegal que declara realizações do governo que contribuem para o alcance de objetivos específicos da iniciativa;<br>
+V – produto: atributo infralegal que declara realizações do governo que contribuem para o alcance de objetivos específicos da iniciativa;
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~V – produto: entrega à sociedade ou ao próprio Estado resultante de ação governamental, parte de uma iniciativa, cuja mensuração demanda a adoção de métricas físicas e financeiras;~~
 
-VI – serviço: atributo infralegal, resultado de uma iniciativa que, por sua natureza, não está associada a metas ou custos estimados, impossibilitada a mensuração individualizada;<br>
+VI – serviço: atributo infralegal, resultado de uma iniciativa que, por sua natureza, não está associada a metas ou custos estimados, impossibilitada a mensuração individualizada;
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~VI – serviço: resultado de uma iniciativa que, por sua natureza, será mensurado de forma simplificada, nos termos de regulamento;~~
 
-~~VII – ação: instrumento de programação, parte de uma iniciativa, que contribui para atender ao objetivo de um programa, e essa ação pode ser orçamentária ou não orçamentária;~~<br>
+~~VII – ação: instrumento de programação, parte de uma iniciativa, que contribui para atender ao objetivo de um programa, e essa ação pode ser orçamentária ou não orçamentária;~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, a.
 
-~~VIII – resultado: declara os efeitos de curto e de médio prazo dos programas;~~<br>
+~~VIII – resultado: declara os efeitos de curto e de médio prazo dos programas;~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, a.
 
-~~IX – meta física: valor quantificável de bens entregues ou de serviços prestados em prazo previsto; e~~<br>
+~~IX – meta física: valor quantificável de bens entregues ou de serviços prestados em prazo previsto; e~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, a.
 
-X – indicador: instrumento que mensura os benefícios concretos decorrentes dos produtos previstos para aferir o alcance dos resultados da implementação de programas e iniciativas;<br>
+X – indicador: instrumento que mensura os benefícios concretos decorrentes dos produtos previstos para aferir o alcance dos resultados da implementação de programas e iniciativas;
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~X – indicador: instrumento que mensura os benefícios concretos decorrentes das entregas dos bens e dos serviços previstos para aferir o atingimento dos resultados da implementação de programas e iniciativas.~~
 
-XI – produto de gestão de iniciativa: produto agregador de serviços; e<br>
+XI – produto de gestão de iniciativa: produto agregador de serviços; e
+
 \- [Acrescido pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
-XII – meta: valor esperado para os indicadores da iniciativa no período a que se refere.<br>
+XII – meta: valor esperado para os indicadores da iniciativa no período a que se refere.
+
 \- [Acrescido pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
-~~§ 1º A ação orçamentária é aquela que demanda a alocação direta de recursos orçamentários para a sua execução, e devem ser observadas as Leis de Diretrizes Orçamentárias, as Leis Orçamentárias Anuais – LOAs e as respectivas alterações.~~<br>
+~~§ 1º A ação orçamentária é aquela que demanda a alocação direta de recursos orçamentários para a sua execução, e devem ser observadas as Leis de Diretrizes Orçamentárias, as Leis Orçamentárias Anuais – LOAs e as respectivas alterações.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, b.
 
-~~§ 2º As ações não orçamentárias são aquelas que não demandam alocação direta de recursos orçamentários.~~<br>
+~~§ 2º As ações não orçamentárias são aquelas que não demandam alocação direta de recursos orçamentários.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, b.
 
-§ 3º O programa definido no inciso III do caput deste artigo abrange os recursos previstos para os projetos e as atividades finalísticas do orçamento anual, inclusive o orçamento de investimentos das empresas estatais não dependentes.<br>
+§ 3º O programa definido no inciso III do caput deste artigo abrange os recursos previstos para os projetos e as atividades finalísticas do orçamento anual, inclusive o orçamento de investimentos das empresas estatais não dependentes.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~§ 3º O programa definido no inciso III deste artigo abrange os recursos previstos para os projetos e as atividades finalísticas do orçamento anual, inclusive o orçamento de investimentos das empresas estatais não dependentes, e as ações não orçamentárias que contribuem para a realização dos objetivos de cada programa.~~
 
-~~§ 4º Cada iniciativa será atribuída apenas a um órgão ou uma entidade.~~<br>
+~~§ 4º Cada iniciativa será atribuída apenas a um órgão ou uma entidade.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, b.
 
 Art. 6º Não estão estruturadas no PPA 2024-2027 despesas previstas para:
@@ -140,10 +156,12 @@ II – pessoal e encargos sociais da administração estadual; e
 
 III – despesas obrigatórias que não contribuem para a produção corrente de serviços pelo Governo do Estado, como amortizações e serviços da dívida, indenizações, transferências à União, transferências aos municípios e custas e precatórios judiciais.
 
-~~§ 1º As despesas previstas neste artigo constarão das LOAs e das suas alterações.~~<br>
+~~§ 1º As despesas previstas neste artigo constarão das LOAs e das suas alterações.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, c.
 
-~~§ 2º As despesas previstas neste artigo foram consideradas no cenário-base para a definição dos valores financeiros de referência dos programas e as metas físicas das iniciativas, conforme está indicado no Anexo Único.~~<br>
+~~§ 2º As despesas previstas neste artigo foram consideradas no cenário-base para a definição dos valores financeiros de referência dos programas e as metas físicas das iniciativas, conforme está indicado no Anexo Único.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, c.
 
 Art. 7º Os programas integrantes do PPA 2024-2027 estão detalhados no Anexo Único desta Lei.
@@ -154,31 +172,38 @@ DA INTEGRAÇÃO COM OS DEMAIS INSTRUMENTOS DE PLANEJAMENTO: LEI DE DIRETRIZES OR
 
 Art. 8º Os programas constantes do PPA 2024-2027 estarão expressos nas LOAs e naquelas que as modificarem.
 
-~~§ 1º As ações orçamentárias de todos os programas serão discriminadas e detalhadas nas LOAs e nos créditos especiais, com a especificação de unidades orçamentárias, funções, subfunções, modalidade de aplicação, grupos de despesas e fontes de recursos.~~<br>
+~~§ 1º As ações orçamentárias de todos os programas serão discriminadas e detalhadas nas LOAs e nos créditos especiais, com a especificação de unidades orçamentárias, funções, subfunções, modalidade de aplicação, grupos de despesas e fontes de recursos.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, d.
 
-~~§ 2º Cada ação orçamentária provocará a entrega de único produto.~~<br>
+~~§ 2º Cada ação orçamentária provocará a entrega de único produto.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, d.
 
 § 3º Os orçamentos anuais, de forma articulada com o PPA 2024-2027, serão orientados para o alcance dos resultados constantes deste plano.
 
-~~§ 4º Não deverão ser incluídas ações nas LOAs e nos seus créditos adicionais que não contribuam para a resolução ou a mitigação de problemas públicos de que tratam os programas do PPA 2024-2027.~~<br>
+~~§ 4º Não deverão ser incluídas ações nas LOAs e nos seus créditos adicionais que não contribuam para a resolução ou a mitigação de problemas públicos de que tratam os programas do PPA 2024-2027.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, d.
 
-~~§ 5º A inclusão de novos programas no PPA 2024-2027 será feita por Lei.~~<br>
+~~§ 5º A inclusão de novos programas no PPA 2024-2027 será feita por Lei.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, d.
 
-Art. 9º Os valores consignados no PPA 2024-2027 abrangem as despesas de capital e outras decorrentes delas, bem como as relativas aos programas de duração continuada, compreendidas no conjunto das metas prioritárias de governo.<br>
+Art. 9º Os valores consignados no PPA 2024-2027 abrangem as despesas de capital e outras decorrentes delas, bem como as relativas aos programas de duração continuada, compreendidas no conjunto das metas prioritárias de governo.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~Art. 9º Os valores consignados no PPA 2024-2027 abrangem as despesas de capital e outras decorrentes delas, bem como as relativas aos programas de duração continuada.~~
 
-§ 1º Os valores mencionados no caput deste artigo são referenciais e não constituem limites à programação e à execução das despesas expressas nas leis orçamentárias e nos seus créditos adicionais, que atualizarão anualmente os valores referenciais expressos no Anexo Único desta Lei.<br>
+§ 1º Os valores mencionados no caput deste artigo são referenciais e não constituem limites à programação e à execução das despesas expressas nas leis orçamentárias e nos seus créditos adicionais, que atualizarão anualmente os valores referenciais expressos no Anexo Único desta Lei.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~§ 1º Os valores mencionados no _caput_ deste artigo são referenciais e não constituem limites à programação e à execução das despesas expressas nas leis orçamentárias e nos seus créditos adicionais.~~
 
-§ 2º A Secretaria de Estado da Economia – ECONOMIA publicará, no mínimo anualmente, por ato próprio, a relação dos produtos e das ações orçamentárias, bem como dos indicadores a eles atrelados.<br>
+§ 2º A Secretaria de Estado da Economia – ECONOMIA publicará, no mínimo anualmente, por ato próprio, a relação dos produtos e das ações orçamentárias, bem como dos indicadores a eles atrelados.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~§ 2º As LOAs e as suas alterações por créditos adicionais atualizarão, a cada exercício, os valores referenciais e as metas físicas dos produtos, os quais passarão a integrar o PPA 2024-2027.~~
@@ -207,7 +232,8 @@ V – geração de informações para subsidiar as tomadas de decisões; e
 
 VI – aprimoramento do controle público sobre o Estado com a ampliação da transparência e da valorização e a mensuração do incremento da qualidade do gasto público.
 
-Parágrafo único. Compete à unidade central da área de planejamento do Sistema Estruturador das Redes de Gestão editar normas e definir as orientações técnicas necessárias ao monitoramento, à avaliação e à revisão do PPA 2024-2027.<br>
+Parágrafo único. Compete à unidade central da área de planejamento do Sistema Estruturador das Redes de Gestão editar normas e definir as orientações técnicas necessárias ao monitoramento, à avaliação e à revisão do PPA 2024-2027.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~Parágrafo único. Compete à unidade central da área de planejamento do Sistema Estruturador de Organização e Inovação Institucional editar normas e definir, nos termos desta Lei, as orientações técnicas necessárias ao monitoramento, à avaliação e à revisão do PPA 2024-2027.~~
@@ -224,7 +250,8 @@ Seção II
 
 Do Monitoramento e da Avaliação do PPA 2024-2027
 
-Art. 14. O monitoramento do PPA 2024-2027 consiste no processo contínuo de análise do desempenho dos indicadores das iniciativas e da execução dos programas.<br>
+Art. 14. O monitoramento do PPA 2024-2027 consiste no processo contínuo de análise do desempenho dos indicadores das iniciativas e da execução dos programas.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~Art. 14. O monitoramento do PPA 2024-2027 consiste no processo contínuo de análise do desempenho dos indicadores e da execução das ações dos programas, além do acompanhamento da realização das metas físicas dos produtos, para subsidiar a tomada de decisões, bem como identificar eventuais ajustes necessários.~~
@@ -245,58 +272,72 @@ Dos ajustes e das alterações do PPA 2024-2027
 
 Art. 16. Os ajustes e as alterações do PPA 2024-2027 poderão se dar mediante lei ou ato do Chefe do Poder Executivo, nos termos desta seção, sem prejuízo a delegações a serem disciplinadas em decreto.
 
-Parágrafo único. Os ajustes e as propostas de alteração do PPA 2024-2027 serão coordenados pela unidade central da área de planejamento do Sistema Estruturador das Redes de Gestão.<br>
+Parágrafo único. Os ajustes e as propostas de alteração do PPA 2024-2027 serão coordenados pela unidade central da área de planejamento do Sistema Estruturador das Redes de Gestão.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~Parágrafo único. Os ajustes e as propostas de alteração do PPA 2024-2027 serão coordenados pela unidade central da área de planejamento do Sistema Estruturador de Organização e Inovação Institucional.~~
 
-Art. 17. A criação de programas será efetuada pela abertura de crédito especial ou previsão na Lei Orçamentária Anual.<br>
+Art. 17. A criação de programas será efetuada pela abertura de crédito especial ou previsão na Lei Orçamentária Anual.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~Art. 17. Lei de iniciativa do Chefe do Poder Executivo poderá promover:~~
 
-~~I – a inclusão, a exclusão ou a alteração de eixos e objetivos estratégicos;~~<br>
+~~I – a inclusão, a exclusão ou a alteração de eixos e objetivos estratégicos;~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, e.
 
-~~II – a inclusão ou a exclusão de programas; e~~<br>
+~~II – a inclusão ou a exclusão de programas; e~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, e.
 
-~~III – a inclusão de produtos vinculados a ações orçamentárias.~~<br>
+~~III – a inclusão de produtos vinculados a ações orçamentárias.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, e.
 
-~~§ 1º O projeto de lei que propuser a inclusão de programas constantes desta Lei será acompanhado das seguintes informações:~~<br>
+~~§ 1º O projeto de lei que propuser a inclusão de programas constantes desta Lei será acompanhado das seguintes informações:~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, f.
 
-~~I – diagnóstico sobre a situação atual da questão a ser enfrentada ou sobre a demanda da sociedade a que se pretende atender com a proposta;~~<br>
+~~I – diagnóstico sobre a situação atual da questão a ser enfrentada ou sobre a demanda da sociedade a que se pretende atender com a proposta;~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, f.
 
-~~II – demonstração da compatibilidade com as diretrizes definidas no PPA 2024– 2027; e~~<br>
+~~II – demonstração da compatibilidade com as diretrizes definidas no PPA 2024– 2027; e~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, f.
 
-~~III – estimativa dos recursos que financiarão os programas no período de vigência do PPA 2024– 2027.~~<br>
+~~III – estimativa dos recursos que financiarão os programas no período de vigência do PPA 2024– 2027.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, f.
 
-~~§ 2º A inclusão de produtos vinculados a ações orçamentárias observará o disposto na Lei federal nº 4.320, de 17 de março de 1964, e as demais normas que disciplinam a abertura de créditos especiais.~~<br>
+~~§ 2º A inclusão de produtos vinculados a ações orçamentárias observará o disposto na Lei federal nº 4.320, de 17 de março de 1964, e as demais normas que disciplinam a abertura de créditos especiais.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, f.
 
 Art. 18. Fica o Chefe do Poder Executivo autorizado a promover, por ato próprio:
 
-I – a criação, a alteração ou a descontinuidade de produtos;<br>
+I – a criação, a alteração ou a descontinuidade de produtos;
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~I – a criação ou a alteração de produtos vinculados a ações não orçamentárias;~~
 
-~~II – a alteração dos órgãos responsáveis pela entrega dos produtos;~~<br>
+~~II – a alteração dos órgãos responsáveis pela entrega dos produtos;~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, g.
 
 III – a redefinição do quantitativo ou da regionalização das metas de resultado, nos termos do § 2º deste artigo;
 
-IV – a inclusão, a alteração ou a descontinuidade de iniciativas.<br>
+IV – a inclusão, a alteração ou a descontinuidade de iniciativas.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~IV – a inclusão, a alteração ou a exclusão de iniciativas; e~~
 
-~~V – a alteração, a inclusão ou a exclusão de ações não orçamentárias.~~<br>
+~~V – a alteração, a inclusão ou a exclusão de ações não orçamentárias.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, II, g.
 
 § 1º As propostas de ajustes ou alterações do PPA 2024-2027 apresentadas pelos Poderes e órgãos autônomos serão consolidadas pelo Poder Executivo e publicadas em decreto, nos termos de regulamento.
@@ -309,7 +350,8 @@ II – alteração de códigos, siglas e títulos referentes aos órgãos e às 
 
 § 3º A redefinição prevista no inciso III do _caput_ deste artigo deverá observar os seguintes requisitos:
 
-I – exposição dos motivos para a redefinição do quantitativo ou da regionalização das metas e das consequências para a gestão do PPA, se não ocorrer o referido ajuste;<br>
+I – exposição dos motivos para a redefinição do quantitativo ou da regionalização das metas e das consequências para a gestão do PPA, se não ocorrer o referido ajuste;
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~I – exposição dos motivos para a redefinição do quantitativo ou da regionalização das metas de resultado e das consequências para a gestão do PPA, se não ocorrer o referido ajuste;~~

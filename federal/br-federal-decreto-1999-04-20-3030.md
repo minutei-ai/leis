@@ -1,5 +1,3 @@
-###DEC-003030-0-000-20-04-1999@@@
-
 DECRETO Nº 3.030, DE 20 DE ABRIL DE 1999
 
 Dá nova redação ao art. 2º do Decreto nº 1.680, de 18 de outubro de 1995, que dispõe sobre a competência, a composição e o funcionamento do Conselho Consultivo da Coordenadoria Nacional para Integração da Pessoa Portadora de Deficiência - CORDE.

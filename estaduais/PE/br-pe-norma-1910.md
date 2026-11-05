@@ -118,179 +118,38 @@ GRADE DE VENCIMENTO BASE DOS CARGOS DE AGENTE DE POLÍCIA, ESCRIVÃO DE POLÍCIA
 
 (Vide o § 1º do art. 1º da [Lei Complementar nº 177, de 7 de julho de 2011](https://legis.alepe.pe.gov.br/?lc1772011) - enquadramento e reajuste dos valores nominais.)
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="628" style="width:471.0pt"><tbody><tr style="height:38.25pt"><td width="25%" rowspan="2" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:38.25pt"><p class="MsoNormal" style="text-align:justify">MATRIZES</p><p class="MsoNormal" style="text-align:justify">(com intervalo de 5%)</p></td><td width="74%" colspan="7" style="width:74.46%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:38.25pt"><p class="MsoNormal" style="text-align:justify">SÉRIE DE CLASSES (com intervalo de 3%)</p></td></tr><tr style="height:15.0pt"><td width="74%" colspan="7" style="width:74.46%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">I</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 360h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.412,30</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.433,49</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.454,99</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.476,81</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.498,97</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.521,45</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.544,27</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 240h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.345,05</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.365,23</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.385,70</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.406,49</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.427,59</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.449,00</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.470,74</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 160h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.281,00</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.300,22</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.319,72</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.339,51</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.359,61</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.380,00</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.400,70</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Graduação / Nível Médio</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.220,00</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.238,30</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.256,87</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.275,73</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.294,86</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.314,29</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.334,00</p></td></tr><tr style="height:21.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">FAIXAS SALARIAIS</p><p class="MsoNormal" style="text-align:justify">(com intervalo de 1,5%)</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">a</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">b</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">c</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">d</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">e</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">f</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">g</p></td></tr><tr style="height:21.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">MATRIZES</p><p class="MsoNormal" style="text-align:justify">(com intervalo de 5%)</p></td><td width="74%" colspan="7" style="width:74.46%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">II</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 360h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.590,60</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.614,46</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.638,68</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.663,26</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.688,21</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.713,53</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.739,23</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 240h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.514,86</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.537,58</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.560,64</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.584,05</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.607,81</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.631,93</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.656,41</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 160h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.442,72</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.464,36</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.486,33</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.508,62</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.531,25</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.554,22</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.577,53</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Graduação / Nível Médio</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.374,02</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.394,63</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.415,55</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.436,78</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.458,34</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.480,21</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.502,41</p></td></tr><tr style="height:21.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">FAIXAS SALARIAIS</p><p class="MsoNormal" style="text-align:justify">(com intervalo de 1,5%)</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">a</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">b</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">c</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">d</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">e</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">f</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">g</p></td></tr><tr style="height:21.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">MATRIZES</p><p class="MsoNormal" style="text-align:justify">(com intervalo de 5%)</p></td><td width="74%" colspan="7" style="width:74.46%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">III</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 360h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.791,41</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.818,28</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.845,55</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.873,24</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.901,34</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.929,86</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.958,80</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 240h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.706,10</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.731,70</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.757,67</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.784,04</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.810,80</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.837,96</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.865,53</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 160h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.624,86</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.649,23</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.673,97</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.699,08</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.724,57</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.750,44</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.776,69</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Graduação / Nível Médio</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.547,49</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.570,70</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.594,26</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.618,17</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.642,45</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.667,08</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.692,09</p></td></tr><tr style="height:21.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">FAIXAS SALARIAIS</p><p class="MsoNormal" style="text-align:justify">(com intervalo de 1,5%)</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">a</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">b</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">c</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">d</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">e</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">f</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">g</p></td></tr><tr style="height:21.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">MATRIZES</p><p class="MsoNormal" style="text-align:justify">(com intervalo de 5%)</p></td><td width="74%" colspan="7" style="width:74.46%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">IV</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 360h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.017,57</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.047,83</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.078,55</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.109,73</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.141,37</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.173,49</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.206,10</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 240h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.921,49</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.950,32</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.979,57</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.009,26</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.039,40</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.069,99</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.101,04</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Curso Especialização 160h</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.829,99</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.857,44</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.885,31</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.913,58</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.942,29</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.971,42</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">2.000,99</p></td></tr><tr style="height:15.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">Graduação / Nível Médio</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.742,85</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.768,99</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.795,53</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.822,46</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.849,80</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.877,55</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:15.0pt"><p class="MsoNormal" style="text-align:justify">1.905,71</p></td></tr><tr style="height:21.0pt"><td width="25%" style="width:25.1%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">FAIXAS SALARIAIS</p><p class="MsoNormal" style="text-align:justify">(com intervalo de 1,5%)</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">a</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">b</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">c</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">d</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">e</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">f</p></td><td width="10%" style="width:10.5%;padding:3.0pt 3.0pt 3.0pt 3.0pt;
-  height:21.0pt"><p class="MsoNormal" style="text-align:justify">g</p></td></tr></tbody></table>
+<table cellspacing="1" cellpadding="0"><tbody><tr><td rowspan="2"> MATRIZES (com intervalo de 5%) </td><td colspan="7"> SÉRIE DE CLASSES (com intervalo de 3%) </td></tr><tr><td colspan="7"> I </td></tr><tr><td> Curso Especialização 360h </td><td> 1.412,30 </td><td> 1.433,49 </td><td> 1.454,99 </td><td> 1.476,81 </td><td> 1.498,97 </td><td> 1.521,45 </td><td> 1.544,27 </td></tr><tr><td> Curso Especialização 240h </td><td> 1.345,05 </td><td> 1.365,23 </td><td> 1.385,70 </td><td> 1.406,49 </td><td> 1.427,59 </td><td> 1.449,00 </td><td> 1.470,74 </td></tr><tr><td> Curso Especialização 160h </td><td> 1.281,00 </td><td> 1.300,22 </td><td> 1.319,72 </td><td> 1.339,51 </td><td> 1.359,61 </td><td> 1.380,00 </td><td> 1.400,70 </td></tr><tr><td> Graduação / Nível Médio </td><td> 1.220,00 </td><td> 1.238,30 </td><td> 1.256,87 </td><td> 1.275,73 </td><td> 1.294,86 </td><td> 1.314,29 </td><td> 1.334,00 </td></tr><tr><td> FAIXAS SALARIAIS (com intervalo de 1,5%) </td><td> a </td><td> b </td><td> c </td><td> d </td><td> e </td><td> f </td><td> g </td></tr><tr><td> MATRIZES (com intervalo de 5%) </td><td colspan="7"> II </td></tr><tr><td> Curso Especialização 360h </td><td> 1.590,60 </td><td> 1.614,46 </td><td> 1.638,68 </td><td> 1.663,26 </td><td> 1.688,21 </td><td> 1.713,53 </td><td> 1.739,23 </td></tr><tr><td> Curso Especialização 240h </td><td> 1.514,86 </td><td> 1.537,58 </td><td> 1.560,64 </td><td> 1.584,05 </td><td> 1.607,81 </td><td> 1.631,93 </td><td> 1.656,41 </td></tr><tr><td> Curso Especialização 160h </td><td> 1.442,72 </td><td> 1.464,36 </td><td> 1.486,33 </td><td> 1.508,62 </td><td> 1.531,25 </td><td> 1.554,22 </td><td> 1.577,53 </td></tr><tr><td> Graduação / Nível Médio </td><td> 1.374,02 </td><td> 1.394,63 </td><td> 1.415,55 </td><td> 1.436,78 </td><td> 1.458,34 </td><td> 1.480,21 </td><td> 1.502,41 </td></tr><tr><td> FAIXAS SALARIAIS (com intervalo de 1,5%) </td><td> a </td><td> b </td><td> c </td><td> d </td><td> e </td><td> f </td><td> g </td></tr><tr><td> MATRIZES (com intervalo de 5%) </td><td colspan="7"> III </td></tr><tr><td> Curso Especialização 360h </td><td> 1.791,41 </td><td> 1.818,28 </td><td> 1.845,55 </td><td> 1.873,24 </td><td> 1.901,34 </td><td> 1.929,86 </td><td> 1.958,80 </td></tr><tr><td> Curso Especialização 240h </td><td> 1.706,10 </td><td> 1.731,70 </td><td> 1.757,67 </td><td> 1.784,04 </td><td> 1.810,80 </td><td> 1.837,96 </td><td> 1.865,53 </td></tr><tr><td> Curso Especialização 160h </td><td> 1.624,86 </td><td> 1.649,23 </td><td> 1.673,97 </td><td> 1.699,08 </td><td> 1.724,57 </td><td> 1.750,44 </td><td> 1.776,69 </td></tr><tr><td> Graduação / Nível Médio </td><td> 1.547,49 </td><td> 1.570,70 </td><td> 1.594,26 </td><td> 1.618,17 </td><td> 1.642,45 </td><td> 1.667,08 </td><td> 1.692,09 </td></tr><tr><td> FAIXAS SALARIAIS (com intervalo de 1,5%) </td><td> a </td><td> b </td><td> c </td><td> d </td><td> e </td><td> f </td><td> g </td></tr><tr><td> MATRIZES (com intervalo de 5%) </td><td colspan="7"> IV </td></tr><tr><td> Curso Especialização 360h </td><td> 2.017,57 </td><td> 2.047,83 </td><td> 2.078,55 </td><td> 2.109,73 </td><td> 2.141,37 </td><td> 2.173,49 </td><td> 2.206,10 </td></tr><tr><td> Curso Especialização 240h </td><td> 1.921,49 </td><td> 1.950,32 </td><td> 1.979,57 </td><td> 2.009,26 </td><td> 2.039,40 </td><td> 2.069,99 </td><td> 2.101,04 </td></tr><tr><td> Curso Especialização 160h </td><td> 1.829,99 </td><td> 1.857,44 </td><td> 1.885,31 </td><td> 1.913,58 </td><td> 1.942,29 </td><td> 1.971,42 </td><td> 2.000,99 </td></tr><tr><td> Graduação / Nível Médio </td><td> 1.742,85 </td><td> 1.768,99 </td><td> 1.795,53 </td><td> 1.822,46 </td><td> 1.849,80 </td><td> 1.877,55 </td><td> 1.905,71 </td></tr><tr><td> FAIXAS SALARIAIS (com intervalo de 1,5%) </td><td> a </td><td> b </td><td> c </td><td> d </td><td> e </td><td> f </td><td> g </td></tr></tbody></table>
 
 ANEXO II
 
 TABELA DE VENCIMENTO BASE DO CARGO DE DELEGADO DE POLÍCIA
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="434" style="width:325.5pt"><tbody><tr><td width="49%" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">SÍMBOLOS DE NÍVEIS</p></td><td width="49%" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">VALOR NOMINAL DO VENCIMENTO BASE EM</p><p class="MsoNormal" style="text-align:justify">R$</p></td></tr><tr><td width="49%" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">QAP - E</p></td><td width="49%" valign="bottom" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">3.384,92</p></td></tr><tr><td width="49%" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">QAP - 1</p></td><td width="49%" valign="bottom" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">2.949,77</p></td></tr><tr><td width="49%" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">QAP - 2</p></td><td width="49%" valign="bottom" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">2.593,85</p></td></tr><tr><td width="49%" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">QAP - 3</p></td><td width="49%" valign="bottom" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">2.358,05</p></td></tr><tr><td width="49%" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">QAP - 4</p></td><td width="49%" valign="bottom" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">1.965,04</p></td></tr><tr><td width="49%" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">QAP - 5</p></td><td width="49%" valign="bottom" style="width:49.68%;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="text-align:justify">1.786,40</p></td></tr></tbody></table>
+SÍMBOLOS DE NÍVEIS
+
+VALOR NOMINAL DO VENCIMENTO BASE EM
+
+R$
+
+QAP - E
+
+3.384,92
+
+QAP - 1
+
+2.949,77
+
+QAP - 2
+
+2.593,85
+
+QAP - 3
+
+2.358,05
+
+QAP - 4
+
+1.965,04
+
+QAP - 5
+
+1.786,40

@@ -1,5 +1,3 @@
-###DEC-006577-0-000-25-09-2008@@@
-
 DECRETO Nº 6.577, DE 25 DE SETEMBRO DE 2008.
 
 Dá nova redação ao inciso III do art. 5~~º~~ do Decreto no 6.042, de 12 de fevereiro de 2007, que disciplina a aplicação, acompanhamento e avaliação do Fator Acidentário de Prevenção - FAP e do Nexo Técnico Epidemiológico.

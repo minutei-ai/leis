@@ -1,5 +1,3 @@
-###DEC-076327-0-000-23-09-1975@@@
-
 DECRETO Nº 76.327 - DE 23 DE SETEMBRO DE 1975
 
 Declara de utilidade pública, para fins de desapropriação, terreno adjacente ao Aeroporto de Foz do Iguaçu, Estado do Paraná, necessário ao Ministério da Aeronáutica.

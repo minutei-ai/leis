@@ -1,5 +1,3 @@
-###MPV-001731-0-038-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.731-38, DE 6 DE MaIO DE 1999.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

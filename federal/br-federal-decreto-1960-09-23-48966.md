@@ -1,5 +1,3 @@
-###DEC-048966-0-000-23-09-1960@@@
-
 DECRETO Nº 48.966, DE 23 DE SETEMBRO DE 1960.
 
 Aprova a reforma dos estatutos do The First National City Bank of New York.

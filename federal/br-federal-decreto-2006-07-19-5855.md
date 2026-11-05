@@ -1,5 +1,3 @@
-###DEC-005855-0-000-19-07-2006@@@
-
 DECRETO Nº 5.855, DE 19 DE JULHO DE 2006.
 
 Promulga o Acordo Complementar na Área de Recursos Naturais e Meio Ambiente ao Acordo Básico de Cooperação Técnica e Científica entre o Governo da República Federativa do Brasil e o Governo da República do Peru, celebrado em Brasília, em 20 de agosto de 2004.
@@ -24,11 +22,7 @@ Brasília, 19 de julho de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-          Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no D.O.U. de 20.7.2006
-
-ACORDO COMPLEMENTAR NA ÁREA DE RECURSOS NATURAIS E MEIO AMBIENTE AO ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA E CIENTÍFICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO PERU
+          Samuel Pinheiro Guimarães NetoACORDO COMPLEMENTAR NA ÁREA DE RECURSOS NATURAIS E MEIO AMBIENTE AO ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA E CIENTÍFICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO PERU
 
 O Governo da República Federativa do Brasil
 

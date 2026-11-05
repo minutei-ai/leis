@@ -1,5 +1,3 @@
-###DEC-005299-0-000-07-12-2004@@@
-
 DECRETO Nº 5.299 DE 7 DE DEZEMBRO DE 2004
 
 Fixa o valor mínimo anual por aluno de que trata o art. 6º, § 1º, da Lei nº 9.424, de 24 de dezembro de 1996, para o exercício de 2004.

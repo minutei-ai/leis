@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210271)<br>
-
 # DECRETO N° 69.104, DE 29 DE NOVEMBRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária das Linhas 8 e 9 do Sistema de Trens Metropolitanos de São Paulo S.A., o imóvel necessário à ampliação da Estação Antônio João, da Linha 8 - Diamante, localizado no Município de Barueri, e dá providências correlatas._

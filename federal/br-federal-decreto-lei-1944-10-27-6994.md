@@ -1,5 +1,3 @@
-###DEL-006994-0-000-27-10-1944@@@
-
 DECRETO-LEI N. 6.994 – DE 27 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 3.000.000,00, para despesas decorrentes da subscrição compulsória das "Obrigações de Guerra”.

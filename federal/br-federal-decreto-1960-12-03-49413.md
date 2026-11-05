@@ -1,5 +1,3 @@
-###DEC-049413-0-000-03-12-1960@@@
-
 DECRETO Nº 49.413, DE 3 DE dezembro DE 1960.
 
 Autoriza a firma Gunther A Veeck, a compar pedras preciosas.

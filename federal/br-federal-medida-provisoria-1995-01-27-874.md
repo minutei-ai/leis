@@ -1,7 +1,3 @@
-1
-
-###MPV-000874-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 874, DE 27 DE JANEIRO DE 1995
 
 Altera dispositivo da Lei nº 8.620, de 5 de janeiro de 1993.

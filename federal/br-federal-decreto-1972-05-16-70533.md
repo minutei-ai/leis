@@ -1,5 +1,3 @@
-###DEC-070533-0-000-16-05-1972@@@
-
 DECRETO Nº 70.533, DE 16 DE MAIO DE 1972.
 
 Declara de utilidade pública o Centro Social Padre Dehon, com sede em João Pessoa, Estado da Paraíba.

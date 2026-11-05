@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59743)
-
 # LEI Nº 12.182, DE 29 DE DEZEMBRO DE 2005
 
 ### _Prorroga disposição da Lei n. 11.601, de 19 de dezembro de 2003, que fixa a alíquota do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, na forma que especifica._

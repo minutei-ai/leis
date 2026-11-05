@@ -6,15 +6,16 @@ Declara de Utilidade Pública Estadual a Associação Grupo Amor Vida Arthur Hok
 
 Publicada no Diário Oficial nº 10.250, de 12 de agosto de 2020, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a Associação Grupo Amor Vida Arthur Hokama (GAV).<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data da sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a Associação Grupo Amor Vida Arthur Hokama (GAV).
+
+Art. 2º Esta Lei entra em vigor na data da sua publicação.
+
 Campo Grande, 11 de agosto de 2020.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

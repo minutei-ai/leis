@@ -1,5 +1,3 @@
-###DEC-050362-0-000-20-03-1961@@@
-
 Decreto nº 50.362, de 20 de março de 1961.
 
 Altera disposição do Decreto nº 34.330, de 21 de outubro de 1953.

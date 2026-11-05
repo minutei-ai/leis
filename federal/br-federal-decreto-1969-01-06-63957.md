@@ -1,5 +1,3 @@
-###DEC-063957-0-000-06-01-1969@@@
-
 DECRETO Nº 63.957, DE 6 DE JANEIRO DE 1969.
 
 Estabelece os aeroportos internacionais do Brasil e dá outras providências.
@@ -10,7 +8,131 @@ decreta:
 
 Art. 1º Os aeroportos internacionais brasileiros que serão obrigatóriamente utilizados pelas aeronaves civis nacionais ou estrangeiras, como primeira escala por ocasião de entrada e como última escala por ocasião de saída do território nacional, são os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:139.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cidade</span></p></td><td style="width:139.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Unidade da Federação</span></p></td><td style="width:139.45pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Aeroporto</span></p></td></tr><tr><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Bagé</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Rio Grande do Sul</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cmt Gustavo Kraemer</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Belém</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Pará</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Val de Cães</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Boa Vista</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ter. de Roraima</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Boa Vista</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Brasília</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distrito Federal</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Brasília</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Campinas</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. de São Paulo</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vira Copos</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Campo Grande</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. de Mato Grosso</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Campo Grande</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Corumbá</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. de Mato Grosso</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Corumbá</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cruzeiro do Sul</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Acre</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cruzeiro do Sul</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Fóz do Iguaçu</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Paraná</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cataratas</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Macapá</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Amapá</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Macapá</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manaus</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Amazonas</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ponta Pelada</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelotas</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Rio Grande do Sul</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelotas</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ponta Porã</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. de Mato Grosso</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ponta Porã</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pôrto Alegre</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Rio Grande do Sul</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Salgado Filho</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Recife</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. de Pernambuco</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Guararapes</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rio de Janeiro</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. da Guanabara</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Galeão</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rio Branco</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Acre</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rio Branco</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">São Paulo</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. de São Paulo</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Congonhas</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tabatinga</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Amazonas</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tabatinga</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Uruguaina</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Est. do Rio Grande do Sul</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rubem Berta</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Cidade
+
+Unidade da Federação
+
+Aeroporto
+
+Bagé
+
+Est. do Rio Grande do Sul
+
+Cmt Gustavo Kraemer
+
+Belém
+
+Est. do Pará
+
+Val de Cães
+
+Boa Vista
+
+Ter. de Roraima
+
+Boa Vista
+
+Brasília
+
+Distrito Federal
+
+Brasília
+
+Campinas
+
+Est. de São Paulo
+
+Vira Copos
+
+Campo Grande
+
+Est. de Mato Grosso
+
+Campo Grande
+
+Corumbá
+
+Est. de Mato Grosso
+
+Corumbá
+
+Cruzeiro do Sul
+
+Est. do Acre
+
+Cruzeiro do Sul
+
+Fóz do Iguaçu
+
+Est. do Paraná
+
+Cataratas
+
+Macapá
+
+Est. do Amapá
+
+Macapá
+
+Manaus
+
+Est. do Amazonas
+
+Ponta Pelada
+
+Pelotas
+
+Est. do Rio Grande do Sul
+
+Pelotas
+
+Ponta Porã
+
+Est. de Mato Grosso
+
+Ponta Porã
+
+Pôrto Alegre
+
+Est. do Rio Grande do Sul
+
+Salgado Filho
+
+Recife
+
+Est. de Pernambuco
+
+Guararapes
+
+Rio de Janeiro
+
+Est. da Guanabara
+
+Galeão
+
+Rio Branco
+
+Est. do Acre
+
+Rio Branco
+
+São Paulo
+
+Est. de São Paulo
+
+Congonhas
+
+Tabatinga
+
+Est. do Amazonas
+
+Tabatinga
+
+Uruguaina
+
+Est. do Rio Grande do Sul
+
+Rubem Berta
 
 Art. 2º O Ministério da Aeronáutica coordenará, junto aos Ministérios da Justiça, Fazenda Saúde e Agricultura, as medidas necessárias para a instalação e permanência dos serviços de polícia, alfândega e saúde nos aeroportos internacionais, supervisionando e controlando para que as mesmas sejam fielmente executadas.
 

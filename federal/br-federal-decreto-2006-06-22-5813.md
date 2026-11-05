@@ -1,5 +1,3 @@
-###DEC-005813-0-000-22-06-2006@@@
-
 DECRETO Nº 5.813, DE 22 DE JUNHO DE 2006.
 
 Aprova a Política Nacional de Plantas Medicinais e Fitoterápicos e dá outras providências.

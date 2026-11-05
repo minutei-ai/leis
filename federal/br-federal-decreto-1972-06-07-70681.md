@@ -1,5 +1,3 @@
-###DEC-070681-0-000-07-06-1972@@@
-
 DECRETO Nº 70.681, DE 7 DE JUNHO DE 1972.
 
 Dá nova redação a dispositivos do Regulamento para o Corpo do Pessoal Subalterno da Armada.

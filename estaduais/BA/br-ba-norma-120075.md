@@ -4,7 +4,8 @@ Dispõe sobre a ligação de efluentes à rede pública de esgotamento sanitári
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA LIGAÇÃO DE EFLUENTES À REDE PÚBLICA
 
 Art. 1º - Os serviços de saneamento básico compreendem, dentre outros, a coleta e disposição adequada dos esgotos, sendo portanto obrigatória a ligação dos efluentes sanitários dos imóveis, de qualquer natureza, à rede de esgotamento sanitário, quando implementada pelo Poder Público.
@@ -23,7 +24,8 @@ b) condicionar o atendimento de pedido de ligação de água à ligação do im�
 
 Art. 3º - É vedada a ligação de esgotos à rede pública de águas pluviais, nos logradouros com rede coletora instalada, devendo a concessionária, quando constatada a irregularidade, promover junto ao órgão municipal competente a necessária desativação.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS ÓRGÃOS ENCARREGADOS DO CONTROLE E FISCALIZAÇÃO
 
 Art. 4º - O controle e a fiscalização das ligações de que trata esta Lei caberão à concessionária dos serviços de abastecimento de água e esgotamento sanitário e ao Centro de Recursos Ambientais.
@@ -46,7 +48,8 @@ I - fiscalizar, em articulação com a concessionária, a situação dos imóvei
 
 II - aplicar as penalidades regulamentares, observado o devido processo legal.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS INFRAÇÕES E PENALIDADES
 
 Art. 7º - Por infração de qualquer disposição estabelecida nesta Lei, o infrator ficará sujeito às seguintes penalidades:
@@ -75,7 +78,8 @@ Art. 8º - Da imposição das sanções referidas no artigo anterior caberá rec
 
 Parágrafo único - O recurso interposto só será conhecido quando acompanhado, em caso de multa, da cópia autentica da guia de recolhimento ou fiança bancaria, nos casos definidos em regulamento.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO FUNDO ESPECIAL PARA O ESGOTAMENTO SANITÁRIO
 
 Art. 9º - Fica criado o Fundo Especial para o Esgotamento Sanitário, destinado a custear obras dos sistemas de esgotamento sanitário em áreas com predominância de residências de baixa renda ou popular, constituído de receitas provenientes de :

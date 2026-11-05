@@ -1,5 +1,3 @@
-###DEC-003078-0-000-01-06-1999@@@
-
 DECRETO Nº 3.078, DE 1º DE JUNHO DE 1999.
 
 Promulga o Acordo para a Criação da Comissão de Cooperação e Desenvolvimento Fronteiriço, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Argentina, em Brasília, em 10 de novembro de 1997.
@@ -84,4 +82,22 @@ Cada uma das Partes Contratantes notificará a outra do cumprimento das formalid
 
 Feito em Brasília, em 10 de novembro de 1997, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:23.1pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-align:center"><span>Pelo Governo da República</span></p></td></tr><tr style="height:23.1pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt; text-align:center"><span>Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-align:center"><span>Argentina</span></p></td></tr><tr style="height:23.05pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt; text-align:center"><span>Guido di Tella</span></p></td></tr><tr style="height:23.05pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt; text-align:center"><span>Ministro de Estado das</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt; text-align:center"><span>Ministro das Relações</span></p></td></tr><tr style="height:23.05pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt; text-align:center"><span>Relações Exteriores</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt; text-align:center"><span>Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Argentina
+
+Luiz Felipe Lampreia
+
+Guido di Tella
+
+Ministro de Estado das
+
+Ministro das Relações
+
+Relações Exteriores
+
+Exteriores

@@ -1,7 +1,3 @@
-1
-
-###DEC-098022-0-000-03-08-1989@@@
-
 DECRETO N° 98.022, DE 3 DE AGOSTO DE 1989
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-079011-0-000-23-12-1976@@@
-
 DECRETO Nº 79.011, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Comunicação Social, da Faculdade de Filosofia, Ciências e Letras de Belo Horizonte, Estado de Minas Gerais.

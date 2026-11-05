@@ -1,5 +1,3 @@
-###DEC-085262-0-000-16-10-1980@@@
-
 Decreto nº 85.262, de 16 de outubro de 1980
 
 Autoriza a transferência direta para a SOCIEDADE MINEIRA DE RADIODIFUSÃO LTDA., da concessão outorgada à RÁDIO INDUSTRIAL DE JUIZ DE FORA LTDA., para execução de serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Juiz de Fora, Estado de Minas Gerais.

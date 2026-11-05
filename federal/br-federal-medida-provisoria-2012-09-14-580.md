@@ -1,5 +1,3 @@
-###MPV-000580-0-000-14-09-2012-PUB-02@@@
-
 MEDIDA PROVISÓRIA Nº  580, DE 14 DE SETEMBRO DE 2012
 
 Altera as Leis nº 11.759, de 31 de julho de 2008, que autoriza a criação da empresa pública Centro Nacional de Tecnologia Eletrônica Avançada S.A. - Ceitec, e nº 11.578, de 26 de novembro de 2007, que dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento \- PAC, e dá outras providências.

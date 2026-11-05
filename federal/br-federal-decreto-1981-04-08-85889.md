@@ -1,5 +1,3 @@
-###DEC-085889-0-000-08-04-1981@@@
-
 DecRETO Nº 85.889, de 08 de abril DE 1981.
 
 Outorga à Centrais Elétricas Matogrossenses S.A. - CEMAT concessão para o aproveitamento da energia hidráulica de um trecho médio do rio dos Peixes, no Município de Porto dos Gaúchos, Estado de Mato Grosso.

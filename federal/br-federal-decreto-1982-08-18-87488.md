@@ -1,5 +1,3 @@
-###DEC-087488-0-000-18-08-1982@@@
-
 Decreto nº 87.488, de 18 de agosto de 1982
 
 Renova por 10 (dez) anos a concessão outorgada a RÁDIO DIFUSORA DO MARANHÃO LTDA., e autoriza a transferência direta para a RÁDIO CLUBE DE TERESINA S.A., que passará a executar serviço de radiodifusão sonora em onda tropical, na cidade de Teresina, Estado do Piauí.

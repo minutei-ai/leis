@@ -1,5 +1,3 @@
-###DEC-002536-0-000-06-04-1998@@@
-
 DECRETO Nº 2.536, DE 6 DE ABRIL DE 1998
 
 Dispõe sobre a concessão do Certificado de Entidade de Fins Filantrópicos a que se refere o inciso IV do art. 18 da Lei nº 8.742, de 7 de dezembro de 1993, e dá outras providências.

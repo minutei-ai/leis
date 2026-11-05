@@ -1,5 +1,3 @@
-###DEC-076548-0-000-04-11-1975@@@
-
 DECRETO Nº 76.548, DE 4 DE NOVEMBRO DE 1975.
 
 Autoriza a transformação de curso da Faculdade Santa Marcelina, com sede na cidade de Botucatu, São Paulo e dá outras providências.

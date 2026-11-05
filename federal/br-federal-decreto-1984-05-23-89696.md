@@ -1,5 +1,3 @@
-###DEC-089696-0-000-23-05-1984@@@
-
 DECRETO nº 89.696, de 23 de maio de 1984
 
 Dispõe sobre a designação e o mandato dos representantes dos Agentes de Viagem; dos Transportadores; dos Hoteleiros e da Confederação Nacional do Comércio, no Conselho Nacional de Turismo - CNTur, e dá outras providências.

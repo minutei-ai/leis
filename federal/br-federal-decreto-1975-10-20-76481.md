@@ -1,5 +1,3 @@
-###DEC-076481-0-000-20-10-1975@@@
-
 Decreto Nº 76.481, DE 20 de outubro de 1975.
 
 Concede reconhecimento à habilitação em Orientação Educacional, no curso de Pedagogia da Faculdade de Educação de Santana do Livramento, com sede na Cidade de Santana do Livramento, Estado do Rio Grande do Sul.

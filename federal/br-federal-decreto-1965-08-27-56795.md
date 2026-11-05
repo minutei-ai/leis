@@ -1,5 +1,3 @@
-###DEC-056795-0-000-27-08-1965@@@
-
 DECRETO Nº 56.795, de 27 de agôsto de 1965.
 
 Dispõe sôbre a criação de área prioritária e de emergência para fins de Reforma Agrária, e dá outras providências.

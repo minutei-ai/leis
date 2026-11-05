@@ -1,5 +1,3 @@
-###DEC-055022-0-000-18-11-1964@@@
-
 DECRETO Nº 55.022, DE 18 DE NOVEMBRO DE 1964.
 
 Concede à Companhia Mineração da Areia Preta autorização para funcionar como emprêsa de mineração.

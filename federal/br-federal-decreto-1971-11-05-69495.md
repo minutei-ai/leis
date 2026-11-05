@@ -1,5 +1,3 @@
-###DEC-069495-0-000-05-11-1971@@@
-
 DECRETO Nº 69.495 - DE 5 DE NOVEMBRO DE 1971
 
 Modifica a Ordem Nacional do Mérito Educativo.

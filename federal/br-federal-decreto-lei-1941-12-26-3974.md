@@ -1,5 +1,3 @@
-###DEL-003974-0-000-26-12-1941@@@
-
 DECRETO-LEI N. 3.974 – DE 26 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de réis 14:150$0, para liquidação de despesas efetuadas com a Embaixada Universitária Especial, Argentina.

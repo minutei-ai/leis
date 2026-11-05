@@ -1,5 +1,3 @@
-###DEC-069960-0-000-19-01-1972@@@
-
 Decreto Nº 69.960, DE 19 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Hospital Beneficente Monte Alverne, com sede em Santa Cruz do Sul, Estado do Rio Grande do Sul.

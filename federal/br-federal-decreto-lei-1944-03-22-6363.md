@@ -1,5 +1,3 @@
-###DEL-006363-0-000-22-03-1944@@@
-
 DECRETO-LEI N. 6.363 – DE 22 DE MARÇO DE 1944
 
 Cria o 6º Batalhão de Engenhos

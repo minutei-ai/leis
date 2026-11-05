@@ -1,5 +1,3 @@
-###MPV-001766-0-018-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.766-18, DE 6 DE MAIO DE 1999.
 
 Dá nova redação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

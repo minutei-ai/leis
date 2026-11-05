@@ -1,7 +1,3 @@
-1
-
-###DEC-095883-0-000-29-03-1988@@@
-
 # DECRETO N° 95.883, DE 29 DE MARÇO DE 1988
 
 Outorga concessão a Rádio Baixaverde Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de João Câmara, Estado do Rio Grande do Norte.

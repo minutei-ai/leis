@@ -1,5 +1,3 @@
-###DEC-084847-0-000-24-06-1980@@@
-
 Decreto nº 84.847, de 24 de junho de 1980
 
 Dá nova redação ao caput do artigo 3º do Decreto nº 68.324, de 09 de março de 1971, alterado pelo artigo 1º do Decreto nº 81.436, de 9 de março de 1978, e dá outras providências

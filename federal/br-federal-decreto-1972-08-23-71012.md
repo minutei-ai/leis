@@ -1,5 +1,3 @@
-###DEC-071012-0-000-23-08-1972@@@
-
 DECRETO Nº 71.012, DE 23 DE AGOSTO DE 1972
 
 Concede reconhecimento do curso de Ciências Biológicas, modalidade Biomédica, ministrado pela Universidade Federal de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-056002-0-000-23-04-1965@@@
-
 DECRETO Nº 56.002, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Mauro da Rocha Xavier a pesquisar feldspato, no município de Socorro, Estado de São Paulo.

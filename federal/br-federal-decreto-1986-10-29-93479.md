@@ -1,5 +1,3 @@
-###DEC-093479-0-000-29-10-1986@@@
-
 DECRETO Nº 93.479, DE 29 DE OUTUBRO DE 1986.
 
 Dispõe sobre o afastamento, a serviço, dos servidores das empresas que indica.

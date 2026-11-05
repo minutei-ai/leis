@@ -1,5 +1,3 @@
-###DEC-084771-0-000-04-06-1980@@@
-
 Decreto nº 84.771, de 04 de junho de 1980.
 
 Declara de utilidade pública, para fins de desapropriação pela NUCLEBRÁS, as áreas que menciona.

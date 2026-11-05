@@ -1,5 +1,3 @@
-###DEC-064789-0-000-08-07-1969@@@
-
 decreto nº 64.789 - de 8 de julho de 1969.
 
 Outorga concessão à Telefones da Bahia S.A. - "TEBASA" para executar serviço de telefonia público urbano (municipal) no Estado da Bahia.

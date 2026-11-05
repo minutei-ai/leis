@@ -1,5 +1,3 @@
-###DEC-077814-0-000-15-06-1976@@@
-
 DECRETO Nº 77.814, DE 15 DE JUNHO DE 1976.
 
 Extingue o Consulado Honorário do Brasil em São Vicente, Cabo Verde.

@@ -1,5 +1,3 @@
-###DEL-009767-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.767 – DE 6 DE SETEMBRO DE 1946
 
 Autoriza a Viação Férrea do Rio Grande do Sul a adquirir material ferroviário e dá outras providências.

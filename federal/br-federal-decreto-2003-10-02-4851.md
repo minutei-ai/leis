@@ -1,5 +1,3 @@
-###DEC-004851-0-000-02-10-2003@@@
-
 DECRETO Nº 4.851,  DE 2 DE OUTUBRO DE 2003.
 
        Altera dispositivos do Regulamento aprovado pelo Decreto nº 2.314, de 4 de setembro de 1997, que dispõe sobre a padronização, a classificação, o registro, a inspeção, a produção e a fiscalização de bebidas.
@@ -70,5 +68,6 @@ III \- rum envelhecido ou rum velho é a bebida que tenha sido envelhecida, em
 
         Brasília, 2 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Amauri Dimarzio

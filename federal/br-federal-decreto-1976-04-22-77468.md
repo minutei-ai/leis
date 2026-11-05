@@ -1,5 +1,3 @@
-###DEC-077468-0-000-22-04-1976@@@
-
 DECRETO Nº 77.468 - DE 22 DE ABRIL DE 1976
 
 Declara de utilidade pública, para fins de desapropriação, terrenos destinados à implantação da subestação de Boa Esperança do Sul, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

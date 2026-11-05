@@ -1,5 +1,3 @@
-###DEC-053455-0-000-20-01-1964@@@
-
 DECRETO Nº 53.455, DE 20 DE JANEIRO DE 1964.
 
 Transfere da Prefeitura Municipal de Itabira para Centrais Elétrica de Minas Gerais S.A. a concessão para distribuição de energia elétrica.

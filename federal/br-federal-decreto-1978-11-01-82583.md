@@ -1,5 +1,3 @@
-###DEC-082583-0-000-01-11-1978@@@
-
 DECRETO Nº 82.583, DE 1º DE NOVEMBRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

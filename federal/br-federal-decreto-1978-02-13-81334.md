@@ -1,5 +1,3 @@
-###DEC-081334-0-000-13-02-1978@@@
-
 Decreto nº 81.334, de 13 de fevereiro de 1978.
 
 Concede à RIB-Rutilo e Ilmenita do Brasil S/A. o direito de lavrar ilmenita, zircão e rutilo no Município de Mataraca, Estado da Paraíba.

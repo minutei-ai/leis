@@ -1,5 +1,3 @@
-###DEC-079429-0-000-24-03-1977@@@
-
 DECRETO Nº 79.429, DE 24 DE MARÇO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

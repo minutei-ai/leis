@@ -1,5 +1,3 @@
-###DEC-050957-0-000-14-07-1961@@@
-
 decreto nº 50.957, de 14 de julho de 1961.
 
 Institui Grupo de Trabalho a fim de dar cumprimento ao disposto no art. 180 e seu parágrafo único da Lei nº 3.807, de 26 de agôsto de 1960.

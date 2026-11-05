@@ -1,5 +1,3 @@
-###DEC-007718-0-000-04-04-2012-PUB-01@@@
-
 DECRETO N° 7.718, DE 4 DE ABRIL DE 2012
 
 Autoriza a incorporação do Hospital Cristo Redentor S.A. e do Hospital Fêmina S.A. pelo Hospital Nossa Senhora da Conceição S.A.

@@ -1,5 +1,3 @@
-###DEC-085466-0-000-10-12-1980@@@
-
 Decreto nº 85.466, de 10 de dezembro de 1980.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro e Salvador, Estado da Bahia.

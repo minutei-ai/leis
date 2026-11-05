@@ -1,5 +1,3 @@
-###DEL-009579-0-000-13-08-1946@@@ 
-
 DECRETO-LEI N. 9.579 – DE 13 DE AGôSTO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a “the American Bible Society” do imposto que menciona.

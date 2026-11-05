@@ -1,5 +1,3 @@
-###DEC-070203-0-000-24-02-1972@@@
-
 DECRETO Nº 70.203, DE 24 DE FEVEREIRO DE 1972.
 
 Localiza nas cidades que especifica sedes de Organizações do Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-092851-0-000-27-06-1986@@@
-
 DECRETO Nº 92.851, DE 27 DE JUNHO DE 1986
 
 Renova a concessão outorgada à Sociedade Rádio Cultura Jaguarão Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Vitória do Palmar, Estado do Rio Grande do Sul.

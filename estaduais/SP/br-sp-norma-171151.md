@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/171151)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2013/compilacao-lei-15131-01.10.2013.html)
 
 # LEI N° 15.131, DE 01 DE OUTUBRO DE 2013
@@ -9,16 +8,26 @@
 
 ### _~~Institui o "Dia Estadual da Mulher Negra Latino-Americana e Caribenha"~~_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~<br>
-~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~<br>
-~~Artigo 1° - Fica instituído o "Dia Estadual da Mulher Negra Latino-Americana e Caribenha", a ser comemorado, anualmente, em 25 de julho, passando essa data a integrar o Calendário Oficial do Estado.~~<br>
-~~Artigo 2° - Esta lei entra em vigor na data de sua publicação.~~<br>
-~~Palácio dos Bandeirantes, 1° de outubro de 2013.~~<br>
-~~GERALDO ALCKMIN~~<br>
-~~Eloisa de Sousa Arruda~~<br>
-~~Secretária da Justiça e da Defesa da Cidadania~~<br>
-~~Edson Aparecido dos Santos~~<br>
-~~Secretário-Chefe da Casa Civil~~<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
+
+~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~
+
+~~Artigo 1° - Fica instituído o "Dia Estadual da Mulher Negra Latino-Americana e Caribenha", a ser comemorado, anualmente, em 25 de julho, passando essa data a integrar o Calendário Oficial do Estado.~~
+
+~~Artigo 2° - Esta lei entra em vigor na data de sua publicação.~~
+
+~~Palácio dos Bandeirantes, 1° de outubro de 2013.~~
+
+~~GERALDO ALCKMIN~~
+
+~~Eloisa de Sousa Arruda~~
+
+~~Secretária da Justiça e da Defesa da Cidadania~~
+
+~~Edson Aparecido dos Santos~~
+
+~~Secretário-Chefe da Casa Civil~~
+
 ~~Publicada na Assessoria Técnico-Legislativa, em 1° de outubro de 2013.~~
 
 Revogada.

@@ -1,5 +1,3 @@
-###DEC-087838-0-000-22-11-1982@@@
-
 Decreto nº 87.838, de 22 de novembro de 1982
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

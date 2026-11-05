@@ -1,5 +1,3 @@
-###DEC-067382-0-000-15-10-1970@@@
-
 decreto nº 67.382, de 15 de outubro de 1970.
 
 Declara de utilidade pública o Instituto Maria Auxiliadora, com sede em Goiânia, Estado de Goiás.

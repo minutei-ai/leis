@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209608)<br>
-
 # DECRETO N° 68.638, DE 20 DE JUNHO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Batalhão da Vanguarda", instituída pela Sociedade Veteranos de 1932 - MMDC Núcleo "Batalhão da Vanguarda" 1° Batalhão de Polícia de Choque "Tobias de Aguiar", e dá providências correlatas._

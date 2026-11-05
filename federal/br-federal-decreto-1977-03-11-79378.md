@@ -1,5 +1,3 @@
-###DEC-079378-0-000-11-03-1977@@@
-
 DECRETO Nº 79.378, DE 11 DE MARÇO DE 1977.
 
 Concede autorização à Companhia Wimpey Marine Limited para operar no mar territorial do Brasil o navio "M/V Wimpey Sealab", de nacionalidade inglesa, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

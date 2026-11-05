@@ -1,5 +1,3 @@
-###MPV-000372-0-000-22-05-2007@@@
-
 MEDIDA PROVISÓRIA Nº 372, DE 22 DE MAIO DE 2007.
 
 Dispõe sobre a utilização de recursos das exigibilidades de aplicação em crédito rural oriundos da poupança rural e dos depósitos à vista para financiamentos destinados à liquidação de dívidas de produtores rurais e suas cooperativas junto a fornecedores de insumos, relativas às safras 2004/2005 e 2005/2006, e dá outras providências.
@@ -103,5 +101,3 @@ LUIS INÁCIO LULA DA SILVA
 Guido Mantega
 
 Reinhold Stephanes
-
-Este texto não substitui o publicado no DOU de 23.5.2007.

@@ -1,5 +1,3 @@
-###DEL-006149-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.149 – DE 30 DE DEZEMBRO DE 1943
 
 Abro ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 10. 000. 000,00 para despesas com a administração do Território do Amapá e torna sem aplicação igual quantia no orçamento em vigor.

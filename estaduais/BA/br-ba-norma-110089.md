@@ -40,160 +40,15 @@ ANEXO I
 
 CORRELAÇÃO DE CARGOS
 
-<table class="border=1" cellspacing="0" cellpadding="0" width="641" style="border-collapse:collapse;border:none"><tbody><tr style="page-break-inside:avoid;height:18.05pt"><td width="52" rowspan="2" valign="top" style="width:38.95pt;border:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">Nível</p><p class="Tabela-Texto"><b>Apoio</b></p></td><td width="133" rowspan="2" style="width:99.55pt;border:solid windowtext 1.0pt;
-  border-left:none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b>Situação Atual</b></p></td><td width="180" colspan="2" valign="top" style="width:135.0pt;border:solid windowtext 1.0pt;
-  border-left:none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b>Situação a partir desta Lei</b></p></td><td width="192" colspan="4" valign="top" style="width:144.0pt;border:solid windowtext 1.0pt;
-  border-left:none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b>Quantitativo de Cargos</b></p></td><td width="84" rowspan="2" valign="top" style="width:63.0pt;border:solid windowtext 1.0pt;
-  border-left:none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b>Vencimento</b></p><p class="Tabela-Texto"><b>R$</b></p></td></tr><tr style="page-break-inside:avoid;height:18.05pt"><td width="84" valign="top" style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b>Nível Apoio</b></p></td><td width="96" valign="top" style="width:72.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b>Nomenclatura</b></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b><span lang="EN-US" xml:lang="EN-US">UNEB</span></b></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b><span lang="EN-US" xml:lang="EN-US">UEFS</span></b></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b><span lang="EN-US" xml:lang="EN-US">UESC</span></b></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><b>UESB</b></p></td></tr><tr style="page-break-inside:avoid;height:48.9pt"><td width="52" valign="top" style="width:38.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NA - 3</span></p></td><td width="133" valign="top" style="width:99.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Anatomia Necropsia</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Artes Gráficas</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Creche</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Laboratório</span></p></td><td width="84" valign="top" style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NA</span></p></td><td width="96" valign="top" style="width:72.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Auxiliar Universitário</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">230</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">70</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">50</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">50</span></p></td><td width="84" valign="top" style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">245,40</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2" valign="top"> Nível **Apoio** </td><td rowspan="2"> **Situação Atual** </td><td colspan="2" valign="top"> **Situação a partir desta Lei** </td><td colspan="4" valign="top"> **Quantitativo de Cargos** </td><td rowspan="2" valign="top"> **VencimentoR$** </td></tr><tr><td valign="top"> **Nível Apoio** </td><td valign="top"> **Nomenclatura** </td><td valign="top"> **UNEB** </td><td valign="top"> **UEFS** </td><td valign="top"> **UESC** </td><td valign="top"> **UESB** </td></tr><tr><td valign="top"> &nbsp; &nbsp; NA - 3 </td><td valign="top"> &nbsp; Auxiliar de Anatomia Necropsia Auxiliar de Artes Gráficas Auxiliar de Creche Auxiliar de Laboratório </td><td valign="top"> &nbsp; &nbsp; NA </td><td valign="top"> &nbsp; &nbsp; Auxiliar Universitário </td><td valign="top"> &nbsp; &nbsp; 230 </td><td valign="top"> &nbsp; &nbsp; 70 </td><td valign="top"> &nbsp; &nbsp; 50 </td><td valign="top"> &nbsp; &nbsp; 50 </td><td valign="top"> &nbsp; &nbsp; 245,40 </td></tr></tbody></table>
 
 CORRELAÇÃO DE CARGOS
 
-<table class="border=1" cellspacing="0" cellpadding="0" width="689" style="margin-left:0;border-collapse:collapse;border:none"><tbody><tr style="page-break-inside:avoid;height:18.05pt"><td width="57" rowspan="2" valign="top" style="width:42.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Nível</p><p class="Tabela-Texto">Médio</p></td><td width="188" rowspan="2" style="width:140.95pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><span style="">Situação Atual</span></p></td><td width="144" colspan="2" valign="top" style="width:108.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Situação a partir desta Lei</p></td><td width="204" colspan="4" valign="top" style="width:153.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Quantitativo de Cargos</p><p class="Tabela-Texto">&nbsp;</p></td><td width="96" rowspan="2" valign="top" style="width:72.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Vencimento</p><p class="Tabela-Texto">R$</p></td></tr><tr style="page-break-inside:avoid;height:18.05pt"><td width="96" valign="top" style="width:72.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">Nomenclatura</p></td><td width="48" style="width:36.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:18.05pt"><p class="Tabela-Texto">Nível</p></td><td width="60" valign="top" style="width:45.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">UNEB</p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><span lang="EN-US" xml:lang="EN-US">UEFS</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto"><span lang="EN-US" xml:lang="EN-US">UESC</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">UESB</p></td></tr><tr style="page-break-inside:avoid;height:48.9pt"><td width="57" valign="top" style="width:42.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NM - 1</span></p></td><td width="188" valign="top" style="width:140.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Agente Administrativo</span></p><p class="Tabela-Texto"><span style="">Agente de Áudio/Vídeo/Vídeo-tape</span></p><p class="Tabela-Texto"><span style="">Fotógrafo</span></p><p class="Tabela-Texto"><span style="">Recepcionista</span></p><p class="Tabela-Texto"><span style="">Técnico em Agropecuária</span></p></td><td width="96" rowspan="3" valign="top" style="width:72.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Assistente Técnico-Universitário</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">1</span></p></td><td width="60" valign="top" style="width:45.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">175</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">170</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">119</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">136</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="96" valign="top" style="width:72.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.9pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">245,40</span></p></td></tr><tr style="page-break-inside:avoid;height:38.6pt"><td width="57" valign="top" style="width:42.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:38.6pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NM - 2</span></p></td><td width="188" valign="top" style="width:140.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:38.6pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Assistente Administrativo</span></p><p class="Tabela-Texto"><span style="">Assistente Áudio-visual</span></p><p class="Tabela-Texto"><span style="">Assistente em Anatomia e Necropsia</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:38.6pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">2</span></p></td><td width="60" valign="top" style="width:45.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:38.6pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">179</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:38.6pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">22</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:38.6pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">96</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:38.6pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">11</span></p></td><td width="96" valign="top" style="width:72.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:38.6pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">248,70</span></p></td></tr><tr style="page-break-inside:avoid;height:77.95pt"><td width="57" valign="top" style="width:42.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:77.95pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NM - 3</span></p></td><td width="188" valign="top" style="width:140.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:77.95pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Assistente Administrativo</span></p><p class="Tabela-Texto"><span style="">Desenhista Técnico</span></p><p class="Tabela-Texto"><span style="">Editor de Vídeo-tape</span></p><p class="Tabela-Texto"><span style="">Técnico de Laboratório</span></p><p class="Tabela-Texto"><span style="">Técnico em Administração</span></p><p class="Tabela-Texto"><span style="">Técnico em Agrimensura</span></p><p class="Tabela-Texto"><span style="">Técnico Agropecuária/Agrícola</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:77.95pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">3</span></p></td><td width="60" valign="top" style="width:45.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:77.95pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">224</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:77.95pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">178</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:77.95pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">35</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:77.95pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">170</span></p></td><td width="96" valign="top" style="width:72.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:77.95pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">252,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2" valign="top"> &nbsp; Nível Médio </td><td rowspan="2"> Situação Atual </td><td colspan="2" valign="top"> &nbsp; Situação a partir desta Lei </td><td colspan="4" valign="top"> &nbsp; Quantitativo de Cargos &nbsp; </td><td rowspan="2" valign="top"> &nbsp; Vencimento R$ </td></tr><tr><td valign="top"> Nomenclatura </td><td> Nível </td><td valign="top"> UNEB </td><td valign="top"> UEFS </td><td valign="top"> UESC </td><td valign="top"> UESB </td></tr><tr><td valign="top"> &nbsp; &nbsp; NM - 1 </td><td valign="top"> &nbsp; Agente Administrativo Agente de Áudio/Vídeo/Vídeo-tape Fotógrafo Recepcionista Técnico em Agropecuária </td><td rowspan="3" valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assistente Técnico-Universitário </td><td valign="top"> &nbsp; &nbsp; 1 </td><td valign="top"> &nbsp; &nbsp; 175 &nbsp; &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; 170 </td><td valign="top"> &nbsp; &nbsp; 119 </td><td valign="top"> &nbsp; &nbsp; 136 &nbsp; </td><td valign="top"> &nbsp; &nbsp; 245,40 </td></tr><tr><td valign="top"> &nbsp; NM - 2 </td><td valign="top"> &nbsp; Assistente Administrativo Assistente Áudio-visual Assistente em Anatomia e Necropsia </td><td valign="top"> &nbsp; &nbsp; 2 </td><td valign="top"> &nbsp; &nbsp; 179 </td><td valign="top"> &nbsp; &nbsp; 22 </td><td valign="top"> &nbsp; &nbsp; 96 </td><td valign="top"> &nbsp; &nbsp; 11 </td><td valign="top"> &nbsp; &nbsp; 248,70 </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; NM - 3 </td><td valign="top"> &nbsp; Assistente Administrativo Desenhista Técnico Editor de Vídeo-tape Técnico de Laboratório Técnico em Administração Técnico em Agrimensura Técnico Agropecuária/Agrícola </td><td valign="top"> &nbsp; &nbsp; &nbsp; 3 </td><td valign="top"> &nbsp; &nbsp; &nbsp; 224 </td><td valign="top"> &nbsp; &nbsp; &nbsp; 178 </td><td valign="top"> &nbsp; &nbsp; &nbsp; 35 </td><td valign="top"> &nbsp; &nbsp; &nbsp; 170 </td><td valign="top"> &nbsp; &nbsp; &nbsp; 252,00 </td></tr></tbody></table>
 
 CORRELAÇÃO DE CARGOS
 
-<table class="border=1" cellspacing="0" cellpadding="0" width="656" style="margin-left:0;border-collapse:collapse;border:none"><tbody><tr style="page-break-inside:avoid;height:18.05pt"><td width="81" rowspan="2" valign="top" style="width:61.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Nível</p><p class="Tabela-Texto">Superior</p></td><td width="144" rowspan="2" style="width:108.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">Situação Atual</p></td><td width="144" colspan="2" style="width:108.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">Situação a partir desta Lei</p></td><td width="192" colspan="4" valign="top" style="width:144.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Quantitativo de Cargos</p><p class="Tabela-Texto">&nbsp;</p></td><td width="94" rowspan="2" valign="top" style="width:70.55pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Vencimento</p><p class="Tabela-Texto">R$</p></td></tr><tr style="page-break-inside:avoid;height:18.05pt"><td width="96" style="width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:18.05pt"><p class="Tabela-Texto">Nomenclatura</p></td><td width="48" style="width:36.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:18.05pt"><p class="Tabela-Texto">Nível</p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">UNEB</p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">UEFS</p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">UESC</p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:18.05pt"><p class="Tabela-Texto">UESB</p></td></tr><tr style="page-break-inside:avoid;height:212.0pt"><td width="81" valign="top" style="width:61.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NS ? 1</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="144" rowspan="2" valign="top" style="width:108.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Administrador</span></p><p class="Tabela-Texto"><span style="">Analista de Sistema</span></p><p class="Tabela-Texto"><span style="">Antropólogo</span></p><p class="Tabela-Texto"><span style="">Arqueólogo</span></p><p class="Tabela-Texto"><span style="">Arquiteto</span></p><p class="Tabela-Texto"><span style="">Assistente Social</span></p><p class="Tabela-Texto"><span style="">Astrônomo</span></p><p class="Tabela-Texto"><span style="">Bibliotecário</span></p><p class="Tabela-Texto"><span style="">Biólogo</span></p><p class="Tabela-Texto"><span style="">Contador</span></p><p class="Tabela-Texto"><span style="">Economista</span></p><p class="Tabela-Texto"><span style="">Enfermeiro</span></p><p class="Tabela-Texto"><span style="">Engenheiro Agrônomo</span></p><p class="Tabela-Texto"><span style="">Engenheiro Civil</span></p><p class="Tabela-Texto"><span style="">Estatístico</span></p><p class="Tabela-Texto"><span style="">Farmacêutico</span></p><p class="Tabela-Texto"><span style="">Filósofo</span></p><p class="Tabela-Texto"><span style="">Físico</span></p><p class="Tabela-Texto"><span style="">Fisioterapeuta</span></p><p class="Tabela-Texto"><span style="">Geógrafo</span></p><p class="Tabela-Texto"><span style="">Geólogo</span></p><p class="Tabela-Texto"><span style="">Historiógrafo</span></p><p class="Tabela-Texto"><span style="">Jornalista</span></p><p class="Tabela-Texto"><span style="">Matemático</span></p><p class="Tabela-Texto"><span style="">Médico</span></p><p class="Tabela-Texto"><span style="">Médico Veterinário</span></p><p class="Tabela-Texto"><span style="">Museólogo</span></p><p class="Tabela-Texto"><span style="">Músico</span></p><p class="Tabela-Texto"><span style="">Nutricionista</span></p><p class="Tabela-Texto"><span style="">Odontólogo</span></p><p class="Tabela-Texto"><span style="">Pedagogo</span></p><p class="Tabela-Texto"><span style="">Psicólogo</span></p><p class="Tabela-Texto"><span style="">Químico</span></p><p class="Tabela-Texto"><span style="">Relações Públicas</span></p><p class="Tabela-Texto"><span style="">Revisor de Textos</span></p><p class="Tabela-Texto"><span style="">Secretária Executiva</span></p><p class="Tabela-Texto">Sociólogo</p><p class="Tabela-Texto"><span style="">Tradutor/Interprete</span></p><p class="Tabela-Texto"><span style="">Zootecnista</span></p></td><td width="96" rowspan="2" valign="top" style="width:72.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Técnico Universitário</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">1</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">150</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">140</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">140</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">60</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="94" valign="top" style="width:70.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">330,00</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td></tr><tr style="page-break-inside:avoid;height:212.0pt"><td width="81" valign="top" style="width:61.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NS - 2</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">2</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">125</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">110</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">60</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="48" valign="top" style="width:36.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">45</span></p></td><td width="94" valign="top" style="width:70.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:212.0pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">395,50</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2" valign="top"> &nbsp; Nível Superior </td><td rowspan="2"> Situação Atual </td><td colspan="2"> Situação a partir desta Lei </td><td colspan="4" valign="top"> &nbsp; Quantitativo de Cargos &nbsp; </td><td rowspan="2" valign="top"> &nbsp; Vencimento R$ </td></tr><tr><td> Nomenclatura </td><td> Nível </td><td valign="top"> UNEB </td><td valign="top"> UEFS </td><td valign="top"> UESC </td><td valign="top"> UESB </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NS ? 1 &nbsp; </td><td rowspan="2" valign="top"> &nbsp; Administrador Analista de Sistema Antropólogo Arqueólogo Arquiteto Assistente Social Astrônomo Bibliotecário Biólogo Contador Economista Enfermeiro Engenheiro Agrônomo Engenheiro Civil Estatístico Farmacêutico Filósofo Físico Fisioterapeuta Geógrafo Geólogo Historiógrafo Jornalista Matemático Médico Médico Veterinário Museólogo Músico Nutricionista Odontólogo Pedagogo Psicólogo Químico Relações Públicas Revisor de Textos Secretária Executiva Sociólogo Tradutor/Interprete Zootecnista </td><td rowspan="2" valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Técnico Universitário </td><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 </td><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 150 &nbsp; </td><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 140 &nbsp; </td><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 140 &nbsp; </td><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 60 &nbsp; </td><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 330,00 &nbsp; </td></tr><tr><td valign="top"> &nbsp; NS - 2 </td><td valign="top"> &nbsp; 2 </td><td valign="top"> &nbsp; 125 </td><td valign="top"> &nbsp; 110 </td><td valign="top"> &nbsp; 60 &nbsp; </td><td valign="top"> &nbsp; 45 </td><td valign="top"> &nbsp; 395,50 &nbsp; </td></tr></tbody></table>
 
 ANEXO II
 
@@ -201,65 +56,220 @@ QUADRO ESPECIAL
 
 (a ser extinto com a vacância)
 
-<table class="border=1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr style="page-break-inside:avoid;height:23.25pt"><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">NÍVEL APOIO</p></td><td width="360" style="width:270.0pt;border:solid windowtext 1.0pt;border-left:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">CARGOS</p></td><td width="131" style="width:98.45pt;border:solid windowtext 1.0pt;border-left:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">VENCIMENTO (R$)</p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NA - 1</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="360" style="width:270.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Ascensorista</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Cozinha</span></p><p class="Tabela-Texto"><span style="">Auxiliar Operacional</span></p><p class="Tabela-Texto"><span style="">Auxiliar Rural</span></p><p class="Tabela-Texto"><span style="">Contínuo</span></p><p class="Tabela-Texto"><span style="">Copeiro</span></p><p class="Tabela-Texto"><span style="">Servente de Limpeza</span></p><p class="Tabela-Texto"><span style="">Servente de Obras</span></p></td><td width="131" style="width:98.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">240,00</span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NA - 2</span></p></td><td width="360" style="width:270.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Carpintaria</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Chapeador/Lanterneiro/Funileiro</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Encanador</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Mecânica</span></p><p class="Tabela-Texto"><span style="">Chaveiro</span></p><p class="Tabela-Texto"><span style="">Porteiro</span></p><p class="Tabela-Texto"><span style="">Vidraceiro</span></p></td><td width="131" style="width:98.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">242,10</span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NA - 3</span></p></td><td width="360" style="width:270.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">Armazenista</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Industrial e Cons. Alimentar</span></p><p class="Tabela-Texto"><span style="">Auxiliar de Nutrição</span></p><p class="Tabela-Texto"><span style="">Auxiliar em Agropecuária</span></p><p class="Tabela-Texto"><span style="">Auxiliar Operacional</span></p><p class="Tabela-Texto"><span style="">Carpinteiro</span></p><p class="Tabela-Texto"><span style="">Cozinheiro</span></p><p class="Tabela-Texto"><span style="">Encanador</span></p><p class="Tabela-Texto"><span style="">Jardineiro</span></p><p class="Tabela-Texto"><span style="">Marceneiro</span></p><p class="Tabela-Texto"><span style="">Motociclista</span></p><p class="Tabela-Texto"><span style="">Operador de Máquinas Copiadoras</span></p><p class="Tabela-Texto"><span style="">Operador de Máquinas Agrícolas</span></p><p class="Tabela-Texto"><span style="">Paginador</span></p><p class="Tabela-Texto"><span style="">Pedreiro</span></p><p class="Tabela-Texto"><span style="">Pintor</span></p></td><td width="131" style="width:98.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">245,40</span></p></td></tr></tbody></table>
+NÍVEL APOIO
+
+CARGOS
+
+VENCIMENTO (R$)
+
+NA - 1
+
+Ascensorista
+
+Auxiliar de Cozinha
+
+Auxiliar Operacional
+
+Auxiliar Rural
+
+Contínuo
+
+Copeiro
+
+Servente de Limpeza
+
+Servente de Obras
+
+240,00
+
+NA - 2
+
+Auxiliar de Carpintaria
+
+Auxiliar de Chapeador/Lanterneiro/Funileiro
+
+Auxiliar de Encanador
+
+Auxiliar de Mecânica
+
+Chaveiro
+
+Porteiro
+
+Vidraceiro
+
+242,10
+
+NA - 3
+
+Armazenista
+
+Auxiliar de Industrial e Cons. Alimentar
+
+Auxiliar de Nutrição
+
+Auxiliar em Agropecuária
+
+Auxiliar Operacional
+
+Carpinteiro
+
+Cozinheiro
+
+Encanador
+
+Jardineiro
+
+Marceneiro
+
+Motociclista
+
+Operador de Máquinas Copiadoras
+
+Operador de Máquinas Agrícolas
+
+Paginador
+
+Pedreiro
+
+Pintor
+
+245,40
 
 QUADRO ESPECIAL
 
 (a ser extinto com a vacância)
 
-<table class="border=1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr style="page-break-inside:avoid;height:23.25pt"><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">NÍVEL MÉDIO</p></td><td width="360" style="width:270.0pt;border:solid windowtext 1.0pt;border-left:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">CARGOS</p></td><td width="131" style="width:98.45pt;border:solid windowtext 1.0pt;border-left:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">VENCIMENTO (R$)</p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NM - 1</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td><td width="360" style="width:270.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">Agente Atendente de Consultório</span></p><p class="Tabela-Texto"><span style="">Agente de Metodologia</span></p><p class="Tabela-Texto"><span style="">Agente de Processamento de Dados</span></p><p class="Tabela-Texto"><span style="">Agente de Topografia</span></p><p class="Tabela-Texto"><span style="">Agente de Veterinária e Zootecnia</span></p><p class="Tabela-Texto"><span style="">Contra-mestre Ofício</span></p><p class="Tabela-Texto"><span style="">Datilógrafo</span></p><p class="Tabela-Texto"><span style="">Digitador</span></p><p class="Tabela-Texto"><span style="">Eletricista</span></p><p class="Tabela-Texto"><span style="">Fotogravador</span></p><p class="Tabela-Texto"><span style="">Impressor</span></p><p class="Tabela-Texto"><span style="">Laboratorista</span></p><p class="Tabela-Texto"><span style="">Linotipista</span></p><p class="Tabela-Texto"><span style="">Mecânico</span></p><p class="Tabela-Texto"><span style="">Motorista</span></p><p class="Tabela-Texto"><span style="">Telefonista</span></p><p class="Tabela-Texto"><span style="">Vigilante</span></p></td><td width="131" style="width:98.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">245,40</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NM - 2</span></p></td><td width="360" style="width:270.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">Agente Veterinário Zootecnista</span></p><p class="Tabela-Texto"><span style="">Almoxarife</span></p><p class="Tabela-Texto"><span style="">Assistente em Equipamento Médico-Odontólogo</span></p><p class="Tabela-Texto"><span style="">Assistente de Enfermagem</span></p><p class="Tabela-Texto"><span style="">Assistente em Herbário</span></p><p class="Tabela-Texto"><span style="">Assistente em Piscicultura</span></p><p class="Tabela-Texto"><span style="">Mestre Ofício</span></p><p class="Tabela-Texto"><span style="">Operador de Computador</span></p></td><td width="131" style="width:98.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">248,70</span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p><p class="Tabela-Texto"><span style="">NM - 3</span></p></td><td width="360" style="width:270.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">Datilógrafo Especializado</span></p><p class="Tabela-Texto"><span style="">Outros Técnicos de Nível Médio</span></p><p class="Tabela-Texto"><span style="">Programador de Computador</span></p><p class="Tabela-Texto"><span style="">Técnica de Enfermagem do Trabalho</span></p><p class="Tabela-Texto"><span style="">Técnico de Manutenção de Áudio/Vídeo</span></p><p class="Tabela-Texto"><span style="">Técnico em Contabilidade</span></p><p class="Tabela-Texto"><span style="">Técnico em Eletricidade</span></p><p class="Tabela-Texto"><span style="">Técnico em Meteorologia</span></p><p class="Tabela-Texto"><span style="">Técnico em Processamento</span></p><p class="Tabela-Texto"><span style="">Técnico em Secretariado</span></p><p class="Tabela-Texto"><span style="">Técnico em Telecomunicações</span></p><p class="Tabela-Texto"><span style="">Tesoureiro</span></p></td><td width="131" style="width:98.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">252,00</span></p><p class="Tabela-Texto"><span style="">&nbsp;</span></p></td></tr></tbody></table>
+NÍVEL MÉDIO
+
+CARGOS
+
+VENCIMENTO (R$)
+
+NM - 1
+
+Agente Atendente de Consultório
+
+Agente de Metodologia
+
+Agente de Processamento de Dados
+
+Agente de Topografia
+
+Agente de Veterinária e Zootecnia
+
+Contra-mestre Ofício
+
+Datilógrafo
+
+Digitador
+
+Eletricista
+
+Fotogravador
+
+Impressor
+
+Laboratorista
+
+Linotipista
+
+Mecânico
+
+Motorista
+
+Telefonista
+
+Vigilante
+
+245,40
+
+NM - 2
+
+Agente Veterinário Zootecnista
+
+Almoxarife
+
+Assistente em Equipamento Médico-Odontólogo
+
+Assistente de Enfermagem
+
+Assistente em Herbário
+
+Assistente em Piscicultura
+
+Mestre Ofício
+
+Operador de Computador
+
+248,70
+
+NM - 3
+
+Datilógrafo Especializado
+
+Outros Técnicos de Nível Médio
+
+Programador de Computador
+
+Técnica de Enfermagem do Trabalho
+
+Técnico de Manutenção de Áudio/Vídeo
+
+Técnico em Contabilidade
+
+Técnico em Eletricidade
+
+Técnico em Meteorologia
+
+Técnico em Processamento
+
+Técnico em Secretariado
+
+Técnico em Telecomunicações
+
+Tesoureiro
+
+252,00
 
 QUADRO ESPECIAL
 
 (a ser extinto com a vacância)
 
-<table class="border=1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr style="page-break-inside:avoid;height:23.25pt"><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">NÍVEL SUPERIOR</p></td><td width="360" style="width:270.0pt;border:solid windowtext 1.0pt;border-left:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">CARGOS</p></td><td width="131" style="width:98.45pt;border:solid windowtext 1.0pt;border-left:
-  none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:23.25pt"><p class="Tabela-Texto">VENCIMENTO (R$)</p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">NS- 1</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p></td><td width="360" style="width:270.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Engenheiro Agrimensor</p><p class="Tabela-Texto">Outros Profissionais de Nível Superior</p><p class="Tabela-Texto">Técnico em Assuntos Educacionais</p><p class="Tabela-Texto">Técnico em Educação Física</p><p class="Tabela-Texto">Técnico em Cooperativismo</p><p class="Tabela-Texto">Tecnólogo</p></td><td width="131" style="width:98.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">330,00</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">NS - 2</p></td><td width="360" style="width:270.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">Engenheiro Agrimensor</p><p class="Tabela-Texto">Outros Profissionais de Nível Superior</p><p class="Tabela-Texto">Técnico em Assuntos Educacionais</p><p class="Tabela-Texto">Técnico em Educação Física</p><p class="Tabela-Texto">Técnico em Cooperativismo</p><p class="Tabela-Texto">Tecnólogo</p></td><td width="131" style="width:98.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">395,50</p></td></tr></tbody></table>
+NÍVEL SUPERIOR
+
+CARGOS
+
+VENCIMENTO (R$)
+
+NS- 1
+
+Engenheiro Agrimensor
+
+Outros Profissionais de Nível Superior
+
+Técnico em Assuntos Educacionais
+
+Técnico em Educação Física
+
+Técnico em Cooperativismo
+
+Tecnólogo
+
+330,00
+
+NS - 2
+
+Engenheiro Agrimensor
+
+Outros Profissionais de Nível Superior
+
+Técnico em Assuntos Educacionais
+
+Técnico em Educação Física
+
+Técnico em Cooperativismo
+
+Tecnólogo
+
+395,50

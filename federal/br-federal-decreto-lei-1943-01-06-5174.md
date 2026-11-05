@@ -1,5 +1,3 @@
-###DEL-005174-0-000-06-01-1943@@@
-
 DECRETO‑LEI N. 5.174 – DE 6 DE JANEIRO DE 1943
 
 Cria a 14ª Companhia de Engenhos da 14ª Divisão de Infantaria

@@ -1,5 +1,3 @@
-###DEC-071798-0-000-01-02-1973@@@
-
 DECRETO Nº 71798, DE 1 DE FEVEREIRO DE 1973.
 
 Concede à Mineração Geral do Nordeste S.A. o direito de lavrar caulim no município de Guaramiranga, Estado do Ceará.

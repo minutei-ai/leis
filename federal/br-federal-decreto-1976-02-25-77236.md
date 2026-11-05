@@ -1,5 +1,3 @@
-###DEC-077236-0-000-25-02-1976@@@
-
 Decreto nº 77.236, de 25 de fevereiro de 1976.
 
 Autoriza o funcionamento da Faculdade de Engenharia Civil de Passos, com sede na Cidade de Passos, Estado de Minas Gerais.

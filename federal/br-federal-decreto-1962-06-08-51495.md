@@ -1,5 +1,3 @@
-###DEC-051495-0-000-08-06-1962@@@
-
 decreto nº 51.495, de 8 de junho de 1962.
 
 Altera o Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

@@ -51,7 +51,117 @@ SITUAÇÃO PROPOSTA
 | LOTE 02B | 240,00 |
 | LOTE 03A | 240,00 |
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 03B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 04A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 05A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 06A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 09A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 09B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 10A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 10B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 11A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 12A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 15A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 15B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 16A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 16B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 17A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 17B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 18A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 18B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 19A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 19B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 20A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 20B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 21A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 22A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 23A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 24A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 25A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 26A</td><td style="text-align:center">240,00</td></tr></tbody></table>
+LOTE 03B
+
+240,00
+
+LOTE 04A
+
+240,00
+
+LOTE 05A
+
+240,00
+
+LOTE 06A
+
+240,00
+
+LOTE 09A
+
+240,00
+
+LOTE 09B
+
+240,00
+
+LOTE 10A
+
+240,00
+
+LOTE 10B
+
+240,00
+
+LOTE 11A
+
+240,00
+
+LOTE 12A
+
+240,00
+
+LOTE 15A
+
+240,00
+
+LOTE 15B
+
+240,00
+
+LOTE 16A
+
+240,00
+
+LOTE 16B
+
+240,00
+
+LOTE 17A
+
+240,00
+
+LOTE 17B
+
+240,00
+
+LOTE 18A
+
+240,00
+
+LOTE 18B
+
+240,00
+
+LOTE 19A
+
+240,00
+
+LOTE 19B
+
+240,00
+
+LOTE 20A
+
+240,00
+
+LOTE 20B
+
+240,00
+
+LOTE 21A
+
+240,00
+
+LOTE 22A
+
+240,00
+
+LOTE 23A
+
+240,00
+
+LOTE 24A
+
+240,00
+
+LOTE 25A
+
+240,00
+
+LOTE 26A
+
+240,00
 
 Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.012.901, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -59,8 +169,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 11 de abril de 2023
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana

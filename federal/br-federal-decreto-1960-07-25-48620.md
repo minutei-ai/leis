@@ -1,5 +1,3 @@
-###DEC-048620-0-000-25-07-1960@@@
-
 DECRETO Nº 48.620, DE 25 DE JULHO DE 1960.
 
 Concede à Alfa Importação e Exportação Limitada autorização para funcionar como emprêsa de mineração.

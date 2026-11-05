@@ -1,5 +1,3 @@
-###DEL-006797-0-000-17-08-1944@@@
-
 DECRETO-LEI N. 6.797 – DE 17 DE AGÔSTO DE 1944
 
 Altera carreiras do Quadro Suplementar do Ministério da Marinha e dá outras providências

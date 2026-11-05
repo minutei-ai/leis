@@ -1,5 +1,3 @@
-###DEC-095461-0-000-11-12-1987@@@
-
 DECRETO Nº 95.461, DE 11 DE DEZEMBRO DE 1987
 
 Revoga o Decreto nº 68.796, de 23 de junho de 1971, e revigora o Decreto n° 41.721, de 25 de junho de 1957, concernentes à Convenção nº 81, da Organização Internacional do Trabalho.

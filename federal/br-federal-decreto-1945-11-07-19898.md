@@ -1,22 +1,20 @@
-###DEC-019898-0-000-07-11-1945@@@
+**DECRETO Nº 19.989, DE 7 DE NOVEMBRO DE 1945.**
 
-<strong>DECRETO Nº 19.989, DE 7 DE NOVEMBRO DE 1945.</strong>
+***Promulga o Convênio para permuta de livros e publicações, entre o Brasil e a República Dominicana, firmado no Rio de Janeiro, a 9 de abril de 1945.***
 
-<em><strong>Promulga o Convênio para permuta de livros e publicações, entre o Brasil e a República Dominicana, firmado no Rio de Janeiro, a 9 de abril de 1945.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, tendo em vista que foi aprovado a 25 de abril de 1945 e retificado a 12 de junho de 1945, pelo Govêrno brasileiro, o Convênio para permuta de livros e publicações, entre o Brasil a República, Dominicana, firmado no Rio de Janeiro, a 9 de abril de 1945; e
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, tendo em vista que foi aprovado a 25 de abril de 1945 e retificado a 12 de junho de 1945, pelo Govêrno brasileiro, o Convênio para permuta de livros e publicações, entre o Brasil a República, Dominicana, firmado no Rio de Janeiro, a 9 de abril de 1945; e
+HAVENDO sido trocados os respectivos instrumentos de ratificação em Ciundad Trujillo, a 27 de outubro de 1945, e usando da atribuição que lhe confere o art. 74, letra *a*, da Constituição,
 
-HAVENDO sido trocados os respectivos instrumentos de ratificação em Ciundad Trujillo, a 27 de outubro de 1945, e usando da atribuição que lhe confere o art. 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica promulgado o Convênio para permuta de livro e publicações apenso por cópia ao presente Decreto e firmado no Rio de Janeiro, a 9 de abril de 1945.
 
-<strong>Art</strong>. 1º Fica promulgado o Convênio para permuta de livro e publicações apenso por cópia ao presente Decreto e firmado no Rio de Janeiro, a 9 de abril de 1945.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação.
 
 Rio de Janeiro, 7 de novembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 P. Leão Veloso
 
@@ -24,7 +22,7 @@ Getulio Dornelles Vargas, Presidente da República dos Estados Unidos do Brasil.
 
 Faço saber, aos que a presente Carta de ratificação virem, que, entre a República dos Estados Unidos do Brasil e a República Dominicana foi concluído e assinado, pelos respectivos Plenipotenciários, no Rio de Janeiro, a 9 de abril de 1945, o Convênio para permuta de livros e publicações, do teor seguinte:
 
-<strong>CONVÊNIO PARA PERMUTA DE LIVROS E PUBLICAÇÕES ENTRE A REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL E A REPÚBLICA DOMINICANA.</strong>
+**CONVÊNIO PARA PERMUTA DE LIVROS E PUBLICAÇÕES ENTRE A REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL E A REPÚBLICA DOMINICANA.**
 
 Os governos da República dos Estados Unidos do Brasil e da República Dominicana, com o intuito de afirmar as relações culturais entre os dois países e de desenvolver o intercâmbio permanente de publicações oficiais, culturais e científicas, em harmonia com a Convenção de Bruxelas de 15 de março de 1886, sôbre permuta de documentos oficiais e publicações científicas e literárias, resolveram celebrar um Convênio com aquêle objetivo e para tal fim, Nomearam seus Plenipotenciários, a saber:
 
@@ -54,7 +52,7 @@ Cada uma das Partes Contratantes poderá denuncia-lo em qualquer momento, mas se
 
 Em fé do que, os Plenipotenciários acima mencionados firmam o presente Convênio, em dois exemplares, nas línguas portuguesa e castelhana, e lhes apõem seus selos, na Cidade do Rio de Janeiro, aos nove dias do mês de abril do ano de mil novecentos e quarenta e cinco.
 
-<strong>CONVÊNIO PARA EL CAMBIO DE LIBROS Y PUBLICACIONES ENTRE LA REPÚBLICA DE LOS ESTADOS UNIDOS DEL BRASIL Y LA REPÚBLICA DOMINICANA.</strong>
+**CONVÊNIO PARA EL CAMBIO DE LIBROS Y PUBLICACIONES ENTRE LA REPÚBLICA DE LOS ESTADOS UNIDOS DEL BRASIL Y LA REPÚBLICA DOMINICANA.**
 
 Los Gobiernos de la República de los Estados Unidos del Brasil y de la República Dominicana, com el propósito de afirmar las relaciones culturales entre los dos países y de desarrollar el intercambio permanente de publicaciones oficiales, culturales y científicas, de acuerdo com la Convención de Bruselas del 15 de marzo del 1886, sobre cammbio de documentos oficiales y puvlicaciones científicas y literarias, han resulto celebrar un convenio com esse objetivo, y para tal fin, han designado sus Plenipotenciarios, a saber:
 
@@ -94,6 +92,6 @@ Em firmeza do que, mandei passar esta Carta que assino e é selada com o sêlo d
 
 Dada no Palácio da Presidência, no Rio de Janeiro, aos doze do mês de junho de mil novecentos e quarenta e cinco, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 José Roberto de Macedo Soares

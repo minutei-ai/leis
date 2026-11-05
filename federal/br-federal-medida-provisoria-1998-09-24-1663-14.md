@@ -1,5 +1,3 @@
-###MPV-001663-0-014-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.663-14, DE 24 DE SETEMBRO DE 1998
 
 Dispõe sobre a recuperação de haveres do Tesouro Nacional e do Instituto Nacional do Seguro Social - INSS, a utilização de Títulos da Dívida Pública, de responsabilidade do Tesouro Nacional, na quitação de débitos com o INSS, altera dispositivos das Leis nºs 7.986, de 28 de dezembro de 1989, 8.036, de 11 de maio de 1990, 8.212, de 24 de julho de 1991, 8.213, de 24 de julho de 1991, 8.742, de 7 de dezembro de 1993, e 9.639, de 25 de maio de 1998, e dá outras providências.
@@ -254,7 +252,61 @@ FATOR DE REAJUSTE DOS BENEFÍCIOS CONCEDIDOS DE
 
 ACORDO COM AS RESPEcTIVAS DATAS DE INÍCIO
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DATA DE INÍCIO DO BENEFÍCIO</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>REAJUSTE (%)</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>até maio/96</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7,76</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em junho/96</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7,14</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em julho/96</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6,53</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em agosto/96</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5,92</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em setembro/96</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5,31</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em outubro/96</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4,71</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em novembro/96</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4,11</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em dezembro/96</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3,51</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em janeiro/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2,92</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em fevereiro/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2,33</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em março/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,74</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em abril/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,16</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em maio/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,58</span></p></td></tr></tbody></table>
+DATA DE INÍCIO DO BENEFÍCIO
+
+REAJUSTE (%)
+
+até maio/96
+
+7,76
+
+em junho/96
+
+7,14
+
+em julho/96
+
+6,53
+
+em agosto/96
+
+5,92
+
+em setembro/96
+
+5,31
+
+em outubro/96
+
+4,71
+
+em novembro/96
+
+4,11
+
+em dezembro/96
+
+3,51
+
+em janeiro/97
+
+2,92
+
+em fevereiro/97
+
+2,33
+
+em março/97
+
+1,74
+
+em abril/97
+
+1,16
+
+em maio/97
+
+0,58
 
 ANEXO II
 
@@ -262,4 +314,54 @@ FATOR DE REAJUSTE DOS BENEFÍCiOS CONCedIDOS DE
 
 ACORDO COM AS RESPECtIVAS DATAS DE INÍCIO
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DATA DE INÍCIO DO BENEFÍCIO</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>REAJUSTE (%)</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>até junho/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4,81</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em julho/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4,40</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em agosto/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3,99</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em setembro/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3,59</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em outubro/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3,18</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em novembro/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2,78</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em dezembro/97</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2,38</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em janeiro/98</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,98</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em fevereiro/98</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,58</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em março/98</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,18</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em abril/98</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,79</span></p></td></tr><tr><td style="width:237.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>em maio/98</span></p></td><td style="width:159.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,39</span></p></td></tr></tbody></table>
+DATA DE INÍCIO DO BENEFÍCIO
+
+REAJUSTE (%)
+
+até junho/97
+
+4,81
+
+em julho/97
+
+4,40
+
+em agosto/97
+
+3,99
+
+em setembro/97
+
+3,59
+
+em outubro/97
+
+3,18
+
+em novembro/97
+
+2,78
+
+em dezembro/97
+
+2,38
+
+em janeiro/98
+
+1,98
+
+em fevereiro/98
+
+1,58
+
+em março/98
+
+1,18
+
+em abril/98
+
+0,79
+
+em maio/98
+
+0,39

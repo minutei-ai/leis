@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210077)<br>
-
 # DECRETO N° 68.937, DE 03 DE OUTUBRO DE 2024
 
 ### _Estabelece a gratuidade dos serviços de transporte público coletivo de passageiros do Estado de São Paulo, nos dias 6 e 27 de outubro de 2024, nas condições que especifica._

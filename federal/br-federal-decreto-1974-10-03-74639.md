@@ -1,5 +1,3 @@
-###DEC-074639-0-000-03-10-1974@@@
-
 DECRETO Nº 74.639, DE 3 DE OUTUBRO DE 1974.
 
 Declara de utilidade pública, para fins de Constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, Estado de Goiás.

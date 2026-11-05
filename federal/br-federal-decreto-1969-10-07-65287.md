@@ -1,5 +1,3 @@
-###DEC-065287-0-000-07-10-1969@@@
-
 DECRETO Nº 65.287 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto nº 7.334, de 5 de junho de 1941, retificado pelo Decreto nº 10.727, de 28 de outubro de 1942.

@@ -1,5 +1,3 @@
-###DEC-054141-0-000-17-08-1964@@@
-
 DECRETO Nº 54.141, DE 17 DE AGôSTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de rodagem, área de terreno, situada no Município de Don Cavati, Estado de Minas Gerais.

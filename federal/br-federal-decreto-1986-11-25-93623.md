@@ -1,5 +1,3 @@
-###DEC-093623-0-000-25-11-1986@@@
-
 DECRETO Nº 93.623, DE 25 DE NOVEMBRO DE 1986
 
 Dispõe sobre o aumento do Capital Social da ALBRÁS - Alumínio Brasileiro S.A.

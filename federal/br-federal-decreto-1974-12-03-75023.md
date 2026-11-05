@@ -1,5 +1,3 @@
-###DEC-075023-0-000-03-12-1974@@@
-
 DECRETO Nº 75.023, de 3 DE Dezembro DE 1974.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras "Prof. Carlos Pasquale", mantida pela Sociedade Educacional "Liceu Acadêmico São Paulo", com sede na cidade de São Paulo, Estado de São Paulo.

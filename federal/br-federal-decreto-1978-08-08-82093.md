@@ -1,5 +1,3 @@
-###DEC-082093-0-000-08-08-1978@@@
-
 DECRETO Nº 82.093, DE 08 DE AGOSTO DE 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Empresa Distribuidora de Energia em Sergipe S.A. - ENERGIPE, no Estado de Sergipe.

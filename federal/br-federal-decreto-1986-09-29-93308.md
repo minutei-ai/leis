@@ -1,5 +1,3 @@
-###DEC-093308-0-000-29-09-1986@@@
-
 DECRETO Nº 93.308, DE 29 DE SETEMBRO DE 1986
 
 Altera a denominação do Centro de Relações Públicas do Ministério da Aeronáutica.

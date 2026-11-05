@@ -1,5 +1,3 @@
-###DEC-045400-0-000-06-02-1959@@@
-
 DECRETO Nº 45.400, DE 6 DE FEVEREIRO DE 1959.
 
 Altera o divisor de conversão aplicável ao pagamento de vencimentos, salário, remuneração e quaisquer vantagens a servidores civis e militares em exercício no exterior e para efeito de escrituração das operações de receita e despesa, realizadas pela Delegacia do Tesouro Brasileiro no Exterior.

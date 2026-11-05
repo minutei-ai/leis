@@ -1,5 +1,3 @@
-###DEL-006146-0-000-29-12-1943@@@
-
 DECRETO‑LEI N. 6.146 – DE 29 De DEZEMBRO DE 1943
 
 Cria, no Ministério da Fazenda, o cargo, em comissão, de Administrador do Edifício da Fazenda, e dá outras providências

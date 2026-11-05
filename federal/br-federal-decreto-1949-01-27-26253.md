@@ -1,14 +1,12 @@
-###DEC-026253-0-000-27-01-1949@@@
+**DECRETO Nº 26.253, DE 27 DE JANEIRO DE 1949.**
 
-<strong>DECRETO Nº 26.253, DE 27 DE JANEIRO DE 1949.</strong>
+***Suprime cargos extintos.***
 
-<em><strong>Suprime cargos extintos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1º, alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1º, alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos os cargos das seguintes carreiras, do Quadro Suplementar do Ministério da Educação e Saúde.
+**Art**. 1º Ficam suprimidos os cargos das seguintes carreiras, do Quadro Suplementar do Ministério da Educação e Saúde.
 
 Artífice - 2 cargos da classe D, vagos em virtude da promoção de Sebastião Rosa de Sousa e Sebastião Duarte Sousa;
 
@@ -22,10 +20,10 @@ Maquinista-Marítimo - 1 cargo da classe F, vago em virtude do falecimento de Ge
 
 Servente - 6 cargos da classe C, vagos em virtude da exoneração de Aires Prata Sodré e João Francisco do Nascimento Júnior, promoção de Gilberto da Silva Raul Garcia e Rodrigo Moreira e da aposentadoria de Moisés Firmo Coelho; devendo a dotação correspondente ser levada a crédito da conta-corrente do mesmo Quadro do referido Ministério.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 27 de janeiro de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani

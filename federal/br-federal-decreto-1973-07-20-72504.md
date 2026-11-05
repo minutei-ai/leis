@@ -1,5 +1,3 @@
-###DEC-072504-0-000-20-07-1973@@@
-
 DECRETO Nº 72.504, de 20 de julho de 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra rural e respectiva faixa de acesso, sem benfeitorias, situadas no município de Curvelo, Estado de Minas Gerais, destinadas à instalação de uma estação repetidora de microondas e serviços afins, nela Companhia Telefônica de Minas Gerais.

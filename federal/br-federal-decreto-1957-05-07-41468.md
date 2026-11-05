@@ -1,6 +1,4 @@
-###DEC-041468-0-000-07-05-1957@@@
-
-<strong>DECRETO Nº 41.468, DE 7 DE MAIO DE 1957.</strong>
+**DECRETO Nº 41.468, DE 7 DE MAIO DE 1957.**
 
 <!-- fac-simile-oficial:inicio -->
 

@@ -1,5 +1,3 @@
-###DEC-058215-0-000-19-04-1966@@@
-
 DECRETO Nº 58.215, DE 19 DE ABRIL DE 1966.
 
 Aprova alteração introduzida nos Estatutos da Companhia de Seguros Aliança da Bahia relativa ao aumento dos honorários da Diretoria.

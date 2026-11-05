@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ed0b1e66-0f19-4fe1-a13f-657882740813/texto#nowhere)
 
-###DEL-000462-0-000-11-02-1969@@@
-
 DECRETO-LEI Nº 462, DE 11 DE FEVEREIRO DE 1969
 
 Estabelece normas para resguardo da poupança popular

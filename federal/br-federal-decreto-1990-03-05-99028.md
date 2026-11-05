@@ -1,7 +1,3 @@
-1
-
-###DEC-099028-0-000-05-03-1990@@@
-
 DECRETO N° 99.028, DE 5 DE MARÇO DE 1990.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Contábeis e Administração de Tangará da Serra.

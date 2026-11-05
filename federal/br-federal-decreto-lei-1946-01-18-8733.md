@@ -1,5 +1,3 @@
-###DEL-008733-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.733 – DE 18 DE JANEIRO DE 1946
 
 Autoriza a mudança de nomes de distritos do Estado do Rio de Janeiro para que se homonageie a memória dos engenheiros Paulo de Frontin e Sampaio Correia.

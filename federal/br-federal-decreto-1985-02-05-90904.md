@@ -1,5 +1,3 @@
-###DEC-090904-0-000-05-02-1985@@@
-
 DECRETO Nº 90.904, DE 05 DE FEVREIRO DE 1985
 
 Outorga concessão à TV TIRADENTES LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Juiz de Fora, Estado de Minas Gerais.

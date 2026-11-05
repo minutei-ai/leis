@@ -1,5 +1,3 @@
-###DEC-052218-0-000-02-07-1963@@@
-
 DECRETO Nº 52.218, DE 2 DE JUlHO DE 1963.
 
 Autoriza o cidadão brasileiro Júlio dos Santos a pesquisar argila no município de Taubaté, Estado do São Paulo.

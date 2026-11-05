@@ -1,5 +1,3 @@
-###DEC-068702-0-000-03-06-1971@@@
-
 DECRETO Nº 68.702 - DE 3 DE JUNHO DE 1971.
 
 Dá nova redação ao artigo 15 do Decreto nº 66.118, de 26 de janeiro de 1970.

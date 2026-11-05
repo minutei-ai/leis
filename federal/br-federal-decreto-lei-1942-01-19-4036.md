@@ -1,5 +1,3 @@
-###DEL-004036-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.036 – DE 19 DE JANEIRO DE 1942
 
 Declara isentos de selo os contratos do Banco do Brasil celebrados com o Distrito Federal, Estados e Municípios

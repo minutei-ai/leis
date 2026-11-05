@@ -1,5 +1,3 @@
-###DEL-006479-0-000-09-05-1944@@@
-
 DECRETO-LEI N. 6.479 – DE 9 DE MAIO DE 1944
 
 Cria carreiras no Quadro Único do Ministério do Trabalho, Indústria e Comércio, e dá outras providências

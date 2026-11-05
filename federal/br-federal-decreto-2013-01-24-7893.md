@@ -1,5 +1,3 @@
-###DEC-007893-0-000-24-01-2013-PUB-01@@@
-
 DECRETO Nº\- 7.893, DE 24 DE JANEIRO DE 2013
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória.

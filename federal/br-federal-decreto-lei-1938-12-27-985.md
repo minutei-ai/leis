@@ -1,5 +1,3 @@
-###DEL-000985-0-000-27-12-1938@@@
-
 DECRETO-LEI N. 985 – DE 27 DE DEZEMBRO DE 1938
 
 Autoriza o Diretor da Imprensa Nacional a efetuar permuta de máquinas com a firma V. Lambert & Comp., e dá outras providências

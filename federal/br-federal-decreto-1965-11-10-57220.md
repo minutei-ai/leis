@@ -1,5 +1,3 @@
-###DEC-057220-0-000-10-11-1965@@@
-
 Decreto nº 57.220, de 10 de novembro de 1965.
 
 Autoriza a Mineração Ouro Branco Limitada a pesquisar caulim, no município de Cotia, no Estado de São Paulo.

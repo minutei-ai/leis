@@ -1,5 +1,3 @@
-###DEC-073923-0-000-10-04-1974@@@
-
 DECRETO Nº 73.923, DE 10 DE ABRIL DE 1974.
 
 Concede a Abilio Pedro S.A. Indústria e Comércio o direito de lavrar calcário dolomítico no Município de Pereiras, Estado de São Paulo.

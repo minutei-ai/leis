@@ -1,5 +1,3 @@
-###LCP-000052-0-000-16-04-1986@@@
-
 # LEI COMPLEMENTAR Nº 52, DE 16 DE ABRIL DE 1986
 
 Inclui o Município de Maracanaú, recém-desmembrado do Município de Maranguape, na região metropolitana de Fortaleza, alterando o § 8º do art. 1º da Lei Complementar nº 14, de 8 de junho de 1973.

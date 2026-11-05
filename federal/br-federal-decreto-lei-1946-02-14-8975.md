@@ -1,5 +1,3 @@
-###DEL-008975-0-000-14-02-1946@@@
-
 DECRETO-LEI N. 8. 975 – DE 14 DE FEVEREIRO DE 1946
 
 Estende aos cidadãos  das classes de 1924 e 1925, convocados pelas 4ª e 5ª‘ Regiões Militares e considerados insubmissos, os benefícios do Decreto-lei nº 8.383, de dezembro de 1945.

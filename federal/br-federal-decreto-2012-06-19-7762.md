@@ -1,5 +1,3 @@
-###DEC-007762-0-000-19-06-2012-PUB-01@@@
-
 DECRETO N° 7.762, DE 19 DE JUNHO DE 2012
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da República de Cuba para a Cooperação nos Setores de Pesca e Aquicultura, firmado em Havana, em 26 de setembro de 2003.

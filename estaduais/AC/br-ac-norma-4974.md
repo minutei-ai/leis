@@ -1,6 +1,10 @@
 > **LEI Nº 3.877, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece as Igrejas e os Templos de qualquer culto, como atividade essencial em períodos de calamidade pública.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece as Igrejas e os Templos de qualquer culto, como atividade essencial em períodos de calamidade pública.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

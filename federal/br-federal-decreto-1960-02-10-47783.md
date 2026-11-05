@@ -1,5 +1,3 @@
-###DEC-047783-0-000-10-02-1960@@@
-
 DECRETO Nº 47.783, DE 10 DE FEVEREIRO DE 1960.
 
 Regulamenta a concessão das gratificações previstas no art. 145, itens V e VI, da Lei nº 1.711, de 28 de outubro de 1952, aos servidores lotados em estabelecimentos gráficos da União e dá outras providências.

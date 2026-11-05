@@ -1,5 +1,3 @@
-###DEC-046700-0-000-21-08-1959@@@
-
 DECRETO Nº 46.700, DE 21 DE AGÔSTO DE 1959.
 
 Concede à Companhia Burroughs do Brasil, Inc. autorização para continuar a funcionar na República.

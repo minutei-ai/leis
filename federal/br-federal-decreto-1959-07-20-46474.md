@@ -1,5 +1,3 @@
-###DEC-046474-0-000-20-07-1959@@@
-
 DECRETO Nº 46.474, DE 20 DE JULHO DE 1959.
 
 Autoriza estrangeiro a adquirir, em regime de ocupação, a fração ideal do terreno de marinha que menciona, situado no Distrito Federal.

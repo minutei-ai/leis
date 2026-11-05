@@ -1,5 +1,3 @@
-###DEL-005745-0-000-13-08-1943@@@
-
 DECRETO‑LEI N.  5.745 – DE 13  AGÔSTO DE 1943
 
 Cria, no Quadro Permanente do Ministério da Marinha, a carreira de Tecnologista, altera a de Engenheiro do mesmo Quadro e Ministério e dá outras providências
@@ -30,4 +28,170 @@ MINISTÉRIO DA MARINHA
 
 QUADRO PERMANENTE
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:46.45pt; border-top-style:double; border-top-width:1.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Núm. de cargos</span></p></td><td style="width:45.9pt; border-style:double solid solid; border-width:1.5pt 0.75pt 0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Carreira ou cargo</span></p></td><td style="width:35.5pt; border-style:double solid solid; border-width:1.5pt 0.75pt 0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Classe ou padrão</span></p></td><td style="width:35.55pt; border-style:double solid solid; border-width:1.5pt 0.75pt 0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Exce- dentes</span></p></td><td style="width:28.45pt; border-style:double solid solid; border-width:1.5pt 0.75pt 0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Vagos</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.4pt; border-style:double double solid solid; border-width:1.5pt 1.5pt 0.75pt 0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Quadro</span></p></td><td style="width:28.45pt; border-top-style:double; border-top-width:1.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Núm. De cargos</span></p></td><td style="width:70.95pt; border-top-style:double; border-top-width:1.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Carreira ou cargo</span></p></td><td style="width:35.55pt; border-style:double solid solid; border-width:1.5pt 0.75pt 0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Classe ou padrão</span></p></td><td style="width:28.45pt; border-style:double solid solid; border-width:1.5pt 0.75pt 0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Exce-dentes</span></p></td><td style="width:28.4pt; border-style:double solid solid; border-width:1.5pt 0.75pt 0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Vagos</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-top-style:double; border-top-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Observações</span></p></td></tr><tr style="height:32.55pt"><td style="width:46.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">5</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; text-decoration:underline">__6__</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">22</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:45.9pt; border-style:solid solid double; border-width:0.75pt 0.75pt 1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p></td><td style="width:35.5pt; border-style:solid solid double; border-width:0.75pt 0.75pt 1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">N</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">M</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">L</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">K</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">J</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.55pt; border-style:solid solid double; border-width:0.75pt 0.75pt 1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; border-style:solid solid double; border-width:0.75pt 0.75pt 1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">5</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">__</span><span style="font-size:0.8em; text-decoration:underline">5_</span><span style="font-size:0.8em">_</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">21</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.4pt; border-style:solid double double solid; border-width:0.75pt 1.5pt 1.5pt 0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Q. P.</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Q. P</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Q. P.</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Q. P.</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Q. P.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; text-decoration:underline">__4__</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">15</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; text-decoration:underline">__4__</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">15</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Engenheiro .........</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; font-style:italic">Tecnologista:</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">...............................</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">...............................</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">...............................</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">...............................</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">...............................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.55pt; border-style:solid solid double; border-width:0.75pt 0.75pt 1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">N</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">M</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">L</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">K</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">J</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">N</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">M</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">L</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">K</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">J</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; border-style:solid solid double; border-width:0.75pt 0.75pt 1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.4pt; border-style:solid solid double; border-width:0.75pt 0.75pt 1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; text-decoration:underline">__3__</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">14</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em; text-decoration:underline">__4__</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">15</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Núm. de cargos
+
+Carreira ou cargo
+
+Classe ou padrão
+
+Exce- dentes
+
+Vagos
+
+Quadro
+
+Núm. De cargos
+
+Carreira ou cargo
+
+Classe ou padrão
+
+Exce-dentes
+
+Vagos
+
+Observações
+
+3
+
+4
+
+4
+
+5
+
+__6__
+
+22
+
+Engenheiro .........
+
+Engenheiro .........
+
+Engenheiro .........
+
+Engenheiro .........
+
+Engenheiro .........
+
+N
+
+M
+
+L
+
+K
+
+J
+
+3
+
+4
+
+4
+
+5
+
+__5__
+
+21
+
+Q. P.
+
+Q. P
+
+Q. P.
+
+Q. P.
+
+Q. P.
+
+2
+
+2
+
+3
+
+4
+
+__4__
+
+15
+
+2
+
+2
+
+3
+
+4
+
+__4__
+
+15
+
+Engenheiro .........
+
+Engenheiro .........
+
+Engenheiro .........
+
+Engenheiro .........
+
+Engenheiro .........
+
+Tecnologista:
+
+...............................
+
+...............................
+
+...............................
+
+...............................
+
+...............................
+
+N
+
+M
+
+L
+
+K
+
+J
+
+N
+
+M
+
+L
+
+K
+
+J
+
+2
+
+2
+
+3
+
+4
+
+__3__
+
+14
+
+2
+
+2
+
+3
+
+4
+
+__4__
+
+15

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209549)<br>
-
 # DECRETO N° 68.597, DE 10 DE JUNHO DE 2024
 
 ### _Autoriza a abertura de licitação para a concessão administrativa para a construção, manutenção, conservação, gestão e operação dos serviços não-pedagógicos, organizada nos Lotes Leste e Oeste, e aprova o respectivo regulamento_
@@ -52,12 +50,14 @@ Renato Feder          
 
 #### REGULAMENTO DA CONCESSÃO ADMINISTRATIVA DE UNIDADES ESCOLARES - LOTES LESTE E OESTE    
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar a concessão administrativa para a construção, manutenção, conservação, gestão e operação dos serviços não-pedagógicos de um total de 33 (trinta e três) novas Unidades de Ensino de Nível Médio e Ensino Fundamental II no Estado de São Paulo, organizada nos Lotes Leste e Oeste.    
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Concessão
 
 **Artigo 2° -** O objeto da concessão compreende a construção, manutenção, conservação, gestão e operação de 33 (trinta e três) novas Unidades de Ensino de Nível Médio e Ensino Fundamental II no Estado de São Paulo, organizada em dois lotes, a saber Lote Leste e Lote Oeste, compreendendo a prestação de serviços não-pedagógicos, associados ao funcionamento, conservação e manutenção das unidades escolares, não incluídos serviços pedagógicos, nos termos do caderno de encargos que acompanha o edital de licitação.    
@@ -72,7 +72,8 @@ III -Tipologia C: 35 (trinta e cinco) salas de aula.    
 
 **Artigo 4° -** O prazo da concessão será de 25 (vinte e cinco) anos, contado na forma prevista no contrato de concessão.    
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Serviços Não Pedagógicos
 
 **Artigo 5° -** A prestação dos serviços não pedagógicos será realizada pela concessionária, ou por terceiros por ela contratados, e inclui, entre outros estabelecidos no caderno de encargos que acompanha o edital de licitação:  
@@ -89,7 +90,8 @@ V - jardinagem e controle de pragas, incluindo poda, roçada, dedetização peri
 
 VI - atividades de vida diária, envolvendo exclusivamente o apoio aos alunos que não conseguem acessar com autonomia as instalações escolares.    
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Dos Direitos e das Obrigações da Concessionária
 
 **Artigo 6° -** São direitos e obrigações da concessionária, durante todo o prazo de concessão, sem prejuízo do disposto no contrato de concessão e na legislação pertinente:
@@ -114,7 +116,8 @@ IX - reportar por escrito ao Poder Concedente e à ARSESP a ocorrência de event
 
 X - cooperar e apoiar o desenvolvimento das atividades de acompanhamento e de fiscalização do Poder Concedente e da ARSESP.    
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Dos Direitos e das Obrigações do Poder Concedente
 
 **Artigo 7° -** Incumbe ao Poder Concedente, dentre outros direitos e obrigações previstos no contrato:
@@ -137,7 +140,8 @@ VIII - ser responsável, exclusivamente, pela prestação dos serviços pedagóg
 
 IX - emitir a ordem de início, após a satisfação das condições de eficácia previstas no contrato.    
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Dos Direitos e Obrigações da Comunidade Escolar
 
 **Artigo 8° -** São direitos e obrigações da Comunidade Escolar:
@@ -160,7 +164,8 @@ VIII - ter garantida a proteção de suas informações pessoais, nos termos da 
 
 IX - usufruir das Unidades de Ensino e dos serviços sem qualquer tipo de discriminação de origem, raça, sexo, orientação sexual ou idade, assegurado o direito ao uso do nome social e o reconhecimento da identidade de gênero.    
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa e das Penalidades
 
 **Artigo 9° -** A Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP atuará, na forma prevista no contrato, no acompanhamento da concessão e na fiscalização dos serviços concedidos.
@@ -187,7 +192,8 @@ c) a mensuração dos indicadores de desempenho realizada pelo verificador indep
 
 **§ 2° -** Os fatores a que se refere o §1° serão aferidos a partir dos parâmetros definidos nos anexos do contrato.    
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Das Receitas
 
 **Artigo 11 -** Constituem fontes de receita da concessionária, a serem auferidas nos termos do contrato de concessão:
@@ -204,7 +210,8 @@ V - outras receitas previstas no edital e no contrato respectivo, ou que venham 
 
 **Parágrafo único -** A Concessionária receberá do Poder Concedente, em função dos investimentos efetivamente realizados, aporte de recursos na forma do artigo 6°, §2°, da Lei federal n° 11.079/2004, na forma disciplinada no contrato.    
 
-#### CAPÍTULO IX<br>
+#### CAPÍTULO IX
+
 Das Disposições Gerais
 
 **Artigo 12 -** O Poder Concedente providenciará, mediante proposta da concessionária, as medidas para a declaração de utilidade pública dos bens e áreas necessários à implantação de unidades escolares, nos termos do contrato de concessão administrativa, responsabilizando-se a concessionária pela promoção das desapropriações e servidões administrativas, bem como pelas respectivas indenizações, na forma autorizada pelo Poder Público.  

@@ -1,5 +1,3 @@
-###DEC-097568-0-000-09-03-1989@@@
-
 DECRETO N° 97.568, DE 9 DE MARÇO DE 1989
 
 Institui comissão destinada a elaborar estudos relativos a fixação de desenho definitivo da Bandeira Nacional.

@@ -1,5 +1,3 @@
-###DEC-075523-0-000-21-03-1975@@@
-
 DECRETO Nº 75.523, DE 21 DE MARÇO DE 1975.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras conta as Secas - DNOCS, área de terra abrangida pelo Projeto de Irrigação "Pau dos Ferros", nos Municípios de Pau dos Ferros, São Francisco do Oeste e Francisco Dantas, no Estado do Rio Grande do Norte.

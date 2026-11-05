@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211915)<br>
-
 # DECRETO N° 70.137, DE 01 DE DEZEMBRO DE 2025
 
 ### _Institui a Medalha Mérito Científico D. Pedro II do Instituto Agronômico (IAC) e dá providências correlatas._
@@ -20,7 +18,8 @@ Arthur Luis Pinho de Lima
 
 Regulamento da Honraria
 
-#### Capítulo I<br>
+#### Capítulo I
+
 Da Honraria
 
 **Artigo 1° -** A medalha Mérito Científico D. Pedro II do Instituto Agronômico (IAC) tem por objetivo reconhecer e galardoar personalidades, físicas ou jurídicas, civis ou militares, nacionais ou estrangeiras, que tenham contribuído de maneira ímpar para o desenvolvimento científico ou que tenham prestado relevantes serviços ao Instituto Agronômico (IAC), ao Estado de São Paulo e a seu povo.
@@ -59,7 +58,8 @@ a) anverso: nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) verso: Dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual da Ordem do Ipiranga.
 
-#### Capítulo II<br>
+#### Capítulo II
+
 Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 4° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho de Outorgas.
@@ -72,7 +72,8 @@ Da Chancelaria e da Comissão de Outorgas
 
 **Parágrafo único -** O total de membros da Comissão de Outorgas, incluindo seu presidente, deve ser em número ímpar para evitar empates nas votações.
 
-#### Capítulo III<br>
+#### Capítulo III
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 6° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual da Ordem do Ipiranga.
@@ -97,7 +98,8 @@ III - Coordenador do Instituto Agronômico (IAC), Grão-Mestre e Chanceler, para
 
 **Artigo 9° -** Caso a honraria permaneça por muito tempo sem ser outorgada e/ou nos casos em que a Comissão de Outorga seja dissolvida, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no Artigo 7°.
 
-#### Capítulo IV<br>
+#### Capítulo IV
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 10 -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas a Comissão de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -132,7 +134,8 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 17 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### Capítulo V<br>
+#### Capítulo V
+
 Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 18 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -153,7 +156,8 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual da Ordem do Ipiranga.
 
-#### Capítulo VI<br>
+#### Capítulo VI
+
 Das Cerimônias de Outorga
 
 **Artigo 21 -** A entrega das medalhas será feita, anualmente, em solenidade pública, de preferência em 27 de junho, na presença do Grão-Mestre.
@@ -178,7 +182,8 @@ Das Cerimônias de Outorga
 
 **§ 3° -** Os membros da Chancelaria devem ostentar ao menos a roseta (botão de lapela) da honraria a ser outorgada.
 
-#### Capítulo VII<br>
+#### Capítulo VII
+
 Das Disposições Finais
 
 **Artigo 24 -** Na hipótese da extinção dessa condecoração no todo ou em parte, seus cunhos, exemplares e complementos remanescentes, serão recolhidos ao Conselho Estadual da Ordem do Ipiranga sem ônus para os cofres públicos.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098151-0-000-18-09-1989@@@
-
 DECRETO Nº 98.151, DE 18 DE SETEMBRO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “FAZENDA SUMATRA” (parte), situado no Município de Bodoquena, Estado de Mato Grosso do Sul, e dá outras providências.

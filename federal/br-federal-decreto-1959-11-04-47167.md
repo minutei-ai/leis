@@ -1,5 +1,3 @@
-###DEC-047167-0-000-04-11-1959@@@
-
 DECRETO Nº 47.167, DE 4 DE NOVEMBRO DE 1959.
 
 Regula a importação de borracha

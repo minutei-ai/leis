@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58196)
-
 # LEI Nº 12.077, DE 04 DE OUTUBRO DE 2005
 
 ## (PL 1260/2003 - Valdomiro Lopes)

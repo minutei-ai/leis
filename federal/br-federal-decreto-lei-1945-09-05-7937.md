@@ -1,5 +1,3 @@
-###DEL-007937-0-000-05-09-1945@@@                                                                                                                                                                                                                
-
 DECRETO-LEI N. 7.937 – DE 5 DE SETEMBRO DE 1945
 
 Dispõe sôbre o loteamento de terrenos de marinha

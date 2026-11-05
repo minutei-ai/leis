@@ -1,5 +1,3 @@
-###DEL-003655-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.655 – DE 25 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 118:067$6, à verba, que especifica

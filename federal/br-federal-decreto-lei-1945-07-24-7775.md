@@ -1,5 +1,3 @@
-###DEL-007775-0-000-24-07-1945@@@
-
 DECRETO-LEI N. 7.775 – DE 24 DE JULHO DE 1945
 
 Dispõe sôbre a Organização Administrativa do Território Federal do Rio Branco e dá outras providências.

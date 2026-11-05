@@ -1,5 +1,3 @@
-###DEC-045023-0-000-04-12-1958@@@
-
 DECRETO Nº 45.023, DE 4 DE DEZEMBRO DE 1958.
 
 Transfere de Maria das Dores Pires de Alvarenga e herdeiros para a Companhia Montanhesa de Eletricidade a concessão para produção e fornecimento de energia elétrica ao Município de Guanhães, Estado de Minas Gerais.

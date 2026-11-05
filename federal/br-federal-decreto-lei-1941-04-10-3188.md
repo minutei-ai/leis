@@ -1,5 +1,3 @@
-###DEL-003188-0-000-10-04-1941@@@
-
 DECRETO-LEI N. 3.188 – DE 10 DE ABRIL DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 14:000$0, para pagamento de vantagens de representação devidas em 1940 aos membros da Comissão Especial Revisora de Títulos de Terra.

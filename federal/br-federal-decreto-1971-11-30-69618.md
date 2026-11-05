@@ -1,5 +1,3 @@
-###DEC-069618-0-000-30-11-1971@@@
-
 DECRETO Nº 69.618 - DE 30 DE Novembro DE 1971
 
 Dispõe sôbre a isenção do IPI dos produtos destinados à construção, instalação, ampliação ou modernização de sedes de embaixadas e repartições consulares.

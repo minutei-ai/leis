@@ -1,5 +1,3 @@
-###DEC-002646-0-000-30-06-1998@@@
-
 DECRETO Nº 2.646, DE 30 DE JUNHO DE 1998
 
 Dispõe sobre a dissolução da Companhia de Colonização do Nordeste - COLONE, e dá outras providências.

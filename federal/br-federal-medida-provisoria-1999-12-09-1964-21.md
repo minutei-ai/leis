@@ -1,5 +1,3 @@
-###MPV-001964-0-021-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.964-21, DE 9 DE DEZEMBRO DE 1999.
 
 Altera as Leis nos 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e dá outras providências.

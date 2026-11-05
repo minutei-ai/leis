@@ -1,5 +1,3 @@
-###DEC-092372-0-000-06-02-1986@@@
-
 DECRETO Nº 92.372, DE 06 DE FEVEREIRO DE 1986
 
 Autoriza o Governo do Estado do Piauí a explorar, através da FUNDAÇÃO DE APOIO AO DESENVOLVIMENTO DA EDUCAÇÃO DO ESTADO DO PIAUÍ - FADEP, na cidade de Teresina, Estado do Piauí, serviço de radiodifusão sonora em onda média, mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

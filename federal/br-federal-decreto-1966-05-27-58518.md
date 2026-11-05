@@ -1,5 +1,3 @@
-###DEC-058518-0-000-27-05-1966@@@
-
 DECRETO Nº 58.518, DE 27 DE MAIO DE 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$104.765.000, para o fim que específica.

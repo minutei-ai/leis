@@ -1,5 +1,3 @@
-###DEC-006307-0-000-14-12-2007@@@
-
 DECRETO Nº 6.307, DE 14 DE DEZEMBRO DE 2007.
 
 Dispõe sobre os benefícios eventuais de que trata o art. 22 da Lei no 8.742, de 7 de dezembro de 1993.
@@ -93,5 +91,3 @@ Dispõe sobre os benefícios eventuais de que trata o art. 22 da Lei no 8.742, d
 LUIZ INÁCIO LULA DA SILVA
 
 Patrus Aninas
-
-Este texto não substitui o publicado no DOU de 17.12.2007

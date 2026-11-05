@@ -1,5 +1,3 @@
-###DEC-050839-0-000-24-06-1961@@@
-
 DECRETO Nº 50.839, DE 24 DE JUNHO DE 1961.
 
 Dispõe sôbre a dissolução da Comissão de Habilitação de Pensões Vitalícias e dá outras providências.

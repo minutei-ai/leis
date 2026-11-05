@@ -1,5 +1,3 @@
-###DEC-006516-0-000-28-07-2008@@@
-
 DECRETO Nº 6.516, DE 28 DE JULHO DE 2008.
 
 Promulga as Emendas, adotadas em 18 de maio de 1998, à Convenção Internacional sobre Busca e Salvamento Marítimo, de 1979.

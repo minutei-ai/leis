@@ -1,5 +1,3 @@
-###DEL-008575-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.575 – DE 8 DE JANEIRO DE 1946
 
 Cria o Serviço de Pronto Socorro de Canoas.

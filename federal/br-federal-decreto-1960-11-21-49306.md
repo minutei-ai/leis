@@ -1,5 +1,3 @@
-###DEC-049306-0-000-21-11-1960@@@
-
 DECRETO Nº 49.306, DE 21 DE NOVEMBRO DE 1960.
 
 Altera o Quadro de Pessoal do Hospital dos servidores do estado, do Instituto de Previdência e Assistência dos Servidores do Estado.

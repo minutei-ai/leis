@@ -1,5 +1,3 @@
-###DEC-051003-0-000-19-07-1961@@@
-
 DECRETO Nº 51.003, DE 19 DE JULHO DE 1961.
 
 Reduz de 1% o impôsto de consumo incidente sôbre salitre do Chile e duplo de sódio e potássio.

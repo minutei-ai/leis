@@ -1,5 +1,3 @@
-###DEC-073803-0-000-12-03-1974@@@
-
 DECRETO Nº 73.803, DE 12 DE MARÇO DE 1974.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno de acrescido de marinha que menciona, situado em Fortaleza, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-056752-0-000-18-08-1965@@@
-
 DECRETO Nº 56.752, DE 18 DE AGÔSTO DE 1965.
 
 Dispõe sôbre a criação do Grupo Executivo do Fundo Nacional de Financiamento para abastecimento d’Água (GEF), previsto no Convênio DNOS/USAID.

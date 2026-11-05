@@ -1,5 +1,3 @@
-###DEC-058117-0-000-30-03-1966@@@
-
 DECRETO Nº 58.117, DE 30 DE MArçO DE 1966.
 
 Autoriza o cidadão brasileiro Gabriel Marques da Silva a pesquisar caulim no município de Santana do Parnaíba, Estado de São Paulo.

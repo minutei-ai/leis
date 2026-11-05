@@ -1,5 +1,3 @@
-###DEC-078653-0-000-27-10-1976@@@
-
 DECRETO Nº 78.653, DE 27 DE outubro DE 1976.
 
 Autoriza o funcionamento do curso de Ciências da Fundação Faculdade Estadual de Filosofia, Ciências e Letras de União da Vitória, Paraná.

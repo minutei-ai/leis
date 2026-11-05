@@ -1,5 +1,3 @@
-###DEC-065139-0-000-11-09-1969@@@
-
 DECRETO Nº 65.139 - DE 11 DE SETEMBRO DE 1969.
 
 Concede autorização à firma Geophysical Service Incorporated para operar em águas brasileiras com o barco especializado M/V "Caribean Seal", de bandeira norte-americana, nos serviços que especifica.

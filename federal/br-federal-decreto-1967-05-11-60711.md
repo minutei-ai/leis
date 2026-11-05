@@ -1,5 +1,3 @@
-###DEC-060711-0-000-11-05-1967@@@
-
 DECRETO Nº 60.711, DE 11 DE MAIO DE 1967.
 
 Cria cargo em comissão no Quadro de Pessoal da Comissão de Marinha Mercante.

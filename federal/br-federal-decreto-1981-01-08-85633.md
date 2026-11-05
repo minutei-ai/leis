@@ -1,5 +1,3 @@
-###DEC-085633-0-000-08-01-1981@@@
-
 Decreto nº 85.633, de 08 de janeiro de 1981.
 
 Dispõe sobre a ocupação, por servidores da Administração Federal, de imóveis residenciais localizados no Distrito Federal.

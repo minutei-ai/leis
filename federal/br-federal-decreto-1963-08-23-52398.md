@@ -1,5 +1,3 @@
-###DEC-052398-0-000-23-08-1963@@@
-
 DECRETO Nº 52.398, DE 23 DE AGÔSTO DE 1963.
 
 Altera dispositivo do decreto número 52.316, de 1º de agôsto de 1963.

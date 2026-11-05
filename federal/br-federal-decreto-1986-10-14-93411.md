@@ -1,5 +1,3 @@
-###DEC-093411-0-000-14-10-1986@@@
-
 DECRETO Nº 93.411, DE 14 DE OUTUBRO DE 1986.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), áreas de terra necessárias à construção do Açude "Anagé", nos Municípios de Anagé e Tremendal, Estado da Bahia, e dá outras providências.

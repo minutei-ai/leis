@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/af6bcd1d-20d5-4fae-a911-a2acedd91e77/texto#nowhere)
 
-###DEL-000456-0-000-06-02-1969@@@
-
 DECRETO-LEI Nº 456, DE 6 DE FEVEREIRO DE 1969
 
 Acrescenta o § 5º ao artigo 21 do Decreto-lei nº 67, de 21 de novembro e 1966, cujo § 3º foi alterado pela Lei nº 5.434, de 14 de maio de 1968.

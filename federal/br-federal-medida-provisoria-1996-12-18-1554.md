@@ -1,7 +1,3 @@
-1
-
-###MPV-001554-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.554, de 18 de DEZEMBRO DE 1996.
 
 Altera os arts. 2º, 3º, 4º, 5º e 7º da Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público, e dá outras providências.

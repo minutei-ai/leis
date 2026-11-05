@@ -1,5 +1,3 @@
-###DEC-048959-0-000-16-09-1960@@@
-
 DECRETO Nº 48.959, DE 16 DE setembro DE 1960.
 
 Autoriza a firma Zitrin S.A. - Jóias e Curiosidades, a comprar pedras preciosas.

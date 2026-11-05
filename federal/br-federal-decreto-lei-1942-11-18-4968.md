@@ -1,5 +1,3 @@
-###DEL-004968-0-000-18-11-1942@@@
-
 DECRETO-LEI N. 4.968 – DE 18 DE NOVEMBRO DE 1942
 
 Estabelece o local para a futura construção da Escola de Aeronáutica e dá outras providências

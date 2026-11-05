@@ -1,5 +1,3 @@
-###DEC-086216-0-000-15-07-1981@@@
-
 Decreto nº 86.216, de 15 de julho de 1981.
 
 Dispõe sobre a Comissão Naval Brasileira na Europa.

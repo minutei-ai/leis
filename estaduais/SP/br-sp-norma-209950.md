@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209950)<br>
-
 # DECRETO LEGISLATIVO N° 2.554, DE 10 DE SETEMBRO DE 2024
 
 ### _Aprova a indicação de membro para integrar o Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP._

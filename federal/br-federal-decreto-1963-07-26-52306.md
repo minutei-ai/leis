@@ -1,5 +1,3 @@
-###DEC-052306-0-000-26-07-1963@@@
-
 DECRETO Nº 52.306, DE 26 DE JULHO DE 1963.
 
 Prorroga mandato da Comissão Censitária Nacional.

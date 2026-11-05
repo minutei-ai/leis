@@ -1,5 +1,3 @@
-###DEC-058997-0-000-04-08-1966@@@
-
 DECRETO Nº 58.997, DE 4 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Renato Salgado Pinheiro a pesquisar minério de cobre no município de Itararé, Estado de São Paulo.

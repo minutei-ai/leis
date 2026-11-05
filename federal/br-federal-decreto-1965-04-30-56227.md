@@ -1,5 +1,3 @@
-###DEC-056227-0-000-30-04-1965@@@
-
 DECRETO Nº 56.227, de 30 de abril de 1965.
 
 Modifica os artigos 63 e 64 do Decreto nº 41.019, de 26 de fevereiro de 1957, que regulamentou os serviços de energia elétrica.

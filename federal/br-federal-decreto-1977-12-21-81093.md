@@ -1,5 +1,3 @@
-###DEC-081093-0-000-21-12-1977@@@
-
 DECRETO Nº 81.093, DE 21 DE DEZEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Direito da Faculdade de Ciências Jurídicas e Sociais de Barbacena, com sede na cidade de Barbacena, Estado de Minas Gerais.

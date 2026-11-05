@@ -1,5 +1,3 @@
-###DEL-009508-0-000-24-07-1946@@@
-
 DECRETO-LEI N. 9.508 – DE 24 DE JULHO DE 1946
 
 Libera depósito no Banco do Brasil

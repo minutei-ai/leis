@@ -1,6 +1,10 @@
 > **LEI Nº 4.835, DE 06 DE AGOSTO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o recebimento de bem imóvel de propriedade do Município de Plácido de Castro, a título de doação, para fins de implantação de unidades habitacionais.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o recebimento de bem imóvel de propriedade do Município de Plácido de Castro, a título de doação, para fins de implantação de unidades habitacionais.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

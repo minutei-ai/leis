@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209194)<br>
-
 # DECRETO N° 68.391, DE 15 DE MARÇO DE 2024
 
 ### _Transfere, do Tribunal de Justiça para a Secretaria de Gestão e Governo Digital, a administração do imóvel que especifica, localizado no Município de Bariri, e autoriza a Fazenda do Estado a permitir seu uso, a título precário e gratuito, por prazo indeterminado, em favor da União, por intermédio do Tribunal Regional Eleitoral de São Paulo._

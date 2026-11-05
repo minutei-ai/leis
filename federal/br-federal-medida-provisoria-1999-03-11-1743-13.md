@@ -1,5 +1,3 @@
-###MPV-001743-0-013-11-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.743-13, DE 11 DE MARÇO DE 1999
 
 Restaura a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis destinados ao transporte autônomo de passageiros e ao uso de portadores de deficiência física, e dá outras providências.

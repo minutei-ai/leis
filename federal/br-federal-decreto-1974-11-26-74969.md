@@ -1,5 +1,3 @@
-###DEC-074969-0-000-26-11-1974@@@
-
 DECRETO Nº 74.969, DE 26 DE NOVEMBRO DE 1974.
 
 Aprova incorporação da Empresa de Eletricidade Alexandre Shlemm S.A., pela Companhia Paranaense de Energia Elétrica - COPEL e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004825-0-000-12-10-1942@@@
-
 DECRETO-LEI N. 4.825 – DE 12 DE OUTUBRO DE 1942
 
 Autoriza a assinatura de contrato com o Banco do Brasil, para financiamento, amparo e defesa do açúcar e do álcool

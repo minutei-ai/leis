@@ -1,5 +1,3 @@
-###DEC-084381-0-000-09-01-1980@@@
-
 Decreto nº 84.381, de 09 de janeiro de 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação de 2 (dois) vãos junto ao terreno da subestação Ermo, da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

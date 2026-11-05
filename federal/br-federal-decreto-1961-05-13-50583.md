@@ -1,5 +1,3 @@
-###DEC-050583-0-000-13-05-1961@@@
-
 Decreto nº 50.583, de 13 de maio de 1961.
 
 Abre crédito extraordinário para atender ao funcionamento do Departamento Federal de Segurança Pública.

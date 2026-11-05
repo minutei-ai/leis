@@ -1,5 +1,3 @@
-###DEC-095984-0-000-28-04-1988@@@
-
 DECRETO N° 95.984, DE 28 DE ABRIL DE 1988
 
 Dispõe sobre o aumento do Capital Autorizado da PETROBRÁS INTERNACIONAL S.A.  BRASPETRO.

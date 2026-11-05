@@ -1,5 +1,3 @@
-###DEC-082764-0-000-29-11-1978@@@
-
 Decreto nº 82.764, de 29 de novembro de 1978.
 
 Concede à Companhia de Mineração Santarém - COMISA o direito de lavrar bauxita no município de Nhamundá, Estado do Amazonas.

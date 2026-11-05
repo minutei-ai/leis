@@ -1,5 +1,3 @@
-###DEC-083318-0-000-10-04-1979@@@
-
 Decreto nº 83.318, de 10 de abril de 1979.
 
 Fixa o fator de reajustamento salarial relativo a abril de 1979.

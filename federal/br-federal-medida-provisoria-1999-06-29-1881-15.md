@@ -1,5 +1,3 @@
-###MPV-001881-0-015-29-06-1999@@@
-
 MEDIdA PROVISÓRIA nº 1.881-15, DE 29 DE JUNHO DE 1999.
 
 institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

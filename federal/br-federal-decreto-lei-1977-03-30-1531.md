@@ -1,5 +1,3 @@
-###DEL-001531-0-000-30-03-1977@@@
-
 # DECRETO-LEI Nº 1.531, DE 30 DE MARÇO DE 1977
 
 Concede incentivo a financiamentos para a execução do programa de apoio à capitalização da empresa privada nacional, e dá outras providências.

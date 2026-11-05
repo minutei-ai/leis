@@ -1,5 +1,3 @@
-###DEC-045571-0-000-16-03-1959@@@
-
 DECRETO Nº 45.571, DE 16 DE março DE 1959.
 
 Concede o abono provisório aos servidores do Instituto Brasileiro do Café.

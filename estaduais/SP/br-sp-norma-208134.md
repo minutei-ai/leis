@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208134)<br>
-
 # DECRETO N° 67.719, DE 26 DE MAIO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Mogi Mirim, o imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEC-068314-0-000-03-03-1971@@@
-
 DECRETO Nº 68.314, DE 3 DE MARÇO DE 1971.
 
 Dá nova redação a dispositivos do Decreto nº 63.177, de 27 de agosto de 1968, que dispõe sobre o Programa Especial de Bolsas de Estudo (PEBE) e dá outras providências.

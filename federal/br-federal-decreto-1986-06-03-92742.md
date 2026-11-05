@@ -1,5 +1,3 @@
-###DEC-092742-0-000-03-06-1986@@@
-
 DECRETO Nº 92.742, DE 3 DE JUNHO DE 1986
 
 Declara extinta a intervenção na Superintendência da Zona Franca de Manaus - SUFRAMA.

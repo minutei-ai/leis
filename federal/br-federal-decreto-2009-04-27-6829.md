@@ -1,5 +1,3 @@
-###DEC-006829-0-000-27-04-2009@@@
-
 DECRETO Nº 6.829, DE 27 DE ABRIL DE 2009.
 
 Regulamenta a Medida Provisória no 458, de 10 de fevereiro de 2009, para dispor sobre a regularização fundiária das áreas urbanas situadas em terras da União no âmbito da Amazônia Legal, definida pela Lei Complementar no 124, de 3 de janeiro de 2007, e dá outras providências.

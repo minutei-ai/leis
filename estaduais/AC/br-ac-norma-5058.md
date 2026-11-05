@@ -1,6 +1,10 @@
 > **LEI Nº 3.905, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.149, de 30 de setembro de 2009, que disciplina o comércio de artigos de conveniência em farmácias e drogarias ao consumidor.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.149, de 30 de setembro de 2009, que disciplina o comércio de artigos de conveniência em farmácias e drogarias ao consumidor.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-005229-0-000-05-10-2004@@@
-
 DECRETO Nº 5.229, DE 5 DE OUTUBRO DE 2004
 
 Dispõe sobre a área do Porto Organizado de Santarém - PA.

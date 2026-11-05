@@ -1,6 +1,7 @@
 LEI Nº 4.543 DE 15 DE OUTUBRO DE 1985
 
-Ver também:<br>
+Ver também:
+
 Lei nº [14.090](https://www.legislabahia.ba.gov.br/documentos/lei-no-14090-de-29-de-abril-de-2019) de 29 de abril de 2019 - Atualiza, na forma da Lei nº 12.057, 11 de janeiro, de 2011, os limites dos Municípios de Campo Alegre de Lourdes, Casa Nova, Curaçá, Juazeiro, Pilão Arcado, Remanso, Sento Sé, Sobradinho e Uauá, e dá outras providências. 
 
 Reorganiza os limites intermunicipais e interdistritais do Município de Sento-Sé e dá outras providências.

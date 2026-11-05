@@ -1,5 +1,3 @@
-###DEL-003000-0-000-29-01-1941@@@
-
 DECRETO-LEI N. 3.000 – DE 29 DE JANEIRO DE 1941
 
 Cria, no Ministério da Fazenda, quatro (4) cargos de ajudante de tesoureiro, em comissão, e dá outras providências

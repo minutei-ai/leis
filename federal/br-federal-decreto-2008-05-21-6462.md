@@ -1,5 +1,3 @@
-###DEC-006462-0-000-21-05-2008@@@
-
 DECRETO Nº 6.462, DE 21 DE MAIO DE 2008.
 
 Promulga o Acordo de Cooperação Judicial em Matéria Penal entre o Governo da República Federativa do Brasil e o Governo da República de Cuba, celebrado em Havana, em 24 de setembro de 2002.
@@ -22,11 +20,7 @@ Brasília, 21 de maio de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 23.5.2008
-
-ACORDO DE COOPERAÇÃO JUDICIAL EM MATÉRIA PENAL ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE CUBA
+Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO JUDICIAL EM MATÉRIA PENAL ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE CUBA
 
 O Governo da República Federativa do Brasil
 

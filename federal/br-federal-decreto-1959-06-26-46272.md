@@ -1,5 +1,3 @@
-###DEC-046272-0-000-26-06-1959@@@
-
 DECRETO Nº 46.272, DE 26 DE JUNHO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos da SATÉLITE – Companhia de Seguros Gerais.

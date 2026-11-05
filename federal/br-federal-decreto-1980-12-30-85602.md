@@ -1,5 +1,3 @@
-###DEC-085602-0-000-30-12-1980@@@
-
 Decreto nº 85.602, de 30 de dezembro de 1980.
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-072263-0-000-15-05-1973@@@
-
 DECRETO Nº 72.263, DE 15 DE MAIO DE 1973.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação de Mossoró, mantida pela Fundação Universidade Regional do Rio Grande do Norte, com sede na cidade de Mossoró, Estado do Rio Grande do Norte.

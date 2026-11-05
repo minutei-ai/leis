@@ -1,5 +1,3 @@
-###DEC-082981-0-000-03-01-1979@@@
-
 DECRETO Nº 82.981, DE 03 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo, ministrado pela Pontifícia Universidade Católica de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

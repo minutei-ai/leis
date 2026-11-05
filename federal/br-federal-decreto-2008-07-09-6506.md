@@ -1,5 +1,3 @@
-###DEC-006506-0-000-09-07-2008@@@
-
 DECRETO Nº 6.506, DE 9 DE JULHO DE 2008.
 
 Regulamenta a Gratificação de Desempenho de Atividade da Área de Propriedade Industrial - GDAPI, de que trata o art. 100 da Lei no 11.355, de 19 de outubro de 2006.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210330)<br>
-
 # DECRETO N° 69.152, DE 12 DE DEZEMBRO DE 2024
 
 ### _Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2025, o percentual de desconto para pagamento integral e dá outras providências._

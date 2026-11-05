@@ -1,5 +1,3 @@
-###DEC-090649-0-000-10-12-1984@@@
-
 DECRETO Nº 90.649, de 10 de dezembro de 1984.
 
 Cria a Secretaria de Ciência e Tecnologia, o Centro de Avaliações do Exército, altera o Decreto de Organização Básica do Exército e dá outras providências.
@@ -43,8 +41,6 @@ BRASÍLIA-DF, 10 de dezembro de 1984; 163º da Independência e 96º da Repúbli
 JOÃO FIGUEIREDO
 
 Walter Pires
-
-###DEC-090649-0-000-10-12-1984@@@RET01+++
 
 # decreto nº 90.649, de 10 de dezembro de 1984.
 

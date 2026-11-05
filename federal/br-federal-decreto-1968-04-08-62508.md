@@ -1,5 +1,3 @@
-###DEC-062508-0-000-08-04-1968@@@
-
 DECRETO Nº 62.508, DE 8 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Federação de Obras Sociais”, com sede em São Paulo.

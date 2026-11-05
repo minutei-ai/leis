@@ -1,7 +1,3 @@
-1
-
-###DEC-098352-0-000-31-10-1989@@@
-
 DECRETO Nº 98.352, DE 31 DE OUTUBRO DE 1989
 
 Cria a Comissão Interministerial sobre Alterações Climáticas, e dá outras providências.

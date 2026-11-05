@@ -1,5 +1,3 @@
-###DEC-076084-0-000-05-08-1975@@@
-
 DECRETO Nº 76.084 - de 5 de agosto de 1975
 
 Dispõe sobe medidas aplicáveis a países que impeçam ou dificultem o acesso de produtos brasileiros a seus mercados.

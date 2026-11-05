@@ -1,5 +1,3 @@
-###DEC-045737-0-000-06-04-1959@@@
-
 DECRETO Nº 45.737, DE 6 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro João Augusto Rodrigues a lavrar calcário no município de Cordeiro, Estado do Rio de Janeiro.

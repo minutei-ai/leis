@@ -1,5 +1,3 @@
-###DEC-064407-0-000-25-04-1969@@@
-
 DECRETO Nº 64.407, DE 25 DE ABRIL DE 1969.
 
 Declara de utilidade pública para fins de desapropriação pela Universidade Federal de Juiz de Fora, áreas de terrenos situados em juiz de Fora, Estado de Minas Gerais.

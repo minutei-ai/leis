@@ -1,5 +1,3 @@
-###DEC-084681-0-000-05-05-1980@@@
-
 DECRETO Nº 84.681, DE 05 DE MAIO DE 1980.
 
 Declara Luto Oficial.

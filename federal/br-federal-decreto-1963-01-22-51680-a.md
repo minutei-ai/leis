@@ -1,5 +1,3 @@
-###DEC-051680-A-000-22-01-1963@@@
-
 decreto nº 51.680-A, de 22 de janeiro de 1963.
 
 Regulamenta os exames de madureza no sistema federal de ensino, nos têrmos do Parecer nº 14 do Conselho Federal de Educação.

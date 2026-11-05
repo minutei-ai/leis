@@ -1,5 +1,3 @@
-###MPV-001720-0-001-25-11-1998@@@
-
 Medida Provisória nº 1.720-1, de 25 de novembro de 1998.
 
 Dispõe sobre a contribuição para o custeio da previdência social dos servidores públicos.

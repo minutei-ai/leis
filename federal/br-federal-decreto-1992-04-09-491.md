@@ -1,7 +1,3 @@
-1
-
-###DEC-000491-0-000-09-04-1992@@@
-
 DECRETO Nº 491, DE 9 DE ABRIL DE 1992
 
 Regulamenta o art. 10 da Lei nº 8.270, de 17 de dezembro de 1991, e altera a regulamentação do Decreto-Lei nº 2.347, de 23 de julho de 1987.

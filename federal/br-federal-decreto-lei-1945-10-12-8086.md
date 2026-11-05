@@ -1,5 +1,3 @@
-###DEL-008086-0-000-12-10-1945@@@
-
 DECRETO-LEI N. 8.086 – DE 12 DE OUTUBRO DE 1945
 
 Torna sem aplicação importância que especifica e abre, sem aumento de despesa, crédito suplementar ao Ministério do Trabalho, Indústria e Comércio.

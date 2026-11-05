@@ -1,5 +1,3 @@
-###DEC-007628-0-000-30-11-2011-PUB-01@@@
-
 DECRETO nº 7.628, DE 30 DE NOVEMBRO DE 2011
 
 Aprova o Programa de Dispêndios Globais - PDG para 2012 das empresas estatais federais, e dá outras providências.

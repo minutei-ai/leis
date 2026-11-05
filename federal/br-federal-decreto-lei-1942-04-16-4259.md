@@ -1,5 +1,3 @@
-###DEL-004259-0-000-16-04-1942@@@
-
 DECRETO-LEI N. 4.259 – DE 16 DE ABRIL DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de 1.800:000$0, para execução de obras no porto de Natal

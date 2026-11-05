@@ -1,5 +1,3 @@
-###DEC-076065-0-000-31-07-1975@@@
-
 DECRETO nº 76.065, DE 31 DE JULHO DE 1975
 
 Autoriza o funcionamento dos cursos de Letras e de Estudos Sociais da Faculdade de Ciências e Letras de Matão, mantida pela Associação Matoense de Ensino Superior, com sede na Cidade de Matão, Estado de São Paulo.

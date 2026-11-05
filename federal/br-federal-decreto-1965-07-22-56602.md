@@ -1,5 +1,3 @@
-###DEC-056602-0-000-22-07-1965@@@
-
 DECRETO Nº 56.602, DE 22 DE JULHO DE 1965.
 
 Especifica as máquinas e equipamentos de produção importados pela Emprêsa Tecnotransportes S.A, com o benefício da isenção dos impostos aduaneiro e de consumo, de conformidade com a Lei nº 4.584, de 11 de dezembro de 1964.

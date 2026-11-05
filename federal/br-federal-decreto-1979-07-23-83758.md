@@ -1,5 +1,3 @@
-###DEC-083758-0-000-23-07-1979@@@
-
 Decreto nº 83.758, de 23 de julho de 1979.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Município de Duque de Caxias, Estado do Rio de Janeiro.

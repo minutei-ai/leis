@@ -1,5 +1,3 @@
-###DEC-004345-0-000-26-08-2002@@@
-
 DECRETO Nº 4.345, DE 26 DE AGOSTO DE 2002
 
 Institui a Política Nacional Antidrogas e dá outras providências.

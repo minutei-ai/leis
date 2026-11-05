@@ -1,5 +1,3 @@
-###DEC-089000-0-000-16-11-1983@@@
-
 Decreto nº 89.000, de 17 de novembro dE 1983
 
 Outorga concessão à RÁDIO VISÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Ponte Nova, Estado de Minas Gerais.

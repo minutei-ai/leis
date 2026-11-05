@@ -1,5 +1,3 @@
-###MPV-001849-0-012-25-11-1999@@@
-
 medida provisória nº 1.849-12, de 25 de novembro de 1999.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

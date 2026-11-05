@@ -1,5 +1,3 @@
-###DEC-076051-0-000-30-07-1975@@@
-
 DECRETO Nº 76.051 - DE 30 DE JULHO DE 1975.
 
 Autoriza a cessão, sob o regime de arrendamento, do terreno que menciona, situado no Município de Recife, Estado de Pernambuco.

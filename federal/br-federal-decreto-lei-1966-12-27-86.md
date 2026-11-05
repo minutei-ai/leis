@@ -1,5 +1,3 @@
-###DEL-000086-0-000-27-12-1966@@@
-
 DECRETO-LEI Nº 86, DE 27 DE DEZEMBRO DE 1966
 
 Altera o art. 11 da Lei nº 605, de 5 de janeiro de 1949.

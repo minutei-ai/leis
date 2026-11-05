@@ -1,5 +1,3 @@
-###DEC-079655-0-000-04-05-1977@@@
-
 DECRETO Nº 79.655, DE 4 DE MAIO DE 1977.
 
 Concede reconhecimento aos cursos de Desenho Industrial, de Comunicação Visual e de Educação Artística, da Pontifícia Universidade Católica do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

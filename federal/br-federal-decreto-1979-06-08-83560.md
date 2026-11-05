@@ -1,5 +1,3 @@
-###DEC-083560-0-000-08-06-1979@@@
-
 Decreto nº 83.560, de 8 de junho de 1979.
 
 Cassa a concessão outorgada à Televisão Arapuan S.A., para estabelecer na cidade de João Pessoa, Estado da Paraíba, uma estação de radiodifusão de sons e imagens (televisão).

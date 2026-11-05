@@ -1,5 +1,3 @@
-###DEC-060964-0-000-07-07-1967@@@
-
 DECRETO Nº 60.964, DE 7 DE JULHO DE 1967.
 
 Declara de utilidade pública o “Consórcio Universitário Católico de Passo Fundo, com sede em Passo Fundo, Estado do Rio Grande do Sul.

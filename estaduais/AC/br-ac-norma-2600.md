@@ -1,6 +1,10 @@
 > **LEI Nº 3.604, DE 09 DE JANEIRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade de estabelecimentos bancários, empresas que mantêm guichês em terminais rodoviários e aeroportos, bem como centros comerciais, shopping-centers ou estabelecimentos similares, disponibilizarem cadeira de rodas às pessoas com deficiência e idosos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade de estabelecimentos bancários, empresas que mantêm guichês em terminais rodoviários e aeroportos, bem como centros comerciais, shopping-centers ou estabelecimentos similares, disponibilizarem cadeira de rodas às pessoas com deficiência e idosos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

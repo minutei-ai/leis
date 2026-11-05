@@ -1,5 +1,3 @@
-###DEC-076486-0-000-21-10-1975@@@
-
 Decreto Nº 76.486, de 21 de outubro de 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

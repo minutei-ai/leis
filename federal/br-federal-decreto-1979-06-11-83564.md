@@ -1,5 +1,3 @@
-###DEC-083564-0-000-11-06-1979@@@
-
 decreto nº 83.564, de 11 de junho de 1979.
 
 Concede reconhecimento ao curso de Direito, do Centro de Ciências Sociais de Vila Velha, Espírito Santo.

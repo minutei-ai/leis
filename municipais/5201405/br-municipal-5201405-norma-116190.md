@@ -12,8 +12,10 @@ Gabinete do Prefeito de Aparecida de Goiânia – GO, aos 13 de março de 2020.
 
  
 
-VETER MARTINS<br>
+VETER MARTINS
+
 Prefeito Municipal em Exercício
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil

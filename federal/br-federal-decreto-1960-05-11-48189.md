@@ -1,5 +1,3 @@
-###DEC-048189-0-000-11-05-1960@@@
-
 DECRETO Nº 48.189, DE 11 DE MAIO DE 1960.
 
 Autoriza a Cia. de Cimento Portland Itaú a pesquisar calcário no município de Palmeiras de Goiás, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-089464-0-000-21-03-1984@@@
-
 Decreto Nº 89.464, DE 21 DE MARÇO DE 1984
 
 Altera o Regulamento do Departamento-Geral de Serviços do Ministério do Exército (R-154).

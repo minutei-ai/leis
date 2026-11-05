@@ -1,5 +1,3 @@
-###DEC-000042-0-000-19-02-1991@@@
-
 DECRETO Nº 42, DE 19 DE FEVEREIRO DE 1991
 
 Dá nova redação ao caput do art. 10 do Decreto nº 91.800, de 18 de outubro de 1985.

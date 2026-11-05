@@ -1,5 +1,3 @@
-###DEC-004319-0-000-01-08-2002@@@
-
 DECRETO Nº 4.319, DE 1º DE AGOSTO DE 2002
 
 Dispõe sobre o Programa de Qualificação Docente e Ensino de Língua Portuguesa no Timor Leste.

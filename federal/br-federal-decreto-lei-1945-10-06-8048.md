@@ -1,5 +1,3 @@
-###DEL-008048-0-000-06-10-1945@@@
-
 DECRETO-LEI N. 8.048 – DE  6 DE OUTUBRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ ... 1.161,30 para pagamento de gratificação de magistério.

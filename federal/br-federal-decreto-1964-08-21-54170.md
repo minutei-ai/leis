@@ -1,5 +1,3 @@
-###DEC-054170-0-000-21-08-1964@@@
-
 Decreto nº 54.170, de 21 de agôsto de 1964.
 
 Abre pelo Ministério da Aeronáutica os créditos especiais de Cr$11.928.000.000,00 e Cr$12.806.000.000,00, para o fim que especifica.

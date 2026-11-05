@@ -1,5 +1,3 @@
-###DEC-049155-0-000-27-10-1960@@@
-
 DECRETO Nº 49.155, DE 27 DE OUTUBRO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 35.797, de 12-7-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Escondido, no Município de Brejo da Cruz, no Estado da Paraíba.

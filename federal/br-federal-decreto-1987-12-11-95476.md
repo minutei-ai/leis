@@ -1,5 +1,3 @@
-###DEC-095476-0-000-11-12-1987@@@
-
 DECRETO Nº 95.476, DE 11 DE DEZEMBRO DE 1987
 
 Revoga o Decreto nº 95.151, de 06 de novembro de 1987.

@@ -1,5 +1,3 @@
-###DEC-094800-0-000-25-08-1987@@@
-
 DECRETO N° 94.800, DE 25 DE AGOSTO DE 1987
 
 Acrescenta parágrafos aos arts. 2° e 8° do Decreto n° 85.645, de 20 de janeiro de 1981.

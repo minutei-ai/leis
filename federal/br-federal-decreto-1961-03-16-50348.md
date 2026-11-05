@@ -1,5 +1,3 @@
-###DEC-050348-0-000-16-03-1961@@@
-
 DECRETO Nº 50.348, DE 16 DE MARÇO DE 1961.
 
 Inclui mais um representante no Conselho Consultivo de que trata o art. 4º e alíneas do Decreto número 44.203, de 30 de julho de 1958.

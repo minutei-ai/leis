@@ -1,5 +1,3 @@
-###DEC-084682-0-000-05-05-1980@@@
-
 Decreto nº 84.682, de 05 de maio de 1980.
 
 Dispõe sobre aumento do capital do Serviço Federal de Processamento de Dados - SERPRO.

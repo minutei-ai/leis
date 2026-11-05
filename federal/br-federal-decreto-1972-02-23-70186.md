@@ -1,5 +1,3 @@
-###DEC-070186-0-000-23-02-1972@@@
-
 DECRETO Nº 70.186, DE 23 DE fevereiro DE 1972.
 
 Dispõe sobre a administração das áreas integrantes do Parque Nacional da Tijuca.

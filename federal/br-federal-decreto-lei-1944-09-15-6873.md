@@ -1,5 +1,3 @@
-###DEL-006873-0-000-15-09-1944@@@
-
 DECRETO-LEI N. 6.873 – DE 15 DE SETEMBRO DE 1944
 
 Altera a redação do art. 118 do Decreto-lei nº 1.713, de 28 de outubro de 1939

@@ -1,5 +1,3 @@
-###DEC-073598-0-000-08-02-1974@@@
-
 DECRETO nº 73.598, de 8 de Fevereiro de 1974.
 
 Autoriza o Ministro da Fazenda a contratar a operação externa que menciona.

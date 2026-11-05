@@ -1,24 +1,22 @@
-###DEC-040810-0-000-23-01-1957@@@
+**DECRETO Nº 40.810, DE 23 DE JANEIRO DE 1957.**
 
-<strong>DECRETO Nº 40.810, DE 23 DE JANEIRO DE 1957.</strong>
+***Declara em vigor as condições da apólice e a tarifa do seguro agrário de pequena lavoura de culturas múltiplas.***
 
-<em><strong>Declara em vigor as condições da apólice e a tarifa do seguro agrário de pequena lavoura de culturas múltiplas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e nos têrmos do art. 4º da Lei nº 2.168, de 11 de janeiro de 1954,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e nos têrmos do art. 4º da Lei nº 2.168, de 11 de janeiro de 1954,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º São declaradas em vigor as condições gerais da apólice e a tarifa de seguro agrário, de pequena lavoura de culturas múltiplas, aprovadas pelo Departamento Nacional de Seguros Privados e Capitalização e que acompanha o presente Decreto.
 
-<strong>Art</strong>. 1º São declaradas em vigor as condições gerais da apólice e a tarifa de seguro agrário, de pequena lavoura de culturas múltiplas, aprovadas pelo Departamento Nacional de Seguros Privados e Capitalização e que acompanha o presente Decreto.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 23 de janeiro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso
 
-<strong>COMPANHIA NACIONAL DE SEGURO AGRÍCOLA</strong>
+**COMPANHIA NACIONAL DE SEGURO AGRÍCOLA**
 
 SEGURO AGRÁRIO DE PEQUENA LAVOURA DE CULTURAS MÚLTIPLAS
 
@@ -44,7 +42,7 @@ Recebemos do Segurado a importância de Cr$ ................... (por extenso) co
 
 Em .................. de .................. de 19 ...................
 
-<strong>COMPANHIA NACIONAL DE SEGURO AGRÍCOLA</strong>
+**COMPANHIA NACIONAL DE SEGURO AGRÍCOLA**
 
 SEGURO DE PEQUENA LAVOURA DE CULTURAS MÚLTIPLAS
 
@@ -256,6 +254,6 @@ O presente contrato poderá ser rescindido:
 
 a) se o assegurado infringir qualquer uma das obrigações estipuladas nesta apólice, perdendo, em tal hipótese, o prêmio pago em favor da Companhia;
 
-b) o critério da Companhia, se ocorrerem as hipótese previstas nas alineas <em>“a”</em> e <em>“b”</em> da Cláusula XIII.
+b) o critério da Companhia, se ocorrerem as hipótese previstas nas alineas *“a”* e *“b”* da Cláusula XIII.
 
-Quando por iniciativa da Companhia, ocorrem o cancelamento do seguro, na hipótese prevista na alínea <em>“b”</em> acima, o Segurado terá direito à devolução de parte do prêmio pago, diretamente proporcional ao tempo ainda a decorrer para o vencimento da apólice.
+Quando por iniciativa da Companhia, ocorrem o cancelamento do seguro, na hipótese prevista na alínea *“b”* acima, o Segurado terá direito à devolução de parte do prêmio pago, diretamente proporcional ao tempo ainda a decorrer para o vencimento da apólice.

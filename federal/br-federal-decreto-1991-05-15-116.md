@@ -1,7 +1,3 @@
-1
-
-###DEC-000116-0-000-15-05-1991@@@
-
 DECRETO Nº 116, DE 15 DE MAIO DE 1991
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica nº 14, subscrita entre o Brasil e a Argentina.

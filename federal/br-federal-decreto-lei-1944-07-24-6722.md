@@ -1,5 +1,3 @@
-###DEL-006722-0-000-24-07-1944@@@
-
 DECRETO-LEI N. 6.722 – DE 24 DE JULHO DE 1944
 
 Derroga o Decreto-lei nº 1.847, de 7 de dezembro de 1939

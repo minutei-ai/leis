@@ -1,5 +1,3 @@
-###DEC-005132-0-000-07-07-2004@@@
-
 DECRETO Nº 5.132, DE 7 DE JULHO DE 2004.
 
        Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores \- DAS que menciona, e dá outras providências.
@@ -18,6 +16,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 7 de julho de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
 Guido Mantega

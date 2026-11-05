@@ -1,5 +1,3 @@
-###DEC-051623-0-000-14-12-1962@@@
-
 Decreto nº 51.623, de 14 de dezembro de 1962.
 
 Prorroga o Decreto nº 51.504, de 11 de junho de 1962.

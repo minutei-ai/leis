@@ -1,5 +1,3 @@
-###DEC-076247-0-000-11-09-1975@@@
-
 DECRETO Nº 76.247 - DE 11 DE SETEMBRO DE 1975
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DONCS, área necessária à construção do Açude Público ''Araras'', no Estado do Ceará.

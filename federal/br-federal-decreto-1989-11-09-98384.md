@@ -1,7 +1,3 @@
-1
-
-###DEC-098384-0-000-09-11-1989@@@
-
 DECRETO Nº 98.384, DE 09 DE NOVEMBRO DE 1989
 
 Outorga concessão ao SISTEMA CANAÃ DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cariacica, Estado do Espírito Santo.

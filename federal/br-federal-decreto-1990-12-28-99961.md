@@ -1,7 +1,3 @@
-1
-
-###DEC-099961-0-000-28-12-1990@@@
-
 # DECRETO N° 99.961, DE 28 DE DEZEMBRO DE 1990
 
 Distribui os Efetivos de Oficiais da Marinha para 1991.
@@ -12,7 +8,433 @@ O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 84, 
 
 Art. 1° São assim distribuídos os efetivos de Oficiais dos seguintes Corpos e Quadros da Marinha para vigorarem em 1991:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">I -</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Corpo da Armada</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Almirante-de-Esquadra.............................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">05</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Vice-Almirante..........................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">16</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Contra-Almirante......................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">28</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-guerra.........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">184</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">391</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">532</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">690</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">395</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">300</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">II -</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Corpo de Fuzileiros Navais</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Almirante-de-Esquadra.............................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">01</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Vice-Almirante..........................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">02</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Contra-Almirante......................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">04</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">47</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">85</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">125</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">160</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">142</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">80</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">III -</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Corpo de Engenheiros e Técnicos Navais</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Vice-Almirante..........................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">01</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Contra-Almirante......................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">03</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">25</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">55</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">80</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">70</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">IV -</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Corpo de Intendentes da Marinha</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">Vice-Almirante.........................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">01</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Contra-Almirante......................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">04</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">47</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">106</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">163</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">215</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">174</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">100</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">V -</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Corpo de Saúde da Marinha</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) Quadro de Médicos</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Vice-Almirante..........................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">01</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Contra-Almirante......................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">04</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">30</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">65</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">95</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">140</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">125</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) Quadro de Cirurgiões-Dentistas</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">Capitães-de-Mar-e-Guerra.......................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">06</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">51</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">77</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">55</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">c) Quadro de Farmacêuticos</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">03</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">06</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">24</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">35</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">30</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">VI -</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Quadro de Oficiais Auxiliares da Marinha</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) Quadro de Oficiais Auxiliares da Armada</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">03</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">60</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">145</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">100</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">100</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) Quadro de Oficiais Auxiliares do Corpo</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">de Fuzileiros Navais</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitão-de-Mar-e-Guerra..........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">01</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">04</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">23</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">40</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">47</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">50</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">VII -</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Quadro Complementar de Oficiais da Marinha</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) Quadro Complementar do Corpo da Armada</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">(QC-CA)</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">02</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">110</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">165</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">75</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes (Oficiais da Reserva)................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">72</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) Quadro Complementar do Corpo de</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">Engenheiros e Técnicos Navais (QC-EN)</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitão-de-Mar-e-Guerra..........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">01</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">03</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">38</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">45</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">36</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes (Oficiais da Reserva)................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">36</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">c) Quadro Complementar do Corpo de Intendentes</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">da Marinha (QC-IM)</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">Capitão-de-Mar-e-Guerra.........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">01</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">09</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">58</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">81</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">41</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes (Oficiais da Reserva)................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">36</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">d) Quadro Complementar do Corpo de Fuzileiros</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">Navais (QC-FN)</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitão-de-Mar-e-Guerra..........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">02</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">09</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Coverta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">58</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">85</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">22</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes (Oficiais da Reserva)................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">36</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">VIII -</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Quadro de Capelães da Marinha</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitão-de-Mar-e-Guerra..........................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">01</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">03</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta.................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">05</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes....................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">08</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">07</span></p></td></tr><tr><td style="width:138.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:234pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos-Tenentes..................................................</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">06</span></p></td></tr></tbody></table>
+I -
+
+Corpo da Armada
+
+Almirante-de-Esquadra.............................................
+
+05
+
+Vice-Almirante..........................................................
+
+16
+
+Contra-Almirante......................................................
+
+28
+
+Capitães-de-Mar-e-guerra.........................................
+
+184
+
+Capitães-de-Fragata.................................................
+
+391
+
+Capitães-de-Corveta.................................................
+
+532
+
+Capitães-Tenentes....................................................
+
+690
+
+Primeiros-Tenentes..................................................
+
+395
+
+Segundos-Tenentes..................................................
+
+300
+
+II -
+
+Corpo de Fuzileiros Navais
+
+Almirante-de-Esquadra.............................................
+
+01
+
+Vice-Almirante..........................................................
+
+02
+
+Contra-Almirante......................................................
+
+04
+
+Capitães-de-Mar-e-Guerra........................................
+
+47
+
+Capitães-de-Fragata.................................................
+
+85
+
+Capitães-de-Corveta.................................................
+
+125
+
+Capitães-Tenentes....................................................
+
+160
+
+Primeiros-Tenentes..................................................
+
+142
+
+Segundos-Tenentes..................................................
+
+80
+
+III -
+
+Corpo de Engenheiros e Técnicos Navais
+
+Vice-Almirante..........................................................
+
+01
+
+Contra-Almirante......................................................
+
+03
+
+Capitães-de-Mar-e-Guerra........................................
+
+25
+
+Capitães-de-Fragata.................................................
+
+55
+
+Capitães-de-Corveta.................................................
+
+80
+
+Capitães-Tenentes....................................................
+
+150
+
+Primeiros-Tenentes..................................................
+
+70
+
+IV -
+
+Corpo de Intendentes da Marinha
+
+ Vice-Almirante.........................................................
+
+01
+
+Contra-Almirante......................................................
+
+04
+
+Capitães-de-Mar-e-Guerra........................................
+
+47
+
+Capitães-de-Fragata.................................................
+
+106
+
+Capitães-de-Corveta.................................................
+
+163
+
+Capitães-Tenentes....................................................
+
+215
+
+Primeiros-Tenentes..................................................
+
+174
+
+Segundos-Tenentes..................................................
+
+100
+
+V -
+
+Corpo de Saúde da Marinha
+
+a) Quadro de Médicos
+
+Vice-Almirante..........................................................
+
+01
+
+Contra-Almirante......................................................
+
+04
+
+Capitães-de-Mar-e-Guerra........................................
+
+30
+
+Capitães-de-Fragata.................................................
+
+65
+
+Capitães-de-Corveta.................................................
+
+95
+
+Capitães-Tenentes....................................................
+
+140
+
+Primeiros-Tenentes..................................................
+
+125
+
+b) Quadro de Cirurgiões-Dentistas
+
+ Capitães-de-Mar-e-Guerra.......................................
+
+06
+
+Capitães-de-Fragata.................................................
+
+20
+
+Capitães-de-Corveta.................................................
+
+51
+
+Capitães-Tenentes....................................................
+
+77
+
+Primeiros-Tenentes..................................................
+
+55
+
+c) Quadro de Farmacêuticos
+
+Capitães-de-Mar-e-Guerra........................................
+
+03
+
+Capitães-de-Fragata.................................................
+
+06
+
+Capitães-de-Corveta.................................................
+
+24
+
+Capitães-Tenentes....................................................
+
+35
+
+Primeiros-Tenentes..................................................
+
+30
+
+VI -
+
+Quadro de Oficiais Auxiliares da Marinha
+
+a) Quadro de Oficiais Auxiliares da Armada
+
+Capitães-de-Mar-e-Guerra........................................
+
+03
+
+Capitães-de-Fragata.................................................
+
+12
+
+Capitães-de-Corveta.................................................
+
+60
+
+Capitães-Tenentes....................................................
+
+145
+
+Primeiros-Tenentes..................................................
+
+100
+
+Segundos-Tenentes..................................................
+
+100
+
+b) Quadro de Oficiais Auxiliares do Corpo
+
+ de Fuzileiros Navais
+
+Capitão-de-Mar-e-Guerra..........................................
+
+01
+
+Capitães-de-Fragata.................................................
+
+04
+
+Capitães-de-Corveta.................................................
+
+23
+
+Capitães-Tenentes....................................................
+
+40
+
+Primeiros-Tenentes..................................................
+
+47
+
+Segundos-Tenentes..................................................
+
+50
+
+VII -
+
+Quadro Complementar de Oficiais da Marinha
+
+a) Quadro Complementar do Corpo da Armada
+
+(QC-CA)
+
+Capitães-de-Mar-e-Guerra........................................
+
+02
+
+Capitães-de-Fragata.................................................
+
+15
+
+Capitães-de-Corveta.................................................
+
+110
+
+Capitães-Tenentes....................................................
+
+165
+
+Primeiros-Tenentes..................................................
+
+75
+
+Segundos-Tenentes (Oficiais da Reserva)................
+
+72
+
+b) Quadro Complementar do Corpo de
+
+ Engenheiros e Técnicos Navais (QC-EN)
+
+Capitão-de-Mar-e-Guerra..........................................
+
+01
+
+Capitães-de-Fragata.................................................
+
+03
+
+Capitães-de-Corveta.................................................
+
+38
+
+Capitães-Tenentes....................................................
+
+45
+
+Primeiros-Tenentes..................................................
+
+36
+
+Segundos-Tenentes (Oficiais da Reserva)................
+
+36
+
+c) Quadro Complementar do Corpo de Intendentes
+
+ da Marinha (QC-IM)
+
+ Capitão-de-Mar-e-Guerra.........................................
+
+01
+
+Capitães-de-Fragata.................................................
+
+09
+
+Capitães-de-Corveta.................................................
+
+58
+
+Capitães-Tenentes....................................................
+
+81
+
+Primeiros-Tenentes..................................................
+
+41
+
+Segundos-Tenentes (Oficiais da Reserva)................
+
+36
+
+d) Quadro Complementar do Corpo de Fuzileiros
+
+ Navais (QC-FN)
+
+Capitão-de-Mar-e-Guerra..........................................
+
+02
+
+Capitães-de-Fragata.................................................
+
+09
+
+Capitães-de-Coverta.................................................
+
+58
+
+Capitães-Tenentes....................................................
+
+85
+
+Primeiros-Tenentes..................................................
+
+22
+
+Segundos-Tenentes (Oficiais da Reserva)................
+
+36
+
+VIII -
+
+Quadro de Capelães da Marinha
+
+Capitão-de-Mar-e-Guerra..........................................
+
+01
+
+Capitães-de-Fragata.................................................
+
+03
+
+Capitães-de-Corveta.................................................
+
+05
+
+Capitães-Tenentes....................................................
+
+08
+
+Primeiros-Tenentes..................................................
+
+07
+
+Segundos-Tenentes..................................................
+
+06
 
 Art. 2° Este decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

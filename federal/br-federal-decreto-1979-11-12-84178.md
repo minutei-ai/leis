@@ -1,5 +1,3 @@
-###DEC-084178-0-000-12-11-1979@@@
-
 DECRETO Nº 84.178, DE 12 DE NOVEMBRO DE 1979
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, destinado ao Ministério do Exército.

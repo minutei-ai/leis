@@ -1,5 +1,3 @@
-###DEC-060879-0-000-21-06-1967@@@
-
 decreto nº 60.879, de 21 de junho de 1967.
 
 Aprova a alteração introduzida nos Estatutos da Aliança de Minas Gerais Companhia de Seguros, relativa ao aumento do capital social.

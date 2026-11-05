@@ -1,5 +1,3 @@
-###DEC-048109-0-000-13-04-1960@@@
-
 DECRETO Nº 48.109, DE 13 DE ABRIL DE 1960.
 
 Retifica o Decreto nº47.884, de 8 de março de 1960.

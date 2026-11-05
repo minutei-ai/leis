@@ -18,22 +18,28 @@ QUADRO 1
 
 **SUPLEMENTAÇÃO**
 
-<table><tbody><tr><td colspan="8" style=" width:644px;  height:39px;   ">&nbsp; <b>452 - FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO PODER JUDICIÁRIO - FUNDESP-PJ</b></td></tr><tr><td style=" width:123px;  height:26px;   ">&nbsp; <b>ESPECIFICAÇÃO</b></td><td style=" width:67px;  height:26px;   ">&nbsp; <b>AÇÃO</b></td><td style=" width:67px;  height:26px;   ">&nbsp; <b>FONTE</b></td><td style=" width:67px;  height:26px;   ">&nbsp; <b>MODALIDADE</b></td><td style=" width:73px;  height:26px;   ">&nbsp; <b>GRUPO</b></td><td style=" width:83px;  height:26px;   "><b>SALDO</b><b> </b><b>ORÇAMENTÁRIO</b></td><td style=" width:83px;  height:26px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:83px;  height:26px;   ">&nbsp; <b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:123px;  height:27px;   ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO TJGO</td><td style=" width:67px;  height:27px;   ">&nbsp; 02 061 4200 4.239</td><td style=" width:67px;  height:27px;   ">&nbsp; 17600137</td><td style=" width:67px;  height:27px;   ">&nbsp; 90</td><td style=" width:73px;  height:27px;   ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:83px;  height:27px;   ">&nbsp; R$ 1,00</td><td style=" width:83px;  height:27px;   ">&nbsp; R$ 50.000.000,00</td><td style=" width:83px;  height:27px;   ">&nbsp; R$ 50.000.001,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">&nbsp; **452 - FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO PODER JUDICIÁRIO - FUNDESP-PJ**</td></tr><tr><td>&nbsp; **ESPECIFICAÇÃO**</td><td>&nbsp; **AÇÃO**</td><td>&nbsp; **FONTE**</td><td>&nbsp; **MODALIDADE**</td><td>&nbsp; **GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>&nbsp; **SALDO ATUALIZADO**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO TJGO</td><td>&nbsp; 02 061 4200 4.239</td><td>&nbsp; 17600137</td><td>&nbsp; 90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>&nbsp; R$ 1,00</td><td>&nbsp; R$ 50.000.000,00</td><td>&nbsp; R$ 50.000.001,00</td></tr></tbody></table>
 
   **TOTAL A SUPLEMENTAR POR FONTE:** R$ 50.000.000,00
 
-<table><tbody><tr><td style=" width:561px;  height:19px;   ">17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS</td><td style=" width:83px;  height:19px;   ">R$ 50.000.000,00</td></tr></tbody></table>
+17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS
+
+R$ 50.000.000,00
 
 QUADRO 2
 
 **REDUÇÃO**
 
-<table><tbody><tr><td colspan="8" style=" width:644px;  height:39px;   ">&nbsp; <b>452 - FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO PODER JUDICIÁRIO - FUNDESP-PJ</b></td></tr><tr><td style=" width:123px;  height:26px;   ">&nbsp; <b>ESPECIFICAÇÃO</b></td><td style=" width:67px;  height:26px;   ">&nbsp; <b>AÇÃO</b></td><td style=" width:67px;  height:26px;   ">&nbsp; <b>FONTE</b></td><td style=" width:67px;  height:26px;   ">&nbsp; <b>MODALIDADE</b></td><td style=" width:73px;  height:26px;   ">&nbsp; <b>GRUPO</b></td><td style=" width:83px;  height:26px;   ">&nbsp; <b>SALDO A PROGRAMAR</b></td><td style=" width:83px;  height:26px;   ">&nbsp; <b>VALOR BLOQUEADO</b></td><td style=" width:83px;  height:26px;   ">&nbsp; <b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:123px;  height:27px;   ">GESTÃO DA INICIATIVA DE AGILIDADE E PRODUTIVIDADE NA PRESTAÇÃO JURISDICIONAL</td><td style=" width:67px;  height:27px;   ">&nbsp; 02 061 1007 2.327</td><td style=" width:67px;  height:27px;   ">&nbsp; 17600137</td><td style=" width:67px;  height:27px;   ">&nbsp; 90</td><td style=" width:73px;  height:27px;   ">&nbsp; 4 - INVESTIMENTOS</td><td style=" width:83px;  height:27px;   ">&nbsp; R$ 50.000.000,00</td><td style=" width:83px;  height:27px;   ">&nbsp; R$ 50.000.000,00</td><td style=" width:83px;  height:27px;   ">&nbsp; R$ 50.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">&nbsp; **452 - FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO PODER JUDICIÁRIO - FUNDESP-PJ**</td></tr><tr><td>&nbsp; **ESPECIFICAÇÃO**</td><td>&nbsp; **AÇÃO**</td><td>&nbsp; **FONTE**</td><td>&nbsp; **MODALIDADE**</td><td>&nbsp; **GRUPO**</td><td>&nbsp; **SALDO A PROGRAMAR**</td><td>&nbsp; **VALOR BLOQUEADO**</td><td>&nbsp; **VALOR A REDUZIR**</td></tr><tr><td>GESTÃO DA INICIATIVA DE AGILIDADE E PRODUTIVIDADE NA PRESTAÇÃO JURISDICIONAL</td><td>&nbsp; 02 061 1007 2.327</td><td>&nbsp; 17600137</td><td>&nbsp; 90</td><td>&nbsp; 4 - INVESTIMENTOS</td><td>&nbsp; R$ 50.000.000,00</td><td>&nbsp; R$ 50.000.000,00</td><td>&nbsp; R$ 50.000.000,00</td></tr></tbody></table>
 
-  **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III:** **R$ 50.000.000,00**
+  **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III:R$ 50.000.000,00**
 
-<table><tbody><tr><td style=" width:561px;  height:19px;   ">17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS</td><td style=" width:83px;  height:19px;   ">R$ 50.000.000,00</td></tr></tbody></table>
+17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS
+
+R$ 50.000.000,00
 
   **TOTAL POR FONTE:** R$ 50.000.000,00
 
-<table><tbody><tr><td style=" width:561px;  height:19px;   ">17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS</td><td style=" width:83px;  height:19px;   ">R$ 50.000.000,00</td></tr></tbody></table>
+17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS
+
+R$ 50.000.000,00

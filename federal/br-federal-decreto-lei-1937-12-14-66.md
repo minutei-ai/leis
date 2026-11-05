@@ -1,5 +1,3 @@
-###DEL-000066-0-000-14-12-1937@@@
-
 DECRETO-LEI N. 66 – DE 14 DE DEZEMBRO DE 1937
 
 Declara em vigor, com as modificações resultantes dos preceitos constitucionais, o Código de Minas e outros decretos que específica, e expede bases para confirmar a execução dêsses decretos à Constituição

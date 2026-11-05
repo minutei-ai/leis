@@ -1,5 +1,3 @@
-###DEC-004836-0-000-09-09-2003@@@
-
 DECRETO Nº 4.836,  DE 9 DE SETEMBRO DE 2003.
 
        Altera a redação do art. 3º do Decreto nº 1.590, de 10 de agosto de 1995, que dispõe sobre a jornada de trabalho dos servidores da Administração Pública Federal direta, das autarquias e das fundações públicas federais.
@@ -20,5 +18,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 9 de setembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

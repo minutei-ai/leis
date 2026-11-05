@@ -1,6 +1,10 @@
 > **LEI Nº 3.917, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de auxílio-alimentação aos servidores da educação em efetivo exercício na rede pública estadual de ensino, na forma que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de auxílio-alimentação aos servidores da educação em efetivo exercício na rede pública estadual de ensino, na forma que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

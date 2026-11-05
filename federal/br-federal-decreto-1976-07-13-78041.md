@@ -1,5 +1,3 @@
-###DEC-078041-0-000-13-07-1976@@@
-
 decreto nº 78.041, de 13 de julho de 1976.
 
 Concede autorização à S. A.  Indústrias Reunidas F. Matarazzo, com sede em São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento fabril que menciona.

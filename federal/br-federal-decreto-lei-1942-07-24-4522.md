@@ -1,5 +1,3 @@
-###DEL-004522-0-000-24-07-1942@@@
-
 DECRETO-LEI N. 4.522 – DE 24 DE JULHO DE 1942
 
 Prorroga o mandato dos atuais membros do Conselho Fiscal do Instituto de Aposentadoria e Pensões da Estiva e dá outras providências

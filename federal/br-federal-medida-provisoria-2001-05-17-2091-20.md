@@ -1,5 +1,3 @@
-###MPV-002091-0-020-17-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.091‑20, DE 17 DE MAIO DE 2001.
 
 Altera dispositivos da Lei nº 9.870, de 23 de novembro de 1999, que dispõe sobre o valor total das anuidades escolares.

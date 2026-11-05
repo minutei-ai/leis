@@ -1,7 +1,3 @@
-1
-
-###DEC-001508-0-000-31-05-1995@@@
-
 DECRETO Nº 1.508, DE 31 DE MAIO DE 1995.
 
 Dispõe sobre a subordinação do Programa de Artesanato Brasileiro, e dá outras providências.

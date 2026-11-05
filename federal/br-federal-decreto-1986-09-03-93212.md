@@ -1,5 +1,3 @@
-###DEC-093212-0-000-03-09-1986@@@
-
 DECRETO Nº 93.212, DE 03 DE SETEMBRO DE 1986
 
 Cria Grupo Executivo destinado a promover as medidas necessárias à implantação da Reforma da Administração Pública Federal.

@@ -1,5 +1,3 @@
-###DEC-084210-0-000-14-11-1979@@@
-
 Decreto nº 84.210, de 14 de novembro de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

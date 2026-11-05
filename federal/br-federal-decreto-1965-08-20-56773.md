@@ -1,5 +1,3 @@
-###DEC-056773-0-000-20-08-1965@@@
-
 DECRETA nº 56.773, DE 20 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Adelino Parro a pesquisar água mineral no município de Irapuru, Estado de São Paulo.

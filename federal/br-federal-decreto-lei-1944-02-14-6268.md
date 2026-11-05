@@ -1,5 +1,3 @@
-###DEL-006268-0-000-14-02-1944@@@
-
 DECRETO-LEI N. 6.268 – DE 14 DE FEVEREIRO DE 1944
 
 Cria o Depósito do Pessoal do Exército da Fôrça Expedicionária Brasileira

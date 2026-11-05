@@ -1,5 +1,3 @@
-###DEC-055330-0-000-31-12-1964@@@
-
 DECRETO Nº 55.330, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João de Deus Reis a pesquisar ouro e diamante no município de Diamantina, Estado de Minas Gerais.

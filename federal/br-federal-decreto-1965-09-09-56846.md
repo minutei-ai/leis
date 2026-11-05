@@ -1,5 +1,3 @@
-###DEC-056846-0-000-09-09-1965@@@
-
 DECRETO Nº 56.846, DE 9 DE SETEMBRO DE 1965.
 
 Outorga concessão à Rádio Liberdade de Caruaru para instalar uma estação de radiodifusão de sons.

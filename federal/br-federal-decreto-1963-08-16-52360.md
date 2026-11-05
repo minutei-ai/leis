@@ -1,5 +1,3 @@
-###DEC-052360-0-000-16-08-1963@@@
-
 DECRETO Nº 52.360, DE 16 DE Agôsto DE 1963.
 
 Declara de utilidade publica a Fundação América de Viveiros com sede no Estado da Guanabara.

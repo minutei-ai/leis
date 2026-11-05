@@ -1,5 +1,3 @@
-###DEC-073618-0-000-12-02-1974@@@
-
 DECRETO Nº 73.618, DE 12 DE FEVEREIRO DE 1974.
 
 Altera o Decreto nº 70.750, de 23 de junho de 1972, que consolida dispositivos relativos à organização e competência do Conselho Nacional do Petróleo - CNP, reformula a estrutura básica do Órgão e dá outras providências.

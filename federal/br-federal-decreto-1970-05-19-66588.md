@@ -1,5 +1,3 @@
-###DEC-066588-0-000-19-05-1970@@@
-
 decreto nº 66.588, de 19 de maio de 1970.
 
 Provê sobre a Concessão de Bolsas de Estudo, nos Estabelecimentos Particulares de Ensino Superior.

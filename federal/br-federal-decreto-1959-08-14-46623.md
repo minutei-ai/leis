@@ -1,5 +1,3 @@
-###DEC-046623-0-000-14-08-1959@@@
-
 DECRETO Nº 46.623, DE 14 DE AGôSTO DE 1959.
 
 Autoriza a São Paulo Light S. A .Serviços de Eletricidade a ampliar a usina termelétrica de São Sebastião, Estado de São Paulo.

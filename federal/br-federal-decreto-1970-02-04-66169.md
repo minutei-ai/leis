@@ -1,5 +1,3 @@
-###DEC-066169-0-000-04-02-1970@@@
-
 DECRETO Nº 66.169 - DE 4 DE FEVEREIRO DE 1970
 
 Extingue o Escritório Técnico de Agricultura (E. T. A.) e dá outras providências.

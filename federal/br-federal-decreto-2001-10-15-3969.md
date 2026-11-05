@@ -1,5 +1,3 @@
-###DEC-003969-0-000-15-10-2001@@@
-
 DECRETO Nº 3.969, DE 15 DE OUTUBRO DE 2001
 
 Estabelece normas gerais sobre o planejamento das atividades da administração previdenciária em matéria fiscal e para a execução de procedimentos fiscais com vistas à apuração e cobrança de créditos previdenciários.

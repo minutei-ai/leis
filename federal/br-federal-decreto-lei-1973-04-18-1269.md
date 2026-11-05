@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7d2ea35a-9008-4160-8e7b-cd541b06356b/texto#nowhere)
 
-###DEL-001269-0-000-18-04-1973@@@
-
 # DECRETO-LEI Nº 1.269, DE 18 DE ABRIL DE 1973
 
 Estabelece isenção do Imposto sobre Operações Financeiras, altera o Decreto-lei nº 37, de 18 de novembro de 1966, e dá outras providências.

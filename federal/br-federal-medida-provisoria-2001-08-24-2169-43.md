@@ -1,5 +1,3 @@
-###MPV-002169-0-043-24-08-2001@@@
-
 MEDIDA PROVISÓRIA No 2.169-43, DE 24 DE AGOSTO DE 2001.
 
  Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

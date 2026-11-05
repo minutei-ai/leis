@@ -1,5 +1,3 @@
-###DEC-065244-0-000-26-09-1969@@@
-
 DECRETO Nº 65.244 - DE 26 DE SETEMBRO DE 1969.
 
 Declara de utilidade pública a União Espírita Macaense, com sede em Macaé, Estado do Rio de Janeiro.

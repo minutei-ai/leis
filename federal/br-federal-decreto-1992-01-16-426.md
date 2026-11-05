@@ -1,7 +1,3 @@
-1
-
-###DEC-000426-0-000-16-01-1992@@@
-
 DECRETO N° 426, DE 16 DE JANEIRO DE 1992
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Companhia Siderúrgica Nacional - CSN, Companhia Siderúrgica Paulista - COSIPA, Aço Minas Gerais S.A. - AÇOMINAS e Companhia Nacional de Álcalis - CNA.

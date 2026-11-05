@@ -1,5 +1,3 @@
-###DEC-002511-0-000-06-03-1998@@@
-
 DECRETO Nº 2.511, DE 6 DE MARÇO DE 1998
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Alcance Parcial de Cooperação e Intercâmbio de Bens nas Áreas Cultural, Educacional e Científica, entre Brasil, Argentina, Bolívia, Chile, Colômbia, Cuba, Equador, México, Paraguai, Peru, Uruguai e Venezuela, de 05 de março de 1997.
@@ -76,6 +74,52 @@ A Secretaria - Geral da Associação será depositária do presente Protocolo, d
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos cinco dias do mês de março de mil novecentos e noventa e sete, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jesús Sabra</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Bolívia:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Antonio Cuspedes toro</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Chile:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Augusto Bermudez Arancibia</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Colômbia:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jaime Pinzón López</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República de Cuba:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Manuel Aguilera de la Paz</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Equador:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Eduardo Cabezas Molina</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo dos Estados Unidos Mexicanos:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Rogelio Granguillhome</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governa da República do Paraguai:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Efraín Darío Centurion</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Peru:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Agustín de Madalengoitia Gutiérrez</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Adolfo Castells</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Venezuela:</span></p></td><td style="width:152.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Juan Moreno Gómez</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina:
+
+Jesús Sabra
+
+Pelo Governo da República da Bolívia:
+
+Antonio Cuspedes toro
+
+Pelo Governo da República Federativa do Brasil:
+
+José Artur Denot Medeiros
+
+Pelo Governo da República do Chile:
+
+Augusto Bermudez Arancibia
+
+Pelo Governo da República da Colômbia:
+
+Jaime Pinzón López
+
+Pelo Governo da República de Cuba:
+
+Manuel Aguilera de la Paz
+
+Pelo Governo da República do Equador:
+
+Eduardo Cabezas Molina
+
+Pelo Governo dos Estados Unidos Mexicanos:
+
+Rogelio Granguillhome
+
+Pelo Governa da República do Paraguai:
+
+Efraín Darío Centurion
+
+Pelo Governo da República do Peru:
+
+Agustín de Madalengoitia Gutiérrez
+
+Pelo Governo da República Oriental do Uruguai:
+
+Adolfo Castells
+
+Pelo Governo da República da Venezuela:
+
+Juan Moreno Gómez
 
 NOTA: Por Acta de Rectificación de fecha 17 de febrero de 1997, se registró Ia designación del señor Agustín de Madalengoitia Gutiérrez como Plenipotenciario para Ia suscripción del presente Acuerdo.

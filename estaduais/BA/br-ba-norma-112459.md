@@ -2,12 +2,14 @@ LEI Nº 11.046 DE 20 DE MAIO DE 2008
 
 Dispõe sobre a Política, cria o Sistema Estadual de Segurança Alimentar e Nutricional e dá outras providências.
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [14.481](https://www.legislabahia.ba.gov.br/documentos/decreto-no-14481-de-16-de-maio-de-2013), de 16 de maio de 2013 - Homologa a Resolução nº 01/2013, de 07 de maio de 2013, do CONSEA-Ba, que aprova o Regimento do Conselho de Segurança Alimentar e Nutricional do Estado da Bahia - CONSEA-Ba.
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** \- Esta Lei dispõe sobre a Política Estadual de Segurança Alimentar e Nutricional, seus fins e mecanismos de formulação e aplicação, bem como institui o Sistema Estadual de Segurança Alimentar e Nutricional, estabelecendo as obrigações e responsabilidades da administração pública para garantir o direito humano à alimentação adequada e saudável, assegurada a participação da sociedade civil organizada na formulação de políticas, planos, programas e ações direcionadas à segurança alimentar e nutricional.
@@ -30,7 +32,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **VII** \-    programas e ações contínuos de combate à fome e garantia da segurança alimentar e nutricional previstos no Plano Plurianual - PPA, tais como distribuição de refeições, alimentos, água, leite, sementes, mudas de palmas, de mandioca, fruteiras, plantas nativas e essências, alevinos, _kits_ de equipamentos para pesca, embarcações para pescadores artesanais, de reprodutores e matrizes de caprinos e ovinos, máquinas forrageiras, de cisternas e outras tecnologias hídricas de captação e armazenamento de água de chuva para consumo humano e produção e de equipamentos produtivos.
 
-Redação de acordo com a Lei nº [14.635](https://www.legislabahia.ba.gov.br/documentos/lei-no-14635-de-28-de-novembro-de-2023) de 28 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.635](https://www.legislabahia.ba.gov.br/documentos/lei-no-14635-de-28-de-novembro-de-2023) de 28 de novembro de 2023.
+
 Redação anterior de acordo com art. 16 da Lei nº [13.460](https://www.legislabahia.ba.gov.br/documentos/lei-no-13460-de-10-de-dezembro-de-2015), de 10 de dezembro de 2015 que acresceu este inciso ao art. 3º: "VII - programas e ações contínuos previstos no Plano Plurianual - PPA, tais como distribuição de refeições, alimentos, água, leite, sementes, mudas de palmas, de mandioca, fruteiras, plantas nativas e essências, alevinos, kits de equipamentos para pesca, embarcações para pescadores artesanais, de reprodutores e matrizes de caprinos e ovinos, máquinas forrageiras, de cisternas e outras tecnologias hídricas de captação e armazenamento de água de chuva para consumo humano e produção e de equipamentos produtivos."
 
 **Art. 4º -** O direito humano à alimentação adequada e saudável, objetivo primordial da Política Estadual de Segurança Alimentar e Nutricional, é direito absoluto, intransmissível, indisponível, irrenunciável, imprescritível e de natureza extra-patrimonial.
@@ -41,7 +44,8 @@ Redação anterior de acordo com art. 16 da Lei nº [13.460](https://www.legisla
 
 **Art. 5º -** As obrigações previstas nesta Lei não excluem outras decorrentes de normas e princípios previstos no ordenamento jurídico nacional e internacional.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA POLÍTICA E DO PLANO ESTADUAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
 
 **Art. 6º** \- A Política Estadual de Segurança Alimentar e Nutricional, como componente estratégico do desenvolvimento sustentável, tem por objetivo promover, através de planejamento integrado e de forma intersetorial, ações e políticas governamentais e ações da sociedade civil destinadas a assegurar o direito humano à alimentação adequada e saudável e o desenvolvimento integral da pessoa humana.
@@ -92,14 +96,16 @@ Inciso XIII acrescido pela Lei nº 14.635 de 28 de novembro de 2023.
 
 **IV -**     prever ações de caráter emergencial para o combate à fome e situações de risco à segurança alimentar e nutricional.
 
-Redação de acordo com a Lei nº [14.635](https://www.legislabahia.ba.gov.br/documentos/lei-no-14635-de-28-de-novembro-de-2023) de 28 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.635](https://www.legislabahia.ba.gov.br/documentos/lei-no-14635-de-28-de-novembro-de-2023) de 28 de novembro de 2023.
+
 Redação original: "IV - prever ações de caráter emergencial em situação de risco à segurança alimentar e nutricional."
 
 **§ 2º -** O Plano Estadual de Segurança Alimentar e Nutricional deverá ser elaborado no âmbito do Plano Plurianual do Estado.
 
 **§ 3º** \- Os programas e ações componentes do Plano Estadual de Segurança Alimentar e Nutricional que integram as diversas Políticas articuladas pelo Sistema Estadual de Segurança Alimentar e Nutricional, serão financiados pelos seus respectivos orçamentos, fundos e outras fontes, incluindo-se o Fundo Estadual de Combate à Pobreza.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO SISTEMA ESTADUAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
 
 **Art. 9º** - A consecução do direito humano à alimentação adequada e saudável da população far-se-á por meio do Sistema Estadual de Segurança Alimentar e Nutricional, integrado por um conjunto de órgãos e entidades do Estado da Bahia e dos Municípios e pelas instituições privadas, com ou sem fins lucrativos, com atuação em áreas afetas à segurança alimentar e nutricional, observado o disposto nesta Lei e em normas complementares.
@@ -146,7 +152,8 @@ DO SISTEMA ESTADUAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
 
 **§ 2º -** Os órgãos responsáveis pela definição dos critérios de que trata o § 1º deste artigo poderão estabelecer requisitos distintos e específicos para os setores público e privado.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS CONFERÊNCIAS
 
 **Art. 14** - As conferências são instâncias responsáveis pela indicação aos CONSEA’s Estadual e Municipais, das diretrizes e prioridades da Política e dos Planos Estadual e Municipais de Segurança Alimentar e Nutricional, bem como pela avaliação do Sistema Estadual de Segurança Alimentar e Nutricional do Estado.
@@ -159,14 +166,16 @@ DAS CONFERÊNCIAS
 
 **III -**     escolher os delegados para as conferências de âmbito superior.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DO CONSEA-BA
 
 **Art. 15 -** Ao Conselho Estadual de Segurança Alimentar e Nutricional - CONSEA-BA, órgão de assessoramento direto do Governador do Estado, cabe propor as diretrizes e prioridades da Política e do Plano Estadual de Segurança Alimentar e Nutricional, considerando as deliberações da Conferência Estadual de Segurança Alimentar e Nutricional, além de acompanhar, articular e monitorar a convergência de ações destinadas a assegurar o direito humano à alimentação adequada e saudável.
 
 **Parágrafo único -** A destinação dos servidores, infraestrutura e recursos financeiros necessários ao funcionamento do CONSEA-Ba ficará a cargo da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, por meio de dotação orçamentária própria.
 
-Redação de acordo com o Decreto nº [16.087](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16087-de-21-de-maio-de-2015), de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº [16.087](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16087-de-21-de-maio-de-2015), de 21 de maio de 2015.
+
 Redação original: "Parágrafo único  - A destinação dos servidores, infra-estrutura e recursos financeiros necessários ao funcionamento do CONSEA-BA ficará a cargo da Secretaria de Desenvolvimento Social e Combate à Pobreza, por meio de dotação orçamentária própria. "
 
 **Art. 16 -** Compete ao CONSEA-BA:
@@ -211,10 +220,12 @@ Redação original: "Parágrafo único  - A destinação dos servidores, infra-
 
 **Parágrafo único -**  O Conselho será presidido por um de seus membros, representante da sociedade civil, indicado pelo plenário do colegiado, na forma regimental, e nomeado pelo Governador do Estado e terá como Secretário Geral o Secretário de Justiça, Direitos Humanos e Desenvolvimento Social.
 
-Redação de acordo com o Decreto nº [16.087](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16087-de-21-de-maio-de-2015), de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº [16.087](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16087-de-21-de-maio-de-2015), de 21 de maio de 2015.
+
 Redação original: "Parágrafo único  - O Conselho será presidido por um de seus membros, representante da sociedade civil, indicado pelo plenário do colegiado, na forma regimental, e nomeado pelo Governador do Estado e terá como Secretário Geral o Secretário de Desenvolvimento Social e Combate à Pobreza."
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO GRUPO GOVERNAMENTAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
 
 **Art. 19 -** Fica criado o Grupo Governamental de Segurança Alimentar e Nutricional, no âmbito do Sistema Estadual de Segurança Alimentar e Nutricional, com a finalidade de promover a articulação e a integração dos órgãos e entidades da administração pública estadual afetos à área de segurança alimentar e nutricional, com as seguintes competências:
@@ -251,7 +262,8 @@ Inciso VIII acrescido pela Lei nº [14.635](https://www.legislabahia.ba.gov.br/d
 
 **Parágrafo único** - A participação como membro do Grupo Governamental de Segurança Alimentar e Nutricional será considerada prestação de serviço público relevante, não remunerada.
 
-Redaçao de acordo com a Lei nº [14.635](https://www.legislabahia.ba.gov.br/documentos/lei-no-14635-de-28-de-novembro-de-2023) de 28 de novembro de 2023.<br>
+Redaçao de acordo com a Lei nº [14.635](https://www.legislabahia.ba.gov.br/documentos/lei-no-14635-de-28-de-novembro-de-2023) de 28 de novembro de 2023.
+
 Redação original: "Art. 21 - O Grupo Governamental de Segurança Alimentar e Nutricional será integrado por Secretários de Estado responsáveis pelas Pastas afetas à consecução da segurança alimentar e nutricional."
 
 **<Revogado>Art. 22 -** O Grupo Governamental será presidido pelo Secretário Geral do CONSEA-BA.
@@ -266,7 +278,8 @@ Art. 22-A acrescido  pela Lei nº [14.635](https://www.legislabahia.ba.gov.br/d
 
 Art. 22-B acrescido  pela Lei nº [14.635](https://www.legislabahia.ba.gov.br/documentos/lei-no-14635-de-28-de-novembro-de-2023) de 28 de novembro de 2023.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DAS INSTÂNCIAS MUNICIPAIS DE SEGURANÇA ALIMENTAR E NUTRICIONAL
 
 **Art. 23 -** Os CONSEA’s municipais e outros órgãos de Segurança Alimentar e Nutricional dos municípios integrantes do Sistema Estadual de Segurança Alimentar e Nutricional, em regime de colaboração, são responsáveis pela articulação entre o poder público e a sociedade civil no âmbito municipal e territorial para a consecução do direito humano à alimentação adequada e saudável e da segurança alimentar e nutricional.
@@ -275,7 +288,8 @@ DAS INSTÂNCIAS MUNICIPAIS DE SEGURANÇA ALIMENTAR E NUTRICIONAL
 
 **§ 2º** \- O dever do poder público não exclui a responsabilidade das entidades da sociedade civil integrantes do Sistema Estadual de Segurança Alimentar e Nutricional.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 24** \- Ficam mantidas as atuais designações dos membros do CONSEA-BA, com seus respectivos mandatos, até o prazo de 02 (dois) anos, contados a partir da nomeação dos atuais membros, de acordo com o Decreto nº 10.418, de 08 de agosto de 2007.

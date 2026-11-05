@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210030)<br>
-
 # DECRETO N° 68.897, DE 23 DE SETEMBRO DE 2024
 
 ### _Dá nova redação a dispositivos do Decreto n° 52.334, de 6 de novembro de 2007, que dispõe sobre a representação da Defensoria Pública do Estado de São Paulo nos Conselhos Estaduais que especifica e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-049810-0-000-31-12-1960@@@
-
 decreto nº 49.810, de 31 de dezembro de 1960.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Bebedouro, com sede em Bebedouro,, Estado de São Paulo.

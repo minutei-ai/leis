@@ -1,5 +1,3 @@
-###DEC-089291-0-000-11-01-1984@@@
-
 Decreto nº 89.291, de 11 de janeiro de 1984
 
 Inclui o Aeroporto de Confins, em Confins, Distrito de Lagoa Santa, Estado de Minas Gerais, entre os aeroportos internacionais do Brasil, estabelecidos pelo Decreto nº 74.924, de 21 de novembro de 1974.

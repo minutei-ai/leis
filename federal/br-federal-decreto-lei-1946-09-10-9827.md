@@ -1,5 +1,3 @@
-###DEL-009827-0-000-10-09-1946@@@
-
 DECRETO-LEI Nº 9.827, DE 10 DE SETEMBRO DE 1946
 
 Dispõe sôbre a produção açucareira e dá outras providências

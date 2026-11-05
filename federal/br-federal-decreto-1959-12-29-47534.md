@@ -1,5 +1,3 @@
-###DEC-047534-0-000-29-12-1959@@@
-
 Decreto nº 47.534, de 29 de dezembro de 1959.
 
 Concede reconhecimento a Cursos.

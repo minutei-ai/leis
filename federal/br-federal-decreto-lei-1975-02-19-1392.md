@@ -1,5 +1,3 @@
-###DEL-001392-0-000-19-02-1975@@@
-
 # DECRETO-LEI Nº 1.392, DE 19 DE FEVEREIRO DE 1975
 
 Fixa os valores de salários do Grupo-Defesa Aérea e Controle do Tráfego Aéreo e dá outras providências.
@@ -10,7 +8,41 @@ O PRESIDENTE DA REPÚPLICA, no uso da atribuição que lhe confere o artigo 55, 
 
 Art. 1º Aos níveis de classificação dos empregos integrantes do Grupo-Defesa Aérea e Controle do Tráfego Aéreo, criado com fundamento no artigo 4º da Lei nº 5.645, de 10 de dezembro de 1970, corresponderão os seguintes valores de salário:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Valores</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Níveis</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Mensais</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>DACTA 7 .....................................................................................</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>6.962,00</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>DACTA 6 .....................................................................................</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>6.200,00</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>DACTA 5 .....................................................................................</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>5.100,00</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>DACTA 4 .....................................................................................</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>4.086,00</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>DACTA 3 .....................................................................................</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>3.518,00</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>DACTA 2 .....................................................................................</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>3.225,00</span></p></td></tr><tr><td style="width:299.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>DACTA 1 .....................................................................................</span></p></td><td style="width:105.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.65pt; text-align:center"><span>2.800,00</span></p></td></tr></tbody></table>
+Valores
+
+Níveis
+
+Mensais
+
+Cr$
+
+DACTA 7 .....................................................................................
+
+6.962,00
+
+DACTA 6 .....................................................................................
+
+6.200,00
+
+DACTA 5 .....................................................................................
+
+5.100,00
+
+DACTA 4 .....................................................................................
+
+4.086,00
+
+DACTA 3 .....................................................................................
+
+3.518,00
+
+DACTA 2 .....................................................................................
+
+3.225,00
+
+DACTA 1 .....................................................................................
+
+2.800,00
 
 Art. 2º O ingresso nas Categorias Funcionais do Grupo-Defesa Aérea e Controle do Tráfego Aéreo far-se-á em virtude de habilitação em concurso público de provas ou de provas e títulos e em curso ou estágio de capacitação-seleção, que constitui parte integrante do concurso.
 

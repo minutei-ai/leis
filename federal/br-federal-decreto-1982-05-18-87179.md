@@ -1,5 +1,3 @@
-###DEC-087179-0-000-18-05-1982@@@
-
 Decreto nº 87.179, de 18 de maio de 1982
 
 Aprova o Regulamento para o Corpo de Praças da Armada.
@@ -976,7 +974,33 @@ Art. 127 - A transferência para a RRm, "ex-officio", verificar-se-á sempre que
 
 I - atingirem as seguintes idades-limite:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Graduação</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Idade</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Suboficial</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">52 anos</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Primeiro-Sargento</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">50 anos</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Segundo-Sargento</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">48 anos</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Terceiro-Sargento</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">47 anos</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cabo</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">45 anos</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Marinheiro</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">44 anos</span></p></td></tr></tbody></table>
+Graduação
+
+Idade
+
+Suboficial
+
+52 anos
+
+Primeiro-Sargento
+
+50 anos
+
+Segundo-Sargento
+
+48 anos
+
+Terceiro-Sargento
+
+47 anos
+
+Cabo
+
+45 anos
+
+Marinheiro
+
+44 anos
 
 II - forem abrangidas pela Quota Compulsória;
 

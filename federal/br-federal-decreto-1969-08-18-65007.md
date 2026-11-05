@@ -1,5 +1,3 @@
-###DEC-065007-0-000-18-08-1969@@@
-
 DECRETO Nº 65.007 - DE 18 DE AGÔSTO DE 1969.
 
 Retifica o art. 1º do Decreto nº 58.630, de 15 de junho de 1966.

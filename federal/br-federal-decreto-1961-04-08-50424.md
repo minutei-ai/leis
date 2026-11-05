@@ -1,5 +1,3 @@
-###DEC-050424-0-000-08-04-1961@@@
-
 DECRETO Nº 50.424, de 8 DE ABRIL DE 1961.
 
 Em complemento ao Decreto nº 35,509, de 17 de maio de 1954, classifica em categoria “A” o Distrito Federal e em categoria “b” o Estado da Guanabara.

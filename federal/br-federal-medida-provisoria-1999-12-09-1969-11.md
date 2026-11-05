@@ -1,5 +1,3 @@
-###MPV-001969-0-011-09-12-1999@@@
-
 MEDIDA PROVISÓRIA nº 1.969-11, DE 9 DE DEZEMBRO DE 1999.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da Dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

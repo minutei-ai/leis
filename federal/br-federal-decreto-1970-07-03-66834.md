@@ -1,5 +1,3 @@
-###DEC-066834-0-000-03-07-1970@@@
-
 DECRETO Nº 66.834, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Vila de São Vicente de Paulo de Americana - Obra Unida à Sociedade de São Vicente de Paulo, com sede em Americana, Estado de São Paulo.

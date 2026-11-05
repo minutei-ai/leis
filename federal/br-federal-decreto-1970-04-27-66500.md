@@ -1,5 +1,3 @@
-###DEC-066500-0-000-27-04-1970@@@
-
 DECRETO Nº 66.500, DE 27 DE ABRIL DE 1970.
 
 Constitui Comissão para estudar a fusão do IBRA e do INDA e dá outras providências.

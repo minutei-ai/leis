@@ -1,5 +1,3 @@
-###DEC-003058-0-000-14-05-1999@@@
-
 DECRETO Nº 3.058, DE 14 DE MAIO DE 1999
 
 Dispõe sobre a Ata de Retificação do Protocolo Adicional sobre Navegação e Segurança ao Acordo de Transporte Fluvial pela Hidrovia Paraguai-Paraná (Porto de Cáceres/Porto de Nova Palmira).

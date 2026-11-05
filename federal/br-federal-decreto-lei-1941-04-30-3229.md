@@ -1,5 +1,3 @@
-###DEL-003229-0-000-30-04-1941@@@
-
 DECRETO-LEI N. 3.229 – DE 30 DE ABRIL DE 1941
 
 Dispõe sobre a competência para o julgamento de processos referentes a dissídios de trabalho e a questões de previdência social, pendentes de decisão ou de recurso, à data da instalação da Justiça do Trabalho, e dá outras providências

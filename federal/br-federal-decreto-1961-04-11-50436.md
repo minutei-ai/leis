@@ -1,5 +1,3 @@
-###DEC-050436-0-000-11-04-1961@@@
-
 DECRETO Nº 50.436, DE 11 DE ABRIL DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.570, de 7 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do sistema Curema-Mãe d’Água, no município de Piancó, Estado da Paraíba.

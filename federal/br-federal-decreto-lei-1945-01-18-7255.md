@@ -1,5 +1,3 @@
-###DEL-007255-0-000-18-01-1945@@@
-
 DECRETO-LEI N. 7.255 – DE 18 DE JANEIRO DE 1945
 
 Dispõe sôbre o cancelamento de dívidas do impôsto territorial e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-051304-0-000-25-08-1961@@@
-
 DECRETO Nº 51.304, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o Govêrno do Estado de Sergipe a pesquisar minérios de titânio, no município Japaratuba, Estado de Sergipe.

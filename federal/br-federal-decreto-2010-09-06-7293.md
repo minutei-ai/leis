@@ -1,5 +1,3 @@
-###DEC-007293-0-000-06-09-2010-PUB-01@@@
-
 DECRETO Nº 7.293, DE 6 DE SETEMBRO DE 2010
 
 Altera o Decreto no 6.842, de 7 de maio de 2009, que regulamenta a concessão de alíquota zero, até 30 de abril de 2012 ou até que a produção nacional atenda a oitenta por cento do consumo interno, da Contribuição para o PIS/PASEP, da Contribuição para o Financiamento da Seguridade Social - COFINS, da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação incidentes sobre a receita bruta decorrente da venda no mercado interno e sobre a importação de papel.

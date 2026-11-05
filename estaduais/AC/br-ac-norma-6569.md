@@ -1,6 +1,10 @@
 > **LEI Nº 4.649, DE 22 DE SETEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Garante prioridade de atendimento médico-hospitalar às mulheres vítimas de violência.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Garante prioridade de atendimento médico-hospitalar às mulheres vítimas de violência.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

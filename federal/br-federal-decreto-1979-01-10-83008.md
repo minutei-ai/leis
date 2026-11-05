@@ -1,5 +1,3 @@
-###DEC-083008-0-000-10-01-1979@@@
-
 DECRETO Nº 83.008, DE 10 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Engenharia Civil, ministrado pela Faculdade de Engenharia Civil, de Itajubá, com sede na cidade de Itajubá, Estado de Minas Gerais.

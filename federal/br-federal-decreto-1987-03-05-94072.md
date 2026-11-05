@@ -1,5 +1,3 @@
-###DEC-094072-0-000-05-03-1987@@@
-
 DECRETO N° 94.072, DE 05 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Alpina", classificado no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração", situado no Município de Teresópolis, no Estado do Rio de Janeiro, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.691, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-000000-0-000-04-01-1823@@@
-
 DECRETO - DE 4 DE JANEIRO DE 1823
 
 Concede o meio soldo ás viuvas ou orphãs dos officiaes e inferiores do Exercito que morrerem em defesa da Independencia do Imperio, e o soldo por inteiro ás dos cabos e soldados.

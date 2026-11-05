@@ -1,5 +1,3 @@
-###DEC-078557-0-000-11-10-1976@@@
-
 DECRETO Nº 78.557, DE 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras de Cruzeiro, com sede na cidade de Cruzeiro, Estado de São Paulo.

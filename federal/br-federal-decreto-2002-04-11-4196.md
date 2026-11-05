@@ -1,5 +1,3 @@
-###DEC-004196-0-000-11-04-2002@@@
-
 DECRETO Nº 4.196, DE 11 DE ABRIL DE 2002
 
 Fixa o número de dias para a exibição de obras audiovisuais cinematográficas brasileiras durante o ano de 2002, e dá outras providências.
@@ -10,7 +8,57 @@ D E C R E T A :
 
 Art. 1º É fixado o número de dias nos quais as empresas proprietárias, locatárias ou arrendatárias de salas, espaços ou locais de exibição pública comercial exibirão obras cinematográficas brasileiras de longa-metragem no ano de 2002, conforme a seguinte tabela:
 
-<table cellspacing="2" cellpadding="0" style="margin-left:0.75pt; margin-bottom:0pt; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">SALAS</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">TOTAL DE DIAS DE OBRIGATORIEDADE</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">1 sala</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">28 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">2 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">56 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">3 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">84 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">4 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">112 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">5 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">140 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">6 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">154 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">7 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">175 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">8 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">182 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">9 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">196 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">10 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">210 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">11 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">217 dias</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">Mais de 11 salas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:Verdana; font-size:8pt">217 dias + 7 dias por sala</span></p></td></tr></tbody></table>
+SALAS
+
+TOTAL DE DIAS DE OBRIGATORIEDADE
+
+1 sala
+
+28 dias
+
+2 salas
+
+56 dias
+
+3 salas
+
+84 dias
+
+4 salas
+
+112 dias
+
+5 salas
+
+140 dias
+
+6 salas
+
+154 dias
+
+7 salas
+
+175 dias
+
+8 salas
+
+182 dias
+
+9 salas
+
+196 dias
+
+10 salas
+
+210 dias
+
+11 salas
+
+217 dias
+
+Mais de 11 salas
+
+217 dias + 7 dias por sala
 
 Art. 2º A tabela constante do art. 1º refere-se às salas, aos espaços ou aos locais de exibição pública comercial geminadas ou não, localizadas sob o mesmo teto pertencentes à mesma empresa.
 

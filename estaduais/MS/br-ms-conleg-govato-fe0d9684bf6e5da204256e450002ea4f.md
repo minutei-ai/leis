@@ -8,25 +8,30 @@ Publicada no Diário Oficial nº 244, de 20 de dezembro de 1.979. [Revogada pela
 
 Situação no cadastro de origem: Revogada
 
-**<del>O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL</del>**<del><br>
-Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - O parágrafo 2º do artigo 1º do</del> [<del>Decreto-lei nº 105 de 06 de junho de 1979</del>](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/c19b1c307bc93729042571070059deab/ca55f5b776ca542204256e8b006e6924?OpenDocument)<del>, passa a vigorar com a seguinte redação:<br>
-<br>
-"§ 2º - A indicação para o provimento dos referidos cargos a deverá recair em, pessoas com o curso do segundo grau de escolaridade concluído."<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação e seus efeitos retroagindo à data, de vigência do Decreto-lei alterado, revogando as disposições em contrário.<br>
-<br>
-Art. 3º - Esta Lei entrará em vigor no dia 1º de janeiro de 1980, revogadas as disposições em contrário.</del><br>
-<br>
-<del>Campo Grande, 19 de dezembro de 1979.</del><br>
-<br>
-<del>MARCELO MIRANDA SOARES</del><br>
-<del>Governador</del><br>
-<br>
-<del>JOÃO LEITE SCMIDIT</del><br>
-<del>Secretário de Estado para</del><br>
-<del>Assuntos da Casa Civil</del><br>
-<br>
-<del>PAULO DE ALMEIDA FAGUNDES</del><br>
-<del>Secretário de EStado de Fazenda</del>
+**~~O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL~~**~~
+
+Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - O parágrafo 2º do artigo 1º do~~ [~~Decreto-lei nº 105 de 06 de junho de 1979~~](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/c19b1c307bc93729042571070059deab/ca55f5b776ca542204256e8b006e6924?OpenDocument)~~, passa a vigorar com a seguinte redação:
+
+"§ 2º - A indicação para o provimento dos referidos cargos a deverá recair em, pessoas com o curso do segundo grau de escolaridade concluído."
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação e seus efeitos retroagindo à data, de vigência do Decreto-lei alterado, revogando as disposições em contrário.
+
+Art. 3º - Esta Lei entrará em vigor no dia 1º de janeiro de 1980, revogadas as disposições em contrário.~~
+
+~~Campo Grande, 19 de dezembro de 1979.~~
+
+~~MARCELO MIRANDA SOARES~~
+
+~~Governador~~
+
+~~JOÃO LEITE SCMIDIT~~
+
+~~Secretário de Estado para~~
+
+~~Assuntos da Casa Civil~~
+
+~~PAULO DE ALMEIDA FAGUNDES~~
+
+~~Secretário de EStado de Fazenda~~

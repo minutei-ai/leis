@@ -1,5 +1,3 @@
-###MPV-000137-0-000-17-11-2003@@@
-
 MEDIDA PROVISÓRIA Nº 137, DE 17 DE OUTUBRO 2003.
 
        Autoriza a União a permutar Certificados Financeiros do Tesouro e dá outras providências
@@ -18,5 +16,6 @@ MEDIDA PROVISÓRIA Nº 137, DE 17 DE OUTUBRO 2003.
 
         Brasília, 17 de novembro de 2003; 182º da independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

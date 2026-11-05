@@ -1,5 +1,3 @@
-###DEC-046832-0-000-15-09-1959@@@
-
 decreto nº 46.832, de 15 de setembro de 1959.
 
 Autoriza o cidadão brasileiro Joaquim Pegado Dantas Cortes a pesquisar cassiterita no município de Campo Redondo, Estado do Rio Grande do Norte.

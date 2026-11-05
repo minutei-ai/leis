@@ -1,5 +1,3 @@
-###DEC-054502-0-000-20-10-1964@@@
-
 DECRETO Nº 54.502, DE 20 DE OUTUBRO DE 1964.
 
 Dispõe sôbre a revisão da tabela de pessoal da Companhia Brasileira de Armazenamento, na forma prevista no artigo 19 da Lei nº 4.345, de 26 de junho de 1964, e dá outras providências.

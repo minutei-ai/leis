@@ -1,5 +1,3 @@
-###DEC-054358-0-000-30-09-1964@@@
-
 Decreto nº 54.358, de 30 de setembro de 1964.
 
 Cria a Comissão de Coordenação Executiva do Abastecimento e dá outras providências.
@@ -73,8 +71,6 @@ Hugo de Almeida Leme
 Daniel Faraco
 
 Roberto de Oliveira Campos
-
-###DEC-054358-0-000-30-09-1964@@@RET01+++
 
 DECRETO Nº 54.358, DE 30 DE SETEMBRO DE 1964.
 

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51052)
-
 # LEI Nº 11.734, DE 25 DE MAIO DE 2004
 
 ## (PL 1105/2003 - Aldo Demarchi)

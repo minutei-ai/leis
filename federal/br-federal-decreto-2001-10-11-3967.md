@@ -1,5 +1,3 @@
-###DEC-003967-0-000-11-10-2001@@@
-
 DECRETO Nº 3.967, DE 11 DE OUTUBRO DE 2001
 
 Altera o Programa de Dispêndios Globais - PDG da Caixa Econômica Federal - CEF, para 2001, aprovado pelo Decreto nº 3.747, de 6 de fevereiro de 2001, e dá outras providências.

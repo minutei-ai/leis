@@ -1,5 +1,3 @@
-###DEC-061546-0-000-17-10-1967@@@
-
 DECRETO Nº 61.546, DE 17 DE OUTUBRO DE 1967
 
 Declara de utilidade pública a “Fundação Educacional de São Francisco”, com sede em Goiânia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-068763-0-000-17-06-1971@@@
-
 DECRETO Nº 68.763 - DE 17 DE JUNHO DE 1971.
 
 Declara a caducidade dos Decretos que menciona.

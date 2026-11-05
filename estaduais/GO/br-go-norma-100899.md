@@ -1,4 +1,5 @@
-LEI Nº 20.673, DE 20 DE DEZEMBRO DE 2019.<br>
+LEI Nº 20.673, DE 20 DE DEZEMBRO DE 2019.
+
 \- [Revogada pela Lei nº 24.535, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117345), art. 1º, II.
 
 ~~[Altera a Lei nº 12.986, de 31 de dezembro de 1996, que institui o Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário, para acrescentar no artigo 3º, o inciso Xll, agregando a composição do Fundo o saldo financeiro positivo do duodécimo.](https://legisla.casacivil.go.gov.br/api/v2/pesquisa_legislacao/82473)~~
@@ -19,7 +20,8 @@ LEI Nº 20.673, DE 20 DE DEZEMBRO DE 2019.<br>
 
 ~~Deputado~~
 
-~~LISSAUER VIEIRA~~<br>
+~~LISSAUER VIEIRA~~
+
 ~~PRESIDENTE -~~
 
 ~~(D.O. de 02-01-2020-Suplemento)~~

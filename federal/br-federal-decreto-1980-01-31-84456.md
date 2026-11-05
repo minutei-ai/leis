@@ -1,5 +1,3 @@
-###DEC-084456-0-000-31-01-1980@@@
-
 Decreto nº 84.456, de 31 de janeiro de 1980.
 
 Autoriza a transferência direta para a Rádio e Televisão Universitária Metropolitana LTDA., da concessão outorgada à Brasilino-Rádio e Televisão LTDA., para execução de serviço de radiodifusão de sons e imagens na cidade de Brasília - Distrito Federal.

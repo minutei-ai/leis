@@ -1,5 +1,3 @@
-###DEC-058846-0-000-15-07-1966@@@
-
 DECRETO Nº 58.846, DE 15 DE JULHO DE 1966.
 
 Autoriza a Emprêsa de Mineração Construções e Comércio Camargo Corrêa S/A a pesquisar cianita no Município de Mateus Leme, Estado de Minas Gerais.

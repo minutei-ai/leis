@@ -1,5 +1,3 @@
-###DEL-005854-0-000-24-09-1943@@@
-
 DECRETO‑LEI N. 5.854 – DE 24 DE SETEMBRO DE 1943
 
 Autoriza a aquisição e permuta de terrenos no distrito do Saí, Município de São Francisco, Estado de Santa Catarina

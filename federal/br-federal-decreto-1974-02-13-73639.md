@@ -1,5 +1,3 @@
-###DEC-073639-0-000-13-02-1974@@@
-
 DECRETO Nº 73.639, DE 13 DE FEVEREIRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, no Estado do Rio de Janeiro.

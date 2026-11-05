@@ -1,5 +1,3 @@
-###DEC-058146-0-000-04-04-1966@@@
-
 DECRETO Nº 58.146, DE 4 DE ABRIL DE 1966.
 
 Declara caduco o Decreto nº 33.734, de 6 de novembro de 1952.

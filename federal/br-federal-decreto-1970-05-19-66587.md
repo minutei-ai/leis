@@ -1,5 +1,3 @@
-###DEC-066587-0-000-19-05-1970@@@
-
 DECRETO Nº 66.587, DE 19 DE MAIO DE 1970.
 
 Dispõe sôbre situação de servidor do Ministério das Minas e Energia.

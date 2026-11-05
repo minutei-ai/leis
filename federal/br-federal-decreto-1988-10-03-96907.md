@@ -1,5 +1,3 @@
-###DEC-096907-0-000-03-10-1988@@@
-
 DECRETO N° 96.907, DE 3 DE OUTUBRO DE 1988
 
 Dá nova redação ao artigo 1° do Decreto n° 68.099, de 20 de janeiro de 1971, bem como suprime o parágrafo único do artigo 1.° do Regulamento da Comissão Brasileira de Atividades Espaciais, aprovado pelo Decreto n° 76.596, de 14 de novembro de 1975.

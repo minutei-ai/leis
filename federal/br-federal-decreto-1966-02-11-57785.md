@@ -1,5 +1,3 @@
-###DEC-057785-0-000-11-02-1966@@@
-
 DECRETO Nº 57.785, DE 11 DE FEVErEIRO DE 1966.
 
 Promulga o Tratado Americano de soluções pacificas (Pacto de Bogotá).

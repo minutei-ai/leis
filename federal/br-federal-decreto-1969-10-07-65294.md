@@ -1,5 +1,3 @@
-###DEC-065294-0-000-07-10-1969@@@
-
 DECRETO Nº 65.294 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto n° 10.934 de 25 de novembro de 1942.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000966-0-000-12-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 966, DE 12 DE ABRIL DE 1995
 
 Estabelece normas para outorga e prorrogação das concessões e permissões de serviços públicos, e dá outras providências.

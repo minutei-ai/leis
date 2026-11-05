@@ -1,5 +1,3 @@
-###DEC-054595-0-000-26-10-1964@@@
-
 DECRETO Nº 54.595, DE 26 DE OUTUBRO DE 1964.
 
 Autoriza à Centrais Elétricas de Minas Gerais S.A. a construir linha de transmissão.

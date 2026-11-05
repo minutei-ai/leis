@@ -1,5 +1,3 @@
-###DEL-001457-0-000-14-04-1976@@@
-
 # DECRETO-LEI Nº 1.457, DE 14 DE ABRIL DE 1976
 
 Reajusta os vencimentos e salários dos servidores das Secretarias dos Tribunais do Trabalho e dá outras providências.

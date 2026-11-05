@@ -1,5 +1,3 @@
-###MPV-000551-0-000-22-11-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 551, DE 22 DE NOVEMBRO DE 2011
 
 Altera dispositivos das Leis nº 7.920, de 12 de dezembro de 1989, nº 9.825, de 23 de agosto de 1999, nº 8.399, de 7 de janeiro de 1992, nº 6.009, de 26 de dezembro de 1973, nº 5.862, de 12 de dezembro de 1972, nº 12.462, de 5 de agosto de 2011; e

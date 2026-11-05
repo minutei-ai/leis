@@ -1,5 +1,3 @@
-###DEC-048304-0-000-17-06-1960@@@
-
 Decreto nº 48.304, de 17 de junho de 1960.
 
 Concede à Mineração Fernão Dias S.A. autorização para funcionar como emprêsa de mineração.

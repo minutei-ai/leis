@@ -1,5 +1,3 @@
-###DEC-055454-0-000-05-01-1965@@@
-
 Decreto nº 55.454, de 5 de janeiro de 1965.
 
 Concede à Granimar S.A. - Mármores e Granitos, autorização para funcionar como emprêsa de mineração.

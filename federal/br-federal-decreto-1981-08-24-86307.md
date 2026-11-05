@@ -1,5 +1,3 @@
-###DEC-086307-0-000-24-08-1981@@@
-
 Decreto nº 86.307, de 24 de agosto de 1981
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Estado de Mato Grosso, e dá outras providências.

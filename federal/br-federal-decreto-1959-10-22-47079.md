@@ -1,14 +1,12 @@
-###DEC-047079-0-000-22-10-1959@@@
+**DECRETO Nº 47.079, DE 22 DE OUTUBRO DE 1959.**
 
-<strong>DECRETO Nº 47.079, DE 22 DE OUTUBRO DE 1959.</strong>
+***Transfere sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerários-Mensalistas do Ministério da Agricultura.***
 
-<em><strong>Transfere sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerários-Mensalistas do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - Ficam transferidas, com os respectivos ocupantes, as seguintes funções de Tabela Numéricas Especiais de Extranumerários-mensalistas do Ministério da Agricultura:
+**Art**. 1º - Ficam transferidas, com os respectivos ocupantes, as seguintes funções de Tabela Numéricas Especiais de Extranumerários-mensalistas do Ministério da Agricultura:
 
 I - (uma) 1 função de Selecionador de Sementes referência 18, ocupada por Severino Carneiro de Oliveira, da Tabela Numérica Especial de Extranumerários-mensalistas da Estação Experimental de Seridó, do Instituto Agronômico do Nordeste do Serviço Nac. de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, para idêntica tabela da Inspetoria Regional de Fomento Agrícola, no Estado do Rio Grande do Norte, na Divisão de Fomento da Produção Vegetal, do Departamento Nacional da Produção Vegetal;
 
@@ -24,12 +22,12 @@ VI - uma (1) função de Feitor, referência 20, ocupada por José Pedro Bandeir
 
 VII - uma (1) função de Auxiliar de Serviço, referência 18, ocupada por Olycila Crespo de Mello, da Tabela Numérica Especial de Extranumerários-mensalistas da Divisão de Orçamento, do Departamento de Administração, para idêntica tabela do Serviço de Expansão do Trigo.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 22 de outubro de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

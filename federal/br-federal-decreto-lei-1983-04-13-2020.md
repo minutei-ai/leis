@@ -1,5 +1,3 @@
-###DEL-002020-0-000-13-04-1983@@@
-
 # DECRETO Nº 2.020, DE 13 DE ABRIL DE 1983
 
 Acrescenta disposições ao artigo 1º do Decreto-lei nº 1.981, de 27 de dezembro de 1982.

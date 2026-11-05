@@ -1,5 +1,3 @@
-###DEC-064243-0-000-21-03-1969@@@
-
 DECRETO Nº 64.243, DE 21 DE MARÇO DE 1969.
 
 Declara de utilidade pública o Hospital Regional "Darcy Vargas" com sede em Rio Bonito Estado do Rio de Janeiro.

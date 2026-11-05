@@ -4,7 +4,8 @@ Institui a Política Estadual de Turismo, o Sistema Estadual de Turismo, e dá o
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Fica instituída a Política Estadual de Turismo que se regerá pelos princípios, objetivos e instrumentos estabelecidos por esta Lei.
@@ -31,10 +32,12 @@ VIII - conta satélite do turismo - CST: ferramenta estatística desenhada para 
 
 Parágrafo único - As viagens e estadas de que trata o inciso I deste artigo devem gerar movimentação econômica, trabalho, emprego, renda e receitas públicas, constituindo instrumento de desenvolvimento econômico e social, promoção e diversidade cultural, conservação e preservação da biodiversidade e do patrimônio histórico.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PRINCÍPIOS, DOS OBJETIVOS E DOS INSTRUMENTOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DOS PRINCÍPIOS
 
 Art. 4º - São princípios orientadores da Política Estadual de Turismo:
@@ -61,7 +64,8 @@ X - competitividade: melhor relação entre a segmentação da demanda estabelec
 
 XI - conhecimento: incentivo à produção de estudos científicos relacionados ao turismo e fomento à profissionalização dos recursos humanos envolvidos na atividade turística.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DOS OBJETIVOS
 
 Art. 5º- São objetivos da Política Estadual de Turismo:
@@ -104,7 +108,8 @@ XVIII - estimular a melhoria da gestão municipal para o turismo.
 
 Parágrafo único - O cumprimento dos objetivos referidos neste artigo cabe aos órgãos e entidades integrantes da Administração Pública Estadual e do Sistema Estadual de Turismo, instituído nesta Lei.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DOS INSTRUMENTOS DA POLÍTICA DE TURISMO
 
 Art. 6º - São instrumentos da Política de Turismo do Estado da Bahia:
@@ -117,7 +122,8 @@ III - incentivos tributários, fiscais e financeiros para a ampliação, qualifi
 
 IV - observatório do turismo da Bahia - portal oficial de divulgação dos estudos e pesquisas estatísticas realizadas pelos Governos Federal, Estadual e Municipal e por outras organizações que atuam no setor.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS COMPETÊNCIAS
 
 Art. 7º - Compete à Secretaria de Turismo - SETUR a coordenação e o monitoramento das ações relativas à Política Estadual de Turismo.
@@ -166,10 +172,12 @@ Art. 12 - O eixo estratégico de regulamentação e fiscalização da atividade 
 
 Art. 13 - No âmbito da Política Estadual de Turismo, cabe à Secretaria de Turismo e à Superintendência de Fomento ao Turismo do Estado da Bahia - BAHIATURSA a operacionalização e a execução das ações previstas no Plano Estratégico do Turismo da Bahia, respeitando-se os limites legais de atuação.
 
-Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.<br>
+Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.
+
 Redação original: "Art. 13 - No âmbito da Política Estadual de Turismo, cabe à Secretaria de Turismo e à Empresa de Turismo da Bahia S.A - BAHIATURSA a operacionalização e a execução das ações previstas no Plano Estratégico do Turismo da Bahia, respeitando-se os limites legais de atuação. "
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO SISTEMA ESTADUAL DE TURISMO
 
 Art. 14 - O Sistema Estadual de Turismo é o conjunto articulado e integrado de normas, instituições, mecanismos e instrumentos de planejamento, fomento, financiamento, informação, formação, participação e controle social, que tem como finalidade a garantia da gestão democrática e permanente da Política Estadual de Turismo, nos termos desta Lei.
@@ -182,7 +190,8 @@ II - Secretaria de Turismo - SETUR;
 
 III - Superintendência de Fomento ao Turismo do Estado da Bahia - BAHIATURSA;
 
-Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.<br>
+Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.
+
 Redação original: "III - Empresa de Turismo da Bahia S.A. - BAHIATURSA;"
 
 &nbs
@@ -195,7 +204,8 @@ VI - Conselhos Municipais de Turismo;
 
 VII - Câmara Estadual de Secretários e Dirigentes Municipais de Turismo.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO CONSELHO ESTADUAL DE TURISMO
 
 Art. 16 - Fica criado o Conselho Estadual de Turismo - CONTUR, órgão colegiado, vinculado à Secretaria de Turismo, de caráter consultivo e propositivo, com a finalidade de propor ações e oferecer subsídios para a formulação da Política Estadual de Turismo, bem como apoiar sua execução, de acordo com o estabelecido nesta Lei.
@@ -210,7 +220,8 @@ a)Secretaria de Turismo - SETUR;
 
 b)Superintendência de Fomento ao Turismo do Estado da Bahia - BAHIATURSA;
 
-Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.<br>
+Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.
+
 Redação original: "b) Empresa de Turismo da Bahia S.A - BAHIATURSA;"
 
 &nbs
@@ -225,7 +236,8 @@ f)Secretaria do Planejamento - SEPLAN;
 
 g)Secretaria de Desenvolvimento Econômico - SDE;
 
-Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.<br>
+Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.
+
 Redação original: "g) Secretaria da Indústria, Comércio e Mineração - SICM;"
 
 &nbs
@@ -234,7 +246,8 @@ h)Secretaria de Infraestrutura - SEINFRA;
 
 i)Secretaria de Desenvolvimento Rural - SDR;
 
-edação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.<br>
+edação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.
+
 Redação original: "i) Secretaria da Agricultura, Pecuária, Irrigação, Reforma Agrária, Pesca e Aquicultura - SEAGRI;"
 
 &nbs
@@ -323,7 +336,8 @@ VII - aprovar a concessão de Certificado de Empreendimento de Turismo Rural exp
 
 Art. 22 - A Secretaria Executiva, a cargo da Secretaria de Turismo, terá o prazo de 60 (sessenta) dias, a partir da vigência desta Lei, para instalar o Conselho Estadual de Turismo.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA SECRETARIA DE TURISMO
 
 Art. 23 - A Secretaria de Turismo, no âmbito das suas atribuições fixadas pela Lei nº 10.549, de 28 de dezembro de 2006, figurará como órgão gestor do Sistema Estadual de Turismo, com a finalidade de planejar, coordenar e executar políticas de promoção e fomento ao turismo no Estado da Bahia.
@@ -418,20 +432,24 @@ Art. 29 - Fica instituído o Calendário Oficial de Eventos Turísticos do Estad
 
 Art. 30 - Os municípios turísticos deverão encaminhar anualmente à Secretaria de Turismo a respectiva programação de eventos, na qual deverão constar todas as informações a serem incluídas no Calendário Oficial de Eventos Turísticos do Estado da Bahia.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA SUPERINTENDÊNCIA DE FOMENTO AO TURISMO DO ESTADO DA BAHIA - BAHIATURSA
 
-Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.<br>
+Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.
+
 Redação original: "SEÇÃO III - DA EMPRESA DE TURISMO DA BAHIA - BAHIATURSA"
 
 Art. 31 - A Superintendência de Fomento ao Turismo do Estado da Bahia - BAHIATURSA, órgão em Regime Especial de Administração Direta, da estrutura da Secretaria de Turismo - SETUR, integra o Sistema Estadual de Turismo, com a finalidade de gerenciar e executar a Política de Fomento e Desenvolvimento do Turismo, bem como a promoção de eventos turísticos, no âmbito estadual.
 
-Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.<br>
+Redação de acordo com o Decreto nº 16.337, de 01 de outubro de 2015.
+
 Redação original: "Art. 31 - A Empresa de Turismo da Bahia S.A. - BAHIATURSA, sociedade de economia mista, vinculada à Secretaria de Turismo - SETUR, tem por finalidade coordenar e executar a política de fomento ao turismo no âmbito estadual, em consonância com as diretrizes governamentais, pautada em política de marketing voltada para o desenvolvimento do turismo."
 
 &nbs
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DO FÓRUM ESTADUAL DE TURISMO
 
 Art. 32 - Fica reconhecido o Fórum Estadual de Turismo, instância de caráter consultivo, com a finalidade de descentralizar as ações definidas na Política Nacional de Turismo e discutir as demandas relacionadas ao Estado da Bahia e seus Municípios.
@@ -452,22 +470,26 @@ V - constituir comissões temáticas ou grupos de trabalho para análise de assu
 
 Art. 35 - Serão vinculadas ao Fórum Estadual de Turismo, as Câmaras das Zonas Turísticas, instâncias de governança com participação do poder público, entidades da iniciativa privada e da sociedade civil dos municípios componentes das Zonas Turísticas, destinadas a coordenar e articular o desenvolvimento regional do turismo em suas respectivas zonas.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DOS CONSELHOS MUNICIPAIS DE TURISMO
 
 Art. 36 - Integra o Sistema Estadual de Turismo os Conselhos Municipais de Turismo já existentes e os que vierem a ser criados por leis municipais.
 
 Art. 37 - Aos Conselhos Municipais de Turismo, dotados de representação local, caberá à elaboração e acompanhamento das políticas públicas para o turismo no âmbito do município de forma integrada com a Secretaria Municipal de Turismo.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA CÂMARA ESTADUAL DE SECRETÁRIOS E DIRIGENTES MUNICIPAIS DE TURISMO
 
 Art. 38 - Fica criada a Câmara Estadual de Secretários e Dirigentes Municipais de Turismo, instância de caráter consultivo, formada por Secretários de Estado e agentes públicos responsáveis pela gestão pública do turismo nos municípios turísticos da Bahia, com a finalidade promover a articulação dos municípios baianos para execução de políticas do turismo, incorporando as demandas municipais e das zonas turísticas.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS SEGMENTOS TURÍSTICOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO TURISMO NÁUTICO
 
 Art. 39 - Turismo Náutico é o conjunto de atividades turísticas desenvolvidas em embarcações sob ou sobre águas, paradas ou com correntes, sejam fluviais, lacustres, marítimas ou oceânicas.
@@ -488,7 +510,8 @@ IV - apoiar programas estratégicos de captação e realização de eventos náu
 
 V - estimular o empreendedorismo, a criação de novas empresas e a qualificação dos negócios existentes no segmento, para fortalecimento da cadeia produtiva das atividades náuticas.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO TURISMO RURAL
 
 Art. 42 - Turismo Rural é o conjunto de atividades turísticas desenvolvidas no meio rural, comprometido com a produção típica local, agregando valor a produtos e serviços, resgatando e promovendo o patrimônio cultural e natural da comunidade.
@@ -545,10 +568,12 @@ Parágrafo único - Os incentivos de que trata este artigo serão concedidos sob
 
 Art. 48 - Compete à Secretaria de Turismo, diretamente ou através de parcerias público-privadas, a concessão de Certificação de Empreendimento de Turismo Rural de Qualidade, conforme critérios a serem definidos em regulamento próprio, a ser elaborado pela Secretaria de Turismo e aprovado pelo Conselho Estadual de Turismo.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DOS PRESTADORES DE SERVIÇOS TURÍSTICOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA PRESTAÇÃO DE SERVIÇOS TURÍSTICOS
 
 Art. 49 - São prestadores de serviços turísticos as sociedades empresárias, sociedades simples, os empresários individuais e os serviços sociais autônomos cadastrados no Ministério do Turismo na forma da Lei Federal nº 11.771, de  17 de setembro de 2008, que exerçam as seguintes atividades econômicas relacionadas à cadeia produtiva do turismo:
@@ -599,7 +624,8 @@ Parágrafo único - A placa deverá conter os seguintes dizeres: "É proibida a 
 
 Art. 52 - Os prestadores de serviços de transporte turístico de superfície terrestre ou aquático deverão cumprir as regras e condições estabelecidas na norma de regulamentação de transporte turístico federal, estadual e municipal.
 
-Subseção I<br>
+Subseção I
+
 Dos Condutores de Visitantes
 
 Art. 53 - Fica criada a atividade de Condutor de Visitantes do Estado da Bahia, que exercerá as funções de acompanhar, orientar e transmitir informações a pessoas ou grupos em visita a determinado destino ou atrativo turístico específico.
@@ -646,7 +672,8 @@ Art. 60 - Os Informes Cadastrais dos Condutores de Visitantes habilitados pela S
 
 Art. 61 - Os Monitores de Turismo que efetuaram o cadastro na BAHIATURSA, de acordo com a Resolução nº 01/2001, deverão revalidar o seu cadastro como Condutores de Visitantes na Secretaria de Turismo.
 
-Subseção II<br>
+Subseção II
+
 Dos Direitos e Deveres dos Prestadores de Serviços Turísticos
 
 Art. 62 - São Direitos dos Prestadores de Serviços Turísticos do Estado da Bahia que estejam cadastrados no Ministério do Turismo o acesso a programas de apoio, financiamentos ou outros benefícios constantes da legislação de fomento ao Turismo e a programas de qualificação, promoção e divulgação realizados pela Secretaria de Turismo e BAHIATURSA.
@@ -659,7 +686,8 @@ II - manter os padrões dos serviços relacionados no cadastro da empresa ou emp
 
 III - prestar os serviços oferecidos na qualidade e forma em que foram divulgados, cumprir e honrar os contratos firmados com o consumidor.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA FISCALIZAÇÃO E DO CONTROLE DE QUALIDADE
 
 Art. 64 - Compete à Secretaria de Turismo fiscalizar os prestadores de serviços turísticos, conforme convênio celebrado entre a União e o Estado da Bahia.
@@ -686,10 +714,12 @@ VII - oferecer recursos administrativos e tecnológicos para possibilitar aos us
 
 Art. 67 - O Controle de Qualidade será realizado nos empreendimentos por agentes fiscais da Secretaria de Turismo, considerando aspectos de conservação, limpeza, higiene, segurança, conforto, atendimento às normas governamentais de defesa do consumidor e demais exigências prevista nesta Lei.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DAS INFRAÇÕES E PENALIDADES
 
-Subseção I<br>
+Subseção I
+
 Das Infrações
 
 Art. 68 - Além das hipóteses previstas na Lei Federal nº 11.771, de 17 de setembro de 2008, considera-se infrações, sujeitas à pena de advertência por escrito:
@@ -736,7 +766,8 @@ II - cancelamento do cadastro, sempre que houver reincidência nas infrações p
 
 Parágrafo único - As penalidades previstas neste artigo serão aplicadas, após processo administrativo, no qual se assegurará ao prestador de serviço turístico ampla defesa.
 
-Subseção II<br>
+Subseção II
+
 Das Penalidades
 
 Art. 71 - O descumprimento do disposto nesta Lei sujeitará os prestadores de serviços turísticos às seguintes penalidades, observado o contraditório e a ampla defesa:
@@ -767,7 +798,8 @@ Art. 72 - Da aplicação das penalidades previstas no art. 71 desta Lei, caberá
 
 Art. 73 - Cumprida a penalidade e cessados os motivos de sua aplicação, os prestadores de serviços turísticos poderão requerer reabilitação, nos termos do art. 40 da Lei Federal nº 11.771, de 17 de setembro de 2008.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DOS DIREITOS E DEVERES DOS TURISTAS
 
 Art. 74 - São direitos do Turista no Estado da Bahia:
@@ -786,7 +818,8 @@ II - conhecer e respeitar as restrições e riscos ambientais, relativos aos atr
 
 III - comprometer-se com o uso racional dos recursos naturais, para reduzir os impactos ao meio ambiente.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 76 - Compete aos Municípios integrantes das Zonas Turísticas e aqueles declarados como Municípios Turísticos, estabelecer exigências mínimas nos instrumentos de Política Urbana, tais como Plano Diretor Urbano, Lei de Uso e Ocupação do Solo, Código Ambiental, Código de Obras, para a construção e funcionamento de meios de hospedagem tendo em vista as exigências previstas no Sistema Brasileiro de Classificação de Meios de Hospedagem.

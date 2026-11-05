@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/57676e68-233c-4162-94f5-9a630a1a159e/texto#nowhere)
 
-###DEL-000441-0-000-29-01-1969@@@
-
 DECRETO-LEI Nº 441, DE 29 DE JANEIRO DE 1969
 
 Altera e revoga dispositivos da Lei número 4.737, de 15 de julho de 1965, modificada pela Lei nº 4.961, de 4 de maio de 1966.

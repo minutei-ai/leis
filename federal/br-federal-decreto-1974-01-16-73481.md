@@ -1,5 +1,3 @@
-###DEC-073481-0-000-16-01-1974@@@
-
 DECRETO Nº 73.481, DE 16 DE JANEIRO DE 1974.
 
 Declara de utilidade pública as instituições que menciona.

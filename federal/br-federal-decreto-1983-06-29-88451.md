@@ -1,5 +1,3 @@
-###DEC-088451-0-000-29-06-1983@@@
-
 # Decreto nº 88.451, de 29 de junho de 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro (RJ); Florianópolis (SC); Matinhos (PR) e Guarujá (SP).

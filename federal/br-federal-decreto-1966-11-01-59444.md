@@ -1,5 +1,3 @@
-###DEC-059444-0-000-01-11-1966@@@
-
 DECRETO Nº 59.444, de 1º de novembro de 1966.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

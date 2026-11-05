@@ -1,5 +1,3 @@
-###DEC-091652-0-000-16-09-1985@@@
-
 decreto nº 91.652, de 16 de setembro de 1985
 
 Dispõe sobre a aplicação do Decreto nº 88.513, de 13 de julho de 1983, pelas Polícias Militares e Corpos de Bombeiros Militares e da outras providências.

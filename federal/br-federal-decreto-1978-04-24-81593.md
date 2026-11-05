@@ -1,5 +1,3 @@
-###DEC-081593-0-000-24-04-1978@@@
-
 Decreto nº 81.593, de 24 de abril de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do País S.A. - ELETROSUL, nos Estados de São Paulo e Paraná.

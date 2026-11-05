@@ -1,5 +1,3 @@
-###DEC-068127-0-000-28-01-1971@@@
-
 DECRETO Nº 68.127, DE 28 DE JANEIRO DE 1971.
 
 Modifica o Decreto nº 64.969, de 11 de agosto de 1969, que aprovou o Estatuto da Fundação Universidade Federal do Piauí.

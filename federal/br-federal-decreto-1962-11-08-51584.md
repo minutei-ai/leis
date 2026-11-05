@@ -1,5 +1,3 @@
-###DEC-051584-0-000-08-11-1962@@@
-
 Decreto nº 51.584, de 8 de novembro de 1962.
 
 Cria Comissão para exame, estudo e revisão das normas de remuneração de serviços especiais na Administração do Pôrto do Rio de Janeiro.

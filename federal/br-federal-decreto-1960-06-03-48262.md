@@ -1,5 +1,3 @@
-###DEC-048262-0-000-03-06-1960@@@
-
 DECRETO Nº 48.262, DE 3 DE JUNHO DE 1960.
 
 Reconhece a Confederação Nacional dos Trabalhadores em Transportes Marítimos, Fluviais e Aéreos.

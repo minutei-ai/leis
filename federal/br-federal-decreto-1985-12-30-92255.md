@@ -1,5 +1,3 @@
-###DEC-092255-0-000-30-12-1985@@@
-
 DECRETO Nº 92.355, DE 30 DE DEZEMBRO DE 1985
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado ''Fazenda da Lagoa", compreendido na referida área, no Município de Mangueirinha, no Estado do Paraná, e dá outras providências.

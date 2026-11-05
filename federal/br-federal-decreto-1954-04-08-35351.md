@@ -1,14 +1,12 @@
-###DEC-035351-0-000-08-04-1954@@@
+**DECRETO Nº 35.351, DE 8 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.351, DE 8 DE ABRIL DE 1954.</strong>
+***Declara de utilidade pública as áreas de terra que discrimina destinados a passagem da linha de transmissão da São Paulo Light and Power Company Limited.***
 
-<em><strong>Declara de utilidade pública as áreas de terra que discrimina destinados a passagem da linha de transmissão da São Paulo Light and Power Company Limited.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o que requereu a interessada e o disposto no art. 151, letra *c*, do Código de Águas e mais preceitos legais em vigor,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o que requereu a interessada e o disposto no art. 151, letra <em>c</em>, do Código de Águas e mais preceitos legais em vigor,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade pública as seguintes áreas de terra, destinadas a passagem da linha de transmissão de que trata o Decreto nº 32.510, de 1º de abril de 1953 entre a usina termoelétrica Piratinga e um ponto da linha de Cubatão a São Caetano do Sul, cujas plantas foram aprovadas pelo Ministério da Agricultura:
+**Art**. 1º São declaradas de utilidade pública as seguintes áreas de terra, destinadas a passagem da linha de transmissão de que trata o Decreto nº 32.510, de 1º de abril de 1953 entre a usina termoelétrica Piratinga e um ponto da linha de Cubatão a São Caetano do Sul, cujas plantas foram aprovadas pelo Ministério da Agricultura:
 
 1\. Área de 956,00m2 de propriedade atribuída a Vasco Teixeira.
 
@@ -54,18 +52,18 @@
 
 24\. Área de 2.082,00m2 de propriedade atribuída a Adolf Laves.
 
-<strong>Art</strong>. 2º Fica constituída em favor da São Paulo Light and Power Company Limited na qualidade de concessionária de serviços de energia elétrica e para os fins indicados no artigo anterior, a servidão necessária, a qual compreende o direito atribuído a empresa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares.
+**Art**. 2º Fica constituída em favor da São Paulo Light and Power Company Limited na qualidade de concessionária de serviços de energia elétrica e para os fins indicados no artigo anterior, a servidão necessária, a qual compreende o direito atribuído a empresa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares.
 
 § 1º Os proprietários das áreas de terra atingido pelo ônus limitarão o uso e gozo das mesmas ao que fôr compatível com a existência da servidão abstendo-se em consequência de praticar, dentro dessas áreas, quaisquer atos que a embaracem ou lhe cause dano, incluído entre êles os de erguerem construções ou fazerem plantações de elevado porte.
 
 § 2º A São Paulo Light and Power Company Limited fica autorizada a promover no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, inclusive a utilizar-se ao processo de desapropriação nos têrmos do art. 40 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 8 de abril de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

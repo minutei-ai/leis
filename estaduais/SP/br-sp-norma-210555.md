@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210555)<br>
-
 # DECRETO N° 69.327, DE 22 DE JANEIRO DE 2025
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Heróis Humanitários", instituída pelo Instituto Julio Karolino, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-048281-0-000-09-06-1960@@@
-
 DECRETO Nº 48.281, DE 9 DE JUNHO DE 1960.
 
 Concede autorização à Cooperativa Mista de Leme, Sociedade Cooperativa de Responsabilidade Limitada, com sede em Leme, no Estado de São Paulo, para alterar o seu estatuto social.

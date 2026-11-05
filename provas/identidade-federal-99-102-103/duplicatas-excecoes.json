@@ -55,7 +55,7 @@
       "justificativa": "Mesma LEI Nº 14.018 DE 29 DE OUTUBRO DE 2018 sob dois IDs de catálogo BA (br-ba-norma-135667 / br-ba-norma-144995). Epígrafe idêntica; alias de catálogo, não troca de norma."
     },
     {
-      "sha1": "8f9376f6c2c3dd50b6ca36ba7803427a5cdd53ac",
+      "sha1": "e2c52c34fb5a0822195fae051b0729f02a15893e",
       "arquivos": [
         "estaduais/GO/br-go-norma-107588.md",
         "estaduais/GO/br-go-norma-107589.md"
@@ -63,10 +63,12 @@
       "tipo": "alias_catalogo",
       "status": "justificado",
       "identidade_do_corpo": "Portaria Orçamentária nº 372/2023 - Economia",
-      "justificativa": "Mesma Portaria Orçamentária nº 372/2023 - Economia sob IDs GO br-go-norma-107588/br-go-norma-107589. Alias de catálogo."
+      "justificativa": "Mesma Portaria Orçamentária nº 372/2023 - Economia sob IDs GO br-go-norma-107588/br-go-norma-107589. Alias de catálogo.",
+      "sha1_anterior_limpeza": "8f9376f6c2c3dd50b6ca36ba7803427a5cdd53ac",
+      "transformacao_representacao": "Limpeza #87/#98/#100; mesmo conjunto de aliases e mesma identidade documental auditada, sem criar exceção para novos pares."
     },
     {
-      "sha1": "e2aeadfc2d138f7870403647a7d382f32c9a171a",
+      "sha1": "33bb34022f12781ca8de666024dec97bafa23d06",
       "arquivos": [
         "estaduais/MS/br-ms-conleg-govato-40675c6be194c96f042588230075d695.md",
         "estaduais/MS/br-ms-conleg-govato-cfb560b2f763c12c042588230076ed49.md"
@@ -74,10 +76,12 @@
       "tipo": "alias_catalogo",
       "status": "justificado",
       "identidade_do_corpo": "LEI Nº 5.851, DE 12 DE ABRIL DE 2022.",
-      "justificativa": "Mesma LEI Nº 5.851, DE 12 DE ABRIL DE 2022. sob dois UUIDs Conleg/MS. Alias de catálogo."
+      "justificativa": "Mesma LEI Nº 5.851, DE 12 DE ABRIL DE 2022. sob dois UUIDs Conleg/MS. Alias de catálogo.",
+      "sha1_anterior_limpeza": "e2aeadfc2d138f7870403647a7d382f32c9a171a",
+      "transformacao_representacao": "Limpeza #87/#98/#100; mesmo conjunto de aliases e mesma identidade documental auditada, sem criar exceção para novos pares."
     },
     {
-      "sha1": "667d7a61513d8bcdb0247a6b1374704a429b83d5",
+      "sha1": "3a3d717e354f7cd7fc5fb97acefdd374d2536484",
       "arquivos": [
         "estaduais/MS/br-ms-conleg-govato-9917eeae5147c2eb0425834d003cdfbf.md",
         "estaduais/MS/br-ms-conleg-govato-a6cc860829d6f3670425834d003d584d.md"
@@ -85,10 +89,12 @@
       "tipo": "alias_catalogo",
       "status": "justificado",
       "identidade_do_corpo": "LEI Nº 5.269, DE 20 DE NOVEMBRO DE 2018.",
-      "justificativa": "Mesma LEI Nº 5.269, DE 20 DE NOVEMBRO DE 2018. sob dois UUIDs Conleg/MS. Alias de catálogo."
+      "justificativa": "Mesma LEI Nº 5.269, DE 20 DE NOVEMBRO DE 2018. sob dois UUIDs Conleg/MS. Alias de catálogo.",
+      "sha1_anterior_limpeza": "667d7a61513d8bcdb0247a6b1374704a429b83d5",
+      "transformacao_representacao": "Limpeza #87/#98/#100; mesmo conjunto de aliases e mesma identidade documental auditada, sem criar exceção para novos pares."
     },
     {
-      "sha1": "bf0ed24af787108cd074a67fd32db33af957cf29",
+      "sha1": "1bf7b733aec6799aac97c747ac7deb816395c8f7",
       "arquivos": [
         "estaduais/RJ/br-rj-contlei-nsf-227bfa4990d7458503258a3f0005445b.md",
         "estaduais/RJ/br-rj-contlei-nsf-976b6f531939a8de03258a3f00054494.md"
@@ -96,10 +102,12 @@
       "tipo": "alias_catalogo",
       "status": "justificado",
       "identidade_do_corpo": "LEI Nº 10.122 DE 02 DE OUTUBRO DE 2023.**<br>",
-      "justificativa": "Mesma LEI Nº 10.122 DE 02 DE OUTUBRO DE 2023.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+      "justificativa": "Mesma LEI Nº 10.122 DE 02 DE OUTUBRO DE 2023.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo.",
+      "sha1_anterior_limpeza": "bf0ed24af787108cd074a67fd32db33af957cf29",
+      "transformacao_representacao": "Limpeza #87/#98/#100; mesmo conjunto de aliases e mesma identidade documental auditada, sem criar exceção para novos pares."
     },
     {
-      "sha1": "6f4e94a75d66fe2b7122fadf51f7f7a7c82413e7",
+      "sha1": "f5f4ef6088384f6abd7cf6a78ce71b7f16acbffc",
       "arquivos": [
         "estaduais/RJ/br-rj-contlei-nsf-32ecec8da0373f9603258bf5006ca7d2.md",
         "estaduais/RJ/br-rj-contlei-nsf-7f358953f8357f6103258bf5006ba494.md"
@@ -107,10 +115,12 @@
       "tipo": "alias_catalogo",
       "status": "justificado",
       "identidade_do_corpo": "LEI Nº 10.604 DE 04 DE DEZEMBRO DE 2024.**<br>",
-      "justificativa": "Mesma LEI Nº 10.604 DE 04 DE DEZEMBRO DE 2024.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+      "justificativa": "Mesma LEI Nº 10.604 DE 04 DE DEZEMBRO DE 2024.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo.",
+      "sha1_anterior_limpeza": "6f4e94a75d66fe2b7122fadf51f7f7a7c82413e7",
+      "transformacao_representacao": "Limpeza #87/#98/#100; mesmo conjunto de aliases e mesma identidade documental auditada, sem criar exceção para novos pares."
     },
     {
-      "sha1": "6eb4bd07f35dfecec65b8f89fd845481dbc9b7f7",
+      "sha1": "21a32ffef9440826c6b022117628904f1966cd97",
       "arquivos": [
         "estaduais/RJ/br-rj-contlei-nsf-3c6da8382899725c03258868006441a3.md",
         "estaduais/RJ/br-rj-contlei-nsf-cd7714b690b1698f03258868006137a2.md"
@@ -118,10 +128,12 @@
       "tipo": "alias_catalogo",
       "status": "justificado",
       "identidade_do_corpo": "LEI Nº 9718, DE 15 DE JUNHO DE 2022.**<br>",
-      "justificativa": "Mesma LEI Nº 9718, DE 15 DE JUNHO DE 2022.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+      "justificativa": "Mesma LEI Nº 9718, DE 15 DE JUNHO DE 2022.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo.",
+      "sha1_anterior_limpeza": "6eb4bd07f35dfecec65b8f89fd845481dbc9b7f7",
+      "transformacao_representacao": "Limpeza #87/#98/#100; mesmo conjunto de aliases e mesma identidade documental auditada, sem criar exceção para novos pares."
     },
     {
-      "sha1": "0fec250ed07860a16427d0a2a51896debf50db20",
+      "sha1": "1381a84f0af874c389b6d0484757a945eb03d1e6",
       "arquivos": [
         "estaduais/RJ/br-rj-contlei-nsf-4f3dd9688269d2d003258ba9006c5ee0.md",
         "estaduais/RJ/br-rj-contlei-nsf-50ad23f80f24c78b03258ba9006c5ef0.md"
@@ -129,10 +141,12 @@
       "tipo": "alias_catalogo",
       "status": "justificado",
       "identidade_do_corpo": "LEI Nº 10.520 DE 26 DE SETEMBRO DE 2024.**<br>",
-      "justificativa": "Mesma LEI Nº 10.520 DE 26 DE SETEMBRO DE 2024.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+      "justificativa": "Mesma LEI Nº 10.520 DE 26 DE SETEMBRO DE 2024.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo.",
+      "sha1_anterior_limpeza": "0fec250ed07860a16427d0a2a51896debf50db20",
+      "transformacao_representacao": "Limpeza #87/#98/#100; mesmo conjunto de aliases e mesma identidade documental auditada, sem criar exceção para novos pares."
     },
     {
-      "sha1": "63eab22926bcee1fd21ce75f82839a0c7d972ce7",
+      "sha1": "8a72a724993dfa12121c552398157ebffc5d6171",
       "arquivos": [
         "estaduais/RJ/br-rj-contlei-nsf-589238c5ed89434a03258a150069a96a.md",
         "estaduais/RJ/br-rj-contlei-nsf-c3fbbad04e7b3c8203258a150062ccec.md"
@@ -140,7 +154,9 @@
       "tipo": "alias_catalogo",
       "status": "justificado",
       "identidade_do_corpo": "LEI Nº 10.071 DE 19 DE JULHO DE 2023.**<br>",
-      "justificativa": "Mesma LEI Nº 10.071 DE 19 DE JULHO DE 2023.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+      "justificativa": "Mesma LEI Nº 10.071 DE 19 DE JULHO DE 2023.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo.",
+      "sha1_anterior_limpeza": "63eab22926bcee1fd21ce75f82839a0c7d972ce7",
+      "transformacao_representacao": "Limpeza #87/#98/#100; mesmo conjunto de aliases e mesma identidade documental auditada, sem criar exceção para novos pares."
     },
     {
       "sha1": "5d34648f3341f76ba473b8a07727bde139b59006",

@@ -1,5 +1,3 @@
-###DEC-091260-0-000-22-05-1985@@@
-
 Decreto nº 91.260, de 22 de maio de 1985
 
 Autoriza o funcionamento do curso de formação de Musicoterapeutas do Conservatório Musical Marcelo Tupinambá.

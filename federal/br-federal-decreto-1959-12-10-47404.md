@@ -1,5 +1,3 @@
-###DEC-047404-0-000-10-12-1959@@@
-
 DECRETO Nº 47.404, DE 10 DE DEZEMBRO DE 1959.
 
 Altera a redação do Decreto nº 43.190, de 12 de fevereiro de 1958, referente a funções de oficiais-generais.

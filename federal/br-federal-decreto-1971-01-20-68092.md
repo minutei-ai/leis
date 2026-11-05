@@ -1,5 +1,3 @@
-###DEC-068092-0-000-20-01-1971@@@
-
 Decreto nº 68.092, de 20 de janeiro de 1971.
 
 Aprova o Regulamento do Fundo Especial de Alimentação Escolar.

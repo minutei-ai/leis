@@ -1,5 +1,3 @@
-###LCP-000054-0-000-22-12-1986@@@
-
 # LEI COMPLEMENTAR Nº 54, DE 22 DE DEZEMBRO DE 1986
 
 Dispõe sobre nova redação e revogação de artigos da Lei Complementar nº 35, de 14 de março de 1979.

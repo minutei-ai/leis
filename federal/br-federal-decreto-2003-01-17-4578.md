@@ -1,5 +1,3 @@
-###DEC-004578-0-000-17-01-2003@@@
-
 DECRETO N. 4.578 – DE 17 DE JANEIRO DE 2003
 
 Dispõe sobre a definição da área do Porto Organizado de Maceió, no Estado de Alagoas.

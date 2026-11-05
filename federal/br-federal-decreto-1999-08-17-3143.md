@@ -1,5 +1,3 @@
-###DEC-003143-0-000-17-08-1999@@@
-
 DECRETO Nº 3.143, DE 17 DE AGOSTO DE 1999.
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 27, entre os Governos da República Federativa do Brasil e da República da Venezuela, de 5 de julho de 1999.
@@ -42,4 +40,16 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos cinco dias do mês de julho de mil novecentos e noventa e nove, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr style="height:27pt"><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Pelo Governo da República Federativa do Brasil:</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>JOSÉ ARTUR DENOT MEDEIROS</span></p></td><td style="width:204.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Pelo Governo da República da Venezuela:</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>RUBÉN PACHECO</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr style="height:27pt"><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil:
+
+JOSÉ ARTUR DENOT MEDEIROS
+
+</td><td style="width:204.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República da Venezuela:
+
+RUBÉN PACHECO
+
+</td></tr></tbody></table>

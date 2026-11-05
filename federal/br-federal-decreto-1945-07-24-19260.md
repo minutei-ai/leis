@@ -1,20 +1,18 @@
-###DEC-019260-0-000-24-07-1945@@@
+**DECRETO Nº 19.260, DE 24 DE JULHO DE 1945.**
 
-<strong>DECRETO Nº 19.260, DE 24 DE JULHO DE 1945.</strong>
+***Outorga ao Estado de Minas Gerais ou emprêsa que organizar, concessão para o aproveitamento de energia hidráulica existente no rio Tronquerias, município de Governador Valadares, Estado de Minas Gerais***
 
-<em><strong>Outorga ao Estado de Minas Gerais ou emprêsa que organizar, concessão para o aproveitamento de energia hidráulica existente no rio Tronquerias, município de Governador Valadares, Estado de Minas Gerais</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada ao Estado de Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento da energia hidráulica existente no rio Tronqueiras, município de Governador Valadares, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada ao Estado de Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento da energia hidráulica existente no rio Tronqueiras, município de Governador Valadares, Estado de Minas Gerais.
 
 § 1º Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, bem como a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção, transmissão, transformação e distribuição de energia elétrica na sede do município de Governador Valadares.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, o concessionário obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, o concessionário obriga-se a:
 
 I - Registrá-lo na Divisão de Águas, dentro do prazo de trinta (30) dias, após a sua publicação.
 
@@ -48,26 +46,26 @@ V - Apresentar o mesmo contrato à Divisão de Águas, para os fins de registro,
 
 Parágrafo único. Os prazos, a que se refere êste artigo, poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral.
 
-<strong>Art</strong>. 3º O concessionário fica obrigado a construir e a manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas as instalações necessárias a observações nimétricas e medições de descarga curso de águas que vai utilizar, e realizar as observações de acôrdo com as instruções da Divisão de Águas.
+**Art**. 3º O concessionário fica obrigado a construir e a manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas as instalações necessárias a observações nimétricas e medições de descarga curso de águas que vai utilizar, e realizar as observações de acôrdo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º O capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão, em função de indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art**. 6º O capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão, em função de indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas, de acôrdo com o disposto no art. 180 do Código de
+**Art**. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas, de acôrdo com o disposto no art. 180 do Código de
 
-<strong>Art</strong>. 8º Para a manutenção da integridade do patrimônio, a que se refere o art. 6º do presente Decreto, será criada uma reserva que proverá às renovações por depreciações, determinadas pela usura ou impostas por acidentes.
+**Art**. 8º Para a manutenção da integridade do patrimônio, a que se refere o art. 6º do presente Decreto, será criada uma reserva que proverá às renovações por depreciações, determinadas pela usura ou impostas por acidentes.
 
 Parágrafo único. A constituição dessa reserva, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 9º Até seis (6) meses antes do término do prazo da concessão, o Estado de Minas Gerais deverá requerer ao Govêrno Federal a renovação ou a desistência da mesma.
+**Art**. 9º Até seis (6) meses antes do término do prazo da concessão, o Estado de Minas Gerais deverá requerer ao Govêrno Federal a renovação ou a desistência da mesma.
 
-<strong>Art</strong>. 10. O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 10. O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 24 de julho de 1945;124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Apolonio Sales

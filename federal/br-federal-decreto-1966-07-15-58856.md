@@ -1,5 +1,3 @@
-###DEC-058856-0-000-15-07-1966@@@
-
 DECRETO Nº 58.856, DE 15 DE JULHO DE 1966.
 
 Institui normas para execução do artigo 18 da Lei nº 3.995, de 14 de dezembro de 1961, que aprovou o Primeiro Plano Diretor da SUDENE e dá outras providências.

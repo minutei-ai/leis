@@ -1,5 +1,3 @@
-###DEC-005252-0-000-22-10-2004@@@
-
 DECRETO Nº 5.252, DE 22 DE OUTUBRO DE 2004
 
 Regulamenta o § 1º do art. 17 da Lei nº 10.893, de 13 de julho de 2004, que destina recursos para o financiamento de programas e projetos de pesquisa científica e desenvolvimento tecnológico dos setores de transporte aquaviário e de construção naval, e dá outras providências.

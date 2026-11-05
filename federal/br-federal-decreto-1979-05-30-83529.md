@@ -1,5 +1,3 @@
-###DEC-083529-0-000-30-05-1979@@@
-
 decreto nº 83.529, de 30 de maio de 1979.
 
 Concede reconhecimento ao curso de Educação Física da Faculdade de Educação Física de Santo Amaro, com sede na cidade de São Paulo, Estado de São Paulo.

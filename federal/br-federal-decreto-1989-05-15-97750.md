@@ -1,7 +1,3 @@
-1
-
-###DEC-097750-0-000-15-05-1989@@@
-
 DECRETO Nº 97.750, DE 15 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA APUI -  (DATA SANTIAGO)”, classificado como “latifúndio por exploração”, situado no Município de Crateús, Estado do Ceará, compreendido na zona prioritária, fixada pelo Decreto nº 92.617, de 02 de maio de 1986, e dá outras providências.

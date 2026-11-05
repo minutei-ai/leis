@@ -1,7 +1,3 @@
-1
-
-###DEC-098666-0-000-27-12-1989@@@
-
 DECRETO Nº 98.666, DE 27 DE DEZEMBRO DE 1989
 
 Altera aliquotas do IPI incidentes sobre os produtos que menciona.

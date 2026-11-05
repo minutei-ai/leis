@@ -20,7 +20,8 @@ Aparecida de Goiânia, 2 de dezembro de 2025.
 
  
 
-LEANDRO VILELA VELLO<br>
+LEANDRO VILELA VELLO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO

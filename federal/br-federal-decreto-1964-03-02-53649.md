@@ -1,5 +1,3 @@
-###DEC-053649-0-000-02-03-1964@@@
-
 Decreto nº 53.649, de 2 de março de 1964.
 
 Cria o Centro de Instrução de Guerra na Selva, com sede em Manaus, (AM), subordinado ao Grupamento de Elementos de Fronteira.

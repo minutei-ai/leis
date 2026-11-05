@@ -60,14 +60,13 @@ a) ao item 63.0 do Apêndice XXI e ao Apêndice XXIX, ambos do Anexo V-B do [Dec
 
 b) ao item 33.0 do inciso XVII do Apêndice II do Anexo VIII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 1997; e
 
-VI - 1º de maio de 2023, quanto aos itens 1.0 a 4.1 e 117.0 do Apêndice XVIII e aos itens 1.0 a 4.1 e 13 da alínea ‘f’ do Apêndice XXX, todos do Anexo V-B do Decreto nº 4.852, de 1997.<br>
+VI - 1º de maio de 2023, quanto aos itens 1.0 a 4.1 e 117.0 do Apêndice XVIII e aos itens 1.0 a 4.1 e 13 da alínea ‘f’ do Apêndice XXX, todos do Anexo V-B do Decreto nº 4.852, de 1997.
+
 \- [Redação dada pelo Decreto n](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471)[º 10.471, de 20 de maio de 2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471). 
 
 ~~VI – 1º de janeiro de 2023, quanto aos itens 1.0 a 4.1 e 117.0 do Apêndice XVIII e a alínea “f” do Apêndice XXX, todos do Anexo V– B do Decreto nº 4.852, de 1997.~~
 
 Goiânia, 6 de dezembro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 
@@ -158,7 +157,8 @@ MATERIAIS DE LIMPEZA
 
 Apêndice XIV
 
-MEDICAMENTOS DE USO HUMANO E OUTROS PRODUTOS FARMACÊUTICOS<br>
+MEDICAMENTOS DE USO HUMANO E OUTROS PRODUTOS FARMACÊUTICOS
+
 ARA USO HUMANO OU VETERINÁRIO
 
 | ITEM | CEST | NCM/SH | DESCRIÇÃO |
@@ -281,7 +281,8 @@ PRODUTOS ALIMENTÍCIOS
 | ............... | ....................... | ....................... | ............................................... |
 | 24.0 | 17.024.00 | 0406 | Queijos, exceto os dos CESTs 17.024.01, 17.024.02, 17.024.03, 17.024.04 e 17.024.05 |
 | ............... | ....................... | ....................... | ............................................... |
-| 24.5 | 17.024.05 | 0406.10.90<br>
+| 24.5 | 17.024.05 | 0406.10.90
+
 ~~0406.90~~ |
 
 Queijo cremoso (“cream cheese”)
@@ -503,11 +504,13 @@ Queijo cremoso (“cream cheese”)
 | 79.3 | 17.079.03 | 1602.32.20 | Outras preparações e conservas de carne, de miudezas ou de sangue, de aves da posição 01.05: de galos e de galinhas, com conteúdo de carne ou de miudezas superior ou igual a 57%, em peso, cozidas, exceto as descritas no CEST 17.079.08 |
 | \- [Acrescido pelo Decreto nº 10.471, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471). |
 | ............. | ................. | ................ | .......................................................... |
-| 79.8 | 17.079.08 | 1602.31<br>
+| 79.8 | 17.079.08 | 1602.31
+
 1602.32 | Carnes de aves inteiras e com peso unitário superior a 3 kg temperadas |
 | \- [Acrescido pelo Decreto nº 10.471, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471). |
 | ............. | ................. | ................. | ..................................................... |
-| 87.2 | 17.087.02 | 0207.1<br>
+| 87.2 | 17.087.02 | 0207.1
+
 0207.2 | Carnes de aves inteiras e com peso unitário superior a 3 kg |
 | \- [Acrescido pelo Decreto nº 10.471, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471). |
 | ............. | ................ | ................ | .................................................... |
@@ -727,14 +730,16 @@ C – PRODUTOS LÁCTEOS CONSTANTES DO Apêndice XVIII
 | ............... | ....................... | ....................... | ............................................... |
 | 19 | 17.024.00 | 0406 | Queijos, exceto os dos CESTs 17.024.01, 17.024.02, 17.024.03, 17.024.04 e 17.024.05 |
 | ............... | ....................... | ....................... | ............................................... |
-| 23.1 | 17.024.05 | 0406.10.90<br>
+| 23.1 | 17.024.05 | 0406.10.90
+
 ~~0406.90~~ | Queijo cremoso (“cream cheese”) |
 | \- [Redação dada pelo Decreto nº 10.471, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471). |
 | ............... | ....................... | ....................... | ............................................... |
 
 ...................................................................................................................................
 
-D – CARNES E SUAS PREPARAÇÕES CONSTANTES DO APÊNDICE XVIII<br>
+D – CARNES E SUAS PREPARAÇÕES CONSTANTES DO APÊNDICE XVIII
+
 \- [Acrescida pelo Decreto nº 10.471, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471).
 
 | ITEM | CEST | NCM/SH | DESCRIÇÃO |
@@ -861,7 +866,8 @@ F – CHOCOLATES CONSTANTES DO APÊNDICE XVIII
 
 ...................................................................................................................................
 
-G - PRODUTOS DE PADARIA E DA INDÚSTRIA DE BOLACHAS E BISCOITOS CONSTANTES DO APÊNDICE XVIII<br>
+G - PRODUTOS DE PADARIA E DA INDÚSTRIA DE BOLACHAS E BISCOITOS CONSTANTES DO APÊNDICE XVIII
+
 \- [Acrescida pelo Decreto nº 10.471, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471).
 
 | ITEM | CEST | NCM/SH | DESCRIÇÃO |
@@ -1004,11 +1010,12 @@ VII – TINTA E VERNIZ
 
 (Convênio ICMS 118/17)
 
-<table style="height: 437.437px; width: 80.0467%; margin-left: auto; margin-right: auto;"><tbody><tr style="height: 19.019px;"><td style="text-align: center; width: 10.3039%; height: 38.038px;" rowspan="2"><strong>Item</strong></td><td style="text-align: center; width: 20.4758%; height: 38.038px;" rowspan="2"><strong>Descrição</strong></td><td style="text-align: center; width: 12.946%; height: 38.038px;" rowspan="2"><strong>CEST</strong></td><td style="text-align: center; width: 14.6633%; height: 38.038px;" rowspan="2"><strong>NCM</strong></td><td style="text-align: center; height: 19.019px; width: 41.48%;" colspan="4"><strong>MVA</strong></td></tr><tr style="height: 19.019px;"><td style="text-align: center; width: 10.5682%; height: 19.019px;">Interna</td><td style="text-align: center; width: 10.3039%; height: 19.019px;">4%</td><td style="text-align: center; width: 10.3039%; height: 19.019px;">7%</td><td style="text-align: center; width: 10.3039%; height: 19.019px;">12%</td></tr><tr style="height: 19.019px;"><td style="text-align: center; width: 10.3039%; height: 19.019px;">...........</td><td style="text-align: center; width: 20.4758%; height: 19.019px;">..................................</td><td style="text-align: center; width: 12.946%; height: 19.019px;">......................</td><td style="text-align: center; width: 14.6633%; height: 19.019px;">.........................</td><td style="text-align: center; width: 10.5682%; height: 19.019px;">...............</td><td style="text-align: center; width: 10.3039%; height: 19.019px;">................</td><td style="text-align: center; width: 10.3039%; height: 19.019px;">...............</td><td style="text-align: center; width: 10.3039%; height: 19.019px;">................</td></tr><tr style="height: 190.19px;"><td style="text-align: center; width: 10.3039%; height: 190.19px;">2.0</td><td style="text-align: center; width: 20.4758%; height: 190.19px;">Xadrez e pós assemelhados, em embalagem de conteúdo inferior ou igual a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10</td><td style="text-align: center; width: 12.946%; height: 190.19px;">24.002.00</td><td style="text-align: center; width: 14.6633%; height: 190.19px;"><p style="text-align: center;">2821</p><p style="text-align: center;">3204.17.00</p><p style="text-align: center;">3206</p></td><td style="text-align: center; width: 10.5682%; height: 190.19px;">35</td><td style="text-align: center; width: 10.3039%; height: 190.19px;">56,14</td><td style="text-align: center; width: 10.3039%; height: 190.19px;">51,27</td><td style="text-align: center; width: 10.3039%; height: 190.19px;">43,14</td></tr><tr style="height: 171.171px;"><td style="text-align: center; width: 10.3039%; height: 171.171px;">2.1</td><td style="text-align: center; width: 20.4758%; height: 171.171px;">Xadrez e pós assemelhados, em embalagem de conteúdo superior a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10</td><td style="text-align: center; width: 12.946%; height: 171.171px;">24.002.01</td><td style="text-align: center; width: 14.6633%; height: 171.171px;"><p style="text-align: center;">2821</p><p style="text-align: center;">3204.17.00</p><p style="text-align: center;">3206</p></td><td style="text-align: center; width: 10.5682%; height: 171.171px;">35</td><td style="text-align: center; width: 10.3039%; height: 171.171px;">56,14</td><td style="text-align: center; width: 10.3039%; height: 171.171px;">51,27</td><td style="text-align: center; width: 10.3039%; height: 171.171px;">43,14</td></tr><tr style="height: 19.019px;"><td style="text-align: center; width: 10.3039%; height: 19.019px;"><em>..........</em></td><td style="text-align: center; width: 20.4758%; height: 19.019px;"><em>..................................</em></td><td style="text-align: center; width: 12.946%; height: 19.019px;"><em>......................</em></td><td style="text-align: center; width: 14.6633%; height: 19.019px;"><em>........................</em></td><td style="text-align: center; width: 10.5682%; height: 19.019px;"><em>...............</em></td><td style="text-align: center; width: 10.3039%; height: 19.019px;"><em>.................</em></td><td style="text-align: center; width: 10.3039%; height: 19.019px;"><em>.................</em></td><td style="text-align: center; width: 10.3039%; height: 19.019px;"><em>.................</em></td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">**Item**</td><td rowspan="2">**Descrição**</td><td rowspan="2">**CEST**</td><td rowspan="2">**NCM**</td><td colspan="4">**MVA**</td></tr><tr><td>Interna</td><td>4%</td><td>7%</td><td>12%</td></tr><tr><td>...........</td><td>..................................</td><td>......................</td><td>.........................</td><td>...............</td><td>................</td><td>...............</td><td>................</td></tr><tr><td>2.0</td><td>Xadrez e pós assemelhados, em embalagem de conteúdo inferior ou igual a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10</td><td>24.002.00</td><td> 2821 3204.17.00 3206 </td><td>35</td><td>56,14</td><td>51,27</td><td>43,14</td></tr><tr><td>2.1</td><td>Xadrez e pós assemelhados, em embalagem de conteúdo superior a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10</td><td>24.002.01</td><td> 2821 3204.17.00 3206 </td><td>35</td><td>56,14</td><td>51,27</td><td>43,14</td></tr><tr><td>*..........*</td><td>*..................................*</td><td>*......................*</td><td>*........................*</td><td>*...............*</td><td>*.................*</td><td>*.................*</td><td>*.................*</td></tr></tbody></table>
 
 ...................................................................................................................................
 
-XVIII – SORVETES E PREPARADOS PARA A FABRICAÇÃO DE SORVETE EM MÁQUINAS (Protocolos ICMS nº 20/05 e nº 38/18)<br>
+XVIII – SORVETES E PREPARADOS PARA A FABRICAÇÃO DE SORVETE EM MÁQUINAS (Protocolos ICMS nº 20/05 e nº 38/18)
+
 \- [Acrescida pelo Decreto nº 10.471, de 20-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108877/decreto-10471).
 
 | Item | Descrição | CEST | NCM | MVA |
@@ -1043,7 +1050,7 @@ XII – APARELHO DE TELEFONIA MÓVEL
 
 (Convênio ICMS 213/17)
 
-<table style="height: 219.157px; width: 80.0467%; margin-left: auto; margin-right: auto;"><tbody><tr><td style="width: 8.32242%; text-align: center;" rowspan="3"><strong>Item</strong></td><td style="width: 38.838%; text-align: center;" rowspan="3"><strong>Descrição</strong></td><td style="text-align: center; width: 9.77554%;" rowspan="3"><strong>CEST</strong></td><td style="text-align: center; width: 10.8324%;" rowspan="3"><strong>NCM</strong></td><td style="width: 32.365%; text-align: center;" colspan="4"><strong>MVA</strong></td></tr><tr style="height: 19.019px;"><td style="height: 19.019px; width: 10.5682%; text-align: center;" rowspan="2">Interna</td><td style="height: 19.019px; width: 6.8693%; text-align: center;" rowspan="2">4%</td><td style="height: 19.019px; width: 6.8693%; text-align: center;" rowspan="2">7%</td><td style="height: 19.019px; width: 8.05822%; text-align: center;" rowspan="2">12%</td></tr><tr style="height: 19.019px;"></tr><tr style="height: 76.0761px;"><td style="width: 8.32242%; height: 76.0761px; text-align: center;">1.0</td><td style="width: 38.838%; height: 76.0761px;">Telefones inteligentes (“smartphones”) e para redes celulares, excetos por satélite, os de uso automotivo e os classificados nos CEST 21.053.01</td><td style="width: 9.77554%; height: 76.0761px; text-align: center;">21.053.00</td><td style="width: 10.8324%; height: 76.0761px; text-align: center;"><p>8517.13.00</p><p>8517.14.3</p></td><td style="width: 10.5682%; height: 76.0761px; text-align: center;">9</td><td style="width: 6.8693%; height: 76.0761px; text-align: center;">26,07</td><td style="width: 6.8693%; height: 76.0761px; text-align: center;">22,13</td><td style="width: 8.05822%; height: 76.0761px; text-align: center;">15,57</td></tr><tr style="height: 47.9855px;"><td style="width: 8.32242%; height: 47.9855px; text-align: center;">2.0</td><td style="width: 38.838%; height: 47.9855px;">Telefones inteligentes (“smartphones”) e para redes celulares portáteis, excetos por satélite</td><td style="width: 9.77554%; height: 47.9855px; text-align: center;">21.053.01</td><td style="width: 10.8324%; height: 47.9855px; text-align: center;"><p>8517.13.00</p><p>8517.14.31</p></td><td style="width: 10.5682%; height: 47.9855px; text-align: center;">9</td><td style="width: 6.8693%; height: 47.9855px; text-align: center;">26,07</td><td style="width: 6.8693%; height: 47.9855px; text-align: center;">22,13</td><td style="width: 8.05822%; height: 47.9855px; text-align: center;">15,57</td></tr><tr style="height: 38.038px;"><td style="width: 8.32242%; height: 38.038px; text-align: center;">3.0</td><td style="width: 38.838%; height: 38.038px;">Cartões inteligentes ("smartcards"), exceto o item classificado no CEST 21.064.00</td><td style="width: 9.77554%; height: 38.038px; text-align: center;">21.063.00</td><td style="width: 10.8324%; height: 38.038px; text-align: center;">8523.52</td><td style="width: 10.5682%; height: 38.038px; text-align: center;">9</td><td style="width: 6.8693%; height: 38.038px; text-align: center;">26,07</td><td style="width: 6.8693%; height: 38.038px; text-align: center;">22,13</td><td style="width: 8.05822%; height: 38.038px; text-align: center;">15,57</td></tr><tr style="height: 19.019px;"><td style="width: 8.32242%; height: 19.019px; text-align: center;">4.0</td><td style="width: 38.838%; height: 19.019px; text-align: center;">Cartões inteligentes (‘’sim cards’’)</td><td style="width: 9.77554%; height: 19.019px; text-align: center;">21.064.00</td><td style="width: 10.8324%; height: 19.019px; text-align: center;">8523.52</td><td style="width: 10.5682%; height: 19.019px; text-align: center;">9</td><td style="width: 6.8693%; height: 19.019px; text-align: center;">26,07</td><td style="width: 6.8693%; height: 19.019px; text-align: center;">22,13</td><td style="width: 8.05822%; height: 19.019px; text-align: center;">15,57</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="3">**Item**</td><td rowspan="3">**Descrição**</td><td rowspan="3">**CEST**</td><td rowspan="3">**NCM**</td><td colspan="4">**MVA**</td></tr><tr><td rowspan="2">Interna</td><td rowspan="2">4%</td><td rowspan="2">7%</td><td rowspan="2">12%</td></tr><tr></tr><tr><td>1.0</td><td>Telefones inteligentes (“smartphones”) e para redes celulares, excetos por satélite, os de uso automotivo e os classificados nos CEST 21.053.01</td><td>21.053.00</td><td> 8517.13.00 8517.14.3 </td><td>9</td><td>26,07</td><td>22,13</td><td>15,57</td></tr><tr><td>2.0</td><td>Telefones inteligentes (“smartphones”) e para redes celulares portáteis, excetos por satélite</td><td>21.053.01</td><td> 8517.13.00 8517.14.31 </td><td>9</td><td>26,07</td><td>22,13</td><td>15,57</td></tr><tr><td>3.0</td><td>Cartões inteligentes ("smartcards"), exceto o item classificado no CEST 21.064.00</td><td>21.063.00</td><td>8523.52</td><td>9</td><td>26,07</td><td>22,13</td><td>15,57</td></tr><tr><td>4.0</td><td>Cartões inteligentes (‘’sim cards’’)</td><td>21.064.00</td><td>8523.52</td><td>9</td><td>26,07</td><td>22,13</td><td>15,57</td></tr></tbody></table>
 
 ...................................................................................................................................
 

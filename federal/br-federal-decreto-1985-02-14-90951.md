@@ -1,5 +1,3 @@
-###DEC-090951-0-000-14-02-1985@@@
-
 DECRETO Nº 90.951, DE 14 DE FEVEREIRO DE 1985
 
 Outorga concessão à RÁDIO RIO MADEIRA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Manicoré, Estado do Amazonas.

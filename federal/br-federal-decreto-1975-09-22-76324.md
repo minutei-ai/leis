@@ -1,5 +1,3 @@
-###DEC-076324-0-000-22-09-1975@@@
-
 DECRETO Nº 76.324 - DE 22 DE SETEMBRO DE 1975
 
 Altera o parágrafo 1º do artigo 67, do Regulamento da Lei do Serviço Militar, aprovado pelo Decreto número 57.564, de 20 de janeiro de 1966.

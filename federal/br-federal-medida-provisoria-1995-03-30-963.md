@@ -1,7 +1,3 @@
-1
-
-###MPV-000963-0-000-30-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 963, DE 30 DE MARÇO DE 1995.
 
 Dispõe sobre a fixação das mensalidades escolares e dá outras providências.

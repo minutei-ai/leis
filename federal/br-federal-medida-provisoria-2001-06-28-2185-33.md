@@ -1,5 +1,3 @@
-###MPV-002185-0-033-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.185‑33, DE 28 DE JUNHO DE 2001
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

@@ -1,5 +1,3 @@
-###DEC-059705-0-000-12-12-1966@@@
-
 Decreto nº 59.705, de 12 de dezembro de 1966.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar quartzo e pedras coradas, no município de Caraí, Estado de Minas Gerais.

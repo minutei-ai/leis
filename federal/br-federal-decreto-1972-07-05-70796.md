@@ -1,5 +1,3 @@
-###DEC-070796-0-000-05-07-1972@@@
-
 decreto nº 70.796, de 5 de julho de 1972.
 
 Revoga o Decreto n° 8.085, de 7 de julho de 1910, que concedeu à empresa The Brazil North Eastern Railways Limited autorização para funcionar na República Federativa do Brasil.

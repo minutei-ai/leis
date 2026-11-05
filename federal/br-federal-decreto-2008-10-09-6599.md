@@ -1,5 +1,3 @@
-###DEC-006599-0-000-09-10-2008@@@
-
 DECRETO Nº 6.599, DE 9 DE OUTUBRO DE 2008.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Hamamatsu, no Japão, e dá outra providência.

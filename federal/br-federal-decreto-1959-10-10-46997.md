@@ -1,5 +1,3 @@
-###DEC-046997-0-000-10-10-1959@@@
-
 DECRETO Nº 46.997, DE 10 DE OUTUBRO DE 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Viação e Obras Públicas, que menciona.

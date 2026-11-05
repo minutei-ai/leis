@@ -1,5 +1,3 @@
-###DEC-002209-0-000-18-04-1997@@@
-
 DECRETO Nº 2.209, DE 18 DE ABRIL DE 1997
 
 Autoriza o aumento do capital social e altera o art. 7º do Estatuto da Financiadora de Estudos e Projetos - FINEP, aprovado pelo Decreto nº 1.808, de 7 de fevereiro de 1996.

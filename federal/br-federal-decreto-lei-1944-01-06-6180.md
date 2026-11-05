@@ -1,5 +1,3 @@
-###DEL-006180-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.180 – DE 6 DE JANEIRO DE 1944
 
 Cria o Destacamento de Natal, com  sede na 7ª Região Militar

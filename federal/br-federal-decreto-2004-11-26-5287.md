@@ -1,5 +1,3 @@
-###DEC-005287-0-000-26-11-2004@@@
-
 DECRETO Nº 5.287 DE 26 DE NOVEMBRO DE 2004
 
 Altera dispositivos dos Decretos nºs 62.724, de 17 de maio de 1968, que estabelece normas gerais de tarifação para empresas concessionárias de serviços públicos de energia elétrica, e 4.550, de 27 de dezembro de 2002, que regulamenta a comercialização de energia elétrica gerada pela Eletrobrás Termonuclear S.A. \- ELETRONUCLEAR e por ITAIPU Binacional, e dá outras providências.

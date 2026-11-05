@@ -1,5 +1,3 @@
-###MPV-001965-0-010-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.965-10, DE 6 DE JANEIRO DE 2000.
 
 Estabelece a nulidade das disposições contratuais que menciona, inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração, e altera o art. 1º da Lei nº 7.347, de 24 de julho de 1985.

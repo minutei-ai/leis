@@ -1,5 +1,3 @@
-###DEL-001388-0-000-16-01-1975@@@
-
 # decreto-lei nº 1.388, de 16 de janeiro de 1975
 
 Altera, para o exercício de 1975, a distribuição do produto da arrecadação dos impostos únicos.

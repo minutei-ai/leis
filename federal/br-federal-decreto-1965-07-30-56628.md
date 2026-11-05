@@ -1,5 +1,3 @@
-###DEC-056628-0-000-30-07-1965@@@
-
 Decreto nº 56.628, de 30 de julho de 1965.
 
 Aprova alterações introduzidas nos Estatuto da Companhia Boavista de Seguros, inclusive aumento do capital social.

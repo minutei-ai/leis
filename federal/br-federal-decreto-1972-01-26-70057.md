@@ -1,5 +1,3 @@
-###DEC-070057-0-000-26-01-1972@@@
-
 DECRETO Nº 70.057, DE 26 DE JANEIRO DE 1972
 
 Declara sem efeito o Decreto nº 22.601, de 21 de fevereiro de 1947, retificado pelo de nº 26.899, de 13 de julho de 1949.

@@ -1,5 +1,3 @@
-###DEC-094954-0-000-24-09-1987@@@
-
 DECRETO Nº 94.954, DE 24 DE SETEMBRO DE 1987
 
 Renova a concessão outorgada à TELEVISÃO CULTURA DE MARINGÁ LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Maringá, Estado do Paraná.

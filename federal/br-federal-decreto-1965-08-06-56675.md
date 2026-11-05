@@ -1,5 +1,3 @@
-###DEC-056675-0-000-06-08-1965@@@
-
 DECRETO Nº 56.675, DE 06 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Adherbal Castilho Coelho a pesquisar minério de manganês no Município de São João d’Aliança, no Estado de Goiás.

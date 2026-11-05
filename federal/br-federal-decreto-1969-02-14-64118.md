@@ -1,5 +1,3 @@
-###DEC-064118-0-000-14-02-1969@@@
-
 DECRETO Nº 64.118, DE 14 DE FEVEREIRO DE 1969.
 
 Decreta a intervenção federal nos município de Olinda e Goiânia, no Estado de Pernambuco, e dá outras providências.

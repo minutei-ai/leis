@@ -1,5 +1,3 @@
-###DEC-097584-0-000-20-03-1989@@@
-
 DECRETO N° 97.584, DE 20 DE MARÇO DE 1989
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade de Filosofia, Ciências e Letras de Governador Valadares, Minas Gerais.

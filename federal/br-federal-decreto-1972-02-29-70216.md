@@ -1,5 +1,3 @@
-###DEC-070216-0-000-29-02-1972@@@
-
 DECRETO Nº 70.216, DE 29 DE FEVEREIRO DE 1972.
 
 Autoriza a Transferência Direta para a Sociedade Rádio Emissora Continental Ltda., da concessão autorgada à Empresa de Televisão Continental S.A. - TV Continental, referente a uma estação de radiodifusão sonora, em onda curta.

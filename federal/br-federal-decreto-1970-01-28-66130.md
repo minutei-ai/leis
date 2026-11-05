@@ -1,5 +1,3 @@
-###DEC-066130-0-000-28-01-1970@@@
-
 DECRETO Nº 66.130 - DE 28 DE JANEIRO DE 1970
 
 Declara de utilidade pública o Hospital de Caridade Rainha dos Apóstolos, com sede em Dona Francisca, Estado do Rio Grande do Sul.

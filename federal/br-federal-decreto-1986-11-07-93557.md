@@ -1,5 +1,3 @@
-###DEC-093557-0-000-07-11-1986@@@
-
 DECRETO Nº 93.557, DE 7 DE NOVEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério Público Federal.

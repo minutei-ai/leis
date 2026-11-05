@@ -1,5 +1,3 @@
-###DEL-007096-0-000-29-11-1944@@@
-
 DECRETO-LEI N. 7.096 – DE 29 DE NOVEMBRO DE 1944
 
 Dispõe sôbre cômputo de interstício e dá outras providências

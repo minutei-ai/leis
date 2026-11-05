@@ -1,5 +1,3 @@
-###DEC-064925-0-000-05-08-1969@@@
-
 DECRETO Nº 64.925 - DE 5 DE AGÔSTO DE 1969.
 
 Dispõe sôbre medidas para aplicação do regime de tempo integral e dedicação exclusiva e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072375-0-000-18-06-1973@@@
-
 Decreto Nº 72.375, de 18 de junho de 1973.
 
 Torna sem efeito aproveitamento de disponível do Ministério das Minas e Energia no Quadro Único de Pessoal da Universidade Federal da Bahia e dá outras providências.

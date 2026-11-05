@@ -1,5 +1,3 @@
-###DEC-002226-0-000-19-05-1997@@@
-
 DECRETO Nº 2.226, DE 19 DE MAIO DE 1997
 
 Considera de emergência fitossanitária a região compreendida pelo Município do Oiapoque e circunvizinhanças, no Estado do Amapá, para implementação do plano de supressão e erradicação da praga Bactrocera carambolae, detectada naquela localidade.

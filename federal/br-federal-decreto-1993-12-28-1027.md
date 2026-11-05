@@ -1,7 +1,3 @@
-1
-
-###DEC-001027-0-000-28-12-1993@@@
-
 DECRETO Nº 1.027, DE 28 DE DEZEMBRO DE 1993
 
 Dispõe sobre procedimentos a serem observados por empresas controladas direta ou indiretamente pela União.

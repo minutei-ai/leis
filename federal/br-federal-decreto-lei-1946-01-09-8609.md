@@ -1,5 +1,3 @@
-###DEL-008609-0-000-09-01-1946@@@
-
 DECRETO-LEI N. 8.609 – DE 9 DE JANEIRO DE 1946
 
 Abre ao Ministério da Guerra o crédito suplementar de Cr$ 3.293,30, à verba que especifica.

@@ -1,5 +1,3 @@
-###DEC-067589-0-000-17-11-1970@@@
-
 DECRETO Nº 67.589, DE 17 DE NOVEMBRO DE 1970.
 
 Retifica o Decreto nº 66.453, de 15 de abril de 1970, publicado no "Diário Oficial" de 16 subseqüente.

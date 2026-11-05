@@ -1,5 +1,3 @@
-###DEC-055149-0-000-04-12-1964@@@
-
 DECRETO Nº 55.149, DE 4 DE DEZeMBRO DE 1964.
 
 Declara públicas, de uso comum, do domínio do Estado de Santa Catarina, as águas do curso dágua que especifica.

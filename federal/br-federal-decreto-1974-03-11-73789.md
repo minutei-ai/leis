@@ -1,5 +1,3 @@
-###DEC-073789-0-000-11-03-1974@@@
-
 decreto nº 73.789, de 11 de março de 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, ao Estado do Rio Grande do Sul, do imóvel que menciona, situado em Porto Alegre.

@@ -1,5 +1,3 @@
-###DEC-071866-0-000-26-02-1973@@@
-
 DECRETO N° 71.866, DE 26 DE FEVEREIRO DE 1973.
 
 Dispõe sobre o tratamento fiscal aplicável às operações previstas no artigo 1° do Decreto-lei n° 1.248, de 29 de novembro de 1972, e regulamenta o regime de entreposto aduaneiro.

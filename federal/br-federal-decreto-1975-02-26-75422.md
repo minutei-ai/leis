@@ -1,5 +1,3 @@
-###DEC-075422-0-000-26-02-1975@@@
-
 DECRETO Nº 75.422, DE 26 DE FEVEREIRO DE 1975
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, sem benfeitorias, situada na Cidade de São Paulo, Estado de São Paulo, destinada à construção de prédio para instalação da sede da Diretoria Regional da Empresa Brasileira de Correios e Telégrafos naquele Estado.

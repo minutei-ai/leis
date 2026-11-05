@@ -1,5 +1,3 @@
-###DEC-070613-0-000-25-05-1972@@@
-
 DECRETO Nº 70.613, DE 25 DE MaIO DE 1972.
 
 Declara sem efeito o Decreto nº 40.954, de 14 de fevereiro de 1957.

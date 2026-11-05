@@ -1,5 +1,3 @@
-###DEC-054983-0-000-12-11-1964@@@
-
 DECRETO Nº 54.983, DE 12 DE Novembro DE 1964.
 
 Concede à Mineração Indústria e Comércio Ltda. autorização para funcionar como emprêsa de mineração.

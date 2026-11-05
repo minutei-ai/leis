@@ -1,5 +1,3 @@
-###DEC-052869-0-000-19-11-1963@@@
-
 DECRETO Nº 52.869, DE 19 DE NOVEMBRO DE 1963.
 
 Determina o recolhimento ao Banco do Brasil S. A. da diferença entre os preços máximos estipulados pela resolução nº 6-63 do Conselho Deliberativo da SUNAB e os estabelecidos nos contratos que menciona e dá outras providências.

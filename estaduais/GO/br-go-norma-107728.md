@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 15 dias do mês de Agosto de 2023.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 QUADRO 1
@@ -37,6 +35,7 @@ QUADRO 2
 | 12 364 1038 3.105 | RECONSTRUÇÃO DA INFRAESTRUTURA FÍSICA DA UEG | 4 - INVESTIMENTOS | 15000100 | 90 |
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | R$ 12.857.568,34 | R$ 3.000.000,00 | R$ 3.000.000,00 |
-|   | **VALOR TOTAL<br>
+|   | **VALOR TOTAL
+
 A REDUZIR** |
 | R$ 3.000.000,00 |

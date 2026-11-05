@@ -1,5 +1,3 @@
-###DEC-054889-0-000-04-11-1964@@@
-
 Decreto nº 54.889, de 4 de novembro de 1964.
 
 Autoriza o cidadão brasileiro, Francisco Altamirano de Barros a pesquisar minério de ferro, mica, caulim e tantalita, no município de Rio Piracicaba, Estado de Minas Gerais.

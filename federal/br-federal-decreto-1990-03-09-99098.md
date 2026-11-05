@@ -1,7 +1,3 @@
-1
-
-###DEC-099098-0-000-09-03-1990@@@
-
 DECRETO Nº 99.098, DE 9 DE MARÇO DE 1990
 
 Homologa a demarcação administrati­va da Área Indígena Içana‑Aiari, no Estado do Amazonas.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095755-0-000-26-02-1988@@@
-
 DECRETO N° 95.755, DE 26 DE FEVEREIRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Educação de Cuiabá, Mato Grosso.

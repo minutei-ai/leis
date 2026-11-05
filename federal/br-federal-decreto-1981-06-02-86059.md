@@ -1,5 +1,3 @@
-###DEC-086059-0-000-02-06-1981@@@
-
 Decreto nº 86.059, de 02 de junho de 1981
 
 Autoriza à Fertilizantes Nitrogenados do Nordeste S.A. - NITROFÉRTIL - NE, a proceder ao aumento do limite do seu Capital Social.

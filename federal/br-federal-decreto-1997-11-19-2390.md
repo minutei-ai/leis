@@ -1,5 +1,3 @@
-###DEC-002390-0-000-19-11-1997@@@
-
 DECRETO Nº 2.390, DE 19 DE NOVEMBRO DE 1997
 
 Aprova o Estatuto da Companhia Nacional de Abastecimento - CONAB.

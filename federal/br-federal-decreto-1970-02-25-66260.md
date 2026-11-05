@@ -1,5 +1,3 @@
-###DEC-066260-0-000-25-02-1970@@@
-
 DECRETO Nº 66.260 - DE 25 DE FEVEREIRO DE 1970
 
 Instituto a Delegação do Ministério das Relações Exteriores no Estado da Guanabara e dá outras providências.

@@ -8,15 +8,18 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º O Anexo IV do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 29 de dezembro de 1997, Regulamento do [Código Tributário do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836/lei-11651) – RCTE, nos períodos a seguir determinados, passa a vigorar com a redação dada pelo:
 
-I – Anexo I deste Decreto, de 1º de junho de 2022 até 31 de maio de 2024; e<br>
+I – Anexo I deste Decreto, de 1º de junho de 2022 até 31 de maio de 2024; e
+
 \- [Redação dada pelo Decreto nº 10.697, de 23-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110713) - efeitos a partir de 3-10-2022.
 
-~~I – Anexo I deste Decreto, de 1º de junho de 2022 até 31 de março de 2024; e~~<br>
+~~I – Anexo I deste Decreto, de 1º de junho de 2022 até 31 de março de 2024; e~~
+
 \- [Redação dada pelo Decreto nº 10.416, de 29-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108476/decreto-10416).
 
 ~~I – Anexo I deste Decreto, de 1º de junho de 2022 até 2 de abril de 2023; e~~
 
-II – Anexo II deste Decreto, a partir de 1º de abril de 2024.<br>
+II – Anexo II deste Decreto, a partir de 1º de abril de 2024.
+
 \- [Redação dada pelo Decreto nº 10.416, de 29-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108476/decreto-10416).
 
 ~~II – Anexo II deste Decreto, a partir de 3 de abril de 2023.~~
@@ -2697,7 +2700,8 @@ Classificam-se neste código os lançamentos efetuados a título de saída em de
 
 Classificam-se neste código as outras saídas de mercadorias ou prestações de serviços que não tenham sido especificados nos códigos anteriores.” (NR)
 
-ANEXO II<br>
+ANEXO II
+
 \- [Revogado pelo Decreto nº 10.697, de 23-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110713) - art. 5º.
 
 ~~“ANEXO IV~~

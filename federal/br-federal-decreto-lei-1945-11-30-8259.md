@@ -1,5 +1,3 @@
-###DEL-008259-0-000-30-11-1945@@@
-
 DECRETO-LEI N. 8.259 – DE 3O DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Viação e obras Públicas o crédito suplementar de Cr$ 50.000,00, à verba que especifica,

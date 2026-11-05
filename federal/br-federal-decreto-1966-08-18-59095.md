@@ -1,5 +1,3 @@
-###DEC-059095-0-000-18-08-1966@@@
-
 DECRETO Nº 59.095, DE 18 DE AGÔSTO de 1966.
 
 Autoriza o cidadão brasileiro Domingos Nodari a pesquisar calcário no município de Colombo, Estado do Paraná.

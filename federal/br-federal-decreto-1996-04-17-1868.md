@@ -1,5 +1,3 @@
-###DEC-001868-0-000-17-04-1996@@@
-
 DECRETO Nº 1.868, DE 17 DE ABRIL DE 1996.
 
 Reconhece como de interesse do Governo brasileiro a participação estrangeira no capital do Excel Banco S.A.

@@ -1,38 +1,36 @@
-###DEC-053351-0-000-26-12-1963@@@
+**DECRETO Nº 53.351, DE 26 DE DEZEMBRO DE 1963.**
 
-<strong>DECRETO Nº 53.351, DE 26 DE DEZEMBRO DE 1963.</strong>
+***Aprova o nôvo R-158, Regulamento da Diretoria de Obras e Fortificações.***
 
-<em><strong>Aprova o nôvo R-158, Regulamento da Diretoria de Obras e Fortificações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o item I do art. 87 da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o item I do art. 87 da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Diretoria de Obras e Fortificações (R/158), que com êste baixa, assinado pelo General-de-Exército Jair Dantas Ribeiro, Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Diretoria de Obras e Fortificações (R/158), que com êste baixa, assinado pelo General-de-Exército Jair Dantas Ribeiro, Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º Êste decreto entra em vigor na data de sua publicação revogando o Decreto nº 23.198, de 11 de junho de 1947, e demais disposições em contrário.
+**Art**. 2º Êste decreto entra em vigor na data de sua publicação revogando o Decreto nº 23.198, de 11 de junho de 1947, e demais disposições em contrário.
 
 Brasília, DF, 26 de dezembro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Jair Ribeiro
 
-<strong>MINISTÉRIO DA GUERRA DPO - DGEC DIRETORIA DE OBRAS E FORTIFICAÇÕES R-158</strong>
+**MINISTÉRIO DA GUERRA DPO - DGEC DIRETORIA DE OBRAS E FORTIFICAÇÕES R-158**
 
-<strong>REGULAMENTO DA DIRETORIA DE OBRAS E FORTIFICAÇÕES</strong>
+**REGULAMENTO DA DIRETORIA DE OBRAS E FORTIFICAÇÕES**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Diretoria e suas finalidades</em>
+*Da Diretoria e suas finalidades*
 
-<strong>Art</strong>. 1º A Diretoria de Obras e Fortificações (DOF), diretamente subordinada à Diretoria Geral de Engenharia e Comunicações (DGEC), incumbe-se das atividades relativas ao planejamento e execução de obras, conservação das construções e instalações de equipamento do território, a cargo do Ministério da Guerra, naquilo que lhe diz respeito.
+**Art**. 1º A Diretoria de Obras e Fortificações (DOF), diretamente subordinada à Diretoria Geral de Engenharia e Comunicações (DGEC), incumbe-se das atividades relativas ao planejamento e execução de obras, conservação das construções e instalações de equipamento do território, a cargo do Ministério da Guerra, naquilo que lhe diz respeito.
 
-<strong>Art</strong>. 2º À Diretoria de Obras e Fortificações compete:
+**Art**. 2º À Diretoria de Obras e Fortificações compete:
 
 1\) Consoante diretrizes e normas baixadas, pelas autoridades superiores:
 
@@ -78,15 +76,15 @@ c) o anteprojeto do Plano de Obras anual;
 
 d) projetos de tipos-padrão de construções militares e instalações, consoante suas finalidades e às distintas condições regionais.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Organização</em>
+*Organização*
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização Geral</em>
+*Da Organização Geral*
 
-<strong>Art</strong>. 3º A Diretoria de Obras e Fortificações compreende:
+**Art**. 3º A Diretoria de Obras e Fortificações compreende:
 
 1\) Direção;
 
@@ -94,7 +92,7 @@ d) projetos de tipos-padrão de construções militares e instalações, consoan
 
 3\) 1 (uma) Seção Administrativa.
 
-<strong>Art</strong>. 4º São subordinados à DOF, para execução dos seus encargos, os seguintes Órgãos:
+**Art**. 4º São subordinados à DOF, para execução dos seus encargos, os seguintes Órgãos:
 
 1\) Comissões Especiais de Obras (CEO);
 
@@ -102,39 +100,39 @@ d) projetos de tipos-padrão de construções militares e instalações, consoan
 
 3\) Depósitos de Materiais de Construção (DMC).
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Organização Pormenorizada</em>
+*Da Organização Pormenorizada*
 
-<strong>Art</strong>. 5º A Direção da DOF compreende:
+**Art**. 5º A Direção da DOF compreende:
 
 1\) Diretor;
 
 2\) Gabinete.
 
-<strong>Art</strong>. 6º O Gabinete é constituído de:
+**Art**. 6º O Gabinete é constituído de:
 
 1\) Chefia;
 
-2\) 1ª Divisão (D/1) <em>\-</em> Pessoal e Serviços Especiais;
+2\) 1ª Divisão (D/1) *\-* Pessoal e Serviços Especiais;
 
 3\) 2ª Divisão (D/2) - Expediente e Serviços auxiliares.
 
-<strong>Art</strong>. 7º As Seções Técnicas denominam-se:
+**Art**. 7º As Seções Técnicas denominam-se:
 
 a) 1ª Seção (S/1) - Estudos e Programas
 
-b) 2ª Seção (S/2) <em>\-</em> Projetos;
+b) 2ª Seção (S/2) *\-* Projetos;
 
 c) 3ª Seção (S/3) - Saneamento;
 
-d) 4ª Seção (S/4) <em>\-</em> Energia Elétrica e Instalações Especiais;
+d) 4ª Seção (S/4) *\-* Energia Elétrica e Instalações Especiais;
 
-e) 5ª Seção (S/5) <em>\-</em> Contrôle, Fiscalização e Execução de Obras;
+e) 5ª Seção (S/5) *\-* Contrôle, Fiscalização e Execução de Obras;
 
-f) 6ª Seção (S/6) <em>\-</em> Fortificações e Paióis.
+f) 6ª Seção (S/6) *\-* Fortificações e Paióis.
 
-<strong>Art</strong>. 8º A Seção Administrativa (S/Adm) compreende:
+**Art**. 8º A Seção Administrativa (S/Adm) compreende:
 
 1\) Chefia;
 
@@ -150,19 +148,19 @@ f) 6ª Seção (S/6) <em>\-</em> Fortificações e Paióis.
 
 7\) Serviços Gerais.
 
-<strong>Art</strong>. 9º Em função da disponibilidade em pessoal, o Diretor poderá desdobrar as Seções em Subseções, deforma a melhor atender à distribuição dos seus encargos.
+**Art**. 9º Em função da disponibilidade em pessoal, o Diretor poderá desdobrar as Seções em Subseções, deforma a melhor atender à distribuição dos seus encargos.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Atribuições</em>
+*Atribuições*
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições orgânicas</em>
+*Das atribuições orgânicas*
 
-I <em>\-</em> Do Gabinete
+I *\-* Do Gabinete
 
-<strong>Art</strong>. 10. Ao Gabinete compete:
+**Art**. 10. Ao Gabinete compete:
 
 1\) Auxiliar na coordenação das atividades da Diretoria, de modo a assegurar perfeita execução das ordens emanadas do Diretor;
 
@@ -188,15 +186,15 @@ I <em>\-</em> Do Gabinete
 
 12\) Estudar e propor os efetivos e a movimentação de oficiais necessários ao cumprimento do plano anual de investimentos.
 
-II <em>\-</em> Das Seções
+II *\-* Das Seções
 
-<strong>Art</strong>. 11. Às Seções compete:
+**Art**. 11. Às Seções compete:
 
 1\) Estudar, projetar, fiscalizar e exectuar:
 
 \- obras em geral, inclusive fortificações;
 
-\- instalações elétricas, hidráulicas e especiais <em>\-</em> das obras, inclusive fortificações;
+\- instalações elétricas, hidráulicas e especiais *\-* das obras, inclusive fortificações;
 
 \- obras e instalações para produção, transmissão, distribuição e utilização de energia elétrica;
 
@@ -212,7 +210,7 @@ II <em>\-</em> Das Seções
 
 6\) Organizar e manter depósitos ou órgãos de suprimento e de manutenção dos materiais e equipamentos, para construção e instalações.
 
-<strong>Art</strong>. 12. À 1ª Seção (S/1), - Estudos compete:
+**Art**. 12. À 1ª Seção (S/1), - Estudos compete:
 
 1\) Estudar e propor os planos técnicos das obras atribuídas à Diretoria,
 
@@ -232,7 +230,7 @@ II <em>\-</em> Das Seções
 
 9\) Preparar e manter atualizados os dados estatísticos necessários à Diretoria, para o desempenho das atribuições que lhe competem.
 
-<strong>Art</strong>. 13. À 2ª Seção (S/2), - Projetos <em>\-</em> compete:
+**Art**. 13. À 2ª Seção (S/2), - Projetos *\-* compete:
 
 1\) Elaborar ou examinar os projetos e orçamentos relativos às partes de arquitetura, estrutura e instalações prediais e hidráulicas, das obras;
 
@@ -244,9 +242,9 @@ II <em>\-</em> Das Seções
 
 5\) Colaborar nos estudos estatísticos referentes às atividades da DOF, na esfera de suas atribuições;
 
-6\) Realizar vistorias e perícias técnica e obras <em>\-</em> das suas atribuições.
+6\) Realizar vistorias e perícias técnica e obras *\-* das suas atribuições.
 
-<strong>Art</strong>. 14. À 3ª Seção (S/3), - Saneamento <em>\-</em> compete:
+**Art**. 14. À 3ª Seção (S/3), - Saneamento *\-* compete:
 
 1\) Elaborar o examinar os estudos, projetos e orçamentos de obras, instalações e equipamentos relativos aos sistemas de abastecimentos dágua, de esgôtos, de águas pluviais e de prevenção sanitária;
 
@@ -278,7 +276,7 @@ f) a tarifação dos serviços públicos de saneamento nas zonas de influência 
 
 g) à padronização de materiais, equipamentos, instalações e métados relativos à Técnica e à Prática a Política da Engenharia Sanitária.
 
-<strong>Art</strong>. 15. À 4ª Seção (S/4), - Energia Elétrica e Instalações Especiais compete:
+**Art**. 15. À 4ª Seção (S/4), - Energia Elétrica e Instalações Especiais compete:
 
 1\) Elaborar ou examinar os estudos, projetos e orçamentos relativos às instalações e equipamentos para produção transmissão, distribuição e utilização de energia elétrica e relativos às instalações e equipamentos especiais términos e mecânicos;
 
@@ -312,7 +310,7 @@ e) a tarifação de energia elétrica, nas diversas zonas geo-econômicas nacion
 
 9\) Realizar vistorias e perícias técnicas.
 
-<strong>Art</strong>. 16. A 5ª Seção (S/5), - Contrôle, Fiscalização e Execução de Obras compete:
+**Art**. 16. A 5ª Seção (S/5), - Contrôle, Fiscalização e Execução de Obras compete:
 
 1\) Colaborar na organização do plano anual de investimentos em obras e instalações;
 
@@ -338,7 +336,7 @@ e) a tarifação de energia elétrica, nas diversas zonas geo-econômicas nacion
 
 12\) Realizar vistorias e perícias técnicas em obras das suas atribuições.
 
-<strong>Art</strong>. 17. À 6ª Seção (S/6), - Fortificações e Paióis compete:
+**Art**. 17. À 6ª Seção (S/6), - Fortificações e Paióis compete:
 
 1\) Elaborar ou examinar os projetos e orçamentos relativos às partes de estrutura e instalações das fortificações e paióis;
 
@@ -362,7 +360,7 @@ e) a tarifação de energia elétrica, nas diversas zonas geo-econômicas nacion
 
 III - Da Seção Administrativa
 
-<strong>Art</strong>. 18. A Seção Administrativa além dos encargos previstos nas leis e regulamentos em vigor, compete:
+**Art**. 18. A Seção Administrativa além dos encargos previstos nas leis e regulamentos em vigor, compete:
 
 1\) Estudar e superintender as questões referentes à Administração da Diretoria, nos têrmos do regulamento e instruções em vigor e emitir parecer sôbre as mesmas;
 
@@ -380,7 +378,7 @@ III - Da Seção Administrativa
 
 8\) Preparar os processos administrativos para as aquisições que tenham de ser feitas, pela Diretoria.
 
-<strong>Art</strong>. 19. À contadoria compete:
+**Art**. 19. À contadoria compete:
 
 1\) Centralizar as operações de contabilidade e escrituração da Diretoria, calcado nas Leis e Regulamentos em vigor, complementados por processos e métodos já consagrados no Comércio, nas Indústrias, nos Bancos e nas Repartições públicas em geral;
 
@@ -418,7 +416,7 @@ III - Da Seção Administrativa
 
 Parágrafo único. Na sede da DOF todos os pedidos relativos à aquisição de material e à prestação de serviços, serão extraídos da Contadoria.
 
-<strong>Art</strong>. 20. Aos Serviços Gerais compete:
+**Art**. 20. Aos Serviços Gerais compete:
 
 1\) Superintender o serviço de transporte;
 
@@ -432,13 +430,13 @@ Parágrafo único. Na sede da DOF todos os pedidos relativos à aquisição de m
 
 6\) Providenciar, quanto ao material e pessoal necessários às suas atribuições.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Atribuições Funcionais</em>
+*Das Atribuições Funcionais*
 
-I <em>\-</em> Do Diretor
+I *\-* Do Diretor
 
-<strong>Art</strong>. 21. Ao Diretor de Obras e Fortificações compete:
+**Art**. 21. Ao Diretor de Obras e Fortificações compete:
 
 1\) Orientar, coordenar e fiscalizar as atividades dos órgãos subordinados, baixando instruções e normas e propor à DGEC, quando escapar à sua alçada, as medidas convenientes à regularidade dos trabalhos que lhe são afetos;
 
@@ -468,7 +466,7 @@ I <em>\-</em> Do Diretor
 
 II - Do Chefe do Gabinete
 
-<strong>Art</strong>. 22. Ao Chefe do Gabinete compete:
+**Art**. 22. Ao Chefe do Gabinete compete:
 
 1\) Manter-se ao corrente da orientação e das decisões do Diretor;
 
@@ -500,7 +498,7 @@ II - Do Chefe do Gabinete
 
 III - Dos Chefes de Seção
 
-<strong>Art</strong>. 23. Aos Chefes de Seção compete:
+**Art**. 23. Aos Chefes de Seção compete:
 
 1\) Dirigir, coordenar e fiscalizar os serviços da Seção, de forma a obter maior eficiência dos trabalhos;
 
@@ -522,7 +520,7 @@ III - Dos Chefes de Seção
 
 IV - Do Chefe da Seção Administrativa.
 
-<strong>Art</strong>. 24. Ao Chefe da Seção Administrativa compete:
+**Art**. 24. Ao Chefe da Seção Administrativa compete:
 
 1\) Coordenar, orientar e fiscalizar a vida econômica e financeira da DOF;
 
@@ -572,7 +570,7 @@ IV - Do Chefe da Seção Administrativa.
 
 V - Do Chefe da Contadoria
 
-<strong>Art</strong>. 25. Ao Chefe da Contadoria compete:
+**Art**. 25. Ao Chefe da Contadoria compete:
 
 1\) Manter a escrituração da Receita e da Despesa, de acôrdo com as normas adotadas;
 
@@ -596,7 +594,7 @@ V - Do Chefe da Contadoria
 
 VI - Dos Chefes de Subseção, Adjuntos e Auxiliares
 
-<strong>Art</strong>. 26. Aos Chefes da Subseções compete:
+**Art**. 26. Aos Chefes da Subseções compete:
 
 1\) Dirigir as atividades e tarefas dos adjuntos das subseções;
 
@@ -608,23 +606,23 @@ VI - Dos Chefes de Subseção, Adjuntos e Auxiliares
 
 5\) Submeter ao Chefe da Seção a documentação que fôr elaborada na respectiva Subseção.
 
-<strong>Art</strong>. 27. Aos Adjuntos e Auxiliares das Subseções compete:
+**Art**. 27. Aos Adjuntos e Auxiliares das Subseções compete:
 
 1\) Executar os encargos e tarefas que lhe sejam atribuídos, pelos Chefes da Subseções, nos prazos fixados;
 
 2\) Responder, perante o Chefe da Subseção, pela carga da documentação ou material sob sua responsabilidade.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Outras Disposições</em>
+*Outras Disposições*
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Dos Órgãos Subordinados</em>
+*Dos Órgãos Subordinados*
 
-<strong>Art</strong>. 28. As Comissões Especiais de Obras são órgãos destinados, exclusivamente, à execução de obras militares; compete-lhes, ainda, o cumprimento de todos e quaisquer encargos constantes do nº 1 do art. 11 dêste Regulamento.
+**Art**. 28. As Comissões Especiais de Obras são órgãos destinados, exclusivamente, à execução de obras militares; compete-lhes, ainda, o cumprimento de todos e quaisquer encargos constantes do nº 1 do art. 11 dêste Regulamento.
 
-<strong>Art</strong>. 29. As Comissões Especiais de Obras (CEO) são constituídas de:
+**Art**. 29. As Comissões Especiais de Obras (CEO) são constituídas de:
 
 1\) Chefia e Órgãos Administrativas;
 
@@ -632,9 +630,9 @@ VI - Dos Chefes de Subseção, Adjuntos e Auxiliares
 
 3\) Setores de Obras.
 
-<strong>Art</strong>. 30. As Prefeituras Militares são órgãos destinados a atender à administração e manutenção dos grandes conjuntos patrimoniais do Exército, executar os projetos de obras organizada pela DOF para a área de sua jurisdição e explorar recursos locais (pedreiras, matas, areais, olarias, etc.) recebendo a designação da localidade onde tiver sede. Poderão, quando autorizados, executar qualquer dos encargos constantes do nº 1 do art. 11 dêste Regulamento.
+**Art**. 30. As Prefeituras Militares são órgãos destinados a atender à administração e manutenção dos grandes conjuntos patrimoniais do Exército, executar os projetos de obras organizada pela DOF para a área de sua jurisdição e explorar recursos locais (pedreiras, matas, areais, olarias, etc.) recebendo a designação da localidade onde tiver sede. Poderão, quando autorizados, executar qualquer dos encargos constantes do nº 1 do art. 11 dêste Regulamento.
 
-<strong>Art</strong>. 31. As Prefeituras Militares (PM) são organizadas, quanto necessárias; e de acôrdo com o vulto de seus encargos, podem ser constituídas de:
+**Art**. 31. As Prefeituras Militares (PM) são organizadas, quanto necessárias; e de acôrdo com o vulto de seus encargos, podem ser constituídas de:
 
 1\) Chefia e Órgãos Administrativos;
 
@@ -644,28 +642,28 @@ VI - Dos Chefes de Subseção, Adjuntos e Auxiliares
 
 4\) Setor Industrial.
 
-<strong>Art</strong>. 32. Os Depósitos de Materiais de Construção serão organizados, quando necessário, para atender ao provimento de grandes conjuntos de obras, em materiais e equipamentos, recebendo a designação da localidade onde tiver sede.
+**Art**. 32. Os Depósitos de Materiais de Construção serão organizados, quando necessário, para atender ao provimento de grandes conjuntos de obras, em materiais e equipamentos, recebendo a designação da localidade onde tiver sede.
 
-<strong>Art</strong>. 33. Os Depósitos de Materiais de Construção (DMC) são constituídos de:
+**Art**. 33. Os Depósitos de Materiais de Construção (DMC) são constituídos de:
 
 1\) Chefia e Órgãos Administrativos;
 
 2\) Seção de Armazenagem.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Prescrições Diversas</em>
+*Prescrições Diversas*
 
-<strong>Art</strong>. 34. Em complemento às prescrições contidas neste regulamento, a Diretoria elaborará o seu Regimento Interno.
+**Art**. 34. Em complemento às prescrições contidas neste regulamento, a Diretoria elaborará o seu Regimento Interno.
 
-<strong>Art</strong>. 35. Os Serviços de Obras Regionais (SOR) farão cumprir, nas esferas de suas atribuições, todos os encargos, para execução e fiscalização das obras militares, recebendo para isso, normas e orientação técnica da DOF, através dos Comandos Regionais.
+**Art**. 35. Os Serviços de Obras Regionais (SOR) farão cumprir, nas esferas de suas atribuições, todos os encargos, para execução e fiscalização das obras militares, recebendo para isso, normas e orientação técnica da DOF, através dos Comandos Regionais.
 
-<strong>Art</strong>. 36. Por obras militares entendem-se os trabalhos de construção, ampliação, reforma (melhoramento e adaptação), manutenção (reparos, conservação e restauração), remoção e demolição de quartéis, edifícios, fábricas, hospitais, depósitos, instalações especiais (cozinhas, lavandeiras, frigoríficos, usinas, rêdes de distribuição de energia elétrica, etc.) fortificações, estradas, obras de arte, aquavias e outras peculiares, exclusivamente, à profissão de Engenheiros Construtores ou Eletricistas.
+**Art**. 36. Por obras militares entendem-se os trabalhos de construção, ampliação, reforma (melhoramento e adaptação), manutenção (reparos, conservação e restauração), remoção e demolição de quartéis, edifícios, fábricas, hospitais, depósitos, instalações especiais (cozinhas, lavandeiras, frigoríficos, usinas, rêdes de distribuição de energia elétrica, etc.) fortificações, estradas, obras de arte, aquavias e outras peculiares, exclusivamente, à profissão de Engenheiros Construtores ou Eletricistas.
 
-<strong>Art</strong>. 37. É condição essencial, para a justificação de qualquer despesa com obras militares, a aprovação de seus projetos e orçamentos, pelo Diretor da DOF, ou pelos Chefes das Seções dos Serviços de Obras Regionais, Comissões Especiais de Obras e Prefeituras Militares, quando se tratar de obras de valor inferior ao limite anualmente fixado no Folheto Orçamentário.
+**Art**. 37. É condição essencial, para a justificação de qualquer despesa com obras militares, a aprovação de seus projetos e orçamentos, pelo Diretor da DOF, ou pelos Chefes das Seções dos Serviços de Obras Regionais, Comissões Especiais de Obras e Prefeituras Militares, quando se tratar de obras de valor inferior ao limite anualmente fixado no Folheto Orçamentário.
 
-<strong>Art</strong>. 38. O art. 37 não se aplica às obras atribuídas à D V T.
+**Art**. 38. O art. 37 não se aplica às obras atribuídas à D V T.
 
-<strong>Art</strong>. 39. Nenhuma alteração ou modificação poderá ser feita nos imóveis da União, sob a jurisdição do Ministério da Guerra, sem prévio parecer da Diretoria de Obras e Fortificações.
+**Art**. 39. Nenhuma alteração ou modificação poderá ser feita nos imóveis da União, sob a jurisdição do Ministério da Guerra, sem prévio parecer da Diretoria de Obras e Fortificações.
 
-<strong>Art</strong>. 40. O material e equipamento remanescentes de obras e demolições devem ser recolhidos ao depósito de material de construção do Órgão a que estiver subordinada a obra; o seu reemprêgo ficará a critério do Chefe do aludido Órgão.
+**Art**. 40. O material e equipamento remanescentes de obras e demolições devem ser recolhidos ao depósito de material de construção do Órgão a que estiver subordinada a obra; o seu reemprêgo ficará a critério do Chefe do aludido Órgão.

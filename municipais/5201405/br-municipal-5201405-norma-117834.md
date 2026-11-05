@@ -18,8 +18,10 @@ Município de Aparecida de Goiânia, aos 13 de fevereiro de 2023.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

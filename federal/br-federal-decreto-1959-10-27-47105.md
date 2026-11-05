@@ -1,5 +1,3 @@
-###DEC-047105-0-000-27-10-1959@@@
-
 DECRETO Nº 47.105, DE 27 DE OUTUBRO DE 1959.
 
 Renova o Decreto nº 42.071, de 19 de agôsto de 1957.

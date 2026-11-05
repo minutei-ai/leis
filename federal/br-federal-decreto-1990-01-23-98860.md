@@ -1,7 +1,3 @@
-1
-
-###DEC-098860-0-000-23-01-1990@@@
-
 DECRETO N° 98.860, DE 23 DE JANEIRO DE 1990
 
 Renova a concessão outorgada à RÁDIO UNIÃO DE CÉU AZUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Céu Azul, Estado do Paraná.

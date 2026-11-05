@@ -1,5 +1,3 @@
-###DEC-092560-0-000-16-04-1986@@@
-
 DECRETO Nº 92.560, DE 16 DE ABRIL DE 1986
 
 Prorroga nos termos do Decreto-lei nº 288, de 28 de fevereiro de 1967, o prazo de vigência das isenções tributárias nele previstas, e dá outras providências.

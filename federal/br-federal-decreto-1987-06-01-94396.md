@@ -1,5 +1,3 @@
-###DEC-094396-0-000-01-06-1987@@@
-
 DECRETO Nº 94.396, DE 1º DE JUNHO DE 1987.
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre o Brasil e o Peru (Acordo nº 12).

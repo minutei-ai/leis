@@ -1,5 +1,3 @@
-###DEC-070760-0-000-23-06-1972@@@
-
 DECRETO Nº 70.760, DE 23 DE JUNHO DE 1972.
 
 Concede reconhecimento ao Curso de Matemática da Faculdade de Filosofia, Ciências e Letras de São José do Rio Preto - SP.

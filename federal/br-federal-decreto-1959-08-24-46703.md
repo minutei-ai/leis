@@ -1,5 +1,3 @@
-###DEC-046703-0-000-24-08-1959@@@
-
 DECRETO Nº 46.703, DE 24 DE AGÔSTO DE 1959.
 
 Abre ao Poder Judiciário, Tribunal Federal de Recursos, o crédito especial de Cr$362.467.578,70 (trezentos e sessenta e dois milhões, quatrocentos e sessenta e sete mil quinhentos e setenta e oito cruzeiros e setena centavos), para o fim que específica.

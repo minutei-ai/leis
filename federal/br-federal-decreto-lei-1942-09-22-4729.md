@@ -1,5 +1,3 @@
-###DEL-004729-0-000-22-09-1942@@@
-
 DECRETO-LEI N. 4.729 – DE 22 DE SETEMBRO DE 1942
 
 Concede uma pensão especial à viuva e aos filhos menores de Delmino DeIfino de Andrade, funcionário da E. F. Noroeste do Brasil, vítima de agressão em serviço.

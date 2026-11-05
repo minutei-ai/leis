@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/26928)<br>
-
 # LEI N° 5.081, DE 30 DE ABRIL DE 1986
 
 ### _Dá a denominação de "Prefeito Aristeu Vieira Vilela" ao trecho da SP-66, que liga Guaratinguetá a Lorena_

@@ -1,5 +1,3 @@
-###DEC-061084-0-000-27-07-1967@@@
-
 DECRETO Nº 61.084, DE 27 DE JULHO DE 1967.
 
 Abre o crédito especial de NCr$300.000,00 (trezentos mil cruzeiros novos) ao Tribunal de Contas da União, para o fim que especifica.

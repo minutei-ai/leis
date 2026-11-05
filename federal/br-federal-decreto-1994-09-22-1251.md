@@ -1,7 +1,3 @@
-1
-
-###DEC-001251-0-000-22-09-1994@@@
-
 DECRETO Nº 1.251, DE 22 DE SETEMBRO DE 1994
 
 Altera a redação do art. 52 do Decreto nº 55.762, de 17 de fevereiro de 1965, que regulamenta a Lei nº 4.131, de 3 de setembro de 1962, modificada pela Lei nº 4.390, de 29 de agosto de 1964.

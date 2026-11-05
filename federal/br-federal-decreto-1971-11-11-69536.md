@@ -1,5 +1,3 @@
-###DEC-069536-0-000-11-11-1971@@@
-
 DECRETO Nº 69.536 - DE 11 DE NOVEMBRO de 1971
 
 Declara de utilidade pública o Lar da Menina, com sede em Tubarão, Estado de Santa Catarina.

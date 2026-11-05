@@ -1,5 +1,3 @@
-###DEC-056039-A-000-24-04-1965@@@
-
 DECRETO Nº 56.039-A, de 24 de abril de 1965.
 
 Cria o Centro de Estudo de Pessoal (CEP).

@@ -1,5 +1,3 @@
-###DEC-062144-0-000-18-01-1968@@@
-
 DECRETO Nº 62.144, DE 18 DE JANEIRO DE 1968.
 
 Altera a redação do art. 3º do Decreto nº 61.330, de 11 de setembro de 1967.

@@ -1,5 +1,3 @@
-###DEL-003964-0-000-20-12-1941@@@
-
 DECRETO-LEI N. 3.964 – DE 20 DE DEZEMBRO DE 1941
 
 Esclarece os decretos-leis ns. 3.437 e 3.438, ambos de 17 de julho de 1941

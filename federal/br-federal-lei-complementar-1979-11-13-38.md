@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/698f7a5b-e0e3-4684-a4b7-2fa01d9b1a5b/texto#nowhere)
 
-###LCP-000038-0-000-13-11-1979@@@
-
 # LEI COMPLEMENTAR Nº 38, DE 13 DE NOVEMBRO DE 1979
 
 Modifica a redação de dispositivos da Lei Complementar nº 25, de 2 de julho de 1975, que estabelece critérios e limites para a fixação da remuneração de Vereadores.

@@ -1,5 +1,3 @@
-###MPV-001977-0-011-11-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-11, DE 11 de janeiro de 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

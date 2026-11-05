@@ -16,11 +16,14 @@ Art.3º - Esta Lei entrará em vigor na data de sua publicação, revogando as d
 
 Gabinete do Prefeito do Município de Aparecida Goiânia, aos dias 04 do mês de Janeiro do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário de Governo e Integração Institucional
 
-JULIO LEMOS<br>
+JULIO LEMOS
+
 Secretário de Habitação e Regularização Fundiária

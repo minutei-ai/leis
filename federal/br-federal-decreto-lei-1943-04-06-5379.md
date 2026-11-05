@@ -1,5 +1,3 @@
-###DEL-005379-0-000-06-04-1943@@@
-
 DECRETO‑LEI N. 5.379 – DE 6 DE ABRIL DE 1943
 
 Concede acréscimo de vencimentos aos tenentes‑coronéis do Corpo de Bombeiros

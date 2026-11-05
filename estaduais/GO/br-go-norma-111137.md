@@ -60,29 +60,46 @@ QUANTITATIVO, CARGA HORÁRIA, VENCIMENTO, ATRIBUIÇÕES E REQUISITOS
 
 | FUNÇÃO TEMPORÁRIA | QTVO | CARGA HORÁRIA SEMANAL | VENCIMENTO | ATRIBUIÇÕES | REQUISITOS |
 | --- | --- | --- | --- | --- | --- |
-| Engenheiro Ambiental | 1 | 40 h | R$ 5.117,15 | 1 – Desenvolver sistemas para prevenir e controlar a poluição;<br>
-2 – Montar os processos relativos às licenças ambientais;<br>
-3 – Realizar o monitoramento e a mitigação de impactos ambientais; e<br>
+| Engenheiro Ambiental | 1 | 40 h | R$ 5.117,15 | 1 – Desenvolver sistemas para prevenir e controlar a poluição;
+
+2 – Montar os processos relativos às licenças ambientais;
+
+3 – Realizar o monitoramento e a mitigação de impactos ambientais; e
+
 4 – Realizar outras atividades correlatas. | Diploma de conclusão de Ensino Superior, expedido por Instituição devidamente reconhecida pelo MEC. |
-| Professor de Nível Superior | 24 | 40 h | R$ 3.165,33 | 1 – Promover a prática da ginástica, de jogos e atividades físicas em geral, com o ensino dos princípios e das regras técnicas de atividades esportivas;<br>
-2 – Ter conhecimento e facilidade para trabalhar com ferramentas tecnológicas para uso no ensino remoto; e<br>
+| Professor de Nível Superior | 24 | 40 h | R$ 3.165,33 | 1 – Promover a prática da ginástica, de jogos e atividades físicas em geral, com o ensino dos princípios e das regras técnicas de atividades esportivas;
+
+2 – Ter conhecimento e facilidade para trabalhar com ferramentas tecnológicas para uso no ensino remoto; e
+
 3 – Realizar outras atividades correlatas. | Diploma de conclusão de Ensino Superior, expedido por Instituição devidamente reconhecida pelo MEC. |
-| Professor Técnico Especializado | 49 | 40 h | R$ 2.632,16 | 1 – Ajudar na construção do caráter dos seus alunos, trabalhando valores e atitudes;<br>
-2 – Promover o equilíbrio postural e físico;<br>
-3 – Promover a difusão do conhecimento teórico e prático de qualquer modalidade de artes marciais, lutas, esportes de contato e esportes de combate;<br>
-4 – Ter conhecimento e facilidade para trabalhar com ferramentas tecnológicas para uso no ensino remoto; e<br>
+| Professor Técnico Especializado | 49 | 40 h | R$ 2.632,16 | 1 – Ajudar na construção do caráter dos seus alunos, trabalhando valores e atitudes;
+
+2 – Promover o equilíbrio postural e físico;
+
+3 – Promover a difusão do conhecimento teórico e prático de qualquer modalidade de artes marciais, lutas, esportes de contato e esportes de combate;
+
+4 – Ter conhecimento e facilidade para trabalhar com ferramentas tecnológicas para uso no ensino remoto; e
+
 5 – Realizar outras atividades correlatas. | Curso Técnico ou Superior na área equivalente, com diploma ou certificado expedido por Instituição devidamente reconhecida pelo MEC, respectivamente. |
-| Administrativo – Nível Médio | 4 | 40 h | R$ 1.645,10 | 1 – Trabalhar em favor do interesse público e dos direitos e interesses dos cidadãos que administra;<br>
-2 – Confeccionar documentos; e<br>
+| Administrativo – Nível Médio | 4 | 40 h | R$ 1.645,10 | 1 – Trabalhar em favor do interesse público e dos direitos e interesses dos cidadãos que administra;
+
+2 – Confeccionar documentos; e
+
 3 – Realizar outras atividades correlatas. | Diploma de conclusão de Ensino Médio ou equivalente, expedido por Instituição devidamente reconhecida pelo MEC. |
-| Administrativo – Nível Superior | 6 | 40 h | R$ 2.741,83 | 1 – Trabalhar em favor do interesse público e dos direitos e interesses dos cidadãos que administra;<br>
-2 – Confeccionar documentos; e<br>
+| Administrativo – Nível Superior | 6 | 40 h | R$ 2.741,83 | 1 – Trabalhar em favor do interesse público e dos direitos e interesses dos cidadãos que administra;
+
+2 – Confeccionar documentos; e
+
 3 – Realizar outras atividades correlatas. | Diploma de conclusão de Ensino Superior, expedido por Instituição devidamente reconhecida pelo MEC. |
-| Psicólogo | 1 | 40 h | R$ 2.961,17 | 1 – Atuar no atendimento psicológico voltado para atletas ou profissionais do meio esportivo, para auxiliá-los na obtenção do equilíbrio entre corpo e mente;<br>
-2 – Identificar padrões de comportamento humano por meio da análise de suas ideias, valores e emoções; e<br>
+| Psicólogo | 1 | 40 h | R$ 2.961,17 | 1 – Atuar no atendimento psicológico voltado para atletas ou profissionais do meio esportivo, para auxiliá-los na obtenção do equilíbrio entre corpo e mente;
+
+2 – Identificar padrões de comportamento humano por meio da análise de suas ideias, valores e emoções; e
+
 3 – Realizar outras atividades correlatas. | Diploma de conclusão de Ensino Superior, expedido por Instituição devidamente reconhecida pelo MEC. |
-| Fisioterapeuta | 2 | 40 h | R$ 2.961,17 | 1 – Trabalhar com a prevenção de lesões em atletas e praticantes de atividades físicas e tratá-los de forma específica;<br>
-2 – Atuar nos casos que requeiram tratamento especializado na área de fisioterapia, com a aplicação de técnicas que visam a reabilitação do paciente; e<br>
+| Fisioterapeuta | 2 | 40 h | R$ 2.961,17 | 1 – Trabalhar com a prevenção de lesões em atletas e praticantes de atividades físicas e tratá-los de forma específica;
+
+2 – Atuar nos casos que requeiram tratamento especializado na área de fisioterapia, com a aplicação de técnicas que visam a reabilitação do paciente; e
+
 3 – Realizar outras atividades correlatas. | Diploma de conclusão de Ensino Superior, expedido por Instituição devidamente reconhecida pelo MEC. |
 | **TOTAL** | **87** |   |
 
@@ -99,16 +116,25 @@ DAS ATRIBUIÇÕES E DOS REQUISITOS
 | ITEM | FUNÇÃO TEMPORÁRIA | ATRIBUIÇÕES | REQUISITOS |
 | --- | --- | --- | --- |
 | ...... | ............................... | ........................................................ | ................................ |
-| 110 | Instrutor de Técnica Esportiva – Área I | 1 – promover a difusão do conhecimento teórico e prático na modalidade esportiva ou atividade física correspondente à área de atuação;<br>
-2 – elaborar planos de aula ou treinos baseados nos objetivos do indivíduo ou do grupo;<br>
-3 – definir cronogramas de atividades esportivas, com respeito à progressão pedagógica e às condições físicas dos participantes;<br>
+| 110 | Instrutor de Técnica Esportiva – Área I | 1 – promover a difusão do conhecimento teórico e prático na modalidade esportiva ou atividade física correspondente à área de atuação;
+
+2 – elaborar planos de aula ou treinos baseados nos objetivos do indivíduo ou do grupo;
+
+3 – definir cronogramas de atividades esportivas, com respeito à progressão pedagógica e às condições físicas dos participantes;
+
 4 – selecionar exercícios e técnicas adequados para o desenvolvimento de habilidades específicas no esporte; e 5 – realizar atividades correlatas. | Certificado de conclusão de curso técnico na modalidade esportiva correspondente à área de atuação, emitido por Confederação ou Federação ou por instituição a ela filiada, ou diploma de conclusão de curso de Ensino Superior, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele. |
-| 111 | Instrutor de Técnica Esportiva – Área II | 1 – promover a prática da ginástica, de jogos, de atividades físicas e de práticas esportivas em geral, com o ensino de princípios e regras técnicas;<br>
-2 – elaborar planos de aula ou treinos baseados nos objetivos do indivíduo ou do grupo;<br>
-3 – definir cronogramas de atividades esportivas, com respeito à progressão pedagógica e às condições físicas dos participantes;<br>
-4 – selecionar exercícios e técnicas adequados para o desenvolvimento de habilidades específicas no esporte;<br>
-5 – auxiliar no planejamento das políticas esportivas;<br>
-6 – elaborar relatórios, pareceres e outros documentos relativos à área de atuação; e<br>
+| 111 | Instrutor de Técnica Esportiva – Área II | 1 – promover a prática da ginástica, de jogos, de atividades físicas e de práticas esportivas em geral, com o ensino de princípios e regras técnicas;
+
+2 – elaborar planos de aula ou treinos baseados nos objetivos do indivíduo ou do grupo;
+
+3 – definir cronogramas de atividades esportivas, com respeito à progressão pedagógica e às condições físicas dos participantes;
+
+4 – selecionar exercícios e técnicas adequados para o desenvolvimento de habilidades específicas no esporte;
+
+5 – auxiliar no planejamento das políticas esportivas;
+
+6 – elaborar relatórios, pareceres e outros documentos relativos à área de atuação; e
+
 7 – realizar atividades correlatas. | Diploma de conclusão de curso de Ensino Superior em Educação Física, reconhecido pelo MEC ou por Conselho Estadual de Educação e fornecido por instituição autorizada por ele. |
 
 ” (NR)
@@ -129,7 +155,7 @@ das cargas horárias e DOs VENCIMENTOs
 
 DOS QUANTITATIVOS
 
-| ITEM | FUNÇÃO TEMPORÁRIA | **ACRÉSCIMO** **DE VAGAS** |
+| ITEM | FUNÇÃO TEMPORÁRIA | **ACRÉSCIMODE VAGAS** |
 | --- | --- | --- |
 | ....... | .................................................................................................................. | ................. |
 | 110 | Instrutor de Técnica Esportiva – Área I | 72 |

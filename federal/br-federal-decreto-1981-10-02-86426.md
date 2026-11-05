@@ -1,5 +1,3 @@
-###DEC-086426-0-000-02-10-1981@@@
-
 Decreto nº 86.426, de 02 de outubro de 1981.
 
 Concede autorização à empresa CHEVRON GUARATUBA PETROLEUM COMPANY, para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.
@@ -23,8 +21,6 @@ AURELIANO CHAVES
 Maximiano Fonseca
 
 Arnaldo Rodrigues Barbalho
-
-###DEC-086426-0-000-02-10-1981@@@RETO1+++
 
 DECRETO Nº 86.426, DE 02 DE OUTUBRO DE 1981.
 

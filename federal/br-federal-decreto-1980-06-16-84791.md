@@ -1,5 +1,3 @@
-###DEC-084791-0-000-16-06-1980@@@
-
 Decreto nº 84.791 de 16 de junho de 1980.
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo do Centro de Estudos Superiores de Londrina, Estado do Paraná.

@@ -1,4 +1,5 @@
-DECRETO Nº 864, DE 19 DE FEVEREIRO DE 2025<br>
+DECRETO Nº 864, DE 19 DE FEVEREIRO DE 2025
+
 Revogado pelo Decreto Numerado nº 1.444, de 27 de maio de 2025.
 
 ~~Dispõe sobre o desmembramento de imóvel(eis), localizado(s) no Município de Aparecida de Goiânia.~~
@@ -21,7 +22,8 @@ Revogado pelo Decreto Numerado nº 1.444, de 27 de maio de 2025.
 
  
 
-~~LEANDRO VILELA VELLOSO<br>
+~~LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia~~
 
 ~~ANEXO ÚNICO~~

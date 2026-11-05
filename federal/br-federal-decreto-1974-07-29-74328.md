@@ -1,5 +1,3 @@
-###DEC-074328-0-000-29-07-1974@@@
-
 DECRETO Nº 74.328 - DE 29 DE JULHO DE 1974
 
 Autoriza a reversão do imóvel que menciona, situado no Município de Manaus, Estado do Amazonas.

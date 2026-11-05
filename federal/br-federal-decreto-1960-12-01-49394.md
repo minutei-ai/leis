@@ -1,5 +1,3 @@
-###DEC-049394-0-000-01-12-1960@@@
-
 DECRETO N.º 49.394, DE 1º DE DEZEMBRO DE 1960.
 
 Retifica o Decreto n.º 44.454, de 3 de setembro de 1958.

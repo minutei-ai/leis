@@ -1,5 +1,3 @@
-###DEL-001193-0-000-23-11-1971@@@
-
 # DECRETO-LEI Nº 1.193, DE 23 DE NOVEMBRO DE 1971
 
 Autoriza o Tesouro Nacional a promover o aumento do capital do Banco do Brasil S.A. e dá outras providências.

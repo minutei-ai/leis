@@ -1,5 +1,3 @@
-###DEC-058489-0-000-24-05-1966@@@
-
 DECRETO Nº 58.489, DE 24 DE MAIO DE 1966
 
 Concede à Sociedade Mineradora Tanguá Limitada autorização para funcionar como empresa de mineração.

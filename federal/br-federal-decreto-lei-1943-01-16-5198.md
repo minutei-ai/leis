@@ -1,5 +1,3 @@
-###DEL-005198-0-000-16-01-1943@@@
-
 DECRETO‑LEI N. 5.198 – DE 16 DE JANEIRO DE 1943
 
 Transfere a sede do 1º Regimento de Aviação e dá outras providências

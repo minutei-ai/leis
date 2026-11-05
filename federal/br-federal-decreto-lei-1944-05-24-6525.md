@@ -1,5 +1,3 @@
-###DEL-006525-0-000-24-05-1944@@@
-
 DECRETO-LEI N. 6.525 – DE 24 DE MAIO DE 1944
 
 Declara incorporada à campanha nacional contra o câncer a Liga Bahiana Contra o Câncer

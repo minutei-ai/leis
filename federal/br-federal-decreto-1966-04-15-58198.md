@@ -1,5 +1,3 @@
-###DEC-058198-0-000-15-04-1966@@@
-
 DECRETO Nº 58.198, DE 15 DE ABRIL DE 1966.
 
 Institui Comissão Especial de Juristas, para o fim que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-000050-0-000-07-03-1991@@@
-
 DECRETO Nº 50, DE 7 DE MARÇO DE 1991
 
 Retifica a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 97.410, de 23 de dezembro de 1988.

@@ -1,5 +1,3 @@
-###DEC-092830-0-000-26-06-1986@@@
-
 DECRETO Nº 92.830, DE 26 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Alegre'', situado no Município de Araguaína, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixado pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

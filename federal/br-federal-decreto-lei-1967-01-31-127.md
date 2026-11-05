@@ -1,5 +1,3 @@
-###DEL-000127-0-000-31-01-1967@@@
-
 decreto-lei nº 127, DE 31 de JANEIRO DE 1967
 
 Dispõe sôbre operação de carga e descarga de mercadorias nos portos organizados e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099478-0-000-27-08-1990@@@
-
 DECRETO N° 99.478, DE 27 DE AGOSTO DE 1990
 
 Fixa, para o exercício de 1990, o limite global das importações via Zona Franca de Manaus e Área de Livre Comércio de Tabatinga e dá outras providências.

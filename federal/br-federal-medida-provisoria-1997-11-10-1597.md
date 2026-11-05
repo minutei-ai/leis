@@ -1,5 +1,3 @@
-###MPV-001597-0-000-10-11-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.597, DE 10 DE NOVEMBRO DE 1997
 
 Dispõe sobre recursos não reclamados correspondentes às contas de depósitos não recadastrados, e dá outras providências.

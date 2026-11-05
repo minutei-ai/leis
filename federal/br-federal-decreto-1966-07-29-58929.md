@@ -1,5 +1,3 @@
-###DEC-058929-0-000-29-07-1966@@@
-
 DECRETO Nº 58.929, de 29 de julho de 1966.
 
 Revoga o Decreto nº 53.802, de 23 de março de 1964, que instituiu o “Prêmio de Produtividade” a ser concedido aos produtores rurais pela Comissão de Financiamento da Produção.

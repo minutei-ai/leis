@@ -1,5 +1,3 @@
-###DEC-087042-0-000-18-03-1982@@@
-
 Decreto Nº 87.042, de 18 de março de 1982.
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5821, de 10 de novembro de 1972.

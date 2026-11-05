@@ -1,5 +1,3 @@
-###DEC-059354-0-000-04-10-1966@@@
-
 Decreto nº 59.354, de 4 de outubro de 1966.
 
 Retifica a ratifica o art. 1º do Decreto nº 36.942, de 1º de outubro de 1965.

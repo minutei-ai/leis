@@ -1,5 +1,3 @@
-###DEC-006143-0-000-03-07-2007@@@
-
 DECRETO Nº 6.143, DE 3 DE JULHO DE 2007.
 
 Dispõe sobre a execução do Trigésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica no 14, entre os Governos da República Federativa do Brasil e da República Argentina, de 20 de junho de 2007.
@@ -22,11 +20,7 @@ Brasília, 3 de julho de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 4.7.2007
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 14 ASSINADO ENTRE A
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 14 ASSINADO ENTRE A
 
 REPÚBLICA ARGENTINA E A REPÚBLICA FEDERATIVA DO BRASIL
 

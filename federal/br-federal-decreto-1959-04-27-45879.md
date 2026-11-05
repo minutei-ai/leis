@@ -1,5 +1,3 @@
-###DEC-045879-0-000-27-04-1959@@@
-
 Decreto nº 45.879, de 27 de abril de 1959.
 
 Modifica o artigo 2º do Decreto número 39.816, de 21 de agôsto de 1956, referente à cessão, sob o regime de aforamento, à firma Moinhos Brasileiros S.A, do terreno de acrescido de marinha, situado entre as Avenidas Hildebrando de Gois e do Pôrto, na cidade de Natal, no Estado do Rio Grande do Norte.

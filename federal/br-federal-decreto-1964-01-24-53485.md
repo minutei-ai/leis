@@ -1,5 +1,3 @@
-###DEC-053485-0-000-24-01-1964@@@
-
 DECRETO Nº 53.485, DE 24 DE JANEIRO DE 1964.
 
 Altera a denominação de estabelecimento de ensino.

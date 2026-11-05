@@ -1,5 +1,3 @@
-###DEC-002587-0-000-12-05-1998@@@
-
 DECRETO Nº 2.587, DE 12 DE MAIO DE 1998
 
 Promulga o Acordo-Quadro sobre Cooperação em Aplicações Pacíficas de Ciência e Tecnologia Espaciais, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Argentina, em Buenos Aires, em 9 de abril de 1996.
@@ -124,4 +122,12 @@ ARTIGO 11
 
 Feito em Buenos Aires, em 09 de abril de 1996, em dois exemplares, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil Luiz Felipe Lampreia Ministro de Estado das Relações Exteriores</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina Guido di Tella Ministro de Relações Exteriores e Culto</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil Luiz Felipe Lampreia Ministro de Estado das Relações Exteriores
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Argentina Guido di Tella Ministro de Relações Exteriores e Culto
+
+</td></tr></tbody></table>

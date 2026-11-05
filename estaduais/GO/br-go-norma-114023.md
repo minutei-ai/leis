@@ -16,20 +16,38 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>1900 - SECRETARIA DE ESTADO DE GOVERNO</b><br>1901 - GAB. DA SECRET. DE ESTADO DE RELAÇÕES INSTITUCIONAIS</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOMENTO E PARCERIAS</td><td style=" width:85px;    ">04 122 1007 2583</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.652.000,00</td><td style=" width:85px;    ">R$ 2.652.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**1900 - SECRETARIA DE ESTADO DE GOVERNO** 1901 - GAB. DA SECRET. DE ESTADO DE RELAÇÕES INSTITUCIONAIS</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>FOMENTO E PARCERIAS</td><td>04 122 1007 2583</td><td>15000100</td><td>50</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 2.652.000,00</td><td>R$ 2.652.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.652.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 2.652.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.652.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 2.652.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS</b><br>101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DE CAPACITAÇÕES DE SERVIDORES DA ALEGO</td><td style=" width:85px;    ">01 031 4200 4244</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.500.000,00</td><td style=" width:85px;    ">R$ 1.500.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA PROMOÇÃO E DIVULGAÇÃO DAS ATIVIDADES DA ALEGO</td><td style=" width:85px;    ">01 031 4200 4247</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.152.000,00</td><td style=" width:85px;    ">R$ 1.152.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS** 101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>GESTÃO DE CAPACITAÇÕES DE SERVIDORES DA ALEGO</td><td>01 031 4200 4244</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 1.500.000,00</td><td>R$ 1.500.000,00</td></tr><tr><td>GESTÃO DA PROMOÇÃO E DIVULGAÇÃO DAS ATIVIDADES DA ALEGO</td><td>01 031 4200 4247</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 1.152.000,00</td><td>R$ 1.152.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.652.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.652.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 2.652.000,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.652.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.652.000,00</td></tr></tbody></table>
+**TOTAL**
+
+R$ 2.652.000,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.652.000,00
+
+**TOTAL**
+
+R$ 2.652.000,00

@@ -1,7 +1,3 @@
-1
-
-###DEC-085809-0-000-11-03-1981@@@
-
 DECRETO Nº 85.809, DE 11 DE MARÇO DE 1981.
 
 Autoriza o funcionamento dos Cursos de Ciências Econômicas, de Ciências Contábeis e de Administração do Instituto de Ciências Sociais Aplicadas, com sede na cidade de Brasília, Distrito Federal.

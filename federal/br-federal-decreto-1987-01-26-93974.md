@@ -1,5 +1,3 @@
-###DEC-093974-0-000-26-01-1987@@@
-
 DECRETO Nº 93.974, DE 26 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Pedra da Jurema, Santa Maria, Desterro, Santa Rita dos Impossíveis, Olgalinda e Poços", classificados no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e minifúndio, situados no Município de Monte Santo, no Estado da Bahia, e compreendidos na zona prioritária para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

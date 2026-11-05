@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210853)<br>
-
 # DECRETO N° 69.477, DE 10 DE ABRIL DE 2025
 
 ### _Concede a Medalha dos Bandeirantes à personalidade que especifica._

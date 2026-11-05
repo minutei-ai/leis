@@ -1,5 +1,3 @@
-###DEC-002302-0-000-14-08-1997@@@
-
 DECRETO Nº 2.302, DE 14 DE AGOSTO DE 1997
 
 Regulamenta a Lei nº 9.445, de 14 de março de 1997, que concede subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais e dá outras providências.

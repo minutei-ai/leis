@@ -1,5 +1,3 @@
-###DEC-084107-0-000-23-10-1979@@@
-
 Decreto nº 84.107, de 23 de outubro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da estrada de acesso e subestação Foz do Iguaçu-Conversora de FURNAS - Centrais Elétricas S.A., no Estado do Paraná.

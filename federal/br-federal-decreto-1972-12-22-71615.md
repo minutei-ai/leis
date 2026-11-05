@@ -1,5 +1,3 @@
-###DEC-071615-0-000-22-12-1972@@@
-
 decreto nº 71.615 - de 22 de dezembro de 1972
 
 Regulamenta o Decreto-lei nº1.164, de 1 de abril de 1971, alterado pelo Decreto-lei nº 1.243, de 30 de outubro de 1972, e fixa as normas para a implantação de projetos de colonização, concessão de terra e estabelecimento ou exploração de indústrias de interesse da Segurança Nacional, nas terras devolutas localizadas ao longo de rodovias, na Amazônia Legal.

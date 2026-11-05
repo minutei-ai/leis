@@ -1,5 +1,3 @@
-###DEC-084104-0-000-22-10-1979@@@
-
 Decreto nº 84.104, de 22 de outubro de 1979.
 
 Suspende, por inconstitucionalidade, a execução da Emenda Constitucional nº 8, de 1977, promulgada pela Assembléia Legislativa do Estado de São Paulo.

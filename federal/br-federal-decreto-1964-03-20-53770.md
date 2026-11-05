@@ -1,5 +1,3 @@
-###DEC-053770-0-000-20-03-1964@@@
-
 DECRETO Nº 53.770, de 20 DE MARÇO DE 1964.
 
 Outorga a Companhia Paranaense de Energia Elétrica - COPEL - concessão para o aproveitamento da energia hidráulica de um desnível denominado Salto Grande, no município de Pato Branco, Estado do Paraná.

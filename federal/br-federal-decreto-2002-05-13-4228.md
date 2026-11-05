@@ -1,5 +1,3 @@
-###DEC-004228-0-000-13-05-2002@@@
-
 DECRETO Nº 4.228, DE 13 DE MAIO DE 2002.
 
 Institui, no âmbito da Administração Pública Federal, o Programa Nacional de Ações Afirmativas e dá outras providências.

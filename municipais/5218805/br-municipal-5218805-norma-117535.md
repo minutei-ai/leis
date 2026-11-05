@@ -1,6 +1,7 @@
 LEI Nº 7.130, DE 30 DE MARÇO DE 2021.
 
-     <br>
+     
+
 Autoriza alienação de imóvel público.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

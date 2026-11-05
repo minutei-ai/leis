@@ -1,5 +1,3 @@
-###DEC-061641-0-000-03-11-1967@@@
-
 Decreto nº 61.641, de 3 de Novembro de 1967.
 
 Abre, à Presidência da República, em favor do Conselho Nacional de Telecomunicações, o crédito suplementar de NCr$10.000,00 (dez mil cruzeiros novos), para refôrço de dotação que específica.

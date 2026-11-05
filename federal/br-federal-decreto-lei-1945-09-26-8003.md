@@ -1,5 +1,3 @@
-###DEL-008003-0-000-26-09-1945@@@
-
 DECRETO-LEI N. 8.003 – DE 26 DE SETEMBRO DE 1945
 
 Concede pensão especial à viúva e ao filho menor de José Rafael de Azeredo.

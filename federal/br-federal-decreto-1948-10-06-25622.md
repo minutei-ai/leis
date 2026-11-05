@@ -1,14 +1,12 @@
-###DEC-025622-0-000-06-10-1948@@@
+**DECRETO Nº 25.622, DE 6 DE OUTUBRO DE 1948.**
 
-<strong>DECRETO Nº 25.622, DE 6 DE OUTUBRO DE 1948.</strong>
+***Organiza uma Comissão Permanente dos Serviços de Saúde do Exército, Marinha e Aeronáutica e dá outras providências.***
 
-<em><strong>Organiza uma Comissão Permanente dos Serviços de Saúde do Exército, Marinha e Aeronáutica e dá outras providências.</strong></em>
+**OPRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87m, item I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87m, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Com o objetivo de fixar doutrina comum de ação e melhor uniformização de métodos e d recursos, dentro das características próprias e peculiares a cada uma das três Fôrças Armadas fica organizada, em caráter permanente, uma Comissão integrada pelos Diretores de Saúde Naval, do Exército e da Aeronáutica.
+**Art**. 1.º Com o objetivo de fixar doutrina comum de ação e melhor uniformização de métodos e d recursos, dentro das características próprias e peculiares a cada uma das três Fôrças Armadas fica organizada, em caráter permanente, uma Comissão integrada pelos Diretores de Saúde Naval, do Exército e da Aeronáutica.
 
 § 1.º A Comissão prevista nêste artigo, diretamente subordinada ao Estado-Maior Geral será presidida pelo oficial general com precedência entre os que a integram
 
@@ -16,7 +14,7 @@
 
 § 3.º Em caso de guerra, por iniciativa do Estado-Maior Geral, poderá a Comissão ser acrescida de personalidades militares ou civis, notáveis pelo seu saber e especializadas em assuntos que interessem aos Serviços de Saúde das Fôrças Armadas.
 
-<strong>Art</strong>. 2º Além de apreciação dos assuntos técnico-especializados que lhe sejam atribuídos a Comissão deverá, principalmente estudar:
+**Art**. 2º Além de apreciação dos assuntos técnico-especializados que lhe sejam atribuídos a Comissão deverá, principalmente estudar:
 
 a) a uniformização das medidas de profilaxia e a adoção de normas comuns de tratamento médico e cirúrgico;
 
@@ -30,7 +28,7 @@ e) a previsão da aplicação em caso de guerra dos recursos dos Serivços de Sa
 
 f) a utilização e distribuição equitativa, em caso de guerra, entre os Serviços de Saúde Naval , do Exército e da Aeronáutica, dos recursos sanitários civis, em pessoal e material, que sejam necessários aos Serviços em aprêço;
 
-<strong>Art</strong>. 3.° A comissão fornecerá diretrizes e baixará ordens para que:
+**Art**. 3.° A comissão fornecerá diretrizes e baixará ordens para que:
 
 § 1.º os órgãos de tratamento, ambulatório ou hospitalar, do Exército, da Marinha e da Aeronáutica atendam aos militares de qualquer das três Fôrças Armadas  dentro das possibilidades de execução de cada órgão e sem prejuízo das necessidades da Fôrça Armada da qual dependa, aplicando-se ao militar baixado ou em tratamento, em conseqüência desta disposição tôdas as normas vigentes o órgão onde esteja sendo atendido, inclusive as indenizações correspondentes, quando fôr o caso.
 
@@ -38,11 +36,11 @@ f) a utilização e distribuição equitativa, em caso de guerra, entre os Servi
 
 § 3.º  sejam estabelecidas inspeções de contrôle bienal de eficiência fisicopsiquica dos quadros permanentes e organizadas cadernetas sanitárias padrão das Fôrças Armadas.
 
-<strong>Art</strong>. 4.º Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art**. 4.º Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, 6 de outubro  de 1948, 127.° da Independência e 60.° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha
 

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210014)<br>
-
 # LEI COMPLEMENTAR N° 1.415, DE 23 DE SETEMBRO DE 2024
 
 ### _Dispõe sobre a criação de cargos de Analista de Sistemas Judiciário, no Quadro do Tribunal de Justiça do Estado de São Paulo._

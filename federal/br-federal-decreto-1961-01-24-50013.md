@@ -1,5 +1,3 @@
-###DEC-050013-0-000-24-01-1961@@@
-
 DECRETO Nº 50.013, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Guilhermino de Freitas Jatobá a pesquisar mármore no município de Juazeiro, Estado da Bahia.

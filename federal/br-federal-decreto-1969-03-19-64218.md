@@ -1,5 +1,3 @@
-###DEC-064218-0-000-19-03-1969@@@
-
 DECRETO Nº 64.218, DE 19 DE MARÇO DE 1969.
 
 Autoriza a cessão gratuita de terreno de marinha situado no Município de Navegantes, Estado de Santa Catarina.

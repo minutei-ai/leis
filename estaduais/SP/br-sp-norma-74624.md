@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74624)
-
 # LEI Nº 12.770, DE 21 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 354/2007, da Deputada Analice Fernandes - PSDB)

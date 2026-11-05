@@ -1,5 +1,3 @@
-###DEC-070923-0-000-03-08-1972@@@
-
 DECRETO Nº 70.923, DE 3 DE AGOSTO DE 1972.
 
 Concede à Carbonífera Alencastro S.A. o direito de lavrar carvão mineral no município de Butiá, Estado do Rio Grande do Sul.
@@ -27,8 +25,6 @@ Brasília, 3 de agosto de 1972; 151º da Independência e 84º da República.
 emílio g. médici
 
 Antônio Dias Leite Júnior
-
-###DEC-070923-0-000-03-08-1972@@@
 
 DECRETO Nº 70.923, DE 3 DE AGOSTO DE 1972.
 

@@ -1,16 +1,14 @@
-###DEC-042566-0-000-07-11-1957@@@
+**DECRETO Nº 42.566, DE 7 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.566, DE 7 DE NOVEMBRO DE 1957.</strong>
+***Declara de utilidade pública uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a usina de aproveitamento hidrelétrico Da cachoeira de Rio Bonito, no rio Santa Maria, até Vitória, município do mesmo nome, no Estado do Espírito Santo.***
 
-<em><strong>Declara de utilidade pública uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a usina de aproveitamento hidrelétrico Da cachoeira de Rio Bonito, no rio Santa Maria, até Vitória, município do mesmo nome, no Estado do Espírito Santo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É declarada de utilidade pública a faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a usina hidrelétrica da cachoeira de Rio Bonito, no rio Santa Maria, até Vitória, no município do mesmo nome, Estado do Espírito Santo, correspondente ao aproveitamento progressivo da energia hidráulica de várias cachoeiras existentes no rio Santa Maria, município de Santa Leopoldina, Estado do Espírito Santo, de que trata o Decreto nº 40.143, de 16 de outubro de 1956.
 
-<strong>Art</strong>. 1º É declarada de utilidade pública a faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a usina hidrelétrica da cachoeira de Rio Bonito, no rio Santa Maria, até Vitória, no município do mesmo nome, Estado do Espírito Santo, correspondente ao aproveitamento progressivo da energia hidráulica de várias cachoeiras existentes no rio Santa Maria, município de Santa Leopoldina, Estado do Espírito Santo, de que trata o Decreto nº 40.143, de 16 de outubro de 1956.
-
-<strong>Art</strong>. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes das plantas aprovadas pelo Ministério da Agricultura, no processo D. AG. 2.395-52, situadas no Estado do Espírito Santo, de propriedade atribuída às pessoas a seguir relacionadas:
+**Art**. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes das plantas aprovadas pelo Ministério da Agricultura, no processo D. AG. 2.395-52, situadas no Estado do Espírito Santo, de propriedade atribuída às pessoas a seguir relacionadas:
 
 Distrito Jetibá - Município Santa Leopoldina
 
@@ -176,48 +174,46 @@ Distrito de Itaguari - Município de Cariacica
 
 77 - Área de 38.880 m² (trinta e oito mil oitocentos e oitenta metros quadrados), de propriedade atribuída a Expedito Cordeiro Garcia - (15.000 m2 loteados).
 
-<strong>Art</strong>. 3º A Espírito Santo Centrais Elétricas S.A fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
+**Art**. 3º A Espírito Santo Centrais Elétricas S.A fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
 
-<strong>Art</strong>. 4º Quando não fôr necessário proceder-se a desapropriação do domínio pleno, fica reconhecida a conveniência da constituição de servidão necessária em favor da Espírito Santo Centrais Elétricas S.A. e para o fim indicado, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas, auxiliares, bem como suas possíveis alterações e reconstruções, sendo-lhe assegurado ainda o acesso à área da servidão, através do prédio serviente, desde que não haja outra via praticável.
+**Art**. 4º Quando não fôr necessário proceder-se a desapropriação do domínio pleno, fica reconhecida a conveniência da constituição de servidão necessária em favor da Espírito Santo Centrais Elétricas S.A. e para o fim indicado, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas, auxiliares, bem como suas possíveis alterações e reconstruções, sendo-lhe assegurado ainda o acesso à área da servidão, através do prédio serviente, desde que não haja outra via praticável.
 
 § 1º Os proprietários das áreas de terras atingidas pelo ônus limitarão o uso e gôzo das mesmas ao que fôr compatível com a existência da servidão abstendo-se, em consequência, de praticar, dentro das mesmas quaisquer atos que embaracem ou lhe causem dano, incluídos entre êles os de erguer construções ou de fazer plantações de elevado porte.
 
 § 2º A Espírito Santo Centrais Elétricas S.A. fica autorizada a promover, no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, podendo utilizar-se, inclusive, do processo de desapropriação, nos têrmos do artigo 40 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 5º Nos têrmos do artigo 15, do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956 já promoção da servidão ou da desapropriação das áreas de terra constantes dêste decreto é declarada de caráter urgente.
+**Art**. 5º Nos têrmos do artigo 15, do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956 já promoção da servidão ou da desapropriação das áreas de terra constantes dêste decreto é declarada de caráter urgente.
 
-<strong>Art</strong>. 6º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 7 de novembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti
 
-###DEC-042566-0-000-07-11-1957@@@RET01+++
+**DECRETO Nº 42.566, DE 7 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.566, DE 7 DE NOVEMBRO DE 1957.</strong>
+***Declara de utilidade pública uma faixa de terra destinada à passagem de linha de transmissão que se estenderá desde a usina de aproveitamento hidrelétrico da cachoeira de Rio Bonito, no rio Santa Maria, até Vitória, município de mesmo nome, no Estado do Espírito Santo.***
 
-<em><strong>Declara de utilidade pública uma faixa de terra destinada à passagem de linha de transmissão que se estenderá desde a usina de aproveitamento hidrelétrico da cachoeira de Rio Bonito, no rio Santa Maria, até Vitória, município de mesmo nome, no Estado do Espírito Santo.</strong></em>
+(Publicado no *Diário Oficial* - Seção I - de 12 de novembro de 1957)
 
-(Publicado no <em>Diário Oficial</em> - Seção I - de 12 de novembro de 1957)
+**RETIFICAÇÃO**
 
-<strong>RETIFICAÇÃO</strong>
-
-<u><strong>ONDE</strong></u> <u><strong>SE LÊ</strong></u>:
+**ONDESE LÊ**:
 
 7 - Área de 89.107 m² ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u>:
+**LEIA\-SE**:
 
 7 - Área de 89.100 m²...
 
-<u><strong>ONDE</strong></u> <u><strong>SE LÊ</strong></u>:
+**ONDESE LÊ**:
 
 9 ... à Congregação Batista (João Franco).
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u>:
+**LEIA\-SE**:
 
 9... à congregação Batistas (João Franck).

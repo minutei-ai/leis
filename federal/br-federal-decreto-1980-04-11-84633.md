@@ -1,5 +1,3 @@
-###DEC-084633-0-000-11-04-1980@@@
-
 Decreto nº 84.633, de 11 de abril de 1980.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF, área de terras situada no Município de Gentio do Ouro, Estado da Bahia, destinada à implantação de uma barragem de regularização de sua bacia hidráulica.

@@ -1,5 +1,3 @@
-###DEC-005676-0-000-13-01-2006@@@
-
 DECRETO Nº 5.676, DE 13 DE JANEIRO DE 2006.
 
         O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso IV, da Constituição, e de acordo com o § 1o do art. 61 da Lei no 6.880, de 9 de dezembro de 1980,

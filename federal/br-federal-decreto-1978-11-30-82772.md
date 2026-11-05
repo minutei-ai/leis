@@ -1,5 +1,3 @@
-###DEC-082772-0-000-30-11-1978@@@
-
 Decreto nº 82.772, de 30 de novembro de 1978.
 
 Suspenda a execução de disposições do Código de Organização e Divisão Judiciárias do Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-050364-0-000-20-03-1961@@@
-
 decreto nº 50.364, de 20 de março de 1961.
 
 Cria a Assessoria Técnica da Presidência da República.

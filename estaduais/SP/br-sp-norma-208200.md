@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208200)<br>
-
 # DECRETO N° 67.754, DE 20 DE JUNHO DE 2023
 
 ### _Acrescenta dispositivos ao Estatuto da Fundação Universidade Virtual do Estado de São Paulo – UNIVESP, aprovado pelo Decreto n° 58.438, de 9 de outubro de 2012._

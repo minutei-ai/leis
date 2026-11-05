@@ -1,5 +1,3 @@
-###DEC-080120-0-000-10-08-1977@@@
-
 DECRETO Nº 80.120, DE 10 de AGOSTO DE 1977.
 
 Concede à Mineração Vale do Jacurici S.A. o direito de lavrar cromita, no Município de Cansanção, Estado da Bahia.

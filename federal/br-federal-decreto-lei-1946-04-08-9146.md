@@ -1,5 +1,3 @@
-###DEL-009146-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.146 – DE 8 DE ABRIL DE 1946
 
 Derroga os Decretos-leis ns. 6.694, de 14 de Julho de 1944, e 8. 450, de 26 de Dezembro de 1945, e dá outras providências.

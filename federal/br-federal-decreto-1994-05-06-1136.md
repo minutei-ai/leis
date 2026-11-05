@@ -1,7 +1,3 @@
-1
-
-###DEC-001136-0-000-06-05-1994@@@
-
 DECRETO N° 1.136, DE 6 DE MAIO DE 1994
 
 Estabelece a Cidade de Hanói como sede da Embaixada do Brasil junto à República Socialista do Vietnam.

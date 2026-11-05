@@ -1,5 +1,3 @@
-###DEC-056923-0-000-01-10-1965@@@
-
 DECRETO Nº 56.923, DE 1º DE OUTUBRO DE 1965.
 
 Aprova as novas razões percentuais para efeito de cálculo da parte variável da remuneração dos Agentes Fiscais de Rendas Internas.

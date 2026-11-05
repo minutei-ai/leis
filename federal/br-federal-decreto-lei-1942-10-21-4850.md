@@ -1,5 +1,3 @@
-###DEL-004850-0-000-21-10-1942@@@
-
 DECRETO-LEI N. 4.850 – DE 21 DE OUTUBRO DE 1942
 
 Altera a competência da Auditoria da 8ª Região Militar; cria a Auditoria da 6ª Região Militar e dá outras providências

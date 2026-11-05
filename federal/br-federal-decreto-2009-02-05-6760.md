@@ -1,5 +1,3 @@
-###DEC-006760-0-000-05-02-2009@@@
-
 DECRETO Nº 6.760, DE 5 DE FEVEREIRO DE 2009.
 
 Altera e acresce dispositivos ao Decreto no 4.962, de 22 de janeiro de 2004, que cria o Garantia-Safra e dispõe sobre o Comitê Gestor do Garantia-Safra

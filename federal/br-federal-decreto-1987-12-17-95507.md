@@ -1,5 +1,3 @@
-###DEC-095507-0-000-17-12-1987@@@
-
 DECRETO Nº 95.507, DE 17 DE DEZEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na cidade de Duque de Caxias, Estado do Rio de Janeiro, destinado ao Tribunal Regional do Trabalho da Primeira Região.

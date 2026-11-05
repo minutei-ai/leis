@@ -1,5 +1,3 @@
-###DEC-072679-0-000-22-08-1973@@@
-
 DECRETO Nº 72.679, DE 22 De AGOSTO DE 1973.
 
 Concede à Indústria e Comércio de Mármores Brasileiros, MARBRAS Ltda. o direto de lavrar minérios de ferro e de manganês, nos Municípios de Ladário e Corumbá, Estado do Mato Grosso.

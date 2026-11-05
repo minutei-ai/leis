@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208345)<br>
-
 # DECRETO N° 67.836, DE 27 DE JULHO DE 2023
 
 ### _Dispõe sobre a outorga da "Medalha Ruth Cardoso"._

@@ -1,5 +1,3 @@
-###DEC-049726-0-000-31-12-1960@@@
-
 decreto nº 49.726, de 31 de dezembro de 1960.
 
 Concede à Emprêsa de Navegação Aliança Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem sob a nova forma Social de Emprêsa de Navegação Aliança S.A.

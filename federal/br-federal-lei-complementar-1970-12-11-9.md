@@ -1,7 +1,3 @@
-1
-
-###LCP-000009-0-000-11-12-1970@@@
-
 # LEI COMPleMENTAR Nº 9, DE 11 DE DEZEmBRO DE 1970
 
 Dá nova redação ao art. 10 do Ato Complementar nº 43, de 29 de janeiro de 1969, e dá outras providências.

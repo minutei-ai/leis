@@ -1,5 +1,3 @@
-###DEL-009591-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.591 – DE 16 DE AGÔSTO DE 1946
 
 Altera disposição do Decreto-lei número 6.783, de 3 de Agôsto de 1944, que autorizou a União a liquidar dividas do Estado do Amazonas.

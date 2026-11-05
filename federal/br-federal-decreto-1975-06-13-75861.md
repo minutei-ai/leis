@@ -1,5 +1,3 @@
-###DEC-075861-0-000-13-06-1975@@@
-
 DECRETO Nº 75.861, DE 13 DE JUNHO DE 1975.
 
 Altera o Decreto nº 74.092, de 22 de maio de 1974.

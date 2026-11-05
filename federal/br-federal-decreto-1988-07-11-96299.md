@@ -1,5 +1,3 @@
-###DEC-096299-0-000-11-07-1988@@@
-
 DECRETO N° 96.299, DE 11 DE JULHO DE 1988
 
 Outorga concessão a RÁDIO RIBEIRÃO LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Demerval Lobão, Estado do Piauí.

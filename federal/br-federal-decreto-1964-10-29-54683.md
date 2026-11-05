@@ -1,5 +1,3 @@
-###DEC-054683-0-000-29-10-1964@@@
-
 DECRETO Nº 54.683, DE 29 DE OUTUBRO DE 1964.
 
 Transfere concessão para produção e distribuição de energia elétrica no Município de Guiratinga, Estado Mato Grosso.

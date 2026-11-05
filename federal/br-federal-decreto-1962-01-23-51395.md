@@ -1,5 +1,3 @@
-###DEC-051395-0-000-23-01-1962@@@
-
 DECRETO Nº 51.395, DE 23 DE JANEIRO DE 1962.
 
 Cria um cargo de Tesoureiro-Auxiliar, Classe “M”, no Quadro do Pessoal do Instituto Nacional do Pinho.

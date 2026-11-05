@@ -1,5 +1,3 @@
-###DEC-081629-0-000-05-05-1978@@@
-
 Decreto nº 81.629, de 05 de maio de 1978
 
 Autoriza a contratação de empréstimo em moeda estrangeira, para o fim que menciona, e dá outras providências.

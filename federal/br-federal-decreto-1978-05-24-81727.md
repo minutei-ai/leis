@@ -1,5 +1,3 @@
-###DEC-081727-0-000-24-05-1978@@@
-
 Decreto nº 81.727, de 24 de maio de 1978.
 
 Concede reconhecimento aos cursos de Serviço Social, Educação Artística, Psicologia, Ciências Sociais, e Estudos Sociais, ministrados pela Universidade Estadual de Londrina, com sede na cidade de Londrina, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-045779-0-000-14-04-1959@@@
-
 Decreto nº 45.779, de 14 de abril de 1959.
 
 Autoriza o cidadão brasileiro Francisco Fernando Tarcia a lavrar água mineral no município de Betim, Estado de Minas Gerais.

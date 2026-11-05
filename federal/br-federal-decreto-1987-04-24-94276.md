@@ -1,5 +1,3 @@
-###DEC-094276-0-000-24-04-1987@@@
-
 DECRETO Nº 94.276, DE 24 DE ABRIL DE 1987.
 
 Autoriza a transferência dos terrenos que menciona, situados no Município de Mafra, Estado de Santa Catarina.

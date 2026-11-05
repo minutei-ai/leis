@@ -1,5 +1,3 @@
-###DEC-054581-0-000-26-10-1964@@@
-
 DECRETO Nº 54.581, DE 26 DE OUTUBRO DE 1964.
 
 Transforma o Consultado Privativo do Brasil em Paramaribo (Surinam) em Consulado de Carreira.

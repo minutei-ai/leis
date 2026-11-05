@@ -1,5 +1,3 @@
-###DEL-005258-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.258 – DE 18 DE FEVEREIRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.000.00 para pagamento de contribuição devida à Contadoria Geral de Transportes

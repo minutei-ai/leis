@@ -1,5 +1,3 @@
-###DEC-005985-0-000-13-12-2006@@@
-
 DECRETO Nº 5.985 DE 13 DE DEZEMBRO DE 2006.
 
 Promulga a Decisão no 24/05, do Conselho do Mercado Comum do Mercosul, que aprova o Regulamento do Fundo para a Convergência Estrutural e Fortalecimento Institucional do Mercosul - FOCEM, adotado em Montevidéu, em 8 de dezembro de 2005.
@@ -22,11 +20,7 @@ Brasília, 13 de dezembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 14.12.2006
-
-MERCOSUL/CMC/DEC No 24/05
+         Celso Luiz Nunes AmorimMERCOSUL/CMC/DEC No 24/05
 
 REGULAMENTO DO FUNDO PARA A
 

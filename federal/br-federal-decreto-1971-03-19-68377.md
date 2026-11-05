@@ -1,5 +1,3 @@
-###DEC-068377-0-000-19-03-1971@@@
-
 DECRETO Nº 68.377, DE 19 DE MARÇO DE 1971.
 
 Da nova redação aos Estatutos da Fundação Nacional do Índio.

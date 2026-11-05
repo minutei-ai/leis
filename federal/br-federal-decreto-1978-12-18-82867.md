@@ -1,5 +1,3 @@
-###DEC-082867-0-000-18-12-1978@@@
-
 Decreto nº 82 867, de 18 de dezembro de 1978
 
 Retifica a concessão de lavra outorgada à GOLAGE - Extração de Lages Ltda. pelo Decreto nº 81 947, de 11 de julho de 1978.

@@ -1,5 +1,3 @@
-###DEC-057600-0-000-07-01-1966@@@
-
 DECRETO Nº 57.600, DE 7 DE JANEIRO de 1966.
 
 Aprova o enquadramento dos professôres fundadores das Universidades de Alagoas e do Rio Grande do Norte em cargos de Professor de Ensino Superior, do Quadro de Pessoal - Parte Suplementar do Ministério da Educação e Cultura e dá outras Previdências.

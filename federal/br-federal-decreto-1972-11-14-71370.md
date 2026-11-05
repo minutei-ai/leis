@@ -1,5 +1,3 @@
-###DEC-071370-0-000-14-11-1972@@@
-
 DECRETO Nº 71.370, DE 14 DE NOVEMBRO DE 1972.
 
 Autoriza a transferência do Colégio Agrícola do Amazonas, da sede atual, na localidade de Paredão, Município de Manaus, para a localidade de Aleixo, no mesmo Município, Estado do Amazonas.

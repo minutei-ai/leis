@@ -1,5 +1,3 @@
-###DEC-048107-0-000-13-04-1960@@@
-
 DECRETO Nº 48.107, DE 13 DE ABRIL DE 1960.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a aplicar recursos no Plano de Eletrificação do Estado do Rio Grande do Sul, à conta do Sul, á conta do Fundo Federal de Eletrificação.

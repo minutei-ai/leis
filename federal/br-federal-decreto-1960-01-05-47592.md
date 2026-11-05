@@ -1,5 +1,3 @@
-###DEC-047592-0-000-05-01-1960@@@
-
 DECRETO Nº 47.592, DE 5 DE JANEIRO DE 1960.
 
 Altera o parágrafo único do art. 2º e o art. 3º do Decreto nº 41.894, de 25 de julho de 1957.

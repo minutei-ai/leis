@@ -1,5 +1,3 @@
-###DEC-068416-0-000-24-03-1971@@@
-
 DECRETO Nº 68.416, DE 24 DE MARÇO DE 1971.
 
 Altera o Regimento do Gabinete Militar da Presidência da República.

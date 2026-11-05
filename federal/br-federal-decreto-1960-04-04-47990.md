@@ -1,5 +1,3 @@
-###DEC-047990-0-000-04-04-1960@@@
-
 Decreto nº 47.990, de 4 de abril de 1960.
 
 Abre pelo Ministério da Fazenda, o crédito especial de Cr$3.000.000,00 para auxiliar a reconstrução da Igreja do Sagrado Coração de Jesus, na cidade de Fortaleza, capital do Estado do Ceará.

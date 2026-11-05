@@ -1,5 +1,3 @@
-###DEC-078250-0-000-16-08-1976@@@
-
 DECRETO Nº 78.250, DE 16 DE AGOSTO DE 1976.
 
 Amplia a área prioritária, para fins de Reforma Agrária, assim declarada pelo Decreto nº 77.073, de 22 de agosto de 1976, e prorroga o prazo de intervenção governamental na área ora ampliada.

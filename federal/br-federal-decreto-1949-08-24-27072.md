@@ -1,28 +1,26 @@
-###DEC-027072-0-000-24-08-1949@@@
+**DECRETO Nº 27.072, DE 24 DE AGÔSTO DE 1949.**
 
-<strong>DECRETO Nº 27.072, DE 24 DE AGÔSTO DE 1949.</strong>
+***Restringe a zona de fornecimento da Prefeitura Municipal de Arcos, outorga concessão à Prefeitura Municipal de Iguatama para o aproveitamento de um desnível no rio São Domingos, situado no município de Arcos, ambas no Estado de Minas Gerais e dá outras providências.***
 
-<em><strong>Restringe a zona de fornecimento da Prefeitura Municipal de Arcos, outorga concessão à Prefeitura Municipal de Iguatama para o aproveitamento de um desnível no rio São Domingos, situado no município de Arcos, ambas no Estado de Minas Gerais e dá outras providências.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto na letra <em>b</em>, do artigo 3º do Decreto-lei nº 5.764, de 19 de agôsto de 1943, e o artigo 150 do Decreto número 24.643, de 10 de julho de 1934 (Código de Águas);
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto na letra *b*, do artigo 3º do Decreto-lei nº 5.764, de 19 de agôsto de 1943, e o artigo 150 do Decreto número 24.643, de 10 de julho de 1934 (Código de Águas);
 
 CONSIDERANDO que a Prefeitura Municipal de Iguatama requereu concessão para o aproveitamento de uma fonte de energia hidráulica, tendo em vista que a Prefeitura Municipal de Arcos, a cuja zona de fornecimento de energia elétrica ela pertence, não está em condições de dar um serviço que atenda aos interêsses públicos do município;
 
 CONSIDERANDO que o Conselho Nacional de Águas e Energia Elétrica julgou conveniente deferir as medidas solicitadas pela Prefeitura Municipal de Iguatama,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica excluído da zona de fornecimento de energia elétrica da Prefeitura Municipal de Arcos o município de Iguatama, situado no Estado de Minas Gerais.
+**Art**. 1º Fica excluído da zona de fornecimento de energia elétrica da Prefeitura Municipal de Arcos o município de Iguatama, situado no Estado de Minas Gerais.
 
 Parágrafo único. A fim de garantir a continuidade de serviço, a Prefeitura Municipal de Arcos continuará a fazer o fornecimento que vem prestando àquele município, até que entre em serviço a usina da Prefeitura Municipal de Iguatama, cuja concessão é objeto do artigo seguinte.
 
-<strong>Art</strong>. 2º É outorgada à Prefeitura Municipal de Iguatama, Estado de Minas Gerais, concessão para o aproveitamento de energia hidráulica de um desnível existente no rio São Domingos, município de Arcos, a jusante da usina da Prefeitura Municipal desta última cidade.
+**Art**. 2º É outorgada à Prefeitura Municipal de Iguatama, Estado de Minas Gerais, concessão para o aproveitamento de energia hidráulica de um desnível existente no rio São Domingos, município de Arcos, a jusante da usina da Prefeitura Municipal desta última cidade.
 
 § 1º Em portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinados a altura de queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para o serviço público, de utilidade pública e para o comércio de energia do município de Iguatama.
 
-<strong>Art</strong>. 3º Caducará o presente título, independentemente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
+**Art**. 3º Caducará o presente título, independentemente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
 
 I – Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro do prazo de trinta (30) dias, contado da data de sua publicação;
 
@@ -68,36 +66,36 @@ VI – Iniciar e concluir as obras nos prazos que forem determinados pelo Minist
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 6º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 7º A concessionária é assegurada na vigência da presente concessão e respeitados os direitos de outrem anteriormente adquiridos, a autorização de fazer o comércio de energia elétrica na zona discriminada no § 2º do artigo 2º do presente decreto.
+**Art**. 7º A concessionária é assegurada na vigência da presente concessão e respeitados os direitos de outrem anteriormente adquiridos, a autorização de fazer o comércio de energia elétrica na zona discriminada no § 2º do artigo 2º do presente decreto.
 
-<strong>Art</strong>. 8º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 8º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 9º As atuais tabelas de preço de energia serão mantidas integralmente, até que sejam fixadas pela Divisão de Águas as que deverão vigorar no primeiro período de tarifas de acôrdo com o disposto no artigo 180 do Código de Águas.
+**Art**. 9º As atuais tabelas de preço de energia serão mantidas integralmente, até que sejam fixadas pela Divisão de Águas as que deverão vigorar no primeiro período de tarifas de acôrdo com o disposto no artigo 180 do Código de Águas.
 
-<strong>Art</strong>. 10. Para a manutenção da integridade do capital a que se refere o artigo 8º do presente decreto, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 10. Para a manutenção da integridade do capital a que se refere o artigo 8º do presente decreto, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 11. Findo o prazo da concessão, toda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do artigo 10 dêste Decreto.
+**Art**. 11. Findo o prazo da concessão, toda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do artigo 10 dêste Decreto.
 
 § 1º Se o Estado de Minas Gerais não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Minas Gerais e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 12. A concessionária gozará desde a data de registro de que trata o artigo 5º e enquanto vigorar está concessão, dos favores constantes do Código de Águas e das leis especiais sobre a matéria.
+**Art**. 12. A concessionária gozará desde a data de registro de que trata o artigo 5º e enquanto vigorar está concessão, dos favores constantes do Código de Águas e das leis especiais sobre a matéria.
 
-<strong>Art</strong>. 13. O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 13. O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 14. Revogam-se as disposições em contrário.
+**Art**. 14. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 24 de agôsto de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

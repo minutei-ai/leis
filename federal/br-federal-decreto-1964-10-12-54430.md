@@ -1,5 +1,3 @@
-###DEC-054430-0-000-12-10-1964@@@
-
 DECRETO Nº 54.430, DE 12 DE OUTUBRO DE 1964.
 
 Autoriza a Mineração Urandi S.A. a lavrar minério de manganês no município de Urandi, Estado da Bahia.

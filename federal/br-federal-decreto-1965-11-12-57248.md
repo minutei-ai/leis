@@ -1,5 +1,3 @@
-###DEC-057248-0-000-12-11-1965@@@
-
 decreto nº 57.248, de 12 de novembro de 1965.
 
 Abre, à Superintendência do Plano de Valorização Econômica da Região Fronteira Sudoeste do País, o crédito extraordinário de Cr$300.000.000, para os fins que menciona.

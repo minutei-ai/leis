@@ -1,5 +1,3 @@
-###DEC-055906-0-000-09-04-1965@@@
-
 decreto nº 55.906, de 9 de abril de 1965.
 
 Cria o Consulado honorário do Brasil em Concepción, Chile.

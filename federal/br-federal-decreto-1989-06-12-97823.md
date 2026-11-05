@@ -1,7 +1,3 @@
-1
-
-###DEC-097823-0-000-12-06-1989@@@
-
 DECRETO N° 97.823, DE 12 DE JUNHO DE 1989
 
 Autoriza o funcionamento dos cursos de Agronomia e de Engenharia Florestal do Instituto de Ensino Superior de Garça.

@@ -1,5 +1,3 @@
-###DEC-096791-0-000-27-09-1988@@@
-
 DECRETO N° 96.791, DE 27 DE SETEMBRO DE 1988
 
 Outorga a concessão a RÁDIO MARACU LTDA., para explorar serviço de radiodifusão sonora em onda media, na Cidade de Viana Estado do Maranhão.

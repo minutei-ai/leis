@@ -36,7 +36,8 @@ Parágrafo único - O Poder Executivo poderá estabelecer critérios diversos pa
 
 Art. 6º - O Poder Executivo poderá excluir dos cálculos de compra a que se refere esta Lei, as mercadorias que julgar conveniente.
 
-Redação do art. 6º de acordo com o [art. 5º da Lei nº 6.447, de 22 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lei-no-6447-de-22-de-dezembro-de-1992#LO_6_447_Art__5) .<br>
+Redação do art. 6º de acordo com o [art. 5º da Lei nº 6.447, de 22 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lei-no-6447-de-22-de-dezembro-de-1992#LO_6_447_Art__5) .
+
 Redação original: "Art. 6º - Nos cálculos a que se refere esta lei, não serão computadas as compras das mercadorias indicadas nos incisos II, III, IV e V do art. 13, da Lei nº 4.825, de 27 de janeiro de 1989."
 
 Art. 7º - O prazo máximo do financiamento será de 12 (doze) meses, incluídos 06 (seis) meses de carência.

@@ -1,5 +1,3 @@
-###DEC-003902-0-000-30-08-2001@@@
-
 DECRETO Nº 3.902, DE 30 DE AGOSTO DE 2001
 
  Regulamenta o inciso VIII do art. 7º do Decreto-Lei nº 2.320, de 26 de janeiro de 1987, que dispõe sobre o ingresso nas categorias funcionais da Carreira Polícial Federal e dá outras providências.

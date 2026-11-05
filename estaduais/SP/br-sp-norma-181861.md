@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=181861)
-
 # DECRETO Nº 62.598, DE 29 DE MAIO DE 2017
 
 ### _Organiza a Secretaria de Planejamento e Gestão e dá providências correlatas_
@@ -1876,12 +1874,20 @@ Palácio dos Bandeirantes, 29 de maio de 2017
 
 GERALDO ALCKMIN
 
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 29 de maio de 2017.

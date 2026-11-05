@@ -1,5 +1,3 @@
-###DEC-089415-0-000-01-03-1984@@@
-
 Decreto nº 89.415, de 01 de março de 1984
 
 Aumenta o Capital da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF e dá outras providências.

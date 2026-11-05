@@ -1,7 +1,3 @@
-1
-
-###DEC-095624-0-000-13-01-1988@@@
-
 DECRETO N° 95.624, DE 13 DE JANEIRO DE 1988
 
 Concede à COMPANHIA FERRO E AÇO DE VITÓRIA  COFAVI autorização para proceder a aumento de seu capital social.

@@ -1,5 +1,3 @@
-###DEC-054833-0-000-03-11-1964@@@
-
 DECRETO Nº 54.833, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza a cidadã brasileira Adelaide de Oliveira Ribas a pesquisar minério de ferro, no município de Xingu, Estado do Pará.
@@ -21,8 +19,6 @@ Brasília, 3 de novembro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-054833-0-000-03-11-1964@@@RET01+++
 
 Decreto nº 54.833 de 3 de novembro de 1964
 

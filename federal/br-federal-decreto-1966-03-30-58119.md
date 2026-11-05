@@ -1,5 +1,3 @@
-###DEC-058119-0-000-30-03-1966@@@
-
 decreto nº 58.119, de 30 de março de 1966.
 
 Declara de utilidade pública faixa de terra destinada a passagem de linha de transmissão, e dá outras providências.

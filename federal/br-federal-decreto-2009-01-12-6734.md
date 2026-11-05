@@ -1,5 +1,3 @@
-###DEC-006734-0-000-12-01-2009@@@
-
 DECRETO Nº 6.734, DE 12 DE JANEIRO DE 2009.
 
 Promulga o Acordo, por troca de Notas, sobre Supressão de Vistos, entre o Governo da República Federativa do Brasil e o Governo da República Federal da Lituânia firmado em Brasília, em 4 de novembro de 2002.
@@ -24,11 +22,7 @@ Brasília, 12 de janeiro de 2009; 188º da Independência e 121º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 13.1.2009 
-
-No. 10-02-04-15971
+         Samuel Pinheiro Guimarães NetoNo. 10-02-04-15971
 
 NOTA VERBAL
 

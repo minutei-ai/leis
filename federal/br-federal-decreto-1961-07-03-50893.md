@@ -1,5 +1,3 @@
-###DEC-050893-0-000-03-07-1961@@@
-
 DECRETO Nº 50.893, De 3 de Julho de 1961.
 
 Concede à sociedade anônima Northern Camps Limited autorização para continuar a funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-091267-0-000-28-05-1985@@@
-
 Decreto nº 91.267, de 28 de maio de 1985
 
 Declara de utilidade pública a Associação dos Amigos do Teatro Municipal do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-060487-0-000-14-03-1967@@@
-
 DECRETO Nº 60.487, DE 14 DE MARÇO DE 1967.
 
 Dispõe sôbre a concessão de estímulos à Indústria de Produtos Alimentares e dá outras providências.

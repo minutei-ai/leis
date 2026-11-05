@@ -1,5 +1,3 @@
-###MPV-001812-0-010-25-03-1999@@@
-
 medida PROVISóRIA Nº 1.812-10, DE 25 DE MARÇO DE 1999
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

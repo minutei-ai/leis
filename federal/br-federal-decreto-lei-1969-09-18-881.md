@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/62b84694-cfdf-44b2-b818-cb6fe57f00fa/texto#nowhere)
 
-###DEL-000881-0-000-18-09-1969@@@
-
 DECRETO-LEI Nº 881,DE 18 DE SETEMBRO DE 1969
 
 Transfere cargo do Ministério do Exército para o Estado-Maior das Fôrças Armadas.

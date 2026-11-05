@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/87c6c2ac-37c5-4adb-ae3f-cb97b1918d86/texto#nowhere)
 
-###DEL-001271-0-000-04-05-1973@@@
-
 # DEcRETO-LEI Nº 1.271, DE 4 DE maio DE 1973
 
 Autoriza o Poder Executivo a abrir crédito especial no valor de. Cr$991.800.000,00, para transferência da cota-parte, da Taxa Rodoviária Única pertencente aos Estados, Territórios e Distrito Federal.

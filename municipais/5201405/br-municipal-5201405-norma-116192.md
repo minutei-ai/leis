@@ -26,5 +26,6 @@ Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogando-se di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 31 de Março de 2020.
 
-VETER MARTINS<br>
+VETER MARTINS
+
 Prefeito Municipal em Exercício

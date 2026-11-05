@@ -1,5 +1,3 @@
-###MPV-001946-0-037-02-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.946-37, de 2 de março de 2000.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1997 a 30 de abril de 1998.

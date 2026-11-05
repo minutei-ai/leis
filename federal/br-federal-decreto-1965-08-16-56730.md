@@ -1,14 +1,12 @@
-###DEC-056730-0-000-16-08-1965@@@
+**DECRETO Nº 56.730, DE 16 DE AGÔSTO DE 1965.**
 
-<strong>DECRETO Nº 56.730, DE 16 DE AGÔSTO DE 1965.</strong>
+***Altera o Decreto nº 54.061, de 28 de julho de 1964, que regulamenta o Regime de Tempo Integral e dedicação exclusiva.***
 
-<em><strong>Altera o Decreto nº 54.061, de 28 de julho de 1964, que regulamenta o Regime de Tempo Integral e dedicação exclusiva.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o que consta da Exposição de Motivos nº 194, de 1º de abril de 1965, do Departamento Administrativo do Serviço Público,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o que consta da Exposição de Motivos nº 194, de 1º de abril de 1965, do Departamento Administrativo do Serviço Público,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 3º e seu parágrafo único, 5º e seu parágrafo único, 8º, 10 e 13, do Decreto nº 54.061, de 28 de julho de 1964, passam a vigorar com a seguinte redação:
+**Art**. 1º Os artigos 3º e seu parágrafo único, 5º e seu parágrafo único, 8º, 10 e 13, do Decreto nº 54.061, de 28 de julho de 1964, passam a vigorar com a seguinte redação:
 
 “Art. 3º O regime de tempo integral e dedicação exclusiva poderá ser aplicado aos ocupantes dos cargos abaixo relacionados, de acôrdo com as respectivas atividades:
 
@@ -144,7 +142,7 @@ c) as declarações expressas, na hipótese do artigo anterior, dos funcionário
 
 “§ 1º A proposta será examinada pelos setores competentes do Ministério, do órgão diretamente subordinado ao Presidente da República ou de autarquia, notadamente e de pessoal, e submetida pelo respectivo Ministro ou dirigente à decisão do Presidente da República.
 
-“§ 2º Aprovada a proposta, total ou parcialmente, a aplicação do regime será determinada mediante portaria ministerial ou do dirigente do órgão autônomo ou autárquico, publicada no <em>Diário Oficial</em> e da qual constará obrigatòriamente:
+“§ 2º Aprovada a proposta, total ou parcialmente, a aplicação do regime será determinada mediante portaria ministerial ou do dirigente do órgão autônomo ou autárquico, publicada no *Diário Oficial* e da qual constará obrigatòriamente:
 
 I - O resumo da atividade a ser desempenhada;
 
@@ -152,9 +150,9 @@ II - Os nomes e cargos dos funcionários; e
 
 III - Os valores das respectivas gratificações mensais.
 
-“§ 3º O regime de tempo integral e dedicação exclusiva sòmente poderá iniciar-se após o decurso de 10 (dez) dias, contados a partir da publicação da portaria no <em>Diário Oficial”.</em>
+“§ 3º O regime de tempo integral e dedicação exclusiva sòmente poderá iniciar-se após o decurso de 10 (dez) dias, contados a partir da publicação da portaria no *Diário Oficial”.*
 
-<strong>Art</strong>. 2º Haverá, por exercício financeiro, para cada Ministério, órgão diretamente subordinado ao Presidente da República e Autarquias, uma tabela de pessoal em regime de tempo integral e dedicação exclusiva.
+**Art**. 2º Haverá, por exercício financeiro, para cada Ministério, órgão diretamente subordinado ao Presidente da República e Autarquias, uma tabela de pessoal em regime de tempo integral e dedicação exclusiva.
 
 § 1º Constarão, obrigatoriamente, da tabela a que se refere êste artigo os seguintes elementos:
 
@@ -166,13 +164,13 @@ b) despesas mensal e anual, em regulação a cada série de classes ou classes s
 
 § 3º As tabelas serão submetidas à aprovação do Presidente da República, por intermédio do Departamento Administrativo do Serviço Público, ao qual serão encaminhadas pelo respectivo Ministro, em relação aos Ministérios e às autarquias a êles vinculadas, e pelos respectivos dirigentes, diretamente subordinados ao Presidente da República.
 
-§ 4º A colocação de equipes de funcionários em regime de tempo integral e dedicação exclusiva não poderá preceder à publicação no <em>Diário Oficial</em> das tabelas de que trata êste artigo.
+§ 4º A colocação de equipes de funcionários em regime de tempo integral e dedicação exclusiva não poderá preceder à publicação no *Diário Oficial* das tabelas de que trata êste artigo.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 16 de agôsto de 1965; 144º da Independência e 77º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Milton Soares Campos
 

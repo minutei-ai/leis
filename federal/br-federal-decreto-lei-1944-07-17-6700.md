@@ -1,5 +1,3 @@
-###DEL-006700-0-000-17-07-1944@@@
-
 DECRETO-LEI N. 6.700 – DE 17 DE JULHO DE 1944
 
 Revoga o Decreto-lei n. 4.717, de 21 de setembro de 1942, e dá outras providências

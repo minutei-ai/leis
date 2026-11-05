@@ -1,5 +1,3 @@
-###DEC-089566-0-000-18-04-1984@@@
-
 Decreto nº 89.566, de 18 de abril de 1984.
 
 Dispõe sobre o estabelecimento de Medidas de Emergência na área do Distrito Federal e nos municípios, que indica, do Estado de Goiás e dá outras providências.

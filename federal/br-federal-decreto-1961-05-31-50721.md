@@ -1,5 +1,3 @@
-###DEC-050721-0-000-31-05-1961@@@
-
 DECRETO Nº 50.721, DE 31 DE MAIO DE 1961.
 
 Transfere, do Estado de Minas Gerais para Centrais Elétricas de Minas Gerais S.A., a concessão par produção e fornecimento de energia elétrica no município de Uberaba e na localidade de Barreiro do Araxá.

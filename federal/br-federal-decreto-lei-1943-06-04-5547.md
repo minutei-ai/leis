@@ -1,5 +1,3 @@
-###DEL-005547-0-000-04-06-1943@@@
-
 DECRETO‑LEI N. 5.547 – DE 4 DE JUNHO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 3.107,10, para pagamento de vencimentos

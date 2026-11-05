@@ -1,7 +1,3 @@
-1
-
-###DEC-098329-0-000-24-10-1989@@@
-
 DECRETO Nº 98.329, DE 24 DE OUTUBRO DE 1989
 
 Outorga concessão a RÁDIO ARAPOTI LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Arapoti, Estado do Paraná.

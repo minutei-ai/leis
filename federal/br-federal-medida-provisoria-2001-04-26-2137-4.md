@@ -1,5 +1,3 @@
-###MPV-002137-0-004-26-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.137- 4, DE 26 DE ABRIL DE 2001
 
 Acresce e altera dispositivos da Lei nº 8.974, de 5 de janeiro de 1995, e dá outras providências.

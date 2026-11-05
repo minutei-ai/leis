@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185541)
-
 # DECRETO Nº 63.276, DE 15 DE MARÇO DE 2018
 
 ### _Regulamenta o artigo 29 da Lei Complementar nº 1.257, de 6 de janeiro de 2015, que autoriza a instituição do Fundo Estadual de Segurança contra Incêndios e Emergências - FESIE, e dá providências correlatas_
@@ -124,14 +122,24 @@ Palácio dos Bandeirantes, 15 de março de 2018
 
 GERALDO ALCKMIN
 
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 15 de março de 2018.

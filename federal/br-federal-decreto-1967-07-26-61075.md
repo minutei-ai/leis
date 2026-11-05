@@ -1,5 +1,3 @@
-###DEC-061075-0-000-26-07-1967@@@
-
 DECRETO Nº 61.075, de 26 de julho de 1967.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica no município de Itapagé, Estado do Ceará.

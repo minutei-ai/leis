@@ -1,5 +1,3 @@
-###DEC-072384-0-000-22-06-1973@@@
-
 DECRETO Nº 72.384, DE 22 DE JUNHO DE 1973.
 
 Concede permissão, em caráter permanente, à Companhia Nitro Química Brasileira, com sede em São Paulo, para funcionar, no seu estabelecimento fabril, situado no Município de São Miguel Paulista, no referido Estado, aos domingos e nos dias feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEC-007586-0-000-17-10-2011-PUB-01@@@
-
 DECRETO Nº 7.586, DE 17 DE OUTUBRO DE 2011
 
 Promulga o Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo da República de Botsuana, firmado em Gaborone, em 11 de junho de 2009.

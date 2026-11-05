@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209227)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2024/compilacao-lei-17877-21.03.2024.html)
 
 # LEI N° 17.877, DE 21 DE MARÇO DE 2024

@@ -1,7 +1,3 @@
-1
-
-###DEC-000772-0-000-16-03-1993@@@
-
 DECRETO N° 772, DE 16 DE MARÇO DE 1993
 
 Institui a Ordem Nacional do Mérito Científico.

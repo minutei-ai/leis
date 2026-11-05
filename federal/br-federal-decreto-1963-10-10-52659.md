@@ -1,5 +1,3 @@
-###DEC-052659-0-000-10-10-1963@@@
-
 DECRETO Nº 52.659, DE 10 DE OUTUBRO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação que menciona, no município de Guaraçai, Estado de São Paulo.

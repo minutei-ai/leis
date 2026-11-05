@@ -1,5 +1,3 @@
-###DEC-049967-0-000-20-01-1961@@@
-
 DECRETO Nº 49.967, DE 20 DE JANEIRO DE 1961.
 
 Outorga concessão á Radio América Anônima para instalar uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEL-001107-0-000-18-06-1970@@@
-
 # DECRETO-LEI Nº 1.107, DE 18 DE JUNHO DE 1970
 
 Regula a destinação do Fundo de Assistência ao Desempregado em casos excepcionais.

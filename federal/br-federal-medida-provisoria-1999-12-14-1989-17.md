@@ -1,5 +1,3 @@
-###MPV-001989-0-017-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.989-17, DE 14 DE DEZEMBRO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Refinanciamento da Dívida Pública Mobiliária Federal - Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário no valor de R$68.383.840.000,00, para reforço de dotações consignadas no vigente orçamento.

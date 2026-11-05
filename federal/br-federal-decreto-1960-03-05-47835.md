@@ -1,18 +1,16 @@
-###DEC-047835-0-000-05-03-1960@@@
+**DECRETO Nº 47.835, DE 5 DE MARÇO DE 1960.**
 
-<strong>DECRETO Nº 47.835, DE 5 DE MARÇO DE 1960.</strong>
+***Altera o Regulamento de Bases e Destacamentos de Bases Aéreas.***
 
-<em><strong>Altera o Regulamento de Bases e Destacamentos de Bases Aéreas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
+**DECRETA**
 
-<strong>DECRETA</strong>
-
-<strong>Art</strong>. 1º O Regulamento de Bases e Destacamentos de Bases Aéreas aprovado pelo Decreto nº 40.491, de 4 de dezembro de 1956, modificado pelo Decreto nº 45.274, de 23 de janeiro de 1959, fica assim alterado:
+**Art**. 1º O Regulamento de Bases e Destacamentos de Bases Aéreas aprovado pelo Decreto nº 40.491, de 4 de dezembro de 1956, modificado pelo Decreto nº 45.274, de 23 de janeiro de 1959, fica assim alterado:
 
 I - Os artigos abaixo passam a ter a seguinte redação:
 
-<strong>Art</strong>. 2º Cada Base Aérea subordina-se, através de seu Comandante, ao Comandante do Comando Aéreo a que pertencer ou ao Comandante da Zona Aérea em que estiver localizada.
+**Art**. 2º Cada Base Aérea subordina-se, através de seu Comandante, ao Comandante do Comando Aéreo a que pertencer ou ao Comandante da Zona Aérea em que estiver localizada.
 
 Parágrafo único. A subordinação das Bases Aéreas estabelecida por ato do Ministro da Aeronáutica.
 
@@ -386,9 +384,9 @@ V - O título “3. Serviço de Saúde”, que antecede ao Art. 110, passa a ter
 
 VI - O título “Seção III, Do Serviço de Comunicações e Tráfego Aéreo”, que antecede ao Art. 250, passa a ter a seguinte redação:
 
-<strong>“CAPÍTULO III</strong>
+**“CAPÍTULO III**
 
-<em>Do Esquadrão de Serviços”</em>
+*Do Esquadrão de Serviços”*
 
 VII - Fica incluído o título “Da Esquadrilha de Adestramento”, antecedendo o Art. 279.
 
@@ -400,10 +398,10 @@ VIII - Ficam suprimidos os seguintes títulos:
 
 IX - Fica incluído no Capítulo III, do Título I, da Terceira Parte do Regulamento, o Art. 294, com a redação constante do presente Decreto.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 5 de março de 1960; 139º da Independência e 72º da República.
 
-<strong>JUSCELINO KUBISTCHEK</strong>
+**JUSCELINO KUBISTCHEK**
 
 Francisco de Mello

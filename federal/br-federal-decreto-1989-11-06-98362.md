@@ -1,7 +1,3 @@
-1
-
-###DEC-098362-0-000-06-11-1989@@@
-
 DECRETO Nº 98.362, DE 6 DE NOVEMBRO DE 1989
 
 Revoga o Decreto nº 61.922, de 19 de dezembro de 1967, que aprova o Regulamento para os Serviços de Sinalização Náutica.

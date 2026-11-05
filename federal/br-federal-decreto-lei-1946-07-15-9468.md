@@ -1,5 +1,3 @@
-###DEL-009468-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.468 – De 15 DE JULHO DE 1946
 
 Dá nova redação ao art. 5º do Decreto-lei nº 9.089, de 26 de Março de 1946.

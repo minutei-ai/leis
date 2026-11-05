@@ -1,5 +1,3 @@
-###DEC-048429-0-000-24-06-1960@@@
-
 DECRETO Nº 48.429, DE 24 DE JUNHO DE 1960.
 
 Alterar a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

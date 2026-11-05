@@ -1,14 +1,12 @@
-###LEI-000207-0-000-31-12-1947@@@
+**LEI N. 207 – DE 31 DE DEZEMBRO DE 1947**
 
-<strong>LEI N. 207 – DE 31 DE DEZEMBRO DE 1947</strong>
-
-<em><strong>Autoriza a abertura, pelo Ministério da Fazenda, do crédito suplementar de Cr$ 2.145.735,00 às verbas que especifica.</strong></em>
+***Autoriza a abertura, pelo Ministério da Fazenda, do crédito suplementar de Cr$ 2.145.735,00 às verbas que especifica.***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-<strong>Art.</strong> 1º E’ o Poder Executivo autorizado a abrir, pelo Ministério da Fazenda, o crédito suplementar da dois milhões, cento e quarenta e cinco mil. setecentos e trinta e cinco cruzeiros (Cr$ 2.145.735,00), em refôrço das Verbas 1 – Pessoal e 2 – Material, do Anexo nº 16 do vigente Orçamento Geral da República (Lei nº 3, de 2 de dezembro de 1946), a saber:
+**Art.** 1º E’ o Poder Executivo autorizado a abrir, pelo Ministério da Fazenda, o crédito suplementar da dois milhões, cento e quarenta e cinco mil. setecentos e trinta e cinco cruzeiros (Cr$ 2.145.735,00), em refôrço das Verbas 1 – Pessoal e 2 – Material, do Anexo nº 16 do vigente Orçamento Geral da República (Lei nº 3, de 2 de dezembro de 1946), a saber:
 
                                                                                                         Cr$
 
@@ -32,9 +30,9 @@ S/c. 29 – Pessoal em disponibilidade
 
 04 – Direção Geral da Fazenda Nacional
 
-06 – Serviço do Pessoa!......................................................................................................... <u>187.265,00</u>
+06 – Serviço do Pessoa!......................................................................................................... 187.265,00
 
-                                                                                   <u>725\. 330,00</u>
+                                                                                   725\. 330,00
 
          Cr$
 
@@ -100,18 +98,18 @@ S/c 41 – Passagens, transportes de pessoal e de suas bagagens
 
 22 – Delegacias Fiscais
 
-48 – Mato Grosso....................................................................................................................... <u>2.598,00</u>
+48 – Mato Grosso....................................................................................................................... 2.598,00
 
-                                                                                                           <u>1.420.405,00</u>
+                                                                                                           1.420.405,00
 
-            <u>2.145.735,00</u>
+            2.145.735,00
 
-<strong>Art.</strong> 3º Revogadas as disposições em contrário.
+**Art.** 3º Revogadas as disposições em contrário.
 
-<strong>Art.</strong> 2º Esta Lei entrará em vigor na data de sua publicação.
+**Art.** 2º Esta Lei entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 31 de dezembro de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G DUTRA.</strong>
+**EURICO G DUTRA.**
 
 Corrêa e Castro.

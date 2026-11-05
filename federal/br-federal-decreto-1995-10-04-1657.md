@@ -1,7 +1,3 @@
-1
-
-###DEC-001657-0-000-04-10-1995@@@
-
 DECRETO N° 1.657, DE 4 DE OUTUBRO DE 1995.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

@@ -1,5 +1,3 @@
-###DEC-070205-0-000-24-02-1972@@@
-
 Decreto nº 70.205, de 24 de fevereiro de 1972.
 
 Autoriza o funcionamento da Faculdade de Turismo de Morumbi - São Paulo.

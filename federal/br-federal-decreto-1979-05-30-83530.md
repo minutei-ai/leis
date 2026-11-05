@@ -1,5 +1,3 @@
-###DEC-083530-0-000-30-05-1979@@@
-
 Decreto nº 83.530, de 30 de maio de 1979.
 
 Autoriza aumento de potência diurna da Rádio Bahiana de Jequié Ltda., na cidade de Jequié, Estado da  Bahia.

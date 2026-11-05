@@ -1,5 +1,3 @@
-###DEC-087357-0-000-06-07-1982@@@
-
 Decreto nº 87.357, de 06 de julho de 1982.
 
 Autoriza a Petrobrás Comércio Internacional S.A. - INTERBRÁS a proceder ao aumento do Capital Social de sua controlada INTERBRÁS FRANCE S.A., com sede em Paris - França.

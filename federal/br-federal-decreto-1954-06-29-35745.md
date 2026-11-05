@@ -1,14 +1,12 @@
-###DEC-035745-0-000-29-06-1954@@@
+**DECRETO Nº 35.745, DE 29 DE JUNHO DE 1954**
 
-<strong>DECRETO Nº 35.745, DE 29 DE JUNHO DE 1954</strong>
+***Outorgada concessão à radio Rio Limitada para estabelecer uma estação rádiotelevisão, nesta Capital.***
 
-<em><strong>Outorgada concessão à radio Rio Limitada para estabelecer uma estação rádiotelevisão, nesta Capital.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da constituição, atendendo o que requereu a Rádio Rio Limitada, com sede nesta capital, e tendo em vista o disposto no art. 5º número XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da constituição, atendendo o que requereu a Rádio Rio Limitada, com sede nesta capital, e tendo em vista o disposto no art. 5º número XII, da mesma Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º fica outorgada concessão à Rádio Rio Limitada, nos têrmos art.11, do Decreto nº 24.655 de 11 de julho de 1934, para estabelecer, nesta Capital, sem direito de exclusividade, a título precário, de conformidade com o art. 4º do Decreto número 29.783, de 19 de julho de 1951, uma estação de radiotelevisão.
+**Art**. 1º fica outorgada concessão à Rádio Rio Limitada, nos têrmos art.11, do Decreto nº 24.655 de 11 de julho de 1934, para estabelecer, nesta Capital, sem direito de exclusividade, a título precário, de conformidade com o art. 4º do Decreto número 29.783, de 19 de julho de 1951, uma estação de radiotelevisão.
 
 § 1º. A Rádio Rio Limitada ocupará o canal nº 13, anteriormente atribuída a função Rádio Mauá, vinculada ao ministério do Trabalho, Indústria e Comércio.
 
@@ -16,13 +14,13 @@
 
 § 3º A referência estação de radiotelevisão e suas instalações complementares deverão obedecer às normas constantes no Decreto nº 31.835, de 21 de novembro de 1952.
 
-§ 4º O contrato decorrente da presente concessão reger-se-á pelas clausulas que com êste baixam, rubricadas pelo Ministro de Estado de Viação e Obras Públicas, devendo ser assinada dentro de 60 (sessenta) dias, a contar da data da publicação deste Decreto no <em>Diário</em> <em>Oficial</em>, sob pena de ser, desde logo, considerada nula concessão.
+§ 4º O contrato decorrente da presente concessão reger-se-á pelas clausulas que com êste baixam, rubricadas pelo Ministro de Estado de Viação e Obras Públicas, devendo ser assinada dentro de 60 (sessenta) dias, a contar da data da publicação deste Decreto no *DiárioOficial*, sob pena de ser, desde logo, considerada nula concessão.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 29 de julho de 1954; 133º da independência e 66º da República.
 
-<strong>GETÚLIO VAGAS</strong>
+**GETÚLIO VAGAS**
 
 José Américo
 

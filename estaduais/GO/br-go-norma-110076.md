@@ -8,12 +8,14 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
  Art. 1º Fica criado o Grupo Especial de Consolidação e Encerramento da Gestão – GECEG, para a apresentação de relatórios de resultados e impactos de ações, projetos e políticas públicas implementadas pela gestão do Governo do Estado de Goiás entre 2019 e 2026.
 
-Art. 2º O GECEG será dividido nos dez Eixos Estratégicos inspirados pelo Plano de Governo e relacionados a seguir:<br>
+Art. 2º O GECEG será dividido nos dez Eixos Estratégicos inspirados pelo Plano de Governo e relacionados a seguir:
+
 \- [Redação dada pelo Decreto nº 10.792, de 3-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111363).
 
 ~~Art. 2º O GECEG será dividido nos 8 (oito) Eixos Estratégicos inspirados pelo Plano de Governo e relacionados a seguir:~~ 
 
-I – Educação;<br>
+I – Educação;
+
 \- [Redação dada pelo Decreto nº 10.792, de 3-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111363).
 
 ~~I – Educação, Cultura e Esportes;~~
@@ -32,10 +34,12 @@ VII – Saúde; e
 
 VIII – Desenvolvimento Econômico;
 
-IX – Inovação; e<br>
+IX – Inovação; e
+
 \- [Acrescido pelo Decreto nº 10.792, de 3-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111363).
 
-X – Esporte, Lazer, Cultura e Turismo.<br>
+X – Esporte, Lazer, Cultura e Turismo.
+
 \- [Acrescido pelo Decreto nº 10.792, de 3-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111363).
 
 Art. 3º O GECEG será diretamente coordenado pela Subsecretaria Central de Planejamento, Monitoramento e Avaliação – SCPMA, unidade subordinada à Secretaria de Estado da Economia – ECONOMIA em conjunto com o Gabinete do Secretário-Adjunto e a Subsecretaria de Governança, unidades subordinadas à Secretaria-Geral de Governo – SGG. 

@@ -1,7 +1,3 @@
-1
-
-###DEC-099407-0-000-19-07-1990@@@
-
 DECRETO Nº 99.407, DE 19 DE JULHO DE 1990
 
 Transfere cargo do Grupo Direção e Assessoramento Superiores da Secretaria do Desenvolvimento Regional da Presidência da República para o Ministério da Economia, Fazenda e Planejamento.

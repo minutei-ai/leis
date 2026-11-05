@@ -1,5 +1,3 @@
-###DEL-008570-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.570 – DE 8 DE JANEIRO DE 1946 ( \* )
 
 Da nova redação a dispositivos do Código de Processo Civil

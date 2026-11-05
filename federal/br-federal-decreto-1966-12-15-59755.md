@@ -1,5 +1,3 @@
-###DEC-059755-0-000-15-12-1966@@@
-
 decreto nº 59.755, de 15 de dezembro de 1966.
 
 Declara de utilidade pública o Ginásio São Joaquim, com sede em Lorena, Estado de São Paulo.

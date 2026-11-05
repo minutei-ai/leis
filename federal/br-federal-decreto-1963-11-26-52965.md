@@ -1,5 +1,3 @@
-###DEC-052965-0-000-26-11-1963@@@
-
 DECRETO Nº 52.965, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Porcelana Real S. A. a pesquisar caulim no município de Embú, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049498-0-000-12-12-1960@@@
-
 Decreto nº 49.498, de 12 de dezembro de 1960.
 
 Ratifica os decretos que menciona.

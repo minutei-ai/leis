@@ -1,5 +1,3 @@
-###DEC-078418-0-000-15-09-1976@@@
-
 DECRETO Nº 78.418, DE 15 DE SETEMBRO DE 1976.
 
 Concede à Manganês de Goiás S.A. o direito de lavrar gipsta no Município de Filadélfia, Estado de Goiás.

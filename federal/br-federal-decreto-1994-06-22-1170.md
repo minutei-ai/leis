@@ -1,7 +1,3 @@
-1
-
-###DEC-001170-0-000-22-06-1994@@@
-
 DECRETO N° 1.170, DE 22 DE JUNHO DE 1994
 
 Dispõe sobre a execução, no território nacional, da Resolução n° 917 (1994) do Conselho de Segurança das Nações Unidas.

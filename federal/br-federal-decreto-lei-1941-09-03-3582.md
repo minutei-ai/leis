@@ -1,5 +1,3 @@
-###DEL-003582-0-000-03-09-1941@@@
-
 DECRETO-LEI N. 3.582 – DE 3 DE SETEMBRO DE 1941
 
 Dispõe sobre a rotulagem, dos vinhos e derivados, para venda no território nacional

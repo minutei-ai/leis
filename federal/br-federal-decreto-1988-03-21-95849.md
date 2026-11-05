@@ -1,7 +1,3 @@
-1
-
-###DEC-095849-0-000-21-03-1988@@@
-
 DECRETO N° 95.849, DE 21 DE MARÇO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou constituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.
@@ -16,7 +12,61 @@ Parágrafo único. A área de terra a que se refere este decreto, com 57,37Km2, 
 
 A descrição tem início no vértice 1, de coordenadas UTM X=8.632.500,00 e Y=583.750,00; deste ponto segue-se pelos limites da área com os azimutes verdadeiros e distâncias horizontais abaixo relacionadas:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:101.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; text-decoration:underline">De</span></p></td><td style="width:86.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; text-decoration:underline">Para</span></p></td><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; text-decoration:underline">Az. Verd.</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; text-decoration:underline">Dist. Horiz.</span></p></td></tr><tr><td style="width:101.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:86.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">90°00'</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">6.250,00m</span></p></td></tr><tr><td style="width:101.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:86.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">180°00'</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">7.500,00m</span></p></td></tr><tr><td style="width:101.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:86.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">90°00'</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">11.500,00m</span></p></td></tr><tr><td style="width:101.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:86.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0°00'</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">2.000,00m</span></p></td></tr><tr><td style="width:101.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:86.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">90°00'</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">5.250,00m</span></p></td></tr><tr><td style="width:101.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td><td style="width:86.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0°00'</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">5.500,00m</span></p></td></tr></tbody></table>
+De
+
+Para
+
+Az. Verd.
+
+Dist. Horiz.
+
+1
+
+2
+
+90°00'
+
+6.250,00m
+
+2
+
+3
+
+180°00'
+
+7.500,00m
+
+3
+
+4
+
+90°00'
+
+11.500,00m
+
+4
+
+5
+
+0°00'
+
+2.000,00m
+
+5
+
+6
+
+90°00'
+
+5.250,00m
+
+6
+
+1
+
+0°00'
+
+5.500,00m
 
 Voltando-se ao ponto inicial fecha-se o polígono com área igual a 57.375.000,00m2.
 

@@ -1,5 +1,3 @@
-###DEC-085762-0-000-25-02-1981@@@
-
 Decreto nº 85.762, de 25 de fevereiro de 1981
 
 Altera dispositivo do Decreto nº 83.355, de 20 de abril de 1979, que criou o Conselho Nacional de Desenvolvimento Urbano.

@@ -1,5 +1,3 @@
-###DEL-007758-0-000-19-07-1945@@@
-
 DECRETO-LEI N. 7.758 – DE 19 DE JULHO DE 1945
 
 Dispõe sôbre a Junta Consultiva do Impôsto de Consumo (J.C.I.C.), e dá outras providências

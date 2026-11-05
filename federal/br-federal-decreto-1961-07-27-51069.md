@@ -1,5 +1,3 @@
-###DEC-051069-0-000-27-07-1961@@@
-
 DECRETO Nº 51.069, de 27 DE JULHO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno situado no Município de Parelhas, Estado do Rio Grande do Norte.

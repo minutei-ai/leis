@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213036)<br>
-
 # LEI N° 18.498, DE 14 DE OUTUBRO DE 2026
 
 ### _Autoriza a transferência da propriedade, dos direitos reais e dos direitos possessórios dos bens do Estado administrados pela Estrada de Ferro Campos do Jordão - EFCJ à Companhia Paulista de Trens Metropolitanos - CPTM, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 1° -** Fica o Poder Executivo autorizado a:
@@ -41,7 +40,8 @@ III - assumir as correspondentes dotações orçamentárias, os bens móveis e i
 
 **§ 2° -** A competência prevista no § 1° deste artigo poderá ser atribuída a outros órgãos ou entidades integrantes da Administração Pública direta ou indireta, por decreto.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Disposições Finais
 
 **Artigo 6° -** O artigo 18 da [Lei Complementar n° 1.211, de 27 de setembro de 2013](https://www.al.sp.gov.br/norma/171129), passa a vigorar com a seguinte redação:

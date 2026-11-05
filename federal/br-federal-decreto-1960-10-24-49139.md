@@ -1,5 +1,3 @@
-###DEC-049139-0-000-24-10-1960@@@
-
 DECRETO Nº 49.139, DE 24 DE OUTUBRO DE 1960.
 
 Dá nova redação ao artigo 1º do Decreto nº 47.937, de 15 de março de 1960.

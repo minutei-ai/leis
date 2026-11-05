@@ -1,5 +1,3 @@
-###DEC-047006-0-000-13-10-1959@@@
-
 Decreto nº 47.006, de 13 de outubro de 1959.
 
 Renova o Decreto nº 41.793, de 8 de julho de 1957.

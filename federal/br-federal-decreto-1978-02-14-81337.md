@@ -1,5 +1,3 @@
-###DEC-081337-0-000-14-02-1978@@@
-
 Decreto nº 81 337, de 14 de fevereiro de 1978.
 
 Concede reconhecimento à Licenciatura, de 1º grau e às habilitações da Licenciatura Plena do curso de Educação Artística do Instituto Musical de São Paulo.

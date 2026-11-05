@@ -1,5 +1,3 @@
-###DEL-004775-0-000-01-10-1942@@@
-
 DECRETO-LEI N. 4.775 – DE 1 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de 200:000$0, à verba que especifica

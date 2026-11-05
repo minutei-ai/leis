@@ -1,7 +1,3 @@
-1
-
-###MPV-000771-0-000-20-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 771, DE  20 DE DEZEMBRO DE 1994
 
 Altera o art. 5º da Lei nº 7.862, de 30 de outubro de 1989, que dispõe sobre a remuneração das disponibilidades do Tesouro Nacional.

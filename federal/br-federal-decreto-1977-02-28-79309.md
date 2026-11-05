@@ -1,5 +1,3 @@
-###DEC-079309-0-000-28-02-1977@@@
-
 Decreto nº 79.309, de 28 de fevereiro de 1977.
 
 Confisca bens pertencentes a Nival Borba da Silva e dá outras providências.

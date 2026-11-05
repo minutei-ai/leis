@@ -1,5 +1,3 @@
-###DEL-005687-0-000-21-07-1943@@@
-
 DECRETO‑LEI N. 5.687 – DE 21 DE JULHO DE 1943
 
 Eleva de L para M o padrão de vencimentos do cargo de arquivista da Secretaria­ do Supremo Tribunal Federal e dá outras providências

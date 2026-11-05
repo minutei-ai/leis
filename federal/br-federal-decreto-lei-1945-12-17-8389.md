@@ -1,5 +1,3 @@
-###DEL-008389-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.389 – DE 17 DE DEZEMBRO DE 1945
 
 Reorganiza os Centros de Instrução da Marinha.

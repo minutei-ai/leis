@@ -1,5 +1,3 @@
-###LEI-000000-0-000-06-09-1828@@@
-
 LEI - DE 6 DE SETEMBRO DE 1828
 
 Extingue o exclusivo da navegação entre a villa de Santos e portos interiores da Provincia de S. Paulo, e de novo regula a arrecadação e applicação da taxa voluntaria para a estrada de Santos e S. Paulo e suas ramificações.

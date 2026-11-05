@@ -1,5 +1,3 @@
-###DEC-061836-0-000-05-12-1967@@@
-
 DECRETO Nº 61.836, DE 5 DE DEZEMBRO DE 1967.
 
 Aprova o Regulamento do Serviço Social do Comércio (SESC) e dá outras providências.

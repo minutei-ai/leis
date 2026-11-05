@@ -1,5 +1,3 @@
-###DEC-051211-0-000-18-08-1961@@@
-
 DECRETO Nº 51.211, DE 18 DE AGÔSTO DE 1961.
 
 Proíbe a fabricação o comércio e o uso do “lança perfume” no território nacional.
@@ -41,8 +39,6 @@ Castro Neves
 Cattete Pinheiro
 
 Octávio Augusto Dias Carneiro
-
-###DEC-051211-0-000-18-08-1961@@@RET01+++
 
 DECRETO Nº 51.211, DE 18 DE AGÔSTO DE 1961.
 

@@ -1,5 +1,3 @@
-###DEC-045798-0-000-14-04-1959@@@
-
 Decreto nº 45.798, de 14 de abril de 1959.
 
 Restabelece a transferência, da Parte Suplementar para a Parte Permanente da Tabela Única de Extranumerário-mensalista do Ministério da Aeronáutica, das funções que menciona.

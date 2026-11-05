@@ -1,5 +1,3 @@
-###DEC-095910-0-000-11-04-1988@@@
-
 DECRETO N° 95.910, DE 11 DE ABRIL DE 1988
 
 Prorroga o prazo das concessões outorgadas às empresas VARIG S.A. - Viação Aérea Rio-Grandense, CRUZEIRO DO SUL S.A. - Serviços Aéreos, Viação Aérea São Paulo S.A. - VASP e TRANSBRASIL S.A. Linhas Aéreas para a execução de serviços aéreos e dá outras providências.

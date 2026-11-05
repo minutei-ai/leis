@@ -1,5 +1,3 @@
-###DEC-070834-0-000-14-07-1972@@@
-
 Decreto nº 70.834, de 14 de julho de 1972.
 
 Autoriza o funcionamento de cursos da Faculdade de Educação, Filosofia, Ciências e Letras" Senador Flaquer" - São Paulo.

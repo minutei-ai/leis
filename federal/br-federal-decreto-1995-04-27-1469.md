@@ -1,7 +1,3 @@
-1
-
-###DEC-001469-0-000-27-04-1995@@@
-
 DECRETO Nº 1.469, DE 27 DE ABRIL DE 1995
 
 Altera alíquotas incidentes sobre operações de crédito do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos e Valores Mobiliários IOF.

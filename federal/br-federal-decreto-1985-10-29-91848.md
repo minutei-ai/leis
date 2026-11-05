@@ -1,5 +1,3 @@
-###DEC-091848-0-000-29-10-1985@@@
-
 Decreto nº 91.848, de 29 de outubro de 1985.
 
 Altera o Decreto nº 70.198, de 24 de fevereiro de 1972.

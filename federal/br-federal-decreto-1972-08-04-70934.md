@@ -1,5 +1,3 @@
-###DEC-070934-0-000-04-08-1972@@@
-
 DECRETO Nº 70.934, DE 4 DE AGOSTO DE 1972.
 
 Concede reconhecimento do Curso de Administração de Empresas da Faculdade de Ciências Econômicas e Administrativas de Araraquara S. Paulo.

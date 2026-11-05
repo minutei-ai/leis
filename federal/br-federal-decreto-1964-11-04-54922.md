@@ -1,5 +1,3 @@
-###DEC-054922-0-000-04-11-1964@@@
-
 DECRETO Nº 54.922, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza Itapessoca Agro Industrial S.A. a lavrar gipsita, no município de Ouricuri, Estado de Pernambuco.

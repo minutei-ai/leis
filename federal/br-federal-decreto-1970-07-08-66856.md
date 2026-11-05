@@ -1,5 +1,3 @@
-###DEC-066856-0-000-08-07-1970@@@
-
 DECRETO Nº 66.856, DE 8 DE JULHO DE 1970.
 
 Declara de utilidade pública a Sociedade Impulsionadora da Instrução com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-067086-0-000-20-08-1970@@@
-
 DECRETO Nº 67.086, DE 20 DE AGÔSTO DE 1970.
 
 Autorização para o funcionamento do Curso de Ciências Contábeis da Faculdade de Ciências Econômicas, Contábeis e de Administração de Campo Grande - MT.

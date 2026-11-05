@@ -1,5 +1,3 @@
-###DEC-045643-0-000-25-03-1959@@@
-
 DECRETO Nº 45.643, DE 25 DE MARÇO DE 1959.
 
 Declara públicas de uso comum, do domínio do Estado da Bahia, as águas do Rio Mato Grosso.

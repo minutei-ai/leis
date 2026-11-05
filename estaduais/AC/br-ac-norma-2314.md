@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.289, de 27 de Dezembro de 2023.](https://legis.ac.gov
 
 > **LEI Nº 3.527, DE 30 DE OUTUBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo doar ao Instituto de Previdência do Estado do Acre – Acreprevidência, com encargo, os imóveis públicos que indica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo doar ao Instituto de Previdência do Estado do Acre – Acreprevidência, com encargo, os imóveis públicos que indica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

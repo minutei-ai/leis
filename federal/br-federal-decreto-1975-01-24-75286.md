@@ -1,5 +1,3 @@
-###DEC-075286-0-000-24-01-1975@@@
-
 DECRETO Nº 75.286, DE 24 DE JANEIRO DE 1975.
 
 Declara a caducidade do Manifesto de Mina que Menciona.

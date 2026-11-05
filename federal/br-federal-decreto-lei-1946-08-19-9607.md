@@ -1,5 +1,3 @@
-###DEL-009607-0-000-19-08-1946@@@
-
 DECRETO-LEI N. 9.607 – DE 19 DE AGÔSTO DE 1946
 
 Dispõe sobre a existência do estagio a que se refere, o art. 2º do Decreto-lei nº 8.546, de 3 de janeiro de 1946,

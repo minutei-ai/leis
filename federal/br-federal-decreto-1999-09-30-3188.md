@@ -1,5 +1,3 @@
-###DEC-003188-0-000-30-09-1999@@@
-
 DECRETO N.º 3.188, DE 30 DE SETEMBRO DE 1999.
 
 Altera o art. 2º do Decreto nº 3.150, de 23 de agosto de 1999, que institui a hora de verão, em parte do Território Nacional, no período que indica.

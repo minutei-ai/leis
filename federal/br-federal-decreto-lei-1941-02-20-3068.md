@@ -1,5 +1,3 @@
-###DEL-003068-0-000-20-02-1941@@@
-
 DECRETO-LEI N. 3.068 – DE 20 DE FEVEREIRO DE 1941
 
 Abre, pelo Ministério da Guerra, o crédito especial de 1.505:858$1, para pagamento de transporte

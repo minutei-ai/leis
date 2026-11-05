@@ -1,5 +1,3 @@
-###DEC-082031-0-000-25-07-1978@@@
-
 Decreto nº 82.031, de 25 de julho de 1978
 
 Concede à Empresa de Mineração Águas Mineral Primavera Ltda. o direito de lavrar água mineral no Município de Doutor Camargo, Estado do Paraná.

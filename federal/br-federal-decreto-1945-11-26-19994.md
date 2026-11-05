@@ -1,24 +1,22 @@
-###DEC-019994-0-000-26-11-1945@@@
+**DECRETO Nº 19.994, DE 26 DE NOVEMBRO DE 1945.**
 
-<strong>DECRETO Nº 19.994, DE 26 DE NOVEMBRO DE 1945.</strong>
+***Concede permissão à Rádio Cachoeiro de Itapemirim Limitada para estabelecer, na cidade de Cachoeiro de Itapemirim, Estado do Espírito Santo, uma estação radio-difusora.***
 
-<em><strong>Concede permissão à Rádio Cachoeiro de Itapemirim Limitada para estabelecer, na cidade de Cachoeiro de Itapemirim, Estado do Espírito Santo, uma estação radio-difusora.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica concedida à Rádio Cachoeiro de Itapemirim, Limitada, permissão para estabelecer, na cidade de Cachoeiro de Itapemirim, Estado do Espírito Santo, com direito de exclusividade, uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias a contar da data da publicação dêste decreto no <em>Diário Oficial</em>, sob pena de ser desde logo considerado nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias a contar da data da publicação dêste decreto no *Diário Oficial*, sob pena de ser desde logo considerado nula a concessão.
 
 Rio de Janeiro, 26 de novembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Maurício Joppert da Silva
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 19.994, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 19.994, DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá pelo órgão fiscalizador, impor à concessionária multa de Cr$ 100,00 (cem cruzeiros) a Cr$ 5.000,00 (cinco mil cruzeiros) conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*.
 
 VII
 
@@ -86,9 +84,9 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, for verificada, inobservância das disposições contidas nas alíneas <em>a</em>., <em>b</em>, <em>c</em>, <em>d</em>, e (<em>in fine</em>), <em>j</em>, <em>k</em> e <em>l</em> da cláusula III;
+a) se, em todo o tempo, for verificada, inobservância das disposições contidas nas alíneas *a*., *b*, *c*, *d*, e (*in fine*), *j*, *k* e *l* da cláusula III;
 
-b) se não forem pagas, dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea <em>e</em> da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
+b) se não forem pagas, dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea *e* da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
 c) se, em qualquer tempo, se verificar o emprêgo da estação para outros fins, que não os determinados na concessão e admitidos pela legislação que reger a matéria:
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 26 de novembro de 1945.
 
-<strong>MAURICIO JOPPERT DA SILVA</strong>
+**MAURICIO JOPPERT DA SILVA**

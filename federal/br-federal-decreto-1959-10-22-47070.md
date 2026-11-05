@@ -1,5 +1,3 @@
-###DEC-047070-0-000-22-10-1959@@@
-
 DECRETO Nº 47.070, de 22 de outubro de 1959.
 
 Transfere a Reunião Congressial do Conselho Superior e dos Presidente das Caixas Econômicas Federais.

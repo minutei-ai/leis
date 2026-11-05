@@ -1,7 +1,3 @@
-1
-
-###DEC-085837-0-000-24-03-1981@@@
-
 DECRETO Nº 85.837, DE 24 DE MARÇO DE 1981.
 
 Cargos Privativos de Oficial-General do Exército em tempo de paz.
@@ -141,8 +137,6 @@ Brasília, DF, 24 de março de 1981; 160º da Independência e 93º da Repúblic
 JOÃO FIGUEIREDO
 
 Walter Pires
-
-###DEC-085837-0-000-24-03-1981@@@REP01+++
 
 \* DECRETO Nº 85.837, DE 24 DE MARÇO DE 1981.
 

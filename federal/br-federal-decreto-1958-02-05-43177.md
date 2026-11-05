@@ -1,18 +1,16 @@
-###DEC-043177-0-000-05-02-1958@@@
+**DECRETO Nº 43.177, DE 05 DE FEVEREIRO DE 1958.**
 
-<strong>DECRETO Nº 43.177, DE 05 DE FEVEREIRO DE 1958.</strong>
+***Institui a Campanha Nacional de Educação Física.***
 
-<em><strong>Institui a Campanha Nacional de Educação Física.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica instituída a Campanha Nacional de Educação Física (C.N.E.F.) a cargo da Divisão de Educação Física do Departamento Nacional de Educação do Ministério da Educação e Cultura.
 
-<strong>Art</strong>. 1º Fica instituída a Campanha Nacional de Educação Física (C.N.E.F.) a cargo da Divisão de Educação Física do Departamento Nacional de Educação do Ministério da Educação e Cultura.
+**Art**. 2º Caberá à C.N.E.F. promover as medidas necessárias ao desenvolvimento da Educação Física à sua difusão, ao aperfeiçoamento dos especializados, bem como à instalação de Centros de Educação Física.
 
-<strong>Art</strong>. 2º Caberá à C.N.E.F. promover as medidas necessárias ao desenvolvimento da Educação Física à sua difusão, ao aperfeiçoamento dos especializados, bem como à instalação de Centros de Educação Física.
-
-<strong>Art</strong>. 3º Para a consecução de seus objetivos, a C.N.E.F, deverá:
+**Art**. 3º Para a consecução de seus objetivos, a C.N.E.F, deverá:
 
 a) estabelecer convênios com entidades públicas ou privadas, para construção de Centros de Educação Física, proporcionando-lhes, na fase de organização e instalação, a assistência de técnicos;
 
@@ -28,9 +26,9 @@ f) prestar assistência aos especializados em Educação Física que estejam exe
 
 g) realizar estudos e pesquisas que visem determinar as necessidades existentes, verificar as atividades físicas, os métodos e processos de ensino que mais se ajustam às condições e exigências do meio, bem como dar solução aos assuntos com êle relacionados, divulgando os seus resultados mediante a publicação das conclusões obtidas.
 
-<strong>Art</strong>. 4º A C.N.E.F. será superintendida pelo Diretor da mencionada Divisão de Educação Física, assistido por um Conselho composto de cinco membros, sendo três escolhidos pelo Ministro de Estado da Educação e Cultura, um representante da Federação das Associações de Professôres de Educação Física e um representante da Escola Nacional de Educação Física e Desportos da Universidade do Brasil.
+**Art**. 4º A C.N.E.F. será superintendida pelo Diretor da mencionada Divisão de Educação Física, assistido por um Conselho composto de cinco membros, sendo três escolhidos pelo Ministro de Estado da Educação e Cultura, um representante da Federação das Associações de Professôres de Educação Física e um representante da Escola Nacional de Educação Física e Desportos da Universidade do Brasil.
 
-<strong>Art</strong>. 5º Para custeio das atividades da C.N.E.F. haverá um fundo especial que será constituído de:
+**Art**. 5º Para custeio das atividades da C.N.E.F. haverá um fundo especial que será constituído de:
 
 a) dotações e contribuições que para isos forem consigandos nos orçamentos da União, dos Estados dos Municípios e de entidades paraestatais e sociedades de economia mista;
 
@@ -46,12 +44,12 @@ f) renda eventual dos seus serviços.
 
 Parágrafo único. Os recursos que fôrem atribuídos ao fundo especial de Educação Física serão depositados no Banco do Brasil S.A.
 
-<strong>Art</strong>. 6º O Ministro de Estado da Educação e Cultura baixará as instruções necessárias à organização e à execução da C.N.E.F.
+**Art**. 6º O Ministro de Estado da Educação e Cultura baixará as instruções necessárias à organização e à execução da C.N.E.F.
 
-<strong>Art</strong>. 7º Êste decreto entrará em vigor na data da sua publicação.
+**Art**. 7º Êste decreto entrará em vigor na data da sua publicação.
 
 Rio de Janeiro, em 5 de fevereiro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clóvis Salgado

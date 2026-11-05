@@ -25,7 +25,3 @@ Art. 3º – Este Decreto-lei entrará em vigor na data de sua publicação, rev
 Palácio da Liberdade, em Belo Horizonte, aos 27 de junho de 1947.
 
 Milton Soares Campos - Governador do Estado
-
-\=======================================================================
-
-Data da última atualização: 19/8/2026.

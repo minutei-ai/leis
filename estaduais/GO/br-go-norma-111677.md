@@ -16,10 +16,48 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4362-AGENCIA GOIANA DE HABITACAO S/A</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE HABITAÇÕES DE INTERESSE SOCIAL</td><td style=" width:85px;    ">16 482 1032 3260</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.027.985,66</td><td style=" width:85px;    ">R$ 111.000.000,00</td><td style=" width:85px;    ">R$ 112.027.985,66</td></tr></tbody></table>
+**4362-AGENCIA GOIANA DE HABITACAO S/A**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 111.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 111.000.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO DE HABITAÇÕES DE INTERESSE SOCIAL
+
+16 482 1032 3260
+
+27610156
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.027.985,66
+
+R$ 111.000.000,00
+
+R$ 112.027.985,66
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 111.000.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 111.000.000,00

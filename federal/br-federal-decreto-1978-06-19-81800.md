@@ -1,5 +1,3 @@
-###DEC-081800-0-000-19-06-1978@@@
-
 Decreto nº 81.800, de 19 de junho de 1978.
 
 Concede autorização às empresas CITIES SERVICE BRASIL PETROLEUM CORPORATION e UNION TEXAS BRASIL, INC. para operarem no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÀS.

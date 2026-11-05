@@ -1,5 +1,3 @@
-###DEC-047776-0-000-09-02-1960@@@
-
 DECRETO Nº 47.776, DE 9 DE FEVEREIRO DE 1960.
 
 Aprova alterações introduzidas nos estatutos do Bureau International de l’Edition Mecanique (B.I.E.M.)

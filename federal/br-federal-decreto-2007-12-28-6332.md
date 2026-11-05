@@ -1,5 +1,3 @@
-###DEC-006332-0-000-28-12-2007@@@
-
 DECRETO Nº 6.332, DE 28 DE DEZEMBRO DE 2007.
 
 Promulga a Convenção Adicional Alterando a Convenção entre a República Federativa do Brasil e o Reino da Bélgica para Evitar a Dupla Tributação e Regular Outras Questões em Matéria de Impostos sobre a Renda e o Protocolo Final, assinados em Brasília em 23 de junho de 1972, celebrada em Brasília, em 20 de novembro de 2002.
@@ -22,11 +20,7 @@ Brasília, 28 de dezembro de 2007; 186º da Independência e 119º da República
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimaraes Neto
-
-Este texto não substitui o publicado no DOU de 31.12.2007
-
-CONVENÇÃO  ADICIONAL  ALTERANDO  A  CONVENÇÃO  ENTRE  A  REPÚBLICA
+Samuel Pinheiro Guimaraes NetoCONVENÇÃO  ADICIONAL  ALTERANDO  A  CONVENÇÃO  ENTRE  A  REPÚBLICA
 
 FEDERATIVA  DO  BRASIL  E  O  REINO  DA BÉLGICA PARA  EVITAR  A  DUPLA
 

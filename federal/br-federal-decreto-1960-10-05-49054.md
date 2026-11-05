@@ -1,5 +1,3 @@
-###DEC-049054-0-000-10-08-1960@@@
-
 Decreto nº 49.054, de 10 de agosto de 1960.
 
 Declara caduco o Decreto nº 21.352, de 25 de junho de 1946.

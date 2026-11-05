@@ -1,5 +1,3 @@
-###DEC-007197-0-000-02-06-2010@@@
-
 DECRETO Nº 7.197, DE 2 DE JUNHO DE 2010.
 
 Dispõe sobre a criação da Embaixada do Brasil em Funafuti, em Tuvalu, cumulativa com a Embaixada em Wellington

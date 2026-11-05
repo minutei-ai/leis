@@ -1,5 +1,3 @@
-###DEC-059639-0-000-01-12-1966@@@
-
 decreto nº 59.639, de 1 de dezembro de 1966.
 
 Abre, pelo Ministério da Indústria e do Comércio o crédito especial de Cr$1.500.000.000 (um bilhão e quinhentos milhões de cruzeiros), a favor do Instituto de Resseguros do Brasil, destinado a garantir aos responsabilidades a serem assumidas pelo Govêrno Federal, no tocante ao seguro de crédito à exportação objeto da Lei nº 4.678, de 16 de junho de 1965.

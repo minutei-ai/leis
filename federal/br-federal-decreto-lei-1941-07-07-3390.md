@@ -1,5 +1,3 @@
-###DEL-003390-0-000-07-07-1941@@@
-
 DECRETO-LEI N. 3.390 – DE 7 DE JULHO DE 1941
 
 Abre, ao Ministério da Fazenda, o crédito especial de 190:000$0 e dá outras providências

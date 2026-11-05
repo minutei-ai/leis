@@ -1,5 +1,3 @@
-###DEL-004514-0-000-23-07-1942@@@
-
 DECRETO-LEI N. 4.514 – DE 23 DE JULHO DE 1942
 
 Abre ao Departamento Administrativo do Serviço Público o crédito especiaI de 150:000$0, para realização de uma exposição

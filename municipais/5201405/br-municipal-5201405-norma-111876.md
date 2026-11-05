@@ -12,10 +12,12 @@ Art. 1º Esta Lei Complementar dispõe sobre as suas estruturas organizacionais
 
 Art. 2º A Administração Pública Municipal, por meio de ações diretas ou indiretas, em conformidade com o disposto no artigo 37 da Constituição Federal, tem como objetivo permanente garantir à população do Município políticas públicas dignas.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 GESTÃO
 
-Seção I<br>
+Seção I
+
 Resultados
 
 Art. 3º A gestão por resultados da Administração Pública Municipal prioriza a padronização, modernização e desburocratização dos seus atos, procedimentos e serviços, através da gestão por projetos, baseada em resultados como a matriz de governo, tem como objetivo associar sistematicamente as ações dos órgãos e entidades públicas ao cumprimento de metas e resultados voltados ao interesse do cidadão.
@@ -32,7 +34,8 @@ Art. 4º Com fundamento no artigo 37, § 8º, da Constituição Federal, fica 
 
 Art. 5º Para os efeitos desta Lei Complementar considera-se Contrato de gestão o instrumento em que o Poder Público e os dirigentes de órgãos e entidades do Poder Executivo acordam em estabelecer compromisso prévio de cumprimento de metas na aplicação de políticas públicas visando a produção de resultados satisfatórios para a sociedade e a Administração Pública Municipal.
 
-Seção II<br>
+Seção II
+
 Do Contrato de Gestão
 
 Art. 6º O contrato de resultados terá duração de até 4 (quatro) anos, prorrogável por igual período, e conterá, no mínimo, disposições que estabeleçam:
@@ -77,7 +80,8 @@ Art. 9º. A avaliação e o controle do alcance das metas e indicadores estabel
 
 Art. 10. Fica instituída a Bonificação por Desempenho Institucional - BDI como remuneração a ser concedida aos servidores que apresentarem bom desempenho em suas atribuições diante dos seus respectivos indicadores, na forma estabelecida nesta Lei Complementar e no Decreto Regulamentador.
 
-Seção III<br>
+Seção III
+
 Da Gestão por Processos
 
 Art. 11. Fica instituída a Gestão por Processos no âmbito da Administração Pública Municipal, que consiste no conjunto de conceitos, ferramentas e práticas gerenciais que visam o planejamento, monitoramento, avaliação e revisão dos processos de trabalho, estabelecendo uma visão sistêmica de organização, orientada pela sequência de suas atividades, independente da estrutura administrativa formal, com foco na melhoria contínua e no alcance dos objetivos.
@@ -108,7 +112,8 @@ Parágrafo único. A solicitação de que trata o caput deste artigo deve ser p
 
 Art. 15. Os documentos produzidos eletronicamente têm a mesma força probante dos originais físicos, ressalvadas a alegação motivada e fundamentada de adulteração.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 Da Estruturação das Secretarias
 
 Art. 16 A estrutura organizacional administrativa da Administração Pública do Município de Aparecida de Goiânia/GO é constituída pelos seguintes órgãos:
@@ -375,7 +380,6 @@ V.    identificar junto a entidades de direito público interno ou externo ou
 
 VI.    exercer outras atividades correlatas.
 
-<br>
 Art. 26 A Secretaria Municipal de Indústria e Comércio tem a estrutura definida no e possui as seguintes competências:
 
 I.    organizar, implementar e fiscalizar a política municipal no fomento às atividades econômicas primárias, secundárias e terciárias, visando o desenvolvimento harmônico dessas atividades;
@@ -436,7 +440,6 @@ XVI.    assessorar o Prefeito nos assuntos de sua competência e que nesta co
 
 XVII.    outras atividades correlatas.
 
-<br>
 Art. 28 A Secretaria Municipal de Meio Ambiente e Sustentabilidade tem a estrutura definida e possui as seguintes competências:
 
 I.    formular, coordenar, executar e fazer executar, em estreita articulação com a Secretaria Municipal de Infraestrutura e Secretaria Municipal de Regulação Urbana, de acordo com as diretrizes do Plano Diretor de Desenvolvimento Integrado, a política municipal do meio ambiente e a preservação, conservação e uso racional, fiscalização, controle e fomento dos recursos ambientais;
@@ -463,7 +466,8 @@ XI.    articular e desenvolver em parceria com as demais áreas da Prefeitura
 
 XII.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;
 
-XIII.    outras atividades correlatas.<br>
+XIII.    outras atividades correlatas.
+
  
 
 Art. 29  A Secretaria Municipal de Esporte, Lazer e Juventude tem a estrutura definida e possui as seguintes competências:
@@ -1020,36 +1024,644 @@ Art. 72 Esta Lei entrará em vigor na data de sua publicação, revogando-se as 
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA-GO, aos 09 de Fevereiro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
 ANEXO I
 
 DESCRIÇÃO DOS CARGOS
 
-<table><tbody><tr><td style=" width:115px;  height:21px;    "><b>NOME DO CARGO</b></td><td style=" width:66px;  height:21px;    "><b>CÓDIGO</b></td><td style=" width:211px;  height:21px;    "><b>CONDIÇÕES DE PROVIMENTO</b></td><td style=" width:251px;  height:21px;    "><b>ATRIBUIÇÕES DO CARGO</b></td></tr><tr><td style=" width:115px;  height:67px;   ">SECRETARIO MUNICIPAL</td><td style=" width:66px;  height:67px;   ">DS-1</td><td style=" width:211px;  height:67px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:67px;   ">Exercer a direção superior da Secretaria, assessorar o Prefeito nos assuntos atribuídos da Secretaria que estiver lotado, determinar ações de trabalho e promover demais atividades delegadas pelo Prefeito.</td></tr><tr><td style=" width:115px;  height:70px;   ">PROCURADOR GERAL</td><td style=" width:66px;  height:70px;   ">DS-1</td><td style=" width:211px;  height:70px;   ">ENSINO SUPERIOR COMPLETO COM INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL - OAB</td><td style=" width:251px;  height:70px;   ">Exercer a direção superior da Procuradoria Geral do Município, assessorar o Prefeito nos assuntos jurídicos atribuídos ao Município e determinar ações de trabalho pertinentes.</td></tr><tr><td style=" width:115px;  height:121px;   ">CHEFE DE GABINETE DO PREFEITO</td><td style=" width:66px;  height:121px;   ">DS-1</td><td style=" width:211px;  height:121px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:121px;   ">Coordenar, planejar, controlar e executar as atividades referentes ao funcionamento do Gabinete do Prefeito, assessorar o Prefeito na designação de reuniões, encontros, seminários, entre outros, além de auxiliar&nbsp; o desempenho de suas atribuições que lhe for demandado nos assuntos relacionados com a coordenação política e administrativa;</td></tr><tr><td style=" width:115px;  height:70px;   ">SECRETARIO EXECUTIVO</td><td style=" width:66px;  height:70px;   ">DSE-1</td><td style=" width:211px;  height:70px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:70px;   ">Acompanhar a execução dos planos, programas e atividades de apoio administrativo, técnico e operacional no âmbito da Secretaria; prestar informações diretas ao Secretário.</td></tr><tr><td style=" width:115px;  height:53px;   ">COMANDANTE DA GUARDA MUNICIPAL</td><td style=" width:66px;  height:53px;   ">DSE-1</td><td style=" width:211px;  height:53px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:53px;   ">Exercer o Comando Superior da Guarda Municipal, determinar ações de trabalho&nbsp; e promover ações pertinentes a resguardar o patrimônio do Município.</td></tr><tr><td style=" width:115px;  height:79px;   ">SUPERINTENDENTE&nbsp; DE SAÚDE</td><td style=" width:66px;  height:79px;   ">DSS-1</td><td style=" width:211px;  height:79px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:79px;   ">Implementar atividades, programas e projetos inerentes as atividades fim da Secretaria Municipal de Saúde; direção compartilhada, elaborar planejamento e controlar o desempenho organizacional e setorial.</td></tr><tr><td style=" width:115px;  height:138px;   ">ASSESSOR ESPECIAL DO GABINETE DO PREFEITO</td><td style=" width:66px;  height:138px;   ">DS-2</td><td style=" width:211px;  height:138px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:138px;   ">Assessorar as atividades referentes ao funcionamento do Gabinete do Prefeito. Orientar a organização e funcionamento do gabinete, bem como registrar, controlar, encaminhar a documentação que tramitam no gabinete. Registrar visitas, controlar consultas entre outros. Exercer ações que lhe forem conferidas correlatas a agilizar e auxiliar o bom funcionamento do gabinete.</td></tr><tr><td style=" width:115px;  height:53px;   ">SUPERINTENDENTE</td><td style=" width:66px;  height:53px;   ">DS-2</td><td style=" width:211px;  height:53px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:53px;   ">Planejar, organizar, coordenar e acompanhar as atividades da Superintendência pela qual responde, abrangendo atividades técnicas e administrativas</td></tr><tr><td style=" width:115px;  height:121px;   ">DIRETOR DE SAÚDE</td><td style=" width:66px;  height:121px;   ">DSS-2</td><td style=" width:211px;  height:121px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:121px;   ">Implementar atividades, programas e projetos inerentes a campos funcionais específicos das atribuições da Secretaria Municipal de Saúde, promovendo a gestão global e integrada das ações desenvolvidas por suas coordenadorias setoriais e por seus setores; direção compartilhada; elaboração de planejamento e controle do desempenho organizacional e setorial</td></tr><tr><td style=" width:115px;  height:121px;   ">DIRETOR</td><td style=" width:66px;  height:121px;   ">DS-3</td><td style=" width:211px;  height:121px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:121px;   ">Implementar atividades, programas e projetos inerentes a campos funcionais específicos das atribuições de um órgão municipal, promovendo a gestão global e integrada das ações desenvolvidas por suas coordenadorias setoriais e por seus setores; direção compartilhada; elaboração de planejamento e controle do desempenho organizacional e setorial</td></tr><tr><td style=" width:115px;  height:121px;   ">DIRETOR DE UNIDADE DE SAUDE</td><td style=" width:66px;  height:121px;   ">DSS-3</td><td style=" width:211px;  height:121px;   ">ENSINO SUPERIOR COMPLETO</td><td style=" width:251px;  height:121px;   ">Implementar atividades, programas e projetos inerentes a campos funcionais específicos das atribuições de uma Unidade de Saúde, promovendo a gestão global e integradas das ações desenvolvidas por suas coordenadorias setoriais e por seus setores; direção compartilhadas, elaboração de planejamento e controle do desempenho organizacional e setorial</td></tr><tr><td style=" width:115px;  height:70px;   ">CONTADOR GERAL</td><td style=" width:66px;  height:70px;   ">DS-4</td><td style=" width:211px;  height:70px;   ">TECNICO/SUPERIOR(CONTABILIDADE)</td><td style=" width:251px;  height:70px;   ">Exercer a direção superior e a execução da Contabilidade Municipal, assessorar o Secretário da Fazenda e o Prefeito nos assuntos atribuídos a Pasta, determinar ações de trabalho</td></tr><tr><td style=" width:115px;  height:87px;   ">COORDENADOR</td><td style=" width:66px;  height:87px;   ">CC-1</td><td style=" width:211px;  height:87px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:87px;   ">Exercer a coordenação inerentes a campos específicos das atribuições de um departamento, promovendo a integração das atividades desenvolvidas por seus setores, assessorar o Diretor nos assuntos atribuídos a Pasta, determinar ações de trabalho</td></tr><tr><td style=" width:115px;  height:121px;   ">SUBPROCURADOR</td><td style=" width:66px;  height:121px;   ">CC-1</td><td style=" width:211px;  height:121px;   ">ENSINO SUPERIOR COMPLETO COM INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL – OAB – E APROVAÇÃO CONCURSO DE PROCURADOR DESTE MUNICÍPIO</td><td style=" width:251px;  height:121px;   ">Exercer e executar atividades especificas dentro do campo de atribuição próprio da coordenadoria setorial que integram; prestar assessoria jurídica extra judicial e judicial ao Município; acompanhar processos de interesse do Município; prestar informações processuais; analisar, planejar ações judiciais, bem como defesas; orientar os subordinados</td></tr><tr><td style=" width:115px;  height:121px;   ">COORDENADOR DE SAUDE</td><td style=" width:66px;  height:121px;   ">CCS-1</td><td style=" width:211px;  height:121px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:121px;   ">Exercer a coordenação inerentes a campos específicos das atribuições da atividade fim de um departamento da Secretaria Municipal de Saúde, promovendo a integração das atividades desenvolvidas por seus setores, assessorar o Diretor nos assuntos atribuídos a Pasta, Implementar programas e Projetos; orientar os subordinados e determinar ações de trabalho</td></tr><tr><td style=" width:115px;  height:87px;   ">CHEFE</td><td style=" width:66px;  height:87px;   ">CC-2</td><td style=" width:211px;  height:87px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:87px;   ">Exercer e executar atividades especificas dentro do campo de atribuição próprio da coordenadoria setorial que integram; assessorar a direção superior nos assuntos atribuídos a Pasta, determinar ações de trabalho</td></tr><tr><td style=" width:115px;  height:53px;   ">CHEFE DE GABINETE</td><td style=" width:66px;  height:53px;   ">CC-2</td><td style=" width:211px;  height:53px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:53px;   ">Promover e articular os documentos e demais atos&nbsp; administrativos, políticos e sociais do Secretário; coordenar as atividades&nbsp; relacionadas ao Gabinete.</td></tr><tr><td style=" width:115px;  height:87px;   ">COORDENADOR DE UNIDADE DE SAUDE</td><td style=" width:66px;  height:87px;   ">CCS-2</td><td style=" width:211px;  height:87px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:87px;   ">Exercer a coordenação de atividades e atribuições da Unidade de Saúde, assessorar o Diretor da Unidade de Saúde nos assuntos atribuídos ao órgão; Implementar programas e Projetos; orientar subordinados e&nbsp; determinar ações de trabalho.</td></tr><tr><td style=" width:115px;  height:87px;   ">CHEFE DE SAUDE</td><td style=" width:66px;  height:87px;   ">CCS-3</td><td style=" width:211px;  height:87px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:87px;   ">Exercer e executar atividades especificas dentro das atribuições da atividade fim de um departamento da Secretaria Municipal de Saúde; Assessorar a direção superior nos assuntos atribuídos a Pasta; Implementar programas e Projetos; orientar subordinados;</td></tr><tr><td style=" width:115px;  height:87px;   ">CHEFE DE UNIDADE DE SAUDE</td><td style=" width:66px;  height:87px;   ">CCS-4</td><td style=" width:211px;  height:87px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:87px;   ">Exercer e executar atividades especificas das atribuições de uma Unidade de Saúde, assessor a direção superior nos assuntos atribuídos ao órgão, implementar programas e projetos, orientar subordinados.</td></tr><tr><td style=" width:115px;  height:70px;   ">ASSESSOR DE PLANEJAMENTO E ADMINISTRAÇÃO</td><td style=" width:66px;  height:70px;   ">APA</td><td style=" width:211px;  height:70px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:70px;   ">Executar atividades imediatas, de apoio administrativo, técnico e operacional; auxiliar o Secretario quanto ao levantamento e analise de informações pertinentes a Pasta para tomada de decisão; elaboração de relatórios.</td></tr><tr><td style=" width:115px;  height:70px;   ">ASSESSOR SUPERIOR</td><td style=" width:66px;  height:70px;   ">AS</td><td style=" width:211px;  height:70px;   ">ENSINO SUPERIOR COMPLETO</td><td style=" width:251px;  height:70px;   ">Desempenhar e executar atividades de apoio administrativos, técnico e operacional de nível superior em sua área de formação; assessorar o Secretario nos assuntos pertinentes a Pasta</td></tr><tr><td style=" width:115px;  height:87px;   ">PRESIDENTE DO CONSELHO TUTELAR</td><td style=" width:66px;  height:87px;   ">AS</td><td style=" width:211px;  height:87px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:87px;   ">Coordenar, planejar, controlar e executar as atividades do Conselho Tutelar.&nbsp; Entre outras atividades definidas em lei própria para garantir que as crianças e adolescentes tenham todos os seus direitos respeitados.</td></tr><tr><td style=" width:115px;  height:155px;   ">CONSELHEIRO TUTELAR</td><td style=" width:66px;  height:155px;   ">AES-1</td><td style=" width:211px;  height:155px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:155px;   ">Assessorar o Poder Executivo local na elaboração de planos e programas de atendimento dos direitos da criança e do adolescente. Fiscalizar as Entidades de Atendimento. Atender crianças e adolescentes e aplicar medidas de proteção, bem como aconselhar os pais.&nbsp; ou responsável e aplicar medidas de proteção. Entre outras atividades definidas em lei própria para garantir que as crianças e adolescentes tenham todos os seus direitos respeitados.</td></tr><tr><td style=" width:115px;  height:121px;   ">ASSESSOR ESPECIAL I</td><td style=" width:66px;  height:121px;   ">AES-1</td><td style=" width:211px;  height:121px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:121px;   ">Desenvolver atividades de assessoramento administrativo e técnico dentro de sua área de atuação nos assuntos relacionados a unidade que estiver lotado; Cuidar da tramitação, organização de documentos encaminhados a chefia, bem como prestar assessoramento as tarefas do Secretário, Secretário Executivo.</td></tr><tr><td style=" width:115px;  height:121px;   ">ASSESSOR ESPECIAL II</td><td style=" width:66px;  height:121px;   ">AES-2</td><td style=" width:211px;  height:121px;   ">ENSINO MEDIO COMPLETO</td><td style=" width:251px;  height:121px;   ">Desenvolver atividades de assessoramento administrativo e técnico dentro de sua área de atuação nos assuntos relacionados a unidade que estiver lotado; Cuidar da tramitação, organização de documentos encaminhados a chefia, bem como prestar assessoramento as tarefas do Secretário, Secretário Executivo e Superintendências.</td></tr><tr><td style=" width:115px;  height:104px;   ">ASSESSOR ESPECIAL III</td><td style=" width:66px;  height:104px;   ">AED-1</td><td style=" width:211px;  height:104px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:104px;   ">Desenvolver atividades de assessoramento administrativo e técnico dentro de sua área de atuação nos assuntos relacionados a unidade que estiver lotado; Cuidar da tramitação, organização de documentos encaminhados a chefia, bem como prestar assessoramento as tarefas das Diretorias.</td></tr><tr><td style=" width:115px;  height:104px;   ">ASSESSOR ESPECIAL IV</td><td style=" width:66px;  height:104px;   ">AEC-1</td><td style=" width:211px;  height:104px;   ">CONHECIMENTO NA ÁREA DE ATUAÇÃO</td><td style=" width:251px;  height:104px;   ">Desenvolver atividades de assessoramento administrativo e técnico dentro de sua área de atuação nos assuntos relacionados a unidade que estiver lotado; Cuidar da tramitação, organização de documentos, demandas encaminhados a chefia, bem como prestar assessoramento geral as tarefas da respectiva Chefia.</td></tr></tbody></table>
+**NOME DO CARGO**
+
+**CÓDIGO**
+
+**CONDIÇÕES DE PROVIMENTO**
+
+**ATRIBUIÇÕES DO CARGO**
+
+SECRETARIO MUNICIPAL
+
+DS-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Exercer a direção superior da Secretaria, assessorar o Prefeito nos assuntos atribuídos da Secretaria que estiver lotado, determinar ações de trabalho e promover demais atividades delegadas pelo Prefeito.
+
+PROCURADOR GERAL
+
+DS-1
+
+ENSINO SUPERIOR COMPLETO COM INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL - OAB
+
+Exercer a direção superior da Procuradoria Geral do Município, assessorar o Prefeito nos assuntos jurídicos atribuídos ao Município e determinar ações de trabalho pertinentes.
+
+CHEFE DE GABINETE DO PREFEITO
+
+DS-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Coordenar, planejar, controlar e executar as atividades referentes ao funcionamento do Gabinete do Prefeito, assessorar o Prefeito na designação de reuniões, encontros, seminários, entre outros, além de auxiliar  o desempenho de suas atribuições que lhe for demandado nos assuntos relacionados com a coordenação política e administrativa;
+
+SECRETARIO EXECUTIVO
+
+DSE-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Acompanhar a execução dos planos, programas e atividades de apoio administrativo, técnico e operacional no âmbito da Secretaria; prestar informações diretas ao Secretário.
+
+COMANDANTE DA GUARDA MUNICIPAL
+
+DSE-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Exercer o Comando Superior da Guarda Municipal, determinar ações de trabalho  e promover ações pertinentes a resguardar o patrimônio do Município.
+
+SUPERINTENDENTE  DE SAÚDE
+
+DSS-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Implementar atividades, programas e projetos inerentes as atividades fim da Secretaria Municipal de Saúde; direção compartilhada, elaborar planejamento e controlar o desempenho organizacional e setorial.
+
+ASSESSOR ESPECIAL DO GABINETE DO PREFEITO
+
+DS-2
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Assessorar as atividades referentes ao funcionamento do Gabinete do Prefeito. Orientar a organização e funcionamento do gabinete, bem como registrar, controlar, encaminhar a documentação que tramitam no gabinete. Registrar visitas, controlar consultas entre outros. Exercer ações que lhe forem conferidas correlatas a agilizar e auxiliar o bom funcionamento do gabinete.
+
+SUPERINTENDENTE
+
+DS-2
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Planejar, organizar, coordenar e acompanhar as atividades da Superintendência pela qual responde, abrangendo atividades técnicas e administrativas
+
+DIRETOR DE SAÚDE
+
+DSS-2
+
+ENSINO MEDIO COMPLETO
+
+Implementar atividades, programas e projetos inerentes a campos funcionais específicos das atribuições da Secretaria Municipal de Saúde, promovendo a gestão global e integrada das ações desenvolvidas por suas coordenadorias setoriais e por seus setores; direção compartilhada; elaboração de planejamento e controle do desempenho organizacional e setorial
+
+DIRETOR
+
+DS-3
+
+ENSINO MEDIO COMPLETO
+
+Implementar atividades, programas e projetos inerentes a campos funcionais específicos das atribuições de um órgão municipal, promovendo a gestão global e integrada das ações desenvolvidas por suas coordenadorias setoriais e por seus setores; direção compartilhada; elaboração de planejamento e controle do desempenho organizacional e setorial
+
+DIRETOR DE UNIDADE DE SAUDE
+
+DSS-3
+
+ENSINO SUPERIOR COMPLETO
+
+Implementar atividades, programas e projetos inerentes a campos funcionais específicos das atribuições de uma Unidade de Saúde, promovendo a gestão global e integradas das ações desenvolvidas por suas coordenadorias setoriais e por seus setores; direção compartilhadas, elaboração de planejamento e controle do desempenho organizacional e setorial
+
+CONTADOR GERAL
+
+DS-4
+
+TECNICO/SUPERIOR(CONTABILIDADE)
+
+Exercer a direção superior e a execução da Contabilidade Municipal, assessorar o Secretário da Fazenda e o Prefeito nos assuntos atribuídos a Pasta, determinar ações de trabalho
+
+COORDENADOR
+
+CC-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Exercer a coordenação inerentes a campos específicos das atribuições de um departamento, promovendo a integração das atividades desenvolvidas por seus setores, assessorar o Diretor nos assuntos atribuídos a Pasta, determinar ações de trabalho
+
+SUBPROCURADOR
+
+CC-1
+
+ENSINO SUPERIOR COMPLETO COM INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL – OAB – E APROVAÇÃO CONCURSO DE PROCURADOR DESTE MUNICÍPIO
+
+Exercer e executar atividades especificas dentro do campo de atribuição próprio da coordenadoria setorial que integram; prestar assessoria jurídica extra judicial e judicial ao Município; acompanhar processos de interesse do Município; prestar informações processuais; analisar, planejar ações judiciais, bem como defesas; orientar os subordinados
+
+COORDENADOR DE SAUDE
+
+CCS-1
+
+ENSINO MEDIO COMPLETO
+
+Exercer a coordenação inerentes a campos específicos das atribuições da atividade fim de um departamento da Secretaria Municipal de Saúde, promovendo a integração das atividades desenvolvidas por seus setores, assessorar o Diretor nos assuntos atribuídos a Pasta, Implementar programas e Projetos; orientar os subordinados e determinar ações de trabalho
+
+CHEFE
+
+CC-2
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Exercer e executar atividades especificas dentro do campo de atribuição próprio da coordenadoria setorial que integram; assessorar a direção superior nos assuntos atribuídos a Pasta, determinar ações de trabalho
+
+CHEFE DE GABINETE
+
+CC-2
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Promover e articular os documentos e demais atos  administrativos, políticos e sociais do Secretário; coordenar as atividades  relacionadas ao Gabinete.
+
+COORDENADOR DE UNIDADE DE SAUDE
+
+CCS-2
+
+ENSINO MEDIO COMPLETO
+
+Exercer a coordenação de atividades e atribuições da Unidade de Saúde, assessorar o Diretor da Unidade de Saúde nos assuntos atribuídos ao órgão; Implementar programas e Projetos; orientar subordinados e  determinar ações de trabalho.
+
+CHEFE DE SAUDE
+
+CCS-3
+
+ENSINO MEDIO COMPLETO
+
+Exercer e executar atividades especificas dentro das atribuições da atividade fim de um departamento da Secretaria Municipal de Saúde; Assessorar a direção superior nos assuntos atribuídos a Pasta; Implementar programas e Projetos; orientar subordinados;
+
+CHEFE DE UNIDADE DE SAUDE
+
+CCS-4
+
+ENSINO MEDIO COMPLETO
+
+Exercer e executar atividades especificas das atribuições de uma Unidade de Saúde, assessor a direção superior nos assuntos atribuídos ao órgão, implementar programas e projetos, orientar subordinados.
+
+ASSESSOR DE PLANEJAMENTO E ADMINISTRAÇÃO
+
+APA
+
+ENSINO MEDIO COMPLETO
+
+Executar atividades imediatas, de apoio administrativo, técnico e operacional; auxiliar o Secretario quanto ao levantamento e analise de informações pertinentes a Pasta para tomada de decisão; elaboração de relatórios.
+
+ASSESSOR SUPERIOR
+
+AS
+
+ENSINO SUPERIOR COMPLETO
+
+Desempenhar e executar atividades de apoio administrativos, técnico e operacional de nível superior em sua área de formação; assessorar o Secretario nos assuntos pertinentes a Pasta
+
+PRESIDENTE DO CONSELHO TUTELAR
+
+AS
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Coordenar, planejar, controlar e executar as atividades do Conselho Tutelar.  Entre outras atividades definidas em lei própria para garantir que as crianças e adolescentes tenham todos os seus direitos respeitados.
+
+CONSELHEIRO TUTELAR
+
+AES-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Assessorar o Poder Executivo local na elaboração de planos e programas de atendimento dos direitos da criança e do adolescente. Fiscalizar as Entidades de Atendimento. Atender crianças e adolescentes e aplicar medidas de proteção, bem como aconselhar os pais.  ou responsável e aplicar medidas de proteção. Entre outras atividades definidas em lei própria para garantir que as crianças e adolescentes tenham todos os seus direitos respeitados.
+
+ASSESSOR ESPECIAL I
+
+AES-1
+
+ENSINO MEDIO COMPLETO
+
+Desenvolver atividades de assessoramento administrativo e técnico dentro de sua área de atuação nos assuntos relacionados a unidade que estiver lotado; Cuidar da tramitação, organização de documentos encaminhados a chefia, bem como prestar assessoramento as tarefas do Secretário, Secretário Executivo.
+
+ASSESSOR ESPECIAL II
+
+AES-2
+
+ENSINO MEDIO COMPLETO
+
+Desenvolver atividades de assessoramento administrativo e técnico dentro de sua área de atuação nos assuntos relacionados a unidade que estiver lotado; Cuidar da tramitação, organização de documentos encaminhados a chefia, bem como prestar assessoramento as tarefas do Secretário, Secretário Executivo e Superintendências.
+
+ASSESSOR ESPECIAL III
+
+AED-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Desenvolver atividades de assessoramento administrativo e técnico dentro de sua área de atuação nos assuntos relacionados a unidade que estiver lotado; Cuidar da tramitação, organização de documentos encaminhados a chefia, bem como prestar assessoramento as tarefas das Diretorias.
+
+ASSESSOR ESPECIAL IV
+
+AEC-1
+
+CONHECIMENTO NA ÁREA DE ATUAÇÃO
+
+Desenvolver atividades de assessoramento administrativo e técnico dentro de sua área de atuação nos assuntos relacionados a unidade que estiver lotado; Cuidar da tramitação, organização de documentos, demandas encaminhados a chefia, bem como prestar assessoramento geral as tarefas da respectiva Chefia.
 
 ANEXO II
 
-QUANTITATIVO E VENCIMENTOS <br>
+QUANTITATIVO E VENCIMENTOS 
+
 CARGOS DE DIREÇÃO, CHEFIA E ASSESSORAMENTO
 
-<table><tbody><tr><td style=" width:74px;     "><b>NÍVEL</b></td><td style=" width:328px;     "><b>DENOMINAÇÃO</b></td><td style=" width:91px;     "><b>QUANT.</b></td><td style=" width:131px;     "><b>SUBSÍDIO</b></td></tr><tr><td style=" width:74px;    ">DS-1</td><td style=" width:328px;    ">Secretário Municipal</td><td style=" width:91px;    ">25</td><td style=" width:131px;    ">14.519,41</td></tr><tr><td style=" width:74px;    ">DS-1</td><td style=" width:328px;    ">Procurador Geral</td><td style=" width:91px;    ">1</td><td style=" width:131px;    ">14.519,41</td></tr><tr><td style=" width:74px;    ">DS-1</td><td style=" width:328px;    ">Chefe de Gabinete do Prefeito</td><td style=" width:91px;    ">1</td><td style=" width:131px;    ">14.519,41</td></tr><tr><td style=" width:74px;    ">DS-1</td><td style=" width:328px;    ">Presidente de Autarquia</td><td style=" width:91px;    ">1</td><td style=" width:131px;    ">14.519,41</td></tr><tr><td style=" width:74px;    ">DS-1</td><td style=" width:328px;    ">Presidente de Empresa Publica</td><td style=" width:91px;    ">1</td><td style=" width:131px;    ">14.519,41</td></tr><tr><td style=" width:74px;    ">DSE-1</td><td style=" width:328px;    ">Secretário Executivo</td><td style=" width:91px;    ">30</td><td style=" width:131px;    ">11.018,38</td></tr><tr><td style=" width:74px;    ">DSE-1</td><td style=" width:328px;    ">Comandante da Guarda Municipal</td><td style=" width:91px;    ">1</td><td style=" width:131px;    ">11.018,38</td></tr><tr><td style=" width:74px;    ">DSS-1</td><td style=" width:328px;    ">Superintendente de Saúde</td><td style=" width:91px;    ">1</td><td style=" width:131px;    ">9.457,71</td></tr><tr><td style=" width:74px;    ">DS-2</td><td style=" width:328px;    ">Assessor Especial do Gabinete do Prefeito</td><td style=" width:91px;    ">12</td><td style=" width:131px;    ">8.630,53</td></tr><tr><td style=" width:74px;    ">DS-2</td><td style=" width:328px;    ">Superintendente</td><td style=" width:91px;    ">29</td><td style=" width:131px;    ">8.630,53</td></tr><tr><td style=" width:74px;    ">DSS-2</td><td style=" width:328px;    ">Diretor de Saúde</td><td style=" width:91px;    ">9</td><td style=" width:131px;    ">8.796,96</td></tr><tr><td style=" width:74px;    ">DS-3</td><td style=" width:328px;    ">Diretor</td><td style=" width:91px;    ">69</td><td style=" width:131px;    ">6.041,74</td></tr><tr><td style=" width:74px;    ">DSS-3</td><td style=" width:328px;    ">Diretor de Unidade de Saúde</td><td style=" width:91px;    ">14</td><td style=" width:131px;    ">7.116,71</td></tr><tr><td style=" width:74px;    ">DS-4</td><td style=" width:328px;    ">Contador</td><td style=" width:91px;    ">1</td><td style=" width:131px;    ">10.357,60</td></tr><tr><td style=" width:74px;    ">CC-1</td><td style=" width:328px;    ">Coordenador</td><td style=" width:91px;    ">144</td><td style=" width:131px;    ">4.314,65</td></tr><tr><td style=" width:74px;    ">CC-1</td><td style=" width:328px;    ">Subprocurador</td><td style=" width:91px;    ">5</td><td style=" width:131px;    ">4.314,65</td></tr><tr><td style=" width:74px;    ">CC-1</td><td style=" width:328px;    ">Assessor Jurídico</td><td style=" width:91px;    ">11</td><td style=" width:131px;    ">4.314,65</td></tr><tr><td style=" width:74px;    ">CCS-1</td><td style=" width:328px;    ">Coordenador de Saúde</td><td style=" width:91px;    ">18</td><td style=" width:131px;    ">7.069,86</td></tr><tr><td style=" width:74px;    ">CC-2</td><td style=" width:328px;    ">Chefe</td><td style=" width:91px;    ">135</td><td style=" width:131px;    ">2.588,79</td></tr><tr><td style=" width:74px;    ">CC-2</td><td style=" width:328px;    ">Chefe de Gabinete</td><td style=" width:91px;    ">28</td><td style=" width:131px;    ">2.588,79</td></tr><tr><td style=" width:74px;    ">CCS-2</td><td style=" width:328px;    ">Coordenador de Unidade de Saúde</td><td style=" width:91px;    ">7</td><td style=" width:131px;    ">6.381,98</td></tr><tr><td style=" width:74px;    ">CCS-3</td><td style=" width:328px;    ">Chefe de Saúde</td><td style=" width:91px;    ">16</td><td style=" width:131px;    ">4.654,89</td></tr><tr><td style=" width:74px;    ">CCS-4</td><td style=" width:328px;    ">Chefe de Unidade de Saúde</td><td style=" width:91px;    ">70</td><td style=" width:131px;    ">3.976,87</td></tr><tr><td style=" width:74px;    ">APA</td><td style=" width:328px;    ">Assessor de Planejamento</td><td style=" width:91px;    ">28</td><td style=" width:131px;    ">3.451,72</td></tr><tr><td style=" width:74px;    ">AS</td><td style=" width:328px;    ">Assessor Superior</td><td style=" width:91px;    ">60</td><td style=" width:131px;    ">3.797,82</td></tr><tr><td style=" width:74px;    ">AS</td><td style=" width:328px;    ">Presidente do Conselho Tutelar</td><td style=" width:91px;    ">4</td><td style=" width:131px;    ">3.797,82</td></tr><tr><td style=" width:74px;    ">AES-1</td><td style=" width:328px;    ">Conselheiro Tutelar</td><td style=" width:91px;    ">16</td><td style=" width:131px;    ">3.107,31</td></tr><tr><td style=" width:74px;    ">AES-1</td><td style=" width:328px;    ">Assessor Especial I</td><td style=" width:91px;    ">300</td><td style=" width:131px;    ">3.107,31</td></tr><tr><td style=" width:74px;    ">AES-2</td><td style=" width:328px;    ">Assessor Especial II</td><td style=" width:91px;    ">300</td><td style=" width:131px;    ">1.726,27</td></tr><tr><td style=" width:74px;    ">AED-1</td><td style=" width:328px;    ">Assessor Especial III</td><td style=" width:91px;    ">300</td><td style=" width:131px;    ">1.553,66</td></tr><tr><td style=" width:74px;    ">AEC-1</td><td style=" width:328px;    ">Assessor Especial IV</td><td style=" width:91px;    ">2650</td><td style=" width:131px;    ">1.359,02</td></tr></tbody></table>
+**NÍVEL**
 
-ANEXO III<br>
+**DENOMINAÇÃO**
+
+**QUANT.**
+
+**SUBSÍDIO**
+
+DS-1
+
+Secretário Municipal
+
+25
+
+14.519,41
+
+DS-1
+
+Procurador Geral
+
+1
+
+14.519,41
+
+DS-1
+
+Chefe de Gabinete do Prefeito
+
+1
+
+14.519,41
+
+DS-1
+
+Presidente de Autarquia
+
+1
+
+14.519,41
+
+DS-1
+
+Presidente de Empresa Publica
+
+1
+
+14.519,41
+
+DSE-1
+
+Secretário Executivo
+
+30
+
+11.018,38
+
+DSE-1
+
+Comandante da Guarda Municipal
+
+1
+
+11.018,38
+
+DSS-1
+
+Superintendente de Saúde
+
+1
+
+9.457,71
+
+DS-2
+
+Assessor Especial do Gabinete do Prefeito
+
+12
+
+8.630,53
+
+DS-2
+
+Superintendente
+
+29
+
+8.630,53
+
+DSS-2
+
+Diretor de Saúde
+
+9
+
+8.796,96
+
+DS-3
+
+Diretor
+
+69
+
+6.041,74
+
+DSS-3
+
+Diretor de Unidade de Saúde
+
+14
+
+7.116,71
+
+DS-4
+
+Contador
+
+1
+
+10.357,60
+
+CC-1
+
+Coordenador
+
+144
+
+4.314,65
+
+CC-1
+
+Subprocurador
+
+5
+
+4.314,65
+
+CC-1
+
+Assessor Jurídico
+
+11
+
+4.314,65
+
+CCS-1
+
+Coordenador de Saúde
+
+18
+
+7.069,86
+
+CC-2
+
+Chefe
+
+135
+
+2.588,79
+
+CC-2
+
+Chefe de Gabinete
+
+28
+
+2.588,79
+
+CCS-2
+
+Coordenador de Unidade de Saúde
+
+7
+
+6.381,98
+
+CCS-3
+
+Chefe de Saúde
+
+16
+
+4.654,89
+
+CCS-4
+
+Chefe de Unidade de Saúde
+
+70
+
+3.976,87
+
+APA
+
+Assessor de Planejamento
+
+28
+
+3.451,72
+
+AS
+
+Assessor Superior
+
+60
+
+3.797,82
+
+AS
+
+Presidente do Conselho Tutelar
+
+4
+
+3.797,82
+
+AES-1
+
+Conselheiro Tutelar
+
+16
+
+3.107,31
+
+AES-1
+
+Assessor Especial I
+
+300
+
+3.107,31
+
+AES-2
+
+Assessor Especial II
+
+300
+
+1.726,27
+
+AED-1
+
+Assessor Especial III
+
+300
+
+1.553,66
+
+AEC-1
+
+Assessor Especial IV
+
+2650
+
+1.359,02
+
+ANEXO III
+
 Grupos Ocupacionais - BDI
 
-<table><tbody><tr><td style="width:286px;  height:45px; ">GRUPO OCUPACIONAL</td><td style="width:161px;  height:45px; ">% relacionado ao limite R$ 2.000,00</td></tr><tr><td style="width:286px; ">I</td><td style="width:161px; ">25%</td></tr><tr><td style="width:286px; ">II</td><td style="width:161px; ">35%</td></tr><tr><td style="width:286px; ">III</td><td style="width:161px; ">40%</td></tr><tr><td style="width:286px; ">IV</td><td style="width:161px; ">50%</td></tr><tr><td style="width:286px; ">V</td><td style="width:161px; ">60%</td></tr><tr><td style="width:286px; ">VI</td><td style="width:161px; ">65%</td></tr><tr><td style="width:286px; ">VII</td><td style="width:161px; ">75%</td></tr><tr><td style="width:286px; ">VIII</td><td style="width:161px; ">85%</td></tr><tr><td style="width:286px; ">IX</td><td style="width:161px; ">90%</td></tr><tr><td style="width:286px; ">X</td><td style="width:161px; ">100%</td></tr></tbody></table>
+GRUPO OCUPACIONAL
 
-ANEXO IV<br>
+% relacionado ao limite R$ 2.000,00
+
+I
+
+25%
+
+II
+
+35%
+
+III
+
+40%
+
+IV
+
+50%
+
+V
+
+60%
+
+VI
+
+65%
+
+VII
+
+75%
+
+VIII
+
+85%
+
+IX
+
+90%
+
+X
+
+100%
+
+ANEXO IV
+
 Grupos operacionais, descrições e limites correspondentes
 
-<table><tbody><tr><td style="width:156px;  height:63px; ">Grupo Ocupacional</td><td style="width:348px;  height:63px; ">Descrição</td><td style="width:84px;  height:63px; ">% do limite</td></tr><tr><td style="width: 156px; text-align: center;">I</td><td style="width:348px; ">Realiza tarefas operacionais de baixa e média complexidade, sob supervisão.<br>Atribuições:<br>Baixa complexidade: realiza serviços de limpeza, organização e conservação das diversas dependências, manuseando material de limpeza e obedecendo aos critérios de segurança, realiza atividades de copa e cozinha, carga e descarga de material e equipamentos, distribuição de correspondências, reprografia e encadernação, recebimento e encaminhamento de processos, dentre outros trabalhos similares.<br>Média complexidade: realiza condução de veículos, reparos elétricos, hidráulicos e mecânicos, controle, distribuição e abastecimento de material, montagem e desmontagem de móveis, divisórias e equipamentos, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">25%</td></tr><tr><td style="width: 156px; text-align: center;">II</td><td style="width:348px; ">Realiza tarefas operacionais, sendo referência técnica para o grupo e supervisionando a equipe operacional da sua área.<br>Atribuições: acompanha e orienta as atividades de manutenção corretiva e preventiva de equipamentos e infraestrutura, elabora relatórios periódicos, indicando ocorrências, resultados de inspeção ou acontecimentos de interesse para informar superiores, capacidade de realizar as mesmas atividades do Grupo Operacional, coordenando a equipe e suas atividades, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">35%</td></tr><tr><td style="width: 156px; text-align: center;">III</td><td style="width:348px; ">Executa atividades padronizadas, desenvolvendo as suas competências e habilidades para o exercício de suas tarefas, mas sem autonomia decisória.<br>Atribuições: recepção, protocolo, atendimento telefônico e presencial de servidores e usuários, digitação, recebimento, triagem, organização, encaminhamento e arquivamento de documentos, processos e correspondências, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">40%</td></tr><tr><td style="width: 156px; text-align: center;">IV</td><td style="width:348px; ">Executa tarefas de média complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas.<br>Atribuições: realizar trabalhos e atividades técnicas, administrativas, recursos humanos, financeiras, orçamentárias, contábeis, patrimoniais e operacionais, elaborar atos administrativos, tais como despachos, ofícios e portarias, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">50%</td></tr><tr><td style="width: 156px; text-align: center;">V</td><td style="width:348px; ">É referência técnica para o grupo, utiliza suas competências e habilidades na execução de suas tarefas e supervisiona a equipe administrativa da sua área.<br>Atribuições: Acompanha processos, controla fluxo de trabalho, elabora relatórios gerenciais, capacidade de realizar as mesmas atividades do Grupo Administrativo I e II, coordenando a equipe e suas atividades, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">60%</td></tr><tr><td style="width: 156px; text-align: center;">VI</td><td style="width:348px; ">Executa tarefas de média complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise, colabora para a organização e aprimoramento do seu setor.<br>Atribuições: analisa processos de menor complexidade, elabora e monitora relatórios, atua como Fiscal de Contratos, realiza atendimento para suporte e resolução de problemas técnicos de informática, realiza instalação, configuração e manutenção de equipamentos e infraestrutura de redes, realiza trabalhos técnicos, conforme a legislação específica, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">65%</td></tr><tr><td style="width: 156px; text-align: center;">VII</td><td style="width:348px; ">Executa tarefas de alta complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise e planejamento, colabora para a organização e aprimoramento do seu setor, participa das atividades de acompanhamento e controle e auxilia a supervisão da equipe.<br>Atribuições: elabora anteprojetos de lei, minutas de decretos, de contratos, de editais, termo de referência e outros atos normativos; elabora projetos técnicos; analisa processos e emite pareceres técnicos ou jurídicos; elabora e monitora relatórios de maior complexidade; executa trabalhos relacionados com desenvolvimento e implantação em sua área de atuação; desenvolve, implementa e administra sistemas informatizados; executa serviços de contabilidade de alta complexidade; atua em processos judiciais em defesa dos interesses da administração municipal; ministra curso de capacitação e treinamentos relacionados a sua área de atuação; realiza trabalhos técnicos, conforme legislação específica, atua como Gestor de Contrato, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">75%</td></tr><tr><td style="width: 156px; text-align: center;">VIII</td><td style="width:348px; ">Executa atividades que exigem estudos analíticos, tem pleno domínio de suas atribuições e conhecimento aprofundado das atividades do setor, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que envolvem a avaliação crítica dos processos em que atua.<br>Atribuições: planeja, examina, inspeciona, ajusta, corrige, controla, certifica e executa trabalhos de fiscalização, tem poder de autuar quando necessário, exerce o poder de polícia administrativa, observando as normas e legislações específicas, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">85%</td></tr><tr><td style="width: 156px; text-align: center;">IX</td><td style="width:348px; ">Executa tarefas de alta complexidade, tem pleno domínio de suas atribuições, é referência técnica para o grupo, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise e planejamento, é responsável pela organização e gestão das atividades do seu setor atuando diretamente no seu aprimoramento por meio da avaliação crítica dos processos em que atua, considerando os impactos nos setores relacionados, supervisiona equipes e/ou projetos.<br>Atribuições: planeja, inspeciona e controla atividades relacionadas a sua área de atuação; gerencia recursos materiais, patrimoniais, financeiros, tecnológicos e humanos da Unidade Administrativa a qual está subordinado, capacidade de realizar as mesmas atividades do Grupo Técnico I e Técnico II, coordenando a equipe e suas atividades, dentre outros trabalhos similares.</td><td style="width: 84px; text-align: center;">90%</td></tr><tr><td style="width: 156px; text-align: center;">X</td><td style="width:348px; ">Planeja e coordena atividades de alta complexidade, capacidade de gerenciar em condições de turbulência, adversidades e incertezas, com poder decisório e conciliador, supervisiona e mobiliza equipes a partir de uma visão sistêmica da Prefeitura com outros Órgãos e Instituições.<br>Atribuições: emite pareceres em processos administrativos ou outros atos legais, elabora relatórios gerenciais, conduz reuniões, define e gerencia ações estratégicas voltadas para as melhores práticas de recursos humanos, financeiro e material, além de providenciar meios para que as atividades sejam desenvolvidas de acordo com as normas, leis e procedimentos técnicos do município, acompanha o trabalho dos servidores lotados na unidade e subunidades sob sua direção, observando os critérios definidos pelo Regimento Interno do Órgão ou Entidade, dentre outros trabalhos similares, ordena despesa, representa a pasta em eventos e reuniões intra e extra prefeitura, etc.</td><td style="width: 84px; text-align: center;">100%</td></tr></tbody></table>
+Grupo Ocupacional
 
-Anexo V<br>
-RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO DOS SERVIDORES<br>
+Descrição
+
+% do limite
+
+I
+
+Realiza tarefas operacionais de baixa e média complexidade, sob supervisão.
+Atribuições:
+Baixa complexidade: realiza serviços de limpeza, organização e conservação das diversas dependências, manuseando material de limpeza e obedecendo aos critérios de segurança, realiza atividades de copa e cozinha, carga e descarga de material e equipamentos, distribuição de correspondências, reprografia e encadernação, recebimento e encaminhamento de processos, dentre outros trabalhos similares.
+Média complexidade: realiza condução de veículos, reparos elétricos, hidráulicos e mecânicos, controle, distribuição e abastecimento de material, montagem e desmontagem de móveis, divisórias e equipamentos, dentre outros trabalhos similares.
+
+25%
+
+II
+
+Realiza tarefas operacionais, sendo referência técnica para o grupo e supervisionando a equipe operacional da sua área.
+Atribuições: acompanha e orienta as atividades de manutenção corretiva e preventiva de equipamentos e infraestrutura, elabora relatórios periódicos, indicando ocorrências, resultados de inspeção ou acontecimentos de interesse para informar superiores, capacidade de realizar as mesmas atividades do Grupo Operacional, coordenando a equipe e suas atividades, dentre outros trabalhos similares.
+
+35%
+
+III
+
+Executa atividades padronizadas, desenvolvendo as suas competências e habilidades para o exercício de suas tarefas, mas sem autonomia decisória.
+Atribuições: recepção, protocolo, atendimento telefônico e presencial de servidores e usuários, digitação, recebimento, triagem, organização, encaminhamento e arquivamento de documentos, processos e correspondências, dentre outros trabalhos similares.
+
+40%
+
+IV
+
+Executa tarefas de média complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas.
+Atribuições: realizar trabalhos e atividades técnicas, administrativas, recursos humanos, financeiras, orçamentárias, contábeis, patrimoniais e operacionais, elaborar atos administrativos, tais como despachos, ofícios e portarias, dentre outros trabalhos similares.
+
+50%
+
+V
+
+É referência técnica para o grupo, utiliza suas competências e habilidades na execução de suas tarefas e supervisiona a equipe administrativa da sua área.
+Atribuições: Acompanha processos, controla fluxo de trabalho, elabora relatórios gerenciais, capacidade de realizar as mesmas atividades do Grupo Administrativo I e II, coordenando a equipe e suas atividades, dentre outros trabalhos similares.
+
+60%
+
+VI
+
+Executa tarefas de média complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise, colabora para a organização e aprimoramento do seu setor.
+Atribuições: analisa processos de menor complexidade, elabora e monitora relatórios, atua como Fiscal de Contratos, realiza atendimento para suporte e resolução de problemas técnicos de informática, realiza instalação, configuração e manutenção de equipamentos e infraestrutura de redes, realiza trabalhos técnicos, conforme a legislação específica, dentre outros trabalhos similares.
+
+65%
+
+VII
+
+Executa tarefas de alta complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise e planejamento, colabora para a organização e aprimoramento do seu setor, participa das atividades de acompanhamento e controle e auxilia a supervisão da equipe.
+Atribuições: elabora anteprojetos de lei, minutas de decretos, de contratos, de editais, termo de referência e outros atos normativos; elabora projetos técnicos; analisa processos e emite pareceres técnicos ou jurídicos; elabora e monitora relatórios de maior complexidade; executa trabalhos relacionados com desenvolvimento e implantação em sua área de atuação; desenvolve, implementa e administra sistemas informatizados; executa serviços de contabilidade de alta complexidade; atua em processos judiciais em defesa dos interesses da administração municipal; ministra curso de capacitação e treinamentos relacionados a sua área de atuação; realiza trabalhos técnicos, conforme legislação específica, atua como Gestor de Contrato, dentre outros trabalhos similares.
+
+75%
+
+VIII
+
+Executa atividades que exigem estudos analíticos, tem pleno domínio de suas atribuições e conhecimento aprofundado das atividades do setor, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que envolvem a avaliação crítica dos processos em que atua.
+Atribuições: planeja, examina, inspeciona, ajusta, corrige, controla, certifica e executa trabalhos de fiscalização, tem poder de autuar quando necessário, exerce o poder de polícia administrativa, observando as normas e legislações específicas, dentre outros trabalhos similares.
+
+85%
+
+IX
+
+Executa tarefas de alta complexidade, tem pleno domínio de suas atribuições, é referência técnica para o grupo, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise e planejamento, é responsável pela organização e gestão das atividades do seu setor atuando diretamente no seu aprimoramento por meio da avaliação crítica dos processos em que atua, considerando os impactos nos setores relacionados, supervisiona equipes e/ou projetos.
+Atribuições: planeja, inspeciona e controla atividades relacionadas a sua área de atuação; gerencia recursos materiais, patrimoniais, financeiros, tecnológicos e humanos da Unidade Administrativa a qual está subordinado, capacidade de realizar as mesmas atividades do Grupo Técnico I e Técnico II, coordenando a equipe e suas atividades, dentre outros trabalhos similares.
+
+90%
+
+X
+
+Planeja e coordena atividades de alta complexidade, capacidade de gerenciar em condições de turbulência, adversidades e incertezas, com poder decisório e conciliador, supervisiona e mobiliza equipes a partir de uma visão sistêmica da Prefeitura com outros Órgãos e Instituições.
+Atribuições: emite pareceres em processos administrativos ou outros atos legais, elabora relatórios gerenciais, conduz reuniões, define e gerencia ações estratégicas voltadas para as melhores práticas de recursos humanos, financeiro e material, além de providenciar meios para que as atividades sejam desenvolvidas de acordo com as normas, leis e procedimentos técnicos do município, acompanha o trabalho dos servidores lotados na unidade e subunidades sob sua direção, observando os critérios definidos pelo Regimento Interno do Órgão ou Entidade, dentre outros trabalhos similares, ordena despesa, representa a pasta em eventos e reuniões intra e extra prefeitura, etc.
+
+100%
+
+Anexo V
+
+RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO DOS SERVIDORES
+
  
 
-<table><tbody><tr><td colspan="5" style=" width:709px;    ">RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO DOS SERVIDORES</td></tr><tr><td colspan="5" style=" width:709px;    ">EFETIVO (&nbsp;&nbsp;&nbsp; )&nbsp;&nbsp; COMISSIONADO&nbsp; (&nbsp;&nbsp;&nbsp; )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DATA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/</td></tr><tr><td colspan="5" style=" width:709px;    ">Órgão:</td></tr><tr><td colspan="2" style=" width:586px;    ">Servidor (a):</td><td colspan="3" style=" width:123px;    ">Matricula:</td></tr><tr><td colspan="2" style=" width:586px;  height:33px;   ">Indicadores de Desempenho: Idoneidade; Disciplina, Pontualidade, Assiduidades, Capacidade de Iniciativa, Produtividade, Efetividade e Responsabilidade.</td><td style=" width:38px;  height:33px;   ">A</td><td style=" width:38px;  height:33px;   ">AP</td><td style=" width:47px;  height:33px;   ">NA</td></tr><tr><td colspan="2" style=" width:586px;  height:20px;   ">1. IDONEIDADE: Qualidade do que ou de quem é idôneo: quem tem capacidade para desempenhar determinada atividade ou ocupar certo cargo, ou de quem se pode supor honestidade. Aptidão, ser conveniente, adequado, próprio para desempenhar as atribuições do cargo, ética pública. Capacidade legal e moral para realizar ações adequadas às exigências das tarefas de sua competência voltadas para as metas da unidade de trabalho. Sabe dos seus compromissos e demonstra discrição sobre assuntos com os quais trabalha.</td><td style=" width:38px;  height:20px;   ">&nbsp;</td><td style=" width:38px;  height:20px;   ">&nbsp;</td><td style=" width:47px;  height:20px;   ">&nbsp;</td></tr><tr><td colspan="2" style=" width:586px;  height:61px;   ">2. DISCIPLINA: Obediência às regras, aos superiores, ao regulamento. Ordem, conduta que assegura o bem estar do indivíduo ou o bom funcionamento de uma organização. Comportamento metódico, determinado, constância, respeito às leis e normas, organização de tarefas, considerando o cumprimento dos procedimentos estabelecidos e o respeito à hierarquia. Conduta que assegura o bem estar do indivíduo ou o bom funcionamento da unidade de trabalho. Refere-se à organização das tarefas, considerando o cumprimento dos procedimentos estabelecidos, o respeito à hierarquia. Cumpre efetivamente as normas legais e regulamentares e as ordens disciplinares. Suas ações são executadas conforme o estabelecido.</td><td style=" width:38px;  height:61px;   ">&nbsp;</td><td style=" width:38px;  height:61px;   ">&nbsp;</td><td style=" width:47px;  height:61px;   ">&nbsp;</td></tr><tr><td colspan="2" style=" width:586px;  height:4px;   ">3. PONTUALIDADE: Qualidade ou condição de pontual, cumprimento de horário, compromisso com o horário combinado. Comparecimento contínuo, dentro do horário estabelecido para o trabalho.</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:47px;  height:4px;   ">&nbsp;</td></tr><tr><td colspan="2" style=" width:586px;  height:4px;   ">4. ASSIDUIDADE: Refere-se ao comparecimento contínuo, dentro do horário estabelecido para o trabalho com permanência produtiva do mesmo. Justifica ausências conforme as normas (em tempo hábil)</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:47px;  height:4px;   ">&nbsp;</td></tr><tr><td colspan="2" style=" width:586px;  height:4px;   ">5. CAPACIDADE DE INICIATIVA: Profissional, legal e moral para realizar ações adequadas às exigências das tarefas de sua competência. Apresenta sugestões para melhoria do trabalho e/ou busca participar na solução de situações previstas ou não na sua área de trabalho. Busca capacitar-se profissionalmente, inclusive aproveitando os cursos promovidos pela Administração Pública Municipal. Possui a iniciativa de buscar informações e conhecimentos necessários para executá-las nos padrões técnicos pertinentes</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:47px;  height:4px;   ">&nbsp;</td></tr><tr><td colspan="2" style=" width:586px;  height:4px;   ">6. PRODUTIVIDADE: Característica ou condição do que é produtivo; capaz de produzir. Volume de trabalho executado, dentro dos padrões exigidos, em determinado espaço de tempo, aliado à qualidade e atenção na execução correta das tarefas. Refere-se ao cumprimento do volume de trabalho executado, dentro dos padrões exigidos, em determinado espaço de tempo. Observa as prioridades e utiliza toda sua capacidade e recursos materiais disponíveis. Aplica métodos, técnicas e procedimentos adequados aos objetivos do trabalho. Empenha-se para melhorar a atividade a ser executada, contornando as dificuldades que lhe são impostas no dia a dia. Cumpre os prazos estabelecidos.</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:47px;  height:4px;   ">&nbsp;</td></tr><tr><td colspan="2" style=" width:586px;  height:4px;   ">7. EFETIVIDADE: Capacidade de ser efetivo; efetividade, eficácia, virtude ou característica de (alguém ou algo); ser competente, produtivo, de conseguir o melhor rendimento com o mínimo de erros e/ou dispêndios possíveis. Tem capacidade de adaptar-se a novos métodos e a atender solicitações de trabalho que lhe são próprias. Reage adequadamente acatando as orientações ou assimilando novos métodos/procedimentos de trabalho. Possui habilidade de trocar e discutir ideias e comunicar-se com a equipe de trabalho e com o público em geral, de forma clara, com argumentação precisa, apoiando-se no respeito mútuo. Mantém o relacionamento considerado adequado, respeitando os limites profissionais e pessoais. Zela pelo bom relacionamento no ambiente de trabalho, servindo como mediador e conciliador em situações entre colegas e/ou colegas e chefias.</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:47px;  height:4px;   ">&nbsp;</td></tr><tr><td colspan="2" style=" width:586px;  height:4px;   ">8. RESPONSABILIDADE: Obrigatoriedade de responder pelas obrigações próprias ou dos outros; caráter ou estado do que é responsável: quem ou aquele que responde pelos seus atos ou de outrem, que tem condições morais e ou materiais de assumir compromisso, que ou aquele que deve prestar contas perante certas autoridades. Assumir os resultados, positivos ou negativos, decorrentes dos atos praticados pelo próprio servidor ou, parcialmente, pela sua equipe de colaboradores. Refere-se ao zelo e organização de materiais, equipamentos e ambiente de trabalho. Desempenha as atribuições do cargo, respeitando as diretrizes e princípios da administração pública municipal. Mantém os cuidados na manutenção preventiva dos equipamentos na sua rotina, otimizando o ambiente de trabalho</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:38px;  height:4px;   ">&nbsp;</td><td style=" width:47px;  height:4px;   ">&nbsp;</td></tr><tr><td colspan="5" style=" width:709px;  height:4px;   ">&nbsp;</td></tr><tr><td colspan="5" style=" width:709px;  height:4px;   ">Pertence ao grupo ocupacional:&nbsp; (&nbsp;&nbsp; ) I&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) II&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) III&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) IV&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) VI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) VII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) VIII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) IX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) X</td></tr><tr><td style=" width:85px;    ">Percentual %&nbsp;&nbsp;&nbsp;</td><td colspan="4" style=" width:624px;    ">&nbsp;</td></tr><tr><td colspan="5" style=" width:709px;    ">&nbsp;</td></tr><tr><td colspan="5" style=" width:709px;  height:66px;   ">OBS.</td></tr></tbody></table>
+<table><tbody><tr><td colspan="5">RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO DOS SERVIDORES</td></tr><tr><td colspan="5">EFETIVO (&nbsp;&nbsp;&nbsp; )&nbsp;&nbsp; COMISSIONADO&nbsp; (&nbsp;&nbsp;&nbsp; )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DATA:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/</td></tr><tr><td colspan="5">Órgão:</td></tr><tr><td colspan="2">Servidor (a):</td><td colspan="3">Matricula:</td></tr><tr><td colspan="2">Indicadores de Desempenho: Idoneidade; Disciplina, Pontualidade, Assiduidades, Capacidade de Iniciativa, Produtividade, Efetividade e Responsabilidade.</td><td>A</td><td>AP</td><td>NA</td></tr><tr><td colspan="2">1. IDONEIDADE: Qualidade do que ou de quem é idôneo: quem tem capacidade para desempenhar determinada atividade ou ocupar certo cargo, ou de quem se pode supor honestidade. Aptidão, ser conveniente, adequado, próprio para desempenhar as atribuições do cargo, ética pública. Capacidade legal e moral para realizar ações adequadas às exigências das tarefas de sua competência voltadas para as metas da unidade de trabalho. Sabe dos seus compromissos e demonstra discrição sobre assuntos com os quais trabalha.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="2">2. DISCIPLINA: Obediência às regras, aos superiores, ao regulamento. Ordem, conduta que assegura o bem estar do indivíduo ou o bom funcionamento de uma organização. Comportamento metódico, determinado, constância, respeito às leis e normas, organização de tarefas, considerando o cumprimento dos procedimentos estabelecidos e o respeito à hierarquia. Conduta que assegura o bem estar do indivíduo ou o bom funcionamento da unidade de trabalho. Refere-se à organização das tarefas, considerando o cumprimento dos procedimentos estabelecidos, o respeito à hierarquia. Cumpre efetivamente as normas legais e regulamentares e as ordens disciplinares. Suas ações são executadas conforme o estabelecido.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="2">3. PONTUALIDADE: Qualidade ou condição de pontual, cumprimento de horário, compromisso com o horário combinado. Comparecimento contínuo, dentro do horário estabelecido para o trabalho.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="2">4. ASSIDUIDADE: Refere-se ao comparecimento contínuo, dentro do horário estabelecido para o trabalho com permanência produtiva do mesmo. Justifica ausências conforme as normas (em tempo hábil)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="2">5. CAPACIDADE DE INICIATIVA: Profissional, legal e moral para realizar ações adequadas às exigências das tarefas de sua competência. Apresenta sugestões para melhoria do trabalho e/ou busca participar na solução de situações previstas ou não na sua área de trabalho. Busca capacitar-se profissionalmente, inclusive aproveitando os cursos promovidos pela Administração Pública Municipal. Possui a iniciativa de buscar informações e conhecimentos necessários para executá-las nos padrões técnicos pertinentes</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="2">6. PRODUTIVIDADE: Característica ou condição do que é produtivo; capaz de produzir. Volume de trabalho executado, dentro dos padrões exigidos, em determinado espaço de tempo, aliado à qualidade e atenção na execução correta das tarefas. Refere-se ao cumprimento do volume de trabalho executado, dentro dos padrões exigidos, em determinado espaço de tempo. Observa as prioridades e utiliza toda sua capacidade e recursos materiais disponíveis. Aplica métodos, técnicas e procedimentos adequados aos objetivos do trabalho. Empenha-se para melhorar a atividade a ser executada, contornando as dificuldades que lhe são impostas no dia a dia. Cumpre os prazos estabelecidos.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="2">7. EFETIVIDADE: Capacidade de ser efetivo; efetividade, eficácia, virtude ou característica de (alguém ou algo); ser competente, produtivo, de conseguir o melhor rendimento com o mínimo de erros e/ou dispêndios possíveis. Tem capacidade de adaptar-se a novos métodos e a atender solicitações de trabalho que lhe são próprias. Reage adequadamente acatando as orientações ou assimilando novos métodos/procedimentos de trabalho. Possui habilidade de trocar e discutir ideias e comunicar-se com a equipe de trabalho e com o público em geral, de forma clara, com argumentação precisa, apoiando-se no respeito mútuo. Mantém o relacionamento considerado adequado, respeitando os limites profissionais e pessoais. Zela pelo bom relacionamento no ambiente de trabalho, servindo como mediador e conciliador em situações entre colegas e/ou colegas e chefias.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="2">8. RESPONSABILIDADE: Obrigatoriedade de responder pelas obrigações próprias ou dos outros; caráter ou estado do que é responsável: quem ou aquele que responde pelos seus atos ou de outrem, que tem condições morais e ou materiais de assumir compromisso, que ou aquele que deve prestar contas perante certas autoridades. Assumir os resultados, positivos ou negativos, decorrentes dos atos praticados pelo próprio servidor ou, parcialmente, pela sua equipe de colaboradores. Refere-se ao zelo e organização de materiais, equipamentos e ambiente de trabalho. Desempenha as atribuições do cargo, respeitando as diretrizes e princípios da administração pública municipal. Mantém os cuidados na manutenção preventiva dos equipamentos na sua rotina, otimizando o ambiente de trabalho</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td colspan="5">&nbsp;</td></tr><tr><td colspan="5">Pertence ao grupo ocupacional:&nbsp; (&nbsp;&nbsp; ) I&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) II&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) III&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) IV&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) VI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) VII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) VIII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) IX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (&nbsp;&nbsp; ) X</td></tr><tr><td>Percentual %&nbsp;&nbsp;&nbsp;</td><td colspan="4">&nbsp;</td></tr><tr><td colspan="5">&nbsp;</td></tr><tr><td colspan="5">OBS.</td></tr></tbody></table>
 
 ASSINATURA DO GESTOR DA PASTA:

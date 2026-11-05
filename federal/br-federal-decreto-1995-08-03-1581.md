@@ -1,7 +1,3 @@
-1
-
-###DEC-001581-0-000-03-08-1995@@@
-
 DECRETO Nº 1.581, DE 3 DE AGOSTO DE 1995.
 
 Dá nova redação a dispositivos do Anexo I ao Decreto nº 1.437, de 4 de abril de 1995, que aprova a Estrutura Regimental do Instituto Nacional de Desenvolvimento do Desporto.

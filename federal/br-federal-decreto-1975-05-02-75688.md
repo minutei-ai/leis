@@ -1,5 +1,3 @@
-###DEC-075688-0-000-02-05-1975@@@
-
 DECRETO Nº 75.688, DE 2 DE MAIO DE 1975.
 
 Dispõe sobre o Programa Nacional de Armazenagem e dá outras providências.

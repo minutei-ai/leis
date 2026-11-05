@@ -1,5 +1,3 @@
-###DEC-052986-0-000-27-11-1963@@@
-
 Decreto Nº 52.986, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia Brasileira de Usinas Metalúrgicas a pesquisar minério de ferro, no município de Santa Bárbara, Estado de Minas Gerais.

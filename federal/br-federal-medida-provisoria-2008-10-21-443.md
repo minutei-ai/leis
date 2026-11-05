@@ -1,5 +1,3 @@
-###MPV-000443-0-000-21-10-2008@@@
-
 MEDIDA PROVISÓRIA Nº 443, DE 21 DE OUTUBRO DE 2008.
 
 Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil, e dá outras providências.

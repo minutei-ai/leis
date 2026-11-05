@@ -1,5 +1,3 @@
-###DEC-054335-0-000-29-09-1964@@@
-
 DECRETO Nº 54.335, DE 29 DE SETEMBRO DE 1964.
 
 Outorga ao Município de Almino Afonso concessão para distribuir energia elétrica.

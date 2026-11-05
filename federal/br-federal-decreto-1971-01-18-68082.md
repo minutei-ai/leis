@@ -1,5 +1,3 @@
-###DEC-068082-0-000-18-01-1971@@@
-
 DECRETO Nº 68.082, de 18 de Janeiro de 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Conselho Nacional de Pesquisas.

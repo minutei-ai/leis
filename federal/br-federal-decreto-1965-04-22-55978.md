@@ -1,5 +1,3 @@
-###DEC-055978-0-000-22-04-1965@@@
-
 DECRETO Nº 55.978, DE 22 DE ABRIL DE 1965
 
 Autoriza estrangeira a adquirir, em revigoração de aforamento, o domínio útil de fração ideal do terreno da marinha e acrescido que menciona, no Estado de Guanabara.

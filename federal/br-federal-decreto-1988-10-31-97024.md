@@ -1,5 +1,3 @@
-###DEC-097024-0-000-31-10-1988@@@
-
 DECRETO N° 97.024, DE 31 DE OUTUBRO DE 1988
 
 Reajusta o valor do Piso Nacional de Salários.

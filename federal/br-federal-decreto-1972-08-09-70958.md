@@ -1,5 +1,3 @@
-###DEC-070958-0-000-09-08-1972@@@
-
 Decreto nº 70.958, de 09 de agosto de 1972.
 
 Extingue o Curso de Informações da Escola Superior de Guerra e dá outras providências.

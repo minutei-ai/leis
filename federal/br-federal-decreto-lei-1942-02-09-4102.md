@@ -1,5 +1,3 @@
-###DEL-004102-0-000-09-02-1942@@@
-
 DECRETO-LEI N. 4.102 – DE 9 DE FEVEREIRO DE 1942
 
 Cria o Território Federal de Fernando de Noronha

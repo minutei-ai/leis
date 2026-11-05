@@ -1,5 +1,3 @@
-###DEC-003391-0-000-23-03-2000@@@
-
 DECRETO Nº 3.391, DE 23 DE MARÇO DE 2000.
 
 Estende o prazo estabelecido no art. 1º Decreto nº 3.140, de 16 de agosto de 1999.

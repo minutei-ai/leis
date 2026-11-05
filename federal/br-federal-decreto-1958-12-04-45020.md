@@ -1,5 +1,3 @@
-###DEC-045020-0-000-04-12-1958@@@
-
 DECRETO Nº 45.020, DE 4 DE DEZEMBRO DE 1958.
 
 Autoriza a Petróleo Brasileiro S.A., Petrobrás, a estender as linhas de subtransmissão e construir subestações para distribuição da energia elétrica em sua zona petrolífera, no Estado da Bahia.

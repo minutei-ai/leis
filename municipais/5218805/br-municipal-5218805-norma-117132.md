@@ -10,7 +10,7 @@ Art. 1º Fica alterada a Lei Complementar n°. 182, de 6 de maio de 2020, para c
 
 **QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)**
 
-<table style="width: 70%;"><tbody><tr><td style="width: 119px;">&nbsp;</td><td style="text-align: center; width: 203px;">ESPÉCIE/NÍVEL</td><td style="text-align: center; width: 251px;">CARGO DE REFERÊNCIA</td><td style="text-align: center; width: 131px;">QUANTITATIVO</td><td style="text-align: center; width: 258px;">VALOR</td></tr><tr><td colspan="1" rowspan="4" style="width: 119px;">CARGOS DE PROVIMENTO EM COMISSÃO (DAS) Grupo de Cargos de Chefia, Direção e Assessoramento&nbsp;Superior</td><td style="width: 203px; text-align: center;">.................................</td><td style="width: 251px; text-align: center;">.................................</td><td style="width: 131px; text-align: center;">.................................</td><td style="width: 258px; text-align: center;">.................................</td></tr><tr><td colspan="1" rowspan="2" style="width: 179px; text-align: center;">DAS-4</td><td style="width: 251px; text-align: center;">Coordenador</td><td style="width: 131px; text-align: center;">160</td><td colspan="1" rowspan="2" style="width: 258px; text-align: center;">.................................</td></tr><tr><td style="width: 251px; text-align: center;">.................................</td><td style="width: 131px; text-align: center;">.................................</td></tr><tr><td style="width: 179px; text-align: center;">.................................</td><td style="width: 251px; text-align: center;">.................................</td><td style="width: 131px; text-align: center;">.................................</td><td style="width: 258px; text-align: center;">.................................</td></tr></tbody></table>
+<table><tbody><tr><td>&nbsp;</td><td>ESPÉCIE/NÍVEL</td><td>CARGO DE REFERÊNCIA</td><td>QUANTITATIVO</td><td>VALOR</td></tr><tr><td colspan="1" rowspan="4">CARGOS DE PROVIMENTO EM COMISSÃO (DAS) Grupo de Cargos de Chefia, Direção e Assessoramento&nbsp;Superior</td><td>.................................</td><td>.................................</td><td>.................................</td><td>.................................</td></tr><tr><td colspan="1" rowspan="2">DAS-4</td><td>Coordenador</td><td>160</td><td colspan="1" rowspan="2">.................................</td></tr><tr><td>.................................</td><td>.................................</td></tr><tr><td>.................................</td><td>.................................</td><td>.................................</td><td>.................................</td></tr></tbody></table>
 
 “ANEXO V
 
@@ -61,7 +61,45 @@ DESCRIÇÃO DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)
 
 ......................................................................................................................................................
 
-<table style="width: 70%;"><tbody><tr><td><strong>ESPÉCIE/NÍVEL</strong></td><td><strong>FUNÇÃO</strong></td><td><strong>DESCRIÇÃO</strong></td><td><strong>QUANTITATIVO</strong></td></tr><tr><td>........................</td><td>........................</td><td>........................</td><td>........................</td></tr><tr><td>FG-2</td><td>Presidente da Comissão Especial de Licitação</td><td>........................</td><td>2</td></tr><tr><td>FG-2</td><td>Presidente da Comissão de Processos</td><td>........................</td><td>........................</td></tr><tr><td>........................</td><td>........................</td><td>........................</td><td>........................</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTITATIVO**
+
+........................
+
+........................
+
+........................
+
+........................
+
+FG-2
+
+Presidente da Comissão Especial de Licitação
+
+........................
+
+2
+
+FG-2
+
+Presidente da Comissão de Processos
+
+........................
+
+........................
+
+........................
+
+........................
+
+........................
+
+........................
 
 ......................................................................................................................................................
 

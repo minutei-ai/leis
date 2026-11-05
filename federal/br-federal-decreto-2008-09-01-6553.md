@@ -1,5 +1,3 @@
-###DEC-006553-0-000-01-09-2008@@@
-
 DECRETO Nº 6.553, DE 1º DE SETEMBRO DE 2008.
 
 Fixa os limites de área rural a que se refere o inciso II do § 2o do art. 17 da Lei no 8.666, de 21 de junho de 1993.

@@ -1,5 +1,3 @@
-###DEC-048830-0-000-12-08-1960@@@
-
 DECRETO Nº 48.830, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza a aquisição de bens e instalações, pela Emprêsa Fluminense de Energia Elétrica S.A, dos acervos de Companhia Fôrça e Luz de Rezende e da Prefeitura Municipal de Resende.

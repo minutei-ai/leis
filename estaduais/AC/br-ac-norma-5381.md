@@ -1,6 +1,10 @@
 > **LEI Nº 4.063, DE 15 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fixa o subsídio do governador e do vice-governador para o exercício financeiro de 2023.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fixa o subsídio do governador e do vice-governador para o exercício financeiro de 2023.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

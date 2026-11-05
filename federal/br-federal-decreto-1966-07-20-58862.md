@@ -1,5 +1,3 @@
-###DEC-058862-0-000-20-07-1966@@@
-
 DECRETO Nº 58.862, DE 20 DE JULHO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Rochedo de Seguros, inclusive aumento de capital social.

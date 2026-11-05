@@ -1,5 +1,3 @@
-###MPV-002027-0-043-27-09-2000@@@
-
 Medida Provisória nº 2.027-43, de 27 de SETEMBRO de 2000.
 
 Acresce e altera dispositivos do Decreto-Lei nº 3.365, de 21 de junho de 1941, das Leis nºs 4.504, de 30 de novembro de 1964, 8.177, de 1º de março de 1991, e 8.629, de 25 de fevereiro de 1993, e dá outras providências.

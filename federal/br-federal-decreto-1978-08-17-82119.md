@@ -1,5 +1,3 @@
-###DEC-082119-0-000-17-08-1978@@@
-
 Decreto nº 82.119, de 17 de agosto de 1978.
 
 Fixa o fator de reajustamento salarial relativo a agosto de 1978.

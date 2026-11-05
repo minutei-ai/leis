@@ -1,6 +1,10 @@
 > **LEI Nº 3.716, DE 15 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o peticionamento eletrônico de recurso de infrações, defesa prévia, solicitação de advertência por escrito ou indicação de condutor em multas aplicadas por autoridades de trânsito, junto ao Departamento Estadual de Trânsito do Acre - DETRAN/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o peticionamento eletrônico de recurso de infrações, defesa prévia, solicitação de advertência por escrito ou indicação de condutor em multas aplicadas por autoridades de trânsito, junto ao Departamento Estadual de Trânsito do Acre - DETRAN/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

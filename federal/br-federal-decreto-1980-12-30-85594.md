@@ -1,5 +1,3 @@
-###DEC-085594-0-000-30-12-1980@@@
-
 Decreto nº 85.594, de 30 de dezembro de 1980.
 
 Concede à USINA SIDERÚRGICA DA BAHIA S/A - USIBA autorização para proceder a aumento do seu capital autorizado.

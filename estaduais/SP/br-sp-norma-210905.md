@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210905)<br>
-
 # DECRETO N° 69.513, DE 30 DE ABRIL DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria de Turismo e Viagens nos Sistemas de Administração Financeira e Orçamentária do Estado._

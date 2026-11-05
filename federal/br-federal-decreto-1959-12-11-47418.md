@@ -1,5 +1,3 @@
-###DEC-047418-0-000-11-12-1959@@@
-
 DECRETO Nº 47.418, DE 11 DE DEZEMBRO DE 1959.
 
 Autoriza estrangeiro a adquirir, em regime de ocupação, fração ideal do terreno de acrescido de marinha que menciona, no Distrito Federal.

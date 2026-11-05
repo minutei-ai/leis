@@ -1,5 +1,3 @@
-###DEC-047641-0-000-15-01-1960@@@
-
 DECRETO Nº 47.641, DE 15 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Delmiro José de Seixas a pesquisar mica e quartzo no município de Santa Maria do Suaçui, Estado de Minas Gerais.

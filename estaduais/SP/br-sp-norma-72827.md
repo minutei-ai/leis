@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/72827)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12640-11.07.2007.html)
 
 # LEI N° 12.640, DE 11 DE JULHO DE 2007
@@ -7,8 +6,10 @@
 
 ### _Institui, no âmbito do Estado de São Paulo, pisos salariais para os trabalhadores que especifica, e dá providências correlatas._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
 ~~Artigo 1° - No âmbito do Estado de São Paulo, os pisos salariais mensais dos trabalhadores a seguir indicados ficam fixados em:~~
 
 ~~Artigo 1° - No âmbito do Estado de São Paulo, os pisos salariais mensais dos trabalhadores a seguir indicados ficam fixados em: (NR)~~
@@ -267,11 +268,18 @@ _~~\- Artigo 2° com redação dada pela [Lei n° 15.624, de 19/12/2014](https:/
 
 _\- Artigo 2° com redação dada pela [Lei n° 16.162, de 14/03/2016](https://www.al.sp.gov.br/norma/177505), em vigor a partir do primeiro dia do mês subsequente ao da data de sua publicação._
 
-**Artigo 3° -** Esta lei entra em vigor no primeiro dia do mês subseqüente ao da data de sua publicação.<br>
-Palácio dos Bandeirantes, aos 11 de julho de 2007.<br>
-José Serra<br>
-Guilherme Afif Domingos<br>
-Secretário do Emprego e Relações do Trabalho<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo 3° -** Esta lei entra em vigor no primeiro dia do mês subseqüente ao da data de sua publicação.
+
+Palácio dos Bandeirantes, aos 11 de julho de 2007.
+
+José Serra
+
+Guilherme Afif Domingos
+
+Secretário do Emprego e Relações do Trabalho
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 11 de julho de 2007.

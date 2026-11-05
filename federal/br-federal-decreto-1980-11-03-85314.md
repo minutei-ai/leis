@@ -1,5 +1,3 @@
-###DEC-085314-0-000-03-11-1980@@@
-
 Decreto nº 85.314, de 03 de novembro de 1980.
 
 Promulga o Convênio sobre Transportes Marítimos entre o Governo da República Federativa do Brasil e o Governo da República Popular da China.
@@ -146,4 +144,20 @@ ARTIGO XV
 
 Feito em Brasília, aos 22 dias do mês de maio de 1979, em dois exemplares, nas línguas portuguesa e chinesa, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-weight:bold">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-weight:bold">PELO GOVERNO DA REPÚBLICA POPULAR DA CHINA:</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Kang Shien)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA POPULAR DA CHINA:
+
+</td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+(Ramiro Saraiva Guerreiro)
+
+</td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+(Kang Shien)
+
+</td></tr></tbody></table>

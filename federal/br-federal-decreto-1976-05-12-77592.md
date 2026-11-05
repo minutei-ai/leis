@@ -1,5 +1,3 @@
-###DEC-077592-0-000-12-05-1976@@@
-
 DECRETO Nº 77.592 - DE 12 DE MAIO DE 1976
 
 Declara de uti8lidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão de FURNAS - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

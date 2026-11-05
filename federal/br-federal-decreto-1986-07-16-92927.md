@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7b07865e-65c1-4d66-adde-bd416bbe91b2/texto#nowhere)
 
-###DEC-092927-0-000-16-07-1986@@@
-
 # DECRETO Nº 92.927, DE 16 DE JULHO DE 1986
 
 Autoriza o funcionamento do curso de Pedagogia da Universidade do Estado da Bahia.

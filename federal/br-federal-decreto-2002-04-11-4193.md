@@ -1,5 +1,3 @@
-###DEC-004193-0-000-11-04-2002@@@
-
 DECRETO Nº 4.193, DE 11 DE ABRIL DE 2002 - 1ª PARTE
 
 Dispõe sobre a execução do Décimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai (MERCOSUL) e da República da Bolívia, de 3 de agosto de 2001.
@@ -54,44 +52,1148 @@ PRODUTOS DO ANEXO 1
 
 PREFERÊNCIAS OUTORGADAS PELO MERCOSUL
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NALADI / SH</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESCRIÇÃO</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>REGIME DO ACORDO Pref. Perc.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OBSERVAÇÃO</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3004</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Medicamentos (exceto os produtos das posições 3002 ou 3006) constituídos por produtos misturados ou não misturados, PREPARAdos para fins terapêuticos ou PROFILÁticos, APRESENTados em doses ou ACONDICIONAdos para venda a varejo.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3004.20.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Contendo outros antibióticos.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>À base de aureomicina Programa de liberação - Valor (P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>À base de aureomicina Programa de liberação -Valor(P) em vigor durante o ano indicado 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai:</span></p></td></tr></tbody></table>
+NALADI / SH
+
+DESCRIÇÃO
+
+REGIME DO ACORDO Pref. Perc.
+
+OBSERVAÇÃO
+
+3004
+
+Medicamentos (exceto os produtos das posições 3002 ou 3006) constituídos por produtos misturados ou não misturados, PREPARAdos para fins terapêuticos ou PROFILÁticos, APRESENTados em doses ou ACONDICIONAdos para venda a varejo.
+
+3004.20.00
+
+Contendo outros antibióticos.
+
+70
+
+À base de aureomicina Programa de liberação - Valor (P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006
+
+50
+
+À base de aureomicina Programa de liberação -Valor(P) em vigor durante o ano indicado 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai:
 
 PRODUTOS DO ANEXO 2
 
 PREFERÊNCIAS OUTORGADAS PELO MERCOSUL
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NALADI / SH</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESCRIÇÃO</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>REGIME DO ACORDO Pref. Perc.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OBSERVAÇÃO</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0102</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Animais vivos da espécie bovina</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0102.90</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0102.90.90</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Exceto bezerras e vitelas Programa de liberação -Valor(P) em vigor durante o ano indicado 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2208</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁLCOOL ETÍLICONÃO DESNATURADO, DE TEOR ALCOÓLICO EM VOLUME INFERIOR A 80% VOL; AGUARDENTES, LICORES E OUTRAS BEBIDAS ALCOÓLICAS; PREPARAÇÕES ALCOÓLICAS COMPOSTAS, DOS TIPOS UTILIZADOS NA FABRICAÇÃO DE BEBIDAS.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2208.20</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Aguardentes de vinho ou de bagaço de uvas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2208.20.20</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De bagaço de uvas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Aguardente de uva Singani Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2306</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TORTAS (BAGAÇOS) E OUTROS RESÍDUOS SOLIDOS, MESMO TRITURADOS OU EM "PELLETS", DA EXTRAÇÃO DE GORDURAS OU OLEOS VEGETAIS, EXCETO OS DAS POSIÇÕES 2304 E 2305</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2306.10.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Torta Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>88</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado 88,00-2001 90,00-2002 92,00-2003 94,00-2004 96,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2306.30.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De girassol</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em: vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2528</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Boratos naturais e seus concentrados (calcinados ou não), exceto boratos extraídos de águas salinas naturais; ácido bórico natural com teor máximo de 85% de H3BO3 em produto seco.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2528.90.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pela Argentina, Paraguai e Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3002</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SANGUE HUMANO; SANGUE ANIMAL PREPARADO PARA USOS TERAPÊUTICOS, PROFILÁTICOS OU DE DIAGNÓSTICO; SOROS ESPECÍFICOS DE ANIMAIS OU DE PESSOAS IMUNIZADOS, E OUTROS CONSTITUINTES DO SANGUE; VACINAS, TOXINAS, CULTURAS DE MICROORGANISMOS (EXCETO LEVEDURAS) E PRODUTOS SEMELHANTES.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3002.10</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Soros específicos de animais ou de pessoas imunizados, e outros constituintes do sangue</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3002.10.9</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3002.10.99</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>82</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado 82,00-2001 85,00-2002 88,00-2003 91,00-2004 94,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai</span></p></td></tr></tbody></table>
+NALADI / SH
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3004</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MEDICAMENTOS (EXCETO OS PRODUTOS DAS POSIÇÕES 3002, 3005 OU 3006) CONSTITUÍDOS POR PRODUTOS MISTURADOS OU NÃO MISTURADOS, PREPARADOS PARA: FINS TERAPÊUTICOS OU PROFILÁTICOS, APRESENTADOS EM DOSES OU ACONDICIONADOS PARA VENDA A VAREJO</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3004.10</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Contendo penicilinas ou seus derivados, com estrutura de acido penicilanico, ou estreptomicinas ou seus derivados</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3004.10.10</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>A base de penicilinas</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Exceto para uso veterinário Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3004.90</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3004.90.30</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Substitutos sintéticos do plasma humano</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3402</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AGENTES ORGÂNICOS DE SUPERFÍCIE (EXCETO SABÕES); PREPARAÇÕES TENSO ATIVAS, PREPARAÇÕES PARA LAVAGEM (INCLUÍDAS AS PREPARAÇÕES AUXILIARES DE LAVAGEM) E PREPARAÇÕES PARA LIMPEZA, MESMO CONTENDO SABÃO, EXCETO AS DA POSIÇÃO 3401</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3402.20.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Preparações acondicionadas para venda a varejo</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 70,00-2002 70,00-2003 70,00-2004 70,00-2005 70,00-2006 70,00-2007 70,00-2008 70,00-2009 80,00-2010 100,00-2011 Preferências outorgadas pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3402.90.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado 70,00-2001 70,00-2002 70,00-2003 70,00-2004 70,00-2005 70,00-2006 70,00-2007 70,00-2008 70,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P)em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3923</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ARTIGOS DE TRANSPORTE OU DE EMBALAGEM, DE PLÁSTICO; ROLHAS, TAMPAS, CÁPSULAS E OUTROS DISPOSITIVOS DESTINADOS A FECHAR RECIPIENTES, DE PLÁSTICO</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3923.30.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Garrafões, garrafas, frascos e artigos semelhantes</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Exceto pré-formas PET Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferências outorgadas pela Argentina, Brasil e Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Pré-formas PET: Programa de liberação - Valor(P) em vigor durante o ano indicado 80,00-2001 80,00-2002 80,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3923.50.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Rolhas, tampas cápsulas e outros dispositivos destinados a fechar recipientes</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3924</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SERVIÇOS DE MESA, ARTEFATOS DE COZINHA E OUTROS ARTIGOS DE USO DOMÉSTICO, DE HIGIENE OU DE TOUCADOR, DE PLÁSTICO.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3924.90</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3924.90.90</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4104</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>COUROS E PELES, DEPILADOS, DE BOVINOS E DE EQUÍDEOS, PREPARADOS, EXCETO OS DAS POSIÇÕES 4108 OU 4109.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4104.3</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros couros e peles, de bovinos e de equídeos, apergaminhados ou preparados após curtimento</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4104.39</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4104.39.1</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De bovino:</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4104.39.11</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Não apergaminhado</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4108</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>COUROS E PELES ACAMURÇADOS (INCLUÍDA A "CAMURCA COMBINADA")</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4108.00.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Couros e peles acamurçados (incluída a "camurça combinada")</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4109</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>COUROS E PELES ENVERNIZADOS OU REVESTIDOS; COUROS E PELES METALIZADOS.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4109.00.10</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Envernizados ou revestidos</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4202</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MALAS, MALETAS, FRASQUEIRAS, PASTAS E MALETAS PARA DOCUMENTOS E DE ESTUDANTE, ESTOJOS PARA ÓCULOS, PARA BINÓCULOS, PARA MÁQUINAS FOTOGRÁFICAS E FILMADORAS, PARA INSTRUMENTOS MUSICAIS, PARA ARMAS, E CONTINENTES SEMELHANTES; SACOS DE VIAGEM, "NECESSAIRES", MOCHILAS, BOLSAS, CARTEIRAS, PORTA-NÍQUEIS, CIGARREIRAS, TABAQUEIRAS, ESTOJOS PARA FERRAMENTAS, BOLSAS PARA ARTIGOS DE ESPORTE, ESCRÍNIOS PARA FRASCOS OU JÓIAS, "TROUSSES" PARA PÓS, E CONTINENTES SEMELHANTES, DE COURO NATURAL OU RECONSTITUÍDO, DE FOLHAS DE PLÁSTICO, DE MATÉRIAS TÊXTEIS, DE FIBRA VULCANIZADA OU DE CARTAO, OU RECOBERTOS, NO TODO OU NA MAIOR PARTE, DESSAS MESMAS MATÉRIAS.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4202.1</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Malas, maletas, frasqueiras, pastas e maletas para documentos e de estudante, e artefatos semelhantes</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4202.12.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Com a superfície exterior de plástico ou de matérias têxteis</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr></tbody></table>
+DESCRIÇÃO
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4202.2</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Bolsas, mesmo com tiracolo, incluídas as que não possuam alças</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4202.22.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Com a superfície exterior de folhas de plástico ou de matérias têxteis</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4202.9</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4202.91.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Com a superfície exterior de couro natural ou Reconstituído, ou de couro envernizado</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Bolsas Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4202.90.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Com a superfície exterior de folhas de plástico ou de materiais têxteis</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4820</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LIVROS DE REGISTRO E DE CONTABILIDADE, BLOCOS DE NOTAS, DE ENCOMENDAS, DE RECIBOS, DE APONTAMENTOS, DE PAPEL PARA CARTAS, AGENDAS E ARTIGOS SEMELHANTES, CADERNOS, PASTAS PARA DOCUMENTOS, CLASSIFICADORES, CAPAS PARA ENCADERNAÇÃO (DE FOLHAS SOLTAS OU OUTRAS), CAPAS DE PROCESSOS E OUTROS ARTIGOS ESCOLARES, DE ESCRITÓRIO OU DE PAPELARIA, INCLUÍDOS OS FORMULÁRIOS EM BLOCOS TIPO "MANIFOLD", MESMO COM FOLHAS INTERCALADAS DE PAPEL-CARBONO, DE PAPEL OU CARTAO; ALBÚNS PARA AMOSTRAS OU PARA COLEÇÕES E CAPAS PARA LIVROS, DE PAPEL OU CARTAO</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4820.10</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Livros de registro e de contabilidade, blocos denotas, de encomendas, de recibos, de apontamentos, de papel para cartas, agendas e artigos semelhantes</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4820.10.90</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 70,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4909</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARTÕES-POSTAIS, IMPRESSOS OU ILUSTRADOS; CARTÕES IMPRESSOS COM VOTOS OU MENSAGENS PESSOAIS, MESMO ILUSTRADOS, COM OU SEM ENVELOPES, GUARNIÇÕES OU APLICAÇÕES.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4909.00.90</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4911</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OUTROS IMPRESSOS, INCLUIDAS AS ESTAMPAS, GRAVURAS E FOTOGRAFIAS.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4911.9</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4911.91.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Estampas, gravuras e fotografias</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4911.99.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FIOS DE FILAMENTOS SINTÉTICOS (EXCETO LINHAS DE COSTURA), NÃO ACONDICIONADOS PARA VENDA A VAREJO, INCLUÍDOS OS MONOFILAMENTOS SINTÉTICOS COM MENOS DE 67 DECITEX.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402.3</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Fios texturizados</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402.33.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De poliesteres</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr></tbody></table>
+REGIME DO ACORDO Pref. Perc.
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6103</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TERNOS, CONJUNTOS, PALETÓS, CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO "BANADORES"), DE MALHA, DE USO MASCULINO.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6103.4</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Calças, jardineiras, bermudas e "shorts"</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6103.42.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>82</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 82,00-2001 85,00-2002 88,00-2003 91,00-2004 94,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6106</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CAMISAS, BLUSAS, BLUSAS "CHEMISIER", DE MALHA, DE USO FEMININO.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6106.10.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6110</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PULOVERES, CARDIGAS, COLETES E SEMELHANTES, DE MALHA.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6110.20.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6115</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MEIAS-CALÇAS, MEIAS DE QUALQUER ESPÉCIE INCLUÍDAS AS MEIAS PARA VARIZES, DE MALHA.</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6115.1</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Meias-calças:</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6115.19</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De outras matérias têxteis</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6115.19.10</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De lã ou de pelos finos</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6115.9</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros:</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6115.91.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De lã ou de pelos finos</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6201</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SOBRETUDOS, JAPONAS, GABÕES, CAPAS, ANORAQUES, CASACOS E SEMELHANTES, DE USO MASCULINO, EXCETO OS ARTEFATOS DA POSIÇÃO 6203</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6201.1</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Sobretudos, impermeáveis, japonas, gabões, capas e semelhantes</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6201.13.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De fibras sintéticas ou artificiais</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr></tbody></table>
+OBSERVAÇÃO
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6203</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6203.4</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6203.42.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.2</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.23.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.6</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.62.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 70,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6205</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6205.90.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6206</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6206.30.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina, Paraguai e Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6206.40.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>40</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 40,00-2001 40,00-2002 40,00-2003 40,00-2004 40,00-2005 40,00-2006 40,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Uruguai</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6209</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6209.20.00</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr></tbody></table>
+0102
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6306</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENCERADOS E TOLDOS; TENDAS; VELAS PARA EMBARCAÇÕES, PARA PRANCHAS A VELA OU PARA CARROS A VELA; ARTIGOS PARA ACAMPAMENTO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6306.1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Encerados e toldos</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6306.12.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De fibras sintéticas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6403</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CALÇADOS COM SOLA EXTERIOR DE BORRACHA, PLÁSTICO, COURO NATURAL OU ARTIFICIAL (RECONSTITUÍDO) E PARTE SUPERIOR DE COURO NATURAL.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6403.5</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros calçados, com sola exterior de couro natural</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6403.59.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina e pelo Uruguai</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Brasil</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6403.9</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros calçados</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6403.91.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Que cubram o tornozelo</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Brasil</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6403.99.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Brasil</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6405</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OUTROS CALÇADOS</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6405.90</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6405.90.40</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Com solas de outras matérias</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Brasil</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PEDRAS PRECIOSAS (EXCETO DIAMANTES) OU SEMIPRECIOSAS, NATURAIS, MESMO TRABALHADAS OU SELECIONADAS, MAS NÃO ENFIADAS, NEM MONTADAS, NEM ENGASTADAS; PEDRAS PRECIOSAS (EXCETO DIAMANTES) OU SEMIPRECIOSAS NATURAIS, NÃO SELECIONADAS, ENFIADAS TEMPORARIAMENTE PARA FACILIDADE DE TRANSPORTE.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:75.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Em bruto ou simplesmente serradas ou desbastadas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Animais vivos da espécie bovina
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.10.90</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outras</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.9</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Trabalhadas de outro modo:</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.99</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outras</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.99.90</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outras</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8007</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OUTRAS OBRAS DE ESTANHO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8007.00.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outras obras de estanho</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>88</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 88,00-2001 90,00-2002 92,00-2003 94,00-2004 96,00-2005 100,00-2006 Preferência outorgada pelo Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>9401</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ASSENTOS (EXCETO OS DA POSIÇÃO 9402), MESMO TRANSFORMÁVEIS EM CAMAS, E SUAS PARTES.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>9401.6</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros assentos, com armação de madeira:</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>9401.69.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai</span></p></td></tr></tbody></table>
+0102.90
+
+Outros
+
+0102.90.90
+
+Outros
+
+50
+
+Exceto bezerras e vitelas Programa de liberação -Valor(P) em vigor durante o ano indicado 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+2208
+
+ÁLCOOL ETÍLICONÃO DESNATURADO, DE TEOR ALCOÓLICO EM VOLUME INFERIOR A 80% VOL; AGUARDENTES, LICORES E OUTRAS BEBIDAS ALCOÓLICAS; PREPARAÇÕES ALCOÓLICAS COMPOSTAS, DOS TIPOS UTILIZADOS NA FABRICAÇÃO DE BEBIDAS.
+
+2208.20
+
+Aguardentes de vinho ou de bagaço de uvas
+
+2208.20.20
+
+De bagaço de uvas
+
+76
+
+Aguardente de uva Singani Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+2306
+
+TORTAS (BAGAÇOS) E OUTROS RESÍDUOS SOLIDOS, MESMO TRITURADOS OU EM "PELLETS", DA EXTRAÇÃO DE GORDURAS OU OLEOS VEGETAIS, EXCETO OS DAS POSIÇÕES 2304 E 2305
+
+2306.10.00
+
+De algodão
+
+76
+
+Torta Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+50
+
+Outros Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+88
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado 88,00-2001 90,00-2002 92,00-2003 94,00-2004 96,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+2306.30.00
+
+De girassol
+
+76
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+70
+
+Programa de liberação - Valor(P) em: vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+2528
+
+Boratos naturais e seus concentrados (calcinados ou não), exceto boratos extraídos de águas salinas naturais; ácido bórico natural com teor máximo de 85% de H3BO3 em produto seco.
+
+2528.90.00
+
+Outros
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pela Argentina, Paraguai e Uruguai
+
+3002
+
+SANGUE HUMANO; SANGUE ANIMAL PREPARADO PARA USOS TERAPÊUTICOS, PROFILÁTICOS OU DE DIAGNÓSTICO; SOROS ESPECÍFICOS DE ANIMAIS OU DE PESSOAS IMUNIZADOS, E OUTROS CONSTITUINTES DO SANGUE; VACINAS, TOXINAS, CULTURAS DE MICROORGANISMOS (EXCETO LEVEDURAS) E PRODUTOS SEMELHANTES.
+
+3002.10
+
+Soros específicos de animais ou de pessoas imunizados, e outros constituintes do sangue
+
+3002.10.9
+
+Outros
+
+3002.10.99
+
+Outros
+
+82
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado 82,00-2001 85,00-2002 88,00-2003 91,00-2004 94,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai
+
+3004
+
+MEDICAMENTOS (EXCETO OS PRODUTOS DAS POSIÇÕES 3002, 3005 OU 3006) CONSTITUÍDOS POR PRODUTOS MISTURADOS OU NÃO MISTURADOS, PREPARADOS PARA: FINS TERAPÊUTICOS OU PROFILÁTICOS, APRESENTADOS EM DOSES OU ACONDICIONADOS PARA VENDA A VAREJO
+
+3004.10
+
+Contendo penicilinas ou seus derivados, com estrutura de acido penicilanico, ou estreptomicinas ou seus derivados
+
+3004.10.10
+
+A base de penicilinas
+
+76
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+70
+
+Exceto para uso veterinário Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+3004.90
+
+Outros
+
+3004.90.30
+
+Substitutos sintéticos do plasma humano
+
+76
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+3402
+
+AGENTES ORGÂNICOS DE SUPERFÍCIE (EXCETO SABÕES); PREPARAÇÕES TENSO ATIVAS, PREPARAÇÕES PARA LAVAGEM (INCLUÍDAS AS PREPARAÇÕES AUXILIARES DE LAVAGEM) E PREPARAÇÕES PARA LIMPEZA, MESMO CONTENDO SABÃO, EXCETO AS DA POSIÇÃO 3401
+
+3402.20.00
+
+Preparações acondicionadas para venda a varejo
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 70,00-2002 70,00-2003 70,00-2004 70,00-2005 70,00-2006 70,00-2007 70,00-2008 70,00-2009 80,00-2010 100,00-2011 Preferências outorgadas pelo Brasil
+
+30
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina e pelo Uruguai
+
+3402.90.00
+
+Outros
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado 70,00-2001 70,00-2002 70,00-2003 70,00-2004 70,00-2005 70,00-2006 70,00-2007 70,00-2008 70,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Brasil
+
+30
+
+Programa de liberação - Valor(P)em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina e pelo Uruguai
+
+3923
+
+ARTIGOS DE TRANSPORTE OU DE EMBALAGEM, DE PLÁSTICO; ROLHAS, TAMPAS, CÁPSULAS E OUTROS DISPOSITIVOS DESTINADOS A FECHAR RECIPIENTES, DE PLÁSTICO
+
+3923.30.00
+
+Garrafões, garrafas, frascos e artigos semelhantes
+
+50
+
+Exceto pré-formas PET Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferências outorgadas pela Argentina, Brasil e Paraguai
+
+80
+
+Pré-formas PET: Programa de liberação - Valor(P) em vigor durante o ano indicado 80,00-2001 80,00-2002 80,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Uruguai
+
+3923.50.00
+
+Rolhas, tampas cápsulas e outros dispositivos destinados a fechar recipientes
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+3924
+
+SERVIÇOS DE MESA, ARTEFATOS DE COZINHA E OUTROS ARTIGOS DE USO DOMÉSTICO, DE HIGIENE OU DE TOUCADOR, DE PLÁSTICO.
+
+3924.90
+
+Outros
+
+3924.90.90
+
+Outros
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+4104
+
+COUROS E PELES, DEPILADOS, DE BOVINOS E DE EQUÍDEOS, PREPARADOS, EXCETO OS DAS POSIÇÕES 4108 OU 4109.
+
+4104.3
+
+Outros couros e peles, de bovinos e de equídeos, apergaminhados ou preparados após curtimento
+
+4104.39
+
+Outros
+
+4104.39.1
+
+De bovino:
+
+4104.39.11
+
+Não apergaminhado
+
+80
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+4108
+
+COUROS E PELES ACAMURÇADOS (INCLUÍDA A "CAMURCA COMBINADA")
+
+4108.00.00
+
+Couros e peles acamurçados (incluída a "camurça combinada")
+
+80
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+4109
+
+COUROS E PELES ENVERNIZADOS OU REVESTIDOS; COUROS E PELES METALIZADOS.
+
+4109.00.10
+
+Envernizados ou revestidos
+
+80
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+4202
+
+MALAS, MALETAS, FRASQUEIRAS, PASTAS E MALETAS PARA DOCUMENTOS E DE ESTUDANTE, ESTOJOS PARA ÓCULOS, PARA BINÓCULOS, PARA MÁQUINAS FOTOGRÁFICAS E FILMADORAS, PARA INSTRUMENTOS MUSICAIS, PARA ARMAS, E CONTINENTES SEMELHANTES; SACOS DE VIAGEM, "NECESSAIRES", MOCHILAS, BOLSAS, CARTEIRAS, PORTA-NÍQUEIS, CIGARREIRAS, TABAQUEIRAS, ESTOJOS PARA FERRAMENTAS, BOLSAS PARA ARTIGOS DE ESPORTE, ESCRÍNIOS PARA FRASCOS OU JÓIAS, "TROUSSES" PARA PÓS, E CONTINENTES SEMELHANTES, DE COURO NATURAL OU RECONSTITUÍDO, DE FOLHAS DE PLÁSTICO, DE MATÉRIAS TÊXTEIS, DE FIBRA VULCANIZADA OU DE CARTAO, OU RECOBERTOS, NO TODO OU NA MAIOR PARTE, DESSAS MESMAS MATÉRIAS.
+
+4202.1
+
+Malas, maletas, frasqueiras, pastas e maletas para documentos e de estudante, e artefatos semelhantes
+
+4202.12.00
+
+Com a superfície exterior de plástico ou de matérias têxteis
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+4202.2
+
+Bolsas, mesmo com tiracolo, incluídas as que não possuam alças
+
+4202.22.00
+
+Com a superfície exterior de folhas de plástico ou de matérias têxteis
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+4202.9
+
+Outros
+
+4202.91.00
+
+Com a superfície exterior de couro natural ou Reconstituído, ou de couro envernizado
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+50
+
+Bolsas Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+30
+
+Outros Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+4202.90.00
+
+Com a superfície exterior de folhas de plástico ou de materiais têxteis
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+4820
+
+LIVROS DE REGISTRO E DE CONTABILIDADE, BLOCOS DE NOTAS, DE ENCOMENDAS, DE RECIBOS, DE APONTAMENTOS, DE PAPEL PARA CARTAS, AGENDAS E ARTIGOS SEMELHANTES, CADERNOS, PASTAS PARA DOCUMENTOS, CLASSIFICADORES, CAPAS PARA ENCADERNAÇÃO (DE FOLHAS SOLTAS OU OUTRAS), CAPAS DE PROCESSOS E OUTROS ARTIGOS ESCOLARES, DE ESCRITÓRIO OU DE PAPELARIA, INCLUÍDOS OS FORMULÁRIOS EM BLOCOS TIPO "MANIFOLD", MESMO COM FOLHAS INTERCALADAS DE PAPEL-CARBONO, DE PAPEL OU CARTAO; ALBÚNS PARA AMOSTRAS OU PARA COLEÇÕES E CAPAS PARA LIVROS, DE PAPEL OU CARTAO
+
+4820.10
+
+Livros de registro e de contabilidade, blocos denotas, de encomendas, de recibos, de apontamentos, de papel para cartas, agendas e artigos semelhantes
+
+4820.10.90
+
+Outros
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 70,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+4909
+
+CARTÕES-POSTAIS, IMPRESSOS OU ILUSTRADOS; CARTÕES IMPRESSOS COM VOTOS OU MENSAGENS PESSOAIS, MESMO ILUSTRADOS, COM OU SEM ENVELOPES, GUARNIÇÕES OU APLICAÇÕES.
+
+4909.00.90
+
+Outros
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai
+
+4911
+
+OUTROS IMPRESSOS, INCLUIDAS AS ESTAMPAS, GRAVURAS E FOTOGRAFIAS.
+
+4911.9
+
+Outros
+
+4911.91.00
+
+Estampas, gravuras e fotografias
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+4911.99.00
+
+Outros
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+5402
+
+FIOS DE FILAMENTOS SINTÉTICOS (EXCETO LINHAS DE COSTURA), NÃO ACONDICIONADOS PARA VENDA A VAREJO, INCLUÍDOS OS MONOFILAMENTOS SINTÉTICOS COM MENOS DE 67 DECITEX.
+
+5402.3
+
+Fios texturizados
+
+5402.33.00
+
+De poliesteres
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+6103
+
+TERNOS, CONJUNTOS, PALETÓS, CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO "BANADORES"), DE MALHA, DE USO MASCULINO.
+
+6103.4
+
+Calças, jardineiras, bermudas e "shorts"
+
+6103.42.00
+
+De algodão
+
+82
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 82,00-2001 85,00-2002 88,00-2003 91,00-2004 94,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+6106
+
+CAMISAS, BLUSAS, BLUSAS "CHEMISIER", DE MALHA, DE USO FEMININO.
+
+6106.10.00
+
+De algodão
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai
+
+6110
+
+PULOVERES, CARDIGAS, COLETES E SEMELHANTES, DE MALHA.
+
+6110.20.00
+
+De algodão
+
+76
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai
+
+6115
+
+MEIAS-CALÇAS, MEIAS DE QUALQUER ESPÉCIE INCLUÍDAS AS MEIAS PARA VARIZES, DE MALHA.
+
+6115.1
+
+Meias-calças:
+
+6115.19
+
+De outras matérias têxteis
+
+6115.19.10
+
+De lã ou de pelos finos
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+6115.9
+
+Outros:
+
+6115.91.00
+
+De lã ou de pelos finos
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+6201
+
+SOBRETUDOS, JAPONAS, GABÕES, CAPAS, ANORAQUES, CASACOS E SEMELHANTES, DE USO MASCULINO, EXCETO OS ARTEFATOS DA POSIÇÃO 6203
+
+6201.1
+
+Sobretudos, impermeáveis, japonas, gabões, capas e semelhantes
+
+6201.13.00
+
+De fibras sintéticas ou artificiais
+
+76
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai
+
+6203
+
+6203.4
+
+6203.42.00
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+6204
+
+6204.2
+
+6204.23.00
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+6204.6
+
+6204.62.00
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 70,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Uruguai
+
+6205
+
+6205.90.00
+
+76
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai
+
+6206
+
+6206.30.00
+
+30
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina, Paraguai e Uruguai
+
+6206.40.00
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+40
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 40,00-2001 40,00-2002 40,00-2003 40,00-2004 40,00-2005 40,00-2006 40,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Uruguai
+
+6209
+
+6209.20.00
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina e pelo Brasil
+
+30
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+6306
+
+ENCERADOS E TOLDOS; TENDAS; VELAS PARA EMBARCAÇÕES, PARA PRANCHAS A VELA OU PARA CARROS A VELA; ARTIGOS PARA ACAMPAMENTO
+
+6306.1
+
+Encerados e toldos
+
+6306.12.00
+
+De fibras sintéticas
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+6403
+
+CALÇADOS COM SOLA EXTERIOR DE BORRACHA, PLÁSTICO, COURO NATURAL OU ARTIFICIAL (RECONSTITUÍDO) E PARTE SUPERIOR DE COURO NATURAL.
+
+6403.5
+
+Outros calçados, com sola exterior de couro natural
+
+6403.59.00
+
+Outros
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina e pelo Uruguai
+
+80
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Brasil
+
+30
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai
+
+6403.9
+
+Outros calçados
+
+6403.91.00
+
+Que cubram o tornozelo
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina
+
+80
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Brasil
+
+30
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+6403.99.00
+
+Outros
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 50,00-2004 50,00-2005 50,00-2006 50,00-2007 50,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pela Argentina
+
+80
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Brasil
+
+30
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 30,00-2003 30,00-2004 30,00-2005 30,00-2006 30,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+6405
+
+OUTROS CALÇADOS
+
+6405.90
+
+Outros
+
+6405.90.40
+
+Com solas de outras matérias
+
+80
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Brasil
+
+7103
+
+PEDRAS PRECIOSAS (EXCETO DIAMANTES) OU SEMIPRECIOSAS, NATURAIS, MESMO TRABALHADAS OU SELECIONADAS, MAS NÃO ENFIADAS, NEM MONTADAS, NEM ENGASTADAS; PEDRAS PRECIOSAS (EXCETO DIAMANTES) OU SEMIPRECIOSAS NATURAIS, NÃO SELECIONADAS, ENFIADAS TEMPORARIAMENTE PARA FACILIDADE DE TRANSPORTE.
+
+7103.10
+
+Em bruto ou simplesmente serradas ou desbastadas
+
+7103.10.90
+
+Outras
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+7103.9
+
+Trabalhadas de outro modo:
+
+7103.99
+
+Outras
+
+7103.99.90
+
+Outras
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
+
+8007
+
+OUTRAS OBRAS DE ESTANHO
+
+8007.00.00
+
+Outras obras de estanho
+
+88
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 88,00-2001 90,00-2002 92,00-2003 94,00-2004 96,00-2005 100,00-2006 Preferência outorgada pelo Uruguai
+
+9401
+
+ASSENTOS (EXCETO OS DA POSIÇÃO 9402), MESMO TRANSFORMÁVEIS EM CAMAS, E SUAS PARTES.
+
+9401.6
+
+Outros assentos, com armação de madeira:
+
+9401.69.00
+
+Outros
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai e pelo Uruguai
 
 PREFERÊNCIAS OUTORGADAS PELA BOLÍVIA
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NALADI / SH</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESCRIÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>REGIME DO ACORDO Pref. Perc.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OBSERVAÇÃO</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2208</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁLCOOL ETÍLICO NÃO DESNATURADO, DE TEOR ALCOÓLICO EM VOLUME INFERIOR A 80% VOL; AGUARDENTES, LICORES E OUTRAS BEBIDAS ALCOÓLICAS; PREPARAÇÕES ALCOÓLICAS COMPOSTAS, DOS TIPOS UTILIZADOS NA FABRICAÇÃO DE BEBIDAS.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2208.20</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Aguardentes de vinho ou de bagaço de uvas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2208.20.20</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De bagaço de uvas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Aguardente de uva Singani Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada ao Paraguai e ao Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3402</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AGENTES ORGÂNICOS DE SUPERFÍCIE (EXCETO SABÕES); PREPARAÇÕES TENSOATIVAS, PREPARAÇÕES PARA LAVAGEM (INCLUÍDAS AS PREPARAÇÕES AUXILIARES DE LAVAGEM) E PREPARAÇÕES PARA LIMPEZA, MESMO CONTENDO SABÃO, EXCETO AS DA POSIÇÃO 3401</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3402.90.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada à Argentina, Paraguai e Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3923</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ARTIGOS DE TRANSPORTE OU DE EMBALAGEM, DE PLÁSTICO; ROLHAS, TAMPAS, CÁPSULAS E OUTROS DISPOSITIVOS DESTINADOS A FECHAR RECIPIENTES, DE PLÁSTICO.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3923.30.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Garrafões, garrafas, frascos e artigos semelhantes</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>90</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Pré-formas PET Programa de liberação - Valor(P) em vigor durante o ano indicado: 90,00-2001 90,00-2002 90,00-2003 90,00-2004 90,00-2005 100,00-2006 Preferência outorgada à Argentina e ao Brasil</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Pré-formas PET Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FIOS DE FILAMENTOS SINTÉTICOS (EXCETO LINHAS DE COSTURA), NÃO ACONDICIONADOS PARA VENDA A VAREJO, INCLUÍDOS OS MONOFILAMENTOS SINTÉTICOS COM MENOS DE 67 DECITEX.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402.3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Fios texturizados</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402.33.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De poliesteres</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6103</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TERNOS, CONJUNTOS, PALETÓS, CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO ("BANADORES"), DE MALHA, DE USO MASCULINO.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6103.4</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Calças, jardineiras, bermudas e "shorts":</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6103.42.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>95</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 95,00-2001 95,00-2002 95,00-2003 95,00-2004 95,00-2005 100,00-2006 Preferência outorgada à Argentina</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Brasil:</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>82</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 82,00-2001 85,00-2002 88,00-2003 91,00-2004 94,00-2005 100,00-2006 Preferência outorgada ao Paraguai e ao Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6106</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CAMISAS, BLUSAS, BLUSAS "CHEMISIER", DE MALHA, DE USO FEMININO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6106.10.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6110</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PULOVERES, CARDIGAS, COLETES E SEMELHANTES, DE MALHA.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6110.20.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr></tbody></table>
+NALADI / SH
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6203</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TERNOS, CONJUNTOS, PALETÓS, CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO), ("BANADORES"), DE USO MASCULINO.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6203.4</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Calças, jardineiras, bermudas e "shorts"</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6203.42.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>95</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - valor(P) em vigor durante o ano indicado: 95,00-2001 95,00-2002 95,00-2003 95,00-2004 95,00-2005 100,00-2006 Preferência outorgadaà Argentina</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai, Brasil e Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>"TAILLEURS", CONJUNTOS, "BLAZERS" (CASACOS), VESTIDOS, SAIAS, SAIAS-CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO "BANADORES"), DE USO FEMININO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Conjuntos:</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.23.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De fibras sintéticas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.6</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Calças, jardineiras, bermudas e "shorts"</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.62.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6205</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CAMISAS DE USO MASCULINO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6205.90.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De outras matérias têxteis</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>76</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada ao Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada à Argentina, Brasil e Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PEDRAS PRECIOSAS (EXCETO DIAMANTES) OU SEMIPRECIOSAS, NATURAIS, MESMO TRABALHADAS OU SELECIONADAS, MAS NÃO ENFIADAS, NEM MONTADAS, NEM ENGASTADAS; PEDRAS PRECIOSAS (EXCETO DIAMANTES) OU SEMIPRECIOSAS NATURAIS, NÃO SELECIONADAS, ENFIADAS TEMPORARIAMENTE PARA FACILIDADE DE TRANSPORTE.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Em bruto ou simplesmente serradas ou desbastadas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.10.90</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outras</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.9</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Trabalhadas de outro modo</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.99</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outras</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7103.99.90</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outras</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai</span></p></td></tr></tbody></table>
+DESCRIÇÃO
+
+REGIME DO ACORDO Pref. Perc.
+
+OBSERVAÇÃO
+
+2208
+
+ÁLCOOL ETÍLICO NÃO DESNATURADO, DE TEOR ALCOÓLICO EM VOLUME INFERIOR A 80% VOL; AGUARDENTES, LICORES E OUTRAS BEBIDAS ALCOÓLICAS; PREPARAÇÕES ALCOÓLICAS COMPOSTAS, DOS TIPOS UTILIZADOS NA FABRICAÇÃO DE BEBIDAS.
+
+2208.20
+
+Aguardentes de vinho ou de bagaço de uvas
+
+2208.20.20
+
+De bagaço de uvas
+
+76
+
+Aguardente de uva Singani Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada ao Paraguai e ao Uruguai
+
+3402
+
+AGENTES ORGÂNICOS DE SUPERFÍCIE (EXCETO SABÕES); PREPARAÇÕES TENSOATIVAS, PREPARAÇÕES PARA LAVAGEM (INCLUÍDAS AS PREPARAÇÕES AUXILIARES DE LAVAGEM) E PREPARAÇÕES PARA LIMPEZA, MESMO CONTENDO SABÃO, EXCETO AS DA POSIÇÃO 3401
+
+3402.90.00
+
+Outros
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada à Argentina, Paraguai e Uruguai
+
+3923
+
+ARTIGOS DE TRANSPORTE OU DE EMBALAGEM, DE PLÁSTICO; ROLHAS, TAMPAS, CÁPSULAS E OUTROS DISPOSITIVOS DESTINADOS A FECHAR RECIPIENTES, DE PLÁSTICO.
+
+3923.30.00
+
+Garrafões, garrafas, frascos e artigos semelhantes
+
+90
+
+Pré-formas PET Programa de liberação - Valor(P) em vigor durante o ano indicado: 90,00-2001 90,00-2002 90,00-2003 90,00-2004 90,00-2005 100,00-2006 Preferência outorgada à Argentina e ao Brasil
+
+80
+
+Pré-formas PET Programa de liberação - Valor(P) em vigor durante o ano indicado: 80,00-2001 80,00-2002 80,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai
+
+5402
+
+FIOS DE FILAMENTOS SINTÉTICOS (EXCETO LINHAS DE COSTURA), NÃO ACONDICIONADOS PARA VENDA A VAREJO, INCLUÍDOS OS MONOFILAMENTOS SINTÉTICOS COM MENOS DE 67 DECITEX.
+
+5402.3
+
+Fios texturizados
+
+5402.33.00
+
+De poliesteres
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai
+
+6103
+
+TERNOS, CONJUNTOS, PALETÓS, CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO ("BANADORES"), DE MALHA, DE USO MASCULINO.
+
+6103.4
+
+Calças, jardineiras, bermudas e "shorts":
+
+6103.42.00
+
+De algodão
+
+95
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 95,00-2001 95,00-2002 95,00-2003 95,00-2004 95,00-2005 100,00-2006 Preferência outorgada à Argentina
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Brasil:
+
+82
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 82,00-2001 85,00-2002 88,00-2003 91,00-2004 94,00-2005 100,00-2006 Preferência outorgada ao Paraguai e ao Uruguai
+
+6106
+
+CAMISAS, BLUSAS, BLUSAS "CHEMISIER", DE MALHA, DE USO FEMININO
+
+6106.10.00
+
+De algodão
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 50,00-2002 50,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai
+
+6110
+
+PULOVERES, CARDIGAS, COLETES E SEMELHANTES, DE MALHA.
+
+6110.20.00
+
+De algodão
+
+76
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pela Argentina, Brasil e Uruguai
+
+6203
+
+TERNOS, CONJUNTOS, PALETÓS, CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO), ("BANADORES"), DE USO MASCULINO.
+
+6203.4
+
+Calças, jardineiras, bermudas e "shorts"
+
+6203.42.00
+
+De algodão
+
+95
+
+Programa de liberação - valor(P) em vigor durante o ano indicado: 95,00-2001 95,00-2002 95,00-2003 95,00-2004 95,00-2005 100,00-2006 Preferência outorgadaà Argentina
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai, Brasil e Uruguai
+
+6204
+
+"TAILLEURS", CONJUNTOS, "BLAZERS" (CASACOS), VESTIDOS, SAIAS, SAIAS-CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO "BANADORES"), DE USO FEMININO
+
+6204.2
+
+Conjuntos:
+
+6204.23.00
+
+De fibras sintéticas
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada pelo Paraguai
+
+6204.6
+
+Calças, jardineiras, bermudas e "shorts"
+
+6204.62.00
+
+De algodão
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai
+
+6205
+
+CAMISAS DE USO MASCULINO
+
+6205.90.00
+
+De outras matérias têxteis
+
+76
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 76,00-2001 80,00-2002 84,00-2003 88,00-2004 92,00-2005 100,00-2006 Preferência outorgada ao Paraguai
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada à Argentina, Brasil e Uruguai
+
+7103
+
+PEDRAS PRECIOSAS (EXCETO DIAMANTES) OU SEMIPRECIOSAS, NATURAIS, MESMO TRABALHADAS OU SELECIONADAS, MAS NÃO ENFIADAS, NEM MONTADAS, NEM ENGASTADAS; PEDRAS PRECIOSAS (EXCETO DIAMANTES) OU SEMIPRECIOSAS NATURAIS, NÃO SELECIONADAS, ENFIADAS TEMPORARIAMENTE PARA FACILIDADE DE TRANSPORTE.
+
+7103.10
+
+Em bruto ou simplesmente serradas ou desbastadas
+
+7103.10.90
+
+Outras
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai
+
+7103.9
+
+Trabalhadas de outro modo
+
+7103.99
+
+Outras
+
+7103.99.90
+
+Outras
+
+70
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 70,00-2001 75,00-2002 80,00-2003 85,00-2004 90,00-2005 100,00-2006 Preferência outorgada ao Paraguai
 
 PRODUTOS DO ANEXO 3
 
 PREFERÊNCIAS OUTORGADAS PELO MERCOSUL
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NALADI / SH</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESCRIÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>REGIME DO ACORDO Pref. Perc.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OBSERVAÇÃO</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2840</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BORATOS; PEROXOBORATOS (PERBORATOS)</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2840.1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Tetraborato dissódico (bórax refinado):</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2840.19.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 25,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pela Argentina, Paraguai e Uruguai</span></p></td></tr></tbody></table>
+NALADI / SH
+
+DESCRIÇÃO
+
+REGIME DO ACORDO Pref. Perc.
+
+OBSERVAÇÃO
+
+2840
+
+BORATOS; PEROXOBORATOS (PERBORATOS)
+
+2840.1
+
+Tetraborato dissódico (bórax refinado):
+
+2840.19.00
+
+Outros
+
+25
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 25,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada pela Argentina, Paraguai e Uruguai
 
 PREFERÊNCIAS OUTORGADAS PELA BOLÍVIA
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NALADI / SH</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESCRIÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>REGIME DO ACORDO Pref. Perc.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OBSERVAÇÃO</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6206</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CAMISAS, BLUSAS, BLUSAS "CHEMISIER" DE USO FEMININO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6206.40.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De fibras sintéticas ou artificiais</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>40</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 40,00-2001 40,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>40</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 40,00-2001 40,00-2002 40,00-2003 40,00-2004 40,00-2005 40,00-2006 40,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada ao Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 25,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada à Argentina e ao Brasil</span></p></td></tr></tbody></table>
+NALADI / SH
+
+DESCRIÇÃO
+
+REGIME DO ACORDO Pref. Perc.
+
+OBSERVAÇÃO
+
+6206
+
+CAMISAS, BLUSAS, BLUSAS "CHEMISIER" DE USO FEMININO
+
+6206.40.00
+
+De fibras sintéticas ou artificiais
+
+40
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 40,00-2001 40,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Uruguai
+
+40
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 40,00-2001 40,00-2002 40,00-2003 40,00-2004 40,00-2005 40,00-2006 40,00-2007 40,00-2008 60,00-2009 80,00-2010 100,00-2011 Preferência outorgada ao Paraguai
+
+25
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 25,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada à Argentina e ao Brasil
 
 PRODUTOS DO ANEXO 4
 
 PREFERÊNCIAS OUTORGADAS PELA BOLÍVIA
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NALADI / SH</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESCRIÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>REGIME DO ACORDO Pref. Perc.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OBSERVAÇÃO</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3808</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INSETICIDAS, RODENTICIDAS, FUNGICIDAS, HERBICIDAS INIBIDORES DE GERMINAÇÃO E REGULADORES DE CRESCIMENTO PARA PLANTAS, DESINFETANTES E PRODUTOS SEMELHANTES, APRESENTADOS EM QUAISQUER FORMAS OU EMBALAGENS PARA VENDA A VAREJO OU COMO PREPARAÇÕES OU AINDA EM FORMA DE ARTIGOS, TAIS COMO FITAS, MECHAS E VELAS SULFURADAS E PAPEL MATA-MOSCAS.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3808.10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Inseticidas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3808.10.10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Apresentados em formas ou em embalagens para venda a varejo</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Exceto apresentados em recipientes de uso direto Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 ¿Ver preferência outorgada para o resto deste item no Anexo 7</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3923</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ARTIGOS DE TRANSPORTE OU DE EMBALAGEM DE PLÁSTICO; ROLHAS, TAMPAS, CÁPSULAS E OUTROS DISPOSITIVOS DESTINADOS A FECHAR RECIPIENTES DE PLÁSTICO.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3923.30.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Garrafões, garrafas, frascos e artigos semelhantes</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Exceto pré-formas PET Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada à Argentina, Brasil e Paraguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FIOS DE FILAMENTOS SINTÉTICOS (EXCETO LINHAS DE COSTURA), NÃO ACONDICIONADOS PARA VENDA A VAREJO, INCLUÍDOS OS MONOFILAMENTOS SINTÉTICOS COM MENOS DE 67 DECITEX.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402.3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Fios texturizados:</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5402.33.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De poliéster</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>"TAILLEURS", CONJUNTOS, "BLAZERS" (CASACOS), VESTIDOS, SAIAS, SAIAS-CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO ("BANADORES"), DE USO FEMININO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.6</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Calças, jardineiras, bermudas e "shorts":</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6204.62.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De algodão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada à Argentina</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Brasil e ao Uruguai</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6306</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENCERADOS E TOLDOS; TENDAS; VELAS PARA EMBARCAÇÕES, PARA PRANCHAS A VELA OU PARA CARROS A VELA; ARTIGOS PARA ACAMPAMENTO.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6306.1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Encerados e toldos:</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6306.12.00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De fibras sintéticas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada à Argentina e ao Brasil</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Paraguai e ao Uruguai</span></p></td></tr></tbody></table>
+NALADI / SH
+
+DESCRIÇÃO
+
+REGIME DO ACORDO Pref. Perc.
+
+OBSERVAÇÃO
+
+3808
+
+INSETICIDAS, RODENTICIDAS, FUNGICIDAS, HERBICIDAS INIBIDORES DE GERMINAÇÃO E REGULADORES DE CRESCIMENTO PARA PLANTAS, DESINFETANTES E PRODUTOS SEMELHANTES, APRESENTADOS EM QUAISQUER FORMAS OU EMBALAGENS PARA VENDA A VAREJO OU COMO PREPARAÇÕES OU AINDA EM FORMA DE ARTIGOS, TAIS COMO FITAS, MECHAS E VELAS SULFURADAS E PAPEL MATA-MOSCAS.
+
+3808.10
+
+Inseticidas
+
+3808.10.10
+
+Apresentados em formas ou em embalagens para venda a varejo
+
+10
+
+Exceto apresentados em recipientes de uso direto Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 ¿Ver preferência outorgada para o resto deste item no Anexo 7
+
+3923
+
+ARTIGOS DE TRANSPORTE OU DE EMBALAGEM DE PLÁSTICO; ROLHAS, TAMPAS, CÁPSULAS E OUTROS DISPOSITIVOS DESTINADOS A FECHAR RECIPIENTES DE PLÁSTICO.
+
+3923.30.00
+
+Garrafões, garrafas, frascos e artigos semelhantes
+
+10
+
+Exceto pré-formas PET Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada à Argentina, Brasil e Paraguai
+
+10
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Uruguai
+
+5402
+
+FIOS DE FILAMENTOS SINTÉTICOS (EXCETO LINHAS DE COSTURA), NÃO ACONDICIONADOS PARA VENDA A VAREJO, INCLUÍDOS OS MONOFILAMENTOS SINTÉTICOS COM MENOS DE 67 DECITEX.
+
+5402.3
+
+Fios texturizados:
+
+5402.33.00
+
+De poliéster
+
+10
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Uruguai
+
+6204
+
+"TAILLEURS", CONJUNTOS, "BLAZERS" (CASACOS), VESTIDOS, SAIAS, SAIAS-CALÇAS, JARDINEIRAS, BERMUDAS E "SHORTS" (EXCETO DE BANHO ("BANADORES"), DE USO FEMININO
+
+6204.6
+
+Calças, jardineiras, bermudas e "shorts":
+
+6204.62.00
+
+De algodão
+
+50
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 50,00-2001 60,00-2002 70,00-2003 80,00-2004 90,00-2005 100,00-2006 Preferência outorgada à Argentina
+
+30
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Brasil e ao Uruguai
+
+6306
+
+ENCERADOS E TOLDOS; TENDAS; VELAS PARA EMBARCAÇÕES, PARA PRANCHAS A VELA OU PARA CARROS A VELA; ARTIGOS PARA ACAMPAMENTO.
+
+6306.1
+
+Encerados e toldos:
+
+6306.12.00
+
+De fibras sintéticas
+
+30
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 30,00-2001 30,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada à Argentina e ao Brasil
+
+10
+
+Programa de liberação - Valor(P) em vigor durante o ano indicado: 10,00-2001 20,00-2002 40,00-2003 60,00-2004 80,00-2005 100,00-2006 Preferência outorgada ao Paraguai e ao Uruguai

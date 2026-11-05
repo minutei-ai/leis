@@ -1,5 +1,3 @@
-###DEC-054029-0-000-17-07-1964@@@
-
 Decreto nº 54.029, de 17 de julho de 1964.
 
 Abre ao Ministério Extraordinário para Coordenação dos Organismos Regionais, o crédito Especial de Cr$80.000.000,00 (oitenta milhões de cruzeiros) destinado à execução da Lei nº 4.344 de 21 de junho de 1964.

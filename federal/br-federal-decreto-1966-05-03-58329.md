@@ -1,5 +1,3 @@
-###DEC-058329-0-000-03-05-1966@@@
-
 DECRETO Nº 58.329, DE 3 DE MAIO DE 1966.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir sistemas de distribuição.

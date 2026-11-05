@@ -1,5 +1,3 @@
-###DEC-050778-0-000-10-06-1961@@@
-
 DECRETO Nº 50.778, DE 10 DE JUNHO DE 1961.
 
 Outorga à Companhia Hidroelétrica do Rio Pardo concessão para o aproveitamento progressivo de energia hidráulica de um trecho do rio Pardo, compreendido entre a foz do rio Lambari e o reservatório da usina Euclides da Cunha, situado nos municípios de Caconde e São José do Rio Pardo, Estado de São Paulo.

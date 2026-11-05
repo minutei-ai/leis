@@ -1,5 +1,3 @@
-###DEC-006186-0-000-13-08-2007@@@
-
 DECRETO Nº 6.186, DE 13 DE AGOSTO DE 2007.
 
 Regulamenta a forma de indicação e a duração do mandato dos membros do Comitê Gestor do Plano de Carreiras e Cargos de Ciência e Tecnologia, Produção e Inovação em Saúde Pública - CPCSP, no âmbito da FIOCRUZ.
@@ -29,5 +27,3 @@ LUIZ INÁCIO LULA DA SILVA
 José Gomes Temporão
 
 João Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 14.8.2007

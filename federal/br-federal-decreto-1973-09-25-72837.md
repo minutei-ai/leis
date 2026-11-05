@@ -1,5 +1,3 @@
-###DEC-072837-0-000-25-09-1973@@@
-
 DECRETO Nº 72.837, DE 25 de SETEMBRO DE 1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Tatuí, mantida pela Associação de Ensino Tatuiense, com sede na cidade de Tatuí, Estado de São Paulo.

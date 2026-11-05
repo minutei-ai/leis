@@ -1,5 +1,3 @@
-###DEL-007845-0-000-09-08-1945@@@
-
 DECRETO-LEI N. 7.845 – DE 9 DE AGÔSTO DE 1945
 
 Estabelece providências que facilitem, para fins eleitorais, o registro de nascimento.

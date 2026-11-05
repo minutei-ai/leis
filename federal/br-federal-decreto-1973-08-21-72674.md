@@ -1,5 +1,3 @@
-###DEC-072674-0-000-21-08-1973@@@
-
 DECRETO Nº 72.674, DE 21 DE AGOSTO DE 1973.
 
 Retifica ato de redistribuição de cargo, com respectiva ocupante, para o Quadro de Pessoal do Ministério da Fazenda.

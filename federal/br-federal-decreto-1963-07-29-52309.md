@@ -1,5 +1,3 @@
-###DEC-052309-0-000-29-07-1963@@@
-
 DECRETO Nº 52.309, DE 29 DE JULHO DE 1963.
 
 Revoga o Decreto nº 51.648-A de 4 de janeiro de 1963 e dá outras providências.

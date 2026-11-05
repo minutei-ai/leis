@@ -1,19 +1,17 @@
-###DEC-038154-0-000-26-10-1955@@@
+**DECRETO Nº 38.154, DE 26 DE OUTUBRO DE 1955.**
 
-<strong>DECRETO Nº 38.154, DE 26 DE OUTUBRO DE 1955.</strong>
+***Retifica o Decreto nº 37.958, de 22-9, de 1955, na parte que menciona.***
 
-<em><strong>Retifica o Decreto nº 37.958, de 22-9, de 1955, na parte que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica retificado para quadra (9) a quadra dez (10) a que se refere o art. 1º do Decreto nº 37.958, em contrário.
 
-<strong>Art</strong>. 1º Fica retificado para quadra (9) a quadra dez (10) a que se refere o art. 1º do Decreto nº 37.958, em contrário.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de outubro de 1955, da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

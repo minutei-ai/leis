@@ -1,5 +1,3 @@
-###DEC-094866-0-000-09-09-1987@@@
-
 DECRETO N° 94.866, DE 9 SETEMBRO DE 1987
 
 Declara perempta a concessão outorgada à RÁDIO MEARIM LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Caxias, Estado do Maranhão.

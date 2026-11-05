@@ -1,5 +1,3 @@
-###DEC-086928-0-000-16-02-1982@@@
-
 Decreto nº 86.928, de 16 de fevereiro de 1982
 
 Autoriza a PETROBÁS FERTILIZANTES S.A. - PETROFÉRTIL a proceder ao aumento do limite de seu Capital Social.

@@ -1,5 +1,3 @@
-###DEC-095004-0-000-05-10-1987@@@
-
 DECRETO Nº 95.004, DE 5 DE OUTUBRO DE 1987
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Pedagogia, Ciências e Letras da Fundação Educacional do Alto Vale do Rio do Peixe.

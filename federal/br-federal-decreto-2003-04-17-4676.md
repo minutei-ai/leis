@@ -1,5 +1,3 @@
-###DEC-004676-0-000-17-04-2003@@@
-
 DECRETO Nº 4.676, DE 17 DE ABRIL DE 2003.
 
 Delega competência para a prática de atos de provimento no âmbito da Administração Pública Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-007486-0-000-19-05-2011-PUB-01@@@
-
 DECRETO Nº 7.486, DE 19 DE MAIO DE 2011
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República da Gâmbia, firmado em Brasília, em 9 de agosto de 2005.

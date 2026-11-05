@@ -1,5 +1,3 @@
-###DEC-060596-0-000-13-04-1967@@@
-
 DECRETO Nº 60.596, DE 13 DE ABRIL DE 1967.
 
 Aprova o Estatuto da Fundação Centro Brasileiro de TV Educativa.

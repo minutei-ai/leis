@@ -1,5 +1,3 @@
-###DEC-059342-0-000-30-09-1966@@@
-
 DECRETO Nº 59.342, DE 30 DE SETEMBRO DE 1966.
 
 Autoriza a Mineração Pato do Brasil Ltda., a pesquisar diamantes nos municípios de Gilbués e Alto Parnaíba, Estados do Piauí e Maranhão.

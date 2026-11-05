@@ -1,5 +1,3 @@
-###DEC-000368-0-000-19-12-1991@@@
-
 # DECRETO N° 368, DE 19 DE DEZEMBRO DE 1991
 
 Dispõe sobre a administração dos assuntos relativos aos servidores do extinto Território Federal de Fernando de Noronha.

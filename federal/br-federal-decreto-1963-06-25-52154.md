@@ -1,5 +1,3 @@
-###DEC-052154-0-000-25-06-1963@@@
-
 Decreto nº 52.154, de 25 de junho de 1963.
 
 Altera os preços básicos mínimos para o financiamento ou aquisição de juta ou malva da Bacia Amazônica da safra de 1963, constantes do Decreto nº 51.882, de 2 de abril de 1963.

@@ -1,5 +1,3 @@
-###DEC-067517-0-000-09-11-1970@@@
-
 DECRETO Nº 67.517, DE 9 DE NOVEMBRO DE 1970.
 
 Abre à Justiça do Trabalho, em favor do Tribunal Superior do Trabalho o crédito suplementar de Cr$ 138.000,00 para reforço de dotação consignada no vigente Orçamento.
@@ -10,11 +8,61 @@ DECRETA:
 
 Art. 1º Fica aberto à Justiça do Trabalho, em favor do Tribunal Superior do Trabalho o crédito suplementar de Cr$ 138.000,00 (cento e trinta e oito mil cruzeiros), para reforço de dotação orçamentária consignada ao subanexo 08.00.00 a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Cr$ 1,00</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">08.00.00</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- JUSTIÇA DO TRABALHO</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">08.01.00</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Tribunal Superior do Trabalho</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">01.06.1.001</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Construção da Sede do Tribunal Superior do Trabalho em Brasília</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.1.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Obras Públicas...................................................................................</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">138.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+08.00.00
+
+- JUSTIÇA DO TRABALHO
+
+08.01.00
+
+- Tribunal Superior do Trabalho
+
+01.06.1.001
+
+- Construção da Sede do Tribunal Superior do Trabalho em Brasília
+
+4.1.1.0
+
+- Obras Públicas...................................................................................
+
+138.000
 
 Art. 2º Os recursos necessários à execução dêste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vivente Orçamento ao subanexo 08.00.00, a saber
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Cr$ 1,00</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">08.00.00</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- JUSTIÇA DO TRABALHO</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">08.01.00</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Tribunal Superior do Trabalho</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Atividade</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 01.06.2.002</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.4.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Encargos Diversos.............................................................................</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">100.000</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Atividade</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 01.06.2.001</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.2</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Outros Serviços de Terceiros............................................................</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; text-decoration:underline">38.000</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">TOTAL..................................................................................................</span></p></td><td style="width:43.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; text-decoration:underline">138.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+08.00.00
+
+- JUSTIÇA DO TRABALHO
+
+08.01.00
+
+- Tribunal Superior do Trabalho
+
+Atividade
+
+- 01.06.2.002
+
+3.1.4.0
+
+- Encargos Diversos.............................................................................
+
+100.000
+
+Atividade
+
+- 01.06.2.001
+
+3.1.3.2
+
+- Outros Serviços de Terceiros............................................................
+
+38.000
+
+TOTAL..................................................................................................
+
+138.000
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

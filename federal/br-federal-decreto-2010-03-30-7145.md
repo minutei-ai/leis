@@ -1,5 +1,3 @@
-###DEC-007145-0-000-30-03-2010@@@
-
 DECRETO Nº 7.145, DE 30 DE MARÇO DE 2010.
 
 Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 6.006, de 28 de dezembro de 2006.
@@ -24,4 +22,48 @@ LUIZ INÁCIO LULA DA SILVA
 
 ANEXO
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO TIPI</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3921.90.11</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4410.11.10</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4410.11.21</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4410.11.29</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4410.11.90</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4410.12</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4410.19</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4411.12</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4411.13.10</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4411.13.91</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4411.13.99</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4411.14</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4411.9</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44.12</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9401.30</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9401.40</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9401.5</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9401.6</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9401.7</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9401.80.00</span></p></td></tr><tr><td style="width:237.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9401.90</span></p></td></tr><tr><td style="width:237.85pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">94.03</span></p></td></tr></tbody></table>
+CÓDIGO TIPI
+
+3921.90.11
+
+4410.11.10
+
+4410.11.21
+
+4410.11.29
+
+4410.11.90
+
+4410.12
+
+4410.19
+
+4411.12
+
+4411.13.10
+
+4411.13.91
+
+4411.13.99
+
+4411.14
+
+4411.9
+
+44.12
+
+9401.30
+
+9401.40
+
+9401.5
+
+9401.6
+
+9401.7
+
+9401.80.00
+
+9401.90
+
+94.03

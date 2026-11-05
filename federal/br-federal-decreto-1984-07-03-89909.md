@@ -1,5 +1,3 @@
-###DEC-089909-0-000-03-07-1984@@@
-
 DECRETO Nº 89.909, DE 03 DE julho DE 1984.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte do Quinhão 27 da Fazenda Passo Fundo, situado no Município de Palmas, no Estado do Paraná, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.908, de 3 de julho de 1984.

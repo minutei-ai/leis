@@ -1,5 +1,3 @@
-###DEC-048512-A-000-11-07-1960@@@
-
 DECRETO Nº 48.512-A, DE 11 DE JULHO DE 1960.
 
 Transfere, sem aumento de despesa ,função de Tabela Numérica de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001165-0-000-22-06-1994@@@
-
 DECRETO N° 1.165, DE 22 DE JUNHO DE 1994
 
 Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo Comercial n° 20, entre Brasil, Argentina e México, de l2.11.93.

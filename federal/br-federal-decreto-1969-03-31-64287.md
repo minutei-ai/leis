@@ -1,5 +1,3 @@
-###DEC-064287-0-000-31-03-1969@@@
-
 DECRETO Nº 64.287, DE 31 DE MARÇO DE 1969.
 
 Inclui no Plano Preferencial de Obras Rodoviárias Federais, aprovado pelo Decreto nº 61.594, de 24 de outubro de 1967, os trechos que menciona.

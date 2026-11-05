@@ -1,6 +1,10 @@
 > **LEI Nº 4.613, DE 24 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Semana de Combate à Exploração do Trabalho da Criança e do Adolescente.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Semana de Combate à Exploração do Trabalho da Criança e do Adolescente.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-057060-0-000-15-10-1965@@@
-
 DECRETO Nº 57.060, DE 15 DE OUTUBRO DE 1965.
 
 Renova o Decreto nº 51.936, de 26 de abril de 1963.

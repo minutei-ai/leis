@@ -1,5 +1,3 @@
-###DEC-075563-0-000-07-04-1975@@@
-
 DECRETO Nº 75.563, DE 7 ABRIL DE 1975.
 
 Exclui cargo que indica, do Quadro de Pessoal - Parte Permanente - do Ministério do Trabalho.

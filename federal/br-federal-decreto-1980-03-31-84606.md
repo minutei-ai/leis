@@ -1,5 +1,3 @@
-###DEC-084606-0-000-31-03-1980@@@
-
 DecrETO nº 84.606 de 31 de março de 1980
 
 Declara de interesse social para fins de desapropriação, imóveis rurais de propriedade particular, situados na área prioritária de reforma agrária de que trata o Decreto nº 84.605, de 31 de março de 1980.

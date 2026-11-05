@@ -1,5 +1,3 @@
-###DEC-002847-0-000-20-11-1998@@@
-
 DECRETO Nº 2.847, DE 20 DE NOVEMBRO DE 1998.
 
 Dá nova redação aos art. 9º, 30, 40, 59, e 67 do Regulamento Disciplinar do Exército (R-4), aprovado pelo Decreto nº 90.608, de 4 de dezembro de 1984.

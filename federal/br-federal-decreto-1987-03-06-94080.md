@@ -1,5 +1,3 @@
-###DEC-094080-0-000-06-03-1987@@@
-
 DECRETO N° 94.080, DE 6 DE MARÇO DE 1987
 
 Dispõe sobre o Conselho Deliberativo do Instituto Brasileiro de Desenvolvimento Florestal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057111-0-000-19-10-1965@@@
-
 DECRETO Nº 57.111, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza S. A. de Cimento e Mineração e Cabotagem “Cimimar” a pesquisar calcário no município de Pinheiro Machado, Estado do Rio Grande do Sul.

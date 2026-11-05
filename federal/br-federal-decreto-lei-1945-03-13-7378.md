@@ -1,5 +1,3 @@
-###DEL-007378-0-000-13-03-1945@@@
-
 DECRETO-LEI N. 7.378 – DE 13 DE MARÇO DE 1945
 
 Prorroga o início da vigência do Decreto-lei nº 7.036, de 10-1-44

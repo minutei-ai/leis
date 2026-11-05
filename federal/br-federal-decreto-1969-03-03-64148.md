@@ -1,5 +1,3 @@
-###DEC-064148-0-000-03-03-1969@@@
-
 DECRETO Nº 64.148, DE 3 DE MARÇO DE 1969.
 
 Decreta a intervenção federal no Município de Santarém, Estado do Pará, e dá outras providências.

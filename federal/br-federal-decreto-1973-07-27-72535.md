@@ -1,5 +1,3 @@
-###DEC-072535-0-000-27-07-1973@@@
-
 Decreto nº 72.535, de 27 de julho de 1973.
 
 Torna sem efeito disponibilidade de servidores do Ministério da Fazenda, e dá outras providências.

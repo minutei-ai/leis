@@ -1,5 +1,3 @@
-###DEC-091698-0-000-27-09-1985@@@
-
 DecreTO nº 91.698, de 27 de setembro de 1985
 
 Institui a hora de verão no território nacional.

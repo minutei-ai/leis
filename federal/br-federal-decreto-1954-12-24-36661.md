@@ -1,14 +1,12 @@
-###DEC-036661-0-000-24-12-1954@@@
+**DECRETO Nº 36.661, DE 24 DE DEZEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.661, DE 24 DE DEZEMBRO DE 1954.</strong>
+***Suprime cargos extintos***
 
-<em><strong>Suprime cargos extintos</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. nº 1º, alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. nº 1º, alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos os seguintes cargos no Ministério da Viação e Obras Públicas:
+**Art**. 1º Ficam suprimidos os seguintes cargos no Ministério da Viação e Obras Públicas:
 
 a) no Quadro VI - Parte Suplementar - 8 (oito) cargos da classe D da carreira de Agente de estrada de trem vagos em virtudes da promoção de Ary Anselmo Guará, Edson Andrade Cantal, Francisco de Assis Moreira, João Lucena de Souza, João Porfirio Neto, José Euclydes Rosa, Orlando Felix de Lima e Pedro Pereira de Menezes; três (3) cargos da classe E da carreira de Condutor de trem vagos em virtudes da promoção de Anthenor Ferreira e José Edgard Cavalcanti e da aposentadoria de Adilio Martins de Medeiros; um (1) cargo da classe E da carreira de Maquinista de estrada de ferro, vago em virtude da promoção de Benjamim Ferreira, ficando sem aplicação a dotação correspondente de conformidade com o art. 5º do Decreto-lei nº 9.616, de 21 de agôsto de 1946.
 
@@ -22,10 +20,10 @@ e) No Quadro X - Parte Suplementar - 2 (dois) cargo da classe C da carreira de A
 
 f) No Quadro XI - Parte Suplementar - 1 (um) cargo da classe H da carreira de Auxiliar de engenheiro, vago em virtude do falecimento de Dyonisio José Ferreira, devendo a dotação correspondente ser levada à crédito da Conta Corrente do mesmo Quadro do referido Ministério.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 24 de dezembro de 1954, 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Lucas Lopes

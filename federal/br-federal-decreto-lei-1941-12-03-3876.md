@@ -1,5 +1,3 @@
-###DEL-003876-0-000-03-12-1941@@@
-
 DECRETO-LEI N. 3.876 – DE 3 DE DEZEMBRO DE 1941
 
 Cria no Corpo de Oficiais da Aeronáutica (C. O. Aer.), o Quadro de Intendência da Aeronáutica (Q. I. Aer.)

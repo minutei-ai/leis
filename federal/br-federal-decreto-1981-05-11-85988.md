@@ -1,5 +1,3 @@
-###DEC-085988-0-000-11-05-1981@@@
-
 DECRETO Nº 85.988, DE 11 DE MAIO DE 1981.
 
 Autoriza o aumento do capital social da LIGHT - Serviços de Eletricidade S.A.

@@ -1,5 +1,3 @@
-###DEC-086870-0-000-25-01-1982@@@
-
 DECRETO Nº 86.870, DE 25 DE JANEIRO DE 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, nos Estados da Bahia e Piauí.

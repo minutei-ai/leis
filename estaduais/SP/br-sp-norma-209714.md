@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209714)<br>
-
 # LEI N° 17.978, DE 15 DE JULHO DE 2024
 
 ## (Projeto de lei n° 831/2023, do Deputado Léo Oliveira - MDB)

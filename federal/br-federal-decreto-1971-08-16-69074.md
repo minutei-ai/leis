@@ -1,5 +1,3 @@
-###DEC-069074-0-000-16-08-1971@@@
-
 DECRETO Nº 69.074, de 16 de AgÔsto de 1971.
 
 Declara de utilidade pública a Casa do Pequeno Polegar, com sede em Brasília, Distrito Federal.

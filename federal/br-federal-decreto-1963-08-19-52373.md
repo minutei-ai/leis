@@ -1,5 +1,3 @@
-###DEC-052373-0-000-19-08-1963@@@
-
 DECRETO Nº 52.373, DE 19 DE AgÔsto DE 1963.
 
 Altera as disposições do artigo 32 do Decreto nº 47.491, de 24-12-59, que regula o abastecimento de trigo e estabelece normas para sua comercialização e industrialização.

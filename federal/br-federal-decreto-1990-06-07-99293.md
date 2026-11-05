@@ -1,7 +1,3 @@
-1
-
-###DEC-099293-0-000-07-06-1990@@@
-
 DECRETO N° 99.293, DE 7 DE JUNHO DE 1990
 
 Transfere a sede da Superintendência Nacional de Abastecimento SUNAB, para a Cidade de Brasília, Distrito Federal, e dá outras providências.

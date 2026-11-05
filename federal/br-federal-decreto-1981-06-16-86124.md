@@ -1,5 +1,3 @@
-###DEC-086124-0-000-16-06-1981@@@
-
 Decreto nº 86.124, de 16 de junho de 1981.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios de Niterói e do Rio de Janeiro, Estado do Rio de Janeiro; Salvador, Estado da Bahia; Fortaleza, Estado do Ceará e de Recife, Estado de Pernambuco.

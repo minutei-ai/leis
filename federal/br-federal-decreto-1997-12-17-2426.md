@@ -1,5 +1,3 @@
-###DEC-002426-0-000-17-12-1997@@@
-
 DECRETO Nº 2.426, DE 17 DE DEZEMBRO DE 1997
 
 Dispõe sobre cargos privativos de Oficial-General do Exército em Tempo de Paz, e dá outras providências.

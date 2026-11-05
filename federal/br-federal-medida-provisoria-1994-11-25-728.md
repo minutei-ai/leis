@@ -1,7 +1,3 @@
-1
-
-###MPV-000728-0-000-25-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 728, DE 25 DE NOVEMBRO DE 1994
 
 Dispõe sobre o valor do salário mínimo, altera disposições das Leis nº 8.212 e nº 8.213, ambas de 24 de julho de 1991, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008101-0-000-17-10-1945@@@
-
 DECRETO-LEI N. 8.101 – DE 17 DE OUTUBRO DE 1945
 
 Altera carreira no Quadro Suplementar do Ministério da Fazenda e dá outras providências

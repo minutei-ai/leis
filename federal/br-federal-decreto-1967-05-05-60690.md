@@ -1,5 +1,3 @@
-###DEC-060690-0-000-05-05-1967@@@
-
 DECRETO Nº 60.690, DE 5 DE maio DE 1967.
 
 Declara de utilidade pública, para efeito de desapropriação, o prédio e terreno situado na Avenida Feliciano Sodré nº 43, em Niterói, Estado do Rio de Janeiro.

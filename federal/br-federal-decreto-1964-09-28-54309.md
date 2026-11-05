@@ -1,5 +1,3 @@
-###DEC-054309-0-000-28-09-1964@@@
-
 Decreto nº 54.309, de 28 de setembro de 1964.
 
 Amplia a zona de concessão da Centrais Elétricas de Goiás S.A.
@@ -41,8 +39,6 @@ Brasília, 28 de setembro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-054309-0-000-28-09-1964@@@RET01+++
 
 DECRETO Nº 54.309, DE 28 DE SETEMBRO DE 1964.
 

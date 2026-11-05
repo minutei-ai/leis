@@ -1,5 +1,3 @@
-###DEC-054632-0-000-27-10-1964@@@
-
 Decreto nº 54.632, de 27 de outubro de 1964.
 
 Concede à Sun Insurance Office Limited autorização para aumentar o capital destinado às suas operações no País.

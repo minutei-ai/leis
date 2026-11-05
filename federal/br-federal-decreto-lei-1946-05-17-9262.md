@@ -1,5 +1,3 @@
-###DEL-009262-0-000-17-05-1946@@@
-
 DECRETO-LEI N. 9.262 – DE 17 DE MAIO DE 1946
 
 Cria funções gratificadas no Quadro Permanente do Ministério das Relações Exteriores, e dá outras providências.

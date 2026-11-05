@@ -1,6 +1,4 @@
-###DEL-005656-0-000-08-07-1943@@@
-
-                        DECRETO‑LEI N. 5.656 – DE  8  JULHO DE 1943
+DECRETO‑LEI N. 5.656 – DE  8  JULHO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 800.000,00, à verba que especifica
 

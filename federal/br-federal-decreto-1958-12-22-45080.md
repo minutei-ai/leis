@@ -1,5 +1,3 @@
-###DEC-045080-0-000-22-12-1958@@@
-
 DECRETO Nº 45.080, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza a firma Mineração Caeté Mirim S.A. a comprar pedras preciosas.

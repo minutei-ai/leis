@@ -1,5 +1,3 @@
-###DEC-001804-0-000-06-02-1996@@@
-
 DECERTO Nº 1.804, DE 6 DE FEVEREIRO DE 1996
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Alcance Parcial Nº 21, subscrito ao amparo do artigo 25 do Tratado de Montevidéu de 1980, entre Brasil e Cuba, de 27 de junho de 1995.

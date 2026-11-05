@@ -1,5 +1,3 @@
-###DEL-000651-0-000-25-06-1969@@@
-
 Decreto-lei nº 651, de 25 de JuNHo De 1969
 
 Aprova o Acôrdo sôbre Transportes Aéreos entre Brasil e a Suíça.

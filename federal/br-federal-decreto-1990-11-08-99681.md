@@ -1,7 +1,3 @@
-1
-
-###DEC-099681-0-000-08-11-1990@@@
-
 DECRETO N° 99.681, DE 8 DE NOVEMBRO DE 1990
 
 Reduz, temporariamente, a alíquota do Imposto sobre Produtos Industrializados incidente sobre os cigarros.

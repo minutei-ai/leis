@@ -1,5 +1,3 @@
-###DEC-006930-0-000-06-08-2009@@@
-
 DECRETO Nº 6.930, DE 6 DE AGOSTO DE 2009.
 
 Dá nova redação ao art. 3o do Decreto no 4.923, de 18 de dezembro de 2003, que dispõe sobre o Conselho de Transparência Pública e Combate à Corrupção.

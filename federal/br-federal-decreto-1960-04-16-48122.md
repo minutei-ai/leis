@@ -1,5 +1,3 @@
-###DEC-048122-0-000-16-04-1960@@@
-
 DECRETO Nº 48.122, DE 16 DE ABRIL DE 1960.
 
 Autoriza a execução de obras complementares da adutora de Boqueirão.

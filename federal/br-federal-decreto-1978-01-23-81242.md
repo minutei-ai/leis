@@ -1,5 +1,3 @@
-###DEC-081242-0-000-23-01-1978@@@
-
 DECRETO Nº 81 242, DE 23 DE JANEIRO DE 1978
 
 Concede à Itapessoca Agro-Industrial S/A o direito de lavrar calcário no Município de Goiana, Estado de Pernambuco

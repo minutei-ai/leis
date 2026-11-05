@@ -1,5 +1,3 @@
-###DEC-056907-0-000-28-09-1965@@@
-
 DECRETO Nº 56.907, DE 28 DE SETEMBRO DE 1965.
 
 Suspende a exigência do nº 3 do parágrafo único do art. 77 do REPROMAER, na forma que menciona.

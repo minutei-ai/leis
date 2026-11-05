@@ -1,5 +1,3 @@
-###DEC-064366-0-000-17-04-1969@@@
-
 DECRETO Nº 64.366, DE 17 DE ABRIL DE 1969.
 
 Transfere a sede do Comando Militar da Amazônia, cria 12ª Região Militar e dá outras providências.

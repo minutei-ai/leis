@@ -1,5 +1,3 @@
-###DEC-006427-0-000-07-04-2008@@@
-
 DECRETO Nº 6.427, DE 7 DE ABRIL DE 2008.
 
 Promulga o Acordo entre a República Federativa do Brasil e a República Portuguesa sobre Facilitação de Circulação de Pessoas, celebrado em Lisboa, em 11 de julho de 2003.
@@ -22,11 +20,7 @@ Brasília, 7 de abril de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 8.4.2008
-
-ACORDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E
+Samuel Pinheiro Guimarães NetoACORDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E
 
 A REPÚBLICA PORTUGUESA SOBRE FACILITAÇÃO
 

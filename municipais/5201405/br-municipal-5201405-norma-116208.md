@@ -118,11 +118,14 @@ Art. 16 Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 23 de junho de 2020.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FABIO PASSAGLIA<br>
+FABIO PASSAGLIA
+
 Chefe da Casa Civil
 
-ANDRÉ LUIS FERREIRA DA ROSA<br>
+ANDRÉ LUIS FERREIRA DA ROSA
+
 Secretário da Fazenda

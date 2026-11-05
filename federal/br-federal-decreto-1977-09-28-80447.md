@@ -1,5 +1,3 @@
-###DEC-080447-0-000-28-09-1977@@@
-
 DECRETO Nº 80.447, DE 28 DE SETEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Território Federal do Amapá.

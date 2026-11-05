@@ -1,5 +1,3 @@
-###DEC-067175-0-000-11-09-1970@@@
-
 Decreto Nº 67.175, DE 11 de setembro de 1970.
 
 Aprova o Regulamento para o Almirantado.

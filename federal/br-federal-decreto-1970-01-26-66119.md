@@ -1,5 +1,3 @@
-###DEC-066119-0-000-26-01-1970@@@
-
 DECRETO Nº 66.119 - DE 26 DE JANEIRO DE 1970
 
 Altera os artigos 1º e 2º do Decreto nº 65.239, de 26 de setembro de 1969.

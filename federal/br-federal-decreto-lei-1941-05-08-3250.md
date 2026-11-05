@@ -1,5 +1,3 @@
-###DEL-003250-0-000-08-05-1941@@@
-
 DECRETO-LEI N. 3.250 – DE 8 DE MAIO DE 1941
 
 Dispõe sobre reservas livres das sociedades de seguros e de capitalização

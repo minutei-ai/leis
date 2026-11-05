@@ -1,5 +1,3 @@
-###DEC-046116-0-000-22-05-1959@@@
-
 DECRETO Nº 46.116, DE 22 DE MAIO DE 1959.
 
 Considera Guarnição Especial de Primeira Categoria a sediada na localidade de Nioaque, MT.

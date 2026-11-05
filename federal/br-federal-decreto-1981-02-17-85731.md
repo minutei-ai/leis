@@ -1,5 +1,3 @@
-###DEC-085731-0-000-17-02-1981@@@
-
 Decreto nº 85.731, de 17 de fevereiro de 1981.
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade  de Educação, Ciências e Letras de Iguatu, no Estado do Ceará.

@@ -26,11 +26,14 @@ Município de Aparecida de Goiânia, aos 08 de outubro de 2024.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-ALANNA RITIELLE P. DE ARAÚJO<br>
+ALANNA RITIELLE P. DE ARAÚJO
+
 Secretária de Governo
 
-DANIEL MARCIO DE OLIVEIRA<br>
+DANIEL MARCIO DE OLIVEIRA
+
 Secretário

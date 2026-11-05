@@ -1,7 +1,3 @@
-1
-
-###DEC-000852-0-000-30-06-1993@@@
-
 DECRETO Nº 852, DE 30 DE JUNHO DE 1993
 
 Dispõe sobre a correção dos valores fixados no art. 23 da Lei nº 8.666, de 21 de junho de 1993.

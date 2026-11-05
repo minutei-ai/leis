@@ -1,5 +1,3 @@
-###DEL-006519-0-000-23-05-1944@@@
-
 DECRETO-LEI N. 6.519 – DE 23 DE MAIO DE 1944
 
 Dispõe sobre a administração do Território de Fernando de Noronha e dá outras providências

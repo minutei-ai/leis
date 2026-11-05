@@ -1,5 +1,3 @@
-###DEL-001112-0-000-16-07-1970@@@
-
 # DECRETO-LEi Nº 1.112, DE 16 DE JULHO DE 1970
 
 Autoriza a mobilização de créditos para integralização, por parte da União, das ações que subscrever no aumento de Capital do Banco do Brasil S.A. e dá outras providências.

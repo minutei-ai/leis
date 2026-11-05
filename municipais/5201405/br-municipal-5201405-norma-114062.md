@@ -22,11 +22,14 @@ Aparecida de Goiânia, Estado de Goiás, aos 16 de setembro de 2024.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-ALANNA RITIELLE P. DE ARAÚJO<br>
+ALANNA RITIELLE P. DE ARAÚJO
+
 Secretária de Governo
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Secretário

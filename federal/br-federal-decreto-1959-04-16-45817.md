@@ -1,5 +1,3 @@
-###DEC-045817-0-000-16-04-1959@@@
-
 DECRETO Nº 45.817, DE 16 DE ABRIL DE 1959.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público Barra, no Município de Sertânia, Estado de Pernambuco.

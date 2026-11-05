@@ -1,7 +1,3 @@
-1
-
-###DEC-097799-0-000-01-06-1989@@@
-
 DECRETO N° 97.799, DE 1° DE JUNHO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “GLEBA OURO”, classificado como “latifúndio por exploração” situado no Município de Penalva, Estado do Maranhão, compreendido na zona prioritária fixada pelo Decreto n° 92.619, de 02 de maio de 1986, e dá outras providências.

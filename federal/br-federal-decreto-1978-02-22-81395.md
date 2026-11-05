@@ -1,5 +1,3 @@
-###DEC-081395-0-000-22-02-1978@@@
-
 Decreto nº 81.395, de 22 de fevereiro de 1978.
 
 Declara sem efeito o Decreto nº 28.605, de 06 de setembro de 1950, que autorizou os cidadãos brasileiros Manoel Ferreira Guimarães e Júlio Mourão Guimarães a lavrar ouro no Município de Mariana, Estado de Minas Gerais.

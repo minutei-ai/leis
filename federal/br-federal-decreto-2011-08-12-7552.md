@@ -1,5 +1,3 @@
-###DEC-007552-0-000-12-08-2011-PUB-01@@@
-
 DECRETO Nº 7.552, DE 12 DE AGOSTO DE 2011.
 
 Promulga o Acordo de Estabelecimento da Rede Internacional de Centros para Astrofísica Relativística - ICRANET e seu Estatuto, assinados em 21 de setembro de 2005.

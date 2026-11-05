@@ -1,5 +1,3 @@
-###DEC-048175-0-000-10-05-1960@@@
-
 decreto nº 48.175, de 10 de maio de 1960.
 
 Autoriza o Govêrno do Estado de Sergipe a pesquisar sal-gema nos municípios de Nossa Senhora do Socorro e Laranjeiras, Estado de Sergipe.

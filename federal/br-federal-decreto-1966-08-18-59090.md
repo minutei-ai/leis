@@ -1,5 +1,3 @@
-###DEC-059090-0-000-18-08-1966@@@
-
 DECRETO Nº 59.090, DE 18 DE AGôSTO DE 1966.
 
 Declara caduco o decreto nº 26.948, de 25 de julho de 1949.

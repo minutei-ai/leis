@@ -1,5 +1,3 @@
-###DEC-047987-0-000-04-04-1960@@@
-
 DECRETO Nº 47.987, DE 4 DE ABRIL DE 1960.
 
 Aprova o aumento do capital de “The First Nattional City Bank of New York” para os fins que menciona.

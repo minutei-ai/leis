@@ -1,5 +1,3 @@
-###DEC-096894-0-000-30-09-1988@@@
-
 DECRETO N° 96.894, DE 30 DE SETEMBRO DE 1988
 
 Dispõe sobre a estrutura básica do Ministério da Justiça e dá outras providências.

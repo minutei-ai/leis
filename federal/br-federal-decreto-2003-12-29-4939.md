@@ -1,5 +1,3 @@
-###DEC-004939-0-000-29-12-2003@@@
-
 DECRETO Nº 4.939 DE 29 DE DEZEMBRO DE 2003.
 
 Dispõe sobre a execução de atividades de administração de pessoal, material, patrimônio, serviços gerais e de orçamento e finanças, relativas à manutenção dos órgãos que menciona, e dá outras providências.

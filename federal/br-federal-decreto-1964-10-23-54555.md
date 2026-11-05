@@ -1,5 +1,3 @@
-###DEC-054555-0-000-23-10-1964@@@
-
 Decreto nº 54.555, de 23 de outubro de 1964.
 
 Declara de utilidade pública o Colégio Diocesano “São Francisco de Sales”, com sede em Teresina, Estado do Piauí.

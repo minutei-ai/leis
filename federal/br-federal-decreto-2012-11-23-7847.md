@@ -1,5 +1,3 @@
-###DEC-007847-0-000-23-11-2012-PUB-01@@@
-
 DECRETO N°\- 7.847, DE 23 DE NOVEMBRO DE 2012
 
 Altera o Decreto nº 7.680, de 17 de fevereiro de 2012, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2012.

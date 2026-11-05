@@ -1,5 +1,3 @@
-###DEC-045971-0-000-09-05-1959@@@
-
 decreto nº 45.971, de 9 de maio de 1959.
 
 Outorga concessão à Rádio Difusora Sul da Bahia Sociedade Anônima, para instalar uma estação radiodifusora.

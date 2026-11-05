@@ -1,5 +1,3 @@
-###DEC-090257-0-000-02-10-1984@@@
-
 DECRETO Nº 90.257, DE 02 DE OUTUBRO DE 1984
 
 Outorga concessão à RÁDIO VALE DO PARNAIBA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Luzilândia, Estado do Piauí.

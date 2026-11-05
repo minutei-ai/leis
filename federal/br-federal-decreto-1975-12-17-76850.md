@@ -1,5 +1,3 @@
-###DEC-076850-0-000-17-12-1975@@@
-
 DECRETO Nº 76.850, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Medicina da Faculdade de Medicina do ABC, com sede na cidade de Santo André, Estado de São Paulo.

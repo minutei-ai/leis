@@ -1,5 +1,3 @@
-###DEC-092003-0-000-28-11-1985@@@
-
 DECRETO Nº 92.033, DE 28 DE novembro DE 1985
 
 Dispõe sobre a utilização e compra de veículos de representação pessoal nas empresas estatais e fundações, e dá outras providências.

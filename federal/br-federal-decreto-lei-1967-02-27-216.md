@@ -1,5 +1,3 @@
-###DEL-000216-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 216, DE 27 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a execução do art. 188 da Constituição Federal e dá outras providências.

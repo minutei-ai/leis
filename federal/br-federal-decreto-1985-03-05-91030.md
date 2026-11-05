@@ -1,5 +1,3 @@
-###DEC-091030-0-000-05-03-1985@@@
-
 (\*) - Decreto nº 91.030, de 05 de março de 1985
 
 Aprova o Regulamento Aduaneiro.

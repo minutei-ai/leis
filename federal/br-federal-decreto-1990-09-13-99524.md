@@ -1,5 +1,3 @@
-###DEC-099524-0-000-13-09-1990@@@
-
 DECRETO N° 99.524, DE 13 DE SETEMBRO DE 1990
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica entre o Brasil e o Uruguai (Acordo n° 2).

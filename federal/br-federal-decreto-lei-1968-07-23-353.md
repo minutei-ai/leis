@@ -1,5 +1,3 @@
-###DEL-000353-0-000-23-07-1968@@@
-
 DECRETO-LEI Nº 353, DE 23 DE JULHO DE 1968
 
 Prorroga o prazo para a liquidação dos débitos mencionados no Decreto-lei nº 352, de 17 de junho de 1968.

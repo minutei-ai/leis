@@ -1,5 +1,3 @@
-###DEC-059708-0-000-12-12-1966@@@
-
 DECRETO Nº 59.708, DE 12 DE DEZEMBRO DE 1966.
 
 Subordina a Divisão do Material e Patrimônio do Ministério da Relações Exteriores os Serviços Auxiliares de Administração e da outras providencias.

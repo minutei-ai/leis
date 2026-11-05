@@ -1,7 +1,9 @@
 LEI Nº 12.575 DE 26 DE ABRIL DE 2012
 
-Ver também:<br>
-Decreto nº [16.388](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16388-de-03-de-novembro-de-2015#DEC%2016.388) de 03 de novembro de 2015 - Altera o Decreto nº 14.108, de 27 de agosto de 2012, que regulamenta a Lei nº 12.575, de 26 de abril de 2012, que dispõe sobre a gratuidade para pessoas com deficiência nos transportes coletivos intermunicipais do Estado da Bahia.<br>
+Ver também:
+
+Decreto nº [16.388](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16388-de-03-de-novembro-de-2015#DEC%2016.388) de 03 de novembro de 2015 - Altera o Decreto nº 14.108, de 27 de agosto de 2012, que regulamenta a Lei nº 12.575, de 26 de abril de 2012, que dispõe sobre a gratuidade para pessoas com deficiência nos transportes coletivos intermunicipais do Estado da Bahia.
+
 Regulamentada pelo Decreto nº [14.108](javascript: openDoc\() , de 27 de agosto de 2012
 
 Dispõe sobre a gratuidade para pessoas com deficiência nos transportes coletivos intermunicipais do Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-075730-0-000-14-05-1975@@@
-
 DECRETO Nº 75.730, DE 14 DE MAIO DE 1975.
 
 Dispõe sobre a estrutura básica, atribuições e funcionamento da superintendência Nacional do Abastecimento - SUNAB, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089987-0-000-24-07-1984@@@
-
 Decreto nº 89.987, de 24 de julho de 1984.
 
 Dispõe sobre o provimento de cargos pertencentes ao Grupo-polícia Federal e dá outras providências.

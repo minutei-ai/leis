@@ -1,7 +1,3 @@
-1
-
-###DEC-001228-0-000-23-08-1994@@@
-
 DECRETO Nº 1.228, DE 23 DE AGOSTO DE 1994
 
 Dispõe sobre a transferência dos cargos em comissão que menciona.

@@ -1,5 +1,3 @@
-###DEC-076109-0-000-11-08-1975@@@
-
 DECRETO Nº 76.109 - DE 11 DE AGOSTO DE 1975
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos de acrescidos de marinha que menciona, situados em Aracaju, Estado de Sergipe.

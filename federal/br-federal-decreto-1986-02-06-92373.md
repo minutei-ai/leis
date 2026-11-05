@@ -1,5 +1,3 @@
-###DEC-092373-0-000-06-02-1986@@@
-
 DECRETO Nº 92.373, DE 06 DE FEVEREIRO DE 1986
 
 Autoriza o Governo do Estado de Alagoas a explorar, através da SECRETARIA DA EDUCAÇÃO DO ESTADO DE ALAGOAS, na cidade de Maceió, Estado de Alagoas, serviço de radiodifusão de sons e imagens (televisão), mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

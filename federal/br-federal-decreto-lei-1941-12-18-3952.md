@@ -1,5 +1,3 @@
-###DEL-003952-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.952 – DE 18 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da guerra, o crédito suplementar de 9.700:000$0. à verba que especifica.

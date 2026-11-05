@@ -1,5 +1,3 @@
-###DEC-051911-B-000-25-04-1963@@@
-
 DECRETO Nº 51.911-B, DE 25 DE Abril DE 1963
 
 Autoriza o cidadão brasileiro Artur Cândido Jardim a pesquisar minérios de ferro e de manganês, no município de Betim, Estado de Minas Gerais.

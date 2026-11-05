@@ -1,5 +1,3 @@
-###DEC-068550-0-000-27-04-1971@@@
-
 DECRETO Nº 68.550, DE 27 DE ABRIL DE 1971.
 
 Retifica o Quadro Único de Pessoal da Universidade Federal da Bahia, dispõe sobre a retificação do aproveitamento de funcionária na mesma Universidade e dá outras providências.

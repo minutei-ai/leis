@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185472)
-
 # DECRETO Nº 63.272, DE 13 DE MARÇO DE 2018
 
 ### _Transfere a Delegacia Seccional de Polícia de Assis, do Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 4 - Bauru para o Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 8 - Presidente Prudente, ambos da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e dá providências correlatas_
@@ -48,10 +46,16 @@ Palácio dos Bandeirantes, 13 de março de 2018
 
 GERALDO ALCKMIN
 
-Sérgio Turra Sobrane<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Sérgio Turra Sobrane
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 13 de março de 2018.

@@ -1,5 +1,3 @@
-###DEC-003075-0-000-01-06-1999@@@
-
 DECRETO Nº 3.075, DE 1º DE JUNHO DE 1999.
 
 Dispõe sobre o remanejamento, em caráter temporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

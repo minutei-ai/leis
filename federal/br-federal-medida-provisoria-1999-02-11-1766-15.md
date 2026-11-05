@@ -1,5 +1,3 @@
-###MPV-001766-0-015-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.766-15, DE 11 DE FEVEREIRO DE 1999.
 
 Dá nova redação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

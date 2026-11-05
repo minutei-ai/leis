@@ -1,5 +1,3 @@
-###DEC-072772-0-000-10-09-1973@@@
-
 DECRETO Nº 72.772, DE 10 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública a instituição que menciona.

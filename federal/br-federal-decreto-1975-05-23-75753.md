@@ -1,5 +1,3 @@
-###DEC-075753-0-000-23-05-1975@@@
-
 DECRETO Nº 75.753, DE 23 DE MAIO DE 1975.
 
 Concede reconhecimento ao curso de Administração das Faculdades Integradas Simonsen, mantidas pela Organização Brasileira de Cultura e Educação - OBRACE, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

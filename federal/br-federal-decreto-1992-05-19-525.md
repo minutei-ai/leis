@@ -1,7 +1,3 @@
-1
-
-###DEC-000525-0-000-19-05-1992@@@
-
 DECRETO N° 525, DE 19 DE MAIO DE 1992
 
 Inclui os projetos apresentados por empresas ou entidades do setor privado que objetivem a construção de moradias, destinadas às famílias de baixa renda, como objeto de financiamento com recursos do Fundo de Desenvolvimento Social - FDS e altera a redação da alínea “b” do inciso IV e o inciso VII, do artigo. 5° do Decreto n° 103, de 22 de abril de 1991, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050790-0-000-15-06-1961@@@
-
 DECRETO Nº 50.790, DE 15 DE JUNHO DE 1961.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. (CEMIG), Estado de Minas Gerais, concessão para distribuir energia elétrica.

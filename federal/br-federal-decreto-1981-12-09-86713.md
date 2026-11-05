@@ -1,5 +1,3 @@
-###DEC-086713-0-000-09-12-1981@@@
-
 Decreto nº 86.713, de 09 de dezembro de 1981.
 
 Autoriza o aumento de potência da PINHAL RÁDIO CLUBE LTDA., na cidade de Espírito Santo do Pinhal, Estado de São Paulo.

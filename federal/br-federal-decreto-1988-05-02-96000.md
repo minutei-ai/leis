@@ -1,5 +1,3 @@
-###DEC-096000-0-000-02-05-1988@@@
-
 DECRETO N° 96.000, DE 02 DE MAIO DE 1988
 
 Dispõe sobre a realização de pesquisa e investigação científica na plataforma continental e em águas sob jurisdição brasileira, e sobre navios e aeronaves de pesquisa estrangeiros em visita aos portos ou aeroportos nacionais, em transito nas águas jurisdicionais brasileiras ou no espaço aéreo sobrejacente.

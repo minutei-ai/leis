@@ -1,5 +1,3 @@
-###DEC-064439-0-000-30-04-1969@@@
-
 DECRETO Nº 64.439, DE 30 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Ginásio Industrial Champagnat com sede em Taguatinga, Distrito Federal.

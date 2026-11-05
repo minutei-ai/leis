@@ -1,5 +1,3 @@
-###DEC-053666-0-000-05-03-1964@@@
-
 Decreto nº 53.666, de 5 de março de 1964.
 
 Transfere a sede da Fazenda Federal de Criação de Catu, no Estado da Bahia, do Departamento de Promoção Agropecuária, para a área ocupada pelo Pôsto Agropecuário de Entre-Rios e cria o Colégio Agrícola de Catu.

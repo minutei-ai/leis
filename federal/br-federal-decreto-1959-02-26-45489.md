@@ -1,5 +1,3 @@
-###DEC-045489-0-000-26-02-1959@@@
-
 DECRETO Nº 45.489, DE 26 DE Fevereiro DE 1959.
 
 Retifica o art. 1º do Decreto número 38.450, de 28 de dezembro de 1955.

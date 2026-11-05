@@ -1,5 +1,3 @@
-###DEL-008800-0-000-23-01-1946@@@
-
 DECRETO-LEI N. 8.800 DE 23 DE JANEIRO DE 1946
 
 Cria um cargo na carreira de Médico do Quadro Permanente do Ministério da Educação e Saúde e dá outras providências.

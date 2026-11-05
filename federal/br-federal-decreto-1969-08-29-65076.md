@@ -1,5 +1,3 @@
-###DEC-065076-0-000-29-08-1969@@@
-
 DECRETO Nº 65.076 - DE 29 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública a Congregação das Irmãs dos Pobres de Santa Catarina de Sena - Província Sagrado Coração de Jesus, com sede em Teresina, Estado do Piauí.

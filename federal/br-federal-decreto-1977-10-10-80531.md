@@ -1,5 +1,3 @@
-###DEC-080531-0-000-10-10-1977@@@
-
 DECRETO Nº 80.531, DE 10 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Engenharia Civil, da Universidade Estadual de Londrina, com sede na cidade de Londrina, Estado do Paraná.

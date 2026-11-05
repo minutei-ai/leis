@@ -1,5 +1,3 @@
-###DEL-009023-0-000-26-02-1946@@@
-
 DECRETO-LEI N. 9.023 – DE 26 DE FEVEREIRO DE 1946
 
 Modifica os dispositivos legais que indica

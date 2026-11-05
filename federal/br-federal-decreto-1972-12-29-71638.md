@@ -1,5 +1,3 @@
-###DEC-071638-0-000-29-12-1972@@@
-
 DECRETO Nº 71.638 - DE 29 DE DEZEMBRO DE 1972
 
 Retifica a relação nominal que acompanha o Decreto nº 63.566, de 6 de novembro de 1968, que dispõe sobre o enquadramento dos servidores do Ministério da Marinha, beneficiados pelo parágrafo único, do artigo 23, da Lei nº 4.069, de 11 de junho de 1962.

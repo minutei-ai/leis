@@ -1,5 +1,3 @@
-###DEC-049081-0-000-07-10-1960@@@
-
 DECRETO Nº 49.081, DE 7 DE OUTUBRO DE 1960
 
 Concede à Indústria , Comércio e Navegação - Sociedade Vinícola Rio Grandense Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

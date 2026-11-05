@@ -1,5 +1,3 @@
-###DEC-072052-0-000-03-04-1973@@@
-
 DECRETO Nº 72.052, DE 3 DE ABRIL DE 1973.
 
 Altera o artigo 2º do Decreto número 63.157, de 23 de agosto de 1968.

@@ -22,8 +22,6 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação, com efeitos financ
 
 Goiânia, 6 de janeiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

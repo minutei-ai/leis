@@ -1,5 +1,3 @@
-###DEC-006704-0-000-19-12-2008@@@
-
 DECRETO Nº 6.704, DE 19 DE DEZEMBRO DE 2008.
 
 Regulamenta o art. 10 da Lei no 9.493, de 10 de setembro de 1997, que institui a suspensão do Imposto sobre Produtos Industrializados - IPI na aquisição, realizada por estaleiros navais brasileiros, de materiais e equipamentos, incluindo partes, peças e componentes, destinados ao emprego na construção, conservação, modernização, conversão ou reparo de embarcações pré-registradas ou registradas no Registro Especial Brasileiro - REB.   

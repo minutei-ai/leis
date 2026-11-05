@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208545)<br>
-
 # LEI N° 17.759, DE 20 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 551/2023, da Deputada Solange Freitas - UNIÃO)

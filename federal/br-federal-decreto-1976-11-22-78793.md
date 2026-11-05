@@ -1,5 +1,3 @@
-###DEC-078793-0-000-22-11-1976@@@
-
 DECRETO Nº 78.793, DE 22 DE NOVEMBRO DE 1976.
 
 Concede à "CECRISA" - Cerâmica Criciúma S.A o direito de lavrar caulim no Município de Treze de Maio, Estado de Santa Catarina.

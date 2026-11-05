@@ -1,5 +1,3 @@
-###DEC-096381-0-000-20-07-1988@@@
-
 DECRETO Nº 96.381, DE 20 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FLORESTA”, classificado como latifúndio por exploração, situado no Município de Independência, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, e dá outras providências.

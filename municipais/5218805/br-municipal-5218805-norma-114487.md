@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº 5.117, DE 06 DE MARÇO DE 2006.
 
-<br>
 Acrescenta o art. 7º-A, e seus parágrafos 1º e 2º, e o art 7º-B, na Lei nº 3.635/98 – Código de Posturas do Município de Rio Verde.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE APROVA E EU SANCIONO A SEGUINTE LEI:**

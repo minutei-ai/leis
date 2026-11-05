@@ -1,5 +1,3 @@
-###DEC-096717-0-000-19-09-1988@@@
-
 DECRETO Nº 96.717, DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à ECOS - EMPRESA DE COMUNICAÇÃO DA AMAZÔNIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Parintins, Estado do Amazonas.

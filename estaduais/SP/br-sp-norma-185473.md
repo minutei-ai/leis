@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185473)
-
 # DECRETO Nº 63.273, DE 13 DE MARÇO DE 2018
 
 ### _Transfere a subordinação do 32º Batalhão de Polícia Militar do Interior (32º BPM/I), do Comando de Policiamento do Interior-4 (CPI-4) para o Comando de Policiamento do Interior-8 (CPI-8), e altera o Decreto nº 62.103, de 13 de julho de 2016, que dispõe sobre a estruturação da Polícia Militar do Estado de São Paulo e dá providências correlatas_
@@ -20,10 +18,16 @@ Palácio dos Bandeirantes, 13 de março de 2018
 
 GERALDO ALCKMIN
 
-Sérgio Turra Sobrane<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Sérgio Turra Sobrane
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 13 de março de 2018.

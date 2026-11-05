@@ -1,5 +1,3 @@
-###DEC-005930-0-000-13-10-2006@@@
-
 DECRETO Nº 5.930, DE 13 DE OUTUBRO DE 2006.
 
 Promulga os Termos de Referência e Regras de Procedimento do Grupo Internacional de Estudos sobre o Níquel - GIEN, adotados em Genebra, em 2 de maio de 1986.
@@ -24,11 +22,7 @@ Brasília, 13 de outubro de 2006; 185º da Independência e 118º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-      Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 16.10.2006
-
-TERMOS DE REFERÊNCIA DO GRUPO INTERNACIONALDE ESTUDOS SOBRE NÍQUEL
+      Celso Luiz Nunes AmorimTERMOS DE REFERÊNCIA DO GRUPO INTERNACIONALDE ESTUDOS SOBRE NÍQUEL
 
 PREÂMBULO
 

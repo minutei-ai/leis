@@ -1,5 +1,3 @@
-###DEC-074915-0-000-19-11-1974@@@
-
 DECRETO Nº 74.915, DE 19 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz, Estado de São Paulo.

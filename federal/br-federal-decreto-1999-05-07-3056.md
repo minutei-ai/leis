@@ -1,5 +1,3 @@
-###DEC-003056-0-000-07-05-1999@@@
-
 DECRETO Nº 3.056,DE 7 DE MAIO DE 1999.
 
 Dá nova redação aos arts. 3º e 6º do Decreto nº 2.047, de 29 de outubro de 1996, que dispõem sobre o Conselho Deliberativo da Política do Café.

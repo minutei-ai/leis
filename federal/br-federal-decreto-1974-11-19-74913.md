@@ -1,5 +1,3 @@
-###DEC-074913-0-000-19-11-1974@@@
-
 DECRETO Nº 74.913, DE 19 DE NOVEMBRO DE 1974.
 
 Declara a cessão de privilégio da Companhia Prada de Eletricidade para exploração de serviços de energia elétrica, outorga e transfere cessão para a Centrais Elétricas de Minas Gerais S. A. - CEMIG e dá outras providências.

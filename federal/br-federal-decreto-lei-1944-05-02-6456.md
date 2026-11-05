@@ -1,5 +1,3 @@
-###DEL-006456-0-000-02-05-1944@@@
-
 DECRETO-LEI  N.  6.456 – DE 2 DE MAIO DE 1944
 
 Incorpora ao Patrimônio Nacional o acervo de bens e direitos da firma Dahne, Conceição & Comp. e entidades dela subsidiárias, que têm a seu cargo a execução de obras e serviços de interesse público, e dá outras providências.

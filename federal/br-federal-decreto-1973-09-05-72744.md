@@ -1,5 +1,3 @@
-###DEC-072744-0-000-05-09-1973@@@
-
 DECRETO Nº 72.744, DE 5 DE SETEMBRO DE 1973.
 
 Autoriza a cessão sob a forma de utilização gratuita, do terreno que menciona, situado em Recife, no Estado de Pernambuco.

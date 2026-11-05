@@ -1,5 +1,3 @@
-###DEC-046955-0-000-02-10-1959@@@
-
 DECRETO Nº 46.955, DE 2 DE OUTUBRO DE 1959.
 
 Outorga à Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul concessão para distribuir energia elétrica.

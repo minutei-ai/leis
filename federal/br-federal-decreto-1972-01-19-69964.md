@@ -1,5 +1,3 @@
-###DEC-069964-0-000-19-01-1972@@@
-
 Decreto nº 69.964, de 19 de janeiro de 1972.
 
 Declara de utilidade pública a sociedade denominada "Aldeias Cristãs SOS", com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

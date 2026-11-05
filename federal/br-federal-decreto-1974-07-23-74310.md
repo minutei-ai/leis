@@ -1,5 +1,3 @@
-###DEC-074310-0-000-23-07-1974@@@
-
 DECRETO Nº 74.310 - DE 23 DE JULHO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Artes plásticas e Comunicações "Farias Brito" mantida pela Associação Paulista de Educação e Cultura - APEC, com sede na cidade de Guarulhos, Estado de São Paulo.

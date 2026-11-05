@@ -1,5 +1,3 @@
-###DEC-048000-0-000-05-04-1960@@@
-
 DECRETO Nº 48.000, DE 5 DE ABRIL DE 1960.
 
 Declara de utilidade pública a Associação Sanatório Santa Clara, com sede no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-097467-0-000-23-01-1989@@@
-
 DECRETO N° 97.467, DE 23 DE JANEIRO DE 1989
 
 Dispõe sobre aquisição de veículos.

@@ -1,5 +1,3 @@
-###DEL-008372-0-000-14-12-1945@@@
-
 DECRETO-LEI N. 8.372 – DE 14 DEZEMBRO DE 1945
 
 Dispõe sôbre promoções de funcionários dos quadros do Ministério da Aeronáutica.

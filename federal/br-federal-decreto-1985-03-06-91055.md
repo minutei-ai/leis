@@ -1,5 +1,3 @@
-###DEC-091055-0-000-06-03-1985@@@
-
 DECRETO Nº 91.055, DE 06 DE MARÇO DE 1985
 
 Autoriza a COBRA - COMPUTADORES E SISTEMAS BRASILEIROS S.A. a proceder ao aumento do limite do seu capital autorizado, bem como do capital social.

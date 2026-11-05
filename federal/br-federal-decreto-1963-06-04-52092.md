@@ -1,5 +1,3 @@
-###DEC-052092-0-000-04-06-1963@@@
-
 DECRETO Nº 52.092, DE 4 DE JUNHO DE 1963.
 
 Estabelece destinação específica para recursos provenientes de vários fundos.

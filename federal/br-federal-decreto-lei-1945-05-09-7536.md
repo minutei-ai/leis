@@ -1,5 +1,3 @@
-###DEL-007536-0-000-09-05-1945@@@
-
 DECRETO-LEI N. 7.536 – DE 9 DE MAIO DE 1945
 
 Abre, ao Ministério da Agricultura o crédito especial de Cr$ 3.000,00, para pagamento de gratificação de representação

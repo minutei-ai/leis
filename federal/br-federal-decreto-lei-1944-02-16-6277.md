@@ -1,5 +1,3 @@
-###DEL-006277-0-000-16-02-1944@@@
-
 DECRETO-LEI N. 6.277 – DE 16 DE FEVEREIRO DE 1944
 
 Autoriza a alienação de imóveis provenientes de herança jacente e constantes da relação anexa

@@ -1,5 +1,3 @@
-###DEL-007933-0-000-04-09-1945@@@
-
 DECRETO-LEI N. 7.933 – DE 4 DE SETEMBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 5.000.000,00, à verba que especifica.

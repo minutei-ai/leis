@@ -1,5 +1,3 @@
-###DEC-045387-0-000-03-02-1959@@@
-
 DECRETO Nº 45.387, DE 3 DE FEVEREIRO DE 1959.
 
 Autoriza João Gilson Chaves, a comprar pedras preciosas.

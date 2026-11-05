@@ -1,5 +1,3 @@
-###DEC-051073-0-000-28-07-1961@@@
-
 DECRETO Nº 51.073, DE 28 DE JULHO DE 1961.
 
 Declara públicas, de uso comum do domínio da União as águas do rio Marrecas, Santana e Santana, respectivamente nos seus trechos superior, médio e inferior.

@@ -1,5 +1,3 @@
-###DEC-091334-0-000-17-06-1985@@@
-
 DECRETO Nº 91.334, de 17 de junho de 1985
 
 Autoriza a Federação Nacional dos Corretores de Seguros a de Capitalização a filiar-se à Confederacion Panamericana de Produtores de Seguros e ao Bureau lnternational Des Producteurs D' Assurances e De Réassurances.

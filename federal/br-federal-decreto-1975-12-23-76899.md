@@ -1,5 +1,3 @@
-###DEC-076899-0-000-23-12-1975@@@
-
 DECRETO Nº 76.899, de 23 de Dezembro de 1975.
 
 Declara desnecessidade e extingue cargo do Quadro de Pessoal do Instituto Nacional de Previdência Social (INPS) e dá outras providências.

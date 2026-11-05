@@ -1,5 +1,3 @@
-###DEC-075570-0-000-07-04-1975@@@
-
 DECRETO Nº 75.570, DE 7 DE ABRIL DE 1975.
 
 Altera a denominação da Superintendência Local do Instituto de Previdência e Assistência dos Servidores do Estado no antigo Estado da Guanabara e dá outras providências.

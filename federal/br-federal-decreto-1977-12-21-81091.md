@@ -1,5 +1,3 @@
-###DEC-081091-0-000-21-12-1977@@@
-
 DECRETO Nº 81.091, DE 21 DE DEZEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Mecanização Agrícola, da Escola Superior de Agricultura de Mossoró, com sede na cidade de Mossoró, Estado do Rio Grande do Norte.

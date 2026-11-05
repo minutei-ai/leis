@@ -1,5 +1,3 @@
-###DEL-006115-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.115 – DE 16 DE DEZEMBRO DE 1943
 
 Concede pensão especial à viúva e filhos menores de Joaquim José Machado, vítima de acidente em serviço

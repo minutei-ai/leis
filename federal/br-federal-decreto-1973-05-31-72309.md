@@ -1,5 +1,3 @@
-###DEC-072309-0-000-31-05-1973@@@
-
 DECRETO Nº 72.309, DE 31 DE MAIO DE 1973.
 
 Aprova o Regulamento para o Centro Médico Naval Marcílio Dias.

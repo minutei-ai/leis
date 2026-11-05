@@ -1,5 +1,3 @@
-###DEC-050901-0-000-03-07-1961@@@
-
 DECRETO Nº 0.901, DE 3 DE JULHO DE 1961.
 
 Revigora a concessão outorgada à Emissora Rural A Voz do São Francisco Limitada pelo Decreto número 50.089-61, para instalar uma estação radiodifusora.

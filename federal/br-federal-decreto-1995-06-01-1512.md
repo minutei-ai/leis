@@ -1,7 +1,3 @@
-1
-
-###DEC-001512-0-000-01-06-1995@@@
-
 DECRETO Nº 1.512, DE 1º DE JUNHO DE 1995
 
 Dá nova redação ao art. 45 do Regulamento de Promoções de Praças da Marinha, aprovado pelo Decreto nº 684, de 19 de novembro de 1992.

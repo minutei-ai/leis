@@ -1,5 +1,3 @@
-###DEL-007736-0-000-13-07-1945@@@
-
 DECRETO-LEI N. 7.736 – DE 13 DE JULHO DE 1945
 
 Considera incorporadas ao vencimento ou remuneração, para efeito do provento de aposentadoria, as diferenças asseguradas em lei.

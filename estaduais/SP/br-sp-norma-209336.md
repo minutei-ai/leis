@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209336)<br>
-
 # DECRETO N° 68.471, DE 22 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de retorno no km 209+900m da Rodovia SP-304, no Município de São Pedro, e dá providências correlatas._

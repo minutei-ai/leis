@@ -1,5 +1,3 @@
-###DEC-059600-0-000-28-11-1966@@@
-
 DECRETO Nº 59.600, DE 28 DE NOVEMBRO DE 1966.
 
 Concede à Société Cotonnière Belge-Brésilienne autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

@@ -1,5 +1,3 @@
-###DEC-096934-0-000-04-10-1988@@@
-
 DECRETO Nº 96.934, DE 4 DE OUTUBRO DE 1988
 
 Dispõe sobre a estrutura básica do Ministério do Interior e dá outras providências.

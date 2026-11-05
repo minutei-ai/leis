@@ -1,5 +1,3 @@
-###DEC-072793-0-000-13-09-1973@@@
-
 DECRETO Nº 72.793, DE 13 DE setembro de 1973.
 
 Autorizo o funcionamento da Faculdade de Ciências Contábeis e Administrativas do Meier-GB, com sede na cidade do Rio de Janeiro, Estado da Guanabara, mantida pela Sociedade Educacional São Paulo Apóstolo, de São Paulo.

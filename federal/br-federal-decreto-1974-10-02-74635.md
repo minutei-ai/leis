@@ -1,5 +1,3 @@
-###DEC-074635-0-000-02-10-1974@@@
-
 decreto nº 74.635, de 2 de outubro de 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espirito Santo Centrais Elétricas S.A. - ESCELSA, Estado do Espírito Santo.

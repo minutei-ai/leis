@@ -1,7 +1,3 @@
-1
-
-###DEC-001553-0-000-13-07-1995@@@
-
 DECRETO Nº 1.553, DE 13 DE JULHO DE 1995
 
 Altera, no Ministério do Exército, a sede do Departamento de Ensino e Pesquisa e dá Diretoria de Ensino Preparatório e Assistencial, de Brasília-DF para o Rio de Janeiro - RJ, e dá outras providências.

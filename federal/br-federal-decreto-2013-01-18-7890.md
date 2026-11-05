@@ -1,5 +1,3 @@
-###DEC-007890-0-000-18-01-2013-PUB-01@@@
-
 DECRETO Nº\- 7.890, DE 18 DE JANEIRO DE 2013
 
 Altera o Decreto nº 7.837, de 9 de novembro de 2012, que dispõe sobre o aporte de recursos da União de que trata o art. 2º da Medida Provisória nº 587, de 9 de novembro de 2012, e sobre o valor do benefício Garantia-Safra, de que trata a Lei nº 10.420, de 10 de abril de 2002, para a safra 2011/ 2012.

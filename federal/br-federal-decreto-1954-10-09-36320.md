@@ -1,12 +1,10 @@
-###DEC-036320-0-000-09-10-1954@@@
+**DECRETO Nº 36.320, DE 9 DE OUTUBRO 1954.**
 
-<strong>DECRETO Nº 36.320, DE 9 DE OUTUBRO 1954.</strong>
+***Cria a comissão permanente de material e pesquisas militares e da outras providência. O presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da constituição, decreta:***
 
-<em><strong>Cria a comissão permanente de material e pesquisas militares e da outras providência. O presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da constituição, decreta:</strong></em>
+**OPRESIDENTEDAREPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.895, de 29 de janeiro de 1940 (Código de Minas),
 
-<strong>O</strong> <strong>PRESIDENTE</strong> <strong>DA</strong> <strong>REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.895, de 29 de janeiro de 1940 (Código de Minas),
-
-<strong>Art</strong>. 1° com o propósito de alcançar maior objetividade nos estudos relacionados com a logística industrial, tendo em vista o preparo da mobilização total da nação para a guerra, é criada a pesquisas militares (C. P. M. P. M.), subordinada ao Estado Maior das Fôrças Armada.
+**Art**. 1° com o propósito de alcançar maior objetividade nos estudos relacionados com a logística industrial, tendo em vista o preparo da mobilização total da nação para a guerra, é criada a pesquisas militares (C. P. M. P. M.), subordinada ao Estado Maior das Fôrças Armada.
 
 § 1° compete à C. P. M. P. M.:
 
@@ -24,7 +22,7 @@ c) Assessorar o chefe do E.M.F.A., apresentando sugestões ou emitindo pareceres
 
 § 2º Ao Chefe do E.M.F.A. cabe aprovar as instruções que regularão o funcionamento da C.P.M.P.M.
 
-<strong>Art</strong>. 2º A.C.M.P.M. será composta de:
+**Art**. 2º A.C.M.P.M. será composta de:
 
 \- um oficial-general técnico de  qualquer das corporações armadas, com o pôsto correspondente ao de General de Brigada, que exercerá a sua presidência;
 
@@ -40,13 +38,13 @@ c) Assessorar o chefe do E.M.F.A., apresentando sugestões ou emitindo pareceres
 
 § 2º Os demais elemento da comissão serão postos á disposição do E.M.F.A., conforme estabelece o Regulamento aprovado pelo Decreto número 26.607, de 27 de abril de 1949.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data da sua publicação
+**Art**. 3º Êste decreto entrará em vigor na data da sua publicação
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio janeiro 9 de outubro de 1954; 133º da independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Edmundo Jordão Amorim do Vale
 

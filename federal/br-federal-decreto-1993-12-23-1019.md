@@ -1,7 +1,3 @@
-1
-
-###DEC-001019-0-000-23-12-1993@@@
-
 DECRETO Nº 1.019, DE 23 DE DEZEMBRO DE 1993
 
 Consolida o regulamento da Lei nº 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesouro Nacional - NTN e dá outras providências.

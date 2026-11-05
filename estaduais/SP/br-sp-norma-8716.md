@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/8716)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1999/compilacao-lei.complementar-863-29.12.1999.html)
 
 # LEI COMPLEMENTAR N° 863, DE 29 DE DEZEMBRO DE 1999
@@ -13,7 +12,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO: 
 
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1°** \- A elaboração, a redação, a alteração e a consolidação das leis, decretos e demais atos normativos estaduais previstos no artigo 21 da Constituição do Estado, bem como os atos de regulamentação expedidos por órgãos do Poder Executivo, obedecerão ao disposto nesta lei complementar.
@@ -26,10 +26,12 @@ Disposições Preliminares
 
 **2.** as leis complementares, ordinárias e os decretos terão numeração seqüencial em continuidade às séries iniciadas em 1972.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Das Técnicas de Elaboração, Redação e Alteração das Leis
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Estruturação das Leis
 
 **Artigo 3°** \- A lei será estruturada em três partes:
@@ -68,7 +70,8 @@ _\- "Caput" com redação dada pela [Lei Complementar n° 944, de 26/06/2003](ht
 
 _\- Parágrafo único acrescentado pela [Lei Complementar n° 944, de 26/06/2003](https://www.al.sp.gov.br/norma/2035)._
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Articulação e da Redação das Leis
 
 **Artigo 7°** \- A articulação dos textos legais deverá atender aos seguintes princípios:
@@ -133,7 +136,8 @@ _\- Alínea "g" acrescentada pela [Lei Complementar n° 944, de 26/06/2003](http
 
 **d)** promover as discriminações e enumerações por meio dos incisos, itens e alíneas.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Alteração das Leis
 
 ~~Artigo 9° - A alteração das leis será feita por meio de substituição no próprio texto do dispositivo alterado ou acréscimo de dispositivo novo, observadas as seguintes regras:~~
@@ -178,7 +182,8 @@ _\- Alínea "c" acrescentada pela [Lei Complementar n° 944, de 26/06/2003](htt
 
 _\- Inciso IV revogado pela [Lei Complementar n° 944, de 26/06/2003](https://www.al.sp.gov.br/norma/2035)._
 
-~~§ 1° - Far-se-á reprodução integral do texto legal, quando a alteração atingir a maioria dos artigos ou quando tenha sido precedida de~~ <br>
+~~§ 1° - Far-se-á reprodução integral do texto legal, quando a alteração atingir a maioria dos artigos ou quando tenha sido precedida de~~ 
+
 ~~sucessivas modificações no texto.~~
 
 ~~§ 2° - Far-se-á, na hipótese de revogação, indicação expressa do dispositivo revogado.~~
@@ -187,10 +192,12 @@ _\- Inciso IV revogado pela [Lei Complementar n° 944, de 26/06/2003](https://ww
 
 _\- Parágrafo único acrescentado pela [Lei Complementar n° 944, de 26/06/2003](https://www.al.sp.gov.br/norma/2035), revogados os §§ 1° e 2°._
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Consolidação das Leis e Outros Atos Normativos
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Consolidação das Leis
 
 ~~Artigo 10 - As leis estaduais serão reunidas em codificações e em coletâneas integradas por volumes contendo matérias conexas ou afins, constituindo em seu todo, juntamente com a Constituição Estadual, a Consolidação das Leis Estaduais Paulistas.~~
@@ -305,14 +312,16 @@ _\- Item 2 acrescentado pela [Lei Complementar n° 944, de 26/06/2003](https://w
 
 _\- Parágrafo único com redação dada pela [Lei Complementar n° 944, de 26/06/2003](https://www.al.sp.gov.br/norma/2035)._
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Consolidação de Outros Atos Normativos
 
 **Artigo 13** \- As Secretarias de Estado e as entidades da administração indireta que lhes são vinculadas adotarão, em prazo estabelecido em decreto, as providências necessárias para, observado no que couber o disposto no artigo 11, proceder ao exame e à consolidação dos decretos de conteúdo normativo e atos normativos inferiores em vigor, vinculados às respectivas áreas de competência, remetendo os textos consolidados ao Governador do Estado, que os examinará e reunirá em coletânea, para posterior publicação.
 
 **Artigo 14** \- Até 180 (cento e oitenta) dias do inicio de cada mandato, o Chefe do Poder Executivo promoverá a atualização das coletâneas a que se refere o artigo anterior, incorporando aos textos que as integram os decretos e atos de conteúdo normativo e geral editados no quadriênio anterior.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Disposições Finais
 
 **Artigo 15** \- Eventual inexatidão formal de norma elaborada mediante processo legislativo regular não constitui escusa válida para o seu descumprimento.

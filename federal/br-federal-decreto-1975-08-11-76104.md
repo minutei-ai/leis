@@ -1,5 +1,3 @@
-###DEC-076104-0-000-11-08-1975@@@
-
 Decreto nº 76.104 - de 11 de agosto de 1975
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado do Mato Grosso.

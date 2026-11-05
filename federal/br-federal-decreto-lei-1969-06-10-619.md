@@ -1,5 +1,3 @@
-###DEL-000619-0-000-10-06-1969@@@
-
 DECRETO-LEI Nº 619, DE 10 DE JUNHO DE 1969
 
 Dispõe sôbre a Liquidação da Companhia Nacional de Seguro Agrícola e dá outras providências.

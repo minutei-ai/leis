@@ -1,5 +1,3 @@
-###DEC-050802-0-000-16-06-1961@@@
-
 DECRETO Nº 50.802, DE 16 DE JUNhO DE 1961.
 
 Transfere da Prefeitura Municipal de Goiás para a Centrais Elétricas de Goiás S.A. a concessão para a produção e fornecimento de energia elétrica na cidade de Goiás, Estado de Goiás.

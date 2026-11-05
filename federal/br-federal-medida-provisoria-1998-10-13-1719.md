@@ -1,5 +1,3 @@
-###MPV-001719-0-000-13-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.719, DE 13 DE OUTUBRO DE 1998
 
 Altera dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966, da Lei nº 6.435, de 15 de julho de 1977, da Lei nº 5.627, de 1º de dezembro de 1970, e dá outras providências.

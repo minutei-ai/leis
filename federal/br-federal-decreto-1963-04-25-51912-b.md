@@ -1,5 +1,3 @@
-###DEC-051912-B-000-25-04-1963@@@
-
 DECRETO Nº 51.912-b, DE 25 DE ABRIL DE 1963.
 
 Renova a autorização contida no Decreto nº 45.537, de 5 de março de 1959.

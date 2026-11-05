@@ -1,5 +1,3 @@
-###DEC-044867-0-000-26-11-1958@@@
-
 decreto nº 44.867, de 26 de novembro de 1958.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Rio Grande do Norte, o crédito especial de Cr$300.000,00, para o fim que específica.

@@ -1,5 +1,3 @@
-###DEC-003018-0-000-06-04-1999@@@
-
 DECRETO Nº 3.018, DE 6 DE ABRIL DE 1999.
 
 Promulga a Convenção para Prevenir e Punir os Atos de Terrorismo Configurados em Delitos Contra as Pessoas e a Extorsão Conexa, Quando Tiverem Eles Transcendência Internacional, concluída em Washington, em 2 de fevereiro de 1971.

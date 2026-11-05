@@ -1,5 +1,3 @@
-###DEL-000231-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 231, DE 28 DE fevereiro DE 1967
 
 Altera o Decreto-lei nº 147, de 3 de fevereiro de 1967 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069610-0-000-29-11-1971@@@
-
 DECRETO Nº 69.610 - DE 29 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública o Patronato Juvenal de Carvalho, com sede em Cascavel, Estado do Ceará.

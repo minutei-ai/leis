@@ -1,5 +1,3 @@
-###DEC-081002-0-000-12-12-1977@@@
-
 DECRETO Nº 81.002, DE 12 DE DEZEMBRO DE 1977.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário conchilífero no Município de Salvador, Estado da Bahia.

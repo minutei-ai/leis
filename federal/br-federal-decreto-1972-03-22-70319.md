@@ -1,5 +1,3 @@
-###DEC-070319-0-000-22-03-1972@@@
-
 DECRETO Nº 70.319, DE 22 DE MARÇO DE 1972.
 
 Cria a Comissão Coordenadora do Projeto Aeroporto Internacional de Manaus (CCPAIM).

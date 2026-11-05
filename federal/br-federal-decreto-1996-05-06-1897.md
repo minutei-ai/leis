@@ -1,5 +1,3 @@
-###DEC-001897-0-000-06-05-1996@@@
-
 DECRETO Nº 1.897, DE 6 DE MAIO DE 1996.
 
 Dispõe sobre a aplicação do Decreto nº 1.805, de 6 de fevereiro de 1996.

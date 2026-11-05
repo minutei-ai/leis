@@ -1,7 +1,3 @@
-1
-
-###MPV-000770-0-000-20-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 770,  DE  20  DE  DEZEMBRO  DE  1994
 
 Dispõe sobre a assunção, pela União, de crédito da Export Development Corporation (EDC) e de debêntures emitidas pela Embraer - Empresa Brasileira de Aeronáutica S.A., bem como sobre a utilização de créditos da União junto à Embraer - Empresa Brasileira de Aeronáutica S.A.

@@ -1,5 +1,3 @@
-###DEC-060425-0-000-11-03-1967@@@
-
 decreto nº 60.425, de 11 de março de 1967.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

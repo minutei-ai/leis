@@ -1,5 +1,3 @@
-###DEC-045645-0-000-25-03-1959@@@
-
 DECRETO Nº 45.645, de 25 de março de 1959.
 
 Outorga ao Govêrno do Estado do Rio de Janeiro concessão para distribuir energia elétrica no município de São Pedro da Aldeia.

@@ -1,5 +1,3 @@
-###DEL-008321-0-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.321 – DE 7 DE DEZEMBRO DE 1945
 
 Altera o parágrafo único do artigo 2º do Decreto-lei n.º 8.208, de 22 de novembro de 1945.

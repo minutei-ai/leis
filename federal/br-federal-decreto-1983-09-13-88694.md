@@ -1,5 +1,3 @@
-###DEC-088694-0-000-13-09-1983@@@
-
 Decreto nº 88.694, de 13 de setembro de 1983
 
 Decreta a intervenção federal nos serviços públicos de energia elétrica de que é concessionária a Sociedade Anônima de Eletrificação da Paraíba-SAELPA, e dá outras providências.

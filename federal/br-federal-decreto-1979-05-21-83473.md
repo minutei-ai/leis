@@ -1,5 +1,3 @@
-###DEC-083473-0-000-21-05-1979@@@
-
 Decreto nº 83.473, de 21 de maio de 1979.
 
 Concede reconhecimento ao curso de Desenho, da Escola de Música e Belas Artes do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

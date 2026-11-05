@@ -1,5 +1,3 @@
-###DEC-087591-0-000-20-09-1982@@@
-
 Decreto nº 87.591, de 20 de setembro de1982.
 
 Cria, no Estado de Pernambuco, a Reserva Biológica de Serra Negra.

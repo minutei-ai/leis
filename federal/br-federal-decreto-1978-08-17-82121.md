@@ -1,5 +1,3 @@
-###DEC-082121-0-000-17-08-1978@@@
-
 decreto nº 82.121, de 17 de agosto de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-007451-0-000-09-04-1945@@@
-
 DECRETO-LEI N. 7.451 – DE 9 DE ABRIL DE 1945
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Fazenda e dá outras providências

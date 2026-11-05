@@ -1,5 +1,3 @@
-###DEC-069318-0-000-06-10-1971@@@
-
 DECRETO Nº 69.318, DE 6 DE OUTUBRO DE 1971.
 
 Aproveita servidor em disponibilidade e dá outras providências.

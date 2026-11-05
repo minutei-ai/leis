@@ -1,5 +1,3 @@
-###DEC-007045-0-000-22-12-2009@@@
-
 DECRETO Nº 7.045, DE 22 DE DEZEMBRO DE 2009. <http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw\_Identificacao/DEC%207.045-2009?OpenDocument>
 
 Altera, acresce e revoga dispositivos do Decreto no 6.296, de 11 de dezembro de 2007.

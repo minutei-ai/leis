@@ -1,5 +1,3 @@
-###DEL-009282-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.282 – DE 23 DE MAIO DE 1946
 
 Suspende, por dois anos, no Distrito Federal, o disposto no artigo 10 do Decreto-lei nº 3.365 de 21 de Junho de 1941.

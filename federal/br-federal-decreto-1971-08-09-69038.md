@@ -1,5 +1,3 @@
-###DEC-069038-0-000-09-08-1971@@@
-
 DECRETO Nº 69.038, DE 9 DE AGÔSTO DE 1971.
 
 Modifica a redação do dispositivo do Estatuto da Fundação Centro Brasileiro de TV Educativa.

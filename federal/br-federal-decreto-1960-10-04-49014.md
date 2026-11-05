@@ -1,5 +1,3 @@
-###DEC-049014-0-000-04-10-1960@@@
-
 DECRETO Nº 49.014, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Sizínio Felisberto a pesquisar calcáreo no município de Cachoeiro do Itapemirim, Estado do Espirito Santos.

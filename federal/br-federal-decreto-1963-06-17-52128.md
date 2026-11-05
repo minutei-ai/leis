@@ -1,5 +1,3 @@
-###DEC-052128-0-000-17-06-1963@@@
-
 Decreto nº 52.128, de 17 de junho de 1963.
 
 Constitui Grupo Executivo para os fins que especifica.

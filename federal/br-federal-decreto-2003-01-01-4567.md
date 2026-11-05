@@ -1,5 +1,3 @@
-###DEC-004567-0-000-01-01-2003@@@
-
 DECRETO Nº 4.567, DE 1º JANEIRO DE 2003.
 
 Dispõe sobre o quantitativo de cargos em comissão e funções de confiança da Administração Pública Federal direta, autárquica e fundacional, estabelece metas e diretrizes relativas à revisão de estruturas dos Ministérios, autarquias e fundações federais, fixa os parâmetros a serem observados para a criação, por transformação, ou transferência de cargos em comissão ou funções gratificadas, e dá outras providências.
@@ -100,8 +98,10 @@ Dispõe sobre o quantitativo de cargos em comissão e funções de confiança da
 
         Brasília, 1o de janeiro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Márcio Thomaz Bastos<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Márcio Thomaz Bastos
+
 José Dirceu de Oliveira e Silva
 
 ANEXO I

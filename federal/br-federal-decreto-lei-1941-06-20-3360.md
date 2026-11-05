@@ -1,5 +1,3 @@
-###DEL-003360-0-000-20-06-1941@@@
-
 DECRETO-LEI N. 3.360 – DE 20 DE JUNHO DE 1941
 
 Dá nova distribuição à subconsignação 03-18 da verba 5 do atual orçamento do Ministério da Guerra

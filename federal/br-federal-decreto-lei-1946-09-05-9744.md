@@ -1,5 +1,3 @@
-###DEL-009744-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.744 – DE 5 DE SETEMBRO DE 1946
 
 Reduz para Cr$ 174.116,00 o crédito especial de Cr$ 187.200,00, aberto pelo Decreto-lei nº 8.484, de 28 de De-de 1946.

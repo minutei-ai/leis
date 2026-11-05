@@ -1,5 +1,3 @@
-###DEC-005108-0-000-17-06-2004@@@
-
 DECRETO Nº 5.108, DE 17 DE JUNHO DE 2004
 
 Dispõe sobre procedimentos administrativos para autorizar, excepcionalmente, a compensação de faltas ao serviço em decorrência de paralisação de servidores públicos, no âmbito da administração federal direta, das autarquias e das fundações públicas do Poder Executivo da União.

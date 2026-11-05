@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/331960de-f8f2-4118-b7d7-18f4ee35eedb/texto#nowhere)
 
-###DEL-001296-0-000-26-12-1973@@@
-
 # DECRETO-LEI Nº 1.296, DE 26 DE DEZEMBRO DE 1973
 
 Altera a legislação relativa ao Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos e dá outras providências.
@@ -14,9 +12,61 @@ Art. 1º O artigo 1º, caput, do Decreto-lei nº 61, de 21 de novembro de 1966, 
 
 “Art. 1º O imposto único sobre lubrificantes e combustíveis líquidos e gasosos, qualquer que seja sua procedência, ou a de petróleo bruto que os originar, será adicionado ao preço dos derivados realizados pelas refinarias, conforme definido no art. 2º deste Decreto-lei, nas seguintes alíquotas calculadas sobre o custo CIF, expresso em moeda nacional, da unidade de volume do petróleo bruto:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Gás liquefeito de Petróleao (GLP) ............................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>28,9</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Gasolina de Aviação ...............................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>107,3</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Querosene de Aviação ............................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>89,7</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Gasolina Automotiva, Tipo A ...................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>128,2</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Gasolina Automotiva, Tipo B ...................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>187,2</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Querosene e “Signal Oil” .........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>47,8</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Óleo Diesel ............................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>65,1</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Óleo Combustível ...................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>Isento</span></p></td></tr></tbody></table>
+Gás liquefeito de Petróleao (GLP) ............................................................................
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:306.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Óleos Lubrificantes simples, - compostos ou emulsivos, a granel ou embalados no país...........................................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>274,2</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>a</span></p></td><td style="width:27.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>349,0</span></p></td></tr><tr><td style="width:306.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Óleos Lubrificantes simples, - compostos ou emulsivos embaladas importados......................................................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>320,0</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>a</span></p></td><td style="width:27.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>407,2</span></p></td></tr><tr><td style="width:306.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="font-style:italic">Naftas</span><span> e </span><span style="font-style:italic">White</span><span> </span><span style="font-style:italic">Spirits</span><span> derivados do petróleo......................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>1,0</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>a</span></p></td><td style="width:27.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>128,2”</span></p></td></tr></tbody></table>
+28,9
+
+Gasolina de Aviação ...............................................................................................
+
+107,3
+
+Querosene de Aviação ............................................................................................
+
+89,7
+
+Gasolina Automotiva, Tipo A ...................................................................................
+
+128,2
+
+Gasolina Automotiva, Tipo B ...................................................................................
+
+187,2
+
+Querosene e “Signal Oil” .........................................................................................
+
+47,8
+
+Óleo Diesel ............................................................................................................
+
+65,1
+
+Óleo Combustível ...................................................................................................
+
+Isento
+
+Óleos Lubrificantes simples, - compostos ou emulsivos, a granel ou embalados no país...........................................................................
+
+274,2
+
+a
+
+349,0
+
+Óleos Lubrificantes simples, - compostos ou emulsivos embaladas importados......................................................................................
+
+320,0
+
+a
+
+407,2
+
+Naftas e White Spirits derivados do petróleo......................................
+
+1,0
+
+a
+
+128,2”
 
 Art. 2º Permanecem inalterados os demais parágrafos do artigo 1º, do Decreto-lei nº 61, de 21 de novembro de 1966, passando a faculdade outorgada ao Poder Executivo pelo § 3º do citado artigo, de alterar em até 40% as alíquotas do imposto único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, a incidir sobre as alíquotas fixadas neste Decreto-lei.
 

@@ -62,7 +62,8 @@ VII – arquivar qualquer documento por meio de microfilme ou por meio digital, 
 
 § 6º Na contagem dos prazos previstos no § 5º deste artigo, não se computará o tempo em que a administração necessitar diligenciar, perante o particular, a complementação da instrução do processo ou existirem obstáculos que, excepcional e motivadamente, dificultarem ou impedirem a análise do pedido formulado.
 
-Art. 5º Serão consideradas atividades econômicas de baixo risco as assim regulamentadas por decreto estadual.<br>
+Art. 5º Serão consideradas atividades econômicas de baixo risco as assim regulamentadas por decreto estadual.
+
 \- [Vide Decreto nº 10.500, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109175) - Regulamenta as atividades econômicas classificadas como de baixo risco para as quais fica dispensada a obtenção prévia dos atos públicos de liberação de funcionamento, conforme a Lei federal nº 13.874, de 20 de setembro de 2019, e a [Lei estadual nº 22.612](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108673), de 11 de abril de 2024.
 
 Art. 6º As atividades econômicas de baixo risco serão fiscalizadas em momento posterior, de ofício ou em razão de denúncia, a fim de averiguar se o estabelecimento está em conformidade com as normas pertinentes ao ramo da atividade econômica.
@@ -117,8 +118,10 @@ CAPÍTULO V
 
 DO CONSELHO CONSULTIVO DE LIBERDADE ECONÔMICA – CCLE
 
-Art. 10. Fica instituído o Conselho Consultivo de Liberdade Econômica – CCLE, órgão técnico de caráter não vinculativo, que tem por atribuição, entre outras, apoiar o Poder Executivo na definição das atividades de baixo risco, conforme o inciso I do art. 4º e o art. 5º desta Lei.<br>
-\- [Vide Decreto nº 10.759, de 15-8-2025](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/111146) - Regulamenta o Conselho Consultivo de Liberdade Econômica – CCLE, instituído pelo art. 10 da Lei nº 22.612, de 11 de abril de 2024.<br>
+Art. 10. Fica instituído o Conselho Consultivo de Liberdade Econômica – CCLE, órgão técnico de caráter não vinculativo, que tem por atribuição, entre outras, apoiar o Poder Executivo na definição das atividades de baixo risco, conforme o inciso I do art. 4º e o art. 5º desta Lei.
+
+\- [Vide Decreto nº 10.759, de 15-8-2025](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/111146) - Regulamenta o Conselho Consultivo de Liberdade Econômica – CCLE, instituído pelo art. 10 da Lei nº 22.612, de 11 de abril de 2024.
+
  
 
 Art. 11. Compete ao CCLE:

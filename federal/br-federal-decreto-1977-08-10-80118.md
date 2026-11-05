@@ -1,5 +1,3 @@
-###DEC-080118-0-000-10-08-1977@@@
-
 DECRETO Nº 80.118, DE 10 de aGOSTO DE 1977.
 
 Concede à Mineração Santa Mônica Ltda. o direito de lavrar bauxita no Município de Faro, Estado do Pará.

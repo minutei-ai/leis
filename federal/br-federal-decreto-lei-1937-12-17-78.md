@@ -1,5 +1,3 @@
-###DEL-000078-0-000-17-12-1937@@@
-
 DECRETO-LEI N. 78 – DE 17 DE DEZEMBRO DE 1937
 
 Regula a aposentadoria dos capitães de navíos nacionais que, pot fôrça do dispositivo constitucional, não mais puderem exercer cargos de comando na Marinha Mercante Nacional

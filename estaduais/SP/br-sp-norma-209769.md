@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209769)<br>
-
 # DECRETO N° 68.719, DE 25 DE JULHO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Taquaritinga, o imóvel que especifica._

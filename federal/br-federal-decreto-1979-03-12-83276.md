@@ -1,5 +1,3 @@
-###DEC-083276-0-000-12-03-1979@@@
-
 Decreto nº 83.276, de 12 de março de 1979
 
 Concede reconhecimento aos cursos de Serviço Social e de estudos Sociais da Faculdade de Ciências Humanas e Sociais de Curitiba, Estado do Paraná.

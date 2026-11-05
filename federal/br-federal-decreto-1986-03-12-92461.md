@@ -1,5 +1,3 @@
-###DEC-092461-0-000-12-03-1986@@@
-
 DECRETO Nº 92.461, DE 12 DE MARÇO DE 1986
 
 Altera os parágrafos 3º e 4º do artigo 22 do Decreto nº 80.145, de 15 de agosto de 1977, que "regulamenta a Lei nº 6.288, de 11 de dezembro de 1975, que dispõe sobre a utilização, movimentação e transporte, inclusive intermodal, de mercadorias em unidades de carga, e dá outras providências."

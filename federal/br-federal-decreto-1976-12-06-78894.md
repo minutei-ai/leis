@@ -1,5 +1,3 @@
-###DEC-078894-0-000-06-12-1976@@@
-
 decreto Nº 78.894, de 6 de Dezembro de 1976.
 
 Autoriza a transformação do curso de Faculdade de Filosofia, Ciência e Letras de Sorocaba, com sede na cidade de Sorocaba, Estado de São Paulo.

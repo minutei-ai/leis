@@ -1,5 +1,3 @@
-###DEC-003764-0-000-06-03-2001@@@
-
 DECRETO Nº 3.764, DE 6 DE MARÇO DE 2001
 
 Revoga o Decreto nº 3.367, de 22 de fevereiro de 2000, que dispõe sobre o processo de desestatização das empresas do setor elétrico, incluídas no Programa Nacional de Desestatização - PND.

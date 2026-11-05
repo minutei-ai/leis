@@ -1,5 +1,3 @@
-###DEC-045642-0-000-25-03-1959@@@
-
 DECRETO N. 45.642 – DE 25 DE MARÇO DE 1959
 
 Declara públicas de uso comum, do domínio do Estado de Goiás, as águas do Rio Lageado.

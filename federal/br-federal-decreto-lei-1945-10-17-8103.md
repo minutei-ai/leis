@@ -1,5 +1,3 @@
-###DEL-008103-0-000-17-10-1945@@@
-
 DECRETO-LEI N. 8.103 – DE 17 DE OUTUBRO DE 1945
 
 Concede auxílio a técnicos estrangeiros para despesas de viagem.

@@ -1,5 +1,3 @@
-###DEC-090630-0-000-05-12-1984@@@
-
 Decreto nº 90.630, de 05 de dezembro de 1984.
 
 Retifica a autorização para o funcionamento do curso de Serviço Social de que trata o Decreto nº 90.405, de 07 de novembro de 1984.

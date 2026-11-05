@@ -1,5 +1,3 @@
-###DEC-004850-0-000-02-10-2003@@@
-
 DECRETO Nº 4.850,  DE 2 DE OUTUBRO DE 2003.
 
        Institui Comissão Interministerial com a finalidade de obter informações que levem à localização dos restos mortais de participantes da Guerrilha do Araguaia, e dá outras providências.
@@ -78,8 +76,12 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 2 de outubro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-José Dirceu de Oliveira e Silva<br>
-Álvaro Augusto Ribeiro Costa<br>
-Marcos Thomaz Bastos<br>
+LUIZ INÁCIO LULA DA SILVA
+
+José Dirceu de Oliveira e Silva
+
+Álvaro Augusto Ribeiro Costa
+
+Marcos Thomaz Bastos
+
 José Viegas Filho

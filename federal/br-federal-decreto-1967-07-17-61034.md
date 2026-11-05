@@ -1,5 +1,3 @@
-###DEC-061034-0-000-17-07-1967@@@
-
 DECRETO Nº 61.034, DE 17 DE JULHO DE 1967.
 
 Cria a Embaixada do Brasil no Reino da Líbia.

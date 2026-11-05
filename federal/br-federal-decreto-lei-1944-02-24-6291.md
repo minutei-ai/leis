@@ -1,5 +1,3 @@
-###DEL-006291-0-000-24-02-1944@@@
-
 DECRETO-LEI N. 6.291 – DE 24 DE FEVEREIRO DE 1944
 
 Dispõe sôbre a retribuição dos substitutos de ocupantes de cargos isolados, extintos quando vagarem, e dá outras providências

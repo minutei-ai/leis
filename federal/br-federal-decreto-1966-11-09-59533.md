@@ -1,5 +1,3 @@
-###DEC-059533-0-000-09-11-1966@@@
-
 DECRETO Nº 59.533, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza a mineração Caeté S.A. a pesquisar dolomita no município de Santa Bárbara, Estado de Minas Gerais.

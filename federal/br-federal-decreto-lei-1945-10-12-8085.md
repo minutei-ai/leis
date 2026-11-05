@@ -1,5 +1,3 @@
-###DEL-008085-0-000-12-10-1945@@@
-
 DECRETO-LEI N. 8.085 – DE 12 DE OUTUBRO DE 1945
 
 Altera dispositivos do Decreto-lei número 4.521, de 24 de julho de 1942.

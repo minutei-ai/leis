@@ -1,6 +1,4 @@
-###DEC-063277-0-000-25-09-1968@@@
-
-<strong>DECRETO Nº 63.277, DE 25 DE SETEMBRO DE 1968.</strong>
+**DECRETO Nº 63.277, DE 25 DE SETEMBRO DE 1968.**
 
 <!-- fac-simile-oficial:inicio -->
 

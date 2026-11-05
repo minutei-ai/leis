@@ -1,5 +1,3 @@
-###DEL-009695-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.695 – DE 2 DE SETEMBRO DE 1946
 
 Torna extensivo dispositivo do Decreto-lei nº 3.836, de 18-11-1941.

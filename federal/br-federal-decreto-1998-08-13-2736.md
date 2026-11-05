@@ -1,5 +1,3 @@
-###DEC-002736-0-000-13-08-1998@@@
-
 DECRETO Nº 2.736, DE 13 DE AGOSTO DE 1998
 
 Promulga o Acordo Internacional sobre a Utilização de Estações Terrenas de Bordo da INMARSAT em Águas Territoriais e em Portos, assinado em Londres, em 16 de outubro de 1985.

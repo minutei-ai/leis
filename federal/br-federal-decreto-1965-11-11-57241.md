@@ -1,5 +1,3 @@
-###DEC-057241-0-000-11-11-1965@@@
-
 DECRETO Nº 57.241, DE 11 DE NOVEMBRO DE 1965.
 
 Concede à sociedade Navegação Atlântico Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

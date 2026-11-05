@@ -1,5 +1,3 @@
-###DEC-047746-0-000-03-02-1960@@@
-
 DECRETO Nº 47.746, DE 3 DE FEVEREIRO DE 1960.
 
 Autoriza a firma Maurício Brandt & Cia. Ltda, a comprar pedras preciosas.

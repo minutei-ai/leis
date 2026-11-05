@@ -1,5 +1,3 @@
-###DEC-081430-0-000-07-03-1978@@@
-
 Decreto nº 81.430, de 07 de março de 1978.
 
 Decreta de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Paraná.

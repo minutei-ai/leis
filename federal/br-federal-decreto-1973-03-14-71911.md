@@ -1,5 +1,3 @@
-###DEC-071911-0-000-14-03-1973@@@
-
 DECRETO nº 71.911, de 14 de março de 1973.
 
 Concede a Partezani & Cia. Ltda. o direito de lavrar calcário dolomítico, no Município de Rio Claro, Estado de São Paulo.

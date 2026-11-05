@@ -1,5 +1,3 @@
-###DEC-094591-0-000-10-07-1987@@@
-
 DECRETO N° 94.591, DE 10 DE JULHO DE 1987
 
 Altera a relação a que se refere o artigo 7° do Regulamento aprovado pelo Decreto n° 27.048, de 12 de agosto de 1949, modificado pelo Decreto n° 88.341, de 30 de maio de 1983.

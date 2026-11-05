@@ -1,5 +1,3 @@
-###DEL-002174-0-000-26-11-1984@@@
-
 # Decreto-leI nº 2.174, de 26 de novembro de 1984.
 
 Dispõe sobre a aplicação do disposto no artigo 2º da Lei nº 6.732, de 04 de dezembro de 1979, aos funcionários designados para o exercício, no exterior, de funções diplomáticas.

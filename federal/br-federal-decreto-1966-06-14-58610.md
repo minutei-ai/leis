@@ -1,5 +1,3 @@
-###DEC-058610-0-000-14-06-1966@@@
-
 DECRETO Nº 58.610, DE 14 DE JUNHO DE 1966.
 
 Concede à Serra do Ouro Mineração Ltda., autorização para funcionar como emprêsa de mineração.

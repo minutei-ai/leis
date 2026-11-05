@@ -1,5 +1,3 @@
-###DEC-060016-0-000-10-01-1967@@@
-
 DECRETO Nº 60.016, DE 10 DE JANEIRO DE 1967.
 
 Concede à Mineração Faisca Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-046796-0-000-08-09-1959@@@
-
 Decreto nº 46.796, de 8 de setembro de 1959.
 
 Transfere, sem aumento de despesa, função de uma para outra Tabela Numérica Especial de Extranumerários-mensalistas do Ministério da Fazenda, que menciona.

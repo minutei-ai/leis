@@ -1,5 +1,3 @@
-###DEL-001573-0-000-05-09-1977@@@
-
 # DECRETO-LEI Nº 1.573, DE 5 DE SETEMBRO DE 1977
 
 Dispõe sobre criação de cargos e empregos nas Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências.

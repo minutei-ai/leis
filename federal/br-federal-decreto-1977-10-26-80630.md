@@ -1,5 +1,3 @@
-###DEC-080630-0-000-26-10-1977@@@
-
 DECRETO Nº 80.630, DE 26 DE OUTUBRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Joinville, Estado de Santa Catarina.

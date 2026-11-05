@@ -1,5 +1,3 @@
-###DEC-053059-0-000-02-12-1963@@@
-
 DECRETO Nº 53.059, DE 2 DE DEZEMBRO DE 1963.
 
 Aprova a alteração introduzida nos Estatutos da Regente Companhia Nacional de Seguros, relativa ao aumento do capital social.

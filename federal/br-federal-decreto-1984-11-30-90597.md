@@ -1,5 +1,3 @@
-###DEC-090597-0-000-30-11-1984@@@
-
 Decreto nº 90.597, de 30 de novembro de 1984
 
 Autoriza o Governo do Estado de Goiás a explorar, através do Consórcio de Empresas de Radiodifusão e Notícias do Estado - CERNE, na cidade de Goiânia, Estado de Goiás, serviço de radiodifusão sonora em onda média, mediante convênio a ser celebrado com o Ministério das Comunicações.

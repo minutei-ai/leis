@@ -1,5 +1,3 @@
-###DEC-068978-0-000-23-07-1971@@@
-
 Decreto nº 68.978, de 23 de julho de 1971.
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas, Contábeis e Econômicas, de Ijuí - RS., com o Curso de Administração.

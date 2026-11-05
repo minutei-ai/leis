@@ -1,5 +1,3 @@
-###DEC-078842-0-000-26-11-1976@@@
-
 DECRETO Nº 78.842, DE 26 DE NOVEMBRO DE 1976.
 
 Transfere a sede de Organização Militar no Ministério do Exército e dá outras providências.

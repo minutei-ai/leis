@@ -1,5 +1,3 @@
-###DEC-093896-0-000-07-01-1987@@@
-
 # DECRETO Nº 93.896, DE 07 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "GLEBA MONTECCHI", situado nos Municípios de Salto do Céu e Rio Branco, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 02 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá  outras providências.

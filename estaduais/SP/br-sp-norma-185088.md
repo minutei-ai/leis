@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185088)
-
 # DECRETO Nº 63.181, DE 30 DE JANEIRO DE 2018
 
 ### _Dá nova redação ao parágrafo único do artigo 1º do Decreto nº 59.743, de 12 de novembro de 2.013, que autorizou a Fazenda do Estado a permitir o uso, a título precário e gratuito e por prazo indeterminado, em favor do Município de Presidente Prudente, do imóvel que especifica_
@@ -18,10 +16,16 @@ Palácio dos Bandeirantes, 30 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Arnaldo Calil Pereira Jardim
+
+Secretário de Agricultura e Abastecimento
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de janeiro de 2018.

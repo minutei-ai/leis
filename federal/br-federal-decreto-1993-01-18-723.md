@@ -1,7 +1,3 @@
-1
-
-###DEC-000723-0-000-18-01-1993@@@
-
 DECRETO N° 723, DE 18 DE JANEIRO DE 1993
 
 Altera a Estrutura Regimental do Fundo Nacional de Desenvolvimento da Educação (FNDE), aprovada pelo Decreto n° 114, de 8 de maio de 1991.

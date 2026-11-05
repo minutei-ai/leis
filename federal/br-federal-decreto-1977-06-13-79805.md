@@ -1,5 +1,3 @@
-###DEC-079805-0-000-13-06-1977@@@
-
 DECRETO Nº 79.805, DE 13 DE JUNHO DE 1977
 
 Extingue funções de confiança no Quadro Permanente da Comissão de Valores Mobiliários e da outras providências.

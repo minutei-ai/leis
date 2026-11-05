@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209325)<br>
-
 # DECRETO N° 68.454, DE 18 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Gás de São Paulo - COMGÁS, a faixa de terra necessária à passagem de duto de gás natural, no Município de Limeira, e dá providências correlatas._

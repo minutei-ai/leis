@@ -1,5 +1,3 @@
-###DEC-005953-0-000-31-10-2006@@@
-
 DECRETO Nº 5.953 DE 31 DE OUTUBRO DE 2006.
 
 Promulga o Primeiro Protocolo Adicional ao Acordo de Complementação Econômica no 53, assinado entre a República Federativa do Brasil e os Estados Unidos Mexicanos, em 3 de julho de 2002.
@@ -24,11 +22,7 @@ Brasília, 31 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 1º.11.2006
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA CELEBRADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E OS ESTADOS UNIDOS MEXICANOS
+       Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA CELEBRADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E OS ESTADOS UNIDOS MEXICANOS
 
 Primeiro Protocolo Adicional
 

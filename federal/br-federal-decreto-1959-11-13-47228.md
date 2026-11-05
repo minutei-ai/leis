@@ -1,5 +1,3 @@
-###DEC-047228-0-000-13-11-1959@@@
-
 decreto nº 47.228, de 13 de novembro de 1959.
 
 Altera a denominação da Companhia Nacional de Navegação Costeira.

@@ -1,5 +1,3 @@
-###DEC-050518-0-000-02-05-1961@@@
-
 Decreto nº 50.518, de 2 de maio de 1961.
 
 Dispõe sôbre a fiscalização e contrôle da entrada de filmes cinematográficos destinados à projeção nos cinematógrafos e pela TV, e dá outras providências.

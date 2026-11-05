@@ -1,5 +1,3 @@
-###DEC-082612-0-000-08-11-1978@@@
-
 Decreto nº 82.612, de 08 de novembro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Francisco de Souza Neto pelo Decreto nº 17.340, de 13 de dezembro de 1944.

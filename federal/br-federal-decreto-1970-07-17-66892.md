@@ -1,5 +1,3 @@
-###DEC-066892-0-000-17-07-1970@@@
-
 Decreto nº 66.892, de 17 de julho de 1970.
 
 Declara caduco o Decreto nº 15.116 de 22 de março de 1944.

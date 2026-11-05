@@ -1,5 +1,3 @@
-###DEL-007846-0-000-09-08-1945@@@
-
 DECRETO-LEI N. 7.846 – DE 9 DE AGOSTO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar a “Venerável Ordem Terceira de São Francisco da Penitência” do pagamento do impôsto que menciona.

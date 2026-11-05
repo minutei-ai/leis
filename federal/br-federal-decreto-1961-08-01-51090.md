@@ -1,5 +1,3 @@
-###DEC-051090-0-000-01-08-1961@@@
-
 Decreto nº 51.090, de 1 de agôsto de 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Goiás as águas do rio Bagre.

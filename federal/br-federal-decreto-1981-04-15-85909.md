@@ -1,5 +1,3 @@
-###DEC-085909-0-000-15-04-1981@@@
-
 DeCreTo nº 85.909, de 15 de abril de 1981.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

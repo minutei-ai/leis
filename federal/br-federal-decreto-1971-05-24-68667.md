@@ -1,5 +1,3 @@
-###DEC-068667-0-000-24-05-1971@@@
-
 decreto nº 68.667, de 24 de maio de 1971.
 
 Retificar o artigo 1° do Decreto número 53.426, de 20 de janeiro de 1964.

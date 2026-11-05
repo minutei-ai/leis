@@ -1,5 +1,3 @@
-###DEC-070369-0-000-05-04-1972@@@
-
 DECRETO Nº 70.369, DE 5 DE ABRIL DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Departamento Nacional de Estradas e Rodagem, e dá outras providências.

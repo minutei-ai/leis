@@ -1,5 +1,3 @@
-###DEC-087053-0-000-23-03-1982@@@
-
 DECRETO Nº 87.053, DE 23 DE MARÇO DE 1982.
 
 Extingue o Consulado do Brasil em Ciudad Bolivar, na Venezuela.

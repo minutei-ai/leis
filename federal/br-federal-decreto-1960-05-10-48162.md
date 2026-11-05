@@ -1,5 +1,3 @@
-###DEC-048162-0-000-10-05-1960@@@
-
 DECRETO Nº 48.162, DE 10 DE MAIO DE 1960.
 
 Autoriza Companhia de pesquisas e Lavras Minérios, Copelmi a lavrar carvão mineral no município de Bom Jesus do Triunfo, Estado do Rio Grande do Sul.

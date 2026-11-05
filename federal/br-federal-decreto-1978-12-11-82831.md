@@ -1,5 +1,3 @@
-###DEC-082831-0-000-11-12-1978@@@
-
 Decreto nº 82.831, de 11 de dezembro de 1978
 
 Institui a Comissão Nacional do Ano Internacional da Criança.

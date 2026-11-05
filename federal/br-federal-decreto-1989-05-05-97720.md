@@ -1,7 +1,3 @@
-1
-
-###DEC-097720-0-000-05-05-1989@@@
-
 # DECRETO N° 97.720, DE 05 DE MAIO 1989
 
 Cria a Floresta Nacional do Tapirapé‑Aquiri.

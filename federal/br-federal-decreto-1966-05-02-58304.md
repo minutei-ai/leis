@@ -1,5 +1,3 @@
-###DEC-058304-0-000-02-05-1966@@@
-
 DECRETO Nº 58.304, DE 2 DE MAIO DE 1966.
 
 Transfere a subordinação do Estabelecimento General Gustavo Cordeiro de Farias.

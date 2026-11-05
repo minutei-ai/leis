@@ -1,5 +1,3 @@
-###DEC-053170-0-000-11-12-1963@@@
-
 DECRETO Nº 53.170, DE 11 DE DeZembro DE 1963.
 
 Autoriza a firma Andréa Salvini & Cia. Ltda., a pesquisar mármore no município de Cachoeira do Itapemirim, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-089306-0-000-18-01-1984@@@
-
 DECRETO Nº 89.306 DE 18 DE JANEIRO DE 1984
 
 Renova por 10 (dez) anos a concessão outorgada à SOCIEDADE RÁDIO EMISSORA METROPOLITANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

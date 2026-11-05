@@ -1,5 +1,3 @@
-###DEC-068926-0-000-15-07-1971@@@
-
 DECRETO Nº 68.926, DE 15 DE JULHO DE 1971.
 
 Retifica o Decreto nº 68.081, de 18 de janeiro de 1971.

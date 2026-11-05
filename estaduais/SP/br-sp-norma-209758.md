@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209758)<br>
-
 # LEI N° 18.004, DE 23 DE JULHO DE 2024
 
 ## (Projeto de lei n° 193/2024, do Deputado Gerson Pessoa - PODE)

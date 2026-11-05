@@ -1,5 +1,3 @@
-###DEC-068212-0-000-11-02-1971@@@
-
 DECRETO Nº 68.212, DE 11 DE FEVEREIRO DE 1971.
 
 Concede à Silex do Brasil Ltda, o direito de lavrar silex, no município de Pitangui, Estado de Minas Gerais.

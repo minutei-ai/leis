@@ -1,5 +1,3 @@
-###DEC-091579-0-000-29-08-1985@@@
-
 Decreto nº 91.579, de 29 de agosto de 1985
 
 Suspende a execução de dispositivos da Constituição do Estado do Rio de Janeiro e das Leis Complementares nº 1, de 1975, e nº 3, de 1976, do mesmo Estado.

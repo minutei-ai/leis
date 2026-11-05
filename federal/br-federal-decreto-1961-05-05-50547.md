@@ -1,5 +1,3 @@
-###DEC-050547-0-000-05-05-1961@@@
-
 Decreto nº 50.547, de 5 de maio de 1961.
 
 Concede reconhecimento a curso.

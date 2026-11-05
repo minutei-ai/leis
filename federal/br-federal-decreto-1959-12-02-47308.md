@@ -1,5 +1,3 @@
-###DEC-047308-0-000-02-12-1959@@@
-
 DECRETO Nº 47.308, DE 2 DE Dezembro DE 1959.
 
 Altera o Regimento da Escola Nacional de Saúde Publica, aprovado pelo Decreto nº 46.259, de 23 de Junho de 1959 e dá outras providências.

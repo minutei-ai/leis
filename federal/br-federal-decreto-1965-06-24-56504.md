@@ -1,5 +1,3 @@
-###DEC-056504-0-000-24-06-1965@@@
-
 DECRETO Nº 56.504, DE 24 DE JUNHO DE 1965.
 
 Transforma a Estação de Enologia em Brasília em Pôsto de Análise de Vinho em Brasília, subordinado ao Instituto de Fermentação, do Departamento de Pesquisas e Experimentação Agropecuárias.

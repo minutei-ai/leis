@@ -1,5 +1,3 @@
-###DEC-059104-0-000-19-08-1966@@@
-
 Decreto nº 59.104, de 19 de agôsto de 1966.
 
 Declara de utilidade pública o “Hospital de Manhuaçú”, com sede em Manhuaçú, Estado de Minas Gerais.

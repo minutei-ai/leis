@@ -1,5 +1,3 @@
-###DEC-073559-0-000-24-01-1974@@@
-
 Decreto nº 73.559, de 24 de janeiro de 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona, situado no Município de Maringá, Estado do Paraná.

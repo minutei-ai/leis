@@ -1,5 +1,3 @@
-###MPV-000569-0-000-14-05-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 569, DE 14 DE MAIO DE 2012
 
 Abre crédito extraordinário, em favor dos Ministérios da Defesa, da Integração Nacional e do Desenvolvimento Social e Combate à Fome, no valor global de R$ 688.497.000,00, para os fins que especifica.

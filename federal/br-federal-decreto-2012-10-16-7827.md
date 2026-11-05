@@ -1,5 +1,3 @@
-###DEC-007827-0-000-16-10-2012-PUB-01@@@
-
 DECRETO N°\- 7.827, DE 16 DE OUTUBRO DE 2012
 
 Regulamenta os procedimentos de condicionamento e restabelecimento das transferências de recursos provenientes das receitas de que tratam o inciso II do caput do art. 158, as alíneas "a" e "b" do inciso I e o inciso II do caput do art. 159 da Constituição, dispõe sobre os procedimentos de suspensão e restabelecimento das transferências voluntárias da União, nos casos de descumprimento da aplicação dos recursos em ações e serviços públicos de saúde de que trata a Lei Complementar nº 141, de 13 de janeiro de 2012, e dá outras providências.

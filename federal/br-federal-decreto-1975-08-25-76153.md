@@ -1,5 +1,3 @@
-###DEC-076153-0-000-25-08-1975@@@
-
 Decreto Nº 76.153 - DE 25 DE AGOSTO DE 1975
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Duque de Caxias, Esta do Rio de Janeiro.

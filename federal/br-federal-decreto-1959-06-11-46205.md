@@ -1,5 +1,3 @@
-###DEC-046205-0-000-11-06-1959@@@
-
 DECRETO Nº 46.205, DE 11 DE JUNHO DE 1959.
 
 Autoriza a Companhia Brasileira de Usinas Metalúrgicas a construir para uso exclusivo, uma linha de transmissão entre a usina siderúrgica de Barão de Cocais, Estado de Minas Gerais e a Usina de Peti, da Companhia Fôrça e Luz de Minas Gerais.

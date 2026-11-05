@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211557)<br>
-
 # DECRETO LEGISLATIVO N° 2.564, DE 23 DE SETEMBRO DE 2025
 
 ### _Aprova a indicação do Senhor Wagner de Campos Rosário para nomeação no cargo de Conselheiro do Tribunal de Contas do Estado._

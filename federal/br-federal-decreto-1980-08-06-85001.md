@@ -1,5 +1,3 @@
-###DEC-085001-0-000-06-08-1980@@@
-
 DECRETO Nº 85.001, DE 06 DE AGOSTO DE 1980
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Conquista Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de vitória da Conquista, Estado da Bahia.

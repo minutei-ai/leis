@@ -1,5 +1,3 @@
-###DEL-002202-0-000-27-12-1984@@@
-
 # DECRETO-LEI Nº 2.202, de 27 de dezembro de 1984
 
 Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências.

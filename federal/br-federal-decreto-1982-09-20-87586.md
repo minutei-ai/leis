@@ -1,5 +1,3 @@
-###DEC-087586-0-000-20-09-1982@@@
-
 DECRETO Nº 87.586, de 20 de setembro 1982.
 
 Amplia a área do Parque Nacional de Itatiaia, criado pelo Decreto nº 1.713, de 14 de janeiro de 1937 e dá outras providências.

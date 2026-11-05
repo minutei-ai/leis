@@ -1,7 +1,3 @@
-1
-
-###DEC-095585-0-000-05-01-1988@@@
-
 DECRETO N° 95.585, DE 5 DE JANEIRO DE 1988
 
 Outorga concessão à SOCIEDADE CAMPO-GRANDENSE DE TELEVISÃO LIMITADA, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Campo Grande, Estado do Mato Grosso do Sul.

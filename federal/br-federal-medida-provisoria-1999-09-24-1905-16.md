@@ -1,5 +1,3 @@
-###MPV-001905-0-016-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.905-16, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Credito Educativo, e dá outras providências.

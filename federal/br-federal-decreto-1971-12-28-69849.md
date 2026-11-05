@@ -1,5 +1,3 @@
-###DEC-069849-0-000-28-12-1971@@@
-
 decreto nº 69.849 - de 28 DE DEZEMBRO de 1971
 
 Declara de utilidade pública a Federação Espírita Pernambucana, com sede em Recife, Estado de Pernambuco.

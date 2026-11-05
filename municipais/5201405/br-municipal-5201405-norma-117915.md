@@ -1,4 +1,5 @@
-DECRETO “N” Nº 178 DE 20 DE MARÇO DE 2023.<br>
+DECRETO “N” Nº 178 DE 20 DE MARÇO DE 2023.
+
 (Revogado pelo Decreto "N" Nº 455, de 12 de julho de 2023).
 
 ~~Dispõe sobre a nomeação dos membros integrantes da Comissão Administrativa de Defesa Prévia – CADEP e dá outras providências.~~
@@ -45,11 +46,14 @@ DECRETO “N” Nº 178 DE 20 DE MARÇO DE 2023.<br>
 
 ~~MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 20 de maio de 2023.~~
 
-~~VILMAR MARIANO DA SILVA<br>
+~~VILMAR MARIANO DA SILVA
+
 Prefeito Municipal~~
 
-~~FÁBIO PASSAGLIA<br>
+~~FÁBIO PASSAGLIA
+
 Secretário de Governo~~
 
-~~SÉRGIO CÂNDIDO DE CARVALHO<br>
+~~SÉRGIO CÂNDIDO DE CARVALHO
+
 Secretário Executivo de Mobilidade~~

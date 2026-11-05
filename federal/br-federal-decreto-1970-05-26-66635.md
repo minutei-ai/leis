@@ -1,5 +1,3 @@
-###DEC-066635-0-000-26-05-1970@@@
-
 DECRETO Nº 66.635, DE 26 DE MAIO DE 1970.
 
 Transfere da Companhia Força e Luz Santa Clara para as Centrais Elétricas de Minas Gerais S.A. a concessão de Nanuque, Estado de Minas Gerais.

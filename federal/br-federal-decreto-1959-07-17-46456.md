@@ -1,5 +1,3 @@
-###DEC-046456-0-000-17-07-1959@@@
-
 decreto nº 46.456, de 17 de julho de 1959.
 
 Autoriza o cidadão brasileiro Wilson Francisco Capellini a pesquisar argila no município de Mogi das Cruzes, Estado de São Paulo.

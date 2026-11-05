@@ -1,6 +1,4 @@
-###DEC-040704-0-000-31-12-1956@@@
-
-<strong>DECRETO Nº 40.704, DE 31 DE DEZEMBRO DE 1956.</strong>
+**DECRETO Nº 40.704, DE 31 DE DEZEMBRO DE 1956.**
 
 <!-- fac-simile-oficial:inicio -->
 

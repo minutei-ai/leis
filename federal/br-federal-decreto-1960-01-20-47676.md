@@ -1,5 +1,3 @@
-###DEC-047676-0-000-20-01-1960@@@
-
 DECRETO Nº 47.676, DE 20 DE JANEIRO DE 1960.
 
 Autoriza à Rio Light S.A. - serviços de Eletricidade e Carris, a ampliar seu sistema elétrico, no Município de Barra Mansa, Estado do Rio de Janeiro.

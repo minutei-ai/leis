@@ -1,5 +1,3 @@
-###DEC-060031-0-000-11-01-1967@@@
-
 Decreto nº 60.031, de 11 de janeiro de 1967.
 
 Autoriza a emprêsa de mineração Esmeraldas de Conquista Ltda. a pesquisar córindon, no município de Vitória da Conquista, Estado da Bahia.

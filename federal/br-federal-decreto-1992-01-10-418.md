@@ -1,5 +1,3 @@
-###DEC-000418-0-000-10-01-1992@@@
-
 DECRETO Nº 418, DE 10 DE JANEIRO DE 1992
 
 Aprova o Estatuto da Fundação Cultural Palmares - FCP, e dá outras providências.

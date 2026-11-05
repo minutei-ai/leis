@@ -1,5 +1,3 @@
-###DEL-003186-0-000-10-04-1941@@@
-
 DECRETO-LEI N. 3.186 – DE 10 DE ABRIL DE 1941
 
 Dá nova aplicação ao crédito especial de 12.000:000$0 aberto pelo decreto-lei n. 2.147, de 25 de abril de 1940.

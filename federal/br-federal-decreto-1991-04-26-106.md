@@ -1,5 +1,3 @@
-###DEC-000106-0-000-26-04-1991@@@
-
 DECRETO Nº 106, DE 26 DE ABRIL DE 1991.
 
 Altera o Decreto nº 99.266, de 28 de maio de 1990.

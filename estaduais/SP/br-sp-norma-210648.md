@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210648)<br>
-
 # DECRETO N° 69.373, DE 21 DE FEVEREIRO DE 2025
 
 ### _Dispõe sobre a oficialização da XVI Conferência Estadual da Pessoa Idosa e dá providências correlatas._

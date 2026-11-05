@@ -1,5 +1,3 @@
-###DEC-049414-0-000-03-12-1960@@@
-
 DECRETO Nº 49.414, DE 03 DE DEZEMBRO DE 1960.
 
 Autoriza Osvaldo Cândido Pereira a comprar pedras preciosas.

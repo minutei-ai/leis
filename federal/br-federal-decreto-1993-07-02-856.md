@@ -1,7 +1,3 @@
-1
-
-###DEC-000856-0-000-02-07-1993@@@
-
 DECRETO N° 856, DE 2 DE JULHO DE 1993
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional ao Acordo Comercial n° 19, no setor da indústria eletrônica e de comunicações elétricas, entre Brasil, Argentina, México e Uruguai, de 30/11/92.

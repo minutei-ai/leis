@@ -1,5 +1,3 @@
-###DEC-050828-0-000-22-06-1961@@@
-
 DECRETO Nº 50.828, DE 22 DE JUNHO DE 1961.
 
 Aprova alteração introduzida nos Estatutos da The Tokio Marine & Fire Insurance Company Limited.

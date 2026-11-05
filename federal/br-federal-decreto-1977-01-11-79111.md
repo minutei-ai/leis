@@ -1,5 +1,3 @@
-###DEC-079111-0-000-11-01-1977@@@
-
 DECRETO Nº 79.111, DE 11 DE JANEIRO DE 1977.
 
 Dispõe sobre a transformação dos cargos de Assistentes de Ensino Superior em cargos de Professor Assistente do Quadro de Pessoal - Parte Permanente - do Ministério do Exército e dá outras providências.

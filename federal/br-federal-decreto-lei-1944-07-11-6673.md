@@ -1,5 +1,3 @@
-###DEL-006673-0-000-11-07-1944@@@
-
 DECRETO-LEI N. 6.673 – DE 11 DE JULHO DE 1944
 
 Dá nova redação a dispositivos do Decreto-lei nº 592, de 4 de agôsto de 1938

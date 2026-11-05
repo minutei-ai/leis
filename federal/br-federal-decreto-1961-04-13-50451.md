@@ -1,5 +1,3 @@
-###DEC-050451-0-000-13-04-1961@@@
-
 DECRETO Nº 50.451, DE 13 DE abril DE 1961.
 
 Institui Grupo de Trabalho para examinar a conveniência de constituição de empreendimento destinado ao incentivo da cultura da seringueira e dá outras providências.

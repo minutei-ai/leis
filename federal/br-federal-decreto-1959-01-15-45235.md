@@ -1,5 +1,3 @@
-###DEC-045235-0-000-15-01-1959@@@
-
 DECRETO Nº 45.235, DE 15 DE JANEIRO DE 1959.
 
 Autoriza a Prefeitura Municipal de Soledade, no Estado do Rio Grande do Sul, a ampliar suas instalações.

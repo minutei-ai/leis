@@ -1,5 +1,3 @@
-###DEC-054381-0-000-05-10-1964@@@
-
 DECRETO Nº 54.381, DE 5 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento progressivo de energia hidráulica de um trecho do rio Cedros e de outro de seu afluente Palmeiras no distrito de Arrozeira, Município de Timbó, Estado de Santa Catarina, e autoriza a Emprêsa Fôrça e Luz Santa Catarina S.A., com sede na cidade de Blumenau, no mesmo Estado, a promover as desapropriações.
@@ -55,8 +53,6 @@ Brasília, 5 de outubro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-054381-0-000-05-10-1964@@@RET01+++
 
 DECRETO Nº 54.381, DE 5 DE OUTUBRO DE 1964.
 

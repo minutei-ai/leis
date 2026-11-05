@@ -1,5 +1,3 @@
-###DEL-006477-0-000-08-05-1944@@@
-
 DECRETO-LEI N. 6.477 – DE 8 DE MAIO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 1.006,50, para pagamento do salário devido a Herman KIeerekoper relativo ao período de 20-12-43 a 31-12-43

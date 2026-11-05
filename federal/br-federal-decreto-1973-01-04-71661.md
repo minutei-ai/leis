@@ -1,5 +1,3 @@
-###DEC-071661-0-000-04-01-1973@@@
-
 DECRETO Nº 71.661, de 4 DE JANEIRO DE 1973.
 
 Altera a composição da Comissão Executiva do Conselho de Política Aduaneira.

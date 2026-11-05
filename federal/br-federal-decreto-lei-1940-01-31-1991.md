@@ -1,5 +1,3 @@
-###DEL-001991-0-000-31-01-1940@@@
-
 DECRETO-LEI N. 1.991 – DE 31 DE JANEIRO DE 1940
 
 Dispõe sobre a organização da Comissão de Defesa da Economia Nacional.

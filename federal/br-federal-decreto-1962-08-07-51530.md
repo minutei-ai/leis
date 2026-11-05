@@ -1,5 +1,3 @@
-###DEC-051530-0-000-07-08-1962@@@
-
 decreto nº 51.530, de 7 de agÔsto de 1962.
 
 Dispõe sôbre as funções da Consultoria Geral da República.

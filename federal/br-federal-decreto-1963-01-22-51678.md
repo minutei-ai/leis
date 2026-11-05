@@ -1,5 +1,3 @@
-###DEC-051678-0-000-22-01-1963@@@
-
 DECRETO Nº 51.678, DE 22 DE JANEIRO DE 1963.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$5.000.000,00 (cinco milhões de cruzeiros), para equipamento da Clínica Ortopédica, do Hospital Escola São Francisco de Assis.

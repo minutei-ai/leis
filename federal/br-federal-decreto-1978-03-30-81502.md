@@ -1,5 +1,3 @@
-###DEC-081502-0-000-30-03-1978@@@
-
 Decreto nº 81.502, de 30 de março de 1978.
 
 Concede reconhecimento aos cursos de Educação Artística, Estudos Sociais e Biblioteconomia, da Faculdade de Educação, com sede na cidade de Florianópolis, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-071105-0-000-14-09-1972@@@
-
 DECRETO Nº 71.105, DE 14 DE SETEMBRO DE 1972.
 
 Declara reservada aos índios xavantes, sob a denominação de Reserva Indígena Sangradouro, área situada no Estado de Mato Grosso, e da outras providências.

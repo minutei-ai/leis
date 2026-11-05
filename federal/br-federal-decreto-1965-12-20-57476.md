@@ -1,5 +1,3 @@
-###DEC-057476-0-000-20-12-1965@@@
-
 Decreto nº 57.476, de 20 de dezembro de 1965.
 
 Concede à Companhia de Navegação Cabo Frio autorização para continuar a funcionar com emprêsa de navegação de cabotagem.

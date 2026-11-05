@@ -1,5 +1,3 @@
-###DEC-085728-0-000-17-02-1981@@@
-
 DECRETO Nº 85.728, DE 17 DE FEVEREIRO DE 1981.
 
 Altera o Decreto nº 77.919, de 25 de junho de 1976, modificado pelo Decreto nº 82.724, de 23 de novembro de 1978, que regulamenta a Lei nº 6.265, de 19 de novembro de 1975, Lei do Ensino no Exército, e dá outras providências.

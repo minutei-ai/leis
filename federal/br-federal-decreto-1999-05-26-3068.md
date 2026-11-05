@@ -1,5 +1,3 @@
-###DEC-003068-0-000-26-05-1999@@@
-
 DECRETO Nº 3.068, de 26 DE MAIO DE 1999.
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 27 entre os Governos da República Federativa do Brasil e da República da Venezuela, de 31 de março de 1999.
@@ -40,4 +38,10 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos trinta e um dias do mês de março de mil novecentos e noventa e nove, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República da Venezuela:</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Juan Moreno Gómez</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil:
+
+José Artur Denot Medeiros
+
+Pelo Governo da República da Venezuela:
+
+Juan Moreno Gómez

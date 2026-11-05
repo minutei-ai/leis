@@ -1,5 +1,3 @@
-###DEC-004433-0-000-18-10-2002@@@
-
 DECRETO Nº 4.433, DE 18 DE OUTUBRO DE 2002
 
 Institui a Comissão de Tutela dos Direitos Humanos da Secretaria de Estado dos Direitos Humanos e dá outras providências.

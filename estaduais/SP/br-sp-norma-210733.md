@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210733)<br>
-
 # LEI N° 18.113, DE 12 DE MARÇO DE 2025
 
 ## (Projeto de lei n° 408/2024, do Deputado Itamar Borges - MDB)

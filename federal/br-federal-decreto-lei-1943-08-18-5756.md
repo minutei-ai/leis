@@ -1,5 +1,3 @@
-###DEL-005756-0-000-18-08-1943@@@
-
 DECRETO–LEI N. 5.756 – DE 18 AGOSTO DE 1943
 
 Suspende,, temporariamente, as transferências para , Reserva Remunerada de oficiais do Corpo de Fuzileiros Navais

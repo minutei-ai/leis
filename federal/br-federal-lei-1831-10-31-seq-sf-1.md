@@ -1,5 +1,3 @@
-###LEI-000000-0-001-31-10-1831@@@
-
 LEI - DE 31 DE OUTUBRO DE 1831
 
 Autoriza credito para as despezas com o Trem e o Hospital Militar de Pernambuco no anno financeiro de 1831 - 1832.

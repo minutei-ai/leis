@@ -1,5 +1,3 @@
-###DEC-079400-0-000-16-03-1977@@@
-
 DECRETO Nº 79.400, DE 16 DE MARÇO DE 1977.
 
 Concede reconhecimento ao curso de Formação de Professores das Disciplinas Especializadas do 2º grau, Esquema I, áreas secundária e terciária, da Universidade Federal do Rio de Janeiro, ministrado no "campus avançado" do Território do Amapá.

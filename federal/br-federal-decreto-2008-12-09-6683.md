@@ -1,5 +1,3 @@
-###DEC-006683-0-000-09-12-2008@@@
-
 DECRETO Nº 6.683, DE 9 DE DEZEMBRO DE 2008.
 
 Acresce parágrafos ao art. 1o do Decreto no 4.940, de 29 de dezembro de 2003, que reduz as alíquotas da Contribuição de Intervenção no Domínio Econômico incidente sobre as correntes de hidrocarbonetos líquidos não destinadas à formulação de gasolina ou diesel.

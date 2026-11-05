@@ -1,5 +1,3 @@
-###DEL-003148-0-000-26-03-1941@@@
-
 DECRETO-LEI N. 3.148 – DE 26 DE MARÇO DE 1941
 
 Dispõe sobre a concessão de auxílio aos, sericicultores e as empresas de fiação da sede nacional

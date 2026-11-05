@@ -1,5 +1,3 @@
-###DEL-005512-0-000-21-05-1943@@@
-
 DECRETO-LEI N. 5.512 – DE 21 DE MAIO DE 1943
 
 Dispõe sobre a aposentadoria de Valdir Santana

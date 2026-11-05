@@ -1,5 +1,3 @@
-###DEC-085932-0-000-27-04-1981@@@
-
 Decreto nº 85.932, de 27 de abril de 1981.
 
 Autoriza a Indústria Carboquímica Catarinense S.A. - ICC a proceder ao aumento do limite de seu Capital Social.

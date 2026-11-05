@@ -1,5 +1,3 @@
-###DEC-070598-0-000-23-05-1972@@@
-
 DECRETO Nº 70.598, de 23 de maio de 1972.
 
 Concede à Ivo Felisberto de Souza, firma individual, o direito de lavrar mármore e calcita no município de Cachoeiro do Itapemirim, Estado do Espirito Santo.

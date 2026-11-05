@@ -1,5 +1,3 @@
-###DEC-054549-0-000-22-10-1964@@@
-
 Decreto nº 54.549, de 22 de outubro de 1964.
 
 Torna sem efeito o Decreto nº 52.882, de 20 de novembro de 1963.

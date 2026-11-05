@@ -1,5 +1,3 @@
-###DEC-061862-0-000-06-12-1967@@@
-
 DECRETO Nº 61.862, DE 6 DE DEZEMBRO DE 1967.
 
 Aprova alteração introduzida nos estatutos da Associação “Nihon Kosaki Kikai Yushutsu Shinkokai”.

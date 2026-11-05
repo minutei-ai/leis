@@ -1,5 +1,3 @@
-###DEL-007880-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.880 – DE 20 DE AGÔSTO DE 1945
 
 Substitui as tabelas anexas ao Decreto-lei nº 7.752, de 17 de julho de 1945.

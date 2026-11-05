@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/126eb946-f881-40c4-851c-ba0543cf14f8/texto#nowhere)
 
-###DEL-000854-0-000-11-09-1969@@@
-
 DECRETO-LEI Nº 854, De 11 De SETEMBRO DE 1969
 
 Dá nova redação aos artigos 13 e 20 do Decreto-lei nº 72, de 21 de novembro de 1966.

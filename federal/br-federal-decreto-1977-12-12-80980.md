@@ -1,5 +1,3 @@
-###DEC-080980-0-000-12-12-1977@@@
-
 Decreto nº 80 980, de 12 de dezembro de 1977.
 
 Concede à Engenharia de Minas, Indústria, Comércio e Mineração Haralyi Ltda. o direito de lavrar quartzito no Município de Jundiaí, Estado de São Paulo.

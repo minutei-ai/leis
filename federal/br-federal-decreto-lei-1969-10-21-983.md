@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1613ce25-117d-4559-b9b0-256da2d6a908/texto#nowhere)
 
-###DEL-000983-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 983, DE 21 DE OUTUBRO DE 1969
 
 Autoriza a doação da área de terreno que menciona, situada no município de Curemas, no Estado da Paraíba e dá outras providências.

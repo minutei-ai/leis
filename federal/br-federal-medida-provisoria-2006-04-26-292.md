@@ -1,5 +1,3 @@
-###MPV-000292-0-000-26-04-2006@@@
-
 MEDIDA PROVISÓRIA Nº 292, DE 26 DE ABRIL DE 2006.
 
 Altera as Leis nºs 9.636, de 15 de maio de 1998, e 8.666, de 21 de junho de 1993, os Decretos-Leis nºs 271, de 28 de fevereiro de 1967, 9.760, de 5 de setembro de 1946, e 1.876, de 15 de julho de 1981, a Lei nº 11.124, de 16 de junho de 2005, e dá outras providências.

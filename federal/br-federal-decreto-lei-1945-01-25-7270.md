@@ -1,5 +1,3 @@
-###DEL-007270-0-000-25-01-1945@@@
-
 DECRETO-LEI N. 7.270 – DE 25 DE JANEIRO DE 1945
 
 Regula os casos de invalidez e de incapacidade física, para o serviço militar, dos oficiais da reserva de 2ª classe, praças, taifeiros da Aeronáutica, grumetes e soldados, quando convocados, em estágio ou incorporados às Fôrças Armadas ativas; cria a Comissão de Readaptação dos Incapazes das Fôrças Armadas, e dá outras providências

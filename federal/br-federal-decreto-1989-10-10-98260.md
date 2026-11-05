@@ -1,7 +1,3 @@
-1
-
-###DEC-098260-0-000-10-10-1989@@@
-
 DECRETO Nº 98.260, DE 10 DE OUTUBRO DE 1989
 
 Altera o Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei de Promoções de Oficiais da Ativa das Forças Armadas.

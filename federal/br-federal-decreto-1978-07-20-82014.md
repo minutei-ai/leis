@@ -1,5 +1,3 @@
-###DEC-082014-0-000-20-07-1978@@@
-
 DECRETO Nº 82.014, DE 20 DE JULHO DE 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

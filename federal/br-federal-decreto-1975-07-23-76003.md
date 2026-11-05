@@ -1,5 +1,3 @@
-###DEC-076003-0-000-23-07-1975@@@
-
 DECRETO Nº 76.003 - de 23 de julho de 1975.
 
 Concede reconhecimento ao curso de Letras do Centro Pedagógico de Três Lagoas da Universidade Estadual de Mato Grosso.

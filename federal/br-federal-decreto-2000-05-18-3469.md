@@ -1,5 +1,3 @@
-###DEC-003469-0-000-18-05-2000@@@
-
 decreto nº 3.469, de 18 de maio de 2000.
 
 Dispõe sobre a contratação de operações de crédito ao amparo do Programa de Revitalização de Cooperativas de Produção Agropecuária - RECOOP, de que tratam os Decretos nos 2.936, de 11 de janeiro de 1999, 3.263, de 25 de novembro de 1999, e 3.399, de 31 de março de 2000, e dá outras providências.

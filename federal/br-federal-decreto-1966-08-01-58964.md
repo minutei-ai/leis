@@ -1,5 +1,3 @@
-###DEC-058964-0-000-01-08-1966@@@
-
 DECRETO Nº 58.964, DE 1 DE AGÔSTO DE 1966.
 
 Concede à Cal Paranáminas Limitada autorização para funcionar como emprêsa de mineração.

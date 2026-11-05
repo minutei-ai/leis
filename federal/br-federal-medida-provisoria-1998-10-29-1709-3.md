@@ -1,5 +1,3 @@
-###MPV-001709-0-003-29-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.709-3, DE 29 DE OUTUBRO DE 1998
 
 Altera a Consolidação das Leis do Trabalho - CLT, para dispor sobre o trabalho a tempo parcial e ampliar o prazo fixado no § 2º do art. 59, e altera a Lei nº 6.321, de 14 de abril de 1976, para facultar a extensão do beneficio do Programa de Alimentação do Trabalhador - PAT ao trabalhador dispensado.

@@ -1,5 +1,3 @@
-###DEC-088212-0-000-05-04-1983@@@
-
 DECRETO Nº 88.212, de 05 de abril de 1983.
 
 Outorga concessão à RÁDIO CLUBE SÃO DOMINGOS LIMITADA, para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Domingos, Estado de Santa Catarina.

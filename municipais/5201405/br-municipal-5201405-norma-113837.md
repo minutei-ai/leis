@@ -4,7 +4,8 @@ Institui o Núcleo de Conciliação Fiscal –NCF e Altera a Lei Complementar 12
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU, E EU, PREFEITO, SANCIONO A SEGUINTE LEI COMPLEMENTAR.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Fica instituído, nos termos desta Lei, o Núcleo de Conciliação Fiscal - NCF, vinculado e subordinado à Superintendência de Receitas Tributárias da Secretaria da Fazenda, com o escopo de realizar a conciliação como meio de solução de controvérsias envolvendo matérias fiscal e tributária.
@@ -47,7 +48,8 @@ IV – garantir o crédito fiscal, mesmo na situação de crise econômico-finan
 
 V – reprimir a evasão fiscal em todas as suas modalidades.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PROCEDIMENTO DE CONCILIAÇÃO FISCAL E DO FUNCIONAMENTO DO NCF
 
 Art. 6º A conciliação fiscal poderá ser solicitada pelo interessado, ou proposta pela Secretaria da Fazenda ou pela Procuradoria Geral do Município, por intermédio do conciliador, atendidas as condições previstas nesta Lei.
@@ -106,17 +108,20 @@ V – assinatura do Termo de Conciliação Fiscal.
 
 Art. 10 O NCF funcionará nas dependências da Secretaria da Fazenda, em horário de trabalho da Prefeitura, salvo situações excepcionais devidamente justificadas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA COMPOSIÇÃO E DAS ATRIBUIÇÕES DO CONCILIADOR
 
-Seção I<br>
+Seção I
+
 Da Composição
 
 Art. 11 O NCF será composto por, no máximo, 06 (seis) conciliadores, sendo 04 (quatro) servidores da Secretaria da Fazenda e 02 (dois) da Procuradoria Geral do Município, nomeados mediante indicação do Secretário da Fazenda, podendo ser substituídos a qualquer tempo.
 
 Parágrafo único. É vedada a indicação de servidor sem a devida qualificação técnica ou que exerça função de julgador no Contencioso Fiscal ou qualquer função no Colegiado de Recursos Tributários.
 
-Seção II<br>
+Seção II
+
 Das Atribuições do Conciliador
 
 Art. 12 São atribuições do conciliador:
@@ -145,7 +150,8 @@ XI – providenciar a publicação no Diário Oficial Eletrônico do Município 
 
 XII – realizar todos os demais atos indispensáveis à eficiente condução do processo.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA PARTICIPAÇÃO
 
 Art. 13 O interessado será informado a respeito da possibilidade de participar da Conciliação Fiscal:
@@ -176,14 +182,16 @@ Parágrafo único. Considera-se reincidente, para os fins desta Lei, o sujeito p
 
 Art. 17 A participação do interessado será reprovada sempre que o mesmo não cumprir ou deixar de cumprir as exigências previstas nesta Lei.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA COMPETÊNCIA DO NCF
 
 Art. 18 O NCF possui competência para realizar o parcelamento do débito conciliado, incluindo o caso do
 
 parágrafo único do art. 124 da Lei Complementar nº 046, de 21 de dezembro de 2011, com alterações, e conceder descontos, na forma do Anexo I desta Lei.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO PAGAMENTO
 
 Art. 19 O pagamento será realizado por meio de Documento Único de Arrecadação - DUAM, devendo a primeira parcela ou o pagamento à vista ser realizado no prazo de até 10 (dez) dias corridos, a contar da data da publicação da Homologação do Termo de Conciliação Fiscal.
@@ -206,7 +214,8 @@ Art. 22 A adesão aos benefícios previstos nesta Lei não desobriga o interessa
 
 Art. 23 A adesão aos benefícios previstos nesta Lei não desobriga o interessado de promover o pagamento das custas judiciais e dos honorários advocatícios, em se tratando de débito submetido à execução fiscal.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA EXTINÇÃO DO CRÉDITO CONCILIADO
 
 Art. 24 A extinção do crédito tributário ou não-tributário somente será configurada com o cumprimento do Termo de Conciliação Fiscal, mediante a quitação total do débito conciliado.
@@ -219,7 +228,8 @@ Art. 24 A extinção do crédito tributário ou não-tributário somente será c
 
 Art. 25 O descumprimento das obrigações constantes do Termo de Conciliação Fiscal enseja o prosseguimento da execução fiscal pelo montante original do crédito tributário e respectivas penalidades, deduzindo-se os valores eventualmente já recolhidos.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA ANULAÇÃO E DA CASSAÇÃO DA CONCILIAÇÃO FISCAL
 
 Art. 26 O termo de conciliação, após sua aprovação, não poderá ser alterado ou desconstituído, salvo nas hipóteses de:
@@ -258,7 +268,8 @@ I – O disposto neste parágrafo não afasta a renúncia nem a confissão de qu
 
 § 7º Com a declaração de nulidade ou a cassação será iniciada ou retomada a cobrança ou a execução do crédito tributário ou não-tributário sem os descontos previstos nesta Lei.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DAS INTIMAÇÕES E DOS RECURSOS
 
 Art. 27 Aplicam-se às disposições desta Lei, no que couber, as normas processuais estabelecidas na Lei nº 1.353, de 24 de março de 1994, com alterações, que instituiu o Código de Processo Administrativo Tributário e Fiscal do Município, bem como as definidas neste Capítulo.
@@ -273,7 +284,8 @@ III – da decisão que declarar a nulidade do termo de conciliação fiscal; ou
 
 IV – da decisão que cassar o termo de conciliação fiscal.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 29 A Superintendência de Receitas Tributárias adotará as providências necessárias para a estruturação, organização, funcionamento e planejamento das atividades do Núcleo de Conciliação Fiscal.
@@ -288,10 +300,12 @@ Art. 33 Esta lei entrará em vigor na data da sua publicação, revogando-se as 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 22 de Outubro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18825)

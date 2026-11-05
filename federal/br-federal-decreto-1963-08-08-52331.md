@@ -1,5 +1,3 @@
-###DEC-052331-0-000-08-08-1963@@@
-
 DECRETO Nº 52.331, DE 8 DE AGÔSTO DE 1963.
 
 Declara prioritária para o desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à “Fiação Brasileira de Sisal S.A. (Fibrasa), de Bayeux, Estado da Paraíba.
@@ -14,7 +12,21 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, com a ressalva neste expressa e pertinente ao motor elétrico que acompanha a maquinaria, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à “Fiação Brasileira de Sisal S.A. (FRIBRASA), de Bayeux (Pb):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:311.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIFICAÇÃO</span></p></td><td style="width:56pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:50.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:311.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1 (uma) máquina de cochar de alta velocidade, para 3 e 4 cordões, com lado duplo, adaptado para bobinas de 9 ¾” de Ø por 13”, de curso nos dois lados, capaz de produzir cordas de 4,5mm até 8mm de Ø em 3 cordões, e até 10mm de Ø em 4 cordões, completa, com equipamento de acionamento elétrico, inclusive motor elétrico acoplado à mesma, acessórios e sobressalentes para a máquina acima descrita, como segue: a) 35 bobinas (carretel) de madeira, com parte de metal ordinário, de 13” x 9 ¾”; b) 3 rolamentos para pivot em placas de arrasto; c) 2 correiras Lenix, de 101” de comprimento, por 6” de largura. Fabricação de James</span><span style="font-style:italic"> </span><span>Mackie</span><span style="font-style:italic"> &amp; </span><span>Limited - Irlanda do Norte ......................................................................................................</span></p></td><td style="width:56pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:50.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9.870</span></p></td></tr><tr><td style="width:311.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ...................................................................................................</span></p></td><td style="width:56pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:50.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9.870</span></p></td></tr></tbody></table>
+ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1 (uma) máquina de cochar de alta velocidade, para 3 e 4 cordões, com lado duplo, adaptado para bobinas de 9 ¾” de Ø por 13”, de curso nos dois lados, capaz de produzir cordas de 4,5mm até 8mm de Ø em 3 cordões, e até 10mm de Ø em 4 cordões, completa, com equipamento de acionamento elétrico, inclusive motor elétrico acoplado à mesma, acessórios e sobressalentes para a máquina acima descrita, como segue: a) 35 bobinas (carretel) de madeira, com parte de metal ordinário, de 13” x 9 ¾”; b) 3 rolamentos para pivot em placas de arrasto; c) 2 correiras Lenix, de 101” de comprimento, por 6” de largura. Fabricação de James Mackie &amp; Limited - Irlanda do Norte ......................................................................................................
+
+-
+
+9.870
+
+TOTAL ...................................................................................................
+
+9.870
 
 Parágrafo único. Para efeito da isenção de que trata o presente Decreto e com respeito ao motor elétrico retro descrito, fica sua similaridade para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de o mesmo seguir regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Sr. Ministro da Fazenda.
 

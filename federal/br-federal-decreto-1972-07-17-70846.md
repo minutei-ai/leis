@@ -1,5 +1,3 @@
-###DEC-070846-0-000-17-07-1972@@@
-
 DECRETO nº 70.846, DE 17 DE JULHO DE 1972.
 
 Concede à Mineração Nigri Ltda., o direito de lavrar caulim no município de São Paulo, Estado de São Paulo.

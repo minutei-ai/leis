@@ -1,5 +1,3 @@
-###DEC-057361-0-000-29-11-1965@@@
-
 DECRETO Nº 57.361, DE 29 DE NOVEMBRO DE 1965.
 
 Cria uma Comissão para propor a uniformização do regime de retribuição de tôdas as séries de classes integrantes do Grupo Ocupacional Fisco.

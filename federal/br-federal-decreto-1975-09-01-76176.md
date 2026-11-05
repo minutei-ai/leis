@@ -1,5 +1,3 @@
-###DEC-076176-0-000-01-09-1975@@@
-
 DECRETO Nº 76.176 - DE 1º DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Educação Física da Faculdade de Educação Física de Jaboticabal, Estado de São Paulo.

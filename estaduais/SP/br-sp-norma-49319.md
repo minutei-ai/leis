@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49319)
-
 # LEI Nº 11.665, DE 13 DE JANEIRO DE 2004
 
 ## ( PL 1052/2003 - Rafael Silva)

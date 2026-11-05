@@ -1,7 +1,3 @@
-1
-
-###DEC-097992-0-000-26-07-1989@@@
-
 DECRETO N° 97.992, DE 26 DE JULHO DE 1989
 
 Prorroga a vigência do Decreto n° 97.685, de 21 de abril de 1989, que dispõe sobre viagens ao exterior.

@@ -1,5 +1,3 @@
-###DEL-008715-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.715 – DE 18 DE JANEIRO DE 1946
 
 Altera o Orçamento Geral da República.

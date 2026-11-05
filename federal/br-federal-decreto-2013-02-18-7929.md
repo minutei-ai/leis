@@ -1,5 +1,3 @@
-###DEC-007929-0-000-18-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.929, DE 18 DE FEVEREIRO DE 2013
 
 Regulamenta a Lei nº 11.483, de 31 de maio de 2007, no que se refere à avaliação da vocação logística dos imóveis não operacionais da extinta Rede Ferroviária Federal S.A. - RFFSA; altera o art. 4º do Decreto nº 6.018, de 22 de janeiro de 2007; e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094979-0-000-29-09-1987@@@
-
 DECRETO Nº 94.979, DE 29 DE SETEMBRO DE 1987
 
 Reestrutura o Conselho Federal de Cultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007032-0-000-09-11-1944@@@
-
 DECRETO-LEI N. 7.032 – DE 9 DE NOVEMBRO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 80.000,00, à verba que especifica

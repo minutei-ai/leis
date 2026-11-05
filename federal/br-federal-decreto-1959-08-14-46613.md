@@ -1,5 +1,3 @@
-###DEC-046613-0-000-14-08-1959@@@
-
 DECRETO Nº 46.613, DE 14 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Amândio Alves de Oliveira a pesquisar pedras coradas no município de Malacacheta, Estado de Minas Gerais.

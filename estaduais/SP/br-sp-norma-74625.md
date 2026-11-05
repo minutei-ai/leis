@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74625)
-
 # LEI Nº 12.771, DE 21 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 364/2007, da Deputada Dárcy Vera - DEM)

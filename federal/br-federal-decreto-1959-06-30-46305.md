@@ -1,5 +1,3 @@
-###DEC-046305-0-000-30-06-1959@@@
-
 DECRETO Nº 46.305, DE 30 DE junho DE 1959.
 
 Autoriza o cidadão brasileiro Carlos Petrone a pesquisar minério de ferro dolomita e quartzito no município de Santana do Parnaíba, Estado de São Paulo.

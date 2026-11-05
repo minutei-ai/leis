@@ -1,5 +1,3 @@
-###DEC-059827-0-000-21-12-1966@@@
-
 DECRETO Nº 59.827, de 21 de Dezembro de 1966.
 
 Aprova o “Regulamento para as Bases Navais”.

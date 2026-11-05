@@ -1,5 +1,3 @@
-###DEC-055735-0-000-04-02-1965@@@
-
 DECRETO Nº 55.735, DE 4 DE FEVEREIRO DE 1965.
 
 Dá nova redação à letra b do Artigo 22, do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954.

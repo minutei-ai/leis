@@ -1,5 +1,3 @@
-###DEC-077397-0-000-07-04-1976@@@
-
 Decreto nº 77.397 - de 7 de abril de 1976
 
 Concede à INDAIATUR - Indaiá Turismo Limitada direito de lavrar água termal no Município de Itajá, Estado de Goiás.

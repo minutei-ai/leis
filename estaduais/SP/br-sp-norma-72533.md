@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/72533)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12623-25.06.2007.html)
 
 # LEI N° 12.623, DE 25 DE JUNHO DE 2007

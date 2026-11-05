@@ -1,5 +1,3 @@
-###DEC-084766-0-000-04-06-1980@@@
-
 Decreto nº 84.766, de 04 de junho de 1980.
 
 Autoriza o funcionamento dos cursos de Administração e de Ciências Contábeis da Faculdade de Administração e Ciências Contábeis de Arapongas, Estado do Paraná.

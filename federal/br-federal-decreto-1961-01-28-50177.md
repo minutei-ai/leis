@@ -1,5 +1,3 @@
-###DEC-050177-0-000-28-01-1961@@@
-
 DECRETO Nº 50.177, DE 28 DE JANEIRO DE 1961.
 
 Concede à Mincon Minérios S.A. autorização para funcionar como emprêsa de mineração.

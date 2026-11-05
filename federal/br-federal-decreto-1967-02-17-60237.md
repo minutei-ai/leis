@@ -1,5 +1,3 @@
-###DEC-060237-0-000-17-02-1967@@@
-
 DECRETO Nº 60.237, DE 17 De FEVEREIRO DE 1967.
 
 Dispõe sôbre a instalação e funcionamento do Conselho Federal de Cultura.

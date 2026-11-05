@@ -1,5 +1,3 @@
-###DEC-049478-0-000-09-12-1960@@@
-
 DECRETO Nº 49.478, DE 9 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Paulo Dias Costa a lavrar mica no município de Governador Valadares, Estado de Minas Gerais.

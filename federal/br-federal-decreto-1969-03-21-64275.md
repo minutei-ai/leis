@@ -1,5 +1,3 @@
-###DEC-064275-0-000-21-03-1969@@@
-
 DECRETO Nº 64.275, DE 21 DE MARÇO DE 1969.
 
 Substitui por atestado medico, nos casos que menciona, a inspeção para relevação de faltas por doença.

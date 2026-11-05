@@ -1,5 +1,3 @@
-###DEC-059695-0-000-08-12-1966@@@
-
 DECRETO Nº 59.695, DE 8 DE DEZEMBRO DE 1966
 
 Declara sem efeito o Decreto número 41.320, de 10 de abril de 1957.

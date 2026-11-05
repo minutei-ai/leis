@@ -1,5 +1,3 @@
-###DEC-060394-0-000-11-03-1967@@@
-
 DECRETO Nº 60.394, DE 11 DE MARÇO DE 1967.
 
 Cria o 71º Batalhão de Infantaria e dá outras providências.

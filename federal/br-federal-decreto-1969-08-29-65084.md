@@ -1,5 +1,3 @@
-###DEC-065084-0-000-29-08-1969@@@
-
 DECRETO Nº 65.084 - DE 29 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Araraquara, com sede em Araraquara, Estado de São Paulo.

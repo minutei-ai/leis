@@ -1,7 +1,3 @@
-1
-
-###DEC-000883-0-000-02-08-1993@@@
-
 DECRETO N° 883, DE 2 DE AGOSTO DE 1993
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo Regional de Abertura de Mercados em Favor da Bolívia (Acordo n° 1), entre Brasil e Bolívia, de 23.10.1992.

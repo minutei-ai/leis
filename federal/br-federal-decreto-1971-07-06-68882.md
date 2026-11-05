@@ -1,5 +1,3 @@
-###DEC-068882-0-000-06-07-1971@@@
-
 DECRETO Nº 68.882, DE 6 DE JULHO DE 1971.
 
 Redistribui, com os respectivos ocupantes, para o Ministério da Agricultura, cargos do Instituto Nacional de Colonização e Reforma Agrária, e dá outras providências.

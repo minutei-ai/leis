@@ -26,11 +26,14 @@ Art. 6º - Esta Lei entrará em vigor na data de sua publicação, revogando-se 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 22 de novembro de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-GERFESON ARAGÃO<br>
+GERFESON ARAGÃO
+
 Secretário de Esporte, Lazer e juventude

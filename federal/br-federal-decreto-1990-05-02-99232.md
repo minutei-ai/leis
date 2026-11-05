@@ -1,7 +1,3 @@
-1
-
-###DEC-099232-0-000-02-05-1990@@@
-
 DECRETO N° 99.232, DE 2 DE MAIO DE 1990
 
 Dispõe sobre a estruturação do Conselho Nacional de Agricultura.

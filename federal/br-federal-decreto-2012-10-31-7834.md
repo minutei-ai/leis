@@ -1,5 +1,3 @@
-###DEC-007834-0-000-31-10-2012-PUB-01@@@
-
 DECRETO N°\- 7.834, DE 31 DE OUTUBRO DE 2012
 
 Altera a redação de Notas Complementares ao Capítulo 87 da Tabela de Incidência do Imposto sobre Produtos Industrializados, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.

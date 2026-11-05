@@ -1,5 +1,3 @@
-###MPV-000856-0-000-26-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 856, DE 26 DE JANEIRO DE 1995
 
 Dispõe sobre isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis para utilização no transporte autônomo de passageiros, bem como por pessoas portadoras de deficiência física e aos destinados ao transporte escolar, e dá outras providências.

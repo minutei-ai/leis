@@ -1,5 +1,3 @@
-###DEC-051239-0-000-23-08-1961@@@
-
 Decreto nº 51.239, de 23 de agôsto de 1961.
 
 Institui a Campanha Nacional de Cinema Educativo e dá outras providências.

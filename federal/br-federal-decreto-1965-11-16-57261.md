@@ -1,5 +1,3 @@
-###DEC-057261-0-000-16-11-1965@@@
-
 DECRETO Nº 57.261, DE 16 DE Novembro DE 1965.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica.

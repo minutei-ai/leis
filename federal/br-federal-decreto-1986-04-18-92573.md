@@ -1,5 +1,3 @@
-###DEC-092573-0-000-18-04-1986@@@
-
 DECRETO Nº 92.573, DE 18 DE ABRIL DE 1986
 
 Renova a concessão outorgada à Rádio Jornal de Itabuna S/A, para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Itabuna, Estado da Bahia.

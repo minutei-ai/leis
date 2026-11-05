@@ -1,7 +1,3 @@
-1
-
-###DEC-097793-0-000-30-05-1989@@@
-
 DECRETO N° 97.793, DE 30 DE MAIO DE 1989
 
 Altera valores da legislação do imposto de renda.

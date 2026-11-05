@@ -1,7 +1,3 @@
-1
-
-###DEC-000725-0-000-19-01-1993@@@
-
 DECRETO N° 725, DE 19 DE JANEIRO DE 1993
 
 Dispõe sobre o Comitê de Controle das Empresas Estatais (CCE) e dá outras providências.

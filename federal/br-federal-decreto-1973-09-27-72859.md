@@ -1,5 +1,3 @@
-###DEC-072859-0-000-27-09-1973@@@
-
 DECRETO Nº 72.859, DE 27 DE SETEMBRO DE 1973.
 
 Conceda à SAMBRA S.A. - Mármores Brasileiros o direito de lavrar calcita no Município de Campos, Estado do Rio de Janeiro.

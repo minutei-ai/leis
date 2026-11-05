@@ -1,5 +1,3 @@
-###DEC-074573-0-000-19-09-1974@@@
-
 DECRETO Nº 74.573, DE 19 DE SETEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia e Letras de Diamantina, mantida pela Fundação Educacional do Vale do Jequitinhonha, com sede na cidade de Diamantina, Estado de Minas Gerais.

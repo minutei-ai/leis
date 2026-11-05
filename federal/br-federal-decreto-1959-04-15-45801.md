@@ -1,5 +1,3 @@
-###DEC-045801-0-000-15-04-1959@@@
-
 DECRETO Nº 45.801, DE 15 DE ABRIL DE 1959.
 
 Altera o Regulamento Geral dos Serviços de Praticagem.

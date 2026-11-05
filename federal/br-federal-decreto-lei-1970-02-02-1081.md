@@ -1,7 +1,3 @@
-1
-
-###DEL-001081-0-000-02-02-1970@@@
-
 # DECReTO-LEI Nº 1.081, DE 2 de FEVEREIRO DE 1970
 
 Dispõe sôbre o cálculo das pensões militares.

@@ -1,5 +1,3 @@
-###MPV-000560-0-000-07-03-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 560, DE 7 DE MARÇO DE 2012
 
 Abre crédito extraordinário, em favor do Ministério da Defesa, no valor de R$ 40.000.000,00, para o fim que especifica.

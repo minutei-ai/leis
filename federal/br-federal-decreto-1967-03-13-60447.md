@@ -1,5 +1,3 @@
-###DEC-060447-0-000-13-03-1967@@@
-
 decreto nº 60.447, de 13 de março de 1967.
 
 Aprova a alteração introduzida nos Estatutos da Sociedade Anônima de Seguros Gerais Lloyd Industrial Sul Americano, relativa ao aumento do capital social.

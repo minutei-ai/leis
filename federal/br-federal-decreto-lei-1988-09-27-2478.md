@@ -1,7 +1,3 @@
-1
-
-###DEL-002478-0-000-27-09-1988@@@
-
 # DECRETO-LEI Nº 2.478, DE 27 DE SETEMBRO DE 1988
 
 Estabelece as condições para emissão de Letras Hipotecárias.

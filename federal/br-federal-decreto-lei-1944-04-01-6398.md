@@ -1,5 +1,3 @@
-###DEL-006398-0-000-01-04-1944@@@
-
 DECRETO-LEI  N. 6.398 – DE 1 DE ABRIL DE 1944
 
 Mantém  a " Cota Especial " criada pelo Decreto-lei n. 5.582, de 17 de junho de 1943

@@ -1,5 +1,3 @@
-###DEL-009857-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.857 – DE 13 DE SETEMBRO DE 1946
 
 Modifica o artigo 1º do Decreto-lei nº 8.486, de 28 de dezembro de 1945.

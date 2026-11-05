@@ -1,5 +1,3 @@
-###DEC-049755-0-000-31-12-1960@@@
-
 DECRETO Nº 49.755, de 31 DE dezembro DE 1960.
 
 Autoriza Mineração Hannaco Ltda. a lavrar minério de ferro nos  municípios de Nova Lima e Itabirito, Estado de Minas Gerais.

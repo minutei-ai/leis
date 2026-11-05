@@ -1,5 +1,3 @@
-###DEC-057199-0-000-09-11-1965@@@
-
 DECRETO Nº 57.199, DE 9 DE NOVEMBRO DE 1965.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil do terreno acrescido de marinha que menciona, no Estado da Guanabara.

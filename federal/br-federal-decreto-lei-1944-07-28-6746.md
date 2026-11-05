@@ -1,5 +1,3 @@
-###DEL-006746-0-000-28-07-1944@@@
-
 DECRETO-LEI N. 6.746 – DE 28 DE JULHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 259.656,40 à verba que especifica

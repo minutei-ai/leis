@@ -1,5 +1,3 @@
-###DEC-093704-0-000-11-12-1986@@@
-
 DECRETO Nº 93.704, DE 11 DE DEZEMBRO DE 1986
 
 Revoga o Decreto nº 71.755, de 24 de janeiro de 1973.

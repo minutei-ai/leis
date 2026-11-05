@@ -1,5 +1,3 @@
-###DEL-006604-0-000-19-06-1944@@@
-
 DECRETO-LEI N. 6.604 – DE 19 DE JUNHO DE 1944
 
 Estabelece a classificação comercial da lã de ovinos e dispõe sôbre o comércio dessa matéria prima

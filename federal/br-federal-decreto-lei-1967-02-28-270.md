@@ -1,5 +1,3 @@
-###DEL-000270-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 270, DE 28 DE FEvEREiro DE 1967
 
 Cria o Fundo Aeroviário e o Conselho Aeroviário Nacional e dispõe sôbre a constituição do Plano Aeroviário Nacional e a utilização da Infraestrutura Aeroportuária Brasileira, estabelecendo as taxas correspondentes.

@@ -1,5 +1,3 @@
-###MPV-002104-0-016-23-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.104-16, DE 23 DE FEVEREIRO DE 2001
 
 Acresce dispositivos à Lei nº 5.859, de 11 de dezembro de 1972, que dispõe sobre a profissão de empregado doméstico, para facultar o acesso ao Fundo de Garantia do Tempo de Serviço - FGTS e ao seguro-desemprego.

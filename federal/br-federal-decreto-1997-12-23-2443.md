@@ -1,5 +1,3 @@
-###DEC-002443-0-000-23-12-1997@@@
-
 DECRETO Nº 2.443, DE 23 DE DEZEMBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.205, de 9 de abril de 1997.

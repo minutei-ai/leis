@@ -1,5 +1,3 @@
-###DEC-074657-0-000-04-10-1974@@@
-
 DECRETO nº 74.657, de 4 de Outubro de 1974.
 
 Autoriza o funcionamento do curso de Artes Práticas da Faculdade "Auxilium" de Filosofia, Ciências e Letras de Lins, Estado de São Paulo, mantida pela Inspetoria Imaculada Auxiliadora, com sede na Cidade de Campo Grande, Estado de Mato Grasso.

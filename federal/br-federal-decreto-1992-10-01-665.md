@@ -1,7 +1,3 @@
-1
-
-###DEC-000665-0-000-01-10-1992@@@
-
 DECRETO N° 665, DE 1° DE OUTUBRO DE 1992
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidentes sobre os produtos que enumera.

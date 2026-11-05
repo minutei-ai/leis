@@ -1,5 +1,3 @@
-###DEC-065436-0-000-13-10-1969@@@
-
 DECRETO Nº 65.436 - DE 13 DE OUTUBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-054312-0-000-28-09-1964@@@
-
 DECRETO Nº 54.312, DE 28 DE SETEMBRO DE 1964.
 
 Autoriza a Emprêsa de Caolim Ltda, a lavrar calcita, no município de Cantagalo, Estado do Rio de Janeiro.

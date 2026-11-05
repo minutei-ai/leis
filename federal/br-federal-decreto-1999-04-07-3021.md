@@ -1,5 +1,3 @@
-###DEC-003021-0-000-07-04-1999@@@
-
 DECRETO Nº 3.021, DE 7 DE ABRIL DE 1999.
 
 Dispõe sobre a alocação, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores-DAS e Funções Gratificadas que menciona, e dá outras providências.

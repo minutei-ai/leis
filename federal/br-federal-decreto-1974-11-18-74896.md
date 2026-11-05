@@ -1,5 +1,3 @@
-###DEC-074896-0-000-18-11-1974@@@
-
 Decreto nº 74.896, de 18 de novembro de 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem, de linha de transmissão da LIGHT \- Serviços de Eletrecidade S.A., Estado da Guanabara.

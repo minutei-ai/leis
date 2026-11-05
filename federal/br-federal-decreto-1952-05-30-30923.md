@@ -1,17 +1,15 @@
-###DEC-030923-0-000-30-05-1952@@@
+**DECRETO Nº 30.923, DE 30 DE MAIO DE 1952.**
 
-<strong>DECRETO Nº 30.923, DE 30 DE MAIO DE 1952.</strong>
+***Revoga o Decreto nº 16.737, de 5 de outubro de 1944.***
 
-<em><strong>Revoga o Decreto nº 16.737, de 5 de outubro de 1944.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que confere o artigo 87, número I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica revogado o Decreto nº 16.737, de 5 de outubro de 1944, que autorizou Theotônio Gomes de Azevedo a comprar pedras preciosas.
 
 Rio de Janeiro, em 30 de maio de 1952; 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Horário Lafer

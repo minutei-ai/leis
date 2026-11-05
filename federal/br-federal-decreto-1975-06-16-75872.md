@@ -1,5 +1,3 @@
-###DEC-075872-0-000-16-06-1975@@@
-
 DECRETO Nº 75.872, DE 16 DE JUNHO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos necessários à construção da subestação denominada "Uruguai", da Light-Serviços de Eletricidade S.A., na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

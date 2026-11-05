@@ -28,4 +28,4 @@ Brasília, 21 de outubro de 2019; 198º da Independência e 131º da República.
 
 ANTÔNIO HAMILTON MARTINS MOURÃO
 
-Marisete Fátima Dadald Pereira<br>
+Marisete Fátima Dadald Pereira

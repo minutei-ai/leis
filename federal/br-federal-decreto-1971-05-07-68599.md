@@ -1,5 +1,3 @@
-###DEC-068599-0-000-07-05-1971@@@
-
 Decreto Nº 68.599 - DE 7 DE maio DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de uma faixa de terra situada na Serra das Araras, Município de Piraí, Estado do Rio de Janeiro, para permitir a passagem das linhas telefônicas da Companhia Telefônica Brasileira -  CTB - que interligam as Cidades do Rio de Janeiro e São Paulo, e dá outras providências.

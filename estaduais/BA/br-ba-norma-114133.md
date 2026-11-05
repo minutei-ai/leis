@@ -1,6 +1,7 @@
 LEI Nº 1.465 DE 31 DE AGOSTO DE 1961
 
-Ver também:<br>
+Ver também:
+
 Lei nº  [12.638](https://www.legislabahia.ba.gov.br/documentos/lei-no-12638-de-10-de-janeiro-de-2013#LO%2012.638) de 10 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Litoral Sul, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Almadina, Arataca, Aurelino Leal, Barro Preto, Buerarema, Camacan, Canavieiras, Coaraci, Floresta Azul, Ibicaraí, Ilhéus, Itabuna, Itacaré, Itaju do Colônia, Itajuípe, Itapé, Itapitanga, Jussari, Maraú, Mascote, Pau Brasil, Santa Luzia, São José da Vitória, Ubaitaba, Una e Uruçuca.  
 
 Cria o Município de Camacan, desmembrado do de Canavieiras.
@@ -59,4 +60,4 @@ ORLANDO MOSCOSO
 
 Manso Cabral
 
-* * *
+ *

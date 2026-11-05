@@ -1,5 +1,3 @@
-###DEC-075895-0-000-24-06-1975@@@
-
 DECRETO Nº 75.895, DE 24 DE JUNHO DE 1975.
 
 Concede autorização em caráter permanente, à empresa Alcan Alumínio do Brasil S.A, com sede na cidade de São Paulo, Estado de São Paulo, para funcionar aos domingos e feriados civis e religiosos, no estabelecimento que menciona.

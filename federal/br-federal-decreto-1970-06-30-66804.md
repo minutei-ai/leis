@@ -1,5 +1,3 @@
-###DEC-066804-0-000-30-06-1970@@@
-
 DECRETO Nº 66.804 - DE 30 DE JUNHO DE 1970
 
 Revoga decreto e outorga à Centrais Elétricas de Santa Catarina S.A., concessão para distribuir energia elétrica nos municípios de Capinzal e Ouro, no Estado de Santa Catarina.

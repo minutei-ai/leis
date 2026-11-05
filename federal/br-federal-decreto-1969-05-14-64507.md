@@ -1,5 +1,3 @@
-###DEC-064507-0-000-14-05-1969@@@
-
 DECRETO Nº 64.507, DE 14 DE MAIO DE 1969.
 
 Declara caduco o Decreto nº 17.934 de 28 de fevereiro de 1945.

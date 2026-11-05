@@ -1,5 +1,3 @@
-###DEL-009712-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.712 – DE 3 DE SETEMBRO DE 1946
 
 Concede pensão especial a Maria de Barros Portilho

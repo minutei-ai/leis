@@ -6,18 +6,22 @@ Declara de Utilidade Pública Estadual a Associação de Voluntários de Combate
 
 Publicada no Diário Oficial nº 6.636, de 28 de dezembro de 2005.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual <i>a Associação de Voluntários de Combate ao Câncer - AVCC,</i> com sede e foro no Município de Brasilândia-MS.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
-Campo Grande, 27 de dezembro de 2005.<br>
-<br>
-JOSÉ ORCÍRIO MIRANDA DOS SANTOS<br>
-Governador<br>
-<br>
-MÁRCIA REGINA FLORES PORTOCARRERO DE ALMEIDA SERRA<br>
-Secretária de Estado de Trabalho, Assistência Social e Economia<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual *a Associação de Voluntários de Combate ao Câncer - AVCC,* com sede e foro no Município de Brasilândia-MS.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
+Campo Grande, 27 de dezembro de 2005.
+
+JOSÉ ORCÍRIO MIRANDA DOS SANTOS
+
+Governador
+
+MÁRCIA REGINA FLORES PORTOCARRERO DE ALMEIDA SERRA
+
+Secretária de Estado de Trabalho, Assistência Social e Economia
+
 Solidária

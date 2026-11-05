@@ -1,5 +1,3 @@
-###DEC-084872-0-000-02-07-1980@@@
-
 Decreto nº 84.872, de 02 de julho de 1980.
 
 Concede à "FAST AIR CARRIER LTDA" autorização para funcionar no Brasil.

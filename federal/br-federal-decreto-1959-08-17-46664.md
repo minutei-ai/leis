@@ -1,5 +1,3 @@
-###DEC-046664-0-000-17-08-1959@@@
-
 DECRETO N. 46.664 – DE 17 DE AGÔSTO DE 1959
 
 Autoriza o cidadão brasileiro Antonio Valadão Lopes a pesquisar mica no município de Água Boa, Estado de Minas Gerais.

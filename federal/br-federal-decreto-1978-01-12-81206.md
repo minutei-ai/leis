@@ -1,5 +1,3 @@
-###DEC-081206-0-000-12-01-1978@@@
-
 Decreto nº 81.206, de 12 de janeiro de 1978
 
 Concede à Luiz Bernardo Rodrigues de Moraes - Firma Individual, o direito de lavrar calcário dolomítico nos Municípios de Piracicaba e Tietê, Estado de São Paulo.

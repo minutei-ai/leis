@@ -1,5 +1,3 @@
-###DEC-046082-0-000-19-05-1959@@@
-
 Decreto nº 46.082, de 19 de maio de 1959.
 
 Autoriza o cidadão brasileiro Antônio Raphael da Silva a pesquisar minério de ferro no município de Santa Barbara, Estado de Minas Gerais.

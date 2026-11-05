@@ -1,7 +1,3 @@
-1
-
-###MPV-001517-0-000-30-08-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.517, DE 30 DE AGOSTO DE 1996.
 
 Concede subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais.

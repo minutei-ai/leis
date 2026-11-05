@@ -16,24 +16,108 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CERTIFICAÇÃO EM QUALIFICAÇÃO PROFISSIONAL</td><td style=" width:85px;    ">12 363 1054 2443</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.963.581,87</td><td style=" width:85px;    ">R$ 1.963.581,87</td></tr></tbody></table>
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 1.963.581,87</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 1.963.581,87</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CERTIFICAÇÃO EM QUALIFICAÇÃO PROFISSIONAL
+
+12 363 1054 2443
+
+17610156
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.963.581,87
+
+R$ 1.963.581,87
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 1.963.581,87
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.963.581,87
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE CRÉDITO - MAIS CRÉDITO</td><td style=" width:85px;    ">11 334 1054 3255</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">5 - INVERSÕES FINANCEIRAS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.963.581,87</td><td style=" width:85px;    ">R$ 1.963.581,87</td></tr></tbody></table>
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 1.963.581,87</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.963.581,87</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 1.963.581,87</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.963.581,87</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONCESSÃO DE CRÉDITO - MAIS CRÉDITO
+
+11 334 1054 3255
+
+17610156
+
+90
+
+5 - INVERSÕES FINANCEIRAS
+
+R$ 0,00
+
+R$ 1.963.581,87
+
+R$ 1.963.581,87
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 1.963.581,87
+
+**TOTAL**
+
+R$ 1.963.581,87
+
+**TOTAL POR FONTE**
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 1.963.581,87
+
+**TOTAL**
+
+R$ 1.963.581,87

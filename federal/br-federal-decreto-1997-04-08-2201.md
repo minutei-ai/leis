@@ -1,5 +1,3 @@
-###DEC-002201-0-000-08-04-1997@@@
-
 DECRETO Nº 2.201 DE 8 DE ABRIL DE 1997
 
 Dispõe sobre as condições complementares para a efetivação da transferência de ações de emissão da Companhia Vale do Rio Doce - CVRD, de que trata o art. 4º da Medida Provisória nº 1.481-47, de 14 de março de 1997.

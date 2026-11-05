@@ -144,7 +144,8 @@ VIII – operação especial: as despesas que não contribuem para a manutençã
 
 § 2º A subfunção, nível de agregação imediatamente inferior à função, deve evidenciar cada área da atuação governamental.
 
-~~§ 3º Para cada ação orçamentária do tipo atividade e projeto, exceto as de manutenção de órgão ou programa, um único produto deverá constar do demonstrativo de metas previsto no parágrafo único do art. 16 desta Lei, sem prejuízo do monitoramento de outros resultados, parciais ou intermediários, no âmbito da mesma ação.~~<br>
+~~§ 3º Para cada ação orçamentária do tipo atividade e projeto, exceto as de manutenção de órgão ou programa, um único produto deverá constar do demonstrativo de metas previsto no parágrafo único do art. 16 desta Lei, sem prejuízo do monitoramento de outros resultados, parciais ou intermediários, no âmbito da mesma ação.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, I.
 
 § 4º A lista de ações orçamentárias utilizadas no PLO de 2024 e em seus créditos adicionais será disponibilizada para consulta no _site_ da Secretaria de Estado da Economia, [www.economia.go.gov.br](http://www.economia.go.gov.br/), com, no mínimo, código, título, descrição e produto.
@@ -281,10 +282,12 @@ XII – atividades e projetos vinculados às prioridades estratégicas para o go
 
 § 2º Nos casos dos incisos IV, V e IX deste artigo, deverá ser criada uma ação orçamentária para cada empresa em liquidação que receber subvenção econômica e uma ação orçamentária para cada contrato da dívida pública.
 
-§ 3º As despesas do Fundo PROTEGE GOIÁS terão suas dotações orçamentárias consignadas nas respectivas unidades orçamentárias dos órgãos e das entidades de execução, nos termos do § 2º do art. 6º da Lei estadual nº 14.469, de 16 de julho de 2003.<br>
+§ 3º As despesas do Fundo PROTEGE GOIÁS terão suas dotações orçamentárias consignadas nas respectivas unidades orçamentárias dos órgãos e das entidades de execução, nos termos do § 2º do art. 6º da Lei estadual nº 14.469, de 16 de julho de 2003.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-§ 4º Os recursos do Fundo PROTEGE GOIÁS serão repassados às unidades orçamentárias por cotas financeiras operacionalizadas via Ordem de Provisão Financeira – OPF.<br>
+§ 4º Os recursos do Fundo PROTEGE GOIÁS serão repassados às unidades orçamentárias por cotas financeiras operacionalizadas via Ordem de Provisão Financeira – OPF.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
 Art. 18. Os órgãos e as entidades da administração pública do Estado de Goiás deverão adotar o padrão de fontes ou destinação de recursos para a Federação adotado no planejamento, na execução orçamentária e financeira e nos controles, conforme a Portaria Conjunta STN/SOF nº 20, de 23 de fevereiro de 2021, a Portaria STN nº 710, de 25 de fevereiro de 2021, e a Instrução Normativa nº 1.513/2022/ECONOMIA e suas alterações, com a promoção dos ajustes necessários em seus sistemas informatizados e nos demais controles.
@@ -293,31 +296,40 @@ Art. 18. Os órgãos e as entidades da administração pública do Estado de Goi
 
 § 2º O ementário das fontes ou da destinação de recursos estaduais será atualizado anualmente conforme a Portaria nº 710/2021/STN e a Instrução Normativa nº 1.513/2022/ECONOMIA, e suas alterações.
 
-Art. 18-A. O Poder Executivo regulamentará o orçamento e a sua execução, no exercício de 2024, para atender às exigências das legislações federal e estadual pertinentes, em especial ao sistema instituído pela Lei estadual nº 10.718 (SIOFINet), de 28 de dezembro de 1988, e fixará as medidas necessárias ao disposto nesta Lei, observados os efeitos relativos a:<br>
+Art. 18-A. O Poder Executivo regulamentará o orçamento e a sua execução, no exercício de 2024, para atender às exigências das legislações federal e estadual pertinentes, em especial ao sistema instituído pela Lei estadual nº 10.718 (SIOFINet), de 28 de dezembro de 1988, e fixará as medidas necessárias ao disposto nesta Lei, observados os efeitos relativos a:
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-I – realização de receitas não previstas;<br>
+I – realização de receitas não previstas;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-II – realização inferior ou não realização de receitas previstas;<br>
+II – realização inferior ou não realização de receitas previstas;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-III – catástrofe de abrangência limitada;<br>
+III – catástrofe de abrangência limitada;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-IV – alterações conjunturais da economia nacional ou estadual, inclusive as decorrentes de mudanças de legislação; e<br>
+IV – alterações conjunturais da economia nacional ou estadual, inclusive as decorrentes de mudanças de legislação; e
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-V – compensações com dívida ativa.<br>
+V – compensações com dívida ativa.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-Parágrafo único. As normas necessárias ao atendimento à previsão do caput deste artigo serão publicadas no Diário Oficial do Estado e serão disponibilizadas na página eletrônica da Secretaria de Estado da Economia.<br>
+Parágrafo único. As normas necessárias ao atendimento à previsão do caput deste artigo serão publicadas no Diário Oficial do Estado e serão disponibilizadas na página eletrônica da Secretaria de Estado da Economia.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-Art. 19-A. Todos os valores recebidos pelas unidades da administração direta, das autarquias, das fundações, dos fundos especiais e das empresas estatais dependentes deverão ser registrados, para sua movimentação, nos respectivos orçamentos.<br>
+Art. 19-A. Todos os valores recebidos pelas unidades da administração direta, das autarquias, das fundações, dos fundos especiais e das empresas estatais dependentes deverão ser registrados, para sua movimentação, nos respectivos orçamentos.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-Parágrafo único. Excluem-se da previsão do caput deste artigo os casos em que, por força de lei, normas especiais ou exigências do ente repassador, o registro deve ser feito por movimentação extraorçamentária.<br>
+Parágrafo único. Excluem-se da previsão do caput deste artigo os casos em que, por força de lei, normas especiais ou exigências do ente repassador, o registro deve ser feito por movimentação extraorçamentária.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
 CAPÍTULO IV
@@ -724,72 +736,94 @@ I – transferência especial; ou
 
 II – transferência com finalidade definida.
 
-§ 3º Somente poderá ser utilizada a transferência especial a que se refere o inciso I do § 2º deste artigo para as emendas individuais impositivas não destinadas à saúde e à educação.<br>
+§ 3º Somente poderá ser utilizada a transferência especial a que se refere o inciso I do § 2º deste artigo para as emendas individuais impositivas não destinadas à saúde e à educação.
+
 \- [Redação dada pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
 ~~§ 3º Não serão admitidas emendas ao PLO que transfiram dotações cobertas com receitas próprias de autarquias, fundações e fundos especiais ou de outras receitas para atender à programação a ser desenvolvida por outra entidade que não seja a geradora dos recursos e que incluam quaisquer despesas que não sejam de competência e atribuição do Estado.~~
 
-§ 4º Se houver o requerimento dos autores das emendas, a execução das emendas parlamentares individuais impositivas cujos beneficiários sejam entidades privadas sem fins lucrativos ocorrerá com o repasse de recursos diretamente a essas entidades.<br>
+§ 4º Se houver o requerimento dos autores das emendas, a execução das emendas parlamentares individuais impositivas cujos beneficiários sejam entidades privadas sem fins lucrativos ocorrerá com o repasse de recursos diretamente a essas entidades.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-§ 5º Para a elaboração e a distribuição de recursos do orçamento impositivo e para a apresentação de emendas individuais impositivas, integrantes do Anexo V do PLOA, deverá ser observado o seguinte:<br>
+§ 5º Para a elaboração e a distribuição de recursos do orçamento impositivo e para a apresentação de emendas individuais impositivas, integrantes do Anexo V do PLOA, deverá ser observado o seguinte:
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-I – a conformidade com as disposições estabelecidas nesta Lei e com a legislação relativa a orçamentos e finanças públicas aplicável ao Estado de Goiás;<br>
+I – a conformidade com as disposições estabelecidas nesta Lei e com a legislação relativa a orçamentos e finanças públicas aplicável ao Estado de Goiás;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-II – a alocação dos recursos seguirá a distribuição estabelecida pelas emendas parlamentares aprovadas;<br>
+II – a alocação dos recursos seguirá a distribuição estabelecida pelas emendas parlamentares aprovadas;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-III – cabe à Assembleia Legislativa do Estado de Goiás a elaboração dos quadros demonstrativos consolidados com as informações a serem incluídas no Anexo V do PLOA, sob sua inteira responsabilidade;<br>
+III – cabe à Assembleia Legislativa do Estado de Goiás a elaboração dos quadros demonstrativos consolidados com as informações a serem incluídas no Anexo V do PLOA, sob sua inteira responsabilidade;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-IV – o Anexo V do PLOA conterá quanto à emenda parlamentar impositiva, pelo menos, os seguintes quesitos:<br>
+IV – o Anexo V do PLOA conterá quanto à emenda parlamentar impositiva, pelo menos, os seguintes quesitos:
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-a) a identificação do autor;<br>
+a) a identificação do autor;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-b) o número correlato;<br>
+b) o número correlato;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-c) o objeto;<br>
+c) o objeto;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-d) a área de aplicação;<br>
+d) a área de aplicação;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-e) a localização;<br>
+e) a localização;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-f) o grupo de natureza de despesa – GND;<br>
+f) o grupo de natureza de despesa – GND;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-g) os beneficiários e os respectivos CNPJs; e<br>
+g) os beneficiários e os respectivos CNPJs; e
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-h) o valor alocado.<br>
+h) o valor alocado.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-§ 6º O objeto, a localização e os beneficiários, com os respectivos CNPJs, da emenda parlamentar impositiva poderão ser definidos quando iniciado o procedimento tendente à sua execução, hipótese em que, nos campos correspondentes do Anexo V da Lei Orçamentária Anual, será inserida a expressão “A definir”.<br>
+§ 6º O objeto, a localização e os beneficiários, com os respectivos CNPJs, da emenda parlamentar impositiva poderão ser definidos quando iniciado o procedimento tendente à sua execução, hipótese em que, nos campos correspondentes do Anexo V da Lei Orçamentária Anual, será inserida a expressão “A definir”.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-§ 7º A Área de aplicação da emenda é o setor, o programa ou o projeto específico que receberá os recursos alocados por emenda parlamentar impositiva, e essa área poderá ser:<br>
+§ 7º A Área de aplicação da emenda é o setor, o programa ou o projeto específico que receberá os recursos alocados por emenda parlamentar impositiva, e essa área poderá ser:
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-I – saúde;<br>
+I – saúde;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-II – educação;<br>
+II – educação;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-III – educação – UEG;<br>
+III – educação – UEG;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-IV – segurança pública; e<br>
+IV – segurança pública; e
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-V – a definir.<br>
+V – a definir.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
 Art. 60. As emendas de iniciativa parlamentar que promoverem alteração nos anexos da LOA e que forem aprovadas pela Assembleia Legislativa do Estado de Goiás acompanharão o autógrafo da LOA de 2024, mediante anexo específico denominado "Emendas Parlamentares".
@@ -802,7 +836,8 @@ Do regime de execução das programações incluídas ou acrescidas por emendas 
 
 Art. 61. O regime de execução estabelecido nesta seção tem a finalidade de garantir a efetiva entrega à sociedade dos bens e dos serviços decorrentes de emendas individuais impositivas, independentemente da autoria delas, de que tratam os §§ 8º ao 19 do art. 111 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).
 
-Parágrafo único. A execução das programações das emendas individuais, nos termos dos §§ 5º e 6º do art. 59 desta Lei, deverá observar as indicações de beneficiários pelos respectivos autores.<br>
+Parágrafo único. A execução das programações das emendas individuais, nos termos dos §§ 5º e 6º do art. 59 desta Lei, deverá observar as indicações de beneficiários pelos respectivos autores.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
 Art. 62. É obrigatória a execução orçamentária e financeira de forma equitativa das programações decorrentes de emendas individuais impositivas de que trata esta seção.
@@ -823,15 +858,18 @@ Art. 63. Sancionada a LOA, independentemente de qualquer provocação do autor d
 
 § 2º Sem prejuízo de outras sanções cabíveis, a ação ou a omissão que impeça ou retarde desnecessariamente a execução das emendas individuais impositivas sujeita-se às penalidades previstas nas Leis federais nº 1.079, de 10 de abril de 1950, e nº 8.429, de 2 de junho de 1992.
 
-§ 3º Observado o disposto nesta seção, os procedimentos e os prazos referentes às programações decorrentes de emendas serão definidos por ato próprio do Poder Executivo estadual.<br>
+§ 3º Observado o disposto nesta seção, os procedimentos e os prazos referentes às programações decorrentes de emendas serão definidos por ato próprio do Poder Executivo estadual.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
-Art. 64. Independe da adimplência do ente federativo a realização de doação de bens, materiais e insumos para a execução da programação decorrente de emenda individual impositiva.<br>
+Art. 64. Independe da adimplência do ente federativo a realização de doação de bens, materiais e insumos para a execução da programação decorrente de emenda individual impositiva.
+
 \- [Redação dada pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
 ~~Art. 64. Nos termos do § 18 do art. 111 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), independe da adimplência do ente federativo a realização de transferência obrigatória para a execução da programação decorrente de emenda individual impositiva.~~
 
-Art. 65. As programações orçamentárias de que trata o § 8º do art. 111 da Constituição Estadual serão de execução obrigatória, ressalvados os impedimentos de ordem técnica.<br>
+Art. 65. As programações orçamentárias de que trata o § 8º do art. 111 da Constituição Estadual serão de execução obrigatória, ressalvados os impedimentos de ordem técnica.
+
 \- [Redação dada pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212/lei-22450).
 
 ~~Art. 65. As programações orçamentárias de que trata esta seção serão de execução obrigatória independentemente da análise de mérito.~~
@@ -856,51 +894,66 @@ IV – qualquer situação que não cause efetivo prejuízo ou impedimento à ex
 
 § 3º Não constitui impedimento de ordem técnica o excesso de recursos previsto no percentual constitucional da saúde ou da educação dos recursos destinados às entidades sociais.
 
-§ 4º São consideradas hipóteses de impedimento de ordem técnica, sem prejuízo a outras posteriormente identificadas em ato do Poder Executivo estadual:<br>
+§ 4º São consideradas hipóteses de impedimento de ordem técnica, sem prejuízo a outras posteriormente identificadas em ato do Poder Executivo estadual:
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-I – a não apresentação pelo beneficiário, nos prazos estabelecidos, da documentação necessária à execução da programação decorrente da emenda parlamentar, após a notificação encaminhada pelo órgão;<br>
+I – a não apresentação pelo beneficiário, nos prazos estabelecidos, da documentação necessária à execução da programação decorrente da emenda parlamentar, após a notificação encaminhada pelo órgão;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-II – a reprovação da documentação por inconsistência ou desconformidade com a legislação específica;<br>
+II – a reprovação da documentação por inconsistência ou desconformidade com a legislação específica;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-III – a não adoção de providências pelo município beneficiário à abertura de conta bancária para o recebimento e a movimentação de recursos oriundos de transferências especiais, desde que comprovada a notificação formal do município para adoção dessa providência;<br>
+III – a não adoção de providências pelo município beneficiário à abertura de conta bancária para o recebimento e a movimentação de recursos oriundos de transferências especiais, desde que comprovada a notificação formal do município para adoção dessa providência;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-IV – a desistência manifestada pelo beneficiário de receber os recursos oriundos da emenda parlamentar;<br>
+IV – a desistência manifestada pelo beneficiário de receber os recursos oriundos da emenda parlamentar;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-V – a incompatibilidade do objeto da despesa com os atributos técnicos alocativos;<br>
+V – a incompatibilidade do objeto da despesa com os atributos técnicos alocativos;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-VI – a ausência de projeto de engenharia aprovado pelo órgão setorial ou pela unidade responsável pela programação, nos casos em que esse projeto for necessário;<br>
+VI – a ausência de projeto de engenharia aprovado pelo órgão setorial ou pela unidade responsável pela programação, nos casos em que esse projeto for necessário;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-VII – a ausência de licença ambiental prévia, nos casos em que ela for necessária;<br>
+VII – a ausência de licença ambiental prévia, nos casos em que ela for necessária;
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-VIII – os impedimentos cujo prazo para superação inviabilize o empenho no exercício financeiro.<br>
+VIII – os impedimentos cujo prazo para superação inviabilize o empenho no exercício financeiro.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-§ 5º As justificativas para a inexecução desses recursos serão elaboradas pelos gestores responsáveis pela execução das respectivas programações, nos órgãos e nas unidades, e comporão os relatórios de prestação de contas anual do Poder Executivo.<br>
+§ 5º As justificativas para a inexecução desses recursos serão elaboradas pelos gestores responsáveis pela execução das respectivas programações, nos órgãos e nas unidades, e comporão os relatórios de prestação de contas anual do Poder Executivo.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-§ 6º Em caso de ocorrência de impedimento de ordem técnica, o autor da emenda será notificado para realização de nova definição de área de aplicação, objeto, localização, GND e beneficiários, respeitadas as normas aplicáveis.<br>
+§ 6º Em caso de ocorrência de impedimento de ordem técnica, o autor da emenda será notificado para realização de nova definição de área de aplicação, objeto, localização, GND e beneficiários, respeitadas as normas aplicáveis.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
 Art. 66. Para o repasse de recursos ao poder público municipal, as prefeituras e as secretarias encaminharão a sua documentação à Secretaria de Estado de Relações Institucionais – SERINT para a emissão de certidão única de conformidade à celebração de convênios e outros ajustes com o Estado de Goiás.
 
-§ 1º Em relação aos municípios, é vedada a celebração desses instrumentos:<br>
+§ 1º Em relação aos municípios, é vedada a celebração desses instrumentos:
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-I – para a execução de obras e serviços de engenharia com o valor de repasse inferior a R$ 50.000,00 (cinquenta mil reais) ; e<br>
+I – para a execução de obras e serviços de engenharia com o valor de repasse inferior a R$ 50.000,00 (cinquenta mil reais) ; e
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-II – para a execução de despesas de custeio ou para a aquisição de equipamentos com o valor de repasse inferior a R$ 50.000,00 (cinquenta mil reais).<br>
+II – para a execução de despesas de custeio ou para a aquisição de equipamentos com o valor de repasse inferior a R$ 50.000,00 (cinquenta mil reais).
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-§ 2º É vedada a celebração dos instrumentos de que trata este artigo com entidades privadas, exceto com entidades filantrópicas e sem fins lucrativos, como estabelece o § 2º do art. 199 da Constituição Federal.<br>
+§ 2º É vedada a celebração dos instrumentos de que trata este artigo com entidades privadas, exceto com entidades filantrópicas e sem fins lucrativos, como estabelece o § 2º do art. 199 da Constituição Federal.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
 Art. 67. Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado primário, os montantes de execução obrigatória das programações decorrentes de emendas individuais impositivas de que trata esta seção poderão ser reduzidos até a mesma proporção da limitação incidente sobre o conjunto das despesas primárias discricionárias.
@@ -1077,22 +1130,28 @@ Art. 75. As unidades orçamentárias do Poder Executivo reavaliarão trimestralm
 
 Art. 76. As unidades responsáveis pela execução dos créditos orçamentários e adicionais aprovados processarão o empenho da despesa, observados os limites fixados para cada dotação orçamentária, a categoria econômica, a modalidade de aplicação, o elemento de despesa e o subelemento, quando for o caso.
 
-Art. 76-A. Os créditos orçamentários autorizados poderão ser descentralizados total ou parcialmente a outros Poderes, órgãos ou entidades.<br>
+Art. 76-A. Os créditos orçamentários autorizados poderão ser descentralizados total ou parcialmente a outros Poderes, órgãos ou entidades.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-§ 1º A descentralização orçamentária configura delegação da competência para a unidade descentralizada promover a execução de programas, projetos ou atividades previstas no orçamento da unidade descentralizadora.<br>
+§ 1º A descentralização orçamentária configura delegação da competência para a unidade descentralizada promover a execução de programas, projetos ou atividades previstas no orçamento da unidade descentralizadora.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-§ 2º A descentralização orçamentária de um Poder, um órgão ou uma entidade para outro(a) dependerá do Termo de Descentralização Orçamentária – TDO, que estabelecerá as condições da execução e as obrigações das partes.<br>
+§ 2º A descentralização orçamentária de um Poder, um órgão ou uma entidade para outro(a) dependerá do Termo de Descentralização Orçamentária – TDO, que estabelecerá as condições da execução e as obrigações das partes.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-§ 3º A descentralização orçamentária preservará os limites dos créditos autorizados e manterá inalterada a categoria da programação.<br>
+§ 3º A descentralização orçamentária preservará os limites dos créditos autorizados e manterá inalterada a categoria da programação.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-§ 4º A descentralização orçamentária manterá a responsabilidade do Poder, do órgão ou da entidade titular do crédito pelo resultado da programação e transferirá a responsabilidade da execução para a entidade executora.<br>
+§ 4º A descentralização orçamentária manterá a responsabilidade do Poder, do órgão ou da entidade titular do crédito pelo resultado da programação e transferirá a responsabilidade da execução para a entidade executora.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
-§ 5º A realização e a contabilização da despesa serão registradas pelo Poder, pelo órgão ou pela entidade descentralizadora dos recursos orçamentários.<br>
+§ 5º A realização e a contabilização da despesa serão registradas pelo Poder, pelo órgão ou pela entidade descentralizadora dos recursos orçamentários.
+
 \- [Acrescido pela Lei nº 22.450, de 8-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108212).
 
 Art. 77. Na execução do orçamento poderão ser autorizados adiantamentos individuais para a realização de despesas que não possam se subordinar ao processo normal de aplicação, nos termos da legislação aplicável.
@@ -1169,14 +1228,11 @@ Art. 91. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 5 de julho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
-**[ANEXOS  I,  II  e  II-A](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18430)**<br>
-<br>
+**[ANEXOS  I,  II  e  II-A](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18430)**
 
 ANEXO III
 

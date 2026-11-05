@@ -1,5 +1,3 @@
-###DEL-005767-0-000-23-08-1943@@@
-
 DECRETO‑LEI N. 5.767 – DE 23 DE AGÔSTO DE 1943
 
 Autoriza nova prorrogação do contrato da exploração do serviço da Loteria Federal

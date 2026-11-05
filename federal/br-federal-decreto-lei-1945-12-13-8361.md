@@ -1,5 +1,3 @@
-###DEL-008361-0-000-13-12-1945@@@
-
 DECRETO-LEI N. 8.361 – DE 13 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a prioridade de ingresso, no serviço público federal, dos candidatos habilitados em concurso que, como convocados ou voluntários, tenham tomado parte em operações de guerra.

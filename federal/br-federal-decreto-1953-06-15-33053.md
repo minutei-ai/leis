@@ -1,50 +1,48 @@
-###DEC-033053-0-000-15-06-1953@@@
+**DECRETO Nº 33.053, DE 15 DE JUNHO DE 1953.**
 
-<strong>DECRETO Nº 33.053, DE 15 DE JUNHO DE 1953.</strong>
+***Altera o denominação de estabelecimento de ensino e dá outras providências.***
 
-<em><strong>Altera o denominação de estabelecimento de ensino e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e de acôrdo com o art. 26, do Decreto-lei número 9.888, de 16 de setembro de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e de acôrdo com o art. 26, do Decreto-lei número 9.888, de 16 de setembro de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Curso de Oficiais Especialistas, a que se refere o Decreto nº 31.488, de 19 de setembro de 1952, passa a se denominar - “Escola de Oficiais Especialistas e de Infantaria de Guarda” (EOEG), onde funcionarão os seguintes cursos:
+**Art**. 1º O Curso de Oficiais Especialistas, a que se refere o Decreto nº 31.488, de 19 de setembro de 1952, passa a se denominar - “Escola de Oficiais Especialistas e de Infantaria de Guarda” (EOEG), onde funcionarão os seguintes cursos:
 
 a) Curso de Oficiais Especialistas (COE), de que trata o art. 8º da Lei n.º 1.185, de 31 de agôsto de 1950;
 
-b) Curso de Oficiais de Infantaria de Guardas (COIG), previsto na alínea <em>“c”</em> do § 1º do art. 1º do Regulamento aprovado pelo Decreto número 30.698, de 1º de abril de 1952.
+b) Curso de Oficiais de Infantaria de Guardas (COIG), previsto na alínea *“c”* do § 1º do art. 1º do Regulamento aprovado pelo Decreto número 30.698, de 1º de abril de 1952.
 
-<strong>Art</strong>. 2º São introduzidos nos Regulamentos da Escola de Aeronáutica e do Curso de Oficiais Especialistas, aprovados pelos citados Decretos números 30.698, de 1º de abril de 1952 e 31.488, de 19 de setembro do mesmo ano, respectivamente, as alterações que com êste baixam, decorrentes das modificações acima referidas.
+**Art**. 2º São introduzidos nos Regulamentos da Escola de Aeronáutica e do Curso de Oficiais Especialistas, aprovados pelos citados Decretos números 30.698, de 1º de abril de 1952 e 31.488, de 19 de setembro do mesmo ano, respectivamente, as alterações que com êste baixam, decorrentes das modificações acima referidas.
 
 Parágrafo único. Além das alterações referidas neste artigo, fica também, substituída a designação - “Curso de Oficiais Especialistas (COE)”, por - “Escola de Oficiais Especialistas e de Infantaria de Guarda (EOEG)”, onde constar no Regulamento aprovado pelo Decreto número 31.488, de 19 de setembro de 1952, como denominação e abreviatura do estabelecimento.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor data de sua publicação.
+**Art**. 3º Êste decreto entrará em vigor data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 15 de junho de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Nero Moura
 
-<strong>ALTERAÇÕES NO REGULAMENTO DA ESCOLA DE AERONÁUTICA (DECRETO Nº 30.698, DE 1º DE ABRIL DE 1952)</strong>
+**ALTERAÇÕES NO REGULAMENTO DA ESCOLA DE AERONÁUTICA (DECRETO Nº 30.698, DE 1º DE ABRIL DE 1952)**
 
 1 - Suprima-se:
 
-\- a letra <em>c</em> do § 1º do art. 1º;
+\- a letra *c* do § 1º do art. 1º;
 
-\- a letra <em>c</em> do art. 3º;
+\- a letra *c* do art. 3º;
 
 \- o art. 6º;
 
-\- a letra <em>c</em> do art. 11;
+\- a letra *c* do art. 11;
 
 \- o Capítulo III do Título II da Segunda Parte;
 
-\- a letra <em>c</em> do art. 44;
+\- a letra *c* do art. 44;
 
-\- a letra <em>d</em> do art. 123;
+\- a letra *d* do art. 123;
 
 \- o art. 289;
 
@@ -62,7 +60,7 @@ Art. 130. O Grupo de Instrução de intendência é o órgão encarregado da coo
 
 Art. 131. O Chefe do Grupo de Instrução de Intendência é um Capitão-Intendente.
 
-<strong>ALTERAÇÕES NO REGULAMENTO PARA O CURSO DE OFICIAIS ESPECIALISTAS, (DECRETO Nº 31.488, DE 19 DE SETEMBRO DE 1952)</strong>
+**ALTERAÇÕES NO REGULAMENTO PARA O CURSO DE OFICIAIS ESPECIALISTAS, (DECRETO Nº 31.488, DE 19 DE SETEMBRO DE 1952)**
 
 1 - O art. 1º e seu § 1º passam a ter seguinte redação:
 
@@ -112,7 +110,7 @@ b) preparar o futuro oficial de Infantaria de Guarda para:
 
 Art. 14. O ensino, limitando-se a conhecimentos de natureza técnico-científica e militar indispensáveis ao desempenho das funções que os oficiais devem exercer na tropa, nos parque e nos estabelecimentos industriais, orientará seu esfôrço principal para a técnica teórica e prática, peculiar ao padrão de cada um dos quadros.
 
-6 - Altere-se a letra <em>a</em> do art. 15 para:
+6 - Altere-se a letra *a* do art. 15 para:
 
 ...........................................................................................................................................................
 
@@ -368,4 +366,4 @@ c) Órgãos consultivos
 
 \- Os Chefes de Grupos são Capitães ou 1ºs. Tenentes instrutores de matéria do seu Grupo.
 
-<strong>NERO MOURA</strong>
+**NERO MOURA**

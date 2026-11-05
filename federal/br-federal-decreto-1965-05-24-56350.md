@@ -1,5 +1,3 @@
-###DEC-056350-0-000-24-05-1965@@@
-
 DECRETO Nº 56.350, DE 24 DE MAIO DE 1965.
 
 Concede à Navegação Minuano S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

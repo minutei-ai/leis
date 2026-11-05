@@ -1,5 +1,3 @@
-###DEC-074385-0-000-09-08-1974@@@
-
 DECRETO Nº 74.385 - DE 9 DE AGOSTO DE 1974.
 
 Autoriza o funcionamento dos cursos de Letras, Estudos Sociais e de Ciências da Faculdade de Filosofia, Ciências e Letras de Cajazeiras, mantida pela Fundação de Ensino Superior de Cajazeiras, com sede na Cidade de Cajazeiras, Estado da Paraíba.

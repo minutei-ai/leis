@@ -1,5 +1,3 @@
-###DEC-003157-0-000-27-08-1999@@@
-
 DECRETO Nº 3.157, DE 27 DE AGOSTO DE 1999.
 
 Dá nova redação ao art. 5º do Decreto nº 2.018, de 1º de outubro de 1996, que regulamenta a Lei nº 9.294, de 15 de julho de 1996, que dispõe sobre a restrição ao uso e à propaganda de produtos fumígenos, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4º do art. 220 da Constituição.

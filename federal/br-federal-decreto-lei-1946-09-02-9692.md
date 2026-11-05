@@ -1,5 +1,3 @@
-###DEL-009692-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.692 – DE 2 DE SETEMBRO DE 1946
 
 Altera a redação do art. 1º, alínea “a” do Decreto-lei nº 9.320, de 3 de Junho de 1946.

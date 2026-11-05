@@ -1,5 +1,3 @@
-###DEC-047121-0-000-27-10-1959@@@
-
 decreto nº 47.121, de 27 de outubro de 1959.
 
 Autoriza Silva, Areal Mármores e Granitos S.A. a pesquisar mármore no município de Sete Lagoas, Estado de Minas Gerais.

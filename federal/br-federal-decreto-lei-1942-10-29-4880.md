@@ -1,5 +1,3 @@
-###DEL-004880-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.880 – DE 29 DE OUTUBRO DE 1942
 
 Declara extintos os Depósitos de Aeronáutica dos Afonsos e do Galeão

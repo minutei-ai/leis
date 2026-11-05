@@ -1,19 +1,17 @@
-**LEI COMPLEMENTAR Nº 27, DE 19 DE NOVEMBRO DE 1993**<br>
-<br>
-. Alterada pelas LC [35/95,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/58ed5dada941a259042567c10067b2a8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2035%2F95) [205/04](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/37b0c009cbb425d604256f82006baaba?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20205%2C%20DE%2028), [241/06,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/3b145e749fd56242042570fb0063bbef?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20241%2C%20DE%2017%20DE) [286/07](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/dfa2524fec1385c1042573ad0043695c?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20286%2C%20DE%2007), [299/08](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009) e 403/10.<br>
-**.** **REVOGADA** pela LC [416/10](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/f9b855248743f61184257802004e2f8c?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20416%2C%20DE).
+**LEI COMPLEMENTAR Nº 27, DE 19 DE NOVEMBRO DE 1993**
+
+. Alterada pelas LC [35/95,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/58ed5dada941a259042567c10067b2a8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2035%2F95) [205/04](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/37b0c009cbb425d604256f82006baaba?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20205%2C%20DE%2028), [241/06,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/3b145e749fd56242042570fb0063bbef?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20241%2C%20DE%2017%20DE) [286/07](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/dfa2524fec1385c1042573ad0043695c?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20286%2C%20DE%2007), [299/08](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009) e 403/10.
+
+**.REVOGADA** pela LC [416/10](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/f9b855248743f61184257802004e2f8c?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20416%2C%20DE).
 
 **Institui a Lei Orgânica e o Estatuto do Ministério Público do Estado de Mato Grosso, e dá outras providências.**
 
-<br>
-
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO**, tendo em vista o que dispõe o artigo 45 do Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte Lei Complementar:
 
-<br>
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Das Disposições Gerais**
 
-<br>
 **Art. 1º** O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
 
 Parágrafo Único. São princípios institucionais do Ministério Público: a unidade, a indivisibilidade e a independência funcional.
@@ -56,14 +54,14 @@ XII – exercer outras competências dela decorrentes.
 
 §3º A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Ministério Público, quando à legalidade, legitimidade, economicidade, aplicação de dotações, recursos próprios e renúncia de receitas, será exercida pelo Poder Legislativo, mediante controle externo, e pelo sistema de controle interno estabelecido nesta lei.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Da Organização do Ministério Público**
 
-**Seção I**<br>
+**Seção I**
+
 **Dos Órgãos da Administração**
 
-<br>
 **Art. 4º** São órgãos da Administração superior do Ministério Público:
 
 I – a Procuradoria Geral de Justiça;
@@ -80,11 +78,10 @@ I – as Procuradorias de Justiças;
 
 II – as Promotorias de Justiça.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Dos Agentes de Execução**
 
-<br>
 **Art. 6º** São agentes de execução do Ministério Público além de outros criados por esta lei:
 
 I – o Procurador Geral de Justiça;
@@ -95,11 +92,10 @@ III – os Procuradores de Justiças;
 
 IV – os Promotores de Justiças.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Dos Órgãos Auxiliares**
 
-<br>
 **Art. 7º** São órgãos auxiliares do Ministério Público além de outros criados por esta lei:
 
 I – os Centros de Apoio Operacional;
@@ -112,22 +108,24 @@ IV – os órgãos de Apoio Administrativo;
 
 V - os Estagiários.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Dos Órgãos de Administração**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Procuradoria Geral de Justiça**
 
-<br>
 **Art. 8º** O Ministério Público do Estado de Mato Grosso formará lista tríplice para escolha de seu Procurador-Geral de Justiça, que será nomeado pelo Chefe do Poder Executivo, para mandato de 2 (dois) anos permitida uma recondução, observado o mesmo procedimento. **_(Nova redação dada pela LC. nº_** [**_299/2008_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009)**_)._**
 
-**Redação original:**<br>
+**Redação original:**
+
 Art. 8º O Ministério Público do Estado de Mato Grosso formará lista tríplice, dentre os Procuradores de Justiça, para escolha de seu Procurador Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, permitida uma recondução, observado o esmo procedimento.
 
 § 1º São elegíveis os Procuradores e os Promotores de Justiça que tenham no mínimo 10 (dez) anos de efetivo exercício no Ministério Público do Estado de Mato Grosso e que não estejam afastados da carreira. **_(Nova redação dada ao §1º pela LC. nº_** [**_299/2008_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009)**_)._**
 
-**Redação original:**<br>
+**Redação original:**
+
 §1º São elegíveis somente Procuradores de Justiça que não estejam afastados da carreira.
 
 §2º A eleição da lista tríplice far-se-á mediante voto plurinominal de todos os integrantes da carreira.
@@ -184,11 +182,10 @@ XIV – exercer outras atribuições previstas em lei, vedada designação de Pr
 
 § 2º Aplica-se o disposto no parágrafo anterior às designações referidas no art. 9º, IX, alíneas “a” e “b”.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Colégio de Procuradores de Justiça**
 
-<br>
 **Art. 10** O Colégio de Procuradores de Justiça é composto por todos os Procuradores de Justiça, competindo-lhe:
 
 I – opinar, por solicitação do Procurador Geral de Justiça ou da maioria de seus integrantes, sobre matérias relativas à autonomia do Ministério Público, bem assim sobre outras de interesse institucional;
@@ -229,11 +226,10 @@ XIII – autorizar, por maioria absoluta, designação de Promotor de Justiça p
 
 Parágrafo único. As decisões do Colégio de Procuradores de Justiça, salvo deliberação da maioria de seus integrantes ou nas hipóteses legais de sigilo, serão motivadas e publicadas, por extrato.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Do Conselho Superior do Ministério Público**
 
-<br>
 **Art. 11**. O Conselho Superior do Ministério Público será composto por 11 (onze) Procuradores de Justiça, eleitos pelo voto uninominal, facultativo e secreto de todos os membros da instituição, observadas as seguintes disposições:
 
 I – são elegíveis somente Procuradores de Justiças que não estejam afastados da carreira;
@@ -248,9 +244,10 @@ Parágrafo único. Resolução a ser baixada pelo Colégio de Procuradores regul
 
 **Art. 12** Ao Conselho Superior do Ministério Público compete:
 
-I - elaborar a lista sêxtupla a que se refere o Art. 104, II da Constituição Federal**;** **_( Nova Redação L.C. nº_** [**_403/2010_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/e91d1d7efca0bc218425774c006b8d6b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20403%2C)**_)_**
+I - elaborar a lista sêxtupla a que se refere o Art. 104, II da Constituição Federal**;_( Nova Redação L.C. nº_** [**_403/2010_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/e91d1d7efca0bc218425774c006b8d6b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20403%2C)**_)_**
 
-**Redação Original**<br>
+**Redação Original**
+
 I – elaborar as listas sêxtuplas a que se referem os arts. 94, “caput”, e 104, Parágrafo Único, II, da Constituição Federal;
 
 II – indicar ao Procurador Geral de Justiça, em lista tríplice, os candidatos a remoção ou promoção por merecimento, ouvindo, sempre, o Corregedor Geral do Ministério Público;
@@ -281,7 +278,7 @@ XII – exercer outras atribuições previstas em lei;
 
 § 3º Na indicação por antigüidade, o Conselho Superior do Ministério Público somente poderá recusar o membro do Ministério Público mais antigo pelo voto de 2/3 (dois terços) de seus integrantes, conforme procedimento próprio, repetindo-se a votação até fixar-se a indicação, após julgamento de eventual recurso interposto com apoio no inciso X do art. 10.
 
-§ 4º Resolução a ser baixada pelo Conselho Superior do Ministério Público regulamentará o processo de elaboração da lista sêxtupla a que se refere o Art. 94, da Constituição Federal, observando-se os seguintes critérios:**_(Acrescentado o § 4º e seus incisos pela LC. nº_** **_403/2010_****_)._**
+§ 4º Resolução a ser baixada pelo Conselho Superior do Ministério Público regulamentará o processo de elaboração da lista sêxtupla a que se refere o Art. 94, da Constituição Federal, observando-se os seguintes critérios:**_(Acrescentado o § 4º e seus incisos pela LC. nº__403/2010__)._**
 
 I - a lista será formada por votação plurinominal, facultativa e secreta dos integrantes da carreira em atividade;
 
@@ -291,11 +288,10 @@ III - na hipótese de o número de interessados aptos a integrarem a lista não 
 
 IV - o Procurador-Geral de Justiça não poderá disputar o pleito no exercício do mandato, bem como até um ano após o seu término
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Da Corregedoria Geral do Ministério Público**
 
-<br>
 **Art. 13** O Corregedor Geral do Ministério Público e o Corregedor Adjunto serão eleitos pelo Colégio de Procuradores do Ministério Público, dentre os Procuradores de Justiça, para mandato de 2 (dois) anos, permitida uma recondução, observado o mesmo procedimento.
 
 § 1º O Corregedor Geral do Ministério Público e o Corregedor Adjunto somente poderão ser destituídos por maioria dos membros do Colégio de Procuradores.
@@ -324,11 +320,10 @@ VIII – apresentar ao Procurador Geral de Justiça, na primeira quinzena de fev
 
 Parágrafo Único. Recusado-se o Procurador Geral de Justiça a designar os Promotores de Justiça que lhe forem indicados, o Corregedor Geral do Ministério Público poderá submeter a indicação à deliberação do Colégio de Procuradores.
 
-<br>
-**Seção V**<br>
+**Seção V**
+
 **Das Procuradorias de Justiça**
 
-<br>
 **Art. 16.** As Procuradorias de Justiça são órgãos de administração do Ministério Público, com cargos de Procurador de Justiça e serviços auxiliares necessários ao desempenho das funções que forem cometidas por esta lei.
 
 § 1º Ficam criadas, inicialmente, quatro Procuradorias de Justiça, assim discriminadas:
@@ -361,11 +356,10 @@ II – propor ao Procurador Geral de Justiça a escala de férias de seus integr
 
 III – solicitar ao Procurador Geral de Justiça, em caso de licença de Procurador de Justiça ou afastamento de suas funções junto à Procuradoria de Justiça, ou afastamento de suas funções junto à Procuradoria de Justiça, que convoque Promotor de Justiça da mais elevada entrância ou categoria para substituí-lo.
 
-<br>
-**Seção VI**<br>
+**Seção VI**
+
 **Das Promotorias de Justiça**
 
-<br>
 **Art. 20** As Promotorias de justiças são órgãos de administração do Ministério Público, com pelo menos um cargo de Promotor de Justiça e serviços auxiliares necessários ao desempenho das funções que lhe forem cometidas por lei.
 
 § 1º As Promotorias de Justiça poderão ser judiciais ou extrajudiciais, especializadas, gerais ou cumulativas.
@@ -388,14 +382,14 @@ IV – fica o Conselho Superior do Ministério Público, a que alude o art. 11 d
 
 **Art. 21**.O Procurador Geral de Justiça poderá, com a concordância do Promotor de Justiça titular, designar outro Promotor para funcionar em feito determinado, de atribuição daquele.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Das Funções dos Agentes de Execução**
 
-**Seção I**<br>
+**Seção I**
+
 **Das Funções Gerais**
 
-<br>
 **Art. 22.** Além das funções previstas nas Constituições Federal e Estadual, nesta e em outras leis, incumbe, ainda, ao Ministério Público:
 
 I – propor ação de inconstitucionalidade de leis ou atos normativas estaduais ou municipais, em fase da Constituição Federal;
@@ -476,11 +470,10 @@ III – dar andamento, no prazo de trinta dias, á noticias de irregularidades, 
 
 IV – promover audiências públicas e emitir relatórios anual ou especiais, e recomendações dirigidas aos órgãos e entidades divulgação adequada e imediata, assim como resposta por escrito.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Do Procurador Geral de Justiça**
 
-<br>
 **Art. 26**. Além das atribuições previstas na Constituição Federal e Estadual, na Lei Orgânica Federal e em outras leis, compete do Procurador Geral de Justiça:
 
 I - propor ação direta de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual;
@@ -503,11 +496,10 @@ IX - exercer ao funções do art. 129, incisos II e III, .da Constituição Fede
 
 X - delegar a membro do Ministério Público suas funções de órgão de execução.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **De Corregedor Geral de Ministério Público**
 
-<br>
 **Art. 27**. Além das atribuições previstas no Lei Orgânica Nacional e na presente lei, compete ao Corregedor Geral do Ministério Público e ao Corregedor Geral Adjunto:
 
 I - exercer o controle interno dos atividades afins do Ministério Público, fiscalizando sua execução;
@@ -526,18 +518,16 @@ VIl - propor ao Colégo de Procuradores, através da Procuradoria Geral, o Regul
 
 VIII - desempenhar outras atribuições que lhe forem conferidas por lei.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Dos Procuradores de Justiça**
 
-<br>
 **Art. 28**. Cabe aos Procuradores de Justiça exercer atribuições do Ministério Público junto nos Tribunais, inclusive com interposição de recursos, desde que não cometidas ao Procurador Geral de Justiça, e também por delegação deste.
 
-<br>
-**Seção V**<br>
+**Seção V**
+
 **Dos Promotores de Justiça**
 
-<br>
 **Art. 29** Além de outras funções cometidas pelas Constituições Federal e Estadual, pela Lei Orgânica Nacional, por esta e demais leis, competente aos Promotores de Justiça, dentro de sua esfera de atribuições:
 
 I – impetrar habeas-copus e mandado de segurança e requerer correição parcial, inclusive perante os Tribunais locais competentes;
@@ -546,14 +536,14 @@ II – atender a qualquer do povo, tomando ao providências cabíveis;
 
 III – oficiar perante a Justiça Eleitoral de primeira instância, com as atribuições do Ministério Público Eleitoral previstas ma Lei Orgânica do Ministério Público da União que forem pertinentes, além de outras estabelecidas as legislação eleitoral e partidária.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **Dos Órgãos Auxiliares**
 
-**Seção I**<br>
+**Seção I**
+
 **Dos Centros de Apoio Operacional**
 
-<br>
 **Art. 30** Os Centros de Apoio Operacional são órgãos auxiliares da atividade funcional do Ministério Público, competindo-lhes:
 
 I – estimular a integração e o intercâmbio entre órgãos de execução que atuem na mesma área de atividade e que tenham atribuições comuns;
@@ -568,51 +558,48 @@ V – exercer outras funções compatíveis com as suas finalidades, vedado o ex
 
 Parágrafo Único. As funções de dirigente dos Centros de Apoio Operacional serão privativas de membro do Ministério Público, designado pelo Procurador Geral de Justiça.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Comissão de Concurso**
 
-<br>
 **Art. 31** À Comissão de Concurso, órgão auxiliar de natureza transitória, incumbe realizar a seleção de candidatos ao ingresso na carreira do Ministério Público, observado o disposto no art. 129, § 3º, da Constituição Federal.
 
 Parágrafo Único. O Procurador Geral de Justiça será o Presidente da Comissão de Concurso de ingresso na carreira; os demais integrantes serão eleitos na forma do art. 10, inciso XII, desta lei.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Do Centro de Estudos e Aperfeiçoamento Funcional**
 
-<br>
 **Art. 32** O Centro de Estudos e Aperfeiçoamento Funcional é órgão auxiliar do Ministério Público destinado a realizar cursos de aperfeiçoamento, seminários, congressos, simpósios, pesquisas, atividades, estudos e publicações visando ao aprimoramento profissional e cultural dos membros da Instituição, de seus auxiliares e funcionários, bem como para melhor execução de seus auxiliares e funcionários, bem como para melhor execução de seu serviços e racionalização do uso de seus recursos materiais.
 
 Parágrafo Único. O Colégio de Procurador estabelecerá a organização do Centro de Estados e Aperfeiçoamento Funcional.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Dos órgãos de Apoio Administrativo**
 
-<br>
 **Art. 33** Lei de iniciativa do Procurador Geral de Justiça disciplinará os órgãos e serviços auxiliares de apoio administrativo, organizados em quadro próprio de carreira, com cargos que atendem às suas peculiaridades e às necessidades da administração e das atividades funcionais.
 
-<br>
-**Seção V**<br>
+**Seção V**
+
 **Dos Estagiários**
 
-<br>
 **Art. 34** Os estagiários do Ministério Público, auxiliares das Promotorias de Justiça, serão nomeados pelo Procurador Geral de Justiça para período não superior a 3 (três) anos.
 
 Parágrafo Único. O Colégio de Procuradores disciplinará a seleção, a seleção , investidura, vedações e dispensa dos estagiários, que serão alunos dos três últimos anos do curso de bacharelado em Direito, de escolas oficiais ou reconhecidas, sediadas no Estado.
 
-<br>
-**LIVRO II**<br>
+**LIVRO II**
+
 **DO ESTATUTO DO MINISTÉRIO PÚBLICO**
 
-**TÍTULO I**<br>
+**TÍTULO I**
+
 **Da Carreira**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Do Concurso de Ingresso**
 
-<br>
 **Art. 35.** O ingresso no cargo inicial da carreira dependerá da aprovação prévia em concurso público de provas e títulos, organizado e realizado pela Procuradoria Geral de Justiça, com a participação do Conselho Seccional da Ordem dos Advogados do Brasil.
 
 § 1º É obrigatória a abertura de concurso de ingresso quando o número de vagas atingir a 1/5 (um quinto) dos cargos iniciais da carreira.
@@ -637,11 +624,10 @@ VIII – certidão negativa de inquérito policial passada pelo SINIC – Servi�
 
 Parágrafo único. As normas complementares para a inscrição dos candidatos e a realização do concurso de que trata este Capítulo serão elaboradas pelo Conselho Superior do Ministério Público.
 
-<br>
-**Seção I**<br>
+**Seção I**
+
 **Da Posse, do Compromisso e do Exercício**
 
-<br>
 **Art. 37** O membro do Ministério Público deverá tomar posse dentro de 30 (trinta) dias, a contar da publicação do ato de nomeação no órgãos oficial, podendo o prazo ser prorrogado por igual tempo, a critério da Procuradoria Geral de Justiça.
 
 § 1º A posse será dada pelo Procurador Geral de Justiça, em sessão solene, mediante assinatura do termo em que o empossado se comprometa a desempenhar, com retidão, as funções do cargo, de cumprir ao Constituições Federal e Estadual e as demais leis.
@@ -670,11 +656,10 @@ lI - da data de publicação do ato de promoção ou remoção, independentement
 
 Parágrafo único. A Promotoria de Justiça comunicará o exercício do cargo ao Procurador Geral de Justiça e ao Corregedor Geral do Ministério Público, no prazo de 48 (quarenta e oito) horas.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Do Estágio Probatório**
 
-<br>
 **Art. 40** Antes de completar 2 (dois) anos de exercício no cargo, dar-se-á a avaliação para vitaliciedade do membro do Ministério Público.
 
 § 1º Para ente efeito, o Conselho Superior do Ministério Público. no último mês do biênio, decidirá se o membro do Ministério Público demonstrou condições de permanecer na carreira, considerada, sobretudo, a sua idoneidade moral, aptidão para o desempenho do cargo e capacidade de trabalho.
@@ -707,16 +692,16 @@ VIII - outros dados constantes de sua ficha funcional.
 
 § 1º Resolução a ser expedida pelo Conselho Superior do Ministério Público disciplinará o procedimento de impugnação, cabendo ao mesmo Conselho decidir, no prazo máximo de 60 (sessenta) dias, sobre o não-vitaliciamento, e ao Colégio de Procuradores de Justiça, em 30 (trinta) dias, cabendo eventual recurso.**_(Nova redação dada apela_** [**_LC. 35/95_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/58ed5dada941a259042567c10067b2a8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2035%2F95)**_)_**
 
-**Redação original:**<br>
+**Redação original:**
+
 § 1º Resolução a ser expedida pelo Conselho Superior do Ministério Público disciplinará o procedimento de impugnação, cabendo ao mesmo Conselho decidir, no prazomínimo de 60 (sessenta) dias, sobre o não vitaliciamento, e ao Colégio de Procuradores de Justiça em 30 (trinta) dias, cabendo eventual recurso.
 
 § 2º Durante a tramitação do procedimento da impugnação, o membro do Ministério Público oerceberá vencimento integrais, contando-se, para todos os efeitos, o tempo de suspensão do exercício funcional, no caso de vitaliciamento.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Da Promoção**
 
-<br>
 **Art. 42** A promoção dos membros do Ministério Público dar-se-á por concurso e obedecerá os seguintes princípios:
 
 I – voluntária, por antigüidade e merecimento, alternadamente, apuradas na entrância e ou categoria imediatamente anterior, de uma para outra entrância e ou categoria, e dá entrância ou categoria, imediatamente anterior, de uma para outra entrância ou categoria, e dá entrância ou categoria mais elevada para o cargo de Procurador de Justiça, aplicando-se o disposto no art. 106, alíneas “c”, “d” e “e” da Constituição Estadual;
@@ -761,13 +746,14 @@ V - tenham completado 2 (dois) anos de exercício no cargo imediatamente anterio
 
 **Art. 48** O cargo de Procurador de Justiça será preenchido por promoção de membro do Ministério Público das Comarcas de entrância especial, observadas as restrições previstas no artigo 46. **_(Nova redação dada pela_** [**_LC. 35/95_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/58ed5dada941a259042567c10067b2a8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2035%2F95)**_)_**
 
-**Redação original:**<br>
+**Redação original:**
+
 Art. 48 O cargo de Procurador de Justiça será preenchido por promoção de membro do Ministério Público das comarcas de entrância especial, observadas as restrições previstas no art. 45.
 
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Da Remoção**
 
-<br>
 **Art. 49** A remoção, sempre para o cargo de igual entrância ou categoria, dar-se-á:
 
 I – a pedido, para cargo que se achar vago;
@@ -794,11 +780,10 @@ IV – a remoção a pedido ou por permuta não confere direito à ajuda de cust
 
 **Art. 51**. Aplicam-se para a remoção, no que couber, os requisitos exigidos no capítulo anterior.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Da Reintegração**
 
-<br>
 **Art. 52**. A reintegração, que decorrerá de sentença judicial transitada em julgado, é o retorno do membro do Ministério Público ao cargo, com ressarcimento dos vencimentos e vantagens deixados de perceber em razão do afastamento, inclusive a contagem do tempo de serviço.
 
 § 1º Achando-se provido o cargo no qual foi reintegrado o membro do Ministério Público, o seu ocupante passará, à disponibilidade remunerada até posterior aproveitamento.
@@ -807,11 +792,10 @@ IV – a remoção a pedido ou por permuta não confere direito à ajuda de cust
 
 § 3º O membro do Ministério Público reintegrado será submetido à inspeção médica e, se considerado incapaz, será aposentado compulsoriamente, com as vantagens a que terá direito, se efetiva de a reintegração.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **Do Reversão**
 
-<br>
 **Art. 53**. A reversão é o retorno do aposentado em quadros do Ministério Público, quando insubsistentes os motivos da aposentadoria.
 
 1º A reversão operar-se-á, a pedido ou de ofício, no mesmo cargo ocupado quando da aposentadoria ou, se este estiver preenchido, em cargo de categoria igual à do momento da aposentadoria.
@@ -820,22 +804,20 @@ IV – a remoção a pedido ou por permuta não confere direito à ajuda de cust
 
 3º Será cassada a aposentadoria se o aposentado não comparecer à inspeção de saúde na reversão de ofício ou não entra em exercício no prazo legal.
 
-<br>
-**CAPÍTULO VI**<br>
+**CAPÍTULO VI**
+
 **Do Aproveitamento**
 
-<br>
 **Art. 54**. O aproveitamento é o retorno do membro do Ministério Público em disponibilidade ao exercício funcional.
 
 § 1º O membro do Ministério Pública será aposentado no órgão de execução que ocupava quando posto em disponibilidade, salvo se aceitar outro de igual entrância ou categoria, ou se for promovido.
 
 § 2º Ao retornar à atividade, será o membro do Ministério Público submetido à inspeção médica e, se julgado incapaz, será aposentado compulsoriamente, com as vantagens a que teria direito, se efetivado o seu retorno.
 
-<br>
-**CAPÍTULO VII**<br>
+**CAPÍTULO VII**
+
 **De Disponibilidade**
 
-<br>
 **Art. 55**. Os membros do Ministério Público em disponibilidade legal serão classificados em quadro suplementar, provendo-se, imediatamente, a vaga que ocorrer, segundo a legislação em vigor.
 
 **Art. 56**. A disponibilidade remunerada outorga ao membro do Ministério Público a percepção de seus vencimentos e vantagens integrais e a contagem do tempo como se em exercício estivesse, bem como a possibilidade de concorrer à promoção por antigüidade.
@@ -846,11 +828,10 @@ IV – a remoção a pedido ou por permuta não confere direito à ajuda de cust
 
 § 2º O membro do Ministério Público em disponibilidade remunerada continuará sujeito às vedações constitucionais e será classificado em Quadro Especial, provendo-se a vaga que ocorrer.
 
-<br>
-**CAPÍTULO VIII**<br>
+**CAPÍTULO VIII**
+
 **Das Substituições**
 
-<br>
 **Art. 58** Os membros do Ministério Público serão substituídos:
 
 I – uns pelos outros, automaticamente, conforme escala organizada pelo Procurador Geral de Justiça;
@@ -875,11 +856,10 @@ III - quando, em razão da férias individuais licença ou qualquer outro afasta
 
 § 4º Salvo nas comarcas em que houver um único Promotor de Justiça, fixa, instituído um plantão, mediante escala a ser organizada pelo Procurador Geral de Justiça, com funcionamento em horário excedente no expediente normal, sábados, domingos, dias santos e feriados, com a finalidade de atender a situações emergenciais que reclamem a intervenção do Ministério Público.
 
-<br>
-**CAPÍTULO**<br>
+**CAPÍTULO**
+
 **Da Perda, da Exoneração e da Demissão do Cargo**
 
-<br>
 **Art. 60**. O membro do Ministério Público vitalício perderá o cargo por sentença judicial transitada em julgado, na forma do art. 92, I e Parágrafo Único, do Código Penal.
 
 § 1º O membro do Ministério Público, igualmente, perderá o cargo, por sentença judicial transitada em julgado, proferida em ação cível própria, nos seguintes casos:
@@ -898,11 +878,10 @@ Parágrafo Único. A exoneração do Ministério Público em estágio probatóri
 
 **Art. 62. (V E T A D O)**
 
-<br>
-**CAPÍTULO X**<br>
+**CAPÍTULO X**
+
 **Do Tempo de Serviço**
 
-<br>
 **Art. 63** A apuração do tempo de serviço na entrância ou categoria, como na carreira, será feita em dias, que serão convertidos em anos, considerando o ano como de 365 (trezentos e sessenta e cinco) dias.
 
 **Art. 64** São considerados como de efetivo exercício os dias em que o membro do Ministério Público estiver afastado de suas funções em razão de:
@@ -945,32 +924,32 @@ Parágrafo Único. Não será permitido o afastamento, durante o estágio probat
 
 **Art. 66** Ao membro do Ministério Público computar-se-á, para os efeitos de aposentadoria, o tempo de serviço prestado em atividade privada, observado, no que couber o disposto no artigo anterior.
 
-<br>
-**CAPÍTULO XI**<br>
+**CAPÍTULO XI**
+
 **Da Aposentadoria e Pensão**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Aposentadoria**
 
-<br>
 **Art. 67** A aposentadoria do membro do Ministério Público será compulsória aos 70 (setenta) anos de idade ou por invalidez permanente comprovada, e facultativa aos 30 (trinta) anos de serviço, sempre com vencimentos integrais, após 5 (cinco) anos de efetivo exercício na carreira.
 
 **Art. 68** É facultativo ao membro do Ministério Público aposentar-se com proventos proporcionais após 25 (vinte e cinco) anos de serviços e 5 (cinco) anos de efetivo exercício no Ministério Público.
 
 **Art. 69** Aposentando-se após ter exercido 15 (quinze) anos de efetivo exercício na carreira, o membro do Ministério Público fará jus à remuneração do cargo imediatamente superior, ou, se ocupar o mais alto cargo, ao acréscimo de 20% (vinte por cento) sobre os respectivos proventos. **_(Nova redação dada pela_** [**_LC. 35/95_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/58ed5dada941a259042567c10067b2a8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2035%2F95)**_)_**
 
-**Redação Original:**<br>
+**Redação Original:**
+
 Art. 69 Aposentando-se após ter exercido 20 (vinte) anos de efetivo exercício na carreira, o membro do Ministério Público fará jus à remuneração do cargo imediatamente superior, ou, se ocupar o mais alto cargo, ao acréscimo de 20% (vinte por cento) sobre os respectivos proventos.
 
 **Art. 70** Os proventos de aposentadoria, que corresponderão à totalidade dos vencimentos percebidos no serviço ativo, a qualquer título, serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos membros do Ministério Público em atividade, sendo também entendido aos inativos quaisquer benefícios ou vantagens posteriormente concedidos àqueles inclusive quando decorrentes de transformação ou reclassificação do cargo ou função em que se deu a aposentadoria.
 
 Parágrafo Único Os proventos dos membros do Ministério Público aposentados serão pagos na mesma ocasião em que o forem os vencimentos dos membros do Ministério Público da ativa.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Pensão**
 
-<br>
 **Art. 71.** Ao cônjuge sobrevivente ou, em sua falta, aos herdeiros ou dependentes do membro do Ministério Público será concedida uma pensão correspondente aos vencimentos integrais que o mesmo percebia, sem prejuízo de outras a que tenha direito.
 
 § 1º A pensão será paga ao cônjuge sobrevivente ou, na falta deste, aos herdeiros ou dependentes, pelo órgão próprio do Ministério Público.
@@ -991,14 +970,14 @@ IV – à ex-companheira ou ex-companheiro que contrair núpcias;
 
 § 5º No caso de viúva, viúvo, ex-companheira ou ex-companheiro ser funcionário público estadual e optar pelas vantagens do cargo, a pensão será integralmente transferida aos filhos menores, inválidos ou àqueles referidos no inciso II do § 3º.
 
-<br>
-**TÍTULO II**<br>
+**TÍTULO II**
+
 **Dos Deveres, Vedações, Garantias e Prerrogativas, Vencimentos, Vantagens e Direitos Dos Membros do Ministério Público.**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Dos Deveres e Vedações**
 
-<br>
 **Art. 72.** São deveres dos membros do Ministério Público, além de outros previstos em lei:
 
 I – manter ilibada conduta pública e particular;
@@ -1049,11 +1028,10 @@ V – exercer atividade político-partidária ressalvada a filiação e o dispos
 
 § 2º Para efeito do art. 128, § 3º, II, “e”, da Constituição Federal, sem prejuízo no disposto na Legislação Eleitoral, o membro do Ministério Público poderá afastar-se para exercer cargo Público eletivo, ou a ele concorrer.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Das Garantias e Prerrogativas**
 
-<br>
 **Art. 74.** Os membros do Ministério Público sujeitam-se a regime jurídico especial e têm as seguintes garantias;
 
 I – vitaliciedade, após dois anos de exercício, não podendo perder o cargo, senão por sentença judicial transitada em julgado;
@@ -1108,14 +1086,14 @@ Parágrafo Único. Quando, no curso de investigação, houver indício de práti
 
 **Art. 77.** Os membros do Ministério Público terão carteira funcional, valendo em todo o território nacional com cédula da identidade, e parte de arma, independentemente, neste caso, de qualquer ato formal de licença ou autorização.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Dos vencimentos, vantagens e Direitos**
 
-**Seção I**<br>
+**Seção I**
+
 **Dos Vencimentos**
 
-<br>
 **Art. 78.** A remuneração dos membros do Ministério Público deverá ser fixada em nível condizente com a relevância da função e de forma a compensar todas as vedações e incompatibilidades específicas que lhe são impostas, e a constituir real atrativo em relação às demais atividades da área jurídica.
 
 **Art. 79** O subsídio do Procurador-Geral de Justiça e dos Procuradores de Justiça, a partir do dia 1º de janeiro de 2006, será de R$ 22.111,25 (vinte e dois mil, cento e onze reais e vinte e cinco centavos), correspondente a 90,25% (noventa inteiros e vinte e cinco centésimos por cento) do subsídio dos Ministros do Supremo Tribunal Federal. **_(Nova redação dada pela LC. nº_** [**_241/2005_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/3b145e749fd56242042570fb0063bbef?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20241%2C%20DE%2017%20DE)**_)._**
@@ -1124,19 +1102,20 @@ Parágrafo Único. Quando, no curso de investigação, houver indício de práti
 
 § 2º O Promotor de Justiça designado para o desempenho de função a qualquer dos órgãos da Administração Superior do Ministério Público perceberá a diferença mensal entre o subsídio do seu cargo e o de Procurador de Justiça.
 
-**Redação original:**<br>
-Art. 79 Os vencimentos dos membros do Ministério Público serão fixados com diferença não excedente a 5% (cinco por cento) de uma para outra entrância e de entrância mais elevada para o cargo de Procurador Geral de Justiça, garantindo-se aos Procuradores de Justiça não me<br>
+**Redação original:**
+
+Art. 79 Os vencimentos dos membros do Ministério Público serão fixados com diferença não excedente a 5% (cinco por cento) de uma para outra entrância e de entrância mais elevada para o cargo de Procurador Geral de Justiça, garantindo-se aos Procuradores de Justiça não me
+
 Parágrafo Único. O Promotor de Justiça designado para o desempenho de função junto a qualquer dos órgãos da Administração Superior perceberá a diferença mensal entre o vencimento do seu cargo e o de Procurador de Justiça.
 
 **Art. 80** A remuneração dos membros do Ministério Público do Estado de Mato Grosso é a fixada pelo art. 48, Lei Orgânica Nacional do Ministério Público (Lei Federal nº 8.625/93),cujas tabelas serão adequadas em obediência ao art. 69, da mesma lei.
 
 **Art. 81** Os vencimentos devem ser pagos até o dia 10 dos mês subsequente, constituindo e atraso na entrega das dotações orçamentárias desatendimento às garantias do Ministério Público;
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Das Vantagens Pecuniárias**
 
-<br>
 **Art. 82.** Aos vencimentos dos membros componentes do Ministério Público poderão ser acrescidas as seguintes vantagens, nos termos desta Lei:
 
 I – ajuda de custo, para despesas de transporte e mudança;
@@ -1159,7 +1138,8 @@ IX – gratificação pelo exercício cumulativo de cargos e funções, consider
 
 X - parcela temporária pelo exercício de cargo de Procurador-Geral de Justiça e Corregedor-Geral, no valor correspondente a 20% (vinte por cento) do subsídio, a qual não integrará o limite estabelecido no inciso XI do art. 37 da Constituição Federal de 1988. **_(Nova redação dada pela LC. nº_** [**_241/2005_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/3b145e749fd56242042570fb0063bbef?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20241%2C%20DE%2017%20DE)**_)._**
 
-**Redação original:**<br>
+**Redação original:**
+
 X – verba de representação pelo exercício de cargo de direção ou de confiança junto aos órgãos da Administração Superior, com limite estabelecido em 50% do salário-base;
 
 XI – outras vantagens previstas em lei, inclusive as concedidas aos servidores públicos em geral;
@@ -1180,11 +1160,10 @@ XIV – auxílio funeral.
 
 § 5º Constitui parcela dos vencimentos, para todos os efeitos, a gratificação de representação do Ministério Público.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Das vantagens não Pecuniárias**
 
-<br>
 **Art. 83**. São vantagens não pecuniárias dos membros do Ministério Público:
 
 I – férias;
@@ -1221,14 +1200,16 @@ Parágrafo Único. O Colégio de Procuradores disciplinará as licença prevista
 
 § 1º Por ocasião da aposentadoria ou por necessidade do serviço, o membro do Ministério Público que não tiver usufruído as férias a que tenha direito, fará jus a indenização de seu valor equivalente a tantos períodos quantos deixou de usufruir, desde que se refiram aos últimos 15 (quinze) anos, prazo em que o direito de férias prescreverá. **_(Nova redação dada ao §1º pela LC. nº_** [**_299/2008_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009)**_)._**
 
-**Redação original:**<br>
+**Redação original:**
+
 § 1º Por ocasião da aposentadoria, o membro do Ministério Público que não tiver usufruído as férias a que tinha direito, nem delas se beneficiou por qualquer forma de contagem prevista em Lei, fará jus a uma indenização, equivalente a tantos períodos quantos deixou de usufruir, pagos, cada qual, na base dos vencimentos auferidos à data da indenização.
 
 § 2º O Promotor de Justiça a que competir oficiar perante garante o Tribunal de Juri não poderá gozar férias no gozo período em que houver previsão de reunião do citado Tribunal.
 
-§3º **Revogado.** **_(Revogado o §3º pela LC. nº_** [**_299/2008_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009)**_)._**
+§3º **Revogado._(Revogado o §3º pela LC. nº_** [**_299/2008_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009)**_)._**
 
-**Redação original:**<br>
+**Redação original:**
+
 § 3º O membro do Ministério Público que renunciar ao gozo de férias regulamentares contará em dobro e período, para efeito de aposentadoria e disponibilidade, e, simples, para efeito de adicional.
 
 § 4º Os membros do Ministério Público terão direito a receber, adiantamento, quando em gozo de férias, os respectivos vencimentos, com a aplicação do disposto no art. 7º, XVII, da Constituição Federal.
@@ -1239,14 +1220,14 @@ a)declaração de que os serviços estão em dia;
 
 b)endereço onde poderá ser encontrado.
 
-<br>
-**TÍTULO III**<br>
+**TÍTULO III**
+
 **Da Disciplina**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Das Correições**
 
-<br>
 **Art. 86.** A inspeção permanente será procedida pelos Procuradores de Justiça, ao examinar os autos em que devam oficiar, e pelo Corregedor Geral, mediante visitas às Promotorias de Justiça, quando entender conveniente e oportuno.
 
 Parágrafo Único. O Corregedor Geral, de ofício ou à vista das apreciações sobre a atuação dos membros do Ministério Público, enviadas pelos Procuradores de Justiça, fará aos Promotores de Justiça, oralmente ou por escrito, em caráter reservado, as recomendações ou observações que julgar cabíveis, dando-lhe ciência dos elogios e mandando consignar em seus assentamentos as devidas anotações.
@@ -1267,11 +1248,10 @@ Parágrafo Único. O relatório de correição será sempre levado ao conhecimen
 
 Parágrafo Único. Quando nas acusações documentadas, ou na investigação a que se refere este artigo, verificar-se a ocorrência de falta possível de pena disciplinar, o Corregedor Geral determinará a instituição de sindicância.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Das Faltas e Penalidades**
 
-<br>
 **Art. 93** Os membros do Ministérios Público serão passíveis das seguintes sanções disciplinares:
 
 I – advertência;
@@ -1306,14 +1286,14 @@ Parágrafo Único**.** A falta, também prevista em lei penal como crime, terá 
 
 **Art. 101.** As decisões referentes à imposição de qualquer pena disciplinar constarão, exceto a de advertência, do prontuário do infrator, e delas só será fornecida cópia ou certidão ao próprio infrator, salvo se requeridas para a defesa de direitos.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Do Procedimentos Disciplinar**
 
-**Seção I**<br>
+**Seção I**
+
 **Disposições Preliminares**
 
-<br>
 **Art. 102.** Pelo exercício irregular da função pública, o membro do Ministério Público responde cível, penal e administrativamente.
 
 **Art. 103**. A apuração das faltas funcionais será feita mediante sindicância e processo administrativo.
@@ -1330,11 +1310,10 @@ Parágrafo Único. Quando o infrator for Procurador de Justiça, o processo disc
 
 **Art. 108** Os autos dos processos disciplinares serão arquivados na Corregedoria Geral, após a execução do julgado.
 
-<br>
-**Seção I**<br>
+**Seção I**
+
 **Da Sindicância**
 
-<br>
 **Art. 109** Instaurar-se-á sindicância:
 
 I – como preliminar do processo administrativo, sempre que a infração não for evidente ou não estiver suficientemente caracterizada;
@@ -1355,11 +1334,10 @@ II – quando, não sendo obrigatório o processo administrativo, a infração d
 
 § 2º Decorrido o prazo de que trata o parágrafo anterior, o sindicante elaborará o relatório, em que examinará todos os elementos da sindicância e proporá as medidas cabíveis, encaminhando –o juntamente com os autos, à autoridade que o instaurou.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **De Processo Administrativo**
 
-<br>
 **Art. 112** O processo administrativo para a apuração do faltas punidas com as penas de suspensão e demissão será realizado por uma comissão designada pelo Procurador Geral e constituída por 3 (três) membros do Ministério Público, de categoria igual ou superior à do indiciado.
 
 § 1º Os integrantes da comissão processante, bem como seu secretário, poderão ser dispensados de suas funções normais devendo reassumí-las logo após a entrega do relatório final.
@@ -1412,11 +1390,10 @@ Parágrafo Único**.** A vista será dada na Secretaria da comissão, guardadas 
 
 **Art. 126** Aos casos omissos serão aplicadas as regras pertinentes do Processo Penal.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Do Julgamento**
 
-<br>
 **Art. 127** Nos casos em que o sindicante ou a comissão opinar pela imposição de pena da competência do Procurador Geral, este, se concordar com a conclusão proposta, aplicará a penalidade no prazo de 10 (dez) dias, contados da data do recebimento dos autos.
 
 §1º Se o Procurador Geral não se considerar habilitado a proferir o julgamento, poderá converter-se este em diligência, devolvendo os autos ao sindicante ou à comissão, para os fins que indicar, com prazo não superior a 10 (dez) dias.
@@ -1439,11 +1416,10 @@ Parágrafo Único**.** A vista será dada na Secretaria da comissão, guardadas 
 
 **Art. 132** Das decisões proferidas pelo Procurador Geral caberá apenas pedido de reconsideração, no prazo de cinco dias.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Da revisão do Processo Administrativo**
 
-<br>
 **Art. 133** Admitir-se-á, a qualquer tempo, a revisão do processo disciplinar de que tenha resultado imposição de pena, sempre que forem induzidos fatos novos ou circunstâncias ainda não apreciadas e sucetíveis de provar a inocência ou de justificar a imposição de pena mais branda, ou, ainda, no caso de constatação de vícios insanáveis no curso do procedimento.
 
 § 1º Da revisão não pode resultar a agravação da pena;
@@ -1474,10 +1450,8 @@ II – o cancelamento, modificação ou substituição da pena.
 
 **Art. 140**. Esta lei complementar entra em vigor na data de sua publicação, revogada as disposições em contrário.
 
-<br>
 **Das Disposições Finais e Transitórias**
 
-<br>
 **Art. 1º** O quadro do Ministério Público compõe se de:
 
 I - na segunda instância: **_(Redação dada pela LC. nº_** [**_205/2004_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/37b0c009cbb425d604256f82006baaba?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20205%2C%20DE%2028)**_)_**
@@ -1486,9 +1460,12 @@ a) 01 (um) cargo de Procurador-Geral de Justiça,
 
 b) 30 (trinta) cargos de Procurador de Justiça.
 
-**Redação original:**<br>
-I – na segunda instância:<br>
-a) 1 (um) cargo de Procurador Geral de Justiça;<br>
+**Redação original:**
+
+I – na segunda instância:
+
+a) 1 (um) cargo de Procurador Geral de Justiça;
+
 b) 22 (vinte e dois) cargos de Procurador de Justiça;
 
 II – na Primeira Instância: **_(Alterado o inciso II do art. 1º da DT. pela LC. n°_** [**_286/07_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/dfa2524fec1385c1042573ad0043695c?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20286%2C%20DE%2007)**_)._**
@@ -1499,12 +1476,13 @@ b) 40 (quarenta) cargos de Promotor de Justiça de terceira entrância;
 
 c) 35 (trinta e cinco) cargos de Promotor de Justiça de segunda entrância;
 
-d) 57 (cinquenta e sete) cargos de Promotor de Justiça de Primeira Entrância.**_(Nova redação dada a alínea "d" pela LC. nº_** **_403/2010_****_)._**
+d) 57 (cinquenta e sete) cargos de Promotor de Justiça de Primeira Entrância.**_(Nova redação dada a alínea "d" pela LC. nº__403/2010__)._**
 
-**Redação original:**<br>
+**Redação original:**
+
 d) 67 (sessenta e sete) cargos de Promotor de Justiça de primeira entrância;
 
-e) 35 (trinta e cinco) cargos de Promotor de Justiça Substituto.**_(Nova redação dada a alínea "e" seus parágrafos pela LC. nº_** **_403/2010_****_)._**
+e) 35 (trinta e cinco) cargos de Promotor de Justiça Substituto.**_(Nova redação dada a alínea "e" seus parágrafos pela LC. nº__403/2010__)._**
 
 § 1º O Promotor de Justiça Substituto tem a atribuição de substituir ou auxiliar membro do Ministério Público que atua perante a Primeira Instância, conforme designação do Procurador-Geral de Justiça, cumprindo-lhe exercer as funções judiciais e extrajudiciais daquele a quem substituir ou auxiliar.
 
@@ -1512,30 +1490,54 @@ e) 35 (trinta e cinco) cargos de Promotor de Justiça Substituto.**_(Nova redaç
 
 § 3º Os Promotores de Justiça Substitutos poderão ser titularizados, tornando-se Promotores de Justiça de Primeira Entrância, após um período mínimo de um ano de carreira, por ato do Procurador-Geral de Justiça, referendado pelo Conselho Superior do Ministério Público.
 
-**Redação Anterior:**<br>
-e) 25 (vinte e cinco) cargos de Promotor de Justiça Substituto. **(Nova redação dada a alínea "e" e seus §§ 1º, 2º e 3º pela LC. nº** [**299/2008**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009)**).**<br>
-§ 1º O Promotor de Justiça Substituto tem a atribuição de substituir ou auxiliar membro do Ministério Público de Primeira Instância, conforme designação do Procurador-Geral de Justiça, cumprindo-lhe exercer as funções judiciais e extrajudiciais daquele a quem substituir ou auxiliar.<br>
-§ 2º O Promotor de Justiça Substituto perceberá subsídio com valor inferior de 10% (dez por cento) ao de Promotor de Justiça de Primeira Entrância, sendo-lhe vedada a percepção de diferença por substituição ou acumulação.<br>
-§ 3º O vitaliciamento e os critérios de lotação em Comarca de Primeira Entrância, que se dará somente após findo o estágio probatório, serão definidos por Resolução do Colégio de Procuradores de Justiça.<br>
-**Redação anterior:**<br>
-e) 25 (vinte e cinco) cargos de Promotor de Justiça Substituto.<br>
-§ 1º O Promotor de Justiça Substituto tem a atribuição de substituir ou auxiliar membro do Ministério Público de Primeira Instância, conforme designação do Procurador-Geral de Justiça, cumprindo-lhe exercer as funções judiciais e extrajudiciais daquele a quem substituir ou auxiliar.<br>
-§ 2º O Promotor de Justiça Substituto perceberá subsídio com valor inferior de 10% (dez por cento) ao de Promotor de Justiça de Primeira Entrância, sendo-lhe vedada a percepção de diferença por substituição ou acumulação.<br>
-§ 3º O vitaliciamento e os créditos de lotação em Comarca de Primeira Entrância, que se dará somente após findo o estágio probatório, serão definidos por Resolução do Colégio de Procuradores de Justiça.<br>
-II - na primeira instância: **(Redação dada pela LC. nº** [**205/2004**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/37b0c009cbb425d604256f82006baaba?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20205%2C%20DE%2028)**)**<br>
-a) 81 (oitenta e um) cargos de Promotor de Justiça de entrância especial;<br>
-b) 40 (quarenta) cargos de Promotor de Justiça de 3ª (terceira) entrância;<br>
-c) 35 (trinta e cinco) cargos de Promotor de Justiça de 2ª (segunda) entrância;<br>
-d) 67 (sessenta e sete) cargos de Promotor de Justiça de 1ª (primeira) entrância.”<br>
-**Redação original:**<br>
-II – na primeira instância:<br>
-a) 81(oitenta e um) cargos de Promotor de Justiça de entrância especial;<br>
-b) 32 (trinta e dois) cargos de Promotor de Justiça de 3ª (terceira) entrância;<br>
-c) 30 (trinta) cargos de Promotor de Justiça de 2º (segunda) entrância;<br>
-d) 45 (quarenta e cinco) cargos de Promotor de Justiça de 1ª (primeira) entrância.<br>
-§ 1º As Promotorias de Justiça serão designadas numericamente em cada entrância e suas atribuições serão disciplinadas pelo Conselho Superior do Ministério Público.<br>
-§ 2º O Procurador Geral de Justiça, “ad referendum” do Conselho Superior do Ministério Público, autorizará a instalação da Promotoria de Justiça, quando da instalação de novas varas judiciais, por necessidade de atividades extrajudiciais ou interesse público.<br>
-§ 3º Consideram-se instaladas, na data da promulgação desta lei, as atuais Promotorias de Justiça, sujeitas, no entanto, ao disposto no § 1º deste artigo.<br>
+**Redação Anterior:**
+
+e) 25 (vinte e cinco) cargos de Promotor de Justiça Substituto. **(Nova redação dada a alínea "e" e seus §§ 1º, 2º e 3º pela LC. nº** [**299/2008**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/b979ab18684846a403256733004e6f15/c03a1e78c1544696042573cd006ef8f6?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20299%2C%20DE%2009)**).**
+
+§ 1º O Promotor de Justiça Substituto tem a atribuição de substituir ou auxiliar membro do Ministério Público de Primeira Instância, conforme designação do Procurador-Geral de Justiça, cumprindo-lhe exercer as funções judiciais e extrajudiciais daquele a quem substituir ou auxiliar.
+
+§ 2º O Promotor de Justiça Substituto perceberá subsídio com valor inferior de 10% (dez por cento) ao de Promotor de Justiça de Primeira Entrância, sendo-lhe vedada a percepção de diferença por substituição ou acumulação.
+
+§ 3º O vitaliciamento e os critérios de lotação em Comarca de Primeira Entrância, que se dará somente após findo o estágio probatório, serão definidos por Resolução do Colégio de Procuradores de Justiça.
+
+**Redação anterior:**
+
+e) 25 (vinte e cinco) cargos de Promotor de Justiça Substituto.
+
+§ 1º O Promotor de Justiça Substituto tem a atribuição de substituir ou auxiliar membro do Ministério Público de Primeira Instância, conforme designação do Procurador-Geral de Justiça, cumprindo-lhe exercer as funções judiciais e extrajudiciais daquele a quem substituir ou auxiliar.
+
+§ 2º O Promotor de Justiça Substituto perceberá subsídio com valor inferior de 10% (dez por cento) ao de Promotor de Justiça de Primeira Entrância, sendo-lhe vedada a percepção de diferença por substituição ou acumulação.
+
+§ 3º O vitaliciamento e os créditos de lotação em Comarca de Primeira Entrância, que se dará somente após findo o estágio probatório, serão definidos por Resolução do Colégio de Procuradores de Justiça.
+
+II - na primeira instância: **(Redação dada pela LC. nº** [**205/2004**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/37b0c009cbb425d604256f82006baaba?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20205%2C%20DE%2028)**)**
+
+a) 81 (oitenta e um) cargos de Promotor de Justiça de entrância especial;
+
+b) 40 (quarenta) cargos de Promotor de Justiça de 3ª (terceira) entrância;
+
+c) 35 (trinta e cinco) cargos de Promotor de Justiça de 2ª (segunda) entrância;
+
+d) 67 (sessenta e sete) cargos de Promotor de Justiça de 1ª (primeira) entrância.”
+
+**Redação original:**
+
+II – na primeira instância:
+
+a) 81(oitenta e um) cargos de Promotor de Justiça de entrância especial;
+
+b) 32 (trinta e dois) cargos de Promotor de Justiça de 3ª (terceira) entrância;
+
+c) 30 (trinta) cargos de Promotor de Justiça de 2º (segunda) entrância;
+
+d) 45 (quarenta e cinco) cargos de Promotor de Justiça de 1ª (primeira) entrância.
+
+§ 1º As Promotorias de Justiça serão designadas numericamente em cada entrância e suas atribuições serão disciplinadas pelo Conselho Superior do Ministério Público.
+
+§ 2º O Procurador Geral de Justiça, “ad referendum” do Conselho Superior do Ministério Público, autorizará a instalação da Promotoria de Justiça, quando da instalação de novas varas judiciais, por necessidade de atividades extrajudiciais ou interesse público.
+
+§ 3º Consideram-se instaladas, na data da promulgação desta lei, as atuais Promotorias de Justiça, sujeitas, no entanto, ao disposto no § 1º deste artigo.
+
 § 4º O Quadro do Ministério Público poderá ser alterado por lei ordinária, condicionando-se sua expansão à criação de novas comarcas ou varas judiciais, bem como às necessidades dos serviços institucionais.
 
 **Art. 2º** É vedado o exercício das funções do Ministério Público a pessoas a ele estranhas.
@@ -1566,23 +1568,40 @@ Parágrafo Único. Não havendo vaga nos quadros da respectiva entidade administ
 
 Palácio Paiaguás, em Cuiabá, 19 de novembro de 1993, 172º da Independência e 106º da República
 
-**JAIME VERÍSSIMO DE CAMPOS**<br>
-OSCAR CESAR RIBEIRO TRAVASSOS<br>
-ANTÔNIO ALBERTO SCHOMMER<br>
-ANTÔNIO DALVO DE OLIVEIRA<br>
-ANTÔNIO EUGÊNIO BELLUCA<br>
-GILSON DUARTE DE BARROS<br>
-UMBERTO CAMILO RODOVALHO<br>
-ARÉSSIO JOSÉ PAQUER<br>
-ILSON FERNANDES SANCHES<br>
-CLEBER ROBETO DE LEMES<br>
-OSVALDO ROBERTO DE LEMES<br>
-JOAQUIM SUCENA RASGA<br>
-CELSO EMÍLIO CALHÃO BARINI<br>
-PAULO MARIA FERREIRA LEITE<br>
-FILINTO CORRÊA DA COSTA<br>
-ROBERTO TAMBELINI<br>
-CESAR ALBERTO MIRANDA LIMA S. COSTA<br>
-LUIZ VIDAL DA FONSECA<br>
-DOMINGOS MONTEIRO DA SILVA NETO<br>
-<br>
+**JAIME VERÍSSIMO DE CAMPOS**
+
+OSCAR CESAR RIBEIRO TRAVASSOS
+
+ANTÔNIO ALBERTO SCHOMMER
+
+ANTÔNIO DALVO DE OLIVEIRA
+
+ANTÔNIO EUGÊNIO BELLUCA
+
+GILSON DUARTE DE BARROS
+
+UMBERTO CAMILO RODOVALHO
+
+ARÉSSIO JOSÉ PAQUER
+
+ILSON FERNANDES SANCHES
+
+CLEBER ROBETO DE LEMES
+
+OSVALDO ROBERTO DE LEMES
+
+JOAQUIM SUCENA RASGA
+
+CELSO EMÍLIO CALHÃO BARINI
+
+PAULO MARIA FERREIRA LEITE
+
+FILINTO CORRÊA DA COSTA
+
+ROBERTO TAMBELINI
+
+CESAR ALBERTO MIRANDA LIMA S. COSTA
+
+LUIZ VIDAL DA FONSECA
+
+DOMINGOS MONTEIRO DA SILVA NETO

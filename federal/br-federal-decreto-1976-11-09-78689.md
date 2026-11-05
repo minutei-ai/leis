@@ -1,5 +1,3 @@
-###DEC-078689-0-000-09-11-1976@@@
-
 DECRETO Nº 78.689, DE 9 DE NOVEMBRO DE 1976.
 
 Prorroga o prazo da autorização concedida pelo Decreto nº 76.702, de 1º de dezembro de 1975, as empresas Compagnie Générale de Geophysique e Companhia Brasileira de Geofísica para operarem no mar territorial do Brasil.

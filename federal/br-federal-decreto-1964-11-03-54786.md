@@ -1,5 +1,3 @@
-###DEC-054786-0-000-03-11-1964@@@
-
 DECRETO Nº 54.786, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro João Francisco Belieni a lavrar água mineral, no município de Campos, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-008634-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.634 – DE 11 DE JANEIRO DE 1946
 
 Altera a carreira de Naturalista do Quadro Permanente do Ministério da Agricultura, abre o crédito suplementar de Cr$ 585.600,00 (quinhentos e oitenta e cinco mil, e seiscentos cruzeiros) e dá outras providências.

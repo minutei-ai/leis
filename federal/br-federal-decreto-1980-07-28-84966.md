@@ -1,5 +1,3 @@
-###DEC-084966-0-000-28-07-1980@@@
-
 Decreto nº 84.966, de 28 de julho de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias, necessária à formação do reservatório da Usina Hidrelétrica de Itaparica, da Companhia Hidro Elétrica do São Francisco - CHESF, nos Estados de Pernambuco e Bahia.

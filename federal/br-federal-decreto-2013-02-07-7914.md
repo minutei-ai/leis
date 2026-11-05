@@ -1,5 +1,3 @@
-###DEC-007914-0-000-07-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.914, DE 7 DE FEVEREIRO DE 2013
 
 Dispõe sobre a criação da Embaixada do Brasil em Juba, República do Sudão do Sul, cumulativa com a Embaixada em Adis Abeba.

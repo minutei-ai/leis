@@ -1,5 +1,3 @@
-###DEC-054378-0-000-05-10-1964@@@
-
 Decreto nº 54.378, de 5 de outubro de 1964.
 
 Autoriza a Mineração Itaguai Ltda., a pesquisar dolomita, no Município de Itaguaí, Estado do Rio de Janeiro.

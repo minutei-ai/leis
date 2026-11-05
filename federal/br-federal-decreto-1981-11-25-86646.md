@@ -1,5 +1,3 @@
-###DEC-086646-0-000-25-11-1981@@@
-
 Decreto nº 86.646 de 25 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO AIMORÉS LTDA., na cidade de Aimorés, Estado de Minas Gerais.

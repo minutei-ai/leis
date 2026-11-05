@@ -2,7 +2,11 @@ Revogada pela Lei Complementar nº [345 , de 15 de Março de 2018.](https://legi
 
 > **LEI Nº 3.283, DE 18 DE AGOSTO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Torna obrigatória a inclusão de questões de conhecimentos regionais do Estado na realização de concurso público.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Torna obrigatória a inclusão de questões de conhecimentos regionais do Estado na realização de concurso público.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

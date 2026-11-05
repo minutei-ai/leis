@@ -1,7 +1,3 @@
-1
-
-###DEC-095694-0-000-02-02-1988@@@
-
 DECRETO N° 95.694, DE 2 DE FEVEREIRO DE 1988
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980 subscrito entre o Brasil e o Equador (Acordo n° 11).

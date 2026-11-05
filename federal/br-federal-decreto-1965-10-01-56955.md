@@ -1,5 +1,3 @@
-###DEC-056955-0-000-01-10-1965@@@
-
 DECRETO Nº 56.955, DE 1º DE OUTUBRO DE 1965.
 
 Renova o Decreto nº 51.959, de 26 de abril de 1963.

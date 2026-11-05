@@ -756,7 +756,29 @@ QUADRO DE CARREIRA DE DELEGADO DE POLÍCIA
 
 (Lei nº 6.843, de 28 de julho de 1986)
 
-<table><tbody><tr><td><p>ENTRÂNCIAS DA CARREIRA</p></td><td><p>CARGOS</p></td></tr><tr><td><p>Delegado de Polícia Substituto</p></td><td><p>118</p></td></tr><tr><td><p>Delegado de Polícia Entrância Inicial</p></td><td><p>70</p></td></tr><tr><td><p>Delegado de Polícia Entrância Final</p></td><td><p>131</p></td></tr><tr><td><p>Delegado de Polícia Entrância Especial</p></td><td><p>191</p></td></tr><tr><td><p>TOTAL</p></td><td><p>510</p></td></tr></tbody></table>
+ENTRÂNCIAS DA CARREIRA
+
+CARGOS
+
+Delegado de Polícia Substituto
+
+118
+
+Delegado de Polícia Entrância Inicial
+
+70
+
+Delegado de Polícia Entrância Final
+
+131
+
+Delegado de Polícia Entrância Especial
+
+191
+
+TOTAL
+
+510
 
 ” (NR)
 
@@ -772,7 +794,7 @@ QUADRO DE CARREIRAS DE AGENTE DE POLÍCIA CIVIL, ESCRIVÃO DE POLÍCIA CIVIL E P
 
 (Lei nº 6.843, de 28 de julho de 1986)
 
-<table><tbody><tr><td><p>CARREIRAS</p></td><td><p>CLASSE</p></td><td><p>QUANTIDADE DE VAGAS</p></td></tr><tr><td><p>AGENTE DE POLÍCIA CIVIL</p></td><td><p>I</p><p>II</p><p>III</p><p>IV</p><p>V</p><p>VI</p><p>VII</p><p>VIII</p></td><td><p>3.620</p></td></tr><tr><td><p>ESCRIVÃO DE POLÍCIA CIVIL</p></td><td><p>IV</p><p>V</p><p>VI</p><p>VII</p><p>VIII</p></td><td><p>1.709</p></td></tr><tr><td><p>PSICÓLOGO POLICIAL CIVIL</p></td><td><p>VI</p><p>VII</p><p>VIII</p></td><td><p>158</p></td></tr><tr><td colspan="2"><center>TOTAL</center></td><td><p>5.487</p></td></tr></tbody></table>
+<table><tbody><tr><td> CARREIRAS </td><td> CLASSE </td><td> QUANTIDADE DE VAGAS </td></tr><tr><td> AGENTE DE POLÍCIA CIVIL </td><td> I II III IV V VI VII VIII </td><td> 3.620 </td></tr><tr><td> ESCRIVÃO DE POLÍCIA CIVIL </td><td> IV V VI VII VIII </td><td> 1.709 </td></tr><tr><td> PSICÓLOGO POLICIAL CIVIL </td><td> VI VII VIII </td><td> 158 </td></tr><tr><td colspan="2">TOTAL</td><td> 5.487 </td></tr></tbody></table>
 
 ” (NR)
 
@@ -790,7 +812,75 @@ DESCRIÇÃO E ESPECIFICAÇÃO DO CARGO
 
 (Lei nº 6.843, de 28 de julho de 1986)
 
-<table><tbody><tr><td><p>DENOMINAÇÃO DO CARGO: Delegado de Polícia</p></td></tr><tr><td><p>GRUPO OPERACIONAL: OCUPAÇÕES DE NÍVEL SUPERIOR - AUTORIDADE POLICIAL</p><p>CÓDIGO: SP-PC-AP</p></td></tr><tr><td><p>HABILITAÇÃO PROFISSIONAL: Portador de diploma de bacharel em Direito e aprovação em curso de formação com no mínimo 600 (seiscentas) horas-aula na Academia de Polícia Civil (ACADEPOL).</p></td></tr><tr><td><p>JORNADA DE TRABALHO: 40 (quarenta) horas semanais, com dedicação exclusiva.</p></td></tr><tr><td><p>DESCRIÇÃO SUMÁRIA: Planejar, programar, organizar, dirigir, coordenar, supervisionar e controlar as atividades de polícia judiciária, de apuração de infrações penais e de polícia administrativa, no âmbito das suas atribuições constitucionais e legais.</p></td></tr><tr><td><p>RESPONSABILIDADE: Chefia das atividades de polícia judiciária do Estado e de apuração de infrações penais, exceto as militares e de atividades meio de interesse policial civil e de segurança pública.</p></td></tr><tr><td><p>ATRIBUIÇÕES</p><p>DESCRIÇÃO DETALHADA</p><p></p><p>1. Supervisionar, coordenar, controlar e executar a apuração de infrações penais, bem como as funções de polícia judiciária, valendo-se dos meios de tecnologia disponíveis, ou de interesse da segurança pública;</p><p>2. Zelar pelo patrimônio afeto à sua administração;</p><p>3. Desenvolver estudos e pesquisas com vistas à prevenção, manutenção da segurança pública e repressão de infrações penais;</p><p>4. Manter intercâmbio com demais órgãos públicos, promovendo o intercâmbio de informações necessárias à execução, à continuidade e ao aperfeiçoamento da atividade policial;</p><p>5. Proceder à análise de dados e elaborar informações no âmbito da Polícia Civil;</p><p>6. Requisitar exames e perícias necessários à apuração da infração penal, bem como informações, nos termos da Lei federal nº 12.830, de 20 de junho de 2013;</p><p>7. Representar à autoridade competente nos procedimentos de apuração de infrações penais e atos infracionais de polícia judiciária, além de promover o devido cumprimento;</p><p>8. Arbitrar fiança nos termos da legislação vigente;</p><p>9. Planejar operações de segurança e de investigações;</p><p>10. Supervisionar ou executar operações de caráter sigiloso;</p><p>11. Determinar a instauração e presidir, com exclusividade, procedimentos de polícia judiciária, inclusive os relacionados a atos infracionais;</p><p>12. Determinar a instauração e presidir sindicâncias e outros procedimentos administrativos;</p><p>13. Presidir audiências e lavratura do respectivo termo;</p><p>14. Proceder com todos os atos e formalidades necessários para a instrução do inquérito policial e outros procedimentos de natureza criminal ou administrativa;</p><p>15. Comparecer, sempre que possível, nos locais da prática de infrações penais e atos infracionais, coordenando e orientando as ações necessárias a sua elucidação;</p><p>16. Fornecer certidões, atestados e documentos no âmbito de suas atribuições;</p><p>17. Expedir certificado de registro de veículo, carteira nacional de habilitação, registro de porte de arma de fogo, carteira e atestado de <i>blaster</i>, alvarás, licenças e outros atos e documentos inerentes às atividades de competência da Polícia Civil;</p><p>18. Fiscalizar o uso de armas, munições, explosivos e outros produtos controlados e atividades de jogos e diversões públicas;</p><p>19. Instruir e orientar pessoal sob sua chefia visando a estabelecer novas técnicas e procedimentos de trabalho;</p><p>20. Executar outras atividades decorrentes de sua lotação;</p><p>21. Cumprir e fazer cumprir regulamentos administrativos e leis em vigor, além dos deveres previstos no Estatuto da Polícia Civil;</p><p>22. Desempenhar outras atividades que se enquadrem no âmbito de suas atribuições;</p><p>23. Representar a Polícia Civil nas reuniões de interesse institucional, bem como em eventos oficiais do poder público, notadamente em solenidades de feriados nacionais ligados à independência e à proclamação da República Federativa do Brasil;</p><p>24. Conduzir viaturas policiais;</p><p>25. Expedir notificações de trânsito e multas previstas em lei de sua competência funcional ou decorrentes de convênio; e</p><p>26. Outras atribuições estabelecidas por decreto do Governador do Estado.</p></td></tr></tbody></table>
+DENOMINAÇÃO DO CARGO: Delegado de Polícia
+
+GRUPO OPERACIONAL: OCUPAÇÕES DE NÍVEL SUPERIOR - AUTORIDADE POLICIAL
+
+CÓDIGO: SP-PC-AP
+
+HABILITAÇÃO PROFISSIONAL: Portador de diploma de bacharel em Direito e aprovação em curso de formação com no mínimo 600 (seiscentas) horas-aula na Academia de Polícia Civil (ACADEPOL).
+
+JORNADA DE TRABALHO: 40 (quarenta) horas semanais, com dedicação exclusiva.
+
+DESCRIÇÃO SUMÁRIA: Planejar, programar, organizar, dirigir, coordenar, supervisionar e controlar as atividades de polícia judiciária, de apuração de infrações penais e de polícia administrativa, no âmbito das suas atribuições constitucionais e legais.
+
+RESPONSABILIDADE: Chefia das atividades de polícia judiciária do Estado e de apuração de infrações penais, exceto as militares e de atividades meio de interesse policial civil e de segurança pública.
+
+ATRIBUIÇÕES
+
+DESCRIÇÃO DETALHADA
+
+1. Supervisionar, coordenar, controlar e executar a apuração de infrações penais, bem como as funções de polícia judiciária, valendo-se dos meios de tecnologia disponíveis, ou de interesse da segurança pública;
+
+2. Zelar pelo patrimônio afeto à sua administração;
+
+3. Desenvolver estudos e pesquisas com vistas à prevenção, manutenção da segurança pública e repressão de infrações penais;
+
+4. Manter intercâmbio com demais órgãos públicos, promovendo o intercâmbio de informações necessárias à execução, à continuidade e ao aperfeiçoamento da atividade policial;
+
+5. Proceder à análise de dados e elaborar informações no âmbito da Polícia Civil;
+
+6. Requisitar exames e perícias necessários à apuração da infração penal, bem como informações, nos termos da Lei federal nº 12.830, de 20 de junho de 2013;
+
+7. Representar à autoridade competente nos procedimentos de apuração de infrações penais e atos infracionais de polícia judiciária, além de promover o devido cumprimento;
+
+8. Arbitrar fiança nos termos da legislação vigente;
+
+9. Planejar operações de segurança e de investigações;
+
+10. Supervisionar ou executar operações de caráter sigiloso;
+
+11. Determinar a instauração e presidir, com exclusividade, procedimentos de polícia judiciária, inclusive os relacionados a atos infracionais;
+
+12. Determinar a instauração e presidir sindicâncias e outros procedimentos administrativos;
+
+13. Presidir audiências e lavratura do respectivo termo;
+
+14. Proceder com todos os atos e formalidades necessários para a instrução do inquérito policial e outros procedimentos de natureza criminal ou administrativa;
+
+15. Comparecer, sempre que possível, nos locais da prática de infrações penais e atos infracionais, coordenando e orientando as ações necessárias a sua elucidação;
+
+16. Fornecer certidões, atestados e documentos no âmbito de suas atribuições;
+
+17. Expedir certificado de registro de veículo, carteira nacional de habilitação, registro de porte de arma de fogo, carteira e atestado de *blaster*, alvarás, licenças e outros atos e documentos inerentes às atividades de competência da Polícia Civil;
+
+18. Fiscalizar o uso de armas, munições, explosivos e outros produtos controlados e atividades de jogos e diversões públicas;
+
+19. Instruir e orientar pessoal sob sua chefia visando a estabelecer novas técnicas e procedimentos de trabalho;
+
+20. Executar outras atividades decorrentes de sua lotação;
+
+21. Cumprir e fazer cumprir regulamentos administrativos e leis em vigor, além dos deveres previstos no Estatuto da Polícia Civil;
+
+22. Desempenhar outras atividades que se enquadrem no âmbito de suas atribuições;
+
+23. Representar a Polícia Civil nas reuniões de interesse institucional, bem como em eventos oficiais do poder público, notadamente em solenidades de feriados nacionais ligados à independência e à proclamação da República Federativa do Brasil;
+
+24. Conduzir viaturas policiais;
+
+25. Expedir notificações de trânsito e multas previstas em lei de sua competência funcional ou decorrentes de convênio; e
+
+26. Outras atribuições estabelecidas por decreto do Governador do Estado.
 
 ” (NR)
 
@@ -808,7 +898,115 @@ DESCRIÇÃO E ESPECIFICAÇÃO DO CARGO
 
 (Lei nº 6.843, de 28 de julho de 1986)
 
-<table><tbody><tr><td><p>DENOMINAÇÃO DO CARGO: Agente de Polícia Civil</p></td></tr><tr><td><p>GRUPO OPERACIONAL: SEGURANÇA PÚBLICA - POLÍCIA CIVIL</p><p>SUBGRUPO: AGENTE DA AUTORIDADE POLICIAL</p><p>CÓDIGO: SP-PC-AP</p></td></tr><tr><td><p>HABILITAÇÃO PROFISSIONAL: Portador de diploma de curso superior e aprovação em curso de formação com no mínimo 400 (quatrocentas) horas-aula na Academia de Polícia Civil (ACADEPOL).</p></td></tr><tr><td><p>JORNADA DE TRABALHO: 40 (quarenta) horas semanais, com dedicação exclusiva.</p></td></tr><tr><td><p>DESCRIÇÃO SUMÁRIA: Executar os serviços de polícia judiciária e investigativa ou administrativa, sob a direção da autoridade policial ou do superior imediato, além de todas as atividades previstas em lei, inerentes ao exercício de seu cargo.</p></td></tr><tr><td><p>ATRIBUIÇÕES</p><p>DESCRIÇÃO DETALHADA</p><p></p><p>1. Cumprir ordens, despachos e outras determinações legais emanadas do Delegado de Polícia;</p><p>2. Proceder à investigação criminal, mediante ciência e supervisão do Delegado de Polícia, valendo-se de todos os mecanismos legais disponibilizados;</p><p>3. Cumprir os horários estabelecidos, bem como concorrer à escala de serviço e operações especiais para as quais seja designado;</p><p>4. Zelar pela manutenção e pelo asseio das viaturas, dos equipamentos, das armas e dos demais utensílios móveis e imóveis de sua unidade policial, bem como daqueles que lhe sejam acautelados individualmente, devendo comunicar qualquer dano ou extravio à chefia imediata;</p><p>5. Operar todos os equipamentos de comunicação e telemática disponíveis na unidade policial a que pertencer;</p><p>6. Executar intimações, notificações ou quaisquer outras atividades julgadas necessárias ao esclarecimento de atos ou fatos sob investigações;</p><p>7. Informar ao Delegado de Polícia a que estiver subordinado, através de relatório, sobre a conclusão de diligências que lhe forem incumbidas;</p><p>8. Informar ao Delegado de Polícia titular, mediante relatório, as ocorrências e alterações de seus plantões;</p><p>9. Deter, apresentando ao Delegado de Polícia competente, quem quer que seja encontrado em flagrante delito;</p><p>10. Permanecer em sua unidade policial durante o horário de trabalho, somente se ausentando quando autorizado ou nos casos previstos em lei ou regulamento;</p><p>11. Guardar sigilo sobre serviços que lhe forem confiados;</p><p>12. Dar ciência imediata ao Delegado de Polícia de fato delituoso que tomar conhecimento;</p><p>13. Cumprir com presteza as diligências e determinações superiores;</p><p>14. Utilizar linguagem técnica e respeitosa nas comunicações;</p><p>15. Assistir ao Delegado de Polícia no cumprimento das atividades de polícia judiciária;</p><p>16. Executar outras tarefas determinadas pelo Delegado de Polícia, relacionadas às investigações de campo e formalizações de relatórios, que serão integrados ao procedimento apuratório;</p><p>17. Fazer, quando competente para tanto, a manutenção e o conserto dos equipamentos à sua disposição;</p><p>18. Desenvolver, sempre que possível, projetos, aplicativos e sistemas informatizados de interesse da Polícia Civil;</p><p>19. Proceder, quando competente, à instalação, manutenção e substituição dos equipamentos de informática;</p><p>20. Dar suporte técnico, quando possível, aos projetos, aplicativos e sistemas informatizados da Polícia Civil;</p><p>21. Executar o cadastramento e a alimentação dos sistemas, programas e aplicativos informatizados disponíveis à Polícia Civil, mantendo atualizadas senhas de acesso aos sistemas de consulta de interesse da Polícia Civil;</p><p>22. Executar em trabalho de equipe operações de resgate de reféns;</p><p>23. Realizar treinamento constante com finalidade de manter-se preparado para exercer suas atribuições;</p><p>24. Dar apoio tático operacional às unidades policiais, quando solicitado;</p><p>25. Manter cadastro e arquivo de suspeitos e de organizações criminosas;</p><p>26. Exercer segurança para dignatários;</p><p>27. Executar outras operações de caráter especial;</p><p>28. Conduzir viaturas policiais;</p><p>29. Deslocar-se imediatamente, quando não houver impedimento devidamente justificado, ao local da infração penal, providenciando para que não se alterem o estado e a conservação das coisas até a realização da perícia;</p><p>30. Realizar levantamento preliminar de local de crime ou que demande investigação policial, colhendo materiais e informações necessárias às providências do Delegado de Polícia, quando houver risco de graves prejuízos à formação da prova pela ausência de perito oficial;</p><p>31. Emitir relatórios circunstanciados do curso das investigações;</p><p>32. Cumprir, quando designado, mandados policiais e judiciais;</p><p>33. Manter atualizados os arquivos e dados estatísticos da unidade policial, relativos à incidência criminal e a seus infratores;</p><p>34. Atender educadamente ao público e registrar delitos e ocorrências trazidos ao seu conhecimento, dando ciência ao Delegado de Polícia;</p><p>35. Providenciar a expedição de guia para fins de exame pericial;</p><p>36. Solicitar auxílio de órgãos técnicos quando necessário;</p><p>37. Executar serviços de agente de trânsito e, mediante a autorização do Delegado de Polícia, os serviços de examinador de trânsito, supervisor de trânsito, vistoriador de trânsito e fiscalizador de trânsito;</p><p>38. Executar, com supervisão do Delegado de Polícia, autuações previstas em lei ou decorrentes de convênio;</p><p>39. Executar serviços, mediante a supervisão do Delegado de Polícia, de execução e fiscalização do registro de porte de arma de fogo, carteira e atestado de <i>blaster</i>, alvarás, licenças e outros atos e documentos inerentes às atividades de competência da Polícia Civil;</p><p>40. Atuar no recebimento e emissão de expedientes da unidade policial, mantendo organizado o correspondente arquivo documental;</p><p>41. Exercer atividades administrativas e operacionais de interesse policial civil ou de segurança pública, mediante determinação da autoridade policial;</p><p>42. Reduzir a termo as versões de vítimas, testemunhas e suspeitos, mediante determinação da autoridade policial;</p><p>43. Representar, quando designado, o Delegado de Polícia;</p><p>44. Dirigir-se aos superiores hierárquicos com o respeito e os pronomes de tratamento adequados;</p><p>45. Transcrever registros em áudio e/ou vídeo, quando determinado pelo Delegado de Polícia; e</p><p>46. Exercer demais atribuições inerentes ao cargo ocupado, previstas em lei ou regulamento.</p></td></tr></tbody></table>
+DENOMINAÇÃO DO CARGO: Agente de Polícia Civil
+
+GRUPO OPERACIONAL: SEGURANÇA PÚBLICA - POLÍCIA CIVIL
+
+SUBGRUPO: AGENTE DA AUTORIDADE POLICIAL
+
+CÓDIGO: SP-PC-AP
+
+HABILITAÇÃO PROFISSIONAL: Portador de diploma de curso superior e aprovação em curso de formação com no mínimo 400 (quatrocentas) horas-aula na Academia de Polícia Civil (ACADEPOL).
+
+JORNADA DE TRABALHO: 40 (quarenta) horas semanais, com dedicação exclusiva.
+
+DESCRIÇÃO SUMÁRIA: Executar os serviços de polícia judiciária e investigativa ou administrativa, sob a direção da autoridade policial ou do superior imediato, além de todas as atividades previstas em lei, inerentes ao exercício de seu cargo.
+
+ATRIBUIÇÕES
+
+DESCRIÇÃO DETALHADA
+
+1. Cumprir ordens, despachos e outras determinações legais emanadas do Delegado de Polícia;
+
+2. Proceder à investigação criminal, mediante ciência e supervisão do Delegado de Polícia, valendo-se de todos os mecanismos legais disponibilizados;
+
+3. Cumprir os horários estabelecidos, bem como concorrer à escala de serviço e operações especiais para as quais seja designado;
+
+4. Zelar pela manutenção e pelo asseio das viaturas, dos equipamentos, das armas e dos demais utensílios móveis e imóveis de sua unidade policial, bem como daqueles que lhe sejam acautelados individualmente, devendo comunicar qualquer dano ou extravio à chefia imediata;
+
+5. Operar todos os equipamentos de comunicação e telemática disponíveis na unidade policial a que pertencer;
+
+6. Executar intimações, notificações ou quaisquer outras atividades julgadas necessárias ao esclarecimento de atos ou fatos sob investigações;
+
+7. Informar ao Delegado de Polícia a que estiver subordinado, através de relatório, sobre a conclusão de diligências que lhe forem incumbidas;
+
+8. Informar ao Delegado de Polícia titular, mediante relatório, as ocorrências e alterações de seus plantões;
+
+9. Deter, apresentando ao Delegado de Polícia competente, quem quer que seja encontrado em flagrante delito;
+
+10. Permanecer em sua unidade policial durante o horário de trabalho, somente se ausentando quando autorizado ou nos casos previstos em lei ou regulamento;
+
+11. Guardar sigilo sobre serviços que lhe forem confiados;
+
+12. Dar ciência imediata ao Delegado de Polícia de fato delituoso que tomar conhecimento;
+
+13. Cumprir com presteza as diligências e determinações superiores;
+
+14. Utilizar linguagem técnica e respeitosa nas comunicações;
+
+15. Assistir ao Delegado de Polícia no cumprimento das atividades de polícia judiciária;
+
+16. Executar outras tarefas determinadas pelo Delegado de Polícia, relacionadas às investigações de campo e formalizações de relatórios, que serão integrados ao procedimento apuratório;
+
+17. Fazer, quando competente para tanto, a manutenção e o conserto dos equipamentos à sua disposição;
+
+18. Desenvolver, sempre que possível, projetos, aplicativos e sistemas informatizados de interesse da Polícia Civil;
+
+19. Proceder, quando competente, à instalação, manutenção e substituição dos equipamentos de informática;
+
+20. Dar suporte técnico, quando possível, aos projetos, aplicativos e sistemas informatizados da Polícia Civil;
+
+21. Executar o cadastramento e a alimentação dos sistemas, programas e aplicativos informatizados disponíveis à Polícia Civil, mantendo atualizadas senhas de acesso aos sistemas de consulta de interesse da Polícia Civil;
+
+22. Executar em trabalho de equipe operações de resgate de reféns;
+
+23. Realizar treinamento constante com finalidade de manter-se preparado para exercer suas atribuições;
+
+24. Dar apoio tático operacional às unidades policiais, quando solicitado;
+
+25. Manter cadastro e arquivo de suspeitos e de organizações criminosas;
+
+26. Exercer segurança para dignatários;
+
+27. Executar outras operações de caráter especial;
+
+28. Conduzir viaturas policiais;
+
+29. Deslocar-se imediatamente, quando não houver impedimento devidamente justificado, ao local da infração penal, providenciando para que não se alterem o estado e a conservação das coisas até a realização da perícia;
+
+30. Realizar levantamento preliminar de local de crime ou que demande investigação policial, colhendo materiais e informações necessárias às providências do Delegado de Polícia, quando houver risco de graves prejuízos à formação da prova pela ausência de perito oficial;
+
+31. Emitir relatórios circunstanciados do curso das investigações;
+
+32. Cumprir, quando designado, mandados policiais e judiciais;
+
+33. Manter atualizados os arquivos e dados estatísticos da unidade policial, relativos à incidência criminal e a seus infratores;
+
+34. Atender educadamente ao público e registrar delitos e ocorrências trazidos ao seu conhecimento, dando ciência ao Delegado de Polícia;
+
+35. Providenciar a expedição de guia para fins de exame pericial;
+
+36. Solicitar auxílio de órgãos técnicos quando necessário;
+
+37. Executar serviços de agente de trânsito e, mediante a autorização do Delegado de Polícia, os serviços de examinador de trânsito, supervisor de trânsito, vistoriador de trânsito e fiscalizador de trânsito;
+
+38. Executar, com supervisão do Delegado de Polícia, autuações previstas em lei ou decorrentes de convênio;
+
+39. Executar serviços, mediante a supervisão do Delegado de Polícia, de execução e fiscalização do registro de porte de arma de fogo, carteira e atestado de *blaster*, alvarás, licenças e outros atos e documentos inerentes às atividades de competência da Polícia Civil;
+
+40. Atuar no recebimento e emissão de expedientes da unidade policial, mantendo organizado o correspondente arquivo documental;
+
+41. Exercer atividades administrativas e operacionais de interesse policial civil ou de segurança pública, mediante determinação da autoridade policial;
+
+42. Reduzir a termo as versões de vítimas, testemunhas e suspeitos, mediante determinação da autoridade policial;
+
+43. Representar, quando designado, o Delegado de Polícia;
+
+44. Dirigir-se aos superiores hierárquicos com o respeito e os pronomes de tratamento adequados;
+
+45. Transcrever registros em áudio e/ou vídeo, quando determinado pelo Delegado de Polícia; e
+
+46. Exercer demais atribuições inerentes ao cargo ocupado, previstas em lei ou regulamento.
 
 ” (NR)
 
@@ -826,7 +1024,87 @@ DESCRIÇÃO E ESPECIFICAÇÃO DO CARGO
 
 (Lei nº 6.843, de 28 de julho de 1986)
 
-<table><tbody><tr><td><p>DENOMINAÇÃO DO CARGO: Escrivão de Polícia Civil</p></td></tr><tr><td><p>GRUPO OPERACIONAL: SEGURANÇA PÚBLICA - POLÍCIA CIVIL</p><p>SUBGRUPO: AGENTE DA AUTORIDADE POLICIAL</p><p>CÓDIGO: SP-PC-AP</p></td></tr><tr><td><p>HABILITAÇÃO PROFISSIONAL: Portador de diploma de curso superior e aprovação em curso de formação com no mínimo 400 (quatrocentas) horas-aula na Academia de Polícia Civil (ACADEPOL).</p></td></tr><tr><td><p>JORNADA DE TRABALHO: 40 (quarenta) horas semanais, com dedicação exclusiva.</p></td></tr><tr><td><p>DESCRIÇÃO SUMÁRIA: Lavrar e subscrever os autos e termos de sua competência, adotados na atividade de polícia judiciária, de forma contínua, providenciando sua tramitação normal, sob orientação do Delegado de Polícia.</p></td></tr><tr><td><p>ATRIBUIÇÕES</p><p>DESCRIÇÃO DETALHADA</p><p></p><p>1. Cumprir ordens, despachos e outras determinações legais emanadas do Delegado de Polícia;</p><p>2. Executar os trabalhos cartorários das unidades policiais;</p><p>3. Cumprir os horários estabelecidos, bem como concorrer às escalas de serviços e operações especiais quando convocado;</p><p>4. Conduzir viaturas policiais;</p><p>5. Lavrar e subscrever os autos, termos e demais expedientes de sua competência, adotados na atividade de polícia judiciária, de forma contínua, providenciando sua tramitação normal, sempre mediante a presidência do Delegado de Polícia, sendo esta por meio da orientação, supervisão ou presença;</p><p>6. Zelar pela manutenção e pelo asseio das viaturas, dos equipamentos, das armas e demais utensílios móveis e imóveis de sua unidade policial, bem como daqueles que lhe sejam acautelados individualmente, devendo comunicar qualquer dano ou extravio à chefia imediata;</p><p>7. Adotar providências necessárias à expedição de mandados, dentre outros, de intimação às partes e requisição de servidores públicos, a fim de serem inquiridos, por determinação da autoridade policial;</p><p>8. Expedir certidões e providenciar cópia de documentos, após deferimento do Delegado de Polícia;</p><p>9. Providenciar o recolhimento da fiança arbitrada pelo Delegado de Polícia;</p><p>10. Acautelar objetos e valores vinculados a procedimento investigatório sob sua responsabilidade;</p><p>11. Dar destinação a objetos e documentos vinculados a procedimentos policiais sob sua responsabilidade, cumprindo despacho do Delegado de Polícia;</p><p>12. Providenciar guia de exame pericial, no curso do procedimento policial;</p><p>13. Permanecer em sua unidade policial durante o horário de trabalho, somente se ausentando quando autorizado ou nos casos previstos em lei ou regulamento;</p><p>14. Organizar mapas de estatística criminal e relatórios mensais das atividades do cartório sob sua responsabilidade e contribuir para a atualização dos arquivos da unidade policial;</p><p>15. Impedir a retirada da unidade policial de autos de procedimentos policiais e documentos, sem a expressa autorização do Delegado de Polícia;</p><p>16. Sob determinação do Delegado de Polícia, cumprir ordens judiciais e participar de atividades operacionais;</p><p>17. Informar ao Delegado de Polícia titular, por meio de relatório, as ocorrências e alterações de seus plantões;</p><p>18. Dirigir-se aos superiores hierárquicos com o respeito e os pronomes de tratamento adequados;</p><p>19. Executar outras atividades de caráter especial;</p><p>20. Transcrever registros em áudio e/ou vídeo, quando determinado pelo Delegado de Polícia;</p><p>21. Exercer atividades administrativas e operacionais de interesse policial civil ou de segurança pública, mediante determinação da autoridade policial;</p><p>22. Manter atualizados registros de procedimentos da unidade policial, sejam físicos ou digitais;</p><p>23. Alimentar os sistemas, programas e aplicativos informatizados disponíveis à Polícia Civil;</p><p>24. Atender, quando designado pelo Delegado de Polícia, a convocações extraordinárias e de interesse da Polícia Civil;</p><p>25. Guardar sigilo sobre serviços que lhe forem confiados;</p><p>26. Dar ciência imediata ao Delegado de Polícia de fato delituoso que tomar conhecimento;</p><p>27. Cumprir com presteza as diligências e determinações superiores;</p><p>28. Utilizar linguagem técnica e respeitosa nas comunicações;</p><p>29. Assistir ao Delegado de Polícia no cumprimento das atividades de polícia judiciária;</p><p>30. Realizar treinamento constante com finalidade de manter-se preparado para exercer suas atribuições;</p><p>31. Representar, quando designado, o Delegado de Polícia; e</p><p>32. Exercer demais atribuições inerentes ao cargo ocupado, previstas em lei ou regulamento.</p></td></tr></tbody></table>
+DENOMINAÇÃO DO CARGO: Escrivão de Polícia Civil
+
+GRUPO OPERACIONAL: SEGURANÇA PÚBLICA - POLÍCIA CIVIL
+
+SUBGRUPO: AGENTE DA AUTORIDADE POLICIAL
+
+CÓDIGO: SP-PC-AP
+
+HABILITAÇÃO PROFISSIONAL: Portador de diploma de curso superior e aprovação em curso de formação com no mínimo 400 (quatrocentas) horas-aula na Academia de Polícia Civil (ACADEPOL).
+
+JORNADA DE TRABALHO: 40 (quarenta) horas semanais, com dedicação exclusiva.
+
+DESCRIÇÃO SUMÁRIA: Lavrar e subscrever os autos e termos de sua competência, adotados na atividade de polícia judiciária, de forma contínua, providenciando sua tramitação normal, sob orientação do Delegado de Polícia.
+
+ATRIBUIÇÕES
+
+DESCRIÇÃO DETALHADA
+
+1. Cumprir ordens, despachos e outras determinações legais emanadas do Delegado de Polícia;
+
+2. Executar os trabalhos cartorários das unidades policiais;
+
+3. Cumprir os horários estabelecidos, bem como concorrer às escalas de serviços e operações especiais quando convocado;
+
+4. Conduzir viaturas policiais;
+
+5. Lavrar e subscrever os autos, termos e demais expedientes de sua competência, adotados na atividade de polícia judiciária, de forma contínua, providenciando sua tramitação normal, sempre mediante a presidência do Delegado de Polícia, sendo esta por meio da orientação, supervisão ou presença;
+
+6. Zelar pela manutenção e pelo asseio das viaturas, dos equipamentos, das armas e demais utensílios móveis e imóveis de sua unidade policial, bem como daqueles que lhe sejam acautelados individualmente, devendo comunicar qualquer dano ou extravio à chefia imediata;
+
+7. Adotar providências necessárias à expedição de mandados, dentre outros, de intimação às partes e requisição de servidores públicos, a fim de serem inquiridos, por determinação da autoridade policial;
+
+8. Expedir certidões e providenciar cópia de documentos, após deferimento do Delegado de Polícia;
+
+9. Providenciar o recolhimento da fiança arbitrada pelo Delegado de Polícia;
+
+10. Acautelar objetos e valores vinculados a procedimento investigatório sob sua responsabilidade;
+
+11. Dar destinação a objetos e documentos vinculados a procedimentos policiais sob sua responsabilidade, cumprindo despacho do Delegado de Polícia;
+
+12. Providenciar guia de exame pericial, no curso do procedimento policial;
+
+13. Permanecer em sua unidade policial durante o horário de trabalho, somente se ausentando quando autorizado ou nos casos previstos em lei ou regulamento;
+
+14. Organizar mapas de estatística criminal e relatórios mensais das atividades do cartório sob sua responsabilidade e contribuir para a atualização dos arquivos da unidade policial;
+
+15. Impedir a retirada da unidade policial de autos de procedimentos policiais e documentos, sem a expressa autorização do Delegado de Polícia;
+
+16. Sob determinação do Delegado de Polícia, cumprir ordens judiciais e participar de atividades operacionais;
+
+17. Informar ao Delegado de Polícia titular, por meio de relatório, as ocorrências e alterações de seus plantões;
+
+18. Dirigir-se aos superiores hierárquicos com o respeito e os pronomes de tratamento adequados;
+
+19. Executar outras atividades de caráter especial;
+
+20. Transcrever registros em áudio e/ou vídeo, quando determinado pelo Delegado de Polícia;
+
+21. Exercer atividades administrativas e operacionais de interesse policial civil ou de segurança pública, mediante determinação da autoridade policial;
+
+22. Manter atualizados registros de procedimentos da unidade policial, sejam físicos ou digitais;
+
+23. Alimentar os sistemas, programas e aplicativos informatizados disponíveis à Polícia Civil;
+
+24. Atender, quando designado pelo Delegado de Polícia, a convocações extraordinárias e de interesse da Polícia Civil;
+
+25. Guardar sigilo sobre serviços que lhe forem confiados;
+
+26. Dar ciência imediata ao Delegado de Polícia de fato delituoso que tomar conhecimento;
+
+27. Cumprir com presteza as diligências e determinações superiores;
+
+28. Utilizar linguagem técnica e respeitosa nas comunicações;
+
+29. Assistir ao Delegado de Polícia no cumprimento das atividades de polícia judiciária;
+
+30. Realizar treinamento constante com finalidade de manter-se preparado para exercer suas atribuições;
+
+31. Representar, quando designado, o Delegado de Polícia; e
+
+32. Exercer demais atribuições inerentes ao cargo ocupado, previstas em lei ou regulamento.
 
 ” (NR)
 
@@ -844,6 +1122,80 @@ DESCRIÇÃO E ESPECIFICAÇÃO DO CARGO
 
 (Lei nº 6.843, de 28 de julho de 1986)
 
-<table><tbody><tr><td><p>DENOMINAÇÃO DO CARGO: Psicólogo Policial Civil</p></td></tr><tr><td><p>GRUPO OPERACIONAL: SEGURANÇA PÚBLICA - POLÍCIA CIVIL</p><p>SUBGRUPO: AGENTE DA AUTORIDADE POLICIAL</p><p>CÓDIGO: SP-PC-AP</p></td></tr><tr><td><p>HABILITAÇÃO PROFISSIONAL: Portador de diploma de psicólogo e aprovação em curso de formação com no mínimo 400 (quatrocentas) horas-aula na Academia de Polícia Civil (ACADEPOL).</p></td></tr><tr><td><p>JORNADA DE TRABALHO: 40 (quarenta) horas semanais, com dedicação exclusiva.</p></td></tr><tr><td><p>DESCRIÇÃO SUMÁRIA: Emitir laudos psicológicos e demais funções inerentes ao cargo.</p></td></tr><tr><td><p>ATRIBUIÇÕES</p><p>DESCRIÇÃO DETALHADA</p><p></p><p>1. Cumprir ordens, despachos e outras determinações legais emanadas do Delegado de Polícia;</p><p>2. Zelar pela manutenção e asseio das viaturas, dos equipamentos, das armas e demais utensílios móveis e imóveis de sua unidade policial, bem como daqueles que lhe sejam acautelados individualmente, devendo comunicar qualquer dano ou extravio à chefia imediata;</p><p>3. Alimentar os sistemas, programas e aplicativos informatizados disponíveis à Polícia Civil;</p><p>4. Prestar atendimento em psicoterapia aos policiais envolvidos com alcoolismo e drogas, ou em qualquer outra necessidade de natureza emocional e/ou funcional e, quando necessário, providenciar o encaminhamento a profissionais e instituições congêneres, bem como orientar seus familiares;</p><p>5. Proporcionar meios de superação no trato dos problemas de relacionamento, inadequação funcional e motivação dos servidores que atuam na Polícia Civil;</p><p>6. Realizar, por solicitação de órgãos da Polícia Civil, avaliações psicológicas dos servidores que prestam serviços na área de segurança pública, em especial, nos casos de desajuste funcional ou qualquer outro problema de ordem comportamental, com a indicação objetiva e fundamentada das atividades que podem ser exercidas descritas nesta lei;</p><p>7. Conduzir viaturas e acompanhar os policiais em locais de infração, nos quais houver partes emocionalmente alteradas ou por determinação da autoridade policial;</p><p>8. Participar de operações, principalmente em situações críticas, em que seja necessário o gerenciamento de crise;</p><p>9. Propor meios de avaliação e acompanhamento do desempenho de policiais civis;</p><p>10. Sugerir programas de capacitação e aperfeiçoamento a partir das necessidades funcionais e motivacionais identificadas no pessoal, planejando, realizando e avaliando cursos e outras atividades de cunho profissional;</p><p>11. Desenvolver estudos e pesquisas objetivando ampliar o conhecimento sobre o comportamento humano que possam contribuir com os objetivos gerais da Polícia Civil;</p><p>12. Planejar e executar avaliações psicológicas, bem como elaborar e emitir os respectivos laudos psicológicos para concessão da licença para porte de arma para o policial civil aposentado;</p><p>13. Emitir laudos psicológicos nos casos de suicídio, de personalidade de criminosos e adolescentes infratores e de vítimas de crimes violentos, quando solicitado pelo Delegado de Polícia;</p><p>14. Proceder, quando determinado por autoridade policial, ao apoio psicológico e a perícias na sua área profissional, como avaliações, pareceres e laudos psicológicos;</p><p>15. Integrar comissões e participar, mediante autorização do Delegado-Geral da Polícia Civil, de atividades juntamente com outras entidades em assuntos de interesse da Polícia Civil;</p><p>16. Prestar, quando determinado pela autoridade policial competente, atendimento psicológico à criança, ao adolescente, à mulher e/ou ao homem envolvidos em infração criminal e, quando necessário, providenciar o encaminhamento aos órgãos competentes;</p><p>17. Participar, quando determinado pela autoridade policial competente, no planejamento e execução de campanhas educativas referentes à violência, à prevenção e ao combate às drogas, a trânsito e a outros assuntos atinentes à segurança pública;</p><p>18. Exercer atividades administrativas e operacionais de interesse policial civil ou de segurança pública, mediante determinação da autoridade policial;</p><p>19. Substituir, em caso de necessidade, os demais agentes da autoridade policial no registro de ocorrências e outras atividades administrativas, cartorárias e de polícia judiciária e investigativa, por determinação da autoridade policial;</p><p>20. Permanecer em sua unidade policial durante o horário de trabalho, somente se ausentando quando autorizado ou nos casos previstos em lei ou regulamento;</p><p>21. Dirigir-se aos superiores hierárquicos com o respeito e os pronomes de tratamento adequados;</p><p>22. Dar ciência imediata ao Delegado de Polícia de fato delituoso que tomar conhecimento;</p><p>23. Cumprir com presteza as diligências e determinações superiores;</p><p>24. Representar, quando designado, o Delegado de Polícia;</p><p>25. Utilizar linguagem técnica e respeitosa nas comunicações;</p><p>26. Assistir ao Delegado de Polícia no cumprimento das atividades de polícia judiciária;</p><p>27. Realizar treinamento constante com finalidade de manter-se preparado para exercer suas atribuições;</p><p>28. Reduzir a termo as versões de vítimas, testemunhas e suspeitos, mediante determinação da autoridade policial; e</p><p>29. Exercer demais atribuições inerentes ao cargo ocupado, previstas em lei ou regulamento.</p></td></tr></tbody></table>
+DENOMINAÇÃO DO CARGO: Psicólogo Policial Civil
+
+GRUPO OPERACIONAL: SEGURANÇA PÚBLICA - POLÍCIA CIVIL
+
+SUBGRUPO: AGENTE DA AUTORIDADE POLICIAL
+
+CÓDIGO: SP-PC-AP
+
+HABILITAÇÃO PROFISSIONAL: Portador de diploma de psicólogo e aprovação em curso de formação com no mínimo 400 (quatrocentas) horas-aula na Academia de Polícia Civil (ACADEPOL).
+
+JORNADA DE TRABALHO: 40 (quarenta) horas semanais, com dedicação exclusiva.
+
+DESCRIÇÃO SUMÁRIA: Emitir laudos psicológicos e demais funções inerentes ao cargo.
+
+ATRIBUIÇÕES
+
+DESCRIÇÃO DETALHADA
+
+1. Cumprir ordens, despachos e outras determinações legais emanadas do Delegado de Polícia;
+
+2. Zelar pela manutenção e asseio das viaturas, dos equipamentos, das armas e demais utensílios móveis e imóveis de sua unidade policial, bem como daqueles que lhe sejam acautelados individualmente, devendo comunicar qualquer dano ou extravio à chefia imediata;
+
+3. Alimentar os sistemas, programas e aplicativos informatizados disponíveis à Polícia Civil;
+
+4. Prestar atendimento em psicoterapia aos policiais envolvidos com alcoolismo e drogas, ou em qualquer outra necessidade de natureza emocional e/ou funcional e, quando necessário, providenciar o encaminhamento a profissionais e instituições congêneres, bem como orientar seus familiares;
+
+5. Proporcionar meios de superação no trato dos problemas de relacionamento, inadequação funcional e motivação dos servidores que atuam na Polícia Civil;
+
+6. Realizar, por solicitação de órgãos da Polícia Civil, avaliações psicológicas dos servidores que prestam serviços na área de segurança pública, em especial, nos casos de desajuste funcional ou qualquer outro problema de ordem comportamental, com a indicação objetiva e fundamentada das atividades que podem ser exercidas descritas nesta lei;
+
+7. Conduzir viaturas e acompanhar os policiais em locais de infração, nos quais houver partes emocionalmente alteradas ou por determinação da autoridade policial;
+
+8. Participar de operações, principalmente em situações críticas, em que seja necessário o gerenciamento de crise;
+
+9. Propor meios de avaliação e acompanhamento do desempenho de policiais civis;
+
+10. Sugerir programas de capacitação e aperfeiçoamento a partir das necessidades funcionais e motivacionais identificadas no pessoal, planejando, realizando e avaliando cursos e outras atividades de cunho profissional;
+
+11. Desenvolver estudos e pesquisas objetivando ampliar o conhecimento sobre o comportamento humano que possam contribuir com os objetivos gerais da Polícia Civil;
+
+12. Planejar e executar avaliações psicológicas, bem como elaborar e emitir os respectivos laudos psicológicos para concessão da licença para porte de arma para o policial civil aposentado;
+
+13. Emitir laudos psicológicos nos casos de suicídio, de personalidade de criminosos e adolescentes infratores e de vítimas de crimes violentos, quando solicitado pelo Delegado de Polícia;
+
+14. Proceder, quando determinado por autoridade policial, ao apoio psicológico e a perícias na sua área profissional, como avaliações, pareceres e laudos psicológicos;
+
+15. Integrar comissões e participar, mediante autorização do Delegado-Geral da Polícia Civil, de atividades juntamente com outras entidades em assuntos de interesse da Polícia Civil;
+
+16. Prestar, quando determinado pela autoridade policial competente, atendimento psicológico à criança, ao adolescente, à mulher e/ou ao homem envolvidos em infração criminal e, quando necessário, providenciar o encaminhamento aos órgãos competentes;
+
+17. Participar, quando determinado pela autoridade policial competente, no planejamento e execução de campanhas educativas referentes à violência, à prevenção e ao combate às drogas, a trânsito e a outros assuntos atinentes à segurança pública;
+
+18. Exercer atividades administrativas e operacionais de interesse policial civil ou de segurança pública, mediante determinação da autoridade policial;
+
+19. Substituir, em caso de necessidade, os demais agentes da autoridade policial no registro de ocorrências e outras atividades administrativas, cartorárias e de polícia judiciária e investigativa, por determinação da autoridade policial;
+
+20. Permanecer em sua unidade policial durante o horário de trabalho, somente se ausentando quando autorizado ou nos casos previstos em lei ou regulamento;
+
+21. Dirigir-se aos superiores hierárquicos com o respeito e os pronomes de tratamento adequados;
+
+22. Dar ciência imediata ao Delegado de Polícia de fato delituoso que tomar conhecimento;
+
+23. Cumprir com presteza as diligências e determinações superiores;
+
+24. Representar, quando designado, o Delegado de Polícia;
+
+25. Utilizar linguagem técnica e respeitosa nas comunicações;
+
+26. Assistir ao Delegado de Polícia no cumprimento das atividades de polícia judiciária;
+
+27. Realizar treinamento constante com finalidade de manter-se preparado para exercer suas atribuições;
+
+28. Reduzir a termo as versões de vítimas, testemunhas e suspeitos, mediante determinação da autoridade policial; e
+
+29. Exercer demais atribuições inerentes ao cargo ocupado, previstas em lei ou regulamento.
 
 ” (NR)

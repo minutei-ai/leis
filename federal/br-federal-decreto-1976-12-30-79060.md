@@ -1,5 +1,3 @@
-###DEC-079060-0-000-30-12-1976@@@
-
 DECRETO Nº 79.060, DE 30 DE DEZEMBRO 1976.
 
 Concede reconhecimento ao Curso de Administração, da Faculdade de Ciência Econômicas, Contábeis e Administrativas de nova Iguaçu, com na cidade de Nova Iguaçu Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-076753-0-000-09-12-1975@@@
-
 DECRETO Nº 76.753, DE 9 DE DEZEMBRO DE 1975
 
 Altera o artigo 3º  do Decreto número 60.737, de 23 de maio de 1967, que dispõe sobre a estrutura administrativa do Instituto Brasileiro do Café (IBC).

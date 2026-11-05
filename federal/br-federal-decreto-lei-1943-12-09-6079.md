@@ -1,5 +1,3 @@
-###DEL-006079-0-000-09-12-1943@@@
-
 DECRETO‑LEI N. 6.079 – DE 9 DE DEZEMBRO DE 1943
 
 prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 5.112, de 17 de dezembro de 1942

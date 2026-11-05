@@ -1,5 +1,3 @@
-###DEL-004560-0-000-10-08-1942@@@
-
 DECRETO-LEI N. 4.560 – DE 10 DE AGOSTO DE 1942
 
 Cria a Secção IV do "Diário Oficial"

@@ -1,5 +1,3 @@
-###DEC-071539-0-000-13-12-1972@@@
-
 DECRETO Nº 71.539 - DE 13 DE DEZEMBRO DE 1972
 
 Concede à Mineração Sebevi Ltda. o direito de lavrar feldspato, caulim e quartzo no município de Monte Sião, Estado de Minas Gerais.

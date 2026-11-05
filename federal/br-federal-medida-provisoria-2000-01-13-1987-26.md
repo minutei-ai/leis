@@ -1,5 +1,3 @@
-###MPV-001987-0-026-13-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.987-26, DE 13 DE janeiro de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

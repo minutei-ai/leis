@@ -1,7 +1,3 @@
-1
-
-###DEC-098285-0-000-12-10-1989@@@
-
 DECRETO N° 98.285, DE 12 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Ciências da Computação da Escola Bahiana de Processamento de Dados.

@@ -1,5 +1,3 @@
-###DEC-097436-0-000-06-01-1989@@@
-
 DECRETO N° 97.436, DE 6 DE JANEIRO DE 1989
 
 Fixa os Efetivos de Oficiais da Marinha para 1989.

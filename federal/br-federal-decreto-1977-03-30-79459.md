@@ -1,5 +1,3 @@
-###DEC-079459-0-000-30-03-1977@@@
-
 DECRETO Nº 79.459, DE 30 DE MARÇO DE 1977.
 
 Institui o Fundo de Participação Social - FPS, como subconta do Fundo PIS-PASEP.

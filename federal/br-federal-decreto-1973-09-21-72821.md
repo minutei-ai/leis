@@ -1,5 +1,3 @@
-###DEC-072821-0-000-21-09-1973@@@
-
 Decreto nº 72.821, de 21 de setembro de 1973.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Canoas, Estado do Rio Grande do Sul.

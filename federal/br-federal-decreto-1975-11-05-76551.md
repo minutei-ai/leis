@@ -1,5 +1,3 @@
-###DEC-076551-0-000-05-11-1975@@@
-
 DECRETO Nº 76.551, DE 5 DE NOVEMBRO DE 1975.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a garantir, em nome da União, empréstimo a ser contraído no exterior, pela Jari Florestal e Agro-Pecuária Ltda. , nas condições que menciona.

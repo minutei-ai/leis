@@ -1,5 +1,3 @@
-###DEC-049642-0-000-31-12-1960@@@
-
 Decreto nº 49.642, de 31 de dezembro de 1960.
 
 Autoriza João Machado Vieira, a comprar pedras preciosas.

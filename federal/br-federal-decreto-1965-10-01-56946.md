@@ -1,5 +1,3 @@
-###DEC-056946-0-000-01-10-1965@@@
-
 DECRETO Nº 56.946, de 1º de outubro de 1965.
 
 Autoriza o cidadão brasileiro Tito de Oliveira Lima a lavrar quartzo e pedras semipreciosas, no município de Caraí, Estado de Minas Gerais.

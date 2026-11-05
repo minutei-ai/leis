@@ -1,5 +1,3 @@
-###DEC-055397-0-000-31-12-1964@@@
-
 DECRETO Nº 55.397, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Maria Borges de Almeida a lavrar calcário fosfático no município de Cubatão, Estado de São Paulo.

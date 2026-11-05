@@ -1,5 +1,3 @@
-###DEC-081858-0-000-27-06-1978@@@
-
 Decreto nº 81.858, de 27 de junho de 1978
 
 Concede à Dulce Valadares de Vasconcelos Abreu - Firma Individual, o direito de lavrar agalmatolito no Município de Pitanguí, Estado de Minas Gerais.

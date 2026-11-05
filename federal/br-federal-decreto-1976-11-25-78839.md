@@ -1,5 +1,3 @@
-###DEC-078839-0-000-25-11-1976@@@
-
 DECRETO Nº 78.839, DE 25 DE NOVEMBRO DE 1976.
 
 Prorroga até 31 de dezembro de 1976 o prazo para o recolhimento da contribuição devida no exercício de 1975 pelos empregadores rurais.

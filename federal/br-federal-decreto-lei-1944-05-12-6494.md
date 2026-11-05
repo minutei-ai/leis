@@ -1,5 +1,3 @@
-###DEL-006494-0-000-12-05-1944@@@
-
 DECRETO-LEI N. 6.494 – DE 12 DE MAIO DE 1944
 
 Transfere a sede do 1º Grupo Móvel de Artilharia de Costa

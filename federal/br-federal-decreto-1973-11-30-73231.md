@@ -1,5 +1,3 @@
-###DEC-073231-0-000-30-11-1973@@@
-
 DECRETO Nº 73.231 - DE 30 DE NOVEMBRO DE 1973
 
 Cassa concessão outorgada à Rádio Seridó Ltda., na cidade de Currais Novos, Estado do Rio Grande do Norte.

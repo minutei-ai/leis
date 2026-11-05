@@ -1,5 +1,3 @@
-###DEC-080283-0-000-05-09-1977@@@
-
 Decreto nº 80.283, de 5 de setembro de 1977.
 
 Retifica a concessão de lavra outorgada à Mineração Alto Bonito Ltda. pelo Decreto nº 76.072, de 31 de julho de 1975.

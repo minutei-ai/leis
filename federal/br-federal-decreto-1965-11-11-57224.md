@@ -1,5 +1,3 @@
-###DEC-057224-0-000-11-11-1965@@@
-
 DECRETO Nº 57.224, DE 11 DE NOVEMBRO DE 1965.
 
 Dispõe sôbre os efeitos dos enquadramentos definitivos, nos casos que menciona, e dá outras providências.

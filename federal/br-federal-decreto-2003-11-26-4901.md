@@ -1,5 +1,3 @@
-###DEC-004901-0-000-26-11-2003@@@
-
 DECRETO Nº 4.901,  DE 26 DE NOVEMBRO DE 2003.
 
        Institui o Sistema Brasileiro de Televisão Digital - SBTVD, e dá outras providências.

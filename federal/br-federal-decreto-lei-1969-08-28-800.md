@@ -1,7 +1,3 @@
-1
-
-###DEL-000800-0-000-28-08-1969@@@
-
 DECreto-LEI Nº 800, DE 28 De AGôSTO DE 1969
 
 Transfere para o Município de Criciúma, Estado de Santa Catarina o serviço publico local de abastecimento dágua administrado pela Comissão do Plano do Carvão Nacional.

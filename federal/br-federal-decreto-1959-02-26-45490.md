@@ -1,5 +1,3 @@
-###DEC-045490-0-000-26-02-1959@@@
-
 DECRETO Nº 45.490, DE 26 DE fevereiro DE 1959.
 
 Autoriza a Emprêsa de Caulim Limitada a pesquisar areia quartzosa no Distrito Federal.

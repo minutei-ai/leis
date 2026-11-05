@@ -1,7 +1,3 @@
-1
-
-###MPV-001484-0-000-05-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.484, DE 5 DE JUNHO DE 1996.
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.

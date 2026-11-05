@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208663)<br>
-
 # DECRETO N° 68.017, DE 11 DE OUTUBRO DE 2023
 
 ### _Dispõe sobre a elaboração de Estudos Técnicos Preliminares - ETP para a aquisição de bens e a contratação de serviços e obras, nos termos da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._
@@ -8,10 +6,12 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Das Disposições Preliminares
 
-#### Seção I<br>
+#### Seção I
+
 Do Objeto e Âmbito de Aplicação
 
 **Artigo 1° -** Este decreto dispõe sobre a elaboração de Estudos Técnicos Preliminares - ETP para a aquisição de bens e a contratação de serviços e obras, nos termos da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.
@@ -20,7 +20,8 @@ Do Objeto e Âmbito de Aplicação
 
 **§ 2° -** Sem prejuízo do disposto no § 1° deste artigo, para acesso e operacionalização do sistema, deverão ser observados os procedimentos estabelecidos no Manual do Sistema ETP Digital, disponível no Portal de Compras do Estado.
 
-#### Seção II<br>
+#### Seção II
+
 Das Definições
 
 **Artigo 2° -** Para fins deste decreto, considera-se:
@@ -43,7 +44,8 @@ VII - equipe de planejamento da contratação: conjunto de agentes que reúnem a
 
 **§ 2° -** A definição dos requisitantes, das áreas técnicas e da equipe de planejamento da contratação não ensejará, obrigatoriamente, a criação de novas estruturas nas unidades organizacionais dos órgãos e das entidades.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Elaboração
 
 **Artigo 3° -** O ETP deverá:
@@ -64,10 +66,12 @@ III - as contratações anteriores voltadas ao atendimento de necessidade idênt
 
 IV - os ETPs de outros órgãos e entidades, disponíveis na base de dados do Sistema ETP Digital, voltados ao atendimento de necessidade idêntica ou semelhante.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Elementos do ETP
 
-#### Seção I<br>
+#### Seção I
+
 Do Conteúdo
 
 **Artigo 5° -** Com base no Plano de Contratações Anual, deverão ser registrados no Sistema ETP Digital os seguintes elementos:
@@ -126,7 +130,8 @@ XIII - manifestação conclusiva sobre a adequação da contratação para o ate
 
 **Artigo 7° -** Ao final da elaboração do ETP, deve-se avaliar a necessidade de classificá-lo nos termos da Lei federal n° 12.527, de 18 de novembro de 2011.
 
-#### Seção II<br>
+#### Seção II
+
 Das Exceções à Elaboração do ETP
 
 **Artigo 8° -** A elaboração do ETP:
@@ -139,12 +144,14 @@ b) nos casos de prorrogações dos contratos de serviços e fornecimentos contí
 
 II - é facultada nas hipóteses dos incisos I e II do "caput" do artigo 75 da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Regras Específicas
 
 **Artigo 9° -** Nas hipóteses em que a elaboração do ETP para a contratação de obras e serviços comuns de engenharia demonstrar a inexistência de prejuízo para a aferição dos padrões de desempenho e qualidade almejados, a especificação do objeto poderá ser realizada apenas em termo de referência ou em projeto básico, dispensada a elaboração de projetos, nos termos do § 3° do artigo 18 da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Disposições Finais
 
 **Artigo 10 -** Os agentes públicos que utilizarem o Sistema ETP Digital responderão administrativa, civil e penalmente por ato ou fato que caracterize o uso indevido de senhas de acesso ou que transgrida as normas de segurança instituídas.

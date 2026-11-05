@@ -1,5 +1,3 @@
-###DEC-064000-0-000-17-01-1969@@@
-
 DECRETO Nº 64.000, DE 17 DE JANEIRO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas "Machado Sobrinho", de Juiz de Fora - MG.

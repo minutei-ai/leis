@@ -1,5 +1,3 @@
-###DEL-003024-0-000-06-02-1941@@@
-
 DECRETO-LEI N. 3.024 – DE 6 DE FEVEREIRO DE 1941
 
 Considera data de celebração pública o dia 13 de fevereiro de 1941, centenário do nascimento de Manoel Ferrraz de Campos Salles

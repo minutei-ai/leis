@@ -1,5 +1,3 @@
-###DEC-090927-0-000-07-02-1985@@@
-
 Decreto nº 90.927, de 07 de fevereiro de 1985
 
 Regulamenta a assiduidade profissional dos trabalhadores avulsos que menciona e dá outras providências.

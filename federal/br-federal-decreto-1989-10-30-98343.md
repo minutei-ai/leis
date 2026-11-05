@@ -1,7 +1,3 @@
-1
-
-###DEC-098343-0-000-30-10-1989@@@
-
 DECRETO Nº 98.343, DE 30 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do Curso de Ciências Contábeis da Faculdade de Ciências Econômicas de Vinhedos, em Bento Gonçalves, Estado do Rio Grande do Sul.

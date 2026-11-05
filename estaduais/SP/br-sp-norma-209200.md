@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209200)<br>
-
 # LEI N° 17.872, DE 18 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 1219/2023, do Deputado Carlos Cezar - PL)

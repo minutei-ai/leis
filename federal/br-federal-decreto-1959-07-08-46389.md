@@ -1,5 +1,3 @@
-###DEC-046389-0-000-08-07-1959@@@
-
 DECRETO Nº 46.389, DE 8 DE JULHO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de duas áreas de terra que menciona, situadas no 1º Subdistrito do Município de Quaraí, no Estado do Rio Grande do Sul.

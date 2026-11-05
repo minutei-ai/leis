@@ -1,5 +1,3 @@
-###DEC-094805-0-000-27-08-1987@@@
-
 DECRETO N° 94.805, DE 27 DE AGOSTO DE 1987
 
 Fixa valor de referência para efeito de determinação da base de cálculo a ser observada na tributação das pessoas jurídicas pelo lucro presumido e na isenção das microempresas.

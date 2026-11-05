@@ -1,5 +1,3 @@
-###DEC-068292-0-000-26-02-1971@@@
-
 DECRETO Nº 68.292, DE 26 DE FEVEREIRO DE 1971.
 
 Cancela o Decreto nº 39.376, de 13 de junho de 1956.

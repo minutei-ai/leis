@@ -1,5 +1,3 @@
-###DEC-066850-0-000-06-07-1970@@@
-
 DECRETO Nº 66.850, DE 6 DE JUlHO DE 1970.
 
 Declara de utilidade pública o Centro Espírita Dr. Bezerra de Menezes, com sede em Pôrto Feliz, Estado de São Paulo.

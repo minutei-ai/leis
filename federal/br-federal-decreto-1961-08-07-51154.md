@@ -1,5 +1,3 @@
-###DEC-051154-0-000-07-08-1961@@@
-
 DECRETO Nº 51.154, DE 7 DE AGÔSTO DE 1961.
 
 Outorga concessão à Rádio Marajoara Limitada para estabelecer uma estação de Televisão, em VHF, geradora de programas, na cidade de Belém, Estado do Pará.

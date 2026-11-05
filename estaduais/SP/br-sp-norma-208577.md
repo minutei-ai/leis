@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208577)<br>
-
 # LEI N° 17.770, DE 27 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 367/2022, da Deputada Leci Brandão - PCdoB)

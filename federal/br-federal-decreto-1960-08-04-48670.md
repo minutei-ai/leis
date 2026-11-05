@@ -1,5 +1,3 @@
-###DEC-048670-0-000-04-08-1960@@@
-
 DECRETO N. 48.670 – DE 4 DE AGÔSTO DE 1960
 
 Autoriza José Ordones de Castro a comprar pedras preciosas.

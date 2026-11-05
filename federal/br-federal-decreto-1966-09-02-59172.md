@@ -1,5 +1,3 @@
-###DEC-059172-0-000-02-09-1966@@@
-
 DECRETO Nº 59.172, DE 2 DE SETEMBRO DE 1966.
 
 Publica os índices de atualização monetária dos salários dos últimos 24 (vinte e quatro) meses, na forma estabelecida no Decreto-Lei nº 15, de 29 de julho de 1966 e dá outras providências.
@@ -10,7 +8,105 @@ decreta:
 
 Art. 1º Para reconstituição dos salários reais médios dos últimos 24 (vinte e quatro) meses, conforme estabelecido no artigo 1º do Decreto-lei número 15 de 29 de julho de 1966, serão utilizados os seguintes coeficientes, aplicáveis aos salários dos meses correspondentes, para os acôrdos coletivos de trabalho ou decisões da Justiça do Trabalho cuja vigência termine no mês de setembro de 1966.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mês</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Coeficiente</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Setembro .................................................................................................. de 1964</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2,23</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outubro .................................................................................................... de 1964</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2,16</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Novembro ................................................................................................. de 1964</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2,05</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dezembro ..................................................................................................de 1964</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,91</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Janeiro ...................................................................................................... de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,83</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fevereiro .................................................................................................. de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,73</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Março ....................................................................................................... de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,60</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Abril .......................................................................................................... de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,54</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maio .......................................................................................................... de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,50</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Junho ........................................................................................................ de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,48</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Julho ......................................................................................................... de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,44</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Agosto ...................................................................................................... de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,42</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Setembro .................................................................................................. de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,37</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outubro .................................................................................................... de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,35</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Novembro ................................................................................................. de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,34</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dezembro ................................................................................................. de 1965</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,31</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Janeiro ...................................................................................................... de 1966</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,25</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fevereiro .................................................................................................. de 1966</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,20</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Março ....................................................................................................... de 1966</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,16</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Abril .......................................................................................................... de 1966</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,10</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maio .......................................................................................................... de 1966</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,08</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Junho ........................................................................................................ de 1966</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,06</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Julho ......................................................................................................... de 1966</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,02</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Agosto ...................................................................................................... de 1966</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,00</span></p></td></tr></tbody></table>
+Mês
+
+Coeficiente
+
+Setembro .................................................................................................. de 1964
+
+2,23
+
+Outubro .................................................................................................... de 1964
+
+2,16
+
+Novembro ................................................................................................. de 1964
+
+2,05
+
+Dezembro ..................................................................................................de 1964
+
+1,91
+
+Janeiro ...................................................................................................... de 1965
+
+1,83
+
+Fevereiro .................................................................................................. de 1965
+
+1,73
+
+Março ....................................................................................................... de 1965
+
+1,60
+
+Abril .......................................................................................................... de 1965
+
+1,54
+
+Maio .......................................................................................................... de 1965
+
+1,50
+
+Junho ........................................................................................................ de 1965
+
+1,48
+
+Julho ......................................................................................................... de 1965
+
+1,44
+
+Agosto ...................................................................................................... de 1965
+
+1,42
+
+Setembro .................................................................................................. de 1965
+
+1,37
+
+Outubro .................................................................................................... de 1965
+
+1,35
+
+Novembro ................................................................................................. de 1965
+
+1,34
+
+Dezembro ................................................................................................. de 1965
+
+1,31
+
+Janeiro ...................................................................................................... de 1966
+
+1,25
+
+Fevereiro .................................................................................................. de 1966
+
+1,20
+
+Março ....................................................................................................... de 1966
+
+1,16
+
+Abril .......................................................................................................... de 1966
+
+1,10
+
+Maio .......................................................................................................... de 1966
+
+1,08
+
+Junho ........................................................................................................ de 1966
+
+1,06
+
+Julho ......................................................................................................... de 1966
+
+1,02
+
+Agosto ...................................................................................................... de 1966
+
+1,00
 
 Parágrafo único. O. salário médio a ser reconstituído será a média aritmética dos valores obtidos pela aplicação dos coeficientes acima aos salários dos meses correspondentes.
 

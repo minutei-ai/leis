@@ -1,5 +1,3 @@
-###DEC-093672-0-000-10-12-1986@@@
-
 DECRETO Nº 93.672, DE 10 DE DEZEMBRO DE 1986
 
 Autoriza o aumento de capital social da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

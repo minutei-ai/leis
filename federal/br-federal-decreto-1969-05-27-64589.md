@@ -1,5 +1,3 @@
-###DEC-064589-0-000-27-05-1969@@@
-
 DECRETO Nº 64.589, DE 27 DE MAIO DE 1969.
 
 Declara de utilidade pública o Colégio Nossa Senhora das Dôres, com sede em Diamantina, Estado de Minas Gerais.

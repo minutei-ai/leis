@@ -1,5 +1,3 @@
-###DEC-060414-0-000-11-03-1967@@@
-
 DECRETO Nº 60.414, DE 11 DE MARÇO DE 1967.
 
 Declara caduco o decreto nº 28.760, de 16 de outubro de 1950.

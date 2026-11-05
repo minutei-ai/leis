@@ -1,5 +1,3 @@
-###DEC-073636-0-000-13-02-1974@@@
-
 DECRETO Nº 73.636, DE 13 DE FEVEREIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas ao reservatório do aproveitamento da energia hidráulica de um trecho do rio Iguaçu, entre os municípios de Quedas do Iguaçu e São Jorge D'Oeste, no Estado do Paraná.

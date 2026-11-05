@@ -1,7 +1,3 @@
-1
-
-###DEC-001541-0-000-27-06-1995@@@
-
 DECRETO Nº 1.541, DE 27 DE JUNHO DE 1995.
 
 Regulamenta o Conselho Nacional da Amazônia Legal.

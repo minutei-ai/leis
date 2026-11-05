@@ -1,5 +1,3 @@
-###DEC-062450-0-000-21-03-1968@@@
-
 Decreto nº 62.450, de 21 de março de 1968.
 
 Declara de utilidade pública o “Serviço Paroquial de Assistência”, com sede em Taubaté, Estado de São Paulo.

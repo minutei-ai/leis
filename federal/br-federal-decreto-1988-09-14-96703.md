@@ -1,5 +1,3 @@
-###DEC-096703-0-000-14-09-1988@@@
-
 DECRETO N° 96.703, DE 14 DE SETEMBRO DE 1988
 
 Cria a Embaixada do Brasil na Repú­blica das Maldivas.

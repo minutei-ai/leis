@@ -1,5 +1,3 @@
-###DEC-055872-0-000-29-03-1965@@@
-
 Decreto nº 55.872, de 29 de março de 1965.
 
 Outorga concessão à Televisão Erexim Ltda. para instalar uma emissora de radiodifusão de sons e imagens (televisão).

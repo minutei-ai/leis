@@ -1,5 +1,3 @@
-###DEC-068756-0-000-16-06-1971@@@
-
 DECRETO Nº 68.756 - DE 16 DE JUNHO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à construção de uma subestação no município de Casimiro de Abreu, Estado do Rio de Janeiro.

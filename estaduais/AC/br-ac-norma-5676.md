@@ -1,6 +1,10 @@
 > **LEI Nº 4.139, DE 24 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS nas operações com produtos hortifrutícolas, conforme estabelecido no Convênio ICM 44, de 10 de dezembro de 1975, do Conselho Nacional de Política Fazendária - CONFAZ.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS nas operações com produtos hortifrutícolas, conforme estabelecido no Convênio ICM 44, de 10 de dezembro de 1975, do Conselho Nacional de Política Fazendária - CONFAZ.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

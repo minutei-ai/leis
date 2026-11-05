@@ -1,5 +1,3 @@
-###DEC-064318-0-000-07-04-1969@@@
-
 DECRETO Nº 64.318, DE 7 DE ABRIL DE 1969.
 
 Declara sem efeito o Decreto número 45.779, de 14 de abril de 1959.

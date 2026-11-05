@@ -1,5 +1,3 @@
-###DEC-045216-0-000-14-01-1959@@@
-
 DECRETO Nº 45.216, DE 14 de janeiro de 1959.
 
 Altera, temporariamente, o Regulamento de Promoções para Oficiais da Marinha.

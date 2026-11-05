@@ -1,5 +1,3 @@
-###DEC-071505-0-000-07-12-1972@@@
-
 DECRETO Nº 71.505 - DE 7 DE DEZEMBRo DE 1972
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis e de Administração, da Faculdade de Ciências Contábeis e de Administração "Guerreiro Britto", da Sociedade Universitária Professor Nuno Lisbôa, Estado da Guanabara.

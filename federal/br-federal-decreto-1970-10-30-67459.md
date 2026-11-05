@@ -1,5 +1,3 @@
-###DEC-067459-0-000-30-10-1970@@@
-
 decreto nº 67.459 - de 30 de outubro de 1970
 
 Cria o Departamento de Material Bélico no Ministério do Exército.

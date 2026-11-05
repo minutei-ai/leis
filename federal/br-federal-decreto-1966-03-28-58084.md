@@ -1,5 +1,3 @@
-###DEC-058084-0-000-28-03-1966@@@
-
 DECRETO Nº 58.084, DE 28 DE MARÇO DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Brasília de Seguros Gerais, inclusive aumento do capital social.

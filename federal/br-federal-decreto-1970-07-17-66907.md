@@ -1,5 +1,3 @@
-###DEC-066907-0-000-17-07-1970@@@
-
 Decreto nº 66.907, de 17 de julho de 1970.
 
 Declara de utilidade pública a Casa Transitória "Dr. Cesário Motta Filho", com sede em Piracicaba, Estado de São Paulo.

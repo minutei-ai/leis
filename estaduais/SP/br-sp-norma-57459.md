@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57459)
-
 # LEI Nº 11.998, DE 09 DE SETEMBRO DE 2005
 
 ## (PL 251/2004 - Mauro Menuchi)

@@ -1,5 +1,3 @@
-###DEC-074687-0-000-14-10-1974@@@
-
 DECRETO Nº 74.687, DE 14 OUTUBRO DE 1974.
 
 Cria, no Ministério das Minas e Energia, Comissão Brasileira destinada a participar no desenvolvimento das atividades do Programa Internacional de Correlação Geológica, promovido pela Organização das Nações Unidas para Educação, Ciência e Cultura - UNESCO.

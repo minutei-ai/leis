@@ -1,5 +1,3 @@
-###DEC-075605-0-000-14-04-1975@@@
-
 DECRETO Nº 75.605, DE 14 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Ciências e Letras Plínio Augusto do Amaral, mantida pela Fundação Educacional de Amparo, com sede na Cidade de Amparo, Estado de são Paulo.

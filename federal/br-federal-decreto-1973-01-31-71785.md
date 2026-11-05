@@ -1,5 +1,3 @@
-###DEC-071785-0-000-31-01-1973@@@
-
 DECRETO Nº 71.785, DE 31 DE JANEIRO DE 1973.
 
 Cria Organizações Militares e dá outras providências.

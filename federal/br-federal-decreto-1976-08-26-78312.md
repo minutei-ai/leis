@@ -1,5 +1,3 @@
-###DEC-078312-0-000-26-08-1976@@@
-
 DECRETO Nº 78.312, DE 26 DE AGOSTO DE 1976.
 
 Cria a Comissão Coordenadora dos Incentivos Fiscais.

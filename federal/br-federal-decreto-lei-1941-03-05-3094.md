@@ -1,5 +1,3 @@
-###DEL-003094-0-000-05-03-1941@@@
-
 DECRETO-LEI N. 3.094 – DE 5 DE MARÇO DE 1941
 
 Dispõe sobre as fontes de águas mineirais, termais e gasosas

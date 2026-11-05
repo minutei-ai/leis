@@ -1,5 +1,3 @@
-###DEL-009566-0-000-10-08-1946@@@
-
 DECRETO-LEI N. 9.566 – DE 10 DE AGÔSTO DE 1946
 
 Concede uma pensão especial à viúva e aos filhos menores de um guarda-civil, vitimado em, serviço e dá outras providências.

@@ -185,7 +185,3 @@ QUANTIDADE DE CARGOS CÓDIGO SÍMBOLO DENOMINAÇÃO 4 CH-02 V-35 Supervisor II 3
 CARGOS NOVOS
 
 QUANTIDADE DE CARGOS CÓDIGO SÍMBOLO DENOMINAÇÃO 4 EX-06 V-35 Assistente Administrativo 3 EX-08 V-25 Secretário Executivo 4 CH-03 V-45 Supervisor III 4 DS-02 V-68 Diretor II 9 DS-01 V-58 Diretor I 3 AS-01 V-45 Assessor I 6 CH-03 V-45 Supervisor III
-
-\=================================
-
-Data da última atualização: 15/9/2016.

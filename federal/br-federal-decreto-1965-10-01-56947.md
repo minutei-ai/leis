@@ -1,5 +1,3 @@
-###DEC-056947-0-000-01-10-1965@@@
-
 DECRETO Nº 56.947, de 1º de outubro de 1965.
 
 Autoriza o cidadão brasileiro Leopoldo Compolina Diniz a pesquisar quartzo, no município de Bocaiuva, Estado de Minas Gerais.

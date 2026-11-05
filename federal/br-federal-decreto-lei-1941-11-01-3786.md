@@ -1,5 +1,3 @@
-###DEL-003786-0-000-01-11-1941@@@
-
 DECRETO-LEI N. 3.786 – DE 1º DE NOVEMBRO DE 1941
 
 Prorroga, com relação às Repúblicas Americanas, o prazo para transformação de bancos de depósito a que se refere o decreto-lei n. 3.182, de 9 de abril de 1941

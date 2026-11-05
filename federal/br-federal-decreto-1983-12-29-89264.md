@@ -1,5 +1,3 @@
-###DEC-089264-0-000-29-12-1983@@@
-
 # DECRETO Nº 89.264, de 29 de dezembro de 1983
 
 Autoriza, até 31 de dezembro de 1984, o aproveitamento de navios estrangeiros na cabotagem nacional, em regime de afretamento.

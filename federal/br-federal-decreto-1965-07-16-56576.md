@@ -1,5 +1,3 @@
-###DEC-056576-0-000-16-07-1965@@@
-
 DECRETO Nº 56.576, DE 16 DE JULHO DE 1965.
 
 Acrescenta mais um parágrafo ao artigo 20 do Regulamento do Quadro de Oficiais de Administração e do Quadro de Oficiais Especialistas, aprovado pelo Decreto n º 42.251, de 6 de setembro de 1957.

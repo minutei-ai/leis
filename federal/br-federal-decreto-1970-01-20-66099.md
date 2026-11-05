@@ -1,5 +1,3 @@
-###DEC-066099-0-000-20-01-1970@@@
-
 DECRETO Nº 66.099 - DE 20 DE JANEIRO DE 1970
 
 Cria a Comissão Gerencial de Fundos Especiais na Aeronáutica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053435-0-000-20-01-1964@@@
-
 DECRETO Nº 53.435, DE 20 DE JANEIRO DE 1964.
 
 Renova o Decreto nº 48.564, de 21 de julho de julho de 1960.

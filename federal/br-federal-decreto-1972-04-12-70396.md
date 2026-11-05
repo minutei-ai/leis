@@ -1,5 +1,3 @@
-###DEC-070396-0-000-12-04-1972@@@
-
 DECRETO Nº 70.396, DE 12 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Casa Virgo Potens, com sede em Caxambu, Estado de Minas Gerais.

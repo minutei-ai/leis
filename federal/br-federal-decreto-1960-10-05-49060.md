@@ -1,5 +1,3 @@
-###DEC-049060-0-000-05-10-1960@@@
-
 DECRETO Nº 49.060, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza à Companhia Fôrça e Luz de Minas Gerais a ampliar suas instalações de transmissão, no Estado de Minas Gerais.

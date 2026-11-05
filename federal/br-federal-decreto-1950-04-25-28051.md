@@ -1,14 +1,12 @@
-###DEC-028051-0-000-25-04-1950@@@
+**DECRETO Nº 28.051, DE 25 DE ABRIL DE 1950.**
 
-<strong>DECRETO Nº 28.051, DE 25 DE ABRIL DE 1950.</strong>
+***Outorga a Salim Azis Baruque concessão para o aproveitamento de energia hidráulica da cachoeira João Pinto Grande existente no ribeirão de igual nome distrito da sede do município de Conselheiro Pena, Estado de Minas Gerais.***
 
-<em><strong>Outorga a Salim Azis Baruque concessão para o aproveitamento de energia hidráulica da cachoeira João Pinto Grande existente no ribeirão de igual nome distrito da sede do município de Conselheiro Pena, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros e outorgada a Salim Ais Barrique concessão para o aproveitamento de energia hidráulica da cachoeira João Pinto Grande, existente no ribeirão de igual nome, distrito da sede do município de Conselheiro Pena Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros e outorgada a Salim Ais Barrique concessão para o aproveitamento de energia hidráulica da cachoeira João Pinto Grande, existente no ribeirão de igual nome, distrito da sede do município de Conselheiro Pena Estado de Minas Gerais.
 
 § 1º Em portaria do Ministério da Agricultura no ato da aprovação dos projetos, serão determinadas a altura da queda aproveitar a descarga da derivação e a potência.
 
@@ -16,7 +14,7 @@
 
 § 3º O concessionário fica obrigado a indenizar a Prefeitura Municipal de Conselheiro Pena das despesas por ela efetuadas com a compra de equipamentos e com a construção de obras hidráulicas.
 
-<strong>Art</strong>. 2º Caducara o presente titulo independente do ato declamatório se o concessionário não satisfazer as condições seguintes:
+**Art**. 2º Caducara o presente titulo independente do ato declamatório se o concessionário não satisfazer as condições seguintes:
 
 I - Registarão na Divisão de Águas do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua plublicação.
 
@@ -102,30 +100,30 @@ v) Iniciar e concluir as obras nos prazos que forem determinados pelo Ministéri
 
 Parágrafo único. os prazos a que se refere este artigo poderão ser prorrogados por ato do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º O concessionário fica obrigado a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias as observações fluviometricas e medicações de descarga do curso d’ água que vai utilizar de acôrdo com as instalações da mesma Divisão.
+**Art**. 3º O concessionário fica obrigado a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias as observações fluviometricas e medicações de descarga do curso d’ água que vai utilizar de acôrdo com as instalações da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunerar será o efetivamente investido nas instalações do concessionário de forma permanente para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a remunerar será o efetivamente investido nas instalações do concessionário de forma permanente para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital a que se refere o 4º será criado um fundo de serva que provera as renovações determinadas pela depreciação ou impostos por acidente
+**Art**. 6º Para a manutenção da integridade do capital a que se refere o 4º será criado um fundo de serva que provera as renovações determinadas pela depreciação ou impostos por acidente
 
 Parágrafo único. A constituição dêsse fundo que se denominara Reserva de Renovação, será realizada por cota especial, que incidira sôbre as tarifas sob forma de percentagem. Esta cota será determinada tendo-se em vista a duração media ao material a cuja renovação a dita reserva terra que atender podendo ser modificada treinamento na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Findo o prazo da concessão todos os bens e instalações que no momento existirem em função exclusiva e permanente da produção transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao estado de Minas Gerais em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas mediante indenização na base do custo histórico, do capital não amortizado deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
+**Art**. 7º Findo o prazo da concessão todos os bens e instalações que no momento existirem em função exclusiva e permanente da produção transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao estado de Minas Gerais em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas mediante indenização na base do custo histórico, do capital não amortizado deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
 
 § 1º O concessionário poder a requerer ao Governo Federal que a concessão seja renovada mediante as condições que vierem a ser estipuladas desde de que faça a prova de que o estado de Minas Gerais não se opõe a utilização dos bens objeto da reversão.
 
 § 2º O concessionário devera entrar com o pedido a que se refere o parágrafo anterior, ate seis meses antes de findar o prazo de vigência da concessão atendendo-se se o não fizer que não pretende a renovação.
 
-<strong>Art</strong>. 8º A presente concessão vigorara pelo prazo de trinta anos contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 8º A presente concessão vigorara pelo prazo de trinta anos contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 9º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 9º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 10º Revogam-se as disposições ao contrario.
+**Art**. 10º Revogam-se as disposições ao contrario.
 
 Rio de Janeiro, 25 de abril de 1950; 129º da Independência e 62º da Republica.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

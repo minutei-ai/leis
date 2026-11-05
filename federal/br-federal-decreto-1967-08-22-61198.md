@@ -1,5 +1,3 @@
-###DEC-061198-0-000-22-08-1967@@@
-
 decreto nº 61.198, de 22 de agôsto de 1967.
 
 Torna sem efeito o decreto 22.729, de 5 de março de 1947, e retifica o art. 1º do Decreto nº 21.439, de 16 de julho de 1946.

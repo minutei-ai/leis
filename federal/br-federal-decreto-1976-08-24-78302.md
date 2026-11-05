@@ -1,5 +1,3 @@
-###DEC-078302-0-000-24-08-1976@@@
-
 DECRETO Nº 78.302, DE 24 DE AGOSTO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem da linha de transmissão da Centrais Elétricas Matogrossenses S. A. - CEMAT no Estado de Mato Grosso.

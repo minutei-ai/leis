@@ -1,5 +1,3 @@
-###DEL-009455-0-000-12-07-1946@@@
-
 DECRETO-LEI N. 9.455 – DE 12 DE JULHO DE 1946
 
 Dispõe sôbre o regime escolar, nos Centros de Preparação de Oficiais da Reserva, a partir de 1947.

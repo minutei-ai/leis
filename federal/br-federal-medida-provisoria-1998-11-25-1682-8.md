@@ -1,5 +1,3 @@
-###MPV-001682-0-008-25-11-1998@@@
-
 MEDIDA PROVIsória Nº 1.682-8, DE 25 DE NOVEMBRO DE 1998.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

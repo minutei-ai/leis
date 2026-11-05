@@ -1,5 +1,3 @@
-###DEC-052861-0-000-18-11-1963@@@
-
 decreto nº 52.861, de 18 de novembro de 1963.
 
 Autoriza o cidadão brasileiro José de Carvalho Melo a pesquisar quartzo no município de Santa Quitéria Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEL-004769-0-000-01-10-1942@@@
-
 decreto-lei n. 4.769 - de 1 de outubro de 1942
 
 Altera a redação do art. 532 do Código de Processo Penal

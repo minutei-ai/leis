@@ -1,5 +1,3 @@
-###DEC-045625-0-000-24-03-1959@@@
-
 Decreto nº 45.625, de 24 de março de 1959.
 
 Autoriza a firma Nóbrega & Dantas Sociedade Anônima - Indústria e Comércio a comprar pedras preciosas.

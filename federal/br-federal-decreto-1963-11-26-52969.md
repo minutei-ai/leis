@@ -1,5 +1,3 @@
-###DEC-052969-0-000-26-11-1963@@@
-
 DECRETO Nº 52.969, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Emprêsa de Mineração do Planalto Ltda. a pesquisar água mineral natural no município de Luziânia, Estado de Goiás.

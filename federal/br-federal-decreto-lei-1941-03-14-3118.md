@@ -1,5 +1,3 @@
-###DEL-003118-0-000-14-03-1941@@@
-
 DECRETO-LEI N. 3.118 – DE 14 DE MARÇO DE 1941
 
  Cria a Policlínica de Pescadores e dá outras providências.

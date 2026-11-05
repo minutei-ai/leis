@@ -186,34 +186,40 @@ e) Diretoria de Regulação e Fiscalização:
 
 3\. Gerência de Saneamento Básico; e
 
-4\. Gerência de Regulação Econômica;<br>
+4\. Gerência de Regulação Econômica;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~4\. Gerência de Regulação Econômica e Desestatização; e~~
 
-5\. Gerência de Bens Desestatizados; e<br>
+5\. Gerência de Bens Desestatizados; e
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 f) Diretoria de Gestão Integrada:
 
-1\. Gerência de Tecnologia;<br>
+1\. Gerência de Tecnologia;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~1\. Gerência de Tecnologia e Apoio Administrativo;~~
 
 2\. Gerência de Gestão Institucional;
 
-3\. Gerência de Finanças e Dívida Ativa;<br>
+3\. Gerência de Finanças e Dívida Ativa;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~3\. Gerência de Finanças e Dívida Ativa; e~~
 
-4\. Gerência de Contabilidade; e<br>
+4\. Gerência de Contabilidade; e
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~4\. Gerência de Contabilidade.~~
 
-5\. Gerência de Apoio Administrativo.<br>
+5\. Gerência de Apoio Administrativo.
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 CAPÍTULO IV
@@ -968,33 +974,40 @@ XX – encarregar-se de competências correlatas.
 
 Art. 47. As atividades da Diretoria de Gestão Integrada serão desenvolvidas pelas seguintes gerências:
 
-I – Gerência de Tecnologia;<br>
+I – Gerência de Tecnologia;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~I – Gerência de Tecnologia e Apoio Administrativo;~~
 
 II – Gerência de Gestão Institucional;
 
-III – Gerência de Finanças e Dívida Ativa;<br>
+III – Gerência de Finanças e Dívida Ativa;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~III – Gerência de Finanças e Dívida Ativa; e~~
 
-IV – Gerência de Contabilidade; e<br>
+IV – Gerência de Contabilidade; e
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~IV – Gerência de Contabilidade.~~
 
-V – Gerência de Apoio Administrativo.<br>
+V – Gerência de Apoio Administrativo.
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 Subseção I
 
-Da Gerência de Tecnologia<br>
-\- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).<br>
+Da Gerência de Tecnologia
+
+\- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
 ~~Da Gerência de Tecnologia e Apoio Administrativo~~
 
-Art. 48. Compete à Gerência de Tecnologia:<br>
+Art. 48. Compete à Gerência de Tecnologia:
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~Art. 48. Compete à Gerência de Tecnologia e Apoio Administrativo:~~
@@ -1043,293 +1056,388 @@ XXI – conceber, desenvolver, implantar e sustentar soluções tecnológicas pa
 
 XXII – transformar digitalmente os serviços oferecidos com a utilização das boas práticas de Governo Digital;
 
-~~XXIII – manter o controle de veículos, máquinas e equipamentos;~~<br>
+~~XXIII – manter o controle de veículos, máquinas e equipamentos;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XXIV – manter o registro de documentos, máquinas e equipamentos atualizados;~~
 
-~~XXIV – manter o registro de documentos, máquinas e equipamentos atualizados;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXV – manter o histórico veicular atualizado;~~<br>
+~~XXV – manter o histórico veicular atualizado;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXVI – avaliar e autorizar a manutenção veicular;~~<br>
+~~XXVI – avaliar e autorizar a manutenção veicular;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XXVII– administrar e monitorar a distribuição da frota;~~
 
-~~XXVII– administrar e monitorar a distribuição da frota;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXVIII – gerir os serviços de distribuição de combustível da frota;~~<br>
+~~XXVIII – gerir os serviços de distribuição de combustível da frota;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXIX – planejar e atender a gestão de logística da frota;~~<br>
+~~XXIX – planejar e atender a gestão de logística da frota;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XXX – controlar a execução dos contratos e dos convênios relacionados à frota;~~
 
-~~XXX – controlar a execução dos contratos e dos convênios relacionados à frota;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXXI – controlar os processos de notificação de infrações de trânsito;~~<br>
+~~XXXI – controlar os processos de notificação de infrações de trânsito;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXXII – elaborar orientações sobre o uso e a conservação veicular em consonância com as determinações da central;~~<br>
+~~XXXII – elaborar orientações sobre o uso e a conservação veicular em consonância com as determinações da central;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XXXIII – analisar e avaliar a solicitação de doação e cessão de uso da frota;~~
 
-~~XXXIII – analisar e avaliar a solicitação de doação e cessão de uso da frota;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXXIV – submeter para a manifestação da central a inclusão, a alteração, a transferência, a cessão de uso, a doação, a alienação, o leilão, as características veiculares, o Estudo Técnico Preliminar e o Termo de Referência correlatos a Atas de Registro de Preços e licitações veiculares, máquinas e equipamentos a combustão;~~<br>
+~~XXXIV – submeter para a manifestação da central a inclusão, a alteração, a transferência, a cessão de uso, a doação, a alienação, o leilão, as características veiculares, o Estudo Técnico Preliminar e o Termo de Referência correlatos a Atas de Registro de Preços e licitações veiculares, máquinas e equipamentos a combustão;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXXV – orientar os condutores e os usuários quanto às normas e às orientações da central;~~<br>
+~~XXXV – orientar os condutores e os usuários quanto às normas e às orientações da central;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XXXVI – disponibilizar informações e acessos de veículos administrativos para a central nos sistemas informatizados de sua coordenação;~~
 
-~~XXXVI – disponibilizar informações e acessos de veículos administrativos para a central nos sistemas informatizados de sua coordenação;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXXVII – implantar o sistema de gestão de frotas disponibilizado pela central;~~<br>
+~~XXXVII – implantar o sistema de gestão de frotas disponibilizado pela central;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XXXVIII – executar as tarefas de gestão de documentos (físicos, digitais e digitalizados) conforme as normas e as orientações técnicas estabelecidas pela unidade central de logística documental;~~<br>
+~~XXXVIII – executar as tarefas de gestão de documentos (físicos, digitais e digitalizados) conforme as normas e as orientações técnicas estabelecidas pela unidade central de logística documental;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XXXIX – receber os documentos da AGR para arquivamento;~~
 
-~~XXXIX – receber os documentos da AGR para arquivamento;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XL – classificar os documentos recebidos de acordo com a tabela de temporalidade vigente;~~<br>
+~~XL – classificar os documentos recebidos de acordo com a tabela de temporalidade vigente;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XLI – manter o acervo documental para a preservação, a recuperação e a consulta de acordo com a demanda;~~<br>
+~~XLI – manter o acervo documental para a preservação, a recuperação e a consulta de acordo com a demanda;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XLII – atualizar os registros e a localização de documentos para consulta;~~
 
-~~XLII – atualizar os registros e a localização de documentos para consulta;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XLIII – eliminar documentos que atingiram o prazo de guarda de acordo com a Tabela de Temporalidade e normas vigentes;~~<br>
+~~XLIII – eliminar documentos que atingiram o prazo de guarda de acordo com a Tabela de Temporalidade e normas vigentes;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XLIV – transferir documentos intermediários e permanentes para o Arquivo Central do Estado;~~<br>
+~~XLIV – transferir documentos intermediários e permanentes para o Arquivo Central do Estado;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XLV – notificar a central de logística documental da necessidade de atualização da tabela de temporalidade;~~
 
-~~XLV – notificar a central de logística documental da necessidade de atualização da tabela de temporalidade;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XLVI – capacitar os servidores para o desenvolvimento das atividades de gestão de documentos;~~<br>
+~~XLVI – capacitar os servidores para o desenvolvimento das atividades de gestão de documentos;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XLVII – zelar pelo sigilo dos documentos classificados de acordo com a norma vigente;~~
 
-~~XLVII – zelar pelo sigilo dos documentos classificados de acordo com a norma vigente;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XLVIII – assessorar a Comissão Setorial de Avaliação de Documentos e Acesso na execução de suas atividades;~~<br>
+~~XLVIII – assessorar a Comissão Setorial de Avaliação de Documentos e Acesso na execução de suas atividades;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XLIX – utilizar, quando for disponibilizado, o sistema Corporativo de Gestão de Arquivos, conforme as normas vigentes;~~<br>
+~~XLIX – utilizar, quando for disponibilizado, o sistema Corporativo de Gestão de Arquivos, conforme as normas vigentes;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~L – nomear servidor ou comissão responsável pela gestão setorial dos estoques de materiais e seus almoxarifados e pela supervisão ao uso do sistema, inclusive com a gestão de acesso dos usuários e a sua capacitação para a operação do sistema;~~
 
-~~L – nomear servidor ou comissão responsável pela gestão setorial dos estoques de materiais e seus almoxarifados e pela supervisão ao uso do sistema, inclusive com a gestão de acesso dos usuários e a sua capacitação para a operação do sistema;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LI – garantir que toda a entrada ou a saída de material do almoxarifado tenha documento de autorização, com sua conferência física, quantitativa e documental e seu registro correto no sistema de controle de estoque;~~<br>
+~~LI – garantir que toda a entrada ou a saída de material do almoxarifado tenha documento de autorização, com sua conferência física, quantitativa e documental e seu registro correto no sistema de controle de estoque;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LII – gerir os cadastros de materiais nos almoxarifados com identificação correta da sua especificação no sistema de compras, a sua natureza da despesa e/ou conta patrimonial, a sua unidade orçamentária, o seu lote de fabricação e, quando for possível, o dimensionamento dos seus estoques de acordo com a sua demanda e o planejamento de aquisição;~~<br>
+~~LII – gerir os cadastros de materiais nos almoxarifados com identificação correta da sua especificação no sistema de compras, a sua natureza da despesa e/ou conta patrimonial, a sua unidade orçamentária, o seu lote de fabricação e, quando for possível, o dimensionamento dos seus estoques de acordo com a sua demanda e o planejamento de aquisição;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LIII – realizar a guarda dos materiais em locais próprios, restritos, limpos e em condições adequadas de conservação e segurança, protegidos contra qualquer tipo de ameaça decorrente de ação humana, mecânica e climática;~~
 
-~~LIII – realizar a guarda dos materiais em locais próprios, restritos, limpos e em condições adequadas de conservação e segurança, protegidos contra qualquer tipo de ameaça decorrente de ação humana, mecânica e climática;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LIV – organizar os estoques, de acordo com a data de recebimento ou a validade de cada material para priorizar a distribuição dos materiais e evitar a sua perda;~~<br>
+~~LIV – organizar os estoques, de acordo com a data de recebimento ou a validade de cada material para priorizar a distribuição dos materiais e evitar a sua perda;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LV – controlar a validade de todos os materiais perecíveis armazenados nos almoxarifados com a exceção dos materiais de consumo imediato;~~<br>
+~~LV – controlar a validade de todos os materiais perecíveis armazenados nos almoxarifados com a exceção dos materiais de consumo imediato;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LVI – realizar inventários periódicos nos almoxarifados inclusive o inventário geral no encerramento contábil de cada exercício financeiro;~~
 
-~~LVI – realizar inventários periódicos nos almoxarifados inclusive o inventário geral no encerramento contábil de cada exercício financeiro;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LVII – distribuir os materiais somente mediante requisição e atestado de recebimento de acordo com os critérios de demanda, necessidade e prioridade;~~<br>
+~~LVII – distribuir os materiais somente mediante requisição e atestado de recebimento de acordo com os critérios de demanda, necessidade e prioridade;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LVIII – gerir a demanda de materiais, no mínimo, dos mais significativos e críticos para o estoque dos almoxarifados;~~<br>
+~~LVIII – gerir a demanda de materiais, no mínimo, dos mais significativos e críticos para o estoque dos almoxarifados;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LIX – elaborar o plano anual de suprimentos com projeções quanto ao capital imobilizado, ao volume de estoques, ao giro dos itens e às despesas com a aquisição de materiais e as atividades de armazenagem e expedição, de acordo com as diretrizes da unidade central;~~
 
-~~LIX – elaborar o plano anual de suprimentos com projeções quanto ao capital imobilizado, ao volume de estoques, ao giro dos itens e às despesas com a aquisição de materiais e as atividades de armazenagem e expedição, de acordo com as diretrizes da unidade central;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LX – submeter o plano anual de suprimentos à aprovação da unidade central;~~<br>
+~~LX – submeter o plano anual de suprimentos à aprovação da unidade central;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXI – desfazer– se de materiais ociosos ou inservíveis mediante a alienação ou a inutilização, precedida de avaliação financeira e embasada na legislação vigente;~~<br>
+~~LXI – desfazer– se de materiais ociosos ou inservíveis mediante a alienação ou a inutilização, precedida de avaliação financeira e embasada na legislação vigente;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXII – baixar do estoque os materiais inutilizados, avariados, furtados, roubados, extraviados e alienados, com a exclusão do seu registro contábil e patrimonial;~~
 
-~~LXII – baixar do estoque os materiais inutilizados, avariados, furtados, roubados, extraviados e alienados, com a exclusão do seu registro contábil e patrimonial;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXIII – determinar a apuração de desaparecimento de materiais ou da avaria delas ocasionada por uso inadequado, para subsidiar a responsabilização pela unidade competente;~~<br>
+~~LXIII – determinar a apuração de desaparecimento de materiais ou da avaria delas ocasionada por uso inadequado, para subsidiar a responsabilização pela unidade competente;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXIV – estabelecer normas sobre recebimento, guarda, conservação, distribuição e uso de estoques em seus almoxarifados, observadas as políticas, as diretrizes, o processo corporativo e as especificações de segurança das instalações físicas, dos equipamentos e dos servidores;~~<br>
+~~LXIV – estabelecer normas sobre recebimento, guarda, conservação, distribuição e uso de estoques em seus almoxarifados, observadas as políticas, as diretrizes, o processo corporativo e as especificações de segurança das instalações físicas, dos equipamentos e dos servidores;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXV – prestar contas do consumo, das perdas de materiais e da avaliação patrimonial de seus estoques;~~
 
-~~LXV – prestar contas do consumo, das perdas de materiais e da avaliação patrimonial de seus estoques;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXVI – seguir orientações e diretrizes da unidade central de patrimônio;~~<br>
+~~LXVI – seguir orientações e diretrizes da unidade central de patrimônio;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXVII – fomentar na pasta a mudança de cultura quanto à gestão e ao uso do patrimônio imóvel do Estado de Goiás;~~<br>
+~~LXVII – fomentar na pasta a mudança de cultura quanto à gestão e ao uso do patrimônio imóvel do Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXVIII – gerir os bens imóveis afetados à AGR, inclusive os de propriedade de terceiros cedidos ou locados;~~
 
-~~LXVIII – gerir os bens imóveis afetados à AGR, inclusive os de propriedade de terceiros cedidos ou locados;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXIX – garantir o zelo e a conservação dos bens patrimoniais imóveis sob a gestão da AGR;~~<br>
+~~LXIX – garantir o zelo e a conservação dos bens patrimoniais imóveis sob a gestão da AGR;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXX – identificar e propor a manutenção predial quando ela for necessária, informar a central os sinistros ou as demais ocorrências que recaiam sobre os bens imóveis do acervo da AGR;~~
 
-~~LXX – identificar e propor a manutenção predial quando ela for necessária, informar a central os sinistros ou as demais ocorrências que recaiam sobre os bens imóveis do acervo da AGR;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXI – utilizar o sistema corporativo de gestão patrimonial definido pela unidade central e sugerir melhorias quando elas forem necessárias;~~<br>
+~~LXXI – utilizar o sistema corporativo de gestão patrimonial definido pela unidade central e sugerir melhorias quando elas forem necessárias;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXII – manter atualizada a base de dados dos imóveis afetados à AGR, inclusive a documentação de cessão de uso e locação, principalmente quando houver a afetação e a devolução dos imóveis;~~<br>
+~~LXXII – manter atualizada a base de dados dos imóveis afetados à AGR, inclusive a documentação de cessão de uso e locação, principalmente quando houver a afetação e a devolução dos imóveis;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXXIII – avaliar a necessidade de incorporação de novos imóveis à AGR e indicar ao titular;~~
 
-~~LXXIII – avaliar a necessidade de incorporação de novos imóveis à AGR e indicar ao titular;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXIV – manifestar– se sobre a incorporação de imóveis à AGR, seja por afetação direta da unidade central, aquisição, locação ou cessão de uso de terceiros, bem como quando houver a sua devolução;~~<br>
+~~LXXIV – manifestar– se sobre a incorporação de imóveis à AGR, seja por afetação direta da unidade central, aquisição, locação ou cessão de uso de terceiros, bem como quando houver a sua devolução;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXV – propor procedimentos para regularizar as divergências constatadas na base de dados dos bens patrimoniais imóveis sempre que isso for preciso;~~<br>
+~~LXXV – propor procedimentos para regularizar as divergências constatadas na base de dados dos bens patrimoniais imóveis sempre que isso for preciso;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXXVI – providenciar a regularização dos imóveis afetados à AGR nos municípios;~~
 
-~~LXXVI – providenciar a regularização dos imóveis afetados à AGR nos municípios;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXVII – realizar a instrução processual de procedimentos de interesse da AGR;~~<br>
+~~LXXVII – realizar a instrução processual de procedimentos de interesse da AGR;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXVIII – identificar e auxiliar na instrução processual dos imóveis a serem regularizados nos cartórios, nos termos de regulamento emitido pela unidade central;~~<br>
+~~LXXVIII – identificar e auxiliar na instrução processual dos imóveis a serem regularizados nos cartórios, nos termos de regulamento emitido pela unidade central;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXXIX – acompanhar as reintegrações de posse de imóveis de propriedade do Estado de Goiás afetados à AGR, com suporte logístico à sua efetivação;~~
 
-~~LXXIX – acompanhar as reintegrações de posse de imóveis de propriedade do Estado de Goiás afetados à AGR, com suporte logístico à sua efetivação;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXX – garantir a entrega de todos os documentos necessários à prestação de contas dos bens imóveis afetados à AGR;~~<br>
+~~LXXX – garantir a entrega de todos os documentos necessários à prestação de contas dos bens imóveis afetados à AGR;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXXI – realizar o inventário anual com o cumprimento do cronograma e das atividades preestabelecidas no planejamento;~~<br>
+~~LXXXI – realizar o inventário anual com o cumprimento do cronograma e das atividades preestabelecidas no planejamento;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXXXII – participar de treinamentos relacionados à gestão patrimonial definidos pela unidade central;~~
 
-~~LXXXII – participar de treinamentos relacionados à gestão patrimonial definidos pela unidade central;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXXIII – submeter à consideração da unidade central de gestão de patrimônio imóvel as propostas de locação e de aquisição de imóveis;~~<br>
+~~LXXXIII – submeter à consideração da unidade central de gestão de patrimônio imóvel as propostas de locação e de aquisição de imóveis;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXXIV – acompanhar na área competente processos licitatórios referentes à aquisição de bens móveis;~~<br>
+~~LXXXIV – acompanhar na área competente processos licitatórios referentes à aquisição de bens móveis;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXXXV – gerenciar a entrada de bens para garantir o efetivo registro no Sistema de Patrimônio Mobiliário – SPM e a identificação física por números sequenciais de registro patrimonial, com a utilização dos métodos de identificação disponibilizados e homologados pela central em bens patrimoniais novos;~~
 
-~~LXXXV – gerenciar a entrada de bens para garantir o efetivo registro no Sistema de Patrimônio Mobiliário – SPM e a identificação física por números sequenciais de registro patrimonial, com a utilização dos métodos de identificação disponibilizados e homologados pela central em bens patrimoniais novos;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXXVI – garantir o armazenamento e a distribuição dos bens patrimoniais novos;~~<br>
+~~LXXXVI – garantir o armazenamento e a distribuição dos bens patrimoniais novos;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXXVII – garantir a guarda, o uso, o zelo e a conservação dos bens patrimoniais móveis;~~<br>
+~~LXXXVII – garantir a guarda, o uso, o zelo e a conservação dos bens patrimoniais móveis;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~LXXXVIII – coordenar movimentações internas e externas;~~
 
-~~LXXXVIII – coordenar movimentações internas e externas;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~LXXXIX – alimentar o SPM com todos os registros relativos a quaisquer atualizações acerca dos bens móveis, e mantê– lo em conformidade com a situação real dos bens da AGR;~~<br>
+~~LXXXIX – alimentar o SPM com todos os registros relativos a quaisquer atualizações acerca dos bens móveis, e mantê– lo em conformidade com a situação real dos bens da AGR;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XC – instituir comissão de acordo com a finalidade da demanda;~~<br>
+~~XC – instituir comissão de acordo com a finalidade da demanda;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XCI – promover e acompanhar os procedimentos de reavaliação e depreciação dos bens móveis;~~
 
-~~XCI – promover e acompanhar os procedimentos de reavaliação e depreciação dos bens móveis;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XCII – estabelecer rotinas para a execução das atividades de inventário de todas as unidades da AGR;~~<br>
+~~XCII – estabelecer rotinas para a execução das atividades de inventário de todas as unidades da AGR;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XCIII – realizar o inventário anual cumprindo o cronograma de atividades e prazos estabelecidos pela Unidade Central de Patrimônio;~~
 
-~~XCIII – realizar o inventário anual cumprindo o cronograma de atividades e prazos estabelecidos pela Unidade Central de Patrimônio;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XCIV – diligenciar para a recuperação dos bens e promover-lhes a conservação ou a recuperação, conforme for o caso;~~<br>
+~~XCIV – diligenciar para a recuperação dos bens e promover-lhes a conservação ou a recuperação, conforme for o caso;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XCV – determinar a apuração de ocorrência de subtração ou avaria de bens para subsidiar a responsabilização pela unidade competente;~~<br>
+~~XCV – determinar a apuração de ocorrência de subtração ou avaria de bens para subsidiar a responsabilização pela unidade competente;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XCVI – monitorar a prestação de contas dos bens móveis para garantir a entrega de todos os documentos necessários;~~
 
-~~XCVI – monitorar a prestação de contas dos bens móveis para garantir a entrega de todos os documentos necessários;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XCVII – manter a Unidade Central de Patrimônio atualizada acerca do emprego de bens móveis que serão destinados a leilão, bem como garantir a disposição dos bens móveis inservíveis para a administração direta, autárquica e fundacional do Poder Executivo e suas unidades jurisdicionadas, nos termos da legislação pertinente;~~<br>
+~~XCVII – manter a Unidade Central de Patrimônio atualizada acerca do emprego de bens móveis que serão destinados a leilão, bem como garantir a disposição dos bens móveis inservíveis para a administração direta, autárquica e fundacional do Poder Executivo e suas unidades jurisdicionadas, nos termos da legislação pertinente;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~XCVIII – assegurar a disposição final ambientalmente adequada para os bens móveis considerados inservíveis;~~<br>
+~~XCVIII – assegurar a disposição final ambientalmente adequada para os bens móveis considerados inservíveis;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~XCIX – gerir a execução das contratações do órgão;~~
 
-~~XCIX – gerir a execução das contratações do órgão;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~C – coordenar a elaboração e as revisões ordinárias e extraordinárias do Plano de Contratação Anual da AGR por meio do sistema oficial de gestão de contratações do Estado com o apoio das áreas técnicas e supridoras e de planejamento institucional;~~<br>
+~~C – coordenar a elaboração e as revisões ordinárias e extraordinárias do Plano de Contratação Anual da AGR por meio do sistema oficial de gestão de contratações do Estado com o apoio das áreas técnicas e supridoras e de planejamento institucional;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CI – elaborar o calendário de contratações da AGR e monitorar o andamento dos processos de contratação, buscar conciliar o calendário planejado e alcançar as metas definidas;~~<br>
+~~CI – elaborar o calendário de contratações da AGR e monitorar o andamento dos processos de contratação, buscar conciliar o calendário planejado e alcançar as metas definidas;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~CII – supervisionar e orientar a elaboração dos documentos da etapa preparatória das contratações com o apoio das áreas técnicas e supridoras;~~
 
-~~CII – supervisionar e orientar a elaboração dos documentos da etapa preparatória das contratações com o apoio das áreas técnicas e supridoras;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CIII – elaborar minutas e outros atos compatíveis com a modalidade de licitação ou a contratação;~~<br>
+~~CIII – elaborar minutas e outros atos compatíveis com a modalidade de licitação ou a contratação;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CIV – impulsionar os processos de contratação e requerer, quando for o caso, a análise técnica e jurídica;~~<br>
+~~CIV – impulsionar os processos de contratação e requerer, quando for o caso, a análise técnica e jurídica;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~CV – divulgar as licitações e as contratações diretas realizadas pela AGR, observados os prazos legais;~~
 
-~~CV – divulgar as licitações e as contratações diretas realizadas pela AGR, observados os prazos legais;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CVI – receber, examinar e julgar pedidos de esclarecimento, impugnações, propostas, documentos de habilitação e recursos dos processos licitatórios por meio do sistema oficial de contratações do Estado;~~<br>
+~~CVI – receber, examinar e julgar pedidos de esclarecimento, impugnações, propostas, documentos de habilitação e recursos dos processos licitatórios por meio do sistema oficial de contratações do Estado;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CVII – prestar as informações requeridas por órgãos de controle e órgãos externos;~~<br>
+~~CVII – prestar as informações requeridas por órgãos de controle e órgãos externos;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~CVIII – supervisionar a instrução de processos de contratação direta, respeitada a responsabilidade do requisitante quanto às justificativas de dispensas e às inexigibilidades de licitação;~~
 
-~~CVIII – supervisionar a instrução de processos de contratação direta, respeitada a responsabilidade do requisitante quanto às justificativas de dispensas e às inexigibilidades de licitação;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CIX – formalizar e divulgar termos de contratos, convênios, termos de cooperação e demais ajustes da AGR, bem como suas respectivas alterações e aditivos;~~<br>
+~~CIX – formalizar e divulgar termos de contratos, convênios, termos de cooperação e demais ajustes da AGR, bem como suas respectivas alterações e aditivos;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CX – manter o controle histórico dos contratos da AGR e monitorar suas vigências;~~<br>
+~~CX – manter o controle histórico dos contratos da AGR e monitorar suas vigências;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~CXI – monitorar a gestão e a fiscalização dos contratos da AGR;~~
 
-~~CXI – monitorar a gestão e a fiscalização dos contratos da AGR;~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CXII – identificar e monitorar estrategicamente os riscos das contratações da AGR;~~<br>
+~~CXII – identificar e monitorar estrategicamente os riscos das contratações da AGR;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
-~~CXIII – orientar as áreas requisitantes para a adequada instrução processual, a contratação tempestiva e a observância da legislação aplicável;~~<br>
+~~CXIII – orientar as áreas requisitantes para a adequada instrução processual, a contratação tempestiva e a observância da legislação aplicável;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
+
+~~CXIV – formalizar as contratações decorrentes de ata de registro de preços realizadas pela Unidade Central de Compras e Contratos; e~~
 
-~~CXIV – formalizar as contratações decorrentes de ata de registro de preços realizadas pela Unidade Central de Compras e Contratos; e~~<br>
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, I.
 
 CXV – encarregar-se de competências correlatas.
 
-Parágrafo único. A Gerência de Tecnologia, sem prejuízo à subordinação administrativa à Diretoria de Gestão Integrada, fica subordinada técnica e normativamente à Secretaria-Geral de Governo.<br>
+Parágrafo único. A Gerência de Tecnologia, sem prejuízo à subordinação administrativa à Diretoria de Gestão Integrada, fica subordinada técnica e normativamente à Secretaria-Geral de Governo.
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~Parágrafo único. A Gerência de Tecnologia e Apoio Administrativo, sem prejuízo da subordinação administrativa à Diretoria de Gestão Integrada, fica subordinada técnica e normativamente à:~~
 
-~~I – Secretaria-Geral de Governo, quanto às competências de tecnologia; e~~<br>
+~~I – Secretaria-Geral de Governo, quanto às competências de tecnologia; e~~
+
 \- [Suprimido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-~~II – SEAD, quanto às competências de apoio administrativo.~~<br>
+~~II – SEAD, quanto às competências de apoio administrativo.~~
+
 \- [Suprimido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 Subseção II
@@ -1582,294 +1690,390 @@ XV – encarregar-se de competências correlatas.
 
 § 3º A Gerência de Contabilidade fica subordinada técnica e normativamente à Superintendência Central de Contabilidade da ECONOMIA, sem prejuízo à subordinação administrativa à Diretoria de Gestão Integrada.
 
-Subseção V<br>
+Subseção V
+
 \- [Acrescida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 Da Gerência de Apoio Administrativo
 
-Art. 51-A. Compete à Gerência de Apoio Administrativo:<br>
+Art. 51-A. Compete à Gerência de Apoio Administrativo:
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+I – manter o controle de veículos, máquinas e equipamentos;
 
-I – manter o controle de veículos, máquinas e equipamentos;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-II – manter atualizado o registro de documentos, máquinas e equipamentos;<br>
+II – manter atualizado o registro de documentos, máquinas e equipamentos;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-III – manter atualizado o histórico veicular;<br>
+III – manter atualizado o histórico veicular;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+IV – avaliar e autorizar a manutenção veicular;
 
-IV – avaliar e autorizar a manutenção veicular;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-V – administrar e monitorar a distribuição da frota;<br>
+V – administrar e monitorar a distribuição da frota;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-VI – gerir os serviços de distribuição de combustível da frota;<br>
+VI – gerir os serviços de distribuição de combustível da frota;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+VII – planejar e atender a gestão de logística da frota;
 
-VII – planejar e atender a gestão de logística da frota;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-VIII – controlar a execução dos contratos e dos convênios relacionados à frota;<br>
+VIII – controlar a execução dos contratos e dos convênios relacionados à frota;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-IX – controlar os processos de notificação de infrações de trânsito;<br>
+IX – controlar os processos de notificação de infrações de trânsito;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+X – elaborar orientações sobre o uso e a conservação veicular conforme as determinações da central;
 
-X – elaborar orientações sobre o uso e a conservação veicular conforme as determinações da central;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XI – analisar e avaliar a solicitação de doação e cessão de uso da frota;<br>
+XI – analisar e avaliar a solicitação de doação e cessão de uso da frota;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XII – submeter à manifestação da central a inclusão, a alteração, a transferência, a cessão de uso, a doação, a alienação, o leilão, as características veiculares, o estudo técnico preliminar e o termo de referência correlatos a atas de registro de preços e licitações veiculares, de máquinas e equipamentos a combustão;<br>
+XII – submeter à manifestação da central a inclusão, a alteração, a transferência, a cessão de uso, a doação, a alienação, o leilão, as características veiculares, o estudo técnico preliminar e o termo de referência correlatos a atas de registro de preços e licitações veiculares, de máquinas e equipamentos a combustão;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XIII – orientar os condutores e os usuários quanto às normas e às orientações da central;
 
-XIII – orientar os condutores e os usuários quanto às normas e às orientações da central;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XIV – disponibilizar informações e acessos de veículos administrativos para a central nos sistemas informatizados de sua coordenação;<br>
+XIV – disponibilizar informações e acessos de veículos administrativos para a central nos sistemas informatizados de sua coordenação;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XV – implantar o sistema de gestão de frotas disponibilizado pela central;<br>
+XV – implantar o sistema de gestão de frotas disponibilizado pela central;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XVI – executar as tarefas de gestão de documentos (físicos, digitais e digitalizados) conforme as normas e as orientações técnicas estabelecidas pela unidade central de logística documental;
 
-XVI – executar as tarefas de gestão de documentos (físicos, digitais e digitalizados) conforme as normas e as orientações técnicas estabelecidas pela unidade central de logística documental;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XVII – receber os documentos da AGR para arquivamento;<br>
+XVII – receber os documentos da AGR para arquivamento;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XVIII – classificar os documentos recebidos de acordo com a tabela de temporalidade vigente;<br>
+XVIII – classificar os documentos recebidos de acordo com a tabela de temporalidade vigente;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XIX – manter o acervo documental para a preservação, a recuperação e a consulta de acordo com a demanda;
 
-XIX – manter o acervo documental para a preservação, a recuperação e a consulta de acordo com a demanda;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XX – atualizar os registros e a localização de documentos para consulta;<br>
+XX – atualizar os registros e a localização de documentos para consulta;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXI – eliminar documentos que atingiram o prazo de guarda de acordo com a tabela de temporalidade e normas vigentes;<br>
+XXI – eliminar documentos que atingiram o prazo de guarda de acordo com a tabela de temporalidade e normas vigentes;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XXII – transferir documentos intermediários e permanentes para o Arquivo Central do Estado;
 
-XXII – transferir documentos intermediários e permanentes para o Arquivo Central do Estado;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXIII – notificar a central de logística documental da necessidade de atualização da tabela de temporalidade;<br>
+XXIII – notificar a central de logística documental da necessidade de atualização da tabela de temporalidade;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXIV – capacitar os servidores para o desenvolvimento das atividades de gestão de documentos;<br>
+XXIV – capacitar os servidores para o desenvolvimento das atividades de gestão de documentos;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XXV – zelar pelo sigilo dos documentos classificados de acordo com a norma vigente;
 
-XXV – zelar pelo sigilo dos documentos classificados de acordo com a norma vigente;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXVI – assessorar a Comissão Setorial de Avaliação de Documentos e Acesso na execução de suas atividades;<br>
+XXVI – assessorar a Comissão Setorial de Avaliação de Documentos e Acesso na execução de suas atividades;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXVII – utilizar, quando for disponibilizado, o sistema Corporativo de Gestão de Arquivos, conforme as normas vigentes;<br>
+XXVII – utilizar, quando for disponibilizado, o sistema Corporativo de Gestão de Arquivos, conforme as normas vigentes;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XXVIII – designar servidor ou comissão responsável pela gestão setorial dos estoques de materiais e seus almoxarifados e pela supervisão ao uso do sistema, inclusive com a gestão do acesso dos usuários e a sua capacitação para a operação do sistema;
 
-XXVIII – designar servidor ou comissão responsável pela gestão setorial dos estoques de materiais e seus almoxarifados e pela supervisão ao uso do sistema, inclusive com a gestão do acesso dos usuários e a sua capacitação para a operação do sistema;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXIX – garantir que todas as entradas ou as saídas de materiais dos almoxarifados tenham documento de autorização, com sua conferência física, quantitativa e documental e seu registro correto no sistema de controle de estoque;<br>
+XXIX – garantir que todas as entradas ou as saídas de materiais dos almoxarifados tenham documento de autorização, com sua conferência física, quantitativa e documental e seu registro correto no sistema de controle de estoque;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXX – gerir os cadastros de materiais nos almoxarifados com a identificação correta da sua especificação no sistema de compras, a sua natureza da despesa ou conta patrimonial, a sua unidade orçamentária, o seu lote de fabricação e, quando for possível, o dimensionamento dos seus estoques de acordo com a sua demanda e o planejamento de aquisição;<br>
+XXX – gerir os cadastros de materiais nos almoxarifados com a identificação correta da sua especificação no sistema de compras, a sua natureza da despesa ou conta patrimonial, a sua unidade orçamentária, o seu lote de fabricação e, quando for possível, o dimensionamento dos seus estoques de acordo com a sua demanda e o planejamento de aquisição;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XXXI – realizar a guarda dos materiais em locais próprios, restritos, limpos e em condições adequadas de conservação e segurança, protegidos contra qualquer tipo de ameaça decorrente de ação humana, mecânica e climática;
 
-XXXI – realizar a guarda dos materiais em locais próprios, restritos, limpos e em condições adequadas de conservação e segurança, protegidos contra qualquer tipo de ameaça decorrente de ação humana, mecânica e climática;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXXII – organizar os estoques, de acordo com a data de recebimento ou a validade de cada material para priorizar a distribuição dos materiais e evitar a sua perda;<br>
+XXXII – organizar os estoques, de acordo com a data de recebimento ou a validade de cada material para priorizar a distribuição dos materiais e evitar a sua perda;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXXIII – controlar a validade de todos os materiais perecíveis armazenados nos almoxarifados com a exceção dos materiais de consumo imediato;<br>
+XXXIII – controlar a validade de todos os materiais perecíveis armazenados nos almoxarifados com a exceção dos materiais de consumo imediato;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XXXIV – realizar inventários periódicos nos almoxarifados inclusive o inventário geral no encerramento contábil de cada exercício financeiro;
 
-XXXIV – realizar inventários periódicos nos almoxarifados inclusive o inventário geral no encerramento contábil de cada exercício financeiro;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXXV – distribuir os materiais somente mediante requisição e atestado de recebimento de acordo com os critérios de demanda, necessidade e prioridade;<br>
+XXXV – distribuir os materiais somente mediante requisição e atestado de recebimento de acordo com os critérios de demanda, necessidade e prioridade;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXXVI – gerir a demanda de materiais, no mínimo, dos mais significativos e críticos para o estoque dos almoxarifados;<br>
+XXXVI – gerir a demanda de materiais, no mínimo, dos mais significativos e críticos para o estoque dos almoxarifados;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XXXVII – elaborar o plano anual de suprimentos com projeções quanto ao capital imobilizado, ao volume de estoques, ao giro dos itens e às despesas com a aquisição de materiais e as atividades de armazenagem e expedição, de acordo com as diretrizes da unidade central;
 
-XXXVII – elaborar o plano anual de suprimentos com projeções quanto ao capital imobilizado, ao volume de estoques, ao giro dos itens e às despesas com a aquisição de materiais e as atividades de armazenagem e expedição, de acordo com as diretrizes da unidade central;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXXVIII – submeter o plano anual de suprimentos à aprovação da unidade central;<br>
+XXXVIII – submeter o plano anual de suprimentos à aprovação da unidade central;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XXXIX – desfazer-se de materiais ociosos ou inservíveis mediante a alienação ou a inutilização, precedida de avaliação financeira e embasada na legislação vigente;<br>
+XXXIX – desfazer-se de materiais ociosos ou inservíveis mediante a alienação ou a inutilização, precedida de avaliação financeira e embasada na legislação vigente;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XL – baixar do estoque os materiais inutilizados, avariados, furtados, roubados, extraviados e alienados, com a exclusão do seu registro contábil e patrimonial;
 
-XL – baixar do estoque os materiais inutilizados, avariados, furtados, roubados, extraviados e alienados, com a exclusão do seu registro contábil e patrimonial;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XLI – determinar a apuração de desaparecimento de materiais ou da avaria deles ocasionada por uso inadequado, para subsidiar a responsabilização pela unidade competente;<br>
+XLI – determinar a apuração de desaparecimento de materiais ou da avaria deles ocasionada por uso inadequado, para subsidiar a responsabilização pela unidade competente;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XLII – estabelecer normas sobre recebimento, guarda, conservação, distribuição e uso de estoques em seus almoxarifados, observadas as políticas, as diretrizes, o processo corporativo e as especificações de segurança das instalações físicas, dos equipamentos e dos servidores;<br>
+XLII – estabelecer normas sobre recebimento, guarda, conservação, distribuição e uso de estoques em seus almoxarifados, observadas as políticas, as diretrizes, o processo corporativo e as especificações de segurança das instalações físicas, dos equipamentos e dos servidores;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XLIII – prestar contas do consumo, das perdas de materiais e da avaliação patrimonial dos seus estoques;
 
-XLIII – prestar contas do consumo, das perdas de materiais e da avaliação patrimonial dos seus estoques;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XLIV – seguir orientações e diretrizes da unidade central de patrimônio;<br>
+XLIV – seguir orientações e diretrizes da unidade central de patrimônio;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XLV – fomentar na AGR a mudança de cultura quanto à gestão e ao uso do patrimônio imóvel do Estado de Goiás;<br>
+XLV – fomentar na AGR a mudança de cultura quanto à gestão e ao uso do patrimônio imóvel do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XLVI – gerir os bens imóveis afetados à AGR, inclusive os de propriedade de terceiros cedidos ou locados;
 
-XLVI – gerir os bens imóveis afetados à AGR, inclusive os de propriedade de terceiros cedidos ou locados;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XLVII – garantir o zelo e a conservação dos bens patrimoniais imóveis sob a gestão da AGR;<br>
+XLVII – garantir o zelo e a conservação dos bens patrimoniais imóveis sob a gestão da AGR;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XLVIII – identificar e propor a manutenção predial quando ela for necessária, informar à central os sinistros ou as demais ocorrências que recaiam sobre os bens imóveis do acervo da AGR;<br>
+XLVIII – identificar e propor a manutenção predial quando ela for necessária, informar à central os sinistros ou as demais ocorrências que recaiam sobre os bens imóveis do acervo da AGR;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XLIX – utilizar o sistema corporativo de gestão patrimonial definido pela unidade central e sugerir melhorias quando elas forem necessárias;
 
-XLIX – utilizar o sistema corporativo de gestão patrimonial definido pela unidade central e sugerir melhorias quando elas forem necessárias;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-L – manter atualizada a base de dados dos imóveis afetados à AGR, inclusive a documentação de cessão de uso e locação, principalmente quando houver a afetação e a devolução dos imóveis;<br>
+L – manter atualizada a base de dados dos imóveis afetados à AGR, inclusive a documentação de cessão de uso e locação, principalmente quando houver a afetação e a devolução dos imóveis;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LI – avaliar a necessidade de incorporação de novos imóveis à AGR e indicar ao titular;<br>
+LI – avaliar a necessidade de incorporação de novos imóveis à AGR e indicar ao titular;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LII – manifestar-se sobre a incorporação de imóveis à AGR, seja por afetação direta da unidade central, aquisição, locação ou cessão de uso de terceiros, bem como quando houver a sua devolução;
 
-LII – manifestar-se sobre a incorporação de imóveis à AGR, seja por afetação direta da unidade central, aquisição, locação ou cessão de uso de terceiros, bem como quando houver a sua devolução;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LIII – propor procedimentos para regularizar as divergências constatadas na base de dados dos bens patrimoniais imóveis sempre que isso for preciso;<br>
+LIII – propor procedimentos para regularizar as divergências constatadas na base de dados dos bens patrimoniais imóveis sempre que isso for preciso;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LIV – providenciar a regularização dos imóveis afetados à AGR nos municípios;<br>
+LIV – providenciar a regularização dos imóveis afetados à AGR nos municípios;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LV – realizar a instrução processual de procedimentos de interesse da AGR;
 
-LV – realizar a instrução processual de procedimentos de interesse da AGR;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LVI – identificar e auxiliar na instrução processual dos imóveis a serem regularizados nos cartórios, nos termos de regulamento emitido pela unidade central;<br>
+LVI – identificar e auxiliar na instrução processual dos imóveis a serem regularizados nos cartórios, nos termos de regulamento emitido pela unidade central;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LVII – acompanhar as reintegrações de posse de imóveis de propriedade do Estado de Goiás afetados à AGR, com suporte logístico à sua efetivação;<br>
+LVII – acompanhar as reintegrações de posse de imóveis de propriedade do Estado de Goiás afetados à AGR, com suporte logístico à sua efetivação;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LVIII – garantir a entrega de todos os documentos necessários à prestação de contas dos bens imóveis afetados à AGR;
 
-LVIII – garantir a entrega de todos os documentos necessários à prestação de contas dos bens imóveis afetados à AGR;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LIX – realizar o inventário anual com o cumprimento do cronograma e das atividades preestabelecidas no planejamento;<br>
+LIX – realizar o inventário anual com o cumprimento do cronograma e das atividades preestabelecidas no planejamento;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LX – participar de treinamentos relacionados à gestão patrimonial definidos pela unidade central;<br>
+LX – participar de treinamentos relacionados à gestão patrimonial definidos pela unidade central;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXI – submeter à consideração da unidade central de gestão de patrimônio imóvel as propostas de locação e de aquisição de imóveis;
 
-LXI – submeter à consideração da unidade central de gestão de patrimônio imóvel as propostas de locação e de aquisição de imóveis;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXII – acompanhar na área competente processos licitatórios referentes à aquisição de bens móveis;<br>
+LXII – acompanhar na área competente processos licitatórios referentes à aquisição de bens móveis;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXIII – gerenciar a entrada de bens para garantir o efetivo registro no Sistema de Patrimônio Mobiliário – SPM e a identificação física por números sequenciais de registro patrimonial, com a utilização dos métodos de identificação disponibilizados e homologados pela central em bens patrimoniais novos;<br>
+LXIII – gerenciar a entrada de bens para garantir o efetivo registro no Sistema de Patrimônio Mobiliário – SPM e a identificação física por números sequenciais de registro patrimonial, com a utilização dos métodos de identificação disponibilizados e homologados pela central em bens patrimoniais novos;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXIV – garantir o armazenamento e a distribuição dos bens patrimoniais novos;
 
-LXIV – garantir o armazenamento e a distribuição dos bens patrimoniais novos;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXV – garantir a guarda, o uso, o zelo e a conservação dos bens patrimoniais móveis;<br>
+LXV – garantir a guarda, o uso, o zelo e a conservação dos bens patrimoniais móveis;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXVI – coordenar movimentações internas e externas;<br>
+LXVI – coordenar movimentações internas e externas;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXVII – alimentar o SPM com todos os registros relativos a quaisquer atualizações acerca dos bens móveis, e mantê– lo em conformidade com a situação real dos bens da AGR;
 
-LXVII – alimentar o SPM com todos os registros relativos a quaisquer atualizações acerca dos bens móveis, e mantê– lo em conformidade com a situação real dos bens da AGR;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXVIII – instituir comissão de acordo com a finalidade da demanda;<br>
+LXVIII – instituir comissão de acordo com a finalidade da demanda;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXIX – promover e acompanhar os procedimentos de reavaliação e depreciação dos bens móveis;<br>
+LXIX – promover e acompanhar os procedimentos de reavaliação e depreciação dos bens móveis;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXX – estabelecer rotinas para a execução das atividades de inventário de todas as unidades da AGR;
 
-LXX – estabelecer rotinas para a execução das atividades de inventário de todas as unidades da AGR;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXI – realizar o inventário anual cumprindo o cronograma de atividades e prazos estabelecidos pela unidade central de patrimônio;<br>
+LXXI – realizar o inventário anual cumprindo o cronograma de atividades e prazos estabelecidos pela unidade central de patrimônio;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXII – diligenciar para a recuperação dos bens e promover-lhes a conservação ou a recuperação, conforme for o caso;<br>
+LXXII – diligenciar para a recuperação dos bens e promover-lhes a conservação ou a recuperação, conforme for o caso;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXXIII – determinar a apuração de ocorrência de subtração ou avaria de bens para subsidiar a responsabilização pela unidade competente;
 
-LXXIII – determinar a apuração de ocorrência de subtração ou avaria de bens para subsidiar a responsabilização pela unidade competente;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXIV – monitorar a prestação de contas dos bens móveis para garantir a entrega de todos os documentos necessários;<br>
+LXXIV – monitorar a prestação de contas dos bens móveis para garantir a entrega de todos os documentos necessários;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXV – manter a unidade central de patrimônio atualizada acerca do emprego de bens móveis que serão destinados a leilão, bem como garantir a disposição dos bens móveis inservíveis para a administração direta, autárquica e fundacional do Poder Executivo e suas unidades jurisdicionadas, nos termos da legislação pertinente;<br>
+LXXV – manter a unidade central de patrimônio atualizada acerca do emprego de bens móveis que serão destinados a leilão, bem como garantir a disposição dos bens móveis inservíveis para a administração direta, autárquica e fundacional do Poder Executivo e suas unidades jurisdicionadas, nos termos da legislação pertinente;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXXVI – assegurar a disposição final ambientalmente adequada para os bens móveis considerados inservíveis;
 
-LXXVI – assegurar a disposição final ambientalmente adequada para os bens móveis considerados inservíveis;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXVII – gerir a execução das contratações da AGR;<br>
+LXXVII – gerir a execução das contratações da AGR;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXVIII – coordenar a elaboração e as revisões ordinárias e extraordinárias do Plano de Contratação Anual da AGR por meio do sistema oficial de gestão de contratações do Estado e com o apoio das áreas técnicas e supridoras e de planejamento institucional;<br>
+LXXVIII – coordenar a elaboração e as revisões ordinárias e extraordinárias do Plano de Contratação Anual da AGR por meio do sistema oficial de gestão de contratações do Estado e com o apoio das áreas técnicas e supridoras e de planejamento institucional;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXXIX – elaborar o calendário de contratações da AGR e monitorar o andamento dos processos de contratação, buscar conciliar o calendário planejado e alcançar as metas definidas;
 
-LXXIX – elaborar o calendário de contratações da AGR e monitorar o andamento dos processos de contratação, buscar conciliar o calendário planejado e alcançar as metas definidas;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXX – supervisionar e orientar a elaboração dos documentos da etapa preparatória das contratações com o apoio das áreas técnicas e supridoras;<br>
+LXXX – supervisionar e orientar a elaboração dos documentos da etapa preparatória das contratações com o apoio das áreas técnicas e supridoras;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXXI – elaborar minutas e outros atos compatíveis com a modalidade de licitação ou a contratação;<br>
+LXXXI – elaborar minutas e outros atos compatíveis com a modalidade de licitação ou a contratação;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXXXII – impulsionar os processos de contratação e requerer, quando for o caso, a análise técnica e jurídica;
 
-LXXXII – impulsionar os processos de contratação e requerer, quando for o caso, a análise técnica e jurídica;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXXIII – divulgar as licitações e as contratações diretas realizadas pela AGR, observados os prazos legais;<br>
+LXXXIII – divulgar as licitações e as contratações diretas realizadas pela AGR, observados os prazos legais;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXXIV – receber, examinar e julgar pedidos de esclarecimento, impugnações, propostas, documentos de habilitação e recursos dos processos licitatórios por meio do sistema oficial de contratações do Estado;<br>
+LXXXIV – receber, examinar e julgar pedidos de esclarecimento, impugnações, propostas, documentos de habilitação e recursos dos processos licitatórios por meio do sistema oficial de contratações do Estado;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXXXV – prestar as informações requeridas por órgãos de controle e órgãos externos;
 
-LXXXV – prestar as informações requeridas por órgãos de controle e órgãos externos;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXXVI – supervisionar a instrução de processos de contratação direta, respeitada a responsabilidade do requisitante quanto às justificativas de dispensas e às inexigibilidades de licitação;<br>
+LXXXVI – supervisionar a instrução de processos de contratação direta, respeitada a responsabilidade do requisitante quanto às justificativas de dispensas e às inexigibilidades de licitação;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXXVII – formalizar e divulgar termos de contratos, convênios, termos de cooperação e demais ajustes da AGR, bem como as suas respectivas alterações e aditivos;<br>
+LXXXVII – formalizar e divulgar termos de contratos, convênios, termos de cooperação e demais ajustes da AGR, bem como as suas respectivas alterações e aditivos;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+LXXXVIII – manter o controle histórico dos contratos da AGR e monitorar as suas vigências;
 
-LXXXVIII – manter o controle histórico dos contratos da AGR e monitorar as suas vigências;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-LXXXIX – monitorar a gestão e a fiscalização dos contratos da AGR;<br>
+LXXXIX – monitorar a gestão e a fiscalização dos contratos da AGR;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XC – identificar e monitorar estrategicamente os riscos das contratações da AGR;<br>
+XC – identificar e monitorar estrategicamente os riscos das contratações da AGR;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+XCI – orientar as áreas requisitantes para a adequada instrução processual, a contratação tempestiva e a observância da legislação aplicável;
 
-XCI – orientar as áreas requisitantes para a adequada instrução processual, a contratação tempestiva e a observância da legislação aplicável;<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XCII – formalizar as contratações decorrentes de ata de registro de preços realizadas pela unidade central de compras e contratos; e<br>
+XCII – formalizar as contratações decorrentes de ata de registro de preços realizadas pela unidade central de compras e contratos; e
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XCIII – encarregar-se de competências correlatas.<br>
+XCIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
+
+Parágrafo único. A Gerência de Apoio Administrativo, sem prejuízo à subordinação administrativa à Diretoria de Gestão Integrada, fica subordinada técnica e normativamente à SEAD.
 
-Parágrafo único. A Gerência de Apoio Administrativo, sem prejuízo à subordinação administrativa à Diretoria de Gestão Integrada, fica subordinada técnica e normativamente à SEAD.<br>
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 Seção II
@@ -1930,17 +2134,20 @@ I – Gerência de Energia;
 
 II – Gerência de Transportes;
 
-III – Gerência de Saneamento Básico;<br>
+III – Gerência de Saneamento Básico;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~III – Gerência de Saneamento Básico; e~~
 
-IV – Gerência de Regulação Econômica; e<br>
+IV – Gerência de Regulação Econômica; e
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~IV – Gerência de Regulação Econômica e Desestatização.~~
 
-V – Gerência de Bens Desestatizados.<br>
+V – Gerência de Bens Desestatizados.
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 Subseção I
@@ -2107,243 +2314,306 @@ XIII – acompanhar, monitorar e fiscalizar os postos de atendimento aos usuári
 
 XIV – encarregar-se de competências correlatas.
 
-Subseção IV<br>
-Da Gerência de Regulação Econômica<br>
+Subseção IV
+
+Da Gerência de Regulação Econômica
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~Da Gerência de Regulação Econômica e Desestatização~~
 
-Art. 57. Compete à Gerência de Regulação Econômica:<br>
+Art. 57. Compete à Gerência de Regulação Econômica:
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~Art. 57. Compete à Gerência de Regulação Econômica e Desestatização:~~
 
 I – encarregar-se das atividades pertinentes à sua competência;
 
-II – executar as atividades de acompanhamento e auditagem do desempenho econômico-financeiro dos prestadores de serviços públicos e emitir relatórios, conforme a sua competência;<br>
+II – executar as atividades de acompanhamento e auditagem do desempenho econômico-financeiro dos prestadores de serviços públicos e emitir relatórios, conforme a sua competência;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~II – executar atividades inerentes à cessão de bens e aos serviços delegados pelo Estado de Goiás, quando isso for estabelecido pelo Conselho Estadual de Investimentos, Parcerias e Concessões;~~
 
-III – executar as atividades técnicas de contabilidade regulatória;<br>
+III – executar as atividades técnicas de contabilidade regulatória;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~III – controlar e fiscalizar os atos contratuais e autorizativos, identificar as metas físicas e financeiras, além de outros compromissos assumidos;~~
 
-IV – analisar e emitir parecer técnico pertinente à sua competência;<br>
+IV – analisar e emitir parecer técnico pertinente à sua competência;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~IV – controlar e fiscalizar os empreendimentos de natureza socioeconômica objeto de desestatização com o acompanhamento técnico– operacional direto ou indireto;~~
 
-V – fornecer subsídios, com a utilização de técnicas contábeis, à instrução de processos de cobranças e administrativos;<br>
+V – fornecer subsídios, com a utilização de técnicas contábeis, à instrução de processos de cobranças e administrativos;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~V – promover a notificação dos processos oriundos de termos de notificação e de autos de infração na área de bens e serviços desestatizados;~~
 
-VI – acompanhar, em conjunto com as demais gerências finalísticas, os cálculos para os recebimentos de remunerações, retribuições pecuniárias e taxas de fiscalização, com a utilização de técnicas contábeis;<br>
+VI – acompanhar, em conjunto com as demais gerências finalísticas, os cálculos para os recebimentos de remunerações, retribuições pecuniárias e taxas de fiscalização, com a utilização de técnicas contábeis;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~VI – analisar e emitir parecer técnico nos processos relativos à regulação, ao controle e à fiscalização das atividades de bens e serviços desestatizados;~~
 
-VII – desenvolver, com as demais gerências finalísticas, a elaboração dos estudos de viabilidade de novas concessões, permissões e autorizações de serviços públicos e preparar os respectivos processos com as informações econômicas e financeiras para o exame e a deliberação da autoridade competente;<br>
+VII – desenvolver, com as demais gerências finalísticas, a elaboração dos estudos de viabilidade de novas concessões, permissões e autorizações de serviços públicos e preparar os respectivos processos com as informações econômicas e financeiras para o exame e a deliberação da autoridade competente;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~VII – aplicar penalidades, conforme a legislação, na área de bens desestatizados;~~
 
-VIII – acompanhar, monitorar e auditar, com as demais gerências finalísticas, o desempenho econômico-financeiro dos prestadores de serviços públicos regulados, controlados e fiscalizados pela AGR;<br>
+VIII – acompanhar, monitorar e auditar, com as demais gerências finalísticas, o desempenho econômico-financeiro dos prestadores de serviços públicos regulados, controlados e fiscalizados pela AGR;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~VIII – também atuar na área de desestatização para:~~
 
-~~a) identificar e diagnosticar as oportunidades de negócios relativos aos serviços públicos passíveis de serem desestatizados;~~<br>
+~~a) identificar e diagnosticar as oportunidades de negócios relativos aos serviços públicos passíveis de serem desestatizados;~~
+
 \- [Suprimida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-~~b) elaborar estudos de viabilidade de novas concessões, permissões e autorizações de serviços públicos e preparar os respectivos processos com as informações técnicas, econômicas e financeiras para o exame e a deliberação da autoridade competente;~~<br>
+~~b) elaborar estudos de viabilidade de novas concessões, permissões e autorizações de serviços públicos e preparar os respectivos processos com as informações técnicas, econômicas e financeiras para o exame e a deliberação da autoridade competente;~~
+
 \- [Suprimida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-~~c) elaborar, em conjunto com a respectiva gerência finalística, as especificações técnicas que integrarão os editais de licitação e os respectivos atos de delegação de serviços públicos;~~<br>
+~~c) elaborar, em conjunto com a respectiva gerência finalística, as especificações técnicas que integrarão os editais de licitação e os respectivos atos de delegação de serviços públicos;~~
+
 \- [Suprimida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-~~d) estudar e propor modelos competitivos para a prestação dos serviços públicos delegados; e~~<br>
+~~d) estudar e propor modelos competitivos para a prestação dos serviços públicos delegados; e~~
+
 \- [Suprimida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-~~e) analisar e emitir parecer técnico nos processos relativos à regulação, ao controle e à fiscalização de bens e dos serviços passíveis de desestatização;~~<br>
+~~e) analisar e emitir parecer técnico nos processos relativos à regulação, ao controle e à fiscalização de bens e dos serviços passíveis de desestatização;~~
+
 \- [Suprimida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-IX – acompanhar, monitorar e auditar, com as demais gerências finalísticas, as prestações de contas dos contratos de concessão regulados e fiscalizados pela AGR;<br>
+IX – acompanhar, monitorar e auditar, com as demais gerências finalísticas, as prestações de contas dos contratos de concessão regulados e fiscalizados pela AGR;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~IX – manter registros atualizados dos instrumentos contratuais e legais;~~
 
-X – executar auditorias de natureza contábil e econômico-financeira dos prestadores de serviços públicos regulados, controlados e fiscalizados pela AGR;<br>
+X – executar auditorias de natureza contábil e econômico-financeira dos prestadores de serviços públicos regulados, controlados e fiscalizados pela AGR;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~X – executar as atividades de acompanhamento e auditagem do desempenho econômico-financeiro dos prestadores de serviços públicos, elaborar relatórios de fiscalização, notificar e aplicar penalidades conforme a legislação;~~
 
-XI – analisar planos de contabilização de custos, balancetes e balanços dos prestadores de serviços públicos delegados;<br>
+XI – analisar planos de contabilização de custos, balancetes e balanços dos prestadores de serviços públicos delegados;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XI – executar as atividades técnicas de contabilidade regulatória;~~
 
-XII – desenvolver, com as demais gerências finalísticas, estudos para a avaliação do comportamento dos parâmetros operacionais e dos indicadores econômico-financeiros dos serviços públicos delegados;<br>
+XII – desenvolver, com as demais gerências finalísticas, estudos para a avaliação do comportamento dos parâmetros operacionais e dos indicadores econômico-financeiros dos serviços públicos delegados;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XII – analisar e emitir parecer técnico pertinente à sua competência;~~
 
-XIII – desenvolver, com as demais gerências finalísticas, modelos de acompanhamento e controle do equilíbrio econômico-financeiro dos prestadores de serviços públicos delegados e buscar a modicidade das tarifas e o justo retorno dos seus investimentos;<br>
+XIII – desenvolver, com as demais gerências finalísticas, modelos de acompanhamento e controle do equilíbrio econômico-financeiro dos prestadores de serviços públicos delegados e buscar a modicidade das tarifas e o justo retorno dos seus investimentos;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XIII – acompanhar, em conjunto com as gerências finalísticas, os cálculos para os recebimentos de remunerações, retribuições pecuniárias e taxas de fiscalização, com a utilização de técnicas contábeis;~~
 
-XIV – examinar periódica e sistematicamente, com as demais gerências finalísticas, a consistência e a fidedignidade das informações dos prestadores de serviços públicos delegados em relação aos seus custos e à demanda dos usuários;<br>
+XIV – examinar periódica e sistematicamente, com as demais gerências finalísticas, a consistência e a fidedignidade das informações dos prestadores de serviços públicos delegados em relação aos seus custos e à demanda dos usuários;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XIV – fornecer subsídios, com a utilização de técnicas contábeis, à instrução de processos de cobranças e administrativos;~~
 
-XV – conceber, desenvolver e propor, para os serviços públicos delegados, metodologias de cálculo das tarifas e dos demais preços públicos, de reajuste e revisão tarifária, de revisão da estrutura ou da composição tarifária e demais estudos econômico-financeiros relacionados às tarifas e aos preços públicos;<br>
+XV – conceber, desenvolver e propor, para os serviços públicos delegados, metodologias de cálculo das tarifas e dos demais preços públicos, de reajuste e revisão tarifária, de revisão da estrutura ou da composição tarifária e demais estudos econômico-financeiros relacionados às tarifas e aos preços públicos;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XV – acompanhar, monitorar e auditar, com as gerências finalísticas, o desempenho econômico– financeiro dos prestadores de serviços públicos regulados, controlados e fiscalizados pela AGR;~~
 
-XVI – analisar as propostas de reajuste e revisão de tarifas e preços apresentados pelos prestadores de serviços públicos delegados;<br>
+XVI – analisar as propostas de reajuste e revisão de tarifas e preços apresentados pelos prestadores de serviços públicos delegados;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XVI – desenvolver, com as gerências finalísticas, estudos para a avaliação do comportamento dos parâmetros operacionais e indicadores econômico– financeiros dos serviços públicos delegados;~~
 
-XVII – acompanhar e exercer, com as gerências finalísticas, a fiscalização tarifária dos serviços públicos delegados;<br>
+XVII – acompanhar e exercer, com as gerências finalísticas, a fiscalização tarifária dos serviços públicos delegados;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XVII – desenvolver, com as gerências finalísticas, modelos de acompanhamento e controle do equilíbrio econômico– financeiro dos prestadores de serviços públicos delegados, buscar a modicidade das tarifas e o justo retorno de seus investimentos;~~
 
-XVIII – instruir os processos relativos à revisão e aos reajustes tarifários dos serviços públicos regulados;<br>
+XVIII – instruir os processos relativos à revisão e aos reajustes tarifários dos serviços públicos regulados;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XVIII – analisar planos de contabilização de custos, balancetes e balanços dos prestadores de serviços públicos delegados;~~
 
-XIX – elaborar, com a Gerência de Bens Desestatizados, as especificações técnicas que integrarão os editais de licitação e os respectivos atos de delegação de serviços públicos e bens desestatizados;<br>
+XIX – elaborar, com a Gerência de Bens Desestatizados, as especificações técnicas que integrarão os editais de licitação e os respectivos atos de delegação de serviços públicos e bens desestatizados;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XIX – promover, desenvolver e implementar, com as gerências finalísticas, novas tecnologias que facilitem o controle e a fiscalização dos serviços públicos delegados;~~
 
-XX – propor a contratação de serviços técnicos especializados referentes à sua atuação;<br>
+XX – propor a contratação de serviços técnicos especializados referentes à sua atuação;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XX – examinar, periódica e sistematicamente, com as gerências finalísticas, a consistência e fidedignidade das informações dos prestadores de serviços públicos delegados em relação aos seus custos e à demanda dos usuários;~~
 
-XXI – coordenar, executar e avaliar os convênios que lhe são específicos;<br>
+XXI – coordenar, executar e avaliar os convênios que lhe são específicos;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XXI – conceber, desenvolver e propor metodologia de reajuste e revisão tarifária dos serviços públicos delegados;~~
 
-XXII – promover, desenvolver e implementar, com as demais gerências finalísticas, novas tecnologias que facilitem o controle e a fiscalização dos serviços públicos delegados;<br>
+XXII – promover, desenvolver e implementar, com as demais gerências finalísticas, novas tecnologias que facilitem o controle e a fiscalização dos serviços públicos delegados;
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XXII – elaborar estudos e propor valores para as tarifas e os demais preços públicos utilizados na prestação dos serviços públicos delegados;~~
 
-~~XXIII – analisar a proposta de reajuste e revisão tarifária dos serviços públicos delegados;~~<br>
+~~XXIII – analisar a proposta de reajuste e revisão tarifária dos serviços públicos delegados;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, II.
 
-~~XXIV – analisar as solicitações de reajuste de tarifas e dos preços apresentados pelos prestadores de serviços públicos delegados;~~<br>
+~~XXIV – analisar as solicitações de reajuste de tarifas e dos preços apresentados pelos prestadores de serviços públicos delegados;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, II.
 
-~~XXV – acompanhar a evolução de práticas tarifárias;~~<br>
+~~XXV – acompanhar a evolução de práticas tarifárias;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, II.
 
-~~XXVI – realizar estudos relativos à composição tarifária e às propostas de revisão das tarifas;~~<br>
+~~XXVI – realizar estudos relativos à composição tarifária e às propostas de revisão das tarifas;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, II.
 
-~~XXVII – instruir os processos relativos à revisão e aos reajustes tarifários dos serviços públicos regulados;~~<br>
+~~XXVII – instruir os processos relativos à revisão e aos reajustes tarifários dos serviços públicos regulados;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, II.
 
-~~XXVIII – desenvolver e propor a metodologia de cálculo das tarifas e dos demais preços adequados à realidade dos serviços públicos delegados;~~<br>
+~~XXVIII – desenvolver e propor a metodologia de cálculo das tarifas e dos demais preços adequados à realidade dos serviços públicos delegados;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º., II
 
-~~XXIX – propor a contratação de serviços técnicos especializados referentes à sua atuação;~~<br>
+~~XXIX – propor a contratação de serviços técnicos especializados referentes à sua atuação;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, II.
 
-~~XXX – coordenar, executar e avaliar os convênios específicos da gerência;~~<br>
+~~XXX – coordenar, executar e avaliar os convênios específicos da gerência;~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, II.
 
-~~XXXI – acompanhar, monitorar e fiscalizar os serviços públicos delegados pelo Estado de Goiás pertinentes à sua competência; e~~<br>
+~~XXXI – acompanhar, monitorar e fiscalizar os serviços públicos delegados pelo Estado de Goiás pertinentes à sua competência; e~~
+
 \- [Revogado pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104), art. 2º, II.
 
-XXXII – encarregar-se de competências correlatas.<br>
+XXXII – encarregar-se de competências correlatas.
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~XXXII – encarregar-se de competências correlatas.~~
 
-Subseção V<br>
+Subseção V
+
 \- [Acrescida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 Da Gerência de Bens Desestatizados
 
-Art. 57-A. Compete à Gerência de Bens Desestatizados:<br>
+Art. 57-A. Compete à Gerência de Bens Desestatizados:
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-I – encarregar-se das atividades pertinentes à sua competência;<br>
+I – encarregar-se das atividades pertinentes à sua competência;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-II – executar atividades inerentes à cessão de bens e aos serviços delegados pelo Estado de Goiás, quando isso for estabelecido, na forma legal, pelo Conselho Estadual de Investimentos, Parcerias e Concessões;<br>
+II – executar atividades inerentes à cessão de bens e aos serviços delegados pelo Estado de Goiás, quando isso for estabelecido, na forma legal, pelo Conselho Estadual de Investimentos, Parcerias e Concessões;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-III – controlar e fiscalizar os atos contratuais e autorizadores de bens desestatizados, identificar as metas físicas e administrativas, além de outros compromissos assumidos;<br>
+III – controlar e fiscalizar os atos contratuais e autorizadores de bens desestatizados, identificar as metas físicas e administrativas, além de outros compromissos assumidos;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-IV – controlar e fiscalizar os empreendimentos de natureza socioeconômica objeto de desestatização com o acompanhamento técnico– operacional direto ou indireto;<br>
+IV – controlar e fiscalizar os empreendimentos de natureza socioeconômica objeto de desestatização com o acompanhamento técnico– operacional direto ou indireto;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-V – acompanhar, monitorar e auditar as prestações de contas dos terminais rodoviários de passageiros – TRP;<br>
+V – acompanhar, monitorar e auditar as prestações de contas dos terminais rodoviários de passageiros – TRP;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-VI – promover a notificação dos processos oriundos de termos de notificação e de autos de infração na área de bens e serviços desestatizados;<br>
+VI – promover a notificação dos processos oriundos de termos de notificação e de autos de infração na área de bens e serviços desestatizados;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-VII – analisar e emitir parecer técnico nos processos relativos à regulação, ao controle e à fiscalização das atividades de bens e serviços desestatizados;<br>
+VII – analisar e emitir parecer técnico nos processos relativos à regulação, ao controle e à fiscalização das atividades de bens e serviços desestatizados;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-VIII – aplicar penalidades, conforme a legislação, na área de bens desestatizados;<br>
+VIII – aplicar penalidades, conforme a legislação, na área de bens desestatizados;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-IX – também atuar na área de desestatização para:<br>
+IX – também atuar na área de desestatização para:
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-a) identificar e diagnosticar as oportunidades de negócios relativos aos serviços públicos passíveis de serem desestatizados;<br>
+a) identificar e diagnosticar as oportunidades de negócios relativos aos serviços públicos passíveis de serem desestatizados;
+
 \- [Acrescida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-b) elaborar estudos de viabilidade de novas concessões, permissões e autorizações de serviços públicos e preparar os respectivos processos com as informações técnicas, econômicas e financeiras para o exame e a deliberação da autoridade competente;<br>
+b) elaborar estudos de viabilidade de novas concessões, permissões e autorizações de serviços públicos e preparar os respectivos processos com as informações técnicas, econômicas e financeiras para o exame e a deliberação da autoridade competente;
+
 \- [Acrescida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-c) elaborar as especificações técnicas que integrarão os editais de licitação e os respectivos atos de delegação de serviços públicos e de bens a serem desestatizados;<br>
+c) elaborar as especificações técnicas que integrarão os editais de licitação e os respectivos atos de delegação de serviços públicos e de bens a serem desestatizados;
+
 \- [Acrescida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-d) estudar e propor modelos competitivos para a prestação dos serviços públicos delegados; e<br>
+d) estudar e propor modelos competitivos para a prestação dos serviços públicos delegados; e
+
 \- [Acrescida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-e) analisar e emitir parecer técnico nos processos relativos à regulação, ao controle e à fiscalização dos bens e dos serviços passíveis de desestatização;<br>
+e) analisar e emitir parecer técnico nos processos relativos à regulação, ao controle e à fiscalização dos bens e dos serviços passíveis de desestatização;
+
 \- [Acrescida pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-X – manter registros atualizados dos instrumentos contratuais e legais;<br>
+X – manter registros atualizados dos instrumentos contratuais e legais;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XI – analisar e emitir parecer técnico pertinente à sua competência;<br>
+XI – analisar e emitir parecer técnico pertinente à sua competência;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XII – promover, desenvolver e implementar novas tecnologias que facilitem o controle e a fiscalização dos serviços públicos delegados;<br>
+XII – promover, desenvolver e implementar novas tecnologias que facilitem o controle e a fiscalização dos serviços públicos delegados;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XIII – propor a contratação de serviços técnicos especializados referentes à sua atuação;<br>
+XIII – propor a contratação de serviços técnicos especializados referentes à sua atuação;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XIV – acompanhar e subsidiar a Gerência de Regulação Econômica para conceber, desenvolver e propor metodologia de reajuste e revisão tarifária nos TRPs e nos contratos de concessão de bens desestatizados;<br>
+XIV – acompanhar e subsidiar a Gerência de Regulação Econômica para conceber, desenvolver e propor metodologia de reajuste e revisão tarifária nos TRPs e nos contratos de concessão de bens desestatizados;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XV – coordenar, executar e avaliar os convênios que lhe forem específicos;<br>
+XV – coordenar, executar e avaliar os convênios que lhe forem específicos;
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XVI – acompanhar, monitorar e fiscalizar os serviços públicos delegados pelo Estado de Goiás pertinentes à sua competência; e<br>
+XVI – acompanhar, monitorar e fiscalizar os serviços públicos delegados pelo Estado de Goiás pertinentes à sua competência; e
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
-XVII – encarregar-se de competências correlatas.<br>
+XVII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 CAPÍTULO VII
@@ -2488,13 +2758,16 @@ XI – delegar atribuições do seu cargo com conhecimento prévio e expresso do
 
 XII – encarregar-se de outras atividades compatíveis com a sua posição e das determinadas pelo Conselheiro Presidente.
 
-Seção V<br>
-Dos Gerentes de Energia, de Transportes, de Saneamento Básico, de Regulação Econômica e de Bens Desestatizados<br>
+Seção V
+
+Dos Gerentes de Energia, de Transportes, de Saneamento Básico, de Regulação Econômica e de Bens Desestatizados
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~Dos Gerentes de Energia, de Transportes, de Saneamento Básico e de Regulação Econômica e Desestatização~~
 
-Art. 63. São atribuições específicas dos Gerentes de Energia, de Transportes, de Saneamento Básico, de Regulação Econômica e de Bens Desestatizados:<br>
+Art. 63. São atribuições específicas dos Gerentes de Energia, de Transportes, de Saneamento Básico, de Regulação Econômica e de Bens Desestatizados:
+
 \- [Redação dada pelo Decreto nº 10.747, de 1º-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111104/decreto-10747).
 
 ~~Art. 63. São atribuições específicas dos Gerentes de Energia, de Transportes, de Saneamento Básico e de Regulação Econômica e Desestatização:~~

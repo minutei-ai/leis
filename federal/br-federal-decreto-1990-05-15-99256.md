@@ -1,7 +1,3 @@
-1
-
-###DEC-099256-0-000-15-05-1990@@@
-
 DECRETO Nº 99.256, DE 15 DE MAIO DE 1990
 
 Revoga o Decreto nº 99.251, de 11 de maio de 1990.

@@ -1,5 +1,3 @@
-###DEL-007753-0-000-17-07-1945@@@
-
 DECRETO-LEI N. 7.753 – DE 17 DE JULHO DE 1945
 
 Cria função gratificada no Quadro Único do Ministério do Trabalho, Indústria e Comércio e dá outras providências

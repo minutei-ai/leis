@@ -1,5 +1,3 @@
-###DEC-059118-0-000-23-08-1966@@@
-
 DECRETO Nº 59.118, DE 23 DE AGôSTO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município do Rio Negro, Estado do Paraná.

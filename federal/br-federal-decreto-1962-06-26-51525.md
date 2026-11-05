@@ -1,5 +1,3 @@
-###DEC-051525-0-000-26-06-1962@@@
-
 Decreto nº 51.525, de 26 de junho de 1962.
 
 Estende a competência do Grupo de Trabalho instituído pelo Decreto nº 51.347, de 16 de novembro de 1961.

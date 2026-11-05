@@ -1,5 +1,3 @@
-###DEC-002346-0-000-10-10-1997@@@
-
 DECRETO Nº 2.346, DE 10 DE OUTUBRO DE 1997
 
 Consolida normas de procedimentos a serem observadas pela Administração Pública Federal em razão de decisões judiciais, regulamenta os dispositivos legais que menciona, e dá outras providências.

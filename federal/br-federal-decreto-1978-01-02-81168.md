@@ -1,5 +1,3 @@
-###DEC-081168-0-000-02-01-1978@@@
-
 Decreto nº 81 168, de 02 de janeiro de 1978.
 
 Concede à IBRATA-Indústria Brasileira de Granitos, Brita e Derivados S/A o direito de lavrar granito no Município de Rio de Janeiro, Estado do Rio de Janeiro.

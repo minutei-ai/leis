@@ -1,5 +1,3 @@
-###DEC-085280-0-000-22-10-1980@@@
-
 Decreto nº 85.280, de 22 de outubro de 1980
 
 Autoriza a transferência direta para a FUNDAÇÃO CULTURAL CELINAUTA, da concessão outorga à RÁDIO CELINAUTA LTDA., para execução de serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Pato Branco, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-081436-0-000-09-03-1978@@@
-
 Decreto nº 81.436, de 09 de março de 1978
 
 Altera a redação dos artigos 3º e 7º do Decreto nº 68.324, de 9 de março de 1971, que aprova o plano de regularização do rio Paraíba do Sul e dá outras providências.

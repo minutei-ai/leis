@@ -1,14 +1,12 @@
-###DEC-042559-0-000-04-11-1957@@@
+**DECRETO Nº 42.559, DE 4 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.559, DE 4 DE NOVEMBRO DE 1957.</strong>
+***Altera dispositivos do Regulamento do Serviço Social Rural.***
 
-<em><strong>Altera dispositivos do Regulamento do Serviço Social Rural.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe refere o artigo 87,item l da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe refere o artigo 87,item l da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O regulamento do Serviço Social Rural, aprovado pelo Decreto nº 39.319, de 5 de junho de 1956, passa a ter a seguinte redação.
+**Art**. 1º O regulamento do Serviço Social Rural, aprovado pelo Decreto nº 39.319, de 5 de junho de 1956, passa a ter a seguinte redação.
 
 Parágrafo único do art. 6º, ficará assim redigido:
 
@@ -60,7 +58,7 @@ l) supervisionar a cobrança das contribuições devidas ao S.S.R.;
 
 m) submeter ao C.N. até 15 de março, a prestação de contas do exercício anterior;
 
-n) conhecer dos conflitos entre os C.C. RR. e JJ. MM. e decidí-los, <em>ad-referendum</em> do C.N.
+n) conhecer dos conflitos entre os C.C. RR. e JJ. MM. e decidí-los, *ad-referendum* do C.N.
 
 O art. 21 passará a ter a seguinte redação:
 
@@ -80,14 +78,14 @@ d) coordenar o trabalho dos diferentes setores do S.S.R. e velar pelo fiel cumpr
 
 e) participar das reuniões do C.N., “podendo discutir os assuntos em pauta, sem direito a voto”.
 
-<strong>Art</strong>. 2º Fica prorrogada até 31 de dezembro de 1957 o prazo para apresentação, ao Presidente da República, do quadro de pessoal do S.S.R.
+**Art**. 2º Fica prorrogada até 31 de dezembro de 1957 o prazo para apresentação, ao Presidente da República, do quadro de pessoal do S.S.R.
 
-<strong>Art</strong>. 3º O Ministro de Estado dos Negócios da Agricultura fará republicar o regulamento do S.S.R., aprovado pelo Decreto nº 39.319, de 5-6 de 1956, com as alterações introduzidas por êste, dentro do prazo de 60 dias.
+**Art**. 3º O Ministro de Estado dos Negócios da Agricultura fará republicar o regulamento do S.S.R., aprovado pelo Decreto nº 39.319, de 5-6 de 1956, com as alterações introduzidas por êste, dentro do prazo de 60 dias.
 
-<strong>Art</strong>. 4º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 4 de novembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mario Meneghetti

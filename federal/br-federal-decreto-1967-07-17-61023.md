@@ -1,5 +1,3 @@
-###DEC-061023-0-000-17-07-1967@@@
-
 DECRETO Nº 61.023, DE 17 DE JULHO DE 1967.
 
 Declara de utilidade pública a “Associação Providência Nossa Senhora da Conceição”, com sede em Belo Horizonte, Estado de Minas Gerais.

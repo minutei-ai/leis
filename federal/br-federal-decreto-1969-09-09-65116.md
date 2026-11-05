@@ -1,5 +1,3 @@
-###DEC-065116-0-000-09-09-1969@@@
-
 DECRETO Nº 65.116 - de 9 de Setembro de 1969.
 
 Dispõe sôbre a autorização concedida ao Ministro da Fazenda para outorgar a garantia da União nas operações financeiras que mencionam.

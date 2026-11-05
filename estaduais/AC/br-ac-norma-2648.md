@@ -1,6 +1,10 @@
 > **LEI Nº 3.255, DE 06 DE JUNHO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 3.129, de 23 de maio de 2016, que dispõe sobre a criação do Programa Institucional de Bolsas a Educação Básica e Educação Profissional, da Secretaria de Estado de Educação e Esporte - SEE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 3.129, de 23 de maio de 2016, que dispõe sobre a criação do Programa Institucional de Bolsas a Educação Básica e Educação Profissional, da Secretaria de Estado de Educação e Esporte - SEE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

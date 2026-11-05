@@ -1,5 +1,3 @@
-###DEC-088978-0-000-09-11-1983@@@
-
 DECRETO Nº 88.978, DE 09 DE NOVEMBRO DE 1983
 
 Autoriza o aumento de potência da RÁDIO ITUPORANGA LTDA., na cidade de Ituporanga, Estado de Santa Catarina.

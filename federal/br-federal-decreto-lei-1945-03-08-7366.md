@@ -1,5 +1,3 @@
-###DEL-007366-0-000-08-03-1945@@@
-
 DECRETO-LEI N. 7.366 – DE 8 MARÇO DE 1945
 
 Dispõe sobre a elevação de capital dos estabelecimentos bancários em funcionamento e dá outras providencias

@@ -1,5 +1,3 @@
-###DEC-067677-0-000-30-11-1970@@@
-
 DECRETO Nº 67.677, DE 30 DE NOVEMBRO DE 1970.
 
 Decreta a intervenção federal nos serviços e instalações do pôrto de Salvador, no Estado da Bahia, e dá outras providências.

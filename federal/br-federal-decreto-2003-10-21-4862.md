@@ -1,5 +1,3 @@
-###DEC-004862-0-000-21-10-2003@@@
-
 DECRETO Nº 4.862,  DE 21 DE OUTUBRO DE 2003.
 
        Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999, e dá outras providências.
@@ -136,5 +134,6 @@ h) deixar a empresa de elaborar e manter atualizado perfil profissiográfico ab
 
         Brasília, 21 de outubro de 2003, 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Ricardo José Ribeiro Berzoini

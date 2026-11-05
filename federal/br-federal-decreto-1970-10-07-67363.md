@@ -1,5 +1,3 @@
-###DEC-067363-0-000-07-10-1970@@@
-
 DECRETO Nº 67.363, DE 07 de OUTUBRO DE 1970.
 
 Declara caduco o Decreto número 17.163, de 16 de novembro de 1944.

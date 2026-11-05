@@ -1,5 +1,3 @@
-###DEC-005144-0-000-16-07-2004@@@
-
 DECRETO Nº 5.144, DE 16 DE JULHO DE 2004.
 
        Regulamenta os §§ 1o, 2o e 3o do art. 303 da Lei no 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, no que concerne às aeronaves hostis ou suspeitas de tráfico de substâncias entorpecentes e drogas afins.
@@ -54,8 +52,12 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 16 de julho de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Márcio Thomaz Bastos<br>
-José Viegas Filho<br>
-Celso Luiz Nunes Amorim<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Márcio Thomaz Bastos
+
+José Viegas Filho
+
+Celso Luiz Nunes Amorim
+
 Jorge Armando Felix

@@ -1,5 +1,3 @@
-###DEC-003723-0-000-10-01-2001@@@
-
 DECRETO Nº 3.723, DE 10 DE JANEIRO DE 2001
 
 Acresce parágrafo ao art. 27 do Decreto nº 2.954, de 29 de janeiro de 1999, que estabelece regras para a redação de atos normativos de competência dos órgãos do Poder Executivo.

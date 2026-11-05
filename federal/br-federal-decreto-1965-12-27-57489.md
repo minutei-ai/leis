@@ -1,5 +1,3 @@
-###DEC-057489-0-000-27-12-1965@@@
-
 DECRETO Nº 57.489, DE 27 DE DEZEMBRO DE 1965.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional à operação de crédito que menciona.

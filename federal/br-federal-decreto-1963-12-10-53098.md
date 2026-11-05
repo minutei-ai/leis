@@ -1,5 +1,3 @@
-###DEC-053098-0-000-10-12-1963@@@
-
 DECRETO Nº 53.098, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Mineração Castor Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,7 +1,3 @@
-1
-
-###DEL-000926-0-000-10-10-1969@@@
-
 Decreto-lei nº 926, DE 10 DE OUTUBrO DE 1969
 
 Institui a Carteira de Trabalho e Previdência Social, altera dispositivos da Consolidação das Leis do Trabalho e do Estatuto do Trabalhador Rural, e dá outras providências.

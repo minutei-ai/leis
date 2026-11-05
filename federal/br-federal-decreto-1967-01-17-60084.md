@@ -1,5 +1,3 @@
-###DEC-060084-0-000-17-01-1967@@@
-
 Decreto nº 60.084, de 17 de janeiro de 1967.
 
 Cria o Consulado Honorário do Brasil em Tampico, México.

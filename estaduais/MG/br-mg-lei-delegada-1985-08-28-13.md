@@ -117,7 +117,3 @@ ANEXO ÚNICO DA LEI DELEGADA Nº 13, DE 28 DE AGOSTO DE 1985
 (a que se refere o art. 4º)
 
 I – No Quadro Específico de Provimento em Comissão 1 – No Grupo de Direção Superior (DS) CÓDIGO DENOMINAÇÃO SÍMBOLO DE VENCIMENTO Nº DE CARGO DS-01 DIRETOR I V-58 1 DS-02 DIRETOR II V-68 4 2 – No Grupo de Assessoramento (AS) CÓDIGO DENOMINAÇÃO SÍMBOLO DE VENCIMENTO Nº DE CARGOS AS-02 ASSESSOR II V-58 4 AS-03 ASSESSOR-CHEFE V-68 3 3 – No Grupo de Chefia (CH) CÓDIGO DENOMINAÇÃO SÍMBOLO DE VENCIMENTO Nº DE CARGOS CH-03 SUPERVISOR III V-45 1
-
-\---------------------------------------
-
-Data da última atualização: 28/7/2016.

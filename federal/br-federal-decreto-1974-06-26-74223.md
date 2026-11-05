@@ -1,5 +1,3 @@
-###DEC-074223-0-000-26-06-1974@@@
-
 DECRETO Nº 74.223, DE 26 DE JUNHO DE1974
 
 Concede autorização, em caráter permanente, à Fábrica de Celulose e Papel S.A. com sede no Município de Canela, Estado do Rio Grande do Sul, para funcionar aos domingos e nos dias feriados civis e religiosos, nos setores que menciona.

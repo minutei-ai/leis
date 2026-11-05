@@ -1,5 +1,3 @@
-###DEC-084015-0-000-19-09-1979@@@
-
 decreto nº 84.015, de 19 de setembro de 1979.
 
 Fixa a categoria e a precedência da Medalha "Mérito Marinheiro".

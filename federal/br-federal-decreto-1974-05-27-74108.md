@@ -1,5 +1,3 @@
-###DEC-074108-0-000-27-05-1974@@@
-
 DECRETO Nº 74.108, DE 27 DE MAIO DE 1974.
 
 Altera o Decreto nº 73.813, de 12 de março de 1974, que autorizou o funcionamento da Faculdade Católica de Ciências Humanas, mantida pela União Brasiliense de Educação e Cultura, com sede na cidade de Brasília, Distrito Federal.

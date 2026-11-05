@@ -1,5 +1,3 @@
-###DEL-005277-0-000-24-02-1943@@@
-
 DECRETO‑LEI N. 5.277 – DE 24 DE FEVEREIRO DE 1943
 
 Autoriza o levantamento de caução

@@ -1,5 +1,3 @@
-###DEC-057527-0-000-28-12-1965@@@
-
 DECRETO Nº 57.527, DE 28 DE DEZEMBRO DE 1965.
 
 Aplica ao pessoal do Lloyd Brasileiro, P.N., o aumento de que trata a Lei nº 4.863, de 29-11-65.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001270-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.270, DE 12 DE JANEIRO DE 1996.
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

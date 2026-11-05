@@ -1,5 +1,3 @@
-###DEC-079771-0-000-03-06-1977@@@
-
 DECRETO Nº 79.771, DE 3 DE JUNHO DE 1977
 
 Altera dispositivo do Regulamento para o Serviço de Documentação-Geral da Marinha, aprovado pelo Decreto nº 69.497, de 5 de novembro de 1971.

@@ -1,5 +1,3 @@
-###DEC-084641-0-000-22-04-1980@@@
-
 Decreto nº 84.641, de 22 de abril de 1980.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Espinharas de Patos Limitada, e autoriza transferência direta para a Fundação Cultural Nossa Senhora da Guia, que passará a executar Serviço de Radiodifusão Sonora em Onda Média, de âmbito regional, na cidade de Patos, Estado da Paraíba.

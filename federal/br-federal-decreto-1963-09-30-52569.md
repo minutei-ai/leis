@@ -1,5 +1,3 @@
-###DEC-052569-0-000-30-09-1963@@@
-
 DECRETO Nº 52.569, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza Centrais Elétricas de Minas Gerais S.A. a construir linha de transmissão.

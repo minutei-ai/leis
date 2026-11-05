@@ -1,14 +1,12 @@
-###DEC-039690-0-000-07-08-1956@@@
+**DECRETO Nº 39.690, DE 7 DE AGÔSTO DE 1956.**
 
-<strong>DECRETO Nº 39.690, DE 7 DE AGÔSTO DE 1956.</strong>
+***Suprime cargos extintos.***
 
-<em><strong>Suprime cargos extintos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 1º, alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 1º, alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos, no Quadro Suplementar do Ministério da Justiça e Negócios Interiores, os seguintes cargos extintos:
+**Art**. 1º Ficam suprimidos, no Quadro Suplementar do Ministério da Justiça e Negócios Interiores, os seguintes cargos extintos:
 
 a) na carreira de Arquivista, 1 (um) cargo na classe “I”, vago em virtude da promoção de Dulce Rodrigues de Queiroz Vieira;
 
@@ -22,10 +20,10 @@ e) na carreira de Guarda de Presidio, 2 (dois) cargos na classe “E”, vagos e
 
 f) na carreira de Motorista, 3 (três) cargos na classe “H” vagos em virtude da Promoção de Coraci Miranda, José Joaquim Fernades e José Lourenço da Silva.
 
-<strong>Art</strong>. 2º Revogam-se às disposições em contrário.
+**Art**. 2º Revogam-se às disposições em contrário.
 
 Rio de Janeiro, em 7 de agôsto de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos

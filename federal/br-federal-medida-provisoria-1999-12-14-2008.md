@@ -1,5 +1,3 @@
-###MPV-002008-0-000-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 2.008, DE 14 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamento, e dá outras providências.

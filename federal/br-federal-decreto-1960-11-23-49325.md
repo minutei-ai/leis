@@ -1,5 +1,3 @@
-###DEC-049325-0-000-23-11-1960@@@
-
 DECRETO Nº 49.325, DE 23 DE NOVEMBRO DE 1960.
 
 Aprova o Regulamento para a Estação Rádio da Marinha, em Brasília.

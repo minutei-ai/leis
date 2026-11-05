@@ -1,5 +1,3 @@
-###DEC-046956-0-000-02-10-1959@@@
-
 DECRETO Nº 46.956, DE 2 DE OUTUBRO DE 1959.
 
 Transfere da Prefeitura Municipal de Rio Grande para a Comissão Estadual de Energia Elétrica a concessão para produção e fornecimento de energia elétrica ao município de Rio Grande, Estado do Rio Grande do Sul.

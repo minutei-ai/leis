@@ -1,5 +1,3 @@
-###DEC-054339-0-000-29-09-1964@@@
-
 DECRETO Nº 54.339, DE 29 DE SETEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Messy da Silva Spirito a pesquisar mica e quartzo no município de Governador Valadares, Estado de Minas Gerais.

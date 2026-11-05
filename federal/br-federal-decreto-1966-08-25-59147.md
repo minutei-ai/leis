@@ -1,5 +1,3 @@
-###DEC-059147-0-000-25-08-1966@@@
-
 decreto nº 59.147, de 25 de agôsto de 1966.
 
 Concede autorização para funcionamento de curso.

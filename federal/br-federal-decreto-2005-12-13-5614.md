@@ -1,5 +1,3 @@
-###DEC-005614-0-000-13-12-2005@@@
-
 DECRETO Nº 5.614, DE 13 DE DEZEMBRO DE 2005.
 
 Dispõe sobre procedimentos fiscais no âmbito da Secretaria da Receita Previdenciária do Ministério da Previdência Social, e dá outras providências.

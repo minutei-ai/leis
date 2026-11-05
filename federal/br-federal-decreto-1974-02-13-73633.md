@@ -1,5 +1,3 @@
-###DEC-073633-0-000-13-02-1974@@@
-
 DECRETO Nº 73.633, DE 13 DE FEVEREIRO DE 1974.
 
 Declara de Utilidade pública e interesse Social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à implantação do Projeto de Irrigação "MOXOTÓ", no Estado de Pernambuco.

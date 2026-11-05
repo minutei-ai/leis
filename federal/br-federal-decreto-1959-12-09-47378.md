@@ -1,5 +1,3 @@
-###DEC-047378-0-000-09-12-1959@@@
-
 DECRETO Nº 47.378, DE 9 DE DEZEMBRO DE 1959
 
 Autoriza a Usina Termoelétrica de Figueira S.A. (UTELFA) a constituir garantia pignoratícia e hipotecária dos seus bens e instalações em favor do Banco Nacional do Desenvolvimento Econômico.

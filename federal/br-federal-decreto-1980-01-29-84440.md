@@ -1,5 +1,3 @@
-###DEC-084440-0-000-29-01-1980@@@
-
 DECRETO Nº 84.440, DE 29 DE JANEIRO DE 1980
 
 Suprime a Certidão de Tempo de Serviço para aposentadoria nos órgãos da Administração Federal direta e autarquias.

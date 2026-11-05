@@ -1,5 +1,3 @@
-###DEC-054227-0-000-01-09-1964@@@
-
 decreto nº 54.227, de 1 de setembro de 1964.
 
 Concede reconhecimento a cursos da Faculdade de Filosofia, Ciências e Letras Santa Marcelina, de Muriaé, Estado de Minas Gerais.

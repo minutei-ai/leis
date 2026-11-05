@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209775)<br>
-
 # DECRETO N° 68.725, DE 25 DE JULHO DE 2024
 
 ### _Altera a classificação institucional da Secretaria de Ciência, Tecnologia e Inovação nos Sistemas de Administração Financeira e Orçamentária do Estado._

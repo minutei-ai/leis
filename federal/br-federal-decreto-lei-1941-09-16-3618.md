@@ -1,5 +1,3 @@
-###DEL-003618-0-000-16-09-1941@@@
-
 DECRETO-LEI N. 3.618 – DE 16 DE SETEMBRO DE 1941
 
 Abre ao Ministério da Educação e Saude o crédito especial de réis 2.160:500$0, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-047955-0-000-23-03-1960@@@
-
 DECRETO Nº 47.955, DE 23 DE MARÇO DE 1960.
 
 Outorga concessão à Rádio Rio Limitada para instalar uma estação de radiotelevisão em Brasília.

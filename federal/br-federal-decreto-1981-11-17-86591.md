@@ -1,5 +1,3 @@
-###DEC-086591-0-000-17-11-1981@@@
-
 decreto nº 86.591, de 17 de novembro de 1981
 
 Autoriza a PETROBRÁS MINERAÇÃO S.A. - PETROMISA a proceder ao aumento do limite do seu capital social.

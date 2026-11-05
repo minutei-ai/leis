@@ -1,14 +1,12 @@
-###LEI-000336-0-000-17-08-1948@@@
+**LEI N. 336 – DE 17 DE AGÔSTO DE 1948**
 
-<strong>LEI N. 336 – DE 17 DE AGÔSTO DE 1948</strong>
-
-<em><strong>Abre, ao Congresso Nacional, o crédito suplementar de Cr$ 5.745.600,00, para ocorrer ao pagamento de subsídios e substituições.</strong></em>
+***Abre, ao Congresso Nacional, o crédito suplementar de Cr$ 5.745.600,00, para ocorrer ao pagamento de subsídios e substituições.***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-<strong>Art.</strong> 1º E’ aberto ao Congresso Nacional – Câmara dos Deputados – crédito suplementar de cinco milhões, setecentos e quarenta e cinco mil e seiscentos cruzeiros (Cr$ ...... 5.745.600,00), em refôrço da Verba 1 - Pessoal, do Anexo nº 2 – Congresso Nacional, do vigente Orçamento Geral da República (Lei nº 162, de 2 de dezembro de 1947), a saber:
+**Art.** 1º E’ aberto ao Congresso Nacional – Câmara dos Deputados – crédito suplementar de cinco milhões, setecentos e quarenta e cinco mil e seiscentos cruzeiros (Cr$ ...... 5.745.600,00), em refôrço da Verba 1 - Pessoal, do Anexo nº 2 – Congresso Nacional, do vigente Orçamento Geral da República (Lei nº 162, de 2 de dezembro de 1947), a saber:
 
 VERBA 1 – PESSOAL
 
@@ -24,14 +22,14 @@ Consignação V – Outras despesas com pessoal
 
 25 – Substituições:
 
-01 – Câmara dos Deputados...................................................................................................<u>100.000,00</u>
+01 – Câmara dos Deputados...................................................................................................100.000,00
 
-Total .................................................................................................................................... <u>5.745.600,00</u>
+Total .................................................................................................................................... 5.745.600,00
 
-<strong>Art.</strong> 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 17 de agôsto de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Corrêa e Castro

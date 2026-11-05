@@ -1,21 +1,19 @@
-###DEC-021822-0-000-05-09-1946@@@
+**DECRETO Nº 21.822, DE 05 DE SETEMBRO DE 1946.**
 
-<strong>DECRETO Nº 21.822, DE 05 DE SETEMBRO DE 1946.</strong>
+***Altera a lotação numérica do Ministério da Fazenda.***
 
-<em><strong>Altera a lotação numérica do Ministério da Fazenda.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica alterada a lotação numérica das repartições atendidas pelo Quadro Permanente do Ministério da Fazenda, para efeito de serem transferidos 2 cargos de Almoxarife para a lotação permanente da Divisão do Material, sendo tirado 1 cargo da Administração do Edifício e 1 do Laboratório Nacional de Análises.
 
-<strong>Art</strong>. 1º Fica alterada a lotação numérica das repartições atendidas pelo Quadro Permanente do Ministério da Fazenda, para efeito de serem transferidos 2 cargos de Almoxarife para a lotação permanente da Divisão do Material, sendo tirado 1 cargo da Administração do Edifício e 1 do Laboratório Nacional de Análises.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 5 de setembro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Gatão Vidigal

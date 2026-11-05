@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208740)<br>
-
 # DECRETO N° 68.049, DE 31 DE OUTUBRO DE 2023
 
 ### _Dá nova redação a dispositivo do Decreto n° 62.349, de 26 de dezembro de 2016, que dispõe sobre o programa de integridade e a área de conformidade a ser adotado por empresas controladas direta ou indiretamente pelo Estado de São Paulo, regulamentando a aplicação da Lei federal n° 13.303, de 30 de junho de 2016, e criando instâncias e procedimentos de fomento ao controle interno._

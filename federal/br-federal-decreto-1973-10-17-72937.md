@@ -1,5 +1,3 @@
-###DEC-072937-0-000-17-10-1973@@@
-
 DECRETO Nº 72.937, DE 17 de OUTUBRO DE 1973.
 
 Concede reconhecimento aos cursos de Química Industrial e Engenharia Química, ministrados pela Escola Superior de Química "Oswaldo Cruz", mantida pelo Instituto Educacional "Oswaldo Quirino", com sede na cidade de São Paulo, Estado de São Paulo.

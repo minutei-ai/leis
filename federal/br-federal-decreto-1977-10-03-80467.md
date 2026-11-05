@@ -1,5 +1,3 @@
-###DEC-080467-0-000-03-10-1977@@@
-
 DECRETO Nº 80.467, DE 3 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Vitória, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

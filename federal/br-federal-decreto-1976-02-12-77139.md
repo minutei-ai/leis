@@ -1,5 +1,3 @@
-###DEC-077139-0-000-12-02-1976@@@
-
 DECRETO Nº 77.139, dE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis das Faculdades Integradas Simonsen, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

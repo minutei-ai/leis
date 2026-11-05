@@ -1,5 +1,3 @@
-###DEC-045244-0-000-15-01-1959@@@
-
 DECRETO Nº 45.244, de 15 de janeiro de 1959.
 
 Autoriza o cidadão brasileiro Donosor de Oliveira a lavrar água mineral no município de Glicério, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-069275-0-000-23-09-1971@@@
-
 DECRETO Nº 69.275, DE 23 DE SETEMBRO DE 1971.
 
 Revoga decreto, aprova incorporação de emprêsa de energia elétrica no Estado de São Paulo, outorga concessão e dá outras providências.

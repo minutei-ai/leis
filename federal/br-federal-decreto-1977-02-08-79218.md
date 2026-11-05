@@ -1,5 +1,3 @@
-###DEC-079218-0-000-08-02-1977@@@
-
 DECRETO Nº 79.218, DE 8 DE FEVEREIRO DE 1997
 
 Concede reconhecimento ao curso de Geologia, da Universidade Federal do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095587-0-000-05-01-1988@@@
-
 DECRETO N° 95.587, DE 5 DE JANEIRO DE 1988
 
 Outorga concessão a J.M.B. Empreendimentos Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Gravatá, Estado de Pernambuco.

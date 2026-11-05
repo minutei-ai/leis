@@ -1,5 +1,3 @@
-###DEL-008801-0-000-23-01-1946@@@
-
 DECRETO-LEI N. 8.801 – DE 23 DE JANEIRO DE 1946
 
 Dispõe sôbre o Serviço de Estudos e Pesquisas sôbre, a Febre Amarela, mantido pelo Ministério da Educação em cooperação com a Fundação Rockefeller.

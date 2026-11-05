@@ -1,5 +1,3 @@
-###DEC-052615-A-000-03-10-1963@@@
-
 Decreto Nº 52.615-A, DE 3 DE OUTUBRO DE 1963.
 
 Dispõe sôbre o retôrno ao País de servidores em exercício na Delegacia do Tesouro Brasileiro no Exterior e na Contadoria Seccional junto àquela repartição.

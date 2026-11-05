@@ -1,5 +1,3 @@
-###DEC-086511-0-000-27-10-1981@@@
-
 DECRETO Nº 86.511, DE 27 DE OUTUBRO DE 1981.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e a República do Iraque sobre os usos pacíficos da energia nuclear.
@@ -108,4 +106,12 @@ ARTIGO XIII
 
 Feito em um texto original, em inglês.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:230.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL: Paulo Nogueira Batista</span></p></td><td style="width:189.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DO IRAQUE: A.K. Al-Hasim</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:230.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL: Paulo Nogueira Batista
+
+</td><td style="width:189.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DO IRAQUE: A.K. Al-Hasim
+
+</td></tr></tbody></table>

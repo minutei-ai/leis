@@ -1,5 +1,3 @@
-###DEC-050584-0-000-13-05-1961@@@
-
 DECRETO Nº 50.584, DE 13 DE MAIO DE 1961.
 
 Regula a aquisição de material por conta de recursos não distribuídos ao Departamento Federal de Compras.

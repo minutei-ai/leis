@@ -1,5 +1,3 @@
-###DEC-073035-0-000-30-10-1973@@@
-
 DECRETO Nº 73.035, DE 30 DE OUTUBRO DE 1973.
 
 Declara perempta a outorga deferida à Rádio Santa Fé Sociedade Limitada, para executar serviço de radiodifusão sonora em ondas médias na cidade de Santa Fé do Sul, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-007199-0-000-02-06-2010@@@
-
 DECRETO Nº 7.199, DE 2 DE JUNHO DE 2010.
 
 Transfere a cumulatividade da Embaixada do Brasil em Tbilissi, na República da Geórgia, para a Embaixada do Brasil em Ancara, na República da Turquia.

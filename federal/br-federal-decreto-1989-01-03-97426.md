@@ -1,5 +1,3 @@
-###DEC-097426-0-000-03-01-1989@@@
-
 DECRETO N° 97.426, DE 3 DE JANEIRO DE 1989
 
 Dispõe sobre o aumento do capital social da Financiadora de Estudos e Projetos - FINEP.

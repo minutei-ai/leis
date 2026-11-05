@@ -1,5 +1,3 @@
-###DEC-077693-0-000-27-05-1976@@@
-
 DECRETO Nº 77.693, DE 27 DE MAIO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Canoinhas Ltda, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Canoinhas, Estado de Santa Catarina.

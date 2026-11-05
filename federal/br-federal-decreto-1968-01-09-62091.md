@@ -1,5 +1,3 @@
-###DEC-062091-0-000-09-01-1968@@@
-
 DECRETO Nº 62.091, DE 9 DE JANEIRO DE 1968.
 
 Dá nova estrutura à Universidade Federal do Rio Grande do Norte.

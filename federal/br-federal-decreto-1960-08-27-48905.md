@@ -1,5 +1,3 @@
-###DEC-048905-0-000-27-08-1960@@@
-
 DECRETO Nº 48.905, DE 27 DE AGÔSTO DE 1960.
 
 Concede autorização para o funcionamento de cursos.

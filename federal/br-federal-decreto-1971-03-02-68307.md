@@ -1,5 +1,3 @@
-###DEC-068307-0-000-02-03-1971@@@
-
 DECRETO Nº 68.307, DE 2 DE MARÇO DE 1971.
 
 Reconhece o Curso de Matemática, da Faculdade de Filosofia, Ciências e Letras de Araraquara, no Estado de São Paulo.

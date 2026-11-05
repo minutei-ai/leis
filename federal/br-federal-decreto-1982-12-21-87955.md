@@ -1,5 +1,3 @@
-###DEC-087955-0-000-21-12-1982@@@
-
 DECRETO Nº 87.955, DE 21 DE DEZEMBRO DE 1982.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

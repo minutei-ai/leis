@@ -22,8 +22,10 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação, revogando-se as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia – GO, aos 11 de Dezembro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil

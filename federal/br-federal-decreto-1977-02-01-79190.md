@@ -1,5 +1,3 @@
-###DEC-079190-0-000-01-02-1977@@@
-
 Decreto nº 79.190, de 1º de fevereiro de 1977.
 
 Concede à Firma Individual Raymundo Alencar Drummond o direito de lavrar calcário no Município de Sete Lagoas, Estado de Minas Gerais.

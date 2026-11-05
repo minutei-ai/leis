@@ -1,5 +1,3 @@
-###DEC-080555-0-000-11-10-1977@@@
-
 DECRETO N° 80.555, DE 11 DE OUTUBRO DE 1977.
 
 Autoriza o Ministério da Fazenda a contratar operação externa e dá outras providências

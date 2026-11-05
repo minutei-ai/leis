@@ -1,5 +1,3 @@
-###DEL-001962-0-000-01-10-1982@@@
-
 # Decreto-lei nº 1.962, de 01 de outubrO de 1982.
 
 Dispõe sobre a retribuição dos professores do Magistério da Marinha e dá outras providências.

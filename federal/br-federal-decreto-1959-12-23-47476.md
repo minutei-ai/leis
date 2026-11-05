@@ -1,5 +1,3 @@
-###DEC-047476-0-000-23-12-1959@@@
-
 DECRETO Nº 47.476 DE 23 DE DEZEMBRO DE 1959.
 
 Prorroga o prazo a que se refere o artigo 4º do Decreto nº 43.101, de 24 de janeiro de 1958.

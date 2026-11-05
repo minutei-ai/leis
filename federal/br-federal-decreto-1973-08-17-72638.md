@@ -1,5 +1,3 @@
-###DEC-072638-0-000-17-08-1973@@@
-
 DECRETO Nº 72.638, DE 17 DE AGOSTO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, do Ministério dos Transportes para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e dá outras providências.

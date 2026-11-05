@@ -1,5 +1,3 @@
-###DEC-085963-0-000-04-05-1981@@@
-
 Decreto nº 85.963, de 04 de maio de 1981
 
 Autoriza o funcionamento do curso de Farmácia e Bioquímica, da Faculdade de Ciências Biológicas de Araras, com sede na cidade de Araras, Estado de São Paulo.

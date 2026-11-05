@@ -1,7 +1,3 @@
-1
-
-###DEC-099160-0-000-12-03-1990@@@
-
 DECRETO Nº 99.160, DE 12 DE MARCO DE 1990
 
 Outorga concessão à SOCIEDADE RÁDIO ALVORADA LTDA., para explorar Serviço Especial de Televisão por Assinatura (TVA), na região metropolitana de Belo Horizonte, Estado de Minas Gerais.

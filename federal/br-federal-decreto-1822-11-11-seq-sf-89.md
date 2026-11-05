@@ -1,5 +1,3 @@
-###DEC-000000-0-089-11-11-1822@@@
-
 DECRETO - DE 11 DE NOVEMBRO DE 1822
 
 Estende aos Militares das diversas Províncias do Império os soldos e gratificações que vencem os da Côrte.

@@ -1,5 +1,3 @@
-###DEL-004233-0-000-06-04-1942@@@
-
 DECRETO-LEI N. 4.233 – DE 6 DE ABRIL DE 1942
 
 Concede uma pensão especial aos filhos de um extranumerário-mensalista da Fábrica de Bonsucesso, vitimado em serviço, e dá outras providências

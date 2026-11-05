@@ -1,5 +1,3 @@
-###DEC-045121-0-000-29-12-1958@@@
-
 DECRETO Nº 45.121, DE 29 DE DEZEMBRO de 1958.
 
 Autoriza o cidadão brasileiro Fernando Maria Tinoco a pesquisar cassiterita no município de Manaus, Estado do Amazonas.

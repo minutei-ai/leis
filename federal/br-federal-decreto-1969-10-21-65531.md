@@ -1,5 +1,3 @@
-###DEC-065531-0-000-21-10-1969@@@
-
 DECRETO Nº 65.531 - DE 21 DE OUTUBRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro do Pessoal - Parte Especial - do Conselho Nacional de Telecomunicações (CONTEL), cargos originários dos extintos Lloyd Brasileiro - Patrimônio, Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal.

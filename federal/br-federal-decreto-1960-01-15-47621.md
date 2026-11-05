@@ -1,5 +1,3 @@
-###DEC-047621-0-000-15-01-1960@@@
-
 Decreto nº 47.621, de 15 de janeiro de 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumarário-mensalista do Instituto de Óleos para idêntica tabela da Escola Nacional de Agronomia e Veterinária, ambas do Ministério da Agricultura.

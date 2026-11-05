@@ -1,5 +1,3 @@
-###DEL-009223-0-000-02-05-1946@@@
-
 DECRETO-LEI N. 9.223 – DE 2 DE MAIO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ .. 114.813,60, para pagamento à Repartição Internacional do Trabalho.

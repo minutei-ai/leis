@@ -1,6 +1,10 @@
 > **LEI Nº 3.933, DE 07 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a instituição do Programa de Regularização de Débitos do Imposto sobre a Propriedade de Veículos Automotores - IPVA, da Taxa de Licenciamento, do Seguro Obrigatório de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres - DPVAT e das infrações de trânsito, denominado Veículo na Hora.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a instituição do Programa de Regularização de Débitos do Imposto sobre a Propriedade de Veículos Automotores - IPVA, da Taxa de Licenciamento, do Seguro Obrigatório de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres - DPVAT e das infrações de trânsito, denominado Veículo na Hora.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

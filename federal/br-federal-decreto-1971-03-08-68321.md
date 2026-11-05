@@ -1,5 +1,3 @@
-###DEC-068321-0-000-08-03-1971@@@
-
 Decreto nº 68.321, de 8 de março de 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal da Superintendência do Desenvolvimento da Pesca, cargos originários da extinta Divisão de Caça e Pesca, integrantes do Quadro de Pessoal do Ministério da Agricultura, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001557-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.557, DE 18 DE DEZEMBRO DE 1996.
 
 Concede subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais.

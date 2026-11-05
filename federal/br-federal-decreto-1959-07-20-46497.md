@@ -1,5 +1,3 @@
-###DEC-046497-0-000-20-07-1959@@@
-
 DECRETO Nº 46.497, DE 20 DE JULHO DE 1959.
 
 Transfere do Govêrno de Estado do Paraná para a Companhia Paranaense de Energia Elétrica a concessão para a produção e fornecimento de energia elétrica ao município de Paranaguá, Estado do Paraná.

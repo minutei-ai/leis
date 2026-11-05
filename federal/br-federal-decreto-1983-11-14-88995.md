@@ -1,5 +1,3 @@
-###DEC-088995-0-000-14-11-1983@@@
-
 decreto nº 88.995, de 14 de novembro 1983
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO NOSSA SENHORA DO ROCIO., para explorar serviço de radiodifusão sonora em onda média, na cidade de Curitiba, Estado do Paraná.

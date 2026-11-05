@@ -1,5 +1,3 @@
-###DEC-092204-0-000-24-12-1985@@@
-
 DecretO nº 92.204, de 24 de dezembro de 1985.
 
 Outorga ao Serviço Autônomo de Água e Esgoto de Jacareí concessão para captação de água do rio Paraíba do Sul, para abastecimento público, no Estado de São Paulo.

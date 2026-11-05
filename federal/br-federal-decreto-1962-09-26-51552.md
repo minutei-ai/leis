@@ -1,5 +1,3 @@
-###DEC-051552-0-000-26-09-1962@@@
-
 DECRETO Nº 51.552, DE 26 DE SETEMBRO DE 1962.
 
 Aprova Programa de Emergência do Ministério da Educação e Cultura para 1962.

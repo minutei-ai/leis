@@ -1,5 +1,3 @@
-###DEC-066464-0-000-20-04-1970@@@
-
 DECRETO Nº 66.464, DE 20 DE ABRIL DE 1970.
 
 Declara de utilidade pública a Inspetoria São João Bosco, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-070766-0-000-27-06-1972@@@
-
 decreto nº 70.766, de 27 de junho de 1972.
 
 Altera a redação do § 2º do artigo 164 do Regulamento Geral da Previdência Social, aprovado pelo Decreto nº 60.501, de 14 de março de 1967, acrescentando-lhe um § 3º.

@@ -1,5 +1,3 @@
-###DEC-061501-0-000-10-10-1967@@@
-
 DECRETO Nº 61.501, DE 10 DE OUTUBRO DE 1967.
 
 Autoriza a Light - Serviços de Eletrecidade S.A. a construir linha de transmissão.

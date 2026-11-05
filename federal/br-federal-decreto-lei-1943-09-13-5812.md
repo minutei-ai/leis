@@ -1,5 +1,3 @@
-###DEL-005812-0-000-13-09-1943@@@
-
 DECRETO-LEI N. 5.812 – DE 13 DE SETEMBRO DE 1943
 
 Cria os Territórios Federais do Amapá, do Rio Branco, do Guaporé, de Ponta Porã e do Iguassú

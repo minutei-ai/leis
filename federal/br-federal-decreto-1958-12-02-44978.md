@@ -1,5 +1,3 @@
-###DEC-044978-0-000-02-12-1958@@@
-
 DECRETO Nº 44.978, DE 2 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Roberto Jafet a lavrar carvão mineral no município de Criciúma, Estado de Santa Catarina.

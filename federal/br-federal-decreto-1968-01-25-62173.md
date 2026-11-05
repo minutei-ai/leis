@@ -1,5 +1,3 @@
-###DEC-062173-0-000-25-01-1968@@@
-
 DECRETO Nº 62.173, DE 25 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Congregação do Apostolado Católico (Irmãs Palotinas)” com sede em Santa Maria, Estado do Rio Grande do Sul.

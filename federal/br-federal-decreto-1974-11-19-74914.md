@@ -1,5 +1,3 @@
-###DEC-074914-0-000-19-11-1974@@@
-
 DECRETO Nº 74.914, DE 19 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessária à construção da subastação de Uirapuru, da Companhia Paulista de Força e Luz - CPFL, Estado de São Paulo.

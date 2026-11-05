@@ -1,5 +1,3 @@
-###DEC-050408-0-000-03-04-1961@@@
-
 DECRETO Nº 50.408, DE 3 DE ABRIL DE 1961.
 
 Da nova redação ao Art. 8º do Decreto nº 38.204, de 3 de novembro de 1955 e dá outras providências.

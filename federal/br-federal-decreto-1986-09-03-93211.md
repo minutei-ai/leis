@@ -1,5 +1,3 @@
-###DEC-093211-0-000-03-09-1986@@@
-
 DECRETO Nº 93.211, DE 03 DE SETEMBRO DE 1986
 
 Cria a Secretaria de Administração Pública da Presidência da República, extingue o Departamento Administrativo do Serviço Público, e dá outras providências.

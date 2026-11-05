@@ -1,5 +1,3 @@
-###DEC-068619-0-000-14-05-1971@@@
-
 DECRETO Nº 68.619, DE 14 DE MAIO DE 1971.
 
 Dispõe sôbre o recolhimento de diferenças de preços sôbre estoque de trigo e dá outras providências.

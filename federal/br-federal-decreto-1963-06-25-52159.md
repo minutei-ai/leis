@@ -1,5 +1,3 @@
-###DEC-052159-0-000-25-06-1963@@@
-
 DECRETO Nº 52.159, DE 25 DE JUNHO DE 1963.
 
 Cria função na Parte Permanente da Tabela Única de Extranumerário–mensalista do Ministério da Educação e Cultura e dá outras providências.

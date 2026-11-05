@@ -1,5 +1,3 @@
-###DEL-000074-0-000-21-11-1966@@@
-
 DECRETO-Lei Nº 74, DE 21 DE NOVEmbro de 1966
 
 Cria o Conselho Federal de Cultura e dá outras providências

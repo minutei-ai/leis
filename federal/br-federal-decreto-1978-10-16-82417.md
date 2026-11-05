@@ -1,5 +1,3 @@
-###DEC-082417-0-000-16-10-1978@@@
-
 Decreto nº 82 417, de 16 de outubro de 1978
 
 Concede à Companhia de Cimento Itambé o direito de lavrar calcário no Município de Campo Largo, Estado do Paraná.

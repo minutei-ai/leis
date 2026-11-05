@@ -1,5 +1,3 @@
-###DEC-055051-0-000-24-11-1964@@@
-
 DECRETO Nº 55.051, DE 24 DE NOVEMBRO DE 1964.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para produzir e distribuir energia elétrica no Município de Amargosa.

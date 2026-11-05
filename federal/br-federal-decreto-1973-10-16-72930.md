@@ -1,5 +1,3 @@
-###DEC-072930-0-000-16-10-1973@@@
-
 DECRETO Nº 72.930, DE 16 DE OUTUBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária á construção de subestação, no município de Santa Barbara d'Oeste - Estado de São Paulo.

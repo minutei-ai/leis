@@ -1,5 +1,3 @@
-###DEC-094921-0-000-22-09-1987@@@
-
 DECRETO N° 94.921, DE 22 DE SETEMBRO DE 1987
 
 Dá nova redação ao art. 37 do Decreto n° 83.079, de 23 de janeiro de 1979, que dispõe sobre o Regulamento de Movimentação de Oficiais e Praças do Exército.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001316-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.316, DE 9 DE FEVEREIRO DE 1996.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

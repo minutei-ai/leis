@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7b4cf415-adf2-4c8c-b54e-7bad602ee929/texto#nowhere)
 
-###DEL-001356-0-000-06-11-1974@@@
-
 # deCRETO-LEI Nº 1.356, DE 6 DE NOVEMBRO DE 1974
 
 Altera o Decreto-lei número 569, de 7 de maio de 1969, que concede isenção fiscal a empresas siderúrgicas e dá outras providências.

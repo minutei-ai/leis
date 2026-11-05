@@ -1,5 +1,3 @@
-###DEC-046335-0-000-30-06-1959@@@
-
 decreto nº 46.335, de 30 de junho de 1959.
 
 Cria o estandarte-distintivo para o 3º Batalhão de Engenharia de Combate.

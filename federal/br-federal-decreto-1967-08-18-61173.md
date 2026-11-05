@@ -1,5 +1,3 @@
-###DEC-061173-0-000-18-08-1967@@@
-
 Decreto nº 61.173, de 18 de agôsto de 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas a área de terreno que especifica, no município de Coremas, Estado da Paraíba.

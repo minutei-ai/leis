@@ -1,5 +1,3 @@
-###DEL-005516-0-000-24-05-1943@@@
-
 DECRETO‑LEI N. 5.516 – DE 24 DE MAIO DE 1943
 
 Estabelece, durante o estado de guerra, a obrigatoriedade do registo e a fis­calização das atividades e da organização de entidades objetivando assistência, orientação ou propaganda entre os trabalhadores e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-057854-0-000-24-02-1966@@@
-
 DECRETO Nº 57.854, DE 24 DE FEVEREIRO DE 1966.
 
 Retifica o Decreto nº 52.794, de 31 de outubro de 1963, que aprovou o enquadramento definitivo do Ministério da Educação e Cultura.
@@ -10,7 +8,17 @@ decreta:
 
 Art. 1º Fica retificado o Decreto nº 52.794, de 31 de outubro de 1963, que aprovou o enquadramento dos cargos, funções e empregos do Ministério da Educação e Cultura, na parte referente à Classe de Professor Catedrático, código EC-501 (artigo 75 da Lei nº 3.780, de 12 de julho de 1960), da Universidade Minas Gerais, Escola de Arquitetura, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>998</span></p></td><td style="width:376.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- ....................................................................................................................................</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>999</span></p></td><td style="width:376.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Francisco de Assis da Silva Brandão (interino)</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.000</span></p></td><td style="width:376.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- ....................................................................................................................................</span></p></td></tr></tbody></table>
+998
+
+- ....................................................................................................................................
+
+999
+
+- Francisco de Assis da Silva Brandão (interino)
+
+1.000
+
+- ....................................................................................................................................
 
 Art. 2º A retificação, a que se refere o artigo anterior, prevalecerá a partir de 1º de julho de 1960.
 

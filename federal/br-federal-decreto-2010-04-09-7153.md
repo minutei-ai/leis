@@ -1,5 +1,3 @@
-###DEC-007153-0-000-09-04-2010@@@
-
 DECRETO Nº 7.153, DE 9 DE ABRIL DE 2010.
 
 Dispõe sobre a representação e a defesa extrajudicial dos órgãos e entidades da administração federal junto ao Tribunal de Contas da União, por intermédio da Advocacia-Geral da União.

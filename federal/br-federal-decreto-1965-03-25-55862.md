@@ -1,5 +1,3 @@
-###DEC-055862-0-000-25-03-1965@@@
-
 Decreto nº 55.862, de 25 de março de 1965.
 
 Declara de interêsse social para fins de desapropriação áreas de terras situadas nos municípios de Lajedo, Igarassu e Paulista, no Estado de Pernambuco e dá outras providências.

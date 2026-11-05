@@ -1,5 +1,3 @@
-###DEC-074324-0-000-26-07-1974@@@
-
 DECRETO Nº 74.324 - DE 26 DE JULHO DE 1974.
 
 Aprova o Regulamento dos Parques de Material Bélico da Aeronáutica, denomina Parque de Material Bélico da Aeronáutica do Rio de Janeiro o atual Núcleo de Parque de Material Bélico do Galeão e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000905-0-000-21-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 905, DE 21 DE FEVEREIRO DE 1995
 
 Dispõe sobre a instituição de crédito fiscal, mediante ressarcimento do valor de contribuições sociais (PIS/Pasep e Confins) nos casos que especifica, e dá outras providências.

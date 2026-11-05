@@ -1,5 +1,3 @@
-###DEL-004316-0-000-21-05-1942@@@
-
 DECRETO-LEI N. 4.316 – DE 21 DE MAIO DE 1942
 
 Altera, sem aumento de despesa, o atual Orçamento do Ministério da Justiça e Negócios Interiores e abre os créditos suplementar, de 440:400$0, e especial, de 25:000$0, para a Penitenciária Central do Distrito Federal
@@ -16,11 +14,15 @@ Consignação II – Pessoal Extranumerário
 
 Subconsignação 05 – Mensalistas
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Passa de ..................................................................................................</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">16.063:600$0</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Para ..........................................................................................................</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">16.136:800$0</span></p></td></tr></tbody></table>
+Passa de ..................................................................................................    16.063:600$0
+
+Para ..........................................................................................................   16.136:800$0
 
 Subconsignação 06 – Diaristas
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Passa de ....................................................................................................... 4.122:800$0</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Para ............................................................................................................... 4.049:600$0</span></p></td></tr></tbody></table>
+Passa de ....................................................................................................... 4.122:800$0
+
+Para ............................................................................................................... 4.049:600$0
 
 Parágrafo único. Consequentemente, ficam feitas, nos respectivos quadros anexos, as seguintes alterações:
 
@@ -34,11 +36,11 @@ Onde se lê:
 
 00 – Pessoal Civil
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">II – Casa de Correção .............................................................................................................. 84:600$0</span></p></td></tr></tbody></table>
+II – Casa de Correção .............................................................................................................. 84:600$0
 
 Leia-se:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">II – Penitenciária Central do Distrito Federal........................................................................... 157:800$0</span></p></td></tr></tbody></table>
+II – Penitenciária Central do Distrito Federal........................................................................... 157:800$0
 
 Subconsignação 06 – Diaristas
 
@@ -46,11 +48,11 @@ Onde se lê:
 
 00 – Pessoal Civil
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">II – Casa de Correção ............................................................................................................. 202:800$0</span></p></td></tr></tbody></table>
+II – Casa de Correção ............................................................................................................. 202:800$0
 
 Leia-se:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">II – Penitenciária Central do Distrito Federal .......................................................................... 129:600$0</span></p></td></tr></tbody></table>
+II – Penitenciária Central do Distrito Federal .......................................................................... 129:600$0
 
 Art. 2º Fica aberto o crédito suplementar de 440:400$0 (quatrocentos e quarenta contos e quatrocentos mil réis), à Verba I – Pessoal, Consignação II – Pessoal Extranumerário, Subconsignação 05 – Mensalistas, 00 – Pessoal Civil, II – Penitenciária Central do Distrito Federal.
 

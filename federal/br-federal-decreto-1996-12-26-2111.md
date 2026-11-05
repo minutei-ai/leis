@@ -1,7 +1,3 @@
-1
-
-###DEC-002111-0-000-26-12-1996@@@
-
 DECRETO Nº 2.111, DE 26 DE DEZEMBRO DE 1996.
 
 Altera artigos do Decreto nº 81.240, de 20 de janeiro de 1978, e dá outras providências.

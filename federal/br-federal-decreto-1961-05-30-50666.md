@@ -1,5 +1,3 @@
-###DEC-050666-0-000-30-05-1961@@@
-
 DECRETO Nº 50.666, DE 30 DE MAIO DE 1961.
 
 Cria o conselho de Telecomunicações e dá outras providências.

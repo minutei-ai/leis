@@ -1,5 +1,3 @@
-###DEC-085622-0-000-07-01-1981@@@
-
 Decreto nº 85.622, de 07 de janeiro de 1981
 
 Autoriza o aumento do capital da Companhia Docas do Rio de Janeiro - CDRJ,

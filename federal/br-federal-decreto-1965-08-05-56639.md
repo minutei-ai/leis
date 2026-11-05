@@ -1,5 +1,3 @@
-###DEC-056639-0-000-05-08-1965@@@
-
 DECRETO Nº 56.639, DE 5 DE AGÔSTO DE 1965.
 
 Outorga à Centrais Elétricas do Rio das Contas S.A. concessão para distribuir energia elétrica.

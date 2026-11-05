@@ -1,5 +1,3 @@
-###DEC-054654-0-000-29-10-1964@@@
-
 DECRETO Nº 54.654, DE 29 DE OUTUBRO DE 1964.
 
 Retifica o Decreto nº 2.231, de 22 de janeiro de 1963.

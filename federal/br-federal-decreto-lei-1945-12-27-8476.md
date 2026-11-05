@@ -1,5 +1,3 @@
-###DEL-008476-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.476 – DE 27 DE DEZEMBRO DE 1945
 
 Fixa o término do prazo estabelecido no Decreto-lei nº 4.232, de 6 de abril do 1942.

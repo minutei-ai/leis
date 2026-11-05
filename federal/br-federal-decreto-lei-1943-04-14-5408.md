@@ -1,5 +1,3 @@
-###DEL-005408-0-000-14-04-1943@@@
-
 DECRETO‑LEI N. 5.408 – DE 14 DE ABRIL DE 1943
 
 Cria, junto à futura sede da Escola Nacional de Agronomia, no km. 47 da rodovia Rio‑São Paulo, um Aprendizado Agrícola subordinado à Superintendência do Ensino Agrícola e Veterinário do Ministério da Agricultura

@@ -1,5 +1,3 @@
-###DEC-045770-0-000-08-04-1959@@@
-
 Decreto nº 45.770, de 8 de abril de 1959.
 
 Dá nova redação ao artigo 28 do Regulamento do I.N.I.C. baixado com o Decreto nº 36.193, de 20-9-54.

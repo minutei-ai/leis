@@ -1,5 +1,3 @@
-###DEC-087947-0-000-20-12-1982@@@
-
 Decreto nº 87.947, de 20 de dezembro de 1982
 
 Autoriza a Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE a proceder ao aumento do seu Capital Social.

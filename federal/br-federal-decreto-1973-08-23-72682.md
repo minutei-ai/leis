@@ -1,5 +1,3 @@
-###DEC-072682-0-000-23-08-1973@@@
-
 DECRETO Nº 72.682, DE 23 DE AGOSTO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Aeronáutica, e dá outras providências.

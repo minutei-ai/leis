@@ -1,5 +1,3 @@
-###DEC-080114-0-000-10-08-1977@@@
-
 DECRETO Nº 80.114, DE 10 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à construção de uma pista de pouso e da estrada de acesso à futura Usina Hidroelétrica de Balbina, no rio Uatumã, nos Municípios de Silves, Itapiranga e Urucará, das Centrais Elétricas do Norte do Brasil S.A.- ELETRONORTE, no Estado do Amazonas.

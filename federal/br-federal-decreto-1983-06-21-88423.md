@@ -1,5 +1,3 @@
-###DEC-088423-0-000-21-06-1983@@@
-
 Decreto nº 88.423, de 21 de junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Marapé da ELETROPAULO - Eletricidade, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, tendo em vista o disposto de São Paulo S.A., no Estado de São Paulo.

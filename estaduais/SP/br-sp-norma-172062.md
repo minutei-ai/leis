@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/172062)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2013/compilacao-lei.complementar-1227-19.12.2013.html)
 
 # LEI COMPLEMENTAR N° 1.227, DE 19 DE DEZEMBRO DE 2013
@@ -7,11 +6,14 @@
 
 ### _Institui a Diária Especial por Jornada Extraordinária de Trabalho Policial Militar - DEJEM, aos integrantes da Polícia Militar do Estado, e dá providências correlatas_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:**<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:**
+
 Artigo 1° -** Fica instituída a Diária Especial por Jornada Extraordinária de Trabalho Policial Militar - DEJEM aos integrantes da Polícia Militar do Estado, em exercício nas Organizações Policiais Militares.
 
-~~§ 1° - A DEJEM corresponde a 8 (oito) horas contínuas de atividade operacional de polícia ostensiva, fora da jornada normal de trabalho policial, limitada à execução de, no máximo,~~<br>
+~~§ 1° - A DEJEM corresponde a 8 (oito) horas contínuas de atividade operacional de polícia ostensiva, fora da jornada normal de trabalho policial, limitada à execução de, no máximo,~~
+
 ~~10 (dez) diárias mensais.~~
 
 **§ 1° -** A DEJEM corresponde a 8 (oito) horas contínuas de atividades de polícia ostensiva e de preservação da ordem pública, da área de saúde, de bombeiros e de defesa civil, fora da jornada normal de trabalho policial, limitada à execução de, no máximo, 10 (dez) diárias mensais. (NR)
@@ -24,11 +26,14 @@ _\- § 1° com redação dada pela [Lei Complementar n° 1.287, de 26/04/2016](h
 
 _\- § 2° com redação dada pela [Lei Complementar n° 1.287, de 26/04/2016](https://www.al.sp.gov.br/norma/178040)._
 
-**Artigo 2° -** O valor unitário da DEJEM será calculado mediante aplicação de coeficientes sobre a Unidade Fiscal do Estado de São Paulo - UFESP, instituída pelo artigo 113 da Lei n° 6.374, de 1° de março de 1989, na seguinte conformidade:<br>
-**I -** para Oficiais: de 9,6 (nove inteiros e seis décimos);<br>
+**Artigo 2° -** O valor unitário da DEJEM será calculado mediante aplicação de coeficientes sobre a Unidade Fiscal do Estado de São Paulo - UFESP, instituída pelo artigo 113 da Lei n° 6.374, de 1° de março de 1989, na seguinte conformidade:
+
+**I -** para Oficiais: de 9,6 (nove inteiros e seis décimos);
+
 **II -** para Praças: de 8,0 (oito inteiros).
 
-~~Parágrafo único - O pagamento da DEJEM será efetivado até o segundo mês subsequente ao da atividade operacional de polícia ostensiva realizada, observado o limite de dias trabalhados~~<br>
+~~Parágrafo único - O pagamento da DEJEM será efetivado até o segundo mês subsequente ao da atividade operacional de polícia ostensiva realizada, observado o limite de dias trabalhados~~
+
 ~~no mês.~~
 
 **Parágrafo único -** O pagamento da DEJEM será efetivado até o segundo mês subsequente ao da atividade realizada, observando o limite de dias trabalhados no mês. (NR)
@@ -67,22 +72,38 @@ _\- Artigo 5° com redação dada pela [Lei Complementar n° 1.287, de 26/04/201
 
 _\- Artigo 6° com redação dada pela [Lei Complementar n° 1.287, de 26/04/2016](https://www.al.sp.gov.br/norma/178040)._
 
-**Artigo 7° -** As atividades e critérios a que serão submetidos os policiais militares, para fins de concessão da DEJEM, serão estabelecidos por portaria do Comandante-Geral da Polícia Militar. **<br>
+**Artigo 7° -** As atividades e critérios a que serão submetidos os policiais militares, para fins de concessão da DEJEM, serão estabelecidos por portaria do Comandante-Geral da Polícia Militar. **
+
 Artigo 8° -** A realização da DEJEM fica condicionada a autorização anual governamental, observada a disponibilidade orçamentária e financeira, ouvidas, previamente, as Secretarias da Fazenda e do Planejamento e Desenvolvimento Regional. 
 
-**Artigo 9° -** As despesas resultantes da aplicação desta lei complementar correrão à conta das dotações próprias consignadas no orçamento vigente.**<br>
-Artigo 10 -** Esta lei complementar entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 1° de janeiro de 2014.<br>
-Palácio dos Bandeirantes, 19 de dezembro de 2013.<br>
-GERALDO ALCKMIN<br>
-Fernando Grella Vieira<br>
-Secretário da Segurança Pública<br>
-Andrea Sandro Calabi<br>
-Secretário da Fazenda<br>
-Júlio Francisco Semeghini Neto<br>
-Secretário de Planejamento e Desenvolvimento Regional<br>
-David Zaia<br>
-Secretário de Gestão Pública<br>
-Edson Aparecido dos Santos<br>
-Secretário-Chefe da Casa Civil<br>
-Publicada na Assessoria Técnico-Legislativa, aos 19 de<br>
+**Artigo 9° -** As despesas resultantes da aplicação desta lei complementar correrão à conta das dotações próprias consignadas no orçamento vigente.**
+
+Artigo 10 -** Esta lei complementar entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 1° de janeiro de 2014.
+
+Palácio dos Bandeirantes, 19 de dezembro de 2013.
+
+GERALDO ALCKMIN
+
+Fernando Grella Vieira
+
+Secretário da Segurança Pública
+
+Andrea Sandro Calabi
+
+Secretário da Fazenda
+
+Júlio Francisco Semeghini Neto
+
+Secretário de Planejamento e Desenvolvimento Regional
+
+David Zaia
+
+Secretário de Gestão Pública
+
+Edson Aparecido dos Santos
+
+Secretário-Chefe da Casa Civil
+
+Publicada na Assessoria Técnico-Legislativa, aos 19 de
+
 dezembro de 2013.

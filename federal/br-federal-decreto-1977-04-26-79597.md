@@ -1,5 +1,3 @@
-###DEC-079597-0-000-26-04-1977@@@
-
 Decreto nº 79.597, de 26 de abril de 1977.
 
 Concede a Cia. Catarinense de Cimento Portland o direito de lavrar calcário no Município de Camboriú, Estado de Santa Catarina.

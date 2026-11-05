@@ -1,5 +1,3 @@
-###DEC-044902-0-000-27-11-1958@@@
-
 Decreto nº 44.902, de 27 de novembro de 1958.
 
 Dá nova redação ao art. 3º do Decreto nº 38.412, de 26 de dezembro de 1955.

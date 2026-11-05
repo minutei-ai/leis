@@ -1,5 +1,3 @@
-###DEC-045326-0-000-27-01-1959@@@
-
 decreta nº 45.326, de 27 de janeiro de 1959.
 
 Autoriza Th. Badin de Minérios Limitada a pesquisar cassiterita nos municípios de Piatã e Rio de Contas, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-006569-0-000-08-06-1944@@@
-
 DECRETO-LEI N. 6.569 – DE 8 DE JUNHO DE 1944
 
 Determina a exibição de títulos pelos ocupantes de terras e florestas pertencentes à União e dá outras providências

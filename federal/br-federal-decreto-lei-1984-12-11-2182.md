@@ -1,5 +1,3 @@
-###DEL-002182-0-000-11-12-1984@@@
-
 # Decreto-lei nº 2.182, de 11 de dezembro de 1984
 
 Altera a Legislação do Imposto de Renda.

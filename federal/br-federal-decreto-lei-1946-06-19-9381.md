@@ -1,5 +1,3 @@
-###DEL-009381-0-000-19-06-1946@@@
-
 DECRETO-LEI N. 9.381 – DE 19 DE JUNHO DE 1946
 
 Cria os Comandos de Artilharia Divisionária das 2ª, 5ª e 7ª Divisões de Infantaria.

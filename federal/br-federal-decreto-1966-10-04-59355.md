@@ -1,5 +1,3 @@
-###DEC-059355-0-000-04-10-1966@@@
-
 Decreto nº 59.355, de 4 de outubro de 1966.
 
 Institui no Ministério da Educação e Cultura a Comissão do Livro Técnico e do Livro Didático (COLTED) e revoga o Decreto número 58.653-66.

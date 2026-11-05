@@ -1,5 +1,3 @@
-###DEC-087387-0-000-12-07-1982@@@
-
 DECRETO nº 87.387, de 12 de julho 1982
 
 Autoriza a Telecomunicações Brasileiras S.A. - TELEBRÁS e suas controladas a promoverem aumento de capital social.

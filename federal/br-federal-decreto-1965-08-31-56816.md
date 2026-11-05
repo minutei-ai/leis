@@ -1,5 +1,3 @@
-###DEC-056816-0-000-31-08-1965@@@
-
 DECRETO Nº 56.816, DE 31 DE AGÔSTO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da Sul América Capitalização, S.A., relativa ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-079961-0-000-14-07-1977@@@
-
 DECRETO Nº 79.961, DE 14 DE JULHO DE 1977
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Guarujá II, da Centrais Elétricas de São Paulo S. A. - CESP, no Estado de São Paulo.

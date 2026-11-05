@@ -1,5 +1,3 @@
-###DEC-087645-0-000-24-09-1982@@@
-
 Decreto nº 87.645, de 24 de setembro de 1982.
 
 Cria a Embaixada do Brasil em Rangum, República Socialista da União da Birmânia.

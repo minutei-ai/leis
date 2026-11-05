@@ -1,5 +1,3 @@
-###DEC-058312-0-000-02-05-1966@@@
-
 decreto nº 58.312, de 2 de maio de 1966.
 
 Declara de utilidade pública a “Casa da Criança Dr. Augusto Duprat” com sede em Rio Grande, Estado do Rio Grande do Sul.

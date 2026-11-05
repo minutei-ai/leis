@@ -1,5 +1,3 @@
-###DEC-064777-0-000-03-07-1969@@@
-
 decreto nº 64.777 - de 3 de julho de 1969.
 
 Institui a Comissão de Coordenação das Inspetorias-Gerais de Finanças.

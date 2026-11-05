@@ -1,5 +1,3 @@
-###DEL-006351-0-000-17-03-1944@@@
-
 DECRETO-LEI N. 6.351 – DE 17 DE MARÇO DE 1944
 
 Prorroga até 21 de março de 1946 o prazo a que se refere o artigo único do Decreto-lei nº 4 122, de 21 de fevereiro de 1942

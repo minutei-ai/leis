@@ -1,5 +1,3 @@
-###DEC-053547-0-000-06-02-1964@@@
-
 DECRETO nº 53.547, de 6 de fevereiro de 1964.
 
 Aprova alteração introduzida nos Estatutos da Companhia de Seguros América do Sul, relativa ao aumento dos honorários da Diretoria.

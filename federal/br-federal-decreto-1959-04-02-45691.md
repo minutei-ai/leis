@@ -1,5 +1,3 @@
-###DEC-045691-0-000-02-04-1959@@@
-
 DECRETO Nº 45.691, DE 2 DE ABRIL DE 1959.
 
 Dispõe sôbre a lotação de servidores cedidos à R.F.S.A.

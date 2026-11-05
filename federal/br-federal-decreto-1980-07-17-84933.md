@@ -1,5 +1,3 @@
-###DEC-084933-0-000-17-07-1980@@@
-
 decreto nº 84.933 de 17 de julho de 1980
 
 Declara perempta a concessão outorgada à Rádio Televisão Piratini Sociedade Anônima, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Porto Alegre, Estado do Rio Grande do Sul.

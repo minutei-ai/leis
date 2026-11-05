@@ -1,5 +1,3 @@
-###DEC-070259-0-000-08-03-1972@@@
-
 DECRETO Nº 70.259, DE 8 DE MARÇO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão a ser construída no Estado do Rio de Janeiro.

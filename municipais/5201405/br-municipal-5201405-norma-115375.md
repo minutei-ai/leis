@@ -4,7 +4,8 @@ Estima a receita e fixa a despesa do município de Aparecida de Goiânia – GO 
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1° Esta Lei estima a receita e fixa a despesa do Município de Aparecida de Goiânia para o exercício financeiro de 2022, nos termos do art. 165, §5º, da Constituição Federal de 1988, e do art. 6º da Lei de Diretrizes Orçamentárias para 2022, no montante de R$ 1.866.550.227,00 (um bilhão, oitocentos e sessenta e seis milhões e quinhentos e cinquenta mil duzentos e vinte e sete reais), compreendendo:
@@ -13,22 +14,26 @@ I - Orçamento Fiscal referente aos Poderes do Município, Órgãos, Fundos inst
 
 II - Orçamento da Seguridade Social, abrangendo todos os Órgãos a eles vinculados, Fundos instituídos e mantidos pelo Poder Público Municipal e Entidades a Administração Direta e Indireta.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
-Seção I<br>
+Seção I
+
 DA ESTIMATIVA DA RECEITA
 
 Art. 2° A Receita Total do exercício de 2022 foi estimada para suportar os Orçamentos Fiscal e da Seguridade Social em R$ 1.866.550.227,00 (um bilhão, oitocentos e sessenta e seis milhões e quinhentos e cinquenta mil duzentos e vinte e sete reais), a preços correntes e conforme a legislação vigente.
 
 Art. 3° A Receita será arrecadada nos termos da legislação vigente e das especificações dos quadros integrantes desta Lei, observado os desdobramentos decorrentes da arrecadação de tributos, contribuições e de outras receitas correntes e de capital, previstas na legislação vigente, que são discriminados por categoria econômica e fonte de recursos.
 
-Seção II<br>
+Seção II
+
 DA FIXAÇÃO DA DESPESA
 
 Art. 4º A Despesa Total está fixada R$ 1.866.550.227,00 (um bilhão, oitocentos e sessenta e seis milhões e quinhentos e cinquenta mil duzentos e vinte e sete reais)
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA AUTORIZAÇÃO PARA ABERTURA DE CRÉDITOS ADICIONAIS
 
 Art. 5º Fica o Poder Executivo autorizado a abrir por decreto, créditos adicionais suplementares até 100% (cem por cento) do limite estabelecido no art. 24, inciso I, da Lei de Diretrizes Orçamentaria em curso, observado o
@@ -47,12 +52,14 @@ IV – anulação de valor alocado na reserva de contingência, observado o art.
 
 V – repasse de recursos financeiros através de transferências financeiras recebidas de convênios, contratos, ajustes ou acordos firmados com órgãos federais, estaduais e municipais.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS OPERAÇÕES DE CRÉDITO
 
 Art. 7º Fica o Poder Executivo municipal autorizado a realizar operações de créditos por antecipação de receita, com a finalidade de manter o equilíbrio orçamentário financeiro do Município observadas as condições estabelecidas no art. 7º, inciso II, da Lei Federal nº 4.320/1964, e art. 38, da Lei Complementar n° 101/2000 - LRF, e os preceitos legais aplicáveis à matéria.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 8º O Chefe do Poder Executivo, nos termos da Lei de Diretrizes Orçamentaria em curso, adotará parâmetros para utilização dos recursos orçamentários de forma a compatibilizar as despesas à efetiva realização das receitas, visando o cumprimento das metas de resultado primário.
@@ -95,7 +102,8 @@ XVI - Quadro Demonstrativo Das Dotações Por Órgão De Governo
 
 XVII - Despesas Orçada Até O Nível De Fonte
 
-Art. 11. Esta lei entrará em vigor a partir da data de sua publicação retroagindo seus efeitos a 01 de janeiro de 2022.<br>
+Art. 11. Esta lei entrará em vigor a partir da data de sua publicação retroagindo seus efeitos a 01 de janeiro de 2022.
+
 (Redação alterada pela Lei Ordinária nº 3.684, de 9 de novembro de 2022).
 
 ~~Art. 11 Esta Lei entrará em vigor na data de sua aprovação.~~
@@ -104,8 +112,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 02 de março DE 2022.
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

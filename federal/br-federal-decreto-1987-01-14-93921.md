@@ -1,5 +1,3 @@
-###DEC-093921-0-000-14-01-1987@@@
-
 DECRETO N° 93.921, DE 14 DE JANEIRO DE 1987
 
 Altera a redação do Decreto n° 93.613, de 21 de novembro de 1986, que extingue órgãos do Ministério da Educação e dá outras providências.

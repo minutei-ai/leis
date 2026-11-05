@@ -1,5 +1,3 @@
-###DEC-071201-0-000-04-10-1972@@@
-
 DECRETO Nº 71.201 - DE 4 DE OUTUBRO DE 1972.
 
 Autoriza a transferência para o patrimônio do SERPRO, do terreno que menciona, situado em Curitiba, no Estado do Paraná.

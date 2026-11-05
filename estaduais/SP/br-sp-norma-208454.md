@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208454)<br>
-
 # DECRETO N° 67.907, DE 29 DE AGOSTO DE 2023
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Trincheiras de Eleutério", instituída pelo Núcleo Base MMDC de Itapira "Luz da Pátria", da Sociedade Veteranos de 32 MMDC e dá providências correlatas._

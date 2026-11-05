@@ -1,5 +1,3 @@
-###DEC-094837-0-000-03-09-1987@@@
-
 DECRETO Nº 94.837, DE 3 DE SETEMBRO DE 1987.
 
 Renova a concessão outorgada à RÁDIO JORNAL DE NHANDEARA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Nhandeara, Estado de São Paulo.

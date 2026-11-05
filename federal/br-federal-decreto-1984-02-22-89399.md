@@ -1,5 +1,3 @@
-###DEC-089399-0-000-22-02-1984@@@
-
 Decreto nº 89.399, de 22 de fevereiro de 1984
 
 Dispõe sobre o montante do Capital Social da companhia Hidro Elétrica do São Francisco - CHESF.

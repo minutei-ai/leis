@@ -1,7 +1,3 @@
-1
-
-###DEL-002370-0-000-17-11-1987@@@
-
 # DECRETO-LEI Nº 2.370, DE 17 DE NOVEMBRO DE 1987.
 
 Institui Programa Trienal de Aperfeiçoamento da Arrecadação das Receitas Tributárias do Distrito Federal, e dá outras providências.

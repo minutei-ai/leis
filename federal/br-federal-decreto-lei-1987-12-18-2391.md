@@ -1,5 +1,3 @@
-###DEL-002391-0-000-18-12-1987@@@
-
 # DECRETO-LEI Nº 2.391, DE 18 DE DEZEMBRO DE 1987.
 
 Dá nova redação aos incisos II, III e IV do art. 6º da Lei nº 5.143, de 20-10-66, e dá outras providências.

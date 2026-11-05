@@ -1,5 +1,3 @@
-###DEC-068326-0-000-09-03-1971@@@
-
 DECRETO Nº 68.326, DE 9 DE MARÇO DE 1971.
 
 Autoriza o funcionamento do Curso de Licenciatura em Desenho e Plástica da Faculdade de Belas Artes de São Paulo.

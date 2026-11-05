@@ -1,5 +1,3 @@
-###DEC-002762-0-000-31-08-1998@@@
-
 DECRETO Nº 2.762, DE 31 DE AGOSTO DE 1998
 
 Dispõe sobre a renegociação de obrigações financeiras relativas à liquidação de Operações de Empréstimos do Governo Federal - EGF, vencidas e prorrogadas a partir de 1991.

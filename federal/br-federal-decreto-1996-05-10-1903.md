@@ -1,5 +1,3 @@
-###DEC-001903-0-000-10-05-1996@@@
-
 DECRETO Nº 1.903, DE 10 DE MAIO DE 1996.
 
 Dispõe sobre as consignações em folha de pagamento de servidores públicos civis da Administração Federal direta, autárquica e fundacional e dá outras providências.

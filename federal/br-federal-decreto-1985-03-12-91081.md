@@ -1,5 +1,3 @@
-###DEC-091081-0-000-12-03-1985@@@
-
 Decreto nº 91.081, de 12 de março de 1985
 
 Introduz parágrafo único ao artigo 19 do Decreto nº 70.731, de 19 de junho de 1972.

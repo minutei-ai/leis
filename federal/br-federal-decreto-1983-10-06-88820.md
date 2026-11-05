@@ -1,5 +1,3 @@
-###DEC-088820-0-000-06-10-1983@@@
-
 DECRETO Nº 88.820, DE 06 DE OUTUBro DE 1983
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Gleba São Francisco", situado no Município de Poxoréo, no Estado de Mato Grosso, e compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 88.819, de 06 de outubro de 1983.

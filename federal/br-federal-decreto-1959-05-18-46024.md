@@ -1,5 +1,3 @@
-###DEC-046024-0-000-18-05-1959@@@
-
 DECRETO N. 46.024 – DE 18 DE MAIO DE 1959
 
 Autoriza o cidadão brasileiro Renato de Araújo a pesquisar areias ilmeniticas no município de Barreirinhas, Estado do Maranhão.

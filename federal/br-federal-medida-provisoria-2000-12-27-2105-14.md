@@ -1,5 +1,3 @@
-###MPV-002105-0-014-27-12-2000@@@
-
 medida provisória nº 2.105-14, de 27 de dezembro de 2000.
 
 Altera e acresce dispositivo à Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, e dá outras providências.

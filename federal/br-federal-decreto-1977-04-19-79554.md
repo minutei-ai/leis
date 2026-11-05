@@ -1,5 +1,3 @@
-###DEC-079554-0-000-19-04-1977@@@
-
 DECRETO Nº 79.554, DE 19 DE ABRIL DE 1977.
 
 Dispõe sobre o cargo de Diretor do Centro de Controle de Estoque de Material e dá outras providências.

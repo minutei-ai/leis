@@ -1,5 +1,3 @@
-###DEC-079069-0-000-30-12-1976@@@
-
 DECRETO Nº 79.069, DE 30 DE DEZEMBRO DE 1976
 
 Concede reconhecimento ao curso de Ciências Contábeis, do Instituto de Ensino superior Santo André, com sede na cidade de Santo André, Estado de São Paulo.

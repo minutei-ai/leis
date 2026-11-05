@@ -1,5 +1,3 @@
-###DEC-052203-0-000-28-06-1963@@@
-
 DECRETO Nº 52.203, DE 28 DE JUNHO DE 1963.
 
 Declara de utilidade pública a associação Casa Da Esperança, com sede em Santos, Estado de São Paulo.

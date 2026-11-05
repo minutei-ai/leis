@@ -1,5 +1,3 @@
-###DEL-005317-0-000-11-03-1943@@@
-
 DECRETO‑LEI N. 5.317 – DE 11 DE MARÇO DE 1943
 
 Modifica a incidência do imposto de consumo sobre a aguardente e o calçado e dá outras, providências
@@ -10,7 +8,21 @@ decreta:
 
 Art. 1º O imposto de consumo sobre aguardente, a que se refere a artigo 4º do decreto‑lei n. 4.878, de 27 de outubro de 1942, passará a ser cobrado do seguinte modo:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:56.7pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Por meia garrafa ............................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,16</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Por meio litro .................................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,24</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Por garrafa ....................................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,32</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Por litro ..........................................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,48</span></p></td></tr></tbody></table>
+Por meia garrafa ............................................................................................
+
+Cr$  0,16
+
+Por meio litro .................................................................................................
+
+Cr$  0,24
+
+Por garrafa ....................................................................................................
+
+Cr$  0,32
+
+Por litro ..........................................................................................................
+
+Cr$  0,48
 
 Parágrafo único. Fica restabelecido, em relação à aguardente, o regime do art. 81, parágrafo único, do decreto‑lei n. 739, de 24 de setembro de 1938.
 
@@ -18,7 +30,49 @@ Art. 2º As taxas consignadas no decreto‑lei n. 828, de 1 de novembro de 1938,
 
 I – Nacionais:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:56.7pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Até o preço de Cr$ 5,00 ................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>0,10</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais</span><span style="-aw-import:spaces">&nbsp; </span><span>de Cr$ 5,00</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>até</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>12,00 .........................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>0,30</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais</span><span style="-aw-import:spaces">&nbsp; </span><span>de Cr$ 12,00</span><span style="-aw-import:spaces">&nbsp; </span><span>até</span><span style="-aw-import:spaces">&nbsp; </span><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>20,00 .........................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>0,60</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais</span><span style="-aw-import:spaces">&nbsp; </span><span>de Cr$ 20,00</span><span style="-aw-import:spaces">&nbsp; </span><span>até</span><span style="-aw-import:spaces">&nbsp; </span><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>30,00 .........................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>1,00</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais</span><span style="-aw-import:spaces">&nbsp; </span><span>de Cr$ 30,00</span><span style="-aw-import:spaces">&nbsp; </span><span>até</span><span style="-aw-import:spaces">&nbsp; </span><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>50,00 .........................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>2,00</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais</span><span style="-aw-import:spaces">&nbsp; </span><span>de Cr$ 50,00</span><span style="-aw-import:spaces">&nbsp; </span><span>até</span><span style="-aw-import:spaces">&nbsp; </span><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>75,00 .........................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>3,00</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais</span><span style="-aw-import:spaces">&nbsp; </span><span>de Cr$ 75,00</span><span style="-aw-import:spaces">&nbsp; </span><span>até Cr$ 100,00..........................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>4,00</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais de Cr$ 100,00 até Cr$ 150,00 .........................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>6,00</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais de Cr$ 150,00 até Cr$ 200,00..........................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>8,00</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais de Cr$ 200,00</span><span style="width:3.37pt; display:inline-block">&nbsp;</span><span>ou sem preço marcado ...........................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 15,00</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II – De origem estrangeira .............................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 15,00</span></p></td></tr></tbody></table>
+Até o preço de Cr$ 5,00 ................................................................................
+
+Cr$   0,10
+
+De mais  de Cr$ 5,00   até   Cr$  12,00 .........................................................
+
+Cr$   0,30
+
+De mais  de Cr$ 12,00  até  Cr$  20,00 .........................................................
+
+Cr$   0,60
+
+De mais  de Cr$ 20,00  até  Cr$  30,00 .........................................................
+
+Cr$   1,00
+
+De mais  de Cr$ 30,00  até  Cr$  50,00 .........................................................
+
+Cr$   2,00
+
+De mais  de Cr$ 50,00  até  Cr$  75,00 .........................................................
+
+Cr$   3,00
+
+De mais  de Cr$ 75,00  até Cr$ 100,00..........................................................
+
+Cr$   4,00
+
+De mais de Cr$ 100,00 até Cr$ 150,00 .........................................................
+
+Cr$   6,00
+
+De mais de Cr$ 150,00 até Cr$ 200,00..........................................................
+
+Cr$   8,00
+
+De mais de Cr$ 200,00 ou sem preço marcado ...........................................
+
+Cr$ 15,00
+
+II – De origem estrangeira .............................................................................
+
+Cr$ 15,00
 
 Parágrafo único. Incidirá na pene de prisão celular prevista pelo art. 3º, do decreto‑lei nº 869, de 18 de novembro de 1938, o fabricante que marcar o calçado para ser vendido por preço superior ao recebido do comprador, observadas os limites da tabela. Multa de Cr$ 2.000,00 a Cr$ 10.000,00.
 
@@ -26,7 +80,29 @@ Art. 3º A alínea III do art. 1º do decreto‑lei n. 5.283, de 26 do fevereiro
 
 III – Cigarros e cigarrilhas nacionais, com a preço de venda, no varejo, marcado pelo fabricante, por vintena:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:56.7pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Até o preço de Cr$ 0,50 ................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,14</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais de Cr$ 0,60 até Cr$ 0,80 .................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,24</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais de Cr$ 0,80 até Cr$ 1,00 .................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,34</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais de Cr$ 1,00 até Cr$ 1,20 .................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,44</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais de Cr$ 1,20 até Cr$ 1,50 .................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>0,56</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De mais de Cr$ 1,50 ou sem preço marcado ................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>1,06</span></p></td></tr></tbody></table>
+Até o preço de Cr$ 0,50 ................................................................................
+
+Cr$  0,14
+
+De mais de Cr$ 0,60 até Cr$ 0,80 .................................................................
+
+Cr$  0,24
+
+De mais de Cr$ 0,80 até Cr$ 1,00 .................................................................
+
+Cr$  0,34
+
+De mais de Cr$ 1,00 até Cr$ 1,20 .................................................................
+
+Cr$  0,44
+
+De mais de Cr$ 1,20 até Cr$ 1,50 .................................................................
+
+Cr$  0,56
+
+De mais de Cr$ 1,50 ou sem preço marcado ................................................
+
+Cr$  1,06
 
 Art. 4º O presente decreto‑lei entrará em vigor trinta (30) dias após a sua publicação, quando também passará a vigorar o decreto‑lei nº 5.283, de 26 de fevereiro de 1943, devendo o seu texto ser transmitido telegraficamente pelo Diretor Geral da Fazenda Nacional aos Delegados Fiscais nos Estados.
 

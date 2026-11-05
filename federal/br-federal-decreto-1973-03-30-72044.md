@@ -1,5 +1,3 @@
-###DEC-072044-0-000-30-03-1973@@@
-
 DECRETO Nº 72.044, DE 30 DE MARÇO DE 1973.
 
 Concede à Mineração Guapiara Ltda. o direito de lavrar barita e calcário no Município de Guapiara, Estado de São Paulo.

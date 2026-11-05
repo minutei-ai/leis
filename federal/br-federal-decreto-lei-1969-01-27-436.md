@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/03bfab15-2964-462a-88d6-0ef3a1455699/texto#nowhere)
 
-###DEL-000436-0-000-27-01-1969@@@
-
 DECRETO-LEI Nº 436, DE 27 DE JANEIRO DE 1969
 
 Revoga o § 2º do art. 1º da Lei número 5.474, de 18 de julho de 1968, modifica a redação de seus artigos 13, 14, 16, 17 e 20 e dá outras providências.

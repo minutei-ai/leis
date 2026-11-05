@@ -31,7 +31,3 @@ Deputado Dinis Pinheiro – 1º-Secretário
 Deputado Hely Tarqüínio – 2º-Secretário
 
 Deputado Sargento Rodrigues – 3º-Secretário
-
-\============================================================
-
-Data da última atualização: 13/9/2021.

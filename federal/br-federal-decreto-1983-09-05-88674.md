@@ -1,5 +1,3 @@
-###DEC-088674-0-000-05-09-1983@@@
-
 Decreto nº 88.674, de 05 de setembro de 1983.
 
 Dispõe sobre a publicação de atos oficiais do Ministério das Comunicações.

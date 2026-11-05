@@ -1,5 +1,3 @@
-###MPV-001868-0-016-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.868-16, DE 29 DE JuNHO DE 1999.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

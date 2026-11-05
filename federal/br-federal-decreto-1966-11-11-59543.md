@@ -1,5 +1,3 @@
-###DEC-059543-0-000-11-11-1966@@@
-
 Decreto nº 59.543, de 11 de novembro de 1966.
 
 Renova o Decreto nº 53.309, de 16 de dezembro de 1963.

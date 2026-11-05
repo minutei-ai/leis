@@ -1,5 +1,3 @@
-###DEC-061432-0-000-03-10-1967@@@
-
 DECRETO Nº 61.432, DE 3 DE OUTUBRO DE 1967.
 
 Autoriza estrangeiro a adquirir, em revigoração de aforamento, o domínio útil do terreno acrescido de marinha que menciona, no Estado da Guanabara.

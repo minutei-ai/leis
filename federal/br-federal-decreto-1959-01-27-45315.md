@@ -1,5 +1,3 @@
-###DEC-045315-0-000-27-01-1959@@@
-
 DECRETO Nº 45.315, DE 27 DE JANEIRO DE 1959.
 
 Autoriza Novas Indústrias Olinda S.A. a pesquisar fosfato no município de Paulista, Estado de Pernambuco.

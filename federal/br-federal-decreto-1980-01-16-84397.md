@@ -1,5 +1,3 @@
-###DEC-084397-0-000-16-01-1980@@@
-
 DECRETO Nº 84.397 DE 16 DE JANEIRO DE 1980
 
 Renova por 15 (quinze) anos a concessão outorgada à Sociedade Rádio Cultura "A Voz do Espaço", cuja denominação foi alterada para Rádio Cultura S.A., e, posteriormente, transferida para a Fundação Padre Anchieta - Centro Paulista de Rádio e TV Educativa, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de São Paulo, Estado de São Paulo.

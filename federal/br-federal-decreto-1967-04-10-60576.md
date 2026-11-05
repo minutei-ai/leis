@@ -1,5 +1,3 @@
-###DEC-060576-0-000-10-04-1967@@@
-
 DECRETO Nº 60.576, DE 10 DE ABRIL DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S/A - PETROBRÁS terras e benfeitorias situadas nos Municípios de Aracaju, Maruim, Rosário do Catete e Carmópolis, Estado de Sergipe.

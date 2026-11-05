@@ -1,5 +1,3 @@
-###DEC-073482-0-000-17-01-1974@@@
-
 DECRETO Nº 73.482, DE 17 DE JANEIRO DE 1974.
 
 Dispõe sobre a apuração das estatísticas da produção agropecuária e de outras de interesse do Ministério da Agricultura.

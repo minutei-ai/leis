@@ -1,5 +1,3 @@
-###DEC-094662-0-000-22-07-1987@@@
-
 DECRETO N° 94.662, DE 22 DE JULHO DE 1987.
 
 Dispõe sobre a aplicação do disposto no Decreto n° 92.322, de 23 de janeiro de 1986, que trata da dispensa da assinatura do ponto aos servidores públicos civis federais que exerçam mandatos eletivos em entidades representativas de classes.

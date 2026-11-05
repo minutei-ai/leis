@@ -1,5 +1,3 @@
-###DEL-008597-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.597 – DE 8 DE JANEIRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o credito especial de Cr$ 5.000.000,00, para o prosseguimento da construção  da Estrada de Ferro Goiás, entre Leopoldo Bulhões e Goiânia.

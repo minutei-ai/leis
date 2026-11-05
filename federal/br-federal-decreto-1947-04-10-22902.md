@@ -1,12 +1,10 @@
-###DEC-022902-0-000-10-04-1947@@@
+**DECRETO Nº 22,902, DE 10 DE ABRIL DE 1947.**
 
-<strong>DECRETO Nº 22,902, DE 10 DE ABRIL DE 1947.</strong>
+***Altera o artigo 13 do Regulamento para a Escola de Guerra Naval.***
 
-<em><strong>Altera o artigo 13 do Regulamento para a Escola de Guerra Naval.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
-
-<strong>Decreta:</strong>
+**Decreta:**
 
 Artigo 1º. O artigo 13 do Regulamento da Escola de Guerra Naval, aprovado pelo Decreto nº 6,386, de 4 de outubro de 1940, passa a vigorar com a seguinte alteração :
 
@@ -36,10 +34,10 @@ f) operações de esclarecimento, navais, aéreos ou areo – navais;
 
 § 6º Os oficiais, que não realizarem o número de pontos, indicados no item anterior, poderão ser matriculados novamente no mesmo curso dentro dos dois anos seguintes; segunda inabilitação tornará o oficial definitivamente inapto para a matrícula no Curso de Comando".
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições revogadas as disposições em contrário.
 
 Rio de Janeiro, 10 de abril de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha

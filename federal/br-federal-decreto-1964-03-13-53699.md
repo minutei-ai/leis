@@ -1,5 +1,3 @@
-###DEC-053699-0-000-13-03-1964@@@
-
 DECRETO Nº 53.699, DE 13 DE MARÇO DE 1964.
 
 Institui a Fundação Universidade do Amazonas.

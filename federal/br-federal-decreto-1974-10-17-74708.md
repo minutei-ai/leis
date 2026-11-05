@@ -1,5 +1,3 @@
-###DEC-074708-0-000-17-10-1974@@@
-
 DECRETO Nº 74.708, DE 17 DE OUTUBRO DE 1974
 
 Concede reconhecimento aos cursos de Técnico de Nível Superior em Construções Civis e de Mecânica, ministrados pela Faculdade de Tecnologia de São Paulo, mantida pelo Centro Estadual de Educação Tecnológica "Paula Souza", com sede na Cidade de São Paulo, Estado de São Paulo.

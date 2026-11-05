@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3148a552-d172-43ce-a637-10c2a0883ca2/texto#nowhere)
 
-###DEC-091612-0-000-03-09-1985@@@
-
 # DECRETO nº 91.612, de 03 de setembro de 1985.
 
 Extingue o Vice-Consulado do Brasil em Monterrey, Estados Unidos Mexicanos.

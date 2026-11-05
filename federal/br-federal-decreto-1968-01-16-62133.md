@@ -1,5 +1,3 @@
-###DEC-062133-0-000-16-01-1968@@@
-
 DECRETO Nº 62.133, DE 16 DE JANEIRO DE 1968.
 
 Declara de utilidade publica a “Faculdade de Serviço Social de Campinas”, com sede em Campinas no Estado de São Paulo.

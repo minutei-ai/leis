@@ -1,5 +1,3 @@
-###DEC-057831-0-000-17-02-1966@@@
-
 DECRETO Nº 57.831, DE 17 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem área de terreno situada no Município de Osório, Estado do Rio Grande do Sul.

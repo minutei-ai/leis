@@ -1,5 +1,3 @@
-###DEC-099586-0-000-10-10-1990@@@
-
 DECRETO Nº 99.586, DE 10 DE OUTUBRO DE 1990
 
 Dispõe Sobre a Redução do Período de Duração do Serviço Militar Inicial.

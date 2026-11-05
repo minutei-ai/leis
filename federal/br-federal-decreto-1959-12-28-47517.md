@@ -1,5 +1,3 @@
-###DEC-047517-0-000-28-12-1959@@@
-
 DECRETO Nº 47.517, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Trento a pesquisar dolomita no município de Urussanga, Estado de Santa Catarina.

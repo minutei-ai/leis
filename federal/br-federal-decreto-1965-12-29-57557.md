@@ -1,5 +1,3 @@
-###DEC-057557-0-000-29-12-1965@@@
-
 decreto nº 57.557, de 29 de dezembro de 1965.
 
 Dispõe sôbre o aproveitamento dos referidos piritosos oriundos do beneficiamento do carvão.
@@ -71,8 +69,6 @@ Octavio Gouveia Bulhões
 Roberto Campos
 
 Daniel Faraco
-
-###DEC-057557-0-000-29-12-1965@@@RET01+++
 
 decreto nº 57.557, de 29 de dezembro de 1965.
 

@@ -1,5 +1,3 @@
-###DEL-008286-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.286 – DE 5 DE DEZEMBRO DE 1945
 
 A prova o Acôrdo Ortográfico para a unidade da língua portuguesa

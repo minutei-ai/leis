@@ -1,5 +1,3 @@
-###DEC-069903-0-000-06-01-1972@@@
-
 DECRETO Nº 69.903, DE 6 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Serviço Social de São Sebastião, com sede no Estado da Guanabara.

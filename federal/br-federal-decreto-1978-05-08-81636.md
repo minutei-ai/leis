@@ -1,5 +1,3 @@
-###DEC-081636-0-000-08-05-1978@@@
-
 decreto nº 81.636, de 08 de maio de 1978.
 
 Altera dispositivos do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, alterado pelo Decreto nº 80.722, de 10 de novembro de 1977.

@@ -1,5 +1,3 @@
-###DEC-057025-0-000-11-10-1965@@@
-
 DECRETO Nº 57.025, DE 11 DE OUTUBRO DE 1965.
 
 Outorga, à Companhia Paranaense de Energia Elétrica, concessão para distribuir energia elétrica.

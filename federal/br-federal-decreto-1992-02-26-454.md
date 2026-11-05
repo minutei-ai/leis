@@ -1,7 +1,3 @@
-1
-
-###DEC-000454-0-000-26-02-1992@@@
-
 DECRETO N° 454, DE 26 DE FEVEREIRO DE 1992
 
 Altera o § 4° do Art. 1° do Decreto n° 317, de 30 de outubro de 1991, e autoriza a emissão de Notas do Tesouro Nacional  Série -  H -  NTN‑H.

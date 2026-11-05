@@ -1,5 +1,3 @@
-###DEC-053229-0-000-12-12-1963@@@
-
 DECRETO Nº 53.229, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza a Emprêsa de Mineração Paqueiro Ltda. a lavrar minério de chumbo, no município de Adrianópolis, Estado do Paraná.

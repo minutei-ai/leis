@@ -1,5 +1,3 @@
-###DEC-067319-0-000-02-10-1970@@@
-
 DECRETO Nº 67.319, DE 2 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 16.540, de 8 de setembro de 1944.

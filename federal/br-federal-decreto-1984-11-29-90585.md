@@ -1,5 +1,3 @@
-###DEC-090585-0-000-29-11-1984@@@
-
 Decreto nº 90.585, de 29 de novembro de 1984
 
 Autoriza o funcionamento dos cursos de Letras e Estudos Sociais da Universidade do Estado da Bahia.

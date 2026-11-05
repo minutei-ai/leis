@@ -1,5 +1,3 @@
-###DEC-084141-0-000-31-10-1979@@@
-
 Decreto nº 84.141 de 31 de outubro de 1979.
 
 Autoriza o funcionamento do curso de Engenharia Química, da Fundação Educacional do Sul de Santa Catarina, com sede na cidade de Tubarão, Estado de Santa Catarina.

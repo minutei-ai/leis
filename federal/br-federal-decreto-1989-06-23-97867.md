@@ -1,7 +1,3 @@
-1
-
-###DEC-097867-0-000-23-06-1989@@@
-
 DECRETO Nº 97.867, DE 23 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “RANCHO GRANDE”, “SÃO FELIPE”, “SALVADOR BUENO” e “ACABA VIDA”, classificados como “latifúndio por exploração”, situados no Município de Goiás, Estado de Goiás, compreendidos na zona prioritária fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providencias.

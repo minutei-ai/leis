@@ -1,5 +1,3 @@
-###DEC-006361-0-000-21-01-2008@@@
-
 DECRETO Nº 6.361, DE 21 DE JANEIRO DE 2008.
 
 Transfere a cumulatividade da Embaixada do Brasil em Antígua e Barbuda para a Embaixada do Brasil em Bridgetown, Barbados, e dá outras providências.
@@ -23,5 +21,3 @@ Brasília, 21 de janeiro de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 22.1.2008

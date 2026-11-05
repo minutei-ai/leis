@@ -1,5 +1,3 @@
-###DEC-059506-0-000-09-11-1966@@@
-
 DECRETO Nº 59.506, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Arnaldo Borghi a pesquisar leucofilito no município de Caieiras, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-047248-0-000-17-11-1959@@@
-
 decreto nº 47.248, de 17 de novembro de 1959.
 
 Dispõe sôbre a lotação de servidores cedidos à R.F.F.S.A.

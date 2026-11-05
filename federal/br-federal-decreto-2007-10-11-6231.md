@@ -1,5 +1,3 @@
-###DEC-006231-0-000-11-10-2007@@@
-
 DECRETO Nº 6.231, DE 11 DE OUTUBRO DE 2007.
 
 Institui o Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte - PPCAAM.
@@ -117,5 +115,3 @@ Brasília, 11 de outubro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 15.10.2007.

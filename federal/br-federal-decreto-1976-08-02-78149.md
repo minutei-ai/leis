@@ -1,5 +1,3 @@
-###DEC-078149-0-000-02-08-1976@@@
-
 DECRETO Nº 78.149, DE 2 DE AGOSTO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de São Paulo.

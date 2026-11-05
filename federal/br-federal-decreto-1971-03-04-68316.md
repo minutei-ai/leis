@@ -1,5 +1,3 @@
-###DEC-068316-0-000-04-03-1971@@@
-
 DECRETO Nº 68.316, DE 4 DE MARÇO DE 1971.
 
 Autoriza o Govêrno do Estado do Rio de Janeiro a encampar os bens e instalações vinculados a serviços públicos de energia elétrica no Estado do Rio de Janeiro e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-091912-0-000-12-11-1985@@@
-
 Decreto nº 91.912, de 12 de novembro de 1985
 
 Dispõe sobre a prorrogação do prazo de atuação governamental em área já declarada prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Seringal Espinhara", situado no Município de Rio Branco, Estado do Acre.

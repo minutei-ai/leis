@@ -1,5 +1,3 @@
-###DEC-049428-0-000-03-12-1960@@@
-
 DECRETO Nº 49.428, de 3 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro Luiz Silva a pesquisar areia quartzosa no município de Ubatuba, Estado de São Paulo.

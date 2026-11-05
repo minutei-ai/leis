@@ -1,5 +1,3 @@
-###DEL-002085-0-000-22-12-1983@@@
-
 # Decreto nº 2.085, de 22 de dezembro de 1983
 
 Dispõe sobre a fixação de alíquotas do Imposto sobre Operações Relativas à Circulação de Mercadorias no Distrito Federal e dá outras providências.

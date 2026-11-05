@@ -1,7 +1,3 @@
-1
-
-###DEC-097636-0-000-10-04-1989@@@
-
 DECRETO N° 97.636, DE 10 DE ABRIL DE 1989
 
 Prorroga o prazo de funcionamento dos Trabalhos da Comissão Executiva e do grupo de proteção do meio ambiente, das comunidades indígenas, das populações envolvidas no processo extrativista e as ribeirinhas de que trata o Decreto n° 96.944, de 12 de outubro de 1988, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078349-0-000-31-08-1976@@@
-
 DECRETO Nº 78.349, DE 31 DE AGOSTO DE 1976.
 
 Inclui representante do EMFA no Conselho Deliberativo do INAN

@@ -1,5 +1,3 @@
-###DEC-003637-0-000-20-10-2000@@@
-
 DECRETO Nº 3.637, DE 20 DE OUTUBRO DE 2000.
 
 Institui a Rede Nacional de Direitos Humanos.

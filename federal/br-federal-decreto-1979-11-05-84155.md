@@ -1,5 +1,3 @@
-###DEC-084155-0-000-05-11-1979@@@
-
 Decreto nº 84.155, de 05 de novembro de 1979
 
 Dispõe sobre a composição do Conselho Nacional da Borracha e dá outras providências.

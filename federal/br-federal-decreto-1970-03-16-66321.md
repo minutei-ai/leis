@@ -1,5 +1,3 @@
-###DEC-066321-0-000-16-03-1970@@@
-
 DECRETO Nº 66.321 - DE 16 de MARÇO DE 1970
 
 Autoriza o funcionamento da Faculdade de Medicina de Santo Amaro, no Estado de São Paulo.

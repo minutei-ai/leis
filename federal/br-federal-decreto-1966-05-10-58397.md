@@ -1,5 +1,3 @@
-###DEC-058397-0-000-10-05-1966@@@
-
 DECRETO Nº 58.397, de 10 de maio de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Aliança do Pará, relativa ao aumento do capital social.

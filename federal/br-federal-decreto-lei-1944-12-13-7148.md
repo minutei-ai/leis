@@ -1,5 +1,3 @@
-###DEL-007148-0-000-13-12-1944@@@
-
 DECRETO-LEI N. 7.148 – DE 13 DE DEZEMBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a doar o terreno que menciona

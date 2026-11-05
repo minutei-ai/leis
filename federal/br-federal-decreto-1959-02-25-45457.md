@@ -1,5 +1,3 @@
-###DEC-045457-0-000-25-02-1959@@@
-
 decreto nº 45.457, de 25 de fevereiro de 1959.
 
 Altera a lotação numérica das repartições atendidas pelo Quadro Suplementar do Ministério da Aeronáutica.

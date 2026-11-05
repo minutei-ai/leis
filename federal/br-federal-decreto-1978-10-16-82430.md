@@ -1,5 +1,3 @@
-###DEC-082430-0-000-16-10-1978@@@
-
 Decreto nº 82.430,de 16 de outubro de 1978.
 
 Declara sem efeito o Decreto nº 70 899, de 31 de julho de 1972, que concedeu à PLUMBUM S.A.-Indústria Brasileira de Mineração o direito de lavrar o minério de chumbo no Município de Adrianópolis, Estado do Paraná.

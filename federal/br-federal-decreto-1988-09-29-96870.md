@@ -1,5 +1,3 @@
-###DEC-096870-0-000-29-09-1988@@@
-
 DECRETO N° 96.870, DE 29 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO CULTURA DE LEME LTDA., para explorar serviço de radiodifusão sonora em onda média na Cidade de Leme, Estado de São Paulo.

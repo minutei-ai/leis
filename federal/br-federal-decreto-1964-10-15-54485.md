@@ -1,5 +1,3 @@
-###DEC-054485-0-000-15-10-1964@@@
-
 decreto nº 54.485, de 15 de outubro de 1964.
 
 Autoriza, em caráter excepcional, o provimento interino dos cargos que especifica.

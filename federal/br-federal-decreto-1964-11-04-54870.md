@@ -1,5 +1,3 @@
-###DEC-054870-0-000-04-11-1964@@@
-
 DECRETO Nº 54.870, DE 4 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Cyro Durce a pesquisar areia quartzosa, no município de S. Vicente, Estado de São Paulo.

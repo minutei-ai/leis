@@ -1,5 +1,3 @@
-###DEC-084679-0-000-30-04-1980@@@
-
 Decreto nº 84.679, de 30 de abril de 1980
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Administrativas, Contábeis e Econômicas de Umuarama, Estado do Paraná.

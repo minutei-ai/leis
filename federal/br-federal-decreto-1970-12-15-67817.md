@@ -1,5 +1,3 @@
-###DEC-067817-0-000-15-12-1970@@@
-
 DECRETO Nº 67.817, DE 15 DE DEZEMBRO DE 1970.
 
 Concede Reconhecimento a Curso da Faculdade de Música "Santa Marcelina" de Botucatu, SP.

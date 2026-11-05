@@ -1,7 +1,3 @@
-1
-
-###MPV-000836-0-000-19-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 836, DE 19 DE JANEIRO DE 1995
 
 Dispõe sobre as contribuições para o Programa de Integração Social (PIS) e para o Programa de Formação do Patrimônio do Servidor Público (Pasep), incidentes sobre receitas de exportação e dá outras providências.

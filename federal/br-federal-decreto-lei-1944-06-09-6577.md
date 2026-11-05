@@ -1,5 +1,3 @@
-###DEL-006577-0-000-09-06-1944@@@
-
 DECRETO-LEI N. 6.577 – DE 9 DE JUNHO DE 1944
 
 Dispõe sôbre a cobrança prevista no art. 98 do Decreto-lei nº 5.844, de 23 de setembro de 1943

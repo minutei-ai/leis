@@ -1,5 +1,3 @@
-###DEC-046099-0-000-19-05-1959@@@
-
 Decreto nº 46.099, de 19 de maio de 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$175.000,00 para atender às despesas de que trata o item 4 da Lei número 3.404, de 12 de junho de 1958, parte referente ao citado Ministério.

@@ -1,5 +1,3 @@
-###DEL-007562-0-000-18-05-1945@@@
-
 DECRETO-LEI N. 7.562 – DE 18 DE MAIO DE 1945
 
 Revoga o art. 3.º do Decreto-lei n.º 6. 172, de 6 de janeiro de 1944

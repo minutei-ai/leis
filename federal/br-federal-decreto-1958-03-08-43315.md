@@ -1,14 +1,12 @@
-###DEC-043315-0-000-08-03-1958@@@
+**DECRETO Nº 43.315, DE 8 DE MARÇO DE 1958.**
 
-<strong>DECRETO Nº 43.315, DE 8 DE MARÇO DE 1958.</strong>
+***Altera os artigos 7º, 12, 13, 30, 31, 32, 33 e 34 do Regulamento para a Diretoria de Intendência da Aeronáutica.***
 
-<em><strong>Altera os artigos 7º, 12, 13, 30, 31, 32, 33 e 34 do Regulamento para a Diretoria de Intendência da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87,item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87,item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 7º, 12, 13, 30, 31, 32, 33 e 34 do Regulamento para a Diretoria de Intendência da Aeronáutica, aprovado pelo Decreto nº 39.312, de 4 de junho de 1956, passam a vigorar com a redação abaixo:
+**Art**. 1º Os artigos 7º, 12, 13, 30, 31, 32, 33 e 34 do Regulamento para a Diretoria de Intendência da Aeronáutica, aprovado pelo Decreto nº 39.312, de 4 de junho de 1956, passam a vigorar com a redação abaixo:
 
 “Art. 7º A Direção Geral é constituída por:
 
@@ -84,10 +82,10 @@ c) cooperar com os Reembolsáveis Regimentais nas questões de provimentos, cons
 
 d) coordenar e orientar os trabalhos atinentes às necessidades de alimentação, vestuário e manutenção de equipamentos domésticos, a título indenizável, do interêsse do pessoal da FAB”.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de março de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Mello

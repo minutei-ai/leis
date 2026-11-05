@@ -1,5 +1,3 @@
-###DEC-045420-0-000-12-02-1959@@@
-
 Decreto nº 45.420, de 12 de Fevereiro de 1959.
 
 Dispõe sôbre operação de crédito, financiamento ou desconto para entidades governamentais ou autárquicas.

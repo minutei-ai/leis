@@ -1,5 +1,3 @@
-###DEC-001948-0-000-03-07-1996@@@
-
 DECRETO Nº 1.948, DE 3 DE JULHO DE 1996
 
 Regulamenta a Lei n° 8.842, de 4 de janeiro de 1994, que dispõe sobre a Política Nacional do Idoso, e dá outras providências.

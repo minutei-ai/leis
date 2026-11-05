@@ -1,5 +1,3 @@
-###DEC-050170-0-000-28-01-1961@@@
-
 DECRETO Nº 50.170, DE 28 DE JANEIRO DE 1961.
 
 Dispõe sôbre a Medalha de Serviços Distintos.

@@ -1,5 +1,3 @@
-###DEC-054296-0-000-23-09-1964@@@
-
 DECRETO Nº 54.296, DE 23 DE SETEMBRO DE 1964.
 
 Concede à Sociedade Navegação e Comércio Paraense Limitada, autorização para funcionar com emprêsa de navegação de cabotagem.

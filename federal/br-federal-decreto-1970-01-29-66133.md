@@ -1,5 +1,3 @@
-###DEC-066133-0-000-29-01-1970@@@
-
 DECRETO Nº 66.133 - DE 29 DE JANEIRO DE 1970
 
 Declara de utilidade pública a sociedade denominada Bairro da Juventude dos Padres Rogacionistas, com sede em Criciúma, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-005921-0-000-25-10-1943@@@
-
 DECRETO‑LEI N. 5.921 – DE 25 DE OUTUBRO DE 1943
 
 Abre ao Ministério da justiça e Negócios Interiores a crédito especial de ­Cr$ 242.000,00, para o Sanatório Penal da Penitenciária Central do Dis­trito Federal, e torna sem aplicação dotação orçamentário que especifica.

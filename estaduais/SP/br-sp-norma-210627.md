@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210627)<br>
-
 # DECRETO LEGISLATIVO N° 2.559, DE 18 DE FEVEREIRO DE 2025
 
 ### _Referenda a nomeação de membro para integrar o Conselho Diretor da Agência de Águas do Estado de São Paulo - SP-ÁGUAS._

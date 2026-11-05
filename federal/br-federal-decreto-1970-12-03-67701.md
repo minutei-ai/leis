@@ -1,5 +1,3 @@
-###DEC-067701-0-000-03-12-1970@@@
-
 Decerto nº 67.701, de 3 de dezembro de 1970.
 
 Declara de utilidade pública o Colégio Normal Francisca Mendes, com sede em Catolé do Rocha, Estado da Paraíba.

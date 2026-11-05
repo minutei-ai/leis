@@ -1,5 +1,3 @@
-###DEC-084935-0-000-21-07-1980@@@
-
 Decreto nº 84.935, de 21 de julho de 1980.
 
 Declara de utilidades pública para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS, área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "ROSÁRIO", no Município de Iguaraci, Estado de Pernambuco, e dá outras providências.

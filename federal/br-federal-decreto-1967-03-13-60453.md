@@ -1,5 +1,3 @@
-###DEC-060453-0-000-13-03-1967@@@
-
 DECRETO Nº 60.453, DE 13 DE MARÇO DE 1967.
 
 Reduz em 10% (dez por cento) as alíquotas do Impôsto Único sôbre lubrificantes e combustíveis líquidos e gasosos.

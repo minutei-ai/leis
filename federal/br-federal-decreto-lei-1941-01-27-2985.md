@@ -1,5 +1,3 @@
-###DEL-002985-0-000-27-01-1941@@@
-
 DECRETO-LEI N. 2.985 – DE 27 DE JANEIRO DE 1941
 
 Dispõe sobre o emprego de aparelhos de telecomunicações no território nacional enquanto durar a guerra atual

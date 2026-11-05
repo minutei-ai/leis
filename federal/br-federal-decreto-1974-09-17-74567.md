@@ -1,5 +1,3 @@
-###DEC-074567-0-000-17-09-1974@@@
-
 Decreto nº 74.567, de 17 de setembro de 1974.
 
 Autoriza a cessão sob a forma de utilização gratuita, do imóvel que menciona, situado no Estado da Guanabara.

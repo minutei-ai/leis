@@ -1,5 +1,3 @@
-###DEL-003866-0-000-29-11-1941@@@
-
 DECRETO-LEI N. 3.866 – DE 29 DE NOVEMBRO DE 1941
 
 Dispõe sobre o tombamento de bens no Serviço do Patrimônio Histórico e Artístico Nacional

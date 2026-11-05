@@ -1,5 +1,3 @@
-###DEC-068464-0-000-02-04-1971@@@
-
 DECRETO Nº 68.464, DE 2 de abril DE 1971.
 
 Altera dispositivos do Decreto número 63.378, de 8 de outubro de 1968, que regulamenta a Lei de Promoções dos Oficiais da Ativa da Aeronáutica.

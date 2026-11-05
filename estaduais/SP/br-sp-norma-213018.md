@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213018)<br>
-
 # DECRETO N° 70.915, DE 30 DE SETEMBRO DE 2026
 
 ### _Autoriza a outorga de uso do imóvel que especifica à Fundação Nacional dos Povos Indígenas - FUNAI e dá providências correlatas._

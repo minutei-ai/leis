@@ -1,7 +1,3 @@
-1
-
-###DEC-098235-0-000-02-10-1989@@@
-
 DECRETO Nº 98.235, DE 2 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade Hélio Alonso.

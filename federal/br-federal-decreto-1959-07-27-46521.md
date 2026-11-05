@@ -1,5 +1,3 @@
-###DEC-046521-0-000-27-07-1959@@@
-
 DECRETO Nº 46.521, DE 27 DE JULHO DE 1959.
 
 Outorga à Muxfeldt, Marin & Companhia concessão para o aproveitamento de energia hidráulica de uma queda existente no rio Ligeiro, distrito de Ibiaçá, município de Sananduva, Estado do Rio Grande do Sul.

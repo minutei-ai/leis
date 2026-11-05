@@ -1,7 +1,3 @@
-1
-
-###DEC-001461-0-000-25-04-1995@@@
-
 DECRETO Nº 1.461, DE 25 DE ABRIL DE 1995
 
 Altera os arts. 3º e 7º do Decreto nº 1.173, de 29 de junho de 1994, que dispõe sobre a competência, organização e funcionamento do Conselho Nacional de Arquivos CONARQ e do Sistema Nacional de Arquivos SINAR.

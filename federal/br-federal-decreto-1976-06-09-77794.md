@@ -1,5 +1,3 @@
-###DEC-077794-0-000-09-06-1976@@@
-
 DECRETO Nº 77.794, DE 9 DE JUNHO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

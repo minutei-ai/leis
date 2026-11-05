@@ -1,5 +1,3 @@
-###DEC-074872-0-000-12-11-1974@@@
-
 DECRETO Nº 74.872, DE 12 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, sem benfeitorias, situada no subdistrito do Jabaquara, Município e Estado de São Paulo, destinada à construção do Centro Operacional Jabaquara, pela Telecomunicações de São Paulo S. A. - TELESP.

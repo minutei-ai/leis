@@ -1,5 +1,3 @@
-###DEC-047355-0-000-04-12-1959@@@
-
 DECRETO Nº 47.355, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Ildeu Geraldo de Melo a pesquisar caulim no município de Itapecerica, Estado de Minas Gerais.

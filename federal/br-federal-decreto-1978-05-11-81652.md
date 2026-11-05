@@ -1,5 +1,3 @@
-###DEC-081652-0-000-11-05-1978@@@
-
 Decreto n.º 81 652, de 11 de maio de 1978.
 
 Concede autorização às empresas PECTEN BRAZIL EXPLORATION COMPANY, SHELL EXPLORATION SERVICES (BRAZIL) B.V. e MARATHON PETROLEUM SANTOS, LTD. para operarem no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

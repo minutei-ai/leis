@@ -1,5 +1,3 @@
-###DEC-075824-0-000-04-06-1975@@@
-
 DECRETO Nº 75.824, DE 4 DE JUNHO DE 1975.
 
 Extingue as Coordenações Regionais do Ministério da Agricultura e dá outras providências.

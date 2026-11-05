@@ -16,52 +16,463 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1702 - ENCARGOS FINANCEIROS DO ESTADO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - REFIN. ART. 9º&nbsp; A LC 159 (RRF)</td><td style=" width:85px;    ">28 843 0100 7128</td><td style=" width:85px;    ">17080000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 8.727.000,00</td><td style=" width:85px;    ">R$ 8.727.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - REFIN. ART. 9º&nbsp; A LC 159 (RRF)</td><td style=" width:85px;    ">28 843 0100 7128</td><td style=" width:85px;    ">17080000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 5.390.000,00</td><td style=" width:85px;    ">R$ 5.390.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - RESSARCIMENTO CONTRATOS COM GARANTIA DA UNIÃO (ART. 9º&nbsp; LC 159/2017)</td><td style=" width:85px;    ">28 843 0100 7141</td><td style=" width:85px;    ">17090000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 13.500.000,00</td><td style=" width:85px;    ">R$ 13.500.000,00</td></tr></tbody></table>
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1702 - ENCARGOS FINANCEIROS DO ESTADO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PRESTAÇÃO DE SERVIÇOS SOCIAIS</td><td style=" width:85px;    ">08 244 1007 2380</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.584.589,38</td><td style=" width:85px;    ">R$ 3.339.875,42</td><td style=" width:85px;    ">R$ 5.924.464,80</td></tr><tr><td style=" width:85px;    ">PASSE LIVRE ESTUDANTIL - ENSINO SUPERIOR</td><td style=" width:85px;    ">12 364 1008 2195</td><td style=" width:85px;    ">17610155</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.210.459,69</td><td style=" width:85px;    ">R$ 2.375.951,71</td><td style=" width:85px;    ">R$ 3.586.411,40</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3051-FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">SERVIÇOS DO BLOCO DE GESTÃO DO PROGRAMA BOLSA FAMÍLIA E CADASTRO ÚNICO</td><td style=" width:85px;    ">08 122 1040 2574</td><td style=" width:85px;    ">16600234</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.000,00</td><td style=" width:85px;    ">R$ 2.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES</td><td style=" width:340px;  height:19px;   ">R$ 2.000,00</td></tr><tr><td style=" width:340px;    ">17080000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS MINERAIS</td><td style=" width:340px;    ">R$ 14.117.000,00</td></tr><tr><td style=" width:340px;    ">17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS</td><td style=" width:340px;    ">R$ 13.500.000,00</td></tr><tr><td style=" width:340px;    ">17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS</td><td style=" width:340px;    ">R$ 2.375.951,71</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 3.339.875,42</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 33.334.827,13</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ENCARGOS DA DÍVIDA PÚBLICA - REFIN. ART. 9º  A LC 159 (RRF)
+
+28 843 0100 7128
+
+17080000
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 0,00
+
+R$ 8.727.000,00
+
+R$ 8.727.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - REFIN. ART. 9º  A LC 159 (RRF)
+
+28 843 0100 7128
+
+17080000
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 0,00
+
+R$ 5.390.000,00
+
+R$ 5.390.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - RESSARCIMENTO CONTRATOS COM GARANTIA DA UNIÃO (ART. 9º  LC 159/2017)
+
+28 843 0100 7141
+
+17090000
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 0,00
+
+R$ 13.500.000,00
+
+R$ 13.500.000,00
+
+**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL**
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DA INICIATIVA PRESTAÇÃO DE SERVIÇOS SOCIAIS
+
+08 244 1007 2380
+
+27610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.584.589,38
+
+R$ 3.339.875,42
+
+R$ 5.924.464,80
+
+PASSE LIVRE ESTUDANTIL - ENSINO SUPERIOR
+
+12 364 1008 2195
+
+17610155
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.210.459,69
+
+R$ 2.375.951,71
+
+R$ 3.586.411,40
+
+**3051-FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+SERVIÇOS DO BLOCO DE GESTÃO DO PROGRAMA BOLSA FAMÍLIA E CADASTRO ÚNICO
+
+08 122 1040 2574
+
+16600234
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 2.000,00
+
+R$ 2.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES
+
+R$ 2.000,00
+
+17080000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS MINERAIS
+
+R$ 14.117.000,00
+
+17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS
+
+R$ 13.500.000,00
+
+17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS
+
+R$ 2.375.951,71
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 3.339.875,42
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 33.334.827,13
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS JUDICIÁRIOS</td><td style=" width:85px;    ">28 846 0100 7105</td><td style=" width:85px;    ">17080000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 28.303.000,00</td><td style=" width:85px;    ">R$ 14.117.000,00</td><td style=" width:85px;    ">R$ 14.117.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS JUDICIÁRIOS</td><td style=" width:85px;    ">28 846 0100 7105</td><td style=" width:85px;    ">17090000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 41.642.000,00</td><td style=" width:85px;    ">R$ 13.500.000,00</td><td style=" width:85px;    ">R$ 13.500.000,00</td></tr></tbody></table>
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1704 - ENCARGOS ESPECIAIS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PRESTAÇÃO DE SERVIÇOS SOCIAIS</td><td style=" width:85px;    ">08 244 1007 2380</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 6.204.869,99</td><td style=" width:85px;    ">R$ 3.339.875,42</td><td style=" width:85px;    ">R$ 3.339.875,42</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO</b><br>1802 - ENCARGOS GERAIS DO ESTADO</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">UNIVERSITÁRIO DO BEM</td><td style=" width:85px;    ">12 364 1040 2186</td><td style=" width:85px;    ">17610155</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 13.000,00</td><td style=" width:85px;    ">R$ 13.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">BOLSA ESTUDO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 1008 2549</td><td style=" width:85px;    ">17610155</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 127.336,71</td><td style=" width:85px;    ">R$ 127.336,71</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO</b><br>1802 - ENCARGOS GERAIS DO ESTADO</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">UNIVERSITÁRIO DO BEM</td><td style=" width:85px;    ">12 364 1040 2186</td><td style=" width:85px;    ">17610155</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.235.615,00</td><td style=" width:85px;    ">R$ 2.235.615,00</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3051-FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS</b></td></tr></tbody></table>
+ENCARGOS JUDICIÁRIOS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO ADMINISTRATIVA DO FUNDO DE ASSISTÊNCIA SOCIAL</td><td style=" width:85px;    ">08 122 1040 2572</td><td style=" width:85px;    ">16600234</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 2.000,00</td><td style=" width:85px;    ">R$ 2.000,00</td></tr></tbody></table>
+28 846 0100 7105
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+17080000
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES</td><td style=" width:340px;  height:19px;   ">R$ 2.000,00</td></tr><tr><td style=" width:340px;    ">17080000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS MINERAIS</td><td style=" width:340px;    ">R$ 14.117.000,00</td></tr><tr><td style=" width:340px;    ">17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS</td><td style=" width:340px;    ">R$ 13.500.000,00</td></tr><tr><td style=" width:340px;    ">17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS</td><td style=" width:340px;    ">R$ 2.375.951,71</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 3.339.875,42</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 33.334.827,13</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+3 - OUTRAS DESPESAS CORRENTES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES</td><td style=" width:340px;  height:19px;   ">R$ 2.000,00</td></tr><tr><td style=" width:340px;    ">17080000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS MINERAIS</td><td style=" width:340px;    ">R$ 14.117.000,00</td></tr><tr><td style=" width:340px;    ">17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS</td><td style=" width:340px;    ">R$ 13.500.000,00</td></tr><tr><td style=" width:340px;    ">17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS</td><td style=" width:340px;    ">R$ 2.375.951,71</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 3.339.875,42</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 33.334.827,13</td></tr></tbody></table>
+R$ 28.303.000,00
+
+R$ 14.117.000,00
+
+R$ 14.117.000,00
+
+ENCARGOS JUDICIÁRIOS
+
+28 846 0100 7105
+
+17090000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 41.642.000,00
+
+R$ 13.500.000,00
+
+R$ 13.500.000,00
+
+**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL**
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DA INICIATIVA PRESTAÇÃO DE SERVIÇOS SOCIAIS
+
+08 244 1007 2380
+
+27610156
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 6.204.869,99
+
+R$ 3.339.875,42
+
+R$ 3.339.875,42
+
+**1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO**
+1802 - ENCARGOS GERAIS DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+UNIVERSITÁRIO DO BEM
+
+12 364 1040 2186
+
+17610155
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 13.000,00
+
+R$ 13.000,00
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+BOLSA ESTUDO - ENSINO MEDIO
+
+12 362 1008 2549
+
+17610155
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 127.336,71
+
+R$ 127.336,71
+
+**1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO**
+1802 - ENCARGOS GERAIS DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+UNIVERSITÁRIO DO BEM
+
+12 364 1040 2186
+
+17610155
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 2.235.615,00
+
+R$ 2.235.615,00
+
+**3051-FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO ADMINISTRATIVA DO FUNDO DE ASSISTÊNCIA SOCIAL
+
+08 122 1040 2572
+
+16600234
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 10.000,00
+
+R$ 2.000,00
+
+R$ 2.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES
+
+R$ 2.000,00
+
+17080000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS MINERAIS
+
+R$ 14.117.000,00
+
+17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS
+
+R$ 13.500.000,00
+
+17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS
+
+R$ 2.375.951,71
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 3.339.875,42
+
+**TOTAL**
+
+R$ 33.334.827,13
+
+**TOTAL POR FONTE**
+
+16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES
+
+R$ 2.000,00
+
+17080000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS MINERAIS
+
+R$ 14.117.000,00
+
+17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS
+
+R$ 13.500.000,00
+
+17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS
+
+R$ 2.375.951,71
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 3.339.875,42
+
+**TOTAL**
+
+R$ 33.334.827,13

@@ -1,5 +1,3 @@
-###DEL-004934-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.934 – DE 6 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 300. 000,00 para restauração de Linhas da Estrada de Ferro Baía a Minas, e dá outras providências.

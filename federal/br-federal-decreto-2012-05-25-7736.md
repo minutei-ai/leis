@@ -1,5 +1,3 @@
-###DEC-007736-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N°\- 7.736, DE 25 DE MAIO DE 2012
 
 Dispõe sobre o remanejamento temporário de cargos em comissão para atividades de apoio à Comissão Interministerial de que trata o Decreto n° 7.514, de 5 de julho de 2011, que regulamenta os arts. 85 a 100 da Lei n° 12.249, de 11 de junho de 2010, referentes à inclusão em quadro em extinção da administração federal dos servidores e dos militares oriundos do ex-Território Federal de Rondônia.

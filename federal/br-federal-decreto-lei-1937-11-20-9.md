@@ -1,5 +1,3 @@
-###DEL-000009-0-000-20-11-1937@@@
-
 DECRETO-LEI N. 9 – DE 20 DE NOVEMBRO DE 1937     
 
 Cassa as honras de postos concedidos a José Antonio Flôres da Cunha                  

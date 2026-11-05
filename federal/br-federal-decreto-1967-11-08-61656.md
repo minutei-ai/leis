@@ -1,5 +1,3 @@
-###DEC-061656-0-000-08-11-1967@@@
-
 DECRETO Nº 61.656, DE 8 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Marinha.

@@ -1,5 +1,3 @@
-###DEL-003912-0-000-09-12-1941@@@
-
 DECRETO-LEI N. 3.912 – DE 9 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 720$0 para pagamento de gratificação adicional

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209854)<br>
-
 # DECRETO N° 68.780, DE 22 DE AGOSTO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de São José do Rio Preto, o imóvel que especifica._

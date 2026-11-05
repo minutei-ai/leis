@@ -1,5 +1,3 @@
-###DEL-006107-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.107 – DE 16 DE DEZEMBRO DE 1943
 
 Isenta de direitos de importação e demais taxas aduaneiras, pelo prazo de seis meses, carne bovina

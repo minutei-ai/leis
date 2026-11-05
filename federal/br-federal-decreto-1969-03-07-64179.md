@@ -1,5 +1,3 @@
-###DEC-064179-0-000-07-03-1969@@@
-
 DECRETO Nº 64.179, DE 7 DE MARÇO DE 1969.
 
 Dispõe sôbre empenho de despesas pelos Ministérios Militares.

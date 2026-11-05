@@ -1,5 +1,3 @@
-###DEC-075094-0-000-19-12-1974@@@
-
 DECRETO nº 75.094, DE 19 DE DEZEMBRO de 1974.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados, no Municípios de Touros, no Estado do Rio Grande do Norte, compreendidos na área prioritária da Reforma Agrária de que trata o Decreto número 73.082, de 5 de novembro de 1973.

@@ -1,5 +1,3 @@
-###DEC-055145-0-000-04-12-1964@@@
-
 DECRETO Nº 55.145, DE 4 DE DEZEMBRO DE 1964.
 
 Concede à Emprêsa de Exploração de Minérios Ltda., autorização para funcionar como emprêsa de mineração.

@@ -1,4 +1,5 @@
-_Publicado no DOE<br>
+_Publicado no DOE
+
 Em_ _13.02.2025_
 
 LEI Nº 14.836 DE 12 DE FEVEREIRO DE 2025

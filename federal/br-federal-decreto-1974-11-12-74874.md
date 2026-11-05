@@ -1,5 +1,3 @@
-###DEC-074874-0-000-12-11-1974@@@
-
 DECRETO Nº 74.874, DE 12 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora Brasileira S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional na Cidade de Uberlândia Estado de Minas Gerais.

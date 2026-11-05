@@ -1,5 +1,3 @@
-###DEL-005209-0-000-20-01-1943@@@
-
 DECRETO‑LEI N. 5.209 – DE 20 DE JANEIRO DE 1943
 
 Altera a carreira de Servente do Quadro Suplementar do Ministério da Guerra e dá outras providências

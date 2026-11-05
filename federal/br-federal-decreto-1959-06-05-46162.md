@@ -1,5 +1,3 @@
-###DEC-046162-0-000-05-06-1959@@@
-
 DECRETO Nº 46.162, DE 5 DE JUNHO DE 1959.
 
 Autoriza Azevedo & Sodré a construir uma linha de transmissão.

@@ -1,5 +1,3 @@
-###MPV-000178-0-000-31-03-2004@@@
-
 MEDIDA PROVISÓRIA Nº 178, DE 31 DE MARÇO 2004.
 
 Autoriza, em caráter excepcional, a antecipação da transferência de recursos prevista no art. 1o-A da Lei nº 10.336, de 19 de dezembro de 2001, nas condições em que especifica.

@@ -1,5 +1,3 @@
-###DEC-005690-0-000-03-02-2006@@@
-
 DECRETO Nº 5.690, DE 3 DE FEVEREIRO DE 2006.
 
 Fixa o valor mínimo anual por aluno de que trata o art. 6º, § 1º, da Lei no 9.424, de 24 de dezembro de 1996, para o exercício de 2006, e dá outras providências.

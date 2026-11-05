@@ -1,5 +1,3 @@
-###DEC-068383-0-000-22-03-1971@@@
-
 DECRETO Nº 68.383, de 22 de março de 1971.
 
 Autorização para funcionamento da Faculdade de Administração de Emprêsas de São José do Rio Prêto, SP.

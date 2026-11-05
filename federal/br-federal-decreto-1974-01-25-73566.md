@@ -1,5 +1,3 @@
-###DEC-073566-0-000-25-01-1974@@@
-
 decreto nº 73.566, de 25 de janeiro de 1974.
 
 Dispõe sobre a execução da Lei número 4.593, de 29 de dezembro de 1964, no que diz respeito ao registro ao plano de irrigação da Bacia do São Francisco, sob a Jurisdição da Superintendência do Vale do São Francisco - SUVALE.

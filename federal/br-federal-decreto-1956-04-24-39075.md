@@ -1,14 +1,12 @@
-###DEC-039075-0-000-24-04-1956@@@
+**DECRETO Nº 39.075, DE 24 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 39.075, DE 24 DE ABRIL DE 1956.</strong>
+***Transfere funções das Tabela Numéricas Especiais de Extranumerário-Mensalista, do Ministério da Agricultura.***
 
-<em><strong>Transfere funções das Tabela Numéricas Especiais de Extranumerário-Mensalista, do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-Mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-Mensalista abaixo indicadas:
 
 1 - uma função de Auxiliar de Serviço, ref. 20, ocupada por Celso Veiga Pamplona, da Divisão Pessoal para o Serviço de Economia Rural;
 
@@ -188,12 +186,12 @@
 
 89 - uma função de Operário Agrícola, ref. 17, ocupada por Teodolino José Rodrigues, da Escola Agrotécnica “Diaulas Peçanha”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 24 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

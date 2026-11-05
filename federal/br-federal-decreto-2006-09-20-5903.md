@@ -1,5 +1,3 @@
-###DEC-005903-0-000-20-09-2006@@@
-
 DECRETO Nº 5.903, DE 20 DE SETEMBRO DE 2006.
 
                        Regulamenta a Lei no 10.962, de 11 de outubro de 2004, e a Lei no 8.078, de 11 de setembro de 1990.
@@ -109,5 +107,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
         Marcio Thomaz Bastos
-
-Este texto não substitui o publicado no D.O.U. de 21.9.2006.

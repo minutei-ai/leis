@@ -1,5 +1,3 @@
-###DEC-067373-0-000-13-10-1970@@@
-
 DECRETO Nº 67.373, DE 13 DE OUTUBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Agricultura, cargo originário do Quadro de Pessoal da extinta Comissão Federal de Abastecimento e Preços.

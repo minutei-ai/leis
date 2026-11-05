@@ -1,5 +1,3 @@
-###DEL-006832-0-000-26-08-1944@@@
-
 DECRETO-LEI N. 6.832 – DE 26 DE AGÔSTO DE 1944
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

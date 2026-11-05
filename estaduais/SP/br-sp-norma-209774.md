@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209774)<br>
-
 # DECRETO N° 68.724, DE 25 DE JULHO DE 2024
 
 ### _Altera o dispositivo que especifica do Decreto n° 67.561, de 15 de março de 2023._

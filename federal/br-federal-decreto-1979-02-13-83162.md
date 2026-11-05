@@ -1,5 +1,3 @@
-###DEC-083162-0-000-13-02-1979@@@
-
 decreto nº 83.162, de 13 de fevereiro de 1979
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Mato Grosso, Estado de Mato Grosso, e dá outras providências.

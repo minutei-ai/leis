@@ -1,5 +1,3 @@
-###DEC-057267-0-000-16-11-1965@@@
-
 DECRETO Nº 57.267, DE 16 DE NOVEMBRO DE 1965.
 
 Autoriza a Companhia Siderúrgica da Guanabara - COSIGUA - a lavra calcário, no município de Pedro Leopoldo, Estado de Minas Gerais.

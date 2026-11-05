@@ -1,5 +1,3 @@
-###DEC-088445-0-000-29-06-1983@@@
-
 # Decreto nº 88.445, de 29 de junho de 1983
 
 Outorga concessão à RADIO DIFUSORA DE BARRA DO GARÇAS LIMITADA, para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Barra do Garças, Estado do Mato Grosso.

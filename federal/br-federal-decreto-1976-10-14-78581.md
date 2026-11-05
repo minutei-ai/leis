@@ -1,5 +1,3 @@
-###DEC-078581-0-000-14-10-1976@@@
-
 DECRETO Nº 78.581, DE 14 DE OUTUBRO DE 1976.
 
 Concede à Companhia Vale do Rio Santo Antônio de Minérios - VALERISA o direito de lavrar minério de ferro no Município de Conceição do Mato Dentro, Estado de Minas Gerais.

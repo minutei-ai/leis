@@ -1,5 +1,3 @@
-###DEC-057906-0-000-03-03-1966@@@
-
 DECRETO Nº 57.906, DE 3 DE MARÇO DE 1966.
 
 Concede à The London Assurance autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

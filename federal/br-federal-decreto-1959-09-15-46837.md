@@ -1,5 +1,3 @@
-###DEC-046837-0-000-15-09-1959@@@
-
 decreto nº 46.837, de 15 de setembro de 1959.
 
 Transfere da Companhia Industrial de Estância S.A. para a Companhia Sul Sergipana de Eletricidade S.A. a concessão para distribuir energia elétrica nos municípios de Santa Luzia do Itanhi, Arauá, Pedrinhas, Buquim e Riachão do Dantas, no Estado de Sergipe.

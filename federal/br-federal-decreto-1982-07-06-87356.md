@@ -1,5 +1,3 @@
-###DEC-087356-0-000-06-07-1982@@@
-
 Decreto nº 87.356, de 06 de julho de 1982.
 
 Autoriza a Petrobrás Comércio Internacional S.A. - INTERBRÁS a aumentar o Capital Social de sua subsidiária INTERNOR TRADE INC., com sede em Nova York - EUA.

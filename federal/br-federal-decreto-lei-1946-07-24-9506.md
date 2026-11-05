@@ -1,5 +1,3 @@
-###DEL-009506-0-000-24-07-1946@@@
-
 DECRETO-LEI N. 9.506 – DE 24 DE JULHO DE 1946
 
 Autoriza a intervenção do Govêrno Federal na Companhia Estrada de Ferro Mossoró

@@ -1,5 +1,3 @@
-###DEC-007631-0-000-01-12-2011-PUB-01@@@
-
 DECRETO Nº 7.631, DE 1º DE DEZEMBRO DE 2011
 
 Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 6.006, de 28 de dezembro de 2006, altera as alíquotas do IPI incidentes sobre os eletrodomésticos que menciona, e reduz a zero a alíquota do IPI incidente sobre papel sintético destinado à impressão de livros e periódicos.

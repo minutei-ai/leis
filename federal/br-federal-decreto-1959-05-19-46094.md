@@ -1,5 +1,3 @@
-###DEC-046094-0-000-19-05-1959@@@
-
 DECRETO Nº 46.094, DE 19 DE MAIO DE 1959.
 
 Dá nova redação ao parágrafo 2º do art. 1º do Decreto nº 35.951, de 29 de junho de 1954.

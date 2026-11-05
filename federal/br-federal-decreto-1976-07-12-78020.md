@@ -1,5 +1,3 @@
-###DEC-078020-0-000-12-07-1976@@@
-
 DECRETO Nº 78.020, DE 12 JULHO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora do Amazonas Ltda Para executar serviços de radiodifusão sonoro em onda média de âmbito regional, na cidade de Manaus, Estado do Amazonas.

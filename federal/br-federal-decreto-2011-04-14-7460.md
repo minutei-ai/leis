@@ -1,5 +1,3 @@
-###DEC-007460-0-000-14-04-2011-PUB-01@@@
-
 DECRETO Nº 7.460, DE 14 DE ABRIL DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1970, de 26 de fevereiro de 2011, do Conselho de Segurança das Nações Unidas, que estabelece regime de sanções à Jamahiriya Árabe da Líbia e prevê, entre outras providências, o embargo de armas e a remessa da situação do país ao Tribunal Penal Internacional, além de determinar proibição de viagens e congelamento de fundos de indivíduos especificamente designados.

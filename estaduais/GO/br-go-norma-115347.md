@@ -16,8 +16,14 @@ RENATA LACERDA NOLETO
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GAB. DA SECRETARIA GERAL DE GOVERNO</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO</td><td style=" width:85px;    ">15 451 1003 2606</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 21.833.573,26</td><td style=" width:85px;    ">R$ 7.105.797,32</td><td style=" width:85px;    ">R$ 28.939.370,58</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**4000 - SECRETARIA-GERAL DE GOVERNO** 4001 - GAB. DA SECRETARIA GERAL DE GOVERNO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO</td><td>15 451 1003 2606</td><td>25000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 21.833.573,26</td><td>R$ 7.105.797,32</td><td>R$ 28.939.370,58</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 7.105.797,32</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 7.105.797,32</td></tr></tbody></table>
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 7.105.797,32
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 7.105.797,32

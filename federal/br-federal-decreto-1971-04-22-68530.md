@@ -1,5 +1,3 @@
-###DEC-068530-0-000-22-04-1971@@@
-
 DECRETO Nº 68.530 - DE 22 DE ABRIL DE 1971.
 
 Declara de utilidade pública o Colégio São José, com sede em Bauru, Estado de são Paulo.

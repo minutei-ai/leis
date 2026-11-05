@@ -1,5 +1,3 @@
-###DEC-054267-0-000-08-09-1964@@@
-
 DECRETO Nº 54.267, DE 8 DE SETEMBRO DE 1964.
 
 Estabelece normas para o abate de gado bovino nos anos de 1964 e 1965, e dá outras providências.

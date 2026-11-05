@@ -1,5 +1,3 @@
-###DEC-092771-0-000-11-06-1986@@@
-
 DECRETO Nº 92.771, DE 11 DE JUNHO DE 1986
 
 Prorroga o prazo a que se refere o artigo 3º do Decreto nº 91.450, de 18 de julho de 1985; que instituiu a Comissão Provisória de Estudos Constitucionais.

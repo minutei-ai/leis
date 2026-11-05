@@ -1,5 +1,3 @@
-###DEC-091567-0-000-23-08-1985@@@
-
 Decreto nº 91.567, de 23 de agosto de 1985
 
 Renova a concessão outorgada à RÁDIO EDUCADORA DO NORDESTE E CORREIO DA SEMANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Sobral, Estado do Ceará.

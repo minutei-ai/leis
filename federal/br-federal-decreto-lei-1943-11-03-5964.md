@@ -1,5 +1,3 @@
-###DEL-005964-0-000-03-11-1943@@@
-
 DECRETO‑LEI N. 5. 964 – DE 3 DE NOVEMBRO DE 1943
 
 Modifica as medidas de emergência tomadas pelo decreto‑lei n. 4.613, de 25 de agôsto de 1942, e fixa novos preços para o carvão nacional
@@ -88,7 +86,33 @@ Tabela de preços do carvão nacional
 
 # ANEXA AO DECRETO‑LEI N. 5.964, DE NOVEMBRO DE 1943
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARVÃO DO RIO GRANDE DO SUL:</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo "Graúdo", tendo, no mínimo, 4,500 calorias/quilo......................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 110,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo "Bitolado", tendo, no mínimo, 4.500 calorias/quilo.....................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 115,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo "Lavado", tendo, no mínimo 4.900 calorias/quilo .......................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 125,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARVÃO DE SANTA CATARINA:</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo "Graúdo”, tendo, no mínimo, 5.300 calorias/quilo...............................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 130,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo "Escolhido", tendo, no mínimo, 5.800 calorias/quilo...........................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 140,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo "Lavado", tendo, no mínimo, 5. 800 calorias/quilo .............................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 145,00</span></p></td></tr></tbody></table>
+CARVÃO DO RIO GRANDE DO SUL:
+
+Tipo "Graúdo", tendo, no mínimo, 4,500 calorias/quilo......................................................
+
+Cr$ 110,00
+
+Tipo "Bitolado", tendo, no mínimo, 4.500 calorias/quilo.....................................................
+
+Cr$ 115,00
+
+Tipo "Lavado", tendo, no mínimo 4.900 calorias/quilo .......................................................
+
+Cr$ 125,00
+
+CARVÃO DE SANTA CATARINA:
+
+Tipo "Graúdo”, tendo, no mínimo, 5.300 calorias/quilo...............................................
+
+Cr$ 130,00
+
+Tipo "Escolhido", tendo, no mínimo, 5.800 calorias/quilo...........................................
+
+Cr$ 140,00
+
+Tipo "Lavado", tendo, no mínimo, 5. 800 calorias/quilo .............................................
+
+Cr$ 145,00
 
 Os preços dos carvões com poder calorífico inferior aos acima especifi­cados, para cada tipo, serão calculados pela seguinte fórmula:
 

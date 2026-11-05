@@ -1,5 +1,3 @@
-###DEC-051936-A-000-26-04-1963@@@
-
 DECRETO Nº 51.936-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Genésio Teixeira da Silva a pesquisar feldspato no município de São Gonçalo, Estado do Rio de Janeiro.

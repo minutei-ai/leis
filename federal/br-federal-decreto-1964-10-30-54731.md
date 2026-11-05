@@ -1,5 +1,3 @@
-###DEC-054731-0-000-30-10-1964@@@
-
 DECRETO Nº 54.731, DE 30 DE OUTUBRO DE 1964.
 
 Transfere concessão para distribuir energia elétrica.

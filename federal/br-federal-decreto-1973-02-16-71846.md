@@ -1,5 +1,3 @@
-###DEC-071846-0-000-16-02-1973@@@
-
 DECRETO Nº 71.846, DE 16 DE FEVEREIRO DE 1973.
 
 Declara de utilidade pública as instituições que menciona.

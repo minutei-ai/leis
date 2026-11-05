@@ -1,5 +1,3 @@
-###DEC-053798-0-000-23-03-1964@@@
-
 Decreto nº 53.798, de 23 de março de 1964.
 
 Autoriza o cidadão brasileiro Lázaro de Souza Moraes a pesquisar feldspato e quartzo no município de Socorro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-073993-0-000-29-04-1974@@@
-
 DECRETO Nº 73.993, DE 29 DE ABRIL DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra rural e respectiva faixa de acesso, sem benfeitorias, situadas no Município de Nova Era, Estado de Minas Gerais, destinadas à construção de uma estação-rádio e serviços afins, pela Telecomunicações de Minas Gerais S.A. - TELEMIG.

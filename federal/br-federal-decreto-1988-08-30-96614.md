@@ -1,5 +1,3 @@
-###DEC-096614-0-000-30-08-1988@@@
-
 DECRETO Nº 96.614, DE 30 DE AGOSTO DE 1988
 
 Outorga concessão à TELEVISÃO CANAL 2  MINAS GERAIS LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Belo Horizonte, Estado de Minas Gerais.

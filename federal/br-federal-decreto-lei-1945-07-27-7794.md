@@ -1,5 +1,3 @@
-###DEL-007794-0-000-27-07-1945@@@
-
 DECRETO-LEI N. 7.794 – DE 27 DE JULHO DE 1945
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 100.000,00 para o fim que especifica e dá outras providências

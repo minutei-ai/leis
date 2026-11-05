@@ -1,5 +1,3 @@
-###DEC-004582-0-000-30-01-2003@@@
-
 DECRETO Nº 4.582, DE 30 DE JANEIRO DE 2003.
 
      Regulamenta o funcionamento do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA, e dá outras providências.
@@ -98,5 +96,4 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
 LUIZ INÁCIO LULA DA SILVA
 
-<br>
 José Graziano da Silva

@@ -1,5 +1,3 @@
-###DEC-073669-0-000-18-02-1974@@@
-
 DECRETO Nº 73.669, DE 18 DE FEVEREIRO DE 1974.
 
 Concede reconhecimento à Escola Superior de Educação Física de Santa Cruz do Sul, com os cursos de Educação Física e de Técnico em Desportos, mantida pela Associação Pró-Ensino Superior, com sede na cidade de Santa Cruz do Sul, Estado do Rio Grande do Sul.

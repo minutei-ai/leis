@@ -1,14 +1,12 @@
-###DEC-032292-0-000-20-02-1953@@@
+**DECRETO Nº 32.292, DE 20 DE FEVEREIRO DE 1953.**
 
-<strong>DECRETO Nº 32.292, DE 20 DE FEVEREIRO DE 1953.</strong>
+***Abre, ao Poder Judiciário - Superior Tribunal Militar - o crédito especial de Cr$767.650,00, para os fins que especifica.***
 
-<em><strong>Abre, ao Poder Judiciário - Superior Tribunal Militar - o crédito especial de Cr$767.650,00, para os fins que especifica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida na Lei nº 1.653, de 22 de julho de 1952, e tendo ouvido o Tribunal de Contas, nos têrmos do artigo 93 do Regulamento do Código de Contabilidade Pública da União,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida na Lei nº 1.653, de 22 de julho de 1952, e tendo ouvido o Tribunal de Contas, nos têrmos do artigo 93 do Regulamento do Código de Contabilidade Pública da União,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica aberto, ao Poder Judiciário, o credito especial de Cr$767.650,00 (setecentos e sessenta e sete mil e seiscentos e cinquenta cruzeiros), para ocorrer ao pagamento de despesas do Superior Tribunal Militar, relativas ao exercício de 1951, conforme indicação que se segue:
+**Art**. 1º Fica aberto, ao Poder Judiciário, o credito especial de Cr$767.650,00 (setecentos e sessenta e sete mil e seiscentos e cinquenta cruzeiros), para ocorrer ao pagamento de despesas do Superior Tribunal Militar, relativas ao exercício de 1951, conforme indicação que se segue:
 
 Verba 1 - Pessoal.
 
@@ -50,11 +48,11 @@ Subconsignação 41 - Salário-família.
 
 Total - Cr$767.650,00.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 20 de fevereiro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Francisco Negrão de Lima
 

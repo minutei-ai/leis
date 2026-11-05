@@ -1,5 +1,3 @@
-###DEC-065188-0-000-18-09-1969@@@
-
 DECRETO Nº 65.188 - DE 18 DE SETEMBRO DE 1969.
 
 Dispõe sobre a data da vigência das modificações introduzidas na Lei número 4.595, de 31 de dezembro de 1964, constantes do artigo 4º do Decreto-lei nº 581, de 14 de maio de 1969.

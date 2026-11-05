@@ -1,5 +1,3 @@
-###DEC-085540-0-000-16-12-1980@@@
-
 DECRETO Nº 85.540, DE 16 DE DEZEMBRO DE 1980.
 
 Altera a subordinação do 9º Batalhão de Engenharia de Combate no Ministério do Exército.

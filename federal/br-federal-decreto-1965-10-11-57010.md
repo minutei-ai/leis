@@ -1,5 +1,3 @@
-###DEC-057010-0-000-11-10-1965@@@
-
 DECRETO Nº 57.010, DE 11 DE OUTUBRO DE 1965.
 
 Concede à sociedade Refinaria Salineira Ltda. - Comércio, Indústria e Navegação autorização para continuar a funcionar como emprêsa de navegação de cabotagem, sob nova forma social de Refinaria Salineira S.A. - Indústria, Comércio e Navegação.

@@ -1,5 +1,3 @@
-###DEC-086215-0-000-15-07-1981@@@
-
 Decreto nº 86.215, de 15 de julho de 1981
 
 Fixa normas para a transferência, transformação e desativação de empresas sob o controle do Governo Federal, nos casos que especifica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097900-0-000-04-07-1989@@@
-
 DECRETO Nº 97.900, DE 4 DE JULHO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado Morro dos Chaves, classificado como latifúndio por exploração, situado no Município de Propriá, Estado de Sergipe, compreendido na zona prioritária fixada pelo Decreto n° 92.687, de 19 de maio de 1986, e dá outras providências

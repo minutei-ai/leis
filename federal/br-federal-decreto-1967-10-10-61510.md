@@ -1,5 +1,3 @@
-###DEC-061510-0-000-10-10-1967@@@
-
 DECRETO Nº 61.510, DE 10 DE OUTUBRO DE 1967.
 
 Transfere cargo do Ministério da Aeronáutica para o Departamento Administração do Pessoal Civil.

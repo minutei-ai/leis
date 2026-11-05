@@ -1,5 +1,3 @@
-###DEC-054017-0-000-13-07-1964@@@
-
 Decreto nº 54.017, de 13 de julho de 1964.
 
 Dispõe sôbre o horário de trabalho nos Estabelecimentos Reembolsáveis, Lavanderias, Fazendas e Granjas da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-007826-0-000-15-10-2012-PUB-01@@@
-
 DECRETO Nº 7.826, DE 15 DE OUTUBRO DE 2012
 
 Altera o Decreto nº 6.558, de 8 de setembro de 2008, que institui a hora de verão em parte do território nacional, para incluir o Estado de Tocantins e excluir o Estado da Bahia em sua abrangência.

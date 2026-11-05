@@ -1,5 +1,3 @@
-###DEC-088275-0-000-03-05-1983@@@
-
 DECRETO Nº 88.275, DE 03 DE MAIO DE 1983
 
 Concede à Cia. Aços Especiais Itabira - ACESITA autorização para proceder a aumento de seu capital social.

@@ -1,5 +1,3 @@
-###DEC-078440-0-000-20-09-1976@@@
-
 DECRETO Nº 78.440, DE 20 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis, da Fundação Universidade Estadual de Maringá, com sede na cidade de Maringá, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-055062-0-000-24-11-1964@@@
-
 DECRETO Nº 55.062, DE 24 DE NOVEMBRO DE 1964.
 
 Torna sem efeito o Decreto número 54.001, de 3 de julho de 1964.

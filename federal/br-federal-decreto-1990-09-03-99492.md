@@ -1,7 +1,3 @@
-1
-
-###DEC-099492-0-000-03-09-1990@@@
-
 DECRETO N° 99.492, DE 3 DE SETEMBRO DE 1990
 
 Constitui as Fundações Instituto Brasileiro de Arte e Cultura IBAC, Biblioteca Nacional (BN), e a Autarquia Federal Instituto Brasileiro do Patrimônio Cultural IBPC.

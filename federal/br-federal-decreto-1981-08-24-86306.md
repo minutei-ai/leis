@@ -1,5 +1,3 @@
-###DEC-086306-0-000-24-08-1981@@@
-
 Decreto nº 86.306 de 24 de agosto de 1981
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados Glebas "Dirce", "Marcondes" e "Virgilio", situados no Município de Colider, no Estado de Mato Grosso, compreendidos na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 84.523, de 3 de março de 1980.

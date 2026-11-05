@@ -1,5 +1,3 @@
-###DEC-088561-0-000-02-08-1983@@@
-
 DECRETO Nº 88.561, de 02 de agosto de 1983
 
 Concede à Telecomunicações Aeronáuticas S/A - TASA autorização para proceder ao aumento de seu capital.

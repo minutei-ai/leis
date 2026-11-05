@@ -1,5 +1,3 @@
-###DEC-053171-0-000-11-12-1963@@@
-
 DECRETO Nº 53.171, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza Chaves, Fumo & Cia. Ltda. a pesquisar minério de ferro no município de Moeda, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-049640-0-000-30-12-1960@@@
-
 DECRETO Nº 49.640, DE 30 DE DEZEMBRO DE 1960.
 
 Concede à Mineração Cajury Ltda. autorização para funcionar como emprêsa de mineração.

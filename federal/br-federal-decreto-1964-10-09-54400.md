@@ -1,5 +1,3 @@
-###DEC-054400-0-000-09-10-1964@@@
-
 DECRETO Nº 54.400, DE 9 DE OUTUBRO DE 1964.
 
 Altera o Regulamento da Escola de Especialistas da Aeronáutica.

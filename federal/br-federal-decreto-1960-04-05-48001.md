@@ -1,5 +1,3 @@
-###DEC-048001-0-000-05-04-1960@@@
-
 Decreto nº 48.001, de 5 de abril de 1960.
 
 Declara de utilidade pública a Província Carmelitana Fluminense, com sede no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-052064-0-000-27-05-1963@@@
-
 Decreto nº 52.064, de 27 de maio de 1963.
 
 Declara de utilidade pública a Fundação Santa Luzia, com sede em Salvador - Estado da Bahia.

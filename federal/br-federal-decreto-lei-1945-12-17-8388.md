@@ -1,5 +1,3 @@
-###DEL-008388-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.388 – DE 17 DE DEZEMBRO DE 1945
 
 Altera a carreira de Contínuo do Quadro Suplementar do Ministério da Marinha, e dá outras providências.

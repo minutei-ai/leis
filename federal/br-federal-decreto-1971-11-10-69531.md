@@ -1,5 +1,3 @@
-###DEC-069531-0-000-10-11-1971@@@
-
 DECRETO Nº 69.531 - DE 10 DE NOVEMBRO DE 1971
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Barra Mansa, RJ.

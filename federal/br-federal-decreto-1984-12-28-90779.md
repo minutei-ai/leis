@@ -1,5 +1,3 @@
-###DEC-090779-0-000-28-12-1984@@@
-
 Decreto nº 90.779, de 28 de dezembro de 1984.
 
 Autoriza o funcionamento de habilitação em Administração Hospitalar da Fundação Educacional de Votuporanga - SP.

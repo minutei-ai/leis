@@ -1,5 +1,3 @@
-###DEC-066808-0-000-30-06-1970@@@
-
 DECRETO Nº 66.808 - DE 30 DE JUNHO DE 1970
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Propriá até a subestação de Darcilena, ambas situadas no município de Propriá, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-003420-0-000-20-04-2000@@@
-
 Decreto nº 3.420, de 20 de abril de 2000.
 
 Dispõe sobre a criação do Programa Nacional de Florestas - PNF, e dá outras providências.

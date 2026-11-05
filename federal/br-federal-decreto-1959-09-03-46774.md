@@ -1,5 +1,3 @@
-###DEC-046774-0-000-03-09-1959@@@
-
 DECRETO Nº 46.774, DE 03 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Amaro Gripp a pesquisar mica no município de Galileia, Estado de Minas Gerais.

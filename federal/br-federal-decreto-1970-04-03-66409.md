@@ -1,5 +1,3 @@
-###DEC-066409-0-000-03-04-1970@@@
-
 DECRETO Nº 66.409, DE 3 DE ABRIL DE 1970.
 
 Retifica a retribuição da Diretoria da Comissão do Plano do Carvão Nacional - CPCAN.

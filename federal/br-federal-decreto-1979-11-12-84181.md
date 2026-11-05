@@ -1,5 +1,3 @@
-###DEC-084181-0-000-12-11-1979@@@
-
 Decreto 84.181, de 12 de novembro de 1979
 
 Altera a redação do artigo 87, do Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963.

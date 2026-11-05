@@ -1,5 +1,3 @@
-###DEC-079377-0-000-11-03-1977@@@
-
 DECRETO Nº 79.377, DE 11 DE MARÇO DE 1977.
 
 Concede autorização às Companhias Key International Drilling Company Limited e Key Perfurações Marítimas Ltda. para operarem no mar territorial do Brasil a embarcação "Key West", de sua propriedade e de nacionalidade liberiana, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

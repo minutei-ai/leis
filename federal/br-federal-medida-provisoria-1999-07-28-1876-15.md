@@ -1,5 +1,3 @@
-###MPV-001876-0-015-28-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.876-15, DE 28 DE JULHO DE 1999.
 
 Dispõe sobre a adoção de medidas relacionadas com o Sistema Financeiro da Habitação - SFH, altera as Leis nºs 4.380, de 21 de agosto de 1964, 8.036, de 11 maio de 1990, e 8.692, de 28 de julho de 1993, e dá outras providências.

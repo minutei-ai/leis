@@ -1,5 +1,3 @@
-###DEC-091499-0-000-30-07-1985@@@
-
 DeCRETO nº 91.499, de 30 de julho de 1985
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE MOGI-GUAÇU LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Mogi-Guaçu, Estado de São Paulo.

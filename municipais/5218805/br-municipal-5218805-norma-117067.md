@@ -32,7 +32,7 @@ Secretário de Planejamento e Gestão
 
 “1. Tabela 1 - Prefeitura Municipal de Rio Verde
 
-| **ESPÉCIE /** **NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
+| **ESPÉCIE /NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
 | --- | --- | --- | --- |
 | .......... | .................... | ............................................... | ............................. |
 | FG-1 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de alta complexidade. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. Seus atributos complementares deverão ser especificados no Decreto de designação. | ............................. |
@@ -49,7 +49,7 @@ Secretário de Planejamento e Gestão
 
 2\. Tabela 2- Secretaria Municipal de Educação - SME
 
-| **ESPÉCIE /** **NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
+| **ESPÉCIE /NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
 | --- | --- | --- | --- |
 | .............. | ............... | ................................................. | ............. |
 | FG-4 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a gestão do processo de informatização da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. Seus atributos complementares deverão ser especificados no Decreto de designação. | ............. |
@@ -59,7 +59,7 @@ Secretário de Planejamento e Gestão
 
 3\. Tabela 3 — Secretária Municipal de Saúde-SMS
 
-| **ESPÉCIE /** **NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
+| **ESPÉCIE /NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
 | --- | --- | --- | --- |
 | FG-1 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão dos processos administrativos de alta complexidade da Secretaria Municipal de Saúde. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e Secretaria Municipal de Saúde. Seus atributos complementares deverão ser especificados no Decreto de designação. | ...................... |
 | ......... | ................ | ............................................ | ...................... |
@@ -73,7 +73,7 @@ Secretário de Planejamento e Gestão
 
 4\. Tabela 4 - Secretaria Municipal de Assistência Social - SMAS
 
-| **ESPÉCIE /** **NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
+| **ESPÉCIE /NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
 | --- | --- | --- | --- |
 | FG-1 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas das Secretarias envolvidas no processo. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | ................... |
 | FG-2 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, não centralizáveis, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. Desejáveis conhecimentos técnicos e experiência nafunção para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | ................... |
@@ -82,7 +82,8 @@ Secretário de Planejamento e Gestão
 | ......... | ...................... | ................................................................ | ................... |
 | FG-6 | Gestor de Processos Estratégico | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de Assistência Social. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Seus atributos complementares deverão ser especificados no Decreto de designação. | ................... |
 | ......... | ...................... | ................................................................ | ................... |
-| FG-7 | Gestor de Processos Estratégico | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de<br>
+| FG-7 | Gestor de Processos Estratégico | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de
+
 Assistência Social, que envolvem a gestão dos processos administrativos de Assistência Social. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | ................... |
 | ......... | ...................... | ................................................................ | ................... |
 
@@ -90,7 +91,7 @@ Assistência Social, que envolvem a gestão dos processos administrativos de As
 
 9\. Tabela 9 - Instituto de Previdência de Assistência dos Servidores Municipais de rio verde - IPARV
 
-| **ESPÉCIE /** **NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
+| **ESPÉCIE /NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
 | --- | --- | --- | --- |
 | .......... | ............ | ................................................................................. | ....................... |
 | FG-2 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. E responsável por planejar, controlar a execução e acompanhar um projeto de forma e efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | ....................... |

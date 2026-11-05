@@ -1,5 +1,3 @@
-###DEC-093608-0-000-21-11-1986@@@
-
 DECRETO Nº 93.608, DE 21 DE NOVEMBRO DE 1986.
 
 Dispõe sobre a dissolução de sociedades mercantis sob o controle indireto da União, que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-007343-0-000-26-10-2010-PUB-01@@@
-
 DECRETO Nº 7.343, DE 26 DE OUTUBRO DE 2010.
 
 Regulamenta a Lei no 12.114, de 9 de dezembro de 2009, que cria o Fundo Nacional sobre Mudança do Clima - FNMC, e dá outras providências.

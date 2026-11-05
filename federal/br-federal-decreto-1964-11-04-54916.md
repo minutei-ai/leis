@@ -1,5 +1,3 @@
-###DEC-054916-0-000-04-11-1964@@@
-
 DECRETO Nº 54.916, DE 4 DE NOVEMBRO DE 1964.
 
 Renova o Decreto N.º 48.618, de 25 de julho de 1960.

@@ -1,5 +1,3 @@
-###DEC-079627-0-000-28-04-1977@@@
-
 DECRETO Nº 79.627, DE 28 DE ABRIL DE 1977.
 
 Concede reconhecimento ao curso de Ciência Biológicas da Universidade Federal do Rio Grande do Norte.

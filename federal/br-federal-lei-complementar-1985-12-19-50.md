@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/984902e4-5308-41ac-92c5-8165eb4bb824/texto#nowhere)
 
-###LCP-000050-0-000-19-12-1985@@@
-
 # LEI COMPLEMENTAR Nº 50, de 19 de dezembro de 1985.
 
 Altera a redação do art. 1º da Lei Complementar nº 45, de 14 de dezembro de 1983, e concede poderes às Câmaras Municipais para efetuar o cálculo da remuneração dos Vereadores.

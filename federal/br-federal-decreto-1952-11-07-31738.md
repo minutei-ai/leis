@@ -1,47 +1,315 @@
-###DEC-031738-0-000-07-11-1952@@@
+**DECRETO Nº 31.738, DE 7 NOVEMBRO DE1952.**
 
-<strong>DECRETO Nº 31.738, DE 7 NOVEMBRO DE1952.</strong>
+***Fixa os vencimento dos servidores da Caixa Econômica Federal de Santa Catarina.***
 
-<em><strong>Fixa os vencimento dos servidores da Caixa Econômica Federal de Santa Catarina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos do art. 33 da Lei nº 488, de 15 de novembro de 1948,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos do art. 33 da Lei nº 488, de 15 de novembro de 1948,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os padrões alfabéticos dos vencimento do pessoal da Caixa Econômica Federal de Santa Catarina (C.E.F.S.C.) obedecerão aos valores fixados nos artigos 3º e 8º da Lei nº 488, de 15 novembro de 1.948, observada a tabela de conversão anexa, que faz parte integrante dêste Decreto.
+**Art**. 1º Os padrões alfabéticos dos vencimento do pessoal da Caixa Econômica Federal de Santa Catarina (C.E.F.S.C.) obedecerão aos valores fixados nos artigos 3º e 8º da Lei nº 488, de 15 novembro de 1.948, observada a tabela de conversão anexa, que faz parte integrante dêste Decreto.
 
 Parágrafo único - Não haverá na Caixa Econômica Federal de Santa Catarina cargo de provimento efetivo, isolado ou de carreira, de padrão superior a 0.
 
-<strong>Art</strong>. 2º São fixados para os cargos de provimento em comissão existente ou que vierem a ser criados, os seguintes símbolos e valos mensais:
+**Art**. 2º São fixados para os cargos de provimento em comissão existente ou que vierem a ser criados, os seguintes símbolos e valos mensais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Símbolo</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Valor mensal</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>CC 1.............................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 15.000,00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>CC 2.............................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 13.000,00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>CC 3.............................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 11.000,00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>CC 4.............................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 10.000,00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>CC 5.............................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 9.000,.00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JC................................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 3.620,00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>IC.................................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 2.990,00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>HC................................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 2.580,00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>GC...............................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 2.170,00</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FC................................................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 1.900,00</span></span></p></td></tr></tbody></table>
+Símbolo
 
-<strong>Art</strong>. 3.º Serão providos em comissão e corresponderão aos Símbolos abaixo, os seguintes cargos:
+Valor mensal
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cargos</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Símbolo</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Secretário Geral...........................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JC</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Contador Geral ..........................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JC</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Tesoureiro Geral..........................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JC</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Consulto Jurídico.........................................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JC</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Gerente de Agência Especial......................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JC</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Gerente de Agência 1ª classe.....................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>IC</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Gerente de Agência 2ª classe.....................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>HC</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Gerente de Agência 3ª classe.....................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>GC</span></span></p></td></tr><tr><td style="width:326.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Gerente de Agência 4ª classe.....................................................................</span></span></p></td><td style="width:70.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FC</span></span></p></td></tr></tbody></table>
+CC 1.............................................................................................................
+
+Cr$ 15.000,00
+
+CC 2.............................................................................................................
+
+Cr$ 13.000,00
+
+CC 3.............................................................................................................
+
+Cr$ 11.000,00
+
+CC 4.............................................................................................................
+
+Cr$ 10.000,00
+
+CC 5.............................................................................................................
+
+Cr$ 9.000,.00
+
+JC................................................................................................................
+
+Cr$ 3.620,00
+
+IC.................................................................................................................
+
+Cr$ 2.990,00
+
+HC................................................................................................................
+
+Cr$ 2.580,00
+
+GC...............................................................................................................
+
+Cr$ 2.170,00
+
+FC................................................................................................................
+
+Cr$ 1.900,00
+
+**Art**. 3.º Serão providos em comissão e corresponderão aos Símbolos abaixo, os seguintes cargos:
+
+Cargos
+
+Símbolo
+
+Secretário Geral...........................................................................................
+
+JC
+
+Contador Geral ..........................................................................................
+
+JC
+
+Tesoureiro Geral..........................................................................................
+
+JC
+
+Consulto Jurídico.........................................................................................
+
+JC
+
+Gerente de Agência Especial......................................................................
+
+JC
+
+Gerente de Agência 1ª classe.....................................................................
+
+IC
+
+Gerente de Agência 2ª classe.....................................................................
+
+HC
+
+Gerente de Agência 3ª classe.....................................................................
+
+GC
+
+Gerente de Agência 4ª classe.....................................................................
+
+FC
 
 Parágrafo único- É assegurada a situação pessoal dos atuais ocupantes de cargos de provimento efetivo que ora são transformados em cargos de provimento em comissão.
 
-<strong>Art</strong>. 4º São fixados para as funções gratificadas os seguintes Símbolos e valores mensais:
+**Art**. 4º São fixados para as funções gratificadas os seguintes Símbolos e valores mensais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:340.3pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Símbolo</span></span></p></td><td style="width:56.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Valor mensal</span></span></p></td></tr><tr><td style="width:340.3pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG 4.................................................................................................................</span></span></p></td><td style="width:56.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 600.00</span></span></p></td></tr><tr><td style="width:340.3pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG 5..................................................................................................................</span></span></p></td><td style="width:56.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 400.00</span></span></p></td></tr><tr><td style="width:340.3pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG 6..................................................................................................................</span></span></p></td><td style="width:56.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 300.00</span></span></p></td></tr><tr><td style="width:340.3pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG 7..................................................................................................................</span></span></p></td><td style="width:56.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 200.00</span></span></p></td></tr><tr><td style="width:340.3pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG 8..................................................................................................................</span></span></p></td><td style="width:56.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 100.00</span></span></p></td></tr><tr><td style="width:340.3pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG 9..................................................................................................................</span></span></p></td><td style="width:56.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$ 50.00</span></span></p></td></tr></tbody></table>
+Símbolo
+
+Valor mensal
+
+FG 4.................................................................................................................
+
+Cr$ 600.00
+
+FG 5..................................................................................................................
+
+Cr$ 400.00
+
+FG 6..................................................................................................................
+
+Cr$ 300.00
+
+FG 7..................................................................................................................
+
+Cr$ 200.00
+
+FG 8..................................................................................................................
+
+Cr$ 100.00
+
+FG 9..................................................................................................................
+
+Cr$ 50.00
 
 Parágrafo único- Ficam reclassificadas, de acôrdo com a tabela anexa, as atuais funções gratificante da Caixa Econômica Federal de Santa Catarina.
 
-<strong>Art</strong>. 5.º Os novos valores de vencimento e funções gratificada estabelecidas neste Decreto consideram-se efetivadas a partir de 1 de janeiro de 1952.
+**Art**. 5.º Os novos valores de vencimento e funções gratificada estabelecidas neste Decreto consideram-se efetivadas a partir de 1 de janeiro de 1952.
 
-<strong>Art</strong>. 6.º Os vencimentos fixados no presente Decreto serão reduzidos caso a Caixa Econômica Federal de Santa Catarina apresenta <em>deficit</em> nos três exercícios futuros
+**Art**. 6.º Os vencimentos fixados no presente Decreto serão reduzidos caso a Caixa Econômica Federal de Santa Catarina apresenta *deficit* nos três exercícios futuros
 
-<strong>Art</strong>. 7º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 7º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 7 de novembro de 1952; 131º da Indepedência e 64º da República.
 
-<strong>TABELA A QUE SE REFERE O ART. DO DECRETO Nº 31.738, DE 7 DE</strong>
+**TABELA A QUE SE REFERE O ART. DO DECRETO Nº 31.738, DE 7 DE**
 
-<strong>NOVEMBRO DE 1952</strong>
+**NOVEMBRO DE 1952**
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Situação atual Valor mensal</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Padrão ou Referencia</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Situação nova Valor mensal</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$............................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>..............................................................Cr$</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>600,00.......................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>15</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................900,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>850,00......................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................1.200,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>- ...............................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>B</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................1.310,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>- ..............................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>C</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................1.440,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1,100,00</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>.</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1.150,00...................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>D</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................1.580,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1.250,00...................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>E</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................1.720,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1.300,00...................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1.500,00...................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>F</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................1,900,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>-................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>G</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>................................................................ 2.170,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>-................................................</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>-................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>H</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>I</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span><span>.................................................................2.580,00</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................2.990,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2.500,00...................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>J</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................3.620,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>-................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>K</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................4.310,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>-................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>L</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................5.160,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>-................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>M</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................6.080,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>-................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>N</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................7.230,00</span></span></p></td></tr><tr><td style="width:138.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>-................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>O</span></span></p></td><td style="width:222.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>.................................................................8.400,00</span></span></p></td></tr></tbody></table>
+Situação atual Valor mensal
+
+Padrão ou Referencia
+
+Situação nova Valor mensal
+
+Cr$............................................
+
+..............................................................Cr$
+
+600,00.......................................
+
+15
+
+.................................................................900,00
+
+850,00......................................
+
+A
+
+.................................................................1.200,00
+
+- ...............................................
+
+B
+
+.................................................................1.310,00
+
+- ..............................................
+
+C
+
+.................................................................1.440,00
+
+1,100,00
+
+.
+
+1.150,00...................................
+
+D
+
+.................................................................1.580,00
+
+1.250,00...................................
+
+E
+
+.................................................................1.720,00
+
+1.300,00...................................
+
+1.500,00...................................
+
+F
+
+.................................................................1,900,00
+
+-................................................
+
+G
+
+................................................................ 2.170,00
+
+-................................................
+
+-................................................
+
+H
+
+I
+
+.................................................................2.580,00
+
+.................................................................2.990,00
+
+2.500,00...................................
+
+J
+
+.................................................................3.620,00
+
+-................................................
+
+K
+
+.................................................................4.310,00
+
+-................................................
+
+L
+
+.................................................................5.160,00
+
+-................................................
+
+M
+
+.................................................................6.080,00
+
+-................................................
+
+N
+
+.................................................................7.230,00
+
+-................................................
+
+O
+
+.................................................................8.400,00
 
 TABELA DE FUNÇÕES GRAFICADAS A QUE SE REFERE O PARÁGRAFO ÚNICO DO ART. 5.º DO DECRETO Nº 31.738 DE 7 DE NOVEMBRO DE 1952
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Função</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Símbolo</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Inspetor de Agencia.........................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 4</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Sub- Contador..................................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 4</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Ajudante de Tesoureiro....................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 4</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Caixa de Agencia Especial .............................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 4</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Chefe de Carteira.............................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 5</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Caixa de Agência de 1.ª classe........................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 5</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Agente Postal Especial....................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 5</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Caixa de Agência de 2.ª classe........................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 7</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Agente Postal 1ª...............................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 7</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Caixa Agência 3ª classe...................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 8</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Agente Postal 2ª classe...................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 8</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Caixa Agência 4ª classe...................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 9</span></span></p></td></tr><tr><td style="width:382.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Agente Postal 3ª classe...................................................................................................</span></span></p></td><td style="width:42.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FG - 9</span></span></p></td></tr></tbody></table>
+Função
+
+Símbolo
+
+Inspetor de Agencia.........................................................................................................
+
+FG - 4
+
+Sub- Contador..................................................................................................................
+
+FG - 4
+
+Ajudante de Tesoureiro....................................................................................................
+
+FG - 4
+
+Caixa de Agencia Especial .............................................................................................
+
+FG - 4
+
+Chefe de Carteira.............................................................................................................
+
+FG - 5
+
+Caixa de Agência de 1.ª classe........................................................................................
+
+FG - 5
+
+Agente Postal Especial....................................................................................................
+
+FG - 5
+
+Caixa de Agência de 2.ª classe........................................................................................
+
+FG - 7
+
+Agente Postal 1ª...............................................................................................................
+
+FG - 7
+
+Caixa Agência 3ª classe...................................................................................................
+
+FG - 8
+
+Agente Postal 2ª classe...................................................................................................
+
+FG - 8
+
+Caixa Agência 4ª classe...................................................................................................
+
+FG - 9
+
+Agente Postal 3ª classe...................................................................................................
+
+FG - 9

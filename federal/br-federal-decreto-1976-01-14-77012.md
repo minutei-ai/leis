@@ -1,5 +1,3 @@
-###DEC-077012-0-000-14-01-1976@@@
-
 decreto nº 77.012, de 14 de janeiro de 1976.
 
 Outorga à Companhia HIDROELÉTRICA do São Francisco - CHESF, concessão para o aproveitamento da energia hidráulica do Rio Paraguaçu, no Estado da Bahia.

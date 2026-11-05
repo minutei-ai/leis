@@ -1,5 +1,3 @@
-###DEC-075794-0-000-28-05-1975@@@
-
 DECRETO Nº 75.794, DE 28 DE MAIO DE 1975.
 
 Concede reconhecimento ao curso de Professores para as Disciplinas de Formação Especial no Ensino de 2º Grau do Centro de Educação Técnica do Rio Grande do Sul, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

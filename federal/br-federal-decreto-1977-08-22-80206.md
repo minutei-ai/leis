@@ -1,5 +1,3 @@
-###DEC-080206-0-000-22-08-1977@@@
-
 DECRETO Nº 80.206, DE 22 DE AGOSTO DE 1977.
 
 Concede à Mineração Campinas S.A. o direito de lavrar calcário no Município de Caçapava do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-049265-0-000-17-11-1960@@@
-
 DECRETO Nº 49.265, DE 17 DE novembro DE 1960.
 
 Anula o Decreto nº 42.460, de 14de outubro de 1957.

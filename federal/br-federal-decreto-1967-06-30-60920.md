@@ -1,5 +1,3 @@
-###DEC-060920-0-000-30-06-1967@@@
-
 decreto nº 60.920, de 30 de junho de 1967.
 
 Institui Comissão Interministerial Permanente para o fim que especifica.

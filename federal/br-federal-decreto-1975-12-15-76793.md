@@ -1,5 +1,3 @@
-###DEC-076793-0-000-15-12-1975@@@
-
 DECRETO Nº 76.793, DE 15 DE DEZEMBRO DE 1975
 
 Concede reconhecimento à Universidade de Santa Úrsula, com sede na cidade do Rio de Janeiro, Estado do Rio Janeiro.

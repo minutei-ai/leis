@@ -1,5 +1,3 @@
-###DEC-078899-0-000-06-12-1976@@@
-
 DECRETO Nº 78.899, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Comunicação Social, da Universidade Federal Fluminense, com sede na cidade de Niterói, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-053491-0-000-27-01-1964@@@
-
 DECRETO Nº 53.491, DE 27 DE JANEIRO DE 1964.
 
 Dá nova redação aos artigos 2º e 8º do Regimento do Serviço de Meteorologia do Ministério da Agricultura.

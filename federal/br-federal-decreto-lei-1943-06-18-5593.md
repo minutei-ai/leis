@@ -1,5 +1,3 @@
-###DEL-005593-0-000-18-06-1943@@@
-
 DECRETO-LEI N. 5.593 – DE 18 DE JUNHO DE 1943
 
 Cria cargo de Promotor Público e função gratificada de Sub-Procurador no Quadro da Justiça do Ministério da Justiça e Negócios Interiores e dá outras providências

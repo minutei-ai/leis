@@ -1,6 +1,12 @@
 Lei Ordinária n° 20.957 / 2021           Lei Ordinária n° 20.913 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><font color="#808000" size="2" face="Arial"><img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
+
+<img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+**Secretaria de Estado da Casa Civil**
+
+</td></tr></tbody></table>
 
 **LEI No 20.957, DE 04 DE JANEIRO DE 2021.**
 
@@ -38,7 +44,8 @@ Art. 3o É beneficiário do PROBEM, nele podendo se inscrever, o estudante que a
 
 I – residir no Estado de Goiás;
 
-II – estar regularmente matriculado em curso de graduação não gratuito em Instituição de Ensino Superior – IES que não possua penalidades, nem esteja em processo de supervisão, e que seja devidamente credenciada, autorizada e/ou reconhecida pelo Ministério da Educação – MEC, ou pelos Sistemas Federal e Estadual de Ensino;<br>
+II – estar regularmente matriculado em curso de graduação não gratuito em Instituição de Ensino Superior – IES que não possua penalidades, nem esteja em processo de supervisão, e que seja devidamente credenciada, autorizada e/ou reconhecida pelo Ministério da Educação – MEC, ou pelos Sistemas Federal e Estadual de Ensino;
+
 [\- Redação dada pela Lei no 20.981, de 30-03-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103920/lei-20981)
 
 ~~II – estar regularmente matriculado em curso de graduação não gratuito, autorizado e/ou reconhecido pelo Ministério da Educação – MEC, em Instituição de Ensino Superior – IES, devidamente credenciada e autorizada pelo MEC;~~
@@ -69,7 +76,8 @@ DA OFERTA DOS CURSOS
 
 Art. 5o A administração do PROBEM deverá disponibilizar em seus processos seletivos, gradativamente, o percentual de vagas diferenciadas para as áreas consideradas prioritárias para o Estado de Goiás, ou seja, aquelas áreas que revelem as principais lacunas e potencialidades para a formação de recursos humanos e pesquisas para o desenvolvimento científico, tecnológico e de inovação do Estado.
 
-Parágrafo único. A definição de áreas prioritárias deverá ser realizada obrigatoriamente por estudos técnicos efetuados pela Secretaria-Geral da Governadoria, por meio do Instituto de Pesquisa e Estatísticas Mauro Borges – IMB, e, complementarmente, com dados e informações obtidos junto à Fundação de Amparo à Pesquisa do Estado de Goiás – FAPEG.  <br>
+Parágrafo único. A definição de áreas prioritárias deverá ser realizada obrigatoriamente por estudos técnicos efetuados pela Secretaria-Geral da Governadoria, por meio do Instituto de Pesquisa e Estatísticas Mauro Borges – IMB, e, complementarmente, com dados e informações obtidos junto à Fundação de Amparo à Pesquisa do Estado de Goiás – FAPEG.  
+
  
 
 CAPÍTULO IV
@@ -84,7 +92,8 @@ Art. 6o O aluno inscrito no PROBEM será submetido a processo de seleção, conf
 
 Art. 7o Em cada processo seletivo de concessão de bolsa serão reservados 5% (cinco por cento) do total de bolsas, integrais e parciais, para candidatos com deficiência.
 
-Parágrafo único. A reserva do percentual acima não dispensa o atendimento dos requisitos estabelecidos no art. 3o desta Lei.  <br>
+Parágrafo único. A reserva do percentual acima não dispensa o atendimento dos requisitos estabelecidos no art. 3o desta Lei.  
+
  
 
 CAPÍTULO V
@@ -113,7 +122,8 @@ Art. 9o A bolsa concedida terá validade de 1 (um) semestre letivo, podendo ser 
 
 § 3o A graduação do beneficiário no curso escolhido, o trancamento da matrícula ou o abandono do curso, por qualquer motivo, interrompem a concessão do benefício a partir da ocorrência de cada fato, respondendo o beneficiário e a IES pelas parcelas indevidamente recebidas a partir da interrupção.
 
-§ 4o A transferência do beneficiário para outra IES, ou a mudança de curso na mesma, ou em outra IES, dependerão de consulta prévia à administração do PROBEM e somente poderão ser feitas uma única vez e no início do semestre letivo, não podendo estender o prazo de término programado, nos termos do § 1o deste artigo, nem acarretar prejuízos ao Programa.  <br>
+§ 4o A transferência do beneficiário para outra IES, ou a mudança de curso na mesma, ou em outra IES, dependerão de consulta prévia à administração do PROBEM e somente poderão ser feitas uma única vez e no início do semestre letivo, não podendo estender o prazo de término programado, nos termos do § 1o deste artigo, nem acarretar prejuízos ao Programa.  
+
  
 
 CAPÍTULO VI
@@ -134,7 +144,8 @@ IV – cópia do ato de nomeação ou da ata da última eleição da Diretoria; 
 
 V – cópias dos documentos pessoais, acompanhadas de informações quanto a nacionalidade, ao estado civil, a profissão, o endereço e o telefone do representante legal responsável junto ao PROBEM.
 
-§ 2o O cadastramento deverá ser renovado a cada 12 (doze) meses, e deverão ser apresentados, devidamente atualizados, nos termos do regulamento, os documentos a que se refere este artigo.  <br>
+§ 2o O cadastramento deverá ser renovado a cada 12 (doze) meses, e deverão ser apresentados, devidamente atualizados, nos termos do regulamento, os documentos a que se refere este artigo.  
+
  
 
 CAPÍTULO VII
@@ -173,7 +184,8 @@ II – a doação própria de sangue; e
 
 III – a captação de doadores de sangue indicados pelo beneficiário.
 
-§ 6o Os beneficiários acometidos de doença crônica impeditiva do exercício de atividades habituais, pessoas com deficiência, idosos ou seus cuidadores, bem como os que estiverem em gozo de licença médica, por doença ou acidente devidamente comprovados por atestado médico, laudo pericial ou documento hábil expedido pelo INSS podem optar por não realizar as atividades previstas neste artigo.  <br>
+§ 6o Os beneficiários acometidos de doença crônica impeditiva do exercício de atividades habituais, pessoas com deficiência, idosos ou seus cuidadores, bem como os que estiverem em gozo de licença médica, por doença ou acidente devidamente comprovados por atestado médico, laudo pericial ou documento hábil expedido pelo INSS podem optar por não realizar as atividades previstas neste artigo.  
+
  
 
 CAPÍTULO VIII
@@ -196,12 +208,14 @@ I – adulterar documento ou falsear informação com a finalidade de fraudar o 
 
 II – adulterar documento ou falsear informação, com a finalidade de incluir ou manter no PROBEM, IES e organização parceira que não atenda às condições desta Lei e de seu regulamento; e
 
-III – omitir informação necessária ou relevante com as finalidades referidas nos incisos I e II deste artigo.  <br>
+III – omitir informação necessária ou relevante com as finalidades referidas nos incisos I e II deste artigo.  
+
  
 
 CAPÍTULO IX
 
-DA ADMINISTRAÇÃO DO PROGRAMA  <br>
+DA ADMINISTRAÇÃO DO PROGRAMA  
+
  
 
 Art. 16.  A Organização das Voluntárias de Goiás –OVG– é a administradora do PROBEM, por meio de contrato de gestão com o Estado de Goiás, nos termos da [Lei no 15.503](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80592/lei-15503), de 28 de dezembro de 2005.
@@ -218,22 +232,26 @@ IV – responder a indagações dos Poderes Legislativo e Judiciário, bem como 
 
 V – prestar contas dos resultados ao Poder Executivo do Estado de Goiás.
 
-Art. 17. Fica instituída a Comissão Executiva do PROBEM, composta por representantes do Estado, da OVG, de beneficiários e de Instituições de Ensino Superior, formalmente indicados por seus titulares e nomeados pelo Governador do Estado para mandato de 2 (dois) anos, permitida a recondução por igual período e com funções a serem estabelecidas em regulamento.  <br>
+Art. 17. Fica instituída a Comissão Executiva do PROBEM, composta por representantes do Estado, da OVG, de beneficiários e de Instituições de Ensino Superior, formalmente indicados por seus titulares e nomeados pelo Governador do Estado para mandato de 2 (dois) anos, permitida a recondução por igual período e com funções a serem estabelecidas em regulamento.  
+
  
 
 CAPÍTULO X
 
-DOS RECURSOS FINANCEIROS  <br>
+DOS RECURSOS FINANCEIROS  
+
  
 
 Art. 18. Os recursos financeiros para implementação e execução do PROBEM são oriundos do Orçamento-Geral do Estado, incluindo-se os recursos do Fundo de Proteção Social do Estado de Goiás – PROTEGE GOIÁS, instituído pela [Lei no 14.469](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81094/lei-14469), de 16 de julho de 2003, e regulamentado pelo [Decreto no 6.883](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63347/decreto-6883), de 12 de março de 2009, autorizados pelo seu Conselho Diretor para cada exercício financeiro, por meio de dotação orçamentária própria.
 
-Parágrafo único. A ampliação do número de bolsas poderá ocorrer mediante recursos provenientes de aumento da dotação própria do PROBEM, de doações de pessoas físicas e jurídicas, de empresas e de entidades não governamentais, além de outras fontes e convênios, previstos em legislação específica, e dos destinados pelo Poder Judiciário e pelo Ministério Público em razão da aplicação de penalidades, devendo haver demonstração clara das fontes de recursos na prestação de contas.<br>
+Parágrafo único. A ampliação do número de bolsas poderá ocorrer mediante recursos provenientes de aumento da dotação própria do PROBEM, de doações de pessoas físicas e jurídicas, de empresas e de entidades não governamentais, além de outras fontes e convênios, previstos em legislação específica, e dos destinados pelo Poder Judiciário e pelo Ministério Público em razão da aplicação de penalidades, devendo haver demonstração clara das fontes de recursos na prestação de contas.
+
  
 
 CAPÍTULO XI
 
-DISPOSIÇÕES FINAIS E TRANSITÓRIAS<br>
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
  
 
 Art. 19. A concessão de bolsas prevista nesta Lei dar-se-á a partir de janeiro do ano de 2021.
@@ -258,7 +276,6 @@ Art. 24. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 04 de janeiro de 2021; 133o da República.
 
-RONALDO CAIADO<br>
-Governador do Estado    
+RONALDO CAIADO
 
-_Este texto não substitui o publicado no D.O. de 05-01-2021__._
+Governador do Estado

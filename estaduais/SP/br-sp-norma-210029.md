@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210029)<br>
-
 # DECRETO N° 68.896, DE 23 DE SETEMBRO DE 2024
 
 ### _Homologa sumariamente, por 180 (cento e oi­tenta) dias, o decreto da Pre­feita do Município de São João da Boa Vista que declarou Situação de Emer­gência em áreas do Município._

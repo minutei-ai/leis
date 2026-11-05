@@ -1,5 +1,3 @@
-###DEC-057574-0-000-04-01-1966@@@
-
 DECRETO Nº 57.574, DE 4 DE JANEIRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Catarinense de Seguros Gerais, relativa ao aumento do capital social.

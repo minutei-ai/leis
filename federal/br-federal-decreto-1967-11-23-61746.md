@@ -1,5 +1,3 @@
-###DEC-061746-0-000-23-11-1967@@@
-
 DECRETO Nº 61.746, DE 23 DE NOVEMBRO DE 1967.
 
 Revoga o Decreto nº 10.483, de 24 de setembro de 1942, e outorga a Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no município de Barra Longa, Estado de Minas Gerais.

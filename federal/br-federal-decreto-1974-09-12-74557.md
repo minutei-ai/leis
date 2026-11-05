@@ -1,5 +1,3 @@
-###DEC-074557-0-000-12-09-1974@@@
-
 DECRETO nº 74.557, DE 12 DE SETEMBRO DE 1974.
 
 Cria a Comissão Interministerial para os Recursos do Mar (CIRM) e dá outras providências.

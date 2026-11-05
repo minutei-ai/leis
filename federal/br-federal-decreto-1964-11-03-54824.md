@@ -1,5 +1,3 @@
-###DEC-054824-0-000-03-11-1964@@@
-
 DECRETO Nº 54.824, DE 3 DE Novembro DE 1964.
 
 Concede à Damina - Comércio e Representações Limitada autorização para funcionar como emprêsa de mineração.

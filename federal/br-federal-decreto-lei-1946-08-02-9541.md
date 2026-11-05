@@ -1,5 +1,3 @@
-###DEL-009541-0-000-02-08-1946@@@
-
 DECRETO-LEI N. 9.541 – DE 2 DE AGÔSTO DE 1946
 
 Fixa a segunda contribuição do Brasil destinada à Administração de Assistência e Reabilitação das Nações, Unidas (United Nations Relief and Rehabilitation Administration – U.N.R.R.A.), e dá outras providências.

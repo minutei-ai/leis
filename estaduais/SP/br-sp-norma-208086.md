@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208086)<br>
-
 # DECRETO N° 67.698, DE 09 DE MAIO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 433+950m da Rodovia Miguel Jubran, SP-333, nos Municípios de Florínea, Assis e Tarumã, e dá providências correlatas._

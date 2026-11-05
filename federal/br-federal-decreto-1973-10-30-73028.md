@@ -1,5 +1,3 @@
-###DEC-073028-0-000-30-10-1973@@@
-
 DECRETO Nº 73.028, DE 30 DE OUTUBRO DE 1973.
 
 Declara perempta a concessão outorgada à Fundação Metropolitana Paulista, para executar serviço de radiodifusão sonora em ondas médias de âmbito regional, na cidade de São Paulo, Estado do São Paulo.

@@ -1,5 +1,3 @@
-###DEC-067384-0-000-15-10-1970@@@
-
 DECRETO Nº 67.384, DE 15 de OUTUBRO DE 1970.
 
 Concede autorização à Federação dos Trabalhadores nas Industrias de Fiação e Tecelagem do Estado de São Paulo para filiar-se à Federação Internacional dos Trabalhadores na Indústria Têxtil e do Vestuário.

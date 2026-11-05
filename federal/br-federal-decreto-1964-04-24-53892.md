@@ -1,5 +1,3 @@
-###DEC-053892-0-000-24-04-1964@@@
-
 DECRETO Nº 53.892, DE 24 DE ABRIL DE 1964.
 
 Abre, pelo Ministério da Viação e Obras Públicas, em favor do Departamento Nacional de Obras contra as Sêcas, o crédito extraordinário de Cr$600.000.000,00 para o fim de menciona.

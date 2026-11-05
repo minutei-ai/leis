@@ -1,5 +1,3 @@
-###DEC-062487-0-000-29-03-1968@@@
-
 Decreto nº 62.487, de 29 de março de 1968.
 
 Declara de utilidade pública, para fins de desapropriação, um área de terra destinada à construção da nova estação telefônica de Teresópolis, Estado do Rio de Janeiro.

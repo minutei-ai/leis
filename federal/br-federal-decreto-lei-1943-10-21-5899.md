@@ -1,5 +1,3 @@
-###DEL-005899-0-000-21-10-1943@@@
-
 DECRETO‑LEI N. 5.899 – DE 21 DE OUTUBRO DE 1943
 
 Abre ao Ministério do Trabalho, Indústria e Cornércio o crédito especial de Cr$ 3. 774,30, para pagarnento de salários

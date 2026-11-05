@@ -1,5 +1,3 @@
-###DEL-007098-0-000-30-11-1944@@@
-
 DECRETO-LEI N. 7.098 – DE 30 DE NOVEMBRO DE 1944
 
 Abre ao Ministério de Guerra o crédito suplementar de Cr$ 2.200.000,00, à verba que especifica,

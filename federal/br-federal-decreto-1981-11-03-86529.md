@@ -1,5 +1,3 @@
-###DEC-086529-0-000-03-11-1981@@@
-
 Decreto nº 86.529, de 03 de novembro de 1981.
 
 Estabelece novos limites para os municípios do Território Federal de Rondônia, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066568-0-000-14-05-1970@@@
-
 DECRETO Nº 66.568, DE 14 DE maio DE 1970.
 
 Autoriza funcionamento de Faculdade.

@@ -1,5 +1,3 @@
-###DEC-056802-0-000-27-08-1965@@@
-
 DECRETO Nº 56.802, DE 27 DE AGÔSTO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no município de Irauçuba, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-000598-0-000-08-07-1992@@@
-
 DECRETO N° 598, DE 8 DE JULHO DE 1992
 
 Delega competência ao Ministro de Minas e Energia para a prática de atos relacionados à prestação do serviço público de energia elétrica, à derivação de águas e à concessão de lavra mineral.

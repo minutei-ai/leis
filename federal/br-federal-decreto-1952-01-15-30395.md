@@ -1,20 +1,18 @@
-###DEC-030395-0-000-15-01-1952@@@
+**DECRETO Nº 30.395, DE 15 DE JANEIRO DE 1952.**
 
-<strong>DECRETO Nº 30.395, DE 15 DE JANEIRO DE 1952.</strong>
+***Altera o Decreto nº 20.489, de 24 de janeiro de 1946.***
 
-<em><strong>Altera o Decreto nº 20.489, de 24 de janeiro de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam acrescentados ao artigo 3º do Decreto nº 20.489, de 24 de janeiro de 1946, que aprovou o Regimento do Departamento Administrativo do Serviço Público, os §§ 2º e 3º abaixo enumerados, passando o atual parágrafo único a § 1º:
+**Art**. 1º Ficam acrescentados ao artigo 3º do Decreto nº 20.489, de 24 de janeiro de 1946, que aprovou o Regimento do Departamento Administrativo do Serviço Público, os §§ 2º e 3º abaixo enumerados, passando o atual parágrafo único a § 1º:
 
 “§ 2º O Diretor-Geral e os Diretores poderão ter Assistentes Técnicos, designados em portaria do Diretor-Geral.
 
 § 3º Os Assistentes Técnicos perceberão a gratificação de representação de Gabinete que fôr arbitrada pelo Diretor-Geral”.
 
-<strong>Art</strong>. 2º Os arts. 44, item VI, 54, alínea <em>d</em> e 65, item VI, do decreto citado no artigo anterior passam a vigorar com a seguinte redação:
+**Art**. 2º Os arts. 44, item VI, 54, alínea *d* e 65, item VI, do decreto citado no artigo anterior passam a vigorar com a seguinte redação:
 
 “Art. 44.....................................................................................................................................
 
@@ -28,10 +26,10 @@ d) editar o “Boletim diário da T.O.R. e o Boletim de Pessoal”.
 
 VI - lavrar todos os atos relativos aos funcionários e extranumerários e encaminhar ao Serviços de Documentação o expediente a ser publicado no “Boletim de Pessoal”.
 
-<strong>Art</strong>. 3º Êste Decreto, entrará em vigor a partir de 1 de janeiro de 1952, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto, entrará em vigor a partir de 1 de janeiro de 1952, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 15 de janeiro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Francisco Negrão de Lima

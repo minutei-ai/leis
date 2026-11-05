@@ -1,5 +1,3 @@
-###DEC-073492-0-000-17-01-1974@@@
-
 Decreto nº 73.492, de 17 de janeiro de 1974.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048747-0-000-10-08-1960@@@
-
 DECRETO Nº 48.747, DE 10 DE AGôSTO DE 1960.
 
 Suprime cargo do Quadro Suplementar do Ministério da Fazenda.

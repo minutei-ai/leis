@@ -1,5 +1,3 @@
-###DEC-064060-0-000-04-02-1969@@@
-
 DECRETO Nº 64.060, DE 4 DE FEVEREIRO DE 1969.
 
 Inclui no Plano aprovado pelo Decreto nº 61.594, de 24 de outubro de 1967, os trechos rodoviários que menciona.

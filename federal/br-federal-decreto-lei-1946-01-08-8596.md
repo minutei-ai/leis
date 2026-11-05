@@ -1,5 +1,3 @@
-###DEL-008596-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.596 – DE 8 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 44.000,00, como complemento ás despesas de instalação do Departamento Nacional de Informações.

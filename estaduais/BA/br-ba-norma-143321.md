@@ -6,7 +6,8 @@ Autoriza o Poder Executivo a contratar operação de crédito externo, na forma 
 
 **Art. 1º** - Fica o Poder Executivo autorizado a contratar, em nome do Estado da Bahia, junto ao Banco Interamericano de Desenvolvimento - BID, operação de crédito externo até o limite de US$150,000,000.00 (cento e cinquenta milhões de dólares americanos), observadas as condições e as exigências dos órgãos federais encarregados da análise econômico-financeira para fins de operação de crédito e da concessão de garantia da União.
 
-Redação de acordo com a Lei [14.726](https://www.legislabahia.ba.gov.br/documentos/lei-no-14726-de-28-de-maio-de-2024) de 28 de maio de 2024.<br>
+Redação de acordo com a Lei [14.726](https://www.legislabahia.ba.gov.br/documentos/lei-no-14726-de-28-de-maio-de-2024) de 28 de maio de 2024.
+
 Redação original: "Art. 1º - Fica o Poder Executivo autorizado a contratar, em nome do Estado da Bahia, junto ao Banco Internacional de Desenvolvimento - BID, operação de crédito externo até o limite de US$150.000.000,00 (cento e cinquenta milhões de dólares americanos), observadas as condições e as exigências dos órgãos federais encarregados da análise econômico-financeira para fins de operação de crédito e da concessão de garantia da União."
 
 **Parágrafo único -** Os recursos resultantes da operação de crédito autorizada neste artigo destinam-se ao financiamento do Programa de Fortalecimento do SUS no Estado da Bahia - PROSUS II.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098346-0-000-30-10-1989@@@
-
 DECRETO Nº 98.346, DE 30 DE OUTUBRO DE 1989
 
 Declara o valor do salário-minimo do mês de novembro de 1989, na forma da Lei nº 7.789, de 3 de julho de 1989.

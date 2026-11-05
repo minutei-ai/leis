@@ -1,5 +1,3 @@
-###DEC-053897-0-000-27-04-1964@@@
-
 DECRETO Nº 53.897, DE 27 DE ABRIL DE 1964.
 
 Regulamenta os artigos sétimo e décimo do ato Institucional de 9 de abril de 1964.

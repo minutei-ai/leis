@@ -1,5 +1,3 @@
-###DEC-046717-0-000-25-08-1959@@@
-
 Decreto nº 46.717, de 25 de agôsto de 1959.
 
 Aprova alterações introduzidas nos estatutos, inclusive aumento do capital social da Rio de Janeiro - Companhia Nacional de Seguros Gerais.

@@ -1,5 +1,3 @@
-###MPV-001962-0-022-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.962-22, DE 3 DE Fevereiro DE 2000.
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

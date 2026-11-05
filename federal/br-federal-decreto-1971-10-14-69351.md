@@ -1,5 +1,3 @@
-###DEC-069351-0-000-14-10-1971@@@
-
 Decreto Nº 69.351, DE 14 DE outubro DE 1971.
 
 Autoriza o Funcionamento da Faculdade Paulista de Música, com os cursos de licenciatura em música, com sede em São Paulo - SP.

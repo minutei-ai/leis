@@ -1,5 +1,3 @@
-###DEC-090905-0-000-05-02-1985@@@
-
 Decreto nº 90.905, de 05 de fevereiro de 1985
 
 Outorga concessão à RÁDIO CIDADE IMPERIAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Marechal Deodoro, Estado de Alagoas.

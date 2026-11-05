@@ -1,5 +1,3 @@
-###MPV-002161-0-034-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.161‑34, DE 26 DE JUlhO DE 2001
 
 Dá nova redação a dispositivos da Lei nº 9.491, de 9 de setembro de 1997, que altera procedimentos relativos ao Programa Nacional de Desestatização, revoga a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

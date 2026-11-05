@@ -1,5 +1,3 @@
-###DEC-054757-0-000-30-10-1964@@@
-
 DECRETO Nº 54.757, DE 30 DE outubro DE 1964.
 
 Autoriza a firma Importação Exportação Panamericana “Panimex” Limitada, a comprar pedras preciosas.

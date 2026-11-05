@@ -1,5 +1,3 @@
-###DEC-049841-0-000-06-01-1961@@@
-
 Decreto nº 49.841, de 6 de janeiro de 1961.
 
 Retifica os Quadros Extraordinários de Mensalistas da Escola de Engenharia e da Faculdade de Filosofia da Universidade de Minas Gerais, aprovados pelo Decreto nº 39.149, de 14 de maio de 1956, e dá outras providências.

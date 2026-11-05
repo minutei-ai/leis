@@ -1,5 +1,3 @@
-###DEL-004309-0-000-18-05-1942@@@
-
 DECRETO-LEI N. 4.309 – DE 18 DE MAIO DE 1942
 
 Concede favores à Companhia Siderúrgica Nacional

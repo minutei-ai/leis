@@ -1,5 +1,3 @@
-###DEC-056883-0-000-20-09-1965@@@
-
 DECRETO Nº 56.883, DE 20 DE SETEMBRO DE 1965.
 
 Concede autorização aos cursos de Geografia e História da Faculdade de Filosofia, Ciências e Letras de Santos, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-056644-0-000-05-08-1965@@@
-
 Decreto nº 56.644, de 5 de agôsto de 1965.
 
 Concede a “EMIR” - Emprêsa de Águas Minerais e Refrigerantes Limitada autorização para funcionar como emprêsa de mineração.

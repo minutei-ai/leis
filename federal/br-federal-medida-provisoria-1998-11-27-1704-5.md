@@ -1,5 +1,3 @@
-###MPV-001704-0-005-27-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.704-5, DE 27 DE NOVEMBRO DE 1998
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

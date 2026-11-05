@@ -1,5 +1,3 @@
-###DEC-067617-0-000-19-11-1970@@@
-
 DECRETO Nº 67.617, DE 19 DE NOVEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Agricultura cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

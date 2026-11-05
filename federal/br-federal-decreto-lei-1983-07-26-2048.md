@@ -1,5 +1,3 @@
-###DEL-002048-0-000-26-07-1983@@@
-
 # Decreto-lei nº 2.048, de 26 de julho de 1983
 
 Aumenta os limites do Decreto-lei nº 1.312, de 15 de fevereiro de 1974, alterados pelos Decretos-leis nºs 1.460, de 22 de abril de 1976, 1.562, de 19 de julho de 1977, 1.651, de 21 de dezembro de 1978, e 1.756, de 31 de dezembro de 1979, e dá outras providências.

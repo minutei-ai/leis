@@ -1,5 +1,3 @@
-###DEC-080995-0-000-12-12-1977@@@
-
 DECRETO Nº 80.995, DE 12 DE DEZEMBRO DE 1977.
 
 Concede à Cerâmica Ibetel Ltda. direito de lavrar folhelho no Município de Jundiaí, Estado de São Paulo.

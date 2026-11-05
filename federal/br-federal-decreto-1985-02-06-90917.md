@@ -1,5 +1,3 @@
-###DEC-090917-0-000-06-02-1985@@@
-
 Decreto nº 90.917, de 06 de fevereiro de 1985
 
 Outorga concessão à RÁDIO INTERNACIONAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Quedas do Iguaçu, Estado do Paraná.

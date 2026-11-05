@@ -1,5 +1,3 @@
-###DEL-006916-0-000-02-10-1944@@@
-
 DECRETO-LEI N. 6.916 – DE 2 DE OUTUBRO DE 1944
 
 Modifica o artigo 46 da Lei das Contravenções Penais

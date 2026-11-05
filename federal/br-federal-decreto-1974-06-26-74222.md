@@ -1,5 +1,3 @@
-###DEC-074222-0-000-26-06-1974@@@
-
 DECRETO Nº 74.222, de 26 de junho de 1974.
 
 Concede autorização, em caráter permanente, à Indústria de Plásticos Katy S. A., com sede em São Paulo, Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos no estabelecimento que menciona.

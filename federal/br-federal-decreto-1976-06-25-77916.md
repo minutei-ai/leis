@@ -1,5 +1,3 @@
-###DEC-077916-0-000-25-06-1976@@@
-
 DECRETO Nº 77.916, DE 25 DE JUNHO DE 1976.
 
 Revoga por 10 (dez) anos a concessão outorgada à Sociedade Rádio Blumenau Ltda. para executar serviço de radio difusão sonora em onde média de âmbito regional, na Cidade de Blumenau, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-052515-0-000-27-09-1963@@@
-
 DECRETO Nº 52.515, DE 27 DE SETEMBRO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona, situado no município de Cotia, Estado de São Paulo.

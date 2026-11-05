@@ -1,5 +1,3 @@
-###DEC-053528-0-000-04-02-1964@@@
-
 Decreto nº 53.528, de 4 de Fevereiro de 1964.
 
 Autoriza o cidadão brasileiro Guilhermino de Freitas Jatobá a pesquisar mármore no município de Juazeiro, Estado da Bahia.

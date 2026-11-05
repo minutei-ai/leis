@@ -1,7 +1,3 @@
-1
-
-###DEC-098200-0-000-27-09-1989@@@
-
 DECRETO Nº 98.200, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “GLEBA IPORÁ” - (Lotes nºs 66, 66-A e 64-A), situado nos Municípios de Itacoatiara e Rio Preto da Eva, Estado do Amazonas, e dá outras providências.

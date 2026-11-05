@@ -1,5 +1,3 @@
-###DEC-076782-0-000-12-12-1975@@@
-
 DECRETO nº 76.782, DE 12 DE DEZEMBRO DE 1975.
 
 Fixa o fator de reajustamento salarial relativo a dezembro de 1975.

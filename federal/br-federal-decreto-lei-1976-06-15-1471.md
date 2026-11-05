@@ -1,5 +1,3 @@
-###DEL-001471-0-000-15-06-1976@@@
-
 # DECRETO-LEI Nº 1.471, DE 15 DE JUNHO DE 1976
 
 Estende a financiamentos do BNDE a bancos de investimento privados o sistema de incentivo fiscal previsto no Decreto-lei número 1.452, de 30 de março de 1976.

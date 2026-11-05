@@ -1,7 +1,3 @@
-1
-
-###DEL-000632-0-000-17-06-1969@@@
-
 Decreto-lei nº 632, de 17 de Junho de 1969
 
 Permite, temporàriamente, a venda de vinho, a tôrno, como exceção ao artigo 23, do Decreto-lei nº 476, de 25 de fevereiro de 1969.

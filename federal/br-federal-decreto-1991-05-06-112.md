@@ -1,7 +1,3 @@
-1
-
-###DEC-000112-0-000-06-05-1991@@@
-
 DECRETO Nº 112, DE 6 DE MAIO DE 1991
 
 Altera o Decreto nº 94.536, de 29 de junho de 1987, que regulamenta a Lei do Ensino Profissional Marítimo.

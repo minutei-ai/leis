@@ -1,5 +1,3 @@
-###DEC-048621-0-000-25-07-1960@@@
-
 DECRETO Nº 48.621, DE 25 DE julho DE 1960.
 
 Concede à Mineração Prado Coelho Limitada autorização para funcionar como emprêsa de mineração.

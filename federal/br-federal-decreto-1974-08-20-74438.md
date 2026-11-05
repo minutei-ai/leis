@@ -1,5 +1,3 @@
-###DEC-074438-0-000-20-08-1974@@@
-
 DECRETO Nº 74.438 - DE 20 DE AGOSTO DE 1974.
 
 Retifica Concessão de lavra outorgada a Enéias César Ferreira, pelo Decreto nº 26.519, de 28 de março de 1949.

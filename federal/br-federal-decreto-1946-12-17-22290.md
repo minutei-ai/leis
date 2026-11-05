@@ -1,22 +1,20 @@
-###DEC-022290-0-000-17-12-1946@@@
+**DECRETO Nº 22.290, DE 17 DE DEZEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22.290, DE 17 DE DEZEMBRO DE 1946.</strong>
+***Concede à Sociedade Anônima “Monogram Pictures do Brasil, Inc.” autorização para funcionar na República.***
 
-<em><strong>Concede à Sociedade Anônima “Monogram Pictures do Brasil, Inc.” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a Sociedade Anônima “Monogram Pictures do Brasil, Inc.”,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a Sociedade Anônima “Monogram Pictures do Brasil, Inc.”,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à Sociedade Anônima “Monogran Pictures no Brasil, Inc.”, com sede na cidade de Wilmington, Condado de New Castle, Estado de Delaware, Estados Unidos da América, autorização para funcionar na República com o capital de noventa e um mil cruzeiros (Cr$91.000,00) destinado às suas operações no Brasil e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústrias e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 17 de Dezembro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECERTO Nº 22.290, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECERTO Nº 22.290, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja combinada pena e
 
 Rio de Janeiro, 17 de dezembro de 1946.
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

@@ -1,5 +1,3 @@
-###DEC-057747-0-000-04-02-1966@@@
-
 DECRETO Nº 57.747, DE 4 DE FEVEREIRO DE 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à emprêsa “Metalgráfica do Norte S.A.”, de Recife, Pernambuco.
@@ -14,7 +12,57 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Metalgráfica do Norte S.A.”, do Recife (Pe):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:52.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Alimentador automático para impressora, com capacidade de 80 a 100 fôlhas p/min. Dimensão da fôlha: 36x36”. Pêso líquido 1.500Kg. Pêso bruto 1.800Kg. Fábricação de </span><span style="font-style:italic">TOYO SEIKAN KAISHA </span><span>LTD. - Japão .............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:52.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>11.642</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquinas impressoras, modêlo 2H, c/capacidade de 100 fôlhas máxima p/minuto. Pêso líquido: 17.000Kg. Pêso bruto: 22.000Kg. Fabricação: </span><span style="font-style:italic">TOYO SEIKAN KAISHA</span><span> LTD. - Japão ...................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:52.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>84.709</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquina envernizadora modêlo K-1 com capacidade máxima de 100 fôlhas p/ minuto. Pêso líquido 1.700Kg. Pêso bruto: 1.950Kg. Fabricação: </span><span style="font-style:italic">TOYO SEIKAN KAISHA</span><span> LTD. - Japão ..........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:52.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>25.410</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Retificadora Universal MSO-WERKE. Modêlo FCH 200-750, com respectivos acessórios sem motores, c/ instalação elétrica 220/380W. Pêso líquido: 2.890Kg. Pêso bruto: 3.240Kg. Fabricação de M.S.O. Machinen </span><span style="font-style:italic">Und Schleifmittelwerke</span><span> Ag. ............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:52.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>12.775</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Freza Universal “</span><span style="font-style:italic">Union</span><span>” modêlo UF-5, com avanços mecânicos em sentido longitudinal, transversal e vertical com instalações elétricas 220/380W, chaves elétricas, com acessórios exclusive motor. Fabricação de M.S.O. </span><span style="font-style:italic">Machinen Und Schleifmittelwerke</span><span> Ag. ....................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:52.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>11.882</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ....................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:52.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>146.418</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1
+
+Alimentador automático para impressora, com capacidade de 80 a 100 fôlhas p/min. Dimensão da fôlha: 36x36”. Pêso líquido 1.500Kg. Pêso bruto 1.800Kg. Fábricação de TOYO SEIKAN KAISHA LTD. - Japão .............................................
+
+2
+
+11.642
+
+2
+
+Máquinas impressoras, modêlo 2H, c/capacidade de 100 fôlhas máxima p/minuto. Pêso líquido: 17.000Kg. Pêso bruto: 22.000Kg. Fabricação: TOYO SEIKAN KAISHA LTD. - Japão ...................................................................................
+
+2
+
+84.709
+
+3
+
+Máquina envernizadora modêlo K-1 com capacidade máxima de 100 fôlhas p/ minuto. Pêso líquido 1.700Kg. Pêso bruto: 1.950Kg. Fabricação: TOYO SEIKAN KAISHA LTD. - Japão ..........................................................................
+
+2
+
+25.410
+
+4
+
+Retificadora Universal MSO-WERKE. Modêlo FCH 200-750, com respectivos acessórios sem motores, c/ instalação elétrica 220/380W. Pêso líquido: 2.890Kg. Pêso bruto: 3.240Kg. Fabricação de M.S.O. Machinen Und Schleifmittelwerke Ag. ............................................................
+
+1
+
+12.775
+
+5
+
+Freza Universal “Union” modêlo UF-5, com avanços mecânicos em sentido longitudinal, transversal e vertical com instalações elétricas 220/380W, chaves elétricas, com acessórios exclusive motor. Fabricação de M.S.O. Machinen Und Schleifmittelwerke Ag. ....................................................
+
+1
+
+11.882
+
+TOTAL ....................................................................................
+
+146.418
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4b341064-0934-4496-90e8-97ccc3070563/texto#nowhere)
 
-###DEL-001314-0-000-01-03-1974@@@
-
 # DECRETO-LEI Nº 1.314, DE 1 DE MARÇO DE 1974
 
 Autoriza o Tesouro Nacional a subscrever ações do aumento do capital da Aços Finos Piratini S.A. e dá outras providências.

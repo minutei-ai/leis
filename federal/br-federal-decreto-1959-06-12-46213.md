@@ -1,5 +1,3 @@
-###DEC-046213-0-000-12-06-1959@@@
-
 DECRETO Nº 46.213, de 12 DE Junho DE 1959.
 
 Suprime o art. 91, do Regulamento para a Escola de Comando e Estado–Maior do Exército, aprovado pelo Decreto nº 36.955, de 25 de fevereiro de 1955.

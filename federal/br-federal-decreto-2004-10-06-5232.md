@@ -1,5 +1,3 @@
-###DEC-005232-0-000-06-10-2004@@@
-
 DECRETO Nº 5.232 DE 6 DE OUTUBRO DE 2004
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República da Colômbia, de 30 de junho de 2004.

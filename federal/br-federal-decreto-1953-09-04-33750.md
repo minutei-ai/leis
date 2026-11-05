@@ -1,44 +1,42 @@
-###DEC-033750-0-000-04-09-1953@@@
+**DECRETO N. 33.750 – DE 4 DE SETEMBRO DE 1953**
 
-<strong>DECRETO N. 33.750 – DE 4 DE SETEMBRO DE 1953</strong>
-
-<em><strong>Altera o esquema do orçamento analítico do Departamento dos Correios e Telégrafos.</strong></em>
+***Altera o esquema do orçamento analítico do Departamento dos Correios e Telégrafos.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica aprovada a nova discriminação-tipo do orçamento analítico da despesa do Departamento dos Correios e Telégrafos, a qual com êste baixa, e que foi aprovada, primitivamente, pelo Decreto nº 20.331, de 4 de janeiro de 1946, e alterada pelo Decreto nº 29.109, de 8 de janeiro de 1951.
+**Art**. 1º Fica aprovada a nova discriminação-tipo do orçamento analítico da despesa do Departamento dos Correios e Telégrafos, a qual com êste baixa, e que foi aprovada, primitivamente, pelo Decreto nº 20.331, de 4 de janeiro de 1946, e alterada pelo Decreto nº 29.109, de 8 de janeiro de 1951.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor a partir da data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor a partir da data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 4 de setembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 José Américo
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>DISCRIMINAÇÃO – TIPO DO ORÇAMENTO DA DESPESA DO DEPARTAMENTO DOS CORREIOS E TELÉGRAFOS, APROVADA PELO DECRETO N. 33.750, DE 4 DE SETEMBRO DE 1953.</strong></span></span></h1>
+# **DISCRIMINAÇÃO – TIPO DO ORÇAMENTO DA DESPESA DO DEPARTAMENTO DOS CORREIOS E TELÉGRAFOS, APROVADA PELO DECRETO N. 33.750, DE 4 DE SETEMBRO DE 1953.**
 
-<h1 style="margin-top:12pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>VERBA I – PESSOAL</strong></span></span></h1>
+# **VERBA I – PESSOAL**
 
-<h2 style="margin-top:12pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO I</em></span></span></h2>
+## *CONSIGNAÇÃO I*
 
 Pessoal Permanente
 
 1\. Pessoal do Quadro
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO II</em></span></span></h2>
+## *CONSIGNAÇÃO II*
 
-Pessoal <strong>E</strong>xtranumerário
+Pessoal **E**xtranumerário
 
 2\. Mensalista
 
 3\. Tarefeiros
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO III</em></span></span></h2>
+## *CONSIGNAÇÃO III*
 
 Vantagens
 
@@ -58,7 +56,7 @@ Vantagens
 
 11\. Auxílio para diferença de caixa.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO IV</em></span></span></h2>
+## *CONSIGNAÇÃO IV*
 
 Outras despesas
 
@@ -72,9 +70,9 @@ Outras despesas
 
 16\. Diferença de vencimentos
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>VERBA 2 – MATERIAL</strong></span></span></h1>
+# **VERBA 2 – MATERIAL**
 
-<h2 style="margin-top:12pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO I</em></span></span></h2>
+## *CONSIGNAÇÃO I*
 
 Material Permanente
 
@@ -86,7 +84,7 @@ Material Permanente
 
 4\. Móveis e artigos de ornamentação; máquinas, aparelhos e utensílios de escritórios, bibliotecas, laboratórios, gabinetes científicos ou técnicos; aparelhos e utensílios hospitalares; aparelhos e utensílios de cozinha, copa, refeitório e dormitório.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO II</em></span></span></h2>
+## *CONSIGNAÇÃO II*
 
 Material de consumo
 
@@ -100,7 +98,7 @@ Material de consumo
 
 9\. Sacos e acessórios para transporte da correspondência; vestuário, uniformes, equipamentos e peças acessórias; roupas de cama, mesa e banho; tecidos e artefatos
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO III</em></span></span></h2>
+## *CONSIGNAÇÃO III*
 
 Outras despesas
 
@@ -122,9 +120,9 @@ Outras despesas
 
 18\. Telefone e telefonemas; telegramas internacionais e porte postal aéreo
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>VERBA 3 – SERVIÇOS E ENCARGOS</strong></span></span></h1>
+# **VERBA 3 – SERVIÇOS E ENCARGOS**
 
-<h2 style="margin-top:12pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO I</em></span></span></h2>
+## *CONSIGNAÇÃO I*
 
 Diversos
 
@@ -156,8 +154,8 @@ Diversos
 
 Telégrafos.
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>VERBA 4 – EVENTUAIS</strong></span></span></h1>
+# **VERBA 4 – EVENTUAIS**
 
-<h2 style="margin-top:12pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>CONSIGNAÇÃO I</em></span></span></h2>
+## *CONSIGNAÇÃO I*
 
 1\. Despesas imprevistas não constantes das tabelas.

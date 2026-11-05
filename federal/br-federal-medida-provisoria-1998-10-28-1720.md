@@ -1,5 +1,3 @@
-###MPV-001720-0-000-28-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.720, DE 28 DE OUTUBRO DE 1998
 
 Dispõe sobre a contribuição para o custeio da previdência social dos servidores públicos.

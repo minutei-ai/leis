@@ -1,5 +1,3 @@
-###DEC-056570-0-000-09-07-1965@@@
-
 DECRETO Nº 56.570, DE 9 DE JULHO DE 1965.
 
 Revoga o Decreto nº 53.701, de 13 de março de 1964, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000521-0-000-18-05-1992@@@
-
 DECRETO Nº 521, DE 18 DE MAIO DE 1992
 
 Dispõe sobre a concessão de diárias no Serviço Público Civil da União, nas autarquias e fundações públicas federais relacionadas com deslocamentos à cidade do Rio de Janeiro, em apoio à Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento.

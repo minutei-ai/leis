@@ -1,5 +1,3 @@
-###DEC-052171-0-000-28-06-1963@@@
-
 DECRETO Nº 52.171, DE 28 DE JUNHO DE 1963.
 
 Institui no Conselho Florestal Federal a medalha “Mérito José Bonifácio, o Patriarca”.

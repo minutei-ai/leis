@@ -1,5 +1,3 @@
-###DEC-057795-0-000-14-02-1966@@@
-
 decreto nº 57.795, de 14 de fevereiro de 1966.
 
 Abre o Ministério da Justiça e Negócios Interiores, o Crédito especial de Cr$68.000.000, para o fim que especifica.

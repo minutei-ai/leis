@@ -1,5 +1,3 @@
-###DEC-049819-0-000-05-01-1961@@@
-
 DECRETO Nº 49.819, DE 5 DE JANEIRO DE 1961.
 
 Renova Decreto n.º 43.233, de 22 de fevereiro de 1.958.

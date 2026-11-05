@@ -1,5 +1,3 @@
-###DEC-004766-0-000-26-06-2003@@@
-
 DECRETO Nº 4.766, DE 26 DE JUNHO DE 2003.
 
        Regulamenta a criação, as competências e o funcionamento da Câmara de Regulação do Mercado de Medicamentos \- CMED.
@@ -116,8 +114,10 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
 LUIZ INÁCIO LULA DA SILVA
 
-<br>
-Márcio Thomaz Bastos<br>
-Antonio Palocci Filho<br>
-Humberto Sérgio Costa Lima<br>
+Márcio Thomaz Bastos
+
+Antonio Palocci Filho
+
+Humberto Sérgio Costa Lima
+
 José Dirceu de Oliveira e Silva

@@ -1,5 +1,3 @@
-###DEC-045269-0-000-20-01-1959@@@
-
 Decreto nº 45.269, de 20 de janeiro de 1959.
 
 Concede autorização para o funcionamento dos cursos de história natural, pedagogia, geografia e matemática, da Faculdade de Filosofia, Ciências e Letras de Rio Claro.

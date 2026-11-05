@@ -1,5 +1,3 @@
-###DEC-082466-0-000-23-10-1978@@@
-
 Decreto nº 82.466, de 23 de outubro de 1978.
 
 Concede à Itapessoca Agro-Industrial S.A. o direito de lavrar calcário e areia quartzosa no Município de Goiânia, Estado de Pernambuco.

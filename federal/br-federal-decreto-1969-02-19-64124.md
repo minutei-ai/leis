@@ -1,5 +1,3 @@
-###DEC-064124-0-000-19-02-1969@@@
-
 DECRETO Nº 64.124, DE 19 DE FEVEREIRO DE 1969.
 
 Regulamenta o disposto no artigo 2º da Lei nº 5.449, de 4 de junho de 1968.

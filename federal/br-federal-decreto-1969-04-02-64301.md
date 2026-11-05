@@ -1,5 +1,3 @@
-###DEC-064301-0-000-02-04-1969@@@
-
 DECRETO nº 64.301, DE 2 DE ABRIL DE 1969
 
 Autoriza a transferência dos bens e instalações em serviço da Companhia Telefônica Catarinense e dá outras providências.

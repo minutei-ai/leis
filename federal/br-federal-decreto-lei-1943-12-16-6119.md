@@ -1,5 +1,3 @@
-###DEL-006119-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.119 – DE 16 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 460. 000,00, à verba que especifica

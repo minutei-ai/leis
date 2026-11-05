@@ -1,5 +1,3 @@
-###DEC-089754-0-000-05-06-1984@@@
-
 DECRETO Nº 89.754, DE 05 DE JUNHO DE 1984.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Floresta, no Estado de Pernambuco.

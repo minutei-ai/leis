@@ -1,5 +1,3 @@
-###DEC-065133-0-000-11-09-1969@@@
-
 DECRETO Nº 65.133 - DE 11 DE SETEMBRO DE 1969.
 
 Transforma Organização Militar na Amazônia e dá outras providências.

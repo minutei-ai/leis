@@ -1,5 +1,3 @@
-###DEC-093660-0-000-05-12-1986@@@
-
 DECRETO Nº 93.660, DE 5 DE DEZEMBRO DE 1986
 
 Autoriza o aumento do Capital Social da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

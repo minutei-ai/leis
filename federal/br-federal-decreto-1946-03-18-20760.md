@@ -1,14 +1,12 @@
-###DEC-020760-0-000-18-03-1946@@@
+**DECRETO Nº 20.760, DE 18 DE MARÇO DE 1946.**
 
-<strong>DECRETO Nº 20.760, DE 18 DE MARÇO DE 1946.</strong>
+***Modifica disposições de Regulamentos aprovados pelo Decreto nº 20.302, de 2 de Janeiro de 1946.***
 
-<em><strong>Modifica disposições de Regulamentos aprovados pelo Decreto nº 20.302, de 2 de Janeiro de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Nos Regimentos das Diretorias do Ensino Secundário, do Ensino Comercial e do Ensino Industrial, aprovados pelo Decreto número 20.302, de 2 de Janeiro de 1946, ficam introduzidas as seguintes modificações:
+**Art**. 1º Nos Regimentos das Diretorias do Ensino Secundário, do Ensino Comercial e do Ensino Industrial, aprovados pelo Decreto número 20.302, de 2 de Janeiro de 1946, ficam introduzidas as seguintes modificações:
 
 I. No Regimento da Diretoria do Ensino Secundário:
 
@@ -28,7 +26,7 @@ d) a alínea b do inciso IX do artigo 11 passa a ter a seguinte redação:
 
 II. No Regimento da Diretoria do Ensino Comercial:
 
-a) a alínea <em>a</em> do inciso XX do artigo 11 passa a ter a seguinte redação:
+a) a alínea *a* do inciso XX do artigo 11 passa a ter a seguinte redação:
 
 “a) registro de diploma.”
 
@@ -52,10 +50,10 @@ a) fica suprimido o art. 15, e o respectivo título;
 
 b) os arts. 16, 17, 18 e 19 passam a ser, respectivamente, arts. 15, 16, 17 e18.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 18 de Março de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Ernesto de Sousa Campos

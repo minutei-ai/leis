@@ -1,5 +1,3 @@
-###DEC-081238-0-000-20-01-1978@@@
-
 Decreto nº 81.238, de 20 de janeiro de 1978.
 
 Muda a natureza de Organização Militar no Ministério do Exército e dá outras providências.

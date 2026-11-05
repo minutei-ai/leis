@@ -1,5 +1,3 @@
-###DEC-056079-0-000-26-04-1965@@@
-
 DECRETO Nº 56.079, DE 26 DE ABRIL DE 1965.
 
 Aprova alteração introduzida nos Estatutos da Colúmbia Companhia Nacional de Seguros Gerais , relativa ao aumento do capital social.

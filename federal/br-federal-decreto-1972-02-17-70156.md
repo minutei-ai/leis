@@ -1,5 +1,3 @@
-###DEC-070156-0-000-17-02-1972@@@
-
 DECRETO Nº 70.156, de 17 de Fevereiro de 1972.
 
 Concede reconhecimento da Faculdade de Filosofia, Ciências e Letras, em Maringá, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-003344-0-000-26-01-2000@@@
-
 DECRETO Nº 3.344, DE 26 DE JANEIRO DE 2000.
 
 Dispõe sobre a utilização de siglas em nomes comerciais, alterando o inciso VI do art. 53 do Decreto nº 1.800, de 30 de janeiro de 1996.

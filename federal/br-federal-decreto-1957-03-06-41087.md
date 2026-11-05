@@ -1,14 +1,12 @@
-###DEC-041087-0-000-06-03-1957@@@
+**DECRETO Nº 41.087, DE 6 DE MARÇO DE 1957.**
 
-<strong>DECRETO Nº 41.087, DE 6 DE MARÇO DE 1957.</strong>
+***Transfere, sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerário-mensalista de repartições do Ministério da Guerra, que menciona.***
 
-<em><strong>Transfere, sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerário-mensalista de repartições do Ministério da Guerra, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Guerra, abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Guerra, abaixo indicadas:
 
 I - uma (1) função excedente, de Artífice, referência 19, ocupada por Edgar José da Costa, da Tabela Numérica Especial de Extranumerário-mensalista da Fábrica do Realengo, para idêntica tabela, também em caráter excedente, da Diretoria de Pesquisas Tecnológicas;
 
@@ -20,12 +18,12 @@ IV - uma (1) função de Artífice, referência 18, ocupada por Joaquim Rosa, da
 
 V - uma (1) função de Servente, referência 18, ocupada por Maria Luiza Guerra dos Santos, da Tabela Numérica Especial de Extranumerário-mensalista da Fábrica de Curitiba, para idêntica tabela do Quartel General da 5ª Região Militar.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 6 de março de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

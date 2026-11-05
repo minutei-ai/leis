@@ -1,5 +1,3 @@
-###DEC-084125-0-000-29-10-1979@@@
-
 Decreto nº 84.125, de 29 de outubro de 1979.
 
 Renova prazo de concessão outorgada à Companhia de Cimento Portland Ponte Alta, para o aproveitamento da energia hidráulica de um trecho do rio Araguari, entre os Municípios de Perdizes e Sacramento, Estado de Minas Gerais, para uso exclusivo.

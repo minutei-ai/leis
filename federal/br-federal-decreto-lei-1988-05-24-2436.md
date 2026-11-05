@@ -1,7 +1,3 @@
-1
-
-###DEL-002436-0-000-24-05-1988@@@
-
 # DECRETO‑LEI N° 2.436, DE 24 DE MAIO DE 1988
 
 Altera a legislação do imposto de renda.

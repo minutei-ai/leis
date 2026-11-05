@@ -1,5 +1,3 @@
-###DEC-060158-0-000-31-01-1967@@@
-
 DECRETO Nº 60.158, DE 31 DE JANEIRO DE 1967.
 
 Inclui Organização da Aeronáutica no artigo 1º do Decreto nº 1.979, de 8 de janeiro de 1963.

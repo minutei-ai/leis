@@ -1,5 +1,3 @@
-###DEC-051555-0-000-01-10-1962@@@
-
 DECRETO Nº 51.555, DE 1º DE OUTUBRO DE 1962.
 
 Transfere a sede do Regulamento de Cavalaria de Guardas.

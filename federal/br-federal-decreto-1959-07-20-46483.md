@@ -1,5 +1,3 @@
-###DEC-046483-0-000-20-07-1959@@@
-
 DECRETO nº 46.483, DE 20 DE JULHO DE 1959.
 
 Altera o art. 1º do Decreto nº 28.282, de 21 de junho de 1950.

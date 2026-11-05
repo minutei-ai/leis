@@ -1,5 +1,3 @@
-###DEL-001959-0-000-14-09-1982@@@
-
 # DECRETO-LEI Nº 1.959, DE 14 DE SETEMBRO DE 1982
 
 Altera o inciso XIV do artigo 4º da Lei nº 4.595, de 31 de dezembro de 1964.

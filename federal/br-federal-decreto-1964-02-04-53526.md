@@ -1,5 +1,3 @@
-###DEC-053526-0-000-04-02-1964@@@
-
 DECRETO Nº 53.526, DE 4 DE FEVEREIRO DE 1964.
 
 Modifica a Comissão Nacional de Assistência Técnica.

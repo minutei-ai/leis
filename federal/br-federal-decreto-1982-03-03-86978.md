@@ -1,5 +1,3 @@
-###DEC-086978-0-000-03-03-1982@@@
-
 DECRETO Nº 86.978, de 03 de março de 1982
 
 Denomina Secretaria de Economia e Finanças (SEF) do Ministério do Exército a atual Diretoria-Geral de Economia e Finanças, altera o Decreto de Organização Básica do Exército, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064025-0-000-27-01-1969@@@
-
 DECRETO Nº 64.025, DE 27 DE JANEIRO DE 1969.
 
 Altera a alínea d) do Art. 27 do Regulamento para as Escolas de Marinha Mercante, aprovado pelo Decreto nº 1.424, de 28 de setembro de 1962.

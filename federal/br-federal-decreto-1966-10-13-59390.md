@@ -1,5 +1,3 @@
-###DEC-059390-0-000-13-10-1966@@@
-
 Decreto nº 59.390, de 13 de outubro de 1966.
 
 Concede à Commercial Union Assurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

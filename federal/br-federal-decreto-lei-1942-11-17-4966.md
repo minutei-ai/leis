@@ -1,5 +1,3 @@
-###DEL-004966-0-000-17-11-1942@@@
-
 DECRETO-LEI N. 4.966 – DE 17 DE NOVEMBRO DE 1942
 
 Reorganiza o quadro ordinário Corpo de Oficiais da Armada

@@ -1,5 +1,3 @@
-###DEC-055101-0-000-01-12-1964@@@
-
 DECRETO Nº 55.101, DE 1º DE DEZEMBRO DE 1964.
 
 Concede à “British United Airways Ltda.” autorização para funcionar no Brasil.

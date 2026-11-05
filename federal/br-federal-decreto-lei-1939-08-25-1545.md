@@ -1,5 +1,3 @@
-###DEL-001545-0-000-25-08-1939@@@
-
 DECRETO-LEI N. 1.545 – DE 25 DE AGOSTO DE 1939
 
 Dispõe sobre a adaptação ao meio nacional dos brasileiros descendentes de estrangeiros.

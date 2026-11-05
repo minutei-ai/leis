@@ -1,5 +1,3 @@
-###DEC-052282-0-000-22-07-1963@@@
-
 DECRETO Nº 52.282, DE 22 DE JULHO DE 1963.
 
 Fixa valores de gratificações especiais aos Diretores da Comissão do Plano do Carvão Nacional (CPCAN).

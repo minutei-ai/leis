@@ -1,5 +1,3 @@
-###DEL-004481-0-000-16-07-1942@@@
-
 DECRETO-LEI N. 4.481 – DE 16 DE JULHO DE 1942
 
 Dispõe sobre a aprendizagem dos industriários, estabelece deveres dos empregadores e dos aprendizes relativamente a essa aprendizagem e dá outras providências

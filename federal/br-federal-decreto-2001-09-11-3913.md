@@ -1,5 +1,3 @@
-###DEC-003913-0-000-11-09-2001@@@
-
 DECRETO Nº 3.913, DE 11 DE SETEMBRO DE 2001
 
  Dispõe sobre a apuração e liquidação dos complementos de atualização monetária de saldos de contas vinculadas do Fundo de Garantia do Tempo de Serviço – FGTS, de que trata a Lei Complementar nº 110, de 29 de junho de 2001.

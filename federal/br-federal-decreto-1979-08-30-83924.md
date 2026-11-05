@@ -1,5 +1,3 @@
-###DEC-083924-0-000-30-08-1979@@@
-
 Decreto nº 83.924, de 30 de agosto de 1979
 
 Altera o Regulamento do Regime Previdenciário e Assistencial dos Empregadores Rurais e seus Dependentes e dá outras providências.
@@ -35,8 +33,6 @@ Brasília, 30 de agosto de 1979; 158º da Independência e 91º da república.
 JOÃO FIGUEIREDO
 
 Jair Soares
-
-###DEC-083924-0-000-30-08-1979@@@RET01+++
 
 decreto nº 83.924, de 30 de Agosto de 1979.
 

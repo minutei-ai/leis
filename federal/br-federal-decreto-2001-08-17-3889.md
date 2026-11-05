@@ -1,5 +1,3 @@
-###DEC-003889-0-000-17-08-2001@@@
-
 DECRETO Nº 3.889, DE 17 DE AGOSTO 2001
 
 Dá nova redação ao art. 2~~º~~ do Decreto n~~º~~ 3.113, de 6 de julho de 1999, que regulamenta a Lei n~~º~~ 9.531, de 10 de dezembro de 1997, que dispõe sobre o Fundo de Garantia para a Promoção da Competitividade - FGPC.

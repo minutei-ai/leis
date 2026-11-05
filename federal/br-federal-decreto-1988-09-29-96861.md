@@ -1,5 +1,3 @@
-###DEC-096861-0-000-29-09-1988@@@
-
 # DECRETO N° 96.861, DE 29 DE SETEMBRO DE 1988
 
 Outorga concessão à Rádio Santa Mau­ra Ltda. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Lago da Pedra, Estado do Maranhão.

@@ -1,7 +1,3 @@
-1
-
-###DEL-001807-0-000-06-10-1980@@@
-
 # Decreto-lei nº 1.807, de 6 de outubro de 1980.
 
 Acrescenta parágrafo ao artigo 2º do Decreto-lei nº 61, de 21 de novembro 1966, que alterou a legislação relativa ao Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, e dá outras providências.

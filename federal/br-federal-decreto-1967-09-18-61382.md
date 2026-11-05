@@ -1,5 +1,3 @@
-###DEC-061382-0-000-18-09-1967@@@
-
 DECRETO Nº 61.382, DE 18 DE SETEMBRO DE 1967.
 
 Torna a Embaixada do Brasil na Jamaica cumulativa com a Embaixada do Brasil no Panamá.

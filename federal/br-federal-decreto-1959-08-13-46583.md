@@ -1,5 +1,3 @@
-###DEC-046583-0-000-13-08-1959@@@
-
 DECRETO Nº 46.583, DE 13 DE AGÔSTO DE 1959.
 
 Concede reconhecimento ao Curso de Didática da Faculdade de Filosofia, Ciências e Letras de Sorocaba.

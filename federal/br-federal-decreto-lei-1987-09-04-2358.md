@@ -1,7 +1,3 @@
-1
-
-###DEL-002358-0-000-04-09-1987@@@
-
 # DECRETO-LEI Nº 2.358, DE 4 DE SETEMBRO DE 1987
 
 Dispõe sobre a percepção de gratificações por servidores do Departamento Nacional de Estradas de Rodagem, e dá outras providências.

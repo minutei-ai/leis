@@ -1,5 +1,3 @@
-###DEC-065313-0-000-09-10-1969@@@
-
 DECRETO Nº 65.313 - DE 9 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública o Instituto Dom Bosco, com sede em Belém, Estado do Pará.

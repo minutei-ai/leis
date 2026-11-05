@@ -1,5 +1,3 @@
-###MPV-000251-0-000-14-06-2005@@@
-
 MEDIDA PROVISÓRIA Nº 251, DE 14 DE JUNHO DE 2005
 
 Institui o Projeto Escola de Fábrica, autoriza a concessão de bolsas de permanência a estudantes beneficiários do Programa Universidade para Todos - PROUNI, institui o Programa de Educação Tutorial - PET, altera a Lei nº 5.537, de 21 de novembro de 1968, e a Consolidação das Leis do Trabalho - CLT, e dá outras providências.

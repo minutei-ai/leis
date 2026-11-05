@@ -1,5 +1,3 @@
-###DEC-075680-0-000-30-04-1975@@@
-
 DECRETO Nº 75.680, DE 30 ABRIL DE 1975.
 
 Declara públicas, de uso comum, as águas dos cursos que especifica.

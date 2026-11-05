@@ -1,5 +1,3 @@
-###DEC-053443-0-000-20-01-1964@@@
-
 DECRETO Nº 53.443, DE 20 DE JANEIRO DE 1964.
 
 Autoriza a cessão, em comodato da usina termoelétrica de Votuporanga e demais instalações e dá outras providências.

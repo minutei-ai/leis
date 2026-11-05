@@ -1,5 +1,3 @@
-###DEC-080353-0-000-16-09-1977@@@
-
 DECRETO N 80.353, DE 16 DE SETEMBRO DE 1997.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Adamantina, com sede na cidade de Adamantina, Estado de São Paulo.

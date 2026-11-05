@@ -1,5 +1,3 @@
-###DEC-003345-0-000-26-01-2000@@@
-
 DECRETO Nº 3.345, DE 26 DE JANEIRO DE 2000.
 
 Altera o Decreto nº 1.910, de 21 de maio de 1996, o Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985, e o Decreto nº 2.412, de 3 de dezembro de 1997.

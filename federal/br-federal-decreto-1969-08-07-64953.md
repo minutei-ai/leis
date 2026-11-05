@@ -1,5 +1,3 @@
-###DEC-064953-0-000-07-08-1969@@@
-
 DECRETO Nº 64.953 - DE 7 DE AGÔSTO DE 1969.
 
 Redistribui, com as respectivas ocupantes, para o Quadro de Pessoal da Superintendência Nacional da Marinha Mercante - SUNAMAN, cargos integrantes do Quadro de Pessoal do Ministério da Indústria e do Comércio.

@@ -1,5 +1,3 @@
-###DEC-081765-0-000-06-06-1978@@@
-
 Decreto nº 81.765, de 06 de julho de 1978.
 
 Concede reconhecimento ao curso de Formação de Musicoterapeutas, ministrado pelo Conservatório Brasileiro de Música, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

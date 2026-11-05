@@ -1,5 +1,3 @@
-###DEC-084850-0-000-01-07-1980@@@
-
 Decreto nº 84.850, de 01 de julho de 1980.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Estado do Rio Grande do Norte e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212337)<br>
-
 # DECRETO N° 70.450, DE 11 DE MARÇO DE 2026
 
 ### _Institui e estabelece parâmetros para a 2ª Edição do Programa de Demissão Incentivada - PDI de que tratam os artigos 26 a 34 da Lei n° 17.293, de 15 de outubro de 2020._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### Seção I<br>
+#### Seção I
+
 Disposições Iniciais
 
 **Artigo 1° -** Fica instituída, no âmbito das Secretarias de Estado, da Procuradoria Geral do Estado, da Controladoria Geral do Estado e das autarquias, inclusive as de regime especial, a 2ª Edição do Programa de Demissão Incentivada - PDI de que tratam os artigos 26 a 34 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740).
@@ -41,7 +40,8 @@ II - assinar termo de retorno à função-atividade ou emprego público permanen
 
 **§ 5° -** Em caso de concessão de aposentadoria após a entrada em vigor da Emenda Constitucional federal n° 103, de 12 de novembro de 2019, aplica-se o disposto no § 14 do artigo 37 da Constituição da República e nos artigos 153-A e 181-B do Decreto federal n° 3.048, de 6 de maio de 1999, restando prejudicado o pedido de adesão ao Programa.
 
-#### Seção II<br>
+#### Seção II
+
 Do Incentivo Financeiro
 
 **Artigo 6° -** O pagamento do incentivo financeiro, de natureza indenizatória, a que se referem os incisos I e II do artigo 32 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), será efetuado de acordo com a opção do servidor, na seguinte conformidade:
@@ -68,7 +68,8 @@ II - a primeira parcela, até o dia 30 de junho de 2026, e as subsequentes, no 5
 
 **§ 4° -** Em caso de falecimento do titular da indenização sem que tenha havido a indicação de que trata o parágrafo único do artigo 33 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740), os pagamentos remanescentes serão realizados aos dependentes ou sucessores, na forma da Lei federal n.° 6.858, de 24 de novembro de 1980, e respectivo regulamento.
 
-#### Seção III<br>
+#### Seção III
+
 Disposições Finais
 
 **Artigo 7° -** A Secretaria de Gestão e Governo Digital expedirá instruções procedimentais complementares para a execução deste decreto.

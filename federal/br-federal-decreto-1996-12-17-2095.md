@@ -1,7 +1,3 @@
-1
-
-###DEC-002095-0-000-17-12-1996@@@
-
 DECRETO Nº 2.095, DE 17 DE DEZEMBRO DE 1996.
 
 Promulga o Protocolo de Buenos Aires sobre Jurisdição Internacional em Matéria Contratual, concluído em Buenos Aires, em 5 de agosto de 1994.

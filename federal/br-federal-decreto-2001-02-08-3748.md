@@ -1,5 +1,3 @@
-###DEC-003748-0-000-08-02-2001@@@
-
 DECRETO Nº 3.748 , DE 8 DE FEVEREIRO DE 2001
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão da Rede Básica do Sistema Elétrico Interligado, e dá outras providências.

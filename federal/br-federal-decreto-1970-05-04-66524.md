@@ -1,5 +1,3 @@
-###DEC-066524-0-000-04-05-1970@@@
-
 DECRETO Nº 66.524, DE 4 DE MAIO DE 1970.
 
 Dispõe sôbre o provimento de cargos no Departamento Nacional de Portos e Vias Navegáveis (DNPVN).

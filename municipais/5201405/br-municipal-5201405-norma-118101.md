@@ -51,7 +51,45 @@ SITUAÇÃO PROPOSTA
 | LOTE 15B | 270,00 |
 | LOTE 16A | 270,00 |
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 17A</td><td style="text-align:center">270,00</td></tr><tr><td style="text-align:center">LOTE 20A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 20B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 21A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 21B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 22A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 22B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 23A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 24A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 25A</td><td style="text-align:center">240,00</td></tr></tbody></table>
+LOTE 17A
+
+270,00
+
+LOTE 20A
+
+240,00
+
+LOTE 20B
+
+240,00
+
+LOTE 21A
+
+240,00
+
+LOTE 21B
+
+240,00
+
+LOTE 22A
+
+240,00
+
+LOTE 22B
+
+240,00
+
+LOTE 23A
+
+240,00
+
+LOTE 24A
+
+240,00
+
+LOTE 25A
+
+240,00
 
 Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.012.895, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -61,8 +99,10 @@ Aparecida de Goiânia, Estado de Goiás, aos 16 de maio de 2023.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

@@ -1,5 +1,3 @@
-###DEC-061438-0-000-04-10-1967@@@
-
 DECRETO Nº 61.438, DE 4 DE OUTUBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica no município de Nazaré, Estado da Bahia, e outorga concessão no mencionado município, à Companhia de Eletricidade do Estado da Bahia e dá outras providências.
@@ -35,8 +33,6 @@ Brasília, 4 de outubro de 1967; 146º da Independência e 79º da República.
 a. costa e silva
 
 José Costa Cavalcanti
-
-###DEC-061438-0-000-04\-10\-1967@@@RET01+++
 
 DECRETO Nº 61.438, DE 4 DE OUTUBRO DE 1967.
 

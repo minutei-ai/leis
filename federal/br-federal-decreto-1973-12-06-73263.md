@@ -1,5 +1,3 @@
-###DEC-073263-0-000-06-12-1973@@@
-
 DECRETO Nº 73.263 - DE 6 DE DEZEMBRO DE 1973
 
 Revoga o Decreto nº 62.720 de 17 de maio de 1968, publicado no Diário Oficial de 20 de maio de 1968.

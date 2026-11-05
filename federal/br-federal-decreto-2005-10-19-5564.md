@@ -1,5 +1,3 @@
-###DEC-005564-0-000-19-10-2005@@@
-
 DECRETO Nº 5.564, DE 19 DE OUTUBRO DE 2005.
 
 Institui o Comitê Nacional de Controle Higiênico-Sanitário de Moluscos Bivalves - CNCMB, e dá outras providências.

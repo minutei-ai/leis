@@ -1,6 +1,10 @@
 > **LEI Nº 3.526, DE 18 DE OUTUBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera e acresce dispositivos à Lei nº 3.520, de 25 de setembro de 2019, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2020, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera e acresce dispositivos à Lei nº 3.520, de 25 de setembro de 2019, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2020, e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

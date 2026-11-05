@@ -1,5 +1,3 @@
-###DEC-094606-0-000-14-07-1987@@@
-
 DECRETO Nº 94.606, DE 14 DE JULHO DE 1987
 
 Declara de ocupação dos Índios Waimiri-Atroari área de terra nos Municípios de Novo Airão, Itapiranga, Presidente Figueiredo (AM) e Caracaraí (RR), no Estado do Amazonas e no Território Federal de Roraima, e dá outras providências.

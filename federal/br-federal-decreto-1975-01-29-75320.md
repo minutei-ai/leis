@@ -1,5 +1,3 @@
-###DEC-075320-0-000-29-01-1975@@@
-
 DECRETO Nº 75.320, DE 29 DE JANEIRO DE 1975
 
 Dispõe sobre a criação do Programa de Desenvolvimento dos Cerrados (POLOCENTRO).

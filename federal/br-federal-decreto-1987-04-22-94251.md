@@ -1,5 +1,3 @@
-###DEC-094251-0-000-22-04-1987@@@
-
 DECRETO Nº 94.251, DE 22 DE ABRIL DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na cidade de Porto Alegre, Estado do Rio Grande do Sul, destinado ao Tribunal Regional do Trabalho da 4ª Região.

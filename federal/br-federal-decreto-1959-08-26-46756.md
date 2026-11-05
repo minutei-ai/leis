@@ -1,5 +1,3 @@
-###DEC-046756-0-000-26-08-1959@@@
-
 DECRETO Nº 46.756, DE 26 DE AGôSTO DE 1959.
 
 Altera o art. 60 do Decreto nº 13.470, de 12 de fevereiro de 1919, bem como o art. 1º do Decreto nº 32.849, de 23 de maio de 1953, no tocante ao prazo de interstício para promoção.

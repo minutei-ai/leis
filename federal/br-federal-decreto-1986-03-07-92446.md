@@ -1,5 +1,3 @@
-###DEC-092446-0-000-07-03-1986@@@
-
 DECRETO Nº 92.446, DE 07 DE MARÇO DE 1986
 
 Promulga a Emenda ao Artigo XXI da Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora em Perigo de Extinção.

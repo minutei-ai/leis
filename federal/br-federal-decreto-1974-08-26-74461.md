@@ -1,5 +1,3 @@
-###DEC-074461-0-000-26-08-1974@@@
-
 DECRETO Nº 74.461, DE 26 DE AGOSTO DE 1974.
 
 Concede permissão, em caráter permanente, à Indústria de Papel Leon Feffer S.A., com sede na Capital do Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos, no seu estabelecimento industrial localizado na mesma Capital.

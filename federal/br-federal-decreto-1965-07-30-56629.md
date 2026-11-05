@@ -1,5 +1,3 @@
-###DEC-056629-0-000-30-07-1965@@@
-
 DECRETO Nº 56.629, DE 30 DE JULHO DE 1965.
 
 Extingue o Batalhão de Serviços de Engenharia do 1º Grupamento de Engenharia e cria o 5º Batalhão de Engenharia de Construção.

@@ -1,5 +1,3 @@
-###MPV-001725-0-000-29-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.725, DE 29 DE OUTUBRO DE 1998
 
 Dá nova redação aos artigos 1º, 2º, 3º e 4º do Decreto-Lei nº 1.578(1), de 11 de outubro de 1977, que dispõe sobre o imposto sobre a exportação, e dá outras providências.

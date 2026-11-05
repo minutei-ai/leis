@@ -1,5 +1,3 @@
-###DEL-003162-0-000-31-03-1941@@@
-
 DECRETO-LEI N. 3.162 – DE 31 DE MARÇO DE 1941
 
 Eleva o padrão de vencimento dos professores, padrão J, da Escola Nacional de Música

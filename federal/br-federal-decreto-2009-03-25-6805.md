@@ -1,5 +1,3 @@
-###DEC-006805-0-000-25-03-2009@@@
-
 DECRETO Nº 6.805, DE 25 DE MARÇO DE 2009.
 
 Dá nova redação aos arts. 2o e 9o do Decreto no 6.639, de 7 de novembro de 2008, que regulamenta a Lei no 11.668, de 2 de maio de 2008.

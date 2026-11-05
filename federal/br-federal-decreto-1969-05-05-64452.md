@@ -1,5 +1,3 @@
-###DEC-064452-0-000-05-05-1969@@@
-
 DECRETO Nº 64.452, DE 5 DE MAIO DE 1969.
 
 Concede à Sabará - Indústria e Comércio Ltda, o direito de lavrar calcário, no município de Guapiara, Estado de São Paulo.

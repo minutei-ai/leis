@@ -1,5 +1,3 @@
-###DEC-079813-0-000-14-06-1977@@@
-
 Decreto nº 79.813, de 14 de junho de 1977
 
 Aprova o Regulamento para os Grandes Comandos das Forças Terrestres (R/163) e dá outras providências.

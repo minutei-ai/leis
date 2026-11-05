@@ -1,7 +1,3 @@
-1
-
-###LCP-000061-0-000-26-12-1989@@@
-
 # LEI COMPLEMENTAR N° 61, DE 26 DE DEZEMBRO DE 1989
 
 Estabelece normas para a participação dos Estados e do Distrito Federal no produto da arrecadação do Imposto sobre Produtos Industrializados  IPI, relativamente às exportações.

@@ -1,5 +1,3 @@
-###DEL-004175-0-000-13-03-1942@@@
-
 DECRETO-LEI N. 4.175 – DE 13 DE MARÇO DE 1942
 
 Concede uma subvenção anual de 100:000$0 ao Instituto Histórico e Geográfico Brasileiro.

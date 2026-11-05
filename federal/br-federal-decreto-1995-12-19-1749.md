@@ -1,7 +1,3 @@
-1
-
-###DEC-001749-0-000-19-12-1995@@@
-
 DECRETO Nº 1.749, DE 19 DE DEZEMBRO DE 1995.
 
 Altera o Regulamento para os Quadros Complementares de Oficiais da Marinha, reorganizados pela Lei nº 7.301, de 29 de março de 1985, aprovado pelo Decreto nº 91.183, de 3 de abril de 1985.

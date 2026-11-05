@@ -1,5 +1,3 @@
-###DEC-059473-0-000-08-11-1966@@@
-
 DECRETO Nº 59.473, de 8 de novembro de 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$1.955.066, para o fim que especifica.

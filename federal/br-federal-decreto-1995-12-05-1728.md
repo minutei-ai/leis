@@ -1,7 +1,3 @@
-1
-
-###DEC-001728-0-000-05-12-1995@@@
-
 DECRETO Nº 1.728, DE 05 DE DEZEMBRO DE 1995
 
 Altera a redação do Regulamento do Imposto sobre Produtos Industrializados.

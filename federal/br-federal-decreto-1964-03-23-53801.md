@@ -1,5 +1,3 @@
-###DEC-053801-0-000-23-03-1964@@@
-
 DECRETO Nº 53.801, DE 23 DE MARÇO DE 1964.
 
 Estabelece a coordenação das instituições federais de crédito; cria, junto ao Conselho da Superintendência da Moeda e do Crédito, a Comissão Nacional de Crédito Rural e dá outras providências.

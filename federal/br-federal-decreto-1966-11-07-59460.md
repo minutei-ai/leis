@@ -1,5 +1,3 @@
-###DEC-059460-0-000-07-11-1966@@@
-
 DECRETO Nº 59.460, DE 7 DE NOVEMBRO DE 1966.
 
 Altera o Decreto nº 48.460, de 13 de junho de 1960 que Regulamenta, para os militares da Marinha, a concessão da Licença Especial prevista na Lei nº 283, de 24 de maio de 1948.

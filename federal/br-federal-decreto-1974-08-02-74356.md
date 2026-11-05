@@ -1,5 +1,3 @@
-###DEC-074356-0-000-02-08-1974@@@
-
 Decreto nº 74.356, de 2 de agosto de 1974.
 
 Dispõe sobre o funcionamento provisório de unidades da extinta Secretaria do Trabalho, do antigo Ministério do Trabalho e Previdência Social.

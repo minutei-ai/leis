@@ -1,5 +1,3 @@
-###DEL-002964-0-000-20-01-1941@@@
-
 DECRETO-LEI N. 2.964 – DE 20 DE JANEIRO DE 1941
 
 Incorpora a Estrada da Ferro Petrolina a Teresina à Viação Férrea Federal Leste Brasileiro

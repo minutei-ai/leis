@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/43195c22-23a7-4c4f-8031-1f7b7f2a6e7d/texto#nowhere)
 
-###DEL-000530-0-000-15-04-1969@@@
-
 DECRETO-LEI Nº 530, DE 15 DE ABRIL DE 1969
 
 Dispõe sôbre os mandatos de Diretor-Geral e Diretor de Unidades do Colégio Pedro II.

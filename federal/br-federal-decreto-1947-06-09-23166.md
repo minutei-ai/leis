@@ -1,20 +1,18 @@
-###DEC-023166-0-000-09-06-1947@@@
+**DECRETO Nº 23.166, DE 9 de junho de 1947.**
 
-<strong>DECRETO Nº 23.166, DE 9 de junho de 1947.</strong>
+***Outorga à "Usina Santa Teresinha S.A.", com sede em Recife, concessão para o aproveitamento exclusivo da energia hidráulica existente no rio Camaragibe, distrito de Matriz, município de Camaragibe, Estado de Alagoas.***
 
-<em><strong>Outorga à "Usina Santa Teresinha S.A.", com sede em Recife, concessão para o aproveitamento exclusivo da energia hidráulica existente no rio Camaragibe, distrito de Matriz, município de Camaragibe, Estado de Alagoas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**Decreta:**
 
-<strong>Decreta:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à "Usina Santa Teresinha S.A.", com sede em Recife, Estado de Pernambuco, concessão para o aproveitamento da energia hidráulica existente no rio Camaragibe, município de igual nome, distrito de Matriz, Estado de Alagoas.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à "Usina Santa Teresinha S.A.", com sede em Recife, Estado de Pernambuco, concessão para o aproveitamento da energia hidráulica existente no rio Camaragibe, município de igual nome, distrito de Matriz, Estado de Alagoas.
 
 § 1º - Em portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, bem como a descarga e a potência concedidas.
 
 § 2º - O aproveitamento se destina à produção de energia elétrica para consumo exclusivo da concessionária, que não a poderá fornecer a terceiros mesmo a título gratuito, excluídas, todavia, dessa proibição as vilas operárias da concessionária, desde que seja gratuito o fornecimento de energia que lhes fôr feito.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a emprêsa interessada obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, a emprêsa interessada obriga-se a:
 
 I - Registrá-lo na Divisão de Águas, do Ministério da Agricultura;
 
@@ -38,26 +36,26 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 5º A concessionária fica obrigada a construir e manter, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso d'água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 5º A concessionária fica obrigada a construir e manter, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso d'água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão, tôda a propriedade de concessionária que, no momento, existir em função exclusiva e permanente da produção de energia elétrica, referente ao aproveitamento concedido, reverterá ao Govêrno do Estado de Alagoas, mediante indenização do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
+**Art**. 6º Findo o prazo da concessão, tôda a propriedade de concessionária que, no momento, existir em função exclusiva e permanente da produção de energia elétrica, referente ao aproveitamento concedido, reverterá ao Govêrno do Estado de Alagoas, mediante indenização do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
 
-<strong>Art</strong>. 7º Se o Governo do Estado de Alagoas não fizer uso do direito que lhe confere o artigo precedente, caberá a concessionária a alternativa de requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista, ou de restabelecer, ás suas expensas, a situação do curso d'água anterior ao aproveitamento concedido.
+**Art**. 7º Se o Governo do Estado de Alagoas não fizer uso do direito que lhe confere o artigo precedente, caberá a concessionária a alternativa de requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista, ou de restabelecer, ás suas expensas, a situação do curso d'água anterior ao aproveitamento concedido.
 
 Parágrafo único. Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Alagoas e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 8º A concessionária dadas as condições peculiares do aproveitamento, fica dispensada da reserva de energia de que trata o art. 153, alínea <em>e</em> do Código de Minas.
+**Art**. 8º A concessionária dadas as condições peculiares do aproveitamento, fica dispensada da reserva de energia de que trata o art. 153, alínea *e* do Código de Minas.
 
-<strong>Art</strong>. 9º A concessionária gozará, desde a data do registro de que trata o artigo 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 9º A concessionária gozará, desde a data do registro de que trata o artigo 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 10. O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário
+**Art**. 10. O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário
 
 Rio de Janeiro, 9 de junho de 1947, 126º da Independência e 59º da República.
 
-<strong>Eurico G. Dutra</strong>
+**Eurico G. Dutra**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###DEC-081659-0-000-15-05-1978@@@
-
 Decreto nº 81 659 de 15 de maio de 1978.
 
 Cria a Estação Naval do Rio Negro e dá outras providências.

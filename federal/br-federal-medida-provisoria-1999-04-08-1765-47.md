@@ -1,5 +1,3 @@
-###MPV-001765-0-047-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.765-47, DE 8 DE ABRIL DE 1999
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

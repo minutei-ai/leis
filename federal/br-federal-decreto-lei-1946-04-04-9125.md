@@ -1,5 +1,3 @@
-###DEL-009125-0-000-04-04-1946@@@
-
 DECRETO-LEI N. 9.125 – DE 4 DE ABRIL DE 1946
 
 Dispôe sôbre o contrôle de preços e cria órgãos destinados a impedir encarecimento da vida.

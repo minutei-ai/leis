@@ -1,5 +1,3 @@
-###DEC-049923-0-000-13-01-1961@@@
-
 DECRETO Nº 49.923, DE 13 DE JANEIRO DE 1961.
 
 Concede à sociedade The Rio de Janeiro Flour Mills & Granaries, Limited, autorização para continuar, a funcionar na República.

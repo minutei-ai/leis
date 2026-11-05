@@ -10,7 +10,8 @@ Parágrafo único - O saldo do crédito autorizado neste artigo será aplicado n
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da verba 3.5.08 - codificação 3.1.4.0 - do orçamento vigente.
 
-Redação de acordo com a Lei nº 2.335, de 23 de maio de 1966.<br>
+Redação de acordo com a Lei nº 2.335, de 23 de maio de 1966.
+
 Redação original: "Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta das seguintes rubricas do Orçamento para o corrente exercício:"
 
 a) Cr$550.000.000 (quinhentos e cinquenta milhões de cruzeiros) de anulação da verba 2.01.03, codificação 4.1.10
@@ -31,4 +32,4 @@ Jorge Calmom
 
 Ivo Braga
 
-* * *
+ *

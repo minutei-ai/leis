@@ -1,7 +1,3 @@
-1
-
-###DEC-001059-0-000-21-02-1994@@@
-
 DECRETO Nº 1.059, DE 21 DE FEVEREIRO DE 1994
 
 Reduz a alíquota do Imposto sobre Produtos Industrializados, incidente sobre o produto que menciona.

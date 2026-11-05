@@ -1,7 +1,3 @@
-1
-
-###DEC-000358-0-000-09-12-1991@@@
-
 DECRETO Nº 358, DE 9 DE DEZEMBRO DE 1991
 
 Torna permanente a Comissão de Desenvolvimento do Projeto e da Implantação do Sistema de Comunicações Militares por Satélite (CISCOMIS).

@@ -1,5 +1,3 @@
-###DEC-045295-0-000-27-01-1959@@@
-
 Decreto nº 45.295, de 27 de janeiro de 1959.
 
 Autoriza o cidadão brasileiro Maurício Gonçalves Leite a pesquisar cobre nos municípios de Aurora e Milagres, Estado do Ceará.

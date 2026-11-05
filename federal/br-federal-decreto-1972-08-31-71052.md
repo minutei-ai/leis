@@ -1,5 +1,3 @@
-###DEC-071052-0-000-31-08-1972@@@
-
 DECRETO Nº 71.052, DE 31 DE AGOSTO DE 1972.
 
 Torna sem efeito aproveitamento de disponíveis no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e cassa a disponibilidade dos mesmos.

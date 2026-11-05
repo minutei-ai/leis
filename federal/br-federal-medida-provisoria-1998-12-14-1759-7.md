@@ -1,5 +1,3 @@
-###MPV-001759-0-007-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.759-7, DE 14 DE DEZEMBRO DE 1998.
 
 Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal, destinado ao ressarcimento parcial das perdas decorrentes da aplicação da Lei nº 9.424, de 24 de dezembro de 1996.

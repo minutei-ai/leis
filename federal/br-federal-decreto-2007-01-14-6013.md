@@ -1,5 +1,3 @@
-###DEC-006013-0-000-14-01-2007@@@
-
 DECRETO Nº 6.013, DE 14 DE JANEIRO DE 2007.
 
 Dá nova redação ao art. 39 do Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior, aprovado pelo Decreto no 4.248, de 23 de maio de 2002.
@@ -21,5 +19,3 @@ Dá nova redação ao art. 39 do Regulamento de Promoções da Carreira de Diplo
 LUIZ INÁCIO LULA DA SILVA
 
            Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 15.1.2007 - Edição extra

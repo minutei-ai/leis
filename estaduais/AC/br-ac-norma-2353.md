@@ -2,7 +2,11 @@ Revogada pela Lei nº [3.346 , de 15 de Dezembro de 2017.](https://legis.ac.gov.
 
 > **LEI Nº 3.166, DE 21 DE SETEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a utilização de depósitos judiciais em dinheiro, tributários e não tributários realizados em processos vinculados ao Tribunal de Justiça do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a utilização de depósitos judiciais em dinheiro, tributários e não tributários realizados em processos vinculados ao Tribunal de Justiça do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

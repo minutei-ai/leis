@@ -1,5 +1,3 @@
-###DEL-003800-0-000-06-11-1941@@@
-
 DECRETO-LEI N. 3.800 – DE 6 DE NOVEMBRO DE 1941
 
 Reorganiza os quadros do Ministério da Justiça e Negócios Interiores, e dá outras providências.

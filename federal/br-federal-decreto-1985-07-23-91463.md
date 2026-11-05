@@ -1,5 +1,3 @@
-###DEC-091463-0-000-23-07-1985@@@
-
 Decreto nº 91.463, de 23 de julho de 1985.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Subestação de Transição Santa Bárbara, da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

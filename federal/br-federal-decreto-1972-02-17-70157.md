@@ -1,5 +1,3 @@
-###DEC-070157-0-000-17-02-1972@@@
-
 DECRETO Nº 70.157, DE 17 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Comunicação Social - Anhembi - em São Paulo - SP.

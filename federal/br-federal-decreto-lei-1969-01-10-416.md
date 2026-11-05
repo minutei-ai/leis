@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/5002db16-1eb6-4b11-9e50-0bc25f9e79e8/texto#nowhere)
 
-###DEL-000416-0-000-10-01-1969@@@
-
 DECRETO-LEI Nº 416, DE 10 DE JANEIRO DE 1969
 
 Acrescenta dispositivo ao Decreto-lei nº 37, de 18 de novembro de 1966, estendendo benefícios aduaneiros a cientistas e técnicos radicados no exterior que venham exercer sua profissão no Brasil e dá outras providências.

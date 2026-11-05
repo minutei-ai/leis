@@ -1,5 +1,3 @@
-###DEC-094018-0-000-11-02-1987@@@
-
 DECRETO Nº 94.018, DE 11 DE FEVEREIRO DE 1987.
 
 Autoriza o aumento de capital da Companhia Brasileira de Participação Agroindustrial - BRASAGRO.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a4ffa6f3-d1ae-4536-9e7e-d73021b78ab3/texto#nowhere)
 
-###DEL-000836-0-000-08-09-1969@@@
-
 decreto-lei nº 836, DE 8 De SEtembro DE 1969
 
 Dispõe sôbre a apuração do resultado financeiro dos órgãos da Administração Direta e dá outras providências.

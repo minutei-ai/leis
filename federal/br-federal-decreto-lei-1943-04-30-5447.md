@@ -1,5 +1,3 @@
-###DEL-005447-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.447 – DE 30 DE ABRIL DE 1943
 
 Dispõe sobre o emprego, nas fábricas de fiação e tecidos, da fécula ou amido de mandioca

@@ -1,6 +1,10 @@
 > **LEI Nº 4.785, DE 01 DE ABRIL DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre auxílio-saúde para os servidores públicos estaduais civis e militares inativos e pensionistas com paridade.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre auxílio-saúde para os servidores públicos estaduais civis e militares inativos e pensionistas com paridade.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

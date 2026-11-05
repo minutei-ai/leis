@@ -1,5 +1,3 @@
-###DEC-068979-0-000-23-07-1971@@@
-
 decreto nº 68.979, de 23 de julho de 1971.
 
 Autorização para funcionamento da Faculdade de Filosofia, Ciências e Letras de Piracicaba - SP.

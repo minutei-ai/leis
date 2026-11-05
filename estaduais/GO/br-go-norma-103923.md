@@ -30,8 +30,6 @@ II – ao art. 1º da Lei estadual nº [18.804](https://legisla.casacivil.go.go
 
 Goiânia, 30 de março de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-055903-0-000-08-04-1965@@@
-
 DECRETO Nº 55.903, DE 8 DE ABRIL DE 1965.
 
 Abre, pelo Ministério da Fazenda, o crédito especial até o limite de Cr$5000.000.000,00 (cinco bilhões de cruzeiros), para atender as despesas que especifica.

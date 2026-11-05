@@ -1,5 +1,3 @@
-###DEC-047296-0-000-28-11-1959@@@
-
 DECRETO Nº 47.296, DE 28 DE NOVEMBRO DE 1959.
 
 Estende prazo para uso facultativo do atual tipo de sapato preto previsto no art. 3º do Decreto nº 43.617, de 29 de abril de 1958.

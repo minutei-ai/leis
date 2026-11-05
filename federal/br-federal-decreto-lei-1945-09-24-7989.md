@@ -1,5 +1,3 @@
-###DEL-007989-0-000-24-09-1945@@@
-
 DECRETO-LEI N. 7.989 – DE 24 DE SETEMBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.500.000,00, para despesas a cargo da Comissão de Financiamento da Produção.

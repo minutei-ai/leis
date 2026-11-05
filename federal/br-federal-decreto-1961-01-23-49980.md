@@ -1,5 +1,3 @@
-###DEC-049980-0-000-23-01-1961@@@
-
 DECRETO Nº 49.980, DE 23 DE JANEIRO DE 1961.
 
 Autoriza o Patrimônio da União a aceitar as doações que menciona, situadas em Goiânia, no Estado de Goiás.

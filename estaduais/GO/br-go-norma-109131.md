@@ -1,6 +1,6 @@
 Portaria Orçamentária nº 343/2024 - Economia
 
-**O** **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004035893.
+**OSECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004035893.
 
 **RESOLVE:**
 
@@ -12,15 +12,13 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 26 dias do mês de Junho de 2024.
 
-<br>
-
 FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
 | SUPLEMENTAÇÃO |
 | --- |
-| **4000 - SECRETARIA-GERAL DE GOVERNO** **4001 - GAB. DA SECRETARIA GERAL DE GOVERNO** |
+| **4000 - SECRETARIA-GERAL DE GOVERNO4001 - GAB. DA SECRETARIA GERAL DE GOVERNO** |
 | **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
 | 24 722 1049 3.279 | IMPLANTAÇÃO DA REDE DE FIBRA ÓTICA EM MUNICÍPIOS - GOIÁS DE FIBRA | 3 - OUTRAS DESPESAS CORRENTES | 15000100 | 90 |
 | **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |
@@ -32,7 +30,7 @@ QUADRO 2
 
 | REDUÇÃO |
 | --- |
-| **4000 - SECRETARIA-GERAL DE GOVERNO** **4001 - GAB. DA SECRETARIA GERAL DE GOVERNO** |
+| **4000 - SECRETARIA-GERAL DE GOVERNO4001 - GAB. DA SECRETARIA GERAL DE GOVERNO** |
 | **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
 | 24 722 1049 3.279 | IMPLANTAÇÃO DA REDE DE FIBRA ÓTICA EM MUNICÍPIOS - GOIÁS DE FIBRA | 4 - INVESTIMENTOS | 15000100 | 90 |
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |

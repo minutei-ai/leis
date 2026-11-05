@@ -24,11 +24,14 @@ Art. 3º Esta Lei entrará em vigor na data da sua publicação, revogadas as di
 
 GABINETE DO PREFEITO DO MUNICÍPIO DE APARECIDA DE GOIÂNIA, Estado de Goiás, aos 05 dias do mês de fevereiro do ano 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER DE MORAIS<br>
+EULER DE MORAIS
+
 Secretario Municipal de Governo e Integração Institucional
 
-GEOLIANO DE SOUZA LIMA<br>
+GEOLIANO DE SOUZA LIMA
+
 Secretário Municipal de Administração e Recursos Humanos

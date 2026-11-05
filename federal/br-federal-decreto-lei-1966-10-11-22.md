@@ -1,5 +1,3 @@
-###DEL-000022-0-000-11-10-1966@@@
-
 DECRETO-LEI Nº 22, DE 11 DE OUTUBRO DE 1966
 
 Aplica aos servidores das emprêsas de navegação autárquicas ou paraestatais, regidos pela legislação do funcionalismo público, a proibição prevista no artigo 566 da Consolidação das Leis do Trabalho.

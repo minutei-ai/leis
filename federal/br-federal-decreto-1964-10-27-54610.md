@@ -1,5 +1,3 @@
-###DEC-054610-0-000-27-10-1964@@@
-
 DECRETO Nº 54.610, DE 27 DE OUTUBRO DE 1964.
 
 Abre pelo Ministério da Fazenda crédito especial de Cr$2.000.000.000,00, para os fins que especifica.

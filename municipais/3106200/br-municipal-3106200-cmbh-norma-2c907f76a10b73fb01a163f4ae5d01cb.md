@@ -6,8 +6,6 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 Art. 1º - Fica denominada Dona Antônia Cecília a Rua Y, código 078194, no Bairro Jardim Vitória.
 
-<br>
-
 Art. 2º - Esta lei entra em vigor na data de sua publicação.
 
 Belo Horizonte, 21 de outubro de 2026.
@@ -17,5 +15,3 @@ Belo Horizonte, 21 de outubro de 2026.
 Prefeito de Belo Horizonte
 
 _(Originária do Projeto de Lei nº 867/26, de autoria do vereador Neném da Farmácia)_
-
-<br>

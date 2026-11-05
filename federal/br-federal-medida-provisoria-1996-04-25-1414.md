@@ -1,7 +1,3 @@
-1
-
-###MPV-001414-0-000-25-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.414, DE 25 DE ABRIL DE 1996.
 
 Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados bens de informática adquiridos pelo Tribunal Superior Eleitoral.

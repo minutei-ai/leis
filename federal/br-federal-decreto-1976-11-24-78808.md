@@ -1,5 +1,3 @@
-###DEC-078808-0-000-24-11-1976@@@
-
 DECRETO Nº 78.808, DE 24 DE NOVEMBRO DE 1976.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário no Município de Salinas da Margarida, Estado da Bahia.

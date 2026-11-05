@@ -1,5 +1,3 @@
-###DEC-079467-0-000-05-04-1977@@@
-
 DECRETO Nº 79.467, DE 5 DE ABRIL DE 1977.
 
 Concede à Cerâmica Chiarelli S. A. o direito de lavrar folhelho argiloso no Município de Mogi-Guaçu, Estado de São Paulo.

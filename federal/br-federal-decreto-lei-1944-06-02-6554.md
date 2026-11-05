@@ -1,5 +1,3 @@
-###DEL-006554-0-000-02-06-1944@@@
-
 DECRETO-LEI N. 6.554 – DE 01 DE JUNHO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 3.322,00 para pagamento da vantagem (Pessoal) que indica

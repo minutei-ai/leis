@@ -1,7 +1,3 @@
-1
-
-###DEC-099768-0-000-05-12-1990@@@
-
 # DECRETO Nº 99.768, DE 5 DE DEZEMBRO DE 1990
 
 Dispõe sobre as atribuições dos Oficiais Policiais-Militares Músicos da Polícia Militar do Distrito Federal e sobre o acesso ao respectivo Quadro (QOPMM), e dá outras providências.

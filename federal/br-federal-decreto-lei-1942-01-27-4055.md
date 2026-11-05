@@ -1,5 +1,3 @@
-###DEL-004055-0-000-27-01-1942@@@
-
 DECRETO-LEI N. 4.055 – DE 27 DE JANEIRO DE 1942
 
 Dá nova redação ao decreto-lei n.2.124, de 11 de abril de 1940, e dá outras providencias

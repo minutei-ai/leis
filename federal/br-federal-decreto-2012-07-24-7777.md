@@ -1,5 +1,3 @@
-###DEC-007777-0-000-24-07-2012-PUB-01@@@
-
 DECRETO Nº 7.777, DE 24 DE JULHO DE 2012
 
 Dispõe sobre as medidas para a continuidade de atividades e serviços públicos dos órgãos e entidades da administração pública federal durante greves, paralisações ou operações de retardamento de procedimentos administrativos promovidas pelos servidores públicos federais.

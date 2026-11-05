@@ -1,5 +1,3 @@
-###DEL-006506-0-000-17-05-1944@@@
-
 DECRETO-LEI N. 6.506 – DE 17 DE MAIO DE 1944
 
 Desapropria, por utilidade pública, terrenos situados no Território Nacional de Iguassú

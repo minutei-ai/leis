@@ -1,5 +1,3 @@
-###DEC-077270-0-000-09-03-1976@@@
-
 DECRETO Nº 77.270, DE 9 DE MARÇO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado em Maceió, Estado de Alagoas.

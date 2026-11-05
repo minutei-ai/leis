@@ -1,5 +1,3 @@
-###DEC-055048-0-000-23-11-1964@@@
-
 decreto nº 55.048, de 23 de novembro de 1964.
 
 Abre pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$3.000.000.000,00, para o fim que menciona.

@@ -1,5 +1,3 @@
-###DEC-073323-0-000-18-12-1973@@@
-
 DECRETO Nº 73.323 - DE 18 DE DEZEMBRO DE 1973
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, no Estado de Goiás.

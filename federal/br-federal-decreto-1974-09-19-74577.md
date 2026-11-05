@@ -1,5 +1,3 @@
-###DEC-074577-0-000-19-09-1974@@@
-
 DECRETO Nº 74.577, DE 19 DE SETEMBRO DE 1974.
 
 Concede a Cimentos do Brasil S.A. - CIBRASA o direito de lavrar calcário nos Municípios de Peixe Boi e Bonito, Estado do Pará.

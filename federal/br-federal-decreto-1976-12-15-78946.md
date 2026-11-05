@@ -1,5 +1,3 @@
-###DEC-078946-0-000-15-12-1976@@@
-
 DECRETO Nº 78.946, DE 15 DE DEZEMBRO DE 1976.
 
 Altera o Estatuto da Fundação Centro Nacional de Aperfeiçoamento de Pessoal para a Formação Profissional (CENAFOR), aprovado pelo Decreto nº 65.322, de 10 de outubro de 1969, modificado pelo Decreto nº 70.547, de 16 de maio de 1972.

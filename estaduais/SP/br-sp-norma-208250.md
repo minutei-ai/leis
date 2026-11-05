@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208250)<br>
-
 # LEI N° 17.713, DE 03 DE JULHO DE 2023
 
 ## (Projeto de lei n° 557, de 2023, do Deputado Rafael Silva - PSD)

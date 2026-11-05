@@ -1,5 +1,3 @@
-###DEC-052797-0-000-31-10-1963@@@
-
 DECRETO Nº 52.797, de 31 DE OUTUBRO DE 1963.
 
 Aprova o Regimento do Serviço Nacional de Bibliotecas do Ministério da Educação e Cultura.

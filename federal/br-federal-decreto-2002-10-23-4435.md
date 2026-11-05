@@ -1,5 +1,3 @@
-###DEC-004435-0-000-23-10-2002@@@
-
 DECRETO Nº 4.435, DE 23 DE OUTUBRO DE 2002
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Arquivo Nacional.

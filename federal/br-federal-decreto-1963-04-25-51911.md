@@ -1,5 +1,3 @@
-###DEC-051911-0-000-25-04-1963@@@
-
 DECRETO Nº 51.911, DE 25 DE ABRIL DE 1963.
 
 Concede autorização para funcionamento de curso.

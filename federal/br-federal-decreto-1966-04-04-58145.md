@@ -1,5 +1,3 @@
-###DEC-058145-0-000-04-04-1966@@@
-
 DECRETO Nº 58.145, DE 4 DE ABRIL DE 1966.
 
 Altera o Decreto nº 54.382, de 5 de outubro de 1964.

@@ -1,5 +1,3 @@
-###DEL-008218-0-000-23-11-1945@@@
-
 DECRETO-LEI N. 8.218 – DE 23 DE NOVEMBRO DE 1945
 
 Altera a redação do art. 3º do Decreto-lei n. 7.582, de 25 de maio de 1945

@@ -1,5 +1,3 @@
-###DEL-005257-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.257 – DE 18 DE FEVEREIRO DE 1943
 
 Prorroga o prazo do que trata o decreto‑lei  nº 5.042, de 4 dezembro de 1942

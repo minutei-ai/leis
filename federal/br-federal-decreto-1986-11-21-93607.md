@@ -1,5 +1,3 @@
-###DEC-093607-0-000-21-11-1986@@@
-
 DECRETO Nº 93.607, DE 21 DE NOVEMBRO DE 1986.
 
 Disciplina a aplicação dos recursos dos Fundos de Investimento, de que trata o Decreto-lei nº 1.376, de 12 de dezembro de 1974, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064880-0-000-25-07-1969@@@
-
 DECRETO Nº 64.880 - DE 25 DE JULHO DE 1969.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia de Eletricidade de Brasília - CEB.

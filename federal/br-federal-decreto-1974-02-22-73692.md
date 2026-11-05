@@ -1,5 +1,3 @@
-###DEC-073692-0-000-22-02-1974@@@
-
 DECRETO nº 73.692, de 22 de fevereiro de 1974.
 
 Complementa o Decreto nº 72.719, de 30 de Agosto de 1973, que disciplina a aplicação de recursos necessários à implantação do Plano de Classificação de Cargos de Serviço Civil da União.

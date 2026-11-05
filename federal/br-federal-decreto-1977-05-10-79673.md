@@ -1,5 +1,3 @@
-###DEC-079673-0-000-10-05-1977@@@
-
 DECRETO Nº 79.673, DE 10 DE MAIO DE 1977.
 
 Fixa em importância equivalente a até US$ 100,000,000.00 (cem milhões de dólares) a autorização para a contratação de operações externas de crédito, com garantia do Tesouro Nacional, para compor o esquema financeiro de aporte de recursos de capital da Siderurgia Brasileira S.A. - SEDERBRÁS em suas subsidiárias, no ano de 1977, e dá outras providências.

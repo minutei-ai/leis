@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 30 dias do mês de Maio de 2023.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 QUADRO 1
@@ -42,6 +40,7 @@ QUADRO 2
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | R$ 0,00 | R$ 3.989.873,42 | R$ 3.989.873,42 |
 |
- | **VALOR TOTAL<br>
+ | **VALOR TOTAL
+
 A REDUZIR** |
 | R$ 3.989.873,42 |

@@ -1,5 +1,3 @@
-###DEC-045452-0-000-24-02-1959@@@
-
 decreto nº 45.452, de 24 de fevereiro de 1959.
 
 Determina a intervenção administrativa na Companhia Fôrça e Luz Norte Fluminense.

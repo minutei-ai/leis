@@ -1,5 +1,3 @@
-###DEC-096746-0-000-21-09-1988@@@
-
 DECRETO N° 96.746, DE 21 DE SETEMBRO DE 1988
 
 Outorga à Companhia Brasileira de Alumínio  CBA concessão para o aproveitamento da energia hidráulica de um trecho do Rio Ribeira do Iguape, no local denominado Tijuco Alto, nos Municípios de Cerro Azul e Adrianópolis, Estado do Paraná, e Ribeira, Estado de São Paulo.

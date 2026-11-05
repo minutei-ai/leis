@@ -1,5 +1,3 @@
-###DEL-004731-0-000-23-09-1942@@@
-
 DECRETO-LEI N. 4.731 – DE 23 DE SETEMBRO DE 1942
 
 Dispõe sobre a organização, no Instituto Nacional de Tecnologia do Ministério do Trabalho Indústria e Comércio, de um curso de formação de metrologistas.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59301)
-
 # LEI Nº 12.145, DE 09 DE DEZEMBRO DE 2005
 
 ## (PL 521/2003 - Said Mourad)

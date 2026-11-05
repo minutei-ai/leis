@@ -1,7 +1,3 @@
-1
-
-###DEC-095713-0-000-10-02-1988@@@
-
 DECRETO Nº 95.713, DE 10 DE FEVEREIRO DE 1988
 
 Institui a Comissão do conjunto cultural federal da Capital da República, e dá outras providências.

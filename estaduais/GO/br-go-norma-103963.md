@@ -1,4 +1,5 @@
-DECRETO Nº 9.862, DE 10 DE MAIO DE 2021<br>
+DECRETO Nº 9.862, DE 10 DE MAIO DE 2021
+
 [Revogado pelo Decreto nº 9.875, de 02-06-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103992/decreto-9875)
 
 ~~Dispõe sobre a limitação de atividades na região do Rio Araguaia que impliquem em aglomeração de pessoas para o lazer e o turismo, como forma de combate à disseminação da COVID-19 no Estado de Goiás.~~
@@ -44,8 +45,6 @@ DECRETO Nº 9.862, DE 10 DE MAIO DE 2021<br>
 ~~Art. 6º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 10 de maio de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

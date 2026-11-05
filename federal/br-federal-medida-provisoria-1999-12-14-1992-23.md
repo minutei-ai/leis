@@ -1,5 +1,3 @@
-###MPV-001992-0-023-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.992-23, DE 14 DE DEZEMBRO DE 1999.
 
 Altera a redação dos arts. 26, 27, 31, 44 e 59 da Lei nº 9.473, de 22 de julho de 1997, que dispõe sobre as diretrizes para a elaboração de lei orçamentária de 1998.

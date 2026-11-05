@@ -1,5 +1,3 @@
-###DEC-099534-0-000-19-09-1990@@@
-
 DECRETO N° 99.534, DE 19 DE SETEMBRO DE 1990
 
 Promulgação da Convenção n° 152 - Convenção Relativa a Segurança e Higiene nos Trabalhos Portuários.

@@ -1,5 +1,3 @@
-###DEC-067050-0-000-13-08-1970@@@
-
 DECRETO Nº 67.050, DE 13 DE AGÔSTO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Permanente - do Departamento de Policia Federal, cargos originários da extinta Fundação Brasil Central.

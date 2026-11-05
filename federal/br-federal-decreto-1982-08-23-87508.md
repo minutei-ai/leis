@@ -1,5 +1,3 @@
-###DEC-087508-0-000-23-08-1982@@@
-
 DECRETO Nº 87.508, DE 23 DE AGOSTO DE 1982.
 
 Eleva o número de representantes do Governo do Estado do Espírito Santo no Grupo Executivo de que trata o Decreto nº 880, de 1969.

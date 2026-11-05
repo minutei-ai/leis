@@ -1,7 +1,3 @@
-1
-
-###DEL-000039-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 39, DE 18 DE NOVEMBRO DE 1966
 
 Autoriza o Poder Executivo a abrir pelo Ministério da Fazenda - consignado ao Conselho Nacional de Telecomunicações, o crédito especial de Cr$2.000.000.000 (dois bilhões de cruzeiros) para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-003357-0-000-02-02-2000@@@
-
 DECRETO Nº 3.357, DE 2 DE FEVEREIRO DE 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Função Gratificada - FG que menciona, e dá outras providências.

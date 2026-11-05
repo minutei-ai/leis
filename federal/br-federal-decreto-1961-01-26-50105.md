@@ -1,5 +1,3 @@
-###DEC-050105-0-000-26-01-1961@@@
-
 DECRETO Nº 50.105, DE 26 DE JANEIRO DE 1961.
 
 Autoriza estrangeiro a adquirir, em regularização de aforamento a fração ideal do domínio útil do terreno da marinha que menciona, no Estado da Guanabara.

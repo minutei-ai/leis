@@ -1,5 +1,3 @@
-###DEC-054724-0-000-30-10-1964@@@
-
 DECRETO Nº 54.724, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza a Emprêsa Elétrica de  Londrina S.A. a vender grupos geradores vinculados aos serviços de que é concessionária.
@@ -27,8 +25,6 @@ Brasília, 30 de outubro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-054724-0-000-30-10-1964@@@RET01+++
 
 DECRETO Nº 54.724, DE 30 DE OUTUBRO DE 1964.
 

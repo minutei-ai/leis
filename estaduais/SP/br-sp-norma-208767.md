@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208767)<br>
-
 # DECRETO N° 68.060, DE 07 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A., as áreas complementares necessárias à implantação de dispositivo de acesso e retorno, no km 264+050m, da Rodovia Miguel Jurban, SP-333, no Município de Guarantã, e dá providências correlatas._

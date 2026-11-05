@@ -1,5 +1,3 @@
-###DEC-082294-0-000-19-09-1978@@@
-
 Decreto nº 82.294, de 19 de setembro de 1978.
 
 Autoriza o registro , em nome da União Federal, do imóvel que menciona, situado no Estado de Sergipe.

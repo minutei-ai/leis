@@ -1,7 +1,3 @@
-1
-
-###DEC-000761-0-000-19-02-1993@@@
-
 DECRETO N° 761, DE 19 DE FEVEREIRO DE 1993
 
 Dispõe sobre a criação, por transformação, de cargos em comissão e funções de confiança, aprova a Estrutura Regimental do Ministério da Justiça e dá outras providências.

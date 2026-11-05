@@ -1,5 +1,3 @@
-###LCP-000131-0-000-27-05-2009@@@
-
 LEI COMPLEMENTAR Nº 131, DE 27 DE MAIO DE 2009
 
 Acrescenta dispositivos à Lei Complementar  no 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências, a fim de determinar a disponibilização, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira da União, dos Estados, do Distrito Federal e dos Municípios.

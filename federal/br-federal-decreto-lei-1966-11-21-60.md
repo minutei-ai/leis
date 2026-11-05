@@ -1,5 +1,3 @@
-###DEL-000060-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 60 - DE 21 DE NOVEMBRO DE 1966
 
 Dispõe sôbre a reorganização do Banco Nacional de Crédito Cooperativo e dá outras providências.

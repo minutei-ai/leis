@@ -1,5 +1,3 @@
-###MPV-001711-0-010-20-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.711-10, DE 20 DE MAIO DE 1999.
 
 Acresce dispositivo às Leis nos 9.526, de 8 de dezembro de 1997, e 9.496, de 11 de setembro de 1997.

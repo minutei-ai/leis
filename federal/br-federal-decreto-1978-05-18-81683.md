@@ -1,5 +1,3 @@
-###DEC-081683-0-000-18-05-1978@@@
-
 Decreto nº 81.638, de 18 de maio de 1978.
 
 Concede reconhecimento aos cursos de letras e Pedagogia da Faculdade de Educação, Ciências e Letras "Olavo Bilac'' com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

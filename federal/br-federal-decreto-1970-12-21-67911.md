@@ -1,5 +1,3 @@
-###DEC-067911-0-000-21-12-1970@@@
-
 DECRETO Nº 67.911, DE 21 DE DEZEMBRO DE 1970.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal do Departamento de Polícia Federal, do Ministério da Justiça, e dá outras providências.

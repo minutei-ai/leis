@@ -1,5 +1,3 @@
-###DEL-009249-0-000-10-05-1946@@@
-
 DECRETO-LEI N. 9.249 – DE 10 DE MAIO DE 1946
 
 Modifica artigos do Decreto-lei nº 8.760, de 21 de Janeiro de 1946, que criou o Quadro Auxiliar de Oficiais.

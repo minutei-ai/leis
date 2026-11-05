@@ -1,5 +1,3 @@
-###DEC-061191-0-000-21-08-1967@@@
-
 DECRETO Nº 61.191, DE 21 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área que especifica, nos Municípios de Itiuba e Cansanção, Estado da Bahia.

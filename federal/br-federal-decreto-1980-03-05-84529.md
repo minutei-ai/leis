@@ -1,5 +1,3 @@
-###DEC-084529-0-000-05-03-1980@@@
-
 Decreto nº 84.529, de 05 de março de 1980.
 
 Suspende, por inconstitucionalidade, a execução de parte do artigo 13 da Lei nº4.004, de 30 de junho de 1978, do Estado de Mato Grosso.

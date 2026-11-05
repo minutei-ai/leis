@@ -1,5 +1,3 @@
-###DEC-002498-0-000-13-02-1998@@@
-
 DECRETO Nº 2.498, DE 13 DE FEVEREIRO DE 1998
 
 Dispõe sobre a aplicação do Acordo sobre a Implementação do Artigo VII do Acordo Geral sobre Tarifas e Comércio - GATT 1994.

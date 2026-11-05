@@ -1,5 +1,3 @@
-###DEC-096348-0-000-15-07-1988@@@
-
 DECRETO N° 96.348, DE 16 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA CHOPIM - QUINHÃO N° 5, DA DIVISÃO JUDICIAL DA GLEBA N° 01 DO QUINHÃO N° 01”, classificado como “latifúndio por exploração”, situado no Município de Mangueirinha, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n.° 92.622 de 2 de maio de 1986, e dá outras providências.

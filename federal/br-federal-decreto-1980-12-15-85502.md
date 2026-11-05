@@ -1,5 +1,3 @@
-###DEC-085502-0-000-15-12-1980@@@
-
 Decreto nº 85.502, de 15 de dezembro de 1980.
 
 Autoriza a Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, a proceder aumento de Capital.

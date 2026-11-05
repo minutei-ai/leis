@@ -1,5 +1,3 @@
-###DEC-086958-0-000-24-02-1982@@@
-
 DECRETO Nº 86.958, DE 24 DE FEVEREIRO DE 1982
 
 Altera dispositivo do Decreto nº 84.557, de 12 de março de 1980, que dispõe sobre aerolevantamento no território nacional e dá outras providências.

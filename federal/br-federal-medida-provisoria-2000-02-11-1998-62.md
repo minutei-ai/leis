@@ -1,5 +1,3 @@
-###MPV-001998-0-062-11-02-2000@@@
-
 medida provisória nº 1.998-62, de 11 de fevereiro de 2000.
 
 Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

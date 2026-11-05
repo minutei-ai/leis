@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 Art. 1º - É considerada de utilidade pública a Fundação Juracy Magalhães Junior, com sede no município de Salvador.
 
-Redação de acordo com a Lei nº 2.608, de 22 de novembro de 1968.<br>
+Redação de acordo com a Lei nº 2.608, de 22 de novembro de 1968.
+
 Redação original: "Art. 1º - É considerada de utilidade pública a Fundação Juracy Magalhães Júnior, com sede no Município de Itaparica."
 
 Art. 2º - Revogam-se as disposições em contrário.
@@ -19,4 +20,4 @@ Governador
 
 Heitor Dias Pereira
 
-* * *
+ *

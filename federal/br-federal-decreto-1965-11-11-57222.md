@@ -1,5 +1,3 @@
-###DEC-057222-0-000-11-11-1965@@@
-
 DECRETO Nº 57.222, DE 11 DE NOVEMBRO DE 1965.
 
 Transfere para o Instituto de Previdência e Assistência dos Servidores do Estado (I.P.A.S.E.) o pagamento do salário-família dos dependentes dos servidores civis, ex-contribuintes do mesmo, falecidos em atividade ou já aposentados, bem como a complementação da pensão especial instituída pela Lei n° 3.738, de 4 de abril de 1960, e dá outras providências.

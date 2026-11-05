@@ -1,5 +1,3 @@
-###DEC-092794-0-000-17-06-1986@@@
-
 DECRETO Nº 92.794, DE 17 DE JUNHO DE 1986
 
 Torna insubsistente o Decreto nº 69.131, de 26 de agosto de 1971.

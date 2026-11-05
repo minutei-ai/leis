@@ -1,5 +1,3 @@
-###DEC-002232-0-000-23-05-1997@@@
-
 DECRETO Nº 2.232, DE 23 DE MAIO DE 1997
 
 Dispõe sobre a renegociação de débitos decorrentes da emissão de debêntures não conversíveis, nos termos da Lei nº 8.167, de 16 de janeiro de 1991, e dá outras providências.

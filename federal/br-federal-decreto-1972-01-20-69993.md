@@ -1,5 +1,3 @@
-###DEC-069993-0-000-20-01-1972@@@
-
 DECRETO Nº 69.993, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Instituição Mogiana de Assistência Social - I.M.A.S, com sede em Mogi das Cruzes, Estado de São Paulo.

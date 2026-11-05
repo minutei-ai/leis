@@ -1,5 +1,3 @@
-###DEC-070375-0-000-06-04-1972@@@
-
 Decreto nº 70.375, de 6 de abril de 1972.
 
 Dispõe sobre o Parque Nacional das Emas.

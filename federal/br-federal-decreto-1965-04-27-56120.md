@@ -1,5 +1,3 @@
-###DEC-056120-0-000-27-04-1965@@@
-
 Decreto nº 56.120, de 27 de abril de 1965.
 
 Altera dispositivos do Decreto número 52.464, de 12 de setembro de 1963.

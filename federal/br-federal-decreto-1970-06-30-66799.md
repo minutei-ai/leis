@@ -1,5 +1,3 @@
-###DEC-066799-0-000-30-06-1970@@@
-
 Decreto nº 66.799 - de 30 de junho de 1970
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada a passagem da linha de transmissão que se estenderá desde a Usina de Cachoeira Dourada até a cidade de Goiânia, no Estado de Goiás.

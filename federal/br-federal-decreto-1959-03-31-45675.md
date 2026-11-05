@@ -1,5 +1,3 @@
-###DEC-045675-0-000-31-03-1959@@@
-
 Decreto nº 45.675, de 31 de março de 1959.
 
 Autoriza a cessão do terreno nacional interior que menciona, situado a montante da Estrada do Sumaré, nos altos da Serra da Carioca, no Distrito Federal.

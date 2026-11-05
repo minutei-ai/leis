@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208370)<br>
-
 # DECRETO N° 67.860, DE 04 DE AGOSTO DE 2023
 
 ### _Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de São Paulo._

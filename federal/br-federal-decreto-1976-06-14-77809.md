@@ -1,5 +1,3 @@
-###DEC-077809-0-000-14-06-1976@@@
-
 DECRETO N.º 77.809, DE 14 DE JUNHO DE 1976
 
 Concede autorização à Texas A&M University para realizar, no mar territorial do Brasil, os serviços que especifica.

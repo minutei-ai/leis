@@ -1,7 +1,3 @@
-1
-
-###DEC-001299-0-000-31-10-1994@@@
-
 DECRETO Nº 1.299, DE 31 DE OUTUBRO DE 1994
 
 Fixa a lotação dos Adidos, Adjuntos e Auxiliares de Adidos Militares junto às representações diplomáticas no exterior, e dá outras providências.

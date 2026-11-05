@@ -1,5 +1,3 @@
-###DEC-060927-0-000-30-06-1967@@@
-
 decreto nº 60.927, de 30 de junho de 1967.
 
 Prorroga o prazo para realização dos trabalhos do Grupo Consultivo da Indústria Siderúrgica.

@@ -1,5 +1,3 @@
-###DEL-006164-0-000-31-12-1943@@@
-
 DECRETO-LEI N. 6.164 – DE 31 DE DEZEMBRO DE 1943
 
 Prorroga o período de reorganização do Instituto de Aposentadoria e Pensões da Estiva

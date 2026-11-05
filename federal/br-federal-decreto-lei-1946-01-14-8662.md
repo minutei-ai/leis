@@ -1,5 +1,3 @@
-###DEL-008662-0-000-14-01-1946@@@
-
 DECRETO-LEI  N. 8.662 – DE 14 DE JANEIRO DE 1946
 
 Altera, sem aumento de despesa, o orçamento do “Plano de Obras e Equipamentos”, para 1945, na parte relativa ao Ministério da Aeronáutica.

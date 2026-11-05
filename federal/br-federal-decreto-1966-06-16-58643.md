@@ -1,5 +1,3 @@
-###DEC-058643-0-000-16-06-1966@@@
-
 decreto nº 58.643, de 16 de junho de 1966.
 
 Autoriza a Cerâmica Vaz Ltda, a pesquisar dolomita no município de Rio das Flôres, Estado do Rio de Janeiro.

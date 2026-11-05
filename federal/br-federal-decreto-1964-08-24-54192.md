@@ -1,5 +1,3 @@
-###DEC-054192-0-000-24-08-1964@@@
-
 DECRETO Nº 54.192, DE 24 DE AGÔSTO DE 1964.
 
 Autoriza o cidadão brasileiro Israel Martins a pesquisar feldspato no Município de Campestre, Estado de Minas Gerais.

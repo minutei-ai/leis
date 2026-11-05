@@ -1,5 +1,3 @@
-###DEC-006948-0-000-25-08-2009@@@
-
 DECRETO Nº 6.948, DE 25 DE AGOSTO DE 2009.
 
 Institui o Comitê Gestor do Programa de Inclusão Digital - CGPID, e dá outras providências.

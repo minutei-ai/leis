@@ -1,5 +1,3 @@
-###DEC-072002-0-000-27-03-1973@@@
-
 DECRETO nº 72.002, de 27 de março de 1973.
 
 Concede a Mineração Lapa Vermelha Limitada o direito de lavrar calcário e calcita no Município de Pedro Leopoldo, Estado de Minas Gerais.
@@ -27,8 +25,6 @@ Brasília, 27 de março de 1973; 152º da Independência e 85º da República.
 Emílio G. Médici
 
 Antônio Dias Leite Júnior
-
-###DEC-072002-0-000-27-03-1973@@@RET01+++
 
 DECRETO Nº 72.002, DE 27 DE MARÇO DE 1973.
 

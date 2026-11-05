@@ -1,5 +1,3 @@
-###DEC-059019-0-000-08-08-1966@@@
-
 DECRETO Nº 59.019, DE 8 DE AGôSTO DE 1966.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$280.000.000, para o fim que especifica.

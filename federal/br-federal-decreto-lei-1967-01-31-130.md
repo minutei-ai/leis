@@ -1,5 +1,3 @@
-###DEL-000130-0-000-31-01-1967@@@
-
 DECRETO-LEI 130, DE 31 DE JANEIRO DE 1967
 
 Altera o parágrafo único do art. 1º do Decreto-lei nº 38, de 18 de novembro de 1966.

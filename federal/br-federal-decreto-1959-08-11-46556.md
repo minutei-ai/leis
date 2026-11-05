@@ -1,5 +1,3 @@
-###DEC-046556-0-000-11-08-1959@@@
-
 DECRETO Nº 46.556, DE 11 DE AGÔSTO DE 1959.
 
 Abre, pelo Ministério da Agricultura, o crédito especial de Cr$5.000.000,00, para auxiliar a realização da Festa da Uva e da Exposição Agro-Industrial, em Caxias do Sul, Estado do Rio Grande do Sul.

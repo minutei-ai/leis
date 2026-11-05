@@ -1,5 +1,3 @@
-###DEC-082173-0-000-24-08-1978@@@
-
 Decreto nº 82.173, de 24 de agosto de 1978.
 
 Cria a Comissão de Estudo da Lei de Remuneração dos Militares (CERLRM) a que se refere o artigo 15, item II, do Decreto nº 79.031, de 23 de dezembro de 1976, e dá outras providências.

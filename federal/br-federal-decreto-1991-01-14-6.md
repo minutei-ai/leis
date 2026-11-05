@@ -1,7 +1,3 @@
-1
-
-###DEC-000006-0-000-14-01-1991@@@
-
 DECRETO Nº 6, DE 14 DE JANEIRO DE 1991.
 
 Fixa, no Ministério da Marinha, os mínimos de vagas para promoção obrigatória, referentes ao ano-base de 1990, nos diversos Corpos e Quadros de Oficiais da Marinha.

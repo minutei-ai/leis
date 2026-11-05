@@ -1,5 +1,3 @@
-###DEC-092458-0-000-12-03-1986@@@
-
 DECRETO Nº 92.458, DE 12 DE MARÇO DE 1986
 
 Altera o Regulamento de Movimentação para Oficiais e Praças do Exército (R-50), aprovado pelo Decreto nº 83.079, de 23 de janeiro de 1979.

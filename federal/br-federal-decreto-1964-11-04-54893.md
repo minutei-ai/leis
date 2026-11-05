@@ -1,5 +1,3 @@
-###DEC-054893-0-000-04-11-1964@@@
-
 DECRETO Nº 54 893, de 4 de novembro de 1964.
 
 Renova o Decreto nº 699, de 15 de março de 1962.

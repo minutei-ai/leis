@@ -1,5 +1,3 @@
-###DEC-085005-0-000-06-08-1980@@@
-
 DECRETO Nº 85.005, DE 06 DE AGOSTO DE 1980
 
 Regulamenta a Lei nº 6.684, de 03 de setembro de 1979, que dispõe sobre as profissões de Biólogo e Biomédico e cria o Conselho Federal e os Conselhos Regionais de Biologia e Biomedicina, e dá outras providências.

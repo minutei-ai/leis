@@ -1,5 +1,3 @@
-###DEC-071189-0-000-03-10-1972@@@
-
 DECRETO Nº 71.189 - DE 3 DE OUTUBRO DE 1972.
 
 Dispõe sobre a descentralização do processamento e pagamento das pensões militares e pagamento dos inativos civis e militares.

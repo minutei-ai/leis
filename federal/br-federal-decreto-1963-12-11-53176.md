@@ -1,5 +1,3 @@
-###DEC-053176-0-000-11-12-1963@@@
-
 DECRETO Nº 53.176, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza Serrana S.A., de Mineração a pesquisar apatita no município de Jacupiranga, Estado de São Paulo.

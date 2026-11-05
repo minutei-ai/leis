@@ -1,5 +1,3 @@
-###DEC-058302-0-000-02-05-1966@@@
-
 DECRETO nº 58.302, DE 2 DE MAIO DE 1966.
 
 Reorganiza o “Corpo de Fuzileiros Navais” e dá outras providências.

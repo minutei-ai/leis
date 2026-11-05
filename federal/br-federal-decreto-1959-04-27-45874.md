@@ -1,5 +1,3 @@
-###DEC-045874-0-000-27-04-1959@@@
-
 DECRETO N. 45.874 – DE 27 DE ABRIL DE 1959
 
 Abre ao Tribunal de Contas o crédito especial de Cr$ 23.600.702,20 para os que fins especifica.

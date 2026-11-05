@@ -1,5 +1,3 @@
-###DEC-095060-0-000-19-10-1987@@@
-
 DECRETO Nº 95.060, DE 19 DE OUTUBRO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia Hidroelétrica do São Francisco (CHESF), áreas de terras situadas no Estado da Bahia, destinadas a projeto Especial de Irrigação e necessárias ao reassentamento de parte da população a ser atingida pelo Reservatório de Itaparica, no rio São Francisco, nos Estados de Pernambuco e da Bahia.

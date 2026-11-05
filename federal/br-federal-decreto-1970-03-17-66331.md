@@ -1,5 +1,3 @@
-###DEC-066331-0-000-17-03-1970@@@
-
 DECRETO Nº 66.331 - DE 17 DE MARÇO DE 1970
 
 Altera a redação do artigo 2º do Decreto nº 58.984, de 3 de agôsto de 1966.

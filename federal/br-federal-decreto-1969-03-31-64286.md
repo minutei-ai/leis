@@ -1,5 +1,3 @@
-###DEC-064286-0-000-31-03-1969@@@
-
 DECRETO Nº 64.286, DE 31 de março DE 1969.
 
 Concede reconhecimento de Faculdade.

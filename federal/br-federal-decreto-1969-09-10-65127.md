@@ -1,5 +1,3 @@
-###DEC-065127-0-000-10-09-1969@@@
-
 DECRETO Nº 65.127 - DE 10 DE SETEMBRO DE 1969.
 
 Declara caduco o Decreto nº 21.437, de 16 de julho de 1946.

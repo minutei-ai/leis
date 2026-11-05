@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183827)
-
 # DECRETO Nº 62.904, DE 30 DE OUTUBRO DE 2017
 
 ### _Transfere da administração da Secretaria da Saúde para a da Secretaria da Segurança Pública, parte do imóvel que específica, no Município de Itu_
@@ -18,12 +16,20 @@ Palácio dos Bandeirantes, 30 de outubro de 2017
 
 GERALDO ALCKMIN
 
-David Everson Uip<br>
-Secretário da Saúde<br>
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+David Everson Uip
+
+Secretário da Saúde
+
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de outubro de 2017.

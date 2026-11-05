@@ -1,5 +1,3 @@
-###DEC-094835-0-000-03-09-1987@@@
-
 DECRETO Nº 94.835, DE 3 DE SETEMBRO DE 1987.
 
 Outorga concessão à RÁDIO CIDADE ESPERANÇA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Esperança, Estado da Paraíba.

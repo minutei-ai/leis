@@ -1,5 +1,3 @@
-###DEL-008324-0-000-08-12-1945@@@
-
 DECRETO-LEI N. 8.324 – DE 8 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a organização do Ministério das Relações Éxteriores e dá outras providências.

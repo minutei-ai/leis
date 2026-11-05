@@ -1,5 +1,3 @@
-###DEC-066079-0-000-16-01-1970@@@
-
 Decreto nº 66.079 - de 16 de janeiro de 1970
 
 Cria Grupo de Trabalho para estudar e propor medidas ou normas legais e regulamentares dos diferentes aspetos da Indústria de construção civil.

@@ -1,5 +1,3 @@
-###DEC-052708-0-000-21-10-1963@@@
-
 DECRETO Nº 52.708, DE 21 DE OUTUBRO DE 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Hidro Elétrica Felisburgo S.A.

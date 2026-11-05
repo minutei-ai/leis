@@ -1,5 +1,3 @@
-###DEC-083857-0-000-15-08-1979@@@
-
 Decreto nº 83.857, de 15 de agosto de 1979.
 
 Delega competência ao Ministro da Educação e Cultura para conceder reconhecimento de cursos e praticar outros atos.

@@ -1,5 +1,3 @@
-###DEC-081852-0-000-27-06-1978@@@
-
 Decreto nº 81.852, de 27 de junho de 1978.
 
 Concede à Manganês de Goiás S.A. o direito de lavrar minério de manganês no Município de Niquelândia, Estado de Goiás.

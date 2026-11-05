@@ -1,5 +1,3 @@
-###DEC-072581-0-000-08-08-1973@@@
-
 DECRETO Nº 72.581, DE 8 DE AGOSTO DE 1973.
 
 Altera os prazos referidos no artigo 3º e respectivo parágrafo único, do Decreto nº 71.882, de 2 de março de 1973, que modifica a estrutura da Universidade Federal do Ceará.

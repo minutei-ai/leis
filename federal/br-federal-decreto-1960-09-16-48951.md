@@ -1,5 +1,3 @@
-###DEC-048951-0-000-16-09-1960@@@
-
 Decreto nº 48.951, de 16 de setembro de 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 35.735, de 28-6-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Delfino”, no Município de Campo Formoso, no Estado da Bahia.
@@ -17,8 +15,6 @@ Brasília, 16 de setembro de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Ernani do Amaral Peixoto
-
-###DEC-048951-0-000-16-09-1960@@@RET01+++
 
 DECRETO Nº 48.951, DE 16 DE SETEMBRO DE 1960.
 

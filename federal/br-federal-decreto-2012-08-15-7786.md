@@ -1,5 +1,3 @@
-###DEC-007786-0-000-15-08-2012-PUB-01@@@
-
 DECRETO N°\- 7.786, DE 15 DE AGOSTO DE 2012
 
 Dispõe sobre a execução no território nacional da Resolução 2045 (2012), do Conselho de Segurança das Nações Unidas, que, entre outras disposições, altera o regime de sanções aplicadas à Costa do Marfim.

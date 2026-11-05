@@ -1,5 +1,3 @@
-###DEC-006055-0-000-06-03-2007@@@
-
 DECRETO Nº 6.055, DE 6 DE MARÇO DE 2007.
 
 Dispõe sobre a criação da Delegação Permanente do Brasil junto à Organização de Aviação Civil Internacional (OACI), e dá outras providências.
@@ -21,5 +19,3 @@ Brasília, 6 de março de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 7.3.2007.

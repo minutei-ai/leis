@@ -1,5 +1,3 @@
-###DEC-085507-0-000-15-12-1980@@@
-
 Decreto nº 85.507, de 15 de dezembro de 1980.
 
 Autoriza empresas de telecomunicações controladas pela TELEBRÁS a promoverem aumento de capital.

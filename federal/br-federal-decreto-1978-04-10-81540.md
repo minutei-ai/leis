@@ -1,5 +1,3 @@
-###DEC-081540-0-000-10-04-1978@@@
-
 Decreto nº 81.540, de 10 de abril de 1978.
 
 Concede à Dianorte - Mineração Guagiru Ltda. o direito de lavrar diatomita no Município de Ceará-Mirim, Estado do Rio Grande do Norte.

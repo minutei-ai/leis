@@ -1,5 +1,3 @@
-###DEC-070747-0-000-22-06-1972@@@
-
 DECRETO Nº 70.747, DE 22 DE JUNHO DE 1972.
 
 Outorga a Centrais Elétricas do Sul do Brasil S.A. concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio Iguaçu, compreendendo o salto Santiago, no Estado do Paraná.

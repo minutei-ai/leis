@@ -1,5 +1,3 @@
-###DEL-000306-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 306, DE 28 DE FEVEREIRO DE 1967
 
 Introduz um § 4º no art. 21 do Decreto-lei nº 67, de 21 de novembro de 1966.

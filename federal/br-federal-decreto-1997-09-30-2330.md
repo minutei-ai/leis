@@ -1,5 +1,3 @@
-###DEC-002330-0-000-30-09-1997@@@
-
 DECRETO Nº 2.330, DE 30 DE SETEMBRO DE 1997
 
 Cria condições para a realização no Brasil de 32ª Assembléia Geral do Centro Interamericano de Administrações Tributárias - CIAT.

@@ -1,5 +1,3 @@
-###DEL-008543-0-000-03-01-1946@@@
-
 DECRETO-LEI N. 8.543 – DE 3 DE JANEIRO DE 1946
 
 Dispõe sôbre o processo administrativo previsto no Decreto-lei nº 8.356, de 12 de dezembro de 1945, e dá outras providências.

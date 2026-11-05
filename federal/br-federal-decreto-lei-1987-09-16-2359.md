@@ -1,7 +1,3 @@
-1
-
-###DEL-002359-0-000-16-09-1987@@@
-
 # DECRETO-LEI Nº 2.359, DE 16 DE SETEMBRO DE 1987
 
 Estende benefícios fiscais ao empreendimento integrante do Plano de Recuperação do Setor de Energia Elétrica.

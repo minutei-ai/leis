@@ -1,5 +1,3 @@
-###DEC-096515-0-000-15-08-1988@@@
-
 DECRETO N° 96.515, DE 15 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso de Administração do Instituto Municipal de Ensino Superior de Bebedouro.

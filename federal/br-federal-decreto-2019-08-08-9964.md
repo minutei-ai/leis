@@ -32,4 +32,4 @@ Brasília, 8 de agosto de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Bento Albuquerque<br>
+Bento Albuquerque

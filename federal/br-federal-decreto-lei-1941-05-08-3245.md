@@ -1,5 +1,3 @@
-###DEL-003245-0-000-08-05-1941@@@
-
 DECRETO-LEI N. 3.245 – DE 8 DE MAIO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 600:000$0, para pagamento de despesas realizadas com a construção da ponte sobre o rio Taquarí

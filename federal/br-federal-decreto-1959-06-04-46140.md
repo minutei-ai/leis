@@ -1,5 +1,3 @@
-###DEC-046140-0-000-04-06-1959@@@
-
 Decreto nº 46.140, de 4 de junho de 1959.
 
 Declara de utilidade pública a Maternidade de Campinas, com sede em Campinas, Estado de São Paulo.

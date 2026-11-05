@@ -1,36 +1,34 @@
-###DEC-021826-0-000-05-09-1946@@@
+**DECRETO Nº 21.826, DE 5 DE SETEMBRO DE 1946.**
 
-<strong>DECRETO Nº 21.826, DE 5 DE SETEMBRO DE 1946.</strong>
+***Aprova o Regimento do Departamento de Administração do Ministério da justiça e negócios interiores.***
 
-<em><strong>Aprova o Regimento do Departamento de Administração do Ministério da justiça e negócios interiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
+**Decreta**
 
-<strong>Decreta</strong>
+**Art**.1º Fica aprovado o Regimento do Departamento de Administração do Ministério da Justiça e Negócios Interiores, que assinado pelo respectivo Ministério de Estado, com êste baixa.
 
-<strong>Art</strong>.1º Fica aprovado o Regimento do Departamento de Administração do Ministério da Justiça e Negócios Interiores, que assinado pelo respectivo Ministério de Estado, com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 5 de setembro de 1946,125º da independência e 58º da Republica.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos Coimbra da Luz
 
-<strong>Regimento do Departamento de Administração (D.A) do ministério da Justiça e Negócio Interiores.</strong>
+**Regimento do Departamento de Administração (D.A) do ministério da Justiça e Negócio Interiores.**
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
-<strong>Art</strong>. 1º O Departamento de Administração do Ministério da Justiça e Negócios Interiores, diretamente subordinada ao Ministro de Estado é o órgão central de administração geral do Ministério, e tem por finalidade promover ou superintender a execução das atividades relativas a pessoal, material, orçamentaria, organização, obras e comunicações.
+**Art**. 1º O Departamento de Administração do Ministério da Justiça e Negócios Interiores, diretamente subordinada ao Ministro de Estado é o órgão central de administração geral do Ministério, e tem por finalidade promover ou superintender a execução das atividades relativas a pessoal, material, orçamentaria, organização, obras e comunicações.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O D.A. é constituído dos seguintes órgãos:
+**Art**. 2º O D.A. é constituído dos seguintes órgãos:
 
 Divisão do Pessoal (D. P.).
 
@@ -48,27 +46,27 @@ Portaria.
 
 Garage.
 
-<strong>Art</strong>.3º Os Diretores das divisões e o chefe do Serviço de Comunicação serão nomeados por indicações do Ministério de Estado, mediante proposta do Diretor- Geral.
+**Art**.3º Os Diretores das divisões e o chefe do Serviço de Comunicação serão nomeados por indicações do Ministério de Estado, mediante proposta do Diretor- Geral.
 
-<strong>Art</strong>. 4º As divisões serão integradas por seção, que terão chefes designados pelo Diretor- Geral, mediante indicação, em lista tríplice, dos respectivos diretores de divisão.
+**Art**. 4º As divisões serão integradas por seção, que terão chefes designados pelo Diretor- Geral, mediante indicação, em lista tríplice, dos respectivos diretores de divisão.
 
-<strong>Art</strong>. 5º As seções integrantes do S. C. terão chefes designados pelo Diretor- Geral, por proposta, em lista tríplice, do Chefe do S. C.
+**Art**. 5º As seções integrantes do S. C. terão chefes designados pelo Diretor- Geral, por proposta, em lista tríplice, do Chefe do S. C.
 
-<strong>Art</strong>. 6º O Diretor- Geral Terá um secretario e um auxiliar, escolhidos entre os funcionários públicos.
+**Art**. 6º O Diretor- Geral Terá um secretario e um auxiliar, escolhidos entre os funcionários públicos.
 
-<strong>Art</strong>. 7º Cada Diretor de Divisão terá um secretario, escolhidos entre os funcionários públicos.
+**Art**. 7º Cada Diretor de Divisão terá um secretario, escolhidos entre os funcionários públicos.
 
-<strong>Art</strong>. 8º Os órgãos que integram o D. A. funcionarão, perfeitamente coordenados, em regime de mútua colaboração sob a orientação do Diretor- Geral.
+**Art**. 8º Os órgãos que integram o D. A. funcionarão, perfeitamente coordenados, em regime de mútua colaboração sob a orientação do Diretor- Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>DA D. P.</em>
+*DA D. P.*
 
-<strong>Art</strong>. 9º A. D. P. Compete:
+**Art**. 9º A. D. P. Compete:
 
 I - estudar, permanentemente, a situação dos órgãos civis do ministério, para que sejam determinados a espécie e o número de cargos e funções necessários ao desempenho dos trabalhos, bem como o pagamento que lhes deva ser atribuído:
 
@@ -100,7 +98,7 @@ XIV - administrar e escriturar os créditos orçamentários e adicionais destina
 
 XV - estudar as proposta orçamentárias parciais, na parte relativa a pessoal.
 
-<strong>Art</strong>. 10 A. D. P. compreende:
+**Art**. 10 A. D. P. compreende:
 
 Seção de Classificação e Lotação (S. L. P.).
 
@@ -116,7 +114,7 @@ Seção de Assistência Social (S. S. P.)
 
 Seção do Pessoal Militar (S. P. P.).
 
-<strong>Art</strong>. 11 Compete à S. L P.:
+**Art**. 11 Compete à S. L P.:
 
 I - Colaborar com o D. A. S. P., da forma que êste solicitar, na elaboração de planos de :
 
@@ -136,9 +134,9 @@ VI - organizar e alterar T. N. M. para os órgãos dos Ministério;
 
 VII - opinar sôbre a natureza e espécie das funções a serem exercidas por extranumerário- contratador quando as proposta de admissão, de renovação de contrato, ou alteração de cláusula contratual relativa a salário ou função.
 
-<strong>Art</strong>. 12 Compete à S. M. P. executar o expediente referente a: nomeação, admissão, readmissão, reversão, aproveitamento, designação para função gratificada, posse, entrada em exercício, promoção, melhoria de salário , claros na lotação, remoção, substituição, exoneração, dispensa, disponibilidade, aposentadoria, transferência, requisição, permuta e readaptação.
+**Art**. 12 Compete à S. M. P. executar o expediente referente a: nomeação, admissão, readmissão, reversão, aproveitamento, designação para função gratificada, posse, entrada em exercício, promoção, melhoria de salário , claros na lotação, remoção, substituição, exoneração, dispensa, disponibilidade, aposentadoria, transferência, requisição, permuta e readaptação.
 
-<strong>Art</strong>. 13 Compete à S. D. P.:
+**Art**. 13 Compete à S. D. P.:
 
 I - aplicar ou, conforme o caso, orientar e  fiscalizar a aplicação, no Ministério, da legislação de pessoal referente a direitos, vantagens, deveres, responsabilidade e ação disciplinar;
 
@@ -152,7 +150,7 @@ V - dar execução, no que lhe competir, às sentenças passadas em julgados, re
 
 VI - coordenar os elementos a serem fornecidos aos órgãos do Poder Judiciário e da policia civil, para efeito de ação criminal ou cível contra servidores do Ministério convencidos de delitos ou ação danosa contra bens do Estado;
 
-<strong>Art</strong>.14 Compete à S. C. P.:
+**Art**.14 Compete à S. C. P.:
 
 I - organizar e manter atualizados, com os elementos que colher e os fornecidos pelas demais seções, conforme o caso, registro referentes a:
 
@@ -180,7 +178,7 @@ VI - emitir a "caderneta do funcionário", e
 
 VII - organizar e publicar, anualmente, o almanaque do pessoal.
 
-<strong>Art</strong>.15 À. S F. P. cabe:
+**Art**.15 À. S F. P. cabe:
 
 I - organizar e manter em dia a ficha financeira individual;
 
@@ -192,7 +190,7 @@ IV - escriturar os créditos orçamentários e adicionais destinados a despesas 
 
 V - remeter, nos prazos determinados, à Contadoria Secional junto ao D. A. do Ministério, os elementos necessários à centralização contábil a cargo dessa Secional, e que forem determinados pela Contadoria Geral da República, enviando cópia dêsse documentos à D. O. do Ministério
 
-<strong>Art</strong>. 16 A.S. S. P. cabe:
+**Art**. 16 A.S. S. P. cabe:
 
 I - realizar exames de sanidade e capacidade física dos servidores do Ministério, para efeito de concessão de licenças, Contrôle de falta ao serviço posse e exercício;
 
@@ -222,7 +220,7 @@ XIII - estudar e propor a organizações de cursos de adaptação e aperfeiçoam
 
 XIV - proceder a estudos sôbre regulamentos relativos às Caixa Beneficente da Polícia Militar e do Corpo de Bombeiros do Distrito Federal, pronunciando- se sôbre a respectiva expedição
 
-<strong>Art</strong>. 17 A. S. P. P. cabe:
+**Art**. 17 A. S. P. P. cabe:
 
 I - providenciar sôbre as nomeação de instrutores, ajudantes de ordem, médicos e outras que não sejam privativas do comando das respectivas corporações;
 
@@ -246,11 +244,11 @@ SEÇÃO II
 
 Da D. M.
 
-<strong>Art</strong>. 18 A D.M. compete, diretamente ou através de outros órgãos de Material, a execução, orientação, coordenação e caráter técnico, administrativo, orçamentário e de Contrôle relativas a material em todos os setores do Ministério, qualquer que seja a natureza e forma de aplicação dos créditos.
+**Art**. 18 A D.M. compete, diretamente ou através de outros órgãos de Material, a execução, orientação, coordenação e caráter técnico, administrativo, orçamentário e de Contrôle relativas a material em todos os setores do Ministério, qualquer que seja a natureza e forma de aplicação dos créditos.
 
-<strong>Art</strong>. 19 Quando a ação da D. M. se realizar em ponto do território nacional em que a mesma não disponha de órgão adequado, poderá incumbir outros órgão do serviço público ou servidores federais da execução das medidas que julgar convenientes.
+**Art**. 19 Quando a ação da D. M. se realizar em ponto do território nacional em que a mesma não disponha de órgão adequado, poderá incumbir outros órgão do serviço público ou servidores federais da execução das medidas que julgar convenientes.
 
-<strong>Art20</strong>. A D. M. compreende:
+**Art20**. A D. M. compreende:
 
 Seção Administrativa (S. A. M.).
 
@@ -260,9 +258,9 @@ Seção de Abastecimento (S. Ab. M.)
 
 Seção de Aplicação e Recuperação (S. Ap. M.).
 
-<strong>Art</strong>. 21 A D. M. manterá um ou mais almoxarifados centrais destinados a abastecer as repartições ou quaisquer outros órgãos do Ministério.
+**Art**. 21 A D. M. manterá um ou mais almoxarifados centrais destinados a abastecer as repartições ou quaisquer outros órgãos do Ministério.
 
-<strong>Art</strong>.22 A S.A.M. compete:
+**Art**.22 A S.A.M. compete:
 
 I- realizar concorrências e coletas de preço para aquisição ou alienação de material e para execução de serviço que competir á D. M. de acôrdo com o que lhe fôr atribuído;
 
@@ -278,7 +276,7 @@ VI- examinar o aspectos legal da comprovação dos adiantamentos concedidos á c
 
 VII- propor ao Diretor a aplicação de penalidades aos fornecedores que hajam incorrido em falta.
 
-<strong>Art</strong>. 23 A S. C. M. compete:
+**Art**. 23 A S. C. M. compete:
 
 I- contabilizar os créditos orçamentários e adicionais para a aquisição de material e prestação de serviços que competirem a D. M. de acôrdo com as instruções da Contadoria Geral da República;
 
@@ -300,7 +298,7 @@ IX - contabilizar os bens móveis semoventes do Ministério, administrados pelo 
 
 X - examinar, do ponto de vista contábil, os processos de comprovação de um adiantamento a serem submetidos a julgamento do Tribunal de Contas ou do Departamento Federal de Compras.
 
-<strong>Art</strong>. 24 À S Ab. M compete :
+**Art**. 24 À S Ab. M compete :
 
 I - organizar e encaminhar aos órgãos abastecedoras requisições de materiais necessário aos serviços do Ministério, ou providenciar quantos aquisições de matéria que competirem
 
@@ -332,7 +330,7 @@ XIV - dirigir os trabalhos dos Almoxarifados Centrais pertencentes à D.M.; e
 
 XV - examinar o processo  de comprovação de adiantamento, do  ponto de vista técnico –administrativo, indicando o Diretor as irregularidade que observar.
 
-<strong>Art</strong>. 25. À S. Ap. M. compete:
+**Art**. 25. À S. Ap. M. compete:
 
 redistribuir o material em estoque nos diversos órgãos do Ministério, depois devidamente autorizada pelo Diretor;
 
@@ -360,11 +358,11 @@ Propor normaws para aplicação e consumo de material;
 
 Registrar o movimento dos almoxarifados e o consumo dos materiais em todo e Ministério, por meio de boletins preenchidos pela repartições.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da D. O</em>
+*Da D. O*
 
-<strong>Art</strong>. 26. À D.O.compete:
+**Art**. 26. À D.O.compete:
 
 I - remeter ao órgão encarregado da elaboração do Orçamento Geral da União, anualmente e no prazo por Ter fixado, dados referentes à previsão anual da provável arrecadação do orçamento em execução e do orçamento para e exercícisos imediato;
 
@@ -428,7 +426,7 @@ Propor as medidas necessárias à melhor coordenação da ação administrativa 
 
 Orientar a assistir tecnicamente as repartição, na implantação de reformas.
 
-<strong>Art</strong>. 27- A.D.º compreende.
+**Art**. 27- A.D.º compreende.
 
 Seção de Previsão Orçamentária (S.P.O);
 
@@ -436,7 +434,7 @@ Seção de Previsão Orçamentaria(S C O)
 
 Seção de Organização (S .O .O)
 
-<strong>Art</strong>. 28 – Compete à S P O .:
+**Art**. 28 – Compete à S P O .:
 
 I - coligir dados relativo à receita arrecada e a cada;
 
@@ -478,7 +476,7 @@ XIX - providenciar a remessa ao Tribunal de Contas ou ao Ministério da Fazenda,
 
 XX - apreciar as solicitações de créditos adicionais e alterações do orçamento formuladas pelas repartições do Ministério e preparar o expediente para abertura e registro dos aludidos créditos, bem como o referente às alterações orçamentárias.
 
-<strong>Art</strong>. 29. Compete à S.C.O.:
+**Art**. 29. Compete à S.C.O.:
 
 I - controlar a execução do orçamento do Ministério, na parte referente à despesa, por meio de seus registros e dos balancetes e demais documentos enviados pela D.M., pela D.P. e outros órgãos ministeriais que movimentam créditos;
 
@@ -532,7 +530,7 @@ XXV - preparar, em colaboração com a Divisão de Obras, os elementos para a co
 
 XXVI - promover o encaminhamento ao Órgão competente dos processos de dívidas relacionadas.
 
-<strong>Art</strong>. 30. Compete à S.O.O.:
+**Art**. 30. Compete à S.O.O.:
 
 I - realizar estudos e pesquisas sôbre as condições e processos de trabalho no Ministério;
 
@@ -560,19 +558,19 @@ XII - colaborar com a Divisão de Orçamento do D.A.S.P., no planejamento de est
 
 XIII - manter intercâmbio com órgãos que desempenham funções da mesma natureza, sôbre os resultados de seus estudos.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da D.Ob.</em>
+*Da D.Ob.*
 
-<strong>Art</strong>. 31. A D.Ob., compete, com relação aos edifícios, públicos sob a jurisdição do Ministério, promover, executar e fiscalizar as medidas de ordem técnica, administrativa e econômica concernente a obras e equipamentos.
+**Art**. 31. A D.Ob., compete, com relação aos edifícios, públicos sob a jurisdição do Ministério, promover, executar e fiscalizar as medidas de ordem técnica, administrativa e econômica concernente a obras e equipamentos.
 
 Parágrafo único. Para os efeitos dêste artigo, consideram-se edifícios públicos sob a jurisdição do Ministério, aqueles onde estiverem instalados quaisquer dos seus órgãos, embora de propriedade particular.
 
-<strong>Art</strong>. 32. A D.Ob. compreende:
+**Art**. 32. A D.Ob. compreende:
 
 Seção administrativa (S.A.Ob.) e Seção Técnica (S.T.Ob.).
 
-<strong>Art</strong>. 33. A S.A.Ob. compete:
+**Art**. 33. A S.A.Ob. compete:
 
 I - proceder aos trabalhos de expediente relativos às concorrências e tomadas de preços para a execução de obras, intalação de equipamentos ou reparos correspondentes;
 
@@ -600,7 +598,7 @@ XII - reunir e enviar à D.O., no que diz respeito a obras, equipamentos e desap
 
 XIII - preparar as tabelas de distribuição e redistribuição de créditos do "Plano de Obras e Equipamentos" encaminhando-as à D.O.
 
-<strong>Art</strong>. 34. À S.T.Ob., compete:
+**Art**. 34. À S.T.Ob., compete:
 
 I - projetar, especificar e orçar, de acôrdo com as normas fixadas pelo D.A.S.P., as obras de construção ou de reforma relativas aos edifícios públicos sob a jurisdição do Ministério, bem como a instalação ou reforma dos respectivos equipamentos;
 
@@ -612,7 +610,7 @@ IV - providenciar a execução de obras e serviços de reparo e conservação, n
 
 V - instalar os equipamentos de tais edifícios ou fiscalizar a sua instalação, bem como providenciar sôbre os serviços de reparo e conservação necessários aos mesmos;
 
-VI - controlar, "<em>a</em> <em>posteriori</em>", a execução de ligeiros reparos em edifícios públicos sob a jurisdição do Ministério, ou no respectivo equipamento, quando efetuados sob a orientação de dirigentes de repartições ou administradores a que forem delegadas atribuições para tal;
+VI - controlar, "*aposteriori*", a execução de ligeiros reparos em edifícios públicos sob a jurisdição do Ministério, ou no respectivo equipamento, quando efetuados sob a orientação de dirigentes de repartições ou administradores a que forem delegadas atribuições para tal;
 
 VII - fornecer à S.A.Ob., os elementos técnicos necessários à preparação de concorrências públicas ou administrativas;
 
@@ -652,11 +650,11 @@ XXIV - organizar anualmente e apresentar ao Diretor, de acôrdo com as instruç�
 
 XXV - fornecer à S.A.Ob., no que se relacionar com obras e equipamentos, os dados necessários à preparação da proposta orçamentária e à previsão de créditos adicionais.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Do S.C.</em>
+*Do S.C.*
 
-<strong>Art</strong>. 35. Ao S.C. compete:
+**Art**. 35. Ao S.C. compete:
 
 I - receber, registrar, distribuir, expedir e arquivar a correspondência das repartições localizadas no edifício-sede do Ministério;
 
@@ -664,7 +662,7 @@ II - atender ao público em seus pedidos de informações, bem como orientá-lo 
 
 III - superintender os serviços telefônicos do edifício-sede.
 
-<strong>Art</strong>. 36. O S.C. compreende:
+**Art**. 36. O S.C. compreende:
 
 Seção de recebimento e Expedição (S.R.E);
 
@@ -672,7 +670,7 @@ Seção de Arquivamento (S.A.); e
 
 Seção de Orientação e Reclamações (S.O.R.).
 
-<strong>Art</strong>. 37. A S.R.E. compete:
+**Art**. 37. A S.R.E. compete:
 
 I - receber, registrar e distribuir a correspondência, controlando o respectivo andamento;
 
@@ -684,9 +682,9 @@ IV - expedir a correpondência, preparando os respectivos recibos ou as relaçõ
 
 V - colecionar os recibos e as relações da correspondência entregue pelo Departamento dos Correios e Telégrafos; e
 
-VI - promover a publicação, no <em>Diário</em> <em>Oficial</em>, dos despachos e decisões.
+VI - promover a publicação, no *DiárioOficial*, dos despachos e decisões.
 
-<strong>Art</strong>. 38. A S.A. compete:
+**Art**. 38. A S.A. compete:
 
 I - guardar e conservar os processos, livros e outros documentos;
 
@@ -698,7 +696,7 @@ IV - promover a incineração periódica de documentos julgados sem valor, media
 
 V - promover o recolhimento, ao Arquivo Nacional, dos processos e demais documentos arquivados há mais de dez anos.
 
-<strong>Art</strong>. 39. A S.O.R. compete:
+**Art**. 39. A S.O.R. compete:
 
 I - orientar o público sôbre todos os assuntos peculiares ao Ministério, habilitando-o a objetivar suas pretensões;
 
@@ -712,21 +710,21 @@ V - articular-se com os demais órgãos do Ministério no que disser respeito a 
 
 VI - ter sob sua supervisão os serviços telefônicos do edifício-sede do Ministério, velando pelo seu perfeito funcionamento.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Da Tesouraria</em>
+*Da Tesouraria*
 
-<strong>Art</strong>. 40. A Tesouraria é o órgão incumbido, no Ministério da arrecadação, guarda, entrega, pagamento ou restituição de valores pertencentes à União ou a ela caucionados, bem como dos depósitos efetuados, e reger-se-á pelo Regimento-padrão aprovado pelo Decreto nº 8.740, de 11 de fevereiro de 1942.
+**Art**. 40. A Tesouraria é o órgão incumbido, no Ministério da arrecadação, guarda, entrega, pagamento ou restituição de valores pertencentes à União ou a ela caucionados, bem como dos depósitos efetuados, e reger-se-á pelo Regimento-padrão aprovado pelo Decreto nº 8.740, de 11 de fevereiro de 1942.
 
-<strong>Art</strong>. 41. Para atender ao pagamento de despesas no interior do país, poderão ser destacados Ajudantes de Tesoureiro, os quais prestarão contas ao Tesoureiro, até o último dia de cada mês, dos suprimentos que lhes forem feitos.
+**Art**. 41. Para atender ao pagamento de despesas no interior do país, poderão ser destacados Ajudantes de Tesoureiro, os quais prestarão contas ao Tesoureiro, até o último dia de cada mês, dos suprimentos que lhes forem feitos.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Da Portaria</em>
+*Da Portaria*
 
-<strong>Art</strong>. 42. A Portaria tem a seu cargo o asseio e vigilância do Edifício - sede do Ministério, com todos os seus pertencentes, e a execução e direção do serviço de elevadores e dos demais que lhe são pertinentes.
+**Art**. 42. A Portaria tem a seu cargo o asseio e vigilância do Edifício - sede do Ministério, com todos os seus pertencentes, e a execução e direção do serviço de elevadores e dos demais que lhe são pertinentes.
 
-<strong>Art</strong>. 43. À Portaria compete:
+**Art**. 43. À Portaria compete:
 
 I - abrir e fechar as portas do edifício, de acôrdo com as ordens recebidas;
 
@@ -750,13 +748,13 @@ X - manter um pequeno depósito, de material indispensável aos seus serviços;
 
 XI - comunicar ao Diretor-Geral quaisquer irregularidades observadas em seu serviço.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Da Garage</em>
+*Da Garage*
 
-<strong>Art</strong>. 44. A Garage tem a seu cargo a guarda, conservação, reparação e registro dos veículos do Ministério.
+**Art**. 44. A Garage tem a seu cargo a guarda, conservação, reparação e registro dos veículos do Ministério.
 
-<strong>Art</strong>. 45. A Garage compete:
+**Art**. 45. A Garage compete:
 
 I - registrar todos os veículos que pernoitem ou estacionem na Garage do D.A., bem assim, as entradas e saídas dos mesmos;
 
@@ -786,11 +784,11 @@ VIII - fornecer, aos órgãos competentes, os elementos necessários ao cálculo
 
 IX - atender, prontamente, às solicitações da S.R.E. do Serviço de Comunicações, relativas aos veículos destinados a transporte de correspondência.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 46. Ao Diretor-Geral incumbe:
+**Art**. 46. Ao Diretor-Geral incumbe:
 
 I - superintender, em articulação com o D.A.S.P e de acôrdo com a orientação do Ministro de Estado, as atividades de administração geral do Ministério;
 
@@ -810,13 +808,13 @@ c) alterar boletins de merecimento dos funcionários que não sejam diretamente 
 
 d) emitir parecer em processo relativo a transferência de funcionário, e encaminhá-lo ao Ministro de Estado ou ao D.A.S.P., conforme o caso, a fim de ser submetido a despacho do Presidente da República;
 
-e) encaminhar, com parecer, ao Ministro de Estado ou ao D.A.S.P., conforme o caso, a fim de ser submetida à decisão do Presidente da República, proposta de transferência <em>ex</em>\-<em>offício</em>, no interêsse da administração;
+e) encaminhar, com parecer, ao Ministro de Estado ou ao D.A.S.P., conforme o caso, a fim de ser submetida à decisão do Presidente da República, proposta de transferência *ex*\-*offício*, no interêsse da administração;
 
 f) apreciar e, caso concorde, encaminhar ao órgão de pessoal do Ministério indicado, com as devidas informações, pedido de transferência para cargo isolado ou de carreira de outro Ministério;
 
-g) remeter ao órgão de pessoal do Ministério que deverá ceder o funcionário, proposta de transferência, <em>ex</em>\-<em>offício</em>, no interêsse da administração;
+g) remeter ao órgão de pessoal do Ministério que deverá ceder o funcionário, proposta de transferência, *ex*\-*offício*, no interêsse da administração;
 
-h) sugerir, no interêsse do serviço, ao Departamento de Administração de outro Ministério ou, em sua falta, ao órgão que exerça funções idênticas, a tranferência, <em>ex</em>\-<em>offício</em>, de funcionários cujas habilitações e pendores vocacionais possam torná-los mais úteis às atividades do outro Ministério;
+h) sugerir, no interêsse do serviço, ao Departamento de Administração de outro Ministério ou, em sua falta, ao órgão que exerça funções idênticas, a tranferência, *ex*\-*offício*, de funcionários cujas habilitações e pendores vocacionais possam torná-los mais úteis às atividades do outro Ministério;
 
 i) emitir parecer sôbre remoção de funcionário de uma para outra repartição ou serviço, e submetê-lo à decisão do Ministro de Estado;
 
@@ -894,7 +892,7 @@ b) providenciar sôbre o relacionamento de dívidas de exercício encerrado e re
 
 c) interpor pedidos de reconsideração e recursos ao Tribunal de Contas.
 
-<strong>Art</strong>. 47. Aos Diretores da Divisão e ao Chefe do Serviço de Comunicações incumbe:
+**Art**. 47. Aos Diretores da Divisão e ao Chefe do Serviço de Comunicações incumbe:
 
 I - administrar a respectiva divisão ou serviço;
 
@@ -1070,7 +1068,7 @@ XI - interpor pedidos de reconsideração e recursos ao Tribunal de Contas;
 
 § 5º Ao Chefe do S.C. incumbe ainda, visar certidões lavradas pelo Arquivo.
 
-<strong>Art</strong>. 48. Aos Chefes de Seção incumbe:
+**Art**. 48. Aos Chefes de Seção incumbe:
 
 I - dirigir a respectiva seção;
 
@@ -1100,7 +1098,7 @@ XIII - expedir boletins de merecimento dos funcionários que lhe forem diretamen
 
 XIV - velar pela disciplina nos recintos de trabalho;
 
-<strong>Art</strong>. 49. Ao Tesoureiro incumbe:
+**Art**. 49. Ao Tesoureiro incumbe:
 
 I - exceder vigilância sôbre todos os valores a seu cargo, propondo medidas de segurança, inclusive policiamento, para os locais onde hajam movimento de valores;
 
@@ -1144,7 +1142,7 @@ XX - expedir os boletins de merecimento dos funcionários que lhe forem diretame
 
 XXI - apresentar, anualmente, ao Diretor-Geral, relatório circunstanciado dos trabalhos da Tesouraria.
 
-<strong>Art</strong>. 50. Aos secretários do Diretor-Geral e dos Diretores de Divisão incumbe:
+**Art**. 50. Aos secretários do Diretor-Geral e dos Diretores de Divisão incumbe:
 
 I - atender às pessoas que procurarem o Diretor, dando-lhe conhecimento do assunto a tratar;
 
@@ -1152,9 +1150,9 @@ II - representar o Diretor, quando para isso designado;
 
 III - redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 51. Ao auxiliar do Diretor-Geral incumbe executar os encargos que lhes forem determinados pelo mesmo.
+**Art**. 51. Ao auxiliar do Diretor-Geral incumbe executar os encargos que lhes forem determinados pelo mesmo.
 
-<strong>Art</strong>. 52. Ao Chefe da Portaria incumbe:
+**Art**. 52. Ao Chefe da Portaria incumbe:
 
 I - dirigir e fiscalizar a execução de todos os trabalhos a cargo da Portaria;
 
@@ -1184,7 +1182,7 @@ XIII - encaminhar à D.P. os elementos necessários aos assentamentos dos servid
 
 XIV - apresentar, anualmente, ao Diretor-Geral, relatório circunstânciado das atividades da Portaria.
 
-<strong>Art</strong>. 53. Ao encarregado da Garage incumbe:
+**Art**. 53. Ao encarregado da Garage incumbe:
 
 I - dirigir e fiscalizar a execução dos trabalhos a cargo da Garage;
 
@@ -1204,25 +1202,25 @@ VIII - encaminhar à D.P. os elementos necessários aos assentamentos dos servid
 
 IX - apresentar, anualmente, ao Diretor-Geral, relatório circunstânciado das atividades da Garage;
 
-<strong>Art</strong>. 54. Aos demais funcionários e extranumerários compete executar os trabalhos de que forem incumbidos por seus superiores.
+**Art**. 54. Aos demais funcionários e extranumerários compete executar os trabalhos de que forem incumbidos por seus superiores.
 
-<strong>capítulo V</strong>
+**capítulo V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 55. O D.A. terá a lotação aprovada em decreto.
+**Art**. 55. O D.A. terá a lotação aprovada em decreto.
 
 Parágrafo único - Além dos funcionários constantes da lotação, o D.A. poderá ter pessoal extranumerário.
 
-<strong>capítulo VI</strong>
+**capítulo VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 56. O horário normal de trabalho será fixado pelo Diretor-Geral, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 56. O horário normal de trabalho será fixado pelo Diretor-Geral, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
 Parágrafo único. O Diretor-Geral baixará instruções sôbre o registro de ponto para o D.A.
 
-<strong>Art</strong>. 57. O horário da Portaria e da Garage será estabelecido em portaria baixada pelo Diretor-Geral, obedecidas as seguintes normas:
+**Art**. 57. O horário da Portaria e da Garage será estabelecido em portaria baixada pelo Diretor-Geral, obedecidas as seguintes normas:
 
 I - oito horas de trabalho diário para os artífices e pessoal operário em geral;
 
@@ -1232,17 +1230,17 @@ III - seis horas de trabalho diário para o cabineiros, devendo, nas horas de mo
 
 Parágrafo único - Os trabalhos de limpeza deverão ser realizados, sempre que possível, fora das horas de expediente da repartição.
 
-<strong>Art</strong>. 58. - O Diretor-Geral, os Diretores de Divisão, o Chefe do Serviço de Comunicações, o Tesoureiro, o Chefe da Portaria e o Encarregado da Garage não ficam sujeitos a ponto, devendo porém, observar o horário fixado.
+**Art**. 58. - O Diretor-Geral, os Diretores de Divisão, o Chefe do Serviço de Comunicações, o Tesoureiro, o Chefe da Portaria e o Encarregado da Garage não ficam sujeitos a ponto, devendo porém, observar o horário fixado.
 
-<strong>Art</strong>. 59. - O expediente da Tesouraria só poderá ser encerrado quando concluídos os seus trabalhos diários.
+**Art**. 59. - O expediente da Tesouraria só poderá ser encerrado quando concluídos os seus trabalhos diários.
 
 Parágrafo único - As atividades de recebimento ou pagamento abrangerão quatro horas diárias, no mínimo.
 
-<strong>capítulo VII</strong>
+**capítulo VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 60. Serão substituídos, automàticamente, em seus impedimentos eventuais, até 30 dias:
+**Art**. 60. Serão substituídos, automàticamente, em seus impedimentos eventuais, até 30 dias:
 
 I - O Diretor-Geral, pelo Diretor de Divisão de sua indicação e designado pelo Ministro;
 
@@ -1256,18 +1254,18 @@ V - O Chefe da Portaria e o Encarregado da Garage por servidor de sua indicaçã
 
 Parágrafo único - Haverá, sempre servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>capítulo VIII</strong>
+**capítulo VIII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>.61 - Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, ordens e instruções de serviço, que digam respeito às atividades específicas da mesma.
+**Art**.61 - Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, ordens e instruções de serviço, que digam respeito às atividades específicas da mesma.
 
-<strong>Art</strong>. 62 - Os serviços e Seções de Administração, ou qualquer outros órgãos que executem, exclusivamente atividades-meios nas diversas repartições do Ministério, funcionarão articulados com o D. A. formando sistema com êste o recebendo, diretamente, de suas Divisões e Serviços, no respectivo campo de ação, orientação sôbre a forma de realizar os trabalhos que lhe são pertinentes.
+**Art**. 62 - Os serviços e Seções de Administração, ou qualquer outros órgãos que executem, exclusivamente atividades-meios nas diversas repartições do Ministério, funcionarão articulados com o D. A. formando sistema com êste o recebendo, diretamente, de suas Divisões e Serviços, no respectivo campo de ação, orientação sôbre a forma de realizar os trabalhos que lhe são pertinentes.
 
 Parágrafo único – As Divisões e Serviços do D. A. exercerão, entretanto, no que se relaciona com o gênero de suas atividades, ação direta sôbre as repartições do Ministério que disponham de órgãos incumbidos exclusivamente, na execução das mesmas.
 
-<strong>Art</strong>. 63. Os Órgãos integrantes do D. A. fornecerão à Divisão do Orçamento dêste, na época por ela indicada, os elementos necessários à organização da proposta orçamentária do Ministério.
+**Art**. 63. Os Órgãos integrantes do D. A. fornecerão à Divisão do Orçamento dêste, na época por ela indicada, os elementos necessários à organização da proposta orçamentária do Ministério.
 
 Rio de Janeiro, em 5 de setembro de 1946.
 
-<strong>Carlos Coimbra da Luz</strong>
+**Carlos Coimbra da Luz**

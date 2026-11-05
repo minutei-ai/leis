@@ -1,7 +1,3 @@
-1
-
-###MPV-001230-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.230, DE 14 DE DEZEMBRO DE 1995.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

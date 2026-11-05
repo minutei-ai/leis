@@ -1,5 +1,3 @@
-###DEC-046046-0-000-18-05-1959@@@
-
 Decreto nº 46.046, de 18 de maio de 1959.
 
 Autoriza a Emprêsa Cosmopolitana de Comércio e Mineração S.A. a pesquisar mica no município de Santa Maria do Suassuí, Estado de Minas Gerais.

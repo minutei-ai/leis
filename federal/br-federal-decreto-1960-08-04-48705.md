@@ -1,5 +1,3 @@
-###DEC-048705-0-000-04-08-1960@@@
-
 DECRETO Nº 48.705, DE 04 DE agôsto DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Estado do Rio de Janeiro.

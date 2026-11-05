@@ -1,5 +1,3 @@
-###DEC-047820-0-000-03-03-1960@@@
-
 DECRETO Nº 47.820, DE 3 DE MARÇO DE 1960
 
 Revoga o Decreto nº 23.410, de 28 de julho de 1947.

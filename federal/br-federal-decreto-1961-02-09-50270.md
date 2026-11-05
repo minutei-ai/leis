@@ -1,5 +1,3 @@
-###DEC-050270-0-000-09-02-1961@@@
-
 DECRETO Nº 50.270, de 9 de fevereiro de 1961.
 
 Dissolve a Comissão do Impôsto Sindical e dá outras providências.

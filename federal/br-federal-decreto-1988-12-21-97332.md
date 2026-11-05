@@ -1,5 +1,3 @@
-###DEC-097332-0-000-21-12-1988@@@
-
 DECRETO Nº 97.332, DE 21 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências da Faculdade Adventista de Educação, em São Paulo, Estado de São Paulo.

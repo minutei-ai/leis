@@ -1,5 +1,3 @@
-###DEC-077449-0-000-14-04-1976@@@
-
 DECRETO Nº 77.449 - DE 14 DE ABRIL DE 1976
 
 Prorroga o prazo para utilização do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

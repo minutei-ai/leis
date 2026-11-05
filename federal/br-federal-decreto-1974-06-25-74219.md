@@ -1,5 +1,3 @@
-###DEC-074219-0-000-25-06-1974@@@
-
 DECRETO nº 74.219, DE 25 DE JUNHO DE 1974
 
 Dispõe sobre a importação de aeronaves civis e seus pertences.

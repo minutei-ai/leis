@@ -1,5 +1,3 @@
-###DEC-070615-0-000-25-05-1972@@@
-
 DECRETO Nº 70.615, DE 25 DE MAIO DE 1972.
 
 Concede a Bodominas - Metalurgia e Indústria S.A. o direito de lavrar scheelita no município de São Tomé - Estado do Rio Grande do Norte.

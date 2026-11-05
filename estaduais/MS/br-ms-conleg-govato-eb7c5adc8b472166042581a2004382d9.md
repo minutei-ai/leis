@@ -6,18 +6,20 @@ Altera a redação da Lei nº 4.282, de 14 de dezembro de 2012, que estabelece o
 
 Publicada no Diário Oficial nº 9.498, de 21 de setembro de 2017, página 1. Republicada no Diário Oficial nº 9.499, de 22 de setembro de 2017, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica alterada a redação da [Lei nº 4.282, de 14 de dezembro de 2012](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/8ca10702c914c2f684257ad7004504d0?OpenDocument), que passa a vigorar com a seguinte redação:<br>
-<br>
-<i>“Art. 2º-A. Na apuração das taxas relativas aos serviços ligados à emissão/remissão ou à renovação de PPD ou de CNH para pessoas com idade igual ou superior a 60 (sessenta) anos de idade, será assegurada a proporcionalidade do valor previsto na tabela de serviços anexa a esta Lei, com relação ao prazo de validade do documento expedido.</i><br>
-<br>
-<i>Parágrafo único. O Poder Executivo regulamentará a forma de aplicação da regra prevista no caput deste artigo.” (NR)</i><br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
-Campo Grande, 20 de setembro de 2017.<br>
-<br>
-REINALDO AZAMBUJA SILVA<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica alterada a redação da [Lei nº 4.282, de 14 de dezembro de 2012](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/8ca10702c914c2f684257ad7004504d0?OpenDocument), que passa a vigorar com a seguinte redação:
+
+*“Art. 2º-A. Na apuração das taxas relativas aos serviços ligados à emissão/remissão ou à renovação de PPD ou de CNH para pessoas com idade igual ou superior a 60 (sessenta) anos de idade, será assegurada a proporcionalidade do valor previsto na tabela de serviços anexa a esta Lei, com relação ao prazo de validade do documento expedido.*
+
+*Parágrafo único. O Poder Executivo regulamentará a forma de aplicação da regra prevista no caput deste artigo.” (NR)*
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
+Campo Grande, 20 de setembro de 2017.
+
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-067418-0-000-19-10-1970@@@
-
 DECRETO Nº 67.418, DE 19 DE OUTUBRO DE 1970.
 
 Autoriza a cessão definitiva de imóvel que menciona, situado em São Paulo, Estado de São Paulo, nas condições que específica.

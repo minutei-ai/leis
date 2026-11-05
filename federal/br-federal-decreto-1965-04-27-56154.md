@@ -1,5 +1,3 @@
-###DEC-056154-0-000-27-04-1965@@@
-
 decreto nº 56.154, de 27 de abril de 1965.
 
 Concede à Mineração Suldemin S.A. autorização para funcionar como emprêsa de mineração.

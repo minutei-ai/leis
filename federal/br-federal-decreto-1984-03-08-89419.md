@@ -1,5 +1,3 @@
-###DEC-089419-0-000-08-03-1984@@@
-
 Decreto nº 89.419, de 08 de MArço de 1984.
 
 Promulga o Convênio Sobre Transportes Marítimos entre o Governo da República Federativa do Brasil e o Governo da República do Equador.
@@ -208,4 +206,20 @@ O presente Convênio entrará em vigor a partir de noventa dias da troca dos ins
 
 Feito em Brasília, aos 9 dias do mês de fevereiro de 1982, em dois originais, nas línguas portuguesa e espanhola, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DO EQUADOR:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Luís Valencia Rodríguez)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DO EQUADOR:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Ramiro Saraiva Guerreiro)
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Luís Valencia Rodríguez)
+
+</td></tr></tbody></table>

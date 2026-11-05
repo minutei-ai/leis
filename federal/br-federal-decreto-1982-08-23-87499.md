@@ -1,5 +1,3 @@
-###DEC-087499-0-000-23-08-1982@@@
-
 Decreto nº 87.499, de 23 dE agosto de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel denominado "Saudadinha", situado no Município de Galvão, no Estado de Santa Catarina, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs. 78.422, de 15 de outubro de 1976, e 84.969, de 26 de julho de 1980.

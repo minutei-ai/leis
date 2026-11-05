@@ -1,5 +1,3 @@
-###DEL-000192-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 192, DE 24 DE FEVEREIRO DE 1967
 
 Fica o entendimento da expressão “indenizações trabalhistas” nos textos legais que menciona.

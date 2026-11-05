@@ -1,5 +1,3 @@
-###DEC-064970-0-000-11-08-1969@@@
-
 DECRETO Nº 64.970 - DE 11 DE AGÔSTO DE 1969.
 
 Ratifica os atos legais de rescisão de contrato de concessão, firmados entre o Govêrno do Estado do Amazonas e a Pará Telephone Company Limited.

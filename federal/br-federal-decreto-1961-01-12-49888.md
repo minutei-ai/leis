@@ -1,5 +1,3 @@
-###DEC-049888-0-000-12-01-1961@@@
-
 DECRETO Nº 49.888, DE 12 DE JANEIRO DE 1961.
 
 Autoriza a cidadão brasileiro Almir Leal a pesquisar areias ilmeníticas, no município de Tutóia, Estado do Maranhão.

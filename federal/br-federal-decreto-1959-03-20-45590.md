@@ -1,5 +1,3 @@
-###DEC-045590-0-000-20-03-1959@@@
-
 DECRETO Nº 45.590, DE 20 DE MARÇO DE 1959.
 
 Concede o abono provisório aos Servidores da Previdência e Assistência dos Servidores do Estado.

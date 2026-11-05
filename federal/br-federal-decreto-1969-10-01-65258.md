@@ -1,5 +1,3 @@
-###DEC-065258-0-000-01-10-1969@@@
-
 DECRETO Nº 65.258, DE 1 DE OUTUBRO DE 1969.
 
 Autoriza o Ministro do Estado do Interior a expedir em caráter provisório, a regulamentação de que trata o artigo 84 do Decreto-lei número 411, de 8 de janeiro de 1969.

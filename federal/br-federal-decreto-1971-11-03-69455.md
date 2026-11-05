@@ -1,5 +1,3 @@
-###DEC-069455-0-000-03-11-1971@@@
-
 DECRETO Nº 69.455 - 3 DE NOVEMBRO DE 1971
 
 Autoriza o funcionamento da Faculdade de Economia e Administração "Estácio de Sá", no Estado da Guanabara.

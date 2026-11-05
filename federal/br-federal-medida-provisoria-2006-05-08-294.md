@@ -1,5 +1,3 @@
-###MPV-000294-0-000-08-05-2006@@@
-
 MEDIDA PROVISÓRIA Nº 294, DE 8 DE MAIO DE 2006.
 
 Cria o Conselho Nacional de Relações do Trabalho - CNRT e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066735-0-000-17-06-1970@@@
-
 DECRETO Nº 66.735, DE 17 DE JUNHO DE 1970.
 
 Concede reconhecimento à Faculdade.

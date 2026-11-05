@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a9f97c37-8e11-408f-bbc8-3df515e91d6d/texto#nowhere)
 
-###DEL-001031-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.031, dE 21 de Outubro de 1969
 
 Acrescenta parágrafo ao artigo 132 da Consolidação das Leis do Trabalho

@@ -1,5 +1,3 @@
-###DEL-003748-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.748 – DE 23 DE OUTUBRO DE 1941
 
 Dispõe sobre a majoração das taxas de água e esgotos e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080631-0-000-26-10-1977@@@
-
 DECRETO Nº 80.631, DE 26 DE OUTUBRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação da terreno que menciona, situado no Município de Crateús, Estado do Ceará.

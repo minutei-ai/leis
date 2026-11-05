@@ -1,5 +1,3 @@
-###DEC-075239-0-000-16-01-1975@@@
-
 DECRETO Nº 75.239, DE 16 DE JANEIRO DE 1975.
 
 Dispõe sobre a inclusão de empregos regidos pela legislação trabalhista no Plano de Classificação de que trata a Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

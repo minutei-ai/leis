@@ -1,5 +1,3 @@
-###DEL-005970-0-000-05-11-1943@@@
-
 DECRETO‑LEI N. 5.970 – DE 5 DE NOVEMBRO DE 1943
 
 Transfere gratuitamente ao Instituto Brasileiro de Oncologia o domínio útil do terreno de acrescido de marinha que menciona, situado na Capital Federal, e dá outras providências

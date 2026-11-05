@@ -1,5 +1,3 @@
-###DEC-054327-0-000-28-09-1964@@@
-
 DECRETO Nº 54.327, DE 28 DE Setembro DE 1964.
 
 Concede a Minérios Montanha Indústrias e Comércio Ltda. autorização para funcionar como emprêsa de mineração.

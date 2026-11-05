@@ -1,7 +1,3 @@
-1
-
-###DEC-099129-0-000-09-03-1990@@@
-
 DECRETO Nº 99.129, DE 9 DE MARCO DE 1990
 
 Outorga concessão a RÁDIO CLUBE DE INHAPIM LTDA., para explorar serviço de ra­diodifusão sonora em onda média, na Cida­de de Inhapim, Estado de Minas Gerais.

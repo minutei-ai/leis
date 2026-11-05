@@ -1,5 +1,3 @@
-###DEL-002124-0-000-13-06-1984@@@
-
 # Decreto-lei nº 2.124, de 1 3 de junho de 1984
 
 Altera a legislação do imposto de renda, e dá outras providências.

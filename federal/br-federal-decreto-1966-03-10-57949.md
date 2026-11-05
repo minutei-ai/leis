@@ -1,5 +1,3 @@
-###DEC-057949-0-000-10-03-1966@@@
-
 DECRETO Nº 57.949, DE 10 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro David Paulo Dana a lavrar diamante e ouro, no município de Itupiranga, Estado do Pará.
@@ -31,8 +29,6 @@ Brasília, 10 de março de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-057949-0-000-10-03-1966@@@RET01+++
 
 DECRETO Nº 57.949, DE 10 DE MARÇO DE 1966.
 

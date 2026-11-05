@@ -1,5 +1,3 @@
-###DEC-064728-0-000-23-06-1969@@@
-
 Decreto nº 64.728, de 23 de junho de 1969.
 
 Autorização para funcionamento de Curso

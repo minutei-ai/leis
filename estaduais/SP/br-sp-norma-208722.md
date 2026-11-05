@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208722)<br>
-
 # LEI N° 17.817, DE 27 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 652/2021, dos Deputados Heni Ozi Cukier - NOVO e Gilmaci Santos - REPUBLICANOS)

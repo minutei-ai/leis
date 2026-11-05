@@ -1,5 +1,3 @@
-###DEL-008365-0-000-13-12-1945@@@
-
 DECRETO-LEI N. 8.365 – DE 13 DE DEZEMBRO DE 1945
 
 Cria a Receita e fixa a Despesa do Distrito Federal para o exercício de 1946

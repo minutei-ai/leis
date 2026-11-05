@@ -1,5 +1,3 @@
-###DEC-055939-0-000-19-04-1965@@@
-
 DECRETO Nº 55.939, DE 19 DE ABRIL DE 1965.
 
 Concede á sociedade estrangeira Banco de La Nacion Argentina autorização para aumentar o seu capital.

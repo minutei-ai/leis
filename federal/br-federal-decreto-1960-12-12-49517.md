@@ -1,5 +1,3 @@
-###DEC-049517-0-000-12-12-1960@@@
-
 DECRETO Nº 49.517, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Jonas Veiga a pesquisar minério de ferro, no Município de Sabará, Estado de Minas Gerais.

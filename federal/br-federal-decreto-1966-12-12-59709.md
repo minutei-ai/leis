@@ -1,5 +1,3 @@
-###DEC-059709-0-000-12-12-1966@@@
-
 DECRETO Nº 59.709, DE 12 DE DEZEMBRO DE 1966.
 
 Regulamenta a fôrma de distribuição, do processamento dos pedidos e da fiscalização das doações de ambulâncias feitas através do Ministério da Saúde e dá outras providências.

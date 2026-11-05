@@ -1,5 +1,3 @@
-###DEC-071606-0-000-22-12-1972@@@
-
 DECRETO nº 71.606 - de 22 de dezembro de 1972
 
 Autoriza o funcionamento da Faculdade Ideal de Letras e Ciências Humanas, do Instituto de Desenvolvimento Educacional e Assistencial, Novo São Paulo, com os cursos de Pedagogia, Turismo, Letras e Estudos Sociais.

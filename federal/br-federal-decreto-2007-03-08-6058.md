@@ -1,5 +1,3 @@
-###DEC-006058-0-000-08-03-2007@@@
-
 DECRETO Nº 6.058, DE 8 DE MARÇO DE 2007.
 
 Promulga o Acordo sobre Serviços Aéreos entre a República Federativa do Brasil e a República Portuguesa, celebrado em Lisboa, em 11 de novembro de 2002.
@@ -24,11 +22,7 @@ Brasília, 8 de março de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 9.3.2007.
-
-ACORDO SOBRE SERVIÇOS AÉREOS ENTRE A REPÚBLICA FEDERATIVA
+Celso Luiz Nunes AmorimACORDO SOBRE SERVIÇOS AÉREOS ENTRE A REPÚBLICA FEDERATIVA
 
 DO BRASIL E A REPÚBLICA PORTUGUESA
 

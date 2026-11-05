@@ -1,5 +1,3 @@
-###DEL-005063-0-000-10-12-1942@@@
-
 DECRETO-LEI N. 5.063 – DE 10 DE DEZEMBRO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 10.200.000,00 para pagamento à Legião Brasileira de Assistência.

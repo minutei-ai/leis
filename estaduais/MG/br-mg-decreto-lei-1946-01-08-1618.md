@@ -231,7 +231,3 @@ Antônio Mourão Guimarães
 Iago Vitoriano Pimentel
 
 José de Carvalho Lopes
-
-\======================================================================
-
-Data da última atualização: 18/8/2026.

@@ -1,5 +1,3 @@
-###DEC-052189-0-000-28-06-1963@@@
-
 DECRETO Nº 52.189, DE 28 DE JUNHO DE 1963.
 
 Autoriza a Companhia Paranaense de Energia Elétrica a instalar usina diesel-elétrica de emergência, no município de Curitiba, Estado do Paraná.

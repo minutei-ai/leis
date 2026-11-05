@@ -1,5 +1,3 @@
-###DEC-074249-0-000-02-07-1974@@@
-
 DECRETO Nº 74.249 - DE 2 DE JULHO DE 1974.
 
 Altera o Regulamento da Ordem do Mérito Militar.

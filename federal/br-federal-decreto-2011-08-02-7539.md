@@ -1,5 +1,3 @@
-###DEC-007539-0-000-02-08-2011-PUB-01@@@
-
 DECRETO Nº 7.539, DE 2 DE AGOSTO DE 2011
 
 Altera o art. 21 do Decreto nº 5.563, de 11 de outubro de 2005, que regulamenta a Lei nº 10.973, de 2 de dezembro de 2004, que dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo.

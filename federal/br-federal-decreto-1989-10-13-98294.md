@@ -1,7 +1,3 @@
-1
-
-###DEC-098294-0-000-13-10-1989@@@
-
 DECRETO N° 98.294, DE 13 DE OUTUBRO DE 1989
 
 Declara de Utilidade Pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento – (DNOS) uma faixa de terras, com benfeitorias, situada no Município de São Leopoldo, no Estado do Rio Grande do Sul, e dá outras providências.

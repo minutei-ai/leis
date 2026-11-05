@@ -1,5 +1,3 @@
-###DEC-050195-0-000-28-01-1961@@@
-
 DECRETO Nº 50.195, DE 28 DE JANEIRO DE 1961.
 
 Reconhece o Serviço de Registro Genealógico mantido pela Associação dos Criadores do Cavalo Marchador da raça Manga-Larga e contém outras disposições

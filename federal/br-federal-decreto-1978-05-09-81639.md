@@ -1,5 +1,3 @@
-###DEC-081639-0-000-09-05-1978@@@
-
 Decreto nº 81.639, de 09 de maio de 1978
 
 Altera o Decreto nº 79.531, de 13 de abril de 1977, que dispõe sobre a Organização Básica do Ministério do Exército e dá outras providências.

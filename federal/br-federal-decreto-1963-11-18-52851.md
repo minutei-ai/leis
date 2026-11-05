@@ -1,5 +1,3 @@
-###DEC-052851-0-000-18-11-1963@@@
-
 DECRETO Nº 52.851, DE 18 DE NOVEMBRO DE1963.
 
 Autoriza o cidadão brasileiro Moacyr Figueiredo Filho a lavrar minério de manganês, no município de Conselheiro Lafaiete, Estado de Minas Gerais.

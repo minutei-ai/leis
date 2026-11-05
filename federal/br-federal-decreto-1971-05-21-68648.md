@@ -1,5 +1,3 @@
-###DEC-068648-0-000-21-05-1971@@@
-
 DECRETO Nº 68.648 - DE 21 DE MAIO DE 1971.
 
 Aprova o Regulamento da Diretoria de Saúde no Ministério da Aeronáutica e dá outras providências.

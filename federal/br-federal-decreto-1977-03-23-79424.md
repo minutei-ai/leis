@@ -1,5 +1,3 @@
-###DEC-079424-0-000-23-03-1977@@@
-
 DECRETO Nº 79.424, DE 23 DE MARÇO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Light - Serviços de Eletricidade S. A., no Estado do Rio de Janeiro.

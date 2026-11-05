@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210323)<br>
-
 # DECRETO N° 69.120, DE 09 DE DEZEMBRO DE 2024
 
 ### _Altera o Decreto n° 8.468, de 8 de setembro de 1976, o Decreto n° 47.400, de 4 de dezembro de 2002, e o Decreto n° 64.132, de 11 de março de 2019, para dispor sobre os critérios do licenciamento ambiental, prazo de vigência de licenças, ressarcimento de custos de emissão de autorizações de manejo de fauna "in situ"._
@@ -16,7 +14,8 @@ I - o "caput" do artigo 57:
 
 II - o Capítulo II do Título V e o artigo 58:
 
-"Capítulo II<br>
+"Capítulo II
+
 Das Licenças Ambientais
 
 Artigo 58 - O licenciamento ambiental previsto no artigo 57 é necessário para as fases de planejamento, instalação e operação, assim como as ampliações ou modificações, conforme definido neste decreto.

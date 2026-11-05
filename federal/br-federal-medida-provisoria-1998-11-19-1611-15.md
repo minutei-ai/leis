@@ -1,5 +1,3 @@
-###MPV-001611-0-015-19-11-1998@@@
-
 MEDIda PROVISÓRIA Nº 1.611-15, DE 19 DE NOVEMBRo DE 1998.
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000223-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 223, DE 28 DE FEVEREIRO DE 1967
 
 Autoriza a desapropriação de imóveis residenciais em Brasília, Distrito Federal, e dá outras providências.

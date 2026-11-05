@@ -1,5 +1,3 @@
-###DEC-057487-0-000-27-12-1965@@@
-
 DECRETO Nº 57.487, DE 27 DE DEZEMBRO DE 1965.
 
 Retifica função gratificada no Quadro de Pessoal do Ministério da Educação e Cultura.

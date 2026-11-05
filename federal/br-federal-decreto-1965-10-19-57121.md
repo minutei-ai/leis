@@ -1,5 +1,3 @@
-###DEC-057121-0-000-19-10-1965@@@
-
 DECRETO Nº 57.121, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Antônio Mendes a pesquisar água mineral, no município de Votorantim, Estado de São Paulo.

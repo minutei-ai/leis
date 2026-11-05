@@ -1,5 +1,3 @@
-###DEC-080968-0-000-07-12-1977@@@
-
 Decreto nº 80.968, de 07 de dezembro de 1977.
 
 Altera os Art. 2º e 9º do Regulamento do Departamento-Geral de Pessoal do Ministério do Exercito, aprovado pelo Decreto nº 78.724, de 12 de novembro de 1976, e dá outras providencias.

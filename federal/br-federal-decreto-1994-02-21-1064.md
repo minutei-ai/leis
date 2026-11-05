@@ -1,7 +1,3 @@
-1
-
-###DEC-001064-0-000-21-02-1994@@@
-
 DECRETO N° 1.064, DE 21 DE FEVEREIRO DE 1994
 
 Aprova o Regimento Interno da Comissão Especial criada pelo Decreto n° 1.001 de 6 de dezembro de 1993, com a redação dada pelo Decreto n° 1.037, de 6 de janeiro de l994.

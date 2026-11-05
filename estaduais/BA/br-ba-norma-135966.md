@@ -4,17 +4,20 @@ Institui a Microrregião de Saneamento Básico do Extremo Sul - MSB/ES.
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO OBJETO E DO ÂMBITO DE APLICAÇÃO
 
 **Art. 1º** - Esta Lei Complementar tem por objeto a criação da Microrregião de Saneamento Básico do Extremo Sul - MSB/ES e sua respectiva estrutura de governança.
 
 **Parágrafo único -** O disposto nesta Lei Complementar aplica-se ao Estado da Bahia e aos Municípios que integram a MSB/ES_,_ bem como às pessoas físicas ou jurídicas, de direito público ou privado, que com elas se relacionem, no que concerne às funções públicas de interesse comum da Microrregião na área de saneamento básico.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA MICRORREGIÃO DE SANEAMENTO BÁSICO DO EXTREMO SUL - MSB/ES
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Da criação
 
 **Art. 2º** - Fica criada a Microrregião de Saneamento Básico do Extremo Sul - MSB/ES, composta por:
@@ -63,15 +66,18 @@ Da criação
 
 **XXII -** Município de Vereda.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das funções públicas de interesse comum da MSB/ES
 
 **Art. 3º** - São funções públicas de interesse comum da MSB/ES o planejamento, a regulação, a fiscalização e a prestação dos serviços públicos de saneamento básico.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ENTIDADE MICRORREGIONAL DA MICRORREGIÃO DE SANEAMENTO BÁSICO DO EXTREMO SUL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Da criação, da natureza jurídica e da finalidade
 
 **Art. 4º** - Fica criada a Entidade Microrregional da MSB/ES, autarquia intergovernamental de regime especial, de caráter deliberativo e normativo, com personalidade jurídica de direito público.
@@ -86,7 +92,8 @@ Da criação, da natureza jurídica e da finalidade
 
 **IV -** comunicar aos órgãos ou entidades federais que atuem na unidade regional as deliberações acerca de planos relacionados com os serviços na área de saneamento básico, por eles realizados.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Estrutura de Governança
 
 **Art. 5º** - Integram a estrutura de governança da Entidade Microrregional da MSB/ES:
@@ -115,10 +122,12 @@ Da Estrutura de Governança
 
 **§ 2**º - O Secretário-Geral será eleito pelo Colegiado Microrregional, sendo demissível livremente, a juízo da maioria de votos do Colegiado.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Do Colegiado Microrregional
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Da Composição e do Funcionamento
 
 **Art. 8º** - O Colegiado Microrregional é instância máxima da Entidade Microrregional e deliberará somente com a presença de entes da Federação que, somados, detenham a maioria absoluta do número total de votos, sendo que:
@@ -133,7 +142,8 @@ Da Composição e do Funcionamento
 
 **§ 3**º - Presidirá o Colegiado Microrregional o Governador do Estado ou, nas suas ausências e impedimentos, o Secretário de Infraestrutura Hídrica e Saneamento do Estado da Bahia.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Das Competências do Colegiado
 
 **Art. 9º** - São competências do Colegiado Microrregional:
@@ -156,7 +166,8 @@ Das Competências do Colegiado
 
 **Parágrafo único -** No caso de o Colegiado Microrregional deliberar pela unificação na prestação de serviço público, ou de atividade integrante de serviço público, na área de saneamento básico, a Entidade Microrregional subscreverá o respectivo contrato de concessão ou de programa representando todos os entes da Federação integrantes da Microrregião.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Do Conselho Participativo
 
 **Art. 10** - São competências do Conselho Participativo:
@@ -191,7 +202,8 @@ Do Conselho Participativo
 
 **III -** prestar contas de sua gestão e resultados.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 13** - Resolução do Colegiado Microrregional definirá a forma da gestão administrativa da Entidade Microrregional.

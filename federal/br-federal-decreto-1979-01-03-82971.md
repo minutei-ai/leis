@@ -1,5 +1,3 @@
-###DEC-082971-0-000-03-01-1979@@@
-
 Decreto nº 82.971, de 03 de janeiro de 1979
 
 Retifica a autorização de lavra conferida à Empresa de Mineração Mantovani Ltda. pelo Decreto nº 63.436, de 17 de outubro de 1968.

@@ -1,5 +1,3 @@
-###DEC-068084-0-000-19-01-1971@@@
-
 DECRETO Nº 68.084, DE 19 DE JANEIRO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Engenharia Santa Úrsula, GB.

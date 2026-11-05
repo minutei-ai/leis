@@ -1,5 +1,3 @@
-###DEC-094882-0-000-16-09-1987@@@
-
 DECRETO Nº 94.882, DE 16 DE SETEMBRO DE 1987
 
 Dá nova redação ao art. 5º, do Regulamento aprovado pelo Decreto nº 40.359, de 16 de novembro de 1956.

@@ -1,5 +1,3 @@
-###DEC-066148-0-000-02-02-1970@@@
-
 DECRETO Nº 66.148 - DE 2 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação Santa Luzia até a subestação nº 4 (Adelaide), no município de Belo Horizonte, Estado de Minas Gerais.

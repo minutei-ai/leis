@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212786)<br>
-
 # ATO DA MESA N° 08/2026, DE 25 DE JUNHO DE 2026
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso das atribuições conferidas pelo artigo 14 do Regimento Interno da Alesp, com foco no interesse público, considerando o contínuo aperfeiçoamento, a modernização e a busca de melhor sistematização dos procedimentos administrativos relacionados com a frota de veículos oficiais da Alesp, e visando aprimorar a sistemática de reembolso de despesas por meio do Auxílio-Encargos Gerais de Gabinete de Deputado e Auxílio-Hospedagem, especialmente à luz das diretrizes contidas na legislação de trânsito, DECIDE:

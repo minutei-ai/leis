@@ -1,5 +1,3 @@
-###DEC-048779-0-000-12-08-1960@@@
-
 Decreto nº 48.779, de 12 de agôsto de 1960.
 
 Autoriza o cidadão brasileiro José Maria Pereira a pesquisar diamantes nos município de Turmalina e Grão Mogol, Estado de Minas Gerais.

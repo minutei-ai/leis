@@ -1,5 +1,3 @@
-###DEC-066881-0-000-16-07-1970@@@
-
 DECRETO Nº 66.881, DE 16 DE JULHO DE 1970.
 
 Inclui, em cumprimento de decisão judicial, funções de extranumerário-mensalista na Parte Suplementar da Tabela Única de Extranumerário-Mensalista do Ministério da Fazenda, para aproveitamento de antigo pessoal da Superintendência das Emprêsas Incorporadas ao Patrimônio Nacional, beneficiado pelo disposto no artigo 1º da Lei nº 2.904, de 8 de outubro de 1956, combinado com o disposto no artigo 6º, § 2º da Lei nº 2.193, de 9 de março de 1954, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059871-0-000-26-12-1966@@@
-
 DECRETO Nº 59.871, DE 26 DE DEZEMBRO DE 1966.
 
 Dá nova redação ao art. 3º do Decreto nº 58.358, de 5 de maio de 1966.

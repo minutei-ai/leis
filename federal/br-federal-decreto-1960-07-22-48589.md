@@ -1,5 +1,3 @@
-###DEC-048589-0-000-22-07-1960@@@
-
 DECRETO Nº 48.589, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Paul Johann Carl Emil Adolf Bremer a pesquisar cassiterita e tantalita no município de Macapá, Território do Amapá.

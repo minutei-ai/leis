@@ -1,5 +1,3 @@
-###DEC-054859-0-000-03-11-1964@@@
-
 DECRETO Nº 54.859, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Feliciano Batista Neto a pesquisar mármore, no município de Corumbá, Estado de Mato Grosso.

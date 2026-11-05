@@ -1,5 +1,3 @@
-###DEC-057335-0-000-25-11-1965@@@
-
 DECRETO Nº 57.335, DE 25 DE NOVEMBRO DE 1965.
 
 Autoriza Indústria Comércio de Mineração Brasil Central S.A “Inconibrac” a pesquisar alumen no município de Porteirinha, Estado de Minas Gerais.

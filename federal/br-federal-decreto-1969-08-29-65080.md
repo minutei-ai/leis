@@ -1,5 +1,3 @@
-###DEC-065080-0-000-29-08-1969@@@
-
 DECRETO Nº 65.080 - DE 29 DE AGÔSTO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - ao Ministério da Marinha cargos originários da extinta autarquia Serviços de Navegação da Amazônia e de Administração ao Pôrto do Pará e Extinta Estrada de Ferro de Bragança (Quadro Extinto - Parte XIV - do Ministério dos Transportes) e dá outras providências.

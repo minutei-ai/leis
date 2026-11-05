@@ -1,7 +1,3 @@
-1
-
-###DEC-098990-0-000-02-03-1990@@@
-
 DECRETO Nº 98.990, DE 2 DE MARÇO DE 1990.
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica nº 12, entre o Brasil e a Argentina.

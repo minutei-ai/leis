@@ -1,5 +1,3 @@
-###DEC-054722-0-000-30-10-1964@@@
-
 DECRETO Nº 54.722, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Anibal Garcia da Silva a pesquisar calcita no município de Campos, Estado do Rio de Janeiro.

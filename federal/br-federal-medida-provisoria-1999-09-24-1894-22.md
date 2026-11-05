@@ -1,5 +1,3 @@
-###MPV-001894-0-022-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.894-22, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

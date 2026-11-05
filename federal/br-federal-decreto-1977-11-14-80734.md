@@ -1,5 +1,3 @@
-###DEC-080734-0-000-14-11-1977@@@
-
 Decreto nº 80.734, de 14 de novembro de 1977.
 
 Aumenta o capital social da Empresa de Processamento de Dados da Previdência Social - DATAPREV, e dá outras providências.

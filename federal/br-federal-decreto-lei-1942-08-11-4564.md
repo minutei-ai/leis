@@ -1,5 +1,3 @@
-###DEL-004564-0-000-11-08-1942@@@
-
 DECRETO-LEI N. 4.564 – DE 11 DE AGOSTO DE 1942
 
 Dispõe sobre a concessão de carta de solicitadores aos planos matriculados no 4º ano das Faculdades de Direito

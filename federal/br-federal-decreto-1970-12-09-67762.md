@@ -1,5 +1,3 @@
-###DEC-067762-0-000-09-12-1970@@@
-
 DECRETO Nº 67.762, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto número 31.040, de 21-6-1952.

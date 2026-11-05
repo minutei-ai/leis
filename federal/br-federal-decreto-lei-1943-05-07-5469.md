@@ -1,5 +1,3 @@
-###DEL-005469-0-000-07-05-1943@@@
-
 DECRETO‑LEI N. 5.469 – DE 7 DE MAIO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 749.526,00 para obras de reforma no edifício da Delegacia Fiscal do Tesouro Nacional no Estado do Rio Grande do Sul

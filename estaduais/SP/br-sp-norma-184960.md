@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=184960)
-
 # DECRETO Nº 63.153, DE 16 DE JANEIRO DE 2018
 
 ### _Dispõe, nos termos do artigo 102 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, sobre a aplicação dos recursos destinados ao pagamento de precatórios no regime da Emenda nº 99/2017, e sobre os termos e condições para acordos com os credores_
@@ -46,8 +44,12 @@ Palácio dos Bandeirantes, 16 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 16 de janeiro de 2018.

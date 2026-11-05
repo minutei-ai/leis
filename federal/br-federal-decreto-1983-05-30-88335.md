@@ -1,5 +1,3 @@
-###DEC-088335-0-000-30-05-1983@@@
-
 Decreto nº 88.335, de 30 de maio de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra, com benfeitorias, necessária à implantação da subestação Limeira IV, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

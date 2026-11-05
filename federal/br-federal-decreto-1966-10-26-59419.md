@@ -1,5 +1,3 @@
-###DEC-059419-0-000-26-10-1966@@@
-
 Decreto nº 59.419, de 26 de outubro de 1966.
 
 Declara a cessação da exploração dos serviços de energia elétrica no município de Pelotas e no distrito sede do município de Capão do Leão, no Estado do Rio Grande do Sul e outorga a respectiva concessão à Companhia Pelotense de Eletricidade.

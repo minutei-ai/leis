@@ -62,11 +62,14 @@ Art. 2º - Esta Lei Complementar entrará em vigor na data de sua publicação, 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e três dias do mês de dezembro de dois mil e cinco.
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-Prof. LUCIANO ROGÉRIO FERNANDES<br>
+Prof. LUCIANO ROGÉRIO FERNANDES
+
 PRESIDENTE DO APARECIDAPREV

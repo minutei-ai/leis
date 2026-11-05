@@ -1,5 +1,3 @@
-###DEC-006159-0-000-17-07-2007@@@
-
 DECRETO Nº 6.159, DE 17 DE JULHO DE 2007.
 
 Altera o Decreto no 3.945, de 28 de setembro de 2001, que define a composição do Conselho de Gestão do Patrimônio Genético e estabelece as normas para o seu funcionamento, mediante a regulamentação dos arts. 10, 11, 12, 14, 15, 16, 18 e 19 da Medida Provisória no 2.186-16, de 23 de agosto de 2001, que dispõe sobre o acesso ao patrimônio genético, a proteção e o acesso ao conhecimento tradicional associado, a repartição de benefícios e o acesso à tecnologia e transferência de tecnologia para sua conservação e utilização.
@@ -101,5 +99,3 @@ José Gomes Temporão
 Sergio Machado Rezende
 
 Marina Silva
-
-Este texto não substitui o publicado no DOU de 18.7.2007

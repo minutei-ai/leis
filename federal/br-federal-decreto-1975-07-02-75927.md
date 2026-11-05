@@ -1,5 +1,3 @@
-###DEC-075927-0-000-02-07-1975@@@
-
 decreto nº 75.927, de 2 de julho de 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Guarujá, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-076877-0-000-22-12-1975@@@
-
 DECRETO Nº 76.877, DE 22 DE DEZEMBRO DE 1975.
 
 Dispõe sobre Estrutura Básica do Fundo Nacional de Desenvolvimento da Educação (FNDE) e dá outras providências.

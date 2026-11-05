@@ -1,5 +1,3 @@
-###DEL-007725-0-000-11-07-1945@@@
-
 DECRETO-LEI N. 7.725 – DE 11 DE JULHO DE 1945
 
 Abre crédito suplementar ao Ministério da Justiça e Negócios Interiores.

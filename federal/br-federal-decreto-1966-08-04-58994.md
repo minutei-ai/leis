@@ -1,5 +1,3 @@
-###DEC-058994-0-000-04-08-1966@@@
-
 DECRETO Nº 58.994, DE 4 DE AGôSTO DE 1966.
 
 Cria a Série de Classes de Fiscal de Transportes Coletivo, e dá outras providências.

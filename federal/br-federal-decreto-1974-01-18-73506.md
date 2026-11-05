@@ -1,5 +1,3 @@
-###DEC-073506-0-000-18-01-1974@@@
-
 Decreto nº 73.506, de 18 de janeiro de 1974.
 
 Retifica o artigo 1º, do Decreto número 11.363, de 18 de janeiro de 1943, através do qual foi concedido à Minas do Paraopeba S.A. o direito de lavar minério de ferro, no Município de Brumadinho, Estado de Minas Gerais.

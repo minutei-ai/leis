@@ -1,5 +1,3 @@
-###DEC-074144-0-000-04-06-1974@@@
-
 Decreto Nº 74.144, DE 4 DE JUNHO DE 1974.
 
 Autoriza o funcionamento dos cursos de Letras e de Educação Artística da Faculdade de Formação de Professores do Centro Educacional de Niterói, Estado do Rio de Janeiro, mantida pela Fundação Brasileira de Educação, com sede na cidade do Rio de Janeiro, Estado da Guanabara, e dá outras providências.

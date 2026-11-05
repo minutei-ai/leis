@@ -1,5 +1,3 @@
-###DEC-068216-0-000-11-02-1971@@@
-
 DECRETO Nº 68.216, DE 11 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a cidade de Iporá até a cidade de Amorinópolis, no Estado de Goiás.

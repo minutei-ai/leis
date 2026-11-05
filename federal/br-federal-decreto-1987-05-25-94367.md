@@ -1,5 +1,3 @@
-###DEC-094367-0-000-25-05-1987@@@
-
 DECRETO Nº 94.367, DE 25 DE MAIO DE 1987.
 
 Altera o Decreto nº 94.159, de 31 de março de 1987.

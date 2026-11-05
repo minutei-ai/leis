@@ -1,5 +1,3 @@
-###DEL-008444-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.444 – DE 26 DE DEZEMBRO DE 1945
 
 Cria no Ministério da Guerra a Escola de Paraquedistas e dá outras providências.

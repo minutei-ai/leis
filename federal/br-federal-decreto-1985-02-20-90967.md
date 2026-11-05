@@ -1,5 +1,3 @@
-###DEC-090967-0-000-20-02-1985@@@
-
 DECRETO Nº 90.967 dE 20 dE FEVEREIRO DE 1985
 
 Dispõe sobre o provimento dos Cargos de Direção e Assessoramento no Grupo DAS-100, na Secretaria da Receita Federal.

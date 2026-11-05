@@ -1,5 +1,3 @@
-###DEL-004362-0-000-06-06-1942@@@
-
 DECRETO-LEI N. 4.362 – DE 6 DE JUNHO DE 1942
 
 Estabelece medidas tendentes a favorecer a colocação de trabalhadores maiores de quarenta e cinco anos

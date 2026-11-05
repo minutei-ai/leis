@@ -1,5 +1,3 @@
-###DEC-083211-0-000-28-02-1979@@@
-
 DECRETO Nº 83.211, DE 28 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciência e Letras de Palmas, com sede na cidade de Palmas, Estado do Paraná.

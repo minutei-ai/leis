@@ -1,5 +1,3 @@
-###DEC-005448-0-000-20-05-2005@@@
-
 DECRETO Nº 5.448, DE 20 DE MAIO DE 2005
 
 Regulamenta o § 1º do art. 2º da Lei nº 11.097, de 13 de janeiro de 2005, que dispõe sobre a introdução do biodiesel na matriz energética brasileira, e dá outras providências.

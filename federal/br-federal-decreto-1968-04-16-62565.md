@@ -1,5 +1,3 @@
-###DEC-062565-0-000-16-04-1968@@@
-
 DECRETO Nº 62.565, DE 16 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Associação Pedagógica Rudolf Steiner” com sede em São Paulo, Estado de São Paulo.

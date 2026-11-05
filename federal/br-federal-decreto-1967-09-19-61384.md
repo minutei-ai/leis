@@ -1,5 +1,3 @@
-###DEC-061384-0-000-19-09-1967@@@
-
 DECRETO Nº 61.384, DE 19 DE SETEMBRO DE 1967.
 
 Abre ao Ministério do Interior o crédito extraordinário de NCr$150.000,00 (cento e cinqüenta mil cruzeiros novos), destinado à aplicação nas condições que menciona.

@@ -1,5 +1,3 @@
-###DEC-057103-0-000-19-10-1965@@@
-
 Decreto nº 57.103, de 19 de outubro de 1965.
 
 Transfere a concessão do pôrto de Mucuripe (CE) para a Companhia Docas do Ceará e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-000000-0-000-17-11-1823@@@
-
 DECRETO - DE 17 DE NOVEMBRO DE 1823
 
 Manda proceder ás eleições para Deputados á Assembléa Geral Constituinte e Legislativa.

@@ -1,5 +1,3 @@
-###DEC-050444-0-000-11-04-1961@@@
-
 Decreto Nº 50.444, DE 11 DE ABRIL DE 1961.
 
 Aprova convênio entre os Ministérios da Guerra e da Viação e Obras Públicas para a execução, no Nordeste, por comissões e unidades militares, de serviços de mapeamento.

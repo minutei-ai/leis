@@ -1,5 +1,3 @@
-###DEC-081403-0-000-27-02-1978@@@
-
 Decreto nº 81.403, de 27 de fevereiro de 1978.
 
 Altera a composição da Comissão Coordenadora da Criação do Cavalo Nacional, de que trata o Decreto nº 79.109, de 11 de janeiro de 1977.

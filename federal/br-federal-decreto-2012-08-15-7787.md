@@ -1,5 +1,3 @@
-###DEC-007787-0-000-15-08-2012-PUB-01@@@
-
 DECRETO N° 7.787, DE 15 DE AGOSTO DE 2012
 
 Altera o Decreto n° 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operação de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

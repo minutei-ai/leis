@@ -1,5 +1,3 @@
-###DEC-066304-0-000-10-03-1970@@@
-
 DECRETO Nº 66.304 - DE 10 DE MARÇO DE 1970
 
 Declara de utilidade pública a Beneficência Popular com sede em Mariana, Estado de Minas Gerais.

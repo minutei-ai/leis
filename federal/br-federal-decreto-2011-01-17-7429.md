@@ -1,5 +1,3 @@
-###DEC-007429-0-000-17-01-2011-PUB-01@@@
-
 DECRETO Nº 7.429, DE 17 DE JANEIRO DE 2011
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, para a Secretaria e Gestão do Ministério do Planejamento, Orçamento e Gestão.

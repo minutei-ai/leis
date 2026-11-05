@@ -1,5 +1,3 @@
-###DEC-054572-0-000-23-10-1964@@@
-
 DECRETO Nº 54.572, DE 23 DE OUTUBRO DE 1964.
 
 Inclui funções gratificadas na Parte Permanente do Quadro de Pessoal do Ministério da Educação e Cultura.

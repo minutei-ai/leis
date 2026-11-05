@@ -1,5 +1,3 @@
-###DEC-006627-0-000-03-11-2008@@@
-
 DECRETO Nº 6.627, DE 3 DE NOVEMBRO DE 2008.
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e a Secretaria-Geral da Organização dos Estados Americanos, celebrado em Brasília, em 23 de maio de 2006.

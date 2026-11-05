@@ -1,5 +1,3 @@
-###DEC-052229-0-000-09-07-1963@@@
-
 DECRETO Nº 52.229, DE 9 JULHO DE 1963.
 
 Autoriza o cidadão brasileiro Gheorghe Popescu a lavrar areia e quartzosa no município de Peruíbe, Estado de São Paulo.

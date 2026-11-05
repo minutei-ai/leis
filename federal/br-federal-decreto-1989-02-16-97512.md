@@ -1,5 +1,3 @@
-###DEC-097512-0-000-16-02-1989@@@
-
 DECRETO Nº 97.512, DE 16 DE FEVEREIRO DE 1989
 
 Homologa a demarcação administrativa da Terra Indígena Yanomami, que menciona, no Estado de Roraima.

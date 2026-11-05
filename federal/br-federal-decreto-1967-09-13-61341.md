@@ -1,5 +1,3 @@
-###DEC-061341-0-000-13-09-1967@@@
-
 DECRETO Nº 61.341, DE 13 DE SETEMBRO DE 1967.
 
 Institui, na Secretaria-Geral do Conselho de Segurança Nacional, Grupo de Trabalho para o fim de elaborar o Regulamento das Divisões de Segurança e Informações dos Ministérios Civis.

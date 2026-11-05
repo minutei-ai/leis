@@ -1,5 +1,3 @@
-###DEC-005163-0-000-30-07-2004@@@
-
 DECRETO Nº 5.163 DE 30 DE JULHO DE 2004
 
 Regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica, e dá outras providências.

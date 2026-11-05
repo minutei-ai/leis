@@ -1,5 +1,3 @@
-###DEL-004652-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.652 – DE 2 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 100:000$0, para pagamento das vantagens que especifica

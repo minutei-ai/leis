@@ -1,5 +1,3 @@
-###DEC-055137-0-000-04-12-1964@@@
-
 decreto nº 55.137, de 4 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro José Maria de Resende Chaves a pesquisa cassiterita, no município de Coronel Xavier Chaves, Estado de Minas Gerais.

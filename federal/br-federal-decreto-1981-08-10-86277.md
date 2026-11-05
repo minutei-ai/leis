@@ -1,5 +1,3 @@
-###DEC-086277-0-000-10-08-1981@@@
-
 DecReto nº 86.277, de 10 de agosto de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão de FURNAS - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

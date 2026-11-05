@@ -1,5 +1,3 @@
-###DEC-083901-0-000-27-08-1979@@@
-
 Decreto nº 83.901, de 27 de agosto de 1979.
 
 Autoriza o funcionamento das habilitações Administração Escolar e Supervisão Escolar do curso de Pedagogia, da Faculdade de Educação de Sant' Ana do Livramento, Estado do Rio Grande do Sul.

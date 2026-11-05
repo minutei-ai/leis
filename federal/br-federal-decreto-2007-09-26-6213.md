@@ -1,5 +1,3 @@
-###DEC-006213-0-000-26-09-2007@@@
-
 DECRETO Nº 6.213, DE 26 DE SETEMBRO DE 2007.
 
 Dispõe sobre a execução do Quadragésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica no 35, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do Mercosul, e da República do Chile, de 13 de agosto de 2007.
@@ -22,11 +20,7 @@ Brasília, 26 de setembro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 27.9.2007
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 35 CELEBRADO ENTRE OS
+Samuel Pinheiro Guimarães NetoACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 35 CELEBRADO ENTRE OS
 
 GOVERNOS DOS ESTADOS PARTES DO MERCOSUL E O GOVERNO
 

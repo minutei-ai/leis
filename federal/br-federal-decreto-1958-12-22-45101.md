@@ -1,5 +1,3 @@
-###DEC-045101-0-000-22-12-1958@@@
-
 DECRETO Nº 45.101, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Boquim, no Estado de Sergipe.

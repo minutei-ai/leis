@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208185)<br>
-
 # LEI COMPLEMENTAR N° 1.385, DE 13 DE JUNHO DE 2023
 
 ### _Acrescenta dispositivo à Lei Complementar n° 1.093, de 16 de julho de 2009, que dispõe sobre a contratação por tempo determinado de que trata o inciso X do artigo 115 da Constituição Estadual, na forma que especifica_

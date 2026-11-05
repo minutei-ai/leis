@@ -1,5 +1,3 @@
-###DEL-003784-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.784 – DE 30 DE OUTUBRO DE 1941
 
 Regula a aceitação das retrocessões do Instituto de Resseguros do Brasil

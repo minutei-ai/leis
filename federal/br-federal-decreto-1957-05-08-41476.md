@@ -1,34 +1,32 @@
-###DEC-041476-0-000-08-05-1957@@@
+**DECRETO Nº 41.476, DE 8 DE MAIO DE 1957.**
 
-<strong>DECRETO Nº 41.476, DE 8 DE MAIO DE 1957.</strong>
+***Dá nova redação a dispositivos do Regulamento para as Escolas Preparatórias do Exército.***
 
-<em><strong>Dá nova redação a dispositivos do Regulamento para as Escolas Preparatórias do Exército.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o Artigo 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o Artigo 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as alterações introduzidas no Título II, Capítulos I e II do Título III, Art. 43, § 1º do Art. 44, parágrafo único do Art. 47, Art. 53, Capítulo III do Título IV, Art. 111 e seu parágrafo único, Art. 117 (suprime a letra *e* e altera a letra *d*), Art. 118 e o Capítulo II do Título V, tudo do Regulamento para as Escolas Preparatórias do Exército (R/114), baixado com o Decreto 18.732, de 28 de maio de 1945, e já alterado pelos Decretos 28.409, de 20 de julho de 1950; número 29.485, de 23 de abril de 1951; nº 31.605, de 18 de outubro de 1952; nº 35.059, de 12 de fevereiro de 1954; nº 36.449, de 10 de novembro de 1954; nº 37.314, de 10 de maio de 1955; nº 37.746, de 17 de agôsto de 1955 e Aviso nº 699-D3/B, de 5 de outubro de 1954, assinados pelo Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Ficam aprovadas as alterações introduzidas no Título II, Capítulos I e II do Título III, Art. 43, § 1º do Art. 44, parágrafo único do Art. 47, Art. 53, Capítulo III do Título IV, Art. 111 e seu parágrafo único, Art. 117 (suprime a letra <em>e</em> e altera a letra <em>d</em>), Art. 118 e o Capítulo II do Título V, tudo do Regulamento para as Escolas Preparatórias do Exército (R/114), baixado com o Decreto 18.732, de 28 de maio de 1945, e já alterado pelos Decretos 28.409, de 20 de julho de 1950; número 29.485, de 23 de abril de 1951; nº 31.605, de 18 de outubro de 1952; nº 35.059, de 12 de fevereiro de 1954; nº 36.449, de 10 de novembro de 1954; nº 37.314, de 10 de maio de 1955; nº 37.746, de 17 de agôsto de 1955 e Aviso nº 699-D3/B, de 5 de outubro de 1954, assinados pelo Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de maio de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 
-<strong>DÁ NOVA REDAÇÃO A DIPOSITIVOS DO REGULAMENTO PARA AS ESCOLAS PREPARATÓRIAS DO EXÉRCITO</strong>
+**DÁ NOVA REDAÇÃO A DIPOSITIVOS DO REGULAMENTO PARA AS ESCOLAS PREPARATÓRIAS DO EXÉRCITO**
 
-O Título II, os Capítulos I e II do Título III, o Art. 43, o § 1º do Art. 44, o parágrafo único do Artigo 47, o Art. 53, o Capítulo III do Título IV, o Art. 111 e seu parágrafo único, o Art. 117 (suprime a letra <em>e</em> e altera a letra <em>d</em>), o Artigo 118 e o Capítulo II do Título V, tudo do Regulamento para as Escolas Preparatórias do Exército (R/114), baixado com o Decreto número 18.732, de 28 de maio de 45, já alterado pelos Decretos 28.409, de 20 de julho de 1950; 29.485, de 23 de abril de 1951; 31.605, de 18 de outubro de 1952; 35.059, de 12 de fevereiro de 1954; 36.449, de 10 de novembro de 1954; 37.314, de 10 de maio de 1955; nº 37.746, de 17 de agôsto de 1955 e Aviso nº 699-D3/B, de 5 de outubro de 1954, passam a ter a redação que se segue:
+O Título II, os Capítulos I e II do Título III, o Art. 43, o § 1º do Art. 44, o parágrafo único do Artigo 47, o Art. 53, o Capítulo III do Título IV, o Art. 111 e seu parágrafo único, o Art. 117 (suprime a letra *e* e altera a letra *d*), o Artigo 118 e o Capítulo II do Título V, tudo do Regulamento para as Escolas Preparatórias do Exército (R/114), baixado com o Decreto número 18.732, de 28 de maio de 45, já alterado pelos Decretos 28.409, de 20 de julho de 1950; 29.485, de 23 de abril de 1951; 31.605, de 18 de outubro de 1952; 35.059, de 12 de fevereiro de 1954; 36.449, de 10 de novembro de 1954; 37.314, de 10 de maio de 1955; nº 37.746, de 17 de agôsto de 1955 e Aviso nº 699-D3/B, de 5 de outubro de 1954, passam a ter a redação que se segue:
 
-<strong>“TÍTULO II</strong>
+**“TÍTULO II**
 
-<em>ORGANIZAÇÃO GERAL DO ENSINO</em>
+*ORGANIZAÇÃO GERAL DO ENSINO*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Objetivos do Curso</em>
+*Dos Objetivos do Curso*
 
 “Art. 3º O curso das Escolas Preparatórias tem por objetivo proporcionar:
 
@@ -36,9 +34,9 @@ a) ensino fundamental, constituído das matérias do curso científico que devem
 
 b) instrução militar atinente às praças da Infantaria, para obtenção dos fundamentos necessários ao preparo técnico-profissional do cadete no 1º ano daquela Academia.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização do Curso</em>
+*Da Organização do Curso*
 
 “Art. 4º O curso das Escolas Preparatórias é realizado em três anos, com a seguinte distribuição de matérias:
 
@@ -128,17 +126,17 @@ B) Instrução Militar
 
 3 - Instrução técnica e tática: revisão e aperfeiçoamento da instrução já recebida; maneabilidade do Grupo de Combate (em terreno variado).”
 
-<strong>“CAPÍTULO I</strong>
+**“CAPÍTULO I**
 
-<em>Orientação Geral do Ensino</em>
+*Orientação Geral do Ensino*
 
 “Art. 5º Visando a preparar para o ingresso na Academia Militar das Agulhas Negras, o ensino nas Escolas Preparatórias, estruturado de acôrdo com o título II, será ministrado de maneira que se proporcionem ao aluno os conhecimentos necessários ao prosseguimento dos estudos naquele Estabelecimento.
 
 Art. 6º A instrução militar será regulada por Programa-Padrão organizado na Diretoria de Instrução, mediante proposta da Diretoria Geral do Ensino, ouvida a Diretoria do Ensino de Formação”.
 
-<strong>“CAPÍTULO II</strong>
+**“CAPÍTULO II**
 
-<em>Diretrizes para o Ensino</em>
+*Diretrizes para o Ensino*
 
 A) Ensino Fundamental
 
@@ -324,9 +322,9 @@ Parágrafo único - As turmas de aulas, em princípio com trinta alunos, terão 
 
 “Art. 53. Nos mêses de junho ou julho serão concedidas férias aos alunos, com duração de dez (10) dias. A data inicial das férias será fixada pela Diretoria do Ensino de Formação, antes de começar o ano letivo”.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Verificação do Rendimento da Aprendizagem</em>
+*Verificação do Rendimento da Aprendizagem*
 
 Art. 71. O rendimento da aprendizagem apurar-se-á através de:
 
@@ -354,9 +352,9 @@ a) Tarefas de estudo - trabalhos executados, na classe ou fora dela, durante o a
 
 b) Trabalhos correntes - provas escritas, gráficas ou práticas, realizadas no decorrer do ano letivo, à razão de duas (2) em oportunidade e condições fixadas no plano de ensino de cada matéria. Os assuntos de uma prova em princípio, serão os ministrados a partir da última realizada. Os professôres advertirão previamente os alunos quando quiserem exigir matéria já examinada.
 
-c) Exame final - prova escrita, gráfica, oral ou prática, realizada ao término do ano letivo nas condições estabelecidas nas letras <em>a, b, c,</em> e <em>d</em> do Art. 88. Deverá abranger todos os assuntos ministrados nos dois períodos, fazendo-se a seleção do que deve constituir o quanto o aluno obrigatoriamente precisa saber”.
+c) Exame final - prova escrita, gráfica, oral ou prática, realizada ao término do ano letivo nas condições estabelecidas nas letras *a, b, c,* e *d* do Art. 88. Deverá abranger todos os assuntos ministrados nos dois períodos, fazendo-se a seleção do que deve constituir o quanto o aluno obrigatoriamente precisa saber”.
 
-“Art. 74. A preparação, a aplicação e o julgamento das provas enumeradas nas alíneas <em>b</em> e <em>c</em> do Art. 73 obedecerão as normas especiais para medida da aprendizagem, expedidas pela Diretoria Geral do Ensino.
+“Art. 74. A preparação, a aplicação e o julgamento das provas enumeradas nas alíneas *b* e *c* do Art. 73 obedecerão as normas especiais para medida da aprendizagem, expedidas pela Diretoria Geral do Ensino.
 
 Parágrafo único. A preparação e a correção de cada prova de tôdas as turmas do mesmo ano do curso competem, sempre a um dos órgãos seguintes, visando à uniformidade:
 
@@ -380,7 +378,7 @@ Parágrafo único. Quando passar de duas (2) horas, haverá um pequeno intervalo
 
 “Art. 81. O resultado da correção das provas será apresentado à Direção do Ensino da Escola, no prazo máximo de dez (10) dias, a contar da aplicação respectiva. Juntamente com êsse resultado serão entregues ata e relatório sucinto sôbre o que se realizou”.
 
-“Art. 82. As provas escritas e gráficas de que tratam as alíneas <em>b</em> e <em>c</em> do Art. 73, depois de julgadas, serão entregues à Direção do Ensino da Escola, para que se aprovem os resultados. Aprovados, os trabalhos correntes serão restituídos aos professores, para distribuí-los aos alunos e apontar-lhes os êrros mais comuns com os esclarecimentos de dúvidas decorrentes da solução tida por correta (solução-padrão)”.
+“Art. 82. As provas escritas e gráficas de que tratam as alíneas *b* e *c* do Art. 73, depois de julgadas, serão entregues à Direção do Ensino da Escola, para que se aprovem os resultados. Aprovados, os trabalhos correntes serão restituídos aos professores, para distribuí-los aos alunos e apontar-lhes os êrros mais comuns com os esclarecimentos de dúvidas decorrentes da solução tida por correta (solução-padrão)”.
 
 “Art. 83. As provas escritas e gráficas, cujos resultados forem julgados anormais, ficarão sujeitas a anular-se e repetir-se, segundo os critérios estabelecidos em as normas aludidas no Art. 74”.
 
@@ -402,9 +400,9 @@ a) Haverá duas épocas de exame:
 
 \- a segunda, entre 2 e 25 de janeiro para os alunos do 3º ano, e no mês de fevereiro para os alunos do 1º e 2º anos;
 
-b) O exame de primeira época comportará uma prova escrita ou gráfica de tôda a matéria, consoante o que estabelece a letra <em>a</em> e, eventualmente, uma prova oral, segundo o preconizado na letra <em>b</em>, tudo do Art. 88;
+b) O exame de primeira época comportará uma prova escrita ou gráfica de tôda a matéria, consoante o que estabelece a letra *a* e, eventualmente, uma prova oral, segundo o preconizado na letra *b*, tudo do Art. 88;
 
-c) O exame de 2ª época comportará uma prova escrita ou gráfica, consoante o que estabelece a letra <em>c</em>, e provas escritas e oral, segundo a letra <em>d</em>, tudo do Art. 88;
+c) O exame de 2ª época comportará uma prova escrita ou gráfica, consoante o que estabelece a letra *c*, e provas escritas e oral, segundo a letra *d*, tudo do Art. 88;
 
 d) Para a Instrução Militar será aplicado o “Teste-Padrão de Instrução”;
 
@@ -462,17 +460,17 @@ d) fará exame escrito e oral de segunda época (E2e e E2o):
 
 \- se obtiver conta de segundo período (CP<sub>2</sub>) inferior a quatro (4), qualquer que seja sua conta de ano (CA);
 
-Parágrafo único. O que neste artigo se estabelece para exames escritos ou orais também se aplica aos gráficos e práticos referidos na letra <em>c</em> do Art. 73”.
+Parágrafo único. O que neste artigo se estabelece para exames escritos ou orais também se aplica aos gráficos e práticos referidos na letra *c* do Art. 73”.
 
 “Art. 89. Considerar-se-á aprovado o aluno que obtiver nota final (Nf) igual ou superior a quatro (4), respeitadas as demais condições dos parágrafos abaixo.
 
-§ 1º No caso da letra <em>a</em> do Art. 88, somente se calculará a nota final da matéria (Nf<sub>1</sub>) se a nota do exame escrito de primeira época fôr igual ou superior a quatro (4); nesse caso será ela a média aritmética entre a conta de ano (CA) e a nota do exame escrito de primeira época (E<sub>1</sub>e).
+§ 1º No caso da letra *a* do Art. 88, somente se calculará a nota final da matéria (Nf<sub>1</sub>) se a nota do exame escrito de primeira época fôr igual ou superior a quatro (4); nesse caso será ela a média aritmética entre a conta de ano (CA) e a nota do exame escrito de primeira época (E<sub>1</sub>e).
 
-§ 2º No caso da letra <em>b</em> do Art. 88, a nota final da matéria (Nf<sub>2</sub>) somente será calculada se a nota do exame oral de primeira época fôr igual ou superior a quatro (4); nesse caso, será ela a média aritmética entre a conta de ano e a média aritmética dos exames escrito e oral de primeira época (E1 e E1o).
+§ 2º No caso da letra *b* do Art. 88, a nota final da matéria (Nf<sub>2</sub>) somente será calculada se a nota do exame oral de primeira época fôr igual ou superior a quatro (4); nesse caso, será ela a média aritmética entre a conta de ano e a média aritmética dos exames escrito e oral de primeira época (E1 e E1o).
 
-§ 3º No caso da letra <em>c</em> do Art. 88, a nota final (Nf<sub>3</sub>) será a média aritmética entre a conta de ano e a nota do exame escrito de segunda época (E2e); nesta hipótese o aluno só terá aprovado se obtiver nota igual ou superior a quatro (4), tanto no exame escrito de segunda época (E<sub>2</sub>e), quanto em a nota final (Nf<sub>3</sub>).
+§ 3º No caso da letra *c* do Art. 88, a nota final (Nf<sub>3</sub>) será a média aritmética entre a conta de ano e a nota do exame escrito de segunda época (E2e); nesta hipótese o aluno só terá aprovado se obtiver nota igual ou superior a quatro (4), tanto no exame escrito de segunda época (E<sub>2</sub>e), quanto em a nota final (Nf<sub>3</sub>).
 
-§ 4º No caso da letra <em>d</em> do Art. 88, a nota final (Nf<sub>4</sub>) será a média aritmética entre as notas dos exames escrito e oral de segunda época (E<sub>2</sub>e e E<sub>2</sub>o); nesta hipótese só será aprovado o aluno que obtiver nota igual ou superior a quatro (4), tanto no exame escrito de segunda época (E<sub>2</sub>e), quanto em a nota final (Nf<sub>4</sub>), desde que no exame oral não tire zero (0)”.
+§ 4º No caso da letra *d* do Art. 88, a nota final (Nf<sub>4</sub>) será a média aritmética entre as notas dos exames escrito e oral de segunda época (E<sub>2</sub>e e E<sub>2</sub>o); nesta hipótese só será aprovado o aluno que obtiver nota igual ou superior a quatro (4), tanto no exame escrito de segunda época (E<sub>2</sub>e), quanto em a nota final (Nf<sub>4</sub>), desde que no exame oral não tire zero (0)”.
 
 “Art. 90. Terá acesso ao ano seguinte ao em que estiver matriculado, ou, se fôr do terceiro ano, concluirá o Curso das Escolas Preparatórias, o aluno aprovado em tôdas as matérias, na forma do que dispõe o artigo anterior.
 
@@ -498,7 +496,7 @@ c) ao mais velho.
 
 Parágrafo único. Caso persista o empate proceder-se-á a sorteio”.
 
-“Art. 95. Os alunos que terminarem o curso e não incidirem na letra <em>d</em> do art. 65, terão suas matrículas asseguradas na AMAN, se pela classificação intelectual estiverem compreendidos dentro da percentagem de vagas anualmente fixada para os candidatos oriundos das Escolas Preparatórias, e satisfizerem as condições dos exames médico e físico.
+“Art. 95. Os alunos que terminarem o curso e não incidirem na letra *d* do art. 65, terão suas matrículas asseguradas na AMAN, se pela classificação intelectual estiverem compreendidos dentro da percentagem de vagas anualmente fixada para os candidatos oriundos das Escolas Preparatórias, e satisfizerem as condições dos exames médico e físico.
 
 § 1º Os que excederem aquela percentagem poderão concorrer às vagas a serem preenchidas mediante concurso de admissão.
 
@@ -526,9 +524,9 @@ d) obtiver nota inferior a quarenta (40) em qualquer matéria”.
 
 “Art. 118. A nota de aprovação será expressa pelo número de pontos obtidos nas diferentes provas”.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Disposições Transitórias</em>
+*Disposições Transitórias*
 
 “Art. 127. Os alunos recém-matriculados no 1º ano, bem como os repetentes dêsse ano, se houver, terão o curso regulado pelo que dispõe o presente Decreto.
 
@@ -538,4 +536,4 @@ d) obtiver nota inferior a quarenta (40) em qualquer matéria”.
 
 Rio de Janeiro, 8 de maio de 1957.
 
-<strong>HENRIQUE LOTT</strong>
+**HENRIQUE LOTT**

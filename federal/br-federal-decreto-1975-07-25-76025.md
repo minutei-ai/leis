@@ -1,5 +1,3 @@
-###DEC-076025-0-000-25-07-1975@@@
-
 DECRETO Nº 76.025 - DE 25 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Odontologia da Universidade Federal de Sergipe, com sede na cidade de Aracaju, Estado de Sergipe.

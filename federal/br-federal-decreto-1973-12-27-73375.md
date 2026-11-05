@@ -1,5 +1,3 @@
-###DEC-073375-0-000-27-12-1973@@@
-
 DECRETO Nº 73.375 - DE 27 DE DEZEMBRO DE 1973
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Macaé, com os cursos de Letras e Pedagogia, mantida pela Fundação Educacional Luiz Reid, com sede na cidade de Macaé, Estado do Rio de Janeiro.

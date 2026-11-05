@@ -1,5 +1,3 @@
-###DEL-007312-0-000-08-02-1945@@@
-
 DECRETO-LEI N. 7.312 – DE 8 DE FEVEREIRO DE 1945
 
 Transfere ao Estado da Paraíba do Norte o imóvel, móveis e semoventes, pertencentes à Fazenda de Sementes de Pendência, sediada no município de Joazeiro, no mesmo Estado

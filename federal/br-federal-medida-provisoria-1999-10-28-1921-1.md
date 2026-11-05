@@ -1,5 +1,3 @@
-###MPV-001921-0-001-28-10-1999@@@
-
 medida provisória nº 1.921-1, de 28 de outubro de 1999.
 
 Altera dispositivos da Lei nº 9.365, de 16 de dezembro de 1996, que institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador e do Fundo da Marinha Mercante.

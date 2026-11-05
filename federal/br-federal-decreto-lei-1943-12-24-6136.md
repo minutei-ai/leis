@@ -1,5 +1,3 @@
-###DEL-006136-0-000-24-12-1943@@@
-
 DECRETO‑LEI N. 6.136 – DE 24 DE DEZEMBRO DE 1943
 
 Autoriza o Instituto de Aposentadoria e Pensões dos Bancários a assumir a obrigação de manter aposentados e pensionistas de Bancos mandados liquidar pelo Govêrno.

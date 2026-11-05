@@ -1,5 +1,3 @@
-###DEC-064678-0-000-11-06-1969@@@
-
 DECRETO Nº 64.678, DE 11 DE JUNHO DE 1969.
 
 Acrescenta no § 2º do Artigo 1º do Decreto nº 38.671, de 26 de janeiro de 1956, o Curso de Formação de Sargentos de Infantaria da Escola de Sargentos das Armas.

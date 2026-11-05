@@ -1,5 +1,3 @@
-###DEC-079593-0-000-26-04-1977@@@
-
 Decreto nº 79.593, de 26 de abril de 1977.
 
 Concede à Indústria de Cimento e Cal Sete Lagoas Ltda. o direito de lavrar calcário no Município de Sete Lagoas, Estado de Minas Gerais.

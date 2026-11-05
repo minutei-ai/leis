@@ -1,5 +1,3 @@
-###DEC-098553-0-000-14-12-1989@@@
-
 DECRETO Nº 98.553, DE 14 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade Anhembi-Morumbi.

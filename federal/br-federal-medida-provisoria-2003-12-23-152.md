@@ -1,5 +1,3 @@
-###MPV-000152-0-000-23-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 152, DE 23 DE DEZEMBRO 2003.
 
 Altera o art. 47 da Lei nº 9.636, de 15 de maio de 1998.

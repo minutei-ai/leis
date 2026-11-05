@@ -1,5 +1,3 @@
-###DEC-072283-0-000-18-05-1973@@@
-
 DECRETO Nº 72.283, DE 18 DE MAIO DE 1973.
 
 Torna sem efeito aproveitamento de disponível no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro, e dá outra providências.

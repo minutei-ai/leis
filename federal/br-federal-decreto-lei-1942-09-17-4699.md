@@ -1,5 +1,3 @@
-###DEL-004699-0-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.699 – DE 17 DE SETEMBRO DE 1942
 
 Dispõe sobre funções gratificadas no Ministério da Fazenda e abre ao mesmo Ministério o crédito suplementar de 8:400$0, à verba que especifica

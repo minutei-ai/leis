@@ -1,5 +1,3 @@
-###DEC-045710-0-000-06-04-1959@@@
-
 DECRETO Nº 45.710, DE 6 DE ABRIL DE 1959.
 
 Autoriza a Companhia Vidraria Santa Marina a lavrar calcário dolomítico no município de São Roque, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-047519-0-000-28-12-1959@@@
-
 DECRETO Nº 47.519, DE 28 DE dezembro DE 1959.
 
 Concede à Mineração Itajubatiba Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098441-0-000-24-11-1989@@@
-
 DECRETO Nº 98.441, DE 24 DE NOVEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão administrativa e/ou de passagem, em favor do Departamento Nacional de Obras de Saneamento - DNOS, os imóveis constituídos de terras e benfeitorias que menciona.

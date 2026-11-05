@@ -1,5 +1,3 @@
-###DEC-053256-0-000-13-12-1963@@@
-
 Decreto Nº 53.256, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Enrico Guarneri a pesquisar Diorito, Gabro e Granito, no Estado da Guanabara.

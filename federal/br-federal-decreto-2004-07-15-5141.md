@@ -1,5 +1,3 @@
-###DEC-005141-0-000-15-07-2004@@@
-
 DECRETO Nº 5.141, DE 15 DE JULHO DE 2004.
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia para a Construção de uma Ponte sobre o Rio Acre, nas Proximidades das Cidades de Brasiléia e Cobija, assinado em Brasília, em 28 de abril de 2003.
@@ -26,10 +24,14 @@ LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA<br>
-DO BRASIL E O GOVERNO DA REPÚBLICA DA BOLÍVIA<br>
-PARA A CONSTRUÇÃO DE UMA PONTE SOBRE O RIO<br>
-ACRE, NAS PROXIMIDADES DAS CIDADES DE<br>
+# ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA
+
+DO BRASIL E O GOVERNO DA REPÚBLICA DA BOLÍVIA
+
+PARA A CONSTRUÇÃO DE UMA PONTE SOBRE O RIO
+
+ACRE, NAS PROXIMIDADES DAS CIDADES DE
+
 BRASILÉIA E COBIJA
 
          O Governo da República Federativa do Brasil

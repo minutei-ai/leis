@@ -1,5 +1,3 @@
-###DEC-049955-0-000-17-01-1961@@@
-
 DECRETO Nº 49.955, DE 17 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro João Di Monaco Filho a pesquisar areia quartzosa no município de Peruibe, Estado de São Paulo.

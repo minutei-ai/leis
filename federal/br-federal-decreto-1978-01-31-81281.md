@@ -1,5 +1,3 @@
-###DEC-081281-0-000-31-01-1978@@@
-
 Decreto nº 81.281, de 31 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Ciências Biológicas de Araras, com sede na cidade de Araras, Estado de são Paulo.

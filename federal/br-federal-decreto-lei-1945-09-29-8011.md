@@ -1,5 +1,3 @@
-###DEL-008011-0-000-29-09-1945@@@
-
 DECRETO-LEI N. 8.011 – DE 29 DE SETEMBRO DE 1945
 
 Estende às cooperativas dos produtores de lã os favores previstos no Decreto-lei nº 7.002, de 30 de outubro de 1944

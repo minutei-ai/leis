@@ -1,5 +1,3 @@
-###DEC-050886-0-000-30-06-1961@@@
-
 DECRETO Nº 50.886, DE 30 DE JUNHO DE 1961.
 
 Modifica o texto do art. 421, parágrafo 1º e parágrafo 2º, do Decreto nº 48.959-“A”, de 19-9-1960, que aprovou o Regulamento Geral da Previdência Social.

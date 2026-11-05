@@ -1,5 +1,3 @@
-###DEC-096838-0-000-28-09-1988@@@
-
 DECRETO Nº 96.838, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada a EMISSORAS SANTA CRUZ S.A. - RÁDIO E TELEVISÃO, para explorar serviço de radiodifusão sonora em onda média, na Cidade de Pará de Minas, Estado de Minas Gerais.

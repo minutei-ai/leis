@@ -1,6 +1,10 @@
 > **LEI Nº 3.132, DE 01 DE JUNHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui no calendário oficial do Estado, o dia 22 de julho como o Dia da Paz e da Conciliação.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui no calendário oficial do Estado, o dia 22 de julho como o Dia da Paz e da Conciliação.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

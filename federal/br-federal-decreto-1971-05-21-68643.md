@@ -1,5 +1,3 @@
-###DEC-068643-0-000-21-05-1971@@@
-
 Decreto nº 68.643 - de 21 de maio de 1971.
 
 Declara de utilidade pública a Associação Hospital de Caridade de Paraguaçu Paulista, com sede em Paraguaçu Paulista, Estado de São Paulo.

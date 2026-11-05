@@ -1,5 +1,3 @@
-###DEC-071907-0-000-14-03-1973@@@
-
 DECRETO Nº 71.907, DE 14 DE MARÇO DE 1973.
 
 Concede a QUIMINA - Química Industrial e Agrícola Ltda. o direito de lavrar caulim no Município de Embu-Guaçu, Estado de São Paulo.

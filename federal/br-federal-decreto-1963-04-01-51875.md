@@ -1,5 +1,3 @@
-###DEC-051875-0-000-01-04-1963@@@
-
 DECRETO Nº 51.875, DE 1 DE ABRIL DE 1963.
 
 Dispensa temporariamente, exigência do Regulamento de Promoções para Oficiais da Marinha.

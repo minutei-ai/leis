@@ -1,5 +1,3 @@
-###MPV-001580-0-000-23-07-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.580, DE 23 DE JULHO DE 1997
 
 Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS a adquirir o controle acionário da Companhia Energética de Alagoas - CEAL, para efeito de sua inclusão no Programa Nacional de Desestatização - PND.

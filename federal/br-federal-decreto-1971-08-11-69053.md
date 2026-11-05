@@ -1,5 +1,3 @@
-###DEC-069053-0-000-11-08-1971@@@
-
 DECRETO Nº 69.053, DE 11 DE AGOSTO DE 1971.
 
 Fixa normas para a participação de estudantes em congressos científicos ou competições artísticas ou desportivas de âmbito nacional ou internacional, bem como delega competência ao Ministro de Estado da Educação e Cultura para a regulamentação dos casos concretos.

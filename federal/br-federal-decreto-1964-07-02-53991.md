@@ -1,5 +1,3 @@
-###DEC-053991-0-000-02-07-1964@@@
-
 DECRETO Nº 53.991, DE 2 DE JULHO DE 1964.
 
 Dá nova redação aos artigos 89 e respectivos parágrafos, 90 e 91 do Regulamento do Ministério da Agricultura.

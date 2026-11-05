@@ -1,5 +1,3 @@
-###DEC-056513-0-000-28-06-1965@@@
-
 DECRETO Nº 56.513, DE 28 DE JUNHO DE 1965.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$5.000.000.000, destinado a continuação das obras da Rodovia Belém-Brasília (BR-14).

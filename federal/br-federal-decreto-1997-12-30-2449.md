@@ -1,5 +1,3 @@
-###DEC-002449-0-000-30-12-1997@@@
-
 DECRETO Nº 2.449, DE 30 DE DEZEMBRO DE 1997
 
 Altera a redação do art. 1º do Decreto nº 2.388, de 17 de novembro de 1997, que dispõe sobre a aplicação, no exercício de 1997, do art. 11 do Decreto nº 825, de 28 de maio de 1993, que estabelece normas para a programação financeira dos Orçamentos Fiscal e da Seguridade Social e aprova quadros de cotas trimestrais de despesa para o Poder Executivo.

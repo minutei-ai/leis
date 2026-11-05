@@ -1,5 +1,3 @@
-###DEC-096179-0-000-20-06-1988@@@
-
 DECRETO N° 96.179, DE 20 DE JUNHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, áreas contíguas de terra necessárias à implantação da subestação Ibaté, da Companhia Paulista de Força e Luz -  CPFL, no Estado de São Paulo.

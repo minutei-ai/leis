@@ -1,5 +1,3 @@
-###DEC-093626-0-000-26-11-1986@@@
-
 DECRETO Nº 93.626, DE 26 DE NOVEMBRO DE 1986
 
 Autoriza a empresa MEIAS LUPO S/A, com sede no Município de Araraquara, Estado de São Paulo, a utilizar o trabalho noturno da mulher maior de dezoito anos, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-051871-0-000-28-03-1963@@@
-
 decreto nº 51.871, de 28 de março de 1963.
 
 Aprova o Regimento da Comissão de Planejamento da Política Agrícola (CPPA), criada pela Lei Delegada nº 9, de 11 de outubro de 1962.

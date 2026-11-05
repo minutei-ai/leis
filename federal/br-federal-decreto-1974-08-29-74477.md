@@ -1,5 +1,3 @@
-###DEC-074477-0-000-29-08-1974@@@
-
 DECRETO Nº 74.477 - DE 29 DE AGOSTO DE 1974.
 
 Altera os limites das Reservas Indígena KAYABI e APIAKA, criadas pelo Decreto nº 63.368, de 08 outubro de 1968.

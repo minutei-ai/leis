@@ -1,5 +1,3 @@
-###DEC-081411-0-000-28-02-1978@@@
-
 Decreto nº 81.411 de 28 de fevereiro de 1978.
 
 Concede reconhecimento à habilitação em Farmácia, Bioquímica, do curso de Farmácia da Universidade Federal de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

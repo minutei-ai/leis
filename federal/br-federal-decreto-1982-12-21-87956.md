@@ -1,5 +1,3 @@
-###DEC-087956-0-000-21-12-1982@@@
-
 DECRETO Nº 87.956, dE 21 DE DEZEMBRO DE 1982.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

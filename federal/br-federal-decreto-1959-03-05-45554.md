@@ -1,32 +1,30 @@
-###DEC-045554-0-000-05-03-1959@@@
+**DECRETO Nº 45.554, DE 5 DE MARÇO DE 1959.**
 
-<strong>DECRETO Nº 45.554, DE 5 DE MARÇO DE 1959.</strong>
+***Aprova o Regimento da Penitenciária**Professor Lemos Brito e dá outras providências.***
 
-<em><strong>Aprova o Regimento da Penitenciária</strong></em> <em><strong>Professor Lemos Brito e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Penitenciária Professor Lemos Brito, do Ministério da Justiça e Negócios Interiores, que com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Penitenciária Professor Lemos Brito, do Ministério da Justiça e Negócios Interiores, que com êste baixa.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 5 de março de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Cyrillo Júnior
 
-<strong>REGIMENTO DA PENITENCIÁRIA PROFESSOR LEMOS BRITO</strong>
+**REGIMENTO DA PENITENCIÁRIA PROFESSOR LEMOS BRITO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Penitenciária Professor Lemos Brito (P.P.L.B.), criada pela Carta Régia de 8 de julho de 1769, órgão integrante do Ministério da Justiça e Negócios Interiores, diretamente subordinada ao respectivo Ministro de Estado, tem por finalidade:
+**Art**. 1º A Penitenciária Professor Lemos Brito (P.P.L.B.), criada pela Carta Régia de 8 de julho de 1769, órgão integrante do Ministério da Justiça e Negócios Interiores, diretamente subordinada ao respectivo Ministro de Estado, tem por finalidade:
 
 I - Recolher sentenciados de ambos os sexos para cumprimento das penas de detenção e reclusão;
 
@@ -38,11 +36,11 @@ III - recolher presos, preventiva ou provisòriamente, e condenados a penas priv
 
 § 2º Enquanto não existir estabelecimento adequado, a pena de prisão simples será cumprida em seção especial da P.P.L.B.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A P.P.L.B. constitui-se dos seguintes órgãos:
+**Art**. 2º A P.P.L.B. constitui-se dos seguintes órgãos:
 
 Serviço de Disciplina e Contrôle (S.D.C.).
 
@@ -56,7 +54,7 @@ Serviço Agro-Industrial (S.A.I.).
 
 Penitenciária de Mulheres (Pn. M.).
 
-<strong>Art</strong>. 3º O Serviço de Disciplina e Contrôle (S.D.C.) é constituído de:
+**Art**. 3º O Serviço de Disciplina e Contrôle (S.D.C.) é constituído de:
 
 Seção de Disciplina e Contrôle (S.D.C.-1);
 
@@ -64,7 +62,7 @@ Portaria
 
 Seção de Registro e Contrôle (S.D.C.-2).
 
-<strong>Art</strong>. 4º O Serviço de Recuperação Social (S.R.S.) é constituído de :
+**Art**. 4º O Serviço de Recuperação Social (S.R.S.) é constituído de :
 
 Seção de Biotipologia e Psicotecnia (S.R.S.-1);
 
@@ -82,7 +80,7 @@ Seção Industrial (S.R.S.-5).
 
 Turma Industrial de Bangu (T.I.B.).
 
-<strong>Art</strong>. 5º O Serviço de Saúde (S.S.) é constituído de:
+**Art**. 5º O Serviço de Saúde (S.S.) é constituído de:
 
 Hospital Penitenciário (S.S.-1);
 
@@ -98,7 +96,7 @@ b) Secretaria (Sec.).
 
 Secretaria (SS-4).
 
-<strong>Art</strong>. 6º O Serviço de Administração (S.A.) é constituído de:
+**Art**. 6º O Serviço de Administração (S.A.) é constituído de:
 
 Seção Administrativa (S.A.-1)
 
@@ -124,7 +122,7 @@ e) Turma de Transporte (T.T.).
 
 Almoxarifado (S.A.-3).
 
-<strong>Art</strong>. 7º O Serviço Agro-Industrial (S.A.I.) é constituído de:
+**Art**. 7º O Serviço Agro-Industrial (S.A.I.) é constituído de:
 
 Seção Penitenciária (S.A.I.-1);
 
@@ -146,7 +144,7 @@ c) Turma de Limpeza e Reparos (T.L.R.).
 
 Turma de Administração (S.A.I.-3).
 
-<strong>Art</strong>. 8º A Penitenciária de Mulheres (Pn. M.), é constituída de:
+**Art**. 8º A Penitenciária de Mulheres (Pn. M.), é constituída de:
 
 Seção Penitenciária (Pn. M. -1);
 
@@ -158,25 +156,25 @@ c) Turma de Ensino e Recreação (T.E.R.).
 
 Turma de Administração (Pn. M.-2).
 
-<strong>Art</strong>. 9º A P.P.L.B. será dirigida por um Diretor, nomeado em comissão pelo Presidente da República.
+**Art**. 9º A P.P.L.B. será dirigida por um Diretor, nomeado em comissão pelo Presidente da República.
 
 Parágrafo único. O Diretor terá um Secretário e dois Assistentes.
 
-<strong>Art</strong>. 10. As Turmas terão Encarregados e os demais órgãos da P. P. L. B. terão Chefes.
+**Art**. 10. As Turmas terão Encarregados e os demais órgãos da P. P. L. B. terão Chefes.
 
-<strong>Art</strong>. 11. As S.R.S.-1 e S. Ps. serão chefiadas por especialistas.
+**Art**. 11. As S.R.S.-1 e S. Ps. serão chefiadas por especialistas.
 
-<strong>Art</strong>. 12. A Pn. M. será chefiada, de preferência por pessoa do sexo feminino.
+**Art**. 12. A Pn. M. será chefiada, de preferência por pessoa do sexo feminino.
 
-<strong>Art</strong>. 13. Os órgãos que compõem a P.P.L.B. funcionarão coordenadamente, em regime de colaboração, sob a orientação do Diretor.
+**Art**. 13. Os órgãos que compõem a P.P.L.B. funcionarão coordenadamente, em regime de colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS DO S.D.C.</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS DO S.D.C.*
 
-<strong>Art</strong>. 14. Ao S.D.C. compete executar tôdas as atividades relativas à segurança das prisões, à disciplina dos internos e à matrícula, registro e contrôle da vida jurídica e carcerária dos internos.
+**Art**. 14. Ao S.D.C. compete executar tôdas as atividades relativas à segurança das prisões, à disciplina dos internos e à matrícula, registro e contrôle da vida jurídica e carcerária dos internos.
 
-<strong>Art</strong>. 15. À S.D.C.-1 compete:
+**Art**. 15. À S.D.C.-1 compete:
 
 I - executar o regime disciplinar;
 
@@ -226,7 +224,7 @@ I - matricular os sentenciados e remetendo ao Chefe da S. D. C.-1 os que forem p
 
 V - registrar, em livro apropriado, o nome e enderêço dos visitantes dos presos e encaminhá-los aos locais de visitas.
 
-<strong>Art</strong>. 16. Compete à S. D. C.-2:
+**Art**. 16. Compete à S. D. C.-2:
 
 I - matricular os sentenciados e os que forem presos preventiva ou provisòriamente;
 
@@ -258,17 +256,17 @@ XIV - manter os serviços referentes aos liberados condicionais.
 
 DO S.R.S.
 
-<strong>Art</strong>. 17. Ao S.R.S. compete as atividades relativas à classificação e orientação dos sentenciados e presos para efeito de tratamento penitenciário compatível com a sua personalidade.
+**Art**. 17. Ao S.R.S. compete as atividades relativas à classificação e orientação dos sentenciados e presos para efeito de tratamento penitenciário compatível com a sua personalidade.
 
 Parágrafo único - A classificação final do sentenciado, para efeito de tratamento penitenciário adequado à sua personalidade, será feito por uma comissão interna de classificação, constituída dos chefes do S.S., S.D.C., S.R.S. e dos chefes de seções de Assistência Social, Educação, e Recreação e Jurídica, sob a presidência do Diretor da P.P.L.B.
 
-<strong>Art</strong>. 18. À S.R.S.-1 compete:
+**Art**. 18. À S.R.S.-1 compete:
 
 I - realizar exames necessários à caracterização da individualidade e personalidade de cada sentenciado ou prêso e, bem assim, do seu biotipo para fins de tratamento penitenciário;
 
 II - propor o tipo de trabalho mais adequado a cada sentenciado ou prêso, tendo em vista os exames efetuados pelo S.S. e segundo os preceitos da psicotécnica e objetivo corretivo e educacional do mesmo.
 
-<strong>Art</strong>. 19. À S.R.S.-2 compete:
+**Art**. 19. À S.R.S.-2 compete:
 
 I - prestar assistência jurídica aos sentenciados e presos, examinando-lhes a situação em face de direitos e benefícios legais e regulamentares;
 
@@ -282,7 +280,7 @@ V - comunicar ao chefe do S.R.E., para as providências cabíveis, as irregulari
 
 Parágrafo único - À Turma de Assistência Jurídica do Bangu (T.A.J.) compete executar no S.A.I., na Pn. M. e no Sn. P. as tarefas que lhe forem atribuídas pelo Chefe da S.R.S.-2.
 
-<strong>Art</strong>. 20. À S.R.S.-3 compete:
+**Art**. 20. À S.R.S.-3 compete:
 
 I - estudar e diagnosticar os casos sociais relativos às famílias dos sentenciados presos, realizando, para êsse fim, quando houver autorização do interessado, as visitas domiciliares necessárias;
 
@@ -304,7 +302,7 @@ IX - manter a cantina com estoque de objetos de toucador, cigarros e artigos sem
 
 Parágrafo único - À Turma de Assistência Social de Bangu (T.A.S.) compete executar no S.A.I., na Pn. M. e no Sn. P. as tarefas que lhe forem atribuídas pelo chefe da S.R.S.-3.
 
-<strong>Art</strong>. 21. À S.R.S.-4 compete:
+**Art**. 21. À S.R.S.-4 compete:
 
 I - organizar as classes escolares de ensino primário e, com aprovação do Diretor, nelas matricular os sentenciados ou presos;
 
@@ -326,7 +324,7 @@ IX - organizar e periòdicamente rever a classificação dos sentenciados e pres
 
 X - censurar livros, revistas, jornais e quaisquer outras publicações, cujo conteúdo atentem contra a formação moral, cívica e intelectual do prêso ou sentenciado.
 
-<strong>Art</strong>. 22. À S.R.S.-5 compete:
+**Art**. 22. À S.R.S.-5 compete:
 
 I - superintender o trabalho das oficinas do Estabelecimento Central e dos setores de Bangu;
 
@@ -354,9 +352,9 @@ Parágrafo único - À Turma Industrial Bangu compete exercer no âmbito da Pn.M
 
 DO S.S.
 
-<strong>Art</strong>. 23. Ao S.S., compete o desempenho das atividades relativas à saúde dos sentenciados e presos, à higiene do trabalho penitenciário e à salubridade da PPLB.
+**Art**. 23. Ao S.S., compete o desempenho das atividades relativas à saúde dos sentenciados e presos, à higiene do trabalho penitenciário e à salubridade da PPLB.
 
-<strong>Art</strong>. 24 - Ao S. A.-1 compete:
+**Art**. 24 - Ao S. A.-1 compete:
 
 I - proceder ao exame médico e ondontológico dos sentenciados e presos;
 
@@ -402,13 +400,13 @@ III - indicar, em face de perícia médica, os sentenciados e presos que devam s
 
 IV - estabelecer regras de higiene mental para os fronteiriços de psicopatias, os antigos alcoólatras e os portadores de perversões.
 
-<strong>Art</strong>. 25 - À S. S.-2 compete exercer, no âmbito do S. A. I., da Pn. M. e do Sn. P., as atribuições correspondentes às mencionadas no Art. 24.
+**Art**. 25 - À S. S.-2 compete exercer, no âmbito do S. A. I., da Pn. M. e do Sn. P., as atribuições correspondentes às mencionadas no Art. 24.
 
-<strong>Art</strong>. 26 - Ao S. S.-3, que compreende dependências para homens e dependências para mulheres, compete internar e tratar os sentenciados e presos da P.P.L.B., os das colônias penais situadas na Ilha Grande, bem como os presos do Presídio do Distrito Federal, quando acometidos de tuberculose.
+**Art**. 26 - Ao S. S.-3, que compreende dependências para homens e dependências para mulheres, compete internar e tratar os sentenciados e presos da P.P.L.B., os das colônias penais situadas na Ilha Grande, bem como os presos do Presídio do Distrito Federal, quando acometidos de tuberculose.
 
 Parágrafo único. A transferência para o S.S.-3, far-se-á à vista de laudo do médico da prisão a que estiver recolhido o internado, quando confirmado êsse laudo pelos exames de laboratório e Raios X, realizados pelos órgãos especializados da S.S.
 
-<strong>Art</strong>. 27. À S.P. compete, no âmbito do S.S.-3, exercer as atribuições a que se referem os arts. 45, 46 e 47 e ainda:
+**Art**. 27. À S.P. compete, no âmbito do S.S.-3, exercer as atribuições a que se referem os arts. 45, 46 e 47 e ainda:
 
 I - fazer recolher à T.E.I., devidamente relacionados os objetos e vestes arrecadados aos presos e sentenciados;
 
@@ -416,7 +414,7 @@ II - velar pela higiene pessoal dos sentenciados e presos, atendendo às recomen
 
 III - remeter à S.D.C.-2, semanalmente, uma relação nominal dos sentenciados e presos punidos pelo Chefe da Seção e pelo Chefe do Sn. P. com especificação das penalidades impostas a cada um e respectivas causas.
 
-<strong>Art</strong>. 28. À Secretaria do Sn.P. compete:
+**Art**. 28. À Secretaria do Sn.P. compete:
 
 I - executar as atividades de administração geral;
 
@@ -434,7 +432,7 @@ VII - dirigir os serviços de limpeza nas dependências do S.S.-3;
 
 VIII - dirigir os serviços de rouparia em tôdas as dependências do S.S.-3.
 
-<strong>Art</strong>. 29. À Secretaria do S.S.-4 compete:
+**Art**. 29. À Secretaria do S.S.-4 compete:
 
 I - executar as atividades relativas à Administração geral;
 
@@ -458,11 +456,11 @@ X - fornecer à S. Ad. dados estatísticos relativos às atividades do S.S.
 
 DO S.A.
 
-<strong>Art</strong>. 30. Ao S.A. compete promover as medidas necessárias à execução das atividades de administração geral às de economia interna observando relação àquelas as normas e métodos de trabalhos prescritos pelo Departamento de Administração do Ministério.
+**Art**. 30. Ao S.A. compete promover as medidas necessárias à execução das atividades de administração geral às de economia interna observando relação àquelas as normas e métodos de trabalhos prescritos pelo Departamento de Administração do Ministério.
 
-<strong>Art</strong>. 31. À Seção Administrativa S.A.-1 compete promover as medidas preliminares de administração de pessoal, material, orçamento e comunicações em consonância com as normas e métodos de trabalho observados pelo Departamento de Administração do Ministério.
+**Art**. 31. À Seção Administrativa S.A.-1 compete promover as medidas preliminares de administração de pessoal, material, orçamento e comunicações em consonância com as normas e métodos de trabalho observados pelo Departamento de Administração do Ministério.
 
-<strong>Art</strong>. 32. À Turma de Pessoal compete:
+**Art**. 32. À Turma de Pessoal compete:
 
 I - aplicar, na P.P.L.B., a legislação de pessoal referente a direitos, vantagens, deveres, responsabilidades e ação disciplinar e, conforme caso, orientar e fiscalizar a aplicação dessa legislação;
 
@@ -472,7 +470,7 @@ III - Providenciar para que os assentamentos individuais dos servidores da P.P.L
 
 IV - remeter à Divisão de Pessoal do Departamento de Administração do Ministério os boletins de freqüência.
 
-<strong>Art</strong>. 33. À Turma de Material compete:
+**Art**. 33. À Turma de Material compete:
 
 I - extrair as guias de recolhimento relativas às encomendas executadas pela S.R.S.-5 e às vendas realizadas pela cantina da S.R.S.-3 e remeter a terceira via das mesmas à Divisão do Orçamento do Departamento de Administração do Ministério, na forma da lei;
 
@@ -500,7 +498,7 @@ XII - controlar o recebimento de artigos requisitados ao almoxarifado pelos órg
 
 XIII - comunicar à Divisão do Material do Departamento de Administração do Ministério, por intermédio da S.A.-1 tôdas as baixas, de material, qualquer que seja a causa.
 
-<strong>Art</strong>. 34. À turma de Contabilidade compete:
+**Art**. 34. À turma de Contabilidade compete:
 
 I - escriturar a receita e a despesa da P.P.L.B., observando a legislação em vigor e as instruções das Divisões do Departamento de Administração do Ministério;
 
@@ -512,11 +510,11 @@ IV - escriturar o pecúlio dos presos e sentenciados e fornecer-lhes semestralme
 
 V - examinar prèviamente à autorização do Diretor os orçamentos elaborados pela Seção Industrial, referentes às encomendas que devam ser executadas pelas Oficinas.
 
-<strong>Art</strong>. 35. À Turma de Comunicações e Arquivo compete receber, registrar, distribuir, expedir e arquivar a correspondência e demais documentos da P.P.L.B.
+**Art**. 35. À Turma de Comunicações e Arquivo compete receber, registrar, distribuir, expedir e arquivar a correspondência e demais documentos da P.P.L.B.
 
-<strong>Art</strong>. 36. À S.A.-2 compete a execução dos serviços de cozinha, refeitório, rouparia, lavanderia, limpeza, eletricidade, reparos, jardinagem e transportes, cumprindo-lhe remeter mensalmente à Divisão do Material do Departamento de Administração do Ministério, por intermédio do S.A., em mapas de entrada e consumo de gêneros, de acôrdo com os modelos aprovados por aquela Divisão.
+**Art**. 36. À S.A.-2 compete a execução dos serviços de cozinha, refeitório, rouparia, lavanderia, limpeza, eletricidade, reparos, jardinagem e transportes, cumprindo-lhe remeter mensalmente à Divisão do Material do Departamento de Administração do Ministério, por intermédio do S.A., em mapas de entrada e consumo de gêneros, de acôrdo com os modelos aprovados por aquela Divisão.
 
-<strong>Art</strong>. 37. À T.A.C. compete:
+**Art**. 37. À T.A.C. compete:
 
 I - pesar, medir ou contar os gêneros alimentícios entregues pelo S.A.-3 e verificar se estão de acôrdo com o pedido;
 
@@ -530,9 +528,9 @@ V - zelar pela segurança e perfeito funcionamento das instalações e comunicar
 
 VI - manter em estado de perfeito asseio a padaria, suas instalações pertences e utensílios.
 
-<strong>Art</strong>. 38. Compete à T.C.R. distribuir as refeições, manter em estado de perfeito asseio a copa, o refeitório e suas instalações e todo o material de uso.
+**Art**. 38. Compete à T.C.R. distribuir as refeições, manter em estado de perfeito asseio a copa, o refeitório e suas instalações e todo o material de uso.
 
-<strong>Art</strong>. 39. Compete à T.R.L.:
+**Art**. 39. Compete à T.R.L.:
 
 I - guardar as roupas de propriedade pessoal dos presos e sentenciados;
 
@@ -546,13 +544,13 @@ V - marcar e numerar tôda a roupa pelo lado interno;
 
 VI - providenciar a fim de que se encaminhe ao S.A. para a devida baixa, a roupa inutilizada.
 
-<strong>Art</strong>. 40. Compete à T.L.R.:
+**Art**. 40. Compete à T.L.R.:
 
 I - executar os serviços de asseio, higienização em tôdas as dependências da P.P.L.B., exceto na despensa, cozinha, padaria, copa, refeitório e residência de servidores;
 
 II - manter e consertar as instalações elétricas e hidráulicas, zelar pela estação de fôrça e pelo serviço de abastecimento d’água e, bem assim, inspecionar, periòdicamente, motores e aparelhos elétricos instalados na P.P.L.B.
 
-<strong>Art</strong>. 41. Compete à T.T.:
+**Art**. 41. Compete à T.T.:
 
 I - guardar, conservar e promover o reparo dos veículos da P.P.L.B.;
 
@@ -562,7 +560,7 @@ III - controlar a entrada e saída dos veículos e respectivos condutores;
 
 IV - inteirar-se, com antecedência, das necessidades de transportes, a fim de planejar a execução do serviço diário, de maneira que seja obtido o máximo rendimento do material e do pessoal.
 
-<strong>Art</strong>. 42. Compete ao S.A.-3:
+**Art**. 42. Compete ao S.A.-3:
 
 I - receber, conferir, escriturar e conservar o material requisitado pela P.P.L.B. e a ela fornecido;
 
@@ -576,11 +574,11 @@ Parágrafo único. Subordinado ao Almoxarifado e com atribuições idênticas à
 
 DO SERVIÇO AGRO-INDUSTRIAL DE BANGU
 
-<strong>Art</strong>. 43. Ao S A.I. compete recolher os condenados à pena de detenção, reclusão ou prisão simples, neste caso enquanto não houver estabelecimento adequado.
+**Art**. 43. Ao S A.I. compete recolher os condenados à pena de detenção, reclusão ou prisão simples, neste caso enquanto não houver estabelecimento adequado.
 
-<strong>Art</strong>. 44. À S.A.I.-1 compete executar o regime penitenciário na parte concernente ao registro e cadastro, à disciplina, ao ensino e à recreação dos sentenciados.
+**Art**. 44. À S.A.I.-1 compete executar o regime penitenciário na parte concernente ao registro e cadastro, à disciplina, ao ensino e à recreação dos sentenciados.
 
-<strong>Art</strong>. 45. À T.R.C. compete:
+**Art**. 45. À T.R.C. compete:
 
 I - receber os sentenciados transferidos para o S.A.I.;
 
@@ -594,7 +592,7 @@ V - censurar a correspondência dos sentenciados, tanto a expedida como a recebi
 
 VI - encaminhar, diàriamente, ao Chefe do S.A.I.; a matéria que deva constar do Boletim de Serviço da Penitenciária.
 
-<strong>Art</strong>. 46. À T.D. compete:
+**Art**. 46. À T.D. compete:
 
 I - executar o regime disciplinar;
 
@@ -632,7 +630,7 @@ XVII - providenciar o pedido de roupas regulamentares, de cama, banho e vestuár
 
 XVIII - exercer a vigilância geral, diurna e noturna, nas diversas dependências do S.A.I.;
 
-<strong>Art</strong>. 47 - À T.E.R. compete:
+**Art**. 47 - À T.E.R. compete:
 
 I - distribuir os sentenciados pelas diversas classes escolares, na conformidade dos exames realizados pelo S.R.S.;
 
@@ -646,7 +644,7 @@ V - exibir filmes, proporcionar a audição de músicas e manter bibliotecas, se
 
 VI - informar o chefe do estabelecimento sôbre o grau de aproveitamento didático de cada sentenciado.
 
-<strong>Art</strong>. 48. À T.T.Ag. compete:
+**Art**. 48. À T.T.Ag. compete:
 
 I - Superintender os trabalhos agrícolas;
 
@@ -664,15 +662,15 @@ VII - fornecer à Turma de Administração mensalmente, os dados necessários à
 
 VIII - fornecer à S.A.-1, por intermédio do chefe do S.A.I. os elementos para elaboração das guias de recolhimento da renda agrícola.
 
-<strong>Art</strong>. 49. À S.A.I.-2 compete a execução dos serviços de cozinha, refeitório, rouparia, lavanderia, limpeza, jardinagem e transportes, cumprindo-lhe remeter mensalmente à Divisão do Material do Departamento de Administração, por intermédio do S.A., os mapas de entrada e consumo de gêneros.
+**Art**. 49. À S.A.I.-2 compete a execução dos serviços de cozinha, refeitório, rouparia, lavanderia, limpeza, jardinagem e transportes, cumprindo-lhe remeter mensalmente à Divisão do Material do Departamento de Administração, por intermédio do S.A., os mapas de entrada e consumo de gêneros.
 
-<strong>Art</strong>. 50. À T.A.C. compete as atribuições a que se referem os artigos 37 e 38.
+**Art**. 50. À T.A.C. compete as atribuições a que se referem os artigos 37 e 38.
 
-<strong>Art</strong>. 51. À T.R.L. compete as atribuições a que se refere o artigo 39.
+**Art**. 51. À T.R.L. compete as atribuições a que se refere o artigo 39.
 
-<strong>Art</strong>. 52. À T.L.R. compete as atribuições a que se refere o artigo 40.
+**Art**. 52. À T.L.R. compete as atribuições a que se refere o artigo 40.
 
-<strong>Art</strong>. 53. À Turma de Administração S.A.I.-3 compete:
+**Art**. 53. À Turma de Administração S.A.I.-3 compete:
 
 I - controlar o registro de freqüência do pessoal e organizar, mensalmente, o mapa de freqüência dos servidores, remetendo-os à S. Ad.;
 
@@ -690,25 +688,25 @@ VII - encaminhar à S.A.-1 a estatística de suas atividades.
 
 DAS PENITENCIÁRIAS DE MULHERES
 
-<strong>Art</strong>. 54. À Pn.M. compete recolher mulheres condenadas e as prêsas preventivas ou provisòriamente no Distrito Federal.
+**Art**. 54. À Pn.M. compete recolher mulheres condenadas e as prêsas preventivas ou provisòriamente no Distrito Federal.
 
 Parágrafo único. Pn.M. poderão também ser recolhidas a fim de cumprirem pena de reclusão ou detenção, as mulheres condenadas pela Justiça dos Territórios, cabendo a êstes, mediante acôrdo, o pagamento das despesas de transportes e manutenção das mesmas.
 
-<strong>Art</strong>. 55. À Pn.M.-1 compete executar o regime penitenciário, no que respeita ao cadastro, à disciplina, ao trabalho, ensino e recreação das sentenciadas e prêsas.
+**Art**. 55. À Pn.M.-1 compete executar o regime penitenciário, no que respeita ao cadastro, à disciplina, ao trabalho, ensino e recreação das sentenciadas e prêsas.
 
-<strong>Art</strong>. 56. À T.R.C. compete, no âmbito da Pn.M., as atribuições a que se refere o art. 45.
+**Art**. 56. À T.R.C. compete, no âmbito da Pn.M., as atribuições a que se refere o art. 45.
 
-<strong>Art</strong>. 57. À T.D. compete, no âmbito da Pn.M., as atribuições a que se refere o art. 46.
+**Art**. 57. À T.D. compete, no âmbito da Pn.M., as atribuições a que se refere o art. 46.
 
-<strong>Art</strong>. 58. À T.E.R. compete, no âmbito da Pn.M., as atribuições a que se refere o art. 47.
+**Art**. 58. À T.E.R. compete, no âmbito da Pn.M., as atribuições a que se refere o art. 47.
 
-<strong>Art</strong>. 59. À Turma de Administração Pn.M.-2, compete exercer, no âmbito da Pn.M., as atribuições correspondentes às referidas nos arts. 50, 51, 52 e 53 dêste Regimento.
+**Art**. 59. À Turma de Administração Pn.M.-2, compete exercer, no âmbito da Pn.M., as atribuições correspondentes às referidas nos arts. 50, 51, 52 e 53 dêste Regimento.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 60. Ao Diretor incumbe:
+**Art**. 60. Ao Diretor incumbe:
 
 I - despachar com o Ministro de Estado;
 
@@ -768,7 +766,7 @@ XXVIII - comunicar ao Juízo competente os fatos indicativos de periculosidade d
 
 XXIX - informar os pedidos de comutação de pena, indulto e livramento condicional;
 
-XXX - propor <em>ex</em> <em>officio</em>, o livramento condicional nos têrmos do artigo 172, do Código de Processo Penal;
+XXX - propor *exofficio*, o livramento condicional nos têrmos do artigo 172, do Código de Processo Penal;
 
 XXXI - tomar parte nas cerimônias de livramento condicional, nos têrmos do art. 723, nº II, do Código de Processo Penal;
 
@@ -818,7 +816,7 @@ LIII - fazer separar os presos ou sentenciados primários dos reincidentes, obse
 
 LIV - aprovar classificação ou reclassificação dos sentenciados e prêsos segundo seu procedimento e as propostas da Comissão Interna de Classificação.
 
-<strong>Art</strong>. 61. Compete aos Chefes de Serviços e aos Chefes do S.A.I. e da Pn.M.:
+**Art**. 61. Compete aos Chefes de Serviços e aos Chefes do S.A.I. e da Pn.M.:
 
 I - despachar com o Diretor;
 
@@ -850,7 +848,7 @@ XIV - acompanhar o cumprimento dos programas de trabalho por meio de relatórios
 
 XV - propor ao Diretor os servidores que devem exercer funções gratificadas de chefia, bem como os substitutos eventuais dêstes;
 
-<strong>Art</strong>. 62. Aos Assistentes incumbe:
+**Art**. 62. Aos Assistentes incumbe:
 
 I - representar o Diretor, quando para isso forem designados;
 
@@ -860,7 +858,7 @@ III - cooperar no estudo dos assuntos dependentes de deliberação do Diretor.
 
 Parágrafo único - Ao assistente designado para coordenar as atividades dos estabelecimentos sediados em Bangú incumbe agir como substituto do Diretor, no limite da competência que lhe fôr expressamente delegada.
 
-<strong>Art</strong>. 63. Aos Chefes de Seção e aos do S.S.-1, S.S.-2, e das Secretárias incumbe:
+**Art**. 63. Aos Chefes de Seção e aos do S.S.-1, S.S.-2, e das Secretárias incumbe:
 
 I - dirigir o órgão respectivo;
 
@@ -892,11 +890,11 @@ XIV - enviar, mensalmente, à S.R.S. para as anotações devidas, uma apreciaç�
 
 XV - fazer apresentar à S.D-1 ou T.D., no término dos turnos de trabalho, sentenciados e presos em serviço.
 
-<strong>Art</strong>. 64. Aos Encarregados das Turmas incumbe, de acôrdo com a orientação da chefia a que estiverem imediatamente subordinados, dirigir os trabalhos afetos às respectivas Turmas.
+**Art**. 64. Aos Encarregados das Turmas incumbe, de acôrdo com a orientação da chefia a que estiverem imediatamente subordinados, dirigir os trabalhos afetos às respectivas Turmas.
 
-<strong>Art</strong>. 65. Ao Chefe da S. Pq., compete, ainda, em casos de urgência, propor a transferência de sentenciados e presos para o Manicômio Judiciário, nos têrmos do § 1º, do artigo 682, do Código de Processo Penal.
+**Art**. 65. Ao Chefe da S. Pq., compete, ainda, em casos de urgência, propor a transferência de sentenciados e presos para o Manicômio Judiciário, nos têrmos do § 1º, do artigo 682, do Código de Processo Penal.
 
-<strong>Art</strong>. 66. Ao Secretário do Diretor incumbe:
+**Art**. 66. Ao Secretário do Diretor incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste, conhecimento do assunto por tratar;
 
@@ -904,13 +902,13 @@ II - manter atualizado o contrôle dos papéis que forem a despacho pessoal do D
 
 III - redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 67. Aos demais servidores incumbe realizar os trabalhos que lhes forem determinados pelos superiores imediatos.
+**Art**. 67. Aos demais servidores incumbe realizar os trabalhos que lhes forem determinados pelos superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 68. Serão substituídos em suas faltas e impedimentos até 30 dias:
+**Art**. 68. Serão substituídos em suas faltas e impedimentos até 30 dias:
 
 I - O Diretor por um Assistente;
 
@@ -928,20 +926,20 @@ VII - O Chefe do Sn.P. pelo Chefe da S.P.;
 
 VIII - Os chefes da Seção, os de Secretaria e os Encarregados de Turmas serão substituídos pelos servidores prèviamente designados.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 69. O horário de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecidas para o Serviço Público Civil.
+**Art**. 69. O horário de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecidas para o Serviço Público Civil.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 70. O Diretor da P.P.L.B. e os Chefes do S.R.S., do S.A.I., da Pn.M. e do Sn.P. deverão residir junto às sedes dos órgãos que dirigem.
+**Art**. 70. O Diretor da P.P.L.B. e os Chefes do S.R.S., do S.A.I., da Pn.M. e do Sn.P. deverão residir junto às sedes dos órgãos que dirigem.
 
-<strong>Art</strong>. 71. O Diretor da P.P.L.B. poderá instituir centros de estudos e pesquisas relativos a assuntos de interêsse da administração penitenciária, tais como saúde, higiene, ensino, criminologia e ciência penitenciária.
+**Art**. 71. O Diretor da P.P.L.B. poderá instituir centros de estudos e pesquisas relativos a assuntos de interêsse da administração penitenciária, tais como saúde, higiene, ensino, criminologia e ciência penitenciária.
 
 Rio de Janeiro, 5 de março de 1959.
 
-<strong>CYRILLO JUNIOR</strong>
+**CYRILLO JUNIOR**

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/881d46b4-75ec-46bf-8b44-84fd95e0d475/texto#nowhere)
 
-###DEL-000984-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 984, DE 21 DE OUTUBRO DE 1969
 
 Aprova a reforma do ex-cabo Ozeas Raphael Balbino, cujo registro foi negado pelo Tribunal de Contas da União.

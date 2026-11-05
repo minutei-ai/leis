@@ -1,14 +1,12 @@
-###DEC-043833-0-000-06-06-1958@@@
+**DECRETO Nº 43.833, DE 6 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.833, DE 6 DE JUNHO DE 1958.</strong>
+***Dá nova redação ao art. 334 do Regulamento Interno e dos Serviços Gerais (R/1).***
 
-<em><strong>Dá nova redação ao art. 334 do Regulamento Interno e dos Serviços Gerais (R/1).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a ter a seguinte redação o art. 334 do Regulamento Interno e dos Serviços Gerais (R/1), aprovado pelo Decreto nº 42.018 de 9 de agôsto de 1957.
+**Art**. 1º Passa a ter a seguinte redação o art. 334 do Regulamento Interno e dos Serviços Gerais (R/1), aprovado pelo Decreto nº 42.018 de 9 de agôsto de 1957.
 
 “Art. 334. O Ministério da Guerra excepcionalmente e por conveniência do serviço, poderá:
 
@@ -18,10 +16,10 @@
 
 3\) designar Comandante especial para qualquer guarnição”.
 
-<strong>Art</strong>. 2º O presente decreto entra em vigor na data de sua publicação,revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entra em vigor na data de sua publicação,revogadas as disposições em contrário.
 
 Rio de Janeiro, D.F., 6 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

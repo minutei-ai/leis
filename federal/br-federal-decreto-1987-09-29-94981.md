@@ -1,5 +1,3 @@
-###DEC-094981-0-000-29-09-1987@@@
-
 DECRETO Nº 94.981, DE 29 DE SETEMBRO DE 1987
 
 Cria a Comissão de Assessoramento Artístico ao Banco Central do Brasil - COM-ARTE.

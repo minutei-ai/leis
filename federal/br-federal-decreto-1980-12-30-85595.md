@@ -1,5 +1,3 @@
-###DEC-085595-0-000-30-12-1980@@@
-
 Decreto nº 85.595, de 30 de dezembro de 1980
 
 Conceda à COMPANHIA SIDERÚRGICA NACIONAL - CSN, autorização para proceder a aumento do seu capital social.

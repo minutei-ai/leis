@@ -1,5 +1,3 @@
-###DEC-083462-0-000-17-05-1979@@@
-
 decreto nº 83.462, de 17 de maio de 1979.
 
 Autoriza o funcionamento do curso de Administração de Empresas da Faculdade de Ciências da Administração do Limoeiro, com sede na cidade de Limoeiro, Estado do Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-002730-0-000-10-08-1998@@@
-
 DECRETO Nº 2.730, DE 10 DE AGOSTO DE 1998
 
 Dispõe sobre o encaminhamento ao Ministério Público Federal da representação Fiscal para fins penais de que trata o art. 83 da Lei nº 9.430, de 27 de dezembro de 1996.

@@ -1,5 +1,3 @@
-###DEC-091878-0-000-05-11-1985@@@
-
 Decreto nº 91.878, de 05 de novembro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra, com benfeitorias, necessária à implantação da estação transformadora de transmissão Vila Ema da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

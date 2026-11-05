@@ -1,5 +1,3 @@
-###DEC-075609-0-000-15-04-1975@@@
-
 DECRETO Nº 75.609, DE 15 DE ABRIL DE 1975.
 
 Outorga concessão à Sociedade Rádio Ponta Porã., para estabelecer uma estação de radiodifusão sonora em onda tropical, na cidade de Rondonópolis, Estado de Mato Grosso.

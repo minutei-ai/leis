@@ -1,5 +1,3 @@
-###DEC-083454-0-000-14-05-1979@@@
-
 Decreto nº 83.454, de 14 de maio de 1979.
 
 Fixa o fator de reajustamento salarial relativo a maio de 1979.

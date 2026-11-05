@@ -1,7 +1,3 @@
-1
-
-###DEC-001071-0-000-02-03-1994@@@
-
 DECRETO N° 1071, DE 2 DE MARÇO DE 1994
 
 Dispõe sobre o Imposto sobre Operações de Crédito, Câmbio e Seguro e sobre operações relativas a Títulos e Valores Mobiliários - IOF.

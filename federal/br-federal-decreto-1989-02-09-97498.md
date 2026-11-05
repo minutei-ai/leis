@@ -1,5 +1,3 @@
-###DEC-097498-0-000-09-02-1989@@@
-
 DECRETO N° 97.498, DE 9 DE FEVEREIRO DE 1989
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período de l962/80 (Acordo n° 1), subscrito entre o Brasil e a Argentina.

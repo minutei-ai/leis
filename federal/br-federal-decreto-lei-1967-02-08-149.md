@@ -1,5 +1,3 @@
-###DEL-000149-0-000-08-02-1967@@@
-
 DECRETO-LEI Nº 149, DE 8 DE FEVEREIRO De 1967
 
 Aprova o Convênio firmado entre o Govêrno Federal e o Estado da Guanabara para a reinclusão, nos Quadros do Corpo de Bombeiros do Estado da Guanabara, do pessoal do Corpo de Bombeiros do antigo Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-058282-0-000-28-04-1966@@@
-
 DECRETO Nº 58.282, DE 28 DE ABRIL DE 1966.
 
 Transfere à Rio Light S. A. - Serviços de Eletricidade, concessão para distribuir energia elétrica no Município de Rio Claro, no Estado do Rio de Janeiro.

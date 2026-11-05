@@ -1,5 +1,3 @@
-###DEC-047032-0-000-14-10-1959@@@
-
 DECRETO Nº 47.032, DE 14 DE OUTUBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Jaguari concessão para o aproveitamento de energia hidráulica da queda em Furnas do Segredo existente no curso dágua denominado Jaguari, município de Jaguari, Estado do Rio Grande do Sul.

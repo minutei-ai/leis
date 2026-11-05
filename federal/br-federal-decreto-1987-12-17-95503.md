@@ -1,5 +1,3 @@
-###DEC-095503-0-000-17-12-1987@@@
-
 DECRETO Nº 95.503, DE 17 DE DEZEMBRO DE 1987
 
 Autoriza a empresa "CANINHA 51" - INDÚSTRIA E COMÉRCIO DE BEBIDAS LTDA., com sede no Município de Pirassununga, Estado de São Paulo, a utilizar o trabalho noturno de mulher maior de dezoito anos, e dá outras providências.

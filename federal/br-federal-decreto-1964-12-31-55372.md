@@ -1,5 +1,3 @@
-###DEC-055372-0-000-31-12-1964@@@
-
 DECRETO Nº 55.372, DE 31 DE DEZEMBRO DE 1964.
 
 Revoga o Decreto nº 49.876, de 11 de janeiro de 1961.

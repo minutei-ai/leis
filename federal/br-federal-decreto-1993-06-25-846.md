@@ -1,7 +1,3 @@
-1
-
-###DEC-000846-0-000-25-06-1993@@@
-
 DECRETO Nº 846, DE 25 DE JUNHO DE 1993
 
 Regulamenta o Decreto-Lei nº 2.452, de 29 de julho de 1988, com a redação dada pela Lei nº 8.396, de 2 de janeiro de 1992, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação (ZPE), e revoga o Decreto nº 96.758, de 22 de setembro de 1988.
@@ -151,8 +147,6 @@ Alexandre Alves Costa
 Fernando Coutinho Jorge
 
 Alexis Stepanenko
-
-###DEC-000846-0-000-25-06-1993@@@RET01+++
 
 # DECRETO N° 846, DE 26 DE JUNHO DE 1993
 

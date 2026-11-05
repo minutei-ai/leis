@@ -1,5 +1,3 @@
-###DEC-046186-0-000-11-06-1959@@@
-
 Decreto nº 46.186, de 11 de junho de 1959.
 
 Autoriza o “Banco de La Nacion Argentina” a funcionar com uma filial no Brasil, Distrito Federal.

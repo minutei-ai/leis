@@ -1,5 +1,3 @@
-###DEC-086131-0-000-22-06-1981@@@
-
 Decreto nº 86.131, de 22 de junho de 1981.
 
 Autoriza a transferência, para o patrimônio do Instituto Nacional de Colonização e Reforma Agrária-INCRA, do imóvel que menciona, situado no Município de Toledo, Estado do Paraná.

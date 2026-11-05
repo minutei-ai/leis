@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7a5956ca-9422-41ae-be6a-7a487d44f15d/texto#nowhere)
 
-###DEL-000912-0-000-02-10-1969@@@
-
 DECRETO-LEI Nº 912, DE 2 DE OUTUBRO DE 1969
 
 Modifica a redação o artigo 47 e a da alínea a, do inciso XXX do artigo 89 da Lei nº 5.108, de 21 de setembro de 1966, que instituiu o Código Nacional de Trânsito.

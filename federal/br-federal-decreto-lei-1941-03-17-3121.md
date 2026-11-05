@@ -1,5 +1,3 @@
-###DEL-003121-0-000-17-03-1941@@@
-
 DECRETO-LEI N. 3.121 – DE 17 DE MARÇO DE 1941
 
 Concede uma pensão especial à viuva e filhos menores de José Bernardo Bezerra de Menezes assassinado quando no exercício de suas funções

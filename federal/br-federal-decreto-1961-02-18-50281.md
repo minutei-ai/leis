@@ -1,5 +1,3 @@
-###DEC-050281-0-000-18-02-1961@@@
-
 DECRETO Nº 50.281, DE 18 DE FEVEREIRO DE 1961.
 
 Declara de utilidade pública a Fundação Lar do Operário Fluminense, com sede em Niterói, Estado do Rio de Janeiro.

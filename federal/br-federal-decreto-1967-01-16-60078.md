@@ -1,5 +1,3 @@
-###DEC-060078-0-000-16-01-1967@@@
-
 DECRETO Nº 60.078, DE 16 DE JANEIRO DE 1967.
 
 Autoriza o Espólio de José Mário dos Santos Brant, na pessoa de seu inventariante, Maria José dos Santos Brant, a pesquisar quartzo, minério de ouro e diamante, no município de Diamantina, Estado de Minas Gerais.

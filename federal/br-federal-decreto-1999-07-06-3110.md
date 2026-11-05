@@ -1,5 +1,3 @@
-###DEC-003110-0-000-06-07-1999@@@
-
 DECRETO Nº 3.110, DE 6 DE JULHO DE 1999.
 
 Promulga a Resolução 42(3) da Assembléia Geral do Instituto Internacional para a Unificação do Direito Privado (UNIDROIT), adotada em sua 42ª sessão, em 12 de dezembro de 1989, pela qual se introduz emenda ao parágrafo 1º do Artigo VI de seu Estatuto Orgânico.

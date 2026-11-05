@@ -1,5 +1,3 @@
-###DEC-058059-0-000-23-03-1966@@@
-
 Decreto nº 58.059, de 23 de março de 1966.
 
 Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da Terceira Região, o crédito especial de Cr$6.000.000, para o fim que especifica.

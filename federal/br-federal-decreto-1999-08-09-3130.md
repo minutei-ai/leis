@@ -1,5 +1,3 @@
-###DEC-003130-0-000-09-08-1999@@@
-
 DECRETO Nº 3.130, DE 9 DE AGOSTO DE 1999.
 
 Dispõe sobre a composição e o funcionamento do Conselho Deliberativo do Fundo Constitucional de Financiamento do Centro-Oeste.

@@ -1,5 +1,3 @@
-###DEC-045605-0-000-24-03-1959@@@
-
 decreto nº 45.605, de 24 de março de 1959.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral da Paraíba - o crédito especial de Cr$300.000,00, para o fim que especifica.

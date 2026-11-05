@@ -12,11 +12,14 @@ Goiânia, 20 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-BRUNO PEIXOTO<br>
+BRUNO PEIXOTO
+
 Deputado Estadual
 
-CRISTÓVÃO TORMIN<br>
+CRISTÓVÃO TORMIN
+
 Deputado Estadual

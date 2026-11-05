@@ -1,5 +1,3 @@
-###DEC-067473-0-000-03-11-1970@@@
-
 DECRETO Nº 67.473, DE 3 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública a Casa da Criança Santa Elizabeth, com sede em Avaré, Estado de São Paulo.

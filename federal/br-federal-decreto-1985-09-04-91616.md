@@ -1,5 +1,3 @@
-###DEC-091616-0-000-04-09-1985@@@
-
 Decreto nº 91.616, de 04 de setembro de 1985
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, os imóveis rurais denominados Fazenda "Puxim'' e ''Sarampo'', compreendidos nas referidas áreas, no Município de Canavieiras, no Estado da Bahia, e dá outras providências.

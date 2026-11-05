@@ -1,5 +1,3 @@
-###DEC-091881-0-000-05-11-1985@@@
-
 Decreto nº 91.881, de 05 de novembro de 1985
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo - SABESP concessão para captação de água do rio Ribeira do Iguape, para abastecimento público, no Estado de São Paulo.

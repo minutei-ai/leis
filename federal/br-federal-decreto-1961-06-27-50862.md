@@ -1,5 +1,3 @@
-###DEC-050862-0-000-27-06-1961@@@
-
 Decreto nº 50.862, de 27 de junho de 1961.
 
 Altera a redação dos incisos I e II do artigo 6º do Regulamento para a Inspetoria-Geral da Marinha.

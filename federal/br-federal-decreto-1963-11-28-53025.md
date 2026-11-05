@@ -1,5 +1,3 @@
-###DEC-053025-0-000-28-11-1963@@@
-
 decreto nº 53.025, de 28 de novembro de 1963.
 
 Autoriza o cidadão brasileiro Alcides Alves da Cunha a pesquisar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

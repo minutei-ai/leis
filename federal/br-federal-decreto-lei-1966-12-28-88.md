@@ -1,5 +1,3 @@
-###DEL-000088-0-000-28-12-1966@@@
-
 DECRETO-LEI Nº 88, DE 28 DE DEZEMBRO DE 1966
 
 Regula o sistema tributário dos Territórios e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000575-0-000-07-08-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 575, DE 7 DE AGOSTO DE 2012
 
 Altera a Lei nº 11.079, de 30 de dezembro de 2004, que institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública.

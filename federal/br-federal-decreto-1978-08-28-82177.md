@@ -1,5 +1,3 @@
-###DEC-082177-0-000-28-08-1978@@@
-
 Decreto nº 82.177, de 28 de agosto de 1978
 
 Dispõe sobre a concessão do auxílio para Moradia, nos casos que especifica, e dá outras providências.

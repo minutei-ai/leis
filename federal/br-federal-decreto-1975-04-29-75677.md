@@ -1,5 +1,3 @@
-###DEC-075677-0-000-29-04-1975@@@
-
 DECRETO Nº 75.677, DE 29 DE ABRIL DE 1975.
 
 Dispõe sobre pedidos de importação de equipamentos, máquinas e matérias primas por órgãos e entidades da administração federal direta ou indireta e dá outras providências.

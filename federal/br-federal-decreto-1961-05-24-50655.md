@@ -1,5 +1,3 @@
-###DEC-050655-0-000-24-05-1961@@@
-
 DECRETO Nº 50.655, DE 24 DE MAIO DE 1961.
 
 Concede autorização para funcionamento de curso.

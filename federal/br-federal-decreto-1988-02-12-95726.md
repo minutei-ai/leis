@@ -1,7 +1,3 @@
-1
-
-###DEC-095726-0-000-12-02-1988@@@
-
 DECRETO N° 95.726, DE 12 DE FEVEREIRO DE 1988
 
 Fixa o percentual de não numerados de Capitães-de-Mar-e-Guerra dos diversos Corpos de Carreira da Marinha, definitivamente impossibilitados de acesso ao primeiro posto de Oficial‑General.

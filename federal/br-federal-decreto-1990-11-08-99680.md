@@ -1,7 +1,3 @@
-1
-
-###DEC-099680-0-000-08-11-1990@@@
-
 DECRETO N° 99.680, DE 8 DE NOVEMBRO DE 1990
 
 Dispõe sobre as obrigações, de caráter financeiro, contraídas com a garantia do Tesouro Nacional, pelas entidades referidas no art. 4° da Lei n° 8.029, de 12 de abril de 1990, e dá outras providências.

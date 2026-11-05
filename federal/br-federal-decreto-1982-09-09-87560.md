@@ -1,5 +1,3 @@
-###DEC-087560-0-000-09-09-1982@@@
-
 Decreto nº 87.560, de 09 de setembro de 1982
 
 Dispõe sobre a transformação da PORTOCEL Porto Especializado de Barra do Riacho S.A. em Companhia Docas do Espírito Santo - CODESA, autoriza a destinação de bens provenientes da encampação do Porto de Vitória e dá outras providências.

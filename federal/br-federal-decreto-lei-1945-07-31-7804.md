@@ -1,5 +1,3 @@
-###DEL-007804-0-000-31-07-1945@@@
-
 DECRETO-LEI N. 7.804 – DE 31 DE JULHO DE 1945
 
 Transforma e cria cargos, no Quadro Permanente do Ministério da Educação e Saúde, e dá outras providências.

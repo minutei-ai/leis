@@ -1,5 +1,3 @@
-###DEC-050349-0-000-16-03-1961@@@
-
 DECRETO Nº 50.349, DE 16 DE MARÇO DE 1961.
 
 Dá nova redação aos artigos 4º e 6º e parágrafo único do artigo 14 do Decreto número 50.316, de 6 de março de 1961.

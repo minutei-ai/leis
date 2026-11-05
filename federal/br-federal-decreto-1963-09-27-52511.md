@@ -1,5 +1,3 @@
-###DEC-052511-0-000-27-09-1963@@@
-
 DECRETO Nº 52.511, DE 27 DE SETEMBRO DE 1963.
 
 Dá nova redação ao parágrafo único do artigo 18 do Decreto nº 42.915, de 30 de dezembro de 1957.

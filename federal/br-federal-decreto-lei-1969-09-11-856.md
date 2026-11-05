@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7909a4ef-4fea-48a0-8daf-a7a06963f0e0/texto#nowhere)
 
-###DEL-000856-0-000-11-09-1969@@@
-
 DECRETO-LEI Nº 856, DE 11 DE SETEMBRO DE 1969
 
 Acrescenta o § 3º ao artigo 2º do Decreto-lei nº 3.365, de 21 de junho de 1941.

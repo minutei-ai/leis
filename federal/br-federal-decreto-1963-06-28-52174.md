@@ -1,5 +1,3 @@
-###DEC-052174-0-000-28-06-1963@@@
-
 Decreto nº 52.174, de 28 de junho de 1963.
 
 Concede permissão à Naufal S.A., Importação e Comércio, com sede à Avenida Ipiranga, 1.267, 12º andar, São Paulo, para funcionar aos domingos e nos feriados civis e religiosos.

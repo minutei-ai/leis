@@ -1,5 +1,3 @@
-###MPV-001984-0-015-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.984-15, DE 9 DE março DE 2000.
 
 Acresce e altera dispositivos das Leis nos 8.437, de 30 de junho de 1992, 9.028, de 12 de abril de 1995, e 9.494, de 10 de setembro de 1997, e dá outras providências.

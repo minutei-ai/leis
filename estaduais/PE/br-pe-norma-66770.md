@@ -34,42 +34,28 @@ ERNANI VARJAL MEDICIS PINTO
 
 **QUANTITATIVO DE CARGOS DO GRUPO OCUPACIONAL SAÚDE PÚBLICA**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border:solid windowtext 1.0pt"><tbody><tr><td width="261" style="width:195.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">CARGOS</span></p></td><td width="250" style="width:187.5pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">QUANTITATIVO</span></p></td></tr><tr><td width="261" style="width:195.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Médico</span></p></td><td width="250" style="width:187.5pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">5.325</span></p></td></tr><tr><td width="261" style="width:195.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Analista em Saúde</span></p></td><td width="250" style="width:187.5pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">5.063</span></p></td></tr><tr><td width="261" style="width:195.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Assistente em Saúde</span></p></td><td width="250" style="width:187.5pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.355 (NR)</span></p></td></tr><tr><td width="261" style="width:195.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Auxiliar em Saúde</span></p></td><td width="250" style="width:187.5pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.749 (NR)</span></p></td></tr><tr><td width="261" style="width:195.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL</span></p></td><td width="250" style="width:187.5pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24.492 (NR)</span></p></td></tr></tbody></table>
+CARGOS
+
+QUANTITATIVO
+
+Médico
+
+5.325
+
+Analista em Saúde
+
+5.063
+
+Assistente em Saúde
+
+12.355 (NR)
+
+Auxiliar em Saúde
+
+1.749 (NR)
+
+TOTAL
+
+24.492 (NR)
 
                                                                                                                                  **”**

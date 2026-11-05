@@ -1,5 +1,3 @@
-###DEC-052729-0-000-22-10-1963@@@
-
 DECRETO Nº 52.729, dE 22 DE OUTUBRO DE 1963.
 
 Regimento do Gabinete Militar da Presidência da República.

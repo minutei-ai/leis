@@ -1,5 +1,3 @@
-###DEC-004174-0-000-25-03-2002@@@
-
 DECRETO Nº 4.174, DE 25 DE MARÇO DE 2002
 
 Altera dispositivos do Decreto nº 2.612, de 3 de junho de 1998, que regulamenta o Conselho Nacional de Recursos Hídricos.

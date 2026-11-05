@@ -1,5 +1,3 @@
-###DEC-045395-0-000-04-02-1959@@@
-
 DECRETO Nº 45.395, DE 4 DE FEVEREIRO DE 1959.
 
 Declara de utilidade pública diversas áreas de terra necessárias à elevação da altura da barragem situada no ribeirão São Bernardo, no município de Itajubá, Estado de Minas Gerais, e autoriza a Companhia Sul Mineira de Eletricidade a promover a desapropriação das mesmas.

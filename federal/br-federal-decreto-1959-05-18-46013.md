@@ -1,5 +1,3 @@
-###DEC-046013-0-000-18-05-1959@@@
-
 DECRETO Nº 46.013, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Francisco Altamirano de Barros a pesquisar mica e minério de ferro no município de Rio Piracicaba, Estado de Minas Gerais.

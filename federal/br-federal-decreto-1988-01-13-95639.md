@@ -1,7 +1,3 @@
-1
-
-###DEC-095639-0-000-13-01-1988@@@
-
 DECRETO Nº 95.639, DE 13 DE JANEIRO DE 1988
 
 Altera dispositivos do Decreto nº 94.712, de 31 de julho de 1987.

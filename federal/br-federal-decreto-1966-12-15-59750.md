@@ -1,5 +1,3 @@
-###DEC-059750-0-000-15-12-1966@@@
-
 DECRETO Nº 59.750, DE 15 DE DEZEMBRO DE 1966.
 
 Autoriza Plumbum S. A. Indústria Brasileira de Mineração a pesquisar chumbo, no município de Adrianópolis, Estado do Paraná.

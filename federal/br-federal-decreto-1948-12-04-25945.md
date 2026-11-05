@@ -1,38 +1,36 @@
-###DEC-025945-0-000-04-12-1948@@@
+**DECRETO Nº 25.945, DE 4 DE DEZEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.945, DE 4 DE DEZEMBRO DE 1948.</strong>
+***Aprova o regimento do Presídio do distrito Federal.***
 
-<em><strong>Aprova o regimento do Presídio do distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n° I, da constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n° I, da constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1° - É aprovado o regimento do Presídio do distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócio Interiores.
 
-<strong>Art</strong>. 1° - É aprovado o regimento do Presídio do distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócio Interiores.
-
-<strong>Art</strong>. 2° - Revogam-se as disposições em contrário.
+**Art**. 2° - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 4 de dezembro de 1948; 127° de Independência e 60° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adroaldo Mesquita da Costa
 
-<strong>REGIMENTO DO PRESÍDIO DO DISTRITO FEDERAL</strong>
+**REGIMENTO DO PRESÍDIO DO DISTRITO FEDERAL**
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1° - O Presídio do distrito Federal (P. D. F.), órgão do Ministério da Justiça e Negócios Interiores, diretamente subordinado ao respectivo Ministro de estado, tem por finalidade recolher réus presos preventiva ou provisóriamente.
+**Art**. 1° - O Presídio do distrito Federal (P. D. F.), órgão do Ministério da Justiça e Negócios Interiores, diretamente subordinado ao respectivo Ministro de estado, tem por finalidade recolher réus presos preventiva ou provisóriamente.
 
 Parágrafo único – A pena de prisão simples, quando não fôr possível o seu cumprimento na Penitenciária Central, será cumprida em seção especial do P.D.F.
 
-<strong>CAPITULO II</strong>
+**CAPITULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2° - O.P.D.F. compõe-se de:
+**Art**. 2° - O.P.D.F. compõe-se de:
 
 Seção de Registro e Contrôle (S.R.C.);
 
@@ -50,17 +48,17 @@ Zeladoria (Z.).
 
 § 2° - O P.D.F. manterá dois setores especiais destinados respectivamente ao recolhimento de presas e de menores devendo o primeiro ser chefiado, sempre que possível, or possa do sexo feminino.
 
-<strong>Art</strong>. 3° A S.R.C., a S.D., a S.S., a S.E.A., a S.A., o A. e a P. terão chefes, designados pelo Diretor do P.D.F., na forma da legislação em vigor.
+**Art**. 3° A S.R.C., a S.D., a S.S., a S.E.A., a S.A., o A. e a P. terão chefes, designados pelo Diretor do P.D.F., na forma da legislação em vigor.
 
-<strong>Art</strong>. 4° O Diretor terá um Assistente e um Secretário por êle designados, dentre funcionários públicos.
+**Art**. 4° O Diretor terá um Assistente e um Secretário por êle designados, dentre funcionários públicos.
 
-<strong>Art</strong>. 5° Os órgãos que integram o P.D.F. funcionarão articulados, em regime de colaboração, sob a orientação do Diretor.
+**Art**. 5° Os órgãos que integram o P.D.F. funcionarão articulados, em regime de colaboração, sob a orientação do Diretor.
 
-<strong>CAPITULO III</strong>
+**CAPITULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6° À.S.R.C. compete:
+**Art**. 6° À.S.R.C. compete:
 
 I – matricular os presos e organizar os respectivos prontuários;
 
@@ -88,7 +86,7 @@ XII – extrair certidões e fornecer atestados, requeridos pelos presos, median
 
 XIII – fornecer à S.A. dados estatísticos  relativos às suas atividades.
 
-<strong>Art</strong>. 7° À S.D. compete:
+**Art**. 7° À S.D. compete:
 
 I – ter sob sua responsabilidade a guarda das chaves das prisões;
 
@@ -118,7 +116,7 @@ XIII – receber e encaminhar aos órgãos competentes do P.D.F., as petições 
 
 XIV – fornecer à S.A., dados estatísticos referentes às suas atividades.
 
-<strong>Art</strong>. 8° A.S.S. competente:
+**Art**. 8° A.S.S. competente:
 
 I - proceder ao exame médico e odontológico dos presos, assegurando-lhes tratamento conveniente;
 
@@ -146,7 +144,7 @@ XIII – apresentar quinzenalmente, ao Diretor um relatório sôbre as condiçõ
 
 XIV – fornecer à S.A. dados estatísticos relativos às suas atividades.
 
-<strong>Art</strong>. 9° À S. E. A. compete:
+**Art**. 9° À S. E. A. compete:
 
 I – promover a alfabetização de presos e ministrar – os  sempre que possível, noções fundamentais de linguagem, aritmética, geografia, história do Brasil, ciências físico-naturais, higiene e instrução moral e cívica;
 
@@ -166,7 +164,7 @@ VIII – promover a assistência social necessária à família dos presos, medi
 
 IX – fornecer à S.A. dados estatísticos relativos às suas atividades;
 
-<strong>Art</strong>. 10° À S.A. compete:
+**Art**. 10° À S.A. compete:
 
 I – promover as medidas preliminares necessárias à administração de pessoal, material orçamento e comunicações a cargo do Departamento de Administração (D.A.) do Ministério da Justiça e Negócios Interiores,  com o qual deverá funcionar métodos de trabalho prescritos pelo mesmo;
 
@@ -186,7 +184,7 @@ V – registrar em livro apropriado, o nome e enderêço dos visitantes dos pres
 
 § 2. o Almoxarifado funcionará de acôrdo com as instruções expedidas pela Divisão do Material do D.A. do Ministério.
 
-<strong>Art</strong>. 11. A Zeladoria compete:
+**Art**. 11. A Zeladoria compete:
 
 I – manter um perfeito funcionamento e em condições de melhor atender às exigências dos trabalhos, os serviços de cozinha, dispensa, refeitório, rouparia lavanderia e barbearia, zelando pela sua ordem e asseio;
 
@@ -198,11 +196,11 @@ IV – promover e fiscalizar a execução dos serviços relativos às instalaç�
 
 V – manter e fiscalizar os serviços de transportes do Presídios;
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 12. Ao Diretor incumbe:
+**Art**. 12. Ao Diretor incumbe:
 
 I – administrar e representar o P.D.F.;
 
@@ -264,7 +262,7 @@ XXX – permitir, quando julgar oportuna, a visita de pessoas idôneas que desej
 
 XXXI – autorizar a publicação de trabalhos eleborados pelo P.D.F.
 
-<strong>Art</strong>. 13. Aos chefes de Seção incumbe:
+**Art**. 13. Aos chefes de Seção incumbe:
 
 I – dirigir a Seção respectiva;
 
@@ -288,7 +286,7 @@ X – comunicar imediatamente, por escrito, à S.D. qualquer infração praticad
 
 XI – apresentar ao Diretor, até o dia 15 de janeiro, o relatório anual das atividades da respectiva Seção;
 
-<strong>Art</strong>. 14. Ao Chefe da S.D. incumbe, além do enunciado no artigo anterior:
+**Art**. 14. Ao Chefe da S.D. incumbe, além do enunciado no artigo anterior:
 
 I – distribuir os presos pelos pavilhões, galerias e celas;
 
@@ -298,9 +296,9 @@ III – comunicar, por escrito, ao Diretor qualquer ocorrência  extraqordinár
 
 IV – organizar mensalmente e submeter à aprovação do Diretor a escala de distribuição de serviço aos guardas para o mês seguinte.
 
-<strong>Art</strong>. 15. Ao Assistente incumbe executar os serviços que lhe forem distribuídos pelo Diretor e proceder ao estudo dos assuntos de que pelo mesmo fôr encarregado.
+**Art**. 15. Ao Assistente incumbe executar os serviços que lhe forem distribuídos pelo Diretor e proceder ao estudo dos assuntos de que pelo mesmo fôr encarregado.
 
-<strong>Art</strong>. 16. Ao Secretário incumbe:
+**Art**. 16. Ao Secretário incumbe:
 
 I – atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto a tratar,.
 
@@ -308,31 +306,31 @@ II – representar o Diretor, quando para isso fôr designado;;
 
 III – regidir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 17. Aos demais servidores, sem funções especificadas neste regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 17. Aos demais servidores, sem funções especificadas neste regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 18. O P.D.F. Terá a lotação aprovada em Decreto.
+**Art**. 18. O P.D.F. Terá a lotação aprovada em Decreto.
 
 Parágrafo único – Além dos funcionários constantes da lotação, o P.D.F. poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 19. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 19. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 20. O Diretor organizará, quando houver necessidade, ouvidos os Chefes de Seção, escalas de plantão do pessoal.
+**Art**. 20. O Diretor organizará, quando houver necessidade, ouvidos os Chefes de Seção, escalas de plantão do pessoal.
 
-<strong>Art</strong>. 21 O Diretor e o Assistente não ficarão sujeitos a ponto, devendo, porém, observar o horário fixado.
+**Art**. 21 O Diretor e o Assistente não ficarão sujeitos a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPITULO VII</strong>
+**CAPITULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 22 Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias;
+**Art**. 22 Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias;
 
 I – O Diretor, pelo Assistente;
 
@@ -342,26 +340,26 @@ III – Os Chefes de Seção por servidores designados pelo Diretor, mediante in
 
 Parágrafo único – Haverá sempre servidores proviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 23. O P.D.F. deverá organizar e manter atualizada uma coleção de leis, regulamentes, curriculares, portarias, ordens e instruções de serviço que digam respeito ás suas atividades específicas.
+**Art**. 23. O P.D.F. deverá organizar e manter atualizada uma coleção de leis, regulamentes, curriculares, portarias, ordens e instruções de serviço que digam respeito ás suas atividades específicas.
 
-<strong>Art</strong>. 24. Nenhum servidor do Presídio poderá fazer publicações, conferências, ou dar entrevista, sôbre assuntos que se relacionem com a organização e as atividades do P. D.F., sem prévia comunicação ao Diretor.
+**Art**. 24. Nenhum servidor do Presídio poderá fazer publicações, conferências, ou dar entrevista, sôbre assuntos que se relacionem com a organização e as atividades do P. D.F., sem prévia comunicação ao Diretor.
 
-<strong>Art</strong>. 25 Mediante “Instruções de Serviço” do diretor, as Seções poderão desdobrar-se em Turmas.
+**Art**. 25 Mediante “Instruções de Serviço” do diretor, as Seções poderão desdobrar-se em Turmas.
 
-<strong>Art</strong>. 26.O P.D.F. proporcionará trabalho aos presos o qual deverá ser remunerado.
+**Art**. 26.O P.D.F. proporcionará trabalho aos presos o qual deverá ser remunerado.
 
-<strong>Art</strong>. 27. Enquanto não despuser o P.D.F. do setor destinado a mulheres a que se refere o § 2° do artigo 2° continuarão as presas, preventiva ou provisoriamente a ser recolhidas a Penitenciária Central.
+**Art**. 27. Enquanto não despuser o P.D.F. do setor destinado a mulheres a que se refere o § 2° do artigo 2° continuarão as presas, preventiva ou provisoriamente a ser recolhidas a Penitenciária Central.
 
-<strong>Art</strong>. 28 Os servidores de identificação e fotografia dos presos, serão executados, no P.D.F., pelo Instituto Felix Pacheco.
+**Art**. 28 Os servidores de identificação e fotografia dos presos, serão executados, no P.D.F., pelo Instituto Felix Pacheco.
 
-<strong>Art</strong>. 29. O Diretor do O. D. F., o Assistente e os Chefes de Seção reunir-se-ão, periodicamente a fim de estudarem os problemas atinentes a administração e a aplicação prática das leis penais.
+**Art**. 29. O Diretor do O. D. F., o Assistente e os Chefes de Seção reunir-se-ão, periodicamente a fim de estudarem os problemas atinentes a administração e a aplicação prática das leis penais.
 
 Parágrafo único. Das reuniões, presididas pelo Diretor do P.D.F., será levrada ata.
 
 Rio de Janeiro, em 4 de dezembro de 1948.
 
-<strong>ADROALDO MESQUITA DA COSTA</strong>
+**ADROALDO MESQUITA DA COSTA**

@@ -1,5 +1,3 @@
-###DEC-073608-0-000-11-02-1974@@@
-
 DECRETO Nº 73.608, DE 11 DE FEVEREIRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências Comerciais e Administrativas de Santos, mantida pelo Centro de Estudos Unificados Bandeirantes, com sede na cidade de Santos, Estado de São Paulo.

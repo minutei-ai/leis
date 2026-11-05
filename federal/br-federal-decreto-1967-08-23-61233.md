@@ -1,5 +1,3 @@
-###DEC-061233-0-000-23-08-1967@@@
-
 decreto nº 61.233, de 23 de agÔsto de 1967.
 
 Autoriza a Companhia de Fôrça e Luz do Paraná a construir linha de transmissão.

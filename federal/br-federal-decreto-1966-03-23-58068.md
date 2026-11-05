@@ -1,5 +1,3 @@
-###DEC-058068-0-000-23-03-1966@@@
-
 Decreto nº 58.068, de 23 de março de 1966.
 
 Autoriza a sessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Vitória, Estado do Espírito Santo.

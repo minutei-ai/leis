@@ -1,5 +1,3 @@
-###DEC-097072-0-000-21-11-1988@@@
-
 DECRETO N° 97.072, DE 21 DE NOVEMBRO DE 1988
 
 Altera dispositivos do Decreto n° 94.712, de 31 de julho de 1987.

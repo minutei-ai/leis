@@ -1,5 +1,3 @@
-###DEL-009614-0-000-20-08-1946@@@
-
 DECRETO-LEI N. 9.614 – DE 20 DE AGÔSTO DE 1946
 
 Disposições transitórias para execução da Lei Orgânica do Ensino Agrícola

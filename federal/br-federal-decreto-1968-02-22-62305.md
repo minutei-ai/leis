@@ -1,5 +1,3 @@
-###DEC-062305-0-000-22-02-1968@@@
-
 DECRETO Nº 62.305, DE 22 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada na BR-262, em Belo Horizonte.

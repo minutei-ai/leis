@@ -1,5 +1,3 @@
-###DEC-060452-0-000-13-03-1967@@@
-
 DECRETO Nº 60.452, DE 13 DE MARÇO DE 1967.
 
 Regulamenta o disposto no artigo 56 da Lei nº 4.870, de 1º, 3º, 15 e 22 do Decreto-lei nº 308, de 28 de fevereiro de 1967, e dá outras providências.

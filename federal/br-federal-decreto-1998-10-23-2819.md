@@ -1,5 +1,3 @@
-###DEC-002819-0-000-23-10-1998@@@
-
 DECRETO Nº 2.819, DE 23 DE OUTUBRO DE 1998
 
 Dá nova redação ao art. 5º do Regulamento de Movimentação para Oficiais e Praças do Exército (R-50), aprovado pelo Decreto nº 2.040, de 21 de outubro de 1996.

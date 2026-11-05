@@ -1,5 +1,3 @@
-###DEC-049439-0-000-06-12-1960@@@
-
 DECRETO Nº 49.439, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Noé Pereira de Araujo a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

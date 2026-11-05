@@ -1,5 +1,3 @@
-###DEC-048275-0-000-08-06-1960@@@
-
 DECRETO Nº 48.275, DE 8 DE JUNHO DE 1960.
 
 Autoriza o Serviço de Patrimônio da União a aceitar a doação e faz o Govêrno do Estado do Paraná, do Ministério da Guerra.

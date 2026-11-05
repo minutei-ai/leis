@@ -1,5 +1,3 @@
-###DEC-048479-0-000-08-07-1960@@@
-
 DECRETO Nº 48.479, DE 8 DE JULHO DE 1960.
 
 Autoriza o Ministério da Educação e Cultura a celebrar convênio com o Estado de Minas Gerais, para o fim que indica.

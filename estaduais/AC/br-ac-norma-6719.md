@@ -1,6 +1,10 @@
 > **LEI Nº 4.760, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fica instituída a realização de oficinas educativas nas escolas públicas e privadas do Estado, destinadas aos alunos do Ensino Fundamental II e Ensino Médio, com foco na construção de cidadãos éticos, conscientes e responsáveis.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fica instituída a realização de oficinas educativas nas escolas públicas e privadas do Estado, destinadas aos alunos do Ensino Fundamental II e Ensino Médio, com foco na construção de cidadãos éticos, conscientes e responsáveis.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

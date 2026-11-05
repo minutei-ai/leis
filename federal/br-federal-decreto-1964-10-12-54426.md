@@ -1,5 +1,3 @@
-###DEC-054426-0-000-12-10-1964@@@
-
 DEcRETO Nº 54.426, DE 12 DE OUTUBRO DE 1964.
 
 Concede à “Ecomil” - Emprêsa de Comércio e Mineração Ltda., autorização para funcionar como emprêsa de mineração.

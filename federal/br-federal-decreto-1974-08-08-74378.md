@@ -1,5 +1,3 @@
-###DEC-074378-0-000-08-08-1974@@@
-
 DECRETO Nº 74.378 - DE 8 DE AGOSTO DE 1974.
 
 Altera o Decreto nº 62.039, de 3 de janeiro de 1968, que dispôs sobre o enquadramento do pessoal beneficiado pelo parágrafo único, do artigo 23, da Lei nº 4.069, de 11 de junho de 1962, do Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

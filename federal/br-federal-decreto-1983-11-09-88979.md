@@ -1,5 +1,3 @@
-###DEC-088979-0-000-09-11-1983@@@
-
 DECRETO Nº 88.979, DE 09 DE NOVEMBRO DE 1983
 
 Autoriza o aumento de potência da RÁDIO SÃO CARLOS LTDA., na cidade de São Carlos, Estado de Santa Catarina.

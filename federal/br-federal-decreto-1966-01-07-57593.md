@@ -1,5 +1,3 @@
-###DEC-057593-0-000-07-01-1966@@@
-
 DECRETO Nº 57.593, DE 7 DE JANEIRO DE 1966.
 
 Dá nova redação ao artigo 30 do Regulamento aprovado pelo Decreto nº 52.339, de 8 de agôsto de 1963.

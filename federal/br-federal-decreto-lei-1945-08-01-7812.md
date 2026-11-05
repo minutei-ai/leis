@@ -1,5 +1,3 @@
-###DEL-007812-0-000-01-08-1945@@@
-
 DECRETO-LEI N. 7.812 – DE 1 DE AGÔSTO DE 1945                                          
 
 Dispõe sôbre o desconto de 5% instituído pelo art. 7º, § 1º, letra "a", do Decreto-lei nº 3.347.          

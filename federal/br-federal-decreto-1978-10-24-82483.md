@@ -1,5 +1,3 @@
-###DEC-082483-0-000-24-10-1978@@@
-
 Decreto nº 82.483, de 24 de outubro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S., área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "CARÃO", no Estado do Ceará.

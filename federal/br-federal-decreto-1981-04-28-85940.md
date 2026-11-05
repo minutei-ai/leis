@@ -1,5 +1,3 @@
-###DEC-085940-0-000-28-04-1981@@@
-
 Decreto nº 85.940, de 28 de abril de 1981.
 
 Concede autorização à empresa PECTEN BRAZIL PARÁ COMPANY e SHELL EXPLORATION SERVICES (BRAZIL) B.V., para operarem no mar territorial do Brasil, fixado pelo Decreto-lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

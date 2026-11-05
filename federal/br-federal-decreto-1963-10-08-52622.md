@@ -1,5 +1,3 @@
-###DEC-052622-0-000-08-10-1963@@@
-
 DECRETO Nº 52.622, DE 8 DE OUTUBRO DE 1963.
 
 Autoriza o Govêrno do Estado de São Paulo a construir uma linha de transmissão.

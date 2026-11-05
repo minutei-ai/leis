@@ -1,5 +1,3 @@
-###DEC-052847-0-000-18-11-1963@@@
-
 DECRETO Nº 52.847, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza Emibra-Emprêsa de Minérios Brasil Norte Nordeste Ltda., a pesquisar quartzo e opala no município de Pedro II, Estado do Piauí.

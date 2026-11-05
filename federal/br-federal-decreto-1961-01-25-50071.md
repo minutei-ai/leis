@@ -1,5 +1,3 @@
-###DEC-050071-0-000-25-01-1961@@@
-
 DECRETO Nº 50.071, DE 25 DE JANEIRO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia de Seguros Sogres.

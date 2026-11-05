@@ -1,7 +1,3 @@
-1
-
-###DEC-098153-0-000-19-09-1989@@@
-
 DECRETO Nº 98.153, DE 19 DE SETEMBRO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

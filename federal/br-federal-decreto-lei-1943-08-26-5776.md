@@ -1,5 +1,3 @@
-###DEL-005776-0-000-26-08-1943@@@
-
 DECRETO‑LEI N. 5.776 – DE 26 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 1.400.000,00, à verba que especifica

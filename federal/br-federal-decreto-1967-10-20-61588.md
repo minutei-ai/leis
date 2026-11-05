@@ -1,5 +1,3 @@
-###DEC-061588-0-000-20-10-1967@@@
-
 DECRETO Nº 61.588, DE 20 DE OUTUBRO DE 1967.
 
 Altera a redação do art. 106 do Regulamento Geral de Transportes aprovado pelo Decreto nº 51.813, de 8 de março de 1963.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/3909)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2001/compilacao-lei.complementar-892-31.01.2001.html)
 
 # LEI COMPLEMENTAR N° 892, DE 31 DE JANEIRO DE 2001
@@ -7,7 +6,8 @@
 
 ### _Estabelece critérios para promoção de Cabos e Soldados da Polícia Militar do Estado e dá providências correlatas._
 
-O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
 ~~**Artigo 1°** \- A promoção à graduação de Cabo PM da Qualificação Policial Militar Particular - 0 (Combatente) e da Qualificação Policial Militar Particular - 4 (Feminino) será efetuada metade por antigüidade e metade por concurso, consideradas as vagas existentes.~~
@@ -190,15 +190,20 @@ _\- Alínea "f" revogada pela [Lei n° 18.442, de 02/04/2026](https://www.al.sp
 
 **Artigo único** \- Vetado.
 
-Palácio dos Bandeirantes, 31 de janeiro de 2001.<br>
-GERALDO ALCKMIN FILHO<br>
+Palácio dos Bandeirantes, 31 de janeiro de 2001.
+
+GERALDO ALCKMIN FILHO
+
 Marco Vinicio Petrelluzzi
 
-Secretário da Segurança Pública<br>
+Secretário da Segurança Pública
+
 João Caramez
 
-Secretário-Chefe da Casa Civil<br>
+Secretário-Chefe da Casa Civil
+
 Antonio Angarita
 
-Secretário do Governo e Gestão Estratégica<br>
+Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 31 de janeiro de 2001.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=50998)
-
 # LEI Nº 11.715, DE 24 DE MAIO DE 2004
 
 ## (PL 711/2003 - Enio Tatto)

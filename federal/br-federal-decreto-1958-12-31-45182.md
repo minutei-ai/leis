@@ -1,5 +1,3 @@
-###DEC-045182-0-000-31-12-1958@@@
-
 decreto nº 45.182, de 31 de dezembro de 1958.
 
 Outorga à Prefeitura Municipal de Peçanha concessão para o aproveitamento progressivo de energia hidráulica da cachoeira do Funil, existente no curso d’água denominado Sujo, Distrito de São Pedro do Suaçui, Município de Peçanha, Estado de Minas Gerais.

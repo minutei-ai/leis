@@ -1,5 +1,3 @@
-###DEC-045218-0-000-15-01-1959@@@
-
 DECRETO Nº 45.218, DE 15 DE JANEIRO DE 1959.
 
 Altera o Regulamento do Instituto de Óleos do Serviço Nacional de Pesquisas Agronômicas, do CNEPA, do Ministério da Agricultura e dá outras providências.

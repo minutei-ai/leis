@@ -1,7 +1,3 @@
-1
-
-###DEC-098572-0-000-15-12-1989@@@
-
 DECRETO Nº 98.572, DE 15 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “Fazendas São Paulo das Cachoeiras I, II e III”, situados no Município de Moju, Estado do Pará, e dá outras providências.

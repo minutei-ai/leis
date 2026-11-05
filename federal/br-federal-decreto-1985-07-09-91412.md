@@ -1,5 +1,3 @@
-###DEC-091412-0-000-09-07-1985@@@
-
 Decreto nº 91.412, de 09 de julho de 1985
 
 Declara de utilidade pública as instituições que menciona.

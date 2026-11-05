@@ -1,5 +1,3 @@
-###DEC-059713-0-000-13-12-1966@@@
-
 Decreto nº 59.713, de 13 de Dezembro de 1966.
 
 Autoriza a alienação de área de terra.

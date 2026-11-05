@@ -1,5 +1,3 @@
-###DEC-067116-0-000-27-08-1970@@@
-
 DECRETO Nº 67.116, DE 27 DE AGÔSTO DE 1970.
 
 Concede autorização às Companhias "Arthur Levy Boat Service Inc." e "Societé de Forages en Mer Neptune" para operação, em águas brasileiras dos barcos "M/V Charles Mc Cartney", "M/V Guaricema", "M/V Anne D" e "Neptune I", de nacionalidades norte-americana e francesa, nos serviços que especifica.

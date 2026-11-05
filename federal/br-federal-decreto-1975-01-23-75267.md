@@ -1,5 +1,3 @@
-###DEC-075267-0-000-23-01-1975@@@
-
 DECRETO Nº 75.267, DE 23 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento do Curso de Ciências Biológicas da Fundação Educacional de Bauru, Estado de São Paulo.

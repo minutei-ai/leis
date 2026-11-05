@@ -1,5 +1,3 @@
-###DEC-055357-0-000-31-12-1964@@@
-
 Decreto nº 55.357, de 31 de dezembro de 1964.
 
 Outorga à Companhia de Eletricidade de Alagoas (CEAL) concessão para distribuir energia elétrica.

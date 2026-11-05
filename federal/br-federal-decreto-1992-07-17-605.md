@@ -1,5 +1,3 @@
-###DEC-000605-0-000-17-07-1992@@@
-
 DECRETO Nº 605, DE 17 DE JULHO DE 1992
 
 Altera regulamento aprovado pelo Decreto nº 60.459, de 13 de março de 1967, dando nova redação aos arts. 8º e 58, inclui parágrafo único no art. 7º do Decreto nº 61.589, de 23 de outubro de 1967, e dá outras providências.

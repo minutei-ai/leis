@@ -1,5 +1,3 @@
-###DEC-097211-0-000-12-12-1988@@@
-
 DECRETO Nº 97.211, DE 12 DE DEZEMBRO DE 1988
 
 Promulga o Tratado sobre a Proibição da Colocação de Armas Nucleares e Outras Armas de Destruição em Massa no Leito do Mar e no Fundo do Oceano e em seu subsolo.

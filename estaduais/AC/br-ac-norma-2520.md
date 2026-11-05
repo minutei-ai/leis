@@ -1,6 +1,10 @@
 > **LEI Nº 3.563, DE 11 DE DEZEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título de Cidadão Acreano o Sr. Adilson Luiz de Santana.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título de Cidadão Acreano o Sr. Adilson Luiz de Santana.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

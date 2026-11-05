@@ -1,5 +1,3 @@
-###DEC-074062-0-000-14-05-1974@@@
-
 DECRETO Nº 74.062, DE 14 DE MAIO DE 1974.
 
 Dispõe sobre a reorganização da Superintendência de Seguros Privados (SUSEP) e dá outras providências.

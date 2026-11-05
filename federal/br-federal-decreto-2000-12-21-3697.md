@@ -1,5 +1,3 @@
-###DEC-003697-0-000-21-12-2000@@@
-
 decreto nº 3.697, de 21 de dezembro de 2000.
 
 Regulamenta o parágrafo único do art. 2º da Medida Provisória nº 2.026-7, de 23 de novembro de 2000, que trata do pregão por meio da utilização de recursos de tecnologia da informação.

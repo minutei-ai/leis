@@ -1,5 +1,3 @@
-###DEC-086510-0-000-27-10-1981@@@
-
 DECRETO Nº 86.510, DE 27 DE OUTUBRO DE 1981.
 
 Promulga o texto do Acordo Básico de Cooperação entre a República Federativa do Brasil e a Jamairia Árabe Popular Socialista da Líbia.
@@ -72,4 +70,14 @@ Este Acordo entrará em vigor a partir da data de troca de instrumentos de ratif
 
 Feito em Brasília, no dia 30 de junho de 1978, correspondente ao 25º dia do mês de Rajab do ano 1398 da Hégira, em duas cópias originais, nos idiomas português e árabe, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELA JAMAIRIA ÁRABE POPULAR SOCIALISTA DA LÍBIA:</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ANTONIO F. AZEREDO DA SILVEIRA</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ABDULMAJID MABROUK GAUD</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MINISTRO DE ESTADO DAS RELAÇÕES EXTERIORES</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SECRETÁRIO DE ESTADO PARA O DESENVOLVIMENTO AGRÁRIO</span></p></td></tr></tbody></table>
+PELA REPÚBLICA FEDERATIVA DO BRASIL:
+
+PELA JAMAIRIA ÁRABE POPULAR SOCIALISTA DA LÍBIA:
+
+ANTONIO F. AZEREDO DA SILVEIRA
+
+ABDULMAJID MABROUK GAUD
+
+MINISTRO DE ESTADO DAS RELAÇÕES EXTERIORES
+
+SECRETÁRIO DE ESTADO PARA O DESENVOLVIMENTO AGRÁRIO

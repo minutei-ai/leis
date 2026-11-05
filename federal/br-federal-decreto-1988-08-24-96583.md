@@ -1,5 +1,3 @@
-###DEC-096583-0-000-24-08-1988@@@
-
 DECRETO N° 96.583, DE 24 DE AGOSTO DE 1988
 
 Dispõe sobre a liquidação do Banco de Roraima S.A. e dá outras providências.

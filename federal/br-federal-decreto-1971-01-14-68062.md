@@ -1,5 +1,3 @@
-###DEC-068062-0-000-14-01-1971@@@
-
 DECRETO Nº 68.062, de 14 de Janeiro de 1971.
 
 Estabelece as proporções a serem observadas na afixação do número mínimo de vagas referentes ao ano de 1970.

@@ -1,5 +1,3 @@
-###DEC-082785-0-000-04-12-1978@@@
-
 Decreto nº 82.785, de 04 de dezembro de 1978.
 
 Dispensa a licitação na alienação de terras devolutas da União que menciona, e dá outras providências.

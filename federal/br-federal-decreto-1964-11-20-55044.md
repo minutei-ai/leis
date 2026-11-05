@@ -1,5 +1,3 @@
-###DEC-055044-0-000-20-11-1964@@@
-
 decreto nº 55.044, de 20 de novembro de 1964.
 
 Aprova a reforma de estatutos do First National City Bank com sede em New York, E.U.A.

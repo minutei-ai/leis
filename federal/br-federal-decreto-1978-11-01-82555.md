@@ -1,5 +1,3 @@
-###DEC-082555-0-000-01-11-1978@@@
-
 Decreto nº 82 555, de 01 de novembro de 1978
 
 Concede à Mineração Curimbaba Ltda. o direito de lavrar leucita e argila no Município de Andradas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-090839-0-000-23-01-1985@@@
-
 Decreto nº 90.839, de 23 de janeiro de 1985
 
 Altera a composição da Comissão Coordenadora da Criação do Cavalo Nacional, de que trata o Decreto nº 79.109, de 11 de janeiro de 1977.

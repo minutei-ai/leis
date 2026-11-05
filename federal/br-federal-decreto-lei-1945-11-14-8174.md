@@ -1,5 +1,3 @@
-###DEL-008174-0-000-14-11-1945@@@
-
 DECRETO-LEI N. 8.174 – DE 14 DE NOVEMBRO DE 1945
 
 Cobrança judicial de taxa de consumo de água no Distrito Federal

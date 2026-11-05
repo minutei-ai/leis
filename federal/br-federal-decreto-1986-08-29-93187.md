@@ -1,5 +1,3 @@
-###DEC-093187-0-000-29-08-1986@@@
-
 DECRETO Nº 93.187, DE 29 DE AGOSTO DE 1986
 
 Dá nova redação ao art. 3º do Decreto nº 74.557, de 12 de setembro de 1974, que criou a Comissão Interministerial para os Recursos do Mar.

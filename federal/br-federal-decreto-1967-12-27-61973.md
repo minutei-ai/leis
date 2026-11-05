@@ -1,5 +1,3 @@
-###DEC-061973-0-000-27-12-1967@@@
-
 DECRETO Nº 61.973, DE 27 DE DEZEMBRO DE 1967.
 
 Outorga concessão à Rádio Clube de Salvador Ltda. para estabelecer uma estação de radiodifusão sonora na cidade de Salvador, Estado da Bahia.

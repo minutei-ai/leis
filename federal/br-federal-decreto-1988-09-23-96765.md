@@ -1,5 +1,3 @@
-###DEC-096765-0-000-23-09-1988@@@
-
 DECRETO N° 96.765, DE 23 DE SETEMBRO DE 1988
 
 Outorga concessão à SOCIEDADE DE TELEVISÃO MANAUARA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Manaus, Estado do Amazonas.

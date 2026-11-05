@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208409)<br>
-
 # DECRETO N° 67.882, DE 15 DE AGOSTO DE 2023
 
 ### _Altera o Decreto n° 52.455, de 7 de dezembro de 2007, que aprova o regulamento da agência reguladora criada pela Lei Complementar n° 1.025, de 7 de dezembro de 2007, denominada Agência Reguladora de Serviços Públicos do Estado do São Paulo - ARSESP pela Lei n° 17.293, de 15 de outubro de 2020._
@@ -154,7 +152,8 @@ Secretário de Governo e Relações Institucionais
 
 Publicado na Casa Civil, aos 15 de agosto de 2023.
 
-#### ANEXO <br>
+#### ANEXO 
+
 a que se refere o inciso I do artigo 4° do Decreto n° 67.882, de 15 de agosto de 2023
 
 Contratos que passarão à regulação e fiscalização da ARSESP 
@@ -187,5 +186,6 @@ Contratos que passarão à regulação e fiscalização da ARSESP 
 
 No Anexo leia-se como segue e não como constou:
 
-#### ANEXO <br>
+#### ANEXO 
+
 a que se refere o inciso I do artigo 3° do Decreto n° 67.882, de 15 de agosto de 2023

@@ -1,5 +1,3 @@
-###DEC-056070-0-000-26-04-1965@@@
-
 decreto nº 56.070, de 26 de abril de 1965.
 
 Outorga ao Município de Francinópolis concessão para distribuir energia elétrica.

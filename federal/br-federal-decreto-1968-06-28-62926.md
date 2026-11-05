@@ -1,14 +1,12 @@
-###DEC-062926-0-000-28-06-1968@@@
+**DECRETO Nº 62.926, DE 28 DE JUNHO DE 1968.**
 
-<strong>DECRETO Nº 62.926, DE 28 DE JUNHO DE 1968.</strong>
+***Altera a redação dos artigos 36 e 37 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.***
 
-<em><strong>Altera a redação dos artigos 36 e 37 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 83, inciso II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 83, inciso II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 36 e 37 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto número 62.127, de 16 de janeiro de 1968, passam a vigorar com a seguinte redação:
+**Art**. 1º Os artigos 36 e 37 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto número 62.127, de 16 de janeiro de 1968, passam a vigorar com a seguinte redação:
 
 “Art. 36. Compete aos Estados, ao Distrito Federal e aos Territórios, especialmente:
 
@@ -28,7 +26,7 @@ VII - Exercer a polícia de trânsito, ressalvado o disposto no artigo 35, VII.
 
 Parágrafo único. Aos Estados não divididos em Municípios e ao Distrito Federal, incumbem, ainda, as atribuições de que trata o artigo seguinte.
 
-<strong>Art</strong>. 37. Compete aos Municípios, especialmente:
+**Art**. 37. Compete aos Municípios, especialmente:
 
 I - Regulamentar o uso das vias sob sua jurisdição, considerado o disposto no art. 46;
 
@@ -46,33 +44,31 @@ VII - Implantar sinalização nas vias sob sua jurisdição.
 
 Parágrafo único. Os municípios mediante convênio, poderão deferir aos respectivos Estados ou Territórios a execução total ou parcial de suas atribuições relativas ao trânsito.”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Brasília, 28 de junho de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Luis Antônio da Gama e Silva
 
-###DEC-062926-0-000-28-06-1968@@@RET01+++
+**DECRETO Nº 62.926, DE 28 DE JUNHO DE 1968.**
 
-<strong>DECRETO Nº 62.926, DE 28 DE JUNHO DE 1968.</strong>
+***Altera a redação dos artigos 36 e 37 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.***
 
-<em><strong>Altera a redação dos artigos 36 e 37 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.</strong></em>
+(Publicado no *Diário Oficial* – Seção I – Parte I, de 1 de julho de 1968)
 
-(Publicado no <em>Diário Oficial</em> – Seção I – Parte I, de 1 de julho de 1968)
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 Na Página 5.387, 1ª coluna, no art. 1º,
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 “Art. 36...............................................................................................................................
 
 VII ... o disposto no artigo (ilegível) VII).
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 “Art. 36 ..............................................................................................................................
 

@@ -1,5 +1,3 @@
-###DEC-068904-0-000-12-07-1971@@@
-
 DECRETO Nº 68.904, DE 12 DE JULHO DE 1971.
 
 Regulamenta o instituto do "draw-back" previsto no artigo 78 do Decreto-lei nº 37, de 18 de novembro de 1966.

@@ -1,5 +1,3 @@
-###DEC-004964-0-000-28-01-2004@@@
-
 DECRETO Nº 4.964,  DE 28 DE JANEIRO DE 2004.
 
 Dispõe sobre a estrutura do Comando do Exército e dá outras providências.

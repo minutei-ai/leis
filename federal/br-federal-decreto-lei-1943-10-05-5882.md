@@ -1,5 +1,3 @@
-###DEL-005882-0-000-05-10-1943@@@
-
 DECRETO‑LEI N. 5.882 – DE 5 DE OUTUBRO DE 1943
 
 Abre ao Ministério de Trabalho, Indústria e Comércio o crédito especial de Cr$ 50.000,00 para atender às despesas decorrentes da reforma da Hospedaria de Imigrantes da Ilha das Flôres e da instalação da Estação Sanitária do Pôrto do Rio de Janeiro

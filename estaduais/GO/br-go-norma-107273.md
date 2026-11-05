@@ -32,8 +32,6 @@ Art. 4º Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias da 
 
 Goiânia, 22 de junho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEL-000016-0-000-10-08-1966@@@
-
 DECRETO-LEI Nº 16, DE 10 DE AGôSTO DE 1966
 
 Dispõe sôbre a produção, o comércio e o transporte clandestino de açúcar e do álcool e dá outras providências.

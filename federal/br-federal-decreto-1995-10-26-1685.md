@@ -1,7 +1,3 @@
-1
-
-###DEC-001685-0-000-26-10-1995@@@
-
 DECRETO Nº 1.685, DE 26 DE OUTUBRO DE 1995.
 
 Dispõe sobre a execução, no território nacional, da Resolução 1.015 (1995) do Conselho de Segurança das Nações Unidas, que prorroga, até 18 de março de 1996, o levantamento parcial das sanções contra a Iugoslávia.

@@ -1,5 +1,3 @@
-###DEC-045478-0-000-26-02-1959@@@
-
 DECRETO Nº 45.478, DE 26 DE FEVEREIRO DE 1959.
 
 Cria o estandarte-distintivo para Fortaleza de São João e 2º Grupo de artilharia de Costa.

@@ -1,5 +1,3 @@
-###DEC-097474-0-000-25-01-1989@@@
-
 DECRETO N.° 97.474, DE 25 DE JANEIRO DE 1989
 
 Limita o comprometimento de créditos orçamentários e adicionais às disponibilidades financeiras.

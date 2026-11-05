@@ -4,13 +4,16 @@ LEI COMPLEMENTAR Nº 005, DE 30 DE JANEIRO DE 2002.
 
 FAÇO SABER QUE A Câmara Municipal de Aparecida de Goiânia aprovOU e eu, PREFEITO MUNICIPAL, sanciono a SEGUINTE Lei Complementar:
 
-TÍTULO I<br>
+TÍTULO I
+
 DAS DISPOSIÇÕES FUNDAMENTAIS
 
-CAPÍTULO ÚNICO<br>
+CAPÍTULO ÚNICO
+
 DOS CONCEITOS E DEFINIÇÕES
 
-SEÇÃO ÚNICA<br>
+SEÇÃO ÚNICA
+
 DA OCUPAÇÃO, DO USO DO SOLO E DA FUNÇÃO SOCIAL DA PROPRIEDADE IMOBILIÁRIA
 
 Art. 1º A propriedade imobiliária cumpre a sua função social quando atende às exigências fundamentais estabelecidas nesta Lei e nas Leis Complementares que instituem o Plano Diretor do Município de Aparecida de Goiânia.
@@ -49,13 +52,16 @@ VII - agroindústria; e
 
 VIII- turismo rural.
 
-TÍTULO II<br>
+TÍTULO II
+
 DO USO E OCUPAÇÃO DO SOLO URBANO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS CONCEITOS E NORMAS GERAIS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA CONCEITUAÇÃO E DIVISÃO DA ÁREA URBANA EM ZONAS DE USO
 
 Art. 4º Área Urbana é aquela circunscrita pelo perímetro urbano definido em lei municipal e fracionada em forma de Zonas de Uso.
@@ -92,10 +98,12 @@ XII-    Zona de Proteção Ambiental III; 
 
 XIII-    Zona de Proteção Ambiental IV; e
 
-XIV-    Zona de Desenvolvimento Estratégico.<br>
+XIV-    Zona de Desenvolvimento Estratégico.
+
  
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS CATEGORIAS DE USOS ADMITIDAS NAS ZONAS URBANAS
 
 Art. 6º As atividades de interesse urbano dividem-se nas seguintes categorias de uso do solo:
@@ -178,7 +186,8 @@ IV-    de grande porte, com área construída acima de 1.500 (hum mil e quinh
 
 Art. 7º Quaisquer das categorias de uso tratadas no artigo 6º desta Lei poderão ocorrer de forma associada no lote desde que, atendidas as especificações da Zona onde situem.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DAS CLASSES DE ADMISSÃO DE USO
 
 Art. 8º Zonas de Uso, respeitando as restrições desta lei, correspondem às seguintes classes:
@@ -193,7 +202,8 @@ II - uso admissível: aqueles que em função de sua natureza, podem representar
 
 § 3º Uso desconforme será tratado no artigo 73 desta lei.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA OCUPAÇÃO DO SOLO URBANO
 
 Art. 9º O modelo de ocupação do solo urbano, adotado por esta Lei resulta de uma relação estabelecida entre a área do lote e a edificação nele admitida, visando a realização dos seguintes objetivos de interesse público:
@@ -230,10 +240,12 @@ II - subsolo aquele com o piso inferior ao pavimento térreo;
 
 III - e demais pavimentos aqueles com os pisos superiores ao pavimento térreo.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS ZONAS DE USO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA CONCEITUAÇÃO, USOS, ÍNDICES URBANÍSTICOS E LOCALIZAÇÃO DAS ZONAS RESIDENCIAS DA ZONA RESIDENCIAL DE BAIXA DENSIDADE
 
 Art. 11. Zona Residencial de Baixa Densidade é a zona destinada prioritariamente à moradia, com no máximo 36 (trinta e seis) Unidades Habitacionais por hectare.
@@ -276,18 +288,24 @@ I-    Área mínima do lote: 360 m².
 
 II-    Coeficiente de aproveitamento: 1,0
 
-III-    Índices de ocupação: subsolo 50%.<br>
-                                                                         térreo 50%<br>
+III-    Índices de ocupação: subsolo 50%.
+
+                                                                         térreo 50%
+
                                                                          demais pavimentos 50%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 5 m.
 
-VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;<br>
-                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;<br>
-                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;
+
+                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;
+
+                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                                   13º e demais pavimentos mínimo de 10 metros.
 
 § 1º Lotes menores do que 360 (três centos e sessenta) metros quadrados não serão considerados desconformes desde que devidamente legalizados antes da aprovação desta lei.
@@ -342,18 +360,24 @@ I-    Área mínima do lote: 360 m²
 
 II-    Coeficiente de aproveitamento: 2,0
 
-III-    Índices de ocupação: subsolo 70%.<br>
-                                                                          térreo 50%<br>
+III-    Índices de ocupação: subsolo 70%.
+
+                                                                          térreo 50%
+
                                                                          demais pavimentos 50%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 5 m.
 
-VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;<br>
-                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;<br>
-                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;
+
+                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;
+
+                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                                   13º e demais pavimentos mínimo de 10 metros.
 
 § 1º Lotes menores do que 360 (três centos e sessenta) metros quadrados não serão considerados desconformes desde que devidamente legalizados antes da aprovação desta lei.
@@ -408,18 +432,24 @@ I-    Área mínima do lote: 360 m².
 
 II-    Coeficiente de aproveitamento: 4,0
 
-III-    Índices de ocupação: subsolo 70%.<br>
-                                                                         térreo 70%<br>
+III-    Índices de ocupação: subsolo 70%.
+
+                                                                         térreo 70%
+
                                                                          demais pavimentos 50%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 5 m.
 
-VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;<br>
-                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;<br>
-                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;
+
+                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;
+
+                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                                   13º e demais pavimentos mínimo de 10 metros.
 
 § 1º Lotes menores do que 360 (três centos e sessenta) metros quadrados não serão considerados desconformes desde que devidamente legalizados antes da aprovação desta lei.
@@ -428,7 +458,8 @@ VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;
 
 Art. 22. Quanto a localização a Zona Residencial de Alta Densidade corresponde ao indicado no mapa do zoneamento anexo a esta lei.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA CONCEITUAÇÃO, USOS, ÍNDICES URBANÍSTICOS E LOCALIZAÇÃO DAS ZONAS MISTAS
 
 DA ZONA MISTA DE BAIXA DENSIDADE
@@ -479,18 +510,24 @@ I-    Área mínima do lote: 360 m².
 
 II-    Coeficiente de aproveitamento: 1,5
 
-III-    Índices de ocupação: subsolo 70%.<br>
-                                                                         térreo 70%<br>
+III-    Índices de ocupação: subsolo 70%.
+
+                                                                         térreo 70%
+
                                                                          demais pavimentos 50%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 5 m.
 
-VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;<br>
-                                                                                   3º, 4º, 5º e 6º pavimento mínimo de 3 metros;<br>
-                                                                                   7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                                   10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;
+
+                                                                                   3º, 4º, 5º e 6º pavimento mínimo de 3 metros;
+
+                                                                                   7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                                   10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                                    13º e demais pavimentos mínimo de 10 metros.
 
 § 1º Lotes menores do que 360 (três centos e sessenta) metros quadrados não serão considerados desconformes desde que devidamente legalizados antes da aprovação desta Lei.
@@ -553,18 +590,24 @@ I-    Área mínima do lote: 360 m².
 
 II-    Coeficiente de aproveitamento: 2,0
 
-III-    Índices de ocupação: subsolo 70%.<br>
-                                                                         térreo 70%<br>
+III-    Índices de ocupação: subsolo 70%.
+
+                                                                         térreo 70%
+
                                                                          demais pavimentos 50%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 5 m.
 
-VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;<br>
-                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;<br>
-                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;
+
+                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;
+
+                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                                   13º e demais pavimentos mínimo de 10 metros.
 
 § 1º Lotes menores do que 360 (três centos e sessenta) metros quadrados não serão considerados desconformes desde que devidamente legalizados antes da aprovação desta lei.
@@ -573,7 +616,8 @@ VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;
 
 Art. 30. Quanto a localização a Zona Mista de Média Densidade corresponde ao indicado no mapa do zoneamento anexo a esta lei.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA CONCEITUAÇÃO, USOS, ÍNDICES URBANÍSTICOS E LOCALIZAÇÃO DAS ZONAS DE ATIVIDADE ECONÔMICA, DA ZONA INDUSTRIAL E DA ZONA DE INFLUÊNCIA DA RODOVIA E ANEL VIÁRIO.
 
 ZONA DE ATIVIDADE ECONÔMICA I
@@ -614,16 +658,20 @@ I-    Área mínima do lote: 1.000 m²
 
 II-    Coeficiente de aproveitamento: 2,0
 
-III-    Índices de ocupação: subsolo 70%.<br>
-                                                                         térreo 70%<br>
+III-    Índices de ocupação: subsolo 70%.
+
+                                                                         térreo 70%
+
                                                                          demais pavimentos 35%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 5 m.
 
-VI-    Recuo Lateral e do fundo: térreo, 2º, 3º, 4º, 5º e 6º, 7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+VI-    Recuo Lateral e do fundo: térreo, 2º, 3º, 4º, 5º e 6º, 7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                                   13º e demais pavimentos mínimo de 10 metros.
 
 Parágrafo único. No processo de Licenciamento ambiental poderão ser exigidos padrões mais restritivos em função do impacto ambiental.
@@ -670,18 +718,24 @@ I-    Área mínima do lote: 500 m²
 
 II-    Coeficiente de aproveitamento: 3,0
 
-III-    Índices de ocupação: subsolo 70%.<br>
-                                                                         térreo 70%<br>
+III-    Índices de ocupação: subsolo 70%.
+
+                                                                         térreo 70%
+
                                                                         demais pavimentos 50%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 5 m.
 
-Recuo Lateral e do fundo: térreo e 2º pavimento mínimo de 2 metros;<br>
-                                                                         3º, 4º, 5º e 6º pavimento mínimo de 3 metros;<br>
-                                                                         7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                         10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+Recuo Lateral e do fundo: térreo e 2º pavimento mínimo de 2 metros;
+
+                                                                         3º, 4º, 5º e 6º pavimento mínimo de 3 metros;
+
+                                                                         7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                         10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                          13º e demais pavimentos mínimo de 10 metros.
 
 Parágrafo único. No processo de Licenciamento ambiental poderão ser exigidos padrões mais restritivos em função do impacto ambiental.
@@ -724,18 +778,24 @@ I-    Área mínima do lote: 1.000 m²
 
 II-    Coeficiente de aproveitamento: 1,5
 
-III-    Índices de ocupação: subsolo 70%.<br>
-                                                                         térreo 70%<br>
+III-    Índices de ocupação: subsolo 70%.
+
+                                                                         térreo 70%
+
                                                                          demais pavimentos 35%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 10 m.
 
-VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 3 metros;<br>
-                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;<br>
-                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 3 metros;
+
+                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;
+
+                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                                   13º e demais pavimentos mínimo de 10 metros.
 
 Parágrafo único. No processo de Licenciamento ambiental poderão ser exigidos padrões mais restritivos em função do impacto ambiental.
@@ -782,25 +842,32 @@ I-    Área mínima do lote: 720 m²
 
 II-    Coeficiente de aproveitamento: 2,0
 
-III-    Índices de ocupação: subsolo 70%.<br>
-                                                                         térreo 70%<br>
+III-    Índices de ocupação: subsolo 70%.
+
+                                                                         térreo 70%
+
                                                                          demais pavimentos 50%.
 
 IV-    Índice de permeabilidade: 30%
 
 V-    Recuo frontal: 5 m.
 
-VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;<br>
-                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;<br>
-                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;<br>
-                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;<br>
+VI-    Recuo Lateral e do Fundo: térreo e 2º pavimento mínimo de 2 metros;
+
+                                                                                  3º, 4º, 5º e 6º pavimento mínimo de 3 metros;
+
+                                                                                  7º, 8º e 9º pavimento mínimo de 5 metros;
+
+                                                                                  10º, 11º e 12º  pavimento mínimo de 7 metros;
+
                                                                                   13º e demais pavimentos mínimo de 10 metros.
 
 Parágrafo único. No processo de Licenciamento ambiental poderão ser exigidos padrões mais restritivos em função do impacto ambiental.
 
 Art. 46. Quanto à localização a Zona de Influência da Rodovia e Anel Viário corresponde ao indicado no mapa do zoneamento anexo a esta lei.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA CONCEITUAÇÃO, USOS, ÍNDICES URBANÍSTICOS E LOCALIZAÇÃO DAS ZONAS DE PROTEÇÃO AMBIENTAL
 
 DA ZONA DE PROTEÇÃO AMBIENTAL I
@@ -835,7 +902,8 @@ III-    as faixas de 50 (cinqüenta) metros circundantes aos lagos, lagoas e 
 
 IV-    as encostas com vegetação ou partes destas com declividade superior a 30% (trinta por cento);
 
-V-    todas as áreas recobertas por florestas nativas, identificáveis e delimitáveis, por meio da foto área identificada devidamente como <br>
+V-    todas as áreas recobertas por florestas nativas, identificáveis e delimitáveis, por meio da foto área identificada devidamente como 
+
 “Aparecida de Goiânia – GO, imageamento aéreo de julho de 1999 em escala referencial 1:20.000”
 
 VI-    as florestas e demais formas de vegetação, quando declaradas por ato específico do Órgão municipal público competente, destinadas a proteger o bem-estar geral ou para:
@@ -938,8 +1006,10 @@ I-    Área mínima do lote: 360 m²
 
 II-    Coeficiente de aproveitamento: 0,7 
 
-III-    Índices de ocupação: subsolo 0%.<br>
-                                                                         térreo 35%<br>
+III-    Índices de ocupação: subsolo 0%.
+
+                                                                         térreo 35%
+
                                                                          demais pavimentos 35%.
 
 IV-    Índice de permeabilidade: 40%
@@ -1006,7 +1076,8 @@ Art. 64. Quanto à localização, a Zona de Desenvolvimento Estratégico (ZDE) c
 
 Parágrafo único. Em caso de parcelamentos pára fins urbanos, obedecendo artigo 68 desta Lei, o Mapa do zoneamento deverá ser atualizada conforme a transformação dessa Zona em outros tipos de Zonas já previstas nesta Lei.
 
-TÍTULO III<br>
+TÍTULO III
+
 DO USO E OCUPAÇÃO DO SOLO RURAL
 
 Art. 65. ZONA DE DESENVOLVIMENTO RURAL (ZDR) é destinada aos usos rurais, propostas em função da análise integrada de diversos condicionantes do meio físico, objetivando o aproveitamento dos recursos naturais e o desenvolvimento das atividades agro-pastoris de forma compatível com a preservação ambiental.
@@ -1057,7 +1128,8 @@ g)    Agroindústrias incomodas de micro, pequeno e médio porte.
 
 Art. 67. Quanto à localização a Zona Rural corresponde ao indicado no mapa do zoneamento anexo a esta lei.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 68. Em caso de parcelamentos para fins urbanos, aprovados de acordo com a Lei do Parcelamento, a(s) zona(s) atual (atuais) deverá (deverão) ser transformada(s) em nova(s) Zona(s), atendendo as Diretrizes para o Projeto de Loteamento prevista no inciso “I” do artigo 5º da Lei de Parcelamento.
@@ -1110,27 +1182,34 @@ I - a substituição por outros usos desconformes;
 
 II - o restabelecimento do uso após decorridos 6 (seis) meses de cessação das atividades;
 
-Art. 74 – Fica permitida a utilização de parte do afastamento frontal, destinado à construção de guarita de segurança, com área máxima de 15 (quinze) metros quadrados, podendo ser legalizadas as já existentes.<br>
+Art. 74 – Fica permitida a utilização de parte do afastamento frontal, destinado à construção de guarita de segurança, com área máxima de 15 (quinze) metros quadrados, podendo ser legalizadas as já existentes.
+
 (Redação alterada pela Lei Complementar nº 103, de 17 de julho de 2015).
 
 ~~Art. 74. Fica permitida a utilização de parte do afastamento frontal, destinado à construção de guarita de segurança, com área máxima de 5 metros quadrados.~~
 
-§1º  – Será permitido o uso do recuo frontal de até 30 (trinta) metros para cobertura para acesso de veículos, que deverá ter largura máxima igual a da guarita e com área de cobertura paralela à via de acesso.<br>
+§1º  – Será permitido o uso do recuo frontal de até 30 (trinta) metros para cobertura para acesso de veículos, que deverá ter largura máxima igual a da guarita e com área de cobertura paralela à via de acesso.
+
 (Redação acrescentada pela Lei Complementar nº 103, de 17 de julho de 2015).
 
-§2º – A dimensão máxima perpendicular ao alinhamento frontal do terreno será de 3,0 (três) metros.<br>
+§2º – A dimensão máxima perpendicular ao alinhamento frontal do terreno será de 3,0 (três) metros.
+
 (Redação acrescentada pela Lei Complementar nº 103, de 17 de julho de 2015).
 
-§3º – A guarita deverá ter dois ambientes: O sanitário com área mínima de 1,20 (hum vírgula vinte) metros quadrados que deve atender a área mínima de ventilação e iluminação conforme Código de Edificações e o local de atendimento deverá atender a área mínima de ventilação e iluminação.<br>
+§3º – A guarita deverá ter dois ambientes: O sanitário com área mínima de 1,20 (hum vírgula vinte) metros quadrados que deve atender a área mínima de ventilação e iluminação conforme Código de Edificações e o local de atendimento deverá atender a área mínima de ventilação e iluminação.
+
 (Redação acrescentada pela Lei Complementar nº 103, de 17 de julho de 2015).
 
-§4º – Todos empreendimentos financeiros, imobiliários, industriais e comerciais no município de Aparecida de Goiânia, com área total construída acima de mil metros quadrados, obrigatoriamente terão que construir guarita de segurança.<br>
+§4º – Todos empreendimentos financeiros, imobiliários, industriais e comerciais no município de Aparecida de Goiânia, com área total construída acima de mil metros quadrados, obrigatoriamente terão que construir guarita de segurança.
+
 (Redação acrescentada pela Lei Complementar nº 103, de 17 de julho de 2015).
 
-§5º – A área construída referente à guarita e cobertura de acesso será contabilizada no coeficiente de ocupação conforme indicado no Uso do Solo, com exceção daquelas já construídas e consolidadas, que poderão serem legalizadas de forma que estão.<br>
+§5º – A área construída referente à guarita e cobertura de acesso será contabilizada no coeficiente de ocupação conforme indicado no Uso do Solo, com exceção daquelas já construídas e consolidadas, que poderão serem legalizadas de forma que estão.
+
 (Redação acrescentada pela Lei Complementar nº 103, de 17 de julho de 2015).
 
-§6º – A cobertura deverá ter altura máxima de 5,5 (cinco vírgula cinco) metros e não ter fechamento lateral.<br>
+§6º – A cobertura deverá ter altura máxima de 5,5 (cinco vírgula cinco) metros e não ter fechamento lateral.
+
 (Redação acrescentada pela Lei Complementar nº 103, de 17 de julho de 2015).
 
 Art. 75. A instalação e funcionamento de indústrias, comércio, prestação de serviços e atendimento coletivo, cujas atividades possam causar danos ao meio ambiente, estão sujeitas à aprovação do órgão técnico competente e no processo de Licenciamento ambiental ou no Estudo de Impacto de Vizinhança (EIV) poderão ser exigidos padrões mais restritivos em função do impacto ambiental.
@@ -1151,7 +1230,8 @@ Art. 80. O mapa do zoneamento, ao qual se refere os artigos 14, 18, 22, 26, 30, 
 
 Parágrafo único. Num prazo de no máximo 90 (noventa) dias o órgão municipal público competente pelo Planejamento Municipal Sustentado regulamentará as zonas definidas no mapa do zoneamento descrevendo todos os lotes pertencentes a cada zona, identificando-os pela quadra, logradouro e bairro através de emenda a este Projeto de Lei e aprovado pela Câmara Municipal.
 
-TÍTULO V<br>
+TÍTULO V
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 81. As modificações em projetos de construção licenciados, desde que sem acréscimo de área construída ou alteração de qualquer dos parâmetros urbanísticos estabelecidos quando do ato de aprovação, deverão atender somente às prescrições edilícias constantes de lei própria.
@@ -1176,44 +1256,58 @@ Art. 88. Esta Lei entrará em vigor na data da sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos trinta dias do mês de janeiro de dois mil e dois.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-ROGÉRIO ARANTES<br>
+ROGÉRIO ARANTES
+
 VICE-PREFEITO
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-MARCOS AURÉLIO L. DE ARIMATÉIA<br>
+MARCOS AURÉLIO L. DE ARIMATÉIA
+
 SEC. DE PLANEJAMENTO
 
-ZANONE RODRIGUES PEREIRA<br>
+ZANONE RODRIGUES PEREIRA
+
 SEC. DE FINANÇAS
 
-VALDIVINO EDSON DE AZEVEDO<br>
+VALDIVINO EDSON DE AZEVEDO
+
 SEC. DE DESPORTO E LAZER
 
-SÔNIA ELIAS DOS S. OLIVEIRA<br>
+SÔNIA ELIAS DOS S. OLIVEIRA
+
 SEC. DO BEM-ESTAR SOCIAL
 
-FELISMAR ANTÔNIO MARTINS<br>
+FELISMAR ANTÔNIO MARTINS
+
 SEC. DE IND. E COMÉRCIO
 
-CARLOS AUGUSTO B. MACHADO<br>
+CARLOS AUGUSTO B. MACHADO
+
 SEC. DE SAÚDE
 
-RONALDO AGUIAR DA SILVA<br>
+RONALDO AGUIAR DA SILVA
+
 SEC . DE ADMINISTRAÇÃO
 
-FRANCISCO GOMES DE ABREU<br>
+FRANCISCO GOMES DE ABREU
+
 SEC. DE EDUCAÇÃO
 
-HILÁRIO GIACOMET<br>
+HILÁRIO GIACOMET
+
 SEC. DE DESENVOLVIMENTO URBANO
 
-DANIEL DA ROCHA COUTO<br>
+DANIEL DA ROCHA COUTO
+
 AUDITOR GERAL
 
-MANOEL NASCIMENTO MACÊDO<br>
+MANOEL NASCIMENTO MACÊDO
+
 SEC. DE AÇÃO URBANA E MEIO AMBIENTE

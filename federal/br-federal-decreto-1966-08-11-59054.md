@@ -1,5 +1,3 @@
-###DEC-059054-0-000-11-08-1966@@@
-
 DECRETO Nº 59.054, DE 11 DE AGÔSTO DE 1966.
 
 Concede à American Motorists Insurance Company autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

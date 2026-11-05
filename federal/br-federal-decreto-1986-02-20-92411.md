@@ -1,5 +1,3 @@
-###DEC-092411-0-000-20-02-1986@@@
-
 DECRETO Nº 92.411, DE 20 DE FEVEREIRO DE 1986
 
 Outorga concessão à RÁDIO SETE LAGOAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Sete Lagoas, Estado de Minas Gerais.

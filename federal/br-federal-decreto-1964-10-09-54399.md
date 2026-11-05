@@ -1,5 +1,3 @@
-###DEC-054399-0-000-09-10-1964@@@
-
 DECRETO Nº 54.399, DE 9 DE OUTUBRO DE 1964.
 
 Determina providências transitórias para o funcionamento dos Cursos da Escola de Comando e Estado-Maior da Aeronáutica.

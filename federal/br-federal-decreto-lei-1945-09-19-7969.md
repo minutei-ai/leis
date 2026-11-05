@@ -1,5 +1,3 @@
-###DEL-007969-0-000-19-09-1945@@@
-
 DECRETO-LEI N. 7.969 – DE 19 DE SETEMBRO DE 1945
 
 Dispõe sôbre os exames médicos para a concessão de licença aos servidores públicos, e da outras providências.

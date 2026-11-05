@@ -1,5 +1,3 @@
-###DEC-054520-0-000-21-10-1964@@@
-
 DECRETO Nº 54.520, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Siderúrgica Cruzeiro do Sul - CRUZUL - a lavrar minério de ferro, de manganês, dolomita, mármore e ocre, no município de Santa Bárbara, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-007212-0-000-29-12-1944@@@
-
 DECRETO-LEI N. 7.212 – DE 29 DE DEZEMBRO DE 1944
 
 Autoriza a aquisição de imóveis no município de Itaparica, Estado da Bahia

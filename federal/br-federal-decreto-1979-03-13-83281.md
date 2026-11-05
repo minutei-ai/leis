@@ -1,5 +1,3 @@
-###DEC-083281-0-000-13-03-1979@@@
-
 Decreto nº 83.281, de 13 de março de 1979
 
 Autoriza o aumento de capital da Companhia Nacional de Álcalis

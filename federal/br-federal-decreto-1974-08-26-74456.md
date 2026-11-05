@@ -1,5 +1,3 @@
-###DEC-074456-0-000-26-08-1974@@@
-
 DECRETO Nº 74.456 - DE 26 DE agosto DE 1974.
 
 Concede reconhecimento ao curso de Medicina do Centro de Ciências da Saúde da Universidade Federal do Piauí, com sede na cidade de Teresina, Estado do Piauí.

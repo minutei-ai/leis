@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210304)<br>
-
 # DECRETO N° 69.126, DE 09 DE DEZEMBRO DE 2024
 
 ### _Altera a redação do Decreto n° 60.435, de 13 de maio de 2014, que dispõe sobre as consignações em folha de pagamento de servidores públicos civis e militares, ativos, inativos e reformados e de pensionistas da Administração direta e autárquica e dá providências correlatas._

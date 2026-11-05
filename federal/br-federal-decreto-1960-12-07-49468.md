@@ -1,5 +1,3 @@
-###DEC-049468-0-000-07-12-1960@@@
-
 DECRETO N. 49.468 – DE 7 DE DEZEMBRO DE 1960
 
 Concede à Sociedade Anônima "Pan Àmerican World Airways, Inc." autorização para continuar a funcionar na República com alterações introduzidas em seus Estatutos.

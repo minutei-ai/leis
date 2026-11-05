@@ -1,5 +1,3 @@
-###DEC-075791-0-000-28-05-1975@@@
-
 DECRETO Nº 75.791, DE 28 DE MAIO DE 1975.
 
 Dispõe sobre a alteração do Decreto nº 64.172, de 6 março de 1969, que aprovou o enquadramento do pessoal da Superintendência do Desenvolvimento da Pesca (SUDEPE), modificado pelo de nº 64.859, de 23 de julho de 1967, e da outras providências.

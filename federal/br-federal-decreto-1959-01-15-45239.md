@@ -1,5 +1,3 @@
-###DEC-045239-0-000-15-01-1959@@@
-
 Decreto nº 45.239, de 15 de janeiro de 1959.
 
 Autoriza o cidadão brasileiro José Luiz de Oliveira e Silva a lavrar argila e areia quartzosa no município de São Simão, Estado de São Paulo.

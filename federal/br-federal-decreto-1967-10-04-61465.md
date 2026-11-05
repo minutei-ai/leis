@@ -1,5 +1,3 @@
-###DEC-061465-0-000-04-10-1967@@@
-
 decreto Nº 61.465, DE 4 DE OUTUBRO DE 1967.
 
 Prorroga o decreto nº 55.600, de 20 de janeiro de 1965, que declarou prioritário ao desenvolvimento do Nordeste o empreendimento de que é titular a Emprêsa “Armazéns Gerais Frigoríficos União S.A. - FRIUSA”, de Salvador (Ba).

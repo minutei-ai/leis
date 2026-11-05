@@ -12,8 +12,10 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA – GO, 04 de outubro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil

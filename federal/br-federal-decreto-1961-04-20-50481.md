@@ -1,5 +1,3 @@
-###DEC-050481-0-000-20-04-1961@@@
-
 Decreto nº 50.481, de 20 de abril de 1961.
 
 Cria o Consulado honorário do Brasil em Sucre, Bolívia.

@@ -1,5 +1,3 @@
-###DEC-002547-0-000-14-04-1998@@@
-
 DECRETO Nº 2.547, DE 14 DE ABRIL DE 1998
 
 Promulga o Tratado sobre Transferência de Presos, celebrado entre o Governo da República Federativa do Brasil e o Governo do Canadá, celebrado em Brasília, em 15 de julho de 1992.
@@ -136,4 +134,20 @@ ARTIGO X
 
 Feito em Brasília, aos 15 dias do mês de julho de 1992, em dois exemplares originais, nas línguas portuguesa, inglesa e francesa, sendo os três textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo do Canadá</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Celso Lafer</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">William L. Clarke</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo do Canadá
+
+</td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Celso Lafer
+
+</td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+William L. Clarke
+
+</td></tr></tbody></table>

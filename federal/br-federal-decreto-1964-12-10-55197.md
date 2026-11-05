@@ -1,5 +1,3 @@
-###DEC-055197-0-000-10-12-1964@@@
-
 DECRETO Nº 55.197, DE 10 DE DEZEMBRO DE 1964.
 
 Exclui da proibição constante do Decreto nº 54.003, de 3 de julho de 1964, as nomeações interinas para cargos vagos da Superintendência do Desenvolvimento do Nordeste.

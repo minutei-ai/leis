@@ -6,7 +6,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuiç�
 
 Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO PESTALOZZI DE POJUCA, com sede e foro no município de Pojuca.
 
-Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.998, de 10 de janeiro de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-9998-de-10-de-janeiro-de-2006#LO_9_998_Art__1) .<br>
+Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.998, de 10 de janeiro de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-9998-de-10-de-janeiro-de-2006#LO_9_998_Art__1) .
+
 Redação original: "Art. 1º - Fica declarada de utilidade pública a SOCIEDADE PESTALOZZI DE POJUCA, com sede e foro no município de Pojuca."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.
@@ -19,4 +20,4 @@ ANTONIO HONORATO
 
 Presidente
 
-* * *
+ *

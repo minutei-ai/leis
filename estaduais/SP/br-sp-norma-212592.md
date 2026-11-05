@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212592)<br>
-
 # DECRETO N° 70.598, DE 13 DE MAIO DE 2026
 
 ### _Dispõe sobre a criação de Comitê Estadual da Copa do Mundo Feminina de 2027 e dá providências correlatas._

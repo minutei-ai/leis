@@ -1,5 +1,3 @@
-###DEC-059560-0-000-14-11-1966@@@
-
 DECRETO Nº 59.560, DE 14 DE NOVEMBRO DE 1966.
 
 Revoga o Decreto nº 57.821, de 15 de fevereiro de 1966 e dá nova regulamentação aos artigos 56 e 71, da Lei nº 4.728, de 14 de julho de 1965, no que se refere a Obrigações do Tesouro Nacional - Lei nº 4.357-64.

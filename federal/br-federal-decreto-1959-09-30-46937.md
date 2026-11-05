@@ -1,5 +1,3 @@
-###DEC-046937-0-000-30-09-1959@@@
-
 DECRETO Nº 46.937, DE 30 DE SETEMBRO DE 1959.
 
 Concede à Immobiliare Casa Latina - Società Per Azioni autorização para continuar a funcionar na República.

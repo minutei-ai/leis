@@ -1,5 +1,3 @@
-###DEC-068757-0-000-16-06-1971@@@
-
 DECRETO Nº 68.757 - DE 16 DE JUNHO DE 1971.
 
 Aprova incorporação de emprêsa de energia elétrica no Estado do Paraná e dá outras providências.

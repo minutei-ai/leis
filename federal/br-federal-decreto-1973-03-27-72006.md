@@ -1,5 +1,3 @@
-###DEC-072006-0-000-27-03-1973@@@
-
 DECRETO Nº 72.006, DE 27 DE MARÇO DE 1973.
 
 Concede a Hidrominas Santa Maria Indústria e Comércio Ltda. o direito de lavrar água mineral no Município de Parnamirim, Estado do Rio Grande do Norte.

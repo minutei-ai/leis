@@ -1,5 +1,3 @@
-###DEC-081257-0-000-26-01-1978@@@
-
 Decreto nº 81.257, de 26 de janeiro de 1978
 
 Declara a caducidade do Manifesto de Mina que menciona.

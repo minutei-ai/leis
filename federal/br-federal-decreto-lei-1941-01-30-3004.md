@@ -1,5 +1,3 @@
-###DEL-003004-0-000-30-01-1941@@@
-
 DECRETO-LEI N. 3.004 – DE 30 DE JANEIRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 37:200$0, para pagamento de vencimentos.

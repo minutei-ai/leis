@@ -1,5 +1,3 @@
-###DEL-009366-0-000-17-06-1946@@@
-
 DECRETO-LEI N. 9. 366 – DE 17 DE JUNHO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 1.770.601,50 e torna sem aplicação dotações do Plano de Obras e Equipamentos.

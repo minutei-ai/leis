@@ -1,7 +1,3 @@
-1
-
-###DEC-098125-0-000-06-09-1989@@@
-
 DECRETO N° 98.125, DE 6 DE SETEMBRO DE 1989
 
 Regulamenta o art. 30 do Decreto-Lei n° 1.455, de 7 de abril de 1976, com a redação dada pelo art. 83 da Lei n° 7.450, de 23 de dezembro de 1985, que trata da destinação de mercadorias apreendidas.

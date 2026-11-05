@@ -1,5 +1,3 @@
-###DEC-047953-0-000-21-03-1960@@@
-
 (\*) DECRETO Nº 47.953, DE 21 DE MARÇO DE 1960.
 
 Atribue à NOVACAP a construção, manutenção e operação dos serviços de comunicações radiotelefônicas entre Brasília e cidades que enumera, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004603-0-000-21-02-2003@@@
-
 DECRETO Nº 4.603, DE 21 DE FEVEREIRO DE 2003.
 
 Dispõe sobre a composição e o funcionamento do Conselho Deliberativo do Fundo Constitucional de Financiamento do Centro-Oeste.

@@ -1,5 +1,3 @@
-###DEC-070252-0-000-07-03-1972@@@
-
 DECRETO Nº 70.252, DE 7 DE MARÇO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado na cidade de Recife, Estado de Pernambuco, destinado a ampliação da estação terminal de microondas da Empresa Brasileira de Telecomunicações - EMBRATEL, naquela cidade.

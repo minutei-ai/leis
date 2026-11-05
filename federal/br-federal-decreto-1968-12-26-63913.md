@@ -1,5 +1,3 @@
-###DEC-063913-0-000-26-12-1968@@@
-
 DECRETO Nº 63.913, DE 26 DE DEZEMBRO DE 1968.
 
 Institui, no Ministério da Educação e Cultura, a Comissão de Assuntos Internacionais.

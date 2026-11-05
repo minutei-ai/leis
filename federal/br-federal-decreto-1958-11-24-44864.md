@@ -1,5 +1,3 @@
-###DEC-044864-0-000-24-11-1958@@@
-
 decreto nº 44.864, de 24 de novembro de 1958.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$1.000.000,00, para auxiliar a Prefeitura de Borba, no Estado do Amazonas.

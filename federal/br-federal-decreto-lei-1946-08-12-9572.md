@@ -1,5 +1,3 @@
-###DEL-009572-0-000-12-08-1946@@@
-
 DECRETO-LEI N. 9.572 – DE 12 DE AGÔSTO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção do imposto de transmissão “causa-mortis".

@@ -1,5 +1,3 @@
-###DEC-048110-0-000-13-04-1960@@@
-
 DECRETO Nº 48.110, DE 13 DE abril DE 1960.
 
 Retifica o art. 1º do Decreto número 47.374, de 7 de dezembro de 1959.

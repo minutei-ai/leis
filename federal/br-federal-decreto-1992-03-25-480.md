@@ -1,7 +1,3 @@
-1
-
-###DEC-000480-0-000-25-03-1992@@@
-
 DECRETO DE N° 480 DE 25 DE MARÇO DE 1992
 
 Dispõe sobre inclusão e exclusão de participações acionárias da Petrobrás Química S.A. - PETROQUISA no âmbito do Programa Nacional de Desestatização.

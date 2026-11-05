@@ -1,5 +1,3 @@
-###DEC-006964-0-000-29-09-2009@@@
-
 DECRETO Nº 6.964, DE 29 DE SETEMBRO DE 2009.
 
 Promulga o Acordo sobre Residência para Nacionais dos Estados Partes do MERCOSUL, assinado por ocasião da XXIII Reunião do Conselho do Mercado Comum, realizada em Brasília, nos dias 5 e 6 de dezembro de 2002.

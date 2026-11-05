@@ -1,5 +1,3 @@
-###DEC-053223-0-000-12-12-1963@@@
-
 Decreto nº 53.223, de 12 de dezembro de 1963.
 
 Autoriza a cidadã brasileira Carolina Alzira Divino César a pesquisar minério de ferro no município de Sento Sé, Estado da Bahia.

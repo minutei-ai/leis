@@ -1,5 +1,3 @@
-###DEC-058103-0-000-30-03-1966@@@
-
 DECRETO Nº 58.103, DE 30 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Manoel Jorge Curi a pesquisar esmeralda no município de Vitória da Conquista, Estado da Bahia.

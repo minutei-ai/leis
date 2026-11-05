@@ -1,5 +1,3 @@
-###DEC-068299-0-000-01-03-1971@@@
-
 Decreto nº 68.299, de 1 de Março de 1971.
 
 Redistribui, com a respectiva ocupante, cargo do Ministério da Agricultura para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

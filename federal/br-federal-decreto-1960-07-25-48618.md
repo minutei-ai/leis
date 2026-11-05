@@ -1,5 +1,3 @@
-###DEC-048618-0-000-25-07-1960@@@
-
 DECRETO Nº 48.618, DE 25 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Flávio Beneduce a pesquisar quartzito no município de Santana do Parnaíba, Estado de São Paulo.

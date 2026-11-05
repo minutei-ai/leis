@@ -1,5 +1,3 @@
-###DEC-090769-0-000-28-12-1984@@@
-
 Decreto nº 90.769, de 28 de dezembro de 1984
 
 Renova a concessão outorgada à TELEVISÃO TUIUTI S/A, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Pelotas, Estado do Rio Grande do Sul.

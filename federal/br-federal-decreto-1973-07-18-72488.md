@@ -1,5 +1,3 @@
-###DEC-072488-0-000-18-07-1973@@@
-
 DECRETO Nº 72.488, DE 18 DE JUNHO DE 1973.
 
 Concede reconhecimento ao curso de Engenheiro de Operação, da Escola de Engenharia Industrial, mantida pela Associação Joseense de Ensino, com sede na cidade de São José dos Campos, Estado de São Paulo.

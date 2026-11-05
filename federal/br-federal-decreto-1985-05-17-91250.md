@@ -1,5 +1,3 @@
-###DEC-091250-0-000-17-05-1985@@@
-
 Decreto nº 91.250, de 17 de maio de 1985.
 
 Altera dispositivos do Decreto nº 83 989, de 18 de setembro de 1979, que dispõe sobre os Grupos-Outras Atividades de Nível Superior, Serviços Auxiliares, outras Atividades de Nível Médio e Artesanato, a que se refere o artigo 2º da Lei nº 6.550, de 5 de julho de 1978, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-079101-0-000-06-01-1977@@@
-
 DECRETO Nº 79.101, DE 6 DE JANEIRO DE 1977
 
 Declara de utilidade pública para fins de desapropriação, o imóvel que menciona, destinado ao Ministério do Exército.

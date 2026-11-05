@@ -1,5 +1,3 @@
-###DEC-047321-0-000-02-12-1959@@@
-
 Decreto nº 47.321, de 2 de dezembro de 1959.
 
 Renova o Decreto nº 42.103, de 19 de agôsto de 1957.

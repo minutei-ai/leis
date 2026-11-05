@@ -1,7 +1,3 @@
-1
-
-###DEL-002467-0-000-01-09-1988@@@
-
 # DECRETO‑LEI N° 2.467, DE 1° DE SETEMBRO DE 1988
 
 Altera o Decreto‑Lei n° 221, de 28 de fevereiro de 1967, que dispõe sobre a proteção e estímulos à pesca, e dá outras providências.

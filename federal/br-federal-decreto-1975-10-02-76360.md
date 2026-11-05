@@ -1,5 +1,3 @@
-###DEC-076360-0-000-02-10-1975@@@
-
 DECRETO Nº 76.360, de 2 de outubro de 1975.
 
 Outorga concessão á Rádio juazeiro da Bahia Ltda., para estabelecer uma estação de radiodifusão sonora em onda tropical, na cidade de Juazeiro, Estado da Bahia.

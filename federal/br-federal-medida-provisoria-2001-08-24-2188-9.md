@@ -1,5 +1,3 @@
-###MPV-002188-0-009-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.188-9, DE 24 DE AGOSTO DE 2001
 
  Dispõe sobre a reestruturação da remuneração dos militares das Forças Armadas, altera as Leis nos 3.765, de 4 de maio de 1960, e 6.880, de 9 de dezembro de 1980, e dá outras providências.

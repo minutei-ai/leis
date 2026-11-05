@@ -1,4 +1,5 @@
-DECRETO “N” Nº 84 de 02 de fevereiro de 2023.<br>
+DECRETO “N” Nº 84 de 02 de fevereiro de 2023.
+
 (Revogado pelo Decreto "N" Nº 11, de 15 de janeiro de 2024).
 
 ~~Nomeia membros para compor a Comissão Permanente de Licitação, Comissão Especial do Regime Diferenciado de Contratação, Pregoeiros e Equipe de Apoio do Município de Aparecida de Goiânia.~~
@@ -89,11 +90,14 @@ DECRETO “N” Nº 84 de 02 de fevereiro de 2023.<br>
 
  
 
-~~VILMAR MARIANO<br>
+~~VILMAR MARIANO
+
 Prefeito~~
 
-~~FÁBIO PASSAGLIA<br>
+~~FÁBIO PASSAGLIA
+
 Secretário de Governo~~
 
-~~ARTHUR HENRIQUE DE SOUSA BRAGA<br>
+~~ARTHUR HENRIQUE DE SOUSA BRAGA
+
 Secretário de Administração~~

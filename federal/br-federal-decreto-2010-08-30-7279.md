@@ -1,5 +1,3 @@
-###DEC-007279-0-000-30-08-2010-PUB-01@@@
-
 DECRETO Nº 7.279, DE 30 DE AGOSTO DE 2010.
 
 Autoriza a cessão onerosa de créditos da União para o Banco de Desenvolvimento Econômico e Social - BNDES, decorrentes de suas participações societárias no capital das Centrais Elétricas Brasileiras S.A. - Eletrobrás

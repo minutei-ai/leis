@@ -72,9 +72,12 @@ Art. 39 - As despesas decorrentes da aplicação desta Lei serão custeadas à c
 
 Art. 9º Fica alterado o Anexo I da Lei Complementar nº 95, de 17 de outubro de 2014, passando a viger com a seguinte redação:
 
-Anexo I<br>
-TRABALHADORES ADMINISTRATIVOS DA EDUCAÇÃO – TAE<br>
-QUADRO PERMANENTE<br>
+Anexo I
+
+TRABALHADORES ADMINISTRATIVOS DA EDUCAÇÃO – TAE
+
+QUADRO PERMANENTE
+
 Cargos de Provento Efetivo
 
 | **Denominação dos Cargos** | **Nível Inicial do Cargo** |
@@ -92,10 +95,14 @@ Cargos de Provento Efetivo
 
 Art. 10 Fica alterado o Anexo II da Lei Complementar nº 95, de 17 de outubro de 2014, passando a viger com a seguinte redação:
 
-Anexo II<br>
-TRABALHADORES ADMINISTRATIVOS DA EDUCAÇÃO – TAE<br>
-TABELA DE VENCIMENTOS<br>
-Período de Vigência 01/01/2020 à 31/12/2020<br>
+Anexo II
+
+TRABALHADORES ADMINISTRATIVOS DA EDUCAÇÃO – TAE
+
+TABELA DE VENCIMENTOS
+
+Período de Vigência 01/01/2020 à 31/12/2020
+
 Carga Horária – 30 horas semanais
 
 | **Cargo** | **Nível** | **Referências** |
@@ -137,8 +144,10 @@ Carga Horária – 30 horas semanais
 
 Art. 11 Fica alterado o Anexo III da Lei Complementar nº 95, de 17 de outubro de 2014, passando a viger com a seguinte redação:
 
-Anexo III<br>
-TRABALHADORES ADMINISTRATIVOS DA EDUCAÇÃO – TAE<br>
+Anexo III
+
+TRABALHADORES ADMINISTRATIVOS DA EDUCAÇÃO – TAE
+
 TABELA DE ENQUADRAMENTO
 
 | **Nova Denominação** |
@@ -166,8 +175,10 @@ TABELA DE ENQUADRAMENTO
 
 Art. 12 Fica alterado o Anexo IV da Lei Complementar nº 95, de 17 de outubro de 2014, passando a viger com a seguinte redação:
 
-Anexo IV<br>
-Trabalhadores Administrativos da Educação - TAE<br>
+Anexo IV
+
+Trabalhadores Administrativos da Educação - TAE
+
 Tabela de Progressão Vertical
 
 | **Denominação dos Cargos** | **Escolaridade/Profissionalização** | **Nível** |
@@ -205,7 +216,8 @@ Tabela de Progressão Vertical
 
 Art. 13 Fica alterado o Anexo V da Lei Complementar nº 95, de 17 de outubro de 2014, passando a viger com a seguinte redação:
 
-Anexo V<br>
+Anexo V
+
 Descrição Sumária dos Cargos e Requisitos para o Ingresso
 
 | **Cargo** | **Escolaridade/Profissionalização** | **Descrição Sumária** |
@@ -225,8 +237,10 @@ Art. 14 Esta lei entrará em vigor na data de sua publicação, com exceção do
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 09 de Outubro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-Olavo Noleto Alves<br>
+Olavo Noleto Alves
+
 Chefe da Casa Civil

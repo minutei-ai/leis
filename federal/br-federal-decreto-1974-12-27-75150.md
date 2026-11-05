@@ -1,5 +1,3 @@
-###DEC-075150-0-000-27-12-1974@@@
-
 DECRETO Nº 75.150, DE 27 DE DEZEMBRO DE 1974.
 
 Autoriza o Serviço Patrimônio da União a não aceitar a doação do terreno que menciona, situado no Estado de Goiás.

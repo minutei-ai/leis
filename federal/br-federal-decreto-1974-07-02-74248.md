@@ -1,5 +1,3 @@
-###DEC-074248-0-000-02-07-1974@@@
-
 DECRETO Nº 74.248 - DE 02 DE JULHO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado na Fazenda Bonsucesso, Município de Jataí, Estado de Goiás.

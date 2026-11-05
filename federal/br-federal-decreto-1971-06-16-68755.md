@@ -1,5 +1,3 @@
-###DEC-068755-0-000-16-06-1971@@@
-
 DECRETO Nº 68.755 - DE 16 DE JUNHO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada a passagem da linha de transmissão a ser estabelecida no Estado de Minas Gerais.

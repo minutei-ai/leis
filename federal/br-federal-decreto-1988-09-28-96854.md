@@ -1,5 +1,3 @@
-###DEC-096854-0-000-28-09-1988@@@
-
 DECRETO Nº 96.854, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão a RÁDIO DIFUSORA DE NOVA RUSSAS LTDA., para explorar serviço de radiodifusão sonora em onda média na Cidade de Nova Russas, Estado do Ceará.

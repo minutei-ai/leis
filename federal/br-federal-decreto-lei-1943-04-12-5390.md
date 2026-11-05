@@ -1,5 +1,3 @@
-###DEL-005390-0-000-12-04-1943@@@
-
 DECRETO-LEI N. 5.390 – DE 12 DE ABRIL DE 1943
 
 Autoriza a alienação de Imovel pertencente à União

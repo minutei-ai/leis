@@ -1,5 +1,3 @@
-###DEC-000618-0-000-28-07-1992@@@
-
 DECRETO N° 618, DE 28 DE JULHO DE 1992
 
 Altera o Estatuto da Fundação Alexandre de Gusmão - FUNAG.

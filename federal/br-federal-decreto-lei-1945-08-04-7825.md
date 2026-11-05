@@ -1,5 +1,3 @@
-###DEL-007825-0-000-04-08-1945@@@
-
 DECRETO-LEI N. 7.825 – DE  4 DE AGÔSTO DE 1945
 
 Autoriza o Estado do Rio de Janeiro a organizar a Emprêsa Fluminense de Energia Elétrica  S. A. (E.F.E.), e dá outras providências.

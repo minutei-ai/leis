@@ -1,5 +1,3 @@
-###DEC-048285-0-000-10-06-1960@@@
-
 DECRETO N. 48.285 – DE 10 DE JUNHO DE 1960
 
 Regulamenta a concessão das gratificações previstas no art. 145, itens V e VI da Lei nº 1.711, de 28 de outubro de 1952, aos servidores que exerçam cargos ou funções relacionados com o serviço da química no Serviço Público Federal e nas autarquias, e dá outras providências.

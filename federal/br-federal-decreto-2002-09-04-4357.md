@@ -1,5 +1,3 @@
-###DEC-004357-0-000-04-09-2002@@@
-
 DECRETO Nº 4.357, DE 4 DE SETEMBRO DE 2002
 
 Altera a alíquota do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários -IOF, na hipótese que menciona.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/92e8412a-8380-4190-a804-90c78e398b53/texto#nowhere)
 
-###DEL-000894-0-000-26-09-1969@@@
-
 DECRETO-LEI Nº 894, DE 26 DE SETEMBRO DE 1969
 
 Declara de interêsse da Segurança Nacional, nos têrmos do artigo 16, § 1º, alínea b, da Constituição, o Município que especifica, e dá outras providências.

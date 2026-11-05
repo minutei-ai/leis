@@ -1,5 +1,3 @@
-###DEC-080637-0-000-27-10-1977@@@
-
 DECRETO Nº 80.637, DE 27 DE OUTUBRO DE 1977.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Município de Matinhos, Estado do Paraná.

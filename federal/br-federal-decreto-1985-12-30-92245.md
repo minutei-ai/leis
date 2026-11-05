@@ -1,5 +1,3 @@
-###DEC-092245-0-000-30-12-1985@@@
-
 DECRETO Nº 92.245, de 30 de dezembro 1985
 
 Outorga concessão à RADIO VALE DO PACOTI LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Aquiraz, Estado do Ceará.

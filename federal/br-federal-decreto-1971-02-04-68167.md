@@ -1,5 +1,3 @@
-###DEC-068167-0-000-04-02-1971@@@
-
 DECRETO Nº 68.167, DE 4 DE FEVEREIRO DE 1971.
 
 Dispõe sobre recrutamento e retribuição do pessoal do Corpo Científico do Instituto de Matemática Pura e Aplicada (IMPA), e dá outras providências.

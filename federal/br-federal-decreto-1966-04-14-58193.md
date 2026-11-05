@@ -1,5 +1,3 @@
-###DEC-058193-0-000-14-04-1966@@@
-
 DECRETO Nº 58.193, DE 14 DE ABRIL DE 1966.
 
 Cria o Fundo de Estímulo Financeiro ao uso de Fertilizantes e Suplementos Minerais - FUNFERTIL, e dá outras providências.

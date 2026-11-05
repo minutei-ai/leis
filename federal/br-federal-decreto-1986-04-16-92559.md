@@ -1,5 +1,3 @@
-###DEC-092559-0-000-16-04-1986@@@
-
 DECRETO Nº 92.559, DE 16 DE ABRIL DE 1986
 
 Dispõe sobre a requisição de servidores para a Superintendência Nacional do Abastecimento (SUNAB).

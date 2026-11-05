@@ -1,5 +1,3 @@
-###DEC-064371-0-000-18-04-1969@@@
-
 DECRETO Nº 64.371, DE 18 DE ABRIL DE 1969.
 
 Retifica o artigo 1º do Decreto número 55.400, de 31 de dezembro de 1964.

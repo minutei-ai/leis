@@ -1,5 +1,3 @@
-###DEC-088216-0-000-06-04-1983@@@
-
 DECRETO Nº 88.216, DE 06 DE ABRIL DE 1983.
 
 Concede ao Serviço Federal de Processamento de Dados - SERPRO autorização para proceder a aumento de seu capital social.

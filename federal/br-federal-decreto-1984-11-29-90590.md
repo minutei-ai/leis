@@ -1,5 +1,3 @@
-###DEC-090590-0-000-29-11-1984@@@
-
 DECRETO nº 90.590, de 29 de novembro de 1984.
 
 Autoriza empresas de telecomunicações controladas pela Telecomunicações Brasileiras S.A. - TELEBRÁS, a promoverem aumento de capital social.

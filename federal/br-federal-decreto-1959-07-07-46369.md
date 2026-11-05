@@ -1,5 +1,3 @@
-###DEC-046369-0-000-07-07-1959@@@
-
 DECRETO Nº 46.396, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias ao aproveitamento do vale do rio Pajeu, no Estado de Pernambuco.

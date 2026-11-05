@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69326)
-
 # LEI Nº 12.437, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 831/2005, do Deputado Valdomiro Lopes)

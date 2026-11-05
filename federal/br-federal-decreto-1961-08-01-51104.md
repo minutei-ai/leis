@@ -1,5 +1,3 @@
-###DEC-051104-0-000-01-08-1961@@@
-
 decreto nº 51.104, de 1º de agôsto de 1961.
 
 Cria o Fundo de Recuperação da Agro-Indústria Canavieira e dá outras providências.

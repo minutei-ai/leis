@@ -1,5 +1,3 @@
-###DEC-085857-0-000-30-03-1981@@@
-
 Decreto nº 85.857, dE 30 de março de 1981
 
 Dispensa a licitação na alienação das terras públicas que menciona, e dá outras providências.

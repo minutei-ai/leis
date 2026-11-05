@@ -1,5 +1,3 @@
-###DEC-077033-0-000-15-01-1976@@@
-
 DECRETO Nº 77.033, DE 15 DE JANEIRO DE 1976
 
 Altera o Decreto nº 73.562, de 24 de janeiro de 1974, que declarou interditas, para fins de atração de grupos indígenas, áreas no Estado de Mato Grosso e Território Federal de Rondônia.

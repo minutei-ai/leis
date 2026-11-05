@@ -1,5 +1,3 @@
-###DEC-067482-0-000-04-11-1970@@@
-
 DECRETO Nº 67.482, DE 4 DE NOVEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargos originários da extinta autarquia Serviços de Navegação da Amazônia e da Administração do Porto do Pará

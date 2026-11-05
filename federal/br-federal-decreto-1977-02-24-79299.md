@@ -1,5 +1,3 @@
-###DEC-079299-0-000-24-02-1977@@@
-
 DECRETO Nº 79.299, DE 24 DE FEVEREIRO DE 1977.
 
 Exclui funcionário do Ministério da Fazenda do regime de disponibilidade e dá outras providências.

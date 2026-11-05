@@ -1,5 +1,3 @@
-###DEC-069601-0-000-24-11-1971@@@
-
 DECRETO Nº 69.601 - DE 24 de NOVEMBRO DE 1971
 
 Revoga o Decreto n° 9.021, de 11 de outubro de 1911, que concedeu à emprêsa Hillebrand Brazil Coal Company autorização para funcionar na República Federativa do Brasil.

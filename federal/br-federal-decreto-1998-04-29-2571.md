@@ -1,5 +1,3 @@
-###DEC-002571-0-000-29-04-1998@@@
-
 DECRETO Nº 2.571, DE 29 DE ABRIL DE 1998
 
 Prorroga o prazo de remanejamento dos cargos que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056318-0-000-21-05-1965@@@
-
 DECRETO Nº 56.318, DE 21 DE MAIO DE 1965.
 
 Autoriza o cidadão brasileiro Francisco Ferreira da Cruz a pesquisar quartzo, no município de Capelinha, Estado de Minas Gerais.

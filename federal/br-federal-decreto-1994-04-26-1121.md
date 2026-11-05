@@ -1,7 +1,3 @@
-1
-
-###DEC-001121-0-000-26-04-1994@@@
-
 DECRETO N° 1.121, DE 26 DE ABRIL DE 1994
 
 Dá nova redação ao art. 10 do Decreto n° 343, de 19 de novembro de 1991.

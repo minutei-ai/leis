@@ -1,5 +1,3 @@
-###DEC-074893-0-000-14-11-1974@@@
-
 DECRETO Nº 74.893, DE 14 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção da subestação de Icaraí, da Companhia Brasileira de Energia Elétrica - CBEE, estado do Rio de Janeiro.

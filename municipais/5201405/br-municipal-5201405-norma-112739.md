@@ -4,7 +4,8 @@ Institui dia comemorativo e dá outras providências.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-Art. 1°. Fica instituído o dia do feirante, cuja comemoração será no dia 25 de agosto de cada ano.<br>
+Art. 1°. Fica instituído o dia do feirante, cuja comemoração será no dia 25 de agosto de cada ano.
+
 (Redação alterada pela Lei Ordinária nº 3.786, de 7 de junho de 2024).
 
 ~~Art. 1º - Fica instituído o dia do feirante, cuja comemoração será no dia 10 de novembro de cada ano.~~
@@ -17,11 +18,14 @@ Art. 4º - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos oito dias do mês de novembro de dois mil e dois.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-MANOEL NASCIMENTO MACÊDO<br>
+MANOEL NASCIMENTO MACÊDO
+
 SEC. DE AÇÃO URBANA E MEIO AMBIENTE

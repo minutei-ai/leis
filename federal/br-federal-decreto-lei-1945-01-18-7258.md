@@ -1,5 +1,3 @@
-###DEL-007258-0-000-18-01-1945@@@
-
 DECRETO-LEI N. 7.258 – DE 18 DE JANEIRO DE 1945
 
 Altera a carreira de Desenhista do Quadro II – extinto – do Ministério da Viação e Obras Públicas e dá outras providências

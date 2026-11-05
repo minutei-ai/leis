@@ -1,5 +1,3 @@
-###DEC-053631-0-000-27-02-1964@@@
-
 DECRETO Nº 53.631, de 27 DE FEVEREIRO DE 1964.
 
 Excluir dos efeitos do Decreto números 52.415, de 28 de agôsto de 1963, a sociedade que menciona.

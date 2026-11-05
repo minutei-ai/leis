@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208504)<br>
-
 # RESOLUÇÃO DA ALESP N° 940, DE 14 DE SETEMBRO DE 2023
 
 ## (Projeto de Resolução n° 32, de 2023)

@@ -1,5 +1,3 @@
-###DEC-067867-0-000-17-12-1970@@@
-
 decreto nº 67.867, de 17 de dezembro de 1970.
 
 Redistribui cargo, com o respectivo ocupante, para a Universidade Federal do Rio de Janeiro e dá outras providências.

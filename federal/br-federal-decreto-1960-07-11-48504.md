@@ -1,5 +1,3 @@
-###DEC-048504-0-000-11-07-1960@@@
-
 DECRETO Nº 48.504, DE 11 DE JULHO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Agricultura.

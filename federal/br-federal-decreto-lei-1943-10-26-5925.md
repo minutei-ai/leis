@@ -1,5 +1,3 @@
-###DEL-005925-0-000-26-10-1943@@@
-
 DECRETO-LEI N. 5.925 – DE 26 DE OUTUBRO DE 1943
 
 Altera o § 4º do artigo 45 do decreto-lei n. 1.237, de 2-5-39, e dá nova redação ao parágrafo único do artigo 148 do regulamento aprovado pelo decreto n. 6.596, e 12-12-40

@@ -1,5 +1,3 @@
-###DEC-068446-0-000-30-03-1971@@@
-
 DECRETO Nº 68.446, DE 30 DE MARÇO DE 1971.
 
 Convalida Cursos na Faculdade de Ciências Econômicas de Itabuna, BA.

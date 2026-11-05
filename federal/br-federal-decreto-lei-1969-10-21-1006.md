@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0a58bbe2-8e47-410c-91b8-caf83faef138/texto#nowhere)
 
-###DEL-001006-0-000-21-10-1969@@@
-
 DEcreto-lei nº 1.006, de 21 de Outubro de 1969
 
 Transfere, para o Estado-Maior das Fôrças Armadas, cargo, com o respectivo ocupante, do Quadro de Pessoal do Ministério do Exército.

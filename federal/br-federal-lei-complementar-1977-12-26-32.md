@@ -1,5 +1,3 @@
-###LCP-000032-0-000-26-12-1977@@@
-
 # LEI COMPLEMENTAR Nº 32, DE 26 DE DEZEMBRO DE 1977
 
 Altera a redação do art. 5º, "caput", da Lei Complementar nº 1, de 9 de novembro de 1967, que "dispõe sobre a criação de novos Municípios, e dá outras providências".

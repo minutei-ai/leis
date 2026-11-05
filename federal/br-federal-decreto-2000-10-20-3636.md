@@ -1,5 +1,3 @@
-###DEC-003636-0-000-20-10-2000@@@
-
 DECRETO Nº 3.636, DE 20 DE OUTUBRO DE 2000.
 
 Altera a redação do art. 19 do Regulamento de Pessoal do Serviço Exterior, aprovado pelo Decreto nº 93.325, de 1º de outubro de 1986, e do art. 60 do Decreto nº 1.565, de 21 de julho de 1995.

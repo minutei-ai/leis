@@ -1,5 +1,3 @@
-###DEC-082067-0-000-03-08-1978@@@
-
 Decreto Nº 82.067, DE 03 DE AGOSTO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

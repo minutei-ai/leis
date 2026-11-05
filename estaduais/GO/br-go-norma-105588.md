@@ -1,4 +1,5 @@
-LEI Nº 21.397, DE 13 DE MAIO DE 2022<br>
+LEI Nº 21.397, DE 13 DE MAIO DE 2022
+
 (Norma caducada)
 
 Dispõe sobre a revisão contratual de ajustes firmados pela Agência Goiana de Infraestrutura e Transportes – GOINFRA.
@@ -7,7 +8,8 @@ A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Cons
 
 Art. 1º Esta Lei, em virtude da situação de emergência na saúde pública decorrente da disseminação do novo coronavírus (COVID-19), bem como da volatilidade e da oscilação de preços resultantes da guerra no Leste Europeu, estabelece os procedimentos e os critérios para a análise e a eventual concessão de reequilíbrio econômico-financeiro de contratos administrativos, em conformidade com os Anexos I a III.
 
-Parágrafo único. Os mecanismos de atualização e reequilíbrio econômico-financeiro de contratos de que trata esta Lei são aplicáveis à Agência Goiana de Habitação S/A – AGEHAB.<br>
+Parágrafo único. Os mecanismos de atualização e reequilíbrio econômico-financeiro de contratos de que trata esta Lei são aplicáveis à Agência Goiana de Habitação S/A – AGEHAB.
+
 \- [Acrescido pela Lei nº 21.689, de 15-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106470/lei-21689).
 
 Art. 2º O reequilíbrio econômico-financeiro relacionado aos custos de aquisição de materiais asfálticos, desde que sejam observadas as premissas e a metodologia técnica de cálculo fixadas no Anexo I desta Lei, será apurado mensalmente, após a manifestação técnica preliminar do Gestor de Contrato, com o pagamento de 75% (setenta e cinco por cento) da previsão de seu reflexo financeiro de reequilíbrio na medição de referência, conforme a apuração em análise preliminar do respectivo mês.

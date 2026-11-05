@@ -1,5 +1,3 @@
-###DEC-056333-0-000-21-05-1965@@@
-
 Decreto nº 56.333, de 21 de maio de 1965.
 
 Autoriza o cidadão brasileiro Sivert Francisco Bartholdy a lavrar ouro no município de Diamantina, Estado de Minas Gerais.

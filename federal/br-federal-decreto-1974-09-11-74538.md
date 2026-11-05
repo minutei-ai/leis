@@ -1,5 +1,3 @@
-###DEC-074538-0-000-11-09-1974@@@
-
 DECRETO Nº 74.538, DE 11 DE SETEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Engenharia de Operação da Faculdade de Engenharia Santa Cecília, mantida pelo Instituto Superior de Educação Santa Cecília, com sede na cidade de Santos, Estado de São Paulo.

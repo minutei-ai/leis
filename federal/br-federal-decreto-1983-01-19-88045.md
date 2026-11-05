@@ -1,5 +1,3 @@
-###DEC-088045-0-000-19-01-1983@@@
-
 Decreto nº 88.045, de 19 de Janeiro 1983.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Miguelópolis, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

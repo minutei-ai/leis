@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72606)
-
 # LEI Nº 12.632, DE 26 DE JUNHO DE 2007
 
 ## (Projeto de lei nº 468/2006, do Deputado Valdomiro Lopes - PSB)

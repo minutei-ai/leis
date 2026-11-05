@@ -1,5 +1,3 @@
-###DEC-050467-0-000-15-04-1961@@@
-
 DECRETO Nº 50.467, DE 15 DE ABRIL DE 1961.
 
 Determina a ocupação provisória da Estrada de Ferro Mossoró e dá outras providências.

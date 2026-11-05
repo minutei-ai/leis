@@ -1,5 +1,3 @@
-###DEC-002621-0-000-09-06-1998@@@
-
 DECRETO Nº 2.621, DE 9 DE JUNHO DE 1998
 
 Exclui da Lista de Exceção à Tarifa Externa Comum anexa ao Decreto nº 2.376, de 12 de novembro de 1997, os códigos tarifários que menciona.

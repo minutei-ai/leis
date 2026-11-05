@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209058)<br>
-
 # DECRETO N° 68.287, DE 28 DE DEZEMBRO DE 2023
 
 ### _Altera a denominação da Unidade Recomeço Helvétia, criada pelo Decreto n° 59.663, de 25 de outubro de 2013, dispõe sobre suas atribuições e dá providências correlatas._

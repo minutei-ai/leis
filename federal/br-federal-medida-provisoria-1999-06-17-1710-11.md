@@ -1,5 +1,3 @@
-###MPV-001710-0-011-17-06-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.710-11, DE 17 DE JUNHO DE 1999.
 
 Acrescenta dispositivo à Lei nº 9.065, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

@@ -1,5 +1,3 @@
-###DEC-057632-0-000-14-01-1966@@@
-
 DECRETO Nº 57.632, 14 de JANEIRO DE 1966.
 
 Baixa Normas Técnicas Especiais para a defesa sanitária do País, nas atividades que dizem respeito à “Saúde Internacional” e dá outras providências.

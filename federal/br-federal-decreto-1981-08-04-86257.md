@@ -1,5 +1,3 @@
-###DEC-086257-0-000-04-08-1981@@@
-
 Decreto nº 86.257, de 04 de agosto de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da ETD Guanabara da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

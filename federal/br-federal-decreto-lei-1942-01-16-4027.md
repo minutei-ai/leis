@@ -1,5 +1,3 @@
-###DEL-004027-0-000-16-01-1942@@@
-
 DECRETO-LEI N. 4.027 – DE 16 DE JANEIRO DE 1942
 
 Denomina “Grupo Portocarrero” o 6º Grupo de Artilharia de Costa (Forte de Coimbra)

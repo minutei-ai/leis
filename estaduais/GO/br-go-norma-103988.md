@@ -1,4 +1,5 @@
-LEI Nº 21.017, DE 26 DE MAIO DE 2021<br>
+LEI Nº 21.017, DE 26 DE MAIO DE 2021
+
 \- [Revogada pela Lei n. 23.905, de 2-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111663), art. 11.
 
 ~~Dispõe sobre a prestação de assistência religiosa nas entidades hospitalares públicas e privadas, bem como nos estabelecimentos prisionais, civis ou militares, do Estado de Goiás.~~

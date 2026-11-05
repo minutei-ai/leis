@@ -1,5 +1,3 @@
-###DEC-065072-0-000-29-08-1969@@@
-
 DECRETO Nº 65.072 - DE 29 DE AGÔSTO DE 1969.
 
 Revoga o Decreto que concedeu à sociedade The Rio Grandense Light and Power Syndicate Limited autorização para funcionar na República Federativa do Brasil.

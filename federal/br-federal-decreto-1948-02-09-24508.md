@@ -1,19 +1,17 @@
-###DEC-024508-0-000-09-02-1948@@@
+**DECRETO Nº 24.508, DE 09 DE FEVEREIRO DE 1948.**
 
-<strong>DECRETO Nº 24.508, DE 09 DE FEVEREIRO DE 1948.</strong>
+***Extingue cargos excedentes.***
 
-<em><strong>Extingue cargos excedentes.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1º, alínea “n”, do Decreto lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1º, alínea “n”, do Decreto lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam extintos cinco (5) cargos da classe D da carreira de Datilógrafo, do Quadro V - Parte Permanente - do Ministério da Viação e Obras Públicas, vagos em virtude da promoção de Alda Rodrigues de Andrade, Clotilde Cabral Cardoso, Joselita Pires de Cerqueira, Orlando Cunha de Magalhães e Valdete Pereira Duarte, devendo a dotação correspondente ser levada a crédito da conta Corrente do mesmo Quadro do referido Ministério.
 
-<strong>Art</strong>. 1º Ficam extintos cinco (5) cargos da classe D da carreira de Datilógrafo, do Quadro V - Parte Permanente - do Ministério da Viação e Obras Públicas, vagos em virtude da promoção de Alda Rodrigues de Andrade, Clotilde Cabral Cardoso, Joselita Pires de Cerqueira, Orlando Cunha de Magalhães e Valdete Pereira Duarte, devendo a dotação correspondente ser levada a crédito da conta Corrente do mesmo Quadro do referido Ministério.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 9 de fevereiro de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana

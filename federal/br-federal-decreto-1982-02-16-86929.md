@@ -1,5 +1,3 @@
-###DEC-086929-0-000-16-02-1982@@@
-
 Decreto nº 86.929, de 16 de fevereiro de 1982
 
 Autoriza a Petrobrás Química S.A. - PETROQUISA a proceder ao aumento do limite de seu Capital Social.

@@ -32,6 +32,4 @@ Cristiano Barreto Guimarães
 
 Secretário Especial de Governo
 
-_Iniciativa do Deputado Ibrain de Valmir – PV_
-
-Este texto não substitui o publicado no D.O.E. de 17.09.2026.
+_Iniciativa do Deputado Ibrain de Valmir – PV

@@ -1,5 +1,3 @@
-###DEC-079741-0-000-26-05-1977@@@
-
 DECRETO Nº 79.741, DE 26 de maio DE 1977.
 
 Concede reconhecimento ao curso de Artes Práticas, ministrados, em 1971, pela Universidade Federal do Paraná.

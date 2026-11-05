@@ -1,5 +1,3 @@
-###DEC-083506-0-000-28-05-1979@@@
-
 decreto nº 83.506, de 28 de maio de 1979.
 
 Autoriza o funcionamento do curso de Ciências das Faculdades Unidas Católicas de Mato Grosso, na cidade de Campo Grande, Estado de Mato Grosso.

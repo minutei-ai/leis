@@ -34,6 +34,18 @@ Governador do Estado
 
 ~~MESES ALUSIVOS~~
 
-<table><tbody><tr><td><p><s>DEZEMBRO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>Dezembro Laranja</s></p><p><s>............................................................................................................</s></p></td><td><p><s>16.586, de 2015</s></p></td></tr><tr><td><p><s>Dezembro Verde</s></p><p></p><p><s>Mês dedicado à conscientização contra o abandono de animais domésticos.</s></p></td><td><p></p></td></tr></tbody></table>
+~~DEZEMBRO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~Dezembro Laranja~~
+
+~~............................................................................................................~~
+
+~~16.586, de 2015~~
+
+~~Dezembro Verde~~
+
+~~Mês dedicado à conscientização contra o abandono de animais domésticos.~~
 
 ~~” (NR)~~

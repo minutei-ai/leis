@@ -1,5 +1,3 @@
-###DEL-003328-0-000-04-06-1941@@@
-
 DECRETO-LEI N. 3.328 – DE 4 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 25.000:000$0 à verba que especifica

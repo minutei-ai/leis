@@ -1,5 +1,3 @@
-###DEC-073687-0-000-21-02-1974@@@
-
 DECRETO Nº 73.687, de 21 de fevereiro de 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha.

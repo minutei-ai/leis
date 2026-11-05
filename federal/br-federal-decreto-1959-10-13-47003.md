@@ -1,5 +1,3 @@
-###DEC-047003-0-000-13-10-1959@@@
-
 DECRETO Nº 47.003, DE 13 DE OUTUBRO DE 1959.
 
 Transfere, sem aumento de despesa, função de uma para outra Tabela Numérica Especial de Extranumerário Mensalista do Ministério da Guerra, que menciona.

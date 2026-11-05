@@ -1,5 +1,3 @@
-###DEC-055943-0-000-19-04-1965@@@
-
 DECRETO Nº 55.943, DE 19 DE ABRIL DE 1965.
 
 Declara de utilidade pública a Sociedade Educadora Imaculado Coração de Maria, com sede no Estado da Guanabara.

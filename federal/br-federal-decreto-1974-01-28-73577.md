@@ -1,5 +1,3 @@
-###DEC-073577-0-000-28-01-1974@@@
-
 DECRETO Nº 73.577, DE 28 DE JANEIRO DE 1974.
 
 Altera o Regulamento do Departamento Geral do Pessoal, do Ministério do Exército, e dá outras providências.

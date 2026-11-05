@@ -1,5 +1,3 @@
-###DEL-001622-0-000-18-04-1978@@@
-
 # Decreto-lei nº 1.622, de 18 de abril de 1978
 
 Concede isenção do imposto sobre produtos industrializados e do imposto de importação nos casos que especifica.

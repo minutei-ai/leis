@@ -1,5 +1,3 @@
-###DEC-090926-0-000-07-02-1985@@@
-
 DECRETO Nº 90.926, DE 07 dE fevereiro de 1985
 
 Autoriza o funcionamento da Faculdade de Ciências Agrárias de Itumbiara, Goiás, com a curso de Agronomia.

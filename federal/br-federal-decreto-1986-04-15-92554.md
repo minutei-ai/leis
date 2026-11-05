@@ -1,5 +1,3 @@
-###DEC-092554-0-000-15-04-1986@@@
-
 DECRETO Nº 92.554, DE 15 DE ABRIL DE 1986
 
 Declara de ocupação dos indígenas, área de terras que menciona no Estado do Amazonas, e dá outras providências.

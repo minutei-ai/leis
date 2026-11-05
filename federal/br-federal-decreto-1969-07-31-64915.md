@@ -1,5 +1,3 @@
-###DEC-064915-0-000-31-07-1969@@@
-
 DECRETO Nº 64.915 - DE 31 DE JULHO DE 1969.
 
 Autoriza a transferência da concessão outorgada à Telefônica Canoense S.A. para a Companhia Riograndense de Telecomunicações.

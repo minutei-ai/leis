@@ -1,5 +1,3 @@
-###DEL-004891-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.891 – DE 29 DE OUTUBRO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a isentar a Casa dos Artistas do pagamento do imposto que menciona

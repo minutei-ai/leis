@@ -1,5 +1,3 @@
-###DEC-057728-0-000-03-02-1966@@@
-
 DECRETO Nº 57.728, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza a firma Dim - Diamantes Industrias Moix Ltda., comprar pedras preciosas.

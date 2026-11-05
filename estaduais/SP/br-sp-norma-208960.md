@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208960)<br>
-
 # DECRETO N° 68.211, DE 15 DE DEZEMBRO DE 2023
 
 ### _Altera o Decreto n° 59.103, de 18 de abril de 2013, que dispõe sobre o Regulamento do Fundo Social de São Paulo - FUSSP_

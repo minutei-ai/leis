@@ -1,5 +1,3 @@
-###DEC-007264-0-000-12-08-2010-PUB-01@@@
-
 DECRETO Nº 7.264, DE 12 DE AGOSTO DE 2010.
 
 Dispõe sobre a antecipação do abono anual devido aos segurados e dependentes da Previdência Social, no ano de 2010

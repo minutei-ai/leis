@@ -1,5 +1,3 @@
-###DEC-044932-0-000-01-12-1958@@@
-
 DECRETO Nº 44.932, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Miguel Langone a pesquisar minério de cobre, no município Apiaí, Estado de São Paulo.

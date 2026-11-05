@@ -1,5 +1,3 @@
-###DEC-099569-0-000-09-10-1990@@@
-
 DECRETO N° 99.569, DE 9 DE OUTUBRO DE 1990
 
 Eleva a categoria do Vice-Consulado do Brasil em Ciudad Guayana para Consulado.

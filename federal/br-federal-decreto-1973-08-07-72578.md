@@ -1,5 +1,3 @@
-###DEC-072578-0-000-07-08-1973@@@
-
 DECRETO Nº 72.578, DE 7 DE AGOSTO DE 1973.
 
 Confisca bem imóvel de propriedade da Fábrica de Papel Carioca S.A, e dá outras providências.

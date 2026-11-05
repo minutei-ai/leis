@@ -1,5 +1,3 @@
-###DEC-077975-0-000-07-07-1976@@@
-
 DECRETO Nº 77.975, DE 7 DE JULHO DE 1976.
 
 Autoriza o funcionamento temporário dos cursos de Letras, de Ciências e de Estudos Sociais, ministrados no Campus Avançado do Vale do Jequitinhonha, com sede na cidade de Araçuaí, Estado de Minas Gerais.

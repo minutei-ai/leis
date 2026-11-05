@@ -1,5 +1,3 @@
-###DEC-076083-0-000-05-08-1975@@@
-
 DECRETO Nº 76.083 - DE 5 DE AGOSTO DE 1975
 
 Concede à Serrana S.A. de Mineração o direito de lavrar  apatita no Município de Iperó, Estado de São Paulo.

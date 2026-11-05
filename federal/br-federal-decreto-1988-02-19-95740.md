@@ -1,7 +1,3 @@
-1
-
-###DEC-095740-0-000-19-02-1988@@@
-
 DECRETO N° 95.740, DE 19 DE FEVEREIRO DE 1988
 
 Cassa a declaração de utilidade pública concedida à instituição que menciona.

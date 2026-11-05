@@ -1,5 +1,3 @@
-###DEC-056581-0-000-19-07-1965@@@
-
 Decreto nº 56.581, de 19 de julho de 1965.
 
 Concede à firma comercial Azevedo & Companhia Ltda., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

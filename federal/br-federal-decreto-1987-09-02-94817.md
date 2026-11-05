@@ -1,5 +1,3 @@
-###DEC-094817-0-000-02-09-1987@@@
-
 DECRETO N° 94.817, DE 2 DE SETEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Monte Azul Paulista, da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

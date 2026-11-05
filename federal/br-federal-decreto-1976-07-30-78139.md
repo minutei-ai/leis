@@ -1,5 +1,3 @@
-###DEC-078139-0-000-30-07-1976@@@
-
 DECRETO Nº 78.139, DE 30 DE JULHO DE 1976.
 
 Declara sem efeito o Decreto número 20.639, de 21 de fevereiro de 1946, que concedeu a José Júlio Rodrigues Alves o direito de lavrar argila e associados.

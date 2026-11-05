@@ -1,5 +1,3 @@
-###DEC-050559-0-000-08-05-1961@@@
-
 DECRETO Nº 50.559, DE 8 DE MAIO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da The Tokio Marine & Fire Insurance Company Limited.
@@ -17,8 +15,6 @@ Brasília, 8 de maio de 1961; 140º da Independência e 73º da República.
 Jânio Quadros
 
 Arthur Bernardes
-
-###DEC-050559-0-000-08-05-1961@@@RET01+++
 
 DECRETO Nº 50.559, DE 8 DE MAIO DE 1961.
 

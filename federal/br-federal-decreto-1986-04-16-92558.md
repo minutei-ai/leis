@@ -1,5 +1,3 @@
-###DEC-092558-0-000-16-04-1986@@@
-
 DECRETO Nº 92.558, DE 16 DE ABRIL DE 1986
 
 Outorga concessão à TV ALLAMANDA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Cacoal, Estado de Rondônia.

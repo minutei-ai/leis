@@ -1,5 +1,3 @@
-###DEC-051316-0-000-02-09-1961@@@
-
 DECRETO Nº 51.316, DE 2 DE SETEMBRO DE 1961.
 
 Abre, pelo Ministério da Agricultura, o crédito especial de Cr$15.000.000,00, para auxílio a Municípios do Estado do Rio Grande do Sul, atingidos por violento temporal.

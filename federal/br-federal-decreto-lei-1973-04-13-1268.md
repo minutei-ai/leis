@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/949b2f45-05c5-4a1b-8fd4-5a7a11c45422/texto#nowhere)
 
-###DEL-001268-0-000-13-04-1973@@@
-
 # dECRETO-LEI Nº 1.268, DE 13 DE ABRIL DE 1973
 
 Autoriza o Tesouro Nacional a subscrever ações do aumento do capital da Aços Finos Piratini S.A. e dá outras providências.

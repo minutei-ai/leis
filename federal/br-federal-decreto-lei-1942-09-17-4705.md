@@ -1,5 +1,3 @@
-###DEL-004705-0-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.705 – DE 17 DE SETEMBRO DE 1942
 
 Extingue a Artilharia Divisionária da 7ª Divisão de Infantaria (tipo especial)

@@ -1,5 +1,3 @@
-###DEC-085874-0-000-01-04-1981@@@
-
 Decreto nº 85.874, de 01 de abril de 1981.
 
 Dispõe sobre a exclusão de cargos do Quadro de Pessoal - Parte Permanente do Ministério da Saúde, e dá outras providências.

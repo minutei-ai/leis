@@ -1,5 +1,3 @@
-###DEC-006961-0-000-17-09-2009@@@
-
 DECRETO Nº 6.961, DE 17 DE SETEMBRO DE 2009.
 
 Aprova o zoneamento agroecológico da cana-de-açúcar e determina ao Conselho Monetário Nacional o estabelecimento de normas para as operações de financiamento ao setor sucroalcooleiro, nos termos do zoneamento.

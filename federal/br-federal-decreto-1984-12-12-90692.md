@@ -1,5 +1,3 @@
-###DEC-090692-0-000-12-12-1984@@@
-
 Decreto nº 90.692, de 12 de dezembro de 1984
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Econômicas do Triângulo Mineiro.

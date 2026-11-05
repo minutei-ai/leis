@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/8683)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1999/compilacao-lei-10476-21.12.1999.html)
 
 # LEI N° 10.476, DE 21 DE DEZEMBRO DE 1999
@@ -9,8 +8,10 @@
 
 ### _Dá denominação ao logradouro e ao viaduto que especifica_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**
+
 Artigo 1° -** O logradouro e o viaduto localizados no km 16 da Rodovia dos Imigrantes - SP 160, passam a denominar-se "Oito de Dezembro", na forma estabelecida por esta lei.
 
 ~~Artigo 2° - Vetado.~~

@@ -1,5 +1,3 @@
-###DEC-072576-0-000-07-08-1973@@@
-
 DECRETO Nº 72.576, DE 7 DE AGOSTO DE 1973.
 
 Concede reconhecimento à Faculdade de Direito de São Carlos, mantida pelo Instituto Paulista de Ensino Superior Unificado, com sede na cidade de São Carlos, Estado de São Paulo.

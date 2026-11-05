@@ -1,5 +1,3 @@
-###DEC-060604-0-000-20-04-1967@@@
-
 DECRETO Nº 60.604, DE 20 DE ABRIL DE 1967.
 
 Modifica o Regulamento para as Bandas de Músicas e Bandas Marciais da Aeronáutica, aprovado pelo Decreto 34.762, de 8 de dezembro de 1953.

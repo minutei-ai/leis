@@ -1,5 +1,3 @@
-###DEC-074892-0-000-14-11-1974@@@
-
 Decreto nº 74.892, de 14 de novembro de 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado do Rio Grande do Sul.

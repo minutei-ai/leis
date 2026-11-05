@@ -1,7 +1,3 @@
-1
-
-###DEC-000917-0-000-08-09-1993@@@
-
 DECRETO Nº 917, DE 8 DE SETEMBRO DE 1993
 
 Aprova o Programa Nacional de Levantamentos Geológicos Básicos do Brasil para o período de 1993‑1999, e dá outras providências.

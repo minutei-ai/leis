@@ -1,5 +1,3 @@
-###DEC-051835-0-000-14-03-1963@@@
-
 DECRETO Nº 51.835, DE 14 DE MARÇO DE 1963.
 
 Cria, o título precário, a Delegacia Regional do Serviço de Assistência a Menores, na Capital da República.

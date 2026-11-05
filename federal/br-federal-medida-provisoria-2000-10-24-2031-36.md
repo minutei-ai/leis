@@ -1,5 +1,3 @@
-###MPV-002031-0-036-24-10-2000@@@
-
 medida provisoria nº 2.031-36, de 24 de outubro de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

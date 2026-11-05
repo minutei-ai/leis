@@ -1,5 +1,3 @@
-###DEC-076685-0-000-27-11-1975@@@
-
 DECRETO Nº 76.685, DE 27 DE NOVEMBRO DE 1975.
 
 Cria a Comissão de Desportos da Marinha, e dá outras providências.

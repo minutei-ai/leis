@@ -1,5 +1,3 @@
-###DEC-091962-0-000-20-11-1985@@@
-
 Decreto nº 91.962, de 20 de novembro de 1985
 
 Renova a concessão outorgada à RÁDIO DINÂMICA DE SANTA FÉ LTDA., para explorar Serviço de radiodifusão sonora em onda média, na cidade de Santa Fé do Sul, Estado de São Paulo.

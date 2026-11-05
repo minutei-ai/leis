@@ -1,6 +1,10 @@
 > **LEI Nº 4.400, DE 30 DE AGOSTO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a padronização da nomenclatura dos cargos regidos pela Lei nº 1.394, de 28 de junho de 2001, com lotação na Secretaria de Estado da Casa Civil.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a padronização da nomenclatura dos cargos regidos pela Lei nº 1.394, de 28 de junho de 2001, com lotação na Secretaria de Estado da Casa Civil.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

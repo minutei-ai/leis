@@ -1,5 +1,3 @@
-###DEC-045902-0-000-28-04-1959@@@
-
 DECRETO Nº 45.902, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Luiz Vilela de Carvalho a pesquisar feldspato, no município São João da Boa Vista, Estado de São Paulo.

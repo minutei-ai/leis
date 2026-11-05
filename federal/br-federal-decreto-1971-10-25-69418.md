@@ -1,5 +1,3 @@
-###DEC-069418-0-000-25-10-1971@@@
-
 DECRETO Nº 69.418 - DE 25 de OUTUBRO DE 1971
 
 Autorização para funcionamento dos Cursos de Zootecnica e de Medicina Veterinária da Faculdade de Medicina Veterinária e Agronomia de Jaboticabal, São Paulo.

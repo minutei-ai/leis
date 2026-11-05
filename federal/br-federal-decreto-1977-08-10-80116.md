@@ -1,5 +1,3 @@
-###DEC-080116-0-000-10-08-1977@@@
-
 decreto nº 80.116, de 10 de agosto de 1977.
 
 Concede à Minérios Castelo Branco Ltda. o direito de lavrar argilito no Município de Urussanga, Estado de Santa Catarina.

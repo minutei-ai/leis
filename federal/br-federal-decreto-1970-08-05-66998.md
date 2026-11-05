@@ -1,5 +1,3 @@
-###DEC-066998-0-000-05-08-1970@@@
-
 DECRETO Nº 66.998, DE 5 DE AGOSTO DE 1970.
 
 Confisca bens e haveres e considera nulos atos de incorporação, alienação ou oneração e cessão efetivados por José Cavalcanti de Arruda Sobrinho, e dá outras providências.

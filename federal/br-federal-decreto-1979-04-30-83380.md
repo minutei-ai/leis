@@ -1,5 +1,3 @@
-###DEC-083380-0-000-30-04-1979@@@
-
 Decreto nº 83.380, de 30 de abril de 1979.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo, da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

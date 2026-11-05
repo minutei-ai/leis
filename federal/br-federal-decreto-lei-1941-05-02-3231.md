@@ -1,5 +1,3 @@
-###DEL-003231-0-000-02-05-1941@@@
-
 DECRETO-LEI N. 3.231 – DE 2 DE MAIO DE 1941
 
 Eleva de A para B o padrão de vencimento dos cargos que indica

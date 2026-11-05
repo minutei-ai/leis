@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209875)<br>
-
 # DECRETO N° 68.794, DE 23 DE AGOSTO DE 2024
 
 ### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas._

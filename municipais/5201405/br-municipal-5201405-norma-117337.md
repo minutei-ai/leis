@@ -29,8 +29,10 @@ Art. 3º - Este Decreto entrará em vigor na data de sua publicação, revogando
 
 Aparecida de Goiânia, Estado de Goiás, aos 03 de outubro de 2024.
 
-ALANNA RITIELLE P. DE ARAÚJO FRANÇA<br>
+ALANNA RITIELLE P. DE ARAÚJO FRANÇA
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

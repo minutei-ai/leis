@@ -1,5 +1,3 @@
-###DEC-003186-0-000-30-09-1999@@@
-
 DECRETO N.º 3.186, de 30 DE SETEMBRO DE 1999.
 
 Fixa alíquotas do Imposto sobre produtos Industrializados – IPI incidente sobre veículos .

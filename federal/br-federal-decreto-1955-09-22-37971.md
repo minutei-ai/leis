@@ -1,16 +1,14 @@
-###DEC-037971-0-000-22-09-1955@@@
+**DECRETO Nº 37.971, DE 22 DE STEMBRO DE 1955.**
 
-<strong>DECRETO Nº 37.971, DE 22 DE STEMBRO DE 1955.</strong>
+***Cria a Comissão Superior de Economia e Finanças.***
 
-<em><strong>Cria a Comissão Superior de Economia e Finanças.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1**º** Fica criada a Comissão Superior de Economia e Finanças (COSEF), subordinada diretamente ao Ministro da Justiça, encarregada do planejamento econômico-financeiro, da elaboração orçamentária e do controle das aplicações financeiras do Exército.
 
-<strong>Art</strong>. 1<strong>º</strong> Fica criada a Comissão Superior de Economia e Finanças (COSEF), subordinada diretamente ao Ministro da Justiça, encarregada do planejamento econômico-financeiro, da elaboração orçamentária e do controle das aplicações financeiras do Exército.
-
-<strong>Art</strong>. 2<strong>º</strong> A COSEF compreende:
+**Art**. 2**º** A COSEF compreende:
 
 a) Chefia
 
@@ -40,7 +38,7 @@ Constituída pela atual Caixa Geral de Economias da Guerra com as adaptações n
 
 Parágrafo único. As Seções poderão desdobrar-se em subseções ou carteiras.
 
-<strong>Art</strong>. 3º Atribuições:
+**Art**. 3º Atribuições:
 
 a) D-1 - Planejamento econômico-financeiro e elaboração orçamentária do Exército.
 
@@ -56,14 +54,14 @@ a) D-2 - Controle sintético das aplicações financeiras do Exército.
 
 a) D-3 - Atribuições da atual Caixa Geral de Economia da Guerra (Dec. 22.139-32) e encargos da vida administrativa da COSEF.
 
-<strong>Art</strong>. 4<strong>º</strong> A atual Comissão de Orçamento será extinta quando for instalada a COSEF.
+**Art**. 4**º** A atual Comissão de Orçamento será extinta quando for instalada a COSEF.
 
-<strong>Art</strong>. 5<strong>º</strong> O Ministro da Guerra fica autorizado a baixar instruções reguladoras para organização e funcionamento da COSEF.
+**Art**. 5**º** O Ministro da Guerra fica autorizado a baixar instruções reguladoras para organização e funcionamento da COSEF.
 
-<strong>Art</strong>. 6<strong>º</strong> Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 6**º** Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 22 de setembro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott

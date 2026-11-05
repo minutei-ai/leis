@@ -1,5 +1,3 @@
-###DEC-086364-0-000-14-09-1981@@@
-
 DECRETO Nº 86.364, de 14 de setembro de 1981.
 
 Dispõe sobre concursos públicos e provas de seleção para ingresso nos órgãos e entidades da Administração Federal.

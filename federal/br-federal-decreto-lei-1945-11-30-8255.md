@@ -1,5 +1,3 @@
-###DEL-008255-0-000-30-11-1945@@@
-
 DECRETO-LEI N. 8.255 – DE 30 DE NOVEMBRO DE 1945
 
 Autoriza a aquisição de um imóvel na cidade de Santos, Estado de São Paulo.

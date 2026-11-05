@@ -1,5 +1,3 @@
-###DEC-061600-0-000-24-10-1967@@@
-
 DECRETO Nº 61.600, de 24 de Outubro de 1967.
 
 Declara de utilidade pública o “Lar Escola Monteiro Lobato” com sede em Sorocaba, Estado de São Paulo.

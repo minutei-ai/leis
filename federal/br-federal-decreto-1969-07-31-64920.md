@@ -1,5 +1,3 @@
-###DEC-064920-0-000-31-07-1969@@@
-
 DECRETO Nº 64.920 - DE 31 DE JULHO DE 1969.
 
 Cria Grupo de Trabalho para estudar o problema do excepcional.

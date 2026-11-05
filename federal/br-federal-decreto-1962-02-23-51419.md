@@ -1,5 +1,3 @@
-###DEC-051419-0-000-23-02-1962@@@
-
 DECRETO Nº 51.419, de 23 de fevereiro de 1962.
 
 Altera os Decretos nºs 49.385, de 30 de novembro de 1960 e 51.394, de 23 de janeiro de 1962 e dá outras providências.

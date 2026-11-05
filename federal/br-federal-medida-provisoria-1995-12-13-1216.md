@@ -1,7 +1,3 @@
-1
-
-###MPV-001216-0-000-13-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.216, DE 13 DE DEZEMBRO DE 1995.
 
 Dá nova redação ao parágrafo único do art. 1º da Lei nº 8.995, de 24 de fevereiro de 1995, que autoriza o Ministério dos Transportes, por intermédio da Companhia Brasileira de Trens Urbanos - CBTU, a transferir à Companhia Fluminense de Trens Urbanos - FLUMITRENS recursos para pagamento de pessoal.

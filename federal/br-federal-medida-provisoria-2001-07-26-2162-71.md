@@ -1,5 +1,3 @@
-###MPV-002162-0-071-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.162‑71, DE 26 DE JUlHO DE 2001
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional ‑ NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

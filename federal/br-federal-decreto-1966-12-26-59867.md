@@ -1,5 +1,3 @@
-###DEC-059867-0-000-26-12-1966@@@
-
 DECRETO Nº 59.867, DE 26 DE DEZEMBRO DE 1966.
 
 Aprova o Regimento do Conselho Federal de Educação.

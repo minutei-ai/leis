@@ -1,5 +1,3 @@
-###DEC-084254-0-000-03-12-1979@@@
-
 Decreto nº 84.254, de 03 de dezembro de 1979
 
 Altera a composição da Comissão de Comércio com a Europa Oriental (COLESTE).

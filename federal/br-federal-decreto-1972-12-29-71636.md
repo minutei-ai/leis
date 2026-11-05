@@ -1,5 +1,3 @@
-###DEC-071636-0-000-29-12-1972@@@
-
 DECRETO Nº 71.636 - DE 29 DE DEZEMBRO DE 1972
 
 Altera o Regulamento do Fundo de Garantia do Tempo de Serviço, aprovado pelo Decreto nº 59.820, de 20 de dezembro de 1966.

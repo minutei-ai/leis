@@ -1,5 +1,3 @@
-###DEC-000568-0-000-12-06-1992@@@
-
 # DECRETO N° 568, DE 12 DE JUNHO DE 1992
 
 Dispõe sobre a organização e a competência do Conselho de Recursos da Previdência Social (CRPS), e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002326-0-000-14-04-1987@@@
-
 # DECRETO-LEI Nº 2.326, DE 14 DE ABRIL DE 1987
 
 Altera a legislação do Imposto de Renda aplicável a pessoas físicas.

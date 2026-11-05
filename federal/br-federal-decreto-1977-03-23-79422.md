@@ -1,5 +1,3 @@
-###DEC-079422-0-000-23-03-1977@@@
-
 DECRETO Nº 79.422, DE 23 DE MARÇO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Guaíra, Estado do Paraná.

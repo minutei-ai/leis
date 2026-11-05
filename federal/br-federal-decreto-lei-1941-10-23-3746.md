@@ -1,5 +1,3 @@
-###DEL-003746-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.746 – DE 23 DE OUTUBRO DE 1941
 
 Altera prazos para apresentação de sorteados pela 28ª Circunscrição de Recrutamento (Pará)

@@ -1,5 +1,3 @@
-###DEL-004587-0-000-14-08-1942@@@
-
 DECRETO-LEI N. 4.587 – DE 14 DE AGOSTO DE 1942
 
 Cria uma função gratificada no Quadro Permanente do Ministério da Fazenda e dá outras providências

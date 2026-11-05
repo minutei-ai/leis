@@ -1,16 +1,14 @@
-###DEC-031723-0-000-06-11-1952@@@
+**DECRETO Nº 31.723, DE 6 DE NOVEMBRO DE 1952.**
 
-<strong>DECRETO Nº 31.723, DE 6 DE NOVEMBRO DE 1952.</strong>
+***Outorga ao Departamento de Águas e Energia Elétrica do Estado de São Paulo, concessão para aproveitamento progressivo de energia hidráulica no rio Tietê e dá outras providências.***
 
-<em><strong>Outorga ao Departamento de Águas e Energia Elétrica do Estado de São Paulo, concessão para aproveitamento progressivo de energia hidráulica no rio Tietê e dá outras providências.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150, do Código de Águas (Decreto nº 24.643, de 10 de junho de 1943),
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150, do Código de Águas (Decreto nº 24.643, de 10 de junho de 1943),
 
 CONSIDERANDO haver a Emprêsa Fôrça e Luz Pederneiras Ltda., desistido da concessão que lhe foi outorgada pelo Decreto nº 28.574, de 30 de agôsto de 1950,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º É outorgada ao Departamento de Águas e Energia Elétrica do Estado de São Paulo concessão para aproveitamento progressivo da energia hidráulica existente:
+**Art**. 1º É outorgada ao Departamento de Águas e Energia Elétrica do Estado de São Paulo concessão para aproveitamento progressivo da energia hidráulica existente:
 
 a) rio Tietê, trecho da cidade de Anhembí até a corredeira de Lages, situada a cêrca de 15 km, a montante do Salto de Avanhandava, no município de Avanhandava;
 
@@ -20,7 +18,7 @@ b) rio Piracicaba, trecho da localidade de Artemis antiga Pôrto João Alfredo, 
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviços industriais do Estado e suprimento a outros concessionários.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
 
 I – Registrá-lo na Divisão de Águas, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -30,24 +28,24 @@ III - Submeter à aprovação do Ministério da Agricultura, em três (3) vias, 
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º As tarifas do fornecimento de energia serão fixadas e trienalmente revistas pelo Ministro da Agricultura.
+**Art**. 5º As tarifas do fornecimento de energia serão fixadas e trienalmente revistas pelo Ministro da Agricultura.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital a que se refere o artigo 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para a manutenção da integridade do capital a que se refere o artigo 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação será realizada por quota especial, que incidirá sôbre as tarifas, sob, forma de percentagens. Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data da publicação dêste Decreto.
+**Art**. 7º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data da publicação dêste Decreto.
 
-<strong>Art</strong>. 8º Fica revogado o Decreto nº 28.574, de 30 de agôsto de 1950.
+**Art**. 8º Fica revogado o Decreto nº 28.574, de 30 de agôsto de 1950.
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 6 de novembro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

@@ -1,5 +1,3 @@
-###DEC-077606-0-000-12-05-1976@@@
-
 decreto nº 77.606, de 12 maio de 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Bauru Rádio Clube S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Bauru, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-079781-0-000-06-06-1977@@@
-
 Decreto nº 79.781, de 6 de junho de 1977
 
 Altera dispositivo do Decreto nº 79.058, de 30 de dezembro de 1976, que concedeu reconhecimento ao curso de Educação Artística, da Faculdade Paulistana de Música, com sede na Cidade de São Paulo, Estado de São Paulo.

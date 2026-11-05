@@ -1,6 +1,10 @@
 > **LEI Nº 4.325, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a firmar termo de colaboração ou termo de fomento com entidades civis de direito privado sem fins lucrativos, destinado ao auxílio na administração de estabelecimentos penais.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a firmar termo de colaboração ou termo de fomento com entidades civis de direito privado sem fins lucrativos, destinado ao auxílio na administração de estabelecimentos penais.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

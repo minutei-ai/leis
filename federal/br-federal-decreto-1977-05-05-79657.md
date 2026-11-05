@@ -1,5 +1,3 @@
-###DEC-079657-0-000-05-05-1977@@@
-
 Decreto nº 79.657, de 5 de maio de 1977.
 
 Reduz as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

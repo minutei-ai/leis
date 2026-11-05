@@ -1,5 +1,3 @@
-###DEC-082783-0-000-04-12-1978@@@
-
 Decreto nº 82 783 de 04 de dezembro de 1978.
 
 Concede reconhecimento ao curso de Letras da Faculdade Niteroiense de Educação, Letras e Turismo, com sede na cidade de Niterói, Estado do Rio de Janeiro.

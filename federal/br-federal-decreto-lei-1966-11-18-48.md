@@ -1,5 +1,3 @@
-###DEL-000048-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 48, DE 18 DE NOVEMBRO DE 1966
 
 Dispõe sôbre a intervenção e a liquidação extrajudicial de instituições financeiras e dá outras providências.

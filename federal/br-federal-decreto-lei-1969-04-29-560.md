@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7650d7ca-4163-4db8-853a-07f0f8862a79/texto#nowhere)
 
-###DEL-000560-0-000-29-04-1969@@@
-
 DECRETO-LEI Nº 560, DE 29 DE ABRIL DE 1969
 
 Dá nova redação aos artigos 3º e 4º, caput, da Lei nº 5.449 de 4 junho de 1968,

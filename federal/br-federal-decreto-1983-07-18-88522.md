@@ -1,5 +1,3 @@
-###DEC-088522-0-000-18-07-1983@@@
-
 Decreto nº 88.522, de 18 de julho de 1983
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo - SABESP concessão para captação de água de rio Ribeira do Iguape, para abastecimento público, no Estado de São Paulo.

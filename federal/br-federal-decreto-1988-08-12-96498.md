@@ -1,5 +1,3 @@
-###DEC-096498-0-000-12-08-1988@@@
-
 DECRETO N° 96.498, DE 12 DE AGOSTO DE 1988
 
 Dispõe sobre as Campanhas Nacionais de Combate à Malária e ao AEDES AEGYPTI e dá outras providências.

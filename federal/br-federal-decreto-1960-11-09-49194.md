@@ -1,5 +1,3 @@
-###DEC-049194-0-000-09-11-1960@@@
-
 DECRETO N. 49.194 – DE 9 DE NOVEMBRO DE 1960
 
 Autoriza a cessão gratuita, ao Departamento Nacional de Estradas de Rodagem, de terreno nacional interior, que menciona, situado no Estado do Rio.

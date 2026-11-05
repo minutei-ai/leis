@@ -1,5 +1,3 @@
-###DEL-005860-0-000-30-09-1943@@@
-
 DECRETO‑LEI N. 5.860 – DE 30 DE SETEMBRO DE 1943
 
 Modifico o art. cor do Código Civil e dá outras providências

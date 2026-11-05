@@ -1,5 +1,3 @@
-###DEC-003881-0-000-06-08-2001@@@
-
 DECRETO Nº 3.881, DE 6 DE AGOSTO DE 2001
 
 Dispõe sobre o aumento do capital da Empresa de Processamento de Dados da Previdência Social - DATAPREV.

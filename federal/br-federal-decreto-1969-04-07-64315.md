@@ -1,5 +1,3 @@
-###DEC-064315-0-000-07-04-1969@@@
-
 DECRETO Nº 64.315, DE 7 DE ABRIL DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde o Quadrado de Quatinga, situado na faixa de 110 (cento e dez) metros de largura da linha Cubatão-Lages, até a Estação Terminal Leste, no Estado de São Paulo.

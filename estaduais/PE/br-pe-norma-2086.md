@@ -44,1391 +44,759 @@ BIANCA TEIXEIRA AVALLONE
 
 **ANEXO ÚNICO**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="687" style="width:515.0pt;border-collapse:collapse"><tbody><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">DENOMINAÇÃO</span></p></td><td width="68" valign="top" style="width:51.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">SÍMBOLO</span></p></td><td width="56" valign="top" style="width:42.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">QUANT.</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Secretário Executivo da Receita Estadual</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">DAS-1</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Secretário Executivo do Tesouro Estadual</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">DAS-1</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Contador Geral do Estado</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor Geral da Receita - I Região Fiscal Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor Geral da Receita - I Região Fiscal Sul</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor Geral da Receita - II Região Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor Geral da Receita - III Região Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor Geral de Administração Financeira do Estado</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor Geral de Antecipação e Sistemas Tributários</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor Geral de Fiscalização Estratégica</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor Geral de Planejamento da Ação Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Superintendente Jurídico da Fazenda</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-1</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Corregedor Chefe da Fazenda</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor da Comissão Técnica Permanente do ICMS</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor de Controle e Acompanhamento de Benefícios Fiscais</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor de Inteligência Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor de Operações Estratégicas</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor de Tributação e Orientação</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Diretor do Conselho de Planejamento e Controle da Ação Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Ouvidor Chefe da Fazenda</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Presidente do Tribunal Administrativo-Tributário do Estado</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-2</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Assessor da Secretaria Executiva da Receita Estadual</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Assessor da Secretaria Executiva do Tesouro Estadual</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Coordenador de Estudos Econômico-Tributários</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Corregedor do Tribunal Administrativo-Tributário do Estado</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente da Central Operacional de Cargas</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente da Receita Tributária</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais - II RF</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais - III RF</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 1 - DFE</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 1 - I RF Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 1 - I RF Sul</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 2 - DFE</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 2 - I RF Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 2 - I RF Sul</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 3 - I RF Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 4 - I RF Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais 5 - I RF Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Ações Fiscais Estratégicas</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Acompanhamento da Dívida Pública</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Acompanhamento das Ações Judiciais</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Análise da Legislação Tributária</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Análise e Pesquisa</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Apoio aos Programas de Modernização</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Apoio e Tecnologia da Inteligência Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Atendimento e de Suporte Técnico às Agências da Receita Estadual</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Atendimentos a Usuários</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Cadastro e Atendimento ao Usuário</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:26.25pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Afogados da Ingazeira e Serra Talhada</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Araripina e Ouricuri</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual – Arcoverde e Belo Jardim</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Barreiros e Palmares</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Cabo de Santo Agostinho</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:26.25pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Carpina e São Lourenço da Mata</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Caruaru</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Garanhuns</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Goiana e Timbaúba</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Jaboatão dos Guararapes</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Olinda e Paulista</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Petrolina</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Recife</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Salgueiro e Petrolândia</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:26.25pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Santa Cruz do Capibaribe e Surubim</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Agência da Receita Estadual - Vitória de Santo Antão e Gravatá</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Araripina e Exu</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Bom Conselho e Águas Belas</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Goiana e Itambé</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Isacolândia e Petrolina</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:26.25pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Petrolândia, São José do Belmonte e Ibó</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1&nbsp;</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Quipapá e São Caetano</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Suape e Barreiros</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Terminal Aeroviário e Sedex</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:26.25pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Vitória de Santo Antão, Bom Jardim e Taquaritinga do Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:26.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Circunscrição de Terminais e de Postos Fiscais - Xexéu</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Contratos de Tecnologia da Informação</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Controle e Acompanhamento de Benefícios Fiscais</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Controle e Análise de Documentos Fiscais</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Controle e Execução Financeira</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Coordenação Técnica da Fiscalização de Estabelecimentos</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Fiscalização Estratégica</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Legislação e Processos</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Operações Estratégicas</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Orientação e Comunicação</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Planejamento da Ação Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Planejamento Estratégico</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Processos Fiscais</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Programação Financeira</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Projetos e Sistemas Tributários</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Proteção ao Conhecimento e Ações de Inteligência Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Atacado</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Atacado de Alimentos</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Bebidas</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Combustíveis e Usinas</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Comércio Exterior</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Débitos Fiscais</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Energia e Telecomunicação</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Equipamentos Emissores de Cupom Fiscal</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - ICD</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Indústria de Alimentos</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Indústria e Cigarros</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - IPVA</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Malha Fina</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Materiais de Construção</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Medicamentos</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Microempresa</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Substituição Tributária e Antecipação Tributária</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Supermercados</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Tecidos e Confecções</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Transporte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Varejo, Grande Redes e Comércio Eletrônico</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Segmento Econômico - Veículos</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente de Técnico de Ações Fiscais, Articulação e Projetos</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente do Núcleo de Apoio Administrativo - DRR - I RF Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente do Núcleo de Apoio Administrativo - DRR - I RF Sul</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente do Núcleo de Apoio Administrativo - DRR - II RF</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente do Núcleo de Apoio Administrativo - DRR - III RF</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente do Núcleo de Apoio Administrativo - SAFI</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente Jurídico da Fazenda</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente Regional da Receita - I RF Norte</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente Regional da Receita - I RF Sul</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente Regional da Receita - II RF</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente Regional da Receita - III RF</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Gerente Técnico de Postos e Terminais Fiscais</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FDA-4</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">1</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">Função Gratificada de Supervisão - 1</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">FGS-1</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">62</span></p></td></tr><tr style="height:15.75pt"><td width="563" valign="top" style="width:422.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">TOTAL</span></p></td><td width="68" valign="top" style="width:51.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">&nbsp;</span></p></td><td width="56" valign="top" style="width:42.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">184</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANT.
+
+Secretário Executivo da Receita Estadual
+
+DAS-1
+
+1
+
+Secretário Executivo do Tesouro Estadual
+
+DAS-1
+
+1
+
+Contador Geral do Estado
+
+FDA
+
+1
+
+Diretor Geral da Receita - I Região Fiscal Norte
+
+FDA
+
+1
+
+Diretor Geral da Receita - I Região Fiscal Sul
+
+FDA
+
+1
+
+Diretor Geral da Receita - II Região Fiscal
+
+FDA
+
+1
+
+Diretor Geral da Receita - III Região Fiscal
+
+FDA
+
+1
+
+Diretor Geral de Administração Financeira do Estado
+
+FDA
+
+1
+
+Diretor Geral de Antecipação e Sistemas Tributários
+
+FDA
+
+1
+
+Diretor Geral de Fiscalização Estratégica
+
+FDA
+
+1
+
+Diretor Geral de Planejamento da Ação Fiscal
+
+FDA
+
+1
+
+Superintendente Jurídico da Fazenda
+
+FDA-1
+
+1
+
+Corregedor Chefe da Fazenda
+
+FDA-2
+
+1
+
+Diretor da Comissão Técnica Permanente do ICMS
+
+FDA-2
+
+1
+
+Diretor de Controle e Acompanhamento de Benefícios Fiscais
+
+FDA-2
+
+1
+
+Diretor de Inteligência Fiscal
+
+FDA-2
+
+1
+
+Diretor de Operações Estratégicas
+
+FDA-2
+
+1
+
+Diretor de Tributação e Orientação
+
+FDA-2
+
+1
+
+Diretor do Conselho de Planejamento e Controle da Ação Fiscal
+
+FDA-2
+
+1
+
+Ouvidor Chefe da Fazenda
+
+FDA-2
+
+1
+
+Presidente do Tribunal Administrativo-Tributário do Estado
+
+FDA-2
+
+1
+
+Assessor da Secretaria Executiva da Receita Estadual
+
+FDA-4
+
+1
+
+Assessor da Secretaria Executiva do Tesouro Estadual
+
+FDA-4
+
+1
+
+Coordenador de Estudos Econômico-Tributários
+
+FDA-4
+
+1
+
+Corregedor do Tribunal Administrativo-Tributário do Estado
+
+FDA-4
+
+1
+
+Gerente da Central Operacional de Cargas
+
+FDA-4
+
+1
+
+Gerente da Receita Tributária
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais - II RF
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais - III RF
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 1 - DFE
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 1 - I RF Norte
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 1 - I RF Sul
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 2 - DFE
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 2 - I RF Norte
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 2 - I RF Sul
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 3 - I RF Norte
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 4 - I RF Norte
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais 5 - I RF Norte
+
+FDA-4
+
+1
+
+Gerente de Ações Fiscais Estratégicas
+
+FDA-4
+
+1
+
+Gerente de Acompanhamento da Dívida Pública
+
+FDA-4
+
+1
+
+Gerente de Acompanhamento das Ações Judiciais
+
+FDA-4
+
+1
+
+Gerente de Análise da Legislação Tributária
+
+FDA-4
+
+1
+
+Gerente de Análise e Pesquisa
+
+FDA-4
+
+1
+
+Gerente de Apoio aos Programas de Modernização
+
+FDA-4
+
+1
+
+Gerente de Apoio e Tecnologia da Inteligência Fiscal
+
+FDA-4
+
+1
+
+Gerente de Atendimento e de Suporte Técnico às Agências da Receita Estadual
+
+FDA-4
+
+1
+
+Gerente de Atendimentos a Usuários
+
+FDA-4
+
+1
+
+Gerente de Cadastro e Atendimento ao Usuário
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Afogados da Ingazeira e Serra Talhada
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Araripina e Ouricuri
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual – Arcoverde e Belo Jardim
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Barreiros e Palmares
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Cabo de Santo Agostinho
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Carpina e São Lourenço da Mata
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Caruaru
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Garanhuns
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Goiana e Timbaúba
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Jaboatão dos Guararapes
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Olinda e Paulista
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Petrolina
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Recife
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Salgueiro e Petrolândia
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Santa Cruz do Capibaribe e Surubim
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Agência da Receita Estadual - Vitória de Santo Antão e Gravatá
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Araripina e Exu
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Bom Conselho e Águas Belas
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Goiana e Itambé
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Isacolândia e Petrolina
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Petrolândia, São José do Belmonte e Ibó
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Quipapá e São Caetano
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Suape e Barreiros
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Terminal Aeroviário e Sedex
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Vitória de Santo Antão, Bom Jardim e Taquaritinga do Norte
+
+FDA-4
+
+1
+
+Gerente de Circunscrição de Terminais e de Postos Fiscais - Xexéu
+
+FDA-4
+
+1
+
+Gerente de Contratos de Tecnologia da Informação
+
+FDA-4
+
+1
+
+Gerente de Controle e Acompanhamento de Benefícios Fiscais
+
+FDA-4
+
+1
+
+Gerente de Controle e Análise de Documentos Fiscais
+
+FDA-4
+
+1
+
+Gerente de Controle e Execução Financeira
+
+FDA-4
+
+1
+
+Gerente de Coordenação Técnica da Fiscalização de Estabelecimentos
+
+FDA-4
+
+1
+
+Gerente de Fiscalização Estratégica
+
+FDA-4
+
+1
+
+Gerente de Legislação e Processos
+
+FDA-4
+
+1
+
+Gerente de Operações Estratégicas
+
+FDA-4
+
+1
+
+Gerente de Orientação e Comunicação
+
+FDA-4
+
+1
+
+Gerente de Planejamento da Ação Fiscal
+
+FDA-4
+
+1
+
+Gerente de Planejamento Estratégico
+
+FDA-4
+
+1
+
+Gerente de Processos Fiscais
+
+FDA-4
+
+1
+
+Gerente de Programação Financeira
+
+FDA-4
+
+1
+
+Gerente de Projetos e Sistemas Tributários
+
+FDA-4
+
+1
+
+Gerente de Proteção ao Conhecimento e Ações de Inteligência Fiscal
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Atacado
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Atacado de Alimentos
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Bebidas
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Combustíveis e Usinas
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Comércio Exterior
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Débitos Fiscais
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Energia e Telecomunicação
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Equipamentos Emissores de Cupom Fiscal
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - ICD
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Indústria de Alimentos
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Indústria e Cigarros
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - IPVA
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Malha Fina
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Materiais de Construção
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Medicamentos
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Microempresa
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Substituição Tributária e Antecipação Tributária
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Supermercados
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Tecidos e Confecções
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Transporte
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Varejo, Grande Redes e Comércio Eletrônico
+
+FDA-4
+
+1
+
+Gerente de Segmento Econômico - Veículos
+
+FDA-4
+
+1
+
+Gerente de Técnico de Ações Fiscais, Articulação e Projetos
+
+FDA-4
+
+1
+
+Gerente do Núcleo de Apoio Administrativo - DRR - I RF Norte
+
+FDA-4
+
+1
+
+Gerente do Núcleo de Apoio Administrativo - DRR - I RF Sul
+
+FDA-4
+
+1
+
+Gerente do Núcleo de Apoio Administrativo - DRR - II RF
+
+FDA-4
+
+1
+
+Gerente do Núcleo de Apoio Administrativo - DRR - III RF
+
+FDA-4
+
+1
+
+Gerente do Núcleo de Apoio Administrativo - SAFI
+
+FDA-4
+
+1
+
+Gerente Jurídico da Fazenda
+
+FDA-4
+
+1
+
+Gerente Regional da Receita - I RF Norte
+
+FDA-4
+
+1
+
+Gerente Regional da Receita - I RF Sul
+
+FDA-4
+
+1
+
+Gerente Regional da Receita - II RF
+
+FDA-4
+
+1
+
+Gerente Regional da Receita - III RF
+
+FDA-4
+
+1
+
+Gerente Técnico de Postos e Terminais Fiscais
+
+FDA-4
+
+1
+
+Função Gratificada de Supervisão - 1
+
+FGS-1
+
+62
+
+TOTAL
+
+184
 
 I - 1 (um) o quantitativo máximo de que trata o art. 3º da Lei Complementar nº 293, de 2014, relativamente às atividades de Direção Geral, privativas do Grupo Ocupacional Administração Tributária do Estado de Pernambuco - GOATE, previstas no inciso II do art. 50-A da [Lei Complementar nº 107, de 2008](https://legis.alepe.pe.gov.br/?lc1072008); e (Acrescido pelo art. 9° da [Lei Complementar n° 547, de 26 de setembro de 2024](https://legis.alepe.pe.gov.br/?lc5472024).)
 

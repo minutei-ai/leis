@@ -1,5 +1,3 @@
-###DEC-074516-0-000-06-09-1974@@@
-
 DECRETO Nº 74.516, DE 6 DE SETEMBRO DE 1974.
 
 Autoriza o funcionamento da habilitação de Administração de Empresas no curso de Administração da Faculdade de Ciências Comerciais e Administrativas de Santos, mantida pelo Centro de Estudos Bandeirante, com sede na cidade de Santos, Estado de São Paulo.

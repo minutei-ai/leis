@@ -1,5 +1,3 @@
-###DEC-007339-0-000-20-10-2010-PUB-01@@@
-
 DECRETO Nº 7.339, DE 20 DE OUTUBRO DE 2010.
 
 Dispõe sobre a remissão, rebate para liquidação e desconto adicional para liquidação de dívidas rurais de que tratam os arts. 69 a 72 da Lei no 12.249, de 11 de junho de 2010.

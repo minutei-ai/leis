@@ -1,5 +1,3 @@
-###DEC-076266-0-000-12-09-1975@@@
-
 DECRETO Nº 76.266 - DE 12 DE SETEMBRO DE 1975
 
 Concede à Cimento Aratu S. A. o direito de lavrar calcário coralígeno no Município de Salvador, Estafo da Bahia.

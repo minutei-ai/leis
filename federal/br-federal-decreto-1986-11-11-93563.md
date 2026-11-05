@@ -1,5 +1,3 @@
-###DEC-093563-0-000-11-11-1986@@@
-
 DECRETO Nº 93.563, DE 11 DE NOVEMBRO DE 1986.
 
 Altera o Decreto nº 82.110, de 14 de agosto de 1978, que regulamenta a Lei nº 6.305, de 15 de dezembro de 1975.

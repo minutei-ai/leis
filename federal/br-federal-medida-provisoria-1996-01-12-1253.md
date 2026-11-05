@@ -1,7 +1,3 @@
-1
-
-###MPV-001253-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.253, DE 12 DE JANEIRO DE 1996.
 
 Dá nova redação ao parágrafo único do art. 1º da Lei nº 8.995, de 24 de fevereiro de 1995, que autoriza o Ministério dos Transportes, por intermédio da Companhia Brasileira de Trens Urbanos - CBTU, a transferir à Companhia Fluminense de Trens Urbanos - FLUMITRENS, recursos para pagamento de pessoal.

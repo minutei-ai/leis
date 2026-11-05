@@ -1,5 +1,3 @@
-###DEL-006086-0-000-10-12-1943@@@
-
 DECRETO‑LEI N. 6.086 – DE 10 DE DEZEMBRO DE 1943
 
 Cria funções gratificadas nos Aprendizados Agrícolas

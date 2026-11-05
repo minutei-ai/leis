@@ -1,5 +1,3 @@
-###MPV-001784-0-005-06-05-1999@@@
-
 MEDIDA provisória Nº 1.784-5, DE 6 de MAIO DE 1999.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

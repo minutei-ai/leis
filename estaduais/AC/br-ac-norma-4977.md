@@ -1,6 +1,10 @@
 > **LEI Nº 3.880, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.308, de 22 de outubro de 2010, que cria o Sistema Estadual de Incentivos a Serviços Ambientais – SISA, o Programa de Incentivos por Serviços Ambientais – ISA Carbono e demais Programas de Serviços Ambientais e Produtos Ecossistêmicos do Estado do Acre e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.308, de 22 de outubro de 2010, que cria o Sistema Estadual de Incentivos a Serviços Ambientais – SISA, o Programa de Incentivos por Serviços Ambientais – ISA Carbono e demais Programas de Serviços Ambientais e Produtos Ecossistêmicos do Estado do Acre e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

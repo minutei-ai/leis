@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212162)<br>
-
 # DECRETO N° 70.336, DE 12 DE JANEIRO DE 2026
 
 ### _Autoriza a abertura de licitação para a concessão de obra no Complexo Turístico Ferroviário da Estrada de Ferro de Campos do Jordão - EFCJ, aprova o respectivo regulamento e dá providências correlatas._
@@ -50,19 +48,22 @@ Rafael Antonio Cren Benini
 
 #### REGULAMENTO DA CONCESSÃO DE OBRA NO COMPLEXO TURÍSTICO FERROVIÁRIO DA ESTRADA DE FERRO CAMPOS DO JORDÃO
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar a concessão de obra no Complexo Turístico Ferroviário da EFCJ, localizado no Estado de São Paulo.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Concessão
 
 **Artigo 2° -** O objeto da concessão compreende a realização de obras no Complexo Turístico Ferroviário da EFCJ, bem como a delegação das atividades de realização de investimentos, conservação, manutenção e exploração econômica da área de concessão, nos termos do contrato de concessão e respectivos anexos.
 
 **Artigo 3° -** O prazo da concessão será de 24 (vinte e quatro) anos, contado na forma prevista no contrato de concessão.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Serviços Previstos
 
 **Artigo 4° -** A prestação dos serviços delegados inclui, entre outros estabelecidos nos anexos que acompanham o edital de licitação:
@@ -77,7 +78,8 @@ IV - a exploração do PRAC, assegurado aos usuários o acesso gratuito às suas
 
 V - a manutenção e conservação de toda a área da concessão e de todos os bens reversíveis.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Dos Direitos e das Obrigações da Concessionária
 
 **Artigo 5° -** São direitos e obrigações da concessionária, durante todo o prazo de concessão, sem prejuízo do disposto no contrato de concessão e na legislação pertinente:
@@ -104,7 +106,8 @@ X - atender e fazer atender de forma adequada o público em geral e, em particul
 
 XI - apresentar à ARSESP, para homologação, a política de viagem relativa aos serviços de passeio turístico, de acordo com o prazo e os demais requisitos previstos no contrato de concessão e na legislação vigente.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Dos Direitos e das Obrigações do Poder Concedente
 
 **Artigo 6° -** Incumbe ao Poder Concedente, dentre outros direitos e obrigações previstos no contrato de concessão:
@@ -121,7 +124,8 @@ V - intervir na prestação dos serviços, retomá-lo e extinguir a concessão, 
 
 VI - providenciar as declarações de utilidade pública necessárias à realização das desapropriações e à instituição das servidões administrativas e ocupações temporárias pertinentes à execução do objeto da concessão, nos termos do contrato e respectivos anexos.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Dos Direitos e Obrigações dos Usuários
 
 **Artigo 7° -** São direitos e obrigações dos usuários beneficiários dos serviços da concessão:
@@ -142,7 +146,8 @@ VII - ter garantida a proteção de suas informações pessoais, nos termos da L
 
 VIII - obter e utilizar os serviços sem qualquer tipo de discriminação de origem, raça, sexo, religião, orientação sexual ou idade, assegurado o direito ao uso do nome social e ao reconhecimento da identidade de gênero.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa e das Penalidades
 
 **Artigo 8° -** A ARSESP atuará, na forma prevista no contrato, no acompanhamento da concessão e na fiscalização dos serviços concedidos.
@@ -165,7 +170,8 @@ c) a mensuração dos indicadores de desempenho realizada pelo verificador indep
 
 **Artigo 9° -** Estão sujeitos à fiscalização e monitoramento todos os serviços de que trata este regulamento.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Das Receitas
 
 **Artigo 10 -** Constituem fontes de receita da concessionária, a serem auferidas nos termos do contrato de concessão:
@@ -180,7 +186,8 @@ IV - outras receitas previstas no edital e no contrato respectivo, ou que venham
 
 **Parágrafo único -** A concessionária receberá do Poder Concedente, em função dos investimentos efetivamente realizados, recursos da recomposição, com base no § 6° do artigo 12, bem como do artigo 21, ambos da Lei federal n° 4.320, de 17 de março de 1964, na forma disciplinada no contrato.
 
-#### CAPÍTULO IX<br>
+#### CAPÍTULO IX
+
 Das Disposições Gerais
 
 **Artigo 11 -** Extinta a concessão, retornarão ao Poder Concedente todos os bens reversíveis, direitos e privilégios vinculados à concessão, transferidos à concessionária ou por ela implantados, na forma prevista em lei e no contrato.

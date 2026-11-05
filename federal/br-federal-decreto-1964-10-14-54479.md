@@ -1,5 +1,3 @@
-###DEC-054479-0-000-14-10-1964@@@
-
 DECRETO Nº 54.479, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Siderúrgica Nacional a pesquisar minério de ferro e manganês, nos municípios de Ouro Prêto, Itabirito e Belo Vale, Estado de Minas Gerais.

@@ -1,18 +1,16 @@
-###DEC-023421-0-000-29-07-1947@@@
+**DECRETO N. 23.421 – DE 29 DE JULHO DE 1947**
 
-<strong>DECRETO N. 23.421 – DE 29 DE JULHO DE 1947</strong>
-
-<em><strong>Concede à sociedade anônima "The Caloric Company” autorização para continuar a funcionar na República.</strong></em>
+***Concede à sociedade anônima "The Caloric Company” autorização para continuar a funcionar na República.***
 
 O Presidente da República, atendendo ao que requereu a sociedade anônima “The Caloric Company”, autorizada a funcionar pelos Decretos ns. 9.512, de 3 de abril de 1912, 10.021, de 22 de janeiro de 1913, 14.886, de 22 de junho de 1921 e 22.568, de 10 de fevereiro de 1947,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Artigo único.</strong> É concedida à sociedade anônima “The Caloric Company”, com sede na cidade de Goshen, Condado de Orange, Nova York, Estados Unidos da América, autorização para continuar a funcionar na República com as alterações de seus estatutos, aprovados por deliberação da assembléia geral dos acionistas, em reunião efetuada a 27 de dezembro de 1946, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
+**Artigo único.** É concedida à sociedade anônima “The Caloric Company”, com sede na cidade de Goshen, Condado de Orange, Nova York, Estados Unidos da América, autorização para continuar a funcionar na República com as alterações de seus estatutos, aprovados por deliberação da assembléia geral dos acionistas, em reunião efetuada a 27 de dezembro de 1946, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 29 de julho de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo.
 

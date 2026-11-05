@@ -58,5 +58,6 @@ Artigo 8° - As despesas decorrentes da execução desta lei correrão por conta
 
 Artigo 9º - Esta lei entra em vigor na data de sua publicação.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Camara Municipal

@@ -12,8 +12,10 @@ Goiânia, 3 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
-Governador do Estado<br>
+DANIEL VILELA
 
-DRA. ZELI<br>
+Governador do Estado
+
+DRA. ZELI
+
 Deputada Estadual

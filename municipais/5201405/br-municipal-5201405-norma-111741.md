@@ -36,18 +36,22 @@ Art. 4º Esta lei entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 23 de outubro de 2025.
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
-ANEXO I<br>
+ANEXO I
+
 (Parte integrante da LC nº 149/2018, com redação dada por esta Lei Complementar)
 
-<table style="width: 523px;"><tbody><tr><td style="width: 177px; text-align: center;"><strong>CARGO</strong></td><td style="width: 168px; text-align: center;"><strong>VALOR DA GRATIFICAÇÃO</strong></td><td style="text-align: center; width: 126px;"><strong>QUANTITATIVO</strong></td></tr><tr><td style="width: 177px; text-align: center;">Auxiliar em Saúde - Agente de Combate a Endemias</td><td style="width: 168px; text-align: center;">R$ 825,00</td><td style="text-align: center; width: 126px;">35</td></tr></tbody></table>
+<table style="width: 523px;"><tbody><tr><td style="width: 177px; text-align: center;">**CARGO**</td><td style="width: 168px; text-align: center;">**VALOR DA GRATIFICAÇÃO**</td><td style="text-align: center; width: 126px;">**QUANTITATIVO**</td></tr><tr><td style="width: 177px; text-align: center;">Auxiliar em Saúde - Agente de Combate a Endemias</td><td style="width: 168px; text-align: center;">R$ 825,00</td><td style="text-align: center; width: 126px;">35</td></tr></tbody></table>
 
-ANEXO II<br>
-(Parte integrante da LC nº 149/2018, com redação dada por esta Lei Complementar)<br>
-<br>
-Agente de Combate às Endemias – Supervisor Atribuições<br>
+ANEXO II
+
+(Parte integrante da LC nº 149/2018, com redação dada por esta Lei Complementar)
+
+Agente de Combate às Endemias – Supervisor Atribuições
+
  
 
 I – supervisionar a execução dos aspectos técnicos e operacionais do controle das endemias;

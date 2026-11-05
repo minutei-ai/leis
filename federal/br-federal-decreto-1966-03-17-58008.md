@@ -1,5 +1,3 @@
-###DEC-058008-0-000-17-03-1966@@@
-
 DECRETO Nº 58.008, de 17 de Março de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Paulista de Seguros, relativa do aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 17 de março de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Paulo Egydio Martins
-
-###DEC-058008-0-000-17-03-1966@@@RET01+++
 
 DECRETO Nº 58.008, de 17 de março de 1966.
 

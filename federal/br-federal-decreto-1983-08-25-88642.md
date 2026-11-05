@@ -1,5 +1,3 @@
-###DEC-088642-0-000-25-08-1983@@@
-
 DECRETO Nº 88.642, DE 25 de AGOSTO DE 1983
 
 Revoga os Decretos nºs 66.395 de março de 1970 e 75.181 de 31 de dezembro de 1974, que aprova altera, respectivamente, o Regulamento da Diretoria de Administração da Marinha.

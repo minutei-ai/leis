@@ -28,5 +28,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação e produz efeito
 
 Goiânia, 10 de março de 2026; 138º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

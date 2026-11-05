@@ -1,5 +1,3 @@
-###DEC-055096-0-000-01-12-1964@@@
-
 DECRETO Nº 55.096, DE 1 DE DEZEMBRO DE 1964.
 
 Concede à Minérios Nacionais Ltda., autorização para funcionar como emprêsa de mineração.

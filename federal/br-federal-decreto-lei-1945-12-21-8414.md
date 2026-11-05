@@ -1,5 +1,3 @@
-###DEL-008414-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.414 – DE 21 DE DEZEMBRO DE 1945
 
 Cria uma funcão de Despachante aduaneiro junto à Alfândega de Santos, no Estado de São Paulo.

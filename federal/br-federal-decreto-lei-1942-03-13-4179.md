@@ -1,5 +1,3 @@
-###DEL-004179-0-000-13-03-1942@@@
-
 DECRETO-LEI N. 4.179 – DE 13 DE MARÇO DE 1942
 
 Dispõe sobre as assistentes do Colégio Pedro II, e dá outras providências.

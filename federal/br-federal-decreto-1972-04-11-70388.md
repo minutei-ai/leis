@@ -1,5 +1,3 @@
-###DEC-070388-0-000-11-04-1972@@@
-
 DECRETO Nº 70.388, de 11 de abril de 1972.
 
 Cria Missão diplomática na República do Zaire.

@@ -1,5 +1,3 @@
-###DEC-004142-0-000-22-02-2002@@@
-
 DECRETO Nº 4.142, DE 22 DE FEVEREIRO DE 2002
 
 Dispõe sobre o fim das restrições, no território nacional, à Ariana Afghan Airlines, nos termos da Resolução 1388 (2002) do Conselho de Segurança das Nações Unidas.

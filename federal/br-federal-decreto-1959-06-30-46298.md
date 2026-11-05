@@ -1,5 +1,3 @@
-###DEC-046298-0-000-30-06-1959@@@
-
 DECRETO Nº 46.298, DE 30 DE junho DE 1959.
 
 Autoriza a cidadã brasileira Maria Auxiliadora Leite a pesquisar minérios de cromo e manganês no município de Piauí, Estado de Minas Gerais.

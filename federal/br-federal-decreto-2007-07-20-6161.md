@@ -1,5 +1,3 @@
-###DEC-006161-0-000-20-07-2007@@@
-
 DECRETO Nº 6.161, DE 20 DE JULHO DE 2007.
 
 Dispõe sobre a inclusão e exclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Elétrico Interligado Nacional - SIN, determina à Agência Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação das respectivas concessões, e dá outras providências.

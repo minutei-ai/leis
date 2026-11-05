@@ -1,5 +1,3 @@
-###DEC-076145-0-000-21-08-1975@@@
-
 DECRETO Nº 76.145 - DE 21 DE AGOSTO DE 1975
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Angra dos Reis, Estado do Rio de Janeiro.

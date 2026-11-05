@@ -1,5 +1,3 @@
-###DEC-071884-0-000-08-03-1973@@@
-
 DECRETO Nº 71.884, DE 8 DE MARÇO DE 1973.
 
 Torna sem efeito aproveitamento de servidor do Quadro Especial da Faculdade de Direito de Sergipe.

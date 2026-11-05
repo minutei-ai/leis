@@ -1,14 +1,12 @@
-###DEC-021948-0-000-14-10-1946@@@
+**DECRETO Nº 21.948, DE 14 DE OUTUBRO DE 1946.**
 
-<strong>DECRETO Nº 21.948, DE 14 DE OUTUBRO DE 1946.</strong>
+***Modifica o Regimento padrão das tesourarias dos serviços públicos civis da União.***
 
-<em><strong>Modifica o Regimento padrão das tesourarias dos serviços públicos civis da União.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regimento padrão das tesourarias dos serviços públicos civis da União, aprovado pelo Decreto número 8.740, de 11 de fevereiro de 1.942, alterado pelo de nº 12.571, de 15 de junho de 1943, passa a vigorar com as seguintes modificações:
+**Art**. 1º O Regimento padrão das tesourarias dos serviços públicos civis da União, aprovado pelo Decreto número 8.740, de 11 de fevereiro de 1.942, alterado pelo de nº 12.571, de 15 de junho de 1943, passa a vigorar com as seguintes modificações:
 
 “Art. 2º Dentre os funcionários lotados na Repartição a que pertencer a Tesouraria, o chefe daquela designará o que deva incumbir-se da escrituração do Caixa Geral e dos Caixas Especiais a cargo das Tesourarias.
 
@@ -36,7 +34,7 @@ f) verificar, depois do pagamento, se os recibos estão na devida ordem;
 
 g) dar ao chefe da Repartição conhecimento de qualquer omissão ou irregularidade na execução dos trabalhos;
 
-h) organizar e assinar com o Tesoureiro as vias da demonstração do movimento da tesouraria a que se refere a letra <em>p</em> do art. 6º;
+h) organizar e assinar com o Tesoureiro as vias da demonstração do movimento da tesouraria a que se refere a letra *p* do art. 6º;
 
 i) enviar à Contadoria Secional, diàriamente e dentro da primeira hora do expediente, uma via de demonstração a que se refere a alínea precedente, acompanhada dos respectivos comprovantes.
 
@@ -46,12 +44,12 @@ Art. 11. .......................................................................
 
 b) o Encarregado da escrituração dos Caixas, por outro funcionário designado pelo Chefe da Repartição.”
 
-<strong>Art</strong>. 2º. O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º. O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º. Revogam-se as disposições em contrário.
+**Art**. 3º. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 14 de outubro de 1946; 125º da Independência e 58º da República
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Gastão Vidigal

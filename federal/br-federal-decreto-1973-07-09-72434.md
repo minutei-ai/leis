@@ -1,5 +1,3 @@
-###DEC-072434-0-000-09-07-1973@@@
-
 DECRETO Nº 72.434, DE 9 DE JULHO DE 1973.
 
 Cria a Coordenação Nacional do Ensino Agrícola - COAGRI - no Ministério da Educação e Cultura, atribuído-lhe autonomia administrativa e financeira e dá outras providências.

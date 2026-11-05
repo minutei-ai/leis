@@ -1,14 +1,12 @@
-###DEC-020313-0-000-02-01-1946@@@
+**DECRETO Nº 20.313, DE 2 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.313, DE 2 DE JANEIRO DE 1946.</strong>
+***Outorga à Companhia Aços Especiais Itabira, concessão para o aproveitamento da energia hidráulica de dois desníveis no rio Lavrinha Curriola, no distrito e município de Antônio Dias, Estado de Minas Gerais.***
 
-<em><strong>Outorga à Companhia Aços Especiais Itabira, concessão para o aproveitamento da energia hidráulica de dois desníveis no rio Lavrinha Curriola, no distrito e município de Antônio Dias, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia Aços Especiais Itabira concessão para o aproveitamento da energia hidráulica de dois desníveis no Rio Lavrinha de Antônio Dias, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia Aços Especiais Itabira concessão para o aproveitamento da energia hidráulica de dois desníveis no Rio Lavrinha de Antônio Dias, Estado de Minas Gerais.
 
 § 1º O aproveitamento de que trata esta concessão não poderá interferir ou a prejudicar o que foi objeto da concessão conjunta outorgada à Companhia Vale do Rio Doce S.A. e à Amintas Jaques de Morais, pelo Decreto nº 17.045, de 3 de novembro de 1944,
 
@@ -18,7 +16,7 @@
 
 § 4º Os aproveitamentos destinados se ao uso exclusivo da concessionária que não poderá ceder energia a terceiros, mesmo a títulos gratuito.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título a concessionária obrigar-se-á:
+**Art**. 2º Sob pena de caducidade do presente título a concessionária obrigar-se-á:
 
 I – Registrá-lo na Divisão de Águas, dentro do prazo de trinta (30) dias, após a sua publicação.
 
@@ -44,9 +42,9 @@ V – Apresentar o mesmo contrato à Divisão de Águas para os fins de registro
 
 Parágrafo único. Os prazos a que se refere êste artigo, poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas, do Departamento Nacional da Produção Mineral.
 
-<strong>Art</strong>. 3º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 3º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 4º Findo o prazo da concessão, tôda a propriedade da concessionária que no momento existir um função exclusiva e permanente do respectivo aproveitamento de energia hidráulica reverterá ao município de Antônio Dias, Estado de Minas Gerais, mediante indenização do custo histórico, isto é, do capital efetivamente invertido,  menos a depreciação.
+**Art**. 4º Findo o prazo da concessão, tôda a propriedade da concessionária que no momento existir um função exclusiva e permanente do respectivo aproveitamento de energia hidráulica reverterá ao município de Antônio Dias, Estado de Minas Gerais, mediante indenização do custo histórico, isto é, do capital efetivamente invertido,  menos a depreciação.
 
 § 1º Se o Govêrno fizer uso do seu direito a essa reversão, cumprir-lhe-á garantir à ex-concessionária, mediante preço calculado pela forma estabelecida no Código de Águas, o fornecimento da energia que não fôr utilizada pública.
 
@@ -54,12 +52,12 @@ Parágrafo único. Os prazos a que se refere êste artigo, poderão ser prorroga
 
 § 3º Para os efeitos do § 2º, dêste artigo, fica a concessionária obrigada a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 5º A concessionária gozará desde a data do registro de que trata o nº V do art. 2º, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 5º A concessionária gozará desde a data do registro de que trata o nº V do art. 2º, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 6º. O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 6º. O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 2 de janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Theodureto de Camargo

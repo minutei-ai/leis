@@ -1,5 +1,3 @@
-###DEC-067011-0-000-06-08-1970@@@
-
 DECRETO Nº 67.011, DE 6 DE AGÔSTO DE 1970.
 
 Declara a cessação do privilégio de exploração dos serviços de energia elétrica de que era titular a Prefeitura Municipal de Goiatuba, com relação aos municípios de Goiatuba e Joviânia, Estado de Goiás, e outorga concessão à Centrais Elétricas de Goiás S. A., nos referidos municípios.

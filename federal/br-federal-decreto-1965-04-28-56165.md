@@ -1,5 +1,3 @@
-###DEC-056165-0-000-28-04-1965@@@
-
 DECRETO Nº 56.165, DE 28 DE ABRIL DE 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco (DAE) concessão para distribuir energia elétrica.

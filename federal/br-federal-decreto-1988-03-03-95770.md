@@ -1,7 +1,3 @@
-1
-
-###DEC-095770-0-000-03-03-1988@@@
-
 DECRETO N° 95.770, DE 3 DE MARÇO DE 1988
 
 Renova a concessão outorgada à Rádio Planetário Ltda., para explorar serviço de radiodifusão sonora em onde média, na cidade de Espumoso, Estado do Rio Grande do Sul.

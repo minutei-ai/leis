@@ -1,5 +1,3 @@
-###DEC-084737-0-000-27-05-1980@@@
-
 Decreto nº 84.737, de 27 de maio de 1980.
 
 Cria, no Ministério das Relações Exteriores, a Comissão Brasileira para o Programa Hidrológico Internacional (PHI), e dá outras providências.

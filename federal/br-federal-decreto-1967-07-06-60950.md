@@ -1,5 +1,3 @@
-###DEC-060950-0-000-06-07-1967@@@
-
 DECRETO Nº 60.950, DE 6 DE JULHO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S. A. - CEMIG concessão para distribuir energia elétrica no município de Faria Lemos, Estado de Minas Gerais.

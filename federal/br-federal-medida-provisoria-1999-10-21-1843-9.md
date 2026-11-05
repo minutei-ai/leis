@@ -1,5 +1,3 @@
-###MPV-001843-0-009-21-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.843-9, DE 21 DE OUTUBRO DE 1999.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

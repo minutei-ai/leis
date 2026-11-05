@@ -1,5 +1,3 @@
-###DEC-054222-0-000-31-08-1964@@@
-
 DECRETO Nº 54.222, DE 31 DE AGôSTO DE 1964.
 
 Extingue a Subchefia de Assuntos Gerais do Gabinete Militar.

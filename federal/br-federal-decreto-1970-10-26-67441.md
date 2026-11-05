@@ -1,5 +1,3 @@
-###DEC-067441-0-000-26-10-1970@@@
-
 Decreto Nº 67.441, de 26 de outubro de 1970.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia, com sede em Arroio Grande, Estado do Rio Grande do Sul.

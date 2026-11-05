@@ -1,5 +1,3 @@
-###DEC-073944-0-000-16-04-1974@@@
-
 DECRETO Nº 73.944, DE 16 DE ABRIL DE 1974.
 
 Concede á Firma Individual Afrodízio Witzel o direito de lavrar dolomita no Município de Jacupiranga, Estado de São Paulo.

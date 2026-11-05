@@ -1,5 +1,3 @@
-###DEC-087546-0-000-08-09-1982@@@
-
 DECRETO Nº 87.546, DE 08 DE SETEMBRO DE 1982
 
 Cria, no âmbito do Ministério Público Federal, o Conselho Superior, a Corregedoria Geral e o Colégio de Procuradores da República.

@@ -1,5 +1,3 @@
-###DEC-059068-0-000-12-08-1966@@@
-
 DECRETO Nº 59.068, DE 12 DE AGôSTO DE 1966.
 
 Institui como Patrono do Quadro de Material Bélico, o Tenente-General Carlos Antonio Napion.

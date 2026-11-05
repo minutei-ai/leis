@@ -1,5 +1,3 @@
-###DEL-004693-0-000-16-09-1942@@@
-
 DECRETO-LEI N. 4.693 – DE 16 DE SETEMBRO DE 1942
 
 Suspende a vigência de artigos do Estatuto dos Funcionários Públicos Civís da União e dá outras providências

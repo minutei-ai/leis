@@ -1,5 +1,3 @@
-###DEC-057968-0-000-10-03-1966@@@
-
 decreto nº 57.968, de 10 de março de 1966.
 
 Autoriza o Cidadão Brasileiro Renato Rodrigues do Carmo a pesquisar mica e quartzo no Município de Malacacheta, Estado de Minas Gerais.

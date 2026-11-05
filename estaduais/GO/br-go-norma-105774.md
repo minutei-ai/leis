@@ -20,8 +20,6 @@ Art. 3º Este Decreto entra em vigor em 1º de julho de 2022.
 
 Goiânia, 1º de julho de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

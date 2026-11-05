@@ -1,5 +1,3 @@
-###DEC-059493-0-000-09-11-1966@@@
-
 DECRETO Nº 59.493, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro José Jorge Boueri a pesquisar cristal de rocha no município de Conceição da Pedra, Estado de Minas Gerais.

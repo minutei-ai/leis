@@ -1,5 +1,3 @@
-###DEC-076897-0-000-23-12-1975@@@
-
 Decreto Nº 76.897, De 23 De Dezembro De 1975.
 
 Aprova Alteração Introduzidos Nos Estatutos Das Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

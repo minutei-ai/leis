@@ -1,5 +1,3 @@
-###DEC-049399-0-000-01-12-1960@@@
-
 DECRETO Nº 49.399, DE 1º DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Noé Pereira de Araújo a pesquisar diamante, nos municípios de Serro e Diamantina, Estado de Minas Gerais.

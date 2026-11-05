@@ -1,5 +1,3 @@
-###DEC-083828-0-000-08-08-1979@@@
-
 Decreto nº 83.828, de 08 de agosto de 1979.
 
 Delega competência aos Ministros da Marinha, do Exército e da Aeronáutica para assinarem Cartas-Patentes de Oficiais-Generais promovidos por ocasião de transferência para a inatividade.

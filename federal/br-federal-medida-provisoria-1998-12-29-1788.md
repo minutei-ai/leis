@@ -1,5 +1,3 @@
-###MPV-001788-0-000-29-12-1998@@@
-
 MEDIDA PROVISóRIA Nº 1.788, DE 29 DE DEZEMBRO DE 1998.
 
 Altera a legislação do Imposto sobre a Renda, relativamente à tributação dos Fundos de Investimento Imobiliário e dos rendimentos auferidos em aplicação ou operação financeira de renda fixa ou variável, ao Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES, à incidência sobre rendimentos de beneficiários no exterior, bem assim a legislação do Imposto sobre Produtos Industrializados - IPI, relativamente ao aproveitamento de créditos e à equiparação de atacadista a estabelecimento industrial, do Imposto sobre Operações de Crédito, Câmbio e Seguros ou Relativas a Títulos e Valores Mobiliários - IOF, relativamente às operações de mútuo, e da Contribuição Social sobre o Lucro Líquido, relativamente às despesas financeiras, e dá outras providências.

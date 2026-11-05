@@ -1,5 +1,3 @@
-###DEC-075649-0-000-23-04-1975@@@
-
 DECRETO Nº 75.649, DE 23 DE ABRIL DE 1975.
 
 Transfere ações de propriedades da União na Companhia siderúrgica Nacional para o patrimônio da Siderurgia Brasileira S.A. SIDERBRÁS, e dá outras providências.

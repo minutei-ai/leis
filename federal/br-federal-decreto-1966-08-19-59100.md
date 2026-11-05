@@ -1,5 +1,3 @@
-###DEC-059100-0-000-19-08-1966@@@
-
 DECRETO Nº 59.100, DE 19 DE AGôSTO DE 1966.
 
 Cria a Carteira de Identidade para uso dos componentes do Corpo de Bombeiros do Distrito Federal.

@@ -1,5 +1,3 @@
-###MPV-001662-0-004-24-09-1998@@@
-
 MEDIDA PROViSÓRiA Nº 1.662-4, DE 24 DE SETEMBRO DE 1998
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

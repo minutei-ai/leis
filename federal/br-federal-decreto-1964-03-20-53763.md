@@ -1,5 +1,3 @@
-###DEC-053763-0-000-20-03-1964@@@
-
 DECRETO Nº 53.763, DE 20 DE MARçO DE 1964.
 
 Autoriza o Banco Nacional de Desenvolvimento Econômico a subscrever, por conta do Fundo Nacional de Investimento, ações ordinárias da Emprêsa Brasileira de Telecomunicações.

@@ -1,5 +1,3 @@
-###DEC-069146-0-000-31-08-1971@@@
-
 DECRETO Nº 69.146, DE 31 DE AGÔSTO DE 1971.
 
 Declara de utilidade pública a Congregação das Irmãs Servas de Nossa Senhora da Anunciação, com sede em Ponta Grossa, Estado do Paraná.

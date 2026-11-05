@@ -1,5 +1,3 @@
-###DEC-066301-0-000-04-03-1970@@@
-
 DECRETO Nº 66.301 - DE 4 DE MARÇO DE 1970
 
 Declara de utilidade pública o Centro Espírita Friburguense, com sede em Nova Friburgo, Estado do Rio de Janeiro.

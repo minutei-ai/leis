@@ -1,7 +1,3 @@
-1
-
-###DEL-001070-0-000-03-12-1969@@@
-
 DECRETO-LEI Nº 1.070, DE 3 DE DEZEMBRO DE 1969
 
 Complementa a redação do Artigo 6º do Decreto-lei nº 185, de 23 de fevereiro de 1967, que estabelece normas para a contratação de obras ou serviços a cargo do Govêrno Federal.

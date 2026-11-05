@@ -1,5 +1,3 @@
-###DEC-051679-0-000-22-01-1963@@@
-
 DECRETO Nº 51.679, DE 22 DE JANEIRO DE 1963.
 
 Homologa Convênios que menciona.

@@ -1,5 +1,3 @@
-###DEC-097588-0-000-21-03-1989@@@
-
 DECRETO N° 97.588, DE 21 DE MARçO DE 1989
 
 Cria a Embaixada do Brasil em Papua Nova Guiné.

@@ -1,5 +1,3 @@
-###DEC-050425-0-000-08-04-1961@@@
-
 Decreto Nº 50.425, DE 8 DE ABRIL DE 1961.
 
 Dá nova redação aos artigos 1º e 2º do Decreto nº 49.972 - de 20 de janeiro de 1961, que abre ao Ministério da Educação e Cultura, os créditos especiais que indica.

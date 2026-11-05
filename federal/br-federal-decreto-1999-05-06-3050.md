@@ -1,5 +1,3 @@
-###DEC-003050-0-000-06-05-1999@@@
-
 DECRETO Nº 3.050, DE 6 DE MAIO DE 1999.
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados (IPI) incidentes sobre os produtos que menciona.

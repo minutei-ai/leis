@@ -1,5 +1,3 @@
-###DEC-084375-0-000-07-01-1980@@@
-
 Decreto nº 84.375, de 7 de janeiro de 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Auriflama, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

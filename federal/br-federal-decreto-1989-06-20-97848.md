@@ -1,7 +1,3 @@
-1
-
-###DEC-097848-0-000-20-06-1989@@@
-
 DECRETO Nº 97.848, DE 20 DE JUNHO DE 1989
 
 Dá nova redação ao art. 70 do Regulamento do FGTS, aprovado pelo Decreto nº 59.820, de 20 de dezembro de 1966.

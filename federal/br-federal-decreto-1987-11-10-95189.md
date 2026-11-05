@@ -1,5 +1,3 @@
-###DEC-095189-0-000-10-11-1987@@@
-
 DECRETO N° 95.189, DE 10 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "SERRO VERDE OU BOA VISTA", classificado como latifúndio por exploração, situado no Município de Guarapuava, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 2 de maio de 1986, e dá outras providências.

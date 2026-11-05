@@ -1,5 +1,3 @@
-###DEC-074217-0-000-25-06-1974@@@
-
 DECRETO Nº 74.217, DE 25 DE JUNHO DE 1974.
 
 Dispõe sobre enquadramento de servidor do Ministério da Fazenda e dá outras providências.

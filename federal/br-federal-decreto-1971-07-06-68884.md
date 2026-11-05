@@ -1,5 +1,3 @@
-###DEC-068884-0-000-06-07-1971@@@
-
 DECRETO Nº 68.884, DE 6 DE JULHO DE 1971.
 
 Redistribui cargo, com respectiva ocupante, para o Ministério do Trabalho e Previdência Social e dá outras providências.

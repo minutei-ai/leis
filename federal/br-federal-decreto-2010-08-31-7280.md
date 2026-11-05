@@ -1,7 +1,3 @@
-###DEC-007280-0-000-01-09-2010-PUB-01@@@
-
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:309.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
-
 DECRETO Nº 7.280, DE 31 DE AGOSTO DE 2010.
 
 Altera o início da vigência do Decreto nº 7.255, de 4 agosto de 2010, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Desenvolvimento Agrário.

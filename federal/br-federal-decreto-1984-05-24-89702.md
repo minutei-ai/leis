@@ -1,5 +1,3 @@
-###DEC-089702-0-000-24-05-1984@@@
-
 DECRETO Nº 89.702, DE 24 DE MAIO DE 1984
 
 Dispõe sobre o montante do Capital Social da VALENORTE ALUMÍNIO LTDA.

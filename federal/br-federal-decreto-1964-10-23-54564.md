@@ -1,5 +1,3 @@
-###DEC-054564-0-000-23-10-1964@@@
-
 DECRETO Nº 54.564, DE 23 DE OUTUBRO DE 1964.
 
 Autoriza Oliveiros Rodrigues a comprar pedras preciosas.

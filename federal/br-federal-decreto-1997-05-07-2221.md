@@ -1,5 +1,3 @@
-###DEC-002221-0-000-07-05-1997@@@
-
 DECRETO Nº 2.221, DE 7 DE MAIO DE 1997
 
 Altera o inciso IV do art. 31 do Decreto nº 81.240, de 20 de janeiro de 1978.

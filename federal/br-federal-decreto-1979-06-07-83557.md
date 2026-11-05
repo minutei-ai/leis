@@ -1,5 +1,3 @@
-###DEC-083557-0-000-07-06-1979@@@
-
 Decreto nº 83.557, de 07 de junho de 1979.
 
 Dispõe sobre a execução orçamentária e a programação financeira da União, regula a movimentação de cotas e dá outras providências.

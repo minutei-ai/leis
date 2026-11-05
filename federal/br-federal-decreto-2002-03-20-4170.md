@@ -1,5 +1,3 @@
-###DEC-004170-0-000-20-03-2002@@@
-
 DECRETO Nº 4.170, DE 20 DE MARÇO DE 2002
 
 Dispõe sobre a execução do Qüinquagésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (prorrogação do ACE-2), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 2 de janeiro de 2002.

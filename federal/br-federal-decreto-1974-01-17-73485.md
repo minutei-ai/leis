@@ -1,5 +1,3 @@
-###DEC-073485-0-000-17-01-1974@@@
-
 DECRETO Nº 73.485, DE 17 DE JANEIRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Comunicação Social e concede reconhecimento ao curso de Relações Públicas, mantidos pelo Instituto Educacional Piracicabano, com sede na cidade de Piracicaba, Estado de São Paulo.

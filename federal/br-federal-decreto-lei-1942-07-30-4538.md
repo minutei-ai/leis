@@ -1,5 +1,3 @@
-###DEL-004538-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.538 – DE 30 DE JULHO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 184:000$0 e torna sem aplicação igual quantia em dotação orçamentária que especifica

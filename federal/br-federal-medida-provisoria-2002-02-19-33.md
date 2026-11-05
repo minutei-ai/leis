@@ -1,5 +1,3 @@
-###MPV-000033-0-000-19-02-2002@@@
-
 MEDIDA PROVISÓRIA Nº 33, DE 19 DE FEVEREIRO DE 2002
 
 Dispõe sobre os Sistemas Nacionais de Epidemiologia, de Saúde Ambiental e de Saúde Indígena, cria a Agência Federal de Prevenção e Controle de Doenças - APEC, e dá outras providências.
@@ -445,6 +443,3 @@ FERNANDO HENRIQUE CARDOSO
 José Serra
 
 Martus Tavares
-
-<br>
-<br>

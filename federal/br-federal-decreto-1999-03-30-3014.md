@@ -1,5 +1,3 @@
-###DEC-003014-0-000-30-03-1999@@@
-
 DECRETO Nº 3.014, DE 30 de MARÇO DE 1999.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.340, de 7 de outubro de 1997.

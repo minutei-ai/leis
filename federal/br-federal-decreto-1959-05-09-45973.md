@@ -1,5 +1,3 @@
-###DEC-045973-0-000-09-05-1959@@@
-
 DECRETO Nº 45.973, DE 9 DE MAIO DE 1959.
 
 Dispõe sôbre a lotação de servidores cedidos à R.F.F.S.A.

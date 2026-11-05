@@ -1,5 +1,3 @@
-###DEC-077136-0-000-12-02-1976@@@
-
 DECRETO Nº 77.136, DE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Psicologia do Centro de Estudos Superiores de Londrina, com sede na cidade de Londrina, Estado do Paraná.

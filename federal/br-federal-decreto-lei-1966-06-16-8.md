@@ -1,5 +1,3 @@
-###DEL-000008-0-000-16-06-1966@@@
-
 DECRETO-LEI Nº 8, DE 16 DE JUNHO DE 1966
 
 Acrescenta parágrafo ao art. 6º do Decreto-lei nº 9.085, de 25 de março de 1946.

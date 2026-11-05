@@ -1,5 +1,3 @@
-###DEC-048316-0-000-20-06-1960@@@
-
 DECRETO Nº 48.316, DE 20 DE JUNHO DE 1960.
 
 Renova o Decreto nº 42.308, de 20 de setembro de 1957.

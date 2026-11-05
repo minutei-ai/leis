@@ -1,5 +1,3 @@
-###DEC-059109-0-000-22-08-1966@@@
-
 DECRETO Nº 59.109, DE 22 DE AGÔSTO DE 1966.
 
 Altera a redação do parágrafo único do art. 7º do Decreto nº 57.655, de 20 de janeiro de 1966.

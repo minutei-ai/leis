@@ -1,5 +1,3 @@
-###DEC-054043-0-000-23-07-1964@@@
-
 DECRETO Nº 54.043, DE 23 DE JUlhO DE 1964.
 
 Aprova o revisão dos antigos Quadros de Pessoal dos extintos Instituto Nacional de Imigração e Colonização, Serviço Social Rural e Estabelecimento Rural de Tapajós, que passaram a integrar a Superintendência de Política Agrária, e dá outras Providências.

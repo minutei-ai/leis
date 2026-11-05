@@ -1,5 +1,3 @@
-###DEC-081689-0-000-19-05-1978@@@
-
 Decreto nº 81.689, de 19 de maio de 1978.
 
 Outorga à CESP - Companhia Energética de São Paulo concessão para o aproveitamento da energia hidráulica de trechos dos rios Paraná e Paranapanema, nos Estados de São Paulo, Paraná e Mato grosso do Sul.

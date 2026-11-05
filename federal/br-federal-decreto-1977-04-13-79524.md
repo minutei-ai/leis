@@ -1,5 +1,3 @@
-###DEC-079524-0-000-13-04-1977@@@
-
 DECREto Nº 79.524, DE 13 DE ABRIL DE 1977.
 
 Declara sem efeito o Decreto número 48.159, de 10 de maio de 1960, que concedeu à Companhia de Cimento Portland Barroso o direito de lavar calcário e argila no Município de Barroso, Estado de Minas Gerais.

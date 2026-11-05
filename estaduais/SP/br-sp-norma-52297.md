@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=52297)
-
 # LEI COMPLEMENTAR Nº 966, DE 16 DE DEZEMBRO DE 2004
 
 ### _Institui Bônus Merecimento aos servidores do Quadro da Secretaria da Educação - QSE e do Quadro de Apoio Escolar - QAE, em exercício na Secretaria da Educação, e dá outras providências correlatas_

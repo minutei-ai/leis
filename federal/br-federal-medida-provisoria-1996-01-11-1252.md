@@ -1,7 +1,3 @@
-1
-
-###MPV-001252-0-000-11-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.252, DE 11 DE JANEIRO DE 1996.
 
 Acrescenta parágrafo ao art. 75 da Lei nº 4.728, de 14 de julho de 1965.

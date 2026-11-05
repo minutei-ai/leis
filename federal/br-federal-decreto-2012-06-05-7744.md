@@ -1,5 +1,3 @@
-###DEC-007744-0-000-05-06-2012-PUB-01@@@
-
 DECRETO Nº 7.744, DE 5 DE JUNHO DE 2012
 
 Dispõe sobre valores das diárias nos deslocamentos para o Município do Rio de Janeiro, Estado do Rio de Janeiro, até 30 de junho de 2012, em decorrência da Conferência das Nações Unidas sobre Desenvolvimento Sustentável - Rio + 20.

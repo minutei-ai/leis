@@ -1,5 +1,3 @@
-###DEC-088926-0-000-27-10-1983@@@
-
 Decreto nº 88.926, de 27 de outubro de 1983
 
 Homologa a demarcação da área indígena que menciona, no Estado do Espírito Santo.

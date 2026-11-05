@@ -1,5 +1,3 @@
-###DEL-007245-0-000-15-01-1945@@@
-
 DECRETO-LEI N. 7.245 – DE 15 DE JANEIRO DE 1945
 
 Modifica a Forma de administração dos IAP dos Empregados em Transportes e Cargas, dos Marítimos e dos Bancários, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-076149-0-000-22-08-1975@@@
-
 DECRETO Nº 76.149 - DE 22 DE AGOSTO DE 1975
 
 Dispõe sobre a liquidação do Serviço Federal de Habitação e Urbanismo - SERFHAU, autarquia vinculada ao Ministério do Interior, e dá outras providências.

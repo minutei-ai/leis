@@ -1,5 +1,3 @@
-###DEC-059465-0-000-08-11-1966@@@
-
 DECRETO Nº 59.465, DE 8 DE NOVEMBRO DE 1966.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$200.000.000, para o fim que especifica.

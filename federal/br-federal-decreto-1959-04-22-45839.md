@@ -1,5 +1,3 @@
-###DEC-045839-0-000-22-04-1959@@@
-
 DECRETO Nº 45.839, DE 22 DE ABRIL DE 1959.
 
 Fixa a natureza especial do Edifício da Praia Vermelha e delimita a área sujeita à Administração Militar na qual se encontra.

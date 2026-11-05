@@ -1,5 +1,3 @@
-###MPV-001943-0-059-16-11-2000@@@
-
 MEDIDA PROVISóRIA Nº 1.943-59, DE 16 de novembro DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

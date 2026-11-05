@@ -1,7 +1,3 @@
-1
-
-###DEC-097611-0-000-04-04-1989@@@
-
 DECRETO N° 97.611, DE 04 DE ABRIL DE 1989
 
 Revoga o inciso IV do art. 2° do Decreto n° 97.455, de 15 de janeiro de 1989.

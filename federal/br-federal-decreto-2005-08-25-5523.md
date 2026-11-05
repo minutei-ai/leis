@@ -1,5 +1,3 @@
-###DEC-005523-0-000-25-08-2005@@@
-
 DECRETO Nº 5.523, DE 25 DE AGOSTO DE 2005.
 
   Altera e acresce dispositivos ao Decreto no 3.179, de 21 de setembro de 1999, que dispõe sobre a especificação das sanções aplicáveis às condutas e atividades lesivas ao meio ambiente.    
@@ -43,5 +41,3 @@ II - em seu sítio na rede mundial de computadores." (NR)
 LUIZ INÁCIO LULA DA SILVA
 
         Marina Silva
-
-Este texto não substitui o publicado no DOU de 26.8.2005

@@ -1,5 +1,3 @@
-###DEC-093084-0-000-07-08-1986@@@
-
 DECRETO Nº 93.084, DE 07 DE AGOSTO DE 1986
 
 Regulamenta a Lei nº 7.468, de 28 de abril de 1986, que dispõe sobre a realização de campanha educativa pelo rádio e televisão sobre os efeitos nocivos do uso de entorpecentes.

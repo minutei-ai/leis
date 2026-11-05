@@ -1,12 +1,10 @@
-###LEI-000715-0-000-19-09-1853@@@
+**LEI N. 715 - DE 19 DE SETEMBRO DE 1853**
 
-<strong>LEI N. 715 - DE 19 DE SETEMBRO DE 1853</strong>
-
-<em><strong>Fixa as Forças de terra para o anno financeiro de 1854-1855.</strong></em>
+***Fixa as Forças de terra para o anno financeiro de 1854-1855.***
 
 D. Pedro II, por Graça de Deus e Unanime Acclamação dos Povos, Imperador Constitucional e Defensor Perpetuo do Brazil: Fazemos saber a todos os Nossos Subditos que a Assembléa Geral Decretou e Nós Queremos a Lei seguinte:
 
-<strong>Art.</strong> 1º As Forças de terra para o anno financeiro de 1854 a 1855 constarão:
+**Art.** 1º As Forças de terra para o anno financeiro de 1854 a 1855 constarão:
 
 § 1º Dos officiaes dos corpos moveis, o de guarnição, dos quadros da Repartição Ecclesiastica, Corpo de Saude, estado-maior de primeira e segunda classes, engenheiros, e Estado-Maior General.
 
@@ -14,17 +12,17 @@ D. Pedro II, por Graça de Deus e Unanime Acclamação dos Povos, Imperador Cons
 
 § 3º De 1.040 praças de pret em companhias de pedestres, incluindo uma companhia para o municipio de Tury-assú na Provincia do Maranhão.
 
-<strong>Art.</strong> 2º As forças fixadas no artigo precedente completar-se-hão pelo engajamento voluntario, e, na insufficiencia deste meio, pelo recrutamento feito em conformidade da Carta de lei de 29 de Agosto de 1837, elevada a 600$000 a quantia qua exime o recrutado do serviço.
+**Art.** 2º As forças fixadas no artigo precedente completar-se-hão pelo engajamento voluntario, e, na insufficiencia deste meio, pelo recrutamento feito em conformidade da Carta de lei de 29 de Agosto de 1837, elevada a 600$000 a quantia qua exime o recrutado do serviço.
 
 Os que se alistarem voluntariamente servirão seis annos, e os recrutados nove annos. Os voluntarios perceberão uma gratificação, que não exceda á quantia de 400$000, e, concluído o seu tempo de serviço, terão uma data de terra de 22.500 braças quadradas.
 
 O contingente necessario para completar as ditas forças será distribuido em circumstancias ordinarias pela capital do Imperio e Provincias.
 
-<strong>Art.</strong> 3º O Governo fica autorisado para destacar até 4.000 praças da Guarda Nacional, em circumstancias extraordinarias.
+**Art.** 3º O Governo fica autorisado para destacar até 4.000 praças da Guarda Nacional, em circumstancias extraordinarias.
 
-<strong>Art.</strong> 4º Fica desde já creado um Commando de Armas na Provincia do Amazonas.
+**Art.** 4º Fica desde já creado um Commando de Armas na Provincia do Amazonas.
 
-<strong>Art.</strong> 5º Ficam revogadas quaesquer disposições em contrario.
+**Art.** 5º Ficam revogadas quaesquer disposições em contrario.
 
 Mandamos portanto a todas as autoridades, a quem o conhecimento e execução da referida Lei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente, como nella se contém. O Secretario de Estado dos Negocios da Guerra a faça imprimir, publicar e correr. Dada no Palacio do Rio de Janeiro aos 19 dias do mez de Setembro de 1853, 32º da Independencia e do Imperio.
 

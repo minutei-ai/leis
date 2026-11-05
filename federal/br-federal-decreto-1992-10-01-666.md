@@ -1,7 +1,3 @@
-1
-
-###DEC-000666-0-000-01-10-1992@@@
-
 DECRETO N° 666, DE 1° DE OUTUBRO DE 1992
 
 Altera o Decreto n° 73.610, de 11 de fevereiro de 1974, que concedeu autonomia financeira ao Departamento de Imprensa Nacional do Ministério da Justiça e criou o Fundo de Imprensa Nacional (FUNIN).

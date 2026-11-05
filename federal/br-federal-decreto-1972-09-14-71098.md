@@ -1,5 +1,3 @@
-###DEC-071098-0-000-14-09-1972@@@
-
 DECRETO Nº 71.098, DE 14 DE SETEMBRO DE 1972.
 
 Concede à Sul Americana de Minérios S.A. o direito de lavrar caulim no município de Juquitiba, Estado de São Paulo.

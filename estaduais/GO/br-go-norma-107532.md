@@ -10,8 +10,6 @@ Art. 2º Esta Lei entra em vigor na data da sua publicação.
 
 Goiânia, 25 de julho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

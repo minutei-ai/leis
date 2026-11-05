@@ -1,5 +1,3 @@
-###DEC-007792-0-000-17-08-2012-PUB-01@@@
-
 DECRETO Nº 7.792, DE 17 DE AGOSTO DE 2012
 
 Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.

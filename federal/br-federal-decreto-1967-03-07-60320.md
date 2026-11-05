@@ -1,5 +1,3 @@
-###DEC-060320-0-000-07-03-1967@@@
-
 DECRETO Nº 60.320, DE 7 DE MARÇO DE 1967.
 
 Suprime cargo extinto.

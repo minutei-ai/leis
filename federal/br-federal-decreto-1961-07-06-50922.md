@@ -1,5 +1,3 @@
-###DEC-050922-0-000-06-07-1961@@@
-
 DECRETO Nº 50.922, DE JULHO DE 1961.
 
 Cria o Parque Nacional de São Joaquim (P.N.S.J.), no Estado de Santa Catarina, e dá outras providências.

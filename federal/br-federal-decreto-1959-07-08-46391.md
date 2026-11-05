@@ -1,5 +1,3 @@
-###DEC-046391-0-000-08-07-1959@@@
-
 DECRETO Nº 46.391, DE 8 DE JULHO DE 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$ 5.000.000,00 a que alude o parágrafo 2º do Art. 7º da Lei número 3.426, de 10 de julho de 1958.

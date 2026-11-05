@@ -1,5 +1,3 @@
-###DEC-002241-0-000-02-06-1997@@@
-
 DECRETO Nº 2.241, DE 2 DE JUNHO DE 1997
 
 Promulga o Acordo sobre cooperação em Matéria Ambiental, celebrado entre o Governo da República Federativa do Brasil e o Governo da República oriental do Uruguai, em Montevidéu, em 28 de dezembro de 1992.
@@ -160,4 +158,22 @@ O presente Acordo poderá ser denunciado por qualquer uma das Partes Contratante
 
 Feito em Montevidéu, aos 28 dias do mês de dezembro de 1992, em dois exemplares originais, nas línguas portuguesa e espanhola, sendo ambos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Oriental do Uruguai</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Fernando Henrique Cardoso</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Hector Gros Espiell</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro das Relações</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Relações Exteriores</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Oriental do Uruguai
+
+Fernando Henrique Cardoso
+
+Hector Gros Espiell
+
+Ministro de Estado das
+
+Ministro das Relações
+
+Relações Exteriores
+
+Exteriores

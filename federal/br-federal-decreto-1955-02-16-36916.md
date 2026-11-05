@@ -1,14 +1,12 @@
-###DEC-036916-0-000-16-02-1955@@@
+**DECRETO Nº 36.916, DE 16 DE FEVEREIRO DE 1955.**
 
-<strong>DECRETO Nº 36.916, DE 16 DE FEVEREIRO DE 1955.</strong>
+***Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.***
 
-<em><strong>Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regulamento da Escola de Comando e Estado-Maior da Aeronáutica, aprovado pelo decreto número 35.937, de 29 de julho de 1954, fica assim alterado:
+**Art**. 1º O Regulamento da Escola de Comando e Estado-Maior da Aeronáutica, aprovado pelo decreto número 35.937, de 29 de julho de 1954, fica assim alterado:
 
 I) O artigo 9º e seus §§ 1º e 2º passam a vigorar com a seguinte redação:
 
@@ -26,7 +24,7 @@ II) Os §§ 1º, 2º e 3º do artigo 10 são substituídos pelos seguintes:
 
 § 3º Ao candidato à matrícula na ECEMAR que tiver indeferido seu requerimento na forma do presente artigo, é facultado recorrer ao Chefe do Estado-Maior da Aeronáutica, para conhecer as razões determinadas da decisão e solicitar reconsideração de despacho, se o desejar. Nesta hipótese, poderá o Chefe do Estado-Maior designar uma comissão, de caráter secreto, composta de três oficiais-generais para reexaminar o caso e apresentar parecer”.
 
-III) A alínea <em>b</em> do artigo 19 fica assim redigida:
+III) A alínea *b* do artigo 19 fica assim redigida:
 
 “b) o candidato ao CEM ou CDS que tenha exercido, com proficiência, as funções de instrutor da Escola de Aperfeiçoamento de Oficiais da Aeronáutica, por dois anos consecutivos ou por um período de tempo ininterrupto equivalente a dois anos letivos”.
 
@@ -58,10 +56,10 @@ X) O artigo 131 passa a vigorar com a seguinte redação:
 
 “Art. 131. Os oficiais que não tenham sido e que não devam ser cogitados para matrícula na Escola de Aperfeiçoamento de Oficiais da Aeronáutica de acôrdo com as disposições que tem regulado o assunto, são dispensados da condição de possuírem o curso respectivo para inscrição em exame de admissão na ECEMAR”.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 16 de fevereiro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

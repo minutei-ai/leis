@@ -1,5 +1,3 @@
-###DEC-074606-0-000-24-09-1974@@@
-
 DECRETO Nº 74.606, DE 24 DE SETEMBRO DE 1974.
 
 Dispõe sobre a estrutura básica do Departamento Nacional de Estradas de Rodagem e dá outras providências.

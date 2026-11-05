@@ -1,5 +1,3 @@
-###DEC-067280-0-000-28-09-1970@@@
-
 Decreto nº 67.280, de 28 de setembro de 1970.
 
 Concede reconhecimento de Curso da Escola média do Rio de Janeiro, Guanabara.

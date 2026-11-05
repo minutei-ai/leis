@@ -1,5 +1,3 @@
-###DEC-074710-0-000-17-10-1974@@@
-
 DECRETO nº 74.710, DE 17 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Música "Marcelo Tupinambá" e de seu curso de Música mantida pelo Conservatório Musical "Marcelo Tupinambá", com sede na cidade de São Paulo, Estado de São Paulo.

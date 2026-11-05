@@ -1,5 +1,3 @@
-###DEC-064766-0-000-01-07-1969@@@
-
 DECRETO Nº 64.766 - DE 1 DE JULHO DE 1969.
 
 Decreta intervenção federal no Município de Calumbi, Estado de Pernambuco e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092588-0-000-25-04-1986@@@
-
 DECRETO Nº 92.588, DE 25 DE ABRIL DE 1986
 
 Obriga os serventuários da Justiça a comunicarem mensalmente ao INPS a lavratura de óbitos nos registros civis, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055481-0-000-08-01-1965@@@
-
 DECRETO Nº 55.481, DE 8 DE JANEIRO DE 1965.
 
 Autoriza a Caieira São Pedro Indústria e Comércio Limitada a pesquisar calcário dolomitico no município de Vassouras, Estado do Rio de Janeiro.

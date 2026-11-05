@@ -1,7 +1,3 @@
-1
-
-###DEC-099059-0-000-07-03-1990@@@
-
 DECRETO N° 99.059, DE 07 DE MARÇO DE 1990
 
 Outorga concessão à SAT – SISTEMA A TRIBUNA DE COMUNICAÇÃO SANTOS LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão}, na cidade de Santos, Estado de São Paulo.

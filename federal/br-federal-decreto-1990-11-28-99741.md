@@ -1,5 +1,3 @@
-###DEC-099741-0-000-28-11-1990@@@
-
 DECRETO N° 99.741, DE 28 DE NOVEMBRO DE 1990
 
 Regulamenta o art. 195 do Decreto-Lei n° 200, de 25 de fevereiro de 1967, com a redação dada pelo art. 1° do Decreto-Lei n° 900, de 24 de setembro de 1969, e os arts. 4° e 5°, inciso III, do Decreto-Lei n° 2.398, de 21 de dezembro de 1987, e dá outras providências.

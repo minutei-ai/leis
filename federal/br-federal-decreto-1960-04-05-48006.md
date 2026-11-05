@@ -1,5 +1,3 @@
-###DEC-048006-0-000-05-04-1960@@@
-
 Decreto nº 48.006, de 5 de Abril de 1960.
 
 Concede à Cia. Cimento Portland de Sergipe autorização para funcionar como emprêsa de mineração.

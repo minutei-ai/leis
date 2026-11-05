@@ -1,5 +1,3 @@
-###DEL-005550-0-000-04-06-1943@@@
-
 DECRETO‑LEI N. 5.550 – DE 4 DE JUNHO DE 1943
 
 Dispõe sôbre matrícula nas Escolas de Ensino Superior dos alunos que terminaram o curso das Escolas Preparatórias

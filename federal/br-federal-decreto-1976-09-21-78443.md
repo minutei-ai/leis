@@ -1,5 +1,3 @@
-###DEC-078443-0-000-21-09-1976@@@
-
 DECRETO Nº 78.443, DE 21 DE SETEMBRO DE 1976.
 
 Altera a redação do artigo 6º dos Estatutos da Fundação Projeto Rondon aprovados pelo Decreto número 77.326, de 22 de março de 1976.

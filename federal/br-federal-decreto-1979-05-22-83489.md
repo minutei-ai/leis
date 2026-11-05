@@ -1,5 +1,3 @@
-###DEC-083489-0-000-22-05-1979@@@
-
 Decreto nº 83.489, de 22 de maio de 1979.
 
 Redistribui cargo, com o respectivo ocupante, do Quadro de Pessoal do Ministério dos Transportes para o do Departamento Nacional de Obras Contra as Seca, e dá outras Providências.

@@ -1,5 +1,3 @@
-###DEC-045786-0-000-14-04-1959@@@
-
 decreto nº 45.786, de 14 de abril de 1959.
 
 Concede à Mineradora e Exportadora Fluminense Ltda. autorização para funcionar como emprêsa de mineração.

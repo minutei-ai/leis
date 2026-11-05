@@ -1,5 +1,3 @@
-###DEC-055014-0-000-17-11-1964@@@
-
 Decreto nº 55.014, de 17 de novembro de 1964.
 
 Retifica o Decreto nº 54.217, de 28 de agôsto de 1964, que modifica o Regimento do Conselho Federal de Educação aprovado pelo Decreto nº 52.617, de 7 de outubro de 1963.

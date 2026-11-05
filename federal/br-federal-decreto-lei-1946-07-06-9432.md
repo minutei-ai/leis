@@ -1,5 +1,3 @@
-###DEL-009432-0-000-06-07-1946@@@
-
 DECRETO-LEI N. 9.432 – DE 6 DE JULHO DE 1946
 
 Cria, no Quadro Permanente, do Ministério da Agricultura, cargo isolado de provimento em comissão e dá outras providências.

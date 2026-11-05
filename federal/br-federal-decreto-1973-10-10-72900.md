@@ -1,5 +1,3 @@
-###DEC-072900-0-000-10-10-1973@@@
-
 DECRETO Nº 72.900, DE 10 DE OUTUBRO DE 1973
 
 Concede permissão, em caráter permanente, à empresa Produtos Alimentícios Fleischmann e Royal limitada, com sede no município de Escada, no Estado de Pernambuco, para funcionar, em sua fábrica de fermentos biológicos, aos domingos e nos dias feriados civis e religiosos.

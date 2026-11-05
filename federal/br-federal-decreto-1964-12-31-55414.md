@@ -1,5 +1,3 @@
-###DEC-055414-0-000-31-12-1964@@@
-
 DECRETO Nº 55.414, DE 31 DE DEZEMBRO DE 1964.
 
 Fica autorizada a Alumínio Minas Gerais S. A. a pesquisar bauxita no município de Mariana, Estado de Minas Gerais.

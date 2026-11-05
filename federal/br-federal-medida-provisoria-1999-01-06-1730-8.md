@@ -1,5 +1,3 @@
-###MPV-001730-0-008-06-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.730-8, DE 6 DE JANEIRO DE 1999
 
 Altera dispositivos da Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001921-0-002-25-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.921-2, DE 25 DE NOVEMBRO DE 1999.
 
 Altera dispositivos da Lei nº 9.365, de 16 de dezembro de 1996, que institui a taxa de juros de Longo Prazo TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, Fundo de Amparo ao Trabalhador e do Fundo da Marinha Mercante.

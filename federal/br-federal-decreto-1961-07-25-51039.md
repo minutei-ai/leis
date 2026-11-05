@@ -1,5 +1,3 @@
-###DEC-051039-0-000-25-07-1961@@@
-
 DECRETO Nº 51.039, de 25 de julho de 1961.
 
 Declara caduco o Decreto nº 22.091, de 18 de novembro de 1946.

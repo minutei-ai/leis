@@ -1,5 +1,3 @@
-###DEL-007178-0-000-21-12-1944@@@
-
 DECRETO-LEI N. 7.178 – DE 21 DE DEZEMBRO DE 1944
 
 Dispõe sôbre a aposentadoria do Embaixador Luiz Martins de Sousa Dantas

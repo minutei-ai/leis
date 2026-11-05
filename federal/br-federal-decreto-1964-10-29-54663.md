@@ -1,5 +1,3 @@
-###DEC-054663-0-000-29-10-1964@@@
-
 DECRETO Nº 54.663, DE 29 DE OUTUBRO DE 1964.
 
 Modifica parte do art. 42 do Decreto nº 51.620 de 13 de dezembro de 1962.

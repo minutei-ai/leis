@@ -1,5 +1,3 @@
-###DEC-049345-0-000-26-11-1960@@@
-
 Decreto nº 49.345, de 26 de novembro de 1960.
 
 Aprova alterações introduzidas nos estatutos da “Protetora” - Companhia de Seguros Gerais e Acidentes do Trabalho, inclusive mudança de denominação para “Protetora” - Companhia Nacional de Seguros Gerais, e aumento do capital social.

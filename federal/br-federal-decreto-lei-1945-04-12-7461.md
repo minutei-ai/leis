@@ -1,5 +1,3 @@
-###DEL-007461-0-000-12-04-1945@@@
-
 DECRETO-LEI N. 7.461 – DE 12 DE ABRIL DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 9.650,00 para pagamento de gratificação de representação

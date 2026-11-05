@@ -1,5 +1,3 @@
-###DEC-068642-0-000-21-05-1971@@@
-
 DECRETO Nº 68.642 - DE 21 DE MAIO DE 1971.
 
 Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que menciona.

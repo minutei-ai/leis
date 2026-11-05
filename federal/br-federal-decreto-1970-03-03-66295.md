@@ -1,5 +1,3 @@
-###DEC-066295-0-000-03-03-1970@@@
-
 DECRETO Nº 66.295 - DE 3 DE MARÇO DE 1970
 
 Declara de utilidade pública a Casa Luiza de Marillac, com sede no Estado da Guanabara.

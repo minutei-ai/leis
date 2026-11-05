@@ -1,5 +1,3 @@
-###DEC-050104-0-000-26-01-1961@@@
-
 DECRETO Nº 50.104, DE 26 DE Janeiro DE 1961.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a tomar ações da Espírito Santo Centrais Elétricas S.A. - ESCELSA - à conta do Fundo Federal de Eletrificação.

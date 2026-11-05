@@ -1,5 +1,3 @@
-###DEC-093909-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.909, 09 DE JANEIRO DE 1987
 
 Altera dispositivos do Decreto nº 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha.

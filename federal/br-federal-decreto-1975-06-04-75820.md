@@ -1,5 +1,3 @@
-###DEC-075820-0-000-04-06-1975@@@
-
 DECRETO Nº 75.820, DE 4 DE JUNHO DE 1975.
 
 Concede à Indústria Nilo Maciel S.A - INIMASA o direito de lavrar minério de ferro no Município de Itatiaiuçu, Estado de Minas Gerais.

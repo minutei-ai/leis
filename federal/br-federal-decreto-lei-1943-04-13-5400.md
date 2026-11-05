@@ -1,5 +1,3 @@
-###DEL-005400-0-000-13-04-1943@@@
-
 DECRETO‑LEI N. 5.400 – DE 13 DE ABRIL DE 1943
 
 Cria cargos no Quadro Permanente do Ministério da Fazenda, e dá outras Providências

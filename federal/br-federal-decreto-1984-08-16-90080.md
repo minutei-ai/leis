@@ -1,5 +1,3 @@
-###DEC-090080-0-000-16-08-1984@@@
-
 Decreto nº 90.080, de 16 de agosto de 1984
 
 Revoga o Decreto nº 35 148, de 05 de março de 1954, que transfere a Agência da Capitania dos Portos do Estado do Maranhão, em Tutóia, à jurisdição da Capitania dos Portos do Estado do Piauí.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000938-0-000-24-09-1993@@@
-
 DECRETO N° 938, DE 24 DE SETEMBRO DE 1993
 
 Dispõe sobre a transferência de Cargos em Comissão que menciona.

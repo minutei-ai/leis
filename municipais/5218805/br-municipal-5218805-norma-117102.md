@@ -30,10 +30,38 @@ Procurador-Geral
 
 **“ANEXO II - QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)** 
 
-<table style="width: 70%;"><tbody><tr><td rowspan="8" style="width: 146px;">CARGOS DE PROVIMENTO EM COMISSÃO (DAS) Grupo de Cargos de Chefia, Direção e Assessoramento Superior</td><td style="width: 692px;"><strong>ESPÉCIE/NÍVEL</strong></td><td style="text-align: center;"><strong>CARGO DE REFERÊNCIA</strong></td><td style="text-align: center;"><strong>QUANTITATIVO</strong></td></tr><tr><td style="width: 692px;">DAS-1</td><td>Superintendente</td><td style="text-align: center;">27</td></tr><tr><td style="width: 692px;">..............................</td><td>..............................</td><td>..............................</td></tr><tr><td style="width: 692px;">DAS-3</td><td>Diretor</td><td style="text-align: center;">66</td></tr><tr><td style="width: 692px;">DAS-4</td><td>Coordenador</td><td style="text-align: center;">170</td></tr><tr><td style="width: 692px;">DAS-5</td><td>Gestor</td><td style="text-align: center;">25</td></tr><tr><td style="width: 692px;">DAS-6</td><td>Supervisor</td><td style="text-align: center;">30</td></tr><tr><td style="width: 692px;">..............................</td><td>..............................</td><td style="text-align: center;">..............................</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="8">CARGOS DE PROVIMENTO EM COMISSÃO (DAS) Grupo de Cargos de Chefia, Direção e Assessoramento Superior</td><td>**ESPÉCIE/NÍVEL**</td><td>**CARGO DE REFERÊNCIA**</td><td>**QUANTITATIVO**</td></tr><tr><td>DAS-1</td><td>Superintendente</td><td>27</td></tr><tr><td>..............................</td><td>..............................</td><td>..............................</td></tr><tr><td>DAS-3</td><td>Diretor</td><td>66</td></tr><tr><td>DAS-4</td><td>Coordenador</td><td>170</td></tr><tr><td>DAS-5</td><td>Gestor</td><td>25</td></tr><tr><td>DAS-6</td><td>Supervisor</td><td>30</td></tr><tr><td>..............................</td><td>..............................</td><td>..............................</td></tr></tbody></table>
 
 **ANEXO II**
 
 **“ANEXO IV - DESCRIÇÃO DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)**
 
-<table style="width: 70%;"><tbody><tr><td><strong>ESPÉCIE/NÍVEL</strong></td><td><strong>FUNÇÃO</strong></td><td><strong>DESCRIÇÃO</strong></td></tr><tr><td style="text-align: center;">.....................</td><td style="text-align: center;">.....................</td><td style="text-align: center;">.....................</td></tr><tr><td style="text-align: center;">DAS-5</td><td style="text-align: center;">Gestor</td><td>Exercer a gestão administrativa e operacional das unidades de sua competência. Gerir a elaboração e implantação de ações e&nbsp;projetos na esfera&nbsp;administrativa, primando pela modernização dos&nbsp; procedimentos, bem como chefiar,&nbsp;orientar acompanhar as atividades desenvolvidas e pelos servidores em seu setor. Auxiliar os superiores no cumprimento das suas atividades.</td></tr><tr><td style="text-align: center;">DAS-6</td><td style="text-align: center;">Supervisor</td><td>Exercer a supervisão operacional das unidades de sua competência, competindo-lhe supervisionar, orientar e acompanhar as&nbsp;atividades, ações e projetos&nbsp;desenvolvidos pelos servidores em seu setor, bem como auxiliar os superiores no cumprimento das suas atividades.</td></tr><tr><td style="text-align: center;">.....................</td><td style="text-align: center;">.....................</td><td style="text-align: center;">.....................</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+.....................
+
+.....................
+
+.....................
+
+DAS-5
+
+Gestor
+
+Exercer a gestão administrativa e operacional das unidades de sua competência. Gerir a elaboração e implantação de ações e projetos na esfera administrativa, primando pela modernização dos  procedimentos, bem como chefiar, orientar acompanhar as atividades desenvolvidas e pelos servidores em seu setor. Auxiliar os superiores no cumprimento das suas atividades.
+
+DAS-6
+
+Supervisor
+
+Exercer a supervisão operacional das unidades de sua competência, competindo-lhe supervisionar, orientar e acompanhar as atividades, ações e projetos desenvolvidos pelos servidores em seu setor, bem como auxiliar os superiores no cumprimento das suas atividades.
+
+.....................
+
+.....................
+
+.....................

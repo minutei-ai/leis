@@ -1,5 +1,3 @@
-###DEC-048209-0-000-13-05-1960@@@
-
 DECRETO Nº 48.209, DE 13 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Geraldo Rodrigues de Melo a pesquisar quartzo e mica no município de Malacacheta, Estado de Minas Gerais.

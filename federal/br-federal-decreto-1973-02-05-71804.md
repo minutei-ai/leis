@@ -1,5 +1,3 @@
-###DEC-071804-0-000-05-02-1973@@@
-
 DECRETO Nº 71.804, DE 5 DE FEVEREIRO DE 1973.
 
 Autoriza a transferência direta, para a Fundação Cultura Riograndense, da concessão outorgada à Rádio Nossa Senhora de Fátima Ltda.

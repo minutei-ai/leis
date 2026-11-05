@@ -1,5 +1,3 @@
-###DEC-054745-0-000-30-10-1964@@@
-
 DECRETO Nº 54.745, DE 30 DE OUTUBRO DE 1964.
 
 Outorga à Emprêsa Distribuidora de Energia em Sergipe S A. concessão para distribuir energia elétrica no Município de Simão Dias.

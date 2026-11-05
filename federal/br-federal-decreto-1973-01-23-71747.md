@@ -1,5 +1,3 @@
-###DEC-071747-0-000-23-01-1973@@@
-
 DECRETO Nº 71.747, DE 23 DE JANEIRO DE 1973.
 
 Torna sem efeito a cassação de disponibilidade de servidor do Departamento Nacional de Obras de Saneamento e dá outras providências.

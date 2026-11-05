@@ -1,5 +1,3 @@
-###DEC-080151-0-000-15-08-1977@@@
-
 DECRETO Nº 80.151, DE 15 DE AGOSTO DE 1977.
 
 Outorga à Indústria de Papel Francisco Cherobim Ltda., concessão para o aproveitamento de energia hidráulica de um trecho do rio Iguaçu, no local denominado Salto Caiacanga, no Estado do Paraná, para uso exclusivo.

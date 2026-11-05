@@ -1,14 +1,12 @@
-###DEC-038151-0-000-25-10-1955@@@
+**DECRETO Nº 38.151,DE 25 DE OUTUBRO DE 1955.**
 
-<strong>DECRETO Nº 38.151,DE 25 DE OUTUBRO DE 1955.</strong>
+***Dá organização à Diretoria de Aperfeiçoamento e Especialização (nova designação dada ao Centro de aperrfeiçoamento e Especialização Realengo) pelo Decreto nº 37.973, de 22 de setembro de 1955.***
 
-<em><strong>Dá organização à Diretoria de Aperfeiçoamento e Especialização (nova designação dada ao Centro de aperrfeiçoamento e Especialização Realengo) pelo Decreto nº 37.973, de 22 de setembro de 1955.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87,inciso I, da Constituíção,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87,inciso I, da Constituíção,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>.1º. A Diretoria de Aperfeiçoamento e Especialização (DAE) com os encargos até então atribuídos ao Centro de Aperfeicoamento e Especialização do Realengo, passa a ter a seguinte organização:
+**Art**.1º. A Diretoria de Aperfeiçoamento e Especialização (DAE) com os encargos até então atribuídos ao Centro de Aperfeicoamento e Especialização do Realengo, passa a ter a seguinte organização:
 
 A - Diretor-General de Divisão:
 
@@ -50,14 +48,14 @@ Chefe-Tenente Coronel do QSG.
 
 4\) Pelotão de Guardas.
 
-<strong>Art</strong>. 2º O Grupamento de Unidades-Escola (GUEs) contunua subornado à Diretoria de Aperfeiçoamento e Especialização para os assuntos de ensino e instrução e para os demais efeitos, à Zona Militar Leste.
+**Art**. 2º O Grupamento de Unidades-Escola (GUEs) contunua subornado à Diretoria de Aperfeiçoamento e Especialização para os assuntos de ensino e instrução e para os demais efeitos, à Zona Militar Leste.
 
-<strong>Art</strong>. 3º O Ministro da Guerra fica autorizado a tomar todas as provicências que julgar necessárias para a execução do presente Decreto.
+**Art**. 3º O Ministro da Guerra fica autorizado a tomar todas as provicências que julgar necessárias para a execução do presente Decreto.
 
-<strong>Art</strong>.4º Êste Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+**Art**.4º Êste Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
 Rio de Janeiro, em 25 de outubro de 1955:134º da Independência e 67º da Republica.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Gen. Henrique Lott

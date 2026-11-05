@@ -1,5 +1,3 @@
-###DEC-059052-0-000-11-08-1966@@@
-
 DECRETO Nº 59.052, DE 11 DE AGÔSTO DE 1966.
 
 Concede a Sociedade Navegação “Transmar” Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem, sob. a nova forma social de Navegação “Transmar” S/A.

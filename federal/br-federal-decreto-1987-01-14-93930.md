@@ -1,5 +1,3 @@
-###DEC-093930-0-000-14-01-1987@@@
-
 DECRETO N° 93.930, DE 14 DE JANEIRO DE 1987
 
 Fixa os Efetivos de Oficiais da Marinha para 1987.

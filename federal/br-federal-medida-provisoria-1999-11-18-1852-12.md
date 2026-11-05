@@ -1,5 +1,3 @@
-###MPV-001852-0-012-18-11-1999@@@
-
 medida provisória nº 1.852-12, de 18 de novembro de 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

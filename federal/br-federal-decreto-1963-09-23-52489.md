@@ -1,5 +1,3 @@
-###DEC-052489-0-000-23-09-1963@@@
-
 decreto nº 52.489, de 23 de setembro de 1963.
 
 Dá nova redação ao parágrafo único do art. 1º do Decreto nº 44.242, de 4 de agôsto de 1954, sôbre licença militar do Exército.

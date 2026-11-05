@@ -1,5 +1,3 @@
-###DEC-053516-0-000-31-01-1964@@@
-
 DECRETO Nº 53.516, DE 31 DE JANEIRO DE 1964.
 
 Reconhece a Confederação Nacional da Agricultura.

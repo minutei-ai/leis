@@ -1,5 +1,3 @@
-###DEC-005581-0-000-10-11-2005@@@
-
 DECRETO Nº 5.581, DE 10 DE NOVEMBRO DE 2005.
 
      Acresce parágrafo único ao art. 4o do Decreto no 4.733, de 10 de junho de 2003, que dispõe sobre políticas públicas de telecomunicações.  
@@ -23,5 +21,3 @@ II - a Agência Nacional de Telecomunicações - ANATEL deverá desenvolver inst
 LUIZ INÁCIO LULA DA SILVA
 
           Helio Costa
-
-Este texto não substitui o publicado no DOU de 11.11.2005

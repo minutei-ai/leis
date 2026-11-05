@@ -1,5 +1,3 @@
-###DEC-067173-0-000-11-09-1970@@@
-
 DECRETO Nº 67.173, DE 11 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina Hidrelétrica de Passo Fundo, até a subestação de Farroupilha, no município de Farroupilha, no Estado do Rio Grande do Sul.

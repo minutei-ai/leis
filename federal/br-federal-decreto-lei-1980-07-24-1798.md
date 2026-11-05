@@ -1,5 +1,3 @@
-###DEL-001798-0-000-24-07-1980@@@
-
 # Decreto-lei nº 1.798, de 24 de julho de 1980.
 
 Estabelece limite de remuneração mensal para os servidores da Administração Federal e dá outras providências.

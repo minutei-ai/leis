@@ -1,5 +1,3 @@
-###DEC-052167-0-000-28-06-1963@@@
-
 DECRETO Nº 52.167, DE 28 DE JULHO DE 1963.
 
 Aprova alteração introduzida nos Estatutos da Companhia seguradora Brasileira, relativa ao aumento de capital.

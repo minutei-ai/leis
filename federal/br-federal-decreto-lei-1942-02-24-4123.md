@@ -1,5 +1,3 @@
-###DEL-004123-0-000-24-02-1942@@@
-
 DECRETO-LEI N. 4.123 – DE 24 DE FEVEREIRO DE 1942
 
 Estende aos serventuários da Justiça o regime de benefícios de familia dos segurados do I. P. A. S. E. e dá outras providências

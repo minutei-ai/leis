@@ -1,5 +1,3 @@
-###DEC-069789-0-000-14-12-1971@@@
-
 DECRETO Nº 69.789 - DE 14 DE DEZEMBRO DE 1971
 
 Altera dispositivos do Decreto número 69.105, de 23 de agôsto de 1971, que dispõs sôbre cargos em comissão do Ministério da Agricultura.

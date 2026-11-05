@@ -1,5 +1,3 @@
-###DEC-082955-0-000-28-12-1978@@@
-
 Decreto nº 82 955, de 28 de dezembro de 1978
 
 Concede novo prazo para cumprimento do disposto no artigo 2º do Decreto nº 77.769 de 8 de junho de 1976.

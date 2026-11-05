@@ -1,7 +1,3 @@
-1
-
-###DEC-095854-0-000-21-03-1988@@@
-
 DECRETO Nº 95.854, DE 21 DE MARÇO DE 1988
 
 Autoriza a Indústria de Meias Scalina Ltda., com sede no Município de Guarulhos, no Estado de São Paulo, a utilizar o trabalho noturno de mulher maior de dezoito anos, e dá outras providências.

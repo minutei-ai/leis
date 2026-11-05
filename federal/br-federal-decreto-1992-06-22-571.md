@@ -1,5 +1,3 @@
-###DEC-000571-0-000-22-06-1992@@@
-
 DECRETO N° 571, DE 22 DE JUNHO DE 1992
 
 Altera o art. 2º do Decreto nº 99.438, de 7 de agosto de 1990, que dispõe sobre a composição do Conselho Nacional de Saúde.

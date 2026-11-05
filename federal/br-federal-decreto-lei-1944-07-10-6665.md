@@ -1,5 +1,3 @@
-###DEL-006665-0-000-10-07-1944@@@
-
 DECRETO-LEI N. 6.665 – DE 10 DE JULHO DE 1944
 
 Dispõe sôbre desapropriações, por utilidade pública, de minas de pirita existentes em Ouro Preto (Minas Gerais)

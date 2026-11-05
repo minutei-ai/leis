@@ -1,5 +1,3 @@
-###DEC-055393-0-000-31-12-1964@@@
-
 DECRETO Nº 55.393, DE 31 DE DEZEMBRO DE 1964.
 
 Concede à Calcinação Vitória Ltda, autorização para funcionar como emprêsa de mineração.

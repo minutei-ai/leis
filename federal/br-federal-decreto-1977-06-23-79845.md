@@ -1,5 +1,3 @@
-###DEC-079845-0-000-23-06-1977@@@
-
 DECRETO Nº 79.845, DE 23 DE JUNHO DE 1977
 
 Concede reconhecimento aos cursos de Pedagogia, de Administração e de Ciências Econômicas, da Faculdade Católica de Ciências Humanas, com sede na Cidade de Brasília, Distrito Federal.

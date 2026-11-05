@@ -1,5 +1,3 @@
-###DEC-047100-0-000-26-10-1959@@@
-
 Decreto nº 47.100, de 26 de outubro de 1959.
 
 Cria a Comissão Especial de Normas Reguladoras do Emprêgo de Aditivos Químicos a Alimentos.

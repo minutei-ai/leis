@@ -22,7 +22,8 @@ II – alteram-se:
 
 a) a Superintendência do Espaço Oscar Niemeyer, vinculada ao Gabinete do Secretário, que passa a ser subordinada à Subsecretaria de Fomento aos Eventos, e mantém-se inalterado o cargo de provimento em comissão de Superintendente, símbolo DAS-4, sem prejuízo à investidura do atual ocupante;
 
-b) a Superintendência de Equipamentos Públicos, vinculada ao Gabinete do Secretário, que passa a ser subordinada à Subsecretaria de Fomento aos Eventos, mas mantêm-se inalterados o cargo de provimento em comissão de Superintendente, símbolo DAS-4, sem prejuízo à investidura de seu atual ocupante, e a subordinação da Gerência do Centro de Convenções de Anápolis à referida superintendência, com o seu respectivo cargo de provimento em comissão de Gerente, símbolo DAI-1, e a investidura de seu atual ocupante;<br>
+b) a Superintendência de Equipamentos Públicos, vinculada ao Gabinete do Secretário, que passa a ser subordinada à Subsecretaria de Fomento aos Eventos, mas mantêm-se inalterados o cargo de provimento em comissão de Superintendente, símbolo DAS-4, sem prejuízo à investidura de seu atual ocupante, e a subordinação da Gerência do Centro de Convenções de Anápolis à referida superintendência, com o seu respectivo cargo de provimento em comissão de Gerente, símbolo DAI-1, e a investidura de seu atual ocupante;
+
 \- [Vide Errata publicada na página 4 do D.O. (Suplemento) de 5-8-2024](https://diariooficial.abc.go.gov.br/portal/edicoes/download/6261).
 
 c) a Gerência de Qualificação Profissional e Colégios Tecnológicos, vinculada à Superintendência do Mais Emprego, que passa a ser subordinada à Superintendência de Qualificação Profissional, e mantém-se inalterado o cargo de provimento em comissão de Gerente, símbolo DAI-1, sem prejuízo à investidura do atual ocupante;
@@ -48,8 +49,6 @@ Art. 5º Ficam revogados os itens 4.7.1.4., 4.7.2.1., 4.7.2.3., 4.8, 4.9. e 4.9.
 Art. 6º Este Decreto entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente a sua entrada em vigor.
 
 Goiânia, 31 de julho de 2024; 136º da República.
-
-<br>
 
 RONALDO CAIADO
 

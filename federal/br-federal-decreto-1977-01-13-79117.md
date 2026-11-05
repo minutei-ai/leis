@@ -1,5 +1,3 @@
-###DEC-079117-0-000-13-01-1977@@@
-
 DECRETO Nº 79.117, DE 13 DE janeiro DE 1977.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

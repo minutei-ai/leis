@@ -1,5 +1,3 @@
-###DEC-094049-0-000-23-02-1987@@@
-
 DECRETO Nº 94.049, DE 23 DE FEVEREIRO DE 1987.
 
 Dispõe sobre aumento do capital social da COMPANHIA ELETROMECÂNICA - CELMA.

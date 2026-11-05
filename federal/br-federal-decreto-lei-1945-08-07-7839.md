@@ -1,5 +1,3 @@
-###DEL-007839-0-000-07-08-1945@@@
-
 DECRETO-LEI N. 7.839 – DE 7 DE AGÔSTO DE 1945
 
 Abre crédito suplementar ao Ministério da Educação e Saúde

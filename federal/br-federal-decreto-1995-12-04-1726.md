@@ -1,7 +1,3 @@
-1
-
-###DEC-001726-0-000-04-12-1995@@@
-
 DECRETO Nº 1.726, DE 4 DE DEZEMBRO DE 1995.
 
 Institui Comissão Interministerial para sistematizar as informações sobre os corredores de transporte bioceânicos.

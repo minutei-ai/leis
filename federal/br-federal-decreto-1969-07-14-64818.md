@@ -1,5 +1,3 @@
-###DEC-064818-0-000-14-07-1969@@@
-
 DECRETO Nº 64.818 - DE 14 DE JULHO DE 1969.
 
 Decreta a intervenção federal no Município de Paranaguá, Estado do Paraná.

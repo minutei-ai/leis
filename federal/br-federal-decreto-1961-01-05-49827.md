@@ -1,5 +1,3 @@
-###DEC-049827-0-000-05-01-1961@@@
-
 DECRETO Nº 49.827, DE 5 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.119, de 24 de julho de 1958.

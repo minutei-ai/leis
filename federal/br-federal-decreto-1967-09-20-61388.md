@@ -1,5 +1,3 @@
-###DEC-061388-0-000-20-09-1967@@@
-
 DECRETo Nº 61.388, DE 20 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Marinha.

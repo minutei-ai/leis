@@ -1,5 +1,3 @@
-###DEC-055462-0-000-05-01-1965@@@
-
 DECRETO Nº 55.462, DE 5 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Antônio Tosato a pesquisar caulim, no Estado do Paraná.

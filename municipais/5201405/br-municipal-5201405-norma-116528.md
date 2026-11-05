@@ -1,6 +1,5 @@
 LEI MUNICIPAL Nº 3.509, DE 10 DE OUTUBRO DE 2019
 
-<br>
 “Institui no âmbito do município de Aparecida de Goiânia o mês da luta pelos direitos do queimado, denominado de ”JUNHO LARANJA’’ , e da outras providencias.”
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
@@ -31,26 +30,26 @@ Art. 4º Esta lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida Goiânia, Estado de Goiás, 10 de Outubro de 2019.
 
-<br>
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-<br>
-VETER MARTINS<br>
+VETER MARTINS
+
 Vice-Prefeito
 
-<br>
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil
 
-<br>
-CRISTINA LOPES AFONSO<br>
+CRISTINA LOPES AFONSO
+
 Vereadora (Câmara de Goiânia)
 
-<br>
-MAYARA MENDANHA<br>
+MAYARA MENDANHA
+
 Secretária de Assistência Social
 
-<br>
-ALESSANDRO MAGALHÃES<br>
+ALESSANDRO MAGALHÃES
+
 Secretário de Saúde

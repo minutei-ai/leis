@@ -1,5 +1,3 @@
-###DEC-072104-0-000-18-04-1973@@@
-
 DECRETO Nº 72.104, DE 18 DE ABRIL DE 1973.
 
 Dispõe sobre o cargo de Delegado junto à Comissão Permanente de Comunicações Militares Interamericanas.

@@ -1,5 +1,3 @@
-###DEC-007655-0-000-23-12-2011-PUB-01@@@
-
 DECRETO Nº 7.655, DE 23 DE DEZEMBRO DE 2011
 
 Regulamenta a Lei nº 12.382, de 25 de fevereiro de 2011, que dispõe sobre o valor do salário mínimo e a sua política de valorização de longo prazo.

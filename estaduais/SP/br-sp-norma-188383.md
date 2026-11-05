@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/188383)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16814-23.11.2018.html)
 
 # LEI N° 16.814, DE 23 DE NOVEMBRO DE 2018

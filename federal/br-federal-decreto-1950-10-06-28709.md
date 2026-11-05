@@ -1,14 +1,12 @@
-###DEC-028709-0-000-06-10-1950@@@
+**DECRETO Nº 28.709, DE 6 DE OUTUBRO DE 1950.**
 
-<strong>DECRETO Nº 28.709, DE 6 DE OUTUBRO DE 1950.</strong>
+***Declara de utilidade pública terrenos e benfeitorias necessários à construção da barragem para realização do aproveitamento progressivo da energia hidráulica da corredeira do Fecho do Funil, no rio Paraopeba, Distrito e Município de Mateus Leme, Estado de Minas Gerais, cuja concessão foi outorgada ao referido Estado, pelo Decreto nº 21.108, de 11 de maio de 1946, e autoriza o mesmo a promover sua desapropriação.***
 
-<em><strong>Declara de utilidade pública terrenos e benfeitorias necessários à construção da barragem para realização do aproveitamento progressivo da energia hidráulica da corredeira do Fecho do Funil, no rio Paraopeba, Distrito e Município de Mateus Leme, Estado de Minas Gerais, cuja concessão foi outorgada ao referido Estado, pelo Decreto nº 21.108, de 11 de maio de 1946, e autoriza o mesmo a promover sua desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e o disposto no art. 151, letras *a* e *b*, do Código de Águas (Decreto número 24.643, de 10 julho de 1934), nos termos do Decreto-lei nº 3.365, de 21 de junho de 1941, e tendo em vista o que requereu o Governo do Estado de Minas Gerais,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e o disposto no art. 151, letras <em>a</em> e <em>b</em>, do Código de Águas (Decreto número 24.643, de 10 julho de 1934), nos termos do Decreto-lei nº 3.365, de 21 de junho de 1941, e tendo em vista o que requereu o Governo do Estado de Minas Gerais,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública, nos termos do Decreto-lei nº 3.365, de 21 de junho de 1941, os terrenos compreendidos no trecho do Fecho do Funil a Brumadinho, limitados pela linha de nível 790, discriminados na planta de conjunto, bem como nas plantas parciais aprovadas pelo Ministro da Agricultura, referentes às áreas de terra sujeitas à inundação pela construção da barragem, como também, as benfeitorias nela existentes.
+**Art**. 1º Ficam declaradas de utilidade pública, nos termos do Decreto-lei nº 3.365, de 21 de junho de 1941, os terrenos compreendidos no trecho do Fecho do Funil a Brumadinho, limitados pela linha de nível 790, discriminados na planta de conjunto, bem como nas plantas parciais aprovadas pelo Ministro da Agricultura, referentes às áreas de terra sujeitas à inundação pela construção da barragem, como também, as benfeitorias nela existentes.
 
 Áreas de terra a serem desapropriada na bacia de acumulação, margem esquerda do rio Paraopeba.
 
@@ -62,14 +60,14 @@ g - Gleba indicada na planta parcial nº 8, com a área de 87,71 hectares, de pr
 
 18 - Gleba indicada na planta parcial nº 18, com a área de 4,67 hectares, de propriedade atribuída à Sociedade Comercial de Mineração Limitada.
 
-<strong>Art</strong>. 2º O Govêrno do Estado de Minas Gerais fica autorizado a promover a desapropriação das referidas áreas de terra, bem como as benfeitorias nelas existentes, na forma da legislação vigente.
+**Art**. 2º O Govêrno do Estado de Minas Gerais fica autorizado a promover a desapropriação das referidas áreas de terra, bem como as benfeitorias nelas existentes, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revoga-se as disposições em contrário.
+**Art**. 4º Revoga-se as disposições em contrário.
 
 Rio de Janeiro, 6 de outubro de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 A. de Novaes Filho

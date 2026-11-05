@@ -1,5 +1,3 @@
-###DEC-045966-0-000-05-05-1959@@@
-
 decreto nº 45.966, de 5 de maio de 1959.
 
 Altera o Decreto nº 45.556, de 7 de março de 1959.

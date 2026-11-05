@@ -1,5 +1,3 @@
-###DEL-000095-0-000-23-12-1937@@@
-
 DECRETO-LEI N. 95 – DE 23  DE DEZEMBRO DE 1937
 
 Abre pelo Ministério da Fazenda, o crédito especial, de 200:000$, destinado a contribuição da União para a  Secção Técnica da Comissão de Estudos Financeiros e Econômicos dos Estados e Municípios.

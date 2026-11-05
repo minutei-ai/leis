@@ -1,5 +1,3 @@
-###DEC-003825-0-000-29-05-2001@@@
-
 DECRETO N.º 3.825, DE 29 DE MAIO DE 2001
 
 Dispõe sobre a execução do Vigésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica n°‑ 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do Mercosul, e o Governo da República do Chile, de 29 de dezembro de 2000.

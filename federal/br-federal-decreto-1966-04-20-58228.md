@@ -1,5 +1,3 @@
-###DEC-058228-0-000-20-04-1966@@@
-
 DECRETO Nº 58.228, DE 20 DE ABRIL DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 40.258, de 31 de outubro de 1956, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária a construção do açude público “Destêrro”, no Município de Malta, Estado da Paraíba.

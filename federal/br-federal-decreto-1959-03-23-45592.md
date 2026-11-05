@@ -1,5 +1,3 @@
-###DEC-045592-0-000-23-03-1959@@@
-
 DECRETO Nº 45.592, DE 23 DE março DE 1959.
 
 Concede à União Brasil Bolívia de Petróleo S.A. autorização para funcionar.

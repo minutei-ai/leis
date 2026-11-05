@@ -1,5 +1,3 @@
-###DEC-001665-0-000-10-10-1995@@@
-
 DECRETO Nº 1.665, DE 10 DE OUTUBRO DE 1995,
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

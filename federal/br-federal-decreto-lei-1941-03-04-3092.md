@@ -1,5 +1,3 @@
-###DEL-003092-0-000-04-03-1941@@@
-
 DECRETO-LEI N. 3.092 – DE 4 DE MARÇO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 196:189$5, para liquidação de dívidas relacionadas

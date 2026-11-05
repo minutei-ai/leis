@@ -1,5 +1,3 @@
-###DEC-089585-0-000-26-04-1984@@@
-
 DECRETO Nº 89.585, de 26 de abril de 1984
 
 Altera o Regulamento para o Corpo de Oficiais da Reserva do Exército.

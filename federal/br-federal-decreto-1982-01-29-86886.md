@@ -1,5 +1,3 @@
-###DEC-086886-0-000-29-01-1982@@@
-
 Decreto nº 86.886, de 29 de janeiro de 1982.
 
 Renova prazo de concessão outorgada à SAMIG - São Miguel Industrial S.A. (ex-Caramelos de Luxo Busi S.A.) para o aproveitamento da energia hidráulica da Cachoeira São José, no Ribeirão São José, Município de Bom Jardim, Estado de Rio de Janeiro, Para uso exclusivo.

@@ -1,5 +1,3 @@
-###DEC-003970-0-000-16-10-2001@@@
-
 DECRETO Nº 3.970, DE 16 DE SETEMBRO DE 2001
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Departamento Nacional de Obras Contra as Secas, e dá outras providências.

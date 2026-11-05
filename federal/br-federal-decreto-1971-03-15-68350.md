@@ -1,5 +1,3 @@
-###DEC-068350-0-000-15-03-1971@@@
-
 DECRETO Nº 68.350, DE 15 DE MARÇO DE 1971.
 
 Revoga decreto e outorga à Centrais Elétricas de Santa Catarina S.A. concessão para distribuir energia elétrica no município de Campos Novos, no Estado e Santa Catarina.

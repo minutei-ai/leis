@@ -6,10 +6,14 @@ Altera Lei 6.687/2017, que dispõe sobre o desmembramento de terrenos urbanos e 
 
 Art. 1º O art. 4º da Lei 6.687/2017 passa a vigorar com a seguinte redação:
 
-“Art. 4º ...................................................................................................<br>
-§ 1º Cumpridos os requisitos exigidos pelo caput deste artigo e no art. 5º desta Lei, será expedida Licença de Desmembramento que terá validade de 180 (cento e oitenta) dias para registro no Cartório competente.<br>
-§ 2º Vencido o prazo do § 1º, se necessária a renovação do prazo por mais 180 (cento e oitenta) dias, o interessado deverá protocolar requerimento no prazo de até 30 (trinta) dias contados de seu primitivo vencimento, sob pena de decadência.<br>
-§ 3º O novo prazo de 180 (cento e oitenta) dias, caso haja a reemissão da Licença, conforme § 2º, será contado da data do vencimento do prazo inicial.<br>
+“Art. 4º ...................................................................................................
+
+§ 1º Cumpridos os requisitos exigidos pelo caput deste artigo e no art. 5º desta Lei, será expedida Licença de Desmembramento que terá validade de 180 (cento e oitenta) dias para registro no Cartório competente.
+
+§ 2º Vencido o prazo do § 1º, se necessária a renovação do prazo por mais 180 (cento e oitenta) dias, o interessado deverá protocolar requerimento no prazo de até 30 (trinta) dias contados de seu primitivo vencimento, sob pena de decadência.
+
+§ 3º O novo prazo de 180 (cento e oitenta) dias, caso haja a reemissão da Licença, conforme § 2º, será contado da data do vencimento do prazo inicial.
+
 § 4º As disposições deste artigo aplicam-se também aos remembramentos.”
 
 Art. 2º Esta Lei entrará em vigor na data de sua publicação.

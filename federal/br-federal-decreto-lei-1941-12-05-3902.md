@@ -1,5 +1,3 @@
-###DEL-003902-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.902 – DE 05 DE DEZEMBRO DE 1941
 
 Retifica decreto sobre aquisição de terrenos.

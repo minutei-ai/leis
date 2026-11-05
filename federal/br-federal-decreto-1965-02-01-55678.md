@@ -1,5 +1,3 @@
-###DEC-055678-0-000-01-02-1965@@@
-
 DECRETO Nº 55.678, DE 1 DE FEVEREIRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Transatlântica Companhia Nacional de Seguros, inclusive aumento do capital social.

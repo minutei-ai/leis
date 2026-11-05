@@ -1,5 +1,3 @@
-###DEC-047630-0-000-15-01-1960@@@
-
 DEcreto nº 47.630, de 15 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Avelino Esteves a pesquisar água mineral no município de Poços de Caldas, Estado de Minas Gerais.

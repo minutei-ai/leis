@@ -1,5 +1,3 @@
-###DEC-055031-0-000-18-11-1964@@@
-
 DECRETO Nº 55.031, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Adonias Martins de Carvalho a pesquisar quartzito no município de Boquira, Estado da Bahia.

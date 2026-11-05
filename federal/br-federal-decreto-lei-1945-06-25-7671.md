@@ -1,5 +1,3 @@
-###DEL-007671-0-000-25-06-1945@@@
-
 DECRETO-LEI N. 7.671 – DE 25 DE JUNHO DE 1945
 
 Autoriza o Ministro da Fazenda a mandar cunhar na Casa da Moeda a importância de Cr$ 300.000.000,00 em moedas auxiliares e divisionárias, e dá outras providências
@@ -12,7 +10,57 @@ Art. 1º Fica o Ministro de Estado dos Negócios da Fazenda autorizado a mandar 
 
 Parágrafo único. Far-se-á a cunhagem na seguinte base:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Moeda</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Importância</span></p></td></tr><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dez centavos (Cr$ 0,10) .............</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>40.000.000</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.000.000,00</span></p></td></tr><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vinte centavos (Cr$ 0,20) ...........</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>80.000.000</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>16.000.000,00</span></p></td></tr><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cinqüenta centavos (Cr$ 0,50) ...</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>40.000.000</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>20.000.000,00</span></p></td></tr><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Um cruzeiro (Cr$ 1,00) ...............</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>100.000.000</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>100.000.000,00</span></p></td></tr><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dois cruzeiros (Cr$ 2,00) ............</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">80.000.000</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">160.000.000,00</span></p></td></tr><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>340.000.000</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>300.000.000,00</span></p></td></tr></tbody></table>
+Moeda
+
+Quantidade
+
+Importância
+
+Dez centavos (Cr$ 0,10) .............
+
+40.000.000
+
+Cr$
+
+4.000.000,00
+
+Vinte centavos (Cr$ 0,20) ...........
+
+80.000.000
+
+Cr$
+
+16.000.000,00
+
+Cinqüenta centavos (Cr$ 0,50) ...
+
+40.000.000
+
+Cr$
+
+20.000.000,00
+
+Um cruzeiro (Cr$ 1,00) ...............
+
+100.000.000
+
+Cr$
+
+100.000.000,00
+
+Dois cruzeiros (Cr$ 2,00) ............
+
+80.000.000
+
+Cr$
+
+160.000.000,00
+
+340.000.000
+
+Cr$
+
+300.000.000,00
 
 Art. 2º A cunhagem da importância referida no artigo anterior terá início imediatamente, em prosseguimento às de que tratam os Decretos-leis ns. 6.283 e 6.848, respectivamente, de 17 de fevereiro e 4 de setembro de 1944, obedecendo as moedas aos característicos estabelecidos nos Decretos-leis ns. 4.791, de 5 de outubro de 1942, 5.375, de 5 de abril de 1943, e 6.283 (art. 2º), de 17 de fevereiro de 1944.
 

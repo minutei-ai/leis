@@ -1,5 +1,3 @@
-###DEC-051947-0-000-26-04-1963@@@
-
 Decreto nº 51.947, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Elysio Pereira de Magalhães a lavrar caulim no município de Camassari, Estado da Bahia.

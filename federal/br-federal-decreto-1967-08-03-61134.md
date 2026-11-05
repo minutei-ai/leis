@@ -1,5 +1,3 @@
-###DEC-061134-0-000-03-08-1967@@@
-
 DECRETO Nº 61.134, DE 3 de agôstO DE 1967.
 
 Declara de utilidade pública o “Hospital São Vicente de Paulo”, com sede em Poté, Estado de Minas Gerais.

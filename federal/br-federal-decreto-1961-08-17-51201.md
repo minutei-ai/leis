@@ -1,16 +1,14 @@
-###DEC-051201-0-000-17-08-1961@@@
+**DECRETO Nº 51.201, DE 17 DE AGÔSTO DE 1961.**
 
-<strong>DECRETO Nº 51.201, DE 17 DE AGÔSTO DE 1961.</strong>
+***Cria o Grupo Executivo de Coordenação dos Transportes na Comissão de Amparo à Produção Agropecuária.***
 
-<em><strong>Cria o Grupo Executivo de Coordenação dos Transportes na Comissão de Amparo à Produção Agropecuária.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando dos poderes que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando dos poderes que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - Fica criado, como órgão assessor da Comissão de Amparo à Produção Agropecuária (CAPA) instituída pelo Decreto nº 50.740, de 7.6.61, o Grupo Executivo de Coordenação dos Transportes (GET) com a finalidade de estudar, propor, executar e controlar a execução de medidas para o melhor aproveitamento do sistema de transporte, com vistas à distribuição regular de produtos básicos de alimentação entre as várias regiões do País.
 
-<strong>Art</strong>. 1º - Fica criado, como órgão assessor da Comissão de Amparo à Produção Agropecuária (CAPA) instituída pelo Decreto nº 50.740, de 7.6.61, o Grupo Executivo de Coordenação dos Transportes (GET) com a finalidade de estudar, propor, executar e controlar a execução de medidas para o melhor aproveitamento do sistema de transporte, com vistas à distribuição regular de produtos básicos de alimentação entre as várias regiões do País.
-
-<strong>Art</strong>. 2º - O GET é integrado pelo Presidente da Comissão Federal de Abastecimento e Preços, que o presidirá, e dos seguintes titulares e representantes de entidades governamentais e privadas:
+**Art**. 2º - O GET é integrado pelo Presidente da Comissão Federal de Abastecimento e Preços, que o presidirá, e dos seguintes titulares e representantes de entidades governamentais e privadas:
 
 Presidente da Comissão de Marinha Mercante;
 
@@ -36,7 +34,7 @@ Representante da Confederação Nacional do Comércio;
 
 Representante da Confederação Nacional de Indústria.
 
-<strong>Art</strong>. 3º - Compete ao GET:
+**Art**. 3º - Compete ao GET:
 
 a) promover e controlar o uso coordenado dos diferentes meios de transporte existentes de modo a assegurar-se o escoamento oportuno e adequado dos produtos básicos de alimentação entre os centros de produção, de armazenamento e de consumo;
 
@@ -48,23 +46,23 @@ d) sugerir providências para a ampliação, ou melhoria desses equipamentos e i
 
 e) sugerir e controlar a execução de medidas tendentes a evitar a ocorrência de capacidade oclosa, no sistema de transportes, em algumas zonas, consequente de uma oferta eventualmente excessiva de meios alternativos, em contraposição à escassês ou insuficiência em outras regiões do País.
 
-<strong>Art</strong>. 4º - Os representantes de órgãos ou emprêsas governamentais coordenarão, em seus respectivos setores de atividade, os estudos, levantamentos, aplicação de medidas e execução de programas aprovados pelo GET.
+**Art**. 4º - Os representantes de órgãos ou emprêsas governamentais coordenarão, em seus respectivos setores de atividade, os estudos, levantamentos, aplicação de medidas e execução de programas aprovados pelo GET.
 
-<strong>Art</strong>. 5º - Fica o GET autorizado a constituir grupos ou subgrupos de trabalho para o estudo dos assuntos de seu interêsse, podendo, para êsse fim, convidar ou requisitar técnicos especialistas e dirigentes de entidades governamentais e privadas, que atuam em setores de atividades de interêsse do Grupo.
+**Art**. 5º - Fica o GET autorizado a constituir grupos ou subgrupos de trabalho para o estudo dos assuntos de seu interêsse, podendo, para êsse fim, convidar ou requisitar técnicos especialistas e dirigentes de entidades governamentais e privadas, que atuam em setores de atividades de interêsse do Grupo.
 
-<strong>Art</strong>. 6º - Os trabalhos administrativos do GET serão executados por uma Secretaria, sob a responsabilidade de um Secretário designado pelo Presidente do Grupo.
+**Art**. 6º - Os trabalhos administrativos do GET serão executados por uma Secretaria, sob a responsabilidade de um Secretário designado pelo Presidente do Grupo.
 
 Parágrafo único - As instalações e o pessoal necessário ao funcionamento da Secretaria serão providos pelos Órgãos Governamentais representados no Grupo.
 
-<strong>Art</strong>. 7º - Os Órgãos do Govêrno Federal, autarquias e sociedades de economia mista prestarão ao GET a cooperação que lhes fôr solicitada, inclusive sob a forma de trabalhos técnicos e cessão de pessoal, na forma da legislação em vigor.
+**Art**. 7º - Os Órgãos do Govêrno Federal, autarquias e sociedades de economia mista prestarão ao GET a cooperação que lhes fôr solicitada, inclusive sob a forma de trabalhos técnicos e cessão de pessoal, na forma da legislação em vigor.
 
-<strong>Art</strong>. 8º - O exercício da função de membro do GET e de seus Subgrupos é considerado serviço público relevante.
+**Art**. 8º - O exercício da função de membro do GET e de seus Subgrupos é considerado serviço público relevante.
 
-<strong>Art</strong>. 9º - Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 9º - Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, (DF), 17 de agôsto de 1961; 140º da Independência e 73º da República.
 
-<strong>JÂNIO QUADROS</strong>
+**JÂNIO QUADROS**
 
 Clovis Pestana
 

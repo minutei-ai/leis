@@ -1,5 +1,3 @@
-###DEL-007322-0-000-14-02-1945@@@
-
 DECRETO-LEI N. 7.322 – DE 14 DE FEVEREIRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 2.200.000,00 à dotação que especifica

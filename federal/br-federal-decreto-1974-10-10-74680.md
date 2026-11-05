@@ -1,5 +1,3 @@
-###DEC-074680-0-000-10-10-1974@@@
-
 DECRETO Nº 74.680, DE 10 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Tecnologia Senador Fláquer, com o curso de Processos de Produção e Usinagem, mantida pelo Instituto de Ensino Superior Senador Fláquer, com sede na cidade de Santo André, Estado de São Paulo.

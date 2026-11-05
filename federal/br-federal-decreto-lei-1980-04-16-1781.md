@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f5bb3eca-5b33-444b-9304-e3d0b8983d61/texto#nowhere)
 
-###DEL-001781-0-000-16-04-1980@@@
-
 # Decreto-lei nº 1.781, de 16 de abril de 1980
 
 Dispõe sobre recursos recebidos pela Companhia de Eletricidade do Amapá (CEA), e dá outras providências.

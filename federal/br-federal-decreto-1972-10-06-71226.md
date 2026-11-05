@@ -1,5 +1,3 @@
-###DEC-071226-0-000-06-10-1972@@@
-
 Decreto nº 71.226 - de 6 de outubro de 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Joinville, Estado de Santa Catarina.

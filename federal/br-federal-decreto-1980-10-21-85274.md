@@ -1,5 +1,3 @@
-###DEC-085274-0-000-21-10-1980@@@
-
 decreto nº 85.274, de 21 de outubro de 1980
 
 Suspende, por inconstitucionalidade, a execução de parte da Lei nº 8.111, de 14 de maio de 1976, do Estado de Goiás.

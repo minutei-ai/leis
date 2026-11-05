@@ -1,5 +1,3 @@
-###DEC-071079-0-000-12-09-1972@@@
-
 DECRETO Nº 71.079, DE 12 DE SETEMBRO DE 1972.
 
 Autoriza o funcionamento dos Cursos de Matemática, Desenho e Plástica da Faculdade de Ciências e Letras da Fundação Regional de Avaré.

@@ -76,7 +76,8 @@ c) Demais autoridades
 | 10 | RONALDO LEMOS Cofundador/Cientista chefe do Instituto de Tecnologia e Sociedade do Rio de Janeiro |
 | 11 | FRANCESCO FARRUGGIA Presidente de honra do Instituto Campus Party |
 | 12 | RAFAEL FURLANETTI Sócio-Diretor Institucional da XP |
-| 13 | ROMEU ZEMA NETO, Governador do Estado de Minas Gerais<br>
+| 13 | ROMEU ZEMA NETO, Governador do Estado de Minas Gerais
+
 \- [Acrescido pelo Decreto nº 10.772, de 3-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111211). |
 
 II – GRAU: “GRANDE– OFICIAL”

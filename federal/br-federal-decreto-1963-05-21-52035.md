@@ -1,5 +1,3 @@
-###DEC-052035-0-000-21-05-1963@@@
-
 DECRETO Nº 52.035, DE 21 DE MAIO DE 1963.
 
 Concede reconhecimento ao Curso de Biblioteconomia da Escola de Biblioteconomia de São Paulo.

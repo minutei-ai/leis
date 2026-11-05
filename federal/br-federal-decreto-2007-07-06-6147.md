@@ -1,5 +1,3 @@
-###DEC-006147-0-000-06-07-2007@@@
-
 DECRETO Nº 6.147, DE 6 DE JULHO DE 2007.
 
 Acresce dispositivo ao art. 1o do Decreto no 5.926, de 9 de outubro de 2006, que fixa os cargos privativos de Oficial-General da Aeronáutica em tempo de paz.
@@ -19,5 +17,3 @@ Brasília, 6 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Waldir Pires
-
-Este texto não substitui o publicado no DOU de 9.7.2007

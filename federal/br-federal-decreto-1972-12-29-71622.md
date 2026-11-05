@@ -1,5 +1,3 @@
-###DEC-071622-0-000-29-12-1972@@@
-
 Decreto Nº 71.622 - DE 29 DE DEZEMBRO DE 1972
 
 Dá nova redação ao parágrafo 2º, do artigo 213 do Regulamento do Imposto de Renda.

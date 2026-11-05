@@ -1,5 +1,3 @@
-###DEC-095027-0-000-13-10-1987@@@
-
 DECRETO Nº 95.027, DE 13 DE OUTUBRO DE 1987
 
 Autoriza a Rede Ferroviária Federal S.A. - RFFSA a proceder o aumento do seu capital social.

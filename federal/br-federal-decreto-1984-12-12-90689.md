@@ -1,5 +1,3 @@
-###DEC-090689-0-000-12-12-1984@@@
-
 Decreto nº 90.689, de 12 de dezembro de 1984
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Administrativas e Contábeis do Vale dó Ribeira.

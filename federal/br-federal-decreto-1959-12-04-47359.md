@@ -1,5 +1,3 @@
-###DEC-047359-0-000-04-12-1959@@@
-
 DECRETO Nº 47.359, DE 04 DE dezembro DE 1959.
 
 Autoriza o cidadão brasileiro Juarez Vieira da Silva a pesquisar mica no município de Coraci, Estado de Minas Gerais.

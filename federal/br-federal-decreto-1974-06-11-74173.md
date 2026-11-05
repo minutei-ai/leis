@@ -1,5 +1,3 @@
-###DEC-074173-0-000-11-06-1974@@@
-
 DECRETO Nº 74.173, DE 11 DE JUNHO DE 1974.
 
 Declara luto oficial pelo falecimento do Marechal Eurico Gaspar Dutra.

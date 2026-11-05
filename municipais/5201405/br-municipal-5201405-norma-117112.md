@@ -18,5 +18,6 @@ Art. 5º - Esta Lei entra em vigor na data da sua publicação.
 
 Gabinete do Presidente da Câmara Municipal de Aparecida Goiânia, aos dias 04 do mês de Novembro do ano de 2014.
 
-GUSTAVO MENDANHA MELLO<br>
+GUSTAVO MENDANHA MELLO
+
 PRESIDENTE

@@ -1,5 +1,3 @@
-###DEC-072626-0-000-16-08-1973@@@
-
 DECRETO Nº 72.626, DE 16 DE AGOSTO DE 1973.
 
 Concede a Construções e Comércio Camargo Correa S.A. o direito de lavrar cianita no Município de Mateus Leme, Estado de Minas Gerais.

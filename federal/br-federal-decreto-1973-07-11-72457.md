@@ -1,5 +1,3 @@
-###DEC-072457-0-000-11-07-1973@@@
-
 DECRETO Nº 72.457, DE 11 DE JULHO DE 1973.
 
 Concede reconhecimento à Faculdade de Medicina de Taubaté, mantida pela Irmandade de Misericórdia de Taubaté, com sede na cidade de Taubaté, Estado de São Paulo.

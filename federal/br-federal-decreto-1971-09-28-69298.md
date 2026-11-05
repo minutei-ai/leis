@@ -1,5 +1,3 @@
-###DEC-069298-0-000-28-09-1971@@@
-
 DECRETO Nº 69.298, DE 28 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública a associação de pais e amigos de excepcionais de Sertanópolis, com sede em Sertanópolis, Estado do Paraná

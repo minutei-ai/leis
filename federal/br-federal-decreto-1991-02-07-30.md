@@ -1,5 +1,3 @@
-###DEC-000030-0-000-07-02-1991@@@
-
 DECRETO Nº 30, DE 7 DE FEVEREIRO DE 1991.
 
 Regulamenta disposições do Decreto-Lei nº 2.300, de 21 de novembro de 1986.

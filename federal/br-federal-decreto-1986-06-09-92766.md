@@ -1,5 +1,3 @@
-###DEC-092766-0-000-09-06-1986@@@
-
 DECRETO Nº 92.766, DE 9 DE JUNHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no município e comarca de São Paulo, Estado de São Paulo, destinada à instalação de Centro Operacional de telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

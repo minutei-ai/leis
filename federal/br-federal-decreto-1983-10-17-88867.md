@@ -1,5 +1,3 @@
-###DEC-088867-0-000-17-10-1983@@@
-
 DECRETO Nº 88.867, DE 17 DE OUTUBRO DE 1983.
 
 Homologa a demarcação da área indígena que menciona nos Estados de Mato Grosso e Rondônia.

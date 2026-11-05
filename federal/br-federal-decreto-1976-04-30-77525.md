@@ -1,5 +1,3 @@
-###DEC-077525-0-000-30-04-1976@@@
-
 Decreto nº 77.525 - de 30 de abril de 1976
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Espírito Santo.

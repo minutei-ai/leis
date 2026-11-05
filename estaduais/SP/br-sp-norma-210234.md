@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210234)<br>
-
 # DECRETO N° 69.056, DE 14 DE NOVEMBRO DE 2024
 
 ### _Institui o portal único "SP.GOV.BR" e dispõe sobre as regras de unificação dos canais digitais do Poder Executivo do Estado_

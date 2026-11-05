@@ -1,5 +1,3 @@
-###DEC-080318-0-000-12-09-1977@@@
-
 DECRETO Nº 80.318, DE 12 DE SETEMBRO DE 1977
 
 Autoriza a transformação do curso de Matemática em curso de Ciências, da Faculdade de Filosofia, Ciências e Letras "José Olympio", com sede na cidade de Batatais, Estado de São Paulo.

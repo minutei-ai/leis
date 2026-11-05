@@ -1,6 +1,10 @@
 > **LEI Nº 4.087, DE 16 DE MARÇO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.736, de 26 de maio de 2021, que institui o Programa de Cooperação e o Código Sinal Vermelho no Estado, visando o combate e a prevenção a violência contra a mulher.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.736, de 26 de maio de 2021, que institui o Programa de Cooperação e o Código Sinal Vermelho no Estado, visando o combate e a prevenção a violência contra a mulher.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

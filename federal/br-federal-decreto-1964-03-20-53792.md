@@ -1,5 +1,3 @@
-###DEC-053792-0-000-20-03-1964@@@
-
 DECRETO Nº 53.792, de 20 de março de 1964.
 
 Transfere, do Govêrno do Estado do Paraná para a Companhia Fôrça e Luz do Paraná, a concessão para distribuir energia elétrica no distrito-sede do município de Araucária, e dá outras providências.

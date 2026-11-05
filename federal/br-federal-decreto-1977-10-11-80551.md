@@ -1,5 +1,3 @@
-###DEC-080551-0-000-11-10-1977@@@
-
 DECRETO Nº 80.551, DE 11 DE OUTUBRO DE 1977.
 
 Autoriza o funcionamento do curso de Letras, da Faculdade de Formação de Professores de Jequié, com sede na cidade de Jequié, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-047277-0-000-23-11-1959@@@
-
 Decreto nº 47.277, de 23 de novembro de 1959.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$5.000.000,00, para o fim que especifica.

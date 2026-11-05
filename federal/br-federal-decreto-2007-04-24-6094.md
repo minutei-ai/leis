@@ -1,5 +1,3 @@
-###DEC-006094-0-000-24-04-2007@@@
-
 DECRETO Nº 6.094, DE 24 DE ABRIL DE 2007.
 
 Dispõe sobre a implementação do Plano de Metas Compromisso Todos pela Educação, pela União Federal, em regime de colaboração com Municípios, Distrito Federal e Estados, e a participação das famílias e da comunidade, mediante programas e ações de assistência técnica e financeira, visando a mobilização social pela melhoria da qualidade da educação básica
@@ -165,5 +163,3 @@ Brasília, 24 de abril de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 25.4.2007

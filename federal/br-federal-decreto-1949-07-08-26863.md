@@ -1,12 +1,10 @@
-###DEC-026863-0-000-08-07-1949@@@
+**DECRETO Nº 26.863, DE 8 DE JULHO DE 1949.**
 
-<strong>DECRETO Nº 26.863, DE 8 DE JULHO DE 1949.</strong>
+***Aprova projeto e orçamento para obras no Estado da Paraíba.***
 
-<em><strong>Aprova projeto e orçamento para obras no Estado da Paraíba.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição tendo em vista o que consta do art. 3º do Decreto-lei nº 25.809, de 10 de novembro de 1948,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição tendo em vista o que consta do art. 3º do Decreto-lei nº 25.809, de 10 de novembro de 1948,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único Ficam aprovados os projetos e orçamentos, na importância total de Cr$ 10.000.000,00 (dez milhões de cruzeiro), que com êste baixam devidamente rubricados, para execução pelo estado da Paraíba. Das Obras de comunicação e transporte abaixo indicadas:
 
@@ -34,6 +32,6 @@ devendo as despesas respectivas até limite indicado, ser custear pelo auxilio f
 
 Rio de Janeiro, 8 de julho 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana

@@ -1,5 +1,3 @@
-###DEC-069722-0-000-09-12-1971@@@
-
 DECRETO Nº 69.772 - DE 9 de DEZEMBRO DE 1971
 
 Redistribui cargo, com o respectivo ocupante, para o Instituto Nacional de Colonização e Reforma Agrária, e dá outras providências.

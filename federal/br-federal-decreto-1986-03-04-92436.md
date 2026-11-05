@@ -1,5 +1,3 @@
-###DEC-092436-0-000-04-03-1986@@@
-
 DECRETO Nº 92.436, DE 04 DE MARÇO DE 1986
 
 Prorroga por 30 dias o prazo a que se refere o artigo 5º do Decreto nº 91.606, de 02 de setembro de 1985.

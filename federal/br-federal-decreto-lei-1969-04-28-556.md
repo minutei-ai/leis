@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e9713634-9528-4cd4-85a3-bc70de67209c/texto#nowhere)
 
-###DEL-000556-0-000-28-04-1969@@@
-
 DECRETO-LEI Nº 556, DE 28 DE ABRIL DE 1969
 
 Inclui no Orçamento Plurianual de Investimentos projeto que especifica.

@@ -1,5 +1,3 @@
-###DEC-064437-0-000-30-04-1969@@@
-
 decreto nº 64.437, de 30 de abril de 1969.
 
 Declara de utilidade pública a Sociedade Beneficente São Camilo, com sede em São Paulo, Estado de São Paulo.

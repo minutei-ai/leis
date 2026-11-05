@@ -1,5 +1,3 @@
-###DEL-009102-0-000-27-03-1946@@@
-
 DECRETO-LEI N. 9.102 – DE 27 DE MARÇO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 1.450.000,00, para despesas com solenidade da posse do Presidente da República.

@@ -1,5 +1,3 @@
-###DEC-073187-0-000-21-11-1973@@@
-
 DECRETO Nº 73.187 - DE 21 DE NOVEMBRO DE 1973
 
 Declara perempta a concessão outorgada à Rádio Baré Ltda., para executar serviços de radiodifusão sonora em onda média de âmbito regional, na cidade Cuiabá, Estado de Mato Grosso .

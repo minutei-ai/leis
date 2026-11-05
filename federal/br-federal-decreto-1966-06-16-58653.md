@@ -1,5 +1,3 @@
-###DEC-058653-0-000-16-06-1966@@@
-
 DECRETO Nº 58.653, DE 16 DE JUNHO DE 1966.
 
 Institui no Ministério da Educação e Cultura o Conselho do Livro Técnico e Didático.

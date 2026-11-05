@@ -1,5 +1,3 @@
-###DEC-066325-0-000-16-03-1970@@@
-
 DECRETO Nº 66.325 - DE 16 DE MARÇO DE 1970
 
 Retifica o Decreto nº 62.063, de 5 de janeiro de 1968.

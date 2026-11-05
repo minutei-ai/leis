@@ -1,5 +1,3 @@
-###DEL-003322-0-000-30-05-1941@@@
-
 DECRETO-LEI N. 3.322 – DE 30 DE MAIO DE 1941
 
 Dispõe sobre vantagens a que fazem jus as guarnições de São Luiz do Maranhão e Teresina

@@ -1,5 +1,3 @@
-###DEC-072808-0-000-14-09-1973@@@
-
 DECRETO Nº 72.808, DE 14 DE SETEMBRO DE 1973.
 
 Retifica redistribuição de cargo, com o respectivo ocupante, para o Quadro de Pessoal da Universidade Federal Fluminense.

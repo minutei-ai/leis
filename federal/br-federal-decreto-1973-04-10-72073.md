@@ -1,5 +1,3 @@
-###DEC-072073-0-000-10-04-1973@@@
-
 Decreto Nº 72.073, 10 DE ABRIL DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras de Moji-Mirim, mantida pela Sociedade de Educação Integral e Assistência Social - SEIAS.

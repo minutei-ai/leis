@@ -1,5 +1,3 @@
-###DEC-065292-0-000-07-10-1969@@@
-
 DECRETO Nº 65.292 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto nº 22.828 de 28 de março de 1947.

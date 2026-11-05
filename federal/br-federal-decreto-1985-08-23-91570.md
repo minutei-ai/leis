@@ -1,5 +1,3 @@
-###DEC-091570-0-000-23-08-1985@@@
-
 Decreto nº 91.570, de 23 de agosto de 1985
 
 Renova a concessão outorgada à RÁDIO E TELEVISÃO BANDEIRANTES S/A, para explorar serviço de radiodifusão sonora em ondas curtas, na cidade de São Paulo, Estado de São Paulo.

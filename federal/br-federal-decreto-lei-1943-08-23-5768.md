@@ -1,5 +1,3 @@
-###DEL-005768-0-000-23-08-1943@@@
-
 DECRETO-LEI N. 5.768 – DE 23 DE AGÔSTO DE 1943
 
 Abre, ao Ministério da Guerra , o crédito de Cr$ 2.400,00 (dois mil e quatro­centos cruzeiros), suplementar à Verba que indica

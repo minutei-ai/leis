@@ -1,7 +1,3 @@
-1
-
-###DEC-098879-0-000-25-01-1990@@@
-
 DECRETO Nº 98.879, DE 25 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Secretariado da Faculdade de Administração da Guanabara.

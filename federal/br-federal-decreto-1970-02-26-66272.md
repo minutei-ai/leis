@@ -1,5 +1,3 @@
-###DEC-066272-0-000-26-02-1970@@@
-
 DECRETO Nº 66.272 - DE 26 DE FEVEREIRO DE 1970
 
 Outorga à Central de Elétricas de Furnas S.A., concessão para o aproveitamento progressivo da energia hidráulica, de um trecho do rio Paraíba, denominado Itumbiara, situado na divisa dos Estados de Goiás e Minas Gerais.

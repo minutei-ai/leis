@@ -1,5 +1,3 @@
-###DEC-095070-0-000-21-10-1987@@@
-
 DECRETO Nº 95.070, DE 21 DE OUTUBRO DE 1987
 
 Autoriza o aumento do capital social das Centrais de Abastecimento do Paraná S.A. - CEASA/PR, e dá outras providências.

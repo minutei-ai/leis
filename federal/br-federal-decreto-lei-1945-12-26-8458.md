@@ -1,5 +1,3 @@
-###DEL-008458-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.458 – DE 26 DE DEZEMBRO DE 1945
 
 Dipõe sôbre o registro dos estatutos das sociedades desportivas

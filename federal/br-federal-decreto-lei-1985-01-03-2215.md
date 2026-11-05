@@ -1,5 +1,3 @@
-###DEL-002215-0-000-03-01-1985@@@
-
 # Decreto-lei nº 2.215, dE 03 de janeiro de 1985
 
 Reajusta os atuais valores de vencimentos e proventos dos servidores da Secretaria-Geral do Tribunal de Contas da União e dá outras providências.

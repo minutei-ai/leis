@@ -1,5 +1,3 @@
-###DEL-000098-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 98, DE 30 DE DEZEMBRO DE 1966
 
 Prorroga, por mais um exercício, a vigência da autorização, contida na Lei nº 4.661, de 2 de junho de 1965, para a abertura do crédito especial Cr$ 877.852.800 (oitocentos e setenta e sete milhões, oitocentos e cinquenta e dois mil e oitocentos cruzeiros).

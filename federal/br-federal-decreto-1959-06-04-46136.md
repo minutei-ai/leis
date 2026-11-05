@@ -1,5 +1,3 @@
-###DEC-046136-0-000-04-06-1959@@@
-
 DECRETO Nº 46.136, DE 4 DE JUNHO DE 1959.
 
 Concede reconhecimento aos cursos de filosofia e didática da Faculdade de Filosofia da Universidade da Paraíba.

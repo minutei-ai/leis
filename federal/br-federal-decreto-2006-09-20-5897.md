@@ -1,5 +1,3 @@
-###DEC-005897-0-000-20-09-2006@@@
-
 DECRETO Nº 5.897, DE 20 DE SETEMBRO DE 2006.
 
                         Dá nova redação ao caput do art. 6o do Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto no 4.418, de 11 de outubro de 2002.
@@ -19,5 +17,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
       Luiz Fernando Furlan
-
-Este texto não substitui o publicado no D.O.U. de 21.9.2006.

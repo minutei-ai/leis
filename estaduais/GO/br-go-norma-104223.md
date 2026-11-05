@@ -2,14 +2,20 @@ LEI Nº 21.064, DE 21 DE JULHO DE 2021
 
 Dispõe sobre as diretrizes orçamentárias para o exercício de 2022 e dá outras providências.
 
-<br>
-\- [Vide Lei nº 21.232, de 11/01/2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232) - Estima a receita e fixa a despesa do Estado para o exercício de 2022.<br>
-\- [Vide Lei nº 20.968, de 18/02/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103877/lei-20968) - Estima a receita e fixa a despesa do Estado para o exercício de 2021.<br>
-\- [Vide Lei nº 20.821, de 04/08/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103301/lei-20821) Dispõe sobre as diretrizes orçamentárias para o exercício de 2021 e dá outras providências.<br>
-\- [Vide Lei nº 20.755, de 28/01/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100977/lei-20755) Dispõe sobre o Plano Plurianual para o quadriênio 2020-2023.  <br>
-\- [Vide Decreto  nº 10.098, de 14-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105660/decreto-10098) - Regulamenta o procedimento para a execução orçamentária e financeira das emendas parlamentares individuais impositivas por meio das transferências especiais previstas no art. 111-A da Constituição estadual.<br>
-\- [Vide Decreto nº 10.049, de 11-02-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105137/decreto-10049) - Estabelece, para o exercício de 2022, os limites anuais de empenho e pagamento pelos órgãos da administração direta, indireta e empresas estatais dependentes.<br>
-\- [Vide decreto nº 9.943, de 08-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104289/decreto-9943) - Estabelece normas de programação e execução orçamentária e financeira, também procedimentos contábeis para o Estado de Goiás.<br>
+\- [Vide Lei nº 21.232, de 11/01/2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232) - Estima a receita e fixa a despesa do Estado para o exercício de 2022.
+
+\- [Vide Lei nº 20.968, de 18/02/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103877/lei-20968) - Estima a receita e fixa a despesa do Estado para o exercício de 2021.
+
+\- [Vide Lei nº 20.821, de 04/08/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103301/lei-20821) Dispõe sobre as diretrizes orçamentárias para o exercício de 2021 e dá outras providências.
+
+\- [Vide Lei nº 20.755, de 28/01/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100977/lei-20755) Dispõe sobre o Plano Plurianual para o quadriênio 2020-2023.  
+
+\- [Vide Decreto  nº 10.098, de 14-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105660/decreto-10098) - Regulamenta o procedimento para a execução orçamentária e financeira das emendas parlamentares individuais impositivas por meio das transferências especiais previstas no art. 111-A da Constituição estadual.
+
+\- [Vide Decreto nº 10.049, de 11-02-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105137/decreto-10049) - Estabelece, para o exercício de 2022, os limites anuais de empenho e pagamento pelos órgãos da administração direta, indireta e empresas estatais dependentes.
+
+\- [Vide decreto nº 9.943, de 08-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104289/decreto-9943) - Estabelece normas de programação e execução orçamentária e financeira, também procedimentos contábeis para o Estado de Goiás.
+
  
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), decreta e eu sanciono a seguinte Lei:
@@ -294,28 +300,34 @@ VIII – subvenções econômicas destinadas às empresas em liquidação e dív
 
 IX – pagamento da dívida pública estadual;
 
-~~X – pagamento de obrigações tributárias e acessórias;~~<br>
+~~X – pagamento de obrigações tributárias e acessórias;~~
+
 \- [Revogado pela Lei nº 21.265, de 30-03-2022, art. 3º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265).
 
-XI – Pagamento de inativos e pensionistas; e<br>
+XI – Pagamento de inativos e pensionistas; e
+
 [\- Redação dada pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~XI – pagamento de inativos e pensionistas, para cada órgão ou entidade, no âmbito da Goiás Previdência; e~~
 
 XII – benefícios, auxílios e despesas de caráter indenizatório ao servidor.
 
-§ 1º No caso dos incisos IV, V e IX, deverá ser criada uma ação orçamentária para cada empresa em liquidação que receber subvenção econômica e uma ação orçamentária para cada contrato da dívida pública.<br>
+§ 1º No caso dos incisos IV, V e IX, deverá ser criada uma ação orçamentária para cada empresa em liquidação que receber subvenção econômica e uma ação orçamentária para cada contrato da dívida pública.
+
 [\- Renumerado pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~Parágrafo único. No caso dos incisos IV, V e IX, deverá ser criada uma ação orçamentária para cada empresa em liquidação que receber subvenção econômica e uma ação orçamentária para cada contrato da dívida pública.~~
 
-§ 2º Poderão ser criadas, no decorrer do exercício de 2022, dotações específicas, nos Fundos Financeiros do RPPS e do SPSM e Fundo Previdenciário, para pagamento de inativos e pensionistas, de que trata o inciso XI deste artigo, por órgão ou entidade de origem do servidor.<br>
+§ 2º Poderão ser criadas, no decorrer do exercício de 2022, dotações específicas, nos Fundos Financeiros do RPPS e do SPSM e Fundo Previdenciário, para pagamento de inativos e pensionistas, de que trata o inciso XI deste artigo, por órgão ou entidade de origem do servidor.
+
 [\- Acrescido pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
-§ 3º O pagamento de inativos e pensionistas, na forma prevista no § 2º, será condicionado à automação do processo por meio de sistema próprio sob a coordenação da Secretaria de Estado da Economia – ECONOMIA, envolvendo os sistemas financeiro e orçamentário.<br>
+§ 3º O pagamento de inativos e pensionistas, na forma prevista no § 2º, será condicionado à automação do processo por meio de sistema próprio sob a coordenação da Secretaria de Estado da Economia – ECONOMIA, envolvendo os sistemas financeiro e orçamentário.
+
 [\- Acrescido pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
-§ 4º A automação a que refere o § 3º deste artigo deverá, antes de sua implementação, ser testada e validada pela Goiás Previdência – GOIASPREV.<br>
+§ 4º A automação a que refere o § 3º deste artigo deverá, antes de sua implementação, ser testada e validada pela Goiás Previdência – GOIASPREV.
+
 [\- Acrescido pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 Art. 18. A Secretaria de Estado da Economia e a Secretaria de Estado de Desenvolvimento e Inovação deverão realizar os procedimentos e os ajustes necessários nos sistemas corporativos do Estado de Goiás de planejamento, execução orçamentária, financeira, patrimonial e contábil, para a implantação da padronização de fontes ou destinações de recursos, nos termos da Portaria Conjunta STN/SOF nº 20, de 23 de fevereiro de 2021, e da Portaria STNnº 710, de 25 de fevereiro de 2021.
@@ -326,7 +338,8 @@ Art. 18. A Secretaria de Estado da Economia e a Secretaria de Estado de Desenvol
 
 CAPÍTULO IV
 
-DAS DIRETRIZES PARA A ELABORAÇÃO E A EXECUÇÃO<br>
+DAS DIRETRIZES PARA A ELABORAÇÃO E A EXECUÇÃO
+
 DOS ORÇAMENTOS DO ESTADO
 
 Art. 19. A elaboração do projeto, a aprovação e a execução da Lei Orçamentária para o exercício de 2022 deverão ser realizadas com o objetivo de possibilitar a obtenção dos resultados previstos no Anexo de Metas Fiscais, que integra esta Lei, no Programa de Reestruturação e Ajuste Fiscal — PAF, previsto na Lei federal nº 9.496, de 11 de setembro de 1997, e nos demais programas federais a que o Estado de Goiás venha a aderir, com a observância do disposto nas Leis Complementares federais nos 101, de 2000, e 156, de 2016, também nas demais legislações de referência.
@@ -337,7 +350,8 @@ Art. 19. A elaboração do projeto, a aprovação e a execução da Lei Orçamen
 
 Art. 20. A receita orçamentária para 2022 será estimada pela Secretaria de Estado da Economia, mediante metodologia claramente definida e instruída com a memória de cálculo.
 
-~~§ 1º As estimativas das receitas próprias dos órgãos, das autarquias, das fundações e dos fundos especiais deverão ser apresentadas com as respectivas metodologias e memórias de cálculo.~~<br>
+~~§ 1º As estimativas das receitas próprias dos órgãos, das autarquias, das fundações e dos fundos especiais deverão ser apresentadas com as respectivas metodologias e memórias de cálculo.~~
+
 [\- Revogado pela Lei nº 21.224, de 29-12-2021, art 5º, I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 § 2º A totalidade das receitas de convênios das autarquias, das fundações, dos fundos especiais e dos órgãos da administração direta constarão da Lei Orçamentária Anual.
@@ -384,17 +398,20 @@ Art. 23. O cadastro das propostas iniciais do Poder Legislativo, incluídos o Tr
 
 § 2º As propostas setoriais que estiverem em desacordo com as normas estabelecidas por esta Lei e com os limites monetários fixados serão devolvidas à origem para correção.
 
-Art. 24. No exercício de 2022, a despesa primária empenhada não poderá exceder o respectivo montante da despesa primária empenhadaem 2021, acrescido pela variação do Índice Nacional de Preços ao Consumidor Amplo – IPCA, conforme o inciso V do art. 2º da Lei Complementar federal nº 159, de 2017, e o art. 41 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado de Goiás.<br>
+Art. 24. No exercício de 2022, a despesa primária empenhada não poderá exceder o respectivo montante da despesa primária empenhadaem 2021, acrescido pela variação do Índice Nacional de Preços ao Consumidor Amplo – IPCA, conforme o inciso V do art. 2º da Lei Complementar federal nº 159, de 2017, e o art. 41 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado de Goiás.
+
 [\- Redação dada pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~Art. 24. No Projeto de Lei Orçamentária para o exercício de 2022, a soma das despesas lastreadas pelas receitas ordinárias do Tesouro Estadual, fonte 100 e 300, classificadas nos Grupos de Natureza de Despesa GND 1, GND 3, GND 4 e GND 5, não poderá exceder os seus valores nominais consignados nos respectivos orçamentos iniciais do exercício de 2021 dos Poderes Executivo (administração direta, autárquica e fundacional, fundos especiais e empresas estatais dependentes), Legislativo e Judiciário, bem como dos órgãos governamentais autônomos (Tribunais de Contas do Estado e dos Municípios, Defensoria Pública e Ministério Público), corrigidos pela variação do Índice de Preços ao Consumidor Amplo — IPCA previsto para 2021 e para 2022.~~
 
-§ 1º A despesa primária corrente fixada na Lei Orçamentária para 2022 não poderá exceder o respectivo montante da despesa primária corrente no exercício imediatamente anterior, acrescido da variação do IPCA, nos termos do art. 4º da Lei Complementar federal nº 156, de 2016, e do parágrafo único do art. 40 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado de Goiás.<br>
+§ 1º A despesa primária corrente fixada na Lei Orçamentária para 2022 não poderá exceder o respectivo montante da despesa primária corrente no exercício imediatamente anterior, acrescido da variação do IPCA, nos termos do art. 4º da Lei Complementar federal nº 156, de 2016, e do parágrafo único do art. 40 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado de Goiás.
+
 [\- Redação dada pela Lei nº 21.224, de 29-12-2021,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~§ 1º O Projeto de Lei Orçamentária de 2022 considerará, para a fixação das dotações das despesas primárias correntes, o disposto no art. 4º da Lei Complementar nº 156, de 2016.~~
 
-~~§ 2º Excetuam-se da diretriz do _caput_ as despesas relativas à saúde e educação, à dívida pública estadual e ao suporte do _deficit_ previdenciário.~~<br>
+~~§ 2º Excetuam-se da diretriz do _caput_ as despesas relativas à saúde e educação, à dívida pública estadual e ao suporte do _deficit_ previdenciário.~~
+
 [\- Revogado pela Lei nº 21.224, de 29-12-2021, art 5º, II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 § 3º As dotações orçamentárias do Poder Legislativo, incluídos o Tribunal de Contas do Estado e o Tribunal de Contas dos Municípios, do Poder Judiciário, do Ministério Público Estadual e da Defensoria Pública constituirão seus orçamentos setoriais para efeito dos duodécimos.
@@ -411,7 +428,8 @@ Art. 27. Na programação da despesa, não poderão ser fixadas despesas sem que
 
 Art. 28. Os recursos fixados na Lei Orçamentária sob o título de “Reserva de Contingência”, à conta do Tesouro Estadual, serão de 2,2% (dois vírgula dois por cento) da Receita Corrente Líquida estimada para 2022, conforme os critérios previstos no inciso IV do art. 2º da Lei Complementar federal nº 101, de 2000, e 1,2% (um vírgula dois por cento) deverá ser reservado como fontes de recursos para fazer face às emendas parlamentares no Projeto de Lei Orçamentária.
 
-Art. 29. O montante previsto para as receitas de operações de crédito não pode exceder o valor das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especial com finalidade precisa, aprovados pela Assembleia Legislativa do Estado de Goiás por maioria absoluta, desde que compatíveis com o § 8º do art. 11 da Lei Complementar federal nº 159, de2017.<br>
+Art. 29. O montante previsto para as receitas de operações de crédito não pode exceder o valor das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especial com finalidade precisa, aprovados pela Assembleia Legislativa do Estado de Goiás por maioria absoluta, desde que compatíveis com o § 8º do art. 11 da Lei Complementar federal nº 159, de2017.
+
 [\- Redação dada pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~Art. 29. O montante previsto para as receitas de operações de crédito na Lei Orçamentária Anual não poderá exceder o das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pela Assembleia Legislativa por maioria absoluta.~~
@@ -496,7 +514,8 @@ Art. 40. É vedada a inclusão, na Lei Orçamentária e em seus créditos adicio
 
 § 2º Os projetos de lei específicos relativos aos repasses de subvenções sociais e auxílios, exceto os efetuados mediante convênios e para as entidades públicas e os serviços sociais autônomos, deverão ser instruídos com:
 
-I – declaração de funcionamento regular, nos últimos 2 (dois) anos, da entidade beneficiária, emitida no exercício de 2022 por 3 (três) autoridades locais;<br>
+I – declaração de funcionamento regular, nos últimos 2 (dois) anos, da entidade beneficiária, emitida no exercício de 2022 por 3 (três) autoridades locais;
+
 \- [Redação dada pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
 ~~I – declaração de funcionamento regular, nos últimos 5 (cinco) anos, da entidade beneficiária, emitida no exercício de 2022 por 3 (três) autoridades locais;~~
@@ -539,19 +558,22 @@ Art. 43. As entidades privadas beneficiadas com recursos públicos a qualquer t�
 
 CAPÍTULO VI
 
-DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS DO ESTADO<br>
+DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS DO ESTADO
+
 COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 44. No exercício financeiro de 2022, as despesas com pessoal, ativo e inativo, do Poder Executivo, do Poder Legislativo, incluídos o Tribunal de Contas do Estado e o Tribunal de Contas dos Municípios, do Poder Judiciário e do Ministério Público Estadual observarão os limites estabelecidos na Lei Complementar federal nº 101, de 2000, baseados na receita corrente líquida e considerarão, em relação aos órgãos do Poder Legislativo, para a Assembleia Legislativa 1,50% (um vírgula cinquenta por cento), para o Tribunal de Contas do Estado 1,35% (um vírgula trinta e cinco por cento) e para o Tribunal de Contas dos Municípios 0,55% (zero vírgula cinquenta e cinco por cento), conforme o § 5º do art. 20 da referida Lei.
 
 § 1º Ainda que impacte o limite do Poder Executivo, em respeito à autonomia funcional e administrativa da Defensoria Pública, para ela será considerado o limite da LOA aprovada.
 
-§ 2º Em atendimento ao disposto no § 1º do art. 18 da Lei Complementar nº 101, de 2000, na execução orçamentária, as despesas com a contratação por meio de cooperativas e de empresas individuais devem ser classificadas na natureza 3.3.90.34.00, e as transferências às organizações sociais ou outras entidades privadas sem fins lucrativos para a execução de serviços no contrato de gestão firmado com o Poder Público deverão ser contabilizadas na natureza 3.3.50.85.00, sem a necessidade de especificação do objeto de gasto.<br>
+§ 2º Em atendimento ao disposto no § 1º do art. 18 da Lei Complementar nº 101, de 2000, na execução orçamentária, as despesas com a contratação por meio de cooperativas e de empresas individuais devem ser classificadas na natureza 3.3.90.34.00, e as transferências às organizações sociais ou outras entidades privadas sem fins lucrativos para a execução de serviços no contrato de gestão firmado com o Poder Público deverão ser contabilizadas na natureza 3.3.50.85.00, sem a necessidade de especificação do objeto de gasto.
+
 [\- Redação dada pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~§ 2º Em atendimento ao disposto no § 1º do art. 18 da Lei Complementar nº 101, de 2000, os gastos relativos a pessoal contratado indiretamente para atuação na atividade-fim do órgão ou da entidade ou em substituição a servidores e empregados públicos, ainda que sejam por meio de organizações sociais — OSs ou de pessoas jurídicas contratadas por essas OSs, serão contabilizados em elemento específico (3.3.90.34.00) e considerados para o cálculo do limite de despesas com pessoal.~~
 
-§ 3º O valor referente à despesa com pessoal relacionado à atividade-fim, decorrente de contrato de gestão, deverá ser contabilizado após a apresentação da prestação de contas ao ente estatal referente aos gastos com pessoal das organizações.<br>
+§ 3º O valor referente à despesa com pessoal relacionado à atividade-fim, decorrente de contrato de gestão, deverá ser contabilizado após a apresentação da prestação de contas ao ente estatal referente aos gastos com pessoal das organizações.
+
 [\- Redação dada pela Lei nº 21.224, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~§ 3º Em atendimento à Portaria STN nº 377, de 9 de julho de 2020, os órgãos e as entidades deverão adequar os respectivos dispositivos contratuais, bem como os procedimentos de prestação de contas das organizações sociais para a segregação de suas despesas de pessoal que serão contabilizadas nos termos do § 2º deste artigo.~~
@@ -614,7 +636,8 @@ Art. 52. A previsão de valores para a quitação dos precatórios judiciais pro
 
 CAPÍTULO VIII
 
-DA POLÍTICA DE APLICAÇÃO DOS RECURSOS DA AGÊNCIA FINANCEIRA<br>
+DA POLÍTICA DE APLICAÇÃO DOS RECURSOS DA AGÊNCIA FINANCEIRA
+
 OFICIAL DE FOMENTO
 
 Art. 53. A agência financeira oficial de fomento, respeitadas as suas especificidades, observará, na concessão de empréstimos e financiamentos, entre outras especificidades, as seguintes:
@@ -753,51 +776,64 @@ VI – a execução orçamentária e financeira; e
 
 VII – eventuais bloqueios, ou outras ocorrências, com a devida justificação.
 
-Art. 67. Fica o Poder Executivo autorizado a ajustar emendas parlamentares da Lei Orçamentária Anual, por meio de ofício devidamente motivado do autor da emenda e apresentado ao órgão ou à entidade executora, com cópia à Secretaria de Estado da Economia, obedecido o seguinte quanto à emenda parlamentar individual impositiva:<br>
+Art. 67. Fica o Poder Executivo autorizado a ajustar emendas parlamentares da Lei Orçamentária Anual, por meio de ofício devidamente motivado do autor da emenda e apresentado ao órgão ou à entidade executora, com cópia à Secretaria de Estado da Economia, obedecido o seguinte quanto à emenda parlamentar individual impositiva:
+
 \- [Redação dada pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
 ~~Art. 67. Fica o Poder Executivo autorizado a ajustar emendas parlamentares da Lei Orçamentária Anual, mediante ofício devidamente motivado do deputado autor de emenda, apresentado ao órgão ou à entidade executor(a), com cópia à Secretaria de Estado da Economia, e podem ser alterados o objeto, o beneficiado ou o grupo de despesa da emenda parlamentar individual impositiva, desde que não seja ultrapassado seu valor original nem alterada a área de destinação dos recursos.~~
 
-I – dela poderão ser alterados:<br>
+I – dela poderão ser alterados:
+
 \- [Acrescido pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
-a) o objeto;<br>
+a) o objeto;
+
 \- [Acrescida pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
-b) o beneficiário; ou<br>
+b) o beneficiário; ou
+
 \- [Acrescida pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
-c) o grupo de despesa; e<br>
+c) o grupo de despesa; e
+
 \- [Acrescida pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
-II – são vedados:<br>
+II – são vedados:
+
 \- [Acrescido pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
-a) ultrapassar o seu valor original; e<br>
+a) ultrapassar o seu valor original; e
+
 \- [Acrescida pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
-b) remanejar recursos da saúde ou educação.<br>
+b) remanejar recursos da saúde ou educação.
+
 \- [Acrescida pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
-§ 1º Os ajustes à execução das programações previstas no Anexo V, referentes às ações resultantes das emendas de iniciativa parlamentar, deverão ser publicados mensalmente, por portaria do Secretário de Estado da Economia, no site oficial dessa pasta ([www.economia.go.gov.br](http://www.economia.go.gov.br/)).<br>
+§ 1º Os ajustes à execução das programações previstas no Anexo V, referentes às ações resultantes das emendas de iniciativa parlamentar, deverão ser publicados mensalmente, por portaria do Secretário de Estado da Economia, no site oficial dessa pasta ([www.economia.go.gov.br](http://www.economia.go.gov.br/)).
+
 \- [Redação dada pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
 ~~§ 1º Os ajustes à execução das programações previstas no Anexo da LOA de que trata o art. 58 desta Lei, referentes às ações resultantes das emendas de iniciativa parlamentar, deverão ser publicados mensalmente, por meio de portaria da Secretaria de Estado da Economia, no seu _site_ oficial ([www.economia.go.gov.br](http://www.economia.go.gov.br/)).~~
 
-§ 2º A vedação prevista na alínea “b” do inciso II do _caput_ não impede o remanejamento de recursos entre as áreas de saúde e educação.<br>
+§ 2º A vedação prevista na alínea “b” do inciso II do _caput_ não impede o remanejamento de recursos entre as áreas de saúde e educação.
+
 \- [Redação dada pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
 ~~§ 2º O ofício mencionado no _caput_ deste artigo deverá ser apresentado até o dia 31 de maio de 2022.~~
 
-§ 3º Salvo em relação ao município beneficiário, que pode ser alterado até duas vezes a qualquer momento antes do pagamento da emenda, a alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.<br>
+§ 3º Salvo em relação ao município beneficiário, que pode ser alterado até duas vezes a qualquer momento antes do pagamento da emenda, a alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.
+
 \- [Redação dada pela Lei nº 21.739, de 27-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106517/lei-21739).
 
-~~§ 3º A alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.~~<br>
+~~§ 3º A alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.~~
+
 \- [Redação dada pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
 ~~§ 3º A alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.~~
 
-§ 4º A restrição prevista no § 3º não se aplica aos casos de impedimento técnico informado pelo órgão ou pela entidade executora.<br>
+§ 4º A restrição prevista no § 3º não se aplica aos casos de impedimento técnico informado pelo órgão ou pela entidade executora.
+
 \- [Redação dada pela Lei nº 21.232, de 11-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232).
 
 ~~§ 4º As restrições previstas nos §§ 2º e 3º não se aplicam aos casos de impedimento técnico informado pelo órgão ou pela entidade executor(a).~~
@@ -976,17 +1012,20 @@ Art. 80. A Assembleia Legislativa terá acesso a todas as informações que subs
 
 Art. 81. Acompanham esta Lei os seguintes anexos:
 
-I – Anexo de Metas Fiscais;<br>
+I – Anexo de Metas Fiscais;
+
 [\- Redação dada pela Lei nº 21.224, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~I – Anexo de Metas Fiscais; e~~
 
-II – Anexo de Riscos Fiscais; e<br>
+II – Anexo de Riscos Fiscais; e
+
 [\- Redação dada pela Lei nº 21.224, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ~~II – Anexo de Riscos Fiscais.~~
 
-III – Anexo de Acréscimos às despesas com pessoal em 2022.<br>
+III – Anexo de Acréscimos às despesas com pessoal em 2022.
+
 [\- Acrescido pela Lei nº 21.224, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 § 1º Para o cálculo das despesas primárias que integram o cálculo do resultado primário, será considerada a previsão de pagamento de restos a pagar no exercício.
@@ -1031,7 +1070,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 [Redação dada pelo art. 3º da Lei nº 21.224, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 ALTERAÇÕES AO ANEXO I – METAS FISCAIS, DA LEI Nº [21.064](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104223/lei-21064), DE 21 DE JULHO DE 2021.
@@ -1058,27 +1098,34 @@ Demonstrativo 8 – Margem de Expansão das Despesas Obrigatórias de Caráter C
 
 Alterado para indicar, como margem para expansão das despesas obrigatórias de caráter continuado, o valor líquido de impostos de R$ 1,628 bilhão, proveniente da alienação da CELG T, o qual deverá ser utilizado para aporte financeiro ou atuarial no Fundo Previdenciário do RPPS. Embora tal valor não seja uma receita permanente strictu sensu, entende-se que há possibilidade de compensação, se a despesa obrigatória de caráter continuado a ser criada tiver horizonte limitado. Nesse caso, poderá ser calculado o valor presente da série de impactos da medida a serem compensados por aporte onceand for all prévio de até R$ 1,628 bilhão, o qual permanecerá aplicado.
 
-[DEMONSTRATIVO I - METAS ANUAIS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17628)<br>
+[DEMONSTRATIVO I - METAS ANUAIS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17628)
+
 ([Alterado pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265))
 
-~~DEMONSTRATIVO I - METAS ANUAIS~~<br>
+~~DEMONSTRATIVO I - METAS ANUAIS~~
+
 ( [clique para visualizar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17521) )
 
-DEMONSTRATIVO 3 - METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES<br>
+DEMONSTRATIVO 3 - METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES
+
 ( [clique para visualizar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17522) )
 
-DEMONSTRATIVO 7 - ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DA RE RECEITA<br>
+DEMONSTRATIVO 7 - ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DA RE RECEITA
+
 ( [clique para visualizar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17523) )
 
-DEMONSTRATIVO 8 - MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO<br>
+DEMONSTRATIVO 8 - MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO
+
 [( clique para visualizar)](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17524)
 
-[ANEXO I<br>
+[ANEXO I
+
 (redação original)](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17283)
 
 [ANEXO II](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17284)
 
-ANEXO III<br>
+ANEXO III
+
 [Acrescido pela Lei nº 21.224, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104729/lei-21224)
 
 [Alterado pela Lei nº 21.265, de 30-03-2022. (Anexo II)](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265)
@@ -1120,89 +1167,120 @@ Poder Executivo
 | 29 | Promoção na UEG – Docentes | UEG | 9.029.245 |
 | 30 | Progressão/Promoção na Economia – Auditores Fiscais | Economia | 11.769.436 |
 | 31 |
-Promoções e Progressões – todos os órgãos que estavam represadas pelo NRF <br>
+Promoções e Progressões – todos os órgãos que estavam represadas pelo NRF 
+
 [\- Redação dada pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265)
 
 ~~Promoções e Progressões – todos os órgãos que estavam represadas pelo NRF (detalhado no item 2A abaixo)~~
 
  | Vários Órgãos | 78.049.449 |
 | 32 | SEDUC – Proposta de Ajuda de Custo 2022 – proc 202100006028531 - [Dec. 9.956](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104317/decreto-9956)/2021 | SEDUC | 120.000.000 |
-| 33 | SEDUC – Pagamento de aulas complementares – Processo nº 201900006022323<br>
+| 33 | SEDUC – Pagamento de aulas complementares – Processo nº 201900006022323
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SEDUC | 17.141.075 |
-| 34 | CBM – Corpo de Bombeiros Militar do Estado de Goiás – equiparação de interstícios CBMGO e PMGO – Processo nº 202200011005415<br>
+| 34 | CBM – Corpo de Bombeiros Militar do Estado de Goiás – equiparação de interstícios CBMGO e PMGO – Processo nº 202200011005415
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | CBM | 1.478.710 |
 | 35 | SEMAD – Processo seletivo simplificado – contratação temporária – Processo nº 202100017011515 | SEMAD | 3.412.012 |
-| 36 | GOINFRA – Concessão de auxílio alimentação – Processo nº 202100036015853<br>
+| 36 | GOINFRA – Concessão de auxílio alimentação – Processo nº 202100036015853
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | GOINFRA | 9.962.520 |
-| 37 | DGAP – Processo seletivo simplificado – contratação temporária – Processo nº 202116448009788<br>
+| 37 | DGAP – Processo seletivo simplificado – contratação temporária – Processo nº 202116448009788
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | DGAP | 853.274 |
-| 38 | SAÚDE – Processo seletivo simplificado/área administrativa – Contratação Temporária – Processo nº 202100010041104<br>
+| 38 | SAÚDE – Processo seletivo simplificado/área administrativa – Contratação Temporária – Processo nº 202100010041104
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SAÚDE | 1.519.520 |
-| 39 | SAÚDE – Processo seletivo simplificado/área engenharia – contratação temporária – Processo nº 202100010040116<br>
+| 39 | SAÚDE – Processo seletivo simplificado/área engenharia – contratação temporária – Processo nº 202100010040116
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SAÚDE | 1.899.400 |
-| 40 | IPASGO – Processo seletivo simplificado – contratação temporária – Processo nº 202100022032884<br>
+| 40 | IPASGO – Processo seletivo simplificado – contratação temporária – Processo nº 202100022032884
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | IPASGO | 11.032.326 |
 | 41 | SEDUC – Progressão horizontal – Processo nº 202100006051500 | SEDUC | 412.830 |
-| 42 | SEEL – Processo seletivo simplificado – contratação temporária –  Processo nº 202117576004616<br>
+| 42 | SEEL – Processo seletivo simplificado – contratação temporária –  Processo nº 202117576004616
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SEEL | 2.289.555 |
-| 43 | CORPO DE BOMBEIROS MILITAR – Convocação de Militares da Reserva Remunerada – Processo nº 202100011017979<br>
+| 43 | CORPO DE BOMBEIROS MILITAR – Convocação de Militares da Reserva Remunerada – Processo nº 202100011017979
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | CBM | 1.060.482 |
-| 44 | SEDUC/PM/CBM – Convocação de militares da reserva remunerada para o serviço ativo da Polícia Militar e do Corpo de Bombeiros Militar do Estado de Goiás – Processo nº 202100006064398<br>
+| 44 | SEDUC/PM/CBM – Convocação de militares da reserva remunerada para o serviço ativo da Polícia Militar e do Corpo de Bombeiros Militar do Estado de Goiás – Processo nº 202100006064398
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SEDUC/PM/CBM | 4.964.388 |
-| 45 | SEDUC – Função Comissionada de Assessoramento Pedagógico – Processo nº 202200006016085<br>
+| 45 | SEDUC – Função Comissionada de Assessoramento Pedagógico – Processo nº 202200006016085
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SEDUC | 9.795.902 |
-| 46 | SSP – Ajuda de Custo AC2 – Indenização por horas-aulas – Processo nº 202100002130327<br>
+| 46 | SSP – Ajuda de Custo AC2 – Indenização por horas-aulas – Processo nº 202100002130327
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SSP | 2.718.616 |
-| 47 | ECONOMIA – Processo seletivo simplificado – contratação temporária – Processo nº 202100004138360<br>
+| 47 | ECONOMIA – Processo seletivo simplificado – contratação temporária – Processo nº 202100004138360
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | ECONOMIA | 5.838.442 |
-| 48 | SEDUC – Institui o Programa Educação Plena e Integral – Processo nº 202100006066889<br>
+| 48 | SEDUC – Institui o Programa Educação Plena e Integral – Processo nº 202100006066889
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SEDUC/PM | 150.374.496 |
-| 49 | SEDUC – Reajuste anual dos contratos temporários – Processo nº 202200006021769<br>
+| 49 | SEDUC – Reajuste anual dos contratos temporários – Processo nº 202200006021769
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SEDUC | 12.679.802 |
-| 50 | **Polícia Militar** – Alteração do [Decreto estadual nº 886](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62326/decreto-0886), de 12 de abril de 1976 – Redução em 12 (doze) e 24 (vinte e quatro) meses, respectivamente, os interstícios estabelecidos nos incisos III e IV do art. 6º do referenciado decreto – Processo nº 202218037001779<br>
+| 50 | **Polícia Militar** – Alteração do [Decreto estadual nº 886](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62326/decreto-0886), de 12 de abril de 1976 – Redução em 12 (doze) e 24 (vinte e quatro) meses, respectivamente, os interstícios estabelecidos nos incisos III e IV do art. 6º do referenciado decreto – Processo nº 202218037001779
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | POLICIA MILITAR | 2.623.100 |
-| 51 | SEDS – Pagamento de indenização AC4 aos servidores do sistema socioeducativo – Processo nº 202210319001647<br>
+| 51 | SEDS – Pagamento de indenização AC4 aos servidores do sistema socioeducativo – Processo nº 202210319001647
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | SEDS | 1.568.000 |
-| 52 |  Alteração da [Lei nº 19.951](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99826/lei-19951), de 29 de dezembro de 2017 – Programa de auxílio-alimentação – Processo nº 202200005005698<br>
+| 52 |  Alteração da [Lei nº 19.951](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99826/lei-19951), de 29 de dezembro de 2017 – Programa de auxílio-alimentação – Processo nº 202200005005698
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | Órgãos e entidades especificados na [Lei nº 19.951](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99826/lei-19951), de 2017 | 9.898.200 |
 | 53 |
 
-Alteração do [Decreto nº 9.177](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/70398/decreto-9177), de 2018. – Conforme Processo nº 202118037006040.<br>
+Alteração do [Decreto nº 9.177](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/70398/decreto-9177), de 2018. – Conforme Processo nº 202118037006040.
+
 [\- Acrescido pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265)
 
  | Conselho Estadual de Educação | 1.263.600 |
 | 54 |
 
-Alteração do [Decreto nº 7.647](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65617/decreto-7647), de 18 de junho de 2012 – Processo nº 202112404000971<br>
+Alteração do [Decreto nº 7.647](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65617/decreto-7647), de 18 de junho de 2012 – Processo nº 202112404000971
+
 [\- Acrescido pela Lei nº 21.394, de 13-05-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105587/lei-21394)
 
  | EMATER | 2.879.280,00 |
 | 55 |
 
-Alteração da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, conforme o Processo nº 202200004026305, para a criação de assessorias na estrutura da Secretaria de Estado da Economia.<br>
+Alteração da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, conforme o Processo nº 202200004026305, para a criação de assessorias na estrutura da Secretaria de Estado da Economia.
+
 [\- Acrescido pela Lei nº 21.483, de 30-06-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105770/lei-21483)
 
  | ECONOMIA | 501.758,48 |
 | 56 |
 
-Instituição do Bônus por Resultados – Processo nº 202200006081651<br>
+Instituição do Bônus por Resultados – Processo nº 202200006081651
+
 [\- Acrescido pela Lei nº 21.672, de 09-12-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672)
 
  | SEDUC | 171.273.262,42 |
 |
 
-TOTAL ANUAL<br>
-4  [Redação dada pela Lei nº 21.672, de 09-12-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672)<br>
-3  [Redação dada pela Lei nº 21.483, de 30-06-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105770/lei-21483)<br>
-2 [Redação dada pela Lei nº 21.394, de 16-05-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105587/lei-21394)<br>
+TOTAL ANUAL
+
+4  [Redação dada pela Lei nº 21.672, de 09-12-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672)
+
+3  [Redação dada pela Lei nº 21.483, de 30-06-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105770/lei-21483)
+
+2 [Redação dada pela Lei nº 21.394, de 16-05-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105587/lei-21394)
+
 1 [Redação dada pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265)
 
  |   |
 
-1.038.201.696,904<br>
-~~866.928.434,48~~3<br>
-~~866.426.676,00~~2<br>
-~~863.547.3961~~<br>
+1.038.201.696,904
+
+~~866.928.434,48~~3
+
+~~866.426.676,00~~2
+
+~~863.547.3961~~
+
 ~~610.761.146~~
 
  |
@@ -1214,7 +1292,8 @@ Assembleia Legislativa
 | 01 | Concessão de Progressões, Promoções e Vantagens de qualquer natureza – Carreira: Agente Legislativo | ALEGO | 818.367,84 |
 | 02 | Concessão de Progressões, Promoções e Vantagens de qualquer natureza – Carreira: Analista Legislativo | ALEGO | 2.954.065,49 |
 | 03 | Concessão de Progressões, Promoções e Vantagens de qualquer natureza – Carreira: Assistente Legislativo | ALEGO | 3.238.319,05 |
-| 04 | Concessão de Progressões, Promoções e Vantagens de qualquer natureza – Carreira: Procurador<br>
+| 04 | Concessão de Progressões, Promoções e Vantagens de qualquer natureza – Carreira: Procurador
+
 \*[Redação dada pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | ALEGO |
 4.624.013,45\*
 
@@ -1233,8 +1312,10 @@ Assembleia Legislativa
 | 14 | Recomposição Inflacionária – Carreira: Procurador | ALEGO | 2.214.733,13 |
 | 15 | Readequação de Subsídio – Agente Político | ALEGO | 545.614,05 |
 | 16 | Reajuste dos inativos sem paridade: Inativo e Pensionista | ALEGO | 376.629,00 |
-| TOTAL ANUAL<br>
-\*[Redação dada pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | 68.478.065,39<br>
+| TOTAL ANUAL
+
+\*[Redação dada pela Lei nº 21.265, de 30-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105259/lei-21265) | 68.478.065,39
+
 ~~64.478.065,39~~ |
 
 Tribunal de Justiça

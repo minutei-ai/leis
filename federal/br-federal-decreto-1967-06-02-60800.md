@@ -1,5 +1,3 @@
-###DEC-060800-0-000-02-06-1967@@@
-
 decreto nº 60.800, de 2 de junho de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, biblioteca privada.

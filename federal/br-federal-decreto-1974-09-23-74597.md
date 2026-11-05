@@ -1,5 +1,3 @@
-###DEC-074597-0-000-23-09-1974@@@
-
 Decreto nº 74.597, de 23 de setembro de 1974.
 
 Renova por 10 (dez) anos concessão outorgada à Rádio Difusão Sul Riograndense Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Erechim, Estado do Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001252-0-000-22-09-1994@@@
-
 DECRETO Nº 1.252, DE 22 DE SETEMBRO DE 1994
 
 Institui a hora de verão, em parte do território nacional, no período que indica.

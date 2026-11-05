@@ -1,5 +1,3 @@
-###DEC-054806-0-000-03-11-1964@@@
-
 decreto nº 54.806, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Massillon Saboia de Alburquerque a pesquisar água mineral no município de Sobral, Estado do Ceará.

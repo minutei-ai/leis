@@ -1,5 +1,3 @@
-###DEC-051107-0-000-02-08-1961@@@
-
 DECRETO Nº 51.107, DE 2 DE AGÔSTO DE 1961.
 
 Declara públicas de uso comum do domínio do Estado do Rio Grande do Sul, as águas do rio denominado Camisas-Antas, Antas-Taquari e Taquari, respectivamente nos seus trechos superior, médio e inferior.

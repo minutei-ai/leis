@@ -1,5 +1,3 @@
-###DEC-055609-0-000-20-01-1965@@@
-
 DECRETO Nº 55.609, de 20 de janeiro de 1965.
 
 Declara de utilidade pública a Sociedade Fundação Santa Mônica, com sede em Belo Horizonte, Minas Gerais.

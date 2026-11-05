@@ -1,5 +1,3 @@
-###DEC-060282-0-000-02-03-1967@@@
-
 DECRETO Nº 60.282, DE 2 DE MARÇO DE 1967.
 
 Autoriza a cessão de terreno de marinha que menciona, no Estado da Guanabara.
@@ -29,8 +27,6 @@ Brasília, 2 de março de 1967; 146º da Independência e 79º da República.
 H. Castello Branco
 
 Octavio Bulhões
-
-###DEC-060282-0-000-02-03-1967@@@RET01+++
 
 DECRETO Nº 60.282, DE 2 DE MARÇO DE 1967.
 

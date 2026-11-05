@@ -1,5 +1,3 @@
-###DEC-092753-0-000-05-06-1986@@@
-
 DECRETO Nº 92.753, DE 05 DE JUNHO DE 1986
 
 Denomina Augusto Ruschi a Reserva Biológica de Nova Lombardia, no Município de Santa Tereza, Estado do Espírito Santo.

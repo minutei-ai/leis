@@ -1,5 +1,3 @@
-###DEC-075949-0-000-08-07-1975@@@
-
 DECRETO Nº 75.949, DE 8 DE JULHO DE 1975.
 
 Concede à Mineração Hércules Ltda. o direito de lavrar minério de ferro nos Municípios de Itatiaiuçu e Mateus Leme, Estado de Minas Gerais.

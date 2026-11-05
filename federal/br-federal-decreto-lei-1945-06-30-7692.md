@@ -1,5 +1,3 @@
-###DEL-007692-0-000-30-06-1945@@@
-
 DECRETO-LEI N. 7.692 – DE 30 DE JUNHO DE 1945
 
 Autoriza o Ministério da Fazenda a ceder gratuitamente ao Estado do Paraná, terras da Fazenda São Jerônimo, pertencente ao Domínio da União, mediante as condições que especifica.

@@ -1,5 +1,3 @@
-###DEC-002494-0-000-10-02-1998@@@
-
 DECRETO Nº 2.494, DE 10 DE FEVEREIRO DE 1998
 
 Regulamenta o art. 80 da Lei nº 9.394, de 20 de dezembro de 1996, e dá outras providências.

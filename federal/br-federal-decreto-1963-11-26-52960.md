@@ -1,5 +1,3 @@
-###DEC-052960-0-000-26-11-1963@@@
-
 DECRETO Nº 52.960, DE 26 DE NOVEMBRO DE 1963.
 
 Retifica o Decreto nº 52.506, de 27 de setembro de 1963.

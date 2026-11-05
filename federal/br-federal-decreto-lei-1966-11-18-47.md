@@ -1,5 +1,3 @@
-###DEL-000047-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 47, DE 18 DE NOVEMBRO DE 1966
 
 Dispõe sôbre a aplicação e qualifica as penalidades pelas infrações às normas e resoluções de competência do Instituto Brasileiro do Café e dá outras providências.

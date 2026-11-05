@@ -1,5 +1,3 @@
-###DEC-005446-0-000-20-05-2005@@@
-
 DECRETO Nº 5.446, DE 20 DE MAIO DE 2005
 
 Acrescenta inciso ao art. 4º do Decreto nº 5.390, de 8 de março de 2005, que aprova o Plano Nacional de Políticas para as Mulheres - PNPM e institui o Comitê de Articulação e Monitoramento.

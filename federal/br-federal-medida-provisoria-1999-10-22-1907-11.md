@@ -1,5 +1,3 @@
-###MPV-001907-0-011-22-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.907-11, DE 22 DE OUTUBRO DE 1999.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

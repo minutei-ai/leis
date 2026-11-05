@@ -1,5 +1,3 @@
-###DEC-067348-0-000-06-10-1970@@@
-
 decreto nº 67.348, de 6 de outubro de 1970.
 
 Institui o Programa Intensivo de pós-graduação, nas áreas ligadas ao Desenvolvimento Tecnológico do País, e dá outras providências.

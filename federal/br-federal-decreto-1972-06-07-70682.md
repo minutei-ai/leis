@@ -1,5 +1,3 @@
-###DEC-070682-0-000-07-06-1972@@@
-
 Decreto nº 70.682, de 7 de junho de 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia Ciências e Letras "Santa Rita de Cássia", com sede em São Paulo, SP.

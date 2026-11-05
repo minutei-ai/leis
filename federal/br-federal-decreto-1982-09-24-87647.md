@@ -1,5 +1,3 @@
-###DEC-087647-0-000-24-09-1982@@@
-
 Decreto nº 87.647, de 24 de setembro de 1982
 
 Declara de intereresse social, para fins de desapropriação, o imóvel rural denominado "Rio Saudades", situado nos Municípios de São Lourenço D'Oeste e São Domingos, no Estado de Santa Catarina, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

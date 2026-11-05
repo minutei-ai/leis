@@ -1,5 +1,3 @@
-###DEC-006612-0-000-22-10-2008@@@
-
 DECRETO Nº 6.612, DE 22 DE OUTUBRO DE 2008.
 
 Dispõe sobre a criação da Embaixada do Brasil em Granada, com sede em Saint George's.

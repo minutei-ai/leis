@@ -1,5 +1,3 @@
-###DEC-003011-0-000-30-03-1999@@@
-
 DECRETO Nº 3.011, DE 30 DE MARÇO DE 1999
 
 Qualifica como Organizações Militares Prestadoras de Serviços – OMPS, com autonomia de gestão, as Organizações Militares da Marinha que especifica e dá outras providências.

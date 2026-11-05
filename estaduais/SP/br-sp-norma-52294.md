@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=52294)
-
 # LEI COMPLEMENTAR Nº 963, DE 16 DE DEZEMBRO DE 2004
 
 ### _Institui bônus aos integrantes do Quadro do Magistério, e dá outras providências correlatas_

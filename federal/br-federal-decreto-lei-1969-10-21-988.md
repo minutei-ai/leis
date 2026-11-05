@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/83a5e43d-8735-446d-bdf8-b945342d1ddb/texto#nowhere)
 
-###DEL-000988-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 988, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a arrecadação de representações ou aluguéis de imóveis incorporados ao patrimônio do SERFHAU e dá outras providências.

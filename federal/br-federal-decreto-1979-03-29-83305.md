@@ -1,5 +1,3 @@
-###DEC-083305-0-000-29-03-1979@@@
-
 DECRETO Nº 83.305, DE 29 DE MARÇO DE 1979
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto número 70.087, de 02 de fevereiro de 1972, a Comissão Nacional de Arquivo.

@@ -1,5 +1,3 @@
-###DEC-088515-0-000-14-07-1983@@@
-
 Decreto nº 88.515, de 14 de Julho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da subestação de Itá, da Centrais Elétricas do Sul do Brasil S.A.- ELETROSUL, no Estado de Santa Catarina.

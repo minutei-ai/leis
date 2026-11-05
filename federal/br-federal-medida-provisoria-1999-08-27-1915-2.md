@@ -1,5 +1,3 @@
-###MPV-001915-0-002-27-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.915-2, DE 27 de agosto de 1999.
 
 Dispõe sobre a reestruturação da Carreira Auditoria do Tesouro Nacional e organização da Carreira da Auditoria-Fiscal da Previdência Social e da Carreira Fiscalização do Trabalho.

@@ -1,5 +1,3 @@
-###DEL-003394-0-000-07-07-1941@@@
-
 DECRETO-LEI N. 3.394 – DE 7 DE JULHO DE 1941
 
 Torna, extensivas aos empréstimos Concedidos pela Caixa, Reguladora de Empréstimos, da Prefeitura do Distrito Federal, na conformidade do decreto-lei n. 754, de 30 de setembro de 1938, as disposições do art. 13 do decreto-lei n. 312, de 3 de março de 1938, e dá outras providencias

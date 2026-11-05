@@ -1,5 +1,3 @@
-###DEC-076769-0-000-11-12-1975@@@
-
 DECRETO Nº 76.769, DE 11 DE DEZEMBRO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situação no Município de Ilhéus, Estado de Bahia.

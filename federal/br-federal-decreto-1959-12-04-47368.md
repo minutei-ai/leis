@@ -1,5 +1,3 @@
-###DEC-047368-0-000-04-12-1959@@@
-
 decreto nº 47.368, de 4 de dezembro de 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

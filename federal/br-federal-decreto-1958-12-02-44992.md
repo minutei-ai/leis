@@ -1,5 +1,3 @@
-###DEC-044992-0-000-02-12-1958@@@
-
 Decreto nº 44.992 de 2 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro Lourival Pinheiro Ferreira a pesquisar minério de ouro no Município de Itaituba, Estado do Pará.

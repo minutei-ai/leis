@@ -1,5 +1,3 @@
-###DEC-061963-0-000-22-12-1967@@@
-
 DECRETO Nº 61.963, DE 22 DE DEZEMBRO DE 1967.
 
 Fixa a distribuição em cada Arma e em cada pôsto, das funções gerias dos oficiais do Exército, a vigorar a partir de 24 de dezembro de 1967.
@@ -10,7 +8,205 @@ Decreta:
 
 Art. 1º São os efetivos globais das Armas atualmente em vigor, distribuídos em cada Arma e em cada pôsto pelas funções gerais (QEMG e QSG) e pelas funções privativas da seguinte forma:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PÔSTO - ARMAS</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Funções</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>privativas</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Funções gerais</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(QEMG e QSG)</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Efetivo previsto</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>por pôsto</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Coronel - Infantaria ...................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Coronel - Cavalaria ..................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Coronel - Artilharia ...................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel - Engenharia ...............................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>41</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>29</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>23</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>100</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>35</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>85</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>340</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Tenente-Coronel - Infantaria ....................</span></p><p class="Tabela" style="text-indent:0pt"><span>Tenente-Coronel - Cavalaria ....................</span></p><p class="Tabela" style="text-indent:0pt"><span>Tenente-Coronel - Artilharia......................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tenente-Coronel - Engenharia..................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>95</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>42</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>76</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>38</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>203</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>131</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>80</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>665</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Major - Infantaria ......................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Major - Cavalaria ......................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Major - Artilharia .......................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major - Engenharia ...................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>247</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>95</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>149</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>145</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>260</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>119</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>309</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>21</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.345</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Capitão - Infantaria ...................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Capitão - Cavalaria ...................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Capitão - Artilharia ....................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Capitão - Engenharia ...............................</span></p><p class="Tabela" style="text-indent:0pt"><span>Capitão - Comunicações ..........................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitão - Material Bélico ..........................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>552</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>237</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>380</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>266</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>28</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>346</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>150</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>293</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>49</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>44</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.345</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>1º Tenente - Infantaria ..............................</span></p><p class="Tabela" style="text-indent:0pt"><span>1º Tenente - Cavalaria .............................</span></p><p class="Tabela" style="text-indent:0pt"><span>1º Tenente - Artilharia ..............................</span></p><p class="Tabela" style="text-indent:0pt"><span>1º Tenente - Engenharia ..........................</span></p><p class="Tabela" style="text-indent:0pt"><span>1º Tenente - Comunicações .....................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º Tenente - Material Bélico .....................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>519</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>185</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>275</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>119</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>96</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>145</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>124</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.463</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>2º Tenente - Infantaria ..............................</span></p><p class="Tabela" style="text-indent:0pt"><span>2º Tenente - Cavalaria .............................</span></p><p class="Tabela" style="text-indent:0pt"><span>2º Tenente - Artilharia ..............................</span></p><p class="Tabela" style="text-indent:0pt"><span>2º Tenente - Engenharia ..........................</span></p><p class="Tabela" style="text-indent:0pt"><span>2º Tenente - Comunicações .....................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º Tenente - Material Bélico .....................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>58</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>28</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>59</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>19</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>18</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>18</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Variável (Lei número 2.391, de 7.1.55)</span></p></td></tr></tbody></table>
+PÔSTO - ARMAS
+
+Funções
+
+privativas
+
+Funções gerais
+
+(QEMG e QSG)
+
+Efetivo previsto
+
+por pôsto
+
+Coronel - Infantaria ...................................
+
+Coronel - Cavalaria ..................................
+
+Coronel - Artilharia ...................................
+
+Coronel - Engenharia ...............................
+
+41
+
+29
+
+23
+
+20
+
+100
+
+35
+
+85
+
+7
+
+340
+
+Tenente-Coronel - Infantaria ....................
+
+Tenente-Coronel - Cavalaria ....................
+
+Tenente-Coronel - Artilharia......................
+
+Tenente-Coronel - Engenharia..................
+
+95
+
+42
+
+76
+
+38
+
+203
+
+131
+
+80
+
+-
+
+665
+
+Major - Infantaria ......................................
+
+Major - Cavalaria ......................................
+
+Major - Artilharia .......................................
+
+Major - Engenharia ...................................
+
+247
+
+95
+
+149
+
+145
+
+260
+
+119
+
+309
+
+21
+
+1.345
+
+Capitão - Infantaria ...................................
+
+Capitão - Cavalaria ...................................
+
+Capitão - Artilharia ....................................
+
+Capitão - Engenharia ...............................
+
+Capitão - Comunicações ..........................
+
+Capitão - Material Bélico ..........................
+
+552
+
+237
+
+380
+
+266
+
+28
+
+-
+
+346
+
+150
+
+293
+
+49
+
+-
+
+44
+
+2.345
+
+1º Tenente - Infantaria ..............................
+
+1º Tenente - Cavalaria .............................
+
+1º Tenente - Artilharia ..............................
+
+1º Tenente - Engenharia ..........................
+
+1º Tenente - Comunicações .....................
+
+1º Tenente - Material Bélico .....................
+
+519
+
+185
+
+275
+
+119
+
+96
+
+-
+
+145
+
+-
+
+124
+
+1.463
+
+2º Tenente - Infantaria ..............................
+
+2º Tenente - Cavalaria .............................
+
+2º Tenente - Artilharia ..............................
+
+2º Tenente - Engenharia ..........................
+
+2º Tenente - Comunicações .....................
+
+2º Tenente - Material Bélico .....................
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+58
+
+28
+
+59
+
+19
+
+18
+
+18
+
+Variável (Lei número 2.391, de 7.1.55)
 
 Art. 2º Êste decreto entrará em vigor a partir de 24 de dezembro de 1967.
 

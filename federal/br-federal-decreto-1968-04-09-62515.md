@@ -1,5 +1,3 @@
-###DEC-062515-0-000-09-04-1968@@@
-
 DECRETO Nº 62.515, DE 9 DE ABRIL DE 1968.
 
 Declara de interêsse social para fins de desapropriação, imóvel rural situado no Município de Espumoso, no Estado do Rio Grande do Sul.

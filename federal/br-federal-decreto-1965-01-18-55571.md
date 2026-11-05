@@ -1,5 +1,3 @@
-###DEC-055571-0-000-18-01-1965@@@
-
 decreto nº 55.571, de 18 de janeiro de 1965.
 
 Aprova alterações introduzidas nos Estatutos da Cairú Companhia de Seguros Gerais.

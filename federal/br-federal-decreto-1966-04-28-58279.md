@@ -1,5 +1,3 @@
-###DEC-058279-0-000-28-04-1966@@@
-
 decreto nº 58.279, de 28 de abril de 1966.
 
 Autoriza a Companhia Estanífera do Brasil a pesquisar cassiterita, no Município de Ipameri, Estado de Goiás.

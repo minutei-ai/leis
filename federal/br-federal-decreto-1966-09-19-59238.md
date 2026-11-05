@@ -1,5 +1,3 @@
-###DEC-059238-0-000-19-09-1966@@@
-
 Decreto nº 59.238, de 19 de Setembro de 1966.
 
 Autoriza o cidadão brasileiro Julio Praxedes Pereira a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

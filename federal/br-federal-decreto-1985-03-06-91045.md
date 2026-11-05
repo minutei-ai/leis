@@ -1,5 +1,3 @@
-###DEC-091045-0-000-06-03-1985@@@
-
 DECRETO Nº 91.045, DE 06 DE MARÇO DE 1985
 
 Outorga concessão à RÁDIO PRINCESA DO SUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Goiatuba, Estado de Goiás.

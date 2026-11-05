@@ -1,5 +1,3 @@
-###DEC-046716-0-000-25-08-1959@@@
-
 Decreto nº 46.716, de 25 de agôsto de 1959.
 
 Extingue o Comissariado Permanente de Exposições de Feiras no Exterior e dá outras providências.

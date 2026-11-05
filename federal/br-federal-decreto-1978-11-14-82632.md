@@ -1,5 +1,3 @@
-###DEC-082632-0-000-14-11-1978@@@
-
 DECRETO Nº 82.632, DE 14 DE NOVEMBRO DE 1978.
 
 Concede à Indústria Mineradora Pratacal Ltda. o direito de lavrar calcário e dolomito no Município de Guapiara, Estado de São Paulo.

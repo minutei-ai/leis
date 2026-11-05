@@ -1,5 +1,3 @@
-###DEL-005309-0-000-09-03-1943@@@
-
 DECRETO‑LEI N. 5.309 – DE 9 DE MARÇO DE 1943
 
 Altera a carreira de Mestre de Oficina de Material Bélico do Quadro Suplementar do Ministério da Guerra e dá outras providências

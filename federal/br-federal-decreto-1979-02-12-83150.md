@@ -1,5 +1,3 @@
-###DEC-083150-0-000-12-02-1979@@@
-
 DECRETO Nº 83.150, DE 12 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração, Ciências Contábeis e Econômicas, com sede na cidade de Teresópolis, Estado do Rio de Janeiro.

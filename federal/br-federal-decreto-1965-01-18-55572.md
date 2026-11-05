@@ -1,5 +1,3 @@
-###DEC-055572-0-000-18-01-1965@@@
-
 DECRETO Nº 55.572, DE 18 DE JANEIRO DE 1965.
 
 Concede à sociedade Serviços Marítimos Camuyrano S. A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

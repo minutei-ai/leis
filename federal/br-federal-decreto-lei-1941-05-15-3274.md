@@ -1,5 +1,3 @@
-###DEL-003274-0-000-15-05-1941@@@
-
 DECRETO-LEI N. 3.274 – DE 15 DE MAIO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 200:000$0, para despesas com a visita do Chefe do Estado Maior da Armada e sua comitiva aos Estados Unidos da América.

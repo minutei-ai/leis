@@ -1,5 +1,3 @@
-###DEC-003190-0-000-05-10-1999@@@
-
 DECRETO Nº 3.190, DE 5 DE OUTUBRO DE 1999.
 
 Dá nova redação aos arts. 1º, 4º, 11 e 19 do Regulamento da Ordem Nacional do Cruzeiro do Sul, aprovado pelo Decreto nº 68.055, de 13 de janeiro de 1971.

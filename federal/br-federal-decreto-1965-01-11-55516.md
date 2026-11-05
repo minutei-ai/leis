@@ -1,5 +1,3 @@
-###DEC-055516-0-000-11-01-1965@@@
-
 decreto nº 55.516, de 11 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Joaquim Pereira da Rocha a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

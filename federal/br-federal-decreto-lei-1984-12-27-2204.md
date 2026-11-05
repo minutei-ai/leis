@@ -1,5 +1,3 @@
-###DEL-002204-0-000-27-12-1984@@@
-
 # DECRETO LEI Nº 2.204, DE 27 DE DEZEMBRO DE 1984.
 
 Reajusta os atuais valores de vencimentos, salários e proventos dos servidores civis do Poder Executivo, bem como os das pensões e dá outras providências.

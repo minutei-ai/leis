@@ -1,5 +1,3 @@
-###DEC-048425-0-000-24-06-1960@@@
-
 DECRETO Nº 48.425, DE 24 DE JUNHO DE 1960.
 
 Autoriza a Comissão Estadual de Energia Elétrica do estado do Rio de Janeiro a ampliar sua instalações.

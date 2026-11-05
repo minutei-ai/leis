@@ -24,5 +24,6 @@ Câmara Municipal de Aparecida de Goiânia, 3 de dezembro de 2024.
 
  
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente

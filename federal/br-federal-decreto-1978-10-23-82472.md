@@ -1,5 +1,3 @@
-###DEC-082472-0-000-23-10-1978@@@
-
 Decreto nº 82 472, de 23 de outubro de 1978.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Município de Eduardo Gomes, Estado do Rio Grande do Norte.

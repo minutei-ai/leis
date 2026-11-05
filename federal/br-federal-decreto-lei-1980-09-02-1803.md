@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9bbb84d6-987d-4373-a057-3a46a970768e/texto#nowhere)
 
-###DEL-001803-0-000-02-09-1980@@@
-
 # Decreto-lei nº 1.803, de 02 de setembro de 1980.
 
 Assegura a manutenção e utilização dos créditos do IPI relativos às matérias-primas que especifica.

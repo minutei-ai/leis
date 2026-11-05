@@ -1,5 +1,3 @@
-###DEC-002325-0-000-17-09-1997@@@
-
 DECRETO Nº 2.325, DE 17 DE SETEMBRO DE 1997
 
 Altera o Estatuto Social da Casa da Moeda do Brasil - CMB, aprovado pelo Decreto nº 2.122, de 13 de janeiro de 1997.

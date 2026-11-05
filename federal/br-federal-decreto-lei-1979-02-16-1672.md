@@ -1,5 +1,3 @@
-###DEL-001672-0-000-16-02-1979@@@
-
 # Decreto-lei nº 1.672, de 16 de fevereiro de 1979
 
 Altera a legislação do Imposto de Renda em relação a rendimentos sujeitos à retenção na fonte.

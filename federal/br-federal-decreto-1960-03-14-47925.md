@@ -1,5 +1,3 @@
-###DEC-047925-0-000-14-03-1960@@@
-
 DECRETO Nº 47.925, DE 14 DE MARÇO DE 1960.
 
 Autoriza a instalação de uma usina termelétrica de emergência que será adquirida pelo Govêrno do Estado do Amazonas, e dá outras providências.

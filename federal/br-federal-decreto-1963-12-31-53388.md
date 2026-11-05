@@ -1,5 +1,3 @@
-###DEC-053388-0-000-31-12-1963@@@
-
 DECRETO Nº 53.388, DE 31 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre as atribuições administrativas do Procurador-Geral do Distrito Federal.

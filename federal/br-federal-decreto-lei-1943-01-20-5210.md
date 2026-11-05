@@ -1,5 +1,3 @@
-###DEL-005210-0-000-20-01-1943@@@
-
 DECRETO‑LEI N. 5.210 – DE 20 DE JANEIRO DE 1943
 
 Dispõe sobre registo do imposto de consumo

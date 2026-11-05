@@ -1,7 +1,7 @@
 LEI Nº 7.377, DE 28 DE JUNHO DE 2023.
 
-<br>
-Institui o Dia Municipal da Advocacia Familiarista. <br>
+Institui o Dia Municipal da Advocacia Familiarista. 
+
   
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

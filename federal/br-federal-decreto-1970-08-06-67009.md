@@ -1,5 +1,3 @@
-###DEC-067009-0-000-06-08-1970@@@
-
 DECRETO Nº 67.009, DE 6 DE AGÔSTO DE 1970.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 39.265, de 30 de maio de 1956, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do Açude Público "Japi II", no município de São José de Campestre, Estado do Rio Grande do Norte.

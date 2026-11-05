@@ -1,5 +1,3 @@
-###DEC-064197-0-000-12-03-1969@@@
-
 DECRETO Nº 64.197, DE 12 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Casa de Caridade de Araruama, como sede em Araruama, Estado do Rio de Janeiro.

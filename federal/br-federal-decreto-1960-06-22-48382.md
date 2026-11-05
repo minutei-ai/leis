@@ -1,5 +1,3 @@
-###DEC-048382-0-000-22-06-1960@@@
-
 Decreto nº 48.382, de 22 de junho de 1960.
 
 Concede à Mineração Elmo Ltda. autorização para funcionar como emprêsa de mineração.

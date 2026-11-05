@@ -1,5 +1,3 @@
-###MPV-001872-0-016-28-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.872-16, DE 28 DE JULHO DE 1999.
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

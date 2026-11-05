@@ -1,6 +1,7 @@
 LEI Nº 12.504 DE 29 DE DEZEMBRO DE 2011
 
-Ver também:<br>
+Ver também:
+
 Art. 12 da Lei nº [12.612](https://www.legislabahia.ba.gov.br/documentos/lei-no-12612-de-28-de-dezembro-de-2012#LO%2012.612) , de 28 de dezembro de 2012. "O Plano Plurianual 2012-2015, instituído pela Lei nº 12.504, de 29 de dezembro de 2011, fica alterado na forma do Demonstrativo de Atualização do PPA 2012-2015, integrante do Anexo I desta Lei."
 
 &nbs

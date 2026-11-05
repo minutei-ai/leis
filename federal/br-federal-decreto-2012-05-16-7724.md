@@ -1,5 +1,3 @@
-###DEC-007724-0-000-16-05-2012-PUB-01@@@
-
 DECRETO N° 7.724, DE 16 DE MAIO DE 2012
 
 Regulamenta a Lei nº 12.527, de 18 de novembro de 2011, que dispõe sobre o acesso a informações previsto no inciso XXXIII do caput do art. 5º, no inciso II do § 3º  do art. 37 e no § 2º do art. 216 da Constituição.

@@ -1,5 +1,3 @@
-###DEC-084406-0-000-21-01-1980@@@
-
 Decreto nº 84.406, de 21 de janeiro de 1980.
 
 Cria, na estrutura básica do Ministério da Previdência e Assistência Social, a Coordenadoria de Assuntos Parlamentares (CAP) e a Coordenadoria de Assuntos Internacionais (CINTER) e dá outras providências.

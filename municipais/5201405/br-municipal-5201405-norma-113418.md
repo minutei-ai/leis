@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR Nº 147, DE 10 DE SETEMBRO DE 2018<br>
+LEI COMPLEMENTAR Nº 147, DE 10 DE SETEMBRO DE 2018
+
 (Revogada pela Lei Complementar nº 204, de 8 de março de 2023).
 
 ~~Dispõe sobre a regularização da ocupação e do uso de imóveis urbanos localizados no loteamento denominado Buenos Aires, declara interesse público, autoriza desapropriação e define condições e obrigações necessárias à implantação de distrito industrial, empresarial e aduaneiro na área que especifica.~~
@@ -15,7 +16,8 @@ LEI COMPLEMENTAR Nº 147, DE 10 DE SETEMBRO DE 2018<br>
 
 ~~Art. 3º Fica declarada a utilidade pública, para fins de desapropriação, e autorizado ao Poder Executivo promover a desapropriação dos bens imóveis necessários à implantação do distrito industrial, empresarial e aduaneiro, inclusive compensação de áreas, permutas e realocação de imóveis situados na área de implantação do distrito.~~
 
-~~Art. 4º Fica o Poder Executivo autorizado a celebrar negócio jurídico diretamente com pessoa jurídica de direito privado que seja titular do direito de propriedade sobre a maioria dos imóveis situados na área de implantação do distrito industrial, empresarial e aduaneiro, ou com sociedade da qual a titular do direito de propriedade seja sócia e realize a integralização dos imóveis, observada a dispensa prevista na parte final do §4º do art. 17 da Lei nº 8.666/93, desde que esta, na condição de destinatária dos imóveis a serem desapropriados, assuma, cumulativamente, os seguintes encargos e obrigações:<br>
+~~Art. 4º Fica o Poder Executivo autorizado a celebrar negócio jurídico diretamente com pessoa jurídica de direito privado que seja titular do direito de propriedade sobre a maioria dos imóveis situados na área de implantação do distrito industrial, empresarial e aduaneiro, ou com sociedade da qual a titular do direito de propriedade seja sócia e realize a integralização dos imóveis, observada a dispensa prevista na parte final do §4º do art. 17 da Lei nº 8.666/93, desde que esta, na condição de destinatária dos imóveis a serem desapropriados, assuma, cumulativamente, os seguintes encargos e obrigações:
+
 (Revogado pela Lei Complementar nº 200, de 19 de setembro de 2022).~~
 
 ~~I - custear todas as despesas decorrentes das desapropriações, inclusive e especialmente a indenização justa, prévia e em dinheiro devida aos expropriados, além das custas iniciais, das despesas de locomoções e de quaisquer outras despesas processuais;~~
@@ -46,8 +48,10 @@ LEI COMPLEMENTAR Nº 147, DE 10 DE SETEMBRO DE 2018<br>
 
  
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito~~
 
-~~EINSTEIN PANIAGO<br>
+~~EINSTEIN PANIAGO
+
 Chefe da Casa Civil~~

@@ -1,7 +1,3 @@
-1
-
-###DEC-098854-0-000-22-01-1990@@@
-
 DECRETO N° 98.854, DE 22 DE JANEIRO DE 1990
 
 Revoga a concessão outorgada à RDB, RÁDIO DIFUSÃO BRASILEIRA LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de São João do Meriti, Estado do Rio de Janeiro.

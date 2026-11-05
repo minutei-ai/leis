@@ -1,5 +1,3 @@
-###DEC-001787-0-000-12-01-1996@@@
-
 DECRETO Nº 1.787, DE 12 DE JANEIRO DE 1996
 
 Dispõe sobre a utilização de gás natural para fins automotivos, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076831-0-000-17-12-1975@@@
-
 DECRETO Nº 76.831, DE 17 DE DEZEMBRO DE 1975.
 
 Concede autorização à empresa Café Solúvel Vigor S.A., com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro, para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento fabril que menciona.

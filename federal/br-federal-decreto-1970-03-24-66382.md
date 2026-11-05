@@ -1,5 +1,3 @@
-###DEC-066382-0-000-24-03-1970@@@
-
 decreto nº 66.382 - de 24 de março de 1970
 
 Aprova o Regulamento para a Diretoria de Máquinas da Marinha.

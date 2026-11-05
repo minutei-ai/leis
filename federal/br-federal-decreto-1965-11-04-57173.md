@@ -1,5 +1,3 @@
-###DEC-057173-0-000-04-11-1965@@@
-
 DECRETO Nº 57.173, DE 4 DE NOVEMBRO DE 1965.
 
 Modifica a denominação de estabelecimento.

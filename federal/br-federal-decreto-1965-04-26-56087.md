@@ -1,5 +1,3 @@
-###DEC-056087-0-000-26-04-1965@@@
-
 DECRETO Nº 56.087, DE 26 DE ABRIL DE 1965.
 
 Outorga á Companhia de Eletrificação Centro-Norte do Ceará (CENORTE) concessão para distribuir energia elétrica.

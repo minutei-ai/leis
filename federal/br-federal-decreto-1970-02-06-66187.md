@@ -1,5 +1,3 @@
-###DEC-066187-0-000-06-02-1970@@@
-
 Decreto nº 66.187 - de 6 de fevereiro de 1970
 
 Reconhecimento de Curso.

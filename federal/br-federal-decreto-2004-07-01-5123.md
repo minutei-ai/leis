@@ -1,5 +1,3 @@
-###DEC-005123-0-000-01-07-2004@@@
-
 DECRETO Nº 5.123, DE 1º DE JULHO DE 2004
 
 Regulamenta a Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - SINARM e define crimes.

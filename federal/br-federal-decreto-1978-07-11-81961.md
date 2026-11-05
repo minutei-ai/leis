@@ -1,5 +1,3 @@
-###DEC-081961-0-000-11-07-1978@@@
-
 DECRETO Nº 81.961, DE 11 DE JULHO DE 1978.
 
 Altera a denominação e aprova o Regulamento do Centro de Controle de Estoque da Marinha.

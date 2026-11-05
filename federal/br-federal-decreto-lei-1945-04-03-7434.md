@@ -1,5 +1,3 @@
-###DEL-007434-0-000-03-04-1945@@@
-
 DECRETO-LEI N. 7.434 – DE 3 DE ABRIL DE 1945
 
 Manda contar tempo de serviço a Oficial Intendente da Aeronáutica

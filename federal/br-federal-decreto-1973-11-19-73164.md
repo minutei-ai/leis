@@ -1,5 +1,3 @@
-###DEC-073164-0-000-19-11-1973@@@
-
 DECRETO Nº 73.164 - DE 19 DE NOVEMBRO DE 1973
 
 Extingue a Comissão executiva da Rodovia Belém-Brasília (RODOBRÁS) e dá outras providências.

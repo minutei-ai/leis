@@ -1,5 +1,3 @@
-###DEC-002788-0-000-28-09-1998@@@
-
 DECRETO Nº 2.788, DE 28 DE SETEMBRO DE 1998
 
 Altera dispositivos do Decreto nº 1.282, de 19 de outubro de 1994, e dá outras providências.

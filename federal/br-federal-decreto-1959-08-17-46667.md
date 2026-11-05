@@ -1,5 +1,3 @@
-###DEC-046667-0-000-17-08-1959@@@
-
 DECRETO Nº 46.667, DE 17 DE AGÔSTO DE 1959.
 
 Concede a Mineração do Nordeste Brasileiro Limitada - Minobras - autorização para funcionar como emprêsa de Mineração.

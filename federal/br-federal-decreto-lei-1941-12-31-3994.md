@@ -1,5 +1,3 @@
-###DEL-003994-0-000-31-12-1941@@@
-
 DECRETO‑LEI Nº 3.994 – DE 31 DE DEZEMBRO DE 1941
 
 Organiza o 7º Regimento de Cavalaria Divisionário com sede provisória em Recife.

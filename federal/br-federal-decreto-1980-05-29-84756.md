@@ -1,5 +1,3 @@
-###DEC-084756-0-000-29-05-1980@@@
-
 Decreto nº 84.756, de 29 de maio de 1980.
 
 Declara de interesse social, para fins de desapropriação, imóvel situado em Manaus, Estado do Amazonas, e dá outras providências.

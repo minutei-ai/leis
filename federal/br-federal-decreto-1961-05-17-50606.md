@@ -1,5 +1,3 @@
-###DEC-050606-0-000-17-05-1961@@@
-
 Decreto nº 50.606, de 17 de maio de 1961.
 
 Cria uma Embaixada do Brasil na República da Mauritânia.

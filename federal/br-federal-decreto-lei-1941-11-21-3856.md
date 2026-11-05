@@ -1,5 +1,3 @@
-###DEL-003856-0-000-21-11-1941@@@
-
 DECRETO-LEI N. 3.856 – DE 21 DE NOVEMBRO DE 1941
 
 Retifica decreto sobre aquisição de terreno

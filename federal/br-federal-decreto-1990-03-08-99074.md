@@ -1,7 +1,3 @@
-1
-
-###DEC-099074-0-000-08-03-1990@@@
-
 DECRETO Nº 99.074, DE 8 DE MARÇO DE 1990
 
 Outorga concessão à RBS TV SANTA ROSA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Santa Rosa, Estado do Rio Grande do Sul.

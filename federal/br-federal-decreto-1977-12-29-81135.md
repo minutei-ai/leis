@@ -1,5 +1,3 @@
-###DEC-081135-0-000-29-12-1977@@@
-
 Decreto nº 81.135, de 29 de dezembro de 1977.
 
 Aprova alteração introduzida nos Estatutos da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

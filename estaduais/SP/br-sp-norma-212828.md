@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212828)<br>
-
 # DECRETO N° 70.751, DE 03 DE JULHO DE 2026
 
 ### Cria as Unidades de Ensino que especifica no Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas.
@@ -32,10 +30,12 @@ TARCÍSIO DE FREITAS
 
 Nerylson Lima da Silva
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 4° deste decreto
 
-#### ANEXO II<br>
+#### ANEXO II
+
 Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS
 
 | UNIDADE | QUANTIDADE DE CARGO/FUNÇÃO | DENOMINAÇÃO | CÓDIGO CCESP/FCESP |
@@ -1998,10 +1998,12 @@ Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança do Centro
 
 (2) Funções ocupadas privativamente nos termos do inciso II do artigo 4° do [Decreto n° 69.666, de 30 de junho de 2025](https://www.al.sp.gov.br/norma/211125).
 
-#### Anexo II<br>
+#### Anexo II
+
 a que se referem os artigos 3° e 4° deste decreto
 
-#### ANEXO III<br>
+#### ANEXO III
+
 Quadro Resumo dos Cargos em Comissão e Funções de Confiança do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS
 
 | CÓDIGO | VALOR UNITÁRIO | SITUAÇÃO NOVA |

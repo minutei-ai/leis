@@ -1,5 +1,3 @@
-###DEC-092091-0-000-09-12-1985@@@
-
 DEcreto nº 92.091, de 09 de dezembro de 1985
 
 Dá nova redação ao artigo 3º do Decreto nº 68.886, de 06 de julho de 1971, que cria no Ministério da Aeronáutica, a Medalha "Bartolomeu de Gusmão"
@@ -19,8 +17,6 @@ Brasília-DF, 09 de dezembro de 1985;164º da Independência e 97º da Repúblic
 JOSÉ SARNEY
 
 Octávio Júlio Moreira Lima
-
-###DEC-092091-0-000-09-12-1985@@@RET01+++
 
 # DECRETO Nº 92.091, DE 09 DE DEZEMBRO DE 1985
 

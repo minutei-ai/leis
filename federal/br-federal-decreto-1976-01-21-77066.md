@@ -1,5 +1,3 @@
-###DEC-077066-0-000-21-01-1976@@@
-
 DECRETO Nº 77.066, DE 21 DE JANEIRO DE 1976.
 
 Constitui a Empresa Pública denominada Indústria de Material Bélico do Brasil - IMBEL, aprova seus Estatutos e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61085)
-
 # LEI Nº 12.266, DE 15 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 369/2005, do Deputado Roberto Morais - PPS)

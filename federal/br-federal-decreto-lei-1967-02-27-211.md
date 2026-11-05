@@ -1,5 +1,3 @@
-###DEL-000211-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 211, DE 27 DE FEVEREIRO DE 1967
 
 Dispõe sôbre o registro dos órgãos executivos de atividades hemoterápicas a que se refere o art. 3º, item 3, da Lei nº 4.701, de 28 de junho de 1965, e dá outras providências.

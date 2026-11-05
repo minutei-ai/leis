@@ -1,5 +1,3 @@
-###DEL-008172-0-000-14-11-1945@@@
-
 DECRETO-LEI N. 8.172 – DE 14 DE NOVEMBRO DE 1945
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saúde.

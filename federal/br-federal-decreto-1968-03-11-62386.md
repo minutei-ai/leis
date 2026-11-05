@@ -1,5 +1,3 @@
-###DEC-062386-0-000-11-03-1968@@@
-
 decreto nº 62.386, de 11 de março de 1968.
 
 Declara de utilidade pública o “Educandário padre José Pereira Coelho”, com sede em Pará de Minas, Estado de Minas Gerais.

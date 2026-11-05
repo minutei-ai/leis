@@ -1,5 +1,3 @@
-###DEC-045979-0-000-12-05-1959@@@
-
 DECRETO Nº 45.979, DE 12 DE MAIO DE 1959.
 
 Concede à Sociedade anônima The Italian Economic Corporation autorização para funcionar na Republica.

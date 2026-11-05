@@ -1,5 +1,3 @@
-###DEC-062099-0-000-11-01-1968@@@
-
 DECRETO Nº 62.099, DE 11 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Irmandade da Santa Casa de Misericórdia de Sorocaba”, com sede em Sorocaba, Estado de São Paulo.

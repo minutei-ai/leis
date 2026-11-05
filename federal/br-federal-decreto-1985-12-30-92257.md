@@ -1,5 +1,3 @@
-###DEC-092257-0-000-30-12-1985@@@
-
 decreto nº 92.257, de 30 de dezembro de 1985
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Ouro Verde", no Município de Pitanga, Estado do Paraná, e dá outras providências.

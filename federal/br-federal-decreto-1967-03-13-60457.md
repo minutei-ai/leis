@@ -1,5 +1,3 @@
-###DEC-060457-0-000-13-03-1967@@@
-
 DECRETO Nº 60.457, DE 13 DE MARÇO DE 1967.
 
 Institui a Fundação Instituto de Pesquisa Econômico-Social Aplicada (IPEA) e aprova respectivos Estatutos.

@@ -1,5 +1,3 @@
-###DEC-051918-B-000-26-04-1963@@@
-
 DECRETO Nº 51.918-B, de 26 de abril de 1963.
 
 Declara de utilidade pública o Hospital Espírita, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

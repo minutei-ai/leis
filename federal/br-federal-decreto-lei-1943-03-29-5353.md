@@ -1,5 +1,3 @@
-###DEL-005353-0-000-29-03-1943@@@
-
 DECRETO‑LEI N. 5.353 – DE 29 DE MARÇO DE 1943
 
 Dispõe sobre a aplicação da legislação penal militar ao pessoal marítimo durante os contratos de trabalho e dá outras providências

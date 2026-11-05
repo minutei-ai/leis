@@ -1,5 +1,3 @@
-###DEC-048799-0-000-12-08-1960@@@
-
 DECRETO Nº 48.799, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o cidadão brasileiro Gheorghe Popescu a pesquisar areia quartzosa no município de Itanhaem, Estado de São Paulo.

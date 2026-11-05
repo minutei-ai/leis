@@ -1,5 +1,3 @@
-###DEC-002170-0-000-04-03-1997@@@
-
 DECRETO DE 2.170, DE 4 DE MARÇO DE 1997
 
 Dá nova redação ao art. 2º do Decreto nº 89.250, de 27 de dezembro de 1983, que regulamenta a Lei nº 7.116, de 29 de agosto de 1983, que assegura validade nacional às Carteiras de Identidade, regula sua expedição, e dá outras providências.

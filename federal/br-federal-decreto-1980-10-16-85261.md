@@ -1,5 +1,3 @@
-###DEC-085261-0-000-16-10-1980@@@
-
 DECRETO Nº 85.261, DE 16 DE OUTUBRO de 1980
 
 Autoriza a transferência direta para a SOCIEDADE MINEIRA DE RADIODIFUSÃO LTDA., da concessão outorgada à RÁDIO INDUSTRIAL DE JUIZ DE FORA LTDA., para execução de serviço de radiodifusão sonora em onda tropical, na cidade de Juiz de Fora, Estado de Minas Gerais.

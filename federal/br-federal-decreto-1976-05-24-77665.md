@@ -1,5 +1,3 @@
-###DEC-077665-0-000-24-05-1976@@@
-
 Decreto nº 77.665, de 24 de maio de 1976
 
 Confisca bens pertencentes a Nicolau João Abdalla, e dá outras providências.

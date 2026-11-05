@@ -1,5 +1,3 @@
-###DEC-092820-0-000-25-06-1986@@@
-
 # DECRETO Nº 92.820, DE 25 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Rio Paraná", situado no Município de Castilho, no Estado de São Paulo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo decreto nº 92.688, de 19 de maio de 1986 e dá outras providências.

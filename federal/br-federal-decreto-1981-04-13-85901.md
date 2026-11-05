@@ -1,5 +1,3 @@
-###DEC-085901-0-000-13-04-1981@@@
-
 DECRETO nº 85.901, de 13 de abril de 1981.
 
 Autoriza o funcionamento do curso de Nutrição, da Escola de Enfermagem de Ijuí, com sede na cidade de Ijuí, Estado do Rio Grande do Sul.

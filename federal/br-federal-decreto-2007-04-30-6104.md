@@ -1,5 +1,3 @@
-###DEC-006104-0-000-30-04-2007@@@
-
 DECRETO Nº 6.104, DE 30 DE ABRIL DE 2007.
 
 Dispõe sobre a execução dos procedimentos fiscais no âmbito da Secretaria da Receita Federal do Brasil e dá outras providências.
@@ -53,5 +51,3 @@ Brasília, 30 de abril de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 2.5.2007

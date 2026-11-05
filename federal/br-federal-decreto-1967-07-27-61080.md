@@ -1,5 +1,3 @@
-###DEC-061080-0-000-27-07-1967@@@
-
 DECRETO Nº 61.080, DE 27 DE JULHO DE 1967.
 
 Autoriza estrangeira a adquirir, em regularização de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

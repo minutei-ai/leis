@@ -1,5 +1,3 @@
-###DEC-057662-0-000-24-01-1966@@@
-
 DECRETO Nº 57.662, DE 24 DE JANEIRO DE 1966.
 
 Dispõe sôbre áreas destinadas a cantinas escolares.

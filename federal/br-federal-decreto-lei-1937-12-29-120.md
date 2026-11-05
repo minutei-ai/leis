@@ -1,5 +1,3 @@
-###DEL-000120-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 120 – DE 29 DE DEZEMBRO DE 1937
 
 Abre, pela Prefeitura do Distrito Federal, o crédito especial de 840$000 correspondente aos juros recebidos das apólices que menciona

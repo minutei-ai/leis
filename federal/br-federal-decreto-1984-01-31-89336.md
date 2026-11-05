@@ -1,5 +1,3 @@
-###DEC-089336-0-000-31-01-1984@@@
-
 Decreto nº 89.336, de 31 de janeiro de 1984
 
 Dispõe sobre as Reservas Econômicas e Áreas de Relevante Interesse Ecológico, e dá outras providencias.

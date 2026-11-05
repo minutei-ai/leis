@@ -1,5 +1,3 @@
-###DEC-080209-0-000-22-08-1977@@@
-
 DECRETO Nº 80.209, DE 22 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Brasileira de Energia Elétrica - CBEE , no Estado do Rio de Janeiro.
@@ -25,8 +23,6 @@ Brasília, 22 de agosto de 1977; 156º da Independência e 89º da República.
 ERNESTO GEISEL
 
 Shigeaki Ueki
-
-###DEC-080209-0-000-22-08-1977@@@RET+++
 
 DECRETO Nº 80.209, DE 22 DE AGOSTO DE 1977.
 

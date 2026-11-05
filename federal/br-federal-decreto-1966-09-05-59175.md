@@ -1,5 +1,3 @@
-###DEC-059175-0-000-05-09-1966@@@
-
 decreto nº 59.175, de 5 de setembro de 1966.
 
 Outorga à Ágrico-Industrial Rondônia S.A. autorização para estudar o aproveitamento de energia hidráulica do rio Alto Paraguai.

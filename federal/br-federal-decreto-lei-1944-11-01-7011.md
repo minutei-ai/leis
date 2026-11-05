@@ -1,5 +1,3 @@
-###DEL-007011-0-000-01-11-1944@@@
-
 DECRETO-LEI N. 7.011 – DE 1 NOVEmbro de 1944
 
 Coloca sob intervenção do Govêrno Federal a firrna A. Thun & Cia. Ltda.

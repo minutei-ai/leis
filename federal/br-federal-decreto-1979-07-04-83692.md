@@ -1,5 +1,3 @@
-###DEC-083692-0-000-04-07-1979@@@
-
 Decreto nº 83.692, de 04 de julho de 1979.
 
 Autoriza o BANCO DE LA REPÚBLICA ORIENTAL DEL URUGUAY a funcionar no país.

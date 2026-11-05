@@ -1,5 +1,3 @@
-###DEC-048749-0-000-11-08-1960@@@
-
 DECRETO Nº 48.749, DE 11 DE AGÔSTO DE 1960.
 
 Cria cargos e função gratificada no Quadro do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

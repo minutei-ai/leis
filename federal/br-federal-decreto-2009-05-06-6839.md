@@ -1,5 +1,3 @@
-###DEC-006839-0-000-06-05-2009@@@
-
 DECRETO Nº 6.839, DE 6 DE MAIO DE 2009.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil na República Popular da China, com sede em Cantão.

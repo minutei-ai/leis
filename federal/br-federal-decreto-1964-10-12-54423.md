@@ -1,5 +1,3 @@
-###DEC-054423-0-000-12-10-1964@@@
-
 DECRETO Nº 54.423, DE 12 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Francisco de Assis Fonseca Filho a pesquisar ouro, no município de São Gonçalo do Rio Abaixo, Estado de Minas Gerais.

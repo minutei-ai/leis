@@ -1,5 +1,3 @@
-###DEC-076282-0-000-16-09-1975@@@
-
 DECRETO nº 76.282 - de 16 de Setembro de 1975
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado na cidade de Lapa, Estado do Paraná.

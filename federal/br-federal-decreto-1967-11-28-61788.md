@@ -1,5 +1,3 @@
-###DEC-061788-0-000-28-11-1967@@@
-
 Decreto nº 61.788, de 28 de Novembro de 1967.
 
 Dá a denominação de 11º Esquadrão de Reconhecimento Mecanizado ao 1º Esquadrão Independente de Reconhecimento Mecanizado.

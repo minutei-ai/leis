@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4ae2a18a-8137-48de-8417-22103eadc809/texto#nowhere)
 
-###DEL-001878-0-000-23-07-1981@@@
-
 # DECRETO-LEI Nº 1.878, DE 23 DE JULHO DE 1981
 
 Altera disposições do Decreto-lei nº 1.703, de 18 de outubro de 1979.

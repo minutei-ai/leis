@@ -1,5 +1,3 @@
-###DEL-009374-0-000-17-06-1946@@@
-
 DECRETO-LEI N. 9.374 – DE 17 DE JUNHO DE 1946
 
 Autoriza a emissão de Letras do Tesouro.

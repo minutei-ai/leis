@@ -1,7 +1,3 @@
-1
-
-###DEC-000654-0-000-17-09-1992@@@
-
 DECRETO N° 654, DE 17 DE SETEMBRO DE 1992
 
 Dispõe sobre inclusão, no Programa Nacional de Desestatização - PND, do Banco Meridional do Brasil S.A.

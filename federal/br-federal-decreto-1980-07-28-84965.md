@@ -1,5 +1,3 @@
-###DEC-084965-0-000-28-07-1980@@@
-
 Decreto nº 84.965, de 28 de julho de 1980.
 
 Dá nova redação ao artigo 1º do Decreto nº 84.751, de 28 de maio de 1980.

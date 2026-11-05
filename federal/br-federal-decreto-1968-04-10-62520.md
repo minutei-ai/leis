@@ -1,5 +1,3 @@
-###DEC-062520-0-000-10-04-1968@@@
-
 DECRETO Nº 62.520, DE 10 DE ABRIL DE 1968.
 
 Autoriza o Serviço de Patrimônio da União a aceitar a doação de um terreno feita pela Municipalidade de Santos, SP., para o fim de acrescer a área atual ocupada pelo Grupamento de Fuzileiros Navais de Santos, no mesmo Estado.

@@ -1,5 +1,3 @@
-###DEC-095927-0-000-15-04-1988@@@
-
 DECRETO N° 95.927, DE 15 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado FAZENDA PICO ou VARGEM DA CAMISA”, classificado como “latifúndio por exploração”, situado no Município de Unaí, Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986, e dá outras providências.

@@ -20,8 +20,10 @@ Art. 2º - Esta lei entra em vigor na data de sua publicação, retroagindo seus
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 14 de dezembro de 2017.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefia da Casa Civil

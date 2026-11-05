@@ -1,5 +1,3 @@
-###DEC-059333-0-000-30-09-1966@@@
-
 DECRETO Nº 59.333, DE 30 DE SETEMBRO DE 1966.
 
 Renova o Decreto nº 53.797, de 23 de março de 1964.

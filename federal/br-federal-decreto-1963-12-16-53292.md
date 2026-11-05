@@ -1,5 +1,3 @@
-###DEC-053292-0-000-16-12-1963@@@
-
 DECRETO Nº 53.292, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Aldo Russo a pesquisar feldspato, no município de Socorro, Estado de São Paulo.

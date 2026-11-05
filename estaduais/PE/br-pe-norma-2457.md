@@ -75,9 +75,33 @@ Governador do Estado
 # ANEXO I
 
 <table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="606" style="width:454.7pt;border:outset black 1.0pt"><tbody><tr style="height:13.5pt"><td width="50%" style="width:50.86%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" style="text-align:justify">DENOMINAÇÃO</p></td><td width="24%" style="width:24.28%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" style="text-align:justify">SÍMBOLO</p></td><td width="24%" style="width:24.24%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" style="text-align:justify">VALOR (R$)</p></td></tr><tr style="height:13.5pt"><td width="50%" style="width:50.86%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" style="text-align:justify">FUNÇÃO GERENCIAL JUDICIÁRIA</p></td><td width="24%" style="width:24.28%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" style="text-align:justify">FGJ-1</p></td><td width="24%" style="width:24.24%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="right" style="text-align:right">700,00</p></td></tr></tbody></table>
+  height:13.5pt">
+
+DENOMINAÇÃO
+
+</td><td width="24%" style="width:24.28%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
+  height:13.5pt">
+
+SÍMBOLO
+
+</td><td width="24%" style="width:24.24%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
+  height:13.5pt">
+
+VALOR (R$)
+
+</td></tr><tr style="height:13.5pt"><td width="50%" style="width:50.86%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
+  height:13.5pt">
+
+FUNÇÃO GERENCIAL JUDICIÁRIA
+
+</td><td width="24%" style="width:24.28%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
+  height:13.5pt">
+
+FGJ-1
+
+</td><td width="24%" style="width:24.24%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
+  height:13.5pt">
+
+700,00
+
+</td></tr></tbody></table>

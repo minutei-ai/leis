@@ -1,5 +1,3 @@
-###DEC-064931-0-000-05-08-1969@@@
-
 DECRETO Nº 64.931 - DE 5 DE AGÔSTO DE 1969.
 
 Concede permissão em caráter permanente, a Kibon S.A., Indústrias Alimentícias, com sede no Estado de São Paulo, para funcionar aos domingos e nos feriados civis e religiosos.

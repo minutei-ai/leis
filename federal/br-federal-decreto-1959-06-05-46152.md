@@ -1,5 +1,3 @@
-###DEC-046152-0-000-05-06-1959@@@
-
 DECRETO Nº 46.152, DE 5 DE JUNHO DE 1959.
 
 Renova o Decreto nº 40.073, de 8 de outubro de 1956.

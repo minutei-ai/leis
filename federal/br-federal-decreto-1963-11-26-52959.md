@@ -1,5 +1,3 @@
-###DEC-052959-0-000-26-11-1963@@@
-
 DECRETO Nº 52.959, DE 26 DE NOVEMBRO DE 1963.
 
 Altera o Decreto nº 26.299, de 31 de Janeiro de 1949.

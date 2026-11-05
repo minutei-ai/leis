@@ -1,5 +1,3 @@
-###DEC-048351-0-000-21-06-1960@@@
-
 Decreto nº 48.351, de 21 de junho de 1960.
 
 Autoriza o cidadão brasileiro Paulo Costa a pesquisar feldspato e quartzo, no município de São Sebastião da Grama, Estado de São Paulo.

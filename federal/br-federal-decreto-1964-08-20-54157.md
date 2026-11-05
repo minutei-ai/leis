@@ -1,5 +1,3 @@
-###DEC-054157-0-000-20-08-1964@@@
-
 Decreto nº 54.157, de 20 de Agôsto de 1964.
 
 Autoriza a Companhia Bom Sucesso de Eletricidade a desvincular e permutar usinas hidro-elétricas.

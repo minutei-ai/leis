@@ -1,5 +1,3 @@
-###DEL-009693-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.693 – DE 2 DE SETEMBRO DE 1946
 
 Cria na Prefeitura do Distrito Federal o Serviço de Doenças Venéreas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002626-0-000-15-06-1998@@@
-
 DECRETO Nº 2.626, DE 15 DE JUNHO DE 1998
 
 Promulga o Protocolo de Medidas Cautelares, concluído em Ouro Preto, em 16 de dezembro de 1994.

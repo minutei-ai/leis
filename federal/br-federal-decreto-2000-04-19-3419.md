@@ -1,5 +1,3 @@
-###DEC-003419-0-000-19-04-2000@@@
-
 DECRETO Nº 3.419, DE 19 DE ABRIL DE 2000.
 
 Dispõe sobre a execução do Vigésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 29 de dezembro de 1999.

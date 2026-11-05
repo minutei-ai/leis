@@ -1,5 +1,3 @@
-###DEC-058301-0-000-02-05-1966@@@
-
 Decreto nº 58.301, de 2 de maio de 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

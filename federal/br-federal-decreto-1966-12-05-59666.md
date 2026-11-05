@@ -1,5 +1,3 @@
-###DEC-059666-0-000-05-12-1966@@@
-
 Decreto nº 59.666, de 5 de dezembro de 1966.
 
 Aprova o Regulamento para a “Diretoria de Hidrografia e Navegação”.

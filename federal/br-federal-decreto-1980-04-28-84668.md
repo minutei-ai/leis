@@ -1,5 +1,3 @@
-###DEC-084668-0-000-28-04-1980@@@
-
 DecretO nº 84.668, de 28 de abril de 1980.
 
 Renova por 10 (dez) anos a concessão outorgada à Universidade Federal de Goiás - Rádio Universitária, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Goiânia, Estado de Goiás.

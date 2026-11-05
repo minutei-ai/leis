@@ -1,5 +1,3 @@
-###DEC-085608-0-000-30-12-1980@@@
-
 Decreto nº 85.608, de 30 de dezembro de 1980
 
 Autoriza o funcionamento de habilitações nos cursos de Pedagogia e de Letras, da Faculdade de Filosofia de Itaperuna, Estado do Rio de Janeiro.

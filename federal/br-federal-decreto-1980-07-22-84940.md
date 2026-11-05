@@ -1,5 +1,3 @@
-###DEC-084940-0-000-22-07-1980@@@
-
 Decreto nº 84.940, de 22 de julho de 1980.
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

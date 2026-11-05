@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9b724f9f-63f2-46ae-8e6a-fe765d41f1ea/texto#nowhere)
 
-###DEL-001856-0-000-10-02-1981@@@
-
 # DECRETO-LEI nº 1.856, de 10 de fevereiro de 1981
 
 Autoriza o Ministro da Fazenda a conceder isenção dos impostos de importação e sobre produtos industrializados, nos casos que específica.

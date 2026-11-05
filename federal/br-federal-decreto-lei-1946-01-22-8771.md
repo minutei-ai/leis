@@ -1,5 +1,3 @@
-###DEL-008771-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.771 – DE 22 de JANEIRO DE 1946
 
 Altera carreiras dos Quadros Permanente e Suplementar do Ministério das Relações Exteriores e dá outras providências

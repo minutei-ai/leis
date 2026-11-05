@@ -1,5 +1,3 @@
-###DEL-002026-0-000-01-06-1983@@@
-
 # DECRETO-LEI Nº 2.026, DE 01 DE JUNHO DE 1983.
 
 Prorroga o prazo previsto no artigo 6º do Decreto-lei nº 1.944, de 15 de junho de 1982.

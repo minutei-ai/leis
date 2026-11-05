@@ -1,5 +1,3 @@
-###DEL-008633-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.633 – DE 11 DE JANEIRO DE 1946
 
 Modifica o Decreto-lei nº 8.528, de 31 de dezembro de 1945, e dá outras providências.

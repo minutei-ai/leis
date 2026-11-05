@@ -1,14 +1,12 @@
-###DEC-044378-0-000-26-08-1958@@@
+**DECRETO Nº 44.378, DE 26 DE AGÔSTO DE 1958.**
 
-<strong>DECRETO Nº 44.378, DE 26 DE AGÔSTO DE 1958.</strong>
+***Altera a redação dos itens 1º, 2º e 3º do § 1º do art. 1º; art. 5º e seus parágrafos; arts. 7º e 11 do Decreto nº 43.194, de 19 de fevereiro de 1958 e dá outras providências.***
 
-<em><strong>Altera a redação dos itens 1º, 2º e 3º do § 1º do art. 1º; art. 5º e seus parágrafos; arts. 7º e 11 do Decreto nº 43.194, de 19 de fevereiro de 1958 e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os itens 1º, 2º e 3º do § 1º do art. 1º; art. 5º e seus parágrafos; arts. 7º e 11 do Decreto número 43.194, de 19 de fevereiro de 1958; passam a ter a seguinte redação:
+**Art**. 1º Os itens 1º, 2º e 3º do § 1º do art. 1º; art. 5º e seus parágrafos; arts. 7º e 11 do Decreto número 43.194, de 19 de fevereiro de 1958; passam a ter a seguinte redação:
 
 “Art. 1º .....................................................................................................................................
 
@@ -38,14 +36,14 @@
 
 “Art. 11. Dentro do prazo de sessenta (60) dias, a contar da data da instalação da 3ª Câmara, o Conselho Superior de Tarifa organizará o seu Regimento Interno, com a colaboração dos Procuradores-Representantes da Fazenda”.
 
-<strong>Art</strong>. 2º A renovação parcial dos membros dos Conselhos de Contribuintes e do Conselho Superior de Tarifa será feita até 31 de julho de cada ano, quando terminará o mandato dos conselheiros que devam ser substituídos.
+**Art**. 2º A renovação parcial dos membros dos Conselhos de Contribuintes e do Conselho Superior de Tarifa será feita até 31 de julho de cada ano, quando terminará o mandato dos conselheiros que devam ser substituídos.
 
 Parágrafo único. O disposto neste artigos não se aplica aos atuais membros dos Conselhos de Contribuintes e do Conselho Superior de Tarifa.
 
-<strong>Art</strong>. 3º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 26 de agôsto de 1958; 137º da Independência e 70º da república.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lucas Lopes

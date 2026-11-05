@@ -1,6 +1,4 @@
-###DEC-063801-0-000-13-12-1968@@@
-
-<strong>DECRETO Nº 63.801, DE 13 DE DEZEMBRO DE 1968.</strong>
+**DECRETO Nº 63.801, DE 13 DE DEZEMBRO DE 1968.**
 
 <!-- fac-simile-oficial:inicio -->
 

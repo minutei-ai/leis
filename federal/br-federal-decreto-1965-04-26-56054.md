@@ -1,5 +1,3 @@
-###DEC-056054-0-000-26-04-1965@@@
-
 DECRETO Nº 56.054, DE 26 DE ABRIL DE 1965.
 
 Concede à “Calinco” - Calcáreo, Indústria e Comércio Limitada autorização para funcionar como emprêsa de mineração.

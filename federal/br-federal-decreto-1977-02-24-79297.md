@@ -1,5 +1,3 @@
-###DEC-079297-0-000-24-02-1977@@@
-
 DECRETO Nº 79.297, DE 24 DE FEVEREIRO DE 1977.
 
 Torna sem efeito aproveitamento e cassa disponibilidade.

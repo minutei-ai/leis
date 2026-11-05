@@ -1,5 +1,3 @@
-###DEC-071122-0-000-19-09-1972@@@
-
 DECRETO Nº 71.122, DE 19 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno urbano, sem benfeitorias, situado na cidade de Araraquara, Estado de São Paulo, destinado à ampliação da estação telefônica daquela cidade pela Companhia Telefônica Brasileira.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000950-0-000-06-10-1993@@@
-
 DECRETO N° 950, DE 6 DE OUTUBRO DE 1993
 
 Extingue o Batalhão de Comando da Tropa de Reforço e dá outras providências.

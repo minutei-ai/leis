@@ -1,5 +1,3 @@
-###DEC-075318-0-000-28-01-1975@@@
-
 DECRETO Nº 75.318, DE 28 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Filosofia, Ciências e Letras do Duque de Caxias, mantida pela Fundação Educacional de Duque de Caxias, com sede na cidade de Duque de Caxias, Estado do Rio de Janeiro.

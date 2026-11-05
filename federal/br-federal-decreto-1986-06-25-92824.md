@@ -1,5 +1,3 @@
-###DEC-092824-0-000-25-06-1986@@@
-
 # DECRETO Nº 92.824, DE 25 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Fruta D'Anta" e "Ave Maria", situado no Município de João Pinheiro, no Estado de Minas Gerais, e compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055942-0-000-19-04-1965@@@
-
 DECRETO Nº 55.942, DE 19 DE ABRIL DE 1965.
 
 Declara de utilidade pública a “Irmandade da Santa Casa de Misericórdia de Adamantina” com sede em Adamantina, Estado de São Paulo.

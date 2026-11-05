@@ -1,5 +1,3 @@
-###DEL-007338-0-000-26-02-1945@@@
-
 DECRETO-LEI N. 7.338 – DE 26 DE FEVEREIRO DE 1945
 
 Cria função gratificada no Ministério da Fazenda e dá outras providências

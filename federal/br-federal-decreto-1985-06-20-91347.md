@@ -1,5 +1,3 @@
-###DEC-091347-0-000-20-06-1985@@@
-
 DECREto nº 91.347, de 20 de junho de 1985
 
 Autoriza o funcionamento do curso de História da Faculdade de Filosofia, Ciências e Letras de Santiago.

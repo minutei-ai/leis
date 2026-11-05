@@ -1,5 +1,3 @@
-###DEC-069799-0-000-15-12-1971@@@
-
 Decreto nº 69.799 - de 15 de dezembro de 1971
 
 Reconhece a Faculdade de Ciências Jurídicas e Sociais, e o Curso de Direito pela mesma ministrado, em Itajaí, Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-082209-0-000-01-09-1978@@@
-
 Decreto nº 82.209, de 01 de setembro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra e benfeitorias necessárias à implantação da Subestação de Tauape, da Companhia de Eletricidade do Ceará - COELCE, no Estado do Ceará.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/22366)<br>
-
 # LEI N° 6.955, DE 20 DE JULHO DE 1990
 
 ## (Projeto de eli n° 311/89, do deputao Ivan Espíndola de Ávila)

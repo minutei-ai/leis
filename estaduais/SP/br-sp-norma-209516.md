@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209516)<br>
-
 # DECRETO N° 68.570, DE 29 DE MAIO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 520+000 e 530+000 da Rodovia SP-284, no Município de Rancharia, e dá providências correlatas._

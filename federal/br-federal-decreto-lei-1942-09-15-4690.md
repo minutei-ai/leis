@@ -1,5 +1,3 @@
-###DEL-004690-0-000-15-09-1942@@@
-
 DECRETO-LEI N. 4.690 – DE 15 DE SETEMBRO DE 1942
 
 Regula a intervenção do Governo Federal no serviço de navegação explorado pela firma Carlos Hoepcke S. A., Comércio e Indústria e dá outras providências

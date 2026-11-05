@@ -1,5 +1,3 @@
-###DEC-007181-0-000-20-05-2010@@@
-
 DECRETO Nº 7.181, DE 20 DE MAIO DE 2010.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Bruxelas, no Reino da Bélgica

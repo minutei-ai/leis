@@ -1,5 +1,3 @@
-###DEC-089385-0-000-15-02-1984@@@
-
 Decreto nº 89.385, de 15 dE fevereiro dE 1984
 
 Autoriza o funcionamento da habilitação Administração Escolar a ser ministrada pela Faculdade de Filosofia, Ciências e Letras de Bragança Paulista - São Paulo.

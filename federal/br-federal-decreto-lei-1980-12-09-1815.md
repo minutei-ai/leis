@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/37ced4be-6d65-4275-9bd5-3b7b3fe57382/texto#nowhere)
 
-###DEL-001815-0-000-09-12-1980@@@
-
 # Decreto-lei nº 1.815, de 09 de dezembro de 1980.
 
 Dispõe sobre apuração de resultados do exercício financeiro, e dá outras providências.

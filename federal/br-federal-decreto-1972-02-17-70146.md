@@ -1,5 +1,3 @@
-###DEC-070146-0-000-17-02-1972@@@
-
 DECRETO Nº 70.146, DE 17 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Goianésia - Barro Alto, no Estado de Goiás.

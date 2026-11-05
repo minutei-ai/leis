@@ -1,5 +1,3 @@
-###DEC-045752-0-000-07-04-1959@@@
-
 DECRETO Nº 45.752, DE 7 DE ABRIL DE 1959.
 
 Autoriza Icominas S. A.- Emprêsa de Mineração a pesquisar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

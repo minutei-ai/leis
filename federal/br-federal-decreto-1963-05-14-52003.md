@@ -1,5 +1,3 @@
-###DEC-052003-0-000-14-05-1963@@@
-
 DECRETO Nº 52.003, DE 14 DE MAIO DE 1963.
 
 Altera o parágrafo terceiro do artigo 29 do Regulamento para Corpo do Pessoal Subalterno da Armada.

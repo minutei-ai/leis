@@ -1,5 +1,3 @@
-###DEC-096575-0-000-24-08-1988@@@
-
 DECRETO N° 96.675, DE 24 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do Curso Superior de Graduação em Engenharia Industrial Mecânica, em Manaus, Amazonas.

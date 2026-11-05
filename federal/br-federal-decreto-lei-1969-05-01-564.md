@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ebf7072f-7c27-4499-ab9c-8bbe91883642/texto#nowhere)
 
-###DEL-000564-0-000-01-05-1969@@@
-
 DECRETO-LEI Nº 564, DE 1º DE MAIO DE 1969
 
 Estende a previdência social a empregados não abrangidos pelo sistema geral da Lei nº 3.807, de 26 de agôsto de 1960, e dá outras providências.

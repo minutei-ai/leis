@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/184525)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2017/compilacao-lei-16624-15.12.2017.html)
 
 # LEI N° 16.624, DE 15 DE DEZEMBRO DE 2017

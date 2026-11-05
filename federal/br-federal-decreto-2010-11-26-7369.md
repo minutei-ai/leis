@@ -1,5 +1,3 @@
-###DEC-007369-0-000-26-11-2010-PUB-01@@@
-
 DECRETO Nº 7.369, DE 26 DE NOVEMBRO DE 2010.
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória

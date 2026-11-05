@@ -1,5 +1,3 @@
-###DEL-008990-0-000-16-02-1946@@@
-
 DECRETO-LEI N. 8.990 – DE 16 DE FEVEREIRO DE 1946
 
 Cria o Quadro de Funcionários do Território do Amapá.

@@ -26,5 +26,6 @@ Aparecida de Goiânia, 14 de janeiro de 2026.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia

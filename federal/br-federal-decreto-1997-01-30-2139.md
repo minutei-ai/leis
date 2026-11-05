@@ -1,5 +1,3 @@
-###DEC-002139-0-000-30-01-1997@@@
-
 DECRETO Nº 2.139, DE 30 DE JANEIRO DE 1997
 
 Prorroga o prazo de remanejamento dos cargos que menciona.

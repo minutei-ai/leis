@@ -1,5 +1,3 @@
-###DEC-061914-0-000-14-12-1967@@@
-
 DECRETO Nº 61.914, DE 14 DE DEZEMBRO DE 1967.
 
 Altera prazo para apresentação do Plano Diretor de implantação de portos pesqueiros.

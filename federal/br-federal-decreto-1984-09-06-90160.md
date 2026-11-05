@@ -1,5 +1,3 @@
-###DEC-090160-0-000-06-09-1984@@@
-
 Decreto nº 90.160, de 06 de setembro de 1984
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO MACAÉ LTDA., para a RÁDIO JORNAL FLUMINENSE DE CAMPOS LTDA.

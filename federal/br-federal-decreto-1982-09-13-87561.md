@@ -1,5 +1,3 @@
-###DEC-087561-0-000-13-09-1982@@@
-
 Decreto nº 87.561, de 13 de setembro de 1982
 
 Dispõe sobre as medidas de recuperação e proteção ambiental da Bacia Hidrográfica do Rio Paraíba do Sul e dá outras providências.

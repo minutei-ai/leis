@@ -1,5 +1,3 @@
-###DEL-007968-0-000-19-09-1945@@@
-
 DECRETO-LEI N. 7.968 – DE 19 DE SETEMBRO DE  1945
 
 Altera a redação do Decreto-lei número 6.631, de 27 de junho de 1.941

@@ -1,5 +1,3 @@
-###DEC-048129-0-000-20-04-1960@@@
-
 DECRETO N. 48.129 – DE 20 DE ABRIL DE 196O
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Excelsior de Seguros.

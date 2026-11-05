@@ -1,5 +1,3 @@
-###DEC-069068-0-000-16-08-1971@@@
-
 Decreto nº 69.068, de 16 de agôsto de 1971.
 
 Outorga à Companhia Siderúrgica Nacional concessão para captar as águas do rio Paraíba, no município de Volta Redonda, Estado do Rio de Janeiro.

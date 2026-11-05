@@ -1,5 +1,3 @@
-###DEC-061696-0-000-13-11-1967@@@
-
 DECRETO nº 61.696, DE 13 DE NOVEMBRO DE 1967.
 
 Autoriza o cidadão brasileiro Glauco de Paula Machado a lavrar minério de ferro no município de Itaúna, Estado de Minas Gerais.

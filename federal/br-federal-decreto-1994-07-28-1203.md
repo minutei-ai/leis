@@ -1,7 +1,3 @@
-1
-
-###DEC-001203-0-000-28-07-1994@@@
-
 DECRETO Nº 1.203, DE 28 DE JULHO DE 1994
 
 Aprova o IV Plano Setorial para os Recursos do Mar (IV PSRM).

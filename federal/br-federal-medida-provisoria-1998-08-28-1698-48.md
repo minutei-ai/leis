@@ -1,5 +1,3 @@
-###MPV-001698-0-048-28-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.698-48, DE 28 DE AGOSTO DE 1998
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

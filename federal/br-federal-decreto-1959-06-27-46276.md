@@ -1,5 +1,3 @@
-###DEC-046276-0-000-27-06-1959@@@
-
 DECRETO Nº 46.276, DE 27 DE JUNHO DE 1959.
 
 Cancela concessão outorgada à Sociedade Rádio Emissôra Continental Ltda. para estabelecer estação radiodifusora.

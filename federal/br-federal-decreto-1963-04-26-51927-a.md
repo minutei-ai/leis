@@ -1,5 +1,3 @@
-###DEC-051927-A-000-26-04-1963@@@
-
 DECRETO Nº 51.927-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a S.A. de Cimento Mineração e Cabotagem “Cimimar” a lavrar feldspato no município de São Gonçalo, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###MPV-000144-0-000-11-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 144, DE 10 DE DEZEMBRO 2003.
 
        Dispõe sobre a comercialização de energia elétrica, altera as Leis nºs 5.655, de 20 de maio de 1971, 8.631, de 4 de março de 1993, 9.074, de 7 de julho de 1995, 9.427, de 26 de dezembro de 1996, 9.478, de 6 de agosto de 1997, 9.648, de 27 de maio de 1998, 9.991, de 24 de julho de 2000, 10.438, de 26 de abril de 2002, e dá outras providências.

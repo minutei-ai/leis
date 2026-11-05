@@ -1,5 +1,3 @@
-###DEC-053879-0-000-08-04-1964@@@
-
 DECRETO Nº 53.879, de 8 de abril de 1964.
 
 Complementa o Decreto nº 50.332 de 10 de março de 1961, e dá outras providências.

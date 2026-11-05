@@ -1,5 +1,3 @@
-###DEC-047529-0-000-28-12-1959@@@
-
 DECRETO Nº 47.529, DE 28 DE DEZEMBRO DE 1959.
 
 Regula a tributação adicional das pessoas jurídicas sôbre os lucros em relação ao capital social e às reservas, de acôrdo com as disposições da Lei nº 2.862, de 4 de setembro de 1956, modificadas pela Lei número 3.470, de 28 de novembro de 1958.
@@ -225,8 +223,6 @@ Rio de Janeiro, em 28 de dezembro de 1959; 138º da Independência e 71º da Rep
 JUSCELINO KUBITSCHEK
 
 S. Paes de Almeida
-
-###DEC-047529-0-000-28-12-1959@@@RET01+++
 
 Decreto nº 47.529, de 28 de dezembro de 1959.
 

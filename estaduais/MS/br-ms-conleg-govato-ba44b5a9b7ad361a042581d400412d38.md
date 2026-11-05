@@ -6,15 +6,16 @@ Denomina “Delegado Hoston Belizário” o prédio do Estabelecimento Penal Mas
 
 Publicada no Diário Oficial nº 9.529, de 10 de novembro de 2017, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominado como “Delegado Hoston Belizário” o prédio do Estabelecimento Penal Masculino de Regime Fechado de Ivinhema-MS.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominado como “Delegado Hoston Belizário” o prédio do Estabelecimento Penal Masculino de Regime Fechado de Ivinhema-MS.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 9 de novembro de 2017.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-050856-0-000-26-06-1961@@@
-
 DECRETO Nº 50.856, DE 26 DE JUNHO DE 1961.
 
 Dá nova redação ao art. 10 Decreto nº 50.520, de 3 de maio de 1961.

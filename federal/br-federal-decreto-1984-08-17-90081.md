@@ -1,5 +1,3 @@
-###DEC-090081-0-000-17-08-1984@@@
-
 Decreto nº 90.081, de 17 de agosto de 1984
 
 Renova a concessão outorgada à RÁDIO UNIVERSO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Curitiba Estado do Paraná.

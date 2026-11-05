@@ -1,5 +1,3 @@
-###DEC-055821-0-000-09-03-1965@@@
-
 DECRETO Nº 55.821, DE 9 DE MARÇO DE 1965.
 
 Suprime cargo extinto

@@ -1,5 +1,3 @@
-###DEC-061153-0-000-14-08-1967@@@
-
 DECRETO Nº 61.153, de 14 de agôsto de 1967.
 
 Declara de utilidade pública a “Sociedade Missionária dos Franciscanos Menores Conventuais”, com sede em Santo André, Estado de São Paulo.

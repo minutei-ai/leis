@@ -1,5 +1,3 @@
-###DEC-049767-0-000-31-12-1960@@@
-
 DECRETO Nº 49.767, DE 31 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia de Seguros Marítimos e Terrestres “Pelotense”.

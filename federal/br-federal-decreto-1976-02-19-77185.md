@@ -1,5 +1,3 @@
-###DEC-077185-0-000-19-02-1976@@@
-
 Decreto nº 77.185, de 19 de fevereiro de 1976.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado em Manaus, Estado do Amazonas.

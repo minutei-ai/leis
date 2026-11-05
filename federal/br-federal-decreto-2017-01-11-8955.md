@@ -68,5 +68,6 @@ MICHEL TEMER
 
 Dyogo Henrique de Oliveira
 
-<<ANEXOS>><br>
+<<ANEXOS>>
+
 <<TABELAS>>

@@ -1,5 +1,3 @@
-###DEC-084870-0-000-02-07-1980@@@
-
 Decreto nº 84.870, de 02 de julho de 1980
 
 Delega competência ao Ministro de Estado das Relações Exteriores para conceder, em caráter excepcional, a autorização a que se refere o § 1º do artigo 1º da Lei nº 5.887, de 31 de maio de 1973.

@@ -1,5 +1,3 @@
-###DEC-080602-0-000-24-10-1977@@@
-
 DECRETO Nº 80.602, DE 24 DE OUTUBRO DE 1977.
 
 Regulamenta a aplicação dos institutos da Progressão Funcional e do Aumento por Mérito, a que se referem a Lei nº 5.645, de 10 de dezembro de 1970, e o Decreto-lei nº 1.445, de 13 de fevereiro de 1976, e dá outras providências.
@@ -122,7 +120,17 @@ c) ocupantes dos demais cargos efetivos e empregos permanentes.
 
 Art. 22 - A avaliação de desempenho será representada pelos conceitos e correspondentes pontos, abaixo especificados:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I </span><span>-</span><span> Muito Bom (MB)</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-</span><span> 7 (sete) pontos;</span></p></td></tr><tr><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II </span><span>-</span><span> Bom (B)</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- 4 (quatro) pontos;</span></p></td></tr><tr><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III </span><span>-</span><span> Regular (R)</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- 1 (um) ponto.</span></p></td></tr></tbody></table>
+I - Muito Bom (MB)
+
+- 7 (sete) pontos;
+
+II - Bom (B)
+
+- 4 (quatro) pontos;
+
+III - Regular (R)
+
+- 1 (um) ponto.
 
 Art. 23 - O interstício a que ficará sujeito o servidor, em decorrência do conceito obtido na avaliação de desempenho, será de:
 

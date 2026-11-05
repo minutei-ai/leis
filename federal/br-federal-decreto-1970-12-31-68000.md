@@ -1,5 +1,3 @@
-###DEC-068000-0-000-31-12-1970@@@
-
 DECRETO Nº 68.000, de 31 de dezembro de 1970.
 
 Declara sem efeito o Decreto número 19.780, de 10 de outubro de 1945.

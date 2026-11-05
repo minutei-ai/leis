@@ -16,24 +16,152 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS ESPECIAIS PREVISTOS NA LEGISLAÇÃO</td><td style=" width:85px;    ">09 274 0200 7202</td><td style=" width:85px;    ">18040001</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 4.188.000,00</td><td style=" width:85px;    ">R$ 4.188.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS ESPECIAIS PREVISTOS NA LEGISLAÇÃO</td><td style=" width:85px;    ">09 274 0200 7202</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 30.000,00</td><td style=" width:85px;    ">R$ 79.672.488,24</td><td style=" width:85px;    ">R$ 79.702.488,24</td></tr></tbody></table>
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1704 - ENCARGOS ESPECIAIS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 79.672.488,24</td></tr><tr><td style=" width:340px;    ">18040001 - DEMAIS RECURSOS PREVIDENCIÁRIOS</td><td style=" width:340px;    ">R$ 4.188.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 83.860.488,24</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ENCARGOS COM BENEFÍCIOS ESPECIAIS PREVISTOS NA LEGISLAÇÃO
+
+09 274 0200 7202
+
+18040001
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 4.188.000,00
+
+R$ 4.188.000,00
+
+ENCARGOS COM BENEFÍCIOS ESPECIAIS PREVISTOS NA LEGISLAÇÃO
+
+09 274 0200 7202
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 30.000,00
+
+R$ 79.672.488,24
+
+R$ 79.702.488,24
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 79.672.488,24
+
+18040001 - DEMAIS RECURSOS PREVIDENCIÁRIOS
+
+R$ 4.188.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 83.860.488,24
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS ESPECIAIS PREVISTOS NA LEGISLAÇÃO</td><td style=" width:85px;    ">09 274 0200 7202</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 79.672.488,24</td><td style=" width:85px;    ">R$ 79.672.488,24</td><td style=" width:85px;    ">R$ 79.672.488,24</td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS ESPECIAIS PREVISTOS NA LEGISLAÇÃO</td><td style=" width:85px;    ">09 274 0200 7202</td><td style=" width:85px;    ">18040001</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 4.188.000,00</td><td style=" width:85px;    ">R$ 4.188.000,00</td><td style=" width:85px;    ">R$ 4.188.000,00</td></tr></tbody></table>
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1704 - ENCARGOS ESPECIAIS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 79.672.488,24</td></tr><tr><td style=" width:340px;    ">18040001 - DEMAIS RECURSOS PREVIDENCIÁRIOS</td><td style=" width:340px;    ">R$ 4.188.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 83.860.488,24</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 79.672.488,24</td></tr><tr><td style=" width:340px;    ">18040001 - DEMAIS RECURSOS PREVIDENCIÁRIOS</td><td style=" width:340px;    ">R$ 4.188.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 83.860.488,24</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ENCARGOS COM BENEFÍCIOS ESPECIAIS PREVISTOS NA LEGISLAÇÃO
+
+09 274 0200 7202
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 79.672.488,24
+
+R$ 79.672.488,24
+
+R$ 79.672.488,24
+
+ENCARGOS COM BENEFÍCIOS ESPECIAIS PREVISTOS NA LEGISLAÇÃO
+
+09 274 0200 7202
+
+18040001
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 4.188.000,00
+
+R$ 4.188.000,00
+
+R$ 4.188.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 79.672.488,24
+
+18040001 - DEMAIS RECURSOS PREVIDENCIÁRIOS
+
+R$ 4.188.000,00
+
+**TOTAL**
+
+R$ 83.860.488,24
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 79.672.488,24
+
+18040001 - DEMAIS RECURSOS PREVIDENCIÁRIOS
+
+R$ 4.188.000,00
+
+**TOTAL**
+
+R$ 83.860.488,24

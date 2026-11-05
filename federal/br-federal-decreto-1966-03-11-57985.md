@@ -1,5 +1,3 @@
-###DEC-057985-0-000-11-03-1966@@@
-
 DECRETO Nº 57.985, DE 11 DE MARÇO DE 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099408-0-000-19-07-1990@@@
-
 DECRETO Nº 99.408, DE 19 DE JULHO DE 1990
 
 Constitui comissão para os fins que especifica.

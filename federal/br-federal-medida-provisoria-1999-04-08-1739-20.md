@@ -1,5 +1,3 @@
-###MPV-001739-0-020-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.739-20, DE 8 DE ABRIL DE 1999.
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

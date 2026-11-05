@@ -1,5 +1,3 @@
-###MPV-001701-0-013-28-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.701-13, DE 28 DE AGOSTO DE 1998
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

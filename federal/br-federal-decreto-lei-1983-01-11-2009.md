@@ -1,5 +1,3 @@
-###DEL-002009-0-000-11-01-1983@@@
-
 # DECRETO-LEI Nº 2.009, DE 11 DE JANEIRO DE 1983.
 
 Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social e dá outras providências.
@@ -23,8 +21,6 @@ JOÃO FIGUEIREDO
 Ernane Galvêas
 
 Delfim Netto
-
-###DEL-002009-0-000-11-01-1983@@@RET01+++
 
 # DECRETO-LEI Nº 2.009, DE 11 DE JANEIRO DE 1983.
 

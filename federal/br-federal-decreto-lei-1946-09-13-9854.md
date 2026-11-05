@@ -1,5 +1,3 @@
-###DEL-009854-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.854 – DE 13 DE SETEMBRO DE 1946
 
 Isenta o Touring Club do Brasil do pagamento dos impostos federais e municipais que menciona.

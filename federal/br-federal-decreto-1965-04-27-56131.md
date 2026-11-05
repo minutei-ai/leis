@@ -1,5 +1,3 @@
-###DEC-056131-0-000-27-04-1965@@@
-
 DECRETO Nº 56.131, DE 27 DE ABRIL DE 1965.
 
 Concede à sociedade Navegação Sion Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

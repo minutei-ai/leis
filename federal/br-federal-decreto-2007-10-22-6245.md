@@ -1,5 +1,3 @@
-###DEC-006245-0-000-22-10-2007@@@
-
 DECRETO Nº 6.245, DE 22 DE OUTUBRO DE 2007.
 
 Acrescenta o art. 8o-A ao Decreto no 5.079, de 12 de maio de 2004, que dispõe sobre a composição, estruturação, competência e funcionamento do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA.
@@ -19,5 +17,3 @@ Brasília, 22 de outubro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Erenice Guerra
-
-Este texto não substitui o publicado no DOU de 23.10.2007

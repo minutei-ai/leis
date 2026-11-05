@@ -1,5 +1,3 @@
-###DEC-082293-0-000-19-09-1978@@@
-
 DECRETo Nº 82.293, DE 19 DE SETEmBRO DE 1978.
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-046492-0-000-20-07-1959@@@
-
 Decreto nº 46.492, de 20 de julho de 1959.
 
 Renova o Decreto nº 46.492, de 20 de julho de 1959.

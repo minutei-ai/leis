@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2938c93b-aee0-48d4-9196-e52d3f6b951d/texto#nowhere)
 
-###DEL-000943-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 943, DE 13 DE OUTUBRO DE 1969
 
 Altera disposições do Decreto-lei número 266, de 28 de fevereiro de 1967, e dispõe sôbre o regime do pessoal das Caixas Econômicas Federais e do Conselho Superior.

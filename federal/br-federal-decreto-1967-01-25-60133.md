@@ -1,5 +1,3 @@
-###DEC-060133-0-000-25-01-1967@@@
-
 DECRETO Nº 60.133, DE 25 DE JANEIRO DE 1967.
 
 Concede à ORBEG - Organização Brasileira de Emprêsas Gerais S.A. autorização para funcionar como emprêsa de mineração.

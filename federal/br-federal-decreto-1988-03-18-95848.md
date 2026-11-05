@@ -1,7 +1,3 @@
-1
-
-###DEC-095848-0-000-18-03-1988@@@
-
 DECRETO N° 95.848, DE 18 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “COQUEIRO C” E “PARAÍSO B”, classificados como latifúndio por exploração, situados no Município de Ouro Preto do Oeste, no Estado de Rondônia, compreendidos na zona prioritária, para fins de reforma agrária fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras providências.

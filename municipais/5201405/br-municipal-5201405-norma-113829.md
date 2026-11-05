@@ -74,11 +74,14 @@ Art. 4º - Este Decreto entrará em vigor na data de sua publicação, revogando
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, aos 15 de janeiro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-ARTHUR HENRIQUE DE S. BRAGA<br>
+ARTHUR HENRIQUE DE S. BRAGA
+
 Secretário de Administração

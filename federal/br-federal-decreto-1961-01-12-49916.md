@@ -1,5 +1,3 @@
-###DEC-049916-0-000-12-01-1961@@@
-
 DECRETO Nº 49.916, DE 12 DE JANEIRO DE 1961.
 
 Concede autorização à Cooperativa de Crédito Guanabara Limitada para modificar o seu estatuto social.

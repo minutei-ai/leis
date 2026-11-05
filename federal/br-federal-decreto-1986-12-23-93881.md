@@ -1,5 +1,3 @@
-###DEC-093881-0-000-23-12-1986@@@
-
 DECRETO Nº 93.881, DE 23 DE DEZEMBRO DE 1986
 
 Dispõe sobre o Conselho Nacional de Cinema - CONCINE, e dá outras providências.

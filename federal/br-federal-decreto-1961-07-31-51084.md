@@ -1,5 +1,3 @@
-###DEC-051084-0-000-31-07-1961@@@
-
 DECRETO Nº 51.084, DE 31 DE JULHO DE 1961.
 
 Regulamenta o Decreto nº 50.455, de 14 de abril de 1961, que criou o Parque Nacional de Xingu, e dá outras providências.

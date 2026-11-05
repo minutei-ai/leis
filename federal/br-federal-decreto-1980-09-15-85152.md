@@ -1,5 +1,3 @@
-###DEC-085152-0-000-15-09-1980@@@
-
 Decreto nº 85.152, de 15 de setembro de 1980
 
 Altera denominação de Organização Militar do Ministério do Exército.

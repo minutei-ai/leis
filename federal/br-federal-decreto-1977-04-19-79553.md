@@ -1,5 +1,3 @@
-###DEC-079553-0-000-19-04-1977@@@
-
 Decreto nº 79.553, de 19 de abril de 1977.
 
 Aprova o Regulamento para a Diretoria do Pessoal Militar da Marinha.

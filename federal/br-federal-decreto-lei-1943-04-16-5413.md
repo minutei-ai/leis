@@ -1,5 +1,3 @@
-###DEL-005413-0-000-16-04-1943@@@
-
 DECRETO‑LEI N. 5.413 – DE 16 DE ABRil DE 1943
 
 Manda aplicar aos desertores primários do Exército disposições do artigo 271 do Código da Justiça Militar

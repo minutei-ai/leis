@@ -1,5 +1,3 @@
-###DEC-097451-0-000-13-01-1989@@@
-
 DECRETO N° 97.451, DE 13 DE JANEIRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “GLEBA JACARÉ VALENTE”, classificado como “latifúndio por exploração”, situado no Município de Santa Terezinha, no Estado de Mato Grosso, compreendido na zona prioritária, fixada pelo Decreto n° 92.620 de 2 de maio de 1986, e dá outras providências.

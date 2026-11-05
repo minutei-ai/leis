@@ -1,5 +1,3 @@
-###DEC-069226-0-000-21-09-1971@@@
-
 DECRETO Nº 69.226, DE 21 DE SETEMBRO DE 1971.
 
 Aproveita servidor em disponibilidade e dá outras providências.

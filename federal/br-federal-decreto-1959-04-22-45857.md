@@ -1,5 +1,3 @@
-###DEC-045857-0-000-22-04-1959@@@
-
 DECRETO Nº 45.857, DE 22 DE ABRIL DE 1959.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a instalar uma usina termelétrica.

@@ -1,5 +1,3 @@
-###MPV-001697-0-060-25-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.697-60, DE 25 DE NOVEMBRO DE 1998.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

@@ -1,5 +1,3 @@
-###DEC-052823-0-000-13-11-1963@@@
-
 DECRETO Nº 52.823, DE 13 DE NOVEMBRO DE 1963.
 
 Renova o Decreto nº 487, de 8 de janeiro de 1962.

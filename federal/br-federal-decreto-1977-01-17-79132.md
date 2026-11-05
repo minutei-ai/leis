@@ -1,5 +1,3 @@
-###DEC-079132-0-000-17-01-1977@@@
-
 DECRETO Nº 79.132, DE 17 de JANEIRO DE 1977.
 
 Estabelece a obrigatoriedade de utilização do transporte ferroviário, marítimo, fluvial ou lacustre para as cargas dos órgãos e entidades da Administração Pública Federal e fundações instituídas pela União.

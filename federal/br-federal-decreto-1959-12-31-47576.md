@@ -1,5 +1,3 @@
-###DEC-047576-0-000-31-12-1959@@@
-
 DECRETO Nº 47.576, DE 31 DE DEZEMBRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia de Seguros Aliança do Pará.

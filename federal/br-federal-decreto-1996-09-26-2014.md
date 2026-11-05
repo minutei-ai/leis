@@ -1,7 +1,3 @@
-1
-
-###DEC-002014-0-000-26-09-1996@@@
-
 DECRETO Nº 2.014, DE 26 DE SETEMBRO DE 1996.
 
 Delega competência para nomeação das autoridades que menciona, e dá outras providências.

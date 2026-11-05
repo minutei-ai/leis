@@ -1,5 +1,3 @@
-###DEC-086025-0-000-22-05-1981@@@
-
 Decreto nº 86.025, de 22 de maio de 1981.
 
 Regulamenta a habilitação em licitações promovidas pela Administração direta e autárquica, revoga disposições do Decreto nº 73.140, de 09 de novembro de 1973, e dá outras providências.

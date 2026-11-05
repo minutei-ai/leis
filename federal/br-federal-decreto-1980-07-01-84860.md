@@ -1,5 +1,3 @@
-###DEC-084860-0-000-01-07-1980@@@
-
 Decreto nº 84.860, de 01 de julho de 1980.
 
 Autoriza a Confederação Nacional dos Trabalhadores nas Empresas de Crédito a filiar-se à Federação Internacional de Empregados e Técnicos.

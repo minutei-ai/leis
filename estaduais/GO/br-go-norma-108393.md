@@ -174,8 +174,6 @@ b) aos incisos III e IV do art. 5º deste Decreto.
 
 Goiânia, 9 de janeiro de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

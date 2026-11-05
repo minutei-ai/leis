@@ -1,5 +1,3 @@
-###DEC-067144-0-000-08-09-1970@@@
-
 Decreto nº 67.144, de 8 de setembro de 1970.
 
 Declara de utilidade pública a "Obra Social da Associação de São Vicente de Paulo", com sede em Bom Despacho, Estado de Minas Gerais.

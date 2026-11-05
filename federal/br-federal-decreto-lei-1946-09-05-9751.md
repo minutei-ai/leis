@@ -1,5 +1,3 @@
-###DEL-009751-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.751 – DE 5 DE SETEMBRO DE 1946
 
 Extingue a Mesa de Rendas de 1ª Ordem sediada em Santa Isabel, no Município de Arrôio Grande, Estado do Rio Grande do Sul, e dá outras providências.

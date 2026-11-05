@@ -1,5 +1,3 @@
-###DEC-053329-0-000-18-12-1963@@@
-
 Decreto nº 53.329, de 18 de dezembro de 1963.
 
 Regula a situação de alunos que cursem, simultâneamente, colégio industrial e colégio secundário.

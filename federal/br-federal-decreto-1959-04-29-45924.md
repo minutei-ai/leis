@@ -1,5 +1,3 @@
-###DEC-045924-0-000-29-04-1959@@@
-
 DECRETO Nº 45.924, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Jean Claude Abel Heymann a pesquisar caulim, argila e feldspato, no município de Santana do Parnaíba, Estado de São Paulo.

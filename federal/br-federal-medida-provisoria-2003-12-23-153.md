@@ -1,5 +1,3 @@
-###MPV-000153-0-000-23-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 153, DE 23 DE DEZEMBRO 2003.
 
 Institui a Taxa de Avaliação in loco das instituições de educação superior e das condições de ensino dos cursos de graduação e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006800-0-000-17-08-1944@@@
-
 DECRETO-LEI N. 6.800 – DE 17 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 73.320,00 para pagamento de despesa que específica e anula importância equivalente em verba do vigente orçamento

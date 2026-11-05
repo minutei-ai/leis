@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/649e0e2a-ad1e-4926-bbf3-f3d163d26101/texto#nowhere)
 
-###DEL-001043-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.043, DE 21 DE OUTUBRO DE 1969
 
 Estabelece nova exigência pare registro de diploma de professor de Educação Física conferido por estabelecimento militar de ensino.

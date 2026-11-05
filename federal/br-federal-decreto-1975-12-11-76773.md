@@ -1,5 +1,3 @@
-###DEC-076773-0-000-11-12-1975@@@
-
 DECRETO Nº 76.773, DE 11 DE DEZEMBRO DE 1975.
 
 Retifica o Decreto nº 74.391, de 12 de agosto de 1974, que declarou de interesse social, para fins de desapropriação, imóvel rural situado no Estado de Santa Catarina, compreendida na área prioritária de Reforma Agrária, de que trata o Decreto nº 69.411, de 22 de outubro de 1971.

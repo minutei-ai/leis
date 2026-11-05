@@ -1,5 +1,3 @@
-###DEC-086512-0-000-29-10-1981@@@
-
 Decreto nº 86.512, de 29 de outubro de 1981
 
 Altera o prazo de recolhimento das contribuições de Previdência Social e dá outras providências.
@@ -21,8 +19,6 @@ AURELIANO CHAVES
 Ernane Galvêas
 
 Jair Soares
-
-###DEC-086512-0-000-29-10-1981@@@RET01+++
 
 DECRETO nº 86.512, de 29 DE OUTUBRO DE 1981
 

@@ -1,5 +1,3 @@
-###DEC-097058-0-000-10-11-1988@@@
-
 DECRETO Nº 97.058, DE 10 DE NOVEMBRO DE 1988
 
 Reajusta efetivos de Oficiais da Força Aérea Brasileira para 1988.
@@ -12,7 +10,55 @@ Art. 1º São reajustados nos Quadros de Oficiais Intendentes e de Especialistas
 
 2 - Oficiais Superiores, Intermediários e Subalternos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">Postos</span></p></td><td style="width:28.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">Quadros</span></p></td><td style="width:28.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:28.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">Cel.</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">T.Cel.</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">Maj.</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">Cap.</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">1º Ten.</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">2º Ten.</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">Total</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">Intendentes</span></p></td><td style="width:28.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">46</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">133</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">219</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">256</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">235</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">104</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">993</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">Esp. Sup. Técnico</span></p></td><td style="width:28.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:spaces">&nbsp;</span><span style="font-family:'Times New Roman'">-</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">9</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">22</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">62</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">11</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'; -aw-import:spaces">&nbsp;</span><span style="font-family:'Times New Roman'">-</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:8pt"><span style="font-family:'Times New Roman'">104</span></p></td></tr></tbody></table>
+Postos
+
+Quadros
+
+Cel.
+
+T.Cel.
+
+Maj.
+
+Cap.
+
+1º Ten.
+
+2º Ten.
+
+Total
+
+Intendentes
+
+46
+
+133
+
+219
+
+256
+
+235
+
+104
+
+993
+
+Esp. Sup. Técnico
+
+-
+
+9
+
+22
+
+62
+
+11
+
+-
+
+104
 
 Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

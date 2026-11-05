@@ -1,5 +1,3 @@
-###DEC-076907-0-000-24-12-1975@@@
-
 DECRETO Nº 76.907, DE 24 DE DEZEMBRO DE 1975.
 
 Altera limites de Decreto nº 75.386, de 17 de fevereiro de 1975, e dá outras providências.

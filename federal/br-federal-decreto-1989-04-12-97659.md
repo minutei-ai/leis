@@ -1,7 +1,3 @@
-1
-
-###DEC-097659-0-000-12-04-1989@@@
-
 DECRETO Nº 97.659, DE 12 DE ABRIL DE 1989
 
 Concede honra de Ministro de Estado ao Doutor Dilson Domingos Funaro.

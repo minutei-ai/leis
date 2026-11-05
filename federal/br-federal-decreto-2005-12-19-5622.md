@@ -1,5 +1,3 @@
-###DEC-005622-0-000-19-12-2005@@@
-
 DECRETO Nº 5.622, DE 19 DE DEZEMBRO DE 2005.
 
 Regulamenta o art. 80 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional.

@@ -1,5 +1,3 @@
-###DEC-047815-0-000-03-03-1960@@@
-
 Decreto nº 47.815, de 3 de março de 1960.
 
 Suprime cargos extintos.

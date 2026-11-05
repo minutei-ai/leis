@@ -1,5 +1,3 @@
-###DEC-086031-0-000-27-05-1981@@@
-
 Decreto nº 86.031, de 27 de maio de 1981.
 
 Autoriza a Universidade Federal do Ceará a alienar bem imóvel de sua propriedade e dá outras providências.

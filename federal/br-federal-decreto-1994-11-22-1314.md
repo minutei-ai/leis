@@ -1,7 +1,3 @@
-1
-
-###DEC-001314-0-000-22-11-1994@@@
-
 DECRETO N° 1.314, DE 22 DE NOVEMBRO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão e funções gratificadas que menciona.

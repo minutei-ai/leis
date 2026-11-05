@@ -1,5 +1,3 @@
-###DEC-004966-0-000-30-01-2004@@@
-
 DECRETO Nº 4.966,  DE 30 DE JANEIRO DE 2004.
 
 Fixa o valor mínimo anual por aluno de que trata o art. 6º, § 1o, da Lei nº 9.424, de 24 de dezembro de 1996, para o exercício de 2004.

@@ -102,5 +102,6 @@ Art. 15. Este Decreto entra em vigor na data de sua publicação, revogando as d
 
 Aparecida de Goiânia, 11 de abril de 2025.
 
-Leandro Vilela Velloso<br>
+Leandro Vilela Velloso
+
 Prefeito Municipal

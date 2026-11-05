@@ -1,5 +1,3 @@
-###DEL-007364-0-000-08-03-1945@@@
-
 DECRETO-LEI N. 7.364 – de 08 DE MARÇO DE 1945
 
 Autoriza a permuta de imóvel da União, por terrenos pertencentes a Primo Tedesco, situados no Município de Caçador, Estado de Santa Catarina, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-072425-0-000-03-07-1973@@@
-
 DECRETO Nº 72.425, DE 3 DE JULHO DE 1973.
 
 Cria o Centro Nacional de Educação Especial (CENESP), e da outras providências.

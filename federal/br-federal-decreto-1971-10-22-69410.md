@@ -1,5 +1,3 @@
-###DEC-069410-0-000-22-10-1971@@@
-
 DECRETO Nº 69.410 - DE 22 DE OUTUBRO DE 1971
 
 Autoriza funcionamento da Escola de Educação Física de Uberlândia, da Autarquia Educacional de Uberlândia, no Estado de Minas Gerais.

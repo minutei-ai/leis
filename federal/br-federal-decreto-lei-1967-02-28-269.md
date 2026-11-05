@@ -1,5 +1,3 @@
-###DEL-000269-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 269, DE 28 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a instituir a Fundação Universidade Federal de Sergipe e dá outras providências.

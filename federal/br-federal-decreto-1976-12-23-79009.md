@@ -1,5 +1,3 @@
-###DEC-079009-0-000-23-12-1976@@@
-
 DECRETO Nº 79.009, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento do curso de Educação Artística, da Faculdade de Música "Maestro Julião", com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

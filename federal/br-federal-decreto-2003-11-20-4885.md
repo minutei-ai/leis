@@ -1,5 +1,3 @@
-###DEC-004885-0-000-20-11-2003@@@
-
 DECRETO Nº 4.885, DE 20 DE NOVEMBRO DE 2003
 
 Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional de Promoção da Igualdade Racial - CNPIR, e dá outras providências.

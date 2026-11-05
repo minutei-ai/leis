@@ -1,5 +1,3 @@
-###DEC-047865-0-000-07-03-1960@@@
-
 DECRETO Nº 47.865, DE 7 DE março de 1960.
 
 Autoriza o cidadão brasileiro Nelson Derani a pesquisar minério de titânio no município de Piaçabuçu, Estado de Alagoas.

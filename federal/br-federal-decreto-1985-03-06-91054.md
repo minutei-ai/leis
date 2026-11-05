@@ -1,5 +1,3 @@
-###DEC-091054-0-000-06-03-1985@@@
-
 Decreto nº 91.054, de 06 de março de 1985
 
 Dispõe sobre o montante do Capital Social da Participação em Empreendimentos e Transportes S.A. - PETRASA.

@@ -1,5 +1,3 @@
-###DEC-061709-0-000-21-11-1967@@@
-
 DECRETO Nº 61.709, DE 21 DE NOVEMBRO DE 1967.
 
 Cria a “Base Naval de Val-de-Cães” e dá outras providências.

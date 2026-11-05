@@ -1,5 +1,3 @@
-###DEL-003316-0-000-28-05-1941@@@
-
 DECRETO-LEI N. 3.316 – DE 28 DE MAIO DE 1941
 
 Regula a promoção na Reserva Ativa

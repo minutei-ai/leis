@@ -1,5 +1,3 @@
-###DEC-046160-0-000-05-06-1959@@@
-
 decreto nº 46.160, de 5 de junho de 1959.
 
 Concede autorização à Cooperativa de Consumo dos Servidores e Assistidos do Departamento Arquidiocesano de Ação Social de Natal, a adotar nova categoria.

@@ -1,5 +1,3 @@
-###DEC-056019-0-000-23-04-1965@@@
-
 decreto nº 56.019, de 23 de abril de 1965.
 
 Autoriza a Mineração Serra Azul Limitada a pesquisar minérios de ferro, manganês e sílica, no município de Mateus Leme, Estado de Minas Gerais.

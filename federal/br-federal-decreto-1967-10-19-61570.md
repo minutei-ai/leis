@@ -1,5 +1,3 @@
-###DEC-061570-0-000-19-10-1967@@@
-
 DECRETO Nº 61.570, DE 19 DE OUTUBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia Fiação e Tecidos Cedro e Cachoeira no município de Araçaí, Estado de Minas Gerais e outorga concessão à Centrais Elétricas de Minas Gerais S.A. no município de Araçaí, Estado de Minas Gerais e dá outras providências.

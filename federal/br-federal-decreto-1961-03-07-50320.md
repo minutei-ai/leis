@@ -1,5 +1,3 @@
-###DEC-050320-0-000-07-03-1961@@@
-
 DECRETO N.º 50.320, DE 7 DE marçO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.386, de 21 de outubro de 1954, para fins de desapropriação, pelo Departamento Nacional de Estradas de Ferro, das áreas de terrenos e respectivas benfeitorias necessárias à construção da via de acesso à Estação de Cargas de Belo Horizonte, Estado de Minas Gerais.

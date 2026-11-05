@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/58f032d4-8ccf-49ae-8a0e-706557106429/texto#nowhere)
 
-###DEL-000784-0-000-25-08-1969@@@
-
 DECRetO-LEI Nº 784, DE 25 DE AGÔSTO DE 1969
 
 Dispõe sôbre o crédito rural e dá outras Providências.

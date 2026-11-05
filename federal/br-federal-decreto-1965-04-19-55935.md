@@ -1,5 +1,3 @@
-###DEC-055935-0-000-19-04-1965@@@
-
 DECRETO Nº 55.935, DE 19 DE ABRIL DE 1965.
 
 Retifica a relação que acompanhou o Decreto nº 51.650, de 7 de janeiro de 1963, que aprovou o enquadramento dos cargos e funções da Estrada de Ferro São Luís - Teresina e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092349-0-000-29-01-1986@@@
-
 DECRETO Nº 92.349, DE 29 DE JANEIRO DE 1986
 
 Regulamenta, no que diz respeito às entidades integrantes do Sistema Nacional de Previdência e Assistência Social - SINPAS, o disposto no artigo 6º da Lei nº 6.987, de 13 de abril de 1982, e dá outras providências.

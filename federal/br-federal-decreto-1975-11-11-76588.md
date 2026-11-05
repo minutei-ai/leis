@@ -1,5 +1,3 @@
-###DEC-076588-0-000-11-11-1975@@@
-
 DECRETO Nº 76.588, DE 11 DE NOVEMBRO DE 1975
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de uma área de terreno urbano, com benfeitorias, localizada na Cidade do Rio de Janeiro, Estado do Rio de Janeiro destinada ao serviço telefônico, pela Companhia Telefônica Brasileira.

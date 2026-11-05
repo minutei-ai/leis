@@ -1,5 +1,3 @@
-###DEC-048930-0-000-09-09-1960@@@
-
 DECRETO Nº 48.930, DE 9 DE SETEMBRO DE 1960.
 
 Altera dispositivos do Regimento aprovado pelo Decreto nº 21.890, de 4 de outubro de 1946.
@@ -427,8 +425,6 @@ Brasília, em 9 de setembro de 1960; 139º da Independência e 72º da Repúblic
 Juscalino Kubitschek
 
 S. Paes de Almeida
-
-###DEC-048930-0-000-09-09-1960@@@RET01+++
 
 DECRETO Nº 48.930, DE 9 DE SETEMBRO DE 1960.
 

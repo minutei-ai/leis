@@ -1,5 +1,3 @@
-###DEC-046299-0-000-30-06-1959@@@
-
 DECRETO Nº 46.299, DE 30 DE junho DE 1959.
 
 Autoriza a cidadã brasileira Maria de Jesus Wendel Mamede a pesquisar minério de ferro, dolomita e quartzito no Município de Santana do Parnaíba, Estado de São Paulo.

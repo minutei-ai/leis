@@ -1,5 +1,3 @@
-###MPV-002072-0-063-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.072-63, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sôbre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de Capital do Banco do Brasil S.A., e dá outras providências.

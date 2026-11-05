@@ -1,5 +1,3 @@
-###DEC-096002-0-000-03-05-1988@@@
-
 DECRETO Nº 96.002, DE 03 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO MATELÂNDIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Matelândia, Estado do Paraná.

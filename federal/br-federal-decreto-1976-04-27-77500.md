@@ -1,5 +1,3 @@
-###DEC-077500-0-000-27-04-1976@@@
-
 DECRETO Nº 77.500 - DE 27 DE ABRIL DE 1976
 
 Autoriza o funcionamento das habilitações em Física, em Química e em Biologia, no curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Guaxupé, no Estado de Minas Gerais.

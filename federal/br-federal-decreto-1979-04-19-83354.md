@@ -1,5 +1,3 @@
-###DEC-083354-0-000-19-04-1979@@@
-
 Decreto nº 83.354, de 19 de abril de 1979.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Televisão Vila Rica S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Belo Horizonte, Estado de Minas Gerais.

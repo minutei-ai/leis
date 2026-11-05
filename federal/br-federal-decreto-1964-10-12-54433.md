@@ -1,5 +1,3 @@
-###DEC-054433-0-000-12-10-1964@@@
-
 DECRETO Nº 54.433, DE 12 DE OUTUBRO DE 1964.
 
 Autoriza o Banco de La Nacion Argentina a instalar filial em São Paulo (SP).

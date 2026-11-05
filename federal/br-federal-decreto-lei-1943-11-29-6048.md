@@ -1,5 +1,3 @@
-###DEL-006048-0-000-29-11-1943@@@
-
 DECRETO‑LEI N. 6.048 – DE 29 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da justiça e Negócios Interiores o crédito suplementar de Cr$ 104. 000,00 à Verba que especifica

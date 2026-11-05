@@ -1,5 +1,3 @@
-###DEC-056559-0-000-09-07-1965@@@
-
 DECRETO Nº 56.559, DE 9 DE JULHO DE 1965.
 
 Autoriza a Companhia Minas da Passagem a pesquisar quartzito, no município de Mariana, Estado de Minas Gerais.

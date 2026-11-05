@@ -1,5 +1,3 @@
-###DEC-055547-0-000-11-01-1965@@@
-
 Decreto nº 55.547, de 11 de janeiro de 1965.
 
 Declara de Comissão Estadual de Energia do Estado da Guanabara “Órgão Auxiliar” do Conselho Nacional de Águas e Energia Elétrica, e dá outras providências.

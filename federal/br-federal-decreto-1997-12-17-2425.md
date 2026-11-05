@@ -1,5 +1,3 @@
-###DEC-002425-0-000-17-12-1997@@@
-
 DECRETO Nº 2.425, DE 17 DE DEZEMBRO DE 1997
 
 Cria, no Ministério do Exército, a Secretaria de Tecnologia da Informação e as Inspetorias de Saúde de Comando Militar de Área e dá outras providências.

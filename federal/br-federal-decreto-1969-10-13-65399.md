@@ -1,5 +1,3 @@
-###DEC-065399-0-000-13-10-1969@@@
-
 Decreto nº 65.399 - de 13 de outubro de 1969.
 
 Dá nova redação ao artigo 15 do Decreto nº 64.312, de 7 de abril de 1969.

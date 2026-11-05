@@ -1,5 +1,3 @@
-###DEC-075139-0-000-23-12-1974@@@
-
 DECRETO nº 75.139, DE 23 DE DEZEMBRO DE 1974.
 
 Fixa o valor tributável dos Produtos classificados no item 24.02.02.99 (cigarros) da Tabela de incidência do Imposto sobre Produtos Industrializados (TIPI), baixada com o Decreto n° 73.340, de 19 de dezembro de 1973, alterando a margem do varejista.

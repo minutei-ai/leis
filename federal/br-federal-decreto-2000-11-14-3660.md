@@ -1,5 +1,3 @@
-###DEC-003660-0-000-14-11-2000@@@
-
 DECRETO Nº 3.660, DE 14 DE NOVEMBRO DE 2000.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, do Banco do Estado do Maranhão S.A. - BEM.

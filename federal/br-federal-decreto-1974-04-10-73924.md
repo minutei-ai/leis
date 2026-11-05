@@ -1,5 +1,3 @@
-###DEC-073924-0-000-10-04-1974@@@
-
 DECRETO Nº 73.924, DE 10 DE ABRIL DE 1974.
 
 Concede à Argical - Comércio e Mineração Ltda. o direito de lavrar dolomito no Município de Tietê, Estado de São Paulo.

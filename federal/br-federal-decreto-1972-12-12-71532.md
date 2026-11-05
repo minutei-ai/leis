@@ -1,5 +1,3 @@
-###DEC-071532-0-000-12-12-1972@@@
-
 decreto nº 71.532 - de 12 de dezembro de 1972
 
 Muda a sede de Organizações Militares e dá outras providências.

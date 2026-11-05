@@ -1,5 +1,3 @@
-###DEC-085276-0-000-21-10-1980@@@
-
 decreto nº 85.276, de 21 de outubro de 1980.
 
 Autoriza o aumento de potência da RÁDIO EDUCADORA MARECHAL LTDA., na cidade de Marechal Cândido Rondon, Estado do Paraná.

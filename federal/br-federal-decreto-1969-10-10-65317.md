@@ -1,5 +1,3 @@
-###DEC-065317-0-000-10-10-1969@@@
-
 DECRETO Nº 65.317 - DE 10 DE OUTUBRO DE 1969.
 
 Dispõe sôbre o recolhimento ao Tesouro Nacional da cota do salário educação e sua transferência automática para o Fundo Nacional de Desenvolvimento da Educação.

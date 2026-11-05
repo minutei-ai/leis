@@ -1,5 +1,3 @@
-###DEC-078682-0-000-08-11-1976@@@
-
 DECRETO Nº 78.682, DE 8 DE NOVEMBRO DE 1976.
 
 Concede a José Pereira Martins, firma individual, o direito de lavrar agalmatolito no Município de Mateus Leme, Estado de Minas Gerais.

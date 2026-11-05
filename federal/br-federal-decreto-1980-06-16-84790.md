@@ -1,5 +1,3 @@
-###DEC-084790-0-000-16-06-1980@@@
-
 Decreto nº 84.790, de 16 de junho de 1980.
 
 Remova por 15 (quinze) anos a concessão outorgada à Fundação Casper Líbero, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de São Paulo, Estado de São Paulo.

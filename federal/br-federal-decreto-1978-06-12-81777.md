@@ -1,5 +1,3 @@
-###DEC-081777-0-000-12-06-1978@@@
-
 DECRETO Nº 81.777, DE 12 DE JUNHO DE 1978
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Cidade Jardim, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

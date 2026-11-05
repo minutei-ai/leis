@@ -1,5 +1,3 @@
-###MPV-001979-0-021\-28-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.979-21, DE 28 DE julho DE 2000.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

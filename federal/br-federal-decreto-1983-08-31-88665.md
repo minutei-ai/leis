@@ -1,5 +1,3 @@
-###DEC-088665-0-000-31-08-1983@@@
-
 DECRETO Nº 88.665, DE 31 de AGOSTO DE 1983
 
 Concede à COMPANHIA FERRO E AÇO DE VITÓRIA - COFAVI autorização para proceder a aumento de seu capital social.

@@ -1,5 +1,3 @@
-###MPV-000238-0-000-01-02-2005@@@
-
 MEDIDA PROVISÓRIA Nº 238, DE 1º DE FEVEREIRO DE 2005
 
 Institui, no âmbito da Secretaria-Geral da Presidência da República, o Programa Nacional de Inclusão de Jovens - ProJovem, cria o Conselho Nacional de Juventude - CNJ e cargos em comissão, e dá outras providências.

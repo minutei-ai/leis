@@ -1,5 +1,3 @@
-###DEC-085061-0-000-25-08-1980@@@
-
 Decreto nº 85.061, de 25 de agosto de 1980.
 
 Autoriza o funcionamento dos cursos de Administração e de Ciências Contábeis, da Fundação Faculdade Estadual de Filosofia, Ciências e Letras de Guarapuava, Estado do Paraná.

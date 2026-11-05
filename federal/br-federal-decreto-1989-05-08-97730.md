@@ -1,7 +1,3 @@
-1
-
-###DEC-097730-0-000-08-05-1989@@@
-
 DECRETO N° 97.730, DE 08 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Administração da Associação Baiana de Educadores Pró‑Ciência e Cultura.

@@ -1,5 +1,3 @@
-###DEC-056901-0-000-24-09-1965@@@
-
 DECRETO Nº 56.901, DE 24 DE SETEMBRO DE 1965.
 
 Dispõe sôbre as exposições de arte a que se refere o Decreto nº 53.942, de 3 de junho de 1964.

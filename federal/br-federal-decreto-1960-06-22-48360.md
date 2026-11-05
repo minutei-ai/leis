@@ -1,5 +1,3 @@
-###DEC-048360-0-000-22-06-1960@@@
-
 DECRETO Nº 48.360, DE 22 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Joseli Tanus a pesquisar micaxisto no município de Ubá, Estado de Minas Gerais.

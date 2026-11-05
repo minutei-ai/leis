@@ -1,5 +1,3 @@
-###DEC-058217-0-000-19-04-1966@@@
-
 DECRETO Nº 58.217, DE 19 DE ABRIL DE 1966.
 
 Concede à North Britsh & Mercantile Insurance Company Limited autorização para aumentar o capital destinado as suas operações de seguros no Brasil.

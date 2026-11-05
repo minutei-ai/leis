@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209635)<br>
-
 # DECRETO N° 68.650, DE 27 DE JUNHO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, e por prazo determinado, do Município de Osasco, parte do imóvel que especifica._

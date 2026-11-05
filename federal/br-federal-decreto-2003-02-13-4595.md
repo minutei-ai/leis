@@ -1,5 +1,3 @@
-###DEC-004595-0-000-13-02-2003@@@
-
 DECRETO Nº 4.595, DE 13 DE FEVEREIRO DE 2003.
 
 Dá nova redação ao art. 13 do Decreto no 3.363, de 11 de fevereiro de 2000, que cria a Comissão Interministerial para o reexame dos processos de anistia de que trata a Lei no 8.878, de 11 de maio de 1994.

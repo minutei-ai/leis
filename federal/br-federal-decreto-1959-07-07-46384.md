@@ -1,5 +1,3 @@
-###DEC-046384-0-000-07-07-1959@@@
-
 DECRETO Nº 46.384, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias ao máximo aproveitamento do vale do Rio Brumado e sua área de influência.

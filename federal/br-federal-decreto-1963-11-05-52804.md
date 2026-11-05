@@ -1,5 +1,3 @@
-###DEC-052804-0-000-05-11-1963@@@
-
 DECRETO Nº 52.804, DE 5 DE NOVEMBRO DE 1963.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Real de Seguros, inclusive aumento do capital social.

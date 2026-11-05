@@ -1,5 +1,3 @@
-###DEC-047097-0-000-26-10-1959@@@
-
 DECRETO Nº 47.097, de 26 de outubro de 1959.
 
 Autoriza despesa excedente.

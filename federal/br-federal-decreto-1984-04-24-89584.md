@@ -1,5 +1,3 @@
-###DEC-089584-0-000-24-04-1984@@@
-
 Decreto nº 89.584, de 24 de abril de 1984.
 
 Promulga as Emendas aos Artigos 24 e 25 da Constituição da Organização Mundial de Saúde, adotadas na Resolução nº WHA 29.38, aprovada pela 29a. Assembléia Mundial de Saúde.

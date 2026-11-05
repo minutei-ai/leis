@@ -1,5 +1,3 @@
-###DEC-064984-0-000-13-08-1969@@@
-
 decreto nº 64.984 - de 13 de agôsto de 1969.
 
 Inclui acesso rodoviário na programação de rodovia federal.

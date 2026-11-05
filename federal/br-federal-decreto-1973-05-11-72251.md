@@ -1,5 +1,3 @@
-###DEC-072251-0-000-11-05-1973@@@
-
 DECRETO Nº 72.251, DE 11 DE MAIO DE 1973.
 
 Concede a Alumínio Poços de Caldas S.A. o direito de lavrar bauxita no Município de Barão de Cocais, Estado de Minas Gerais.

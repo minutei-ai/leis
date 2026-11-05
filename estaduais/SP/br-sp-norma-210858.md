@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210858)<br>
-
 # DECRETO N° 69.474, DE 10 DE ABRIL DE 2025
 
 ### _Dispõe sobre o conflito de interesses no âmbito da Administração Pública direta e autárquica._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DISPOSIÇÕES GERAIS
 
 **Artigo 1° -** Este decreto dispõe sobre o conflito de interesses em situações ocorridas durante o exercício de cargo, função ou emprego no âmbito da Administração Pública direta e autárquica.
@@ -31,7 +30,8 @@ II - informação privilegiada: aquela que diz respeito a assuntos sigilosos ou 
 
 III - parente: pessoa unida a outra por consaguinidade ou afinidade, em linha reta ou colateral até o terceiro grau, bem como o cônjuge ou companheiro.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DO CONFLITO DE INTERESSES
 
 **Artigo 4° -** Para os fins deste decreto, conflito de interesses é a situação gerada pelo confronto entre os interesses públicos e privados, que possa comprometer o interesse coletivo ou influenciar, de maneira imprópria, o desempenho da função pública.
@@ -56,7 +56,8 @@ II - potencial, quando a situação em que se encontra o agente público proporc
 
 **§3° -** Observada a legislação aplicável à espécie, não configura conflito de interesses o exercício de atividade de magistério, durante ou após o exercício de cargo, função ou emprego.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 DAS SITUAÇÕES QUE CONFIGURAM CONFLITO DE INTERESSES
 
 **Artigo 6° -** Configura conflito de interesses real, inclusive:
@@ -83,7 +84,8 @@ VI - prestar serviços, ainda que em caráter eventual, a empresa cuja atividade
 
 **Parágrafo único -** A configuração do conflito de interesses real pode ensejar a instauração de procedimento administrativo disciplinar ou o ajuizamento de ação de improbidade, nos termos da legislação vigente.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 DA ANÁLISE E DA FISCALIZAÇÃO DO CONFLITO DE INTERESSES
 
 **Artigo 7° -** Fica instituído o Sistema Eletrônico Paulista de Conflito de Interesses - SPCI, com a finalidade de:
@@ -124,7 +126,8 @@ III - fiscalizar e investigar a configuração de conflito de interesses;
 
 IV - orientar e dirimir dúvidas e controvérsias acerca da interpretação das normas que regulam o conflito de interesses, inclusive as estabelecidas neste decreto.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 DISPOSIÇÕES FINAIS
 
 **Artigo 12 -** O disposto neste decreto não afasta as hipóteses de vedação, proibição, impedimento e suspeição previstas nas normas que regem a Administração Pública estadual, em especial, a [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), a Consolidação das Leis do Trabalho, e o Código de Ética da Administração Pública direta e autárquica do Estado de São Paulo.

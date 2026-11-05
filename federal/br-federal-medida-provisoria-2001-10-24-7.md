@@ -1,5 +1,3 @@
-###MPV-000007-0-000-24-10-2001@@@
-
 MEDIDA PROVISÓRIA Nº 7, DE 24 DE OUTUBRO DE 2001
 
 Altera a Lei nº 9.872, de 23 de novembro de 1999, que cria o Fundo de Aval para a Geração de Emprego e Renda - FUNPROGER.

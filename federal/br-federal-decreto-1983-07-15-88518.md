@@ -1,5 +1,3 @@
-###DEC-088518-0-000-15-07-1983@@@
-
 DECRETO Nº 88.518, DE 15 DE JULHO DE 1983
 
 Dispõe sobre a prorrogação do prazo concedido à Comissão Especial de Desestatização pelo Decreto nº 86.215, de 15 de julho de 1981, e dá outras providências.

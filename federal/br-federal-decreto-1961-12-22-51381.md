@@ -1,5 +1,3 @@
-###DEC-051381-0-000-22-12-1961@@@
-
 DECRETO Nº 51.381, DE 22 DE DEZEMBRO DE 1961.
 
 Consolida as normas relativas à concessão de vantagens ao pessoal com exercício em Brasília e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211772)<br>
-
 # DECRETO N° 70.051, DE 05 DE NOVEMBRO DE 2025
 
 ### _Autoriza a outorga de uso, ao Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP, de parte do imóvel que especifica, e dá providências correlatas._

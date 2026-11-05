@@ -1,5 +1,3 @@
-###DEL-004536-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.536 – DE 30 DE JULHO DE 1942
 
 Cria cargos em comissão no Departamento de Administração do Ministério da educação e Saude e dá outras providências

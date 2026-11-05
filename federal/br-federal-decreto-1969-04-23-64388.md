@@ -1,5 +1,3 @@
-###DEC-064388-0-000-23-04-1969@@@
-
 DECRETO Nº 64.388, DE 23 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Hospital São Roque, com sede em Severiano de Almeida, Estado do Rio Grande do Sul.

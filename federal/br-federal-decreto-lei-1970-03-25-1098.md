@@ -1,5 +1,3 @@
-###DEL-001098-0-000-25-03-1970@@@
-
 # DECRETO-LEI Nº 1.098, De 25 De MARÇO DE 1970
 
 Altera os limites do mar territorial do Brasil e dá outras providências.
@@ -47,8 +45,6 @@ Alfredo Buzaid
 Adalberto de Barros Nunes
 
 Mário Gibson Barboza
-
-###DEL-001098-0-000-25-03-1970@@@RET01+++
 
 # DECRETO-LEI Nº 1.098, DE 25 DE MARÇO DE 1970
 

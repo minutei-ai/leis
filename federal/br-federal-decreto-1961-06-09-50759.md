@@ -1,5 +1,3 @@
-###DEC-050759-0-000-09-06-1961@@@
-
 Decreto nº 50.759, de 9 de junho de 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Santa Cruz do Rio Pardo, Estado de São Paulo.

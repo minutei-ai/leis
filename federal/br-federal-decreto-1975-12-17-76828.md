@@ -1,5 +1,3 @@
-###DEC-076828-0-000-17-12-1975@@@
-
 DECRETO Nº 76.828, DE 17 DE DEZEMBRO DE 1975
 
 Concede autorização à empresa Lanifício do Rio Grande do Sul - Thomas Abornoz S.A ., com sede na Cidade de Santana do Livramento, Estado do Rio Grande do sul, para funcionar aos domingos e nos dias feriados civis e religiosos, nos setores que menciona.

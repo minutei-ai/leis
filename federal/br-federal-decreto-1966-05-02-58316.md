@@ -1,5 +1,3 @@
-###DEC-058316-0-000-02-05-1966@@@
-
 DECRETA Nº 58.316, DE 2 DE MAIO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros Pan América, inclusive aumento do capital social.

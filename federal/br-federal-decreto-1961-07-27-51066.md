@@ -1,5 +1,3 @@
-###DEC-051066-0-000-27-07-1961@@@
-
 DECRETO Nº 51.066, DE 27 DE JULHO DE 1961.
 
 Abre, ao Poder Judiciário - Tribunal Federal de Recursos, o crédito especial de Cr$86.286.924,00. para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-056613-0-000-26-07-1965@@@
-
 Decreto nº 56.613, de 26 de julho de 1965.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros Gerais Corcovado relativas à extensão das operações de seguros e resseguros ao Ramo Vida e ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-052417-0-000-28-08-1963@@@
-
 decreto nº 52.417, de 28 de agÔsto de 1963.
 
 Estabelece normas e condições de venda para os derivados do leite, mencionados na Portaria nº 40, de 21 de agôsto de 1963, da SUNAB e dá outras providências.

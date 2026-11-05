@@ -1,7 +1,3 @@
-1
-
-###DEC-099523-0-000-11-09-1990@@@
-
 DECRETO N° 99.523, DE 11 DE SETEMBRO DE 1990
 
 Dispõe sobre inclusões no Programa Nacional de Desestatização.

@@ -1,5 +1,3 @@
-###DEC-052731-0-000-23-10-1963@@@
-
 decreto nº 52.731, de 23 de outubro de 1963.
 
 Aprova alteração introduzida nos Estatutos da Sul América, Terrestres, Marítimos e Acidentes Companhia de Seguros, relativa ao aumento do capital social.

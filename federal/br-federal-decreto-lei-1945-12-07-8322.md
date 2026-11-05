@@ -1,5 +1,3 @@
-###DEL-008322-0-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.322 – DE 7 DE DEZEMBRO DE 1945
 
 Torna extensivo aos servidores dos Territórios Federais o abono de emergência concedido aos servidores civis e militares da União.

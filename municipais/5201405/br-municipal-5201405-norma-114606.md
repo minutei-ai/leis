@@ -23,15 +23,16 @@ SITUAÇÃO PROPOSTA 
 | Lote 01C | 5.850,00 |
 | Lote 01D | 5.345,34 |
 
-<br>
 Parágrafo único. O desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.241.046, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
 Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 21 de fevereiro de 2024. 
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

@@ -1,5 +1,3 @@
-###DEC-058651-0-000-16-06-1966@@@
-
 DECRETO Nº 58.651, DE 16 DE junho DE 1966.
 
 Aprova o Regimento do Serviço de Engenharia Civil do Departamento dos Correios e Telégrafos.
@@ -349,8 +347,6 @@ Art. 24. Os casos omissos, que envolvam matéria regimental, serão resolvidos p
 Brasília, 16 de junho de 1966.
 
 Juarez távora
-
-###DEC-058651-0-000-16-06-1966@@@RET01+++
 
 DECRETO Nº 58.651, DE 16 DE JUNHO DE 1966.
 

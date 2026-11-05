@@ -1,5 +1,3 @@
-###DEC-059486-0-000-09-11-1966@@@
-
 decreto Nº 59.486, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza a Companhia Siderúrgica Ita-Minas a pesquisar minérios de ferro e manganês no município de Itatiaiuçu, Estado de Minas Gerais.

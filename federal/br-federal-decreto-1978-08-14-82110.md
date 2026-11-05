@@ -1,5 +1,3 @@
-###DEC-082110-0-000-14-08-1978@@@
-
 Decreto nº 82.110, de 14 de agosto de 1978.
 
 Regulamenta a Lei nº 6.305, de 15 de dezembro de 1975, que institui a classificação de produtos vegetais, subprodutos e resíduos de valor econômico, e dá outras providências.

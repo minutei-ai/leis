@@ -1,5 +1,3 @@
-###DEC-067089-0-000-20-08-1970@@@
-
 DEcreto nº 67.089, de 20 de agôsto de 1970.
 
 Dispõe sôbre a cessão, a Universidades e Escolas de Ensino Superior Brasileiras, de equipamentos adquiridos pela União.

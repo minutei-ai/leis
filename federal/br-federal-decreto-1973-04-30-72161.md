@@ -1,5 +1,3 @@
-###DEC-072161-0-000-30-04-1973@@@
-
 DECRETO Nº 72.161, DE 30 DE ABRIL DE 1973.
 
 Cria, no Ministério das Relações Exteriores, a Unidade de Negociação e dá outras providências.

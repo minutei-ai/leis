@@ -1,5 +1,3 @@
-###MPV-000585-0-000-23-10-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº  585, DE 23 DE OUTUBRO DE 2012
 
 Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios no exercício de 2012, com o objetivo de fomentar as exportações do País.

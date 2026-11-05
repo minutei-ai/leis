@@ -1,5 +1,3 @@
-###DEC-051221-0-000-22-08-1961@@@
-
 DECRETO Nº 51.221, DE 22 DE AGÔSTO DE 1961.
 
 Concede à Sociedade Mineração Sepetiba Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEL-000150-0-000-09-02-1967@@@
-
 DECRETO-LEI Nº 150, DE 9 DE FEVEREIRO DE 1967
 
 Dispensa de registro, no Serviço Nacional de Fiscalização da Medicina e Farmácia, os diplomas expedidos por Escolas ou Faculdades de Medicina e de Farmácia.

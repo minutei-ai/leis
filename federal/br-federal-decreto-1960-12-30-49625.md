@@ -1,5 +1,3 @@
-###DEC-049625-0-000-30-12-1960@@@
-
 DECRETO Nº 49.625, DE 30 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia de Cimento Portland Paraiso a pesquisar calcário no município de Campos, Estado do Rio de Janeiro.

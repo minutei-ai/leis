@@ -1,5 +1,3 @@
-###DEC-071732-0-000-18-01-1973@@@
-
 DECRETO Nº 71.732, DE 18 DE JANEIRO DE 1973.
 
 Redistribui, com os respectivos ocupantes, para o Ministério da Marinha, cargos originários dos extintos Companhia Nacional de Navegação Costeira - Autarquia Federal, do Lloyd Brasileiro - Patrimônio Nacional, do Serviço de Navegação da Amazônia e de Administração do Porto do Pará e do Serviço de Navegação da Bacia do Prata, e dá outras providências.

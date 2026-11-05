@@ -1,5 +1,3 @@
-###DEC-003482-0-000-23-05-2000@@@
-
 DECRETO Nº 3.482, DE 23 DE MAIO DE 2000
 
 Dá nova redação ao art. 1º do Decreto nº 2.773, de 8 de setembro de 1998, que cria a Comissão de Controle e Gestão Fiscal - CCF.

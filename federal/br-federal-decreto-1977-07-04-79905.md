@@ -1,5 +1,3 @@
-###DEC-079905-0-000-04-07-1977@@@
-
 Decreto nº 79.905, de 4 de julho de 1977
 
 Concede à Mineração Rio do Norte S.A. o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

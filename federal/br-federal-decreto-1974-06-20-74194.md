@@ -1,5 +1,3 @@
-###DEC-074194-0-000-20-06-1974@@@
-
 DECRETO nº 74.194, de 20 de junho de 1974.
 
 Concede reconhecimento aos cursos de Psicologia e de Serviço Social da Universidade de Brasília, mantida pela Fundação Universidade de Brasília, com sede na cidade de Brasília, Distrito Federal.

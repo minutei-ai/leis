@@ -1,5 +1,3 @@
-###DEC-083494-0-000-24-05-1979@@@
-
 Decreto nº 83.494, de 24 de maio de 1979.
 
 Disciplina a função do acompanhamento, prevista no Decreto nº 71.353, de 9 de novembro de 1972, e dá outras providências.

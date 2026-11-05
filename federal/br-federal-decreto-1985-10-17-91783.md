@@ -1,5 +1,3 @@
-###DEC-091783-0-000-17-10-1985@@@
-
 Decreto nº 91.783, de 17 de outubro de 1985
 
 Altera dispositivos do Decreto nº 89.121, de 06 de dezembro de 1983, que dispõe sobre a utilização e a exploração dos aeroportos e das facilidades à navegação aérea.

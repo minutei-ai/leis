@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209844)<br>
-
 # DECRETO N° 68.774, DE 14 DE AGOSTO DE 2024
 
 ### _Transfere, da Procuradoria Geral do Estado para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Mairiporã._

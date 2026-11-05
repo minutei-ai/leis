@@ -17,7 +17,3 @@ Palácio da Liberdade, em Belo Horizonte, 29 de abril de 1946.
 JOÃO TAVARES CORRÊA BERALDO
 
 Jair Negrão de Lima
-
-\============================
-
-Data da última atualização: 04/09/2006.

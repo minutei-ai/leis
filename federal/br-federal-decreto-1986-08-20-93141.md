@@ -1,5 +1,3 @@
-###DEC-093141-0-000-20-08-1986@@@
-
 DECRETO Nº 93.141, DE 20 DE AGOSTO DE 1986
 
 Declara de ocupação dos indígenas KULINA, área de terra no Município de Feijó, no Estado do Acre - AC, e dá outras providências.

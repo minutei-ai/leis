@@ -1,5 +1,3 @@
-###DEC-054323-0-000-28-09-1964@@@
-
 DECRETO Nº 54.323, DE 28 DE SETEMBRO DE 1964.
 
 Outorga à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica.

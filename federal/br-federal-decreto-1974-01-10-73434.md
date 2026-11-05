@@ -1,5 +1,3 @@
-###DEC-073434-0-000-10-01-1974@@@
-
 DECRETO Nº 73.434, DE 10 DE JANEIRO DE 1974.
 
 Concede a EMASA - Engenharia e Mineração S.A. o direito de lavrar granito no Município do Rio de Janeiro, Estado da Guanabara.

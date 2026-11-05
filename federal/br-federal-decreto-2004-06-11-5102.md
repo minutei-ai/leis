@@ -1,5 +1,3 @@
-###DEC-005102-0-000-11-06-2004@@@
-
 DECRETO Nº 5.102,  DE 11 DE JUNHO DE 2004
 
 Acresce inciso ao art. 7o do Decreto nº 4.901, de 26 de novembro de 2003, que institui o Sistema Brasileiro de Televisão Digital - SBTVD.

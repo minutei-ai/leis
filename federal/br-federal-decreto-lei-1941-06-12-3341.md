@@ -1,5 +1,3 @@
-###DEL-003341-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.341 – DE 12 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de réìs 1.200:000$0, para despesas do Instituto Agronômico do Norte

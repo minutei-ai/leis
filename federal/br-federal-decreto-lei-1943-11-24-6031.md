@@ -1,5 +1,3 @@
-###DEL-006031-0-000-24-11-1943@@@
-
 DECRETO\-LEI N. 6.031 – DE 24 DE NOVEMBRO DE 1943
 
 Modifica disposição do Regulamento para o Quadro de Estado Maior do Exército

@@ -1,5 +1,3 @@
-###DEC-055190-0-000-10-12-1964@@@
-
 DECRETO Nº 55.190, DE 10 DE DEZEMBRO DE 1964.
 
 Inclui função gratificada no Quadro de Pessoal do Ministério da Saúde.

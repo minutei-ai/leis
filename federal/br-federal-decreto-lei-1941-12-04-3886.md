@@ -1,5 +1,3 @@
-###DEL-003886-0-000-04-12-1941@@@
-
 DECRETO-LEI N. 3.886 – DE 4 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 2:000$0, à verba que especifica

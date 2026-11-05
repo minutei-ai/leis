@@ -1,5 +1,3 @@
-###DEC-060515-0-000-28-03-1967@@@
-
 DECRETO Nº 60.515, DE 28 DE MARÇO DE 1967.
 
 Cria cargo, em comissão, de Presidente do Instituto Brasileiro de Desenvolvimento Florestal.

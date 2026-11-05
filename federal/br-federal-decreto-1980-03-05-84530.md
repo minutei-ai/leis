@@ -1,5 +1,3 @@
-###DEC-084530-0-000-05-03-1980@@@
-
 Decreto nº 84.530,de 05 de março de 1980.
 
 Autoriza o funcionamento de curso de Enfermagem e Obstetrícia do Centro de Estudos Superiores de Londrina, Estado do Paraná.

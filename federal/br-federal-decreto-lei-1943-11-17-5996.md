@@ -1,5 +1,3 @@
-###DEL-005996-0-000-17-11-1943@@@
-
 DECRETO‑LEI N. 5.996 – DE 17 DE NOVEMBRO DE 1943
 
 Regula a inatividade do pessoal militar do Território do Acre

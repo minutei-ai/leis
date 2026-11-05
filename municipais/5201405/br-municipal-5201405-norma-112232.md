@@ -27,5 +27,6 @@ Art. 2º  Este Decreto entrará em vigor na data de sua publicação, revogando
 
  Aparecida de Goiânia, de 28 de janeiro de 2025.
 
-LEANDRO VILELA VELLOSO<br>
-PREFEITO MUNICIPAL<br>
+LEANDRO VILELA VELLOSO
+
+PREFEITO MUNICIPAL

@@ -1,5 +1,3 @@
-###DEC-076853-0-000-17-12-1975@@@
-
 DECRETO Nº 76.853, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Enfermagem da Universidade Federal de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

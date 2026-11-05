@@ -1,5 +1,3 @@
-###DEC-072960-0-000-19-10-1973@@@
-
 DECRETO Nº 72.960, DE 19 DE OUTUBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel destinado à implantação do Centro de Esportes e Educação Física da Universidade Federal da Bahia.

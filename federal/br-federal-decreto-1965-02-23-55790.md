@@ -1,5 +1,3 @@
-###DEC-055790-0-000-23-02-1965@@@
-
 DECRETO Nº 55.790, DE 23 DE FEVEREIRO DE 1965.
 
 Inclui localidades nas exceções de que trata o art. 1º do Decreto número 54.466, de 14 de outubro de 1964.

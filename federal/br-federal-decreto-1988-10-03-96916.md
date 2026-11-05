@@ -1,5 +1,3 @@
-###DEC-096916-0-000-03-10-1988@@@
-
 DECRETO Nº 96.916, DE 3 DE OUTUBRO DE 1988
 
 Autoriza o Banco Europeu para a América Latina - BEAL S.A. a instalar mais duas filiais no Brasil.

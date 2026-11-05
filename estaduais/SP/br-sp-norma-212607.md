@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212607)<br>
-
 # DECRETO N° 70.613, DE 13 DE MAIO DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, do Município de Sorocaba, parte do imóvel que especifica e dá providências correlatas._

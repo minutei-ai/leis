@@ -1,5 +1,3 @@
-###DEC-054929-0-000-04-11-1964@@@
-
 DECRETO Nº 54.929, DE 4 DE NOVEMBRO DE 1964.
 
 Declara caduco o decreto 25.980 de 8 de dezembro de 1948.

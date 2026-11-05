@@ -1,5 +1,3 @@
-###DEC-060893-0-000-23-06-1967@@@
-
 DECRETO Nº 60.893, DE 23 DE JUNHO DE 1967.
 
 Dá nova redação ao parágrafo único do art. 2º do Decreto nº 60.466, de 14 de março de 1967.
@@ -19,8 +17,6 @@ Brasília, 23 de junho de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 Jarbas G. Passarinho
-
-###DEC-060893-0-000-23-06-1967@@@RET01+++
 
 DECRETO Nº 60.893, DE 23 DE JUNHO DE 1967.
 

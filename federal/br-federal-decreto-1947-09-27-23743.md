@@ -1,12 +1,10 @@
-###DEC-023743-0-000-27-09-1947@@@
+**DECRETO Nº 23.743 – DE 27 DE SETEMBRO DE 1947**
 
-<strong>DECRETO Nº 23.743 – DE 27 DE SETEMBRO DE 1947</strong>
+***Altera o art. 51 do Regulamento aprovado pelo Decreto nº 54, de 12 de setembro de 1934.***
 
-<em><strong>Altera o art. 51 do Regulamento aprovado pelo Decreto nº 54, de 12 de setembro de 1934.</strong></em>
+O **PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-O <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Art. 1º O art. 51 do Regulamento aprovado pelo Decreto nº 54, de 12 de setembro de 1934, passa a ter a seguinte redação:
 
@@ -24,6 +22,6 @@ Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas 
 
 Rio de Janeiro, 27 de setembro de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Morvan Figueiredo

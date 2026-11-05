@@ -1,5 +1,3 @@
-###DEC-007162-0-000-29-04-2010@@@
-
 DECRETO Nº 7.162, DE 29 DE ABRIL DE 2010.
 
 Autoriza o aumento do capital social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078742-0-000-17-11-1976@@@
-
 DECRETO Nº 78.742, DE 17 DE NOVEMBRO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

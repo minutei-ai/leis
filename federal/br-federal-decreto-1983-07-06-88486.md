@@ -1,5 +1,3 @@
-###DEC-088486-0-000-06-07-1983@@@
-
 DECRETO Nº 88.486, DE 06 DE JULHO DE 1983
 
 Reduz o interstício no posto de Coronel Médico do Quadro de Saúde do Exército, para as promoções de 31 de julho de 1983.

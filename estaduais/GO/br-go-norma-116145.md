@@ -174,10 +174,12 @@ III – 6 de abril de 2026, em relação ao art. 1º deste Decreto; e
 
 IV – 4 de maio de 2026, em relação aos arts. 4º e 8º deste Decreto.
 
-Goiânia, 8 de julho de 2026; 138º da República.<br>
+Goiânia, 8 de julho de 2026; 138º da República.
+
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO

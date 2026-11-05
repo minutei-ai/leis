@@ -1,5 +1,3 @@
-###DEC-059782-0-000-19-12-1966@@@
-
 Decreto nº 59.782, de 19 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Waldomiro Rodrigues de Oliveira a pesquisar feldspato e mica, no município de Resplendor, Estado de Minas Gerais.

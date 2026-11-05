@@ -190,8 +190,6 @@ V – 1º de outubro de 2020 a 31 de dezembro de 2020, quanto ao _caput_do art. 
 
 Goiânia, 16 de junho de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEL-001361-0-000-22-11-1974@@@
-
 # DECRETO-LEI Nº 1.361, DE 22 DE NOVEMBRO DE 1974
 
 Reajusta os vencimentos dos servidores do Distrito Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077575-0-000-11-05-1976@@@
-
 DECRETO Nº 77.575, DE 11 DE MAIO DE 1976
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Educação Ciências e Letras de Cascavel, com sede na cidade de Cascavel, Estado do Paraná.

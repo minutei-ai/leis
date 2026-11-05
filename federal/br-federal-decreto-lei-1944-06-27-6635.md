@@ -1,5 +1,3 @@
-###DEL-006635-0-000-27-06-1944@@@
-
 DECRETO-LEI N. 6.635 – DE 27 DE JUNHO DE 1944
 
 Dispõe sôbre a organização, em cooperativas, dos produtores de erva mate

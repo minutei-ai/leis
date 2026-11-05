@@ -1,5 +1,3 @@
-###DEC-058221-0-000-19-04-1966@@@
-
 DECRETO Nº 58.221, DE 19 DE ABRIL DE 1966.
 
 Considera data festiva da Fôrça Aérea Brasileira o dia 22 de abril.

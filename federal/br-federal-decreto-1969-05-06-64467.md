@@ -1,5 +1,3 @@
-###DEC-064467-0-000-06-05-1969@@@
-
 Decreto nº 64.467, de 6 de maio de 1969.
 
 Modifica nome de Faculdade.

@@ -1,5 +1,3 @@
-###DEL-005430-0-000-28-04-1943@@@
-
 DECRETO‑LEI N. 5.430 – DE 28 DE ABRIL DE 1943
 
 Dispõe sobre comissionamento de oficiais do Exército em posto superior e dá outras providências

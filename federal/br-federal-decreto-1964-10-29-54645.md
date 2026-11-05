@@ -1,5 +1,3 @@
-###DEC-054645-0-000-29-10-1964@@@
-
 Decreto nº 54.645, de 29 de outubro de 1964.
 
 Suspende o funcionamento do Instituto Cultural Brasil-Cuba, com sede no Estado da Guanabara.

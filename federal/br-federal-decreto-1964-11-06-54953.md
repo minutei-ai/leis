@@ -1,5 +1,3 @@
-###DEC-054953-0-000-06-11-1964@@@
-
 DECRETO Nº 54.953, DE 6 de novembro de 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno sito na Cidade de Ladário, Estado de Mato Grosso.

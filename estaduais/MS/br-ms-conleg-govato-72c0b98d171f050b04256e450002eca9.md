@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:22:12.000Z"
 sha256_fonte: "524a6ad66c358f7b0ae01f9e79e0780a637e4c4debbf84652116a85c59f179f8"
 sha256_markdown: "85643bbc9cb2579912bbb1524c0847fd3ed32de283832f4dc270adbce37c344a"
 ---
-
 # LEI Nº 1.206, DE 7 DE OUTUBRO DE 1991.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,17 +20,18 @@ Aprova o Orçamento da Companhia de Desenvolvimento Econômico de Mato Grosso do
 
 Publicada no Diário Oficial nº 3.153, de 8 de outubro de 1991.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica aprovado o Orçamento da Companhia de Desenvolvimento Econômico de Mato Grosso do Sul - CODEMS, estimada a receita e fixada a despesa em igual valor de Cr$ 151.529.000,00 (cento e cinqoenta e um milhões e quinhentos e vinte e nove mil cruzeiros) na forma do detalhamento constante nos anexos I e II a esta Lei.<br>
-<br>
-Art. 2º Os respectivos créditos adicionais serão abertos pelo Poder Executivo nos termos do art. 68, da Lei nº 1.140, de 07 de maio de 1991.<br>
-<br>
-Art. 3º Esta Lei entrará em vigor na data de sua publicação, revagadas as demais disposições em contrário.<br>
-<br>
-Campo Grande, 07 de outubro de 1991.<br>
-<br>
-PEDRO PEDROSSIAN<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica aprovado o Orçamento da Companhia de Desenvolvimento Econômico de Mato Grosso do Sul - CODEMS, estimada a receita e fixada a despesa em igual valor de Cr$ 151.529.000,00 (cento e cinqoenta e um milhões e quinhentos e vinte e nove mil cruzeiros) na forma do detalhamento constante nos anexos I e II a esta Lei.
+
+Art. 2º Os respectivos créditos adicionais serão abertos pelo Poder Executivo nos termos do art. 68, da Lei nº 1.140, de 07 de maio de 1991.
+
+Art. 3º Esta Lei entrará em vigor na data de sua publicação, revagadas as demais disposições em contrário.
+
+Campo Grande, 07 de outubro de 1991.
+
+PEDRO PEDROSSIAN
+
 Governador
 
 **Conferência da versão do texto.** Os arts. 1º a 3º do texto acima (Consultoria Legislativa) foram comparados, em leitura visual, com a página 1 do Diário Oficial nº 3.153 e coincidem no conteúdo (diferenças de grafia do texto: “cinqoenta” no art. 1º e “revagadas” no art. 3º, onde o impresso traz “cinquenta” e “revogadas”); o texto não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.

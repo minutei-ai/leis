@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208143)<br>
-
 # DECRETO LEGISLATIVO N° 2.542, DE 30 DE MAIO DE 2023
 
 ### _Aprova a indicação de membro para integrar o Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP_

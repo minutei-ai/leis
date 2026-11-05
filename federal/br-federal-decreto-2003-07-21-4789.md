@@ -1,5 +1,3 @@
-###DEC-004789-0-000-21-07-2003@@@
-
 DECRETO Nº 4.789, DE 21 DE JULHO DE 2003.       
 
 Dá nova redação aos arts. 10 e 53 do Regulamento de Pessoal do Serviço Exterior, aprovado pelo Decreto no 93.325, de 1º de outubro de 1986.
@@ -40,7 +38,8 @@ Parágrafo único.  No concurso público de provas para ingresso na classe ini
 
         Brasília, 21 de julho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
 Samuel Pinheiro Guimarães Neto

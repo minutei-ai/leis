@@ -1,5 +1,3 @@
-###DEC-078985-0-000-21-12-1976@@@
-
 DECRETO Nº 78.985, DE 21 DE DEZEMBRO DE 1976.
 
 Altera o Decreto número 71.848,de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei número 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas e dá outras providências.

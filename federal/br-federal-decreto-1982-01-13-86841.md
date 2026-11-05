@@ -1,5 +1,3 @@
-###DEC-086841-0-000-13-01-1982@@@
-
 Decreto nº 86.841, de 13 de janeiro de 1982
 
 Autoriza a transferência direta de concessão para executar serviço de radiodifusão sonora em onda tropical na cidade de Rondonópolis, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-005372-0-000-17-02-2005@@@
-
 DECRETO Nº 5.372 DE 17 DE FEVEREIRO DE 2005
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Genebra, Confederação Suíça.

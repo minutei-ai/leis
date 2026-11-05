@@ -1,5 +1,3 @@
-###DEC-050057-0-000-25-01-1961@@@
-
 DECRETO Nº 50.057, DE 25 DE JANEIRO DE 1961.
 
 Altera o Regulamento para o Colégio Naval.

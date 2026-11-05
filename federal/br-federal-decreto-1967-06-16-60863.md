@@ -1,5 +1,3 @@
-###DEC-060863-0-000-16-06-1967@@@
-
 DECRETO Nº 60.863, DE 16 DE JUNHO DE 1967.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a construir subestação receptora e declara de utilidade pública, para fins de desapropriação, área no Estado da Guanabara.

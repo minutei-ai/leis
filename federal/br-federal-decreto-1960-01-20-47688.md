@@ -1,5 +1,3 @@
-###DEC-047688-0-000-20-01-1960@@@
-
 DECRETO Nº 47.688, DE 20 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco Portela de Sampaio a pesquisar, areias ilmeníticas no município de Primeira Cruz, Estado do Maranhão.

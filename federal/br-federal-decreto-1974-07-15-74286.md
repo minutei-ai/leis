@@ -1,5 +1,3 @@
-###DEC-074286-0-000-15-07-1974@@@
-
 DECRETO Nº 74.286 - DE 15 DE JULHO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Por Um Mundo Melhor Ltda., para que a Fundação João XXIII, sob a denominação de Rádio Por Um Mundo Melhor, passe a executar serviço de radiodifusão sonora em onda tropical, na cidade de Governador Valadares, Estado de Minas Gerais.

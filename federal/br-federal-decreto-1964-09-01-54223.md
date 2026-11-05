@@ -1,5 +1,3 @@
-###DEC-054223-0-000-01-09-1964@@@
-
 DECRETO Nº 54.223, DE 1º DE SETEMBRO DE 1964.
 
 Retifica os Decretos ns. 1.565 e 51.915-B, de 21 de novembro de 1962 e de 26 de abril de 1963, respectivamente, relativos à Congregação de Santa Dorotéia do Brasil.

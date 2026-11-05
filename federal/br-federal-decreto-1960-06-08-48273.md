@@ -1,5 +1,3 @@
-###DEC-048273-0-000-08-06-1960@@@
-
 Decreto nº 48.273, de 8 de junho de 1960.
 
 Dispõe sôbre o regime jurídico do pessoal da Caixa de Crédito da Pesca.

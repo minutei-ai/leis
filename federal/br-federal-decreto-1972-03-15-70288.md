@@ -1,5 +1,3 @@
-###DEC-070288-0-000-15-03-1972@@@
-
 DECRETO Nº 70.288, DE 15 DE MARÇO DE 1972.
 
 Retifica o Decreto nº 69.902 de 6 de janeiro de 1972, que redistribuiu cargos, com os repectivos ocupantes, para a Universidade Federal do Rio Grande do Norte, e dá outras providências.

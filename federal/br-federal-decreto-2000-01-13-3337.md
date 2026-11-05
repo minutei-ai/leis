@@ -1,5 +1,3 @@
-###DEC-003337-0-000-13-01-2000@@@
-
 DECRETO Nº 3.337, DE 13 DE JANEIRO DE 2000.
 
 Prorroga a vigência dos Restos a Pagar que especifica.

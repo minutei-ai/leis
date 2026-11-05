@@ -1,6 +1,10 @@
 > **LEI Nº 4.591, DE 15 DE ABRIL DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a extensão excepcional da vigência do Plano Estadual de Educação - PEE para o decênio 2015-2024, aprovado por meio da Lei nº 2.965, de 2 de julho de 2015.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a extensão excepcional da vigência do Plano Estadual de Educação - PEE para o decênio 2015-2024, aprovado por meio da Lei nº 2.965, de 2 de julho de 2015.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

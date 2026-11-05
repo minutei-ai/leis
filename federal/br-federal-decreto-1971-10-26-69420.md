@@ -1,5 +1,3 @@
-###DEC-069420-0-000-26-10-1971@@@
-
 DECRETO Nº 69.420 - DE 26 de OUTUBRO DE 1971
 
 Declara de utilidade pública a Sociedade Educadora beneficente Providência Azul com sede em São Paulo, Estado de São Paulo.

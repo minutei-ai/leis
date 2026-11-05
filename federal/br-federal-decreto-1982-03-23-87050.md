@@ -1,5 +1,3 @@
-###DEC-087050-0-000-23-03-1982@@@
-
 Decreto nº 87.050, DE 23 de MARÇO DE 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa variável de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A.-CEMIG, no Estado de Minas Gerais.

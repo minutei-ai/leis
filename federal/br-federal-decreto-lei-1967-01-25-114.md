@@ -1,5 +1,3 @@
-###DEL-000114-0-000-25-01-1967@@@
-
 DECRETO-LEI Nº 114, De 25 DE JANEIRO DE 1967
 
 Cria cargos na carreira do Ministério Público do Distrito Federal, e dá outras providências.

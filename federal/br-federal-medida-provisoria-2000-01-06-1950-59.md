@@ -1,5 +1,3 @@
-###MPV-001950-0-059-06-01-2000@@@
-
 MEDIDA provisória nº 1.950-59, de 6 de janeiro de 2000.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

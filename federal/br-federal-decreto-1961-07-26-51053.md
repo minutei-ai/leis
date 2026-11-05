@@ -1,5 +1,3 @@
-###DEC-051053-0-000-26-07-1961@@@
-
 Decreto nº 51.053, de 26 de julho de 1961.
 
 Estende ao pessoal do Instituto Brasileiro de Geografia e Estatística a concessão do auxílio previsto no artigo 137 da Lei nº 1.711, de 28 de outubro de 1952.

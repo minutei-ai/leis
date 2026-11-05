@@ -28,24 +28,30 @@ Secretário de Infraestrutura
 
 ANEXO ÚNICO
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:460.45pt;border-collapse:collapse" width="614"><tbody><tr style="height:21.85pt"><td style="width:49.65pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ROD.</span></b></p></td><td style="width:69.8pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="93"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">INÍCIO</span></b></p></td><td style="width:60.6pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">FIM</span></b></p></td><td style="width:60.95pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">KM INICIAL</span></b></p></td><td style="width:56.45pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">KM FINAL</span></b></p></td><td style="width:77.95pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="104"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">EXTENSÃO KM</span></b></p></td><td style="width:3.0cm;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">SUPERFÍCIE</span></b></p></td></tr><tr style="height:21.85pt"><td style="width:49.65pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">BA-130</span></b></p></td><td style="width:69.8pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.85pt" valign="top" width="93"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">BR-116</span></b></p></td><td style="width:60.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.85pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">BR-330</span></b></p></td><td style="width:60.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">0,0</span></b></p></td><td style="width:56.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">13,3</span></b></p></td><td style="width:77.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="104"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">13,3</span></b></p></td><td style="width:3.0cm;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.85pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">PAV</span></b></p></td></tr></tbody></table>
+**ROD.**
+
+**INÍCIO**
+
+**FIM**
+
+**KM INICIAL**
+
+**KM FINAL**
+
+**EXTENSÃO KM**
+
+**SUPERFÍCIE**
+
+**BA-130**
+
+**BR-116**
+
+**BR-330**
+
+**0,0**
+
+**13,3**
+
+**13,3**
+
+**PAV**

@@ -1,5 +1,3 @@
-###DEC-047988-0-000-04-04-1960@@@
-
 DECRETO Nº 47.988, DE 4 DE ABRIL DE 1960.
 
 Autoriza estrangeiro a adquirir lote de terreno nacional interior que menciona, situado no Distrito Federal.

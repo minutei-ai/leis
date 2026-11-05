@@ -1,5 +1,3 @@
-###DEC-072342-0-000-08-06-1973@@@
-
 DECRETO nº 72.342, DE 8 DE JUNHO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Piraju, com os cursos de Pedagogia, Letras e Geografia e História, mantida Organização Pirajuense de Educação e Cultura, com sede na cidade de Piraju, Estado de São Paulo.

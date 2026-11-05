@@ -24,8 +24,6 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 1º de junho de 2021.
 
-<br>
-
 Deputado LISSAUER VIEIRA
 
 \- PRESIDENTE -

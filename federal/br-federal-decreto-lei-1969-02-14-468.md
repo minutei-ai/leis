@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7bd7ee18-0279-4189-8797-d4594f332763/texto#nowhere)
 
-###DEL-000468-0-000-14-02-1969@@@
-
 DECRETO-LEI Nº 468, DE 14 DE FEVEREIRO DE 1969
 
 Dispõe sôbre a liberação automática das quotas do fundo de participação dos Estados e do Distrito Federal e do Fundo de Participação dos Municípios, no exercício de 1969, e dá outras providências.

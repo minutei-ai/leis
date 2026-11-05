@@ -1,5 +1,3 @@
-###DEC-077776-0-000-08-06-1976@@@
-
 DECRETO Nº 77.776, DE 8 DE JUNHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da Subestação "Canindé", da LIGHT - Serviços de Eletricidade S. A., no Estado de São Paulo.

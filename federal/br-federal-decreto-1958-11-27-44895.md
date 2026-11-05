@@ -1,5 +1,3 @@
-###DEC-044895-0-000-27-11-1958@@@
-
 DECRETO Nº 44.895, DE 27 DE novembro DE 1958.
 
 Autoriza Francisco da Silva Neiva, a comprar pedras preciosas.

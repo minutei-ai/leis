@@ -1,5 +1,3 @@
-###DEC-049817-0-000-05-01-1961@@@
-
 DECRETO Nº 49.817, DE 5 DE JANEIRO DE 1961.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Itapeva, com sede em Itapeva, Estado de São Paulo.

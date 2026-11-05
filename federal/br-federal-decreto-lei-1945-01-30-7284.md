@@ -1,5 +1,3 @@
-###DEL-007284-0-000-30-01-1945@@@
-
 DECRETO-LEI N. 7.284 – DE 30 DE JANEIRO DE 1945
 
 Dispõe sobre funções gratificadas na Delegacia Regional do Ministério do Trabalho, Indústria e Comércio em São Paulo e exercício dos fucionários atingidos pelo Decreto-lei nº 7.128, de 7 de dezembro de 1944:

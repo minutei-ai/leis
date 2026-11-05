@@ -1,5 +1,3 @@
-###DEC-045405-0-000-12-02-1959@@@
-
 DECRETO Nº 45.405, DE 12 DE FEVEREIRO DE 1959.
 
 Aprova o Regulamento da Diretoria Administrativa da Diretoria Geral de Saúde do Exército. (DA/DGSE)

@@ -1,5 +1,3 @@
-###DEC-006638-0-000-07-11-2008@@@
-
 DECRETO Nº 6.638, DE 7 DE NOVEMBRO DE 2008.
 
 Cria a empresa pública Centro Nacional de Tecnologia Eletrônica Avançada S.A. - CEITEC, aprova seu Estatuto e dá outras providências.

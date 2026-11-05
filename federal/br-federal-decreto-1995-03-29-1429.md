@@ -1,7 +1,3 @@
-1
-
-###DEC-001429-0-000-29-03-1995@@@
-
 DECRETO Nº 1.429, DE 29 DE MARÇO DE 1995
 
 Altera o valor constante do Anexo do Decreto nº 1.385, de 6 de fevereiro de 1995, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 1995, e dá outras providências.

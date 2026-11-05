@@ -1,5 +1,3 @@
-###DEC-007637-0-000-08-12-2011-PUB-01@@@
-
 DECRETO Nº 7.637, DE 8 DE DEZEMBRO DE 2011.
 
 Altera o Decreto no 7.179, de 20 de maio de 2010, que institui o Plano Integrado de Enfrentamento ao Crack e outras Drogas.

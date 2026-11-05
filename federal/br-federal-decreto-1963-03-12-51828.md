@@ -1,5 +1,3 @@
-###DEC-051828-0-000-12-03-1963@@@
-
 DECRETO Nº 51.828, DE 12 DE MARÇO DE 1963.
 
 Outorga à Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, concessão para distribuir energia elétrica no distrito sede do município de General Câmara.

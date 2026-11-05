@@ -1,5 +1,3 @@
-###DEC-061140-0-000-08-08-1967@@@
-
 DECRETO Nº 61.140, DE 8 DE AGOSTO DE 1967.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Educação e Cultura e dá outras providências.

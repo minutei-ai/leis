@@ -1,5 +1,3 @@
-###DEC-070685-0-000-07-06-1972@@@
-
 DECRETO Nº 70.685, de 7 de junho de 1972.
 
 Redistribui, com a respectiva ocupante, para a Comissão Nacional de Energia Nuclear, cargo do Ministério da Aeronáutica, e dá outras providências.

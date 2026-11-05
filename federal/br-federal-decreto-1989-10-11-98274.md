@@ -1,7 +1,3 @@
-1
-
-###DEC-098274-0-000-11-10-1989@@@
-
 DECRETO N° 98.274, DE 11 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Geografia da Faculdade de Filosofia Santa Dorotéia, em Nova Friburgo, Rio de Janeiro.

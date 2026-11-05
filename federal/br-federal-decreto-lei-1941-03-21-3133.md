@@ -1,5 +1,3 @@
-###DEL-003133-0-000-21-03-1941@@@
-
 DECRETO-LEI N. 3.133 – DE 21 DE MARÇO DE 1941
 
 Autoriza o prefeito do Distrito Federal a isentar o Instituto S. Francisco de Sales de pagamento do imposto predial, do imovel que menciona.

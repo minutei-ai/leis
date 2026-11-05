@@ -1,5 +1,3 @@
-###DEL-004620-0-000-26-08-1942@@@
-
 DECRETO-LEI N. 4.620 – DE 26 DE AGOSTO DE 1942
 
 Abre ao Ministério da guerra o crédito especial de 159:940$0, para o fim que se especifica

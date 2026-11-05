@@ -1,5 +1,3 @@
-###DEC-094789-0-000-20-08-1987@@@
-
 DECRETO N° 94.789, DE 20 DE AGOSTO DE 1987
 
 Autoriza o aumento do capital autorizado da PETROBRÁS QUÍMICA S.A. - PETROQUISA.

@@ -1,5 +1,3 @@
-###DEC-062178-0-000-25-01-1968@@@
-
 DECRETO Nº 62.178, DE 25 DE JANEIRO DE 1968.
 
 Provê sôbre a transferência de estabelecimentos de ensino agrícola para Universidades e dá outras providências.

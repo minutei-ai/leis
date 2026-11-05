@@ -14,8 +14,10 @@ Art. 2º - Para o fim indicado nesta Lei, o Poder Executivo fica, igualmente, au
 
 Art.  3º - O imóvel doado reverterá ao patrimônio do Departamento de Estradas de Rodagem da Bahia - DERBA, na ocorrência de desvio de finalidade na utilização ou na hipótese de o projeto não estar concluído e as obras iniciadas até o dia 11 de outubro de 1990.
 
-Redação de acordo com a Lei nº 5.465, de 13 de outubro de 1989.<br>
-Redação anterior de acordo com a Lei nº 4.500, de 26 de setembro de 1985: "Art. 3º - O imóvel doado reverterá ao patrimônio do Departamento de Estrada de Rodagem da Bahia - DERBa na ocorrência de desvio de finalidade na utilização ou na hipótese de o projeto não estar concluído no prazo máximo de 03 (três) anos, a contar da data de assinatura da escritura de doação."<br>
+Redação de acordo com a Lei nº 5.465, de 13 de outubro de 1989.
+
+Redação anterior de acordo com a Lei nº 4.500, de 26 de setembro de 1985: "Art. 3º - O imóvel doado reverterá ao patrimônio do Departamento de Estrada de Rodagem da Bahia - DERBa na ocorrência de desvio de finalidade na utilização ou na hipótese de o projeto não estar concluído no prazo máximo de 03 (três) anos, a contar da data de assinatura da escritura de doação."
+
 Redação original: "Art. 3º - O imóvel doado reverterá ao patrimônio do Departamento de Estradas de Rodagem da Bahia - DERBA na ocorrência de desvio de finalidade na utilização ou na hipótese de o projeto não estar concluído e iniciado no prazo máximo de um ano a contar da data de assinatura da escritura de doação."
 
 Art. 4º - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.

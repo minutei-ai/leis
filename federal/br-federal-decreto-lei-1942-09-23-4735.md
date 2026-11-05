@@ -1,5 +1,3 @@
-###DEL-004735-0-000-23-09-1942@@@
-
 DECRETO-LEI N. 4.735 – DE 23 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 100:000$0, para atender, no corrente exercício, ao pagamento da quota da União em “acordo” a "ser" celebrado o Estado da Baía

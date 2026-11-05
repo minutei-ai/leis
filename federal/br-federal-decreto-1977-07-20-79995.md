@@ -1,5 +1,3 @@
-###DEC-079995-0-000-20-07-1977@@@
-
 Decreto nº 79.995, de 20 de julho de 1977
 
 Abre aos Ministérios da Previdência e Assistência Social, da Saúde e do Trabalho o crédito suplementar de Cr$ 21.436.800,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,487 @@ DECRETA:
 
 Art. 1º Fica aberto aos Ministérios da Previdência e Assistência Social, da Saúde e do Trabalho, o crédito suplementar no valor de Cr$ 21.436.800,00 (vinte e um milhões, quatrocentos e trinta e seis mil e oitocentos cruzeiros), para reforço de dotações orçamentárias consignadas no vigente Orçamento, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2300</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DA PREVIDÊ</span><span>NCIA E ASSISTÊ</span><span>NCIA SOCIAL.........</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5.300.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2310</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Departamento de Administraçã</span><span>o</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2310.15070214.364</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Coordenaçã</span><span>o e Manutençã</span><span>o dos Serviç</span><span>os Administrativos</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.3.2</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Outros Serviç</span><span>os de Terceiros..........................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.5.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Despesas de Exercí</span><span>cios Anteriores................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>300.00</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2500</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DA SAÚ</span><span>DE................................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2.152.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2512</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Departamento do Pessoal</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2512.13070212.010</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Administraçã</span><span>o de Pessoal</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.1.1</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Pessoal Civil</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>01</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Vencimentos e Vantagens Fixas....................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>574.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.5.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Despesas de Exercí</span><span>cios Anteriores................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>1.578.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2600</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DO TRABALHO........................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>13.984.800</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2601</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Gabinete do Ministro</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2601.14070202.002</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Assessoramento Relacionado a Assuntos de Natureza Juridica</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.1.1</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Pessoal Civil</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>02</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Despesas Variá</span><span>veis........................................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>60.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2612</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria Geral - Fundo de Assistê</span><span>ncia ao Desempregado</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2612.1</span><span>4804772.397</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Desenvolvimento do Sistema Nacional de Emprego</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>1.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.3.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Outros Serviç</span><span>os de Terceiros..........................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>1.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>4.3.4.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Auxí</span><span>lios para Equipamentos e Instalaçõ</span><span>es.....................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>4.3.6.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Auxí</span><span>lios para Inversõ</span><span>es Financeiras...............................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>1.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2615</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Serviç</span><span>o Nacional de Formaçã</span><span>o Profissional Rural</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2615.14450214.364</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Coordenaçã</span><span>o e Manutençã</span><span>o dos Serviç</span><span>os Administrativos</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.1.1</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Pessoal Civil</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>01</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Vencimentos e Vantagens Fixas....................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.700.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.5.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Contribuiçõ</span><span>es de Previdê</span><span>ncia Social..............................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>224.800</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>T O T A L</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>........................................................................................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>21.436.800</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>DETALHAMENTO DO PROGRAMA DE TRABALHO À</span><span> CONTA DE RECURSOS VINCULADOS</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2600</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DO TRABALHO</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2612</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria Geral - Fundo de Assistê</span><span>ncia ao Desempregado</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2612.14804772.397</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Desenvolvimento do Sistema Nacional de Emprego</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>14</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cota-Parte da Contribuiçã</span><span>o Sindical...............................................</span></p></td><td style="width:60.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>10.000.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+2300
+
+MINISTÉRIO DA PREVIDÊNCIA E ASSISTÊNCIA SOCIAL.........
+
+5.300.000
+
+2310
+
+Departamento de Administração
+
+2310.15070214.364
+
+Coordenação e Manutenção dos Serviços Administrativos
+
+3.1.3.2
+
+Outros Serviços de Terceiros..........................................................
+
+5.000.000
+
+3.1.5.0
+
+Despesas de Exercícios Anteriores................................................
+
+300.00
+
+2500
+
+MINISTÉRIO DA SAÚDE................................................................
+
+2.152.000
+
+2512
+
+Departamento do Pessoal
+
+2512.13070212.010
+
+Administração de Pessoal
+
+3.1.1.1
+
+Pessoal Civil
+
+01
+
+Vencimentos e Vantagens Fixas....................................................
+
+574.000
+
+3.1.5.0
+
+Despesas de Exercícios Anteriores................................................
+
+1.578.000
+
+2600
+
+MINISTÉRIO DO TRABALHO........................................................
+
+13.984.800
+
+2601
+
+Gabinete do Ministro
+
+2601.14070202.002
+
+Assessoramento Relacionado a Assuntos de Natureza Juridica
+
+3.1.1.1
+
+Pessoal Civil
+
+02
+
+Despesas Variáveis........................................................................
+
+60.000
+
+2612
+
+Secretaria Geral - Fundo de Assistência ao Desempregado
+
+2612.14804772.397
+
+Desenvolvimento do Sistema Nacional de Emprego
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+1.000.000
+
+3.1.3.0
+
+Outros Serviços de Terceiros..........................................................
+
+5.000.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+1.000.000
+
+4.3.4.0
+
+Auxílios para Equipamentos e Instalações.....................................
+
+2.000.000
+
+4.3.6.0
+
+Auxílios para Inversões Financeiras...............................................
+
+1.000.000
+
+2615
+
+Serviço Nacional de Formação Profissional Rural
+
+2615.14450214.364
+
+Coordenação e Manutenção dos Serviços Administrativos
+
+3.1.1.1
+
+Pessoal Civil
+
+01
+
+Vencimentos e Vantagens Fixas....................................................
+
+3.700.000
+
+3.2.5.0
+
+Contribuições de Previdência Social..............................................
+
+224.800
+
+T O T A L
+
+........................................................................................................
+
+21.436.800
+
+DETALHAMENTO DO PROGRAMA DE TRABALHO À CONTA DE RECURSOS VINCULADOS
+
+2600
+
+MINISTÉRIO DO TRABALHO
+
+2612
+
+Secretaria Geral - Fundo de Assistência ao Desempregado
+
+2612.14804772.397
+
+Desenvolvimento do Sistema Nacional de Emprego
+
+14
+
+Cota-Parte da Contribuição Sindical...............................................
+
+10.000.000
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento, a saber.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2300</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DA PREVIDÊ</span><span>NCIA E ASSISTÊ</span><span>NCIA SOCIAL.........</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>5.300.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2301</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Gabinete do Ministro</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2301.15070202.001</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>100.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.3.1</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Remuneraçã</span><span>o de Serviç</span><span>os Pessoais..............................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>100.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2302</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria Geral</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2302.150904402.005</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>300.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.3.1</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Remuneraçã</span><span>o de Serviç</span><span>os Pessoais..............................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>200.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>100.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2302.15814862.014</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.1.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Subvençõ</span><span>es Sociais........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.000.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2304</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Inspetó</span><span>ria Geral de Finanç</span><span>as</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2304.15080322.011</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>200.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>50.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2305</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Divisã</span><span>o de Seguranç</span><span>a e Informaçõ</span><span>es</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2305.15291692.003</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>300.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>200.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2306</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria de Assistê</span><span>ncia Social</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2306.15814862.383</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>300.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>30.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2307</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria de Previdê</span><span>ncia Social</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2307.15824922.384</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>300.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>30.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2308</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria de Serviç</span><span>os Mé</span><span>dicos</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2308.15814282.523</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>300.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>30.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2309</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Departamento do Pessoal</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2309.150</span><span>70212.010</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>300.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>10.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2309.15072174.023</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>100.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2312</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Conselho de Recursos da Previdê</span><span>ncia Social</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2312.15824922.386</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Material de Consumo......................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>300.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.4.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Encargos Diversos..........................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>50.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2500</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DA SAÚ</span><span>DE................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.152.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2513</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria Nacional de Saú</span><span>de</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2513.13080342.027</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.4.1</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Juros da Divida Pú</span><span>blica</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>02</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Fundada Externa.............................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2.152.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2600</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DO TRABALHO........................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>13.984.800</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2601</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Gabinete do Ministro</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2601.14800232.078</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.3.2</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Outros Serviç</span><span>os de Terceiros..........................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>60.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2612</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria Geral - Fundo de Assistê</span><span>ncia ao Desempregado</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2612.14804772.397</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.3.1</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Remuneraçã</span><span>o de Serviç</span><span>os Pessoais..............................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>10.000.000</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2615</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Serviç</span><span>o Nacional de Formaçã</span><span>o Profissional Rural</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2615.14450214.364</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>4.1.2.0</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Serviç</span><span>o em Regime de Programaçã</span><span>o Especial..............................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>3.924.800</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>T o t a l ...........................................................................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>21.436.800</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>DETALHAMENTO DO PROGRAMA DE TRABALHO À</span><span> CONTA DE RECURSOS VINCULADOS</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2600</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>MINISTÉ</span><span>RIO DO TRABALHO</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2612</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Secretaria Geral - Fundo de Assistê</span><span>ncia do Desempregado</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:290.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>2612.14804772.397</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>14</span></p></td><td style="width:290.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>Cota Parte da Contribuiçã</span><span>o Sindical...............................................</span></p></td><td style="width:60.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span>10.000.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+2300
+
+MINISTÉRIO DA PREVIDÊNCIA E ASSISTÊNCIA SOCIAL.........
+
+5.300.000
+
+2301
+
+Gabinete do Ministro
+
+Atividade
+
+2301.15070202.001
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+100.000
+
+3.1.3.1
+
+Remuneração de Serviços Pessoais..............................................
+
+100.000
+
+2302
+
+Secretaria Geral
+
+Atividade
+
+2302.150904402.005
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+300.000
+
+3.1.3.1
+
+Remuneração de Serviços Pessoais..............................................
+
+200.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+100.000
+
+Atividade
+
+2302.15814862.014
+
+3.2.1.0
+
+Subvenções Sociais........................................................................
+
+2.000.000
+
+2304
+
+Inspetória Geral de Finanças
+
+Atividade
+
+2304.15080322.011
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+200.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+50.000
+
+2305
+
+Divisão de Segurança e Informações
+
+Atividade
+
+2305.15291692.003
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+300.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+200.000
+
+2306
+
+Secretaria de Assistência Social
+
+Atividade
+
+2306.15814862.383
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+300.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+30.000
+
+2307
+
+Secretaria de Previdência Social
+
+Atividade
+
+2307.15824922.384
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+300.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+30.000
+
+2308
+
+Secretaria de Serviços Médicos
+
+Atividade
+
+2308.15814282.523
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+300.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+30.000
+
+2309
+
+Departamento do Pessoal
+
+Atividade
+
+2309.15070212.010
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+300.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+10.000
+
+Atividade
+
+2309.15072174.023
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+100.000
+
+2312
+
+Conselho de Recursos da Previdência Social
+
+Atividade
+
+2312.15824922.386
+
+3.1.2.0
+
+Material de Consumo......................................................................
+
+300.000
+
+3.1.4.0
+
+Encargos Diversos..........................................................................
+
+50.000
+
+2500
+
+MINISTÉRIO DA SAÚDE................................................................
+
+2.152.000
+
+2513
+
+Secretaria Nacional de Saúde
+
+Atividade
+
+2513.13080342.027
+
+3.2.4.1
+
+Juros da Divida Pública
+
+02
+
+Fundada Externa.............................................................................
+
+2.152.000
+
+2600
+
+MINISTÉRIO DO TRABALHO........................................................
+
+13.984.800
+
+2601
+
+Gabinete do Ministro
+
+Atividade
+
+2601.14800232.078
+
+3.1.3.2
+
+Outros Serviços de Terceiros..........................................................
+
+60.000
+
+2612
+
+Secretaria Geral - Fundo de Assistência ao Desempregado
+
+Atividade
+
+2612.14804772.397
+
+3.1.3.1
+
+Remuneração de Serviços Pessoais..............................................
+
+10.000.000
+
+2615
+
+Serviço Nacional de Formação Profissional Rural
+
+Atividade
+
+2615.14450214.364
+
+4.1.2.0
+
+Serviço em Regime de Programação Especial..............................
+
+3.924.800
+
+T o t a l ...........................................................................................
+
+21.436.800
+
+DETALHAMENTO DO PROGRAMA DE TRABALHO À CONTA DE RECURSOS VINCULADOS
+
+2600
+
+MINISTÉRIO DO TRABALHO
+
+2612
+
+Secretaria Geral - Fundo de Assistência do Desempregado
+
+Atividade
+
+2612.14804772.397
+
+14
+
+Cota Parte da Contribuição Sindical...............................................
+
+10.000.000
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

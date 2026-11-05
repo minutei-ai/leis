@@ -1,5 +1,3 @@
-###DEC-071894-0-000-13-03-1973@@@
-
 DECRETO Nº 71.894, DE 13 DE MARÇO DE 1973.
 
 Autoriza o funcionamento dos cursos de Engenharia Civil e Engenharia Química da Faculdade de Engenharia de Blumenau, mantida pela Fundação Universidade Regional de Blumenau, SC.

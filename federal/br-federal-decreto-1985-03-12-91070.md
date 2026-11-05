@@ -1,5 +1,3 @@
-###DEC-091070-0-000-12-03-1985@@@
-
 Decreto nº 91.070 de 12 de março de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Ibirama, no Estado de Santa Catarina.

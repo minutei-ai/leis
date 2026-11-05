@@ -1,7 +1,3 @@
-1
-
-###DEC-001347-0-000-28-12-1994@@@
-
 DECRETO N° 1.347, DE 28 DE DEZEMBRO DE 1994
 
 Dispõe sobre medidas de segurança e apoio pessoal em favor de ex-Presidente da República, e dá outras providências.

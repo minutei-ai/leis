@@ -1,34 +1,32 @@
-###DEC-052911-0-000-22-11-1963@@@
+**DECRETO Nº 52.911, DE 22 DE NOVEMBRO DE 1963.**
 
-<strong>DECRETO Nº 52.911, DE 22 DE NOVEMBRO DE 1963.</strong>
+***Aprova o Regulamento da Secretaria Administrativa do Ministério Público do Distrito Federal.***
 
-<em><strong>Aprova o Regulamento da Secretaria Administrativa do Ministério Público do Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal, combinado com o artigo 45 da Lei nº 3.754, de 14 de abril de 1960,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal, combinado com o artigo 45 da Lei nº 3.754, de 14 de abril de 1960,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Secretaria Administrativa do Ministério Público do Distrito Federal, o qual com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Secretaria Administrativa do Ministério Público do Distrito Federal, o qual com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 22 de novembro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Abelardo Jurema
 
-<strong>REGULAMENTO DA SECRETARIA ADMINISTRATIVA DO MINISTÉRIO PÚBLICO FEDERAL</strong>
+**REGULAMENTO DA SECRETARIA ADMINISTRATIVA DO MINISTÉRIO PÚBLICO FEDERAL**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Secretaria Administrativa</em>
+*Da Secretaria Administrativa*
 
-<strong>Art</strong>. 1º A Secretaria Administrativa do Ministério Público é o órgão da administração geral da instituição e tem por finalidade, no âmbito da sua competência, orientar, fiscalizar e executar as atividades relativas a pessoal, material, orçamento, documentação, comunicações, transportes e administração de edifícios.
+**Art**. 1º A Secretaria Administrativa do Ministério Público é o órgão da administração geral da instituição e tem por finalidade, no âmbito da sua competência, orientar, fiscalizar e executar as atividades relativas a pessoal, material, orçamento, documentação, comunicações, transportes e administração de edifícios.
 
 Parágrafo único – As atividades previstas neste artigo abrangem, igualmente, as atividades administrativas do Ministério Público dos Territórios Federais.
 
-<strong>Art</strong>. 2º A Secretaria Administrativa compõe-se de uma Chefia e das seguintes:
+**Art**. 2º A Secretaria Administrativa compõe-se de uma Chefia e das seguintes:
 
 a) Seção de Serviços Gerais;
 
@@ -38,13 +36,13 @@ c) Seção de Mecanografia;
 
 d) Seção de Transportes.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Chefia da Secretaria Administrativa</em>
+*Da Chefia da Secretaria Administrativa*
 
-<strong>Art</strong>. 3º A Secretaria Administrativa será chefiada por servidor designado pelo Procurador-Geral; as Seções observarão igual critério de designação.
+**Art**. 3º A Secretaria Administrativa será chefiada por servidor designado pelo Procurador-Geral; as Seções observarão igual critério de designação.
 
-<strong>Art</strong>. 4º Ao Chefe da Secretaria Administrativa incumbe:
+**Art**. 4º Ao Chefe da Secretaria Administrativa incumbe:
 
 a) superintender os serviços das Seções Administrativas, coordenando e controlando a execução das tarefas através dos respectivos responsáveis;
 
@@ -56,11 +54,11 @@ d) determinar às Seções Administrativas as tarefas que lhes competirem e as d
 
 e) apresentar relatório anual e estatísticas mensais das atividades da Secretaria Administrativa.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Seção de Serviços Gerais</em>
+*Da Seção de Serviços Gerais*
 
-<strong>Art</strong>. 5º À Seção de Serviços Gerais incumbe:
+**Art**. 5º À Seção de Serviços Gerais incumbe:
 
 a) a execução das tarefas concernentes à administração de pessoal, material, orçamento, comunicações e administração de edifícios, observado o disposto no artigo 1º;
 
@@ -96,7 +94,7 @@ p) manter em funcionamento o serviço de comunicações;
 
 q) manter em funcionamento os serviços de administração de edifícios, nos quais se inclui o de portaria.
 
-<strong>Art</strong>. 6º Para o exato cumprimento das tarefas que lhe são afetas e observada a conveniência da racionalização dos serviços, por ato do Procurador-Geral, a Seção de Serviços Gerais poderá desdobrar-se em Subseções, a saber:
+**Art**. 6º Para o exato cumprimento das tarefas que lhe são afetas e observada a conveniência da racionalização dos serviços, por ato do Procurador-Geral, a Seção de Serviços Gerais poderá desdobrar-se em Subseções, a saber:
 
 a) Pessoal;
 
@@ -108,15 +106,15 @@ d) Comunicações;
 
 e) Administração de Edifícios.
 
-<strong>Art</strong>. 7º As Subseções serão dirigidas por servidores da Secretaria Administrativa, por designação do Procurador-Geral.
+**Art**. 7º As Subseções serão dirigidas por servidores da Secretaria Administrativa, por designação do Procurador-Geral.
 
-<strong>Art</strong>. 8º O Chefe da Seção administrará e ficará responsabilizado pelas tarefas à mesma atribuídas.
+**Art**. 8º O Chefe da Seção administrará e ficará responsabilizado pelas tarefas à mesma atribuídas.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Da Seção de Documentação</em>
+*Da Seção de Documentação*
 
-<strong>Art</strong>. 9º Incumbe à Seção de Documentação:
+**Art**. 9º Incumbe à Seção de Documentação:
 
 a) a administração dos serviços de registro, de jurisprudência, de legislação, de biblioteca e de arquivo;
 
@@ -130,30 +128,30 @@ e) providenciar a encadernação dos volumes;
 
 f) organizar o arquivo da Procuradoria-Geral com registro especial de todos os documentos, guardando-os e conservando-os na melhor ordem.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Da Seção de Mecanografia</em>
+*Da Seção de Mecanografia*
 
-<strong>Art</strong>. 10. À Seção de Mecanografia incumbe:
+**Art**. 10. À Seção de Mecanografia incumbe:
 
 a) executar os serviços de datilografia que digam respeito às atividades do Ministério Público;
 
 b) executar os serviços de mimeógrafo, cópias fotostáticas e outros de reprodução de documentos, conforme fôr determinado.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Da Seção de transportes</em>
+*Da Seção de transportes*
 
-<strong>Art</strong>. 11. A Seção de transportes tem a seu cargo a guarda, a conservação e a reparação dos veículos pertencentes ao Ministério Público do Distrito Federal, bem como o registro e o contrôle da circulação.
+**Art**. 11. A Seção de transportes tem a seu cargo a guarda, a conservação e a reparação dos veículos pertencentes ao Ministério Público do Distrito Federal, bem como o registro e o contrôle da circulação.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Disposições Finais</em>
+*Disposições Finais*
 
-<strong>Art</strong>. 12. O Procurador-Geral expedirá instruções de serviço para a definitiva implantação das atividades prevista neste Regulamento.
+**Art**. 12. O Procurador-Geral expedirá instruções de serviço para a definitiva implantação das atividades prevista neste Regulamento.
 
-<strong>Art</strong>. 13. Os casos omissos serão resolvidos pelo Procurador-Geral, ou vida prèviamente a Assessoria de Planejamento.
+**Art**. 13. Os casos omissos serão resolvidos pelo Procurador-Geral, ou vida prèviamente a Assessoria de Planejamento.
 
 Brasília, 22 de novembro de 1963;
 
-<strong>ABELARDO JUREMA</strong>
+**ABELARDO JUREMA**

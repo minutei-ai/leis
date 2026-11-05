@@ -1,5 +1,3 @@
-###DEC-066951-0-000-23-07-1970@@@
-
 DECRETO Nº 66.951, DE 23 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão de passagem em favor da Petróleo Brasileira S. A. - PETROBRÁS, Imóveis e Benfeitorias situados em Municípios dos Estados do Rio de Janeiro e Guanabara, necessários às obras de construção do Oleoduto Caxias-Santa Cruz-Volta Redonda.

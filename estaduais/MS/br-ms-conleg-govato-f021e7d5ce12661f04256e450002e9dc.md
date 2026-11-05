@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:40:27.000Z"
 sha256_fonte: "14c83e00b7ad269ce3600d94fda4b822c696a91aed8fd038b30831a5a07d99b7"
 sha256_markdown: "bcf668e7973bffc52f799777571857c0f026d1c56d2497fe4d054b3952cbb9ec"
 ---
-
 # LEI Nº 302, DE 14 DE DEZEMBRO DE 1981.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,23 +20,30 @@ Declara de Utilidade Pública o Centro Comunitário "Presidente Médici"-CECOPRE
 
 Publicada no Diário Oficial nº 733, de 15 de dezembro de 1981, página 5.
 
-Pedro Pedrossian, Governador do Estado de Mato Grosso do Sul, faço<br>
-saber que a Assembléia Legislativa decreta e eu sanciono a seguinte<br>
-Lei:<br>
-<br>
-Art. 1º - Fica declarada de Utilidade Pública o Centro Comunitário<br>
-"Presidente Médici" -CECOPREME-, do Conjunto Habitacional da Cooperativa dos Subtenentes e Sargentos de Campo Grande<br>
-\-COOPHAMAT-, com sede em Campo Grande.<br>
-<br>
-Art. 2º - Esta lei entrará em vigor na data de sua publicação.<br>
-<br>
-Campo Grande, 14 de dezembro de 1.981.<br>
-<br>
-PEDRO PEDROSSIAN<br>
-Governador<br>
-<br>
-OSMAR FERREIRA DUTRA<br>
-Secretário de Estado para Assuntos da Casa Civil<br>
-<br>
-NELSON TRAD<br>
+Pedro Pedrossian, Governador do Estado de Mato Grosso do Sul, faço
+
+saber que a Assembléia Legislativa decreta e eu sanciono a seguinte
+
+Lei:
+
+Art. 1º - Fica declarada de Utilidade Pública o Centro Comunitário
+
+"Presidente Médici" -CECOPREME-, do Conjunto Habitacional da Cooperativa dos Subtenentes e Sargentos de Campo Grande
+
+\-COOPHAMAT-, com sede em Campo Grande.
+
+Art. 2º - Esta lei entrará em vigor na data de sua publicação.
+
+Campo Grande, 14 de dezembro de 1.981.
+
+PEDRO PEDROSSIAN
+
+Governador
+
+OSMAR FERREIRA DUTRA
+
+Secretário de Estado para Assuntos da Casa Civil
+
+NELSON TRAD
+
 Secretário de Estado de Justiça

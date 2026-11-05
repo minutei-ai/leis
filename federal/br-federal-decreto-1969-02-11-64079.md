@@ -1,5 +1,3 @@
-###DEC-064079-0-000-11-02-1969@@@
-
 DECRETO Nº 64.079, DE 11 DE FEVEREIRO DE 1969.
 
 Altera dispositivo do Decreto número 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha.

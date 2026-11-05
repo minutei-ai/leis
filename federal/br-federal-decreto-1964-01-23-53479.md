@@ -1,5 +1,3 @@
-###DEC-053479-0-000-23-01-1964@@@
-
 DECRETO Nº 53.479, DE 23 DE JANEIRO DE 1964.
 
 Dá nova redação à letra b do artigo nº 22 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954.

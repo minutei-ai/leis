@@ -1,7 +1,3 @@
-1
-
-###DEC-001209-0-000-03-08-1994@@@
-
 DECRETO Nº 1.209, DE 3 DE AGOSTO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão e funções de confiança no âmbito do Ministério da Saúde e dá outras providências.

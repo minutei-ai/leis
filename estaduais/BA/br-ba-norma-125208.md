@@ -50,13 +50,16 @@ Art. 8º revogado pelo art. 131 da Lei nº [8.889](https://www.legislabahia.ba.g
 
  **revogadoArt. 11** - Fica instituída a carreira de Técnico em Serviço Público, integrada por 400 (quatrocentos) cargos de provimento efetivo de igual nomenclatura, a serem providos mediante concurso público de provas e títulos, fixados em 40 (quarenta) horas semanais o regime de trabalho de seus ocupantes.
 
-Art. 11 revogado pelo art. 131 da Lei nº [8.889](https://www.legislabahia.ba.gov.br/documentos/lei-no-8889-de-01-de-dezembro-de-2003), de 01 de dezembro de 2003.<br>
-Redação do art. 11 de acordo com o art. 8º da Lei nº 6.570, de 18 de março de 1994.<br>
+Art. 11 revogado pelo art. 131 da Lei nº [8.889](https://www.legislabahia.ba.gov.br/documentos/lei-no-8889-de-01-de-dezembro-de-2003), de 01 de dezembro de 2003.
+
+Redação do art. 11 de acordo com o art. 8º da Lei nº 6.570, de 18 de março de 1994.
+
 Redação original: "Art. 11 - Fica instituída a Carreira de Técnico em Serviço Público, integrada por 400 (quatrocentos) cargos de provimento efetivo de igual nomenclatura, a serem providos mediante concurso público de provas ou de provas e títulos, fixado em 40 (quarenta) horas semanais o regime de trabalho dos seus ocupantes."
 
 **§ 1º** - Os cargos, criados por este artigo, ficam organizados em três classes, numericamente identificadas e distribuídas, conforme o anexo XVIII, exigindo-se, para o seu provimento, formação de nível superior de longa duração em qualquer área de conhecimento, observadas a conveniência e necessidade do serviço públic
 
-Redação do § 1º do art. 11 de acordo com o art. 8º da Lei nº [6.570](https://www.legislabahia.ba.gov.br/documentos/lei-no-6570-de-18-de-marco-de-1994), de 18 de março de 1994.<br>
+Redação do § 1º do art. 11 de acordo com o art. 8º da Lei nº [6.570](https://www.legislabahia.ba.gov.br/documentos/lei-no-6570-de-18-de-marco-de-1994), de 18 de março de 1994.
+
 Redação original: "§ 1º - Os cargos criados por este artigo ficam organizados em três classes numericamente identificadas e distribuídas conforme o Anexo XVIII, exigindo-se, para o seu provimento, formação de nível superior em qualquer área de conhecimento, observada a conveniência e necessidade do serviço público."
 
 **§ 2º** - As atribuições dos cargos envolve atividades e planejamento e assessoramento na execução das seguintes funções:
@@ -69,7 +72,8 @@ Redação original: "§ 1º - Os cargos criados por este artigo ficam organizado
 
 **IV** -      promoção de estudos e pesquisas que viabilizem avaliações sistemáticas do ambiente organizacional, visando à identificação de eventuais problemas e proposições de soluções alternativas.
 
-Redação do § 2º do art. 11 de acordo com o art. 8º da Lei nº [6.570](https://www.legislabahia.ba.gov.br/documentos/lei-no-6570-de-18-de-marco-de-1994), de 18 de março de 1994.<br>
+Redação do § 2º do art. 11 de acordo com o art. 8º da Lei nº [6.570](https://www.legislabahia.ba.gov.br/documentos/lei-no-6570-de-18-de-marco-de-1994), de 18 de março de 1994.
+
 Redação original: "§ 2º - O Poder Executivo, em ato próprio, definirá as especificações de classes dos cargos ora criados, observando, no que couber, as disposições da Lei nº [6.354](https://www.legislabahia.ba.gov.br/documentos/lei-no-6354-de-30-de-dezembro-de-1991), de 30 de dezembro de 1991."
 
 **§ 3º** - As classes vinculadas aos cargos integrantes desta carreira, estruturadas em razão do grau de qualificação e habilitação exigidas para o desempenho de funções de planejamento e assessoramento elencados nos incisos I e IV, do § 2º, obedecem às seguintes especificações:
@@ -78,26 +82,31 @@ Redação original: "§ 2º - O Poder Executivo, em ato próprio, definirá as e
 
 **I -**             Classe 1 - compreende atividades de grande complexidade, exigindo formação de nível superior;
 
-Redação do inciso I do § 3º do art. 11 de acordo com o art. 10 da Lei nº [7.600](https://www.legislabahia.ba.gov.br/documentos/lei-no-7600-de-09-de-fevereiro-de-2000), de 09 de fevereiro de 2000.<br>
+Redação do inciso I do § 3º do art. 11 de acordo com o art. 10 da Lei nº [7.600](https://www.legislabahia.ba.gov.br/documentos/lei-no-7600-de-09-de-fevereiro-de-2000), de 09 de fevereiro de 2000.
+
 Redação anterior de acordo com o art. 8º da Lei nº 6.570, de 18 de março de 1994, que acresceu o § 3º e seus incisos ao art. 11: "I - Classe 1 - compreende atividades de grande complexidade, exigindo formação de nível superior, acrescido de cursos de especialização com carga horária mínima de 360 (trezentos e sessenta) horas/aula;"
 
 **II -**       Classe 2 - compreende atividades desenvolvidas nas respectivas áreas de atuação, reclamando conhecimento especializado, obtido em cursos de especialização com carga horária mínima de 360 (trezentos e sessenta) horas/aula;
 
-Redação do inciso II do § 3º do art. 11 de acordo com o art. 10 da Lei nº 7.600, de 09 de fevereiro de 2000.<br>
+Redação do inciso II do § 3º do art. 11 de acordo com o art. 10 da Lei nº 7.600, de 09 de fevereiro de 2000.
+
 Redação anterior de acordo com o art. 8º da Lei nº 6.570, de 18 de março de 1994, que acresceu o § 3º e seus incisos ao art. 11: "II - Classe 2 - compreende atividades desenvolvidas nas respectivas áreas de atuação, reclamando conhecimento especializado obtido em cursos de Pós-Graduação ou Especialização, com carga horária mínima de 600 (seiscentas) horas-aula;"
 
 **III** \-     Classe 3 - compreende atividades desenvolvidas nas respectivas áreas de atuação, exigindo conhecimento especializado, obtido em cursos de Pós-Graduação ou Especialização, com carga horária mínima de 600 (seiscentas) horas/aula.
 
-Redação do inciso II do § 3º do art. 11 de acordo com o art. 10 da Lei nº 7.600, de 09 de fevereiro de 2000.<br>
+Redação do inciso II do § 3º do art. 11 de acordo com o art. 10 da Lei nº 7.600, de 09 de fevereiro de 2000.
+
 Redação anterior de acordo com o art. 8º da Lei nº 6.570, de 18 de março de 1994, que acresceu o § 3º e seus incisos ao art. 11: "III - Classe 3 - compreende atividades desenvolvida nas respectivas áreas de atuação, exigindo conhecimento altamente especializado obtidos em cursos de Mestrado ou Doutorado."
 
 **<Revogado> § 4º** - Os cursos referidos nos incisos II e III, do parágrafo 3º deverão ser oferecidos ou reconhecidos pelo Sistema Nacional de Ensino Superior, exigindo-se que as correspondentes durações sejam integralizadas em um único curso.
 
-§ 4º revogado pelo art. 18 da Lei nº [8.217](https://www.legislabahia.ba.gov.br/documentos/lei-no-8217-de-04-de-abril-de-2002), de 04 de abril de 2002.<br>
-Redação do § 4º do art. 11 de acordo com o art. 10 da Lei nº [7.600](https://www.legislabahia.ba.gov.br/documentos/lei-no-7600-de-09-de-fevereiro-de-2000), de 09 de fevereiro de 2000.<br>
+§ 4º revogado pelo art. 18 da Lei nº [8.217](https://www.legislabahia.ba.gov.br/documentos/lei-no-8217-de-04-de-abril-de-2002), de 04 de abril de 2002.
+
+Redação do § 4º do art. 11 de acordo com o art. 10 da Lei nº [7.600](https://www.legislabahia.ba.gov.br/documentos/lei-no-7600-de-09-de-fevereiro-de-2000), de 09 de fevereiro de 2000.
+
 Redação anterior de acordo com o art. 8º da Lei nº [6.570](https://www.legislabahia.ba.gov.br/documentos/lei-no-6570-de-18-de-marco-de-1994), de 18 de março de 1994, que acresceu este parágrafo ao art. 11: "§ 4º - Os cursos a que se referem os incisos I e II do parágrafo 3º deverão ser oferecidos ou reconhecidos pelo Sistema Nacional de Ensino Superior, exigindo-se que as correspondentes durações sejam integralizadas em um único curso."
 
-**§ 5º** **\-** O Poder Executivo, em ato próprio, regulamentará o disposto neste artigo, observando, no que couber, as disposições da Lei nº 6.354, de 30 de dezembro de l991.
+**§ 5º\-** O Poder Executivo, em ato próprio, regulamentará o disposto neste artigo, observando, no que couber, as disposições da Lei nº 6.354, de 30 de dezembro de l991.
 
 § 5º  acrescido ao art. 11 pelo art. 8º da Lei nº [6.570](https://www.legislabahia.ba.gov.br/documentos/lei-no-6570-de-18-de-marco-de-1994), de 18 de março de 1994.
 
@@ -203,124 +212,129 @@ III-           tempo assegurado pela legislação anterior à Lei nº 2
 
 **Art. 22** - A estrutura de cargos em comissão da Secretaria da Justiça e Direitos Humanos, alocados na Coordenação de Defesa do Consumidor, conforme Anexo I, da Lei nº [6.074](https://www.legislabahia.ba.gov.br/documentos/lei-no-6074-de-22-de-maio-de-1991), de 22 de maio de 1991, fica acrescida na forma a seguir indicada:
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:12.5pt;border-collapse:collapse;border:none"><tbody><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">CARGO</p></td><td style="width:110.7pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">SÍMBOLO</p></td><td style="width:110.7pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">QUANTIDADE</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Coordenador Adjunto</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAS-3</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">02</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Assistente de Execução Orçamentária</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-5</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">01</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Chefe de Seção</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-5</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">05</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Chefe de Setor II</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-6</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">01</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Coordenador Adjunto
+
+DAS-3
+
+02
+
+Assistente de Execução Orçamentária
+
+DAI-5
+
+01
+
+Chefe de Seção
+
+DAI-5
+
+05
+
+Chefe de Setor II
+
+DAI-6
+
+01
 
 **Art.  23 -** Ficam criados, na estrutura da Secretaria da Saúde, os seguintes cargos em comissão:
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:12.5pt;border-collapse:collapse;border:none"><tbody><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">CARGO</p></td><td style="width:110.7pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">SÍMBOLO</p></td><td style="width:110.7pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">QUANTIDADE</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Diretor de Hospital</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAS-3</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">05</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Vice-Diretor de Hospital</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-4</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">10</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Chefe de Seção</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-5</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">22</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Chefe de Equipe I</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-5</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">14</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Chefe de Equipe II</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-6</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">04</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Chefe de Setor II</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-6</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">40</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Secretário Administrativo II</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-6</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">02</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Diretor de Hospital
+
+DAS-3
+
+05
+
+Vice-Diretor de Hospital
+
+DAI-4
+
+10
+
+Chefe de Seção
+
+DAI-5
+
+22
+
+Chefe de Equipe I
+
+DAI-5
+
+14
+
+Chefe de Equipe II
+
+DAI-6
+
+04
+
+Chefe de Setor II
+
+DAI-6
+
+40
+
+Secretário Administrativo II
+
+DAI-6
+
+02
 
 **Art. 24** - Fica acrescida, na forma a seguir estabelecida, a estrutura de cargos em comissão da Fundação de Hematologia e Hemoterapia da Bahia - HEMOBA, entidade vinculada à Secretaria da Saúde:
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:12.5pt;border-collapse:collapse;border:none"><tbody><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">CARGO</p></td><td style="width:110.7pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">SÍMBOLO</p></td><td style="width:110.7pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">QUANTIDADE</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Assessor Técnico</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAS-3</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">03</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Procurador Assessor</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAS-3</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">01</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Gerente</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAS-3</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">02</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Subgerente</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-4</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">08</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Chefe de Seção</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-5</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">08</p></td></tr><tr><td style="width:203.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="271"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Secretário Administrativo I</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">DAI-5</p></td><td style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="148"><p align="center" class="MsoNormal" style="text-align:center">01</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Assessor Técnico
+
+DAS-3
+
+03
+
+Procurador Assessor
+
+DAS-3
+
+01
+
+Gerente
+
+DAS-3
+
+02
+
+Subgerente
+
+DAI-4
+
+08
+
+Chefe de Seção
+
+DAI-5
+
+08
+
+Secretário Administrativo I
+
+DAI-5
+
+01
 
 **Art. 25** - Ficam alteradas a denominação e a subordinação dos seguintes órgãos da Secretaria da Segurança Pública:
 
@@ -344,40 +358,41 @@ Inciso I revogado pela Lei nº [14.169](https://www.legislabahia.ba.gov.br/docum
 
 **I -**       Ficam criados os seguintes cargos em comissão:
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:19.6pt;border-collapse:collapse;border:none"><tbody><tr><td style="width:207.2pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="276"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">CARGO</p></td><td style="width:89.85pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">SÍMBOLO</p></td><td style="width:120.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">QUANTIDADE</p></td></tr><tr><td style="width:207.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="276"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:89.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:120.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:207.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="276"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Assessor de Desenvolvimento Organizacional</p></td><td style="width:89.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">DAS-3</p></td><td style="width:120.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">01</p></td></tr><tr><td style="width:207.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="276"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Assessor Técnico</p></td><td style="width:89.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">DAS-3</p></td><td style="width:120.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">02</p></td></tr><tr><td style="width:207.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="276"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Assistente Adjunto</p></td><td style="width:89.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">DAI-4</p></td><td style="width:120.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">01</p></td></tr><tr><td style="width:207.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="276"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Subgerente</p></td><td style="width:89.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">DAI-4</p></td><td style="width:120.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">02</p></td></tr><tr><td style="width:207.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="276"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">Coordenador Regional</p></td><td style="width:89.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">DAI-5</p></td><td style="width:120.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">10</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Assessor de Desenvolvimento Organizacional
+
+DAS-3
+
+01
+
+Assessor Técnico
+
+DAS-3
+
+02
+
+Assistente Adjunto
+
+DAI-4
+
+01
+
+Subgerente
+
+DAI-4
+
+02
+
+Coordenador Regional
+
+DAI-5
+
+10
 
 **II -**      Ficam extintos 2 (dois) cargos de Assessor Administrativo, símbolo DAI-4.
 
@@ -453,1501 +468,84 @@ Antonio Rodrigues do Nascimento Filho
 
 Secretário do Trabalho e Ação Social
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:450.25pt;border-collapse:collapse;border:none" width="600"><tbody><tr><td colspan="3" style="width:450.25pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="600"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">PLANO DE CARREIRA DO SERVIDOR PÚBLICO CIVIL DA ADMINISTRAÇÃO DIRETA CARGOS EFETIVOS E EMPREGOS PERMANENTES</span><br>&nbsp;</p></td></tr><tr><td style="width:213.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="285"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td colspan="2" style="width:236.35pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="315"><p align="right" class="MsoNormal" style="text-align:right">TABELA 1</p></td></tr><tr><td style="width:213.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="285"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CLASSE</p></td><td colspan="2" style="width:236.35pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="315"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:213.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="285"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:120.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:115.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:213.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="285"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:120.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.302.000,00</p></td><td style="width:115.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:213.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="285"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:120.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.332.000,00</p></td><td style="width:115.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.761.000,00</p></td></tr><tr><td style="width:213.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="285"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:120.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.626.000,00</p></td><td style="width:115.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">2.325.000,00</p></td></tr><tr><td style="width:213.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="285"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:120.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:115.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr><tr><td style="width:213.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="285"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">ESPECIAL</p></td><td style="width:120.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">4.685.000,00</p></td><td style="width:115.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">6.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> PLANO DE CARREIRA DO SERVIDOR PÚBLICO CIVIL DA ADMINISTRAÇÃO DIRETA CARGOS EFETIVOS E EMPREGOS PERMANENTES &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> TABELA 1 </td></tr><tr><td valign="top"> &nbsp; CLASSE </td><td colspan="2" valign="top"> V I G Ê N C I A &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; 1 </td><td valign="top"> &nbsp; 1.302.000,00 </td><td valign="top"> &nbsp; 1.710.000,00 </td></tr><tr><td valign="top"> &nbsp; 2 </td><td valign="top"> &nbsp; 1.332.000,00 </td><td valign="top"> &nbsp; 1.761.000,00 </td></tr><tr><td valign="top"> &nbsp; 3 </td><td valign="top"> &nbsp; 1.626.000,00 </td><td valign="top"> &nbsp; 2.325.000,00 </td></tr><tr><td valign="top"> &nbsp; 4 </td><td valign="top"> &nbsp; 3.777.000,00 </td><td valign="top"> &nbsp; 5.000.000,00 </td></tr><tr><td valign="top"> &nbsp; ESPECIAL </td><td valign="top"> &nbsp; 4.685.000,00 </td><td valign="top"> &nbsp; 6.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:450.25pt;border-collapse:collapse;border:none" width="600"><tbody><tr><td style="width:214.75pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="286"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">GRUPO OCUPACIONAL COMUNICAÇÃO SOCIAL</span></p></td><td colspan="2" style="width:235.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="314"><p align="right" class="MsoNormal" style="text-align:right">TABELA 2</p></td></tr><tr><td style="width:214.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="286"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CLASSE</p></td><td colspan="2" style="width:235.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="314"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:214.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="286"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:120.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="160"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:115.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:214.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="286"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:120.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="160"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:115.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr><tr><td style="width:214.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="286"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:120.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="160"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">4.685.000,00</p></td><td style="width:115.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">6.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> GRUPO OCUPACIONAL COMUNICAÇÃO SOCIAL </td><td colspan="2" valign="top"> TABELA 2 </td></tr><tr><td valign="top"> &nbsp; CLASSE </td><td colspan="2" valign="top"> V I G Ê N C I A &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; 1 </td><td valign="top"> &nbsp; 3.777.000,00 </td><td valign="top"> &nbsp; 5.000.000,00 </td></tr><tr><td valign="top"> &nbsp; 2 </td><td valign="top"> &nbsp; 4.685.000,00 </td><td valign="top"> &nbsp; 6.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:450.25pt;border-collapse:collapse;border:none" width="600"><tbody><tr><td colspan="2" style="width:214.75pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="286"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">GRUPO OCUPACIONAL FISCO</span></p></td><td colspan="2" style="width:235.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="314"><p align="right" class="MsoNormal" style="text-align:right">TABELA 3</p></td></tr><tr><td style="width:136.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p align="center" class="MsoNormal" style="text-align:center">CATEGORIA</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">FUNCIONAL</p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CLASSE</p></td><td colspan="2" style="width:235.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="314"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:136.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="205"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:81.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:136.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">AGENTES</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;DE</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;TRIBUTOS</p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">I</p><p align="center" class="MsoNormal" style="text-align:center">II</p><p align="center" class="MsoNormal" style="text-align:center">III</p><p align="center" class="MsoNormal" style="text-align:center">ESPECIAL</p></td><td style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="205"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">2.473.000,00</p><p align="center" class="MsoNormal" style="text-align:center">2.543.000,00</p><p align="center" class="MsoNormal" style="text-align:center">2.615.000,00</p><p align="center" class="MsoNormal" style="text-align:center">2.689.000,00</p></td><td style="width:81.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3.780.000,00</p><p align="center" class="MsoNormal" style="text-align:center">3.893.000,00</p><p align="center" class="MsoNormal" style="text-align:center">4.010.000,00</p><p align="center" class="MsoNormal" style="text-align:center">4.130.000,00</p></td></tr><tr><td style="width:136.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">AUDITORES</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">FISCAIS</p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="104"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">I</p><p align="center" class="MsoNormal" style="text-align:center">II</p><p align="center" class="MsoNormal" style="text-align:center">III</p><p align="center" class="MsoNormal" style="text-align:center">ESPECIAL</p></td><td style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="205"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3.578.000,00</p><p align="center" class="MsoNormal" style="text-align:center">3.681.000,00</p><p align="center" class="MsoNormal" style="text-align:center">3.787.000,00</p><p align="center" class="MsoNormal" style="text-align:center">3.896.000,00</p></td><td style="width:81.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">5.575.000,00</p><p align="center" class="MsoNormal" style="text-align:center">5.742.000,00</p><p align="center" class="MsoNormal" style="text-align:center">5.914.000,00</p><p align="center" class="MsoNormal" style="text-align:center">6.091.000,00</p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> GRUPO OCUPACIONAL FISCO </td><td colspan="2" valign="top"> TABELA 3 </td></tr><tr><td valign="top"> CATEGORIA &nbsp; FUNCIONAL </td><td valign="top"> &nbsp; &nbsp; CLASSE </td><td colspan="2" valign="top"> &nbsp; V I G Ê N C I A &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; AGENTES &nbsp;DE &nbsp;TRIBUTOS </td><td valign="top"> &nbsp; I II III ESPECIAL </td><td valign="top"> &nbsp; 2.473.000,00 2.543.000,00 2.615.000,00 2.689.000,00 </td><td valign="top"> &nbsp; 3.780.000,00 3.893.000,00 4.010.000,00 4.130.000,00 </td></tr><tr><td valign="top"> &nbsp; AUDITORES &nbsp; FISCAIS </td><td valign="top"> &nbsp; I II III ESPECIAL </td><td valign="top"> &nbsp; 3.578.000,00 3.681.000,00 3.787.000,00 3.896.000,00 </td><td valign="top"> &nbsp; 5.575.000,00 5.742.000,00 5.914.000,00 6.091.000,00 &nbsp; </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:448.6pt;border-collapse:collapse;border:none" width="598"><tbody><tr><td colspan="2" style="width:264.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="353"><p class="MsoNormal"><b><span style="color:black">CARGOS DAS CARREIRAS TÉCNICO-JURÍDICO</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">&nbsp;</span></b></p></td><td colspan="2" style="width:183.65pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="245"><p align="right" class="MsoNormal" style="text-align:right">ANEXO II</p></td></tr><tr><td style="width:161.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="215"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">CARGO</span></p></td><td style="width:103.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CLASSE</p></td><td colspan="2" style="width:183.65pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="245"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:161.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="215"><p class="MsoNormal">&nbsp;</p></td><td style="width:103.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:83.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="111"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:100.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:161.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="215"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Advogado do Estado</p><p class="MsoNormal">Procurador do Estado</p><p class="MsoNormal">Procurador da Fazenda Estadual</p><p class="MsoNormal">Procurador Autárquico</p><p class="MsoNormal">Defensor Público</p><p class="MsoNormal">Delegado de Polícia</p><p class="MsoNormal">&nbsp;</p></td><td style="width:103.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">Especial</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:83.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="111"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">11.056.000,00</p></td><td style="width:100.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">14.726.000,00</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:161.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="215"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Procurador do Estado</p><p class="MsoNormal">Procurador da Fazenda Estadual</p><p class="MsoNormal">Procurador Autárquico</p><p class="MsoNormal">Defensor Público</p><p class="MsoNormal">Delegado de Polícia</p></td><td style="width:103.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1ª</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:83.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="111"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">9.964.000,00</p></td><td style="width:100.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">13.253.000,00</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:161.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="215"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Procurador do Estado</p><p class="MsoNormal">Procurador da Fazenda Estadual</p><p class="MsoNormal">Procurador Autárquico</p><p class="MsoNormal">Defensor Público</p><p class="MsoNormal">Delegado de Polícia</p><p class="MsoNormal">&nbsp;</p></td><td style="width:103.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">2ª</p></td><td style="width:83.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="111"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">8.983.000,00</p></td><td style="width:100.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">11.928.000,00</p></td></tr><tr><td style="width:161.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="215"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Procurador do Estado</p><p class="MsoNormal">Procurador da Fazenda Estadual</p><p class="MsoNormal">Procurador Autárquico</p><p class="MsoNormal">Defensor Público</p><p class="MsoNormal">Delegado de Polícia</p><p class="MsoNormal">&nbsp;</p></td><td style="width:103.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3ª</p></td><td style="width:83.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="111"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">8.099.000,00</p></td><td style="width:100.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">10.735.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **CARGOS DAS CARREIRAS TÉCNICO-JURÍDICO&nbsp;** </td><td colspan="2" valign="top"> ANEXO II </td></tr><tr><td valign="top"> &nbsp; CARGO </td><td valign="top"> &nbsp; CLASSE </td><td colspan="2" valign="top"> V I G Ê N C I A &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; Advogado do Estado Procurador do Estado Procurador da Fazenda Estadual Procurador Autárquico Defensor Público Delegado de Polícia &nbsp; </td><td valign="top"> &nbsp; &nbsp; &nbsp; Especial &nbsp; </td><td valign="top"> &nbsp; &nbsp; &nbsp; 11.056.000,00 </td><td valign="top"> &nbsp; &nbsp; &nbsp; 14.726.000,00 &nbsp; </td></tr><tr><td valign="top"> &nbsp; Procurador do Estado Procurador da Fazenda Estadual Procurador Autárquico Defensor Público Delegado de Polícia </td><td valign="top"> &nbsp; &nbsp; &nbsp; 1ª &nbsp; </td><td valign="top"> &nbsp; &nbsp; &nbsp; 9.964.000,00 </td><td valign="top"> &nbsp; &nbsp; &nbsp; 13.253.000,00 &nbsp; &nbsp; &nbsp; </td></tr><tr><td valign="top"> &nbsp; Procurador do Estado Procurador da Fazenda Estadual Procurador Autárquico Defensor Público Delegado de Polícia &nbsp; </td><td valign="top"> &nbsp; &nbsp; 2ª </td><td valign="top"> &nbsp; &nbsp; 8.983.000,00 </td><td valign="top"> &nbsp; &nbsp; 11.928.000,00 </td></tr><tr><td valign="top"> &nbsp; Procurador do Estado Procurador da Fazenda Estadual Procurador Autárquico Defensor Público Delegado de Polícia &nbsp; </td><td valign="top"> &nbsp; &nbsp; &nbsp; 3ª </td><td valign="top"> &nbsp; &nbsp; &nbsp; 8.099.000,00 </td><td valign="top"> &nbsp; &nbsp; &nbsp; 10.735.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:448.6pt;border-collapse:collapse;border:none" width="598"><tbody><tr><td colspan="3" style="width:257.65pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="344"><p class="MsoNormal"><span style="color:black">CARGOS&nbsp; DA POLÍCIA CIVIL</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td><td colspan="2" style="width:190.95pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="255"><p align="right" class="MsoNormal" style="text-align:right"><b><span style="color:black">ANEXO III</span></b></p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEL</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CARGO</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">CLASSE/</p><p align="center" class="MsoNormal" style="text-align:center">FUNÇÃO</p></td><td colspan="2" style="width:190.95pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="255"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Motorista Policial</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">A</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.260.000,00</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p class="MsoNormal">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Agente de Polícia</p><p class="MsoNormal">Motorista Policial</p><p class="MsoNormal">Perito Auxiliar</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">Investigador</p><p align="center" class="MsoNormal" style="text-align:center">B</p><p align="center" class="MsoNormal" style="text-align:center">A</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.314.000,00</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.727.000,00</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p class="MsoNormal">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">4</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Agente de Polícia</p><p class="MsoNormal">Escrivão de Polícia</p><p class="MsoNormal">Motorista Policial</p><p class="MsoNormal">Perito Auxiliar</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">Detetive</p><p align="center" class="MsoNormal" style="text-align:center">A</p><p align="center" class="MsoNormal" style="text-align:center">C</p><p align="center" class="MsoNormal" style="text-align:center">B</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.346.000,00</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.744.000,00</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Agente de Polícia</p><p class="MsoNormal">Escrivão de Polícia</p><p class="MsoNormal">Perito Auxiliar</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">Inspetor</p><p align="center" class="MsoNormal" style="text-align:center">B</p><p align="center" class="MsoNormal" style="text-align:center">C</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.372.000,00</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.831.000,00</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p class="MsoNormal">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Agente de Polícia</p><p class="MsoNormal">Escrivão de Polícia</p><p class="MsoNormal">Perito Auxiliar</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">Comissário</p><p align="center" class="MsoNormal" style="text-align:center">C</p><p align="center" class="MsoNormal" style="text-align:center">D</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.397.000,00</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1.880.000,00</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">7</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Perito Criminalístico</p><p class="MsoNormal">Perito Médico-Legal</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">A</p><p align="center" class="MsoNormal" style="text-align:center">A</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">8.099.000,00</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">10.735.000,00</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">8</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Perito Criminalístico</p><p class="MsoNormal">Perito Médico-legal</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">B</p><p align="center" class="MsoNormal" style="text-align:center">B</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">8.983.000,00</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">11.928.000,00</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:45.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="61"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">9</p></td><td style="width:102.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="136"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Perito Criminalístico</p><p class="MsoNormal">Perito Médico-legal</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">C</p><p align="center" class="MsoNormal" style="text-align:center">C</p></td><td style="width:82.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">9.964.000,00</p></td><td style="width:108.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">13.253.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> CARGOS&nbsp; DA POLÍCIA CIVIL &nbsp; </td><td colspan="2" valign="top"> **ANEXO III** </td></tr><tr><td valign="top"> &nbsp; NÍVEL </td><td valign="top"> &nbsp; CARGO </td><td valign="top"> CLASSE/ FUNÇÃO </td><td colspan="2" valign="top"> V I G Ê N C I A &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; 2 </td><td valign="top"> &nbsp; Motorista Policial </td><td valign="top"> &nbsp; A </td><td valign="top"> &nbsp; 1.260.000,00 </td><td valign="top"> &nbsp; 1.710.000,00 </td></tr><tr><td valign="top"> &nbsp; &nbsp; 3 </td><td valign="top"> &nbsp; Agente de Polícia Motorista Policial Perito Auxiliar </td><td valign="top"> &nbsp; Investigador B A </td><td valign="top"> &nbsp; &nbsp; 1.314.000,00 </td><td valign="top"> &nbsp; &nbsp; 1.727.000,00 &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; 4 &nbsp; </td><td valign="top"> &nbsp; Agente de Polícia Escrivão de Polícia Motorista Policial Perito Auxiliar </td><td valign="top"> &nbsp; Detetive A C B </td><td valign="top"> &nbsp; &nbsp; 1.346.000,00 </td><td valign="top"> &nbsp; &nbsp; 1.744.000,00 </td></tr><tr><td valign="top"> &nbsp; &nbsp; 5 </td><td valign="top"> &nbsp; Agente de Polícia Escrivão de Polícia Perito Auxiliar </td><td valign="top"> &nbsp; Inspetor B C </td><td valign="top"> &nbsp; &nbsp; 1.372.000,00 </td><td valign="top"> &nbsp; &nbsp; 1.831.000,00 &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; 6 </td><td valign="top"> &nbsp; Agente de Polícia Escrivão de Polícia Perito Auxiliar </td><td valign="top"> &nbsp; Comissário C D </td><td valign="top"> &nbsp; &nbsp; 1.397.000,00 </td><td valign="top"> &nbsp; &nbsp; 1.880.000,00 </td></tr><tr><td valign="top"> &nbsp; 7 </td><td valign="top"> &nbsp; Perito Criminalístico Perito Médico-Legal </td><td valign="top"> &nbsp; A A </td><td valign="top"> &nbsp; 8.099.000,00 </td><td valign="top"> &nbsp; 10.735.000,00 </td></tr><tr><td valign="top"> &nbsp; &nbsp; 8 </td><td valign="top"> &nbsp; Perito Criminalístico Perito Médico-legal </td><td valign="top"> &nbsp; B B </td><td valign="top"> &nbsp; 8.983.000,00 </td><td valign="top"> &nbsp; 11.928.000,00 &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; 9 </td><td valign="top"> &nbsp; Perito Criminalístico Perito Médico-legal </td><td valign="top"> &nbsp; C C </td><td valign="top"> &nbsp; 9.964.000,00 </td><td valign="top"> &nbsp; 13.253.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.6pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal"><span style="color:black">POLÍCIA MILITAR</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">&nbsp;</span></p></td><td colspan="2" style="width:248.1pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="331"><p align="right" class="MsoNormal" style="margin-right:3.6pt;text-align:right"><b><span style="color:black">ANEXO IV</span></b></p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">POSTO/GRADUAÇÃO</p></td><td colspan="2" style="width:248.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="331"><p align="center" class="MsoNormal" style="margin-right:3.6pt;text-align:center">V I G Ê N C I A</p><p class="MsoNormal" style="margin-right:3.6pt;text-align:justify;text-justify:
-  inter-ideograph">&nbsp;</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">&nbsp;</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">CORONEL</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">3.445.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">4.550.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">TENENTE CORONEL</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">3.116.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">4.310.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">MAJOR</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">2.819.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">3.970.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">CAPITÃO</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">2.580.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">3.200.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">PRIMEIRO TENENTE</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">2.271.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">2.655.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">SEGUNDO TENENTE</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.981.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">2.292.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">ASPIRANTE OFICIAL</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.394.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.798.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">ALUNO OFICIAL</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.260.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.727.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">SUBTENENTE</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.394.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.798.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">PRIMEIRO SARGENTO</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.369.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.780.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">SEGUNDO SARGENTO</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.347.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.762.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">TERCEIRO SARGENTO</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.336.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.745.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">CABO</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.326.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.728.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">SOLDADO 1ª CLASSE</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.314.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.719.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">SOLDADO 2ª CLASSE</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.260.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.710.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">RECRUTA</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="right" class="MsoNormal" style="text-align:right">1.260.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="margin-right:1.7pt;text-align:right">1.710.000,00</p></td></tr><tr><td style="width:198.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="265"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph">&nbsp;</p></td><td style="width:69.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="93"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="center" class="MsoNormal" style="margin-right:1.7pt;text-align:center"><span style="color:black">&nbsp;</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> POLÍCIA MILITAR &nbsp; </td><td colspan="2" valign="top"> **ANEXO IV** </td></tr><tr><td valign="top"> &nbsp; POSTO/GRADUAÇÃO </td><td colspan="2" valign="top"> V I G Ê N C I A &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> CORONEL </td><td valign="top"> 3.445.000,00 </td><td valign="top"> 4.550.000,00 </td></tr><tr><td valign="top"> TENENTE CORONEL </td><td valign="top"> 3.116.000,00 </td><td valign="top"> 4.310.000,00 </td></tr><tr><td valign="top"> MAJOR </td><td valign="top"> 2.819.000,00 </td><td valign="top"> 3.970.000,00 </td></tr><tr><td valign="top"> CAPITÃO </td><td valign="top"> 2.580.000,00 </td><td valign="top"> 3.200.000,00 </td></tr><tr><td valign="top"> PRIMEIRO TENENTE </td><td valign="top"> 2.271.000,00 </td><td valign="top"> 2.655.000,00 </td></tr><tr><td valign="top"> SEGUNDO TENENTE </td><td valign="top"> 1.981.000,00 </td><td valign="top"> 2.292.000,00 </td></tr><tr><td valign="top"> ASPIRANTE OFICIAL </td><td valign="top"> 1.394.000,00 </td><td valign="top"> 1.798.000,00 </td></tr><tr><td valign="top"> ALUNO OFICIAL </td><td valign="top"> 1.260.000,00 </td><td valign="top"> 1.727.000,00 </td></tr><tr><td valign="top"> SUBTENENTE </td><td valign="top"> 1.394.000,00 </td><td valign="top"> 1.798.000,00 </td></tr><tr><td valign="top"> PRIMEIRO SARGENTO </td><td valign="top"> 1.369.000,00 </td><td valign="top"> 1.780.000,00 </td></tr><tr><td valign="top"> SEGUNDO SARGENTO </td><td valign="top"> 1.347.000,00 </td><td valign="top"> 1.762.000,00 </td></tr><tr><td valign="top"> TERCEIRO SARGENTO </td><td valign="top"> 1.336.000,00 </td><td valign="top"> 1.745.000,00 </td></tr><tr><td valign="top"> CABO </td><td valign="top"> 1.326.000,00 </td><td valign="top"> 1.728.000,00 </td></tr><tr><td valign="top"> SOLDADO 1ª CLASSE </td><td valign="top"> 1.314.000,00 </td><td valign="top"> 1.719.000,00 </td></tr><tr><td valign="top"> SOLDADO 2ª CLASSE </td><td valign="top"> 1.260.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> RECRUTA </td><td valign="top"> 1.260.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.6pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td colspan="3" style="width:446.6pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="595"><p class="MsoNormal"><span style="color:black">ANEXO V</span></p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">TABELA DE CARGOS EM COMISSÃO</p></td><td colspan="2" style="width:294.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="392"><p class="MsoNormal">TABELA 1</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">NÍVEIS</p></td><td colspan="2" style="width:294.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="392"><p class="MsoNormal">V I G Ê N C I A</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">01/01/93</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">01/03/93</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAS-2A</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">22.769.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">33.150.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAS-2B</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">17.940.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">25.620.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAS-2C</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">15.525.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">21.600.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAS-3</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">11.460.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">15.900.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAI-4</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">&nbsp;6.602.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">&nbsp;9.625.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAI-5</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">&nbsp;4.090.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">&nbsp;5.671.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAI-6</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">2.913.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">3.975.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAI-7</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">1.719.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">2.260.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">DAI-8</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p class="MsoNormal">1.493.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p class="MsoNormal">1.900.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> ANEXO V </td></tr><tr><td valign="top"> TABELA DE CARGOS EM COMISSÃO </td><td colspan="2" valign="top"> TABELA 1 </td></tr><tr><td valign="top"> &nbsp; NÍVEIS </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> DAS-2A </td><td valign="top"> 22.769.000,00 </td><td valign="top"> 33.150.000,00 </td></tr><tr><td valign="top"> DAS-2B </td><td valign="top"> 17.940.000,00 </td><td valign="top"> 25.620.000,00 </td></tr><tr><td valign="top"> DAS-2C </td><td valign="top"> 15.525.000,00 </td><td valign="top"> 21.600.000,00 </td></tr><tr><td valign="top"> DAS-3 </td><td valign="top"> 11.460.000,00 </td><td valign="top"> 15.900.000,00 </td></tr><tr><td valign="top"> DAI-4 </td><td valign="top"> &nbsp;6.602.000,00 </td><td valign="top"> &nbsp;9.625.000,00 </td></tr><tr><td valign="top"> DAI-5 </td><td valign="top"> &nbsp;4.090.000,00 </td><td valign="top"> &nbsp;5.671.000,00 </td></tr><tr><td valign="top"> DAI-6 </td><td valign="top"> 2.913.000,00 </td><td valign="top"> 3.975.000,00 </td></tr><tr><td valign="top"> DAI-7 </td><td valign="top"> 1.719.000,00 </td><td valign="top"> 2.260.000,00 </td></tr><tr><td valign="top"> DAI-8 </td><td valign="top"> 1.493.000,00 </td><td valign="top"> 1.900.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.6pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td colspan="3" style="width:446.6pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="595"><p class="MsoNormal"><span style="color:black">GRUPO OCUPACIONAL SERVIÇOS PÚBLICOS DE SAÚDE</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">TABELA SALARIAL - Base Mensal 180 hs</p></td><td colspan="2" style="width:294.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="392"><p align="right" class="MsoNormal" style="text-align:right">TABELA 2</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEL</p></td><td colspan="2" style="width:294.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="392"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.302.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">1.710.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.314.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">1.727.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.336.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">1.744.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.380.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">1.796.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.565.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">2.244.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">2.952.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">4.500.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">7</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">3.447.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">4.750.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> GRUPO OCUPACIONAL SERVIÇOS PÚBLICOS DE SAÚDE &nbsp; </td></tr><tr><td valign="top"> TABELA SALARIAL - Base Mensal 180 hs </td><td colspan="2" valign="top"> TABELA 2 </td></tr><tr><td valign="top"> &nbsp; NÍVEL </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.314.000,00 </td><td valign="top"> 1.727.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.336.000,00 </td><td valign="top"> 1.744.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.380.000,00 </td><td valign="top"> 1.796.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 1.565.000,00 </td><td valign="top"> 2.244.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 2.952.000,00 </td><td valign="top"> 4.500.000,00 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 3.447.000,00 </td><td valign="top"> 4.750.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.6pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td colspan="3" style="width:446.6pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="595"><p class="MsoNormal"><span style="color:black">SANITARISTA (06.17.5.084)</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:217.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="289"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">5.904.000,00</p></td><td style="width:77.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">9.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> SANITARISTA (06.17.5.084) &nbsp; </td></tr><tr><td valign="top"> &nbsp; 6 </td><td valign="top"> &nbsp; 5.904.000,00 </td><td valign="top"> &nbsp; 9.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.6pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">GRUPO OCUPACIONAL ARTES E CULTURA</span></p></td><td colspan="2" style="width:294.15pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="392"><p align="right" class="MsoNormal" style="text-align:right">TABELA 3</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEL</p></td><td colspan="2" style="width:294.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="392"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.332.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">1.710.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.804.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">2.326.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">2.413.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">3.180.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">3.033.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">4.052.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">3.354.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">4.808.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">3.632.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">5.142.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">7</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">3.995.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">5.403.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right"><span style="color:black">&nbsp;</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> GRUPO OCUPACIONAL ARTES E CULTURA </td><td colspan="2" valign="top"> TABELA 3 </td></tr><tr><td valign="top"> &nbsp; NÍVEL </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.332.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.804.000,00 </td><td valign="top"> 2.326.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 2.413.000,00 </td><td valign="top"> 3.180.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 3.033.000,00 </td><td valign="top"> 4.052.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 3.354.000,00 </td><td valign="top"> 4.808.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 3.632.000,00 </td><td valign="top"> 5.142.000,00 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 3.995.000,00 </td><td valign="top"> 5.403.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.6pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td colspan="3" style="width:446.6pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="595"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO VI</span></b><br><span style="color:black">CARGOS DO MAGISTÉRIO DE 1º E 2º GRAUS</span></p></td></tr><tr><td colspan="3" style="width:446.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="595"><p align="center" class="MsoNormal" style="text-align:center">REGIME DE 20 (vinte) HORAS SEMANAIS</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEL</p></td><td colspan="2" style="width:294.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="392"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.660.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">2.000.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">1.811.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">2.200.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">2.166.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">2.669.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">2.317.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">2.869.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">2.672.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">3.338.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="right" class="MsoNormal" style="text-align:right">2.823.000,00</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="right" class="MsoNormal" style="text-align:right">3.538.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:115.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="154"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:178.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="238"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO VI** CARGOS DO MAGISTÉRIO DE 1º E 2º GRAUS </td></tr><tr><td colspan="3" valign="top"> REGIME DE 20 (vinte) HORAS SEMANAIS </td></tr><tr><td valign="top"> &nbsp; NÍVEL </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.660.000,00 </td><td valign="top"> 2.000.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.811.000,00 </td><td valign="top"> 2.200.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 2.166.000,00 </td><td valign="top"> 2.669.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 2.317.000,00 </td><td valign="top"> 2.869.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 2.672.000,00 </td><td valign="top"> 3.338.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 2.823.000,00 </td><td valign="top"> 3.538.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.6pt;border-collapse:collapse;border:none" width="595"><tbody><tr><td colspan="3" style="width:446.6pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="595"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">REGIME DE 40 (quarenta) HORAS SEMANAIS</span></p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">NÍVEIS</p></td><td colspan="2" style="width:294.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="392"><p align="center" class="MsoNormal" style="text-align:center">VENCIMENTO OU SALÁRIO</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p class="MsoNormal">&nbsp;</p></td><td style="width:86.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="115"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:207.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="277"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:86.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="115"><p align="right" class="MsoNormal" style="text-align:right">3.320.000,00</p></td><td style="width:207.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="277"><p align="right" class="MsoNormal" style="text-align:right">4.000.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:86.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="115"><p align="right" class="MsoNormal" style="text-align:right">3.622.000,00</p></td><td style="width:207.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="277"><p align="right" class="MsoNormal" style="text-align:right">4.400.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:86.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="115"><p align="right" class="MsoNormal" style="text-align:right">4.332.000,00</p></td><td style="width:207.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="277"><p align="right" class="MsoNormal" style="text-align:right">5.338.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:86.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="115"><p align="right" class="MsoNormal" style="text-align:right">4.634.000,00</p></td><td style="width:207.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="277"><p align="right" class="MsoNormal" style="text-align:right">5.738.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:86.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="115"><p align="right" class="MsoNormal" style="text-align:right">5.344.000,00</p></td><td style="width:207.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="277"><p align="right" class="MsoNormal" style="text-align:right">6.676.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:86.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="115"><p align="right" class="MsoNormal" style="text-align:right">5.646.000,00</p></td><td style="width:207.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="277"><p align="right" class="MsoNormal" style="text-align:right">7.076.000,00</p></td></tr><tr><td style="width:152.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:86.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="115"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:207.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="277"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> REGIME DE 40 (quarenta) HORAS SEMANAIS </td></tr><tr><td valign="top"> NÍVEIS </td><td colspan="2" valign="top"> VENCIMENTO OU SALÁRIO </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 3.320.000,00 </td><td valign="top"> 4.000.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 3.622.000,00 </td><td valign="top"> 4.400.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 4.332.000,00 </td><td valign="top"> 5.338.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 4.634.000,00 </td><td valign="top"> 5.738.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 5.344.000,00 </td><td valign="top"> 6.676.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 5.646.000,00 </td><td valign="top"> 7.076.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:447.4pt;border-collapse:collapse" width="597"><tbody><tr><td colspan="3" style="width:447.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="597"><p class="MsoNormal"><span style="color:black">PROFESSORES NÃO LICENCIADOS 20 (vinte) HORAS SEMANAIS</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">CLASSIFICAÇÃO</p></td><td colspan="2" style="width:152.05pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">VENCIMENTO OU SALÁRIO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">&nbsp;</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">Com formação de 2º Grau</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="right" class="MsoNormal" style="text-align:right">1.660.000,00</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="right" class="MsoNormal" style="text-align:right">2.000.000,00</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Com Curso de Licenciatura a partir do 6º semestre</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">2.166.000,00</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">2.669.000,00</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Com formação de N. Superior</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">2.672.000,00</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">3.338.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> PROFESSORES NÃO LICENCIADOS 20 (vinte) HORAS SEMANAIS &nbsp; </td></tr><tr><td valign="top"> CLASSIFICAÇÃO </td><td colspan="2" valign="top"> VENCIMENTO OU SALÁRIO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Com formação de 2º Grau </td><td valign="top"> 1.660.000,00 </td><td valign="top"> 2.000.000,00 </td></tr><tr><td valign="top"> &nbsp; Com Curso de Licenciatura a partir do 6º semestre </td><td valign="top"> &nbsp; 2.166.000,00 </td><td valign="top"> &nbsp; 2.669.000,00 </td></tr><tr><td valign="top"> &nbsp; Com formação de N. Superior </td><td valign="top"> &nbsp; 2.672.000,00 </td><td valign="top"> &nbsp; 3.338.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:447.4pt;border-collapse:collapse;border:none" width="597"><tbody><tr><td colspan="3" style="width:447.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="597"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">PROFESSORES NÃO LICENCIADOS 40 (quarenta) HORAS SEMANAIS</span></p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">CLASSIFICAÇÃO</p></td><td colspan="2" style="width:152.05pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="203"><p align="center" class="MsoNormal" style="text-align:center">VENCIMENTO OU SALÁRIO</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">&nbsp;</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">Com formação de 2º Grau</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="center" class="MsoNormal" style="text-align:center">3.320.000,00</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="center" class="MsoNormal" style="text-align:center">4.000.000,00</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Com Curso de Licenciatura a partir do 6º semestre</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">4.332.000,00</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">5.338.000,00</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">&nbsp;</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:295.35pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p class="MsoNormal">Com formação de N. Superior</p></td><td style="width:75.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="100"><p align="center" class="MsoNormal" style="text-align:center">5.344.000,00</p></td><td style="width:77.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p align="center" class="MsoNormal" style="text-align:center">6.676.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> PROFESSORES NÃO LICENCIADOS 40 (quarenta) HORAS SEMANAIS </td></tr><tr><td valign="top"> CLASSIFICAÇÃO </td><td colspan="2" valign="top"> VENCIMENTO OU SALÁRIO </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Com formação de 2º Grau </td><td valign="top"> 3.320.000,00 </td><td valign="top"> 4.000.000,00 </td></tr><tr><td valign="top"> &nbsp; Com Curso de Licenciatura a partir do 6º semestre </td><td valign="top"> &nbsp; 4.332.000,00 </td><td valign="top"> &nbsp; 5.338.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Com formação de N. Superior </td><td valign="top"> 5.344.000,00 </td><td valign="top"> 6.676.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:447.25pt;border-collapse:collapse;border:none" width="596"><tbody><tr><td colspan="6" style="width:447.25pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="596"><p align="center" class="MsoNormal" style="margin-right:23.8pt;text-align:center"><b><span style="color:black">ANEXO VII</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">FUNÇÕES GRATIFICADAS DO MAGISTÉRIO DE 1º E 2º GRAUS</span></p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CARGO</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">SÍMBOLOS</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEIS</p></td><td colspan="2" style="width:196.35pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="262"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal">&nbsp;</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p class="MsoNormal">&nbsp;</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">DE</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">2</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">2.205.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.878.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.819.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">2.915.000,00</p><p align="right" class="MsoNormal" style="text-align:right">2.482.000,00</p><p align="right" class="MsoNormal" style="text-align:right">2.405.000,00</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">DIRETOR</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">DG</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">2</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">1.764.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.502.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.455.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">2.332.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.986.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.924.000,00</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">DM</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">2</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">1.323.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.127.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.092.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">1.749.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.489.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.443.000,00</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">DP</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">2</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 882.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 751.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 728.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">1.166.000,00</p><p align="right" class="MsoNormal" style="text-align:right">993.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 962.000,00</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">VE</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">2</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">1.103.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 939.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 910.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">1.458.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.241.000,00</p><p align="right" class="MsoNormal" style="text-align:right">1.203.000,00</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">VICE-DIRETOR</p><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">VG</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">2</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 882.000,00</p><p align="right" class="MsoNormal" style="text-align:right">751.000,00</p><p align="right" class="MsoNormal" style="text-align:right">728.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">1.166.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 993.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp; 962.000,00</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">VM</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">2</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">662.000,00</p><p align="right" class="MsoNormal" style="text-align:right">564.000,00</p><p align="right" class="MsoNormal" style="text-align:right">546.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">875.000,00</p><p align="right" class="MsoNormal" style="text-align:right">745.000,00</p><p align="right" class="MsoNormal" style="text-align:right">722.000,00</p></td></tr><tr><td style="width:88.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:80.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">VP</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">2</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">441.000,00</p><p align="right" class="MsoNormal" style="text-align:right">376.000,00</p><p align="right" class="MsoNormal" style="text-align:right">364.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">583.000,00</p><p align="right" class="MsoNormal" style="text-align:right">497.000,00</p><p align="right" class="MsoNormal" style="text-align:right">481.000,00</p></td></tr><tr><td colspan="2" style="width:88.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="118"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">SECRETÁRIO</p><p class="MsoNormal">ESCOLAR</p></td><td style="width:80.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="107"><p align="center" class="MsoNormal" style="text-align:center">SE</p><p align="center" class="MsoNormal" style="text-align:center">SG</p><p align="center" class="MsoNormal" style="text-align:center">SM</p><p align="center" class="MsoNormal" style="text-align:center">SP</p></td><td style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="109"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:82.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="110"><p align="right" class="MsoNormal" style="text-align:right">734.000,00</p><p align="right" class="MsoNormal" style="text-align:right">587.000,00</p><p align="right" class="MsoNormal" style="text-align:right">440.000,00</p><p align="right" class="MsoNormal" style="text-align:right">294.000,00</p></td><td style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="right" class="MsoNormal" style="text-align:right">970.000,00</p><p align="right" class="MsoNormal" style="text-align:right">776.000,00</p><p align="right" class="MsoNormal" style="text-align:right">582.000,00</p><p align="right" class="MsoNormal" style="text-align:right">388.000,00</p><p align="right" class="MsoNormal" style="text-align:right"><span style="color:black">&nbsp;</span></p></td></tr><tr height="0"></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="6" valign="top"> **ANEXO VII** FUNÇÕES GRATIFICADAS DO MAGISTÉRIO DE 1º E 2º GRAUS </td></tr><tr><td valign="top"> &nbsp; CARGO </td><td colspan="2" valign="top"> &nbsp; SÍMBOLOS </td><td valign="top"> &nbsp; NÍVEIS </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; </td><td colspan="2" valign="top"> &nbsp; DE &nbsp; </td><td valign="top"> 3 2 1 </td><td valign="top"> 2.205.000,00 1.878.000,00 1.819.000,00 </td><td valign="top"> 2.915.000,00 2.482.000,00 2.405.000,00 </td></tr><tr><td valign="top"> &nbsp; &nbsp; DIRETOR </td><td colspan="2" valign="top"> &nbsp; DG &nbsp; </td><td valign="top"> 3 2 1 </td><td valign="top"> 1.764.000,00 1.502.000,00 1.455.000,00 </td><td valign="top"> 2.332.000,00 1.986.000,00 1.924.000,00 </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> &nbsp; DM </td><td valign="top"> 3 2 1 </td><td valign="top"> 1.323.000,00 1.127.000,00 1.092.000,00 </td><td valign="top"> 1.749.000,00 1.489.000,00 1.443.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> &nbsp; DP </td><td valign="top"> 3 2 1 </td><td valign="top"> &nbsp; 882.000,00 &nbsp; 751.000,00 &nbsp; 728.000,00 </td><td valign="top"> 1.166.000,00 993.000,00 &nbsp; 962.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> &nbsp; VE </td><td valign="top"> 3 2 1 </td><td valign="top"> 1.103.000,00 &nbsp; 939.000,00 &nbsp; 910.000,00 </td><td valign="top"> 1.458.000,00 1.241.000,00 1.203.000,00 </td></tr><tr><td valign="top"> VICE-DIRETOR &nbsp; </td><td colspan="2" valign="top"> &nbsp; VG </td><td valign="top"> 3 2 1 </td><td valign="top"> &nbsp; 882.000,00 751.000,00 728.000,00 </td><td valign="top"> 1.166.000,00 &nbsp; 993.000,00 &nbsp; 962.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> &nbsp; VM </td><td valign="top"> 3 2 1 </td><td valign="top"> 662.000,00 564.000,00 546.000,00 </td><td valign="top"> 875.000,00 745.000,00 722.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> &nbsp; VP </td><td valign="top"> 3 2 1 </td><td valign="top"> 441.000,00 376.000,00 364.000,00 </td><td valign="top"> 583.000,00 497.000,00 481.000,00 </td></tr><tr><td colspan="2" valign="top"> &nbsp; SECRETÁRIO ESCOLAR </td><td valign="top"> SE SG SM SP </td><td valign="top"> &nbsp; </td><td valign="top"> 734.000,00 587.000,00 440.000,00 294.000,00 </td><td valign="top"> 970.000,00 776.000,00 582.000,00 388.000,00 &nbsp; </td></tr><tr height="0"></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:447.85pt;border-collapse:collapse;border:none" width="597"><tbody><tr><td colspan="3" style="width:447.85pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="597"><p align="center" class="MsoNormal" style="margin-right:16.7pt;text-align:center"><b><span style="color:black">ANEXO VIII</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">INSTITUIÇÕES DE ENSINO SUPERIOR - IESBA</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">A: CARGOS TÉCNICO-ADMINISTRATIVOS</span></p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEL</p></td><td colspan="2" style="width:303.65pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="405"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">NA-01</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="right" class="MsoNormal" style="text-align:right">1.302.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="right" class="MsoNormal" style="text-align:right">1.710.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">NA-02</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="right" class="MsoNormal" style="text-align:right">1.335.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="right" class="MsoNormal" style="text-align:right">1.761.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">NA-03</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="right" class="MsoNormal" style="text-align:right">1.527.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="right" class="MsoNormal" style="text-align:right">1.838.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">NM-01</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="right" class="MsoNormal" style="text-align:right">1.626.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="right" class="MsoNormal" style="text-align:right">2.325.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">NM-02</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="right" class="MsoNormal" style="text-align:right">1.922.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="right" class="MsoNormal" style="text-align:right">2.441.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">NM-03</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="right" class="MsoNormal" style="text-align:right">2.099.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="right" class="MsoNormal" style="text-align:right">2.558.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">NS-01</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="right" class="MsoNormal" style="text-align:right">3.777.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="right" class="MsoNormal" style="text-align:right">5.000.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">NS-02</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="right" class="MsoNormal" style="text-align:right">4.685.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="right" class="MsoNormal" style="text-align:right">6.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO VIII** INSTITUIÇÕES DE ENSINO SUPERIOR - IESBA A: CARGOS TÉCNICO-ADMINISTRATIVOS </td></tr><tr><td valign="top"> &nbsp; NÍVEL </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> NA-01 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> NA-02 </td><td valign="top"> 1.335.000,00 </td><td valign="top"> 1.761.000,00 </td></tr><tr><td valign="top"> NA-03 </td><td valign="top"> 1.527.000,00 </td><td valign="top"> 1.838.000,00 </td></tr><tr><td valign="top"> NM-01 </td><td valign="top"> 1.626.000,00 </td><td valign="top"> 2.325.000,00 </td></tr><tr><td valign="top"> NM-02 </td><td valign="top"> 1.922.000,00 </td><td valign="top"> 2.441.000,00 </td></tr><tr><td valign="top"> NM-03 </td><td valign="top"> 2.099.000,00 </td><td valign="top"> 2.558.000,00 </td></tr><tr><td valign="top"> NS-01 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr><tr><td valign="top"> NS-02 </td><td valign="top"> 4.685.000,00 </td><td valign="top"> 6.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:447.85pt;border-collapse:collapse;border:none" width="597"><tbody><tr><td colspan="3" style="width:447.85pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="597"><p class="MsoNormal"><span style="color:black">B: FUNÇÕES DE PROVIMENTO TEMPORÁRIO</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">FC-6</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="center" class="MsoNormal" style="text-align:center">22.769.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="center" class="MsoNormal" style="text-align:center">33.150.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">FC-5</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="center" class="MsoNormal" style="text-align:center">15.525.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="center" class="MsoNormal" style="text-align:center">21.600.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">FC-4</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="center" class="MsoNormal" style="text-align:center">11.460.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="center" class="MsoNormal" style="text-align:center">15.900.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">FG-3</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;6.602.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;9.625.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">FG-2</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;4.090.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;5.671.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">FG-1</p></td><td style="width:133.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;2.913.000,00</p></td><td style="width:169.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="226"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;3.975.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> B: FUNÇÕES DE PROVIMENTO TEMPORÁRIO &nbsp; </td></tr><tr><td valign="top"> FC-6 </td><td valign="top"> 22.769.000,00 </td><td valign="top"> 33.150.000,00 </td></tr><tr><td valign="top"> FC-5 </td><td valign="top"> 15.525.000,00 </td><td valign="top"> 21.600.000,00 </td></tr><tr><td valign="top"> FC-4 </td><td valign="top"> 11.460.000,00 </td><td valign="top"> 15.900.000,00 </td></tr><tr><td valign="top"> FG-3 </td><td valign="top"> &nbsp;6.602.000,00 </td><td valign="top"> &nbsp;9.625.000,00 </td></tr><tr><td valign="top"> FG-2 </td><td valign="top"> &nbsp;4.090.000,00 </td><td valign="top"> &nbsp;5.671.000,00 </td></tr><tr><td valign="top"> FG-1 </td><td valign="top"> &nbsp;2.913.000,00 </td><td valign="top"> &nbsp;3.975.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:450.25pt;border-collapse:collapse;border:none" width="600"><tbody><tr><td colspan="4" style="width:450.25pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="600"><p class="MsoNormal"><span style="color:black">C: MAGISTÉRIO 3º GRAU</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr><tr><td style="width:130.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p align="center" class="MsoNormal" style="text-align:center">CLASSES</p></td><td style="width:98.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="131"><p align="center" class="MsoNormal" style="text-align:center">CARGA</p></td><td colspan="2" style="width:221.4pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="295"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:130.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p class="MsoNormal">&nbsp;</p></td><td style="width:98.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="131"><p align="center" class="MsoNormal" style="text-align:center">HORÁRIA</p></td><td style="width:90.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:130.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:130.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Professor Auxiliar</p></td><td style="width:98.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="131"><p align="center" class="MsoNormal" style="text-align:center">20 HORAS</p><p align="center" class="MsoNormal" style="text-align:center">40 HORAS</p><p align="center" class="MsoNormal" style="text-align:center">D. E.</p></td><td style="width:90.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">2.672.000,00</p><p align="right" class="MsoNormal" style="text-align:right">5.344.000,00</p><p align="right" class="MsoNormal" style="text-align:right">8.016.000,00</p></td><td style="width:130.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p align="right" class="MsoNormal" style="text-align:right">3.338.000,00</p><p align="right" class="MsoNormal" style="text-align:right">6.676.000,00</p><p align="right" class="MsoNormal" style="text-align:right">10.014.000,00</p></td></tr><tr><td style="width:130.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Professor Assistente</p></td><td style="width:98.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="131"><p align="center" class="MsoNormal" style="text-align:center">20 HORAS</p><p align="center" class="MsoNormal" style="text-align:center">40 HORAS</p><p align="center" class="MsoNormal" style="text-align:center">D. E.</p></td><td style="width:90.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">2.993.000,00</p><p align="right" class="MsoNormal" style="text-align:right">5.986.000,00</p><p align="right" class="MsoNormal" style="text-align:right">8.979.000,00</p></td><td style="width:130.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p align="right" class="MsoNormal" style="text-align:right">3.772.000,00</p><p align="right" class="MsoNormal" style="text-align:right">7.544.000,00</p><p align="right" class="MsoNormal" style="text-align:right">11.316.000,00</p></td></tr><tr><td style="width:130.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Professor Adjunto</p></td><td style="width:98.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="131"><p align="center" class="MsoNormal" style="text-align:center">20 HORAS</p><p align="center" class="MsoNormal" style="text-align:center">40 HORAS</p><p align="center" class="MsoNormal" style="text-align:center">D. E.</p></td><td style="width:90.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">3.352.000,00</p><p align="right" class="MsoNormal" style="text-align:right">6.704.000,00</p><p align="right" class="MsoNormal" style="text-align:right">10.056.000,00</p></td><td style="width:130.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p align="right" class="MsoNormal" style="text-align:right">4.262.000,00</p><p align="right" class="MsoNormal" style="text-align:right">8.524.000,00</p><p align="right" class="MsoNormal" style="text-align:right">12.786.000,00</p></td></tr><tr><td style="width:130.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Professor Titular</p><p class="MsoNormal">&nbsp;</p></td><td style="width:98.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="131"><p align="center" class="MsoNormal" style="text-align:center">20 HORAS</p><p align="center" class="MsoNormal" style="text-align:center">40 HORAS</p><p align="center" class="MsoNormal" style="text-align:center">D. E.</p></td><td style="width:90.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">3.754.000,00</p><p align="right" class="MsoNormal" style="text-align:right">7.508.000,00</p><p align="right" class="MsoNormal" style="text-align:right">11.262.000,00</p></td><td style="width:130.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p align="right" class="MsoNormal" style="text-align:right">4.816.000,00</p><p align="right" class="MsoNormal" style="text-align:right">9.632.000,00</p><p align="right" class="MsoNormal" style="text-align:right">14.448.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" valign="top"> C: MAGISTÉRIO 3º GRAU &nbsp; </td></tr><tr><td valign="top"> CLASSES </td><td valign="top"> CARGA </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> HORÁRIA </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> &nbsp; Professor Auxiliar </td><td valign="top"> 20 HORAS 40 HORAS D. E. </td><td valign="top"> 2.672.000,00 5.344.000,00 8.016.000,00 </td><td valign="top"> 3.338.000,00 6.676.000,00 10.014.000,00 </td></tr><tr><td valign="top"> &nbsp; Professor Assistente </td><td valign="top"> 20 HORAS 40 HORAS D. E. </td><td valign="top"> 2.993.000,00 5.986.000,00 8.979.000,00 </td><td valign="top"> 3.772.000,00 7.544.000,00 11.316.000,00 </td></tr><tr><td valign="top"> &nbsp; Professor Adjunto </td><td valign="top"> 20 HORAS 40 HORAS D. E. </td><td valign="top"> 3.352.000,00 6.704.000,00 10.056.000,00 </td><td valign="top"> 4.262.000,00 8.524.000,00 12.786.000,00 </td></tr><tr><td valign="top"> &nbsp; Professor Titular &nbsp; </td><td valign="top"> 20 HORAS 40 HORAS D. E. </td><td valign="top"> 3.754.000,00 7.508.000,00 11.262.000,00 </td><td valign="top"> 4.816.000,00 9.632.000,00 14.448.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:448.8pt;border-collapse:collapse;border:none" width="598"><tbody><tr><td colspan="3" style="width:448.8pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="598"><p align="center" class="MsoNormal" style="margin-right:9.6pt;text-align:center"><b><span style="color:black">ANEXO IX</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">INSTITUTO DE RADIODIFUSÃO EDUCATIVA DA BAHIA -IRDEB</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">A: CARGOS PERMANENTES</span></p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p align="center" class="MsoNormal" style="text-align:center">GRUPOS</p></td><td colspan="2" style="width:162.75pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="217"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:90.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:72.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p class="MsoNormal">Serviços Gráficos e Gerais</p></td><td style="width:90.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">1.313.000,00</p></td><td style="width:72.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="right" class="MsoNormal" style="text-align:right">1.710.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p class="MsoNormal">Apoio Administrativo</p></td><td style="width:90.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">1.332.000,00</p></td><td style="width:72.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="right" class="MsoNormal" style="text-align:right">1.761.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p class="MsoNormal">Atividade de Nível Médio</p></td><td style="width:90.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">1.626.000,00</p></td><td style="width:72.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="right" class="MsoNormal" style="text-align:right">2.325.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p class="MsoNormal">Serviços de Radiodifusão RA e TV</p></td><td style="width:90.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">1.841.000,00</p></td><td style="width:72.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="right" class="MsoNormal" style="text-align:right">2.513.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p class="MsoNormal">Atividades Técnicas e de Nível Superior sem especialização</p></td><td style="width:90.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">3.777.000,00</p></td><td style="width:72.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="right" class="MsoNormal" style="text-align:right">5.000.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p class="MsoNormal">Atividades Técnicas e de Nível Superior com especialização</p></td><td style="width:90.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">4.685.000,00</p></td><td style="width:72.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="right" class="MsoNormal" style="text-align:right">6.000.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:286.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="381"><p class="MsoNormal">Atividade de Nível Superior - Especial</p></td><td style="width:90.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="right" class="MsoNormal" style="text-align:right">6.262.360,00</p></td><td style="width:72.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="96"><p align="right" class="MsoNormal" style="text-align:right">8.005.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO IX** INSTITUTO DE RADIODIFUSÃO EDUCATIVA DA BAHIA -IRDEB A: CARGOS PERMANENTES </td></tr><tr><td valign="top"> GRUPOS </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> Serviços Gráficos e Gerais </td><td valign="top"> 1.313.000,00 </td><td valign="top"> 1.710.000,00 &nbsp; </td></tr><tr><td valign="top"> Apoio Administrativo </td><td valign="top"> 1.332.000,00 </td><td valign="top"> 1.761.000,00 &nbsp; </td></tr><tr><td valign="top"> Atividade de Nível Médio </td><td valign="top"> 1.626.000,00 </td><td valign="top"> 2.325.000,00 &nbsp; </td></tr><tr><td valign="top"> Serviços de Radiodifusão RA e TV </td><td valign="top"> 1.841.000,00 </td><td valign="top"> 2.513.000,00 &nbsp; </td></tr><tr><td valign="top"> Atividades Técnicas e de Nível Superior sem especialização </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 &nbsp; </td></tr><tr><td valign="top"> Atividades Técnicas e de Nível Superior com especialização </td><td valign="top"> 4.685.000,00 </td><td valign="top"> 6.000.000,00 &nbsp; </td></tr><tr><td valign="top"> Atividade de Nível Superior - Especial </td><td valign="top"> 6.262.360,00 </td><td valign="top"> 8.005.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:450.3pt;border-collapse:collapse;border:none" width="600"><tbody><tr><td colspan="4" style="width:450.3pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="600"><p class="MsoNormal"><span style="color:black">B: CARGOS EM COMISSÃO</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">DENOMINAÇÃO</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p class="MsoNormal">SÍMBOLO</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">DIRETOR GERAL</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">IRD-1 DA</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">16.866.000,00</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">24.556.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">&nbsp;</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">CHEFE DA ASTEC</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">IRD-2 DA</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">11.500.000,00</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">16.000.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">ASSESSOR ESPECIAL</p><p class="MsoNormal">GERENTE GERAL</p><p class="MsoNormal">GERENTE TÉCNICO</p><p class="MsoNormal">GERENTE ADMINISTRATIVO</p><p class="MsoNormal">GERENTE FINANCEIRO</p><p class="MsoNormal">&nbsp;</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">IRD-3 DA</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">11.031.000,00</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">15.236.000,00</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">CHEFE DA PROJUR</p><p class="MsoNormal">ASSIST. DA DIRETORIA</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">IRD-4 DA</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">8.489.000,00</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">11.778.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">ASSESSOR I</p><p class="MsoNormal">GERENTE DE UNIDADE</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">IRD-5 DA</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">7.595.000,00</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">10.427.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">ASSESSOR II</p><p class="MsoNormal">CHEFE DE NÚCLEO</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">IRD-6 DA</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">4.890.000,00</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">7.130.000,00</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">SECRETÁRIA ASSISTENTE</p><p class="MsoNormal">&nbsp;</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">IRD-7 DA</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">3.030.000,00</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">4.201.000,00</p></td></tr><tr><td style="width:155.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p class="MsoNormal">SECRETÁRIA DE UNIDADE</p></td><td style="width:109.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center">IRD-8 DA</p></td><td style="width:100.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="134"><p align="right" class="MsoNormal" style="text-align:right">2.158.000,00</p></td><td style="width:85.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="right" class="MsoNormal" style="text-align:right">2.944.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" valign="top"> B: CARGOS EM COMISSÃO &nbsp; </td></tr><tr><td valign="top"> DENOMINAÇÃO </td><td valign="top"> SÍMBOLO </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> DIRETOR GERAL </td><td valign="top"> IRD-1 DA </td><td valign="top"> 16.866.000,00 </td><td valign="top"> 24.556.000,00 &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> CHEFE DA ASTEC </td><td valign="top"> IRD-2 DA </td><td valign="top"> 11.500.000,00 </td><td valign="top"> 16.000.000,00 &nbsp; </td></tr><tr><td valign="top"> ASSESSOR ESPECIAL GERENTE GERAL GERENTE TÉCNICO GERENTE ADMINISTRATIVO GERENTE FINANCEIRO &nbsp; </td><td valign="top"> &nbsp; &nbsp; IRD-3 DA </td><td valign="top"> &nbsp; &nbsp; 11.031.000,00 </td><td valign="top"> &nbsp; &nbsp; 15.236.000,00 </td></tr><tr><td valign="top"> CHEFE DA PROJUR ASSIST. DA DIRETORIA </td><td valign="top"> IRD-4 DA </td><td valign="top"> 8.489.000,00 </td><td valign="top"> 11.778.000,00 &nbsp; </td></tr><tr><td valign="top"> ASSESSOR I GERENTE DE UNIDADE </td><td valign="top"> IRD-5 DA </td><td valign="top"> 7.595.000,00 </td><td valign="top"> 10.427.000,00 &nbsp; </td></tr><tr><td valign="top"> ASSESSOR II CHEFE DE NÚCLEO </td><td valign="top"> IRD-6 DA </td><td valign="top"> 4.890.000,00 </td><td valign="top"> 7.130.000,00 &nbsp; &nbsp; </td></tr><tr><td valign="top"> SECRETÁRIA ASSISTENTE &nbsp; </td><td valign="top"> IRD-7 DA </td><td valign="top"> 3.030.000,00 </td><td valign="top"> 4.201.000,00 </td></tr><tr><td valign="top"> SECRETÁRIA DE UNIDADE </td><td valign="top"> IRD-8 DA </td><td valign="top"> 2.158.000,00 </td><td valign="top"> 2.944.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:440.0pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td colspan="3" style="width:440.0pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="587"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:37.95pt;
-  margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-align:center"><b><span style="color:black">ANEXO X</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">JUNTA COMERCIAL DO ESTADO DA BAHIA - JUCEB</span></p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEIS</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.302.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.401.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.796.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.626.000,000</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.325.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.785.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.441.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">4.685.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">6.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO X** JUNTA COMERCIAL DO ESTADO DA BAHIA - JUCEB </td></tr><tr><td valign="top"> &nbsp; NÍVEIS </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.401.000,00 </td><td valign="top"> 1.796.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.626.000,000 </td><td valign="top"> 2.325.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.785.000,00 </td><td valign="top"> 2.441.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 4.685.000,00 </td><td valign="top"> 6.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:440.0pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td colspan="3" style="width:440.0pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="587"><p align="center" class="MsoNormal" style="margin-right:30.9pt;text-align:center"><b><span style="color:black">ANEXO XI</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">FUNDAÇÃO DA CRIANÇA E DO ADOLESCENTE - FUNDAC</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">CARGOS DO GRUPO TÉCNICO-ADMINISTRATIVO</span></p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="right" class="MsoNormal" style="margin-right:30.9pt;text-align:right">TABELA 1</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEIS</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.302.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.316.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.727.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.332.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.761.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.585.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.882.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.626.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.325.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO XI** FUNDAÇÃO DA CRIANÇA E DO ADOLESCENTE - FUNDAC CARGOS DO GRUPO TÉCNICO-ADMINISTRATIVO </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> TABELA 1 &nbsp; </td></tr><tr><td valign="top"> &nbsp; NÍVEIS </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.316.000,00 </td><td valign="top"> 1.727.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.332.000,00 </td><td valign="top"> 1.761.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.585.000,00 </td><td valign="top"> 1.882.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 1.626.000,00 </td><td valign="top"> 2.325.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:440.0pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td colspan="3" style="width:440.0pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="587"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">CARGOS DO GRUPO OCUPACIONAL ESPECÍFICO</span></p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="right" class="MsoNormal" style="text-align:right">TABELA 2</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEIS</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.302.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.314.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.727.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.380.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.761.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.565.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.325.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> CARGOS DO GRUPO OCUPACIONAL ESPECÍFICO </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> TABELA 2 &nbsp; </td></tr><tr><td valign="top"> &nbsp; NÍVEIS </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.314.000,00 </td><td valign="top"> 1.727.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.380.000,00 </td><td valign="top"> 1.761.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.565.000,00 </td><td valign="top"> 2.325.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:440.0pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td colspan="3" style="width:440.0pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="587"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO XII</span></b><br><span style="color:black">INSTITUTO DE ASSISTÊNCIA E PREVIDÊNCIA DO SERVIDOR DO ESTADO DA BAHIA - IAPSEB</span></p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">TABELA 1</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEIS</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.302.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.316.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.727.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.332.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.761.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.585.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.882.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.626.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.325.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO XII** INSTITUTO DE ASSISTÊNCIA E PREVIDÊNCIA DO SERVIDOR DO ESTADO DA BAHIA - IAPSEB </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> TABELA 1 </td></tr><tr><td valign="top"> &nbsp; NÍVEIS </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.316.000,00 </td><td valign="top"> 1.727.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.332.000,00 </td><td valign="top"> 1.761.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.585.000,00 </td><td valign="top"> 1.882.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 1.626.000,00 </td><td valign="top"> 2.325.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:440.0pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p class="MsoNormal"><span style="color:black">CARGOS DO GRUPO OCUPACIONAL ESPECÍFICO</span></p></td><td colspan="2" style="width:295.8pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">TABELA 2</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">NÍVEIS</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.314.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.727.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.336.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.744.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.380.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.882.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.565.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.325.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS DO GRUPO OCUPACIONAL ESPECÍFICO </td><td colspan="2" valign="top"> TABELA 2 </td></tr><tr><td valign="top"> &nbsp; NÍVEIS </td><td colspan="2" valign="top"> &nbsp; V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.314.000,00 </td><td valign="top"> 1.727.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.336.000,00 </td><td valign="top"> 1.744.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.380.000,00 </td><td valign="top"> 1.882.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.565.000,00 </td><td valign="top"> 2.325.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:440.0pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td colspan="3" style="width:440.0pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="587"><p align="center" class="MsoNormal" style="margin-right:16.7pt;text-align:center"><b><span style="color:black">ANEXO XIII</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">INSTITUTO DE PESOS E MEDIDAS DO ESTADO DA BAHIA - IPEMBA</span></p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CLASSE</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.302.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.396.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.761.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.943.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.351.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">2.392.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.938.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">4.685.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">6.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO XIII** INSTITUTO DE PESOS E MEDIDAS DO ESTADO DA BAHIA - IPEMBA </td></tr><tr><td valign="top"> &nbsp; CLASSE </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.396.000,00 </td><td valign="top"> 1.761.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.943.000,00 </td><td valign="top"> 2.351.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 2.392.000,00 </td><td valign="top"> 2.938.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 4.685.000,00 </td><td valign="top"> 6.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:440.0pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td colspan="3" style="width:440.0pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="587"><p align="center" class="MsoNormal" style="margin-right:9.6pt;text-align:center"><b><span style="color:black">ANEXO XIV</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DA BAHIA - DERBA</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">CARGOS DO GRUPO TÉCNICO-ADMINISTRATIVO</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="right" class="MsoNormal" style="text-align:right">TABELA 1</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CLASSES</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.302.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.332.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.761.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.626.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.209.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.656.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.325.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">4.685.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">6.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO XIV** DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DA BAHIA - DERBA CARGOS DO GRUPO TÉCNICO-ADMINISTRATIVO &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> TABELA 1 &nbsp; </td></tr><tr><td valign="top"> &nbsp; CLASSES </td><td colspan="2" valign="top"> &nbsp; V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.332.000,00 </td><td valign="top"> 1.761.000,00 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.626.000,00 </td><td valign="top"> 2.209.000,00 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.656.000,00 </td><td valign="top"> 2.325.000,00 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 4.685.000,00 </td><td valign="top"> 6.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:440.0pt;border-collapse:collapse;border:none" width="587"><tbody><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">CARGOS DO GRUPO OPERACIONAL</span></p></td><td colspan="2" style="width:295.8pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">TABELA 2</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">CLASSE</p></td><td colspan="2" style="width:295.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="text-align:center">V I G Ê N C I A</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">01/01/93</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.302.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.710.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.551.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">1.837.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">1.721.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.060.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">4</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">2.108.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">2.566.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">5</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">3.777.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">5.000.000,00</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:144.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p align="center" class="MsoNormal" style="text-align:center">6</p></td><td style="width:144.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="MsoNormal" style="text-align:center">4.685.000,00</p></td><td style="width:151.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="201"><p align="center" class="MsoNormal" style="text-align:center">6.000.000,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS DO GRUPO OPERACIONAL </td><td colspan="2" valign="top"> TABELA 2 &nbsp; </td></tr><tr><td valign="top"> CLASSE </td><td colspan="2" valign="top"> V I G Ê N C I A </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 01/01/93 </td><td valign="top"> 01/03/93 </td></tr><tr><td valign="top"> 1 </td><td valign="top"> 1.302.000,00 </td><td valign="top"> 1.710.000,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.551.000,00 </td><td valign="top"> 1.837.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.721.000,00 </td><td valign="top"> 2.060.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 2.108.000,00 </td><td valign="top"> 2.566.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 3.777.000,00 </td><td valign="top"> 5.000.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 4.685.000,00 </td><td valign="top"> 6.000.000,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:437.95pt;border-collapse:collapse;border:none" width="584"><tbody><tr><td colspan="2" style="width:437.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p align="center" class="MsoNormal" style="margin-right:30.9pt;text-align:center"><b><span style="color:black">ANEXO XV</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DA BAHIA - DERBA</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">CARGOS DO GRUPO TÉCNICO-ADMINISTRATIVO</span></p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">CLASSE</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">DISCRIMINAÇÃO</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Agente de Segurança</p><p class="MsoNormal">Vigilante</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Agente Administrativo</p><p class="MsoNormal">Recepcionista</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Assistente Administrativo I</p><p class="MsoNormal">Datilógrafo</p><p class="MsoNormal">Radiotelegrafista</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">4</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Assistente Administrativo II</p><p class="MsoNormal">Assistente Contábil-Financeiro</p><p class="MsoNormal">Técnico em Administração</p><p class="MsoNormal">Técnico em Contabilidade</p><p class="MsoNormal">Técnico em Secretariado</p><p class="MsoNormal">Técnico em Telecomunicações</p><p class="MsoNormal">Outros Técnicos de Nível Médio</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">5</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Administrador I</p><p class="MsoNormal">Assistente Social I</p><p class="MsoNormal">Bibliotecário I</p><p class="MsoNormal">Contador I</p><p class="MsoNormal">Economista I</p><p class="MsoNormal">Psicólogo I</p><p class="MsoNormal">Secretário Executivo I</p><p class="MsoNormal">Outros Profissionais de Nível Superior I</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">6</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Administrador II</p><p class="MsoNormal">Assistente Social II</p><p class="MsoNormal">Bibliotecário II</p><p class="MsoNormal">Contador II</p><p class="MsoNormal">Economista II</p><p class="MsoNormal">Psicólogo II</p><p class="MsoNormal">Secretário Executivo II</p><p class="MsoNormal">Outros Profissionais de Nível Superior II</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **ANEXO XV** DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DA BAHIA - DERBA CARGOS DO GRUPO TÉCNICO-ADMINISTRATIVO </td></tr><tr><td valign="top"> &nbsp; CLASSE </td><td valign="top"> &nbsp; DISCRIMINAÇÃO &nbsp; </td></tr><tr><td valign="top"> 1 </td><td valign="top"> Agente de Segurança Vigilante </td></tr><tr><td valign="top"> 2 </td><td valign="top"> Agente Administrativo Recepcionista </td></tr><tr><td valign="top"> &nbsp; 3 </td><td valign="top"> Assistente Administrativo I Datilógrafo Radiotelegrafista </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; 4 &nbsp; &nbsp; &nbsp; </td><td valign="top"> Assistente Administrativo II Assistente Contábil-Financeiro Técnico em Administração Técnico em Contabilidade Técnico em Secretariado Técnico em Telecomunicações Outros Técnicos de Nível Médio </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; 5 &nbsp; &nbsp; &nbsp; </td><td valign="top"> Administrador I Assistente Social I Bibliotecário I Contador I Economista I Psicólogo I Secretário Executivo I Outros Profissionais de Nível Superior I </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; 6 &nbsp; &nbsp; &nbsp; </td><td valign="top"> Administrador II Assistente Social II Bibliotecário II Contador II Economista II Psicólogo II Secretário Executivo II Outros Profissionais de Nível Superior II </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:437.95pt;border-collapse:collapse;border:none" width="584"><tbody><tr><td colspan="2" style="width:437.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p align="center" class="MsoNormal" style="margin-right:66.3pt;text-align:center"><b><span style="color:black">ANEXO XVI</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DA BAHIA - DERBA</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">CARGOS DO GRUPO OPERACIONAL</span></p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">CLASSE</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">DISCRIMINAÇÃO</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Artífice Auxiliar</p><p class="MsoNormal">Auxiliar de Laboratório</p><p class="MsoNormal">Auxiliar de Serviços de Campo</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Artífice</p><p class="MsoNormal">Pedreiro</p><p class="MsoNormal">Operador de Equipamento Leve</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">3</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Administrador de Campo</p><p class="MsoNormal">Assistente de Topógrafo</p><p class="MsoNormal">Desenhista</p><p class="MsoNormal">Fiscal de Obras</p><p class="MsoNormal">Frezador</p><p class="MsoNormal">Laboratorista</p><p class="MsoNormal">Mecânico</p><p class="MsoNormal">Motorista</p><p class="MsoNormal">Planador</p><p class="MsoNormal">Retificador</p><p class="MsoNormal">Torneiro</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">4</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Auxiliar de Engenheiro</p><p class="MsoNormal">Operador de Equipamento Pesado</p><p class="MsoNormal">Técnico em Desenho</p><p class="MsoNormal">Técnico em Eletromecânica</p><p class="MsoNormal">Técnico em Estradas</p><p class="MsoNormal">Técnico em Laboratório</p><p class="MsoNormal">Técnico em Química</p><p class="MsoNormal">Topógrafo</p><p class="MsoNormal">Outros Técnicos de Nível Médio</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">5</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Arquiteto I</p><p class="MsoNormal">Engenheiro Agrimensor I</p><p class="MsoNormal">Engenheiro Agrônomo I</p><p class="MsoNormal">Engenheiro Civil I</p><p class="MsoNormal">Geólogo I</p><p class="MsoNormal">Piloto (*)</p></td></tr><tr><td style="width:84.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">6</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:353.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="471"><p class="MsoNormal">Arquiteto II</p><p class="MsoNormal">Engenheiro Agrimensor II</p><p class="MsoNormal">Engenheiro Agrônomo II</p><p class="MsoNormal">Engenheiro Civil II</p><p class="MsoNormal">Geólogo II</p></td></tr><tr><td colspan="2" style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">(*) Cargo a ser extinto com a vacância</p><p class="MsoNormal"><span style="color:black">&nbsp;</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **ANEXO XVI** DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DA BAHIA - DERBA CARGOS DO GRUPO OPERACIONAL </td></tr><tr><td valign="top"> &nbsp; CLASSE </td><td valign="top"> &nbsp; DISCRIMINAÇÃO &nbsp; </td></tr><tr><td valign="top"> &nbsp; 1 </td><td valign="top"> Artífice Auxiliar Auxiliar de Laboratório Auxiliar de Serviços de Campo </td></tr><tr><td valign="top"> &nbsp; 2 </td><td valign="top"> Artífice Pedreiro Operador de Equipamento Leve </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; &nbsp; 3 &nbsp; </td><td valign="top"> Administrador de Campo Assistente de Topógrafo Desenhista Fiscal de Obras Frezador Laboratorista Mecânico Motorista Planador Retificador Torneiro </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; 4 &nbsp; &nbsp; &nbsp; &nbsp; </td><td valign="top"> Auxiliar de Engenheiro Operador de Equipamento Pesado Técnico em Desenho Técnico em Eletromecânica Técnico em Estradas Técnico em Laboratório Técnico em Química Topógrafo Outros Técnicos de Nível Médio </td></tr><tr><td valign="top"> &nbsp; &nbsp; &nbsp; 5 &nbsp; </td><td valign="top"> Arquiteto I Engenheiro Agrimensor I Engenheiro Agrônomo I Engenheiro Civil I Geólogo I Piloto (*) </td></tr><tr><td valign="top"> &nbsp; &nbsp; 6 &nbsp; </td><td valign="top"> Arquiteto II Engenheiro Agrimensor II Engenheiro Agrônomo II Engenheiro Civil II Geólogo II </td></tr><tr><td colspan="2" valign="top"> (*) Cargo a ser extinto com a vacância &nbsp; </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:437.95pt;border-collapse:collapse;border:none" width="584"><tbody><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO XVII</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">INSTITUTO DE RADIODIFUSÃO EDUCATIVA DA BAHIA - IRDEB</span></p></td></tr><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">GRUPOS OCUPACIONAIS</p><p class="MsoNormal">&nbsp;</p></td></tr><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">Serviços Gráficos e Gerais</p></td></tr><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">Apoio Administrativo</p></td></tr><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">Atividade de Nível Médio</p></td></tr><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">Serviços de Radiodifusão RA e TV</p></td></tr><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">Atividades Técnicas e de Nível Superior - sem especialização</p></td></tr><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">Atividades Técnicas e de Nível Superior - com especialização</p></td></tr><tr><td style="width:437.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="MsoNormal">Atividades de Nível Superior - Especial</p></td></tr></tbody></table>
+**ANEXO XVII**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:437.9pt;border-collapse:collapse;border:none" width="584"><tbody><tr><td colspan="4" style="width:437.9pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO XVIII</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">CARREIRA DE TÉCNICO EM SERVIÇO PÚBLICO</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">REGIME DE 40 (QUARENTA) HORAS SEMANAIS</span></p></td></tr><tr><td style="width:149.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="200"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CARGO</p></td><td style="width:90.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p><p align="center" class="MsoNormal" style="text-align:center">CLASSE</p></td><td style="width:107.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="143"><p align="center" class="MsoNormal" style="text-align:center">NÚMERO</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;DE</p><p align="center" class="MsoNormal" style="text-align:center">&nbsp;CARGOS</p></td><td style="width:90.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">VENCIMENTO</p><p align="center" class="MsoNormal" style="text-align:center">EM</p><p align="center" class="MsoNormal" style="text-align:center">01/03/93</p></td></tr><tr><td style="width:149.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="200"><p class="MsoNormal">&nbsp;</p></td><td style="width:90.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:107.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="143"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:90.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td></tr><tr><td style="width:149.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="200"><p class="MsoNormal">&nbsp;</p></td><td style="width:90.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">1</p></td><td style="width:107.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="143"><p align="center" class="MsoNormal" style="text-align:center">250</p></td><td style="width:90.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="right" class="MsoNormal" style="text-align:right">12.000.000,00</p></td></tr><tr><td style="width:149.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="200"><p class="MsoNormal">&nbsp;</p></td><td style="width:90.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:107.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="143"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:90.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:149.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="200"><p class="MsoNormal">Técnico em Serviço Público</p></td><td style="width:90.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">2</p></td><td style="width:107.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="143"><p align="center" class="MsoNormal" style="text-align:center">100</p></td><td style="width:90.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="right" class="MsoNormal" style="text-align:right">13.200.000,00</p></td></tr><tr><td style="width:149.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="200"><p class="MsoNormal">&nbsp;</p></td><td style="width:90.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:107.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="143"><p align="center" class="MsoNormal" style="text-align:center">&nbsp;</p></td><td style="width:90.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="right" class="MsoNormal" style="text-align:right">&nbsp;</p></td></tr><tr><td style="width:149.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="200"><p class="MsoNormal">&nbsp;</p></td><td style="width:90.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p align="center" class="MsoNormal" style="text-align:center">3</p></td><td style="width:107.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="143"><p align="center" class="MsoNormal" style="text-align:center">50</p></td><td style="width:90.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="120"><p align="right" class="MsoNormal" style="text-align:right">14.520.000,00</p></td></tr></tbody></table>
+INSTITUTO DE RADIODIFUSÃO EDUCATIVA DA BAHIA - IRDEB
+
+GRUPOS OCUPACIONAIS
+
+Serviços Gráficos e Gerais
+
+Apoio Administrativo
+
+Atividade de Nível Médio
+
+Serviços de Radiodifusão RA e TV
+
+Atividades Técnicas e de Nível Superior - sem especialização
+
+Atividades Técnicas e de Nível Superior - com especialização
+
+Atividades de Nível Superior - Especial
+
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" valign="top"> **ANEXO XVIII** CARREIRA DE TÉCNICO EM SERVIÇO PÚBLICO REGIME DE 40 (QUARENTA) HORAS SEMANAIS </td></tr><tr><td valign="top"> &nbsp; CARGO </td><td valign="top"> &nbsp; CLASSE </td><td valign="top"> NÚMERO &nbsp;DE &nbsp;CARGOS </td><td valign="top"> VENCIMENTO EM 01/03/93 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 250 </td><td valign="top"> 12.000.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Técnico em Serviço Público </td><td valign="top"> 2 </td><td valign="top"> 100 </td><td valign="top"> 13.200.000,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3 </td><td valign="top"> 50 </td><td valign="top"> 14.520.000,00 </td></tr></tbody></table>

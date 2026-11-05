@@ -1,5 +1,3 @@
-###DEL-008904-0-000-24-01-1946@@@
-
 DECRETO – LEI N. 8.904 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a reorganização do Departamento Nacional de Portos, Rios e Canais, e dá outras providências.

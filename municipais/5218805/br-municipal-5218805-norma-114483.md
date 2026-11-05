@@ -1,7 +1,5 @@
-<br>
 LEI Nº  4.680, DE 31 DE AGOSTO DE 2003.
 
-<br>
 Altera a Lei n. 3.635/98, seção X, que dispõe sobre a publicidade volante.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

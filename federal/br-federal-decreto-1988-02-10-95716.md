@@ -1,7 +1,3 @@
-1
-
-###DEC-095716-0-000-10-02-1988@@@
-
 DECRETO Nº 95.716, DE 10 DE FEVEREIRO DE 1988
 
 Dispõe sobre a criação, na região Nordeste, da Comissão Interministerial para estudo e acompanhamento do fenômeno do tremor de terra, e dá outras providências.

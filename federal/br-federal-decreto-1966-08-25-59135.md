@@ -1,5 +1,3 @@
-###DEC-059135-0-000-25-08-1966@@@
-
 DECRETO Nº 59.135, DE 25 DE AGôSTO DE 1966.
 
 Autoriza Construções e Comércio Camargo Corrêa S. A. a pesquisar agalmatolito no município de Mateus Leme, Estado de Minas Gerais.

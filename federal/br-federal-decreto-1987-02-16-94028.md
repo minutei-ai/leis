@@ -1,5 +1,3 @@
-###DEC-094028-0-000-16-02-1987@@@
-
 DECRETO Nº 94.028, DE 16 DE FEVEREIRO DE 1987.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra abrangida pelo Projeto de Irrigação "Vale do Gurguéia", no Município de Cristino Castro, Estado do Piauí, para a execução do Programa de Irrigação do Nordeste PROINE, e dá outras providências

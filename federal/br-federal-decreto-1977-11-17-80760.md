@@ -1,5 +1,3 @@
-###DEC-080760-0-000-17-11-1977@@@
-
 Decreto nº 80.760, de 17 de novembro de 1977.
 
 Altera o Decreto nº 77.789, que regulamenta o Decreto-lei nº 1.438, de 26 de dezembro de 1975, que dispõe sobre o Imposto sobre os Serviços de Transporte Rodoviário Intermunicipal e Interestadual de Pessoas e Cargas (ISTR).

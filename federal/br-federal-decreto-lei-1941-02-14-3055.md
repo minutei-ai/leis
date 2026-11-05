@@ -1,5 +1,3 @@
-###DEL-003055-0-000-14-02-1941@@@
-
 DECRETO-LEI N. 3.055 – DE 14 DE FEVEREIRO DE 1941
 
 Extingue a Escola de Geógrafos do Exército e cria, na Escola Técnica do Exército o curso de Geodésia e Topografia

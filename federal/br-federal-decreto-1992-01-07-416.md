@@ -1,7 +1,3 @@
-1
-
-###DEC-000416-0-000-07-01-1992@@@
-
 DECRETO Nº 416, DE 07 DE JANEIRO DE 1992
 
 Aprova o Estatuto da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF.

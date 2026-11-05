@@ -1,5 +1,3 @@
-###MPV-001536-0-000-18-12-1996@@@
-
 MEDIDA PROVISÓRIA Nº 1.536, DE 18 DE DEZEMBRO DE 1996.
 
 Reduz o imposto de importação para os produtos que especifica e dá outras providências.

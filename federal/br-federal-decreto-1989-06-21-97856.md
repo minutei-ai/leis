@@ -1,7 +1,3 @@
-1
-
-###DEC-097856-0-000-21-06-1989@@@
-
 DECRETO Nº 97.856, DE 21 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária os imóveis rurais denominados “FAZENDAS ÁGUA BRANCA e VEREDA GRANDE”, classificados como “latifúndio por exploração”, situados no Município de São Francisco, Estado de Minas Gerais, compreendidos na zona prioritária fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências.

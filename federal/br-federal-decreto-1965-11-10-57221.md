@@ -1,5 +1,3 @@
-###DEC-057221-0-000-10-11-1965@@@
-
 Decreto nº 57.221, de 10 de novembro de 1965.
 
 Autoriza a Cal Itu S.A. Mineração Indústria e Comércio a lavrar dolomita, no município de Itararé, Estado de São Paulo.

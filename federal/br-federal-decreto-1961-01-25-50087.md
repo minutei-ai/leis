@@ -1,5 +1,3 @@
-###DEC-050087-0-000-25-01-1961@@@
-
 DECRETO Nº 50.087, DE 25 DE JANEIRO DE 1961.
 
 Prorroga concessão outorgada à Rádio Rio Preto S A.

@@ -1,5 +1,3 @@
-###DEL-008502-0-000-29-12-1945@@@
-
 DECRETO-LEI N. 8.502 – DE 29 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito extraordinário de Cr$ 3.000.000,00, para reparação das danos causados à cidade de Petrópolis pela enchente de março do corrente ano.

@@ -1,5 +1,3 @@
-###DEC-075020-0-000-02-12-1974@@@
-
 Decreto nº 75.020, de 2 de dezembro de 1974.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

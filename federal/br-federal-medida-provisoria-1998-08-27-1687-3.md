@@ -1,5 +1,3 @@
-###MPV-001687-0-003-27-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.687-3, DE 27 DE AGOSTO DE 1998
 
 Institui o Programa Emergencial de Frentes Produtivas e dá outras providências.

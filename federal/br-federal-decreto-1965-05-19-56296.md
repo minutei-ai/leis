@@ -1,5 +1,3 @@
-###DEC-056296-0-000-19-05-1965@@@
-
 DECRETO Nº 56.296, de 19 de maio de 1965.
 
 Declara de utilidade pública o Centro dos Retalhistas, com sede em Fortaleza, Estado do Ceará.

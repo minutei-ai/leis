@@ -1,5 +1,3 @@
-###DEC-047201-0-000-06-11-1959@@@
-
 DECRETO Nº 47.201, DE 6 DE NOVEMBRO DE 1959.
 
 Renova o Decreto nº 42.099, de 19 de agôsto de 1957.

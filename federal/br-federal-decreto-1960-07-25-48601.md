@@ -1,5 +1,3 @@
-###DEC-048601-0-000-25-07-1960@@@
-
 DECRETO N. 48.601 – DE 25 DE JULHO DE 1960
 
 Autoriza o cidadão brasileiro José Casemiro Ramos Neiva a pesquisar ilmenita, no Município Ce Tutoia, Estado do Maranhão.

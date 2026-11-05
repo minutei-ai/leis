@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53660)
-
 # LEI Nº 11.930, DE 20 DE MAIO DE 2005
 
 ## (PL 2/2005 - Governador)

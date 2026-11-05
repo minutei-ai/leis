@@ -1,5 +1,3 @@
-###DEC-055530-0-000-11-01-1965@@@
-
 DECRETO Nº 55.530, DE 11 DE JANEIRO DE 1965.
 
 Autoriza a Companhia de Cimento Brasileiro a pesquisar calcário no município de Arroio Grande, Estado do Rio Grande do Sul.

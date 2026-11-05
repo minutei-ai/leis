@@ -1,5 +1,3 @@
-###DEC-066479-0-000-23-04-1970@@@
-
 DECRETO nº 66.479, DE 23 DE ABRIL DE 1970.
 
 Autoriza funcionamento da Faculdade de Ciências Administrativas "Pais de Barros", em São Paulo.

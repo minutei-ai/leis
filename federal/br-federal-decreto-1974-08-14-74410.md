@@ -1,5 +1,3 @@
-###DEC-074410-0-000-14-08-1974@@@
-
 DECRETO Nº 74.410, DE 14 DE AGOSTO DE 1974.
 
 Autoriza a transformação, para curso de Educação Artística, da licenciatura em Educação Musical do curso de Música da Escola Superior de Música Santa Marcelina, mantida pela Associação Colégio dos Anjos com sede na Cidade de São Paulo.

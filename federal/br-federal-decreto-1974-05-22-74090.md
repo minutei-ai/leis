@@ -1,5 +1,3 @@
-###DEC-074090-0-000-22-05-1974@@@
-
 DECRETO Nº 74.090, DE 22 DE MAIO DE 1974.
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Educação, Ciências e Letras "Don Domênico", mantida pela Sociedade Amparo aos Praianos de Guarujá, com sede na Cidade de Guarujá, Estado de São Paulo.

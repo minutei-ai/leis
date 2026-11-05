@@ -1,5 +1,3 @@
-###DEL-006622-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.622 – DE 22 DE JUNHO DE 1944
 
 Aprova o Convênio celebrado entre os Estados cafeeiros, em 19 de junho de 1944 e dá outras providências

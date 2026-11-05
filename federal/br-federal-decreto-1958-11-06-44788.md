@@ -1,14 +1,12 @@
-###DEC-044788-0-000-06-11-1958@@@
+**DECRETO Nº 44.788, DE 6 DE NOVEMBRO DE 1958.**
 
-<strong>DECRETO Nº 44.788, DE 6 DE NOVEMBRO DE 1958.</strong>
+***Dá nova redação ao art. 3º do Decreto nº 40.934, de 14 de fevereiro de 1957, que autorizou a Companhia Hidro Elétrica do São Francisco a construir uma linha de transmissão e declarou de utilidade pública a faixa de terra destinada à passagem da referida linha.***
 
-<em><strong>Dá nova redação ao art. 3º do Decreto nº 40.934, de 14 de fevereiro de 1957, que autorizou a Companhia Hidro Elétrica do São Francisco a construir uma linha de transmissão e declarou de utilidade pública a faixa de terra destinada à passagem da referida linha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 3º do Decreto número 40.934, de 14 de fevereiro de 1957 passa a ter a seguinte redação:
+**Art**. 1º O art. 3º do Decreto número 40.934, de 14 de fevereiro de 1957 passa a ter a seguinte redação:
 
 “Art. 3º A faixa de terra destinada no artigo anterior compreende as áreas constantes da planta aprovada, situada no município de Goiana, Estado de Pernambuco, de propriedade atribuída às pessoas a seguir relacionadas na ordem em que se encontram ao longo do traçado da linha:
 
@@ -38,12 +36,12 @@
 
 13 - Área de 31.700m<sup>2</sup> (trinta e um mil e setecentos metros quadrados) de Benedito Carneiro (gleba nº 13)”.
 
-<strong>Art</strong>. 2º Êste decreto entra em vigor na data da sua publicação.
+**Art**. 2º Êste decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de novembro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

@@ -1,5 +1,3 @@
-###DEC-056414-0-000-04-06-1965@@@
-
 DECRETO Nº 56.414, DE 4 DE JUNHO DE 1965.
 
 Expede normas a serem observadas pelas Delegacias do Trabalho Marítimo e que deverão ser incluídas nas instruções sôbre a profissão do Consertador de Carga e Descarga, baixadas nos têrmos da Lei número 2.191, de 5 de março de 1954, e dá outras providências.

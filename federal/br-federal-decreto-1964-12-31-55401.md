@@ -1,5 +1,3 @@
-###DEC-055401-0-000-31-12-1964@@@
-
 Decreto nº 55.401, de 31 de dezembro de 1964.
 
 Autoriza SOMIPAL, S.A. Indústria Paulista de Minérios a lavrar Minério de ferro, no município de Guarulhos, Estado de São Paulo.

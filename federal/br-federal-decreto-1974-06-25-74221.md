@@ -1,5 +1,3 @@
-###DEC-074221-0-000-25-06-1974@@@
-
 DECRETO Nº 74.221, de 25 de junho de 1974.
 
 Renova por 10 (dez) anos a outorga deferida à S. A. Rádio Araguari, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Araguari, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-005852-0-000-18-07-2006@@@
-
 DECRETO Nº 5.852, DE 18 DE JULHO DE 2006.
 
 Promulga o Acordo sobre Dispensa de Tradução de Documentos Administrativos para Efeitos de Imigração entre os Estados Partes do Mercosul, a República da Bolívia e a República do Chile, de 15 de dezembro de 2000.
@@ -22,11 +20,7 @@ Brasília, 18 de julho de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 19.7.2006
-
-ACORDO SOBRE DISPENSA DE TRADUÇÃO DE DOCUMENTOS
+        Celso Luiz Nunes AmorimACORDO SOBRE DISPENSA DE TRADUÇÃO DE DOCUMENTOS
 
 ADMINISTRATIVOS PARA EFEITOS DE IMIGRAÇÃO ENTRE
 

@@ -1,5 +1,3 @@
-###DEC-077391-0-000-06-04-1976@@@
-
 DECRETO Nº 77.391 - DE 6 DE ABRIL DE 1976
 
 Autoriza o registro, em nome da União Federal do imóvel que menciona situado no Município de Cururupu, Estado do Maranhão.

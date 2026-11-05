@@ -1,5 +1,3 @@
-###DEC-007756-0-000-14-06-2012-PUB-01@@@
-
 DECRETO N° 7.756, DE 14 DE JUNHO DE 2012
 
 Estabelece a aplicação de margem de preferência em licitações realizadas no âmbito da administração pública federal para aquisição de produtos de confecções, calçados e artefatos, para fins do disposto no art. 3° da Lei n° 8.666, de 21 de junho de 1993.

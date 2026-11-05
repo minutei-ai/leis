@@ -1,5 +1,3 @@
-###DEC-090811-0-000-15-01-1985@@@
-
 Decreto nº 90.811, de 15 de janeiro de 1985.
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, localizadas no Município de Mangueirinha, no Estalo do Paraná.

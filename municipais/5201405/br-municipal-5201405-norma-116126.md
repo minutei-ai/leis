@@ -6,7 +6,7 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU, E EU, PREF
 
 Art. 1º Fica desafetada do uso comum do povo e transformada em bem dominical, o bem público situado no Loteamento  Garavelo Residencial Park, a seguir descrito:
 
-<table><tbody><tr><td style=" width:192px;    "><b>IMÓVEIS</b></td><td style=" width:180px;    "><b>(m²)</b></td></tr><tr><td style=" width:192px;    "><b>APM 1 A-B</b></td><td style=" width:180px;    "><b>5.755,01</b></td></tr></tbody></table>
+<table><tbody><tr><td style=" width:192px;    ">**IMÓVEIS**</td><td style=" width:180px;    ">**(m²)**</td></tr><tr><td style=" width:192px;    ">**APM 1 A-B**</td><td style=" width:180px;    ">**5.755,01**</td></tr></tbody></table>
 
 (Redação alterada pela Lei Ordinária nº 3.625, de 21 de setembro de 2021).
 
@@ -29,8 +29,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 14 de junho de 2019.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
-Chefe da Casa Civil<br>
+OLAVO NOLETO ALVES
+
+Chefe da Casa Civil

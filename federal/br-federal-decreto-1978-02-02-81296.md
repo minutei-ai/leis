@@ -1,5 +1,3 @@
-###DEC-081296-0-000-02-02-1978@@@
-
 Decreto nº 81.296 de 2 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de Comunicação Social do Instituto de Psicologia e Comunicação Social, vinculado ao Centro de Educação e Humanidades da Universidade do Estado do Rio de Janeiro.

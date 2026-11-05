@@ -1,5 +1,3 @@
-###DEC-051961-0-000-26-04-1963@@@
-
 decreto nº 51.961, de 26 de abril de 1963.
 
 Dá nova redação ao Capitulo VII (Condecorações), Título I - Primeira Parte - do Regulamento de Uniformes do Pessoal do Exército (Decreto nº 30.163, de 13 de novembro de 1951).

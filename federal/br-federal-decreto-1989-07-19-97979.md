@@ -1,7 +1,3 @@
-1
-
-###DEC-097979-0-000-19-07-1989@@@
-
 DECRETO Nº 97.979, DE 19 DE JULHO DE 1989
 
 Concede à empresa LATINO SOCIEDAD ANÔNIMA autorização para funcionar na República Federativa do Brasil.

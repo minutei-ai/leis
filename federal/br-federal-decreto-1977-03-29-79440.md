@@ -1,5 +1,3 @@
-###DEC-079440-0-000-29-03-1977@@@
-
 DECRETO Nº 79.440, DE 29 DE MARÇO DE 1977.
 
 Altera o Decreto nº 73.787, de 11 de março de 1974, que dispõe sobre assistência médico-hospitalar ao militar e seus dependentes, e dá outras providências.

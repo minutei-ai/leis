@@ -1,5 +1,3 @@
-###DEL-003033-0-000-07-02-1941@@@
-
 DECRETO-LEI N. 3.033 – DE 7 DE FEVEREIRO DE 1941
 
 Dispõe sobre a, substituição de apólices ao portador por títulos de renda.

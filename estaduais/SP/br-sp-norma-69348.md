@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69348)
-
 # LEI Nº 12.459, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 424/2006, do Deputado Mauro Bragato - PSDB)

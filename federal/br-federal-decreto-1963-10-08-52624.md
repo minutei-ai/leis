@@ -1,5 +1,3 @@
-###DEC-052624-0-000-08-10-1963@@@
-
 DECRETO Nº 52.624, DE 8 DE OUTUBRO DE 1963.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. (CEMIG) a construir linha de transmissão.

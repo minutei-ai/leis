@@ -1,5 +1,3 @@
-###DEC-080984-0-000-12-12-1977@@@
-
 DECRETO Nº 80.984, DE 12 DE DEZEMBRO DE 1977.
 
 Concede à Mineração Boquira S.A. o direito de lavrar minério de chumbo no Município de Boquira, Estado da Bahia.

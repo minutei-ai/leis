@@ -1,5 +1,3 @@
-###DEC-094958-0-000-24-09-1987@@@
-
 DECRETO Nº 94.958, DE 24 DE SETEMBRO DE 1987.
 
 Renova a concessão outorgada à RÁDIO RAINHA DO OESTE DA ALTÔNIA LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Altônia, Estado do Paraná.

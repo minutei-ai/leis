@@ -1,5 +1,3 @@
-###DEC-073756-0-000-06-03-1974@@@
-
 DECRETO Nº 73.756, DE 6 DE MARÇO DE 1974.
 
 Classifica como órgão de deliberação coletiva o Comitê Brasileiro de Nomenclatura.

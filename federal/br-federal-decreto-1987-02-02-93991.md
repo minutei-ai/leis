@@ -1,5 +1,3 @@
-###DEC-093991-0-000-02-02-1987@@@
-
 DECRETO N° 93.991, DE 02 DE FEVEREIRO DE 1987
 
 Aprova o Regulamento para a concessão da Medalha "Mérito Tamandaré".

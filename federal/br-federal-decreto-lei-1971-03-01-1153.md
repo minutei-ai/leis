@@ -1,5 +1,3 @@
-###DEL-001153-0-000-01-03-1971@@@
-
 # DECRETO-LEI Nº 1.153, DE 1º DE MARÇO DE 1971
 
 Altera a redação do artigo 9º do Decreto-lei nº 401, de 30 de dezembro de 1968.

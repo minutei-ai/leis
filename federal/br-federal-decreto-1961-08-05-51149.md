@@ -1,5 +1,3 @@
-###DEC-051149-0-000-05-08-1961@@@
-
 DECRETO Nº 51.149, DE 5 DE AGÔSTO DE 1961.
 
 Cria a Comissão de Economia do Babaçu e dá outras providências.

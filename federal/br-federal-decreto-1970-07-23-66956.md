@@ -1,5 +1,3 @@
-###DEC-066956-0-000-23-07-1970@@@
-
 DECRETO Nº 66.956, DE 23 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à implantação de nova tôrre repetidora de microondas e uma faixa para o acesso à mesma, no Município de Itajubá, Estado de Minas Gerais, a cargo da Companhia Telefônica de Minas Gerais.

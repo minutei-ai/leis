@@ -1,5 +1,3 @@
-###DEC-090824-0-000-18-01-1985@@@
-
 DECRETO Nº 90.824, DE 18 DE JANEIRO DE 1985
 
 Renova a concessão outorgada à RÁDIO E TELEVISÃO GAÚCHA S.A., para explorar serviço de radiodifusão sonora em onda curta, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

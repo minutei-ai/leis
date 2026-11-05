@@ -1,5 +1,3 @@
-###DEC-051244-0-000-24-08-1961@@@
-
 DECRETO Nº 51.244, DE 24 DE AGÔSTO DE 1961.
 
 Concede à Ravena Mineração Limitada autorização para funcionar como emprêsa de mineração.

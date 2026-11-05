@@ -1,5 +1,3 @@
-###DEC-086565-0-000-10-11-1981@@@
-
 Decreto nº 86.565, de 10 de novembro 1981
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica em diversos municípios dos Estados de Minas Gerais e São Paulo, explorados pela Companhia Geral de Eletricidade.

@@ -1,5 +1,3 @@
-###DEC-051063-0-000-27-07-1961@@@
-
 DECRETO Nº 51.063, DE 27 DE JULHO DE 1961.
 
 Aprova o Regulamento do Conselho Nacional de Cultura.

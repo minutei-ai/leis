@@ -1,5 +1,3 @@
-###DEC-078343-0-000-31-08-1976@@@
-
 DECRETO Nº 78.343, DE 31 DE AGOSTO DE 1976.
 
 Autoriza o funcionamento do curso de Administração, da Faculdade de Administração de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000972-0-000-20-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 972, DE 20 DE ABRIL DE 1995
 
 Dá nova redação a dispositivos da Lei nº 8.981, de 20 de janeiro de 1995, que altera a legislação tributária federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071439-0-000-27-11-1972@@@
-
 DECRETO Nº 71.439 - DE 27 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento dos Cursos de Licenciatura de 1º grau em Ciências e Licenciatura de 1º e 2º graus de Estudos Sociais na Faculdade de Filosofia, Ciências e Letras "Professor José Augusto Vieira".

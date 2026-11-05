@@ -1,5 +1,3 @@
-###DEC-000102-0-000-19-04-1991@@@
-
 DECRETO Nº 102, DE 19 DE ABRIL DE 1991.
 
 Altera o art. 315, inciso IV, do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985.

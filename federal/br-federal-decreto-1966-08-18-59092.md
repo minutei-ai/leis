@@ -1,5 +1,3 @@
-###DEC-059092-0-000-18-08-1966@@@
-
 DECRETO Nº 59.092, DE 18 DE AGÔSTO DE 1966.
 
 Autoriza a Siderúrgica São Sebastião de, Itatiaiussu S.A. a pesquisar minério de ferro, no município de Itaúna, Estado de Minas Gerais.

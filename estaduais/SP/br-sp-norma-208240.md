@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208240)<br>
-
 # LEI N° 17.703, DE 03 DE JULHO DE 2023
 
 ## (Projeto de lei n° 24, de 2022, do Deputado Rogério Nogueira - PSDB)

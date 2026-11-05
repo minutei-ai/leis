@@ -1,5 +1,3 @@
-###DEC-050970-0-000-17-07-1961@@@
-
 decreto nº 50.970, de 17 de julho de 1961.
 
 Concede permissão, em caráter, permanente, a Duratex S.A. - Industria e Comércio, com sede na Capital do Estado de São Paulo, para funcionar aos domingos e feriados civis e religiosos.

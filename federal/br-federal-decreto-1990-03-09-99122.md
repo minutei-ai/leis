@@ -1,7 +1,3 @@
-1
-
-###DEC-099122-0-000-09-03-1990@@@
-
 DECRETO Nº 99.122, DE 9 DE MARÇO DE 1990
 
 Outorga concessão a Rádio Itatiaia Ltda., para explorar Serviço Especial de Televisão por Assinatura - TVA na região metropolitana de Belo Horizonte, Estado de Minas Gerais.

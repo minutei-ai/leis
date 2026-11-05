@@ -1,5 +1,3 @@
-###DEL-006527-0-000-24-05-1944@@@
-
 DECRETO-LEI N. 6.527 – DE 24 DE MAIO DE 1944
 
 Cria, na Prefeitura do Distrito Federal, a Escola Técnica de Assistência Social e dá outras providências

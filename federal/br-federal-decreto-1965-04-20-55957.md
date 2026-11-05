@@ -1,5 +1,3 @@
-###DEC-055957-0-000-20-04-1965@@@
-
 DECRETO Nº 55.957, DE 20 DE ABRIL DE 1965.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$20.000.000.000, para atender às despesas que especifica.

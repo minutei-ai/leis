@@ -1,5 +1,3 @@
-###MPV-001960-0-058-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.960-58, DE 3 DE Fevereiro DE 2000.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

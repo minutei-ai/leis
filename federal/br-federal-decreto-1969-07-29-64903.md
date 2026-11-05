@@ -1,5 +1,3 @@
-###DEC-064903-0-000-29-07-1969@@@
-
 DECRETO Nº 64.903 - DE 29 DE JULHO DE 1969.
 
 Altera o artigo 4º do Decreto número 64.792, de 9 de julho de 1969.

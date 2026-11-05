@@ -1,5 +1,3 @@
-###DEC-055681-0-000-01-02-1965@@@
-
 Decreto nº 55.681, de 1 de Fevereiro de 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Marítimos e Terrestres Garantia, inclusive aumento do capital social.

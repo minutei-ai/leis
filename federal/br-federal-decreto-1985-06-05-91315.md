@@ -1,5 +1,3 @@
-###DEC-091315-0-000-05-06-1985@@@
-
 Decreto nº 91.315, de 05 de junho de 1985.
 
 Regulamenta, no âmbito do Ministério das Relações Exteriores, a designação de servidor não-diplomático para missão permanente no exterior.

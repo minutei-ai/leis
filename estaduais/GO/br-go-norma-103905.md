@@ -1,12 +1,15 @@
 LEI Nº 20.972, DE 23 DE MARÇO DE 2021
 
-<br>
-Vide Decretos  <br>
-[\- 10.079, de 29-04-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105415/decreto-10079) \- Altera o Decreto nº [9.960](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104371/decreto-9960), de 30 de setembro de 2021, que prorroga a situação de emergência na saúde pública decorrente da disseminação do novo coronavírus (COVID-19).<br>
-[\- 10.019, de 29-04-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104736/decreto-10019) \- Altera o Decreto nº [9.960](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104371/decreto-9960), de 30 de setembro de 2021, que prorroga a situação de emergência na saúde pública decorrente da disseminação do novo coronavírus (COVID-19).<br>\- [9.960, de 30-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104371/decreto-9960) - Prorroga a situação de emergência na saúde pública decorrente da disseminação do novo coronavírus (COVID-19).<br>
-\- [9.856, de 29-04-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103949/decreto-9856) \- Altera o Decreto nº [9.751](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103610/decreto-9751), de 30 de novembro de 2020, que dispõe sobre as medidas de gestão de pessoas do Poder Executivo do Estado de Goiás durante a situação de emergência em saúde pública, e revoga o Decreto de nº [9.685](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103251/decreto-9685), de 29 de junho de 2020, que altera o Decreto nº [9.653](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103128/decreto-9653), de 19 de abril de 2020, e o de nº [9.829](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103896/decreto-9829), de 16 de março de 2021, que estabelece novas medidas, de caráter temporário e emergencial, para o enfrentamento da propagação decorrente do novo coronavírus (COVID-19), no âmbito do Poder Executivo estadual.    <br>
-\- [9.751, de 30-11-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103610/decreto-9751) - _Dispõe sobre as medidas de gestão de pessoas_ do Poder Executivo do Estado de Goiás _durante a situação de emergência em saúde pública._    <br>
-<br>
+Vide Decretos  
+
+[\- 10.079, de 29-04-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105415/decreto-10079) \- Altera o Decreto nº [9.960](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104371/decreto-9960), de 30 de setembro de 2021, que prorroga a situação de emergência na saúde pública decorrente da disseminação do novo coronavírus (COVID-19).
+
+[\- 10.019, de 29-04-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104736/decreto-10019) \- Altera o Decreto nº [9.960](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104371/decreto-9960), de 30 de setembro de 2021, que prorroga a situação de emergência na saúde pública decorrente da disseminação do novo coronavírus (COVID-19).
+\- [9.960, de 30-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104371/decreto-9960) - Prorroga a situação de emergência na saúde pública decorrente da disseminação do novo coronavírus (COVID-19).
+
+\- [9.856, de 29-04-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103949/decreto-9856) \- Altera o Decreto nº [9.751](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103610/decreto-9751), de 30 de novembro de 2020, que dispõe sobre as medidas de gestão de pessoas do Poder Executivo do Estado de Goiás durante a situação de emergência em saúde pública, e revoga o Decreto de nº [9.685](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103251/decreto-9685), de 29 de junho de 2020, que altera o Decreto nº [9.653](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103128/decreto-9653), de 19 de abril de 2020, e o de nº [9.829](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103896/decreto-9829), de 16 de março de 2021, que estabelece novas medidas, de caráter temporário e emergencial, para o enfrentamento da propagação decorrente do novo coronavírus (COVID-19), no âmbito do Poder Executivo estadual.    
+
+\- [9.751, de 30-11-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103610/decreto-9751) - _Dispõe sobre as medidas de gestão de pessoas_ do Poder Executivo do Estado de Goiás _durante a situação de emergência em saúde pública._    
 
 Dispõe sobre medidas para enfrentamento da emergência de saúde pública decorrente do novo coronavírus no âmbito do Estado de Goiás.
 
@@ -98,7 +101,8 @@ Art. 9º Nos casos de licitação na modalidade pregão, eletrônico ou presenci
 
 Art. 10. Os contratos regidos por esta Lei terão prazo de duração de até 6 (seis) meses e poderão ser prorrogados por períodos sucessivos, enquanto perdurar a necessidade de enfrentamento dos efeitos da situação de emergência de saúde pública, mediante justificativa formal da autoridade competente do órgão contratante.
 
-Parágrafo único. O prazo previsto no _caput_ não se aplica aos contratos cujo objeto seja obra de engenharia, em razão de sua especificidade, prevalecendo, nessa hipótese, o prazo previsto para a conclusão da obra.<br>
+Parágrafo único. O prazo previsto no _caput_ não se aplica aos contratos cujo objeto seja obra de engenharia, em razão de sua especificidade, prevalecendo, nessa hipótese, o prazo previsto para a conclusão da obra.
+
 [\- Acrescido pela Lei nº 21.243, de 13-01-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104778/lei-21243)
 
 Art. 11. Para os contratos decorrentes dos procedimentos previstos nesta Lei, a administração pública poderá prever que os contratados fiquem obrigados a aceitar, nas mesmas condições contratuais, acréscimos ou supressões ao objeto contratado de até 50% (cinquenta por cento) do valor inicial atualizado do contrato.
@@ -156,8 +160,6 @@ Art. 22. Todas as disposições desta Lei também aplicam-se, no que couber, aos
 Art. 23. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 23 de março de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

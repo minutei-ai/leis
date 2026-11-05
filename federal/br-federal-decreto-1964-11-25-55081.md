@@ -1,5 +1,3 @@
-###DEC-055081-0-000-25-11-1964@@@
-
 DECRETO Nº 55.081, DE 25 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Biguaçu, Estado de Santa Catarina.

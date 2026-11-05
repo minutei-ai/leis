@@ -1,5 +1,3 @@
-###DEL-007702-0-000-05-07-1945@@@
-
 DECRETO-LEI N. 7.702 – DE 5 DE JULHO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 5.000,00, à verba que especifica

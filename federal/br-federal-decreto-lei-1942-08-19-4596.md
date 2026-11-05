@@ -1,5 +1,3 @@
-###DEL-004596-0-000-19-08-1942@@@
-
 DECRETO-LEI N. 4.596 – DE 19 DE AGOSTO DE 1942
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saude e dá outras providências

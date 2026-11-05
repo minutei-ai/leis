@@ -1,5 +1,3 @@
-###DEC-051156-0-000-07-08-1961@@@
-
 DECRETO Nº 51.156, DE 7 DE AGÔSTO DE 1961.
 
 Outorga à Ceará Rádio Clube Sociedade Anônima concessão para estabelecer uma estação de televisão em VHF geradora de programas, na cidade de Fortaleza, Estado do Ceará.

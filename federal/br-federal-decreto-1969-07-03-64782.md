@@ -1,5 +1,3 @@
-###DEC-064782-0-000-03-07-1969@@@
-
 DECRETO Nº 64.782 - DE 3 DE JULHO DE 1969.
 
 Autoriza o funcionamento da Escola de Reabilitação.

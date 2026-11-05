@@ -1,5 +1,3 @@
-###DEL-009253-0-000-13-05-1946@@@
-
 DECRETO-LEI N. 9.253 – DE 13 MAIO DE 1946
 
 Extingue a Delegação de Contrôle de Serviço de Navegação da Bacia do Prata, e dá outras providências.

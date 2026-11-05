@@ -1,7 +1,3 @@
-1
-
-###DEC-098929-0-000-05-02-1990@@@
-
 DECRETO Nº 98.929, DE 5 DE FEVEREIRO DE 1990
 
 Altera dispositivos do Decreto nº 98.338, de 27 de outubro de 1989.

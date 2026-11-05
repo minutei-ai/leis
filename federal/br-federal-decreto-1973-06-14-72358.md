@@ -1,5 +1,3 @@
-###DEC-072358-0-000-14-06-1973@@@
-
 DECRETO Nº 72.358, DE 14 DE JUNHO DE 1973.
 
 Torna sem efeito anulação de aproveitamento e cassação de disponibilidade de servidor do Instituto de Previdência e Assistência dos Servidores do Estado.

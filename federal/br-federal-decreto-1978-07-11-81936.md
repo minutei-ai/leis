@@ -1,5 +1,3 @@
-###DEC-081936-0-000-11-07-1978@@@
-
 Decreto nº 81.936, de 11 de Julho de 1978
 
 Concede reconhecimento ao curso de Turismo da Faculdade de Turismo da Guanabara com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

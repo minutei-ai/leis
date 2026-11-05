@@ -1,5 +1,3 @@
-###DEC-064178-0-000-07-03-1969@@@
-
 DECRETO Nº 64.178, DE 7 DE MARÇO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério dos Transportes, cargos originários do Departamento Nacional de Obras Contra as Sêcas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066685-0-000-10-06-1970@@@
-
 DECRETO Nº 66.685, DE 10 DE JUNHO DE 1970.
 
 Declara de utilidade pública a Sociedade Cruz Vermelha Brasileira, com sede no Distrito Federal.

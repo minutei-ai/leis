@@ -1,5 +1,3 @@
-###DEC-060681-0-000-04-05-1967@@@
-
 DECRETO Nº 60.681, DE 4 DE MAIO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, as áreas situadas nos municípios de Cachoeira Dourada e Canápolis, Estado de Minas Gerais, necessárias à bacia de acumulação do aproveitamento progressivo da energia hidráulica da Cachoeira Dourada, rio Parnaíba, entre os Estados de Goiás e Minas Gerais.
@@ -143,8 +141,6 @@ Brasília, 4 de maio de 1967; 146º da Independência e 49º da República.
 A. Costa e Silva
 
 José Costa Cavalcanti
-
-###DEC-060681-0-000-04\-05\-1967@@@RET01+++
 
 DECRETO Nº 60.681, DE 4 DE MAIO DE 1967.
 

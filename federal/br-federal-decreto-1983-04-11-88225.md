@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ceb0258f-598e-486c-9ec9-aff8b6a99775/texto#nowhere)
 
-###DEC-088225-0-000-11-04-1983@@@
-
 # DECRETO Nº 88.225, DE 11 DE ABRIL DE 1983.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da “Gleba Machadinho”, situado no Município de Ariquemes, no Estado de Rondônia, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pelo Decreto nº 75.295, de 27 de janeiro de 1975, e prorrogado pelo Decreto nº 85.075, de 27 de agosto de 1980.

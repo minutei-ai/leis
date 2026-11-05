@@ -1,5 +1,3 @@
-###DEC-080011-0-000-22-07-1977@@@
-
 Decreto nº 80.011, de 22 de julho de 1977
 
 Alteração de limite para a contratação de crédito externo.

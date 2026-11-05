@@ -1,5 +1,3 @@
-###DEC-078492-0-000-29-09-1976@@@
-
 Decreto nº 78.492, de 29 de setembro de 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL no Estado de São Paulo.

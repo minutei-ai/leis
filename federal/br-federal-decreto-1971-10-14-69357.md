@@ -1,5 +1,3 @@
-###DEC-069357-0-000-14-10-1971@@@
-
 DECRETO Nº 69.357, de 14 de outubro de 1971.
 
 Declara de utilidade pública o Centro de Integração Emprêsa-Escola - CIE-E, com sede em São Paulo, Estado de São Paulo.

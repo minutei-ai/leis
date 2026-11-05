@@ -1,5 +1,3 @@
-###DEC-066307-0-000-10-03-1970@@@
-
 DECRETO Nº 66.307 - DE 10 DE MARÇO DE 1970
 
 Declara de utilidade pública o Instituto Nossa Senhora Auxiliadora, com sede em Baturité, Estado do Ceará.

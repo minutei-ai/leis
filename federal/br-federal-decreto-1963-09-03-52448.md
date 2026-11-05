@@ -1,5 +1,3 @@
-###DEC-052448-0-000-03-09-1963@@@
-
 DECRETO Nº 52.448, DE 3 DE SETEMBRO DE 1963.
 
 Concede à Marinha de Guerra do México o prêmio “Marinha do Brasil”.

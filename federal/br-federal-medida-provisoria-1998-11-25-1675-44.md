@@ -1,5 +1,3 @@
-###MPV-001675-0-044-25-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.675-44, DE 25 DE NOVEMBRO DE 1998.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

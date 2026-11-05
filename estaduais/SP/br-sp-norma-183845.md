@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183845)
-
 # DECRETO Nº 62.906, DE 31 DE OUTUBRO DE 2017
 
 ### _Dispõe sobre a implantação e formalização do Plano de Contingência para a Serra do Mar na região do Polo Industrial de Cubatão, extingue a Comissão Especial de que trata o Decreto n° 38.788, de 17 de junho de 1994, e dá providências correlatas_
@@ -96,10 +94,16 @@ Palácio dos Bandeirantes, 31 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Maurício Benedini Brusadin<br>
-Secretário do Meio Ambiente<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Maurício Benedini Brusadin
+
+Secretário do Meio Ambiente
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 31 de outubro de 2017.

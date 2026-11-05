@@ -1,5 +1,3 @@
-###DEC-062375-0-000-11-03-1968@@@
-
 DECRETO Nº 62.375, DE 11 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Sociedade de Assistência e Cultura Sagrado Coração de Jesus”, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-045820-0-000-16-04-1959@@@
-
 decreto nº 45.820, de 16 de abril de 1959.
 
 Concede reconhecimento aos cursos de letras anglo-germânicas e letras neo-latinas da Faculdade Católica de Filosofia de Campina Grande.

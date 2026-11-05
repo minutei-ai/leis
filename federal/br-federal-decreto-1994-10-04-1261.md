@@ -1,7 +1,3 @@
-1
-
-###DEC-001261-0-000-04-10-1994@@@
-
 DECRETO Nº 1.261, DE 4 DE OUTUBRO DE 1994
 
 Altera o Anexo A do Decreto nº 769, de 10 de março de 1993.

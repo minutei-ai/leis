@@ -1,5 +1,3 @@
-###DEL-004585-0-000-13-08-1942@@@
-
 DECRETO-LEI N. 4.585 – DE 13 DE AGOSTO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores, o crédito suplementar de 300:000$0, à verba que especifica

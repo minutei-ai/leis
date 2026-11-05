@@ -1,5 +1,3 @@
-###DEC-087986-0-000-23-12-1982@@@
-
 Decreto nº 87.986, de 23 de dezembro de 1982
 
 Concede autorização ao navio oceanográfico francês "CAPRICORNE" para realizar no mar territorial brasileiro os serviços que especifica.

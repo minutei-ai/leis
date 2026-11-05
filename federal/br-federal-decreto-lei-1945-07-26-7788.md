@@ -1,5 +1,3 @@
-###DEL-007788-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.788 – DE 26 DE JULHO DE 1945
 
 Faz doação à Prefeitura Municipal de São Borja, Estado do Rio Grande do Sul, do terreno que menciona.

@@ -1,5 +1,3 @@
-###DEC-068706-0-000-03-06-1971@@@
-
 DECRETO Nº 68.706 - de 3 de junho de 1971.
 
 Reconheça a existência do estado de calamidade pública no Município de Lauro Müller, no Estado de Santa Catarina, abre o crédito extraordinário de Cr$ 500.000,00 e dá outras providências.

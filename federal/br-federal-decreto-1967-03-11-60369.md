@@ -1,5 +1,3 @@
-###DEC-060369-0-000-11-03-1967@@@
-
 DECRETO Nº 60.369, DE 11 DE MARÇO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de NCr$986.563,16 (novecentos e oitenta e seis mil, quinhentos e sessenta e três cruzeiros novos e dezesseis centavos), autorizado pela Lei nº 5.226, de 17 de janeiro do corrente ano, para o fim que menciona.

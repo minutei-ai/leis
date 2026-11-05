@@ -1,5 +1,3 @@
-###DEC-092950-0-000-18-07-1986@@@
-
 DECRETO Nº 92.950, DE 18 DE JULHO DE 1986
 
 Autoriza a aceitação de doação de gêneros alimentícios por governo estrangeiro ou organismo internacional.

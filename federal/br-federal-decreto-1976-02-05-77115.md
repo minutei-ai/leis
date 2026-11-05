@@ -1,5 +1,3 @@
-###DEC-077115-0-000-05-02-1976@@@
-
 DECRETO Nº 77.115, DE 5 DE FEVEREIRO DE 1976
 
 Altera dispositivos do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos Militares junto às representações diplomática no exterior e dá outras providências.

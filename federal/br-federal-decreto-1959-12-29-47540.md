@@ -1,5 +1,3 @@
-###DEC-047540-0-000-29-12-1959@@@
-
 DECRETO Nº 47.540, DE 29 DE DEZEMBRO DE 1959.
 
 Dispõe sôbre a Faculdade de Odontologia da Universidade do Recife.

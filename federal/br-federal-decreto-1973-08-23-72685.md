@@ -1,5 +1,3 @@
-###DEC-072685-0-000-23-08-1973@@@
-
 DECRETO Nº 72.685, DE 23 DE AGOSTO DE 1973.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno sito à margem da Estrada que liga a BR-222 a Iparana no Município de Caucaia, Estado do Ceará.

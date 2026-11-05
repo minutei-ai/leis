@@ -1,5 +1,3 @@
-###DEC-064097-0-000-12-02-1969@@@
-
 decreto nº 64.097, de 12 de fevereiro de 1969.
 
 Concede reconhecimento aos Cursos de Ciências Naturais e de Estudos Sociais da Faculdade de Filosofia da Universidade de Passo Fundo - RS.

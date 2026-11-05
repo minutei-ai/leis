@@ -1,5 +1,3 @@
-###DEC-084509-0-000-25-02-1980@@@
-
 Decreto nº 84.509, de 25 de fevereiro de 1980.
 
 Altera o Regulamento do Fundo de Garantia do Tempo de Serviço (F.G.T.S.).

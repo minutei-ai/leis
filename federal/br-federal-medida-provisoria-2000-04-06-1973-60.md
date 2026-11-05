@@ -1,5 +1,3 @@
-###MPV-001973-0-060-06-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.973-60, DE 6 DE abril DE 2000.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

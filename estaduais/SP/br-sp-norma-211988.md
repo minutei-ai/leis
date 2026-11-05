@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211988)<br>
-
 # DECRETO N° 70.207, DE 15 DE DEZEMBRO DE 2025
 
 ### _Regulamenta o Programa Estadual de Regularização de Terras e consolida os procedimentos administrativos para a regularização fundiária de terras devolutas e presumivelmente devolutas, inclusive em processos discriminatórios e reivindicatórios, nos termos da Lei n° 3.962, de 24 de julho de 1957, da Lei n° 11.600, de 19 de dezembro de 2003, da Lei n° 16.475, de 26 de junho de 2017, da Lei n° 17.557, de 21 de julho de 2022, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1° -** Este decreto regulamenta o Programa Estadual de Regularização de Terras e consolida os procedimentos administrativos para a regularização fundiária de terras devolutas e presumivelmente devolutas, inclusive em processos discriminatórios e reivindicatórios, nos termos das Leis [n° 3.962, de 24 de julho de 1957](https://www.al.sp.gov.br/norma/38032), [n° 11.600, de 19 de dezembro de 2003](https://www.al.sp.gov.br/norma/49149), [n° 16.475, de 26 de junho de 2017](https://www.al.sp.gov.br/norma/182201), [n° 17.557, de 21 de julho de 2022](https://www.al.sp.gov.br/norma/204540), e dá outras providências.
@@ -95,7 +94,8 @@ IV - comprovadamente de domínio da União, de Municípios, bem como de entidade
 
 **Artigo 13 -** Este decreto aplica-se aos imóveis em Unidade de Proteção Integral, em terras presumivelmente devolutas ou presumivelmente particulares, se atendidos os requisitos do programa de regularização ambiental vigente, desde que se faça a doação do imóvel à Fazenda do Estado para fins de compensação ambiental.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Procedimento De Regularização Fundiária
 
 **Artigo 14 -** Os processos administrativos de regularização fundiária de terras devolutas ou presumivelmente devolutas de domínio do Estado de São Paulo obedecerão, no mínimo, às seguintes etapas:
@@ -246,7 +246,8 @@ II - emitir parecer jurídico e encaminhar os autos para a manifestação do Pro
 
 **§ 3° -** Não ocorrendo o juízo de retratação, o recurso seguirá o rito previsto no artigo 47, VII, combinado com o artigo 48 da [Lei n° 10.177, de 30 de dezembro de 1998](https://www.al.sp.gov.br/norma/7505).
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Pagamento e da Formalização
 
 **Artigo 22 -** Na hipótese de regularização fundiária onerosa, o interessado deverá informar a forma de pagamento pretendida, conforme o regramento incidente, no prazo de 5 (cinco) dias, contados da cientificação do deferimento do pedido.
@@ -299,7 +300,8 @@ b) homologação judicial, se for o caso;
 
 **Artigo 24 -** A formalização do instrumento jurídico de regularização fundiária de que trata este decreto não importará na extinção de eventuais ônus ou gravames relativos à área objeto do negócio jurídico formalizado, nem eximirá o ocupante adquirente do domínio dos efeitos de eventuais ações possessórias, reipersecutórias ou outras relativas ao imóvel.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Destinação dos Recursos e do Relatório Anual
 
 **Artigo 25 -** Os recursos arrecadados com a alienação onerosa de terras devolutas ou presumivelmente devolutas serão prioritariamente destinados às políticas públicas agrária e fundiária desenvolvidas pela Fundação Instituto de Terras do Estado de São Paulo "José Gomes da Silva" - ITESP, inclusive para a regularização fundiária rural de interesse social de áreas ocupadas por pequenos agricultores, comunidades tradicionais e quilombolas, observadas as disposições da [Lei n° 17.557, de 21 de julho de 2022](https://www.al.sp.gov.br/norma/204540).
@@ -326,7 +328,8 @@ Da Destinação dos Recursos e do Relatório Anual
 
 **§ 2° -** O relatório elaborado pela Fundação Itesp será submetido à Secretaria de Agricultura e Abastecimento para verificação e aprovação.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Da Arrecadação de Terras Devolutas
 
 **Artigo 27 -** As terras devolutas não passíveis de regularização serão arrecadadas e destinadas nos termos da [Lei n° 4.957, de 30 de dezembro de 1985](https://www.al.sp.gov.br/norma/27105), ou compatibilizadas com o Plano Nacional da Reforma Agrária.
@@ -337,7 +340,8 @@ Da Arrecadação de Terras Devolutas
 
 **§ 3° -** A Procuradoria Geral do Estado dará andamento aos processos discriminatórios e reivindicatórios sobre terras devolutas e presumivelmente devolutas não passíveis de regularização fundiária nos termos deste decreto.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Disposições Finais
 
 **Artigo 28 -** Este decreto aplica-se, no que couber, aos procedimentos coletivos ou individuais de regularização fundiária rural de interesse social decorrentes da aplicação da [Lei 3.962, de 24 de julho de 1957](https://www.al.sp.gov.br/norma/38032) e da [Lei 4.957, de 30 de dezembro de 1985](https://www.al.sp.gov.br/norma/27105).

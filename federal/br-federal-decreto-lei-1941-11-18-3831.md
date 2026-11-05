@@ -1,5 +1,3 @@
-###DEL-003831-0-000-18-11-1941@@@
-
 DECRETO-LEI N. 3.831 – DE 18 DE NOVEMBRO DE 1941
 
 Altera. a redação do art. 3º do decreto-lei n. 3.713, de 15 de outubro de 1941.

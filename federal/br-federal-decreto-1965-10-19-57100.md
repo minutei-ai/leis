@@ -1,5 +1,3 @@
-###DEC-057100-0-000-19-10-1965@@@
-
 Decreto nº 57.100, de 19 de outubro de 1965.
 
 Autoriza a admissão de pessoal especialista-temporário no Instituto de Previdência e Assistência dos Servidores do Estado.

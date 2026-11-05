@@ -1,5 +1,3 @@
-###DEC-092424-0-000-25-02-1986@@@
-
 DECRETO Nº 92.424, DE 25 DE FEVEREIRO DE 1986
 
 Altera a composição da Comissão de Política Aduaneira, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059793-0-000-19-12-1966@@@
-
 DECRETO Nº 59.793, DE 19 DE DEZEMBRO DE 1966.
 
 Concede à Matogrossense Turismo Matotur S. A., autorização para funcionar como emprêsa de mineração.

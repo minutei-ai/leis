@@ -1,5 +1,3 @@
-###DEC-052764-0-000-25-10-1963@@@
-
 DECRETO Nº 52.764, DE 25 DE OUTUBRO DE 1963.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. - CEMIG - a construir linha de transmissão.

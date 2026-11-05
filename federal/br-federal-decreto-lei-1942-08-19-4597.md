@@ -1,5 +1,3 @@
-###DEL-004597-0-000-19-08-1942@@@
-
 DECRETO-LEI N. 4.597 – DE 19 DE AGOSTO DE 1942
 
 Dispõe sobre a prescrição das ações contra a Fazenda Pública e dá outras  providências

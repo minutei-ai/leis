@@ -1,5 +1,3 @@
-###DEC-061917-0-000-18-12-1967@@@
-
 DECRETO Nº 61.917, DE 18 DE DEZEMBRO DE 1967.
 
 Altera o alcance do art. 44 do Decreto 61.324, de 11.9.67 e da outras providências.

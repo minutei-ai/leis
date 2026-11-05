@@ -1,5 +1,3 @@
-###DEC-058444-0-000-17-05-1966@@@
-
 DECRETO Nº 58.444, DE 17 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Carlos Lippi Netto a pesquisar calcário no município de Ribeira, Estado de São Paulo.

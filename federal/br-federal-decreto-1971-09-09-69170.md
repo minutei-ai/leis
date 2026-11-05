@@ -1,5 +1,3 @@
-###DEC-069170-0-000-09-09-1971@@@
-
 DECRETO Nº 69.170, DE 9 DE SETEMBRO DE 1971.
 
 Concede à Mineração Lagoa Bonita Socavão Ltda. o direito de lavrar talco no município de Castro, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-068565-0-000-29-04-1971@@@
-
 DECRETO Nº 68.565 - DE 29 DE ABRIL DE 1971.
 
 Aprova o regulamento da Lei número 5.106, de 2 de setembro de 1966 e do Decreto-lei nº 1.134, de 16 de novembro de 1970, que dispõe sôbre os incentivos fiscais para o Desenvolvimento Florestal no País.

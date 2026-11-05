@@ -1,5 +1,3 @@
-###DEC-059768-0-000-16-12-1966@@@
-
 DECRETO Nº 59.768, DE 16 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Verissimo Labs da Silva a pesquisar água mineral no Município de São Roque, Estado de São Paulo.

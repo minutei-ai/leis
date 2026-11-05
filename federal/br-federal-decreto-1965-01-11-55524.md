@@ -1,5 +1,3 @@
-###DEC-055524-0-000-11-01-1965@@@
-
 DECRETO Nº 55.524, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Avelino Fortunato de Andrade a pesquisar mica e pedras coradas no município de Conselheiro Pena, Estado de Minas Gerais.

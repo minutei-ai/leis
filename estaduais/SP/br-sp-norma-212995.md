@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212995)<br>
-
 # DECRETO N° 70.881, DE 18 DE SETEMBRO DE 2026
 
 ### _Institui a Medalha do Mérito Professor Dr. Manoel Pedro Pimentel da Fundação "Professor Dr. Manoel Pedro Pimentel" - FUNAP e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-#### Seção I<br>
+#### Seção I
+
 Da honraria
 
 **Artigo 1° -** Fica instituída a Medalha do Mérito Professor Dr. Manoel Pedro Pimentel, da Fundação "Professor Dr. Manoel Pedro Pimentel" - FUNAP, que tem por objetivo galardoar personalidades físicas ou jurídicas, nacionais ou estrangeiras, que tenham contribuído para a promoção da ressocialização plena e sustentável da pessoa privada de liberdade ou para sua transformação pessoal como indivíduo e cidadão, por meio do desenvolvimento humano, da educação e do trabalho, bem como aos que tenham prestado relevantes serviços ao Estado de São Paulo e a seu povo.
@@ -63,7 +62,8 @@ a) anverso: nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) verso: dados de registro do diploma na Instituição (livro e página/sequência); chancela de registro do diploma junto ao Conselho Estadual de Honrarias e Mérito - CEHM.
 
-#### Seção II<br>
+#### Seção II
+
 Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 4° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pela Comissão de Outorgas.
@@ -78,7 +78,8 @@ Da Chancelaria e da Comissão de Outorgas
 
 **Parágrafo único -** O total de membros da Comissão de Outorgas, incluindo seu presidente, deve ser em número ímpar para evitar empates nas votações.
 
-#### Seção III<br>
+#### Seção III
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 6° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, pelo Presidente da Comissão de Outorgas e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual de Honrarias e Mérito.
@@ -103,7 +104,8 @@ III - Presidente da Fundação "Professor Dr. Manoel Pedro Pimentel" - FUNAP, Gr
 
 **Artigo 9° -** Caso a honraria permaneça por muito tempo sem ser outorgada e/ou nos casos em que a Comissão de Outorgas seja dissolvida, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no Artigo 7° deste decreto.
 
-#### Seção IV<br>
+#### Seção IV
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 10 -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas à Comissão de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -138,7 +140,8 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 17 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### Seção V<br>
+#### Seção V
+
 Do registro e das chancelas oficiais dos diplomas
 
 **Artigo 18 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -159,7 +162,8 @@ Do registro e das chancelas oficiais dos diplomas
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual de Honrarias e Mérito - CEHM.
 
-#### Seção VI<br>
+#### Seção VI
+
 Das cerimônias de outorga
 
 **Artigo 21 -** A entrega das medalhas será feita, anualmente, em solenidade pública, em data magna para a Fundação "Professor Dr. Manoel Pedro Pimentel" - FUNAP, na presença do Grão-Mestre.
@@ -180,7 +184,8 @@ Das cerimônias de outorga
 
 **Parágrafo único -** Os agraciados devem ser orientados a comparecer ao evento sem outras condecorações (heraldicamente nus).
 
-#### Seção VII<br>
+#### Seção VII
+
 Das disposições finais
 
 **Artigo 24 -** Na hipótese da extinção dessa condecoração, no todo ou em parte, seus cunhos, exemplares e complementos remanescentes serão recolhidos ao Conselho Estadual de Honrarias e Mérito - CEHM sem ônus para os cofres públicos.

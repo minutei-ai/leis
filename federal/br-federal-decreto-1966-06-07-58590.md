@@ -1,5 +1,3 @@
-###DEC-058590-0-000-07-06-1966@@@
-
 DECRETO Nº 58.590, DE 7 DE junho DE 1966.
 
 Cassa a autorização concedida à Segurança Industrial Companhia Nacional de Seguros, com sede na cidade do Rio de Janeiro, Estado da Guanabara, para funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-090886-0-000-31-01-1985@@@
-
 Decreto Nº 90.886, de 31 de janeiro dE 1985
 
 Outorga concessão à TELEVISÃO CARIMÃ LTDA, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Curitiba, Estado do Paraná.

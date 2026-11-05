@@ -1,5 +1,3 @@
-###MPV-001763-0-067-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.763-67, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

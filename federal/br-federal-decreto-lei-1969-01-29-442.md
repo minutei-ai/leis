@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ca0e26aa-cbdc-4444-b719-f2651710e215/texto#nowhere)
 
-###DEL-000442-0-000-29-01-1969@@@
-
 DECRETO-LEI Nº 442, DE 29 DE JANEIRO DE 1969
 
 Dispõe sôbre o número máximo de sessões ordinárias do Conselho Deliberativo do Conselho Nacional de Pesquisas.

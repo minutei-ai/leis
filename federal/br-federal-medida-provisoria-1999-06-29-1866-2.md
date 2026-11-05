@@ -1,5 +1,3 @@
-###MPV-001866-0-002-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.866-2, DE 29 DE junho DE 1999.
 
 Altera dispositivos do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085725-0-000-16-02-1981@@@
-
 Decreto nº 85.725, de 16 de fevereiro de 1981.
 
 Autoriza o funcionamento do curso para Graduação de Professores de Disciplinas da Parte de Formação Especial do Currículo do Ensino de 2º grau, da Pontifícia Universidade Católica do Rio Grande do Sul.

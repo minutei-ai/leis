@@ -1,5 +1,3 @@
-###DEC-058491-0-000-24-05-1966@@@
-
 DECRETO Nº 58.491, DE 24 DE MAIO DE 1966.
 
 Renova o Decreto nº 1.744, de 30 de novembro de 1962.

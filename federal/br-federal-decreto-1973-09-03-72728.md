@@ -1,5 +1,3 @@
-###DEC-072728-0-000-03-09-1973@@@
-
 decreto nº 72.728, de 3 de setembro de 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Departamento Nacional de Estradas de Rodagem, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053116-0-000-10-12-1963@@@
-
 DECRETO Nº 53.116, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o decreto nº 48.606, de 25 de julho de 1960.

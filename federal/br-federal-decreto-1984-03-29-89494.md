@@ -1,5 +1,3 @@
-###DEC-089494-0-000-29-03-1984@@@
-
 Decreto nº 89.494, de 29 de marçO de 1984
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à formação do reservatório da usina hidrelétrica de Ávila e à implantação do canteiro de obras, da Centrais Elétricas de Rondônia S.A. -CERON, no Estado de Rondônia.

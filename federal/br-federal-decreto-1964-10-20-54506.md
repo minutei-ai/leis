@@ -1,5 +1,3 @@
-###DEC-054506-0-000-20-10-1964@@@
-
 DECRETO Nº 54.506, DE 20 DE OUTUBRO DE 1964.
 
 Cria, no Ministério da Fazenda, a Comissão de Programação Financeira, e dá outras providências.

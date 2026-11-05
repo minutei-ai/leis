@@ -1,5 +1,3 @@
-###MPV-002013-0-004-30-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 2.013-4, DE 30 DE DEZEMBRO DE 1999.
 
 Altera a legislação tributária federal e dá outras providências.

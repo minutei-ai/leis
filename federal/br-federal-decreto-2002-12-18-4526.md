@@ -1,5 +1,3 @@
-###DEC-004526-0-000-18-12-2002@@@
-
 DECRETO N. 4.526 – DE 18 DE DEZEMBRO DE 2002
 
 Dispõe sobre o cancelamento dos Restos a Pagar inscritos em 31 de dezembro de 2001 e em exercícios anteriores, e dá outras providências.

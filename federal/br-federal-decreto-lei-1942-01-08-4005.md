@@ -1,5 +1,3 @@
-###DEL-004005-0-000-08-01-1942@@@
-
 DECRETO-LEI N. 4.005 – DE 8 DE JANEIRO DE 1942
 
 Cria uma coletoria federal no município de Liberdade, no Estado de Minas Gerais, e dá outras providências

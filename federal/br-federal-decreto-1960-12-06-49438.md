@@ -1,5 +1,3 @@
-###DEC-049438-0-000-06-12-1960@@@
-
 DECRETO Nº 49.438, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Victor Belfort Arantes Filho a pesquisar caulim no município de Bicas, Estado de Minas Gerais.

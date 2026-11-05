@@ -1,4 +1,5 @@
-DECRETO Nº 10.391, DE 12 DE JANEIRO DE 2024<br>
+DECRETO Nº 10.391, DE 12 DE JANEIRO DE 2024
+
 \- [Vide Decreto nº 10.692, de 12-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110667/decreto-10692) - Altera a estrutura administrativa da CGE.
 
 Aprova o Regulamento da Controladoria-Geral do Estado – CGE.
@@ -61,10 +62,12 @@ I – unidade colegiada: Conselho de Transparência Pública e Combate à Corrup
 
 II – Gabinete do Chefe da Controladoria–Geral do Estado, com as seguintes unidades administrativas:
 
-a) Chefia de Gabinete;<br>
+a) Chefia de Gabinete;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-~~a) Núcleo de Projetos Governamentais;~~<br>
+~~a) Núcleo de Projetos Governamentais;~~
+
 \- [Vide Decreto nº 10.692, de 12-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110667/decreto-10692), art. 1º, II  - Transforma o Núcleo de Projetos Governamentais em Chefia de Gabinete.
 
 b) Procuradoria Setorial;
@@ -83,7 +86,8 @@ d) Superintendência de Gestão Integrada, com as seguintes unidades:
 
 5\. Gerência de Contabilidade;
 
-e) Auditoria Interna de Harmonização e Gestão Estratégica, com a Gerência de Gestão de Equipe Técnica;<br>
+e) Auditoria Interna de Harmonização e Gestão Estratégica, com a Gerência de Gestão de Equipe Técnica;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~e) Auditoria Interna de Harmonização e Gestão Estratégica, com a Gerência de Gestão da Equipe Técnica;~~
@@ -110,7 +114,8 @@ g) Subcontroladoria do Sistema de Correição e Contas, com as seguintes unidade
 
 1\. Assessoria de Responsabilidade;
 
-~~2\. Controladoria Especializada em Consultoria da Atividade Correcional e Contas;~~<br>
+~~2\. Controladoria Especializada em Consultoria da Atividade Correcional e Contas;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, I.
 
 3\. Gerência de Aprimoramento de Conduta e Solução de Conflitos;
@@ -119,52 +124,62 @@ g) Subcontroladoria do Sistema de Correição e Contas, com as seguintes unidade
 
 5\. Gerência de Responsabilização de Entes Privados;
 
-6\. Gerência de Gestão de Contas;<br>
+6\. Gerência de Gestão de Contas;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~6\. Gerência de Gestão de Contas; e~~
 
 7\. Gerência de Promoção de Valores; e
 
-8\. Controladoria Especializada em Consultoria da Atividade Correcional e Contas;<br>
+8\. Controladoria Especializada em Consultoria da Atividade Correcional e Contas;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 h) Subcontroladoria de Auditoria Interna e Controle, com as seguintes unidades:
 
-~~1\. Assessoria de Inteligência em Controle Interno;~~<br>
+~~1\. Assessoria de Inteligência em Controle Interno;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, II.
 
-2\. Auditoria Interna de Políticas Sociais e Inovação;<br>
+2\. Auditoria Interna de Políticas Sociais e Inovação;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~2\. Auditoria Interna Especializada no Combate à Pobreza e às Desigualdades;~~
 
-~~3\. Auditoria Interna Especializada em Educação, Cultura e Juventude e de Ciência e Tecnologia;~~<br>
+~~3\. Auditoria Interna Especializada em Educação, Cultura e Juventude e de Ciência e Tecnologia;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, II.
 
-4\. Auditoria Interna de Desenvolvimento Sustentável;<br>
+4\. Auditoria Interna de Desenvolvimento Sustentável;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~4\. Auditoria Interna Especializada em Desenvolvimento Econômico, Agricultura e Meio Ambiente;~~
 
-5\. Auditoria Interna de Mobilidade e Regulação;<br>
+5\. Auditoria Interna de Mobilidade e Regulação;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~5\. Auditoria Interna Especializada em Orçamentos e Finanças;~~
 
-6\. Auditoria Interna de Políticas Econômicas e de Gestão;<br>
+6\. Auditoria Interna de Políticas Econômicas e de Gestão;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~6\. Auditoria Interna Especializada em Transporte Público e Energia;~~
 
-~~7\. Auditoria Interna Especializada em Segurança Pública;~~<br>
+~~7\. Auditoria Interna Especializada em Segurança Pública;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, II.
 
 8\. Gerência de Auditoria de Políticas Públicas;
 
 9\. Gerência de Auditoria em Gestão de Riscos;
 
-~~10\. Gerência de Inspeção;<br>
+~~10\. Gerência de Inspeção;
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, I.
 
 11\. Gerência de Auditoria da Execução de Contratos;
@@ -173,38 +188,48 @@ h) Subcontroladoria de Auditoria Interna e Controle, com as seguintes unidades:
 
 13\. Gerência de Análise Fiscal;
 
-14\. Gerência de Auditoria de Governança Pública;<br>
+14\. Gerência de Auditoria de Governança Pública;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~14\. Gerência de Auditoria do Programa de _Compliance_Público; e~~
 
-15\. Gerência de Auditoria de Conformidade e Desempenho; e<br>
+15\. Gerência de Auditoria de Conformidade e Desempenho; e
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~15\. Gerência de Auditoria de Conformidade e Desempenho.~~
 
-16\. Auditoria Interna de Segurança Pública;<br>
+16\. Auditoria Interna de Segurança Pública;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-i) Escritório de Projetos Setorial; e<br>
+i) Escritório de Projetos Setorial; e
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-j) Subcontroladoria de Operações Especiais, com as seguintes unidades:<br>
+j) Subcontroladoria de Operações Especiais, com as seguintes unidades:
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-1\. Controladoria Especializada em Ações Especiais e Inteligência;<br>
+1\. Controladoria Especializada em Ações Especiais e Inteligência;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-2\. Gerência de Acompanhamento de Agentes Públicos;<br>
+2\. Gerência de Acompanhamento de Agentes Públicos;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-3\. Gerência de Monitoramento de Contratados;<br>
+3\. Gerência de Monitoramento de Contratados;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-4\. Gerência de Análise Preventiva; e<br>
+4\. Gerência de Análise Preventiva; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-5\. Controladoria Especializada em Inspeções.<br>
+5\. Controladoria Especializada em Inspeções.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 CAPÍTULO IV
@@ -221,16 +246,20 @@ CAPÍTULO V
 
 DAS COMPETÊNCIAS DAS UNIDADES INTEGRANTES DO GABINETE DO CHEFE DA CONTROLADORIA-GERAL DO ESTADO
 
-“Seção I<br>
-Da Chefia de Gabinete”<br>
+“Seção I
+
+Da Chefia de Gabinete”
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Seção I~~
 
-~~Do Núcleo de Projetos Governamentais~~<br>
+~~Do Núcleo de Projetos Governamentais~~
+
 \- [Vide Decreto nº 10.692, de 12-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110667/decreto-10692), art. 1º, II  - Transforma o Núcleo de Projetos Governamentais em Chefia de Gabinete.
 
-Art. 5º Compete à Chefia de Gabinete:<br>
+Art. 5º Compete à Chefia de Gabinete:
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Art. 5º Compete ao Núcleo de Projetos Governamentais:~~
@@ -245,17 +274,20 @@ IV – atender as pessoas que procuram o Gabinete do Chefe da Controladoria–Ge
 
 V – conferir o encaminhamento necessário aos processos e aos assuntos determinados pelo Secretário– Chefe;
 
-VI - supervisionar projetos governamentais de implementação e proposição de legislações atinentes às atividades relacionadas ao controle interno, à auditoria, ao compliance, à integridade, à transparência e ao controle social;<br>
+VI - supervisionar projetos governamentais de implementação e proposição de legislações atinentes às atividades relacionadas ao controle interno, à auditoria, ao compliance, à integridade, à transparência e ao controle social;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~VI – supervisionar projetos governamentais de implementação e proposição de legislações atinentes às atividades relacionadas ao controle interno, à auditoria, ao _compliance_, à integridade, à transparência e ao controle social; e~~
 
-VII - promover, conjuntamente à Auditoria Interna de Harmonização e Gestão Estratégica, a interação entre os representantes de todos os eixos que compõem o Programa de Compliance Público - PCP do Estado de Goiás, para a propositura de ações de fomento a ele; e<br>
+VII - promover, conjuntamente à Auditoria Interna de Harmonização e Gestão Estratégica, a interação entre os representantes de todos os eixos que compõem o Programa de Compliance Público - PCP do Estado de Goiás, para a propositura de ações de fomento a ele; e
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~VII – encarregar–se de competências correlatas.~~
 
-VIII - encarregar-se de competências correlatas.<br>
+VIII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 Seção II
@@ -992,19 +1024,24 @@ VII – coordenar as políticas e os programas voltados ao incremento da abertur
 
 VIII – coordenar, formular, assessorar e articular com os órgãos e as entidades do Poder Executivo o aprimoramento e a padronização dos procedimentos dos recursos referidos nos incisos I e II deste artigo;
 
-~~IX – subsidiar e assessorar o Secretário– Chefe da CGE na instrução e no julgamento do recurso referido no inciso II do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 21 de agosto de 2023;<br>
+~~IX – subsidiar e assessorar o Secretário– Chefe da CGE na instrução e no julgamento do recurso referido no inciso II do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 21 de agosto de 2023;
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, III.
 
-~~X – subsidiar e assessorar o Secretário– Chefe da CGE na instrução e no julgamento do recurso referido no inciso III do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 2023, quando se tratar de aspectos formais;~~<br>
+~~X – subsidiar e assessorar o Secretário– Chefe da CGE na instrução e no julgamento do recurso referido no inciso III do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 2023, quando se tratar de aspectos formais;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, III.
 
-~~XI – exercer as funções de Secretaria– Executiva da Comissão Mista de Reavaliação de Informações – CMRI;~~<br>
+~~XI – exercer as funções de Secretaria– Executiva da Comissão Mista de Reavaliação de Informações – CMRI;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, III.
 
-~~XII – assessorar o representante da CGE na CMRI em sua atuação na relatoria do julgamento do recurso referido no inciso III do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 2023, quando se tratar de questão de mérito;<br>
+~~XII – assessorar o representante da CGE na CMRI em sua atuação na relatoria do julgamento do recurso referido no inciso III do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 2023, quando se tratar de questão de mérito;
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, III.
 
-~~XIII – supervisionar e elaborar relatórios periódicos dos pedidos e dos recursos referentes ao acesso à informação nos órgãos e nas entidades do Poder Executivo;~~<br>
+~~XIII – supervisionar e elaborar relatórios periódicos dos pedidos e dos recursos referentes ao acesso à informação nos órgãos e nas entidades do Poder Executivo;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, III.
 
 XIV – supervisionar e coordenar a propositura da transparência proativa, para levar ao cidadão informações públicas de seu interesse específico por ele desconhecidas ou às quais ele tenha dificuldade de acesso, tanto por meio da transparência ativa quanto da transparência passiva; e
@@ -1043,29 +1080,36 @@ XII – coordenar as atividades de ouvidoria do Sistema Estadual de Ouvidorias, 
 
 XIII – validar relatórios gerenciais com informações pertinentes à qualidade e à execução dos serviços públicos prestados, com base nas manifestações dos usuários;
 
-XIV - propor ações que resultem em melhoria do serviço prestado ao público pelos órgãos e pelas entidades da administração pública estadual;<br>
+XIV - propor ações que resultem em melhoria do serviço prestado ao público pelos órgãos e pelas entidades da administração pública estadual;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493) .
 
 ~~XIV – propor ações que resultem em melhoria do serviço prestado ao público pelos órgãos e pelas entidades da administração pública estadual; e~~
 
-XV - subsidiar e assessorar o Secretário-Chefe da CGE na instrução e no julgamento do recurso referido no inciso II do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 21 de agosto de 2023;<br>
+XV - subsidiar e assessorar o Secretário-Chefe da CGE na instrução e no julgamento do recurso referido no inciso II do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 21 de agosto de 2023;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~XV – encarregar–se de competências correlatas.~~
 
-XVI - subsidiar e assessorar o Secretário-Chefe da CGE na instrução e no julgamento do recurso referido no inciso III do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 2023, quando se tratar de aspectos formais;<br>
+XVI - subsidiar e assessorar o Secretário-Chefe da CGE na instrução e no julgamento do recurso referido no inciso III do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 2023, quando se tratar de aspectos formais;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XVII - exercer as funções de Secretaria-Executiva da Comissão Mista de Reavaliação de Informações - CMRI;<br>
+XVII - exercer as funções de Secretaria-Executiva da Comissão Mista de Reavaliação de Informações - CMRI;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XVIII - assessorar o representante da CGE na CMRI em sua atuação na relatoria do julgamento do recurso referido no inciso III do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 2023, quando se tratar de questão de mérito;<br>
+XVIII - assessorar o representante da CGE na CMRI em sua atuação na relatoria do julgamento do recurso referido no inciso III do art. 17 do [Decreto nº 10.306](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107670), de 2023, quando se tratar de questão de mérito;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XIX - supervisionar e elaborar relatórios periódicos dos pedidos e dos recursos referentes ao acesso à informação nos órgãos e nas entidades do Poder Executivo; e<br>
+XIX - supervisionar e elaborar relatórios periódicos dos pedidos e dos recursos referentes ao acesso à informação nos órgãos e nas entidades do Poder Executivo; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XX - encarregar-se de competências correlatas.<br>
+XX - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 Subseção III
@@ -1236,7 +1280,8 @@ Parágrafo único. Além das competências constantes do _caput_ deste artigo, c
 
 I – Assessoria de Responsabilidade;
 
-~~II – Controladoria Especializada em Consultoria da Atividade Correcional e Contas;<br>
+~~II – Controladoria Especializada em Consultoria da Atividade Correcional e Contas;
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IV.
 
 III – Gerência de Aprimoramento de Conduta e Solução de Conflitos;
@@ -1245,17 +1290,20 @@ IV – Gerência de Responsabilização de Agentes Públicos;
 
 V – Gerência de Responsabilização de Entes Privados;
 
-VI - Gerência de Gestão de Contas;<br>
+VI - Gerência de Gestão de Contas;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~VI – Gerência de Gestão de Contas; e~~
 
-VII - Gerência de Promoção de Valores; e<br>
+VII - Gerência de Promoção de Valores; e
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~VII – Gerência de Promoção de Valores.~~
 
-VIII - Controladoria Especializada em Consultoria da Atividade Correcional e Contas.<br>
+VIII - Controladoria Especializada em Consultoria da Atividade Correcional e Contas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 Subseção I
@@ -1300,67 +1348,88 @@ XI – encarregar–se de competências correlatas.
 
 ~~Subseção II~~
 
-~~Da Controladoria Especializada em Consultoria da Atividade Correcional e Contas~~<br>
+~~Da Controladoria Especializada em Consultoria da Atividade Correcional e Contas~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~Art. 27. Compete à Controladoria Especializada em Consultoria da Atividade Correcional e Contas:~~<br>
+~~Art. 27. Compete à Controladoria Especializada em Consultoria da Atividade Correcional e Contas:~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~I – coordenar as atividades de consultoria relacionadas ao sistema de correição, inclusive por meio de visitas técnicas nas unidades correcionais;~~<br>
+~~I – coordenar as atividades de consultoria relacionadas ao sistema de correição, inclusive por meio de visitas técnicas nas unidades correcionais;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~II – assessorar e exercer a supervisão técnica nas ações realizadas pelos órgãos e pelas entidades do Poder Executivo:~~<br>
+~~II – assessorar e exercer a supervisão técnica nas ações realizadas pelos órgãos e pelas entidades do Poder Executivo:~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~a) de responsabilização de agentes públicos;~~<br>
+~~a) de responsabilização de agentes públicos;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~b) de responsabilização de entes privados;~~<br>
+~~b) de responsabilização de entes privados;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~c) de resolução consensual de conflitos decorrentes da prática de transgressões disciplinares por agentes públicos;~~<br>
+~~c) de resolução consensual de conflitos decorrentes da prática de transgressões disciplinares por agentes públicos;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~d) de tomadas e prestações de contas anuais;~~<br>
+~~d) de tomadas e prestações de contas anuais;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~e) de tomadas de contas especiais; e~~<br>
+~~e) de tomadas de contas especiais; e~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~f) de promoção de valores;~~<br>
+~~f) de promoção de valores;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~III – recomendar a instauração de sindicâncias, inclusive patrimonial, processo administrativo disciplinar, procedimento preliminar investigatório, processo administrativo de responsabilização de entes privados e tomada de contas especial;~~<br>
+~~III – recomendar a instauração de sindicâncias, inclusive patrimonial, processo administrativo disciplinar, procedimento preliminar investigatório, processo administrativo de responsabilização de entes privados e tomada de contas especial;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~IV – sugerir a avocação dos processos administrativos, nos termos do art. 15 da [Lei nº 13.800](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81441), de 18 de janeiro de 2001, do art. 10, inciso V, da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e do art. 3º, inciso V, do [Decreto nº 9.572](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72486), de 5 de dezembro de 2019;~~<br>
+~~IV – sugerir a avocação dos processos administrativos, nos termos do art. 15 da [Lei nº 13.800](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81441), de 18 de janeiro de 2001, do art. 10, inciso V, da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e do art. 3º, inciso V, do [Decreto nº 9.572](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72486), de 5 de dezembro de 2019;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~V – coordenar as atividades relacionadas aos processos administrativos avocados;~~<br>
+~~V – coordenar as atividades relacionadas aos processos administrativos avocados;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~VI – assessorar os encaminhamentos pertinentes aos achados de inspeção, auditoria, representações e/ou denúncias referentes a ilícitos funcionais ou de entes privados;~~<br>
+~~VI – assessorar os encaminhamentos pertinentes aos achados de inspeção, auditoria, representações e/ou denúncias referentes a ilícitos funcionais ou de entes privados;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~VII – assessorar as ações de controle relativas às tomadas e às prestações de contas anuais dos ordenadores de despesa, bem como às tomadas de contas especiais;~~<br>
+~~VII – assessorar as ações de controle relativas às tomadas e às prestações de contas anuais dos ordenadores de despesa, bem como às tomadas de contas especiais;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~VIII – propor medidas voltadas à integração entre as unidades setoriais do Sistema de Correição e equivalentes, bem como do Tomador de Contas ou Comissão de Tomada de Contas Especial, para a uniformização e o aprimoramento da atividade correcional e de contas;~~<br>
+~~VIII – propor medidas voltadas à integração entre as unidades setoriais do Sistema de Correição e equivalentes, bem como do Tomador de Contas ou Comissão de Tomada de Contas Especial, para a uniformização e o aprimoramento da atividade correcional e de contas;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~IX – coordenar a definição, a padronização, a sistematização e a normatização de procedimentos de responsabilização de agentes públicos e de entes privados, de resolução consensual de conflitos, de promoção de valores, bem como de tomadas e prestações de contas anuais e tomadas de contas especiais;~~<br>
+~~IX – coordenar a definição, a padronização, a sistematização e a normatização de procedimentos de responsabilização de agentes públicos e de entes privados, de resolução consensual de conflitos, de promoção de valores, bem como de tomadas e prestações de contas anuais e tomadas de contas especiais;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~X – coordenar as atividades relacionadas à sindicância patrimonial;~~<br>
+~~X – coordenar as atividades relacionadas à sindicância patrimonial;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~XI – propor a edição de normas regulamentares da atividade correcional e de tomada de contas especial, bem como das medidas administrativas internas;~~<br>
+~~XI – propor a edição de normas regulamentares da atividade correcional e de tomada de contas especial, bem como das medidas administrativas internas;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~XII – coordenar as ações dirigidas à avaliação da maturidade correcional da CGE; e~~<br>
+~~XII – coordenar as ações dirigidas à avaliação da maturidade correcional da CGE; e~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
-~~XIII – encarregar–se de competências correlatas.<br>
+~~XIII – encarregar–se de competências correlatas.
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, V.
 
 Subseção III
@@ -1519,69 +1588,92 @@ VIII – orientar tecnicamente os Comitês Setoriais de _Compliance_ Público ou
 
 IX – encarregar–se de competências correlatas.
 
-**Subseção VIII<br>
-Da Controladoria Especializada em Consultoria da Atividade Correcional e Contas**<br>
-\- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).<br>
+**Subseção VIII
+
+Da Controladoria Especializada em Consultoria da Atividade Correcional e Contas**
+
+\- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
+
  
 
-Art. 32-A. Compete à Controladoria Especializada em Consultoria da Atividade Correcional e Contas:<br>
+Art. 32-A. Compete à Controladoria Especializada em Consultoria da Atividade Correcional e Contas:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - coordenar as atividades de consultoria relacionadas ao sistema de correição, inclusive por meio de visitas técnicas nas unidades correcionais;<br>
+I - coordenar as atividades de consultoria relacionadas ao sistema de correição, inclusive por meio de visitas técnicas nas unidades correcionais;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - assessorar e exercer a supervisão técnica nas ações realizadas pelos órgãos e pelas entidades do Poder Executivo:<br>
+II - assessorar e exercer a supervisão técnica nas ações realizadas pelos órgãos e pelas entidades do Poder Executivo:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-a) de responsabilização de agentes públicos;<br>
+a) de responsabilização de agentes públicos;
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-b) de responsabilização de entes privados;<br>
+b) de responsabilização de entes privados;
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-c) de resolução consensual de conflitos decorrentes da prática de transgressões disciplinares por agentes públicos;<br>
+c) de resolução consensual de conflitos decorrentes da prática de transgressões disciplinares por agentes públicos;
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-d) de tomadas e prestações de contas anuais;<br>
+d) de tomadas e prestações de contas anuais;
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-e) de tomadas de contas especiais; e<br>
+e) de tomadas de contas especiais; e
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-f) de promoção de valores;<br>
+f) de promoção de valores;
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - recomendar a instauração de sindicâncias, inclusive patrimonial, processo administrativo disciplinar, procedimento preliminar investigatório, processo administrativo de responsabilização de entes privados e tomada de contas especial;<br>
+III - recomendar a instauração de sindicâncias, inclusive patrimonial, processo administrativo disciplinar, procedimento preliminar investigatório, processo administrativo de responsabilização de entes privados e tomada de contas especial;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - sugerir a avocação dos processos administrativos, nos termos do art. 15 da Lei nº 13.800, de 18 de janeiro de 2001, do art. 10, inciso V, da Lei nº 21.792, de 16 de fevereiro de 2023, e do art. 3º, inciso V, do Decreto nº 9.572, de 5 de dezembro de 2019;<br>
+IV - sugerir a avocação dos processos administrativos, nos termos do art. 15 da Lei nº 13.800, de 18 de janeiro de 2001, do art. 10, inciso V, da Lei nº 21.792, de 16 de fevereiro de 2023, e do art. 3º, inciso V, do Decreto nº 9.572, de 5 de dezembro de 2019;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - coordenar as atividades relacionadas aos processos administrativos avocados;<br>
+V - coordenar as atividades relacionadas aos processos administrativos avocados;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VI - assessorar os encaminhamentos pertinentes aos achados de inspeção, auditoria, representações e/ou denúncias referentes a ilícitos funcionais ou de entes privados;<br>
+VI - assessorar os encaminhamentos pertinentes aos achados de inspeção, auditoria, representações e/ou denúncias referentes a ilícitos funcionais ou de entes privados;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VII - assessorar as ações de controle relativas às tomadas e às prestações de contas anuais dos ordenadores de despesa, bem como às tomadas de contas especiais;<br>
+VII - assessorar as ações de controle relativas às tomadas e às prestações de contas anuais dos ordenadores de despesa, bem como às tomadas de contas especiais;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VIII - propor medidas voltadas à integração entre as unidades setoriais do Sistema de Correição e equivalentes, bem como do Tomador de Contas ou Comissão de Tomada de Contas Especial, para a uniformização e o aprimoramento da atividade correcional e de contas;<br>
+VIII - propor medidas voltadas à integração entre as unidades setoriais do Sistema de Correição e equivalentes, bem como do Tomador de Contas ou Comissão de Tomada de Contas Especial, para a uniformização e o aprimoramento da atividade correcional e de contas;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IX - coordenar a definição, a padronização, a sistematização e a normatização de procedimentos de responsabilização de agentes públicos e de entes privados, de resolução consensual de conflitos, de promoção de valores, bem como de tomadas e prestações de contas anuais e tomadas de contas especiais;<br>
+IX - coordenar a definição, a padronização, a sistematização e a normatização de procedimentos de responsabilização de agentes públicos e de entes privados, de resolução consensual de conflitos, de promoção de valores, bem como de tomadas e prestações de contas anuais e tomadas de contas especiais;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-X - coordenar as atividades relacionadas à sindicância patrimonial;<br>
+X - coordenar as atividades relacionadas à sindicância patrimonial;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XI - propor a edição de normas regulamentares da atividade correcional e de tomada de contas especial, bem como das medidas administrativas internas;<br>
+XI - propor a edição de normas regulamentares da atividade correcional e de tomada de contas especial, bem como das medidas administrativas internas;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XII - coordenar as ações dirigidas à avaliação da maturidade correcional da CGE; e<br>
+XII - coordenar as ações dirigidas à avaliação da maturidade correcional da CGE; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XIII - encarregar-se de competências correlatas.<br>
+XIII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 Seção V
@@ -1614,35 +1706,44 @@ i) de avaliação das unidades de controle interno e de auditoria interna ou equ
 
 j) das demais ações não compreendidas nas alíneas “a” a “i” deste inciso relacionadas aos papéis consultivo e avaliativo do controle interno;
 
-~~III – supervisionar as atividades de inspeção:~~<br>
+~~III – supervisionar as atividades de inspeção:~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VI.
 
-~~a) das contratações realizadas pelo Poder Executivo do Estado de Goiás;~~<br>
+~~a) das contratações realizadas pelo Poder Executivo do Estado de Goiás;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VI.
 
-~~b) das despesas de pessoal;~~<br>
+~~b) das despesas de pessoal;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VI.
 
-~~c) das concessões, das parcerias, inclusive quando envolverem o setor privado, das transferências de recursos, dos convênios, dos recursos externos, dos acordos ou de outros ajustes para a realização das atividades de interesse público firmadas pelo Governo do Estado de Goiás;~~<br>
+~~c) das concessões, das parcerias, inclusive quando envolverem o setor privado, das transferências de recursos, dos convênios, dos recursos externos, dos acordos ou de outros ajustes para a realização das atividades de interesse público firmadas pelo Governo do Estado de Goiás;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VI.
 
-~~d) da manutenção e do uso do patrimônio público dos órgãos e das entidades do Poder Executivo do Estado de Goiás;~~<br>
+~~d) da manutenção e do uso do patrimônio público dos órgãos e das entidades do Poder Executivo do Estado de Goiás;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VI.
 
-~~e) da renúncia de receitas e da dívida pública; e~~<br>
+~~e) da renúncia de receitas e da dívida pública; e~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VI.
 
-~~f) dos demais gastos não compreendidos nas alíneas “a” a “e” deste inciso, conforme suas especificidades;~~<br>
+~~f) dos demais gastos não compreendidos nas alíneas “a” a “e” deste inciso, conforme suas especificidades;~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VI.
 
 IV – propor ao Secretário– Chefe da CGE a celebração de termo de ajustamento da gestão – TAG com o dirigente máximo do órgão ou da entidade inspecionada/auditada, para cessar a prática de atos objeto do não atendimento de recomendações decorrentes de falhas graves ou classificados como de maior relevância e risco;
 
-~~V – supervisionar a produção de informações e conhecimentos estratégicos e de trilhas eletrônicas utilizadas no apoio às ações de controle;~~<br>
+~~V – supervisionar a produção de informações e conhecimentos estratégicos e de trilhas eletrônicas utilizadas no apoio às ações de controle;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VI.
 
 VI – desenvolver ações com órgãos e entidades, inclusive de outros Poderes e entes federativos, bem como entidades privadas, voltadas ao subsídio, à execução e ao aprimoramento das ações de controle;
 
-VII - coordenar, especificamente na área de sua competência, a elaboração do Plano Anual das Ações de Controle - PAAC; e<br>
+VII - coordenar, especificamente na área de sua competência, a elaboração do Plano Anual das Ações de Controle - PAAC; e
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~VII – supervisionar a elaboração do Plano Operacional de Ações de Controle – POAC; e~~
@@ -1651,40 +1752,48 @@ VIII – encarregar–se de competências correlatas.
 
 Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Subcontroladoria de Auditoria Interna e Controle exercer as funções de organização, coordenação e supervisão das seguintes unidades:
 
-~~I – Assessoria de Inteligência em Controle Interno;<br>
+~~I – Assessoria de Inteligência em Controle Interno;
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VII.
 
-II - Auditoria Interna de Políticas Sociais e Inovação;<br>
+II - Auditoria Interna de Políticas Sociais e Inovação;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~II – Auditoria Interna Especializada no Combate à Pobreza e às Desigualdades;~~
 
-~~III – Auditoria Interna Especializada em Educação, Cultura e Juventude e de Ciência e Tecnologia;<br>
+~~III – Auditoria Interna Especializada em Educação, Cultura e Juventude e de Ciência e Tecnologia;
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VII.
 
-IV - Auditoria Interna de Desenvolvimento Sustentável;<br>
+IV - Auditoria Interna de Desenvolvimento Sustentável;
+
 \-  [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~IV – Auditoria Interna Especializada em Desenvolvimento Econômico, Agricultura e Meio Ambiente;~~
 
-V - Auditoria Interna de Mobilidade e Regulação;<br>
+V - Auditoria Interna de Mobilidade e Regulação;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~V – Auditoria Interna Especializada em Orçamentos e Finanças;~~
 
-VI - Auditoria Interna de Políticas Econômicas e de Gestão;<br>
+VI - Auditoria Interna de Políticas Econômicas e de Gestão;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~VI – Auditoria Interna Especializada em Transporte Público e Energia;~~
 
-~~VII – Auditoria Interna Especializada em Segurança Pública;~~<br>
+~~VII – Auditoria Interna Especializada em Segurança Pública;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VII.
 
 VIII – Gerência de Auditoria de Políticas Públicas;
 
 IX – Gerência de Auditoria em Gestão de Riscos;
 
-~~X – Gerência de Inspeção;~~<br>
+~~X – Gerência de Inspeção;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VII.
 
 XI – Gerência de Auditoria da Execução de Contratos;
@@ -1693,57 +1802,72 @@ XII – Gerência de Auditoria de Monitoramento;
 
 XIII – Gerência de Análise Fiscal;
 
-XIV - Gerência de Auditoria de Governança Pública;<br>
+XIV - Gerência de Auditoria de Governança Pública;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~XIV – Gerência de Auditoria do Programa de _Compliance_Público; e~~
 
-XV - Gerência de Auditoria de Conformidade e Desempenho; e<br>
+XV - Gerência de Auditoria de Conformidade e Desempenho; e
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~XV – Gerência de Auditoria de Conformidade e Desempenho.~~
 
-XVI - Auditoria Interna de Segurança Pública.<br>
+XVI - Auditoria Interna de Segurança Pública.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Subseção I~~
 
-~~Da Assessoria de Inteligência em Controle Interno~~<br>
+~~Da Assessoria de Inteligência em Controle Interno~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-~~Art. 34. Compete à Assessoria de Inteligência em Controle Interno:<br>
+~~Art. 34. Compete à Assessoria de Inteligência em Controle Interno:
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-~~I – produzir informações estratégicas para subsidiar as atividades das unidades da CGE, conforme forem demandadas pelo Secretário–Chefe e pelo Subcontrolador de Auditoria Interna e Controle;~~<br>
+~~I – produzir informações estratégicas para subsidiar as atividades das unidades da CGE, conforme forem demandadas pelo Secretário–Chefe e pelo Subcontrolador de Auditoria Interna e Controle;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-~~II – analisar dados e desenvolver as trilhas eletrônicas utilizadas no apoio às ações de controle e correcionais, desde que sejam demandadas pelo Secretário–Chefe, pelo Subcontrolador de Auditoria Interna e Controle e pelos Auditores–Chefes da Subcontroladoria de Auditoria Interna e Controle;~~<br>
+~~II – analisar dados e desenvolver as trilhas eletrônicas utilizadas no apoio às ações de controle e correcionais, desde que sejam demandadas pelo Secretário–Chefe, pelo Subcontrolador de Auditoria Interna e Controle e pelos Auditores–Chefes da Subcontroladoria de Auditoria Interna e Controle;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-~~III – instituir e manter banco de dados para apoiar as atividades de produção de informações estratégicas no âmbito do controle interno;~~<br>
+~~III – instituir e manter banco de dados para apoiar as atividades de produção de informações estratégicas no âmbito do controle interno;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-~~IV – propor a requisição de informações e banco de dados necessários para a realização das atividades de inteligência em controle;~~<br>
+~~IV – propor a requisição de informações e banco de dados necessários para a realização das atividades de inteligência em controle;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-~~V – assistir a elaboração do plano anual de auditorias e inspeções das unidades da CGE;~~<br>
+~~V – assistir a elaboração do plano anual de auditorias e inspeções das unidades da CGE;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-~~VI – assessorar em outras atividades demandadas pelo Secretário–Chefe e pelo Subcontrolador de Auditoria Interna e Controle na sua área de competência; e~~<br>
+~~VI – assessorar em outras atividades demandadas pelo Secretário–Chefe e pelo Subcontrolador de Auditoria Interna e Controle na sua área de competência; e~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-~~VII – encarregar–se de competências correlatas.<br>
+~~VII – encarregar–se de competências correlatas.
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, VIII.
 
-Subseção II<br>
-Da Auditoria Interna de Políticas Sociais e Inovação<br>
+Subseção II
+
+Da Auditoria Interna de Políticas Sociais e Inovação
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Subseção II~~
 
 ~~Da Auditoria Interna Especializada no Combate à Pobreza e às Desigualdades~~
 
-Art. 35. Compete à Auditoria Interna de Políticas Sociais e Inovação:<br>
+Art. 35. Compete à Auditoria Interna de Políticas Sociais e Inovação:
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Art. 35. Compete à Auditoria Interna Especializada no Combate à Pobreza e às Desigualdades:~~
@@ -1754,7 +1878,8 @@ II – desenvolver relacionamentos com a alta administração dos órgãos e das
 
 III – estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;
 
-IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;<br>
+IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~IV – desenvolver os possíveis universos de auditoria, bem como metodologia de avaliação de riscos para a elaboração do Plano Operacional Anual de Ações de Controle;~~
@@ -1765,39 +1890,50 @@ VI – encarregar–se de competências correlatas.
 
 ~~Subseção III~~
 
-~~Da Auditoria Interna Especializada em Educação, Cultura e Juventude e de Ciência e Tecnologia~~<br>
+~~Da Auditoria Interna Especializada em Educação, Cultura e Juventude e de Ciência e Tecnologia~~
+
 \- [Revogada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IX.
 
-~~Art. 36. Compete à Auditoria Interna Especializada em Educação, Cultura e Juventude e de Ciência e Tecnologia:~~<br>
+~~Art. 36. Compete à Auditoria Interna Especializada em Educação, Cultura e Juventude e de Ciência e Tecnologia:~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IX.
 
-~~I – realizar a orientação das atividades de auditoria interna nos órgãos e nas entidades sob sua competência, a fim de que essas contribuam para a melhoria da governança, do gerenciamento de riscos e dos processos de controle e, assim, agreguem valor à gestão;~~<br>
+~~I – realizar a orientação das atividades de auditoria interna nos órgãos e nas entidades sob sua competência, a fim de que essas contribuam para a melhoria da governança, do gerenciamento de riscos e dos processos de controle e, assim, agreguem valor à gestão;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IX.
 
-~~II – desenvolver relacionamentos com a alta administração dos órgãos e das entidades sob sua competência;~~<br>
+~~II – desenvolver relacionamentos com a alta administração dos órgãos e das entidades sob sua competência;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IX.
 
-~~III – estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;~~<br>
+~~III – estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IX.
 
-~~IV – desenvolver os possíveis universos de auditoria, bem como metodologia de avaliação de riscos para a elaboração do Plano Operacional Anual de Ações de Controle;~~<br>
+~~IV – desenvolver os possíveis universos de auditoria, bem como metodologia de avaliação de riscos para a elaboração do Plano Operacional Anual de Ações de Controle;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IX.
 
-~~V – disseminar o valor dos serviços de auditoria interna e de suas boas práticas, bem como organizar lições aprendidas dos trabalhos realizados; e~~<br>
+~~V – disseminar o valor dos serviços de auditoria interna e de suas boas práticas, bem como organizar lições aprendidas dos trabalhos realizados; e~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IX.
 
-~~VI – encarregar–se de competências correlatas.<br>
+~~VI – encarregar–se de competências correlatas.
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, IX.
 
-Subseção IV<br>
-Da Auditoria Interna de Desenvolvimento Sustentável<br>
+Subseção IV
+
+Da Auditoria Interna de Desenvolvimento Sustentável
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Subseção IV~~
 
 ~~Da Auditoria Interna Especializada em Desenvolvimento Econômico, Agricultura e Meio Ambiente~~
 
-Art. 37. Compete à Auditoria Interna de Desenvolvimento Sustentável:<br>
+Art. 37. Compete à Auditoria Interna de Desenvolvimento Sustentável:
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Art. 37. Compete à Auditoria Interna Especializada em Desenvolvimento Econômico, Agricultura e Meio Ambiente:~~
@@ -1808,7 +1944,8 @@ II – desenvolver relacionamentos com a alta administração dos órgãos e das
 
 III – estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;
 
-IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;<br>
+IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~IV – desenvolver os possíveis universos de auditoria, bem como metodologia de avaliação de riscos para a elaboração do Plano Operacional Anual de Ações de Controle;~~
@@ -1817,15 +1954,18 @@ V – disseminar o valor dos serviços de auditoria interna e de suas boas prát
 
 VI – encarregar–se de competências correlatas.
 
-Subseção V<br>
-Da Auditoria Interna de Mobilidade e Regulação<br>
+Subseção V
+
+Da Auditoria Interna de Mobilidade e Regulação
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Subseção V~~
 
 ~~Da Auditoria Interna Especializada em Orçamentos e Finanças~~
 
-Art. 38. Compete à Auditoria Interna de Mobilidade e Regulação:<br>
+Art. 38. Compete à Auditoria Interna de Mobilidade e Regulação:
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Art. 38. Compete à Auditoria Interna Especializada em Orçamentos e Finanças:~~
@@ -1836,7 +1976,8 @@ II – desenvolver relacionamentos com a alta administração dos órgãos e das
 
 III – estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;
 
-IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;<br>
+IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~IV – desenvolver os possíveis universos de auditoria, bem como metodologia de avaliação de riscos para a elaboração do Plano Operacional Anual de Ações de Controle;~~
@@ -1845,16 +1986,20 @@ V – disseminar o valor dos serviços de auditoria interna e de suas boas prát
 
 VI – encarregar–se de competências correlatas.
 
-Subseção VI<br>
-Da Auditoria Interna de Políticas Econômicas e de<br>
-Gestão<br>
+Subseção VI
+
+Da Auditoria Interna de Políticas Econômicas e de
+
+Gestão
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Subseção VI~~
 
 ~~Da Auditoria Interna Especializada em Transporte Público e Energia~~
 
-Art. 39. Compete à Auditoria Interna de Políticas Econômicas e de Gestão:<br>
+Art. 39. Compete à Auditoria Interna de Políticas Econômicas e de Gestão:
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Art. 39. Compete à Auditoria Interna Especializada em Transporte Público e Energia:~~
@@ -1865,7 +2010,8 @@ II – desenvolver relacionamentos com a alta administração dos órgãos e das
 
 III – estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;
 
-IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;<br>
+IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~IV – desenvolver os possíveis universos de auditoria, bem como metodologia de avaliação de riscos para a elaboração do Plano Operacional Anual de Ações de Controle;~~
@@ -1876,28 +2022,36 @@ VI – encarregar–se de competências correlatas.
 
 ~~Subseção VII~~
 
-~~Da Auditoria Interna Especializada em Segurança Pública~~<br>
+~~Da Auditoria Interna Especializada em Segurança Pública~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, X.
 
-~~Art. 40. Compete à Auditoria Interna Especializada em Segurança Pública:~~<br>
+~~Art. 40. Compete à Auditoria Interna Especializada em Segurança Pública:~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, X.
 
-~~I – realizar a orientação das atividades de auditoria interna nos órgãos e nas entidades sob sua competência, a fim de que essas contribuam para a melhoria da governança, do gerenciamento de riscos e dos processos de controle e, assim, agreguem valor à gestão;~~<br>
+~~I – realizar a orientação das atividades de auditoria interna nos órgãos e nas entidades sob sua competência, a fim de que essas contribuam para a melhoria da governança, do gerenciamento de riscos e dos processos de controle e, assim, agreguem valor à gestão;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, X.
 
-~~II – desenvolver relacionamentos com a alta administração dos órgãos e das entidades sob sua competência;~~<br>
+~~II – desenvolver relacionamentos com a alta administração dos órgãos e das entidades sob sua competência;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, X.
 
-~~III – estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;~~<br>
+~~III – estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, X.
 
-~~IV – desenvolver os possíveis universos de auditoria, bem como metodologia de avaliação de riscos para a elaboração do Plano Operacional Anual de Ações de Controle;~~<br>
+~~IV – desenvolver os possíveis universos de auditoria, bem como metodologia de avaliação de riscos para a elaboração do Plano Operacional Anual de Ações de Controle;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, X.
 
-~~V – disseminar o valor dos serviços de auditoria interna e de suas boas práticas, bem como organizar lições aprendidas dos trabalhos realizados; e~~<br>
+~~V – disseminar o valor dos serviços de auditoria interna e de suas boas práticas, bem como organizar lições aprendidas dos trabalhos realizados; e~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, X.
 
-~~VI – encarregar–se de competências correlatas.~~<br>
+~~VI – encarregar–se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, X.
 
 Subseção VIII
@@ -1936,34 +2090,44 @@ VII – encarregar–se de competências correlatas.
 
 ~~Subseção X~~
 
-~~Da Gerência de Inspeção~~<br>
+~~Da Gerência de Inspeção~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~Art. 43. Compete à Gerência de Inspeção:~~<br>
+~~Art. 43. Compete à Gerência de Inspeção:~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~I – realizar inspeção preventiva e fiscalização nos órgãos e nas entidades do Poder Executivo do Estado de Goiás nas áreas de contratação de bens, insumos e serviços, de obras, reformas e serviços de engenharia, assim como na área de convênios, transferências, contratos de gestão, parcerias, concessões e outros ajustes;~~<br>
+~~I – realizar inspeção preventiva e fiscalização nos órgãos e nas entidades do Poder Executivo do Estado de Goiás nas áreas de contratação de bens, insumos e serviços, de obras, reformas e serviços de engenharia, assim como na área de convênios, transferências, contratos de gestão, parcerias, concessões e outros ajustes;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~II – analisar os requisitos exigidos para membros indicados a comporem os conselhos de administração, diretorias e conselhos fiscais das empresas estatais de menor porte, nos termos da faculdade de que trata o § 3º do art. 1º da Lei federal nº 13.303, de 30 de junho de 2016, e em obediência às regras do [Decreto nº 9.402](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/71604), de 7 de fevereiro de 2019;~~<br>
+~~II – analisar os requisitos exigidos para membros indicados a comporem os conselhos de administração, diretorias e conselhos fiscais das empresas estatais de menor porte, nos termos da faculdade de que trata o § 3º do art. 1º da Lei federal nº 13.303, de 30 de junho de 2016, e em obediência às regras do [Decreto nº 9.402](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/71604), de 7 de fevereiro de 2019;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~III – analisar licitações, chamamentos públicos, prorrogações contratuais e procedimentos correlatos, instaurados no âmbito dos órgãos e das entidades do Poder Executivo;~~<br>
+~~III – analisar licitações, chamamentos públicos, prorrogações contratuais e procedimentos correlatos, instaurados no âmbito dos órgãos e das entidades do Poder Executivo;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~IV – realizar inspeções na área de pessoal;~~<br>
+~~IV – realizar inspeções na área de pessoal;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~V – propor melhorias para o aprimoramento dos controles aplicados aos sistemas informatizados;~~<br>
+~~V – propor melhorias para o aprimoramento dos controles aplicados aos sistemas informatizados;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~VI – propor melhorias na legislação ou nos processos, para aprimorar os procedimentos e contribuir para a otimização dos gastos;~~<br>
+~~VI – propor melhorias na legislação ou nos processos, para aprimorar os procedimentos e contribuir para a otimização dos gastos;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~VII – analisar os Regulamentos de Compras e Contratação de Pessoal das organizações sociais, por força da [Lei nº 15.503](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80592), de 28 de dezembro de 2005; e~~<br>
+~~VII – analisar os Regulamentos de Compras e Contratação de Pessoal das organizações sociais, por força da [Lei nº 15.503](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80592), de 28 de dezembro de 2005; e~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
-~~VIII – encarregar–se de competências correlatas.<br>
+~~VIII – encarregar–se de competências correlatas.
+
 ~~\- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XI.
 
 Subseção XI
@@ -2020,56 +2184,68 @@ IV – monitorar os parâmetros e os limites estabelecidos pela Lei de Responsab
 
 V – encarregar–se de competências correlatas.
 
-Subseção XIV<br>
-Da Gerência de Auditoria de Governança Pública<br>
+Subseção XIV
+
+Da Gerência de Auditoria de Governança Pública
+
 \- [Redação dada pelo Decreto nº 10.867 de, 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Subseção XIV~~
 
 ~~Da Gerência de Auditoria do Programa de _Compliance_ Público~~
 
-Art. 47. Compete à Gerência de Auditoria de Governança Pública:<br>
+Art. 47. Compete à Gerência de Auditoria de Governança Pública:
+
 \- [Redação dada pelo Decreto nº 10.867 de, 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~Art. 47. Compete à Gerência de Auditoria do Programa de _Compliance_Público:~~
 
-I - realizar trabalhos de consultoria e avaliação, com foco no fortalecimento e na promoção dos instrumentos de governança, em conformidade com os padrões estabelecidos pelo PCP;<br>
+I - realizar trabalhos de consultoria e avaliação, com foco no fortalecimento e na promoção dos instrumentos de governança, em conformidade com os padrões estabelecidos pelo PCP;
+
 \- [Redação dada pelo Decreto nº 10.867 de, 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~I – planejar e propor modelos de boas práticas de governança voltados à composição do Programa de _Compliance_ Público – PCP do Estado de Goiás;~~
 
-II - acompanhar a implantação e a implementação das práticas de governança nos órgãos e nas entidades do Estado de Goiás;<br>
+II - acompanhar a implantação e a implementação das práticas de governança nos órgãos e nas entidades do Estado de Goiás;
+
 \- [Redação dada pelo Decreto nº 10.867 de, 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~II – realizar trabalhos de consultoria e avaliação, para o fortalecimento e o fomento do PCP do Estado de Goiás;~~
 
-III - promover a articulação e a integração entre os escritórios de compliance dos órgãos e das entidades estaduais, para a proposição de ações voltadas à  governança corporativa e organizacional;<br>
+III - promover a articulação e a integração entre os escritórios de compliance dos órgãos e das entidades estaduais, para a proposição de ações voltadas à  governança corporativa e organizacional;
+
 \- [Redação dada pelo Decreto nº 10.867 de, 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~III – promover a interlocução entre as pastas quanto à gestão e à evolução do PCP do Estado de Goiás;~~
 
-IV - assessorar os órgãos e as entidades do Poder Executivo estadual nas atividades de fortalecimento dos instrumentos de governança, especialmente nas áreas de planejamento estratégico, gestão de riscos, controles internos e compliance;<br>
+IV - assessorar os órgãos e as entidades do Poder Executivo estadual nas atividades de fortalecimento dos instrumentos de governança, especialmente nas áreas de planejamento estratégico, gestão de riscos, controles internos e compliance;
+
 \- [Redação dada pelo Decreto nº 10.867 de, 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~IV – promover a interação entre os representantes de todos os eixos que compõem o PCP do Estado de Goiás, para a propositura de ações de fomento a ele;~~
 
-V - consolidar os dados referentes às ações anuais dos eixos do PCP estadual para monitorar indicadores de desempenho e maturidade em governança;<br>
+V - consolidar os dados referentes às ações anuais dos eixos do PCP estadual para monitorar indicadores de desempenho e maturidade em governança;
+
 \- [Redação dada pelo Decreto nº 10.867 de, 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~V – articular–se com as outras áreas da CGE e com parceiros externos envolvidos nos quesitos do _ranking_ do PCP do Estado de Goiás;~~
 
-VI - promover a cultura de governança no setor público, com ações de capacitação, treinamentos e eventos técnicos;<br>
+VI - promover a cultura de governança no setor público, com ações de capacitação, treinamentos e eventos técnicos;
+
 \- [Redação dada pelo Decreto nº 10.867 de, 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~VI – assessorar os órgãos e as entidades do Poder Executivo estadual quanto aos quesitos do _ranking_ do PCP do Estado de Goiás;~~
 
-~~VII – consolidar todos os dados do _ranking_ do PCP do Estado de Goiás para a apuração do resultado;~~<br>
+~~VII – consolidar todos os dados do _ranking_ do PCP do Estado de Goiás para a apuração do resultado;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XII.
 
-~~VIII – apoiar as ações de capacitação e os eventos nas áreas relacionadas ao PCP do Estado de Goiás;~~<br>
+~~VIII – apoiar as ações de capacitação e os eventos nas áreas relacionadas ao PCP do Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XII.
 
-~~IX – publicizar a identidade visual do PCP do Estado de Goiás; e~~<br>
+~~IX – publicizar a identidade visual do PCP do Estado de Goiás; e~~
+
 \- [Revogado pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493), art. 2º, XII.
 
 X – encarregar–se de competências correlatas.
@@ -2088,309 +2264,412 @@ b) auditorias para analisar e verificar se uma área, um processo ou um sistema 
 
 II – encarregar–se de competências correlatas.
 
-Subseção XVI<br>
-Da Auditoria Interna de Segurança Pública<br>
+Subseção XVI
+
+Da Auditoria Interna de Segurança Pública
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Art. 48-A. Compete à Auditoria Interna de Segurança Pública:<br>
+Art. 48-A. Compete à Auditoria Interna de Segurança Pública:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - realizar a orientação das atividades de auditoria interna nos órgãos e nas entidades sob sua competência, a fim de que essas contribuam para a melhoria da governança, do gerenciamento de riscos e dos processos de controle e, assim, agreguem valor à gestão;<br>
+I - realizar a orientação das atividades de auditoria interna nos órgãos e nas entidades sob sua competência, a fim de que essas contribuam para a melhoria da governança, do gerenciamento de riscos e dos processos de controle e, assim, agreguem valor à gestão;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - desenvolver relacionamentos com a alta administração dos órgãos e das entidades sob sua competência;<br>
+II - desenvolver relacionamentos com a alta administração dos órgãos e das entidades sob sua competência;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;<br>
+III - estabelecer políticas e procedimentos para assessorar a atividade de auditoria interna;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;<br>
+IV - desenvolver os possíveis universos de auditoria, bem como a metodologia de avaliação de riscos para a elaboração do PAAC;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - disseminar o valor dos serviços de auditoria interna e de suas boas práticas, bem como organizar lições aprendidas dos trabalhos realizados; e<br>
+V - disseminar o valor dos serviços de auditoria interna e de suas boas práticas, bem como organizar lições aprendidas dos trabalhos realizados; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VI - encarregar-se de competências correlatas.<br>
+VI - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Seção VI<br>
-Do Escritório de Projetos Setorial<br>
+Seção VI
+
+Do Escritório de Projetos Setorial
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Art. 48-B. Compete ao Escritório de Projetos Setorial:<br>
+Art. 48-B. Compete ao Escritório de Projetos Setorial:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - implantar a estrutura do Escritório de Projetos Setorial conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+I - implantar a estrutura do Escritório de Projetos Setorial conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - instituir a Rede de Gestão de Projetos da CGE;<br>
+II - instituir a Rede de Gestão de Projetos da CGE;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - promover o engajamento dos membros da Rede de Gestão de Projetos, bem como de outros envolvidos da CGE, por meio de reuniões de sensibilização, orientação e treinamento, além de outros eventos, conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+III - promover o engajamento dos membros da Rede de Gestão de Projetos, bem como de outros envolvidos da CGE, por meio de reuniões de sensibilização, orientação e treinamento, além de outros eventos, conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - assessorar na seleção e na priorização de projetos para definir o portfólio, com a observação da validação do dirigente, das demandas finalísticas da CGE, das prioridades governamentais e dos outros instrumentos estratégicos vigentes, caso isso se faça necessário;<br>
+IV - assessorar na seleção e na priorização de projetos para definir o portfólio, com a observação da validação do dirigente, das demandas finalísticas da CGE, das prioridades governamentais e dos outros instrumentos estratégicos vigentes, caso isso se faça necessário;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - assessorar na correta inclusão das informações do portfólio do órgão no Sistema de Monitoramento e Acompanhamento de Projetos de Goiás - GOMAP e em outros indicados, de acordo com as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+V - assessorar na correta inclusão das informações do portfólio do órgão no Sistema de Monitoramento e Acompanhamento de Projetos de Goiás - GOMAP e em outros indicados, de acordo com as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VI - assessorar no monitoramento geral e sistêmico dos projetos da CGE no GOMAP, para que seja realizado corretamente, segundo as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+VI - assessorar no monitoramento geral e sistêmico dos projetos da CGE no GOMAP, para que seja realizado corretamente, segundo as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VII - participar de reuniões de planejamento, acompanhamento e monitoramento, entre outros eventos, para a melhoria da performance do Escritório de Projetos Setorial;<br>
+VII - participar de reuniões de planejamento, acompanhamento e monitoramento, entre outros eventos, para a melhoria da performance do Escritório de Projetos Setorial;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VIII - supervisionar a adoção das boas práticas de governança e gestão de portfólio, programas e projetos pelas áreas finalísticas, para que todos os projetos tenham, no mínimo, os planos de gerenciamento de escopo, cronograma, custo, engajamento de partes interessadas, comunicações e riscos;<br>
+VIII - supervisionar a adoção das boas práticas de governança e gestão de portfólio, programas e projetos pelas áreas finalísticas, para que todos os projetos tenham, no mínimo, os planos de gerenciamento de escopo, cronograma, custo, engajamento de partes interessadas, comunicações e riscos;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IX - assessorar o escopo dos projetos para que se considerem os objetivos SMART (específicos, mensuráveis, atingíveis, realistas e temporais/prazo), conforme a estratégia governamental, as partes interessadas, os requisitos técnicos e do negócio e os benefícios esperados, para buscar eficiência, eficácia e efetividade nas entregas;<br>
+IX - assessorar o escopo dos projetos para que se considerem os objetivos SMART (específicos, mensuráveis, atingíveis, realistas e temporais/prazo), conforme a estratégia governamental, as partes interessadas, os requisitos técnicos e do negócio e os benefícios esperados, para buscar eficiência, eficácia e efetividade nas entregas;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-X - assessorar os projetos para que possuam um backlog do projeto, do produto, das demandas e do mapa visual das entregas com Estrutura Analítica de Projetos - EAP;<br>
+X - assessorar os projetos para que possuam um backlog do projeto, do produto, das demandas e do mapa visual das entregas com Estrutura Analítica de Projetos - EAP;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XI - identificar, negociar e aprovar as alterações do escopo do projeto entre as partes interessadas, quando isso for necessário, e promover a gestão de mudanças;<br>
+XI - identificar, negociar e aprovar as alterações do escopo do projeto entre as partes interessadas, quando isso for necessário, e promover a gestão de mudanças;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XII - assessorar o controle das atividades do projeto para que ele seja realizado conforme o ciclo de vida do projeto e da abordagem de gerenciamento adotada e, se for pertinente, manter atualizadas em cronograma as linhas de base planejadas versus realizadas;<br>
+XII - assessorar o controle das atividades do projeto para que ele seja realizado conforme o ciclo de vida do projeto e da abordagem de gerenciamento adotada e, se for pertinente, manter atualizadas em cronograma as linhas de base planejadas versus realizadas;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XIII - assessorar o gerenciamento dos custos para que ele seja realizado com a elaboração do cronograma financeiro, se for pertinente, bem como relacionado ao cronograma físico, em conformidade com os instrumentos estratégicos de orçamento e a previsão de desembolso financeiro;<br>
+XIII - assessorar o gerenciamento dos custos para que ele seja realizado com a elaboração do cronograma financeiro, se for pertinente, bem como relacionado ao cronograma físico, em conformidade com os instrumentos estratégicos de orçamento e a previsão de desembolso financeiro;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XIV - assessorar na comunicação do projeto para que ela seja realizada com ferramentas como matriz de responsabilidade, técnicas de negociação, mediação de conflitos, se for pertinente, conforme o ciclo de vida do projeto e da abordagem de gerenciamento adotada;<br>
+XIV - assessorar na comunicação do projeto para que ela seja realizada com ferramentas como matriz de responsabilidade, técnicas de negociação, mediação de conflitos, se for pertinente, conforme o ciclo de vida do projeto e da abordagem de gerenciamento adotada;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XV - supervisionar os riscos para que eles sejam identificados por meio da elaboração da matriz de riscos, se for pertinente, para a classificação e a resposta conforme a probabilidade e o impacto;<br>
+XV - supervisionar os riscos para que eles sejam identificados por meio da elaboração da matriz de riscos, se for pertinente, para a classificação e a resposta conforme a probabilidade e o impacto;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XVI - supervisionar e monitorar a execução dos projetos nas áreas finalísticas para otimizar o desempenho, com a observação de, no mínimo, gerenciamento de escopo, cronograma, orçamento, comunicações, engajamento das partes interessadas e riscos, se for pertinente, e em conformidade com o ciclo de vida do projeto e da abordagem de gerenciamento adotada;<br>
+XVI - supervisionar e monitorar a execução dos projetos nas áreas finalísticas para otimizar o desempenho, com a observação de, no mínimo, gerenciamento de escopo, cronograma, orçamento, comunicações, engajamento das partes interessadas e riscos, se for pertinente, e em conformidade com o ciclo de vida do projeto e da abordagem de gerenciamento adotada;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XVII - elaborar relatórios de situação, indicadores e outros instrumentos conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+XVII - elaborar relatórios de situação, indicadores e outros instrumentos conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XVIII - realizar a governança de projetos com o engajamento das áreas finalísticas e do dirigente da CGE nos ciclos de reuniões, para o reporte de situação e a tomada de decisão nos níveis operacional, tático e estratégico;<br>
+XVIII - realizar a governança de projetos com o engajamento das áreas finalísticas e do dirigente da CGE nos ciclos de reuniões, para o reporte de situação e a tomada de decisão nos níveis operacional, tático e estratégico;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XIX - assessorar no planejamento do projeto para que ele seja realizado em ondas sucessivas, para as entregas de valor em ciclos curtos, e buscar, se for possível, aplicar as diretrizes e os princípios de agilidade;<br>
+XIX - assessorar no planejamento do projeto para que ele seja realizado em ondas sucessivas, para as entregas de valor em ciclos curtos, e buscar, se for possível, aplicar as diretrizes e os princípios de agilidade;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XX - o balanceamento de recursos e a visão de entrega de valor estratégico;<br>
+XX - o balanceamento de recursos e a visão de entrega de valor estratégico;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XXI - fomentar a cultura relacionada ao tema governança, gestão de portfólio e projetos na CGE; e<br>
+XXI - fomentar a cultura relacionada ao tema governança, gestão de portfólio e projetos na CGE; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-XXII - encarregar-se de competências correlatas.<br>
+XXII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Parágrafo único. O Escritório de Projetos Setorial fica subordinado técnica e normativamente à Subsecretaria de Governança da SGG, sem prejuízo à subordinação administrativa ao Gabinete do Secretário-Chefe.<br>
+Parágrafo único. O Escritório de Projetos Setorial fica subordinado técnica e normativamente à Subsecretaria de Governança da SGG, sem prejuízo à subordinação administrativa ao Gabinete do Secretário-Chefe.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-<br>
-Seção VII<br>
-Da Subcontroladoria de Operações Especiais <br>
+Seção VII
+
+Da Subcontroladoria de Operações Especiais 
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-<br>
-Art. 48-C. Compete à Subcontroladoria de Operações Especiais:<br>
+Art. 48-C. Compete à Subcontroladoria de Operações Especiais:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - articular parcerias institucionais com a Delegacia-Geral da Polícia Civil, a Secretaria de Estado da Segurança Pública e os órgãos de controle externo;<br>
+I - articular parcerias institucionais com a Delegacia-Geral da Polícia Civil, a Secretaria de Estado da Segurança Pública e os órgãos de controle externo;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - coordenar as atividades de inspeção no âmbito da CGE;<br>
+II - coordenar as atividades de inspeção no âmbito da CGE;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - coordenar a produção de informações e conhecimentos estratégicos, de inteligência e de trilhas eletrônicas utilizadas no apoio às ações de controle;<br>
+III - coordenar a produção de informações e conhecimentos estratégicos, de inteligência e de trilhas eletrônicas utilizadas no apoio às ações de controle;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - propor ao Secretário-Chefe da CGE a celebração de TAG com o dirigente máximo do órgão ou da entidade inspecionada, para cessar a prática de atos objeto do não atendimento de recomendações decorrentes de falhas graves;<br>
+IV - propor ao Secretário-Chefe da CGE a celebração de TAG com o dirigente máximo do órgão ou da entidade inspecionada, para cessar a prática de atos objeto do não atendimento de recomendações decorrentes de falhas graves;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - coordenar, especificamente na área de sua competência, a elaboração do PAAC; e<br>
+V - coordenar, especificamente na área de sua competência, a elaboração do PAAC; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VI - encarregar-se de competências correlatas.<br>
+VI - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-§ 1º Nos órgãos em que houver Subsecretaria de Controle Interno e Compliance, unidades descentralizadas da CGE, a competência de que dispõe o inciso I do caput deste artigo será realizada de forma compartilhada com os titulares de tais unidades na medida de sua competência,  sem prejuízo à realização descentralizada, quando for o caso.<br>
+§ 1º Nos órgãos em que houver Subsecretaria de Controle Interno e Compliance, unidades descentralizadas da CGE, a competência de que dispõe o inciso I do caput deste artigo será realizada de forma compartilhada com os titulares de tais unidades na medida de sua competência,  sem prejuízo à realização descentralizada, quando for o caso.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-§ 2º Além das competências constantes do caput deste artigo, compete à Subcontroladoria de Operações Especiais exercer as funções de organização, coordenação e supervisão das seguintes unidades:<br>
+§ 2º Além das competências constantes do caput deste artigo, compete à Subcontroladoria de Operações Especiais exercer as funções de organização, coordenação e supervisão das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - Controladoria Especializada em Ações Especiais e Inteligência;<br>
+I - Controladoria Especializada em Ações Especiais e Inteligência;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - Gerência de Acompanhamento de Agentes Públicos;<br>
+II - Gerência de Acompanhamento de Agentes Públicos;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - Gerência de Monitoramento de Contratados;<br>
+III - Gerência de Monitoramento de Contratados;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - Gerência de Análise Preventiva; e<br>
+IV - Gerência de Análise Preventiva; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - Controladoria Especializada em Inspeções.<br>
+V - Controladoria Especializada em Inspeções.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Subseção I<br>
-Da Controladoria Especializada em Ações<br>
-Especiais e Inteligência<br>
+Subseção I
+
+Da Controladoria Especializada em Ações
+
+Especiais e Inteligência
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-<br>
-Art. 48-D. Compete à Controladoria Especializada em Ações Especiais e Inteligência:<br>
+Art. 48-D. Compete à Controladoria Especializada em Ações Especiais e Inteligência:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - prestar assessoramento estratégico e de inteligência à CGE para o aperfeiçoamento da gestão pública, a inovação, a anticorrupção e a integridade, conforme forem demandadas pelo Secretário-Chefe e pelo Subcontrolador de Operações Especiais;<br>
+I - prestar assessoramento estratégico e de inteligência à CGE para o aperfeiçoamento da gestão pública, a inovação, a anticorrupção e a integridade, conforme forem demandadas pelo Secretário-Chefe e pelo Subcontrolador de Operações Especiais;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - desenvolver trilhas de auditoria e cruzamentos de dados voltados às ações da CGE de inteligência e combate à corrupção;<br>
+II - desenvolver trilhas de auditoria e cruzamentos de dados voltados às ações da CGE de inteligência e combate à corrupção;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - assistir à elaboração do PAAC;<br>
+III - assistir à elaboração do PAAC;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - requisitar informações e banco de dados necessários para subsidiar a produção de informações estratégicas e de inteligência relativas ao desenvolvimento das atividades da CGE;<br>
+IV - requisitar informações e banco de dados necessários para subsidiar a produção de informações estratégicas e de inteligência relativas ao desenvolvimento das atividades da CGE;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - solicitar às unidades da CGE dados e informações que subsidiem e complementem as atividades de investigação e inteligência;<br>
+V - solicitar às unidades da CGE dados e informações que subsidiem e complementem as atividades de investigação e inteligência;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VI - promover intercâmbio contínuo com outros órgãos de informações estratégicas para a prevenção e o combate à corrupção;<br>
+VI - promover intercâmbio contínuo com outros órgãos de informações estratégicas para a prevenção e o combate à corrupção;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VII - propor melhorias para o aprimoramento dos controles aplicados aos sistemas informatizados; e<br>
+VII - propor melhorias para o aprimoramento dos controles aplicados aos sistemas informatizados; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VIII - encarregar-se de competências correlatas.<br>
+VIII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Parágrafo único. Além das competências constantes do caput deste artigo, compete à Controladoria Especializada em Ações Especiais e Inteligência exercer a função de supervisão técnica da Gerência de Acompanhamento de Agentes Públicos.<br>
+Parágrafo único. Além das competências constantes do caput deste artigo, compete à Controladoria Especializada em Ações Especiais e Inteligência exercer a função de supervisão técnica da Gerência de Acompanhamento de Agentes Públicos.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Subseção II<br>
-Da Gerência de Acompanhamento de Agentes<br>
-Público<br>
+Subseção II
+
+Da Gerência de Acompanhamento de Agentes
+
+Público
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Art. 48-E. Compete à Gerência de Acompanhamento de Agentes Públicos:<br>
+Art. 48-E. Compete à Gerência de Acompanhamento de Agentes Públicos:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - analisar os requisitos exigidos para membros indicados a comporem os conselhos de administração, diretorias e conselhos fiscais das empresas estatais de menor porte;<br>
+I - analisar os requisitos exigidos para membros indicados a comporem os conselhos de administração, diretorias e conselhos fiscais das empresas estatais de menor porte;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - coletar e analisar informações sobre pessoas físicas e jurídicas com as quais a administração estadual estabeleceu ou tem a intenção de estabelecer relação de qualquer natureza, para a verificação do perfil de risco e análises estratégicas, a fim de assessorar o processo de decisão;<br>
+II - coletar e analisar informações sobre pessoas físicas e jurídicas com as quais a administração estadual estabeleceu ou tem a intenção de estabelecer relação de qualquer natureza, para a verificação do perfil de risco e análises estratégicas, a fim de assessorar o processo de decisão;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - manifestar-se sobre o atendimento às recomendações constantes das SACs e dos IACs de sua competência;<br>
+III - manifestar-se sobre o atendimento às recomendações constantes das SACs e dos IACs de sua competência;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - realizar ações investigativas e de inteligência para subsidiar a atuação da Subcontroladoria de Operações Especiais e de suas unidades subordinadas;<br>
+IV - realizar ações investigativas e de inteligência para subsidiar a atuação da Subcontroladoria de Operações Especiais e de suas unidades subordinadas;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - produzir conhecimentos a partir de análises de dados e estudos diversos para subsidiar os stakeholders na fundamentação de suas deliberações;<br>
+V - produzir conhecimentos a partir de análises de dados e estudos diversos para subsidiar os stakeholders na fundamentação de suas deliberações;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VI - realizar inspeções na área de pessoal; e<br>
+VI - realizar inspeções na área de pessoal; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VII - encarregar-se de competências correlatas.<br>
+VII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Subseção III<br>
-Da Gerência de Monitoramento de Contratados<br>
+Subseção III
+
+Da Gerência de Monitoramento de Contratados
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Art. 48-F. Compete à Gerência de Monitoramento de Contratados:<br>
+Art. 48-F. Compete à Gerência de Monitoramento de Contratados:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - realizar inspeções nos contratos administrativos celebrados pelos órgãos e pelas entidades ou mantidos com recursos públicos no Poder Executivo do Estado de Goiás, para verificar a conformidade dos atos e dos fatos administrativos;<br>
+I - realizar inspeções nos contratos administrativos celebrados pelos órgãos e pelas entidades ou mantidos com recursos públicos no Poder Executivo do Estado de Goiás, para verificar a conformidade dos atos e dos fatos administrativos;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - realizar inspeções nos órgãos e nas entidades do Poder Executivo do Estado de Goiás nas áreas de contratação de bens, insumos e serviços, assim como nas áreas de convênios, transferências, concessões e outros ajustes;<br>
+II - realizar inspeções nos órgãos e nas entidades do Poder Executivo do Estado de Goiás nas áreas de contratação de bens, insumos e serviços, assim como nas áreas de convênios, transferências, concessões e outros ajustes;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - manifestar-se tecnicamente sobre o atendimento às recomendações constantes das SACs e dos IACs de sua competência;<br>
+III - manifestar-se tecnicamente sobre o atendimento às recomendações constantes das SACs e dos IACs de sua competência;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - requisitar informações a órgãos e entidades sobre a execução de contratos, para subsidiar análises de conformidade e os demais trabalhos a seu cargo;<br>
+IV - requisitar informações a órgãos e entidades sobre a execução de contratos, para subsidiar análises de conformidade e os demais trabalhos a seu cargo;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - propor melhorias para o aprimoramento dos controles aplicados aos sistemas informatizados; e<br>
+V - propor melhorias para o aprimoramento dos controles aplicados aos sistemas informatizados; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VI - encarregar-se de competências correlatas.<br>
+VI - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Subseção IV<br>
-Da Gerência de Análise Preventiva<br>
+Subseção IV
+
+Da Gerência de Análise Preventiva
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Art. 48-G. Compete à Gerência de Análise Preventiva:<br>
+Art. 48-G. Compete à Gerência de Análise Preventiva:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - analisar, quando julgar necessário, licitações, chamamentos públicos, prorrogações contratuais e procedimentos correlatos instaurados no âmbito dos órgãos e das entidades do Poder Executivo;<br>
+I - analisar, quando julgar necessário, licitações, chamamentos públicos, prorrogações contratuais e procedimentos correlatos instaurados no âmbito dos órgãos e das entidades do Poder Executivo;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - realizar inspeção preventiva nos órgãos e nas entidades do Poder Executivo do Estado de Goiás nas áreas de contratação de bens, insumos e serviços, assim como na área de convênios, transferências, concessões e outros ajustes;<br>
+II - realizar inspeção preventiva nos órgãos e nas entidades do Poder Executivo do Estado de Goiás nas áreas de contratação de bens, insumos e serviços, assim como na área de convênios, transferências, concessões e outros ajustes;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-III - manifestar-se tecnicamente sobre o atendimento às recomendações constantes das SACs e dos IACs de sua competência;<br>
+III - manifestar-se tecnicamente sobre o atendimento às recomendações constantes das SACs e dos IACs de sua competência;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-IV - analisar os Regulamentos de Compras e Contratação de Pessoal das organizações sociais contratadas com base na Lei nº 15.503, de 28 de dezembro de 2005;<br>
+IV - analisar os Regulamentos de Compras e Contratação de Pessoal das organizações sociais contratadas com base na Lei nº 15.503, de 28 de dezembro de 2005;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-V - requisitar dados e informações a órgãos e entidades do Poder Executivo estadual que subsidiem a análise preventiva dos processos administrativos e contratuais;<br>
+V - requisitar dados e informações a órgãos e entidades do Poder Executivo estadual que subsidiem a análise preventiva dos processos administrativos e contratuais;
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VI - propor melhorias para o aprimoramento dos controles aplicados aos sistemas informatizados; e<br>
+VI - propor melhorias para o aprimoramento dos controles aplicados aos sistemas informatizados; e
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-VII - encarregar-se de competências correlatas.<br>
+VII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-<br>
-Subseção V<br>
-Da Controladoria Especializada em Inspeções<br>
+Subseção V
+
+Da Controladoria Especializada em Inspeções
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Art. 48-H. Compete à Controladoria Especializada em Inspeções:<br>
+Art. 48-H. Compete à Controladoria Especializada em Inspeções:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-I - supervisionar as atividades de inspeção:<br>
+I - supervisionar as atividades de inspeção:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-a) das contratações realizadas pelo Poder Executivo do Estado de Goiás;<br>
+a) das contratações realizadas pelo Poder Executivo do Estado de Goiás;
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-b) das concessões, das parcerias, inclusive quando envolverem o setor privado, das transferências de recursos, dos convênios, dos recursos externos, dos acordos ou de outros ajustes para a realização das atividades de interesse público firmadas pelo Governo do Estado de Goiás;<br>
+b) das concessões, das parcerias, inclusive quando envolverem o setor privado, das transferências de recursos, dos convênios, dos recursos externos, dos acordos ou de outros ajustes para a realização das atividades de interesse público firmadas pelo Governo do Estado de Goiás;
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-c) da manutenção e do uso do patrimônio público dos órgãos e das entidades do Poder Executivo do Estado de Goiás;<br>
+c) da manutenção e do uso do patrimônio público dos órgãos e das entidades do Poder Executivo do Estado de Goiás;
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-d) da renúncia de receitas e da dívida pública; e<br>
+d) da renúncia de receitas e da dívida pública; e
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-e) dos demais gastos não compreendidos nas alíneas ‘a’ a ‘d’ deste inciso, conforme suas especificidades; e<br>
+e) dos demais gastos não compreendidos nas alíneas ‘a’ a ‘d’ deste inciso, conforme suas especificidades; e
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-II - encarregar-se de competências correlatas.<br>
+II - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-Parágrafo único. Além das competências constantes do caput deste artigo, compete à Controladoria Especializada em Inspeções exercer a função de supervisão técnica das seguintes unidades:<br>
+Parágrafo único. Além das competências constantes do caput deste artigo, compete à Controladoria Especializada em Inspeções exercer a função de supervisão técnica das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-a) Gerência de Análise Preventiva; e<br>
+a) Gerência de Análise Preventiva; e
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
-b) Gerência de Monitoramento de Contratados.<br>
+b) Gerência de Monitoramento de Contratados.
+
 \- [Acrescida pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 CAPÍTULO VII
@@ -2469,7 +2748,8 @@ XIII – exercer as atribuições de dirigente do órgão central das funções 
 
 XIV – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas pelo Governador; e
 
-XV - presidir o Comitê Superior de Controle Interno no que se refere à análise e à aprovação da proposta do PAAC, à avaliação dos resultados dos trabalhos por meio de indicadores e relatórios gerenciais, em reuniões quadrimestrais, e à análise de outros assuntos correlatos referentes à contínua melhoria da qualidade dos trabalhos de auditoria e inspeção desenvolvidos pela CGE.<br>
+XV - presidir o Comitê Superior de Controle Interno no que se refere à análise e à aprovação da proposta do PAAC, à avaliação dos resultados dos trabalhos por meio de indicadores e relatórios gerenciais, em reuniões quadrimestrais, e à análise de outros assuntos correlatos referentes à contínua melhoria da qualidade dos trabalhos de auditoria e inspeção desenvolvidos pela CGE.
+
 \- [Redação dada pelo Decreto nº 10.867, de 9-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113493).
 
 ~~XV – presidir o Comitê Superior de Controle Interno no que se refere à análise e à aprovação da proposta do POAC, à avaliação dos resultados dos trabalhos por meio de indicadores e relatórios gerenciais, em reuniões quadrimestrais, e à análise de outros assuntos correlatos referentes à contínua melhoria da qualidade dos trabalhos de auditoria e inspeção desenvolvidos pela CGE.~~

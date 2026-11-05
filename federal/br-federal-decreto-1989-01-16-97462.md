@@ -1,5 +1,3 @@
-###DEC-097462-0-000-16-01-1989@@@
-
 DECRETO N° 97.462, DE 16 DE JANEIRO DE 1989
 
 Dispõe sobre a transferência de sede de Órgão de Apoio do Ministério do Exército e dá outras providências.

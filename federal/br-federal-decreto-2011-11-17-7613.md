@@ -1,5 +1,3 @@
-###DEC-007613-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.613, DE 17 DE NOVEMBRO DE 2011
 
  Altera o Decreto nº 5.992, de 19 de dezembro de 2006, que dispõe sobre a concessão de diárias no âmbito da administração federal direta, autárquica e fundacional.

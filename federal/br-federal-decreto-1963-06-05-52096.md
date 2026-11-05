@@ -1,5 +1,3 @@
-###DEC-052096-0-000-05-06-1963@@@
-
 Decreto nº 52.096, de 5 de junho de 1963.
 
 Declara prioritário para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados a “Companhia Empório Industrial Norte” de Salvador (Ba.).
@@ -14,7 +12,25 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de qualquer taxas e impostos federais, com a ressalva neste expressa e pertinentes ao motores elétricos que acompanha a maquinaria, infra citados, a importação dos equipamentos novos, sem similar nacional registrado, a ser descritos à “Companhia Empório Industrial do Norte” de Salvador (Ba.):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr style="height:36.5pt"><td style="width:293.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item – Especificão</span></p></td><td style="width:60.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:56pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF U$$</span></p></td></tr><tr style="height:36.5pt"><td style="width:293.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1 (uma) Urdideira de fios marca Scha fhorst (fabricação de W. S. Schalfhorst &amp; Co. - Alemanha), modêlo EZD, de 143cm de largura útil, velocidade regulável sem degraus, entre 300 a 600m/min, dotada de: dispositivo para rolos duros e moles; freios hidráulicos sincronizados, gaiola dupla de 520 fios; parada automática por sistema elétrico (que comanda os freios hidráulicos); caixa de comando embutida; 6 ventiladores; 12 rolos de aço inoxidável para tingimento, de 140 cm de largura; 1 motor de acionamento principal e 7 motores auxiliares, todos devidamente acoplados à máquina ..........................................................................................</span></p></td><td style="width:60.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>16.948</span></p></td></tr><tr style="height:36.5pt"><td style="width:293.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ............................................................................................</span></p></td><td style="width:60.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:56pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>16.948</span></p></td></tr></tbody></table>
+Item – Especificão
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF U$$
+
+1 (uma) Urdideira de fios marca Scha fhorst (fabricação de W. S. Schalfhorst &amp; Co. - Alemanha), modêlo EZD, de 143cm de largura útil, velocidade regulável sem degraus, entre 300 a 600m/min, dotada de: dispositivo para rolos duros e moles; freios hidráulicos sincronizados, gaiola dupla de 520 fios; parada automática por sistema elétrico (que comanda os freios hidráulicos); caixa de comando embutida; 6 ventiladores; 12 rolos de aço inoxidável para tingimento, de 140 cm de largura; 1 motor de acionamento principal e 7 motores auxiliares, todos devidamente acoplados à máquina ..........................................................................................
+
+1
+
+16.948
+
+TOTAL ............................................................................................
+
+-
+
+16.948
 
 Parágrafo único. Para efeito da isenção de que trata o presente Decreto e com respeito aos motores elétricos retro mencionados, fica sua similiaridade para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

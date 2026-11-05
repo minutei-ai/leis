@@ -1,5 +1,3 @@
-###DEL-008205-0-000-22-11-1945@@@
-
 DECRETO-LEI N. 8.205 – DE 22 DE NOVEMBRO DE 1945
 
 Altera sem aumento de despesa, o Orçamento Geral da República

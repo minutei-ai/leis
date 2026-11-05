@@ -1,5 +1,3 @@
-###DEL-003682-0-000-02-10-1941@@@
-
 DECRETO-LEI N. 3.682 – DE 2 DE OUTUBRO DE 1941
 
 Autoriza ao Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona

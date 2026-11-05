@@ -1,20 +1,18 @@
-###DEC-037746-0-000-17-08-1955@@@
+**DECRETO Nº 37.746, DE 17 DE AGÔSTO DE 1955.**
 
-<strong>DECRETO Nº 37.746, DE 17 DE AGÔSTO DE 1955.</strong>
+***Revoga o Decreto nº 29.485, de 23 de abril de 1951, e dá nova redação aos Artigos 78, 80, 81, 86, 87, 88, 90 e as alíneas “b” e “c” do Artigo 83, tudo do Regulamento para as Escolas Preparatórias, baixadas com o Decreto nº 18.732, de 28 de maio de 1945.***
 
-<em><strong>Revoga o Decreto nº 29.485, de 23 de abril de 1951, e dá nova redação aos Artigos 78, 80, 81, 86, 87, 88, 90 e as alíneas “b” e “c” do Artigo 83, tudo do Regulamento para as Escolas Preparatórias, baixadas com o Decreto nº 18.732, de 28 de maio de 1945.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o Artigo 87, Inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o Artigo 87, Inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica revogado o Decreto nº 29.485, de 23 de abril de 1951, que aos alunos das Escolas Preparatórias do Exército reprovados em uma matéria no ano anterior, concedêra freqüência no ano seguinte, com dependência, como conseqüência volta inteiramente a vigor o Artigo 91 do Regulamento acima referido.
 
-<strong>Art</strong>. 1º Fica revogado o Decreto nº 29.485, de 23 de abril de 1951, que aos alunos das Escolas Preparatórias do Exército reprovados em uma matéria no ano anterior, concedêra freqüência no ano seguinte, com dependência, como conseqüência volta inteiramente a vigor o Artigo 91 do Regulamento acima referido.
-
-<strong>Art</strong>. 2º O Artigo 78 do Regulamento para as Escolas Preparatórias, já referido, fica com o seu parágrafo único suprimido e passa a ter a seguinte redação:
+**Art**. 2º O Artigo 78 do Regulamento para as Escolas Preparatórias, já referido, fica com o seu parágrafo único suprimido e passa a ter a seguinte redação:
 
 “Art. 78. Todos os alunos serão submetidos a exames de fim de ano”.
 
-<strong>Art</strong>. 3º Os Artigos e alíneas abaixo, do Regulamento para as Escolas Preparatórias, citado, passam a ter a seguinte redação:
+**Art**. 3º Os Artigos e alíneas abaixo, do Regulamento para as Escolas Preparatórias, citado, passam a ter a seguinte redação:
 
 “Art. 80. Os exames de primeira época obedecerão às seguintes prescrições gerais:
 
@@ -70,7 +68,7 @@ c) a metade do conteúdo de cada prova, em extensão e valor, abrangerá os aspe
 
 a) não haverá conta de ano, salvo para os alunos que, por doença grave, acidente ou nôjo, devidamente comprovado, não os tiverem prestado em primeira época;
 
-b) o resultado do exame para o caso da letra anterior será regulado de acôrdo com a letra <em>f</em> do Art. 80; para os demais casos será a média aritmética dos graus das provas escrita e oral, ou o próprio grau da prova gráfica, quanto fôr o caso;
+b) o resultado do exame para o caso da letra anterior será regulado de acôrdo com a letra *f* do Art. 80; para os demais casos será a média aritmética dos graus das provas escrita e oral, ou o próprio grau da prova gráfica, quanto fôr o caso;
 
 c) o aluno que faltar aos exames de segunda época, por motivo de doença grave, ou acidente, comprovados pela Formação Sanitária da Escola, ou nôjo, fará essa prova numa segunda chamada. Se não puder atender a essa segunda chamada até o início das aulas, ou, sendo aluno do 3º ano, até o fim da segunda quinzena de janeiro, será considerado reprovado”.
 
@@ -78,10 +76,10 @@ c) o aluno que faltar aos exames de segunda época, por motivo de doença grave,
 
 Parágrafo único. Nas matérias em que o aluno repetente já tenha sido aprovado, só será cumputada a última nota de aprovação, se esta fôr superior a obtida no ano anterior, tendo em vista apenas melhorar a classificação prevista no artigo 93”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 17 de agôsto de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott

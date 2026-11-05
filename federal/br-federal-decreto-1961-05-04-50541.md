@@ -1,5 +1,3 @@
-###DEC-050541-0-000-04-05-1961@@@
-
 Decreto Nº 50.541, de 4 de Maio de 1961.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção do açude público Boa Vista, no Município de Salgueiro, Estado de Pernambuco.

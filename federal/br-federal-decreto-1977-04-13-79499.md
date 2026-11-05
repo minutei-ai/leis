@@ -1,5 +1,3 @@
-###DEC-079499-0-000-13-04-1977@@@
-
 DECRETO Nº 79.499, DE 13 DE ABRIL DE 1977.
 
 Declara sem efeito o Decreto número 28.106, de 11 de maio de 1950, que concedeu a Francisco Lotufo Filho o direito de lavrar quartzito e associados no Município de Mogi das Cruzes, Estado de São Paulo.

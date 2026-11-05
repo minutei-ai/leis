@@ -1,5 +1,3 @@
-###DEC-077311-0-000-17-03-1976@@@
-
 DECRETO Nº 77.311, DE 17 DE MARÇO DE 1976.
 
 Concede reconhecimento ao curso de Geologia, do Instituto de Geociências, da Universidade de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

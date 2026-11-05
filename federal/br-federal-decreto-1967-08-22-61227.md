@@ -1,5 +1,3 @@
-###DEC-061227-0-000-22-08-1967@@@
-
 DECRETO Nº 61.227, DE 22 DE AGÔSTO DE 1967.
 
 Abre o crédito especial de NCR$100.000,00 (cem mil cruzeiros novos) ao Ministério dos Transportes, para o fim que especifica.

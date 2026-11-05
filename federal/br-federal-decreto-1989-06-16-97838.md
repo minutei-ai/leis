@@ -1,7 +1,3 @@
-1
-
-###DEC-097838-0-000-16-06-1989@@@
-
 DECRETO N° 97.838, DE 16 DE JUNHO DE 1989
 
 Homologa a demarcação administrativa da Área Indígena Xerente que menciona, no Estado do Tocantins.

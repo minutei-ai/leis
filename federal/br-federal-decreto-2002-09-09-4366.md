@@ -1,5 +1,3 @@
-###DEC-004366-0-000-09-09-2002@@@
-
 DECRETO Nº 4.366, DE 9 DE SETEMBRO DE 2002
 
 Regulamenta a Lei Complementar nº 113, de 19 de setembro de 2001, que autoriza o Poder Executivo a criar a Região Administrativa Integrada de Desenvolvimento do Pólo Petrolina/PE e Juazeiro/BA e instituir o Programa Especial de Desenvolvimento do Pólo Petrolina/PE e Juazeiro/BA, e dá outras providências.

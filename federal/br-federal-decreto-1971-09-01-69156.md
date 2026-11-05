@@ -1,5 +1,3 @@
-###DEC-069156-0-000-01-09-1971@@@
-
 DECRETO Nº 69.156, DE 1º DE SETEMBRO DE 1971.
 
 Concede à Companhia de Estanho São João Del Rei o direito de lavrar cassiterita, tântalo-columbia e djalmaíta, no município de Nazoreno, Estado de Minas Gerais.

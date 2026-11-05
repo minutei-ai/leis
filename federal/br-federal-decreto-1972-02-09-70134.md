@@ -1,5 +1,3 @@
-###DEC-070134-0-000-09-02-1972@@@
-
 DECRETO Nº 70.134, DE 9 DE FEVEREIRO DE 1972.
 
 Aproveita, no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado, servidores em disponibilidade e dá outras providências.

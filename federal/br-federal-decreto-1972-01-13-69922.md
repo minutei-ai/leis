@@ -1,5 +1,3 @@
-###DEC-069922-0-000-13-01-1972@@@
-
 DECRETO Nº 69.922, DE 13 DE JANEIRO DE 1972.
 
 Cria a Comissão Executiva Central para dirigir e coordenar as comemoração do Sesquicentenário da Independência do Brasil, fixa-lhe a constituição, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001519-0-000-08-06-1995@@@
-
 DECRETO Nº 1.519, DE 8 DE JUNHO DE 1995.
 
 Regulamenta a Lei nº 9.015, de 30 de março de 1995, que institui a "Retribuição Variável da Comissão de Valores Mobiliário RVCVM" e a "Retribuição Variável da Superintendência de Seguros Privados RVSUSEP", e dá outras providências.

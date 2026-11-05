@@ -1,5 +1,3 @@
-###DEL-009801-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.801 – DE 9 DE SETEMBRO DE 1946
 
 Dá nova redação ao art. 1º, da Decreto lei nº 9.661, de 28 de agôsto de 1946.

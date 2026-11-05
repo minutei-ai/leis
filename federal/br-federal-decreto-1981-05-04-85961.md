@@ -1,5 +1,3 @@
-###DEC-085961-0-000-04-05-1981@@@
-
 DECRETO Nº 85.961, de 04 de maio de 1981
 
 Outorga a FURNAS - Centrais Elétricas S.A. concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio Paraíba do Sul, no Estado do Rio de Janeiro.

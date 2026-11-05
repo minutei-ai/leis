@@ -1,5 +1,3 @@
-###DEC-072989-0-000-19-10-1973@@@
-
 DECRETO Nº 72.989, DE 19 DE OUTUBRO DE 1973.
 
 Concede à Indústria de Mineração Sul Brasileira S.A. - IMSUBRA o direito de lavrar fluorita no Município de Morro da Fumaça, Estado de Santa Catarina.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0ccb8b5b-b0d2-4b0b-a174-5de2a4e7640f/texto#nowhere)
 
-###DEL-000994-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 994, De 21 DE OUTUBRo DE 1969
 
 Dispõe sôbre a Fundação Presidente Antônio Carlos.

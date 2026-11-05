@@ -1,5 +1,3 @@
-###DEC-072736-0-000-04-09-1973@@@
-
 DECRETO Nº 72.736, de 4 de setembro de 1973.
 
 Concede a Irmãos Tótoli - Mineração e Comércio Ltda., o direito de lavrar minério de manganês no Município de Rio Pardo de Minas, Estado de Minas Gerais.

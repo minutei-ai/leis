@@ -1,5 +1,3 @@
-###DEC-091532-0-000-15-08-1985@@@
-
 Decreto nº 91.532, de 15 de agosto de 1985.
 
 Dispõe sobre a composição do Conselho Deliberativo da Superintendência do Desenvolvimento do Nordeste (SUDENE), e dá outras providências.

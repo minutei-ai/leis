@@ -1,5 +1,3 @@
-###DEC-047541-0-000-29-12-1959@@@
-
 DECRETO Nº 47.541, DE 29 DE Dezembro DE 1959.
 
 Transfere sem aumento de despesa função da Tabela Única de Extranumerário Mensalista do Ministério da Educação e Cultura para idêntica Tabela do Ministério da Fazenda, e dá outras providencias.

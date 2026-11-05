@@ -1,5 +1,3 @@
-###LEI-000000-0-001-04-12-1830@@@
-
 LEI - DE 4 DE DEZEMBRO DE 1830
 
 Manda crear uma commissão para tornar contas na Côrte á Caixa da Legação de Londres.

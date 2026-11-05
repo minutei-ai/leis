@@ -1,5 +1,3 @@
-###DEC-094552-0-000-06-07-1987@@@
-
 DECRETO N° 94.552, DE 6 DE JULHO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Araguari.

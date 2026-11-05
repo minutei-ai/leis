@@ -1,5 +1,3 @@
-###DEC-092386-0-000-06-02-1986@@@
-
 DECRETO Nº 92.386, DE 06 DE FEVEREIRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS - áreas de terra abrangidas pela bacia hidráulica e faixa seca e áreas de terras de empréstimo do Açude Público "MUNDAÚ", no Município de Uruburetama, Estado do Ceará.

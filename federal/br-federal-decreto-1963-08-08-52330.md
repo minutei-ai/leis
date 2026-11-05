@@ -1,5 +1,3 @@
-###DEC-052330-0-000-08-08-1963@@@
-
 Decreto Nº 52.330, DE 8 DE AgÔsto DE 1963.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, e consignados à “Companhia Valença Industrial”, Salvador (Ba).
@@ -14,7 +12,21 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer e taxas e impostos federais, com ressalva nesta expressa e pertinente ao motor elétrico que acompanha a maquinismo, a importação do equipamento novos, sem similar nacional registrado, a seguir descrito e consignado à “Companhia Valença Industrial“, de Salvador (Ba)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIFICAÇÃO</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Maçaroqueira para algodão, completa, marca PLATT. tipo M.S.2, modêlo 1, com 112 fusos, 8” de bitola, 4 fusos em 16”, para fazer maçarocas de 10” de alça por 4.1/4” de diâmetro, sistema de estiragem S.K.F., tipo P.K 403, manchão duplo, gaiola tipo GRANTRY, referência de catálogo CP 539/</span><span style="font-style:italic">Spanish</span><span>/500/3.62 LB, com motor elétrico de 7.1/2HP, 1.440 rpm, 440 volts, 3 fases, 50 ciclos, fechado, tipo assincronizado. Fabricação de PLATI BROS (SALES) LTD OLDHAM INGLATERRA. Pêso líquido de 12.674kg ....</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>28.730</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ..................................................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>28.730</span></p></td></tr></tbody></table>
+ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+Maçaroqueira para algodão, completa, marca PLATT. tipo M.S.2, modêlo 1, com 112 fusos, 8” de bitola, 4 fusos em 16”, para fazer maçarocas de 10” de alça por 4.1/4” de diâmetro, sistema de estiragem S.K.F., tipo P.K 403, manchão duplo, gaiola tipo GRANTRY, referência de catálogo CP 539/Spanish/500/3.62 LB, com motor elétrico de 7.1/2HP, 1.440 rpm, 440 volts, 3 fases, 50 ciclos, fechado, tipo assincronizado. Fabricação de PLATI BROS (SALES) LTD OLDHAM INGLATERRA. Pêso líquido de 12.674kg ....
+
+2
+
+28.730
+
+TOTAL ..................................................................................................
+
+28.730
 
 Parágrafo único. Para efeito da isenção de que trata o presente Decreto e com respeito ao motor elétrico retro descrito, fica sua similaridade para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de o mesmo seguir regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1953, do Sr. Ministro da Fazenda.
 

@@ -1,5 +1,3 @@
-###DEC-054129-0-000-13-08-1964@@@
-
 DECRETO Nº 54.129, DE 13 de AGôSTO DE 1964.
 
 Dá nova redação a dispositivos do Decreto nº 54.019, de 14 de julho de 1964, que cria a Coordenação Nacional de Credito Rural - CNCR - e o Fundo Nacional de Refinanciamento Rural e da outras providências.

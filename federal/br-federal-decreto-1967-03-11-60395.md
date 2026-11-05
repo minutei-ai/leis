@@ -1,5 +1,3 @@
-###DEC-060395-0-000-11-03-1967@@@
-
 decreto nº 60.395, de 11 de março de 1967.
 
 Dispõe sôbre a lotação do Conselho Fiscal do Instituto Nacional de Previdência Social.

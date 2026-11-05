@@ -1,5 +1,3 @@
-###DEC-075050-0-000-06-12-1974@@@
-
 DECRETO Nº 75.050, DE 6 DE DEZEMBRO DE 1974.
 
 Autoriza o funcionamento da Escola de Agronomia e Medicina Veterinária de Patos com sede na Cidade de Patos, Estado da Paraíba.
@@ -17,8 +15,6 @@ Brasília, 6 de dezembro de 1974; 153º da Independência e 86º da República.
 Ernesto Geisel
 
 Ney Braga
-
-###DEC-075050-0-000-06-12-1974@@@
 
 DECRETO Nº 75.050, DE 6 DE DEZEMBRO DE 1974.
 

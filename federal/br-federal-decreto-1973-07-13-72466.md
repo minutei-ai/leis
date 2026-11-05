@@ -1,5 +1,3 @@
-###DEC-072466-0-000-13-07-1973@@@
-
 DECRETO Nº 72.466, DE 13 DE JULHO DE 1973.
 
 Concede autorização à Empresa SEPANAMA S.A., de nacionalidade panamenha, para operar no mar territorial do Brasil, com a embarcação especializada "GEM-159" de bandeira panamenha, nos serviços que especifica.

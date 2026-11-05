@@ -1,5 +1,3 @@
-###DEC-003847-0-000-25-06-2001@@@
-
 DECRETO Nº 3.847, DE 25 DE JUNHO DE 2001
 
 Altera alíquota do Imposto sobre Produtos Industrializados ‑ IPI incidente sobre os produtos que menciona.
@@ -12,7 +10,31 @@ Art. 1º Fica acrescentado à Nota Complementar NC (84‑1) ao Capítulo 84 da T
 
 Art. 2º Fica alterada a descrição do destaque "Ex" a seguir relacionado:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:137.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="font-weight:bold">CÓDIGO</span></p></td><td style="width:137.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="font-weight:bold">DESCRIÇÃO</span></p></td><td style="width:137.05pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="font-weight:bold">ALÍQUOTA </span><span>%</span></p></td></tr><tr><td style="width:137.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>8516.79.90</span></p></td><td style="width:137.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Ex 01- Chuveiro elétrico</span></p></td><td style="width:137.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>10</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:137.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+CÓDIGO
+
+</td><td style="width:137.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+DESCRIÇÃO
+
+</td><td style="width:137.05pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+ALÍQUOTA %
+
+</td></tr><tr><td style="width:137.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+8516.79.90
+
+</td><td style="width:137.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Ex 01- Chuveiro elétrico
+
+</td><td style="width:137.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+10
+
+</td></tr></tbody></table>
 
 Art. 3º  Fica suprimido o destaque "Ex ‑ 01" ao código 8516.10.00 da TIPI.
 

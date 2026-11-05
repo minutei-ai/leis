@@ -1,5 +1,3 @@
-###DEC-091655-0-000-17-09-1985@@@
-
 DECRETO Nº 91.655, DE 17 DE SETEMBRO DE 1985
 
 Cria o Parque Nacional da Chapada da Diamantina.

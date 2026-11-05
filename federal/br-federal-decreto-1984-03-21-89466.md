@@ -1,5 +1,3 @@
-###DEC-089466-0-000-21-03-1984@@@
-
 DECRETO Nº 89.466, DE 21 DE MARÇO DE 1984
 
 Extingue a Diretoria de Veterinária no Ministério do Exército e dá outras providências.

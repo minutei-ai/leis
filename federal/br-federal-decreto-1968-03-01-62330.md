@@ -1,5 +1,3 @@
-###DEC-062330-0-000-01-03-1968@@@
-
 decreto nº 62.330, de 1º de março DE 1968.
 
 Declara de utilidade pública para fins de desapropriação, área de terra destinada à construção da estação transformadora Terminal Leste, no município de São Paulo, no Estado de São Paulo.

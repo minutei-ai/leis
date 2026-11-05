@@ -1,5 +1,3 @@
-###DEC-058009-0-000-17-03-1966@@@
-
 DECRETO Nº 58.009, DE 17 DE MARÇO DE 1966.
 
 Concede autorização a Produtos Químicos Carva Limitada, para trabalho contínuo, na forma estabelecida neste Decreto (MTPS-225.987-63).

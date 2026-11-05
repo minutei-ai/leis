@@ -1,5 +1,3 @@
-###DEC-071245-0-000-13-10-1972@@@
-
 Decreto nº 71.245, de 13 de outubro de 1972.
 
 Cria a Secretaria-Geral ao Ministério da Aeronáutica.

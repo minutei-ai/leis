@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir na Secretaria da Fazenda, �
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da rubrica 3.5.08 - 3.1.4.17, do orçamento em vigor.
 
-Redação de acordo com a Lei nº 2.343, de 27 de maio de 1966.<br>
+Redação de acordo com a Lei nº 2.343, de 27 de maio de 1966.
+
 Redação original: "Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da codificação 3.05.08 - verba 3.1.4.19-1 do orçamento vigente."
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -23,4 +24,4 @@ Jorge Calmon
 
 Ivo Braga
 
-* * *
+ *

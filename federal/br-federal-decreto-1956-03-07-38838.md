@@ -1,10 +1,8 @@
-###DEC-038838-0-000-07-03-1956@@@
+**DECRETO Nº 38.838, DE 7 DE MARÇO DE 1956.**
 
-<strong>DECRETO Nº 38.838, DE 7 DE MARÇO DE 1956.</strong>
+***Autoriza a execução de obras de emergência no Estado da Bahia, em regiões assoladas pela seca.***
 
-<em><strong>Autoriza a execução de obras de emergência no Estado da Bahia, em regiões assoladas pela seca.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição;
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição;
 
 Tendo em vista o que dispõe o § 1º, do art. 2º da Lei nº 1.004, de 24 de dezembro de 1949; e considerando que, conforme foi verificado pelo Ministério da Viação e Obras Públicas, através dos técnicos do Departamento Nacional de Obras Contra as Sêcas, diversas regiões da Bahia estão sofrendo as consequências da grave crise climática;
 
@@ -12,9 +10,9 @@ CONSIDERANDO que, no Estado da Bahia, na região abrangidas pelos municípios de
 
 CONSIDERANDO que está assim configurada a ocorrência de crise climática que, pela sua intensidade e pela extensão da área flagelada, impos o socorro imediato da União, através de obras de emergência e de serviços de assistência às populações da zona sêca, nos têrmos do artigo 2º da Lei nº 1.004, de 24 de dezembro de 1949,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica o Ministério de Viação e Obras Públicas autorizado a executar, pelo Departamento Nacional de Obras Contra as Sêcas, as seguintes obras de emergência e serviços de assistência:
+**Art**. 1º Fica o Ministério de Viação e Obras Públicas autorizado a executar, pelo Departamento Nacional de Obras Contra as Sêcas, as seguintes obras de emergência e serviços de assistência:
 
 No município de Juazeiro
 
@@ -48,13 +46,13 @@ Em vários Municípios.
 
 9\) pequenas aguadas, barreiras e tanques em logradouros públicos.
 
-<strong>Art</strong>. 2º As obras e serviços referidos no art. 1º correrão à contas da reserva especial de que trata o art. 2º da Lei nº 1.004, de 24 de dezembro de 1949, fixado assim o limite respectivas despesas em Cr$15.000.000,00 (quinze milhões de cruzeiros).
+**Art**. 2º As obras e serviços referidos no art. 1º correrão à contas da reserva especial de que trata o art. 2º da Lei nº 1.004, de 24 de dezembro de 1949, fixado assim o limite respectivas despesas em Cr$15.000.000,00 (quinze milhões de cruzeiros).
 
-<strong>Art</strong>. 3º O presente decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 3º O presente decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Rio de Janeiro, em 17 de março de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBTSCHEK</strong>
+**JUSCELINO KUBTSCHEK**
 
 Lúcio Meira
 

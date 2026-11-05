@@ -1,5 +1,3 @@
-###DEL-000474-0-000-19-02-1969@@@
-
 DECRETO-LEI Nº 474, DE 19 DE FEVEREIRO DE 1969
 
 Modifica a redação de dispositivo do Decreto-lei nº 960, de 17 de dezembro de 1938, e dá outras providências.

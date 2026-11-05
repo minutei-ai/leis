@@ -1,5 +1,3 @@
-###DEC-059274-0-000-23-09-1966@@@
-
 DECRETO Nº 59.274, DE 23 DE SETEMBRO DE 1966.
 
 Eleva à categoria de Embaixada a Representação Diplomática do Brasil junto à Ordem Soberana e Militar de Malta.

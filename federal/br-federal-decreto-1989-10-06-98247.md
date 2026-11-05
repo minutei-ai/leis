@@ -1,7 +1,3 @@
-1
-
-###DEC-098247-0-000-06-10-1989@@@
-
 DECRETO N° 98.247, DE 6 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos Municípios de São Bernardo do Campo, Mogi das Cruzes e Lorena, necessários à construção de instalações complementares para os Oleodutos SANTOS/UTINGA e REVAP/UTINGA, da Estação Repetidora de Lorena e de acesso.

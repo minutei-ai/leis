@@ -1,5 +1,3 @@
-###DEC-045168-0-000-31-12-1958@@@
-
 DECRETO Nº 45.168, DE 31 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Romeu da Silveira Marquez a pesquisar minério de manganês, ferro e associados no município de Corumbá Estado de Mato Grosso.

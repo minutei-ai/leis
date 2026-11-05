@@ -1,5 +1,3 @@
-###DEL-005009-0-000-30-11-1942@@@
-
 DECRETO-LEI N. 5.009 – DE 30 DE NOVEMBRO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de Cr$ 13.200,00 à verba que especifica

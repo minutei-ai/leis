@@ -1,5 +1,3 @@
-###DEL-004893-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.893 – DE 29 DE OUTUBRO DE 1942
 
 Autoriza o prefeito do Distrito Federal a isentar o “Clube Municipal", do pagamento dos impostos que menciona

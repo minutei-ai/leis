@@ -1,5 +1,3 @@
-###DEC-046591-0-000-14-08-1959@@@
-
 DECRETO Nº 46.591, DE 14 DE AGÔSTO DE 1959.
 
 Concede à sociedade Navegação Carmac Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

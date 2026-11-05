@@ -1,6 +1,10 @@
 > **LEI Nº 3.355, DE 18 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a inclusão nos cadastros, fichas, prontuários e formulários da Administração Pública direta e indireta do Estado, o campo para o nome social de todas as pessoas naturais, que façam uso dos mesmos, e pelo qual são reconhecidas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a inclusão nos cadastros, fichas, prontuários e formulários da Administração Pública direta e indireta do Estado, o campo para o nome social de todas as pessoas naturais, que façam uso dos mesmos, e pelo qual são reconhecidas.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

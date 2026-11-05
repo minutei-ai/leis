@@ -1,5 +1,3 @@
-###DEC-070532-0-000-16-05-1972@@@
-
 DECRETO Nº 70.532, DE 16 DE MAIO DE 1972.
 
 Declara de utilidade pública o Colégio Comercial "Monte Santo de Minas" ou Escola Técnica de Comércio "Monte Santo de Minas", com sede em Monte Santo de Minas, Estado de Minas Gerais.

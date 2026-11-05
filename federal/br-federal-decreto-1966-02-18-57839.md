@@ -1,5 +1,3 @@
-###DEC-057839-0-000-18-02-1966@@@
-
 DECRETO Nº 57.839, DE 18 DE FEVEREIRO DE 1966.
 
 Concede reconhecimento aos cursos de Instrumento e de Canto do Instituto de Belas Artes de Passo Fundo, Estado do Rio Grande do Sul.

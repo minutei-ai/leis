@@ -1,5 +1,3 @@
-###DEC-048289-0-000-13-06-1960@@@
-
 DECRETO Nº 48.289, DE 13 DE JUNHO DE 1960.
 
 Dispõe sôbre a constituição de Grupo de Trabalho no Ministério da Viação e Obras Públicas.

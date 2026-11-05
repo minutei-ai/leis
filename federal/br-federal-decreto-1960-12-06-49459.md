@@ -1,5 +1,3 @@
-###DEC-049459-0-000-06-12-1960@@@
-
 DECRETO Nº 49.459, DE 6 DE DEzEMBRO DE 1960.
 
 Altera o quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006282-0-000-17-02-1944@@@
-
 DECRETO-LEI N. 6.282 – DE 17 DE FEVEREIRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 8.000.000,00 para pagamento da 4ª prestação de ações da Companhia Vale do Rio Doce S.A.

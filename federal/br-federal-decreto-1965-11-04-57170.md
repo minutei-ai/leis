@@ -1,5 +1,3 @@
-###DEC-057170-0-000-04-11-1965@@@
-
 DECRETO Nº 57.170, DE 4 DE NOVEMBRO DE 1965.
 
 Autoriza a contratação de especialista temporário pelo Ministério da Viação e Obras Públicas.

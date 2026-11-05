@@ -1,30 +1,28 @@
-###DEC-035171-0-000-08-03-1954@@@
+**DECRETO Nº 35.171, DE 8 DE MARÇO DE 1954.**
 
-<strong>DECRETO Nº 35.171, DE 8 DE MARÇO DE 1954.</strong>
+***Aprova o Regimento da Diretoria do Ensino Industrial, do Ministério da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento da Diretoria do Ensino Industrial, do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Diretoria do Ensino Industrial, que com este baixa, assinado pelo Ministro de Estado da Educação e Cultura.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Diretoria do Ensino Industrial, que com este baixa, assinado pelo Ministro de Estado da Educação e Cultura.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de março de 1954; 133º da Independência; 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Antônio Balbino
 
-<strong>REGIMENTO DA DIRETORIA DO ENSINO INDIVIDUAL</strong>
+**REGIMENTO DA DIRETORIA DO ENSINO INDIVIDUAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º A Diretoria do Ensino Industrial (D.E.I.), subordinada ao Ministro da Educação e Cultura, tem por finalidade orientar e estimular o desenvolvimento do ensino industrial no País, nas suas diversas modalidades e graus, em conformidade com a legislação que rege a matéria, para isso competindo-lhe:
+**Art**. 1º A Diretoria do Ensino Industrial (D.E.I.), subordinada ao Ministro da Educação e Cultura, tem por finalidade orientar e estimular o desenvolvimento do ensino industrial no País, nas suas diversas modalidades e graus, em conformidade com a legislação que rege a matéria, para isso competindo-lhe:
 
 I - promover, nos estabelecimentos sob sua jurisdição, o aperfeiçoamento dos métodos e instrumentos de ensino e o melhoramento progressivo das instalações;
 
@@ -46,11 +44,11 @@ IX - divulgar por todos os meios aconselháveis, conhecimentos relativos ao ensi
 
 X - estudar os assuntos e relatórios referentes aos cursos mantidos pelo Serviço Nacional de Aprendizagem Industrial.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º A D. E. I. compõe-se de:
+**Art**. 2º A D. E. I. compõe-se de:
 
 I - Seção de Prédios, Instalações e Estudos (S. P. E.);
 
@@ -62,19 +60,19 @@ IV - Serviço Auxiliar (S. A.).
 
 Parágrafo único. De acôrdo com as necessidades do serviço, as Seções poderão subdividir-se em Turmas, mediante portaria do Ministro de Estado.
 
-<strong>Art</strong>. 3º Subordinados à D. E. I. funcionarão as Escolas e os cursos de ensino industrial mantidos pelo Ministério da Educação e Cultura.
+**Art**. 3º Subordinados à D. E. I. funcionarão as Escolas e os cursos de ensino industrial mantidos pelo Ministério da Educação e Cultura.
 
-<strong>Art</strong>. 4º A D. E. I. terá um Diretor nomeado, em comissão, pelo Presidente da República.
+**Art**. 4º A D. E. I. terá um Diretor nomeado, em comissão, pelo Presidente da República.
 
 Parágrafo único. O Diretor terá um Assistente e de Secretário escolhidos entre servidores da D. E. I.
 
-<strong>Art</strong>. 5º As funções de chefia e as de Assistente e de Secretário serão exercidas por servidores designados pelo Diretor.
+**Art**. 5º As funções de chefia e as de Assistente e de Secretário serão exercidas por servidores designados pelo Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>Art</strong>. 6º À S. P. E. compete:
+**Art**. 6º À S. P. E. compete:
 
 I - elaborar planos de construções e instalações escolares e opinar sôbre projetos de igual natureza submetidos à Diretoria;
 
@@ -98,7 +96,7 @@ X - orientar os estabelecimentos, relativamente á disposição das dependência
 
 XII - propôr a cassação ou suspensão da equiparação ou reconhecimento de um ou mais cursos ou de todo o estabelecimento quando comprovada a falta de eficiência ou idoneidade.
 
-<strong>Art</strong>. 7º A S.P.A compete:
+**Art**. 7º A S.P.A compete:
 
 I - fazer o registro de professor e expedir os respectivos certificados;
 
@@ -114,7 +112,7 @@ VI - fazer o registro de diploma;
 
 VII - promover o levantamento dos dados necessários à organização da estatística de matrícula, frequência e aproveitamento de alunos.
 
-<strong>Art</strong>. 8º A S. A. I. compete:
+**Art**. 8º A S. A. I. compete:
 
 I - elaborar programas de ensino a serem observados nos estabelecimentos de ensino industrial;
 
@@ -144,7 +142,7 @@ XIII - organizar exames de suficiência para habilitação de candidatos a regis
 
 Parágrafo único. Para o desempenho das atribuições enumeradas nos itens I a XI dêste artigo, poderá a D. E. I. propôr ao Ministro de Estado a lavratura de acôrdos com órgãos de cooperação internacional.
 
-<strong>Art</strong>. 9º Ao S. A. compete:
+**Art**. 9º Ao S. A. compete:
 
 I - informar e providenciar sôbre todos os assuntos atinentes a pessoal, material e orçamento;
 
@@ -156,11 +154,11 @@ IV - superintender os serviços de comunicações e os trabalhos mecanográficos
 
 Parágrafo único. O S. A. manterá a indispensável harmonia com os órgãos de administração geral do Ministério da Educação e  Cultura, cujas normas e métodos de trabalho deverá observar.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 10 Ao Diretor incumbe:
+**Art**. 10 Ao Diretor incumbe:
 
 I - promover medidas atinentes ao exato cumprimento das finalidades e atribuições da D. E. I;
 
@@ -218,7 +216,7 @@ XXI - expedir boletins de merecimentos aos seus subordinados imediatos;
 
 XXII - propôr ao Ministro planos para a concessão de bôlsas de estudo.
 
-<strong>Art</strong>. 11 - Ao Assistente do Diretor incumbe:
+**Art**. 11 - Ao Assistente do Diretor incumbe:
 
 I - auxiliar o Diretor, executando ou dirigindo a execução de trabalhos e exercendo as funções de que fôr encarregado;
 
@@ -226,7 +224,7 @@ II - reunir os elementos necessários ao preparo do relatório do Diretor;
 
 III - representar o Diretor, quando fôr para isso designado;
 
-<strong>Art</strong>. 12 - Ao Secretário do Diretor incumbe:
+**Art**. 12 - Ao Secretário do Diretor incumbe:
 
 I - receber as pessoas que desejem falar ao Diretor e encaminhá-las ou a êle transmitir o assunto, conforme as suas ordens;
 
@@ -234,7 +232,7 @@ II - manter atualizado o registro dos processos e documentos que forem a decisã
 
 III - encarregar-se da correspondência do Diretor.
 
-<strong>Art</strong>. 13 - A cada Chefe de Seção e ao do Serviço Auxiliar incumbe:
+**Art**. 13 - A cada Chefe de Seção e ao do Serviço Auxiliar incumbe:
 
 I - dirigir os trabalhos do órgão a seu cargo e zelar pelo bom e correto andamento dos processo e docuemtnos que lhes forem distribuídos;
 
@@ -258,40 +256,40 @@ X - propôr ao Diretor a aprovação e alterações subsequentes da escala de f�
 
 XI - expedir boletins de merecimento aos servidores que lhes são diretamente subordinados.
 
-<strong>Art</strong>. 14 - Os Inspetores desempenharão os encargos que lhes forem determinados em instruções especiais.
+**Art**. 14 - Os Inspetores desempenharão os encargos que lhes forem determinados em instruções especiais.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 15 - Horário normal de trabalho na D. E. I. será estabelecido pelo Ministro, respeitado o número de horas semanais fixado para o Serviço Público Federal.
+**Art**. 15 - Horário normal de trabalho na D. E. I. será estabelecido pelo Ministro, respeitado o número de horas semanais fixado para o Serviço Público Federal.
 
 Parágrafo único - O Diretor, o Assistente e o Secretário são isentos da assinatura de ponto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 16 - Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 16 - Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
 
 a) - o Diretor pelo Assistente, pelo Chefe de Serviço Auxiliar ou pôr um Chefe de Seção préviamente designado pelo Ministro;
 
 b) - o Chefe do Serviço Auxiliar e os Chefe de Seção, por um subordinado préviamente designado pelo Diretor.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 17 - O Diretor manterá entendimentos com os diversos organismos relacionados com o ensino industrial no País, podendo solicitar, sempre que julgar conveniente, a sua colaboração na solução dos problemas da D. E. I.
+**Art**. 17 - O Diretor manterá entendimentos com os diversos organismos relacionados com o ensino industrial no País, podendo solicitar, sempre que julgar conveniente, a sua colaboração na solução dos problemas da D. E. I.
 
-<strong>Art</strong>. 18 - A lotação da D. E. I. será fixada em decreto.
+**Art**. 18 - A lotação da D. E. I. será fixada em decreto.
 
-<strong>Art</strong>. 19 - Aos servidores que não tenham atribuições  especificadas neste Regimento, caberá a execução dos trabalhos próprios dos seus cargos ou funções e dos quais forem incumbidos pelo Diretor ou pelos Chefes respectivos.
+**Art**. 19 - Aos servidores que não tenham atribuições  especificadas neste Regimento, caberá a execução dos trabalhos próprios dos seus cargos ou funções e dos quais forem incumbidos pelo Diretor ou pelos Chefes respectivos.
 
-<strong>Art</strong>. 20 - Os casos omissos serão resolvidos pelo Ministro de Estado ou, por delegação sua, pelo Diretor da D. E. I.
+**Art**. 20 - Os casos omissos serão resolvidos pelo Ministro de Estado ou, por delegação sua, pelo Diretor da D. E. I.
 
-<strong>Art</strong>. 21 - Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 21 - Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 8 de março de 1954.
 
-<strong>ANTÔNIO BALBINO</strong>
+**ANTÔNIO BALBINO**

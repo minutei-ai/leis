@@ -1,5 +1,3 @@
-###DEL-003781-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.781 – DE 30 DE OUTUBRO DE 1941
 
 Cria quatro postos de cabo eletricista no Corpo de Bombeiros do Distrito Federal.

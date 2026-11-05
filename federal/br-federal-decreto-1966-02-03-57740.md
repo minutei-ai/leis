@@ -1,5 +1,3 @@
-###DEC-057740-0-000-03-02-1966@@@
-
 DECRETO Nº 57.740, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza o cidadão brasileiro Theolindo Pretto, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEL-001499-0-000-20-12-1976@@@
-
 # DECRETO-LEI Nº 1.499, DE 20 DE DEZEMBRO DE 1976
 
 Dispõe sobre a prorrogação do benefício fiscal concedido às empresas comerciais exportadoras de que trata o artigo 4º do Decreto-lei número 1.248, de 29 de novembro de 1972.

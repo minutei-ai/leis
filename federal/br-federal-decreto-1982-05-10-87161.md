@@ -1,5 +1,3 @@
-###DEC-087161-0-000-10-05-1982@@@
-
 decreto nº 87.161, de 10 maio de 1982
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra abrangida pela bacia hidráulica e faixa seca do açude público "LAGOA DO ARROZ", nos Municípios de Cajazeiras e Bom Jesus, ambos no Estado da Paraíba, e dá outras providências.

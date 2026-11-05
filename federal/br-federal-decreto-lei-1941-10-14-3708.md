@@ -1,5 +1,3 @@
-###DEL-003708-0-000-14-10-1941@@@
-
 DECRETO-LEI N. 3.708 – DE 14 DE OUTUBRO DE 1941
 
 Altera a redação do parágrafo único do art. 6º do decreto-lei nº 3.183, de 9 de abril de 1941

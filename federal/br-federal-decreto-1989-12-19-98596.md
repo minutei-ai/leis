@@ -1,7 +1,3 @@
-1
-
-###DEC-098596-0-000-19-12-1989@@@
-
 DECRETO Nº 98.596, DE 19 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espirito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

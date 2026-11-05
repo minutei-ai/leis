@@ -1,5 +1,3 @@
-###DEC-001120-0-000-25-04-1994@@@
-
 DECRETO N° 1.120, DE 25 DE ABRIL DE 1994
 
 Dá nova redacão ao art. 1° do Decreto nº 715, de 29 de dezembro de 1992, que delega aos Ministros de Estado do Trabalho e da Indústria, do Comércio e do Turismo competência para aprovar os orçamentos das entidades que menciona.

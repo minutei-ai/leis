@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=189681)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2019/compilacao-lei-16938-26.02.2019.html)
 
 # LEI Nº 16.938, DE 26 DE FEVEREIRO DE 2019
@@ -9,65 +8,117 @@
 
 ### _Classifica como de Interesse Turístico os Municípios de Adamantina, Adolfo, Anhembi, Araçatuba, Araçoiaba da Serra, Barra do Turvo, Bebedouro, Bocaina, Botucatu, Divinolândia, Dois Córregos, Garça, Guaíra, Ibirarema, Icém, Igarapava, Indiaporã, Ipeúna, Itapeva, Itaporanga, Itariri, Itirapina, Jaboticabal, Jarinu, Juquiá, Juquitiba, Lavrinhas, Marília, Mogi Mirim, Palmeira D'Oeste, Paulicéia, Pirapora do Bom Jesus, Pongaí, Porto Ferreira, Santa Albertina, Santa Clara D'Oeste, São Bernardo do campo, São João da Boa Vista, São Manuel, Timburi, Três Fronteiras, Valentim Gentil e Votorantim, e dá providências correlatas_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1º -** Ficam classificados como de Interesse Turístico os seguintes Municípios:<br>
-**I -** Adamantina;<br>
-**II -** Adolfo;<br>
-**III -** Anhembi;<br>
-**IV -** Araçatuba;<br>
-**V -** Araçoiaba da Serra;<br>
-**VI -** Barra do Turvo;<br>
-**VII -** Bebedouro;<br>
-**VIII -** Bocaina;<br>
-**IX -** Botucatu;<br>
-**X -** Divinolândia;<br>
-**XI -** Dois Córregos;<br>
-**XII -** Garça;<br>
-**XIII -** Guaíra;<br>
-**XIV -** Ibirarema;<br>
-**XV -** Icém;<br>
-**XVI -** Igarapava;<br>
-**XVII -** Indiaporã;<br>
-**XVIII -** Ipeúna;<br>
-**XIX -** Itapeva;<br>
-**XX -** Itaporanga;<br>
-**XXI -** Itariri;<br>
-**XXII -** Itirapina;<br>
-**XXIII -** Jaboticabal;<br>
-**XXIV -** Jarinu;<br>
-**XXV -** Juquiá;<br>
-**XXVI -** Juquitiba;<br>
-**XXVII -** Lavrinhas;<br>
-**XXVIII -** Marília;<br>
-**XXIX -** Mogi Mirim;<br>
-**XXX -** Palmeira D'Oeste;<br>
-**XXXI -** Paulicéia;<br>
-**XXXII -** Pirapora do Bom Jesus;<br>
-**XXXIII -** Pongaí;<br>
-**XXXIV -** Porto Ferreira;<br>
-**XXXV -** Santa Albertina;<br>
-**XXXVI -** Santa Clara D'Oeste;<br>
-**XXXVII -** São Bernardo do Campo;<br>
-**XXXVIII -** São João da Boa Vista;<br>
-**XXXIX -** São Manuel;<br>
-**XL -** Timburi;<br>
-**XLI -** Três Fronteiras;<br>
-**XLII -** Valentim Gentil; e<br>
-**XLIII -** Votorantim.<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1º -** Ficam classificados como de Interesse Turístico os seguintes Municípios:
+
+**I -** Adamantina;
+
+**II -** Adolfo;
+
+**III -** Anhembi;
+
+**IV -** Araçatuba;
+
+**V -** Araçoiaba da Serra;
+
+**VI -** Barra do Turvo;
+
+**VII -** Bebedouro;
+
+**VIII -** Bocaina;
+
+**IX -** Botucatu;
+
+**X -** Divinolândia;
+
+**XI -** Dois Córregos;
+
+**XII -** Garça;
+
+**XIII -** Guaíra;
+
+**XIV -** Ibirarema;
+
+**XV -** Icém;
+
+**XVI -** Igarapava;
+
+**XVII -** Indiaporã;
+
+**XVIII -** Ipeúna;
+
+**XIX -** Itapeva;
+
+**XX -** Itaporanga;
+
+**XXI -** Itariri;
+
+**XXII -** Itirapina;
+
+**XXIII -** Jaboticabal;
+
+**XXIV -** Jarinu;
+
+**XXV -** Juquiá;
+
+**XXVI -** Juquitiba;
+
+**XXVII -** Lavrinhas;
+
+**XXVIII -** Marília;
+
+**XXIX -** Mogi Mirim;
+
+**XXX -** Palmeira D'Oeste;
+
+**XXXI -** Paulicéia;
+
+**XXXII -** Pirapora do Bom Jesus;
+
+**XXXIII -** Pongaí;
+
+**XXXIV -** Porto Ferreira;
+
+**XXXV -** Santa Albertina;
+
+**XXXVI -** Santa Clara D'Oeste;
+
+**XXXVII -** São Bernardo do Campo;
+
+**XXXVIII -** São João da Boa Vista;
+
+**XXXIX -** São Manuel;
+
+**XL -** Timburi;
+
+**XLI -** Três Fronteiras;
+
+**XLII -** Valentim Gentil; e
+
+**XLIII -** Votorantim.
+
 **§ 1º -** Perderá imediatamente a classificação prevista neste artigo o município em relação ao qual se constatar, após a entrada em vigor desta lei, o não atendimento, parcial ou total, dos requisitos estabelecidos na [Lei Complementar nº 1.261, de 29 de abril de 2015](https://www.al.sp.gov.br/norma/174594).~~
 
-~~**§ 2º -** O disposto no § 1º deste artigo aplica-se aos municípios classificados como de Interesse Turístico pelas Leis nº 16.429, de 31 de maio de 2017, nº 16.430, de 31 de maio de 2017, nº 16.566, de 1º de novembro de 2017 e nº 16.720, de 15 de maio de 2018.<br>
-**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 26 de fevereiro de 2019.<br>
-JOÃO DORIA<br>
-Vinicius Rene Lummertz Silva<br>
-Secretário de Turismo<br>
-Antonio Carlos Rizeque Malufe<br>
-Respondendo pelo expediente da Casa Civil<br>
-Publicada na Assessoria Técnica da Casa Civil, em 26 de fevereiro de 2019.~~
+~~**§ 2º -** O disposto no § 1º deste artigo aplica-se aos municípios classificados como de Interesse Turístico pelas Leis nº 16.429, de 31 de maio de 2017, nº 16.430, de 31 de maio de 2017, nº 16.566, de 1º de novembro de 2017 e nº 16.720, de 15 de maio de 2018.
 
-<br>
+**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 26 de fevereiro de 2019.
+
+JOÃO DORIA
+
+Vinicius Rene Lummertz Silva
+
+Secretário de Turismo
+
+Antonio Carlos Rizeque Malufe
+
+Respondendo pelo expediente da Casa Civil
+
+Publicada na Assessoria Técnica da Casa Civil, em 26 de fevereiro de 2019.~~
 
 Revogada.
 

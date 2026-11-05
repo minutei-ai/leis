@@ -1,5 +1,3 @@
-###DEC-050938-0-000-12-07-1961@@@
-
 DECRETO Nº 50.938, DE 12 DE JULHO DE 1961.
 
 Autoriza estrangeira a adquirir, em revigoração de aforamento, o domínio útil de terreno de marinha que menciona, em Niterói, Estado do Rio de Janeiro.

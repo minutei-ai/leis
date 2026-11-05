@@ -1,5 +1,3 @@
-###DEC-055711-0-000-02-02-1965@@@
-
 decreto nº 55.711, de 2 de fevereiro de 1965.
 
 Concede à E. Aranha & Cia. autorização para funcionar como emprêsa de mineração.

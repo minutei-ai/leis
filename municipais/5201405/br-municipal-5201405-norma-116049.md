@@ -74,10 +74,10 @@ Art. 3º. Revogam-se as disposições em contrário.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 14 dias do mês de dezembro de 2009.
 
-<br>
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-<br>
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

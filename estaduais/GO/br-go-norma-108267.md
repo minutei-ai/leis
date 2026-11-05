@@ -142,7 +142,8 @@ Art. 10. O enquadramento dos servidores ocupantes do cargo de AAE-T será realiz
 
 Art. 11. Fica mantida a Gratificação de Incentivo Funcional prevista nos arts. 17 e 18 da [Lei nº 13.910](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81552), de 2001, aos ocupantes do cargo de Agente Administrativo Educacional Técnico – AAE-T que já a tenham adquirido até a data de vigência desta Lei.
 
-Art. 12. Os critérios para aferição dos requisitos estabelecidos no art. 7º desta Lei, a metodologia do sistema de pontos, a composição da comissão e as demais condições para a efetivação das evoluções funcionais serão definidos, até 180 (cento e oitenta) dias da publicação desta Lei, por meio de decreto do Chefe do Poder Executivo, após manifestação técnica do órgão central de gestão de pessoal, inclusive suas alterações.<br>
+Art. 12. Os critérios para aferição dos requisitos estabelecidos no art. 7º desta Lei, a metodologia do sistema de pontos, a composição da comissão e as demais condições para a efetivação das evoluções funcionais serão definidos, até 180 (cento e oitenta) dias da publicação desta Lei, por meio de decreto do Chefe do Poder Executivo, após manifestação técnica do órgão central de gestão de pessoal, inclusive suas alterações.
+
 **\- [Vide Lei nº 23.241, de 21-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110405), Art. 1º, III** - Dispõe sobre a prorrogação de prazos indicados nas Leis que especifica. 
 
 Art. 13. O processamento das evoluções funcionais de que trata o art. 7º desta Lei ocorrerá nos limites da dotação orçamentária anual para essa finalidade, observadas as disposições da Lei de Responsabilidade Fiscal.

@@ -1,5 +1,3 @@
-###DEC-087770-0-000-01-11-1982@@@
-
 decreto nº 87.770, de 01 de novembro de 1982.
 
 Regulamenta a alienação de material, no âmbito da Administração Federal Direta e autárquica, e dá outras providências.

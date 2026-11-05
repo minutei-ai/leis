@@ -1,5 +1,3 @@
-###DEC-002855-0-000-02-12-1998@@@
-
 DECRETO Nº 2.855, DE 2 DE DEZEMBRO DE 1998.
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos de Direção e Funções Gratificadas das Escolas Técnicas Federais, e dá outras providências.
@@ -410,8 +408,224 @@ ANEXO II
 
 a) QUADRO DEMONSTRATIVO DOS CARGOS DE DIREÇÃO E FUNÇÕES GRATIFICADAS DAS ESCOLAS TÉCNICAS FEDERAIS E UNIDADES DE ENSINO DESCENTRALIZADAS
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">UNIDADE</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CARGOS/FUNÇÕES Nº</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DENOMINAÇÃO</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD/</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG</span></p></td></tr><tr><td style="width:223.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA-GERAL</span></p></td><td style="width:47.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor-Geral</span></p></td><td style="width:30.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-2</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">GABINETE</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe de Gabinete</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessoria de Comunicação Social</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe de Assessoria</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA DE UNIDADE SEDE</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor de Unidade Sede</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-3</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerência de Desenvolvimento de Recursos Humanos</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerente</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerência de Tecnologia da Informação</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerente</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerência de Administração e Manutenção</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerente</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerência Educacional</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">97</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerente</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA DE ADMINISTRAÇÃO E DE PLANEJAMENTO</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-3</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PROCURADORIA JURÍDICA</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe de Procuradoria</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA DE ENSINO</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-3</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA DE RELAÇÕES EMPRESSARIAIS E COMUNITÁRIAS</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">18</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-3</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">39</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">646</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">UNIDADES DE ENSINO DESCENTRALIZADAS</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA DO GRUPO A</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">21</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-3</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerência Educacional</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">42</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerente</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Coordenação de Apoio ao Ensino</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">21</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Coordenador</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Coordenação de Administração Geral</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">21</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Coordenador</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">252</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA DO GRUPO B</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">03</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-3</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerência de Educacional</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">03</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gerente</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-4</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Coordenação de Administração Geral</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">03</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Coordenador</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:223.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">24</span></p></td><td style="width:106pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:30.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-4</span></p></td></tr></tbody></table>
+UNIDADE
+
+CARGOS/FUNÇÕES Nº
+
+DENOMINAÇÃO
+
+CD/
+
+FG
+
+DIRETORIA-GERAL
+
+19
+
+Diretor-Geral
+
+CD-2
+
+GABINETE
+
+19
+
+Chefe de Gabinete
+
+FG-2
+
+Assessoria de Comunicação Social
+
+19
+
+Chefe de Assessoria
+
+FG-4
+
+DIRETORIA DE UNIDADE SEDE
+
+19
+
+Diretor de Unidade Sede
+
+CD-3
+
+Gerência de Desenvolvimento de Recursos Humanos
+
+19
+
+Gerente
+
+CD-4
+
+Gerência de Tecnologia da Informação
+
+19
+
+Gerente
+
+CD-4
+
+Gerência de Administração e Manutenção
+
+19
+
+Gerente
+
+CD-4
+
+Gerência Educacional
+
+97
+
+Gerente
+
+CD-4
+
+DIRETORIA DE ADMINISTRAÇÃO E DE PLANEJAMENTO
+
+19
+
+Diretor
+
+CD-3
+
+PROCURADORIA JURÍDICA
+
+19
+
+Chefe de Procuradoria
+
+FG-4
+
+DIRETORIA DE ENSINO
+
+19
+
+Diretor
+
+CD-3
+
+DIRETORIA DE RELAÇÕES EMPRESSARIAIS E COMUNITÁRIAS
+
+18
+
+Diretor
+
+CD-3
+
+39
+
+FG-2
+
+646
+
+FG-4
+
+UNIDADES DE ENSINO DESCENTRALIZADAS
+
+DIRETORIA DO GRUPO A
+
+21
+
+Diretor
+
+CD-3
+
+Gerência Educacional
+
+42
+
+Gerente
+
+CD-4
+
+Coordenação de Apoio ao Ensino
+
+21
+
+Coordenador
+
+FG-2
+
+Coordenação de Administração Geral
+
+21
+
+Coordenador
+
+FG-2
+
+252
+
+FG-4
+
+DIRETORIA DO GRUPO B
+
+03
+
+Diretor
+
+CD-3
+
+Gerência de Educacional
+
+03
+
+Gerente
+
+CD-4
+
+Coordenação de Administração Geral
+
+03
+
+Coordenador
+
+FG-2
+
+24
+
+FG-4
 
 b) QUADRO RESUMO DO QUANTITATIVO DOS CARGOS DE DIREÇÃO E FUNÇÕES GRATIFICADAS DAS ESCOLAS TÉCNICAS FEDERAIS E UNIDADES DE ENSINO DESCENTRALIZADAS
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CARGO/FUNÇÃO</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">QUANTITATIVOS</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CARGOS DE DIREÇÃO</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-2</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">19</span></p></td></tr><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-3</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">99</span></p></td></tr><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CD-4</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">199</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">SUBTOTAL (1)</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">317</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FUNÇÕES GRATIFICADAS</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-2</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">103</span></p></td></tr><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">FG-4</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">960</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">SUBTOTAL (2)</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.063</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">TOTAL (1+2)</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.380</span></p></td></tr></tbody></table>
+CARGO/FUNÇÃO
+
+QUANTITATIVOS
+
+CARGOS DE DIREÇÃO
+
+CD-2
+
+19
+
+CD-3
+
+99
+
+CD-4
+
+199
+
+SUBTOTAL (1)
+
+317
+
+FUNÇÕES GRATIFICADAS
+
+FG-2
+
+103
+
+FG-4
+
+960
+
+SUBTOTAL (2)
+
+1.063
+
+TOTAL (1+2)
+
+1.380

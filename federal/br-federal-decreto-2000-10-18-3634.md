@@ -1,5 +1,3 @@
-###DEC-003634-0-000-18-10-2000@@@
-
 DECRETO Nº 3.634, DE 18 DE OUTUBRO DE 2000
 
 Dá nova redação ao art. 3º do Decreto nº 3.500, de 9 de junho de 2000, que dispõe sobre a Comissão Nacional de Classificação - CONCLA e dá outras providências.

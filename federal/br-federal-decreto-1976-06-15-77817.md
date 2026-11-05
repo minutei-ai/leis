@@ -1,5 +1,3 @@
-###DEC-077817-0-000-15-06-1976@@@
-
 DECRETO Nº 77.817, DE 15 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Educação Artística da Pontifícia Universidade Católica de Campinas, com sede na Cidade de Campinas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007892-0-000-23-08-1945@@@
-
 DECRETO-LEI N. 7.892 – DE 23 DE AGÔSTO DE 1945
 
 Organiza o Serviço de Intendência da Aeronáutica

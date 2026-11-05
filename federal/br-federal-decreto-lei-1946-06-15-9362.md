@@ -1,5 +1,3 @@
-###DEL-009362-0-000-15-06-1946@@@
-
 DECRETO-LEI N. 9.362 – DE 15 DE JUNHO DE 1946
 
 Dispõe sôbre a intervenção na “Cooperativa Mixta Agro-Pecuária Santa Cruz Limitada”, com sede no Núcleo Colonial de  Santa Cruz, Distrito Federal.

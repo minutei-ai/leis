@@ -1,5 +1,3 @@
-###DEC-080896-0-000-01-12-1977@@@
-
 DECRETO Nº 80.896, DE 1 DE DEZEMBRO DE 1977.
 
 Cria a Missão Diplomática do Brasil nos Emirados Árabes Unidos, com sede em Abu Dábi.

@@ -1,5 +1,3 @@
-###DEC-047875-0-000-08-03-1960@@@
-
 DECRETO Nº 47.875, DE 8 DE mARÇO DE 1960.
 
 Declara de utilidade pública diversas área de terra necessárias à construção do reservatório de acumulação da usina Jurumirim, no Rio Paranapanema, de que trata o Decreto nº 42.887, de 26 de dezembro de 1957 e autoriza a Usinas Elétricas do Paranapanema S.A., com sede na capital do Estado de São Paulo, a promover a desapropriação das mesmas.
@@ -243,8 +241,6 @@ Rio de Janeiro, 8 de março de 1960; 139º da Independência e 72º da Repúblic
 Juscelino Kubitschek
 
 Mário Meneghetti
-
-###DEC-047875-0-000-08-03-1960@@@RET01+++
 
 DECRETO Nº 47.875 - DE 8 DE MARÇO DE 1960
 

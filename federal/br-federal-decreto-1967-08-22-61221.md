@@ -1,5 +1,3 @@
-###DEC-061221-0-000-22-08-1967@@@
-
 DECRETO Nº 61.221, DE 22 DE AGôSTO DE 1967.
 
 Altera o Decreto nº 57.645, de 14 de janeiro de 1966, que dispõe sobre a inclusão de servidores da Companhia Urbanizadora da Nova Capital do Brasil (NOVACAP), em órgãos da Administração direta ou indireta.

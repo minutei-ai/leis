@@ -1,5 +1,3 @@
-###DEC-054606-0-000-26-10-1964@@@
-
 DECRETO Nº 54.606, DE 26 DE OUTUBRO DE 1964.
 
 Declara públicas, de uso comum, as águas dos cursos d’água que especifica.

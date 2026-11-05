@@ -1,5 +1,3 @@
-###DEC-076269-0-000-12-09-1975@@@
-
 DECRETA nº 76.269 - de 12 de Setembro de 1975
 
 Concede à Minérios Industriais do Sul S.A. - MINEL o direito de lavrar quartzo no Município de Urussanga, Estado de Santa Catarina.

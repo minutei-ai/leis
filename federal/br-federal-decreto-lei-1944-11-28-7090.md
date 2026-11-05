@@ -1,5 +1,3 @@
-###DEL-007090-0-000-28-11-1944@@@
-
 DECRETO-LEI N. 7.090 – DE 28 DE NOVEMBRO DE 1944
 
 Abre, ao Departamento de Imprensa e Propaganda o crédito suplementar de Cr$ 80.000,00, à dotação que especifica,

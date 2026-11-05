@@ -1,5 +1,3 @@
-###DEC-049189-0-000-08-11-1960@@@
-
 DECRETO Nº 49.189, DE 8 DE NOVEMBRO DE 1960.
 
 Dispões sôbre o uso e ocupação temporária de bens de emprêsas de navegação marítima e fluvial, de tráfego portuário e de transporte ferroviário, e dá outras providências.

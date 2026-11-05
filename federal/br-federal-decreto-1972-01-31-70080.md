@@ -1,5 +1,3 @@
-###DEC-070080-0-000-31-01-1972@@@
-
 DECRETO Nº 70.080, DE 31 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Professor Carlos Pasquale", em São Paulo.

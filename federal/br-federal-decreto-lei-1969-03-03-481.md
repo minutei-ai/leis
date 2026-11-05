@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/abe75b55-16cd-4f15-920f-80c69f286394/texto#nowhere)
 
-###DEL-000481-0-000-03-03-1969@@@
-
 DECRETO-LEI Nº 481, DE 3 DE MARÇO DE 1969
 
 Transfere cargo do Ministério da Fazenda para o Ministério das Relações Exteriores.

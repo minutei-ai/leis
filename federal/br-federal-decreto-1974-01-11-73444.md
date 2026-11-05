@@ -1,5 +1,3 @@
-###DEC-073444-0-000-11-01-1974@@@
-
 DECRETO Nº 73.444, DE 11 DE JANEIRO DE 1974.
 
 Concede a Milton Tabari, firma individual, o direito de lavrar argila, no Município de Itabirito, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001353-0-000-29-12-1994@@@
-
 DECRETO Nº 1.353, DE 29 DE DEZEMBRO DE 1994
 
 Altera o art. 2º do Decreto nº 99.438, de 7 de agosto de 1990, que dispõe sobre a composição do Conselho Nacional de Saúde.

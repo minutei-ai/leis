@@ -1,7 +1,3 @@
-1
-
-###DEC-000514-0-000-28-04-1992@@@
-
 DECRETO Nº 514, DE 28 DE ABRIL DE 1992
 
 Estabelece normas para a programação e execução orçamentária e financeira dos orçamentos da União para o exercício de 1992 e dá outras providências.

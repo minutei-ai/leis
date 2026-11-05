@@ -1,5 +1,3 @@
-###DEC-004251-0-000-28-05-2002@@@
-
 DECRETO Nº 4.251, DE 28 DE MAIO DE 2002
 
 Dispõe sobre a transmissão de sons e imagens que especifica.

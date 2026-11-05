@@ -1,5 +1,3 @@
-###DEC-058401-0-000-15-05-1966@@@
-
 DECRETO Nº 58.401 – DE 15 DE MAIO DE 1966
 
 Declara luto oficial em todo o país pelo falecimento do ex-Presidente da República, Sr. Wenceslau Braz.

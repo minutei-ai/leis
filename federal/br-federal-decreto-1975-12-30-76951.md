@@ -1,5 +1,3 @@
-###DEC-076951-0-000-30-12-1975@@@
-
 decreto nº 76.951, de 30 de dezembro de 1975.
 
 Concede reconhecimento aos cursos de Pedagogia, de Letras e de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Ouro Fino, com sede na Cidade de Ouro Fino, Estado de Minas Gerais.

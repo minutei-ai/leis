@@ -1,5 +1,3 @@
-###DEC-089223-0-000-21-12-1983@@@
-
 Decreto nº 89.223, de 21 de dezembro de 1983
 
 Dispõe sobre o montante do Capital Social da Participação em Empreendimentos e Transportes S.A. - PETRASA.

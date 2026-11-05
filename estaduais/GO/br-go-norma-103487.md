@@ -436,117 +436,154 @@ Seção III
 
 Da ajuda de custo para estudo
 
-~~Art. 33. O Estado poderá custear despesas com deslocamento, hospedagem e alimentação, através de ajuda de custo ao servidor efetivo que, por iniciativa própria, tenha obtido bolsa de estudo ou inscrição em curso fora do Estado ou no exterior, desde que haja correlação deles com sua formação e atividade profissional no serviço público estadual.~~<br>
+~~Art. 33. O Estado poderá custear despesas com deslocamento, hospedagem e alimentação, através de ajuda de custo ao servidor efetivo que, por iniciativa própria, tenha obtido bolsa de estudo ou inscrição em curso fora do Estado ou no exterior, desde que haja correlação deles com sua formação e atividade profissional no serviço público estadual.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~§ 1º A ajuda de custo de que trata o caput depende de solicitação do servidor e compreende:~~<br>
+~~§ 1º A ajuda de custo de que trata o caput depende de solicitação do servidor e compreende:~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~I – passagem de ida e de volta em classe econômica, inclusive aérea, nacional ou internacional, na forma do Capítulo II deste Decreto;~~<br>
+~~I – passagem de ida e de volta em classe econômica, inclusive aérea, nacional ou internacional, na forma do Capítulo II deste Decreto;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~II – auxílio financeiro destinado à cobertura de despesas diárias com deslocamento urbano, alimentação e pousada em território nacional ou internacional, conforme valores previstos:~~<br>
+~~II – auxílio financeiro destinado à cobertura de despesas diárias com deslocamento urbano, alimentação e pousada em território nacional ou internacional, conforme valores previstos:~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~a) na coluna Distrito Federal ou outros estados no Anexo I deste Decreto, quando se tratar de curso fora do Estado; e~~<br>
+~~a) na coluna Distrito Federal ou outros estados no Anexo I deste Decreto, quando se tratar de curso fora do Estado; e~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~b) no Anexo II deste Decreto, quando se tratar de curso no exterior; e~~<br>
+~~b) no Anexo II deste Decreto, quando se tratar de curso no exterior; e~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~III – despesas com taxas de inscrição, quando se tratar de participação em ações de capacitação que atendam às necessidades institucionais, nos termos definidos pela legislação que institui a Política Estadual de Capacitação e Desenvolvimento Profissional.~~<br>
+~~III – despesas com taxas de inscrição, quando se tratar de participação em ações de capacitação que atendam às necessidades institucionais, nos termos definidos pela legislação que institui a Política Estadual de Capacitação e Desenvolvimento Profissional.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~§ 2º A ajuda de custo mencionada no caput deste artigo será devida ao servidor sem prejuízo do recebimento regular da remuneração ou do subsídio pelo período em que se der o afastamento.~~<br>
+~~§ 2º A ajuda de custo mencionada no caput deste artigo será devida ao servidor sem prejuízo do recebimento regular da remuneração ou do subsídio pelo período em que se der o afastamento.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~§ 3º Caso se trate de estudo no exterior é de inteira responsabilidade do servidor a solicitação do passaporte, do visto, quando necessário, e a contratação do seguro viagem, além das demais providências imprescindíveis para a entrada e/ou a permanência no país em que realizará o estudo.~~<br>
+~~§ 3º Caso se trate de estudo no exterior é de inteira responsabilidade do servidor a solicitação do passaporte, do visto, quando necessário, e a contratação do seguro viagem, além das demais providências imprescindíveis para a entrada e/ou a permanência no país em que realizará o estudo.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~§ 4º A ajuda de custo de que trata o caput também é devida ao servidor em caso de afastamento ou dispensa para participação em programa de pós-graduação stricto sensu, nos termos do art. 172 da Lei nº 20.756, de 2020, e da legislação que institui a Política Estadual de Capacitação e Desenvolvimento Profissional.~~<br>
+~~§ 4º A ajuda de custo de que trata o caput também é devida ao servidor em caso de afastamento ou dispensa para participação em programa de pós-graduação stricto sensu, nos termos do art. 172 da Lei nº 20.756, de 2020, e da legislação que institui a Política Estadual de Capacitação e Desenvolvimento Profissional.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~Art. 34. O servidor fará jus à metade da ajuda de custo para estudo nos seguintes casos:~~<br>
+~~Art. 34. O servidor fará jus à metade da ajuda de custo para estudo nos seguintes casos:~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~I – quando a Administração custear, por meio diverso, as despesas de passagem, pousada ou alimentação;~~<br>
+~~I – quando a Administração custear, por meio diverso, as despesas de passagem, pousada ou alimentação;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~II – quando ficar hospedado em imóvel pertencente à administração ou que esteja sob a administração do governo brasileiro ou de suas entidades; ou~~<br>
+~~II – quando ficar hospedado em imóvel pertencente à administração ou que esteja sob a administração do governo brasileiro ou de suas entidades; ou~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~III – quando o governo estrangeiro ou a universidade fornecerem ou custearem as despesas com pousada ou alimentação.~~<br>
+~~III – quando o governo estrangeiro ou a universidade fornecerem ou custearem as despesas com pousada ou alimentação.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~Art. 35. Não poderá ser concedida a ajuda de custo para estudo ao servidor que:~~ <br>
+~~Art. 35. Não poderá ser concedida a ajuda de custo para estudo ao servidor que:~~ 
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~I – esteja afastado para servir a outro órgão ou entidade, para o exercício de mandado eletivo ou já se encontrar em missão no exterior;~~<br>
+~~I – esteja afastado para servir a outro órgão ou entidade, para o exercício de mandado eletivo ou já se encontrar em missão no exterior;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV. 
 
-~~II – esteja frequentando (ou pretenda matricular-se em um) curso de graduação, pós-graduação ou língua estrangeira na condição de aluno não regular, especial, ouvinte, e assemelhados;~~<br>
+~~II – esteja frequentando (ou pretenda matricular-se em um) curso de graduação, pós-graduação ou língua estrangeira na condição de aluno não regular, especial, ouvinte, e assemelhados;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~III – esteja em processo de cessão, remoção, redistribuição ou aposentadoria;~~<br>
+~~III – esteja em processo de cessão, remoção, redistribuição ou aposentadoria;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~IV – já tenha desistido ou abandonado o curso, mesmo sem o recebimento da ajuda de custo, nos últimos quatro anos; ou~~<br>
+~~IV – já tenha desistido ou abandonado o curso, mesmo sem o recebimento da ajuda de custo, nos últimos quatro anos; ou~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~V – tenha sido beneficiado com a mesma ajuda há menos de 4 (quatro) anos da data de comprovação da conclusão do curso.~~<br>
+~~V – tenha sido beneficiado com a mesma ajuda há menos de 4 (quatro) anos da data de comprovação da conclusão do curso.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~Parágrafo único. As situações previstas nos incisos I a V deste artigo, a qualquer tempo detectadas, ocasionarão a perda da ajuda de custo para estudo e, consequente, o ressarcimento pelo servidor aos cofres públicos dos valores recebidos, sem prejuízo de responsabilização administrativa, civil e penal na forma da lei.~~<br>
+~~Parágrafo único. As situações previstas nos incisos I a V deste artigo, a qualquer tempo detectadas, ocasionarão a perda da ajuda de custo para estudo e, consequente, o ressarcimento pelo servidor aos cofres públicos dos valores recebidos, sem prejuízo de responsabilização administrativa, civil e penal na forma da lei.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~Art. 36. Perderá o direito à manutenção do patrocínio o servidor que:~~<br>
+~~Art. 36. Perderá o direito à manutenção do patrocínio o servidor que:~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~I – tomar posse em cargo efetivo inacumulável em outro ente federativo ou poder;~~<br>
+~~I – tomar posse em cargo efetivo inacumulável em outro ente federativo ou poder;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV.
 
-~~II – for exonerado;~~<br>
+~~II – for exonerado;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~III – for demitido do respectivo cargo efetivo;~~<br>
+~~III – for demitido do respectivo cargo efetivo;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~IV – aposentar-se voluntariamente no decorrer do curso;~~<br>
+~~IV – aposentar-se voluntariamente no decorrer do curso;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~V – for cedido para outro órgão ou outra entidade que não integre o Poder Executivo estadual, inclusive para os Poderes da União, do Estado de Goiás ou de outros estados, do Distrito Federal ou dos municípios, para órgãos constitucionais autônomos, para consórcio público do qual o Estado de Goiás faça parte, ou ainda para entidades e organizações sociais;~~<br>
+~~V – for cedido para outro órgão ou outra entidade que não integre o Poder Executivo estadual, inclusive para os Poderes da União, do Estado de Goiás ou de outros estados, do Distrito Federal ou dos municípios, para órgãos constitucionais autônomos, para consórcio público do qual o Estado de Goiás faça parte, ou ainda para entidades e organizações sociais;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~VI – requerer licenças ou afastamentos não remunerados;~~<br>
+~~VI – requerer licenças ou afastamentos não remunerados;~~
+
 \- Revogado pelo [Decreto nº 10.585](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077 "Abrir Decreto Numerado nº 10585, de 2024 em nova aba"), de 2-11-2024, art. 3º, IV.
 
-~~VII – deixar de apresentar o comprovante de despesas por seis meses consecutivos;~~<br>
+~~VII – deixar de apresentar o comprovante de despesas por seis meses consecutivos;~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~VIII – não formalizar o trancamento perante a instituição de ensino ou não comunicar tal fato à Secretaria de Estado da Administração; ou~~<br>
+~~VIII – não formalizar o trancamento perante a instituição de ensino ou não comunicar tal fato à Secretaria de Estado da Administração; ou~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~IX – trancar o curso por período superior a um ano, ou por prazo inferior, sem prévia e expressa autorização da Secretaria de Estado da Administração.~~<br>
+~~IX – trancar o curso por período superior a um ano, ou por prazo inferior, sem prévia e expressa autorização da Secretaria de Estado da Administração.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~Parágrafo único. Nos casos previstos nos incisos III, VII, VIII e IX o servidor terá que restituir integralmente os valores recebidos no prazo máximo de 30 (trinta) dias corridos, sob pena de lançamento automático do débito em folha de pagamento.~~<br>
+~~Parágrafo único. Nos casos previstos nos incisos III, VII, VIII e IX o servidor terá que restituir integralmente os valores recebidos no prazo máximo de 30 (trinta) dias corridos, sob pena de lançamento automático do débito em folha de pagamento.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~Art. 37. O servidor receberá a ajuda de custo durante o tempo do curso regularmente previsto, no limite máximo estipulado em edital, desde que todos os requisitos e exigências tenham sido cumpridos.~~<br>
+~~Art. 37. O servidor receberá a ajuda de custo durante o tempo do curso regularmente previsto, no limite máximo estipulado em edital, desde que todos os requisitos e exigências tenham sido cumpridos.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~Art. 38. É vedada a mudança de curso ou de instituição de ensino, salvo com a devida justificativa e com a autorização prévia do titular da Secretaria de Estado da Administração, ou do órgão que vier a sucedê-la.~~<br>
+~~Art. 38. É vedada a mudança de curso ou de instituição de ensino, salvo com a devida justificativa e com a autorização prévia do titular da Secretaria de Estado da Administração, ou do órgão que vier a sucedê-la.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~Art. 39. O titular do órgão ou da entidade, ou a autoridade hierárquica equivalente, fica autorizado a conceder a ajuda de custo para estudo, observados os limites definidos pela Câmara de Gasto com Pessoal ou pelo órgão que a suceder.~~<br>
+~~Art. 39. O titular do órgão ou da entidade, ou a autoridade hierárquica equivalente, fica autorizado a conceder a ajuda de custo para estudo, observados os limites definidos pela Câmara de Gasto com Pessoal ou pelo órgão que a suceder.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
-~~Parágrafo único. Na hipótese de contingenciamento do orçamento anual, o limite referido no caput poderá ser revisto, para garantir a continuidade dos pagamentos aos servidores já beneficiados.~~<br>
+~~Parágrafo único. Na hipótese de contingenciamento do orçamento anual, o limite referido no caput poderá ser revisto, para garantir a continuidade dos pagamentos aos servidores já beneficiados.~~
+
 \- [Revogado pelo Decreto nº 10.585, de 2-11-2024](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077), art. 3º, IV
 
 Art. 40. O beneficiário da ajuda de custo no exterior fica obrigado, dentro do prazo de 30 (trinta) dias corridos, contados da data do término do afastamento do país, a apresentar relatório circunstanciado das atividades exercidas e dos objetivos alcançados, o qual será anexado à correspondente PCD.
 
-Art. 41. Aplica-se, no que couber, o disposto no Capítulo I e II deste Decreto a essa seção.<br>
+Art. 41. Aplica-se, no que couber, o disposto no Capítulo I e II deste Decreto a essa seção.
+
 \- [Vide Despacho nº 1.526/2025/PGE](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18646) - Ementa: Direito administrativo. viagem oficial ao exterior. Secretário de Estado. Requerimento de ajuda de custo. Custeio híbrido. Fornecimento direto de passagens e hospedagem por contrato administrativo. Indenização do restante por ajuda de custo. Interpretação sistemática e finalística da lei estadual nº 19.043, de 2015, em conjunto com o Decreto estadual nº 9.733, de 2020. Viabilidade jurídica. Condicionantes. Matéria orientada.
 
 Art. 42. Os casos omissos, as excepcionalidades e as eventuais dúvidas serão resolvidos pelo titular da Secretaria de Estado da Administração.
@@ -627,10 +664,12 @@ Goiânia, 16 de outubro de 2020; 132º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 \- [Redação dada pelo Decreto nº 10.026, de 27-01-2022](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/104994/decreto-10026).
 
 | MODALIDADE E VALORES DAS DIÁRIAS NACIONAIS |

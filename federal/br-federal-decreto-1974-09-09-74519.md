@@ -1,5 +1,3 @@
-###DEC-074519-0-000-09-09-1974@@@
-
 DECRETO Nº 74.519, DE 9 DE SETEMBRO DE 1974
 
 Extingue a Comissão Especial para Coordenação dos Serviços Portuários de Santos (COSEPS).

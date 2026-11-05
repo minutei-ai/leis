@@ -1,5 +1,3 @@
-###DEC-006644-0-000-18-11-2008@@@
-
 DECRETO Nº 6.633, DE 18 DE NOVEMBRO DE 2008.
 
 Dispõe sobre a redução a zero das alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS, incidentes sobre a receita bruta da venda de veículos e embarcações destinados ao transporte escolar para a educação básica nas redes estadual, municipal e distrital, quando adquiridos pela União, Estados, Municípios e pelo Distrito Federal.

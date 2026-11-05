@@ -1,5 +1,3 @@
-###DEC-069961-0-000-19-01-1972@@@
-
 DECRETO Nº 69.961, DE 19 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Associação Protetora da Maternidade e Infância de Dores do Indaiá, com sede em Dôres do Indaiá, Estado de Minas Gerais.

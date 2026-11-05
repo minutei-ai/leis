@@ -1,5 +1,3 @@
-###DEL-006350-0-000-17-03-1944@@@
-
 DECRETO-LEI N. 6.350 – DE 17 DE MARÇO DE 1944
 
 Autoriza o Ministério da Agricultura a vender à Prefeitura do Distrito Federal os terrenos do antigo Jardim Zoológico e dá outras providências

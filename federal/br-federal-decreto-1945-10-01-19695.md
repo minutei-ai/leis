@@ -1,32 +1,30 @@
-###DEC-019695-0-000-01-10-1945@@@
+**DECRETO Nº 19.695, DE 1 DE OUTUBRO DE 1945.**
 
-<strong>DECRETO Nº 19.695, DE 1 DE OUTUBRO DE 1945.</strong>
+***Aprova e manda executar novo Regulamento para a Diretoria de Ensino Naval.***
 
-<em><strong>Aprova e manda executar novo Regulamento para a Diretoria de Ensino Naval.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, letra *a*, da Constituição, resolve aprovar e mandar executar, para a Diretoria do Ensino Naval, o Regulamento que êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem - Ministro de Estado dos Negócios da Marinha.
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, letra <em>a</em>, da Constituição, resolve aprovar e mandar executar, para a Diretoria do Ensino Naval, o Regulamento que êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem - Ministro de Estado dos Negócios da Marinha.
-
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Henrique A. Guilhem
 
-<strong>REGULAMENTO</strong> <strong>PARA</strong> <strong>A DIRETORIA DO ENSINO NAVAL, A QUE SE REFERE O DECRETO Nº 19.695, DE 1 DE OUTUBRO DE 1945.</strong>
+**REGULAMENTOPARAA DIRETORIA DO ENSINO NAVAL, A QUE SE REFERE O DECRETO Nº 19.695, DE 1 DE OUTUBRO DE 1945.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º A Diretoria do Ensino Naval, subordinada diretamente ao Ministro da Marinha, é o órgão da Administração Naval destinado a elaboração do Plano de Ensino da Marinha de Guerra, sua regulamentação, execução e fiscalização.
+**Art**. 1º A Diretoria do Ensino Naval, subordinada diretamente ao Ministro da Marinha, é o órgão da Administração Naval destinado a elaboração do Plano de Ensino da Marinha de Guerra, sua regulamentação, execução e fiscalização.
 
-<strong>Art</strong>. 2º A Diretoria do Ensino Naval manterá íntima ligação com o Estado Maior da Armada e as demais Diretorias para assegurar, dentro da unidade de orientação indispensável ao serviço naval, o máximo de eficiência ao ensino.
+**Art**. 2º A Diretoria do Ensino Naval manterá íntima ligação com o Estado Maior da Armada e as demais Diretorias para assegurar, dentro da unidade de orientação indispensável ao serviço naval, o máximo de eficiência ao ensino.
 
-<strong>Art</strong>. 3º A Diretoria do Ensino Naval terá sob sua orientação e fiscalização técnica, ou técnica administrativa, conforme o caso, todos os cursos, em terra e a bordo, destinados à preparação do pessoal militar da Marinha, da ativa e da reserva, exceto os da Escola de Guerra Naval.
+**Art**. 3º A Diretoria do Ensino Naval terá sob sua orientação e fiscalização técnica, ou técnica administrativa, conforme o caso, todos os cursos, em terra e a bordo, destinados à preparação do pessoal militar da Marinha, da ativa e da reserva, exceto os da Escola de Guerra Naval.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 4º Para execução dos serviços a seu cargo, A Diretoria do Ensino Naval terá em Diretor, um Vice-Diretor, um Gabinete e quatro Divisões denominadas:
+**Art**. 4º Para execução dos serviços a seu cargo, A Diretoria do Ensino Naval terá em Diretor, um Vice-Diretor, um Gabinete e quatro Divisões denominadas:
 
 1ª Divisão - Planejamento
 
@@ -36,7 +34,7 @@ Henrique A. Guilhem
 
 4ª Divisão - Administração
 
-<strong>Art</strong>. 5º As Divisões, que serão subdivididas em Seções, de acôrdo com as necessidades do serviço, na forma do Regimento Interno, terão as atribuições especiais seguintes:
+**Art**. 5º As Divisões, que serão subdivididas em Seções, de acôrdo com as necessidades do serviço, na forma do Regimento Interno, terão as atribuições especiais seguintes:
 
 a) a Divisão de Planejamento: estudar e estabelecer as normas de execução do plano de ensino, consistindo em organizar padrões de qualificações para seleção e acesso do pessoal; elaborar programas para os cursos; estudar o material de ensino a ser utilizado; escolher métodos de ensino; adotar provas de seleção e aproveitamento;
 
@@ -46,11 +44,11 @@ c) a Divisão de Contrôle: verificar a eficiência do ensino, inspecionando os 
 
 d) a Divisão de Administração: prover as necessidades normais do funcionamento da Diretoria que compreenderá a secretaria, arquivo, biblioteca, serviço de intendência, conservação e limpeza dos recintos.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 6º O Pessoal da Diretoria do Ensino Naval será o seguinte:
+**Art**. 6º O Pessoal da Diretoria do Ensino Naval será o seguinte:
 
 a) um Diretor Geral, Oficial General da ativa, do Corpo da Armada;
 
@@ -64,26 +62,26 @@ e) um Ajudante de Ordens do Diretor, Capitão Tenente do Corpo da Armada;
 
 f) tantos auxiliares do CPSA e funcionários civis quantos forem necessários aos serviços da Diretoria.
 
-<strong>Art</strong>. 7º As nomeações e designações para servir na Diretoria do Ensino Naval processar-se-ão de acôrdo com as normas constantes da legislação em vigor.
+**Art**. 7º As nomeações e designações para servir na Diretoria do Ensino Naval processar-se-ão de acôrdo com as normas constantes da legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 8º O Diretor do Ensino Naval submeterá à aprovação do Ministro da Marinha o Regimento Interno da Diretoria.
+**Art**. 8º O Diretor do Ensino Naval submeterá à aprovação do Ministro da Marinha o Regimento Interno da Diretoria.
 
-<strong>Art</strong>. 9º Os casos omissos neste Regulamento serão resolvidos pelo Ministro da Marinha.
+**Art**. 9º Os casos omissos neste Regulamento serão resolvidos pelo Ministro da Marinha.
 
-<strong>Art</strong>. 10 Revogam-se as disposições em contrário.
+**Art**. 10 Revogam-se as disposições em contrário.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 11. Enquanto não fôr baixado o Regime Interno, a fim de não ser prejudicados o funcionamento normal dos serviços, a Diretoria do Ensino Naval irá sendo adaptada às disposições dêste Regulamento, por meio de Instruções especiais expedidas pelo Diretor.
+**Art**. 11. Enquanto não fôr baixado o Regime Interno, a fim de não ser prejudicados o funcionamento normal dos serviços, a Diretoria do Ensino Naval irá sendo adaptada às disposições dêste Regulamento, por meio de Instruções especiais expedidas pelo Diretor.
 
 Rio de Janeiro, 1 de outubro de 1945.
 
-<strong>HENRIQUE A. GUILHEM</strong>
+**HENRIQUE A. GUILHEM**
 
 Ministro da Marinha

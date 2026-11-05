@@ -66,11 +66,11 @@ TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 § 1º Inciso I: R$ 1.277.052,52
 
 TOTAL UTILIZADO DE EXCESSO DE ARRECADAÇÃO POR FONTE - Art 43 § 1º Inciso II: R$ 7.453,64
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA</td><td style="text-align: justify;">R$ 7.453,64</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA</td><td>R$ 7.453,64</td></tr></tbody></table>
 
 TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 2.000.000,00
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO</td><td style="text-align: justify;">R$ 2.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO</td><td>R$ 2.000.000,00</td></tr></tbody></table>
 
 TOTAL POR FONTE: R$ 3.284.506,16
 

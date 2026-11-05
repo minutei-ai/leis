@@ -1,5 +1,3 @@
-###DEC-078141-0-000-30-07-1976@@@
-
 DECRETO Nº 78.141, DE 30 DE JULHO DE 1976
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Economia e Administração da Universidade Federal Fluminense, com sede na cidade de Niterói, Estado do Rio de Janeiro.

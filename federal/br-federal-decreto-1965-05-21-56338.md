@@ -1,5 +1,3 @@
-###DEC-056338-0-000-21-05-1965@@@
-
 DECRETO Nº 56.338, DE 21 DE MAIO DE 1965.
 
 Autoriza o cidadão brasileiro Custódio Netto Jr. a pesquisar aluviões auríferos, no município de São Félix do Xingu, Estado do Pará.

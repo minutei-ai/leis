@@ -1,14 +1,12 @@
-###LEI-000098-0-000-17-09-1947@@@
+**LEI N. 98 – DE 17 DE SETEMBRO DE 1947**
 
-<strong>LEI N. 98 – DE 17 DE SETEMBRO DE 1947</strong>
-
-<em><strong>Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde o crédito especial de Cr$ 6.107.515,80, para ocorrer ao pagamento de despesas realizadas em 1946.</strong></em>
+***Autoriza o Poder Executivo a abrir, pelo Ministério da Educação e Saúde o crédito especial de Cr$ 6.107.515,80, para ocorrer ao pagamento de despesas realizadas em 1946.***
 
 O Presidente da República :
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-<strong>Art.</strong> 1º É o Poder Executivo autorizado a abrir, pelo Ministério da Educação e Saúde, o crédito especial de seis milhões, cento e sete mil, quinhentos e quinze cruzeiros e oitenta centavos (Cr$ 6.107.515,80), para fazer face às despesas realizadas em 1046, assim discriminadas:
+**Art.** 1º É o Poder Executivo autorizado a abrir, pelo Ministério da Educação e Saúde, o crédito especial de seis milhões, cento e sete mil, quinhentos e quinze cruzeiros e oitenta centavos (Cr$ 6.107.515,80), para fazer face às despesas realizadas em 1046, assim discriminadas:
 
 Gêneros de alimentação e dieta; alimentos preparadas; animais para corte; gêlo e artigo para fumantes, destinados:
 
@@ -26,11 +24,11 @@ Taxa de esgôto a The Rio de Janeiro City Improvements Company Limited, inclusiv
 
 Total..................................................................................................................................... 6.107.515,80
 
-<strong>Art.</strong> 2º Revogam-se as disposições em contrário.
+**Art.** 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 17 de setembro de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clemente Mariani.
 

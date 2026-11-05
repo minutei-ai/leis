@@ -1,5 +1,3 @@
-###DEC-045847-0-000-22-04-1959@@@
-
 DECRETO Nº 45.847, DE 22 DE ABRIL DE 1959.
 
 Outorga à Prefeitura Municipal de Conceição das Alagoas concessão para o aproveitamento da energia hidráulica da cachoeira dos Coelhos, existente no rio Uberaba, distrito de Conceição das Alagoas, município do mesmo nome, Estado de Minas Gerais.

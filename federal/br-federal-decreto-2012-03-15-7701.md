@@ -1,5 +1,3 @@
-###DEC-007701-0-000-15-03-2012-PUB-01@@@
-
 DECRETO Nº 7.701, DE 15 DE MARÇO DE 2012
 
 Dispõe sobre os efetivos do pessoal militar do Exército, em serviço ativo, para 2012.

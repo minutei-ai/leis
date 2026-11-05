@@ -1,5 +1,3 @@
-###DEC-082381-0-000-04-10-1978@@@
-
 Decreto nº 82 381, de 04 de outubro de 1978.
 
 Cassa a concessão outorgada à Fundação TV Educativa de Alagoas para estabelecer, na cidade de Maceió, Estado de Alagoas, uma estação de radiodifusão de sons e imagens (televisão).

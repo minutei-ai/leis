@@ -1,5 +1,3 @@
-###DEC-086260-0-000-04-08-1981@@@
-
 Decreto nº 86.260, de 04 de aGosto de 1981.
 
 Autoriza a alienação de lotes residenciais de propriedade da União, localizados em Brasília (DF), à Companhia Imobiliária de Brasília-TERRACAP.

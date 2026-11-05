@@ -1,5 +1,3 @@
-###DEC-076836-0-000-17-12-1975@@@
-
 DECRETO nº 76.836, DE 17 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Filosofia, Ciências e Letras com sede na cidade de Piracicaba, Estado de São Paulo.

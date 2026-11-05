@@ -1,5 +1,3 @@
-###DEL-001182-0-000-16-07-1971@@@
-
 # DECRETO-LEI Nº 1.182, DE 16 DE JULHO DE 1971
 
 Concede estímulos às fusões às incorporações e à abertura de capital de emprêsas e dá outras providências.

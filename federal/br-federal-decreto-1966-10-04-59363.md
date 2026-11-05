@@ -1,5 +1,3 @@
-###DEC-059363-0-000-04-10-1966@@@
-
 DECRETO Nº 59.363, DE 4 DE OUTUBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Trabalho e Previdência Social.

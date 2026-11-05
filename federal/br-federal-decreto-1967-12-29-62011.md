@@ -1,5 +1,3 @@
-###DEC-062011-0-000-29-12-1967@@@
-
 DECRETO Nº 62.011, DE 29 DE DEZEMBRO DE 1967.
 
 Autoriza a Companhia Paulista de Força e Luz a construir linha de transmissão.

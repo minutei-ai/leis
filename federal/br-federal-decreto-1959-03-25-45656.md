@@ -1,5 +1,3 @@
-###DEC-045656-0-000-25-03-1959@@@
-
 DECRETO Nº 45.656, DE 25 DE MARÇO DE 1959.
 
 Constitui grupo de trabalho para estudar medidas que facilitem a importação de livros estrangeiros.

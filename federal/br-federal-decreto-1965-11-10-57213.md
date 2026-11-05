@@ -1,5 +1,3 @@
-###DEC-057213-0-000-10-11-1965@@@
-
 DECRETO Nº 57.213, DE 10 DE NOVEMBRO DE 1965.
 
 Renova o decreto nº 51.968-A, de 26 de abril de 1963.

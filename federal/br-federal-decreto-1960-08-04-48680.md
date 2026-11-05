@@ -1,5 +1,3 @@
-###DEC-048680-0-000-04-08-1960@@@
-
 DECRETO Nº 48.680, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

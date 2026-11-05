@@ -1,6 +1,10 @@
 > **LEI Nº 3.522, DE 25 DE SETEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a política de prevenção à violência contra os profissionais da educação da Rede de Ensino do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a política de prevenção à violência contra os profissionais da educação da Rede de Ensino do Estado.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, § 3º e 8º da Constituição Estadual c/c o art. 15, § 1º, X do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga a seguinte Lei:
 

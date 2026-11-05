@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7d483c26-b8ec-4144-bb2e-a04569e826f6/texto#nowhere)
 
-###DEL-001304-0-000-08-01-1974@@@
-
 # DECRETO-LEI Nº 1.304, DE 8 DE JANEIRO DE 1974
 
 Dispõe sobre a sistemática de captação de incentivos fiscais deduzidos do Imposto de Renda, e dá outras providências.

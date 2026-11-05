@@ -1,5 +1,3 @@
-###DEC-045220-0-000-15-01-1959@@@
-
 decreto nº 45.220, de 16 de janeiro de 1959.
 
 Retifica o Decreto nº 44.917, de 28 de novembro de 1958.

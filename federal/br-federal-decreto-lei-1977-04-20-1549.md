@@ -1,5 +1,3 @@
-###DEL-001549-0-000-20-04-1977@@@
-
 # DECRETO-LEI Nº 1.549, De 20 DE ABRIL De 1977
 
 Reajusta os vencimentos e vencimentos e proventos dos Servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049256-0-000-17-11-1960@@@
-
 DECRETO Nº 49.256, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza a Companhia Cimento Brasileiro a pesquisar calcário, no município de São Sepé, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-051760-0-000-28-02-1963@@@
-
 DECRETO Nº 51.760, DE 28 DE FEVEREIRO DE 1963.
 
 Concede prazo para cumprimento de disposição do Decreto nº 47.491, de 24 de dezembro de 1959.

@@ -1,5 +1,3 @@
-###DEC-049464-0-000-07-12-1960@@@
-
 DECRETO Nº 49.464, DE 7 DE DEZEMBRO DE 1960.
 
 Aprova os Estatutos da Fundação Serviço Especial de Saúde Pública.
@@ -363,8 +361,6 @@ Art. 49. Os deveres, responsabilidades e direitos dos empregados e dos extranume
 Pedro paulo penido
 
 Presidente do Conselho Deliberativo
-
-###DEC-049464-0-000-07-12-1960@@@
 
 DECRETO Nº 49.646, DE 7 DE DEZEMBRO DE 1960.
 

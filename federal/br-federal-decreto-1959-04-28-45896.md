@@ -1,5 +1,3 @@
-###DEC-045896-0-000-28-04-1959@@@
-
 DECRETO Nº 45.896, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Rubens Pinto de Almeida a pesquisar minério de ouro e diamante no município de Itupiranga, Estado do Pará.

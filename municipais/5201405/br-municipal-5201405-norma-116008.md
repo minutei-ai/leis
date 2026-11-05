@@ -4,7 +4,8 @@ Institui o Programa Escudo Feminino, destinado à proteção, capacitação e ap
 
 O PREFEITO DE APARECIDA DE GOIÂNIA Faço saber que a Câmara Municipal de Aparecida de Goiânia aprova e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROGRAMA, DOS PRINCÍPIOS, DAS DIRETRIZES E DOS OBJETIVOS
 
 Art. 1º Fica instituído o Programa Escudo Feminino, destinado a promover a proteção, a autonomia e a capacidade de autodefesa de mulheres em situação de violência no Município de Aparecida de Goiânia, mediante capacitação, apoio psicossocial, orientação jurídica e auxílio financeiro para aquisição de meios legais de defesa pessoal, observada a legislação federal vigente.
@@ -51,12 +52,14 @@ IV - salvar vidas;
 
 V - fortalecer a atuação preventiva do Município.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS AÇÕES DO PROGRAMA
 
 Art. 5º (VETADO).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS BENEFICIÁRIAS
 
 Art. 6º São beneficiárias do Programa as mulheres em situação atual ou iminente de violência, comprovada por medida protetiva, registro de ocorrência policial, procedimento investigativo ou judicial, ou por documentação emitida por órgão público de saúde, assistência social ou segurança pública que ateste risco ou vulnerabilidade.
@@ -69,15 +72,18 @@ Art. 6º São beneficiárias do Programa as mulheres em situação atual ou imin
 
 § 4º Para os fins desta Lei, consideram-se situações de violência doméstica e familiar contra a mulher aquelas definidas nos arts. 5º e 7º da Lei federal nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), abrangendo violência física, psicológica, sexual, moral e patrimonial.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS BENEFÍCIOS NÃO LETAIS
 
-Seção I<br>
+Seção I
+
 Disposições Gerais
 
 Art. 7º (VETADO).
 
-Seção II<br>
+Seção II
+
 Auxílio para aquisição de spray de defesa pessoal
 
 Art. 8º (VETADO).
@@ -86,21 +92,24 @@ Art. 9º (VETADO).
 
 Art. 10. (VETADO).
 
-Seção III<br>
+Seção III
+
 Auxílio para aquisição de dispositivo Eletrônico de defesa pessoal
 
 Art. 11. (VETADO).
 
 Art. 12. (VETADO).
 
-Seção IV<br>
+Seção IV
+
 Cursos de Defesa Pessoal e Tiro
 
 Art. 13. (VETADO).
 
 Art. 14. (VETADO).
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO AUXÍLIO PARA AQUISIÇÃO DE ARMA DE FOGO
 
 Art. 15. (VETADO).
@@ -117,7 +126,8 @@ Art. 20. (VETADO).
 
 Art. 21. (VETADO).
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA PRESTAÇÃO DE CONTAS E CONTROLES
 
 Art. 22. (VETADO).
@@ -144,14 +154,16 @@ VII - canal específico para exercício dos direitos das titulares.
 
 § 2º É vedado o compartilhamento dos dados para fins políticos, eleitorais, comerciais ou quaisquer outros alheios à finalidade do Programa.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DO FINANCIAMENTO
 
 Art. 25. (VETADO).
 
 Art. 26. (VETADO).
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DISPOSIÇÕES FINAIS
 
 Art. 27. (VETADO).
@@ -162,5 +174,6 @@ Aparecida de Goiânia, 30 de junho de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

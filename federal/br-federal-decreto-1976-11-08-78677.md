@@ -1,5 +1,3 @@
-###DEC-078677-0-000-08-11-1976@@@
-
 DECRETO Nº 78.677, DE 8 DE NOVEMBRO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na Cidade de Alto Paraguai, Estado de Mato Grosso.

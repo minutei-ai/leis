@@ -1,5 +1,3 @@
-###DEC-055266-0-000-22-12-1964@@@
-
 DECRETO Nº 55.266, DE 22 DE DEZEMBRO DE 1964.
 
 Renova o decreto nº 48.212, de 13 de maio de 1960.

@@ -1,5 +1,3 @@
-###DEC-057962-0-000-10-03-1966@@@
-
 DECRETO Nº 57.962, DE 10 DE MARÇO DE 1966.
 
 Concede a “SONGEL” - Sondagens Geológicas Ltda. autorização para funcionar como emprêsa de mineração.

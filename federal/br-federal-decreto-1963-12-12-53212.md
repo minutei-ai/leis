@@ -1,5 +1,3 @@
-###DEC-053212-0-000-12-12-1963@@@
-
 DECRETO Nº 53.212, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia Brasileira de Alumínio a lavra bauxita no município de Poços de Caldas, Estado de Minas Gerais.

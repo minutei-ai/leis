@@ -1,5 +1,3 @@
-###DEC-094600-0-000-14-07-1987@@@
-
 DECRETO N° 94.600, DE 14 DE JULHO DE 1987
 
 Autoriza o Ministério da Marinha a ceder, sob o regime de arrendamento, imóveis sob a sua jurisdição, e dá outras providências.

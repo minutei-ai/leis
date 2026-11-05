@@ -1,5 +1,3 @@
-###DEC-047069-0-000-22-10-1959@@@
-
 Decreto nº 47.069, de 22 de outubro de 1959.
 
 Aprova orçamento para aquisição e montagem de 38 locomotivas diesel elétricas pela Companhia Paulista de Estradas de Ferro.
@@ -14,7 +12,19 @@ Art. 2º A despesa decorrente da aprovação dêste novo orçamento deverá ser 
 
 Art. 3º O Plano Geral de Obras e Aquisições da Companhia Paulista de Estradas de Ferro, aprovado pelo Decreto nº 38.655, de 26 de janeiro de 1956, com os acréscimos de despesas feitos pelos Decretos ns. 39.644, de 25 de julho de 1956, 40.749, de 15 de janeiro de 1957 e 44.190, de 28 de julho de 1958, ficará assim constituído:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundo de Melhoramentos</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.446.083.604,70</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundo de Renovação Patrimonial</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.544.462.936,10</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.990.546.540,80</span></p></td></tr></tbody></table>
+Cr$
+
+Fundo de Melhoramentos
+
+1.446.083.604,70
+
+Fundo de Renovação Patrimonial
+
+1.544.462.936,10
+
+Total
+
+2.990.546.540,80
 
 Art. 4º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 

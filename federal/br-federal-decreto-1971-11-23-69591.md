@@ -1,5 +1,3 @@
-###DEC-069591-0-000-23-11-1971@@@
-
 DECRETO Nº 69.591 - DE 23 de NOVEMBRO DE 1971
 
 Declara de utilidade pública a Sociedade Beneficente Evangélica Betel, com sede em Esteio, Estado do Rio Grande do Sul.

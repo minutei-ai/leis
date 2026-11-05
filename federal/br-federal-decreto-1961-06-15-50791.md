@@ -1,5 +1,3 @@
-###DEC-050791-0-000-15-06-1961@@@
-
 DECRETO Nº 50.791, DE 15 de junho de 1961.
 
 Outorga à Prefeitura Municipal de Cunha-Porã, Estado de Santa Catarina, concessão para distribuir energia elétrica.

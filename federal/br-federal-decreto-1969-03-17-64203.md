@@ -1,5 +1,3 @@
-###DEC-064203-0-000-17-03-1969@@@
-
 DECRETO Nº 64.203, DE 17 DE MARÇO DE 1969.
 
 Aprova o Regulamento da Comissão Geral de Investigações.

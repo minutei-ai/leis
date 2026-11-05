@@ -1,5 +1,3 @@
-###DEC-067359-0-000-07-10-1970@@@
-
 decreto nº 67.359, de 7 de outubro de 1970.
 
 Declara caduco o Decreto nº 25.423, de 1 de setembro de 1948.

@@ -1,5 +1,3 @@
-###DEL-004407-0-000-25-06-1942@@@
-
 DECRETO-LEI N. 4.407 – DE 25 DE JUNHO DE 1942
 
 Dispõe sobre a designação dos suplentes de vogais das Juntas de Conciliação o Julgamento

@@ -1,5 +1,3 @@
-###DEC-073562-0-000-24-01-1974@@@
-
 Decreto nº 73.562, de 24 de janeiro de 1974.
 
 Declara Interditada, para fins de atração de grupos indígenas, áreas que discrimina no Estado de Mato Grosso e no Território Federal de Rondônia.

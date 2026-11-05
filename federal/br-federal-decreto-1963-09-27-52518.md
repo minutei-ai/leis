@@ -1,5 +1,3 @@
-###DEC-052518-0-000-27-09-1963@@@
-
 Decreto nº 52.518, de 27 de setembro de 1963.
 
 Autoriza Jesus Leite a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-088672-0-000-05-09-1983@@@
-
 DECRETO Nº 88.672, de 05 de setembro de 1983.
 
 Homologa a demarcação da área indígena que menciona, no Estado do Espírito Santo.

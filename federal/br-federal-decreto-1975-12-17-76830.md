@@ -1,5 +1,3 @@
-###DEC-076830-0-000-17-12-1975@@@
-
 DECRETO Nº 76.830, DE 17 DE DEZEMBRO DE 1975.
 
 Concede à empresa Anderson Clayton S.A. Indústria e Comércio, com sede na cidade de São Paulo, autorização para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento que menciona.

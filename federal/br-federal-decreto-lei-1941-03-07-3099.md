@@ -1,5 +1,3 @@
-###DEL-003099-0-000-07-03-1941@@@
-
 DECRETO-LEI N. 3.099 – DE 7 DE MARÇO DE 1941
 
 Restabelece no quadro único do Ministério da Agricultura um cargo da classe E da carreira de Prático Rural e dá outras Providências

@@ -1,5 +1,3 @@
-###DEC-006160-0-000-20-07-2007@@@
-
 DECRETO Nº 6.160, DE 20 DE JULHO DE 2007.
 
 Regulamenta os §§ 1o e 2o do art. 23 da Lei no 9.074, de 7 de julho de 1995, com vistas à regularização das cooperativas de eletrificação rural como permissionárias de serviço público de distribuição de energia elétrica, e dá outras providências.

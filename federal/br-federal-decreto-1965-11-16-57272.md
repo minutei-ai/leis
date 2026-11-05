@@ -1,5 +1,3 @@
-###DEC-057272-0-000-16-11-1965@@@
-
 decreto nº 57.272, de 16 de novembro de 1965.
 
 Define a conceituação de Acidente em Serviço e dá outras providências.

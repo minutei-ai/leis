@@ -1,5 +1,3 @@
-###DEC-048856-0-000-12-08-1960@@@
-
 Decreto nº 48.856, de 12 de agôsto de 1960.
 
 Concede à Marinha de Guerra de Espanha o Prêmio “Marinha do Brasil”.

@@ -1,5 +1,3 @@
-###DEC-003019-0-000-06-04-1999@@@
-
 DECRETO Nº 3.019, DE 6 DE ABRIL DE 1999.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização PND, de aproveitamentos hidreléctricos.

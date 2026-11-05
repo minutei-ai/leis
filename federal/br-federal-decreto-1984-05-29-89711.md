@@ -1,5 +1,3 @@
-###DEC-089711-0-000-29-05-1984@@@
-
 Decreto nº 89.711, de 29 de maio de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas variáveis de terra destinadas à passagem de linhas de transmissão da Centrais Elétricas do Maranhão S.A. - CEMAR, no Estado do Maranhão.

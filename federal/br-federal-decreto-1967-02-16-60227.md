@@ -1,5 +1,3 @@
-###DEC-060227-0-000-16-02-1967@@@
-
 DECRETO Nº 60.227, DE 16 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, em favor e por conta da Universidade Fluminense, imóveis situados em Niterói, Capital do Estado do Rio de Janeiro.

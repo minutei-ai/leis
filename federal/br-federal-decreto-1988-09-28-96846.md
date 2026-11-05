@@ -1,5 +1,3 @@
-###DEC-096846-0-000-28-09-1988@@@
-
 DECRETO Nº 96.846, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO IGUATEMI LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na Cidade de Osasco, Estado de São Paulo.

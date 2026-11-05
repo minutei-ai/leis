@@ -1,5 +1,3 @@
-###DEC-069460-0-000-04-11-1971@@@
-
 DECRETO Nº 69.460 - DE 4 de NOVEMBRO DE 1971
 
 Concede reconhecimento aos Cursos de Administração de Empresa e de Administração Pública da Faculdade de Ciências Econômicas da Universidade Federal do Rio Grande do Sul - RS.

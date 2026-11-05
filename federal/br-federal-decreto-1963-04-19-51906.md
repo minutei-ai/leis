@@ -1,5 +1,3 @@
-###DEC-051906-0-000-19-04-1963@@@
-
 DECRETO Nº 51.906, DE 19 DE ABRIL DE 1963.
 
 Declara de utilidade pública por interêsse social para fim de desapropriação o domínio útil da Gleba “Santa Alice”, desmembrada da Fazenda do mesmo nome, localizada no Município de Itaguaí, no Estado do Rio de Janeiro, e dá outras providências.

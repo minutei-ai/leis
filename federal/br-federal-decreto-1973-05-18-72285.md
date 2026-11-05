@@ -1,5 +1,3 @@
-###DEC-072285-0-000-18-05-1973@@@
-
 DECRETO Nº 72.285, DE 18 DE MAIO DE 1973.
 
 Torna sem efeito redistribuição de cargo, com o respectivo ocupante, do Quadro de Pessoal do Ministério da Agricultura para o Ministério da Educação e Cultura.

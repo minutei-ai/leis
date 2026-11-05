@@ -1,7 +1,3 @@
-1
-
-###DEC-001327-0-000-05-12-1994@@@
-
 DECRETO N° 1.327, DE 5 DE DEZEMBRO DE 1994
 
 Aprova o Regulamento da Escola Superior de Guerra.

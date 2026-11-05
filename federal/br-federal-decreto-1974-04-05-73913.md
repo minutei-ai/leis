@@ -1,5 +1,3 @@
-###DEC-073913-0-000-05-04-1974@@@
-
 DECRETO Nº 73.913, DE 5 DE ABRIL DE 1974.
 
 Concede reconhecimento ao curso de Engenharia Civil do Instituto Politécnico de Ribeirão Preto, mantido pela Instituição Moura Lacerda, com sede na cidade de Ribeirão Preto, Estado de São Paulo.

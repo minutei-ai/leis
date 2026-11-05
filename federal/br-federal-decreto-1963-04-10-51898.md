@@ -1,5 +1,3 @@
-###DEC-051898-0-000-10-04-1963@@@
-
 decreto nº 51.898, de 10 de abril de 1963.
 
 Retifica o Decreto nº 51.854, de 19 de março de 1963.

@@ -1,5 +1,3 @@
-###DEL-004806-0-000-07-10-1942@@@
-
 DECRETO-LEI N. 4.806 – DE 7 DE OUTUBRO DE 1942
 
 Derroga disposição contida no art. 2º do decreto-lei n. 4.166, de 11 de março de 1942, e dá outras providências

@@ -1,7 +1,3 @@
-1
-
-###DEC-097809-0-000-06-06-1989@@@
-
 DECRETO N° 97.809, DE 06 DE JUNHO DE 1989
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade de Ciências da Saúde de Umuarama, Paraná.

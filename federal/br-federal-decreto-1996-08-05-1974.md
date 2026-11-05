@@ -1,5 +1,3 @@
-###DEC-001974-0-000-05-08-1996@@@
-
 DECRETO Nº 1.974, DE 5 DE AGOSTO DE 1996.
 
 Dá nova redação ao art. 2º do Decreto nº 99.438, de 7 de agosto de 1990, que dispõe sobre a organização e as atribuições do Conselho Nacional de Saúde, e dá outras providências.

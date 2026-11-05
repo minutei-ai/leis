@@ -1,5 +1,3 @@
-###DEC-055997-0-000-23-04-1965@@@
-
 DECRETO nº 55.997, DE 23 DE ABRIL DE 1965.
 
 Declara públicas, de uso comum, as águas dos cursos d’agua que especifica.

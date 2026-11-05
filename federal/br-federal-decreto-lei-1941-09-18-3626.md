@@ -1,5 +1,3 @@
-###DEL-003626-0-000-18-09-1941@@@
-
 DECRETO-LEI N. 3.626 – DE 18 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 20:000$0 para pagamento de gratificação por execução de trabalho técnico.

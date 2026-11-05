@@ -1,5 +1,3 @@
-###DEC-082052-0-000-01-08-1978@@@
-
 decreto nº 82.052, de 01 de agosto de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

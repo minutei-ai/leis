@@ -1,5 +1,3 @@
-###DEC-046164-0-000-05-06-1959@@@
-
 DECRETO Nº 46.164, DE 5 DE JUNHO DE 1959.
 
 Autoriza a Companha da Fôrça e Luz Cachoeirense S.A. reformar e ampliar o seu sistema de distribuição de energia elétrica.

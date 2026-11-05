@@ -1,5 +1,3 @@
-###DEC-059195-0-000-08-09-1966@@@
-
 DECRETO Nº 59.195, DE 8 DE SETEMBRO DE 1966.
 
 Dispõe sôbre a cobrança de prêmios de seguros privados e dá outras providências.

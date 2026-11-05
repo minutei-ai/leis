@@ -1,5 +1,3 @@
-###DEL-007516-0-000-03-05-1945@@@
-
 DECRETO-LEI N. 7.516 – DE 3 DE MAIO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 800.000,00, para atender às despesas com a III Conferência Interamericana de Radiocomunicações

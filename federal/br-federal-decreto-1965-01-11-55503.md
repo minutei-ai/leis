@@ -1,5 +1,3 @@
-###DEC-055503-0-000-11-01-1965@@@
-
 DECRETO Nº 55.503, de 11 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Jorge Mansur a pesquisar galena, no município de Uruaçu, Estado de Goiás.

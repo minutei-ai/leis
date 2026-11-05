@@ -1,5 +1,3 @@
-###DEL-003038-0-000-10-02-1941@@@
-
 DECRETO-LEi N. 3.038 – DE 10 DE FEVEREIRO DE 1941
 
 Dispõe sobre a declaração de indignidade para o oficialato

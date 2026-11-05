@@ -1,7 +1,3 @@
-1
-
-###DEC-000880-0-000-23-07-1993@@@
-
 DECRETO N° 880, DE 23 DE JULHO DE 1993
 
 Aprova o Regulamento do Corpo do Pessoal Graduado da Aeronáutica.

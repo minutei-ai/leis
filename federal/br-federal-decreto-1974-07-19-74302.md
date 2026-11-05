@@ -1,5 +1,3 @@
-###DEC-074302-0-000-19-07-1974@@@
-
 DECRETO Nº 74.302 - DE 19 DE JULHO DE 1974.
 
 Concede autorização às Companhias Reading & Bates Offshore Drilling Company e Reading & Bates - Demaga Perfurações Limitada, para executarem trabalhos de perfuração exploratória na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

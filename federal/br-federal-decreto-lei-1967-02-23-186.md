@@ -1,5 +1,3 @@
-###DEL-000186-0-000-23-02-1967@@@
-
 DECRETO-LEI Nº 186, DE 23 DE FEVEREIRO DE 1967
 
 Incorpora o Instituto Borges da Costa à Universidade Federal de Minas Gerais.

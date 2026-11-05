@@ -1,5 +1,3 @@
-###DEL-000042-0-000-06-12-1937@@@
-
 DECRETO-LEI N. 42 – DE 6 DE DEZEMBRO DE 1937
 
 Completa as  providencias estabelecidas no decreto-lei n. 5, de 13 de novembro dêste ano

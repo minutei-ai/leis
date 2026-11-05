@@ -1,5 +1,3 @@
-###DEL-009343-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.343 – DE 10 DE JUNHO DE 1946
 
 Abre ao Conselho de Segurança Nacional o crédito especial de Cr$ ..... 30.000,00, para despesas de Comissão Especial da Faixa de Fronteiras, e dá outras providências.

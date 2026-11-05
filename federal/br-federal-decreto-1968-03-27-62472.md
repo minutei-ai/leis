@@ -1,5 +1,3 @@
-###DEC-062472-0-000-27-03-1968@@@
-
 Decreto nº 62.472, de 27 de março de 1968.
 
 Dispõe sôbre o planejamento e a execução das medidas necessárias à realização da VIII Conferência dos Exércitos Americanos e dá outras providências.

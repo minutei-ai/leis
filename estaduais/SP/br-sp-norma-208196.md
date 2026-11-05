@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208196)<br>
-
 # DECRETO N° 67.753, DE 20 DE JUNHO DE 2023
 
 ### _Altera a classificação institucional da Secretaria de Desenvolvimento Urbano e Habitação nos Sistemas de Administração Financeira e Orçamentária do Estado._

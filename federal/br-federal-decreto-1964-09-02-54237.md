@@ -1,5 +1,3 @@
-###DEC-054237-0-000-02-09-1964@@@
-
 DECRETO Nº 54.237, DE 2 DE SETEMBRO DE 1964.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$2.500.000,00 (dois milhões e quinhentos mil cruzeiros), para atender às despesas de que trata o artigo 1º da Lei nº 4.235, de 17 de junho de 1963, destinada ao ginásio “Euclides da Cunha”, no Território de Roraima.

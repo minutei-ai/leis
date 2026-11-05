@@ -1,5 +1,3 @@
-###DEC-068431-0-000-29-03-1971@@@
-
 DECRETO Nº 68.431, DE 29 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Associação Universitária Interamericana, com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-076284-0-000-16-09-1975@@@
-
 DECRETO Nº 76.284 - DE 16 DE SETEMBRO DE 1975
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado em Cuiabá, Estado de Mato Grosso.

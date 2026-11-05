@@ -1,5 +1,3 @@
-###DEC-002303-0-000-18-08-1997@@@
-
 DECRETO Nº 2.303, DE 18 DE AGOSTO DE 1997
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Companhia Siderúrgica da Amazônia - SIDERA.MA.

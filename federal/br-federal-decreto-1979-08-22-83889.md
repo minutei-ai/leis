@@ -1,5 +1,3 @@
-###DEC-083889-0-000-22-08-1979@@@
-
 Decreto nº 83.889, de 22 de agosto de 1979.
 
 Declara perempta a concessão outorgada à Rádio Difusora Minas Gerais Ltda., para executar serviços de radiodifusão sonora em onda média de âmbito regional, na cidade de Juiz de Fora, Estado de Minas Gerais.

@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº 128, DE 03 DE JULHO DE 2018.
 
-<br>
 Altera a Lei nº 3.968/2000 – Estatuto dos Servidores do Município de Rio Verde.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE – GO APROVA E EU SANCIONO A SEGUINTE LEI:**
@@ -25,7 +24,8 @@ I – a parcela proporcional da remuneração diária quando comparecer ao servi
 
 § 8º O tempo de serviço do servidor Municipal cedido para prestar serviço fora do âmbito da Administração direta ou indireta também será computado para efeito da gratificação adicional por tempo de serviço.” (NR).
 
-“Art. 143. ...................................................................................................<br>
+“Art. 143. ...................................................................................................
+
 ...................................................................................................................
 
 § 6º Somente serão aceitáveis cursos concluídos após a posse no cargo, respeitando-se o direito adquirido e o ato jurídico perfeito.” (NR).

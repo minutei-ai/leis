@@ -1,5 +1,3 @@
-###DEC-067310-0-000-01-10-1970@@@
-
 DECRETO Nº 67.310, DE 1 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 17.431 de 27 de dezembro de 1944.

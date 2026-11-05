@@ -1,5 +1,3 @@
-###DEC-084047-0-000-02-10-1979@@@
-
 Decreto nº 84.047, de 2 de outubro de 1979.
 
 Limita os casos de obrigatoriedade de inscrição no Cadastro de Pessoas Físicas (CPF) e dá outras providências.

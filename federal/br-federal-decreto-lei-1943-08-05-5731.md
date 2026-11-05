@@ -1,5 +1,3 @@
-###DEL-005731-0-000-05-08-1943@@@
-
 DECRETO‑LEI N. 5.731 – DE 5 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 15.748,80 para pagamento da vantagem prevista no decreto‑lei n. 5.522, de 27 de maio de 1943

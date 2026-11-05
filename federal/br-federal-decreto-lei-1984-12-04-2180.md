@@ -1,5 +1,3 @@
-###DEL-002180-0-000-04-12-1984@@@
-
 # Decreto-lei nº 2.180, de 04 de dezembro de 1984
 
 Concede isenção dos impostos de importação e sobre produtos industrializados aos bens de capital importados por empresas concessionárias dos serviços de transporte ferroviário ou metroviário de passageiros ou de carga.

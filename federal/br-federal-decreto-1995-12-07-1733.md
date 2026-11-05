@@ -1,7 +1,3 @@
-1
-
-###DEC-001733-0-000-07-12-1995@@@
-
 DECRETO Nº 1.733, DE 7 DE DEZEMBRO DE 1995
 
 Regulamenta a legislação do Imposto sobre a Renda na parte relativa a incentivos fiscais.

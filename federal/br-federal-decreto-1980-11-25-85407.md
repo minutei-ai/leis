@@ -1,5 +1,3 @@
-###DEC-085407-0-000-25-11-1980@@@
-
 Decreto nº 85.407, de 25 de novembro de 1980.
 
 Outorga à Centrais elétricas de Carazinho S.A. - ELETROCAR concessão para o aproveitamento da energia hidráulica de um desnível no rio da Várzea, no Município de Carazinho, Estado do Rio Grande do Sul.

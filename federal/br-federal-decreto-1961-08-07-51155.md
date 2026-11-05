@@ -1,5 +1,3 @@
-###DEC-051155-0-000-07-08-1961@@@
-
 DECRETO Nº 51.155, DE 7 DE AGÔSTO DE 1961.
 
 Outorga concessão à Rádio Tamoio Sociedade Anônima para estabelecer uma estação radiodifusora em onda média na Cidade do Rio de Janeiro, Estado da Guanabara.

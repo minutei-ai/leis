@@ -1,5 +1,3 @@
-###DEC-051721-0-000-18-02-1963@@@
-
 DECRETO Nº 51.721, DE 18 DE FEVEREIRO DE 1963.
 
 Altera o Regulamento para o Corpo de Pessoal Subalterno da Armada.

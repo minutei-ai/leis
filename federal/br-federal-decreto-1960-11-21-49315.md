@@ -1,5 +1,3 @@
-###DEC-049315-0-000-21-11-1960@@@
-
 DECRETO N.º 49.315, DE 21 DE NOVEMBRO DE 1960
 
 Dispõe sôbre a transferência de função da Tabela Única de Extranumerário-mensalista do Departamento Administrativo do Serviço Público para idêntica Tabela do Ministério da Fazenda.

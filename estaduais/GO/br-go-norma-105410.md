@@ -1,4 +1,5 @@
-DECRETO Nº 10.075, DE 25 DE ABRIL DE 2022<br>
+DECRETO Nº 10.075, DE 25 DE ABRIL DE 2022
+
 \- [Revogado pelo Decreto nº 10.341, de 13-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108074/decreto-10341), art. 4º, I.
 
 ~~Autoriza a Secretaria de Estado de Saúde – SES a celebrar e manter os contratos temporários que especifica, também revoga o [Decreto nº 8.436](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67516/decreto-8436), de 20 de agosto de 2015.~~
@@ -16,8 +17,6 @@ DECRETO Nº 10.075, DE 25 DE ABRIL DE 2022<br>
 ~~Art. 4º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 25 de abril de 2022; 134º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

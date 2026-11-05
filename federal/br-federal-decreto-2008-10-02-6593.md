@@ -1,5 +1,3 @@
-###DEC-006593-0-000-02-10-2008@@@
-
 DECRETO Nº 6.593, DE 2 DE OUTUBRO DE 2008.
 
 Regulamenta o art. 11 da Lei no 8.112, de 11 de dezembro de 1990, quanto à isenção de pagamento de taxa de inscrição em concursos públicos realizados no âmbito do Poder Executivo federal.

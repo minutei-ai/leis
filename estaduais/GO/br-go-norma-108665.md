@@ -1,4 +1,5 @@
-DECRETO Nº 10.437, DE 9 DE ABRIL DE 2024<br>
+DECRETO Nº 10.437, DE 9 DE ABRIL DE 2024
+
 \- [Vide Decreto nº 10.548, de 13-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109467/decreto-10548) - Altera a Estrutura administrativa da SEAD.
 
 Aprova o Regulamento da Secretaria de Estado da Administração – SEAD.
@@ -151,14 +152,16 @@ j) Gerência de Contabilidade;
 
 XII – Superintendência de Sistemas de Informação:
 
-~~a) Coordenação de Dados;~~<br>
+~~a) Coordenação de Dados;~~
+
 \- [Revogada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, a.
 
 b) Gerência de Desenvolvimento de Sistemas; e
 
 c) Gerência de Infraestrutura Tecnológica e Serviços, com a Coordenação Digital;
 
-d) Gerência de Inteligência Analítica e Governança de Dados, com a Coordenação de Governança de Dados;<br>
+d) Gerência de Inteligência Analítica e Governança de Dados, com a Coordenação de Governança de Dados;
+
 \- [Acrescida pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 XIII – Diretoria Executiva de Liquidação de Estatais:
@@ -235,7 +238,8 @@ b) Superintendência Central de Transformação Pública:
 
 1\. Gerência de Modelos Organizacionais;
 
-2\. Gerência de Experiência do Usuário;<br>
+2\. Gerência de Experiência do Usuário;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 ~~2\. Gerência de Experiência do Usuário, com a Coordenação de Inovação de Serviços;~~
@@ -244,7 +248,8 @@ b) Superintendência Central de Transformação Pública:
 
 4\. Gerência de Avaliação da Gestão e dos Serviços Públicos;
 
-5\. Coordenação de Transformação de Serviços;<br>
+5\. Coordenação de Transformação de Serviços;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 c) Superintendência de Inovação da Gestão Pública:
@@ -265,14 +270,16 @@ d) Superintendência da Gestão do Atendimento ao Cidadão:
 
 2.2. Supervisão de Atendimento;
 
-2.3. Coordenação de Avaliação de Perfil e Treinamento;<br>
+2.3. Coordenação de Avaliação de Perfil e Treinamento;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 3\. Gerência de Relacionamento com Municípios e Parceiros:
 
 3.1. Coordenação de Relacionamento com os Municípios; e
 
-3.2. Coordenação de Negociação e Gestão de Demandas; e<br>
+3.2. Coordenação de Negociação e Gestão de Demandas; e
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 ~~3.2. Coordenação de Contratos e Convênios; e~~
@@ -315,34 +322,44 @@ c) Superintendência Central de Compras e Contratos:
 
 5\. Gerência de Planejamento de Compras.
 
-d) Superintendência de Governança da Gestão das Transferências Voluntárias:<br>
+d) Superintendência de Governança da Gestão das Transferências Voluntárias:
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-1\. Gerência de Governança das Transferências Voluntárias:<br>
+1\. Gerência de Governança das Transferências Voluntárias:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-1.1. Coordenação de Monitoramento das Transferências Voluntárias; e<br>
+1.1. Coordenação de Monitoramento das Transferências Voluntárias; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-1.2. Coordenação de Acompanhamento de Prestação de Contas e Tomadas de Contas Especiais;<br>
+1.2. Coordenação de Acompanhamento de Prestação de Contas e Tomadas de Contas Especiais;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-2\. Gerência de Normatização das Transferências Voluntárias:<br>
+2\. Gerência de Normatização das Transferências Voluntárias:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-2.1. Coordenação de Interlocução Institucional; e<br>
+2.1. Coordenação de Interlocução Institucional; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-2.2. Coordenação de Normatização; e<br>
+2.2. Coordenação de Normatização; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-3\. Gerência de Gestão do Sistema das Transferências Voluntárias:<br>
+3\. Gerência de Gestão do Sistema das Transferências Voluntárias:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-3.1. Coordenação Técnica das Transferências Voluntárias; e<br>
+3.1. Coordenação Técnica das Transferências Voluntárias; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-3.2. Coordenação de Gestão da Informação e da Inteligência de Dados.<br>
+3.2. Coordenação de Gestão da Informação e da Inteligência de Dados.
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
 TÍTULO IV
@@ -829,7 +846,8 @@ IV – manifestar-se sobre a adequação de novos projetos da SEAD com o plano d
 
 V – elaborar a proposta orçamentária setorial da SEAD, conforme as diretrizes do órgão central de orçamento do Estado de Goiás;
 
-VI - exercer, referentemente ao planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e supervisionar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de planejamento, orçamento e finanças;<br>
+VI - exercer, referentemente ao planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e supervisionar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de planejamento, orçamento e finanças;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 ~~VI – exercer, referentemente ao planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e supervisionar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de orçamento, finanças, inovação da gestão e serviços públicos;~~
@@ -864,13 +882,16 @@ XX – apoiar o alinhamento e a adequação do plano de contratações anual des
 
 XXI – apoiar a realização do processo de planejamento estratégico institucional, em articulação com a área de gestão estratégica e de projetos, para garantir o alinhamento ao PPA, a sua boa execução e o atingimento de metas;
 
-~~XXII – gerir e coordenar a elaboração do Regulamento da SEAD, conforme as diretrizes da unidade central de gestão de modelos organizacionais;~~<br>
+~~XXII – gerir e coordenar a elaboração do Regulamento da SEAD, conforme as diretrizes da unidade central de gestão de modelos organizacionais;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, b. 
 
-~~XXIII – gerir o cadastro das unidades administrativas para a atualização das informações e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades e situações afins;~~<br>
+~~XXIII – gerir o cadastro das unidades administrativas para a atualização das informações e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades e situações afins;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, b. 
 
-~~XXIV – manifestar-se nos processos de atualização da organização administrativa da SEAD; e~~<br>
+~~XXIV – manifestar-se nos processos de atualização da organização administrativa da SEAD; e~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, b. 
 
 XXV – encarregar-se de competências correlatas.
@@ -1321,18 +1342,22 @@ XV – auxiliar a Gerência de Planejamento Institucional na elaboração e no m
 
 XVI – facilitar e aconselhar as iniciativas de gestão de projetos na SEAD, tanto as oriundas do planejamento estratégico quanto as advindas de demandas operacionais das unidades administrativas da SEAD, desde que sejam devidamente priorizadas e estejam em consonância com as diretrizes do Escritório de Projetos Setorial; e
 
-XVII - gerir e coordenar a elaboração do Regulamento da SEAD, conforme as diretrizes da unidade central de gestão de modelos organizacionais;<br>
+XVII - gerir e coordenar a elaboração do Regulamento da SEAD, conforme as diretrizes da unidade central de gestão de modelos organizacionais;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~XVII – encarregar-se de competências correlatas.~~
 
-XVIII - gerir o cadastro das unidades administrativas para a atualização das informações e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades e situações afins;<br>
+XVIII - gerir o cadastro das unidades administrativas para a atualização das informações e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades e situações afins;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-XIX - manifestar-se nos processos de atualização da organização administrativa da SEAD; e<br>
+XIX - manifestar-se nos processos de atualização da organização administrativa da SEAD; e
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-XX - encarregar-se de competências correlatas.<br>
+XX - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 Parágrafo único. A Gerência de Modernização Institucional e Processos fica subordinada técnica e normativamente à Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada.
@@ -1439,43 +1464,54 @@ XXIII – encarregar-se competências correlatas.
 
 § 2º Além das competências constantes do _caput_ deste artigo, a Superintendência de Sistemas de Informação organiza, coordena e supervisiona as seguintes unidades:
 
-~~I – Coordenação de Dados;~~<br>
+~~I – Coordenação de Dados;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, c.
 
 II – Gerência de Desenvolvimento de Sistemas; e
 
 III – Gerência de Infraestrutura Tecnológica e Serviços.
 
-IV - Gerência de Inteligência Analítica e Governança de Dados.<br>
+IV - Gerência de Inteligência Analítica e Governança de Dados.
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~Seção I~~
 
-~~Da Coordenação de Dados~~<br>
+~~Da Coordenação de Dados~~
+
 \- [Revogada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d. 
 
-~~Art. 28. Compete à Coordenação Dados:~~<br>
+~~Art. 28. Compete à Coordenação Dados:~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d.
 
-~~I – subsidiar as áreas de negócios com dados e informações que auxiliem em sua tomada de decisão;~~<br>
+~~I – subsidiar as áreas de negócios com dados e informações que auxiliem em sua tomada de decisão;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d. 
 
-~~II – orientar as ações de desenvolvimento de utilização da ciência de dados para extrair informações qualificadas que contribuam nos processos e na gestão da SEAD;~~<br>
+~~II – orientar as ações de desenvolvimento de utilização da ciência de dados para extrair informações qualificadas que contribuam nos processos e na gestão da SEAD;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d. 
 
-~~III – assessorar atividades no campo de ciência de dados com estratégias, ferramentas e técnicas para a coleta, a transformação e a análise de dados;~~<br>
+~~III – assessorar atividades no campo de ciência de dados com estratégias, ferramentas e técnicas para a coleta, a transformação e a análise de dados;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d.
 
-~~IV – promover a prospecção de novas TICs no âmbito da ciência de dados e prestar suporte às áreas de negócios em sua aplicação;~~<br>
+~~IV – promover a prospecção de novas TICs no âmbito da ciência de dados e prestar suporte às áreas de negócios em sua aplicação;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d.
 
-~~V – promover a manutenção de painéis de indicadores das áreas de negócio e providenciar a integração de dados;~~<br>
+~~V – promover a manutenção de painéis de indicadores das áreas de negócio e providenciar a integração de dados;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d.
 
-~~VI – gerir e orientar a manutenção dos bancos de dados corporativos da SEAD; e~~<br>
+~~VI – gerir e orientar a manutenção dos bancos de dados corporativos da SEAD; e~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d. 
 
-~~VII – encarregar-se de competências correlatas.~~<br>
+~~VII – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, d.
 
 Seção II
@@ -1548,62 +1584,82 @@ XI – oferecer o treinamento para a equipe de apoio de informática das unidade
 
 XII – encarregar-se de competências correlatas.
 
-**Seção IV<br>
-Da Gerência de Inteligência Analítica e Governança de Dados<br>
+**Seção IV
+
+Da Gerência de Inteligência Analítica e Governança de Dados
+
 **\- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-Art. 30-A.  Compete à Gerência de Inteligência Analítica e Governança de Dados:<br>
+Art. 30-A.  Compete à Gerência de Inteligência Analítica e Governança de Dados:
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-I - promover a integração dos dados institucionais ao ambiente estadual de grandes volumes de dados (_Big Data_ Estadual);<br>
+I - promover a integração dos dados institucionais ao ambiente estadual de grandes volumes de dados (_Big Data_ Estadual);
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-II - estruturar e manter ambientes de dados analíticos, para a organização, a disponibilidade e a segurança dos dados armazenados;<br>
+II - estruturar e manter ambientes de dados analíticos, para a organização, a disponibilidade e a segurança dos dados armazenados;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-III - realizar análises estatísticas, preditivas, prescritivas e exploratórias para a geração de conhecimento e o apoio às políticas públicas;<br>
+III - realizar análises estatísticas, preditivas, prescritivas e exploratórias para a geração de conhecimento e o apoio às políticas públicas;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-IV - desenvolver, implementar e acompanhar soluções baseadas em ciência de dados, inteligência artificial, aprendizado de máquina, automação inteligente e tecnologias correlatas;<br>
+IV - desenvolver, implementar e acompanhar soluções baseadas em ciência de dados, inteligência artificial, aprendizado de máquina, automação inteligente e tecnologias correlatas;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-V - desenvolver, implantar e manter painéis de indicadores, soluções analíticas e de inteligência de negócios - BI, para subsidiar a tomada de decisões pelos gestores da SEAD;<br>
+V - desenvolver, implantar e manter painéis de indicadores, soluções analíticas e de inteligência de negócios - BI, para subsidiar a tomada de decisões pelos gestores da SEAD;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-VI - consolidar, tratar e analisar dados provenientes de diferentes fontes, para produzir informações estratégicas, táticas e operacionais para suporte à gestão nas áreas de negócio da SEAD;<br>
+VI - consolidar, tratar e analisar dados provenientes de diferentes fontes, para produzir informações estratégicas, táticas e operacionais para suporte à gestão nas áreas de negócio da SEAD;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-VII - promover o uso da ciência de dados, da inteligência analítica e da inteligência artificial na melhoria de processos e serviços da SEAD;<br>
+VII - promover o uso da ciência de dados, da inteligência analítica e da inteligência artificial na melhoria de processos e serviços da SEAD;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-VIII - implementar soluções de automação de operações e agentes baseados em inteligência artificial, para a eficiência operacional e a melhoria dos canais de atendimento da SEAD;<br>
+VIII - implementar soluções de automação de operações e agentes baseados em inteligência artificial, para a eficiência operacional e a melhoria dos canais de atendimento da SEAD;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-IX - fomentar a alfabetização de dados e a disseminação do conhecimento analítico entre os servidores e gestores da SEAD;<br>
+IX - fomentar a alfabetização de dados e a disseminação do conhecimento analítico entre os servidores e gestores da SEAD;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-X - articular-se com órgãos e entidades estaduais para o alinhamento de diretrizes, compartilhamento de boas práticas e integração de iniciativas de governança e inteligência de dados; e<br>
+X - articular-se com órgãos e entidades estaduais para o alinhamento de diretrizes, compartilhamento de boas práticas e integração de iniciativas de governança e inteligência de dados; e
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-XI - encarregar-se de competências correlatas.<br>
+XI - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-Parágrafo único.  Além das competências constantes do _caput_ deste artigo, a Gerência de Inteligência Analítica e Governança de Dados organiza, coordena e supervisiona a Coordenação de Governança de Dados, que tem as seguintes competências:<br>
+Parágrafo único.  Além das competências constantes do _caput_ deste artigo, a Gerência de Inteligência Analítica e Governança de Dados organiza, coordena e supervisiona a Coordenação de Governança de Dados, que tem as seguintes competências:
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-I - implementar e manter a Política de Governança de Dados na SEAD, para assegurar sua aderência à legislação vigente e às diretrizes estaduais;<br>
+I - implementar e manter a Política de Governança de Dados na SEAD, para assegurar sua aderência à legislação vigente e às diretrizes estaduais;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-II - prover mecanismos, padrões e processos para a governança de dados institucionais na SEAD;<br>
+II - prover mecanismos, padrões e processos para a governança de dados institucionais na SEAD;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-III - gerir os dados mestres, os _data marts_ e o catálogo de dados sob a responsabilidade da SEAD, para garantir qualidade, integridade e rastreabilidade das informações;<br>
+III - gerir os dados mestres, os _data marts_ e o catálogo de dados sob a responsabilidade da SEAD, para garantir qualidade, integridade e rastreabilidade das informações;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-IV - integrar os dados institucionais ao repositório estadual de grandes volumes de dados (_Big Data_ Estadual), em conformidade com as diretrizes de governança de dados do Estado de Goiás; e<br>
+IV - integrar os dados institucionais ao repositório estadual de grandes volumes de dados (_Big Data_ Estadual), em conformidade com as diretrizes de governança de dados do Estado de Goiás; e
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
-V - encarregar-se de competências correlatas.<br>
+V - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). (Efeitos a partir de 1º-9-2026).
 
 CAPÍTULO III
@@ -2630,22 +2686,28 @@ III – Gerência do Escritório de Processos; e
 
 IV – Gerência de Avaliação da Gestão e dos Serviços Públicos.
 
-V - Coordenação de Transformação de Serviços, com as seguintes competências:<br>
+V - Coordenação de Transformação de Serviços, com as seguintes competências:
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-a) pesquisar experiências de usuários sobre determinado serviço em outros entes, esferas e Poderes;<br>
+a) pesquisar experiências de usuários sobre determinado serviço em outros entes, esferas e Poderes;
+
 \- [Acrescida pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-b) identificar e interagir com cidadãos, empresas e servidores públicos para o mapeamento e a validação da experiência do usuário dos serviços públicos;<br>
+b) identificar e interagir com cidadãos, empresas e servidores públicos para o mapeamento e a validação da experiência do usuário dos serviços públicos;
+
 \- [Acrescida pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-c) enumerar e validar os benefícios da transformação da experiência do usuário dos serviços públicos;<br>
+c) enumerar e validar os benefícios da transformação da experiência do usuário dos serviços públicos;
+
 \- [Acrescida pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-d) apoiar as ações de transformação e simplificação pública; e<br>
+d) apoiar as ações de transformação e simplificação pública; e
+
 \- [Acrescida pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-e) encarregar-se de competências correlatas.<br>
+e) encarregar-se de competências correlatas.
+
 \- [Acrescida pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 Subseção I
@@ -2706,19 +2768,24 @@ VIII – gerir a jornada do cidadão, a jornada do servidor público e as jornad
 
 IX – encarregar-se de competências correlatas.
 
-~~Parágrafo único. Além das competências constantes do _caput_ deste artigo, a Gerência de Experiência do Usuário organiza, coordena e supervisiona a Coordenação de Inovação de Serviços, e esta tem as seguintes competências:~~<br>
+~~Parágrafo único. Além das competências constantes do _caput_ deste artigo, a Gerência de Experiência do Usuário organiza, coordena e supervisiona a Coordenação de Inovação de Serviços, e esta tem as seguintes competências:~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, e. 
 
-~~I – pesquisar experiências de usuários sobre determinado serviço em outros entes, esferas e Poderes;~~<br>
+~~I – pesquisar experiências de usuários sobre determinado serviço em outros entes, esferas e Poderes;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, e. 
 
-~~II – identificar e interagir com cidadãos, empresas e servidores públicos para o mapeamento e a validação da experiência do usuário dos serviços públicos;~~<br>
+~~II – identificar e interagir com cidadãos, empresas e servidores públicos para o mapeamento e a validação da experiência do usuário dos serviços públicos;~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, e. 
 
-~~III – enumerar e validar os benefícios da transformação da experiência do usuário dos serviços públicos; e~~<br>
+~~III – enumerar e validar os benefícios da transformação da experiência do usuário dos serviços públicos; e~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, e. 
 
-~~IV – encarregar-se de competências correlatas.~~<br>
+~~IV – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628), art. 6º, II, e. 
 
 Subseção III
@@ -2975,7 +3042,8 @@ I – Coordenação de Atendimento; e
 
 II – Supervisão de Atendimento.
 
-III - Coordenação de Avaliação de Perfil e Treinamento.<br>
+III - Coordenação de Avaliação de Perfil e Treinamento.
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 § 2º Compete à Coordenação de Atendimento:
@@ -3050,37 +3118,48 @@ XVII – zelar pelo funcionamento, pela organização e pela manutenção das co
 
 XVIII – encarregar-se de competências correlatas.
 
-§ 4º  Compete à Coordenação de Avaliação de Perfil e Treinamento:<br>
+§ 4º  Compete à Coordenação de Avaliação de Perfil e Treinamento:
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-I - coordenar e executar os processos de avaliação de perfil de candidatos à atuação nas unidades de atendimento do EXPRESSO, com entrevistas, avaliações práticas, testes de informática e demais instrumentos técnicos para a aferição de competências comportamentais, técnicas e operacionais;<br>
+I - coordenar e executar os processos de avaliação de perfil de candidatos à atuação nas unidades de atendimento do EXPRESSO, com entrevistas, avaliações práticas, testes de informática e demais instrumentos técnicos para a aferição de competências comportamentais, técnicas e operacionais;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-II - planejar, promover, executar e acompanhar ações de capacitação inicial e continuada dos atendentes das unidades do EXPRESSO, inclusive treinamentos, orientações técnicas e suportes operacionais relativos à utilização dos serviços presenciais, digitais e das demais ferramentas de apoio ao atendimento ao cidadão;<br>
+II - planejar, promover, executar e acompanhar ações de capacitação inicial e continuada dos atendentes das unidades do EXPRESSO, inclusive treinamentos, orientações técnicas e suportes operacionais relativos à utilização dos serviços presenciais, digitais e das demais ferramentas de apoio ao atendimento ao cidadão;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-III - realizar a gestão operacional do atendimento nas unidades do Expresso Balcão, para prestar suporte técnico remoto, acompanhar fluxos, rotinas, indicadores de desempenho e procedimentos operacionais, bem como identificar, analisar e propor soluções para demandas, inconsistências sistêmicas e situações que impactem a qualidade, a eficiência e a continuidade dos serviços prestados ao cidadão;<br>
+III - realizar a gestão operacional do atendimento nas unidades do Expresso Balcão, para prestar suporte técnico remoto, acompanhar fluxos, rotinas, indicadores de desempenho e procedimentos operacionais, bem como identificar, analisar e propor soluções para demandas, inconsistências sistêmicas e situações que impactem a qualidade, a eficiência e a continuidade dos serviços prestados ao cidadão;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-IV - articular, solicitar e acompanhar, nos órgãos e nas entidades parceiras, especialmente na Secretaria de Estado da Segurança Pública, por meio da Superintendência de Identificação Humana, a realização de treinamentos específicos necessários à habilitação dos atendentes para a prestação de serviços especializados, inclusive a emissão da Carteira de Identidade Nacional;<br>
+IV - articular, solicitar e acompanhar, nos órgãos e nas entidades parceiras, especialmente na Secretaria de Estado da Segurança Pública, por meio da Superintendência de Identificação Humana, a realização de treinamentos específicos necessários à habilitação dos atendentes para a prestação de serviços especializados, inclusive a emissão da Carteira de Identidade Nacional;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-V - solicitar, monitorar, orientar e prestar suporte para a utilização do Sistema Integrado de Gestão do Atendimento ao Cidadão - SIGAC e assegurar sua adequada operacionalização para a gestão, o controle, o monitoramento e o acompanhamento dos atendimentos realizados;<br>
+V - solicitar, monitorar, orientar e prestar suporte para a utilização do Sistema Integrado de Gestão do Atendimento ao Cidadão - SIGAC e assegurar sua adequada operacionalização para a gestão, o controle, o monitoramento e o acompanhamento dos atendimentos realizados;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-VI - acompanhar, orientar e apoiar as unidades de atendimento quanto aos processos de avaliação da satisfação do cidadão, em articulação com a Gerência de Avaliação da Gestão e dos Serviços Públicos, vinculada à Superintendência Central de Transformação Pública;<br>
+VI - acompanhar, orientar e apoiar as unidades de atendimento quanto aos processos de avaliação da satisfação do cidadão, em articulação com a Gerência de Avaliação da Gestão e dos Serviços Públicos, vinculada à Superintendência Central de Transformação Pública;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-VII - prestar suporte técnico à Gerência de Relacionamento com Municípios e Parceiros em ações relacionadas à implantação, à expansão, à manutenção, ao fortalecimento e ao acompanhamento da rede de atendimento do EXPRESSO;<br>
+VII - prestar suporte técnico à Gerência de Relacionamento com Municípios e Parceiros em ações relacionadas à implantação, à expansão, à manutenção, ao fortalecimento e ao acompanhamento da rede de atendimento do EXPRESSO;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-VIII - realizar visitas técnicas às unidades de atendimento e aos municípios, quando for demandado pela gestão, para o diagnóstico, a orientação, a supervisão, o acompanhamento operacional e o suporte institucional;<br>
+VIII - realizar visitas técnicas às unidades de atendimento e aos municípios, quando for demandado pela gestão, para o diagnóstico, a orientação, a supervisão, o acompanhamento operacional e o suporte institucional;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-IX - subsidiar a gestão com informações técnicas, relatórios gerenciais, análises operacionais e propostas de melhoria relacionadas à capacitação, ao desempenho das unidades e à qualidade do atendimento, para contribuir na tomada de decisões e no aprimoramento contínuo dos serviços; e<br>
+IX - subsidiar a gestão com informações técnicas, relatórios gerenciais, análises operacionais e propostas de melhoria relacionadas à capacitação, ao desempenho das unidades e à qualidade do atendimento, para contribuir na tomada de decisões e no aprimoramento contínuo dos serviços; e
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-X - encarregar-se de competências correlatas.<br>
+X - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 Subseção III
@@ -3105,7 +3184,8 @@ VI – realizar o acompanhamento das adequações, das mudanças e das implanta�
 
 I – Coordenação de Relacionamento com os Municípios e suas subdivisões; e
 
-II - Coordenação de Negociação e Gestão de Demandas.<br>
+II - Coordenação de Negociação e Gestão de Demandas.
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~II – Coordenação de Contratos e Convênios.~~
@@ -3134,62 +3214,76 @@ X – subsidiar o gerente com informações para a melhor alocação e possívei
 
 XI – encarregar-se de competências correlatas.
 
-§ 3º  Compete à Coordenação de Negociação e Gestão de Demandas:<br>
+§ 3º  Compete à Coordenação de Negociação e Gestão de Demandas:
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~§ 3º Compete à Coordenação de Contratos e Convênios:~~
 
-I - subsidiar o Gerente de Relacionamento com Municípios e Parceiros na promoção de tratativas e negociações com os administradores dos municípios goianos ou empreendedores onde se encontram instalados serviços de atendimento ao cidadão, para ampliar os canais desse atendimento, previstos na Política Estadual de Atendimento ao Cidadão;<br>
+I - subsidiar o Gerente de Relacionamento com Municípios e Parceiros na promoção de tratativas e negociações com os administradores dos municípios goianos ou empreendedores onde se encontram instalados serviços de atendimento ao cidadão, para ampliar os canais desse atendimento, previstos na Política Estadual de Atendimento ao Cidadão;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 ~~I – gerir e executar os contratos, os convênios e os demais ajustes relacionados aos programas Vapt Vupt e EXPRESSO;~~
 
-II - realizar visitas técnicas aos municípios e auxiliar na escolha do local de instalação dos canais de atendimento ao cidadão, previstos na Política Estadual de Atendimento ao Cidadão;<br>
+II - realizar visitas técnicas aos municípios e auxiliar na escolha do local de instalação dos canais de atendimento ao cidadão, previstos na Política Estadual de Atendimento ao Cidadão;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~II – realizar o controle e o acompanhamento dos ajustes firmados relacionados aos programas Vapt Vupt e EXPRESSO;~~
 
-III - instruir o procedimento de formalização dos ajustes decorrentes das negociações, para a inserção das autorizações e dos documentos necessários ao início do acordo, e fazer o acompanhamento da abertura do processo até a sua conclusão;<br>
+III - instruir o procedimento de formalização dos ajustes decorrentes das negociações, para a inserção das autorizações e dos documentos necessários ao início do acordo, e fazer o acompanhamento da abertura do processo até a sua conclusão;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~III – elaborar relatórios gerenciais e criar indicadores para o acompanhamento da gestão dos contratos e dos convênios indicados no inciso I deste artigo, com subsídios à tomada de decisões;~~
 
-IV - subsidiar a área competente de gestão de contratos, convênios, termos de cooperação e demais instrumentos jurídicos com as informações e documentos necessários à inauguração dos processos de formalização, alteração e prorrogação dos ajustes;<br>
+IV - subsidiar a área competente de gestão de contratos, convênios, termos de cooperação e demais instrumentos jurídicos com as informações e documentos necessários à inauguração dos processos de formalização, alteração e prorrogação dos ajustes;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
 ~~IV – indicar servidores para exercer as funções de gestor e suplente para os contratos e os convênios firmados;~~
 
-V - acompanhar e apoiar tecnicamente os processos de renovação, ampliação, transferência ou encerramento de unidades e parcerias, para apresentar análises de viabilidade técnica, operacional e estratégica;<br>
+V - acompanhar e apoiar tecnicamente os processos de renovação, ampliação, transferência ou encerramento de unidades e parcerias, para apresentar análises de viabilidade técnica, operacional e estratégica;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~V – promover a avaliação e a formação contínua dos servidores indicados no inciso IV deste artigo;~~
 
-VI - supervisionar as solicitações registradas na Plataforma de Gestão Estratégica de Serviços - Agiliza, para verificar o correto encaminhamento às áreas responsáveis e garantir o acompanhamento até a completa execução;<br>
+VI - supervisionar as solicitações registradas na Plataforma de Gestão Estratégica de Serviços - Agiliza, para verificar o correto encaminhamento às áreas responsáveis e garantir o acompanhamento até a completa execução;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~VI – elaborar atos para a formalização dos contratos, dos convênios e dos demais ajustes pela área competente; e~~
 
-VII - monitorar sistematicamente as demandas em andamento no Agiliza, para assegurar a atuação da equipe de suporte no monitoramento e na interlocução das áreas responsáveis, a fim da efetiva resolução dos problemas;<br>
+VII - monitorar sistematicamente as demandas em andamento no Agiliza, para assegurar a atuação da equipe de suporte no monitoramento e na interlocução das áreas responsáveis, a fim da efetiva resolução dos problemas;
+
 \- [Redação dada pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 ~~VII – encarregar-se de competências correlatas.~~
 
-VIII - promover o escalonamento de demandas críticas ou não resolvidas às instâncias superiores, inclusive por meio de comunicação formal à Superintendência de Gestão do Atendimento ao Cidadão - SGAC, quando for necessário;<br>
+VIII - promover o escalonamento de demandas críticas ou não resolvidas às instâncias superiores, inclusive por meio de comunicação formal à Superintendência de Gestão do Atendimento ao Cidadão - SGAC, quando for necessário;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-IX - acompanhar a evolução dos chamados no Agiliza, para elaborar relatórios gerenciais, indicadores de desempenho e análises de recorrência e subsidiar a tomada de decisões;<br>
+IX - acompanhar a evolução dos chamados no Agiliza, para elaborar relatórios gerenciais, indicadores de desempenho e análises de recorrência e subsidiar a tomada de decisões;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-X - manter o registro e o controle das demandas institucionais relacionadas à implantação, ao funcionamento e à manutenção das unidades de atendimento, para assegurar a rastreabilidade e a transparência das ações;<br>
+X - manter o registro e o controle das demandas institucionais relacionadas à implantação, ao funcionamento e à manutenção das unidades de atendimento, para assegurar a rastreabilidade e a transparência das ações;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-XI - atuar na padronização dos procedimentos relacionados à negociação e à gestão de demandas, para o alinhamento entre as unidades e as áreas envolvidas;<br>
+XI - atuar na padronização dos procedimentos relacionados à negociação e à gestão de demandas, para o alinhamento entre as unidades e as áreas envolvidas;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628). 
 
-XII - prestar suporte técnico às Unidades Vapt Vupt para a adequada formalização e acompanhamento de demandas no Agiliza;<br>
+XII - prestar suporte técnico às Unidades Vapt Vupt para a adequada formalização e acompanhamento de demandas no Agiliza;
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
-XIII - encarregar-se de competências correlatas.<br>
+XIII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.974, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116628).
 
 Subseção IV
@@ -3236,10 +3330,12 @@ II – Superintendência Central de Logística e Patrimônio Mobiliário; e
 
 III – Superintendência Central de Compras e Contratos.
 
-IV – Superintendência de Governança da Gestão das Transferências Voluntárias.<br>
+IV – Superintendência de Governança da Gestão das Transferências Voluntárias.
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Parágrafo único. Compete ainda à Subsecretaria de Logística e Patrimônio a coordenação, a supervisão e a formulação das políticas e das estratégias de logística, patrimônio mobiliário e imobiliário, compras, contratos e transferências voluntárias.<br>
+Parágrafo único. Compete ainda à Subsecretaria de Logística e Patrimônio a coordenação, a supervisão e a formulação das políticas e das estratégias de logística, patrimônio mobiliário e imobiliário, compras, contratos e transferências voluntárias.
+
 \- [Redação dada pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
 ~~Parágrafo único. Compete ainda à Subsecretaria de Logística e Patrimônio a coordenação, a supervisão e a formulação das políticas e das estratégias de logística, patrimônio mobiliário e imobiliário, compras e contratos.~~
@@ -3738,307 +3834,406 @@ VII – encarregar-se de competências correlatas.
 
 Seção IV
 
-**Da Superintendência de Governança da Gestão das Transferências Voluntárias**<br>
+**Da Superintendência de Governança da Gestão das Transferências Voluntárias**
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Art. 97-A.  Compete à Superintendência de Governança da Gestão das Transferências Voluntárias:<br>
+Art. 97-A.  Compete à Superintendência de Governança da Gestão das Transferências Voluntárias:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-I - exercer a função de unidade central de coordenação, planejamento, gestão e supervisão da execução e da prestação de contas das transferências voluntárias de recursos estaduais concedidos a outros entes federados e entidades do setor privado, no âmbito do Poder Executivo estadual, inclusive repasses fundo a fundo, convênios, termos de colaboração, termos de fomento, termos de cooperação, acordos de cooperação técnica e financeira, repasses de recursos financeiros por alcance de metas, termos de adesão e instrumentos congêneres;<br>
+I - exercer a função de unidade central de coordenação, planejamento, gestão e supervisão da execução e da prestação de contas das transferências voluntárias de recursos estaduais concedidos a outros entes federados e entidades do setor privado, no âmbito do Poder Executivo estadual, inclusive repasses fundo a fundo, convênios, termos de colaboração, termos de fomento, termos de cooperação, acordos de cooperação técnica e financeira, repasses de recursos financeiros por alcance de metas, termos de adesão e instrumentos congêneres;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-II - coordenar, orientar e supervisionar a execução das atividades relacionadas às transferências voluntárias, em arranjo colaborativo com órgãos e sistemas correlatos;<br>
+II - coordenar, orientar e supervisionar a execução das atividades relacionadas às transferências voluntárias, em arranjo colaborativo com órgãos e sistemas correlatos;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-III - coordenar mecanismos de liderança, estratégia, governança e controles para promover a eficiência e a integridade das transferências voluntárias;<br>
+III - coordenar mecanismos de liderança, estratégia, governança e controles para promover a eficiência e a integridade das transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-IV - estabelecer diretrizes e critérios para a autorização e a formalização de transferências voluntárias processadas pelas unidades setoriais dos órgãos e das entidades da administração pública estadual;<br>
+IV - estabelecer diretrizes e critérios para a autorização e a formalização de transferências voluntárias processadas pelas unidades setoriais dos órgãos e das entidades da administração pública estadual;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-V - aprimorar a política de relacionamento com os convenentes e os parceiros, em busca da inovação e da prospecção de soluções que maximizem a efetividade e o impacto social das transferências voluntárias;<br>
+V - aprimorar a política de relacionamento com os convenentes e os parceiros, em busca da inovação e da prospecção de soluções que maximizem a efetividade e o impacto social das transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VI - coordenar e supervisionar os sistemas de transferências voluntárias do Estado de Goiás, com seus respectivos módulos e integrações, inclusive a proposta de aprimoramento ou a implementação de novos sistemas informatizados;<br>
+VI - coordenar e supervisionar os sistemas de transferências voluntárias do Estado de Goiás, com seus respectivos módulos e integrações, inclusive a proposta de aprimoramento ou a implementação de novos sistemas informatizados;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VII - coordenar, supervisionar e manter o Cadastro de Regularidade de Convenentes e Parceiros do Estado de Goiás - CRCP/GO, ou sistema similar de registro de entidades aptas a receberem transferências voluntárias, para assegurar a transparência e a atualização de informações sobre sua adimplência e sua capacidade;<br>
+VII - coordenar, supervisionar e manter o Cadastro de Regularidade de Convenentes e Parceiros do Estado de Goiás - CRCP/GO, ou sistema similar de registro de entidades aptas a receberem transferências voluntárias, para assegurar a transparência e a atualização de informações sobre sua adimplência e sua capacidade;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VIII - consolidar as informações e acompanhar os indicadores estratégicos relacionados às transferências voluntárias, para subsidiar a tomada de decisão e a transparência;<br>
+VIII - consolidar as informações e acompanhar os indicadores estratégicos relacionados às transferências voluntárias, para subsidiar a tomada de decisão e a transparência;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-IX - sugerir ao Secretário de Estado da Administração que represente aos órgãos de controle situações de descumprimento de prazos de prestação de contas ou conclusões de processos de tomada de contas especial quando as irregularidades não forem sanadas pelas unidades setoriais ou convenentes;<br>
+IX - sugerir ao Secretário de Estado da Administração que represente aos órgãos de controle situações de descumprimento de prazos de prestação de contas ou conclusões de processos de tomada de contas especial quando as irregularidades não forem sanadas pelas unidades setoriais ou convenentes;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-X - propor ao Secretário de Estado da Administração a edição de atos normativos complementares e orientações técnicas relativos às transferências voluntárias;<br>
+X - propor ao Secretário de Estado da Administração a edição de atos normativos complementares e orientações técnicas relativos às transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-XI - prestar orientação técnica, capacitação e apoio às comissões intersetoriais responsáveis pelo arquivamento de processos de prestação de contas e tomadas de contas especiais de convênios e instrumentos congêneres; e<br>
+XI - prestar orientação técnica, capacitação e apoio às comissões intersetoriais responsáveis pelo arquivamento de processos de prestação de contas e tomadas de contas especiais de convênios e instrumentos congêneres; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-XII - encarregar-se de competências correlatas.<br>
+XII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Parágrafo único.  Além das competências constantes do _caput_ deste artigo, a Superintendência de Governança da Gestão das Transferências Voluntárias organiza, coordena e supervisiona as seguintes unidades:<br>
+Parágrafo único.  Além das competências constantes do _caput_ deste artigo, a Superintendência de Governança da Gestão das Transferências Voluntárias organiza, coordena e supervisiona as seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-I - Gerência de Governança das Transferências Voluntárias;<br>
+I - Gerência de Governança das Transferências Voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-II - Gerência de Normatização das Transferências Voluntárias; e<br>
+II - Gerência de Normatização das Transferências Voluntárias; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-III - Gerência de Gestão do Sistema das Transferências Voluntárias.<br>
+III - Gerência de Gestão do Sistema das Transferências Voluntárias.
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
 Subseção I
 
-**Da Gerência de Governança das Transferências Voluntárias<br>
+**Da Gerência de Governança das Transferências Voluntárias
+
 **\- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Art. 97-B.  Compete à Gerência de Governança das Transferências Voluntárias:<br>
+Art. 97-B.  Compete à Gerência de Governança das Transferências Voluntárias:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-I - planejar, coordenar e monitorar práticas de governança institucional, para assegurar alinhamento estratégico, integridade, gestão de riscos e melhoria da gestão pública relacionados às transferências voluntárias;<br>
+I - planejar, coordenar e monitorar práticas de governança institucional, para assegurar alinhamento estratégico, integridade, gestão de riscos e melhoria da gestão pública relacionados às transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-II - definir indicadores e pontos de controle para o monitoramento e o aprimoramento contínuo da eficiência, da eficácia e da governança das transferências voluntárias;<br>
+II - definir indicadores e pontos de controle para o monitoramento e o aprimoramento contínuo da eficiência, da eficácia e da governança das transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-III - definir procedimentos e critérios de avaliação de desempenho para os convenentes e os parceiros na execução dos ajustes;<br>
+III - definir procedimentos e critérios de avaliação de desempenho para os convenentes e os parceiros na execução dos ajustes;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-IV - definir procedimentos e critérios de avaliação e homologação de desempenho para os órgãos e as entidades concedentes na análise das prestações de contas;<br>
+IV - definir procedimentos e critérios de avaliação e homologação de desempenho para os órgãos e as entidades concedentes na análise das prestações de contas;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-V - definir procedimentos e critérios de desempenho para órgãos e entidades concedentes na gestão e na avaliação das tomadas de contas especiais;<br>
+V - definir procedimentos e critérios de desempenho para órgãos e entidades concedentes na gestão e na avaliação das tomadas de contas especiais;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VI - definir parâmetros, regras e requisitos funcionais para a concepção, o desenvolvimento e a implementação dos sistemas informatizados de transferências voluntárias, em alinhamento com as melhores práticas e a legislação pertinente;<br>
+VI - definir parâmetros, regras e requisitos funcionais para a concepção, o desenvolvimento e a implementação dos sistemas informatizados de transferências voluntárias, em alinhamento com as melhores práticas e a legislação pertinente;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VII - propor melhorias contínuas nos sistemas informatizados e nas integrações de dados relacionadas ao planejamento, à gestão, ao monitoramento e ao controle das transferências voluntárias; e<br>
+VII - propor melhorias contínuas nos sistemas informatizados e nas integrações de dados relacionadas ao planejamento, à gestão, ao monitoramento e ao controle das transferências voluntárias; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VIII - encarregar-se de competências correlatas.<br>
+VIII - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Parágrafo único.  Além das competências constantes do _caput_ deste artigo, competem à Gerência de Governança das Transferências Voluntárias a organização, a coordenação e a supervisão das seguintes unidades:<br>
+Parágrafo único.  Além das competências constantes do _caput_ deste artigo, competem à Gerência de Governança das Transferências Voluntárias a organização, a coordenação e a supervisão das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-I - Coordenação de Monitoramento das Transferências Voluntárias, à qual compete:<br>
+I - Coordenação de Monitoramento das Transferências Voluntárias, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-a) monitorar indicadores estratégicos relacionados às transferências voluntárias;<br>
+a) monitorar indicadores estratégicos relacionados às transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-b) acompanhar a execução física e financeira dos instrumentos celebrados;<br>
+b) acompanhar a execução física e financeira dos instrumentos celebrados;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-c) consolidar informações gerenciais relativas às transferências voluntárias;<br>
+c) consolidar informações gerenciais relativas às transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-d) apoiar a elaboração de relatórios, painéis gerenciais e instrumentos de monitoramento;<br>
+d) apoiar a elaboração de relatórios, painéis gerenciais e instrumentos de monitoramento;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-e) acompanhar metas, prazos e indicadores institucionais relacionados às transferências voluntárias; e<br>
+e) acompanhar metas, prazos e indicadores institucionais relacionados às transferências voluntárias; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-f) encarregar-se de competências correlatas; e<br>
+f) encarregar-se de competências correlatas; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-II - Coordenação de Acompanhamento de Prestação de Contas e Tomadas de Contas Especiais, à qual compete:<br>
+II - Coordenação de Acompanhamento de Prestação de Contas e Tomadas de Contas Especiais, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-a) acompanhar prazos de prestação de contas dos instrumentos de transferências voluntárias;<br>
+a) acompanhar prazos de prestação de contas dos instrumentos de transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-b) monitorar passivos relacionados às prestações de contas;<br>
+b) monitorar passivos relacionados às prestações de contas;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-c) acompanhar informações relativas às tomadas de contas especiais;<br>
+c) acompanhar informações relativas às tomadas de contas especiais;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-d) apoiar a elaboração de relatórios técnicos e gerenciais relacionados à inadimplência e à regularidade dos convenentes;<br>
+d) apoiar a elaboração de relatórios técnicos e gerenciais relacionados à inadimplência e à regularidade dos convenentes;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-e) prestar apoio técnico às unidades responsáveis pela análise e pelo acompanhamento das prestações de contas; e<br>
+e) prestar apoio técnico às unidades responsáveis pela análise e pelo acompanhamento das prestações de contas; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-f) encarregar-se de competências correlatas.<br>
+f) encarregar-se de competências correlatas.
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
 Subseção II
 
-**Da Gerência de Normatização das Transferências Voluntárias**<br>
+**Da Gerência de Normatização das Transferências Voluntárias**
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Art. 97-C.  Compete à Gerência de Normatização das Transferências Voluntárias:<br>
+Art. 97-C.  Compete à Gerência de Normatização das Transferências Voluntárias:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-I - propor padrões, procedimentos e diretrizes, elaborar, revisar e consolidar atos normativos a serem adotados por todos os órgãos e as entidades do Poder Executivo estadual para o planejamento, a celebração e a gestão da execução e da prestação de contas de transferências voluntárias;<br>
+I - propor padrões, procedimentos e diretrizes, elaborar, revisar e consolidar atos normativos a serem adotados por todos os órgãos e as entidades do Poder Executivo estadual para o planejamento, a celebração e a gestão da execução e da prestação de contas de transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-II - promover a sistematização e a organização do acervo normativo institucional relacionado às transferências voluntárias;<br>
+II - promover a sistematização e a organização do acervo normativo institucional relacionado às transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-III - avaliar a compatibilidade e a conformidade dos atos normativos com a legislação vigente;<br>
+III - avaliar a compatibilidade e a conformidade dos atos normativos com a legislação vigente;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-IV - propor a simplificação, a consolidação e a desburocratização de normas internas relacionadas às transferências voluntárias;<br>
+IV - propor a simplificação, a consolidação e a desburocratização de normas internas relacionadas às transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-V - manter repositório atualizado de normas internas e instrumentos de padronização institucional relacionados às transferências voluntárias;<br>
+V - manter repositório atualizado de normas internas e instrumentos de padronização institucional relacionados às transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VI - monitorar a necessidade de revisão ou revogação de normas internas atinentes às transferências voluntárias;<br>
+VI - monitorar a necessidade de revisão ou revogação de normas internas atinentes às transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VII - promover a harmonização entre os atos normativos internos e as diretrizes institucionais;<br>
+VII - promover a harmonização entre os atos normativos internos e as diretrizes institucionais;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VIII - apoiar iniciativas de melhoria regulatória e racionalização administrativa; e<br>
+VIII - apoiar iniciativas de melhoria regulatória e racionalização administrativa; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-IX - subsidiar o sistema de contabilidade com informações sobre transferências voluntárias para a prestação de contas do Governador e dos gestores de maneira estruturada e integrada.<br>
+IX - subsidiar o sistema de contabilidade com informações sobre transferências voluntárias para a prestação de contas do Governador e dos gestores de maneira estruturada e integrada.
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Parágrafo único.  Além das competências constantes do _caput_ deste artigo, competem à Gerência de Normatização das Transferências Voluntárias a organização, a coordenação e a supervisão das seguintes unidades:<br>
+Parágrafo único.  Além das competências constantes do _caput_ deste artigo, competem à Gerência de Normatização das Transferências Voluntárias a organização, a coordenação e a supervisão das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-I - Coordenação de Interlocução Institucional, à qual compete:<br>
+I - Coordenação de Interlocução Institucional, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-a) promover articulação institucional com órgãos e entidades envolvidos na gestão das transferências voluntárias;<br>
+a) promover articulação institucional com órgãos e entidades envolvidos na gestão das transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-b) apoiar ações de integração institucional relacionadas às transferências voluntárias;<br>
+b) apoiar ações de integração institucional relacionadas às transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-c) acompanhar demandas e deliberações de órgãos de controle relacionadas às transferências voluntárias;<br>
+c) acompanhar demandas e deliberações de órgãos de controle relacionadas às transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-d) apoiar ações de capacitação e disseminação de orientações técnicas;<br>
+d) apoiar ações de capacitação e disseminação de orientações técnicas;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-e) subsidiar de forma estruturada e integrada o sistema de contabilidade com informações sobre transferências voluntárias para a composição do relatório de prestação de contas do Governador e dos gestores; e<br>
+e) subsidiar de forma estruturada e integrada o sistema de contabilidade com informações sobre transferências voluntárias para a composição do relatório de prestação de contas do Governador e dos gestores; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-f) encarregar-se de competências correlatas; e<br>
+f) encarregar-se de competências correlatas; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-II - Coordenação de Normatização, à qual compete:<br>
+II - Coordenação de Normatização, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-a) apoiar a elaboração, a revisão e a consolidação de normas e orientações técnicas;<br>
+a) apoiar a elaboração, a revisão e a consolidação de normas e orientações técnicas;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-b) auxiliar na padronização de procedimentos relacionados às transferências voluntárias;<br>
+b) auxiliar na padronização de procedimentos relacionados às transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-c) organizar e manter atualizado o repositório normativo relacionado às transferências voluntárias;<br>
+c) organizar e manter atualizado o repositório normativo relacionado às transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-d) apoiar iniciativas de racionalização e simplificação normativa; e<br>
+d) apoiar iniciativas de racionalização e simplificação normativa; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-e) encarregar-se de competências correlatas.<br>
+e) encarregar-se de competências correlatas.
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
 Subseção III
 
-**Da Gerência de Gestão do Sistema das Transferências Voluntárias**<br>
+**Da Gerência de Gestão do Sistema das Transferências Voluntárias**
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Art. 97-D.  Compete à Gerência de Gestão do Sistema das Transferências Voluntárias:<br>
+Art. 97-D.  Compete à Gerência de Gestão do Sistema das Transferências Voluntárias:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-I - gerir e manter o CRCP/GO, ou sistema similar, bem como zelar pela integridade dele;<br>
+I - gerir e manter o CRCP/GO, ou sistema similar, bem como zelar pela integridade dele;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-II - realizar o registro e a atualização dos dados dos convenentes e dos parceiros no CRCP/GO, após a homologação da elegibilidade pelos órgãos e pelas entidades concedentes, conforme as diretrizes da superintendência;<br>
+II - realizar o registro e a atualização dos dados dos convenentes e dos parceiros no CRCP/GO, após a homologação da elegibilidade pelos órgãos e pelas entidades concedentes, conforme as diretrizes da superintendência;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-III - manter atualizadas as informações relativas à comprovação de regularidade quanto à aplicação dos recursos financeiros anteriormente repassados pela administração estadual direta e indireta;<br>
+III - manter atualizadas as informações relativas à comprovação de regularidade quanto à aplicação dos recursos financeiros anteriormente repassados pela administração estadual direta e indireta;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-IV - emitir o Certificado de Adimplência do convenente e do parceiro, quando couber, relativo aos instrumentos celebrados no âmbito do Poder Executivo estadual, com base nas informações constantes do CRCP/GO e nos registros oficiais de regularidade;<br>
+IV - emitir o Certificado de Adimplência do convenente e do parceiro, quando couber, relativo aos instrumentos celebrados no âmbito do Poder Executivo estadual, com base nas informações constantes do CRCP/GO e nos registros oficiais de regularidade;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-V - gerenciar e manter o repositório centralizado de dados históricos de todas as transferências voluntárias realizadas pelo Poder Executivo estadual, para assegurar a organização, a integridade, a segurança e a acessibilidade dessas informações para consulta, análise, auditoria e memória institucional;<br>
+V - gerenciar e manter o repositório centralizado de dados históricos de todas as transferências voluntárias realizadas pelo Poder Executivo estadual, para assegurar a organização, a integridade, a segurança e a acessibilidade dessas informações para consulta, análise, auditoria e memória institucional;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VI - oferecer apoio técnico e suporte aos órgãos e às entidades responsáveis pelas transferências voluntárias quanto ao uso e à atualização do CRCP/GO e dos demais módulos do sistema;<br>
+VI - oferecer apoio técnico e suporte aos órgãos e às entidades responsáveis pelas transferências voluntárias quanto ao uso e à atualização do CRCP/GO e dos demais módulos do sistema;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VII - gerir os perfis, os acessos e a segurança da informação no Sistema de Gestão das Transferências Voluntárias;<br>
+VII - gerir os perfis, os acessos e a segurança da informação no Sistema de Gestão das Transferências Voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VIII - apoiar a implementação, a capacitação e a disseminação de conhecimento para o uso das plataformas de gestão das transferências voluntárias pelos órgãos e pelas entidades estaduais;<br>
+VIII - apoiar a implementação, a capacitação e a disseminação de conhecimento para o uso das plataformas de gestão das transferências voluntárias pelos órgãos e pelas entidades estaduais;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-IX - participar das ações de desenvolvimento, manutenção e suporte técnico das plataformas de tecnologia da informação e da comunicação de apoio às transferências voluntárias;<br>
+IX - participar das ações de desenvolvimento, manutenção e suporte técnico das plataformas de tecnologia da informação e da comunicação de apoio às transferências voluntárias;
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-X - desenvolver e manter painéis de controle e _dashboards_ que permitam ao ordenador de despesas, aos parlamentares e aos órgãos de controle o conhecimento do conjunto das transferências voluntárias de sua responsabilidade e suas principais características, _status_ e indicadores; e<br>
+X - desenvolver e manter painéis de controle e _dashboards_ que permitam ao ordenador de despesas, aos parlamentares e aos órgãos de controle o conhecimento do conjunto das transferências voluntárias de sua responsabilidade e suas principais características, _status_ e indicadores; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-XI - encarregar-se de competências correlatas.<br>
+XI - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-Parágrafo único.  Além das competências constantes do _caput_ deste artigo, competem à Gerência de Gestão do Sistema das Transferências Voluntárias a organização, a coordenação e a supervisão das seguintes unidades:<br>
+Parágrafo único.  Além das competências constantes do _caput_ deste artigo, competem à Gerência de Gestão do Sistema das Transferências Voluntárias a organização, a coordenação e a supervisão das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-I - Coordenação Técnica das Transferências Voluntárias, à qual compete:<br>
+I - Coordenação Técnica das Transferências Voluntárias, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-a) prestar suporte técnico aos órgãos e às entidades quanto à utilização das plataformas de gestão das transferências voluntárias;<br>
+a) prestar suporte técnico aos órgãos e às entidades quanto à utilização das plataformas de gestão das transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-b) apoiar a implementação, a manutenção e o aprimoramento das ferramentas tecnológicas relacionadas às transferências voluntárias;<br>
+b) apoiar a implementação, a manutenção e o aprimoramento das ferramentas tecnológicas relacionadas às transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-c) apoiar a gestão de acessos, perfis e segurança das plataformas de gestão;<br>
+c) apoiar a gestão de acessos, perfis e segurança das plataformas de gestão;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-d) apoiar ações de capacitação e suporte operacional aos usuários;<br>
+d) apoiar ações de capacitação e suporte operacional aos usuários;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-e) promover a padronização das informações e dos critérios de registro nos sistemas de gestão; e<br>
+e) promover a padronização das informações e dos critérios de registro nos sistemas de gestão; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-f) encarregar-se de competências correlatas; e<br>
+f) encarregar-se de competências correlatas; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-II - Coordenação de Gestão da Informação e da Inteligência de Dados, à qual compete:<br>
+II - Coordenação de Gestão da Informação e da Inteligência de Dados, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-a) administrar e monitorar a qualidade, a integridade e a consistência das informações registradas nos sistemas de gestão das transferências voluntárias;<br>
+a) administrar e monitorar a qualidade, a integridade e a consistência das informações registradas nos sistemas de gestão das transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-b) consolidar dados e informações provenientes dos órgãos e das entidades participantes da Rede Estadual de Transferências Voluntárias;<br>
+b) consolidar dados e informações provenientes dos órgãos e das entidades participantes da Rede Estadual de Transferências Voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-c) produzir indicadores, relatórios gerenciais, painéis de monitoramento e informações estratégicas relacionados às transferências voluntárias;<br>
+c) produzir indicadores, relatórios gerenciais, painéis de monitoramento e informações estratégicas relacionados às transferências voluntárias;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-d) apoiar a definição, o acompanhamento e a avaliação de indicadores de desempenho, conformidade, eficiência e gestão de riscos;<br>
+d) apoiar a definição, o acompanhamento e a avaliação de indicadores de desempenho, conformidade, eficiência e gestão de riscos;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-e) monitorar a completude, a tempestividade e a confiabilidade das informações registradas pelos órgãos e pelas entidades;<br>
+e) monitorar a completude, a tempestividade e a confiabilidade das informações registradas pelos órgãos e pelas entidades;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-f) identificar inconsistências, oportunidades de melhoria e necessidades de aperfeiçoamento relacionadas aos dados e às informações gerenciais;<br>
+f) identificar inconsistências, oportunidades de melhoria e necessidades de aperfeiçoamento relacionadas aos dados e às informações gerenciais;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-g) subsidiar a elaboração de relatórios destinados à alta administração, aos órgãos de controle e às instâncias de governança;<br>
+g) subsidiar a elaboração de relatórios destinados à alta administração, aos órgãos de controle e às instâncias de governança;
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-h) apoiar iniciativas de transparência ativa, disponibilização de dados e divulgação de informações gerenciais relacionadas às transferências voluntárias; e<br>
+h) apoiar iniciativas de transparência ativa, disponibilização de dados e divulgação de informações gerenciais relacionadas às transferências voluntárias; e
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-i) encarregar-se de competências correlatas.<br>
+i) encarregar-se de competências correlatas.
+
 \- [Acrescida pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
 TÍTULO VII
@@ -4115,10 +4310,12 @@ V – propor anualmente ao Governador o orçamento do órgão, ressalvado o disp
 
 VI – delegar, por ato expresso aos subordinados, suas atribuições nos limites estabelecidos em lei;
 
-VII – representar aos órgãos de controle situações de descumprimento de prazos de prestação de contas ou conclusões de processos de tomada de contas especial quando as irregularidades não forem sanadas pelas unidades setoriais ou convenentes; e<br>
+VII – representar aos órgãos de controle situações de descumprimento de prazos de prestação de contas ou conclusões de processos de tomada de contas especial quando as irregularidades não forem sanadas pelas unidades setoriais ou convenentes; e
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
-VIII – expedir atos normativos complementares e orientações técnicas relativos à gestão das transferências voluntárias no âmbito do Poder Executivo estadual.<br>
+VIII – expedir atos normativos complementares e orientações técnicas relativos à gestão das transferências voluntárias no âmbito do Poder Executivo estadual.
+
 \- [Acrescido pelo Decreto nº 10.945, de 30-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116002).
 
 Parágrafo único. Competem ainda ao Secretário de Estado da Administração em relação às entidades jurisdicionadas:

@@ -1,5 +1,3 @@
-###DEC-051491-0-000-08-06-1962@@@
-
 DECRETO Nº 51.491, DE 8 DE JUNHO DE 1962.
 
 Suprime cargo extinto.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097751-0-000-15-05-1989@@@
-
 DECRETO N° 97.751, DE 15 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “FAZENDA TIRACANGA e LOGRADOURO”, classificados como “latifúndios por exploração”, situados no Município de Canindé, no Estado do Ceará, compreendidos na zona prioritária, fixada pelo Decreto n° 92.617, de 02 de maio de 1986, e dá outras providencias.

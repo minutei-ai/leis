@@ -1,5 +1,3 @@
-###DEC-070003-0-000-20-01-1972@@@
-
 DECRETO Nº 70.003, de 20 de Janeiro de 1972.
 
 Declara de utilidade pública o Instituto Campineiro dos Cegos Trabalhadores, com sede em Campinas, Estado de São Paulo.

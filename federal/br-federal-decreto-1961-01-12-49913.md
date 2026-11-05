@@ -1,5 +1,3 @@
-###DEC-049913-0-000-12-01-1961@@@
-
 DECRETO Nº 49.913, DE 12 DE JANEIRO DE 1961.
 
 Cria, junto ao Serviço de Radiodifusão Educativa, do Ministério da Educação e Cultura, a Orquestra Sinfônica Nacional (O.S.N.)

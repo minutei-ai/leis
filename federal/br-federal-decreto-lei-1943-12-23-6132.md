@@ -1,5 +1,3 @@
-###DEL-006132-0-000-23-12-1943@@@
-
 DECRETO‑LEI N. 6.132 – DE 23 DE DEZEMBRO DE 1943
 
 Abro ao Ministério da justiça e Negócios Interiores o crédito especial de Cr$ 8.000.000,00, para despesas com a administração do Território do Guaporé e torna sem aplicação igual quantia no orçamento em vigor.

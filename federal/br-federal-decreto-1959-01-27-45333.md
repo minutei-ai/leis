@@ -1,5 +1,3 @@
-###DEC-045333-0-000-27-01-1959@@@
-
 Decreto nº 45.333, de 27 de janeiro de 1959.
 
 Autoriza ao Govêrno do Estado do Paraná a ampliar suas instalações termoelétricas no município de Nova Fátima.

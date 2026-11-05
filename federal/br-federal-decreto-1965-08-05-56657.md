@@ -1,5 +1,3 @@
-###DEC-056657-0-000-05-08-1965@@@
-
 DECRETO Nº 56.657, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza Karol Valicek a comprar pedras preciosas.

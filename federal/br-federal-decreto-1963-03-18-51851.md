@@ -1,5 +1,3 @@
-###DEC-051851-0-000-18-03-1963@@@
-
 DECRETO Nº 51.851, DE 18 DE MARÇO DE 1963.
 
 Concede à “Aktiebolaget Aerotransport ABA” autorização para funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-086993-0-000-08-03-1982@@@
-
 DECRETO Nº 86.993, DE 08 DE MARÇO DE 1982
 
 Concede à USINA SIDERÚRGICA DA BAHIA S.A. - USIBA autorização para proceder a aumento de seu capital autorizado.

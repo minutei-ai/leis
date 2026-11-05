@@ -1,5 +1,3 @@
-###DEC-078723-0-000-12-11-1976@@@
-
 DECRETO Nº 78.723, DE 12 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Direito, da Faculdade de Direito de Teófilo Otoni, com sede na cidade de Teófilo Otoni, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-074213-0-000-24-06-1974@@@
-
 DECRETO Nº 74.213, DE 24 DE JUNHO DE 1974.
 
 Aprova incorporação de empresa de energia elétrica no Estado de São Paulo e dá outras providências.

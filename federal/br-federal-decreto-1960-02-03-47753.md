@@ -1,5 +1,3 @@
-###DEC-047753-0-000-03-02-1960@@@
-
 DECRETO Nº 47. 753 DE 3 DE fevereiro DE 1960.
 
 Modifica o art. 9º do Regimento da Administração do Edifício da Fazenda.

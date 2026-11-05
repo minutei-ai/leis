@@ -1,5 +1,3 @@
-###DEL-007792-0-000-27-07-1945@@@
-
 DECRETO-LEI N. 7.792 – DE 27 DE JULHO DE 1945
 
 Acrescenta um parágrafo ao Decreto-lei nº 4.574, de 12 de agôsto de 1942.

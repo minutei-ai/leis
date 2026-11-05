@@ -1,5 +1,3 @@
-###DEC-003630-0-000-13-10-2000@@@
-
 DECRETO Nº 3.630, DE 13 DE OUTUBRO DE 2000.
 
 Exclui do art. 2º do Decreto nº 3.592, de 6 de setembro de 2000, que institui a hora de verão, em parte do Território Nacional, os Estados que menciona.

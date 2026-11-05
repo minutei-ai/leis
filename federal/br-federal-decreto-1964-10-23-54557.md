@@ -1,5 +1,3 @@
-###DEC-054557-0-000-23-10-1964@@@
-
 DECRETO Nº 54.557, DE 23 DE OUTUBRO DE 1964.
 
 Revoga o Decreto nº 51.500, de 8 de julho de 1962, que autorizou a instalação de uma Delegacia Regional do IAPFESP no Estado de Mato Grosso, com sede em Cuiabá.

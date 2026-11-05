@@ -1,5 +1,3 @@
-###DEL-003456-0-000-24-07-1941@@@
-
 DECRETO-LEI N. 3.456 – DE 24 DE JULHO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 2.000:000$0 para o Serviço Nacional de Malária, e dá outras providências

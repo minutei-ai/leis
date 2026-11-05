@@ -1,5 +1,3 @@
-###DEC-069166-0-000-08-09-1971@@@
-
 DECRETO Nº 69.166, DE 8 DE SETEMBRO DE 1971.
 
 Reconhecimento dos Cursos de Bacharel em Psicologia e de Psicólogos do Instituto de Psicologia do Centro de Filosofia e Ciências Humanas, da Universidade Federal do Rio de Janeiro - GB.

@@ -1,5 +1,3 @@
-###DEC-049448-0-000-06-12-1960@@@
-
 DECRETO Nº 49.448, DE 6 DE DEZEMBRO DE 1960.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário Mensalista de repartições do Ministério da Agricultura, que menciona.

@@ -1,5 +1,3 @@
-###DEC-080030-0-000-27-07-1977@@@
-
 DECRETO Nº 80.030, DE 27 DE JULHO DE 1977
 
 Concede reconhecimento ao curso de Engenharia Florestal, da Faculdade de Ciências Agrárias do Pará, com sede na cidade de Belém, Estado do Pará.

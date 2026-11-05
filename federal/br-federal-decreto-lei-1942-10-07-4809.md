@@ -1,5 +1,3 @@
-###DEL-004809-0-000-07-10-1942@@@
-
 DECRETO-LEI N. 4.809 – DE 7 DE OUTUBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de 49:920$0 à verba que especifica

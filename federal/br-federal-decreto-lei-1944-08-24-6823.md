@@ -1,5 +1,3 @@
-###DEL-006823-0-000-24-08-1944@@@
-
 DECRETO-LEI N. 6.823 – DE 24 DE AGÔSTO DE 1944
 
 Cria uma coletoria federal no município de Itumirim, no Estado de Minas Gerais, e dá outras providências

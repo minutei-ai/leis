@@ -1,5 +1,3 @@
-###DEC-088996-0-000-14-11-1983@@@
-
 decreto nº 88.996, de 14 de novembro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO PANAMERICANA S/A., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Paulo, Estado de São Paulo.

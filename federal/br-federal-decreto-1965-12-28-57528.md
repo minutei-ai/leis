@@ -1,5 +1,3 @@
-###DEC-057528-0-000-28-12-1965@@@
-
 DECRETO Nº 57.528, DE 28 DE DEZEMBRO DE 1965.
 
 Aplica à Companhia Nacional de Navegação Costeira o aumento de que trata a Lei nº 4.863, de 29-11-65.

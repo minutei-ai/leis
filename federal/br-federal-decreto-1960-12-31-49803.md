@@ -1,5 +1,3 @@
-###DEC-049803-0-000-31-12-1960@@@
-
 DECRETO Nº 49.803, DE 31 DE DEZEMBRO DE 1960.
 
 Anula os decretos ns. 10.583, de 7 de outubro de 1943, e nº 22.504, de 22 de janeiro de 1947.

@@ -1,5 +1,3 @@
-###DEC-056321-0-000-21-05-1965@@@
-
 DECRETO Nº 56.321, DE 21 DE MAIO DE 1965.
 
 Autoriza o cidadão brasileiro Antônio da Motta Campos a pesquisar amianto no município do Rio Pomba, Estado de Minas Gerais.

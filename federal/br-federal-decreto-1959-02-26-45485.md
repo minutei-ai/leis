@@ -1,5 +1,3 @@
-###DEC-045485-0-000-26-02-1959@@@
-
 decreto nº 45.485, de 26 de fevereiro de 1959.
 
 Concede à Carbonífera Criciúma Limitada autorização para funcionar como emprêsa de mineração.

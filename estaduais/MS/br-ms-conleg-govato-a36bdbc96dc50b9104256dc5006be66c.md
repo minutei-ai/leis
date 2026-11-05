@@ -6,16 +6,18 @@ Cria funções de confiança no Quadro de Pessoal do Departamento do Sistema Pen
 
 Publicada no Diário Oficial nº 4.326, de 17 de julho de 1996.
 
-**O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL**.<br>
-Faço saber que a Assembléia Legislativa aprova e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Ficam criadas no Quadro de Pessoal do Departamento do Sistema Penitenciário de Mato Grosso do Sul - DSP, para atender à implantação da Penitenciária “Harry Amorim Costa” em Dourados e o Presídio Feminino de Ponta Porá, 2 (duas) funções de confiança, de Diretor de Presídio, símbolo FCS-6 e 2 (duas) funções de confiança de Assessor III, símbolo FCS-6.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação.<br>
-<br>
-Art. 3º Revogam-se as disposições em contrário.<br>
-<br>
-Campo Grande, 16 de julho de 1996.<br>
-<br>
-**WILSON BARBOSA MARTINS**<br>
+**O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL**.
+
+Faço saber que a Assembléia Legislativa aprova e eu sanciono a seguinte Lei:
+
+Art. 1º Ficam criadas no Quadro de Pessoal do Departamento do Sistema Penitenciário de Mato Grosso do Sul - DSP, para atender à implantação da Penitenciária “Harry Amorim Costa” em Dourados e o Presídio Feminino de Ponta Porá, 2 (duas) funções de confiança, de Diretor de Presídio, símbolo FCS-6 e 2 (duas) funções de confiança de Assessor III, símbolo FCS-6.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Campo Grande, 16 de julho de 1996.
+
+**WILSON BARBOSA MARTINS**
+
 Governador

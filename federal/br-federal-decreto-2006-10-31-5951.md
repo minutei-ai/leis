@@ -1,5 +1,3 @@
-###DEC-005951-0-000-31-10-2006@@@
-
 DECRETO Nº 5.951, DE 31 DE OUTUBRO DE 2006.
 
 Dispõe sobre os encargos financeiros das operações realizadas com recursos dos Fundos Constitucionais de Financiamento, de que trata o art. 1o da Lei no 10.177, de 12 de janeiro de 2001.
@@ -53,5 +51,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Pedro Brito do Nascimento
-
-Este texto não substitui o publicado no DOU de 1º.11.2006

@@ -1,5 +1,3 @@
-###DEC-001879-0-000-26-04-1996@@@
-
 DECRETO Nº 1.879, DE 26 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Trigésimo Terceiro Protocolo Adicional ao Acordo Comercial Nº 16, Setor da Indústria Petroquímica, entre Brasil e Venezuela, de 30 de dezembro de 1994.

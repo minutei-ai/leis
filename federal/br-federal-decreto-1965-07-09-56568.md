@@ -1,5 +1,3 @@
-###DEC-056568-0-000-09-07-1965@@@
-
 DECRETO Nº 56.568, DE 9 DE JULHO DE 1965.
 
 Declara de utilidade pública para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

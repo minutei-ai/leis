@@ -32,8 +32,10 @@ Art. 5º - Fica revogada a Lei Municipal nº 3.245, de 23 de dezembro de 2014.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 06 de dezembro de 2017.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

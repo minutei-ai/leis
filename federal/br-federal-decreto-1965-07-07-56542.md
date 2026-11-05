@@ -1,5 +1,3 @@
-###DEC-056542-0-000-07-07-1965@@@
-
 DECRETO Nº 56.542, DE 7 DE JULHO DE 1965.
 
 Autoriza o cidadão brasileiro Sinezio Borges a pesquisar bauxita e argila no município de Poços de Caldas, Estado de Minas Gerais.

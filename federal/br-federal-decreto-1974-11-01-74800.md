@@ -1,5 +1,3 @@
-###DEC-074800-0-000-01-11-1974@@@
-
 DECRETO Nº 74.800, DE 1 DE NOVEMBRO DE 1974.
 
 Autoriza o funcionamento da modalidade Metalurgia no Curso de Engenharia de Operações da Faculdade de Engenharia de Joinville, com Sede na Cidade de Joinville, Estado de santa Catarina.

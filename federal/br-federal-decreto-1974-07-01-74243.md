@@ -1,5 +1,3 @@
-###DEC-074243-0-000-01-07-1974@@@
-
 DECRETO Nº 74.243 - DE 1º DE JULHO DE 1974
 
 Declara luto oficial

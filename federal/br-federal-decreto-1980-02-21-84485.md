@@ -1,5 +1,3 @@
-###DEC-084485-0-000-21-02-1980@@@
-
 Decreto nº 84.485, de 21 de fevereiro de 1980
 
 Dispõe sobre revogação de Decretos que aprovam Regulamentos de Órgãos do Ministério do Exército.

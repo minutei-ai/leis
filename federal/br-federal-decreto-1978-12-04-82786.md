@@ -1,5 +1,3 @@
-###DEC-082786-0-000-04-12-1978@@@
-
 Decreto nº 82.786, de 04 de dezembro de 1978.
 
 Dispensa de licitação na alienação de terras públicas que menciona e dá outras providências.

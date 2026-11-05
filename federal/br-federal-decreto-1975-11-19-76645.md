@@ -1,5 +1,3 @@
-###DEC-076645-0-000-19-11-1975@@@
-
 DECRETO Nº 76.645, DE 19 DE NOVEMBRO DE 1975.
 
 Autoriza o funcionamento da Faculdade de Tecnologia do Instituto Educacional Piracicabano com sede na cidade de Piracicaba, Estado de São Paulo.

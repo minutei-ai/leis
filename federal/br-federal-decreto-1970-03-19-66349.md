@@ -1,5 +1,3 @@
-###DEC-066349-0-000-19-03-1970@@@
-
 decreto nº 66.349 - de 19 de março de 1970
 
 Autoriza a cessão sob a forma de utilização gratuita, do terreno que menciona, situado em Niterói, Estado do Rio de Janeiro.

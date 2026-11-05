@@ -1,5 +1,3 @@
-###DEC-005589-0-000-21-11-2005@@@
-
 DECRETO Nº 5.589, DE 21 DE NOVEMBRO DE 2005.
 
 Cria a Embaixada do Brasil na República da Guiné Equatorial, com sede em Malabo.

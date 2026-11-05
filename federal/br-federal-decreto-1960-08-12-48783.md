@@ -1,5 +1,3 @@
-###DEC-048783-0-000-12-08-1960@@@
-
 DECRETO Nº 48.783, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o cidadão brasileiro Helio Costa a pesquisar ouro e diamantes no município de Itupiranga, Estado do Pará.

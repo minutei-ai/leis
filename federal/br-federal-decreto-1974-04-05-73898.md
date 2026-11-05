@@ -1,5 +1,3 @@
-###DEC-073898-0-000-05-04-1974@@@
-
 DECRETO Nº 73.898, DE 5 DE ABRIL DE 1974.
 
 Autoriza o funcionamento do curso de Estados Sociais (licenciatura de 1º grau) da Faculdade de Filosofia, ciências e Letras de Sorocaba, mantida pela Fundação Dom Aguirre, com sede na cidade de Sorocaba, Estado de São Paulo.

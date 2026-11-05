@@ -1,5 +1,3 @@
-###DEC-078395-0-000-10-09-1976@@@
-
 Decreto nº 79.395, de 10 de setembro de 1976.
 
 Autoriza a concessão de garantia da União a operações de crédito externo a serem contratadas com a Companhia do Metropolitano do Rio de Janeiro - METRÔ.

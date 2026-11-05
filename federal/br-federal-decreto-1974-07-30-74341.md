@@ -1,5 +1,3 @@
-###DEC-074341-0-000-30-07-1974@@@
-
 DECRETO Nº 74.341, DE 30 DE JULHO DE 1974.
 
 Cria a Embaixada do Brasil no Sultanato de Oman.

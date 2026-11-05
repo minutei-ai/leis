@@ -1,5 +1,3 @@
-###DEC-047031-0-000-14-10-1959@@@
-
 Decreto nº 47.031, de 14 de outubro de 1959.
 
 Transfere de Miguel Teixeira de Rezende para a Prefeitura Municipal de Além Paraíba a concessão para produção e fornecimento de energia elétrica ao distrito de Aventureiro, município de Além Paraíba, Estado de Minas Gerais.

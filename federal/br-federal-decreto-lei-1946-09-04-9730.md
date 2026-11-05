@@ -1,5 +1,3 @@
-###DEL-009730-0-000-04-09-1946@@@
-
 DECRETO-LEI N. 9.730 – DE 4 DE SETEMBRO DE 1946
 
 Proíbe a circulução de vagões, comboios e locomotivas particulares nas linhas da Rêde de Viação Paraná-Santa Catarina e dá outras providências.

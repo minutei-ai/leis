@@ -1,5 +1,3 @@
-###DEC-051245-0-000-24-08-1961@@@
-
 decreto nº 51.245, de 24 de agÔsto de 1961.
 
 Concede a Indústria e Comércio de Mármores Brasileiros “Marbras” Limitada autorização para funcionar como emprêsa de mineração.

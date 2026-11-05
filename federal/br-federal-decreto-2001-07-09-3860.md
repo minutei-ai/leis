@@ -1,5 +1,3 @@
-###DEC-003860-0-000-09-07-2001@@@
-
 DECRETO Nº 3.860, DE 9 DE JULHO DE 2001
 
 Dispõe sobre a organização do ensino superior, a avaliação de cursos e instituições, e dá outras providências.

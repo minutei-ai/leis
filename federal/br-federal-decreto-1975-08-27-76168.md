@@ -1,5 +1,3 @@
-###DEC-076168-0-000-27-08-1975@@@
-
 DECRETO Nº 76.168 - 27 DE AGOSTO 1975
 
 Altera a autorização concedida pelo Decreto nº 75.440, de 3 de março de 1975, às empresas Delta Marine Drilling Company e Perbrás - Empresa Brasileira de Perfurações Limitada.

@@ -1,5 +1,3 @@
-###DEC-081236-0-000-20-01-1978@@@
-
 Decreto nº 81.236, de 20 de janeiro de 1978
 
 Estende para o Exercício de 1978 as normas sobre racionalização de consumo de combustíveis, estabelecidas para a Administração Federal no Decreto nº 79133, de 17 de janeiro de 1977.

@@ -1,5 +1,3 @@
-###DEC-080213-0-000-23-08-1977@@@
-
 DECRETO nº 80.213, de 23 de agosto de 1977.
 
 Concede reconhecimento à Escola Superior de Educação Física de Jundiai, com o Curso de Licenciatura em Educação Física, com sede na cidade de Jundiai, Estado de São Paulo.

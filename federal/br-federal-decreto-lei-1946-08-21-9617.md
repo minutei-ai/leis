@@ -1,5 +1,3 @@
-###DEL-009617-0-000-21-08-1946@@@
-
 DECRETO-LEI N. 9.617 – DE 21 DE AGÔSTO DE 1946
 
 Altera, com redução de despesa, os Quadros Permanente, Suplementar e Especial do Ministério da Educação e Saúde e dá outras providências.

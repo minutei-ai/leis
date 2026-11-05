@@ -1,5 +1,3 @@
-###DEL-007294-0-000-02-02-1945@@@
-
 DECRETO-LEI N. 7.294 – DE 2 DE FEVEREIRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial da Cr$ 235.165,30 para pagamento à Legião Brasileira de Assistência

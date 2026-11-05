@@ -1,7 +1,3 @@
-1
-
-###DEC-097772-0-000-22-05-1989@@@
-
 DECRETO Nº 97.772, DE 22 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA PIRANHAS/GALHEIRO DE BAIXO”, também. conhecido por “FARINHA MOLHADA”, classificado como latifúndio por exploração, situado no Município de Bom Jardim de Goiás, no Estado de Goiás, compreendido na zona prioritária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075198-0-000-08-01-1975@@@
-
 DECRETO Nº 75.198, DE 8 DE JANEIRO DE 1975.
 
 Dispõe sobre o serviço da Conta Emprego e Salário do Ministério do Trabalho e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067130-0-000-01-09-1970@@@
-
 decreto nº 67.130, de 1 de setembro de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério do Exército, cargos originários do Ministério dos Transportes.

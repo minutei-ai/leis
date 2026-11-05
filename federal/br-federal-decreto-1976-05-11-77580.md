@@ -1,5 +1,3 @@
-###DEC-077580-0-000-11-05-1976@@@
-
 DECRETO Nº 77.580 - DE 11 DE MAIO DE 1976
 
 Autoriza a transformação de curso da Faculdade de Filosofia de Campos, com sede na cidade de Campos, Estado do Rio de Janeiro.

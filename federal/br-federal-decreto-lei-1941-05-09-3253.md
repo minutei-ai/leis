@@ -1,5 +1,3 @@
-###DEL-003253-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.253 – DE 9 DE MAIO DE 1941
 
 Cria uma coletoria federal no município de Careiro, Estado do Amazonas, e dá outras providências

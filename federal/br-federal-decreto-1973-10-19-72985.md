@@ -1,5 +1,3 @@
-###DEC-072985-0-000-19-10-1973@@@
-
 DECRETO Nº 72.985, DE 19 DE OUTUBRO DE 1973.
 
 Declara sem efeito o Decreto número 56.166, de 28 de abril de 1965.

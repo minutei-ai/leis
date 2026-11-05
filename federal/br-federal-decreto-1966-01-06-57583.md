@@ -1,5 +1,3 @@
-###DEC-057583-0-000-06-01-1966@@@
-
 DECRETO Nº 57.583, DE 6 DE JANEIRO DE 1966.
 
 Suprime cargo na Estrada de Ferro Santos a Jundiaí.

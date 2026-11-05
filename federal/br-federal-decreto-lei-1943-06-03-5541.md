@@ -1,5 +1,3 @@
-###DEL-005541-0-000-03-06-1943@@@
-
 DECRETO-LEI N. 5.541 – DE 3 DE JUNHO DE 1943
 
 Altera a redação do artigo 2º do decreto‑lei n. 5. 239, de 10 de fevereiro de 1943

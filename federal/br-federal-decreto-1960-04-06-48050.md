@@ -1,5 +1,3 @@
-###DEC-048050-0-000-06-04-1960@@@
-
 decreto nº 48.050, de 6 de abril de 1960.
 
 Institui no Ministério da Saúde uma comissão para tratar de atividades de saúde e assistência de Brasília. (COSAB).

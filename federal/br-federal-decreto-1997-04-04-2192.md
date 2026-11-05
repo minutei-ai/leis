@@ -1,5 +1,3 @@
-###DEC-002192-0-000-04-04-1997@@@
-
 DECRETO Nº 2.192, DE 4 ABRIL DE 1997
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 2.027, de 11 de outubro de 1996.

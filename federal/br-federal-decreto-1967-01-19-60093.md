@@ -1,5 +1,3 @@
-###DEC-060093-0-000-19-01-1967@@@
-
 DECRETO Nº 60.093, DE 19 DE JANEIRO DE 1967.
 
 Retifica, para o exercício de 1967, o Artigo 3º do Decreto número 54.397, de 9 de outubro de 1964, e o parágrafo 1º do mesmo artigo, modificado pelo Decreto número 59.812, de 19 de dezembro de 1966 e dá outras providências.

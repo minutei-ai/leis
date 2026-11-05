@@ -1,5 +1,3 @@
-###DEL-009761-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.761 – DE 6 DE SETEMBRO DE 1946
 
 Autoriza a permuta de imóveis que menciona, e dá outras providências.

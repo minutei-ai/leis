@@ -1,5 +1,3 @@
-###DEL-003345-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.345 – DE 12 DE JUNHO 1941
 
 Dispensa os oficiais da 2ª classe da Reserva do Exército de pagamento do selo, por motivo de nomeação ou promoção

@@ -1,5 +1,3 @@
-###DEC-053929-0-000-26-05-1964@@@
-
 DECRETO Nº 53.929, DE 26 DE MAIO DE 1964.
 
 Revoga o Decreto nº 53.708, de 17 de março de 1964.

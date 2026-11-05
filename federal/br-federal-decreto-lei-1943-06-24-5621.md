@@ -1,5 +1,3 @@
-###DEL-005621-0-000-24-06-1943@@@
-
 DECRETO‑LEI N. 5.621 ‑– DE 24 DE JUNHO DE 1943
 
 Altera as carreiras de Guarda‑livros e Contador, do Quadro único do Minis­tério do Trabalho, Indústria e Comércio, e dá outras providências

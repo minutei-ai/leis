@@ -136,8 +136,6 @@ IV – 16 de agosto de 2023, quanto à nova redação dada pelo art. 1º ao art.
 
 Goiânia, 19 de dezembro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,7 +1,3 @@
-1
-
-###DEC-000823-0-000-21-05-1993@@@
-
 DECRETO N° 823, DE 21 DE MAIO DE 1993
 
 Dispõe sobre a estruturação do Conselho Nacional de Política Cultural e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081434-0-000-07-03-1978@@@
-
 Decreto nº 81.434, de 07 de março de 1978.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nos Estados de São Paulo e do Rio de Janeiro.

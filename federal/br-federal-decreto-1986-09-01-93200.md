@@ -1,5 +1,3 @@
-###DEC-093200-0-000-01-09-1986@@@
-
 DECRETO Nº 93.200, DE 01 DE SETEMBRO DE 1986
 
 Dá nova redação ao § 8º do art. 9º do Decreto nº 78.276, de 17 de agosto de 1976.

@@ -1,5 +1,3 @@
-###DEC-067194-0-000-14-09-1970@@@
-
 decreto nº 67.194, de 14 de setembro de 1970.
 
 Revoga o Decreto nº 65.469-69.

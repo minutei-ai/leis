@@ -1,5 +1,3 @@
-###DEC-055138-0-000-04-12-1964@@@
-
 decreto nº 55.138, de 4 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro, Nilo de Assis Bretas, a pesquisar caulim no município de Santa Maria de Itabira, Estado de Minas Gerais.

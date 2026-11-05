@@ -1,5 +1,3 @@
-###DEC-049510-0-000-12-12-1960@@@
-
 DECRETO Nº 49.510, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Jorge Teixeira de Souza a lavrar calcário, no município de São João del Rei, Estado de Minas Gerais.

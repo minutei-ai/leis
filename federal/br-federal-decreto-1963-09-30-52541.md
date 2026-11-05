@@ -1,5 +1,3 @@
-###DEC-052541-0-000-30-09-1963@@@
-
 DECRETO Nº 52.541, DE 30 DE SETEMBRO DE 1963.
 
 Transfere da Empresa Elétrica Municipal para a Companhia Distribuidora de Eletricidade do Brejo Paraibano a concessão para produzir e distribuir energia elétrica no distrito sede do município de Guarabira.

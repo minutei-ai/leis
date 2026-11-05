@@ -1,5 +1,3 @@
-###DEC-091157-0-000-18-03-1985@@@
-
 DECRETO Nº 91.157, DE 18 DE MARÇO DE 1985
 
 Cria a Comissão de Reforma Tributária e Descentralização Administrativo-Financeira.

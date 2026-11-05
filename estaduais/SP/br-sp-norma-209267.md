@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209267)<br>
-
 # DECRETO N° 68.420, DE 02 DE ABRIL DE 2024
 
 ### _Cria as Assessorias Policiais Civis que especifica e dá providências correlatas._

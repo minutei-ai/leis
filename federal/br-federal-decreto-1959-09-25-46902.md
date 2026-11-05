@@ -1,5 +1,3 @@
-###DEC-046902-0-000-25-09-1959@@@
-
 DECRETO Nº 46.902, DE 25 DE SETEMBRO DE 1959.
 
 Retifica o Decreto nº 45.809, de 15 de abril de 1959, que transfere funções de Tabela Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica.

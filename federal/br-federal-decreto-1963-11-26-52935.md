@@ -1,5 +1,3 @@
-###DEC-052935-0-000-26-11-1963@@@
-
 DECRETO Nº 52.935, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Centrais Elétricas de Goiás S.A. - CELG - a ampliar seu sistema de transmissão de energia elétrica.

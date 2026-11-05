@@ -1,5 +1,3 @@
-###DEC-057392-0-000-07-12-1965@@@
-
 DECRETO Nº 57.392, DE 7 DE DEZEMBRO DE 1965.
 
 Dispõe sôbre recolhimento de diferenças de preços sôbre estoques de trigo e seus derivados e dá outras providências.
@@ -69,8 +67,6 @@ H. Castello Branco
 Ney Braga
 
 Roberto de Oliveira Campos
-
-###DEC-057392-0-000-07-12-1965@@@RET01+++
 
 DECRETO Nº 57.392, DE 7 DE DEZEMBRO DE 1965.
 

@@ -1,5 +1,3 @@
-###DEC-049566-0-000-20-12-1960@@@
-
 DECRETO Nº 49.566, DE 20 DE DEZEMBRO DE 1960.
 
 Prorroga por dez anos o prazo da concessão outorgada à Televisão Excelsior Sociedade Anônima para estabelecer uma estação de radiotelevisão na Capital do Estado de São Paulo.

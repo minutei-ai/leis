@@ -16,4 +16,4 @@ Art. 1º - Fica concedido a titulo de incentivo fiscal as empresas relacionadas,
 
 Parágrafo Único – O incentivo fiscal tratado no caput deste artigo, é concedido pelo prazo de 05 (cinco) anos, com efeitos a partir de 1º de novembro de 1995.
 
-Art. 2º - Esta lei entrara em vigor na data de sua publicação, revogadas as disposições em contrario.<br>
+Art. 2º - Esta lei entrara em vigor na data de sua publicação, revogadas as disposições em contrario.

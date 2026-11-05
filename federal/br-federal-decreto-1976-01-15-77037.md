@@ -1,5 +1,3 @@
-###DEC-077037-0-000-15-01-1976@@@
-
 Decreto nº 77.037, de 15 de janeiro de 1976.
 
 Concede reconhecimento ao curso de Educação Física da Faculdade de Educação Física de Barra Bonita, com sede na cidade de Barra Bonita, Estado de São Paulo.

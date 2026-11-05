@@ -1,19 +1,17 @@
-###DEC-025955-0-000-06-12-1948@@@
+**DECRETO Nº 25.955, DE 06 DE DEZEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.955, DE 06 DE DEZEMBRO DE 1948.</strong>
+***Suprime cargos extintos.***
 
-<em><strong>Suprime cargos extintos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1.º, alínea *n,* do Decreto-lei n.º 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1.º, alínea <em>n,</em> do Decreto-lei n.º 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.º Ficam suprimidos dois (2) cargos da classe G da carreira de Mestre de eletricidade, do extinto Quadro II do Ministério da Viação e Obras Públicas, vagos em virtude do falecimento de Pedro Faria Passos e da aposentadoria de Alfredo do Espírito Santo, ficando sem aplicação a dotação correspondente, em virtude do artigo 5.º do Decreto-lei n.º 9.616, de 21 de agosto de 1946.
 
-<strong>Art</strong>. 1.º Ficam suprimidos dois (2) cargos da classe G da carreira de Mestre de eletricidade, do extinto Quadro II do Ministério da Viação e Obras Públicas, vagos em virtude do falecimento de Pedro Faria Passos e da aposentadoria de Alfredo do Espírito Santo, ficando sem aplicação a dotação correspondente, em virtude do artigo 5.º do Decreto-lei n.º 9.616, de 21 de agosto de 1946.
-
-<strong>Art</strong>. 2.º Revogam-se as disposições em contrário.
+**Art**. 2.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de dezembro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clóvis Pestana

@@ -1,6 +1,7 @@
 LEI Nº 13.340 DE 27 DE ABRIL DE 2015
 
-Ver também <br>
+Ver também 
+
 Lei nº 13.726 , de 14 de junho de 2017. Aletra os incisos I e II do §7°; I e II do §20; II, III e IV do §22; VI do §25 do art. 1° da Lei n° 12.565, de 10 janeiro de 2012, e altera o art. 1° da Lei n° 13.340, de 27 de abril de 2015, atualizando os limites municipais de Canavieiras com Mascote e Santa Luzia, Mascote com Santa Luzia e Canavieiras, Santa Luzia com Una, Canavieiras e Mascote e Una com Santa Luzia, com base na Lei 12.057/2011.
 
 Altera a Lei nº 12.638, de 10 de janeiro de 2013, nos incisos I do § 20 e IV do § 22 do art. 1º, fixadora dos limites dos Municípios que integram o Território de Identidade Litoral Sul.

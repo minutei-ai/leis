@@ -1,5 +1,3 @@
-###DEC-093247-0-000-11-09-1986@@@
-
 DECRETO Nº 93.247, DE 11 DE SETEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Medicina Veterinária de São João da Boa Vista, Estado de São Paulo.

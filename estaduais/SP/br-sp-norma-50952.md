@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=50952)
-
 # LEI Nº 11.698, DE 21 DE MAIO DE 2004
 
 ## (PL 736/2003 - Célia Leão)

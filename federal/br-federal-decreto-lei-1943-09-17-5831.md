@@ -1,5 +1,3 @@
-###DEL-005831-0-000-17-09-1943@@@
-
 DECRETO‑LEI N. 5.831 – DE 17 DE SETEMBRO DE 1943
 
 Altera a carreira de Datilógrafo da Parte Permanente da Quadro da justiça, do Ministério da justiça e Negócios Interiores, e dá outras providências

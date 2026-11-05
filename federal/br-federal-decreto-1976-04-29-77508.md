@@ -1,5 +1,3 @@
-###DEC-077508-0-000-29-04-1976@@@
-
 Decreto nº 77.508 - de 29 de abril de 1976
 
 Concede reconhecimento ao curso de Educação Física, habilitações em licenciatura em Educação Física e Técnico Desportivo, da Faculdade de Educação Física de Cruz Alta, em Cruz Alta, Estado do Rio Grande do Sul.

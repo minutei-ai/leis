@@ -1,5 +1,3 @@
-###DEC-069021-0-000-05-08-1971@@@
-
 DECRETO Nº 69.021, DE 5 DE AGÔSTO DE 1971.
 
 Reestrutura o Grupo Executivo de Movimentação de Safras - GREMOS, e dá outras providências.

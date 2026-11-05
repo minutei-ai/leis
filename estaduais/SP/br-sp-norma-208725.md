@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208725)<br>
-
 # LEI N° 17.820, DE 27 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 618/2022, do Deputado Itamar Borges - MDB)

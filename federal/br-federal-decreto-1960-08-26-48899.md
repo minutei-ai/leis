@@ -1,5 +1,3 @@
-###DEC-048899-0-000-26-08-1960@@@
-
 DECRETO Nº 48.899, DE 26 DE AGÔSTO DE 1960.
 
 Cria o Prêmio “Diretoria de Hidrografia e Navegação” e dá outras providências.

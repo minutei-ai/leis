@@ -1,5 +1,3 @@
-###DEC-050442-0-000-11-04-1961@@@
-
 DECRETO Nº 50.442, DE 11 DE ABRIL DE 1961.
 
 Interdita, pelo prazo de cinco (5) anos, o exercício da caça na Ilha do Bananal e nos vales do Araguaia e Tocantins e dá outras providências.

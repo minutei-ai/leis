@@ -1,5 +1,3 @@
-###DEC-070576-0-000-22-05-1972@@@
-
 DECRETO Nº 70.576, DE 22 DE MAIO DE 1972.
 
 Concede reconhecimento ao Curso de Filosofia da Faculdade de Filosofia, Ciências e Letras de Assis - SP.

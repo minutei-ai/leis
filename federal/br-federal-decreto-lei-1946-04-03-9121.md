@@ -1,5 +1,3 @@
-###DEL-009121-0-000-03-04-1946@@@
-
 DECRETO-LEI N. 9.121 – DE 3 DE ABRIL DE 1946
 
 Altera o Decreto-lei nº 8.324, de 8 de Dezembro de 1945

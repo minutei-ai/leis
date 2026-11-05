@@ -1,5 +1,3 @@
-###DEC-046582-0-000-13-08-1959@@@
-
 DECRETO Nº 46.582, DE 13 DE AGÔSTO DE 1959.
 
 Autoriza o funcionamento do curso de ciências econômicas da Faculdade de Ciências Políticas e Econômicas de Cruz Alta.

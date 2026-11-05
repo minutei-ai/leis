@@ -1,5 +1,3 @@
-###DEC-044871-0-000-26-11-1958@@@
-
 DECRETO Nº 44.871, DE 26 DE NOVEMBRO DE 1958.
 
 Concede à Sociedade Anônima The Texas Company (South América) Ltda a autorização para continuar a funcionar na República com a denominação de Texaco (Brazil) Inc.

@@ -1,5 +1,3 @@
-###DEC-050430-0-000-10-04-1961@@@
-
 DECRETO Nº 50.430, DE 10 DE ABRIL DE 1961.
 
 Concede à ETOM - Emprêsa de Transportes Marítimos e Terrestres, Obras e Materiais Ltda, autorização para funcionar como emprêsa de navegação de cabotagem.

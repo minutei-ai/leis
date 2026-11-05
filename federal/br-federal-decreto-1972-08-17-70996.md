@@ -1,5 +1,3 @@
-###DEC-070996-0-000-17-08-1972@@@
-
 DECRETO Nº 70.996, DE 17 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento dos cursos de Estudos Sociais e Ciências, da Faculdade de Filosofia, Ciências e Letras de Botucatu, Estado de São Paulo.

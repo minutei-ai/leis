@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212505)<br>
-
 # LEI N° 18.447, DE 28 DE ABRIL DE 2026
 
 ### _Altera a Lei n° 7.964, de 16 de julho de 1992, que dá nova denominação ao Fundo de Expansão Agropecuária, define seus objetivos, dispõe sobre a aplicação dos seus recursos e dá providências correlatas._

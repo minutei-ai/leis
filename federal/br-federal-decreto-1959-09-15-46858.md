@@ -1,5 +1,3 @@
-###DEC-046858-0-000-15-09-1959@@@
-
 decreto nº 46.858, de 15 de setembro de 1959.
 
 Outorga à Prefeitura Municipal de Sarandi concessão para o aproveitamento de energia hidráulica de um desnível existente no rio Estancado, município de Sarandi, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-004018-0-000-16-11-2001@@@
-
 DECRETO Nº 4.018, DE 16 DE NOVEMBRO DE 2001
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

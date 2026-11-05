@@ -1,5 +1,3 @@
-###DEC-050070-0-000-25-01-1961@@@
-
 DECRETO Nº 50.070, DE 25 DE JANEIRO DE 1961.
 
 Abre pelo Ministério da Fazenda, o crédito extraordinário de Cr$20.000.000,00, para os fins que especifica.

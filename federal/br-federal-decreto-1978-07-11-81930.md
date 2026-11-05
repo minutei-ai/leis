@@ -1,5 +1,3 @@
-###DEC-081930-0-000-11-07-1978@@@
-
 Decreto nº 81.930, de 11 de julho de 1978.
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Norte.

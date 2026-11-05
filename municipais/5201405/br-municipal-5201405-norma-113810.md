@@ -4,7 +4,8 @@ Institui o Plano Municipal de Saneamento – Resíduos Sólidos – de Aparecida
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º O Plano Municipal de Saneamento – Resíduos Sólidos – de Aparecida de Goiânia (PMSRS) foi elaborado conforme os fundamentos previstos nas Leis Federais n° 11.445/07 e nº 12.305/10 e seus respectivos decretos regulamentadores, tendo como objetivo, respeitadas as competências da União e do Estado, a melhoria da qualidade da sanidade pública e manter o meio ambiente equilibrado, buscando o desenvolvimento sustentável e fornecendo diretrizes ao poder público e à coletividade para a defesa, conservação e recuperação da qualidade e salubridade ambiental, cabendo a todos o direito de exigir a adoção de medidas nesse sentido.
@@ -31,7 +32,8 @@ Art. 6º O Município de Aparecida de Goiânia poderá adotar medidas e ações 
 
 Art. 7º Um dos objetivos do Plano Municipal de Gestão Integrada de Resíduos Sólidos definidos no Plano de Saneamento de Resíduos é a integração e inclusão dos trabalhadores (catadores) de materiais reutilizáveis e recicláveis no Programa Aparecida Cooperando e Reciclando com Dignidade, e ações que envolvam a responsabilidade compartilhada pelo ciclo de vida dos produtos, desde que as cooperativas e associações de trabalhadores (catadores) cadastradas no programa estejam regularizadas conforme as legislações vigentes e desenvolvam as suas atividades conforme as normas técnicas e legislação municipal.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 CARACTERIZAÇÃO DOS RESÍDUOS SÓLIDOS
 
 Art. 8º São princípios que orientam o manejo dos resíduos sólidos no município:
@@ -152,7 +154,8 @@ I - geração difusa: os produzidos, individual ou coletivamente, por geradores 
 
 II - geração determinada: os produzidos por gerador específico e identificável.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO ACONDICIONAMENTO, COLETA, TRANSPORTE E DESTINAÇÃO FINAL DOS RESÍDUOS SÓLIDOS URBANOS
 
 Art. 10 Todos os resíduos citados no Plano Municipal de Saneamento de Resíduos Sólidos deverão ser acondicionados de acordo com as normas técnicas da Associação Brasileira de Normas Técnicas - ABNT, da Comissão Nacional de Energia Nuclear - CNEN, das resoluções do Conselho Nacional do Meio Ambiente - CONAMA - e da Agência Nacional de Vigilância Sanitária - ANVISA.
@@ -161,7 +164,8 @@ Art. 11 Os resíduos sólidos cuja responsabilidade de acondicionamento, coleta,
 
 Art. 12 Fica proibida a realização de descarte ou destinação final de resíduos sólidos de qualquer natureza em áreas públicas, vias públicas, áreas de preservação permanente, e áreas de proteção ambiental no município.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 LEGISLAÇÃO E NORMAS TECNICAS, ESTRUTURA OPERACIONAL, GERENCIAL E FISCALIZATORIA
 
 Art. 13 A gestão e o manejo de resíduos sólidos no município deverão seguir todas as normas técnicas presentes no Plano Municipal de Saneamento de Resíduos Sólidos, assim como as demais elaboradas e aprovadas posteriormente.
@@ -172,7 +176,8 @@ Art. 15 Deverá ser criada pelo Comitê Diretor responsável pela elaboração d
 
 Art. 16 Deverão ser criados pelo Comitê Diretor responsável pela elaboração do Plano, programas de fiscalização e controle a fim de corrigir as carências e deficiências apontadas no Plano Municipal de Saneamento de Resíduos Sólidos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DEFINIÇÃO DAS RESPONSABILIDADES PÚBLICAS E PRIVADAS
 
 Art. 17 Conforme estabelecido no Art. 20 da Lei n° 12.305/2010 e no Plano Municipal de Saneamento de Resíduos Sólidos, os geradores deverão seguir as regras para o transporte e outras etapas do gerenciamento de resíduos sólidos.
@@ -187,26 +192,30 @@ Art. 21 Conforme estabelecido no Plano Municipal de Saneamento de Resíduos Sól
 
 Art. 22 Conforme estabelecido no Plano Municipal de Saneamento de Resíduos Sólidos cabe aos geradores de resíduos com Plano de Gerenciamento obrigatório (Art. 20 da Lei n° 12.305/2010) – gerador privado (instalações de saneamento, indústrias, serviços de saúde, mineradoras, construtores, terminais de transporte, e outros), fazer o gerenciamento conforme indicado no Plano.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 ALTERNATIVAS TECNOLOGICAS, METAS, INDICADORES E SISTEMA DE AVALIAÇÃO PARA OS DEVIDOS SERVIÇOS
 
 Art. 23 Caberá ao Poder Público escolher de forma técnica quais são as alternativas que serão utilizadas no município para o tratamento dos resíduos sólidos, conforme descrito no Plano.
 
 Art. 24 Caberá ao Comitê Diretor responsável pela elaboração do Plano fiscalizar se as metas propostas no Plano Municipal de Saneamento de Resíduos Sólidos estão sendo cumpridas.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DIRETRIZES E ESTRATEGIAS ESPECÍFICAS PARA O MANEJO DOS RESÍDUOS
 
 Art. 25 Caberá ao Comitê Diretor responsável pela elaboração do Plano fiscalizar se as diretrizes e estratégias propostas no Plano Municipal de Saneamento de Resíduos Sólidos estão sendo cumpridas.
 
 Art. 26 Caberá ao Comitê Diretor responsável pela elaboração do Plano fiscalizar se a implantação de programas e ações para o sistema de limpeza urbana e manejo de resíduos sólidos está sendo cumprida.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DOS RESÍDUOS DA CONSTRUÇÃO CIVIL
 
 Art. 27 Caberá ao Poder Público elaborar e implantar conforme descrito no Plano de Saneamento de Resíduos Sólidos, o Programa de Gestão Sustentável de Resíduos da Construção Civil, nos termos da legislação federal e em consonância às disposições da presente lei.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 PLANO DE SANEAMENTO DE RESÍDUOS SÓLIDOS
 
 Art. 28 O Plano de Saneamento de Resíduos Sólidos deverá ser revisto e atualizado a cada 4 (quatro) anos.
@@ -219,13 +228,16 @@ Art. 31 Esta lei entra em vigor na data de sua publicação, revogadas as dispos
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 21 dias do mês de dezembro do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-LIOSMAR EVARISTO MENDANHA<br>
+LIOSMAR EVARISTO MENDANHA
+
 Presidente da Agência de Saneamento de Aparecida de Goiânia – ASA
 
 [ANEXO ÚNICO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18813)

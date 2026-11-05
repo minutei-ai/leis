@@ -1,5 +1,3 @@
-###MPV-001891-0-007-26-08-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.891-7, DE 26 DE AGOSTO DE 1999.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

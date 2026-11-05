@@ -1,5 +1,3 @@
-###DEC-078521-0-000-30-09-1976@@@
-
 DECRETO Nº 78.521, DE 30 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis, do Instituto Superior de Estudos Sociais Clovis Bevilacqua, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

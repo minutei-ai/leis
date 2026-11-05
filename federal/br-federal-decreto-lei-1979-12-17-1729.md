@@ -1,5 +1,3 @@
-###DEL-001729-0-000-17-12-1979@@@
-
 # DECRETO-LEI nº 1.729, de 17 de dezembro de 1979
 
 Altera a tabela do imposto incidente na fonte sobre rendimentos de trabalho não-assalariado, e dá outras providências.
@@ -10,7 +8,65 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 55, n�
 
 Art. 1º - As importâncias pagas ou creditadas por pessoas jurídicas a pessoas físicas a título de comissões, corretagens, gratificações, honorários, direitos autorais e de remuneração por quaisquer outros serviços prestados, bem como os rendimentos pagos ou creditados a vendedores, viajantes comerciais, corretores ou representantes comerciais autônomos, sem vínculo empregatício com a fonte pagadora, ficam sujeitas à retenção do imposto de renda na fonte, como antecipação, mediante aplicação de alíquotas progressivas indicadas na seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:131.25pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>CLASSE</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>DE RENDA</span></p></td><td style="width:131.25pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>RENDIMENTOS MENSAIS</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>(Cr$1,00)</span></p></td><td style="width:131.25pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>ALÍQUOTA</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>(%)</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:131.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:49.35pt; text-align:right"><span>Até 5.000</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Isento</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:131.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>De 5.001 a 10.600</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>6%</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:131.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>De 10.601 a 21.200</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>8%</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:131.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>De 21.201 a 31.600</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>10%</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:131.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>De 31.601 a 52.800</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>15%</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>6</span></p></td><td style="width:131.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>De 52.801 a 79.200</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>20%</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>7</span></p></td><td style="width:131.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>De 79.201 a 105.600</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>25%</span></p></td></tr><tr><td style="width:131.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:131.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>Acima de 105.600</span></p></td><td style="width:131.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>30%</span></p></td></tr></tbody></table>
+CLASSE
+
+DE RENDA
+
+RENDIMENTOS MENSAIS
+
+(Cr$1,00)
+
+ALÍQUOTA
+
+(%)
+
+1
+
+Até 5.000
+
+Isento
+
+2
+
+De 5.001 a 10.600
+
+6%
+
+3
+
+De 10.601 a 21.200
+
+8%
+
+4
+
+De 21.201 a 31.600
+
+10%
+
+5
+
+De 31.601 a 52.800
+
+15%
+
+6
+
+De 52.801 a 79.200
+
+20%
+
+7
+
+De 79.201 a 105.600
+
+25%
+
+8
+
+Acima de 105.600
+
+30%
 
 Parágrafo Único. Ficam também sujeitos ao imposto de renda na fonte, como antecipação, com base na tabela constante deste artigo, os rendimentos atribuídos aos dirigentes e administradores de pessoa jurídica, a título de gratificação ou participações no resultado, pagos ou creditados a partir de 1º de janeiro de 1980.
 

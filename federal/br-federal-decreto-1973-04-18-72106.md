@@ -1,5 +1,3 @@
-###DEC-072106-0-000-18-04-1973@@@
-
 DECRETO Nº 72.106, DE 18 DE ABRIL DE 1973.
 
 Regulamenta a Lei nº 5.868, de 12 de dezembro de 1972, que institui o Sistema Nacional de Cadastro Rural e dá outras providências.
@@ -415,8 +413,6 @@ Brasília, 18 de abril de 1973; 152º da Independência e 85º da República.
 EMÍLIO G. MÉDICI
 
 L. F. Cirne Lima
-
-###DEC-072106-0-000-18-04-1973@@@
 
 DECRETO Nº 72.106, DE 18 DE ABRIL DE 1973.
 

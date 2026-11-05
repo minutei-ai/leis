@@ -1,5 +1,3 @@
-###DEC-064944-0-000-06-08-1969@@@
-
 decreto nº 64.944 - de 6 de agôsto de 1969.
 
 Outorga concessão à Companhia Telefônica da Borda do Campo, para executar serviço de telefonia pública urbano no município de Suzano, Estado de São Paulo.

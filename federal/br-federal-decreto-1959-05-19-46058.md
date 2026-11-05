@@ -1,5 +1,3 @@
-###DEC-046058-0-000-19-05-1959@@@
-
 decreto nº 46.058, de 19 de maio de 1959.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral de Sergipe - o crédito especial de Cr$250.000,00, para o fim que especifica.

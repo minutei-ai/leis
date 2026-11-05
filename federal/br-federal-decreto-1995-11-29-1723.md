@@ -1,7 +1,3 @@
-1
-
-###DEC-001723-0-000-29-11-1995@@@
-
 DECRETO Nº 1.723, DE 29 DE NOVEMBRO DE 1995.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

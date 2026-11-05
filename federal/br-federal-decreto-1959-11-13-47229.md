@@ -1,5 +1,3 @@
-###DEC-047229-0-000-13-11-1959@@@
-
 DECRETO Nº 47.229, DE 13 DE NOVEMBRO DE 1959.
 
 Outorga concessão à Rádio Sociedade Difusora “A Voz de Bagé” Limitada para estabelecer uma estação radiodifusora de ondas médias.

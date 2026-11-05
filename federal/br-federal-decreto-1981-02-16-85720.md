@@ -1,5 +1,3 @@
-###DEC-085720-0-000-16-02-1981@@@
-
 DECRETO Nº 85.720, DE 16 DE FEVEREIRO DE1981.
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Fundação Faculdade de Filosofia, Ciências e Letras de Cornélio Procópio, em Cornélio Procópio, Estado do Paraná.

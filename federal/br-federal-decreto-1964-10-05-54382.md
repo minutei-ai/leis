@@ -1,5 +1,3 @@
-###DEC-054382-0-000-05-10-1964@@@
-
 DECRETO Nº 54.382, DE 5 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento progressivo da energia hidráulica de trechos dos rios Paranapanema e Itararé e, em todo o curso, do rio Taguari e seus afluentes, e autoriza a Usinas Elétricas do Paranapanema S.A. - USELPA - a promover sua desapropriação.
@@ -181,8 +179,6 @@ Brasília, 5 de outubro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-054382-0-000-05-10-1964@@@RET01+++
 
 Decreto nº 54.382, de 5 de outubro de 1964.
 

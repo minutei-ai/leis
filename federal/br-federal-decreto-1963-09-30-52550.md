@@ -1,5 +1,3 @@
-###DEC-052550-0-000-30-09-1963@@@
-
 DECRETO Nº 52.550, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Prefeitura Municipal de Guia Lopes, Estado de Minas Gerais, a ampliar suas instalações.

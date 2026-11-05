@@ -1,4 +1,5 @@
-DECRETO “N” Nº 755 DE 16 DE SETEMBRO DE 2024.<br>
+DECRETO “N” Nº 755 DE 16 DE SETEMBRO DE 2024.
+
 (Revogado pelo Decreto "N" Nº 1.024, de 4 de dezembro de 2024).
 
 ~~Dispõe sobre desmembramento de imóvel.~~
@@ -28,8 +29,10 @@ DECRETO “N” Nº 755 DE 16 DE SETEMBRO DE 2024.<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 16 de setembro de 2024.~~
 
-~~ALANNA RITIELLE P. DE ARAÚJO FRANÇA<br>
+~~ALANNA RITIELLE P. DE ARAÚJO FRANÇA
+
 Secretária de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana~~

@@ -1,5 +1,3 @@
-###DEL-004457-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.457 – DE 9 DE JULHO DE 1942
 
 Cria funções gratificadas no Ministério da Educação e Saude e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-053374-0-000-31-12-1963@@@
-
 DECRETO Nº 53.374, DE 31 DE DEZEMBRO DE 1963.
 
 Cria no Departamento Nacional de Portos e Vias Navegáveis, (DNPVN), a Comissão de Estudos Rios e Canais Interiores Navegáveis (CERCIN).
@@ -73,8 +71,6 @@ Brasília, 31 de dezembro de 1963; 142 da Independência e 75º da República.
 JOÃO GOULART
 
 Expedito Machado
-
-###DEC-053374-0-000-31-12-1963@@@RET01+++
 
 DECRETO Nº 53.374, DE 31 DE DEZEMBRO DE 1963
 

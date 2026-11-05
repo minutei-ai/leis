@@ -1,5 +1,3 @@
-###DEC-072657-0-000-20-08-1973@@@
-
 DECRETO Nº 72.657, DE 20 DE AGOSTO DE 1973.
 
 Concede a Minérios Industriais do Sul S. A. o direito de lavrar caulim no Município de Treze de Maio, Estado de Santa Cataria.

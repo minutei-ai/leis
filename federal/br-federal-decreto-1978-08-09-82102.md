@@ -1,5 +1,3 @@
-###DEC-082102-0-000-09-08-1978@@@
-
 DECRETO Nº 82.102, DE 09 DE AGOSTO DE 1978.
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S. A. - PETROBRÁS.

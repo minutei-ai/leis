@@ -1,5 +1,3 @@
-###DEC-069056-0-000-11-08-1971@@@
-
 decreto nº 69.056, de 11 de agÔsto de 1971.
 
 Declara de utilidade pública o Instituto dos Advogados do Distrito Federal, com sede em Brasília, Distrito Federal.

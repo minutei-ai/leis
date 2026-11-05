@@ -1,5 +1,3 @@
-###DEC-054631-0-000-27-10-1964@@@
-
 DECRETO Nº 54.631, de 27 de outubro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Rio Branco, inclusive aumento de Capital social.
@@ -17,8 +15,6 @@ Brasília, 27 de outubro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Daniel Faraco
-
-###DEC-054631-0-000-27-10-1964@@@RET01+++
 
 DECRETO Nº 54.631, DE 27 DE OUTUBRO DE 1964.
 

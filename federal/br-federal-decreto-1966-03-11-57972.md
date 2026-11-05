@@ -1,5 +1,3 @@
-###DEC-057972-0-000-11-03-1966@@@
-
 DECCRETO Nº 57.972, DE 11 DE MARÇO DE 1966.
 
 Abre, ao Departamento Administrativo do Serviço Público, o crédito especial de Cr$500.000.000, para o fim que específica.

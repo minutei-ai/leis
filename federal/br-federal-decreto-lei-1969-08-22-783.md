@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/adebafcd-d7fb-4451-938d-520d813921eb/texto#nowhere)
 
-###DEL-000783-0-000-22-08-1969@@@
-
 DECRETO-LEI Nº 783, DE 22 DE AGÔSTO DE 1969
 
 Altera, sem aumento de despesa, a forma de provimento de cargos do Quadro da Secretaria do Tribunal Regional Eleitoral de Pernambuco.

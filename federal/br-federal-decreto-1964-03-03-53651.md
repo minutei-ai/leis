@@ -1,5 +1,3 @@
-###DEC-053651-0-000-03-03-1964@@@
-
 DECRETO Nº 53.651, de 3 DE MARçO DE 1964.
 
 Modifica a redução do Art. 1º do Decreto nº 50.562, de 8 de maio de 1961.

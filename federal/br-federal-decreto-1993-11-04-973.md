@@ -1,7 +1,3 @@
-1
-
-###DEC-000973-0-000-04-11-1993@@@
-
 DECRETO N° 973, DE 4 DE NOVEMBRO DE 1993
 
 Dispõe sobre a entrada de produtos no território angolano.

@@ -1,5 +1,3 @@
-###DEC-061312-0-000-08-09-1967@@@
-
 decreto nº 61.312, de 8 de setembro de 1967.
 
 Provê sôbre a utilização das emissoras de televisão nos programas de alfabetização.

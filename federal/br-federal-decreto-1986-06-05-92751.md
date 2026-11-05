@@ -1,5 +1,3 @@
-###DEC-092751-0-000-05-06-1986@@@
-
 DECRETO Nº 92.751, DE 5 DE JUNHO DE 1986
 
 Autoriza estrangeiro a adquirir direitos sobre terreno que menciona, situado no Município do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,14 +1,12 @@
-###DEC-037694-0-000-05-08-1955@@@
+**DECRETO Nº 37.694, DE 5 DE AGÔSTO DE 1955.**
 
-<strong>DECRETO Nº 37.694, DE 5 DE AGÔSTO DE 1955.</strong>
+***Altera o Regulamento dos Cursos de Aperfeiçoamento e Especialização do Departamento Nacional da Saúde.***
 
-<em><strong>Altera o Regulamento dos Cursos de Aperfeiçoamento e Especialização do Departamento Nacional da Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87,item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87,item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regulamento dos Cursos de Aperfeiçoamento e Especialização do Departamento Nacional de Saúde aprovado pelo Decreto nº 9.388, de 13 de maio de 1942 e posteriomente altera pelos Decreto-lei nº 14.178de 6 de dezembro de 1943 e Decreto nº 8.589, de 8 de janeiro de 1946, fica alterada pela forma seguir:
+**Art**. 1º O Regulamento dos Cursos de Aperfeiçoamento e Especialização do Departamento Nacional de Saúde aprovado pelo Decreto nº 9.388, de 13 de maio de 1942 e posteriomente altera pelos Decreto-lei nº 14.178de 6 de dezembro de 1943 e Decreto nº 8.589, de 8 de janeiro de 1946, fica alterada pela forma seguir:
 
 I - Ao art. 1º fica acrescentado:
 
@@ -42,7 +40,7 @@ b) ou que faltar a mais de 20% das aulas;
 
 c) a cuja prova não comparecer.
 
-§ 1º O aluno reprovado apenas em uma disciplina em virtudes do disposto nas alíneas <em>a</em> ou <em>c</em> dêste artigo, sente neste último caso por motivo imperioso, a critério do Diretor dos Cursos, poderá requerer outro exame a ser realizado após o término do curso .
+§ 1º O aluno reprovado apenas em uma disciplina em virtudes do disposto nas alíneas *a* ou *c* dêste artigo, sente neste último caso por motivo imperioso, a critério do Diretor dos Cursos, poderá requerer outro exame a ser realizado após o término do curso .
 
 § 2º O aluno reprovado em mais de uma disciplina será automáticamente desligado do curso, não lhe cabendo o direito de isenção das disciplinas em que tiver sido aprovado o termino do cursos.
 
@@ -50,10 +48,10 @@ c) a cuja prova não comparecer.
 
 § 4º Por motivo imperioso, a critério do Diretor dos cursos, poderá o aluno requerer intrrupções cabendo-lhe o direito de completa-lo desde que se matricule dentro do periodo de 3 anos após o curso interrompido.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogada as disposições em contrário .
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogada as disposições em contrário .
 
 Rio de Janeiro, em 5 de agôsto de 1955; 134º da independência e 67º da Republica.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Aramis Athayde

@@ -1,5 +1,3 @@
-###DEC-053780-0-000-23-03-1964@@@
-
 DECRETO Nº 53.780, DE 23 DE MARÇO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno no Município de Pentecoste, Estado do Ceará, para a instalação do Instituto de Pesquisas.
@@ -21,8 +19,6 @@ JOÃO GOULART
 Expedito Machado
 
 Waldyr Ramos Borges
-
-###DEC-053780-0-000-20-03-1964@@@RET01+++
 
 DECRETO Nº 53.780, DE 20 DE MARÇO DE 1964.
 

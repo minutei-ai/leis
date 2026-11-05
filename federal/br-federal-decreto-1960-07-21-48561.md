@@ -1,5 +1,3 @@
-###DEC-048561-0-000-21-07-1960@@@
-
 DECRETO Nº 48.561, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Onésimo Ferreira dos Santos a pesquisar água mineral, no município de Vitória da Conquista, Estada da Bahia.

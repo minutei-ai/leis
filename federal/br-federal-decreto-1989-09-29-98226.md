@@ -1,7 +1,3 @@
-1
-
-###DEC-098226-0-000-29-09-1989@@@
-
 DECRETO Nº 98.226, DE 29 DE SETEMBRO DE 1989 
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “SÃO LUIZ II”, situado no Município de Palma Sola, Estado de Santa Catarina, e dá outras providências.

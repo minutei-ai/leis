@@ -1,5 +1,3 @@
-###DEC-091404-0-000-05-07-1985@@@
-
 DECRETO Nº 91.404, de 5 de julho de 1985.
 
 Dispõe sobre medidas de contenção de despesas nas entidades da Administração Indireta, e dá outras providências.

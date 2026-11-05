@@ -1,5 +1,3 @@
-###DEC-046336-0-000-30-06-1959@@@
-
 DECRETA Nº 46.336, DE 30 DE JUNHO DE 1959.
 
 Dá nova redação do Art. 54 do Regulamento do Colégio Militar (R-69) e suprime o Art. 47 do mesmo Regulamento.

@@ -1,5 +1,3 @@
-###DEL-008156-0-000-01-11-1945@@@
-
 DECRETO-LEI N. 8.156 – DE 1 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 20.000.00 para as despesas com as eleições de 2 de dezembro de 1945. 

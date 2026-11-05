@@ -1,5 +1,3 @@
-###DEC-005732-0-000-23-03-2006@@@
-
 DECRETO Nº 5.732, DE 23 DE MARÇO DE 2006.
 
 Regulamenta o inciso II do § 2º do art. 17 da Lei nº 8.666, de 21 de junho de 1993.

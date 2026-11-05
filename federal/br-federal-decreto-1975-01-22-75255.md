@@ -1,5 +1,3 @@
-###DEC-075255-0-000-22-01-1975@@@
-
 DECRETO Nº 75.255, DE 22 DE JANEIRO DE 1975.
 
 Autoriza a cessão de gratuita do imóvel que menciona, situado no Estado da Guanabara.

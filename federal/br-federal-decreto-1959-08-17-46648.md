@@ -1,5 +1,3 @@
-###DEC-046648-0-000-17-08-1959@@@
-
 DECRETO Nº 46.648, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Françe de Paula Andrade a pesquisar minério de ferro e manganês no município de Itabira, Estado de Minas Gerais.

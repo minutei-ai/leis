@@ -1,5 +1,3 @@
-###DEC-058692-0-000-22-06-1966@@@
-
 DECRETO nº 58.692, DE 22 DE JUNHO DE 1966.
 
 Dá nova redação à alínea “b” do item I do art. 1° do Decreto número 54.466, de 14 de outubro de 1964.

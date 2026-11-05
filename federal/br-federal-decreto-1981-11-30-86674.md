@@ -1,5 +1,3 @@
-###DEC-086674-0-000-30-11-1981@@@
-
 Decreto nº 86.674, de 30 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO FRONTEIRA D'OESTE LTDA., na cidade de Terra Roxa, Estado do Paraná.

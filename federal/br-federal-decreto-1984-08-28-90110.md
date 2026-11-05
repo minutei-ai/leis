@@ -1,5 +1,3 @@
-###DEC-090110-0-000-28-08-1984@@@
-
 Decreto nº 90.110, de 28 de agosto de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa variável de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

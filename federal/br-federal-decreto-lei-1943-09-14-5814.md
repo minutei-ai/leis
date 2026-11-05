@@ -1,5 +1,3 @@
-###DEL-005814-0-000-14-09-1943@@@
-
 DECRETO–LEI N. 5.814 – DE 14 DE SETEMBRO DE 1943
 
 Amplia as atribuições do Banco de Crédito da Borracha, S. A. o dá outras providências

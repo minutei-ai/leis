@@ -1,5 +1,3 @@
-###DEC-062083-0-000-08-01-1968@@@
-
 DECRETO Nº 62.083, DE 8 DE JANEIRO DE 1968.
 
 Retifica o artigo 1º do Decreto 59.522, de 9 de novembro de 1966.

@@ -1,22 +1,20 @@
-###DEC-030119-0-000-01-11-1951@@@
+**DECRETO Nº 30.119, DE 1 DE NOVEMBRO DE 1951.**
 
-<strong>DECRETO Nº 30.119, DE 1 DE NOVEMBRO DE 1951.</strong>
+***Aprova a interpretação dos casos omissos do Código de Vencimentos e Vantagens dos Militares.***
 
-<em><strong>Aprova a interpretação dos casos omissos do Código de Vencimentos e Vantagens dos Militares.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as interpretações dos casos omissos do Código de Vencimentos e Vantagens dos Militares, que a êste acompanham, a fim de que seja mantido critério uniforme na sua aplicação no Exército, na Marinha e na Aeronáutica.
 
-<strong>Art</strong>. 1º Ficam aprovadas as interpretações dos casos omissos do Código de Vencimentos e Vantagens dos Militares, que a êste acompanham, a fim de que seja mantido critério uniforme na sua aplicação no Exército, na Marinha e na Aeronáutica.
+**Art**. 2º Os vencimentos e vantagens resultantes destas interpretações serão pagos de acôrdo com o art. 353 daquele diploma.
 
-<strong>Art</strong>. 2º Os vencimentos e vantagens resultantes destas interpretações serão pagos de acôrdo com o art. 353 daquele diploma.
-
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 1 de novembro de 1951; 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Francisco Negrão de Lima
 
@@ -26,7 +24,7 @@ Newton Estilac Leal
 
 Nero Moura
 
-<strong>INTERPRETAÇÃO DOS CASOS OMISSOS DO CÓDIGO DE VENCIMENTOS E VANTAGENS DOS MILITARES - (ART. 336 DA LEI Nº 1.316, DE 20 DE JANEIRO DE 1951)</strong>
+**INTERPRETAÇÃO DOS CASOS OMISSOS DO CÓDIGO DE VENCIMENTOS E VANTAGENS DOS MILITARES - (ART. 336 DA LEI Nº 1.316, DE 20 DE JANEIRO DE 1951)**
 
 Art. 14:
 
@@ -162,9 +160,9 @@ Arts. 125 e 126:
 
 6 - A gratificação de ensino será devida ao pessoal instrutor da Escola Superior de Guerra, na seguinte conformidade:
 
-a) Direção da Escola (Comandante e Chefe de Gabinete), Assistentes e Chefes de Divisão do Departamento de Estudos (alínea <em>a</em> do art. 126, combinado com o § 1º).
+a) Direção da Escola (Comandante e Chefe de Gabinete), Assistentes e Chefes de Divisão do Departamento de Estudos (alínea *a* do art. 126, combinado com o § 1º).
 
-b) Assistentes do Departamento de Estudos, Adjuntos do Gabinete e das Divisões do Departamento de Estudos (alínea <em>c</em> do art. 126, combinado com o § 1º).
+b) Assistentes do Departamento de Estudos, Adjuntos do Gabinete e das Divisões do Departamento de Estudos (alínea *c* do art. 126, combinado com o § 1º).
 
 7 - O Pessoal do Gabinete da Escola Superior de Guerra, não é considerado em comissão de representação no País (art. 110) e, sim como pessoal de ensino, nos têrmos da Lei nº 785, de 20 de agôsto de 1949 e Decreto nº 27.264, de 28 de setembro de 1949.
 
@@ -172,11 +170,11 @@ b) Assistentes do Departamento de Estudos, Adjuntos do Gabinete e das Divisões 
 
 9 - O militar nomeado em comissão para uma das funções abaixo enumeradas tem direito a gratificação de ensino na seguinte conformidade:
 
-a) Comandante ou Diretor de Escola de Centro de Instrução ou de Formação, quando pelo respectivo regulamento tiver as atribuições de Diretor de Ensino; Chefe ou Encarregado de Departamento de Ensino ou Instrução; Superintendente de Ensino: - Alínea <em>a</em> do art. 126.
+a) Comandante ou Diretor de Escola de Centro de Instrução ou de Formação, quando pelo respectivo regulamento tiver as atribuições de Diretor de Ensino; Chefe ou Encarregado de Departamento de Ensino ou Instrução; Superintendente de Ensino: - Alínea *a* do art. 126.
 
-b) Chefe ou Encarregado de Departamento Escolar, quando as funções corresponderem as de instrutor-Chefe; Encarregado de Curso ou de Escola, quando nomeado pelo respectivo Ministro: - Alínea <em>b</em> do art. 126;
+b) Chefe ou Encarregado de Departamento Escolar, quando as funções corresponderem as de instrutor-Chefe; Encarregado de Curso ou de Escola, quando nomeado pelo respectivo Ministro: - Alínea *b* do art. 126;
 
-c) Sub-instrutor ou Monitor Estagiário - Alínea <em>“z”</em> do artigo 126.
+c) Sub-instrutor ou Monitor Estagiário - Alínea *“z”* do artigo 126.
 
 Art. 127:
 
@@ -334,7 +332,7 @@ As disposições dêste artigo também são extensivas à Polícia Militar e ao 
 
 Rio de Janeiro, 1 de novembro de 1951.
 
-<strong>FRANCISCO NEGRÃO DE LIMA</strong>
+**FRANCISCO NEGRÃO DE LIMA**
 
 Renato de Almeida Guillobel
 

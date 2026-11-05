@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211210)<br>
-
 # DECRETO N° 69.713, DE 18 DE JULHO DE 2025
 
 ### _Altera dispositivo que especifica do Decreto n° 44.448, de 24 de novembro de 1999, e dá providências correlatas._

@@ -1,10 +1,10 @@
-**LEI COMPLEMENTAR N° 93, DE 27 DE NOVEMBRO DE 2001.**<br>
-. Revogou a LC [78/00.](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/a15409baf1a0eb35042569b6006d2088?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2078)<br>
+**LEI COMPLEMENTAR N° 93, DE 27 DE NOVEMBRO DE 2001.**
+
+. Revogou a LC [78/00.](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/a15409baf1a0eb35042569b6006d2088?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2078)
+
 . Revogada pela LC [566/15.](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/6e38eb02a381283584257e4c0043b2a0?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20566%2C%20DE%2020%20DE)
 
 **Altera as denominações das Secretarias que menciona e dá outras providências**.
-
-<br>
 
 **O GOVERNADOR DO ESTADO DE MATO GROSSO,** tendo em vista o que dispõe o artigo 45 da Constituição Estadual, sanciona a seguinte lei complementar:
 
@@ -16,10 +16,14 @@
 
 **Art. 4°** As estruturas organizacionais das novas Secretarias serão regulamentadas por decreto.
 
-**Art. 5**° Ficam criados, na Secretaria de Estado de Justiça e Segurança Pública, os seguintes cargos comissionados:<br>
-I - 01 (um) cargo comissionado, nível DGA-2, de Secretário Adjunto do Sistema Prisional;<br>
-II - 01 (um) cargo comissionado, nível DGA-4, de Diretor Executivo do Fundo Estadual de Segurança Pública - FESP;<br>
-III - 02 (dois) cargos de Assessor, nível DAS-4;<br>
+**Art. 5**° Ficam criados, na Secretaria de Estado de Justiça e Segurança Pública, os seguintes cargos comissionados:
+
+I - 01 (um) cargo comissionado, nível DGA-2, de Secretário Adjunto do Sistema Prisional;
+
+II - 01 (um) cargo comissionado, nível DGA-4, de Diretor Executivo do Fundo Estadual de Segurança Pública - FESP;
+
+III - 02 (dois) cargos de Assessor, nível DAS-4;
+
 IV - 02 (dois) cargos de Gerente, nível DAS-2.
 
 Parágrafo único. A remuneração dos cargos comissionados ora criados será de acordo com a tabela salarial vigente no Estado.
@@ -36,28 +40,48 @@ Parágrafo único. Os cargos de Agente Prisional passam a integrar o lotacionogr
 
 Palácio Paiaguás, 27 de novembro de 2001, 180° da Independência e 113 da Republica.
 
-<br>
-**DANTE MARTINS DE OLIVEIRA**<br>
-HERMES GOMES DE ABREU<br>
-MAURICIO MAGALHÃES FARIA<br>
-JOSÉ RENATO MARTINS DA SILVA<br>
-BENEDITO XAVIER DE SOUZA CORBELINO<br>
-GUILHERME FREDERICO DE MOURA MOLLER<br>
-JOSÉ GONÇALVES BOTELHO DO PRADO<br>
-VALTER ALBANO DA SILVA<br>
-FRANCISCO TARQUÍNIO DALTRO<br>
-CARLOS AVALONE JÚNIOR<br>
-JEVERSON MISSIAS DE OLIVEIRA<br>
-VITOR CÂNDIA<br>
-CARLOS CARLÃO PEREIRA DO NASCIMENTO<br>
-JÚLIO STRUBING MULLER NETO<br>
-FAUSTO DE SOUZA FARIA<br>
-PEDRO PINTO DE OLIVEIRA<br>
-SUELI SOLANGE CAPITULA<br>
-ROBERTO TADEU VAZ CURVO<br>
-PEDRO CALMON PEPEU GARCIA VIEIRA SANTANA<br>
-THIERS FERREIRA<br>
-FREDERICO GUILHERME DE MOURA MÜLLER<br>
-SABINO ALBERTÃO FILHO<br>
-JURANDIR ANTÔNIO FRANCISCO<br>
-<br>
+**DANTE MARTINS DE OLIVEIRA**
+
+HERMES GOMES DE ABREU
+
+MAURICIO MAGALHÃES FARIA
+
+JOSÉ RENATO MARTINS DA SILVA
+
+BENEDITO XAVIER DE SOUZA CORBELINO
+
+GUILHERME FREDERICO DE MOURA MOLLER
+
+JOSÉ GONÇALVES BOTELHO DO PRADO
+
+VALTER ALBANO DA SILVA
+
+FRANCISCO TARQUÍNIO DALTRO
+
+CARLOS AVALONE JÚNIOR
+
+JEVERSON MISSIAS DE OLIVEIRA
+
+VITOR CÂNDIA
+
+CARLOS CARLÃO PEREIRA DO NASCIMENTO
+
+JÚLIO STRUBING MULLER NETO
+
+FAUSTO DE SOUZA FARIA
+
+PEDRO PINTO DE OLIVEIRA
+
+SUELI SOLANGE CAPITULA
+
+ROBERTO TADEU VAZ CURVO
+
+PEDRO CALMON PEPEU GARCIA VIEIRA SANTANA
+
+THIERS FERREIRA
+
+FREDERICO GUILHERME DE MOURA MÜLLER
+
+SABINO ALBERTÃO FILHO
+
+JURANDIR ANTÔNIO FRANCISCO

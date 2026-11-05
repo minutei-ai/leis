@@ -1,5 +1,3 @@
-###DEC-081485-0-000-29-03-1978@@@
-
 Decreto nº 81.485, de 29 de março de 1978
 
 Retifica a concessão de lavra outorgada à Cerâmica Martini S.A. pelo Decreto nº 70.787, de 04 de julho de 1.972.

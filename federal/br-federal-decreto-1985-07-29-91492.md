@@ -1,5 +1,3 @@
-###DEC-091492-0-000-29-07-1985@@@
-
 DECRETO Nº 91.492, DE 29 DE JULHO DE 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

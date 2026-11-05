@@ -1,5 +1,3 @@
-###DEL-000287-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 287, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre licitação e contratação de serviços ou obras, pela Superintendência do Desenvolvimento do Nordeste - SUDENE -, e dá outras providências.

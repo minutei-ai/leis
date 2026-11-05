@@ -1,5 +1,3 @@
-###DEC-093618-0-000-24-11-1986@@@
-
 DECRETO Nº 93.618, DE 24 DE NOVEMBRO DE 1986.
 
 Autoriza o aumento de capital da LIGHT - Serviços de Eletricidade S. A.

@@ -1,5 +1,3 @@
-###DEC-074027-0-000-08-05-1974@@@
-
 DECRETO Nº 74.027, DE 8 DE MAIO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação dois lotes de terrenos urbanos, com benfeitorias, situados na Cidade de Santo Antônio de Pádua, Estado do Rio de Janeiro, destinados a instalação de uma Estação Telefônica Automática, pela Companhia Telefônica Brasileira.

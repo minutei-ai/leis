@@ -1,5 +1,3 @@
-###DEC-045841-0-000-22-04-1959@@@
-
 decreto nº 45.841, de 22 de abril de 1959.
 
 Declara a caducidade da concessão de que é titular a Emprêsa Fôrça e Luz de Campos Gerais, Limitada para explorar os serviços de energia elétrica em Campos Gerais, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-057158-0-000-03-11-1965@@@
-
 DECRETO Nº 57.158, de 3 de novembro de 1965.
 
 Cria o 1º Batalhão de Comunicações de Exército, com sede no Rio de Janeiro, GB.

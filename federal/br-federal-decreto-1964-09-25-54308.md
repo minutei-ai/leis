@@ -1,5 +1,3 @@
-###DEC-054308-0-000-25-09-1964@@@
-
 Decreto nº 54.308, de 25 de setembro de 1964.
 
 Especifica as funções permanentes no exterior, para os efeitos da Lei número 4.328, de 30 de abril de 1964 (Código de Vencimentos Militares).

@@ -1,5 +1,3 @@
-###DEC-094757-0-000-10-08-1987@@@
-
 DECRETO Nº 94.757, DE 10 DE AGOSTO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA RANCHO ALEGRE OU IPUEIRINHAS", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado nos Municípios de Santana do Acaraú e Sobral, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, e dá outras providências.

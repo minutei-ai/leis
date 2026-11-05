@@ -1,5 +1,3 @@
-###DEC-006950-0-000-26-08-2009@@@
-
 DECRETO Nº 6.950, DE 26 DE AGOSTO DE 2009.
 
 Dispõe sobre a composição, estrutura, competências e funcionamento do Conselho Nacional de Segurança Pública - CONASP, e dá outras providências.

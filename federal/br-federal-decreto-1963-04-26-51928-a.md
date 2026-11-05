@@ -1,5 +1,3 @@
-###DEC-051928-A-000-26-04-1963@@@
-
 DECRETO Nº 51.928-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a emprêsa de mineração Cia. Cimento Portland, de Sergipe a pesquisar anidrita, gipsita e calcário nos municípios de N.S. do Socorro e Laranjeiras, Estado de Sergipe.

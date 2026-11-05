@@ -1,5 +1,3 @@
-###DEC-096041-0-000-17-05-1988@@@
-
 DECRETO N° 96.041, DE 17 DE MAIO DE 1988
 
 Autoriza o aumento do capital social da Companhia Brasileira de Infra-Estrutura Fazendária  (INFAZ).

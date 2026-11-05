@@ -1,25 +1,31 @@
-LEI Nº 21.792, DE 16 DE FEVEREIRO DE 2023<br>
+LEI Nº 21.792, DE 16 DE FEVEREIRO DE 2023
+
 \- [Decreto nº 10.218, de 16-2-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750/decreto-10218) - (Regulamento)
 
 Estabelece a organização administrativa básica do Poder Executivo e dá outras providências.
 
-<br>
-Leis e Decretos da Organização Administrativa do Poder Executivo Estadual:<br>
-<br>
-<br>
-\- [Decreto nº 10.575, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109778/lei-23042) - Institui o Laboratório de Inovação Goiás – LIGO.<br>
-\- [Decreto nº 10.382, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108381/decreto-10382) - Dispõe sobre a regulamentação e a normatização das Funções Comissionadas Educacionais, da Secretaria de  Estado da Educação, previstas na Lei nº 21.792, de 16 de fevereiro de 2023.<br>
-\- [Decreto nº 10.380, de 28-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108305/decreto-10380) - Estabelece os critérios para a fixação da Política de Remuneração, Gratificações, Benefícios e Vantagens dos membros da Diretoria-Executiva e dos Conselhos de Administração e Fiscal das empresas estatais no âmbito do Estado de Goiás.<br>
-\- [Decreto nº 10.219, de 16-2-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106752/decreto-10219) - Dispõe sobre a correspondência da composição das estruturas básica e complementar dos órgãos e das entidades da administração direta, autárquica e fundacional do Poder Executivo, de que trata o art. 120, da Lei estadual nº 21.792, de 16 de fevereiro de 2023, e sobre a desnecessidade de novo provimento para os cargos em comissão nos casos que especifica.<br>
-\- [Decreto nº 10.218, de 16-2-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750/decreto-10218) - Regulamenta a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.<br>
-\- [Decreto nº 10.275, de 22-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107267/decreto-10275) - Integra a Rede de Gestão de Pessoas ao Sistema de Gestão Estadual – SIGES, regulamenta a designação para o exercício das atribuições diferenciadas de assessoramento técnico especializado e a concessão da Gratificação das Redes de Gestão de Pessoas, instituída pela Lei nº 21.792, de 16 de fevereiro de 2023, revigora o Programa MOVE Goiás na administração direta, autárquica e fundacional do Poder Executivo e revoga o Decreto nº 9.462, de 11 de julho de 2019.<br>
-<br>
-Outras Leis e Decretos de assuntos relacionados:<br>
-<br>
+Leis e Decretos da Organização Administrativa do Poder Executivo Estadual:
+
+\- [Decreto nº 10.575, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109778/lei-23042) - Institui o Laboratório de Inovação Goiás – LIGO.
+
+\- [Decreto nº 10.382, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108381/decreto-10382) - Dispõe sobre a regulamentação e a normatização das Funções Comissionadas Educacionais, da Secretaria de  Estado da Educação, previstas na Lei nº 21.792, de 16 de fevereiro de 2023.
+
+\- [Decreto nº 10.380, de 28-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108305/decreto-10380) - Estabelece os critérios para a fixação da Política de Remuneração, Gratificações, Benefícios e Vantagens dos membros da Diretoria-Executiva e dos Conselhos de Administração e Fiscal das empresas estatais no âmbito do Estado de Goiás.
+
+\- [Decreto nº 10.219, de 16-2-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106752/decreto-10219) - Dispõe sobre a correspondência da composição das estruturas básica e complementar dos órgãos e das entidades da administração direta, autárquica e fundacional do Poder Executivo, de que trata o art. 120, da Lei estadual nº 21.792, de 16 de fevereiro de 2023, e sobre a desnecessidade de novo provimento para os cargos em comissão nos casos que especifica.
+
+\- [Decreto nº 10.218, de 16-2-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750/decreto-10218) - Regulamenta a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.
+
+\- [Decreto nº 10.275, de 22-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107267/decreto-10275) - Integra a Rede de Gestão de Pessoas ao Sistema de Gestão Estadual – SIGES, regulamenta a designação para o exercício das atribuições diferenciadas de assessoramento técnico especializado e a concessão da Gratificação das Redes de Gestão de Pessoas, instituída pela Lei nº 21.792, de 16 de fevereiro de 2023, revigora o Programa MOVE Goiás na administração direta, autárquica e fundacional do Poder Executivo e revoga o Decreto nº 9.462, de 11 de julho de 2019.
+
+Outras Leis e Decretos de assuntos relacionados:
+
 \- [Decreto nº 10.770, de 26-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111173) - Dispõe sobre a regulamentação e a normatização das Gratificações Educacionais e das Funções Comissionadas Educacionais da Secretaria de Estado da Educação.
 
-\- [Decreto nº 10.307, de 24-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107672/decreto-10307) - Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e cria a Rede de Contratações – REDECON no Poder Executivo estadual.<br>
-\- [Decreto nº 10.289, de 12-7-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107469/decreto-10289) - Institui o Sistema Estruturador Integrado de Planejamento, Orçamento e Finanças Estadual – SIPOFE, no Poder Executivo estadual.<br>
+\- [Decreto nº 10.307, de 24-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107672/decreto-10307) - Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e cria a Rede de Contratações – REDECON no Poder Executivo estadual.
+
+\- [Decreto nº 10.289, de 12-7-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107469/decreto-10289) - Institui o Sistema Estruturador Integrado de Planejamento, Orçamento e Finanças Estadual – SIPOFE, no Poder Executivo estadual.
+
 \- [Decreto nº 10.287, de 10-7-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107467/decreto-10287) - Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela Lei estadual nº 21.792, de 16 de fevereiro de 2023, na área de inovação da gestão e dos serviços públicos, revigora e renomeia com TransformaGOV a Rede de Transformação dos Serviços Públicos prevista para o Poder Executivo estadual pela Lei estadual nº 20.846, de 2 de setembro de 2020, também institui o Observatório de Inovação em Políticas Públicas do Estado de Goiás e o Hub Goiás.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), decreta e eu sanciono a seguinte Lei:
@@ -54,7 +60,8 @@ II – a Controladoria-Geral do Estado – CGE; e ([Regulamento](https://legisl
 
 III – a Procuradoria-Geral do Estado – PGE. ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109067/decreto-10489))
 
-IV – a Autoridade Estadual de Minerais Críticos – AMIC/GO.<br>
+IV – a Autoridade Estadual de Minerais Críticos – AMIC/GO.
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 § 2º Integram também a Governadoria:
@@ -69,7 +76,8 @@ III – o Gabinete de Políticas Sociais.
 
 Seção II
 
-Da Secretaria de Estado da Casa Civil<br>
+Da Secretaria de Estado da Casa Civil
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108400/decreto-10389))
 
 Art. 3º À CASA CIVIL competem:
@@ -84,7 +92,8 @@ c) a análise do mérito e da compatibilidade das propostas com as diretrizes go
 
 d) a prospecção de informações estratégicas ao Governador para apoiar o processo decisório e o desempenho das competências do Governo do Estado;
 
-II – a elaboração de ofícios, decretos, despachos e projetos de lei, com o acompanhamento do respectivo processo legislativo, também de outros atos normativos ou administrativos da competência do Governador do Estado, bem como a adoção das providências necessárias à sua publicação, quando ela for exigida;<br>
+II – a elaboração de ofícios, decretos, despachos e projetos de lei, com o acompanhamento do respectivo processo legislativo, também de outros atos normativos ou administrativos da competência do Governador do Estado, bem como a adoção das providências necessárias à sua publicação, quando ela for exigida;
+
 \- [Vide Despacho PGE nº 1722/2022](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17817) - Ementa: Administrativo. Reforma previdenciária. Sistema de proteção social dos militares. Decreto estadual nº 9.590/2020. Pensão por morte. Interpretação dos arts. 24-b e 26 da lei federal nº 13.954/2019. Pleito de entidades de classes militares para revogação do decreto estadual nº 9.590/2020. Conflito negativo de atribuições entre as procuradorias setoriais da Casa Civil e da Segurança Pública. Análise do tema de mérito como elemento preambular à decisão acerca da edição de novo ato normativo. Questões afetas à Secretaria de Estado da Segurança Pública e à Goiasprev. Atribuição conjunta das respectivas procuradorias setoriais. Matéria orientada. 
 
 III – a manutenção das publicações de atos normativos e documentos oficiais em repositórios digitais seguros, bem como o provimento de mecanismos de processamento, armazenamento, disponibilização e consulta para os usuários, com o uso de tecnologias de informação e comunicação apropriadas; e
@@ -95,7 +104,8 @@ Parágrafo único. A tramitação de processos, o fornecimento de informações 
 
 Seção III
 
-Da Secretaria de Estado da Casa Militar<br>
+Da Secretaria de Estado da Casa Militar
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108216/decreto-10358))
 
 Art. 4º À CASA MILITAR competem:
@@ -110,41 +120,48 @@ IV – a ajudância de ordens do Governador e do Vice-Governador do Estado.
 
 Seção IV
 
-Da Secretaria-Geral de Governo<br>
+Da Secretaria-Geral de Governo
+
 ( [Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108173/decreto-10355) )
 
 Art. 5º À SGG competem:
 
 I – o apoio direto ao Chefe do Poder Executivo estadual no desempenho de suas atribuições, especialmente o acompanhamento, a coordenação e a integração das ações governamentais no âmbito dos órgãos integrantes da Governadoria;
 
-II – a participação na formulação, na execução e na avaliação das diretrizes e das políticas para negociações internacionais, além do auxílio na articulação de ações dos órgãos e das entidades do Poder Executivo estadual com entes governamentais e não governamentais internacionais, para a celebração de acordos, memorandos e convênios, ressalvadas as competências da AMIC/GO;<br>
+II – a participação na formulação, na execução e na avaliação das diretrizes e das políticas para negociações internacionais, além do auxílio na articulação de ações dos órgãos e das entidades do Poder Executivo estadual com entes governamentais e não governamentais internacionais, para a celebração de acordos, memorandos e convênios, ressalvadas as competências da AMIC/GO;
+
 \- [Redação dada pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 ~~II – a participação na formulação, na execução e na avaliação das diretrizes e das políticas para negociações internacionais, além do auxílio na articulação de ações dos órgãos e das entidades do Poder Executivo estadual com entes governamentais e não governamentais internacionais, para a celebração de acordos, memorandos e/ou convênios;~~
 
 III – a coordenação das ações de diplomacia federativa e assuntos consulares do Estado de Goiás, bem como o atendimento a brasileiros e estrangeiros nos limites constitucionais do Estado;
 
-IV – o assessoramento ao Chefe do Poder Executivo estadual e a seus auxiliares designados nas articulações intersetorial, transversal e interoperativa de instituições governamentais e não governamentais, setor privado e entes federativos, nacionais e internacionais, ressalvadas as competências da AMIC/GO;<br>
+IV – o assessoramento ao Chefe do Poder Executivo estadual e a seus auxiliares designados nas articulações intersetorial, transversal e interoperativa de instituições governamentais e não governamentais, setor privado e entes federativos, nacionais e internacionais, ressalvadas as competências da AMIC/GO;
+
 \- [Redação dada pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 ~~IV – o assessoramento ao Chefe do Poder Executivo estadual e a seus auxiliares designados na promoção das articulações intersetorial, transversal e interoperativa entre instituições governamentais, não governamentais, setor privado e entes federativos, nacionais e internacionais;~~
 
-V – o auxílio na articulação, no Poder Executivo estadual, entre todas as pastas vinculadas a ele para a captação de oportunidades e a celebração de cooperações técnicas internacionais bilaterais e multilaterais, ressalvadas as competências da AMIC/GO;<br>
+V – o auxílio na articulação, no Poder Executivo estadual, entre todas as pastas vinculadas a ele para a captação de oportunidades e a celebração de cooperações técnicas internacionais bilaterais e multilaterais, ressalvadas as competências da AMIC/GO;
+
 \- [Redação dada pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 ~~V – o auxílio na articulação, no âmbito do Poder Executivo estadual, entre todas as pastas a ele vinculadas para a captação de oportunidades e a celebração de cooperações técnicas internacionais bilateral e multilateral;~~
 
 VI – o planejamento, a coordenação, a avaliação, a promoção e a elaboração de estudos socioeconômicos, pesquisas aplicadas, avaliações, também sistemas de monitoramento de políticas públicas e de projeções com suporte às decisões estratégicas, para ofertar subsídios à formulação de políticas estaduais de desenvolvimento com a análise dos cenários macroeconômicos e das conjunturas mundial, nacional e regional, bem como de suas implicações na economia local;
 
-VII – a elaboração, a proposição e o acompanhamento da execução das políticas públicas estaduais das cidades, do transporte de passageiros e da mobilidade urbana da Região Metropolitana de Goiânia e da Região Metropolitana do Entorno do Distrito Federal, bem como a interlocução entre as esferas federal, estadual e municipal sobre políticas públicas, inclusive o acompanhamento, o controle e a fiscalização da qualidade do transporte;<br>
+VII – a elaboração, a proposição e o acompanhamento da execução das políticas públicas estaduais das cidades, do transporte de passageiros e da mobilidade urbana da Região Metropolitana de Goiânia e da Região Metropolitana do Entorno do Distrito Federal, bem como a interlocução entre as esferas federal, estadual e municipal sobre políticas públicas, inclusive o acompanhamento, o controle e a fiscalização da qualidade do transporte;
+
 \- [Redação dada pela Lei nº 23.230, de 16-01-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110390).
 
 ~~VII – a elaboração, a proposição e o acompanhamento da execução das políticas públicas estaduais das cidades, do transporte de passageiros e da mobilidade urbana da Região Metropolitana de Goiânia e da Região Metropolitana do Entorno do Distrito Federal, além dos terminais rodoviários, bem como a interlocução entre as esferas federal, estadual e municipal sobre políticas públicas, inclusive o acompanhamento, o controle e a fiscalização da qualidade do transporte;~~
 
-VII-A – a formulação e a execução de políticas públicas, bem como a representação do poder concedente, em contratos de concessão ou permissão de serviços relacionados à implantação, à operação, à administração, ao controle, à fiscalização e à exploração de terminais rodoviários de passageiros de propriedade ou posse da administração pública estadual, diretamente ou por delegação, mediante convênio de cooperação ou concessão, neste caso, sempre precedida de licitação;<br>
+VII-A – a formulação e a execução de políticas públicas, bem como a representação do poder concedente, em contratos de concessão ou permissão de serviços relacionados à implantação, à operação, à administração, ao controle, à fiscalização e à exploração de terminais rodoviários de passageiros de propriedade ou posse da administração pública estadual, diretamente ou por delegação, mediante convênio de cooperação ou concessão, neste caso, sempre precedida de licitação;
+
 \- [Acrescido pela Lei nº 23.230, de 16-01-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110390).
 
-VIII - a elaboração, a proposição e o acompanhamento da execução das políticas públicas estaduais de energia, assim como a interlocução entre as esferas federal, estadual e municipal sobre políticas públicas, inclusive o acompanhamento, o controle e a fiscalização da qualidade dos serviços de energia;<br>
+VIII - a elaboração, a proposição e o acompanhamento da execução das políticas públicas estaduais de energia, assim como a interlocução entre as esferas federal, estadual e municipal sobre políticas públicas, inclusive o acompanhamento, o controle e a fiscalização da qualidade dos serviços de energia;
+
 \- [Redação dada pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
 ~~VIII – a elaboração, a proposição e o acompanhamento da execução das políticas públicas estaduais de energia e telecomunicações no Estado, assim como a interlocução entre as esferas federal, estadual e municipal sobre políticas públicas, inclusive o acompanhamento, o controle e a fiscalização da qualidade dos serviços de energia e telecomunicações;~~
@@ -157,13 +174,16 @@ XI – a implementação, a capacitação, a sensibilização e a governança do
 
 XII – o monitoramento do portfólio de projetos, obras e entregas governamentais do Estado;
 
-~~XIII – a promoção, a formulação e a gestão da política estadual de tecnologia da informação;~~<br>
+~~XIII – a promoção, a formulação e a gestão da política estadual de tecnologia da informação;~~
+
 \- [Revogado pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183), art. 6º, I.
 
-~~XIV – a promoção e a implementação de políticas públicas estaduais de incentivo à implantação de cidades inteligentes no Estado; e~~<br>
+~~XIV – a promoção e a implementação de políticas públicas estaduais de incentivo à implantação de cidades inteligentes no Estado; e~~
+
 \- [Revogado pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183), art. 6º. I.
 
-~~XV – o apoio e o acompanhamento da gestão do ensino superior mantido pelo Estado.~~<br>
+~~XV – o apoio e o acompanhamento da gestão do ensino superior mantido pelo Estado.~~
+
 \- [Revogado pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183), art. 6º, I.
 
 Art. 6º Integram a SGG, como órgãos colegiados:
@@ -174,12 +194,14 @@ II – o Conselho Estadual do Desenvolvimento Metropolitano de Goiânia; e
 
 III – o Conselho de Desenvolvimento Metropolitano do Entorno do Distrito Federal – CODERME.
 
-IV – o Conselho de Monitoramento e Avaliação de Políticas Públicas do Estado de Goiás – CAP.<br>
+IV – o Conselho de Monitoramento e Avaliação de Políticas Públicas do Estado de Goiás – CAP.
+
 \- [Acrescido pela Lei nº 23.985, de 23.-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111970/lei-23985).
 
 Seção V
 
-Da Secretaria de Estado de Relações Institucionais<br>
+Da Secretaria de Estado de Relações Institucionais
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108412/decreto-10400))
 
 Art. 7º À SERINT competem:
@@ -200,14 +222,16 @@ c) na promoção do relacionamento intergovernamental e da articulação institu
 
 Seção VI
 
-Da Vice-Governadoria<br>
+Da Vice-Governadoria
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108408/decreto-10396))
 
 Art. 8º À VG compete prestar o apoio e o assessoramento administrativo, operacional e técnico ao Vice-Governador no desempenho de suas atribuições constitucionais e nas funções a ele conferidas por lei ou delegadas pelo Governador.
 
 Seção VII
 
-Do Conselho de Governo<br>
+Do Conselho de Governo
+
 ([Regimento Interno](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107491/resolucao-1))
 
 Art. 9º Ao Conselho de Governo, presidido pelo Governador do Estado ou por substituto por ele indicado e integrado pelo Procurador-Geral do Estado, pelos Secretários de Estado da Casa Civil, da Administração, da Economia, da Secretaria-Geral de Governo e pelo Chefe da CGE, compete assessorar o Chefe do Poder Executivo estadual na formulação de diretrizes de ação governamental.
@@ -216,7 +240,8 @@ Parágrafo único. O Conselho de Governo poderá contar com câmaras temáticas 
 
 Seção VIII
 
-Da Controladoria-Geral do Estado<br>
+Da Controladoria-Geral do Estado
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108402/decreto-10391))
 
 Art. 10. À CGE competem:
@@ -237,7 +262,8 @@ Art. 11. Integra a CGE, como órgão colegiado, o Conselho de Transparência Pú
 
 Seção IX
 
-Da Procuradoria-Geral do Estado<br>
+Da Procuradoria-Geral do Estado
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109067/decreto-10489))
 
 Art. 12. À PGE competem:
@@ -272,81 +298,106 @@ Do Gabinete de Políticas Sociais
 
 Art. 15. Ao Gabinete de Políticas Sociais compete o acompanhamento de políticas e ações sociais prioritárias.
 
-Seção XIII<br>
+Seção XIII
+
 \- [Acrescida pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 Da Autoridade Estadual de Minerais Críticos – AMIC/GO
 
-Art. 15-A. À AMIC/GO compete planejar, coordenar, integrar e realizar a governança das ações direcionadas para o assessoramento direto do Chefe do Poder Executivo na formulação de políticas públicas relacionadas à pesquisa, à exploração, ao beneficiamento, à industrialização e à comercialização dos minerais críticos existentes no território do Estado de Goiás, para o desenvolvimento econômico sustentável, a segurança estratégica, a inovação tecnológica e o bem-estar social.<br>
+Art. 15-A. À AMIC/GO compete planejar, coordenar, integrar e realizar a governança das ações direcionadas para o assessoramento direto do Chefe do Poder Executivo na formulação de políticas públicas relacionadas à pesquisa, à exploração, ao beneficiamento, à industrialização e à comercialização dos minerais críticos existentes no território do Estado de Goiás, para o desenvolvimento econômico sustentável, a segurança estratégica, a inovação tecnológica e o bem-estar social.
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-§ 1º A AMIC/GO será presidida pelo Governador do Estado e integrada pelos seguintes membros permanentes:<br>
+§ 1º A AMIC/GO será presidida pelo Governador do Estado e integrada pelos seguintes membros permanentes:
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-I – Secretário-Chefe da Secretaria-Geral de Governo, que substituirá o Governador do Estado em suas ausências ou impedimentos;<br>
+I – Secretário-Chefe da Secretaria-Geral de Governo, que substituirá o Governador do Estado em suas ausências ou impedimentos;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-II – Secretário de Estado da Casa Civil;<br>
+II – Secretário de Estado da Casa Civil;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-III – Procurador-Geral do Estado;<br>
+III – Procurador-Geral do Estado;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-IV – Secretário de Estado da Administração;<br>
+IV – Secretário de Estado da Administração;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-V – Secretário de Estado da Economia;<br>
+V – Secretário de Estado da Economia;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-VI – Secretário de Estado de Meio Ambiente e Desenvolvimento Sustentável;<br>
+VI – Secretário de Estado de Meio Ambiente e Desenvolvimento Sustentável;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-VII – Secretário de Estado de Agricultura, Pecuária e Abastecimento;<br>
+VII – Secretário de Estado de Agricultura, Pecuária e Abastecimento;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-VIII – Secretário de Estado de Indústria, Comércio e Serviços;<br>
+VIII – Secretário de Estado de Indústria, Comércio e Serviços;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-IX – Secretário de Estado de Ciência, Tecnologia e Inovação;<br>
+IX – Secretário de Estado de Ciência, Tecnologia e Inovação;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-X – Presidente da Agência Goiana de Infraestrutura e Transportes; e<br>
+X – Presidente da Agência Goiana de Infraestrutura e Transportes; e
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-XI – até três membros do Governo de Goiás de livre escolha do Governador do Estado.<br>
+XI – até três membros do Governo de Goiás de livre escolha do Governador do Estado.
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-§ 2º Integra a estrutura de governança da AMIC a Câmara Setorial de Agrominerais, composta por:<br>
+§ 2º Integra a estrutura de governança da AMIC a Câmara Setorial de Agrominerais, composta por:
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-I – um representante da Secretaria de Estado de Agricultura, Pecuária e Abastecimento – SEAPA;<br>
+I – um representante da Secretaria de Estado de Agricultura, Pecuária e Abastecimento – SEAPA;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-II – um representante da Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável – SEMAD;<br>
+II – um representante da Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável – SEMAD;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-III – um representante de cooperativas ou associações de produtores rurais;<br>
+III – um representante de cooperativas ou associações de produtores rurais;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-IV – dois representantes de empresas industriais dos agrominerais; e<br>
+IV – dois representantes de empresas industriais dos agrominerais; e
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-V – um representante da Fundação de Amparo à Pesquisa do Estado de Goiás – FAPEG.<br>
+V – um representante da Fundação de Amparo à Pesquisa do Estado de Goiás – FAPEG.
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-§ 3º Compete à Câmara Setorial de Agrominerais:<br>
+§ 3º Compete à Câmara Setorial de Agrominerais:
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-I – propor a edição de normas de qualidade para os agrominerais;<br>
+I – propor a edição de normas de qualidade para os agrominerais;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-II – elaborar guias de boas práticas de aplicação de pó de rocha no solo;<br>
+II – elaborar guias de boas práticas de aplicação de pó de rocha no solo;
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-III – estimular e apoiar a realização de programas de extensão rural e demonstrações técnicas; e<br>
+III – estimular e apoiar a realização de programas de extensão rural e demonstrações técnicas; e
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
-IV – estimular a ampliação da cadeia de valor dos agrominerais.<br>
+IV – estimular a ampliação da cadeia de valor dos agrominerais.
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 CAPÍTULO II
@@ -383,7 +434,8 @@ XI – a Secretaria de Estado de Ciência, Tecnologia e Inovação - SECTI; ([R
 
 XII – a Secretaria de Estado de Desenvolvimento Social - SEDS; ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108217/decreto-10357))
 
-XIII – a Secretaria de Estado de Esporte e Lazer – SEEL;<br>
+XIII – a Secretaria de Estado de Esporte e Lazer – SEEL;
+
 \- [Redação dada pela Lei nº 23.432, de 21-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110698). ([Regulamento](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/108460/decreto-10408))
 
 ~~XIII – a Secretaria de Estado de Esporte e Lazer - SEL;~~  
@@ -398,7 +450,8 @@ Parágrafo único. O controle finalístico, disciplinado por lei e sujeito ao re
 
 Seção II
 
-Da Secretaria de Estado da Administração<br>
+Da Secretaria de Estado da Administração
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108665/decreto-10437))
 
 Art. 17. À SEAD competem:
@@ -493,7 +546,8 @@ II – o assessoramento ao Governador do Estado e a coordenação do assessorame
 
 Seção IV
 
-Da Secretaria de Estado da Cultura<br>
+Da Secretaria de Estado da Cultura
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108537/decreto-10425))
 
 Art. 21. À SECULT competem:
@@ -520,7 +574,8 @@ Art. 22. Integra a SECULT, como órgão colegiado o Conselho Estadual de Cultura
 
 Seção V
 
-Da Secretaria de Estado da Economia<br>
+Da Secretaria de Estado da Economia
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109252/decreto-10516))
 
 Art. 23. À ECONOMIA competem:
@@ -567,7 +622,8 @@ II – o Conselho Deliberativo dos Índices de Participação dos Municípios - 
 
 Seção VI
 
-Da Secretaria de Estado da Educação<br>
+Da Secretaria de Estado da Educação
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109038/decreto-10482))
 
 Art. 25. À SEDUC competem:
@@ -592,7 +648,8 @@ Da Secretaria de Estado da Infraestrutura
 
 Art. 27. À SEINFRA competem:
 
-I – a formulação das políticas estaduais de habitação, obras públicas e saneamento básico, exceto de resíduos sólidos, bem como o planejamento, o monitoramento e o acompanhamento de sua execução, de seu fornecimento e da prestação dos serviços relacionadas a elas, também a respectiva captação de recursos, em especial:<br>
+I – a formulação das políticas estaduais de habitação, obras públicas e saneamento básico, exceto de resíduos sólidos, bem como o planejamento, o monitoramento e o acompanhamento de sua execução, de seu fornecimento e da prestação dos serviços relacionadas a elas, também a respectiva captação de recursos, em especial:
+
 \- [Redação dada pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
 ~~I – a formulação das políticas estaduais de habitação e obras públicas, bem como o planejamento, o monitoramento e o acompanhamento de sua execução, de seu fornecimento ou da prestação de serviços a elas relacionadas, também a respectiva captação de recursos, em especial:~~
@@ -621,22 +678,28 @@ VI – o planejamento, a direção, a execução, o controle, a regulação e a 
 
 VII – a participação, como interveniente, nos convênios cujo objeto faça parte de suas atribuições, de forma a exercer o controle das políticas públicas relacionadas.
 
-VIII – a elaboração e o acompanhamento de projetos de habitação, de saneamento básico, exceto resíduos sólidos, que podem ser financiados com recursos:<br>
+VIII – a elaboração e o acompanhamento de projetos de habitação, de saneamento básico, exceto resíduos sólidos, que podem ser financiados com recursos:
+
 \- [Acrescido pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
-a) do Orçamento-Geral do Estado; e<br>
+a) do Orçamento-Geral do Estado; e
+
 \- [Acrescida pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
-b) provenientes de outros entes federativos, transferidos à SEINFRA por qualquer instrumento;<br>
+b) provenientes de outros entes federativos, transferidos à SEINFRA por qualquer instrumento;
+
 \- [Acrescida pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
-IX – a execução de obras públicas, com os respectivos pagamentos, a serem custeadas com recursos advindos de emendas parlamentares.<br>
+IX – a execução de obras públicas, com os respectivos pagamentos, a serem custeadas com recursos advindos de emendas parlamentares.
+
 \- [Acrescido pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
-§ 1º A SEINFRA, no exercício de suas competências, atuará na esfera do saneamento básico, exceto resíduos sólidos, sobre o conjunto dos serviços públicos de abastecimento de água, esgotamento sanitário, drenagem e manejo das águas pluviais urbanas.<br>
+§ 1º A SEINFRA, no exercício de suas competências, atuará na esfera do saneamento básico, exceto resíduos sólidos, sobre o conjunto dos serviços públicos de abastecimento de água, esgotamento sanitário, drenagem e manejo das águas pluviais urbanas.
+
 \- [Acrescido pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
-§ 2º As obras decorrentes das políticas formuladas pela SEINFRA poderão ser executadas na própria pasta, custeadas por emendas parlamentares e demais transferências de recursos, ou quando houver designação expressa do Chefe do Poder Executivo.<br>
+§ 2º As obras decorrentes das políticas formuladas pela SEINFRA poderão ser executadas na própria pasta, custeadas por emendas parlamentares e demais transferências de recursos, ou quando houver designação expressa do Chefe do Poder Executivo.
+
 \- [Acrescido pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
 Art. 28. O controle finalístico exercido pela SEINFRA sobre as entidades a ela jurisdicionadas, integrantes da administração indireta, buscará assegurar que a atuação delas observe a política pública estadual formulada pela secretaria, em atenção à atribuição legal dela quanto ao monitoramento e ao acompanhamento de sua execução.
@@ -661,40 +724,52 @@ I – o Conselho Estadual de Saneamento;
 
 II – o Conselho Gestor do FUNDEINFRA; e
 
-~~III – o Conselho Gestor de Infraestrutura e Habitação.~~<br>
+~~III – o Conselho Gestor de Infraestrutura e Habitação.~~
+
 \- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
 
-~~Parágrafo único. O Conselho Gestor de Infraestrutura e Habitação, que possui a função consultiva para o estabelecimento de diretrizes para as políticas públicas nas áreas de infraestrutura e habitação, é composto pelos titulares das seguintes unidades, que, ao se ausentarem ou estarem impedidas, deverão designar seus representantes:~~<br>
+~~Parágrafo único. O Conselho Gestor de Infraestrutura e Habitação, que possui a função consultiva para o estabelecimento de diretrizes para as políticas públicas nas áreas de infraestrutura e habitação, é composto pelos titulares das seguintes unidades, que, ao se ausentarem ou estarem impedidas, deverão designar seus representantes:~~
+
 \- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
 
-~~I – Secretaria de Estado da Infraestrutura, na função de Presidente;~~<br>
+~~I – Secretaria de Estado da Infraestrutura, na função de Presidente;~~
+
 \- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
 
-~~II – Agência Goiana de Habitação S/A – AGEHAB;~~<br>
+~~II – Agência Goiana de Habitação S/A – AGEHAB;~~
+
 \- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
 
-~~III – Agência Goiana de Infraestrutura e Transportes – GOINFRA;~~<br>
+~~III – Agência Goiana de Infraestrutura e Transportes – GOINFRA;~~
+
 \- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
 
-~~IV – Companhia de Desenvolvimento Econômico de Goiás – CODEGO;~~<br>
+~~IV – Companhia de Desenvolvimento Econômico de Goiás – CODEGO;~~
+
 \- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
 
-~~V – Saneamento de Goiás S/A – SANEAGO; e~~<br>
+~~V – Saneamento de Goiás S/A – SANEAGO; e~~
+
 \- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
 
-~~VI – Subsecretaria de Políticas Públicas para Obras e Saneamento, da SEINFRA; e~~<br>
-\- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.<br>
+~~VI – Subsecretaria de Políticas Públicas para Obras e Saneamento, da SEINFRA; e~~
+
+\- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
+
 \- [Redação dada pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
 ~~VI – Subsecretaria de Políticas Públicas para Obras e Habitação, da SEINFRA.~~
 
-~~VII – Subsecretaria de Políticas Habitacionais, Parcerias e Inovação, da SEINFRA.~~<br>
-\- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.<br>
+~~VII – Subsecretaria de Políticas Habitacionais, Parcerias e Inovação, da SEINFRA.~~
+
+\- [Revogado pela Lei nº 22.941, de 23-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402/lei-22941), art. 1º.
+
 \- [Acrescido pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
 Seção VIII
 
-Da Secretaria de Estado da Retomada<br>
+Da Secretaria de Estado da Retomada
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108397/decreto-10387))
 
 Art. 31. À RETOMADA competem:
@@ -733,7 +808,8 @@ III – o Conselho Estadual de Turismo.
 
 Seção IX
 
-Da Secretaria de Estado da Saúde<br>
+Da Secretaria de Estado da Saúde
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110624/decreto-10687))
 
 Art. 33. À SES competem:
@@ -752,7 +828,8 @@ Art. 34. Integram a SES, como órgãos colegiados:
 
 I – o Conselho Estadual de Saúde;
 
-II – o Conselho de Excelência das Unidades Públicas Hospitalares Gerenciadas por Entidades de Direito Privado sem Fins Lucrativos; e<br>
+II – o Conselho de Excelência das Unidades Públicas Hospitalares Gerenciadas por Entidades de Direito Privado sem Fins Lucrativos; e
+
 \- [Redação dada pela Lei nº 22.889, de 5-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109263/lei-22889).
 
 ~~II – o Conselho de Excelência das Unidades Públicas Hospitalares Gerenciadas por Organizações Sociais; e~~
@@ -761,7 +838,8 @@ III – a Comissão Intergestores Bipartite.
 
 Seção X
 
-Da Secretaria de Estado da Segurança Pública<br>
+Da Secretaria de Estado da Segurança Pública
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111000/decreto-10715))
 
 Art. 35. À SSP competem:
@@ -780,15 +858,18 @@ b) pela Polícia Militar: policiamento ostensivo e preservação da ordem públi
 
 c) pelo Corpo de Bombeiros Militar: atividades de defesa civil e exercício do poder de polícia sobre instalações, para a proteção contra incêndio e pânico; e
 
-d) pela Diretoria-Geral de Polícia Penal - DGPP:<br>
+d) pela Diretoria-Geral de Polícia Penal - DGPP:
+
 \- [Redação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218/lei-22457).
 
 ~~d) pela Diretoria-Geral de Administração Penitenciária:~~
 
-e) pela Diretoria da Polícia Científica – DPCI: atividades de perícia oficial criminal nas áreas de Criminalística, Medicina Legal e Odontologia Legal, inclusive o exame de local de crime e a gestão da cadeia de custódia de vestígios materiais, nos termos dos arts. 158-A a 158-F do Decreto-Lei federal nº 3.689 (Código de Processo Penal), de 3 de outubro de 1941, no âmbito das investigações criminais e das ações penais.<br>
+e) pela Diretoria da Polícia Científica – DPCI: atividades de perícia oficial criminal nas áreas de Criminalística, Medicina Legal e Odontologia Legal, inclusive o exame de local de crime e a gestão da cadeia de custódia de vestígios materiais, nos termos dos arts. 158-A a 158-F do Decreto-Lei federal nº 3.689 (Código de Processo Penal), de 3 de outubro de 1941, no âmbito das investigações criminais e das ações penais.
+
 \- [Acrescida pela Lei nº 24.395, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115989/lei-24395).
 
-Parágrafo único. As competências atribuídas à Polícia Científica não afastam o exercício e a autonomia técnico-pericial dos órgãos e das carreiras da Polícia Civil com atribuição legal para os procedimentos papiloscópicos, necropapiloscópicos, prosopográficos e os demais correlatos à identificação humana.<br>
+Parágrafo único. As competências atribuídas à Polícia Científica não afastam o exercício e a autonomia técnico-pericial dos órgãos e das carreiras da Polícia Civil com atribuição legal para os procedimentos papiloscópicos, necropapiloscópicos, prosopográficos e os demais correlatos à identificação humana.
+
 \- [Acrescido pela Lei nº 24.395, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115989/lei-24395).
 
 1\. as atividades voltadas para o acompanhamento e a fiscalização do cumprimento de penas privativas de liberdade em regime de prisão;
@@ -807,12 +888,14 @@ II – a Polícia Militar - PM;
 
 III – o Corpo de Bombeiros Militar - CBM; e
 
-IV – a Diretoria– Geral de Polícia Penal - DGPP;<br>
+IV – a Diretoria– Geral de Polícia Penal - DGPP;
+
 \- [Redação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218/lei-22457).
 
 ~~IV – a Diretoria– Geral de Administração Penitenciária – DGAP.~~
 
-V – a Diretoria da Polícia Científica – DPCI.<br>
+V – a Diretoria da Polícia Científica – DPCI.
+
 \- [Acrescido pela Lei nº 24.395, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115989/lei-24395).
 
 Art. 37. Integram ainda a SSP, como órgãos colegiados:
@@ -825,14 +908,16 @@ III – o Conselho Estadual de Proteção a Vítimas e Testemunhas Ameaçadas no
 
 IV – o Conselho Superior da Polícia Civil, da DGPC; e
 
-V – o Conselho Penitenciário, da DGPP.<br>
+V – o Conselho Penitenciário, da DGPP.
+
 \- [Redação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218/lei-22457).
 
 ~~V – o Conselho Penitenciário, da DGAP.~~
 
 Seção XI
 
-Da Secretaria de Estado de Agricultura, Pecuária e Abastecimento<br>
+Da Secretaria de Estado de Agricultura, Pecuária e Abastecimento
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107714/decreto-10318))
 
 Art. 38. À SEAPA competem:
@@ -857,7 +942,8 @@ III – o Conselho Estadual de Irrigação.
 
 Seção XII
 
-Da Secretaria de Estado de Ciência, Tecnologia e Inovação<br>
+Da Secretaria de Estado de Ciência, Tecnologia e Inovação
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108287/decreto-10373))
 
 Art. 40. À SECTI competem:
@@ -880,23 +966,28 @@ VIII – a promoção das educações profissional e tecnológica nas modalidade
 
 IX – o desenvolvimento de políticas para a pesquisa, a ciência e a tecnologia direcionadas ao desenvolvimento sustentável, com o implemento de ações para a formação e a difusão da cultura científica da sustentabilidade, em interação com a Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável.
 
-X - a promoção e a implementação de políticas públicas estaduais de incentivo à implantação de cidades inteligentes;<br>
+X - a promoção e a implementação de políticas públicas estaduais de incentivo à implantação de cidades inteligentes;
+
 \- [Acrescido pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
-XI - a elaboração, a proposição e o acompanhamento da execução das políticas públicas estaduais de telecomunicações, bem como a interlocução entre as esferas federal, estadual e municipal sobre políticas públicas, inclusive o acompanhamento, o controle e a fiscalização da qualidade dos serviços de telecomunicações;<br>
+XI - a elaboração, a proposição e o acompanhamento da execução das políticas públicas estaduais de telecomunicações, bem como a interlocução entre as esferas federal, estadual e municipal sobre políticas públicas, inclusive o acompanhamento, o controle e a fiscalização da qualidade dos serviços de telecomunicações;
+
 \- [Acrescido pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
-XII - a promoção, a formulação e a gestão da política estadual de tecnologia da informação; e<br>
+XII - a promoção, a formulação e a gestão da política estadual de tecnologia da informação; e
+
 \- [Acrescido pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
-XIII - o apoio e o acompanhamento da gestão do ensino superior mantido pelo Estado de Goiás.<br>
+XIII - o apoio e o acompanhamento da gestão do ensino superior mantido pelo Estado de Goiás.
+
 \- [Acrescido pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
 Art. 41. Integra a SECTI, como órgão colegiado, o Conselho Estadual de Ciência e Tecnologia - CONCITEG.
 
 Seção XIII
 
-Da Secretaria de Estado de Desenvolvimento Social<br>
+Da Secretaria de Estado de Desenvolvimento Social
+
 ([Regulamento)](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108217/decreto-10357)
 
 Art. 42. À SEDS competem:
@@ -941,17 +1032,20 @@ IX – o Conselho Estadual de Lésbicas, Gays, Bissexuais, Travestis e Transexua
 
 Seção XIV
 
-Da Secretaria de Estado de Esporte e Lazer<br>
+Da Secretaria de Estado de Esporte e Lazer
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108460/decreto-10408)) 
 
-Art. 44. À SEEL competem:<br>
+Art. 44. À SEEL competem:
+
 \- [Redação dada pela Lei nº 23.432, de 21-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110698).
 
 ~~Art. 44. À SEL competem:~~
 
 I – a formulação e a execução da política estadual de esporte e lazer;
 
-II – a regulação e o controle da prática desportiva, com a adoção de medidas de prevenção do uso de meios ilícitos nela;<br>
+II – a regulação e o controle da prática desportiva, com a adoção de medidas de prevenção do uso de meios ilícitos nela;
+
 \- [Redação dada pela Lei nº 23.432, de 21-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110698).
 
 ~~II – a regulação e o controle da prática desportiva, com a adoção de medidas de prevenção e repressão do uso de meios ilícitos nela;~~
@@ -960,21 +1054,24 @@ III – o fomento à iniciação esportiva e ao desporto de rendimento; e
 
 IV – a administração, a manutenção, a expansão e o aprimoramento da infraestrutura de esporte e lazer do Estado.
 
-Art. 45. Integra a SEEL, como órgão colegiado, o Conselho Estadual de Esporte e Lazer.<br>
+Art. 45. Integra a SEEL, como órgão colegiado, o Conselho Estadual de Esporte e Lazer.
+
 \- [Redação dada pela Lei nº 23.432, de 21-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110698).
 
 ~~Art. 45. Integra a SEL, como órgão colegiado, o Conselho Estadual de Esporte e Lazer.~~
 
 Seção XV
 
-Da Secretaria de Estado de Indústria, Comércio e Serviços<br>
+Da Secretaria de Estado de Indústria, Comércio e Serviços
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108559/decreto-10429))
 
 Art. 46. À SIC competem:
 
 I – o planejamento, a formulação, a coordenação e a execução das políticas estaduais para o desenvolvimento da indústria, do comércio e dos serviços;
 
-~~II – a formulação da política dos distritos agroindustriais;~~<br>
+~~II – a formulação da política dos distritos agroindustriais;~~
+
 \- [Revogado pela Lei nº 21.882, de 24-04-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107073/lei-21882), art. 42.
 
 III – a formulação e a execução da política estadual de atração de investimentos nacionais e internacionais, prospecção e apoio ao investidor;
@@ -983,7 +1080,8 @@ IV – a formulação e a execução de políticas públicas relacionadas ao com
 
 V – a formulação e a execução da política estadual de desenvolvimento regional, com serviços, atividades e obras, para o desenvolvimento de todas as regiões do Estado;
 
-VI – a formulação da política pública do setor de minas, ressalvadas as competências da AMIC/GO;<br>
+VI – a formulação da política pública do setor de minas, ressalvadas as competências da AMIC/GO;
+
 \- [Redação dada pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 ~~VI – a formulação da política pública do setor de minas;~~
@@ -1004,12 +1102,14 @@ III – o Conselho Deliberativo do Fundo de Participação e Fomento à Industri
 
 IV – o Conselho Superior de Desenvolvimento Industrial, Comercial e de Serviços do Estado de Goiás.
 
-Parágrafo único. As competências da AMIC/GO prevalecerão, em razão do critério da especialidade, sobre as competências do Conselho Estadual de Mineração, Recursos Minerais e Geologia.<br>
+Parágrafo único. As competências da AMIC/GO prevalecerão, em razão do critério da especialidade, sobre as competências do Conselho Estadual de Mineração, Recursos Minerais e Geologia.
+
 \- [Acrescido pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 Seção XVI
 
-Da Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável<br>
+Da Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108819/decreto-10464))
 
 Art. 48. À SEMAD competem:
@@ -1018,7 +1118,8 @@ I – a formulação e a execução da política estadual do meio ambiente e dos
 
 II – a formulação das políticas estaduais dos resíduos sólidos;
 
-III – a proteção dos ecossistemas, dos recursos hídricos e minerais, da flora e da fauna, bem como o exercício do poder de polícia sobre as atividades que causem impacto ambiental, ressalvadas as competências da AMIC/GO;<br>
+III – a proteção dos ecossistemas, dos recursos hídricos e minerais, da flora e da fauna, bem como o exercício do poder de polícia sobre as atividades que causem impacto ambiental, ressalvadas as competências da AMIC/GO;
+
 \- [Redação dada pela Lei nº 23.597, de 27-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111177).
 
 ~~III – a proteção dos ecossistemas, dos recursos hídricos e minerais, da flora e da fauna, bem como o exercício do poder de polícia sobre as atividades que causem impacto ambiental;~~
@@ -1085,8 +1186,10 @@ VIII – a Fundação de Amparo à Pesquisa do Estado de Goiás - FAPEG; ([Esta
 
 IX – a Goiás Previdência - GOIASPREV; ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108401/decreto-10390))
 
-~~X – o Instituto de Assistência dos Servidores Públicos do Estado de Goiás – IPASGO;~~ ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72515))<br>
-\- [Revogada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, II.<br>
+~~X – o Instituto de Assistência dos Servidores Públicos do Estado de Goiás – IPASGO;~~ ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72515))
+
+\- [Revogada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, II.
+
 \- [Vide Lei nº 21.880 de 20-4-2023 - Institui o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107066/lei-21880)
 
 XI – a Junta Comercial do Estado de Goiás - JUCEG; e ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107797/decreto-10321))
@@ -1101,8 +1204,10 @@ a) a AGR;  ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislac
 
 b) a GOIASPREV; e ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108401/decreto-10390)) 
 
-~~c) o IPASGO;~~   ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72515/decreto-9598)) <br>
-\- [Revogada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, II.<br>
+~~c) o IPASGO;~~   ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72515/decreto-9598)) 
+
+\- [Revogada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, II.
+
 \- [Vide Lei nº 21.880 de 20-4-2023 - Institui o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107066/lei-21880)
 
 II – à SECOM, a ABC;   ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107799/decreto-10323)) 
@@ -1141,16 +1246,20 @@ a) a FAPEG; e ([Estatuto](https://legisla.casacivil.go.gov.br/pesquisa_legislac
 
 b) a Indústria Química do Estado de Goiás - IQUEGO; ([Estatuto Social](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17227))
 
-c) a Companhia CELG de Participações - CELGPAR;<br>
+c) a Companhia CELG de Participações - CELGPAR;
+
 \- [Acrescido pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
-d) a Goiás Telecomunicações S/A - GOIASTELECOM; e<br>
+d) a Goiás Telecomunicações S/A - GOIASTELECOM; e
+
 \- [Acrescido pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
-e) a UEG;<br>
+e) a UEG;
+
 \- [Acrescido pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
-f) a Goiás Tecnologia S/A – GOIASTECNOLOGIA;<br>
+f) a Goiás Tecnologia S/A – GOIASTECNOLOGIA;
+
 \- [Acrescido pela Lei nº 24.333, de 8-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115202/lei-24333).
 
 IX – à SIC:  ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108559/decreto-10429))
@@ -1163,18 +1272,22 @@ X – à SGG:
 
 a) a Agência Goiana de Gás Canalizado S/A - GOIÁSGAS;
 
-~~b) a Companhia CELG de Participações - CELGPAR;~~<br>
+~~b) a Companhia CELG de Participações - CELGPAR;~~
+
 \- [Revogado pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183), art. 6º, II.
 
-~~c) a Goiás Telecomunicações S/A - GOIASTELECOM;~~<br>
+~~c) a Goiás Telecomunicações S/A - GOIASTELECOM;~~
+
 \- [Revogado pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183), art. 6º, II.
 
 d) a Metrobus Transporte Coletivo S/A; e
 
-~~e) a UEG.~~  ([Estatuto](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110149/decreto-10603))<br>
+~~e) a UEG.~~  ([Estatuto](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110149/decreto-10603))
+
 \- [Revogado pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183), art. 6º, II.
 
-f) a Companhia Metropolitana de Transportes Coletivos – CMTC.<br>
+f) a Companhia Metropolitana de Transportes Coletivos – CMTC.
+
 \- [Acrescida pela Lei Complementar nº 212, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111992).
 
 Seção II
@@ -1245,7 +1358,8 @@ c) a identificação das necessidades e a determinação das diretrizes operacio
 
 d) execução das sinalizações turísticas, observado o mapeamento, planejamento e padronização realizado pela GOIÁS TURISMO.
 
-V – regular, normatizar, controlar e fiscalizar, nos limites da lei, os serviços públicos prestados diretamente pelo Estado de Goiás ou prestados indiretamente por meio de delegação à iniciativa privada por meio de concessão, permissão ou autorização referentes a transporte ferroviário de bens e passageiros, bem como suas respectivas tarifas.<br>
+V – regular, normatizar, controlar e fiscalizar, nos limites da lei, os serviços públicos prestados diretamente pelo Estado de Goiás ou prestados indiretamente por meio de delegação à iniciativa privada por meio de concessão, permissão ou autorização referentes a transporte ferroviário de bens e passageiros, bem como suas respectivas tarifas.
+
 \- [Acrescido pela Lei nº 21.882, de 24-04-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107073/lei-21882).
 
 Seção VII
@@ -1258,7 +1372,8 @@ Art. 59. Integra a estrutura da AGR o respectivo Conselho Regulador.
 
 Seção VIII
 
-Do Departamento Estadual de Trânsito<br>
+Do Departamento Estadual de Trânsito
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108398/decreto-10388))
 
 Art. 60. Ao DETRAN competem:
@@ -1291,7 +1406,8 @@ Art. 62. Integra a FAPEG, como órgão colegiado, o respectivo Conselho Superior
 
 Seção X
 
-Da Goiás Previdência<br>
+Da Goiás Previdência
+
 ([Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108401/decreto-10390))
 
 Art. 63. À GOIASPREV competem a administração, a operacionalização e o gerenciamento do Regime Próprio de Previdência Social do Estado de Goiás – RPPS/GO e do Sistema de Proteção Social dos Militares do Estado de Goiás - SPSM/GO.
@@ -1302,19 +1418,24 @@ I – o Conselho Deliberativo da GOIASPREV; e
 
 II – o Conselho Fiscal da GOIASPREV.
 
-~~Seção XI~~<br>
+~~Seção XI~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, III.
 
-~~Do Instituto de Assistência dos Servidores Públicos do Estado de Goiás~~<br>
+~~Do Instituto de Assistência dos Servidores Públicos do Estado de Goiás~~
+
 \- [Vide Lei nº 21.880 de 20-4-2023 - Institui o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17817)
 
-~~Art. 65. Ao IPASGO competem a administração do Sistema de Assistência à Saúde dos Servidores do Estado de Goiás, denominado IPASGO Saúde.~~<br>
+~~Art. 65. Ao IPASGO competem a administração do Sistema de Assistência à Saúde dos Servidores do Estado de Goiás, denominado IPASGO Saúde.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, III.
 
-~~Parágrafo único. O IPASGO Saúde tem como objetivo realizar as operações de assistência à saúde dos servidores públicos estaduais, outros segurados permitidos por lei e seus dependentes.~~<br>
+~~Parágrafo único. O IPASGO Saúde tem como objetivo realizar as operações de assistência à saúde dos servidores públicos estaduais, outros segurados permitidos por lei e seus dependentes.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, III.
 
-~~Art. 66. Integra o IPASGO, como órgão colegiado, o respectivo Conselho Deliberativo.~~<br>
+~~Art. 66. Integra o IPASGO, como órgão colegiado, o respectivo Conselho Deliberativo.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, III.
 
 Seção XII
@@ -1393,7 +1514,8 @@ VII – inovação da gestão e dos serviços públicos; e
 
 VIII – apoios logístico e material, também de serviços gerais.
 
-IX – compliance público.<br>
+IX – compliance público.
+
 \- [Acrescido pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
 § 2º As atividades referidas no § 1º deste artigo poderão ser realizadas mediante arranjos colaborativos entre as secretarias ou modelos centralizados, nas hipóteses previstas em decreto do Chefe do Poder Executivo estadual.
@@ -1604,23 +1726,28 @@ Art. 90. Os cargos de provimento em comissão de assessoramento não integrantes
 
 § 3º Integram o Quadro de Pessoal da PGE, a serem providos por bacharéis em Direito por indicação do titular da PGE ao Chefe do Poder Executivo, 40 (quarenta) cargos de provimento em comissão do tipo Assessoramento Superior, símbolo A2, constante do Anexo II desta Lei.
 
-§ 4º Poderá haver movimentação de pessoal dos cargos a que se refere o caput deste artigo exclusivamente entre unidades e órgãos ou entidades da administração direta, autárquica e fundacional, sem a possibilidade de essa movimentação ocorrer para empresas públicas e sociedades de economia mista do Estado de Goiás.<br>
+§ 4º Poderá haver movimentação de pessoal dos cargos a que se refere o caput deste artigo exclusivamente entre unidades e órgãos ou entidades da administração direta, autárquica e fundacional, sem a possibilidade de essa movimentação ocorrer para empresas públicas e sociedades de economia mista do Estado de Goiás.
+
 \- [Acrescido pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
 Art. 91. Os decretos de que tratam os arts. 89 e 90, observarão ainda o limite anual a que se refere o art. 114 desta Lei.
 
-Art. 92. O servidor público ocupante de cargo de provimento efetivo ou emprego público permanente, ou o militar titular de posto ou graduação, quando forem nomeados para cargo de provimento em comissão na administração direta, autárquica e fundacional do Poder Executivo, poderão optar:<br>
-\- [Vide Despacho PGE nº 595/2023](https://legisla.casacivil.go.gov.br/pesquisa_ato_infralegal/765/despacho-595) - Ementa: administrativo e constitucional. Consulta. Lei estadual nº 21.792, de 16 de fevereiro de 2023. Teto remuneratório. Parcela excedente do subsídio do cargo em comissão ou função comissionada. Natureza indenizatória. Despacho referencial. Portaria nº 170-GAB/2020-PGE.<br>
+Art. 92. O servidor público ocupante de cargo de provimento efetivo ou emprego público permanente, ou o militar titular de posto ou graduação, quando forem nomeados para cargo de provimento em comissão na administração direta, autárquica e fundacional do Poder Executivo, poderão optar:
+
+\- [Vide Despacho PGE nº 595/2023](https://legisla.casacivil.go.gov.br/pesquisa_ato_infralegal/765/despacho-595) - Ementa: administrativo e constitucional. Consulta. Lei estadual nº 21.792, de 16 de fevereiro de 2023. Teto remuneratório. Parcela excedente do subsídio do cargo em comissão ou função comissionada. Natureza indenizatória. Despacho referencial. Portaria nº 170-GAB/2020-PGE.
+
  
 
 I – pelo subsídio integral fixado para o cargo em comissão que vierem a ocupar, caso em que deixarão de receber a remuneração ou o subsídio referente ao cargo efetivo, ao emprego público permanente, ao posto ou à graduação; ou
 
-II – pela remuneração ou pelo subsídio correspondente ao cargo de provimento efetivo, ao emprego público permanente, ao posto ou à graduação, que será percebido cumulativamente com o equivalente a 60% (sessenta por cento) do subsídio fixado para o cargo em comissão que vierem a ocupar, assegurada a complementação até o valor deste último caso do somatório resulte quantia inferior.<br>
+II – pela remuneração ou pelo subsídio correspondente ao cargo de provimento efetivo, ao emprego público permanente, ao posto ou à graduação, que será percebido cumulativamente com o equivalente a 60% (sessenta por cento) do subsídio fixado para o cargo em comissão que vierem a ocupar, assegurada a complementação até o valor deste último caso do somatório resulte quantia inferior.
+
 \- [Vide Despacho PGE nº 885/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18604) - Ementa: administrativo. Servidor público estatutário. Incorporação de subsdídio de cargo em comissão determinada por decisão judicial transitada em julgado. Ausência de previsão legal do direito à incorporação. Fundamento em súmula trabalhista não aplicável à hipotése. Erro de fato e ofensa manifesta à norma legal (Art. 39, § 5º, CF/88). Avaliação de propositura de ação rescisória. Fixação dos parâmetros para o cumprimento da decisão até sua desconstituição. Atualização da parcela exclusivamente pelos índices de revisão geral anual após a incorporação (arts. 37, XIII, CF/88). Incidência da prescrição quinquenal sobre as difernças vencidas nos cinco anos que precederam o ajuizamento da demanda. DESPACHO Referencial. Portaria nº 170-GAB/2020-PGE. Matéria orientada.
 
 § 1º O disposto neste artigo aplica-se também ao servidor de entidade paraestatal, de outros poderes ou níveis de governo, titular de cargo de provimento efetivo ou emprego público permanente em sua origem e, temporariamente, cedido para o Estado de Goiás para ocupar cargo em comissão remunerado exclusivamente à base de subsídio.
 
-~~§ 2º Na hipótese de que trata o inciso II do _caput_ deste artigo, caso o referido somatório ultrapasse o limite fixado no inciso XI do art. 37 da Constituição federal, a parcela excedente da verba correspondente ao exercício do cargo de provimento em comissão pelo agente público titular de cargo de provimento efetivo ou emprego público permanente ou ainda pelo militar titular de posto ou graduação terá natureza indenizatória.~~<br>
+~~§ 2º Na hipótese de que trata o inciso II do _caput_ deste artigo, caso o referido somatório ultrapasse o limite fixado no inciso XI do art. 37 da Constituição federal, a parcela excedente da verba correspondente ao exercício do cargo de provimento em comissão pelo agente público titular de cargo de provimento efetivo ou emprego público permanente ou ainda pelo militar titular de posto ou graduação terá natureza indenizatória.~~
+
 \- [Declarado Inconstitucional pelo  STF/ADI nº 7402/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18336).
 
 CAPÍTULO VII
@@ -1655,7 +1782,8 @@ f) é passível de substituição apenas nos casos enumerados na alínea “e”
 
 g) não integra a base de cálculo para efeito de concessão de qualquer outra vantagem pecuniária, inclusive para aposentadoria, transferência para reserva remunerada e contribuição previdenciária, ressalvados as férias e o décimo terceiro salário.
 
-h) não é cumulável com a retribuição de outra função comissionada, gratificação ou parcela da mesma natureza destinada a remunerar atribuições de direção, chefia, coordenação, gestão operacional ou assessoramento, ainda que seja sob denominação diversa.<br>
+h) não é cumulável com a retribuição de outra função comissionada, gratificação ou parcela da mesma natureza destinada a remunerar atribuições de direção, chefia, coordenação, gestão operacional ou assessoramento, ainda que seja sob denominação diversa.
+
 \- [Acrescida pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
 § 1º Ato do Chefe do Poder Executivo poderá estipular exigências específicas para a designação das funções comissionadas, quando a necessidade do serviço justificar que no recrutamento seja considerado certo tipo de qualificação profissional.
@@ -1666,17 +1794,20 @@ I – tenha idoneidade moral e reputação ilibada; e
 
 II – não se enquadre nas hipóteses de inelegibilidade previstas no inciso I do _caput_ do art. 1º da Lei Complementar federal nº 64, de 18 de maio de 1990.
 
-Art. 94. O servidor designado para função comissionada receberá o valor dela decorrente cumulativamente com o vencimento, o salário, a remuneração ou o subsídio pelo exercício de cargo de provimento efetivo ou emprego público permanente, posto ou graduação.<br>
+Art. 94. O servidor designado para função comissionada receberá o valor dela decorrente cumulativamente com o vencimento, o salário, a remuneração ou o subsídio pelo exercício de cargo de provimento efetivo ou emprego público permanente, posto ou graduação.
+
  
 
-~~Parágrafo único. Caso o somatório da função comissionada e da remuneração ou do subsídio do cargo efetivo ultrapasse o limite fixado no inciso XI do art. 37 da Constituição Federal, a parcela excedente da verba correspondente ao exercício da função comissionada pelo agente público titular de cargo de provimento efetivo ou emprego público permanente ou ainda pelo militar titular de posto ou graduação terá natureza indenizatória.~~<br>
+~~Parágrafo único. Caso o somatório da função comissionada e da remuneração ou do subsídio do cargo efetivo ultrapasse o limite fixado no inciso XI do art. 37 da Constituição Federal, a parcela excedente da verba correspondente ao exercício da função comissionada pelo agente público titular de cargo de provimento efetivo ou emprego público permanente ou ainda pelo militar titular de posto ou graduação terá natureza indenizatória.~~
+
 \- [Declarado Inconstitucional pelo  STF/ADI nº 7402/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18336).
 
 Seção II
 
 Das Funções Comissionadas do Poder Executivo
 
-Art. 95. As Funções Comissionadas do Poder Executivo – FCPEs destinam-se ao atendimento das necessidades das funções diferenciadas dos órgãos da administração direta e das entidades autárquicas e fundacionais do Poder Executivo estadual.<br>
+Art. 95. As Funções Comissionadas do Poder Executivo – FCPEs destinam-se ao atendimento das necessidades das funções diferenciadas dos órgãos da administração direta e das entidades autárquicas e fundacionais do Poder Executivo estadual.
+
 \- [Vide Despacho PGE nº 1693/2022](https://www.procuradoria.go.gov.br/files/Despchos2019/Despacho2022/Despacho1693.pdf) - Ementa: administrativo. Consulta. Superintêndencia contábil da Secretaria de Estado da Economia. Serviço de contabilidade pública. Lei estadual nº 19.550/2016. Servidor público efetivo. Técnico em contabilidade. Atribuição de função comissionada de assessoramento contábil - FCAC-2 - Lei estadual nº 20.491/2019. Impossibilidade. Decreto-lei nº 9.295/46. Regra de transição. Manutenção do regime jurídico anterior. Distinções de atribuições entre as categorias de técnico em contabilidade e contador. Incompatibilidade com a legislação local. Exigência expressa de formação superior. Legalidade. Observância. Legitimidade da exigência. Exercício da auto-organização. Regime jurídico dos servidores. Despacho referencial. Portaria nº 170-GAB/2020-PGE. Matéria orientada. 
 
 Art. 96. As FCPEs serão alocadas por Sistema de Cotas e distribuídas aos órgãos e às entidades, conforme decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos, as cotas por tipo e os valores constantes da alínea “a” do Anexo III desta Lei, bem como respeitado o limite anual a que se refere o art. 114.
@@ -1691,7 +1822,8 @@ Art. 98. As FCACs serão alocadas nos órgãos e nas entidades por decreto do Ch
 
 Seção IV
 
-Das Funções Comissionadas Educacionais<br>
+Das Funções Comissionadas Educacionais
+
 \- [Vide Decreto nº 10.382, de 5-1-2024 - Regulamento.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108381/decreto-10382)
 
 Art. 99. As Funções Comissionadas Educacionais – FCEs destinam-se ao atendimento das necessidades das funções diferenciadas da SEDUC.
@@ -1708,211 +1840,278 @@ Art. 102. As FCAESs serão alocadas na UEG por decreto do Chefe do Poder Executi
 
 Seção V-A
 
-Das Funções Comissionadas de Gestão Operacional da Polícia Penal<br>
+Das Funções Comissionadas de Gestão Operacional da Polícia Penal
+
 \- [Acrescida pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-Art. 102-A. Ficam instituídas as Funções Comissionadas de Gestão Operacional da Polícia Penal – FCGOPPs, destinadas exclusivamente aos policiais penais em efetivo exercício e designados para a execução de atribuições e responsabilidades diferenciadas no âmbito da DGPP, em funções de direção de estabelecimentos penais ou de coordenação de unidades operacionais, técnicas ou especializadas.<br>
+Art. 102-A. Ficam instituídas as Funções Comissionadas de Gestão Operacional da Polícia Penal – FCGOPPs, destinadas exclusivamente aos policiais penais em efetivo exercício e designados para a execução de atribuições e responsabilidades diferenciadas no âmbito da DGPP, em funções de direção de estabelecimentos penais ou de coordenação de unidades operacionais, técnicas ou especializadas.
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-Art. 102-B. As FCGOPPs serão alocadas no âmbito da DGPP por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores constantes da alínea “f” do Anexo III, bem como respeitado o limite anual a que se refere o art. 114.<br>
+Art. 102-B. As FCGOPPs serão alocadas no âmbito da DGPP por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores constantes da alínea “f” do Anexo III, bem como respeitado o limite anual a que se refere o art. 114.
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-§ 1º O decreto de que trata o caput estabelecerá:<br>
+§ 1º O decreto de que trata o caput estabelecerá:
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-I – o montante global destinado ao pagamento das FCGOPPs;<br>
+I – o montante global destinado ao pagamento das FCGOPPs;
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-II – os critérios de designação, considerados a natureza da função, a complexidade das atribuições, o porte do estabelecimento penal, a classificação da unidade e o nível de responsabilidade operacional correspondente; e<br>
+II – os critérios de designação, considerados a natureza da função, a complexidade das atribuições, o porte do estabelecimento penal, a classificação da unidade e o nível de responsabilidade operacional correspondente; e
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-III – os parâmetros de avaliação, controle e manutenção da percepção das FCGOPPs.<br>
+III – os parâmetros de avaliação, controle e manutenção da percepção das FCGOPPs.
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-§ 2º Os quantitativos das FCGOPPs serão fixados por ato do titular da DGPP, observados o limite financeiro autorizado e os parâmetros estabelecidos em decreto.<br>
+§ 2º Os quantitativos das FCGOPPs serão fixados por ato do titular da DGPP, observados o limite financeiro autorizado e os parâmetros estabelecidos em decreto.
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-§ 3º A alteração do ato previsto no § 2º deste artigo deverá ser encaminhada à SEAD até o dia 25 do mês, para a produção de efeitos financeiros no mês subsequente, vedada a designação com efeitos retroativos.<br>
+§ 3º A alteração do ato previsto no § 2º deste artigo deverá ser encaminhada à SEAD até o dia 25 do mês, para a produção de efeitos financeiros no mês subsequente, vedada a designação com efeitos retroativos.
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-§ 4º A designação para a percepção das FCGOPPs observará:<br>
+§ 4º A designação para a percepção das FCGOPPs observará:
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-I – a compatibilidade entre a função exercida e os tipos previstos na alínea “f” do Anexo III desta Lei;<br>
+I – a compatibilidade entre a função exercida e os tipos previstos na alínea “f” do Anexo III desta Lei;
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-II – o atendimento aos critérios de atribuição, desempenho e manutenção definidos em decreto;<br>
+II – o atendimento aos critérios de atribuição, desempenho e manutenção definidos em decreto;
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-III – o efetivo exercício das atribuições diferenciadas correspondentes;<br>
+III – o efetivo exercício das atribuições diferenciadas correspondentes;
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-IV – o atendimento aos requisitos funcionais, operacionais e técnicos definidos em decreto ou em ato normativo próprio da DGPP; e<br>
+IV – o atendimento aos requisitos funcionais, operacionais e técnicos definidos em decreto ou em ato normativo próprio da DGPP; e
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-V – a disponibilidade orçamentária e financeira destinada ao pagamento das FCGOPPs.<br>
+V – a disponibilidade orçamentária e financeira destinada ao pagamento das FCGOPPs.
+
 \- [Acrescido pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-Seção VI       <br>
-Das Funções Comissionadas do Sistema Estruturador das Redes de Gestão<br>
+Seção VI       
+
+Das Funções Comissionadas do Sistema Estruturador das Redes de Gestão
+
 \- [Redação dada pela Lei nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) [22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447). 
 
 ~~Das Funções Comissionadas do Sistema Estruturador de Organização e Inovação Institucional~~
 
-Art. 103. As Funções Comissionadas do Sistema Estruturador das Redes de Gestão - FCRGs destinam-se aos servidores efetivos e aos empregados públicos permanentes que atuem nas unidades centrais, setoriais e correlatas do Sistema Estruturador das Redes de Gestão da administração direta, autárquica e fundacional do Poder Executivo estadual.<br>
-\- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).<br>
+Art. 103. As Funções Comissionadas do Sistema Estruturador das Redes de Gestão - FCRGs destinam-se aos servidores efetivos e aos empregados públicos permanentes que atuem nas unidades centrais, setoriais e correlatas do Sistema Estruturador das Redes de Gestão da administração direta, autárquica e fundacional do Poder Executivo estadual.
+
+\- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
+
 \- [Vide Despacho PGE nº 1230/2022](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19049/anexo) - EMENTA: DIREITO ADMINISTRATIVO. CONSULTA. SISTEMA ESTRUTURADOR INTEGRADO DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS ESTADUAL - SIPOFE. FUNÇÃO COMISSIONADA E GRATIFICAÇÃO DO SISTEMA ESTRUTURADOR DAS REDES DE GESTÃO - FCRG/GRG. PORTARIA Nº 125/2024, ALTERADA PELA PORTARIA Nº 186/2024. INCIDÊNCIA EXPRESSA SOBRE AS GRGs. DESNECESSIDADE DE APLICAÇÃO ANALÓGICA. DEFICIÊNCIA DE TÉCNICA NORMATIVA. RECOMENDAÇÃO DE ADEQUAÇÃO FORMAL. REQUISITOS DE ESCOLARIDADE DE NÍVEL SUPERIOR E DE EXPERIÊNCIA PROFISSIONAL MÍNIMA. HIPÓTESES EXCEPCIONAIS AUTÔNOMAS E NÃO CUMULÁVEIS. VEDAÇÃO AO AFASTAMENTO SIMULTÂNEO. DESPACHO REFERENCIAL. PORTARIA Nº 170-GAB/2020 PGE. MATÉRIA ORIENTADA.
 
 ~~Art. 103. As Funções Comissionadas do Sistema Estruturador de Organização e Inovação Institucional – FCSISTs destinam-se aos servidores efetivos e aos empregados públicos permanentes que atuem no sistema estruturador da administração direta, autárquica e fundacional do Poder Executivo estadual nas áreas de compras e contratos, patrimônio, planejamento e orçamento, finanças e inovação da gestão e dos serviços.~~
 
-Art. 104. A distribuição das FCRGs e os critérios de avaliação periódica para a manutenção da sua percepção serão definidos por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores discriminados na alínea “e” do Anexo III desta Lei, bem como respeitado o limite anual a que se refere o art. 114.<br>
+Art. 104. A distribuição das FCRGs e os critérios de avaliação periódica para a manutenção da sua percepção serão definidos por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores discriminados na alínea “e” do Anexo III desta Lei, bem como respeitado o limite anual a que se refere o art. 114.
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~Art. 104. As FCSISTs serão alocadas na SEAD e na ECONOMIA, por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores constantes da alínea “e” do Anexo III, bem como respeitado o limite anual a que se refere o art. 114.~~
 
-CAPÍTULO VII-A<br>
+CAPÍTULO VII-A
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 DAS GRATIFICAÇÕES EDUCACIONAIS
 
-Art. 104-A.  Ficam criadas as Gratificações Educacionais – GRATIEDUs destinadas a incentivar o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores com atribuições e responsabilidades diferenciadas no âmbito da SEDUC.<br>
+Art. 104-A.  Ficam criadas as Gratificações Educacionais – GRATIEDUs destinadas a incentivar o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores com atribuições e responsabilidades diferenciadas no âmbito da SEDUC.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-Art. 104-B.  As GRATIEDUs serão alocadas na SEDUC por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores constantes do Anexo IX desta Lei, bem como respeitado o limite anual a que se refere o art. 114 desta Lei.<br>
+Art. 104-B.  As GRATIEDUs serão alocadas na SEDUC por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores constantes do Anexo IX desta Lei, bem como respeitado o limite anual a que se refere o art. 114 desta Lei.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 1º  O decreto de que trata o caput definirá:<br>
+§ 1º  O decreto de que trata o caput definirá:
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-I – o valor global das GRATIEDUs;<br>
+I – o valor global das GRATIEDUs;
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-II – os critérios exigidos para as atribuições e as responsabilidades diferenciadas, de acordo com as especificidades da área de atuação e os níveis de complexidade correspondentes; e<br>
+II – os critérios exigidos para as atribuições e as responsabilidades diferenciadas, de acordo com as especificidades da área de atuação e os níveis de complexidade correspondentes; e
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-III – os critérios de avaliação periódica para a manutenção da percepção das GRATIEDUs. <br>
+III – os critérios de avaliação periódica para a manutenção da percepção das GRATIEDUs. 
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 2º  O valor global estabelecido para as FCEs previstas no art. 99 desta Lei será compartilhado com o valor global das GRATIEDUs, conforme o inciso I do § 1º deste artigo, para que o total estabelecido no decreto regulamentador abranja ambas. <br>
+§ 2º  O valor global estabelecido para as FCEs previstas no art. 99 desta Lei será compartilhado com o valor global das GRATIEDUs, conforme o inciso I do § 1º deste artigo, para que o total estabelecido no decreto regulamentador abranja ambas. 
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 3º  Os quantitativos das FCEs e das GRATIEDUs serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidores efetivos estabelecidos em decreto.<br>
+§ 3º  Os quantitativos das FCEs e das GRATIEDUs serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidores efetivos estabelecidos em decreto.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 4º  A alteração do ato de que trata o § 3º deste artigo deverá ser encaminhada à SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a designação com data retroativa.<br>
+§ 4º  A alteração do ato de que trata o § 3º deste artigo deverá ser encaminhada à SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a designação com data retroativa.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-Art. 104-C.  As GRATIEDUs serão concedidas aos servidores efetivos e aos titulares dos cargos de provimento em comissão que não integram as estruturas básica e complementar, aos empregados públicos permanentes e ao pessoal contratado por tempo determinado em exercício na SEDUC, observado o seguinte:<br>
+Art. 104-C.  As GRATIEDUs serão concedidas aos servidores efetivos e aos titulares dos cargos de provimento em comissão que não integram as estruturas básica e complementar, aos empregados públicos permanentes e ao pessoal contratado por tempo determinado em exercício na SEDUC, observado o seguinte:
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-I – as GRATIEDUs serão designadas pelo titular da SEDUC;<br>
+I – as GRATIEDUs serão designadas pelo titular da SEDUC;
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-II – a designação e a manutenção da percepção das GRATIEDUs observarão o cumprimento do disposto no art. 104-B desta Lei e as demais condições estabelecidas no decreto regulamentador;<br>
+II – a designação e a manutenção da percepção das GRATIEDUs observarão o cumprimento do disposto no art. 104-B desta Lei e as demais condições estabelecidas no decreto regulamentador;
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-III – a designação das GRATIEDUs implica a obrigatoriedade do cumprimento da jornada de oito horas diárias de trabalho, exceto nos casos previstos no § 3º do art. 74 da Lei nº 20.756, de 28 de janeiro de 2020, e não se aplica o disposto no art. 76 da mesma Lei; e<br>
+III – a designação das GRATIEDUs implica a obrigatoriedade do cumprimento da jornada de oito horas diárias de trabalho, exceto nos casos previstos no § 3º do art. 74 da Lei nº 20.756, de 28 de janeiro de 2020, e não se aplica o disposto no art. 76 da mesma Lei; e
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-IV – as GRATIEDUs:<br>
+IV – as GRATIEDUs:
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-a) têm natureza transitória, portanto são atribuíveis e dispensáveis a qualquer tempo;<br>
+a) têm natureza transitória, portanto são atribuíveis e dispensáveis a qualquer tempo;
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-b) têm caráter funcional e impessoal e são devidas em razão da designação para as atribuições e as responsabilidades diferenciadas previstas em decreto;<br>
+b) têm caráter funcional e impessoal e são devidas em razão da designação para as atribuições e as responsabilidades diferenciadas previstas em decreto;
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-c) somente serão devidas em razão do efetivo exercício das funções correspondentes a elas, considerados para esse fim o recesso escolar e os afastamentos devido a férias, luto, licença-maternidade, licença-paternidade, casamento e, até o limite de cento e vinte dias, licença para tratamento da própria saúde, excetuados quaisquer outros;<br>
+c) somente serão devidas em razão do efetivo exercício das funções correspondentes a elas, considerados para esse fim o recesso escolar e os afastamentos devido a férias, luto, licença-maternidade, licença-paternidade, casamento e, até o limite de cento e vinte dias, licença para tratamento da própria saúde, excetuados quaisquer outros;
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-d) são passíveis de substituição apenas nos casos enumerados na alínea “c” do inciso IV deste artigo e devem ser efetivadas em ato próprio subscrito pelo titular do órgão ou da entidade;<br>
+d) são passíveis de substituição apenas nos casos enumerados na alínea “c” do inciso IV deste artigo e devem ser efetivadas em ato próprio subscrito pelo titular do órgão ou da entidade;
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-e) não integram a base de cálculo para a concessão de qualquer outra vantagem pecuniária, inclusive para a aposentadoria, a transferência para a reserva remunerada e a contribuição previdenciária, ressalvados o 13º salário e as férias; e<br>
+e) não integram a base de cálculo para a concessão de qualquer outra vantagem pecuniária, inclusive para a aposentadoria, a transferência para a reserva remunerada e a contribuição previdenciária, ressalvados o 13º salário e as férias; e
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-f) não são devidas aos servidores efetivos remunerados por subsídio.<br>
+f) não são devidas aos servidores efetivos remunerados por subsídio.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 1º  Ato do Chefe do Poder Executivo poderá estipular exigências específicas para a designação das GRATIEDUs, quando a necessidade do serviço justificar que no recrutamento seja considerado certo tipo de qualificação profissional.<br>
+§ 1º  Ato do Chefe do Poder Executivo poderá estipular exigências específicas para a designação das GRATIEDUs, quando a necessidade do serviço justificar que no recrutamento seja considerado certo tipo de qualificação profissional.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 2º  Além do disposto no § 1º deste artigo, para a designação das GRATIEDUs, é indispensável que o servidor:<br>
+§ 2º  Além do disposto no § 1º deste artigo, para a designação das GRATIEDUs, é indispensável que o servidor:
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-I – tenha idoneidade moral e reputação ilibada; e<br>
+I – tenha idoneidade moral e reputação ilibada; e
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-II – não se enquadre nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar federal nº 64, de 18 de maio de 1990.<br>
+II – não se enquadre nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar federal nº 64, de 18 de maio de 1990.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 3º  Caso as atribuições e as responsabilidades diferenciadas sejam desempenhadas por servidor efetivo remunerado por subsídio constitucional, poderá ser atribuída a ele Função Comissionada Educacional equivalente à Gratificação Educacional. <br>
+§ 3º  Caso as atribuições e as responsabilidades diferenciadas sejam desempenhadas por servidor efetivo remunerado por subsídio constitucional, poderá ser atribuída a ele Função Comissionada Educacional equivalente à Gratificação Educacional. 
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 4º  O servidor de que trata o § 3º deste artigo será submetido às mesmas exigências para a designação e a manutenção da referida gratificação, observado também o disposto nos arts. 93 e 94 desta Lei e no decreto regulamentador.<br>
+§ 4º  O servidor de que trata o § 3º deste artigo será submetido às mesmas exigências para a designação e a manutenção da referida gratificação, observado também o disposto nos arts. 93 e 94 desta Lei e no decreto regulamentador.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-Art. 104-D.  O servidor designado para as atribuições e as responsabilidades diferenciadas, com direito à percepção de Gratificação Educacional, receberá o valor dela decorrente cumulativamente com o vencimento, o salário, a remuneração ou o subsídio pelo exercício de cargo de provimento efetivo, comissionado, de emprego público permanente ou ao pessoal contratado por tempo determinado, observado o disposto na alínea “f” do inciso IV e nos §§ 3º e 4º do art. 104-C desta Lei.<br>
+Art. 104-D.  O servidor designado para as atribuições e as responsabilidades diferenciadas, com direito à percepção de Gratificação Educacional, receberá o valor dela decorrente cumulativamente com o vencimento, o salário, a remuneração ou o subsídio pelo exercício de cargo de provimento efetivo, comissionado, de emprego público permanente ou ao pessoal contratado por tempo determinado, observado o disposto na alínea “f” do inciso IV e nos §§ 3º e 4º do art. 104-C desta Lei.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-~~CAPÍTULO VIII~~<br>
+~~CAPÍTULO VIII~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
 ~~DO SISTEMA ESTRUTURADOR DE ORGANIZAÇÃO E INOVAÇÃO INSTITUCIONAL~~
 
-~~Art. 105. Fica criado o Sistema Estruturador de Organização e Inovação Institucional no âmbito da administração direta, autárquica e fundacional, com o objetivo de inovar a gestão pública e ampliar a capacidade estatal nas seguintes áreas de gestão:~~<br>
+~~Art. 105. Fica criado o Sistema Estruturador de Organização e Inovação Institucional no âmbito da administração direta, autárquica e fundacional, com o objetivo de inovar a gestão pública e ampliar a capacidade estatal nas seguintes áreas de gestão:~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~I – compras e contratos;~~<br>
+~~I – compras e contratos;~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~II – patrimônio;~~<br>
+~~II – patrimônio;~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~III – planejamento e orçamento;~~<br>
+~~III – planejamento e orçamento;~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~IV – finanças; e~~<br>
+~~IV – finanças; e~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~V – inovação da gestão e dos serviços públicos.~~<br>
+~~V – inovação da gestão e dos serviços públicos.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~§ 1º O Sistema Estruturador de Organização e Inovação Institucional é composto por unidades centrais e unidades setoriais presentes nos órgãos e nas entidades da administração estadual.~~<br>
+~~§ 1º O Sistema Estruturador de Organização e Inovação Institucional é composto por unidades centrais e unidades setoriais presentes nos órgãos e nas entidades da administração estadual.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~§ 2º As unidades centrais são responsáveis pela formulação de políticas, por supervisionar e formular normas e diretrizes, além de prestar orientação técnica às unidades setoriais vinculadas, sobre o exercício das competências correspondentes ao sistema sob sua responsabilidade.~~<br>
+~~§ 2º As unidades centrais são responsáveis pela formulação de políticas, por supervisionar e formular normas e diretrizes, além de prestar orientação técnica às unidades setoriais vinculadas, sobre o exercício das competências correspondentes ao sistema sob sua responsabilidade.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~§ 3º As unidades setoriais são responsáveis por implementar as políticas, as normas e as diretrizes definidas pelas unidades centrais e são a elas tecnicamente subordinadas, sem prejuízo da subordinação administrativa ao órgão a que estão vinculadas.~~<br>
+~~§ 3º As unidades setoriais são responsáveis por implementar as políticas, as normas e as diretrizes definidas pelas unidades centrais e são a elas tecnicamente subordinadas, sem prejuízo da subordinação administrativa ao órgão a que estão vinculadas.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~§ 4º São unidades centrais:~~<br>
+~~§ 4º São unidades centrais:~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~I – a Subsecretaria de Compras Governamentais, Patrimônio e Logística, da SEAD, bem como as respectivas unidades vinculadas, referentes às áreas de gestão patrimonial, gestão de compras e de contratos;~~<br>
+~~I – a Subsecretaria de Compras Governamentais, Patrimônio e Logística, da SEAD, bem como as respectivas unidades vinculadas, referentes às áreas de gestão patrimonial, gestão de compras e de contratos;~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~II – a Subsecretaria Central de Planejamento, Monitoramento e Avaliação e a Subsecretaria Central de Orçamento, ambas da ECONOMIA, bem como as respectivas unidades vinculadas, referentes às áreas de planejamento e orçamento;~~<br>
+~~II – a Subsecretaria Central de Planejamento, Monitoramento e Avaliação e a Subsecretaria Central de Orçamento, ambas da ECONOMIA, bem como as respectivas unidades vinculadas, referentes às áreas de planejamento e orçamento;~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~III – a Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, bem como as respectivas unidades vinculadas, referentes às áreas de gestão de processos e gestão de serviços públicos; e~~<br>
+~~III – a Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, bem como as respectivas unidades vinculadas, referentes às áreas de gestão de processos e gestão de serviços públicos; e~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~IV – a Subsecretaria do Tesouro Estadual, da ECONOMIA, bem como as respectivas unidades vinculadas, referentes à área de finanças públicas.~~<br>
+~~IV – a Subsecretaria do Tesouro Estadual, da ECONOMIA, bem como as respectivas unidades vinculadas, referentes à área de finanças públicas.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~Art. 106. São objetivos do Sistema Estruturador de Organização e Inovação Institucional:~~<br>
+~~Art. 106. São objetivos do Sistema Estruturador de Organização e Inovação Institucional:~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~I – estabelecer políticas e diretrizes para a transformação permanente do Estado e a ampliação da capacidade estatal;~~<br>
+~~I – estabelecer políticas e diretrizes para a transformação permanente do Estado e a ampliação da capacidade estatal;~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~II – inovar em serviços públicos, para a simplificação e o aumento da eficiência e da eficácia das políticas públicas; e~~<br>
+~~II – inovar em serviços públicos, para a simplificação e o aumento da eficiência e da eficácia das políticas públicas; e~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
-~~III – criar diretrizes, normas e procedimentos voltados à gestão pública eficiente, eficaz, efetiva e inovadora para a geração de valor público.~~<br>
+~~III – criar diretrizes, normas e procedimentos voltados à gestão pública eficiente, eficaz, efetiva e inovadora para a geração de valor público.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, IV.
 
 CAPÍTULO IX
@@ -1923,48 +2122,62 @@ Seção I
 
 Das Disposições Gerais
 
-Art. 107. Fica instituído o Sistema Estruturador das Redes de Gestão - SIGES no Poder Executivo estadual, para aprimorar sistêmica e integradamente a eficiência, a eficácia e a efetividade das entregas e das atividades comuns aos órgãos e às entidades da administração direta, autárquica e fundacional.<br>
+Art. 107. Fica instituído o Sistema Estruturador das Redes de Gestão - SIGES no Poder Executivo estadual, para aprimorar sistêmica e integradamente a eficiência, a eficácia e a efetividade das entregas e das atividades comuns aos órgãos e às entidades da administração direta, autárquica e fundacional.
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~Art. 107. Ficam instituídas a Rede de Gestão de Pessoas e a Rede de Gestão de Projetos no âmbito do Poder Executivo estadual, com o objetivo de aprimorar a efetividade da gestão pública nos órgãos e nas entidades nessas áreas específicas.~~
 
-§ 1º O SIGES destina-se a inovar a gestão pública, ampliar a capacidade estatal, garantir a atuação integrada promotora da entrega de valor aos cidadãos alinhada às expectativas e às necessidades deles.<br>
+§ 1º O SIGES destina-se a inovar a gestão pública, ampliar a capacidade estatal, garantir a atuação integrada promotora da entrega de valor aos cidadãos alinhada às expectativas e às necessidades deles.
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-~~Parágrafo único. As Redes de Gestão são compostas por unidades centrais e unidades setoriais, responsáveis pela execução de entregas e atividades comuns aos órgãos e às entidades da administração direta, autárquica e fundacional nas áreas de gestão de pessoas e de gestão de projetos.~~<br>
+~~Parágrafo único. As Redes de Gestão são compostas por unidades centrais e unidades setoriais, responsáveis pela execução de entregas e atividades comuns aos órgãos e às entidades da administração direta, autárquica e fundacional nas áreas de gestão de pessoas e de gestão de projetos.~~
+
 \- [Revogado pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 7º, V.
 
-§ 2º O SIGES é composto por redes específicas formadas pelas áreas de:<br>
+§ 2º O SIGES é composto por redes específicas formadas pelas áreas de:
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-I – gestão de pessoas;<br>
+I – gestão de pessoas;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-II – projetos de governo;<br>
+II – projetos de governo;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-III – compras e contratos;<br>
+III – compras e contratos;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-IV – patrimônio;<br>
+IV – patrimônio;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-V – planejamento, orçamento e finanças;<br>
+V – planejamento, orçamento e finanças;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-VI – contabilidade;<br>
+VI – contabilidade;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-VII – inovação da gestão e dos serviços públicos;<br>
+VII – inovação da gestão e dos serviços públicos;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-VIII – tecnologia da informação; e<br>
+VIII – tecnologia da informação; e
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-IX – compliance público.<br>
+IX – compliance público.
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-§ 3º O SIGES é constituído por unidades centrais, setoriais e correlatas presentes nos órgãos e nas entidades da administração direta, autárquica e fundacional do Poder Executivo estadual.<br>
+§ 3º O SIGES é constituído por unidades centrais, setoriais e correlatas presentes nos órgãos e nas entidades da administração direta, autárquica e fundacional do Poder Executivo estadual.
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 Art. 108. As unidades centrais possuem a competência estratégica na formulação das políticas públicas, na organização e no acompanhamento geral da execução das entregas e das atividades de sua área de atuação.
@@ -1975,145 +2188,178 @@ I – a Subsecretaria de Gestão e Desenvolvimento de Pessoas e a Diretoria Exec
 
 II – a Subsecretaria de Governança, da SGG, bem como as respectivas unidades vinculadas, referentes à área de projetos de governo.
 
-III – a Subsecretaria de Logística e Patrimônio, da SEAD, e as unidades vinculadas referentes às áreas de patrimônio, de compras e de contratos;<br>
+III – a Subsecretaria de Logística e Patrimônio, da SEAD, e as unidades vinculadas referentes às áreas de patrimônio, de compras e de contratos;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-IV – a Subsecretaria Central de Planejamento, Monitoramento e Avaliação e a Subsecretaria Central de Orçamento, ambas da ECONOMIA, e as unidades vinculadas referentes às áreas de planejamento e orçamento;<br>
+IV – a Subsecretaria Central de Planejamento, Monitoramento e Avaliação e a Subsecretaria Central de Orçamento, ambas da ECONOMIA, e as unidades vinculadas referentes às áreas de planejamento e orçamento;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-V – a Subsecretaria do Tesouro Estadual, da ECONOMIA, e as unidades vinculadas referentes às áreas de finanças públicas e contabilidade;<br>
+V – a Subsecretaria do Tesouro Estadual, da ECONOMIA, e as unidades vinculadas referentes às áreas de finanças públicas e contabilidade;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-VI – a Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, e as unidades vinculadas referentes às áreas de gestão, inovação, processos e serviços públicos;<br>
+VI – a Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, e as unidades vinculadas referentes às áreas de gestão, inovação, processos e serviços públicos;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-VII - a Subsecretaria de Tecnologia da Informação, da SECTI, e as unidades vinculadas referentes à área de tecnologia da informação; e<br>
+VII - a Subsecretaria de Tecnologia da Informação, da SECTI, e as unidades vinculadas referentes à área de tecnologia da informação; e
+
 \- [Redação dada pela Lei nº 24.331, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115183).
 
-~~VII – a Subsecretaria de Tecnologia da Informação, da SGG, e as unidades vinculadas referentes à área de tecnologia da informação; e~~<br>
+~~VII – a Subsecretaria de Tecnologia da Informação, da SGG, e as unidades vinculadas referentes à área de tecnologia da informação; e~~
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-VIII – a Subcontroladoria de Governo Aberto e Ouvidoria Geral, a Subcontroladoria do Sistema de Correição e Contas e a Subcontroladoria de Auditoria Interna e Controle, da CGE, e as unidades vinculadas referentes às áreas de compliance público e, especificadamente, governo aberto e ouvidoria, correição e contas, além de gestão de riscos e controle.<br>
+VIII – a Subcontroladoria de Governo Aberto e Ouvidoria Geral, a Subcontroladoria do Sistema de Correição e Contas e a Subcontroladoria de Auditoria Interna e Controle, da CGE, e as unidades vinculadas referentes às áreas de compliance público e, especificadamente, governo aberto e ouvidoria, correição e contas, além de gestão de riscos e controle.
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 § 2º São de responsabilidade das unidades centrais, conforme as normativas específicas de sua área de atuação:
 
-I – a definição das políticas, das normas e das diretrizes e a orientação dos procedimentos gerais a serem executados pelas unidades setoriais;<br>
+I – a definição das políticas, das normas e das diretrizes e a orientação dos procedimentos gerais a serem executados pelas unidades setoriais;
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~I – a definição e a orientação dos procedimentos gerais a serem executados pelas unidades setoriais;~~
 
-II – a certificação e a capacitação das unidades setoriais com a possibilidade de parcerias com outros entes, Poderes, empresas e entidades especializadas, quando isso for necessário;<br>
+II – a certificação e a capacitação das unidades setoriais com a possibilidade de parcerias com outros entes, Poderes, empresas e entidades especializadas, quando isso for necessário;
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~II – a capacitação das unidades setoriais, com a possibilidade de parcerias com as Escolas de Governo estaduais, outros entes, Poderes, empresas e entidades especializadas, quando isso for necessário;~~
 
-III – a gestão e a proposição das regras de negócio para a disponibilização das soluções tecnológicas corporativas; e<br>
+III – a gestão e a proposição das regras de negócio para a disponibilização das soluções tecnológicas corporativas; e
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~III – a gestão e a proposição das regras de negócio para o desenvolvimento das soluções tecnológicas de sua área de atuação; e~~
 
-IV – as ações de integração de sua respectiva rede de gestão com as demais redes.<br>
+IV – as ações de integração de sua respectiva rede de gestão com as demais redes.
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~IV – as ações de integração da Rede de Gestão de sua área de atuação.~~
 
-Art. 109. As unidades setoriais possuem as competências táticas e operacionais na execução das entregas e das atividades próprias de sua atuação em cada área específica.<br>
+Art. 109. As unidades setoriais possuem as competências táticas e operacionais na execução das entregas e das atividades próprias de sua atuação em cada área específica.
+
 \-  [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447) .
 
 ~~Art. 109. As unidades setoriais possuem as competências tática e operacional na execução das entregas e das atividades de seu âmbito de atuação nas áreas da gestão de pessoas e da gestão de projetos.~~
 
-§ 1º As unidades setoriais ficarão subordinadas técnica e normativamente às unidades centrais, sem prejuízo à subordinação administrativa vinculada à estrutura organizacional do órgão ou da entidade.<br>
+§ 1º As unidades setoriais ficarão subordinadas técnica e normativamente às unidades centrais, sem prejuízo à subordinação administrativa vinculada à estrutura organizacional do órgão ou da entidade.
+
 \- [Constituído §1º com nova redação pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447), art. 8º.
 
 ~~Parágrafo único. As unidades setoriais ficarão subordinadas técnica e normativamente às unidades centrais, sem prejuízo da subordinação administrativa vinculada à estrutura organizacional do órgão ou da entidade.~~
 
-§ 2º São responsabilidades das unidades setoriais, conforme as determinações específicas de sua área de atuação:<br>
+§ 2º São responsabilidades das unidades setoriais, conforme as determinações específicas de sua área de atuação:
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-I – a implementação das políticas, das normas e das diretrizes definidas pela unidade central;<br>
+I – a implementação das políticas, das normas e das diretrizes definidas pela unidade central;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-II – a integração às certificações e às capacitações estabelecidas pela unidade central;<br>
+II – a integração às certificações e às capacitações estabelecidas pela unidade central;
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-III – a adoção e a participação na definição das regras de negócio e das soluções tecnológicas corporativas; e<br>
+III – a adoção e a participação na definição das regras de negócio e das soluções tecnológicas corporativas; e
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-IV – a execução das entregas e das atividades próprias de sua atuação.<br>
+IV – a execução das entregas e das atividades próprias de sua atuação.
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-Art. 109-A. As unidades correlatas desenvolvem entregas e atividades complementares ou similares àquelas definidas no § 2º do art. 107 desta Lei, conforme o decreto regulamentador de cada rede.<br>
+Art. 109-A. As unidades correlatas desenvolvem entregas e atividades complementares ou similares àquelas definidas no § 2º do art. 107 desta Lei, conforme o decreto regulamentador de cada rede.
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-Parágrafo único. A unidade definida como correlata observará as responsabilidades definidas no § 1º do art. 109 desta Lei, além das definidas no decreto de regulamentação.<br>
+Parágrafo único. A unidade definida como correlata observará as responsabilidades definidas no § 1º do art. 109 desta Lei, além das definidas no decreto de regulamentação.
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 Seção II
 
-Da Gratificação do Sistema Estruturador das Redes de Gestão<br>
+Da Gratificação do Sistema Estruturador das Redes de Gestão
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~Da Gratificação das Redes de Gestão~~
 
-Art. 110. Fica criada a Gratificação do Sistema Estruturador das Redes de Gestão - GRG, destinada a incentivar o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores que atuam nas unidades centrais, setoriais e correlatas, integrantes do SIGES de que trata o art. 107, em atribuições e responsabilidades diferenciadas, que serão disciplinadas em decreto do Chefe do Poder Executivo estadual.”<br>
+Art. 110. Fica criada a Gratificação do Sistema Estruturador das Redes de Gestão - GRG, destinada a incentivar o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores que atuam nas unidades centrais, setoriais e correlatas, integrantes do SIGES de que trata o art. 107, em atribuições e responsabilidades diferenciadas, que serão disciplinadas em decreto do Chefe do Poder Executivo estadual.”
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~Art. 110. Fica criada a Gratificação das Redes de Gestão, destinada a incentivar o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores que atuam nas unidades centrais e setoriais integrantes do Sistema das Redes de Gestão de que trata o art. 107 em atribuições diferenciadas de assessoramento técnico especializado, que serão disciplinadas em decreto do Chefe do Poder Executivo estadual.~~
 
-Art. 111. A distribuição da GRG será definida por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores do Anexo IV desta Lei e respeitado o limite anual a que se refere o art. 114.<br>
+Art. 111. A distribuição da GRG será definida por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores do Anexo IV desta Lei e respeitado o limite anual a que se refere o art. 114.
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~Art. 111. A Gratificação das Redes de Gestão será distribuída por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores do Anexo IV desta Lei, bem como respeitado o limite anual a que se refere o art. 114.~~
 
 Parágrafo único. O decreto de que trata o _caput_ definirá:
 
-I – os tipos, os símbolos, os valores e os níveis de complexidade correspondentes a cada tipo de unidade central, setorial e correlata do SIGES;<br>
+I – os tipos, os símbolos, os valores e os níveis de complexidade correspondentes a cada tipo de unidade central, setorial e correlata do SIGES;
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~I – os tipos, os símbolos, os valores e as faixas de complexidade correspondentes para cada tipo de unidade central e setorial das Redes de Gestão;~~
 
-II – a distribuição por unidade central, setorial e correlata das redes de gestão e por órgão ou entidade;<br>
+II – a distribuição por unidade central, setorial e correlata das redes de gestão e por órgão ou entidade;
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~II – a distribuição por unidade central e setorial das Redes de Gestão e por órgão ou entidade;~~
 
-III – os critérios exigidos para o exercício das atribuições e das responsabilidades diferenciadas, de acordo com as especificidades da área de atuação e os níveis de complexidade correspondente; e<br>
+III – os critérios exigidos para o exercício das atribuições e das responsabilidades diferenciadas, de acordo com as especificidades da área de atuação e os níveis de complexidade correspondente; e
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~III – os critérios exigidos para o exercício das atribuições diferenciadas de assessoramento técnico especializado, de acordo com as especificidades da área de atuação e a faixa de complexidade correspondente; e~~
 
-IV – os critérios de avaliação periódica para a manutenção da percepção da GRG.<br>
+IV – os critérios de avaliação periódica para a manutenção da percepção da GRG.
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~IV – os critérios de avaliação periódica de desempenho para a manutenção da percepção da Gratificação das Redes de Gestão.~~
 
-Art. 112. A GRG será concedida aos servidores efetivos e aos comissionados, aos empregados públicos permanentes e ao pessoal contratado por tempo determinado em exercício na administração direta, autárquica e fundacional do Poder Executivo estadual e lotados nas unidades centrais, setoriais ou correlatas do SIGES, observado o seguinte:<br>
+Art. 112. A GRG será concedida aos servidores efetivos e aos comissionados, aos empregados públicos permanentes e ao pessoal contratado por tempo determinado em exercício na administração direta, autárquica e fundacional do Poder Executivo estadual e lotados nas unidades centrais, setoriais ou correlatas do SIGES, observado o seguinte:
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~Art. 112. A Gratificação das Redes de Gestão será concedida aos servidores efetivos, comissionados e aos empregados públicos permanentes em exercício no âmbito da administração direta, autárquica e fundacional do Poder Executivo estadual e lotados nas unidades centrais ou setoriais do Sistema das Redes de Gestão, observado o seguinte:~~
 
-I – são competentes para designar a GRG os secretários de Estado e seus equivalentes hierárquicos, na administração direta, e os presidentes e seus equivalentes hierárquicos, na administração autárquica e fundacional, conforme a distribuição para cada unidade central, setorial ou correlata do órgão ou da entidade;<br>
+I – são competentes para designar a GRG os secretários de Estado e seus equivalentes hierárquicos, na administração direta, e os presidentes e seus equivalentes hierárquicos, na administração autárquica e fundacional, conforme a distribuição para cada unidade central, setorial ou correlata do órgão ou da entidade;
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~I – são competentes para designar a Gratificação das Redes de Gestão os Secretários de Estado e seus equivalentes hierárquicos, na administração direta, bem como os Presidentes e seus equivalentes hierárquicos, na administração autárquica e fundacional, conforme a distribuição para cada unidade central e/ou setorial de seu órgão ou de sua entidade;~~
 
-II – a designação e a manutenção da percepção da GRG observarão o cumprimento do disposto nos incisos III e IV do parágrafo único do art. 111 desta Lei;<br>
+II – a designação e a manutenção da percepção da GRG observarão o cumprimento do disposto nos incisos III e IV do parágrafo único do art. 111 desta Lei;
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~II – a designação e a manutenção da percepção da Gratificação das Redes de Gestão observarão o cumprimento do disposto nos incisos III e IV do parágrafo único do art. 111;~~
 
-III – a designação da GRG implica a obrigatoriedade do cumprimento da jornada de 8 (oito) horas diárias de trabalho, exceto nos casos previstos no § 3º do art. 74 da Lei estadual nº 20.756, de 28 de janeiro de 2020, e não se aplicará o disposto no art. 76 da mesma Lei; e<br>
+III – a designação da GRG implica a obrigatoriedade do cumprimento da jornada de 8 (oito) horas diárias de trabalho, exceto nos casos previstos no § 3º do art. 74 da Lei estadual nº 20.756, de 28 de janeiro de 2020, e não se aplicará o disposto no art. 76 da mesma Lei; e
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~III – a designação da Gratificação das Redes de Gestão implica a obrigatoriedade do cumprimento da jornada de 8 (oito) horas diárias de trabalho, exceto nos casos previstos no § 3º do art. 74 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979/lei-20756), de 28 de janeiro de 2020, e não se aplicará o disposto no art. 76 da referida Lei; e~~
 
-IV – a GRG ~~Gratificação das Redes de Gestão~~:<br>
+IV – a GRG ~~Gratificação das Redes de Gestão~~:
+
  - [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 a) tem natureza transitória, portanto é atribuível e dispensável a qualquer tempo;
 
-b) tem caráter funcional e impessoal e é devida em razão de designação para as atribuições e as responsabilidades diferenciadas previstas em decreto e do resultado da avaliação periódica;<br>
+b) tem caráter funcional e impessoal e é devida em razão de designação para as atribuições e as responsabilidades diferenciadas previstas em decreto e do resultado da avaliação periódica;
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~b) tem caráter funcional e impessoal e é devida em razão de designação para as atribuições diferenciadas de assessoramento técnico especializado previstas em decreto e do resultado da avaliação periódica de desempenho;~~
@@ -2128,10 +2374,12 @@ f) não é devida aos titulares dos cargos de provimento em comissão das estrut
 
 g) não é devida aos servidores efetivos remunerados por subsídio.
 
-Parágrafo único. Caso as atribuições e as responsabilidades diferenciadas sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele Função Comissionada do Sistema Estruturador das Redes de Gestão de valor e símbolo equivalentes à GRG, e esse servidor será submetido às mesmas exigências para a designação e a manutenção da referida gratificação.<br>
+Parágrafo único. Caso as atribuições e as responsabilidades diferenciadas sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele Função Comissionada do Sistema Estruturador das Redes de Gestão de valor e símbolo equivalentes à GRG, e esse servidor será submetido às mesmas exigências para a designação e a manutenção da referida gratificação.
+
 \- [Acrescido pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
-Art. 113. O servidor designado para as atribuições e as responsabilidades diferenciadas, com direito à percepção da GRG, receberá o valor dela decorrente cumulativamente com o vencimento, o salário, a remuneração ou o subsídio pelo exercício de cargo de provimento efetivo, comissionado, de emprego público permanente ou ao pessoal contratado por tempo determinado, observado o disposto na alínea “g” do inciso IV e no parágrafo único do art. 112 desta Lei.<br>
+Art. 113. O servidor designado para as atribuições e as responsabilidades diferenciadas, com direito à percepção da GRG, receberá o valor dela decorrente cumulativamente com o vencimento, o salário, a remuneração ou o subsídio pelo exercício de cargo de provimento efetivo, comissionado, de emprego público permanente ou ao pessoal contratado por tempo determinado, observado o disposto na alínea “g” do inciso IV e no parágrafo único do art. 112 desta Lei.
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 ~~Art. 113. O servidor designado para as atribuições de assessoramento técnico especializado, com direito à percepção da Gratificação das Redes de Gestão, receberá o valor dela decorrente cumulativamente com o vencimento, o salário, a remuneração ou o subsídio pelo exercício de cargo de provimento efetivo ou comissionado ou ainda de emprego público permanente, observado o disposto na alínea “g” do inciso IV do art. 112 desta Lei.~~
@@ -2140,12 +2388,14 @@ CAPÍTULO X
 
 DO CUSTEIO E DA GESTÃO
 
-Art. 114.  As despesas decorrentes dos cargos de provimento em comissão das estruturas e de assessoramento, das funções comissionadas, da Gratificação do Sistema Estruturador das Redes de Gestão – GRG e das Gratificações Educacionais – GRATIEDUs de que trata esta Lei serão custeadas com recursos consignados na Lei Orçamentária Anual.<br>
+Art. 114.  As despesas decorrentes dos cargos de provimento em comissão das estruturas e de assessoramento, das funções comissionadas, da Gratificação do Sistema Estruturador das Redes de Gestão – GRG e das Gratificações Educacionais – GRATIEDUs de que trata esta Lei serão custeadas com recursos consignados na Lei Orçamentária Anual.
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 ~~Art. 114. As despesas decorrentes dos cargos de provimento em comissão das estruturas e de assessoramento, das funções comissionadas e da Gratificação das Redes de Gestão de que trata esta Lei serão custeadas com recursos consignados na Lei Orçamentária Anual.~~
 
-Parágrafo único.  Decreto do Chefe do Poder Executivo definirá a distribuição dos cargos de provimento em comissão das estruturas e de assessoramento, das funções comissionadas e das gratificações, observados os tipos, os símbolos e os valores definidos nos Anexos I a IV e IX desta Lei.<br>
+Parágrafo único.  Decreto do Chefe do Poder Executivo definirá a distribuição dos cargos de provimento em comissão das estruturas e de assessoramento, das funções comissionadas e das gratificações, observados os tipos, os símbolos e os valores definidos nos Anexos I a IV e IX desta Lei.
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 ~~Parágrafo único. Decreto do Chefe do Poder Executivo definirá a distribuição dos cargos de provimento em comissão das estruturas e de assessoramento, das funções comissionadas e das gratificações, observados os tipos, os símbolos e os valores definidos nos Anexos I a IV desta Lei.~~
@@ -2182,7 +2432,8 @@ Art. 119. Permanecerão em vigor, no que couber e enquanto não forem alterados 
 
 Parágrafo único. Os órgãos e as entidades da administração direta, autárquica e fundacional do Estado de Goiás deverão adotar as providências necessárias à elaboração de minutas dos atos de alteração ou substituição dos respectivos regulamentos, regimentos e estatutos, em termos consentâneos com as disposições desta Lei, no prazo de 120 (cento e vinte) dias, e encaminhá-las para a análise da SEAD.
 
-Art. 120. Ato do Chefe do Poder Executivo poderá dispor sobre a correspondência das unidades administrativas básicas e complementares dos órgãos, das entidades, dos respectivos cargos de provimento em comissão, dos cargos de assessoramento e das funções comissionadas, atualmente previstos na [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, de acordo com as alterações a serem promovidas nesta Lei e nos regulamentos, bem como sobre a eventual manutenção de seus atuais ocupantes.<br>
+Art. 120. Ato do Chefe do Poder Executivo poderá dispor sobre a correspondência das unidades administrativas básicas e complementares dos órgãos, das entidades, dos respectivos cargos de provimento em comissão, dos cargos de assessoramento e das funções comissionadas, atualmente previstos na [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, de acordo com as alterações a serem promovidas nesta Lei e nos regulamentos, bem como sobre a eventual manutenção de seus atuais ocupantes.
+
 \- [Vide Decreto  nº 10.219, de 16-2-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106752/decreto-10219).
 
 Art. 121. Permanecerão em vigor, no que couber e enquanto não forem alterados ou substituídos, os atos infralegais que disponham sobre a distribuição e a designação das funções comissionadas nos órgãos e nas entidades integrantes da administração direta, autárquica e fundacional do Estado de Goiás a que se refere esta Lei.
@@ -2367,7 +2618,8 @@ Governador do Estado
 
 ANEXO I
 
-TABELA DOS SUBSÍDIOS DOS CARGOS DE PROVIMENTO EM COMISSÃO<br>
+TABELA DOS SUBSÍDIOS DOS CARGOS DE PROVIMENTO EM COMISSÃO
+
 INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
 | ESTRUTURA | TIPO | SÍMBOLO | SUBSÍDIO |
@@ -2403,7 +2655,8 @@ INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
 ANEXO II
 
-TABELA DOS SUBSÍDIOS DOS CARGOS DE ASSESSORAMENTO COM PROVIMENTO<br>
+TABELA DOS SUBSÍDIOS DOS CARGOS DE ASSESSORAMENTO COM PROVIMENTO
+
 EM COMISSÃO NÃO INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
 | TIPO | SÍMBOLO | SUBSÍDIO |
@@ -2424,8 +2677,8 @@ EM COMISSÃO NÃO INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
 ANEXO III
 
-FUNÇÕES COMISSIONADAS<br>
-<br>
+FUNÇÕES COMISSIONADAS
+
 a) DO PODER EXECUTIVO – FCPE
 
 | FAIXA DE COMPLEXIDADE | TIPO/SÍMBOLO | VALOR |
@@ -2449,7 +2702,6 @@ a) DO PODER EXECUTIVO – FCPE
 | FCPE-17 | R$ 600,00 |
 | FCPE-18 | R$ 450,00 |
 
-<br>
 b) DE ASSESSORAMENTO CONTÁBIL – FCAC
 
 | TIPO | SÍMBOLO | VALOR |
@@ -2457,8 +2709,10 @@ b) DE ASSESSORAMENTO CONTÁBIL – FCAC
 | Assessor Contábil 1 | FCAC-1 | R$ 3.000,00 |
 | Assessor Contábil 2 | FCAC-2 | R$ 2.000,00 |
 
-c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC<br>
-\- [Redação dada pela Lei nº 22.526, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108382/lei-22526).<br>
+c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC
+
+\- [Redação dada pela Lei nº 22.526, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108382/lei-22526).
+
 \- [Vide Decreto nº 10.382, de 5-1-2024 - Regulamento.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108381/decreto-10382)
 
 | TABELA 1 FUNÇÕES COMISSIONADAS DE ADMINISTRAÇÃO EDUCACIONAL — FCEs |
@@ -2505,7 +2759,7 @@ c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC<br>
 | TABELA 4 FUNÇÃO COMISSIONADA DE GESTOR ESCOLAR – UNIDADES PARCIAIS |
 | --- |
 | **Tipologia** | **Sigla** | **Alunos** | **FC fixo** | **Frequência** |
-|   |   |   |   | **FC variável****\-1** | **FC variável****\-2** | **FC variável****\-3** |
+|   |   |   |   | **FC variável\-1** | **FC variável\-2** | **FC variável\-3** |
 | 1 | FCEGE | 1 a 50 | 1.100,00 | 900,00 | 1.000,00 | 1.100,00 |
 | 2 | FCEGE | 51 a 100 | 1.150,00 | 950,00 | 1.050,00 | 1.150,00 |
 | 3 | FCEGE | 101 a 150 | 1.200,00 | 1.000,00 | 1.100,00 | 1.200,00 |
@@ -2636,8 +2890,8 @@ c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC<br>
 
 ~~C) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE – SEDUC~~
 
-| ~~TABELA 1~~<br>
-<br>
+| ~~TABELA 1~~
+
 ~~FUNÇÕES COMISSIONADAS DE ADMINISTRAÇÃO EDUCACIONAL – FCAEs~~ |
 | --- |
 | ~~TIPO~~ | ~~SÍMBOLO~~ | ~~VALOR~~ |
@@ -2670,8 +2924,8 @@ c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC<br>
 | ~~Função Comissionada Centralizada 8~~ | ~~FCE-CENT8~~ | ~~R$ 790,00~~ |
 | ~~Função Comissionada Centralizada 9~~ | ~~FCE-CENT9~~ | ~~R$ 630,00~~ |
 
-| ~~TABELA 2~~<br>
-<br>
+| ~~TABELA 2~~
+
 ~~FUNÇÕES COMISSIONADAS DE ENSINO EM PERÍODO INTEGRAL – FCEPIs~~ |
 | --- |
 | ~~TIPO~~ | ~~SÍMBOLO~~ | ~~VALOR~~ |
@@ -2685,16 +2939,16 @@ c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC<br>
 | ~~Secretário Escolar~~ | ~~FCEPI-3B (de 201 a 400 alunos)~~ | ~~R$ 1.800,00~~ |
 | ~~Secretário Escolar~~ | ~~FCEPI-3C (a partir de 401 alunos)~~ | ~~R$ 2.000,00~~ |
 
-| ~~TABELA 3~~<br>
-<br>
+| ~~TABELA 3~~
+
 ~~FUNÇÕES COMISSIONADAS ADMINISTRATIVA EDUCACIONAL~~ |
 | --- |
 | ~~TIPO~~ | ~~SÍMBOLO~~ | ~~VALOR~~ |
 | ~~Função Comissionada Administrativa Educacional~~ | ~~FCAE-I~~ | ~~R$ 2.500,00~~ |
 | ~~Função Comissionada Administrativa Educacional~~ | ~~FCAE-II~~ | ~~R$ 1.600,00~~ |
 
-| ~~TABELA 4~~<br>
-<br>
+| ~~TABELA 4~~
+
 ~~FUNÇÕES COMISSIONADAS PARA AS COORDENAÇÕES REGIONAIS DE EDUCAÇÃO~~ |
 | --- |
 | ~~TIPO~~ | ~~SÍMBOLO~~ | ~~VALOR~~ |
@@ -2717,16 +2971,16 @@ c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC<br>
 | ~~Supervisor Administrativo Educacional~~ | ~~FC-SAE3~~ | ~~R$ 1.612,50~~ |
 | ~~Supervisor de Apoio Administrativo~~ | ~~FC-SAD3~~ | ~~R$ 1.075,00~~ |
 
-| ~~**TABELA 5**~~<br>
-<br>
+| ~~**TABELA 5**~~
+
 ~~FUNÇÕES COMISSIONADAS DO PROGRAMA GOIÁS TEC – ENSINO MÉDIO AO ALCANCE DE TODOS~~ |
 | --- |
 | ~~**TIPO**~~ | ~~**SÍMBOLO**~~ | ~~**VALOR**~~ |
 | ~~Função Comissionada para Coordenador Pedagógico de Mediação Tecnológica~~ | ~~FCCPMT-I~~ | ~~R$ 3.000,00~~ |
 | ~~Função Comissionada para Assessor Pedagógico de Mediação Tecnológica~~ | ~~FCAPMT-I~~ | ~~R$ 2.250,00~~ |
 
-| ~~TABELA 6~~<br>
-<br>
+| ~~TABELA 6~~
+
 ~~FUNÇÕES COMISSIONADAS DE ASSESSORAMENTO PEDAGÓGICO – FCEs~~ |
 | --- |
 | ~~TIPO~~ | ~~SÍMBOLO~~ | ~~VALOR~~ |
@@ -2735,7 +2989,6 @@ c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC<br>
 | ~~Função Comissionada de Assessoria Pedagógica Central~~ | ~~FCAPCENT~~ | ~~R$ 1.800,00~~ |
 | ~~Função Comissionada de Tutor Educacional~~ | ~~FCTE~~ | ~~R$ 2.000,00~~ |
 
-<br>
 d) DE ADMINISTRAÇÃO EDUCACIONAL SUPERIOR – FCAES
 
 | TIPO | SÍMBOLO | VALOR |
@@ -2748,7 +3001,8 @@ d) DE ADMINISTRAÇÃO EDUCACIONAL SUPERIOR – FCAES
 | Assessor Pedagógico | FCAES-6 | R$ 1.000,00 |
 | Assessor Acadêmico, de Pesquisa ou de Extensão | FCAES-7 | R$ 900,00 |
 
-e) FUNÇÃO COMISSIONADA DO SISTEMA ESTRUTURADOR DAS REDES DE GESTÃO – FCRG<br>
+e) FUNÇÃO COMISSIONADA DO SISTEMA ESTRUTURADOR DAS REDES DE GESTÃO – FCRG
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 | FUNÇÕES COMISSIONADAS DO SISTEMA ESTRUTURADOR DAS REDES DE GESTÃO |
@@ -2760,10 +3014,10 @@ e) FUNÇÃO COMISSIONADA DO SISTEMA ESTRUTURADOR DAS REDES DE GESTÃO – FCRG<b
 | FCRG-4 | R$ 1.500,00 |
 | FCRG-5 | R$ 1.000,00 |
 
-<br>
 ~~e) DO SISTEMA ESTRUTURADOR DE ORGANIZAÇÃO E INOVAÇÃO INSTITUCIONAL – FCSISTs~~
 
-| ~~FUNÇÕES COMISSIONADAS DO SISTEMA ESTRUTURADOR~~<br>
+| ~~FUNÇÕES COMISSIONADAS DO SISTEMA ESTRUTURADOR~~
+
 ~~DE ORGANIZAÇÃO E INOVAÇÃO INSTITUCIONAL~~ |
 | --- |
 | ~~TIPO~~ | ~~VALOR~~ |
@@ -2773,14 +3027,16 @@ e) FUNÇÃO COMISSIONADA DO SISTEMA ESTRUTURADOR DAS REDES DE GESTÃO – FCRG<b
 | ~~FCSIST-4~~ | ~~R$ 1.500,00~~ |
 | ~~FCSIST-5~~ | ~~R$ 1.000,00~~ |
 
-f) FUNÇÃO COMISSIONADA DE GESTÃO OPERACIONAL DA POLÍCIA PENAL<br>
+f) FUNÇÃO COMISSIONADA DE GESTÃO OPERACIONAL DA POLÍCIA PENAL
+
 \- [Acrescida pela Lei nº 24.398, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993/lei-24398).
 
-<table align="center" class="MsoTableGrid" style="border-collapse:collapse; border:none"><tbody><tr><td colspan="4" style="  height:1.0cm;   ">TABELA 1 – FUNÇÃO COMISSIONADA DE DIREÇÃO DE UNIDADES ESPECIALIZADAS DA POLÍCIA PENAL</td></tr><tr><td style="  height:1.0cm;   "><strong>TIPO</strong></td><td style=" width:332px;  height:1.0cm;   "><strong>DENOMINAÇÃO</strong></td><td style=" width:135px;  height:1.0cm;   "><strong>SÍMBOLO</strong></td><td style="  height:1.0cm;   "><strong>VALOR MENSAL</strong></td></tr><tr><td style="  height:1.0cm;   ">1</td><td style=" width:332px;  height:1.0cm;   ">Diretor de Unidade de Polícia Penal Regional Nível 1</td><td style=" width:135px;  height:1.0cm;   ">FCDUEPP-DUPPR1</td><td style="  height:1.0cm;   ">6.404,75</td></tr><tr><td style="  height:1.0cm;   ">2</td><td style=" width:332px;  height:1.0cm;   ">Diretor de Unidade de Polícia Penal Especial</td><td style=" width:135px;  height:1.0cm;   ">FCDUEPP-DUPPES</td><td style="  height:1.0cm;   ">6.404,75</td></tr><tr><td style="  height:1.0cm;   ">3</td><td style=" width:332px;  height:1.0cm;   ">Diretor de Unidade de Polícia Penal Estadual</td><td style=" width:135px;  height:1.0cm;   ">FCDUEPP-DUPPE</td><td style="  height:1.0cm;   ">4.403,27</td></tr><tr><td style="  height:1.0cm;   ">4</td><td style=" width:332px;  height:1.0cm;   ">Diretor de Unidade de Polícia Penal Regional Nível 2</td><td style=" width:135px;  height:1.0cm;   ">FCDUEPP-DUPPR2</td><td style="  height:1.0cm;   ">3.202,38</td></tr><tr><td style="  height:1.0cm;   ">5</td><td style=" width:332px;  height:1.0cm;   ">Diretor de Unidade Técnica Especializada de Polícia Penal</td><td style=" width:135px;  height:1.0cm;   ">FCDUEPP-DUTEPP</td><td style="  height:1.0cm;   ">2.802,07</td></tr></tbody></table>
+<table><tbody><tr><td colspan="4">TABELA 1 – FUNÇÃO COMISSIONADA DE DIREÇÃO DE UNIDADES ESPECIALIZADAS DA POLÍCIA PENAL</td></tr><tr><td>**TIPO**</td><td>**DENOMINAÇÃO**</td><td>**SÍMBOLO**</td><td>**VALOR MENSAL**</td></tr><tr><td>1</td><td>Diretor de Unidade de Polícia Penal Regional Nível 1</td><td>FCDUEPP-DUPPR1</td><td>6.404,75</td></tr><tr><td>2</td><td>Diretor de Unidade de Polícia Penal Especial</td><td>FCDUEPP-DUPPES</td><td>6.404,75</td></tr><tr><td>3</td><td>Diretor de Unidade de Polícia Penal Estadual</td><td>FCDUEPP-DUPPE</td><td>4.403,27</td></tr><tr><td>4</td><td>Diretor de Unidade de Polícia Penal Regional Nível 2</td><td>FCDUEPP-DUPPR2</td><td>3.202,38</td></tr><tr><td>5</td><td>Diretor de Unidade Técnica Especializada de Polícia Penal</td><td>FCDUEPP-DUTEPP</td><td>2.802,07</td></tr></tbody></table>
 
-<table align="center" class="MsoTableGrid" style="border-collapse:collapse; border:none"><tbody><tr><td colspan="4" style="  height:1.0cm;   ">TABELA 2 – FUNÇÃO COMISSIONADA DE COORDENAÇÃO DE UNIDADE DE OPERAÇÕES PENITENCIÁRIAS</td></tr><tr><td style="  height:1.0cm;   "><strong>TIPO</strong></td><td style="  height:1.0cm;   "><strong>DENOMINAÇÃO</strong></td><td style=" width:105px;  height:1.0cm;   "><strong>SÍMBOLO</strong></td><td style=" width:94px;  height:1.0cm;   "><strong>VALOR MENSAL</strong></td></tr><tr><td style="  height:1.0cm;   ">1</td><td style="  height:1.0cm;   ">Coordenador de Unidade de Operações Penitenciárias Especializadas</td><td style=" width:105px;  height:1.0cm;   ">FCCOP-COPE</td><td style=" width:94px;  height:1.0cm;   ">6.404,75</td></tr></tbody></table>
+<table><tbody><tr><td colspan="4">TABELA 2 – FUNÇÃO COMISSIONADA DE COORDENAÇÃO DE UNIDADE DE OPERAÇÕES PENITENCIÁRIAS</td></tr><tr><td>**TIPO**</td><td>**DENOMINAÇÃO**</td><td>**SÍMBOLO**</td><td>**VALOR MENSAL**</td></tr><tr><td>1</td><td>Coordenador de Unidade de Operações Penitenciárias Especializadas</td><td>FCCOP-COPE</td><td>6.404,75</td></tr></tbody></table>
 
-ANEXO IV<br>
+ANEXO IV
+
 \- [Redação dada pela Lei nº 22.447, de 7-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108202/lei-22447).
 
 GRATIFICAÇÃO DO SISTEMA ESTRUTURADOR DAS REDES DE GESTÃO – GRG
@@ -2815,7 +3071,8 @@ ANEXO II
 
 Tabela de Gratificação pelo Desempenho em Atividade do Vapt Vupt – GDVV
 
-Tabela 1<br>
+Tabela 1
+
 Unidades Fixas, Móveis e Padrão
 
 | FUNÇÃO | Valores Mensais Máximos (R$) |
@@ -2836,7 +3093,8 @@ ANEXO VI
 
 ANEXO IV
 
-Unidades Complementares Descentralizadas<br>
+Unidades Complementares Descentralizadas
+
 da Secretaria de Estado da Administração
 
 | Denominação da Unidade | Classificação | Relação de Cargos em Comissão |
@@ -2878,7 +3136,8 @@ ANEXO VIII
 
 “(NR)
 
-ANEXO IX<br>
+ANEXO IX
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 GRATIFICAÇÕES EDUCACIONAIS

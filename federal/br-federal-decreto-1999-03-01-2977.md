@@ -1,5 +1,3 @@
-###DEC-002977-0-000-01-03-1999@@@
-
 DECRETO Nº 2.977, DE 1º DE MARÇO DE 1999.
 
 Promulga a Convenção Internacional sobre a Proibição do Desenvolvimento, Produção, Estocagem e Uso de Armas Químicas e sobre a Destruição das Armas Químicas Existentes no Mundo, assinada em Paris, em 13 de janeiro de 1993.

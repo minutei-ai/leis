@@ -1,5 +1,3 @@
-###DEC-055244-0-000-21-12-1964@@@
-
 DECRETO Nº 55.244, DE 21 DE DEZEMBRO DE 1964.
 
 Relaciona, para os efeitos previstos no § 1º do art. 4º da Lei nº 4.345, de 26 de junho de 1964, os cargos vinculados ao magistério federal dos níveis superior e médio e dá outras providências.
@@ -83,8 +81,6 @@ Mauro Thibau
 Roberto de Oliveira Campos
 
 Oswaldo Cordeiro de Farias
-
-###DEC-055244-0-000-21-12-1964@@@RET01+++
 
 DECRETO Nº 55.244, DE 21 DE DEZEMBRO DE 1964.
 

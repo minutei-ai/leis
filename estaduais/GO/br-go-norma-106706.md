@@ -26,12 +26,10 @@ II – 26 de setembro de 2022 a 31 de dezembro de 2022, em relação aos parágr
 
 Goiânia, 19 de janeiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-<table border="1" width="100%"><tbody><tr><td height="300%" rowspan="3" align="center" width="230"><b>ESTADO</b></td><td height="200%" rowspan="2" align="center"><b>GAC</b><p>&nbsp;</p></td><td height="200%" rowspan="2" align="center"><b>GAP</b></td><td height="100%" align="center" width="160"><b>GLP</b></td><td height="200%" rowspan="2" align="center" width="168"><b>GLP</b></td><td height="200%" rowspan="2" align="center" width="186"><b>DIESEL S10</b></td><td height="200%" rowspan="2" align="center" width="215"><b>ÓLEO DIESEL</b></td></tr><tr><td height="100%" align="center" width="160">P13</td></tr><tr><td height="100%" align="center">(R$/litro)</td><td height="100%" align="center">(R$/litro)</td><td height="100%" align="center" width="160">(R$/kg)</td><td height="100%" align="center" width="168">(R$/kg)</td><td height="100%" align="center" width="186">(R$/litro)</td><td height="100%" align="center" width="215">(R$/litro)</td></tr><tr><td height="100%" width="230" align="center">GOIÁS</td><td height="100%" align="center">4,9975</td><td height="100%" align="center">4,9975</td><td height="100%" width="160" align="center">6,1106</td><td height="100%" width="168" align="center">6,1106</td><td height="100%" width="186" align="center">4,0625</td><td height="100%" width="215" align="center">3,9657</td></tr></tbody></table>
+<table><tbody><tr><td height="300%" rowspan="3">**ESTADO**</td><td height="200%" rowspan="2">**GAC** &nbsp; </td><td height="200%" rowspan="2">**GAP**</td><td height="100%">**GLP**</td><td height="200%" rowspan="2">**GLP**</td><td height="200%" rowspan="2">**DIESEL S10**</td><td height="200%" rowspan="2">**ÓLEO DIESEL**</td></tr><tr><td height="100%">P13</td></tr><tr><td height="100%">(R$/litro)</td><td height="100%">(R$/litro)</td><td height="100%">(R$/kg)</td><td height="100%">(R$/kg)</td><td height="100%">(R$/litro)</td><td height="100%">(R$/litro)</td></tr><tr><td height="100%">GOIÁS</td><td height="100%">4,9975</td><td height="100%">4,9975</td><td height="100%">6,1106</td><td height="100%">6,1106</td><td height="100%">4,0625</td><td height="100%">3,9657</td></tr></tbody></table>

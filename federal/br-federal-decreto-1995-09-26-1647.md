@@ -1,7 +1,3 @@
-1
-
-###DEC-001647-0-000-26-09-1995@@@
-
 # DECRETO N° 1.647, DE 26 DE SETEMBRO DE 1995.
 
 Regulamenta as Leis n°s 7.862, de 30 de outubro de 1989, 8.029, de 12 de abril de 1990, 8.031, de 12 de abril de 1990, 8.250, de 24 de outubro de 1991, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004545-0-000-31-07-1942@@@
-
 DECRETO-LEI N. 4.545 – DE 31 DE JULHO DE 1942
 
 Dispõe sobre a forma e a apresentação dos símbolos nacionais, e dá outras providências

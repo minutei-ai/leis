@@ -1,5 +1,3 @@
-###DEC-005254-0-000-27-10-2004@@@
-
 DECRETO Nº 5.254 DE 27 DE OUTUBRO DE 2004
 
 Dá nova redação ao inciso I do § 1º do art. 303 do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999.

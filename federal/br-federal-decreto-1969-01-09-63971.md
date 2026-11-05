@@ -1,5 +1,3 @@
-###DEC-063971-0-000-09-01-1969@@@
-
 decreto nº 63.971, de 09 de janeiro de 1969.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S. A.- ELETROBRÁS.

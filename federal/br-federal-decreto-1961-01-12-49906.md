@@ -1,5 +1,3 @@
-###DEC-049906-0-000-12-01-1961@@@
-
 Decreto nº 49.906, de 12 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Geraldo Spyer Prates a lavrar minério de ferro no município de Betim, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-054111-0-000-10-08-1964@@@
-
 Decreto nº 54.111, de 10 de agôsto de 1964.
 
 Abre pelo Ministério da Fazenda, o crédito especial de Cr$200.000.000,00 (duzentos milhões de cruzeiros) para atender as despesas que especifica.

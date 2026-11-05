@@ -170,4 +170,4 @@ Brasília, 19 de julho de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Luiz Pontel de Souza<br>
+Luiz Pontel de Souza

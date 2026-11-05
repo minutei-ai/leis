@@ -1,5 +1,3 @@
-###DEC-045984-0-000-14-05-1959@@@
-
 Decreto nº 45.984, de 14 de maio de 1959.
 
 Restabelece função de extranumerário mensalista da Tabela Única de Extranumerário-mensalista do Ministério da Marinha.

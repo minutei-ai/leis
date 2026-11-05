@@ -1,5 +1,3 @@
-###DEL-006824-0-000-25-08-1944@@@
-
 DECRETO-LEI N. 6.824 – DE 25 DE AGôSTO DE 1944
 
 Institui a Comissão da Indústria de Material Elétrico (C.l.M.E.)

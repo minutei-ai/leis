@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2d7a29cf-c5fe-4105-91e1-a4d7c886722c/texto#nowhere)
 
-###DEL-000544-0-000-18-04-1969@@@
-
 DECRETO-LEI Nº 544, DE 18 DE ABRIL DE 1969
 
 Aprova os Atos do XV Congresso da União Postal Universal, adotados em Viena, a 10 de julho de 1964.

@@ -1,5 +1,3 @@
-###DEC-085080-0-000-27-08-1980@@@
-
 Decreto nº 85.080, de 27 de agosto de 1980.
 
 Declara de interesse social, para fins de desapropriação o imóvel rural que menciona, situado no Município de Rio Branco, no Estado do Acre, compreendido na área prioritária de reforma agrária, de que trata o Decreto número 67.557, de 12 de novembro de 1970, alterado pelo Decreto nº 75.295, de 27 de janeiro de 1975, e cuja vigência foi prorrogada pelo Decreto nº 85.075, de 27 de agosto de 1980.

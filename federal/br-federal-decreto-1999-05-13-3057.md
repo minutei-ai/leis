@@ -1,5 +1,3 @@
-###DEC-003057-0-000-13-05-1999@@@
-
 DECRETO Nº 3.057,DE 13 DE MAIO DE 1999.
 
 Cria a Comissão de Integração de Obras de Infra-Estrutura Hídrica, e dá outras providências.

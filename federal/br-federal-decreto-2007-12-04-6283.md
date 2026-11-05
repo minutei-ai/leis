@@ -1,5 +1,3 @@
-###DEC-006283-0-000-04-12-2007@@@
-
 DECRETO Nº 6.283, DE 4 DE DEZEMBRO DE 2007.
 
 Dá nova redação aos arts. 7o, 20, 25 e 36 do Estatuto Social da Eletrobrás Termonuclear S.A. - ELETRONUCLEAR, aprovado pelo Decreto no 4.899, de 26 de novembro de 2003.
@@ -49,5 +47,3 @@ Brasília, 4 de dezembro de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson José Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 5.12.2007

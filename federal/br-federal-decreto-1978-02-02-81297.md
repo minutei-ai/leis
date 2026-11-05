@@ -1,5 +1,3 @@
-###DEC-081297-0-000-02-02-1978@@@
-
 Decreto nº 81.297, de 2 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de Pedagogia da Universidade de Fortaleza, com sede na cidade de Fortaleza, Estado do Ceará.

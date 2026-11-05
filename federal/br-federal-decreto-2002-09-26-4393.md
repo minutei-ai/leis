@@ -1,5 +1,3 @@
-###DEC-004393-0-000-26-09-2002@@@
-
 DECRETO Nº 4.393, DE 26 DE SETEMBRO DE 2002
 
 Dispõe sobre a execução do Vigésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do Mercosul, e o Governo da República do Chile, de 28 de agosto de 2002.

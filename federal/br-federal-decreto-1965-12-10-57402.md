@@ -1,5 +1,3 @@
-###DEC-057402-0-000-10-12-1965@@@
-
 DECRETO Nº 57.402, DE 10 DE DEZEMBRO de 1965.
 
 Transforma o 1º/2º Regimento de Obuses 105 em 2º Regimento de Obuses 105.

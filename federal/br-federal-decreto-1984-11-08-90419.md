@@ -1,5 +1,3 @@
-###DEC-090419-0-000-08-11-1984@@@
-
 Decreto nº 90.419, dE 08 de novembro de 1984
 
 Outorga concessão à RÁDIO DIFUSORA DAS MISSÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Palmeira das Missões, Estado do Rio Grande do Sul.

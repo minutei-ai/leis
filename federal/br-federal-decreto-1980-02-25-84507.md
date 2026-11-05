@@ -1,5 +1,3 @@
-###DEC-084507-0-000-25-02-1980@@@
-
 Decreto nº 84.507, de 25 de fevereiro de 1980.
 
 Autoriza o funcionamento do curso de Fisioterapia da Escola Municipal Superior de Educação Física de Presidente Prudente, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-072260-0-000-14-05-1973@@@
-
 DECRETO Nº 72.260, DE 14 DE MAIO DE 1973.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário no Município de Salvador, Estado da Bahia.

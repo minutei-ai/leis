@@ -1,5 +1,3 @@
-###DEC-096613-0-000-30-08-1988@@@
-
 DECRETO Nº 96.613, DE 30 DE AGOSTO DE 1988
 
 Outorga concessão a TELEVISÃO CONQUISTA LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão} na Cidade de Vitória da Conquista, Estado da Bahia.

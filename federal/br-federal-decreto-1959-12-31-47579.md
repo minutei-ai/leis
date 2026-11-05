@@ -1,5 +1,3 @@
-###DEC-047579-0-000-31-12-1959@@@
-
 Decreto nº 47.579, de 31 de dezembro de 1959.
 
 Autoriza estrangeiro a adquirir o lote de terreno nacional interior que menciona, situado no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-071844-0-000-15-02-1973@@@
-
 DECRETO N° 71.844, DE 15 DE FEVEREIRO DE 1973.
 
 Aproveita, no Quadro de pessoal do Ministério do Exército, servidor em disponibilidade, e dá outras providências.

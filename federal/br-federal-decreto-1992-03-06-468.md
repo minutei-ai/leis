@@ -1,7 +1,3 @@
-1
-
-###DEC-000468-0-000-06-03-1992@@@
-
 DECRETO N° 468, DE 6 DE MARÇO DE 1992
 
 Estabelece regras para a redação de atos normativos do Poder Executivo e dispõe sobre a tramitação de documentos sujeitos à aprovação do Presidente da República.

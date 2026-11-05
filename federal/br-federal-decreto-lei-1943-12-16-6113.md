@@ -1,5 +1,3 @@
-###DEL-006113-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.113 – DE 16 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 2.000.000,00, para auxílio à Fundação Brasil Central

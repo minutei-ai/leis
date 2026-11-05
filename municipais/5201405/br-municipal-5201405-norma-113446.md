@@ -4,7 +4,8 @@ Autoriza o Poder Executivo a criar a Empresa Pública sob a denominação de Com
 
 FAÇO SABER QUE A CÂMARA MUNICPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI.
 
-Art. 1º Fica o Poder Executivo autorizado a criar a Companhia de Desenvolvimento de Aparecida de Goiânia – CODAP, sociedade por ações, com prazo de duração indeterminado. <br>
+Art. 1º Fica o Poder Executivo autorizado a criar a Companhia de Desenvolvimento de Aparecida de Goiânia – CODAP, sociedade por ações, com prazo de duração indeterminado. 
+
 (Redação alterada pela Lei Complementar nº 222, de 16 de outubro de 2023).
 
 ~~Art. 1º - Fica o Poder Executivo autorizado a criar uma Empresa Pública, sob a forma de sociedade por ações, denominada Companhia de Distritos Industriais de Aparecida de Goiânia – CODAP, com prazo de duração indeterminado.~~
@@ -17,7 +18,8 @@ I – projetar e implantar, direta ou indiretamente, áreas industriais, bem com
 
 II - divulgar e promover as áreas a que se refere o inciso anterior e suas oportunidades industriais;
 
-III - prestar, mediante remuneração, assessoramento técnico às empresas que pretenderem se instalar nas áreas industriais sob sua administração, inclusive mediante estudos de viabilidade técnico-econômica ou projetos de engenharia; <br>
+III - prestar, mediante remuneração, assessoramento técnico às empresas que pretenderem se instalar nas áreas industriais sob sua administração, inclusive mediante estudos de viabilidade técnico-econômica ou projetos de engenharia; 
+
 (Redação alterada pela Lei Complementar nº 222, de 16 de outubro de 2023).
 
 ~~III – prestar, gratuitamente ou mediante remuneração, assessoramento técnico às empresas que pretenderem se instalar nas áreas industriais sob sua administração, inclusive mediante estudos de viabilidade técnico-econômica ou projetos de engenharia;~~
@@ -36,30 +38,36 @@ IX – participar em sociedades, associações, consórcios, contratos de progra
 
 X – definir, a partir de critérios técnicos, dos locais para desenvolvimento ou ampliação de suas áreas e de seus empreendimentos.
 
-§ 1º - Será cobrada taxa de administração pela CODAP igual a 5% (cinco por cento) quando atuar como agente intermediário na negociação de imóveis, em realização de contratos de obras, de aquisição de materiais e equipamentos e de prestação de serviços que vier a assinar. <br>
+§ 1º - Será cobrada taxa de administração pela CODAP igual a 5% (cinco por cento) quando atuar como agente intermediário na negociação de imóveis, em realização de contratos de obras, de aquisição de materiais e equipamentos e de prestação de serviços que vier a assinar. 
+
 (Redação alterada pela Lei Complementar nº 222, de 16 de outubro de 2023).
 
 ~~§ 1º - A CODAP poderá cobrar taxa de administração igual a 5% (cinco por cento) quando atuar como agente intermediário em realização de contratos de obras, de aquisição de materiais e equipamentos e de prestação de serviços que vier a assinar com outros órgãos da administração pública.~~
 
 Art. 3º - O Município de Aparecida de Goiânia (GO) integralizará o capital social da CODAP e promoverá a constituição inicial de seu patrimônio por meio de capitalização.
 
-§1º - Ao Município de Aparecida de Goiânia é reservada, em qualquer hipótese, a participação mínima no capital social, com direito a voto, necessário a manutenção do Controle Acionário, sendo-lhes garantido sempre, em todas as emissões de ações, manter esta situação. <br>
+§1º - Ao Município de Aparecida de Goiânia é reservada, em qualquer hipótese, a participação mínima no capital social, com direito a voto, necessário a manutenção do Controle Acionário, sendo-lhes garantido sempre, em todas as emissões de ações, manter esta situação. 
+
 (Redação acrescentada pela Lei Complementar nº 222, de 16 de outubro de 2023).
 
- § 2º - A integralização poderá se dar por meio de incorporação de bens móveis ou imóveis, de destinação de dotações orçamentárias e através da abertura de capital social. <br>
+ § 2º - A integralização poderá se dar por meio de incorporação de bens móveis ou imóveis, de destinação de dotações orçamentárias e através da abertura de capital social. 
+
 (Redação alterada pela Lei Complementar nº 222, de 16 de outubro de 2023).
 
-~~§ 2º - A integralização poderá se dar por meio de incorporação de bens móveis ou imóveis, de destinação de dotações orçamentárias e através da abertura de crédito especial.~~<br>
+~~§ 2º - A integralização poderá se dar por meio de incorporação de bens móveis ou imóveis, de destinação de dotações orçamentárias e através da abertura de crédito especial.~~
+
 ~~(Redação alterada pela Lei Complementar nº 222, de 16 de outubro de 2023).~~
 
 ~~§ 1º - A integralização poderá se dar por meio de incorporação de bens móveis ou imóveis, de destinação de dotações orçamentárias e através da abertura de crédito especial.~~
 
-§ 3º - A área de terras já desapropriadas pelo Município de Aparecida de Goiânia, anteriormente destinadas à implantação dos Distritos Industriais XXXX, fará parte dos imóveis que integralizarão o capital social da CODAP, nos termos do parágrafo segundo.<br>
+§ 3º - A área de terras já desapropriadas pelo Município de Aparecida de Goiânia, anteriormente destinadas à implantação dos Distritos Industriais XXXX, fará parte dos imóveis que integralizarão o capital social da CODAP, nos termos do parágrafo segundo.
+
 (Redação alterada pela Lei Complementar nº 222, de 16 de outubro de 2023).
 
 ~~§ 2º - A área de terras já desapropriadas pelo Município de Aparecida de Goiânia, anteriormente destinadas à implantação dos Distritos Industriais XXXX, fará parte dos imóveis que integralizarão o capital social da CODAP, nos termos do parágrafo segundo.~~
 
-§ 4º - Será admitida a participação acionária no capital social da CODAP de pessoas jurídicas de direito público interno.<br>
+§ 4º - Será admitida a participação acionária no capital social da CODAP de pessoas jurídicas de direito público interno.
+
 (Redação alterada pela Lei Complementar nº 222, de 16 de outubro de 2023).
 
 ~~§ 2º - Será admitida a participação acionária no capital social da CODAP de pessoas jurídicas de direito público interno.~~
@@ -96,11 +104,14 @@ Art. 11 – Esta Lei entrará em vigor na data de sua publicação, revogadas as
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, DE 04 DE JANEIRO DE 2021.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefia da Casa Civil
 
-ANDRÉ LUIS FERREIRA DA ROSA<br>
-Secretário de Fazenda<br>
+ANDRÉ LUIS FERREIRA DA ROSA
+
+Secretário de Fazenda

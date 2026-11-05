@@ -1,5 +1,3 @@
-###DEC-084900-0-000-11-07-1980@@@
-
 Decreto nº 84.900, de 11 de julho de 1.980.
 
 Autoriza a alienação de imóveis residenciais de propriedade da União, localizados em Brasília.

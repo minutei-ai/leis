@@ -1,5 +1,3 @@
-###DEC-059981-0-000-10-01-1967@@@
-
 DECRETO Nº 59.981, DE 10 DE JANEIRO DE 1967.
 
 Prorroga o prazo fixado pelo artigo 3º do Decreto nº 58.856, de 15 de julho de 1966, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089875-0-000-02-07-1984@@@
-
 decreto nº 89.875, de 02 de julho de 1984
 
 Classifica os Consulados-Gerais que menciona.

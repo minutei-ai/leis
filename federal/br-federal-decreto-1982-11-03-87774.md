@@ -1,5 +1,3 @@
-###DEC-087774-0-000-03-11-1982@@@
-
 Decreto nº 87.774, de 03 de novembro de 1982.
 
 Dispõe sobre delegação de competência ao Ministro da Fazenda para autorizar a utilização de imóveis da União.

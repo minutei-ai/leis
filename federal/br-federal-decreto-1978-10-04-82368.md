@@ -1,5 +1,3 @@
-###DEC-082368-0-000-04-10-1978@@@
-
 Decreto nº 82.368, de 04 de outubro de 1978
 
 Concede à Moreira-Moagem de Minérios S.A o direito de lavrar argila no Município de Resende, Estado do Rio de Janeiro.

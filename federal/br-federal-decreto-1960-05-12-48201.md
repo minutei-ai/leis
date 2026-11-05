@@ -1,5 +1,3 @@
-###DEC-048201-0-000-12-05-1960@@@
-
 decreto nº 48.201, de 12 de maio de 1960.
 
 Autoriza o cidadão brasileiro Severo Rocha a pesquisar ilmenita, no município de casemiro de Abreu, Estado do Rio de Janeiro.

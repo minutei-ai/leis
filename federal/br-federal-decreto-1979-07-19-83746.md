@@ -1,5 +1,3 @@
-###DEC-083746-0-000-19-07-1979@@@
-
 Decreto nº 83.746 de 19 de julho de 1979.
 
 Concede à Abílio Pedro S.A. - Indústria e Comércio o direito de lavrar dolomito no Município de Laranjal Paulista, Estado de São Paulo.

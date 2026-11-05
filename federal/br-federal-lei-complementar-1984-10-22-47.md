@@ -1,5 +1,3 @@
-###LCP-000047-0-000-22-10-1984@@@
-
 # LEI COMPLEMENTAR Nº 47, de 22 de outubro de 1984.
 
 Adapta a Lei Complementar nº 15, de 13 de agosto de 1973, que regula a composição e o funcionamento do Colégio que elegerá o Presidente da República, e dá outras providências, às disposições da Emenda Constitucional nº 22, de 29 de junho de 1982.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72830)
-
 # LEI Nº 12.643, DE 11 DE JULHO DE 2007
 
 ## (Projeto de lei nº 619/2003, do Deputado Conte Lopes - PP)

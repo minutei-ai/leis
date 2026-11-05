@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/5a215b85-ab78-4833-859e-a0b8c78a78eb/texto#nowhere)
 
-###DEL-000765-0-000-15-08-1969@@@
-
 Decreto-lei Nº 765, de 15 de AGôsTO DE 1969
 
 Dispõe sôbre a aplicação do Fundo Nacional de Mineração e de recursos destinados ao Departamento Nacional da Produção Mineral e ao Departamento Nacional de Águas e Energia EIétrica, e dá outras providências.

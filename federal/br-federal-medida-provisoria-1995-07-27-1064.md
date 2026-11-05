@@ -1,7 +1,3 @@
-1
-
-###MPV-001064-0-000-27-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.064, DE 27 DE JULHO DE 1995.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

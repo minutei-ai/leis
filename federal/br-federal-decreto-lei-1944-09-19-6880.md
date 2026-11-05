@@ -1,5 +1,3 @@
-###DEL-006880-0-000-19-09-1944@@@
-
 DECRETO-LEI N. 6.880 – DE 19 DE SETEMBRO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 18.000,00 para pagamento das vantagens (Pessoal) que indica

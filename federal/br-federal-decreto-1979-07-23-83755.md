@@ -1,5 +1,3 @@
-###DEC-083755-0-000-23-07-1979@@@
-
 DECRETO Nº 83.755 DE 23 DE JULHO DE 1979
 
 Autoriza o funcionamento do curso de Engenharia Mecânica, da Escola de Engenharia de Piracicaba, com sede na cidade de Piracicaba, Estado de São Paulo.

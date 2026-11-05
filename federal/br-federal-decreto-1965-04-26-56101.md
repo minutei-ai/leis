@@ -1,5 +1,3 @@
-###DEC-056101-0-000-26-04-1965@@@
-
 DECRETO Nº 56.101, DE 26 DE ABRIL DE 1965.
 
 Declara públicas, de uso comum, as águas do curso dágua que especifica.

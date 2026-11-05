@@ -1,5 +1,3 @@
-###DEC-097541-0-000-24-02-1989@@@
-
 DECRETO N.° 97.541, DE 24 DE FEVEREIRO DE 1989
 
 Dá nova redação ao art. 2º do Decreto n° 97.406, de 20 de janeiro de 1989.

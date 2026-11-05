@@ -8,7 +8,8 @@ Art. 1º - Fica declarada de utilidade pública a REAL SOCIEDADE PORTUGUESA DE B
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 22 de julho de 1994.
 
-Redação de acordo com a Lei nº 8.260, de 27 de maio de 2002.<br>
+Redação de acordo com a Lei nº 8.260, de 27 de maio de 2002.
+
 Redação original: "Art. 2º - Esta Lei entra em vigor na data de sua publicação."
 
 Art. 3º - Revogam-se as disposições em contrário.

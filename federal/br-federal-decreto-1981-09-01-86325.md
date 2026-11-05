@@ -1,5 +1,3 @@
-###DEC-086325-0-000-01-09-1981@@@
-
 DECRETO Nº 86.325, de 01 de setembro de 1981.
 
 Regulamenta a Lei nº 6.924, de 29 de junho de 1981, que cria no Ministério da Aeronáutica o Corpo Feminino da Reserva da Aeronáutica e dá outras providências.
@@ -318,11 +316,59 @@ Art. 40 - Ressalvado o disposto na Lei nº 6.924, de 29 de junho de 1981, e nest
 
 Art. 41 - As integrantes do CFRA, com permanência definitiva no Serviço Ativo, reverterão à inatividade, na Reserva Remunerada, ao atingirem as seguintes idades-limite:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">I - no QFO</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">POSTOS</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">IDADES</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente-Coronel</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56 anos</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52 anos</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão e Oficiais Subalternos</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48 anos</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">II - no QFG</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">GRADUAÇÕES</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">IDADES</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Suboficial</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52 anos</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiro-Sargento</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50 anos</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundo-Sargento</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48 anos</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Terceiro-Sargento</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47 anos</span></p></td></tr><tr><td style="width:278.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cabo</span></p></td><td style="width:143.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45 anos</span></p></td></tr></tbody></table>
+I - no QFO
+
+POSTOS
+
+IDADES
+
+Tenente-Coronel
+
+56 anos
+
+Major
+
+52 anos
+
+Capitão e Oficiais Subalternos
+
+48 anos
+
+II - no QFG
+
+GRADUAÇÕES
+
+IDADES
+
+Suboficial
+
+52 anos
+
+Primeiro-Sargento
+
+50 anos
+
+Segundo-Sargento
+
+48 anos
+
+Terceiro-Sargento
+
+47 anos
+
+Cabo
+
+45 anos
 
 Art. 42 - Aplicar-se-á a Reforma "ex officio" às militares do CFRA que atingirem as seguintes idades-limite de permanência na Reserva:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">I - no QFO</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Oficiais-Superiores, 60 anos; e</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Oficiais Intermediários e Subalternos, 56 anos.</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">II - no QFG, 56 anos.</span></p></td></tr></tbody></table>
+I - no QFO
+
+- Oficiais-Superiores, 60 anos; e
+
+- Oficiais Intermediários e Subalternos, 56 anos.
+
+II - no QFG, 56 anos.
 
 Art. 43 - As Especialidades e as Subespecialidades do CFRA serão estabelecidas pelo Ministro de Estado da Aeronáutica, anualmente, de acordo com as necessidades, por proposta do Comandante-Geral do Pessoal.
 

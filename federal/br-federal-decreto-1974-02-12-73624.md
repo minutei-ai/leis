@@ -1,5 +1,3 @@
-###DEC-073624-0-000-12-02-1974@@@
-
 decreto nº 73.624, de 12 de fevereiro de 1974.
 
 Regulamenta o § 1º, do artigo 4º do Decreto-lei nº 1.307, de 16 de janeiro de 1974 e dá outras providências.

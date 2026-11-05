@@ -1,5 +1,3 @@
-###DEC-001980-0-000-09-08-1996@@@
-
 DECRETO Nº 1.980, DE 9 DE AGOSTO DE 1996.
 
 Autoriza o depósito de ações de propriedade da União no Fundo de Amortização da Dívida Pública Mobiliária Federal, na forma estabelecida no art. 30 da Lei nº 9.069, de 29 de junho de 1995, e no art. 3º do Decreto n° 1.312, de 18 de novembro de 1994, e dá outras providências.

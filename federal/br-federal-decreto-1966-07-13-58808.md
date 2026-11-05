@@ -1,5 +1,3 @@
-###DEC-058808-0-000-13-07-1966@@@
-
 DECRETO nº 58.808, DE 13 DE JULHO DE 1966.
 
 Autoriza o funcionamento do curso de Agrimensura na Escola Superior de Agrimensura de Araraquara, no Estado de São Paulo.

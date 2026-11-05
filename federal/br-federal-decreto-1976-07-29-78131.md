@@ -1,5 +1,3 @@
-###DEC-078131-0-000-29-07-1976@@@
-
 DECRETO Nº 78.131, DE 29 DE JULHO DE 1976.
 
 Autoriza o funcionamento do curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Adamantina, com sede na cidade de Adamantina, Estado de São Paulo.

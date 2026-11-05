@@ -1,5 +1,3 @@
-###DEC-071197-0-000-04-10-1972@@@
-
 DECRETO Nº 71.197, DE 4 DE OUTUBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação Física de Barra Bonita, São Paulo.

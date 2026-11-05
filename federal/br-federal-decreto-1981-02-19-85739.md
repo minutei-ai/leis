@@ -1,5 +1,3 @@
-###DEC-085739-0-000-19-02-1981@@@
-
 DECRETO Nº 85.739, DE 19 DE FEVEREIRO DE 1981
 
 Altera o Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta para o Exército a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas e dá outras providências.

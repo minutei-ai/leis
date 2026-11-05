@@ -1,5 +1,3 @@
-###DEC-053438-0-000-20-01-1964@@@
-
 Decreto nº 53.438, de 20 de janeiro de 1964.
 
 Anula o Decreto nº 42.106, de 19 de agôsto de 1957.

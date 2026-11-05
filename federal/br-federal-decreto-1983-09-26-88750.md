@@ -1,5 +1,3 @@
-###DEC-088750-0-000-26-09-1983@@@
-
 DECRETO Nº 88.750, DE 26 DE SETEMBRO DE 1983
 
 Altera dispositivos do Decreto nº 85.260, de 16 de outubro de 1980, que cria a Diretoria de Ensino da Aeronáutica.

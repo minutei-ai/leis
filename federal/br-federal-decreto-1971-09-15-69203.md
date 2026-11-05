@@ -1,5 +1,3 @@
-###DEC-069203-0-000-15-09-1971@@@
-
 DECRETO Nº 69.203, DE 15 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem a linha de transmissão Poços de Caldas e Cachoeiras Paulista, nos Estados de Minas Gerais e São Paulo, respectivamente.

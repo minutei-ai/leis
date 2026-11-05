@@ -1,5 +1,3 @@
-###DEC-060125-0-000-25-01-1967@@@
-
 DECRETO Nº 60.125, DE 25 DE JANEIRO DE 1967.
 
 Abre ao Poder Judiciário - Superior Tribunal Militar - o crédito especial de Cr$500.000.000 (quinhentos milhões de cruzeiros) para o fim que especifica.

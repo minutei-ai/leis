@@ -1,5 +1,3 @@
-###DEC-048308-0-000-18-06-1960@@@
-
 DECRETO Nº 48.308, DE 18 DE JUNHO DE 1960.
 
 Dá nova redação ao art. 2º do Decreto nº 46.116, de 22 de maio de 1959, que considera Guarnição Especial de 1a Categoria a sediada em Nioaque, MT.

@@ -1,5 +1,3 @@
-###DEC-082086-0-000-07-08-1978@@@
-
 DECRETo Nº 82.086, DE 07 DE AGOSTO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

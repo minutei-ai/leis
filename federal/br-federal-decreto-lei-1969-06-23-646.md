@@ -1,5 +1,3 @@
-###DEL-000646-0-000-23-06-1969@@@
-
 Decreto-lei nº 646, de 23 de junho de 1969
 
 Autoriza o Instituto Nacional de Previdência Social (INPS) a subscrever ações da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

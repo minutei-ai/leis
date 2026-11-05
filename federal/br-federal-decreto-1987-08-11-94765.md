@@ -1,5 +1,3 @@
-###DEC-094765-0-000-11-08-1987@@@
-
 DECRETO Nº 94.765, DE 11 DE AGOSTO DE 1987.
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo, em Alfenas, Minas Gerais.

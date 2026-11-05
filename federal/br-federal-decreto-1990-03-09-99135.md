@@ -1,7 +1,3 @@
-1
-
-###DEC-099135-0-000-09-03-1990@@@
-
 DECRETO Nº 99.135, DE 9 DE MARÇO DE 1990
 
 Renova a concessão outorgada à RÁDIO CULTURA DO AGRESTE MERIDIONAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Garanhuns, Es­tado de Pernambuco.

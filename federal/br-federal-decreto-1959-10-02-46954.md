@@ -1,5 +1,3 @@
-###DEC-046954-0-000-02-10-1959@@@
-
 Decreto nº 46.954, de 2 de outubro de 1959.
 
 Transfere da Emprêsa Fôrça e Luz de Queluz Ltda. para a Prefeitura Municipal de Queluz a concessão para a produção e fornecimento de energia elétrica ao município de Queluz, Estado de São Paulo.

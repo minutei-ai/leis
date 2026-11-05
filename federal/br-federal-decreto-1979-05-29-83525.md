@@ -1,5 +1,3 @@
-###DEC-083525-0-000-29-05-1979@@@
-
 Decreto nº 83.525, de 29 de maio de 1979.
 
 Fixa o Fator de Custos de Atendimento Médico-Hospitalar por militar das Forças Armadas e o Fator de Custos de Atendimento Médico-Hospitalar por dependência de militares das Forças Armadas.

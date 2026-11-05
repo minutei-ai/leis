@@ -1,5 +1,3 @@
-###DEC-045648-0-000-25-03-1959@@@
-
 DECRETO Nº 45.648, DE 25 DE MARÇO DE 1959.
 
 Aprova o Regulamento para a Base “Almirante Castro e Silva”.

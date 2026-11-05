@@ -1,5 +1,3 @@
-###DEC-045388-0-000-03-02-1959@@@
-
 Decreto nº 45.388, de 3 de fevereiro de 1959.
 
 Autoriza Avelino Antônio Dresch a comprar pedras preciosas.

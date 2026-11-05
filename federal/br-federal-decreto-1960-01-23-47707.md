@@ -1,5 +1,3 @@
-###DEC-047707-0-000-23-01-1960@@@
-
 DECRETO Nº 47.707, DE 23 DE JANEIRO DE 1960.
 
 Autoriza a execução de trabalhos para colonização ao longo de eixos rodoviários.

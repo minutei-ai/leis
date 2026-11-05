@@ -1,7 +1,3 @@
-1
-
-###DEC-001144-0-000-20-05-1994@@@
-
 DECRETO N° 1.144, DE 20 DE MAIO DE 1994
 
 Revoga o Regulamento do Serviço de Documentação-Geral da Marinha, aprovado pelo Decreto n° 69.497, de 5 de novembro de 1971, alterado pelos Decretos n°s 79.771, de 3 de junho de 1977 e 91.441, de 18 de julho de 1985.

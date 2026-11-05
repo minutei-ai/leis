@@ -1,5 +1,3 @@
-###DEC-006385-0-000-27-02-2008@@@
-
 DECRETO Nº 6.385, DE 27 DE FEVEREIRO DE 2008.
 
 Dá nova redação aos arts. 854 e 918 do Regulamento da Inspeção Industrial e Sanitária de Produtos de Origem Animal, aprovado pelo Decreto no 30.691, de 29 de março de 1952.
@@ -31,5 +29,3 @@ LUIZ INÁCIO LULA DA SILVA
 Celso Luiz Nunes Amorim
 
 Reinhold Stephanes
-
-Este texto não substitui o publicado no DOU de 28.2.2008

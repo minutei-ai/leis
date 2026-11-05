@@ -1,5 +1,3 @@
-###DEC-002585-0-000-12-05-1998@@@
-
 DECRETO Nº 2.585, DE 12 DE MAIO DE 1998
 
 Dá nova redação ao art. 10 do Decreto nº 1.494, de 17 de maio de 1995, que dispõe sobre a administração e o funcionamento do Fundo Nacional da Cultura - FNC.

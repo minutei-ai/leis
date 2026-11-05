@@ -1,5 +1,3 @@
-###DEC-055429-0-000-31-12-1964@@@
-
 DECRETO Nº 55.429, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Joseph Nigri a pesquisar caulim no município de São Paulo, Estado de São Paulo.

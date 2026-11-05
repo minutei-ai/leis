@@ -1,5 +1,3 @@
-###DEC-054294-0-000-18-09-1964@@@
-
 DECRETO 1º 54.294, DE 18 DE SETEMBRO DE 1964.
 
 Fixa os preços básicos mínimo para o financiamento ou aquisição de arroz, feijão, milho, soja, amendoim das águas e algodão da Região Meridional de produção nacional para os anos agrícolas de 1964-1965 e 1965-1966.

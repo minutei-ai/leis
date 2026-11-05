@@ -1,5 +1,3 @@
-###DEC-002371-0-000-10-11-1997@@@
-
 DECRETO Nº 2.371, DE 10 DE NOVEMBRO DE 1997
 
 Restringe a contratação temporária de excepcional interesse público no âmbito dos órgãos e entidades do Poder Executivo.

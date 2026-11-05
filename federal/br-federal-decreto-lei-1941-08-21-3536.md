@@ -1,5 +1,3 @@
-###DEL-003536-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.536 – DE 21 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 1.000:000$0 à verba que especifica

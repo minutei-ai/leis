@@ -1,5 +1,3 @@
-###DEC-003840-0-000-11-06-2001@@@
-
 DECRETO Nº 3.840, DE 11 DE JUNHO DE 2001
 
 Dá nova redação ao § 3º do art. 6º do Decreto nº 3.818, de 15 de maio de 2001, que dispõe sobre medidas emergenciais de redução de consumo de energia elétrica no âmbito da Administração Pública Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000492-0-000-29-06-2010@@@
-
 MEDIDA PROVISÓRIA Nº 492, DE 29 DE JUNHO DE 2010.
 
 Acresce dispositivo ao art. 1o da Lei no 12.096, de 24 de novembro de 2009, abre prazo para os Municípios regularizarem os parcelamentos relativos a contribuições sociais previdenciárias, e institui, no âmbito do Ministério da Educação, o plano especial de recuperação da rede física escolar pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas públicas estaduais, do Distrito Federal e municipais afetadas por desastres.

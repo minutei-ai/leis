@@ -1,7 +1,3 @@
-1
-
-###DEC-099784-0-000-10-12-1990@@@
-
 # DECRETO N° 99.784, DE 10 DE DEZEMBRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel situado na Avenida Alvares Cabral, n° 1.801, no Bairro Santo Agostinho, em Belo Horizonte (MG) .

@@ -1,5 +1,3 @@
-###DEC-057675-0-000-27-01-1966@@@
-
 Decreto nº 57.675, de 27 de janeiro de 1966.
 
 Regulamenta o § 6º do art. 33, da Lei nº 4.863, de 29 de novembro de 1965.

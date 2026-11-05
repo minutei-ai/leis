@@ -1,5 +1,3 @@
-###DEL-000345-0-000-28-12-1967@@@
-
 DECRETO-LEI Nº 345, DE 28 DE DEZEMBRO DE 1967
 
 Modifica a Lei nº 5.325, de 2 de outubro de 1967, que institui a duplicata fiscal e dá outras providências.

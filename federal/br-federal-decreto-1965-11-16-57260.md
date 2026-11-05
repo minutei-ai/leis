@@ -1,5 +1,3 @@
-###DEC-057260-0-000-16-11-1965@@@
-
 DECRETO Nº 57.260, DE 16 DE novembro de 1965.
 
 Concede à Indústria Extrativa de Minérios Caru Ltda. autorização para funcionar como emprêsa de mineração.

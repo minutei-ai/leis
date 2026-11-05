@@ -1,7 +1,3 @@
-1
-
-###DEC-098366-0-000-07-11-1989@@@
-
 DECRETO N° 98.366, DE 07 DE NOVEMBRO DE 1989
 
 Altera o artigo 6° do Estatuto do Instituto de Resseguros do Brasil -  IRB.

@@ -16,8 +16,14 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2498</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 43.541.672,16</td><td style=" width:85px;    ">R$ 589.005,00</td><td style=" width:85px;    ">R$ 44.130.677,16</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2850-FUNDO ESTADUAL DE SAÚDE - FES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td>10 302 1043 2498</td><td>26000232</td><td>50</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 43.541.672,16</td><td>R$ 589.005,00</td><td>R$ 44.130.677,16</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 589.005,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 589.005,00</td></tr></tbody></table>
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 589.005,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 589.005,00

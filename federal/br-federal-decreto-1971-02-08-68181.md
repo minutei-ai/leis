@@ -1,5 +1,3 @@
-###DEC-068181-0-000-08-02-1971@@@
-
 DECRETO Nº 68.181, DE 8 DE FEVEREIRO DE 1971.
 
 Redistribui, com o respectivo ocupante o cargo do Ministério dos Transportes para o Ministério do Trabalho e Previdência Social, e dá outras providências.

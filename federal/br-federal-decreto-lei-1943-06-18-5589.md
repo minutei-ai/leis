@@ -1,5 +1,3 @@
-###DEL-005589-0-000-18-06-1943@@@
-
 DECRETO‑LEI N. 5.589 – DE 18 DE JUNHO DE 1943
 
 Transfere gratuitamente à  Paróquia de Nossa Senhora de Bonsucesso, da Ar­quidiocese do Rio de Janeiro, a propriedade plena do imóvel que men­ciona, situado na Capital Federal, e dá outras providências.

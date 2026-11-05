@@ -1,5 +1,3 @@
-###DEC-079150-0-000-19-01-1977@@@
-
 DECRETO Nº 79.150, DE 19 DE JANEIRO DE 1977.
 
 Concede reconhecimento ao curso de Educação Física, da Faculdade Estadual de Educação Física de Jacarezinho com sede na cidade de Jancarezinho, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-088353-0-000-06-06-1983@@@
-
 DECRETO nº 88.353, DE 06 DE junho de 1983.
 
 Dispõe sobre a concessão e pagamento do auxílio - natalidade da previdência social pelas empresas e dá outras providências.

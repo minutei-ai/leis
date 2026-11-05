@@ -1,5 +1,3 @@
-###DEC-060462-A-000-13-03-1967@@@
-
 DECRETO Nº 60.462-A, DE 13 DE MARÇO DE 1967.
 
 Disciplina os incentivos fiscais para a constituição, refôrço e recomposição do capital de trabalho das atuais emprêsas industriais e agrícolas com sede no Nordeste e dá outras providências.

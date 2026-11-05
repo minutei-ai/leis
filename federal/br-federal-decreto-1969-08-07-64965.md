@@ -1,5 +1,3 @@
-###DEC-064965-0-000-07-08-1969@@@
-
 DECRETO Nº 64.965 - DE 7 DE AGôSTO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão, uma faixa de terra destinada a passagem da linha de transmissão que se estenderá entre as sedes dos municípios de Lins e Cafelândia, no Estado de São Paulo.

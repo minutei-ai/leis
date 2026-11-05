@@ -1,5 +1,3 @@
-###DEC-080258-0-000-31-08-1977@@@
-
 Decreto nº 80.258, de 31 de Agosto de 1977.
 
 Concede à Industrias Calcárias Carandaí S.A. o direito de lavrar calcário no Município de Cantagalo, Estado do Rio de Janeiro.

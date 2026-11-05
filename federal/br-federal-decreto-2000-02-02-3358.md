@@ -1,5 +1,3 @@
-###DEC-003358-0-000-02-02-2000@@@
-
 decreto Nº 3.358, DE 2 DE FEVEREIRO DE 2000.
 
 Regulamenta o disposto na Lei nº 9.827, de 27 de agosto de 1999, que “acrescenta o parágrafo único ao art. 2º do Decreto-Lei nº 227, de 28 de fevereiro de 1967,com a redação dada pela Lei nº 9.314, de 14 de novembro de 1996’’.

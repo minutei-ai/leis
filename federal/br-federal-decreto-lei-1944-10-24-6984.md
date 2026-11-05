@@ -1,5 +1,3 @@
-###DEL-006984-0-000-24-10-1944@@@
-
 DECRETO-LEI N. 6.984 – DE 24 DE OUTUBRO DE 1944
 
 Abre, sem aumento de despesa, créditos suplementares aos Ministérios da Agricultura, da Educação e Saúde, da Fazenda, da Justiça e Negócios Interiores e do Trabalho, Indústria e Comércio

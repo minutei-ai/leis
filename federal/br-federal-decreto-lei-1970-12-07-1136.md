@@ -1,5 +1,3 @@
-###DEL-001136-0-000-07-12-1970@@@
-
 # DECRETO-LEI Nº 1.136, DE 7 DE DEZEMBRO DE 1970
 
 Altera a legislação pertinente ao Impôsto sôbre Produtos Industrializados.

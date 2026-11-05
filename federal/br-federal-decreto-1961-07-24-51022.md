@@ -1,5 +1,3 @@
-###DEC-051022-0-000-24-07-1961@@@
-
 DECRETO Nº 51.022, DE 24 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de São Paulo as águas do rio “Cervo”.

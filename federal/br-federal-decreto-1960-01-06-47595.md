@@ -1,5 +1,3 @@
-###DEC-047595-0-000-06-01-1960@@@
-
 Decreto nº 47.595, de 6 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Geraldo Alves Motta a pesquisar caulim no município de Itapecerica da Serra, Estado de São Paulo.

@@ -1,6 +1,7 @@
 LEI Nº 1.637 DE 02 DE MARÇO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº 2.035, de 26. de agosto de 1964 - Altera o quadro de pessoal, o curriculum da Escola de Medicina Veterinária da Bahia, criando a cadeira de Praticultura e Plantas Tóxicas, os artigos 2º e 9º da Lei nº 1.637, de 02 de março de 1962 e dá outras providências.
 
 Modifica o sistema de cobrança da Cota de Fomento Econômico da Indústria Animal e dá outras providências.
@@ -55,4 +56,4 @@ Josaphat Marinho
 
 João da Costa Pinto Dantas Júnior
 
-* * *
+ *

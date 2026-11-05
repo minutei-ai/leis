@@ -1,5 +1,3 @@
-###DEC-006502-0-000-03-07-2008@@@
-
 DECRETO Nº 6.502, DE 3 DE JULHO DE 2008.
 
 Dispõe sobre a exclusão, do Programa Nacional de Desestatização - PND, do Banco do Estado do Piauí - BEP.

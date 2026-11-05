@@ -1,5 +1,3 @@
-###DEC-060928-0-000-03-07-1967@@@
-
 Decreto nº 60.928, de 3 de julho de 1967.
 
 Concede reconhecimento da Faculdade de Filosofia Santa Dorotéia, no Estado do Rio de Janeiro.

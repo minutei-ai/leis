@@ -1,5 +1,3 @@
-###DEC-054422-0-000-12-10-1964@@@
-
 DECRETO Nº 54.422, DE 12 DE OUTUBRO DE 1964.
 
 Concede à Consórcio de Caulim Ltda. autorização para funcionar como emprêsa de mineração.

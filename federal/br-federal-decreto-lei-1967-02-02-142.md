@@ -1,5 +1,3 @@
-###DEL-000142-0-000-02-02-1967@@@
-
 DECRETO-LEI Nº 142, DE 2 DE FEVEREIRO DE 1967
 
 Dispõe sôbre o Plano Rodoviário Nacional.
@@ -76,20 +74,714 @@ RODOVIAS DO PLANO RODOVIÁRIO NACIONAL
 
 RODOVIAS RADIAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>BR</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diretriz</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Km</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>003</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Paraná-Carolina-Pôrto Franco-Guamá-Belém .......................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.898</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>011</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Barreiras-Picos-Fortaleza ...................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.912</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>022</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Brumado-Ubaitaba-Campinho ..............................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.095</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>025</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Montes Claros-Salinas-Camacã ..........................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.109</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>040</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Três Marias-Belo Horizonte-Muriaé-Campos-São João da Barra .............</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.180</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>050</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Cristalina-Catalão-Araguari-Uberlândia-Uberaba-Ribeirão Prêto-Limeira-Campinas-São Paulo-Santos ..........................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.088</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>060</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Anápolis-Goiânia-Rio Verde-Jataí-Campo Grande-Bela Vista (Paraguai) ..</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.309</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>070</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Jaraguá-Aragarças-Cuiabá-Cáceres-Fronteira com a Bolívia (marco São Matias) .........................................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.263</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>080</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brasília-Uruaçu-Dianarum-Cachimbo-Jacareacanga-Canumã-Manaus- Tapuruquara-Içana-Fronteira da Colônia............................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.602</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .........................................................................................................</span></p></td><td style="width:31.7pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>14.456</span></p></td></tr></tbody></table>
+BR
+
+Diretriz
+
+Km
+
+003
+
+Brasília-Paraná-Carolina-Pôrto Franco-Guamá-Belém .......................................
+
+1.898
+
+011
+
+Brasília-Barreiras-Picos-Fortaleza ...................................................................
+
+1.912
+
+022
+
+Brasília-Brumado-Ubaitaba-Campinho ..............................................................
+
+1.095
+
+025
+
+Brasília-Montes Claros-Salinas-Camacã ..........................................................
+
+1.109
+
+040
+
+Brasília-Três Marias-Belo Horizonte-Muriaé-Campos-São João da Barra .............
+
+1.180
+
+050
+
+Brasília-Cristalina-Catalão-Araguari-Uberlândia-Uberaba-Ribeirão Prêto-Limeira-Campinas-São Paulo-Santos ..........................................................................
+
+1.088
+
+060
+
+Brasília-Anápolis-Goiânia-Rio Verde-Jataí-Campo Grande-Bela Vista (Paraguai) ..
+
+1.309
+
+070
+
+Brasília-Jaraguá-Aragarças-Cuiabá-Cáceres-Fronteira com a Bolívia (marco São Matias) .........................................................................................................
+
+1.263
+
+080
+
+Brasília-Uruaçu-Dianarum-Cachimbo-Jacareacanga-Canumã-Manaus- Tapuruquara-Içana-Fronteira da Colônia............................................................
+
+3.602
+
+TOTAL .........................................................................................................
+
+14.456
 
 RODOVIAS LONGITUDINAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>BR</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diretriz</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Km</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>101</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Natal - João Pessoa - Recife - Maceió - Aracajú - Feira de Santana - Vitória - Campos - Niterói - Rio - (Ponta do Caju - Av. Brasil - Santa Cruz) - Mangaratiba - Angra do Reis - Caraguatatuba - Santos - Iguape - Antonina - Joivile - Itajaí - Florianópolis - Tubarão - Osório ......................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.114</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>104</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Macau - Lajes - Santa Cruz - Esperança - Campina Grande - Caruaru - Atalaia (Entroncamento da BR-316) ...........................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>578</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>110</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Areia-Branca - Mossoró - Augusto Severo - Patos - Monteiro - Petulândia - Paulo Afonso - Ribeiro do Pombal - Alagoinhas - Salvador ..........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.108</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>116</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fortaleza - Russas - Jaguaribe - Salgueiro - Canudos - Feira de Santana - Vitória da Conquista - Teófilo Otoni - Muriaé - Leopoldina - Além Paraíba - Três Rios - Volta Redonda - Lorena - São Paulo - Registro - Curitiba - Pôrto Alegre - Pelotas - Jaguarão .....................................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.477</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>122</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Montes Claros - Seabra - Juazeiro - Petrolina - Parnamirim....................................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.251</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>135</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Luiz - Peritoró - Pastos Bons - Bertolina - Bom Jesus - Barreiras - Januária - Montes Claros - Cordesburgo - Sete Lagoas - Belo Horizonte - Três Rios - Rio de Janeiro (Gazômetro) ......................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.744</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>146</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Patos de Minas - Araxá - Poços de Caldas - São Paulo ....................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>714</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>153</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tucuruí - Jatobá - Marabá - Araguaina - Gurupí - Ceres - Goiânia - Itubiara - Prata - Frutal - São José do Rio Preto - Ourinhos - Irati - Pôrto União - Erechim - Passo Fundo - Soledade - Cachoeira do Sul - Bagé - Acegua ............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.807</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>156</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Macapá - Calçoene - Oiapoque - Fronteira com a Guiana Francesa ...................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>678</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>158</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Félix - Xavantine - Aragarças - Jataí - Paranaíba - Três Lagoas - Presidente Venceslau - Pôrto Marcondes - Paranavaí - Campo Mourão - Laranjeiras do Sul - Iraí - Cruz Alta - Santa Maria - Rosário do Sul - Livramento ................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.708</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>163</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rondonópolis - Campo Grande - Rio Brilhante - Dourados - Pôrto Murumbi - Pôrto Guaira - Barracão - São Miguel d’Oeste ..................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.463</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>165</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santarém - Pôrto Artur - Cuiabá ......................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.648</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>172</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Carumã - Vilhena ...........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.120</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>174</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Manaus - Caracaraí - Boa Vista - Fronteira com a Venezuela ............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>970</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ..........................................................................................................</span></p></td><td style="width:31.7pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>27.380</span></p></td></tr></tbody></table>
+BR
+
+Diretriz
+
+Km
+
+101
+
+Natal - João Pessoa - Recife - Maceió - Aracajú - Feira de Santana - Vitória - Campos - Niterói - Rio - (Ponta do Caju - Av. Brasil - Santa Cruz) - Mangaratiba - Angra do Reis - Caraguatatuba - Santos - Iguape - Antonina - Joivile - Itajaí - Florianópolis - Tubarão - Osório ......................................................................
+
+4.114
+
+104
+
+Macau - Lajes - Santa Cruz - Esperança - Campina Grande - Caruaru - Atalaia (Entroncamento da BR-316) ...........................................................................
+
+578
+
+110
+
+Areia-Branca - Mossoró - Augusto Severo - Patos - Monteiro - Petulândia - Paulo Afonso - Ribeiro do Pombal - Alagoinhas - Salvador ..........................................
+
+1.108
+
+116
+
+Fortaleza - Russas - Jaguaribe - Salgueiro - Canudos - Feira de Santana - Vitória da Conquista - Teófilo Otoni - Muriaé - Leopoldina - Além Paraíba - Três Rios - Volta Redonda - Lorena - São Paulo - Registro - Curitiba - Pôrto Alegre - Pelotas - Jaguarão .....................................................................................................
+
+4.477
+
+122
+
+Montes Claros - Seabra - Juazeiro - Petrolina - Parnamirim....................................................................................................
+
+1.251
+
+135
+
+São Luiz - Peritoró - Pastos Bons - Bertolina - Bom Jesus - Barreiras - Januária - Montes Claros - Cordesburgo - Sete Lagoas - Belo Horizonte - Três Rios - Rio de Janeiro (Gazômetro) ......................................................................................
+
+2.744
+
+146
+
+Patos de Minas - Araxá - Poços de Caldas - São Paulo ....................................
+
+714
+
+153
+
+Tucuruí - Jatobá - Marabá - Araguaina - Gurupí - Ceres - Goiânia - Itubiara - Prata - Frutal - São José do Rio Preto - Ourinhos - Irati - Pôrto União - Erechim - Passo Fundo - Soledade - Cachoeira do Sul - Bagé - Acegua ............................
+
+3.807
+
+156
+
+Macapá - Calçoene - Oiapoque - Fronteira com a Guiana Francesa ...................
+
+678
+
+158
+
+São Félix - Xavantine - Aragarças - Jataí - Paranaíba - Três Lagoas - Presidente Venceslau - Pôrto Marcondes - Paranavaí - Campo Mourão - Laranjeiras do Sul - Iraí - Cruz Alta - Santa Maria - Rosário do Sul - Livramento ................................
+
+2.708
+
+163
+
+Rondonópolis - Campo Grande - Rio Brilhante - Dourados - Pôrto Murumbi - Pôrto Guaira - Barracão - São Miguel d’Oeste ..................................................
+
+1.463
+
+165
+
+Santarém - Pôrto Artur - Cuiabá ......................................................................
+
+1.648
+
+172
+
+Carumã - Vilhena ...........................................................................................
+
+1.120
+
+174
+
+Manaus - Caracaraí - Boa Vista - Fronteira com a Venezuela ............................
+
+970
+
+TOTAL ..........................................................................................................
+
+27.380
 
 RODOVIAS TRANSVERSAS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>BR</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diretriz</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Km</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>222</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fortaleza - Piripiri ..........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>448</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>226</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Natal - Santa Cruz - Currais Novas - Augusto Severo - Jaguaribe - Independência - Crateús - Teresina - Presidente Dutra - Pôrto Franco - Araguaína .....................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.814</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>227</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Currais Novos - Caicó - Serra Negra do Norte - Pombal - (BR-230) .....................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>160</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>230</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cabedelo - João Pessôa - Campina Grande - Patos - Cajazeiras - Lavras da Mangabeira - Picos - Floriano - Patos Bons - Balsas - Carolina .........................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.609</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>232</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Recife - Arcoverde - Salgueiro - Parnamirim .....................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>562</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>234</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Caruaru - Garanhuns - Paulo Afonso ...............................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>308</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>235</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aracaju - Jeremoabo - Canudos - Juazeiro - Petrolina - Remanso - Caracol - Bom Jesus - Araguacema ......................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.652</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>242</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Roque - Seabra - Barreiras - Paraná - São Felix - Vale do Xingu - Pôrto Arthur ...........................................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.011</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>259</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>João Neiva - Governador Valadares - Guanhães - Gouvêa - Curvelo - Felixlândia ..</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>605</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>262</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vitória - Realeza - Belo Horizonte - Araxá - Uberaba - Frutal - Icém - Três Lagoas - Campo Grande - Aquidauana - Pôrto Esperança - Corumbá .............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.323</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>265</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Muriaé - Barbacena - São João Del Rei - Lavras - BR-381 .................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>301</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>267</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Leopoldina - Bicas - Juiz de Fora - Caxambu - Poços de Caldas - Araraquara - Lins - Presidente Venceslau - Rio Brilhante - Pôrto Murtinho .............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.828</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>272</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Paulo - Sorocaba - Ibaití - Campo Mourão - Pôrto Guaíra ............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>838</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>277</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Paranagua - Curitiba - Iratí - Relógio - Fóz do Iguaçu .........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>809</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>280</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Francisco do Sul - Joinvile - Pôrto União - São Lourenço - Barracão - Dionisio Cerqueira .........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>580</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>282</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Florianópolis - Lajes - Joaçaba - São Miguel do Oeste ......................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>650</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>285</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vacaria - Passo Fundo - Santo Ângelo - São Borja ...........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>564</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>290</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Osório - Pôrto Alegre - São Gabriel - Alegrete - Uruguaiana ...............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>741</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>293</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelotas - Bagé - Livramento - Quaraí - Uruguaiana ............................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>558</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ..........................................................................................................</span></p></td><td style="width:31.7pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>18.361</span></p></td></tr></tbody></table>
+BR
+
+Diretriz
+
+Km
+
+222
+
+Fortaleza - Piripiri ..........................................................................................
+
+448
+
+226
+
+Natal - Santa Cruz - Currais Novas - Augusto Severo - Jaguaribe - Independência - Crateús - Teresina - Presidente Dutra - Pôrto Franco - Araguaína .....................
+
+1.814
+
+227
+
+Currais Novos - Caicó - Serra Negra do Norte - Pombal - (BR-230) .....................
+
+160
+
+230
+
+Cabedelo - João Pessôa - Campina Grande - Patos - Cajazeiras - Lavras da Mangabeira - Picos - Floriano - Patos Bons - Balsas - Carolina .........................
+
+1.609
+
+232
+
+Recife - Arcoverde - Salgueiro - Parnamirim .....................................................
+
+562
+
+234
+
+Caruaru - Garanhuns - Paulo Afonso ...............................................................
+
+308
+
+235
+
+Aracaju - Jeremoabo - Canudos - Juazeiro - Petrolina - Remanso - Caracol - Bom Jesus - Araguacema ......................................................................................
+
+1.652
+
+242
+
+São Roque - Seabra - Barreiras - Paraná - São Felix - Vale do Xingu - Pôrto Arthur ...........................................................................................................
+
+2.011
+
+259
+
+João Neiva - Governador Valadares - Guanhães - Gouvêa - Curvelo - Felixlândia ..
+
+605
+
+262
+
+Vitória - Realeza - Belo Horizonte - Araxá - Uberaba - Frutal - Icém - Três Lagoas - Campo Grande - Aquidauana - Pôrto Esperança - Corumbá .............................
+
+2.323
+
+265
+
+Muriaé - Barbacena - São João Del Rei - Lavras - BR-381 .................................
+
+301
+
+267
+
+Leopoldina - Bicas - Juiz de Fora - Caxambu - Poços de Caldas - Araraquara - Lins - Presidente Venceslau - Rio Brilhante - Pôrto Murtinho .............................
+
+1.828
+
+272
+
+São Paulo - Sorocaba - Ibaití - Campo Mourão - Pôrto Guaíra ............................
+
+838
+
+277
+
+Paranagua - Curitiba - Iratí - Relógio - Fóz do Iguaçu .........................................
+
+809
+
+280
+
+São Francisco do Sul - Joinvile - Pôrto União - São Lourenço - Barracão - Dionisio Cerqueira .........................................................................................
+
+580
+
+282
+
+Florianópolis - Lajes - Joaçaba - São Miguel do Oeste ......................................
+
+650
+
+285
+
+Vacaria - Passo Fundo - Santo Ângelo - São Borja ...........................................
+
+564
+
+290
+
+Osório - Pôrto Alegre - São Gabriel - Alegrete - Uruguaiana ...............................
+
+741
+
+293
+
+Pelotas - Bagé - Livramento - Quaraí - Uruguaiana ............................................
+
+558
+
+TOTAL ..........................................................................................................
+
+18.361
 
 RODOVIAS DIAGONAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>BR</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diretriz</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Km</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>304</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Boqueirão do Cesário - Aracati - Mossoró - Lajes - Natal ...................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>401</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>307</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Benjamin Constant - Cruzeiro do Sul - Pôrto Walter - Taumaturgo ......................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>705</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>308</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Icó - Crateús - Piripiri - Buriti - Chapadinha - Vargem Grande - Itapicuru Mirim .....</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>821</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>316</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Belém Peritoró - Terezinha - Picos - Parnamirim - Cabrobó - Floresta - Petrolandia - Palmeira dos Indios - Maceió ......................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.104</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>317</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Lábrea - Bôca do Acre - Rio Branco - Xapuri - Brasiléia (Fronteira com a Bolívia) .</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>775</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>319</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Beruri - Humaita - Pôrto Velho - Abunã - Guajará Mirim (Fronteira com a Bolívia) .</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.073</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>324</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Remanso - Feira de Santana - Salvador ...........................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>565</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>330</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bom Jesus - Seabra - Ubaitaba ......................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>894</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>342</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Carinhanha - Espinosa - Salinas - Araçuaí - Nôvo Cruzeiro - Peófilo - Linhares</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>822</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>343</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Luíz Corrêa - Piripiri - Terezinha - Floriano - Bertolina ........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>759</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>349</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Estância - Itapicuru - Olindina - Araci - Noventa - Capela - Mairi - Mundo Nôvo - Utinga - Seabra - Bom Jesus da Lapa - Correntina - Posse ...............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.058</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>354</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Engenheiro Passos - Capivari - Vidinha - Caxambu ...........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>95</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>364</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Limeira - Matão - Frutal - Campina Verde - São Simão - Jataí - Ronadonópolis - Cuiabá- Barra dos Bugres - Porto Velho - Abunã - Rio Branco - Sena Madureira - Feijo - Terbacá - Cruzeiro do Sul - Vila Japiim - Fronteira com o Peru .................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.259</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>365</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Montes Carlos - Pirapora - Patos de Minas - Uberlândia - Monte Alegre de Minas - Ituiutaba - Canal de São Simão .....................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>869</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>369</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ourinhos - Londrina - Jandaia do Sul - Campo Mourão - Cascavel ......................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>501</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>373</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Limeira - Iapetininga - Capão Bonito - Apiai - Ponta Grossa - Relógio - Barracão</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>891</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>374</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Presidente Venceslau - Ourinhos - Avaré - Tôrre da Pedra - Boituva - São Paulo</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>626</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>376</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dourados - Marinha - Apucarana - Ponta Grossa - São Luiz do Purunã ..............</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>737</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>377</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Carazinho - Cruz Alta - Santiago - Alegrete - Quaraí .........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>489</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>381</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Governador Valadares - Itabira - Belo Horizonte - Betim - Pouso Alegre - Bragança - Paulista .......................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>811</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>383</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Lorenço - Campo do Jordão - Pindamonhangaba - Redenção - Natividade - Caraguatatuba - São Sebastião ......................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>316</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>386</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Miguel d’Oeste - Irai - Carazinho - Soledade - Pôrto Alegre ........................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>482</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>392</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Porto Lucena - Santo Angelo - Santa Maria - Pelotas .......................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>558</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>393</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cachoeira do Itapemirim - Itaperuna - Pádua - Além Paraíba ..............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>200</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ..........................................................................................................</span></p></td><td style="width:31.7pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>20.858</span></p></td></tr></tbody></table>
+BR
+
+Diretriz
+
+Km
+
+304
+
+Boqueirão do Cesário - Aracati - Mossoró - Lajes - Natal ...................................
+
+401
+
+307
+
+Benjamin Constant - Cruzeiro do Sul - Pôrto Walter - Taumaturgo ......................
+
+705
+
+308
+
+Icó - Crateús - Piripiri - Buriti - Chapadinha - Vargem Grande - Itapicuru Mirim .....
+
+821
+
+316
+
+Belém Peritoró - Terezinha - Picos - Parnamirim - Cabrobó - Floresta - Petrolandia - Palmeira dos Indios - Maceió ......................................................
+
+2.104
+
+317
+
+Lábrea - Bôca do Acre - Rio Branco - Xapuri - Brasiléia (Fronteira com a Bolívia) .
+
+775
+
+319
+
+Beruri - Humaita - Pôrto Velho - Abunã - Guajará Mirim (Fronteira com a Bolívia) .
+
+1.073
+
+324
+
+Remanso - Feira de Santana - Salvador ...........................................................
+
+565
+
+330
+
+Bom Jesus - Seabra - Ubaitaba ......................................................................
+
+894
+
+342
+
+Carinhanha - Espinosa - Salinas - Araçuaí - Nôvo Cruzeiro - Peófilo - Linhares
+
+822
+
+343
+
+Luíz Corrêa - Piripiri - Terezinha - Floriano - Bertolina ........................................
+
+759
+
+349
+
+Estância - Itapicuru - Olindina - Araci - Noventa - Capela - Mairi - Mundo Nôvo - Utinga - Seabra - Bom Jesus da Lapa - Correntina - Posse ...............................
+
+1.058
+
+354
+
+Engenheiro Passos - Capivari - Vidinha - Caxambu ...........................................
+
+95
+
+364
+
+Limeira - Matão - Frutal - Campina Verde - São Simão - Jataí - Ronadonópolis - Cuiabá- Barra dos Bugres - Porto Velho - Abunã - Rio Branco - Sena Madureira - Feijo - Terbacá - Cruzeiro do Sul - Vila Japiim - Fronteira com o Peru .................
+
+4.259
+
+365
+
+Montes Carlos - Pirapora - Patos de Minas - Uberlândia - Monte Alegre de Minas - Ituiutaba - Canal de São Simão .....................................................................
+
+869
+
+369
+
+Ourinhos - Londrina - Jandaia do Sul - Campo Mourão - Cascavel ......................
+
+501
+
+373
+
+Limeira - Iapetininga - Capão Bonito - Apiai - Ponta Grossa - Relógio - Barracão
+
+891
+
+374
+
+Presidente Venceslau - Ourinhos - Avaré - Tôrre da Pedra - Boituva - São Paulo
+
+626
+
+376
+
+Dourados - Marinha - Apucarana - Ponta Grossa - São Luiz do Purunã ..............
+
+737
+
+377
+
+Carazinho - Cruz Alta - Santiago - Alegrete - Quaraí .........................................
+
+489
+
+381
+
+Governador Valadares - Itabira - Belo Horizonte - Betim - Pouso Alegre - Bragança - Paulista .......................................................................................
+
+811
+
+383
+
+São Lorenço - Campo do Jordão - Pindamonhangaba - Redenção - Natividade - Caraguatatuba - São Sebastião ......................................................................
+
+316
+
+386
+
+São Miguel d’Oeste - Irai - Carazinho - Soledade - Pôrto Alegre ........................
+
+482
+
+392
+
+Porto Lucena - Santo Angelo - Santa Maria - Pelotas .......................................
+
+558
+
+393
+
+Cachoeira do Itapemirim - Itaperuna - Pádua - Além Paraíba ..............................
+
+200
+
+TOTAL ..........................................................................................................
+
+20.858
 
 LIGAÇÕES E ACESSOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>BR</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diretriz</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>KM</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>401</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Boa Vista - Guiana Inglesa .............................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>140</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>402</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Içana - Cucui (Fronteira com a Venezuela) .......................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>123</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>403</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Itaituba - BR/165 ...........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>150</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>405</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mossoró - BR/116 .........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>97</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>406</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Labrea - Humaitá ...........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>234</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>407</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Picos - Petroima ...........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>308</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>408</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Itapicura Mirim - Santa Inês ............................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>123</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>409</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Feijó - Santa Rosa (AC) .................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>152</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>410</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tucano - Ribeiro do Pombal ............................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>35</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>411</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Elvira - BR/307 ..............................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>255</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>412</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Campina Grande - São José de Cariri - Serra Branca - Sumé - Monteiro .............</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>162</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>413</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Caxias (Estirão do Equador) BR-307 ...............................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>140</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>414</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Anápolis - Niquelâdia .....................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>243</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>415</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ilhéus - Vitória de Conquista ...........................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>198</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>416</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cáceres - Mato Grosso ..................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>330</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>418</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Teófilo Ononí - Carlos Chagas - Nanuque - Caravelas ........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>300</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>451</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Montes Claros - Governador Valadares ............................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>360</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>452</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Verde - Itumbiara - Tupanciguara - Uberlândia - Araxá .................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>490</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>453</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Itaqui - Santiago ............................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>189</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>454</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pòrto Esperança - Forte Coimbra ....................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>50</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>456</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nnandeara - São José do Rio Preto - Matão .....................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>212</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>458</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>BR-116 - (Taruaçu) - Iapu - BR-381 (Ipatinga) ..................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>40</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>459</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Poços de Caldas - Lorena ..............................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>251</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>460</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cambuquira - Lambari - São Lourenço - Vidinha ..............................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>92</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>461</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio - Mage - Terezopolis - Além Paraíba ..........................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>170</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>462</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio - Volta Redonda .......................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>122</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>463</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dourados - Ponta Porã ...................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>128</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>464</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Volta Redonda - Agra dos Reis .......................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>70</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>465</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Campo Grande - Garganta - Viuva Graça .........................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>30</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>466</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santiago - Santa Ângelo ................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>110</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>467</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Porto Mendes - Cascavel ...............................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>112</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>468</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Curitiba - Garuva - Joinville ..............................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>137</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>469</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Foz do Iguassu - Parque Nacional ...................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>25</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>470</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Itajai - Blumenau - Curitibanos - Campos Novos .............................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>320</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>471</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelotas - Chui ...............................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>255</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>472</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Borja - Itaqui - Uruguaiana - Barra de Quaraí ..............................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>242</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>473</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aceguá - Guarda Novo - Nerval - Arroio Grande - BR-471 ...................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>200</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>476</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Apiai - Curitiba ..............................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>165</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>483</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Itumbiara - Paranaiba .....................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>304</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>484</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>S. Matheus - São Domingos - Colatina - Itaguassu - Afonso Claudio - BR-262 - Guaçui - São José do Calcado - Bom jeus de Itabapoana - Itaperuna .................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>440</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>485</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Magé - BR-101 (Manilha) ................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>27</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>487</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Manguinos (GB) - Ilha do Fundo (Cidade Universitária - GB) .............................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>490</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Anel Rodoviário da Cidade de São Paulo - BR-050 - Cidade Universidade - Ponta do Morumbi - BR-050 - BR-116 - BR-146 - BR-050 ............................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>100</span></p></td></tr><tr><td style="width:15.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:350.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ..........................................................................................................</span></p></td><td style="width:31.7pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7.633</span></p></td></tr></tbody></table>
+BR
+
+Diretriz
+
+KM
+
+401
+
+Boa Vista - Guiana Inglesa .............................................................................
+
+140
+
+402
+
+Içana - Cucui (Fronteira com a Venezuela) .......................................................
+
+123
+
+403
+
+Itaituba - BR/165 ...........................................................................................
+
+150
+
+405
+
+Mossoró - BR/116 .........................................................................................
+
+97
+
+406
+
+Labrea - Humaitá ...........................................................................................
+
+234
+
+407
+
+Picos - Petroima ...........................................................................................
+
+308
+
+408
+
+Itapicura Mirim - Santa Inês ............................................................................
+
+123
+
+409
+
+Feijó - Santa Rosa (AC) .................................................................................
+
+152
+
+410
+
+Tucano - Ribeiro do Pombal ............................................................................
+
+35
+
+411
+
+Elvira - BR/307 ..............................................................................................
+
+255
+
+412
+
+Campina Grande - São José de Cariri - Serra Branca - Sumé - Monteiro .............
+
+162
+
+413
+
+Caxias (Estirão do Equador) BR-307 ...............................................................
+
+140
+
+414
+
+Anápolis - Niquelâdia .....................................................................................
+
+243
+
+415
+
+Ilhéus - Vitória de Conquista ...........................................................................
+
+198
+
+416
+
+Cáceres - Mato Grosso ..................................................................................
+
+330
+
+418
+
+Teófilo Ononí - Carlos Chagas - Nanuque - Caravelas ........................................
+
+300
+
+451
+
+Montes Claros - Governador Valadares ............................................................
+
+360
+
+452
+
+Rio Verde - Itumbiara - Tupanciguara - Uberlândia - Araxá .................................
+
+490
+
+453
+
+Itaqui - Santiago ............................................................................................
+
+189
+
+454
+
+Pòrto Esperança - Forte Coimbra ....................................................................
+
+50
+
+456
+
+Nnandeara - São José do Rio Preto - Matão .....................................................
+
+212
+
+458
+
+BR-116 - (Taruaçu) - Iapu - BR-381 (Ipatinga) ..................................................
+
+40
+
+459
+
+Poços de Caldas - Lorena ..............................................................................
+
+251
+
+460
+
+Cambuquira - Lambari - São Lourenço - Vidinha ..............................................
+
+92
+
+461
+
+Rio - Mage - Terezopolis - Além Paraíba ..........................................................
+
+170
+
+462
+
+Rio - Volta Redonda .......................................................................................
+
+122
+
+463
+
+Dourados - Ponta Porã ...................................................................................
+
+128
+
+464
+
+Volta Redonda - Agra dos Reis .......................................................................
+
+70
+
+465
+
+Campo Grande - Garganta - Viuva Graça .........................................................
+
+30
+
+466
+
+Santiago - Santa Ângelo ................................................................................
+
+110
+
+467
+
+Porto Mendes - Cascavel ...............................................................................
+
+112
+
+468
+
+Curitiba - Garuva - Joinville ..............................................................................
+
+137
+
+469
+
+Foz do Iguassu - Parque Nacional ...................................................................
+
+25
+
+470
+
+Itajai - Blumenau - Curitibanos - Campos Novos .............................................
+
+320
+
+471
+
+Pelotas - Chui ...............................................................................................
+
+255
+
+472
+
+São Borja - Itaqui - Uruguaiana - Barra de Quaraí ..............................................
+
+242
+
+473
+
+Aceguá - Guarda Novo - Nerval - Arroio Grande - BR-471 ...................................
+
+200
+
+476
+
+Apiai - Curitiba ..............................................................................................
+
+165
+
+483
+
+Itumbiara - Paranaiba .....................................................................................
+
+304
+
+484
+
+S. Matheus - São Domingos - Colatina - Itaguassu - Afonso Claudio - BR-262 - Guaçui - São José do Calcado - Bom jeus de Itabapoana - Itaperuna .................
+
+440
+
+485
+
+Magé - BR-101 (Manilha) ................................................................................
+
+27
+
+487
+
+Manguinos (GB) - Ilha do Fundo (Cidade Universitária - GB) .............................
+
+2
+
+490
+
+Anel Rodoviário da Cidade de São Paulo - BR-050 - Cidade Universidade - Ponta do Morumbi - BR-050 - BR-116 - BR-146 - BR-050 ............................................
+
+100
+
+TOTAL ..........................................................................................................
+
+7.633

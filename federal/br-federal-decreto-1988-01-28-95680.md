@@ -1,7 +1,3 @@
-1
-
-###DEC-095680-0-000-28-01-1988@@@
-
 DECRETO N° 95.680, DE 28 DE JANEIRO DE 1988
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo Regional de Abertura de Mercados em favor do Paraguai (Acordo n° 3).

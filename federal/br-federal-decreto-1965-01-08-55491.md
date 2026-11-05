@@ -1,5 +1,3 @@
-###DEC-055491-0-000-08-01-1965@@@
-
 DECRETO Nº 55.491, DE 8 DE JANEIRO DE 1965.
 
 Cria o Consulado Privativo do Brasil em Posadas, Argentina.

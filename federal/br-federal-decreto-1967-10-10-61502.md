@@ -1,5 +1,3 @@
-###DEC-061502-0-000-10-10-1967@@@
-
 decreto nº 61.502, de 10 de outubro de 1967.
 
 Transfere da Prefeitura Municipal de Palmeiras de Goiás para Centrais Elétricas de Goiás S. A. a concessão para produzir, transmitir e distribuir energia elétrica no distrito sede do município de Palmeiras de Goiás, Estado de Goiás e dá outras providências.

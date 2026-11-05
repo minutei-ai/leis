@@ -1,5 +1,3 @@
-###DEC-074242-0-000-28-06-1974@@@
-
 DECRETO Nº 74.242, DE 28 DE JUNHO DE 1974.
 
 Autoriza a Rede Ferroviária Federal S.A. (RFFSA) a criar uma subsidiária destinada a estudar, projetar e construir empreendimentos ferroviários, constantes dos Planos e Programas da RFFSA, aprovados pelo Ministério dos Transportes.

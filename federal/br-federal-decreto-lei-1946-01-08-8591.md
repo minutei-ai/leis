@@ -1,5 +1,3 @@
-###DEL-008591-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.591– DE 8 DE JANEIRO DE 1946
 
 Dispõe sôbre o pagamento dos funcionários aposentados Rodolfo Augusto do Amorim Garcia e Olímpio Olinto de Oliveira.

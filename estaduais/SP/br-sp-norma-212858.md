@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212858)<br>
-
 # DECRETO N° 70.771, DE 28 DE JULHO DE 2026
 
 ### _Regulamenta a Lei n° 18.443, de 2 de abril de 2026, que dispõe sobre o plano de carreira dos integrantes das carreiras policiais civis do Estado de São Paulo._ 
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Processo de Promoção
 
 **Artigo 1° -** A evolução funcional dos servidores das carreiras da Polícia Civil ocorre por meio de promoção, com base em critérios objetivos, independentemente de vagas, na forma estabelecida pela [Lei n° 18.443, de 2 de abril de 2026](https://www.al.sp.gov.br/norma/212444) e neste decreto.
@@ -63,7 +62,8 @@ II - definição dos demais prazos a serem observados durante o processo de prom
 
 **Artigo 5° -** A realização dos procedimentos das promoções, bem como a edição de comunicados e normas complementares, caberá ao Departamento de Administração e Planejamento - DAP, que poderá constituir grupo de trabalho para averiguar o cumprimento dos requisitos para a promoção.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Avaliação de Desempenho
 
 **Artigo 6° -** A avaliação de desempenho visa aferir o desempenho funcional do policial civil no exercício das atribuições inerentes ao cargo, considerando a natureza da função exercida e o contexto operacional ou administrativo da unidade, bem como os seguintes parâmetros:
@@ -98,7 +98,8 @@ II - desempenho insatisfatório: pontuação inferior a 50 (cinquenta) pontos.
 
 **Artigo 10 -** Concorrerá à promoção o policial civil que tenha obtido resultado satisfatório na avaliação de desempenho, apurado pela média das notas obtidas nas avaliações do período considerado para promoção, conforme inciso I do artigo 2° deste decreto.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Disposições Finais
 
 **Artigo 11 -** Este decreto aplica-se integralmente aos policiais civis classificados na Superintendência da Polícia Técnico-Científica - SPTC, cuja avaliação de desempenho será realizada no âmbito daquele órgão, observadas as especificidades de suas atribuições e a respectiva estrutura organizacional e hierárquica.

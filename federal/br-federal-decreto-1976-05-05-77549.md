@@ -1,5 +1,3 @@
-###DEC-077549-0-000-05-05-1976@@@
-
 Decreto nº 77.549, de 5 de maio de 1976
 
 Autoriza o funcionamento do curso de Engenharia de Operação da Faculdade de Engenharia São Judas Tadeu, com sede na cidade de São Paulo, Estado de São Paulo.

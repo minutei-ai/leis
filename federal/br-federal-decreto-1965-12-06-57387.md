@@ -1,5 +1,3 @@
-###DEC-057387-0-000-06-12-1965@@@
-
 DECRETO Nº 57.387, DE 6 DE DEZEMBRO DE 1965.
 
 Concede á Mineração Planalto Limitada autorização para funcionar como emprêsa de mineração.

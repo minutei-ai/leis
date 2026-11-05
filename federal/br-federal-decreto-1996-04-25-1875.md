@@ -1,5 +1,3 @@
-###DEC-001875-0-000-25-04-1996@@@
-
 DECRETO Nº 1.875, DE 25 DE ABRIL DE 1996.
 
 Promulga o Acordo de Previdência Social, entre o Governo da República Federativa do Brasil e o Governo da República do Chile, de 16 de outubro de 1993.
@@ -280,4 +278,22 @@ Artigo 27
 
 Feito em Santiago do Chile, em 16 de outubro de 1993, em quatro textos originais, dois em português e dois em espanhol, sendo todos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:60.6pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:177.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PELO GOVERNO DA REPÚBLICA</span></p></td><td style="width:176.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:177.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>FEDERATIVA DO BRASIL</span></p></td><td style="width:176.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>DO CHILE</span></p></td></tr><tr><td style="width:177.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Celso L. N. Amorim</span></p></td><td style="width:176.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Enrique Silva Cimma</span></p></td></tr><tr><td style="width:177.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado das</span></p></td><td style="width:176.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro das Relações</span></p></td></tr><tr><td style="width:177.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Relações Exteriores</span></p></td><td style="width:176.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Exteriores</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL
+
+DO CHILE
+
+Celso L. N. Amorim
+
+Enrique Silva Cimma
+
+Ministro de Estado das
+
+Ministro das Relações
+
+Relações Exteriores
+
+Exteriores

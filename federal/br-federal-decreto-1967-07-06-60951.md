@@ -1,5 +1,3 @@
-###DEC-060951-0-000-06-07-1967@@@
-
 Decreto nº 60.951, de 6 de julho de 1967.
 
 Outorga e transfere a Centrais Elétricas de Minas Gerais S. A. concessões para distribuir energia elétrica respectivamente nos municípios de Funilândia e Jequitibá, Estado de Minas Gerais, e dá outras providências.

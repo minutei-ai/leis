@@ -1,5 +1,3 @@
-###DEL-001159-0-000-17-03-1971@@@
-
 # DECRETO-LEI Nº 1.159, DE 17 DE MARÇO DE 1971
 
 Dá nova redação ao ‘’caput’’ do artigo 1º do Decreto-lei nº 1.145, de 31 de dezembro de 1970.

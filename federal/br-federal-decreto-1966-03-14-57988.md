@@ -1,5 +1,3 @@
-###DEC-057988-0-000-14-03-1966@@@
-
 DECRETO Nº 57.988, DE 14 DE MARÇO DE 1966.
 
 Anula o Decreto nº 42.242, de 5 de setembro de 1957.

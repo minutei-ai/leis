@@ -1,5 +1,3 @@
-###DEC-057829-0-000-17-02-1966@@@
-
 DECRETO Nº 57.829, DE 17 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública a Sociedade Evangélica Educacional de Estrêla, com sede em Estrêla, Estado do Rio Grande do Sul.

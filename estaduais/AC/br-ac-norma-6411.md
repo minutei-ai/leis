@@ -1,6 +1,10 @@
 > **LEI Nº 4.556, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei n° 4.314, de 5 de janeiro de 2024, que institui a política de saúde mental para os servidores da segurança pública, saúde e educação com atribuições no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei n° 4.314, de 5 de janeiro de 2024, que institui a política de saúde mental para os servidores da segurança pública, saúde e educação com atribuições no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-085630-0-000-07-01-1981@@@
-
 Decreto nº 85.630, de 7 de janeiro de 1981.
 
 Institui no Gabinete Civil da Presidência da República a Secretaria de Relações Públicas e a Secretaria de Imprensa e dá outras providências.

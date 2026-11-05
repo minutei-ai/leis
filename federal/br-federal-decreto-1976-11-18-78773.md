@@ -1,5 +1,3 @@
-###DEC-078773-0-000-18-11-1976@@@
-
 DECRETO Nº 78.773, DE 18 DE NOVEMBRO DE 1976.
 
 Altera a redação do artigo 6º do Regulamento do Imposto Único sobre Energia Elétrica, aprovado pelo Decreto número 68.419, de 25 de março de 1971.

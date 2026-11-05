@@ -1,5 +1,3 @@
-###MPV-001983-0-048-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.983-48, DE 9 DE março DE 2000.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

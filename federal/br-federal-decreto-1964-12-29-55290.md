@@ -1,5 +1,3 @@
-###DEC-055290-0-000-29-12-1964@@@
-
 Decreto Nº 55.290, DE 29 DE DEZEMBRO DE 1964.
 
 Aprova alterações introduzidas nos Estatutos da Atlântica Companhia Nacional de Seguros, inclusive aumento do capital social.

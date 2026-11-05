@@ -1,5 +1,3 @@
-###DEC-050871-0-000-27-06-1961@@@
-
 decreto nº 50.871, de 27 de junho de 1961.
 
 Institui o “dia do Hospital”

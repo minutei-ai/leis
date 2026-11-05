@@ -6,13 +6,16 @@ Trata do Imposto sobre Operações Relativas à Circulação de Mercadorias e so
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO FATO GERADOR DA OBRIGAÇÃO TRIBUTÁRIA PRINCIPAL
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Incidência e da Não
 
-Subseção I -<br>
+Subseção I -
+
 Da Incidência
 
 Art. 1º - O Imposto sobre Operações Relativas a Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), de que tratam o art. 155, inciso II, §§ 2º e 3º, da Constituição da República Federativa do Brasil e a Lei Complementar nº 87, de 13 de setembro de 1996, tem como fatos geradores:
@@ -63,7 +66,8 @@ V - o resultado financeiro obtido com a operação ou com a prestação do servi
 
 § 3º - O imposto será seletivo, em função da essencialidade das mercadorias e dos serviços.
 
-Subseção II -<br>
+Subseção II -
+
 Da Não-Incidência
 
 Art. 3º - O imposto não incide sobre:
@@ -154,7 +158,8 @@ b) a preço FOB, se o transporte for efetuado em veículo do vendedor ou remeten
 
 § 2º - Ocorrerá a suspensão quando a incidência do imposto ficar condicionada a evento futuro, cabendo ao regulamento indicar esses eventos, inclusive referindo-se ao convênio que a reconheceu, instituiu ou autorizou, quando for o caso.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Do Momento da Ocorrência do Fato Gerador
 
 Art. 4º - Considera-se ocorrido o fato gerador do imposto no momento:
@@ -227,10 +232,12 @@ VI - como tendo entrado e saído do estabelecimento do contribuinte que transmit
 
 § 5º - A falta de comprovação por parte do proprietário, do condutor do veículo ou do transportador, perante qualquer repartição fazendária localizada nos portos ou aeroportos deste Estado ou na fronteira com outra unidade federativa, da saída de mercadoria, quando esta transitar neste Estado acompanhada de Passe Fiscal de Mercadorias, autoriza a presunção de que tenha ocorrido sua comercialização no território baiano.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Da Sujeição Passiva
 
-Subseção I -<br>
+Subseção I -
+
 Do Contribuinte
 
 Art. 5º - Contribuinte do ICMS é qualquer pessoa, física ou jurídica, que realize, com habitualidade ou em volume que caracterize intuito comercial, operações de circulação de mercadoria ou prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior.
@@ -275,7 +282,8 @@ XIII - os partidos políticos e suas fundações, os templos de qualquer culto, 
 
 XIV - qualquer pessoa ou entidade indicada nos incisos anteriores que, na condição de consumidor ou usuário final, adquirir bens ou serviços em operação ou prestação interestadual.
 
-Subseção II -<br>
+Subseção II -
+
 Do Responsável por Solidariedade
 
 Art. 6º - São solidariamente responsáveis pelo pagamento do imposto e demais acréscimos legais devidos pelo contribuinte de direito:
@@ -334,7 +342,8 @@ III - uma delas locar ou transferir à outra, a qualquer título, veículo desti
 
 § 3º - A responsabilidade prevista neste artigo não exclui a do contribuinte, facultando-se ao fisco exigir o crédito tributário de qualquer um ou de ambos os sujeitos passivos.
 
-Subseção III -<br>
+Subseção III -
+
 Da Substituição Tributária por Diferimento
 
 Art. 7º - Dar-se-á o diferimento quando o lançamento e o pagamento do imposto incidente sobre determinada operação ou prestação forem adiados para uma etapa posterior, atribuindo-se a responsabilidade pelo pagamento do imposto diferido ao adquirente ou destinatário da mercadoria, ou ao usuário do serviço, na condição de sujeito passivo por substituição vinculado a etapa posterior.
@@ -351,7 +360,8 @@ III - ocorrer qualquer saída ou evento que impossibilite a ocorrência do fato 
 
 § 3º - O regulamento poderá estabelecer exigências e condições para autorizar o contribuinte a operar no regime de diferimento.
 
-Subseção IV -<br>
+Subseção IV -
+
 Da Substituição Tributária por Antecipação e das Demais Hipóteses de Pagamento por Antecipação
 
 Art. 8º - São responsáveis pelo lançamento e recolhimento do ICMS, na condição de sujeitos passivos por substituição, devendo fazer a retenção do imposto devido na operação ou operações a serem realizadas pelos adquirentes, bem como do imposto relativo aos serviços prestados:
@@ -434,7 +444,8 @@ Art. 11 - Quando for celebrado entre a Bahia e outras unidades da Federação ac
 
 Art. 12 - É assegurado ao contribuinte substituído o direito à restituição do valor do imposto pago por força da substituição tributária, se o fato gerador presumido não chegar a se realizar, observado o disposto no art. 33.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Do Local da Operação e da Prestação
 
 Art. 13 - O local da operação ou da prestação, para os efeitos da cobrança do imposto e definição do estabelecimento responsável, é:
@@ -495,10 +506,12 @@ Art. 14 - Para os efeito desta Lei, estabelecimento é o local, privado ou públ
 
 § 3º - Considera-se também estabelecimento autônomo o veículo usado no comércio ambulante ou na captura de pescado.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 Das Alíquotas e da Base de Cálculo
 
-Subseção I -<br>
+Subseção I -
+
 Das Alíquotas
 
 Art. 15 - As alíquotas do ICMS são as seguintes:
@@ -583,7 +596,8 @@ c) microempresa ambulante aquela que, não tendo estabelecimento fixo ou permane
 
 II - o estabelecimento industrial remetente obriga-se a repassar para a microempresa adquirente, sob a forma de desconto, o valor aproximadamente correspondente ao benefício resultante da adoção da alíquota de 7% em vez da de 17%, devendo a redução constar expressamente no respectivo documento fiscal.
 
-Subseção II -<br>
+Subseção II -
+
 Da Base de Cálculo
 
 Art. 17 - A base de cálculo do imposto é:
@@ -814,10 +828,12 @@ b) no valor de pauta fiscal do serviço, sendo transportador autônomo ou transp
 
 § 7º - O disposto neste artigo aplica-se, também, a outras hipóteses de pagamento antecipado do imposto.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO LANÇAMENTO, DA COMPENSAÇÃO E DO RECOLHIMENTO DO IMPOSTO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Do Lançamento e da Compensação do Imposto
 
 Art. 24 - O ICMS será apurado por período mensal.
@@ -950,7 +966,8 @@ Art. 32 - O imposto será recolhido junto à rede bancária autorizada ou ao age
 
 Parágrafo único - Para efeito de parcelamento de débito tributário, o valor das prestações mensais, após atualização do débito, com inclusão das multas e dos acréscimos tributários, será calculado vinculando-se o valor de cada parcela aos índices inflacionários verificados no período.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Da Restituição
 
 Art. 33 - Serão restituídas, no todo ou em parte, as quantias relativas ao imposto e multas cobradas ou recolhidas indevidamente, consoante a forma estabelecida em regulamento, observados os prazos de prescrição e decadência.
@@ -965,7 +982,8 @@ Art. 33 - Serão restituídas, no todo ou em parte, as quantias relativas ao imp
 
 § 5º - É assegurado ao contribuinte substituído o direito à restituição do valor do imposto pago por força da substituição tributária, correspondente ao fato gerador presumido que não se realizar, observadas as regras dos parágrafos anteriores.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS OBRIGAÇÕES DOS CONTRIBUINTES E DOS RESPONSÁVEIS
 
 Art. 34 - São obrigações do contribuinte:
@@ -1006,7 +1024,8 @@ Art. 35 - O regulamento poderá atribuir ao contribuinte ou a terceiros o cumpri
 
 Art. 36 - A autorização de regime especial para pagamento, emissão de documentos fiscais ou escrituração de livros fiscais obedecerá à disciplina prevista em regulamento.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS ISENÇÕES, INCENTIVOS E BENEFÍCIOS FISCAIS
 
 Art. 37 - As isenções, incentivos e benefícios fiscais do imposto somente serão concedidos ou revogados mediante convênio celebrado nos termos da Lei Complementar nº 24, de 7 de janeiro de 1975.
@@ -1037,7 +1056,8 @@ Art. 38 - Quando o reconhecimento do benefício do imposto depender de condiçã
 
 Art. 39 - A concessão de isenção ou de outros favores, benefícios ou incentivos não dispensa o contribuinte do cumprimento das obrigações acessórias, salvo disposição em contrário.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS INFRAÇÕES E DAS PENALIDADES
 
 Art. 40 - Constitui infração relativa ao ICMS a inobservância de qualquer disposição contida na legislação deste tributo, especialmente das previstas no art. 42 desta Lei.
@@ -1330,7 +1350,8 @@ I - cancelamento de benefícios fiscais, atendidas as regras previstas em lei co
 
 II - cassação de regime especial para pagamento, emissão de documentos fiscais ou escrituração de livros, conforme o caso, na forma prevista em regulamento.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES ESPECIAIS
 
 Art. 49 - Fica o Poder Executivo autorizado a celebrar e ratificar convênios para concessão e revogação de isenção, redução de base de cálculo, manutenção de crédito, concessão de crédito presumido e demais favores, incentivos ou benefícios fiscais de deliberação sujeita à competência do Conselho Nacional de Política Fazendária (CONFAZ).

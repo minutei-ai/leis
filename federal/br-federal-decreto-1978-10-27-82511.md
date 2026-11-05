@@ -1,5 +1,3 @@
-###DEC-082511-0-000-27-10-1978@@@
-
 Decreto nº 82.511, de 27 de outubro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro José Pacífico Homem pelo Decreto nº 24.250, de 23 de dezembro de 1947, alterado pelo Decreto nº 43.445, de 26 de março de 1958.

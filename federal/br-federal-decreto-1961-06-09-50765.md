@@ -1,5 +1,3 @@
-###DEC-050765-0-000-09-06-1961@@@
-
 DECRETO Nº 50.765, DE 9 DE JUNHO DE 1961.
 
 Proibe a propaganda comercial nos cinematógrafos e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-097592-0-000-27-03-1989@@@
-
 DECRETO N° 97.592, DE 27 DE MARÇO DE 1989
 
 Aprova o Regulamento para o Transporte de Madeira em toros por via fluvial, de que trata a Lei n° 7.509, de 4 de julho de 1986.

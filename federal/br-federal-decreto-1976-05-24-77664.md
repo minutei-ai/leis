@@ -1,5 +1,3 @@
-###DEC-077664-0-000-24-05-1976@@@
-
 DECRETO Nº 77.664, DE 24 DE MAIO DE 1976.
 
 Confisca bens pertencentes à empresa denominada S. A. Central de Imóveis e Construções, com sede na Capital do Estado de São Paulo, e dá outras providências.

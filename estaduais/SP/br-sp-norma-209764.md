@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209764)<br>
-
 # DECRETO N° 68.714, DE 25 DE JULHO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à implantação de uma estação elevatória de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., no Jardim Paineiras, no Município de São Paulo, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-005876-0-000-17-08-2006@@@
-
 DECRETO Nº 5.876, DE 17 DE AGOSTO DE 2006.
 
 Dispõe sobre a execução do Trigésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica no 14, entre os Governos da República Federativa do Brasil e da República Argentina, de 1o de agosto de 2006.
@@ -22,11 +20,7 @@ Brasília, 17 de agosto de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-          Samuel Pinheiro Guimaraes Neto
-
-Este texto não substitui o publicado no D.O.U. de 18.8.2006.
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 14 SUBSCRITO
+          Samuel Pinheiro Guimaraes NetoACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 14 SUBSCRITO
 
 ENTRE A REPÚBLICA ARGENTINA E A REPÚBLICA FEDERATIVA DO BRASIL
 

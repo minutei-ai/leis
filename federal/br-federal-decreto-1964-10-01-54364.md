@@ -1,5 +1,3 @@
-###DEC-054364-0-000-01-10-1964@@@
-
 DECRETO Nº 54.364, DE 1 DE OUTUBRO DE 1964.
 
 Concede à Grafite do Brasil S.A. “Grafisa”, autorização para funcionar como emprêsa de mineração.

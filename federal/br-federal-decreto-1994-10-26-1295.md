@@ -1,7 +1,3 @@
-1
-
-###DEC-001295-0-000-26-10-1994@@@
-
 DECRETO Nº 1.295, DE 26 DE OUTUBRO DE 1994
 
 Altera a redação do art. 2º do Decreto nº 63.704, de 29 de novembro de 1968, Regulamento da Lei de Prestação do Serviço Militar pelos estudantes de Medicina, Farmácia, Odontologia e Veterinária e pelos médicos, farmacêuticos, dentista e veterinários.

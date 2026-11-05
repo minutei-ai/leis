@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210466)<br>
-
 # DECRETO N° 69.241, DE 23 DE DEZEMBRO DE 2024
 
 ### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Estadual Alto Noroeste._

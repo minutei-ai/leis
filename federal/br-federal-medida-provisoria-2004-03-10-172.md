@@ -1,5 +1,3 @@
-###MPV-000172-0-000-10-03-2004@@@
-
 MEDIDA PROVISÓRIA Nº 172, DE 10 DE MARÇO 2004.
 
 Dá nova redação ao caput do art. 7o da Lei no 9.264, de 7 de fevereiro de 1996, que dispõe sobre o desmembramento e a reorganização da Carreira Policial Civil do Distrito Federal, fixa remuneração de seus cargos e institui, para os militares do Distrito Federal - Polícia Militar e Corpo de Bombeiros Militar, a Gratificação de Condição Especial de Função Militar - GCEF.

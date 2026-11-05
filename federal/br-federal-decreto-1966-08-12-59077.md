@@ -1,5 +1,3 @@
-###DEC-059077-0-000-12-08-1966@@@
-
 Decreto nº 59.077, de 12 de agôsto de 1966.
 
 Regulamenta o item II do art. 14 do Decreto-lei nº 1.985, de 29 de janeiro de 1940, dispõe sôbre autorização de pesquisa de jazida mineral que imponha elevado gasto na sua efetivação e dá outras providências.

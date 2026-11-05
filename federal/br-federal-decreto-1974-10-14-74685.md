@@ -1,5 +1,3 @@
-###DEC-074685-0-000-14-10-1974@@@
-
 DECRETO Nº 74.685, DE 14 DE OUTUBRO DE 1974.
 
 Cria, no Ministério das Relações Exteriores, a Comissão Brasileira do Programa sobre o Homem e a Biosfera, promovido pela UNESCO.

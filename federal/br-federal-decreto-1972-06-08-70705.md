@@ -1,5 +1,3 @@
-###DEC-070705-0-000-08-06-1972@@@
-
 DECRETO Nº 70.705, DE 8 DE JUNHO DE 1972.
 
 Dá nova redação a dispositivos do Regulamento para o Corpo do Pessoal subalterno do corpo de Fuzileiros Navais.

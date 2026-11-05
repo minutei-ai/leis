@@ -1,5 +1,3 @@
-###DEC-066173-0-000-04-02-1970@@@
-
 DECRETO Nº 66.173 - DE 4 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina de Cachoeira Dourada até a subestação de Itumbiara, no município de Itumbiara, Estado de Goiás.

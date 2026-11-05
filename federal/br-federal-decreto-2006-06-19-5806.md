@@ -1,5 +1,3 @@
-###DEC-005806-0-000-19-06-2006@@@
-
 DECRETO Nº 5.806, DE 19 DE JUNHO DE 2006.
 
  Promulga a Convenção Relativa ao Registro de Objetos Lançados no Espaço Cósmico, adotada pela Assembléia-Geral das Nações Unidas em 12 de novembro de 1974, e pelo Brasil em 17 de março de 2006.

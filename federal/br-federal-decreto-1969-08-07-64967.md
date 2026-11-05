@@ -1,5 +1,3 @@
-###DEC-064967-0-000-07-08-1969@@@
-
 DECRETO Nº 64.967 - DE 7 DE AGôSTO DE 1969.
 
 Declara de utilidade pública para fins de desapropriação, imóvel necessário à construção de uma estação abaixadora de energia elétrica e para fins de constituição de servidão administrativa, uma faixa de terra destinada a passagem de linha de transmissão.

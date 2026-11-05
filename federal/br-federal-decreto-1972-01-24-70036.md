@@ -1,5 +1,3 @@
-###DEC-070036-0-000-24-01-1972@@@
-
 decreto nº 70.036, de 24 de janeiro de 1972.
 
 Declara de utilidade pública a Escola Normal do Colégio Santa Clara, com sede em Itambacuri, Estado de Minas Gerais.

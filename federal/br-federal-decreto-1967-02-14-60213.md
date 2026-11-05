@@ -1,5 +1,3 @@
-###DEC-060213-0-000-14-02-1967@@@
-
 DECRETO Nº 60.213, DE 14 DE FEVEREIRO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União, a aceitar doação de imóvel, em Dourados - MT, destinado ao Ministério de Guerra.

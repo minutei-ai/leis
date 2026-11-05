@@ -1,5 +1,3 @@
-###DEC-005595-0-000-24-11-2005@@@
-
 DECRETO Nº 5.595, DE 24 DE NOVEMBRO DE 2005
 
 Dispõe sobre a execução do Vigésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República do Peru, de 21 de julho de 2005.

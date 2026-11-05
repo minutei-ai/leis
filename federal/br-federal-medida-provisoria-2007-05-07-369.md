@@ -1,5 +1,3 @@
-###MPV-000369-0-000-07-05-2007@@@
-
 MEDIDA PROVISÓRIA Nº 369, DE 7 DE MAIO DE 2007.
 
 Acresce e altera dispositivos da Lei no 10.683, de 28 de maio de 2003, para criar a Secretaria Especial de Portos, e dá outras providências.
@@ -126,9 +124,343 @@ Art. 12.  O item 4.2 da Relação Descritiva dos Portos Marítimos, Fluviais e 
 
                         “4.2 - .......................................................................................................................................
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">No DE ORDEM</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">DENOMINAÇÃO</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">UF</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">LOCALIZAÇÃO</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">176</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ALVARÃES</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">177</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AMATURÁ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">178</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ANAMÃ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">179</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ANORI</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">180</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">APUÍ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">181</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ATALAIA DO NORTE</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">182</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BARREIRINHA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RIO ENVIRA (AFLUENTE DO RIO AMAZONAS)</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">183</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BERURI</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RIO PURUS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">184</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BOA VISTA DO RAMOS</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO AMAZONAS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">185</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CAAPIRANGA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">186</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CANUTAMA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO PURUS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">187</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CARAUARI</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO JURUÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">188</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CAREIRO DA VÁRZEA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">189</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CODAJÁS</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">190</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">EIRUNEPÉ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO JURUÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">191</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ENVIRA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO TARAUACÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">192</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">GUAJARÁ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO JURUÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">193</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">IPIXUNA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO JURUÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">194</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ITAMARATI</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO JURUÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">195</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">ITAPIRANGA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO AMAZONAS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">196</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">JAPURÁ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO JAPURÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">197</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">JURUÁ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO JAPURÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">198</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MARAÃ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO JAPURÁ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">199</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NOVO AIRÃO</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO NEGRO</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">200</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PAUINÍ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO PURUS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">201</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RIO PRETO DA EVA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO PRETO DA EVA</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">202</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">SÃO GABRIEL DA CACHOEIRA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO NEGRO</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">203</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SILVES</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO AMAZONAS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">204</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TAPAUÁ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO PURUS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">205</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">UARINI</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">AM</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SOLIMÕES</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">206</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BELÉM</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">PA</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO PARÁ/BAÍA DE MARAJÓ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">207</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ANANINDEUA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">PA</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO PARÁ/BAÍA DE MARAJÓ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">208</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ITUPIRANGA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">PA</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO TOCANTINS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">209</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">COLARES</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">PA</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO PARÁ/BAÍA DE MARAJÓ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">210</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SÃO SEBASTIÃO DA BOA VISTA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">PA</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO PARÁ/BAÍA DE MARAJÓ</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">211</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RONDONÓPOLIS</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">MT</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO SÃO LOURENÇO</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">212</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ROSANA</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">SP</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO PARANAPANEMA</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">213</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PORTO VELHO</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RO</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO CANDEIAS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">214</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">GUARUJÁ</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">SP</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">ESTUÁRIO DE SANTOS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">215</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">JURUTI</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">PA</span></p></td><td style="width:176.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">RIO AMAZONAS</span></p></td></tr><tr><td style="width:50.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">216</span></p></td><td style="width:160.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SANTAREM</span></p></td><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">PA</span></p></td><td style="width:176.35pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">RIO TAPAJÓS</span></p></td></tr></tbody></table>
+No DE ORDEM
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:523.5pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">” (NR)</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+UF
+
+LOCALIZAÇÃO
+
+176
+
+ALVARÃES
+
+AM
+
+RIO SOLIMÕES
+
+177
+
+AMATURÁ
+
+AM
+
+RIO SOLIMÕES
+
+178
+
+ANAMÃ
+
+AM
+
+RIO SOLIMÕES
+
+179
+
+ANORI
+
+AM
+
+RIO SOLIMÕES
+
+180
+
+APUÍ
+
+AM
+
+RIO SOLIMÕES
+
+181
+
+ATALAIA DO NORTE
+
+AM
+
+RIO SOLIMÕES
+
+182
+
+BARREIRINHA
+
+AM
+
+RIO ENVIRA (AFLUENTE DO RIO AMAZONAS)
+
+183
+
+BERURI
+
+AM
+
+RIO PURUS
+
+184
+
+BOA VISTA DO RAMOS
+
+AM
+
+RIO AMAZONAS
+
+185
+
+CAAPIRANGA
+
+AM
+
+RIO SOLIMÕES
+
+186
+
+CANUTAMA
+
+AM
+
+RIO PURUS
+
+187
+
+CARAUARI
+
+AM
+
+RIO JURUÁ
+
+188
+
+CAREIRO DA VÁRZEA
+
+AM
+
+RIO SOLIMÕES
+
+189
+
+CODAJÁS
+
+AM
+
+RIO SOLIMÕES
+
+190
+
+EIRUNEPÉ
+
+AM
+
+RIO JURUÁ
+
+191
+
+ENVIRA
+
+AM
+
+RIO TARAUACÁ
+
+192
+
+GUAJARÁ
+
+AM
+
+RIO JURUÁ
+
+193
+
+IPIXUNA
+
+AM
+
+RIO JURUÁ
+
+194
+
+ITAMARATI
+
+AM
+
+RIO JURUÁ
+
+195
+
+ITAPIRANGA
+
+AM
+
+RIO AMAZONAS
+
+196
+
+JAPURÁ
+
+AM
+
+RIO JAPURÁ
+
+197
+
+JURUÁ
+
+AM
+
+RIO JAPURÁ
+
+198
+
+MARAÃ
+
+AM
+
+RIO JAPURÁ
+
+199
+
+NOVO AIRÃO
+
+AM
+
+RIO NEGRO
+
+200
+
+PAUINÍ
+
+AM
+
+RIO PURUS
+
+201
+
+RIO PRETO DA EVA
+
+AM
+
+RIO PRETO DA EVA
+
+202
+
+SÃO GABRIEL DA CACHOEIRA
+
+AM
+
+RIO NEGRO
+
+203
+
+SILVES
+
+AM
+
+RIO AMAZONAS
+
+204
+
+TAPAUÁ
+
+AM
+
+RIO PURUS
+
+205
+
+UARINI
+
+AM
+
+RIO SOLIMÕES
+
+206
+
+BELÉM
+
+PA
+
+RIO PARÁ/BAÍA DE MARAJÓ
+
+207
+
+ANANINDEUA
+
+PA
+
+RIO PARÁ/BAÍA DE MARAJÓ
+
+208
+
+ITUPIRANGA
+
+PA
+
+RIO TOCANTINS
+
+209
+
+COLARES
+
+PA
+
+RIO PARÁ/BAÍA DE MARAJÓ
+
+210
+
+SÃO SEBASTIÃO DA BOA VISTA
+
+PA
+
+RIO PARÁ/BAÍA DE MARAJÓ
+
+211
+
+RONDONÓPOLIS
+
+MT
+
+RIO SÃO LOURENÇO
+
+212
+
+ROSANA
+
+SP
+
+RIO PARANAPANEMA
+
+213
+
+PORTO VELHO
+
+RO
+
+RIO CANDEIAS
+
+214
+
+GUARUJÁ
+
+SP
+
+ESTUÁRIO DE SANTOS
+
+215
+
+JURUTI
+
+PA
+
+RIO AMAZONAS
+
+216
+
+SANTAREM
+
+PA
+
+RIO TAPAJÓS
+
+” (NR)
 
 Art. 13.  A Lei nº 11.457, de 16 de março de 2007, passa a vigorar acrescida do seguinte artigo:
 
@@ -157,5 +489,3 @@ Alfredo Nascimento
 Paulo Bernardo Silva
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 8.5.2007.

@@ -1,5 +1,3 @@
-###DEC-055549-0-000-11-01-1965@@@
-
 decreto nº 55.549, de 11 de ajneiro de 1965.
 
 Autoriza o cidadão brasileiro Haroldo Affonso Junqueira a pesquisar argila, no município de Poços de Caldas, Estado de Minas Gerais.

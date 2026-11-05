@@ -1,5 +1,3 @@
-###DEC-055666-0-000-01-02-1965@@@
-
 DECRETO Nº 55.666, DE 1 DE FEVEREIRO DE 1965.
 
 Concede reconhecimento a cursos do Conservatório Musical de Santos, Estado de São Paulo.

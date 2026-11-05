@@ -1,5 +1,3 @@
-###DEC-047022-0-000-14-10-1959@@@
-
 DECRETO Nº 47.022, DE 14 DE OUTUBRO DE 1959.
 
 Dispõe sôbre a concessão da gratificação prevista no art. 145, item VI, da Lei nº 1.711, de 28 de outubro de 1952, aos servidores que exercem cargos ou funções relacionados com o exercício da odontologia, no Serviço Público Federal, e dá outras providências.

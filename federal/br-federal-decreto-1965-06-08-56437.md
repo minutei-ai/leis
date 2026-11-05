@@ -1,5 +1,3 @@
-###DEC-056437-0-000-08-06-1965@@@
-
 DECRETO Nº 56.437, DE 8 DE JUNHO DE 1965.
 
 Concede à Companhia Ilhéus de Seguros autorização para funcionar e aprova os seus Estatutos.

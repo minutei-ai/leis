@@ -1,5 +1,3 @@
-###DEC-059293-0-000-23-09-1966@@@
-
 DECRETO Nº 59.293, DE 23 DE SETEMBRO DE 1966.
 
 Concede à calciomar de Mineração Ltda., autorização para funcionar como emprêsa de mineração.

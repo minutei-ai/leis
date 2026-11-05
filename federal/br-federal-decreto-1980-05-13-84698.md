@@ -1,5 +1,3 @@
-###DEC-084698-0-000-13-05-1980@@@
-
 Decreto nº 84.698, de 13 de maio de 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias necessárias à ampliação da Estação Transformadora de Distribuição Campo Marte da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

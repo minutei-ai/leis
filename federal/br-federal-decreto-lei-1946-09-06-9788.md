@@ -1,5 +1,3 @@
-###DEL-009788-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.788 – DE 6 DE SETEMBRO DE 1946
 
 Extingue o Departamento Nacional de Informações e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-054687-0-000-29-10-1964@@@
-
 DECRETO Nº 54.687, DE 29 DE OUTUBRO DE 1964.
 
 Concede ao Centro do Comércio de café de Paranaguá a prerrogativa mencionada na alínea d do artigo 513 da Consolidação das Leis do Trabalho.

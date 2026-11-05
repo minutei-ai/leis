@@ -1,5 +1,3 @@
-###DEL-001242-0-000-30-10-1972@@@
-
 # DECRETO-LEI Nº 1.242, DE 30 DE OUTUBRO DE 1972
 
 Altera o Decreto-lei nº 999, de 21 de outubro de 1969, que criou a Taxa Rodoviária Única, e dá outras providências.

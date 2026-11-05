@@ -1,4 +1,5 @@
-DECRETO Nº 10.012, DE 27 DE DEZEMBRO DE 2021<br>
+DECRETO Nº 10.012, DE 27 DE DEZEMBRO DE 2021
+
 [\- Revogado pelo Decreto nº 10.018, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104735/decreto-10018)
 
 ~~Declara situação de calamidade, caracterizada como situação de emergência, nos municípios que especifica, afetados por chuvas torrenciais.~~
@@ -22,8 +23,6 @@ DECRETO Nº 10.012, DE 27 DE DEZEMBRO DE 2021<br>
 ~~Art. 6º Este Decreto entra em vigor na data de sua publicação, e deve vigorar pelo prazo máximo de 180 (cento e oitenta) dias.~~
 
 ~~Goiânia, 27 de dezembro de 2021; 133º da República.~~
-
-<br>
 
 RONALDO CAIADO
 

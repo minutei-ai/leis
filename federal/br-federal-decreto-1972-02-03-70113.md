@@ -1,5 +1,3 @@
-###DEC-070113-0-000-03-02-1972@@@
-
 DECRETO Nº 70.113, DE 3 DE fevereiro DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada a passagem de 2 (duas) linhas de transmissão nos Estados de Minas Gerais e São Paulo, e dá outras providências.

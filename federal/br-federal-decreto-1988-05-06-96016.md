@@ -1,7 +1,3 @@
-1
-
-###DEC-096016-0-000-06-05-1988@@@
-
 # DECRETO N° 96.016, DE 6 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Itapuí - Glebas A e B, classificado como latifúndio por exploração, situado no Município de Canoas, no Estado do Rio Grande do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.692, de 19 de maio de 1986, e dá outras providências.

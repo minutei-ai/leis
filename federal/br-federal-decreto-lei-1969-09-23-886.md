@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/289de57b-890b-42d0-9f4c-2e7404b1500b/texto#nowhere)
 
-###DEL-000886-0-000-23-09-1969@@@
-
 DECRETO-LEI Nº 886, DE 23 DE SETEMBRO DE 1969
 
 Transfere cargo do Ministério do Exército para o Ministério das Minas e Energia.

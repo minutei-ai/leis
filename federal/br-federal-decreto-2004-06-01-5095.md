@@ -1,5 +1,3 @@
-###DEC-005095-0-000-01-06-2004@@@
-
 DECRETO Nº 5.095,  DE 1º DE JUNHO DE 2004
 
 Regulamenta a Lei nº 10.849, de 23 de março de 2004, que cria o Programa de Financiamento da Ampliação e Modernização da Frota Pesqueira Nacional - Profrota Pesqueira, institui o Grupo Gestor do Profrota Pesqueira e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077735-0-000-01-06-1976@@@
-
 DECRETO Nº 77.735, DE 1º DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Econômicas, Contábeis e Administrativas, com sede na cidade de Campinas, Estado de São Paulo.

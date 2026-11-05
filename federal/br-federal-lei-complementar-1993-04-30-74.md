@@ -1,7 +1,3 @@
-1
-
-###LCP-000074-0-000-30-04-1993@@@
-
 # LEI COMPLEMENTAR Nº 74, DE 30 DE ABRIL DE 1993.
 
 Estabelece normas sobre a fixação de coeficientes no Fundo de Participação dos Municípios e dá outras providências.

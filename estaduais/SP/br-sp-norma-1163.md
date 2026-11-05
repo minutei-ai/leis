@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/1163)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2002/compilacao-lei-11260-08.11.2002.html)
 
 # LEI N° 11.260, DE 08 DE NOVEMBRO DE 2002

@@ -1,5 +1,3 @@
-###DEC-058187-0-000-14-04-1966@@@
-
 DECRETO Nº 58.187, DE 14 DE ABRIL DE 1966.
 
 Concede à Great American Insurance Company, autorização para aumentar o capital destinado as suas operações se seguros no Brasil.

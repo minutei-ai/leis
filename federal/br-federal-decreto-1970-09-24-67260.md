@@ -1,5 +1,3 @@
-###DEC-067260-0-000-24-09-1970@@@
-
 DECRETO Nº 67.260, DE 24 DE SETEMBRO DE 1970.
 
 Declara caduco e Decreto nº 49.478, de 9 de dezembro de 1960.

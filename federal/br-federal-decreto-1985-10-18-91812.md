@@ -1,5 +1,3 @@
-###DEC-091812-0-000-18-10-1985@@@
-
 # Decreto nº 91.812, de 18 de outubro de 1985.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Mangaratiba, Angra dos Reis e Cabo Frio, Estado do Rio de Janeiro; Salvador, Estado da Bahia; Recife, Estado de Pernambuco; São Vicente e Guarujá, Estado de São Paulo; e Camboriú, Estado de Santa Catarina.

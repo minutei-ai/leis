@@ -1,5 +1,3 @@
-###DEC-087745-0-000-29-10-1982@@@
-
 Decreto nº 87.745, de 29 de Outubro de 1982.
 
 Altera dispositivo do Regulamento para a Comissão Naval Brasileira em Washington, aprovado pela Decreto nº 70 872 de 25 de julho de 1972.

@@ -1,5 +1,3 @@
-###DEC-052838-0-000-18-11-1963@@@
-
 Decreto nº 52.838, de 18 de novembro de 1963.
 
 Autoriza o cidadão brasileiro Carlos Márcio Olivê de Souza a pesquisar diamantes no município de Diamantina, Estado de Minas Gerais.

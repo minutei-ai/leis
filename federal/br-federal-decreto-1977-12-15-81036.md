@@ -1,5 +1,3 @@
-###DEC-081036-0-000-15-12-1977@@@
-
 Decreto nº 81.036, de 15 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Estatística da Universidade Federal de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

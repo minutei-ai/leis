@@ -1,5 +1,3 @@
-###DEC-072778-0-000-11-09-1973@@@
-
 DECRETO Nº 72.778, DE 11 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública, para efeitos de desapropriação, a área que menciona, situada no Município de Cabo Frio, Estado do Rio de Janeiro, necessária ao Ministério da Marinha, para construção e instalação de três Institutos de Ensino, parte integrante do Projeto Cabo Frio, objeto do Convênio entre os Ministérios da Marinha e do Planejamento e Coordenação Geral.

@@ -1,5 +1,3 @@
-###DEC-060551-0-000-07-04-1967@@@
-
 DECRETO Nº 60.551, DE 7 DE ABRIL DE 1967.
 
 Declara de utilidade pública a “Sociedade Hebraico Renascença”, com sede em São Paulo, Estado de São Paulo.

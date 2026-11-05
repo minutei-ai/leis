@@ -20,15 +20,36 @@ Art. 5º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 19 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">REMANESCENTE DA CHÁCARA 428</td><td style="text-align:center">7.759,40</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+REMANESCENTE DA CHÁCARA 428
+
+7.759,40
 
 SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">CHÁCARA 428 A</td><td style="text-align:center">5.122,23</td></tr><tr><td style="text-align:center">CHÁCARA 428 B</td><td style="text-align:center">1.514,96</td></tr><tr><td style="text-align:center">CHÁCARA 428 C DESTINADA AO SISTEMA VIÁRIO</td><td style="text-align:center">1.122,21</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+CHÁCARA 428 A
+
+5.122,23
+
+CHÁCARA 428 B
+
+1.514,96
+
+CHÁCARA 428 C DESTINADA AO SISTEMA VIÁRIO
+
+1.122,21

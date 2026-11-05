@@ -1,5 +1,3 @@
-###DEL-009260-0-000-16-05-1946@@@
-
 DECRETO-LEI N. 9.260 – DE 16 DE MAIO DE 1946
 
 Equipara os vencimentos dos Ministros do Tribunal de Contas do Distrito Federal à dos Secretários Gerais da Prefeitura.

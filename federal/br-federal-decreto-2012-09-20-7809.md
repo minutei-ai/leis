@@ -1,5 +1,3 @@
-###DEC-007809-0-000-20-09-2012-PUB-01@@@
-
 DECRETO N° 7.809, DE 20 DE SETEMBRO DE 2012
 
 Altera os Decretos n° 5.417, de 13 de abril de 2005, n° 5.751, de 12 de abril de 2006, e n° 6.834, de 30 de abril de 2009, que aprovam as estruturas regimentais e os quadros demonstrativos dos cargos em comissão e das funções gratificadas dos Comandos da Marinha, do Exército e da Aeronáutica, do Ministério da Defesa.

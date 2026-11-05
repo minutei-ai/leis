@@ -1,5 +1,3 @@
-###DEL-009045-0-000-08-03-1946@@@
-
 DECRETO-LEI N. 9.045 – DE 8 DE MARÇO DE 1946
 
 Dispõe sôbre os limites de diária de pessoal para obras.

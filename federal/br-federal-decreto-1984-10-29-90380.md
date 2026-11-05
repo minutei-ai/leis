@@ -1,5 +1,3 @@
-###DEC-090380-0-000-29-10-1984@@@
-
 Decreto nº 90.380, de 29 de outubro de 1984
 
 Cria o Serviço Especial de Radiocomunicações para Segurança nas Rodovias e aprova o seu Regulamento.

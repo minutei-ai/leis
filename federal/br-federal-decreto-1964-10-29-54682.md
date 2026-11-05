@@ -1,5 +1,3 @@
-###DEC-054682-0-000-29-10-1964@@@
-
 DECRETO Nº 54.682, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Luz e Fôrça Santa Cruz a vender os bens imóveis que específica.

@@ -1,5 +1,3 @@
-###DEC-047943-0-000-17-03-1960@@@
-
 DECRETO Nº 47.943, DE 17 DE MARÇO DE 1960.
 
 Altera o Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

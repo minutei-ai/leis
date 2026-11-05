@@ -1,7 +1,3 @@
-1
-
-###DEC-000688-0-000-26-11-1992@@@
-
 DECRETO Nº 688, DE 26 DE NOVEMBRO DE 1992
 
 Dispõe sobre a reorganização da Comissão de Financiamentos Externos - COFIEX e dá outras providências.

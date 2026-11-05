@@ -1,5 +1,3 @@
-###DEC-073573-0-000-28-01-1974@@@
-
 Decreto nº 73.573, de 28 de janeiro de 1974.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Fazenda, e dá outras providências.

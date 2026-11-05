@@ -1,5 +1,3 @@
-###MPV-002061-0-001-31-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.061-1, DE 31 de outubro DE 2000.
 
 Dispõe sobre o Programa de Recuperação Fiscal - Refis.

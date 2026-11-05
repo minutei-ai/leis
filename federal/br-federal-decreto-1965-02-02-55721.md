@@ -1,5 +1,3 @@
-###DEC-055721-0-000-02-02-1965@@@
-
 DECRETO Nº 55.721, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza a Companhia Estanífera do Brasil a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

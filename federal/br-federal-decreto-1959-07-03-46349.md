@@ -1,5 +1,3 @@
-###DEC-046349-0-000-03-07-1959@@@
-
 DECRETO Nº 46.349, DE 3 DE JULHO DE 1959.
 
 Aprova o Regulamento do Serviço de Assistência Médica Domiciliar e de Urgência (S.A.M.D.U.)
@@ -131,8 +129,6 @@ III - Do patrimônio, das aquisições e alienações;
 IV - Do orçamento e das contas;
 
 V - Da Junta Consultiva, dos recursos e inquéritos
-
-###DEC-046349-0-000-03-07-1959@@@RET01+++
 
 DECRETO Nº 46.349, DE 3 DE JULHO DE 1959.
 

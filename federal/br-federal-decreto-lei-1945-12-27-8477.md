@@ -1,5 +1,3 @@
-###DEL-008477-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.477 – DE 27 DE DEZEMBRO DE 1945
 
 Eleva padrão de vencimento

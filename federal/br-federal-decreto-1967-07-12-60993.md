@@ -1,5 +1,3 @@
-###DEC-060993-0-000-12-07-1967@@@
-
 decreto Nº 60.993, de 12 de julho de 1967.
 
 Inclusão de tropa da Arma de Engenharia e de Tropas de Serviços na Organização das Fôrças Terrestres e dos Órgãos Territoriais em Tempo de Paz, de que trata o Decreto nº 41.186, de 20 de março de 1957.

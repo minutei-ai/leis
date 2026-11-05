@@ -1,5 +1,3 @@
-###DEC-046964-0-000-02-10-1959@@@
-
 DECRETO Nº 46.964, DE 2 DE OUTUBRO DE 1959.
 
 Autoriza a execução de obras em diversos municípios do nodeste do Estado da Bahia.

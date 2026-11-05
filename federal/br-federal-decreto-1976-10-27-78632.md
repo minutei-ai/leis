@@ -1,5 +1,3 @@
-###DEC-078632-0-000-27-10-1976@@@
-
 DECRETO Nº 78.632, DE 27 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Visconde do Rio Branco, com sede na cidade de Visconde do Rio Branco, Estado de Minas Gerais.

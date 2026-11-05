@@ -1,5 +1,3 @@
-###DEC-062329-0-000-01-03-1968@@@
-
 decreto nº 62.329, de 1º de março de 1968.
 
 Dispõe sôbre a retificação do enquadramento dos cargos em comissão de Reitor de Universidades Federais, e dá outras providências.

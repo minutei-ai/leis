@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210419)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/compilacao-lei.complementar-1418-26.12.2024.html)
 
 # LEI COMPLEMENTAR N° 1.418, DE 26 DE DEZEMBRO DE 2024

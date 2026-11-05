@@ -1,5 +1,3 @@
-###DEC-046040-0-000-18-05-1959@@@
-
 DECRETO Nº 46.040, de 18 DE MAIO DE 1959.
 
 Renova o decreto de pesquisa nº 40.287 de 5 novembro de 1956.

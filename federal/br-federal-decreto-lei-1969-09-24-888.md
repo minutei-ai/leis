@@ -1,5 +1,3 @@
-###DEL-000888-0-000-24-09-1969@@@
-
 decreto-LEI nº 888, DE 24 DE setemBRo DE 1969
 
 Autoriza o Distrito Federal a dar garantias em contrato de aval a ser firmado entre a Companhia de Telefones de Brasília - COTELB e o Banco do Brasil S.A. e dá outras providências.

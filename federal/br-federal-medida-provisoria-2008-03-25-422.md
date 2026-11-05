@@ -1,5 +1,3 @@
-###MPV-000422-0-000-25-03-2008@@@
-
 MEDIDA PROVISÓRIA Nº 422, DE 25 DE MARÇO DE 2008.
 
 Dá nova redação ao inciso II do § 2o-B do art. 17 da Lei no 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição, e institui normas para licitações e contratos da administração pública.
@@ -17,5 +15,3 @@ Brasília, 25 de março de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guilherme Cassel
-
-Este texto não substitui o publicado no DOU de 26.3.2008

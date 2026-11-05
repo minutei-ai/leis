@@ -1,5 +1,3 @@
-###DEC-055755-0-000-12-02-1965@@@
-
 Decreto nº 55.755, de 12 de fevereiro de 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

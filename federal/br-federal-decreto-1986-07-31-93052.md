@@ -1,5 +1,3 @@
-###DEC-093052-0-000-31-07-1986@@@
-
 DECRETO Nº 93.052, DE 31 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado ''Fazenda Vale do Juarí'', situado no Município de Colmeia, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

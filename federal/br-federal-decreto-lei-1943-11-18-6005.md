@@ -1,5 +1,3 @@
-###DEL-006005-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 6.005 – DE 18 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 5.000,00, verba que especifica

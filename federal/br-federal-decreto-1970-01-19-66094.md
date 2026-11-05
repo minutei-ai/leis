@@ -1,5 +1,3 @@
-###DEC-066094-0-000-19-01-1970@@@
-
 DECRETO Nº 66.094 - DE 19 DE JANEIRO DE 1970
 
 Aprova o Regulamento para a Diretoria-Geral de Comunicações e dá outras providências.

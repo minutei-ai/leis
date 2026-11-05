@@ -1,5 +1,3 @@
-###DEC-046674-0-000-18-08-1959@@@
-
 DECRETO Nº 46.674, DE 18 AGôSTO DE 1959.
 
 Autoriza o Govêrno do Estado de Sergipe a pesquisar sal-gema nos municípios de N. S. do Socorro e Laranjeiras, Estado de Sergipe.

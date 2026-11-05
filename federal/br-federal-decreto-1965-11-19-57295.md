@@ -1,5 +1,3 @@
-###DEC-057295-0-000-19-11-1965@@@
-
 DECRETO Nº 57.295, de 19 de novembro de 1965.
 
 Inclui os “óleos brancos e de transformador” no regime estatuído pelo Decreto nº 4.701, de 12 de maio de 1939.

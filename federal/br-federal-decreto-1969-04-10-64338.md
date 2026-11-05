@@ -1,5 +1,3 @@
-###DEC-064338-0-000-10-04-1969@@@
-
 DECRETO nº 64.338, DE 10 DE ABRIL DE 1969.
 
 Concede autorização a firma Sea Service, Inc., para operação em águas brasileiras, dos barcos especializados "M.V Blue Ship Service", de nacionalidade norte-americana, nos serviços que especifica.

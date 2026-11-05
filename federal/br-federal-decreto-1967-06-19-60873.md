@@ -1,5 +1,3 @@
-###DEC-060873-0-000-19-06-1967@@@
-
 DECRETO nº 60.873, DE 19 DE JUNHO DE 1967.
 
 Declara de utilidade pública o “Educandário Madre Regina” com sede em Araranguá, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-000256-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 256, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sobre a extinção da Autarquia Federal denominada Administração do Pôrto do Rio de Janeiro e autoriza a constituição da Cia. Docas do Rio de Janeiro, e dá outras providências.

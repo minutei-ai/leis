@@ -1,5 +1,3 @@
-###DEC-073795-0-000-11-03-1974@@@
-
 DECRETO Nº 73.795, DE 11 DE MARÇO DE 1974.
 
 Autoriza o Departamento Nacional de Estradas de Rodagem a executar obra não incluída no Plano Nacional de Viação.

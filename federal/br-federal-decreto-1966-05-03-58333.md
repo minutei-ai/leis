@@ -1,5 +1,3 @@
-###DEC-058333-0-000-03-05-1966@@@
-
 DECRETO Nº 58.333, DE 3 DE MAIO DE 1966.
 
 Concede à Companhia de Azulejo Comércio e Indústria de Alagoas (CACIA), autorização para funcionar como emprêsa de mineração.

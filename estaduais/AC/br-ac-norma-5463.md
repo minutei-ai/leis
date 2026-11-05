@@ -1,6 +1,10 @@
 > **LEI Nº 4.071, DE 26 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre penalidades administrativas às pessoas físicas ou jurídicas e agentes públicos que discriminem as pessoas com Transtorno de Espectro Autista - TEA, no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre penalidades administrativas às pessoas físicas ou jurídicas e agentes públicos que discriminem as pessoas com Transtorno de Espectro Autista - TEA, no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

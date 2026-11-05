@@ -1,5 +1,3 @@
-###DEC-006064-0-000-21-03-2007@@@
-
 DECRETO Nº 6.064, DE 21 DE MARÇO DE 2007.
 
 Reconhece como de interesse do Governo brasileiro a participação estrangeira, em até cem por cento, no capital social do Banco Pecúnia S.A, e dá outras providências.
@@ -19,5 +17,3 @@ Brasília, 21 de março de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 22.3.2007.

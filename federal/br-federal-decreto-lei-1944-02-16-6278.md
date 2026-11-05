@@ -1,5 +1,3 @@
-###DEL-006278-0-000-16-02-1944@@@
-
 DECRETO-LEI N. 6.278 – DE 16 DE FEVEREIRO DE 1944
 
 Isenta do impôsto de sêlo os atos de constituição da Companhia Nacional de Álcalis

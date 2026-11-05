@@ -1,5 +1,3 @@
-###DEL-004125-0-000-24-02-1942@@@
-
 DECRETO-LEI N. 4.125 – DE 24 DE FEVEREIRO DE 1942
 
 Eleva o prazo máximo fixado no art. 6º da Lei n. 454, de 9 de julho de 1937, para os empréstimos industriais concedidos pela Carteira de Crédito Agrícola e Industrial do Banco do Brasil

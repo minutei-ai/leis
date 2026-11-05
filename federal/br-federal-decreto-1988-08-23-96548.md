@@ -1,5 +1,3 @@
-###DEC-096548-0-000-23-08-1988@@@
-
 DECRETO N° 96.548, DE 23 DE AGOSTO DE 1988
 
 Outorga concessão à RÁDIO DIÁRIO DE PRESIDENTE PRUDENTE LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Presidente Pru­dente, Estado de São Paulo.

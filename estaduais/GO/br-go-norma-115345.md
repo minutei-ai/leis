@@ -16,30 +16,299 @@ RENATA LACERDA NOLETO
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 923.401,49</td><td style=" width:85px;    ">R$ 1.083.000,00</td><td style=" width:85px;    ">R$ 2.006.401,49</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>04 122 4200 4243</td><td>15010100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 923.401,49</td><td>R$ 1.083.000,00</td><td>R$ 2.006.401,49</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GAB. DA SECRETARIA GERAL DE GOVERNO</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO</td><td style=" width:85px;    ">15 451 1003 2606</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 14.183.409,57</td><td style=" width:85px;    ">R$ 14.755.961,01</td><td style=" width:85px;    ">R$ 28.939.370,58</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**4000 - SECRETARIA-GERAL DE GOVERNO** 4001 - GAB. DA SECRETARIA GERAL DE GOVERNO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO</td><td>15 451 1003 2606</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 14.183.409,57</td><td>R$ 14.755.961,01</td><td>R$ 28.939.370,58</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PARTICIPAÇÃO EM FEIRAS, EVENTOS E AÇÕES TURÍSTICAS</td><td style=" width:85px;    ">23 695 1028 2430</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 673.303,70</td><td style=" width:85px;    ">R$ 445.000,00</td><td style=" width:85px;    ">R$ 1.118.303,70</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>PARTICIPAÇÃO EM FEIRAS, EVENTOS E AÇÕES TURÍSTICAS</td><td>23 695 1028 2430</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 673.303,70</td><td>R$ 445.000,00</td><td>R$ 1.118.303,70</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 7.900.163,69</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 1.083.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 8.983.163,69</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.900.163,69
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 1.083.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 8.983.163,69
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">5 - INVERSÕES FINANCEIRAS</td><td style=" width:85px;    ">R$ 1.083.000,00</td><td style=" width:85px;    ">R$ 1.083.000,00</td><td style=" width:85px;    ">R$ 1.083.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>04 122 4200 4243</td><td>15010100</td><td>90</td><td>5 - INVERSÕES FINANCEIRAS</td><td>R$ 1.083.000,00</td><td>R$ 1.083.000,00</td><td>R$ 1.083.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GAB. DA SECRETARIA GERAL DE GOVERNO</td></tr></tbody></table>
+**4000 - SECRETARIA-GERAL DE GOVERNO**
+4001 - GAB. DA SECRETARIA GERAL DE GOVERNO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÃO DE SOLUÇÕES DE ECONOMIA E EFICIÊNCIA ENERGÉTICA</td><td style=" width:85px;    ">15 751 1029 3280</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 450.000,00</td><td style=" width:85px;    ">R$ 450.000,00</td></tr><tr><td style=" width:85px;    ">FOMENTO A ENERGIAS RENOVÁVEIS</td><td style=" width:85px;    ">15 751 1029 2610</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 40.000,00</td><td style=" width:85px;    ">R$ 40.000,00</td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DE INTERNET SEM FIO EM PONTOS TURÍSTICOS</td><td style=" width:85px;    ">15 451 1049 3345</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.401.632,44</td><td style=" width:85px;    ">R$ 1.401.632,44</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA DE SERVIÇOS RELATIVOS AO CONCEITO CIDADES INTELIGENTES</td><td style=" width:85px;    ">15 451 1003 2608</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 130.000,00</td><td style=" width:85px;    ">R$ 130.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DE SERVIÇOS DE INFRAESTRUTURA, CIDADES E TRANSPORTES</td><td style=" width:85px;    ">15 451 1003 2486</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 871.707,55</td><td style=" width:85px;    ">R$ 871.707,55</td></tr><tr><td style=" width:85px;    ">MODERNIZAÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS</td><td style=" width:85px;    ">19 126 1049 3283</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 231.975,78</td><td style=" width:85px;    ">R$ 231.975,78</td></tr><tr><td style=" width:85px;    ">MANUTENÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS</td><td style=" width:85px;    ">19 126 1049 2487</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.691.498,92</td><td style=" width:85px;    ">R$ 1.691.498,92</td></tr><tr><td style=" width:85px;  height:19px;   ">ESTIMULOS PARA EFICIENCIA ENERGÉTICA NO SETOR PRIVADO</td><td style=" width:85px;  height:19px;   ">15 751 1029 2609</td><td style=" width:85px;  height:19px;   ">15000100</td><td style=" width:85px;  height:19px;   ">90</td><td style=" width:85px;  height:19px;   ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;  height:19px;   ">R$ 0,00</td><td style=" width:85px;  height:19px;   ">R$ 25.000,00</td><td style=" width:85px;  height:19px;   ">R$ 25.000,00</td></tr><tr><td style=" width:85px;    ">PLANOS DE DESENVOLVIMENTO E ESTUDOS DE VIABILIDADE TÉCNICA, ECONÔMICA E AMBIENTAL</td><td style=" width:85px;    ">15 453 1003 3367</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.622.349,00</td><td style=" width:85px;    ">R$ 2.622.349,00</td></tr><tr><td style=" width:85px;    ">FOMENTO AO DESENVOLVIMENTO DE CIDADES INTELIGENTES EM GOIÁS</td><td style=" width:85px;    ">15 451 1003 2617</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 30.000,00</td><td style=" width:85px;    ">R$ 30.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA DE SERVIÇOS RELACIONADOS A TELECOMUNICAÇÕES</td><td style=" width:85px;    ">24 722 1049 2612</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 126.000,00</td><td style=" width:85px;    ">R$ 126.000,00</td></tr><tr><td style=" width:85px;    ">PROJETOS DE CIDADES INTELIGENTE VIA PARCERIAS PÚBLICO PRIVADAS - PPPS</td><td style=" width:85px;    ">15 451 1003 2607</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">INFRAESTRUTURA DE CIDADES INTELIGENTES</td><td style=" width:85px;    ">15 451 1003 3281</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO</td><td style=" width:85px;    ">15 451 1003 2606</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>1500 - CONTROLADORIA-GERAL DO ESTADO</b><br>1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">APRIMORAMENTO DO COMPLIANCE PÚBLICO</td><td style=" width:85px;    ">04 124 1047 2330</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 250.000,00</td><td style=" width:85px;    ">R$ 250.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 7.900.163,69</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 1.083.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 8.983.163,69</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 7.900.163,69</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 1.083.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 8.983.163,69</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+IMPLEMENTAÇÃO DE SOLUÇÕES DE ECONOMIA E EFICIÊNCIA ENERGÉTICA
+
+15 751 1029 3280
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 450.000,00
+
+R$ 450.000,00
+
+FOMENTO A ENERGIAS RENOVÁVEIS
+
+15 751 1029 2610
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 40.000,00
+
+R$ 40.000,00
+
+IMPLANTAÇÃO DE INTERNET SEM FIO EM PONTOS TURÍSTICOS
+
+15 451 1049 3345
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.401.632,44
+
+R$ 1.401.632,44
+
+GESTÃO DA INICIATIVA DE SERVIÇOS RELATIVOS AO CONCEITO CIDADES INTELIGENTES
+
+15 451 1003 2608
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 130.000,00
+
+R$ 130.000,00
+
+GESTÃO DE SERVIÇOS DE INFRAESTRUTURA, CIDADES E TRANSPORTES
+
+15 451 1003 2486
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 871.707,55
+
+R$ 871.707,55
+
+MODERNIZAÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS
+
+19 126 1049 3283
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 231.975,78
+
+R$ 231.975,78
+
+MANUTENÇÃO DE SOLUÇÕES DE TI DESENVOLVIDAS
+
+19 126 1049 2487
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.691.498,92
+
+R$ 1.691.498,92
+
+ESTIMULOS PARA EFICIENCIA ENERGÉTICA NO SETOR PRIVADO
+
+15 751 1029 2609
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 25.000,00
+
+R$ 25.000,00
+
+PLANOS DE DESENVOLVIMENTO E ESTUDOS DE VIABILIDADE TÉCNICA, ECONÔMICA E AMBIENTAL
+
+15 453 1003 3367
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 2.622.349,00
+
+R$ 2.622.349,00
+
+FOMENTO AO DESENVOLVIMENTO DE CIDADES INTELIGENTES EM GOIÁS
+
+15 451 1003 2617
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 30.000,00
+
+R$ 30.000,00
+
+GESTÃO DA INICIATIVA DE SERVIÇOS RELACIONADOS A TELECOMUNICAÇÕES
+
+24 722 1049 2612
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 126.000,00
+
+R$ 126.000,00
+
+PROJETOS DE CIDADES INTELIGENTE VIA PARCERIAS PÚBLICO PRIVADAS - PPPS
+
+15 451 1003 2607
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+INFRAESTRUTURA DE CIDADES INTELIGENTES
+
+15 451 1003 3281
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+INSTALAÇÃO DE CÂMERAS E SENSORES DE MONITORAMENTO
+
+15 451 1003 2606
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+<table><tbody><tr><td colspan="8">**1500 - CONTROLADORIA-GERAL DO ESTADO** 1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>APRIMORAMENTO DO COMPLIANCE PÚBLICO</td><td>04 124 1047 2330</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 250.000,00</td><td>R$ 250.000,00</td></tr></tbody></table>
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.900.163,69
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 1.083.000,00
+
+**TOTAL**
+
+R$ 8.983.163,69
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.900.163,69
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 1.083.000,00
+
+**TOTAL**
+
+R$ 8.983.163,69

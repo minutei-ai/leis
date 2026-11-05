@@ -1,5 +1,3 @@
-###DEC-002766-0-000-02-09-1998@@@
-
 DECRETO Nº 2.766, DE 2 DE SETEMBRO DE 1998
 
 Cria o Certificado Financeiro do Tesouro - CFT, definindo-lhe as características.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001472-0-000-28-04-1995@@@
-
 DECRETO Nº 1.472, DE 28 DE ABRIL DE 1995
 
 Dá nova redação ao caput do art. 13 do Decreto nº 1.303, de 8 de novembro de 1994.

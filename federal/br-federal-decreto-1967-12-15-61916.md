@@ -1,5 +1,3 @@
-###DEC-061916-0-000-15-12-1967@@@
-
 DECRETO Nº 61.916, DE 15 DE DEZEMBRO DE 1967.
 
 Autoriza o funcionamento do Curso de Ciências (1º ciclo) da Faculdade de Filosofia, Ciências e Letras do Sagrado Coração de Jesus, de Bauru - São Paulo.

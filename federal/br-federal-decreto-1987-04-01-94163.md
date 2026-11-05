@@ -1,5 +1,3 @@
-###DEC-094163-0-000-01-04-1987@@@
-
 DECRETO N° 94.163, DE 1° DE ABRIL DE 1987
 
 Dispõe sobre aumento do capital social da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

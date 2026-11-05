@@ -1,5 +1,3 @@
-###DEC-059430-0-000-27-10-1966@@@
-
 DECRETO Nº 59.430, DE 7 DE OUTUBRO DE 1966.
 
 Reforma o Decreto n° 53.982, de 25 de junho de 1964, e cria novos incentivos.

@@ -1,5 +1,3 @@
-###DEC-055951-0-000-20-04-1965@@@
-
 DECRETO Nº 55.951, DE 20 DE ABRIL DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Seguradora Brasileira, inclusive aumento do capital social.

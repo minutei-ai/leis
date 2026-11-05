@@ -1,5 +1,3 @@
-###DEC-047153-0-000-29-10-1959@@@
-
 DECRETO Nº 47.153, DE 29 DE agôsto DE 1959.
 
 Autoriza o Companhia Brasileira de Ligantes Hidráulicas a lavrar argila no Município de Macaé, Estado do Rio de Janeiro.

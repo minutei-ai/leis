@@ -1,5 +1,3 @@
-###DEC-074036-0-000-10-05-1974@@@
-
 DECRETO Nº 74.036, DE 10 DE MAIO DE 1974.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Contábeis de Itapetininga, mantida pela Associação de Ensino de Itapetininga, com sede na Cidade de Itapetininga, Estado de São Paulo.

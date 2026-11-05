@@ -1,5 +1,3 @@
-###DEC-045368-0-000-31-01-1959@@@
-
 Decreto nº 45.368, de 31 de janeiro de 1959.
 
 Suprime Cargos no Quadro III - Parte Suplementar - do Ministério da Viação e Obras Públicas.

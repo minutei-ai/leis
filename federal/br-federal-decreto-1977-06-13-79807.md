@@ -1,5 +1,3 @@
-###DEC-079807-0-000-13-06-1977@@@
-
 DECRETO Nº 79.807, DE 13 DE JUNHO DE 1977
 
 Extingue a Comissão Coordenadora do Projeto Aeroporto Internacional de Manaus (CCPAIM).

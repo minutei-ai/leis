@@ -1,5 +1,3 @@
-###DEC-048717-0-000-04-08-1960@@@
-
 DECRETO Nº 48.717, DE 4 AGÔSTO DE 1960.
 
 Cria cargos e funções gratificadas no quadro de Pessoal ao Instituto de Aposentadoria e pensões dos empregados em transportes e Cargos e dá outras providencias.

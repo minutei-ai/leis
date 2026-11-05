@@ -1,5 +1,3 @@
-###DEC-072571-0-000-02-08-1973@@@
-
 DeCRETO Nº 72.571, DE 2 DE AGOSTO DE 1973.
 
 Declara públicas, de uso comum, as águas dos cursos que específica.

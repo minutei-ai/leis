@@ -1,5 +1,3 @@
-###DEL-004999-0-000-26-11-1942@@@
-
 DECRETO-LEI N. 4.999 – DE 26 DE NOVEMBRO DE 1942
 
 Altera o previsto na alínea "l" do art. 254, da Consolidação das Leis das Alfândegas para as mercadorias em trânsito, depositadas em entreposto ou armazem alfandegado.

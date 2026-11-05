@@ -1,5 +1,3 @@
-###DEC-048140-0-000-25-04-1960@@@
-
 DECRETO Nº 48.140, DE 25 DE ABRIL DE 1960.
 
 Cria o 4º Pelotão de Manutenção de Apoio.

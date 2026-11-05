@@ -1,5 +1,3 @@
-###DEC-082553-0-000-01-11-1978@@@
-
 Decreto nº 82.553, de 01 de novembro de 1978.
 
 Declara sem efeito o Decreto nº 25.695, de 19 de outubro de 1948, retificado pelo Decreto nº 28.469, de 08 de agosto de 1950, que autorizou o cidadão brasileiro João Paulo de Vasconcelos a lavrar minério de ferro e associados no Município de Brumadinho, Estado de Minas Gerais.

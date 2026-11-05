@@ -1,5 +1,3 @@
-###DEL-006603-0-000-19-06-1944@@@ 
-
 DECRETO-LEI N. 6.603 – DE 19 DE JUNHO DE 1944
 
 Acrescenta dispositivos ao Decreto-lei nº 5.247, de 12 de fevereiro de 1943

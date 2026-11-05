@@ -1,5 +1,3 @@
-###DEC-096234-0-000-29-06-1988@@@
-
 DECRETO N° 96.234, DE 29 DE JUNHO DE 1988
 
 Prorroga o prazo da isenção do Imposto sobre Produtos Industrializados a que se refere a Lei n ° 7.613/87.

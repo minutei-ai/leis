@@ -1,5 +1,3 @@
-###DEC-061673-0-000-13-11-1967@@@
-
 Decreto nº 61.673, de 13 de novembro de 1967.
 
 Transfere para o Distrito Federal a Escola de Didática do Ensino Agrícola, criada pelo Decreto nº 59.057, de 11 de agôsto de 1966.

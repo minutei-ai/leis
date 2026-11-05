@@ -1,5 +1,3 @@
-###DEC-088388-0-000-14-06-1983@@@
-
 decreto nº 88.388, de 14 de junho de 1983.
 
 Declara de utilização pública, para fins de desapropriação, área de terra necessária à implantação da estação banco de capacitores Petroquímica União, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

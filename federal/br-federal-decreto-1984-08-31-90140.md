@@ -1,5 +1,3 @@
-###DEC-090140-0-000-31-08-1984@@@
-
 Decreto nº 90.140, de 31 de agosto de 1984
 
 Outorga concessão à RÁDIO REGIONAL DE DRACENA LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Dracena, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-058574-0-000-03-06-1966@@@
-
 DECRETo nº 58.574, DE 3 DE JUNHO DE 1966.
 
 Altera o Decreto nº 49.593, de 27 de dezembro de 1960, que aprova, em caráter provisório, a classificação das funções gratificadas do Serviço Civil do Poder Executivo e dá outras providências.

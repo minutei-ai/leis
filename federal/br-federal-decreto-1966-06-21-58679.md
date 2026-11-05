@@ -1,5 +1,3 @@
-###DEC-058679-0-000-21-06-1966@@@
-
 Decreto nº 58.679, de 21 de junho de 1966.
 
 Renova a declaração de utilidade pública a que se referem os Decretos números 32.217, de 4 de fevereiro de 1953, e 46.279, de 29 de junho de 1959, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Sertão de Baixo” no município de Major Izidoro, estado de Alagoas.

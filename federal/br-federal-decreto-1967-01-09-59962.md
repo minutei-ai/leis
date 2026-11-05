@@ -1,5 +1,3 @@
-###DEC-059962-0-000-09-01-1967@@@
-
 DECRETO Nº 59.962, DE 9 DE JANEIRO DE 1967.
 
 Reduz interstícios nos postos de Primeiro e Segundo Tenentes do QOA e do QOE.

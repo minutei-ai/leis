@@ -1,46 +1,44 @@
-###DEC-025648-0-000-11-10-1948@@@
+**DECRETO N. 25.648 – DE 11 DE OUTUBRO DE 1948**
 
-<strong>DECRETO N. 25.648 – DE 11 DE OUTUBRO DE 1948</strong>
-
-<em><strong>Aprova e manda executar o novo Regulamento para a Escola de Marinha Mercante do Rio de Janeiro.</strong></em>
+***Aprova e manda executar o novo Regulamento para a Escola de Marinha Mercante do Rio de Janeiro.***
 
 O Presidente da República usando das atribuições que lhe confere o artigo 87, inciso I da Constituição, resolve aprovar e mandar executar o Regulamento que a êste acompanha, para a Escola de Marinha Mercante do Rio de Janeiro, assinado pelo Almirante de Esquadra Silvio de Noronha, Ministro de Estado dos Negócios da Marinha.
 
 Rio de Janeiro, em 11 de outubro de 1948, 121º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Sylvio de Noronha.
 
-<h1 style="margin-top:6pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGULAMENTO PARA A ESCOLA DE MARINHA MERCANTE DO RIO DE JANEIRO</strong></span></span></h1>
+# **REGULAMENTO PARA A ESCOLA DE MARINHA MERCANTE DO RIO DE JANEIRO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA ESCOLA E SEUS FINS</em>
+*DA ESCOLA E SEUS FINS*
 
-<strong>Art.</strong> 1º A Escola de Marinha Mercante, criada pelo Decreto-lei número 1.766, de 10 de novembro de 1939, tem por fim preparar profissionais para a Marinha Mercante em geral, formando Capitães de Longo Curso, Capitães de Cabotagem, Primeiros e Segundos Pilôtos, Primeiros, Segundos e Terceiros Maquinistas-Motoristas e Primeiros e Segundo Comissários.
+**Art.** 1º A Escola de Marinha Mercante, criada pelo Decreto-lei número 1.766, de 10 de novembro de 1939, tem por fim preparar profissionais para a Marinha Mercante em geral, formando Capitães de Longo Curso, Capitães de Cabotagem, Primeiros e Segundos Pilôtos, Primeiros, Segundos e Terceiros Maquinistas-Motoristas e Primeiros e Segundo Comissários.
 
-<strong>Art.</strong> 2º A Escola será dirigida por um Conselho de Instrução presidido pelo Diretor do Lóide Brasileiro, e ficará, subordinada, na parte administrativa diretamente ao Ministro da Marinha, e no que diz respeito ao ensino à Diretoria da Marinha Mercante.
+**Art.** 2º A Escola será dirigida por um Conselho de Instrução presidido pelo Diretor do Lóide Brasileiro, e ficará, subordinada, na parte administrativa diretamente ao Ministro da Marinha, e no que diz respeito ao ensino à Diretoria da Marinha Mercante.
 
 § 1º O Conselho de Instrução compõe-se do Diretor do Lóide Brasileiro e mais três Membros nomeados pelo Ministro da Marinha.
 
 § 2º Um dos Membros do Conselho de Instrução, designado pelo Ministro da Marinha exercerá as funções executivas e será o Vice-Diretor da Escola.
 
-<strong>Art.</strong> 3º As Escola compreenderá os dois cursos seguintes:
+**Art.** 3º As Escola compreenderá os dois cursos seguintes:
 
 Curso de Especialização – Para os candidatos às Cartas de 2º Pilôto, 3º Maquinista-Motorista e 2º Comissário, início de carreira.
 
 Curso de Aperfeiçoamento – Destinado ao ensino para melhoria das Cartas já adquiridas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DO REGIME DOS CURSOS</em>
+*DO REGIME DOS CURSOS*
 
-<strong>Art.</strong> 4º O Curso de Especialização funcionará, sob regime de internato em navio ou navios do Lóide Brasileiro que, tanto quanto possível, deverão estar em plena atividade comercial.
+**Art.** 4º O Curso de Especialização funcionará, sob regime de internato em navio ou navios do Lóide Brasileiro que, tanto quanto possível, deverão estar em plena atividade comercial.
 
 Parágrafo único. Por ocasião dos exames, freqüência a oficinas ou em casos excepcionais, os alunos ficarão em regime de externato, de acôrdo com o estabelecido no Regimento Interno.
 
-<strong>Art.</strong> 5º O Curso de Especialização tem por objetivo a formação de:
+**Art.** 5º O Curso de Especialização tem por objetivo a formação de:
 
 a) Segundos Pilotos;
 
@@ -48,9 +46,9 @@ b) Terceiros Maquinistas-Motoristas;
 
 c) Segundos Comissários.
 
-<strong>Art.</strong> 6º Os cursos para Segundos Pilotos e para Terceiros Maquinistas-Motoristas serão dadas em dois anos letivos, e o para Segundo Comissário em um ano letivo.
+**Art.** 6º Os cursos para Segundos Pilotos e para Terceiros Maquinistas-Motoristas serão dadas em dois anos letivos, e o para Segundo Comissário em um ano letivo.
 
-<strong>Art.</strong> 7º As matérias que constituem o Curso de Especialização serão distribuídas da seguinte maneira:
+**Art.** 7º As matérias que constituem o Curso de Especialização serão distribuídas da seguinte maneira:
 
 a)      Curso para Segundo Pilôto 
 
@@ -66,7 +64,7 @@ a)      Curso para Segundo Pilôto 
 
 1ª aula – Arte Naval. Organização da Marinha Mercante Nacional, sua regulamentação. Noções de meteorologia.
 
-2ª aula – Noções sôbre: geradores de vapor, máquinas maritímas à vapor, motores a explosão e a combustão interna e eletricidade. Noções sôbre sistemas de comando do <em><strong>(ilégivel)</strong></em> e rêdes dos serviços gerais de bordo.
+2ª aula – Noções sôbre: geradores de vapor, máquinas maritímas à vapor, motores a explosão e a combustão interna e eletricidade. Noções sôbre sistemas de comando do ***(ilégivel)*** e rêdes dos serviços gerais de bordo.
 
 3ª aula – Navegação estimada. Praticagem de portos.
 
@@ -110,9 +108,9 @@ Estado complementar:
 
 3\) Prática de sinais para obter o Certificado.
 
-<strong>Art.</strong> 8º O Curso de Aperfeiçoamento funcionará sob o regime do externato, em terra, em dependência do Lóide Brasileiro, na Capital da República.
+**Art.** 8º O Curso de Aperfeiçoamento funcionará sob o regime do externato, em terra, em dependência do Lóide Brasileiro, na Capital da República.
 
-<strong>Art.</strong> 9º O Curso de Aperfeiçoamento ministrará o ensino para:
+**Art.** 9º O Curso de Aperfeiçoamento ministrará o ensino para:
 
 a) Primeiros pilotos:
 
@@ -126,9 +124,9 @@ e) Primeiros Comissários;
 
 Parágrafo único. A formação de Capitães de Cabotagem processar-se-á por meio de apresentação e justificação de uma Derrota, conforme o estabelecido pelo Regime Interno.
 
-<strong>Art.</strong> 10º A matrícula no Curso de Aperfeiçoamento não é obrigatória para melhoria de Carta, podendo os candidatos prestar os respectivos exames de acôrdo com o estabelecido no Capítulo V.
+**Art.** 10º A matrícula no Curso de Aperfeiçoamento não é obrigatória para melhoria de Carta, podendo os candidatos prestar os respectivos exames de acôrdo com o estabelecido no Capítulo V.
 
-<strong>Art.</strong> 11º As matérias que constituem o Curso de Aperfeiçoamento serão distribuídas da seguinte maneira:
+**Art.** 11º As matérias que constituem o Curso de Aperfeiçoamento serão distribuídas da seguinte maneira:
 
 a) Curso para Primeiro Pilôto.
 
@@ -178,37 +176,37 @@ e) Curso para Primeiro Comissário.
 
 4ª aula – Prática das línguas francesa e inglêsa.
 
-<strong>Art.</strong> 12. – Os alunos do Curso de Especialização ficarão obrigados a tomar parte dos exercícios de ginástica, natação e remo, que forem determinados, bem como a praticar nas manobras de condução de escaleres e lanchas e nos trabalhos de caldeiras, máquinas e motores nas embarcações miúdas e em tôdas as fainas de bordo, não só relativas ao serviço de leme como de conservação do navio.
+**Art.** 12. – Os alunos do Curso de Especialização ficarão obrigados a tomar parte dos exercícios de ginástica, natação e remo, que forem determinados, bem como a praticar nas manobras de condução de escaleres e lanchas e nos trabalhos de caldeiras, máquinas e motores nas embarcações miúdas e em tôdas as fainas de bordo, não só relativas ao serviço de leme como de conservação do navio.
 
 Parágrafo único – A Escola expedirá um Certificado de sinais aos alunos e aos oficiais de náutica, mediante provas que serão estabelecidas pelo Regimento Interno.
 
-<strong>Art.</strong> 13. O horário das aulas e exercícios em cada ano letivo será organizado pelo Conselho de Instrução, que atenderá às circunstâncias ocasionais, conciliando os interesses da Instrução com as possibilidades práticas do Lóide Brasileiro.
+**Art.** 13. O horário das aulas e exercícios em cada ano letivo será organizado pelo Conselho de Instrução, que atenderá às circunstâncias ocasionais, conciliando os interesses da Instrução com as possibilidades práticas do Lóide Brasileiro.
 
-<strong>Art.</strong> 14. Os alunos do curso para 3º Maquinista-Motorista para freqüentarem oficinas, poderão desembarcar durante o ano letivo, em períodos determinados ficando em regime de externato na conformidade da alínea b) do art. 7º.
+**Art.** 14. Os alunos do curso para 3º Maquinista-Motorista para freqüentarem oficinas, poderão desembarcar durante o ano letivo, em períodos determinados ficando em regime de externato na conformidade da alínea b) do art. 7º.
 
-<strong>Art.</strong> 15. Os alunos do curso para 2º Comissário que terminarem o ano letivo com aprovação em tôdas as disciplinas, continuarão alunos da Escola a fim de terminarem sua instrução hoteleira e fazerem um  estágio em navio de passageiros.
+**Art.** 15. Os alunos do curso para 2º Comissário que terminarem o ano letivo com aprovação em tôdas as disciplinas, continuarão alunos da Escola a fim de terminarem sua instrução hoteleira e fazerem um  estágio em navio de passageiros.
 
-<strong>Art.</strong> 16. A juízo do Conselho de Instrução, após os exames do ano letivo, os alunos do Curso de Especialização poderão ser embarcados ou  distribuídos por oficinas, para estágios, antes de receberem suas cartas.
+**Art.** 16. A juízo do Conselho de Instrução, após os exames do ano letivo, os alunos do Curso de Especialização poderão ser embarcados ou  distribuídos por oficinas, para estágios, antes de receberem suas cartas.
 
-<strong>Art.</strong> 17. Os programas das matérias constantes do plano de ensino serão organizados pela Escola e submetidos à apreciação e aprovação do Diretor Geral da Marinha Mercante.
+**Art.** 17. Os programas das matérias constantes do plano de ensino serão organizados pela Escola e submetidos à apreciação e aprovação do Diretor Geral da Marinha Mercante.
 
-<strong>Art.</strong> 18. Para o desenvolvimento dos programas de ensino das diferentes disciplinas, deverão os instrutores adotar livros textos, escritos em língua portuguesa, ou fornecer apostilas de suas aulas.
+**Art.** 18. Para o desenvolvimento dos programas de ensino das diferentes disciplinas, deverão os instrutores adotar livros textos, escritos em língua portuguesa, ou fornecer apostilas de suas aulas.
 
 Parágrafo único. Os livros texto de autoria dos Instrutores da Escola e que forem aprovados e adotados em caráter permanente, poderão ser premiados.
 
-<strong>Art.</strong> 19. As aulas do Curso de Especialização terão a duração de nove meses e as do de Aperfeiçoamento a de seis meses, começando, sempre que possível, aquelas em março e estas em junho.
+**Art.** 19. As aulas do Curso de Especialização terão a duração de nove meses e as do de Aperfeiçoamento a de seis meses, começando, sempre que possível, aquelas em março e estas em junho.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS MATRÍCULAS</em>
+*DAS MATRÍCULAS*
 
-<strong>Art.</strong> 20. As inscrições a matrícula serão abertas em janeiro para o Curso de Especialização e em março para o de Aperfeiçoamento.
+**Art.** 20. As inscrições a matrícula serão abertas em janeiro para o Curso de Especialização e em março para o de Aperfeiçoamento.
 
-<strong>Art.</strong> 21. O número de matrículas em cada Curso, serão fixado anualmente pelo Ministério da Marinha, por proposta da Diretoria da Marinha Mercante.
+**Art.** 21. O número de matrículas em cada Curso, serão fixado anualmente pelo Ministério da Marinha, por proposta da Diretoria da Marinha Mercante.
 
 Parágrafo único. O número de vagas anuais para Capitães de Cabotagem será fixado na mesma ocasião.
 
-<strong>Art.</strong> 22. As matrículas no Curso de Especialização serão preenchidas:
+**Art.** 22. As matrículas no Curso de Especialização serão preenchidas:
 
 a) no 2º ano, pelos repetentes, pelos alunos aprovados no 1º ano e pelos alunos dependentes de uma única matéria do 1º ano:
 
@@ -220,7 +218,7 @@ c) no 1º ano para o Curso de 3º Maquinista-Motorista, pelos repetentes e pelos
 
 § 2º Nenhum aluno poderá fazer o Curso de Especialização em mais de três anos letivos.
 
-<strong>Art.</strong> 23. A inscrição dos candidatos à matricula no Curso de Especialização far-se-á mediante requerimento do próprio, acompanhado de um retrato de 3x4 em e dos seguintes documentos:
+**Art.** 23. A inscrição dos candidatos à matricula no Curso de Especialização far-se-á mediante requerimento do próprio, acompanhado de um retrato de 3x4 em e dos seguintes documentos:
 
 a) Consentimento dos pais, autores ou juizes competentes em  documento com firma reconhecida por notário público, quando se tratar do candidato de menor idade;
 
@@ -238,11 +236,11 @@ diploma de artificie dos Cursos de Ensino Industrial Federal, equiparados ou rec
 
 Parágrafo único. Poderão ainda escrever-se candidatos ao Curso de 3º Maquinista-Motorista sem possuir os certificados constantes do nº 2 anterior, desde que apresentem atestado de terem freqüentado com aproveitamento, por dois anos no mínimo, como operário ou aprendiz oficinas mecânicas sujeitos porem a exames correspondentes, conforme fôr estabelecido pelo Regimento Interno.
 
-<strong>Art.</strong> 24. Nos requerimentos os candidatos deverão declarar: nome por extenso, nacionalidade, município, data de nascimento, estado civil, nomes dos pais, situação militar, residência e Curso que deseja seguir.
+**Art.** 24. Nos requerimentos os candidatos deverão declarar: nome por extenso, nacionalidade, município, data de nascimento, estado civil, nomes dos pais, situação militar, residência e Curso que deseja seguir.
 
 Parágrafo único. Os candidatos residentes fora da sede da Escola, poderão encaminhar seus requerimentos por intermédio de pessoa habilitada para tal fim.
 
-<strong>Art.</strong> 25. As vagas no 1º ano do Curso de Especialização para 3º Maquinista-Motorista, serão preenchidas:
+**Art.** 25. As vagas no 1º ano do Curso de Especialização para 3º Maquinista-Motorista, serão preenchidas:
 
 a) metade sem concurso pelos canditatos possuidores do Diploma a que se refere o nº 2 da alínea (ilegivel) do art. 23.
 
@@ -252,11 +250,11 @@ b) metade meditante concurso de admissão, pelos demais candidatos também espec
 
 § 2º Para caso de vagas em número impar, compete o maior número de vagas aos candidatos da alínea a.
 
-<strong>Art.</strong> 26. Após o concurso os candidatos habilitados serão submetidos à inspeção de saúde.
+**Art.** 26. Após o concurso os candidatos habilitados serão submetidos à inspeção de saúde.
 
-<strong>Art.</strong> 27. Não serão permitidas matrículas nem freqüência de alunos ouvintes em qualquer dos Cursos sem prestação de exames por candidatos não matriculados salvo nos casos previstos por êste Regulamento.
+**Art.** 27. Não serão permitidas matrículas nem freqüência de alunos ouvintes em qualquer dos Cursos sem prestação de exames por candidatos não matriculados salvo nos casos previstos por êste Regulamento.
 
-<strong>Art.</strong> 28. O Concurso de admissão a que se refere os artigos 22 e 25 será realizado separadamente, para cada Curso e constará de provas escritas das seguintes matérias:
+**Art.** 28. O Concurso de admissão a que se refere os artigos 22 e 25 será realizado separadamente, para cada Curso e constará de provas escritas das seguintes matérias:
 
 a) Para os Curso de 2º Pilôto e 3º Maquinista-Motorista:
 
@@ -286,9 +284,9 @@ b) atentado de coduta passado pela autoridade policial compentente com firma rec
 
 a) atestado de Ter sido vacinado com proveito há menos de um ano.
 
-<strong>Art.</strong> 29. Os alunos matriculados no Curso de Especialização serão matriculados no Curso de capitania dos Portos do Rio de Janeiro para fins de embarque, como Praticantes-alunos, conforme o Curso a que se destinarem.
+**Art.** 29. Os alunos matriculados no Curso de Especialização serão matriculados no Curso de capitania dos Portos do Rio de Janeiro para fins de embarque, como Praticantes-alunos, conforme o Curso a que se destinarem.
 
-<strong>Art.</strong> 30. As vagas no Curso de aperfeiçoamento serão preenchidas mediante requerimento pelos alunos que apresentarem a carta ou em categoria superior.
+**Art.** 30. As vagas no Curso de aperfeiçoamento serão preenchidas mediante requerimento pelos alunos que apresentarem a carta ou em categoria superior.
 
 § 1º Para efeito deste artigo só será computado como embarque o exercido após o candidato ter obtido o direito á respectiva carta.
 
@@ -298,13 +296,13 @@ a) atestado de Ter sido vacinado com proveito há menos de um ano.
 
 § 4º A Matrícula só será efetivada após aprovação em inspeção de saúde.
 
-<strong>Art.</strong> 31. Os candidatos indicados à matricula em  qualquer um dos curso que não se apresentarem à Escola no dia marcado nem justificarem as suas ausências dentro de oito dias serão substituídos pelos que se lhes seguirem na classificação.
+**Art.** 31. Os candidatos indicados à matricula em  qualquer um dos curso que não se apresentarem à Escola no dia marcado nem justificarem as suas ausências dentro de oito dias serão substituídos pelos que se lhes seguirem na classificação.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA PERDA E DA CONSEÇÃO DA MATRÍCULA</em>
+*DA PERDA E DA CONSEÇÃO DA MATRÍCULA*
 
-<strong>Art.</strong> 32. a perda da matrícula será motivada por:
+**Art.** 32. a perda da matrícula será motivada por:
 
 a) inaptidão fixica ulgada em inspeção de saúde:
 
@@ -334,11 +332,11 @@ c) para as alíneas f e g – no ano letivo seguinte;
 
 d) para a alínea h só com a autorização do Ministro da Marinha.
 
-<strong>Art.</strong> 33. As provas para apuração do aproveitamento dos alunos nas diversas disciplinas serão reunidas pela forma estabelecida no Regulamento Interno, e consistirão em exame oral ou prático em provas parciais durante o ano, sendo quatro provas parciais para o Curso de Especialização e três para o Curso de Aperfeiçoamento.
+**Art.** 33. As provas para apuração do aproveitamento dos alunos nas diversas disciplinas serão reunidas pela forma estabelecida no Regulamento Interno, e consistirão em exame oral ou prático em provas parciais durante o ano, sendo quatro provas parciais para o Curso de Especialização e três para o Curso de Aperfeiçoamento.
 
 Parágrafo único. Haverá uma 2º época de exames antes da abertura dos Cursos para os alunos e candidatos que tiverem sido reprovados na 1º época ou que a ela não tenham podido comparecer.
 
-<strong>Art.</strong> 34. O grau de aprovação do aluno em cada disciplina será dado pela fórmula;
+**Art.** 34. O grau de aprovação do aluno em cada disciplina será dado pela fórmula;
 
                                                              6M +  4E
 
@@ -352,7 +350,7 @@ onde G é o grau de aprovação, M a média anual e E o resultado do exame oral 
 
 § 2º O grau de aproveitamento em cada matéria do ano letivo deverá ser igual ou superior a 4 para o aluno ser considerado aprovado.
 
-<strong>Art.</strong> 35. A média anual será calculada para o Curso de Especialização pela fórmula:
+**Art.** 35. A média anual será calculada para o Curso de Especialização pela fórmula:
 
                                     A + B + 2C + 2D
 
@@ -362,15 +360,15 @@ onde G é o grau de aprovação, M a média anual e E o resultado do exame oral 
 
 e para o Curso de Aperfeiçoamento pela fórmula:
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DO PESSOAL ADMINISTRATIVO E O ENSINO</em>
+*DO PESSOAL ADMINISTRATIVO E O ENSINO*
 
-<strong>Art.</strong> 47. A Escola de Marinha Mercante deverá Ter para sua administração além do Conselho de Instrução do qual um dos Membros será Vice-Diretor da Escola, um secretário e demais pessoal administrativo de acordo com os dispositivos do Regimento Interno.
+**Art.** 47. A Escola de Marinha Mercante deverá Ter para sua administração além do Conselho de Instrução do qual um dos Membros será Vice-Diretor da Escola, um secretário e demais pessoal administrativo de acordo com os dispositivos do Regimento Interno.
 
-<strong>Art.</strong> 48. O pessoal de ensino da Escola compor-se-á de tantos Instrutores e Auxiliares quantos forem necessários ao ensino das diversas disciplinas podendo aqueles exercer mais de uma Instrutoria.
+**Art.** 48. O pessoal de ensino da Escola compor-se-á de tantos Instrutores e Auxiliares quantos forem necessários ao ensino das diversas disciplinas podendo aqueles exercer mais de uma Instrutoria.
 
-<strong>Art.</strong> 49. Cabe ao Conselho de Instrução:
+**Art.** 49. Cabe ao Conselho de Instrução:
 
 a) dirigir a Escola;
 
@@ -388,35 +386,35 @@ g) propor as alterações que se fizerem necessárias no Regimento Interno;
 
 h) designar os docentes que devam compor as mesas examinadoras para julgamento de provas e para exames orais ou práticos.
 
-<strong>Art.</strong> 50. As normas para as reuniões do Conselho de Instrução e as atribuições de seus Membros, do pessoal de ensino e demais pessoal administrativo serão fixadas no Regime Interno.
+**Art.** 50. As normas para as reuniões do Conselho de Instrução e as atribuições de seus Membros, do pessoal de ensino e demais pessoal administrativo serão fixadas no Regime Interno.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DO PROVIMENTO DOS CARGOS E REMUNERAÇÕES</em>
+*DO PROVIMENTO DOS CARGOS E REMUNERAÇÕES*
 
-<strong>Art.</strong> 51. Os cargos de Membro do Conselho de Instrução serão preenchidos por livre escolha do Ministro da Marinha, exceto o de Presidente do Conselho que será preenchido pela pessoa nomeada pelo Govêrno para Diretor-Presidente do Lóide Brasileiro.
+**Art.** 51. Os cargos de Membro do Conselho de Instrução serão preenchidos por livre escolha do Ministro da Marinha, exceto o de Presidente do Conselho que será preenchido pela pessoa nomeada pelo Govêrno para Diretor-Presidente do Lóide Brasileiro.
 
 Parágrafo único. O cargo de Vice-Diretor será preenchido por um dos Membros do Conselho de Instrução, designado pelo Ministro da Marinha.
 
-<strong>Art.</strong> 52. O cargo de Secretário será de nomeação do Ministro da Marinha mediante indicação do Conselho de Instrução.
+**Art.** 52. O cargo de Secretário será de nomeação do Ministro da Marinha mediante indicação do Conselho de Instrução.
 
-<strong>Art.</strong> 53. Os Instrutores serão propostos pelo Conselho de Instrução, e nomeados pelo Ministro da Marinha pelo prazo de dois anos, podendo ser reconduzidos nas mesmas condições e exonerados por conveniência da Escola.
+**Art.** 53. Os Instrutores serão propostos pelo Conselho de Instrução, e nomeados pelo Ministro da Marinha pelo prazo de dois anos, podendo ser reconduzidos nas mesmas condições e exonerados por conveniência da Escola.
 
 § 1º Os do Curso de Especialização serão de preferência Oficiais dos próprios navios onde funcione o Curso.
 
 § 2º Os do Curso de Aperfeiçoamento deverão ser Oficiais da Marinha Mercante, Oficiais da Marinha de Guerra da ativa, da reserva ou reformados e poderão ser civis especializados.
 
-<strong>Art.</strong> 54 Os Auxiliares de Ensino serão designados pelo Conselho de Instrução.
+**Art.** 54 Os Auxiliares de Ensino serão designados pelo Conselho de Instrução.
 
-<strong>Art.</strong> 55. Os membros do Conselho, com exceção do Presidente, e demais pessoal da Escola, receberão remuneração e gratificações arbitradas  anualmente, pelo Ministério da Marinha.
+**Art.** 55. Os membros do Conselho, com exceção do Presidente, e demais pessoal da Escola, receberão remuneração e gratificações arbitradas  anualmente, pelo Ministério da Marinha.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>DA SUBVENÇÃO</em>
+*DA SUBVENÇÃO*
 
-<strong>Art.</strong> 56. A Escola de Marinha Mercante receberá uma subvenção que constará do orçamento do Ministério da Marinha.
+**Art.** 56. A Escola de Marinha Mercante receberá uma subvenção que constará do orçamento do Ministério da Marinha.
 
-<strong>Art.</strong> 57. A subvenção será recebida, trimestralmente, pelo Secretário da Escola, e destina-se a:
+**Art.** 57. A subvenção será recebida, trimestralmente, pelo Secretário da Escola, e destina-se a:
 
 Manutenção dos alunos internos;
 
@@ -430,25 +428,25 @@ Despesas gerais com o material de ensino,
 
 Despesas de conservação da sede da Escola.
 
-<strong>Art.</strong> 58. A prestação de contas das despesas e adiantamentos à Escola será feita de acôrdo com as disposições legais existentes.
+**Art.** 58. A prestação de contas das despesas e adiantamentos à Escola será feita de acôrdo com as disposições legais existentes.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art.</strong> 59. Os alunos do Curso de Especialização usarão os uniformes que forem estabelecidos pelo Plano de Uniformes para o Pessoal da Marinha Mercante.
+**Art.** 59. Os alunos do Curso de Especialização usarão os uniformes que forem estabelecidos pelo Plano de Uniformes para o Pessoal da Marinha Mercante.
 
-<strong>Art.</strong> 60. Não será outorgada Carta conjunta de Maquinista Motorista a oficiais que não apresentem, no total de dois (2) anos de embarque, pelo menos seis (6) meses em qualquer das especialidades (máquinas a vapor ou motores).
+**Art.** 60. Não será outorgada Carta conjunta de Maquinista Motorista a oficiais que não apresentem, no total de dois (2) anos de embarque, pelo menos seis (6) meses em qualquer das especialidades (máquinas a vapor ou motores).
 
-<strong>Art.</strong> 61. Os alunos do Curso para 2º Maquinista-Motorista e os candidatos à melhoria de Carta para 2º Maquinista-Motorista na forma do art. 10, que tenham sido reprovados somente na 2ª aula ou que não tenham seis (6) meses de embarque em navio a motor receberão Carta de 2º Maquinista, a qual será substituída pela Carta conjunta quando preencherem êsses requisitos.
+**Art.** 61. Os alunos do Curso para 2º Maquinista-Motorista e os candidatos à melhoria de Carta para 2º Maquinista-Motorista na forma do art. 10, que tenham sido reprovados somente na 2ª aula ou que não tenham seis (6) meses de embarque em navio a motor receberão Carta de 2º Maquinista, a qual será substituída pela Carta conjunta quando preencherem êsses requisitos.
 
-<strong>Art.</strong> 62. Os alunos do Curso para 2º Maquinista-motorista e os candidatos à melhoria de Carta para 2º Maquinista-Motorista na forma do art. 10, que tenham sido reprovados sòmente na 3ª aula ou que não tenham seis (6) meses de embarque em navio a vapor receberão Carta de 2º Mo - onde A, B, C, e D são as notas obtidas nas provas parciais.
+**Art.** 62. Os alunos do Curso para 2º Maquinista-motorista e os candidatos à melhoria de Carta para 2º Maquinista-Motorista na forma do art. 10, que tenham sido reprovados sòmente na 3ª aula ou que não tenham seis (6) meses de embarque em navio a vapor receberão Carta de 2º Mo - onde A, B, C, e D são as notas obtidas nas provas parciais.
 
-M= <u>A+B+2C</u>
+M= A+B+2C
 
       4
 
-<strong>Art.</strong> 36. O julgamento das provas parciais será deito pelo Instrutor da disciplina e o exame oral ou prático será prestado perante bancas examinadoras compostas de três membros designados pelo Conselho de Instrução, das quais será membro nato o respectivo Instrutor.
+**Art.** 36. O julgamento das provas parciais será deito pelo Instrutor da disciplina e o exame oral ou prático será prestado perante bancas examinadoras compostas de três membros designados pelo Conselho de Instrução, das quais será membro nato o respectivo Instrutor.
 
 § 1º Das decisões de julgamento dos Instrutores nas provas parciais cabe recurso em primeira instância para o Conselho de Instrução e em última, para o Diretor Geral da Marinha Mercante.
 
@@ -458,47 +456,47 @@ M= <u>A+B+2C</u>
 
 § 4º O aluno que obtiver grau menor do que um e meio (1,5) na prova oral ou prática, será considerado reprovado, qualquer que tenha sido a sua nota final.
 
-<strong>Art.</strong> 37. As notas conferidas pelos examinadores ou pelos Instrutores serão expressas em números inteiros de 0 a 10.
+**Art.** 37. As notas conferidas pelos examinadores ou pelos Instrutores serão expressas em números inteiros de 0 a 10.
 
-<strong>Art.</strong> 38. O aluno que cursar o 2º ano do Curso de Especialização dependendo de uma só disciplina do 1º ano, poderá fazer os exames do 2º ano depois de aprovado na disciplina de que dependia e, reprovado nela, terá sua matrícula trancada.
+**Art.** 38. O aluno que cursar o 2º ano do Curso de Especialização dependendo de uma só disciplina do 1º ano, poderá fazer os exames do 2º ano depois de aprovado na disciplina de que dependia e, reprovado nela, terá sua matrícula trancada.
 
-<strong>Art.</strong> 39. O aluno do 2º ano do Curso de Especialização reprovado em uma das disciplinas, poderá embarcar durante o ano letivo e sem freqüência, inscrever-se a exames dessa disciplina nas épocas normais de exames de respectivo Curso, sujeitando-se à prova oral e escrita.
+**Art.** 39. O aluno do 2º ano do Curso de Especialização reprovado em uma das disciplinas, poderá embarcar durante o ano letivo e sem freqüência, inscrever-se a exames dessa disciplina nas épocas normais de exames de respectivo Curso, sujeitando-se à prova oral e escrita.
 
 Parágrafo único. Reprovado em duas épocas terá a matrícula trancada.
 
-<strong>Art.</strong> 40. O aluno do Curso de Aperfeiçoamento que fôr reprovado em mais de uma disciplina só poderá cursar novamente após o intervalo de um ano letivo, não sendo obrigado à freqüência e novas provas das disciplinas em que já tiver sido aprovado.
+**Art.** 40. O aluno do Curso de Aperfeiçoamento que fôr reprovado em mais de uma disciplina só poderá cursar novamente após o intervalo de um ano letivo, não sendo obrigado à freqüência e novas provas das disciplinas em que já tiver sido aprovado.
 
-<strong>Art.</strong> 41. O julgamento do aproveitamento dos alunos com referência aos arts. 15 e 16 competirá ao Conselho de Instrução e será estabelecido pelo Regimento Interno. O aluno, cujo aproveitamento fôr julgado eficiente, só poderá obter a Carta após novo estágio julgado aproveitável.
+**Art.** 41. O julgamento do aproveitamento dos alunos com referência aos arts. 15 e 16 competirá ao Conselho de Instrução e será estabelecido pelo Regimento Interno. O aluno, cujo aproveitamento fôr julgado eficiente, só poderá obter a Carta após novo estágio julgado aproveitável.
 
-<strong>Art.</strong> 42. Os exames para candidatos a que se refere o art. 10 serão realizados nas mesmas épocas dos exames para os alunos do Curso de Aperfeiçoamento mediante prova escrita e oral e de acôrdo com  o que estabelece o parágrafo único do art. 32.
+**Art.** 42. Os exames para candidatos a que se refere o art. 10 serão realizados nas mesmas épocas dos exames para os alunos do Curso de Aperfeiçoamento mediante prova escrita e oral e de acôrdo com  o que estabelece o parágrafo único do art. 32.
 
 § 1º As inscrições serão feitas de acôrdo com o estabelecido pelo artigo 30 devendo os 2ºs Pilotos apresentar uma Derrota conforme o estabelecido pelo Regimento Interno.
 
 § 2º Não poderão inscrever-se a êsses exames os alunos cujas matriculas tenham sido trancadas após a 2ª Prova Parcial.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS PENAS</em>
+*DAS PENAS*
 
-<strong>Art.</strong> 43. Além da pena de exclusão, que só poderão ser aplicada pelo Ministro da Marinha, os alunos estão sujeitos às penas disciplinares estabelecidas no Regimento Interno.
+**Art.** 43. Além da pena de exclusão, que só poderão ser aplicada pelo Ministro da Marinha, os alunos estão sujeitos às penas disciplinares estabelecidas no Regimento Interno.
 
 § 1º Os alunos do Curso de Especialização quando embarcado, ficam ainda sujeitas às  penas estabelecidas no Regulamento da Capitanias dos Portos para os tripulantes, com exceção da de desembarque.
 
 § 2º Nenhuma pena será aplicada antes de ter sido ouvido o transgressor.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
 DAS TAXAS
 
-<strong>Art.</strong> 44. Os diversos cursos da Escola da Marinha Marcante serão gratuitos, mas os alunos pagarão semanalmente uma taxa de Cr$ 75.00, destinada à renovação de material escolar de uso diário.
+**Art.** 44. Os diversos cursos da Escola da Marinha Marcante serão gratuitos, mas os alunos pagarão semanalmente uma taxa de Cr$ 75.00, destinada à renovação de material escolar de uso diário.
 
 Parágrafo único. Os candidatos a exames na forma do art. 10 pagarão a taxa de Cr$ 15,00 por matéria destinada as despesas com êsses exames.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DAS CARTAS</em>
+*DAS CARTAS*
 
-<strong>Art.</strong> 45. Ao aluno que terminar o Curso de Especialização obedecidas as disposições dos arts. 15 e 16 será conferida pela Diretoria da Marinha Mercante a respectiva Carta, mediante comunicação do Conselho de Instrução.
+**Art.** 45. Ao aluno que terminar o Curso de Especialização obedecidas as disposições dos arts. 15 e 16 será conferida pela Diretoria da Marinha Mercante a respectiva Carta, mediante comunicação do Conselho de Instrução.
 
 a) Ao aluno do  Curso de Aperfeiçoamento será conferida pela Diretoria da Marinha Mercante a nova Carts, em substituição à anterior, mediante comunicação do Conselho de Instrução.
 
@@ -508,25 +506,25 @@ c) Ao candidato a melhoria de Carta na forma do art. 10 que tiver sido aprovado 
 
 Parágrafo único. Estas Cartas deverão ser registradas na Escolas, antes de serem expedidas.
 
-<strong>Art.</strong> 46. Não serão outorgados Cartas de 1º Pilôtos, 2º Maquinista-Motorista e 1º Comissário a menores de 21 anos.
+**Art.** 46. Não serão outorgados Cartas de 1º Pilôtos, 2º Maquinista-Motorista e 1º Comissário a menores de 21 anos.
 
 torista, a qual será substituída pela Carta conjunta quando preencherem êsses requisitos.
 
-<strong>Art.</strong> 63. O pessoal administrativo ficará sujeito às penas disciplinares previstas no Regimento Interno.
+**Art.** 63. O pessoal administrativo ficará sujeito às penas disciplinares previstas no Regimento Interno.
 
-<strong>Art.</strong> 64. Tanto os docentes como os funcionários administrativos não gozam das regalias de funcionários públicos, para efeito algum.
+**Art.** 64. Tanto os docentes como os funcionários administrativos não gozam das regalias de funcionários públicos, para efeito algum.
 
-<strong>Art.</strong> 65. As disposições sôbre gratificações, descontos por faltas, licenças, etc., do pessoa da  Escola, serão reguladas pelo Regimento Interno.
+**Art.** 65. As disposições sôbre gratificações, descontos por faltas, licenças, etc., do pessoa da  Escola, serão reguladas pelo Regimento Interno.
 
-<strong>Art.</strong> 66. Os casos omissos e não previstos neste Regulamento serão resolvidos pelo Ministro da Marinha.
+**Art.** 66. Os casos omissos e não previstos neste Regulamento serão resolvidos pelo Ministro da Marinha.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art.</strong> 67. O Certificado de exame de 3ª série Ginasial, ou da  3ª série do Curso Comercial prestado de acôrdo com as leis anteriores às atuais leis dos ensinos Secundário e Comercial poderá substituir o exigido pelos ns. 1 e 2 da alínea d do art. 23 e o exigido pelo artigo 68.
+**Art.** 67. O Certificado de exame de 3ª série Ginasial, ou da  3ª série do Curso Comercial prestado de acôrdo com as leis anteriores às atuais leis dos ensinos Secundário e Comercial poderá substituir o exigido pelos ns. 1 e 2 da alínea d do art. 23 e o exigido pelo artigo 68.
 
-<strong>Art.</strong> 68. Os candidatos à matrícula no Curso de Aperfeiçoamento para 2º Maquinista-Motorista e os candidatos à melhoria de Carta para 2º Maquinista-Motorista na forma do art. 10, que não tiverem passado pelo Curso de Especialização, serão submetidos a  um exame de admissão.
+**Art.** 68. Os candidatos à matrícula no Curso de Aperfeiçoamento para 2º Maquinista-Motorista e os candidatos à melhoria de Carta para 2º Maquinista-Motorista na forma do art. 10, que não tiverem passado pelo Curso de Especialização, serão submetidos a  um exame de admissão.
 
 § 1º Êsses exames terão lugar duas vezes por ano, por ocasião da 1ª época dos exames do Curso de Especialização e da 2ª época do Curso de Aperfeiçoamento e serão realizados de acôrdo com disposições estabelecidas pelo Regimento Interno.
 
@@ -534,14 +532,14 @@ torista, a qual será substituída pela Carta conjunta quando preencherem êsses
 
 § 3º São também dispensados dos exames de admissão os candidatos que apresentarem certificado de licença ginasial ou comercial básico.
 
-<strong>Art.</strong> 69. Não será outorgada nenhuma Carta de oficial de náutica sem que o candidato possua o Certificado de Sinais a que se refere o parágrafo único do art.12, dêste Regulamento (Aviso nº 1.095, de 26-7-1945, do Ministério da Marinha).
+**Art.** 69. Não será outorgada nenhuma Carta de oficial de náutica sem que o candidato possua o Certificado de Sinais a que se refere o parágrafo único do art.12, dêste Regulamento (Aviso nº 1.095, de 26-7-1945, do Ministério da Marinha).
 
-<strong>Art.</strong> 70. Os Praticantes de Pilôto, Praticantes Maquinistas, Praticantes Motoristas e Praticantes Comissários com Carta (categoria em extinção), poderão obter a Carta respectiva de 2º Pilôto, 3º Maquinista-Motorista ou 2º Comissário sem se matricularem nem freqüentarem os Cursos regulares da Escola, prestando porém perante ela, nas épocas regulamentares, os mesmos exames com os mesmos programas e pontos que os alunos da Escola,  na forma do parágrafo único do art. 33.
+**Art.** 70. Os Praticantes de Pilôto, Praticantes Maquinistas, Praticantes Motoristas e Praticantes Comissários com Carta (categoria em extinção), poderão obter a Carta respectiva de 2º Pilôto, 3º Maquinista-Motorista ou 2º Comissário sem se matricularem nem freqüentarem os Cursos regulares da Escola, prestando porém perante ela, nas épocas regulamentares, os mesmos exames com os mesmos programas e pontos que os alunos da Escola,  na forma do parágrafo único do art. 33.
 
 Parágrafo único. Êsses candidatos ficam sujeitos ao estabelecido pelo art. 68 e seus parágrafos.
 
-<strong>Art.</strong> 71. Dentro de 30 dias será baixado novo Regimento Interno.
+**Art.** 71. Dentro de 30 dias será baixado novo Regimento Interno.
 
-<strong>Art.</strong> 72. Revogam-se as disposições em contrário.
+**Art.** 72. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 11 de outubro de 1948. – Sylvio de Noronha.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212670)<br>
-
 # LEI N° 18.471, DE 27 DE MAIO DE 2026
 
 ### _Revaloriza os pisos salariais mensais dos trabalhadores que especifica, instituídos pela Lei n° 12.640, de 11 de julho de 2007._

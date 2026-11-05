@@ -1,5 +1,3 @@
-###LEI-000000-0-000-29-08-1828@@@
-
 LEI - DE 29 DE AGOSTO DE 1828
 
 Estabelece regras para a construcção das obras publicas, que tiverem por objecto a navegação de rios, abertura de canaes, edificação de estradas, pontes, calcadas ou aqueductos.

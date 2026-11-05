@@ -1,5 +1,3 @@
-###DEC-050391-0-000-29-03-1961@@@
-
 DECRETO Nº 50.391, DE 29 DE MARÇO DE 1961.
 
 Reduz os vencimentos e vantagens do pessoal do Ministério da Fazenda em missão ou comissão no exterior e dá outras providências.

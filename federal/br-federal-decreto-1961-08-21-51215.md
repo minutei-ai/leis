@@ -1,5 +1,3 @@
-###DEC-051215-0-000-21-08-1961@@@
-
 DECRETO Nº 51.215 DE 21 DE AGÔSTO DE 1961.
 
 Estabelece normas para a educação musical nos jardins de Infância, nas escolas Pré-Primárias, Primárias, Secundarias e Normais, em todo o País.

@@ -1,5 +1,3 @@
-###DEC-001969-0-000-30-07-1996@@@
-
 DECRETO N° 1.969 ,DE 30 DE JULHO DE 1996.
 
 Prorroga prazo de remanejamento de cargos.

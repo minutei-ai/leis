@@ -1,5 +1,3 @@
-###MPV-000535-0-000-02-06-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 535, DE 2 DE JUNHO DE 2011
 
 Institui o Programa de Apoio à Conservação Ambiental e o Programa de Fomento às  Atividades Produtivas Rurais; altera a Lei nº 10.836, de 9 de janeiro de 2004, e dá outras providências.

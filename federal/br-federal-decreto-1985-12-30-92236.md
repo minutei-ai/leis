@@ -1,5 +1,3 @@
-###DEC-092236-0-000-30-12-1985@@@
-
 Decreto nº 92.236, de 30 DE DEZEMBRO DE 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Velha", compreendido na referida área, no Município de Catanduvas, no Estado de Santa Catarina, e dá outras providências.

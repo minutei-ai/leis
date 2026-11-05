@@ -1,5 +1,3 @@
-###DEL-006044-0-000-27-11-1943@@@
-
 DECRETO‑LEI N. 6.044 – DE 27 DE NOVEMBRO DE 1943
 
 Abre, ao Ministério da Educação e saúde, o crédito suplementar que especifica

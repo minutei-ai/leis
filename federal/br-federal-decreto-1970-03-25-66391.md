@@ -1,5 +1,3 @@
-###DEC-066391-0-000-25-03-1970@@@
-
 DECRETO Nº 66.391 - DE 25 DE MARÇO DE 1970
 
 Retifica Plano de Reestruturação da PUC, aprovado pelo Decreto nº 63.284-68.

@@ -1,5 +1,3 @@
-###DEC-049758-0-000-31-12-1960@@@
-
 DECRETO Nº 49.758, de 31 de dezembro DE 1960.
 
 Delega à R.F.F.S.A a administração da Estrada de Ferro Santa Catarina.

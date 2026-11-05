@@ -1,5 +1,3 @@
-###DEC-057697-0-000-02-02-1966@@@
-
 Decreto nº 57.697, de 2 de fevereiro de 1966.
 
 Abre, pelo Ministério da Fazenda o crédito especial de Cr$350.000.000, para atender às despesas que especifica.

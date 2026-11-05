@@ -1,5 +1,3 @@
-###DEC-091446-0-000-18-07-1985@@@
-
 Decreto nº 91.446 de 18 de julho de 1985.
 
 Autoriza o funcionamento do curso de Educação Artística da Escola Superior de Artes Santa Cecília.

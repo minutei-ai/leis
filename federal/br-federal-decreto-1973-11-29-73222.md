@@ -1,5 +1,3 @@
-###DEC-073222-0-000-29-11-1973@@@
-
 DECRETO Nº 73.222 - DE 29 DE NOVEMBRO DE 1973
 
 Altera o Decreto nº 57.941, de 10 de março de 1966, que cria, no Ministério da Aeronáutica, o curso de Formação de Oficiais Aviadores da Reserva de 2a Classe (CFOAR-2).

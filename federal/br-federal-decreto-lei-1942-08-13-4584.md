@@ -1,5 +1,3 @@
-###DEL-004584-0-000-13-08-1942@@@
-
 DECRETO-LEI N. 4.584 – DE 13 DE AGOSTO DE 1942
 
 Transfere gratuitamente ao Estado do Rio Grande do Sul, para fim de construção de grupo escolar, área de terreno nacional interior que menciona, situado na cidade de São Luiz Gonzaga, no mesmo Estado, e dá outras providências.

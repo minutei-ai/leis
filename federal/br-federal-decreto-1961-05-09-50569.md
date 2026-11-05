@@ -1,5 +1,3 @@
-###DEC-050569-0-000-09-05-1961@@@
-
 decreto nº 50.569, de 9 de maio de 1961.
 
 restabelece função na Tabela de Mensalistas do Serviço de Navegação da Bacia do Prata, e dá outras providências.

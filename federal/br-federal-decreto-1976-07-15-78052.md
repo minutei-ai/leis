@@ -1,5 +1,3 @@
-###DEC-078052-0-000-15-07-1976@@@
-
 DECRETO Nº 78.052, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de História, da Faculdade de Filosofia, Ciências e Letras de Cajazeiras, com sede na Cidade de Cajazeiras, Estado da Paraíba.

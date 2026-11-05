@@ -1,5 +1,3 @@
-###DEC-071976-0-000-21-03-1973@@@
-
 DECRETO Nº 71.976, DE 21 DE MARÇO DE 1973.
 
 Outorga a João Baptista concessão para o aproveitamento hidráulico de um trecho do rio Ubá, situado no Distrito de Acioli, município de Ibiraçu, Estado do Espírito Santo.

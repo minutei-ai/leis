@@ -1,5 +1,3 @@
-###DEC-087236-0-000-02-06-1982@@@
-
 Decreto nº 87.236, de 02 de junho de 1982.
 
 Promulga o Tratado de Amizade e Cooperação entre o Governo da República Federativa do Brasil e o Governo da República de Cabo Verde.

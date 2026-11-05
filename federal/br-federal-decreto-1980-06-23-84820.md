@@ -1,5 +1,3 @@
-###DEC-084820-0-000-23-06-1980@@@
-
 Decreto nº 84.820 de 23 de junho de 1980.
 
 Concede à PETROBRÁS Comércio Internacional S.A. - INTERBRÁS, autorização para proceder ao aumento do limite de seu capital social.

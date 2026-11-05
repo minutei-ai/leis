@@ -1,5 +1,3 @@
-###DEC-096047-0-000-18-05-1988@@@
-
 # DECRETO N° 96.047, DE 18 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA POÇÃO”, classificado como “latifúndio por exploração”, situado no Município de Sento Sé, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

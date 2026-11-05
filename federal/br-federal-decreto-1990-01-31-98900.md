@@ -1,7 +1,3 @@
-1
-
-###DEC-098900-0-000-31-01-1990@@@
-
 DECRETO Nº 98.900, DE 31 DE JANEIRO DE 1990
 
 Declara o valor do salário mínimo do mês de fevereiro de 1990, na forma da Lei nº 7.789, de 3 de julho de 1989.

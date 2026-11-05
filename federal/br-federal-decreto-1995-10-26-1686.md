@@ -1,7 +1,3 @@
-1
-
-###DEC-001686-0-000-26-10-1995@@@
-
 DECRETO Nº 1.686, DE 26 DE OUTUBRO DE 1995.
 
 Dispõe sobre o acervo patrimonial da extinta Fundação Legião Brasileira de Assistência, e dá outras providências.

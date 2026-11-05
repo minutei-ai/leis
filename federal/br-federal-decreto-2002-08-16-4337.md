@@ -1,5 +1,3 @@
-###DEC-004337-0-000-16-08-2002@@@
-
 DECRETO Nº 4.337, DE 16 DE AGOSTO DE 2002
 
 Regulamenta o disposto na Medida Provisória nº 61, de 16 de agosto de 2002, que dispõe sobre a assunção, pela União, de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras.

@@ -1,5 +1,3 @@
-###DEL-004199-0-000-25-03-1942@@@
-
 DECRETO-LEI N. 4.199 – DE 25 DE MARÇO DE 1942
 
 Aumenta o efetivo de soldados da Polícia Militar do Distrito Federal

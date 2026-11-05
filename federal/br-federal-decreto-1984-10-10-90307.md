@@ -1,5 +1,3 @@
-###DEC-090307-0-000-10-10-1984@@@
-
 DECRETO Nº 90.307, DE 10 DE OUTUBRO DE 1984
 
 Autoriza WALTER LEE REDGER, de nacionalidade norte-americana, a adquirir imóvel rural.

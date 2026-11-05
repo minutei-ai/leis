@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208139)<br>
-
 # DECRETO N° 67.724, DE 29 DE MAIO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas complementares necessárias à implantação de marginais no trecho entre os km 23+000m e 31+650m da Rodovia Castello Branco, SP-280, e dá providências correlatas._

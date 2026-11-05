@@ -1,5 +1,3 @@
-###DEC-007114-0-000-19-02-2010@@@
-
 DECRETO Nº 7.114, DE 19 DE FEVEREIRO DE 2010.
 
 Dá nova redação a dispositivos do Decreto nº 6.092, de 24 de abril de 2007, que regulamenta o Auxílio de Avaliação Educacional - AAE.
@@ -48,7 +46,105 @@ ANEXO
 
 TABELA DE VALORES DO AUXÍLIO DE AVALIAÇÃO EDUCACIONAL - AAE
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ATIVIDADE</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VALOR R$</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Visita de avaliação in loco de instituições e de cursos de graduação e pós-graduação, inclusive educação a distância</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 1.200,00</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Visita de avaliação in loco de cursos e pólos da Universidade Aberta do Brasil- UAB</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 400,00</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Elaboração de estudos, análises estatísticas ou relatórios científicos de avaliação</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 2.000,00</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Elaboração de estudos e relatórios científicos para subsídio e assessoramento no processo de avaliação de livros didáticos, dicionários, livros de literatura, periódicos, acervos complementares, obras teórico-metodológicas, tecnologias educacionais, produções intelectuais e técnicas e outros materiais didáticos.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 2.000,00</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Organização, divulgação e utilização estatística das informações produzidas nos processos de avaliação educacional.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 800,00</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Participação em sessão de Comissão de Especialistas, ou sessão de colegiado com atribuição de avaliação educacional.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 400,00 por dia de sessão</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Participação em oficinas de elaboração ou preparação de itens para avaliação de desempenho de estudantes.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 400,00 por dia de sessão</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Elaboração de itens de exames e questionários para avaliação de estudantes e professores da educação básica e de estudantes do ensino superior.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100,00 a 250,00 *</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Revisão linguística de itens de exames e questionários para avaliação de estudantes e professores da educação básica e de estudantes do ensino superior.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,00 a 100,00 *</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Revisão técnico-pedagógica de itens de exames e questionários para avaliação de estudantes e professores da educação básica e de estudantes do ensino superior.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100,00 a 150,00 *</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Correção de itens de provas discursivas ou de redação para avaliação de estudantes e professores da educação básica e de estudantes do ensino superior.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20,00 a 100,00 *</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades de assistência técnica às redes de ensino para o desenvolvimento de avaliações da educação básica.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 400,00 por dia de assistência</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Emissão de parecer técnico sobre livros didáticos e dicionários.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 2.000,00 por obra, lote</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">ou coleção **</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Emissão de parecer técnico de tecnologias educacionais.</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 1.300,00 por obra, lote</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">ou coleção**</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Emissão de parecer técnico sobre obras teórico-metodológicas.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 800,00 por obra, lote</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">ou coleção **</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Emissão de parecer técnico sobre livros de literatura e acervos complementares dos anos finais do ensino fundamental e ensino médio.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 400,00 por obra, lote</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">ou coleção **</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Emissão de parecer técnico sobre livros de literatura e acervos complementares da educação infantil e dos anos iniciais do ensino fundamental.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 300,00 por obra, lote</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">ou coleção **</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Emissão de parecer técnico de periódicos.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 200,00 por obra, lote</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">ou coleção **</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades de supervisão e coordenação dos processos de avaliação de livros didáticos, dicionários, tecnologias educacionais, livros de literatura, acervos complementares, de obras teórico-metodológicas, de periódicos e de projetos apresentados em concursos, prêmios ou olimpíadas promovidas ou apoiadas pelo Ministério da Educação.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150,00 a 500,00 *</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades de apoio pedagógico aos processos de avaliação de livros didáticos, dicionários, tecnologias educacionais, livros de literatura, acervos complementares, de obras teórico-metodológicas, de periódicos e de projetos apresentados em concursos, prêmios ou olimpíadas promovidas ou apoiadas pelo Ministério da Educação.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100,00 a 300,00 *</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Elaboração de estudos de avaliação ou emissão de parecer técnico dos requisitos de acessibilidade de livros didáticos e paradidático, dicionários, acervos complementares, tecnologias educacionais e outros materiais didáticos dirigidos ao público da educação especial.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 500,00 por obra, lote</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">ou coleção **</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade de coordenação e supervisão do processo de avaliação de planos de ações para desenvolvimento da educação básica.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 1.500,00 Por lote **</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade de assistência técnica, revisão e ou avaliação in loco de planos de ações para desenvolvimento da educação básica.</span></p></td><td style="width:158.07pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 800,00 por lote **</span></p></td></tr><tr><td style="width:283.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Análise e parecer prévio de planos de ações para desenvolvimento da educação básica.</span></p></td><td style="width:158.07pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 60,00 por plano</span></p></td></tr></tbody></table>
+ATIVIDADE
+
+VALOR R$
+
+Visita de avaliação in loco de instituições e de cursos de graduação e pós-graduação, inclusive educação a distância
+
+Até 1.200,00
+
+Visita de avaliação in loco de cursos e pólos da Universidade Aberta do Brasil- UAB
+
+Até 400,00
+
+Elaboração de estudos, análises estatísticas ou relatórios científicos de avaliação
+
+Até 2.000,00
+
+Elaboração de estudos e relatórios científicos para subsídio e assessoramento no processo de avaliação de livros didáticos, dicionários, livros de literatura, periódicos, acervos complementares, obras teórico-metodológicas, tecnologias educacionais, produções intelectuais e técnicas e outros materiais didáticos.
+
+Até 2.000,00
+
+Organização, divulgação e utilização estatística das informações produzidas nos processos de avaliação educacional.
+
+Até 800,00
+
+Participação em sessão de Comissão de Especialistas, ou sessão de colegiado com atribuição de avaliação educacional.
+
+Até 400,00 por dia de sessão
+
+Participação em oficinas de elaboração ou preparação de itens para avaliação de desempenho de estudantes.
+
+Até 400,00 por dia de sessão
+
+Elaboração de itens de exames e questionários para avaliação de estudantes e professores da educação básica e de estudantes do ensino superior.
+
+100,00 a 250,00 *
+
+Revisão linguística de itens de exames e questionários para avaliação de estudantes e professores da educação básica e de estudantes do ensino superior.
+
+50,00 a 100,00 *
+
+Revisão técnico-pedagógica de itens de exames e questionários para avaliação de estudantes e professores da educação básica e de estudantes do ensino superior.
+
+100,00 a 150,00 *
+
+Correção de itens de provas discursivas ou de redação para avaliação de estudantes e professores da educação básica e de estudantes do ensino superior.
+
+20,00 a 100,00 *
+
+Atividades de assistência técnica às redes de ensino para o desenvolvimento de avaliações da educação básica.
+
+Até 400,00 por dia de assistência
+
+Emissão de parecer técnico sobre livros didáticos e dicionários.
+
+Até 2.000,00 por obra, lote  ou coleção **
+
+Emissão de parecer técnico de tecnologias educacionais.
+
+Até 1.300,00 por obra, lote  ou coleção**
+
+Emissão de parecer técnico sobre obras teórico-metodológicas.
+
+Até 800,00 por obra, lote  ou coleção **
+
+Emissão de parecer técnico sobre livros de literatura e acervos complementares dos anos finais do ensino fundamental e ensino médio.
+
+Até 400,00 por obra, lote  ou coleção **
+
+Emissão de parecer técnico sobre livros de literatura e acervos complementares da educação infantil e dos anos iniciais do ensino fundamental.
+
+Até 300,00 por obra, lote  ou coleção **
+
+Emissão de parecer técnico de periódicos.
+
+Até 200,00 por obra, lote  ou coleção **
+
+Atividades de supervisão e coordenação dos processos de avaliação de livros didáticos, dicionários, tecnologias educacionais, livros de literatura, acervos complementares, de obras teórico-metodológicas, de periódicos e de projetos apresentados em concursos, prêmios ou olimpíadas promovidas ou apoiadas pelo Ministério da Educação.
+
+150,00 a 500,00 *
+
+Atividades de apoio pedagógico aos processos de avaliação de livros didáticos, dicionários, tecnologias educacionais, livros de literatura, acervos complementares, de obras teórico-metodológicas, de periódicos e de projetos apresentados em concursos, prêmios ou olimpíadas promovidas ou apoiadas pelo Ministério da Educação.
+
+100,00 a 300,00 *
+
+Elaboração de estudos de avaliação ou emissão de parecer técnico dos requisitos de acessibilidade de livros didáticos e paradidático, dicionários, acervos complementares, tecnologias educacionais e outros materiais didáticos dirigidos ao público da educação especial.
+
+Até 500,00 por obra, lote  ou coleção **
+
+Atividade de coordenação e supervisão do processo de avaliação de planos de ações para desenvolvimento da educação básica.
+
+Até 1.500,00 Por lote **
+
+Atividade de assistência técnica, revisão e ou avaliação in loco de planos de ações para desenvolvimento da educação básica.
+
+Até 800,00 por lote **
+
+Análise e parecer prévio de planos de ações para desenvolvimento da educação básica.
+
+Até 60,00 por plano
 
 \* Valor a ser fixado em função da natureza, complexidade e extensão da atividade e a critério da entidade demandante.
 

@@ -1,5 +1,3 @@
-###DEC-005471-0-000-20-06-2005@@@
-
 DECRETO Nº 5.471, DE 20 DE JUNHO DE 2005
 
 Dispõe sobre a execução do Vigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República da Bolívia, de 30 de dezembro de 2004.

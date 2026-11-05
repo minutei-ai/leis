@@ -1,6 +1,6 @@
 **LEI Nº 19.182, DE 5 DE JANEIRO DE 2026.**
 
-**Altera a [Lei nº 15.161, de 27 de novembro de 2013](https://legis.alepe.pe.gov.br/?lo151612013), que altera a estrutura organizacional e Administrativa da Assembleia Legislativa do Estado de Pernambuco; reajusta os percentuais que indica; e dá outras providências**<strong>.</strong>
+**Altera a [Lei nº 15.161, de 27 de novembro de 2013](https://legis.alepe.pe.gov.br/?lo151612013), que altera a estrutura organizacional e Administrativa da Assembleia Legislativa do Estado de Pernambuco; reajusta os percentuais que indica; e dá outras providências.**
 
 O PRESIDENTE EM EXERCÍCIO DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE PERNAMBUCO:
 
@@ -122,92 +122,9 @@ Art. 2º O Anexo único da [Lei nº 15.161, de 27 de novembro de 2013](https://l
 
 “SUPERINTENDÊNCIA DE AUTOGESTÃO EM SAÚDE
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="554" colspan="3" style="width:415.75pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:1.2pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Comissionados</span></p></td></tr><tr style="height:1.15pt"><td width="371" style="width:278.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:1.2pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cargo</span></p></td><td width="89" style="width:66.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:1.2pt;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Símbolo</span></p></td><td width="95" style="width:71.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:1.2pt;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Quantidade</span></p></td></tr><tr style="height:1.15pt"><td width="371" style="width:278.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:1.2pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Diretor Adjunto</span></p></td><td width="89" style="width:66.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:1.2pt;margin-bottom:
-  0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-SSC-1</span></p></td><td width="95" style="width:71.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:1.2pt;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:1.15pt"><td width="371" style="width:278.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:1.2pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessor Consultivo</span></p></td><td width="89" style="width:66.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:1.2pt;margin-bottom:
-  0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-CDP-2</span></p></td><td width="95" style="width:71.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:1.2pt;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> Comissionados </td></tr><tr><td> Cargo </td><td> Símbolo </td><td> Quantidade </td></tr><tr><td> Diretor Adjunto </td><td> PL-SSC-1 </td><td> 1 </td></tr><tr><td> Assessor Consultivo </td><td> PL-CDP-2 </td><td> 1 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="552" colspan="3" style="width:414.0pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.85pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Função Gratificada</span></p></td></tr><tr style="height:1.15pt"><td width="369" style="width:276.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-.85pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Função</span></p></td><td width="90" style="width:67.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.85pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Símbolo</span></p></td><td width="93" style="width:70.1pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.85pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Quantidade</span></p></td></tr><tr style="height:1.15pt"><td width="369" style="width:276.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-.85pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Diretor de Autogestão em Saúde</span></p></td><td width="90" style="width:67.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-.85pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-DGS-1</span></p></td><td width="93" style="width:70.1pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.85pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:1.15pt"><td width="369" style="width:276.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-.85pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Chefe de Departamento</span></p></td><td width="90" style="width:67.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-.85pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-CDP-2</span></p></td><td width="93" style="width:70.1pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.85pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4</span></p></td></tr><tr style="height:1.15pt"><td width="369" style="width:276.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-.85pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessoramento</span></p></td><td width="90" style="width:67.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-.85pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-ASS-2</span></p></td><td width="93" style="width:70.1pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.85pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> Função Gratificada </td></tr><tr><td> Função </td><td> Símbolo </td><td> Quantidade </td></tr><tr><td> Diretor de Autogestão em Saúde </td><td> PL-DGS-1 </td><td> 1 </td></tr><tr><td> Chefe de Departamento </td><td> PL-CDP-2 </td><td> 4 </td></tr><tr><td> Assessoramento </td><td> PL-ASS-2 </td><td> 4 </td></tr></tbody></table>
 
 ” (AC)
 
@@ -215,124 +132,9 @@ Art. 3º A tabela referente à Procuradoria Geral, constante do Anexo Único da 
 
 “PROCURADORIA GERAL
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="550" colspan="3" style="width:412.6pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Comissionados</span></p></td></tr><tr style="height:1.15pt"><td width="367" style="width:275.3pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Cargo</span></p></td><td width="92" style="width:69.3pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Símbolo</span></p></td><td width="91" style="width:68.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Quantidade</span></p></td></tr><tr style="height:1.15pt"><td width="367" style="width:275.3pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Procurador-Geral</span></p></td><td width="92" style="width:69.3pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-PGU-1</span></p></td><td width="91" style="width:68.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:1.15pt"><td width="367" style="width:275.3pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Chefe de Departamento</span></p></td><td width="92" style="width:69.3pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-CDP-2</span></p></td><td width="91" style="width:68.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:1.15pt"><td width="367" style="width:275.3pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Secretário Executivo</span></p></td><td width="92" style="width:69.3pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-ATE-1</span></p></td><td width="91" style="width:68.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:1.15pt"><td width="367" style="width:275.3pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessor adjunto</span></p></td><td width="92" style="width:69.3pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-ADJ</span></p></td><td width="91" style="width:68.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> Comissionados </td></tr><tr><td> Cargo </td><td> Símbolo </td><td> Quantidade </td></tr><tr><td> Procurador-Geral </td><td> PL-PGU-1 </td><td> 1 </td></tr><tr><td> Chefe de Departamento </td><td> PL-CDP-2 </td><td> 1 </td></tr><tr><td> Secretário Executivo </td><td> PL-ATE-1 </td><td> 1 </td></tr><tr><td> Assessor adjunto </td><td> PL-ADJ </td><td> 2 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="549" colspan="3" style="width:411.55pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Funções Gratificadas</span></p></td></tr><tr style="height:1.15pt"><td width="366" style="width:274.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Função</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Símbolo</span></p></td><td width="89" style="width:66.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Quantidade</span></p></td></tr><tr style="height:1.15pt"><td width="366" style="width:274.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Procurador-Geral Adjunto</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-PE-III</span></p></td><td width="89" style="width:66.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:1.15pt"><td width="366" style="width:274.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Procurador Chefe de Sistematização</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-PE-III</span></p></td><td width="89" style="width:66.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:1.15pt"><td width="366" style="width:274.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.05pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Procurador Chefe de Licitações, Contratos Administrativos e Previdência</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-PE-III</span></p></td><td width="89" style="width:66.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:1.15pt"><td width="366" style="width:274.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerente</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-FGE-1</span></p></td><td width="89" style="width:66.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">4</span></p></td></tr><tr style="height:1.15pt"><td width="366" style="width:274.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:.75pt .75pt .75pt .75pt;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessoramento</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-ASS-2</span></p></td><td width="89" style="width:66.8pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:1.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> Funções Gratificadas </td></tr><tr><td> Função </td><td> Símbolo </td><td> Quantidade </td></tr><tr><td> Procurador-Geral Adjunto </td><td> PL-PE-III </td><td> 1 </td></tr><tr><td> Procurador Chefe de Sistematização </td><td> PL-PE-III </td><td> 1 </td></tr><tr><td> Procurador Chefe de Licitações, Contratos Administrativos e Previdência </td><td> PL-PE-III </td><td> 1 </td></tr><tr><td> Gerente </td><td> PL-FGE-1 </td><td> 4 </td></tr><tr><td> Assessoramento </td><td> PL-ASS-2 </td><td> 3 </td></tr></tbody></table>
 
 ” (NR)
 

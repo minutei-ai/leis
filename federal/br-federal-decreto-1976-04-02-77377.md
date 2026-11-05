@@ -1,5 +1,3 @@
-###DEC-077377-0-000-02-04-1976@@@
-
 DECRETO Nº 77.377 - DE 2 DE ABRIL DE 1976
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Santa Catarina.

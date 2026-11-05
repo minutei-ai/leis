@@ -1,5 +1,3 @@
-###DEC-051019-0-000-24-07-1961@@@
-
 Decreto nº 51.019, de 24 e julho de 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 37.435, de 7 de junho de 1955, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Ingazeiras, no Município de Paulistana, Estado do Piauí.

@@ -1,5 +1,3 @@
-###DEC-089477-0-000-23-03-1984@@@
-
 Decreto nº 89.477, de 23 de março de 1984
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados no lugar denominado Cerro das Tropas - Municipio de Canguçu, Estado do Rio Grande do Sul.

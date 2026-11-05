@@ -1,5 +1,3 @@
-###MPV-001980-0-018\-04-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-18, DE 4 de maio DE 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004744-0-000-25-09-1942@@@
-
 DECRETO-LEI N. 4.744 – DE 25 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 5.000:000$0 destinado à execução do acordo celebrado entre os Governos Brasileiro e Norte-Americano, para o incremento da produção de gêneros alimentícios

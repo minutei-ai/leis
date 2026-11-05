@@ -1,5 +1,3 @@
-###DEC-074726-0-000-18-10-1974@@@
-
 DECRETO Nº 74.726, DE 18 de OUTUBRO DE 1974.
 
 Dispõe sobre a reclassificação, para a Categoria Direção Superior, do Quadro Permanente do Ministério do Exército, de cargo em comissão do mesmo Ministério.

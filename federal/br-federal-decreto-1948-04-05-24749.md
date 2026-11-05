@@ -1,38 +1,36 @@
-###DEC-024749-0-000-05-04-1948@@@
+**DECRETO Nº 24.749, DE 5 DE ABRIL DE 1948.**
 
-<strong>DECRETO Nº 24.749, DE 5 DE ABRIL DE 1948.</strong>
+***Aprova o Regulamento para o Serviço de Investigação de Acidentes Aeronáuticos.***
 
-<em><strong>Aprova o Regulamento para o Serviço de Investigação de Acidentes Aeronáuticos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para o Serviço de Investigação de Acidentes Aeronáuticos, que com êste baixa, assinado pelo Tenente Brigadeiro do Ar Armando Figueira Trompowsky de Almeida, Ministro da Aeronáutica.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para o Serviço de Investigação de Acidentes Aeronáuticos, que com êste baixa, assinado pelo Tenente Brigadeiro do Ar Armando Figueira Trompowsky de Almeida, Ministro da Aeronáutica.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 5 de abril de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Armando Trompowsky
 
-<strong>REGULAMENTO PARA O SERVIÇO DE INVESTIGAÇÃO DE ACIDENTES AERONÁUTICOS</strong>
+**REGULAMENTO PARA O SERVIÇO DE INVESTIGAÇÃO DE ACIDENTES AERONÁUTICOS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>OBJETIVO</em>
+*OBJETIVO*
 
-<strong>Art</strong>. 1º O Serviço de Investigação de Acidentes Aeronáuticos tem por objetivo elucidar o ocorrido e suas causas, constatar as consequências e tirar ensinamentos que permitam evitar os acidentes, quer com providências preventivas, quer por meio de medidas repressivas.
+**Art**. 1º O Serviço de Investigação de Acidentes Aeronáuticos tem por objetivo elucidar o ocorrido e suas causas, constatar as consequências e tirar ensinamentos que permitam evitar os acidentes, quer com providências preventivas, quer por meio de medidas repressivas.
 
-<strong>Art</strong>. 2º Quando houver indício de crime ou contravenção será instaurado Inquérito Policial Militar, paralela ou posteriormente à investigação do acidente a que se refere o presente regulamento.
+**Art**. 2º Quando houver indício de crime ou contravenção será instaurado Inquérito Policial Militar, paralela ou posteriormente à investigação do acidente a que se refere o presente regulamento.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DEFINIÇÕES</em>
+*DEFINIÇÕES*
 
-<strong>Art</strong>. 3º Para os efeitos dêste Regulamento - as ocorrências anormais verificadas com as aeronaves são assim definidas:
+**Art**. 3º Para os efeitos dêste Regulamento - as ocorrências anormais verificadas com as aeronaves são assim definidas:
 
 Acidente é a ocorrência que sobrevem à aeronave e da qual resultem danos materiais ou pessoais.
 
@@ -48,11 +46,11 @@ Parágrafo único. Os ferimentos graves a que se refere o art. 3º, são fratura
 
 Acidente leve é todo aquêle que não esteja capitulado como grave.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>ORGANIZAÇÃO DO SERVIÇO</em>
+*ORGANIZAÇÃO DO SERVIÇO*
 
-<strong>Art</strong>. 4º As investigações iniciais dos acidentes competem a órgãos locais ou regionais, como se segue:
+**Art**. 4º As investigações iniciais dos acidentes competem a órgãos locais ou regionais, como se segue:
 
 I - Nas Bases Aéreas, as Chefias de Informações serão encarregadas das investigações de acidentes e da apuração de suas causas, individualmente.
 
@@ -64,31 +62,31 @@ IV - Em cada Zona Aérea se constituirá uma Comissão de Acidentes incubida de 
 
 V - No território da 3ª Zona Aérea, idênticas comissões se constituirão nos órgãos de direção ou comando de Oficial General que tiverem unidades aéreas subordinadas, para proceder às investigações de acidentes graves de aeronaves a elas pertencentes, e ocorridos nesse território. Nesse caso, competirão aos Diretores ou Comandantes, as providências e os deveres que o presente regulamento prevê para os Comandantes de Zona Aérea.
 
-<strong>Art</strong>. 5º Os Encarregados de Acidentes e as Comissões de Acidentes organizarão Relatórios de cada investigação, os quais constituídos em Processos, serão remetidos, ao Estado Maior da Aeronáutica, pelos trâmites administrativos, e devidamente informados ou solucionados, como fôr o caso.
+**Art**. 5º Os Encarregados de Acidentes e as Comissões de Acidentes organizarão Relatórios de cada investigação, os quais constituídos em Processos, serão remetidos, ao Estado Maior da Aeronáutica, pelos trâmites administrativos, e devidamente informados ou solucionados, como fôr o caso.
 
-<strong>Art</strong>. 6º A Inspetoria do Estado Maior da Aeronáutica é o órgão encarregado de rever os relatórios de sugerir ao Chefe do Estado Maior da Aeronáutica as providências indicadas em cada caso, de proceder ao levantamento estatístico dos acidentes, de divulgar os ensinamentos obtidos e, em nome do Chefe do Estado Maior da Aeronáutica, de fazer as recomendações indicadas.
+**Art**. 6º A Inspetoria do Estado Maior da Aeronáutica é o órgão encarregado de rever os relatórios de sugerir ao Chefe do Estado Maior da Aeronáutica as providências indicadas em cada caso, de proceder ao levantamento estatístico dos acidentes, de divulgar os ensinamentos obtidos e, em nome do Chefe do Estado Maior da Aeronáutica, de fazer as recomendações indicadas.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DESIGNAÇÃO DOS ENCARREGADOS DAS INVESTIGAÇÕES</em>
+*DESIGNAÇÃO DOS ENCARREGADOS DAS INVESTIGAÇÕES*
 
-<strong>Art</strong>. 7º O Encarregado de Acidentes nas unidades será, no mínimo, do pôsto de Capitão e de patente, pelo menos superior ao do pilôto ou Comandante da aeronave acidentada, providência a tomar pelo Comandante da Unidade quando o oficial normalmente designado não satisfizer a essa condição.
+**Art**. 7º O Encarregado de Acidentes nas unidades será, no mínimo, do pôsto de Capitão e de patente, pelo menos superior ao do pilôto ou Comandante da aeronave acidentada, providência a tomar pelo Comandante da Unidade quando o oficial normalmente designado não satisfizer a essa condição.
 
-<strong>Art</strong>. 8º A designação dos membros das Comissões de Acidentes será feita em caráter permanente pelo Comandante da Zona, com participação ao Estado Maior da Aeronáutica. Uma vez designados, os oficiais permanecem no exercício desta função pelo menos por um ano, não podendo dela se afastar senão em casos de emergente necessidade de serviço.
+**Art**. 8º A designação dos membros das Comissões de Acidentes será feita em caráter permanente pelo Comandante da Zona, com participação ao Estado Maior da Aeronáutica. Uma vez designados, os oficiais permanecem no exercício desta função pelo menos por um ano, não podendo dela se afastar senão em casos de emergente necessidade de serviço.
 
-<strong>Art</strong>. 9º A substituição dêsses oficiais, dentro da orientação do artigo anterior, deverá recair em outros préviamente designados pelo Comandante da Zona, os quais, sem prejuízo de sua função normal, deverão procurar familiarizar-se com o serviço, seguindo o seu desenvolvimento. Cada componente da Comissão deverá ter, designado, seu substitutivo eventual
+**Art**. 9º A substituição dêsses oficiais, dentro da orientação do artigo anterior, deverá recair em outros préviamente designados pelo Comandante da Zona, os quais, sem prejuízo de sua função normal, deverão procurar familiarizar-se com o serviço, seguindo o seu desenvolvimento. Cada componente da Comissão deverá ter, designado, seu substitutivo eventual
 
-<strong>Art</strong>. 10º Quando houver inquérito a ser feito os oficiais da Comissão de Acidentes não podem exercer funções que, por sua natureza, ou pela necessidade de deslocamentos freqüentes, sejam incompatíveis com as de membros da Comissão.
+**Art**. 10º Quando houver inquérito a ser feito os oficiais da Comissão de Acidentes não podem exercer funções que, por sua natureza, ou pela necessidade de deslocamentos freqüentes, sejam incompatíveis com as de membros da Comissão.
 
 Parágrafo único - normalmente os serviços da Comissão têm procedência sobre quaisquer outros de natureza diferente.
 
-<strong>Art</strong>. 11 O presidente da Comissão será sempre um oficial superior, de patente, pelo menos, imediata ao do pilôto ou comandante da aeronave acidentada devendo o Comandante da Zona Aérea designar um oficial para presidir a Comissão, quando o Chefe da 2ª Seção não satisfizer essa condição.
+**Art**. 11 O presidente da Comissão será sempre um oficial superior, de patente, pelo menos, imediata ao do pilôto ou comandante da aeronave acidentada devendo o Comandante da Zona Aérea designar um oficial para presidir a Comissão, quando o Chefe da 2ª Seção não satisfizer essa condição.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>ATRIBUIÇÕES E DEVERES</em>
+*ATRIBUIÇÕES E DEVERES*
 
-<strong>Art</strong>. 12. Ao Comandante da aeronave acidentada ou, no seu impedimento, ao membro mais graduado da equipagem que não estiver incapacitado, compete:
+**Art**. 12. Ao Comandante da aeronave acidentada ou, no seu impedimento, ao membro mais graduado da equipagem que não estiver incapacitado, compete:
 
 a) fazer, pelo meio mais rápido, a comunicação do acidente à unidade mais próxima, de preferência militar, se a aeronave o fôr, fornecendo, se prossível, os seguintes elementos;
 
@@ -124,7 +122,7 @@ e) evitar que a aeronave avariada ou seus destroços sejam removidos ou tocados 
 
 f) exercer, pessoalmente, a guarda da aeronave acidentada ou de seus destroços em na impossibilidade, solicitá-la do mais próximo órgão da Aeronáutica, de unidade do Exército, das autoridades civis locais ou, na sua falta, de voluntários avulsos.
 
-<strong>Art</strong>. 13º Dentro de sua jurisdição, ao Comandante de Zona Aérea e aos Comandantes de Unidades, compete:
+**Art**. 13º Dentro de sua jurisdição, ao Comandante de Zona Aérea e aos Comandantes de Unidades, compete:
 
 a) superintender as atividades dos encarregados de investigação de acidentes, diligenciando para que não lhes faltem os meios necessários ao desempenho da sua missão;
 
@@ -134,7 +132,7 @@ c) impor as sanções disciplinares que se ajustarem aos responsáveis pelos aci
 
 d) remeter ao escalão superior os processos de acidentes solucionados, com as informações das medidas tomadas, para verificação, registro e remessa ao Estado Maior da Aeronáuica.
 
-<strong>Art</strong>. 14. A qualquer indivíduo, servidor civil ou militar do Ministério da Aeronáutica, ao ter conhecimento de um acidente da aeronave, cumpre:
+**Art**. 14. A qualquer indivíduo, servidor civil ou militar do Ministério da Aeronáutica, ao ter conhecimento de um acidente da aeronave, cumpre:
 
 a) comunicar ao Comandante da unidade mais próxima, todas as informações que tiver sôbre o acidente;
 
@@ -142,7 +140,7 @@ b) seguir para o local do acidente, si se encontrar nas proximidades;
 
 c) exercer as atribuições de Comandante da aeronave, prevista no artigo 12º, quando na sua tripulação não houver quem as possa desempenhar, e até que chegue o encarregado da investigação ou autoridade para substituí-lo nêsse mister.
 
-<strong>Art</strong>. 15 À unidade ou emprêsa civil a que pertencer a aeronave acidentada cumpre:
+**Art**. 15 À unidade ou emprêsa civil a que pertencer a aeronave acidentada cumpre:
 
 a) notificar pelo mais rápido e seguro meio de transmissão os parentes do pessoal vitimado, se o houver;
 
@@ -150,7 +148,7 @@ b) no caso de acidentes fatais, dar instruções quanto ao destino dos restos mo
 
 c) providenciar o transporte da aeronave acidentada e a do respectivo pessoal, ou dar destino útil aos destroços daquela, segundo instruções do Comandante da Zona em cujo território se verificou o acidente.
 
-<strong>Art</strong>. 16. Aos Encarregados de Acidentes das unidades e às Comissões de Acidentes, compete:
+**Art**. 16. Aos Encarregados de Acidentes das unidades e às Comissões de Acidentes, compete:
 
 a) munir-se dos meios adequados à averiguação e, dando conhecimento aos respectivos Comandantes, Chefe ou seus representantes, deslocar-se com presteza para o local a fim de evitar, que os indícios sejam alterados e impedir o deslocamento ou manipulação desnecessária dos destroços;
 
@@ -182,7 +180,7 @@ a) solicitar e manobrar o pessoal e material necessários ao desempenho de suas 
 
 b) prever roteiros para socorros, em casos eventuais de acidentes na sua jurisdição, sobre tudo quando se faça necessário o uso de meios não aeronáuticos, ou estranhos ao de sua unidade; cogitar da maneira de suprí-los.
 
-<strong>Art</strong>. 17. Ao Presidente da Comissão de Acidentes compete ainda:
+**Art**. 17. Ao Presidente da Comissão de Acidentes compete ainda:
 
 a) cuidar do expediente e ter sob sua guarda o arquivo da Comissão de Acidentes;
 
@@ -192,7 +190,7 @@ c) executar as primeiras medidas da alçada da Comissão de Acidentes, se as cir
 
 d) controlar e rever os relatórios de acidentes leves dos Encarregados de Acidentes e os remeter ao Comando de que depende para ulterior remessa ao Estado Maior da Aeronáutica.
 
-<strong>Art</strong>. 18. À Inspetoria do Estado Maior da Aeronáutica compete:
+**Art**. 18. À Inspetoria do Estado Maior da Aeronáutica compete:
 
 a) orientar os Encarregados de Acidentes das unidades e as Comissões de Acidentes, fazendo-os conhecer através de manuais ou instruções avulsas, os métodos mais indicados na conduta do serviço;
 
@@ -216,19 +214,19 @@ j) divulgar no interior da FAB os acidentes e as estatísticas a respeito;
 
 k) proceder recomendações de caráter geral e propor ao Chefe do Estado Maior da Aeronáutica as medidas específicas que devam ser tomadas.
 
-<strong>Art</strong>. 19. Das conclusões a que chegar a Inspetoria nas investigações procedidas sôbre acidentes ocorridos com Aeronaves estrangeiras no Brasil, providenciará o Estado Maior da Aeronáutica a remessa às autoridades da nacionalidade do aparêlho sinistrado.
+**Art**. 19. Das conclusões a que chegar a Inspetoria nas investigações procedidas sôbre acidentes ocorridos com Aeronaves estrangeiras no Brasil, providenciará o Estado Maior da Aeronáutica a remessa às autoridades da nacionalidade do aparêlho sinistrado.
 
-<strong>Art</strong>. 20. A Inspetoria promoverá junto ao Estado Maior da Aeronáutica os entendimentos e providências necessárias para que lhe sejam remetidas cópias das investigações feitas por autoridades estrangeiras relativamente a acidentes ocorridos com aeronaves brasileiras em sua jurisdição.
+**Art**. 20. A Inspetoria promoverá junto ao Estado Maior da Aeronáutica os entendimentos e providências necessárias para que lhe sejam remetidas cópias das investigações feitas por autoridades estrangeiras relativamente a acidentes ocorridos com aeronaves brasileiras em sua jurisdição.
 
-<strong>Art</strong>. 21. A Inspetoria fará um relato de cada investigação de acidente de aeronave, reconstituindo-o em suas diversas fases, sem discriminação das pessoas nele envolvidas, mencionando as consequências pessoais e materiais, inclusive danos a terceiros, as causas primordiais, infrações cometidas e penalidades impostas. Êsses relatos serão publicados em documento reservado e remetido aos diferentes Comandos da FAB e mais às emprêsas nacionais de aeronavegação e aos aéroclubes, quando se tratar de aeronaves civis.
+**Art**. 21. A Inspetoria fará um relato de cada investigação de acidente de aeronave, reconstituindo-o em suas diversas fases, sem discriminação das pessoas nele envolvidas, mencionando as consequências pessoais e materiais, inclusive danos a terceiros, as causas primordiais, infrações cometidas e penalidades impostas. Êsses relatos serão publicados em documento reservado e remetido aos diferentes Comandos da FAB e mais às emprêsas nacionais de aeronavegação e aos aéroclubes, quando se tratar de aeronaves civis.
 
-<strong>Art</strong>. 22. As estatísticas de acidentes serão igualmente divulgadas, em publicações sugestivas, sem discriminação de números concretos mas com indicações em porcentagens quanto à natureza dos acidentes, consequências para o material e pessoal e quanto às causas, ensinamentos a tirar e recomendações.
+**Art**. 22. As estatísticas de acidentes serão igualmente divulgadas, em publicações sugestivas, sem discriminação de números concretos mas com indicações em porcentagens quanto à natureza dos acidentes, consequências para o material e pessoal e quanto às causas, ensinamentos a tirar e recomendações.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>NORMAS PARA ORGANIZAÇÃO DOS RELATÓRIOS</em>
+*NORMAS PARA ORGANIZAÇÃO DOS RELATÓRIOS*
 
-<strong>Art</strong>. 23. Os relatórios deverão conter, em suas minúcias, o máximo de informações necessárias à elucidação do acidente. O formulário que se segue contém a relação dessas informações e constitui memento para o encarregado de investigação que, no entanto, não se deve a êle restringir quando surjam esclarecimentos outros julgados úteis.
+**Art**. 23. Os relatórios deverão conter, em suas minúcias, o máximo de informações necessárias à elucidação do acidente. O formulário que se segue contém a relação dessas informações e constitui memento para o encarregado de investigação que, no entanto, não se deve a êle restringir quando surjam esclarecimentos outros julgados úteis.
 
 I - Informações gerais:
 
@@ -416,7 +414,7 @@ XVII - Providências quanto à recuperação do material:
 
 declarar o estado do material às possibilidades de recuperação e as providências tomadas ou a tomar quanto à sua remoção.
 
-<strong>Art</strong>. 24. - Quando se tratar de acidente grave ou leve, ao processo em causa, será anexada uma Ficha Médica de Acidentes, da qual deverão constar os seguintes dados:
+**Art**. 24. - Quando se tratar de acidente grave ou leve, ao processo em causa, será anexada uma Ficha Médica de Acidentes, da qual deverão constar os seguintes dados:
 
 a) - zona encarregada da investigação;
 
@@ -498,31 +496,31 @@ q) - data;
 
 r) - assinatura e pôsto médico investigador;
 
-<strong>Art</strong>. 25 - Cinco vias da ficha médica de acidente serão anexadas às respectivas vias do relatório do acidente e uma 6ª via será encaminhada à Diretoria de Saúde da Aeronáutica.
+**Art**. 25 - Cinco vias da ficha médica de acidente serão anexadas às respectivas vias do relatório do acidente e uma 6ª via será encaminhada à Diretoria de Saúde da Aeronáutica.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 26 - É organizada na 3ª Divisão da Inspetoria do Estado Maior da Aeronáutica uma Seção encarregada dos assuntos relativos a acidentes aeronáuticos.
+**Art**. 26 - É organizada na 3ª Divisão da Inspetoria do Estado Maior da Aeronáutica uma Seção encarregada dos assuntos relativos a acidentes aeronáuticos.
 
-<strong>Art</strong>. 27 - As investigações e os processos relativos a acidentes aeronáuticos em qualquer fase de sua marcha têm, por natureza, caráter de urgência.
+**Art**. 27 - As investigações e os processos relativos a acidentes aeronáuticos em qualquer fase de sua marcha têm, por natureza, caráter de urgência.
 
-<strong>Art</strong>. 28 - Os Comandantes de Zona Aérea poderão avocar a si os trabalhos de investigação dos acidentes leves e o Chefe do Estado Maior da Aeronáutica os trabalhos de acidente de qualquer natureza, devendo cessar a ação dos oficiais normalmente dela encarregados, com a chegada dos designados por aquelas Autoridades, os quais receberão dos primeiros os elementos de apuração já colhidos.
+**Art**. 28 - Os Comandantes de Zona Aérea poderão avocar a si os trabalhos de investigação dos acidentes leves e o Chefe do Estado Maior da Aeronáutica os trabalhos de acidente de qualquer natureza, devendo cessar a ação dos oficiais normalmente dela encarregados, com a chegada dos designados por aquelas Autoridades, os quais receberão dos primeiros os elementos de apuração já colhidos.
 
-<strong>Art</strong>. 29 - Os acidentes ocorridos com aeronaves estrangeiras em território sob jurisdição brasileira serão investigados e analisados exatamente como se fôssem aeronaves nacionais.
+**Art**. 29 - Os acidentes ocorridos com aeronaves estrangeiras em território sob jurisdição brasileira serão investigados e analisados exatamente como se fôssem aeronaves nacionais.
 
 § 1º - Por solicitação da emprêsa ou govêrno a que pertença a aeronave, a Autoridade brasileira lhe poderá permitir a assistência ao processo, facilitando-lhe acompanhar as investigações.
 
 § 2º - A critério do Ministro da Aeronáutica. poderão as investigações ser procedidas por órgãos designados pelo govêrno a que pertença a aeronave.
 
-<strong>Art</strong>. 30 - Nos acidentes ocorridos com aeronaves brasileiras em território sob jurisdição estrangeira, os tripulantes não incapacitados deverão êles próprios fazer a necessária investigação, dentro da orientação dêste Regulamento, no que lhe fôr aplicável e possível.
+**Art**. 30 - Nos acidentes ocorridos com aeronaves brasileiras em território sob jurisdição estrangeira, os tripulantes não incapacitados deverão êles próprios fazer a necessária investigação, dentro da orientação dêste Regulamento, no que lhe fôr aplicável e possível.
 
 § 1º - Na hipótese de haver investigações pelas autoridades locais, os tripulantes não incapacitados deverão, acompanhá-la, facilitando a ação dessas autoridades.
 
 § 2º - Quando permitido pelas autoridades estrangeiras, as investigações poderão ser procedidas por pessoas ou órgão designado pelo Ministro.
 
-<strong>Art</strong>. 31 - A Emprêsa de aeronavegação nacional a que pertença a aeronave acidentada assistirá o direito de acompanhar as investigações sem prejuízo de sua marcha uma vês que apresente em tempo útil, seu representante.
+**Art**. 31 - A Emprêsa de aeronavegação nacional a que pertença a aeronave acidentada assistirá o direito de acompanhar as investigações sem prejuízo de sua marcha uma vês que apresente em tempo útil, seu representante.
 
 Artigo 32 - O Comandante de Zona Aérea fixará o território dentro do qual terá lugar a investigação dos acidentes a cargo de cada unidade de aviação que lhe é subordinada.
 
@@ -534,6 +532,6 @@ Artigo 35 - Êste Regulamento entrará em vigor na data de sua publicação, rev
 
 Rio de Janeiro, 5 de abril de 1948.
 
-<strong>TENENTE BRIGADEIRO DO AR,</strong>
+**TENENTE BRIGADEIRO DO AR,**
 
 Armando F. Trompowsky de Almeida.

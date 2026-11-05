@@ -1,5 +1,3 @@
-###DEL-007052-0-000-16-11-1944@@@
-
 DECRETO-LEI N. 7.052 – DE 16 DE NOVEMBRO DE 1944
 
 Dispõe sôbre a movimentação de oficiais generais e superiores das Fôrças Armadas

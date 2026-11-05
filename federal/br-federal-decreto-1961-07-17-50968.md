@@ -1,5 +1,3 @@
-###DEC-050968-0-000-17-07-1961@@@
-
 DECRETO Nº 50.968, DE 17 DE JULHO DE 1961.
 
 Autoriza o Ministério da Fazenda a pagar Cr$500.000.000,00 (quinhentos milhões de cruzeiros), ao IAPETC, cria Fundo Especial e dá outras providências.
@@ -56,11 +54,11 @@ e) constituição de “Fundo de Depreciação” compulsório.
 
 Art. 5º Para compensar o aumento voluntário do sinal e a redução do prazo do financiamento, bem como premiar a exação no cumprimento das obrigações, a regulamentação dêste decreto preverá reduções cumulativas de 2% a.a. dos juros cobrados:
 
-I <del style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">–</span></del><ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><del style="color:#2e97d3; -aw-revision-author:'Tecnologia da Informacao'; -aw-revision-datetime:'2000-04-27T15:14:00'"><span style="font-size:1.2em">-</span></del></ins> para aumento de 10% no valor do sinal, até sua fixação em 40%;
+I ~~–~~<ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'">~~-~~</ins> para aumento de 10% no valor do sinal, até sua fixação em 40%;
 
-II <del style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">–</span></del><ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">-</span></ins> para reduções de 12 meses, até o prazo mínimo de um ano;
+II ~~–~~<ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'">-</ins> para reduções de 12 meses, até o prazo mínimo de um ano;
 
-III <del style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">–</span></del><ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">-</span></ins> para a finalização do contrato sem atraso das prestações e descumprimento de qualquer cláusula contratual.
+III ~~–~~<ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'">-</ins> para a finalização do contrato sem atraso das prestações e descumprimento de qualquer cláusula contratual.
 
 Art. 6º O Serviço de Economia Rural do Ministério da Agricultura planejará no prazo de 60 dias, contados da data da publicação dêste decreto, a criação de Cooperativas de Motoristas Profissionais, segurados do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas, destinadas a promover, em tôdas as regiões do País, o agenciamento do transporte de cargas.
 
@@ -78,16 +76,16 @@ Art. 8º A tôdas as operações feitas como decorrência dêste decreto, aplica
 
 Art. 9º Com a eventual extinção do Fundo especial, o resultado líquido das operações reverterá ao Patrimônio do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas.
 
-Art. 10. <ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">E</span></ins>ste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Art. 10. <ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'">E</ins>ste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-Brasília<ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">,</span></ins><del style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em; -aw-import:spaces">&nbsp;</span><span style="font-size:1.2em">–</span></del> D.F., em 17 de julho de 1961, 140º da independência e 73º da República.
+Brasília<ins style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'">,</ins>~~&nbsp;–~~ D.F., em 17 de julho de 1961, 140º da independência e 73º da República.
 
 JÂNIO QUADROS
 
 Clemente Mariani
 
-Castro Neves<del style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">.</span></del>
+Castro Neves~~.~~
 
-Romero Costa<del style="color:#b5082e; -aw-revision-author:'CompLine'; -aw-revision-datetime:'2000-04-14T08:42:00'"><span style="font-size:1.2em">.</span></del>
+Romero Costa~~.~~
 
 Arthur Bernardes Filho

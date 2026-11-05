@@ -1,5 +1,3 @@
-###DEC-075297-0-000-27-01-1975@@@
-
 DECRETO Nº 75.297, DE 27 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento do curso de Processamento de Dados da Faculdade de Ciências Econômicas de Blumenau, mantida pela Fundação Educacional de Blumenau - FURB - Estado de Santa Catarina.

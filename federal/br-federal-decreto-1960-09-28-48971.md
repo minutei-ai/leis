@@ -1,5 +1,3 @@
-###DEC-048971-0-000-28-09-1960@@@
-
 DECRETO Nº 48.971, DE 28 DE SETEMBRO DE 1960.
 
 Declara de utilidade pública uma faixa de terra destinada à passagem de linha de transmissão da Companhia Nacional de Energia Elétrica, entre à Usina do Salto do Avanhadava e a subestação de Catanduva município do mesmo nome, passando pela sede do município de Urupês, no Estado de São Paulo.

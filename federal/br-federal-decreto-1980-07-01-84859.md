@@ -1,5 +1,3 @@
-###DEC-084859-0-000-01-07-1980@@@
-
 DECRETO Nº 84.859, DE 01 DE JULHO DE 1980.
 
 Autoriza o funcionamento dos cursos de Química e de Matemática da Faculdade de ciências e de Tecnologia Santa Cecília, em Santos, São Paulo.

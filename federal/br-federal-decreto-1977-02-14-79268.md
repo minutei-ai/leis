@@ -1,5 +1,3 @@
-###DEC-079268-0-000-14-02-1977@@@
-
 DECRETO Nº 79.268, DE 14 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Administração Hospitalar, da Faculdade de Administração, com sede na Cidade de São Paulo, Estado de São Paulo.

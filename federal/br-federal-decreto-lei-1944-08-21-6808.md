@@ -1,5 +1,3 @@
-###DEL-006808-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.808 – DE 21 DE AGÔSTO DE 1944
 
 Dispõe sôbre a publicação de editais de citação e de praça nas execuções dos julgados da extinta organização administrativa do trabalho

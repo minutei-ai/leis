@@ -1,5 +1,3 @@
-###DEC-048872-0-000-24-08-1960@@@
-
 DECRETO Nº 48.872, DE 24 DE AGÔSTO DE 1960.
 
 Constitui um Grupo de Trabalho para estudos de medidas necessárias à ampliação da Campanhia de Clubes Agrícolas e dá outras providências.

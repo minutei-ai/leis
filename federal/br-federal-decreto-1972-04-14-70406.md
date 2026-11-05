@@ -1,5 +1,3 @@
-###DEC-070406-0-000-14-04-1972@@@
-
 DECRETO Nº 70.406, DE 14 DE ABRIL DE 1972.
 
 Retifica redistribuição de cargos, com os respectivos ocupantes, efetuada para os Ministérios da Educação e Cultura e da Marinha, e dá outras providências.

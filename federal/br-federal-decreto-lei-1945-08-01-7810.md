@@ -1,5 +1,3 @@
-###DEL-007810-0-000-01-08-1945@@@
-
 DECRETO-LEI N. 7.810 – DE 1 DE AGÔSTO DE 1945
 
 Altera dispositivos do Decreto-lei número 6.144, de 29 de dezembro de 1943, e dá outras providências.

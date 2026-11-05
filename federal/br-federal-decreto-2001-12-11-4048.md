@@ -1,5 +1,3 @@
-###DEC-004048-0-000-11-12-2001@@@
-
 DECRETO Nº 4.048, DE 11 DE DEZEMBRO DE 2001.
 
 Altera a composição do Conselho Deliberativo do Fundo Nacional de Desenvolvimento da Educação - FNDE.

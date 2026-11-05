@@ -1,5 +1,3 @@
-###DEC-071957-0-000-20-03-1973@@@
-
 decreto nº 71.957, de 20 de março de 1973
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à instalação de uma subestação no Município de Araucária, no Estado do Paraná.

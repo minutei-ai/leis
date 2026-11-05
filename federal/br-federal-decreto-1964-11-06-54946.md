@@ -1,5 +1,3 @@
-###DEC-054946-0-000-06-11-1964@@@
-
 decreto nº 54.946, de 6 de novembro de 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Município de Aguai, Estado de São Paulo.

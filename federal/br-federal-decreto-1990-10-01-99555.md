@@ -1,5 +1,3 @@
-###DEC-099555-0-000-01-10-1990@@@
-
 DECRETO N° 99.555, DE 1° DE OUTUBRO DE 1990
 
 Regulamenta o art. 1° da Lei n° 7.921 de 12 de dezembro de 1989, que estipula o valor dos direitos a serem pagos às associações desportivas pelo uso de suas denominações e símbolos na Loteria Esportiva Federal.

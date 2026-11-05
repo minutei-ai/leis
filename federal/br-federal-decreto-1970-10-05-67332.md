@@ -1,5 +1,3 @@
-###DEC-067332-0-000-05-10-1970@@@
-
 DECRETO Nº 67.332, DE 5 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 12.759 de 30 de junho de 1943, retificado pelo nº 45.538 de 5 de março de 1959.

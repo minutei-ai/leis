@@ -1,5 +1,3 @@
-###DEC-049739-0-000-31-12-1960@@@
-
 decreto nº 49.739, de 31 de dezembro de 1960.
 
 Outorga à Prefeitura Municipal de Piedade do Rio Grande concessão para o aproveitamento de energia hidráulica da Cachoeira de Cima, no curso d’água denominado Capivari, na divisa dos municípios de Andrelândia e Lima Duarte, Estado de Minas Gerais.

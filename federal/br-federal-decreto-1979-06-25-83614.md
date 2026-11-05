@@ -1,5 +1,3 @@
-###DEC-083614-0-000-25-06-1979@@@
-
 DECRETO Nº 83.614, DE 25 DE JUNHO DE 1979.
 
 Altera dispositivos do Decreto nº 81.053, de 19 de dezembro de 1977, que regulamenta a transferência e a movimentação dos servidores públicos civis da União e de suas autarquias.

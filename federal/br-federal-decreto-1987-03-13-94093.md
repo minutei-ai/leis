@@ -1,5 +1,3 @@
-###DEC-094093-0-000-13-03-1987@@@
-
 DECRETO N° 94.093, DE 13 DE MARÇO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS - imóveis constituídos de terras e benfeitorias que menciona.

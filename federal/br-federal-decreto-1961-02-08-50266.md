@@ -1,5 +1,3 @@
-###DEC-050266-0-000-08-02-1961@@@
-
 decreto nº 50.266, de 08 de fevereiro de 1961.
 
 Altera o Regulamento da profissão Economista.

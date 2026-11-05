@@ -1,5 +1,3 @@
-###DEC-053046-0-000-02-12-1963@@@
-
 DECRETO Nº 53.046, DE 2 DE DEZEMBRO DE 1963.
 
 Promulga o Acôrdo de Comércio, pagamentos e Cooperação Econômica Brasil-Hungria.
@@ -317,8 +315,6 @@ LISTA “B”
 29\. Diamante industrial.
 
 30\. Óleos vegetais (rícinos, linhos e outros).
-
-###DEC-053046-0-000-02-12-1963@@@RET01+++
 
 Decreto Nº 53.046, DE 2 DE Dezembro DE 1963.
 

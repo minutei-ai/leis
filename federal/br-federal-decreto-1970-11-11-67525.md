@@ -1,5 +1,3 @@
-###DEC-067525-0-000-11-11-1970@@@
-
 DECRETO Nº 67.525, DE 11 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública a Associação Beneficente Católica, com sede em Ubá, Estado de Minas Gerais.

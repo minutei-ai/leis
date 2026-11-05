@@ -1,5 +1,3 @@
-###DEC-076862-0-000-17-12-1975@@@
-
 DECRETO Nº 76.862, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Econômicas, de Ciências, Contábeis e de Administração da Faculdade de Ciências Econômicas, Administrativas e Contábeis Tiradentes, com sede na cidade de Aracaju, Estado de Sergipe.

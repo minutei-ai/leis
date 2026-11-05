@@ -1,5 +1,3 @@
-###DEC-063977-0-000-10-01-1969@@@
-
 Decreto nº 63.977, de 10 de janeiro de 1969.
 
 Dá nova denominação à Caixa de Construções de Casas do Ministério do Exército, integra-a no Sistema Financeiro da Habitação e dá outras providências.

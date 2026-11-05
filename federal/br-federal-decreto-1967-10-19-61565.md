@@ -1,5 +1,3 @@
-###DEC-061565-0-000-19-10-1967@@@
-
 DECRETO Nº 61.565, DE 19 DE OUTUBRO DE 1967.
 
 Crias funções de Secretário Geral Adjunto no Ministério das Relações Exteriores.

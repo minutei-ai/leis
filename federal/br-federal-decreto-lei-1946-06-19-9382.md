@@ -1,5 +1,3 @@
-###DEL-009382-0-000-19-06-1946@@@
-
 DECRETO-LEI N. 9.382 – DE 19 DE JUNHO DE 1946
 
 Cria na Prefeitura do Distrito Federal, e Secretaria Geral de Agricultura, Indústria e Comércio e da Outras Providencias

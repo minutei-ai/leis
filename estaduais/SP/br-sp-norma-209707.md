@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209707)<br>
-
 # DECRETO N° 68.696, DE 15 DE JULHO DE 2024
 
 ### _Institui Grupo de Trabalho Intersecretarial com o objetivo de orientar a elaboração de estudos, propostas de ações e demais providências relativas à Lei estadual n° 9.470, de 27 de dezembro de 1996, e à Lei federal n° 14. 597, de 14 de junho de 2023, Lei Geral do Esporte._

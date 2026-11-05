@@ -1,5 +1,3 @@
-###DEL-001196-0-000-23-12-1971@@@
-
 # DECRETO-LEI Nº 1.196, DE 23 DE DEZEMBRO DE 1971
 
 Prorroga prazo de aplicação de incentivo fiscal para empreendimentos novos na área da SUDENE.

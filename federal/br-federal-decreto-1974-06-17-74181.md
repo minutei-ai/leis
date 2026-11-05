@@ -1,5 +1,3 @@
-###DEC-074181-0-000-17-06-1974@@@
-
 DECRETO Nº 74.181, DE 17 DE JUNHO DE 1974.
 
 Concede reconhecimento à Faculdade de Ciências Administrativas de Barra Mansa, mantida pela Sociedade Barramansense de Ensino Superior, com sede na Cidade de Barra Mansa, Estado do Rio de Janeiro.

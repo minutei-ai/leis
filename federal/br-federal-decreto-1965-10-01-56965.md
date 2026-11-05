@@ -1,5 +1,3 @@
-###DEC-056965-0-000-01-10-1965@@@
-
 DECRETO Nº 56.965, DE 1º DE OUTUBRO DE 1965.
 
 Altera o art. 2º do Decreto nº 55.820, de 8 de março de 1965, que cria o “Fundo de Financiamento de Estudos de Projetos e Programas” - FINEP e da outras providências.

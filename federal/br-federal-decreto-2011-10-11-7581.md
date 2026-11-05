@@ -1,5 +1,3 @@
-###DEC-007581-0-000-11-10-2011-PUB-01@@@
-
 DECRETO Nº 7.581, DE 11 DE OUTUBRO DE 2011
 
 Regulamenta o Regime Diferenciado de Contratações Públicas - RDC, de que trata a Lei nº 12.462, de 5 de agosto de 2011.

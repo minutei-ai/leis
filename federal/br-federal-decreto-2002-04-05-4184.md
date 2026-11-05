@@ -1,5 +1,3 @@
-###DEC-004184-0-000-05-04-2002@@@
-
 DECRETO Nº 4.184, DE 5 DE ABRIL DE 2002
 
 Dispõe sobre os efeitos financeiros da aplicação da Tabela II do Anexo II da Medida Provisória nº 2.215-10, de 31 de agosto de 2001.

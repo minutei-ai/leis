@@ -1,5 +1,3 @@
-###DEC-044936-0-000-01-12-1958@@@
-
 decreto nº 44.936, de 1 de dezembro de 1958.
 
 Concede à Caldas da Imperatriz - Comércio e Indústria S.A. autorização para funcionar como emprêsa de mineração.

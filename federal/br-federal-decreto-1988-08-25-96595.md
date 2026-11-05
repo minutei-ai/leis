@@ -1,5 +1,3 @@
-###DEC-096595-0-000-25-08-1988@@@
-
 DECRETO N° 96.595, DE 25 DE AGOSTO DE 1988
 
 Classifica o Conselho Superior da Previdência e Assistência Social - CSPS, integrante do Ministério da Previdência e Assistência Social, como órgão de deliberação coletiva de 2° grau.

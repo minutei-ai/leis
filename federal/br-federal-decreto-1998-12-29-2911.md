@@ -1,5 +1,3 @@
-###DEC-002911-0-000-29-12-1998@@@
-
 DECRETO Nº 2.911, DE 29 DE DEZEMBRO DE 1998.
 
 Prorroga o prazo estabelecido nos arts. 1º e 2º do Decreto nº 2.269, de 30 de junho de 1997.

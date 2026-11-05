@@ -1,5 +1,3 @@
-###DEC-067072-0-000-18-08-1970@@@
-
 Decreto nº 67.072, de 18 de agôsto de 1970.
 
 Declara de utilidade pública a Sociedade de Amparo aos Necessitados de Alegrete - SANA - com sede em Alegrete, Estado do Rio Grande do Sul.

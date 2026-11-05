@@ -1,5 +1,3 @@
-###DEC-002495-0-000-10-02-1998@@@
-
 DECRETO Nº 2.495, DE 10 DE FEVEREIRO DE 1998
 
 Prorroga a hora de verão instituída pelo Decreto nº 2.317, de 4 de setembro de 1997.

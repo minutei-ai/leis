@@ -1,5 +1,3 @@
-###DEC-065175-0-000-17-09-1969@@@
-
 DECRETO Nº 65.175 - DE 17 DE SETEMBRO DE 1969.
 
 Concede a Salgema Mineração Ltda. o direito para lavrar salgema, no município de Maceió, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEL-007289-0-000-01-02-1945@@@
-
 DECRETO-LEI N. 7.289 – DE 1 DE FEVEREIRO DE 1945
 
 Cria uma coletoria federal no município de Santa Maria de Itabira, no Estado de Minas Gerais, e dá outras providências

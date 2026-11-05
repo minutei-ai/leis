@@ -1,5 +1,3 @@
-###DEL-007426-0-000-31-03-1945@@@
-
 DECRETO-LEI N. 7.426 – DE 31 DE MARÇO DE 1945
 
 Define caso de utilidade púbIica, nos têrmos da letra “p” do art. 5, do Decreto-Iei nº 3.365, de 21 de junho de 1941

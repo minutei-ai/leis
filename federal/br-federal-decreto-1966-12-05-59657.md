@@ -1,5 +1,3 @@
-###DEC-059657-0-000-05-12-1966@@@
-
 decreto nº 59.657, de 05 de dezembro de 1966.
 
 Autoriza a cidadã brasileira Maria José de Aquino a pesquisar argila e calcário no município de Prados, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-056529-0-000-05-07-1965@@@
-
 DECRETO Nº 56.529, DE 5 DE JULHO DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar uma área de terreno em Itajubá (MG), destinada ao Ministério da Guerra.

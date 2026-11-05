@@ -1,7 +1,3 @@
-1
-
-###DEC-000937-0-000-23-09-1993@@@
-
 DECRETO N° 937, DE 23 DE SETEMBRO DE 1993
 
 Altera redação de dispositivos da Ordenança Geral para o Serviço de Armada, aprovada pelo Decreto n° 95.480, de 13 de dezembro de 1987.

@@ -1,5 +1,3 @@
-###DEC-075081-0-000-12-12-1974@@@
-
 DECRETO Nº. 75.081, DE 12 DE DEZEMBRO DE 1974.
 
 Vincula ao Ministério do Trabalho o Programa Intensivo de Preparação de Mão-de-Obra - PIPMO, aprovado pelo Decreto nº. 53.324, de 18 de dezembro de 1963, e dá outras providências.

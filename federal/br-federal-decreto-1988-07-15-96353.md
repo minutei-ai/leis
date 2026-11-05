@@ -1,5 +1,3 @@
-###DEC-096353-0-000-15-07-1988@@@
-
 DECRETO N° 96.353, DE 15 DE JULHO DE 1988
 
 Concede à SIDERURGIA BRASILEIRA S.A. - SIDERBRÁS (GRUPO SIDERBRÁS) autorização para proceder a aumento de seu capital autorizado, bem como do capital social.

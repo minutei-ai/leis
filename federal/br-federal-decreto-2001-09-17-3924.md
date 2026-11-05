@@ -1,5 +1,3 @@
-###DEC-003924-0-000-17-09-2001@@@
-
 DECRETO Nº 3.924, DE 17 DE SETEMBRO DE 2001
 
 Atribui ao Centro Federal de Educação Tecnológica do Pará a responsabilidade pela execução das atividades de administração de pessoal, material, patrimonial, de serviços gerais, orçamento e finanças e de controle interno da Escola Técnica Federal de Palmas, e dá outras providências.

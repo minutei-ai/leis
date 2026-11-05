@@ -1,5 +1,3 @@
-###DEC-090113-0-000-28-08-1984@@@
-
 Decreto nº 90.113, de 28 de agosto de 1984
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, no Município de Morretes, no Estado do Paraná.

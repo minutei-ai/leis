@@ -1,5 +1,3 @@
-###DEC-075617-0-000-16-04-1975@@@
-
 DECRETO Nº 75.617, DE 16 DE ABRIL DE 1975.
 
 Concede reconhecimento aos cursos de Letras, Estudos Sociais e Ciências, da faculdade de Formação de Professores de Petrolina, Estado de Pernambuco, mantida pela Fundação de Ensino Superior de Pernambuco com sede em Recife, no mesmo Estado.

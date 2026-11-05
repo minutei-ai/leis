@@ -1,7 +1,3 @@
-1
-
-###DEC-098385-0-000-09-11-1989@@@
-
 DECRETO Nº 98.385, DE 09 DE NOVEMBRO DE 1989
 
 Dispõe sobre a Comissão de Execução do Tratado de Integração, Cooperação e Desenvolvimento entre a República Federativa do Brasil e a República Argentina, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067958-0-000-28-12-1970@@@
-
 Decreto nº 67.958, de 28 de dezembro de 1970.
 
 Altera o § 1º do Artigo 1º do Decreto nº. 63.695, de 28 de novembro de 1968.

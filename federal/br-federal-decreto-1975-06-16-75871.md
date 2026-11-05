@@ -1,5 +1,3 @@
-###DEC-075871-0-000-16-06-1975@@@
-
 DECRETO Nº 75.871, DE 16 DE JUNHO DE 1975.
 
 Altera o Decreto nº 71.848, de 16 de fevereiro de 1973 que regulamenta para o Exército, a Lei nº 5.821, de 10 de novembro de 1972.

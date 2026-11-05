@@ -1,5 +1,3 @@
-###MPV-000169-0-000-20-02-2004@@@
-
 MEDIDA PROVISÓRIA Nº 169, DE 20 DE FEVEREIRO 2004.
 
 Acrescenta o inciso XVI ao art. 20 da Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço - FGTS, e dá outras providências.

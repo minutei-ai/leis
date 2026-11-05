@@ -1,5 +1,3 @@
-###DEC-070200-0-000-24-02-1972@@@
-
 decreto nº 70.200, de 24 de fevereiro de 1972.
 
 Acrescenta os itens XII e XIII ao artigo 2º do Regulamento para a Diretoria de Hidrografia e Navegação.

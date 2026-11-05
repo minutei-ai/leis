@@ -1,5 +1,3 @@
-###DEC-004534-0-000-19-12-2002@@@
-
 DECRETO N. 4.534 – DE 19 DE DEZEMBRO DE 2002
 
  Dá nova redação ao art. 1º do Decreto nº 4.410, de 7 de outubro de 2002, que promulga a Convenção Interamericana contra a Corrupção, de 29 de março de 1996, com reserva para o art. XI, parágrafo 1º, inciso "c".

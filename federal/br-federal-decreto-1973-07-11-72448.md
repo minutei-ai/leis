@@ -1,5 +1,3 @@
-###DEC-072448-0-000-11-07-1973@@@
-
 DECRETO Nº 72.448, DE 11 DE JULHO DE 1973.
 
 Autoriza o Ministério da Educação e Cultura a contratar serviços técnicos indispensáveis à restauração dos conjuntos barrocos de Ouro Preto e Mariana, no Estado de Minas Gerais, e dá outras providências.

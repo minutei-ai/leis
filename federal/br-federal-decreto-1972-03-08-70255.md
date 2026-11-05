@@ -1,5 +1,3 @@
-###DEC-070255-0-000-08-03-1972@@@
-
 decreto nº 70.255, de 8 de março de 1972.
 
 Retifica o Decreto n° 69.801, de 15 de dezembro de 1971, relativo aproveitamento de disponíveis na Universidade Federal Rural de Pernambuco

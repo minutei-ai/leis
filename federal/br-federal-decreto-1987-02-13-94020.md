@@ -1,5 +1,3 @@
-###DEC-094020-0-000-13-02-1987@@@
-
 DECRETO Nº 94.020, DE 13 DE FEVEREIRO DE 1987.
 
 Declara de interesse social para fins de desapropriação, parte do imóvel rural denominado "Cumbique", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Paço do Lumiar no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada no Decreto nº 92.619, de 2 de maio de 1986, e dá outras providências.

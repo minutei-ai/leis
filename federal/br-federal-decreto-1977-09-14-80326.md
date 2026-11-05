@@ -1,5 +1,3 @@
-###DEC-080326-0-000-14-09-1977@@@
-
 DECRETO Nº 80.326, DE 14 DE SETEMBRO DE 1977.
 
 Outorga à Indústria de Madeiras Santa Luiza Ltda. concessão para aproveitamento de energia hidráulica de um trecho do rio Gavião, no Estado do Paraná, para uso exclusivo.

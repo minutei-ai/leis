@@ -1,5 +1,3 @@
-###DEC-057345-0-000-25-11-1965@@@
-
 DECRETO Nº 57.345, DE 25 DE NOVEMBRO DE 1965.
 
 Dá nova redação ao artigo 1º do Decreto nº 56.022, de 23 de abril de 1965.

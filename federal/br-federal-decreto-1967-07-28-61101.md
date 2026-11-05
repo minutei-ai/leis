@@ -1,5 +1,3 @@
-###DEC-061101-0-000-28-07-1967@@@
-
 DECRETO Nº 61.101, DE 28 DE JULHO DE 1967.
 
 Declara de utilidade pública o “Lar Nossa Senhora das Mercês”, com sede em São Paulo, Estado de São Paulo.

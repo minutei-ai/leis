@@ -1,5 +1,3 @@
-###DEC-057286-0-000-18-11-1965@@@
-
 DECRETO Nº 57.286, DE 18 DE NOVEMBRO DE 1965.
 
 Aprova o Regulamento das Operações de Serguro de Crédito à Exportação.

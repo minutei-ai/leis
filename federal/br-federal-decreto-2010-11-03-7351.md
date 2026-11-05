@@ -1,5 +1,3 @@
-###DEC-007351-0-000-03-11-2010-PUB-01@@@
-
 DECRETO No- 7.351, DE 3 DE NOVEMBRO DE 2010
 
 Dispõe sobre a concessão de rebates sobre os financiamentos de custeio e investimento, ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, contratados por agricultores familiares em Municípios de Santa Catarina afetadospor eventos climáticos adversos ocorridos em novembro e dezembro de 2008 e em setembro de 2009, e por agricultores familiares nos Municípios afetados pelo rompimento da barragem de Algodões no Piauí em 27 de maio de 2009, e dá outras providências.

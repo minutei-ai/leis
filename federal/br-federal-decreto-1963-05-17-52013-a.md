@@ -1,5 +1,3 @@
-###DEC-052013-A-000-17-05-1963@@@
-
 DECRETO Nº 52.013-A, DE 17 DE MAIO DE 1963.
 
 Revoga os Decretos nºs 42.943, de 30 de dezembro de 1957 e 43.939, de 12 de março de 1958, e outorga concessão a Superintendência das Empresas Incorporadas ao Patrimônio Nacional - Rádio Nacional - para estabelecer uma estação de televisão em VHF, geradora de programas na cidade do Rio de Janeiro, Estado da Guanabara.

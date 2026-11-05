@@ -1,5 +1,3 @@
-###DEC-090643-0-000-10-12-1984@@@
-
 Decreto nº 90.643, de 10 dezembro de 1984
 
 Autoriza o aumento do Capital Social da Centrais de Abastecimento de Capinas S.A - CEASA/CAMPINAS.

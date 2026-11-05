@@ -1,5 +1,3 @@
-###DEC-073510-0-000-18-01-1974@@@
-
 DECRETO Nº 73.510, DE 18 de JANEIRO DE 1974.
 
 Retifica o artigo 1º do Decreto número 49.782, de 31 de dezembro de 1960, através do qual foi concedido ao Governo do Estado de Sergipe o direito de lavrar calcário, no Município de Nossa Senhora do Socorro, Estado de Sergipe.

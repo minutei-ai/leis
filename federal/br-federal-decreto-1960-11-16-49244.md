@@ -1,5 +1,3 @@
-###DEC-049244-0-000-16-11-1960@@@
-
 DECRETO Nº 49.244, DE 16 DE NOVEMBRO DE 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação do equipamento neste descrito e consignado à emprêsa, Companhia Sisal do Brasil “COSIBRA”.

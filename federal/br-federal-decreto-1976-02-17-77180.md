@@ -1,5 +1,3 @@
-###DEC-077180-0-000-17-02-1976@@@
-
 DECRETO Nº 77.180, DE 17 DE FEVEREIRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

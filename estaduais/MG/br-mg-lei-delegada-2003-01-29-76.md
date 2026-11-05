@@ -151,7 +151,3 @@ Fundação Helena Antipoff
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 1,43418 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,20286 Diretoria de Ensino Diretor 01 1,20286 Assessoria Jurídica Assessor Jurídico 01 0,54200 Auditoria Seccional Auditor Seccional 01 0,54200
-
-\=======================================================================
-
-Data da última atualização: 11/8/2026.

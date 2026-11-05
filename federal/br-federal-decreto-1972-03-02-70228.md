@@ -1,5 +1,3 @@
-###DEC-070228-0-000-02-03-1972@@@
-
 DECRETO Nº 70.228, de 2 DE MARÇO DE 1972.
 
 Autoriza cessão, nas condições que menciona, de terreno da União situado em Fortaleza, Estado de Ceará.

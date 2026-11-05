@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir na Secretaria da Fazenda, o
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da codificação 3.05.08 verba 3.1.4.19.1, do orçamento de 1965.
 
-Redação de acordo com a Lei nº 2.151, de 20 de abril de 1965.<br>
+Redação de acordo com a Lei nº 2.151, de 20 de abril de 1965.
+
 Redação original: "Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da rubrica 3.05.08 - 1.6.21.1, do orçamento em vigor."
 
 PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 08 de janeiro de 1965.
@@ -19,4 +20,4 @@ Governador
 
 Ivo Braga
 
-* * *
+ *

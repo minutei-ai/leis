@@ -1,5 +1,3 @@
-###DEC-073595-0-000-08-02-1974@@@
-
 DECRETO nº 73.595, de 8 de Fevereiro de 1974.
 
 Define, na área do Ministério das Minas e Energia - MME, órgão setorial do Sistema Nacional de Ciências e Tecnologia, e dá outras providências.
@@ -45,8 +43,6 @@ Brasília, 8 de fevereiro de 1974; 153º da Independência e 86º da República.
 Emílio G. Médici
 
 Antônio Dias Leite Júnior
-
-###DEC-073595-0-000-08-02-1974@@@
 
 DECRETO nº 73.595, de 8 de Fevereiro de 1974.
 

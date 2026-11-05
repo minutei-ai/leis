@@ -1,5 +1,3 @@
-###DEC-058572-0-000-02-06-1966@@@
-
 DECRETO Nº 58.572, DE 2 DE JUNHO DE 1966.
 
 Abre, pelo Ministério das Minas e Energia, o crédito especial de Cr$ .500.000.000, para o fim que específica.

@@ -1,5 +1,3 @@
-###DEC-082924-0-000-20-12-1978@@@
-
 Decreto nº 82924, de 20 de dezembro de 1978
 
 Concede à Mineração Curimbaba Ltda. o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

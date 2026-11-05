@@ -1,5 +1,3 @@
-###DEC-052952-0-000-26-11-1963@@@
-
 DECRETO Nº 52.952, DE 26 DE NOVEMBRO DE 1963.
 
 Declara de utilidade pública áreas de terra necessárias à formação do reservatório de acumulação da usina de Jurumirim, no rio Paranapanema e autoriza a Usina Elétricas do Paranapanema S.A. a promover a desapropriação das mesmas.

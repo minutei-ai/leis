@@ -1,5 +1,3 @@
-###DEC-046982-0-000-08-10-1959@@@
-
 DECRETO Nº 46.982, DE 8 DE OUTUBRO DE 1959.
 
 Dispõe sôbre a movimentação das contas bancárias da CIS e da CTOS.

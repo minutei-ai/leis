@@ -16,75 +16,9 @@ Art. 5º - Ficam remanejados da estrutura de cargos em comissão da Secretaria d
 
 Art. 6º - Fica acrescido aos Anexos II e IV, da Lei nº [8.346](https://www.legislabahia.ba.gov.br/documentos/lei-no-8346-de-26-de-agosto-de-2002) , de 26 de agosto de 2002, que dispõe sobre a classificação e correlação de cargos dos Órgãos da Administração Direta, Autarquias e Fundações do Poder Executivo Estadual, o cargo em comissão de Administrador de Espaço Cultural, símbolo DAI-4, na forma a seguir:
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- border:none;mso-border-alt:solid black 1.5pt;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr><td width="390" colspan="2" valign="top" style="width:292.5pt;border:solid black 1.5pt;
-  border-bottom:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">ANEXO II CLASSIFICAÇÃO DOS CARGOS EM COMISSÃO DAS AUTARQUIAS<span style="mso-spacerun:
-  yes">&nbsp; </span>E FUNDAÇÕES DO PODER EXECUTIVO ESTADUAL<quebra></quebra></p></td></tr><tr><td width="144" valign="top" style="width:108.0pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">NOMENCLATURA<quebra></quebra></p></td></tr><tr><td width="144" valign="top" style="width:108.0pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">...<quebra></quebra></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">...<quebra></quebra></p></td></tr><tr><td width="144" valign="top" style="width:108.0pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Administrador de Espaço Cultural<quebra></quebra></p></td></tr><tr><td width="144" valign="top" style="width:108.0pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black 1.5pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">...<quebra></quebra></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">...<quebra></quebra></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> ANEXO II CLASSIFICAÇÃO DOS CARGOS EM COMISSÃO DAS AUTARQUIAS&nbsp; E FUNDAÇÕES DO PODER EXECUTIVO ESTADUAL<quebra></quebra> </td></tr><tr><td valign="top"> SÍMBOLO<quebra></quebra> </td><td valign="top"> NOMENCLATURA<quebra></quebra> </td></tr><tr><td valign="top"> ...<quebra></quebra> </td><td valign="top"> ...<quebra></quebra> </td></tr><tr><td valign="top"> DAI-4<quebra></quebra> </td><td valign="top"> Administrador de Espaço Cultural<quebra></quebra> </td></tr><tr><td valign="top"> ...<quebra></quebra> </td><td valign="top"> ...<quebra></quebra> </td></tr></tbody></table>
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- border:none;mso-border-alt:solid black 1.5pt;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr><td width="516" colspan="4" valign="top" style="width:387.0pt;border:solid black 1.5pt;
-  border-bottom:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">ANEXO IV CORRELAÇÃO DOS CARGOS EM COMISSÃO DAS AUTARQUIAS E FUNDAÇÕES DO PODER EXECUTIVO ESTADUAL<quebra></quebra></p></td></tr><tr><td width="276" colspan="2" valign="top" style="width:207.0pt;border-top:none;
-  border-left:solid black 1.5pt;border-bottom:solid black .75pt;border-right:
-  solid black .75pt;mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">SITUAÇÃO ANTERIOR<quebra></quebra></p></td><td width="240" colspan="2" valign="top" style="width:180.0pt;border-top:none;
-  border-left:none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">SITUAÇÃO ATUAL<quebra></quebra></p></td></tr><tr><td width="186" valign="top" style="width:139.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">NOMENCLATURA<quebra></quebra></p></td><td width="90" valign="top" style="width:67.5pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">NOMENCLATURA<quebra></quebra></p></td><td width="90" valign="top" style="width:67.5pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black 1.5pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td></tr><tr><td width="186" valign="top" style="width:139.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="90" valign="top" style="width:67.5pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="90" valign="top" style="width:67.5pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black 1.5pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td width="186" valign="top" style="width:139.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Administrador de Espaço Cultural<quebra></quebra></p></td><td width="90" valign="top" style="width:67.5pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Administrador de Espaço Cultural<quebra></quebra></p></td><td width="90" valign="top" style="width:67.5pt;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black 1.5pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td></tr><tr><td width="186" valign="top" style="width:139.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black 1.5pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="90" valign="top" style="width:67.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.5pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.5pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="90" valign="top" style="width:67.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto"><quebra></quebra></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="4" valign="top"> ANEXO IV CORRELAÇÃO DOS CARGOS EM COMISSÃO DAS AUTARQUIAS E FUNDAÇÕES DO PODER EXECUTIVO ESTADUAL<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> SITUAÇÃO ANTERIOR<quebra></quebra> </td><td colspan="2" valign="top"> SITUAÇÃO ATUAL<quebra></quebra> </td></tr><tr><td valign="top"> NOMENCLATURA<quebra></quebra> </td><td valign="top"> SÍMBOLO<quebra></quebra> </td><td valign="top"> NOMENCLATURA<quebra></quebra> </td><td valign="top"> SÍMBOLO<quebra></quebra> </td></tr><tr><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Administrador de Espaço Cultural<quebra></quebra> </td><td valign="top"> DAI-4<quebra></quebra> </td><td valign="top"> Administrador de Espaço Cultural<quebra></quebra> </td><td valign="top"> DAI-4<quebra></quebra> </td></tr><tr><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 Art. 7º - As despesas decorrentes da aplicação desta Lei correrão à conta dos recursos constantes do orçamento do exercício, ficando o Poder Executivo autorizado a promover as alterações orçamentárias que se fizerem necessárias.
 

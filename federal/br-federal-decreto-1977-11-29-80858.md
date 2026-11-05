@@ -1,5 +1,3 @@
-###DEC-080858-0-000-29-11-1977@@@
-
 decreto nº 80.858, de 29 de novembro de 1977.
 
 Autoriza o registro, em nome da União Federal, do Imóvel que menciona, situado no Município de Touros, Estado do Rio Grande do Norte.

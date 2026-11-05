@@ -1,5 +1,3 @@
-###DEC-045026-0-000-04-12-1958@@@
-
 decreto nº 45.026, de 4 de dezembro de 1958.
 
 Transfere de Felicíssimo Domingues Alfonsin para a prefeitura Municipal de Tapes a concessão para a produção e fornecimento de energia no Município de Tapes, Estado do Rio Grande do Sul.

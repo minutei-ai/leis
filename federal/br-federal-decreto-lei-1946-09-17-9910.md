@@ -1,5 +1,3 @@
-###DEL-009910-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.910 – DE 17 DE SETEMBRO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 3.600.000,00, à verba que especifica.

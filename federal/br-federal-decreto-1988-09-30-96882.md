@@ -1,5 +1,3 @@
-###DEC-096882-0-000-30-09-1988@@@
-
 DECRETO N° 96.882, DE 30 DE SETEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Visconde do Rio Branco:

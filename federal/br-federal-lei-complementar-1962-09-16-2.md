@@ -1,5 +1,3 @@
-###LCP-000002-0-000-16-09-1962@@@
-
 LEI COMPLEMENTAR Nº 2, DE 16 DE SETEMBRO DE 1962, AO ATO ADICIONAL.
 
 Dispõe sôbre a vacância ministerial, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068491-0-000-07-04-1971@@@
-
 DECRETO Nº 68.491 - DE 7 DE ABRIL DE 1971.
 
 Altera dispositivo do Decreto número 63.378, de 8 de outubro de 1968, que regulamenta a Lei de Promoções dos Oficiais da Ativa da Aeronáutica.

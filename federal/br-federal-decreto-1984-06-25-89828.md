@@ -1,5 +1,3 @@
-###DEC-089828-0-000-25-06-1984@@@
-
 Decreto nº 89.828, de 25 junho de 1984
 
 Inclui o Centro Tecnológico do Exército (CTEX), do Ministério do Exército, no regime de que trata o Decreto nº 86.212, de 15 de julho de 1981, e dá outras providências.

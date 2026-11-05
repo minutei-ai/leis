@@ -1,5 +1,3 @@
-###DEL-004365-0-000-09-06-1942@@@
-
 DECRETO-LEI N. 4.365 – DE 9 DE JUNHO DE 1942
 
 Altera o decreto-lei n. 2.291, de 8 de junho de 1940, que dispõe sobre a Justiça do Território do Acre

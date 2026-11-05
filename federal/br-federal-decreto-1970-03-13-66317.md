@@ -1,5 +1,3 @@
-###DEC-066317-0-000-13-03-1970@@@
-
 DECRETO Nº 66.317 - DE 13 DE MARÇO DE 1970
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 35.553, de 24 de maio de 1954, para fins de desapropriação pelo Departamento Nacional de Obras contra as Sêcas, da área de terreno necessária à construção do açude público "SACO-II", no Município de Santa Maria da Boa Vista (ex-Coripós), Estado de Pernambuco.

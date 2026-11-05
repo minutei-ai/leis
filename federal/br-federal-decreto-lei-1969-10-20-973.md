@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7ea1ee90-b345-47b3-849a-eeaeead1c300/texto#nowhere)
 
-###DEL-000973-0-000-20-10-1969@@@
-
 DECRETO-LEI Nº 973, DE 20 DE OUTUBRO DE 1969
 
 Regula a aplicação da correção monetária às concessionárias de serviços portuários.

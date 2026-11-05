@@ -1,5 +1,3 @@
-###DEC-079659-0-000-05-05-1977@@@
-
 Decreto nº 79.659, de 5 de maio de 1977.
 
 Extingue Estabelecimentos Fabris do Ministério do Exército, transfere bens para a IMBEL, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-088687-0-000-06-09-1983@@@
-
 DECRETO Nº 88.687, DE 6 DE Setembro dE 1983
 
 Cria, no âmbito do Ministério Público do Distrito Federal, o Conselho Superior e a Corregedoria Geral.

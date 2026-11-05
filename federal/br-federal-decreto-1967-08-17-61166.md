@@ -1,5 +1,3 @@
-###DEC-061166-0-000-17-08-1967@@@
-
 decreta nº 61.166, de 17 de agôsto de 1967.
 
 Retifica o enquadramento dos servidores do Ministério das Relações Exteriores, e dá outras providências.

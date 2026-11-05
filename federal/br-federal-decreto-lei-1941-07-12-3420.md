@@ -1,5 +1,3 @@
-###DEL-003420-0-000-12-07-1941@@@
-
 DECRETO-LEI N. 3.420 – DE 12 DE JULHO DE 1941
 
  Considera Aspirante um Cadete de Aeronáutica

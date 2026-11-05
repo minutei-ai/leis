@@ -1,5 +1,3 @@
-###DEC-047785-0-000-10-02-1960@@@
-
 DECRETO Nº 47.785, DE 10 DE FEVEREIRO DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Marinha.

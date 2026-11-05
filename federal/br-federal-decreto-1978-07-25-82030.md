@@ -1,5 +1,3 @@
-###DEC-082030-0-000-25-07-1978@@@
-
 Decreto nº 82.030, de 25 de julho de 1978
 
 Concede à Metais de Minas Gerais S.A. - METAMIG o direito de lavrar feldspato no Município de Galiléia, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-084831-0-000-24-06-1980@@@
-
 decreto nº 84.831, de 24 de junho de 1980.
 
 Dispõe sobre a requisição de servidores pelo Ministro Extraordinários para a Desburocratização e dá outras providências.

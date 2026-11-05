@@ -1,5 +1,3 @@
-###DEC-091238-0-000-08-05-1985@@@
-
 Decreto nº 91.238, de 08 de maio de 1985
 
 Dispõe sobre a criação do Grupo de Trabalho Interministerial para Coordenação das Ações na Área da Alimentação.

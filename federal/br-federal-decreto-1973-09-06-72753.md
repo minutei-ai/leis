@@ -1,5 +1,3 @@
-###DEC-072753-0-000-06-09-1973@@@
-
 DECRETO Nº 72.753, de 6 de Setembro de 1973.
 
 Cria, no Ministério da Aeronáutica, a Comissão Nacional de Segurança da Aviação Civil (CONSAC).

@@ -1,5 +1,3 @@
-###DEL-004395-0-000-19-06-1942@@@
-
 DECRETO-LEI N. 4.395 – DE 19 DE JUNHO DE 1942
 
 Dispõe sobre financiamento da safra algodoeira de 1941/42, e dá outras providências

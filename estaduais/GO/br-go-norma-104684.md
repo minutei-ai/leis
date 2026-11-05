@@ -4,7 +4,8 @@ Convalida e revigora fundos rotativos no âmbito da Universidade Estadual de Goi
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), decreta e eu sanciono a seguinte Lei:
 
-Art. 1º Ficam convalidados e revigorados, na Universidade Estadual de Goiás – UEG, os fundos rotativos constantes do Anexo Único desta Lei, criados pelas Leis nº [13.785](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81426), de 03 de janeiro de 2001, e nº [16.836](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88552), de 15 de dezembro de 2009, nos termos da [Lei Complementar nº 64](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101052 "Abrir Lei Complementar nº 64, de 2008 em nova aba"), de 16 de dezembro de 2008, regulamentada pelo [Decreto nº 6.962](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63869 "Abrir Decreto Numerado nº 6962, de 2009 em nova aba"), de 29 de julho de 2009, no valor de R$ 70.000,00 (setenta mil reais) cada.<br>
+Art. 1º Ficam convalidados e revigorados, na Universidade Estadual de Goiás – UEG, os fundos rotativos constantes do Anexo Único desta Lei, criados pelas Leis nº [13.785](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81426), de 03 de janeiro de 2001, e nº [16.836](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88552), de 15 de dezembro de 2009, nos termos da [Lei Complementar nº 64](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101052 "Abrir Lei Complementar nº 64, de 2008 em nova aba"), de 16 de dezembro de 2008, regulamentada pelo [Decreto nº 6.962](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63869 "Abrir Decreto Numerado nº 6962, de 2009 em nova aba"), de 29 de julho de 2009, no valor de R$ 70.000,00 (setenta mil reais) cada.
+
 \- [Redação dada pela Lei nº 23.798, de 6-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111531).
 
 ~~Art. 1º Ficam convalidados e revigorados, na Universidade Estadual de Goiás - UEG, os fundos rotativos, constantes do Anexo Único desta Lei, criados pelas [Leis nº 13.785,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81426/lei-13785) de 03 de janeiro de 2001, e nº [16.836](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88552/lei-16836), de 15 de dezembro de 2009, nos termos da [Lei Complementar nº 64,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101052/lei-complementar-064) de 16 de dezembro de 2008, regulamentada pelo [Decreto nº 6.962](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63869/decreto-6962), de 29 de julho de 2009, no valor total de R$ 1.450.000,00 (um milhão e quatrocentos e cinquenta mil reais).~~
@@ -93,7 +94,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO ÚNICO<br>
+ANEXO ÚNICO
+
 \- [Redação dada pela Lei nº 23.798, de 6-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111531).
 
 | Nº DE ORDEM | DENOMINAÇÃO | VALOR (R$) |

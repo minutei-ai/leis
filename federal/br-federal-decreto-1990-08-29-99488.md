@@ -1,7 +1,3 @@
-1
-
-###DEC-099488-0-000-29-08-1990@@@
-
 DECRETO Nº 99.488, DE 29 DE AGOSTO DE 1990
 
 Dispõe sobre os pedidos de vista pertinentes a processos submetidos à deliberação dos Conselhos Deliberativos das Superintendências do Desenvolvimento do Nordeste SUDENE e da Amazônia SUDAM e do Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA.

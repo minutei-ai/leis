@@ -1,5 +1,3 @@
-###DEC-045711-0-000-06-04-1959@@@
-
 DECRETO Nº 45.711, DE 6 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro José dos Santos Castro a pesquisar calcário e calcita, no município de Rio Branco do Sul, Estado do Paraná.

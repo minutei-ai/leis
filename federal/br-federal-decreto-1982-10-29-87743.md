@@ -1,5 +1,3 @@
-###DEC-087743-0-000-29-10-1982@@@
-
 Decreto nº 87.743, de 29 de outubro de 1982
 
 Fixa novos níveis de salário-mínimo para todo o território nacional.

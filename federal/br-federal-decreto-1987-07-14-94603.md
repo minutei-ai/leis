@@ -1,5 +1,3 @@
-###DEC-094603-0-000-14-07-1987@@@
-
 DECRETO N° 94.603, DE 14 DE JULHO DE 1987
 
 Homologa a demarcação da área indígena Pankararu, localizada nos Municípios de Petrolândia e Tacaratu, no Estado de Pernambuco, e dá outras providências.

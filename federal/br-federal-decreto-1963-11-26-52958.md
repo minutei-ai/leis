@@ -1,5 +1,3 @@
-###DEC-052958-0-000-26-11-1963@@@
-
 DECRETO Nº 52.958, DE 26 DE NOVEMBRO DE 1963.
 
 Concede à Terra Nova S.A. – Agro-Pecuária e Comercial, autorização para funcionar como emprêsa de mineração.

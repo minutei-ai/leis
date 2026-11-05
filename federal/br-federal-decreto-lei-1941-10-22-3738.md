@@ -1,5 +1,3 @@
-###DEL-003738-0-000-22-10-1941@@@
-
 DECRETO-LEI N. 3.738 – DE 22 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 8.242:583$0 para liquidação de despesas com instalações de Liceus Industriais

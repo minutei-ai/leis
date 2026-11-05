@@ -1,5 +1,3 @@
-###DEC-052632-0-000-08-10-1963@@@
-
 DECRETO Nº 52.632, DE 8 DE OUTUBRO DE 1963.
 
 Autoriza a Du Pont do Brasil S.A. - Indústrias Químicas, a instalar usina termoelétrica, para uso exclusivo.

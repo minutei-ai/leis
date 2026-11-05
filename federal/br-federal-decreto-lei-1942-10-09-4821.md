@@ -1,5 +1,3 @@
-###DEL-004821-0-000-09-10-1942@@@
-
 DECRETO-LEI N. 4.821 – DE 9 DE OUTUBRO DE 1942
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito suplementar que especifica

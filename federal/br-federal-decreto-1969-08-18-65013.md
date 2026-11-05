@@ -1,5 +1,3 @@
-###DEC-065013-0-000-18-08-1969@@@
-
 DECRETO Nº 65.013 - DE 18 DE AGÔSTO DE 1969.
 
 Outorga à Bossardi & Goetten Ltda. concessão para o aproveitamento hidromecânico de um trecho do rio Marombas, no distrito de Curitibanos, município de Curitibanos, Estado de Santa Catarina.

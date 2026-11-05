@@ -1,5 +1,3 @@
-###DEC-006327-0-000-27-12-2007@@@
-
 DECRETO Nº 6.327, DE 27 DE DEZEMBRO DE 2007.
 
 Acresce dispositivo ao art. 2o do Decreto no 3.520, de 21 de junho de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho Nacional de Política Energética - CNPE, e ao § 2o do art. 6o do Anexo III ao Decreto no 5.184, de 16 de agosto de 2004, que cria e Empresa de Pesquisa Energética - EPE e aprova seu Estatuto Social.
@@ -29,5 +27,3 @@ Brasília, 27 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson José Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 28.12.2007

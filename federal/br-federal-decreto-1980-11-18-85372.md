@@ -1,5 +1,3 @@
-###DEC-085372-0-000-18-11-1980@@@
-
 Decreto nº 85.372, de 18 de novembro de 1980.
 
 Autoriza empresas de telecomunicações controladas pela TELEBRÁS a promoverem aumento de capital.

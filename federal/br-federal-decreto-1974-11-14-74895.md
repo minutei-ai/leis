@@ -1,5 +1,3 @@
-###DEC-074895-0-000-14-11-1974@@@
-
 Decreto nº 74.895, de 14 de novembro de 1974.
 
 Concede autorização às empresas Arthur Levy Boat Service, Inc. e Arthur Levy do Brasil, Serviços Marítimos Ltda. para executarem trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

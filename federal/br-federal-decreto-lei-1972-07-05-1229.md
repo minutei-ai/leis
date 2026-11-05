@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/178f5e08-00c2-4627-a2fc-856a38b6fdea/texto#nowhere)
 
-###DEL-001229-0-000-05-07-1972@@@
-
 # DECRETO-LEI Nº 1.229, DE 5 DE JULHO DE 1972
 
 Declara de interesse da Segurança Nacional, nos termos do artigo 15 § 1º, alínea b, da Constituição, o Município de Guaraciaba, do Estado de Santa Catarina, e dá outras providências.

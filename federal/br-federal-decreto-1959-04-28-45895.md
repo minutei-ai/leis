@@ -1,5 +1,3 @@
-###DEC-045895-0-000-28-04-1959@@@
-
 Decreto nº 45.895, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro José dos Santos Querido a pesquisar diamante e ouro, no municípo de Itupiranga, Estado do Pará.

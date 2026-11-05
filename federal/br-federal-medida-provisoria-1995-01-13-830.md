@@ -1,7 +1,3 @@
-1
-
-###MPV-000830-0-000-13-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 830, DE 13 DE JANEIRO DE 1995
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

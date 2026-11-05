@@ -1,5 +1,3 @@
-###DEC-081881-0-000-04-07-1978@@@
-
 Decreto nº 81.881, de 04 de julho de 1978.
 
 Autoriza o funcionamento da habilitação Educação Moral e Cívica do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Bragança Paulista, Estado de São Paulo.

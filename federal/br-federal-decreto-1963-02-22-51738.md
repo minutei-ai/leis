@@ -1,5 +1,3 @@
-###DEC-051738-0-000-22-02-1963@@@
-
 DECRETO Nº 51.738, de 22 de fevereiro de 1963.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem a área de terreno situada no Município de Sapucaia, no Estado do Rio de Janeiro.

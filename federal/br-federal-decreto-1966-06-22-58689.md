@@ -1,5 +1,3 @@
-###DEC-058689-0-000-22-06-1966@@@
-
 decreto nº 58.689, de 22 de junho de 1966.
 
 Autoriza o Município de Cerro Largo a construir rêde de distribuição.

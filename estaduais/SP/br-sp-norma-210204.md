@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210204)<br>
-
 # DECRETO N° 69.029, DE 11 DE NOVEMBRO DE 2024
 
 ### _Altera o Decreto n° 67.151, de 4 de outubro de 2022, que regulamenta a Lei n° 17.557, de 21 de julho de 2022, que dispõe sobre a criação do Programa Estadual de Regularização de Terras._

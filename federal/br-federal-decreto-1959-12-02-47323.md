@@ -1,5 +1,3 @@
-###DEC-047323-0-000-02-12-1959@@@
-
 DECRETO Nº 47.323, DE 2 DE DEZEMBRO DE 1959.
 
 Renova o Decreto nº 42.306, de 20 de setembro de 1957.

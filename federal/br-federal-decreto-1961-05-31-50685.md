@@ -1,5 +1,3 @@
-###DEC-050685-0-000-31-05-1961@@@
-
 DECRETO Nº 50.685, DE 31 DE MAIO DE 1961.
 
 Considera urgentes os serviços do Plano Qüinqüenal de Obras Rodoviárias e dá outras providências.

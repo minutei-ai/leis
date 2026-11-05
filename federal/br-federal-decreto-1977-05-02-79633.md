@@ -1,5 +1,3 @@
-###DEC-079633-0-000-02-05-1977@@@
-
 DECRETO Nº 79.633, DE 2 DE MAIO DE 1977.
 
 Concede novo prazo para utilização pela Prefeitura Municipal de Cabo Frio, no Estado do Rio de Janeiro, de terrenos da União, situados naquele Município.

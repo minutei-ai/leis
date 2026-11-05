@@ -1,5 +1,3 @@
-###DEL-008848-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.848 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a exploração comercial do Pôrto de Laguna

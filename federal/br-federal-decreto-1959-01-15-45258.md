@@ -1,5 +1,3 @@
-###DEC-045258-0-000-15-01-1959@@@
-
 DECRETO Nº 45.258, DE 15 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Ubaldo Lolli a lavrar calcário dolomítico no município de Santana da Parnaíba, Estado de São Paulo.

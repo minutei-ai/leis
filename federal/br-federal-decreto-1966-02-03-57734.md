@@ -1,5 +1,3 @@
-###DEC-057734-0-000-03-02-1966@@@
-
 DECRETO Nº 57.734, DE 3 DE FEVEREIRO DE 1966.
 
 Aplica ao Serviço de Navegação da Bacia do Prata o aumento de que trata a Lei nº 4.863, de 29 de novembro de 1965.

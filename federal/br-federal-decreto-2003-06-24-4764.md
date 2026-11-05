@@ -1,5 +1,3 @@
-###DEC-004764-0-000-24-06-2003@@@
-
 [DECRETO Nº 4.764, DE 24 DE JUNHO DE 2003.](http://legislacao.planalto.gov.br/legislacao.nsf/Viw_Identificacao/DEC%204.764-2003?OpenDocument)
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Trabalho e Emprego, e dá outras providências.      
@@ -28,8 +26,10 @@ Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e
 
         Brasília, 24 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Jaques Wagner<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Jaques Wagner
+
 Guido Mantega
 
 ANEXO I

@@ -151,7 +151,3 @@ ANEXO ÚNICO
 CÓDIGO DENOMINAÇÃO SÍMBOLO DE VENCIMENTO Nº DE CARGOS I Quadro Específico de Provimento em Comissão a) No Grupo de Direção Superior (DS) DS-02 Diretor II V-68 2 DS-01 Diretor I V-58 6 b) No Grupo de Assessoramento (AS) AS-03 Assessor-Chefe V-68 1 AS-02 Assessor II V-58 1 AS-01 Assessor I V-45 3 c) No Grupo de Execução (EX) EX-01 Chefe de Gabinete V-68 1 EX-02 Oficial de Gabinete V-35 2 EX-06 Assistente Administrativo V-35 1 EX-07 Assistente Auxiliar V-25 1 EX-08 Secretário-Executivo V-25 1 II Quadro Específico de Provimento Efetivo a) No Grupo de Nível Superior de Escolaridade (NS) NS-06 Nutricionista V-42 a V-51 3 NS-07 Economista V-42 a V-51 3 NS-08 Técnico em Administração V-42 a V-51 3 NS-09 Estatístico V-42 a V-51 3 NS-12 Técnico em Comunicação Social V-42 a V-51 1 NS-14 Químico V-42 a V-51 3 NS-15 Engenheiro V-42 a V-51 3 NS-16 Médico Veterinário V-42 a V-51 3 NS-17 Bibliotecário V-42 a V-51 1 NS-18 Contador V-42 a V-51 1 b) No Grupo de Nível de 2º Grau de Escolaridade (SG) SG-03 Técnico de Contabilidade V-23 a V-32 1 SG-04 Auxiliar de Administração V-21 a V-30 4 SG-09 Desenhista-Técnico V-21 a V-30 1 c) No Grupo de Nível de 1º Grau de Escolaridade (PG) PG-01 agente de Administração V-12 a V-21 5 PG-03 Telefonista V-12 a V-21 4 PG-14 Datilógrafo-Mecanógrafo V-15 a V-24 6 d) No Grupo de Nível Elementar de Escolaridade (NE) NE-01 Motorista V-13 a V-22 8 NE-02 Auxiliar de Serviços V-3 a V-12 12
 
 (Vide art. 4º da Lei nº 9.511, de 29/12/1987).
-
-\----------------------------------------------
-
-Data da última atualização: 28/7/2016.

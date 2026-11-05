@@ -1,5 +1,3 @@
-###DEC-007712-0-000-03-04-2012-PUB-01@@@
-
 DECRETO Nº 7.712, DE 3 DE ABRIL DE 2012
 
 Dispõe sobre a devolução ficta e a reintegração de estoques do fabricante dos produtos mencionados.

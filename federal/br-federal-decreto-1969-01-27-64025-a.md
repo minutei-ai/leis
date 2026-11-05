@@ -1,5 +1,3 @@
-###DEC-064025-A-000-27-01-1969@@@
-
 DECRETONº 64.025-A, DE 27 DE JANEIRO DE 1969.
 
 Transfere o Núcleo de Petrolândia, do patrimônio do Instituto Nacional do Desenvolvimento Agrário para o da Superintendência do Vale do São Francisco.

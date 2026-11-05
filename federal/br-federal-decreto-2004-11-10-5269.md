@@ -1,5 +1,3 @@
-###DEC-005269-0-000-10-11-2004@@@
-
 DECRETO Nº 5.269 DE 10 DE NOVEMBRO DE 2004
 
 Dispõe sobre a competência, composição e funcionamento do Conselho Diretor do Fundo da Marinha Mercante \- CDFMM, e dá outras providências.

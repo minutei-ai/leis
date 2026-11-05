@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208527)<br>
-
 # DECRETO N° 67.952, DE 15 DE SETEMBRO DE 2023
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de São Sebastião, que declarou Situação de Emergência em áreas do Município, em razão dos fatos ocorridos nos dias 18 e 19 de fevereiro do presente ano, e por ainda haver elementos que comprovem a permanência dos efeitos do desastre original sobre a região afetada, e a continuidade da situação de anormalidade._

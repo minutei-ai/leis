@@ -1,5 +1,3 @@
-###DEC-072086-0-000-13-04-1973@@@
-
 DECRETO Nº 72.086, DE 13 DE ABRIL DE 1973.
 
 Aprova o Regulamento de Administração da Aeronáutica.

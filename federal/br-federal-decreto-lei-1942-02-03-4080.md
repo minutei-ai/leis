@@ -1,5 +1,3 @@
-###DEL-004080-0-000-03-02-1942@@@
-
 DECRETO-LEI N. 4.080 – DE 3 DE FEVEREIRO DE 1942
 
 Altera o parágrafo 2º do art. 7º e os arts. 11 e 12 do decreto-lei número 3.939, de 16 de dezembro de 1941

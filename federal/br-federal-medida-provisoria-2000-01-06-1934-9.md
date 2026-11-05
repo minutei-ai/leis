@@ -1,5 +1,3 @@
-###MPV-001934-0-009-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.934-9, DE 6 DE JANEIRO DE 2000.
 
 Altera a Lei nº 4.229, de 1º de junho de 1963, autoriza a doação de bens e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080681-0-000-08-11-1977@@@
-
 DECRETO Nº 80.681, DE 08 DE NOVEMBRO DE 1977.
 
 Concede à Construtora e Mineradora Megaó Ltda. o direito de lavrar calcário, no Município de Goiana, Estado de Pernambuco.

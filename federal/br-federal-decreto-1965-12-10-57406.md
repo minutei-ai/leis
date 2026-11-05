@@ -1,5 +1,3 @@
-###DEC-057406-0-000-10-12-1965@@@
-
 DECRETO Nº 57.406, DE 10 DE DEZEMBRO DE 1965.
 
 Cria o 4º Esquadrão de Remonta e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047351-0-000-04-12-1959@@@
-
 Decreto nº 47.351, de 4 de dezembro de 1959.
 
 Autoriza o cidadão brasileiro Manoel Marques de Souza a pesquisar minério de ferro no município de Camaçari, Estado da Bahia.

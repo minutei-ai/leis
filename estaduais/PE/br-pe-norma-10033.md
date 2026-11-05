@@ -8,7 +8,6 @@ Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei C
 
 Art. 1º O art. 8º da [Lei Complementar nº 196, de 14 de dezembro de 2011](https://legis.alepe.pe.gov.br/?lc1962011), passa a vigorar com a seguinte redação:
 
-<br>
 "Art. 8º No Município de Cabo de Santo Agostinho haverá uma serventia registral, com atribuição para o registro de imóveis e registro de títulos e documentos e civil das pessoas jurídicas, duas serventias de tabelionato, com atribuição para notas e protesto, e uma serventia de registro civil das pessoas naturais, preservando-se as unidades dos distritos judiciários.
 
 Parágrafo único. A nova estrutura dar-se-á através das seguintes normas:

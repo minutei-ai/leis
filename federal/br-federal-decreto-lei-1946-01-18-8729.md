@@ -1,5 +1,3 @@
-###DEL-008729-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.729 – DE 18 DE JANEIRO DE 1946
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$.... 1.500.000,00 para pagamento de auxilio à Academia Nacional de Medicina.

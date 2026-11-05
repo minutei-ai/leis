@@ -1,5 +1,3 @@
-###DEC-068826-0-000-29-06-1971@@@
-
 DECRETO Nº 68.826 - de 29 de junho de 1971.
 
 Aprova o Regulamento da Diretoria Técnica de Pessoal no Ministério da Aeronáutica e dá outras providências.

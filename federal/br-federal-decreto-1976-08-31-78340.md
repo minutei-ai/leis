@@ -1,5 +1,3 @@
-###DEC-078340-0-000-31-08-1976@@@
-
 DECRETO Nº 78.340, DE 31 DE AGOSTO DE 1976.
 
 Altera a redação dos artigos 2º e 4º do Decreto nº 73.681, de 18 de fevereiro de 1974, que dispõe sobre o Programa de Desenvolvimento do Ensino Médio (PRODEM), e dá outras providências.

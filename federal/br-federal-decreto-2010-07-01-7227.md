@@ -1,5 +1,3 @@
-###DEC-007227-0-000-01-07-2010@@@
-
 DECRETO Nº 7.227, DE 1º DE JULHO DE 2010.
 
 Altera o Anexo II do Decreto no 6.479, de 11 de junho de 2008, para estabelecer a remuneração do pessoal temporário de organizações hospitalares
@@ -28,8 +26,54 @@ alíneas “i” e “j”, do art. 2o da Lei no 8.745, de 9 de dezembro de 1993
 
 a) atividades técnicas e de gestão em organizações públicas em geral (alíneas “i” e “j”):
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Remuneração Mensal (R$)</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.700,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades de Apoio à Tecnologia da Informação</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.250,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades Técnicas de Suporte - nível superior</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.800,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades Técnicas de Complexidade Intelectual</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.130,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades Técnicas de Complexidade Gerencial, de Tecnologia da Informação e de Engenharia Sênior</span></p></td><td style="width:151.32pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8.300,00</span></p></td></tr></tbody></table>
+Remuneração Mensal (R$)
+
+Atividade
+
+1.700,00
+
+Atividades de Apoio à Tecnologia da Informação
+
+2.250,00
+
+Atividades Técnicas de Suporte - nível superior
+
+3.800,00
+
+Atividades Técnicas de Complexidade Intelectual
+
+6.130,00
+
+Atividades Técnicas de Complexidade Gerencial, de Tecnologia da Informação e de Engenharia Sênior
+
+8.300,00
 
 b) atividades especializadas em organizações hospitalares (alínea “i”):
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Remuneração Mensal (R$)</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades de Gestão e Manutenção Hospitalar - nível superior</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.348,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades de Suporte em Gestão e Manutenção Hospitalar - nível intermediário</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.078,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades de Enfermagem e outras Atividades Hospitalares Especializadas - nível superior</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.170,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades de Enfermagem e de Suporte ao Diagnóstico - nível intermediário</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.182,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades Médicas Especializadas - nível superior</span></p></td><td style="width:151.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.850,00</span></p></td></tr><tr><td style="width:290.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividades Médicas Especializadas (profissionais com titulação em nível de pós-graduação ou pelo menos dez anos de experiência)</span></p></td><td style="width:151.32pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.580,00</span></p></td></tr></tbody></table>
+Atividade
+
+Remuneração Mensal (R$)
+
+Atividades de Gestão e Manutenção Hospitalar - nível superior
+
+3.348,00
+
+Atividades de Suporte em Gestão e Manutenção Hospitalar - nível intermediário
+
+2.078,00
+
+Atividades de Enfermagem e outras Atividades Hospitalares Especializadas - nível superior
+
+4.170,00
+
+Atividades de Enfermagem e de Suporte ao Diagnóstico - nível intermediário
+
+2.182,00
+
+Atividades Médicas Especializadas - nível superior
+
+4.850,00
+
+Atividades Médicas Especializadas (profissionais com titulação em nível de pós-graduação ou pelo menos dez anos de experiência)
+
+7.580,00

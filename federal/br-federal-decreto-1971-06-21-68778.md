@@ -1,5 +1,3 @@
-###DEC-068778-0-000-21-06-1971@@@
-
 Decreto nº 68.778 - de 21 de junho de 1971.
 
 Autorização para funcionamento do Curso de Ciências (Licenciatura do 1º Ciclo) da Faculdade de Filosofia, Ciências e Letras de Uruguaiana.

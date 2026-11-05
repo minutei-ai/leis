@@ -1,5 +1,3 @@
-###DEC-081226-0-000-18-01-1978@@@
-
 Decreto nº 81.226, de 18 de janeiro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Imbituba da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

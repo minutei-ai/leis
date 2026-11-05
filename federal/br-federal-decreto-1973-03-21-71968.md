@@ -1,5 +1,3 @@
-###DEC-071968-0-000-21-03-1973@@@
-
 DECRETO Nº 71.968, DE 21 DE MARÇO DE 1973.
 
 Retifica o Decreto nº 63.627, de 14 de novembro de 1968, que dispôs sobre o aproveitamento do pessoal da Faculdade de Filosofia e Letras, da Universidade Federal de Juiz de Fora.

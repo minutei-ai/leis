@@ -1,5 +1,3 @@
-###DEC-051730-0-000-21-02-1963@@@
-
 DECRETO Nº 51.730, DE 21 DE FEVEREIRO DE 1963.
 
 Altera a redação do Art. 3º do Decreto nº 1.166, de 8 de junho de 1962.

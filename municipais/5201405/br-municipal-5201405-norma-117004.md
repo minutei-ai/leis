@@ -4,7 +4,8 @@ Dispõe sobre o Conselho Municipal de Políticas sobre Drogas do Município de A
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art.1° Fica instituído o Conselho Municipal de Políticas sobre Drogas – COMPOD de Aparecida de Goiânia, que, integrando-se ao esforço nacional de prevenção ao uso, tratamento, reabilitação e reinserção social do usuário e combate ao tráfico de drogas, dedicar-se-á ao pleno desenvolvimento das ações referentes à redução da demanda de drogas.
@@ -21,7 +22,8 @@ II - droga como toda substância natural ou produto químico que, em contato com
 
 III - drogas ilícitas aquelas assim especificadas em lei nacional e tratados internacionais firmados pelo Brasil, e outras, relacionadas periodicamente pelo órgão competente do Ministério da Saúde, informada a Secretaria Nacional de Políticas sobre Drogas – SENAD e o Ministério da Justiça – MJ.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COMPETÊNCIA
 
 Art. 2° Compete ao Conselho Municipal de Políticas sobre Drogas do Município de Aparecida de Goiânia - COMPOD:
@@ -76,7 +78,8 @@ XXIII - exercer atividades correlatas na área de sua atuação.
 
 § 2° Com a finalidade de contribuir para o aprimoramento dos Sistemas Nacional e Estadual sobre Drogas, o COMPOD, por meio da remessa de relatórios frequentes, deverá manter a Secretaria Nacional de Políticas sobre Drogas - SENAD, e o Conselho Estadual de Políticas sobre Drogas , permanentemente informados sobre os aspectos de interesse relacionados à sua atuação.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ESTRUTURA ORGANIZACIONAL
 
 Art. 3º O COMPOD será integrado por 11 (onze) membros e seus respectivos suplentes, observada a seguinte representatividade:
@@ -121,7 +124,8 @@ Parágrafo único. O detalhamento da organização do COMPOD será objeto do res
 
 Art. 5º As despesas decorrentes da presente lei serão atendidas por verbas próprias do orçamento municipal, que poderão ser suplementadas.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO FUNDO MUNICIPAL DE POLÍTICAS SOBRE DROGAS
 
 Art. 6º Fica instituído o Fundo Municipal de Políticas sobre Drogas – FUMPOD, fundo que, constituído com base nas verbas próprias do orçamento do Município e em recursos suplementares, será destinado ao atendimento das despesas geradas pelo PROMPD ( Programa Municipal de Políticas sobre Drogas).
@@ -154,7 +158,8 @@ III - aquisição de material permanente, de consumo e outros necessários ao de
 
 IV - construção, reforma, ampliação, aquisição ou locação de imóveis para prestação de serviços necessários à execução da Política Municipal sobre Drogas, bem como para sediar o COMPOD.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 10. Os membros do COMPOD não farão jus a nenhuma remuneração, sendo seus serviços considerados de relevante interesse público.
@@ -181,8 +186,10 @@ Art. 17 Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida Goiânia, Estado de Goiás, aos dias 07 dias do mês de dezembro do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

@@ -1,5 +1,3 @@
-###MPV-001745-0-010-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.745-10, DE 14 DE DEZEMBRO DE 1998.
 
 Altera a redação dos arts. 26, 27, 31, 44 e 59 da Lei nº 9.473, de 22 de julho de 1997, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1998.

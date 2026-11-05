@@ -1,5 +1,3 @@
-###DEC-005052-0-000-19-04-2004@@@
-
 DECRETO Nº 5.052,  DE 19 DE ABRIL DE 2004.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Nova Zelândia sobre o Exercício de Atividade Remunerada por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo, Militar e Técnico, de 3 de outubro de 2001.
@@ -112,10 +110,14 @@ ARTIGO 11
 
         Feito em Wellington, em 3 de outubro de 2001, em dois exemplares originais, nos idiomas português e inglês, ambos os textos sendo igualmente autênticos.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-PELO GOVERNO DA REPÚBLICA<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PELO GOVERNO DA REPÚBLICA
+
 FEDERATIVA DO BRASIL
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-PELO GOVERNO DA NOVA<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PELO GOVERNO DA NOVA
+
 ZELÂNDIA

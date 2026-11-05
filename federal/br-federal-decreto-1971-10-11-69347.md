@@ -1,5 +1,3 @@
-###DEC-069347-0-000-11-10-1971@@@
-
 DECRETO Nº 69.347, DE 11 DE OUTUBRO DE 1971.
 
 Concede reconhecimento ao Curso de Geografia do Instituto de Ciências Humanas da Universidade de Caxias do Sul - RS.

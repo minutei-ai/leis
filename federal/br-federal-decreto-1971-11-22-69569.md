@@ -1,5 +1,3 @@
-###DEC-069569-0-000-22-11-1971@@@
-
 DECRETO Nº 69.569 - DE 22 DE NOVEMBRO DE 1971
 
 Outorga à Centrais Elétricas de Santa Catarina S. A., concessão para aproveitamento hidrelétrico.

@@ -1,5 +1,3 @@
-###DEC-068701-0-000-02-06-1971@@@
-
 DECRETO Nº 68.701, DE 2 DE JUNHO DE 1971.
 
 Modifica o Regulamento do Quadro de Estado-Maior do Exército.

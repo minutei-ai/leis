@@ -1,5 +1,3 @@
-###DEC-049816-0-000-05-01-1961@@@
-
 DECRETO Nº 49.816, DE 5 DE Janeiro DE 1961.
 
 Declara de utilidade publica a Irmandade da Santa Casa de Misericórdia de Rio Claro, com sede em Rio Claro, Estado de São Paulo.

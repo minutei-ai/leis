@@ -1,5 +1,3 @@
-###DEC-061869-0-000-07-12-1967@@@
-
 Decreto nº 61.869, de 7 de dezembro de 1967.
 
 Concede reconhecimento a novos Cursos da Escola de Engenharia da Pontifícia Universidade Católica do Rio Grande do Sul.

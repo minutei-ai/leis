@@ -1,5 +1,3 @@
-###DEC-071051-0-000-30-08-1972@@@
-
 DECRETO Nº 71.051, DE 30 DE AGOSTO DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras da Fundação Técnico-Educacional Souza Marques, do Rio de Janeiro - GB.

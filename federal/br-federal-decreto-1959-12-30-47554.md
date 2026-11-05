@@ -1,5 +1,3 @@
-###DEC-047554-0-000-30-12-1959@@@
-
 Decreto nº 47.554, de 30 de dezembro de 1959.
 
 Autoriza a Organização Brasileira de Minérios Ltda. Obramil a pesquisar calcário no município de Itabirito, Estado de Minas Gerais.

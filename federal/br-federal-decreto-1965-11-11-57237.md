@@ -1,5 +1,3 @@
-###DEC-057237-0-000-11-11-1965@@@
-
 DECRETO Nº 57.237, DE 11 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Zacki Curi a pesquisar cassiterita no município de Macapá, Território Federal do Amapá.

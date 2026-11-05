@@ -1,5 +1,3 @@
-###DEC-066914-0-000-20-07-1970@@@
-
 decreto nº 66.914, de 20 de julho de 1970.
 
 Declara caduco o Decreto nº 21.307, de 18 de junho de 1946.

@@ -1,5 +1,3 @@
-###DEC-086192-0-000-07-07-1981@@@
-
 Decreto nº 86.192, de 07 de julho de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Manaus I, da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Estado do Amazonas.

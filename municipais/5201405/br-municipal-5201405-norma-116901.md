@@ -38,11 +38,14 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 16 dias do mês de 
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-DOMINGOS PEREIRA DA SILVA<br>
+DOMINGOS PEREIRA DA SILVA
+
 Secretário Municipal de Educação

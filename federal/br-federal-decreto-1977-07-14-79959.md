@@ -1,5 +1,3 @@
-###DEC-079959-0-000-14-07-1977@@@
-
 DECRETO Nº 79.959, DE 14 DE JULHO DE 1977
 
 Concede à Magnesita S.A. o direito de lavrar cianita no Município de Itamarandiba, Estado de Minas Gerais.

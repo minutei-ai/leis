@@ -1,5 +1,3 @@
-###DEL-002147-0-000-02-07-1984@@@
-
 # Decreto nº 2.147, de 02 de julho de 1984
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar e dá outras providencias.

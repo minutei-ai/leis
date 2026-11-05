@@ -1,5 +1,3 @@
-###DEC-077225-0-000-24-02-1976@@@
-
 DECRETO Nº 77.225, DE 24 DE FEVEREIRO DE 1976
 
 Concede reconhecimento ao curso de Educação Física da Universidade de Mogi das Cruzes, com sede na cidade de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049116-0-000-13-10-1960@@@
-
 Decreto nº 49.116, de 13 de outubro de 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da Escola de Comando e Estado-Maior da Aeronáutica para do Gabinete do Ministro.

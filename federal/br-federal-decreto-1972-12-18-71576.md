@@ -1,5 +1,3 @@
-###DEC-071576-0-000-18-12-1972@@@
-
 DECRETO Nº 71.576 - DE 18 DE DEZEMBRO DE 1972
 
 Autoriza a encampação dos bens e instalações vinculados aos serviços públicos de energia elétrica no município de Itabaiana, Estado de Sergipe, determina intervenção administrativa e dá outras providências.

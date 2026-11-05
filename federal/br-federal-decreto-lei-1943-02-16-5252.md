@@ -1,5 +1,3 @@
-###DEL-005252-0-000-16-02-1943@@@
-
 DECRETO‑LEI N. 5.252  –  DE 16 DE FEVEREIRO DE 1943
 
 Institue com personalidade própria, de natureza autárquica, o Serviço de Nave­gação da Bacia do Prata, e dá  outras providências

@@ -1,5 +1,3 @@
-###DEC-090339-0-000-16-10-1984@@@
-
 decreto nº 90.339, de 16 de outubro de 1984
 
 Concede autorização à MARATHON PETROLEUM NORTE BRAZIL, LTD. para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098 de 25 de março de 1970, a serviço da Petróleo Brasileiro S. - PETROBRÁS.

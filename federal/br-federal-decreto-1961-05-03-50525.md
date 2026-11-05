@@ -1,5 +1,3 @@
-###DEC-050525-0-000-03-05-1961@@@
-
 DECRETO Nº 50.525, DE 3 DE MAIO DE 1961.
 
 Dispõe sôbre aproveitamento de pessoal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089739-0-000-04-06-1984@@@
-
 Decreto nº 89.739, de 04 de junho de 1984
 
 Altera o Decreto nº 87.426, de 27 de Julho de 1982, que dispõe sobre Cargos Privativos de Oficial-General do Exército em Tempo de Paz.

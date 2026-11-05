@@ -1,5 +1,3 @@
-###DEL-008775-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.775 – DE 22 DE JANEIRO DE 1946
 
 Dispõe sôbre regime escolar de ensino superior.

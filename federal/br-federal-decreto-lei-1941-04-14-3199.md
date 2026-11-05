@@ -1,5 +1,3 @@
-###DEL-003199-0-000-14-04-1941@@@
-
 DECRETO-LEI N. 3.199 – DE 14 DE ABRIL DE 1941
 
 Estabelece as bases de organização dos desportos em todo o país.

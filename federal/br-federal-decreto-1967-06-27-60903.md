@@ -1,5 +1,3 @@
-###DEC-060903-0-000-27-06-1967@@@
-
 Decreto nº 60.903, de 27 de junho de 1967.
 
 Declara de utilidade pública Instituto Bom Pastor, com sede em Barbacena, Estado de Minas Gerais.

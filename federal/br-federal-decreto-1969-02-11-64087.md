@@ -1,5 +1,3 @@
-###DEC-064087-0-000-11-02-1969@@@
-
 decreto nº 64.087, de 11 de fevereiro de 1969.
 
 Declara sem efeito o Decreto número 12.005, de 19 de março de 1943.

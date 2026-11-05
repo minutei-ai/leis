@@ -1,7 +1,3 @@
-1
-
-###MPV-001231-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.231, DE 14 DE DEZEMBRO DE 1995.
 
 Altera a redação de dispositivos das Leis nºs 8.112, de 11 de dezembro de 1990, e 8.911, de 11 de julho de 1994, para instituir os Décimos Incorporados, e dá outras providências.

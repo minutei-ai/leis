@@ -1,5 +1,3 @@
-###DEL-002300-0-000-21-11-1986@@@
-
 # DECRETO-LEI Nº 2.300, DE 21 DE NOVEMBRO DE 1986
 
 Dispõe sobre licitações e contratos da Administração Federal e dá outras providências.

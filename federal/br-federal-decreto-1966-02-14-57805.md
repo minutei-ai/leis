@@ -1,5 +1,3 @@
-###DEC-057805-0-000-14-02-1966@@@
-
 DECRETO Nº 57.805, DE 14 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão entre a Usina Termoeléctrica de Santa Cruz e a subestação da Central Elétrica de Furnas, no Estado da Guanabara.
@@ -83,8 +81,6 @@ Brasília, 14 de fevereiro de 1966; 145º da Independência e 78º da República
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-057805-0-000-14-02-1966@@@RET01+++
 
 DECRETO Nº 57.805, de 14 de fevereiro de 1966.
 

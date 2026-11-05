@@ -1,5 +1,3 @@
-###DEL-005416-0-000-16-04-1943@@@
-
 DECRETO‑LEI N. 5.416 – DE 16 DE ABRIL DE 1943
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 7.838,70, para atender a pagamento de vencimentos

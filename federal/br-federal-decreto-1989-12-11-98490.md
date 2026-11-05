@@ -1,5 +1,3 @@
-###DEC-098490-0-000-11-12-1989@@@
-
 DECRETO N° 98.490, DE 11 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, situados nos Municípios de Aracaju, São Cristóvão, Nossa Senhora do Socorro, Laranjeiras, Maruim, Rosário do Catete e Carmópolis, no Estado de Sergipe, necessários à construção do Gasoduto Carmópolis/Atalaia.

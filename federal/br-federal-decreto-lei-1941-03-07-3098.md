@@ -1,5 +1,3 @@
-###DEL-003098-0-000-07-03-1941@@@
-
 DECRETO-LEI N. 3.098 – DE 7 DE MARÇO DE 1941
 
 Cria funções gratificadas no Ministério da Fazenda e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-004932-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.932 – DE 6 DE NOVEMBRO DE 1942
 
 Dispõe sobre a cobrança da “taxa sobre kw” criada pelo decreto-lei número 2.281, de 5 de junho de 1940, e sobre a fixação dos valores das quotas respectivas nos anos de 1942 e 1943

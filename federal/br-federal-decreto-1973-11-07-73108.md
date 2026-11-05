@@ -1,5 +1,3 @@
-###DEC-073108-0-000-07-11-1973@@@
-
 DECRETO Nº 73.108 - DE 7 DE NOVEMBRO DE 1973
 
 Transfere para o Quadro de Pessoal do IPASE funcionária, com o respectivo cargo, do Quadro em extinção da Fundação IBGE.

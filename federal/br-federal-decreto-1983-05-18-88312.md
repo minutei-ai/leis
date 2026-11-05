@@ -1,5 +1,3 @@
-###DEC-088312-0-000-18-05-1983@@@
-
 DECRETO Nº 88.312, DE 18 DE MAIO DE 1983
 
 Concede à Companhia Siderúrgica de Tubarão - CST, autorização para proceder a aumento do seu Capital Social.

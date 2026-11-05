@@ -1,5 +1,3 @@
-###DEC-052131-0-000-17-06-1963@@@
-
 DECRETO Nº 52.131, DE 17 DE JUNHO DE 1963.
 
 Retifica o Decreto n° 51.852, de 19 de março de 1963, que aprovou as alterações havidas na Série de Classes de Assistente Comercial, AF-103, e na Classe de Correntista, AF-203, do Quadro de Pessoal do Ministério da Aeronáutica.

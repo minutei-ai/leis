@@ -1,5 +1,3 @@
-###DEL-008595-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.595 – DE 8 DE JANEIRO DE 1946
 
 Modifica o Decreto-lei n. 300, de 24 de fevereiro de 1938

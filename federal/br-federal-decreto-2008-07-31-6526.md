@@ -1,5 +1,3 @@
-###DEC-006526-0-000-31-07-2008@@@
-
 DECRETO Nº 6.526, DE 31 DE JULHO DE 2008.
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto no 4.418, de 11 de outubro de 2002.

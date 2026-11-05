@@ -1,5 +1,3 @@
-###DEC-073854-0-000-14-03-1974@@@
-
 DECRETO Nº 73.854, DE 14 DE MARÇO DE 1974.
 
 Transfere, com os respectivos cargos, funcionários de quadros em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual Fundação IBGE.

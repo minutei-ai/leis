@@ -1,5 +1,3 @@
-###DEC-050367-0-000-21-03-1961@@@
-
 DECRETO Nº 50.367, DE 21 DE MARÇO DE 1961.
 
 Cria a Comissão de Liquidação da COFAP e seus órgãos auxiliares.

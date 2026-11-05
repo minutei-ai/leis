@@ -1,5 +1,3 @@
-###DEC-007216-0-000-17-06-2010@@@
-
 DECRETO Nº 7.216, DE 17 DE JUNHO DE 2010.
 
 Dá nova redação e acresce dispositivos ao Regulamento dos arts. 27-A, 28-A e 29-A da Lei nº 8.171, de 17 de janeiro de 1991, aprovado pelo Decreto nº 5.741, de 30 de março de 2006, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-087345-0-000-29-06-1982@@@
-
 Decreto nº 87.345, de 29 de junho de 1982.
 
 Concede autorização à Empresa OCCIDENTAL BRAZILIAN HOLDINGS LTD., para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

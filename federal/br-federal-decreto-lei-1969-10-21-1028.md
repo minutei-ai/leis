@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ee501971-2c9c-4221-8527-b4f33dd1ee4b/texto#nowhere)
 
-###DEL-001028-0-000-21-10-1969@@@
-
 DeCRETO-LEI Nº 1.028, DE 21 DE OUTuBRO DE 1969
 
 Aprova o estatuto da Federação das Escolas Federais Isoladas do Estado da Guanabara e dá outras providências.

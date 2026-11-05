@@ -1,5 +1,3 @@
-###DEC-003571-0-000-21-08-2000@@@
-
 DECRETO Nº 3.571, DE 21 DE AGOSTO DE 2000.
 
 Dá nova redação a dispositivos do Regulamento da Agência Nacional de Vigilância Sanitária aprovado pelo Decreto nº 3.029, de 16 de abril de 1999.

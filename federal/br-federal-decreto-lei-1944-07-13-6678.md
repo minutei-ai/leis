@@ -1,5 +1,3 @@
-###DEL-006678-0-000-13-07-1944@@@
-
 DECRETO-LEI N. 6.678 – DE 13 DE JULHO DE  1944
 
 Altera um dispositivo do Decreto-lei nº 6.509, de 18 de maio de 1944

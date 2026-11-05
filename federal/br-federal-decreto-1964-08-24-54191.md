@@ -1,5 +1,3 @@
-###DEC-054191-0-000-24-08-1964@@@
-
 decreto nº 54.191, de 24 de agôsto de 1964.
 
 Autoriza a Companhia Paranaense de Energia Elétrica a constituir hipoteca.

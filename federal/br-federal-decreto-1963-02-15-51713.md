@@ -1,5 +1,3 @@
-###DEC-051713-0-000-15-02-1963@@@
-
 Decreto nº 51.713 de 15 de fevereiro de 1963.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Caridade de São Gabriel, com sede em São Gabriel, Estado do Rio Grande do Sul.

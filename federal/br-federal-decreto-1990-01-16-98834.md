@@ -1,7 +1,3 @@
-1
-
-###DEC-098834-0-000-16-01-1990@@@
-
 DECRETO N° 98.834, DE 16 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Filosofia, Ciências e Letras, em Araxá, Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-004980-0-000-04-02-2004@@@
-
 DECRETO Nº 4.980,  DE 4 DE FEVEREIRO DE 2004.
 
 Dá nova redação a dispositivos dos Decretos nºs 895, de 16 de agosto de 1993, que dispõe sobre a organização do Sistema Nacional de Defesa Civil (Sindec), e 1.080, de 8 de março de 1994, que regulamenta o Fundo Especial para Calamidades Públicas (Funcap), e dá outras providências.

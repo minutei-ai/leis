@@ -1,5 +1,3 @@
-###DEC-046009-0-000-18-05-1959@@@
-
 DECRETO Nº 46.009, DE 18 DE MAIO DE 1959.
 
 Renova o Decreto nº 40.821, de 23 de janeiro de 1957.

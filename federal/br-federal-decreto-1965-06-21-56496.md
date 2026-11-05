@@ -1,5 +1,3 @@
-###DEC-056496-0-000-21-06-1965@@@
-
 Decreto nº 56.496, de 21 de junho de 1965.
 
 Declara de utilidade pública a Santa Casa de Caridade de Bagé, com sede em Bagé, Estado do Rio Grande do Sul.

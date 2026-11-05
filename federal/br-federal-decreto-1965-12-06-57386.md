@@ -1,5 +1,3 @@
-###DEC-057386-0-000-06-12-1965@@@
-
 DECRETO Nº 57.386, DE 6 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Herminio Apparecido Bonetti a pesquisar feldspato, no município de Socorro, Estado de São Paulo.

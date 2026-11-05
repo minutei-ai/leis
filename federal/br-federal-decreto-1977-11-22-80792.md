@@ -1,5 +1,3 @@
-###DEC-080792-0-000-22-11-1977@@@
-
 Decreto nº 80.792, de 22 de novembro de 1977.
 
 Outorga ao INSTITUTO ADVENTISTA AGRO-INDUSTRIAL concessão para o aproveitamento de energia hidráulica de um trecho do Igarapé Paraíba, no Município de Manaus, Estado do Amazonas, para uso exclusivo.

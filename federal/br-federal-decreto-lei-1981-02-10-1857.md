@@ -1,7 +1,3 @@
-1
-
-###DEL-001857-0-000-10-02-1981@@@
-
 # DeCReto-LEI nº 1.857, dE 10 de fevereiro de 1981.
 
 Altera alíquotas da Tarifa Aduaneira do Brasil (TAB), prorroga prazos de vigência de Decretos-Leis que dispõem sobre acréscimos às alíquotas do imposto de importação e dá outras providências.
@@ -20,7 +16,73 @@ Parágrafo único - Em 01 de janeiro de 1983 vigorará a Tarifa Aduaneira a que 
 
 Art. 3º - As subposições e itens da Tarifa Aduaneira do Brasil (TAB), abaixo enumerados, passam a vigorar com as seguintes alíquotas “ad valorem”:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">Código</span><span></span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">Mercadoria</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">Alíquota</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>“</span><span style="font-style:italic; text-decoration:underline">ad valorem</span><span style="text-decoration:underline">”</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>31.03.05.00</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Superfosfato com teor de P</span><span style="font-size:0.8em; vertical-align:-2pt">2</span><span>0</span><span style="font-size:0.8em; vertical-align:-2pt">5</span><span> de mais de 22% a 45%</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>40%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.03.06.00</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Superfosfato com teor de P</span><span style="font-size:0.8em; vertical-align:-2pt">2</span><span>0</span><span style="font-size:0.8em; vertical-align:-2pt">5</span><span> de mais de 45%</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>40%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.05.01.01</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Fosfato diamônico com teor de arsênio de 6mg/Kg ou mais</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>50%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.05.01.99</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Qualquer outro</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>50%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.05.02.00</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Fosfato duplo de amônio e potássio</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>80%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.05.03.00</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Nitrofosfato de potássio</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>80%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.05.06.00</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Mistura de fertilizantes, granulado ou não, contendo nitrogênio, fósforo e potássio na formulação</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>80%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.05.07.00</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Produtos do presente Capítulo que se apresentem em tabletes, pastilhas e outras formas semelhantes</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>80%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.05.08.00</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Produtos do presente Capítulo que se apresentem em recipientes de peso bruto máximo de 10 Kg.</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>80%</span></p></td></tr><tr><td style="width:100.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>31.05.99.00</span></p></td><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Outros</span></p></td><td style="width:93.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>80%</span></p></td></tr></tbody></table>
+Código
+
+Mercadoria
+
+Alíquota
+
+“ad valorem”
+
+31.03.05.00
+
+- Superfosfato com teor de P205 de mais de 22% a 45%
+
+40%
+
+31.03.06.00
+
+- Superfosfato com teor de P205 de mais de 45%
+
+40%
+
+31.05.01.01
+
+- Fosfato diamônico com teor de arsênio de 6mg/Kg ou mais
+
+50%
+
+31.05.01.99
+
+- Qualquer outro
+
+50%
+
+31.05.02.00
+
+- Fosfato duplo de amônio e potássio
+
+80%
+
+31.05.03.00
+
+- Nitrofosfato de potássio
+
+80%
+
+31.05.06.00
+
+- Mistura de fertilizantes, granulado ou não, contendo nitrogênio, fósforo e potássio na formulação
+
+80%
+
+31.05.07.00
+
+- Produtos do presente Capítulo que se apresentem em tabletes, pastilhas e outras formas semelhantes
+
+80%
+
+31.05.08.00
+
+- Produtos do presente Capítulo que se apresentem em recipientes de peso bruto máximo de 10 Kg.
+
+80%
+
+31.05.99.00
+
+Outros
+
+80%
 
 Art. 4º - Observada a legislação pertinente, a Comissão de Política Aduaneira poderá expedir Resoluções de caráter genérico para reduzir até zero (0), nos casos, condições e prazos que estabeleça, as alíquotas do imposto de importação incidentes sobre equipamentos, máquinas, veículos, aparelhos, instrumentos, partes, peças e acessórios, a fim de adequar, aos objetivos da Tarifa, o tratamento relativo a empreendimentos de reconhecido interesse econômico.
 

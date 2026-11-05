@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212417)<br>
-
 # DECRETO N° 70.495, DE 31 DE MARÇO DE 2026
 
 ### _Aprova o Plano de Metas Decenal de Enfrentamento à Violência Doméstica e Familiar do Estado de São Paulo._

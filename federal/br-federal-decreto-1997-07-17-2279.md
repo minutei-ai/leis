@@ -1,5 +1,3 @@
-###DEC-002279-0-000-17-07-1997@@@
-
 DECRETO Nº 2.279, DE 17 DE JULHO DE 1997
 
 Prorroga o prazo previsto no § 5º do art. 2º da Medida Provisória nº 1.540-26, de 10 de julho de 1997.

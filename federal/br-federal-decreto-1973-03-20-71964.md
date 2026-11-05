@@ -1,5 +1,3 @@
-###DEC-071964-0-000-20-03-1973@@@
-
 Decreto Nº 71.964, De 20 DE MARÇO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de São Paulo.

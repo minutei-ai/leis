@@ -1,5 +1,3 @@
-###DEC-058065-0-000-23-03-1966@@@
-
 DECRETO Nº 58.065, DE 23 DE março DE 1966
 
 Autoriza cimento Aratú S.A. a pesquisar conchas calcárias e corais no município de Salvador, Estado da Bahia.

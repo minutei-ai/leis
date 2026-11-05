@@ -1,5 +1,3 @@
-###DEC-055333-0-000-31-12-1964@@@
-
 DECRETO Nº 55.333, DE 31 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre as solenidades comemorativas do centenário de Epitácio Pessôa, e dá outras providências.
@@ -23,8 +21,6 @@ Brasília, 31 de dezembro de 1.964; 143º da Independência e 76º da República
 H. CASTELLO BRANCO
 
 Vasco da Cunha
-
-###DEC-055333-0-000-31-12-1964@@@RET01+++
 
 DECRETO Nº 55.333, DE 31 DE DEZEMBRO de 1964.
 

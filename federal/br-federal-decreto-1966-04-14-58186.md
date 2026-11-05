@@ -1,5 +1,3 @@
-###DEC-058186-0-000-14-04-1966@@@
-
 DECRETO Nº 58.186, DE 14 DE ABRIL DE 1966.
 
 Concede à The Home Insurance Company autorização para aumentar o capital destinado às suas operações de seguros no Brasil.
@@ -17,8 +15,6 @@ Brasília, 14 de abril de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Paulo Egydio Martins
-
-###DEC-058186-0-000-14-04-1966@@@RET01+++
 
 DECRETO Nº 58.186, DE 14 DE ABRIL DE 1966.
 

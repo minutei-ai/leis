@@ -1,5 +1,3 @@
-###DEL-008588-0-000-08-01-1946@@@
-
 DECRETO-LEI N.8.588 – DE 8 DE JANEIRO DE 1946
 
 Dispõe sôbre funções gratificadas do Quadro Permanente do Ministério da Educação e Saúde, e dá outras providências.

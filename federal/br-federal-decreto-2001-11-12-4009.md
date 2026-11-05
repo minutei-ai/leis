@@ -1,5 +1,3 @@
-###DEC-004009-0-000-12-11-2001@@@
-
 DECRETO Nº 4.009, DE 12 DE NOVEMBRO DE 2001
 
 Desvincula ações do Fundo Nacional de Desestatização - FND e autoriza o aumento de capital social da Companhia de Armazéns e Silos do Estado de Minas Gerais - CASEMG.

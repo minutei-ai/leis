@@ -1,5 +1,3 @@
-###DEC-059505-0-000-09-11-1966@@@
-
 DECRETO Nº 59.505, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro João Abel Filho a pesquisar feldspato e areia quartzosa, no município de Peruíbe, Estado de São Paulo.

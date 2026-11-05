@@ -1,7 +1,3 @@
-1
-
-###DEC-098592-0-000-18-12-1989@@@
-
 DECRETO Nº 98.592, DE 18 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de Constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz-  CPFL, localizada no Município de Ituverava, Estado de São Paulo.

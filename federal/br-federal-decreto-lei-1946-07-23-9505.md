@@ -1,5 +1,3 @@
-###DEL-009505-0-000-23-07-1946@@@
-
 DECRETO-LEI N. 9.505 – DE 23 DE JULHO DE 1946
 
 Dá nova redação aos arts. 4º, 5º 6º e 7º do Decreto-lei n.º 8.921, de 26 de Janeiro de 1946.

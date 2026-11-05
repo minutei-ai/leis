@@ -1,5 +1,3 @@
-###DEC-061658-0-000-08-11-1967@@@
-
 DECRETO Nº 61.658, DE 8 DE NOVEMBRO DE 1967.
 
 Concede à Immobiliare Casa Latina - Società Per Azioni autorização para continuar a funcionar na República do Brasil.

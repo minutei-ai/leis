@@ -1,7 +1,3 @@
-1
-
-###MPV-000772-0-000-20-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 772, DE 20 DE DEZEMBRO DE 1994
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

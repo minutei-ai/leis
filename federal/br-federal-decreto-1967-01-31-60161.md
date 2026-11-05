@@ -1,5 +1,3 @@
-###DEC-060161-0-000-31-01-1967@@@
-
 decreto nº 60.161, de 31 de janeiro de 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno correspondente à bacia de irrigação com a construção da barragem de derivação, no açude público “Caxitoré”, município de Pentecoste, Estado do Ceará.

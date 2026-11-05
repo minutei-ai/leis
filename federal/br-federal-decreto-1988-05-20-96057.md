@@ -1,5 +1,3 @@
-###DEC-096057-0-000-20-05-1988@@@
-
 DECRETO N° 96.057, DE 20 DE MAIO DE 1988
 
 Autoriza efetivar o aumento de potência das entidades que menciona, executantes de serviço de radiodifusão sonora em onda média, nas cidades e unidades da federação indicadas.

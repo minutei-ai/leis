@@ -1,5 +1,3 @@
-###DEC-045832-0-000-20-04-1959@@@
-
 Decreto nº 45.832, de 20 de abril de 1959.
 
 Cria o conselho do Desenvolvimento o Grupo Executivo para aplicação de Computadores Eletrônicos (GEACE) e dá outras providências.

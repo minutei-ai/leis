@@ -1,5 +1,3 @@
-###DEC-069921-0-000-12-01-1972@@@
-
 DECRETO Nº 69.921, DE 12 DE JANEIRO DE 1972.
 
 Estabelece as proporções a serem observadas na fixação do número mínimo de vagas referentes ao ano de 1971.

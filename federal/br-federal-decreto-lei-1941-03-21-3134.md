@@ -1,5 +1,3 @@
-###DEL-003134-0-000-21-03-1941@@@
-
 DECRETO-LEI N. 3.134 – DE 21 DE MARÇO DE 1941
 
 Concede ao Tonring Clube do Brasil a utilização do terreno que menciona

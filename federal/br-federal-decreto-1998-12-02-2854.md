@@ -1,5 +1,3 @@
-###DEC-002854-0-000-02-12-1998@@@
-
 DECRETO Nº 2.854, DE 2 DE DEZEMBRO DE 1998.
 
 Dá nova redação aos arts. 21 e 29 do Decreto nº 81.771, de 7 de junho de 1978, que regulamenta a Lei nº 6.507, de 19 de dezembro de 1977, que dispõe sobre a inspeção e a fiscalização da produção e do comércio de sementes e mudas.

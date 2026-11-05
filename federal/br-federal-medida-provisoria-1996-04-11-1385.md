@@ -1,7 +1,3 @@
-1
-
-###MPV-001385-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.385, DE 11 DE ABRIL DE 1996.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

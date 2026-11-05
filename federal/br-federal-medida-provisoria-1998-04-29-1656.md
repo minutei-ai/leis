@@ -1,5 +1,3 @@
-###MPV-001656-0-000-29-04-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.656, DE 29 DE AbRIL DE 1998
 
 Dispõe sobre reajuste do salário mínimo.

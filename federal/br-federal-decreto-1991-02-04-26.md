@@ -1,5 +1,3 @@
-###DEC-000026-0-000-04-02-1991@@@
-
 DECRETO Nº 26, DE 4 DE FEVEREIRO DE 1991
 
 Dispõe sobre a Educação Indígena no Brasil.

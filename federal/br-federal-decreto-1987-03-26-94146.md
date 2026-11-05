@@ -1,5 +1,3 @@
-###DEC-094146-0-000-26-03-1987@@@
-
 DECRETO Nº 94.146, DE 26 DE MARÇO DE 1987.
 
 Transfere a outorga concedida à RÁDIO RIO DAS GARÇAS LTDA., para executar serviço de radiodifusão na cidade de Acaraú - CE para a cidade de Itarema - CE.

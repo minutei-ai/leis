@@ -1,5 +1,3 @@
-###MPV-002118-0-028-23-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.118-28, DE 23 DE FEVEREIRO DE 2001
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

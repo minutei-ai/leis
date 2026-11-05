@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59820)
-
 # LEI Nº 12.184, DE 04 DE JANEIRO DE 2006
 
 ### _Autoriza a Fazenda do Estado a conceder o uso do imóvel situado no Município de São Paulo_

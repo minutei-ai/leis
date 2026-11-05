@@ -1,5 +1,3 @@
-###DEC-054808-0-000-03-11-1964@@@
-
 Decreto nº 54.808, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro André Félix da Silva a pesquisar água mineral, no município de Arapiraca, Estado de Alagoas.

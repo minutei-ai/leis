@@ -1,5 +1,3 @@
-###DEC-057122-0-000-19-10-1965@@@
-
 DECRETO Nº 57.122, DE 19 DE OUTUBRO DE 1965.
 
 Concede à Pedreira Meira Ltda., autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185044)
-
 # DECRETO Nº 63.167, DE 19 DE JANEIRO DE 2018
 
 ### _Regulamenta a Lei nº 16.475, de 26 de junho de 2017, que dispõe sobre a regularização de posse em terras devolutas das Regiões Administrativas de Registro e de Itapeva, e dá providências correlatas_
@@ -124,10 +122,16 @@ Palácio dos Bandeirantes, 19 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-Márcio Fernando Elias Rosa<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Márcio Fernando Elias Rosa
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 19 de janeiro de 2018.

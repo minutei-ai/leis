@@ -1,38 +1,36 @@
-###DEC-020304-0-000-02-01-1946@@@
+**DECRETO Nº 20.304, DE 2 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.304, DE 2 DE JANEIRO DE 1946.</strong>
+***Aprova o Regimento do Serviço de Documentação do Ministério da Educação e Saúde.***
 
-<em><strong>Aprova o Regimento do Serviço de Documentação do Ministério da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, alínea *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, alínea <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º. Fica aprovado o Regimento do Serviço de Documentação, que, assinado pelo Ministro da Educação e Saúde com êste baixa.
 
-<strong>Art</strong>. 1º. Fica aprovado o Regimento do Serviço de Documentação, que, assinado pelo Ministro da Educação e Saúde com êste baixa.
+**Art**. 2º. Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º. Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º. Revogam-se as disposições em contrário
+**Art**. 3º. Revogam-se as disposições em contrário
 
 Rio de Janeiro, 2 de janeiro de 1946, 125º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Raul Leitão da Cunha
 
-<strong>REGIMENTO DO SERVIÇO DE DOCUMENTAÇÃO</strong>
+**REGIMENTO DO SERVIÇO DE DOCUMENTAÇÃO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E COMPETÊNCIA</em>
+*DA FINALIDADE E COMPETÊNCIA*
 
-<strong>Art</strong>. 1º. O Serviço de Documentação, subordinado ao Ministro da Educação e Saúde, tem por finalidade coligir, ordenar e conservar textos documentários, dados descritivos, estatísticos e documentação fotográfica, competindo-lhe organizar e fazer publicar os “Anais do Ministério da Educação e Saúde”, exposições e conferências sôbre temas de interêsse cultural ou educativo e outros trabalhos concernentes à atividade do mesmo e de interêsse do público.
+**Art**. 1º. O Serviço de Documentação, subordinado ao Ministro da Educação e Saúde, tem por finalidade coligir, ordenar e conservar textos documentários, dados descritivos, estatísticos e documentação fotográfica, competindo-lhe organizar e fazer publicar os “Anais do Ministério da Educação e Saúde”, exposições e conferências sôbre temas de interêsse cultural ou educativo e outros trabalhos concernentes à atividade do mesmo e de interêsse do público.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O Serviço de Documentação compõe-se de:
+**Art**. 2º O Serviço de Documentação compõe-se de:
 
 Seção de Divulgação
 
@@ -42,15 +40,15 @@ Seção de Administração
 
 Parágrafo único. À Seção de Administração ficam subordinados o arquivo e o gabinete fotográfico.
 
-<strong>Art</strong>. 3º. O Serviço terá um diretor subordinado imediatamente ao ministro; as seções terão chefes subordinados diretamente ao diretor.
+**Art**. 3º. O Serviço terá um diretor subordinado imediatamente ao ministro; as seções terão chefes subordinados diretamente ao diretor.
 
 Parágrafo único. O diretor terá um secretário, escolhido dentre os servidores do Ministério.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 4º À Seção de Divulgação compete:
+**Art**. 4º À Seção de Divulgação compete:
 
 a) prestar ao público informações e instruções referentes à ação do Ministério;
 
@@ -66,7 +64,7 @@ f) promover a reedição atualizada de trabalhos esgotados relacionados com as f
 
 g) organizar conferências e exposições públicas, sôbre os assuntos de que se ocupa o Ministério.
 
-<strong>Art</strong>. 5º. A Seção de Pesquisa compete:
+**Art**. 5º. A Seção de Pesquisa compete:
 
 a) manter organizado o registro da legislação concernente ao Ministério bem assim o das portarias e instruções ministeriais e circulares da Presidência da República.
 
@@ -76,7 +74,7 @@ c) colecionar recortes de jornais revistas sôbre matéria de interêsse do Mini
 
 d) traduzir, quando necessário por determinação do diretor, publicações estrangeiras relacionadas com assuntos da finalidade do Serviço;
 
-<strong>Art</strong>. 6º À Seção de Administração compete:
+**Art**. 6º À Seção de Administração compete:
 
 a) elaborar os trabalhos mecanográficos e o expediente de matéria administrativa que não seja da competência específica de outro órgão do Serviço;
 
@@ -86,13 +84,13 @@ c) fazer o gabinete fotográfico executar o serviço de fotografia determinado p
 
 d) manter organizado o arquivo do Serviço.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<em>Do diretor</em>
+*Do diretor*
 
-<strong>Art</strong>. 7º Ao diretor incumbe:
+**Art**. 7º Ao diretor incumbe:
 
 I – dirigir os trabalhos do Serviço;
 
@@ -130,17 +128,17 @@ XVII – providenciar sôbre a organização da sinopse e do índice de leis, re
 
 XVIII – autenticar documentos e respectivas cópias, que tenham de ser submetidos à deliberação do ministro.
 
-<em>DO SECRETÁRIO</em>
+*DO SECRETÁRIO*
 
-<strong>Art</strong>. 8º Ao secretário incumbe:
+**Art**. 8º Ao secretário incumbe:
 
 I – receber as pessoas que desejem falar ao diretor e encaminhá-las ou a êle transmitir o assunto, conforme as suas ordens;
 
 II – representar o diretor, quando para isto fôr por êle designado;
 
-<em>Dos chefes de seção</em>
+*Dos chefes de seção*
 
-<strong>Art</strong>. 9º Aos chefes de seção incumbe:
+**Art**. 9º Aos chefes de seção incumbe:
 
 I – dirigir os trabalhos da seção a seu cargo;
 
@@ -162,4 +160,4 @@ IX – impedir, no recinto do órgão que dirige, a presença de pessoa estranha
 
 Rio de Janeiro, 27 de dezembro de 1945 .
 
-<strong>RAUL LEITÃO CUNHA</strong>
+**RAUL LEITÃO CUNHA**

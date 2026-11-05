@@ -1,5 +1,3 @@
-###DEC-091793-0-000-17-10-1985@@@
-
 Decreto nº 91.793, de 17 de outubro de 1985.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Jaciretã, situado no Município de Renascença, no Estado do Paraná, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, e alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976 e 84.969, de 28 de julho de 1980.

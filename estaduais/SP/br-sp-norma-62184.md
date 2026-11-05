@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62184)
-
 # LEI Nº 12.377, DE 10 DE MAIO DE 2006
 
 ## (Projeto de lei nº 466/2005, do Deputado Orlando Morando - PL)

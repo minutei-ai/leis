@@ -1,5 +1,3 @@
-###MPV-001905-0-018-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.905-18, DE 23 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

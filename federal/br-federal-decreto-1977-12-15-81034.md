@@ -1,5 +1,3 @@
-###DEC-081034-0-000-15-12-1977@@@
-
 Decreto nº 81.034, de 15 de Dezembro de 1977.
 
 Concede reconhecimento ao curso de Ciências, ministrado pela Universidade Federal do Piauí, com sede na cidade de Teresina, Estado do Piauí.

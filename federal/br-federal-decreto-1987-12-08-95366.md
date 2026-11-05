@@ -1,5 +1,3 @@
-###DEC-095366-0-000-08-12-1987@@@
-
 DECRETO Nº 95.366, DE 8 DE DEZEMBRO DE 1987
 
 Concede autorização ao navio de pesquisa "ROBERT D. CONRAD", de bandeira norte-americana, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-007710-0-000-03-04-2012-PUB-01@@@
-
 DECRETO Nº 7.710, DE 3 DE ABRIL DE 2012
 
 Estabelece os limites para a concessão de equalização de juros amparadas pelo Programa de Financiamento às Exportações.

@@ -1,5 +1,3 @@
-###DEC-093186-0-000-29-08-1986@@@
-
 DECRETO Nº 93.186, DE 29 DE AGOSTO DE 1986
 
 Torna a função de Chefe da Guarda Portuária, quando ocupada por Oficial de Marinha, da ativa, função de natureza militar.

@@ -1,5 +1,3 @@
-###DEC-060874-0-000-19-06-1967@@@
-
 decreto Nº 60.874, DE 19 DE junho DE 1967.
 
 Extingue o Consulado Honorário do Brasil em Saigão.

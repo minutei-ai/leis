@@ -1,5 +1,3 @@
-###DEC-085628-0-000-07-01-1981@@@
-
 Decreto Nº 85.628, de 07 de janeiro de 1981
 
 Outorga à Companhia Paranaense de Energia - COPEL concessão para o aproveitamento da energia hidráulica de um trecho do rio Cavernoso, divisa dos Municípios de Laranjeiras do Sul e Guarapuava, Estado do Paraná, e dá outras providências.

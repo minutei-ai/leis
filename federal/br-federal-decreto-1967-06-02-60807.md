@@ -1,5 +1,3 @@
-###DEC-060807-0-000-02-06-1967@@@
-
 Decreto nº 60.807, de 2 de junho de 1967.
 
 Exclui dos efeitos expropriatórios do Decreto nº 53.404, de 13 de janeiro de 1964, os imóveis rurais que menciona.

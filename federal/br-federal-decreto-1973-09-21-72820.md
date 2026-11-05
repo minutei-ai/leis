@@ -1,5 +1,3 @@
-###DEC-072820-0-000-21-09-1973@@@
-
 DECRETO Nº 72.820, DE 21 DE SETEMBRO DE 1973.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o artigo 81, item III, da Constituição,

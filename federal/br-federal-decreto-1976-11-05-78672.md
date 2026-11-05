@@ -1,5 +1,3 @@
-###DEC-078672-0-000-05-11-1976@@@
-
 DECRETO Nº 78.672, de 5 de novembro de 1976
 
 Dispõe sobre a transferência do Colégio Agrícola de Teresina para a Fundação Universidade Federal do Piauí, e dá outras providências.

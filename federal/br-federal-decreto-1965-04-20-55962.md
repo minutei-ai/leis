@@ -1,5 +1,3 @@
-###DEC-055962-0-000-20-04-1965@@@
-
 Decreto nº 55.962, de 20 de Abril de 1965.
 
 Autoriza a cessão, sob a forma de utilização gratuita de imóvel que menciona, situado no Estado da Guanabara.

@@ -1,8 +1,12 @@
-###MPV-000016-0-000-27-12-2001@@@
-
 MEDIDA PROVISÓRIA Nº 16, DE 27 DE DEZEMBRO DE 2001.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:178.65pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"></p></td><td style="width:209.7pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:12.75pt"><span>Altera a legislação tributária federal e dá outras providências.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:178.65pt; vertical-align:top">
+
+</td><td style="width:209.7pt; vertical-align:top">
+
+Altera a legislação tributária federal e dá outras providências.
+
+</td></tr></tbody></table>
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
 
@@ -94,5 +98,6 @@ Art. 10. Esta Medida Provisória entra em vigor na data de sua publicação.
 
 Brasília, 27 de dezembro de 2001; 180o da Independência e 113o da República.
 
-FERNANDO HENRIQUE CARDOSO<br>
+FERNANDO HENRIQUE CARDOSO
+
 Amaury Guilherme Bier

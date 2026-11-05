@@ -1,5 +1,3 @@
-###DEC-086259-0-000-04-08-1981@@@
-
 DECRETO Nº 86.259, de 04 DE agosto de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de distribuição da Centrais Elétricas do Maranhão S.A. - CEMAR, no Estado do Maranhão.

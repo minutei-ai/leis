@@ -1,5 +1,3 @@
-###DEL-007100-0-000-30-11-1944@@@
-
 DECRETO-LEI N. 7.100 – DE 30 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.000. 000,00, para a Fábrica Nacional de Motores

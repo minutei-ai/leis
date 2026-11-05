@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211065)<br>
-
 # DECRETO N° 69.627, DE 13 DE JUNHO DE 2025
 
 ### _Dispõe sobre a reclassificação da unidade policial que especifica, a instalação da Delegacia de Polícia de Defesa da Mulher de Paulínia e dá providências correlatas._

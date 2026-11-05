@@ -1,5 +1,3 @@
-###DEC-002174-0-000-12-03-1997@@@
-
 DECRETO Nº 2.174, DE 12 DE MARÇO DE 1997
 
 Dispõe sobre o remanejamento dos cargos de que trata o art. 1º do Decreto nº 2.147, de 14 de fevereiro de 1997.

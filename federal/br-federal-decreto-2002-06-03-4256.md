@@ -1,5 +1,3 @@
-###DEC-004256-0-000-03-06-2002@@@
-
 DECRETO Nº 4.256, DE 3 DE JUNHO DE 2002
 
 Promulga o Protocolo Adicional ao Acordo para a Conservação da Fauna Aquática nos Cursos dos Rios Limítrofes entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai, celebrado em Brasília, em 19 de maio de 1999.

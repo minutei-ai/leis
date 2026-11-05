@@ -1,5 +1,3 @@
-###DEC-055625-0-000-25-01-1965@@@
-
 DECRETO Nº 55.625, DE 25 DE JANEIRO DE 1965.
 
 Aprova o Regimento Interno do Conselho Nacional de Telecomunicações.

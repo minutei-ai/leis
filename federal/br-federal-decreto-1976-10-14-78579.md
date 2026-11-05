@@ -1,5 +1,3 @@
-###DEC-078579-0-000-14-10-1976@@@
-
 DECRETO Nº 78.579, DE 14 DE OUTUBRO DE 1976
 
 Concede reconhecimento aos cursos Pedagogia, de Estudos Sociais e de Letras, da Faculdade de Ciências e Letras de Campo de Mourão, com sede na cidade de Campo Mourão, Estado do Paraná.

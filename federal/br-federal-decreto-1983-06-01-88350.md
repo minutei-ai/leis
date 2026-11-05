@@ -1,5 +1,3 @@
-###DEC-088350-0-000-01-06-1983@@@
-
 DECRETO Nº 88.350, DE 01 DE JUNHO DE 1983
 
 Altera a Organização Básica do Ministério do Exército e o Regulamento para o Alto-Comando.
@@ -51,8 +49,6 @@ Brasília-DF, 01 de junho de 1983; 162º da Independência e 95º da República.
 JOÃO FIGUEIREDO
 
 Walter Pires
-
-###DEC-088350-0-000-01-06-1983@@@RET01+++
 
 DECRETO Nº 88.350, DE 01 DE JUNHO DE 1983.
 

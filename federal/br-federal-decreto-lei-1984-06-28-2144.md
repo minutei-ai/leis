@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/29a02607-8775-40e0-afc4-f040ad506f28/texto#nowhere)
 
-###DEL-002144-0-000-28-06-1984@@@
-
 # Decreto-lei nº 2.144, de 28 de junho de 1984.
 
 Prorroga o prazo estabelecido pela Lei nº 7.186, de 24 de abril de 1984, para o pagamento de contribuições previdenciárias, e dá outras providências.

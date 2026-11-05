@@ -1,5 +1,3 @@
-###DEC-075789-0-000-28-05-1975@@@
-
 Decreto nº 75.789, de 28 de maio de 1975
 
 Retifica o Decreto nº 73.811, de 12 de março de 1974, que declarou de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Barracão, Estado do Paraná, compreendidos na área prioritária de Reforma Agrária, de que trata o Decreto nº 69.411, de 22 de outubro de 1971,

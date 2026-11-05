@@ -1,5 +1,3 @@
-###DEC-050075-0-000-25-01-1961@@@
-
 DECRETO Nº 50.075, DE 25 DE JANEIRO DE 1961.
 
 Cancela o Decreto n° 47.555, de 30 de dezembro de 1959.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000247-0-000-29-10-1991@@@
-
 DECRETO N° 247, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da Terra Indígena Vargem Alegre, no Estado da Bahia.

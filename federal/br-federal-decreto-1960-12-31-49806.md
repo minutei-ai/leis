@@ -1,5 +1,3 @@
-###DEC-049806-0-000-31-12-1960@@@
-
 DECRETO N. 49.806 – DE 31 DE DEZEMBRO DE 1960
 
 Concede a sociedade “Petrosul” – Frota de Petroleiros do Sul Ltda. autorização para funcionar como empresa de navegação de cabotagem.

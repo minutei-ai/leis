@@ -1,5 +1,3 @@
-###DEC-077617-0-000-17-05-1976@@@
-
 DECRETO Nº 77.617, DE 17 DE MAIO DE 1976.
 
 Concede à Minérios Industriais do Sul S.A. - MINEL, o direito de lavrar caulim no Município de Rio Pardo, Estado do Rio Grande do Sul.

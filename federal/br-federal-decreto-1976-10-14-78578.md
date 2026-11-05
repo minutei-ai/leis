@@ -1,5 +1,3 @@
-###DEC-078578-0-000-14-10-1976@@@
-
 DECRETO Nº 78.578, DE 14 DE OUTUBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade Norte de Minas S.A., para executar serviços de radiodifusão sonora em onda média de âmbito regional, na Cidade de Montes Claros, estado de Minas Gerais.

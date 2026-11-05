@@ -1,5 +1,3 @@
-###DEC-079157-0-000-24-01-1977@@@
-
 DECRETO Nº 79.157, DE 24 DE JANEIRO DE 1977.
 
 Concede à Mineração Boa Esperança Ltda. o direito de lavrar quartzo no Município de Divinópolis, Estado de Minas Gerais.

@@ -38,7 +38,8 @@ Parágrafo único. As informações do Cadastro Estadual de Pessoas Investigadas
 
 Art. 3º O Cadastro Estadual de Pessoas Investigadas pela Prática de Crimes Contra a Dignidade Sexual será operacionalizado por sistema informatizado a ser implementado e gerido pela Delegacia-Geral da Polícia Civil, com acesso restrito por aqueles que atuam na investigação de crimes contra a dignidade sexual.
 
-§ 1º O sistema informatizado terá interoperabilidade com os bancos de dados dos demais sistemas informatizados da Secretaria de Estado da Segurança Pública, da Polícia Civil, da Polícia Militar, da Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~ e da Superintendência de Polícia Técnico-Científica.<br>
+§ 1º O sistema informatizado terá interoperabilidade com os bancos de dados dos demais sistemas informatizados da Secretaria de Estado da Segurança Pública, da Polícia Civil, da Polícia Militar, da Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~ e da Superintendência de Polícia Técnico-Científica.
+
  - [Redação dada pela Lei nº 22.457, de 12-12-2023](unsaved://admin.legisla.casacivil.go.gov.br/new_page_1.htm), art. 6º, XIX.
 
 § 2º A interoperabilidade servirá principalmente para o intercâmbio de informações sobre ocorrências e procedimentos policiais relativos a violência sexual, abordagens, dados prisionais, retratos falados, identificação datiloscópica e perfil genético de suspeitos, investigados e indiciados pela prática de crimes contra a dignidade sexual.
@@ -64,8 +65,6 @@ Art. 7º Os custos relativos ao desenvolvimento, à implementação e à manuten
 Art. 8º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 15 de dezembro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

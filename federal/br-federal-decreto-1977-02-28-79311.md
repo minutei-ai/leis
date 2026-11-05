@@ -1,5 +1,3 @@
-###DEC-079311-0-000-28-02-1977@@@
-
 DECRETO Nº 79.311, DE 28 DE FEVEREIRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à ampliação da subestação de Siderópolis, da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-074001-0-000-02-05-1974@@@
-
 DECRETO Nº 74.001, DE 2 DE MAIO DE 1974.
 
 Autoriza a permuta dos imóveis que menciona, situados em Curitiba, Estado do Paraná.

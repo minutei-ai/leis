@@ -1,5 +1,3 @@
-###DEC-085593-0-000-30-12-1980@@@
-
 Decreto nº 85.593, de 30 de dezembro de 1980.
 
 Conceda à AÇO MINAS GERAIS S/A - AÇOMINAS, autorização para proceder a aumento do seu capital autorizado.

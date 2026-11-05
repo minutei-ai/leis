@@ -1,5 +1,3 @@
-###DEC-073455-0-000-14-01-1974@@@
-
 DECRETO Nº 73.455, DE 14 DE JANEIRO DE 1974.
 
 Estabelece as proporções a serem observadas na fixação do número mínimo de vagas referentes ao ano de 1973, dos diferentes Quadros de Oficiais das Armas, Serviços e de Material Bélico.

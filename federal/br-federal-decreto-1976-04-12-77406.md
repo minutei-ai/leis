@@ -1,5 +1,3 @@
-###DEC-077406-0-000-12-04-1976@@@
-
 DECRETO N.º 77.406 - DE 12 DE ABRIL DE 1976
 
 Cria a Empresa Brasileira dos Transportes Urbanos - EBTU, aprova seu Estatuto e dá outras providências.

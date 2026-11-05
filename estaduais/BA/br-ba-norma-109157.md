@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica instituída a Gratificação de Serviços de Infectologia, que será devida aos ocupantes de cargos efetivos do Grupo Ocupacional Serviços Públicos de Saúde da Administração Direta do Estado, com o objetivo de compensar o exercício de atividades funcionais em unidades especializadas em infectologia, e que será concedida em percentual de 100% (cem por cento), incidente sobre o vencimento básico do servidor.
 
-Ver também:<br>
+Ver também:
+
 Art. 125 da Lei nº 8.889, de 01 de dezembro de 2003: "Ficam proibidas, a partir da vigência desta Lei, novas concessões da Gratificação Especial por Produtividade, prevista no art. 4º, da Lei nº 7.023, de 23 de janeiro de 1997 e da Gratificação de Serviços de Infectologia, instituída no art. 1º, da Lei nº 8.251, de 23 de abril de 2002."
 
 &a

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/eba7554e-8fac-47f1-8cfe-068a86f4d963/texto#nowhere)
 
-###DEL-000386-0-000-26-12-1968@@@
-
 DECRETO-LEI Nº 386, De 26 DE DEZEMBRO DE 1968
 
 Cria a Superintendência da Exposição Mundial Comemorativa do Sesquicentenário da Independência do Brasil.
@@ -67,8 +65,6 @@ José de Magalhães Pinto
 Edmundo de Macedo Soares
 
 Hélio Beltrão
-
-###DEL-000386-0-000-26-12-1968@@@RET01+++
 
 DECRETO-LEI Nº 386, DE 26 DE DEZEMBRO DE1968
 

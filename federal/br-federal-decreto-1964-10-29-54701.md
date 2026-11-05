@@ -1,5 +1,3 @@
-###DEC-054701-0-000-29-10-1964@@@
-
 DECRETO Nº 54.701, DE 29 DE OUTUBRO DE 1964.
 
 Declara públicas, de uso comum, as águas dos cursos d’água que específica.

@@ -1,5 +1,3 @@
-###DEC-073907-0-000-05-04-1974@@@
-
 DECRETO nº 73.907, DE 5 DE ABRIL DE 1974.
 
 Amplia o sistema da geração para o aproveitamento hidrelétrico do Salto da Neblina, localizado no rio Manhuaçu no município de Ipanema Estado de Minas Gerais.

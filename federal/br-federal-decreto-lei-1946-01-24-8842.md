@@ -1,5 +1,3 @@
-###DEL-008842-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.842 – DE 24 DE JANEIRO DE 1946
 
 Cria, na Diretoria de Fazenda do Ministério da Marinha, três cargos isolados de Tesoureiro.

@@ -1,5 +1,3 @@
-###DEC-069992-0-000-20-01-1972@@@
-
 DECRETO Nº 69.992, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Patronato de Ponta Negra, com sede em Natal, Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-092277-0-000-08-01-1986@@@
-
 DECRETO Nº 92.277, DE 08 DE JANEIRO DE 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Itaguaçu VII, compreendido na referida área, nos Municípios de Andaraí e Lajedinho, no Estado da Bahia, e dá outras providências.

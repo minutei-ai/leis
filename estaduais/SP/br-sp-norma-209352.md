@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209352)<br>
-
 # DECRETO N° 68.479, DE 24 DE ABRIL DE 2024
 
 ### _Autoriza a outorga de uso, ao Município de Avaré, do imóvel que especifica, e dá providências correlatas._

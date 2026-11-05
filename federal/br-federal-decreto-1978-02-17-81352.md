@@ -1,5 +1,3 @@
-###DEC-081352-0-000-17-02-1978@@@
-
 Decreto nº 81.352, de 17 de fevereiro de 1978.
 
 Dispõe sobre a destinação, no exercício de 1978, dos recursos para execução do Programa de Redistribuição de terras e de Estímulo à Agroindústria do Norte e Nordeste (PROTERRA).

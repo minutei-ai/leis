@@ -1,5 +1,3 @@
-###DEL-009907-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.907 – DE 17 DE SETEMBRO DE 1946
 
 Substitui disposições do Decreto-lei nº  9.826, de 10 de Setembro de 1946 e do seu anexo nº 2.

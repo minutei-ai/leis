@@ -1,5 +1,3 @@
-###DEC-062491-0-000-01-04-1968@@@
-
 DECRETO Nº 62.491, DE 1 DE ABRIL DE 1968.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos, neste descritos e consignados à emprêsa “Fiação Microlite do Nordeste Ltda.”, de Jaboatão (Pe).

@@ -1,5 +1,3 @@
-###DEC-004186-0-000-05-04-2002@@@
-
 DECRETO Nº 4.186, DE 5 DE ABRIL DE 2002
 
 Dispõe sobre o regime de tributação pelo IPI dos produtos que menciona.

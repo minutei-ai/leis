@@ -1,5 +1,3 @@
-###DEC-047324-0-000-02-12-1959@@@
-
 DECRETO Nº 47.324, DE 2 DE DEZEMBRO DE 1959.
 
 Renova o Decreto nº 42.348, de 27 de setembro de 1957.

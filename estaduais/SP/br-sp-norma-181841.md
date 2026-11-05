@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=181841)
-
 # DECRETO Nº 62.597, DE 25 DE MAIO DE 2017
 
 ### _Reorganiza o Conselho das Instituições de Pesquisa do Estado de São Paulo e dá providências correlatas_
@@ -132,11 +130,18 @@ Palácio dos Bandeirantes, 25 de maio de 2017
 
 GERALDO ALCKMIN
 
-Márcio Luiz França Gomes<br>
-Secretário de Desenvolvimento Econômico, Ciência, Tecnologia<br>
-e Inovação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Márcio Luiz França Gomes
+
+Secretário de Desenvolvimento Econômico, Ciência, Tecnologia
+
+e Inovação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 25 de maio de 2017.

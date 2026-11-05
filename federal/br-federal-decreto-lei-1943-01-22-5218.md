@@ -1,5 +1,3 @@
-###DEL-005218-0-000-22-01-1943@@@
-
 DECRETO‑LEI N. 5.218 – DE 22 DE JANEIRO DE 1943
 
 Fixa a gratificação para os membros das Comissões de Biofarmácia e de Revisão da Farmacopéia do Serviço Nacional de Fiscalização da Medicina do Departamento Nacional de Saude do Ministério da Educação e Saude e dá outras providências.

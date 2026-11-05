@@ -1,5 +1,3 @@
-###DEL-008921-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.921 – DE 26 DE JANEIRO DE 1946
 
 Institui, em caráter permanente, o Serviço de Assistência Religiosa nas Fôrças Armadas.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001819-0-000-16-02-1996@@@
-
 # DECRETO Nº 1.819, DE 16 DE FEVEREIRO DE 1996
 
 Disciplina as transferências de recursos da União por intermédio de instituições e agências financeiras oficiais federais e dá outras providências.

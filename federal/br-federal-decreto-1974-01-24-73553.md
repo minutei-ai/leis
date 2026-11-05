@@ -1,5 +1,3 @@
-###DEC-073553-0-000-24-01-1974@@@
-
 DECRETO Nº 73.553, DE 24 DE JANEIRO DE 1974.
 
 Declara perempta a concessão outorgada à Dalcanale & Cia. (Rádio Herval d'Oeste), para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Herval d'Oeste, Estado de Santa Catarina.

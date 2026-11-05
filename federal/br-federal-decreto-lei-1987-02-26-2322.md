@@ -1,7 +1,3 @@
-1
-
-###DEL-002322-0-000-26-02-1987@@@
-
 # DECRETO-LEI N° 2.322, DE 26 DE FEVEREIRO DE 1987
 
 Altera o Decreto-lei n° 2.290, de 21 de novembro de 1986, e dá outras providências.

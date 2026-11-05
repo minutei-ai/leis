@@ -1,5 +1,3 @@
-###DEC-079867-0-000-27-06-1977@@@
-
 DECRETO Nº 79.867, DE 27 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras "Professor Augusto Vieira", com sede na Cidade de Machado, Estado de Minas Gerais.

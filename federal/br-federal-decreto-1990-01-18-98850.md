@@ -1,5 +1,3 @@
-###DEC-098850-0-000-18-01-1990@@@
-
 DECRETO N° 98.850, DE 18 DE JANEIRO DE 1990
 
 Dispõe sobre a transferência de administração dos imóveis funcionais de que trata o Decreto nº 96.633, de 1º de setembro de 1988, e dá outras providências.

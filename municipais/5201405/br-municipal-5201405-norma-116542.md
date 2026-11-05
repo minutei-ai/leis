@@ -106,5 +106,6 @@ Art. 8º Esta Lei entra em vigor na data de sua publicação, revogando-se dispo
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 04 de Novembro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal

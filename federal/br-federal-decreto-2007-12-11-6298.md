@@ -1,5 +1,3 @@
-###DEC-006298-0-000-11-12-2007@@@
-
 DECRETO Nº 6.298, DE 11 DE DEZEMBRO DE 2007.
 
 Dá nova redação ao item 6 do art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto no 88.777, de 30 de setembro de 1983.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Jorge Armando Felix
 
 Roberto Mangabeira Unger
-
-Este texto não substitui o publicado no DOU de 12.12.2007

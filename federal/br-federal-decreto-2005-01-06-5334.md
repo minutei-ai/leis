@@ -1,5 +1,3 @@
-###DEC-005334-0-000-06-01-2005@@@
-
 DECRETO Nº 5.334 DE 6 DE JANEIRO DE 2005
 
 Dá nova redação ao art. 21 e revoga o art. 22 do Decreto nº 89.817, de 20 de junho de 1984, que estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.

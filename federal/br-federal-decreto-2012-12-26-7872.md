@@ -1,5 +1,3 @@
-###DEC-007872-0-000-26-12-2012-PUB-01@@@
-
 DECRETO Nº  7.872, DE 26 DE DEZEMBRO DE 2012
 
 Regulamenta a Lei nº 12.382, de 25 de fevereiro de 2011, que dispõe sobre o valor do salário mínimo e a sua política de valorização de longo prazo.

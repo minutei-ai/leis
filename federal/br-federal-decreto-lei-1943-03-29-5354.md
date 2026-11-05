@@ -1,5 +1,3 @@
-###DEL-005354-0-000-29-03-1943@@@
-
 DECRETO‑LEI N. 5.354 – DE 29 DE MARÇO DE 1943
 
 Concede acréscimo de vencimento aos tenentes coronéis da Policia Militar do Distrito Federal

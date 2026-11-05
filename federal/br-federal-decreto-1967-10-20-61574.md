@@ -1,5 +1,3 @@
-###DEC-061574-0-000-20-10-1967@@@
-
 DECRETO Nº 61.574, DE 20 DE OUTUBRO DE 1967.
 
 Regulamenta a similaridade conforme o disposto no Decreto-lei 37, de 18 de novembro de 1966, e dá outras providências.

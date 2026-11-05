@@ -1,5 +1,3 @@
-###DEC-073171-0-000-20-11-1973@@@
-
 DECRETO Nº 73.171 - DE 20 DE NOVEMBRO DE 1973
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

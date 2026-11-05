@@ -1,7 +1,3 @@
-1
-
-###LCP-000006-0-000-30-06-1970@@@
-
 # LEI COMPLEMENTAR Nº 6 DE 30 DE JUNHO DE 1970
 
 Concede isenção de impostos federais, estaduais e municipais à Caixa Econômica Federal - CEF.

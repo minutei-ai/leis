@@ -1,5 +1,3 @@
-###DEC-006606-0-000-21-10-2008@@@
-
 DECRETO Nº 6.606, DE 21 DE OUTUBRO DE 2008.
 
 Dá nova redação ao art. 3o do Decreto no 5.297, de 6 de dezembro de 2004, que reduz as alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes sobre a importação e a comercialização de biodiesel.

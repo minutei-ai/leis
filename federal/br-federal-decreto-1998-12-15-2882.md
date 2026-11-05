@@ -1,5 +1,3 @@
-###DEC-002882-0-000-15-12-1998@@@
-
 DECRETO Nº 2.882, DE 15 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo de Complementação Econômica nº 27, entre os Governos do Brasil e da Venezuela, de 30 de setembro de 1998.
@@ -42,4 +40,10 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos trinta dias do mês de setembro de mil novecentos e noventa e oito, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Hildebrando Tadeu N. Valadares</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Venezuela:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Juan Moreno Gómez</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil:
+
+Hildebrando Tadeu N. Valadares
+
+Pelo Governo da República da Venezuela:
+
+Juan Moreno Gómez

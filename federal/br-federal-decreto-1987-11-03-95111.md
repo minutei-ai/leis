@@ -1,5 +1,3 @@
-###DEC-095111-0-000-03-11-1987@@@
-
 DECRETO Nº 95.111, DE 3 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Matemática Aplicada à Informática da Faculdade de Informática de São Paulo.

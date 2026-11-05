@@ -1,5 +1,3 @@
-###DEC-059977-0-000-10-01-1967@@@
-
 DECRETO Nº 59.977, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Antônio Motta Netto a lavrar areia quartzosa no município de Mongaguá, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000624-0-000-04-08-1992@@@
-
 DECRETO N° 624, DE 4 DE AGOSTO DE 1992
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidentes sobre os produtos que enumera.

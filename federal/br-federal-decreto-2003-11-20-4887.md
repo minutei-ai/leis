@@ -1,5 +1,3 @@
-###DEC-004887-0-000-20-11-2003@@@
-
 DECRETO Nº 4.887, DE 20 DE NOVEMBRO DE 2003
 
 Regulamenta o procedimento para identificação, reconhecimento, delimitação, demarcação e titulação das terras ocupadas por remanescentes das comunidades dos quilombos de que trata o art. 68 do Ato das Disposições Constitucionais Transitórias.

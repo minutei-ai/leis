@@ -1,5 +1,3 @@
-###DEC-067393-0-000-16-10-1970@@@
-
 decreto nº 67.393, de 16 de outubro de 1970.
 
 Declara de utilidade pública o Instituto Sagrada Família, com sede em Belo Horizonte, Estado de Minas Gerais.

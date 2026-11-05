@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69168)
-
 # LEI Nº 12.407, DE 14 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 454, de 2006, do Deputado Cândido Vaccarezza - PT e outros)

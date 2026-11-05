@@ -1,5 +1,3 @@
-###DEC-055907-0-000-09-04-1965@@@
-
 DECRETO Nº 55.907, DE 9 DE ABRIL DE 1965.
 
 Dispõe sôbre promoções na Série de Classes de Agente Fiscal de Rendas Internas.

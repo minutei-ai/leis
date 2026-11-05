@@ -1,5 +1,3 @@
-###DEC-047518-0-000-28-12-1959@@@
-
 DECRETO Nº 47.518, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Melquíades Alevide Cardoso a pesquisar mica no município de Conselheiro Pena, Estado de Minas Gerais.

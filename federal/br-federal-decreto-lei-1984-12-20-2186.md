@@ -1,5 +1,3 @@
-###DEL-002186-0-000-20-12-1984@@@
-
 # Decreto nº 2.186, de 20 de dezembro de 1984.
 
 Institui o imposto sobre serviços de comunicações, e dá outras providências.

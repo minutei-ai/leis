@@ -1,5 +1,3 @@
-###DEC-048334-0-000-21-06-1960@@@
-
 DECRETO Nº 48.334, DE 21 DE JUNHO DE 1960.
 
 Concede à Pereira & Alves Ltda, autorização para funcionar como emprêsa de mineração.

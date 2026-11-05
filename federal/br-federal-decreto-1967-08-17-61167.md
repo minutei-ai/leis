@@ -1,5 +1,3 @@
-###DEC-061167-0-000-17-08-1967@@@
-
 DECRETO Nº 61.167, DE 17 DE AGÔSTO DE 1967.
 
 Provê sôbre a desapropriação da casa em que viveu David Canabarro.

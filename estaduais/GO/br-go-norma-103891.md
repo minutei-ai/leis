@@ -1,4 +1,5 @@
-DECRETO Nº 9.826, DE 13 DE MARÇO DE 2021<br>
+DECRETO Nº 9.826, DE 13 DE MARÇO DE 2021
+
 [\- Revogado pelo Decreto nº 9.922, de 10-08-2021, art. 6º](https://legisla.casacivil.go.gov.br/api/v2/pesquisa/104261/exibir_conteudo_nao_publicado).
 
 ~~Altera dois decretos: o primeiro é o Decreto nº [9.689](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103257/decreto-9689), de 6 de julho de 2020, que altera, por sua vez, o Decreto nº [7.807](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66072/decreto-7807), de 21 de fevereiro de 2013, e o segundo é o próprio Decreto nº [7.807](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66072/decreto-7807), de 2013, que reorganiza e sistematiza as unidades administrativas finalísticas complementares descentralizadas da Secretaria de Estado da Saúde.~~
@@ -26,8 +27,6 @@ DECRETO Nº 9.826, DE 13 DE MARÇO DE 2021<br>
 ~~Art. 3º Este Decreto entra em vigor na data de sua publicação, porém seus efeitos retroagem a 6 de julho de 2020.~~
 
 ~~Goiânia, 13 de março de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

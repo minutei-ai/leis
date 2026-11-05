@@ -1,5 +1,3 @@
-###DEC-054415-0-000-12-10-1964@@@
-
 DECRETO Nº 54.415, DE 12 DE OUTUBRO DE 1964.
 
 Outorga ao Município de Lagarto, Estado de Sergipe, concessão para distribuir energia elétrica.

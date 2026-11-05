@@ -1,5 +1,3 @@
-###DEL-001139-0-000-21-12-1970@@@
-
 # Decreto-lei nº 1.139, DE 21 DE DEZEMBRO de 1970
 
 Dá nova redação ao artigo 1º do Decreto-lei nº 815, de 4 de setembro de 1969

@@ -1,5 +1,3 @@
-###DEC-081039-0-000-15-12-1977@@@
-
 Decreto nº 81 039, de 15 de dezembro de 1977.
 
 Concede reconhecimento aos cursos de Letras e Estudos Sociais, ministrados pela Faculdade de Filosofia, Ciências e Letras de Guarabira, com sede na cidade de Guarabira, Estado da Paraíba.

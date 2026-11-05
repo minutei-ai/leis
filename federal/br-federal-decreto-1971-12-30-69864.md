@@ -1,5 +1,3 @@
-###DEC-069864-0-000-30-12-1971@@@
-
 DECRETO Nº 69.864 - DE 30 DE DEZEMBRO DE 1971
 
 Prorroga o prazo a que se refere o § 1º do artigo 1º do Decreto número 69.134, de 27 de agôsto de 1971.

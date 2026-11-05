@@ -1,5 +1,3 @@
-###DEC-069189-0-000-14-09-1971@@@
-
 DECRETO Nº 69.189, DE 14 DE SETEMBRO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Instituto Nacional de Colonização e Reforma Agrária (INCRA) e dá outras providências.

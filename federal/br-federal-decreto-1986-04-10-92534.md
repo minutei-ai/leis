@@ -1,5 +1,3 @@
-###DEC-092534-0-000-10-04-1986@@@
-
 DECRETO Nº 92.534, DE 10 DE ABRIL DE 1986
 
 Fixa, para o exercício de 1986, o limite global de importações através da Zona Franca de Manaus, e dá outras providências.

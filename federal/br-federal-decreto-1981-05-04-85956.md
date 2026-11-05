@@ -1,5 +1,3 @@
-###DEC-085956-0-000-04-05-1981@@@
-
 Decreto nº 85.956, de 04 de maio de 1981.
 
 Autoriza o aumento de potência da RÁDIO PRINCESA DO JACUY LTDA., na cidade de Cachoeira do Sul, Estado do Rio Grande do Sul.

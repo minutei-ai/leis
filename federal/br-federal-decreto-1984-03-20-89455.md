@@ -1,5 +1,3 @@
-###DEC-089455-0-000-20-03-1984@@@
-
 Decreto nº 89.455, de 20 de março de 1984
 
 Ratifica a revisão do projeto e da planta de situação, a que se refere o Decreto nº 86.785, de 23 de dezembro de 1981, que declara de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada a passagem de linha de transmissão.

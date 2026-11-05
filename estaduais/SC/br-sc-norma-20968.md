@@ -28,6 +28,32 @@ ANEXO ÚNICO
 
 SEMANAS ALUSIVAS
 
-<table><tbody><tr><td><p>................</p></td><td><p>......................................................................................</p></td><td><p>.............................</p></td></tr><tr><td><p>SEMANA</p></td><td><p>AGOSTO</p></td><td><p>LEI ORIGINAL Nº</p></td></tr><tr><td><p>................</p></td><td><p>......................................................................................</p></td><td><p>.............................</p></td></tr><tr><td><p>Última semana</p></td><td><p>Semana de Conscientização sobre a Atrofia Muscular Espinhal (AME), no Estado de Santa Catarina, com o objetivo de esclarecer sobre os sinais que caracterizam a doença, bem como conscientizar sobre a importância do diagnóstico precoce</p></td><td><p></p></td></tr><tr><td><p>................</p></td><td><p>......................................................................................</p></td><td><p>.............................</p></td></tr></tbody></table>
+................
+
+......................................................................................
+
+.............................
+
+SEMANA
+
+AGOSTO
+
+LEI ORIGINAL Nº
+
+................
+
+......................................................................................
+
+.............................
+
+Última semana
+
+Semana de Conscientização sobre a Atrofia Muscular Espinhal (AME), no Estado de Santa Catarina, com o objetivo de esclarecer sobre os sinais que caracterizam a doença, bem como conscientizar sobre a importância do diagnóstico precoce
+
+................
+
+......................................................................................
+
+.............................
 
 ” (NR)

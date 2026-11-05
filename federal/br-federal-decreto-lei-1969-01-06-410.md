@@ -1,7 +1,3 @@
-1
-
-###DEL-000410-0-000-06-01-1969@@@
-
 DECRETO-LEI Nº 410, DE 6 DE JANEIRO DE 1969
 
 Considera a posse de Waldemar Alves da Silva Filho para o exercício interino de cargo de Fiscal de Aeroporto, código CT-104.9A, válida para efeito de nomeação para o mesmo cargo, em caráter efetivo.

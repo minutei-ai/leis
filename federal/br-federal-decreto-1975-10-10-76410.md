@@ -1,5 +1,3 @@
-###DEC-076410-0-000-10-10-1975@@@
-
 DECRETO Nº 76.410, DE 10 DE OUTUBRO DE 1975.
 
 Dispõe sobre o Capital do Serviço Federal de Processamentos de Dados (SERPRO).

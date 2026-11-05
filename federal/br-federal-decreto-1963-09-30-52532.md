@@ -1,5 +1,3 @@
-###DEC-052532-0-000-30-09-1963@@@
-
 DECRETO Nº 52.532, DE 30 DE SETEMBRO DE 1963.
 
 Declara de utilidade pública áreas de terra necessárias à bacia de acumulação do aproveitamento hidrelétrico de Jurumurim, das Usinas Elétricas do Paranapanema S.A., e autoriza essa emprêsa a promover as desapropriações.

@@ -1,5 +1,3 @@
-###DEC-084608-0-000-31-03-1980@@@
-
 DECRETO Nº 84.608, DE 31 DE MARÇO DE 1980.
 
 Cria Organização Militar no Ministério do Exército e dá outras providências.

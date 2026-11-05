@@ -1,5 +1,3 @@
-###DEC-066394-0-000-25-03-1970@@@
-
 DECRETO Nº 66.394 - DE 25 DE MARÇO DE 1970
 
 Altera o Artigo, 2º do Regulamento para a Secretaria-Geral da Marinha, aprovado pelo Decreto nº 64.610, de 30 de maio de 1969.

@@ -1,5 +1,3 @@
-###DEL-008107-0-000-18-10-1945@@@
-
 DECRETO-LEI N. 8.107 – DE 18 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 769. 576,80, para liquidação de despesas.

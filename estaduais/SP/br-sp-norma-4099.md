@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=4099)
-
 # LEI Nº 10.520, DE 16 DE MARÇO DE 2000
 
 ## (Projeto de lei n.º 529, de 1999 do Deputado Caldini Crespo - PFL)
@@ -16,15 +14,11 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo, nos termos do a
 
 Assembléia Legislativa do Estado de São Paulo, aos 16 de março de 2000.
 
-a) VANDERLEI MACRIS - Presidente<br>
-Publicada na Secretaria da Assembléia Legislativa do Estado de São Paulo, aos 16 de março de 2000.<br>
-a) Auro Augusto Caliman - Secretário Geral Parlamentar
+a) VANDERLEI MACRIS - Presidente
 
-<br>
-<br>
-<br>
-<br>
-<br>
+Publicada na Secretaria da Assembléia Legislativa do Estado de São Paulo, aos 16 de março de 2000.
+
+a) Auro Augusto Caliman - Secretário Geral Parlamentar
 
 #### Republicação - Diário Oficial Executivo I 18/03/2000, p. 1
 
@@ -32,11 +26,7 @@ a) Auro Augusto Caliman - Secretário Geral Parlamentar
 
 (Projeto de lei n.º 529, de 1999 do Deputado Caldini Crespo - PFL)
 
-<br>
-
 _Dá denominação a estabelecimento de ensino_
-
-<br>
 
 O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA:
 
@@ -48,7 +38,10 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo, nos termos do a
 
 Assembléia Legislativa do Estado de São Paulo, aos 16 de março de 2000.
 
-a) VANDERLEI MACRIS - Presidente<br>
-Publicada na Secretaria da Assembléia Legislativa do Estado de São Paulo, aos 16 de março de 2000.<br>
-a) Auro Augusto Caliman - Secretário Geral Parlamentar<br>
+a) VANDERLEI MACRIS - Presidente
+
+Publicada na Secretaria da Assembléia Legislativa do Estado de São Paulo, aos 16 de março de 2000.
+
+a) Auro Augusto Caliman - Secretário Geral Parlamentar
+
 (Publicada no D.O. de 17-3-00)

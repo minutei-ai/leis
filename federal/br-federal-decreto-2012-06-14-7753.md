@@ -1,5 +1,3 @@
-###DEC-007753-0-000-14-06-2012-PUB-01@@@
-
 DECRETO N° 7.753, DE 14 DE JUNHO DE 2012
 
 Dispõe sobre a execução, no território nacional da Resolução 2035 (2012), de 17 de fevereiro de 2012, adotada pelo Conselho de Segurança das Nações Unidas que, entre outras disposições, prevê alterações no regime de sanções do Conselho de Segurança das Nações Unidas referentes ao Sudão.

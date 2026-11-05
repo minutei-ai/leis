@@ -1,5 +1,3 @@
-###DEC-054235-0-000-02-09-1964@@@
-
 DECRETO Nº 54.235, DE 2 DE SETEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Simplício de Azevedo Pio a pesquisar pedras semi-preciosas, no município de Aracruz, Estados do Espírito Santo.

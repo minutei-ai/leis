@@ -1,5 +1,3 @@
-###DEC-058707-0-000-24-06-1966@@@
-
 decreto nº 58.707, de 24 de junho de 1966.
 
 Suprime cargos vagos no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado - Hospital dos Servidores do Estado.

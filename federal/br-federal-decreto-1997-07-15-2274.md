@@ -1,5 +1,3 @@
-###DEC-002274-0-000-15-07-1997@@@
-
 DECRETO Nº 2.274, DE 15 DE JULHO DE 1997
 
 Regulamenta o art. 15 da Lei nº 8.031, de 12 de abril de 1990.

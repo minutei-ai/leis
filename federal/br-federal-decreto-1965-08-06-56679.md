@@ -1,5 +1,3 @@
-###DEC-056679-0-000-06-08-1965@@@
-
 DECRETO Nº 56.679, DE 6 DE AGÔSTO DE 1965.
 
 Transfere de Jose Gonçalves da Silva para a Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica e dá outras providências.

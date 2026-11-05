@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209306)<br>
-
 # LEI N° 17.901, DE 16 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 577/2023, do Deputado Gerson Pessoa - PODE)

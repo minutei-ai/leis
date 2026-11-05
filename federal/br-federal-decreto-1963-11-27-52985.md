@@ -1,5 +1,3 @@
-###DEC-052985-0-000-27-11-1963@@@
-
 DECRETO Nº 52.985, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza Mineração e Usina Wigg S.A. a lavrar minério de ferro no município de Itabirito, Estado de Minas Gerais.

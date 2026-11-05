@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183503)
-
 # DECRETO Nº 62.860, DE 03 DE OUTUBRO DE 2017
 
 ### _Revoga o Decreto nº 60.361, de 11 de abril de 2014, que autorizou a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, do Município de Barretos, o imóvel que especifica_
@@ -16,10 +14,16 @@ Palácio dos Bandeirantes, 3 de outubro de 2017
 
 GERALDO ALCKMIN
 
-José Renato Nalini<br>
-Secretário da Educação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+José Renato Nalini
+
+Secretário da Educação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 3 de outubro de 2017.

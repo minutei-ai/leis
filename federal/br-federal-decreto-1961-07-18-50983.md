@@ -1,5 +1,3 @@
-###DEC-050983-0-000-18-07-1961@@@
-
 DECRETO Nº 50.983, DE 18 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Minas Gerais as águas do rio Vermelho, Suassui Grande e Suassui Grande, respectivamente nos seus trechos superior, médio e inferior.

@@ -1,4 +1,5 @@
-Portaria Orçamentária nº 306/2022 - Economia<br>
+Portaria Orçamentária nº 306/2022 - Economia
+
 [Anulada pela Portaria nº 740/2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106647/portaria-orcamentaria-740)
 
 ~~A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "c" e art. 11 da Lei nº 21.232, de 11 de janeiro de 2022, conforme processo 202200004017585.~~
@@ -13,15 +14,14 @@ Portaria Orçamentária nº 306/2022 - Economia<br>
 
 ~~GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 3 dias do mês de Junho de 2022.~~
 
-<br>
-
 ~~CRISTIANE ALKMIN JUNQUEIRA SCHMIDT~~
 
 ~~QUADRO 1~~
 
 | ~~SUPLEMENTAÇÃO~~ |
 | --- |
-| ~~**1700 - SECRETARIA DE ESTADO DA ECONOMIA<br>
+| ~~**1700 - SECRETARIA DE ESTADO DA ECONOMIA
+
 1704 - ENCARGOS ESPECIAIS**~~ |
 | ~~**CLASSIF. ORÇAMENTÁRIA**~~ | ~~**DESCRIÇÃO DA AÇÃO**~~ | ~~**GRUPO DE DESPESA**~~ | ~~**FONTE**~~ | ~~**MODALIDADE**~~ |
 | ~~04 122 0100 7.104~~ | ~~ENCARGOS ESPECIAIS GERAIS~~ | ~~3 - OUTRAS DESPESAS CORRENTES~~ | ~~25000100~~ | ~~90~~ |

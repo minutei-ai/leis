@@ -1,5 +1,3 @@
-###DEC-058130-0-000-31-03-1966@@@
-
 DECRETO Nº 58.130, DE 31 DE MARÇO DE 1966.
 
 Regulamenta o art. 22 da Lei número 4.024, de 20 de dezembro de 1961, que fixa as Diretrizes e Bases da Educação Nacional.

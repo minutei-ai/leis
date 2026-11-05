@@ -1,5 +1,3 @@
-###DEL-006024-0-000-23-11-1943@@@
-
 DECRETO‑LEI N. 6.024 – DE 23 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cr$ 30.000,00, à verba que especifica
@@ -20,7 +18,11 @@ Subconsignação 52 – Serviços de Saúde e Higiene
 
      23 – Serviço de Saúde dos Portos
 
-<table cellspacing="0" cellpadding="0" style="margin-left:70.9pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:407.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) – Serviço de desinfeção de aeronaves ........................................................ Cr$ 30.000,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-left:70.9pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:407.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+a) – Serviço de desinfeção de aeronaves ........................................................ Cr$ 30.000,00
+
+</td></tr></tbody></table>
 
 Art. 2º Êste decreto‑lei entrará em vigor na data de sua publicação.
 

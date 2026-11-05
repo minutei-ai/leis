@@ -1,5 +1,3 @@
-###DEC-050173-0-000-28-01-1961@@@
-
 DECRETO Nº 50.173, DE 28 DE JANEIRO DE 1961.
 
 Autoriza a Mineração Brasília Ltda. a pesquisar amianto e minérios de ferro e manganês, no Município de Caeté, Estado de Minas Gerais.

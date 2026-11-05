@@ -1,5 +1,3 @@
-###DEC-096594-0-000-25-08-1988@@@
-
 DECRETO N° 96.594, DE 25 DE AGOSTO DE 1988
 
 Revoga o Decreto N° 96.507, de 15 de agosto de 1988

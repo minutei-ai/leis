@@ -1,5 +1,3 @@
-###DEC-065502-0-000-21-10-1969@@@
-
 DECRETO Nº 65.502 - DE 21 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública, para o fim de desapropriação, pela Superintendência do Desenvolvimento da Amazônia - SUDAM a área de terreno que especifica, e dá outras providências.

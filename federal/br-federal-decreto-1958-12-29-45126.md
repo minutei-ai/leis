@@ -1,5 +1,3 @@
-###DEC-045126-0-000-29-12-1958@@@
-
 DECRETO Nº 45.126, DE 29 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Theóphilo Badin, a pesquisar ouro aluvionar e associados, no município do Rio da Contas, Estado da Bahia.

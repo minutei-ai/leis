@@ -1,5 +1,3 @@
-###DEL-008260-0-000-30-11-1945@@@
-
 DECRETO-LEI N. 8.260 – DE 30 DE NOVEMBRO DE 1945
 
 Cria no Tribunal Marítimo Administrativo dois cargos isolados

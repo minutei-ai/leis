@@ -1,5 +1,3 @@
-###DEC-059132-0-000-25-08-1966@@@
-
 decreto nº 59.132, de 25 de agôsto de 1966.
 
 Autoriza a prefeitura Municipal de Belo Horizonte a pesquisar ocre no município de Betim, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-009041-0-000-06-03-1946@@@
-
 DECRETO-LEI N. 9.041 – DE 6 DE MARÇO DE 1946
 
 Manda considerar tempo de serviço, para efeito de concessão de gratificação de magistério.

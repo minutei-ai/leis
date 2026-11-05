@@ -1,6 +1,4 @@
-###DEL-005780-0-000-27-08-1943@@@
-
-                   DECRETO–LEI N. 5.780 – DE 27 DE AGÔSTO DE 1943
+DECRETO–LEI N. 5.780 – DE 27 DE AGÔSTO DE 1943
 
 Dispensa a exigência do "lote corrido" no financiamento do algodão
 

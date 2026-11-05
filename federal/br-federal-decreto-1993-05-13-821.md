@@ -1,7 +1,3 @@
-1
-
-###DEC-000821-0-000-13-05-1993@@@
-
 DECRETO N.° 821, DE 13 DE MAIO DE 1993
 
 Altera a composição do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial Conmetro, acrescentando inciso ao art. 1° do Decreto n° 99.532, de 19 de setembro de 1990, com a redação dada pelo Decreto n° 780, de 19 de março de 1993.

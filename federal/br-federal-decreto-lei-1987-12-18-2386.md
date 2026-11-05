@@ -1,7 +1,3 @@
-1
-
-###DEL-002386-0-000-18-12-1987@@@
-
 # DECRETO-LEI Nº 2.386, DE 18 DE DEZEMBRO DE 1987.
 
 Dispõe sobre a carreira do Ministério Público Federal, a criação de Núcleos das Procuradorias da República, em Municípios, e dá outras providências.
@@ -78,4 +74,82 @@ Paulo Brossard
 
 # NÚCLEOS DAS PROCURADORIAS DA REPÚBLICA, EM MUNICÍPIOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12pt"><span style="font-size:10pt">UNIDADE DA FEDERAÇÃO</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">MUNICÍPIO</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Bahia</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Ilhéus</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Goiás</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Araguaína</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Minas Gerais</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Uberaba</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Minas Gerais</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Uberlândia</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Maranhão</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Imperatriz</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pará</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Marabá</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Paraná</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Foz do Iguaçu</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Paraná</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Londrina</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pernambuco</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Petrolina</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Rio de Janeiro</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Campos</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Rio de Janeiro</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Niterói</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Rio Grande do Sul</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Passo Fundo</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Rio Grande do Sul</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Rio Grande</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Rio Grande do Sul</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Santa Maria</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Santa Catarina</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Joinvile</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">São Paulo</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Campinas</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">São Paulo</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Ribeirão Preto</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">São Paulo</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Santos</span></p></td></tr><tr><td style="width:240.58pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">São Paulo</span></p></td><td style="width:244.08pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">São José dos Campos</span></p></td></tr></tbody></table>
+UNIDADE DA FEDERAÇÃO
+
+MUNICÍPIO
+
+Bahia
+
+Ilhéus
+
+Goiás
+
+Araguaína
+
+Minas Gerais
+
+Uberaba
+
+Minas Gerais
+
+Uberlândia
+
+Maranhão
+
+Imperatriz
+
+Pará
+
+Marabá
+
+Paraná
+
+Foz do Iguaçu
+
+Paraná
+
+Londrina
+
+Pernambuco
+
+Petrolina
+
+Rio de Janeiro
+
+Campos
+
+Rio de Janeiro
+
+Niterói
+
+Rio Grande do Sul
+
+Passo Fundo
+
+Rio Grande do Sul
+
+Rio Grande
+
+Rio Grande do Sul
+
+Santa Maria
+
+Santa Catarina
+
+Joinvile
+
+São Paulo
+
+Campinas
+
+São Paulo
+
+Ribeirão Preto
+
+São Paulo
+
+Santos
+
+São Paulo
+
+São José dos Campos

@@ -1,5 +1,3 @@
-###DEC-067320-0-000-02-10-1970@@@
-
 DECRETO Nº 67.320, DE 2 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 19.489 de 23 de agôsto de 1945.

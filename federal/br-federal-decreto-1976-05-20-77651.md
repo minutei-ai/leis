@@ -1,5 +1,3 @@
-###DEC-077651-0-000-20-05-1976@@@
-
 decreto nº 77.651, de 20 de maio de 1976
 
 Concede autorização à S.A. Indústrias Reunidas F. Matarazzo, sediada em São Paulo, para funcionar aos domingos e feriados civis e religiosos, no setor industrial que menciona.

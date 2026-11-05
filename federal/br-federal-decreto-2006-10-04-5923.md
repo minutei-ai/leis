@@ -1,5 +1,3 @@
-###DEC-005923-0-000-04-10-2006@@@
-
 DECRETO Nº 5.923, DE 4 DE OUTUBRO DE 2006.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Árabe Síria sobre Cooperação no Campo do Turismo, celebrado em Damasco, em 3 de dezembro de 2003.
@@ -24,11 +22,7 @@ Brasília, 4 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 5.10.2006.
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA ÁRABE SOBRE COOPERAÇÃO NO CAMPO DO TURISMO
+        Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA ÁRABE SOBRE COOPERAÇÃO NO CAMPO DO TURISMO
 
 O Governo da República Federativa do Brasil,
 

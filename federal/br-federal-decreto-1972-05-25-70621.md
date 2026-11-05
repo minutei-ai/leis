@@ -1,5 +1,3 @@
-###DEC-070621-0-000-25-05-1972@@@
-
 Decreto nº 70.621, de 25 de maio de 1972.
 
 Autoriza o funcionamento do instituto Superior de Estudos Sociais com cursos de ciências Administrativas e Ciências Contábeis.

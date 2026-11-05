@@ -1,5 +1,3 @@
-###DEC-005991-0-000-19-12-2006@@@
-
 DECRETO Nº 5.991 DE 19 DE DEZEMBRO DE 2006.
 
 Dispõe sobre a execução do Quadragésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica no 35, entre os Governos da República  Argentina, da República Federativa do Brasil, da República do Paraguai, da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República do Chile, de 18 de agosto de 2006, que aprova o Programa de Ação MERCOSUL Livre de Febre Aftosa.
@@ -22,11 +20,7 @@ Brasília, 19 de dezembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.12.2006.
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 35 CELEBRADO
+         Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 35 CELEBRADO
 
 ENTRE OS GOVERNOS DOS ESTADOS PARTES DO MERCOSUL
 

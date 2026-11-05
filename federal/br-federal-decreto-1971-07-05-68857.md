@@ -1,5 +1,3 @@
-###DEC-068857-0-000-05-07-1971@@@
-
 Decreto nº 68.857, DE 5 DE JULHO DE 1971.
 
 Autoriza funcionamento de Escola.

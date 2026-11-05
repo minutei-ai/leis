@@ -1,5 +1,3 @@
-###DEC-055421-0-000-31-12-1964@@@
-
 DECRETO Nº 55.421, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Teodoro de Miranda Junior, a pesquisar diamante, no município de Diamantina, Estado de Minas Gerais.

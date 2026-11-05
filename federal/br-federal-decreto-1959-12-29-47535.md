@@ -1,5 +1,3 @@
-###DEC-047535-0-000-29-12-1959@@@
-
 Decreto nº 47.535, de 29 de dezembro de 1959.
 
 Aprova a designação dada ao Conjunto de ilhas destinadas à instalação da Cidade Universitária da Universidade do Brasil.

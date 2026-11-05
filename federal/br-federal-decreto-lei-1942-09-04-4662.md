@@ -1,5 +1,3 @@
-###DEL-004662-0-000-04-09-1942@@@
-
 DECRETO-LEI N. 4.662 – DE 4 DE SETEMBRO DE 1942
 
 Concede pensão especial à mãe de Durvalino Marçal, vítima de acidente em serviço

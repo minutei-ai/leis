@@ -1,5 +1,3 @@
-###DEC-064945-0-000-06-08-1969@@@
-
 DECRETO Nº 64.945 - DE 6 DE AGôSTO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Administração de Emprêsas de Araçatuba-SP.

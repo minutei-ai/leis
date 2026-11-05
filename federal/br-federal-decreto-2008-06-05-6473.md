@@ -1,5 +1,3 @@
-###DEC-006473-0-000-05-06-2008@@@
-
 DECRETO Nº 6.473, DE 5 DE JUNHO DE 2008.
 
 Aprova o Estatuto da Caixa Econômica Federal - CEF e dá outras providências.
@@ -18,11 +16,7 @@ Brasília, 5 de junho de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Guido Mantega
-
-Este texto não substitui o publicado no DOU de 6.6.2008
-
-A N E X O
+Guido MantegaA N E X O
 
  ESTATUTO DA CAIXA ECONÔMICA FEDERAL - CEF
 

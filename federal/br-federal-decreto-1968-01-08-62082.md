@@ -1,5 +1,3 @@
-###DEC-062082-0-000-08-01-1968@@@
-
 DECRETO Nº 62.082, DE 8 DE JANEIRO DE 1968.
 
 Provê sôbre a aplicação de recursos destinados ao incremento de matrículas no ensino superior.

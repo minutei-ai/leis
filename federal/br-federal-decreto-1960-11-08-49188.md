@@ -1,5 +1,3 @@
-###DEC-049188-0-000-08-11-1960@@@
-
 DECRETO Nº 49.188, DE 08 DE novembro DE 1960.
 
 Transfere a sêde da Comissão Especial de Obras número 1 para Brasília, D.F.

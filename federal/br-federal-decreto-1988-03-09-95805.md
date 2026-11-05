@@ -1,7 +1,3 @@
-1
-
-###DEC-095805-0-000-09-03-1988@@@
-
 DECRETO N° 95.805, DE 9 DE MARÇO DE 1988
 
 Altera a composição da Comissão de Coordenação Financeira.

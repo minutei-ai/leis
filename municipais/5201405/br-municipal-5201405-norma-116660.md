@@ -4,7 +4,8 @@ Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2019.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Ficam estabelecidas, em conformidade ao disposto no art. 165, §2º, da Constituição Federal, art. 92, §2º, da Lei Orgânica do Município de Aparecida de Goiânia e das disposições contidas na Lei Complementar nº 101, de 04 de maio de 2000, as diretrizes gerais para elaboração dos orçamentos do Município para o exercício de 2019, compreendendo:
@@ -31,7 +32,8 @@ X.    as demais disposições gerais. 
 
 Art. 2º O projeto da Lei Orçamentária Anual para o exercício de 2019 será elaborado a partir da consolidação das propostas setoriais apresentadas pelos órgãos/entidades, bem como das propostas e sugestões formuladas pela população, por intermédio de audiência pública e dos meios disponibilizados via internet.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
 
 Art. 3° As metas finalísticas e as prioridades para o exercício financeiro de 2019 foram estabelecidas na Lei Municipal n° 3.385/2017, que trata do Plano Plurianual (PPA) relativo ao período 2018-2021, sendo referendadas para o exercício de 2019 no que não contradizerem às necessárias atualizações constantes desta Lei e em face da revisão periódica do cenário econômico e fiscal.
@@ -70,7 +72,8 @@ g) priorização de despesas finalísticas, em especial as relacionadas a projet
 
 Art. 5º O Plano Plurianual, desdobramento estratégico do Plano de Governo, bem como esta Lei de Diretrizes Orçamentárias serão norteadores do projeto da Lei Orçamentária Anual para 2019, estruturado por programas e ações regionalizadas (projeto/atividade).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 6º Para elaboração da Lei Orçamentária Anual deve-se adotar a classificação funcional-programática, definida na Portaria Conjunta STN/SOF nº 3/2008, no Manual de Contabilidade Aplicada ao Setor Público (MCASP) e no Manual de Demonstrativos Fiscais (MDF).
@@ -133,7 +136,8 @@ III - orçamento fiscal e da seguridade social dos Poderes Executivo, Legislativ
 
 Parágrafo único. O PLOA conterá ainda a programação referente à manutenção e desenvolvimento do ensino, nos termos do art. 112, da Lei Orgânica Municipal.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO E EXECUÇÃO DOS ORÇAMENTOS DO MUNICÍPIO E SUAS ALTERAÇÕES.
 
 Art. 11 A elaboração do projeto de lei, a aprovação e a execução da Lei Orçamentária para o exercício vindouro evidenciarão a transparência da gestão fiscal, observados os princípios da publicidade e a garantia do acesso popular através de audiências públicas (presenciais ou eletrônicas) previamente programadas.
@@ -202,34 +206,40 @@ Art. 22 O Município de Aparecida de Goiânia somente contribuirá para o custei
 
 Parágrafo único. O ordenador da despesa que contrariar o disposto estabelecido no caput responderá pessoalmente pela liquidação da despesa, independentemente de outras sanções legais.
 
-Art. 23 – Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares até o limite de 40% (quarenta por cento) da receita prevista para o exercício de 2019, utilizando como fonte de recursos compensatórios as disponibilidades referidas no Parágrafo 1º, do Art. 43, da Lei Federal nº 4.320, de 17 de março de 1964.<br>
+Art. 23 – Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares até o limite de 40% (quarenta por cento) da receita prevista para o exercício de 2019, utilizando como fonte de recursos compensatórios as disponibilidades referidas no Parágrafo 1º, do Art. 43, da Lei Federal nº 4.320, de 17 de março de 1964.
+
 (Redação alterada pela Lei Ordinária nº 3.466, de 10 de abril de 2019).
 
 ~~Art. 23 Fica o Poder Executivo autorizado a incluir na proposta orçamentária para o exercício de 2019, autorização para:~~
 
 Parágrafo único. O limite autorizado no caput, não será onerado quando o crédito suplementar se destinar a:
 
-I – atender a insuficiência de dotações do Grupo de Natureza de Despesa - 1 – Pessoal e encargos sociais;<br>
+I – atender a insuficiência de dotações do Grupo de Natureza de Despesa - 1 – Pessoal e encargos sociais;
+
 (Redação alterada pela Lei Ordinária nº 3.466, de 10 de abril de 2019).
 
 ~~I - abertura de créditos adicionais de natureza suplementar da despesa fixada, nos termos dos arts. 7º e 43 da Lei n° 4.320, de 17 de março de 1964, até o limite de 30% (trinta) do total da despesa autorizada na Lei Orçamentária para 2019;~~
 
-II – atender a despesas financiadas com recursos vinculados, operações de crédito e convênios;<br>
+II – atender a despesas financiadas com recursos vinculados, operações de crédito e convênios;
+
 (Redação alterada pela Lei Ordinária nº 3.466, de 10 de abril de 2019).
 
 ~~II - transpor, remanejar, transferir ou utilizar, total ou parcialmente, as dotações orçamentárias em decorrências de extinção, transformação, transferência, incorporação ou desmembramento de órgãos ou entidades constantes da estrutura programática do município;~~
 
-III – Insuficiência de dotações consignadas as Funções: Educação Saúde, Assistência Social e Previdência Social;<br>
+III – Insuficiência de dotações consignadas as Funções: Educação Saúde, Assistência Social e Previdência Social;
+
 (Redação alterada pela Lei Ordinária nº 3.466, de 10 de abril de 2019).
 
 ~~III - contratar operações de crédito, por antecipação da receita, observado o art. 167, inciso III, da Constituição Federal, e os limites fixados pelo Senado Federal;~~
 
-IV – atender o pagamento dos serviços da dívida pública;<br>
+IV – atender o pagamento dos serviços da dívida pública;
+
 (Redação alterada pela Lei Ordinária nº 3.466, de 10 de abril de 2019).
 
 ~~IV - contratar operações de crédito interna e externa, as quais ficarão condicionadas ao atendimento das normas estabelecidas na Lei complementar nº 101/2000 e na Resolução n° 43/2001 do Senado Federal;~~
 
-V - Incorporação de saldos financeiros apurados em 31 de dezembro de 2018 e o excesso de arrecadação apurado no exercício de 2019.<br>
+V - Incorporação de saldos financeiros apurados em 31 de dezembro de 2018 e o excesso de arrecadação apurado no exercício de 2019.
+
 ​​​​​​​(Redação alterada pela Lei Ordinária nº 3.466, de 10 de abril de 2019).
 
 ~~V - firmar convênios de caráter oneroso ou não com órgãos ou instituições públicas ou privadas.~~
@@ -286,7 +296,8 @@ Art. 34 Na programação dos investimentos, aqueles em fase de execução terão
 
 Art. 35 A administração pública municipal poderá destinar recursos para, direta ou indiretamente, cobrir necessidades de pessoas físicas, comprovadamente em vulnerabilidade social ou vitimadas por situações de calamidade pública, tanto por meio de auxílios financeiros quanto por meio de material de distribuição gratuita, observado o art. 26 da Lei Complementar nº 101/2000.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 36 As despesas totais com pessoal serão limitadas em 60% (sessenta por cento) da Receita Corrente Líquida (RCL) do Município, sendo 6% (seis por cento) para o Legislativo e 54% (cinquenta e quatro por cento) para o Poder Executivo, nos termos do art. 20, inciso III, da Lei Complementar nº 101/2000, excetuando-se os casos de:
@@ -325,7 +336,8 @@ Art. 40 Desde que não ultrapasse o limite legal de gastos com pessoal conforme 
 
 Art. 41 O Poder Executivo poderá proceder à revisão geral anual na remuneração básica dos servidores públicos e nos subsídios, conforme preceitua o art. 37, inciso X, da Constituição Federal.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO MUNICÍPIO
 
 Art. 42 O Poder Executivo Municipal poderá enviar à Câmara Municipal projeto de lei dispondo sobre alterações na legislação tributária, cujos efeitos poderão ser considerados, especialmente sobre:
@@ -346,7 +358,8 @@ VII - instituição de novas taxas pela prestação de serviços públicos e pel
 
 VIII - revisão das isenções tributárias, para manter o interesse público e estimular o desenvolvimento econômico e a justiça social.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 CRITÉRIOS E FORMAS DE LIMITAÇÃO DE EMPENHO
 
 Art. 43 Na hipótese de ocorrência das circunstancias estabelecidas no caput do art. 9º e no inciso II do § 1º do art. 31, da Lei Complementar nº 101/2000, o Poder Executivo e o Poder Legislativo procederão a respectiva limitação de empenho e de movimentação financeira, calculada de forma proporcional à participação dos Poderes no total das dotações iniciais constantes da Lei Orçamentária de 2019, utilizando para tal fim as cotas orçamentárias e financeiras.
@@ -379,7 +392,8 @@ IX -     investimentos novos.
 
 §5º. Se verificado, ao final de um bimestre, que a realização da receita não será suficiente para garantir o equilíbrio das contas públicas, adotar-se-ão as mesmas medidas previstas neste artigo.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 PARAMETROS PARA A ELABORAÇÃO DAS METAS BIMESTRAIS DE ARRECADAÇÃO E O CRONOGRAMA MENSAL DE DESEMBOLSO
 
 Art. 44 O Poder Executivo, por meio da Secretaria Municipal de Transparência, Fiscalização e Controle, estabelecerá por ato próprio, até 30 (trinta) dias após a publicação da Lei Orçamentária de 2019, o cronograma mensal de desembolso e as metas bimestrais de arrecadação, respectivamente, nos termos dos arts. 8º e 13 da Lei Complementar nº 101/2000.
@@ -390,7 +404,8 @@ Art. 44 O Poder Executivo, por meio da Secretaria Municipal de Transparência, F
 
 §3º. A programação financeira e o cronograma mensal de desembolso de que trata o caput deste artigo servirão de base para a limitação de empenhos, além de garantir o cumprimento da meta de resultado primário.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DEFINIÇÃO DE CRITÉRIOS PARA INICIO DE NOVOS PROJETOS
 
 Art. 45 Além da observância das metas e prioridades definidas nos termos do art. 3º desta Lei, a Lei Orçamentária de 2019 e seus créditos adicionais, observado o disposto no art. 45 da Lei Complementar nº 101/2000 somente incluirão novos projetos se:
@@ -405,7 +420,8 @@ IV -     os recursos alocados destinarem-se a contrapartidas de recursos fede
 
 Parágrafo único. Considera-se projeto em andamento, para os efeitos desta Lei, aquele cuja execução iniciar-se até a data de encaminhamento da proposta orçamentária para o exercício de 2019, cujo cronograma de execução ultrapasse o término do exercício de 2018.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 INCENTIVO À PARTICIPAÇÃO POPULAR
 
 Art. 46 O PLOA do Município, relativo ao exercício financeiro de 2019, deverá assegurar a transparência na elaboração e execução do orçamento.
@@ -420,7 +436,8 @@ I - elaboração da proposta orçamentária de 2019;
 
 II - demonstração dos resultados obtidos pela Administração, na execução do planejamento.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 48 A programação de receitas e despesas a serem previstas no Orçamento para o exercício de 2019 deverá ser compatível com os objetivos e metas do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO).
@@ -437,10 +454,12 @@ Art. 53 - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 27 de agosto de 2018.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil
 
 [METAS Fiscais Tb. 01](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18991)

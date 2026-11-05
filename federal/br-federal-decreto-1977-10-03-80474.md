@@ -1,5 +1,3 @@
-###DEC-080474-0-000-03-10-1977@@@
-
 Decreto nº 80.474, de 3 de outubro de 1977.
 
 Concede à Sociedade Cal Paraná Ltda. o direito de lavrar água potável de mesa, no Município de Piraquara, Estado do Paraná.

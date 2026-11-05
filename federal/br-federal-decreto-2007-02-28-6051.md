@@ -1,5 +1,3 @@
-###DEC-006051-0-000-28-02-2007@@@
-
 DECRETO Nº 6.051, DE 28 DE FEVEREIRO DE 2007.
 
 Dispõe sobre a execução do Sexagésimo Quarto Protocolo ao Acordo de Complementação Econômica no 2, entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 30 de agosto de 2006.
@@ -22,11 +20,7 @@ Brasília, 28 de fevereiro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 28.2.2007 Ed. extra.
-
-ACORDO QUADRO DE INTERCONEXÃO ENERGÉTICA
+Celso Luiz Nunes AmorimACORDO QUADRO DE INTERCONEXÃO ENERGÉTICA
 
 ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A
 

@@ -1,5 +1,3 @@
-###DEC-005192-0-000-19-08-2004@@@
-
 DECRETO Nº 5.192 DE 19 DE AGOSTO DE 2004
 
 Extingue o Escritório de Representação do Brasil em Abuja, Nigéria, e transfere a sede da Embaixada naquele País para essa capital.

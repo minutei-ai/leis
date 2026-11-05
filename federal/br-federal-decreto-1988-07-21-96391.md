@@ -1,5 +1,3 @@
-###DEC-096391-0-000-21-07-1988@@@
-
 DECRETO N° 96.391, DE 21 DE JULHO DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade Anhanguera de Ciências Humanas.

@@ -1,5 +1,3 @@
-###DEC-068298-0-000-26-02-1971@@@
-
 DECRETO Nº 68.298, DE 26 DE FEVEREIRO DE 1971.
 
 Modifica o Regulamento de Organizações Militares do Exército e dá outras providências.

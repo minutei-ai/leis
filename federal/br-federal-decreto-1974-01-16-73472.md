@@ -1,5 +1,3 @@
-###DEC-073472-0-000-16-01-1974@@@
-
 DECRETO Nº 73.472, DE 16 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação o imóvel que menciona, necessário ao Ministério do Exército.

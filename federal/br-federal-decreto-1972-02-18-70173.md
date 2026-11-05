@@ -1,5 +1,3 @@
-###DEC-070173-0-000-18-02-1972@@@
-
 DECRETO Nº 70.173, DE 18 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública a União Norte Brasileira de Educação e Cultura - UNBEC, com sede em Recife, Estado de Pernambuco.

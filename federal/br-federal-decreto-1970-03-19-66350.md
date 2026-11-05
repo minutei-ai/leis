@@ -1,5 +1,3 @@
-###DEC-066350-0-000-19-03-1970@@@
-
 DECRETO Nº 66.350 - DE 19 DE MARÇO DE 1970
 
 Autoriza cessão, sob regime de aforamento, do terreno de acrescido de marinha que menciona, situado no Estado do Espírito Santo.

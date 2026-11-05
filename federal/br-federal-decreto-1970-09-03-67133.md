@@ -1,5 +1,3 @@
-###DEC-067133-0-000-03-09-1970@@@
-
 Decreto nº 67.133, de 3 de setembro de 1970.
 
 Transfere da Prefeitura Municipal de Formosa para a Centrais Elétricas de Goiás S. A. a concessão para produzir, transmitir e distribuir energia elétrica no município de Formosa, Estado de Goiás.

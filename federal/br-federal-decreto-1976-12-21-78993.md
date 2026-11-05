@@ -1,5 +1,3 @@
-###DEC-078993-0-000-21-12-1976@@@
-
 DECRETO Nº 78.993, DE 21 DE DEZEMBRO DE 1976.
 
 Fixa o fator de reajustamento salarial relativo a dezembro de 1976.

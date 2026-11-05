@@ -1,5 +1,3 @@
-###DEC-085948-0-000-28-04-1981@@@
-
 DeCreto nº 85.948, de 28 de abril de 1981.
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados incidentes sobre veículos movidos por motor elétrico.

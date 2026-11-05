@@ -1,5 +1,3 @@
-###DEC-089085-0-000-01-12-1983@@@
-
 DECRETO Nº 89.085, de 1º de dezembro de 1983.
 
 Delegação de Competência do Presidente da República ao Ministro do Exército para as requisições de que trata a Lei nº 6.855, de 18 de novembro de 1980.

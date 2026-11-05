@@ -1,5 +1,3 @@
-###DEC-046403-0-000-11-07-1959@@@
-
 DECRETO Nº 46.403, DE 11 DE JULHO DE 1959.
 
 Altera os arts. 4º e 18 do Regulamento da Diretoria de Subsistência, aprovado pelo Decreto nº 45.476, de 26 de fevereiro de 1959.

@@ -1,5 +1,3 @@
-###DEC-055683-0-000-02-02-1965@@@
-
 DECRETO Nº 55.683, DE 2 DE FEVEREIRO DE 1965.
 
 Concede à S. A. Grandes Indústrias Cearenses de Produtos Alimentícios autorização para funcionar como emprêsa de mineração.

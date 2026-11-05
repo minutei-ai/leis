@@ -1,5 +1,3 @@
-###DEC-054915-0-000-04-11-1964@@@
-
 DECRETO Nº 54.915, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza Chaves & Cia., a lavrar gipsita no município de Santanópole, Estado do Ceará.

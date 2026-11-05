@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74195)
-
 # LEI Nº 12.705, DE 04 DE OUTUBRO DE 2007
 
 ### _Autoriza o Departamento de Estradas de Rodagem - DER a alienar, mediante doação, à Fazenda do Estado, imóvel situado em Araraquara._

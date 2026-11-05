@@ -1,5 +1,3 @@
-###DEC-093622-0-000-25-11-1986@@@
-
 DECRETO Nº 93.622, DE 25 DE NOVEMBRO DE 1986
 
 Altera o Decreto nº 89.818/84, que criou a Comissão Nacional de Facilitação do Comércio Exterior-CONFAC.

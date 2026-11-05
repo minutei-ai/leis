@@ -1,5 +1,3 @@
-###MPV-002044-0-057-26-10-2000@@@
-
 Medida Provisória nº 2.044-57, de 26 de outubro de 2000.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

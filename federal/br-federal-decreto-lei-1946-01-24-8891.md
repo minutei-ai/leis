@@ -1,5 +1,3 @@
-###DEL-008891-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.891 – DE 24 DE JANEIRO DE 1946
 
 Isenta de sêlo as escrituras ou têrmos de incorporação ou doação de bens às universidades oficiais ou equiparadas.

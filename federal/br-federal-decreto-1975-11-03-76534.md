@@ -1,5 +1,3 @@
-###DEC-076534-0-000-03-11-1975@@@
-
 DECRETO Nº 76.534, DE 3 DE NOVEMBRO DE 1975.
 
 Dá nova delimitação à área definida pelo artigo 3º do Decreto número 73.791, de 11 de março de 1974, que cria a Reserva Biológica Nacional de Poço das Antas, no Estado do Rio de Janeiro.

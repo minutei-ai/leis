@@ -1,5 +1,3 @@
-###DEC-058043-0-000-23-03-1966@@@
-
 DECRETO Nº 58.043, DE 23 DE MARÇO DE 1966.
 
 Concede à L´Union Compagnie D'Assurances Contre L´Incendie, Les Accidentes et Risques Divers autorização para aumentar o capital destinados às suas operações de seguros no Brasil.

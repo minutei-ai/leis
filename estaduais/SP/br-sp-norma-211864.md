@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211864)<br>
-
 # DECRETO N° 70.114, DE 18 DE NOVEMBRO DE 2025
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Regente Feijó, que declarou Situação de Emergência em áreas do Município._

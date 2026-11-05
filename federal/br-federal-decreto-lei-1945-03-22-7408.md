@@ -1,5 +1,3 @@
-###DEL-007408-0-000-22-03-1945@@@
-
 DECRETO-LEI N. 7.408 – DE 22 DE MARÇO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar, do pagamento do impôsto que menciona, a Orfanato "Casa de Luciá”

@@ -1,5 +1,3 @@
-###DEC-068033-0-000-11-01-1971@@@
-
 DECRETO Nº 68.033, DE 11 DE JANEIRO DE 1971.
 
 Dispõe sobre o exercício de atividade na Comissão Geral de Investigações.

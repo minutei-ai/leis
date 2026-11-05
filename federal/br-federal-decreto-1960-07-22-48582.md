@@ -1,5 +1,3 @@
-###DEC-048582-0-000-22-07-1960@@@
-
 DECRETO Nº 48.582, DE 22 DE JUlho DE 1960.
 
 Autoriza o cidadão brasileiro Bernardo Hermann Wolfgang Werner a pesquisar minério de ferro no município de Guaramirim, Estado de Santa Catarina.

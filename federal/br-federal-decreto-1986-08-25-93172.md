@@ -1,5 +1,3 @@
-###DEC-093172-0-000-25-08-1986@@@
-
 DECRETO Nº 93.172, DE 25 DE AGOSTO DE 1986
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA, a doar os imóveis que menciona.

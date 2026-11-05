@@ -1,5 +1,3 @@
-###DEC-089315-0-000-24-01-1984@@@
-
 Decreto nº 89.315 de 24 de janeiro de 1984
 
 Estabelece área de proteção para fonte de água mineral.

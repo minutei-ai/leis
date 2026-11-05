@@ -1,5 +1,3 @@
-###DEC-079365-0-000-09-03-1977@@@
-
 DECRETO Nº 79.365, DE 9 DE março DE 1977.
 
 Autoriza a instituição de servidão de solo, em favor de concessão de lavra.

@@ -32,7 +32,8 @@ Art. 7º - A participação prevista no § 1º do art. 4º será realizada com q
 
 Art. 8º - A Companhia será administrada por um Conselho de Administração e por uma Diretoria compostos, respectivamente, de 05 (cinco) e 03 (três) membros, os quais terão mandatos de 02 (dois) anos, podendo ser reeleitos.
 
-Redação de acordo com a Lei nº [12.825](javascript: openDoc\() , de 04 de julho de 2013.<br>
+Redação de acordo com a Lei nº [12.825](javascript: openDoc\() , de 04 de julho de 2013.
+
 Redação original: "Art. 8º - A Companhia será administrada por uma diretoria composta de três membros, os quais terão mandato de três anos, podendo ser reeleitos." 
 
 Parágrafo único -  Competirá ao Conselho de Administração, dentre outras atribuições previstas no Estatuto da Empresa:

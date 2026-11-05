@@ -97,7 +97,3 @@ ANEXO IV
 (a que se refere a Lei Delegada nº 177, de 26 de janeiro de 2007)
 
 Cargo Vencimento Representação Total Corregedor R$4.500,00 R$4.500,00 R$9.000,00
-
-\=============================
-
-Data da última atualização: 18/12/2019.

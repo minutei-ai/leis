@@ -1,5 +1,3 @@
-###DEC-072506-0-000-20-07-1973@@@
-
 DECRETO Nº 72.506, DE 20 DE JULHO DE 1973.
 
 Altera a redação do artigo 26, do Decreto nº 66.882, de 16 de julho de 1970, e dá outras providências.

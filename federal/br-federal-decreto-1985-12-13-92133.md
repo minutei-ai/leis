@@ -1,5 +1,3 @@
-###DEC-092133-0-000-13-12-1985@@@
-
 Decreto Nº 92.133, de 13 de Dezembro de 1985
 
 Renova a concessão outorgada à RÁDIO TRANSMISSORA DE SERRA NEGRA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Serra Negra, Estado de São Paulo.

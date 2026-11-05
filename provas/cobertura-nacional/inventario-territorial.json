@@ -11,8 +11,8 @@
     "ufs_ou_df_com_diretorio": 27,
     "municipios_no_ibge": 5569,
     "entidades_especiais": 2,
-    "municipios_com_diretorio": 14,
-    "municipios_sem_publicacao_identificada": 5555,
+    "municipios_com_diretorio": 27,
+    "municipios_sem_publicacao_identificada": 5542,
     "codigos_publicados_fora_do_ibge": [],
     "lote_tematico_licitacoes_locais": "metadados/licitacoes-locais/ — amostra #57, não cobertura geral"
   },
@@ -35,7 +35,7 @@
       "uf": "AC",
       "esfera": "estadual",
       "diretorio": "estaduais/AC",
-      "markdown_publicados": 1680,
+      "markdown_publicados": 1681,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -50,7 +50,7 @@
       "uf": "AL",
       "esfera": "estadual",
       "diretorio": "estaduais/AL",
-      "markdown_publicados": 5,
+      "markdown_publicados": 6,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -65,7 +65,7 @@
       "uf": "AM",
       "esfera": "estadual",
       "diretorio": "estaduais/AM",
-      "markdown_publicados": 8,
+      "markdown_publicados": 10,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -80,7 +80,7 @@
       "uf": "AP",
       "esfera": "estadual",
       "diretorio": "estaduais/AP",
-      "markdown_publicados": 24,
+      "markdown_publicados": 26,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -95,7 +95,7 @@
       "uf": "BA",
       "esfera": "estadual",
       "diretorio": "estaduais/BA",
-      "markdown_publicados": 14377,
+      "markdown_publicados": 14379,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -110,7 +110,7 @@
       "uf": "CE",
       "esfera": "estadual",
       "diretorio": "estaduais/CE",
-      "markdown_publicados": 110,
+      "markdown_publicados": 112,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -125,7 +125,7 @@
       "uf": "DF",
       "esfera": "distrital",
       "diretorio": "estaduais/DF",
-      "markdown_publicados": 8,
+      "markdown_publicados": 10,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -140,7 +140,7 @@
       "uf": "ES",
       "esfera": "estadual",
       "diretorio": "estaduais/ES",
-      "markdown_publicados": 20,
+      "markdown_publicados": 23,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -155,7 +155,7 @@
       "uf": "GO",
       "esfera": "estadual",
       "diretorio": "estaduais/GO",
-      "markdown_publicados": 9668,
+      "markdown_publicados": 9669,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -170,7 +170,7 @@
       "uf": "MA",
       "esfera": "estadual",
       "diretorio": "estaduais/MA",
-      "markdown_publicados": 6,
+      "markdown_publicados": 7,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -200,7 +200,7 @@
       "uf": "MS",
       "esfera": "estadual",
       "diretorio": "estaduais/MS",
-      "markdown_publicados": 3285,
+      "markdown_publicados": 3287,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -215,7 +215,7 @@
       "uf": "MT",
       "esfera": "estadual",
       "diretorio": "estaduais/MT",
-      "markdown_publicados": 336,
+      "markdown_publicados": 338,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -230,7 +230,7 @@
       "uf": "PA",
       "esfera": "estadual",
       "diretorio": "estaduais/PA",
-      "markdown_publicados": 85,
+      "markdown_publicados": 86,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -245,7 +245,7 @@
       "uf": "PB",
       "esfera": "estadual",
       "diretorio": "estaduais/PB",
-      "markdown_publicados": 2,
+      "markdown_publicados": 3,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -260,7 +260,7 @@
       "uf": "PE",
       "esfera": "estadual",
       "diretorio": "estaduais/PE",
-      "markdown_publicados": 2346,
+      "markdown_publicados": 2352,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -275,7 +275,7 @@
       "uf": "PI",
       "esfera": "estadual",
       "diretorio": "estaduais/PI",
-      "markdown_publicados": 1,
+      "markdown_publicados": 3,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -305,7 +305,7 @@
       "uf": "RJ",
       "esfera": "estadual",
       "diretorio": "estaduais/RJ",
-      "markdown_publicados": 1661,
+      "markdown_publicados": 1662,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -320,7 +320,7 @@
       "uf": "RN",
       "esfera": "estadual",
       "diretorio": "estaduais/RN",
-      "markdown_publicados": 62,
+      "markdown_publicados": 64,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -335,7 +335,7 @@
       "uf": "RO",
       "esfera": "estadual",
       "diretorio": "estaduais/RO",
-      "markdown_publicados": 3,
+      "markdown_publicados": 4,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -350,7 +350,7 @@
       "uf": "RR",
       "esfera": "estadual",
       "diretorio": "estaduais/RR",
-      "markdown_publicados": 1,
+      "markdown_publicados": 2,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -365,7 +365,7 @@
       "uf": "RS",
       "esfera": "estadual",
       "diretorio": "estaduais/RS",
-      "markdown_publicados": 16,
+      "markdown_publicados": 17,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -380,7 +380,7 @@
       "uf": "SC",
       "esfera": "estadual",
       "diretorio": "estaduais/SC",
-      "markdown_publicados": 266,
+      "markdown_publicados": 268,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -395,7 +395,7 @@
       "uf": "SE",
       "esfera": "estadual",
       "diretorio": "estaduais/SE",
-      "markdown_publicados": 21,
+      "markdown_publicados": 23,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -425,7 +425,7 @@
       "uf": "TO",
       "esfera": "estadual",
       "diretorio": "estaduais/TO",
-      "markdown_publicados": 28,
+      "markdown_publicados": 30,
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "fontes": [
         {
@@ -475,6 +475,57 @@
   ],
   "municipios_publicados": [
     {
+      "ibge": "1100205",
+      "nome": "Porto Velho",
+      "uf": "RO",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/1100205",
+      "markdown_publicados": 2,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "1302603",
+      "nome": "Manaus",
+      "uf": "AM",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/1302603",
+      "markdown_publicados": 2,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "1400100",
+      "nome": "Boa Vista",
+      "uf": "RR",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/1400100",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
       "ibge": "1505536",
       "nome": "Parauapebas",
       "uf": "PA",
@@ -504,6 +555,74 @@
           "orgao": "SEMAS-PA (cópia de decreto municipal de Tomé-Açu)",
           "poder": "desconhecido",
           "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2304400",
+      "nome": "Fortaleza",
+      "uf": "CE",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2304400",
+      "markdown_publicados": 2,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2408102",
+      "nome": "Natal",
+      "uf": "RN",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2408102",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2507507",
+      "nome": "João Pessoa",
+      "uf": "PB",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2507507",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2611606",
+      "nome": "Recife",
+      "uf": "PE",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2611606",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
         }
       ],
       "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
@@ -543,6 +662,23 @@
       "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
     },
     {
+      "ibge": "2704302",
+      "nome": "Maceió",
+      "uf": "AL",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2704302",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
       "ibge": "2704708",
       "nome": "Marechal Deodoro",
       "uf": "AL",
@@ -572,6 +708,40 @@
           "orgao": "Câmara Municipal de Rio Largo",
           "poder": "Legislativo",
           "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2800308",
+      "nome": "Aracaju",
+      "uf": "SE",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2800308",
+      "markdown_publicados": 2,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2927408",
+      "nome": "Salvador",
+      "uf": "BA",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2927408",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
         }
       ],
       "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
@@ -617,13 +787,30 @@
       "classificacao": "municipio",
       "estado_trabalho": "publicado-cobertura-desconhecida",
       "diretorio": "municipais/3106200",
-      "markdown_publicados": 12,
+      "markdown_publicados": 17,
       "fontes": [
         {
           "orgao": "DOM-PBH / Câmara Municipal de Belo Horizonte",
           "poder": "ambos-parciais",
           "estado": "catalogo-parcial",
           "lote_tematico": "licitacoes-locais#57"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "3205309",
+      "nome": "Vitória",
+      "uf": "ES",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/3205309",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
         }
       ],
       "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
@@ -659,6 +846,40 @@
           "poder": "ambos-parciais",
           "estado": "catalogo-parcial",
           "lote_tematico": "licitacoes-locais#57"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "4106902",
+      "nome": "Curitiba",
+      "uf": "PR",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/4106902",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "4314902",
+      "nome": "Porto Alegre",
+      "uf": "RS",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/4314902",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "desconhecido",
+          "poder": "desconhecido",
+          "estado": "nao-investigado"
         }
       ],
       "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
@@ -716,7 +937,7 @@
       "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
     }
   ],
-  "municipios_sem_diretorio_contagem": 5555,
+  "municipios_sem_diretorio_contagem": 5542,
   "plano_retomavel": {
     "unidade": "UF/ente/fonte/tipo/periodo",
     "evitar": "Abrir milhares de issues sem diagnóstico de fonte",

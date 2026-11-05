@@ -1,5 +1,3 @@
-###DEC-006359-0-000-18-01-2008@@@
-
 DECRETO Nº 6.359, DE 18 DE JANEIRO DE 2008.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Geddel Vieira Lima
-
-Este texto não substitui o publicado no DOU de 21.1.2008

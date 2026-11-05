@@ -1,5 +1,3 @@
-###DEC-003322-0-000-30-12-1999@@@
-
 DECRETO Nº 3.322, DE 30 DE DEZEMBRO DE 1999.
 
 Promulga o Acordo Internacional do Açúcar, de 1992, assinado em 30 de dezembro de 1992, na sede da Organização das Nações Unidas, em Nova York.

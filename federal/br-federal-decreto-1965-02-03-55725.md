@@ -1,5 +1,3 @@
-###DEC-055725-0-000-03-02-1965@@@
-
 DECRETO Nº 55.725, DE 3 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Moacyr Dias de Carvalho a lavrar calcário no município de Arcos, Estado de Minas Gerais.

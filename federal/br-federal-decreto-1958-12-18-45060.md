@@ -1,5 +1,3 @@
-###DEC-045060-0-000-18-12-1958@@@
-
 DECRETO Nº 45.060, DE 18 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao serviço do Exército Nacional.

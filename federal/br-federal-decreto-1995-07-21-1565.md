@@ -1,7 +1,3 @@
-1
-
-###DEC-001565-0-000-21-07-1995@@@
-
 DECRETO Nº 1.565, DE 21 DE JULHO DE 1995.
 
 Regulamenta a Lei nº 8.829, de 22 de dezembro de 1993, que cria, no Serviço Exterior, as Carreiras de Oficial de Chancelaria e de Assistente de Chancelaria.

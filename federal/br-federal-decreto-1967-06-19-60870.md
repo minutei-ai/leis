@@ -1,5 +1,3 @@
-###DEC-060870-0-000-19-06-1967@@@
-
 DECRETO Nº 60.870, DE 19 DE JUNHO DE 1967.
 
 Declara de utilidade pública a “Associação Brasileira de Educação Familiar e Social”, com sede no Estado da Guanabara.

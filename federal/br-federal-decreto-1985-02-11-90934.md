@@ -1,5 +1,3 @@
-###DEC-090934-0-000-11-02-1985@@@
-
 Decreto nº 90.934, de 11 de fevereiro de 1985.
 
 Constitui Comissão Interministerial de Inquérito para apurar irregularidades ocorridas na Fundação de Assistência ao Estudante (FAE).

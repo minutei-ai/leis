@@ -1,5 +1,3 @@
-###MPV-001878-0-062-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.878-62, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

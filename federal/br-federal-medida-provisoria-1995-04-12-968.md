@@ -1,7 +1,3 @@
-1
-
-###MPV-000968-0-000-12-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 968, DE 12 DE ABRIL DE 1995.
 
 Extingue as vantagens que menciona, institui os Décimos Incorporados, e dá outras providências.

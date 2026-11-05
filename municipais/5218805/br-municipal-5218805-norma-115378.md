@@ -1,6 +1,5 @@
 LEI Nº 7.376, DE 28 DE JUNHO DE 2023.
 
-<br>
 Autoriza a entrada de agentes de endemias em imóveis abandonados, públicos ou privados, quanto à saúde pública pela presença do mosquito transmissor do vírus causadores da Dengue e da febre Chikungunya e do vírus Zika, no âmbito do Município de Rio Verde, e dá outras providências.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE – GO APROVA E EU SANCIONO A SEGUINTE LEI:**

@@ -1,5 +1,3 @@
-###DEC-069367-0-000-18-10-1971@@@
-
 DECRETO Nº 69.367, DE 18 DE OUTUBRO DE 1971.
 
 Revoga o Decreto nº 9.932, de 18 de dezembro de 1912, que concedeu à emprêsa South American Mining Company autorização para funcionar na República Federativa do Brasil.

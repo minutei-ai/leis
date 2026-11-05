@@ -1,5 +1,3 @@
-###DEL-005179-0-000-11-01-1943@@@
-
 DECRETO-LEI N. 5.179 – DE 11 DE JANEIRO DE 1943
 
 Regula o aproveitamento de oficiais das forças armadas e de funcionários públicos civis na Companhia Vale do Rio Doce S.A.

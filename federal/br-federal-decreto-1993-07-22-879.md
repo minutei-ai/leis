@@ -1,5 +1,3 @@
-###DEC-000879-0-000-22-07-1993@@@
-
 DECRETO N° 879, DE 22 DE JULHO DE 1993
 
 Regulamenta a Lei n° 8.489, de 18 de novembro de 1992, que dispõe sobre a retirada e o transplante de tecidos, órgãos e partes do corpo humano, com fins terapêuticos, científicos e humanitários.

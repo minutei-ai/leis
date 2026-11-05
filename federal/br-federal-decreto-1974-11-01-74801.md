@@ -1,5 +1,3 @@
-###DEC-074801-0-000-01-11-1974@@@
-
 DECRETO Nº 74.801, DE 1 DE NOVEMBRO DE 1974.
 
 Transfere para Centrais Elétricas de Minas Gerais S. A. - CEMIG os direitos concedidos à Companhia Mineira de Eletricidade por força do Decreto nº 71.573, de 18 de dezembro de 1972.

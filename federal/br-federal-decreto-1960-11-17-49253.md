@@ -1,5 +1,3 @@
-###DEC-049253-0-000-17-11-1960@@@
-
 DECRETO Nº 49.253, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Orlando Moreira Torres a pesquisar calcário no município de Matozinhos, Estado de Minas Gerais:

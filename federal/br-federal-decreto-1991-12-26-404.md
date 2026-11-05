@@ -1,5 +1,3 @@
-###DEC-000404-0-000-26-12-1991@@@
-
 # DECRETO Nº 404, DE 26 DE DEZEMBRO DE 1991
 
 Dá nova redação ao art. 7º do Decreto nº 371, de 20 de dezembro de 1991, que instituiu o Serviço Social Autônomo Associação das Pioneiras Sociais.

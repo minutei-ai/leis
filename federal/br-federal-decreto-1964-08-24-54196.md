@@ -1,5 +1,3 @@
-###DEC-054196-0-000-24-08-1964@@@
-
 DECRETO Nº 54.196, DE 24 DE AGôSTO DE 1964.
 
 Autoriza o cidadão brasileiro Agostinho Homem Toledo a pesquisar mica no município de Cataguases, Estado de Minas Gerais.

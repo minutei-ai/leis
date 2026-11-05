@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69384)
-
 # LEI Nº 12.488, DE 26 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 672/2005, do Deputado Antonio Mentor - PT)

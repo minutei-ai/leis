@@ -1,5 +1,3 @@
-###DEC-053244-0-000-12-12-1963@@@
-
 DECRETO Nº 53.244, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Oscar Schneider a lavrar água mineral no município de Rio Claro, Estado de São Paulo.

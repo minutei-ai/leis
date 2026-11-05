@@ -1,5 +1,3 @@
-###DEC-069048-0-000-11-08-1971@@@
-
 DECRETO Nº 69.048, de 11 de agôsto de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra situada dentro dos limites do Parque Nacional da Tijuca, Estado da Guanabara, a que se refere o Decreto nº 60.183, de 8 de fevereiro de 1967.

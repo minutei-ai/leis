@@ -1,5 +1,3 @@
-###DEC-067668-0-000-27-11-1970@@@
-
 DECRETO Nº 67.668, DE 27 DE Novembro de 1970.
 
 Revoga o Decreto que concedeu à emprêsa American Express Company of Brazil autorização para funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-074354-0-000-02-08-1974@@@
-
 DECRETO Nº 74.354, DE 2 DE AGOSTO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Pampa Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-006067-0-000-21-03-2007@@@
-
 DECRETO Nº 6.067, DE 21 DE MARÇO DE 2007.
 
 Institui a Medalha de Praça mais Distinta e altera o Decreto no 40.556, de 17 de dezembro de 1956, que regula o uso de condecorações nos uniformes militares.
@@ -21,5 +19,3 @@ Brasília, 21 de março de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Waldir Pires
-
-Este texto não substitui o publicado no DOU de 22.3.2007.

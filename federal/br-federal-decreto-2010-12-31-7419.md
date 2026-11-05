@@ -1,5 +1,3 @@
-###DEC-007419-0-000-31-12-2010-PUB-01@@@
-
 DECRETO Nº 7.419, DE 31 DE DEZEMBRO DE 2010.
 
 Dá nova redação ao art. 21 do Anexo ao Decreto no 70.274, de 9 de março de 1972, no tocante ao hasteamento do Pavilhão Presidencial e incluindo disposição sobre o Pavilhão do Vice-Presidente.

@@ -1,5 +1,3 @@
-###DEC-096847-0-000-28-09-1988@@@ 
-
 DECRETO Nº 96.847, DE 28 DE SETEMBRO DE 1988
 
 Renova concessão outorgada à RÁDIO DIFUSORA DE FERNANDÓPOLIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Fernandópolis, Estado de São Paulo.

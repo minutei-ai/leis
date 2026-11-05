@@ -1,5 +1,3 @@
-###DEC-074112-0-000-27-05-1974@@@
-
 DECRETO nº 74.112, de 27 de maio de 1974.
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Filosofia, Ciências e Letras da Universidade de Uberlândia, Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-001241-0-000-11-10-1972@@@
-
 # Decreto-lei Nº 1.241, DE 11 De OUTubRO DE 1972
 
 Altera a redação do § 1º do artigo 6º da Lei nº 4.341, de 13 de junho de 1964, e dá outras providências.

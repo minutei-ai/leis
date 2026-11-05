@@ -1,5 +1,3 @@
-###DEC-074151-0-000-06-06-1974@@@
-
 Decreto nº 74.151, de 6 de junho de 1974.
 
 Torna sem efeito aproveitamento de servidor e dá outras providências.

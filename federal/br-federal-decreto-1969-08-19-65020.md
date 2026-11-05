@@ -1,5 +1,3 @@
-###DEC-065020-0-000-19-08-1969@@@
-
 DECRETO Nº 65.020, DE 19 DE AGôSTO DE 1969.
 
 Declara peremptas as concessões outorgadas à Companhia Radiotelegráfica Brasileira - RADIOBRAS e da outras providências.

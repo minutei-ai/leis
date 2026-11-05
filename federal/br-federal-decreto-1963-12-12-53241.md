@@ -1,5 +1,3 @@
-###DEC-053241-0-000-12-12-1963@@@
-
 DECRETO Nº 53.241, DE 12 DE DEZEMBRO DE 1963.
 
 Cria no Ministério das Relações Exteriores a Comissão de Transferência para Brasília da Secretaria de Estado e do Corpo Diplomático.

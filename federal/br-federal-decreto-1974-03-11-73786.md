@@ -1,5 +1,3 @@
-###DEC-073786-0-000-11-03-1974@@@
-
 decreto nº 73.786, de 11 de março de 1974.
 
 Redistribui cargos, com os respectivos ocupantes, do Quadro de Pessoal do Ministério da Justiça para o Ministério da Fazenda, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002608-0-000-01-06-1998@@@
-
 DECRETO Nº 2.608, DE 1º DE JUNHO DE 1998
 
 Altera dispositivos do Decreto nº 107, de 29 de abril de 1991, que regulamenta, para a Marinha, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000089-0-000-28-12-1966@@@
-
 DECRETO-LEI Nº 89, DE 28 DE DEZEMBRO DE 1966
 
 Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$2.700.000.000, destinado ao pagamento do subsídio previsto na Lei nº 3.244, de 14 de agôsto de 1957, relativamente ao período de 1º de janeiro a 10 de julho de 1966.

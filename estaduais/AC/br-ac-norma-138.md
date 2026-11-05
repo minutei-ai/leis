@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.658, de 11 de Dezembro de 2020.](https://legis.ac.gov
 
 > **LEI Nº 3.619, DE 17 DE ABRIL DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo Estadual a abrir ao Orçamento vigente, crédito especial em favor do Fundo Estadual de Saúde do Estado do Acre e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo Estadual a abrir ao Orçamento vigente, crédito especial em favor do Fundo Estadual de Saúde do Estado do Acre e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEL-004148-0-000-05-03-1942@@@
-
 DECRETO-LEI N. 4.148 – DE 5 DE Março DE 1942
 
  Altera a organização das Zonas Aéreas

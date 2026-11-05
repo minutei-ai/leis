@@ -1,5 +1,3 @@
-###DEC-070826-0-000-13-07-1972@@@
-
 DECRETO Nº 70.826, DE 13 DE JULHO DE 1972.
 
 Altera a redação do artigo 4º do Decreto nº 70.067, de 26 de janeiro de 1972, e dá outras providências.

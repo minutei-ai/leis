@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/73e850b9-5977-43ef-9a6b-77dbd63ef12f/texto#nowhere)
 
-###DEL-000786-0-000-25-08-1969@@@
-
 DECReto-lei Nº 786, DE 25 DE AGÔSTO DE 1969
 
 Anula parte de dotação constante da Lei nº 5.546, de 29 de novembro de 1968.
@@ -12,9 +10,131 @@ decreta:
 
 Art. 1º Fica anulada no orçamento Geral da União, aprovado pela Lei nº 5.546, de 29 de novembro de 1968, a importância de NCr$671.680.000,00 (seiscentos e setenta e um milhões, seiscentos e oitenta mil cruzeiros novos) constante do Subanexo 5.07.00 - Ministério da Fazenda, assim discriminada:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.07.23</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Diretoria da Despesa Pública</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(Encargos Gerais)</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Programa de Trabalho</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16.01.09.1.036</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Investimentos a cargo dos Estados e Distrito Federal</span></p><p class="Tabela" style="text-indent:0pt"><span>Parcela do Impôsto de Renda e Proventos de qualquer natureza ........................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Parcela do Impôsto sôbre Produtos Industrializados..........</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>53.430.000,00</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>114.490.000,00</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16.01.09.1.037</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Investimentos a cargo dos Municípios</span></p><p class="Tabela" style="text-indent:0pt"><span>Parcela do Impôsto de Renda e Proventos de qualquer Natureza ........................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Parcela do Impôsto sôbre Produtos Industrializados ..........</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>53.430.000,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>114.490.000,00</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16.01.09.2.034</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Ajuda Financeira aos Estados e Distrito Federal</span></p><p class="Tabela" style="text-indent:0pt"><span>Parcela do Impôsto de Renda e Proventos de qualquer Natureza ........................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Parcela do Impôsto sôbre Produtos Industrializados ..........</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>53.430.000,00</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>114.490.000,00</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16.01.09.2.035</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Ajuda Financeira aos Municípios</span></p><p class="Tabela" style="text-indent:0pt"><span>Parcela do Impôsto de Renda e Proventos de qualquer Natureza ........................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Parcela do Impôsto sôbre Produtos Industrializados...........</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>53.430.000,00</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">114.490.000,00</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">671.680.000,00</span></p></td></tr></tbody></table>
+5.07.23
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NATUREZA DA DESPESA</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Elemento</span></p><p class="Tabela" style="text-indent:0pt"><span>da</span></p><p class="Tabela" style="text-indent:0pt"><span>Despesa</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCR$</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Categoria</span></p><p class="Tabela" style="text-indent:0pt"><span>Econômica</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.0.0.0</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes ..................................</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">335.840.000,00</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2.0.0</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Transferências Correntes ............................</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>335.840.000,00</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2.7.3</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Entidades Estaduais</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diversos ......................................................</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>167.920.000,00</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2.7.4</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Entidades Municipais .................................</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>167.920.000,00</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.0.0.0</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Capital ..................................</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">335.840.000,00</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.3.0.0</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Transferências de Capital ...........................</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>335.840.000,00</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.3.7.0</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Contribuições Diversas</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>335.840.000,00</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:201.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total da Anulação.........................................</span></p></td><td style="width:81.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">671.680.000,00</span></p></td></tr></tbody></table>
+- Diretoria da Despesa Pública
+
+(Encargos Gerais)
+
+NCr$
+
+Programa de Trabalho
+
+16.01.09.1.036
+
+- Investimentos a cargo dos Estados e Distrito Federal
+
+Parcela do Impôsto de Renda e Proventos de qualquer natureza ........................................................................
+
+Parcela do Impôsto sôbre Produtos Industrializados..........
+
+53.430.000,00
+
+114.490.000,00
+
+16.01.09.1.037
+
+- Investimentos a cargo dos Municípios
+
+Parcela do Impôsto de Renda e Proventos de qualquer Natureza ........................................................................
+
+Parcela do Impôsto sôbre Produtos Industrializados ..........
+
+53.430.000,00
+
+114.490.000,00
+
+16.01.09.2.034
+
+- Ajuda Financeira aos Estados e Distrito Federal
+
+Parcela do Impôsto de Renda e Proventos de qualquer Natureza ........................................................................
+
+Parcela do Impôsto sôbre Produtos Industrializados ..........
+
+53.430.000,00
+
+114.490.000,00
+
+16.01.09.2.035
+
+- Ajuda Financeira aos Municípios
+
+Parcela do Impôsto de Renda e Proventos de qualquer Natureza ........................................................................
+
+Parcela do Impôsto sôbre Produtos Industrializados...........
+
+53.430.000,00
+
+114.490.000,00
+
+TOTAL ..........................................
+
+671.680.000,00
+
+NATUREZA DA DESPESA
+
+Elemento
+
+da
+
+Despesa
+
+NCR$
+
+Categoria
+
+Econômica
+
+NCr$
+
+3.0.0.0
+
+- Despesas Correntes ..................................
+
+335.840.000,00
+
+3.2.0.0
+
+- Transferências Correntes ............................
+
+335.840.000,00
+
+3.2.7.3
+
+- Entidades Estaduais
+
+Diversos ......................................................
+
+167.920.000,00
+
+3.2.7.4
+
+- Entidades Municipais .................................
+
+167.920.000,00
+
+4.0.0.0
+
+- Despesas de Capital ..................................
+
+335.840.000,00
+
+4.3.0.0
+
+- Transferências de Capital ...........................
+
+335.840.000,00
+
+4.3.7.0
+
+- Contribuições Diversas
+
+335.840.000,00
+
+Total da Anulação.........................................
+
+671.680.000,00
 
 Art. 2º O presente Decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

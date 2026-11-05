@@ -1,5 +1,3 @@
-###DEC-056636-0-000-03-08-1965@@@
-
 DECRETO Nº 56.636, DE 3 DE AGôSTO DE 1965.
 
 Autoriza a Companhia Hidrelétrica do Vale do Paraíba a construir linha de transmissão.

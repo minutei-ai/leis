@@ -1,5 +1,3 @@
-###DEC-050492-0-000-25-04-1961@@@
-
 DECRETO Nº 50.492, DE 25 DE ABRIL DE 1961.
 
 Complementa a regulamentação da Lei nº 3.552, de 16 de fevereiro de 1959, dispondo sôbre a organização e funcionamento de ginásio industrial.

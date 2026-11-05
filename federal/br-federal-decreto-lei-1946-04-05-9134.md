@@ -1,5 +1,3 @@
-###DEL-009134-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.134 – DE 5 DE ABRIL DE 1946  
 
 Dispõe sobre reclassificação de importância transferida da extinta Coordenação da Mobilização Econômica para o Conselho Federal de Comércio Exterior.
@@ -26,7 +24,7 @@ Consignação V – Outras despesas com pessoal
 
 Subconsignação 27 – Outras despesas
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAABCAYAAAA2EjsOAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEklEQVR4nGNgYGD4P4oHNQYDAAdqZ5nECJgvAAAAAElFTkSuQmCC)03 – Salário-família ...... 31.200,00
+![](../assets/md-inline/a4f4520a491a140fa7f2d016787cc79fe5e7495d9633311e9a18826586079343.png)03 – Salário-família ...... 31.200,00
 
     700.000,00
 

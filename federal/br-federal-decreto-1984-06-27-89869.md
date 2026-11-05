@@ -1,5 +1,3 @@
-###DEC-089869-0-000-27-06-1984@@@
-
 Decreto nº 89.869, de 27 de junho de 1984
 
 Renova por 10 (dez) anos as concessões outorgadas às entidades que menciona, para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

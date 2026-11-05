@@ -1,5 +1,3 @@
-###DEC-073674-0-000-18-02-1974@@@
-
 DECRETO Nº 73.674, DE 18 DE FEVEREIRO DE 1974.
 
 Concede reconhecimento ao curso de História Natural da Universidade Católica de Goiás, com sede na cidade de Goiânia, Estado de Goiás.

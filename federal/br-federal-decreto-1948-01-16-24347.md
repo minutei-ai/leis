@@ -1,32 +1,30 @@
-###DEC-024347-0-000-16-01-1948@@@
+**DECRETO N. 24.347 – DE 16 DE JANEIRO DE 1948**
 
-<strong>DECRETO N. 24.347 – DE 16 DE JANEIRO DE 1948</strong>
-
-<em><strong>Aprova o Regulamento para Gabinete do Ministro da Guerra</strong></em>
+***Aprova o Regulamento para Gabinete do Ministro da Guerra***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Fica aprovado o Regulamento para o Gabinete do Ministro da Guerra que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, Ministro da Guerra.
+**Art.** 1º Fica aprovado o Regulamento para o Gabinete do Ministro da Guerra que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, Ministro da Guerra.
 
-<strong>Art.</strong> 2º Revogam-se as disposições em contrário.
+**Art.** 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 16 de janeiro de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Canrobert P. da Costa.
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>MINISTÉRIO DA GUERRA</strong></span></span></h1>
+# **MINISTÉRIO DA GUERRA**
 
-<h2 style="margin-top:12pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>Regulamento para o Gabinete do Ministro da Guerra</em></span></span></h2>
+## *Regulamento para o Gabinete do Ministro da Guerra*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art.</strong> 1º O Gabinete do Ministro da Guerra tem por finalidade:
+**Art.** 1º O Gabinete do Ministro da Guerra tem por finalidade:
 
 – Auxiliar o Ministro no estudo dos assuntos de sua atribuição funcional
 
@@ -36,11 +34,11 @@ Canrobert P. da Costa.
 
 – Tratar das questões relativas aos oficiais generais, por intermédio da Secretaria Geral do Ministério da Guerra.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art.</strong> 2º O Gabinete se compõe de:
+**Art.** 2º O Gabinete se compõe de:
 
 A) – Chefia.
 
@@ -60,7 +58,7 @@ D) – Contigente.
 
 E) – Funcionários civis.
 
-<strong>Art.</strong> 3º A Chefia compreende:
+**Art.** 3º A Chefia compreende:
 
 A) – Chefe do Gabinete: Coronel do Q.E.M.A.G. ou do Q.T.A.
 
@@ -78,7 +76,7 @@ G) – Seção de Transmissões: com o pessoal e material indispensáveis ao ser
 
 H) – Sala de Imprensa: com os jornalistas acreditados junto ao Gabinete.
 
-<strong>Art.</strong> 4º As Divisões, em número de duas, compreendem:
+**Art.** 4º As Divisões, em número de duas, compreendem:
 
 A) – 1ª Divisão (Serviço Sigiloso):
 
@@ -112,17 +110,17 @@ a) A portaria, o Protocolo, o Fichário, a Seção de redação, a Seção de me
 
 b) o Contigente tem o efetivo em praças, correspondentes às necessidades mínimas do Gabinete, anualmente fixado.
 
-<strong>Art.</strong> 5º O Serviço de Transporte compreende:
+**Art.** 5º O Serviço de Transporte compreende:
 
 a) Chefe, oficial do Q.A.O., de preferência com o curso de motomecanização;
 
 b) Pessoal e material fixados de acôrdo com a necessidade do serviço.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art.</strong> 6º Ao Chefe de Gabinete, compete:
+**Art.** 6º Ao Chefe de Gabinete, compete:
 
 a) Dirigir e coordenar todos os trabalhos do Gabinete de modo a assegurar perfeita execução às ordens emanadas do Ministro;
 
@@ -144,7 +142,7 @@ i) assegurar ligação com a Secretaria e Gabinete Militar da Presidência da Re
 
 Parágrafo único. No exercício do seu cargo o Chefe do Gabinete tem atribuições de comandante de corpo para com o pessoal da repartição.
 
-<strong>Art.</strong> 7º Aos Oficiais de Gabinete, compete:
+**Art.** 7º Aos Oficiais de Gabinete, compete:
 
 a) ligação com os Ministérios do Exterior e de Aeronáutica e com a Secretaria Geral do Ministério da Guerra. Cerimonial Militar. Comissões no estrangeiro. Desportos.
 
@@ -180,13 +178,13 @@ q) Estudo do expediente oficial, requerimentos, memoriais e outros documentos qu
 
 Parágrafo único. Os oficiais de Gabinete, encorregados da ligação com o Estado-Maior do Exército e do Serviço Secreto, são oficiais do Q.E.M.A. e os que se encarregam das obras Militares e aquisição no estrangeiro, são do Q.T.A. O que tem a seu cargo os assuntos da Diretoria de Intendência é do Q.I.E.
 
-<strong>Art.</strong> 8º A Fiscalização Administrativa rege-se pelas prescrições regulamentares e normais gerais em vigor.
+**Art.** 8º A Fiscalização Administrativa rege-se pelas prescrições regulamentares e normais gerais em vigor.
 
-<strong>Art.</strong> 9º Almoxarifado e Tesouraria – As funções de tesoureiro e almoxarife são exercidas de acordo com as leis e regulamentos que regem o assunto.
+**Art.** 9º Almoxarifado e Tesouraria – As funções de tesoureiro e almoxarife são exercidas de acordo com as leis e regulamentos que regem o assunto.
 
 Parágrafo único. A carga, que lhe é afeta, será distribuída pelas diversas dependências do Gabinete, sob a responsabilidade dos oficiais ou dos funcionários, que nelas trabalharem, tudo de conformidade com o Regulamento nº 3 (art4 36, inciso 19 e art. 55).
 
-<strong>Art.</strong> 10. Aos Ajudantes de Ordens, além de suas atribuições regulamentares junto ao Ministro, compete:
+**Art.** 10. Aos Ajudantes de Ordens, além de suas atribuições regulamentares junto ao Ministro, compete:
 
 a) ligação com a Subdiretoria de transportes (S.D.T.);
 
@@ -196,9 +194,9 @@ c) o policiamento interno do Gabinete;
 
 d) supervisão do Serviço de Transportes.
 
-<strong>Art.</strong> 11. Ao Consultor Jurídico, que depende diretamente do Ministro, compete a direção dos assuntos jurídicos do Gabinete.
+**Art.** 11. Ao Consultor Jurídico, que depende diretamente do Ministro, compete a direção dos assuntos jurídicos do Gabinete.
 
-<strong>Art.</strong> 12 A Seção de Transmissões tem as características:
+**Art.** 12 A Seção de Transmissões tem as características:
 
 – privativa do Ministro e seu Gabinete;
 
@@ -208,7 +206,7 @@ d) supervisão do Serviço de Transportes.
 
 – constituída por pessoal do Quadro de Radiotelegrafistas do Exército, fixado de acôrdo com as necessidades do serviço.
 
-<strong>Art.</strong> 13. Ao Chefe da 1ª Divisão (Serviço Sigiloso) compete, além dos encargos da letra a do art. 7º:
+**Art.** 13. Ao Chefe da 1ª Divisão (Serviço Sigiloso) compete, além dos encargos da letra a do art. 7º:
 
 a) fazer executar tôdas as ordens do Chefe do Gabinete no que diz respeito ao Ministro;
 
@@ -216,7 +214,7 @@ b) receber, movimentar, assistir a dactilografia e arquivar todos os documentos 
 
 c) executar os trabalhos de criptografia.
 
-<strong>Art.</strong> 14. Ao Chefe da 2ª Divisão compete, além das obrigações comuns aos Oficiais de Gabinete;
+**Art.** 14. Ao Chefe da 2ª Divisão compete, além das obrigações comuns aos Oficiais de Gabinete;
 
 a) dirigir e coordenar os trabalhos do pessoal da Divisão, mantendo, para isso, um quadro de distribuição das tarefas que incumbe a cada um realizar nas diversas dependências;
 
@@ -242,7 +240,7 @@ l) manter em dia uma coleção das leis, avisos e demais atos oficiais para cons
 
 m) assinar, “no impedimento do Chefe do Gabinete os documentos que, de ordem do Ministro necessitem informações dos órgãos internos do Ministério da Guerra.
 
-<strong>Art.</strong> 15\. A Portaria, compete:
+**Art.** 15\. A Portaria, compete:
 
 a) receber e registrar em livro de protocolo a correspondência oficial destinada ao Gabinete, sem abrí-la, ao entregá-la ao Chefe da 2ª.
 
@@ -252,7 +250,7 @@ c) registrar e expedir a correspondência do Gabinete, mantendo a postos, para i
 
 d) dirigir o trabalho de limpeza geral do Gabinete, cabendo-lhe a responsabilidade na conservação do material que receber e que tiver de limpar.
 
-<strong>Art.</strong> 16. Ao Protocolo e Fichário, que constituem uma mesma dependência, cabe:
+**Art.** 16. Ao Protocolo e Fichário, que constituem uma mesma dependência, cabe:
 
 A) – Protocolo:
 
@@ -272,15 +270,15 @@ c) organizar o fichário da legislação, em ligação com o Arquivo;
 
 d) anotar as fichas, dos requerimentos, cartas, telegramas e rádios.
 
-<strong>Art.</strong> 17. A Seção de Redação compete:
+**Art.** 17. A Seção de Redação compete:
 
 a) redigir e dactilografar os atos oficiais, bem como os que forem determinados pelo Chefe da Divisão, sempre de acordo com a terminologia e regras ortográficas oficiais;
 
 b) manter em dia a coleção dos atos oficiais expedidos, inclusive os decretos cujas cópias são encadernadas, periodicamente, completando-os com indices e outros elementos, que facilitem a busca.
 
-<strong>Art.</strong> 18. A Seção de Mecanografia compete realizar o serviço dactilográfico do Gabinete, distribuído pelo Chefe, Oficiais e Adjudantes de Ordens.
+**Art.** 18. A Seção de Mecanografia compete realizar o serviço dactilográfico do Gabinete, distribuído pelo Chefe, Oficiais e Adjudantes de Ordens.
 
-<strong>Art.</strong> 19. O Arquivo dever ser mantido de modo a permitir consultas rápidas, pelo menos dentro do último quinquênio. Compreende:
+**Art.** 19. O Arquivo dever ser mantido de modo a permitir consultas rápidas, pelo menos dentro do último quinquênio. Compreende:
 
 a) coletânea completa de leis, regulamentos e demais atos oficiais em vigor;
 
@@ -292,33 +290,33 @@ d) coleção dos Boletins do Exército dos últimos 5 anos.
 
 Parágrafo único. Os documentos que forem sendo tornados dispensáveis ao trabalho do Gabinete serão recolhidos ao Arquivo do Exército.
 
-<strong>Art.</strong> 20. Ao Contingente, cujo efetivo deve ser limitado ao mínimo indispensáveis, cabe o serviço de Ordens do Gabinete, sob a responsabilidade do Chefe da 2ª Divisão.
+**Art.** 20. Ao Contingente, cujo efetivo deve ser limitado ao mínimo indispensáveis, cabe o serviço de Ordens do Gabinete, sob a responsabilidade do Chefe da 2ª Divisão.
 
 Parágrafo único. Para a efetivação desse serviço o Chefe da 2ª Divisão fará a aquisição das praças ao Ajudante de Ordens, que comandar o Contingente.
 
-<strong>Art.</strong> 21. O Serviço de Transportes, superintendido por um dos Ajudantes de Ordens, rege-se por Instruções baixadas pelo Chefe do Gabinete ao Chefe do Serviço.
+**Art.** 21. O Serviço de Transportes, superintendido por um dos Ajudantes de Ordens, rege-se por Instruções baixadas pelo Chefe do Gabinete ao Chefe do Serviço.
 
 Parágrafo único. Destina-se a atender os deslocamentos do Ministro, Chefe do Gabinete, Oficiais de Gabinete e Ajudantes de Ordens, bem como fazer a distribuição da correspondência.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art.</strong> 22. O pessoal civil e militar do Gabinete aí serve em caráter transitório, podendo o Ministro substituí-lo ou mantê-lo, em parte ou totalmente.
+**Art.** 22. O pessoal civil e militar do Gabinete aí serve em caráter transitório, podendo o Ministro substituí-lo ou mantê-lo, em parte ou totalmente.
 
 Parágrafo único. Sómente o Consultor Jurídico faz parte do Gabinete em caráter permanente.
 
-<strong>Art.</strong> 2. O Chefe do Gabinete, mediante normas gerais fixadas pelo Ministro, organizará Instruções Particulares, quando necessárias, para execução deste Regulamento.
+**Art.** 2. O Chefe do Gabinete, mediante normas gerais fixadas pelo Ministro, organizará Instruções Particulares, quando necessárias, para execução deste Regulamento.
 
-<strong>Art.</strong> 24. Pelo menos uma vez por mês haverá reunião do Gabinete, ou de parte dêle, para tratar de assuntos gerais do serviço, que possam interessar a mais de um oficial.
+**Art.** 24. Pelo menos uma vez por mês haverá reunião do Gabinete, ou de parte dêle, para tratar de assuntos gerais do serviço, que possam interessar a mais de um oficial.
 
 A presidência dessas reuniões cabe ao Chefe do Gabinete ou ao oficial que êle designar.
 
-<strong>Art.</strong> 25. A fixação do pessoal militar, será feita em quadro organizado pelo Estado-Maior do Exército e aprovado pelo Ministro. O número de funcionários será fixado na lotação numérica aprovada pelo Presidente da República. Os extranumerários serão os constantes das respectivas tabelas numéricas.
+**Art.** 25. A fixação do pessoal militar, será feita em quadro organizado pelo Estado-Maior do Exército e aprovado pelo Ministro. O número de funcionários será fixado na lotação numérica aprovada pelo Presidente da República. Os extranumerários serão os constantes das respectivas tabelas numéricas.
 
-<strong>Art.</strong> 26. Os representantes da Imprensa, acreditados no Ministério da Guerra, entender-se-ão diretamente com o Chefe do Gabinete.
+**Art.** 26. Os representantes da Imprensa, acreditados no Ministério da Guerra, entender-se-ão diretamente com o Chefe do Gabinete.
 
-<strong>Art.</strong> 27. As substituições temporárias, ou nos impedimentos, serão feitas:
+**Art.** 27. As substituições temporárias, ou nos impedimentos, serão feitas:
 
 a) a do Chefe do Gabinete pela oficial de Gabinete mais graduado, ou mais antigo;
 
@@ -326,14 +324,14 @@ b) a do Chefe da 1ª Divisão por um dos Oficiais de Gabinete designado pelo res
 
 c) a do Chefe da 2ª Divisão por um dos Oficiais designados pelo Chefe do Gabinete.
 
-<strong>Art.</strong> 28. Com exceção do Chefe do Gabinete e dos Ajudantes de Ordens, todos os oficiais em serviço no Gabinete do Ministro são Oficiais de Gabinete, assim como o oficial administrativo, que trata dos funcionários civis;
+**Art.** 28. Com exceção do Chefe do Gabinete e dos Ajudantes de Ordens, todos os oficiais em serviço no Gabinete do Ministro são Oficiais de Gabinete, assim como o oficial administrativo, que trata dos funcionários civis;
 
-<strong>Art.</strong> 29 O Chefe do Gabinete, os Oficiais de Gabinete, os Ajudantes de Ordens e as praças do Contingente farão jús a uma gratificação mensal arbitrada pelo Ministro, variável segundo as suas funções.
+**Art.** 29 O Chefe do Gabinete, os Oficiais de Gabinete, os Ajudantes de Ordens e as praças do Contingente farão jús a uma gratificação mensal arbitrada pelo Ministro, variável segundo as suas funções.
 
 Parágrafo único. Aos servidores civis serão abonadas gratificações de representação, variáveis segundo as funções que desempenhem.
 
-<strong>Art.</strong> 30. Com exceção do Chefe do Serviço de Transportes os oficiais em serviço no Gabinete devem possuir todos os tipos de uniformes.
+**Art.** 30. Com exceção do Chefe do Serviço de Transportes os oficiais em serviço no Gabinete devem possuir todos os tipos de uniformes.
 
-<strong>Art.</strong> 31. Os uniformes dos contínuos, serventes e motoristas são fornecidos, gratuitamente, pelo Exército.
+**Art.** 31. Os uniformes dos contínuos, serventes e motoristas são fornecidos, gratuitamente, pelo Exército.
 
 Rio de Janeiro, 16 de janeiro de 1948. – Canrobert P. da Costa.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/712e1015-5d5b-4962-8820-6c92b0a1040d/texto#nowhere)
 
-###DEL-001844-0-000-30-12-1980@@@
-
 # DECRETO-LEI nº 1.844, DE 30 DE DEZEMBRO DE 1980
 
 Dá nova redação ao item IV do artigo 1º do Decreto-lei nº 1.783, de 18 de abril de 1980.

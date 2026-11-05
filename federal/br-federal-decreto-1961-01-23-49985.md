@@ -1,5 +1,3 @@
-###DEC-049985-0-000-23-01-1961@@@
-
 DECRETO Nº 49.985, DE 23 DE JANEIRO DE 1961.
 
 Autoriza a emprêsa Termoelétrica de Charqueadas S.A. a realizar empréstimo no Banco Nacional do Desenvolvimento Econômico.

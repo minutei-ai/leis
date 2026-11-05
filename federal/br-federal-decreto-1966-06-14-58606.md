@@ -1,5 +1,3 @@
-###DEC-058606-0-000-14-06-1966@@@
-
 DECRETO Nº 58.606, DE 14 DE JUNHO DE 1966.
 
 Transfere concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-091582-0-000-29-08-1985@@@
-
 Decreto nº 91.582, de 29 de agosto de 1985
 
 Altera o Decreto nº 91.146, de 15 de março de 1985, que criou o Ministério da Ciência e Tecnologia e dispõe sobre sua estrutura, e dá outras providências.

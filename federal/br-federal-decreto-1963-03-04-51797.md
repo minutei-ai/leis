@@ -1,5 +1,3 @@
-###DEC-051797-0-000-04-03-1963@@@
-
 DECRETO Nº 51.797, DE 4 DE MARÇO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona no Estado de São Paulo.

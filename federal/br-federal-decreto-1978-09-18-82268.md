@@ -1,5 +1,3 @@
-###DEC-082268-0-000-18-09-1978@@@
-
 DECRETO Nº 82.268, DE 18 DE SETEMBRO DE 1978.
 
 Suspende, em parte, a execução da Lei nº 4.584, de 8 de outubro de 1975, do Estado do Pará.

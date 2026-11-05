@@ -1,5 +1,3 @@
-###DEC-057225-0-000-11-11-1965@@@
-
 DECRETO Nº 57.225, DE 11 DE NOVEMBRO DE 1965.
 
 Outorga à Centrais Elétricas do Rio das Contas S.A. - CERCS - concessão para distribuir energia elétrica.

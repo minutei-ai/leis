@@ -1,5 +1,3 @@
-###DEC-071104-0-000-14-09-1972@@@
-
 DECRETO Nº 71.104, DE 14 DE SETEMBRO DE 1972.
 
 Concede à M.A.G Temporal o direito de lavrar água mineral no município de Lauro de Freitas Estado da Bahia.

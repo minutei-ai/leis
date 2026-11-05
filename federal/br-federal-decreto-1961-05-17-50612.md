@@ -1,5 +1,3 @@
-###DEC-050612-0-000-17-05-1961@@@
-
 Decreto nº 50.612, de 17 de maio de 1961.
 
 Reduz a remuneração por serviço no exterior concedida a outras categorias de servidores e empregados.

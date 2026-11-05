@@ -1,5 +1,3 @@
-###DEC-007449-0-000-11-03-2011-PUB-01@@@
-
 DECRETO Nº 7.449, DE 11 DE MARÇO DE 2011
 
 Dá nova redação ao art. 3º do Decreto nº 7.429, de 17 de janeiro de 2011, para prorrogar o prazo de adaptação das estruturas regimentais e estatutos dos órgãos e entidades nele referidos.

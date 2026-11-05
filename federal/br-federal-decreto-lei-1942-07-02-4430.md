@@ -1,5 +1,3 @@
-###DEL-004430-0-000-02-07-1942@@@
-
 DECRETO-LEI N. 4.430 – dE 2 DE JULHO DE 1942
 
 Dispõe sobre disciplinas do currículo de Farmácia

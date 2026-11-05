@@ -1,5 +1,3 @@
-###DEC-047856-0-000-07-03-1960@@@
-
 DECRETO Nº 47.856, DE 7 DE março DE 1960.
 
 Autoriza o cidadão brasileiro Daniel Chaim a pesquisar areia quartzosa no município Delfim Moreira, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-000064-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 64, DE 21 DE NOVEMBRO DE 1966
 
 Dispõe sôbre sorteios para financiamento de empreendimentos sociais, religiosos, filantrópicos e educativos.

@@ -1,14 +1,12 @@
-###DEC-039850-0-000-24-08-1956@@@
+**DECRETO Nº 39.850, DE 24 DE AGÔSTO DE 1956.**
 
-<strong>DECRETO Nº 39.850, DE 24 DE AGÔSTO DE 1956.</strong>
+***Declara de utilidade pública as áreas de terra e as benfeitorias por acaso nelas existentes, necessárias à construção do reservatório de Santa Branca que se relaciona com a ampliação progressiva do aproveitamento de Ribeirão das Lajes, de que tratam os Decretos ns. 18.588 e 20.657, respectivamente de 11 de maio de 1945 e 26 de fevereiro de 1946, e autoriza a Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada, a promover a desapropriação das mesmas.***
 
-<em><strong>Declara de utilidade pública as áreas de terra e as benfeitorias por acaso nelas existentes, necessárias à construção do reservatório de Santa Branca que se relaciona com a ampliação progressiva do aproveitamento de Ribeirão das Lajes, de que tratam os Decretos ns. 18.588 e 20.657, respectivamente de 11 de maio de 1945 e 26 de fevereiro de 1946, e autoriza a Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada, a promover a desapropriação das mesmas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere a artigo 87, Inciso I, da Constituição, e atendendo ao disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pelo interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere a artigo 87, Inciso I, da Constituição, e atendendo ao disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pelo interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra e as benfeitorias por acaso nelas existentes, de acôrdo com a planta visada, pelo Diretor da Divisão de Águas, aprovada pelo  Ministro da Agricultura e anexada ao Processo D.Ag.1.557-56, necessárias de Santa Branca, progressiva do aproveitamento da Ribeirão das Lajes, cuja autorização foi dada à Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada, pelos Decretos números 18.588 e 20.657, respectivamente de 11 de maio de 1945 e 26 de fevereiro de 1946:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra e as benfeitorias por acaso nelas existentes, de acôrdo com a planta visada, pelo Diretor da Divisão de Águas, aprovada pelo  Ministro da Agricultura e anexada ao Processo D.Ag.1.557-56, necessárias de Santa Branca, progressiva do aproveitamento da Ribeirão das Lajes, cuja autorização foi dada à Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada, pelos Decretos números 18.588 e 20.657, respectivamente de 11 de maio de 1945 e 26 de fevereiro de 1946:
 
 1 - Área de terra com um total de 6.490 (seis mil quatrocentos e noventa ) metros quadrados, de propriedade atribuída a Américo Alves Corrêa Sobrinho.
 
@@ -228,16 +226,16 @@
 
 93-A - Área de terra com um total de 14.000 (quatorze mil) metros quadrados, de propriedade atribuída a Vicente José Estêvão de Oliveira, ou quem de direito.
 
-<strong>Art</strong>. 2º A Companhia de Carris, Luz e Fôrça do Rio de Janeiro. Limitada, com sede nesta capital fica autorizada a promover na forma da legislação vigente, a desapropriação das áreas indicadas com as benfeitorias por acaso nelas existentes.
+**Art**. 2º A Companhia de Carris, Luz e Fôrça do Rio de Janeiro. Limitada, com sede nesta capital fica autorizada a promover na forma da legislação vigente, a desapropriação das áreas indicadas com as benfeitorias por acaso nelas existentes.
 
-<strong>Art</strong>. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do artigo 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 d maio de 1956.
+**Art**. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do artigo 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 d maio de 1956.
 
-<strong>Art</strong>. 4º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 4º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 24 de agôsto de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

@@ -1,5 +1,3 @@
-###DEC-051378-0-000-20-12-1961@@@
-
 decreto nº 51.378, de 20 de dezembro de 1961.
 
 Concede indulto a sentenciados que menciona e dá outras providências.

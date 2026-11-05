@@ -1,5 +1,3 @@
-###DEC-082242-0-000-11-09-1978@@@
-
 Decreto nº 82.242, de 11 de setembro de 1978.
 
 Autoriza a formalização de reversão e a subseqüente cessão do terreno que menciona, situado no Município de São Luís, Estado do Maranhão.

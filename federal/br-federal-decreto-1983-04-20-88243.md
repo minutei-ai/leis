@@ -1,5 +1,3 @@
-###DEC-088243-0-000-20-04-1983@@@
-
 DECRETO Nº 88.243, de 20 de abril de 1983.
 
 Altera o Decreto nº 65.412, de 13 de outubro de 1969, que dispõe sobre a descentralização e a simplificação dos processos de aposentadoria dos funcionários civis da União e dá outras providências.

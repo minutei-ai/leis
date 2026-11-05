@@ -1,5 +1,3 @@
-###DEC-071944-0-000-20-03-1973@@@
-
 DECRETO Nº 71.944, DE 20 DE MARÇO DE 1973.
 
 Torna sem efeito o aproveitamento de servidor do Quadro de Pessoal - Parte Permanente - do Instituto de Previdência e Assistência dos Servidores do Estado, e cancela a sua disponibilidade.

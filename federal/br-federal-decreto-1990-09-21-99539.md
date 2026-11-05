@@ -1,5 +1,3 @@
-###DEC-099539-0-000-21-09-1990@@@
-
 DECRETO N° 99.539, DE 21 DE SETEMBRO DE 1990
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Abertura de Mercados em favor do Equador (Acordo n° 2), entre o Brasil e o Equador.

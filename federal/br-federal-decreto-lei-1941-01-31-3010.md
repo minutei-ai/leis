@@ -1,5 +1,3 @@
-###DEL-003010-0-000-31-01-1941@@@
-
 DECRETO-LEI N. 3.010 – DE 31 DE JANEIRO DE 1941
 
 Institue a fiança bancária para a garantia da indenização nos casos de acidentes do trabalho

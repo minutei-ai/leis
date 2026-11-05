@@ -1,5 +1,3 @@
-###DEC-046573-0-000-13-08-1959@@@
-
 DECRETO Nº 46.573, DE 13 DE AGÔSTO DE 1959.
 
 Autoriza a liberação de crédito contido no Plano de Economia para aplicar na obras de aceso dos aeroportos dos municípios de Corumbá e Cuiabá, (Mato Grosso).

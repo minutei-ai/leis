@@ -1,5 +1,3 @@
-###DEC-071654-0-000-03-01-1973@@@
-
 DECRETO Nº 71.654, DE 3 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Boa Esperança, da Fundação Educacional Boa Esperança, Minas Gerais.

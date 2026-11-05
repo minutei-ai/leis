@@ -1,6 +1,5 @@
 LEI complementar Nº  4.723, DE 28 DE NOVEMBRO DE 2003.
 
-<br>
 Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), Estatuto dos Funcionários do Município, criando gratificação por encargo que menciona
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

@@ -1,5 +1,3 @@
-###DEC-060728-0-000-19-05-1967@@@
-
 DECRETO Nº 60.728, DE 19 DE maio DE 1967.
 
 Autoriza o funcionamento da Faculdade de Educação, em Salvador, Estado da Bahia.

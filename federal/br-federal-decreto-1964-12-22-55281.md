@@ -1,5 +1,3 @@
-###DEC-055281-0-000-22-12-1964@@@
-
 DECRETO Nº 55.281, DE 22 DE DEZEMBRO DE 1964.
 
 Oficializa o Primeiro Congresso Panamericano de Conservação do Solo.

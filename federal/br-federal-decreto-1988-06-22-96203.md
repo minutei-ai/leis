@@ -1,5 +1,3 @@
-###DEC-096203-0-000-22-06-1988@@@
-
 DECRETO N° 96.203, DE 22 DE JUNHO DE 1988
 
 Renova a concessão outorgada à Rádio Princesa da Serra Ltda. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Itabaiana, Estado de Sergipe.

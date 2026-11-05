@@ -1,5 +1,3 @@
-###DEC-097548-0-000-01-03-1989@@@
-
 DECRETO Nº 97.548, DE 1º DE MARÇO DE 1989
 
 Dispõe sobre a atualização monetária dos saldos devedores de contratos no âmbito dos Sistemas Financeiros da Habitação e do Saneamento (SFH e SFS) e dá outras providências.

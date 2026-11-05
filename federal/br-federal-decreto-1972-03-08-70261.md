@@ -1,5 +1,3 @@
-###DEC-070261-0-000-08-03-1972@@@
-
 DECRETO Nº 70.261, DE 8 DE MARÇO DE 1972.
 
 Concede à Companhia de Cimento Portland Goiás o direito de lavrar calcário, no município de Palmeiras de Goiás, Estado de Goiás.

@@ -4,7 +4,8 @@ Institui a Política Estadual de Cultura Viva da Bahia, na forma que indica, e d
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - Fica instituída a Política Estadual de Cultura Viva da Bahia - PECV, com o objetivo de promover a produção e difusão da cultura e o acesso aos direitos culturais à população baiana, constituindo-se como política de base comunitária, territorial e temático­identitária, em consonância com o que dispõe o art. 215 da Constituição Federal e o art. 269 da Constituição Estadual.
@@ -169,7 +170,8 @@ identitárias;
 
 **f)** realizar de forma participativa, levantamento de informações sobre equipamentos, produtos e serviços culturais locais, para dinamizar atuação integrada com os circuitos culturais que os Pontos de Cultura mobilizam.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA CERTIFICAÇÃO SIMPLIFICADA
 
 **Art. 11** - A Certificação Simplificada para o reconhecimento dos grupos coletivos e núcleos sociais comunitários como Pontos de Cultura, para efeitos desta Lei, será efetuado após seleção pública, prévia e amplamente divulgada, executada por meio de edital, cabendo a análise da solicitação à SECULT.
@@ -238,7 +240,8 @@ IlI - pessoas jurídicas de direito privado sem fins lucrativos criadas ou manti
 
 **Art. 18** - O ingresso no Cadastro Estadual Cultura Viva não garante, por si só, o acesso a recursos públicos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO FOMENTO
 
 **Art. 19** - Fica o Poder Executivo, por meio da SECULT, autorizado a transferir, em conformidade com edital público competente, recursos financeiros às entidades culturais classificadas como Pontos ou Pontões de Cultura com a finalidade de prestar apoio financeiro à execução das ações da PECV.

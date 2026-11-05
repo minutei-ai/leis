@@ -1,5 +1,3 @@
-###DEC-069010-0-000-04-08-1971@@@
-
 DECRETO Nº 69.010, DE 4 DE AGôSTO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

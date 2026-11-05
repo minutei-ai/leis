@@ -1,5 +1,3 @@
-###DEC-076628-0-000-18-11-1975@@@
-
 Decreto nº 76.628, de 18 de novembro de 1975.
 
 Revoga o Decreto nº 16.456-A, de 28 de agosto de 1944 que aprovou o Regulamento para Classificação, Registro e Identificação das Viaturas Automóveis do Exército, e dá outras providências.

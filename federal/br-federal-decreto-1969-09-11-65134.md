@@ -1,5 +1,3 @@
-###DEC-065134-0-000-11-09-1969@@@
-
 DECRETO Nº 65.134 - DE 11 DE SETEMBRO DE 1969.
 
 Transforma Unidade do Exército na Amazônia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047298-0-000-30-11-1959@@@
-
 DECRETO Nº 47.298, DE 30 DE NOVEMBRO DE 1959.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona em Salvador, Estado da Bahia, necessários ao Ministério da Aeronáutica.

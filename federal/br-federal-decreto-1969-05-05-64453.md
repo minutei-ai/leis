@@ -1,5 +1,3 @@
-###DEC-064453-0-000-05-05-1969@@@
-
 DECRETO Nº 64.453, DE 5 DE MAIO DE 1969.
 
 Autoriza estrangeiro a adquirir direitos sôbre terreno de acrescido de marinha, em revigoração de aforamento, no Estado da Guanabara.

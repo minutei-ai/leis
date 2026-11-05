@@ -1,5 +1,3 @@
-###DEC-054622-0-000-27-10-1964@@@
-
 DECRETO Nº 54.622,de 27 de outubro de 1964.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir linha de transmissão.

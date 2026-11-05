@@ -1,5 +1,3 @@
-###DEC-074271-0-000-09-07-1974@@@
-
 DECRETO Nº 74.271 - DE 9 DE JULHO DE 1974.
 
 Aprova alteração introduzida nos Estatutos da Petróleo Brasileiro S.A. - PETROBRÁS.

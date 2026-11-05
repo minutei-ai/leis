@@ -1,5 +1,3 @@
-###DEC-058660-0-000-16-06-1966@@@
-
 DECRETO Nº 58.660, DE 16 DE JUNHO DE 1966.
 
 Concede a Insurance Company Of North America autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

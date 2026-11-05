@@ -1,5 +1,3 @@
-###DEL-005357-0-000-30-03-1943@@@
-
 DECRETO‑LEI N. 5.357 – DE 30 DE MARÇO DE 1943
 
 Cria função gratificada no Ministério de Guerra e dá outras providências

@@ -1,7 +1,3 @@
-1
-
-###DEC-098388-0-000-13-11-1989@@@
-
 DECRETO Nº 98.388, DE 13 DE NOVEMBRO DE 1989
 
 Autoriza a transferência direta da concessão outorgada à SOCIEDADE RADIODIFUSORA PASSO REAL LTDA. para EMISSORAS REUNIDAS LTDA.

@@ -1,5 +1,3 @@
-###DEC-081610-0-000-27-04-1978@@@
-
 Decreto nº 81.610, de 27 de abril de 1978.
 
 Autoriza a conversão do curso de Matemática em curso de Ciências, ministrado pelas Faculdades Integradas "Rui Barbosa", com sede na cidade de Andradina, Estado de São Paulo.

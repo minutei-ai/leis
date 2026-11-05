@@ -1,5 +1,3 @@
-###DEL-007413-0-000-23-03-1945@@@
-
 DECRETO-LEI N. 7.413 – DE 23 DE MARÇO DE 1945
 
 Concede pensão especial à viúva e aos filhos menores de Elpídio Tito Melo

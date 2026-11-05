@@ -1,5 +1,3 @@
-###DEC-058597-0-000-10-06-1966@@@
-
 DECRETO Nº 58.597, DE 10 DE JUNHO DE 1966.
 
 Reestrutura a Equipe de Coordenação do Plano de Melhoramento da Alimentação e do Manejo do Gado Leiteiro e dá outras providências.

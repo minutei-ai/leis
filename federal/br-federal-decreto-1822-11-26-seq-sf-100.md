@@ -1,5 +1,3 @@
-###DEC-000000-0-100-26-11-1822@@@
-
 DECRETO \_ DE 26 DE NOVEMBRO DE 1822
 
 Commuta a pena de morte na immediata aos réos que contarem mais de três annos de prisão.

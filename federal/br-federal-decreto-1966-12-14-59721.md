@@ -1,5 +1,3 @@
-###DEC-059721-0-000-14-12-1966@@@
-
 Decreto nº 59.721, de 14 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Itagiba Campos Silva a lavrar minério de ferro, no município de Rio Piracicaba, Estado de Minas Gerais.

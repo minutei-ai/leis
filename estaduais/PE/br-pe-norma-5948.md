@@ -1074,110 +1074,99 @@ TADEU LOURENÇO DE LIMA
 
 **VENCIMENTOS DO CARGO PÚBLICO DE DEFENSOR PÚBLICO DO ESTADO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Categoria</p></td><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Letra</p></td><td width="205" valign="top" style="width:153.55pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Valor Unit</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">DPE-IN</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="205" valign="top" style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 20.798,10</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="205" valign="top" style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 21.222,55</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">C</p></td><td width="205" valign="top" style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 21.655,67</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">D</p></td><td width="205" valign="top" style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 22.097,62</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">E</p></td><td width="205" valign="top" style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 22.548,59</p></td></tr></tbody></table>
+Categoria
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="614" style="width:460.5pt;border-collapse:collapse;border:none"><tbody><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">DPE-I</p></td><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 23.008,77</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 23.478,33</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">C</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 23.957,48</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">D</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 24.446,41</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">E</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 24.945,32</p></td></tr></tbody></table>
+Letra
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="614" style="width:460.5pt;border-collapse:collapse;border:none"><tbody><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">DPE-F</p></td><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 25.454,40</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 25.973,88</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">C</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 26.503,96</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">D</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 27.044,86</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">E</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 27.596,79</p></td></tr></tbody></table>
+Valor Unit
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="614" style="width:460.5pt;border-collapse:collapse;border:none"><tbody><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">DPE-E</p></td><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 28.159,99</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 28.734,69</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">C</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 29.321,11</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">D</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 29.919,50</p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">E</p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">R$ 30.530,10</p></td></tr></tbody></table>
+DPE-IN
+
+A
+
+R$ 20.798,10
+
+B
+
+R$ 21.222,55
+
+C
+
+R$ 21.655,67
+
+D
+
+R$ 22.097,62
+
+E
+
+R$ 22.548,59
+
+DPE-I
+
+A
+
+R$ 23.008,77
+
+B
+
+R$ 23.478,33
+
+C
+
+R$ 23.957,48
+
+D
+
+R$ 24.446,41
+
+E
+
+R$ 24.945,32
+
+DPE-F
+
+A
+
+R$ 25.454,40
+
+B
+
+R$ 25.973,88
+
+C
+
+R$ 26.503,96
+
+D
+
+R$ 27.044,86
+
+E
+
+R$ 27.596,79
+
+DPE-E
+
+A
+
+R$ 28.159,99
+
+B
+
+R$ 28.734,69
+
+C
+
+R$ 29.321,11
+
+D
+
+R$ 29.919,50
+
+E
+
+R$ 30.530,10
 
 (Vide [Lei Complementar nº 473, de 10 de janeiro de 2022](https://legis.alepe.pe.gov.br/?lc4732022) - acresce a tabela dos vencimentos do cargo público de defensor público do estado)
 
@@ -1185,30 +1174,33 @@ TADEU LOURENÇO DE LIMA
 
 (Acrescido pelo art. 1° da [Lei Complementar n° 350, de 9 de janeiro de 2017](https://legis.alepe.pe.gov.br/?LC3502017).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="650" style="width:487.35pt;border-collapse:collapse;border:none"><tbody><tr><td width="546" valign="top" style="width:409.4pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">LOCAL DE EXERCÍCIO DA ACUMULAÇÃO</p></td><td width="104" valign="top" style="width:77.95pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="text-align:right">VALOR</p></td></tr><tr><td width="546" valign="top" style="width:409.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="546" valign="top" style="width:409.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">ACUMULAÇÃO EM UNIDADES PRISIONAIS</p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="text-align:right">R$ 5.500,00</p></td></tr><tr><td width="546" valign="top" style="width:409.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">ACUMULAÇÃO EM UNIDADES JURISDICIONAIS CÍVEIS E DE FAMÍLIA</p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="text-align:right">R$ 4.500,00</p></td></tr><tr><td width="546" valign="top" style="width:409.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">ACUMULAÇÃO EM UNIDADES JURISDICIONAIS CRIMINAIS</p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="text-align:right">R$ 4.500,00</p></td></tr><tr><td width="546" valign="top" style="width:409.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">ACUMULAÇÃO DAS DEFESAS EM PLENÁRIO DO JÚRI</p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="text-align:right">R$ 5.500,00</p></td></tr><tr><td width="546" valign="top" style="width:409.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">ACUMULAÇÃO EM COMARCAS DE VARA ÚNICA</p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="text-align:right">R$ 5.000,00</p></td></tr><tr><td width="546" valign="top" style="width:409.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">ACUMULAÇÃO EM UNIDADES JURISDICIONAIS DA INFÂNCIA E JUVENTUDE</p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="text-align:right">R$ 5.000,00</p></td></tr></tbody></table>
+LOCAL DE EXERCÍCIO DA ACUMULAÇÃO
+
+VALOR
+
+ACUMULAÇÃO EM UNIDADES PRISIONAIS
+
+R$ 5.500,00
+
+ACUMULAÇÃO EM UNIDADES JURISDICIONAIS CÍVEIS E DE FAMÍLIA
+
+R$ 4.500,00
+
+ACUMULAÇÃO EM UNIDADES JURISDICIONAIS CRIMINAIS
+
+R$ 4.500,00
+
+ACUMULAÇÃO DAS DEFESAS EM PLENÁRIO DO JÚRI
+
+R$ 5.500,00
+
+ACUMULAÇÃO EM COMARCAS DE VARA ÚNICA
+
+R$ 5.000,00
+
+ACUMULAÇÃO EM UNIDADES JURISDICIONAIS DA INFÂNCIA E JUVENTUDE
+
+R$ 5.000,00
 
 **~~ANEXO II~~**
 
@@ -1216,110 +1208,106 @@ TADEU LOURENÇO DE LIMA
 
 ~~(Acrescido pelo art. 2° da [Lei Complementar n° 473, de 10 de janeiro de 2022](https://legis.alepe.pe.gov.br/?lc4732022).)~~
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>Categoria</s></p></td><td width="307" valign="top" style="width:230.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>Quantidade de Cargos vagos e ocupados</s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify"><s><span style="text-decoration:
-   none">&nbsp;</span></s></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify"><s><span style="text-decoration:
-   none">&nbsp;</span></s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>DPE-IN</s></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>130</s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>DPE-I</s></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>21</s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>DPE-F</s></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>29</s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>DPE-E</s></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>197</s></p></td></tr></tbody></table>
+~~Categoria~~
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="614" style="width:460.5pt;border-collapse:collapse;border:none"><tbody><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>Categoria</s></p></td><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>Valor Unit</s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify"><s><span style="text-decoration:
-   none">&nbsp;</span></s></p></td><td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify"><s><span style="text-decoration:
-   none">&nbsp;</span></s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>DPE-IN</s></p></td><td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>R$ 22.548,59</s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>DPE-I</s></p></td><td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>R$ 24.945,32</s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>DPE-F</s></p></td><td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>R$ 27.596,79</s></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>DPE-E</s></p></td><td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><s>R$ 30.530,10</s></p></td></tr></tbody></table>
+~~Quantidade de Cargos vagos e ocupados~~
+
+~~DPE-IN~~
+
+~~130~~
+
+~~DPE-I~~
+
+~~21~~
+
+~~DPE-F~~
+
+~~29~~
+
+~~DPE-E~~
+
+~~197~~
+
+~~Categoria~~
+
+~~Valor Unit~~
+
+~~DPE-IN~~
+
+~~R$ 22.548,59~~
+
+~~DPE-I~~
+
+~~R$ 24.945,32~~
+
+~~DPE-F~~
+
+~~R$ 27.596,79~~
+
+~~DPE-E~~
+
+~~R$ 30.530,10~~
 
 **ANEXO II** 
 
 **(Redação alterada pelo art. 1º e Anexo Único da [Lei Complementar nº 530, de 2 de janeiro de 2024](https://legis.alepe.pe.gov.br/?lc5302024).)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="601" style="width:450.5pt;border-collapse:collapse;border:none"><tbody><tr><td width="312" style="width:233.9pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">Categoria</span></strong></p></td><td width="289" style="width:216.6pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">Quantidade de Cargos vagos e ocupados</span></strong></p></td></tr><tr><td width="312" style="width:233.9pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DPE-IN</p></td><td width="289" style="width:216.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">130</p></td></tr><tr><td width="312" style="width:233.9pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DPE-I</p></td><td width="289" style="width:216.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">21</p></td></tr><tr><td width="312" style="width:233.9pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DPE-F</p></td><td width="289" style="width:216.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">29</p></td></tr><tr><td width="312" style="width:233.9pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DPE-E</p></td><td width="289" style="width:216.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">197</p></td></tr></tbody></table>
+**Categoria**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="598" style="width:448.3pt;border-collapse:collapse;border:none"><tbody><tr><td width="181" style="width:135.4pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">Categoria</span></strong></p></td><td width="137" style="width:102.95pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">A partir de 1°/07/2024</span></strong></p></td><td width="142" style="width:106.3pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">A partir de 1°/07/2025</span></strong></p></td><td width="138" style="width:103.65pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">A partir de 1°/07/2026</span></strong></p></td></tr><tr><td width="181" style="width:135.4pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DPE-IN</p></td><td width="137" style="width:102.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;25.879,50</p></td><td width="142" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;28.941,30</p></td><td width="138" style="width:103.65pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;30.505,35</p></td></tr><tr><td width="181" style="width:135.4pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DPE-I</p></td><td width="137" style="width:102.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;28.755,00</p></td><td width="142" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;32.157,00</p></td><td width="138" style="width:103.65pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;33.894,84</p></td></tr><tr><td width="181" style="width:135.4pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DPE-F</p></td><td width="137" style="width:102.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;31.950,50</p></td><td width="142" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;35.730,00</p></td><td width="138" style="width:103.65pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;37.660,93</p></td></tr><tr><td width="181" style="width:135.4pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DPE-E</p></td><td width="137" style="width:102.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;35.500,00</p></td><td width="142" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;39.700,00</p></td><td width="138" style="width:103.65pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="right" style="margin-top:0cm;margin-right:2.25pt;margin-bottom:0cm;
-  margin-left:2.5pt;margin-bottom:.0001pt;text-align:right">R$&nbsp;41.845,48</p></td></tr></tbody></table>
+**Quantidade de Cargos vagos e ocupados**
+
+DPE-IN
+
+130
+
+DPE-I
+
+21
+
+DPE-F
+
+29
+
+DPE-E
+
+197
+
+**Categoria**
+
+**A partir de 1°/07/2024**
+
+**A partir de 1°/07/2025**
+
+**A partir de 1°/07/2026**
+
+DPE-IN
+
+R$ 25.879,50
+
+R$ 28.941,30
+
+R$ 30.505,35
+
+DPE-I
+
+R$ 28.755,00
+
+R$ 32.157,00
+
+R$ 33.894,84
+
+DPE-F
+
+R$ 31.950,50
+
+R$ 35.730,00
+
+R$ 37.660,93
+
+DPE-E
+
+R$ 35.500,00
+
+R$ 39.700,00
+
+R$ 41.845,48

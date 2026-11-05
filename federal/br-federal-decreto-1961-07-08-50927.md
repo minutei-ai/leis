@@ -1,5 +1,3 @@
-###DEC-050927-0-000-08-07-1961@@@
-
 Decreto nº 50.927, de 8 de julho de 1961.
 
 Altera artigo do Regulamento de Promoções de Oficiais da Marinha, baixado com o Decreto nº 42.808, de 13 de dezembro de 1957, dispensado exigência que indica.

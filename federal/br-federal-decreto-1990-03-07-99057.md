@@ -1,7 +1,3 @@
-1
-
-###DEC-099057-0-000-07-03-1990@@@
-
 DECRETO N° 99.057, DE 7 DE MARÇO DE 1990
 
 Outorga concessão à RÁDIO JORNAL DE UBATÃ LTDA., para explorar serviço de ra­diodifusão sonora em onda média, na Cida­de de Ubatã, Estado da Bahia.

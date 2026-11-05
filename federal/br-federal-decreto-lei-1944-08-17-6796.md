@@ -1,5 +1,3 @@
-###DEL-006796-0-000-17-08-1944@@@
-
 DECRETO-LEI N. 6.796 – DE 17 DE AGÔSTO DE 1944
 
 Cria Unidades de Aviação

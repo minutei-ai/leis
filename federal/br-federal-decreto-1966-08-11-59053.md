@@ -1,5 +1,3 @@
-###DEC-059053-0-000-11-08-1966@@@
-
 DECRETO Nº 59.053, DE 11 DE AGÔSTO DE 1966.
 
 Outorga concessão à Sociedade Anônima Correio Braziliense, para instalar uma estação de radiofusão de sons e imagens (televisão), na cidade de Brasília.

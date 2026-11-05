@@ -1,5 +1,3 @@
-###DEC-052487-0-000-20-09-1963@@@
-
 Decreto nº 52.487, de 20 de setembro de 1963.
 
 Considera de interêsse militar funções da Assessoria Técnica da Presidência da República.

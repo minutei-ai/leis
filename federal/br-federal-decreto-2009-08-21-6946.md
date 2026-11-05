@@ -1,5 +1,3 @@
-###DEC-006946-0-000-21-08-2009@@@
-
 DECRETO Nº 6.946, DE 21 DE AGOSTO DE 2009.
 
 Altera dispositivos do Regulamento do Serviço de Defesa Sanitária Animal, aprovado pelo Decreto no 24.548, de 3 de julho de 1934, e do Regulamento de Defesa Sanitária Vegetal, aprovado pelo Decreto no 24.114, de 12 de abril de 1934.

@@ -8,7 +8,43 @@ DECRETA:
 
 Art. 1º Fica substituida a discriminação da sub-consignação n. 9 – “Combustíveis, explosivos, lubrificantes e material para lubrificação, limpeza e conservação de máquinas e aparelhos de qualquer natureza; munições de guerra; acessórios e pertences para máquinas e viaturas”, da Verba 2 – Material, II – Material de Consumo, do orçamento do Ministério da Viação e Obras Públicas (Anexo n. 8, do decreto-lei n. 942, de 10 de dezembro de 1938), pela seguinte:
 
-<table><tbody><tr><td>01) – Secretaria de Estado ..........................................................................................……................ 60:000$0</td></tr><tr><td>02) – Inspetoria Federal das Estradas................................................................................…..............18:000$0</td></tr><tr><td>03) – Departamento Nacional de Portos e Navegação .................................................................... 240:000$0</td></tr><tr><td>04) – Inspetoria Federal de Obras contra as Secas ..............................................................…........ 800:000$0</td></tr><tr><td>05) – Departamento de Aeronáutica Civil ..........................................…........................................... 200:000$0</td></tr><tr><td>06) – Inspetoria Geral de Iluminação ...................................................…........................................... 25:000$0</td></tr><tr><td>07) – Estrada de Ferro Central do BrasiI.................................................…................................. 80.000:000$0</td></tr><tr><td>08) – Departamento dos Correios e Telégrafos (Diretoria Geral e Diretorias Regionais).............. 4.200:000$0</td></tr><tr><td>09) – Estrada de Ferro Noroeste do Brasil .......................................................……..................... 4.900:000$0</td></tr><tr><td>10) – Rede de Viação Cearense .............................................................................………............ 1.733:000$0</td></tr><tr><td>11) – Estrada de Ferro São Luiz à Teresina......................................................................……......... 380:000$0</td></tr><tr><td>12) – Estrada de Ferro Central do Rio Grande do Norte..……...........................................................260:000$0</td></tr><tr><td>13) – Estrada de Ferro Petrolina a Teresina ........................……..................................................... 100:000$0</td></tr><tr><td>14) – Estrada de Ferro Central do Piauí.....................................……................................................ 180:000$0</td></tr><tr><td>15) – Estrada de Ferro de Goiaz......................................................………....................................... 700:000$0</td></tr><tr><td>16) – Diretoria de Saneamento da Baixada Fluminense ...........................……................................ 220:000$0</td></tr><tr><td>17) – Viação Férrea Federal Leste Brasileiro..................................................……........................ 3.500:000$0</td></tr><tr><td>18) – Departamento Nacional de Estradas de Rodagem .....................................…......................<u>2.000:000$0</u></td></tr><tr><td>96.516:000$0</td></tr></tbody></table>
+01) – Secretaria de Estado ..........................................................................................……................ 60:000$0
+
+02) – Inspetoria Federal das Estradas................................................................................…..............18:000$0
+
+03) – Departamento Nacional de Portos e Navegação .................................................................... 240:000$0
+
+04) – Inspetoria Federal de Obras contra as Secas ..............................................................…........ 800:000$0
+
+05) – Departamento de Aeronáutica Civil ..........................................…........................................... 200:000$0
+
+06) – Inspetoria Geral de Iluminação ...................................................…........................................... 25:000$0
+
+07) – Estrada de Ferro Central do BrasiI.................................................…................................. 80.000:000$0
+
+08) – Departamento dos Correios e Telégrafos (Diretoria Geral e Diretorias Regionais).............. 4.200:000$0
+
+09) – Estrada de Ferro Noroeste do Brasil .......................................................……..................... 4.900:000$0
+
+10) – Rede de Viação Cearense .............................................................................………............ 1.733:000$0
+
+11) – Estrada de Ferro São Luiz à Teresina......................................................................……......... 380:000$0
+
+12) – Estrada de Ferro Central do Rio Grande do Norte..……...........................................................260:000$0
+
+13) – Estrada de Ferro Petrolina a Teresina ........................……..................................................... 100:000$0
+
+14) – Estrada de Ferro Central do Piauí.....................................……................................................ 180:000$0
+
+15) – Estrada de Ferro de Goiaz......................................................………....................................... 700:000$0
+
+16) – Diretoria de Saneamento da Baixada Fluminense ...........................……................................ 220:000$0
+
+17) – Viação Férrea Federal Leste Brasileiro..................................................……........................ 3.500:000$0
+
+18) – Departamento Nacional de Estradas de Rodagem .....................................…......................2.000:000$0
+
+96.516:000$0
 
 Parágrafo único. Em consequência o total da consignação II – Material de Consumo passa a ser de 148.452:000$000 e o total da Verba 2, de 232.086:000$000.
 
@@ -18,7 +54,15 @@ Verba 5 – Obras, Melhoramentos, e Aparelhamentos e Equipamentos.
 
 I – Secretaria de Estado
 
-<table><tbody><tr><td>N.</td><td>Natureza da Despesa</td><td>Fixa</td><td>Variavel</td></tr><tr><td>S/c:</td><td></td><td></td><td></td></tr></tbody></table>
+N.
+
+Natureza da Despesa
+
+Fixa
+
+Variavel
+
+S/c:
 
 1 – Edifício da Secretaria de Estado:
 

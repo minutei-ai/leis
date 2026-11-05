@@ -1,5 +1,3 @@
-###DEC-054317-0-000-28-09-1964@@@
-
 DECRETO Nº 54.317, DE 28 DE SETEMBRO DE 1964.
 
 Transfere autorizações de São Paulo Light S. A. - Serviços de Eletricidade para a Central Elétrica de Furnas. S. A.

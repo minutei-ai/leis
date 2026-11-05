@@ -1,5 +1,3 @@
-###DEL-005706-0-000-29-07-1943@@@
-
 DECRETO‑LEI    N. 5.706 – DE 29 DE JULHO DE 1943
 
 Altera as carreiras de Maquinista Marítima e Marinheiro, do Ministério da Marinha e do Ministério do Trabalho, Indústria e Comércio, e dá outras providências

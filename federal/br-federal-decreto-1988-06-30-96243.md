@@ -1,5 +1,3 @@
-###DEC-096243-0-000-30-06-1988@@@
-
 DECRETO Nº 96.243, DE 30 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado “BOM PRINCÍPIO, CAJUEIRO DE BAIXO, SÃO PEDRO”, também conhecido como “DATA PALMEIRAL” ou “FAZENDA VIETNAM”, classificado como “latifúndio por exploração”, situado no Município de Esperantinópolis, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619, de 02 de maio de 1986, e dá outras providências.

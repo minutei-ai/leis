@@ -1,5 +1,3 @@
-###DEL-004067-0-000-29-01-1942@@@
-
 DECRETO-LEI N. 4.067 – DE 29 DE JANEIRO DE 1942
 
 Abre, pelo Ministério da Guerra, o crédito especial de 19:200$0 para pagamento de funções gratificadas

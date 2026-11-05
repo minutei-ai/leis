@@ -1,5 +1,3 @@
-###DEC-007821-0-000-05-10-2012-PUB-01@@@
-
 DECRETO Nº 7.821, DE 5 DE OUTUBRO DE 2012.
 
 Promulga o Acordo entre a República Federativa do Brasil e a União Europeia sobre Isenção de Vistos de Curta Duração para Portadores de Passaportes Comuns, firmado em Bruxelas, em 8 de novembro de 2010.

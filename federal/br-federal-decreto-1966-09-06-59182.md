@@ -1,5 +1,3 @@
-###DEC-059182-0-000-06-09-1966@@@
-
 DECRETO Nº 59.182, DE 6 DE SETEMBRO DE 1966.
 
 Autoriza Mineração Indústria e Comércio Ltda., a pesquisar mármore no município de Morro do Chapéu, Estado da Bahia.

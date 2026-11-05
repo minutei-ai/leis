@@ -1,5 +1,3 @@
-###DEL-007346-0-000-01-03-1945@@@
-
 DECRETO-LEI N. 7.346 – DE 1 DE MARÇO DE 1945
 
 Autoriza a doação da área de terreno que menciona

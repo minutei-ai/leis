@@ -1,7 +1,3 @@
-1
-
-###DEC-099369-0-000-03-07-1990@@@
-
 DECRETO N° 99.369, DE 3 DE JULHO DE 1990
 
 Altera a composição da Comissão Nacional para programar e coordenar as comemorações do V Centenário do Descobrimento da América.

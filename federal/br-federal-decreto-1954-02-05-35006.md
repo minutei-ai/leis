@@ -1,38 +1,36 @@
-###DEC-035006-0-000-05-02-1954@@@
+**DECRETO Nº 35.006, DE 5 DE FEVEREIRO DE 1954.**
 
-<strong>DECRETO Nº 35.006, DE 5 DE FEVEREIRO DE 1954.</strong>
+***Aprova o Regimento do Serviço do Pessoal do Ministério da Fazenda (S.P.F).***
 
-<em><strong>Aprova o Regimento do Serviço do Pessoal do Ministério da Fazenda (S.P.F).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço do Pessoal do Ministério da Fazenda (S.P.F.), o qual com êste baixa, assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço do Pessoal do Ministério da Fazenda (S.P.F.), o qual com êste baixa, assinado pelo respectivo Ministro de Estado.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 5 de fevereiro de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Oswaldo Aranha
 
-<strong>REGIMENTO DO SERVIÇO DO PESSOAL (S.P.F.) DO MINISTÉRIO DA FAZENDA</strong>
+**REGIMENTO DO SERVIÇO DO PESSOAL (S.P.F.) DO MINISTÉRIO DA FAZENDA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço do Pessoal (S.P.F.) do Ministério da Fazenda, diretamente subordinado ao Diretor Geral da Fazenda Nacional, é o órgão encarregado de aplicar, orientar e fiscalizar a aplicação da legislação de pessoal em todos os setores do Ministério.
+**Art**. 1º O Serviço do Pessoal (S.P.F.) do Ministério da Fazenda, diretamente subordinado ao Diretor Geral da Fazenda Nacional, é o órgão encarregado de aplicar, orientar e fiscalizar a aplicação da legislação de pessoal em todos os setores do Ministério.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 2º O Serviço do Pessoal da Fazenda (S.P.F.) é constituído dos seguintes órgãos:
+**Art**. 2º O Serviço do Pessoal da Fazenda (S.P.F.) é constituído dos seguintes órgãos:
 
 I - Setor de Assistência Social (S.A.S.).
 
@@ -156,21 +154,21 @@ e) Turma de Orçamento (T. O.);
 
 f) Turma de Pessoal (T. Pe.).
 
-<strong>Art</strong>. 3º O S. P. F. será dirigido por um Diretor, em Comissão, de livre nomeação do Presidente da República.
+**Art**. 3º O S. P. F. será dirigido por um Diretor, em Comissão, de livre nomeação do Presidente da República.
 
-<strong>Art</strong>. 4º O Diretor do S.P.F. será assistido por 3 (três) Chefes de Setor e um Secretário, escolhidos dentre os servidores do Ministério da Fazenda.
+**Art**. 4º O Diretor do S.P.F. será assistido por 3 (três) Chefes de Setor e um Secretário, escolhidos dentre os servidores do Ministério da Fazenda.
 
-<strong>Art</strong>. 5º Os chefes dos Setores, das Seções, das Turmas e respectivos substitutos, bem como o Secretário do Diretor, serão designados e dispensados pelo Diretor do S. P. F.
+**Art**. 5º Os chefes dos Setores, das Seções, das Turmas e respectivos substitutos, bem como o Secretário do Diretor, serão designados e dispensados pelo Diretor do S. P. F.
 
-<strong>Art</strong>. 6º Os órgãos que integram o S. P. F. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 6º Os órgãos que integram o S. P. F. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos órgãos</em>
+*Da Competência dos órgãos*
 
-<strong>Art</strong>. 7º Ao Setor de Assistência Social compete cooperar na promoção do bem-estar dos servidores, assistí-los, controlar o seu estado de sanidade física, estudar e sugerir medidas tendentes ao seus confôrto e ao aumento de sua produtividade.
+**Art**. 7º Ao Setor de Assistência Social compete cooperar na promoção do bem-estar dos servidores, assistí-los, controlar o seu estado de sanidade física, estudar e sugerir medidas tendentes ao seus confôrto e ao aumento de sua produtividade.
 
-<strong>Art</strong>. 8º À S.M. compete:
+**Art**. 8º À S.M. compete:
 
 I - realizar exames de sanidade e capacidade física dos servidores do Ministério e outros órgãos, na conformidade da legislação vigente, para efeito de concessão de licença, contrôle de faltas ao serviço, posse e exercício;
 
@@ -198,9 +196,9 @@ XII - organizar a “ficha de saúde” de todos os servidores do M.F., na qual 
 
 XIII - manter atualizado o fichário do S.A.S.
 
-<strong>Art</strong>. 9º A S.E. compete executar os serviços de expediente do Setor instruir processos e cooperar com a S.M. e os Postos Médicos no contrôle dos atos da competência privativa dêstes.
+**Art**. 9º A S.E. compete executar os serviços de expediente do Setor instruir processos e cooperar com a S.M. e os Postos Médicos no contrôle dos atos da competência privativa dêstes.
 
-<strong>Art</strong>. 10. Ao P.M. compete:
+**Art**. 10. Ao P.M. compete:
 
 I - fiscalizar a higiene dos locais de trabalho;
 
@@ -212,9 +210,9 @@ IV - realizar exames médicos, domiciliares, para efeito de contrôle das faltas
 
 V - realizar exames periódicos e ocasionais, para determinar o estado de sanidade física dos servidores, mantendo a ficha atualizada.
 
-<strong>Art</strong>. 11. Ao S.O.A. compete orientar, aplicar, coordenar e fiscalizar a parte executiva da administração de pessoal, a que se referir a direitos e vantagens, deveres e responsabilidades, provimento e aposentadoria dos funcionários e extranumerários.
+**Art**. 11. Ao S.O.A. compete orientar, aplicar, coordenar e fiscalizar a parte executiva da administração de pessoal, a que se referir a direitos e vantagens, deveres e responsabilidades, provimento e aposentadoria dos funcionários e extranumerários.
 
-<strong>Art</strong>. 12. A S.D.V. compete:
+**Art**. 12. A S.D.V. compete:
 
 I - orientar e aplicar a legislação de pessoal referente a direitos, licenças e outras vantagens, bem como assuntos de legislação em geral, concernentes aos funcionários e extranumerários do Ministério;
 
@@ -222,7 +220,7 @@ II - dar pareceres sôbre solicitação inicial ou não em pedidos de reconsider
 
 III - solicitar às respectivas seções os elementos a serem fornecidos aos órgãos dos Poderes Legislativo e Judiciário.
 
-<strong>Art</strong>. 13. À S. Mv. compete:
+**Art**. 13. À S. Mv. compete:
 
 I - executar o expediente relativo a nomeação, admissão e readmissão, reversão, aproveitamento, designação para função gratificada, posse, prorrogação de prazo, exercício, remoção, substituição, exoneração, dispensa, disponibilidade aposentadoria transferência, requisição, permuta e readaptação, localização, estágio probatório e montepio civil;
 
@@ -232,7 +230,7 @@ III - opinar sôbre a natureza e espécie das funções a serem exercidas por ex
 
 IV - matricular os funcionários e extranumerários, e adotar o código e os prefixos dos cargos e das funções que forem estabelecidas pelo D.A.S.P;
 
-<strong>Art</strong>. 14. À S.D.R. compete:
+**Art**. 14. À S.D.R. compete:
 
 I - orientar e fiscalizar a aplicação da legislação de pessoal referente a deveres, responsabilidade e ação disciplinar;
 
@@ -242,9 +240,9 @@ III - dar pareceres em pedidos de reintegração e de reconsideração e em recu
 
 IV - emitir pareceres sôbre elogios que devam ser ou não registrados no assentamento individual do servidor e opinar sôbre pedidos de readmissão em virtude de demissão.
 
-<strong>Art</strong>. 15. Ao S. C. R. compete orientar, coordenar e controlar o provimento de cargos e funções e o pagamento do pessoal ativo, executar o processamento de promoções e melhorias e o cadastro da vida funcional dos servidores, bem como a publicação periódica do Almanaque do Pessoal do Ministério da Fazenda.
+**Art**. 15. Ao S. C. R. compete orientar, coordenar e controlar o provimento de cargos e funções e o pagamento do pessoal ativo, executar o processamento de promoções e melhorias e o cadastro da vida funcional dos servidores, bem como a publicação periódica do Almanaque do Pessoal do Ministério da Fazenda.
 
-<strong>Art</strong>. 16. À S.F. compete:
+**Art**. 16. À S.F. compete:
 
 I - organizar e manter em dia a ficha financeira individual dos servidores;
 
@@ -274,7 +272,7 @@ XIII - preparar, de acôrdo com as instruções da Contadoria Geral da repúblic
 
 XIV - coordenar, para serem fornecidos ao órgão competente, os elementos necessários à elaboração da proposta orçamentária no que tange ao pessoal do Ministério da Fazenda.
 
-<strong>Art</strong>. 17. À S. C. compete:
+**Art**. 17. À S. C. compete:
 
 I - propor ou opinar quanto à criação e à supressão de cargos e funções, tendo em vista as necessidades dos serviços;
 
@@ -312,7 +310,7 @@ X - organizar e publicar as listas de antiguidade e merecimento dos servidores r
 
 XI - manter rigorosamente em dia os elementos necessários ao processamento das promoções dos funcionários e melhorias dos extranumerários-mensalistas.
 
-<strong>Art</strong>. 19. À S. Cd. Compete:
+**Art**. 19. À S. Cd. Compete:
 
 I - organizar, averbar e manter atualizado, de acôrdo com os modêlos oficialmente adotados, o registro individual dos servidores;
 
@@ -326,17 +324,17 @@ V - iniciar o expediente de aposentadorias compulsórias, instruir os processos 
 
 VI - organizar e publicar anualmente, o “Almanaque do Pessoal”.
 
-<strong>Art</strong>. 19. A S. compete prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do S. P. F.
+**Art**. 19. A S. compete prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do S. P. F.
 
-<strong>Art</strong>. 20. À T. D. compete publicar e distribuir o “Boletim do Pessoal”, no qual serão incluídos, obrigatòriamente, todos os atos relativos aos funcionários e extranumerários, e preparar para o “<em>Diário</em> <em>Oficial</em>” da União a matéria a ser nêle publicada.
+**Art**. 20. À T. D. compete publicar e distribuir o “Boletim do Pessoal”, no qual serão incluídos, obrigatòriamente, todos os atos relativos aos funcionários e extranumerários, e preparar para o “*DiárioOficial*” da União a matéria a ser nêle publicada.
 
-<strong>Art</strong>. 21. À T. Pt compete receber, protocolar, informar, distribuir às Seções e dar saída aos papéis que transitarem pelo S. P.F.
+**Art**. 21. À T. Pt compete receber, protocolar, informar, distribuir às Seções e dar saída aos papéis que transitarem pelo S. P.F.
 
-<strong>Art</strong>. 22. À T. Mt. Compete providenciar o abastecimento do material necessário ao S. P. F.
+**Art**. 22. À T. Mt. Compete providenciar o abastecimento do material necessário ao S. P. F.
 
-<strong>Art</strong>. 23. À T. Me. Compete executar e expedir os trabalhos mecanográficos que lhe forem atribuídos.
+**Art**. 23. À T. Me. Compete executar e expedir os trabalhos mecanográficos que lhe forem atribuídos.
 
-<strong>Art</strong>. 24. À T O compete:
+**Art**. 24. À T O compete:
 
 I - elaborar a proposta orçamentária do S. P. F.com os elementos que lhe forem fornecidos pelos Setores;
 
@@ -344,13 +342,13 @@ II - estudar as propostas orçamentarias parciais na parte relativa a pessoal e 
 
 III - cooperar na elaboração do relatório do Diretor do S. P. F.
 
-<strong>Art</strong>. 25. À T. Pe. compete providenciar todos os atos que digam respeito aos servidores com exercício no S. P. F., exceto os de ordem geral.
+**Art**. 25. À T. Pe. compete providenciar todos os atos que digam respeito aos servidores com exercício no S. P. F., exceto os de ordem geral.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 26. Ao Diretor do S. P. F. compete:
+**Art**. 26. Ao Diretor do S. P. F. compete:
 
 I - orientar, fiscalizar e dar aplicação à legislação de pessoal pertencente aos quadros do Ministério da Fazenda;
 
@@ -412,7 +410,7 @@ XXIX - tomar as providências que forem julgadas necessárias, em face do result
 
 XXX - providenciar a fim de que servidores do Ministério da Fazenda façam estágio no S. P. F. até o prazo de 120 (cento e vinte) dias, visando a uniformidade dos serviços de administração do pessoal.
 
-<strong>Art</strong>. 27. Aos Chefes de Setor compete:
+**Art**. 27. Aos Chefes de Setor compete:
 
 I - assinar o expediente do Setor e o que lhe fôr atribuído por delegação da competência;
 
@@ -432,7 +430,7 @@ VIII - coligir os elementos relativos ao Setor para o relatório anual do Servi�
 
 Parágrafo único. No que lhe couber, as atribuições previstas neste artigo competem também ao Chefe da S. A.
 
-<strong>Art</strong>. 28. - Ao Secretário do Diretor compete:
+**Art**. 28. - Ao Secretário do Diretor compete:
 
 I - atender as pessoas que procurem o Diretor, levando-lhe ao conhecimento o assunto a tratar;
 
@@ -442,7 +440,7 @@ III - representar o Diretor, quando para isto designado;
 
 IV - manter em dia o contrôle do movimento da documentação vinda a despacho ou estudo do Diretor.
 
-<strong>Art</strong>. 29. Aos Chefes de Seção compete:
+**Art**. 29. Aos Chefes de Seção compete:
 
 I - dirigir e orientar a execução dos serviços da Seção;
 
@@ -466,7 +464,7 @@ X - fornecer elementos para o relatório anual do Serviço;
 
 XI - zelar pela disciplina no recinto da Seção.
 
-<strong>Art</strong>. 30. Aos Chefes de Turmas compete:
+**Art**. 30. Aos Chefes de Turmas compete:
 
 I - distribuir aos servidores, seus subordinados, os trabalhos a realizar;
 
@@ -474,11 +472,11 @@ II - sugerir ao chefe da respectiva Seção as providências que se fizerem nece
 
 III - executar os serviços que lhes forem atribuídos pelo Chefe da respectiva Seção.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 31. Serão substituídos, automáticamente, em seus impedimentos eventuais até 30 dias:
+**Art**. 31. Serão substituídos, automáticamente, em seus impedimentos eventuais até 30 dias:
 
 I - O Diretor do Serviço pelo Chefe do Setor de sua indicação, designado pelo Ministro;
 
@@ -486,45 +484,43 @@ II - Os Chefes de Setor pelo Chefe de Seção designado pelo Diretor do Serviço
 
 III - Os Chefes de Seção pelo Chefe de Turma designado pelo Diretor do Serviço, por indicação do Chefe, por indicação do Chefe da respectiva Seção.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 32. Os chefes dos Setores, das Seções, dos Postos Médicos, das Turmas e o Secretário perceberão a gratificação de função que fôr estabelecida.
+**Art**. 32. Os chefes dos Setores, das Seções, dos Postos Médicos, das Turmas e o Secretário perceberão a gratificação de função que fôr estabelecida.
 
 Parágrafo único. Os chefes das Seções, dos Postos Médicos e das Turmas serão designados pelo Diretor do S. P. F., por indicação dos chefes imediatos, dentro os servidores do Ministério da Fazenda.
 
-<strong>Art</strong>. 33. Os chefes dos Setores e da S. A. tem competência para mandar arquivar, despachar e encaminhar a outras repartições processos que não dependam de medidas que impliquem em recomendações, determinações ou decisões da alçada exclusiva do Diretor.
+**Art**. 33. Os chefes dos Setores e da S. A. tem competência para mandar arquivar, despachar e encaminhar a outras repartições processos que não dependam de medidas que impliquem em recomendações, determinações ou decisões da alçada exclusiva do Diretor.
 
-<strong>Art</strong>. 34. Cada órgão do S. P.F. deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias ordens e instruções de serviços que digam respeito a suas atividades.
+**Art**. 34. Cada órgão do S. P.F. deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias ordens e instruções de serviços que digam respeito a suas atividades.
 
-<strong>Art</strong>. 35. Os chefes dos Setores deverão apresentar ao Diretor do Serviço do Pessoal da Fazenda, até o dia 15 de janeiro de cada ano, os elementos necessários à elaboração do relatório.
+**Art**. 35. Os chefes dos Setores deverão apresentar ao Diretor do Serviço do Pessoal da Fazenda, até o dia 15 de janeiro de cada ano, os elementos necessários à elaboração do relatório.
 
-<strong>Art</strong>. 36. Os Postos Médicos funcionarão, tecnicamente, sob a orientação, tecnicamente, sob a orientação do Chefe do S. A. S. e, administrativamente, subordinado aos chefes das repartições onde estão instalados.
+**Art**. 36. Os Postos Médicos funcionarão, tecnicamente, sob a orientação, tecnicamente, sob a orientação do Chefe do S. A. S. e, administrativamente, subordinado aos chefes das repartições onde estão instalados.
 
-<strong>Art</strong>. 37. Continuam em vigor as disposições constantes do Decreto número 5.652, de 29-3-40 desde que não colidam com as normas estabelecidas no presente regimento.
+**Art**. 37. Continuam em vigor as disposições constantes do Decreto número 5.652, de 29-3-40 desde que não colidam com as normas estabelecidas no presente regimento.
 
-<strong>Art</strong>. 38. Revogam-se as disposições em contrário.
+**Art**. 38. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de fevereiro de 1954.
 
-<strong>OSWALDO ARANHA</strong>
+**OSWALDO ARANHA**
 
-###DEC-035006-0-000-05-02-1954@@@RET01+++
+**DECRETO Nº 35.006, DE 5 DE FEVEREIRO DE 1954.**
 
-<strong>DECRETO Nº 35.006, DE 5 DE FEVEREIRO DE 1954.</strong>
+***Aprova o Regimento do Serviço do Pessoal do Ministério da Fazenda (S .P.F.).***
 
-<em><strong>Aprova o Regimento do Serviço do Pessoal do Ministério da Fazenda (S .P.F.).</strong></em>
+(Publicado no *DiárioOficial* - Seção I, de 15 de fevereiro de 1954).
 
-(Publicado no <em>Diário</em> <em>Oficial</em> - Seção I, de 15 de fevereiro de 1954).
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 No art. 2,
 
 § 10,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 e) Toma de Lotação (T.L.).
 
@@ -532,7 +528,7 @@ f) Toma de Expediente (T.Ed.).
 
 h) Turma de Estado (E.E.).
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u>:
+**LEIA\-SE**:
 
 e) Turma de Lotação (T.Lo.).
 
@@ -542,10 +538,10 @@ h) Turma de Estados (E.Ed.).
 
 No mesmo artigo, § 11;
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 d) Turma de Fichário e Aposentadoria e Compulsória (T.F.S.).
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u>:
+**LEIA\-SE**:
 
 d) Turma de Fichário e Aposentadoria Compulsória (T.F.A.).

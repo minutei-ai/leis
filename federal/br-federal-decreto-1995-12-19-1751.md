@@ -1,7 +1,3 @@
-1
-
-###DEC-001751-0-000-19-12-1995@@@
-
 DECRETO Nº 1.751, DE 19 DE DEZEMBRO DE 1995.
 
 Regulamenta as normas que disciplinam os procedimentos administrativos relativos à aplicação de medidas compensatórias.
@@ -1032,7 +1028,6 @@ e) nenhuma produção será exigida para o recebimento dos pagamentos.
 
 7\. Participação financeira do governo em programas de seguro de renda e em programas que estabeleçam um dispositivo de segurança de renda mínima:
 
-<br>
           a) o direito a receber os pagamentos será determinado em função de uma perda de renda (unicamente a renda derivada da agricultura) que ultrapassar trinta por cento da renda média bruta ou seu equivalente em termos de renda líquida, no período precedente de três anos ou uma média de três dos cinco anos precedentes (excluídos os de maior e de menor renda). Para cálculo da renda líquida excluem-se quaisquer pagamentos provenientes dos mesmos programas ou de outros semelhantes. Todo produtor que cumpra com tal condição terá direito a receber os pagamentos;
 
 b) o montante dos pagamentos compensará menos de setenta por cento da perda de renda do produtor no ano em que adquira o direito de receber essa resistência;
@@ -1043,7 +1038,6 @@ d) quando um produtor recebe em um mesmo ano pagamentos descritos nesse item e n
 
 8\. Pagamentos a título de auxílio caso de desastres naturais, feitos diretamente ou por intermédio da participação financeira do governo em programas de seguro de safra:
 
-<br>
           a) o direito a receber os pagamentos originar-se-á unicamente após reconhecimento formal pelas autoridades governamentais de que tenha ocorrido ou esteja ocorrendo um desastre natural ou outro fenômeno similar, inclusive surtos de doenças, contaminação por pragas, acidentes nucleares e guerra no território do país em questão; e serão subordinado a uma perda de produção superior a trinta por cento da produção média no período precedente de três anos ou a uma média de três anos baseada no período precedente de cinco anos (excluídos o de maior e de menor produção);
 
 b) os pagamentos em conseqüência de um desastre serão efetuados unicamente com relação a perdas de renda, cabeças de gado ( inclusive os pagamentos relacionados com o tratamento veterinário dos animais), terras e outros fatores de produção, resultantes do desastre natural em questão;
@@ -1056,7 +1050,6 @@ e) quando um produtor recebe, no mesmo ano, pagamentos em virtude do disposto ne
 
 9\. Assistência para ajuste estrutural concedida por intermédio de programas que incentivem os produtores a cessarem suas atividades:
 
-<br>
          a) o direito a receber os pagamentos será determinado em função de critérios claramente definidos em programas destinados a facilitar que as pessoas dedicadas à produção agrícola comercializável se retirem desta atividade ou se transfiram para atividades não agrícolas;
 
 b) os pagamentos estarão sujeitos ao abandono total e definitivo, por parte dos beneficiários, da produção agrícola comercializável.
@@ -1104,8 +1097,6 @@ d) os pagamentos estarão disponíveis apenas a produtores em regiões com direi
 e) quando relacionados a fatores de produção, os pagamentos serão efetuados a uma taxa decrescente acima de um patamar estabelecido para o fator em questão;
 
 f) os pagamentos estarão limitados aos custos adicionais ou perdas de renda decorrentes da realização da produção agrícola na região determinada.
-
-###DEC-001751-0-000-19-12-1995@@@RET01+++
 
 # DECRETO N° 1.751, DE 19 DE DEZEMBRO DE 1995.
 

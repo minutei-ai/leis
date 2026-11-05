@@ -1,5 +1,3 @@
-###DEC-070977-0-000-14-08-1972@@@
-
 DECRETO Nº 70.977, DE 14 DE AGOSTO DE 1972.
 
 Concede à Magnesita S.A. o direito de lavrar argila no Município de Poços de Caldas, Estado de Minas Gerais.

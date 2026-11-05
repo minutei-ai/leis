@@ -1,5 +1,3 @@
-###DEC-069175-0-000-09-09-1971@@@
-
 Decreto nº 69.175, de 9 de setembro de 1971.
 
 Anula o Decreto nº 25.983, de 8 de dezembro de 1948.

@@ -1,5 +1,3 @@
-###DEC-090393-0-000-30-10-1984@@@
-
 DECRETO Nº 90.393, de 30 de outubro de 1984.
 
 Cria a Secretaria Nacional de Cooperativismo, no Ministério da Agricultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-090219-0-000-25-09-1984@@@
-
 DECRETO Nº 90.219, de 25 DE SETEMBRO DE 1984
 
 Aprova o Regulamento para o Alto-Comando do Exército (R-189).

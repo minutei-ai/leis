@@ -1,5 +1,3 @@
-###DEC-062513-0-000-09-04-1968@@@
-
 DECRETO Nº 62.513, DE 9 DE ABRIL DE 1968.
 
 Declara de interêsse social para fins de desapropriação, a área de 8.000 hectares, integrante da “Fazenda Flórida”, situada no Município de São Nicolau, Estado do Rio Grande do Sul.

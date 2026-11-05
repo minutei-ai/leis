@@ -1,5 +1,3 @@
-###DEC-045483-0-000-26-02-1959@@@
-
 DECRETO Nº 45.483, DE 26 DE Fevereiro DE 1959.
 
 Autoriza o cidadão brasileiro Fausto Miglio a pesquisar quartzo e pedras coradas no município de Teófilo Otoni, Estado de Minas Gerais.

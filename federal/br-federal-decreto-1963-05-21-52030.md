@@ -1,5 +1,3 @@
-###DEC-052030-0-000-21-05-1963@@@
-
 Decreto nº 52.030, de 21 de maio de 1963.
 
 Transfere para a Prefeitura Municipal de Maraú, Estado do Rio Grande do Sul, a concessão para produção, transmissão, transformação e distribuição de energia elétrica no Distrito - sede do Município de Maraú.

@@ -1,5 +1,3 @@
-###DEC-054912-0-000-04-11-1964@@@
-
 decreto nº 54.912, de 4 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Zacki Curi a pesquisar cassiterita, no município de Macapá, Território Federal do Amapá.

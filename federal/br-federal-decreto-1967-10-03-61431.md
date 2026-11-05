@@ -1,5 +1,3 @@
-###DEC-061431-0-000-03-10-1967@@@
-
 decreto Nº 61.431, de 3 de outubro de 1967.
 
 Abre ao Ministério do Interior, Fundação Interestadual para o Desenvolvimento dos Vales do Tocantins-Araguaia e Paraguai-Cuiabá (FIRTOP) o Crédito Especial de NCr$125.000,00 (cento e vinte e cinco mil cruzeiros novos), para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-053882-0-000-10-04-1964@@@
-
 DECRETO Nº 53.882, DE 10 DE ABRIL DE 1964.
 
 Revoga o Decreto nº 52.349, de 12 de agôsto de 1963, restabelecendo as disposições do Decreto nº 43.024, de 9 de janeiro de 1958.

@@ -1,5 +1,3 @@
-###DEC-087910-0-000-07-12-1982@@@
-
 Decreto nº 87.910, de 07 de dezembro de 1982.
 
 Cria Organização Militar no Ministério do Exército e dá outras providências

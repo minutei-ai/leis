@@ -1,5 +1,3 @@
-###DEC-071106-0-000-14-09-1972@@@
-
 DECRETO Nº 71.106, DE 14 DE SETEMBRO DE 1972.
 
 Declara reservada aos índios Xavantes, sob a denominação de Reservas Indígena São Marcos, área situada no Estado de Mato Grosso, e dá outras providências.

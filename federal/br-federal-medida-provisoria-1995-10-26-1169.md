@@ -1,7 +1,3 @@
-1
-
-###MPV-001169-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.169, DE 26 DE OUTUBRO DE 1995.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045302-0-000-27-01-1959@@@
-
 DECRETO Nº 45.302, DE 27 DE JANEIRO DE 1959.
 
 Autoriza a Mineração Boquira Ltda. a pesquisar minério de chumbo no município de Macaúbas, Estado da Bahia.

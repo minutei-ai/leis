@@ -1,5 +1,3 @@
-###DEC-079600-0-000-26-04-1977@@@
-
 DECRETO Nº 79.600, DE 26 DE ABRIL DE 1977.
 
 Concede à Itapessoca Agro-Industrial S. A., o direito de lavrar calcário no Município de Goiânia, Estado Pernambuco.

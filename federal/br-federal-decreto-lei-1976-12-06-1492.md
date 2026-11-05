@@ -1,5 +1,3 @@
-###DEL-001492-0-000-06-12-1976@@@
-
 # DECRETO-LEI Nº 1.492, DE 6 DE DEZEMBRO DE 1976
 
 Dispõe sobre a utilização parcial de créditos do Imposto sobre Circulação de Mercadorais na dedução do Imposto sobre Produtos Industrializados ou nas modalidades de aproveitamento indicadas pelo Ministro da Fazenda.

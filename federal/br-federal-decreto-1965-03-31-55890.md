@@ -1,36 +1,34 @@
-###DEC-055890-0-000-31-03-1965@@@
+**DECRETO Nº 55.890, DE 31 DE MARÇO DE 1965.**
 
-<strong>DECRETO Nº 55.890, DE 31 DE MARÇO DE 1965.</strong>
+***Aprova o Regulamento Geral do Instituto Nacional de Desenvolvimento Agrário.***
 
-<em><strong>Aprova o Regulamento Geral do Instituto Nacional de Desenvolvimento Agrário.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o artigo 87, item I, da Constituição, e tendo em vista o disposto na Lei número 4.504, de 30 de novembro de 1964,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o artigo 87, item I, da Constituição, e tendo em vista o disposto na Lei número 4.504, de 30 de novembro de 1964,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento Geral do Instituto Nacional do Desenvolvimento Agrário, criado pelo artigo 74 da Lei nº 4.504, de 30 de novembro de 1964, que com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento Geral do Instituto Nacional do Desenvolvimento Agrário, criado pelo artigo 74 da Lei nº 4.504, de 30 de novembro de 1964, que com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 31 de março de 1965; 144º da Independência e 77º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Hugo de Almeida Leme
 
 Roberto Campos
 
-<strong>REGULAMENTO GERAL DO INSTITUTO NACIONAL DE DESENVOLVIMENTO AGRÁRIO</strong>
+**REGULAMENTO GERAL DO INSTITUTO NACIONAL DE DESENVOLVIMENTO AGRÁRIO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>DO INSTITUTO NACIONAL DE DESENVOLVIMENTO AGRÁRIO (INDA)</em>
+*DO INSTITUTO NACIONAL DE DESENVOLVIMENTO AGRÁRIO (INDA)*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Denominação e Finalidades</em>
+*Da Denominação e Finalidades*
 
-<strong>Art</strong>. 1º O Instituto Nacional do Desenvolvimento Agrário - INDA - É um órgão autárquico criado pela Lei 4.504, de 30 de novembro de 1964 - Estatuto da Terra, vinculado no Ministério da Agricultura, dotado de personalidade jurídica e autonomia financeira, com sede na Capital Federal e jurisdição em todo o território nacional, e nos têrmos daquela lei, tem como objetivo primordial promover o desenvolvimento rural, essencialmente através das atividades de colonização, extensão rural e cooperativismo.
+**Art**. 1º O Instituto Nacional do Desenvolvimento Agrário - INDA - É um órgão autárquico criado pela Lei 4.504, de 30 de novembro de 1964 - Estatuto da Terra, vinculado no Ministério da Agricultura, dotado de personalidade jurídica e autonomia financeira, com sede na Capital Federal e jurisdição em todo o território nacional, e nos têrmos daquela lei, tem como objetivo primordial promover o desenvolvimento rural, essencialmente através das atividades de colonização, extensão rural e cooperativismo.
 
 § 1º Para consecução dos seus objetivos o INDA atuará em todo o território nacional, diretamente ou através de suas Delegacias Regionais.
 
@@ -38,15 +36,15 @@ Roberto Campos
 
 a) as de colonização, integralmente pelo Instituto Brasileiro de Reforma Agrária - IBRA;
 
-b) as demais, sempre que possível, pela autarquia referida na alínea<em>”a”</em>, em convênio com o INDA.
+b) as demais, sempre que possível, pela autarquia referida na alínea*”a”*, em convênio com o INDA.
 
 § 3º No campo do desenvolvimento rural, da assistência técnica e do associativismo, a ação do INDA terá o sentido de complementar a atuação dos demais órgãos do Ministério da Agricultura, com os quais deverá celebrar convênios visando ao maior rendimento administrativo, técnico e econômico dos recursos aplicados.
 
-<strong>Art</strong>. 2º O INDA tem como finalidades principais, nos têrmos do item V do artigo 74 do Estatuto da Terra, para consecução dos seus objetivos, as enumeradas nos parágrafos seguintes:
+**Art**. 2º O INDA tem como finalidades principais, nos têrmos do item V do artigo 74 do Estatuto da Terra, para consecução dos seus objetivos, as enumeradas nos parágrafos seguintes:
 
-§ 1º No campo das atividades de colonização, observado o disposto na alínea <em>“a”</em>, do § 2º do artigo 1º:
+§ 1º No campo das atividades de colonização, observado o disposto na alínea *“a”*, do § 2º do artigo 1º:
 
-a) orientar os serviços de seleção, entrada, distribuição e fixação de imigrantes, nos têrmos do art. 162 da Constituição Federal e da alínea <em>“c”</em> do inciso V do art. 74 do Estatuto da Terra, fixando as diretrizes para o serviço de imigração e seleção de imigrantes, exercido pelo Ministério das Relações Exteriores, promovendo a recepção e o encaminhamento dos imigrantes, em articulação com o Ministério do Trabalho e Previdência Social;
+a) orientar os serviços de seleção, entrada, distribuição e fixação de imigrantes, nos têrmos do art. 162 da Constituição Federal e da alínea *“c”* do inciso V do art. 74 do Estatuto da Terra, fixando as diretrizes para o serviço de imigração e seleção de imigrantes, exercido pelo Ministério das Relações Exteriores, promovendo a recepção e o encaminhamento dos imigrantes, em articulação com o Ministério do Trabalho e Previdência Social;
 
 b) criar núcleos de colonização visando a fins especiais, bem como, em entendimento com o Ministério da Guerra, colônias, com assistência militar, na fronteira continental;
 
@@ -90,7 +88,7 @@ e) mobilizar e utilizar, para o desenvolvimento tecnológico, os seguintes meios
 
 f) promover a prestação de serviços de planejamento conservacionista e de execução de trabalhos técnicos para a conservação de solos e para implantação de métodos e práticas agrícolas.
 
-<strong>Art</strong>. 3º Para perfeita execução das atividades básicas enumeradas no art. 2º e seus parágrafos, o INDA desempenhará, sob a supervisão da Coordenação Administrativa, as funções auxiliares executadas nos órgãos centrais, regionais, zonas e locais discriminados nos parágrafos seguintes.
+**Art**. 3º Para perfeita execução das atividades básicas enumeradas no art. 2º e seus parágrafos, o INDA desempenhará, sob a supervisão da Coordenação Administrativa, as funções auxiliares executadas nos órgãos centrais, regionais, zonas e locais discriminados nos parágrafos seguintes.
 
 § 1º Funções técnicas auxiliares, compreendendo:
 
@@ -130,109 +128,109 @@ b) manutenção do serviço central de computação eletrônica;
 
 c) manutenção dos serviços de aquisição de material e de mercadorias, inclusive dos de importação de bens de produção para as atividades básicas do INDA.
 
-<strong>Art</strong>. 4º Os projetos de atos relativos à ação do INDA que acarretem obrigações para outros órgãos da administração pública serão, obrigatòriamente, submetidos à aprovação prévia do Ministro da Agricultura.
+**Art**. 4º Os projetos de atos relativos à ação do INDA que acarretem obrigações para outros órgãos da administração pública serão, obrigatòriamente, submetidos à aprovação prévia do Ministro da Agricultura.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das Vinculações</em>
+*Das Vinculações*
 
-<strong>Art</strong>. 5º O INDA, nos têrmos dos artigos 6º, 7º e 8º do Estatuto da Terra, poderá manter convênios com entidades internacionais, estrangeiras ou nacionais, federais, regionais, estaduais ou privadas, para execução de trabalhos que se incluam entre os enumerados nas finalidades referidas no art. 2º.
+**Art**. 5º O INDA, nos têrmos dos artigos 6º, 7º e 8º do Estatuto da Terra, poderá manter convênios com entidades internacionais, estrangeiras ou nacionais, federais, regionais, estaduais ou privadas, para execução de trabalhos que se incluam entre os enumerados nas finalidades referidas no art. 2º.
 
 Parágrafo único. Os convênios serão aprovados pelo Conselho Diretor e deverão ser celebrados especialmente para evitar duplicidade de atuação de organismos públicos no mesmo campo de atividades.
 
-<strong>Art</strong>. 6º As vinculações dos órgãos internos serão definidas neste Regulamento e nos Regimentos Internos específicos, obedecendo a subordinação de caráter técnico e administrativo e a princípios normativos especiais, podendo um mesmo órgão ser subordinado tècnicamente a uma chefia e, administrativamente, a outra.
+**Art**. 6º As vinculações dos órgãos internos serão definidas neste Regulamento e nos Regimentos Internos específicos, obedecendo a subordinação de caráter técnico e administrativo e a princípios normativos especiais, podendo um mesmo órgão ser subordinado tècnicamente a uma chefia e, administrativamente, a outra.
 
 Parágrafo único. A vinculação ou a subordinação de um órgão a uma chefia não implica, obrigatòriamente, na inclusão dêsse órgão na mesma unidade administrativa subordinada àquela chefia.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Das Atividades do INDA</em>
+*Das Atividades do INDA*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Das Atividades de Colonização</em>
+*Das Atividades de Colonização*
 
-<strong>Art</strong>. 7º As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo da Colonização, visam a promover a organização e a implantação de núcleos coloniais, e compreendem a seleção e o registro dos candidatos que nêles serão localizados, o transporte e manutenção dos mesmos e de seus familiares, na fase inicial de implantação, além de outras vantagens oferecidas em cada tipo de projeto.
+**Art**. 7º As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo da Colonização, visam a promover a organização e a implantação de núcleos coloniais, e compreendem a seleção e o registro dos candidatos que nêles serão localizados, o transporte e manutenção dos mesmos e de seus familiares, na fase inicial de implantação, além de outras vantagens oferecidas em cada tipo de projeto.
 
 Parágrafo único. Os anteprojetos ou projetos de colonização, para serem aprovados e registrados, terão de satisfazer a exigências mínimas e a especificações, de acôrdo com a metodologia estabelecida pelo IBRA.
 
-<strong>Art</strong>. 8º As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo das migrações, realizados na forma definida na alínea <em>“a”</em> do § 1º do artigo 2º, visam à recepção, encaminhamento e colocação de trabalhadores rurais selecionados no estrangeiro pelo Ministério das Relações Exteriores ou pelo Ministério do Trabalho em áreas do país.
+**Art**. 8º As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo das migrações, realizados na forma definida na alínea *“a”* do § 1º do artigo 2º, visam à recepção, encaminhamento e colocação de trabalhadores rurais selecionados no estrangeiro pelo Ministério das Relações Exteriores ou pelo Ministério do Trabalho em áreas do país.
 
 Parágrafo único. O INDA colaborará com os organismos de valorização regional e com os Estados, nos respectivos programas de migração por êles elaborados.
 
-<strong>Art</strong>. 9º Para assegurar a melhor estabilidade sócio-econômica aos núcleos coloniais, serão previstas, nos casos indicados, as várias formas de organização econômica do artesanato, com aproveitamento de matérias-primas regionais, cabendo ao INDA a orientação dos meios adequados ao beneficiamento daquelas matérias-primas, à seleção dos tipos e modelos e à forma de comercialização.
+**Art**. 9º Para assegurar a melhor estabilidade sócio-econômica aos núcleos coloniais, serão previstas, nos casos indicados, as várias formas de organização econômica do artesanato, com aproveitamento de matérias-primas regionais, cabendo ao INDA a orientação dos meios adequados ao beneficiamento daquelas matérias-primas, à seleção dos tipos e modelos e à forma de comercialização.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das Atividades de Cooperativismo</em>
+*Das Atividades de Cooperativismo*
 
-<strong>Art</strong>. 10. As Atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo do cooperativismo, visam à arregimentação dos lavradores e criadores para a constituição de cooperativas, sob tôdas as suas formas e modalidades, e cujas finalidades devem ser, em cada caso, adaptadas às peculiaridades sócio-econômicas das respectivas regiões.
+**Art**. 10. As Atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo do cooperativismo, visam à arregimentação dos lavradores e criadores para a constituição de cooperativas, sob tôdas as suas formas e modalidades, e cujas finalidades devem ser, em cada caso, adaptadas às peculiaridades sócio-econômicas das respectivas regiões.
 
 § 1º A assistência financeira será assegurada, preferencialmente, através das cooperativas, que deverão operar nas várias formas do crédito rural tecnifìcado, segundo os planos traçados pela Coordenação Nacional do Crédito Rural e dentro das normas fixadas nas leis e regulamentos em vigor.
 
-§ 2º O registro a que se refere a alínea <em>“b”</em> do § 2º do art. 2º, da competência do INDA, é obrigatório para tôdas as cooperativas, inclusive para aquelas que estão sujeitas a prévio exame de seus Estatutos por outras entidades especializadas, para fins de verificação do cumprimento de exigências específicas nos campos de suas atividades.
+§ 2º O registro a que se refere a alínea *“b”* do § 2º do art. 2º, da competência do INDA, é obrigatório para tôdas as cooperativas, inclusive para aquelas que estão sujeitas a prévio exame de seus Estatutos por outras entidades especializadas, para fins de verificação do cumprimento de exigências específicas nos campos de suas atividades.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Das Atividades de Extensão Rural</em>
+*Das Atividades de Extensão Rural*
 
-<strong>Art</strong>. 11. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo de extensão rural visam a mobilizar e a possibilitar a utilização, para o desenvolvimento rural, de todos os meios capazes de assegurar condições eficientes de trabalho e satisfatórias devida social e econômica.
+**Art**. 11. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo de extensão rural visam a mobilizar e a possibilitar a utilização, para o desenvolvimento rural, de todos os meios capazes de assegurar condições eficientes de trabalho e satisfatórias devida social e econômica.
 
-<strong>Art</strong>. 12. As funções de orientação, coordenação, planificação, normalizarão, execução e controle em relação à metodologia da extensão rural visam a estabelecer uma sistemática na difusão dos preceitos de sua aplicação, de modo a permitir a obtenção de um elevado rendimento nesse campo de atividades.
+**Art**. 12. As funções de orientação, coordenação, planificação, normalizarão, execução e controle em relação à metodologia da extensão rural visam a estabelecer uma sistemática na difusão dos preceitos de sua aplicação, de modo a permitir a obtenção de um elevado rendimento nesse campo de atividades.
 
-<strong>Art</strong>. 13. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo da assistência técnica e educacional serão exercidas, no INDA, dentro do objetivo geral de contribuir para a utilização racional da terra e para o aumento de produtividade agro-pecuária e, conseqüentemente, para a melhoria do padrão de vida nas comunidades rurais.
+**Art**. 13. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo da assistência técnica e educacional serão exercidas, no INDA, dentro do objetivo geral de contribuir para a utilização racional da terra e para o aumento de produtividade agro-pecuária e, conseqüentemente, para a melhoria do padrão de vida nas comunidades rurais.
 
-<strong>Art</strong>. 14. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo do associativismo serão exercidas, no INDA, dentro do objetivo geral de garantir a melhor fixação do homem à terra, pelo oferecimento de melhores condições de bem-estar e de vida  social e grupal, através de prática de atividades de grupos no meio social-rural e da arregimentação em associações e sindicatos rurais.
+**Art**. 14. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo do associativismo serão exercidas, no INDA, dentro do objetivo geral de garantir a melhor fixação do homem à terra, pelo oferecimento de melhores condições de bem-estar e de vida  social e grupal, através de prática de atividades de grupos no meio social-rural e da arregimentação em associações e sindicatos rurais.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atividades de Desenvolvimento Rural</em>
+*Das Atividades de Desenvolvimento Rural*
 
-<strong>Art</strong>. 15. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo do desenvolvimento rural serão exercidas, pelo INDA, com o objetivo geral de dar aplicação à política agrícola traçada para as várias regiões do zoneamento do país, visando à organização de comunidades rurais, por meio da difusão de processos técnicos e econômicos de racionalização das explorações agropecuárias.
+**Art**. 15. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo do desenvolvimento rural serão exercidas, pelo INDA, com o objetivo geral de dar aplicação à política agrícola traçada para as várias regiões do zoneamento do país, visando à organização de comunidades rurais, por meio da difusão de processos técnicos e econômicos de racionalização das explorações agropecuárias.
 
-<strong>Art</strong>. 16. As funções de orientação, coordenação, planificação, normalização, execução e contrôle no campo da eletrificação rural visam a promover a difusão da utilização da energia elétrica nos vários tipos de exploração agropecuária e industrial, especialmente através de cooperativas.
+**Art**. 16. As funções de orientação, coordenação, planificação, normalização, execução e contrôle no campo da eletrificação rural visam a promover a difusão da utilização da energia elétrica nos vários tipos de exploração agropecuária e industrial, especialmente através de cooperativas.
 
-<strong>Art</strong>. 17. As funções de orientação, coordenação, planificação, normalização, execução e contrôle no campo do desenvolvimento tecnológico visam à difusão das práticas conservacionistas do solo, à incentivação da industrialização, ao beneficiamento dos produtos agrícolas e ao emprêgo dos meios indispensáveis ao aumento da produtividade no setor agropecuário.
+**Art**. 17. As funções de orientação, coordenação, planificação, normalização, execução e contrôle no campo do desenvolvimento tecnológico visam à difusão das práticas conservacionistas do solo, à incentivação da industrialização, ao beneficiamento dos produtos agrícolas e ao emprêgo dos meios indispensáveis ao aumento da produtividade no setor agropecuário.
 
-<strong>Art</strong>. 18. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo da comercialização e revenda serão exercidas com o objetivo geral de facilitar aos lavradores e agricultores a obtenção, a preços módicos, de bens de produção e de insumos necessários às suas atividades rurais, bem como disponibilidades de meios de armazenamento e de transportes para o oportuno e econômico escoamento de suas safras.
+**Art**. 18. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo da comercialização e revenda serão exercidas com o objetivo geral de facilitar aos lavradores e agricultores a obtenção, a preços módicos, de bens de produção e de insumos necessários às suas atividades rurais, bem como disponibilidades de meios de armazenamento e de transportes para o oportuno e econômico escoamento de suas safras.
 
-<strong>Art</strong>. 19. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo da prestação de serviços nos têrmos do § 3º do art. 1º serão exercidas com o objetivo de prestar ao agricultor serviços de planejamento conservacionistas e de mecanização agrícola, de perfuração de poços e outros, necessários às adequadas conservação e exploração de solo.
+**Art**. 19. As atividades de orientação, coordenação, planificação, normalização, execução e contrôle no campo da prestação de serviços nos têrmos do § 3º do art. 1º serão exercidas com o objetivo de prestar ao agricultor serviços de planejamento conservacionistas e de mecanização agrícola, de perfuração de poços e outros, necessários às adequadas conservação e exploração de solo.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Atividades Auxiliares</em>
+*Das Atividades Auxiliares*
 
-<strong>Art</strong>. 20. As funções técnicas auxiliares referidas nas alíneas <em>“a”</em>, <em>“b”</em>, <em>“d”</em> e <em>“e”</em> do § 1º do art. 3º, relativa a levantamentos, planejamentos e métodos e processos de organização do trabalho, serão exercidas visando a facultar aos órgãos com funções substantivas os estudos, os dados, os índices e outros elementos indispensáveis à programação e à execução de suas atividades específicas.
+**Art**. 20. As funções técnicas auxiliares referidas nas alíneas *“a”*, *“b”*, *“d”* e *“e”* do § 1º do art. 3º, relativa a levantamentos, planejamentos e métodos e processos de organização do trabalho, serão exercidas visando a facultar aos órgãos com funções substantivas os estudos, os dados, os índices e outros elementos indispensáveis à programação e à execução de suas atividades específicas.
 
 Parágrafo único. Tais funções técnicas auxiliares serão executadas com a colaboração de especialistas nas respectivas atividades dos vários órgãos do INDA, os quais assessorarão os trabalhos a serem elaborados e sistematizados pelos planejadores e analistas incumbidos do preparo dos planos e dos atos normativos.
 
-<strong>Art</strong>. 21. As funções de formulação dos programas plurienais de ação para as atividades do INDA e dos respectivos orçamentos, referidos na alínea <em>“c”</em> do § 1º do art. 3º obedecerão a um processo harmônico de elaboração da sistemática financeira, definido em ato normativo próprio do Conselho Diretor do INDA, o qual fixará as fases de cada operação e os limites de autoridade e responsabilidade de cada setor hierárquico em cada uma daquelas fases e para cada tipo de operação das várias funções administrativas e técnicas.
+**Art**. 21. As funções de formulação dos programas plurienais de ação para as atividades do INDA e dos respectivos orçamentos, referidos na alínea *“c”* do § 1º do art. 3º obedecerão a um processo harmônico de elaboração da sistemática financeira, definido em ato normativo próprio do Conselho Diretor do INDA, o qual fixará as fases de cada operação e os limites de autoridade e responsabilidade de cada setor hierárquico em cada uma daquelas fases e para cada tipo de operação das várias funções administrativas e técnicas.
 
-<strong>Art</strong>. 22. As funções de estatística, de documentação e de divulgação referidas nas alíneas <em>“d”</em> e <em>“f”</em> do § 1º do art. 3º serão exercidas visando à coleta e à sistematização de dados e documentos informativos necessários aos órgãos do INDA, às análises para apuração de resultados e para determinação de índices indispensáveis ao julgamento do rendimento da administração nos vários setores, bem como à divulgação das atividades técnicas e administrativas do INDA.
+**Art**. 22. As funções de estatística, de documentação e de divulgação referidas nas alíneas *“d”* e *“f”* do § 1º do art. 3º serão exercidas visando à coleta e à sistematização de dados e documentos informativos necessários aos órgãos do INDA, às análises para apuração de resultados e para determinação de índices indispensáveis ao julgamento do rendimento da administração nos vários setores, bem como à divulgação das atividades técnicas e administrativas do INDA.
 
-<strong>Art</strong>. 23. As funções administrativas referidas na alínea <em>“a”</em> do § 2º do artigo 3º serão exercidas visando à manutenção das atividades-meio; de comunicações, compreendendo expediente, protocolo, arquivo e multigrafia; de zeladoria; de pessoal, compreendendo recrutamento, seleção, admissão, remuneração, movimentação, contrôle, dispensa, aperfeiçoamento e assistência patronal; de material, compreendendo a especificação, padronização, tipificação, aquisição, recepção, guarda, distribuição e contrôle; e de transportes, com veículos próprios ou de terceiros, sendo desincumbidas com a supervisão, normalização e contrôle dos órgãos centrais respectivos, porém com a execução descentralizada nos órgãos auxiliares dos órgãos centrais, regionais, zonais e locais, àqueles vinculados administrativamente nos têrmos do respectivo Regimento Interno.
+**Art**. 23. As funções administrativas referidas na alínea *“a”* do § 2º do artigo 3º serão exercidas visando à manutenção das atividades-meio; de comunicações, compreendendo expediente, protocolo, arquivo e multigrafia; de zeladoria; de pessoal, compreendendo recrutamento, seleção, admissão, remuneração, movimentação, contrôle, dispensa, aperfeiçoamento e assistência patronal; de material, compreendendo a especificação, padronização, tipificação, aquisição, recepção, guarda, distribuição e contrôle; e de transportes, com veículos próprios ou de terceiros, sendo desincumbidas com a supervisão, normalização e contrôle dos órgãos centrais respectivos, porém com a execução descentralizada nos órgãos auxiliares dos órgãos centrais, regionais, zonais e locais, àqueles vinculados administrativamente nos têrmos do respectivo Regimento Interno.
 
 Parágrafo único. Os problemas de administração do pessoal serão objeto de ato normativo próprio do Conselho Diretor, na forma dêste Regulamento, definindo direitos e obrigações e limites de autoridade e responsabilidade em cada setor hierárquico do INDA, com relação às questões específicas enumeradas neste artigo.
 
-<strong>Art</strong>. 24. As funções administrativas referidas na alínea “<em>b</em>” do § 2º do art. 3º serão exercidas, no INDA, visando ao registro dos atos e fatos da administração e ao acompanhamento da execução financeira do plano de ação e do respectivo orçamento, sendo desincumbidas com a supervisão, normalização e contrôle dos órgãos centrais respectivos, porém com a execução descentralizada em órgãos auxiliares dos demais órgãos centrais, regionais, zonais e locais do INDA, aquêles vinculados nos têrmos do respectivo Regimento Interno.
+**Art**. 24. As funções administrativas referidas na alínea “*b*” do § 2º do art. 3º serão exercidas, no INDA, visando ao registro dos atos e fatos da administração e ao acompanhamento da execução financeira do plano de ação e do respectivo orçamento, sendo desincumbidas com a supervisão, normalização e contrôle dos órgãos centrais respectivos, porém com a execução descentralizada em órgãos auxiliares dos demais órgãos centrais, regionais, zonais e locais do INDA, aquêles vinculados nos têrmos do respectivo Regimento Interno.
 
-<strong>Art</strong>. 25. As funções econômico-financeiras referidas nas alíneas “<em>a</em>” e “<em>d</em>” do § 3º do art. 3º serão exercidas, no INDA, visando ao contrôle e a administração dos bens patrimoniais do INDA, dos recebimentos e dos pagamentos, das arrecadações a êle devidas, e das operações de financiamento e crédito, sendo desicumbidas com a supervisão, normalização e contrôle dos órgãos centrais respectivos, porém com a execução descentralizada em órgãos auxiliares dos demais órgãos centrais, regionais, zonais e locais do INDA, àqueles vinculados nos têrmos do respectivo Regimento Interno.
+**Art**. 25. As funções econômico-financeiras referidas nas alíneas “*a*” e “*d*” do § 3º do art. 3º serão exercidas, no INDA, visando ao contrôle e a administração dos bens patrimoniais do INDA, dos recebimentos e dos pagamentos, das arrecadações a êle devidas, e das operações de financiamento e crédito, sendo desicumbidas com a supervisão, normalização e contrôle dos órgãos centrais respectivos, porém com a execução descentralizada em órgãos auxiliares dos demais órgãos centrais, regionais, zonais e locais do INDA, àqueles vinculados nos têrmos do respectivo Regimento Interno.
 
-<strong>Art</strong>. 26. As funções auxiliares complementares referidas nas alíneas “a”, “b” e “c” do § 4º do art. 3º serão exercidas, no INDA, visando a organizar e manter os serviços das bibliotecas central e departamentais e das respectivas documentações técnicas; os serviços de computação de dados, centrais e regionais; os estudos de mercado; e a execução das operações comerciais de compra, no país e no exterior, dos bens de produção e dos insumos necessários às atividades do INDA. Tais funções serão desincumbidas com a supervisão, normalização e contrôle dos órgãos centrais respectivos, porém com a execução descentralizada em órgãos auxiliares dos demais órgãos centrais, regionais, zonais e locais do IBRA, àqueles vinculados nos têrmos do respectivo Regimento Interno.
+**Art**. 26. As funções auxiliares complementares referidas nas alíneas “a”, “b” e “c” do § 4º do art. 3º serão exercidas, no INDA, visando a organizar e manter os serviços das bibliotecas central e departamentais e das respectivas documentações técnicas; os serviços de computação de dados, centrais e regionais; os estudos de mercado; e a execução das operações comerciais de compra, no país e no exterior, dos bens de produção e dos insumos necessários às atividades do INDA. Tais funções serão desincumbidas com a supervisão, normalização e contrôle dos órgãos centrais respectivos, porém com a execução descentralizada em órgãos auxiliares dos demais órgãos centrais, regionais, zonais e locais do IBRA, àqueles vinculados nos têrmos do respectivo Regimento Interno.
 
-<strong>Art</strong>. 27. As funções de articulação e supervisão dos órgãos regionais serão exercidas pelo Coordenador administrativo visando ao perfeito entrosamento das atividades do INDA, sendo executadas com a autoridade indispensável para dirimir conflitos jurisdicionais e para interpretar e resolver os casos omissos na regulamentação geral e na normalização específica.
+**Art**. 27. As funções de articulação e supervisão dos órgãos regionais serão exercidas pelo Coordenador administrativo visando ao perfeito entrosamento das atividades do INDA, sendo executadas com a autoridade indispensável para dirimir conflitos jurisdicionais e para interpretar e resolver os casos omissos na regulamentação geral e na normalização específica.
 
 Parágrafo único. As funções de coordenação, nos órgãos regionais e nos a êle vinculados, deverão constituir atribuições específicas dos Delegados Regionais, como auxiliares diretos da Presidência e da Coordenação Administrativa.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Organização e da Administração</em>
+*Da Organização e da Administração*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Estrutura Orgânica</em>
+*Da Estrutura Orgânica*
 
-<strong>Art</strong>. 28. A gestão das atividades do INDA, exercida pelo Conselho Diretor, através do seu Presidente, processar-se-á por deliberação e atuação dos seguintes órgãos:
+**Art**. 28. A gestão das atividades do INDA, exercida pelo Conselho Diretor, através do seu Presidente, processar-se-á por deliberação e atuação dos seguintes órgãos:
 
 I - Órgão Colegiado Diretor:
 
@@ -358,17 +356,17 @@ VI - Órgãos Zonais e Locais:
 
 § 6º Para a execução e contrôle de suas atividades administrativas cada órgão de 1º grau divisional disporá de uma seção de atividades administrativas auxiliares, órgão de 3º grau divisional incumbido dos assuntos relativos a comunicações, arquivo, pessoal e material, e, em certos casos, dos relativos a registros contábeis.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das Funções e Administrações dos Órgãos Centrais</em>
+*Das Funções e Administrações dos Órgãos Centrais*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Dos Órgãos de Administração Superior</em>
+*Dos Órgãos de Administração Superior*
 
-<strong>Art</strong>. 29. Nos têrmos da lei, é o Conselho Diretor o órgão de Administração Superior do INDA.
+**Art**. 29. Nos têrmos da lei, é o Conselho Diretor o órgão de Administração Superior do INDA.
 
-<strong>Art</strong>. 30. Ao Conselho Diretor, órgão colegiado superior de deliberação, cuja composição é definida no art. 74 do Estatuto da Terra, compete traçar as diretrizes e normas gerais de trabalho, exercendo a orientação, coordenação e contrôle das atividades do INDA e, especialmente:
+**Art**. 30. Ao Conselho Diretor, órgão colegiado superior de deliberação, cuja composição é definida no art. 74 do Estatuto da Terra, compete traçar as diretrizes e normas gerais de trabalho, exercendo a orientação, coordenação e contrôle das atividades do INDA e, especialmente:
 
 a) cumprir e fazer cumprir êste Regulamento e os Regimentos Internos, propondo quando oportuno, as modificações que se impuserem;
 
@@ -390,7 +388,7 @@ h) elaborar o Regimento Interno regulador de seu funcionamento.
 
 § 2º As reuniões do Conselho Diretor deverá comparecer o Coordenador Administrativo, que nelas terá direito a voz, mas não a voto.
 
-<strong>Art</strong>. 31. Ao Presidente, que integrará, também, a Comissão de Planejamento da Política Agrária, nomeado na forma do artigo 74 do Estatuto da Terra, compete:
+**Art**. 31. Ao Presidente, que integrará, também, a Comissão de Planejamento da Política Agrária, nomeado na forma do artigo 74 do Estatuto da Terra, compete:
 
 a) promover e zelar pelo fiel cumprimento do Estatuto da Terra, nas disposições referentes às atividades pertinentes ao INDA;
 
@@ -428,11 +426,11 @@ r) baixar atos atribuindo representação de Gabinete fixado pelo Conselho Diret
 
 s) autorizar despesas e propor, através do Ministro da Agricultura, a abertura de créditos suplementares, especiais e extraordinários.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Dos Órgãos Assistenciais e de Assessoramento ao Presidente</em>
+*Dos Órgãos Assistenciais e de Assessoramento ao Presidente*
 
-<strong>Art</strong>. 32. Ao Gabinete, órgão de 1º grau divisional, incumbido da assistência administrativa imediata ao Presidente, compete, entre outras, as seguintes atribuições:
+**Art**. 32. Ao Gabinete, órgão de 1º grau divisional, incumbido da assistência administrativa imediata ao Presidente, compete, entre outras, as seguintes atribuições:
 
 a) registro das providências e dos compromissos do Presidente;
 
@@ -456,7 +454,7 @@ i) preparo do expediente do Presidente.
 
 § 2º O Gabinete será estruturado sem que se atribuam, obrigatoriamente, chefias específicas aos seus grupamentos de atividades distintas.
 
-<strong>Art</strong>. 33. À Procuradoria Geral, órgão de 1º grau divisional incumbida da normalização, orientação, coordenação da execução e contrôle das atividades que visam à execução das funções de assistência jurídica e promoção de ações judiciais de interêsse do INDA, competem, entre outras, as seguintes atribuições, através da Assistência Jurídica e do Contencioso:
+**Art**. 33. À Procuradoria Geral, órgão de 1º grau divisional incumbida da normalização, orientação, coordenação da execução e contrôle das atividades que visam à execução das funções de assistência jurídica e promoção de ações judiciais de interêsse do INDA, competem, entre outras, as seguintes atribuições, através da Assistência Jurídica e do Contencioso:
 
 a) representação do INDA em juízo ou, por delegação expressa do Presidente, fora dêle;
 
@@ -472,7 +470,7 @@ f) manutenção atualizada da legislação, da jurisprudência e de documentaç�
 
 g) promoção da cobrança administrativa e judicial da Dívida Ativa do INDA.
 
-<strong>Art</strong>. 34. A Assessoria, conjunto de órgãos de 2º grau divisional, subdivide-se em agrupamentos de funções específicas, orientado, cada um dêles por especialistas, não havendo um responsável geral pelo conjunto de agrupamentos de funções sob essa designação.
+**Art**. 34. A Assessoria, conjunto de órgãos de 2º grau divisional, subdivide-se em agrupamentos de funções específicas, orientado, cada um dêles por especialistas, não havendo um responsável geral pelo conjunto de agrupamentos de funções sob essa designação.
 
 § 1º Os agrupamentos das funções específicas que constituem a Assessoria são os seguintes:
 
@@ -520,13 +518,13 @@ d) avaliações e medições de serviços, obras ou bens;
 
 e) realização de perícias e verificação em inventários de materiais, bem como dos estoques declarados pelos órgãos incumbidos da guarda de materiais.
 
-<strong>Art</strong>. 35. À Coordenação Administrativa, conjunto de órgãos de 1º e 2º grau divisionais, tem a seu cargo a orientação, coordenação, planificação, normalização, execução e contrôle das atividades gerais administrativa e financeiras, bem como das relativas aos planos de ações do INDA através dos órgãos centrais a ela subordinados e dos Órgãos Regionais.
+**Art**. 35. À Coordenação Administrativa, conjunto de órgãos de 1º e 2º grau divisionais, tem a seu cargo a orientação, coordenação, planificação, normalização, execução e contrôle das atividades gerais administrativa e financeiras, bem como das relativas aos planos de ações do INDA através dos órgãos centrais a ela subordinados e dos Órgãos Regionais.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Dos Órgãos da Coordenação Administrativa</em>
+*Dos Órgãos da Coordenação Administrativa*
 
-<strong>Art</strong>. 36. À Comissão de Compras, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições:
+**Art**. 36. À Comissão de Compras, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições:
 
 a) levantamento e investigação das fontes de suprimento de materiais, para organização dos cadastros de fornecedores e de mercadorias que interessem às atividades do INDA, e estudo das tendências dos respectivos mercados nacional e regionais;
 
@@ -542,7 +540,7 @@ f) fixação das condições, das análises e dos testes que devam ser realizado
 
 g) execução dos contrôles das aquisições e dos recebimentos de material.
 
-<strong>Art</strong>. 37. À Computação Eletrônica, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições:
+**Art**. 37. À Computação Eletrônica, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições:
 
 a) elaboração de normas, desenvolvimento de programas e execução ou supervisão de tôdas as fases dos trabalhos de processamento de dados em equipamento convencional e eletrônico;
 
@@ -556,7 +554,7 @@ e) coordenação dos serviços de emissão dos formulários de cobrança dos tri
 
 f) coordenação e contrôle mecanizado da arrecadação referida no item anterior.
 
-<strong>Art</strong>. 39. À Biblioteca, órgão de segundo grau divisional, competem, entre outras, as seguintes atribuições:
+**Art**. 39. À Biblioteca, órgão de segundo grau divisional, competem, entre outras, as seguintes atribuições:
 
 a) recebimento, conferência, classificação, codificação e registro centralizado de todos os livros, revistas, jornais e demais periódicos recebidos pelo INDA;
 
@@ -572,7 +570,7 @@ f) coleta e conservação de documentação bibliográfica, cartográfica e esta
 
 g) organização e manutenção atualizada de fichário de obras de intêresse para o INDA e existentes em quaisquer bibliotecas do país, mantendo, para isso, permuta de fichas bibliográficas.
 
-<strong>Art</strong>. 39. Pelos Serviços Gerais de Planejamento e Coordenação, órgão do 1º grau divisional, são, entre outras, desempenhadas as funções referidas no § 1º do art. 3º, através dos órgãos cujas atribuições são definidas nos parágrafos seguintes.
+**Art**. 39. Pelos Serviços Gerais de Planejamento e Coordenação, órgão do 1º grau divisional, são, entre outras, desempenhadas as funções referidas no § 1º do art. 3º, através dos órgãos cujas atribuições são definidas nos parágrafos seguintes.
 
 § 1º Ao Serviço de Pesquisas e Análises, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições:
 
@@ -644,7 +642,7 @@ j) realização de estudos visando à padronização de móveis, máquinas, equi
 
 l) prestação de assistência técnica nas implantações realizadas nos órgãos do INDA com o pessoal dêsses órgãos ou colaboração e fiscalização das procedidas por adjudicação a entidades especializadas.
 
-<strong>Art</strong>. 40. Pelos Serviços Gerais de Administração, órgão de 1º grau divisional, são, entre outras, desempenhadas as funções referidas no parágrafo 2º do art. 3º, através dos órgãos cujas atribuições são definidas nos parágrafos seguintes;
+**Art**. 40. Pelos Serviços Gerais de Administração, órgão de 1º grau divisional, são, entre outras, desempenhadas as funções referidas no parágrafo 2º do art. 3º, através dos órgãos cujas atribuições são definidas nos parágrafos seguintes;
 
 § 1º Ao Serviço de Comunicações e Multigrafia, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições:
 
@@ -752,7 +750,7 @@ e) elaboração de normas de contrôle das atividades destinadas aos transportes
 
 f) execução centralizada dos contrôles financeiros de tôdas as atividades de transporte realizadas nos vários órgãos do INDA.
 
-<strong>Art</strong>. 41. Pelos Serviços Gerais de Finanças, órgão de 1º grau divisional, são entre outras, desempenhadas as funções referidas no § 3º do art. 3º, através dos órgãos cujas atribuições são definidas nos parágrafos seguintes.
+**Art**. 41. Pelos Serviços Gerais de Finanças, órgão de 1º grau divisional, são entre outras, desempenhadas as funções referidas no § 3º do art. 3º, através dos órgãos cujas atribuições são definidas nos parágrafos seguintes.
 
 § 1º Ao Serviço do Patrimônio, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições:
 
@@ -806,13 +804,13 @@ d) centralização do contrôle da arrecadação de tôda a receita do INDA;
 
 e) organização e encaminhamento da documentação necessária ao preparo dos processos judiciais, para cobrança da Dívida Ativa.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Dos Órgãos Promotores da Execução</em>
+*Dos Órgãos Promotores da Execução*
 
-<strong>Art</strong>. 42. O Departamento de Colonização, órgão de 1º grau divisional, tem a seu cargo a coordenação, normalização e contrôle da execução das atividades gerais previas no § 1º do art. 2º através das Divisões cujas funções são definidas nos parágrafos seguintes.
+**Art**. 42. O Departamento de Colonização, órgão de 1º grau divisional, tem a seu cargo a coordenação, normalização e contrôle da execução das atividades gerais previas no § 1º do art. 2º através das Divisões cujas funções são definidas nos parágrafos seguintes.
 
-§ 1º À Divisão de Migrações, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições, na forma do disposto na alínea “<em>a</em>” do § 1º do art. 2º:
+§ 1º À Divisão de Migrações, órgão de 2º grau divisional, competem, entre outras, as seguintes atribuições, na forma do disposto na alínea “*a*” do § 1º do art. 2º:
 
 a) elaboração de normas para recrutamento e seleção de pessoas ou famílias, nos casos de migrações internas realizadas em convênio com o INDA, reunindo-as em núcleos agrícolas ou agro-industriais, podendo encarregar-se do seu transporte, hospedagem e encaminhamento até sua colocação e integração nos respectivos Núcleos de Colonização;
 
@@ -860,7 +858,7 @@ c) planificação de empreendimentos e atividades agrícolas nas áreas de atua�
 
 d) incentivo à organização econômica do artesanato no meio rural, com aproveitamento de matérias-primas e de recursos naturais da região.
 
-<strong>Art</strong>. 43. O Departamento de Cooperativismo e Extensão Rural, órgão de 1º grau divisional, tem a seu cargo a normalização, coordenação e contrôle da execução das atividades gerais previstas nos §§ 2º e 3º do artigo 2º, através das Divisões cujas funções são definidas nos parágrafos seguintes.
+**Art**. 43. O Departamento de Cooperativismo e Extensão Rural, órgão de 1º grau divisional, tem a seu cargo a normalização, coordenação e contrôle da execução das atividades gerais previstas nos §§ 2º e 3º do artigo 2º, através das Divisões cujas funções são definidas nos parágrafos seguintes.
 
 § 1º À Divisão de Cooperativismo, órgão de 2º grau divisional competem, entre outras, as seguintes atribuições:
 
@@ -934,7 +932,7 @@ c) promoção de medidas visando à harmonização das atividades sindicais supe
 
 d) manutenção do cadastro das Associações Rurais e dos Sindicatos Rurais.
 
-<strong>Art</strong>. 44. O Departamento de Desenvolvimento Rural, órgão de 1º grau divisional, tem a seu cargo a coordenação, normalização e contrôle da execução das atividades gerais previstas no § 4º do art. 2º, através das Divisões cujas funções são definidas nos parágrafos seguintes.
+**Art**. 44. O Departamento de Desenvolvimento Rural, órgão de 1º grau divisional, tem a seu cargo a coordenação, normalização e contrôle da execução das atividades gerais previstas no § 4º do art. 2º, através das Divisões cujas funções são definidas nos parágrafos seguintes.
 
 § 1º À Divisão de Organização e Desenvolvimento de Comunidades, órgão de 2º grau divisional competem, entre outras, as seguintes atribuições:
 
@@ -1034,19 +1032,19 @@ h) elaboração de normas e promoção de prestação de serviços para os traba
 
 i) elaboração de normas, em colaboração com o Banco Nacional de Habitação para facilitar a aquisição de casa própria no meio rural.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Patrimônio e da Assistência Financeira</em>
+*Do Patrimônio e da Assistência Financeira*
 
-<strong>Art</strong>. 45. O patrimônio do INDA será constituído:
+**Art**. 45. O patrimônio do INDA será constituído:
 
 I - dos bens transferidos ou incorporados ao INDA, por fôrça dos artigos 114 a 116 do Estatuto da Terra;
 
 II - do produto das arrecadações previstas na legislação própria.
 
-<strong>Art</strong>. 46. O patrimônio do INDA é destinado a fornecer meios necessários ao financiamento dos seus planos de ação, bem como a complementar os recursos orçamentários para a manutenção do funcionamento dos seus órgãos.
+**Art**. 46. O patrimônio do INDA é destinado a fornecer meios necessários ao financiamento dos seus planos de ação, bem como a complementar os recursos orçamentários para a manutenção do funcionamento dos seus órgãos.
 
-<strong>Art</strong>. 47. O Conselho Diretor do INDA baixará ato normativo próprio fixando a sistemática dos assuntos financeiros e estabelecendo as normas e os princípios gerais a serem observados nas funções dessa natureza exercidas nos vários órgãos do INDA, nas fases:
+**Art**. 47. O Conselho Diretor do INDA baixará ato normativo próprio fixando a sistemática dos assuntos financeiros e estabelecendo as normas e os princípios gerais a serem observados nas funções dessa natureza exercidas nos vários órgãos do INDA, nas fases:
 
 a) de previsão, para a formulação das propostas orçamentárias;
 
@@ -1056,21 +1054,21 @@ c) de realizações, compreendendo a efetivação das arrecadações e dos pagam
 
 d) de fiscalização e contrôle orçamentários.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das funções e atribuições dos Órgãos Regionais, Zonais e Locais</em>
+*Das funções e atribuições dos Órgãos Regionais, Zonais e Locais*
 
-<strong>Art</strong>. 48. As Delegacias Regionais, órgãos de 1º grau divisional, cujas atividades visam à integração executiva zonal e local de todos os órgãos centrais do INDA, são órgãos executores da política de desenvolvimento rural nos campos das atribuições conferidas, a essa autarquia, pelo Estatuto da Terra.
+**Art**. 48. As Delegacias Regionais, órgãos de 1º grau divisional, cujas atividades visam à integração executiva zonal e local de todos os órgãos centrais do INDA, são órgãos executores da política de desenvolvimento rural nos campos das atribuições conferidas, a essa autarquia, pelo Estatuto da Terra.
 
 Parágrafo único. Aos Delegados Regionais caberá a supervisão e a coordenação de tôdas as atividades desempenhadas na área de jurisdição da respectiva Delegacia, através dos seus próprios órgãos ou dos órgãos a ela vinculados.
 
-<strong>Art</strong>. 49. Os Órgãos Executivos, Zonais e Locais, previstos no inciso VII do art. 27, serão criados em função das necessidades de ordem administrativa, técnica ou econômica do INDA, nas áreas das diversas Delegacias, na forma indicada nos respectivos Regimentos Internos, que estabelecerão o seu grau divisional, suas vinculações, condições para sua implantação, suas atribuições e princípios do seu funcionamento.
+**Art**. 49. Os Órgãos Executivos, Zonais e Locais, previstos no inciso VII do art. 27, serão criados em função das necessidades de ordem administrativa, técnica ou econômica do INDA, nas áreas das diversas Delegacias, na forma indicada nos respectivos Regimentos Internos, que estabelecerão o seu grau divisional, suas vinculações, condições para sua implantação, suas atribuições e princípios do seu funcionamento.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da nomenclatura dos órgãos e dos dirigentes</em>
+*Da nomenclatura dos órgãos e dos dirigentes*
 
-<strong>Art</strong>. 50. Os órgãos do INDA, dos diferentes graus divisionais indicadores do nível hierárquico que lhes é conferido na sua estrutura, os criados por lei e por ela definidos em sentido geral, os criados neste Regulamento e os que venham a ser criados nos Regimentos Internos, bem Como os respectivos dirigentes, obedecerão à nomenclatura fixada nos parágrafos seguintes:
+**Art**. 50. Os órgãos do INDA, dos diferentes graus divisionais indicadores do nível hierárquico que lhes é conferido na sua estrutura, os criados por lei e por ela definidos em sentido geral, os criados neste Regulamento e os que venham a ser criados nos Regimentos Internos, bem Como os respectivos dirigentes, obedecerão à nomenclatura fixada nos parágrafos seguintes:
 
 § 1º O Gabinete é um órgão de assistência geral do Presidente, encarregado da coordenação e distribuição de cargos a órgãos do INDA, dirigido por Chefe de livre escolha e designação, em comissão, pelo Presidente.
 
@@ -1096,37 +1094,37 @@ Parágrafo único. Aos Delegados Regionais caberá a supervisão e a coordenaç�
 
 § 12. A posse dos dirigentes dos órgãos de 1º grau divisional ou de coordenadores dêstes será dada pelo Presidente do INDA, e a dos Chefes dos demais órgãos, pelo Coordenador Administrativo.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Dos Atos Normativos</em>
+*Dos Atos Normativos*
 
-<strong>Art</strong>. 51. Além das Leis e dos Decretos dos Podêres Legislativo e Executivo do Govêrno Federal, são atos normativos para regulamentação das atividades a serem exercidas pelo INDA os definidos nos artigos seguintes.
+**Art**. 51. Além das Leis e dos Decretos dos Podêres Legislativo e Executivo do Govêrno Federal, são atos normativos para regulamentação das atividades a serem exercidas pelo INDA os definidos nos artigos seguintes.
 
-<strong>Art</strong>. 52. O Regulamento Geral será elaborado por técnicos especializados, aprovado pelo Ministro da Agricultura, baixado ou alterado por decreto do Presidente da República, e fixará, essencialmente, as linhas e os preceitos gerais do funcionamento das atividades decorrentes das finalidades primordiais do INDA; os princípios básicos das vinculações dos órgãos; a estruturação, funções e atribuições dos órgãos centrais de 1º e 2º graus divisionais; a forma geral de regionalização das atividades; a nomenclatura dos órgãos e dos seus dirigentes; e a classificação e condições de elaboração, aprovação e expedição dos atos normativos.
+**Art**. 52. O Regulamento Geral será elaborado por técnicos especializados, aprovado pelo Ministro da Agricultura, baixado ou alterado por decreto do Presidente da República, e fixará, essencialmente, as linhas e os preceitos gerais do funcionamento das atividades decorrentes das finalidades primordiais do INDA; os princípios básicos das vinculações dos órgãos; a estruturação, funções e atribuições dos órgãos centrais de 1º e 2º graus divisionais; a forma geral de regionalização das atividades; a nomenclatura dos órgãos e dos seus dirigentes; e a classificação e condições de elaboração, aprovação e expedição dos atos normativos.
 
-<strong>Art</strong>. 53. Os Regimentos Internos serão elaborados pelos órgãos centrais de 1º grau divisional, com a colaboração de técnicos especializados, aprovados pelo Ministro da Agricultura e baixados pelo Conselho Diretor do INDA, e deverão estabelecer as linhas gerais, os preceitos e as normas de funcionamento das principais atribuições de cada órgão componente, sendo fixadas a estrutura, funções, atribuições, articulações e vinculações dos órgãos até o 3º grau divisional, e indicados os tipos, denominações, natureza de atividades e principais de funcionamento dos órgãos zonais e locais vinculados, e, ainda, as condições de implantação dos órgãos.
+**Art**. 53. Os Regimentos Internos serão elaborados pelos órgãos centrais de 1º grau divisional, com a colaboração de técnicos especializados, aprovados pelo Ministro da Agricultura e baixados pelo Conselho Diretor do INDA, e deverão estabelecer as linhas gerais, os preceitos e as normas de funcionamento das principais atribuições de cada órgão componente, sendo fixadas a estrutura, funções, atribuições, articulações e vinculações dos órgãos até o 3º grau divisional, e indicados os tipos, denominações, natureza de atividades e principais de funcionamento dos órgãos zonais e locais vinculados, e, ainda, as condições de implantação dos órgãos.
 
-<strong>Art</strong>. 54. As Deliberações serão elaboradas pelos relatores do Conselho Diretor, aprovadas por maioria dos seus membros, na forma do respectivo Regimento Interno, baixadas pelo Conselho Diretor e expedidas pelo seu Presidente, de acordo com os podêres fixados em Leis, Decretos e neste Regulamento, visando a consubstanciar as medidas decretadas por aquêle órgão colegiado, observados os limites de suas atribuições.
+**Art**. 54. As Deliberações serão elaboradas pelos relatores do Conselho Diretor, aprovadas por maioria dos seus membros, na forma do respectivo Regimento Interno, baixadas pelo Conselho Diretor e expedidas pelo seu Presidente, de acordo com os podêres fixados em Leis, Decretos e neste Regulamento, visando a consubstanciar as medidas decretadas por aquêle órgão colegiado, observados os limites de suas atribuições.
 
-<strong>Art</strong>. 55. As Instruções Especiais serão elaboradas por especialistas nas matérias nelas tratadas, submetidas à aprovação prévia do Ministro da Agricultura, e baixadas e expedidas pelo Presidente do INDA, para fixar critérios, preceitos e normas gerais de funcionamento que estabeleçam obrigações e atinjam interesses de entidades não subordinadas diretamente ao INDA.
+**Art**. 55. As Instruções Especiais serão elaboradas por especialistas nas matérias nelas tratadas, submetidas à aprovação prévia do Ministro da Agricultura, e baixadas e expedidas pelo Presidente do INDA, para fixar critérios, preceitos e normas gerais de funcionamento que estabeleçam obrigações e atinjam interesses de entidades não subordinadas diretamente ao INDA.
 
-<strong>Art</strong>. 56. As Instruções serão elaboradas pelos relatores do Conselho Diretor, aprovadas por maioria dos seus membros e baixadas pelo Presidente, de acordo com os podêres fixados em Leis e Decretos e neste Regulamento, e visam a consubstanciar critérios, preceitos e normas gerais de funcionamento que atinjam um ou mais órgãos centrais, regionais, zonais ou locais.
+**Art**. 56. As Instruções serão elaboradas pelos relatores do Conselho Diretor, aprovadas por maioria dos seus membros e baixadas pelo Presidente, de acordo com os podêres fixados em Leis e Decretos e neste Regulamento, e visam a consubstanciar critérios, preceitos e normas gerais de funcionamento que atinjam um ou mais órgãos centrais, regionais, zonais ou locais.
 
-<strong>Art</strong>. 57. As Portarias serão elaboradas pelo órgão central incumbido das funções relativas à matéria nelas tratada, aprovadas, baixadas e expedidas pelo Presidente, para determinar o cumprimento de medidas gerais de ordem técnica e administrativa da alçada exclusiva do Presidente, ou, ainda, para homologando medidas consubstanciadas em atos normativos de hierarquia superior, transformá-las em dispositivos reguladores do INDA.
+**Art**. 57. As Portarias serão elaboradas pelo órgão central incumbido das funções relativas à matéria nelas tratada, aprovadas, baixadas e expedidas pelo Presidente, para determinar o cumprimento de medidas gerais de ordem técnica e administrativa da alçada exclusiva do Presidente, ou, ainda, para homologando medidas consubstanciadas em atos normativos de hierarquia superior, transformá-las em dispositivos reguladores do INDA.
 
-<strong>Art</strong>. 58. As Normas são atos aprovados, baixados e expedidos pelos Chefes dos Órgãos Centrais de 1º grau divisional, para regulamentar, de forma normal e contínua, a execução técnica e administrativa dos serviços, atividades ou tarefas já estabelecidas, em sua linhas gerais, por atos de hierarquia superior, sendo incumbido de sua elaboração o órgão próprio ou especialista nos assuntos nelas tratados.
+**Art**. 58. As Normas são atos aprovados, baixados e expedidos pelos Chefes dos Órgãos Centrais de 1º grau divisional, para regulamentar, de forma normal e contínua, a execução técnica e administrativa dos serviços, atividades ou tarefas já estabelecidas, em sua linhas gerais, por atos de hierarquia superior, sendo incumbido de sua elaboração o órgão próprio ou especialista nos assuntos nelas tratados.
 
-<strong>Art</strong>. 59. As Ordens de Serviços serão elaboradas, aprovadas, baixadas e expedidas por todos os Chefes de Órgãos de 1º, 2º e 3º graus divisionais, para determinar, em casos específicos, a execução, no todo ou em parte, de tarefas afetas aos respectivos órgãos, dentro dos dispositivos normativos em vigor.
+**Art**. 59. As Ordens de Serviços serão elaboradas, aprovadas, baixadas e expedidas por todos os Chefes de Órgãos de 1º, 2º e 3º graus divisionais, para determinar, em casos específicos, a execução, no todo ou em parte, de tarefas afetas aos respectivos órgãos, dentro dos dispositivos normativos em vigor.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das Disposições Gerais e das Disposições Transitórias</em>
+*Das Disposições Gerais e das Disposições Transitórias*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 60. Além do pessoal transferido para o seu quadro em virtude do disposto no art. 104 e seus parágrafos e do inciso VI do art. 74 do Estatuto da Terra, o INDA poderá admitir, dentro dos recursos e dotações orçamentárias próprias:
+**Art**. 60. Além do pessoal transferido para o seu quadro em virtude do disposto no art. 104 e seus parágrafos e do inciso VI do art. 74 do Estatuto da Terra, o INDA poderá admitir, dentro dos recursos e dotações orçamentárias próprias:
 
 I - especialistas necessários ao desempenho de atividades técnicas e científicas, para cuja execução não dispuser de servidores habitados, admitidos mediante portaria ou contrato, em regime especial de trabalho e salário;
 
@@ -1136,57 +1134,57 @@ III - pessoal de obras destinado à execução de trabalho de qualquer natureza 
 
 Parágrafo único. A prestação de serviço de natureza eventual não caracterizará relação de emprêgo e será retribuída mediante recibo.
 
-<strong>Art</strong>. 61. A lotação numérica do pessoal de cada órgão do INDA será fixada em atos normativos aprovados pela Diretoria, e far-se-á em face das necessidades impostas pelas condições vigentes de desenvolvimento das atividades, e de conformidade com os planos de implantação aprovados, para efeito da elaboração do respectivo quadro, a ser baixado por decreto do Poder Executivo.
+**Art**. 61. A lotação numérica do pessoal de cada órgão do INDA será fixada em atos normativos aprovados pela Diretoria, e far-se-á em face das necessidades impostas pelas condições vigentes de desenvolvimento das atividades, e de conformidade com os planos de implantação aprovados, para efeito da elaboração do respectivo quadro, a ser baixado por decreto do Poder Executivo.
 
 Parágrafo único. Os critérios para fixação da lotação numérica levarão em conta a natureza das atividades, o volume de serviço, a espécie das tarefas e os equipamentos disponíveis.
 
-<strong>Art</strong>. 62. A tabela do pessoal temporário será anualmente publicada no <em>Diário Oficial</em>.
+**Art**. 62. A tabela do pessoal temporário será anualmente publicada no *Diário Oficial*.
 
-<strong>Art</strong>. 63. O pessoal temporário e o pessoal de obras ficarão sujeitos ao regime previsto na Consolidação das Leis do Trabalho e na legislação vigente peculiar àquele regime de emprêgo.
+**Art**. 63. O pessoal temporário e o pessoal de obras ficarão sujeitos ao regime previsto na Consolidação das Leis do Trabalho e na legislação vigente peculiar àquele regime de emprêgo.
 
-<strong>Art</strong>. 64. Nenhuma admissão de pessoal poderá ser efetuada senão mediante prestação de concurso de provas ou títulos e provas, excetuando-se as previstas nos incisos I, II e III do artigo 60, sendo que as realizadas na forma dos incisos II e III dependerão de prestação de provas de habilitação ou de capacitação.
+**Art**. 64. Nenhuma admissão de pessoal poderá ser efetuada senão mediante prestação de concurso de provas ou títulos e provas, excetuando-se as previstas nos incisos I, II e III do artigo 60, sendo que as realizadas na forma dos incisos II e III dependerão de prestação de provas de habilitação ou de capacitação.
 
-<strong>Art</strong>. 65. Os salários do pessoal de que trata o art. 63 não excederão o vencimento inicial do nível correspondente à classe ou séries de classes que tenham encargos e obrigações semelhantes ou equivalentes.
+**Art**. 65. Os salários do pessoal de que trata o art. 63 não excederão o vencimento inicial do nível correspondente à classe ou séries de classes que tenham encargos e obrigações semelhantes ou equivalentes.
 
 § 1º Respeitada esta limitação, o salário do pessoal de que trata o artigo 63 deverá enquadrar-se dentro das condições regionais do mercado de trabalho e, na sua fixação, serão considerados os encargos e obrigações a desempenhar.
 
 § 2º A retribuição ao pessoal especializado será estabelecida de acordo com o valor atribuído, no mercado de trabalho, ao tipo de atividade a ser desempenhada, podendo, a juízo da Administração, ser concedido um acréscimo de salário, pela dedicação exclusiva, até o máximo atribuído aos funcionários do Serviço Civil do Poder Executivo, obedecidas as exigências legais.
 
-<strong>Art</strong>. 66. Ao pessoal de obras não serão concedidas quaisquer gratificações, percentagens ou comissões, além do salário previsto na tabela.
+**Art**. 66. Ao pessoal de obras não serão concedidas quaisquer gratificações, percentagens ou comissões, além do salário previsto na tabela.
 
-<strong>Art</strong>. 67. A remuneração do Presidente do INDA corresponderá a 75 por cento da que percebam os Ministros de Estado, tendo em vista o critério estabelecido no § 1º do artigo 38 do Estatuto da Terra.
+**Art**. 67. A remuneração do Presidente do INDA corresponderá a 75 por cento da que percebam os Ministros de Estado, tendo em vista o critério estabelecido no § 1º do artigo 38 do Estatuto da Terra.
 
 Parágrafo único. Os membros componentes do Conselho Diretor do INDA e o Coordenador Administrativo terão remuneração correspondente a 65 por cento da que percebem os Ministros de Estado.
 
-<strong>Art</strong>. 68. Os membros do órgão colegiado do INDA previstos no artigo 38 farão jus a uma gratificação, de acordo com as normas estabelecidas no Decreto nº 55.090, de 28 de novembro de 1964.
+**Art**. 68. Os membros do órgão colegiado do INDA previstos no artigo 38 farão jus a uma gratificação, de acordo com as normas estabelecidas no Decreto nº 55.090, de 28 de novembro de 1964.
 
 Parágrafo único. O número de reuniões ordinárias e extraordinárias da Diretoria e do Conselho Diretor será, no mínimo, de duas e, no máximo, de oito mensalmente, e a gratificação prevista neste artigo será de 30 % do maior salário-mínimo legal vigente, por sessão.
 
-<strong>Art</strong>. 69. Serão atribuídos, aos demais ocupantes de cargos em comissão, dirigentes dos órgãos definidos neste Regulamento, como de 1º e 2º graus divisionais, os símbolos 1-C e 2-C, respectivamente.
+**Art**. 69. Serão atribuídos, aos demais ocupantes de cargos em comissão, dirigentes dos órgãos definidos neste Regulamento, como de 1º e 2º graus divisionais, os símbolos 1-C e 2-C, respectivamente.
 
 § 1º Para atender aos encargos de chefia dos órgãos de 3º e 4º graus divisionais, serão atribuídas funções gratificadas, de acôrdo com o que determinem os respectivos Regimentos Internos, e tendo em vista a legislação em vigor.
 
 § 2º A remuneração a ser atribuída aos Assessores e Auditores será fixada de acordo com o que estabelece o § 2º do artigo 65.
 
-<strong>Art</strong>. 70. O disposto neste Decreto não se aplica aos ocupantes de cargos ou funções que estejam em exercício nos órgãos incorporados em virtude de requisição, bem como dos funcionários civis ou militares assim definidos pela legislação específica.
+**Art**. 70. O disposto neste Decreto não se aplica aos ocupantes de cargos ou funções que estejam em exercício nos órgãos incorporados em virtude de requisição, bem como dos funcionários civis ou militares assim definidos pela legislação específica.
 
 Parágrafo único. O INDA poderá requisitar servidores da administração centralizada ou descentralizada, sem prejuízo dos vencimentos, direitos e vantagens de acôrdo com o disposto no § 3º do art. 104 do Estatuto da Terra e nos têrmos da legislação em vigor.
 
-<strong>Art</strong>. 71. Os deveres e responsabilidades gerais dos dirigentes referidos no Capítulo V do Título III, bem como o âmbito de sua autoridade e competência, serão fixados em atos normativos próprios da alçada do Conselho Diretor e de acôrdo com o determinado no parágrafo único do artigo 23, observados, no que couber, os preceitos já estabelecidos no Estatuto dos Funcionários Públicos Civis da União.
+**Art**. 71. Os deveres e responsabilidades gerais dos dirigentes referidos no Capítulo V do Título III, bem como o âmbito de sua autoridade e competência, serão fixados em atos normativos próprios da alçada do Conselho Diretor e de acôrdo com o determinado no parágrafo único do artigo 23, observados, no que couber, os preceitos já estabelecidos no Estatuto dos Funcionários Públicos Civis da União.
 
-<strong>Art</strong>. 72. Os órgãos de 3º grau divisional e suas subdivisões, que fôrem criados pelos Regimentos Internos, poderão ser aglutinados temporàriamente, e mantidos sob uma única chefia, enquanto a complexidade e o vulto dos serviços, nos diferentes estágios de desenvolvimento do INDA, não indicarem a necessidade do seu imediato desmembramento.
+**Art**. 72. Os órgãos de 3º grau divisional e suas subdivisões, que fôrem criados pelos Regimentos Internos, poderão ser aglutinados temporàriamente, e mantidos sob uma única chefia, enquanto a complexidade e o vulto dos serviços, nos diferentes estágios de desenvolvimento do INDA, não indicarem a necessidade do seu imediato desmembramento.
 
-<strong>Art</strong>. 73. Além das relações explìcitamente referidas neste Regulamento, e que serão mantidas entre os órgãos centrais do INDA e os órgãos regionais, zonais e locais a êles vinculados, poderão, ainda, ser estabelecidas relações gerais de colaboração e de cooperação com outras entidades públicas ou privadas, nacionais ou estrangeiras, desde que reguladas em atos normativos da alçada do Presidente, que determinará a forma de sua realização, bem como a natureza da delegação conferida para mantê-las.
+**Art**. 73. Além das relações explìcitamente referidas neste Regulamento, e que serão mantidas entre os órgãos centrais do INDA e os órgãos regionais, zonais e locais a êles vinculados, poderão, ainda, ser estabelecidas relações gerais de colaboração e de cooperação com outras entidades públicas ou privadas, nacionais ou estrangeiras, desde que reguladas em atos normativos da alçada do Presidente, que determinará a forma de sua realização, bem como a natureza da delegação conferida para mantê-las.
 
 Parágrafo único. A troca de informações técnicas e de dados estatísticos dos órgãos do INDA entre si e com entidades particulares ou públicas, federais, estaduais e municipais, poderá ser mantida independentemente de autorizações especiais do Presidente do INDA.
 
-<strong>Art</strong>. 74. Os casos omissos neste Regulamento serão submetidos, pelo Presidente do INDA, ouvida prèviamente o Conselho Diretor, ao julgamento do Ministro da Agricultura, que indicará as medidas para regulá-los.
+**Art**. 74. Os casos omissos neste Regulamento serão submetidos, pelo Presidente do INDA, ouvida prèviamente o Conselho Diretor, ao julgamento do Ministro da Agricultura, que indicará as medidas para regulá-los.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das Disposições Transitórias</em>
+*Das Disposições Transitórias*
 
-<strong>Art</strong>. 75. Os servidores da Superintendência da Política Agrária - (SUPRA) provenientes dos quadros do extinto Instituto Nacional de Imigração e Colonização (INIC) e do Serviço Social Rural (SSR) poderão optar por sua lotação em qualquer órgão da administração centralizada ou descentralizada onde existam cargos ou funções iguais aos por êles ocupados.
+**Art**. 75. Os servidores da Superintendência da Política Agrária - (SUPRA) provenientes dos quadros do extinto Instituto Nacional de Imigração e Colonização (INIC) e do Serviço Social Rural (SSR) poderão optar por sua lotação em qualquer órgão da administração centralizada ou descentralizada onde existam cargos ou funções iguais aos por êles ocupados.
 
 § 1º Fica prorrogado por sessenta dias a partir de 29 de março do corrente ano, o prazo previsto no parágrafo 2º do artigo 5º, do Decreto número 55.286, de 24 de dezembro de 1964, que trata do processamento relativo à opção prevista nos § 5º do artigo 104 do Estatuto da Terra.
 
@@ -1194,14 +1192,14 @@ Parágrafo único. A troca de informações técnicas e de dados estatísticos d
 
 § 3º Decorrido o prazo previsto no § 1º dêste artigo, sem manifestação do interessado, o silêncio valerá por opção tácita pela permanência nos quadros de pessoal do IBRA ou do INDA, processando-se a lotação de acôrdo com o sistema de organização e funcionamento fixado nos regulamentos de cada uma dessas autarquias, tendo em vista o disposto nos art. 104 e seus parágrafos e o que prescreve o inciso VI do art. 74, do Estatuto da Terra.
 
-<strong>Art</strong>. 76. Até que haja baixado, por decreto do Poder Executivo, o quadro de pessoal do INDA, ficam criados 4 cargos em comissão 1-C e 24 cargos em comissão 2-C, de acôrdo com o art. 56 da Lei nº 3.780, de 12 de julho de 1960, para atender às chefias de órgãos de 1º e 2º graus divisionais criados neste Regulamento.
+**Art**. 76. Até que haja baixado, por decreto do Poder Executivo, o quadro de pessoal do INDA, ficam criados 4 cargos em comissão 1-C e 24 cargos em comissão 2-C, de acôrdo com o art. 56 da Lei nº 3.780, de 12 de julho de 1960, para atender às chefias de órgãos de 1º e 2º graus divisionais criados neste Regulamento.
 
 § 1º Ficam mantidos os quantitativos dos cargos em comissão, das funções gratificadas, das representações de gabinete e os cargos de Procuradores previstos para as antigas estruturas orgânicas do INIC e do SSR, ou posteriormente criados, de acôrdo com o art. 116 do Estatuto da Terra.
 
 § 2º Tendo em vista o disposto neste artigo e no seu § 1º, a nomenclatura dos cargos em comissão e das funções gratificadas será a adotada neste Regulamento.
 
-<strong>Art</strong>. 77. Ficam mantidas as delegacias Regionais da extinta SUPRA que, após a vigência do Estatuto da Terra, foram vinculadas ao INDA, até que seja criada, em cada unidade da Federação, a Delegacia prevista neste Regulamento e na forma do § 1º do art. 28.
+**Art**. 77. Ficam mantidas as delegacias Regionais da extinta SUPRA que, após a vigência do Estatuto da Terra, foram vinculadas ao INDA, até que seja criada, em cada unidade da Federação, a Delegacia prevista neste Regulamento e na forma do § 1º do art. 28.
 
-<strong>Art</strong>. 78. A regulamentação complementar das atividades do INDA que decorra de dispositivos legais contidos no Estatuto da Terra ou de normas gerais traçadas neste Regulamento, será elaborada, até à implantação final dos órgãos centrais do INDA, pelo Grupo de Trabalho - GRET - criado por imposição do Decreto nº 55.286, de 24 de dezembro de 1964.
+**Art**. 78. A regulamentação complementar das atividades do INDA que decorra de dispositivos legais contidos no Estatuto da Terra ou de normas gerais traçadas neste Regulamento, será elaborada, até à implantação final dos órgãos centrais do INDA, pelo Grupo de Trabalho - GRET - criado por imposição do Decreto nº 55.286, de 24 de dezembro de 1964.
 
-<strong>Art</strong>. 79. A implantação dos órgãos centrais, regionais, zonais e locais, obedecerá a métodos, processos e rotinas traçados pelo Grupo de Trabalho referido no artigo anterior, e será executada com a colaboração dos órgãos e serviços do INDA que já estiverem implantados.
+**Art**. 79. A implantação dos órgãos centrais, regionais, zonais e locais, obedecerá a métodos, processos e rotinas traçados pelo Grupo de Trabalho referido no artigo anterior, e será executada com a colaboração dos órgãos e serviços do INDA que já estiverem implantados.

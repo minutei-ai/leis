@@ -1,5 +1,3 @@
-###DEC-075711-0-000-09-05-1975@@@
-
 DECRETO Nº 75.711, DE 9 DE MAIO DE 1975.
 
 Autoriza o funcionamento dos cursos de História e de Geografia da Faculdade de Fisiologia, Ciências e Letras de Cajazeiras, mantida pela Fundação de Ensino Superior de Cajazeiras, no Estado da Paraíba.

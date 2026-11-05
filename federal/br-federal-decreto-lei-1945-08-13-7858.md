@@ -1,5 +1,3 @@
-###DEL-007858-0-000-13-08-1945@@@
-
 DECRETO-LEI N. 7.858 – DE 13 DE AGÔSTO DE 1945
 
 Dispõe sôbre a remuneração mínima dos que exercem a atividade de Revisor e dá outras providências.

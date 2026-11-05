@@ -1,5 +1,3 @@
-###DEC-048225-0-000-13-05-1960@@@
-
 DECRETO Nº 48.225, DE 13 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Laert de Freitas a pesquisar mica no município de Santa Maria do Suaçuí, Estado de Minas Gerais.

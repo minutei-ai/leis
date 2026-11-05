@@ -1,5 +1,3 @@
-###DEC-067730-0-000-08-12-1970@@@
-
 Decreto nº 67.730, de 8 de Dezembro de 1970.
 
 Concede reconhecimento a Cursos da Escola de Engenharia da Universidade Federal do Paraná.

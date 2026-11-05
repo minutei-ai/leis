@@ -1,5 +1,3 @@
-###DEC-005199-0-000-30-08-2004@@@
-
 DECRETO Nº 5.199 DE 30 DE AGOSTO DE 2004
 
 Regulamenta a Lei nº 10.748, de 22 de outubro de 2003, que cria o Programa Nacional de Estímulo ao Primeiro Emprego para os Jovens \- PNPE, e dá outras providências.

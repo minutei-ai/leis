@@ -1,5 +1,3 @@
-###DEC-053277-0-000-13-12-1963@@@
-
 DECRETO Nº 53.277, DE 13 DE DEZEMBRO DE 1963.
 
 Abre pelo Ministério da Viação e Obras Públicas o crédito especial de Cr$1.000.000.000,00 para o fim que menciona.

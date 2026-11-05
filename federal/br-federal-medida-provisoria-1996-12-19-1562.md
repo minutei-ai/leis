@@ -1,5 +1,3 @@
-###MPV-001562-0-000-19-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.562, DE 19 DE DEZEMBRO DE 1996.
 
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073901-0-000-05-04-1974@@@
-
 decreto nº 73.901, de 5 de abril de 1974.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra situada no município de Campinas, Estado de São Paulo.

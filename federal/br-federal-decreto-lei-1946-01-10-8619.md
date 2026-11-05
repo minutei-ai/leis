@@ -1,5 +1,3 @@
-###DEL-008619-0-000-10-01-1946@@@
-
 DECRETO-LEI N. 8.619 – DE 10 DE JANEIRO DE 1946
 
 Fixa o valor básico para a cobrança da cota de previdência sobre o frete marítimo do transporte de minérios  de ferro e manganês, dispõe sobre as importâncias em poder dos arrecadadores e dá outras providências.

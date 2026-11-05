@@ -1,5 +1,3 @@
-###DEL-009606-0-000-19-08-1946@@@
-
 DECRETO-LEI N. 9.606 – DE 19 DE AGÔSTO DE 1946
 
 Dilata o prazo  do que  o artigo 2º Decreto-lei nº 7.807, de 31 de Julho de 1945.

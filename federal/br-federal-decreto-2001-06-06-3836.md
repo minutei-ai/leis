@@ -1,5 +1,3 @@
-###DEC-003836-0-000-06-06-2001@@@
-
 DECRETO N° 3.836, DE 6 DE JUNHO DE 2001
 
 Dispõe sobre a execução do Quadragésimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 29 de março de 2001.

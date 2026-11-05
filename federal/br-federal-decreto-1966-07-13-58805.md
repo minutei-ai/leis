@@ -1,5 +1,3 @@
-###DEC-058805-0-000-13-07-1966@@@
-
 DECRETO nº 58.805, DE 13 DE JULHO DE 1966.
 
 Inclui no Decreto nº 54.015, de 13 de julho de 1964, os cargos que especifica.

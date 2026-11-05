@@ -1,5 +1,3 @@
-###DEC-004993-0-000-18-02-2004@@@
-
 DECRETO Nº 4.993,  DE 18 DE FEVEREIRO DE 2004
 
  Cria o Comitê de Financiamento e Garantia das Exportações \- COFIG e dá nova redação ao caput do art. 5º do Decreto nº 4.732, de 10 de junho de 2003, que dispõe sobre a Câmara de Comércio Exterior \- CAMEX, do Conselho de Governo.

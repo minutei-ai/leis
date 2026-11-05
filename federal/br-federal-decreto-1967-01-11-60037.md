@@ -1,5 +1,3 @@
-###DEC-060037-0-000-11-01-1967@@@
-
 decreto nº 60.037, de 11 de janeiro de 1967.
 
 Concede a Antônio Alves Gonçalves Ltda, autorização para funcionar como emprêsa de mineração.

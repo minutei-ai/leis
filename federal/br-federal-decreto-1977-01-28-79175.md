@@ -1,5 +1,3 @@
-###DEC-079175-0-000-28-01-1977@@@
-
 DECRETO Nº 79.175, DE 28 DE JANEIRO DE 1977.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a garantir empréstimos à serem contraídos no Exterior, pela Light Serviços de Eletricidade S.A., nas condições que menciona.

@@ -1,5 +1,3 @@
-###DEC-088148-0-000-08-03-1983@@@
-
 Decreto nº 88.148 de 08 de março de 1983
 
 Autoriza o aumento do Capital Social do Banco da Amazônia S.A.

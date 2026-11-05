@@ -1,5 +1,3 @@
-###DEC-075961-0-000-10-07-1975@@@
-
 DECRETO Nº 75.961 - DE 10 De JULHO DE 1975.
 
 Altera o enquadramento dos cargos e funções da Estrada de Ferro Ilhéus, e dá outras providências.

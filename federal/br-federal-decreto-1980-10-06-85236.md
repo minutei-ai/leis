@@ -1,5 +1,3 @@
-###DEC-085236-0-000-06-10-1980@@@
-
 DECRETO Nº 85.236, DE 06 DE OUTUBRO DE 1980
 
 Declara de interesse social, para fins de desapropriação, imóvel rural denominado "Fazenda Pasquali", situado nos Municípios de Campo Erê e São Lourenço d'Oeste, Estado de Santa Catarina, compreendido na área prioritária de reforma agrária de que trata o Decreto nº 69.411, de 22 de outubro de 1971, ampliada pelos Decretos nºs 78.422, de 15 de setembro de 1976 e 84.969, de 28 de julho de 1980.

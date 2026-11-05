@@ -1,5 +1,3 @@
-###DEC-060975-0-000-10-07-1967@@@
-
 DECRETO Nº 60.975, DE 10 DE JULHo DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S. A. concessão para distribuir energia elétrica ao município de Galiléia, Estado de Minas Gerais.

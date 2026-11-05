@@ -1,5 +1,3 @@
-###DEC-048961-0-000-22-09-1960@@@
-
 DECRETO Nº 48.961, DE 22 DE SETEMBRO DE 1960.
 
 Institui a Campanha Nacional de Educação e Reabilitação de Deficientes Mentais.

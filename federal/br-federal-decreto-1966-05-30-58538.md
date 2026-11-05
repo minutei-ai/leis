@@ -1,5 +1,3 @@
-###DEC-058538-0-000-30-05-1966@@@
-
 DECRETO Nº 58.538, DE 30 DE MAIO DE 1966.
 
 Autoriza a Magnesita S. A. a lavrar agalmatolito no município de Onça de Pitangui, Estado de Minas Gerais.

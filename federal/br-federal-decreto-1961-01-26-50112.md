@@ -1,5 +1,3 @@
-###DEC-050112-0-000-26-01-1961@@@
-
 DECRETO Nº 50.112, DE 26 DE JANEIRO DE 1961.
 
 Restringe a zona de concessão da Companhia Fôrça e Luz de Conselheiro Lafaiete S.A., e amplia a zona de concessão da Centrais Elétricas de Minas Gerais S.A., no Estado de Minas Gerais.

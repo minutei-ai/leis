@@ -1,5 +1,3 @@
-###DEC-058648-0-000-16-06-1966@@@
-
 DECRETO Nº 58.648, de 16 de junho de 1966.
 
 Torna a Legação do Brasil no Afeganistão cumulativa com a Embaixada do Brasil no Paquistão.

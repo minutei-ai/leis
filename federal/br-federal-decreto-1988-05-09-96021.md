@@ -1,5 +1,3 @@
-###DEC-096021-0-000-09-05-1988@@@
-
 DECRETO N° 96.021, DE 09 DE MAIO DE 1988
 
 Altera a redação do artigo 15 do Decreto n° 83.700, de 05 de julho de 1979.

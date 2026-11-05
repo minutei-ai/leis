@@ -1,5 +1,3 @@
-###DEC-096826-0-000-28-09-1988@@@
-
 DECRETO N° 96.826, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO CAMPO ALEGRE LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Rio Verde de Mato Grosso, Estado de Mato Grosso do Sul.

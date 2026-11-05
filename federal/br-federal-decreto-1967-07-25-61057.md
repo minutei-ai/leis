@@ -1,5 +1,3 @@
-###DEC-061057-0-000-25-07-1967@@@
-
 DECRETO Nº 61.057, DE 25 DE JULHO DE 1967.
 
 Suspende o funcionamento das “Associação Civil de Proteção aos Lavradores”, com sede em Nova Iguaçu, Estado do Rio de Janeiro.

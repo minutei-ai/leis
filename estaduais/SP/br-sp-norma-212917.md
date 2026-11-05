@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212917)<br>
-
 # DECRETO N° 70.819, DE 26 DE AGOSTO DE 2026
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para o Ministério Público do Estado de São Paulo, a administração do imóvel que especifica, localizado no Município de Bebedouro._

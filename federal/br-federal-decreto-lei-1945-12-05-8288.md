@@ -1,5 +1,3 @@
-###DEL-008288-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.288 – DE 5 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Agricultura, o crédito especial de Cr$ 936,00 , para pagamento de gratificação de representação.

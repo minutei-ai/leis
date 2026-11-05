@@ -1,5 +1,3 @@
-###DEL-004150-0-000-05-03-1942@@@
-
 Bica, que foram encorporados ao patrimônio da Caixa de Construção
 
 DECRETO-LEI N. 4.150 – DE 5 DE MARÇO DE 1942

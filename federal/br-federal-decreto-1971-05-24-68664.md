@@ -1,5 +1,3 @@
-###DEC-068664-0-000-24-05-1971@@@
-
 DECRETO Nº 68.664, DE 24 DE MAIO DE 1971.
 
 Retificar o art. 1º do Decreto número 59.791, de 19 de dezembro de 1966.

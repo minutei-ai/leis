@@ -12,8 +12,10 @@ Goiânia, 17 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-GUSTAVO SEBBA<br>
+GUSTAVO SEBBA
+
 Deputado Estadual

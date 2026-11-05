@@ -1,5 +1,3 @@
-###DEC-088281-0-000-04-05-1983@@@
-
 DECRETO Nº 88.281, DE 04 DE MAIO DE 1983.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Nova Xavantina, no Estado de Mato Grosso.

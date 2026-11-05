@@ -1,7 +1,3 @@
-1
-
-###DEC-001152-0-000-08-06-1994@@@
-
 DECRETO N° 1.152, DE 8 DE JUNHO DE 1994
 
 Dispõe sobre a preferência das transportadoras aéreas de bandeira brasileira.

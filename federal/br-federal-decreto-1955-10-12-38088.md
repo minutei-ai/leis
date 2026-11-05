@@ -1,6 +1,4 @@
-###DEC-038088-0-000-12-10-1955@@@
-
-<strong>DECRETO Nº 38.088, DE 12 DE OUTUBRO DE 1955.</strong>
+**DECRETO Nº 38.088, DE 12 DE OUTUBRO DE 1955.**
 
 <!-- fac-simile-oficial:inicio -->
 

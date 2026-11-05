@@ -1,5 +1,3 @@
-###DEL-009248-0-000-09-05-1946@@@
-
 DECRETO-LEI N. 9.248 – DE 9 DE MAIO DE 1946
 
 Extingue a Flotilha Hidrográfica

@@ -1,5 +1,3 @@
-###DEC-074724-0-000-18-10-1974@@@
-
 DECRETO Nº 74.724, DE 18 DE OUTUBRO DE 1974.
 
 Altera o artigo 10, do Decreto número 71.323, de 7 de novembro de 1972, que dispõe sobre o Grupo Diplomacia, e o artigo 1º do Decreto número 71.535, de 13 de dezembro de 1972, que dispõe sobre a progressão funcional na Carreira de Diplomata.

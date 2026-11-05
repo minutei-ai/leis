@@ -1,5 +1,3 @@
-###DEC-096995-0-000-18-10-1988@@@
-
 DECRETO N° 96.995, DE 18 DE OUTUBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Diamante, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

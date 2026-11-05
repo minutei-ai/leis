@@ -1,5 +1,3 @@
-###DEL-004750-0-000-28-09-1942@@@
-
 DECRETO-LEI N. 4.750 – DE 28 DE SETEMBRO DE 1942
 
 Mobiliza os recursos econômicos do Brasil, e dá outras providências

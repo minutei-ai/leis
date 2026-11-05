@@ -1,5 +1,3 @@
-###DEC-089416-0-000-01-03-1984@@@
-
 Decreto nº 89.416, de 01 de março de 1984.
 
 Dá nova redação ao artigo 1º do Decreto nº 71.578, de 19 de dezembro de 1972, que dispõe sobre a coordenação das solenidades de substituição da Bandeira Nacional hasteada no mastro especial implantado na Praça dos Três Poderes, em Brasília e dá outras providências.

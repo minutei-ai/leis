@@ -1,5 +1,3 @@
-###DEL-006382-0-000-29-03-1944@@@
-
 DECRETO-LEI N. 6.382 – DE 29 DE MARÇO DE 1944
 
 Cria funções gratificadas no Quadro Permanente (Q. P.) do Ministério da Fazenda e abre crédito

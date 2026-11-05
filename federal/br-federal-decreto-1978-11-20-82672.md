@@ -1,5 +1,3 @@
-###DEC-082672-0-000-20-11-1978@@@
-
 Decreto nº 82.672, de 20 de novembro de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Maranguape, Estado do Ceará.

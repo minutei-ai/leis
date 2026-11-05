@@ -1,5 +1,3 @@
-###DEC-060336-0-000-08-03-1967@@@
-
 DECRETO Nº 60.336, DE 8 DE MARÇO DE 1967.
 
 Dispõe sôbre garantia da inscrição nos planos habitacionais (BNH) e de bôlsas de estudos (PEBE) para os trabalhadores que menciona.

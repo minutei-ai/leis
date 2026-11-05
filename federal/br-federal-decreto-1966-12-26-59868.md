@@ -1,5 +1,3 @@
-###DEC-059868-0-000-26-12-1966@@@
-
 DECRETO Nº 59.868, DE 26 DE DEZEMBRO DE 1966.
 
 Retifica o enquadramento dos cargos, funções e empregos da Superintendência do Plano de Valorização Econômica da Amazônia.

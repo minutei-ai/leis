@@ -1,7 +1,3 @@
-1
-
-###MPV-001440-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.440, DE 10 DE MAIO DE 1996
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

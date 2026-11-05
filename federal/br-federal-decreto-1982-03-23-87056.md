@@ -1,5 +1,3 @@
-###DEC-087056-0-000-23-03-1982@@@
-
 Decreto nº 87.056, de 23 de março de 1982.
 
 Delega competência ao Ministro de Estado da Justiça para a prática do ato que indica.

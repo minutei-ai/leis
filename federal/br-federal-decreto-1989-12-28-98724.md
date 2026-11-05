@@ -1,7 +1,3 @@
-1
-
-###DEC-098724-0-000-28-12-1989@@@
-
 DECRETO N° 98.724, DE 28 DE DEZEMBRO DE 1989
 
 Dispõe sobre alteração do Decreto nº 98.224, de 29 de setembro de 1989, na parte que específica.

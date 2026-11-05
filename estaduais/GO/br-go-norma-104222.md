@@ -26,8 +26,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 21 de julho de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

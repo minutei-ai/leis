@@ -1,5 +1,3 @@
-###DEC-096415-0-000-26-07-1988@@@
-
 DECRETO N° 96 415, DE 26 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “GAVIÃO E COBIÇADO”, classificado como latifúndio por exploração, situado no Município de Carauari, no Estado do Amazonas, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92 679, de 19 de maio de 1986, e dá outras providências.

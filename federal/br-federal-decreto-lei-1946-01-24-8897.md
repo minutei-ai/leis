@@ -1,5 +1,3 @@
-###DEL-008897-0-000-24-01-1946@@@
-
 DECRETO–LEI N.8.897 – DE 24 DE JANEIRO DE 1946
 
 Concede autonomia administrativa á Comissão Construtora da Fábrica Nacional de Motores na fase de sua transformação em Sociedade Anônima.

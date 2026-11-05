@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/178701)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2016/compilacao-lei-16270-05.07.2016.html)
 
 # LEI N° 16.270, DE 05 DE JULHO DE 2016

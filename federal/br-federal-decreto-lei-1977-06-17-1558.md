@@ -1,5 +1,3 @@
-###DEL-001558-0-000-17-06-1977@@@
-
 # decreto-lei Nº 1.558, DE 17 DE JUNHO DE 1977
 
 Altera a redação do artigo 4º, e seu parágrafo do Decreto-lei nº 1.312, de 15 de fevereiro de 1974

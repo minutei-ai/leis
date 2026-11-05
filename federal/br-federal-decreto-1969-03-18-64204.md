@@ -1,5 +1,3 @@
-###DEC-064204-0-000-18-03-1969@@@
-
 DECRETO Nº 64.204, DE 18 DE MARÇO DE 1969.
 
 Autoriza o funcionamento de Faculdade de Direito.

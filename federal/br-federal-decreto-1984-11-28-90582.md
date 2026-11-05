@@ -1,5 +1,3 @@
-###DEC-090582-0-000-28-11-1984@@@
-
 DEcretO nº 90.582, De 28 de novembro de 1984.
 
 Altera dispositivo do Decreto nº 89.554, de 17 de abril de 1984, que dispõe sobre o Departamento de Ensino da Aeronáutica.

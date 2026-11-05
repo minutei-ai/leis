@@ -1,5 +1,3 @@
-###DEC-072428-0-000-04-07-1973@@@
-
 DECRETO Nº 72.428, DE 4 DE JULHO DE 1973.
 
 Declara sem efeito o Decreto número 28.036, de 24 de abril de 1950.

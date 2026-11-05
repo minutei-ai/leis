@@ -1,5 +1,3 @@
-###DEC-084404-0-000-17-01-1980@@@
-
 Decreto nº 84.404, de 17 de janeiro de 1980
 
 Exclui funcionário do Ministério da Fazenda do regime de disponibilidade e dá outras providências.

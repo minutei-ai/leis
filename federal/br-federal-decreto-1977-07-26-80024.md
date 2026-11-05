@@ -1,5 +1,3 @@
-###DEC-080024-0-000-26-07-1977@@@
-
 Decreto nº 80.024, de 26 de julho de 1977
 
 Concede reconhecimento ao curso de Engenharia Civil, da Universidade Católica de Petrópolis, com sede na cidade de Petrópolis, Estado do Rio de Janeiro.

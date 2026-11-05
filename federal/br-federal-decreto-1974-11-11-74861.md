@@ -1,5 +1,3 @@
-###DEC-074861-0-000-11-11-1974@@@
-
 DECRETO Nº 74.861, DE 11 DE NOVEMBRO DE 1974.
 
 Autoriza o aterro de área em mar e a cessão, sob regime de aforamento dos terrenos que menciona, à Prefeitura Municipal de São Gonçalo - Estado do Rio de Janeiro.

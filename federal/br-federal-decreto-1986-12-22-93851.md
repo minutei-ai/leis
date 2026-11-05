@@ -1,5 +1,3 @@
-###DEC-093851-0-000-22-12-1986@@@
-
 DECRETO Nº 93.851, DE 22 DE DEZEMBRO DE 1986
 
 Dispõe sobre o aumento do montante do Capital Social da Espírito Santo Centrais Elétricas S.A. - ESCELSA.

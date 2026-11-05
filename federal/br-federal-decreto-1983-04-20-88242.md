@@ -1,5 +1,3 @@
-###DEC-088242-0-000-20-04-1983@@@
-
 Decreto nº 88.242, de 20 de abril de 1983
 
 Dispõe sobre a Embaixada na República de Cabo Verde.

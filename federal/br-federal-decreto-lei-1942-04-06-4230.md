@@ -1,5 +1,3 @@
-###DEL-004230-0-000-06-04-1942@@@
-
 DECRETO-LEI N. 4.230 – DE 6 DE ABRIL DE 1942
 
 Dispõe sobre a execução do decreto-lei n. 1.610, de 19 de setembro de 1939

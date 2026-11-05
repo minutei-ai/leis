@@ -1,7 +1,3 @@
-1
-
-###DEC-097801-0-000-05-06-1989@@@
-
 DECRETO N° 97.801, DE 05 DE JUNHO DE 1989
 
 Concede à SIDERURGIA BRASILEIRA S.A. - SIDERBRÁS (GRUPO SIDERBRÁS) autorização para proceder a aumento de seu capital autorizado, bem como do capital social.

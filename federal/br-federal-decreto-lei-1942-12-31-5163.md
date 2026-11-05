@@ -1,5 +1,3 @@
-###DEL-005163-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.163 – DE 31 DE DEZEMBRO DE 1942
 
 Dispõe sobre a organização do Conselho de Segurança Nacional

@@ -1,5 +1,3 @@
-###DEC-091383-0-000-01-07-1985@@@
-
 Decreto nº 91.383, de 01 de julho de 1985
 
 Autoriza a transferência direta da concessão outorgada à EMPRESA JORNAL DO COMÉRCIO S/A, para a TV JORNAL DO COMÉRCIO LTDA.

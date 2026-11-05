@@ -1,22 +1,29 @@
 LEI COMPLEMENTAR Nº [26](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006) DE 28 DE JUNHO DE 2006
 
-Ver também:<br>
-Lei Complementar nº [46](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-46-de-29-de-outubro-de-2018) de 29 de outubro de 2018 - Altera dispositivos da Lei Complementar nº [26](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006), de 28 de junho de 2006, que dispõe sobre a Lei Orgânica e o Estatuto da Defensoria do Estado da Bahia e dá outras providências.<br>
-Lei nº 11.377 de 06 de fevereiro de 2009 - Dispõe sobre a organização, estrutura e funcionamento da Ouvidoria da Defensoria Pública do Estado da Bahia, e dá outras providências.<br>
-Lei Complementar nº 033, de 05 de fevereiro de 2009. Altera a Lei Complementar nº [26](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006), de 28 de junho de 2006, que dispõe sobre a Lei Orgânica e o Estatuto da Defensoria Pública do Estado da Bahia, e dá outras providências. D.O.E. 06.02.2009.<br>
+Ver também:
+
+Lei Complementar nº [46](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-46-de-29-de-outubro-de-2018) de 29 de outubro de 2018 - Altera dispositivos da Lei Complementar nº [26](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006), de 28 de junho de 2006, que dispõe sobre a Lei Orgânica e o Estatuto da Defensoria do Estado da Bahia e dá outras providências.
+
+Lei nº 11.377 de 06 de fevereiro de 2009 - Dispõe sobre a organização, estrutura e funcionamento da Ouvidoria da Defensoria Pública do Estado da Bahia, e dá outras providências.
+
+Lei Complementar nº 033, de 05 de fevereiro de 2009. Altera a Lei Complementar nº [26](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006), de 28 de junho de 2006, que dispõe sobre a Lei Orgânica e o Estatuto da Defensoria Pública do Estado da Bahia, e dá outras providências. D.O.E. 06.02.2009.
+
 Lei Complementar nº 39 de 11 de abril de 2014 - Altera a Lei Complementar nº [26](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-26-de-28-de-junho-de-2006), de 28 de junho de 2006, que instituiu a Lei Orgânica da Defensoria Pública do Estado da Bahia, e dá outras providências.
 
 Dispõe sobre a Lei Orgânica e o Estatuto da Defensoria Pública do Estado da Bahia e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei Complementar:
 
-LIVRO I -<br>
+LIVRO I -
+
 DA AUTONOMIA, DAS FUNÇÕES E DA ORGANIZAÇÃO DA DEFENSORIA PÚBLICA DO ESTADO DA BAHIA
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA AUTONOMIA E ORGANIZAÇÃO DA DEFENSORIA PÚBLICA DO ESTADO DA BAHIA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** – Esta Lei Complementar dispõe sobre a organização da Defensoria Pública do Estado da Bahia, nos termos dos arts. 1º, 3º, 5º, inciso LXXIV, 134 e 135 da Constituição Federal, Emenda à Constituição Federal nº 45, de 8 de dezembro de 2004; arts. 4º, 71, 78, 105, 123, 144, 145 e 163 da Constituição do Estado da Bahia e Emenda à Constituição Estadual nº 11, de 28 de junho de 2005, define suas atribuições, estabelece o seu estatuto e o regime jurídico dos integrantes da carreira de Defensor Público e de seus servidores.
@@ -25,7 +32,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **Parágrafo único -**   Considera-se juridicamente necessitada, para os efeitos desta Lei, toda pessoa física ou jurídica que comprove insuficiência de recursos.
 
-Redação de acordo com a Lei Complementar [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.<br>
+Redação de acordo com a Lei Complementar [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.
+
 Redação original: "Parágrafo único - Considera-se juridicamente necessitado, para os efeitos desta Lei, toda pessoa física ou jurídica que não tenha condição de constituir advogado para a defesa de seus direitos e de arcar com as custas processuais, sem prejuízos do sustento próprio e/ou dos seus dependentes."
 
 **Art. 3º** \- São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional, tendo como objetivos:
@@ -36,7 +44,8 @@ Redação original: "Parágrafo único - Considera-se juridicamente necessitado,
 
 **III -**    a primazia da dignidade da pessoa humana e a redução das desigualdades sociais.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA AUTONOMIA
 
 **Art. 4º** - À Defensoria Pública do Estado da Bahia é assegurada autonomia funcional, administrativa e a iniciativa de sua proposta orçamentária, dentro dos limites estabelecidos na lei de diretrizes orçamentárias cabendo-lhe, especialmente:
@@ -95,7 +104,8 @@ DA AUTONOMIA
 
 **VIII -** outras receitas.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DAS FUNÇÕES DA DEFENSORIA PÚBLICA
 
 **Art. 7º** - São funções da Defensoria Pública, dentre outras:
@@ -184,10 +194,12 @@ DAS FUNÇÕES DA DEFENSORIA PÚBLICA
 
 **III -**    a participação na sugestão das diretrizes institucionais da Defensoria Pública e no acompanhamento das ações e projetos desenvolvidos pela Instituição, visando ao aperfeiçoamento do acesso à justiça.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DA ORGANIZAÇÃO DA DEFENSORIA PÚBLICA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA ESTRUTURA
 
 **Art. 10** - A Defensoria Pública do Estado da Bahia terá a seguinte estrutura organizacional:
@@ -234,13 +246,16 @@ DA ESTRUTURA
 
 Inciso V acrescido pelo artº 1º da Lei Complementar nº [46](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-46-de-29-de-outubro-de-2018) de 29 de outubro de 2018.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS ÓRGÃOS DA ADMINISTRAÇÃO SUPERIOR
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Do Defensor Público-Geral
 
-Subseção I -<br>
+Subseção I -
+
 Das Disposições Gerais
 
 **Art. 14** - A Defensoria Pública será dirigida pelo Defensor Público-Geral, nomeado pelo Governador do Estado, dentre os integrantes do quadro de carreira da ativa, e das 02 (duas) últimas classes, maiores de 35 (trinta e cinco) anos, indicados em lista tríplice, elaborada na forma desta Lei, para mandato de 02 (dois) anos, permitida uma recondução, observado o mesmo procedimento.
@@ -275,7 +290,8 @@ Das Disposições Gerais
 
 **VII -**   exercer outras atribuições necessárias ao desempenho de seu cargo.
 
-Subseção II -<br>
+Subseção II -
+
 Da Escolha, Nomeação e Posse do Defensor Público-Geral
 
 **Art. 16 -** O Conselho Superior baixará normas regulamentadoras do processo eleitoral, até 03 (três) meses antes do término do mandato do Defensor Púbico-Geral, observados os seguintes procedimentos:
@@ -284,7 +300,7 @@ Da Escolha, Nomeação e Posse do Defensor Público-Geral
 
 **II -**      assegurar aos candidatos, durante o processo eleitoral, oportunidade para apresentar aos Defensores Públicos suas propostas sobre a política e diretrizes para o mandato, em sessão especial.
 
-**§ 1º** **\-** É obrigatória a desincompatibilização, mediante afastamento, de pelo menos 30 (trinta) dias da data fixada para a eleição, para os que:
+**§ 1º\-** É obrigatória a desincompatibilização, mediante afastamento, de pelo menos 30 (trinta) dias da data fixada para a eleição, para os que:
 
 **I -**       ocupam cargo na administração superior da Defensoria Pública;
 
@@ -332,7 +348,8 @@ Da Escolha, Nomeação e Posse do Defensor Público-Geral
 
 **§ 2º -** O Defensor Público-Geral nomeado indicará e dará posse ao Subdefensor Público-Geral, imediatamente, para o exercício até o término do mandato.
 
-Subseção III -<br>
+Subseção III -
+
 Da Destituição do Defensor Público-Geral
 
 **Art. 19** - O Defensor Público-Geral poderá ser destituído do cargo, por deliberação da maioria absoluta dos membros da Assembléia Legislativa, no prazo máximo de 03 (três) meses a partir da data do recebimento da proposta de destituição, apresentada pelo Conselho Superior da Defensoria Pública, assegurada a ampla defesa e o contraditório, com os meios e recursos a ela inerentes.
@@ -397,7 +414,8 @@ Da Destituição do Defensor Público-Geral
 
 **§ 3º -** O Conselho Superior editará normas regulamentadoras de substituição do Defensor Público-Geral, no prazo de 10 (dez) dias, na hipótese de cumprimento de prazo inferior ao constante no parágrafo anterior.
 
-Subseção IV -<br>
+Subseção IV -
+
 Das Atribuições do Defensor Público-Geral
 
 **Art. 32** - Ao Defensor Público-Geral cabe:
@@ -436,7 +454,8 @@ Inciso VI revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **XVI -** elaborar e submeter ao Conselho Superior da Defensoria Pública a proposta orçamentária, para posterior encaminhamento ao Poder Executivo;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "XVI - elaborar e submeter ao Conselho Superior a proposta orçamentária, a de reajuste de vencimento, bem como as propostas de criação, transformação, modificação e extinção de cargos de carreira e dos serviços auxiliares da Defensoria Pública, para posterior encaminhamento ao Chefe do Poder Executivo, cabendo a este, observados os critérios aplicados à política de pessoal e as disponibilidades do Tesouro Estadual, formular a respectiva proposição à Assembléia Legislativa do Estado; "
 
 **XVII -**    editar atos e decidir, na forma desta Lei, sobre as implementações decorrentes do sistema remuneratório, bem como sobre a situação funcional e administrativa do pessoal ativo e inativo da carreira e dos serviços auxiliares;
@@ -455,7 +474,8 @@ Redação original: "XVI - elaborar e submeter ao Conselho Superior a proposta o
 
 **XXIV -**   expedir ato sobre a seleção para ingresso de estagiários de Direito na Instituição, proclamar o resultado e celebrar o contrato com os aprovados;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "XXIV - expedir ato sobre a seleção para ingresso de estagiários de Direito na Instituição, proclamar o resultado, designar e empossar os  aprovados;"
 
 **XXV -**     deferir o compromisso de posse aos membros da Defensoria Pública e servidores do quadro administrativo;
@@ -478,7 +498,8 @@ Redação original: "XXIV - expedir ato sobre a seleção para ingresso de estag
 
 **XXXI -**   designar membros da Defensoria Pública do Estado da Bahia para o exercício de suas atribuições em unidade defensorial diversa daquela de sua lotação ou, em caráter excepcional, perante Juízo, Tribunais ou Ofícios diferentes dos estabelecidos para cada categoria;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "XXXI - designar membros da Defensoria Pública para o exercício de suas atribuições em órgão de atuação diverso do de sua lotação ou, em caráter excepcional, perante Juízo, Tribunais ou Ofícios, diferentes dos estabelecidos para cada categoria;"
 
 **XXXII -** fazer publicar no Diário Oficial do Estado:
@@ -491,42 +512,50 @@ Redação original: "XXXI - designar membros da Defensoria Pública para o exerc
 
 **XXXIV -** designar membros da Defensoria Pública do Estado da Bahia para:
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "XXXIV -   designar membros da Defensoria Pública para:"
 
 **a)** exercerem as funções de Coordenadores Executivos das Defensorias Públicas Especializadas ou Regionais, e de Coordenadores das Defensorias Públicas Especializadas ou Regionais;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "a) exercer a função de Coordenador Executivo de Defensoria das Coordenadorias das Defensorias Públicas Especializadas e Regionais, e os Subcoordenadores das Defensorias Públicas Especializadas e Regionais;"
 
 **b)** assegurar a continuidade dos serviços, em caso de vacância, afastamento temporário, ausência, impedimento ou suspeição de titular de cargo, na forma desta Lei Complementar, respeitada a Defensoria Pública Especializada e a região de atuação do órgão, depois de esgotada a lista de substituição;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "b) assegurar a continuidade dos serviços, em caso de vacância, afastamento temporário, ausência, impedimento ou suspeição de titular de cargo, na forma desta Lei, respeitado o Núcleo e a Comarca de atuação do órgão, depois de esgotada a lista de substituição; "
 
 **c)**   integrar organismos estatais relativos aos princípios e às funções da Defensoria Pública do Estado da Bahia;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "c) integrar organismos estatais relativos aos princípios e às funções da Defensoria Pública;"
 
 **d)** dar plantões noturnos ou em finais de semana e feriados, em razão de medidas urgentes, assegurados os direitos constitucionais;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "d) dar plantões em finais de semana, feriados, em razão de medidas urgentes, assegurados os direitos constitucionais;"
 
 **e)**   funcionar em feito determinado;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "e) funcionar em feito determinado, de atribuição do titular, com a concordância deste;"
 
 **f)**   garantir atuação da Defensoria Pública do Estado da Bahia no sistema penitenciário do Estado;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "f) garantir, mediante rodízio, atuação da Defensoria Pública no sistema penitenciário do Estado;"
 
 **g)**  atuar em conselhos de direitos, conselhos tutelares, grupos de trabalho e comissões, afetos às funções da Defensoria Pública do Estado da Bahia;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "g) atuar em conselhos de direitos, conselhos tutelares, grupos de trabalho e comissões, afetos às funções da Defensoria Pública."
 
 h) atuar na sede de Tribunais Superiores ou de Organismos Internacionais de Proteção aos Direitos Humanos;
@@ -553,7 +582,8 @@ Alínea "i" acrescida pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **XLII -**     homologar e decidir sobre as escalas de férias e de atuação em plantões propostas pelas Coordenadorias Executivas das Defensorias Públicas Especializadas e Regionais;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "XLII - homologar e decidir sobre as escalas de férias e a atuação em plantões forenses propostas pelas Coordenadorias das Defensorias Públicas Especializadas e Regionais;"
 
 **XLIII -**   conceder férias, licenças-prêmio, licenças, afastamentos, adicionais e outras vantagens previstas em lei;
@@ -582,10 +612,12 @@ Redação original: "XLII - homologar e decidir sobre as escalas de férias e a 
 
 **Parágrafo único** \- As funções indicadas nos incisos V, VII, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXIII, XXXIV, XXXV, XXXVI, XLIV, XLVI, XLVII, XLVIII, XLIX, L, LIII e LIV do _caput_ deste artigo não poderão ser delegadas.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Parágrafo único - As funções indicadas nos incisos V, VI, VII, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXIII, XXXIV, XXXV, XXXVI, XLIV, XLVI, XLVII, XLVIII, XLIX e L deste artigo não poderão ser delegadas."
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Do Gabinete do Defensor Público-Geral
 
 **Art. 33** - Ao Gabinete do Defensor Público-Geral, que tem por finalidade prestar assistência e assessoramento direto, em matéria de representação jurídica, social e política e de relações públicas, bem como auxiliar o Defensor Público-Geral na gestão das atividades técnicas e administrativas da Defensoria, compete:
@@ -622,12 +654,14 @@ Do Gabinete do Defensor Público-Geral
 
 **VIII -** exercer, por delegação, as atribuições que lhe forem conferidas.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do Conselho Superior da Defensoria Pública
 
 **Art. 36** \- O Conselho Superior é órgão colegiado da administração superior da Defensoria Pública, com funções normativas e deliberativas, incumbindo-lhe, primordialmente, velar pela observância de seus princípios institucionais e legais.
 
-Subseção I -<br>
+Subseção I -
+
 Da Composição e da Eleição
 
 **Art. 37** \- O Conselho Superior será composto por:
@@ -694,7 +728,8 @@ Da Composição e da Eleição
 
 **IV -**     os eleitos, pelos respectivos suplentes, em ordem decrescente de votação.
 
-Subseção II -<br>
+Subseção II -
+
 Das Atribuições do Conselho Superior da Defensoria Pública
 
 **Art. 47** - Ao Conselho Superior compete:
@@ -765,12 +800,14 @@ Das Atribuições do Conselho Superior da Defensoria Pública
 
 **XXVII -** desempenhar outras atribuições conferidas por lei ou previstas no Regimento Interno do Conselho Superior, que com esta estejam compatíveis.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Corregedoria Geral da Defensoria Pública
 
 **Art. 48** - A Corregedoria Geral tem por finalidade velar pela observância do regime disciplinar, acompanhando, fiscalizando e orientando a regularidade dos serviços da Defensoria Pública, bem como apurando as infrações administrativo-disciplinares dos membros e servidores da Instituição.
 
-Subseção I -<br>
+Subseção I -
+
 Da Escolha, Nomeação, Posse e Destituição do Corregedor-Geral
 
 **Art. 49** - O Corregedor-Geral será eleito pelo Conselho Superior, dentre os Defensores Públicos das 02 (duas) últimas classes, para mandato de 02 (dois) anos, na 1ª sessão ordinária com a presença de todos os membros, após a eleição e constituição do novo Conselho Superior da Defensoria Pública, permitida uma recondução.
@@ -779,7 +816,8 @@ Da Escolha, Nomeação, Posse e Destituição do Corregedor-Geral
 
 **§ 2º** - O Corregedor-Geral somente poderá ser destituído de suas atribuições pelo voto de, no mínimo, 2/3 (dois terços) dos membros do Conselho Superior, nas mesmas hipóteses previstas para a destituição do Defensor Público-Geral.
 
-Subseção II -<br>
+Subseção II -
+
 Das Atribuições do Corregedor-Geral da Defensoria Pública
 
 **Art. 50** - Cabe ao Corregedor-Geral:
@@ -872,7 +910,8 @@ Das Atribuições do Corregedor-Geral da Defensoria Pública
 
 **Art. 51** \- Em caso de vacância do cargo de Corregedor-Geral, por mais de 60 (sessenta) dias consecutivos, competirá ao Conselho Superior realizar nova eleição para o preenchimento do cargo.
 
-Subseção III -<br>
+Subseção III -
+
 Do Corregedor Adjunto e suas Atribuições
 
 **Art. 52** - O Corregedor Adjunto será nomeado e empossado por ato do Defensor Público-Geral, para auxiliar o Corregedor-Geral, indicado entre os membros das 02 (duas) classes mais elevadas, pelo Corregedor-Geral, para o período de 02 (dois) anos.
@@ -889,17 +928,20 @@ Do Corregedor Adjunto e suas Atribuições
 
 **Art. 55** - Ocorrendo a vacância do cargo de Corregedor-Geral, assumirá,  interinamente, o Corregedor Adjunto e será realizada nova eleição em 30 (trinta) dias para preenchimento do cargo e complementação do mandato.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS ÓRGÃOS DE EXECUÇÃO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Das Coordenadorias das Defensorias Públicas Especializadas e Regionais
 
 **Art. 56** - As Coordenadorias têm por finalidade a implementação e coordenação da estrutura administrativa, funcional e jurídica necessária ao efetivo desempenho das funções das Defensorias Públicas Especializadas e Regionais.
 
 **Parágrafo único -**  As Coordenadorias dirigirão as Defensorias Públicas Especializadas, com desempenho na Capital, e as Defensorias Públicas Regionais, com desempenho em regiões administrativas no interior do Estado e na Região Metropolitana de Salvador.
 
-Subseção I -<br>
+Subseção I -
+
 Das Nomeações e Atribuições
 
 **Art. 57** \- As Coordenadorias das Defensorias Públicas Especializadas e Regionais serão exercidas por Defensores Públicos, de classe Especial ou de Instância Superior, indicados e nomeados pelo Defensor Público-Geral, auxiliados pelos Subcoordenadores, necessários ao desempenho das atribuições que lhes forem cometidas por esta Lei.
@@ -956,7 +998,8 @@ Das Nomeações e Atribuições
 
 **IV -**     triagens, cadastros, arquivos, registros de resultados de atendimento, pareceres, estudos, memórias de cálculo, plantas, relatórios médicos, técnicos e periciais, mapas e demonstrativos estatísticos, dentre outros.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Defensorias Públicas Especializadas
 
 **Art. 59** - As Defensorias Públicas Especializadas têm por finalidade exercer as funções institucionais e adotar as medidas judiciais e extrajudiciais necessárias à consecução dos objetivos e diretrizes definidos no plano bienal de atividades, metas e políticas institucionais aprovadas e nos respectivos programas de atuação.
@@ -997,7 +1040,8 @@ Das Defensorias Públicas Especializadas
 
 **V -**      zelar pelo cumprimento das obrigações da Defensoria Pública, decorrentes da atuação, convênios, programas e planejamentos, em consonância com a política institucional da Instituição.
 
-Subseção I -<br>
+Subseção I -
+
 Dos Subcoordenadores das Defensorias Públicas Especializadas
 
 **Art. 63** \- Aos Subcoordenadores das Defensorias Públicas Especializadas cabe:
@@ -1036,7 +1080,8 @@ Dos Subcoordenadores das Defensorias Públicas Especializadas
 
 **Art. 64 -** Os Subcoordenadores serão escolhidos dentre os membros que compõem cada uma das Defensorias Públicas Especializadas, por indicação de seu Coordenador Executivo de Defensoria, e nomeado por ato do Defensor Público-Geral.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Das Defensorias Públicas Regionais
 
 **Art. 65** - As Defensorias Públicas Regionais têm por finalidade exercer as funções institucionais e adotar as medidas judiciais e extrajudiciais necessárias à consecução dos objetivos e diretrizes definidos no plano bienal de atividades, metas e políticas institucionais aprovadas e nos respectivos programas de atuação nas Comarcas do interior do Estado e na Região Metropolitana de Salvador.
@@ -1047,17 +1092,20 @@ Das Defensorias Públicas Regionais
 
 **Art. 66** - As Defensorias Públicas Regionais, em número de 06 (seis) a 27 (vinte e sete), delimitadas e organizadas por proposta do Defensor Público-Geral, aprovada pelo Conselho Superior da Defensoria, entrarão em funcionamento, à medida que se implementem as condições orçamentárias, levando-se em consideração, sempre que possível, os territórios de identidade.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 66 - As Defensorias Públicas Regionais, criadas por esta Lei, em número inicial de 06 (seis), com área de abrangência delimitadas e organizadas por Resolução do Defensor Público-Geral, serão constituídas por pelo menos 01 (um) membro integrante da carreira, designado pelo Defensor Público-Geral."
 
 **Parágrafo único -**  As Defensorias Públicas Regionais serão providas de serviços auxiliares destinados a dar suporte administrativo ao funcionamento e ao desempenho das atribuições dos Defensores Públicos e serão ordenadas por ato do Defensor Público-Geral.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Parágrafo único - As Defensorias Públicas Especializadas Regionais serão providas de serviços auxiliares destinados a dar suporte administrativo ao funcionamento e ao desempenho das atribuições dos Defensores Públicos."
 
 **Art. 67** - Os Subcoordenadores das Defensorias Públicas Regionais terão as mesmas competências descritas no art. 63 desta Lei, dentro de sua área de atuação.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Dos Defensores Públicos
 
 **Art. 68** - Os Defensores Públicos, órgãos de execução das funções da Defensoria Pública, têm as seguintes atribuições:
@@ -1108,10 +1156,12 @@ Dos Defensores Públicos
 
 **Art. 69** - Os conflitos de atribuição deverão ser suscitados, fundamentadamente, nos próprios autos em que ocorrerem, e serão decididos pelo Defensor Público-Geral.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS ÓRGÃOS AUXILIARES
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Diretoria Geral
 
 **Art. 70** - A Diretoria Geral tem por finalidade executar as atividades de administração geral, modernização administrativa, informática, financeira e de contabilidade, de planejamento, programação, orçamentação, acompanhamento, avaliação de estudos e análises.
@@ -1144,7 +1194,8 @@ Da Diretoria Geral
 
 **Art. 72 -** As competências da Diretoria Geral e das unidades que a compõem serão fixadas em Regimento Interno.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Escola Superior da Defensoria Pública
 
 **Art. 73** - A Escola Superior da Defensoria Pública tem por finalidade promover o aperfeiçoamento profissional e cultural dos membros da Instituição, de seus auxiliares, servidores e estagiários, bem como a melhor execução de seus serviços e racionalização de seus recursos materiais.
@@ -1191,7 +1242,8 @@ Da Escola Superior da Defensoria Pública
 
 **XVII -**    exercer as demais funções inerentes à sua atividade.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Da Ouvidoria
 
 **Art. 76** - A Ouvidoria da Defensoria Pública tem por finalidade receber, encaminhar e acompanhar as denúncias, reclamações e sugestões dos usuários, relacionados com os serviços prestados pelas Defensorias Públicas.
@@ -1220,7 +1272,8 @@ Da Ouvidoria
 
 **VIII -** desenvolver outras atividades de intercâmbio com a sociedade civil que tenham por finalidade a otimização do serviço.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Dos Centros de Atendimento Multidisciplinar
 
 **Art. 80** - Aos Centros de Atendimento Multidisciplinar, implantados na Capital e que têm a finalidade de servir às Defensorias Públicas Especializadas e às Defensorias Públicas Regionais, compete:
@@ -1297,17 +1350,20 @@ XXVI - executar outras atividades que lhe forem correlatas, ou conferidas legalm
 
 Art. 80-A acrescido pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 Dos Estagiários
 
-Subseção I -<br>
+Subseção I -
+
 Das Disposições Gerais
 
 **Art. 81 -** A Defensoria Pública manterá quadro de estagiários, designados por ato do Defensor Público-Geral e coordenados pelos respectivos Coordenadores Executivos de Defensoria das Coordenadorias das Defensorias Públicas Especializadas e Regionais, para exercício de suas funções, pelo prazo de 01 (um) ano, renovável por igual período.
 
 **Parágrafo único -**   O estágio não confere vínculo empregatício, sendo vedado estender ao estagiário direitos ou vantagens assegurados aos servidores públicos.
 
-Subseção II -<br>
+Subseção II -
+
 Da Seleção, da Investidura e do Exercício
 
 **Art. 82** - Compete ao Defensor Público-Geral, de acordo com a Lei de Diretrizes Orçamentárias, fixar o número de estagiários e a remuneração, a título de bolsa de estudo, editar Resolução sobre o exame de seleção ao estágio, a proclamação dos resultados e admissão, o prazo de validade da seleção, observados, para investidura no estágio, os seguintes requisitos:
@@ -1362,7 +1418,8 @@ Da Seleção, da Investidura e do Exercício
 
 **VIII -** participar de audiências e sessões dos Tribunais, auxiliando, quando solicitados, o Defensor Público.
 
-Subseção III -<br>
+Subseção III -
+
 Dos Direitos, Deveres e Vedações
 
 **Art. 86** - São direitos do estagiário:
@@ -1409,7 +1466,8 @@ Dos Direitos, Deveres e Vedações
 
 **§ 2º** - Caso a suspensão não venha a ser ratificada, nenhum prejuízo sofrerá o estagiário.
 
-Subseção IV -<br>
+Subseção IV -
+
 Da Avaliação e do Certificado de Estágio
 
 **Art. 89** - Com o fim de propiciar ao estagiário experiência da prática forense nas diversas áreas de atuação, observado o seu interesse, poderá ele ser removido para outras Defensorias Públicas Especializadas, ou unidades de atuação, ao final de cada semestre, devendo ficar registrado no seu prontuário a regularidade do estágio e o seu aproveitamento, por meio de parecer emitido pelo Defensor Público ao qual serviu.
@@ -1418,47 +1476,60 @@ Da Avaliação e do Certificado de Estágio
 
 **§ 2º** \- Ao término do período de estágio será expedido certificado, válido como título em concursos públicos para a Defensoria Pública do Estado da Bahia, devendo, para tanto, cumprir o período mínimo de 01 (um) ano.
 
-LIVRO II -<br>
+LIVRO II -
+
 DO ESTATUTO DA DEFENSORIA PÚBLICA
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA CARREIRA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 90** - A Defensoria Pública compreende o cargo de Defensor Público, estruturada em carreira e organizada nas seguintes classes:
 
-Redação de acordo com a Lei Complementar nº 39, de 11 de abril de 2014.<br>
+Redação de acordo com a Lei Complementar nº 39, de 11 de abril de 2014.
+
 Redação original: "Art. 90 - A Defensoria Pública compreende os seguintes cargos de Defensor Público, estruturados em carreira e organizados em classes: "
 
 **I** \-       Defensor Público da Classe de Instância Superior, com atuação nos Tribunais;
 
-Redação de acordo com a Lei Complementar nº 57 de 08 de julho de 2024.<br>
-Redação anterior de acordo com a Lei Complementar nº 39, de 11 de abril de 2014."I -Defensor Público de Instância Superior, com atuação nos Tribunais;"<br>
+Redação de acordo com a Lei Complementar nº 57 de 08 de julho de 2024.
+
+Redação anterior de acordo com a Lei Complementar nº 39, de 11 de abril de 2014."I -Defensor Público de Instância Superior, com atuação nos Tribunais;"
+
 Redação original: "I - Defensor Público de Instância Superior, com atuação nos Tribunais;"
 
 **II** -      Defensor Público de Classe Final;
 
-Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.<br>
-Redação anterior de acordo com a Lei Complementar nº 39, de 11 de abril de 2014: "II - Defensor Público de Classe Final, com atuação em Defensorias junto às Comarcas de Entrância Final;"<br>
+Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.
+
+Redação anterior de acordo com a Lei Complementar nº 39, de 11 de abril de 2014: "II - Defensor Público de Classe Final, com atuação em Defensorias junto às Comarcas de Entrância Final;"
+
 Redação original: "II - Defensor Público de classe Especial, com atuação em Defensorias junto à Comarca de Entrância Especial;"
 
 **III -**    Defensor Público de Classe Intermediária;
 
-Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.<br>
-Redação anterior de acordo com a Lei Complementar nº 39, de 11 de abril de 2014: "III -Defensor Público de Classe Intermediária, com atuação em Defensorias junto às Comarcas de Entrância Intermediária;"<br>
+Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.
+
+Redação anterior de acordo com a Lei Complementar nº 39, de 11 de abril de 2014: "III -Defensor Público de Classe Intermediária, com atuação em Defensorias junto às Comarcas de Entrância Intermediária;"
+
 Redação original: "III - Defensor Público de 3ª classe, com atuação em Defensorias junto às Comarcas de 3ª Entrância;"
 
 **IV** \-     Defensor Público de Classe Inicial II;
 
-Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.<br>
-Redação anterior de acordo com a Lei Complementar nº 39, de 11 de abril de 2014 "IV - Defensor Público de Classe Inicial, com atuação em Defensorias junto às Comarcas de Entrância Inicial."<br>
+Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.
+
+Redação anterior de acordo com a Lei Complementar nº 39, de 11 de abril de 2014 "IV - Defensor Público de Classe Inicial, com atuação em Defensorias junto às Comarcas de Entrância Inicial."
+
 Redação original: "IV - Defensor Público de 2ª classe, com atuação em Defensorias junto às Comarcas de 2ª Entrância;"
 
 **V-**       Defensor  Público de Classe Inicial I.
 
-Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.<br>
+Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.
+
 Redação original: "V - Defensor Público de 1ª classe, com atuação em Defensorias junto às Comarcas de 1ª Entrância."
 
 § 1º - Os Defensores Públicos de qualquer classe poderão ser designados para atuar nas cidades sedes de Tribunais Superiores ou de Organismo Internacional de Proteção aos Direitos Humanos.
@@ -1471,8 +1542,10 @@ Redação original: "V - Defensor Público de 1ª classe, com atuação em Defen
 
 § 3º - O candidato aprovado no concurso de ingresso na carreira será nomeado para o cargo de Defensor Público de Classe Inicial I, com lotação em qualquer unidade defensorial, que é a menor unidade de atuação funcional individual no âmbito da Defensoria Pública do Estado da Bahia.
 
-Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.<br>
-Redação original: § 3º - "O candidato aprovado no concurso de ingresso na carreira será nomeado para o cargo de Defensor Público Inicial, com lotação em qualquer unidade defensorial, que é a menor unidade de atuação funcional individual no âmbito da Defensoria Pública do Estado da Bahia."<br>
+Redação de acordo com a Lei Complementar nº [57](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-57-de-08-de-julho-de-2024) de 08 de julho de 2024.
+
+Redação original: § 3º - "O candidato aprovado no concurso de ingresso na carreira será nomeado para o cargo de Defensor Público Inicial, com lotação em qualquer unidade defensorial, que é a menor unidade de atuação funcional individual no âmbito da Defensoria Pública do Estado da Bahia."
+
 § 3º acrescido pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 § 4º - As vagas abertas para Promoção ou Remoção deverão observar os critérios estabelecidos no § 2º do art. 98 do Ato das Disposições Constitucionais Transitórias da Constituição Federal.” (NR)
@@ -1501,10 +1574,12 @@ Redação original: § 3º - "O candidato aprovado no concurso de ingresso na ca
 
 **X -**      ter satisfeito os demais requisitos previstos no edital e na resolução do concurso público.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PROVIMENTO ORIGINÁRIO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Do Concurso de Ingresso
 
 **Art. 92** - O ingresso na carreira de Defensor Público dar-se-á mediante aprovação em concurso público de provas e títulos.
@@ -1515,12 +1590,14 @@ Do Concurso de Ingresso
 
 **§ 3º** - A abertura do concurso público será determinada pelo Defensor Público-Geral, através de edital publicado no Diário Oficial ou na imprensa oficial, contendo o prazo de inscrição, o número de cargos que deverão ser preenchidos, previsão do cronograma de realização das provas e os demais requisitos previstos nesta Lei Complementar.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 3º - A abertura do concurso público será determinada pelo Defensor Público-Geral, através de edital publicado no Diário Oficial do Estado, contendo o prazo de inscrição, o número de cargos vagos na classe inicial da carreira, o número de cargos que deverão ser preenchidos, as datas de realização das provas e os demais requisitos previstos nesta Lei.
 
 **§ 4º** - É obrigatória a reserva de 05% (cinco por cento) das vagas abertas para o ingresso, por meio de concurso público, para pessoas com deficiência, vedado o arredondamento inferior, a não ser para evitar a superação do limite máximo.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 4º - É obrigatória a reserva de 5% (cinco por cento) das vagas abertas para o ingresso, por meio de concurso público, de pessoas portadoras de deficiências."
 
 **§ 4º-A** - Fica instituída a reserva de vagas para a população negra e indígena, nos concursos públicos e processos seletivos, correspondendo respectivamente a 30% (trinta por cento) e 02% (dois por cento) das vagas a serem providas, cujos critérios serão estabelecidos pelo Conselho Superior.
@@ -1529,7 +1606,8 @@ Redação original: "§ 4º - É obrigatória a reserva de 5% (cinco por cento) 
 
 **§ 5º** - Durante o prazo de validade do concurso público, obedecida a ordem de classificação, poderão ser nomeados os candidatos aprovados que não foram classificados dentro do número de vagas inicialmente oferecidas.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 5º - Durante o prazo de validade do concurso público, obedecida a ordem de classificação dos aprovados, poderão ser nomeados tantos quantos forem necessários ao preenchimento das vagas oferecidas."
 
 **§ 6º** - As questões de prova compreenderão obrigatoriamente as seguintes matérias, podendo o Regulamento do concurso público incluir outras matérias atinentes às atividades desenvolvidas pela Defensoria Pública do Estado:
@@ -1566,19 +1644,22 @@ XIII - Aspectos da constituição e formação da população e da História da 
 
 **Parágrafo único -** A referida Resolução estabelecerá, ainda, que as provas deverão conter, além de questões técnico-jurídicas, outras relacionadas aos princípios e às funções inerentes à Defensoria Pública e à carreira de Defensor Público.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Nomeação
 
 **Art. 94** - Os cargos de Defensor Público, da classe inicial, serão providos em caráter efetivo, por nomeação do Defensor Público-Geral, observada a ordem de classificação dos candidatos aprovados em concurso público, nas vagas oferecidas.
 
 **Art. 95** - O candidato aprovado em concurso público de ingresso na carreira será nomeado para o cargo de Defensor Público de Classe Inicial, com prerrogativas, vedações, remuneração e vantagens legalmente previstas.
 
-Redação de acordo com a Lei Complementar nº 39, de 11 de abril de 2014.<br>
+Redação de acordo com a Lei Complementar nº 39, de 11 de abril de 2014.
+
 Redação original: "Art. 95 - O candidato aprovado no concurso público de ingresso na carreira será nomeado para o cargo de Defensor Público de 1ª classe, com prerrogativas, vedações, vencimentos e vantagens legalmente previstas."
 
 **Parágrafo único -**   O candidato aprovado poderá renunciar à nomeação correspondente à sua classificação, antecipadamente ou até o termo final do prazo de posse, caso em que o renunciante será deslocado para o último lugar da lista de classificados.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Da Posse
 
 **Art. 96** - Os candidatos serão empossados, em sessão solene, pelo Defensor Público-Geral, com imediato exercício.
@@ -1617,7 +1698,8 @@ Inciso I revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **§ 2º** - Após entrar em exercício, o Defensor Público participará do curso de formação, a ser promovido pela Escola Superior da Defensoria Pública, sob pena de exoneração.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO ESTÁGIO PROBATÓRIO E DA ESTABILIDADE
 
 **Art. 99** - O Conselho Superior da Defensoria Pública disciplinará, mediante Resolução, sobre o curso de formação a que serão submetidos os Defensores Públicos recém-nomeados para a carreira.
@@ -1664,7 +1746,8 @@ DO ESTÁGIO PROBATÓRIO E DA ESTABILIDADE
 
 **Art. 104** - Durante a tramitação do procedimento de que trata o parágrafo 4º do artigo anterior, o Defensor Público ficará suspenso do exercício funcional, sem prejuízo dos seus vencimentos, aplicando-se, ao final do referido procedimento, o disposto no parágrafo 2º do art. 103 desta Lei.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA LOTAÇÃO E DA DESIGNAÇÃO DOS DEFENSORES PÚBLICOS
 
 **Art. 105** - Cada Defensor Público será lotado em uma unidade defensorial, na qual será assegurada a prerrogativa de inamovibilidade.
@@ -1677,7 +1760,8 @@ DA LOTAÇÃO E DA DESIGNAÇÃO DOS DEFENSORES PÚBLICOS
 
 § 4º - Até o cumprimento do § 1º do art. 98 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, no mínimo metade das novas unidades defensoriais a serem criadas para provimento por titularidade deverão ter atuação em comarcas sem unidades desta espécie, realizando-se as verificações a cada grupo de 50 (cinquenta).
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 105 - O preenchimento dos órgãos de execução da Defensoria Pública será feito por lotação."
 
 **Art. 106** - Os Defensores Públicos exercerão, enquanto órgãos de execução, função de titular ou de substituição, dependendo, esta, de ato do Defensor Público-Geral.
@@ -1686,32 +1770,40 @@ Redação original: "Art. 105 - O preenchimento dos órgãos de execução da De
 
 **Art. 108** \- O Defensor Público-Geral lotará os novos defensores nas unidades defensoriais abertas, vagas e não destinadas a cobertura por substituição cumulativa, nas quais exercerão sua titularidade, respeitando o direito de escolha segundo a ordem classificatória do concurso de ingresso na carreira.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 108 - O Defensor Público-Geral, após o término do estágio probatório, observada a ordem classificatória do concurso de ingresso na carreira, concederá titularidade aos aprovados nas Defensorias Públicas das Comarcas de 1ª Entrância que estiverem vagas, após o término do concurso de remoção dos Defensores Públicos com estabilidade."
 
 **§ 1º** - Perderá o direito de escolha o candidato que não o exercer na data fixada, cabendo, neste caso, ao Defensor Público-Geral, indicar, após as demais escolhas, em qual Unidade Defensorial ele será lotado.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 1º - Perderá o direito de escolha o candidato que não o exercer na data fixada, cabendo, neste caso, ao Defensor Público-Geral, indicar em qual Defensoria exercerá ele a titularidade."
 
 **§ 2º** - A prova da assunção ao cargo será feita mediante a apresentação de "Termo de Assunção”, lavrado em livro próprio da Defensoria Pública, por outro Defensor Público, preferencialmente o coordenador, ou, na falta, por servidor da Defensoria Pública, e firmado pelo Defensor Público assuntor na unidade defensorial.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 2º - A prova da assunção ao cargo será feita mediante a apresentação de “Termo de Assunção” na Comarca, lavrado em livro próprio da Defensoria Pública, pelo escrivão, ou por quem o substitua, e firmado pelo Defensor Público, pelo juiz e/ou pelo representante do Ministério Público na Comarca."
 
 **Art. 109** - Em caso de extinção do órgão no qual o Defensor Público esteja exercendo suas funções, deverá ele ser removido, assegurado o seu direito de escolha entre os órgãos vagos, considerada a necessidade do serviço.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA PROMOÇÃO E DA REMOÇÃO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Promoção
 
 **Art. 110** - A promoção será sempre voluntária e far-se-á, alternadamente, pelos critérios de antiguidade e merecimento, de uma para outra classe mais elevada da carreira, após 02 (dois) anos de efetivo exercício na classe e integrar, o defensor, a primeira quinta parte da lista de antiguidade, dispensados tais requisitos, se não houver quem os preencha ou se quem os preencher recusar a promoção.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
-Redação original: "Art. 110 - A promoção será sempre voluntária e far-se-á, alternadamente, pelo critério de antiguidade ou merecimento, de uma para outra classe mais elevada da carreira, após 2 (dois) anos de efetivo exercício na classe, dispensado o interstício se não houver quem preencha tal requisito ou se quem o preencher recusar a promoção."<br>
-Ver também:<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
+Redação original: "Art. 110 - A promoção será sempre voluntária e far-se-á, alternadamente, pelo critério de antiguidade ou merecimento, de uma para outra classe mais elevada da carreira, após 2 (dois) anos de efetivo exercício na classe, dispensado o interstício se não houver quem preencha tal requisito ou se quem o preencher recusar a promoção."
+
+Ver também:
+
 Art. 8º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "A partir da vigência desta Lei e até novembro de 2010 ficam suspensas as promoções na carreira de Defensor Público, previstas nos artigos 110 a 112 da Lei Complementar nº 26, de 28 de junho de 2006."
 
 **§ 1º** - Para concorrer à promoção o Defensor Público deverá se inscrever, nos termos a serem estabelecidos em Resolução do Conselho Superior.
@@ -1754,7 +1846,8 @@ Inciso X acrescido pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **§ 5º -** Os membros do Conselho Superior da Defensoria Pública que pretendem concorrer à promoção por merecimento ficarão impedidos de participar das discussões e votações que cuidem desta matéria, hipótese em que devem ser convocados os seus substitutos.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 5º - Os membros do Conselho Superior da Defensoria Pública que pretenderem concorrer à promoção e remoção por merecimento, ficarão impedidos de participar de todas as reuniões que cuidem destas matérias, hipótese em que devem ser convocados os seus substitutos."
 
 **§ 6º -** Não poderão integrar a lista de merecimento os Defensores Públicos que estiverem licenciados para tratar assunto de interesse particular.
@@ -1767,7 +1860,8 @@ Redação original: "§ 5º - Os membros do Conselho Superior da Defensoria Púb
 
 **Art. 111** - A antiguidade será apurada na classe da carreira.
 
-Ver também:<br>
+Ver também:
+
 Art. 8º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "A partir da vigência desta Lei e até novembro de 2010 ficam suspensas as promoções na carreira de Defensor Público, previstas nos artigos 110 a 112 da Lei Complementar nº 26, de 28 de junho de 2006."
 
 **<Revogado> § 1º** - Para os fins deste artigo, considerar-se-ão as alterações ocorridas no quadro geral de antiguidade, até a data da publicação anual da lista de antiguidade, decorrentes de promoção, remoção, aposentadoria e disponibilidade.
@@ -1780,7 +1874,8 @@ Art. 8º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "A partir da v
 
 **II -**      o que tiver mais tempo de serviço público do Estado da Bahia;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "II - o que tiver mais tempo de serviço público;"
 
 **<Revogado> III -**          o mais idoso;
@@ -1805,12 +1900,14 @@ Inciso VII acrescido pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **§ 3º** - O desempate entre Defensores Públicos da classe inicial da carreira, com o mesmo tempo de serviço, far-se-á segundo a classificação obtida no concurso de ingresso.”
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 3º - O desempate entre Defensores Públicos da classe inicial da carreira, com o mesmo tempo de serviço, far-se-á segundo a classificação obtida no concurso de ingresso."
 
 **Art. 112** - No mês de abril de cada ano, o Defensor Público-Geral mandará publicar, no Diário Oficial do Estado, a lista de antiguidade dos Defensores Públicos em cada classe, que conterá, em anos, meses e dias, o tempo de serviço na classe, na carreira, no serviço público estadual, no serviço público em geral e o computado para efeito de aposentadoria e disponibilidade.
 
-Ver também:<br>
+Ver também:
+
 Art. 8º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "A partir da vigência desta Lei e até novembro de 2010 ficam suspensas as promoções na carreira de Defensor Público, previstas nos artigos 110 a 112 da Lei Complementar nº 26, de 28 de junho de 2006."
 
 **§ 1º** \- As reclamações contra a lista poderão ser apresentadas no prazo de 5 (cinco) dias úteis, contado da respectiva publicação, cabendo ao Conselho Superior a decisão.
@@ -1819,7 +1916,8 @@ Art. 8º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "A partir da v
 
 **§ 3º** - Caso a remoção ou promoção ocorra para Comarca diversa, o prazo para assumir as novas funções será de 15 (quinze) dias, contado a partir da data de publicação do ato, podendo ser prorrogado, em face de motivo justificado, pelo Defensor Público-Geral.  
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Remoção
 
 **Art. 113** - A remoção é o deslocamento do Defensor Público dentre as unidades defensoriais, podendo ser voluntária, compulsória ou por permuta.
@@ -1830,7 +1928,8 @@ Da Remoção
 
 § 3º - Na hipótese de processo de remoção através do modelo de oferta sucessiva das vagas, a renúncia de qualquer candidato acarretará a anulação dos resultados.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 113 - A remoção é o deslocamento do Defensor Público, sempre para igual classe da carreira, podendo ser voluntária, compulsória ou por permuta."
 
 **Art. 114** - A remoção a pedido far-se-á mediante requerimento ao Defensor Público-Geral, nos 15 (quinze) dias seguintes à publicação, no Diário Oficial, do aviso de existência de vaga.
@@ -1849,7 +1948,8 @@ Redação original: "Art. 113 - A remoção é o deslocamento do Defensor Públi
 
 § 7º - Nos concursos de remoção a pedido, o prazo de desistência pode correr concomitantemente ao período de inscrições.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 114 - A remoção voluntária dar-se-á, mediante concurso, pelos critérios alternados de antiguidade e merecimento, aplicando-se-lhe, no que couber, as disposições constantes da Seção III deste Capítulo."
 
 **Art. 115** - A remoção compulsória somente poderá ser efetuada com fundamento no interesse público e será processada, mediante representação do Defensor Público-Geral ou do Corregedor-Geral ao Conselho Superior, assegurada ampla defesa, na forma desta Lei e dos termos a serem definidos no Regimento Interno.
@@ -1880,12 +1980,14 @@ Redação original: "Art. 114 - A remoção voluntária dar-se-á, mediante conc
 
 **IV -**     quando um dos permutantes estiver habilitado para promoção por antiguidade, em razão de existência de vaga na classe superior.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do Procedimento
 
 **Art. 117** - Na existência de cargos vagos, a serem ocupados por promoção, ou unidades defensoriais vagas a serem ocupadas por remoção, o Conselho Superior, por meio de seu Presidente, fará publicar, no Diário Oficial, o edital de inscrição dos candidatos.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 117 - Na existência de vaga a ser ocupada por promoção ou remoção, o Conselho Superior, por meio de seu Presidente, fará publicar, no Diário Oficial do Estado, o edital de inscrição dos candidatos."
 
 **§ 1º** - O Regimento Interno da Defensoria Pública, a ser aprovado pelo Conselho Superior, disciplinará os requisitos do edital de promoção ou remoção e os critérios de votação, observado o disposto nesta Lei.
@@ -1924,7 +2026,8 @@ Redação original: "Art. 117 - Na existência de vaga a ser ocupada por promoç
 
 **Parágrafo único -** O edital mencionará se a promoção será feita pelo critério de merecimento ou de antiguidade.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Parágrafo único - O edital mencionará se a promoção ou remoção será feita pelo critério de merecimento ou antiguidade e indicará a Defensoria Pública correspondente à vaga a ser preenchida."
 
 **Art. 120** - Sob pena de indeferimento, o pedido de  inscrição para o concurso de promoção ou remoção será instruído com:
@@ -1939,13 +2042,13 @@ Inciso III revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **§ 1º** \- As declarações referidas nos incisos I e II deste artigo não excluem a possibilidade de averiguação, pela Corregedoria Geral, das informações prestadas, inclusive por recomendação do Conselho Superior, sobrestando-se, neste caso, o procedimento, até ulterior deliberação do referido Colegiado.
 
-**§** **2º** \- Constatada a irregularidade de serviço, será recusada a promoção ou remoção do Defensor Público ou revogado o ato concessor, sem prejuízo das penalidades cabíveis.
+**§2º** \- Constatada a irregularidade de serviço, será recusada a promoção ou remoção do Defensor Público ou revogado o ato concessor, sem prejuízo das penalidades cabíveis.
 
 **<Revogado> § 3º** \- A desistência da inscrição somente será admitida até 03 (três) dias antes da elaboração da lista.
 
 § 3º revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
-**<Revogado> §** **4º** - É facultada a renúncia à promoção, no prazo correspondente à assunção no novo órgão onde atuará, ficando o Defensor Público impedido, neste caso, de concorrer a nova promoção, pelo período de 01 (um) ano.
+**<Revogado> §4º** - É facultada a renúncia à promoção, no prazo correspondente à assunção no novo órgão onde atuará, ficando o Defensor Público impedido, neste caso, de concorrer a nova promoção, pelo período de 01 (um) ano.
 
 § 4º revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
@@ -1955,12 +2058,14 @@ Inciso III revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **Art. 121** \- Encerrado o prazo de inscrições para concursos de promoção, a lista dos inscritos será afixada em local visível e publicada no Diário Oficial do Estado, concedendo-se prazo de 03 (três) dias para impugnações, reclamações e desistências.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 121 - Encerrado o prazo de inscrições, a lista dos inscritos será afixada em local visível e publicada no Diário Oficial do Estado, concedendo-se prazo de 05 (cinco) dias para impugnações, reclamações e desistências."
 
 **Art. 122** - Findo o prazo para impugnações, reclamações e desistências, com o pronunciamento da Corregedoria Geral, o Conselho Superior terá 03 (três) dias para exame e, em sua primeira reunião, indicará 03 (três) nomes, quando se tratar de promoção por merecimento.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 122 - Findo o prazo para impugnações, reclamações e desistências, com o pronunciamento da Corregedoria Geral, o Conselho Superior terá 05 (cinco) dias para exame e, em sua primeira reunião, indicará 03 (três) nomes, quando se tratar de promoção ou remoção por merecimento."
 
 **§ 1º** - A lista de merecimento será formada com os nomes dos 03 (três) candidatos mais votados, desde que obtida a maioria dos votos, procedendo-se, para alcançá-la, a tantas votações quantas necessárias, examinados em primeiro lugar os nomes dos remanescentes de lista anterior, cabendo ao Defensor Público-Geral a escolha.
@@ -1971,7 +2076,8 @@ Redação original: "Art. 122 - Findo o prazo para impugnações, reclamações 
 
 **II -**      não tenham sido removidos por permuta, no período de 01 (um) ano anterior à elaboração da lista;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "II - não tenham sido removidos, voluntariamente ou por permuta, no período de 02 (dois) anos anteriores à elaboração da lista;"
 
 **III -**    tenham completado 02 (dois) anos de exercício na classe anterior, salvo se não houver com tais requisitos outro candidato, ou quando o número limitado de inscritos inviabilizar a formação de lista tríplice e o interesse do serviço exigir o imediato provimento do cargo.
@@ -1986,7 +2092,8 @@ Redação original: "II - não tenham sido removidos, voluntariamente ou por per
 
 **Art. 124** - O concurso de remoção na Instância Superior precede, obrigatoriamente, ao de promoção para a Instância Superior.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 124 - O concurso de remoção precede, obrigatoriamente, ao de promoção."
 
 **§ 1º** - A vaga desocupada em decorrência de remoção será preenchida, obrigatoriamente, por promoção.
@@ -2009,10 +2116,12 @@ Redação original: "Art. 124 - O concurso de remoção precede, obrigatoriament
 
 **§ 3º** - Finda a designação prevista no parágrafo anterior, será restituído ao Defensor Público o período de trânsito remanescente.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA DISPONIBILIDADE E DO APROVEITAMENTO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Disponibilidade
 
 **Art. 129** - O Defensor Público, exceto aquele em estágio probatório, poderá, por interesse público, ser posto em disponibilidade, por deliberação de, no mínimo, 2/3 (dois terços) dos membros do Conselho Superior, assegurada ampla defesa, nas seguintes hipóteses:
@@ -2027,7 +2136,8 @@ Da Disponibilidade
 
 **Art. 130** \- O Defensor Público em disponibilidade remunerada continuará sujeito às vedações constitucionais e será classificado em quadro especial, devendo ser aproveitado, imediatamente após o surgimento de vaga em órgão equivalente ao que ocupava, cessado o motivo de interesse público que determinou a referida disponibilidade.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Do Aproveitamento
 
 **Art. 131** - O aproveitamento é o retorno ao exercício funcional do Defensor Público posto em disponibilidade, quando o órgão de sua atuação for extinto ou declarada a sua desnecessidade.
@@ -2040,7 +2150,8 @@ Do Aproveitamento
 
 **Art. 134** - Será tornado sem efeito o aproveitamento, e cassada a disponibilidade, se o Defensor Público, cientificado expressamente do ato de aproveitamento, não reassumir o cargo, no prazo de 30 (trinta) dias, salvo doença comprovada por junta médica oficial, assegurada ampla defesa.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DO PROVIMENTO DERIVADO
 
 **Art. 135** - São formas de provimento derivado dos cargos da Defensoria Pública:
@@ -2049,7 +2160,8 @@ DO PROVIMENTO DERIVADO
 
 **II -**      reversão.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Reintegração
 
 **Art. 136** - A reintegração é o retorno do Defensor Público ao cargo em decorrência de sentença transitada em julgado, ou de decisão definitiva em processo administrativo, com ressarcimento da remuneração não percebida em razão do afastamento, inclusive quanto ao cômputo do tempo de serviço.
@@ -2068,7 +2180,8 @@ Da Reintegração
 
 **§ 4º** - O Defensor Público reintegrado será submetido à junta médica oficial e, se considerado incapaz, será aposentado por invalidez, observadas as regras previstas na legislação pertinente.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Reversão
 
 **Art. 137** - Reversão é o retorno à atividade do Defensor Público aposentado por invalidez, quando for verificada, por junta médica oficial, a insubsistência dos motivos da aposentadoria, salvo se tenha atingido a idade da aposentadoria compulsória.
@@ -2079,7 +2192,8 @@ Da Reversão
 
 **§ 3º** - Será cassada a aposentadoria se o aposentado não comparecer à junta médica oficial para inspeção, ou não entrar em exercício, dentro do prazo de 30 (trinta) dias, assegurada ampla defesa.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DA OPÇÃO
 
 **<Revogado> Art. 138** \- A elevação de entrância da Comarca não acarreta a promoção do respectivo Defensor Público, ficando-lhe, apenas, assegurado o direito de perceber a diferença de vencimento.
@@ -2096,7 +2210,8 @@ Art. 138 e seus parágrafos revogados pela Lei Complementar nº 46 de 29 de outu
 
 Art. 139 revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DAS SUBSTITUIÇÕES
 
 **Art. 140** - Os Defensores Públicos são substituídos:
@@ -2105,12 +2220,14 @@ DAS SUBSTITUIÇÕES
 
 **II -**      por Defensor Público, mediante convocação regular;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "II - por Defensor Público de classe igual ou imediatamente inferior, mediante convocação regular;"
 
 **III -**    por Defensor Público designado pelo Defensor Público-Geral, para exercício cumulativo de atribuições, prioritariamente através de rodízio e de acordo com a proximidade temática, de modo a garantir a continuidade ou a adequação dos serviços, quando a substituição não puder ser feita de outra forma.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "III - por Defensor Público designado pelo Defensor Público-Geral, para exercício cumulativo de atribuições, quando a substituição não puder ser feita de outra forma."
 
 **Parágrafo único** - Somam-se para aferição de tempo, as substituições contínuas e ininterruptas, ainda que decorrentes de motivos distintos.”
@@ -2131,7 +2248,8 @@ Parágrafo único acrescido pela Lei Complementar nº 46 de 29 de outubro de 201
 
 **§ 3º** - Cabe ao Defensor Público substituto, sem prejuízo de suas funções regulares, responder pelas audiências e prazos em curso, independente do número de substituições realizadas, cabendo-lhe a percepção de gratificação equivalente a 1/3 (um terço) de seu vencimento básico, desde que tenha exercido período mínimo de 10 (dez) dias em qualquer delas.
 
-Redação de acordo com o art. 4º da Lei Complementar nº 033, de 05 de fevereiro de 2009.<br>
+Redação de acordo com o art. 4º da Lei Complementar nº 033, de 05 de fevereiro de 2009.
+
 Redação original: "§ 3º - O Defensor Público substituto, sem prejuízo de suas funções regulares, responderá pelas audiências e prazos em curso no período da substituição e perceberá gratificação com valor equivalente a 1/3 (um terço) do seu vencimento, independente do número de substituições realizadas."
 
 **Art. 142** - O Defensor Público poderá exercer substituição, em face de convocação regular feita pelo Defensor Público-Geral ou em caso de afastamento de Defensor Público de suas funções, por período superior a 03 (três) meses consecutivos.
@@ -2140,8 +2258,10 @@ Redação original: "§ 3º - O Defensor Público substituto, sem prejuízo de s
 
 **Art. 143** \- A substituição cumulativa dar-se-á quando o Defensor Público responder por mais de uma Unidade Defensorial, pelo que perceberá gratificação com valor equivalente a 1/3 (um terço) do seu subsídio, por mês, independentemente do número de substituições realizadas.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
-Redação original: "Art. 143 - A substituição cumulativa dar-se-á quando o Defensor Público responder por mais de uma unidade da Defensoria Pública, além do desempenho de sua titularidade, pelo que perceberá gratificação com valor equivalente a 1/3 (um terço) do seu vencimento, independente do número de substituições realizadas.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
+Redação original: "Art. 143 - A substituição cumulativa dar-se-á quando o Defensor Público responder por mais de uma unidade da Defensoria Pública, além do desempenho de sua titularidade, pelo que perceberá gratificação com valor equivalente a 1/3 (um terço) do seu vencimento, independente do número de substituições realizadas.
+
 Parágrafo único - O Defensor Público-Geral procederá às designações e editará ato sobre o procedimento das substituições cumulativas."
 
 § 1º - O Conselho Superior editará ato sobre o procedimento das substituições cumulativas, estabelecendo sempre que possível o regime de rodízio e priorizando as cumulações que guardem proximidade temática e a vinculação ao território de identidade, após o que o Defensor Público-Geral procederá às designações.
@@ -2164,7 +2284,8 @@ IV - atuação durante período de recesso ou de férias coletivas.
 
 § 3º acrescido pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
-CAPÍTULO X -<br>
+CAPÍTULO X -
+
 DA VACÂNCIA
 
 **Art. 144 -** Dar-se-á a vacância dos cargos da carreira de Defensor Público, na data do fato ou da publicação do ato, conforme o caso, por:
@@ -2195,10 +2316,12 @@ DA VACÂNCIA
 
 **Parágrafo único -**   A exoneração a pedido será concedida ao Defensor Público que não esteja sujeito a processo administrativo ou judicial.
 
-CAPÍTULO XI -<br>
+CAPÍTULO XI -
+
 DAS GARANTIAS E PRERROGATIVAS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Das Garantias
 
 **Art. 147** - Os Defensores Públicos sujeitam-se a regime jurídico especial, previsto nesta Lei, e têm as seguintes garantias:
@@ -2211,7 +2334,8 @@ Das Garantias
 
 **IV -**     irredutibilidade de vencimentos.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Prerrogativas
 
 **Art. 148** \- Constituem prerrogativas dos Defensores Públicos:
@@ -2278,15 +2402,18 @@ Das Prerrogativas
 
 **Art. 149** \- As garantias e prerrogativas dos Defensores Públicos são inerentes e irrenunciáveis ao exercício de suas funções e não excluem outras estabelecidas em lei.
 
-CAPÍTULO XII -<br>
+CAPÍTULO XII -
+
 DOS VENCIMENTOS E VANTAGENS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Dos Vencimentos e Vantagens Pecuniárias
 
 **Art. 150** - Os vencimentos percebidos pelos ocupantes de cargos e funções da Defensoria Pública do Estado da Bahia estão sujeitos ao teto constitucional previsto no inciso XI do art. 37 da Constituição Federal.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 150 - O Defensor Público será remunerado mediante o pagamento de vencimento, acrescido das vantagens pecuniárias, permanentes ou temporárias, conferidas em diplomas legais diversos, sem prejuízo das vantagens pecuniárias adiante enumeradas:"
 
 **<Revogado> I -**             gratificação pelo exercício de cargos em comissão ou chefia, junto aos órgãos da administração superior, órgãos de execução e órgãos auxiliares da Defensoria Pública, na forma desta Lei;
@@ -2295,7 +2422,8 @@ Inciso I revogado Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **<Revogado> II -**           verba de representação, concedida ao Defensor Público-Geral, ao Subdefensor Público-Geral, ao Corregedor-Geral, aos Coordenadores Executivos de Defensoria e ao Coordenador da Escola Superior da Defensoria Pública, segundo a aplicação dos índices de, respectivamente, 40% (quarenta por cento), 30% (trinta por cento), 30% (trinta por cento), 20% (vinte por cento) e 20% (vinte por cento) sobre o vencimento, e ao Corregedor Adjunto e aos Subcoordenadores das Defensorias Públicas Especializadas e Regionais segundo a aplicação do índice de 15% (quinze por cento) sobre o vencimento, observado o seguinte:
 
-Redação de acordo com o art. 5º da Lei Complementar nº 033, de 05 de fevereiro de 2009.<br>
+Redação de acordo com o art. 5º da Lei Complementar nº 033, de 05 de fevereiro de 2009.
+
 Redação original: "II - verba de representação, concedida ao Defensor Público-Geral, ao Subdefensor Público-Geral, ao Corregedor-Geral e aos Coordenadores Executivos de Defensoria, segundo a aplicação dos índices de, respectivamente, 100% (cem por cento), 80% (oitenta por cento), 70% (setenta por cento) e 60% (sessenta por cento) sobre o vencimento, e ao Corregedor Adjunto, aos Subcoordenadores das Defensorias Públicas Especializadas e Regionais e ao Coordenador da Escola Superior da Defensoria Pública, segundo a aplicação do índice de 20% (vinte por cento) sobre o vencimento, observado o seguinte:"
 
 **a)** garantia da percepção da correspondente diferença de percentual, em caso de substituição de função, cujo índice seja maior do que o percebido pelo substituto;
@@ -2408,14 +2536,18 @@ VIII - aos Defensores-Assessores do Gabinete, no valor de 15% (quinze por cento)
 
 **Art. 152** - O Defensor Público convocado ou designado para auxiliar ou para substituir na Instância Superior, terá direito à diferença de subsídios entre o seu cargo e o que ocupar, vedada a percepção de diárias.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
-Redação de acordo com o art. 5º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "Art. 152 - O Defensor Público convocado ou designado para auxiliar ou para substituir na Instância Superior, terá direito à diferença de subsídios entre o seu cargo e o que ocupar, vedada a percepção de diárias."<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
+Redação de acordo com o art. 5º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "Art. 152 - O Defensor Público convocado ou designado para auxiliar ou para substituir na Instância Superior, terá direito à diferença de subsídios entre o seu cargo e o que ocupar, vedada a percepção de diárias."
+
 Redação original: "Art. 152 - O Defensor Público convocado ou designado para auxiliar ou para substituir, em entrância superior, terá direito à diferença de vencimentos entre o seu cargo e o que ocupar, vedada a percepção de diárias."
 
 **Parágrafo único -** A diferença de subsídios mencionada no caput deste artigo será paga em valor integral na hipótese de substituição por 30 (trinta) dias e, proporcionalmente, nos casos em que se der por prazo diverso.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
-Redação de acordo com o art. 5º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "Parágrafo único - A diferença de subsídios mencionada no caput deste artigo será paga em valor integral na hipótese de substituição por 30 (trinta) dias e, proporcionalmente, nos casos em que se der por prazo diverso."<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
+Redação de acordo com o art. 5º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "Parágrafo único - A diferença de subsídios mencionada no caput deste artigo será paga em valor integral na hipótese de substituição por 30 (trinta) dias e, proporcionalmente, nos casos em que se der por prazo diverso."
+
 Redação original: "Parágrafo único - A diferença de vencimentos mencionada no caput deste artigo será paga em valor integral na hipótese de substituição por 30 (trinta) dias e, proporcionalmente, nos casos em que se der por prazo diverso. "
 
 **Art. 153** - A remuneração dos membros da Defensoria Pública do Estado da Bahia será fixada em nível condizente com a relevância da função, observando-se os seguintes critérios:
@@ -2424,16 +2556,20 @@ I - observância ao disposto no § 1º do art. 39 e às regras e princípios pre
 
 II - fixação dos subsídios por lei ordinária, com diferença não superior a 07% (sete por cento) de uma para outra classe, observado o disposto no inciso XI do art. 37 da Constituição Federal.” (NR)
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
-Redação anterior de acordo com o art. 6º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "Art. 153 - Os vencimentos dos Defensores Públicos serão fixados por lei ordinária, observado o disposto no inciso VI do art. 32 desta Lei."<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
+Redação anterior de acordo com o art. 6º da Lei Complementar nº 033, de 05 de fevereiro de 2009: "Art. 153 - Os vencimentos dos Defensores Públicos serão fixados por lei ordinária, observado o disposto no inciso VI do art. 32 desta Lei."
+
 Redação original: "Art. 153 - Os vencimentos dos Defensores Públicos serão fixados por lei ordinária, com diferença de 10% (dez por cento) de uma para outra classe, observado o disposto no inciso VI do art. 32 desta Lei."
 
 **Art. 154** - No âmbito da Defensoria Pública, fica estabelecido, como limite máximo de remuneração, os valores percebidos em espécie, a qualquer título, pelo Defensor Público-Geral, ressalvadas as vantagens de caráter individual e as de caráter indenizatório.
 
-Redação de acordo com o art. 7º da Lei Complementar nº 033, de 05 de fevereiro de 2009.<br>
+Redação de acordo com o art. 7º da Lei Complementar nº 033, de 05 de fevereiro de 2009.
+
 Redação original: "Art. 154 - No âmbito da Defensoria Pública fica estabelecido, como limite máximo de remuneração, os valores percebidos em espécie, a qualquer título, pelo Defensor Público-Geral, ressalvadas as vantagens de caráter individual, de caráter indenizatório e as relativas à natureza e ao local do trabalho."
 
-Subseção I -<br>
+Subseção I -
+
 Da Gratificação Natalina
 
 **Art. 155** - A gratificação natalina corresponde a 1/12 (um doze avos) da remuneração a que o Defensor Público fizer jus, no mês do exercício, no respectivo ano.
@@ -2452,7 +2588,8 @@ Da Gratificação Natalina
 
 **Art. 158** - A gratificação natalina não será considerada para cálculo de qualquer parcela remuneratória.
 
-Subseção II -<br>
+Subseção II -
+
 Do Adicional por Tempo de Serviço
 
 **Art. 159** - O Defensor Público com mais de 05 (cinco) anos de efetivo exercício no serviço público, terá direito por anuênio, contínuo ou não, à percepção de adicional calculado à razão de 1% (um por cento) sobre o valor do vencimento básico do cargo de que seja ocupante.
@@ -2463,12 +2600,14 @@ Do Adicional por Tempo de Serviço
 
 **Art. 160** - O adicional será devido a partir do mês em que o Defensor Público completar o anuênio.
 
-Subseção III -<br>
+Subseção III -
+
 Da Ajuda de Custo
 
 **Art. 161** - A ajuda de custo será devida ao Defensor Público nas hipóteses de remoção, exceto a compulsória ou por permuta, designação ou promoção que importe em alteração de domicílio, para ressarcir despesas de mudança, transporte e instalação na nova sede de exercício, independentemente de comprovação, e corresponderá a 1/3 (um terço) do subsídio do cargo que deva assumir.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 161 - A ajuda de custo será devida ao Defensor Público nas hipóteses de remoção, exceto a compulsória, designação ou promoção que importe em alteração de domicílio, para ressarcir despesas de mudança, transporte e instalação na nova sede de exercício, independentemente de comprovação, e corresponderá a 1/3 (um terço) do vencimento do cargo que deva assumir."
 
 **§ 1º** - A ajuda de custo será paga, independentemente do Defensor Público assumir o cargo, e será restituída, caso a assunção não se efetive.
@@ -2481,7 +2620,8 @@ Redação original: "Art. 161 - A ajuda de custo será devida ao Defensor Públi
 
 § 4º acrescido pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
-Subseção IV -<br>
+Subseção IV -
+
 Das Diárias
 
 **Art. 162** - O Defensor Público ou servidor que, em razão do serviço, se deslocar temporariamente da sede ou da Comarca em que tiver exercício, terá direito à percepção de diárias para indenização de despesas, cujos critérios para concessão serão definidos por ato do Defensor Público-Geral, observado como parâmetro as diárias estipuladas pelo Poder Executivo Estadual.
@@ -2492,7 +2632,8 @@ Das Diárias
 
 **§ 3º** - Na hipótese do Defensor Público retornar à sede em prazo inferior ao previsto para o seu afastamento, restituirá as diárias recebidas em excesso, no prazo de 05 (cinco) dias úteis.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Vantagens Não Pecuniárias
 
 **Art. 163** - Além dos vencimentos e vantagens, tratados nos artigos anteriores, asseguram-se aos Defensores Públicos os seguintes direitos:
@@ -2503,7 +2644,8 @@ Das Vantagens Não Pecuniárias
 
 **III -**    aposentadoria e pensão por morte, nos termos da Constituição Federal e da legislação vigente.
 
-Subseção I -<br>
+Subseção I -
+
 Das Férias
 
 **Art. 164** - Os Defensores Públicos terão direito a férias após cada período de 12 (doze) meses de efetivo exercício na carreira, correspondentes a 60 (sessenta) dias anuais, na seguinte proporção:
@@ -2544,7 +2686,8 @@ Das Férias
 
 **Parágrafo único -**   No caso do Defensor Público-Geral, as férias e licenças serão concedidas pelo Subdefensor Público-Geral.
 
-Subseção II -<br>
+Subseção II -
+
 Das Licenças
 
 **Art. 168** - Aos Defensores Públicos, conceder-se-á licença:
@@ -2619,7 +2762,8 @@ Das Licenças
 
 **Art. 173** - Será concedida a licença gestante ou maternidade, por 180 (cento e oitenta) dias, observadas as seguintes condições:
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 173 - Será concedida a licença gestante ou maternidade, por 120 (cento e vinte) dias, observadas as seguintes condições:"
 
 **I -**       poderá ter início no primeiro dia do nono mês de gestação ou da comprovada data do parto, salvo antecipação por prescrição médica;
@@ -2636,7 +2780,8 @@ Redação original: "Art. 173 - Será concedida a licença gestante ou maternida
 
 **Art. 175** - A Defensora Pública, quando adotar criança de até 07 (sete) anos, terá direito à licença maternidade, com os mesmos direitos e vantagens do seu cargo, a partir do termo de concessão da adoção, ou quando obtiver judicialmente a sua guarda, para fins de adoção, pelo prazo de 180 (cento e oitenta) dias.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 175 - A Defensora Pública, quando adotar criança de até 07 (sete) anos, terá direito à licença maternidade, com os mesmos direitos e vantagens do seu cargo, a partir do termo de concessão da adoção, ou quando obtiver judicialmente a sua guarda, para fins de adoção, pelo prazo de 120 (cento e vinte) dias."
 
 **§ 1º -** A licença a que se refere o caput deste artigo será também concedida ao Defensor Público, caso seja o único adotante.
@@ -2647,7 +2792,8 @@ Redação original: "Art. 175 - A Defensora Pública, quando adotar criança de 
 
 **§ 4º**\- A licença paternidade de 08 (oito) dias será concedida ao Defensor Público, em virtude de adoção ou obtenção judicial de guarda, para fins de adoção, quando não for o único adotante.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 4º - A licença paternidade de 08 dias será concedida ao Defensor Público, em virtude de adoção conjunta. "
 
 **§ 5º** \- Em caso de adoção homoafetiva ou reprodução assistida que envolva dois integrantes da carreira de Defensor Público, estes indicarão quem fruirá cada uma das licenças previstas no caput e no § 4º deste artigo.
@@ -2682,7 +2828,8 @@ Redação original: "§ 4º - A licença paternidade de 08 dias será concedida 
 
 **Parágrafo único -**   O período de afastamento do Defensor Público para tratar de interesse particular não será computado como tempo de serviço.
 
-Subseção III -<br>
+Subseção III -
+
 Dos Afastamentos
 
 **Art. 180** - O Defensor Público poderá afastar-se do cargo para:
@@ -2727,7 +2874,8 @@ Dos Afastamentos
 
 **§ 2º** - Na hipótese de afastamento para freqüentar curso ou seminário, se o Defensor Público exonerar-se da carreira no prazo de 24 (vinte e quatro) meses após o término do curso ou seminário, ficará obrigado à devolução da remuneração percebida durante o período de afastamento.
 
-CAPÍTULO XIII -<br>
+CAPÍTULO XIII -
+
 DO TEMPO DE SERVIÇO
 
 **Art. 183** \- A apuração do tempo de serviço dos Defensores Públicos será feita em dias, convertidos em anos, sendo este de 365 (trezentos e sessenta e cinco) dias.
@@ -2768,10 +2916,12 @@ DO TEMPO DE SERVIÇO
 
 **Parágrafo único -**   O Defensor Público de férias ou licenciado não poderá exercer quaisquer de suas funções.
 
-CAPÍTULO XIV -<br>
+CAPÍTULO XIV -
+
 DOS DEVERES, DAS VEDAÇÕES, DOS IMPEDIMENTOS E DA RESPONSABILIDADE FUNCIONAL
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Dos Deveres
 
 **Art. 187** - São deveres funcionais dos Defensores Públicos, além de outros previstos em lei e nas Constituições Federal e Estadual:
@@ -2838,7 +2988,8 @@ Dos Deveres
 
 **Parágrafo único -**   O Defensor Público, dando-se por suspeito ou impedido, deverá comunicar motivadamente o fato ao superior hierárquico ao qual esteja subordinado.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Vedações
 
 **Art. 188** - Além das vedações decorrentes do exercício de cargo público, aos Defensores Públicos não é permitido:
@@ -2861,7 +3012,8 @@ Das Vedações
 
 **Parágrafo único -**   Não constituem acumulação, para os efeitos do inciso IV, deste artigo, as atividades exercidas em organismos estatais afetos à área de atuação da Defensoria Pública, na Escola Superior da Defensoria Pública, em entidades de representação de classe e o exercício de cargos em comissão na administração superior e junto aos órgãos de execução ou auxiliares da Defensoria Pública.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Dos Impedimentos
 
 **Art. 189** - É defeso ao Defensor Público exercer as suas funções em processo ou procedimento:
@@ -2900,7 +3052,8 @@ Dos Impedimentos
 
 **§ 2º** - O desrespeito às regras contidas neste Capítulo somente levará à punição em caso de conduta dolosa.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Responsabilidade Funcional
 
 **Art. 194** \- A atividade funcional dos Defensores Públicos estará sujeita a:
@@ -2945,10 +3098,12 @@ Da Responsabilidade Funcional
 
 **Art. 200** \- Sempre que em correição ou visita de inspeção for verificada a violação dos deveres impostos aos Defensores Públicos, o órgão de correição tomará notas reservadas do que coligir no exame dos autos, livros e papéis e das informações que obtiver, determinando a instauração do procedimento disciplinar adequado.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DO REGIME DISCIPLINAR
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS INFRAÇÕES DISCIPLINARES
 
 **Art. 201** \- Constituem infrações disciplinares por parte dos Defensores Públicos:
@@ -2971,7 +3126,8 @@ DAS INFRAÇÕES DISCIPLINARES
 
 **IX -**     violação de outros deveres e funções institucionais.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS PENALIDADES
 
 **Art. 202** \- Os Defensores Públicos são passíveis das seguintes sanções disciplinares:
@@ -3090,10 +3246,12 @@ Parágrafo único do art. 112 revogado Lei Complementar nº 46 de 29 de outubro 
 
 **Art. 218** - Pelo exercício irregular da função pública, o Defensor Público responde penal, civil e administrativamente, observado o disposto nesta Lei e na Constituição Federal.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO PROCESSO DISCIPLINAR
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Das Disposições Preliminares
 
 **Art. 219** - A apuração das infrações disciplinares será feita mediante:
@@ -3130,7 +3288,8 @@ Das Disposições Preliminares
 
 **Art. 227** - Aplicam-se, subsidiariamente, ao processo disciplinar, as normas do Estatuto dos Servidores Públicos Civis do Estado da Bahia.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Sindicância
 
 **Art. 228** \- A sindicância será processada na Corregedoria Geral e terá como sindicante o Corregedor-Geral da Defensoria Pública.
@@ -3155,7 +3314,8 @@ Da Sindicância
 
 **§ 3º** - Se na sindicância ficarem apurados fatos que recomendem a disponibilidade ou a remoção compulsória, ambas por interesse público, o Corregedor-Geral representará para este fim ao Conselho Superior.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do Processo Administrativo Sumário
 
 **Art. 232** - O processo administrativo sumário, para apuração das faltas disciplinares apenadas nos termos dos incisos I, II e III do art. 202 desta Lei, será instaurado e conduzido pelo Corregedor-Geral quando o infrator for Defensor Público.
@@ -3202,7 +3362,8 @@ Do Processo Administrativo Sumário
 
 **Art. 240** \- O indiciado será intimado pessoalmente da decisão, salvo se for revel ou furtar-se à intimação, casos em que será feita por publicação no Diário Oficial do Estado.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Do Processo Administrativo Ordinário
 
 **Art. 241** - O processo administrativo ordinário para apuração das faltas disciplinares apenadas nos termos dos incisos IV, V, VI e VII do art. 202 desta Lei, será presidido pelo Corregedor-Geral, quando o infrator for Defensor Público. 
@@ -3255,7 +3416,8 @@ Do Processo Administrativo Ordinário
 
 **Art. 252** - Os atos e termos, para os quais não foram fixados prazos em lei, serão determinados pelo Corregedor-Geral.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 Do Recurso
 
 **Art. 253** - Das decisões condenatórias proferidas pelo Defensor Público-Geral ou pelo Corregedor-Geral caberá recurso, com efeito suspensivo, para o Conselho Superior da Defensoria Pública, na sua composição plena, o qual não poderá agravar a pena imposta.
@@ -3276,7 +3438,8 @@ Do Recurso
 
 **Art. 254** \- O julgamento realizar-se-á de acordo com as normas regimentais, intimando-se o recorrente da decisão por meio do Diário Oficial do Estado.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 Da Revisão do Processo Administrativo e da Reabilitação
 
 **Art. 255** - Admitir-se-á, a qualquer tempo, a revisão de processo disciplinar de que tenha resultado imposição de pena, sempre que forem alegados fatos ou circunstâncias ainda não apreciados, ou vícios insanáveis do procedimento, que possam justificar, respectivamente, nova decisão ou anulação.
@@ -3301,7 +3464,8 @@ Da Revisão do Processo Administrativo e da Reabilitação
 
 LIVRO III
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **<Revogado> Art. 257** \- O Conselho Superior da Defensoria Pública baixará Resolução, especificando, no prazo de 120 (cento e vinte) dias, a contar da promulgação desta Lei, a quantidade de Defensorias Públicas em cada Comarca, bem como o número de Defensores que atuará em cada uma dessas Defensorias.
@@ -3312,37 +3476,44 @@ Art. 257 revogado Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **I -**       Defensor Público-Geral ou Defensora Pública-Geral, para designar o dirigente máximo da Defensoria Pública;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "I - Defensor Público-Geral, para designar o dirigente máximo da Defensoria Pública;"
 
 **II -**      Defensor Público de Instância Superior ou Defensora Pública de Instância Superior, para designar o Defensor Público pertencente à classe de Instância Superior;
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "II - Defensor Público de Instância Superior, para designar o Defensor Público com atuação junto aos Tribunais;"
 
 **III -**    Defensor Público ou Defensora Pública, para designar o Defensor Público.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "III - Defensor Público, para designar o Defensor Público com atuação no 1º grau de jurisdição."
 
 **§ 1º** - À nomenclatura das unidades defensoriais poderão ser acrescidos, isolada ou cumulativamente, os nomes da Comarca, da região e do tema de atuação.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 1º - A nomenclatura dos cargos de Defensor Público destinados à Capital do Estado poderá ser acrescida da expressão "da Capital", ou da designação da localidade do respectivo foro regional, ou de indicativo das funções, sejam especializadas ou não."
 
 **§ 2º** - A nomenclatura dos cargos de Defensor Público terá a designação da Classe a que pertençam.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 2º - A nomenclatura dos cargos de Defensor Público destinados ao interior do Estado terá a designação da sede da Comarca ou da localidade a que pertençam."
 
 **§ 3º** - Havendo, na mesma Comarca ou região, unidades defensoriais de idêntica nomenclatura, estas serão precedidas por números que indiquem a ordem de sua criação.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 3º - Havendo, na mesma Comarca ou localidade, cargos com idêntica nomenclatura, esta será precedida por número que indique a ordem de sua criação."
 
 **§ 4º** - A designação da Comarca ou da região na nomenclatura da unidade defensorial fixa o âmbito territorial dentro do qual poderão ser exercidas as respectivas funções.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 4º - A designação da Comarca ou da localidade na nomenclatura do cargo fixa o âmbito territorial, dentro do qual poderão ser exercidas as respectivas funções."
 
 **<Revogado> § 5º -** Os cargos de Defensor Público poderão ser:
@@ -3359,7 +3530,8 @@ Revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **§ 6º** - A todas as unidades defensoriais é atribuída a função de atendimento ao público, na respectiva área de atuação.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "§ 6º - Aos cargos de Defensor Público é atribuída a função de atendimento ao público, na respectiva área de atuação."
 
 **<Revogado> Art. 259** - As áreas de atuação dos Defensores Públicos nas unidades judiciárias e extrajudiciárias, respeitadas as disposições especiais desta Lei, serão definidas no Regimento Interno da Defensoria Pública, para efeito de definição de titularidade e substituição cumulativa nos processos de remoção e promoção.
@@ -3384,7 +3556,8 @@ Art. 261 revogado Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **Art. 265** - A Defensoria Pública, por meio de seus órgãos de execução, fica autorizada a promover a execução de verbas de sucumbência das causas em que atuar, exceto contra entes públicos da administração pública direta e indireta, destinando-as ao Fundo de Assistência Judiciária, a ser criado por lei específica, cujos recursos serão revertidos em benefício do aperfeiçoamento e capacitação dos membros e servidores da Defensoria Pública.
 
-Ver também:<br>
+Ver também:
+
 Lei nº 11.045, de 13 de maio de 2008 - Cria o Fundo de Assistência Judiciária da Defensoria Pública do Estado da Bahia - FAJDPE/BA, previsto no art. 265 da LC nº 26/2006, e dá outras providências.
 
 **Parágrafo único** - Os recursos do Fundo de Assistência Judiciária também podem ser revertidos em despesas de investimento destinadas ao cumprimento do art. 98 do Ato das Disposições Constitucionais Transitórias da Constituição Federal.
@@ -3405,7 +3578,8 @@ Parágrafo único acrescido pela Lei Complementar 57 de 08 de julho de 2024.
 
 **Art. 270** \- O quadro permanente dos membros da Defensoria Pública é o constante do Anexo I desta Lei Complementar.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 270 - O quadro permanente dos membros da Defensoria Pública é o constante do Anexo I desta Lei, que estabelece o quadro “Quantitativo de Cargos” para a carreira de Defensor Público, bem como a sua correspondente “Tabela de Vencimentos"."
 
 **Parágrafo único** - Os subsídios dos membros da Defensoria Pública têm os valores constantes do Anexo II desta Lei Complementar, resguardado o direito individual à não redução dos subsídios.
@@ -3418,32 +3592,42 @@ Parágrafo único acrescido na redação dada pela Lei Complementar nº 46 de 29
 
 § 2º - A tabela de vencimentos, as atribuições, o ingresso e o desenvolvimento nas carreiras referidas no caput deste artigo, bem como outras questões relacionadas com o desempenho funcional, serão fixadas em lei ordinária específica, no prazo de 180 (cento e oitenta) dias, a contar da publicação desta Lei Complementar.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
-Redação original: "Art. 271 - Ficam criadas as carreiras de Assistente Técnico-Administrativo e Analista Técnico, com seus cargos efetivos, dispostos segundo o “Quantitativo de Cargos”, constante no Anexo II, sob o regime de trabalho de 40 (quarenta) horas semanais.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
+Redação original: "Art. 271 - Ficam criadas as carreiras de Assistente Técnico-Administrativo e Analista Técnico, com seus cargos efetivos, dispostos segundo o “Quantitativo de Cargos”, constante no Anexo II, sob o regime de trabalho de 40 (quarenta) horas semanais.
+
 Parágrafo único - A tabela de vencimentos, as atribuições, o ingresso e o desenvolvimento nas carreiras referidas no caput deste artigo, bem como outras questões relacionadas com o desempenho funcional, serão fixadas em lei ordinária específica, no prazo de 180 (cento e oitenta) dias, a contar da publicação desta Lei."
 
 **Art. 272** \- O provimento dos cargos da classe de Defensor de Instância Superior acontecerá gradativamente, conforme a disponibilidade orçamentária, não podendo superar a quantidade de desembargadores no Estado e de acordo com os seguintes limites:
 
-Redação de acordo com a Lei Complementar 57 de 08 de julho de 2024.<br>
-Redação anterior de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018: "Art. 272 - O provimento dos cargos de Instância Superior acontecerá gradativamente, conforme a disponibilidade orçamentária, não podendo superar a quantidade de desembargadores no Estado e de acordo com os seguintes limites:"<br>
+Redação de acordo com a Lei Complementar 57 de 08 de julho de 2024.
+
+Redação anterior de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018: "Art. 272 - O provimento dos cargos de Instância Superior acontecerá gradativamente, conforme a disponibilidade orçamentária, não podendo superar a quantidade de desembargadores no Estado e de acordo com os seguintes limites:"
+
 Redação original: "Art. 272 - Os atuais ocupantes do cargo de Defensor Público ficam enquadrados nas novas classes da carreira, de acordo com as seguintes regras:"
 
 **I -**       35 (trinta e cinco) cargos, enquanto o quadro total de Defensores for inferior a 400 (quatrocentos);
 
-Redação de acordo com a Lei Complementar 57 de 08 de julho de 2024.<br>
-Redação anterior de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018: "I -30 (trinta) cargos, enquanto o quadro total de Defensores for inferior a 350 (trezentos e cinquenta);"<br>
+Redação de acordo com a Lei Complementar 57 de 08 de julho de 2024.
+
+Redação anterior de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018: "I -30 (trinta) cargos, enquanto o quadro total de Defensores for inferior a 350 (trezentos e cinquenta);"
+
 Redação original: "I - na 1ª classe , os atuais ocupantes da 3ª classe;"
 
 **II -**      42 (quarenta e dois) cargos, enquanto o quadro total de Defensores for maior ou igual a 400 (quatrocentos) e inferior a 450 (quatrocentos e cinquenta);
 
-Redação de acordo com a Lei Complementar 57 de 08 de julho de 2024.<br>
-Redação anterior de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018."II - 35 (trinta e cinco) cargos, enquanto o quadro total de Defensores for maior ou igual a 350 (trezentos e cinquenta) e inferior a 450 (quatrocentos e cinquenta);"<br>
+Redação de acordo com a Lei Complementar 57 de 08 de julho de 2024.
+
+Redação anterior de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018."II - 35 (trinta e cinco) cargos, enquanto o quadro total de Defensores for maior ou igual a 350 (trezentos e cinquenta) e inferior a 450 (quatrocentos e cinquenta);"
+
 Redação original: "II - na 2ª classe, os atuais ocupantes da 2ª classe;"
 
 **III -**    49 (quarenta e nove) cargos, enquanto o quadro total de Defensores for maior ou igual a 450 (quatrocentos e cinquenta) e inferior a 500 (quinhentos);
 
-Redação de acordo com a Lei Complementar 57 de 08 de julho de 2024.<br>
-Redação anterior de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018: "III - 40 (quarenta) cargos, quando o quadro total de Defensores for maior ou igual a 450 (quatrocentos e cinquenta)."<br>
+Redação de acordo com a Lei Complementar 57 de 08 de julho de 2024.
+
+Redação anterior de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018: "III - 40 (quarenta) cargos, quando o quadro total de Defensores for maior ou igual a 450 (quatrocentos e cinquenta)."
+
 Redação original: "III - na 3ª classe , os atuais ocupantes da 1ª classe;"
 
 **III-A** \- 55 (cinquenta e cinco) cargos, enquanto o quadro total de Defensores for maior ou igual a 500 (quinhentos) e inferior a 550 (quinhentos e cinquenta);
@@ -3468,21 +3652,24 @@ IV revogado pela Lei Complementar nº 46 de 29 de outubro de 2018.
 
 **Art. 273** - Os cargos em comissão da Defensoria Pública do Estado da Bahia são os constantes do Anexo IV desta Lei Complementar.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 273 - Os cargos em comissão da Defensoria Pública do Estado da Bahia são os constantes do Anexo III que integra esta Lei."
 
 **Art. 274 -** A Tabela dos valores dos símbolos dos cargos em comissão da Defensoria Pública do Estado da Bahia é a constante no Anexo V desta Lei Complementar, ficando os valores correspondentes aos símbolos sujeitos a majorações.
 
 **Parágrafo único** - Os cargos de chefia, correição, assessoramento e confiança são os constantes do Anexo VI desta Lei Complementar.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 274 - A Tabela dos Valores dos Símbolos dos cargos em comissão da Defensoria Pública do Estado da Bahia são fixados no Anexo IV desta Lei, ficando os valores correspondentes aos símbolos sujeitos a majorações."
 
 **Art. 275** – As tabelas de valores constantes dos Anexos I e IV desta Lei já incorporam o reajuste concedido para o exercício de 2006.
 
 **Art. 276** - As alterações dos Anexos I, II, III, IV, V e VI desta Lei Complementar serão efetuadas por lei ordinária.
 
-Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.<br>
+Redação de acordo com a Lei Complementar nº 46 de 29 de outubro de 2018.
+
 Redação original: "Art. 276 - As alterações dos Anexos I, II, III e IV desta Lei serão efetuadas por lei ordinária, mediante proposta do Defensor Público-Geral ao Chefe do Poder Executivo."
 
 **Art. 277** - Aplica-se o disposto nesta Lei ao processo disciplinar administrativo em curso.
@@ -3515,7 +3702,7 @@ Redação original: "Art. 276 - As alterações dos Anexos I, II, III e IV desta
 
 **III -**    à continuidade dos serviços, até a estruturação definitiva da autonomia da Defensoria Pública do Estado da Bahia.
 
-**Art. 286** **–** O Defensor Público-Geral e os ocupantes de cargos ou funções da administração superior e dos órgãos de execução e auxiliares, que se encontrem no exercício de suas normais atribuições na data imediatamente anterior ao início da vigência desta Lei, permanecerão no exercício de suas respectivas atribuições, até que os prazos dos cargos eletivos e de nomeação para os quais foram designados se esgotem.
+**Art. 286–** O Defensor Público-Geral e os ocupantes de cargos ou funções da administração superior e dos órgãos de execução e auxiliares, que se encontrem no exercício de suas normais atribuições na data imediatamente anterior ao início da vigência desta Lei, permanecerão no exercício de suas respectivas atribuições, até que os prazos dos cargos eletivos e de nomeação para os quais foram designados se esgotem.
 
 **Art. 287** – Aos Defensores Públicos empossados até a data da promulgação da Constituição Federal de 1988 é conferido o direito de exercer a advocacia particular concomitante ao desempenho de suas funções institucionais, exceto nos processos onde já funcionaram como membros da Defensoria Pública.
 
@@ -3549,219 +3736,14 @@ Ana Lúcia Barbosa Castelo Branco
 
 Secretária da Administração
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:339.95pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:22.95pt"><td colspan="2" style="width:339.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="453"><p class="Tabela-Texto"><span style="color:black">ANEXO ÚNICO<br>QUADRO GERAL DA DEFENSORIA PÚBLICA<br>(Alterado pela Lei Complementar 57 de 08 de julho de 2024.)</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">CLASSE</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">CARGOS</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto" style="margin-right:0cm"><span style="color:black">Classe de Defensor Público de Instância Superior</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">60</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">Classe Final</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">250</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">Classe Intermediária</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">79</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">Classe Inicial II</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">59</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">Classe Inicial I</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">135</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> ANEXO ÚNICO QUADRO GERAL DA DEFENSORIA PÚBLICA (Alterado pela Lei Complementar 57 de 08 de julho de 2024.) </td></tr><tr><td valign="top"> CLASSE </td><td valign="top"> CARGOS </td></tr><tr><td valign="top"> Classe de Defensor Público de Instância Superior </td><td valign="top"> 60 </td></tr><tr><td valign="top"> Classe Final </td><td valign="top"> 250 </td></tr><tr><td valign="top"> Classe Intermediária </td><td valign="top"> 79 </td></tr><tr><td valign="top"> Classe Inicial II </td><td valign="top"> 59 </td></tr><tr><td valign="top"> Classe Inicial I </td><td valign="top"> 135 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.15pt;border-collapse:collapse" width="0"><tbody><tr><td colspan="2" style="width:468.15pt;border:solid #000001 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="624"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><b><span style="color:black">ANEXO II</span></b><br><span style="color:black">Subsídio<br>(Anexo II&nbsp; de acordo com a Lei Complementar nº 39, de 11 de abril de 2014.)</span></p></td></tr><tr><td style="width:270.85pt;border-top:none;border-left:
-  solid #000001 1.0pt;border-bottom:solid #000001 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="361"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">CLASSE</span></p></td><td style="width:197.3pt;border-top:none;border-left:
-  none;border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="263"><p class="Tabela-Texto"><span style="color:black">SUBSÍDIO<a name="__DdeLink__443_12069088981" id="__DdeLink__443_12069088981"></a></span></p></td></tr><tr><td style="width:270.85pt;border-top:none;border-left:
-  solid #000001 1.0pt;border-bottom:solid #000001 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="361"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">Defensor Público de Classe Inicial</span></p></td><td style="width:197.3pt;border-top:none;border-left:
-  none;border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="263"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">18.115,57</span></p></td></tr><tr><td style="width:270.85pt;border-top:none;border-left:
-  solid #000001 1.0pt;border-bottom:solid #000001 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="361"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">Defensor Público de Classe Intermediária</span></p></td><td style="width:197.3pt;border-top:none;border-left:
-  none;border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="263"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">20.128,58</span></p></td></tr><tr><td style="width:270.85pt;border-top:none;border-left:
-  solid #000001 1.0pt;border-bottom:solid #000001 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="361"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">Defensor Público de Classe Final</span></p></td><td style="width:197.3pt;border-top:none;border-left:
-  none;border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="263"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">22.365,27</span></p></td></tr><tr><td style="width:270.85pt;border-top:none;border-left:
-  solid #000001 1.0pt;border-bottom:solid #000001 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="361"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">Defensor Público de&nbsp; Instância Superior</span></p></td><td style="width:197.3pt;border-top:none;border-left:
-  none;border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="263"><p class="Tabela-Texto" style="margin-bottom:0cm;margin-bottom:.0001pt"><span style="color:black">24.850,50</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **ANEXO II** Subsídio (Anexo II&nbsp; de acordo com a Lei Complementar nº 39, de 11 de abril de 2014.) </td></tr><tr><td valign="top"> CLASSE </td><td valign="top"> SUBSÍDIO<a name="__DdeLink__443_12069088981" id="__DdeLink__443_12069088981"></a> </td></tr><tr><td valign="top"> Defensor Público de Classe Inicial </td><td valign="top"> 18.115,57 </td></tr><tr><td valign="top"> Defensor Público de Classe Intermediária </td><td valign="top"> 20.128,58 </td></tr><tr><td valign="top"> Defensor Público de Classe Final </td><td valign="top"> 22.365,27 </td></tr><tr><td valign="top"> Defensor Público de&nbsp; Instância Superior </td><td valign="top"> 24.850,50 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.3pt;border-collapse:collapse" width="0"><tbody><tr><td colspan="3" style="width:468.3pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="624"><p class="Tabela-Texto"><b><span style="color:black">ANEXO III<br>ASSISTENTE TÉCNICO-ADMINISTRATIVO E ANALISTA TÉCNICO</span></b><br><span style="color:black">(Anexo II&nbsp; de acordo com a Lei Complementar nº 45 de 29 de outubro de 2018.)</span></p></td></tr><tr><td style="width:131.5pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p class="Tabela-Texto"><span style="color:black">Classe</span></p></td><td style="width:202.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="270"><p class="Tabela-Texto"><span style="color:black">Assistente Técnico-Administrativo</span></p></td><td style="width:134.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p class="Tabela-Texto"><span style="color:black">Analista Técnico</span></p></td></tr><tr><td style="width:131.5pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p class="Tabela-Texto"><span style="color:black">I</span></p></td><td style="width:202.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="270"><p class="Tabela-Texto"><span style="color:black">20</span></p></td><td style="width:134.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p class="Tabela-Texto"><span style="color:black">15</span></p></td></tr><tr><td style="width:131.5pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p class="Tabela-Texto"><span style="color:black">II</span></p></td><td style="width:202.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="270"><p class="Tabela-Texto"><span style="color:black">15</span></p></td><td style="width:134.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p class="Tabela-Texto"><span style="color:black">10</span></p></td></tr><tr><td style="width:131.5pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p class="Tabela-Texto"><span style="color:black">III</span></p></td><td style="width:202.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="270"><p class="Tabela-Texto"><span style="color:black">10</span></p></td><td style="width:134.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p class="Tabela-Texto"><span style="color:black">07</span></p></td></tr><tr><td style="width:131.5pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="175"><p class="Tabela-Texto"><span style="color:black">IV</span></p></td><td style="width:202.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="270"><p class="Tabela-Texto"><span style="color:black">05</span></p></td><td style="width:134.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p class="Tabela-Texto"><span style="color:black">05</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO III ASSISTENTE TÉCNICO-ADMINISTRATIVO E ANALISTA TÉCNICO** (Anexo II&nbsp; de acordo com a Lei Complementar nº 45 de 29 de outubro de 2018.) </td></tr><tr><td valign="top"> Classe </td><td valign="top"> Assistente Técnico-Administrativo </td><td valign="top"> Analista Técnico </td></tr><tr><td valign="top"> I </td><td valign="top"> 20 </td><td valign="top"> 15 </td></tr><tr><td valign="top"> II </td><td valign="top"> 15 </td><td valign="top"> 10 </td></tr><tr><td valign="top"> III </td><td valign="top"> 10 </td><td valign="top"> 07 </td></tr><tr><td valign="top"> IV </td><td valign="top"> 05 </td><td valign="top"> 05 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.3pt;border-collapse:collapse" width="0"><tbody><tr><td colspan="3" style="width:468.3pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="624"><p class="Tabela-Texto"><a name="LEI 26 Anexo 4" id="LEI 26 Anexo 4"></a><b><span style="color:
-  black">ANEXO IV<br>QUADRO DE CARGOS EM COMISSÃO DA DEFENSORIA PÚBLICA<br>DO ESTADO DA BAHIA</span></b><br><span style="color:black">(Anexo II&nbsp; de acordo com a Lei Complementar nº 45 de 29 de outubro de 2018.)</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Cargo</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">Símbolo</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">Quantidade</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Diretor Geral</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-2B</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Ouvidor Geral</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-2B</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Coordenador de Controle Interno</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-2B</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Assessor Especial</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-2C</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">02</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Coordenador I</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-2C</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">05</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Diretor</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-2C</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">03</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Coordenador Técnico</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-2D</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">05</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Assessor de Comunicação Social I</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-3</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Assessor Técnico</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-3</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">08</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Coordenador II</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-3</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">11</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Secretário de Gabinete</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-3</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">05</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Ouvidor Adjunto</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAS-3</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Assessor Administrativo</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-4</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">02</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Coordenador III</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-4</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">12</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Assistente Orçamentário</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-4</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">02</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Coordenador IV</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-5</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">03</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Assistente IV</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-5</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">02</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Oficial de Gabinete</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-5</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Assistente de Execução Orçamentária</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-5</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Secretário Administrativo I</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-5</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">06</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Coordenador V</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-6</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">04</span></p></td></tr><tr><td style="width:260.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="348"><p class="Tabela-Texto"><span style="color:black">Secretário Administrativo II</span></p></td><td style="width:118.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="158"><p class="Tabela-Texto"><span style="color:black">DAI-6</span></p></td><td style="width:88.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="118"><p class="Tabela-Texto"><span style="color:black">04</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"> <a name="LEI 26 Anexo 4" id="LEI 26 Anexo 4"></a>**ANEXO IV QUADRO DE CARGOS EM COMISSÃO DA DEFENSORIA PÚBLICA DO ESTADO DA BAHIA** (Anexo II&nbsp; de acordo com a Lei Complementar nº 45 de 29 de outubro de 2018.) </td></tr><tr><td> Cargo </td><td> Símbolo </td><td> Quantidade </td></tr><tr><td> Diretor Geral </td><td> DAS-2B </td><td> 01 </td></tr><tr><td> Ouvidor Geral </td><td> DAS-2B </td><td> 01 </td></tr><tr><td> Coordenador de Controle Interno </td><td> DAS-2B </td><td> 01 </td></tr><tr><td> Assessor Especial </td><td> DAS-2C </td><td> 02 </td></tr><tr><td> Coordenador I </td><td> DAS-2C </td><td> 05 </td></tr><tr><td> Diretor </td><td> DAS-2C </td><td> 03 </td></tr><tr><td> Coordenador Técnico </td><td> DAS-2D </td><td> 05 </td></tr><tr><td> Assessor de Comunicação Social I </td><td> DAS-3 </td><td> 01 </td></tr><tr><td> Assessor Técnico </td><td> DAS-3 </td><td> 08 </td></tr><tr><td> Coordenador II </td><td> DAS-3 </td><td> 11 </td></tr><tr><td> Secretário de Gabinete </td><td> DAS-3 </td><td> 05 </td></tr><tr><td> Ouvidor Adjunto </td><td> DAS-3 </td><td> 01 </td></tr><tr><td> Assessor Administrativo </td><td> DAI-4 </td><td> 02 </td></tr><tr><td> Coordenador III </td><td> DAI-4 </td><td> 12 </td></tr><tr><td> Assistente Orçamentário </td><td> DAI-4 </td><td> 02 </td></tr><tr><td> Coordenador IV </td><td> DAI-5 </td><td> 03 </td></tr><tr><td> Assistente IV </td><td> DAI-5 </td><td> 02 </td></tr><tr><td> Oficial de Gabinete </td><td> DAI-5 </td><td> 01 </td></tr><tr><td> Assistente de Execução Orçamentária </td><td> DAI-5 </td><td> 01 </td></tr><tr><td> Secretário Administrativo I </td><td> DAI-5 </td><td> 06 </td></tr><tr><td> Coordenador V </td><td> DAI-6 </td><td> 04 </td></tr><tr><td> Secretário Administrativo II </td><td> DAI-6 </td><td> 04 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr><td colspan="2" style="width:468.25pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="624"><p class="Tabela-Texto"><b><span style="color:black">ANEXO V<br>TABELA DOS VALORES DOS SÍMBOLOS DOS CARGOS EM COMISSÃO DA DEFENSORIA PÚBLICA DO ESTADO DA BAHIA</span></b><br><span style="color:black">(Anexo II&nbsp; de acordo com a Lei Complementar nº 45 de 29 de outubro de 2018.)</span></p></td></tr><tr><td style="width:238.7pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="318"><p class="Tabela-Texto"><span style="color:black">Símbolo</span></p></td><td style="width:229.55pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="306"><p class="Tabela-Texto"><span style="color:black">Vencimento</span></p></td></tr><tr><td style="width:238.7pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="318"><p class="Tabela-Texto"><span style="color:black">DAS-2B</span></p></td><td style="width:229.55pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="306"><p class="Tabela-Texto"><span style="color:black">5.117,63</span></p></td></tr><tr><td style="width:238.7pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="318"><p class="Tabela-Texto"><span style="color:black">DAS-2C</span></p></td><td style="width:229.55pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="306"><p class="Tabela-Texto"><span style="color:black">3.721,91</span></p></td></tr><tr><td style="width:238.7pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="318"><p class="Tabela-Texto"><span style="color:black">DAS-2D</span></p></td><td style="width:229.55pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="306"><p class="Tabela-Texto"><span style="color:black">2.907,74</span></p></td></tr><tr><td style="width:238.7pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="318"><p class="Tabela-Texto"><span style="color:black">DAS-3</span></p></td><td style="width:229.55pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="306"><p class="Tabela-Texto"><span style="color:black">2.326,19</span></p></td></tr><tr><td style="width:238.7pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="318"><p class="Tabela-Texto"><span style="color:black">DAI-4</span></p></td><td style="width:229.55pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="306"><p class="Tabela-Texto"><span style="color:black">1.395,76</span></p></td></tr><tr><td style="width:238.7pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="318"><p class="Tabela-Texto"><span style="color:black">DAI-5</span></p></td><td style="width:229.55pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="306"><p class="Tabela-Texto"><span style="color:black">872,51</span></p></td></tr><tr><td style="width:238.7pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" width="318"><p class="Tabela-Texto"><span style="color:black">DAI-6</span></p></td><td style="width:229.55pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="306"><p class="Tabela-Texto"><span style="color:black">788,06</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"> **ANEXO V TABELA DOS VALORES DOS SÍMBOLOS DOS CARGOS EM COMISSÃO DA DEFENSORIA PÚBLICA DO ESTADO DA BAHIA** (Anexo II&nbsp; de acordo com a Lei Complementar nº 45 de 29 de outubro de 2018.) </td></tr><tr><td> Símbolo </td><td> Vencimento </td></tr><tr><td> DAS-2B </td><td> 5.117,63 </td></tr><tr><td> DAS-2C </td><td> 3.721,91 </td></tr><tr><td> DAS-2D </td><td> 2.907,74 </td></tr><tr><td> DAS-3 </td><td> 2.326,19 </td></tr><tr><td> DAI-4 </td><td> 1.395,76 </td></tr><tr><td> DAI-5 </td><td> 872,51 </td></tr><tr><td> DAI-6 </td><td> 788,06 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr><td colspan="3" style="width:468.25pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="624"><p class="Tabela-Texto"><b><span style="color:black">ANEXO VI<br>QUADRO DOS ORGÃOS DE ADMINISTRAÇÃO SUPERIOR E AUXILIARES<br>CARGOS E CHEFIAS, CORREIÇÃO, ASSESSORAMENTO E CONFIANÇA</span></b><br><span style="color:black">(Anexo II&nbsp; de acordo com a Lei Complementar nº 45 de 29 de outubro de 2018.)</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Denominação Do Cargo</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Símbolo</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">Número</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Defensor Público-Geral</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Subdefensor Público-Geral</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Corregedor Geral da Defensoria Pública</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Corregedor Adjunto da Defensoria Pública</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Diretor da Escola Superior</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">01</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Coordenador Executivo</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">02</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Coordenador de Defensoria Pública Regional</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">27</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Coordenador de Defensoria Pública Especializada</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">20</span></p></td></tr><tr><td style="width:301.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="402"><p class="Tabela-Texto"><span style="color:black">Defensor-Assessor do Gabinete</span></p></td><td style="width:93.45pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="125"><p class="Tabela-Texto"><span style="color:black">Especial</span></p></td><td style="width:73.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="Tabela-Texto"><span style="color:black">04</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO VI QUADRO DOS ORGÃOS DE ADMINISTRAÇÃO SUPERIOR E AUXILIARES CARGOS E CHEFIAS, CORREIÇÃO, ASSESSORAMENTO E CONFIANÇA** (Anexo II&nbsp; de acordo com a Lei Complementar nº 45 de 29 de outubro de 2018.) </td></tr><tr><td valign="top"> Denominação Do Cargo </td><td valign="top"> Símbolo </td><td valign="top"> Número </td></tr><tr><td valign="top"> Defensor Público-Geral </td><td valign="top"> Especial </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subdefensor Público-Geral </td><td valign="top"> Especial </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Corregedor Geral da Defensoria Pública </td><td valign="top"> Especial </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Corregedor Adjunto da Defensoria Pública </td><td valign="top"> Especial </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor da Escola Superior </td><td valign="top"> Especial </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador Executivo </td><td valign="top"> Especial </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Coordenador de Defensoria Pública Regional </td><td valign="top"> Especial </td><td valign="top"> 27 </td></tr><tr><td valign="top"> Coordenador de Defensoria Pública Especializada </td><td valign="top"> Especial </td><td valign="top"> 20 </td></tr><tr><td valign="top"> Defensor-Assessor do Gabinete </td><td valign="top"> Especial </td><td valign="top"> 04 </td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-066049-0-000-09-01-1970@@@
-
 DECRETO Nº 66.049 - DE 9 DE JANEIRO DE 1970
 
 Declara de utilidade pública para fins de desapropriação, o domínio útil e respectivas benfeitorias, do imóvel que menciona, necessário ao Ministério do Exército.

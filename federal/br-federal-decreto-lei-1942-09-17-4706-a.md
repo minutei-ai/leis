@@ -1,5 +1,3 @@
-###DEL-004706-A-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.706-A – DE 17 DE SETEMBRO DE 1942
 
 Cria a Artilharia Divisionária da 14ª Divisão de Infantaria (normal)

@@ -1,5 +1,3 @@
-###DEC-082132-0-000-21-08-1978@@@
-
 Decreto nº 82.132, de 21 de agosto de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

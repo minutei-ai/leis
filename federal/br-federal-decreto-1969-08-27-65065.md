@@ -1,5 +1,3 @@
-###DEC-065065-0-000-27-08-1969@@@
-
 DECRETO Nº 65.065 - DE 27 DE AGÔSTO DE 1969.
 
 Altera os estatutos do Instituto de Resseguros do Brasil (IRB) e dá outras providências.

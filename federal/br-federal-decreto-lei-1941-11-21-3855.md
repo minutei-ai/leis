@@ -1,5 +1,3 @@
-###DEL-003855-0-000-21-11-1941@@@
-
 DECRETO-LEI N. 3.855 – DE 21 DE NOVEMBRO DE 1941
 
 Estatuto da Lavoura Canavieira

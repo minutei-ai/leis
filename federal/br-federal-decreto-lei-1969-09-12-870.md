@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/39ff505b-2439-4a46-96bb-2792bdfaa39c/texto#nowhere)
 
-###DEL-000870-0-000-12-09-1969@@@
-
 DECRETO-LEI Nº 870, DE 12 DE SETEMBRO DE 1969
 
 Autoriza o Govêrno do Estado da Bahia a realizar operação de empréstimo que especifica.

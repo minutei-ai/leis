@@ -1,5 +1,3 @@
-###LEI-000000-0-002-31-10-1831@@@
-
 LEI - DE 31 DE OUTUBRO DE 1831
 
 Estabelece o ordenado dos Juizes do Crime da Côrte.

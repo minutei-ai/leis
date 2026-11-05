@@ -1,5 +1,3 @@
-###DEC-058579-0-000-03-06-1966@@@
-
 DECRETO Nº 58.579, DE 3 DE junho DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Belém - PA, destinado ao Ministério da Guerra.

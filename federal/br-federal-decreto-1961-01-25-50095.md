@@ -1,5 +1,3 @@
-###DEC-050095-0-000-25-01-1961@@@
-
 DECRETO Nº 50.095, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Sociedade Anônima Rádio Pelotense para estabelecer uma estação de radiodifusão.

@@ -1,5 +1,3 @@
-###DEC-067650-0-000-23-11-1970@@@
-
 DECRETO Nº 67.650, DE 23 DE NOVEMBRO de 1970.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Pacaembu, com sede em Pacaembu, Estado de São Paulo.

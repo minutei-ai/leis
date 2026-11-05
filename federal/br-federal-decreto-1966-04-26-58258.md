@@ -1,5 +1,3 @@
-###DEC-058258-0-000-26-04-1966@@@
-
 decreto nº 58.258, de 26 de abril de 1966.
 
 Transforma o Consulado privativo em Santo Tomé em Consulado Honorário.

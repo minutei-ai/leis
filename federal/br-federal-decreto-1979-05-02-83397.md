@@ -1,5 +1,3 @@
-###DEC-083397-0-000-02-05-1979@@@
-
 decreto nº 83.397, de 02 de maio de 1979.
 
 Altera a redação do artigo 9º do Decreto nº 78.070, de 15 de julho de 1976, que regula a ocupação de imóveis residenciais da Administração Federal em Brasília, e dá outras providências.

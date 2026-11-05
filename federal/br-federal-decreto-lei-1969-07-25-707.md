@@ -1,5 +1,3 @@
-###DEL-000707-0-000-25-07-1969@@@
-
 DECRETO-LEI Nº 707, DE 25 De JulHO DE 1969
 
 Transfere áreas de terras da união para a Universidade Federal de Santa Maria.

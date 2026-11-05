@@ -1,5 +1,3 @@
-###DEC-002583-0-000-12-05-1998@@@
-
 DECRETO Nº 2.583, DE 12 DE MAIO DE 1998
 
 Dá nova redação ao art. 1º do Decreto nº 1.299, de 31 de outubro de 1994, que fixa a lotação de Adidos e Auxiliares de Adidos Militares junto às representações diplomáticas no exterior, e dá outras providências.

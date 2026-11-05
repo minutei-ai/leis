@@ -1,5 +1,3 @@
-###DEC-082313-0-000-25-09-1978@@@
-
 Decreto nº 82.313, de 25 de setembro de 1978.
 
 Concede reconhecimento ao curso de Comunicação Social da Universidade Federal do Rio Grande do Norte, com sede na cidade de Natal, Estado do Rio Grande do Norte.

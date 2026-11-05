@@ -1,5 +1,3 @@
-###DEL-001743-0-000-27-12-1979@@@
-
 # Decreto-lei nº 1.743, de 27 de dezembro de 1979
 
 Altera o limite percentual da Gratificação de que trata o Decreto-lei nº 1.698, de 3 de outubro de 1979.

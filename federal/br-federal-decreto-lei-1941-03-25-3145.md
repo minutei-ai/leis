@@ -1,5 +1,3 @@
-###DEL-003145-0-000-25-03-1941@@@
-
 DECRETO-LEI N. 3.145 – DE 25 DE MARÇO DE 1941
 
 Reorganiza o Estabelecimento Central de Material de Intendência e o estabelecimento de material de Intendência da Segunda Região militar.

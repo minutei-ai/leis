@@ -1,5 +1,3 @@
-###DEC-003763-0-000-06-03-2001@@@
-
 DECRETO Nº 3.763, DE 6 DE MARÇO DE 2001
 
 Inclui parágrafo único ao art. 10 do Decreto nº 3.735, de 24 de janeiro de 2001, que estabelece diretrizes aplicáveis às empresas estatais federais.

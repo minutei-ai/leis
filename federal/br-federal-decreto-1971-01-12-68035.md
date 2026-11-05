@@ -1,5 +1,3 @@
-###DEC-068035-0-000-12-01-1971@@@
-
 decreto nº 68.035, de 12 de janeiro de 1971
 
 Declara de utilidade pública o "Lar São Vicente de Paulo", com sede em Sorocaba, Estado de São Paulo.

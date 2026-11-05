@@ -1,5 +1,3 @@
-###DEC-005787-0-000-24-05-2006@@@
-
 DECRETO Nº 5.787, DE 24 DE MAIO DE 2006.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Madri, Reino da Espanha.

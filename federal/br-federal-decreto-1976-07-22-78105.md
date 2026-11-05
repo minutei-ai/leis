@@ -1,5 +1,3 @@
-###DEC-078105-0-000-22-07-1976@@@
-
 DECRETO Nº 78.105, DE 22 DE JULHO DE 1976.
 
 Extingue o Consulado Honorário do Brasil em Colônia, República Federal da Alemanha.

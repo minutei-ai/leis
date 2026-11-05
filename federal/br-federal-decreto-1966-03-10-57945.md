@@ -1,5 +1,3 @@
-###DEC-057945-0-000-10-03-1966@@@
-
 DECRETO Nº 57.945, de 10 de março de 1966.
 
 Autoriza o cidadão brasileiro Paulo Mendes Marques a lavrar calcário no município de Itararé, Estado de São Paulo.

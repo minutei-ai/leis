@@ -1,5 +1,3 @@
-###DEC-076375-0-000-02-10-1975@@@
-
 DECRETO Nº 76.375, DE 2 DE OUTUBRO DE 1975.
 
 Concede reconhecimento ao curso de História do Centro Pedagógico de Três Lagoas, mantido pela Universidade Estadual de Mato Grosso.

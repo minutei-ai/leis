@@ -1,5 +1,3 @@
-###DEC-086351-0-000-09-09-1981@@@
-
 Decreto nº 86.351, de 09 de setembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra, situadas no Município de Carutapera, Estado do Maranhão, destinadas à construção, pela Empresa Brasileira de Telecomunicações S.A. - EMBRATEL, de uma estação repetidora, integrante do tronco Cachoeira/São Mateus, no Município de Carutapera, Estado do Maranhão.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213022)<br>
-
 # DECRETO N° 70.918, DE 02 DE OUTUBRO DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de São Vicente, o imóvel que especifica._

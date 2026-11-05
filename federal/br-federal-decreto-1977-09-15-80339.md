@@ -1,5 +1,3 @@
-###DEC-080339-0-000-15-09-1977@@@
-
 DECRETO Nº 80.339, DE 15 DE SETEMBRO DE 1977
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União para a operação de crédito externo que menciona e dá outras providências.

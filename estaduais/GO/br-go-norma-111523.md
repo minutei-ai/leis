@@ -16,72 +16,624 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style=" width:12%;    ">06 122 4100 4146</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 567.131,66</td><td style=" width:12%;    ">R$ 917.063,15</td><td style=" width:12%;    ">R$ 1.484.194,81</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style=" width:12%;    ">14 122 4100 4146</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 10.377.602,72</td><td style=" width:12%;    ">R$ 4.922.397,28</td><td style=" width:12%;    ">R$ 15.300.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width: 100%;" width="100%"><tbody><tr><td style="  width: 100%;  height: 19px;"><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style=" width:12%;    ">06 122 4100 4146</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 16.648.983,57</td><td style=" width:12%;    ">R$ 7.279.514,94</td><td style=" width:12%;    ">R$ 23.928.498,51</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2903 - CORPO DE BOMBEIROS MILITAR</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style=" width:12%;    ">06 122 4100 4146</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 9.066.832,31</td><td style=" width:12%;    ">R$ 4.390.748,00</td><td style=" width:12%;    ">R$ 13.457.580,31</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO</td><td style=" width:12%;    ">06 182 1051 2368</td><td style=" width:12%;    ">17030292</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 688.406,71</td><td style=" width:12%;    ">R$ 934.590,70</td><td style=" width:12%;    ">R$ 1.622.997,41</td></tr></tbody></table>
+**SALDO ATUALIZADO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2904 - POLÍCIA CIVIL</td></tr></tbody></table>
+PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style=" width:12%;    ">06 122 4100 4146</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 8.201.423,10</td><td style=" width:12%;    ">R$ 2.488.000,00</td><td style=" width:12%;    ">R$ 10.689.423,10</td></tr></tbody></table>
+06 122 4100 4146
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:12%;    ">12 122 4100 4144</td><td style=" width:12%;    ">15010220</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 14,68</td><td style=" width:12%;    ">R$ 14,68</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+1 - PESSOAL E ENCARGOS SOCIAIS
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:12%;    ">12 362 4100 4151</td><td style=" width:12%;    ">15400108</td><td style=" width:12%;    ">91</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 2.366.427,72</td><td style=" width:12%;    ">R$ 1.000.000,00</td><td style=" width:12%;    ">R$ 3.366.427,72</td></tr></tbody></table>
+R$ 567.131,66
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+R$ 917.063,15
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 19.997.723,37</td></tr><tr><td style=" width:50%;    ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width:50%;    ">R$ 14,68</td></tr><tr><td style=" width:50%;    ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:50%;    ">R$ 1.000.000,00</td></tr><tr><td style=" width:50%;    ">17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA</td><td style=" width:50%;    ">R$ 934.590,70</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 21.932.328,75</td></tr></tbody></table>
+R$ 1.484.194,81
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4
+
+14 122 4100 4146
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 10.377.602,72
+
+R$ 4.922.397,28
+
+R$ 15.300.000,00
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4
+
+06 122 4100 4146
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 16.648.983,57
+
+R$ 7.279.514,94
+
+R$ 23.928.498,51
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2903 - CORPO DE BOMBEIROS MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4
+
+06 122 4100 4146
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 9.066.832,31
+
+R$ 4.390.748,00
+
+R$ 13.457.580,31
+
+**2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO
+
+06 182 1051 2368
+
+17030292
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 688.406,71
+
+R$ 934.590,70
+
+R$ 1.622.997,41
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2904 - POLÍCIA CIVIL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4
+
+06 122 4100 4146
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 8.201.423,10
+
+R$ 2.488.000,00
+
+R$ 10.689.423,10
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+12 122 4100 4144
+
+15010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 14,68
+
+R$ 14,68
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 2.366.427,72
+
+R$ 1.000.000,00
+
+R$ 3.366.427,72
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 19.997.723,37
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 14,68
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 1.000.000,00
+
+17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA
+
+R$ 934.590,70
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 21.932.328,75
 
 QUADRO 2
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:12%;    ">04 122 4100 4144</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 917.063,15</td><td style=" width:12%;    ">R$ 917.063,15</td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:12%;    ">04 122 4100 4144</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 4.922.397,28</td><td style=" width:12%;    ">R$ 4.922.397,28</td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:12%;    ">04 122 4100 4144</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 7.279.514,94</td><td style=" width:12%;    ">R$ 7.279.514,94</td></tr></tbody></table>
+**4000 - SECRETARIA-GERAL DE GOVERNO**
+4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2903 - CORPO DE BOMBEIROS MILITAR</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width: 100%;" width="100%"><tbody><tr><td style="  width: 12%;  height: 19px;"><b>ESPECIFICAÇÃO</b></td><td style="  width: 12%;  height: 19px;    "><b>AÇÃO</b></td><td style="  width: 12%;  height: 19px;    "><b>FONTE</b></td><td style="  width: 12%;  height: 19px;    "><b>MODALIDADE</b></td><td style="  width: 12%;  height: 19px;    "><b>GRUPO</b></td><td style="  width: 12%;  height: 19px;    "><b>SALDO A PROGRAMAR</b></td><td style="  width: 12%;  height: 19px;    "><b>VALOR BLOQUEADO</b></td><td style="  width: 12%;  height: 19px;    "><b>VALOR A REDUZIR</b></td></tr><tr><td style="  width: 12%;     ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style="  width: 12%;      ">06 122 4100 4146</td><td style="  width: 12%;      ">15000100</td><td style="  width: 12%;      ">90</td><td style="  width: 12%;      ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style="  width: 12%;      ">R$ 170.748,00</td><td style="  width: 12%;      ">R$ 170.748,00</td><td style="  width: 12%;      ">R$ 170.748,00</td></tr><tr><td style="  width: 12%;     ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style="  width: 12%;      ">28 846 0100 7119</td><td style="  width: 12%;      ">15000100</td><td style="  width: 12%;      ">90</td><td style="  width: 12%;      ">3 - OUTRAS DESPESAS CORRENTES</td><td style="  width: 12%;      ">R$ 100.000,00</td><td style="  width: 12%;      ">R$ 100.000,00</td><td style="  width: 12%;      ">R$ 100.000,00</td></tr><tr><td style="  width: 12%;     ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style="  width: 12%;      ">28 846 0100 7119</td><td style="  width: 12%;      ">15000100</td><td style="  width: 12%;      ">90</td><td style="  width: 12%;      ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style="  width: 12%;      ">R$ 4.120.000,00</td><td style="  width: 12%;      ">R$ 4.120.000,00</td><td style="  width: 12%;      ">R$ 4.120.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width: 100%;" width="100%"><tbody><tr><td style="  width: 100%;  height: 19px;"><b>2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO</td><td style=" width:12%;    ">06 182 1051 2368</td><td style=" width:12%;    ">17030292</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 1.567.199,20</td><td style=" width:12%;    ">R$ 934.590,70</td><td style=" width:12%;    ">R$ 934.590,70</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:12%;    ">04 122 4100 4144</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 2.488.000,00</td><td style=" width:12%;    ">R$ 2.488.000,00</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO</td><td style=" width:12%;    ">12 122 4100 4145</td><td style=" width:12%;    ">15010220</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 9.490,51</td><td style=" width:12%;    ">R$ 14,68</td><td style=" width:12%;    ">R$ 14,68</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL</td><td style=" width:12%;    ">12 361 4100 4149</td><td style=" width:12%;    ">15400108</td><td style=" width:12%;    ">91</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 32.541.899,25</td><td style=" width:12%;    ">R$ 1.000.000,00</td><td style=" width:12%;    ">R$ 1.000.000,00</td></tr></tbody></table>
+04 122 4100 4144
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 19.997.723,37</td></tr><tr><td style=" width:50%;    ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width:50%;    ">R$ 14,68</td></tr><tr><td style=" width:50%;    ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:50%;    ">R$ 1.000.000,00</td></tr><tr><td style=" width:50%;    ">17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA</td><td style=" width:50%;    ">R$ 934.590,70</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 21.932.328,75</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+1 - PESSOAL E ENCARGOS SOCIAIS
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 19.997.723,37</td></tr><tr><td style=" width:50%;    ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width:50%;    ">R$ 14,68</td></tr><tr><td style=" width:50%;    ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:50%;    ">R$ 1.000.000,00</td></tr><tr><td style=" width:50%;    ">17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA</td><td style=" width:50%;    ">R$ 934.590,70</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 21.932.328,75</td></tr></tbody></table>
+R$ 0,00
+
+R$ 917.063,15
+
+R$ 917.063,15
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 4.922.397,28
+
+R$ 4.922.397,28
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 7.279.514,94
+
+R$ 7.279.514,94
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2903 - CORPO DE BOMBEIROS MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4
+
+06 122 4100 4146
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 170.748,00
+
+R$ 170.748,00
+
+R$ 170.748,00
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 4.120.000,00
+
+R$ 4.120.000,00
+
+R$ 4.120.000,00
+
+**2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO
+
+06 182 1051 2368
+
+17030292
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.567.199,20
+
+R$ 934.590,70
+
+R$ 934.590,70
+
+**4000 - SECRETARIA-GERAL DE GOVERNO**
+4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 2.488.000,00
+
+R$ 2.488.000,00
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO
+
+12 122 4100 4145
+
+15010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 9.490,51
+
+R$ 14,68
+
+R$ 14,68
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL
+
+12 361 4100 4149
+
+15400108
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 32.541.899,25
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 19.997.723,37
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 14,68
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 1.000.000,00
+
+17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA
+
+R$ 934.590,70
+
+**TOTAL**
+
+R$ 21.932.328,75
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 19.997.723,37
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 14,68
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 1.000.000,00
+
+17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA
+
+R$ 934.590,70
+
+**TOTAL**
+
+R$ 21.932.328,75

@@ -1,5 +1,3 @@
-###DEC-073730-0-000-04-03-1974@@@
-
 DECRETO N° 73.730, DE 4 DE MARÇO DE 1974.
 
 Revoga os Decretos que aprovaram e modificaram o Regulamento da Escola de Especialistas de Aeronáutica.

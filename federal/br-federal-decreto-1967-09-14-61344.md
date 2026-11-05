@@ -1,5 +1,3 @@
-###DEC-061344-0-000-14-09-1967@@@
-
 Decreto nº 61.344, de 14 de setembro de 1967.
 
 Declara de utilidade pública a “Sociedade Brasileira de Instrução Primária” com sede em São Paulo - Estado de São Paulo.

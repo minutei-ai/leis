@@ -1,5 +1,3 @@
-###DEC-066444-0-000-14-04-1970@@@
-
 DECRETO Nº 66.444, DE 14 DE ABRIL DE 1970.
 
 Declara de utilidade pública, o Centro Educacional Nossa Senhora do Rosário, com sede em Brasília, Distrito Federal.

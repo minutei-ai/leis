@@ -1,5 +1,3 @@
-###DEC-080664-0-000-03-11-1977@@@
-
 DECRETO Nº 80.664, DE 03 DE NOVEMBRO DE 1977.
 
 Concede à José Vitti & Irmãos o direito de lavrar calcário dolomítico no Município de Rio Claro, Estado de São Paulo.

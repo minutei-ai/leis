@@ -1,5 +1,3 @@
-###DEC-095990-0-000-02-05-1988@@@
-
 DECRETO Nº 95.990, DE 02 DE MAIO DE 1988
 
 Outorga concessão à RÁDIO BOAS NOVAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Esperantinópolis, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-077254-0-000-27-02-1976@@@
-
 DECRETO Nº 77.254, DE 27 DE FEVEREIRO DE 1976
 
 Autoriza a transformação do Curso de Música, para Curso de Educação Artística, do Conservatório Musical de Santos, com sede na cidade de Santos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-009180-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.180 – DE 15 DE ABRIL DE 1946
 
 Concede gratificação de 20% (vinte por cento) a funcionário com exercício em repartição sediada em zona insalúbre.

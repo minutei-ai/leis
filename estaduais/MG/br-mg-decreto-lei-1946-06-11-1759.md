@@ -91,7 +91,3 @@ JOÃO TAVARES CORRÊA BERALDO
 Lucas Lopes
 
 Jair Negrão de Lima
-
-\===============
-
-Data da última atualização: 04/09/2006.

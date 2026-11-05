@@ -16,46 +16,357 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE UNIDADES PRISIONAIS</td><td style=" width:85px;    ">14 421 1007 3185</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 13.098.330,46</td><td style=" width:85px;    ">R$ 13.098.330,46</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR &nbsp;</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO</td><td style=" width:85px;    ">23 691 1054 2441</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.000,00</td><td style=" width:85px;    ">R$ 11.599.000,00</td><td style=" width:85px;    ">R$ 11.600.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PASSE LIVRE ESTUDANTIL - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 1008 2194</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 19.358.190,80</td><td style=" width:85px;    ">R$ 335.925,29</td><td style=" width:85px;    ">R$ 19.694.116,09</td></tr><tr><td style=" width:85px;    ">PASSE LIVRE ESTUDANTIL - ENSINO SUPERIOR</td><td style=" width:85px;    ">12 364 1008 2195</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 70.519.123,62</td><td style=" width:85px;    ">R$ 1.185.283,90</td><td style=" width:85px;    ">R$ 71.704.407,52</td></tr><tr><td style=" width:85px;    ">PASSE LIVRE ESTUDANTIL - ENSINO MÉDIO</td><td style=" width:85px;    ">12 362 1008 2196</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 48.395.477,00</td><td style=" width:85px;    ">R$ 913.585,81</td><td style=" width:85px;    ">R$ 49.309.062,81</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 15.533.125,46</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 11.599.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 27.132.125,46</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO DE UNIDADES PRISIONAIS
+
+14 421 1007 3185
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 13.098.330,46
+
+R$ 13.098.330,46
+
+**3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO
+
+23 691 1054 2441
+
+17530161
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.000,00
+
+R$ 11.599.000,00
+
+R$ 11.600.000,00
+
+**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL**
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PASSE LIVRE ESTUDANTIL - ENSINO FUNDAMENTAL
+
+12 361 1008 2194
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 19.358.190,80
+
+R$ 335.925,29
+
+R$ 19.694.116,09
+
+PASSE LIVRE ESTUDANTIL - ENSINO SUPERIOR
+
+12 364 1008 2195
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 70.519.123,62
+
+R$ 1.185.283,90
+
+R$ 71.704.407,52
+
+PASSE LIVRE ESTUDANTIL - ENSINO MÉDIO
+
+12 362 1008 2196
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 48.395.477,00
+
+R$ 913.585,81
+
+R$ 49.309.062,81
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 15.533.125,46
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 11.599.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 27.132.125,46
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">14 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 12.000.000,00</td><td style=" width:85px;    ">R$ 12.000.000,00</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL</td><td style=" width:85px;    ">14 421 1007 2373</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.098.330,46</td><td style=" width:85px;    ">R$ 1.098.330,46</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR &nbsp;</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">RESERVA DE CONTINGÊNCIA</td><td style=" width:85px;    ">99 999 9999 9000</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">99</td><td style=" width:85px;    ">9 - RESERVA DE CONTINGÊNCIA</td><td style=" width:85px;    ">R$ 103.924.597,43</td><td style=" width:85px;    ">R$ 11.599.000,00</td><td style=" width:85px;    ">R$ 11.599.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2100 - SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL</b><br>2101 - GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 441.171,58</td><td style=" width:85px;    ">R$ 441.171,58</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;  height:19px;   ">04 122 4200 4243</td><td style=" width:85px;  height:19px;   ">15000100</td><td style=" width:85px;  height:19px;   ">90</td><td style=" width:85px;  height:19px;   ">4 - INVESTIMENTOS</td><td style=" width:85px;  height:19px;   ">R$ 0,00</td><td style=" width:85px;  height:19px;   ">R$ 413.123,42</td><td style=" width:85px;  height:19px;   ">R$ 413.123,42</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS</b><br>101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DE ESTAGIÁRIOS DA ALEGO</td><td style=" width:85px;    ">01 031 4200 4245</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.580.500,00</td><td style=" width:85px;    ">R$ 1.580.500,00</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 15.533.125,46</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 11.599.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 27.132.125,46</td></tr></tbody></table>
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+14 122 4200 4243
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 15.533.125,46</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 11.599.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 27.132.125,46</td></tr></tbody></table>
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 12.000.000,00
+
+R$ 12.000.000,00
+
+AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL
+
+14 421 1007 2373
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 1.098.330,46
+
+R$ 1.098.330,46
+
+**3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+RESERVA DE CONTINGÊNCIA
+
+99 999 9999 9000
+
+17530161
+
+99
+
+9 - RESERVA DE CONTINGÊNCIA
+
+R$ 103.924.597,43
+
+R$ 11.599.000,00
+
+R$ 11.599.000,00
+
+**2100 - SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL**
+2101 - GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 441.171,58
+
+R$ 441.171,58
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 413.123,42
+
+R$ 413.123,42
+
+**100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS**
+101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DE ESTAGIÁRIOS DA ALEGO
+
+01 031 4200 4245
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.580.500,00
+
+R$ 1.580.500,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 15.533.125,46
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 11.599.000,00
+
+**TOTAL**
+
+R$ 27.132.125,46
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 15.533.125,46
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 11.599.000,00
+
+**TOTAL**
+
+R$ 27.132.125,46

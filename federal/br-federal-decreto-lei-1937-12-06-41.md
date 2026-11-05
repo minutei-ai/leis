@@ -1,5 +1,3 @@
-###DEL-000041-0-000-06-12-1937@@@
-
 DECRETO-LEI N. 41 – DE 6 DE DEZEMBRO DE 1937
 
 Dispõe sôbre crimes eleitorais

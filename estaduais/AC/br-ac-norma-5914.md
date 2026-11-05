@@ -1,6 +1,10 @@
 > **LEI Nº 4.284, DE 27 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei Complementar nº 80, de 29 de dezembro de 1999, que institui o Fundo de Desenvolvimento de Recursos Humanos do Estado do Acre, para dispor sobre a destinação do Fundo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei Complementar nº 80, de 29 de dezembro de 1999, que institui o Fundo de Desenvolvimento de Recursos Humanos do Estado do Acre, para dispor sobre a destinação do Fundo.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

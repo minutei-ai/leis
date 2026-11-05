@@ -1,5 +1,3 @@
-###DEC-054588-0-000-26-10-1964@@@
-
 DECRETO Nº 54.588, DE 26 DE OUTUBRO DE 1964.
 
 Autoriza a Centrais Elétricas de Goiás S.A. (CELG) a construir linhas de transmissão.

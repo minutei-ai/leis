@@ -1,5 +1,3 @@
-###DEC-058233-0-000-20-04-1966@@@
-
 DECRETO Nº 58.233, DE 20 DE ABRIL DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 40.398, de 21 de novembro de 1956, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária a construção do açude público “Olho D’água do Pai Mané”, no Município de Major Izidoro, Estado de Alagoas.

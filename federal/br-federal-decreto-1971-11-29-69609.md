@@ -1,5 +1,3 @@
-###DEC-069609-0-000-29-11-1971@@@
-
 DECRETO Nº 69.609 - DE 29 DE noveMBRO DE 1971
 
 Reconhece a Faculdade de Medicina da Fundação Universidade do Amazonas.

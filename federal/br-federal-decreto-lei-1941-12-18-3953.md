@@ -1,5 +1,3 @@
-###DEL-003953-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.953 – DE 18 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 42:668$0, à verba que especifica.

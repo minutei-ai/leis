@@ -1,5 +1,3 @@
-###DEC-048658-0-000-04-08-1960@@@
-
 DECRETO Nº 48.658, DE 4 DE AGôSTO DE 1960.
 
 Autoriza a cessão gratuita de terreno de marinha e acrescidos de marinha que menciona, e respectiva benfeitoria, na cidade do Rio de Janeiro, Estado da Guanabara.

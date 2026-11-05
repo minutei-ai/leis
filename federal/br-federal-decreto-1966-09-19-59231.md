@@ -1,5 +1,3 @@
-###DEC-059231-0-000-19-09-1966@@@
-
 decreto nº 59.231, de 19 de setembro de 1966
 
 Renova o Decreto nº 49.252, de 17 de novembro de 1960.

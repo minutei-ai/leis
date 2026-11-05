@@ -1,5 +1,3 @@
-###MPV-001972-0-012-06-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.972-12, DE 6 DE abril DE 2000.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

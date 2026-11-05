@@ -1,5 +1,3 @@
-###LEI-000000-0-001-27-08-1830@@@
-
 LEI - DE 27 DE AGOSTO DE 1830
 
 Declara que ficam pertencendo aos Juizes Seculares as contas dos testamentos e a decisão de todas as questões a elles relativas.

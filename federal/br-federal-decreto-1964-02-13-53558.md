@@ -1,5 +1,3 @@
-###DEC-053558-0-000-13-02-1964@@@
-
 DECRETO Nº 53.558, de 13 de fevereiro de 1964.
 
 Altera denominação de escolas de iniciação agrícola, agrícolas e agro-técnicas.

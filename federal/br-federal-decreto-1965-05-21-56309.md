@@ -1,5 +1,3 @@
-###DEC-056309-0-000-21-05-1965@@@
-
 DECRETO Nº 56.309, DE 21 DE MAIO DE 1965.
 
 Regula o emprêgo do 1º Grupo de Aviação Embarcada, estruturado pelo Decreto nº 40.859, de 6 de janeiro de 1957 e dá outras providências.

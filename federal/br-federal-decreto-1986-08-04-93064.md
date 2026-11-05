@@ -1,5 +1,3 @@
-###DEC-093064-0-000-04-08-1986@@@
-
 DECRETO Nº 93.064, DE 04 DE AGOSTO DE 1986
 
 Dispõe sobre a Embaixada do Brasil na República do Zimbábue.

@@ -1,5 +1,3 @@
-###DEC-059452-0-000-03-11-1966@@@
-
 Decreto nº 59.452, de 3 de novembro de 1966.
 
 Institui o Dia Nacional da Alfabetização.

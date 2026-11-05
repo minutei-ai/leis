@@ -1,5 +1,3 @@
-###DEC-070592-0-000-23-05-1972@@@
-
 Decreto nº 70.592, de 23 de maio de 1972.
 
 Autoriza o funcionamento do Curso de Educação Física da Fundação Faculdade de Filosofia, Ciências e Letras de Arapongas, com sede em Arapongas, Estado do Paraná.

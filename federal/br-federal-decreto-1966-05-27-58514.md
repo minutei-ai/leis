@@ -1,5 +1,3 @@
-###DEC-058514-0-000-27-05-1966@@@
-
 decreto nº 58.514, de 27 de maio de 1966
 
 Abre, ao Ministério das Relações Exteriores, o crédito especial de Cr$191.364.240, para atender às despesas com comparecimento do Episcopado brasileiro à Quarta Sessão do Concílio Ecumênico Vaticano II.

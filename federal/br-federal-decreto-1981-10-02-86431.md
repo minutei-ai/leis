@@ -1,5 +1,3 @@
-###DEC-086431-0-000-02-10-1981@@@
-
 Decreto nº 86.431, de 02 de outubro de 1981.
 
 Declara de utilidade pública as instituições que menciona.

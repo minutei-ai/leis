@@ -1,5 +1,3 @@
-###DEC-050664-0-000-30-05-1961@@@
-
 DECRETO Nº 50.664, DE 30 DE MAIO DE 1961.
 
 Dispõe sôbre a função de Auxiliar-Acadêmico nos órgãos do Serviço Público e dá outras providências.

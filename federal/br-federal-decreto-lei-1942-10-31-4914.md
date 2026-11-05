@@ -1,5 +1,3 @@
-###DEL-004914-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.914 – DE 31 DE OUTUBRO DE 1942
 
 Suspende a execução do art. 3º do decreto-lei n. 4.271, de 17 da abril de 1942

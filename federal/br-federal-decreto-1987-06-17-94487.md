@@ -1,5 +1,3 @@
-###DEC-094487-0-000-17-06-1987@@@
-
 DECRETO N° 94.487, DE 17 DE JUNHO DE 1987
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO DIFUSORA DO BRASIL LTDA., para a RÁDIO CIDADE DE PRESIDENTE PRUDENTE LTDA.

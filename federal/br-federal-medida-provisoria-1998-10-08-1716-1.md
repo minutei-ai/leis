@@ -1,5 +1,3 @@
-###MPV-001716-0-001-08-10-1998@@@
-
 Medida Provisória nº 1.716-1, de 8 de outubro de 1998
 
 Altera e acresce dispositivos à Lei nº 9.692, de 27 de julho de 1998, e dá outras providências.

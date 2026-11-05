@@ -1,5 +1,3 @@
-###DEC-000603-0-000-14-07-1992@@@
-
 DECRETO Nº 603, DE 14 DE JULHO DE 1992
 
 Dispõe sobre a execução do Protocolo de Adesão da República da Bolívia ao Acordo de Alcance Parcial de Cooperação e Intercâmbio de Bens nas Áreas Cultural, Educacional e Científica, entre Brasil, Argentina, Colômbia, Chile, Equador, México, Paraguai, Peru, Uruguai e Venezuela.

@@ -1,5 +1,3 @@
-###DEC-002603-0-000-22-05-1998@@@
-
 DECRETO Nº 2.603, DE 22 DE MAIO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.419, de 15 de dezembro de 1997.

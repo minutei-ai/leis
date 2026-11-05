@@ -1,5 +1,3 @@
-###DEC-083760-0-000-23-07-1979@@@
-
 decreto nº83.760, de 23 de julho de 1979.
 
 Autoriza o funcionamento do curso de Engenharia Agrícola, ministrado pela Fundação Faculdade Municipal de Educação, Ciências e Letras de Cascavel, com sede na cidade de Cascavel, Estado do Paraná.

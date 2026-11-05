@@ -1,5 +1,3 @@
-###DEC-044873-0-000-26-11-1958@@@
-
 decreto nº 44.873, de 26 de novembro de 1958.
 
 Concede permissão para que a fábrica de silicato de sódio, situada nesta Capital, da Companhia Imperial de Indústrias Químicas do Brasil, funcione aos domingos e nos feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEC-083789-0-000-30-07-1979@@@
-
 Decreto nº 83.789, de 30 de julho de 1979
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Barra do Corda,  Estado do Maranhão.

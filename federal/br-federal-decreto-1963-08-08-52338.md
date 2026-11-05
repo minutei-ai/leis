@@ -1,5 +1,3 @@
-###DEC-052338-0-000-08-08-1963@@@
-
 DECRETO Nº 52.338, de 8 DE AGÔSTO DE 1963.
 
 Aprova o Regimento Padrão das Delegacias Federais de Agricultura.
@@ -187,8 +185,6 @@ Art. 12º Os casos omissos ou de dúvida serão resolvidos pelo Ministro de Esta
 Brasília, 8 de agôsto de 1963.
 
 Oswaldo Lima Filho.
-
-###DEC-052338-0-000-08-08-1963@@@RET01+++
 
 DECRETO Nº 52.338, de 8 de agôsto de 1963.
 

@@ -1,5 +1,3 @@
-###DEC-059544-0-000-11-11-1966@@@
-
 DECRETO Nº 59.544, DE 11 DE NOVEMBRO DE 1966.
 
 Renova o Decreto nº 53.311, de 16 de dezembro de 1963.

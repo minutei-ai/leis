@@ -1,7 +1,3 @@
-1
-
-###DEC-001307-0-000-09-11-1994@@@
-
 # DECRETO N° 1.307, DE 9 DE NOVEMBRO DE 1994
 
 Aprova o regimento interno do Conselho Monetário Nacional.

@@ -1,5 +1,3 @@
-###DEC-091154-0-000-15-03-1985@@@
-
 DECRETO Nº 91.154, DE 15 DE MARÇO DE 1985.
 
 Altera o Estatuto da Empresa Pública Banco Nacional de Desenvolvimento Econômico e Social (BNDES).

@@ -1,5 +1,3 @@
-###DEC-082619-0-000-08-11-1978@@@
-
 Decreto nº 82.619, de 08 de novembro de 1978.
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados
@@ -10,7 +8,25 @@ DECRETA:
 
 Art. 1º - Ficam reduzidas a 0 (zero) as alíquotas do Imposto sobre Produtos Industrializados relativas às seguintes mercadorias da Tabela aprovada pelo Decreto 73.340, de 19 de dezembro de 1973, desdobradas dos respectivos códigos sob a forma de destaque ("ex"):
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:133.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO</span></p></td><td style="width:133.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MERCADORIA</span></p></td><td style="width:133.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ALÍQUOTA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">%</span></p></td></tr><tr><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">87.02.04.00</span></p></td><td style="width:133.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Veículos coletivos, veículos especiais e outros veículos automóveis</span></p></td><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04.01</span></p></td><td style="width:133.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ônibus, inclusive elétricos, com capacidade acima de 20 passageiros</span></p></td><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">"ex" 87.04.00.00</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">99.00 "ex"</span></p></td><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ônibus articulado.................. CHASSIS , COM MOTOR, DOS VEÍCULOS AUTOMÓVEIS CLASSIFICADOS NAS POSIÇÕES 87.01 a 87.03. Outros Articulado para ônibus...........</span></p></td><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">0</span></p></td></tr></tbody></table>
+CÓDIGO
+
+MERCADORIA
+
+ALÍQUOTA  %
+
+87.02.04.00
+
+Veículos coletivos, veículos especiais e outros veículos automóveis
+
+04.01
+
+Ônibus, inclusive elétricos, com capacidade acima de 20 passageiros
+
+"ex" 87.04.00.00    99.00 "ex"
+
+Ônibus articulado.................. CHASSIS , COM MOTOR, DOS VEÍCULOS AUTOMÓVEIS CLASSIFICADOS NAS POSIÇÕES 87.01 a 87.03. Outros Articulado para ônibus...........
+
+0      0
 
 Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

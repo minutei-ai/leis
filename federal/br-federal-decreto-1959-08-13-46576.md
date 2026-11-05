@@ -1,14 +1,12 @@
-###DEC-046576-0-000-13-08-1959@@@
+**DECRETO Nº 46.576, DE 13 DE AGÔSTO DE 1959.**
 
-<strong>DECRETO Nº 46.576, DE 13 DE AGÔSTO DE 1959.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
 
 I - uma função de Mestre Serralheiro, referencia 22, ocupada por Olmiro Theophilo da Silva, da Tabela do Núcleo do Parque de Aeronáutica de Pôrto Alegre para a o Parque Especializado Central de Viaturas e Maquinarias;
 
@@ -26,10 +24,10 @@ VII - uma função de Operador, referência 22, ocupada por Geraldo Magello do N
 
 VIII - uma função de Servente, referência 17, ocupada por Luiz Martins da Silva, da Tabela do Parque de Aeronáutica dos Afonsos para a da Base Aérea do Galeão e de igual Tabela desta última Repartição para a daquela uma função de servente, referência 18, ocupada por Adelino dos Santos Capela Filho.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 13 de agôsto de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Mello

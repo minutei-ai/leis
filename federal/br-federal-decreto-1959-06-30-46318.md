@@ -1,5 +1,3 @@
-###DEC-046318-0-000-30-06-1959@@@
-
 DECRETO Nº 46.318, DE 30 DE JUNHO DE 1959.
 
 Declara de utilidade pública uma faixa de terra destinada à passagem de linha de distribuição de energia elétrica da Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada.

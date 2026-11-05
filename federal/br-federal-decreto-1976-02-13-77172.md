@@ -1,5 +1,3 @@
-###DEC-077172-0-000-13-02-1976@@@
-
 Decreto nº 77.172, de 13 de fevereiro de 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais da Pontifícia Universidade Católica de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-003568-0-000-29-08-1941@@@
-
 DECRETO-LEI N. 3.568 – DE 29 DE AGOSTO DE 1941
 
 Cria, no Ministério da Agricultura, a Comissão de Controle da Produção e Comércio de Bananas, e dá outras providências

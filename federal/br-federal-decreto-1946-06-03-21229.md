@@ -1,28 +1,26 @@
-###DEC-021229-0-000-03-06-1946@@@
+**DECRETO Nº 21.229, DE 3 DE JUNHO DE 1946.**
 
-<strong>DECRETO Nº 21.229, DE 3 DE JUNHO DE 1946.</strong>
+***Dispõe sôbre o pessoal Extranumérario da Administração do Porto de Laguna.***
 
-<em><strong>Dispõe sôbre o pessoal Extranumérario da Administração do Porto de Laguna.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º As tabelas numéricas Orçamentária e Suplementar de Mensalista da antiga Administração do Porto de Laguna, aprovada pelo decreto número 19.363, de 7-8-45, passam a integrar a tabela Especial de Extranumérario do Departamento Nacional de Portos, Rios e Canais (D.N.P.R.C.), de que trata o art.2º do Decreto-lei nº 8.848, de 24-1-46.
 
-<strong>Art</strong>. 1º As tabelas numéricas Orçamentária e Suplementar de Mensalista da antiga Administração do Porto de Laguna, aprovada pelo decreto número 19.363, de 7-8-45, passam a integrar a tabela Especial de Extranumérario do Departamento Nacional de Portos, Rios e Canais (D.N.P.R.C.), de que trata o art.2º do Decreto-lei nº 8.848, de 24-1-46.
+**Art**. 2º Não poderão ser preenchidas as funções vagas existentes, enquanto não se proceder ao enquadramento da aludida tabela na Tabela Numérica de Extranumérario-mensalista do citado Departamento.
 
-<strong>Art</strong>. 2º Não poderão ser preenchidas as funções vagas existentes, enquanto não se proceder ao enquadramento da aludida tabela na Tabela Numérica de Extranumérario-mensalista do citado Departamento.
+**Art**. 3º As referencias de salário do referido pessoal passam a ter os valores constantes da escala-padrão de salários que acompanha o presente Decreto.
 
-<strong>Art</strong>. 3º As referencias de salário do referido pessoal passam a ter os valores constantes da escala-padrão de salários que acompanha o presente Decreto.
+**Art**. 4º A despesa com a execução do disposto neste decreto correrá, no presente exercício, à conta do crédito especial aberto pelo decreto-lei nº 9.115, de 1 de Abril de 1946.
 
-<strong>Art</strong>. 4º A despesa com a execução do disposto neste decreto correrá, no presente exercício, à conta do crédito especial aberto pelo decreto-lei nº 9.115, de 1 de Abril de 1946.
+**Art**. 5º Êste decreto vigorará a partir de 1º de Março de 1946.
 
-<strong>Art</strong>. 5º Êste decreto vigorará a partir de 1º de Março de 1946.
-
-<strong>Art</strong>. 6º Revogam-se as disposições em contrário.
+**Art**. 6º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 3 de junho de 1946, 125º de Independência e 58º de República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Luiz Augusto da Silva Vieira
 

@@ -1,5 +1,3 @@
-###DEL-006308-0-000-02-03-1944@@@
-
 DECRETO-LEI N. 6.308 – DE 2 DE MARÇO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar a “Congregação das Pequenas Franciscanas da Sagrada Família” dos tributos que menciona

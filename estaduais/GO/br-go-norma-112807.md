@@ -22,8 +22,10 @@ Goiânia, 10 de fevereiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-DR. RODRIGO FERNANDES<br>
+DR. RODRIGO FERNANDES
+
 Deputado Estadual

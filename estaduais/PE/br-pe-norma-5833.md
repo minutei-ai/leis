@@ -234,24 +234,265 @@ ROMERO TEIXEIRA PEREIRA
 
 **CARGOS DE NÍVEL SUPERIOR** 
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="610" style="width:457.5pt;border:outset black 1.0pt"><tbody><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CLASSES</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(com intervalos de 4%)</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FAIXAS SALARIAIS</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VENCIMENTO BASE</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(com intervalos de 2%)</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:10.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">IV</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">756,05</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">741,23</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">726,69</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">712,44</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">III</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">685,04</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">671,61</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">658,44</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">645,53</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">II</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">620,70</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">608,53</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">596,60</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">584,90</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">562,41</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">551,38</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">540,57</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">529,97</span></p></td></tr></tbody></table>
+CLASSES
 
-**<br>
+(com intervalos de 4%)
+
+FAIXAS SALARIAIS
+
+VENCIMENTO BASE
+
+R$
+
+(com intervalos de 2%)
+
+IV
+
+d
+
+756,05
+
+c
+
+741,23
+
+b
+
+726,69
+
+a
+
+712,44
+
+III
+
+d
+
+685,04
+
+c
+
+671,61
+
+b
+
+658,44
+
+a
+
+645,53
+
+II
+
+d
+
+620,70
+
+c
+
+608,53
+
+b
+
+596,60
+
+a
+
+584,90
+
+I
+
+d
+
+562,41
+
+c
+
+551,38
+
+b
+
+540,57
+
+a
+
+529,97
+
+**
+
 **
 
 # CARGOS DE NÍVEL MÉDIO
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="610" style="width:457.5pt;border:outset black 1.0pt"><tbody><tr style="height:23.85pt"><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.85pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CLASSES</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(Com intervalos de 4%)</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.85pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FAIXAS SALARIAIS</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(com intervalos de 2%)</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.85pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VENCIMENTO BASE</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">IV</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">379,79</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">372,34</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">365,04</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">357,88</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">III</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">344,12</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">337,37</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">330,76</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">324,27</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">II</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">311,80</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">305,69</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">299,69</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">293,82</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">282,51</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">276,98</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">271,54</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">266,22</span></p></td></tr></tbody></table>
+CLASSES
+
+(Com intervalos de 4%)
+
+FAIXAS SALARIAIS
+
+(com intervalos de 2%)
+
+VENCIMENTO BASE
+
+R$
+
+IV
+
+d
+
+379,79
+
+c
+
+372,34
+
+b
+
+365,04
+
+a
+
+357,88
+
+III
+
+d
+
+344,12
+
+c
+
+337,37
+
+b
+
+330,76
+
+a
+
+324,27
+
+II
+
+d
+
+311,80
+
+c
+
+305,69
+
+b
+
+299,69
+
+a
+
+293,82
+
+I
+
+d
+
+282,51
+
+c
+
+276,98
+
+b
+
+271,54
+
+a
+
+266,22
 
 **CARGOS DE NÍVEL BÁSICO/AUXILIAR**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="610" style="width:457.5pt;border:outset black 1.0pt"><tbody><tr style="height:24.0pt"><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CLASSES</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(Com intervalos de 4%)</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FAIXAS SALARIAIS</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">(com intervalos de 2%)</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VENCIMENTO BASE</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">IV</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">364,95</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">357,80</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">350,78</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">343,90</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">III</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">330,68</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">324,19</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">317,83</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">311,60</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">II</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">299,62</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">293,74</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">287,98</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">282,34</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">d</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">271,48</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">c</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">266,15</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">b</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">260,94</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">a</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.6pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">255,82</span></p></td></tr></tbody></table>
+CLASSES
+
+(Com intervalos de 4%)
+
+FAIXAS SALARIAIS
+
+(com intervalos de 2%)
+
+VENCIMENTO BASE
+
+R$
+
+IV
+
+d
+
+364,95
+
+c
+
+357,80
+
+b
+
+350,78
+
+a
+
+343,90
+
+III
+
+d
+
+330,68
+
+c
+
+324,19
+
+b
+
+317,83
+
+a
+
+311,60
+
+II
+
+d
+
+299,62
+
+c
+
+293,74
+
+b
+
+287,98
+
+a
+
+282,34
+
+I
+
+d
+
+271,48
+
+c
+
+266,15
+
+b
+
+260,94
+
+a
+
+255,82
 
 **ANEXO II**
 
@@ -259,43 +500,66 @@ ROMERO TEIXEIRA PEREIRA
 
 **GRUPO OCUPACIONAL DE DEFESA E INSPEÇÃO AGROPECUÁRIA**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="602" style="width:451.4pt;border:outset black 1.0pt"><tbody><tr style="height:13.5pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CARGO</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NÍVEL</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR (EM R$)</span></p></td></tr><tr style="height:13.5pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FISCAL DE DEFESA AGROPECUÁRIA "A" e</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FISCAL DE DEFESA AGROPECUÁRIA "V"</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.320,00</span></p></td></tr><tr style="height:13.5pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">II</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.500,00</span></p></td></tr><tr style="height:13.5pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">III</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.5pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.800,00</span></p></td></tr><tr style="height:12.0pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">APOIO TÉCNICO DE DEFESA AGROPECUÁRIA "TD"</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.320,00</span></p></td></tr><tr style="height:12.0pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">II</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.500,00</span></p></td></tr><tr style="height:12.0pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">III</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.800,00</span></p></td></tr><tr style="height:12.35pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.35pt"><p class="MsoNormal" align="center" style="margin-right:-1.05pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AUXILIAR TÉCNICO DE DEFESA AGROPECUÁRIA "AT"</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.35pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.35pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">660,00</span></p></td></tr><tr style="height:12.0pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">II</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">750,00</span></p></td></tr><tr style="height:12.0pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">III</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">900,00</span></p></td></tr><tr style="height:12.0pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AUXILIAR DE DEFESA AGROPECUÁRIA "AD"</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">350,00</span></p></td></tr><tr style="height:12.0pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">II</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">450,00</span></p></td></tr><tr style="height:12.0pt"><td width="69%" style="width:69.2%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="10%" style="width:10.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">III</span></p></td><td width="19%" style="width:19.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.0pt"><p class="MsoNormal" align="right" style="margin-right:4.5pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">550.00</span></p></td></tr></tbody></table>
+CARGO
+
+NÍVEL
+
+VALOR (EM R$)
+
+FISCAL DE DEFESA AGROPECUÁRIA "A" e
+
+FISCAL DE DEFESA AGROPECUÁRIA "V"
+
+I
+
+1.320,00
+
+II
+
+1.500,00
+
+III
+
+1.800,00
+
+APOIO TÉCNICO DE DEFESA AGROPECUÁRIA "TD"
+
+I
+
+1.320,00
+
+II
+
+1.500,00
+
+III
+
+1.800,00
+
+AUXILIAR TÉCNICO DE DEFESA AGROPECUÁRIA "AT"
+
+I
+
+660,00
+
+II
+
+750,00
+
+III
+
+900,00
+
+AUXILIAR DE DEFESA AGROPECUÁRIA "AD"
+
+I
+
+350,00
+
+II
+
+450,00
+
+III
+
+550.00

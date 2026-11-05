@@ -1,5 +1,3 @@
-###DEC-058184-0-000-13-04-1966@@@
-
 decreto nº 58.184, de 13 de abril de 1966.
 
 Concede autorização à emprêsa international Aero Service Corporation, para operar no território nacional, com avião de sua propriedade, em serviços contratados com a Petrobrás.

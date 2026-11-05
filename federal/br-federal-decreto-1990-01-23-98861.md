@@ -1,7 +1,3 @@
-1
-
-###DEC-098861-0-000-23-01-1990@@@
-
 DECRETO N° 98.861, DE 23 DE JANEIRO DE 1990
 
 Renova a concessão outorgada à RÁDIO REGIONAL LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Santo Cristo, Estado do Rio Grande do Sul.

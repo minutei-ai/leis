@@ -1,5 +1,3 @@
-###DEC-091920-0-000-14-11-1985@@@
-
 Decreto nº 91.920, de 14 de novembro de 1985.
 
 Dispõe sobre o aumento do Capital Social da LIGHT - serviços de Eletricidade S.A.

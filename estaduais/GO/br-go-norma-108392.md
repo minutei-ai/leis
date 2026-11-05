@@ -1,4 +1,5 @@
-LEI Nº 22.536, DE 9 DE JANEIRO DE 2024<br>
+LEI Nº 22.536, DE 9 DE JANEIRO DE 2024
+
  
 
 Estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.
@@ -367,8 +368,10 @@ RONALDO CAIADO
 
 Governador do Estado
 
-Os anexos da Lei estadual nº 22.536, de 9 de janeiro de 2024, que estima a receita e fixa a despesa do Estado para o exercício de 2024,<br>
-serão disponibilizados no sítio eletrônico da Secretaria de Estado da Economia ([https://www.economia.go.gov.br](https://transparencia.go.gov.br/wp-content/uploads/sites/2/2024/02/Orcamento-Geral-do-Estado-de-Goias-%E2%80%93-Exercicio-2024.pdf)),<br>
+Os anexos da Lei estadual nº 22.536, de 9 de janeiro de 2024, que estima a receita e fixa a despesa do Estado para o exercício de 2024,
+
+serão disponibilizados no sítio eletrônico da Secretaria de Estado da Economia ([https://www.economia.go.gov.br](https://transparencia.go.gov.br/wp-content/uploads/sites/2/2024/02/Orcamento-Geral-do-Estado-de-Goias-%E2%80%93-Exercicio-2024.pdf)),
+
 conforme dispõem o _caput_ e o § 1º do art. 15, também o art. 87, todos da [Lei estadual nº 22.087](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107444), de 5 de julho de 2023.
 
 \- Vide Art. 9º do [Decreto nº 10.409](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108461/decreto-10409), de 8-2-2024.

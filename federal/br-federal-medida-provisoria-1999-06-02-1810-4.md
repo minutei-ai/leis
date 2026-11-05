@@ -1,5 +1,3 @@
-###MPV-001810-0-004-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.810-4, DE 2 DE JUNHO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União – Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário no valor de R$ 300.000.00,00, para os fins que especifica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098438-0-000-23-11-1989@@@
-
 DECRETO Nº 98.438, DE 23 DE NOVEMBRO DE 1989
 
 Homologa a demarcação administrativa da Área Indígena Pari-Cachoeira II, no Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-085146-0-000-15-09-1980@@@
-
 Decreto nº 85.146, de 15 de setembro de 1980
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da subestação Jaboticabal da Companhia Paulista de Força e Luz CPFL, no Estado de São Paulo.

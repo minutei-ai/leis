@@ -1,5 +1,3 @@
-###DEC-003114-0-000-06-07-1999@@@
-
 DECRETO Nº 3.114, DE 6 DE JULHO DE 1999.
 
 Dispõe sobre a execução de serviços extraordinários de que tratam os arts. 73 e 74 a Lei nº 8.112, de 11 de dezembro de 1990.

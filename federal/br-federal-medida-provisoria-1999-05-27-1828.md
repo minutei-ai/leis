@@ -1,5 +1,3 @@
-###MPV-001828-0-000-27-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.828, DE 27 DE MAIO DE 1999.
 
 Altera dispositivos do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, e dá outras providências.

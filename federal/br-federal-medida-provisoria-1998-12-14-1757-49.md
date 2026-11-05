@@ -1,5 +1,3 @@
-###MPV-001757-0-049-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.757-49, DE 14 DE DEZEMBRO DE 1998.
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

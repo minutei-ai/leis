@@ -1,5 +1,3 @@
-###DEC-003046-0-000-05-05-1999@@@
-
 decreto nº 3.046, de 5 de maio de 1999
 
 Promulga o Acordo de Cooperação Científica e Tecnológica, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Italiana, em Roma, em 12 de fevereiro de 1997.
@@ -124,4 +122,22 @@ Artigo 9
 
 Feito em Roma, em 12 de fevereiro de 1997, em dois exemplares originais, nos idiomas português e italiano, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr style="height:21pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República</span></p></td></tr><tr style="height:21pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Italiana</span></p></td></tr><tr style="height:21pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Patrízia Troia</span></p></td></tr><tr style="height:21pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministros de Estados das</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Subsecretária de Negócios</span></p></td></tr><tr style="height:21pt"><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Relações Exteriores</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Estrangeiros</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Italiana
+
+Luiz Felipe Lampreia
+
+Patrízia Troia
+
+Ministros de Estados das
+
+Subsecretária de Negócios
+
+Relações Exteriores
+
+Estrangeiros

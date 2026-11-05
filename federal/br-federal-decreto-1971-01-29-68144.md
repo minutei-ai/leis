@@ -1,5 +1,3 @@
-###DEC-068144-0-000-29-01-1971@@@
-
 DECRETO Nº 68.144, DE 29 DE JANEIRO DE 1971.
 
 Concede autorização à Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

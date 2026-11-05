@@ -1,5 +1,3 @@
-###DEC-075476-0-000-13-03-1975@@@
-
 DECRETO Nº 75.476, DE 13 DE MARÇO DE 1975.
 
 Declara perempta a concessão outorgada à Rádio Cultura de Feira de Santana Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, ma Cidade de Feira de Santana, Estado Bahia.

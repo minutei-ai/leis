@@ -1,5 +1,3 @@
-###DEC-006772-0-000-18-02-2009@@@
-
 DECRETO Nº 6.772, DE 18 DE FEVEREIRO DE 2009.
 
 Dá nova redação ao art. 4o do Decreto no 4.810, de 19 de agosto de 2003, que estabelece normas para operação de embarcações pesqueiras nas zonas brasileiras de pesca, alto mar e por meio de acordos internacionais.

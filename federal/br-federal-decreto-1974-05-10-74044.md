@@ -1,5 +1,3 @@
-###DEC-074044-0-000-10-05-1974@@@
-
 DECRETO Nº 74.044, DE 10 DE MAIO DE 1974.
 
 Cria o Serviço de Auditoria da Marinha e dá outras providências.

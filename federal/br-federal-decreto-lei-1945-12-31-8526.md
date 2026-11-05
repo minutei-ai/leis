@@ -1,5 +1,3 @@
-###DEL-008526-0-000-31-12-1945@@@
-
 DECRETO- LEI 8.526 – DE 31 DE DEZEMBRO DE 1945
 
 Extingue a Comissão Executiva da Pesca, criada pelo Decreto–lei número 5.030, de 4 de dezembro de 1942, e da outras providencias.

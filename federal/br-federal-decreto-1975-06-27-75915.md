@@ -1,5 +1,3 @@
-###DEC-075915-0-000-27-06-1975@@@
-
 decreto nº 75.915, de 27 de junho de 1975
 
 Retifica o valor do capital inicial da Empresa Brasileira de Correios e Telégrafos - ECT.

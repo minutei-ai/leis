@@ -32,8 +32,10 @@ Goiânia, 14 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
+RONALDO CAIADO
+
+Governador do Estado
+
  
 
 Deputado Estadual

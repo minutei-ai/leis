@@ -1,7 +1,3 @@
-1
-
-###DEC-000799-0-000-17-04-1993@@@
-
 # DECRETO N° 799, DE 17 DE ABRIL DE 1993
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados incidente sobre veículos populares.

@@ -1,5 +1,3 @@
-###DEC-074207-0-000-21-06-1974@@@
-
 DECRETO Nº 74.207, DE 21 DE JUNHO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio e Televisão Gaúcha S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Porto Alegre, Estado do Rio Grande do Sul.

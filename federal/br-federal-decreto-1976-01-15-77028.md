@@ -1,5 +1,3 @@
-###DEC-077028-0-000-15-01-1976@@@
-
 Decreto nº 77.028, de 15 de janeiro de 1976.
 
 Atualiza os valores das multas previstas no Decreto-lei nº 538, de 7 de julho de 1938, e no Decreto número 4.071, de 12 de maio de 1939.

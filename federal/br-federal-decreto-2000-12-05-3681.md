@@ -1,5 +1,3 @@
-###DEC-003681-0-000-05-12-2000@@@
-
 DECRETO Nº 3.681, 5 DE DEZEMBRO DE 2000.
 
 Altera o Regimento Interno do Conselho Nacional de Ciência e Tecnologia - CCT, aprovado pelo Decreto nº 2.107, de 24 de dezembro de 1996.

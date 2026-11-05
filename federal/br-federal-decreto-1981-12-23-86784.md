@@ -1,5 +1,3 @@
-###DEC-086784-0-000-23-12-1981@@@
-
 Decreto nº 86.784, de 23 de dezembro de 1981
 
 Renova por 15 (quinze) anos a concessão outorgada à RADIODIFUSÃO EDUCADORA DA BAHIA LTDA., atualmente denominada TV ARATU S/A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Salvador, Estado da Bahia.

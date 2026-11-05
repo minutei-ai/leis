@@ -1,5 +1,3 @@
-###DEC-049691-0-000-31-12-1960@@@
-
 DECRETO Nº 49.691, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia Paulista de Fôrça e Luz S.A. a ampliar suas instalações de energia elétrica.

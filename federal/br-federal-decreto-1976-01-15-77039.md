@@ -1,5 +1,3 @@
-###DEC-077039-0-000-15-01-1976@@@
-
 DECRETO Nº 77.039, DE 15 DE JANEIRO DE 1976.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Belas Artes de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

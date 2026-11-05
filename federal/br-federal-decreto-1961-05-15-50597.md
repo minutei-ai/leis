@@ -1,5 +1,3 @@
-###DEC-050597-0-000-15-05-1961@@@
-
 DECRETO Nº 50.597, DE 15 DE MAIO DE 1961.
 
 Proíbe o exercício da caça dentro do território do Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-046317-0-000-30-06-1959@@@
-
 Decreto nº 46.317, de 30 de junho de 1959.
 
 Autoriza a Brazilian Hydro Electric Company, Limited a alienar parte do terreno, sito à Estrada União e Indústria, não necessária aos seus serviços, e dá outras providências.

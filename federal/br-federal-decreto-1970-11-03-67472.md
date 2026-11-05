@@ -1,5 +1,3 @@
-###DEC-067472-0-000-03-11-1970@@@
-
 DECRETO Nº 67.472, DE 3 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública a Sociedade das Obras Sociais e Educativas, da Diocese de Juazeiro, com sede em Juazeiro, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-058768-0-000-28-06-1966@@@
-
 Decreto nº 58.768, de 28 de junho de 1966.
 
 Concede à sociedade anônima Société de Sucreries Brésiliennes, funcionar na República.

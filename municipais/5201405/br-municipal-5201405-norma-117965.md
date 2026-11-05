@@ -104,8 +104,10 @@ Art. 5° - Este decreto entrará em vigor na data de sua publicação, revogadas
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA/GO, aos 03 dias do mês de Abril de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

@@ -1,5 +1,3 @@
-###DEC-007647-0-000-21-12-2011-PUB-01@@@
-
 DECRETO Nº 7.647, DE 21 DE DEZEMBRO DE 2011
 
 Dispõe sobre a obrigatoriedade de exibição de obras audiovisuais cinematográficas brasileiras.

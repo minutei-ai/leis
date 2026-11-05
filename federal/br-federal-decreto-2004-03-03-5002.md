@@ -1,5 +1,3 @@
-###DEC-005002-0-000-03-03-2004@@@
-
 DECRETO Nº 5.002,  DE 3 DE MARÇO DE 2004.
 
 Promulga a Declaração Constitutiva e os Estatutos da Comunidade dos Países de Língua Portuguesa.

@@ -1,5 +1,3 @@
-###DEC-061028-0-000-17-07-1967@@@
-
 decreto Nº 61.028, DE 17 DE JULHO DE 1967.
 
 Dispõe sôbre a aplicação do art. 4º do Decreto nº 60.528, de 3 de abril de 1967.

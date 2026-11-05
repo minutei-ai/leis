@@ -1,5 +1,3 @@
-###DEC-092544-0-000-15-04-1986@@@
-
 DECRETO Nº 92.544, DE 15 DE ABRIL DE 1986
 
 Altera o Estatuto da Fundação Nacional para Educação de Jovens e Adultos - EDUCAR.

@@ -1,5 +1,3 @@
-###DEC-005933-0-000-13-10-2006@@@
-
 DECRETO Nº 5.933, DE 13 DE OUTUBRO DE 2006.
 
 Promulga o Acordo de Cooperação entre os Governos da República Federativa do Brasil e da República Argentina para o Combate ao Tráfego de Aeronaves Supostamente Envolvidas em Atividades Ilícitas Internacionais, celebrado em Buenos Aires, em 9 de dezembro de 2002.
@@ -24,11 +22,7 @@ Promulga o Acordo de Cooperação entre os Governos da República Federativa do 
 
 LUIZ INÁCIO LULA DA SILVA
 
-          Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 16.10.2006
-
-ACORDO DE COOPERAÇÃO ENTRE OS GOVERNOS DA REPÚBLICA FEDERATIVA DO BRASIL E DA REPÚBLICA ARGENTINA PARA O COMBATE AO TRÁFEGO DE AERONAVES SUPOSTAMENTE ENVOLVIDAS EM ATIVIDADES ILÍCITAS INTERNACIONAIS
+          Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO ENTRE OS GOVERNOS DA REPÚBLICA FEDERATIVA DO BRASIL E DA REPÚBLICA ARGENTINA PARA O COMBATE AO TRÁFEGO DE AERONAVES SUPOSTAMENTE ENVOLVIDAS EM ATIVIDADES ILÍCITAS INTERNACIONAIS
 
 O Governo da República Federativa do Brasil
 

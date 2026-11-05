@@ -1,7 +1,3 @@
-1
-
-###DEC-099286-0-000-06-06-1990@@@
-
 DECRETO N° 99.286, DE 6 DE JUNHO DE 1990
 
 Dá nova redação a dispositivos do Decreto n° 90.725, de 19 de dezembro de 1984, que institui a Comissão Assessora de Assuntos Científicos e Tecnológicos das Forças Armadas - COMASSE.

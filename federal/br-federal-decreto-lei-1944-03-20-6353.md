@@ -1,5 +1,3 @@
-###DEL-006353-0-000-20-03-1944@@@
-
 DECRETO-LEI N. 6.353 - DE 20 DE MARÇO DE 1944
 
 Corrige erros dactilográficos e de impressão e dá nova redação a dispositivos da Consolidação das Leis do Trabalho.

@@ -1,5 +1,3 @@
-###DEL-008971-0-000-12-02-1946@@@
-
 DECRETO–LEI N.8.971 – DE 12 DE FEVEREIRO DE 1946
 
 Dispõe sôbre registro de diploma, efetuado de conformidade com o Decreto–lei nº 8.071, de 10 de Outubro de 1945.

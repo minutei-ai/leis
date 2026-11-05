@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decret
 
 Art. 1º - Fica instituído o Fundo Estadual de Preservação do Patrimônio Cultural, de natureza contábil-financeira, sem personalidade jurídica própria, de duração indeterminada, vinculado ao Instituto do Patrimônio Artístico e Cultural da Bahia - IPAC, com o objetivo de financiar as ações de preservação do patrimônio cultural a serem realizadas nas áreas protegidas existentes no Estado.
 
-Redação de acordo com a Lei nº [13.178](javascript: openDoc\() , de 26 de maio de 2014.<br>
+Redação de acordo com a Lei nº [13.178](javascript: openDoc\() , de 26 de maio de 2014.
+
 Redação original: "Art. 1º - Fica instituído o Fundo Estadual de Preservação do Patrimônio Cultural, de natureza contábil-financeira, sem personalidade jurídica própria, de duração indeterminada, vinculado à Companhia de Desenvolvimento Urbano do Estado da Bahia - CONDER, com o objetivo de financiar as ações de preservação do patrimônio cultural a serem realizadas nas áreas protegidas existentes no Estado."
 
 Parágrafo único - Para os fins desta Lei, entende-se por áreas protegidas:
@@ -63,13 +64,20 @@ VII -01 (um) representante do Poder Executivo Municipal;
 
 VIII -06 (seis) representantes da sociedade civil definidos nos termos do regulamento.
 
-Redação de acordo com a Lei nº 13.178, de 26 de maio de 2014.<br>
-Redação original: "I - 01 (um) representante da Secretaria do Planejamento - SEPLAN;"Art. 4º - O Fundo Estadual de Preservação do Patrimônio Cultural contará com um Conselho Curador, com a seguinte composição:I - 01 (um) representante da Secretaria do Planejamento - SEPLAN;<br>
-II - 01 (um) representante da Secretaria da Fazenda - SEFAZ;<br>
-III - 01 (um) representante da Companhia de Desenvolvimento Urbano do Estado - CONDER;<br>
-IV - 01 (um) representante do Instituto do Patrimônio Artístico e Cultural da Bahia - IPAC;<br>
-V - 01 (um) representante doInstituto do Patrimônio Histórico e Artístico Nacional - IPHAN;<br>
-VI - 01 (um) representante do Poder Executivo Municipal;<br>
+Redação de acordo com a Lei nº 13.178, de 26 de maio de 2014.
+
+Redação original: "I - 01 (um) representante da Secretaria do Planejamento - SEPLAN;"Art. 4º - O Fundo Estadual de Preservação do Patrimônio Cultural contará com um Conselho Curador, com a seguinte composição:I - 01 (um) representante da Secretaria do Planejamento - SEPLAN;
+
+II - 01 (um) representante da Secretaria da Fazenda - SEFAZ;
+
+III - 01 (um) representante da Companhia de Desenvolvimento Urbano do Estado - CONDER;
+
+IV - 01 (um) representante do Instituto do Patrimônio Artístico e Cultural da Bahia - IPAC;
+
+V - 01 (um) representante doInstituto do Patrimônio Histórico e Artístico Nacional - IPHAN;
+
+VI - 01 (um) representante do Poder Executivo Municipal;
+
 VII - 06 (seis) representantes da sociedade civil definidos nos termos do regulamento."
 
 Parágrafo único - Os membros titulares e suplentes do Conselho Curador serão indicados pelos dirigentes máximos dos órgãos e entidades a que se vinculam e nomeados por ato do Governador do Estado.

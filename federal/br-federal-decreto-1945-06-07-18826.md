@@ -1,16 +1,14 @@
-###DEC-018826-0-000-07-06-1945@@@
+**DECRETO Nº 18.826, DE 7 DE JUNHO DE 1945.**
 
-<strong>DECRETO Nº 18.826, DE 7 DE JUNHO DE 1945.</strong>
+***Autoriza a Companhia Central Brasileira de Fôrça Elétrica a ampliar o aproveitamento já realizado no rio Jucu, Município de Domingos Martins, Estado do Espirito Santo.***
 
-<em><strong>Autoriza a Companhia Central Brasileira de Fôrça Elétrica a ampliar o aproveitamento já realizado no rio Jucu, Município de Domingos Martins, Estado do Espirito Santo.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, letra <em>a</em>, da Constituição, e nos têrmos do Decreto-lei nº 2.059, de 5 de março de 1940,
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, letra *a*, da Constituição, e nos têrmos do Decreto-lei nº 2.059, de 5 de março de 1940,
 
 CONSIDERANDO, que as medidas que trata o presente decreto, requeridas pela Companhia Central Brasileira de Fôrça Elétrica, com sede nesta Capital e exploração de serviços de energia elétrica na capital e em várias localidades do Estado do Espirito Santo, foram julgadas necessárias pelo Conselho Nacional de Águas e Energia Elétrica,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º A Companhia Central Brasileira de Fôrça Elétrica fica autorizada a ampliar o atual aproveitamento realizado pela mesma emprêsa no braço sul do rio Jucu, Município de Domingos Martins, Estado do Espirito Santo, conforme anteprojeto configurado no desenho nº BX-F-6820-R (Aproveitamento hidro-elétrico de Jucu nº 2), apresentado pela requerente, e consistindo das seguintes obras e instalações:
+**Art**. 1º A Companhia Central Brasileira de Fôrça Elétrica fica autorizada a ampliar o atual aproveitamento realizado pela mesma emprêsa no braço sul do rio Jucu, Município de Domingos Martins, Estado do Espirito Santo, conforme anteprojeto configurado no desenho nº BX-F-6820-R (Aproveitamento hidro-elétrico de Jucu nº 2), apresentado pela requerente, e consistindo das seguintes obras e instalações:
 
 a) barragem de concreto, em arco simples, com altura máxima de 13,5 metros e extensão de 35 metros na crista:
 
@@ -22,7 +20,7 @@ d) conduto forçado de 2,1 metros de diâmetro e 48 metros de comprimento, tamb�
 
 e) edifício da usina, junto do atual, onde será instalada uma unidade geradora com a potência nominal de 1.700 quilowatts e mais todo equipamento elétrico e mecânico respectivo.
 
-<strong>Art</strong>. 2º A interessada obriga-se a:
+**Art**. 2º A interessada obriga-se a:
 
 I - Registrar o presente título na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias a partir da sua publicação;
 
@@ -34,10 +32,10 @@ IV - Obedecer, nos projetos, às prescrições de ordem técnica que forem deter
 
 Parágrafo único. Os prazos, a que se refere êste artigo, só poderão ser prorrogados por portaria do Ministro da Agricultura, por motivo de força maior, ouvida a Divisão de Águas, do Departamento Nacional da Produção Mineral.
 
-<strong>Art</strong>. 3º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de janeiro, 7 de junho de 1945,. 124º da Independência e 57º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Apolonio Sales

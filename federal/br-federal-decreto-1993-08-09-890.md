@@ -1,7 +1,3 @@
-1
-
-###DEC-000890-0-000-09-08-1993@@@
-
 DECRETO N° 890, DE 9 DE AGOSTO DE 1993
 
 Dispõe sobre a unificação de recursos movimentados pelo Tesouro Nacional e a abertura e manutenção de contas em moeda estrangeira pela União, no País e no exterior.

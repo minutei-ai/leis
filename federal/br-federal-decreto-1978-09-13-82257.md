@@ -1,5 +1,3 @@
-###DEC-082257-0-000-13-09-1978@@@
-
 Decreto nº 82.257, de 13 de setembro de 1978.
 
 Concede reconhecimento ao curso de Enfermagem do Centro de Ciências da Saúde da Universidade Federal do Piauí, com sede na Cidade de Teresina, Estado do Piauí.

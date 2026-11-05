@@ -1,5 +1,3 @@
-###DEC-085175-0-000-19-09-1980@@@
-
 Decreto nº 85.175, de 19 de setembro de 1980
 
 Dá nova redação a dispositivos do Estatuto da Fundação Nacional do Bem-Estar do Menor - FUNABEM, aprovado pelo Decreto nº 83.149, de 08 de fevereiro de 1979.

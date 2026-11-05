@@ -1,5 +1,3 @@
-###DEC-050292-0-000-23-02-1961@@@
-
 DECRETO Nº 50.292, DE 23 DE FEVEREIRO DE 1961.
 
 Revoga o Decreto nº 8.969,d e 6 de março de 1942.

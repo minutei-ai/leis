@@ -1,5 +1,3 @@
-###DEC-006728-0-000-12-01-2009@@@
-
 DECRETO Nº 6.728, DE 12 DE JANEIRO DE 2009.
 
 Promulga o Protocolo sobre Privilégios e Imunidades da Autoridade Internacional dos Fundos Marinhos, assinado em Kingston, em 27 de agosto de 1998.

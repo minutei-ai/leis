@@ -1,5 +1,3 @@
-###DEC-068173-0-000-05-02-1971@@@
-
 DECRETO Nº 68.173, DE 5 DE FEVEREIRO DE 1971.
 
 Concede reconhecimento à Faculdade de Direito de Bragança Paulista.

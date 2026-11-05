@@ -1,5 +1,3 @@
-###DEC-045883-0-000-27-04-1959@@@
-
 DECRETO Nº 45.883, DE 27 DE ABRIL DE 1959.
 
 Altera o Regulamento da Escola de Oficiais Especialistas e de Infantaria de Guarda.

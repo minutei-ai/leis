@@ -1,5 +1,3 @@
-###DEC-075457-0-000-07-03-1975@@@
-
 decreto nº 75.457, de 7 de março de 1975.
 
 Altera dispositivos do Decreto número 75.408, de 20 de fevereiro de 1975, e dá outras providências.

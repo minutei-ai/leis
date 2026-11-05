@@ -1,5 +1,3 @@
-###DEC-054034-0-000-21-07-1964@@@
-
 DECRETO Nº 54.034, DE 21 DE JULHO DE 1964.
 
 Aprova a revisão dos Quadros de Pessoal do Conselho Nacional de Estatística, Conselho Nacional de Geografia e Escola Nacional de Ciências Estatísticas do Instituto Brasileiro de Geografia e Estatística.

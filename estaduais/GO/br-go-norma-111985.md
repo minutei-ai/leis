@@ -1008,12 +1008,12 @@ Goiânia, 30 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
-<br>
-<br>
-TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS<br>
-<br>
+RONALDO CAIADO
+
+Governador do Estado
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS
+
  
 
 ANEXO I
@@ -1039,7 +1039,8 @@ ANEXO II
 
 (ALTERA O ANEXO VIII DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO VIII<br>
+“ANEXO VIII
+
 Tabela de cargos da área judiciária
 
 | Área Judiciária | Área Judiciária | Área Judiciária | Área Judiciária |
@@ -1059,10 +1060,12 @@ Tabela de cargos da área judiciária
 
 \*\* Cargos a serem transformados em Analista Judiciário – Área Judiciária – Oficial de Justiça Avaliador ao vagarem, conforme art. 33 da [Lei nº 17.663/2012](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655).” (NR)
 
-ANEXO III<br>
+ANEXO III
+
 (ALTERA O ANEXO IX DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO IX<br>
+“ANEXO IX
+
 Tabela de cargos da área especializada
 
 | ÁREA ESPECIALIZADA | ÁREA ESPECIALIZADA | ÁREA ESPECIALIZADA |
@@ -1097,10 +1100,12 @@ Tabela de cargos da área especializada
 | Psicólogo | 29 |
 | Total de Cargos da Área Especializada | Total de Cargos da Área Especializada | 342 |
 
-ANEXO IV<br>
+ANEXO IV
+
 (ALTERA O ANEXO IX-A DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO IX-A<br>
+“ANEXO IX-A
+
 Tabela de cargos da área apoio judiciário e administrativo
 
 | Cargo | Especialidade/Formação | Quantidade prevista |
@@ -1116,10 +1121,12 @@ Tabela de cargos da área apoio judiciário e administrativo
 
 \*\* Cargos a serem transformados em Analista Judiciário – Área Judiciária – Oficial de Justiça ao vagarem, conforme art. 34 da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), de 14 de junho de 2012.” (NR)
 
-ANEXO V<br>
+ANEXO V
+
 (ALTERA O ANEXO XI DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO XI<br>
+“ANEXO XI
+
 Quantitativo de funções por encargo de confiança
 
 | Descrição | Função | Quantidade prevista | Valor (R$) |
@@ -1162,10 +1169,12 @@ Quantitativo de cargos em comissão
 
 ”(NR)
 
-ANEXO VII<br>
+ANEXO VII
+
 (ALTERA O ANEXO XIII DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
 
-“ANEXO XIII<br>
+“ANEXO XIII
+
 Quadro analítico de cargos em comissão
 
 I.    ESTRUTURA PERMANENTE
@@ -1176,7 +1185,8 @@ I.    ESTRUTURA PERMANENTE
 | DAE-11 | 1 | SECRETÁRIO DE GOVERNANÇA JUDICIÁRIA E TECNOLÓGICA |
 | 1 | SECRETÁRIO-GERAL DAS CORREGEDORIAS |
 | 1 | SECRETÁRIO-GERAL DA PRESIDÊNCIA |
-| DAE-10<br>
+| DAE-10
+
 DAE-09 | 1 | DIRETOR DE CERIMONIAL E RELAÇÕES PÚBLICAS |
 | 1 | DIRETOR DE COMUNICAÇÃO SOCIAL |
 | 1 | DIRETOR DE PLANEJAMENTO E INOVAÇÃO |
@@ -1338,9 +1348,12 @@ II. ESTRUTURA COMPLEMENTAR
 
 ”(NR)
 
-ANEXO VIII<br>
-(ALTERA O ANEXO XIV DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)<br>
-“ANEXO XIV<br>
+ANEXO VIII
+
+(ALTERA O ANEXO XIV DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012)
+
+“ANEXO XIV
+
 Quadro analítico das funções por encargo de confiança
 
 | SÍMBOLO | QUANT. | DENOMINAÇÃO |

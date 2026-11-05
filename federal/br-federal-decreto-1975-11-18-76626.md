@@ -1,5 +1,3 @@
-###DEC-076626-0-000-18-11-1975@@@
-
 DECRETO Nº 76.626, DE 18 DE NOVEMBRO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Minas Gerais.

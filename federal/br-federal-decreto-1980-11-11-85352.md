@@ -1,5 +1,3 @@
-###DEC-085352-0-000-11-11-1980@@@
-
 Decreto nº 85.352, de 11 de novembro de 1980
 
 Altera localização de Organização Militar no Ministério do Exército e dá outras providências.

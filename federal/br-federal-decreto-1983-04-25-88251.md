@@ -1,5 +1,3 @@
-###DEC-088251-0-000-25-04-1983@@@
-
 Decreto nº 88.251, de 25 de abril de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de Rádio UHF ETD Taboão da Serra, da ELETROPAULO - Eletricidade de São Paulo S.A., do Estado de São Paulo.

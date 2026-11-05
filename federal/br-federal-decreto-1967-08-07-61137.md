@@ -1,5 +1,3 @@
-###DEC-061137-0-000-07-08-1967@@@
-
 DECRETO Nº 61.137, DE 7 DE AGÔSTO DE 1967.
 
 Altera dispositivos do Decreto número 59.414, de 25 de outubro de 1966, que estabelece normas gerais de tarifação para as emprêsas concessionárias de serviços públicos de energia elétrica.

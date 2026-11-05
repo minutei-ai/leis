@@ -1,5 +1,3 @@
-###DEC-086945-0-000-17-02-1982@@@
-
 DECRETO Nº 86.945, de 17 de fevereiro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO CLUBE DE GOIÂNIA S.A., para executar serviço de radiodifusão sonora em onda curta, na cidade de Goiânia, Estado de Goiás.

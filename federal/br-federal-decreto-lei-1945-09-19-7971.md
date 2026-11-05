@@ -1,5 +1,3 @@
-###DEL-007971-0-000-19-09-1945@@@
-
 DECRETO-LEI N. 7.971 – DE 19 DE SETEMBRO DE 1945
 
 Cria função gratificada de Encarregado da Garage do Departamento de Administração do Ministério das Relações Exteriores.

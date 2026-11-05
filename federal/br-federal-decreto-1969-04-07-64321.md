@@ -1,5 +1,3 @@
-###DEC-064321-0-000-07-04-1969@@@
-
 Decreto nº 64.321, de 7 de abril de 1969.
 
 Exclui René Deslandes da Relação nominal a que se refere o Decreto nº 36.291, de 5 de outubro de 1954, retificado pelo de nº 37.431, de 7 de junho de 1955.

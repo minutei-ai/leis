@@ -1,5 +1,3 @@
-###DEC-081927-0-000-11-07-1978@@@
-
 Decreto nº 81.927, de 11 de julho de 1978.
 
 Concede à Companhia Vale do Rio Doce o direito de lavrar calcário no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

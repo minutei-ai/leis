@@ -1,5 +1,3 @@
-###DEC-064683-0-000-12-06-1969@@@
-
 DECRETO Nº 64.683, DE 12 DE JUNHO DE 1969.
 
 Autoriza a cessão gratuita do terreno que menciona e dá outras providências.

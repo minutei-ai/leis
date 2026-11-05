@@ -1,5 +1,3 @@
-###DEC-060219-0-000-14-02-1967@@@
-
 DECRETO Nº 60.219, DE 14 DE FEVEREIRO DE 1967.
 
 Dispõe sôbre o horário de trabalho nas repartições públicas federais que menciona.

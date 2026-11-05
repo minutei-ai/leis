@@ -1,5 +1,3 @@
-###DEC-006434-0-000-16-04-2008@@@
-
 DECRETO Nº 6.434, DE 16 DE ABRIL DE 2008.
 
 Dá nova redação ao inciso III do § 3o do art. 1o do Decreto no 3.905, de 31 de agosto de 2001, que dispõe sobre a composição, indicação, eleição e nomeação dos membros dos órgãos colegiados do Banco do Brasil S.A. 
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 17.4.2008

@@ -1,5 +1,3 @@
-###DEC-046366-0-000-07-07-1959@@@
-
 DECRETO Nº 46.366, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre o aproveitamento econômico do Vale do Rio Carás, no Cariri-Cearense.

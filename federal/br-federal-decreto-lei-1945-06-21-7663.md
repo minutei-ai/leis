@@ -1,5 +1,3 @@
-###DEL-007663-0-000-21-06-1945@@@
-
 DECRETO-LEI N. 7.663 – DE 21 DE JUNHO DE 1945
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 84.000,00, à verba que especifica

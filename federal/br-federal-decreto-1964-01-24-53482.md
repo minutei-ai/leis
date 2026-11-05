@@ -1,5 +1,3 @@
-###DEC-053482-0-000-24-01-1964@@@
-
 Decreto nº 53.482, de 24 de janeiro de 1964.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que indica, na cidade de Santa Maria, Estado do Rio Grande do Sul.

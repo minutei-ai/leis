@@ -1,5 +1,3 @@
-###DEC-079243-0-000-10-02-1977@@@
-
 DECRETO Nº 79.243, DE 10 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Letras, de Estudos Sociais e de Ciências, da Faculdade de Formação de Professores de Guaranhus, com sede na cidade de Garanhuns, Estado de Pernambuco.

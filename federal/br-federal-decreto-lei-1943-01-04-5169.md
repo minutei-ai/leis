@@ -1,5 +1,3 @@
-###DEL-005169-0-000-04-01-1943@@@
-
 DECRETO‑LEI N. 5.169 – De 4 DE JANEIRO DE 1943
 
 Modifica o disposto no decreto‑lei n. 4.598, de 20 de agosto de 1942, e dá outras providências

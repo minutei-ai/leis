@@ -1,5 +1,3 @@
-###DEL-005011-0-000-30-11-1942@@@
-
 DECRETO-LEI N. 5.011 – DE 30 DE NOVEMBRO DE 1942
 
 Cria, no Ministério da Aeronáutica, funções gratificadas e dá outras providências

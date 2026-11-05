@@ -1,5 +1,3 @@
-###DEC-005413-0-000-06-04-2005@@@
-
 DECRETO Nº 5.413 DE 6 DE ABRIL DE 2005
 
 Altera o Regulamento do Serviço de Retransmissão de Televisão e do Serviço de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens, aprovado pelo Decreto nº 5.371, de 17 de fevereiro de 2005, e dá outras providências.

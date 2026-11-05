@@ -1,5 +1,3 @@
-###DEL-000322-0-000-07-04-1967@@@
-
 DECRETO-LEI Nº 322, DE 7 DE ABRIL DE 1967
 
 Estabelece limitações ao reajustamento de aluguéis e dá outras providências.

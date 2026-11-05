@@ -1,5 +1,3 @@
-###DEC-051006-0-000-20-07-1961@@@
-
 decreto nº 51.006, de 20 de juLho de 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de São Paulo as águas do rio “Água Branca”.

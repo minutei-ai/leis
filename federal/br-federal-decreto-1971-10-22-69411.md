@@ -1,5 +1,3 @@
-###DEC-069411-0-000-22-10-1971@@@
-
 DECRETO Nº 69.411, DE 22 DE OUTUBRO DE 1971.
 
 Dispõe sobre a criação de zona prioritária, para fins de Reforma Agrária, no Estado do Paraná e de Santa Catarina.

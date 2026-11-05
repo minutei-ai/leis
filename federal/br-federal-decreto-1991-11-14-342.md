@@ -1,7 +1,3 @@
-1
-
-###DEC-000342-0-000-14-11-1991@@@
-
 DECRETO N° 342, DE 14 DE NOVEMBRO DE 1991
 
 Fixa a relação entre os preços máximos de venda do álcool hidratado para fins carburantes e o da gasolina automotiva nas bases de distribuição.

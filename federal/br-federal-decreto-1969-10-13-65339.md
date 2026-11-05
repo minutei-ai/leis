@@ -1,5 +1,3 @@
-###DEC-065339-0-000-13-10-1969@@@
-
 DECRETO Nº 65.339, DE 13 DE OUTUBRO DE 1969.
 
 Outorga à Centrais Elétricas Matogrossenses S.A., concessão para o aproveitamento hidráulico, de um desnível do rio Paraguaizinho, no município de Alto Paraguai, Estado de Mato Grosso.

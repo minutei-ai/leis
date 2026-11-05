@@ -1,5 +1,3 @@
-###DEC-051949-A-000-26-04-1963@@@
-
 Decreto nº 51.949-A, de 26 de abril de 1963.
 
 Autoriza a Companhia de Cimento Portland Poty a pesquisar fosforita no município de Igaraçu, Estado de Pernambuco.

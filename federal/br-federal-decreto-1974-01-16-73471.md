@@ -1,5 +1,3 @@
-###DEC-073471-0-000-16-01-1974@@@
-
 DECRETO Nº 73.471, DE 16 JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno urbano e respectiva benfeitoria, situados no Município de Pelotas, Estado do Rio Grande do Sul, destinados à ampliação das instalações da Companhia Telefônica Melhoramento e Resistência.

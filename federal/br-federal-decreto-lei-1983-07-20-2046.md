@@ -1,5 +1,3 @@
-###DEL-002046-0-000-20-07-1983@@@
-
 # Decreto-lei nº 2.046, de 20 de julho 1983
 
 Altera o limite estabelecido nos artigos 1º e 2º do Decreto-lei nº 2.021, de 18 de maio de 1983.

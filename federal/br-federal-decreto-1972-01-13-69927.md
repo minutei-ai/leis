@@ -1,5 +1,3 @@
-###DEC-069927-0-000-13-01-1972@@@
-
 DECRETO Nº 69.927, DE 13 DE JANEIRO DE 1972.
 
 Institui, em caráter nacional, o Programa "Bôlsa de Trabalho".
@@ -75,8 +73,6 @@ Jarbas G. Passarinho
 Júlio Barata
 
 João Paulo dos Reis Velloso
-
-###DEC-069927-0-000-13-01-1972@@@
 
 DECRETO Nº 69.927, DE 13 DE JANEIRO DE 1972.
 

@@ -1,5 +1,3 @@
-###DEC-050949-0-000-13-07-1961@@@
-
 Decreto nº 50.949, de 13 de julho de 1961.
 
 Altera a denominação da escola que especifica.

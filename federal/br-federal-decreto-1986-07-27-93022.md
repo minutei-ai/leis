@@ -1,5 +1,3 @@
-###DEC-093022-0-000-27-07-1986@@@
-
 DECRETO Nº 93.022, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Agropecuária São Felipe e Agropecuária Bacaraí", situados no Município de Cruz Alta, no Estado do Rio Grande do Sul, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.692, de 19 de maio de 1986, e dá outras providências.

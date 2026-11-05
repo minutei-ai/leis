@@ -1,5 +1,3 @@
-###DEC-055575-0-000-18-01-1965@@@
-
 DECRETO Nº 55.575, DE 18 DE JANEIRO DE 1965.
 
 Concede a sociedade Navegação e Comércio de Madeiras Pacheco Ltda., autorização para funcionar como empresa de navegação de cabotagem.

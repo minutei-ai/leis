@@ -1,5 +1,3 @@
-###DEC-059001-0-000-05-08-1966@@@
-
 DECRETO Nº 59.001, DE 5 DE AGÔSTO DE 1966.
 
 Disciplina os incentivos fiscais para a constituição, refôrço e recomposição do capital de trabalho das atuais emprêsas industriais e agrícolas com sede no Nordeste e dá outras providências.

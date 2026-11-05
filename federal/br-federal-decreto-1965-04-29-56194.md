@@ -1,5 +1,3 @@
-###DEC-056194-0-000-29-04-1965@@@
-
 DECRETO Nº 56.194, DE 29 DE ABRIL DE 1965.
 
 Transfere de Carlos Germano Nitz para o Município de Afonso Cláudio a concessão para produzir, transmitir e distribuir energia elétrica no Distrito de Serra Pelada.

@@ -1,5 +1,3 @@
-###DEC-007810-0-000-20-09-2012-PUB-01@@@
-
 DECRETO N°\- 7.810, DE 20 DE SETEMBRO DE 2012
 
 Estabelece a aplicação de margem de preferência em licitações realizadas no âmbito da administração pública federal para aquisição de papel-moeda, para fins do disposto no art. 3° da Lei n° 8.666, de 21 de junho de 1993.

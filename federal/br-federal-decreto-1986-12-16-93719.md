@@ -1,5 +1,3 @@
-###DEC-093719-0-000-16-12-1986@@@
-
 DECRETO Nº 93.719, DE 16 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Passo Liso/Quinhão 12 (parte)", situado no Município de Laranjeiras do Sul, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providências.,

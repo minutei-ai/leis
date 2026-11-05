@@ -1,5 +1,3 @@
-###DEC-059727-0-000-15-12-1966@@@
-
 DECRETO Nº 59.727, DE 15 DE DEZEMBRO DE1966.
 
 Autoriza o cidadão brasileiro José Pedro a pesquisar água mineral no município de Pirapora do Bom Jesus, Estado de São Paulo.

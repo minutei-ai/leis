@@ -22,4 +22,4 @@ Brasília, 31 de julho de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Ernesto Henrique Fraga Araújo<br>
+Ernesto Henrique Fraga Araújo

@@ -12,5 +12,6 @@ ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 15 de outubro de 2026.
 
  
 
-Deputado BRUNO PEIXOTO<br>
+Deputado BRUNO PEIXOTO
+
 – PRESIDENTE –

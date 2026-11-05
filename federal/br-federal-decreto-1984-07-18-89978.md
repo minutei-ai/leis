@@ -1,5 +1,3 @@
-###DEC-089978-0-000-18-07-1984@@@
-
 Decreto nº 89.978, de 18 de julho de 1984
 
 Dá nova redação ao inciso XVI, do artigo 1º, do Decreto nº 83.323, de 11 de abril de 1979, com redação alterada pelo Artigo 1º, do Decreto nº 85.776, de 26 de fevereiro de 1981, e dá outras providências.

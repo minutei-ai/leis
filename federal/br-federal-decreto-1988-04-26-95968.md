@@ -1,5 +1,3 @@
-###DEC-095968-0-000-26-04-1988@@@
-
 DECRETO N° 95.968, DE 26 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SANTA LUZIA”, também conhecido como “FAZENDA TIJUIPE ou CONJUNTO TIJUIPE” (parte), classificado como “latifúndio por exploração”, situado no Município de Uruçuca, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixado pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

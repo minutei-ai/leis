@@ -1,5 +1,3 @@
-###DEC-082784-0-000-04-12-1978@@@
-
 Decreto nº 82.784, de 04 de dezembro de 1978.
 
 Renova por 10 (dez) anos a concessão outorgada à Emissora de Educação Rural Ltda. para que a Fundação Santa Luzia de Mossoró passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Mossoró, Estado do Rio Grande do Norte.

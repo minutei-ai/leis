@@ -1,5 +1,3 @@
-###DEC-045616-0-000-24-03-1959@@@
-
 DECRETO Nº 45.616, DE 24 DE MARÇO DE 1959.
 
 Autoriza estrangeiro a adquirir, em regime de ocupação, fração ideal do terreno de acrescido de marinha que menciona, no Distrito Federal.

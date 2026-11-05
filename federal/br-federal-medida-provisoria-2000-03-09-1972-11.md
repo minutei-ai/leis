@@ -1,5 +1,3 @@
-###MPV-001972-0-011-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.972-11, DE 9 DE março DE 2000.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

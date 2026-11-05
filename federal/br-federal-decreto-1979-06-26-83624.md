@@ -1,5 +1,3 @@
-###DEC-083624-0-000-26-06-1979@@@
-
 Decreto nº 83.624, de 26 de junho de 1979.
 
 Concede à Décio Roberto Gomes de Moura - Firma Individual o direito de lavrar água potável no Município de Presidente Prudente, Estado de São Paulo.

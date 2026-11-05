@@ -1,5 +1,3 @@
-###DEC-046839-0-000-15-09-1959@@@
-
 DECRETO Nº 46.839, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza a Emprêsa Sul Brasileira de Eletricidade S. A. a ampliar suas instalações.

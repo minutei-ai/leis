@@ -1,5 +1,3 @@
-###DEC-067742-0-000-08-12-1970@@@
-
 DECRETO Nº 67.742, de 8 de Dezembro de 1970.
 
 Concede à Chrystalino Minerais e Refrigerantes Ltda. o direito de lavrar água potável de mesa, no município de Anápolis, Estado de Goiás.

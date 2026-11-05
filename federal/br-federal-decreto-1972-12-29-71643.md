@@ -1,5 +1,3 @@
-###DEC-071643-0-000-29-12-1972@@@
-
 DECRETO Nº 71.643 - DE 29 DE DEZEMBRO DE 1972
 
 Concede autorização às empresas Oceanic Contractors, Inc. Christiani Nielsen - Engenheiros e Construtores S.A. para operarem, no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, as embarcações "McDermott 20", "Esteffe S. Defelice", "Denise D. Defelice" Gulf Seans, Gulf Duke", Jaramac XXVII" "Tide Mar 23", Intermac 255", "Power Tide", "Front Royal" a "Stinger" de propriedade da firma J. Ray MacDemott & Com.,Inc., de nacionalidade norte-americana, nos serviços que especifica.

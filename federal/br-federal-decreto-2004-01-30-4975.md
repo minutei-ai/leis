@@ -1,5 +1,3 @@
-###DEC-004975-0-000-30-01-2004@@@
-
 DECRETO Nº 4.975,  DE 30 DE JANEIRO DE 2004.
 
 Promulga o Acordo de Extradição entre os Estados Partes do Mercosul.

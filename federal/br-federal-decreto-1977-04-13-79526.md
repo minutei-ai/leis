@@ -1,5 +1,3 @@
-###DEC-079526-0-000-13-04-1977@@@
-
 DECRETO Nº 79.526, DE 13 DE ABRIL DE 1977.
 
 Declara sem efeito o Decreto número 53.122, de 10 de dezembro de 1963, retificado pelo Decreto número 56.123, de 27 de abril de 1965, que concedeu à Empresa de Caolim Ltda. o direito de lavrar caulim no Município de Juiz de Fora, Estado de Minas Gerais.

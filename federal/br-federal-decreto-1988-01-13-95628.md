@@ -1,7 +1,3 @@
-1
-
-###DEC-095628-0-000-13-01-1988@@@
-
 DECRETO N° 95.628, DE 13 DE JANEIRO DE 1988
 
 Autoriza a transferência direta da concessão outorgada à SUPER-RADIODIFUSÃO Ltda., para a TRIDIO-RADIODIFUSÃO LTDA.

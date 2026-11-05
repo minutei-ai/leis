@@ -24,11 +24,35 @@ III - Categoria Operacional Docente
 
 e) Campus Formosa
 
-<table style="width: 500px;"><tbody><tr><td style="width: 219px; text-align: center;"><strong>Cargo</strong></td><td style="width: 238px; text-align: center;"><strong>Quantitativo</strong></td></tr><tr><td style="width: 219px; text-align: center;">Professor da Faculdade de Medicina II&nbsp;</td><td style="width: 238px; text-align: center;">40</td></tr></tbody></table>
+**Cargo**
+
+**Quantitativo**
+
+Professor da Faculdade de Medicina II
+
+40
 
 IV - Categoria Operacional Administrativa: 
 
-<table style="width: 500px;"><tbody><tr><td style="width: 215px; text-align: center;"><strong>Cargo/Área de Atuação</strong></td><td style="width: 242px; text-align: center;"><strong>Quantitativo</strong></td></tr><tr><td style="width: 215px;">...................................................</td><td style="width: 242px; text-align: center;">.........................................</td></tr><tr><td style="width: 215px; text-align: center;">Auxiliar Administrativo</td><td style="width: 242px; text-align: center;">100</td></tr><tr><td style="width: 215px; text-align: center;">...................................................</td><td style="width: 242px; text-align: center;">.........................................</td></tr><tr><td style="width: 215px; text-align: center;">Assistente Administrativo</td><td style="width: 242px; text-align: center;">02</td></tr></tbody></table>
+**Cargo/Área de Atuação**
+
+**Quantitativo**
+
+...................................................
+
+.........................................
+
+Auxiliar Administrativo
+
+100
+
+...................................................
+
+.........................................
+
+Assistente Administrativo
+
+02
 
 Art. 6º Altera os requisitos de ingresso e acrescenta 03 (três) vagas ao cargo do Técnico de Laboratório/Ciências do Anexo Único da [Lei Complementar nº 38](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117740)/2015 que, com as alterações e acréscimo, passa a vigorar com a seguinte redação:
 
@@ -36,7 +60,17 @@ Art. 6º Altera os requisitos de ingresso e acrescenta 03 (três) vagas ao cargo
 
 .............................................................................
 
-<table style="width: 500px;"><tbody><tr><td>Título do Cargo: Técnico de Laboratório/Ciências</td></tr><tr><td>........................................................</td></tr><tr><td>Requisitos: Ensino Médio profissionalizante na área específica; Ensino Médio completo e curso técnico na mesma área; Tecnólogo na área da saúde; Curso superior na área da saúde.</td></tr><tr><td>........................................................</td></tr><tr><td>Quantitativo: 19</td></tr><tr><td>........................................................</td></tr></tbody></table>
+Título do Cargo: Técnico de Laboratório/Ciências
+
+........................................................
+
+Requisitos: Ensino Médio profissionalizante na área específica; Ensino Médio completo e curso técnico na mesma área; Tecnólogo na área da saúde; Curso superior na área da saúde.
+
+........................................................
+
+Quantitativo: 19
+
+........................................................
 
 ............................................................................."
 

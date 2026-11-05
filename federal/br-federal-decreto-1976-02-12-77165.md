@@ -1,5 +1,3 @@
-###DEC-077165-0-000-12-02-1976@@@
-
 DECRETO Nº 77.165, DE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Medicina Veterinária da Universidade Estadual de Mato Grosso, com seda na Cidade de Campo Grande, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEL-000243-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 243, DE 28 DE FEVEREIRO DE 1967
 
 Fixa as Diretrizes e Bases da Cartografia Brasileira e dá outras providências.
@@ -315,8 +313,6 @@ Clovis Monteiro Travassos
 Mauro Thibau
 
 João Gonçalves de Souza
-
-###DEL-000243-0-000-28-02-1967@@@RET01+++
 
 DECRETO-LEI Nº 243, de 28 de fevereiro de 1967
 

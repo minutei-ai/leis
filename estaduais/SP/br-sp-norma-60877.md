@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=60877)
-
 # LEI Nº 12.258, DE 09 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 563, de 2003, do Deputado Fausto Figueira - PT)

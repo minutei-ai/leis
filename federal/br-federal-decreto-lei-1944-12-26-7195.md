@@ -1,5 +1,3 @@
-###DEL-007195-0-000-26-12-1944@@@
-
 DECRETO-LEI N. 7.195 – DE 26 DE DEZEMBRO DE 1944
 
 Dispõe sôbre a contribuição do pessoal da Justiça Militar para o Montepio Militar

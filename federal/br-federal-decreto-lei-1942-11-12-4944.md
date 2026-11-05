@@ -1,5 +1,3 @@
-###DEL-004944-0-000-12-11-1942@@@
-
 DECRETO-LEI N. 4.944 – DE 12 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 485.160,00, para despesas com a armazenagem e redistribuição de salitre do Chile

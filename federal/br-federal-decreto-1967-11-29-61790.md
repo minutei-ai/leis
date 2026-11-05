@@ -1,5 +1,3 @@
-###DEC-061790-0-000-29-11-1967@@@
-
 Decreto nº 61.790, de 29 de Novembro de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Departamento Nacional de Obras Contra as Sêcas.

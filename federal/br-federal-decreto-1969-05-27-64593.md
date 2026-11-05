@@ -1,5 +1,3 @@
-###DEC-064593-0-000-27-05-1969@@@
-
 DECRETO Nº 64.593, DE 27 DE MAIO DE 1969.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional à operação de financiamento externo a ser contratado pelo Govêrno do Estado do Rio Grande do Sul, juntamente com a Companhia Estadual de Energia Elétrica e a Agência Norte-Americana para o Desenvolvimento Internacional - USAID.

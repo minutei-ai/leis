@@ -1,5 +1,3 @@
-###DEC-070662-0-000-31-05-1972@@@
-
 DECRETO Nº 70.662, DE 31 DE MAIO DE 1972.
 
 Redistribui, com o respectivo ocupante, cargo do Departamento Nacional de Obras Contra as Secas para o Ministério das Minas e Energia, e dá outras providências.

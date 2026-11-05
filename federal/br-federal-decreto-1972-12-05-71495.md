@@ -1,5 +1,3 @@
-###DEC-071495-0-000-05-12-1972@@@
-
 Decreto nº 71.495 - de 5 de dezembro de 1972
 
 Dispõe sobre assinatura de Cartas-Patentes de Capitães e Oficiais Subalternos do Exército.

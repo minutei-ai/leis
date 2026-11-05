@@ -1,5 +1,3 @@
-###DEC-069246-0-000-21-09-1971@@@
-
 DECRETO Nº 69.246, DE 21 DE SETEMBRO DE 1971.
 
 Regulamento o Decreto-lei nº 1.179, de 6 de julho de 1971.

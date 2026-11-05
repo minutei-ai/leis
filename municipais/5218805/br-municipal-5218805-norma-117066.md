@@ -90,14 +90,16 @@ Secretário de Planejamento e Gestão
 
 **ANEXO I**
 
-**(ANEXO I DA LEI COMPLEMENTAR N. 182/2020<br>
+**(ANEXO I DA LEI COMPLEMENTAR N. 182/2020
+
 QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE CONFIANÇA (CC))**
 
-<table style="width: 60%;"><tbody><tr><td rowspan="7">CARGO DE CONFIANÇA (CC)</td><td style="text-align: center;"><strong>ESPÉCIE/</strong> <strong>NÍVEL</strong></td><td style="text-align: center;"><strong>CARGO DE</strong> <strong>REFERÊNCIA</strong></td><td style="text-align: center;"><strong>QUANTITATIVO</strong></td><td style="width: 271px; text-align: center;"><strong>VALOR</strong></td></tr><tr><td colspan="1" rowspan="4">&nbsp;</td><td>Secretário Municipal</td><td>15</td><td style="width: 271px; text-align: center;">........................</td></tr><tr><td>Controlador-Geral do Município</td><td>........................</td><td style="width: 271px; text-align: center;">........................</td></tr><tr><td>Procurador-Geral do Município</td><td>........................</td><td style="width: 271px; text-align: center;">........................</td></tr><tr><td>Chefe de Gabinete do Prefeito</td><td>........................</td><td style="width: 271px; text-align: center;">........................</td></tr><tr><td>CC-2</td><td>Presidente de Autarquias e Fundações - Nível 1</td><td>........................</td><td style="width: 271px; text-align: center;">........................</td></tr><tr><td>CC-3</td><td>Presidente de Autarquias e Fundações - Nível 2</td><td>........................</td><td style="width: 271px; text-align: center;">........................</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="7">CARGO DE CONFIANÇA (CC)</td><td>**ESPÉCIE/NÍVEL**</td><td>**CARGO DEREFERÊNCIA**</td><td>**QUANTITATIVO**</td><td>**VALOR**</td></tr><tr><td colspan="1" rowspan="4">&nbsp;</td><td>Secretário Municipal</td><td>15</td><td>........................</td></tr><tr><td>Controlador-Geral do Município</td><td>........................</td><td>........................</td></tr><tr><td>Procurador-Geral do Município</td><td>........................</td><td>........................</td></tr><tr><td>Chefe de Gabinete do Prefeito</td><td>........................</td><td>........................</td></tr><tr><td>CC-2</td><td>Presidente de Autarquias e Fundações - Nível 1</td><td>........................</td><td>........................</td></tr><tr><td>CC-3</td><td>Presidente de Autarquias e Fundações - Nível 2</td><td>........................</td><td>........................</td></tr></tbody></table>
 
 **ANEXO II**
 
-**(ANEXO VII DA LEI COMPLEMENTAR Nº 182<br>
+**(ANEXO VII DA LEI COMPLEMENTAR Nº 182
+
 TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA)** 
 
 | ÓRGÃO/ENTIDADE EXTINTO OU INCORPORADO | ÓRGÃO/ENTIDADE SUCESSOR, CRIADO OU MANTIDO |
@@ -108,12 +110,13 @@ TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA)** 
 
 **ANEXO III**
 
-**(ANEXO V DA LEI COMPLEMENTAR N. 182/2020<br>
+**(ANEXO V DA LEI COMPLEMENTAR N. 182/2020
+
 DESCRIÇÃO DAS FUNÇÕES GRATIFICADAS (FG))**
 
 1\. Tabela 1 - Consolidada
 
-| **ESPÉCIE /** **NÍVEL** | **QUANTITATIVO** | **REMUNERAÇÃO** |
+| **ESPÉCIE /NÍVEL** | **QUANTITATIVO** | **REMUNERAÇÃO** |
 | --- | --- | --- |
 | FG-1 | 35 | ........................... |
 | FG-2 | 77 | ........................... |
@@ -158,12 +161,64 @@ DESCRIÇÃO DAS FUNÇÕES GRATIFICADAS (FG)
 
 1\. Tabela 2 - Secretaria Municipal de Educação - SME
 
-<table><tbody><tr><td><strong>ESPÉCIE/NÍVEL</strong></td><td><strong>FUNÇÃO</strong></td><td><strong>DESCRIÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr><tr><td style="text-align: center;">..........................</td><td style="text-align: center;">.........................</td><td style="text-align: center;">..........................</td><td style="text-align: center;">..........................</td></tr><tr><td style="text-align: center;">FG-1</td><td>Gestor de Departamento Pessoal</td><td>Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do departamento de pessoal. Tem a função de coordenar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na admnistração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="text-align: center;">1</td></tr><tr><td style="text-align: center;">FG-2</td><td>Gestor de pessoas e Folha de Pagamento Nível I</td><td>Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão da folha de pagamento de pessoal.&nbsp;Tem a função de administrar diariamente a folha de pagamento e suas variações.&nbsp;É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="text-align: center;">1</td></tr><tr><td style="text-align: center;">..........................</td><td style="text-align: center;">..........................</td><td style="text-align: center;">..........................</td><td style="text-align: center;">..........................</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+..........................
+
+.........................
+
+..........................
+
+..........................
+
+FG-1
+
+Gestor de Departamento Pessoal
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do departamento de pessoal. Tem a função de coordenar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na admnistração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+1
+
+FG-2
+
+Gestor de pessoas e Folha de Pagamento Nível I
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão da folha de pagamento de pessoal. Tem a função de administrar diariamente a folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+1
+
+..........................
+
+..........................
+
+..........................
+
+..........................
 
 .................................................................................
 
 10\. Tabela 10. - Guarda Civil Municipal - GCM
 
-<table><tbody><tr><td><strong>ESPÉCIE/NÍVEL</strong></td><td style="width: 149px;"><strong>FUNÇÃO</strong></td><td style="width: 451px;"><strong>DESCRIÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr><tr><td style="text-align: center;">FG-2</td><td style="width: 149px; text-align: center;">Inspetor da Guarda Civil Municipal</td><td style="width: 451px;">-----------------------------------------------------------------------------</td><td style="text-align: center;">11</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+FG-2
+
+Inspetor da Guarda Civil Municipal
+
+-----------------------------------------------------------------------------
+
+11
 
 ................................................................................

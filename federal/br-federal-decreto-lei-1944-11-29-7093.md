@@ -1,5 +1,3 @@
-###DEL-007093-0-000-29-11-1944@@@
-
 DECRETO-LEI N. 7.093 – DE 29 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 155. 120,00, a verba que especifica

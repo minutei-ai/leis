@@ -1,5 +1,3 @@
-###DEC-053539-0-000-05-02-1964@@@
-
 DECRETO Nº 53.539, DE 5 DE FEVEREIRO DE 1964.
 
 Estabelece normas para importações realizadas por entidades públicas e órgãos assemelhados.

@@ -1,5 +1,3 @@
-###DEC-055249-0-000-21-12-1964@@@
-
 DECRETO Nº 55.249, DE 21 DE DEZEMBRO DE 1964.
 
 Estabelece normas para a execução do Decreto nº 51.061, de 27 de julho de 1961, que instituiu medalha-prêmio para os funcionários civis do Poder Executivo.
@@ -63,8 +61,6 @@ Mauro Thibau
 Roberto de Oliveira Campos
 
 Oswaldo Cordeiro de Farias
-
-###DEC-055249-0-000-21-12-1964@@@RET01+++
 
 decreto nº 55.249, de 21 de dezembro de 1964.
 

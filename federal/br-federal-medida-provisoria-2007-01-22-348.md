@@ -1,5 +1,3 @@
-###MPV-000348-0-000-22-01-2007@@@
-
 MEDIDA PROVISÓRIA Nº 348, DE 22 DE JANEIRO DE 2007.
 
 Institui o Fundo de Investimento em Participações em Infra-Estrutura - FIP-IE, e dá outras providências.
@@ -73,5 +71,3 @@ Art. 5o  Esta Medida Provisória entra em vigor na data de sua publicação.
 LUIZ INÁCIO LULA DA SILVA
 
        Guido Mantega
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

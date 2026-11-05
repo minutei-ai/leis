@@ -1,5 +1,3 @@
-###DEC-076409-0-000-09-10-1975@@@
-
 DECRETO Nº 76.409, DE 9 DE OUTUBRO DE 1975.
 
 Dispõe sobre a criação e coordenação de Núcleos de Articulação com a Indústria.

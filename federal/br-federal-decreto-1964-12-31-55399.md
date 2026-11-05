@@ -1,5 +1,3 @@
-###DEC-055399-0-000-31-12-1964@@@
-
 DECRETO Nº 55.399, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Antônio Vasconcelos a pesquisar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

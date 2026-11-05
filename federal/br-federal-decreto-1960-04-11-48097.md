@@ -1,5 +1,3 @@
-###DEC-048097-0-000-11-04-1960@@@
-
 DECRETO Nº 48.097, DE 11 DE ABRIL DE 1960.
 
 Transfere de Chicre Miguel para a Centrais Elétricas de Minas Gerais S.A. - CEMIG - a concessão para a produção e fornecimento de energia elétrica ao município de Itumirim, Estado de Minas Gerais.

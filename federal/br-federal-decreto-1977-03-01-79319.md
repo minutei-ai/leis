@@ -1,5 +1,3 @@
-###DEC-079319-0-000-01-03-1977@@@
-
 DECRETO Nº 79.319, DE 1º DE MARÇO DE 1977.
 
 Encampa bens e instalações que constituem a Usina Termelétrica de Porto Alegre, atual Gasômetro, situada no Município de Porto Alegre, no Estado do Rio Grande do Sul, de propriedade da Companhia Estadual de Energia Elétrica - CEEE.

@@ -1,5 +1,3 @@
-###DEC-059507-0-000-09-11-1966@@@
-
 DECRETO Nº 59.507, DE 9 DE NOVEMBRO DE 1966.
 
 Atualiza os valôres das multas previstas no Decreto nº 24.643, de 10 de julho de 1934 (Código de Águas) e leis complementares, mediante aplicação de coeficientes de correção monetária.

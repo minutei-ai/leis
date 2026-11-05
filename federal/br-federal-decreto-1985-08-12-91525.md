@@ -1,5 +1,3 @@
-###DEC-091525-0-000-12-08-1985@@@
-
 Decreto nº 91.525, de 12 de agosto de 1985
 
 Altera dispositivos dos Estatutos da Fundação Abrigo do Cristo Redentor (FACR), aprovados pelo Decreto nº 77.250, de 27 de fevereiro de 1976, e dá outras providências.

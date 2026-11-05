@@ -1,5 +1,3 @@
-###DEC-056380-0-000-31-05-1965@@@
-
 decreto nº 56.380, de 31 de maio de 1965.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Estrada de Rodagem, área de terreno situada no Município de Santa Bárbara - Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-080386-0-000-23-09-1977@@@
-
 DECRETO Nº 80.386, DE 28 DE SETEMBRO DE 1977.
 
 Concede reconhecimento à Universidade Estadual Paulista "Júlio de Mesquita Filho", sediada no Distrito e Ilha Solteira, Município de Pereira Barreto, Estado de São Paulo.

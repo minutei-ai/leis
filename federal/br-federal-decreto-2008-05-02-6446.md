@@ -1,5 +1,3 @@
-###DEC-006446-0-000-02-05-2008@@@
-
 DECRETO Nº 6.446, DE 2 DE MAIO DE 2008.
 
 Dá nova redação aos incisos I e II do caput do art. 1o do Decreto no 5.060, de 30 de abril de 2004, para reduzir as alíquotas da Contribuição de Intervenção no Domínio Econômico - CIDE incidentes sobre a importação e a comercialização de gasolina e suas correntes e diesel e suas correntes.
@@ -21,5 +19,3 @@ Brasília, de de 2008; 187º da Independência e 120º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 2.5.2008 - Edição extra

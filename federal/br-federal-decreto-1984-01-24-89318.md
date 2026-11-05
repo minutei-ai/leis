@@ -1,5 +1,3 @@
-###DEC-089318-0-000-24-01-1984@@@
-
 Decreto nº 89.318, de 24 de janeiro de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação II da estação transformadora de distribuição Ibirapuera, da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

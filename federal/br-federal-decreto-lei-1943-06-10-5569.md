@@ -1,5 +1,3 @@
-###DEL-005569-0-000-10-06-1943@@@
-
 DECRETO‑LEI N. 5.569 – DE 10 DE JUNHO DE 1943
 
 Isenta de emolumentos consulares as embarcações brasileiras empregadas no transporte de mercadorías pelo rio Uruguai

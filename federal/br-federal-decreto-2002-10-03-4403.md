@@ -1,5 +1,3 @@
-###DEC-004403-0-000-03-10-2002@@@
-
 DECRETO Nº 4.403, DE 3 DE OUTUBRO DE 2002
 
 Regulamenta a Gratificação de Desempenho de Atividade Diplomática, a Gratificação de Desempenho de Atividade de Oficial de Chancelaria e a Gratificação de Desempenho de Atividade de Assistente de Chancelaria, e dá outras providências.

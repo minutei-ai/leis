@@ -1,6 +1,6 @@
 > **LEI Nº 3.882, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo alienar os bens móveis inservíveis, antieconômicos e sucatas pertencentes ao Estado.</span></span></span></p></td></tr></tbody></table>
+Autoriza o Poder Executivo alienar os bens móveis inservíveis, antieconômicos e sucatas pertencentes ao Estado.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -22,4 +22,2352 @@ Governador do Estado do Acre
 
 **ANEXO ÚNICO - BENS MÓVEIS INSERVÍVEIS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><strong><span>ITEM</span></strong></p></td><td><p><span><strong><span>LOTE</span></strong></span></p></td><td><p><span><strong><span>MARCA</span></strong></span></p></td><td><p><span><strong><span>PLACA</span></strong></span></p></td><td><p><span><strong><span>CHASSI</span></strong></span></p></td><td><p><span><strong><span>MODELO</span></strong></span></p></td><td><p><span><strong><span>ANO</span></strong></span></p></td><td><p><span><strong><span>COR</span></strong></span></p></td><td><p><span><strong><span>DÉBITOS/MULTAS</span></strong></span></p></td><td><p><span><strong><span>UF</span></strong></span></p></td><td><p><span><strong><span>VALOR DA AVALIAÇÃO FINAL</span></strong></span></p></td></tr><tr><td><p><span><span>1</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>CASE W20E</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZ0001024</span></span></p></td><td><p><span><span>PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 13.500,00</span></span></p></td></tr><tr><td><p><span><span>2</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>CARTERPILLAR</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>CAT0120445FM02662</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 19.800,00</span></span></p></td></tr><tr><td><p><span><span>3</span></span></p></td><td><p><span><span>3</span></span></p></td><td><p><span><span>WA 180</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>KMTWA002C510B2124</span></span></p></td><td><p><span><span>PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2004</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 17.000,00</span></span></p></td></tr><tr><td><p><span><span>4</span></span></p></td><td><p><span><span>4</span></span></p></td><td><p><span><span>MF 299</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>2994198449</span></span></p></td><td><p><span><span>TRATOR AGRÍCOLA</span></span></p></td><td><p><span><span>2005/2005</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 11.000,00</span></span></p></td></tr><tr><td><p><span><span>5</span></span></p></td><td><p><span><span>5</span></span></p></td><td><p><span><span>CASE W20 E</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZ0001023</span></span></p></td><td><p><span><span>PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.750,00</span></span></p></td></tr><tr><td><p><span><span>6</span></span></p></td><td><p><span><span>6</span></span></p></td><td><p><span><span>CARTERPILLAR 120H</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>CAT0120HC5FM02638</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 15.400,00</span></span></p></td></tr><tr><td><p><span><span>7</span></span></p></td><td><p><span><span>7</span></span></p></td><td><p><span><span>FORD CARGO 1621</span></span></p></td><td><p><span><span>MZZ1137</span></span></p></td><td><p><span><span>9BFYTHZT72BB14996</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 10.233,15</span></span></p></td></tr><tr><td><p><span><span>8</span></span></p></td><td><p><span><span>8</span></span></p></td><td><p><span><span>MERCERDEZ BENZ 1113</span></span></p></td><td><p><span><span>MZZ7131</span></span></p></td><td><p><span><span>34403312572195,00</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>1981</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 2.059,65</span></span></p></td></tr><tr><td><p><span><span>9</span></span></p></td><td><p><span><span>9</span></span></p></td><td><p><span><span>NEW HOLLAND NH FX215</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N5AAD0112</span></span></p></td><td><p><span><span>ESCAVADEIRA HIDRÁULICA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 15.000,00</span></span></p></td></tr><tr><td><p><span><span>10</span></span></p></td><td><p><span><span>10</span></span></p></td><td><p><span><span>NEW HOLLAND E215B</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZN215BPBAA00431</span></span></p></td><td><p><span><span>ESCAVADEIRA HIDRÁULICA</span></span></p></td><td><p><span><span>2011</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 33.000,00</span></span></p></td></tr><tr><td><p><span><span>11</span></span></p></td><td><p><span><span>11</span></span></p></td><td><p><span><span>NEW HOLLAND E215B</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZN215BLBAA00402</span></span></p></td><td><p><span><span>ESCAVADEIRA HIDRÁULICA</span></span></p></td><td><p><span><span>2011</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 15.000,00</span></span></p></td></tr><tr><td><p><span><span>12</span></span></p></td><td><p><span><span>12</span></span></p></td><td><p><span><span>NEW HOLLAND E215B</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZN215BPBAA00414</span></span></p></td><td><p><span><span>ESCAVADEIRA HIDRÁULICA</span></span></p></td><td><p><span><span>2011</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 24.000,00</span></span></p></td></tr><tr><td><p><span><span>13</span></span></p></td><td><p><span><span>13</span></span></p></td><td><p><span><span>FIATALLIS FD 170</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>D1709TC02187</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 18.000,00</span></span></p></td></tr><tr><td><p><span><span>14</span></span></p></td><td><p><span><span>14</span></span></p></td><td><p><span><span>FIATALLIS 14 CT</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>14CTITBRC-22676</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 8.400,00</span></span></p></td></tr><tr><td><p><span><span>15</span></span></p></td><td><p><span><span>15</span></span></p></td><td><p><span><span>MULLER VAP 55</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>517079253</span></span></p></td><td><p><span><span>ROLO COMPACTADOR&nbsp;</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 8.250,00</span></span></p></td></tr><tr><td><p><span><span>16</span></span></p></td><td><p><span><span>16</span></span></p></td><td><p><span><span>SPB000</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>ROLO COMPACTADOR TEMA TERRA</span></span></p></td><td><p><span><span>2000</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 26.250,00</span></span></p></td></tr><tr><td><p><span><span>17</span></span></p></td><td><p><span><span>17</span></span></p></td><td><p><span><span>MULLER SPV84</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>492 BL</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>2000</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 12.000,00</span></span></p></td></tr><tr><td><p><span><span>18</span></span></p></td><td><p><span><span>18</span></span></p></td><td><p><span><span>CASE W20E</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>JHF0020720</span></span></p></td><td><p><span><span>PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.000,00</span></span></p></td></tr><tr><td><p><span><span>19</span></span></p></td><td><p><span><span>19</span></span></p></td><td><p><span><span>NEW HOLLAND D130</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N8AC01128</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2009</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 15.500,00</span></span></p></td></tr><tr><td><p><span><span>20</span></span></p></td><td><p><span><span>20</span></span></p></td><td><p><span><span>CIFALI VDA621</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>VDA60011</span></span></p></td><td><p><span><span>VIBRO ACABADORA</span></span></p></td><td><p><span><span>2000</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 17.500,00</span></span></p></td></tr><tr><td><p><span><span>21</span></span></p></td><td><p><span><span>21</span></span></p></td><td><p><span><span>NEW HOLLAND D130</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N7AC01077</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 31.000,00</span></span></p></td></tr><tr><td><p><span><span>22</span></span></p></td><td><p><span><span>22</span></span></p></td><td><p><span><span>KOMATSU</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>KMT0D017E51B35220</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 30.000,00</span></span></p></td></tr><tr><td><p><span><span>23</span></span></p></td><td><p><span><span>23</span></span></p></td><td><p><span><span>D41E6-KOMATSU</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>KMT0D017T51B35222</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 30.000,00</span></span></p></td></tr><tr><td><p><span><span>24</span></span></p></td><td><p><span><span>24</span></span></p></td><td><p><span><span>D41E6-KOMATSU</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>KMT0D017C51B35283</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 30.000,00</span></span></p></td></tr><tr><td><p><span><span>25</span></span></p></td><td><p><span><span>25</span></span></p></td><td><p><span><span>D41E6-KOMATSU</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>KMT0D017C51B35221</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 30.000,00</span></span></p></td></tr><tr><td><p><span><span>26</span></span></p></td><td><p><span><span>26</span></span></p></td><td><p><span><span>D41E6-KOMATSU</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>KMT0D017C51B35279</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 30.000,00</span></span></p></td></tr><tr><td><p><span><span>27</span></span></p></td><td><p><span><span>27</span></span></p></td><td><p><span><span>FIATALLIS FB804</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N4AH10024</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2004</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 4.000,00</span></span></p></td></tr><tr><td><p><span><span>28</span></span></p></td><td><p><span><span>28</span></span></p></td><td><p><span><span>NEW HOLLAND LB110</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N8AH11011</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2008</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 7.200,00</span></span></p></td></tr><tr><td><p><span><span>29</span></span></p></td><td><p><span><span>29</span></span></p></td><td><p><span><span>NEW HOLLAND D130</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N8AC01129</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2009</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 9.300,00</span></span></p></td></tr><tr><td><p><span><span>30</span></span></p></td><td><p><span><span>30</span></span></p></td><td><p><span><span>FIATALLIS FD170</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>D1709TC02157</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.000,00</span></span></p></td></tr><tr><td><p><span><span>31</span></span></p></td><td><p><span><span>31</span></span></p></td><td><p><span><span>FIATALLIS FD9</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>D9B9T20975</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 8.100,00</span></span></p></td></tr><tr><td><p><span><span>32</span></span></p></td><td><p><span><span>32</span></span></p></td><td><p><span><span>FIATALLIS FD9</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>D9B9T20976</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 8.100,00</span></span></p></td></tr><tr><td><p><span><span>33</span></span></p></td><td><p><span><span>33</span></span></p></td><td><p><span><span>CIFALI VDA411</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>VDA400212</span></span></p></td><td><p><span><span>VIBRO ACABADORA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 7.500,00</span></span></p></td></tr><tr><td><p><span><span>34</span></span></p></td><td><p><span><span>34</span></span></p></td><td><p><span><span>TICEL VA4P</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>VA4P080625</span></span></p></td><td><p><span><span>VIBRO ACABADORA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>CINZA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 7.500,00</span></span></p></td></tr><tr><td><p><span><span>35</span></span></p></td><td><p><span><span>35</span></span></p></td><td><p><span><span>CATERPILLAR 120H</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>CAT0120HE5FM02663</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 15.400,00</span></span></p></td></tr><tr><td><p><span><span>36</span></span></p></td><td><p><span><span>36</span></span></p></td><td><p><span><span>MERCEDEZ BENZ ATEGO</span></span></p></td><td><p><span><span>NAB8829</span></span></p></td><td><p><span><span>9BM9580748B619587</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2008</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.366,64</span></span></p></td></tr><tr><td><p><span><span>37</span></span></p></td><td><p><span><span>37</span></span></p></td><td><p><span><span>MERCEDEZ BENZ L1318</span></span></p></td><td><p><span><span>MZS9413</span></span></p></td><td><p><span><span>9BM6940009B651541</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2009</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.869,35</span></span></p></td></tr><tr><td><p><span><span>38</span></span></p></td><td><p><span><span>38</span></span></p></td><td><p><span><span>FORD F1400</span></span></p></td><td><p><span><span>AC0283</span></span></p></td><td><p><span><span>9BFXTNSM5NDB01787</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 3.255,40</span></span></p></td></tr><tr><td><p><span><span>39</span></span></p></td><td><p><span><span>39</span></span></p></td><td><p><span><span>VOLKSWAGEN 16.170BT</span></span></p></td><td><p><span><span>MZS6530</span></span></p></td><td><p><span><span>9BWYTAGF4VRB01130</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>BRANCA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.463,30</span></span></p></td></tr><tr><td><p><span><span>40</span></span></p></td><td><p><span><span>40</span></span></p></td><td><p><span><span>FORD F12000</span></span></p></td><td><p><span><span>MZT7149</span></span></p></td><td><p><span><span>9BFWTNRM1PDB17408</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>1993</span></span></p></td><td><p><span><span>BRANCA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 3.255,40</span></span></p></td></tr><tr><td><p><span><span>41</span></span></p></td><td><p><span><span>41</span></span></p></td><td><p><span><span>FORD CARGO 1621</span></span></p></td><td><p><span><span>MZZ0345</span></span></p></td><td><p><span><span>9BFYTHZF22BB14999</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2011</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.822,10</span></span></p></td></tr><tr><td><p><span><span>42</span></span></p></td><td><p><span><span>42</span></span></p></td><td><p><span><span>M BENZ ATEGO 1718/48</span></span></p></td><td><p><span><span>MZY5717</span></span></p></td><td><p><span><span>9BM9580745B429106</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 8.057,00</span></span></p></td></tr><tr><td><p><span><span>43</span></span></p></td><td><p><span><span>43</span></span></p></td><td><p><span><span>FORD F4000</span></span></p></td><td><p><span><span>MZV6776</span></span></p></td><td><p><span><span>9BFLF47G45B016323</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.428,50</span></span></p></td></tr><tr><td><p><span><span>44</span></span></p></td><td><p><span><span>44</span></span></p></td><td><p><span><span>FORD CARGO 1721</span></span></p></td><td><p><span><span>MZW7286</span></span></p></td><td><p><span><span>9BFTHZF32BB15384</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.996,30</span></span></p></td></tr><tr><td><p><span><span>45</span></span></p></td><td><p><span><span>45</span></span></p></td><td><p><span><span>FORD F4000</span></span></p></td><td><p><span><span>MZV5996</span></span></p></td><td><p><span><span>9BFLF47G15B016439</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.438,50</span></span></p></td></tr><tr><td><p><span><span>46</span></span></p></td><td><p><span><span>46</span></span></p></td><td><p><span><span>M BENZ 715C</span></span></p></td><td><p><span><span>MZW8629</span></span></p></td><td><p><span><span>9BM9790165B441962</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 8.825,40</span></span></p></td></tr><tr><td><p><span><span>47</span></span></p></td><td><p><span><span>47</span></span></p></td><td><p><span><span>FORD 1621</span></span></p></td><td><p><span><span>MZZ3137</span></span></p></td><td><p><span><span>9BFYTHZF12BB14816</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.822,21</span></span></p></td></tr><tr><td><p><span><span>48</span></span></p></td><td><p><span><span>48</span></span></p></td><td><p><span><span>FIAT UNO MILLER FIRE FLEX</span></span></p></td><td><p><span><span>MZW6467</span></span></p></td><td><p><span><span>9BD15822764855424</span></span></p></td><td><p><span><span>VEÍCULO</span></span></p></td><td><p><span><span>2006</span></span></p></td><td><p><span><span>BRANCA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 1.340,30</span></span></p></td></tr><tr><td><p><span><span>49</span></span></p></td><td><p><span><span>49</span></span></p></td><td><p><span><span>VW GOL</span></span></p></td><td><p><span><span>MZS7844</span></span></p></td><td><p><span><span>9BWAA05W79P000621</span></span></p></td><td><p><span><span>VEÍCULO</span></span></p></td><td><p><span><span>2008</span></span></p></td><td><p><span><span>BRANCA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 2.253,40</span></span></p></td></tr><tr><td><p><span><span>50</span></span></p></td><td><p><span><span>50</span></span></p></td><td><p><span><span>FIAT UNO MILLER&nbsp;</span></span></p></td><td><p><span><span>NAB5310</span></span></p></td><td><p><span><span>9BD15844A96210576</span></span></p></td><td><p><span><span>VEÍCULO</span></span></p></td><td><p><span><span>2008/2009</span></span></p></td><td><p><span><span>BRANCA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 1.772,00</span></span></p></td></tr><tr><td><p><span><span>51</span></span></p></td><td><p><span><span>51</span></span></p></td><td><p><span><span>VW VOYAGE</span></span></p></td><td><p><span><span>MZW7513</span></span></p></td><td><p><span><span>9BWDA05U0BT255118</span></span></p></td><td><p><span><span>VEÍCULO</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>BRANCA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 2.688,10</span></span></p></td></tr><tr><td><p><span><span>52</span></span></p></td><td><p><span><span>52</span></span></p></td><td><p><span><span>FORD RANGER</span></span></p></td><td><p><span><span>MZR8328</span></span></p></td><td><p><span><span>8AFER13P67J095865</span></span></p></td><td><p><span><span>VEÍCULO</span></span></p></td><td><p><span><span>2007</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 4.762,70</span></span></p></td></tr><tr><td><p><span><span>53</span></span></p></td><td><p><span><span>53</span></span></p></td><td><p><span><span>YAMAHA 125</span></span></p></td><td><p><span><span>MZV5769</span></span></p></td><td><p><span><span>9C6KL094860009667</span></span></p></td><td><p><span><span>MOTOCICLETA</span></span></p></td><td><p><span><span>2006</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 362,00</span></span></p></td></tr><tr><td><p><span><span>54</span></span></p></td><td><p><span><span>54</span></span></p></td><td><p><span><span>SUNDAWN HUNTER</span></span></p></td><td><p><span><span>MZW7539</span></span></p></td><td><p><span><span>94J2XFCD55M005897</span></span></p></td><td><p><span><span>MOTOCICLETA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 143,60</span></span></p></td></tr><tr><td><p><span><span>55</span></span></p></td><td><p><span><span>55</span></span></p></td><td><p><span><span>MITSUBISHI L200 OUTDOOR</span></span></p></td><td><p><span><span>MZU3045</span></span></p></td><td><p><span><span>93XPNK7409C958095</span></span></p></td><td><p><span><span>VEÍCULO</span></span></p></td><td><p><span><span>2009</span></span></p></td><td><p><span><span>CINZA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.163,20</span></span></p></td></tr><tr><td><p><span><span>56</span></span></p></td><td><p><span><span>56</span></span></p></td><td><p><span><span>FIATALLIS F6 140</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N4AF00009</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>2008</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 7.500,00</span></span></p></td></tr><tr><td><p><span><span>57</span></span></p></td><td><p><span><span>57</span></span></p></td><td><p><span><span>NEW HOLLAND RG 140</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N5AF00069</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.600,00</span></span></p></td></tr><tr><td><p><span><span>58</span></span></p></td><td><p><span><span>58</span></span></p></td><td><p><span><span>NEW HOLLAND RG 140</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N5AF00066</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 11.200,00</span></span></p></td></tr><tr><td><p><span><span>59</span></span></p></td><td><p><span><span>59</span></span></p></td><td><p><span><span>CATERPPILAR 120H</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>CAT0120HP5FM02666</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 8.800,00</span></span></p></td></tr><tr><td><p><span><span>60</span></span></p></td><td><p><span><span>60</span></span></p></td><td><p><span><span>CARTEPILLAR 120H</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>CAT0120HCFM02669</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 11.000,00</span></span></p></td></tr><tr><td><p><span><span>61</span></span></p></td><td><p><span><span>61</span></span></p></td><td><p><span><span>NEW HOLLAND RG140</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N9AE06195</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.600,00</span></span></p></td></tr><tr><td><p><span><span>62</span></span></p></td><td><p><span><span>62</span></span></p></td><td><p><span><span>KOMATSU PC200-6B</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>B10235</span></span></p></td><td><p><span><span>ESCAVADEIRA HIDRÁULICA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 15.594,00</span></span></p></td></tr><tr><td><p><span><span>63</span></span></p></td><td><p><span><span>63</span></span></p></td><td><p><span><span>FIATALLIS FG140</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N4AF00008</span></span></p></td><td><p><span><span>MOTINIVELADORA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 7.000,00</span></span></p></td></tr><tr><td><p><span><span>64</span></span></p></td><td><p><span><span>64</span></span></p></td><td><p><span><span>FORD 4030</span></span></p></td><td><p><span><span>MZW7277</span></span></p></td><td><p><span><span>9BFY2UGTX2BB14799</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 12.439,00</span></span></p></td></tr><tr><td><p><span><span>65</span></span></p></td><td><p><span><span>65</span></span></p></td><td><p><span><span>M BENZ 1935</span></span></p></td><td><p><span><span>MZP0414</span></span></p></td><td><p><span><span>35003312651354,00</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>1981</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 3.748,50</span></span></p></td></tr><tr><td><p><span><span>66</span></span></p></td><td><p><span><span>66</span></span></p></td><td><p><span><span>CATERPILLAR 120H</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>CAT0120HT5FM02665</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 19.800,00</span></span></p></td></tr><tr><td><p><span><span>67</span></span></p></td><td><p><span><span>67</span></span></p></td><td><p><span><span>NEW HOLLAND RG140</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N9AF06194</span></span></p></td><td><p><span><span>MOTONIVELADORA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 7.000,00</span></span></p></td></tr><tr><td><p><span><span>68</span></span></p></td><td><p><span><span>68</span></span></p></td><td><p><span><span>FIATALLIS 14CT</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>14CITBRC22750</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 10.800,00</span></span></p></td></tr><tr><td><p><span><span>69</span></span></p></td><td><p><span><span>69</span></span></p></td><td><p><span><span>FIATALLIS FD170</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>D1709TC02188</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 10.000,00</span></span></p></td></tr><tr><td><p><span><span>70</span></span></p></td><td><p><span><span>70</span></span></p></td><td><p><span><span>FIATALLIS FD9</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>DB9BT20977</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 10.800,00</span></span></p></td></tr><tr><td><p><span><span>71</span></span></p></td><td><p><span><span>71</span></span></p></td><td><p><span><span>FIATALLIS 14CT</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>14CITBRC22720</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 10.800,00</span></span></p></td></tr><tr><td><p><span><span>72</span></span></p></td><td><p><span><span>72</span></span></p></td><td><p><span><span>FIATALLIS D170</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>D1709TC02156</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 4.800,00</span></span></p></td></tr><tr><td><p><span><span>73</span></span></p></td><td><p><span><span>73</span></span></p></td><td><p><span><span>FIATALLIS 14CT</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>14CITBRC22721</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 3.600,00</span></span></p></td></tr><tr><td><p><span><span>74</span></span></p></td><td><p><span><span>74</span></span></p></td><td><p><span><span>NEW HOLLAND D130</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N8AC01125</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2009</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 9.300,00</span></span></p></td></tr><tr><td><p><span><span>75</span></span></p></td><td><p><span><span>75</span></span></p></td><td><p><span><span>KOMATSU</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.000,00</span></span></p></td></tr><tr><td><p><span><span>76</span></span></p></td><td><p><span><span>76</span></span></p></td><td><p><span><span>KOMATSU D41E-6</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>KMT0D017H51B65281</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 12.000,00</span></span></p></td></tr><tr><td><p><span><span>77</span></span></p></td><td><p><span><span>77</span></span></p></td><td><p><span><span>KOMATSU D41E-6</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>KMT0D017T51B35219</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 24.000,00</span></span></p></td></tr><tr><td><p><span><span>78</span></span></p></td><td><p><span><span>78</span></span></p></td><td><p><span><span>NEW HOLLAND D130</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N7AC01078</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2012</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.200,00</span></span></p></td></tr><tr><td><p><span><span>79</span></span></p></td><td><p><span><span>79</span></span></p></td><td><p><span><span>MASSEY FERGUSON 96</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>9620194530</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 1.950,00</span></span></p></td></tr><tr><td><p><span><span>80</span></span></p></td><td><p><span><span>80</span></span></p></td><td><p><span><span>FIATALLIS FD170</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZND170ACAC00143</span></span></p></td><td><p><span><span>TRATOR DE ESTEIRA</span></span></p></td><td><p><span><span>2012</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.000,00</span></span></p></td></tr><tr><td><p><span><span>81</span></span></p></td><td><p><span><span>81</span></span></p></td><td><p><span><span>MASSEY FERGUSON 96</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>9620197982</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 1.950,00</span></span></p></td></tr><tr><td><p><span><span>82</span></span></p></td><td><p><span><span>82</span></span></p></td><td><p><span><span>CMV</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>&nbsp;</span></span></p></td><td><p><span><span>VASSOURA MECÂNICA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 500,00</span></span></p></td></tr><tr><td><p><span><span>83</span></span></p></td><td><p><span><span>83</span></span></p></td><td><p><span><span>CASE 410</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N8M494291</span></span></p></td><td><p><span><span>MINI PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2009</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 17.850,00</span></span></p></td></tr><tr><td><p><span><span>84</span></span></p></td><td><p><span><span>84</span></span></p></td><td><p><span><span>INDEF</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>&nbsp;</span></span></p></td><td><p><span><span>VASSOURA MECÂNICA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 400,00</span></span></p></td></tr><tr><td><p><span><span>85</span></span></p></td><td><p><span><span>85</span></span></p></td><td><p><span><span>CASE W20E</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZ0001021</span></span></p></td><td><p><span><span>PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 13.500,00</span></span></p></td></tr><tr><td><p><span><span>86</span></span></p></td><td><p><span><span>86</span></span></p></td><td><p><span><span>NEW HOLLAND LB90</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N9AH21313</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2009</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 3.600,00</span></span></p></td></tr><tr><td><p><span><span>87</span></span></p></td><td><p><span><span>87</span></span></p></td><td><p><span><span>NEW HOLLAND W130</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>N5AE11040</span></span></p></td><td><p><span><span>PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 7.400,00</span></span></p></td></tr><tr><td><p><span><span>88</span></span></p></td><td><p><span><span>88</span></span></p></td><td><p><span><span>CASA W20E</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZ0001019</span></span></p></td><td><p><span><span>PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 4.050,00</span></span></p></td></tr><tr><td><p><span><span>89</span></span></p></td><td><p><span><span>89</span></span></p></td><td><p><span><span>CASE W20E</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZ0001026</span></span></p></td><td><p><span><span>PÁ CARREGADEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.550,00</span></span></p></td></tr><tr><td><p><span><span>90</span></span></p></td><td><p><span><span>90</span></span></p></td><td><p><span><span>CASE 580L</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZ0006060</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 6.500,00</span></span></p></td></tr><tr><td><p><span><span>91</span></span></p></td><td><p><span><span>91</span></span></p></td><td><p><span><span>CASE 580L</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>HBZ0006047</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 3.900,00</span></span></p></td></tr><tr><td><p><span><span>92</span></span></p></td><td><p><span><span>92</span></span></p></td><td><p><span><span>MASSEY FERGUSON&nbsp;</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>9620204421</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 1.950,00</span></span></p></td></tr><tr><td><p><span><span>93</span></span></p></td><td><p><span><span>93</span></span></p></td><td><p><span><span>MASSEY FERGUSON&nbsp;</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>96024163</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2001</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 1.560,00</span></span></p></td></tr><tr><td><p><span><span>94</span></span></p></td><td><p><span><span>94</span></span></p></td><td><p><span><span>FIATALLIS&nbsp;</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>4AH10025</span></span></p></td><td><p><span><span>RETROESCAVADEIRA</span></span></p></td><td><p><span><span>2004</span></span></p></td><td><p><span><span>LARANJA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 4.000,00</span></span></p></td></tr><tr><td><p><span><span>95</span></span></p></td><td><p><span><span>95</span></span></p></td><td><p><span><span>DYNAPAC *CA15</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>678B487</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.285,00</span></span></p></td></tr><tr><td><p><span><span>96</span></span></p></td><td><p><span><span>96</span></span></p></td><td><p><span><span>MULLER *VAP-70</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>517050667</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>2005</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 10.500,00</span></span></p></td></tr><tr><td><p><span><span>97</span></span></p></td><td><p><span><span>97</span></span></p></td><td><p><span><span>DYNAPAC *CA15</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>678B638</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 9.450,00</span></span></p></td></tr><tr><td><p><span><span>98</span></span></p></td><td><p><span><span>98</span></span></p></td><td><p><span><span>DYNAPAC *CA15</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>678B639</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 9.450,00</span></span></p></td></tr><tr><td><p><span><span>99</span></span></p></td><td><p><span><span>99</span></span></p></td><td><p><span><span>DYNAPAC *CA15</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>678B490</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.285,00</span></span></p></td></tr><tr><td><p><span><span>100</span></span></p></td><td><p><span><span>100</span></span></p></td><td><p><span><span>TEMA TERRA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>3521830502</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 5.285,00</span></span></p></td></tr><tr><td><p><span><span>101</span></span></p></td><td><p><span><span>101</span></span></p></td><td><p><span><span>MULLER *VAP-55</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>517079254</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 4.950,00</span></span></p></td></tr><tr><td><p><span><span>102</span></span></p></td><td><p><span><span>102</span></span></p></td><td><p><span><span>MULLER *VAP-55</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>517079250</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>1997</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 8.250,00</span></span></p></td></tr><tr><td><p><span><span>103</span></span></p></td><td><p><span><span>103</span></span></p></td><td><p><span><span>MULLER *VAP-55</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>3521830502</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>1984</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 2.250,00</span></span></p></td></tr><tr><td><p><span><span>104</span></span></p></td><td><p><span><span>104</span></span></p></td><td><p><span><span>MULLER *RT82H</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>1100201443</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 960,00</span></span></p></td></tr><tr><td><p><span><span>105</span></span></p></td><td><p><span><span>105</span></span></p></td><td><p><span><span>MULLER *RT82H</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>1100201442</span></span></p></td><td><p><span><span>ROLO COMPACTADOR</span></span></p></td><td><p><span><span>2002</span></span></p></td><td><p><span><span>AMARELA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 4.800,00</span></span></p></td></tr><tr><td><p><span><span>106</span></span></p></td><td><p><span><span>106</span></span></p></td><td><p><span><span>M BENZ L 1318</span></span></p></td><td><p><span><span>MZS5963</span></span></p></td><td><p><span><span>9BM6940009B651320</span></span></p></td><td><p><span><span>CAMINHÃO&nbsp;</span></span></p></td><td><p><span><span>2009</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>0,00</span></span></p></td><td><p><span><span>AC</span></span></p></td><td><p><span><span>R$ 11.738,70</span></span></p></td></tr></tbody></table>
+**ITEM**
+
+**LOTE**
+
+**MARCA**
+
+**PLACA**
+
+**CHASSI**
+
+**MODELO**
+
+**ANO**
+
+**COR**
+
+**DÉBITOS/MULTAS**
+
+**UF**
+
+**VALOR DA AVALIAÇÃO FINAL**
+
+1
+
+1
+
+CASE W20E
+
+-
+
+HBZ0001024
+
+PÁ CARREGADEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 13.500,00
+
+2
+
+2
+
+CARTERPILLAR
+
+-
+
+CAT0120445FM02662
+
+MOTONIVELADORA
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 19.800,00
+
+3
+
+3
+
+WA 180
+
+-
+
+KMTWA002C510B2124
+
+PÁ CARREGADEIRA
+
+2004
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 17.000,00
+
+4
+
+4
+
+MF 299
+
+-
+
+2994198449
+
+TRATOR AGRÍCOLA
+
+2005/2005
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 11.000,00
+
+5
+
+5
+
+CASE W20 E
+
+-
+
+HBZ0001023
+
+PÁ CARREGADEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 6.750,00
+
+6
+
+6
+
+CARTERPILLAR 120H
+
+-
+
+CAT0120HC5FM02638
+
+MOTONIVELADORA
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 15.400,00
+
+7
+
+7
+
+FORD CARGO 1621
+
+MZZ1137
+
+9BFYTHZT72BB14996
+
+CAMINHÃO
+
+2002
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 10.233,15
+
+8
+
+8
+
+MERCERDEZ BENZ 1113
+
+MZZ7131
+
+34403312572195,00
+
+CAMINHÃO
+
+1981
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 2.059,65
+
+9
+
+9
+
+NEW HOLLAND NH FX215
+
+-
+
+N5AAD0112
+
+ESCAVADEIRA HIDRÁULICA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 15.000,00
+
+10
+
+10
+
+NEW HOLLAND E215B
+
+-
+
+HBZN215BPBAA00431
+
+ESCAVADEIRA HIDRÁULICA
+
+2011
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 33.000,00
+
+11
+
+11
+
+NEW HOLLAND E215B
+
+-
+
+HBZN215BLBAA00402
+
+ESCAVADEIRA HIDRÁULICA
+
+2011
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 15.000,00
+
+12
+
+12
+
+NEW HOLLAND E215B
+
+-
+
+HBZN215BPBAA00414
+
+ESCAVADEIRA HIDRÁULICA
+
+2011
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 24.000,00
+
+13
+
+13
+
+FIATALLIS FD 170
+
+-
+
+D1709TC02187
+
+TRATOR DE ESTEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 18.000,00
+
+14
+
+14
+
+FIATALLIS 14 CT
+
+-
+
+14CTITBRC-22676
+
+TRATOR DE ESTEIRA
+
+1997
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 8.400,00
+
+15
+
+15
+
+MULLER VAP 55
+
+-
+
+517079253
+
+ROLO COMPACTADOR
+
+1997
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 8.250,00
+
+16
+
+16
+
+SPB000
+
+-
+
+-
+
+ROLO COMPACTADOR TEMA TERRA
+
+2000
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 26.250,00
+
+17
+
+17
+
+MULLER SPV84
+
+-
+
+492 BL
+
+ROLO COMPACTADOR
+
+2000
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 12.000,00
+
+18
+
+18
+
+CASE W20E
+
+-
+
+JHF0020720
+
+PÁ CARREGADEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 6.000,00
+
+19
+
+19
+
+NEW HOLLAND D130
+
+-
+
+N8AC01128
+
+TRATOR DE ESTEIRA
+
+2009
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 15.500,00
+
+20
+
+20
+
+CIFALI VDA621
+
+-
+
+VDA60011
+
+VIBRO ACABADORA
+
+2000
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 17.500,00
+
+21
+
+21
+
+NEW HOLLAND D130
+
+-
+
+N7AC01077
+
+TRATOR DE ESTEIRA
+
+-
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 31.000,00
+
+22
+
+22
+
+KOMATSU
+
+-
+
+KMT0D017E51B35220
+
+TRATOR DE ESTEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 30.000,00
+
+23
+
+23
+
+D41E6-KOMATSU
+
+-
+
+KMT0D017T51B35222
+
+TRATOR DE ESTEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 30.000,00
+
+24
+
+24
+
+D41E6-KOMATSU
+
+-
+
+KMT0D017C51B35283
+
+TRATOR DE ESTEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 30.000,00
+
+25
+
+25
+
+D41E6-KOMATSU
+
+-
+
+KMT0D017C51B35221
+
+TRATOR DE ESTEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 30.000,00
+
+26
+
+26
+
+D41E6-KOMATSU
+
+-
+
+KMT0D017C51B35279
+
+TRATOR DE ESTEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 30.000,00
+
+27
+
+27
+
+FIATALLIS FB804
+
+-
+
+N4AH10024
+
+RETROESCAVADEIRA
+
+2004
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 4.000,00
+
+28
+
+28
+
+NEW HOLLAND LB110
+
+-
+
+N8AH11011
+
+RETROESCAVADEIRA
+
+2008
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 7.200,00
+
+29
+
+29
+
+NEW HOLLAND D130
+
+-
+
+N8AC01129
+
+TRATOR DE ESTEIRA
+
+2009
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 9.300,00
+
+30
+
+30
+
+FIATALLIS FD170
+
+-
+
+D1709TC02157
+
+TRATOR DE ESTEIRA
+
+-
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 6.000,00
+
+31
+
+31
+
+FIATALLIS FD9
+
+-
+
+D9B9T20975
+
+TRATOR DE ESTEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 8.100,00
+
+32
+
+32
+
+FIATALLIS FD9
+
+-
+
+D9B9T20976
+
+TRATOR DE ESTEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 8.100,00
+
+33
+
+33
+
+CIFALI VDA411
+
+-
+
+VDA400212
+
+VIBRO ACABADORA
+
+2002
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 7.500,00
+
+34
+
+34
+
+TICEL VA4P
+
+-
+
+VA4P080625
+
+VIBRO ACABADORA
+
+-
+
+CINZA
+
+0,00
+
+AC
+
+R$ 7.500,00
+
+35
+
+35
+
+CATERPILLAR 120H
+
+-
+
+CAT0120HE5FM02663
+
+MOTONIVELADORA
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 15.400,00
+
+36
+
+36
+
+MERCEDEZ BENZ ATEGO
+
+NAB8829
+
+9BM9580748B619587
+
+CAMINHÃO
+
+2008
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 6.366,64
+
+37
+
+37
+
+MERCEDEZ BENZ L1318
+
+MZS9413
+
+9BM6940009B651541
+
+CAMINHÃO
+
+2009
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 5.869,35
+
+38
+
+38
+
+FORD F1400
+
+AC0283
+
+9BFXTNSM5NDB01787
+
+CAMINHÃO
+
+-
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 3.255,40
+
+39
+
+39
+
+VOLKSWAGEN 16.170BT
+
+MZS6530
+
+9BWYTAGF4VRB01130
+
+CAMINHÃO
+
+1997
+
+BRANCA
+
+0,00
+
+AC
+
+R$ 5.463,30
+
+40
+
+40
+
+FORD F12000
+
+MZT7149
+
+9BFWTNRM1PDB17408
+
+CAMINHÃO
+
+1993
+
+BRANCA
+
+0,00
+
+AC
+
+R$ 3.255,40
+
+41
+
+41
+
+FORD CARGO 1621
+
+MZZ0345
+
+9BFYTHZF22BB14999
+
+CAMINHÃO
+
+2011
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 6.822,10
+
+42
+
+42
+
+M BENZ ATEGO 1718/48
+
+MZY5717
+
+9BM9580745B429106
+
+CAMINHÃO
+
+2005
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 8.057,00
+
+43
+
+43
+
+FORD F4000
+
+MZV6776
+
+9BFLF47G45B016323
+
+CAMINHÃO
+
+2005
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 6.428,50
+
+44
+
+44
+
+FORD CARGO 1721
+
+MZW7286
+
+9BFTHZF32BB15384
+
+CAMINHÃO
+
+2002
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 6.996,30
+
+45
+
+45
+
+FORD F4000
+
+MZV5996
+
+9BFLF47G15B016439
+
+CAMINHÃO
+
+2005
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 6.438,50
+
+46
+
+46
+
+M BENZ 715C
+
+MZW8629
+
+9BM9790165B441962
+
+CAMINHÃO
+
+2005
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 8.825,40
+
+47
+
+47
+
+FORD 1621
+
+MZZ3137
+
+9BFYTHZF12BB14816
+
+CAMINHÃO
+
+2002
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 6.822,21
+
+48
+
+48
+
+FIAT UNO MILLER FIRE FLEX
+
+MZW6467
+
+9BD15822764855424
+
+VEÍCULO
+
+2006
+
+BRANCA
+
+0,00
+
+AC
+
+R$ 1.340,30
+
+49
+
+49
+
+VW GOL
+
+MZS7844
+
+9BWAA05W79P000621
+
+VEÍCULO
+
+2008
+
+BRANCA
+
+0,00
+
+AC
+
+R$ 2.253,40
+
+50
+
+50
+
+FIAT UNO MILLER
+
+NAB5310
+
+9BD15844A96210576
+
+VEÍCULO
+
+2008/2009
+
+BRANCA
+
+0,00
+
+AC
+
+R$ 1.772,00
+
+51
+
+51
+
+VW VOYAGE
+
+MZW7513
+
+9BWDA05U0BT255118
+
+VEÍCULO
+
+-
+
+BRANCA
+
+0,00
+
+AC
+
+R$ 2.688,10
+
+52
+
+52
+
+FORD RANGER
+
+MZR8328
+
+8AFER13P67J095865
+
+VEÍCULO
+
+2007
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 4.762,70
+
+53
+
+53
+
+YAMAHA 125
+
+MZV5769
+
+9C6KL094860009667
+
+MOTOCICLETA
+
+2006
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 362,00
+
+54
+
+54
+
+SUNDAWN HUNTER
+
+MZW7539
+
+94J2XFCD55M005897
+
+MOTOCICLETA
+
+2005
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 143,60
+
+55
+
+55
+
+MITSUBISHI L200 OUTDOOR
+
+MZU3045
+
+93XPNK7409C958095
+
+VEÍCULO
+
+2009
+
+CINZA
+
+0,00
+
+AC
+
+R$ 5.163,20
+
+56
+
+56
+
+FIATALLIS F6 140
+
+-
+
+N4AF00009
+
+MOTONIVELADORA
+
+2008
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 7.500,00
+
+57
+
+57
+
+NEW HOLLAND RG 140
+
+-
+
+N5AF00069
+
+MOTONIVELADORA
+
+-
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 5.600,00
+
+58
+
+58
+
+NEW HOLLAND RG 140
+
+-
+
+N5AF00066
+
+MOTONIVELADORA
+
+-
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 11.200,00
+
+59
+
+59
+
+CATERPPILAR 120H
+
+-
+
+CAT0120HP5FM02666
+
+MOTONIVELADORA
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 8.800,00
+
+60
+
+60
+
+CARTEPILLAR 120H
+
+-
+
+CAT0120HCFM02669
+
+MOTONIVELADORA
+
+-
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 11.000,00
+
+61
+
+61
+
+NEW HOLLAND RG140
+
+-
+
+N9AE06195
+
+MOTONIVELADORA
+
+-
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 5.600,00
+
+62
+
+62
+
+KOMATSU PC200-6B
+
+-
+
+B10235
+
+ESCAVADEIRA HIDRÁULICA
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 15.594,00
+
+63
+
+63
+
+FIATALLIS FG140
+
+-
+
+N4AF00008
+
+MOTINIVELADORA
+
+2005
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 7.000,00
+
+64
+
+64
+
+FORD 4030
+
+MZW7277
+
+9BFY2UGTX2BB14799
+
+CAMINHÃO
+
+2002
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 12.439,00
+
+65
+
+65
+
+M BENZ 1935
+
+MZP0414
+
+35003312651354,00
+
+CAMINHÃO
+
+1981
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 3.748,50
+
+66
+
+66
+
+CATERPILLAR 120H
+
+-
+
+CAT0120HT5FM02665
+
+MOTONIVELADORA
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 19.800,00
+
+67
+
+67
+
+NEW HOLLAND RG140
+
+-
+
+N9AF06194
+
+MOTONIVELADORA
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 7.000,00
+
+68
+
+68
+
+FIATALLIS 14CT
+
+-
+
+14CITBRC22750
+
+TRATOR DE ESTEIRA
+
+1997
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 10.800,00
+
+69
+
+69
+
+FIATALLIS FD170
+
+-
+
+D1709TC02188
+
+TRATOR DE ESTEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 10.000,00
+
+70
+
+70
+
+FIATALLIS FD9
+
+-
+
+DB9BT20977
+
+TRATOR DE ESTEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 10.800,00
+
+71
+
+71
+
+FIATALLIS 14CT
+
+-
+
+14CITBRC22720
+
+TRATOR DE ESTEIRA
+
+1997
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 10.800,00
+
+72
+
+72
+
+FIATALLIS D170
+
+-
+
+D1709TC02156
+
+TRATOR DE ESTEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 4.800,00
+
+73
+
+73
+
+FIATALLIS 14CT
+
+-
+
+14CITBRC22721
+
+TRATOR DE ESTEIRA
+
+1997
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 3.600,00
+
+74
+
+74
+
+NEW HOLLAND D130
+
+-
+
+N8AC01125
+
+TRATOR DE ESTEIRA
+
+2009
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 9.300,00
+
+75
+
+75
+
+KOMATSU
+
+-
+
+-
+
+TRATOR DE ESTEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 6.000,00
+
+76
+
+76
+
+KOMATSU D41E-6
+
+-
+
+KMT0D017H51B65281
+
+TRATOR DE ESTEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 12.000,00
+
+77
+
+77
+
+KOMATSU D41E-6
+
+-
+
+KMT0D017T51B35219
+
+TRATOR DE ESTEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 24.000,00
+
+78
+
+78
+
+NEW HOLLAND D130
+
+-
+
+N7AC01078
+
+TRATOR DE ESTEIRA
+
+2012
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 6.200,00
+
+79
+
+79
+
+MASSEY FERGUSON 96
+
+-
+
+9620194530
+
+RETROESCAVADEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 1.950,00
+
+80
+
+80
+
+FIATALLIS FD170
+
+-
+
+HBZND170ACAC00143
+
+TRATOR DE ESTEIRA
+
+2012
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 5.000,00
+
+81
+
+81
+
+MASSEY FERGUSON 96
+
+-
+
+9620197982
+
+RETROESCAVADEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 1.950,00
+
+82
+
+82
+
+CMV
+
+-
+
+VASSOURA MECÂNICA
+
+-
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 500,00
+
+83
+
+83
+
+CASE 410
+
+-
+
+N8M494291
+
+MINI PÁ CARREGADEIRA
+
+2009
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 17.850,00
+
+84
+
+84
+
+INDEF
+
+-
+
+VASSOURA MECÂNICA
+
+-
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 400,00
+
+85
+
+85
+
+CASE W20E
+
+-
+
+HBZ0001021
+
+PÁ CARREGADEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 13.500,00
+
+86
+
+86
+
+NEW HOLLAND LB90
+
+-
+
+N9AH21313
+
+RETROESCAVADEIRA
+
+2009
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 3.600,00
+
+87
+
+87
+
+NEW HOLLAND W130
+
+-
+
+N5AE11040
+
+PÁ CARREGADEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 7.400,00
+
+88
+
+88
+
+CASA W20E
+
+-
+
+HBZ0001019
+
+PÁ CARREGADEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 4.050,00
+
+89
+
+89
+
+CASE W20E
+
+-
+
+HBZ0001026
+
+PÁ CARREGADEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 5.550,00
+
+90
+
+90
+
+CASE 580L
+
+-
+
+HBZ0006060
+
+RETROESCAVADEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 6.500,00
+
+91
+
+91
+
+CASE 580L
+
+-
+
+HBZ0006047
+
+RETROESCAVADEIRA
+
+2002
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 3.900,00
+
+92
+
+92
+
+MASSEY FERGUSON
+
+-
+
+9620204421
+
+RETROESCAVADEIRA
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 1.950,00
+
+93
+
+93
+
+MASSEY FERGUSON
+
+-
+
+96024163
+
+RETROESCAVADEIRA
+
+2001
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 1.560,00
+
+94
+
+94
+
+FIATALLIS
+
+-
+
+4AH10025
+
+RETROESCAVADEIRA
+
+2004
+
+LARANJA
+
+0,00
+
+AC
+
+R$ 4.000,00
+
+95
+
+95
+
+DYNAPAC *CA15
+
+-
+
+678B487
+
+ROLO COMPACTADOR
+
+1997
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 5.285,00
+
+96
+
+96
+
+MULLER *VAP-70
+
+-
+
+517050667
+
+ROLO COMPACTADOR
+
+2005
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 10.500,00
+
+97
+
+97
+
+DYNAPAC *CA15
+
+-
+
+678B638
+
+ROLO COMPACTADOR
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 9.450,00
+
+98
+
+98
+
+DYNAPAC *CA15
+
+-
+
+678B639
+
+ROLO COMPACTADOR
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 9.450,00
+
+99
+
+99
+
+DYNAPAC *CA15
+
+-
+
+678B490
+
+ROLO COMPACTADOR
+
+1997
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 5.285,00
+
+100
+
+100
+
+TEMA TERRA
+
+-
+
+3521830502
+
+ROLO COMPACTADOR
+
+-
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 5.285,00
+
+101
+
+101
+
+MULLER *VAP-55
+
+-
+
+517079254
+
+ROLO COMPACTADOR
+
+1997
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 4.950,00
+
+102
+
+102
+
+MULLER *VAP-55
+
+-
+
+517079250
+
+ROLO COMPACTADOR
+
+1997
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 8.250,00
+
+103
+
+103
+
+MULLER *VAP-55
+
+-
+
+3521830502
+
+ROLO COMPACTADOR
+
+1984
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 2.250,00
+
+104
+
+104
+
+MULLER *RT82H
+
+-
+
+1100201443
+
+ROLO COMPACTADOR
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 960,00
+
+105
+
+105
+
+MULLER *RT82H
+
+-
+
+1100201442
+
+ROLO COMPACTADOR
+
+2002
+
+AMARELA
+
+0,00
+
+AC
+
+R$ 4.800,00
+
+106
+
+106
+
+M BENZ L 1318
+
+MZS5963
+
+9BM6940009B651320
+
+CAMINHÃO
+
+2009
+
+VERMELHA
+
+0,00
+
+AC
+
+R$ 11.738,70

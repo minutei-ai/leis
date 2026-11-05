@@ -1,5 +1,3 @@
-###DEC-007648-0-000-21-12-2011-PUB-01@@@
-
 DECRETO N°\- 7.648, DE 21 DE DEZEMBRO DE 2011
 
 Concede indulto natalino e comutação de penas, e dá outras providências.

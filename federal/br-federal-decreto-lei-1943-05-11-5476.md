@@ -1,5 +1,3 @@
-###DEL-005476-0-000-11-05-1943@@@
-
 DECRETO‑LEI N. 5.476 – DE 11 DE MAIO DE 1943
 
 Aprova o acordo firmado entre a Comissão de Controle dos Acordos de Washington e o Governo do Estado de Mato Grosso, o Banco de Crédito da Borracha S.A. e a Rubber Development Corporation

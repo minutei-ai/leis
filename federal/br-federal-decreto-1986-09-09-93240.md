@@ -1,5 +1,3 @@
-###DEC-093240-0-000-09-09-1986@@@
-
 DECRETO Nº 93.240, DE 09 DE SETEMBRO DE 1986
 
 Regulamenta a Lei nº 7.433, de 18 de dezembro de 1985, que ''dispõe sobre os requisitos para a lavratura de escrituras públicas, e dá outras providências''.

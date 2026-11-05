@@ -1,7 +1,3 @@
-1
-
-###DEC-097938-0-000-10-07-1989@@@
-
 DECRETO N° 97.938, DE 10 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Administração das Faculdades Integradas de Barra do Garças.

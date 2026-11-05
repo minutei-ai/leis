@@ -1,7 +1,3 @@
-1
-
-###DEC-001582-0-000-03-08-1995@@@
-
 DECRETO Nº 1.582, DE 3 DE AGOSTO DE 1995.
 
 Acresce dispositivos ao Decreto nº 1.361, de 1º de janeiro de 1995, que dispõe sobre a vinculação das entidades  integrantes da Administração Pública Federal indireta aos órgãos da Presidência da República e aos Ministérios.

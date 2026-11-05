@@ -1,5 +1,3 @@
-###DEL-001365-0-000-29-11-1974@@@
-
 # DECRETO-LEI Nº 1.365, DE 29 DE NOVEMBRO DE 1974
 
 Reajusta os vencimentos e salários dos servidores da Secretaria-Geral do Tribunal de Contas da União e dá outras providências.

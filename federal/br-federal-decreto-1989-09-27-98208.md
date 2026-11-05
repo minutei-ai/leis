@@ -1,7 +1,3 @@
-1
-
-###DEC-098208-0-000-27-09-1989@@@
-
 DECRETO Nº 98.208, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “SERINGAIS SANTO ANTÔNIO” e MOURÃO”, situados no Município de Eirunepé, Estado do Amazonas, e dá outras providências.

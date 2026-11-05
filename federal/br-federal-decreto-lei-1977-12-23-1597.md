@@ -1,5 +1,3 @@
-###DEL-001597-0-000-23-12-1977@@@
-
 # Decreto-lei nº 1.597, de 23 de dezembro de 1977.
 
 Altera a legislação relativa ao Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, e dá outras providências.

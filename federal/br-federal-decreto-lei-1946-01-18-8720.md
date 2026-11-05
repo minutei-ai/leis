@@ -1,5 +1,3 @@
-###DEL-008720-0-000-18-01-1946@@@
-
 DECRETO-LEI  N. 8.720 – DE 18 DE JANEIRO DE 1946
 
 Estabelece sanção contra a execução indevida de obras licenciadas pelas Municipalidades.

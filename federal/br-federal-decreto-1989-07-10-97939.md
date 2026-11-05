@@ -1,7 +1,3 @@
-1
-
-###DEC-097939-0-000-10-07-1989@@@
-
 DECRETO N° 97.939, DE 10 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados, das Faculdades Integradas Simonsen, no Rio de Janeiro.

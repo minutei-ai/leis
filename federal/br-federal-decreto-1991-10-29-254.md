@@ -1,7 +1,3 @@
-1
-
-###DEC-000254-0-000-29-10-1991@@@
-
 # DECRETO N° 254, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da área indígena Mamoadate, no Estado do Acre.

@@ -1,5 +1,3 @@
-###DEC-076158-0-000-26-08-1975@@@
-
 Decreto Nº 76.158 - DE 26 DE AGOSTO DE 1975
 
 Concede reconhecimento ao curso de Química Industrial da Pontifícia Universidade Católica do Rio de Janeiro.

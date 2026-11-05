@@ -1,5 +1,3 @@
-###DEL-007420-0-000-26-03-1945@@@
-
 DECRETO-LEI N. 7.420 – DE 26 DE MARÇO DE 1945
 
 Dispõe sôbre a carreira de Arquivista do Ministério da Fazenda e dá outras providências.

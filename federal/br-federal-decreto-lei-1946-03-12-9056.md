@@ -1,5 +1,3 @@
-###DEL-009056-0-000-12-03-1946@@@
-
 DECRETO-LEI N. 9.056 – DE 12 DE MARÇO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 8.864,00, para o fim que especifica.

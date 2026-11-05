@@ -1,5 +1,3 @@
-###MPV-001679-0-017-25-09-1998@@@
-
 MEDIDA PROVISÓRiA Nº 1.679-17, DE 25 de SEteMBRO de 1998
 
 Dispõe sobre normas e condições gerais de proteção ao trabalho portuário, institui multas pela inobservância de seus preceitos, e dá outras providências.

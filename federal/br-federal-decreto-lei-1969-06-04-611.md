@@ -1,5 +1,3 @@
-###DEL-000611-0-000-04-06-1969@@@
-
 DECRETO-LEI Nº 611, DE 4 DE JUNHO DE 1969
 
 Cria o Quadro de Práticos dos Rios da Prata, Baixo e Médio Paraná, e Paraguai, e dá outras providências.

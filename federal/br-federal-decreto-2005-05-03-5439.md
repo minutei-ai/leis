@@ -1,5 +1,3 @@
-###DEC-005439-0-000-03-05-2005@@@
-
 DECRETO Nº 5.439, DE 3 DE MAIO DE 2005
 
 Dá nova redação aos arts. 2º e 4º do Decreto nº 3.945, de 28 de setembro de 2001.

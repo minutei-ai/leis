@@ -1,5 +1,3 @@
-###DEC-051843-0-000-15-03-1963@@@
-
 Decreto nº 51.843, de 15 de março de 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, para uso da Diretoria do Patrimônio Histórico e Artístico Nacional.

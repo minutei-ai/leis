@@ -1,5 +1,3 @@
-###DEC-048472-0-000-07-07-1960@@@
-
 DECRETO Nº 48.472, DE 7 de julho DE 1960.
 
 Altera a redação do § 3º do artigo 1º do Decreto nº 47.933, de 15 de março de 1960, que institui normas especiais de trabalho para construção de trechos rodoviários integrantes da ligação rodoviária Brasília - Acre.

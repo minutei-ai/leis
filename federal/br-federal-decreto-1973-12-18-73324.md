@@ -1,5 +1,3 @@
-###DEC-073324-0-000-18-12-1973@@@
-
 DECRETO Nº 73.324 - DE 18 de DEZEMBRO DE 1973
 
 Concede à Empresa de Mineração Wissmann Ltda. o direito de lavrar argila, no Município de Itu, Estado de São Paulo.

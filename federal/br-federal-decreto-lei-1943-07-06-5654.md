@@ -1,5 +1,3 @@
-###DEL-005654-0-000-06-07-1943@@@
-
 DECRETO‑LEI N.  5.654 – DE 6 DE JULHO DE 1943
 
 Abre ao Ministério de Fazenda o crédito suplementar de Cr$ 50.000,00, à verba que especifica

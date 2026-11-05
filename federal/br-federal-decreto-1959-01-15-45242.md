@@ -1,5 +1,3 @@
-###DEC-045242-0-000-15-01-1959@@@
-
 DECRETO Nº 45.242, DE 15 DE JANEIRO DE 1959.
 
 Anula o Decreto nº 38.973, de 4 de abril de 1956.

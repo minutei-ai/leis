@@ -1,5 +1,3 @@
-###DEC-050311-0-000-03-03-1961@@@
-
 DECRETO Nº 50.311, DE 3 DE MARÇO DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento nacional de Portos, Rios e Canais, área de terreno necessária a construção do parque de triagem das linhas da estrada de ferro do Pôrto de Mucuripe, no Estado do Ceará.

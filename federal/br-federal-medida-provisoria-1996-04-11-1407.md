@@ -1,7 +1,3 @@
-1
-
-###MPV-001407-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.407, DE 11 DE ABRIL DE 1996.
 
 Dispõe sobre as contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP, e dá outras providências.

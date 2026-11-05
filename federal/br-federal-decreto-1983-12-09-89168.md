@@ -1,5 +1,3 @@
-###DEC-089168-0-000-09-12-1983@@@
-
 DECRETO Nº 89.168, DE 09 DE DEZEMBRO DE 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO MUNICIPAL S/A, para explorar serviço de radiodifusão sonora em onda média, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

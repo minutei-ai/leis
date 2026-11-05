@@ -1,5 +1,3 @@
-###DEC-007824-0-000-11-10-2012-PUB-01@@@
-
 DECRETO Nº 7.824, DE 11 DE OUTUBRO DE 2012
 
 Regulamenta a Lei nº 12.711, de 29 de agosto de 2012, que dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio.

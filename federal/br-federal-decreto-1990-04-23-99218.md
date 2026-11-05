@@ -1,7 +1,3 @@
-1
-
-###DEC-099218-0-000-23-04-1990@@@
-
 DECRETO Nº 99.218, DE 23 DE ABRIL DE 1990
 
 Aprova o Estatuto da Fundação Legião Brasileira de Assistência LBA, e dá ou­tras providências.

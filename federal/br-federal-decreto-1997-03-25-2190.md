@@ -1,5 +1,3 @@
-###DEC-002190-0-000-25-03-1997@@@
-
 DECRETO Nº 2.190 DE 25 DE MARÇO DE 1997
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 25, entre Brasil e Peru, de 26 de dezembro de 1996.

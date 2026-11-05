@@ -80,12 +80,14 @@ V - capitalização dos juros no período de carência.
 
 § 2º - A amortização do financiamento a que se refere o inciso III deste artigo poderá ser efetuada por compensação ou cessão de créditos que a empresa beneficiada tiver com o Estado.
 
-Redação do § 2º do art. 6º de acordo com o [art. 1º da Lei nº 2004, de 03 de fevereiro de 2004](https://www.legislabahia.ba.gov.br/documentos/lei-no-9004-de-03-de-fevereiro-de-2004#LO_9_004_Art__1) .<br>
+Redação do § 2º do art. 6º de acordo com o [art. 1º da Lei nº 2004, de 03 de fevereiro de 2004](https://www.legislabahia.ba.gov.br/documentos/lei-no-9004-de-03-de-fevereiro-de-2004#LO_9_004_Art__1) .
+
 Redação original: "§ 2º - A amortização do financiamento a que se refere o inciso III deste artigo poderá ser efetuada por compensação ou cessão de créditos que a empresa beneficiada tiver com o Estado, exceto os de natureza tributária."
 
 Art. 7º - Fica autorizado o Poder Executivo a celebrar, com as empresas que se habilitarem ao PROAUTO, contrato para a implantação de complexo industrial automotivo e para a concessão dos financiamentos de que trata o artigo anterior. (NR)
 
-Redação do art. 7º de acordo com o [art. 3º da Lei nº 7.753, de 13 de dezembro de 2000](https://www.legislabahia.ba.gov.br/documentos/lei-no-7753-de-13-de-dezembro-de-2000#LO_7_753_Art__3) .<br>
+Redação do art. 7º de acordo com o [art. 3º da Lei nº 7.753, de 13 de dezembro de 2000](https://www.legislabahia.ba.gov.br/documentos/lei-no-7753-de-13-de-dezembro-de-2000#LO_7_753_Art__3) .
+
 Redação original: "Art. 7º - Fica autorizado o Poder Executivo a celebrar, com as empresas que se habilitarem ao PROAUTO, contrato para a implantação de complexo industrial automotivo e para a concessão dos financiamentos de que trata o artigo anterior, participando como interveniente o Banco de Desenvolvimento do Estado da Bahia S. A. - DESENBANCO."
 
 Parágrafo único - O Banco de Desenvolvimento do Estado da Bahia S. A. - DESENBANCO agirá como agente financeiro e mandatário do Estado da Bahia para contratar operações de financiamento com as empresas que se habilitarem ao PROAUTO e para efetuar a cobrança dos créditos concedidos, devendo, para tanto, recorrer às medidas administrativas e judiciais necessárias."
@@ -138,7 +140,8 @@ IV - bens destinados ao ativo fixo, inclusive veículos automotores novos, das e
 
 § 2º - O disposto nos incisos II e III do § 1º deste artigo aplica-se apenas às empresas beneficiárias principais do PROAUTO e às empresas controladoras destas.
 
-Redação de acordo com a Lei nº [12.917](https://www.legislabahia.ba.gov.br/documentos/lei-no-12917-de-31-de-outubro-de-2013#LO%2012.917) , de 31 de outubro de 2013.<br>
+Redação de acordo com a Lei nº [12.917](https://www.legislabahia.ba.gov.br/documentos/lei-no-12917-de-31-de-outubro-de-2013#LO%2012.917) , de 31 de outubro de 2013.
+
 Redação original: "§ 2º - O disposto nos incisos II e III deste artigo, aplica-se apenas às empresas beneficiárias principais do PROAUTO." 
 
 § 3º - Consideram-se insumos, para os efeitos do inciso I, do § 1º, deste artigo, as matérias-primas, os produtos intermediários, materiais de embalagem, partes, peças, componentes, conjuntos e subconjuntos, acabados e semi-acabados, pneumáticos e acessórios.
@@ -183,4 +186,4 @@ Albérico Machado Mascarenhas
 
 Secretário da Fazenda
 
-* * *
+ *

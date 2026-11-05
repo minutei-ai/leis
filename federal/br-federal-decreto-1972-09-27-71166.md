@@ -1,5 +1,3 @@
-###DEC-071166-0-000-27-09-1972@@@
-
 DECRETO Nº 71.166, DE 27 DE SETEMBRO DE 1972.
 
 Concede permissão, em caráter permanente, à empresa Resana S.A.- Indústrias Químicas, sediada em São Bernardo do Campo, Estado de São Paulo, para funcionar aos domingos e nos feriados civis e religiosos.

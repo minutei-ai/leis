@@ -1,5 +1,3 @@
-###DEL-003018-0-000-01-02-1941@@@
-
 DECRETO-LEI N. 3.018 – DE 1 DE FEVEREIRO DE 1941
 
 Autoriza o Ministério do Trabalho, Indústria e Comércio a contrair empréstimos para ocorrer às despesas com a construção de edifícios-sedes das suas representações nos Estados.

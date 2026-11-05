@@ -1,5 +1,3 @@
-###DEC-083245-0-000-07-03-1979@@@
-
 decreto nº 83.245, de 07 de março de 1979
 
 Concede à PALMASA - Azulejos Várzea da Palma S.A. o direito de lavrar caulim no Município de Lassance, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001171-0-000-27-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.171, DE 27 DE OUTUBRO DE 1995
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

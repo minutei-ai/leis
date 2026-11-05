@@ -1,5 +1,3 @@
-###DEC-092641-0-000-12-05-1986@@@
-
 DECRETO Nº 92.641, DE 12 DE MAIO DE 1986
 
 Aprova o Estatuto da fundação Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq.

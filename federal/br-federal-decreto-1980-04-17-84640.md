@@ -1,5 +1,3 @@
-###DEC-084640-0-000-17-04-1980@@@
-
 DECRETO Nº 84.640, DE 17 DE ABRIL DE 1980.
 
 Autoriza a Rede Ferroviária Federal S.A. a criar subsidiária destinada a implantar e operar serviço de trens urbanos na Região Metropolitana de Porto Alegre, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070381-0-000-10-04-1972@@@
-
 DECRETO Nº 70.381, DE 10 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Sociedade Agostiniana de Educação e Assistência, com sede em São Paulo.

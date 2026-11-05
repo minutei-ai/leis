@@ -1,5 +1,3 @@
-###DEC-076902-0-000-24-12-1975@@@
-
 DECRETO Nº 76.902, DE 24 DE DEZEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção da subestação denominada "Quilombo", da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

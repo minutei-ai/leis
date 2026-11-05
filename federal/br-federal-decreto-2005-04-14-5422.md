@@ -1,5 +1,3 @@
-###DEC-005422-0-000-14-04-2005@@@
-
 DECRETO Nº 5.422 DE 14 DE ABRIL DE 2005
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Lagos, República da Nigéria.

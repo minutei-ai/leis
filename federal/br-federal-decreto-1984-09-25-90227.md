@@ -1,5 +1,3 @@
-###DEC-090227-0-000-25-09-1984@@@
-
 DECRETO Nº 90.227, DE 25 DE SETEMBRO DE 1984.
 
 Autoriza a Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

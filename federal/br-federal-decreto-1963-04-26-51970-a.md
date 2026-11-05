@@ -1,5 +1,3 @@
-###DEC-051970-A-000-26-04-1963@@@
-
 DECRETO Nº 51.970-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. (CEMIG), a construir linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-078852-0-000-29-11-1976@@@
-
 DECRETO Nº 78.852, DE 29 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Comunicação visual de Desenho e Plástica, e de Desenho Industrial, da Faculdade de Arquitetura da Universidade Mackenzie, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.363, DE 10 DE JUNHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.084, de 16 de fevereiro de 2023, que institui o Programa de Fomento à Instalação de Estabelecimentos Comerciais e de Serviços na “Cidade do Povo”, para dispor sobre a hipótese de rescisão da alienação e a possibilidade de renegociação das dívidas dos adquirentes inadimplentes.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.084, de 16 de fevereiro de 2023, que institui o Programa de Fomento à Instalação de Estabelecimentos Comerciais e de Serviços na “Cidade do Povo”, para dispor sobre a hipótese de rescisão da alienação e a possibilidade de renegociação das dívidas dos adquirentes inadimplentes.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-002658-0-000-06-07-1998@@@
-
 DECRETO Nº 2.658, DE 6 DE JULHO DE 1998
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 2.027, de 11 de outubro de 1996.

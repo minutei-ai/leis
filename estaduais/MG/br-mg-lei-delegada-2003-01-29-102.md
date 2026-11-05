@@ -163,7 +163,3 @@ Fundação Hospitalar do Estado de Minas Gerais – FHEMIG
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 2,22068 Presidência Assessor de Comunicação Social 01 0,90000 Diretoria Hospitalar Diretor 01 1,61924 Diretoria de Planejamento e Finanças Diretor 01 1,61924 Diretoria de Pesquisa e Ensino Diretor 01 1,61924 Auditoria Seccional Auditor Seccional 01 0,90000 Assessoria Jurídica Assessor Jurídico 01 0,90000 Diretoria de Gestão Diretor 01 1,61924
-
-\------------------------------------------------
-
-Data da última atualização: 25/1/2011.

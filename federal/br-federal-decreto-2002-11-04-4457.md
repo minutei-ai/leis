@@ -1,5 +1,3 @@
-###DEC-004457-0-000-04-11-2002@@@
-
 DECRETO Nº 4.457, DE 4 DE NOVEMBRO DE 2002
 
 Acresce artigo ao Decreto nº4.402, de 2 de outubro de 2002, que dispõe sobre o Conselho Nacional de Turismo.

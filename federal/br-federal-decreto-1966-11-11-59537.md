@@ -1,5 +1,3 @@
-###DEC-059537-0-000-11-11-1966@@@
-
 DECRETO Nº 59.537, DE 11 DE NOVEMBRO DE 1966.
 
 Concede à Bernardino & Cia. Ltda. autorização para funcionar como emprêsa de mineração.

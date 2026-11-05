@@ -1,5 +1,3 @@
-###DEC-051962-A-000-26-04-1963@@@
-
 DECRETO Nº 51.962-a, DE 26 DE ABRIL DE 1962.
 
 Transfere da Prefeitura Municipal de Carazinho para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, a concessão para distribuir energia elétrica nos municípios de Taperá e Não Me Toque, no Estado do Rio Grande do Sul, e dá outras providências.

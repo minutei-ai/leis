@@ -1,5 +1,3 @@
-###DEC-070414-0-000-14-04-1972@@@
-
 DECRETO Nº 70.414, DE 14 DE ABRIL DE 1972.
 
 Declara de interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas ou pela Superintendência do Vale do São Francisco, alternativamente, área de terreno necessária à ampliação do Projeto de Irrigação do Vale do Rio Verde Pequeno - Açude Estreito, nos municípios de Urandi (Bahia) e Espinosa (Minas Gerais).

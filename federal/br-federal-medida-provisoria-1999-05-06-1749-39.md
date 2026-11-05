@@ -1,5 +1,3 @@
-###MPV-001749-0-039-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.749-39, DE 6 DE MAIO DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

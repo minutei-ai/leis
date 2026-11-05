@@ -1,5 +1,3 @@
-###DEL-003408-0-000-10-07-1941@@@
-
 DECRETO-LEI N. 3.408 – DE 10 DE JULHO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 55:120$0, para liquidação de compromissos

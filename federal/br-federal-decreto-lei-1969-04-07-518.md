@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1aa569e3-5127-4e74-a617-1ffd50960c55/texto#nowhere)
 
-###DEL-000518-0-000-07-04-1969@@@
-
 DECRETO-LEI Nº 518, DE 7 DE ABRIL DE 1969
 
 Autoriza o Poder Executivo a aforar, sem concorrência pública, os terrenos de propriedade da União onde se localizam conjuntos residenciais construídos pela antiga Fundação da Casa Popular

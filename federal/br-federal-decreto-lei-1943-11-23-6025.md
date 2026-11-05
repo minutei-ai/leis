@@ -1,5 +1,3 @@
-###DEL-006025-0-000-23-11-1943@@@
-
 DECRETO‑LEI N. 6.025 – DE 23 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial, de Cr$ 47.112,00, para pagamento de gratificação de representação

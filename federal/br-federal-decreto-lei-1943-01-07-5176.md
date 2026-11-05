@@ -1,5 +1,3 @@
-###DEL-005176-0-000-07-01-1943@@@
-
 DECRETO‑LEI N. 5.176 – DE 7 DE JANEIRO DE 1943
 
 Interpreta o art. 4º do decreto‑lei n. 4.750, de 28 de setembro de 1942

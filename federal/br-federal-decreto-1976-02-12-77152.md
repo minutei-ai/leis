@@ -1,5 +1,3 @@
-###DEC-077152-0-000-12-02-1976@@@
-
 DECRETO Nº 77.152, DE 12 DE FEVEREIRO DE 1976.
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica dos Municípios de Irati e Prudentópolis, Estado do Paraná.

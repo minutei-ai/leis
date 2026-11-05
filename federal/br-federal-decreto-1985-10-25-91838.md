@@ -1,5 +1,3 @@
-###DEC-091838-0-000-25-10-1985@@@
-
 Decreto nº 91.838, de 25 de outubro de 1985
 
 Cria Função de Assessoramento Superior (FAS) para a Ministério do Desenvolvimento Urbano e Meio Ambiente, e dá Outras providências.

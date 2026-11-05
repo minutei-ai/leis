@@ -1,5 +1,3 @@
-###DEC-069820-0-000-22-12-1971@@@
-
 decreto nº 69.820 - de 22 DE DEZEMBRO de 1971
 
 Classifica órgãos de deliberação coletiva, no Ministério dos Transportes, e dá outras providências.

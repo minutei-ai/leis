@@ -1,5 +1,3 @@
-###DEC-007052-0-000-23-12-2009@@@
-
 DECRETO Nº 7.052 DE 23 DE DEZEMBRO DE 2009.
 
 Regulamenta a Lei no 11.770, de 9 de setembro de 2008, que cria o Programa Empresa Cidadã, destinado à prorrogação da licença-maternidade, no tocante a empregadas de pessoas jurídicas

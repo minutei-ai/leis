@@ -1,5 +1,3 @@
-###DEC-004448-0-000-29-10-2002@@@
-
 DECRETO Nº 4.448, DE 29 DE OUTUBRO DE 2002
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

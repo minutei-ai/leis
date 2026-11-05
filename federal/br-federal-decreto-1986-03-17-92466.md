@@ -1,5 +1,3 @@
-###DEC-092466-0-000-17-03-1986@@@
-
 DECRETO Nº 92.466, DE 17 DE MARÇO DE 1986
 
 Cria, no Ministério das Relações Exteriores, o Grupo Interministerial de Trabalho sobre Comércio de Mercadorias e dá outras  providências.

@@ -1,5 +1,3 @@
-###MPV-000163-0-000-23-01-2004@@@
-
 MEDIDA PROVISÓRIA Nº 163, DE 23 DE JANEIRO 2004.
 
 Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

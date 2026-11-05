@@ -1,5 +1,3 @@
-###DEC-056635-0-000-03-08-1965@@@
-
 DECRETO Nº 56.635, DE 3 DE AGôSTO DE 1965.
 
 Autoriza a Dragagem de Ouro Limitada a pesquisar ouro e diamantes, nos município de Diamantina e Corinto, Estado de Minas Gerais.

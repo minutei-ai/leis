@@ -1,5 +1,3 @@
-###DEC-048701-0-000-04-08-1960@@@
-
 DECRETO Nº 48.701, DE 4 DE AGÔSTO DE 1960.
 
 Outorga concessão à Rádio Emissora Jalense Limitada para instalar uma estação radiodifusora.

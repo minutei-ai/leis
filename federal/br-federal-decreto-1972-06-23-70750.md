@@ -1,5 +1,3 @@
-###DEC-070750-0-000-23-06-1972@@@
-
 DECRETO Nº 70.750, DE 23 DE JUNHO DE 1972.
 
 Consolida dispositivos relativos à organização e competência do Conselho Nacional de Petróleo, reformula a estrutura básica do órgão e dá outras providências.

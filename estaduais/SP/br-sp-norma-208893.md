@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208893)<br>
-
 # DECRETO N° 68.153, DE 05 DE DEZEMBRO DE 2023
 
 ### _Revoga o Decreto n° 68.125, de 30 de novembro de 2023._

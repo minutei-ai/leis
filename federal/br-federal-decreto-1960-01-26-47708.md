@@ -1,5 +1,3 @@
-###DEC-047708-0-000-26-01-1960@@@
-
 DECRETO N. 47.708 – DE 26 DE JANEIRO DE 1960
 
 Dá nova redação aos artigos 8º e 10 do atual Regulamento da Escola Superior de Guerra, aprovado e mandado executar pelo Decreto 35.187, de 11 de março de 1954.

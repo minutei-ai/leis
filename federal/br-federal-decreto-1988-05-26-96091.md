@@ -1,5 +1,3 @@
-###DEC-096091-0-000-26-05-1988@@@
-
 DECRETO Nº 96.091, DE 26 DE MAIO DE 1988
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Patos de Minas.

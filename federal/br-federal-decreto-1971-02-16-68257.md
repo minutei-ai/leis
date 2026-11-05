@@ -1,5 +1,3 @@
-###DEC-068257-0-000-16-02-1971@@@
-
 DECRETO Nº 68.257, DE 16 DE FEVEREIRO DE 1971.
 
 Declara sem efeito o Decreto número 51.943-A, de 26 de abril de 1963.

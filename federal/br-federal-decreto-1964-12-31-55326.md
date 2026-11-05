@@ -1,5 +1,3 @@
-###DEC-055326-0-000-31-12-1964@@@
-
 Decreto nº 55.326, de 31 de dezembro de 1964.
 
 Autoriza Cia. de Cimento Portland Maringá a pesquisar argila no município de Itapeva, Estado de São Paulo.

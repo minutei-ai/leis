@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209708)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2024/compilacao-lei-17986-15.07.2024.html)
 
 # LEI N° 17.986, DE 15 DE JULHO DE 2024

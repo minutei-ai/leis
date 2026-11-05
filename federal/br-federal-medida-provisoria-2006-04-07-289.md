@@ -1,5 +1,3 @@
-###MPV-000289-0-000-07-04-2006@@@
-
 MEDIDA PROVISÓRIA Nº 289, DE 7 DE ABRIL DE 2006.
 
 Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e do Desenvolvimento Social e Combate à Fome e de Operações Oficiais de Crédito, no valor global de R$ 738.000.000,00, para os fins que especifica

@@ -1,5 +1,3 @@
-###DEC-002635-0-000-25-06-1998@@@
-
 DECRETO Nº 2.635, DE 25 DE JUNHO DE 1998
 
 Institui o Comitê de Comercialização de Álcool Etílico Combustível - CAEC e dá outras providências

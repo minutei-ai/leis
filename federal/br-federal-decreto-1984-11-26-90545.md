@@ -1,5 +1,3 @@
-###DEC-090545-0-000-26-11-1984@@@
-
 DECRETO Nº 90.545, de 26 de novembro de 1984.
 
 Altera o Regulamento de Promoções de Graduados do Exército (R-196), aprovado pelo Decreto nº 77.920, de 28 de junho de 1976.

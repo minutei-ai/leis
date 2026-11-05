@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212675)<br>
-
 # DECRETO N° 70.650, DE 28 DE MAIO DE 2026
 
 ### _Transfere, das Secretarias da Justiça e Cidadania e de Gestão e Governo Digital para a Secretaria da Cultura, Economia e Indústria Criativas, a administração dos imóveis que especifica, localizados no Município de São Paulo._

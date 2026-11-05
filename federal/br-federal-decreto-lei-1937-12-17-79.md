@@ -1,5 +1,3 @@
-###DEL-000079-0-000-17-12-1937@@@
-
 DECRETO-LEI N. 79 – DE 17 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de réis 506:800$000 às verbas que especifica
@@ -36,11 +34,11 @@ D. N. P. V......................................................................
 
 D. O. D. P......................................................................................... 20:000$0     180:000$0
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAABCAYAAACIRGNTAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEUlEQVR4nGNgYGD4P4rhGAwAxUpCvvDVDjcAAAAASUVORK5CYII=)S/c n. 9 – Condução e transporte :
+![](../assets/md-inline/757e6d0e3b8eff87cf32060b3fe3d6fd618195e8384f6bea2c37d44a173bb4ce.png)S/c n. 9 – Condução e transporte :
 
 D. N. P. A ........................................................................................ 10:000$0
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAABCAYAAABgxNZ4AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEUlEQVR4nGNgYGD4PwIwGAAA2II4yMFUF1YAAAAASUVORK5CYII=)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAABCAYAAACIRGNTAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEUlEQVR4nGNgYGD4P4rhGAwAxUpCvvDVDjcAAAAASUVORK5CYII=)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAABCAYAAABaFGkLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEklEQVR4nGNgYGD4P4ppgsEAAOq0VauFEUoiAAAAAElFTkSuQmCC)D. N. P. V... ....................................................................................... 5:000$0 15:000$0    222:000$000
+![](../assets/md-inline/dcd7761c6c88c7570e9e1e7be43d2368c57a37d7d87ce6aaf659ebe27b762ab8.png)![](../assets/md-inline/757e6d0e3b8eff87cf32060b3fe3d6fd618195e8384f6bea2c37d44a173bb4ce.png)![](../assets/md-inline/380e1a6b97fcd13e3efead3e16fa1a6ebdec7241850182fc54b4b9920b94d5de.png)D. N. P. V... ....................................................................................... 5:000$0 15:000$0    222:000$000
 
 Total de Pessoal...................................................................................................................... 222:000$000
 
@@ -66,7 +64,7 @@ II – Material de consumo
 
 S/c. n. 22 – Medicamentos, drogas, etc....................10:000$0
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAABCAYAAACIRGNTAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEUlEQVR4nGNgYGD4P4rhGAwAxUpCvvDVDjcAAAAASUVORK5CYII=)S/c. n. 24 – Combustível e lubrificantes....................30:000$0
+![](../assets/md-inline/757e6d0e3b8eff87cf32060b3fe3d6fd618195e8384f6bea2c37d44a173bb4ce.png)S/c. n. 24 – Combustível e lubrificantes....................30:000$0
 
    40:000$0
 
@@ -76,9 +74,9 @@ S/c. n. 28 – Iluminação, fôrça motrís etc. ............................7:
 
 S/c. n. 29 – Telefones, telegramas, etc. ..............................2:000$0
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAC0lEQVR4nGNgAAIAAAUAAXpeqz8AAAAASUVORK5CYII=)S/c. n. 30 – Estivas, capatazias, etc...................................10:000$0
+![](../assets/md-inline/600f5c08f55015795ccfb70973406ff89edfb98fff3741b954c60be0c6d03e74.png)S/c. n. 30 – Estivas, capatazias, etc...................................10:000$0
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAABCAYAAABgxNZ4AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEUlEQVR4nGNgYGD4PwIwGAAA2II4yMFUF1YAAAAASUVORK5CYII=)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAABCAYAAABgxNZ4AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEUlEQVR4nGNgYGD4PwIwGAAA2II4yMFUF1YAAAAASUVORK5CYII=)                                          19:000$0       59:000$000
+![](../assets/md-inline/dcd7761c6c88c7570e9e1e7be43d2368c57a37d7d87ce6aaf659ebe27b762ab8.png)![](../assets/md-inline/dcd7761c6c88c7570e9e1e7be43d2368c57a37d7d87ce6aaf659ebe27b762ab8.png)                                          19:000$0       59:000$000
 
 III – Departamento Nacional da Produção Vegetal
 
@@ -94,7 +92,7 @@ III – Diversas despesas
 
 S/c. n. 104 – Iluminação, fôrça motrís, etc.......................20:000$0
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAABCAYAAABgxNZ4AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEUlEQVR4nGNgYGD4PwIwGAAA2II4yMFUF1YAAAAASUVORK5CYII=)S/c. n. 107 – Aluguéis de casa, etc..................................70:000$0       90.000$000
+![](../assets/md-inline/dcd7761c6c88c7570e9e1e7be43d2368c57a37d7d87ce6aaf659ebe27b762ab8.png)S/c. n. 107 – Aluguéis de casa, etc..................................70:000$0       90.000$000
 
 V – Diretoria de Estatística da Produção
 
@@ -114,9 +112,9 @@ Resumo:
 
 1\. Pessoal ................................................................................................. 222:000$000
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAABCAYAAABaFGkLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEklEQVR4nGNgYGD4P4ppgsEAAOq0VauFEUoiAAAAAElFTkSuQmCC)II. MateriaI ................................................................................................. 284:800$000
+![](../assets/md-inline/380e1a6b97fcd13e3efead3e16fa1a6ebdec7241850182fc54b4b9920b94d5de.png)II. MateriaI ................................................................................................. 284:800$000
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAABCAYAAABaFGkLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEklEQVR4nGNgYGD4P4ppgsEAAOq0VauFEUoiAAAAAElFTkSuQmCC)                                                                            506:800$000
+![](../assets/md-inline/380e1a6b97fcd13e3efead3e16fa1a6ebdec7241850182fc54b4b9920b94d5de.png)                                                                            506:800$000
 
 Rio de Janeiro, 17 de dezembro de 1937, 116º da Independência e 49º da República.
 

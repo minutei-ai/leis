@@ -1,5 +1,3 @@
-###DEC-003661-0-000-14-11-2000@@@
-
 DECRETO Nº 3.661, DE 14 DE NOVEMBRO DE 2000.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, das Centrais de Abastecimento da Amazônia S.A. - CEASA/AM.

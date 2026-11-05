@@ -4,7 +4,8 @@ Cria a Entidade Metropolitana da Região Metropolitana de Salvador, dispondo sob
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei Complementar:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO OBJETO E DO ÂMBITO DE APLICAÇÃO
 
 Art. 1º - Esta Lei Complementar tem por objeto:
@@ -19,10 +20,12 @@ IV - a autorização para que seja criado o Fundo de Desenvolvimento Metropolita
 
 Parágrafo único - O disposto nesta Lei Complementar aplica-se ao Estado da Bahia e aos Municípios integrantes da Região Metropolitana de Salvador, bem como às pessoas físicas ou jurídicas de direito privado que com elas se relacionem, no que concerne às funções públicas de interesse comum.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ENTIDADE METROPOLITANA DA REGIÃO METROPOLITANA DE SALVADOR
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA CRIAÇÃO, DA NATUREZA JURÍDICA E DAS FINALIDADES
 
 Art. 2º - Fica criada a Entidade Metropolitana da Região Metropolitana de Salvador, autarquia intergovernamental de regime especial, com caráter deliberativo e normativo e personalidade jurídica de direito público.
@@ -39,7 +42,8 @@ IV - comunicar aos órgãos ou entidades federais que atuem na unidade regional 
 
 § 2º - Sem prejuízo de outras previstas na legislação, são funções públicas de interesse comum, a mobilidade urbana, o transporte público de qualquer natureza, o saneamento básico, o aproveitamento de recursos hídricos, a preservação de meio ambiente, a distribuição de gás canalizado, a habitação popular, manutenção da função social da propriedade imobiliária urbana e, quando houver impacto metropolitano, o ordenamento, a ocupação e uso do solo urbano.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA ESTRUTURA DE GOVERNANÇA
 
 Art. 3º - Integram a estrutura de governança da Entidade Metropolitana da Região Metropolitana de Salvador:
@@ -70,10 +74,12 @@ Art. 5º - O Secretário-Geral é o representante legal da Região Metropolitana
 
 Art. 6º - O Estado da Bahia poderá designar a Entidade Metropolitana da Região Metropolitana de Salvador como local de lotação e exercício de servidores estaduais, inclusive de suas entidades da Administração Indireta, de direito público ou privado, sem prejuízo de remuneração e demais vantagens aos servidores designados.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO COLEGIADO METROPOLITANO
 
-Subseção I -<br>
+Subseção I -
+
 Da Composição e do Funcionamento
 
 Art. 7º - O Colegiado Metropolitano é a instância máxima da Entidade Metropolitana da Região Metropolitana de Salvador e somente poderá deliberar com a presença de representantes de entes da Federação que detenham pelo menos a maioria absoluta do número total dos votos, sendo que:
@@ -94,7 +100,8 @@ II - aumentar uma unidade ao número escrito à esquerda da vírgula, se o algar
 
 § 3º - Presidirá o Colegiado Metropolitano o Governador do Estado ou, nas suas ausências e impedimentos, o Vice-Governador do Estado.
 
-Subseção II -<br>
+Subseção II -
+
 Das atribuições
 
 Art. 8º - São atribuições do Colegiado Metropolitano:
@@ -119,7 +126,8 @@ IX - eleger e destituir o Secretário-Geral.
 
 Parágrafo único - No caso de o Colegiado Metropolitano deliberar pela unificação na prestação de serviço público, ou de atividade integrante de serviço público, a Entidade Metropolitana da Região Metropolitana de Salvador subscreverá o respectivo contrato de concessão ou de programa representando todos os entes da Federação integrantes da Região Metropolitana.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA PARTICIPAÇÃO POPULAR E DA TRANSPARÊNCIA
 
 Art. 9º - O Conselho Participativo da Região Metropolitana de Salvador tem por finalidade:
@@ -152,7 +160,8 @@ II - debater os estudos e planos em desenvolvimento;
 
 III - prestar contas da destinação e aplicação dos recursos dos fundos que administra.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DO SISTEMA DE PLANEJAMENTO METROPOLITANO
 
 Art. 12 - O Sistema de Planejamento Metropolitano é constituído pelos seguintes planos:
@@ -185,7 +194,8 @@ V - outros planos setoriais metropolitanos, relativos a funções públicas de i
 
 § 6º - Os Municípios integrantes da Região Metropolitana de Salvador, o Estado e os órgãos de atuação regional compatibilizarão seus planos e programas às diretrizes do Plano de Desenvolvimento Metropolitano ou de plano setorial metropolitano.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 FUNDO DE MOBILIDADE E MODICIDADE TARIFÁRIA DO TRANSPORTE COLETIVO - FMTC-RMS
 
 Art. 13 - Fica instituído o Fundo de Mobilidade e Modicidade Tarifária do Transporte Coletivo - FMTC-RMS, de natureza pública, vinculado à Entidade Metropolitana, com a finalidade de dar suporte financeiro ao planejamento integrado e às ações conjuntas referentes aos programas e projetos de mobilidade urbana e metropolitana, bem como proporcionar a modicidade tarifária.
@@ -222,7 +232,8 @@ VIII - doações de pessoas físicas ou jurídicas, públicas ou privadas, nacio
 
 Parágrafo único - O FMTC-RMS integra o orçamento anual do Estado da Bahia.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO FUNDO DE UNIVERSALIZAÇÃO DO SANEAMENTO BÁSICO DA REGIÃO METROPOLITANA DE SALVADOR - FUSAN
 
 Art. 16 - Fica criado o Fundo de Universalização do Saneamento Básico da Região Metropolitana de Salvador - Fusan, de natureza pública, de forma a atender ao previsto no art. 13 da Lei Federal nº 11.445, de 05 de janeiro de 2007.
@@ -239,7 +250,8 @@ IV - receitas advindas da aplicação de seus recursos.
 
 § 2º - Os recursos do Fusan deverão ser aplicados em programas e projetos de saneamento básico de interesse metropolitano ou de interesse de Município localizado na Região Metropolitana de Salvador, integrados ou não a projetos de habitação popular ou de melhoria das condições habitacionais.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO FUNDO DE DESENVOLVIMENTO DA REGIÃO METROPOLITANA DE SALVADOR - FRMS
 
 Art. 17 - Fica autorizada a criação do Fundo de Desenvolvimento da Região Metropolitana de Salvador - FRMS do qual poderão fazer parte todos os Municípios da Região Metropolitana de Salvador.
@@ -282,7 +294,8 @@ IV - assegurar o direito à adequada mobilidade urbana, à cidade, à moradia e 
 
 V - subsidiar a tarifa de transporte coletivo e custo de habitação popular, inclusive urbanização de áreas precárias.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 19 - Resolução do Colegiado Metropolitano definirá a forma de sua gestão administrativa.

@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº 5.234, DE 26 DE DEZEMBRO DE 2006.
 
-<br>
 Altera Lei Complementar n. 5220/2006.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
@@ -15,8 +14,10 @@ Art. 1º Altera o art. 5º da Lei Complementar n. 5.220/2006, de 20 de novembro 
 
 § 3º O prazo de validade do processo seletivo será de no máximo dois anos, prorrogável uma vez, por igual período.
 
-§ 4º O edital de processo seletivo público para provimento do cargo de Agente Comunitário de Saúde deverá estabelecer a inscrição por área geográfica, previamente definida pelo Município, observando-se o seguinte:<br>
-I - a classificação dos aprovados no processo seletivo público deverá ser feita pela área geográfica, conforme opção feita pelo candidato no ato da inscrição, inclusive quanto à reserva técnica que, se esgotada em determinada área geográfica, poderá ser realizado o processo seletivo para a recomposição desta;<br>
+§ 4º O edital de processo seletivo público para provimento do cargo de Agente Comunitário de Saúde deverá estabelecer a inscrição por área geográfica, previamente definida pelo Município, observando-se o seguinte:
+
+I - a classificação dos aprovados no processo seletivo público deverá ser feita pela área geográfica, conforme opção feita pelo candidato no ato da inscrição, inclusive quanto à reserva técnica que, se esgotada em determinada área geográfica, poderá ser realizado o processo seletivo para a recomposição desta;
+
 II - a admissão dos aprovados deverá obedecer rigorosamente a ordem de classificação por área.
 
 Art. 2º Fica inserido na Lei n. 5.220/2006, de 04 de dezembro de 2006, o art. 6-A, com o seguinte teor:

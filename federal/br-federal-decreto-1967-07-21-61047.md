@@ -1,5 +1,3 @@
-###DEC-061047-0-000-21-07-1967@@@
-
 DECRETO Nº 61.047, DE 21 DE JULHO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado à Rua Dr. Zuquim nº 675, na cidade de São Paulo, Estado de São Paulo.

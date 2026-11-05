@@ -1,5 +1,3 @@
-###DEC-077247-0-000-27-02-1976@@@
-
 decreto nº 77.247, de 27 de fevereiro de 1976.
 
 Designa os cargos privativos de Oficial-General em tempo de paz.

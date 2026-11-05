@@ -1,5 +1,3 @@
-###DEC-049677-0-000-31-12-1960@@@
-
 DECRETO Nº 49.677, DE 31 DE dezembro DE 1960.
 
 Concede à Extrativa Mineral Limitada - Extramil, autorização para funcionar como emprêsa de mineração.

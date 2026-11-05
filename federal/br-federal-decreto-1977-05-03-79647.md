@@ -1,5 +1,3 @@
-###DEC-079647-0-000-03-05-1977@@@
-
 DECRETO Nº 79.647, DE 3 DE MAIO DE 1977
 
 Autoriza a Petróleo Brasileiro S.A. - PETROBRÁS a executar trabalhos de exploração e produção de hidrocarbonetos, no mar territorial do Brasil, empregando embarcações de bandeira estrangeira.

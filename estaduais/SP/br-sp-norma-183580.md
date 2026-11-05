@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183580)
-
 # DECRETO Nº 62.874, DE 09 DE OUTUBRO DE 2017
 
 ### _Regulamenta os artigos 3º e 4º da Lei nº 16.498, de 18 de julho de 2017, e altera os Decretos nº 59.953, de 13 de dezembro de 2013, e nº 54.714, de 27 de agosto de 2009, que tratam, respectivamente, da imunidade, isenção, dispensa de pagamento, restituição e redução de alíquota e disciplinam o lançamento de ofício do Imposto sobre a Propriedade de Veículos Automotores - IPVA e dá providências correlatas_
@@ -52,12 +50,18 @@ Palácio dos Bandeirantes, 9 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Rogerio Ceron de Oliveira<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Fazenda<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Rogerio Ceron de Oliveira
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Fazenda
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 9 de outubro de 2017.
 
 OFÍCIO GS-CAT Nº 792/2017
@@ -74,7 +78,10 @@ Rogerio Ceron de Oliveira
 
 Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Fazenda
 
-A Sua Excelência o Senhor<br>
-GERALDO ALCKMIN<br>
-Governador do Estado de São Paulo<br>
+A Sua Excelência o Senhor
+
+GERALDO ALCKMIN
+
+Governador do Estado de São Paulo
+
 Palácio dos Bandeirantes

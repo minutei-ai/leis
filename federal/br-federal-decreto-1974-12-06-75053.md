@@ -1,5 +1,3 @@
-###DEC-075053-0-000-06-12-1974@@@
-
 DECRETO Nº 75.053, DE 6 DE DEZEMBO DE 1974.
 
 Concede reconhecimento ao curso de Administração do Instituto de Ciências Sociais do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

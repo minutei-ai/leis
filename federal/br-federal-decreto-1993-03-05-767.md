@@ -1,7 +1,3 @@
-1
-
-###DEC-000767-0-000-05-03-1993@@@
-
 DECRETO N° 767, DE 5 DE MARÇO DE 1993
 
 Dispõe sobre as atividades de controle interno da Advocacia-Geral da União, e dá outras providências.

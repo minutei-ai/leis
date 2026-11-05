@@ -1,5 +1,3 @@
-###DEC-053785-0-000-20-03-1964@@@
-
 DECRETO Nº 55.785, DE 20 DE MARÇO DE 1964.
 
 Abre ao Ministério da Fazenda, o crédito especial de Cr$ 50.000.000,00 para o fim que especifica.

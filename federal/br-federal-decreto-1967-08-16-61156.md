@@ -1,5 +1,3 @@
-###DEC-061156-0-000-16-08-1967@@@
-
 DECRETO Nº 61.156, DE 16 DE AGÔSTO DE 1967.
 
 Constitui Comissão para elaborar o Plano Diretor de emplantação dos portos pesqueiros e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/562a1adc-20de-47da-a8cc-18b4615ff1f6/texto#nowhere)
 
-###DEL-001354-0-000-05-11-1974@@@
-
 # DECRETO-LEI Nº 1.354, DE 5 DE NovemRo DE 1974
 
 Altera a estrutura da Categoria Funcional de Diplomata (Carreira de Diplomata), do Grupo Diplomacia do Quadro Permanente do Ministério das Relações Exteriores.

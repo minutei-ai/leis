@@ -1,5 +1,3 @@
-###DEC-058683-0-000-21-06-1966@@@
-
 decreto nº 58.683, de 21 de junho de 1966.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil de fração ideal do terreno acrescido de marinha que menciona, no Estado da Guanabara.

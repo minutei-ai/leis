@@ -1,5 +1,3 @@
-###DEL-000157-0-000-10-02-1967@@@
-
 DEcreto-lei Nº 157, DE 10 DE FEVEReIRO DE 1967
 
 Concede estímulos fiscais à capitalização das emprêsas; reforça os incentivos à compra de ações; facilita o pagamento de débitos fiscais.

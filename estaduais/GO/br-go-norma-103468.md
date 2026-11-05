@@ -8,28 +8,36 @@ Art. 1º  Fica instituída a Política Estadual de Atenção e Direitos ao Port
 
 Art. 2º  A Política, de caráter permanente, tem por objetivo assegurar os direitos e conscientizar a sociedade sobre a Síndrome da Fibromialgia e doenças reumatológicas. 
 
-Art. 2º-A Ficam garantidos aos portadores de síndrome de fibromialgia e de doenças reumatológicas:<br>
+Art. 2º-A Ficam garantidos aos portadores de síndrome de fibromialgia e de doenças reumatológicas:
+
 \- [Acrescido pela Lei nº 21.293, de 06-04-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105293/lei-21293).
 
-I – atendimento preferencial, durante todo o horário de expediente, pelo poder público estadual, por empresas concessionárias de serviços públicos e por empresas privadas;<br>
+I – atendimento preferencial, durante todo o horário de expediente, pelo poder público estadual, por empresas concessionárias de serviços públicos e por empresas privadas;
+
 \- [Acrescido pela Lei nº 21.293, de 06-04-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105293/lei-21293).
 
-II – inclusão na fila preferencial, destinada aos idosos, gestantes e pessoas com deficiência, pelas agências bancárias e por empresas que recebem pagamentos;<br>
+II – inclusão na fila preferencial, destinada aos idosos, gestantes e pessoas com deficiência, pelas agências bancárias e por empresas que recebem pagamentos;
+
 \- [Acrescido pela Lei nº 21.293, de 06-04-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105293/lei-21293).
 
-III – estacionamento em vagas destinadas aos idosos, gestantes e pessoas com deficiência. <br>
+III – estacionamento em vagas destinadas aos idosos, gestantes e pessoas com deficiência. 
+
 \- [Acrescido pela Lei nº 21.293, de 06-04-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105293/lei-21293).
 
-Parágrafo único. A identificação do veículo em uso pelas pessoas com fibromialgia se dará por meio de cartão de identificação para o uso em filas e vagas para estacionamento.<br>
+Parágrafo único. A identificação do veículo em uso pelas pessoas com fibromialgia se dará por meio de cartão de identificação para o uso em filas e vagas para estacionamento.
+
 \- [Acrescido pela Lei nº 24.361, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115691).
 
-Art. 2º-B Fica reconhecido, no âmbito do Estado de Goiás, o cordão de fita com desenhos de borboletas e/ou laços na cor roxa como símbolo de identificação de pessoas com fibromialgia.<br>
+Art. 2º-B Fica reconhecido, no âmbito do Estado de Goiás, o cordão de fita com desenhos de borboletas e/ou laços na cor roxa como símbolo de identificação de pessoas com fibromialgia.
+
 \- [Acrescido pela Lei nº 24.361, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115691).
 
-§ 1º Os estabelecimentos públicos e privados que disponibilizam atendimento prioritário devem inserir nas placas que sinalizam esse tipo de atendimento o cordão de fita com desenhos de borboletas e/ou laços na cor roxa, como símbolo de identificação de pessoas com fibromialgia.<br>
+§ 1º Os estabelecimentos públicos e privados que disponibilizam atendimento prioritário devem inserir nas placas que sinalizam esse tipo de atendimento o cordão de fita com desenhos de borboletas e/ou laços na cor roxa, como símbolo de identificação de pessoas com fibromialgia.
+
 \- [Acrescido pela Lei nº 24.361, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115691).
 
-§ 2º A utilização do cordão como símbolo das pessoas com fibromialgia não dispensa a apresentação de documento comprobatório, caso seja solicitado pelo atendente ou pela autoridade competente.<br>
+§ 2º A utilização do cordão como símbolo das pessoas com fibromialgia não dispensa a apresentação de documento comprobatório, caso seja solicitado pelo atendente ou pela autoridade competente.
+
 \- [Acrescido pela Lei nº 24.361, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115691).
 
 Art. 3º  (VETADO).  
@@ -50,8 +58,10 @@ Art. 6º  Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias d
 
 Goiânia, 08 de outubro de 2020; 132º da República.  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-RUBENS MARQUES<br>
+RUBENS MARQUES
+
 Deputado Estadual

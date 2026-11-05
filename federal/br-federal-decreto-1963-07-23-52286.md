@@ -1,5 +1,3 @@
-###DEC-052286-0-000-23-07-1963@@@
-
 decreto Nº 52.286, de 23 de julho de 1963.
 
 Institui normas que regularão as atividades das estações de rádio e televisão do país.

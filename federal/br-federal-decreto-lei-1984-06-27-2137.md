@@ -1,5 +1,3 @@
-###DEL-002137-0-000-27-06-1984@@@
-
 # Decreto-lei nº 2.137, de 27 de junho de 1984
 
 Reajusta os valores de vencimentos e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências.

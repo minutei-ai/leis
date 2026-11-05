@@ -1,5 +1,3 @@
-###DEC-056550-0-000-08-07-1965@@@
-
 DECRETO Nº 56.550, DE 8 DE JULHO DE 1965.
 
 Dispensa o Ministério da Guerra de encargos relativos à Rodovia BR-11.

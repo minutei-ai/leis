@@ -1,7 +1,3 @@
-1
-
-###DEC-097905-0-000-05-07-1989@@@
-
 DECRETO Nº 97.905, DE 5 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Educação Física, da Faculdade de Educação Física e Desportos Maria Thereza, em Niterói, Estado do Rio de Janeiro.

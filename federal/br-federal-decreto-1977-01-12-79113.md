@@ -1,5 +1,3 @@
-###DEC-079113-0-000-12-01-1977@@@
-
 DECRETO Nº 79.113, de 12 de JANEIRO DE 1977.
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 69.820, de 22 de dezembro de 1971, a Comissão Coordenadora da Política de Compra de Locomotivas.

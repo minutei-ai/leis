@@ -1,5 +1,3 @@
-###DEC-058570-0-000-02-06-1966@@@
-
 decreto nº 58.570, de 2 de junho de 1966.
 
 Modifica a denominação de estabelecimento de ensino superior.

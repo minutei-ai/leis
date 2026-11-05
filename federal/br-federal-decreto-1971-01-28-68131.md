@@ -1,5 +1,3 @@
-###DEC-068131-0-000-28-01-1971@@@
-
 DECRETO Nº 68.131, DE 28 DE JANEIRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à construção, pela Companhia Telefônica Brasileira das suas oficinas, depósitos e demais dependências, na Freguesia do Engenho Novo, na cidade do Rio de Janeiro, Estado da Guanabara.

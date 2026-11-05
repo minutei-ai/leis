@@ -1,5 +1,3 @@
-###DEL-007964-0-000-18-09-1945@@@
-
 DECRETO-LEI N. 7.964 – DE 18 DE SETEMBRO DE 1945
 
 Dá a designação de “Roosevelt” à estação "Norte”, da Estrada de Ferro Central do Brasil

@@ -1,5 +1,3 @@
-###DEC-055021-0-000-17-11-1964@@@
-
 DECRETO Nº 55.021, DE 17 DE NOVEMBRO DE 1964.
 
 Dispõe sôbre a execução do art. 3º e seu parágrafo único da Lei n° 4.463, de 7 de novembro de 1964, e da outras providências.

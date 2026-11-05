@@ -1,5 +1,3 @@
-###DEC-071304-0-000-01-11-1972@@@
-
 DECRETO Nº 71.304, DE 1 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento ao Curso de Pedagogia da Faculdade de Filosofia de Campina Grande - PB.

@@ -1,5 +1,3 @@
-###DEC-069007-0-000-04-08-1971@@@
-
 DECRETO Nº 69.007, DE 4 DE AGôSTO DE 1971.
 
 Autoriza pesquisas de prospecção e pesca experimental no Nordeste do Brasil.

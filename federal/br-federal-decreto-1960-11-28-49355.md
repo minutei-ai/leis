@@ -1,5 +1,3 @@
-###DEC-049355-0-000-28-11-1960@@@
-
 DECRETO Nº 49.355, DE 28 DE NOVEMBRO DE 1960.
 
 Cria a Comissão Supervisora do Plano dos Institutos (COSUP), determina seu funcionamento sob a forma de Campanha e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053946-0-000-04-06-1964@@@
-
 decreto nº 53.946, de 4 de junho de 1964.
 
 Cria funções na antiga Tabela Única de Extranumerários-Mensalistas do Ministério da Educação e Cultura e dá outras providências.

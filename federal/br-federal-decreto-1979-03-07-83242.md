@@ -1,5 +1,3 @@
-###DEC-083242-0-000-07-03-1979@@@
-
 Decreto nº 83.242, de 07 de março de 1979
 
 Autoriza a conversão dos cursos de Matemática, Ciências Biológicas, Química e Ciências da Fundação Universidade de Uberlândia, com sede na cidade de Uberlândia, Estado de Minas Gerais.

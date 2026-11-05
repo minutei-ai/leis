@@ -1,5 +1,3 @@
-###DEL-004984-0-000-21-11-1942@@@
-
 DECRETO-LEI N. 4.984 – DE 21 DE NOVEMBRO DE 1942
 
 Dispõe sobre a aprendizagem nos estabelecimentos industriais da União, dos Estados, do Distrito Federal e dos Municípios

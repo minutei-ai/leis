@@ -1,5 +1,3 @@
-###DEL-008545-0-000-03-01-1946@@@
-
 DECRETO-LEI N. 8.545 – DE 3 DE JANEIRO DE 1946
 
 Altera carreira no Quadro Suplementar do Ministério da Guerra.

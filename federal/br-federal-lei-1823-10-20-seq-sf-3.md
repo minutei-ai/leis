@@ -1,5 +1,3 @@
-###LEI-000000-C-000-20-10-1823@@@
-
 LEI - DE 20 DE OUTUBRO DE 1823
 
 Revoga o Alvará de 30 de Março de 1818 sobre Sociedades Secretas.

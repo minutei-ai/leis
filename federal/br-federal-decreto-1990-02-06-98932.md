@@ -1,7 +1,3 @@
-1
-
-###DEC-098932-0-000-06-02-1990@@@
-
 DECRETO Nº 98.932 DE 6 DE FEVEREIRO DE 1990
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO SOCIEDADE DE FEIRA DE SANTANA LTDA., para a Fundação SANTO ANTÔNIO.

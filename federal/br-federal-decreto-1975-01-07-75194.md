@@ -1,5 +1,3 @@
-###DEC-075194-0-000-07-01-1975@@@
-
 DECRETO Nº 75.194, DE 7 DE JANEIRO DE 1975.
 
 Aprova o Regulamento para o Serviço de Auditoria da Marinha.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099354-0-000-27-06-1990@@@
-
 DECRETO Nº 99.354, DE 27 DE JUNHO DE 1990
 
 Dispõe sobre dispensa de licitação para a contratação das obras e serviços necessários à implantação do Programa Emergencial de Recuperação das Rodovias Federais.

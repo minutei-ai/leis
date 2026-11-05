@@ -1,5 +1,3 @@
-###DEL-007317-0-000-10-02-1945@@@
-
 DECRETO-LEI N. 7.317 – DE 10 DE FEVEREIRO DE 1945
 
 Aprova contrato firmado entre o Tesouro Nacional e o Banco do Brasil S. A, para execução do Decreto-lei nº 7.293, de 2 de fevereiro de 1945

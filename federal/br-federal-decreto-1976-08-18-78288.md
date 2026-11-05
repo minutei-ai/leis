@@ -1,5 +1,3 @@
-###DEC-078288-0-000-18-08-1976@@@
-
 Decreto nº 78.288, de 18 de agosto de 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

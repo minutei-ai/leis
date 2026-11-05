@@ -1,5 +1,3 @@
-###DEC-077984-0-000-07-07-1976@@@
-
 DECRETO Nº 77.984, DE 7 DE JULHO DE 1976.
 
 Autoriza a cessão sob a forma de utilização gratuita, do terreno que menciona, situado em Belém, Estado do Pará.

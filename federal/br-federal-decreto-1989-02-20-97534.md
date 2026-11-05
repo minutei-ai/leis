@@ -1,5 +1,3 @@
-###DEC-097534-0-000-20-02-1989@@@
-
 decRETO N° 97.534, DE 20 DE FEVEREIRO DE 1989
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO SOCIEDADE A VOZ DE  MANHUMIRIM  LTDA. para a FUNDAÇÃO BOM JESUS.

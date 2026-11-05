@@ -1,5 +1,3 @@
-###DEC-045954-0-000-30-04-1959@@@
-
 Decreto nº 45.954, De 30 de abril de 1959.
 
 Cria o Parque Nacional de Ubajara, Estado do Ceará.

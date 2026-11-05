@@ -1,5 +1,3 @@
-###DEC-070808-0-000-05-07-1972@@@
-
 DECRETO Nº 70.808, DE 5 DE JULHO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do domínio útil do terreno que menciona, no Estado do Rio de Janeiro.

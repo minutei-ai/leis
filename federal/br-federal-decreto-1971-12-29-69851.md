@@ -1,5 +1,3 @@
-###DEC-069851-0-000-29-12-1971@@@
-
 DECRETO Nº 69.851 - DE 29 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Jaraguá - Rianápolis, no Estado de Goiás.

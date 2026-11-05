@@ -1,5 +1,3 @@
-###DEC-084851-0-000-01-07-1980@@@
-
 Decreto nº 84.851, de 01 de julho de 1980.
 
 Declara de interesse social, para fins de desapropriação, o imóvel denominado INGÁ, situado no Município de Taipú, no Estado do Rio Grande do Norte, compreendido na área prioritária de reforma agrária, fixada pelo Decreto nº 84.850, de 01 de julho de 1980.

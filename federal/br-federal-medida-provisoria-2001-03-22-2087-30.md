@@ -1,5 +1,3 @@
-###MPV-002087-0-030-22-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.087-30, DE 22 DE MARÇO DE 2001
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

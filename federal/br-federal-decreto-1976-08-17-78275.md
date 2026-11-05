@@ -1,5 +1,3 @@
-###DEC-078275-0-000-17-08-1976@@@
-
 DECRETO Nº 78.275, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Educação Física, da Faculdade de Educação Física, com sede na cidade de Bagé, Estado do Rio Grande do Sul.

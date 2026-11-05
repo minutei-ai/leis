@@ -1,5 +1,3 @@
-###DEC-050620-0-000-18-05-1961@@@
-
 DECRETO Nº 50.620, DE 18 DE MAIO DE 1961.
 
 Proíbe o funcionamento das rinhas de “brigas de galos” e dá outras providências.

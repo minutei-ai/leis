@@ -1,5 +1,3 @@
-###MPV-000555-0-000-23-12-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 555, DE 23 DE DEZEMBRO DE 2011
 
 Altera a Lei nº 12.337, de 12 de novembro de 2010, para autorizar a prorrogação de contratos por tempo determinado firmados com fundamento na alínea "h" do inciso VI do caput art. 2º da Lei nº 8.745, de 9 de dezembro de 1993, autoriza a prorrogação do prazo de vigência do contrato de gestão firmado entre a União e a Associação de Comunicação Educativa Roquette Pinto - ACERP, e dá outras providências.

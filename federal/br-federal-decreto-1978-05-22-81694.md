@@ -1,5 +1,3 @@
-###DEC-081694-0-000-22-05-1978@@@
-
 Decreto nº 81.694, de 22 de maio de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Manaus, Estado do Amazonas.

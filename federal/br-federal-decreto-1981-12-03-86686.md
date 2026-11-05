@@ -1,5 +1,3 @@
-###DEC-086686-0-000-03-12-1981@@@
-
 Decreto nº 86.686, de 03 de dezembro de 1981
 
 Dispõe sobre o Quadro de Oficiais Especialistas da Aeronáutica (QOEA), e dá outras providências.

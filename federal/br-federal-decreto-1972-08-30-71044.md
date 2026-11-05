@@ -1,5 +1,3 @@
-###DEC-071044-0-000-30-08-1972@@@
-
 DECRETO N.º 71.044, DE 30 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação Física de Jaboticabal.

@@ -1,5 +1,3 @@
-###DEC-055970-0-000-20-04-1965@@@
-
 Decreto nº 55.970, DE 20 DE ABRIL DE 1965
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$ 397.246.024 ( trezentos e noventa e sete milhões duzentos e quarenta e seis mil e vinte e quatro cruzeiros), para atender as despesas que especifica.

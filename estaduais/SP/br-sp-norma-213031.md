@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213031)<br>
-
 # DECRETO N° 70.926, DE 14 DE OUTUBRO DE 2026
 
 ### _Regulamenta a Lei n° 18.068, de 18 de dezembro de 2024, que institui o Fundo Estadual de Proteção e Defesa Civil - FUNPDeC._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### Seção I<br>
+#### Seção I
+
 Disposições Gerais
 
 **Artigo 1° -** O Fundo Estadual de Proteção e Defesa Civil - FUNPDeC, instituído pela [Lei n° 18.068, de 18 de dezembro de 2024](https://www.al.sp.gov.br/norma/210399), fundo especial de despesa, com escrituração própria, tem por finalidade captar recursos e custear, no todo ou em parte, sem prejuízo das dotações consignadas no orçamento com o mesmo fim, as ações de defesa civil de que trata o artigo 1° da referida lei.
@@ -21,7 +20,8 @@ Disposições Gerais
 
 **§ 2° -** O orçamento do FUNPDeC integrará o orçamento da Casa Militar da Governadoria do Estado.
 
-#### Seção II<br>
+#### Seção II
+
 Do Conselho Gestor do FUNPDeC
 
 **Artigo 3° -** Caberá ao Conselho Gestor do FUNPDeC, órgão colegiado, integrante da estrutura da Casa Militar, exercer as atribuições previstas no artigo 3° da [Lei n° 18.068, de 18 de dezembro de 2024](https://www.al.sp.gov.br/norma/210399).
@@ -64,7 +64,8 @@ II - extraordinariamente, por convocação do seu Presidente, mediante comunica�
 
 **Parágrafo único -** As deliberações do Conselho serão tomadas por maioria simples de votos dos presentes na sessão, cabendo à Presidência o voto de qualidade em caso de empate.
 
-#### Seção III<br>
+#### Seção III
+
 Disposições Finais
 
 **Artigo 7° -** O Chefe da Casa Militar poderá editar normas complementares para execução deste decreto.

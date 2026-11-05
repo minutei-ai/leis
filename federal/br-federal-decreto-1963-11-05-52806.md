@@ -1,5 +1,3 @@
-###DEC-052806-0-000-05-11-1963@@@
-
 DECRETO Nº 52.806, DE 5 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Foad José Jorge a lavrar argila, no município de Iacanga, Estado de São Paulo.

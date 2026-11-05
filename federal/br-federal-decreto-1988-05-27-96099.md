@@ -1,5 +1,3 @@
-###DEC-096099-0-000-27-05-1988@@@
-
 DECRETO N° 96.099, DE 27 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “FAZENDA MURICIZAL, constituída pelos Lotes n°s 06 (parte), 07, 08, 09, 10 e 31 e FAZENDA RIOS LONTRA E ANDORINHA, constituída pelos Lotes n°s 02, 03, 14 (parte), 15 (parte) e 16 - 5ª Etapa”, classificados como “latifúndio por exploração”, situados no Município de Araguaína, Estado de Goiás, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

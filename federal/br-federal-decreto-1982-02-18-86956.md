@@ -1,5 +1,3 @@
-###DEC-086956-0-000-18-02-1982@@@
-
 Decreto nº 86.956, de 18 fevereiro de 1982
 
 Declara de interesse social para fins de desapropriação, os imóveis que especifica, situados no Município de Colider, Estado de Mato Grosso, e dá outras providências.

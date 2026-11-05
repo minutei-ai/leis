@@ -1,5 +1,3 @@
-###DEC-058636-0-000-15-06-1966@@@
-
 DECRETO Nº 58.636, DE 15 DE JUNHO DE 1966.
 
 Renova o Decreto nº 53.710, de 17 de março de 1964.

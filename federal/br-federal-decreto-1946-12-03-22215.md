@@ -1,12 +1,10 @@
-###DEC-022215-0-000-03-12-1946@@@
+**DECRETO Nº 22,215 DE 3 DE DEZEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22,215 DE 3 DE DEZEMBRO DE 1946.</strong>
+***Modifica a cláusula x das que baixaram com o Decreto nº 7,842, de 13 de setembro de 1941.***
 
-<em><strong>Modifica a cláusula x das que baixaram com o Decreto nº 7,842, de 13 de setembro de 1941.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº. I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº. I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. A Cláusula x das que baixaram com o Decreto nº 7,842, de 13 de setembro de 1941, passa a ter a seguinte redação:
 
@@ -22,6 +20,6 @@ Parágrafo único. durante o período de construção e antes da inauguração d
 
 Rio de Janeiro, 3 de dezembro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clóvis Pestana

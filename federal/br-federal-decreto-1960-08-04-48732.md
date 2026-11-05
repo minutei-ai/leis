@@ -1,5 +1,3 @@
-###DEC-048732-0-000-04-08-1960@@@
-
 DECRETO Nº 48.732, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a doação do terreno que menciona, situado no Município de Piritiba, Estado da Bahia.

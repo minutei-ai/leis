@@ -1,5 +1,3 @@
-###DEC-055615-0-000-21-01-1965@@@
-
 DECRETO Nº 55.615, DE 21 DE JANEIRO de 1965.
 
 Concede a Associação Nihon Kosaku Kikai Yuskutsu Shinkokai, autorização para funcionar no Brasil e aprova os seus estatutos.

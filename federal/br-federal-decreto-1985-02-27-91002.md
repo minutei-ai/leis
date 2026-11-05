@@ -1,5 +1,3 @@
-###DEC-091002-0-000-27-02-1985@@@
-
 Decreto nº 91.002, de 27 de fevereiro de 1985
 
 Cria o Quadro Complementar de Oficiais do Exército e dá outras providências.

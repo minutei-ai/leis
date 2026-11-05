@@ -1,5 +1,3 @@
-###DEC-071839-0-000-14-02-1973@@@
-
 Decreto nº 71.839, de 14 de fevereiro de 1973
 
 Concede autorização à empresa International Aero Service Corporation para, juntamente com a empresa brasileira Lasa Engenharia e Prospecções S.A., executar no território nacional aerolevantamento com a utilização de sensoriamento remoto, a serviço do Departamento Nacional de Produto Mineral.

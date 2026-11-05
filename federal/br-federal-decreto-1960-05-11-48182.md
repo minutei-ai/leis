@@ -1,5 +1,3 @@
-###DEC-048182-0-000-11-05-1960@@@
-
 DECRETO Nº 48.182, DE 11 DE MAIO DE 1960.
 
 Renova o decreto nº 42.773, de 9 de dezembro de 1957.

@@ -1,5 +1,3 @@
-###DEC-045464-0-000-25-02-1959@@@
-
 DECRETO Nº 45.464, DE 25 DE FEVEREIRO DE 1959.
 
 Dispõe sôbre a Tabela Numérica Especial de Extranumerário-mensalista da Inspetoria Geral da Aeronáutica.

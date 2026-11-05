@@ -1,5 +1,3 @@
-###DEC-003952-0-000-04-10-2001@@@
-
 DECRETO Nº 3.952, DE 4 DE OUTUBRO DE 2001
 
 Dispõe sobre o Conselho Nacional de Combate à Discriminação - CNCD.

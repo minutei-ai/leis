@@ -1,5 +1,3 @@
-###DEC-073251-0-000-04-12-1973@@@
-
 DECRETO Nº 73.251 - DE 4 DE DEZEMBRO DE 1973
 
 Concede reconhecimento aos cursos de Letras e de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras do Sagrado Coração de Jesus, mantida pelo Instituto das Apóstolas do Sagrado Coração de Jesus, com sede na cidade de Bauru, Estado de São Paulo.

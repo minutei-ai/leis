@@ -1,5 +1,3 @@
-###DEC-049134-0-000-21-10-1960@@@
-
 DECRETO Nº 49.134, DE 21 DE OUTUBRO DE 1960.
 
 Transfere para a embaixada do Brasil no Líbano a ação cumulativa com a Legação do Brasil na Jordânia.

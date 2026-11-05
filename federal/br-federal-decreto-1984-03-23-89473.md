@@ -1,5 +1,3 @@
-###DEC-089473-0-000-23-03-1984@@@
-
 Decreto nº 89.473, de 23 de março do 1984
 
 Vincula a Companhia Nacional de Álcalis, sociedade de economia mista federal, ao Ministério das Minas e Energia.

@@ -1,5 +1,3 @@
-###DEC-086712-0-000-09-12-1981@@@
-
 Decreto nº 86.712, de 09 de dezembro de 1981
 
 Autoriza o aumento de potência da RÁDIO CLUBE IMPERIAL LTDA., na cidade de Taquaritinga, Estado de São Paulo.

@@ -6,15 +6,16 @@ Institui o Dia Estadual de Combate ao Exercício Ilegal da Profissão de Correto
 
 Publicada no Diário Oficial nº 8.577, de 16 de dezembro de 2013, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica instituído o <i>Dia Estadual de Combate ao Exercício Ilegal da Profissão de Corretor de Imóveis</i>, a ser comemorado, anualmente, no dia 12 de maio.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica instituído o *Dia Estadual de Combate ao Exercício Ilegal da Profissão de Corretor de Imóveis*, a ser comemorado, anualmente, no dia 12 de maio.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 13 de dezembro de 2013.
 
-<br>
-ANDRÉ PUCCINELLI<br>
+ANDRÉ PUCCINELLI
+
 Governador do Estado

@@ -1,7 +1,3 @@
-1
-
-###DEL-002331-0-000-28-05-1987@@@
-
 # DECRETO-LEI Nº 2.331, DE 28 DE MAIO DE 1987
 
 Dispõe sobre a adoção de medidas de incentivo à arrecadação federal, e dá outras providências.

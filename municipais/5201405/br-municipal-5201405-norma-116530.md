@@ -12,5 +12,6 @@ Artigo 3° - Ato do Poder Executivo regulamentará esta Lei, no prazo de cento e
 
 Câmara Municipal de Aparecida de Goiânia, aos 17 dias do mês de Outubro de 2019.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Presidente da Câmara Municipal

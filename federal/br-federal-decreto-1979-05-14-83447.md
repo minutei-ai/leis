@@ -1,5 +1,3 @@
-###DEC-083447-0-000-14-05-1979@@@
-
 Decreto nº 83.447, de 14 maio de 1979.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Teófilo Ottoni, Estado de Minas Gerais.

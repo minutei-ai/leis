@@ -1,5 +1,3 @@
-###DEC-077509-0-000-29-04-1976@@@
-
 DECRETO nº 77.509 - DE 29 DE ABRIL DE 1976
 
 Altera o Decreto nº 75.238, de 16 de janeiro de 1975, que reconhece cursos da Faculdade de Ciências e Educação de Criciúma, Estado de Santa Catarina.

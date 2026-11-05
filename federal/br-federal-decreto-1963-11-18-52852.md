@@ -1,5 +1,3 @@
-###DEC-052852-0-000-18-11-1963@@@
-
 DECRETO Nº 52.852, DE 18 DE Novembro DE 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Centrais Elétricas do Pará S. A .

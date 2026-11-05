@@ -1,5 +1,3 @@
-###DEL-008868-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.868 – DE 24 DE JANEIRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 400.000,00, para a realização de um acôrdo de defesa sanitária animal com, o Estado do Ceará.

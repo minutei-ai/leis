@@ -1,5 +1,3 @@
-###DEC-002926-0-000-07-01-1999@@@
-
 DECRETO Nº 2.926, DE 7 DE JANEIRO DE 1999.
 
 Estabelece diretrizes para a exportação de petróleo e seus derivados, de gás natural e condensado, e dá outras providências.

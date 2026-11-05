@@ -1,5 +1,3 @@
-###DEC-007867-0-000-19-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.867, DE 19 DE DEZEMBRO DE 2012
 
 Aprova o Programa de Dispêndios Globais \- PDG para 2013 das empresas estatais federais, e dá outras providências.

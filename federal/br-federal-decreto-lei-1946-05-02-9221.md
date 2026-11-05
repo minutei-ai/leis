@@ -1,5 +1,3 @@
-###DEL-009221-0-000-02-05-1946@@@
-
 DECRETO-LEI N. 9.221– DE 2 DE MAIO DE 1946
 
 Cria o estandarte-distintivo para o Regimento Ipiranga.

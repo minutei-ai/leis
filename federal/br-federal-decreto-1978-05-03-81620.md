@@ -1,5 +1,3 @@
-###DEC-081620-0-000-03-05-1978@@@
-
 decreto nº 81.620, de 03 de maio de 1978.
 
 Complementa o regulamento do Decreto-lei nº 1.118, de 10 de agosto de 1970, que dispõe quanto à isenção do imposto único incidente sobre combustível consumido por embarcação de pesca.

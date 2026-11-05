@@ -1,5 +1,3 @@
-###DEC-081810-0-000-23-06-1978@@@
-
 Decreto nº 81.810, de 23 de junho de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Arapiraca, Estado de Alagoas.

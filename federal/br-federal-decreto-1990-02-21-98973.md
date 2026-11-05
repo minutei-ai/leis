@@ -1,7 +1,3 @@
-1
-
-###DEC-098973-0-000-21-02-1990@@@
-
 DECRETO Nº 98.973, DE 21 DE FEVEREIRO DE 1990
 
 Aprova o Regulamento do Transporte Ferroviário de Produtos Perigosos, e dá outras providências.

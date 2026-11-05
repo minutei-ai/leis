@@ -6,12 +6,14 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica o Poder Executivo autorizado a contratar, em nome do Estado da Bahia, junto ao Banco Interamericano de Desenvolvimento - BID, operação de crédito externo até o valor de US$ 409,000,000.00 (quatrocentos e nove milhões de dólares dos Estados Unidos da América), em apoio ao Programa de Consolidação do Equilíbrio Fiscal para o Desenvolvimento do Estado da Bahia - PROCONFIS, observadas as condições e as exigências dos órgãos federais encarregados da análise econômico-financeira para fins de operação de crédito e da concessão de garantia da União.
 
-Redação de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-11358-de-07-de-janeiro-de-2009#art1)º da Lei nº 11.358, de 07 de janeiro de 2009.<br>
+Redação de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-11358-de-07-de-janeiro-de-2009#art1)º da Lei nº 11.358, de 07 de janeiro de 2009.
+
 Redação original: "Art. 1º - Fica o Poder Executivo autorizado a contratar, em nome do Estado da Bahia, junto ao Banco Interamericano de Desenvolvimento ? BID, operação de crédito externo até o valor equivalente a US$ 409,000,000 (quatrocentos e nove milhões de dólares dos Estados Unidos da América), observadas as condições e as exigências dos órgãos Federais encarregados da análise econômico-financeira para fins de operação de crédito e da concessão de garantia da União."
 
 Parágrafo único - Os recursos resultantes da operação de crédito autorizada neste artigo serão aplicados nas ações prioritárias de investimento constantes do Plano Plurianual de Aplicações - PPA do Estado.
 
-Redação de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-11358-de-07-de-janeiro-de-2009#art1)º da Lei nº 11.358, de 07 de janeiro de 2009.<br>
+Redação de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-11358-de-07-de-janeiro-de-2009#art1)º da Lei nº 11.358, de 07 de janeiro de 2009.
+
 Redação original: "Parágrafo único - Os recursos resultantes da operação de crédito autorizada neste artigo, destinam-se à reestruturação da dívida pública estadual em apoio ao Programa de Consolidação do Equilíbrio Fiscal para o Desenvolvimento do Estado da Bahia ? PROCONFIS."
 
 Art. 2º - Fica, ainda, o Poder Executivo autorizado a promover as modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei.

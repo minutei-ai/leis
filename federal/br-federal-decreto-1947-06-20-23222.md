@@ -1,20 +1,18 @@
-###DEC-023222-0-000-20-06-1947@@@
+**decreto nº 23.222, de 20 de junho de 1947.**
 
-<strong>decreto nº 23.222, de 20 de junho de 1947.</strong>
+***Outorgada concessão à Companhia Fabril Mascarenhas para o aproveitamento progressivo da energia hidráulica da cachoeira do Funil, situada no rio do Peixe entre os municípios de Dom Silvério e Ponte Nova, Estado de Minas Gerais.***
 
-<em><strong>Outorgada concessão à Companhia Fabril Mascarenhas para o aproveitamento progressivo da energia hidráulica da cachoeira do Funil, situada no rio do Peixe entre os municípios de Dom Silvério e Ponte Nova, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934,
+**decreta:**
 
-<strong>decreta:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia Fabril Mascarenhas concessão para o aproveitamento progressivo de energia hidráulica da cachoeira do Funil, situada no rio do Peixe, entre os distritos de sede e Sem Peixe, do município de Dom Silvério, e o distrito de Rio Doce do município de Fonte Nova, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia Fabril Mascarenhas concessão para o aproveitamento progressivo de energia hidráulica da cachoeira do Funil, situada no rio do Peixe, entre os distritos de sede e Sem Peixe, do município de Dom Silvério, e o distrito de Rio Doce do município de Fonte Nova, Estado de Minas Gerais.
 
 § 1º O aproveitamento destina-se à produção, transmissão, transformação e distribuição de energia elétrica, para serviços públicos, para serviços de utilidade pública e para comércio de energia na cidade de Alvinópolis.
 
 § 2º Em portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda, a descarga e a potência a aproveitar na etapa inicial e na final.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
 
 I - Registrá-la na Divisão de Águas dentro de trinta (30) dias, após a sua publicação.
 
@@ -64,34 +62,34 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas do Departamento Nacional da Produção Mineral e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas do Departamento Nacional da Produção Mineral e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º À concessionária é assegurada, durante a vigência da presente concessão e respeitados os direitos de outrem anteriormente adquiridos, a autorização de fazer o comércio de energia elétrica na zona discriminada no § 1º do art. 1.
+**Art**. 6º À concessionária é assegurada, durante a vigência da presente concessão e respeitados os direitos de outrem anteriormente adquiridos, a autorização de fazer o comércio de energia elétrica na zona discriminada no § 1º do art. 1.
 
-<strong>Art</strong>. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 8º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária, em função da indústria, concorrendo, de forma permanente, para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art**. 8º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária, em função da indústria, concorrendo, de forma permanente, para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 9º Para a manutenção da integridade do capital a que se refere o art. 8º do presente Decreto, será criado um fundo especial de reserva, que proverá às renovações determinadas pela depreciação ou impostas por acidentes.
+**Art**. 9º Para a manutenção da integridade do capital a que se refere o art. 8º do presente Decreto, será criado um fundo especial de reserva, que proverá às renovações determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único - A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por cotas especiais que indicarão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas conforme a duração média do material a cuja renovação dita reserva tiver de atende, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 10. Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 9º dêste Decreto.
+**Art**. 10. Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 9º dêste Decreto.
 
 § 1º Se o Estado de Minas Gerais não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da Divisão do Estado de Minas Gerais e a entrar com o requerimento de prorrogação da Concessão ou de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 11. A concessionária gozará, desde a data do registro de que trata o art. 5º e enquanto esta concessão dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 11. A concessionária gozará, desde a data do registro de que trata o art. 5º e enquanto esta concessão dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 12. O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 12. O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 20 de junho de 1947, 126º da Independência e 59º da República.
 
-<strong>eurico g. dutra</strong>
+**eurico g. dutra**
 
 Daniel de Carvalho

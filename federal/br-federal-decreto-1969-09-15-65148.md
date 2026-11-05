@@ -1,5 +1,3 @@
-###DEC-065148-0-000-15-09-1969@@@
-
 DECRETO Nº 65.148 - DE 15 DE SETEMBRO DE 1969.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Comercial e Agrícola Piravevê Ltda.

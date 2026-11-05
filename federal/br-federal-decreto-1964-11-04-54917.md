@@ -1,5 +1,3 @@
-###DEC-054917-0-000-04-11-1964@@@
-
 DECRETO Nº 54.917, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Gobbo Sobrinho a lavar calcário, no município de Taguaí, Estado de São Paulo.

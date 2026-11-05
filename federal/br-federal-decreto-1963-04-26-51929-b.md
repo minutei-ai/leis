@@ -1,5 +1,3 @@
-###DEC-051929-B-000-26-04-1963@@@
-
 DECRETO Nº 51.929-B, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão português Octávio Gonçalves Laranjeira, a comprar pedras preciosas.

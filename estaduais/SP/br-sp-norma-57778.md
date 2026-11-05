@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57778)
-
 # LEI Nº 12.050, DE 21 DE SETEMBRO DE 2005
 
 ## ( PL 399/2004 - Governador)

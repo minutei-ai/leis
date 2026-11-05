@@ -1,5 +1,3 @@
-###DEL-006117-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.117 – DE 16 DE DEZEMBRO DE 1943
 
 Regula a fundação dos Núcleos Coloniais a dá outras providências

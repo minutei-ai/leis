@@ -1,5 +1,3 @@
-###DEC-055526-0-000-11-01-1965@@@
-
 DECRETO Nº 55.526, de 11 de janeiro de 1965.
 
 Autoriza Itapessoca Agroindustrial S.A. a pesquisar gipsita no município de Ipubi, Estado de Pernambuco.

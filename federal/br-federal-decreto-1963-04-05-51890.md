@@ -1,5 +1,3 @@
-###DEC-051890-0-000-05-04-1963@@@
-
 DECRETO Nº 51.890, DE 5 DE ABRIL DE 1963.
 
 Aprova o Regimento da Secretaria Executiva das Comissões e Conselhos (SECC), prevista no artigo 133 do Regulamento do Ministério da Agricultura, aprovado pelo Decreto 51.701, de 11 de fevereiro de 1963.

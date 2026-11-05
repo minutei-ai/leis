@@ -1,5 +1,3 @@
-###DEL-008345-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.345 – DE 10 DE DEZEMBRO DE 1945
 
 Dispõe sôbre habilitação para exercício profissional

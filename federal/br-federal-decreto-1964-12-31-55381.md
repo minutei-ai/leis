@@ -1,5 +1,3 @@
-###DEC-055381-0-000-31-12-1964@@@
-
 decreto nº 55.381, de 31 de dezembro de 1964.
 
 Concede à Mineração São Luiz Comércio e Indústria S.A. autorização para funcionar como emprêsa de mineração.

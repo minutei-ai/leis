@@ -1,5 +1,3 @@
-###DEC-003219-0-000-22-10-1999@@@
-
 DECRETO Nº 3.219, DE 22 DE OUTUBRO DE 1999.
 
 Altera o Programa de Dispêndios Globais - PDG das empresas estatais federais para 1999, aprovado pelo Decreto nº 2.912, de 29 de dezembro de 1998.

@@ -1,5 +1,3 @@
-###DEC-081164-0-000-02-01-1978@@@
-
 Decreto nº 81.164, de 02 de janeiro de 1978.
 
 Concede à Mineração Condado Ltda. o direito de lavrar turmalina, berilo e muscovita no Município de Quixeramobim, Estado do Ceará.

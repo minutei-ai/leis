@@ -1,5 +1,3 @@
-###DEL-003768-0-000-28-10-1941@@@
-
 DECRETO-LEI N. 3.768 – DE 28 DE OUTUBRO DE 1941
 
 Dispõe sobre a aposentadoria do pessoal extranumerário da União e dá outras providências

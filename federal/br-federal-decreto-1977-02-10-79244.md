@@ -1,5 +1,3 @@
-###DEC-079244-0-000-10-02-1977@@@
-
 DECRETO Nº 79.244, DE 10 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Letras, ministrado pela Universidade Federal do Rio Grande do Sul.

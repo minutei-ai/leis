@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208714)<br>
-
 # DECRETO N° 68.039, DE 26 DE OUTUBRO DE 2023
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Caieiras, que declarou Situação de Emergência em áreas do Município._

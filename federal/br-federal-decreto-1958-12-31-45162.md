@@ -1,5 +1,3 @@
-###DEC-045162-0-000-31-12-1958@@@
-
 DECRETO Nº 45.162, DE 31 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Antônio de Almeida Martins a pesquisar pedras coradas e quartzo no município de Teófilo Otoni, Estado de Minas Gerais.

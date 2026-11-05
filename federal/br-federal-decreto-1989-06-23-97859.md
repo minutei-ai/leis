@@ -1,7 +1,3 @@
-1
-
-###DEC-097859-0-000-23-06-1989@@@
-
 DECRETO Nº 97.859, DE 23 DE JUNHO DE 1989
 
 Extingue a Divisão de Segurança e Informações do Ministério das Relações Exteriores.

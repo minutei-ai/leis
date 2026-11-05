@@ -1,5 +1,3 @@
-###DEC-001894-0-000-03-05-1996@@@
-
 DECRETO Nº 1.894, DE 3 DE MAIO DE 1996.
 
 Fixa, para o período de 1° de maio de 1996 a 30 de abril de 1997, o limite para as importações realizadas pelas empresas comerciais da Zona Franca de Manaus, beneficiadas com os incentivos de que trata o Decreto-lei n° 288, de 28 de fevereiro de 1967, bem assim os aplicáveis às Áreas de Livre Comércio.
@@ -24,7 +22,33 @@ Art. 2° É fixado em US$ 62,500,000.00 (sessenta e dois milhões e quinhentos m
 
 § 1° A distribuição do limite de importações de que trata o caput desse artigo, pelas Áreas de Livre Comércio, será a seguinte:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:56.7pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Macapá/Santana (ALCMS)</span></p></td><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">US$ 35 milhões</span></p></td></tr><tr><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Guajará-Mirim (ALCGM)</span></p></td><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">US$ 24 milhões</span></p></td></tr><tr><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Tabatinga (ALCT)</span></p></td><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">US$ 700 mil</span></p></td></tr><tr><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Brasiléia/Epitaciolândia (ALCBE)</span></p></td><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">US$ 700 mil</span></p></td></tr><tr><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Cruzeiro do Sul</span></p></td><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">US$ 700 mil</span></p></td></tr><tr><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Pacaraima (ALCP)</span></p></td><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">US$ 700 mil</span></p></td></tr><tr><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">- Bonfim (ALCB)</span></p></td><td style="width:179pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">US$ 700 mil</span></p></td></tr></tbody></table>
+- Macapá/Santana (ALCMS)
+
+US$ 35 milhões
+
+- Guajará-Mirim (ALCGM)
+
+US$ 24 milhões
+
+- Tabatinga (ALCT)
+
+US$ 700 mil
+
+- Brasiléia/Epitaciolândia (ALCBE)
+
+US$ 700 mil
+
+- Cruzeiro do Sul
+
+US$ 700 mil
+
+- Pacaraima (ALCP)
+
+US$ 700 mil
+
+- Bonfim (ALCB)
+
+US$ 700 mil
 
 § 2° Os limites individuais de importação das empresas em operação em cada uma das Áreas de Livre Comércio serão proporcionais à participação de cada empresa no total das importações contingenciadas, realizadas pelo conjunto das empresas comerciais em operação na respectiva Área de Livre Comércio, no período de 1° de maio de 1995 a 30 de abril de 1996.
 

@@ -1,5 +1,3 @@
-###DEC-002834-0-000-30-10-1998@@@
-
 DECRETO Nº 2.834, DE 30 DE OUTUBRO DE 1998
 
 Dá nova redação ao art. 5º do Decreto nº 2.773, de 8 de setembro de 1998.

@@ -1,5 +1,3 @@
-###DEC-089020-0-000-21-11-1983@@@
-
 DECRETO Nº 89.020, DE 21 DE NOVEMBRO DE 1983
 
 Outorga concessão à RÁDIO DIVINÓPOLIS LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Divinópolis, Estado de Minas Gerais.

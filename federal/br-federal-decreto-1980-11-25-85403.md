@@ -1,5 +1,3 @@
-###DEC-085403-0-000-25-11-1980@@@
-
 Decreto nº 85.403, de 25 de novembro de 1980.
 
 Institui o Programa de Combate à Peste Suína e dá outras providências.

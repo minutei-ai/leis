@@ -1,5 +1,3 @@
-###DEC-066624-0-000-22-05-1970@@@
-
 DECRETO Nº 66.624, DE 22 DE MAIO DE 1970.
 
 Dispõe sôbre a Fundação Instituto Oswaldo Cruz.

@@ -1,5 +1,3 @@
-###DEC-055921-0-000-13-04-1965@@@
-
 DECRETO Nº 55.921, DE 13 DE ABRIL DE 1965.
 
 Concede à sociedade The Bank Of Tokyo Ltd. autorização para aumenta o seu capital no País.

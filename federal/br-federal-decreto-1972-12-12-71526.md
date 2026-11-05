@@ -1,5 +1,3 @@
-###DEC-071526-0-000-12-12-1972@@@
-
 DECRETO Nº 71.526 - de 12 de dezembro de 1972
 
 Concede reconhecimento da Faculdade de Ciências Econômicas e Contábeis de Sant'Ana do Livramento.

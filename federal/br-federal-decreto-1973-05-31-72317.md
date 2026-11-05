@@ -1,5 +1,3 @@
-###DEC-072317-0-000-31-05-1973@@@
-
 DECRETO Nº 72.317, DE 31 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão no Estado de São Paulo.

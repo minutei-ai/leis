@@ -1,5 +1,3 @@
-###DEC-093081-0-000-07-08-1986@@@
-
 DECRETO Nº 93.081, DE 07 DE AGOSTO DE 1986
 
 Declara de utilidade pública as instituições que menciona.

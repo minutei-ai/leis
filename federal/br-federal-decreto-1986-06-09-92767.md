@@ -1,5 +1,3 @@
-###DEC-092767-0-000-09-06-1986@@@
-
 DECRETO Nº 92.767, DE 9 DE JUNHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro SIA - PETROBRÁS - os imóveis constituídos de terras, acessões e benfeitorias que menciona, e dá outras providências.

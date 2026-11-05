@@ -1,5 +1,3 @@
-###DEC-086936-0-000-17-02-1982@@@
-
 DECRETO nº 86.936, de 17 de fevereiro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO EDUCADORA DO BRASIL S/A, atualmente denominada RÁDIO TAMOIO S/A., autoriza a transferência direta para a TELEVISÃO VERDES MARES LTDA., que passará a executar serviço de radiodifusão sonora em ondas curtas, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

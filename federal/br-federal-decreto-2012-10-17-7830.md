@@ -1,5 +1,3 @@
-###DEC-007830-0-000-17-10-2012-PUB-01@@@
-
 DECRETO Nº 7.830, DE 17 DE OUTUBRO DE 2012
 
 Dispõe sobre o Sistema de Cadastro Ambiental Rural, o Cadastro Ambiental Rural, estabelece normas de caráter geral aos Programas de Regularização Ambiental, de que trata a Lei nº 12.651, de 25 de maio de 2012, e dá outras providências.

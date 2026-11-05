@@ -1,5 +1,3 @@
-###DEC-001336-0-000-09-12-1994@@@
-
 DECRETO Nº 1.336, DE 9 DE DEZEMBRO 1994
 
 Acrescenta parágrafo único ao art. 1º do Decreto nº 1.250, de 21 de setembro de 1994, que prorrogou o prazo previsto no art. 71 da Medida Provisória nº 596, de agosto de 1994.

@@ -1,5 +1,3 @@
-###DEC-050989-0-000-18-07-1961@@@
-
 DECRETO Nº 50.989, DE 18 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado da Bahia, as águas do rio Jacurici.

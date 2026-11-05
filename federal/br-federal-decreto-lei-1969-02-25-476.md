@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/61cb0f59-4fd3-4386-976b-f909cc2f0c26/texto#nowhere)
 
-###DEL-000476-0-000-25-02-1969@@@
-
 DECRETO-LEI Nº 476, DE 25 DE fevereiro de 1969
 
 Regula a produção a circulação da uva e dos vinhos, bem como dos seus derivados, e dá outras providências.

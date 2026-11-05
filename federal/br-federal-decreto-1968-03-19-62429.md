@@ -1,5 +1,3 @@
-###DEC-062429-0-000-19-03-1968@@@
-
 DECRETO Nº 62.429, DE 19 DE MARÇO DE 1968.
 
 Declara caduco o Decreto nº 39.797, de 16 de agôsto de 1956.

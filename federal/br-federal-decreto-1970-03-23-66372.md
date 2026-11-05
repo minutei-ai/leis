@@ -1,5 +1,3 @@
-###DEC-066372-0-000-23-03-1970@@@
-
 decreto nº 66.372 - de 23 de março de 1970
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargo originário do extinto Serviço de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

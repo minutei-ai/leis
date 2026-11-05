@@ -1,5 +1,3 @@
-###DEC-007448-0-000-03-03-2011-PUB-01@@@
-
 DECRETO Nº 7.448, DE 3 DE MARÇO DE 2011
 
 Dá nova redação aos arts. 1º e 4º do Decreto nº 5.274, de 18 de novembro de 2004, que institui o Programa de Qualificação de Docente e Ensino de Língua Portuguesa no Timor- Leste.

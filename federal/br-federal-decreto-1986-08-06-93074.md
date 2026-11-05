@@ -1,5 +1,3 @@
-###DEC-093074-0-000-06-08-1986@@@
-
 DECRETO Nº 93.074, DE 06 DE AGOSTO DE 1986
 
 Homologa a demarcação da terra indígena que menciona, no Estado de Rondônia.

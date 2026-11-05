@@ -1,5 +1,3 @@
-###DEC-062028-0-000-29-12-1967@@@
-
 DECRETO Nº 62.028, DE 29 DE DEZEMBRO DE 1967.
 
 Altera o Decreto nº 53.562, de 19 de fevereiro de 1964, que inclui na Parte Especial, nos Quadro de Pessoal do Conselho Nacional de Estatística e da Escola Nacional de Ciências Estatísticas, do Instituto Brasileiro de Geografia e Estatística, o pessoal abrangido pelas Leis ns. 3.967, de 5 de outubro de 1961, e 4.069, de 11 de junho de 1962, e dá outras providências.

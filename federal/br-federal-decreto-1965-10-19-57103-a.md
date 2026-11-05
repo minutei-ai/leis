@@ -1,5 +1,3 @@
-###DEC-057103-A-000-19-10-1965@@@
-
 Decreto nº 57.103-A, de 19 de outubro de 1965.
 
 Declara de utilidade pública a Real Sociedade Espanhola de Beneficência, com sede em Salvador, Estado da Bahia.

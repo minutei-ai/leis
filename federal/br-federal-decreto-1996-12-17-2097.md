@@ -1,7 +1,3 @@
-1
-
-###DEC-002097-0-000-17-12-1996@@@
-
 DECRETO Nº 2.097, DE 17 DE DEZEMBRO DE 1996.
 
 Promulga o Acordo sobre Cooperação no Setor de Turismo, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Turquia, em Brasília, em 10 de abril de 1995.

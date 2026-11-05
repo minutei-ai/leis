@@ -1,5 +1,3 @@
-###DEL-000693-0-000-22-07-1969@@@
-
 DECRETO-LEI Nº 693, DE 22 DE JULHO DE 1969
 
 Aprova as modificações, por troca de notas, introduzidas no Acôrdo de Comércio e Pagamentos, assinado em 19 de março de 1960, entre o Govêrno da República Federativa do Brasil e o Govêrno da República Popular da Polônia.

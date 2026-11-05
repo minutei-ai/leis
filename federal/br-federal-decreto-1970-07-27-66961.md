@@ -1,5 +1,3 @@
-###DEC-066961-0-000-27-07-1970@@@
-
 DECRETO Nº 66.961, DE 27 DE JULHO DE 1970.
 
 Retifica os Decretos números 64.126, de 19 de fevereiro de 1969 e 65.583 de 21 de outubro de 1969, e dá outras providências.

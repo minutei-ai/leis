@@ -1,5 +1,3 @@
-###DEC-049110-0-000-13-10-1960@@@
-
 Decreto nº 49.110, de 13 de outubro de 1960.
 
 Transfere função da Tabela Numérica Especial de Extraordinário-mensalista da Base Aérea de Recife para a Diretoria de Aeronáutica Civil.

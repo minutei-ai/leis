@@ -1,5 +1,3 @@
-###DEC-059426-0-000-27-10-1966@@@
-
 Decreto nº 59.426, de 27 de outubro de 1966
 
 Abre ao Estado Maior das Fôrças Armadas, o crédito especial de Cr$95.000.000, para atender a despesas de custeio e Investimentos, realizados no exercício de 1965.

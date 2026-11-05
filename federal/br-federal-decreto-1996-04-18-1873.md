@@ -1,5 +1,3 @@
-###DEC-001873-0-000-18-04-1996@@@
-
 DECRETO Nº 1.873, DE 18 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo de Alcance Parcial de "Renegociação das concessões outorgadas no período 1962/1980" Nº 11, entre Brasil e Equador, de 1º de dezembro de 1995.

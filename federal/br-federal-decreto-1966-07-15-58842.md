@@ -1,5 +1,3 @@
-###DEC-058842-0-000-15-07-1966@@@
-
 DECRETO Nº 58.842, DE 15 DE JULHO DE 1966.
 
 Retifica o Decreto nº 51.866, de 26 de março de 1963, e dá outras providências.

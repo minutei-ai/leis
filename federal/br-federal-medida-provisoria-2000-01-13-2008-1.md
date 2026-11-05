@@ -1,5 +1,3 @@
-###MPV-002008-0-001-13-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.008-1, de 13 de janeiro de 2000.
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamento, e dá outras providências.

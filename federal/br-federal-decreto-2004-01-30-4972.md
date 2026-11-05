@@ -1,5 +1,3 @@
-###DEC-004972-0-000-30-01-2004@@@
-
 DECRETO Nº 4.972,  DE 30 DE JANEIRO DE 2004.
 
 Dispõe sobre a execução da Ata de Retificação, de 13 de outubro de 2003, do Acordo de Complementação Econômica no 55, entre os Governos da República Argentina, República Federativa do Brasil, República do Paraguai e República Oriental do Uruguai e dos Estados Unidos Mexicanos, de 27 de setembro de 2002.

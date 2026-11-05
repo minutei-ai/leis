@@ -1,5 +1,3 @@
-###DEC-050338-0-000-14-03-1961@@@
-
 DECRETO Nº 50.338, DE 14 DE MARÇO DE 1961.
 
 Dispõe sôbre anuidades escolares.

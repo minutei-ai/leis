@@ -1,5 +1,3 @@
-###MPV-000593-0-000-05-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº\- 593, DE 5 DE DEZEMBRO DE 2012
 
 Altera a Lei nº 12.513, de 26 de outubro de 2011, que institui o Programa Nacional de Acesso ao Ensino Técnico e Emprego - Pronatec, para ampliar o rol de beneficiários e ofertantes da Bolsa-Formação Estudante; e dá outras providências.

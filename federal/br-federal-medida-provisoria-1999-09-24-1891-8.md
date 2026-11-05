@@ -1,5 +1,3 @@
-###MPV-001891-0-008-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.891-8, DE 24 DE SETEMBRO DE 1999.
 
 Estabelece critérios para a consolidação, assunção e refinanciamento, pela União, da divida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

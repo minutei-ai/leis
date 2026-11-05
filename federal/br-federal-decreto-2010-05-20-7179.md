@@ -1,5 +1,3 @@
-###DEC-007179-0-000-20-05-2010@@@
-
 DECRETO Nº 7.179, DE 20 DE MAIO DE 2010.
 
 Institui o Plano Integrado de Enfrentamento ao Crack e outras Drogas, cria o seu Comitê Gestor, e dá outras providências.

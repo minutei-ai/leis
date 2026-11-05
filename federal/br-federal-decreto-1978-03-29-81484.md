@@ -1,5 +1,3 @@
-###DEC-081484-0-000-29-03-1978@@@
-
 Decreto nº 81.484, de 29 de março de 1978.
 
 Concede à Duarte & Cia Ltda. o direito de lavrar água mineral hipotermal no Município de Custódia, Estado de Pernambuco.

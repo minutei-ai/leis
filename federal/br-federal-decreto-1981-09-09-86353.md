@@ -1,5 +1,3 @@
-###DEC-086353-0-000-09-09-1981@@@
-
 Decreto nº 86.353, de 09 dE setembro de 1981.
 
 Autoriza a transferência, à FUNDAÇÃO CULTURAL DE ARATIBA, de concessão para serviço de radiodifusão sonora na cidade de Aratiba (RS).

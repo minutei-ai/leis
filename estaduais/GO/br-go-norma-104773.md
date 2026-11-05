@@ -1,4 +1,5 @@
-DECRETO Nº 10.023, DE 12 DE JANEIRO DE 2022<br>
+DECRETO Nº 10.023, DE 12 DE JANEIRO DE 2022
+
 \- [Revogado pelo DECRETO Nº 10.623, DE 10 DE JANEIRO DE 2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110376).
 
 Vide [Decreto nº 10.122](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105976/decreto-10122), de 28-07-2022 - Reajusta o valor do Programa Bolsa Estudo.
@@ -11,7 +12,8 @@ Vide [Decreto nº 10.122](https://legisla.casacivil.go.gov.br/pesquisa_legislaca
 
 ~~Art. 1º Este Decreto regulamenta, no âmbito do Poder Executivo estadual, a [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495/lei-21162), de 16 de novembro de 2021, que institui o Programa Bolsa Estudo no âmbito da Secretaria de Estado da Educação, o qual objetiva incentivar a aprendizagem e a permanência dos estudantes em sala de aula, também atenuar os efeitos econômicos adversos da pandemia da Covid-19, mediante transferência de renda.~~
 
-~~Art. 2º Fica implantada, nos termos da [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495/lei-21162), de 2021, a transferência de renda mediante o Programa Bolsa Estudo, com o valor mensal de R$ 100,00 (cem reais), exclusivamente nos meses de dezembro de 2021, também fevereiro a junho e agosto a dezembro de 2022 e 2023 aos alunos do ensino médio da rede pública do Estado de Goiás.~~<br>
+~~Art. 2º Fica implantada, nos termos da [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495/lei-21162), de 2021, a transferência de renda mediante o Programa Bolsa Estudo, com o valor mensal de R$ 100,00 (cem reais), exclusivamente nos meses de dezembro de 2021, também fevereiro a junho e agosto a dezembro de 2022 e 2023 aos alunos do ensino médio da rede pública do Estado de Goiás.~~
+
 ~~\- [Vide Decreto nº 10.122](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105976/decreto-10122), de 28-07-2022 (Reajusta, exclusivamente de Agosto a Dezezembro de 2022, o valor mencionado neste artigo para R$ 111,92)~~
 
 ~~Parágrafo único. O repasse do valor do Programa Bolsa Estudo será operacionalizado por intermédio do sistema bancário e conforme dispuser a Secretaria de Estado da Educação em portaria.~~

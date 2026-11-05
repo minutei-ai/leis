@@ -1,5 +1,3 @@
-###DEC-085367-0-000-17-11-1980@@@
-
 Decreto nº 85.367, de 17 de novembro de 1980.
 
 Determina a aplicação nos Territórios Federais, do Regulamento do ICM, vigorante no Distrito Federal.

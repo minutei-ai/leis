@@ -1,5 +1,3 @@
-###DEC-084993-0-000-05-08-1980@@@
-
 Decreto nº 84.993, de 05 de agosto de 1980.
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação do Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior e dá outras providências.

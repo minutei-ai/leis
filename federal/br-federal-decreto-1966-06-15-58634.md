@@ -1,5 +1,3 @@
-###DEC-058634-0-000-15-06-1966@@@
-
 DECRETO Nº 58.634, DE 15 DE JULHO DE 1966.
 
 Transfere da Companhia de Eletrificação Centro Norte para a Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica.

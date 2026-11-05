@@ -1,5 +1,3 @@
-###DEC-066984-0-000-29-07-1970@@@
-
 DECRETO Nº 66.984, DE 29 DE JULHO DE 1970.
 
 Concede autorização a pessoa jurídica, com capital majoritário alienígena, para adquirir terras que menciona.

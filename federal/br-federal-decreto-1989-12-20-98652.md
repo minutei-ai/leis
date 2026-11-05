@@ -1,7 +1,3 @@
-1
-
-###DEC-098652-0-000-20-12-1989@@@
-
 DECRETO Nº 98.652 DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão a São Paulo Enlaces Ltda., para explorar serviço especial de televisão por assinatura - TVA, na região metropolitana de Porto Alegre, Estado do Rio Grande do Sul.

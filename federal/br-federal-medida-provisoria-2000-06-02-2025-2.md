@@ -1,5 +1,3 @@
-###MPV-002025-0-002-02-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.025-2, DE 2 DE junhO DE 2000.
 
 Institui o Vale-Pedágio obrigatório sobre transporte rodoviário de carga e dá outras providências.

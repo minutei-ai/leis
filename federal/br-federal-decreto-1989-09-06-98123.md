@@ -1,7 +1,3 @@
-1
-
-###DEC-098123-0-000-06-09-1989@@@
-
 DECRETO N° 98.123, DE 6 DE SETEMBRO DE 1989
 
 Cria a Zona de Processamento de Exportação de Araguaina, no Estado do Tocantins.

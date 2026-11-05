@@ -1,5 +1,3 @@
-###DEC-064330-0-000-09-04-1969@@@
-
 DECRETO Nº 64.330, DE 9 DE ABRIL DE 1969.
 
 Rescinde cessão e autoriza o Ministério da Fazenda a utilizar imóvel que menciona.

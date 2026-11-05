@@ -1,5 +1,3 @@
-###DEL-006793-0-000-15-08-1944@@@
-
 DECRETO-LEI N. 6.793 – DE 15 DE AGÔSTO DE 1944
 
 Altera o efetivo de praças do Corpo de Bombeiros do Distrito Federal e dá outras providências

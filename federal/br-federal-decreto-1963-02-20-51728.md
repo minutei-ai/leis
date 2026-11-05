@@ -1,5 +1,3 @@
-###DEC-051728-0-000-20-02-1963@@@
-
 DECRETO Nº 51.728, DE 20 DE FEVEREIRO DE 1963.
 
 Autoriza o Departamento dos Correios e Telégrafos a adquirir independentemente de concorrência terreno em São Paulo, de propriedade da Rêde Ferroviária Federal S. A.

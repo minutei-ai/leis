@@ -1,5 +1,3 @@
-###DEC-003413-0-000-14-04-2000@@@
-
 DECRETO Nº 3.413, DE 14 ABRIL DE 2000.
 
 Promulga a Convenção sobre os Aspectos Civis do Seqüestro Internacional de Crianças, concluída na cidade de Haia, em 25 de outubro de 1980.

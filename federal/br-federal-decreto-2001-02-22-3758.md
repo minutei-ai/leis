@@ -1,5 +1,3 @@
-###DEC-003758-0-000-22-02-2001@@@
-
 DECRETO Nº 3.758, DE 22 DE FEVEREIRO DE 2001
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Cooperativista da Guiana sobre o Exercício de Atividades Remuneradas por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico, celebrado em Brasília, em 20 de maio de 1999.

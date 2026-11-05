@@ -1,5 +1,3 @@
-###DEC-070556-0-000-17-05-1972@@@
-
 DECRETO Nº 70.556, DE 17 DE MAIO DE 1972.
 
 Redistribui cargo, com o respectivo ocupante do Quadro de Pessoal Extinto da Fundação Brasil - Central para o Quadro de Pessoal das Secretarias do Ministério Público Federal e dá outras providências.

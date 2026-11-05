@@ -1,5 +1,3 @@
-###DEL-005697-0-000-22-07-1943@@@
-
 DECRETO‑LEI N. 5.697 – DE 22 DE JULHO DE 1943
 
 Dispõe sôbre as bases da organização do serviço social em todo o país a que se refere o decreto‑lei n. 525, de 1 de julho de 1938

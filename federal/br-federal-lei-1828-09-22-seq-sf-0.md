@@ -1,5 +1,3 @@
-###LEI-000000-0-000-22-09-1828@@@
-
 LEI - DE 22 DE SETEMBRO DE 1828
 
 Extingue os Tribunaes das Mesas do Desembargador do Paço e da Consciencia e Ordens e regula a expedição dos negocios que lhes pertenciam e ficam subsistindo.

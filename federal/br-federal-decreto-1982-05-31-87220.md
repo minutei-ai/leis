@@ -1,5 +1,3 @@
-###DEC-087220-0-000-31-05-1982@@@
-
 Decreto nº 87.220, de 31 de maio de 1982
 
 Autoriza o aumento do Capital Social da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-050457-0-000-14-04-1961@@@
-
 DECRETO Nº 50.457, DE 14 DE ABRIL DE 1961.
 
 Concede à Librairie Hachette S.A. do Brasil autorização para continuar a funcionar na República.

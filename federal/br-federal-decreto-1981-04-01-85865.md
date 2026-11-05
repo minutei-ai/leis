@@ -1,5 +1,3 @@
-###DEC-085865-0-000-01-04-1981@@@
-
 DECRETO Nº 85.865, DE 1º DE ABRIL DE 1981.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil, com benfeitorias, dos terrenos que menciona, situados no Município de Belém, no Estado do Pará.

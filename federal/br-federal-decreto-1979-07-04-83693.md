@@ -1,5 +1,3 @@
-###DEC-083693-0-000-04-07-1979@@@
-
 Decreto nº 83.693, de 4 de julho de 1979.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Benjamin Constant, Estado do Amazonas.

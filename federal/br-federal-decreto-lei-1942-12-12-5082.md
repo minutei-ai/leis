@@ -1,5 +1,3 @@
-###DEL-005082-0-000-12-12-1942@@@
-
 DECRETO-LEI N. 5.082 – DE 12 de SETEMBRO DE 1942
 
 Altera o Quadro Permanente do Ministério da Aeronáutica, na parte referente a carreiras, e dá outras providências

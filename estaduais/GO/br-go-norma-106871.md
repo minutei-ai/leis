@@ -8,15 +8,18 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º O Anexo XIII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás - RCTE, passa a vigorar com as seguintes alterações:
 
-"CAPÍTULO III<br>
-DO TRANSPORTE DE VALORES<br>
-<br>
-Seção I<br>
+"CAPÍTULO III
+
+DO TRANSPORTE DE VALORES
+
+Seção I
+
 Das disposições gerais
 
 ............................................................................................................." (NR)
 
-"Seção II<br>
+"Seção II
+
 Da Guia de Transporte de Valor Eletrônica - GTV-e
 
 Art. 6º-A A Guia de Transporte de Valor Eletrônica - GTV-e, modelo 64, emitida e armazenada eletronicamente, de existência apenas digital, documenta as prestações de serviço de transporte de valores e sua validade jurídica é garantida pela assinatura digital do emitente e pela autorização de uso de que trata o inciso II do art. 6º-G (Ajuste SINIEF nº 3/20, cláusula primeira).
@@ -194,8 +197,6 @@ Art. 2º Os contribuintes do ICMS, em substituição aos documentos citados no a
 Art. 3º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 27 de março de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

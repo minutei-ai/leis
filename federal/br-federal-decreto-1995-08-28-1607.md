@@ -1,7 +1,3 @@
-1
-
-###DEC-001607-0-000-28-08-1995@@@
-
 DECRETO Nº1.607, DE 28 DE AGOSTO DE 1995
 
 Institui a Comissão Nacional de População e Desenvolvimento (CNPD), e dá outras providências.

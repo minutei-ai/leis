@@ -1,5 +1,3 @@
-###DEC-075180-0-000-31-12-1974@@@
-
 DECRETO Nº 15.180, DE 31 DE DEZEMBRO DE 1974.
 
 Outorga à Prefeitura Municipal de São Roque de Minas concessão para aproveitamento hidroelétrico, no Estado de Minas Gerais.
@@ -31,8 +29,6 @@ Brasília , 31 de dezembro de 1974; 153º da Independência e 86º da República
 ERNESTO geisel
 
 Shigeaki Ueki
-
-###DEC-075180-0-000-31-12-1974@@@
 
 DECRETO Nº 75.180, DE 31 DE DEZEMBRO DE 1974.
 

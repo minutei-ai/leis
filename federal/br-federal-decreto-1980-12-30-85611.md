@@ -1,5 +1,3 @@
-###DEC-085611-0-000-30-12-1980@@@
-
 Decreto nº 85.611, de 30 de dezembro de 1980
 
 Autoriza o funcionamento da habilitação Supervisão Escolar, da Faculdade Ideal de Letras e Ciências Humanas, em São Paulo, Estado de São Paulo.

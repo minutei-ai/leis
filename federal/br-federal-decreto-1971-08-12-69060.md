@@ -1,5 +1,3 @@
-###DEC-069060-0-000-12-08-1971@@@
-
 DECRETO Nº 69.060, DE 12 DE AGôSTO DE 1971.
 
 Autoriza a contratação de empréstimo que menciona e dá outras providências.

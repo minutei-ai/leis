@@ -1,5 +1,3 @@
-###DEC-077482-0-000-23-04-1976@@@
-
 DECRETO Nº 77.482 - DE 23 DE ABRIL DE 1976
 
 Acrescenta as alíneas "i" e "j" ao artigo 1º, do Decreto nº 76.089, de 6 de agosto de 1975, que dispõe sobre a constituição do Conselho de Administração da Superintendência da Zona Franca de Manaus (SUFRAMA).

@@ -2,12 +2,14 @@ LEI Nº 8.208 DE 04 DE FEVEREIRO DE 2002
 
 Dispõe sobre as Procuradorias Jurídicas das Autarquias e Fundações do Estado da Bahia e dá outras providências.
 
-Ver também:<br>
+Ver também:
+
 Lei nº 11.382 de 26 de fevereiro de 2009 - Dispõe sobre a remuneração dos cargos de Procurador Jurídico, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA FINALIDADE E COMPETÊNCIA
 
 Art. 1º - As Procuradorias Jurídicas das Autarquias e Fundações do Estado, diretamente subordinadas ao dirigente máximo da entidade, têm por finalidade sua representação judicial e extrajudicial, a consultoria e o assessoramento jurídico.
@@ -44,10 +46,12 @@ XII - solicitar a qualquer órgão ou entidade dos Poderes do Estado documentos,
 
 § 2º - O cargo em comissão de Procurador-Chefe é privativo de integrante da carreira disciplinada por esta Lei, ressalvada a situação dos seus atuais ocupantes, enquanto perdurar a sua investidura.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DOS PROCURADORES DAS AUTARQUIAS E FUNDAÇÕES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Da Estrutura da Carreira
 
 Art. 3º - A carreira de Procurador Jurídico das autarquias e fundações será integrada por cargos de provimento efetivo, estruturada em classes, conforme disposição constante do Anexo I.
@@ -64,7 +68,8 @@ Art. 4º - O ingresso na carreira de Procurador Jurídico far-se-á na 3ª class
 
 § 3º - Na hipótese de concurso público para provimento de cargos em duas ou mais entidades, caberá à Secretaria da Administração, obedecida a ordem de classificação, indicar a lotação dos candidatos aprovados.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Do Estágio Probatório
 
 Art. 5º - Após o ingresso na carreira, o Procurador se submeterá ao estágio probatório, durante o período de 03 (três) anos.
@@ -75,7 +80,8 @@ Art. 5º - Após o ingresso na carreira, o Procurador se submeterá ao estágio 
 
 § 3º - Concluindo a comissão pela exoneração do Procurador, este será notificado para, no prazo de quinze (15) dias, apresentar defesa e produzir prova, cabendo a decisão ao dirigente máximo da entidade, ouvido, previamente, o Conselho de Administração ou órgão equivalente da entidade.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 Do Exercício do Cargo
 
 Art. 6º - Os Procuradores Jurídicos somente poderão afastar-se do exercício do cargo para:
@@ -92,7 +98,8 @@ V -freqüentar cursos de pós-graduação ou aperfeiçoamento que tenham pertin�
 
 VI -gozo de licença prevista em lei.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 Da Promoção
 
 Art. 7º - O provimento dos cargos das classes imediatamente seguintes à inicial dar-se-á por promoção, obedecidos os critérios alternados de 02 (duas) por merecimento e 01 (uma) por antiguidade, observados os requisitos de interstício mínimo de dois (02) anos na classe e existência de vaga.
@@ -123,10 +130,12 @@ III -tenha permanecido afastado das funções do cargo, salvo em gozo de férias
 
 IV -esteja submetido a estágio probatório.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 Dos Direitos, Vencimentos e Vantagens
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Direitos
 
 Art. 12 - Constituem direitos dos Procuradores Jurídicos, além das garantias e prerrogativas inerentes à profissão do advogado:
@@ -147,7 +156,8 @@ VII -recusar o patrocínio de causa ou a sustentação de entendimento manifesta
 
 Art. 13 - Aplicam-se aos Procuradores Jurídicos, no que couber, as disposições constitucionais e legais relativas a férias, licenças, gratificações, diárias, salário-família, aposentadoria, disponibilidade e demais direitos conferidos aos servidores públicos civis do Estado.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Dos Vencimentos e Vantagens
 
 Art. 14 - Os vencimentos básicos dos cargos de Procurador Jurídico são os fixados no Anexo III desta Lei.
@@ -158,8 +168,10 @@ Parágrafo único renomeado como § 1º pelo art. 5º da Lei nº 10.024, de 30 d
 
 § 2º - Pela prestação de dedicação exclusiva às atividades de representação judicial e extrajudicial, consultoria e assessoramento jurídico, vedada qualquer outra atividade laborativa, à exceção do magistério superior, e observada a compatibilidade de horário, é assegurado Adicional de Dedicação Exclusiva correspondente a 80% (oitenta por cento) do vencimento básico da classe a que pertencer o Procurador Jurídico.
 
-Redação de acordo com o art. 2º da Lei nº 11.382, de 26 de fevereiro de 2009.<br>
-Redação original: "§ 2º - Pela prestação de assistência intensiva às atividades de representação judicial e extrajudicial, consultoria, assessoramento jurídico, vedada qualquer outra atividade laborativa, à exceção do magistério superior, e observada a compatibilidade de horário, é assegurado adicional correspondente a 50% (cinqüenta por cento) do vencimento básico da classe a que pertencer o Procurador Jurídico."<br>
+Redação de acordo com o art. 2º da Lei nº 11.382, de 26 de fevereiro de 2009.
+
+Redação original: "§ 2º - Pela prestação de assistência intensiva às atividades de representação judicial e extrajudicial, consultoria, assessoramento jurídico, vedada qualquer outra atividade laborativa, à exceção do magistério superior, e observada a compatibilidade de horário, é assegurado adicional correspondente a 50% (cinqüenta por cento) do vencimento básico da classe a que pertencer o Procurador Jurídico."
+
 § 2º acrescido pelo art. 5º da Lei nº 10.024, de 30 de março de 2006.
 
 Art. 15 - Aos Procuradores Jurídicos são atribuídas as seguintes gratificações especiais:
@@ -188,21 +200,32 @@ VI - Gratificação pela Execução de Serviços do Programa de Transportes.
 
 § 4º - Durante o período em que permanecer afastado do cargo, o Procurador Jurídico não perceberá as gratificações pagas com fundamento na Produtividade e Desempenho, bem como o Adicional de Dedicação Exclusiva, salvo nas hipóteses previstas no inciso III do art. 113 e nos incisos I, III, VII e XI do art. 118 da Lei nº 6.677, de 26 de setembro de 1994.
 
-Redação de acordo com o art. 2º da Lei nº 11.382, de 26 de fevereiro de 2009.<br>
-Redação original: "Art. 15 - Aos Procuradores Jurídicos é atribuída gratificação especial, em percentual não excedente a 125% (cento e vinte cinco por cento), incidente sobre o vencimento básico da classe a que pertencer o Procurador, com fundamento na produtividade e desempenho, de acordo com os critérios e limites estabelecidos em regulamento.<br>
-§ 1º - A gratificação de que trata este artigo será concedida, majorada ou cancelada por ato do dirigente máximo da entidade, ouvido previamente o Conselho de Política de Recursos Humanos - COPE, da Secretaria da Administração.<br>
-§ 2º - A gratificação prevista neste artigo é incompatível com as seguintes vantagens:<br>
-I -Gratificação pelo Exercício Funcional em Regime de Tempo Integral e Dedicação Exclusiva;<br>
-II -Gratificação por Condições Especiais de Trabalho;<br>
-III -Gratificação de Produtividade;<br>
-IV -Gratificação por Serviços Extraordinários.<br>
-§ 3º - Para fins de incorporação aos proventos, somam-se indistintamente os períodos de percepção da Gratificação pelo Exercício Funcional em Regime de Tempo Integral e Dedicação Exclusiva-RTI, Gratificação por Condições Especiais de Trabalho-CET e Gratificação de Produtividade.<br>
+Redação de acordo com o art. 2º da Lei nº 11.382, de 26 de fevereiro de 2009.
+
+Redação original: "Art. 15 - Aos Procuradores Jurídicos é atribuída gratificação especial, em percentual não excedente a 125% (cento e vinte cinco por cento), incidente sobre o vencimento básico da classe a que pertencer o Procurador, com fundamento na produtividade e desempenho, de acordo com os critérios e limites estabelecidos em regulamento.
+
+§ 1º - A gratificação de que trata este artigo será concedida, majorada ou cancelada por ato do dirigente máximo da entidade, ouvido previamente o Conselho de Política de Recursos Humanos - COPE, da Secretaria da Administração.
+
+§ 2º - A gratificação prevista neste artigo é incompatível com as seguintes vantagens:
+
+I -Gratificação pelo Exercício Funcional em Regime de Tempo Integral e Dedicação Exclusiva;
+
+II -Gratificação por Condições Especiais de Trabalho;
+
+III -Gratificação de Produtividade;
+
+IV -Gratificação por Serviços Extraordinários.
+
+§ 3º - Para fins de incorporação aos proventos, somam-se indistintamente os períodos de percepção da Gratificação pelo Exercício Funcional em Regime de Tempo Integral e Dedicação Exclusiva-RTI, Gratificação por Condições Especiais de Trabalho-CET e Gratificação de Produtividade.
+
 § 4º - Durante o período em que permanecer afastado do cargo, o Procurador não perceberá a gratificação de que trata este artigo, salvo nas hipóteses de férias, licença-prêmio, licença para tratamento de saúde ou por acidente em serviço, licença-maternidade e licença paternidade."
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 Dos Deveres, Impedimentos, Proibições, Infrações e Penalidades
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Deveres, Impedimentos e Proibições
 
 Art. 16- São deveres do Procurador Jurídico, além dos previstos nos Estatutos dos Servidores Públicos Civis do Estado da Bahia e da Ordem dos Advogados do Brasil, os seguintes:
@@ -257,7 +280,8 @@ Art. 18-B - O Procurador Jurídico não poderá participar de comissão ou banca
 
 Art. 18-B acrescido pelo art. 3º da Lei nº 11.382, de 26 de fevereiro de 2009
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Infrações e Penalidades
 
 Art. 19 - O Procurador Jurídico fica sujeito às seguintes sanções disciplinares:
@@ -332,7 +356,8 @@ Art. 25 - A abertura de sindicância ou a instauração de processo administrati
 
 Art. 26 - Ao processo administrativo disciplinar para apuração de faltas cometidas por Procurador Jurídico aplicam-se as normas estabelecidas para os procedimentos de igual natureza, relativos aos servidores públicos civis do Estado.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 27 - Ficam transformados para a nomenclatura de Procurador Jurídico os atuais cargos de Procurador Autárquico e Procurador Fundacional, mantidas as classes dos seus ocupantes.
@@ -383,13 +408,31 @@ ESTRUTURA DA CARREIRA
 
 (Autarquias e Fundações)
 
-<table style="border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 103.95pt; border: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="139"><p class="Tabela-Texto">Cargo</p></td><td style="width: 112.05pt; border: solid black 1.0pt; border-left: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="149"><p class="Tabela-Texto">Classe</p></td></tr><tr><td style="width: 103.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="139"><p class="Tabela-Texto">Procurador Jurídico</p></td><td style="width: 112.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="149"><p class="Tabela-Texto">Especial</p></td></tr><tr><td style="width: 103.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="139"><p class="Tabela-Texto">Procurador Jurídico</p></td><td style="width: 112.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="149"><p class="Tabela-Texto">1ª</p></td></tr><tr><td style="width: 103.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="139"><p class="Tabela-Texto">Procurador Jurídico</p></td><td style="width: 112.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="149"><p class="Tabela-Texto">2ª</p></td></tr><tr><td style="width: 103.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="139"><p class="Tabela-Texto">Procurador Jurídico</p></td><td style="width: 112.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="149"><p class="Tabela-Texto">3ª</p></td></tr></tbody></table>
+Cargo
+
+Classe
+
+Procurador Jurídico
+
+Especial
+
+Procurador Jurídico
+
+1ª
+
+Procurador Jurídico
+
+2ª
+
+Procurador Jurídico
+
+3ª
 
 ANEXO II
 
 PROCURADORES JURÍDICOS
 
-<table style="border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 360.0pt; border: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" colspan="3" valign="top" width="480"><p class="Tabela-Texto">CARGOS INTEGRANTES DOS QUADROS DAS AUTARQUIAS</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">ENTIDADE</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">CLASSE</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">AGERBA - Agência Estadual de Regulação de Serviços Públicos de Energia, Transportes e Comunicações</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>2<br>3<br>4</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">ADAB ? Agência Estadual de Defesa Agropecuária da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>2</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">CRA ? Centro de Recursos Ambientais</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>2<br>3<br>4</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">CIS ? Centro Industrial do Subaé</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>1</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="264"><p class="Tabela-Texto">DERBA ? Departamento de Infra-Estrutura de Transportes da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª<br></p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="120"><p class="Tabela-Texto">2<br>3<br>4<br>5</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="264"><p class="Tabela-Texto">DETRAN ? Departamento Estadual de Trânsito</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>2<br>3<br>4</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="264"><p class="Tabela-Texto">MAUÁ ? Instituto de Artesanato Visconde de Mauá</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>1</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="264"><p class="Tabela-Texto">IBAMETRO ? Instituto Baiano de Metrologia, Normatização e Qualidade Industrial</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>2<br>3<br>4</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="264"><p class="Tabela-Texto">IPAC ? Instituto do Patrimônio Artístico e Cultural</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>2</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="264"><p class="Tabela-Texto">JUCEB ? Junta Comercial do Estado da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 45.3pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>2<br>3<br>4</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">SUCAB ? Superintendência de Construções Administrativas da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">2<br>3<br>4<br>5</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">SUDIC ? Superintendência de Desenvolvimento Industrial e Comercial</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>2<br>3</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">SUDESB ? Superintendência de Desportos do Estado da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>1</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">SEI ? Superintendência de Estudos Econômicos e Sociais da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>1</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">SRH ? Superintendência de Recursos Hídricos</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>1</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">UNEB ? Universidade do Estado da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>2<br>3<br>4</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">UESFS ? Universidade Estadual de Feira de Santana</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>2<br>3</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">UESC ? Universidade Estadual de Santa Cruz</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>2<br>3</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">UESB ? Universidade Estadual do Sudoeste da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>1</p></td></tr><tr><td style="width: 360.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" colspan="3" valign="top" width="480"><p class="Tabela-Texto">CARGOS INTEGRANTES DOS QUADROS DAS FUNDAÇÕES</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">ENTIDADE</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">CLASSE</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">FUNCEB ? Fundação Cultural do Estado da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>2</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">FUNDAC ? Fundação da Criança e do Adolescente</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>2<br>3</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">HEMOBA ? Fundação de Hematologia e Hemoterapia da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>1</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">IRDEB ? Instituto de Radiodifusão Educativa da Bahia</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">ESPECIAL<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>2</p></td></tr><tr><td style="width: 198.0pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="264"><p class="Tabela-Texto">FAPESB - Procuradoria Jurídica (Quadro de cargos acrescido pelo <span style="color: gray;">art. 4º da Lei nº 10.216, de 26 de junho de 2006</span>.)</p></td><td style="width: 72.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="96"><p class="Tabela-Texto">Especial<br>1ª<br>2ª<br>3ª</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">1<br>1<br>1<br>1</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> CARGOS INTEGRANTES DOS QUADROS DAS AUTARQUIAS </td></tr><tr><td valign="top"> ENTIDADE </td><td valign="top"> CLASSE </td><td valign="top"> QUANTIDADE </td></tr><tr><td valign="top"> AGERBA - Agência Estadual de Regulação de Serviços Públicos de Energia, Transportes e Comunicações </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 2 3 4 </td></tr><tr><td valign="top"> ADAB ? Agência Estadual de Defesa Agropecuária da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 2 </td></tr><tr><td valign="top"> CRA ? Centro de Recursos Ambientais </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 2 3 4 </td></tr><tr><td valign="top"> CIS ? Centro Industrial do Subaé </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 1 </td></tr><tr><td valign="top"> DERBA ? Departamento de Infra-Estrutura de Transportes da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 2 3 4 5 </td></tr><tr><td valign="top"> DETRAN ? Departamento Estadual de Trânsito </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 2 3 4 </td></tr><tr><td valign="top"> MAUÁ ? Instituto de Artesanato Visconde de Mauá </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 1 </td></tr><tr><td valign="top"> IBAMETRO ? Instituto Baiano de Metrologia, Normatização e Qualidade Industrial </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 2 3 4 </td></tr><tr><td valign="top"> IPAC ? Instituto do Patrimônio Artístico e Cultural </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 2 </td></tr><tr><td valign="top"> JUCEB ? Junta Comercial do Estado da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 2 3 4 </td></tr><tr><td valign="top"> SUCAB ? Superintendência de Construções Administrativas da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 2 3 4 5 </td></tr><tr><td valign="top"> SUDIC ? Superintendência de Desenvolvimento Industrial e Comercial </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 2 3 </td></tr><tr><td valign="top"> SUDESB ? Superintendência de Desportos do Estado da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 1 </td></tr><tr><td valign="top"> SEI ? Superintendência de Estudos Econômicos e Sociais da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 1 </td></tr><tr><td valign="top"> SRH ? Superintendência de Recursos Hídricos </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 1 </td></tr><tr><td valign="top"> UNEB ? Universidade do Estado da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 2 3 4 </td></tr><tr><td valign="top"> UESFS ? Universidade Estadual de Feira de Santana </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 2 3 </td></tr><tr><td valign="top"> UESC ? Universidade Estadual de Santa Cruz </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 2 3 </td></tr><tr><td valign="top"> UESB ? Universidade Estadual do Sudoeste da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 1 </td></tr><tr><td colspan="3" valign="top"> CARGOS INTEGRANTES DOS QUADROS DAS FUNDAÇÕES </td></tr><tr><td valign="top"> ENTIDADE </td><td valign="top"> CLASSE </td><td valign="top"> QUANTIDADE </td></tr><tr><td valign="top"> FUNCEB ? Fundação Cultural do Estado da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 2 </td></tr><tr><td valign="top"> FUNDAC ? Fundação da Criança e do Adolescente </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 2 3 </td></tr><tr><td valign="top"> HEMOBA ? Fundação de Hematologia e Hemoterapia da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 1 </td></tr><tr><td valign="top"> IRDEB ? Instituto de Radiodifusão Educativa da Bahia </td><td valign="top"> ESPECIAL 1ª 2ª 3ª </td><td valign="top"> 1 1 1 2 </td></tr><tr><td valign="top"> FAPESB - Procuradoria Jurídica (Quadro de cargos acrescido pelo art. 4º da Lei nº 10.216, de 26 de junho de 2006.) </td><td valign="top"> Especial 1ª 2ª 3ª </td><td valign="top"> 1 1 1 1 </td></tr></tbody></table>
 
 ANEXO III
 
@@ -399,4 +442,4 @@ TABELA DE VENCIMENTOS
 
 (Autarquias e Fundações)
 
-<table style="border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 333.0pt; border: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" colspan="2" valign="top" width="444"><p class="Tabela-Texto">Procurador Jurídico</p></td></tr><tr><td style="width: 148.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="199"><p class="Tabela-Texto">Classe</p></td><td style="width: 184.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="245"><p class="Tabela-Texto">Vencimento</p></td></tr><tr><td style="width: 148.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="199"><p class="Tabela-Texto">Especial</p></td><td style="width: 184.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="245"><p class="Tabela-Texto">1.350,00</p></td></tr><tr><td style="width: 148.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="199"><p class="Tabela-Texto">1ª</p></td><td style="width: 184.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="245"><p class="Tabela-Texto">1.215,00</p></td></tr><tr><td style="width: 148.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="199"><p class="Tabela-Texto">2ª</p></td><td style="width: 184.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="245"><p class="Tabela-Texto">1.093,50</p></td></tr><tr><td style="width: 148.95pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="199"><p class="Tabela-Texto">3ª</p></td><td style="width: 184.05pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="245"><p class="Tabela-Texto">884,15</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> Procurador Jurídico </td></tr><tr><td valign="top"> Classe </td><td valign="top"> Vencimento </td></tr><tr><td valign="top"> Especial </td><td valign="top"> 1.350,00 </td></tr><tr><td valign="top"> 1ª </td><td valign="top"> 1.215,00 </td></tr><tr><td valign="top"> 2ª </td><td valign="top"> 1.093,50 </td></tr><tr><td valign="top"> 3ª </td><td valign="top"> 884,15 </td></tr></tbody></table>

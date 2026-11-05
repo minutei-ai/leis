@@ -1,7 +1,3 @@
-1
-
-###DEC-099117-0-000-09-03-1990@@@
-
 # DECRETO Nº 99.117, DE 9 DE MARCO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Na­cional de Obras Contra as Secas DNOCS, área de terra necessária à construção do açude público Serafim Dias, no Município de Mombaça, Estado do Ceará, e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-005634-0-000-22-12-2005@@@
-
 DECRETO Nº 5.634, DE 22 DE DEZEMBRO DE 2005.
 
        Dá nova redação ao art. 3o do Decreto no 5.244, de 14 de outubro de 2004, que dispõe sobre a composição e funcionamento do Conselho Nacional de Combate à Pirataria e Delitos contra a Propriedade Intelectual.
@@ -29,5 +27,3 @@ II - por sete representantes da sociedade civil, escolhidos pelo Ministro de Est
 LUIZ INÁCIO LULA DA SILVA
 
       Marcio Thomaz Bastos
-
-Este texto não substitui o publicado no DOU de 23.12.2005

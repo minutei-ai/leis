@@ -1,5 +1,3 @@
-###DEL-006775-0-000-07-08-1944@@@
-
 DECRETO-LEI N. 6.775 – DE 7 DE AGÔSTO DE 1944
 
 Institui o Grupo de Regiões Militares, na organização do Exército, e dá outras providências

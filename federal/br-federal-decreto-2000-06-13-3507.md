@@ -1,5 +1,3 @@
-###DEC-003507-0-000-13-06-2000@@@
-
 DECRETO Nº 3.507, DE 13 DE JUNHO DE 2000.
 
 Dispõe sobre o estabelecimento de padrões de qualidade do atendimento prestado aos cidadãos pelos órgãos e pelas entidades da Administração Pública Federal direta, indireta e fundacional, e dá outras providências.

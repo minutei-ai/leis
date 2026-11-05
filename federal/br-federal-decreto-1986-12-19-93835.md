@@ -1,5 +1,3 @@
-###DEC-093835-0-000-19-12-1986@@@
-
 DECRETO Nº 93.835, DE 19 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Pau Santo", situado no Município de João Alfredo, no Estado de Pernambuco, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.683, de 19 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

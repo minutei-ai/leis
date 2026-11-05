@@ -1,5 +1,3 @@
-###DEC-089006-0-000-16-11-1983@@@
-
 Decreto nº 89.006, de 16 de nOveMbrO de 1983
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO DIFUSORA PRINCESA DO SUL LTDA. para a RÁDIO CONTINENTAL LTDA.

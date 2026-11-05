@@ -1,7 +1,3 @@
-1
-
-###DEC-099358-0-000-28-06-1990@@@
-
 DECRETO N° 99.358, DE 28 DE JUNHO DE 1990
 
 Revoga o Decreto n° 99.354, de 27 de junho de 1990, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-051934-A-000-26-04-1963@@@
-
 DECRETO Nº 51.934-A, DE 26 DE ABRIL DE 1963.
 
 Renova o Decreto nº 46.296, de 29 de junho de 1959.

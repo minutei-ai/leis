@@ -1,5 +1,3 @@
-###DEC-053293-0-000-16-12-1963@@@
-
 DECRETO Nº 53.293, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Antônio Pacifico Homem Neto a pesquisar minério de ferro no município de Betim, Estado de Minas Gerais.

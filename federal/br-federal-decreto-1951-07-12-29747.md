@@ -1,10 +1,8 @@
-###DEC-029747-0-000-12-07-1951@@@
+**DECRETO Nº 29.747, DE 12 DE JUNHO DE 1951.**
 
-<strong>DECRETO Nº 29.747, DE 12 DE JUNHO DE 1951.</strong>
+***Revigora o Decreto nº 24.138, de 28 de novembro de 1947***
 
-<em><strong>Revigora o Decreto nº 24.138, de 28 de novembro de 1947</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, resolve, usando da atribuição que lhe confere o art. 87, I, da Constituição Federal, e
+**O PRESIDENTE DA REPÚBLICA**, resolve, usando da atribuição que lhe confere o art. 87, I, da Constituição Federal, e
 
 CONSIDERANDO que, pelo Decreto número 24.138, de 28 de novembro de 1947, foram declarados de utilidade pública, para fins de desapropriação, os terrenos, inclusive benfeitorias nêle existentes, localizados juntos à Base Aérea de São Paulo (Cumbica), atingindo as respectivas áreas descritas o total aproximado de 8.672.244 metros quadrados, pertencentes a diversas pessoas;
 
@@ -30,12 +28,12 @@ CONSIDERANDO que, ante as graves irregularidade acima apontadas, não pode nem d
 
 CONSIDERANDO, finalmente, que, dentre tais medidas, a mais recomendada consiste, exatamente, na compressão das despesas públicas e, em especial, no que se refere a obra ou encargos perfeitamente adiáveis, como sucede ao caso presente.
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica revogado o Decreto nº 24.138, de 28 de novembro de 1947, que considera de utilidade pública, para fins de desapropriação, os terrenos, inclusive benfeitorias nêles existentes, localizados junto à Base Aérea de São Paulo (Cumbica) e, consequentemente, declarado sem nenhum efeito o contrato celebrado por escritura pública de 19 de fevereiro de 1951, perante o Tabelião do 20º Ofício de Notas do Decreto Federal, em que são parte, de um lado o condomínio Samuel Ribeiro e Irmãos Guinle e, de outro, a União Federal, tendo como objeto a compra e venda de imóveis, que discrimina, situado no referido local.
 
 Rio de Janeiro, em 12 de julho de 1951; 130º da Independência e 63º Pública.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Nero Moura

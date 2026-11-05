@@ -1,5 +1,3 @@
-###DEC-083443-0-000-10-05-1979@@@
-
 Decreto nº 83.443, de 10 de maio de 1979.
 
 Altera o Decreto nº 82 384, de 5 de outubro de 1978, que autorizou a conversão do curso de Matemática em curso de Ciências da faculdade de Educação, Ciências e Letras de Mogi Mirim, Estado de São Paulo.

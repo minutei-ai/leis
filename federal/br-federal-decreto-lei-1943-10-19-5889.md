@@ -1,5 +1,3 @@
-###DEL-005889-0-000-19-10-1943@@@
-
 DECRETO‑LEI N. 5.889 – DE 19 DE OUTUBRO DE 1943
 
 Declara incorporada à campanha nacional contra o câncer a Associação Paulista de Combate ao Câncer

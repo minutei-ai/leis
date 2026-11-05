@@ -1,5 +1,3 @@
-###DEL-006021-0-000-23-11-1943@@@
-
 DECRETO‑LEI N.  6.021 – DE 23 DE NOVEMBRO DE 1943
 
 Autoriza o Ministério da Viação e Obras Públicas a requisitar uma estação rádio‑transmissora de propriedade da Brasil Aérea Limitada

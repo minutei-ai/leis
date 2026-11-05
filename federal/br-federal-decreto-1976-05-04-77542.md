@@ -1,5 +1,3 @@
-###DEC-077542-0-000-04-05-1976@@@
-
 DECRETO Nº 77.542, DE 4 DE MAIO DE 1976
 
 Concede reconhecimento aos cursos de Estudos Sociais, de Ciências e de Letras da Faculdade de Formação de Professores, com sede na Cidade de Niterói, Estado do Rio de Janeiro.

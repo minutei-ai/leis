@@ -1,5 +1,3 @@
-###DEC-070132-0-000-09-02-1972@@@
-
 DECRETO Nº 70.132, DE 9 DE FEVEREIRO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Departamento Administrativo do Pessoal Civil, cargo integrante do Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

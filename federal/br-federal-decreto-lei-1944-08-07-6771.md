@@ -1,5 +1,3 @@
-###DEL-006771-0-000-07-08-1944@@@
-
 DECRETO-LEI N. 6.771 – DE 7 DE AGÔSTO DE 1944
 
 Dispõe sôbre a distribuição do carvão mineral produzido no país e dá outras providências

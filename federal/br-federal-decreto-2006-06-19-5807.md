@@ -1,5 +1,3 @@
-###DEC-005807-0-000-19-06-2006@@@
-
 DECRETO Nº 5.807, DE 19 DE JUNHO DE 2006.
 
  Dispõe sobre a criação da Embaixada do Brasil na República de Botsuana, com sede em Gaborone.

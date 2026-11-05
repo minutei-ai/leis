@@ -1,5 +1,3 @@
-###DEC-057114-0-000-19-10-1965@@@
-
 DECRETO Nº 57.114, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da 2a Região - o crédito especial de Cr$23.418.880, para o fim que especifica.

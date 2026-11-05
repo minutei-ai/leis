@@ -1,5 +1,3 @@
-###MPV-000275-0-000-29-12-2005@@@
-
 MEDIDA PROVISÓRIA Nº 275, DE 29 DE DEZEMBRO DE 2005.
 
 Altera a Lei nº 9.317, de 5 de dezembro de 1996, que institui o Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (SIMPLES), em função da alteração promovida pelo art. 33 da Lei no 11.196, de 21 de novembro de 2005, e dispõe que o prazo a que se refere o art. 2o da Lei no 8.989, de 24 de fevereiro de 1995, para reutilização do benefício da isenção do Imposto sobre Produtos Industrializados - IPI, na aquisição de automóveis para utilização no transporte autônomo de passageiros, bem como por pessoas portadoras de deficiência física, aplica-se inclusive às aquisições realizadas antes de 22 de novembro de 2005.

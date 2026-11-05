@@ -1,5 +1,3 @@
-###DEC-003306-0-000-24-12-1999@@@
-
 DECRETO Nº 3.306, DE 24 DE DEZEMBRO DE 1999.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.140, de 16 de agosto de 1999.

@@ -1,5 +1,3 @@
-###DEC-066324-0-000-16-03-1970@@@
-
 DECRETO Nº 66.324 - DE 16 DE MARÇO DE 1970
 
 Declara de utilidade pública o Centro Técnico-Social, com sede em Caxias do Sul, Estado do Rio Grande do Sul.

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no D.I. O de 12/12/2018.
+
+<!-- nota-edicao:fim -->
+
 ![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)
 
 EMENDA CONSTITUCIONAL Nº 112, DE 10 DE DEZEMBRO DE 2018
@@ -39,5 +45,3 @@ RAQUEL LESSA
 ENIVALDO DOS ANJOS
 
 2º Secretário
-
-Este texto não substitui o publicado no D.I. O de 12/12/2018.

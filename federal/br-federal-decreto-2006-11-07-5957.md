@@ -1,5 +1,3 @@
-###DEC-005957-0-000-07-11-2006@@@
-
 DECRETO Nº 5.957 DE 7 DE NOVEMBRO DE 2006.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.718, de 14 de outubro de 2006, do Conselho de Segurança das Nações Unidas, a qual, entre outras disposições, proíbe a transferência de armamento convencional e de bens e tecnologias sensíveis envolvendo a República Popular e Democrática da Coréia e estabelece restrições de viagem, congelamento de fundos, ativos financeiros e recursos econômicos de indivíduos e entidades envolvidos em programas nucleares, missilísticos e de outras armas de destruição em massa naquele País.
@@ -18,11 +16,7 @@ Brasília, 7 de novembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 8.11.2006
-
-“O Conselho de Segurança,
+        Celso Luiz Nunes Amorim“O Conselho de Segurança,
 
 Recordando suas resoluções pertinentes anteriores, incluindo a Resolução 825 (1993), a Resolução 1540 (2004) e, em particular, a Resolução 1965 (2006), bem como a declaração presidencial de 06 de outubro de 2006 (S/PRST/2006/41);
 

@@ -1,5 +1,3 @@
-###DEC-094223-0-000-14-04-1987@@@
-
 DECRETO Nº 94.223, DE 14 DE ABRIL DE 1987.
 
 Declara de ocupação indígena e homologa a demarcação administrativa da área que menciona no Estado de São Paulo, e dá outras providências.

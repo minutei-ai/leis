@@ -1,5 +1,3 @@
-###DEC-046929-0-000-30-09-1959@@@
-
 decreto nº 46.929, de 30 de setembro de 1959.
 
 Declara de utilidade pública a Sociedade de Instrução Popular e Beneficiência, com sede em Itu, Estado de São Paulo.

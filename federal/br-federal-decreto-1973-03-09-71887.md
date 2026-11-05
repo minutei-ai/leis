@@ -1,5 +1,3 @@
-###DEC-071887-0-000-09-03-1973@@@
-
 DECRETO Nº 71.887, DE 9 DE MARÇO DE 1973.
 
 Concede reconhecimento do curso de Ciências, Licenciatura de 1º grau, do Instituto de Tecnologia, da Universidade Federal de São Carlos.

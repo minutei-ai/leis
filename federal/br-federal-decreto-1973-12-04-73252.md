@@ -1,5 +1,3 @@
-###DEC-073252-0-000-04-12-1973@@@
-
 DECRETO Nº 73.252 - DE 4 DE DEZEMBRO DE 1973
 
 Concede reconhecimento ao curso de Administração, da Escola de Administração do Estado do Maranhão, com sede na Cidade de São Luis, Estado do Maranhão.

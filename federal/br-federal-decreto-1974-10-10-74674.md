@@ -1,5 +1,3 @@
-###DEC-074674-0-000-10-10-1974@@@
-
 DECRETO Nº 74.674, DE 10 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Alto Piranhas Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Cajazeiras, Estado da Paraíba.

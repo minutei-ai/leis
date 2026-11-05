@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=60845)
-
 # LEI Nº 12.249, DE 09 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 159, de 2000, do Deputado Conte Lopes - PPB)

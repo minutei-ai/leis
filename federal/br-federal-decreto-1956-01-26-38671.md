@@ -1,14 +1,12 @@
-###DEC-038671-0-000-26-01-1956@@@
+**DECRETO Nº 38.671, DE 26 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.671, DE 26 DE JANEIRO DE 1956.</strong>
+***Define, na Aeronáutica, os cursos e exames do pessoal subalterno, para fins da Lei de Inatividade e das Leis Especiais.***
 
-<em><strong>Define, na Aeronáutica, os cursos e exames do pessoal subalterno, para fins da Lei de Inatividade e das Leis Especiais.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam definidos, na Aeronáutica, os cursos e exames realizados por praças dos diferentes Quadros do Corpo do Pessoal Subalterno da Aeronáutica, para efeito da aplicação da Lei de Inatividade e das Leis Especiais, de acôrdo com o seguinte critério:
+**Art**. 1º Ficam definidos, na Aeronáutica, os cursos e exames realizados por praças dos diferentes Quadros do Corpo do Pessoal Subalterno da Aeronáutica, para efeito da aplicação da Lei de Inatividade e das Leis Especiais, de acôrdo com o seguinte critério:
 
 § 1º Para os efeitos do § 1º do art. 51 da Lei nº 2.370, de 9 de dezembro de 1954 (Lei de Inatividade dos Militares), ficam considerados como habilitados ao exercício das funções do pôsto de 2º Tenente os primeiros sargentos aprovados no exame para promoção à graduação de Suboficial e os possuidores de:
 
@@ -76,12 +74,12 @@
 
 \- Curso “B1” da Escola de Transmissões.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Vasco Alves Seco

@@ -1,5 +1,3 @@
-###DEC-095917-0-000-13-04-1988@@@
-
 DECRETO N° 95.917, DE 13 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA PROPASA”, classificado como “latifúndio por exploração”, situado no Município de Santana do Araguaia, Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 02 de maio de 1986, e dá outras providências.

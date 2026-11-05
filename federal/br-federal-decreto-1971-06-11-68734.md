@@ -1,5 +1,3 @@
-###DEC-068734-0-000-11-06-1971@@@
-
 DECRETO Nº 68.734 - DE 11 DE JUNHO DE 1971.
 
 Regulamenta o Decreto-lei nº 1.174, de 11 de junho de 1971, dispõe sôbre o estudo dos projetos de indústrias de construção e reparos navais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067203-0-000-15-09-1970@@@
-
 DECRETO Nº 67.203, DE 15 DE SETEMBRO DE 1970.
 
 Cria, no Ministério da Aeronáutica, a Base Aérea de Anápolis e dá outras providencias.

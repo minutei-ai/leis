@@ -1,5 +1,3 @@
-###DEC-054086-0-000-03-08-1964@@@
-
 DECRETO Nº 54.086, DE 8 DE AGôSTO DE 1964.
 
 Atribui ao 2º Batalhão Ferroviário as missões que menciona e dá outras providências.

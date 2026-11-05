@@ -1,5 +1,3 @@
-###DEC-092925-0-000-16-07-1986@@@
-
 DECRETO Nº 92.925, DE 16 DE JULHO DE 1986
 
 Autoriza o funcionamento do curso de História da Universidade Estadual de Feira de Santana.

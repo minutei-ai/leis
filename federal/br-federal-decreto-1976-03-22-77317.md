@@ -1,5 +1,3 @@
-###DEC-077317-0-000-22-03-1976@@@
-
 DECRETO Nº 77.317, DE 22 DE MARÇO DE 1976.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União à operação de crédito externo a ser celebrada pela Ferrovia Paulista S.A. - FEPASA.

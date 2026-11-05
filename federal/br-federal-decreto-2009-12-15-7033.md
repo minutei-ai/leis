@@ -1,5 +1,3 @@
-###DEC-007033-0-000-15-12-2009@@@
-
 DECRETO Nº 7.033, DE 15 DE DEZEMBRO DE 2009.
 
 Dispõe sobre a divulgação, por meio do Portal da Transparência do Poder Executivo Federal, de dados e informações relativos aos Jogos Olímpicos e Paraolímpicos de 2016.

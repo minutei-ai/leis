@@ -1,5 +1,3 @@
-###DEC-045338-0-000-27-01-1959@@@
-
 DECRETO Nº 45.338, DE 27 DE JANEIRO DE 1938.
 
 Concede á sociedade Refinaria Salineira Ltda. - Comércio, Indústria e Navegação autorização para funcionar como emprêsa de navegação de cabotagem.

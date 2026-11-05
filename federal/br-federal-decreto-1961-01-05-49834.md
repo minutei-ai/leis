@@ -1,5 +1,3 @@
-###DEC-049834-0-000-05-01-1961@@@
-
 DECRETO Nº 49.834, DE 5 DE JANEIRO DE 1961.
 
 Abre, ao Ministério da Educação e Cultua, o crédito especial de Cr$ 200,000,00, para auxiliar o Rotary Clube de Taubaté, nas comemorações da Sexta Semana Nacional Monteiro Lobato.

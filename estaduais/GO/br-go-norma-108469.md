@@ -1,4 +1,5 @@
-DECRETO Nº 10.412, DE 23 DE FEVEREIRO DE 2024<br>
+DECRETO Nº 10.412, DE 23 DE FEVEREIRO DE 2024
+
 \- [Revogado pelo Decreto nº 10.710, de 16-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110965), art. 29.
 
 ~~Regulamenta a [Lei estadual nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual para o quadriênio 2024-2027.~~
@@ -147,7 +148,8 @@ DECRETO Nº 10.412, DE 23 DE FEVEREIRO DE 2024<br>
 
 ~~DO ALINHAMENTO DO PLANEJAMENTO ESTRATÉGICO INSTITUCIONAL AO PPA~~
 
-~~Art. 10. Nos termos do § 2º do art. 2º da [Lei nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 2023, os órgãos e as entidades da administração pública estadual encaminharão, até 31 de julho de 2024, à unidade central de planejamento do SIPOFE o documento que demonstre o alinhamento do planejamento estratégico institucional ao PPA 2024-2027.~~<br>
+~~Art. 10. Nos termos do § 2º do art. 2º da [Lei nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 2023, os órgãos e as entidades da administração pública estadual encaminharão, até 31 de julho de 2024, à unidade central de planejamento do SIPOFE o documento que demonstre o alinhamento do planejamento estratégico institucional ao PPA 2024-2027.~~
+
 ~~\- [Redação dada pelo Decreto nº 10.479, de 13-6-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109015/decreto-10479).~~ 
 
 ~~Art. 10. Nos termos do § 2º do art. 2º da [Lei nº 22.317](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107865), de 2023, os órgãos e as entidades da administração pública estadual encaminharão à unidade central de planejamento do SIPOFE o documento que demonstre o alinhamento do planejamento estratégico institucional ao PPA 2024-2027, em 6 (seis) meses após 1º de janeiro de 2024.~~

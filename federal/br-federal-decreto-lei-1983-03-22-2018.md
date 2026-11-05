@@ -1,5 +1,3 @@
-###DEL-002018-0-000-22-03-1983@@@
-
 # Decreto-lei nº 2.018, de 22 de marÇO de 1983
 
 Dispõe sobre isenções ou reduções de tributos em relação a bens que forem objeto de arrendamento mercantil, quando destinados a emprego na execução de programas, projetos ou empreendimentos contemplados com benefícios fiscais.

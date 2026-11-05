@@ -1,5 +1,3 @@
-###DEC-061690-0-000-13-11-1967@@@
-
 Decreto nº 61.690, de 13 de Novembro de 1967.
 
 Declara de utilidade pública a “Sociedade Mineira de Cultura”, com sede em Belo Horizonte, Estado de Minas Gerais.

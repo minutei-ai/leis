@@ -1,5 +1,3 @@
-###DEC-079555-0-000-19-04-1977@@@
-
 DECRETO Nº 79.555, DE 19 DE ABRIL DE 1977.
 
 Cria o Serviço de Assistência Social da Marinha, extingue a Diretoria de Assistência Social da Marinha, e dá outras providências.

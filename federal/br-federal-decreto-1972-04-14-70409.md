@@ -1,5 +1,3 @@
-###DEC-070409-0-000-14-04-1972@@@
-
 decreto nº 70.409, de 14 de abrIl de 1972.
 
 Dispõe sobre o hasteamento da Bandeira Nacional no dia 21 de abril de 1972.

@@ -1,5 +1,3 @@
-###DEC-003332-0-000-11-01-2000@@@
-
 DECRETO Nº 3332, DE 11 DE JANEIRO DE 2000.
 
 Promulga o Protocolo Adicional ao Tratado de Amizade, Cooperação e Comércio entre o Governo da República Federativa do Brasil e o Governo da República Oriental do Uruguai sobre Facilitação de Atividades Empresariais, celebrado em Montevidéu, em 06 de maio de 1997.
@@ -100,7 +98,31 @@ O presente Protocolo terá duração indefinida. Sua data de entrada em vigor se
 
 Feito em Montevidéu, em 06 de maio de 1997, em dois exemplares em idioma português e espanhol, sendo ambos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pela República Federativa</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>do Brasil</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Ministro de Estado das</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Relações Exteriores</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pela República Oriental</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>do Uruguai</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Álvaro Ramos</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Ministro de Estado de</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Relações Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pela República Federativa
+
+do Brasil
+
+Luiz Felipe Lampreia
+
+Ministro de Estado das
+
+Relações Exteriores
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pela República Oriental
+
+do Uruguai
+
+Álvaro Ramos
+
+Ministro de Estado de
+
+Relações Exteriores
+
+</td></tr></tbody></table>
 
 Anexo I
 

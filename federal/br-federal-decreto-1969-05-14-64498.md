@@ -1,5 +1,3 @@
-###DEC-064498-0-000-14-05-1969@@@
-
 DECRETO Nº 64.498, DE 14 DE MAio DE 1969.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Estado do Rio Grande do Sul.

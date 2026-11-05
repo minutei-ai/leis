@@ -1,5 +1,3 @@
-###DEC-079615-0-000-28-04-1977@@@
-
 DECRETO Nº 79.615, DE 28 DE ABRIL DE 1977.
 
 Concede à Indústrias Floriano Bianchini S. A. o direito de lavrar calcário dolomítico no Município de Rio Claro, Estado de São Paulo.

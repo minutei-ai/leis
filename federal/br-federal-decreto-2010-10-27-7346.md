@@ -1,5 +1,3 @@
-###DEC-007346-0-000-27-10-2010-PUB-01@@@
-
 DECRETO Nº 7.346, DE 27 DE OUTUBRO DE 2010.
 
 Cria a Embaixada do Brasil em Majuro, na República das Ilhas Marshall, cumulativa com a Embaixada em Manila.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208344)<br>
-
 # DECRETO N° 67.835, DE 27 DE JULHO DE 2023
 
 ### _Dispõe sobre a admissão na Ordem do Ipiranga._

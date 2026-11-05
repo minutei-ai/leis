@@ -1,5 +1,3 @@
-###DEC-094391-0-000-29-05-1987@@@
-
 DECRETO Nº 94.391, DE 29 DE MAIO DE 1987.
 
 Cria Grupo de Trabalho, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-090024-0-000-02-08-1984@@@
-
 decreto nº 90.024, de 02 de agosto de 1984
 
 Concede à COMPANHIA FERRO E AÇO DE VITÓRIA - COFAVI autorização para proceder a aumento de seu capital social.

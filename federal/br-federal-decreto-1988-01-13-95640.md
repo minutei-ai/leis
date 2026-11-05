@@ -1,7 +1,3 @@
-1
-
-###DEC-095640-0-000-13-01-1988@@@
-
 DECRETO N° 95.640, DE 13 DE JANEIRO DE 1988
 
 Cria o Instituto de Logística da Aeronáutica, e dá outras providências.

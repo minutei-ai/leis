@@ -1,5 +1,3 @@
-###MPV-000503-0-000-22-09-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 503, DE 22 DE SETEMBRO DE 2010.
 
 Ratifica o Protocolo de Intenções firmado entre a União, o Estado do Rio de Janeiro e o Município do Rio de Janeiro, com a finalidade de constituir consórcio público, denominado Autoridade Pública Olímpica - APO.

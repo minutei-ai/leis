@@ -44,74 +44,74 @@ Marcelo Werner Derschum Filho
 
 Secretário da Segurança Pública
 
-ANEXO I<br>
+ANEXO I
+
 QUADRO DE CARGOS DE PROVIMENTO EM CARÁTER PERMANENTE
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:368.15pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:17.05pt"><td style="width:202.7pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="270"><p align="center" class="Tabela-Texto" style="margin-left:.8pt;text-align:center"><span style="color:black">CARGO</span></p></td><td style="width:165.45pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="221"><p align="center" class="Tabela-Texto" style="margin-right:.15pt;text-align:center"><span style="color:black">TODAS AS CLASSES</span></p></td></tr><tr style="height:17.05pt"><td style="width:202.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="270"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Delegado de Polícia Civil</span></p></td><td style="width:165.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="221"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">1.700</span></p></td></tr><tr style="height:17.05pt"><td style="width:202.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="270"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Investigador de Polícia Civil</span></p></td><td style="width:165.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="221"><p align="center" class="Tabela-Texto" style="margin-right:.2pt;text-align:center"><span style="color:black;font-weight:normal">7.900</span></p></td></tr><tr style="height:17.05pt"><td style="width:202.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="270"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Escrivão de Polícia Civil</span></p></td><td style="width:165.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="221"><p align="center" class="Tabela-Texto" style="margin-right:.2pt;text-align:center"><span style="color:black;font-weight:normal">1.730</span></p></td></tr><tr style="height:17.05pt"><td style="width:202.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="270"><p class="Tabela-Texto" style="margin-top:5.05pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:5.7pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Perito Técnico de Polícia Civil</span></p></td><td style="width:165.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="221"><p align="center" class="Tabela-Texto" style="margin-top:5.05pt;margin-right:
-  .2pt;margin-bottom:3.0pt;margin-left:3.1pt;text-align:center"><span style="color:black;font-weight:normal">1.100</span></p></td></tr><tr style="height:17.05pt"><td style="width:202.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="270"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Perito Criminal de Polícia Civil</span></p></td><td style="width:165.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="221"><p align="center" class="Tabela-Texto" style="margin-right:.1pt;text-align:center"><span style="color:black;font-weight:normal">900</span></p></td></tr><tr style="height:17.05pt"><td style="width:202.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="270"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Perito Médico Legista de Policial Civil</span></p></td><td style="width:165.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="221"><p align="center" class="Tabela-Texto" style="margin-right:.2pt;text-align:center"><span style="color:black;font-weight:normal">600</span></p></td></tr><tr style="height:17.05pt"><td style="width:202.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="270"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Perito Odonto-Legal de Polícia Civil</span></p></td><td style="width:165.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.05pt" valign="top" width="221"><p align="center" class="Tabela-Texto" style="margin-right:.2pt;text-align:center"><span style="color:black;font-weight:normal">80</span></p></td></tr></tbody></table>
+CARGO
 
-ANEXO II<br>
+TODAS AS CLASSES
+
+Delegado de Polícia Civil
+
+1.700
+
+Investigador de Polícia Civil
+
+7.900
+
+Escrivão de Polícia Civil
+
+1.730
+
+Perito Técnico de Polícia Civil
+
+1.100
+
+Perito Criminal de Polícia Civil
+
+900
+
+Perito Médico Legista de Policial Civil
+
+600
+
+Perito Odonto-Legal de Polícia Civil
+
+80
+
+ANEXO II
+
 GRUPO OCUPACIONAL SEGURANÇA PÚBLICA SISTEMA POLICIAL CIVIL DE CARREIRA PROFISSIONAL QUANTITATIVO DE CARGOS NA CLASSE INICIAL
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:368.15pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:16.75pt"><td style="width:205.15pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="274"><p align="center" class="Tabela-Texto" style="margin-left:.8pt;text-align:center"><span style="color:black">CARGO</span></p></td><td style="width:163.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="217"><p align="center" class="Tabela-Texto" style="margin-right:.05pt;text-align:center"><span style="color:black">CLASSE III</span></p></td></tr><tr style="height:16.75pt"><td style="width:205.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Delegado de Polícia Civil</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="217"><p align="center" class="Tabela-Texto" style="margin-right:.1pt;text-align:center"><span style="color:black;font-weight:normal">880</span></p></td></tr><tr style="height:16.75pt"><td style="width:205.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-top:5.05pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:5.7pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Investigador de Polícia Civil</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="217"><p align="center" class="Tabela-Texto" style="margin-top:5.05pt;margin-right:
-  .2pt;margin-bottom:3.0pt;margin-left:3.1pt;text-align:center"><span style="color:black;font-weight:normal">4.100</span></p></td></tr><tr style="height:16.75pt"><td style="width:205.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Escrivão de Polícia Civil</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="217"><p align="center" class="Tabela-Texto" style="margin-right:.2pt;text-align:center"><span style="color:black;font-weight:normal">880</span></p></td></tr><tr style="height:16.75pt"><td style="width:205.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Perito Técnico de Polícia Civil</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="217"><p align="center" class="Tabela-Texto" style="margin-right:.3pt;text-align:center"><span style="color:black;font-weight:normal">550</span></p></td></tr><tr style="height:16.75pt"><td style="width:205.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Perito Criminal de Polícia Civil</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="217"><p align="center" class="Tabela-Texto" style="margin-right:.1pt;text-align:center"><span style="color:black;font-weight:normal">500</span></p></td></tr><tr style="height:16.75pt"><td style="width:205.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Perito Médico Legista de Policial Civil</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="217"><p align="center" class="Tabela-Texto" style="margin-right:.2pt;text-align:center"><span style="color:black;font-weight:normal">350</span></p></td></tr><tr style="height:16.75pt"><td style="width:205.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-left:5.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Perito Odonto-Legal de Polícia Civil</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.75pt" valign="top" width="217"><p align="center" class="Tabela-Texto" style="margin-right:.2pt;text-align:center"><span style="color:black;font-weight:normal">50</span></p></td></tr></tbody></table>
+CARGO
+
+CLASSE III
+
+Delegado de Polícia Civil
+
+880
+
+Investigador de Polícia Civil
+
+4.100
+
+Escrivão de Polícia Civil
+
+880
+
+Perito Técnico de Polícia Civil
+
+550
+
+Perito Criminal de Polícia Civil
+
+500
+
+Perito Médico Legista de Policial Civil
+
+350
+
+Perito Odonto-Legal de Polícia Civil
+
+50

@@ -1,5 +1,3 @@
-###DEC-051444-0-000-02-04-1962@@@
-
 Decreto nº 51.444, de 2 de abril de 1962.
 
 Competência para autorizar restituição de impôsto de importação taxa de despacho aduaneiro e outras.

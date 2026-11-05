@@ -2,19 +2,19 @@ Modificada pela Lei nº [3.683, de 31 de Dezembro de 2020.](https://legis.ac.gov
 
 > **LEI Nº 3.642, DE 21 DE JULHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2021 e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2021 e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
-<br>
-
 **CAPÍTULO I**
 
 **Das Disposições Preliminares**
-
-<br>
 
 **Art. 1º** Cumprindo o disposto nos arts. 150, 152 e 159 da Constituição Estadual, combinado com o inciso II do art. 35, do Ato das Disposições Constitucionais Transitórias da Constituição Federal e o disposto na Lei Complementar nº 101, de 4 de maio de 2000, ficam estabelecidas as diretrizes orçamentárias para o exercício financeiro de 2021, compreendendo: 
 
@@ -30,55 +30,31 @@ V - as disposições sobre alterações na legislação tributária do Estado; e
 
 VI - as disposições gerais.
 
-<br>
-
 **CAPÍTULO II**
 
 **Das Prioridades e Metas da Administração Pública Estadual**
 
-<br>
-
 **Art. 2º** As prioridades da administração pública estadual para o exercício de 2021, atendidas as despesas que constituem obrigações constitucionais e as despesas com funcionamento dos Órgãos que integram os Orçamentos Fiscal e Seguridade Social, serão as ações do Plano Plurianual de 2020 - 2023 estabelecidas nos Anexos desta lei.
-
-<br>
 
 **§ 1º** As prioridades e metas de que trata este artigo terão precedência na alocação dos recursos na Lei Orçamentária de 2021 e na sua execução, não se constituindo em limite à programação da despesa, respeitando o atendimento das despesas que constituem obrigações constitucionais.
 
-<br>
-
 **§ 2º** Durante a elaboração e a execução do Orçamento do Exercício financeiro de 2021, o Poder Executivo poderá alterar as metas estabelecidas neste dispositivo, desde que a finalidade seja conciliar a despesa orçada com a receita prevista, de forma a assegurar o equilíbrio das contas públicas e o atendimento às necessidades estabelecidas.
-
-<br>
 
 **Art. 3º** A elaboração e a aprovação do Projeto de Lei Orçamentária Anual - PLOA para o exercício de 2021, bem como a execução da respectiva lei, deverão ser compatíveis com a obtenção das metas constantes dos anexos desta lei.
 
-<br>
-
 **§ 1°** O cumprimento dos objetivos e prioridades do art. 2° desta lei deverá observar as metas definidas no Programa de Ajuste Fiscal (PAF) para o Estado do Acre, nos termos da Lei Complementar Federal nº 156/2016 e Emenda Constitucional nº 95/2016, visto que o teto de gastos é específico para as despesas primárias, ao passo em que a meta é um objetivo anual.
 
-<br>
-
 **§ 2°** O resultado a que se refere o art. 2º desta lei poderá ser ajustado até o montante estabelecido na revisão do Programa de Ajuste Fiscal - PAF, referente ao exercício de 2021, firmado entre o Governo do Estado do Acre e o Ministério da Fazenda, ou se verificadas, quando da elaboração do projeto de lei orçamentária, alterações da conjuntura nacional e estadual e dos parâmetros macroeconômicos utilizados na estimativa das receitas e despesas, do comportamento da execução do orçamento de 2020 e de modificações na legislação que venham a afetar esses parâmetros.
-
-<br>
 
 **CAPÍTULO III**
 
 **Das Diretrizes Gerais para Elaboração da Proposta Orçamentária**
 
-<br>
-
 **Art. 4º** A Lei Orçamentária Anual - LOA para o exercício de 2021 será elaborada conforme esta lei, observadas as normas da Lei nº 4.320, de 17 de março de 1964, que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal, a Portaria nº 42, de 14 de abril de 1999, do Ministério de Estado do Orçamento e Gestão, que atualiza a discriminação da despesa por funções e a Lei Complementar nº 101, de 2000, às disposições da Emenda Constitucional nº 93, de 8 de setembro de 2016, que altera o Ato das Disposições Transitórias da Constituição Federal para prorrogar a desvinculação das receitas da União e estabelecer a desvinculação das receitas dos Estados, Distrito Federal e Municípios e Manuais da Receita e Despesa Nacionais. 
-
-<br>
 
 **Art. 5º** No projeto de Lei Orçamentária Anual, as receitas e despesas serão orçadas a preços de agosto de 2020. 
 
-<br>
-
 **Parágrafo único.** A LOA indicará o limite da variação de preços a partir do qual poderá ser feita a atualização monetária do orçamento, bem como os indicadores econômicos a serem utilizados. 
-
-<br>
 
 **Art. 6º** Não poderão ser apresentadas emendas ao projeto de Lei Orçamentária Anual que anulem o valor de dotações orçamentárias com recursos provenientes de: 
 
@@ -96,27 +72,15 @@ VI - juros e encargos da dívida; e 
 
 VII - recursos de convênios, doações e operações de créditos com entidades nacionais e internacionais. 
 
-<br>
-
 **Art. 7º** A LOA para o exercício de 2021 deverá conter dotação específica para contrapartida de convênios, contratos, operações de crédito e outros instrumentos congêneres.
-
-<br>
 
 **§ 1º** A execução de créditos aos órgãos e entidades estaduais responsáveis pela execução dos convênios estará condicionada à garantia de ingresso dos recursos a serem transferidos ao Estado nos termos da presente lei. 
 
-<br>
-
 **§ 2º** A movimentação de créditos orçamentários e recursos financeiros para contrapartida de convênios, contratos, operações de crédito será executada mediante anuência da Secretaria de Estado de Planejamento e Gestão - SEPLAG. 
-
-<br>
 
 **Art. 8º** A LOA para o exercício de 2021 deverá estar em conformidade com a estrutura organizacional-administrativa dos órgãos e entidades que integram a administração direta e indireta do Estado. 
 
-<br>
-
 **Art. 9º** As metas e prioridades consignadas na LOA, através das ações (projetos, atividades e operações especiais) para o exercício de 2021 deverão estar estritamente em conformidade com a plataforma de planejamento governamental, delineadas no art. 2º desta lei. 
-
-<br>
 
 **Art. 10.** A LOA para o exercício de 2021 conterá dispositivos para adaptar as receitas e despesas e os limites de execução orçamentária e financeira aos efeitos econômicos de: 
 
@@ -130,8 +94,6 @@ IV - alterações na estrutura organizacional ou na competência legal ou regime
 
 V - alterações conjunturais da economia nacional e/ou estadual, inclusive as decorrentes de mudanças na legislação.
 
-<br>
-
 **Art. 11.** A Procuradoria-Geral do Estado - PGE, deverá encaminhar à Secretaria de Planejamento e Gestão - SEPLAG, até o dia 14 de agosto de 2020, a relação dos débitos constantes de precatórios judiciais inscritos até o dia 1º de julho de 2020, a serem incluídos no Orçamento de 2021, contendo: 
 
 I - Certidão de trânsito em julgado dos embargos à execução; ou
@@ -142,65 +104,35 @@ III - Tipo de precatório e;
 
 IV - Entidade devedora.
 
-<br>
-
 **Parágrafo único.** Compete ao Poder Executivo a centralização dos pagamentos dos precatórios dos órgãos e entidades da Administração Direta, ficando os demais entes da Administração Indireta responsáveis por incluí-los em seus respectivos orçamentos.
 
-<br>
-
 **Art. 12.** A inclusão de recursos na Lei Orçamentária de 2021 para o pagamento de precatórios deve ser realizada conforme o que preceitua o artigo 100, §§ 1º, 2º e 3º, da Constituição Federal, bem como o disposto no art. 78 e no art. 97 do Ato das Disposições Constitucionais Transitórias (ADCT).
-
-<br>
 
 **CAPÍTULO IV**
 
 **Da Organização e Estrutura da Lei Orçamentária**
 
-<br>
-
 **Art. 13.** A organização estrutural do projeto de Lei Orçamentária Anual para o exercício financeiro do ano de 2021 estará em estrita observância aos arts.150,153 a 159 da Constituição Estadual; art. 22 da Lei n. 4.320, de 1964; Lei Complementar nº 101, de 2000 e Portaria nº 42, de 1999, do Ministério de Estado de Orçamento e Gestão. 
-
-<br>
 
 **Parágrafo único.** A fixação da despesa no projeto de Lei Orçamentária Anual será demonstrado, segundo as classificações institucional, funcional e natureza de despesa até o nível de modalidade de aplicação, assim como da estrutura programática discriminada por programas e ações (projetos, atividades e operações especiais), que demonstra o Programa de Trabalho dos órgãos e entidades da Administração Pública Direta e Indireta.
 
-<br>
-
 **Art. 14.** Na LOA constará demonstrativo das emendas aprovadas pela Assembleia Legislativa do Estado do Acre, detalhando o órgão, número do projeto ou atividade, modalidade de aplicação, fonte e valor. 
-
-<br>
 
 **§ 1º** As emendas para modificação nas receitas e despesas constantes no projeto de lei orçamentária serão apresentadas da mesma forma e nível de detalhamento estabelecido no caput deste artigo. 
 
-<br>
-
 **§ 2º** As emendas parlamentares ao projeto de Lei Orçamentária para o exercício de 2021 deverão, sempre que possível, estar em conformidade com a plataforma de planejamento governamental, delineadas no art. 2º desta lei. 
-
-<br>
 
 **§ 3º** As emendas individuais ao projeto de lei orçamentária serão aprovadas no montante global de R$ 12.000.000,00 (doze milhões de reais) da previsão de recursos da receita tributária estimada no projeto de lei orçamentária de 2021, sendo que cinquenta por cento, R$ 6.000.000,00 (seis milhões de reais), serão destinados as ações e serviços públicos de educação, saúde e segurança pública e o restante destinados em quaisquer áreas.
 
-<br>
-
 **§ 4º** É obrigatório a execução orçamentária e financeira das programações a que se refere o § 3º deste artigo.
-
-<br>
 
 **§ 5º** Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 4º deste artigo.
 
-<br>
-
 § 6º Os critérios para a execução equitativa, os procedimentos que deverão ser adotados quando houver impedimentos legais ou de ordem técnica, o cumprimento de restos a pagar e as limitações das programações de caráter obrigatório serão definidos em lei.
-
-<br>
 
 **Art. 15.** A LOA conterá reserva de contingência em montante de até um por cento da receita corrente líquida, prevista para o exercício de 2021.
 
-<br>
-
 **Art. 16.** Para fins de operacionalização da Desvinculação de Receitas do Estado - DRE, prevista no art. 76-A, do Ato das Disposições Constitucionais Transitórias da Constituição Federal, com redação dada pela Emenda Constitucional nº 93, de 8 de setembro de 2016, ficam desvinculados de órgão, fundo ou despesa 30% (trinta por cento) das receitas estaduais relativas a impostos, taxas e multas, já instituídos ou que vierem a ser criados, seus adicionais e respectivos acréscimos legais e outras receitas correntes. 
-
-<br>
 
 **§ 1°** Excetuam-se da desvinculação de que trata o caput: 
 
@@ -214,15 +146,9 @@ IV - demais transferências obrigatórias e voluntárias entre o Estado e os dem
 
 V - fundos instituídos pelo Poder Judiciário, pelo Tribunal de Contas, pelo Ministério Público, pela Defensoria Pública e pela Procuradoria-Geral do Estado.
 
-<br>
-
 **§ 2°** Assegurasse do produto da desvinculação a que se refere o caput, no mínimo, 1/3 (um terço) para despesas referentes a previdência social. 
 
-<br>
-
 **§ 3°** O Governador do Estado regulamentará o disposto no caput através de decreto, observados os procedimentos e os limites previstos, respectivamente, na Lei Orçamentária Anual e na Constituição Federal. 
-
-<br>
 
 **Art. 17.** Não poderão ser incluídas na LOA e suas alterações, despesas à conta de investimentos em regime de execução especial, ressalvados: 
 
@@ -230,24 +156,19 @@ I - os casos de calamidade pública, na forma do parágrafo único do art. 162 d
 
 II - os créditos reabertos, de acordo com o que dispõe o art. 162 da Constituição Estadual. 
 
-<br>
-
 **CAPÍTULO V**
 
 **Das Diretrizes do Orçamento Fiscal, da Seguridade Social e de Investimentos**
 
-**<br>
+**
+
 **
 
 **SEÇÃO I**
 
 **Das Diretrizes Comuns**
 
-<br>
-
 **Art. 18.** Os orçamentos fiscais e da seguridade social compreenderão a programação dos poderes do Estado, seus fundos, órgãos, autarquias, inclusive as especiais, e fundações instituídas e mantidas pelo Poder Público, bem como das empresas públicas, sociedades de economia mista e demais entidades em que o Estado, direta ou indiretamente, detenha a maioria do capital social com direito a voto e que delas recebam recursos do tesouro estadual. 
-
-<br>
 
 **§ 1º** Excluem-se do disposto neste artigo as empresas e sociedades de economia mista que recebam recursos do Estado apenas sob a forma de: 
 
@@ -257,19 +178,11 @@ II - pagamento pelo fornecimento de bens e pela prestação de serviços; e
 
 III - pagamento de empréstimos, aval e financiamentos concedidos. 
 
-<br>
-
 **§ 2º** Os investimentos das empresas públicas e sociedades de economia mista a que se refere este artigo constarão, também, do orçamento previsto no inciso II, do art. 153 da Constituição Estadual. 
-
-<br>
 
 **Art. 19.** As despesas com pessoal e encargos sociais do Poder Executivo, do Poder Legislativo, neste abrangido o Tribunal de Contas, do Poder Judiciário, do Ministério Público e da Defensoria Pública Geral obedecerão ao limite estabelecido na Lei Complementar n. 101, de 2000. 
 
-<br>
-
 **Art. 20.** Constarão do projeto de Lei Orçamentária Anual as despesas com juros, encargos e amortizações das dívidas, das operações contratadas ou com prioridades e autorizações concedidas pela Assembleia Legislativa do Estado do Acre. 
-
-<br>
 
 **Art. 21.** As transferências voluntárias de recursos para municípios, através de convênios, acordos ou instrumentos congêneres ressalvados as destinadas a atender casos de calamidade pública, somente poderão ser realizados se o município beneficiado comprovar que: 
 
@@ -283,41 +196,23 @@ IV - comprovar adimplência com o Estado, no tocante aos convênios oriundos das
 
 V - declaração expedida pelas Secretarias de Estado de Educação - SEE e da Secretaria de Estado de Saúde - SESACRE, que o município está cumprindo com as ações estabelecidas no Pacto pelo Desenvolvimento Social dos Municípios do Acre. 
 
-<br>
-
 **Art. 22.** Fica o Poder Executivo autorizado a celebrar convênios com entidades privadas sem fins lucrativos, objetivando a concessão de subvenção social, auxílios e contribuições. 
-
-<br>
 
 **Art. 23.** O Poder Executivo poderá destinar na LOA dotação orçamentária para manter as unidades descentralizadas sediadas nos municípios interioranos, exclusivamente para atender a execução orçamentária e financeira no cumprimento das metas e prioridades dos planos de governo. 
 
-<br>
-
 **Art. 24.** As receitas próprias de órgãos, fundos, autarquias e fundações instituídas e mantidas pelo Poder Público, bem como das empresas públicas e sociedades de economia mista, serão programadas para atender, prioritariamente, despesas com pessoal e encargos sociais, serviços da dívida, contrapartidas de operações de créditos e de convênios e, posteriormente, outros de sua manutenção e investimentos prioritários, respeitadas as peculiaridades de cada um. 
-
-<br>
 
 **SEÇÃO II**
 
 **Das Diretrizes Específicas para os Orçamentos dos Poderes: Legislativo, Judiciário, Ministério Público do Estado do Acre - MPE e para a Defensoria Pública Geral do Estado**
 
-<br>
-
 **Art. 25.** Os Poderes Legislativo e Judiciário, o Ministério Público - MP, o Tribunal de Contas do Estado -TCE e a Defensoria Pública Geral do Estado - DPGE, elaborarão suas respectivas propostas orçamentárias para o exercício de 2021, tendo como parâmetros os percentuais indicados nos §§ 1º, 2º, 3º e 4º, deste artigo.
-
-<br>
 
 **§ 1º** As propostas orçamentárias dos Poderes e Órgãos indicados no caput referem-se a percentuais das receitas correntes próprias do Tesouro Estadual descritas a seguir: Impostos sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transportes Interestaduais e Intermunicipais e de Comunicação – ICMS, Impostos sobre a Propriedade de Veículos Automotores – IPVA, Impostos de Transmissão Causa Mortis e Doação – ITCMD e de Taxas Administrativas, bem como as Transferências da União, conforme a seguir: do Fundo de Participação dos Estados e do Distrito Federal – FPE, Imposto sobre a Renda Retido na Fonte – IRRF, Imposto de Propriedade Industrial – IPI e do ICMS – Desoneração das Exportações – Lei Complementar nº 87/1996.
 
-<br>
-
 **§ 2º** No exercício financeiro de 2021, a distribuição financeira aos Poderes e Órgãos, indicados no caput, incidirá sobre o total das Receitas Previstas, deduzidas as transferências constitucionais aos municípios, bem como 1% (um por cento) referente ao Programa de Formação do Patrimônio do Servidor Público – PASEP, incidentes sobre a transferência do FPE.
 
-<br>
-
 **§ 3º** Será considerada como receita líquida o resultado entre as receitas descritas no § 1º e as deduções previstas no § 2º, sendo deduzidas o limite mínimo de trinta por cento com a Educação, conforme art. 197 da Constituição Estadual e doze por cento referente ao limite mínimo aplicado à Saúde, conforme § 2º do art. 198 da Constituição Federal.
-
-<br>
 
 **§ 4º** Os percentuais de participação indicados são:
 
@@ -331,11 +226,7 @@ IV - Ministério Público do Estado: 4%; e
 
 V - Defensoria Pública Geral do Estado: 0,9%.
 
-<br>
-
 **§ 5º** A metodologia base cálculo para aferição dos percentuais estipulados no § 4º está delineado no anexo I desta lei.
-
-<br>
 
 **§ 6º** Para fins de transparência da gestão fiscal e em observância ao princípio da publicidade, o Poder Executivo tornará disponíveis na internet, para acesso de toda a sociedade, no mínimo, as seguintes informações:
 
@@ -349,47 +240,27 @@ IV - o relatório resumido da execução orçamentária; e
 
 V - o relatório da gestão fiscal.
 
-<br>
-
 **SEÇÃO III**
 
 **Das Diretrizes Específicas do Orçamento Fiscal**
 
-<br>
-
 **Art. 26.** O orçamento fiscal centralizará as estimativas de arrecadação e recolhimento no tesouro estadual, inclusive com relação aos recursos oriundos das autarquias, fundações, fundos, empresas públicas e sociedades de economia mista, em conformidade com o art. 3º desta lei. 
-
-<br>
 
 **Art. 27.** Constarão do projeto de Lei Orçamentária Anual os recursos do tesouro estadual destinados às autarquias, fundações, empresas públicas e sociedade de economia mista e serão apresentados nos orçamentos próprios dessas instituições. 
 
-<br>
-
 **Art. 28.** Os recursos do tesouro estadual somente poderão ser programados para atender despesas de capital, depois de atendidas as despesas com pessoal e encargos sociais e serviços da dívida. 
-
-<br>
 
 **Art. 29.** O projeto de Lei Orçamentária Anual poderá estabelecer a abertura de créditos adicionais suplementares, de acordo com o disposto nos arts. 7º e 43 da Lei n. 4.320, de 1964. 
 
-<br>
-
 **Art. 30.** As programações custeadas com recursos de operações de créditos ou, ainda, oriundas de convênios e/ou transferências voluntárias ainda não formalizadas, serão identificadas no orçamento, ficando sua implementação condicionada à efetiva realização dos contratos. 
-
-<br>
 
 **Art. 31.** As dotações para formação de estoques reguladores e para aquisição de bens serão orçadas considerando a disponibilidade de recursos do governo estadual, buscando a estabilização da oferta e da disponibilidade estratégica de produtos essenciais ao abastecimento interno. 
 
-<br>
-
 **Art. 32.** O projeto de Lei Orçamentária Anual destinará recursos para pagamento de valores fixados em sentença judicial, quando for o caso, obedecido o disposto no art. 100 da Constituição Estadual e de acordo com a Lei Complementar n. 101, de 2000. 
-
-<br>
 
 **SEÇÃO IV**
 
 **Das Diretrizes Específicas do Orçamento da Seguridade Social**
-
-<br>
 
 **Art. 33.** O orçamento da seguridade social obedecerá ao definido nos arts. 194, 196, 201 e 203 da Constituição Federal e contará, dentre outros, com recursos provenientes: 
 
@@ -405,25 +276,15 @@ V - das demais receitas diretamente arrecadadas pelos órgãos, fundos e entidad
 
 VI - das operações de créditos, transferências e doações destinadas aos órgãos, fundos e entidades que devam integrar, exclusivamente, este orçamento. 
 
-<br>
-
 **Art. 34.** O orçamento da seguridade social discriminará a transferência de recursos do Estado aos Municípios, para execução descentralizada das ações de saúde e assistência social, conforme estabelecida nos arts. 198 e 204 da Constituição Federal. 
-
-<br>
 
 **SEÇÃO V**
 
 **Das Diretrizes do Orçamento de Investimentos**
 
-<br>
-
 **Art. 35.** O orçamento de investimento previsto no inciso II do art. 153 da Constituição Estadual será apresentado por cada empresa pública e por sociedade de economia mista em que o Estado detenha a maioria do capital social com direito a voto. 
 
-<br>
-
 **§ 1º** O projeto de Lei Orçamentária Anual será acompanhado de um demonstrativo, por empresa, de origem das receitas esperadas, bem como da aplicação destas. 
-
-<br>
 
 **§ 2º** O demonstrativo a que se refere o § 1º indicará, pelo menos: 
 
@@ -431,17 +292,11 @@ I - os investimentos correspondentes à aquisição de direitos do ativo imobili
 
 II - quando for o caso, os investimentos financiados com operações de crédito, especificamente vinculados ao projeto. 
 
-<br>
-
 **Art. 36.** Os montantes das despesas dos orçamentos de investimento não poderão ser superiores aos das respectivas receitas. 
-
-<br>
 
 **CAPÍTULO VI**
 
 **Das Disposições sobre Alterações na Legislação Tributária do Estado**
-
-<br>
 
 **Art. 37.** Na ocorrência de alterações na legislação federal ou na necessidade de modificação na legislação tributária estadual, o Poder Executivo enviará à Assembleia Legislativa, até o final de cada exercício, projeto de lei dispondo sobre as alterações na legislação tributária, especialmente sobre:
 
@@ -455,33 +310,19 @@ IV - aperfeiçoamento do sistema de fiscalização, cobrança e arrecadação do
 
 V - acompanhamento e fiscalização, pelo Estado do Acre, das compensações e das participações financeiras previstas na Constituição Federal, oriundas da exploração de recursos hídricos e minerais.
 
-<br>
-
 **Art. 38.** A concessão ou ampliação de incentivos, isenções ou benefícios, de natureza tributária ou financeira, deverão constar do projeto de Lei Orçamentária e observar o disposto na Lei Complementar nº 101, de 2000. 
-
-<br>
 
 **CAPÍTULO VII**
 
 **Das Disposições Gerais**
 
-<br>
-
 **Art. 39.** O projeto de Lei Orçamentária Anual será enviado pelo Poder Executivo à Assembleia Legislativa, de acordo com o que dispõe o art. 158 da Constituição Estadual, no tocante a prazos e datas limites para recebimento. 
-
-<br>
 
 **Art. 40.** Fica o Poder Executivo autorizado a celebrar convênios e/ou contratos de empréstimos e operações de crédito com entidades governamentais e privadas, nacionais e internacionais, de acordo com as normas e legislações vigentes. 
 
-<br>
-
 **Art. 41.** A SEPLAG divulgará, para cada unidade orçamentária dos órgãos, fundos e entidades que integram os orçamentos de que trata esta lei, os quadros de detalhamento de despesas, especificando, para cada categoria de programação, os valores respectivos, conforme normatização citada no art. 3º desta lei. 
 
-<br>
-
 **Parágrafo único.** As alterações decorrentes da abertura e reabertura de créditos adicionais integrarão os quadros de detalhamento de despesas. 
-
-<br>
 
 **Art. 42.** Na ocorrência em que o projeto de Lei Orçamentária Anual não seja encaminhado pela Assembleia Legislativa até o dia 31 de dezembro de 2020 para sanção governamental, conforme o disposto no parágrafo único do art. 158 da Constituição Estadual, a execução orçamentária poderá ser realizada em cada mês, até a competente sanção governamental, para o atendimento de despesas com pessoal e encargos sociais:
 
@@ -497,15 +338,9 @@ V - calamidade pública; e
 
 VI - com manutenção de projetos em andamento e contratos vigentes, até o limite de 1/12 (um doze avos) do valor previsto, multiplicado pelo número de meses decorridos até a publicação da respectiva lei.
 
-<br>
-
 **§ 1º** Considerar-se-á antecipação de crédito à conta da LOA a utilização dos recursos autorizados neste artigo.
 
-<br>
-
 **§ 2º** Os saldos negativos eventualmente apurados em virtude de procedimento previsto neste artigo serão ajustados, após sanção do projeto de Lei Orçamentária Anual, através da abertura de créditos adicionais, com base em remanejamento de dotações, cujos atos serão publicados antes da divulgação dos quadros de detalhamento da despesa a que se refere o art. 37 desta lei. 
-
-<br>
 
 **Art. 43.** A alocação dos recursos na Lei Orçamentária Anual – LOA, em seus créditos adicionais e na respectiva execução, observadas as demais diretrizes desta lei e, tendo em vista propiciar o controle de custos, o acompanhamento e a avaliação dos resultados das ações de governo, será feita:
 
@@ -513,83 +348,43 @@ I - por programa e ação orçamentária, com a identificação da classificaç�
 
 II - diretamente à unidade orçamentária responsável pela execução da ação orçamentária correspondente, excetuadas aquelas cujas dotações se enquadrem no parágrafo único deste artigo.
 
-<br>
-
 **Parágrafo único.** As dotações destinadas ao atendimento de despesas ou encargos da Administração Pública Estadual que não sejam específicos de determinado órgão, fundo ou entidade, ou cuja gestão e controle centralizados interessam à administração, com vistas à sua melhor gestão financeira e patrimonial, serão alocadas nos Encargos Gerais do Estado, sob gestão de unidade administrativa integrante da Secretaria de Estado da Fazenda.
-
-<br>
 
 **Art. 44.** Observada a vedação contida no inciso III do art. 161 da Constituição Estadual, fica facultada, na execução orçamentária do Estado do Acre, a utilização do regime de descentralização de créditos orçamentários.
 
-<br>
-
 **§ 1º** Entende-se por descentralização de créditos orçamentários o regime de execução da despesa orçamentária em que o órgão, entidade do Estado ou unidade administrativa, integrante do Orçamento Fiscal e da Seguridade Social, delega a outro órgão, entidade pública ou unidade administrativa do mesmo órgão, a atribuição para realização de ação constante da sua Programação Anual de Trabalho.
-
-<br>
 
 **§ 2º** Fica o Poder Executivo autorizado a atribuir a outras unidades administrativas mediante descentralização, diretamente ou por meio de destaque, as dotações consignadas em unidades orçamentárias do próprio Poder Executivo, desde que aquelas unidades descentralizadas estejam capacitadas a desempenhar os atos de gestão e regularmente cadastradas como unidades gestoras.
 
-<br>
-
 **§ 3º** A adoção do regime de descentralização somente será permitida para cumprimento, pela unidade executora, da finalidade da ação objeto da descentralização, conforme expressa na Lei Orçamentária Anual, e a despesa a ser realizada esteja efetivamente prevista ou se enquadre na respectiva dotação.
-
-<br>
 
 **Art. 45.** Fica autorizada a reprogramação e remanejamento dos programas, projetos e atividades entre órgãos do Poder Executivo, desde que não alterem o valor final do orçamento, os quais serão aprovados por ato do governador do Estado.
 
-<br>
-
-**P****arágrafo único**. O Poder Executivo assegurará, por meio do instrumento de que trata o caput, na hipótese de não haver fornecimento direto ou financiamento pela União, a aquisição de vacinas destinadas à imunização da população ao novo Corona vírus - Covid 19. (Incluído pela Lei nº 3.683, de 31/12/2021)
-
-<br>
+**Parágrafo único**. O Poder Executivo assegurará, por meio do instrumento de que trata o caput, na hipótese de não haver fornecimento direto ou financiamento pela União, a aquisição de vacinas destinadas à imunização da população ao novo Corona vírus - Covid 19. (Incluído pela Lei nº 3.683, de 31/12/2021)
 
 **Art. 46.** As modalidades de aplicação e as fontes de recursos aprovadas na Lei Orçamentária Anual e em seus créditos adicionais constituem informações gerenciais, podendo ser modificadas, numa mesma ação, justificadamente, para atender às necessidades de execução, não se considerando essas modificações, quando isoladamente, créditos adicionais.
 
-<br>
-
 **Parágrafo único.** As modificações de modalidades de aplicação e de fontes de recursos a que se refere o caput deste artigo devem ser autorizadas mediante portaria da Secretaria de Estado do Planejamento e Gestão - SEPLAG, ressalvados os casos de vinculação de fontes de recursos mediante lei.
-
-<br>
 
 **Art. 47.** Caso seja necessária a limitação do empenho das dotações orçamentárias e da movimentação financeira para atingir as metas fiscais previstas no orçamento de 2021, essa será feita de forma proporcional ao montante dos recursos efetivamente arrecadados e alocados, também proporcionalmente em relação à dotação inicial destinada a cada Poder, inclusive ao Ministério Público do Estado do Acre e Defensoria Pública Geral do Estado.
 
-<br>
-
 **§ 1º** Na hipótese da ocorrência do disposto no caput deste artigo, o Poder Executivo comunicará aos demais Poderes, incluído o Ministério Público do Estado do Acre - MPE e a Defensoria Pública Geral do Estado do Acre - DPGE, o montante que caberá a cada um tornar indisponível para empenho e movimentação financeira.
-
-<br>
 
 **§ 2º** O chefe de cada Poder, do Ministério Público do Estado do Acre - MPE e a Defensoria Pública Geral do Estado do Acre - DPGE, com base na comunicação de que trata o § 1º, publicará ato estabelecendo os montantes que cada órgão do respectivo Poder terá como limite de movimentação e empenho. 
 
-<br>
-
 **Art. 48.** Na elaboração do projeto de Lei Orçamentária Anual fica garantida a participação popular através de fóruns, audiências públicas, sessões, reuniões setoriais, dentre outros instrumentos de debate público, onde o Poder Executivo alinhará as demandas estratégicas apresentadas pela sociedade organizada às prioridades governamentais. 
-
-<br>
 
 **Art. 49.** Na elaboração do projeto de Lei Orçamentária Anual e quando de sua execução, deverão ser observadas, as políticas públicas especificas, de acordo com a territorialidade definida no Zoneamento Ecológico e Econômico do Acre - ZEE; 
 
-<br>
-
 **Art. 50.** Ficam autorizadas a concessão de quaisquer vantagens, aumento de remuneração, criação de cargos, empregos e funções; alterações de estruturas de carreiras; e admissões ou contratações de pessoal a qualquer título, ficando as mesmas condicionadas à existência de recursos, expressa autorização legislativa e conformidade às disposições contidas no art. 169, da Constituição Federal e respeitando os limites para despesas com pessoal definidos na Lei Complementar nº 101, de 2000. 
-
-<br>
 
 **Parágrafo único.** O Poder Executivo, de acordo com a conveniência da administração e respeitando os limites para despesas com pessoal definidos na Lei Complementar nº 101, de 2000, poderá, mediante avaliação de desempenho, criar instrumentos de gratificação ou outros incentivos para os servidores estaduais. 
 
-<br>
-
 **Art. 51.** Fica autorizada a realização de concurso público para provimento de cargos, observando-se o disposto nos arts. 37 e 169 da Constituição Federal; art. 27 da Constituição Estadual e arts. 21 e 22 da Lei Complementar nº 101, de 2000. 
-
-<br>
 
 **Art. 52.** A LOA não destinará recursos para atender ações de caráter sigiloso, salvo quando realizadas por órgãos ou entidades cujas legislações que as criaram estabeleçam, entre suas competências, o desenvolvimento de atividades relativas à segurança da sociedade e do Estado e que tenha como pré-condição o sigilo. 
 
-<br>
-
 **Art. 53.** A reserva de contingência do orçamento poderá ser reforçada por recursos de outros órgãos e unidades administrativas, como também pela reestimativa da receita e pelo excesso de arrecadação. 
-
-<br>
 
 **Art. 54.** Integram esta lei: 
 
@@ -601,27 +396,13 @@ III - ANEXO III - Metas Fiscais; (Vide Lei nº 3.683, de 31/12/2020, que ajustou
 
 IV - ANEXO IV - Riscos Fiscais.
 
-<br>
-
 **Art. 55.** Esta Lei entra em vigor na data de sua publicação. 
 
-<br>
-
 Rio Branco-Acre, 21 de julho de 2020, 132º da República, 118º do Tratado de Petrópolis e 59º do Estado do Acre.
-
-<br>
 
 **Gladson de Lima Cameli**
 
 Governador do Estado do Acre
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 ANEXOS I - IV
 
@@ -634,8 +415,6 @@ ANEXO III - METAS FICAIS;
 ANEXO IV - RISCOS FISCAIS.
 
  (Arquivos disponíveis no final da página principal de visualização)
-
-<br>
 
 ## Anexo oficial: Anexo I .pdf
 

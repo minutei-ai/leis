@@ -1,5 +1,3 @@
-###DEC-084027-0-000-25-09-1979@@@
-
 Decreto nº 84.027, de 25 de setembro de 1979.
 
 Revoga o Decreto nº 72.827, de 24 de setembro de 1973, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094298-0-000-30-04-1987@@@
-
 DECRETO Nº 94.298, DE 30 DE ABRIL DE 1987.
 
 Concede autorização à CANADIAN PACIFIC AIR LINES LIMITED para funcionar no Brasil como empresa regular de transporte aéreo.

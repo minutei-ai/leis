@@ -1,5 +1,3 @@
-###DEL-003679-0-000-02-10-1941@@@
-
 DECRETO-LEI N. 3.679 – DE 2 DE OUTUBRO DE 1941
 
 Reorganiza os “Serviços Auxiliares” do Departamento de Imprensa e Propaganda e dá outras providências

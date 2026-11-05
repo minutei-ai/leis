@@ -1,5 +1,3 @@
-###DEC-082278-0-000-18-09-1978@@@
-
 Decreto nº 82.278, de 18 de setembro de 1978.
 
 Dispõe sobre a encampação do Porto do Recife, no Estado de Pernambuco, e dá outras providências.

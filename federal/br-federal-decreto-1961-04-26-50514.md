@@ -1,5 +1,3 @@
-###DEC-050514-0-000-26-04-1961@@@
-
 DECRETO Nº 50.514, DE 26 DE ABRIL DE 1961.
 
 Concede à Emprêsa de Navegação Penalvense Limitada autorização para funcionar como emprêsa de navegação e cabotagem.

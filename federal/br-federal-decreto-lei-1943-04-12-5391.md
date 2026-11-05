@@ -1,5 +1,3 @@
-###DEL-005391-0-000-12-04-1943@@@
-
 DECRETO-LEI N. 5.391 – DE 12 DE AbRIL DE 1943
 
 Transforma cargos da carreira de Auxiliar de Ensino do Ministério da Educação, e Saude e dá outras providências
@@ -32,4 +30,26 @@ Gustavo Capanema.
 
 ### RELAÇÃO NOMINAL A QUE SE REFERE O ART 2º DO DECRETO-LEI N. 5.391, DE 12 DE ABRIL DE 1943
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NOME</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:131.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO ATUAL</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Jaime Boniland Figueiras......................</span></p><p class="Tabela" style="text-indent:0pt"><span>Álvaro Júlio de Barros Figueiredo.........</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mário de Azevedo.................................</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Auxiliar de Ensino, classe G.............</span></p><p class="Tabela" style="text-indent:0pt"><span>Auxiliar de Ensino, classe F..............</span></p><p class="Tabela" style="text-indent:0pt"><span>Auxiliar de Ensino, classe F..............</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:131.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Assistente, padrão I.</span></p><p class="Tabela" style="text-indent:0pt"><span>Assistente, padrão I.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assistente, padrão I.</span></p></td></tr></tbody></table>
+NOME
+
+CARGO
+
+CARGO ATUAL
+
+Jaime Boniland Figueiras......................
+
+Álvaro Júlio de Barros Figueiredo.........
+
+Mário de Azevedo.................................
+
+Auxiliar de Ensino, classe G.............
+
+Auxiliar de Ensino, classe F..............
+
+Auxiliar de Ensino, classe F..............
+
+Assistente, padrão I.
+
+Assistente, padrão I.
+
+Assistente, padrão I.

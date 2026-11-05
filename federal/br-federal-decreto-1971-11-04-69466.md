@@ -1,5 +1,3 @@
-###DEC-069466-0-000-04-11-1971@@@
-
 DECRETO Nº 69.466 - DE 4 DE NOVEMBRO DE 1971
 
 Fixa os preços mínimos básicos, relativos à safra de 1972, para a Juta e Malva da Região Amazônica.
@@ -16,7 +14,29 @@ Art. 2º O preço mínimo básico fica estabelecido em Cr$ 1,25 (um cruzeiro e v
 
 § 2º Os ágios e deságios para diversos tipos de juta e malva serão estabelecidos de acôrdo com os seguintes percentuais relativos ao tipo 5 básico:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tipos</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Percentuais</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1 .........................................................................</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nominal</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3 .........................................................................</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">117</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5 básico ..............................................................</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7 .........................................................................</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">92</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9 .........................................................................</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75</span></p></td></tr></tbody></table>
+Tipos
+
+Percentuais
+
+1 .........................................................................
+
+Nominal
+
+3 .........................................................................
+
+117
+
+5 básico ..............................................................
+
+100
+
+7 .........................................................................
+
+92
+
+9 .........................................................................
+
+75
 
 Art. 3º As operações de aquisição ou financiamento serão realizadas com produtores ou suas cooperativas, podendo, entretanto, as de financiamento, com opção de venda, em caráter excepcional, ser estendidas a beneficiadores, desde que comprovem ter pago aos produtores preço nunca inferior a Cr$ 0,93 (noventa e três centavos) por quilo de fibra do tipo 5, posta no porto da prensa, livre de quaisquer despesas adicionais, inclusive Imposto de Circulação de Mercadorias e FUNRURAL.
 

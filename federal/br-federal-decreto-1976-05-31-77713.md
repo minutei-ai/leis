@@ -1,5 +1,3 @@
-###DEC-077713-0-000-31-05-1976@@@
-
 DECRETO Nº 77.713, DE 31 DE MAIO DE 1976
 
 Declara a comunidade do Manifesto de Mina que menciona.

@@ -1,5 +1,3 @@
-###DEC-060858-0-000-15-06-1967@@@
-
 DECRETO Nº 60.858, DE 15 DE JUNHO DE 1967.
 
 Declara de utilidade pública a “Pia Sociedade de São Paulo”, com sede em São Paulo, Estado de São Paulo.

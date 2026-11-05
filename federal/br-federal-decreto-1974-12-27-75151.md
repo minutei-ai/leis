@@ -1,5 +1,3 @@
-###DEC-075151-0-000-27-12-1974@@@
-
 DECRETO Nº 75.151, DE 27 DE DEZEMBRO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado de Goiás.
@@ -21,8 +19,6 @@ Ernesto Geisel
 Mário Henrique Simonsen
 
 Alysson Paulinelli
-
-###DEC-075151-0-000-27-12-1974@@@RET01+++
 
 DECRETO Nº 75151, DE 27 DE DEZEMBRO DE 1974.
 

@@ -1,20 +1,18 @@
-###DEC-028452-0-000-01-08-1950@@@
+**DECRETO Nº 28.452 DE 1 DE AGÔSTO DE 1950.**
 
-<strong>DECRETO Nº 28.452 DE 1 DE AGÔSTO DE 1950.</strong>
+***Outorga à Madeiras e Fécula Luiz Olsen S.A. concessão para o aproveitamento de energia hidráulica de uma queda d\`água existente no rio Prêto, município de Serra Alta, estado de Santa Catarina.***
 
-<em><strong>Outorga à Madeiras e Fécula Luiz Olsen S.A. concessão para o aproveitamento de energia hidráulica de uma queda d\`água existente no rio Prêto, município de Serra Alta, estado de Santa Catarina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, é outorgada à Madeiras e Fécula Luiz Olsen S.A concessão para o aproveitamento de energia hidráulica de uma queda d\`água existente no rio Prêto, município de Serra Alta, Estado de Santa Catarina.
+**Art**. 1º Respeitados os direitos de terceiros, é outorgada à Madeiras e Fécula Luiz Olsen S.A concessão para o aproveitamento de energia hidráulica de uma queda d\`água existente no rio Prêto, município de Serra Alta, Estado de Santa Catarina.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinados a altura da queda a aproveitar, a descarga de derivação e a potência.
 
 § 2º O aproveitamento destina-se ao uso exclusivo da concessionária, que não poderá ceder qualquer parcela de energia a terceiros, mesmo a título gratuito, ficando todavia, excluídas desta proibição as vilas operárias da concessionária, desde que seja gratuito o suprimento.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias contados da data de sua publicação.
 
@@ -80,22 +78,22 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de Santa Catarina, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
+**Art**. 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de Santa Catarina, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
 
 § 1º A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado de Santa Catarina não se opõe à utilização dos bens objeto da reversão.
 
 § 2º A concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 6º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 1 de agôsto de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G DUTRA</strong>
+**EURICO G DUTRA**
 
 A de Novaes Filho

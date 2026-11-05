@@ -1,5 +1,3 @@
-###DEC-046906-0-000-25-09-1959@@@
-
 DECRETO Nº 46.906, DE 25 DE SETEMBRO DE 1959.
 
 Declara de utilidade pública a Sociedade Costura e Lactário Pró-Infância, com sede no Distrito Federal.

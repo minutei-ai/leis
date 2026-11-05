@@ -1,5 +1,3 @@
-###MPV-001977-0-010-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-10, DE 10 DE DEZEMBRO DE 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

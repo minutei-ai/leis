@@ -1,5 +1,3 @@
-###DEL-009549-0-000-06-08-1946@@@
-
 DECRETO-LEI N. 9.549 – DE 6 DE AGÔSTO DE 1946
 
 Autoriza o Superintendente das Emprêsas Incorporadas ao Patrimônio Nacional a alienar os bens que menciona.

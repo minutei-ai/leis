@@ -1,5 +1,3 @@
-###DEL-004097-0-000-06-02-1942@@@
-
 DECRETO-LEI N. 4.097 – DE 6 DE FEVEREIRO DE 1942
 
 Autoriza, o Ministério da Guerra a requisitar a aparelhagem fotogramétrica da “Serviços Aéreos Condor Ltda”

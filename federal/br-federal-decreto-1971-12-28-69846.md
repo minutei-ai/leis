@@ -1,5 +1,3 @@
-###DEC-069846-0-000-28-12-1971@@@
-
 DECRETO Nº 69.846 - DE 28 de DEZEMBRO DE 1971
 
 Assegura autonomia administrativa e financeira ao Hospital das Forças Armadas e dá outras providências.

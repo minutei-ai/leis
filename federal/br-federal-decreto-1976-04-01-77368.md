@@ -1,5 +1,3 @@
-###DEC-077368-0-000-01-04-1976@@@
-
 DECRETO Nº 77.368 - DE 1º DE ABRIL DE 1976
 
 Autoriza a transformação do curso de Matemática em curso de Ciências, da Faculdade de Educação, Ciências e Letras Marechal Castelo Branco, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

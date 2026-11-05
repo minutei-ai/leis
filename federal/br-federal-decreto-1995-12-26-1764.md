@@ -1,7 +1,3 @@
-1
-
-###DEC-001764-0-000-26-12-1995@@@
-
 DECRETO nº 1.764, DE 26 DE DEZEMBRO DE 1995
 
 Altera alíquotas do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF, incidente sobre as operações de crédito que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-095001-0-000-05-10-1987@@@
-
 DECRETO Nº 95.001, DE 5 DE OUTUBRO DE 1987
 
 Outorga à Companhia de Água e Esgotos de Brasília - CAESB concessão para captação de água do rio Descoberto, para abastecimento público, no Distrito Federal.

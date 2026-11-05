@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e9e72d5a-deb9-4015-b13d-dd5ffc4b98c2/texto#nowhere)
 
-###DEL-000905-0-000-01-10-1969@@@
-
 DECRETO-LEI Nº 905, de 1º de outubro de 1969
 
 Modifica a redação da letra “a” do § 1º do artigo 58 da Lei nº 5.020, de 7 de junho de 1966 que dispõe sôbre as promoções dos Oficiais da ativa da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-066319-0-000-14-03-1970@@@
-
 DECRETO Nº 66.319 - DE 14 DE MARÇO DE 1970
 
 Dispõe sôbre o banimento do Território Nacional de Shismo Osawa e outros.

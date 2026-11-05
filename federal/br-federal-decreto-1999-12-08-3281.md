@@ -1,5 +1,3 @@
-###DEC-003281-0-000-08-12-1999@@@
-
 DECRETO Nº 3.281, DE 8 DE DEZEMBRO DE 1999.
 
 Autoriza a prorrogação da descentralização, até 31 de dezembro de 2003, referente às atividades que menciona e dá outras providências.

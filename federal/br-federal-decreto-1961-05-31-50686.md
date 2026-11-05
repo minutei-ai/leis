@@ -1,14 +1,12 @@
-###DEC-050686-0-000-31-05-1961@@@
+**DECRETO Nº 50.686, DE 31 DE MAIO DE 1961.**
 
-<strong>DECRETO Nº 50.686, DE 31 DE MAIO DE 1961.</strong>
+***Altera o Regimento do Departamento Nacional de Estradas de Ferro, do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Altera o Regimento do Departamento Nacional de Estradas de Ferro, do Ministério da Viação e Obras Públicas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regimento do Departamento Nacional de Estradas de Ferro, aprovado pelo Decreto nº 20.351, de 8 de janeiro de 1946, e alterado pelo Decreto nº 40.748, de 15 de janeiro de 1957, fica assim modificado:
+**Art**. 1º O Regimento do Departamento Nacional de Estradas de Ferro, aprovado pelo Decreto nº 20.351, de 8 de janeiro de 1946, e alterado pelo Decreto nº 40.748, de 15 de janeiro de 1957, fica assim modificado:
 
 I) O artigo 12 passa a vigorar com a seguinte redação:
 
@@ -76,10 +74,10 @@ VII - apresentar, anualmente, aos Diretores da D.C.I. e da D.P.O., relatório da
 
 IX) Fica suprimido o parágrafo único do artigo 32.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, em 31 de maio de 1961; 140º da Independência e 73º da República.
 
-<strong>JÂNIO QUADROS</strong>
+**JÂNIO QUADROS**
 
 Clóvis Pestana

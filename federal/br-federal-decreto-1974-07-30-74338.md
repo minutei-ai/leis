@@ -1,5 +1,3 @@
-###DEC-074338-0-000-30-07-1974@@@
-
 DECRETO Nº 74.338 - DE 30 DE JULHO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão, no Estado de Pernambuco.

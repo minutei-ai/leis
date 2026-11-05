@@ -1,7 +1,3 @@
-1
-
-###DEC-098995-0-000-02-03-1990@@@
-
 DECRETO Nº 98.995, DE 2 DE MARÇO DE 1990
 
 Altera os Efetivos de Oficiais da Força Aérea Brasileira para o ano de 1990

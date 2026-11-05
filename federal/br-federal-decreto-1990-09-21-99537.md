@@ -1,5 +1,3 @@
-###DEC-099537-0-000-21-09-1990@@@
-
 DECRETO N° 99.537, DE 21 DE SETEMBRO DE 1990
 
 Dá nova redação ao § 2° do art. 6° do Decreto n° 99.235, de 4 de maio de 1990.

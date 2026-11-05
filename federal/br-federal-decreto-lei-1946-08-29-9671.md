@@ -1,5 +1,3 @@
-###DEL-009671-0-000-29-08-1946@@@
-
 DECRETO-LEI N. 9.671 – DE 29 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementetar de Cr$ 21.388.200,00, às verbas que especifica

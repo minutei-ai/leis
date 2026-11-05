@@ -1,5 +1,3 @@
-###DEC-082323-0-000-27-09-1978@@@
-
 Decreto nº 83.323, de 27 de Setembro de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia da União à operação externa que menciona.

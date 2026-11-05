@@ -1,5 +1,3 @@
-###DEC-072683-0-000-23-08-1973@@@
-
 DECRETO Nº 72.683, DE 23 DE AGOSTO DE 1973.
 
 Altera o posto do cargo de Chefe do Estado-Maior do comando do 1º Distrito Naval, e dá outras providências.

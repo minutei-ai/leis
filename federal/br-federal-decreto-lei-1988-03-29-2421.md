@@ -1,7 +1,3 @@
-1
-
-###DEL-002421-0-000-29-03-1988@@@
-
 # DECRETO‑LEI Nº 2.421, DE 29 DE MARÇO DE 1988
 
 Dispõe sobre o aproveitamento de servidores de autarquias federais, de empresas públicas, de sociedades de economia mista e de fundações públicas que vierem a ser extintas ou dissolvidas e dá outras providências.

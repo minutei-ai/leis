@@ -1,7 +1,3 @@
-1
-
-###DEC-099672-0-000-06-11-1990@@@
-
 DECRETO N° 99.672, DE 6 DE NOVEMBRO DE 1990
 
 Dispõe sobre o Cadastro Nacional de Bens Imóveis de propriedade da União e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003915-0-000-10-12-1941@@@
-
 DECRETO-LEI N. 3.915 – DE 10 DE DEZEMBRO DE 1941
 
 Regula o abono de proventos aos funcionários aposentados da Prefeitura do Distrito Federal e dá outras providências

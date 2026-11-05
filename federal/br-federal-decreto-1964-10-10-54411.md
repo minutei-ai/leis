@@ -1,5 +1,3 @@
-###DEC-054411-0-000-10-10-1964@@@
-
 DECRETO Nº 54.411, DE 10 DE OUTUBRO DE 1964.
 
 Restringe a zona de concessão da Comissão Estadual de Energia Elétrica do Rio Grande do Sul e outorga ao Município de Tapes concessão para distribuir energia elétrica no distrito de Cerro Grande, município de Tapes, Estado do Rio Grande do Sul.

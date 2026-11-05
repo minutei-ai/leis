@@ -1,7 +1,3 @@
-1
-
-###LCP-000056-0-000-15-12-1987@@@
-
 # LEI COMPLEMENTAR N° 56, DE 15 DE DEZEMBRO DE 1987
 
 Dá nova redação à Lista de Serviços a que se refere o art. 8º do Decreto-lei nº 406, de 31 de dezembro de 1968, e dá outras providências.

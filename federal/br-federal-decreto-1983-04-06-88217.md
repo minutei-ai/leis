@@ -1,5 +1,3 @@
-###DEC-088217-0-000-06-04-1983@@@
-
 Decreto nº 88.217, de 06 de abril de 1983.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de Rádio Telefonia Rural Eletrocloro e sua faixa de energização, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

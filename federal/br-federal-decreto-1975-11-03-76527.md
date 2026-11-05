@@ -1,5 +1,3 @@
-###DEC-076527-0-000-03-11-1975@@@
-
 DECRETO Nº 76.527, DE 3 DE NOVEMBRO DE 1975.
 
 Concede à Mineração Rio Claro Ltda., o direito de lavrar feldspato no Município de Barra Mansa, Estado do Rio de Janeiro.

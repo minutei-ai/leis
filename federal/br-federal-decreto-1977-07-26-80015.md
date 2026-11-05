@@ -1,5 +1,3 @@
-###DEC-080015-0-000-26-07-1977@@@
-
 DECRETO Nº 80.015, DE 26 DE JULHO DE 1977
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Santos, com sede na cidade de Santos, Estado de São Paulo.

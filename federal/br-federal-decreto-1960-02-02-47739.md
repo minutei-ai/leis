@@ -1,5 +1,3 @@
-###DEC-047739-0-000-02-02-1960@@@
-
 Decreto nº 47.739, de 2 de fevereiro de 1960.
 
 Inclui funções gratificadas no Quadro Extraordinário de Mensalistas da Universidade do Brasil e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005554-0-000-07-06-1943@@@
-
 DECRETO‑LEI N. 5.554 – DE 7 DE JUNHO DE 1943
 
 Autoriza doação de terras ao município de Júlio de Castilhos

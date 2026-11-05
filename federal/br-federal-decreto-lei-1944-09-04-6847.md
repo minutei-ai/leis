@@ -1,5 +1,3 @@
-###DEL-006847-0-000-04-09-1944@@@
-
 DECRETO-LEI N. 6.847 – DE 4 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 15.000.000,00 para aquisição de material destinado à cunhagem de moedas

@@ -1,24 +1,22 @@
-###DEC-024064-0-000-17-11-1947@@@
+**DECRETO N. 24.064 – DE 17 DE NOVEMBRO DE 1947**
 
-<strong>DECRETO N. 24.064 – DE 17 DE NOVEMBRO DE 1947</strong>
-
-<em><strong>Outorga concessão à Rádio Nacional para estabelecer, nesta Capital, uma estação radiodifusora de freqüência modulada.</strong></em>
+***Outorga concessão à Rádio Nacional para estabelecer, nesta Capital, uma estação radiodifusora de freqüência modulada.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Superintendência das Emprêsas Incorporadoras ao Patrimônio Nacional e tendo em vista o disposto no artigo 5º, nº XII, da mesma Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Artigo único</strong> – Fica outorgada, nos têrmos do artigo 11, do Decreto número 24.655, de 11 de julho de 1934, concessão à Rádio Nacional, incorporada ao Patrimônio Nacional por fôrça do Decreto nº 2.073, de 8 de março de 1940, para estabelecer, nesta Capital, uma estação radiodifusora de freqüência modulada, sem direito de exclusividade, com a potência até 3 kw nos têrmos das cláusulas que com êste baixam, assimadas pelo Ministro da Viação e Obras Públicas.
+**Artigo único** – Fica outorgada, nos têrmos do artigo 11, do Decreto número 24.655, de 11 de julho de 1934, concessão à Rádio Nacional, incorporada ao Patrimônio Nacional por fôrça do Decreto nº 2.073, de 8 de março de 1940, para estabelecer, nesta Capital, uma estação radiodifusora de freqüência modulada, sem direito de exclusividade, com a potência até 3 kw nos têrmos das cláusulas que com êste baixam, assimadas pelo Ministro da Viação e Obras Públicas.
 
 Parágrafo único – O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 60 dias a contar da data da publicação dêste Decreto no Diário Oficial, sob pena de ser logo considerada nula a concessão.
 
 Rio de Janeiro, 17 de novembro de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clóvis Pestana.
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>CLÁUSULAS A QUE SE REFERE O DECRETO N. 24. 064, DESTA DATA</strong></span></span></h1>
+# **CLÁUSULAS A QUE SE REFERE O DECRETO N. 24. 064, DESTA DATA**
 
 I
 

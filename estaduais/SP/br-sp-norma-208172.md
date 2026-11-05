@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208172)<br>
-
 # DECRETO N° 67.744, DE 12 DE JUNHO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, da DERSA Desenvolvimento Rodoviário S.A. "em liquidação", o imóvel que especifica, e dá providências correlatas._

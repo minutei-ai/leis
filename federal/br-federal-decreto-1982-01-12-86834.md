@@ -1,5 +1,3 @@
-###DEC-086834-0-000-12-01-1982@@@
-
 Decreto nº 86.834, de 12 de janeiro de 1982
 
 Autoriza o aumento de potência da RÁDIO CINDERELA S/A., na cidade de Campo Bom, Estado do Rio Grande do Sul.

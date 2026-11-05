@@ -1,5 +1,3 @@
-###DEC-007531-0-000-21-07-2011-PUB-01@@@
-
 DECRETO Nº 7.531, DE 21 DE JULHO DE 2011
 
 Dispõe sobre a inclusão no Programa Nacional de Desestatização - PND dos Aeroportos Internacionais Governador André Franco Montoro e Viracopos, no Estado de São Paulo, e Presidente Juscelino  Kubitschek, no Distrito Federal, e dá outras providências.

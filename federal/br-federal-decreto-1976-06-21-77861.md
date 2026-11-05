@@ -1,5 +1,3 @@
-###DEC-077861-0-000-21-06-1976@@@
-
 DECRETO Nº 77.861, DE 21 DE JUNHO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Eldorado S.A., cujo tipo societário foi alterado para Ltda., para que a Rádio Globo Eldorado Ltda. passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

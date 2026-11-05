@@ -1,5 +1,3 @@
-###DEL-005152-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.152 – DE 31 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito suplementar de Cr$ 10.000,00 à verba que especifica e dá outras providências

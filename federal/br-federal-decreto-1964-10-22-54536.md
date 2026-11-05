@@ -1,5 +1,3 @@
-###DEC-054536-0-000-22-10-1964@@@
-
 Decreto nº 54.536, de 22 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Leodônio Carnio a pesquisar argila no município de São Paulo.

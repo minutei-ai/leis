@@ -1,7 +1,3 @@
-1
-
-###MPV-001561-0-000-19-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.561, DE 19 DE DEZEMBRO DE 1996.
 
 Regulamenta o disposto no inciso VI do art. 4º da Lei Complementar nº 73, de 10 de fevereiro de 1993; dispõe sobre a intervenção da União nas causas em que figurarem, como autores ou réus, entes da administração indireta; regula os pagamentos devidos pela Fazenda Pública em virtude de sentença judiciária; revoga a Lei nº 8.197, de 27 de junho de 1991, e a Lei nº 9.081, de 19 de julho de 1995, e dá outras providências.

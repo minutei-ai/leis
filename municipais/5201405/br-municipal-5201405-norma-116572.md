@@ -40,8 +40,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 10 de
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

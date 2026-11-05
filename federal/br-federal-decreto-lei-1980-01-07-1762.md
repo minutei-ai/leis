@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/50f93b1f-c97a-45bf-be87-ef4dd1d4d389/texto#nowhere)
 
-###DEL-001762-0-000-07-01-1980@@@
-
 # DECRETO-LEI Nº 1.762, DE 7 DE JANEIRO DE 1980
 
 Reajusta os vencimentos e proventos dos funcionários das Secretarias dos Tribunais Regionais Eleitorais, e dá outras providências.

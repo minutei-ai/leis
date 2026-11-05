@@ -1,5 +1,3 @@
-###DEC-069370-0-000-18-10-1971@@@
-
 DECRETO Nº 69.370 - DE 18 DE outubro DE 1971
 
 Aprova o Estatuto da Fundação Universidade Federal de Mato Grosso.

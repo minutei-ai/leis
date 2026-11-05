@@ -1,5 +1,3 @@
-###DEC-082455-0-000-18-10-1978@@@
-
 DECRETO Nº 82.455, DE 18 DE OUTUBRO DE 1978.
 
 Concede à Pedreira Pombal Ltda. o direito de lavrar gnaisse no Município de Barra Mansa, Estado do Rio de Janeiro.

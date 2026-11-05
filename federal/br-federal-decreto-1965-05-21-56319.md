@@ -1,5 +1,3 @@
-###DEC-056319-0-000-21-05-1965@@@
-
 Decreto nº 56.319, de 21 de maio de 1965.
 
 Autoriza o cidadão brasileiro Rubens Jourdan a pesquisar minério de manganês, no município de Itaboraí, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-007516-0-000-08-07-2011-PUB-01@@@
-
 DECRETO Nº 7.516, DE 8 DE JULHO DE 2011
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República de Botsuana sobre o Exercício de Atividade Remunerada por parte de Dependentes do Pessoal Diplomático, Consular, Militar, Administrativo e Técnico, firmado em Brasília, em 5 de maio de 2009.

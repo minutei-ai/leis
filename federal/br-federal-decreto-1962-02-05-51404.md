@@ -1,5 +1,3 @@
-###DEC-051404-0-000-05-02-1962@@@
-
 DECRETO Nº 51.404, DE 5 de fevereiro DE 1962.
 
 Dispõe sôbre o funcionamento do Conselho Federal de Educação, enquanto não fôr aprovado o respectivo Regimento Interno.

@@ -1,5 +1,3 @@
-###DEC-054220-0-000-28-08-1964@@@
-
 DECRETO Nº 54.220, DE 28 DE AGÔSTO DE 1964.
 
 Dispõe sôbre alterações nos orçamentos de 1964 das instituições de Previdência Social.

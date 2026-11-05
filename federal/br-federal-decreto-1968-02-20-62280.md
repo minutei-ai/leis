@@ -1,5 +1,3 @@
-###DEC-062280-0-000-20-02-1968@@@
-
 DECRETO Nº 62.280, DE 20 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública a “Associação de Caridade São José”, com sede em Nova Era, no Estado de Minas Gerais.

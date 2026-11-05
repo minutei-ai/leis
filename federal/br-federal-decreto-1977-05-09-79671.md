@@ -1,5 +1,3 @@
-###DEC-079671-0-000-09-05-1977@@@
-
 decreto nº 79.671, de 9 de maio de 1977.
 
 Altera dispositivos do Regulamento para a Formação de Oficiais Engenheiros e o Ingresso no Corpo de Engenheiros e Técnicos Navais, aprovado pelo Decreto número 71.317, de 6 de novembro de 1972, alterado pelos Decretos número 74.192, de 19 de junho de 1974, e número 75.212, de 14 de janeiro de 1975.

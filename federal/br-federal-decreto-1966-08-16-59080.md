@@ -1,5 +1,3 @@
-###DEC-059080-0-000-16-08-1966@@@
-
 DECRETO Nº 59.080, DE 16 DE AGÔSTO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Estradas de Rodagem, a área de terreno situada nos Município de Santa Rita, Rio Tinto e Mamanguape, no Estado da Paraíba.

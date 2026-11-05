@@ -4,7 +4,8 @@ Dispõe sobre a criação, composição e competências do Conselho Municipal de
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Fica o Poder Executivo Municipal autorizado a instituir o Conselho Municipal de Direitos Humanos de Aparecida de Goiânia – CMDH, órgão colegiado, permanente e autônomo de caráter consultivo e deliberativo, fiscalizador e articulador das políticas de Direitos Humanos, vinculado administrativamente, no nível de direção superior à Secretaria Municipal de Articulação Política, com a finalidade de promover, defender e exercer o controle social sobre as políticas dos Direitos Humanos no município.
@@ -15,7 +16,8 @@ Art. 1º Fica o Poder Executivo Municipal autorizado a instituir o Conselho Muni
 
 Art. 2º O Conselho Municipal de Direitos Humanos, tem por finalidade propor diretrizes voltadas a proteção e promoção dos Direitos Humanos e atuar no controle social de políticas públicas, assim como exercer a orientação normativa e consultiva sobre os Direitos Humanos, no município de Aparecida de Goiânia.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ATRIBUIÇÃO
 
 Art. 3º O Conselho Municipal de Direitos Humanos - CMDH possui as seguintes atribuições:
@@ -70,7 +72,8 @@ IV - articular-se e integrar-se com o Sistema de Justiça visando à consecuçã
 
 V - articular-se e integrar-se com o Legislativo visando à consecução de seus objetivos, sendo assegurada a este poder à participação plena em todas as instâncias com direito a voz.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ORGANIZAÇÃO
 
 Art. 5º Para exercer suas competências, o Conselho Municipal de Direitos Humanos é composto da seguinte organização funcional:
@@ -81,7 +84,8 @@ II – Secretaria Executiva
 
 III – Comissões.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA SECRETARIA EXECUTIVA DO CONSELHO
 
 Art. 6º O Conselho Municipal de Direitos Humanos elegerá seu Presidente, Vice- Presidente e Secretário Executivo, na forma de seu regimento interno.
@@ -108,7 +112,8 @@ Parágrafo único - Nos impedimentos, por motivos justificados, dos membros titu
 
 Art. 9° Ao Conselho Municipal de Direitos Humanos é facultado formar comissões provisórias ou permanentes, objetivando apresentar projetos e propor medidas que contribuam para a concretização de políticas de Direitos Humanos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA COMPOSIÇÃO
 
 Art. 10 O Conselho Municipal de Direitos Humanos de Aparecida de Goiânia será composto por 11 (onze) membros titulares e respectivos suplentes, sendo: 05 (cinco) membros titulares e suplentes representantes do poder executivo municipal, 05 (cinco) membros titulares e suplentes representantes da sociedade civil organizada e 01 (um) membro titular e suplente representante da camara de vereadores.
@@ -145,10 +150,12 @@ IV-    Acompanhar e propor medidas de defesa dos direitos de indivíduos e gr
 
 V-    Verificar o funcionamento dos serviços prestados por entidades governamentais ligadas a defesa dos direitos humanos no município; 
 
-VI-    Receber e encaminhar denúncias sobre violação de direitos para as providências cabíveis. <br>
+VI-    Receber e encaminhar denúncias sobre violação de direitos para as providências cabíveis. 
+
  
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO PROCESSO SELETIVO
 
 Art. 16 Os representantes da sociedade civil organizada serão eleitos por meio de processo seletivo público, convocado pelo poder público, publicado em diario oficial.
@@ -159,7 +166,8 @@ Parágrafo único. O disposto no caput não se aplica à primeira composição d
 
 Art. 18 Os representantes do Poder Público (poder executivo), da Sociedade Civil e Câmara Municipal, serão nomeados por Ato do chefe do Executivo.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DO FUNCIONAMENTO
 
 Art. 19 O Conselho Municipal de Direitos Humanos formalizará suas deliberações por meio de resoluções, cuja publicidade deverá ser garantida pela Secretaria Municipal de Articulação Política.
@@ -190,7 +198,8 @@ Art. 27 Todas as reuniões do Conselho Municipal de Direitos Humanos serão semp
 
 Art. 28 Os membros do conselho poderão perder o mandato antes do prazo de dois anos, no seguintes casos: Por denúncia; Pela ausência imotivada em três reuniões consecutivas do CMDH Pela prática de ato imcompatível com a função de conselheiro, por decisão da maioria absoluta dos membros do CMDH.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 29 O Regimento Interno do Conselho Municipal de Direitos Humanos deverá ser elaborado, no prazo de 90 dias.
@@ -211,5 +220,6 @@ Art. 34 Esta Lei entrará em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 23 de Junho de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

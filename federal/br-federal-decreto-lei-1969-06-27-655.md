@@ -1,5 +1,3 @@
-###DEL-000655-0-000-27-06-1969@@@
-
 DECRETO-LEI Nº 655, de 27 de junho de 1969
 
 Estabelece normas transitórias para a execução da Lei nº 5.540, de 28 de novembro de 1968.

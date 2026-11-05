@@ -1,5 +1,3 @@
-###DEC-056446-0-000-09-06-1965@@@
-
 DECRETO Nº 56.446, DE 9 DE JUNHO DE 1965.
 
 Concede à Alliance Assurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.
@@ -17,8 +15,6 @@ Brasília, 9 de junho de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Daniel Faraco
-
-###DEC-056446-0-000-09-06-1965@@@RET01+++
 
 DECRETO Nº 56.446, DE 9 DE JUNHO DE 1965.
 

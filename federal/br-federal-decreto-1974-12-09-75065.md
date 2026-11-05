@@ -1,5 +1,3 @@
-###DEC-075065-0-000-09-12-1974@@@
-
 DECRETO Nº 75.065, DE 9 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Ciências e Letras "Padre Anchieta", mantida pela Associação "Padre Anchieta" de Ensino, com sede na Cidade de Jundiaí, Estado de São Paulo.

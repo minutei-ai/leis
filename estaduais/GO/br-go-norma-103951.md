@@ -259,8 +259,6 @@ IV – 19 de março de 2021, quanto aos demais dispositivos.
 
 Goiânia, 30 de abril de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

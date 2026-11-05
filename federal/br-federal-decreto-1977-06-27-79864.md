@@ -1,5 +1,3 @@
-###DEC-079864-0-000-27-06-1977@@@
-
 DECRETO Nº 79.864, DE 27 DE JUNHO DE 1977
 
 Autoriza o funcionamento dos cursos de Ciências, de Estudos Sociais, de Letras e de Pedagogia, da Faculdade de Educação de Caxias, com sede na Cidade de Caxias, Estado do Maranhão.

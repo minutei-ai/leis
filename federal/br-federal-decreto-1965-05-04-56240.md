@@ -1,5 +1,3 @@
-###DEC-056240-0-000-04-05-1965@@@
-
 DECRETO Nº 56.240, DE 4 DE MAIO DE 1965.
 
 Revoga o Decreto nº 50.322, de 7 de março de 1961.

@@ -1,5 +1,3 @@
-###DEC-071246-0-000-13-10-1972@@@
-
 DECRETO Nº 71.246, DE 13 DE OUTUBRO DE 1972.
 
 Cria, no Ministério da Aeronáutica, o Conselho Superior de Economia e Finanças da Aeronáutica (CONSEFA) e dá outras providências.

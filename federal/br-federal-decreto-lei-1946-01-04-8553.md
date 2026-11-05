@@ -1,5 +1,3 @@
-###DEL-008553-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.553 – DE  4 DE JANEIRO DE 1946
 
 Cria a Comissão de Reparações de Guerra e dá outras providências

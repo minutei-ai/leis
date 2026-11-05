@@ -1,5 +1,3 @@
-###DEC-061275-0-000-04-09-1967@@@
-
 DECRETO Nº 61.275, DE 4 DE SETEMBRO DE 1967.
 
 Revoga o Decreto nº 50.727, de 6 de junho de 1961, autoriza a Sociedade Termoelétrica de Capivari a estabelecer a linha de transmissão entre Ilhota e Joinville, no Estado de Santa Catarina e dá outras providências.
@@ -37,8 +35,6 @@ Brasília, 4 de setembro de 1967; 146º da Independência e 79º da República.
 a. costa e silva
 
 José Costa Cavalcante
-
-###DEC-061275-0-000-04-09-1967@@@RET01+++
 
 DECRETO Nº 61.275, DE 4 DE SETEMBRO DE 1967
 

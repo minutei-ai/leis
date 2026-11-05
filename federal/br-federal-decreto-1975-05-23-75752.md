@@ -1,5 +1,3 @@
-###DEC-075752-0-000-23-05-1975@@@
-
 DECRETO Nº 75.752, DE 23 DE MAIO DE 1975.
 
 Regulamenta o Decreto-lei nº 1.403, de 23 de maio de 1975, isenta dos impostos de importação e sobre produtos industrializados as importações de componentes destinados ao Programa de Construção Naval e Plano Diretor da Reparação Naval, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000753-0-000-16-02-1993@@@
-
 DECRETO N° 753, DE 16 DE FEVEREIRO DE 1993
 
 Dispõe sobre a revisão dos critérios de remuneração dos servidores da Administração Pública Federal indireta e dá outras providências.

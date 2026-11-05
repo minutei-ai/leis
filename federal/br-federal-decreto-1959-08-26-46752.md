@@ -1,5 +1,3 @@
-###DEC-046752-0-000-26-08-1959@@@
-
 DECRETO Nº 46.752, DE 26 DE AGôSTO DE 1959.
 
 Altera dispositivo do Regimento da Agencia Nacional do Ministério da Justiça e negócios interiores.

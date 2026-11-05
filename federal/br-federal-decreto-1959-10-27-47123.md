@@ -1,5 +1,3 @@
-###DEC-047123-0-000-27-10-1959@@@
-
 Decreto nº 47.123, de 27 de outubro de 1959.
 
 Autoriza Novas Indústrias Olinda S.A. a pesquisar fosforita no município de Igarassu, Estado de Pernambuco.

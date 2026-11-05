@@ -1,5 +1,3 @@
-###DEL-006624-0-000-23-06-1944@@@
-
 DECRETO-LEI N. 6.624 – DE 23 DE JUNHO DE 1944
 
 Altera a carreira de Prático de Farmácia do Quadro Suplementar do Ministério da Guerra e dá outras providências
@@ -24,4 +22,30 @@ RELAÇÃO NOMINAL A QUE SE REFERE O PARÁGRAFO ÚNICO
 
 DO ART. 1º DO DECRETO-LEI N. 6.624 DE 23 DE JUNHO DE 1944
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:155.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Nome</span></p></td><td style="width:155.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Situação antiga</span></p></td><td style="width:155.95pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Situação nova</span></p></td></tr><tr><td style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Clovis Freire de Vasconcelos ........................................</span></p></td><td style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Prático de Farmácia classe H ...................................</span></p></td><td style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Prático de Laboratório padrão H</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:155.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Nome
+
+</td><td style="width:155.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Situação antiga
+
+</td><td style="width:155.95pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Situação nova
+
+</td></tr><tr><td style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Clovis Freire de Vasconcelos ........................................
+
+</td><td style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Prático de Farmácia classe H ...................................
+
+</td><td style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Prático de Laboratório padrão H
+
+&nbsp;
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-059724-0-000-15-12-1966@@@
-
 DECRETO Nº 59.724, DE 15 DE DEZEMBRO DE 1966.
 
 Concede a Mineração Omega S.A. autorização para continuar como emprêsa de mineração.

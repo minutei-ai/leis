@@ -1,5 +1,3 @@
-###DEC-068703-0-000-03-06-1971@@@
-
 DECRETO Nº 68.703 - DE 3 DE JUNHO DE 1971.
 
 Regulamenta a aplicação dos Recursos da Loteria Esportiva.

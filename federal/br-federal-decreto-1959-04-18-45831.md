@@ -1,5 +1,3 @@
-###DEC-045831-0-000-18-04-1959@@@
-
 DECRETO Nº 45.831, DE 18 DE ABRIL DE 1959.
 
 Abre ao Ministério da Fazenda o Crédito extraordinário de Cr$50.000.000,00.

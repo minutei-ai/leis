@@ -1,5 +1,3 @@
-###DEC-052607-0-000-02-10-1963@@@
-
 DECRETO Nº 52.607, DE 2 DE OUTUBRO DE 1963.
 
 Outorgada à Companhia Distribuidora de Eletricidade do Brejo Paraibano Concessão para distribuir energia elétrica no município de Serra Redonda, Estado da Paraíba.

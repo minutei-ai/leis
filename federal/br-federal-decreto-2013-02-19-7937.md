@@ -1,5 +1,3 @@
-###DEC-007937-0-000-19-02-2013-PUB-01@@@
-
 DECRETO Nº 7.937, DE 19 DE FEVEREIRO DE 2013
 
 Extingue cargos efetivos vagos e que vierem a vagar de Auxiliar Administrativo, da carreira de Especialista em Meio Ambiente, de que trata a Lei nº 10.410, de 11 de janeiro de 2002, e de nível auxiliar do Plano Especial de Cargos do Ministério do Meio Ambiente e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, de que trata a Lei nº 11.357, de 19 de outubro de 2006.

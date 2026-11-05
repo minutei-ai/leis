@@ -1,5 +1,3 @@
-###LEI-000000-0-000-24-11-1830@@@
-
 LEI - DE 24 DE NOVEMBRO DE 1830
 
 Fixa as forças de terra para o anno financeiro de 1831 - 1832.

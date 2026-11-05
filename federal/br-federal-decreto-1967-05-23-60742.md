@@ -1,5 +1,3 @@
-###DEC-060742-0-000-23-05-1967@@@
-
 DECRETO Nº 60.742, DE 23 DE MAIO DE 1967.
 
 Transfere para o Ministério da Agricultura as atribuições do extinto INM, cria a Comissão Coordenadora da política econômica da Erva-Mate e dá outras providências.

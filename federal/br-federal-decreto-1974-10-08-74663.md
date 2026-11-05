@@ -1,5 +1,3 @@
-###DEC-074663-0-000-08-10-1974@@@
-
 DECRETO Nº 74.663, DE 8 DE outubro DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos terrenos que menciona, situados em Brasília, Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-061125-0-000-02-08-1967@@@
-
 decreto nº 61.125, de 2 de agôsto de 1967.
 
 Propõe sôbre a convocação e funcionamento da Conferência Nacional de Educação.

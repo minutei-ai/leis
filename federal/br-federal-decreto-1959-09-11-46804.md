@@ -1,5 +1,3 @@
-###DEC-046804-0-000-11-09-1959@@@
-
 DECRETO Nº 46.804, DE 11 DE SETEMBRO DE 1959.
 
 Aprova Instruções que regulam as atividades e o funcionamento do Grupo de Estudos e Planejamentos da Secretaria Geral do Conselho de Segurança Nacional, de que trata o Decreto nº 45.040, de 6 de dezembro de 1958.

@@ -1,5 +1,3 @@
-###DEC-076280-0-000-16-09-1975@@@
-
 DECRETO N° 76.280 - DE 16 DE SETEMBRO DE 1975
 
 Confisca bens pertencentes a Potassa e Adubos Químicos do Brasil S.A. e dá outras providências.

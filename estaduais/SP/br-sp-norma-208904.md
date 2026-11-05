@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208904)<br>
-
 # DECRETO N° 68.158, DE 09 DE DEZEMBRO DE 2023
 
 ### _Institui a Política de Gestão de Riscos da Administração Pública direta e autárquica do Estado de São Paulo._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Artigo 1° -** Fica instituída a Política de Gestão de Riscos da Administração Pública direta e autárquica do Estado de São Paulo, com vistas à incorporação da análise de riscos à tomada de decisão em órgãos e entidades, em conformidade com a política de governança estadual.
@@ -45,7 +44,8 @@ X - tratamento do risco: execução de medidas de controle com a finalidade de m
 
 **Parágrafo único -** O dirigente máximo do órgão ou entidade deverá garantir apoio institucional necessário para promover a gestão de riscos, em especial os recursos tecnológicos, financeiros e humanos adequados à efetividade do processo.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 DOS OBJETIVOS
 
 **Artigo 5° -** A Política de Gestão de Riscos tem por objetivo orientar o processo de gestão de riscos no âmbito dos órgãos e entidades da Administração Pública direta e autárquica do Estado de São Paulo, com vistas a:
@@ -64,7 +64,8 @@ VI - agregar valor à instituição ao estabelecer uma base confiável para o pl
 
 VII - adequar os controles internos ao tratamento dos riscos.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 DAS DIRETRIZES
 
 **Artigo 6° -** A Política de Gestão de Riscos observará as seguintes diretrizes:
@@ -85,7 +86,8 @@ VII - fomentar a melhoria contínua, por meio do aprendizado e de experiências;
 
 VIII - subsidiar a tomada de decisões.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 DAS RESPONSABILIDADES
 
 **Artigo 7° -** As responsabilidades quanto à gestão de riscos organizam-se em três linhas de atuação, compreendendo:
@@ -132,7 +134,8 @@ II - aprovar os planos de ação e as respectivas medidas de controle a serem im
 
 III - zelar pelo alinhamento da gestão de riscos aos padrões de conduta e integridade, assim como ao planejamento estratégico.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 DO PROCESSO
 
 **Artigo 12 -** O processo de gestão de riscos compreende as seguintes etapas:
@@ -147,7 +150,8 @@ IV - tratamento de riscos: definir as medidas de controle, de acordo com o apeti
 
 V - comunicação e monitoramento: acompanhar o desempenho e verificar a adequação e suficiência dos controles internos, mantendo um fluxo contínuo de compartilhamento de informações entre as partes interessadas.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 **Artigo 13 -** O Controlador Geral do Estado editará normas complementares necessárias ao cumprimento deste decreto.

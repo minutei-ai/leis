@@ -1,5 +1,3 @@
-###DEC-059454-0-000-03-11-1966@@@
-
 DECRETO Nº 59.454, DE 3 DE NOVEMBRO DE 1966.
 
 Transfere da Emprêsa Luz e Fôrça de Florianópolis S.A. e da Emprêsa Fôrça e Luz Videira S.A. para Centrais Elétricas de Santa Catarina S.A. as concessões para produzir, e transmitir e distribuir energia elétrica no município do Estado de Santa Catarina e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057682-0-000-28-01-1966@@@
-
 decreto nº 57.682, de 28 de janeiro de 1966.
 
 Declara de utilidade pública, para fins e desapropriação, em favor da União Federal, as ações societárias da Companhia Eletromecânica “CELMA”.

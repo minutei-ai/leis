@@ -1,5 +1,3 @@
-###DEL-008997-0-000-18-02-1946@@@
-
 DECRETO-LEI N. 8.997 – DE 18 DE FEVEREIRO DE 1946
 
 Torna insubsistente o Decreto que destituiu de seu pôsto, com perda de patente, honras, privilégios, liberdades e isenções de que era possuidor o Capitão da Corveta Aviador Naval – Amarilio Vieira Cortez.

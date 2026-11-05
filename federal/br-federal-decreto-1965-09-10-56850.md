@@ -1,5 +1,3 @@
-###DEC-056850-0-000-10-09-1965@@@
-
 DECRETO Nº 56.850, DE 10 DE SETEMBRO DE 1965.
 
 Cria Grupo de Trabalho, junto ao Ministério das Minas e Energia, com a incumbência de rever a Lei nº 4.452, de 5-11-64, e dá outras providências.

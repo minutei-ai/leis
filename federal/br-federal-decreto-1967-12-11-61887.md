@@ -1,5 +1,3 @@
-###DEC-061887-0-000-11-12-1967@@@
-
 DECRETO Nº 61.887, DE 11 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública a União Cívica Feminina, com sede em São Paulo, Estado de São Paulo.

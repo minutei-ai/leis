@@ -1,5 +1,3 @@
-###MPV-000541-0-000-02-08-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 541, DE 2 DE AGOSTO DE 2011.
 
 Dispõe sobre o Fundo de Financiamento à Exportação, altera as Leis nos 12.096, de 24 de novembro de 2009, 11.529, de 22 de outubro de 2007, 10.683, de 28 de maio de 2003, 5.966, de 11 de dezembro de 1973, e 9.933, de 20 de dezembro de 1999, e dá outras providências.

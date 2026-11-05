@@ -1,5 +1,3 @@
-###DEC-045900-0-000-28-04-1959@@@
-
 DECRETO Nº 45.900, DE 28 DE ABRIL DE 1959.
 
 Autoriza a cidadã brasileira Bernarde Barbosa Laender a pesquisar turmalina no município de Itambacuri, Estado de Minas Gerais.

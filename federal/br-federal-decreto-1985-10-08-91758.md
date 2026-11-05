@@ -1,5 +1,3 @@
-###DEC-091758-0-000-08-10-1985@@@
-
 decreto nº 91.758, de 08 de outubro de 1985
 
 Retira o Aeroporto de São Paulo, Congonhas, da relação dos aeroportos internacionais do Brasil, estabelecidos pelo Decreto 74.924, de 21 de novembro de 1974.

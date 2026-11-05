@@ -1,5 +1,3 @@
-###DEC-093122-0-000-18-08-1986@@@
-
 DECRETO Nº 93.122, DE 18 DE AGOSTO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação da subestação São Carlos, da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

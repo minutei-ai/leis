@@ -1,5 +1,3 @@
-###DEL-008828-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.828 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre o reconhecimento da União dos Escoteiros do Brasil como instituição destinada a educação a extra-escolar.

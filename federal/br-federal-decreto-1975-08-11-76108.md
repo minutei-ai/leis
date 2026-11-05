@@ -1,5 +1,3 @@
-###DEC-076108-0-000-11-08-1975@@@
-
 Decreto nº 76.108 - de 11 de agosto de 1975
 
 Autoriza a transformação da licenciatura de 1º grau para licenciatura plena, nos cursos de Letras, de Estudos Sociais e de Ciências, da Faculdade de Formação de Professores, mantida pelo Centro Educacional de Niterói, com sede na cidade de Niterói, Estado do Rio de Janeiro.

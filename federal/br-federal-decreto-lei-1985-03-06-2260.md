@@ -1,5 +1,3 @@
-###DEL-002260-0-000-06-03-1985@@@
-
 # Decreto-lei nº 2.260, de 06 de marÇO de 1985
 
 Estende aos Fiscais de Contribuições Previdenciárias o disposto no Decreto-lei nº 2.187, de 26 de dezembro de 1984.

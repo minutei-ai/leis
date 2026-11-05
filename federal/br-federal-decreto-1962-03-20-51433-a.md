@@ -1,5 +1,3 @@
-###DEC-051433-A-000-20-03-1962@@@
-
 decreto nº 51.433-A, de 20 de março de 1962.
 
 Aprova o aumento de capital do Banco Holandês Unido S.A., com sede em Amsterdam, Holanda, para as operações no Brasil.

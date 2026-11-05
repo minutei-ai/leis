@@ -1,5 +1,3 @@
-###DEC-084959-0-000-23-07-1980@@@
-
 Decreto nº 84.959, de 23 de julho de 1980.
 
 Altera a subordinação de Organização Militar no Ministério do Exército.

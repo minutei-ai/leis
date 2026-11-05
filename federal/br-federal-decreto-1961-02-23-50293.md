@@ -1,5 +1,3 @@
-###DEC-050293-0-000-23-02-1961@@@
-
 DECRETO Nº 50.293, de 23 de fevereiro de 1961.
 
 Cria o Conselho Nacional de Cultura e dá outras providências.

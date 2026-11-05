@@ -1,5 +1,3 @@
-###DEC-061046-0-000-21-07-1967@@@
-
 DECRETO Nº 61.046, DE 21 DE JULHO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, área situada no município de Itaboraí, Estado do Rio de Janeiro, necessária à instalação de uma estação terrena para Telecomunicações via Satélites Artificiais, integrante do Sistema Nacional de Telecomunicações.

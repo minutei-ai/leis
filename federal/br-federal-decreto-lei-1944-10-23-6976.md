@@ -1,5 +1,3 @@
-###DEL-006976-0-000-23-10-1944@@@
-
 DECRETO-LEI N. 6.976 – DE 23 DE OUTUBRO DE 1944
 
 Dispõe sôbre o pessoal da Caixa Econômica Federal de São Paulo

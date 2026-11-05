@@ -1,5 +1,3 @@
-###DEC-081846-0-000-26-06-1978@@@
-
 Decreto nº 81.846, de 26 de junho de 1978.
 
 Concede reconhecimento ao curso de Engenharia Cartográfica, ministrado pela Universidade Federal de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

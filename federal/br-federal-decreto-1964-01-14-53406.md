@@ -1,5 +1,3 @@
-###DEC-053406-0-000-14-01-1964@@@
-
 DECRETO Nº 53.406, de 14 de janeiro de 1964.
 
 Prorroga, por mais 30 dias, o prazo estabelecido no art. 4º, § 2º do Decreto nº 52.694, de 15 de outubro de 1963, e dá outras providências.

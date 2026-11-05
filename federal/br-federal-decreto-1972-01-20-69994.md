@@ -1,5 +1,3 @@
-###DEC-069994-0-000-20-01-1972@@@
-
 DECRETO Nº 69.994, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Irmandade Nossa Senhora da Piedade, com sede em Paraíba do Sul Estado do Rio de Janeiro.

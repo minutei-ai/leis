@@ -1,5 +1,3 @@
-###DEL-008726-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.726 – DE 18 DE JANEIRO DE 1946
 
 Desapropria, para fins de utilidade pública, o domínio direto de terrenos em Natal,  Estado do Rio Grande do Norte, e autoriza a aquisição de domínio útil

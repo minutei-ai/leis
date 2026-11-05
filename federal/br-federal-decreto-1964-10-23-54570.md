@@ -1,5 +1,3 @@
-###DEC-054570-0-000-23-10-1964@@@
-
 DECRETO Nº 54.570, DE 23 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Simão Weitisky Dutter a pesquisar ilmenita, no Município de Paranaguá, Estado do Paraná.

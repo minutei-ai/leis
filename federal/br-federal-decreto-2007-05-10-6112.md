@@ -1,5 +1,3 @@
-###DEC-006112-0-000-10-05-2007@@@
-
 DECRETO Nº 6.112, DE 10 DE MAIO DE 2007
 
 Promulga o Acordo de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e a Comunidade Européia, celebrado em Brasília, em 19 de janeiro de 2004.
@@ -24,11 +22,7 @@ Brasília, 10 de maio de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 14.5.2007.
-
-ACORDO DE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E A COMUNIDADE EUROPÉIA
+Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E A COMUNIDADE EUROPÉIA
 
 O Governo da República Federativa do Brasil (a seguir denominado “Brasil”),
 
@@ -224,7 +218,17 @@ Entrada em vigor, denúncia e resolução de diferendos
 
 Feito em Brasília, em 19 de janeiro de 2004, em duplo exemplar, nas línguas alemã, dinamarquesa, espanhola, finlandesa, francesa, grega, inglesa, italiana, portuguesa, neerlandesa e sueca, todos os textos fazendo igualmente fé. Em caso de divergência de interpretação entre quaisquer destes idiomas, prevalece o texto inglês.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:213.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pela República Federativa do Brasil For Den Føderative Republik Brasilien Für der Föderativen Republik Brasilien </span><span style="font-family:'Arial Greek'">Gia thn Omospondiakh Dhmokraτia thV BraxiliaV</span></p></td><td style="width:245.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pela Comunidade Européia For Det Europæiske Fællesskab Für die Europäische Gemeinschaft Gia thn Enrwpaikh Koinothta For the European Community</span></p></td></tr><tr><td style="width:213.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">For the Federative Republic of Brazil</span><span style="font-family:Arial"> Pour la République fédérative du Brésil Per la Repubblica Federativa del Brasile Voor de Federale Republiek Brazilië Por la República Federativa de Brasil</span></p></td><td style="width:245.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pour la Communauté européenne Per la Comunità europea Voor de Europese Gemeenschap Por la Comunidad Europea Euroopan yhteisön puolesta</span></p></td></tr><tr><td style="width:213.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Brasilian liittotasavallan puolesta</span><span style="font-family:Arial"> </span><span style="font-family:Arial">För Förbundsrepubliken Brasilien</span><span style="font-family:Arial"> </span><span style="font-family:Arial">Celso Amorim Ministro das Relações Exteriores</span></p></td><td style="width:245.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">För Europeiska gemenskapen Chris Patten Membro da Comissão das</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Comunidades Européias</span></p></td></tr></tbody></table>
+Pela República Federativa do Brasil For Den Føderative Republik Brasilien Für der Föderativen Republik Brasilien Gia thn Omospondiakh Dhmokraτia thV BraxiliaV
+
+Pela Comunidade Européia For Det Europæiske Fællesskab Für die Europäische Gemeinschaft Gia thn Enrwpaikh Koinothta For the European Community
+
+For the Federative Republic of Brazil Pour la République fédérative du Brésil Per la Repubblica Federativa del Brasile Voor de Federale Republiek Brazilië Por la República Federativa de Brasil
+
+Pour la Communauté européenne Per la Comunità europea Voor de Europese Gemeenschap Por la Comunidad Europea Euroopan yhteisön puolesta
+
+Brasilian liittotasavallan puolesta För Förbundsrepubliken Brasilien Celso Amorim Ministro das Relações Exteriores
+
+För Europeiska gemenskapen Chris Patten Membro da Comissão das  Comunidades Européias
 
 ANEXO
 

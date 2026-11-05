@@ -1,5 +1,3 @@
-###DEL-004933-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.933 – DE 6 DE NOVEMBRO DE 1942
 
 Altera, sem aumento de despesa, o atual arçamento do Ministério da Agricultura

@@ -1,5 +1,3 @@
-###DEC-046865-0-000-16-09-1959@@@
-
 decreto nº 46.865, de 16 de setembro de 1959.
 
 Renova o art. 1º do Decreto nº 41.301, de 10 de abril de 1957.

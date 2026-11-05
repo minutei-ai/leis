@@ -1,5 +1,3 @@
-###DEC-055540-0-000-11-01-1965@@@
-
 DECRETO Nº 55.540, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Américo Moacir de Oliveira a lavrar minério de ferro, no município de Passa Tempo, Estado de Minas Gerais

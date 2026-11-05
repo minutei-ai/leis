@@ -1,5 +1,3 @@
-###DEC-067998-0-000-31-12-1970@@@
-
 DECRETO Nº 67.998, DE 31 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada a passagem da linha de transmissão que se estenderá desde a linha tronco Pirituba - Jundiaí até a subestação da Indústria Duratex S.A., no município de Jundiaí, Estado de São Paulo.

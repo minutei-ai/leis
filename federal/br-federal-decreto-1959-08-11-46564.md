@@ -1,5 +1,3 @@
-###DEC-046564-0-000-11-08-1959@@@
-
 DECRETO Nº 46.564, DE 11 DE AGôSTO DE 1959.
 
 Reconhece o Curso de Didática da Faculdade de Filosofia de São Luiz do Maranhão.

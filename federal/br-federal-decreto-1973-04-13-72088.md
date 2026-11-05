@@ -1,5 +1,3 @@
-###DEC-072088-0-000-13-04-1973@@@
-
 DECRETO Nº 72.088, DE 13 DE ABRIL DE 1973.
 
 Concede autorização à empresa Western Geophysical Company of América para operar no mar territorial do Brasil, fixando pelo Decreto-lei nº 1.098, de 25 de março de 1970, o navio especializado "M/V Western Gulf", de bandeira norte- americana.

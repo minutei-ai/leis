@@ -1,5 +1,3 @@
-###DEC-054960-0-000-10-11-1964@@@
-
 DECRETO Nº 54.960, DE 10 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública o Educandário Santo Antônio, com sede em Campos de Jordão, Estado de São Paulo.

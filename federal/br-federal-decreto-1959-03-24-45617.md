@@ -1,5 +1,3 @@
-###DEC-045617-0-000-24-03-1959@@@
-
 DECRETO Nº 45.617, DE 24 DE MARÇO DE 1959.
 
 Autoriza estrangeira a adquirir fração ideal do domínio útil do terreno de marinha que menciona, no Distrito Federa.

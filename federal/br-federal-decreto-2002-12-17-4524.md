@@ -1,5 +1,3 @@
-###DEC-004524-0-000-17-12-2002@@@
-
 DECRETO N. 4.524 – DE 17 DE DEZEMBRO DE 2002
 
 Regulamenta a Contribuição para o PIS/Pasep e a Cofins devidas pelas pessoas jurídicas em geral.

@@ -1,5 +1,3 @@
-###DEC-060562-0-000-07-04-1967@@@
-
 Decreto nº 60.562, de 7 de abril de 1967.
 
 Aprova a alteração introduzida nos Estatutos da Aliança Gaúcha Companhia de Seguros Gerais, relativa ao aumento do capital social.

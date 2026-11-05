@@ -1,5 +1,3 @@
-###DEC-092319-0-000-23-01-1986@@@
-
 DECRETO Nº 92.319, DE 23 DE JANEIRO DE 1986
 
 Dispõe sobre o funcionamento, no País, de empresas estrangeiras que têm por objeto a exploração do transporte aéreo e de serviços acessórios.

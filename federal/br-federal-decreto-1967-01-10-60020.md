@@ -1,5 +1,3 @@
-###DEC-060020-0-000-10-01-1967@@@
-
 Decreto nº 60.020, de 10 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro Julio Bettoi Cardoso a pesquisar argila no município de Salesópolis, Estado de São Paulo.

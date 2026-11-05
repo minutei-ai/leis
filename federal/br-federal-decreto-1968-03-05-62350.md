@@ -1,5 +1,3 @@
-###DEC-062350-0-000-05-03-1968@@@
-
 DECRETO Nº 62.350, DE 5 DE MARÇO DE 1968.
 
 Concede ao “Japan Consulting Institue” autorização para funcionar no Brasil.

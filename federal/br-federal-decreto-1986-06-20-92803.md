@@ -1,5 +1,3 @@
-###DEC-092803-0-000-20-06-1986@@@
-
 DECRETO Nº 92.803, DE 20 DE JUNHO DE 1986
 
 Dispõe sobre a transferência do Rio de Janeiro para Brasília, do Conselho Nacional de Turismo - CNTur, do Ministério do Indústria e do Comércio - MIC.

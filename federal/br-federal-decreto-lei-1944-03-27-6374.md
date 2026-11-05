@@ -1,5 +1,3 @@
-###DEL-006374-0-000-27-03-1944@@@
-
 DECRETO-LEI  N.  6.374 – DE 27 DE MARÇO DE 1944
 
 Altera, sem aumento de despesa, o Anexo 14 – Ministério da Agricultura – do Orçamento Geral da República para o exercício de 1944, e dá outras providências

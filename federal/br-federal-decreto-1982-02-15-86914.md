@@ -1,5 +1,3 @@
-###DEC-086914-0-000-15-02-1982@@@
-
 decreto nº 86.914, de 15 de fevereiro de 1982
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, alterado pelo Decreto nº 86.883, de 28 de janeiro de 1982.

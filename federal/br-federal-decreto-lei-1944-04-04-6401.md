@@ -1,5 +1,3 @@
-###DEL-006401-0-000-04-04-1944@@@
-
 DECRETO-LEI N. 6.401 – DE 4 DE ABRIL DE 1944
 
 Abre ao Ministério da Educação e Saúde, o crédito especial de Cr$ 30.000,00 para pagamento de gratificação de representação e de ajuda de custo

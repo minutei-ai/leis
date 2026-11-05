@@ -1,5 +1,3 @@
-###DEC-007562-0-000-15-09-2011-PUB-01@@@
-
 DECRETO N°\- 7.562, DE 15 DE SETEMBRO DE 2011
 
 Dispõe sobre a Comissão Nacional de Residência Médica - CNRM e o exercício das funções de regulação, supervisão e avaliação de instituições que ofertam residência médica e de programas de residência médica.

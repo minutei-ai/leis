@@ -1,5 +1,3 @@
-###DEC-059366-0-000-05-10-1966@@@
-
 DECRETO Nº 59.366, DE 5 DE OUTUBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, a área de terreno situada no Município de Petrópolis, Estado do Rio de Janeiro.

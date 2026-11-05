@@ -1,5 +1,3 @@
-###MPV-002018-0-006-28-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.018-6, DE 28 DE julhO DE 2000.
 
 Abre crédito extraordinário, em favor do Ministério do Meio Ambiente e de Operações Oficiais de Crédito, no valor global de R$303.050.000,00, para os fins que especifica.

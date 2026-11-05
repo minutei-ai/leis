@@ -1,5 +1,3 @@
-###DEC-085855-0-000-30-03-1981@@@
-
 Decreto Nº 85.855, de 30 de março de 1981.
 
 Autoriza o funcionamento do curso de Secretariado Executivo Bilíngüe, da Faculdade de Comunicação Social Anhembi, São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-054537-0-000-22-10-1964@@@
-
 Decreto nº 54.537, de 22 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Antônio Rodrigues de Almeida a pesquisar minério de ferro, no município de Itapeva, Estado de São Paulo.

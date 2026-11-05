@@ -1,5 +1,3 @@
-###DEL-001993-0-000-29-12-1982@@@
-
 # DECRETO Nº 1.993, dE 29 de DEZEMBRO DE 1982
 
 Reajusta os atuais valores de vencimentos, salários e proventos dos servidores civis do Distrito Federal, bem como os das pensões e dá outras providências.

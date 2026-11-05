@@ -1,5 +1,3 @@
-###DEC-066279-0-000-27-02-1970@@@
-
 DECRETO Nº 66.279 - DE 27 DE FEVEREIRO DE 1970
 
 Autoriza funcionamento de Faculdade.

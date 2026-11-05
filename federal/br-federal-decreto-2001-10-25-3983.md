@@ -1,5 +1,3 @@
-###DEC-003983-0-000-25-10-2001@@@
-
 DECRETO Nº 3.983, DE 25 DE OUTUBRO DE 2001
 
 Prorroga o prazo de vigência do Programa Bolsa-Renda, instituído pela Medida Provisória nº 2.213-1, de 30 de agosto de 2001.

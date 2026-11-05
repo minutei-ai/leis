@@ -1,5 +1,3 @@
-###DEC-091849-0-000-30-10-1985@@@
-
 DEcRETO Nº 91.849, dE 30 dE outubro de 1985
 
 Dispõe sobre o exercício, por Oficial das Forças Armadas, da Ativa, dos Quadros ou Serviços de Saúde e de Veterinária, de atividade de sua especialidade, em entidade de Direito Privado.

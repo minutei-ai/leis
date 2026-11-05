@@ -1,5 +1,3 @@
-###DEC-047657-0-000-19-01-1960@@@
-
 DECRETO Nº 47.657, DE 19 DE JANEIRO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 31.545, de 6 de outubro de 1952, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno situada no Município de Santanópolis, Estado do Ceará.

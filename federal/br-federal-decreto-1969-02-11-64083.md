@@ -1,5 +1,3 @@
-###DEC-064083-0-000-11-02-1969@@@
-
 decreto nº 64.083, de 11 de fevereiro de 1969.
 
 Outorga à Centrais Elétricas Matogrossenses S.A. concessão para o aproveitamento hidráulico de um trecho do rio da Casca, Município de Chapada dos Guimarães, Estado de Mato Grosso.

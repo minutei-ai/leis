@@ -1,5 +1,3 @@
-###DEC-073975-0-000-22-04-1974@@@
-
 DECRETO Nº 73.975, DE 22 DE ABRIL DE 1974.
 
 Declara caduco o Decreto nº 62.164-68, que concedeu a Mineração Irapuru Ltda. - MINERIL o direito de lavrar minério de ferro em Mazagão e Macapá, no Território do Amapá.

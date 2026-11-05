@@ -1,5 +1,3 @@
-###DEL-000329-0-000-02-08-1967@@@
-
 DECRETO-LEI Nº 329, DE 2 DE AGÔSTO DE 1967
 
 Prorroga o prazo a que se refere o art. 1º do decreto-lei nº 324, de 27 de abril de 1967.

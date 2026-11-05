@@ -1,5 +1,3 @@
-###DEC-089238-0-000-23-12-1983@@@
-
 Decreto nº 89.238, de 23 de dezembro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO CAPITAL DO SUDOESTE, para explorar serviço de radiodifusão sonora em onda média, na cidade de Pato Branco, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-001866-0-000-16-04-1996@@@
-
 DECRETO Nº 1.866, DE 16 DE ABRIL DE 1996.
 
 Dispõe sobre a execução do Acordo sobre o Contrato de Transporte e a Responsabilidade Civil do Transportador no Transporte Rodoviário Internacional de Mercadorias, entre Brasil, Bolívia, Chile, Paraguai, Peru e Uruguai, de 16 de agosto de 1995.

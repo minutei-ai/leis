@@ -1,5 +1,3 @@
-###MPV-001712-0-001-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.712-1, DE 24 DE SETEMBRO DE 1998
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário no valor de R$7.556.000,00, para os fins que especifica.

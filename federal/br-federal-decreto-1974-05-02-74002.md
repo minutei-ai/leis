@@ -1,5 +1,3 @@
-###DEC-074002-0-000-02-05-1974@@@
-
 DECRETO Nº 74.002, DE 2 DE MAIO DE 1974.
 
 Autoriza o funcionamento do curso de Administração do Instituto Champagnat de Estudos Superiores, com sede na Cidade de Belo Horizonte, Estado de Minas Gerais.

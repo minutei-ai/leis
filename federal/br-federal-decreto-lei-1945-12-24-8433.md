@@ -1,5 +1,3 @@
-###DEL-008433-0-000-24-12-1945@@@
-
 DECRETO-LEI N. 8.433 – DE 24 DE DEZEMBRO DE 1945
 
 Altera a carreira de Comissário de Policia do Ministério da Justiça e Negócios Interiores e dá outras providências.

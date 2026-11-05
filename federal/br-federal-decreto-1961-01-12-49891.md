@@ -1,5 +1,3 @@
-###DEC-049891-0-000-12-01-1961@@@
-
 DECRETO Nº 49.891, DE 12 DE JANEIRO DE 1961.
 
 Concede à Dragagem Fluvial S.A. autorização para continuar a funcionar como emprêsa de Mineração.

@@ -1,5 +1,3 @@
-###DEC-049455-0-000-06-12-1960@@@
-
 DECRETO Nº 49.455, DE 06 DE DEZEMBRO DE 1960.
 
 Autoriza a Mineração Nacional Mina S. A. a pesquisar cassiterita e ouro no município de São João Del Rei, Estado de Minas Gerais.

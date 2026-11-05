@@ -1,5 +1,3 @@
-###DEL-007707-0-000-05-07-1945@@@
-
 DECRETO-LEI N. 7.707 – DE 5 DE JULHO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a vender em concorrência pública, o imóvel que menciona.

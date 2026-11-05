@@ -1,5 +1,3 @@
-###DEC-007501-0-000-24-06-2011-PUB-01@@@
-
 DECRETO Nº 7.501, DE 24 DE JUNHO DE 2011
 
 Altera o Decreto nº 6.672, de 2 de dezembro de 2008, que trata do Subprograma de Combate à Pobreza Rural, instituído no âmbito do Programa Nacional de Reforma Agrária, e dá outras providências.

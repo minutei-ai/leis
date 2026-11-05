@@ -1,5 +1,3 @@
-###DEC-081366-0-000-20-02-1978@@@
-
 Decreto nº 81.366, de 20 de fevereiro de 1978.
 
 Altera a redação do art. 5º do Decreto nº 81.232, de 18 de janeiro de 1978, que dispõe sobre a composição das Categorias Direção Intermediária e Assistência Intermediária do Grupo-Direção e Assistência Intermediárias do Quadro Permanente do Ministério da Fazenda e dá outras providências.

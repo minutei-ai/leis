@@ -1,5 +1,3 @@
-###DEC-053236-0-000-12-12-1963@@@
-
 DECRETO Nº 53.236, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Leslie Melville Clemente a pesquisar argila no  município de Itabirito, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-057885-0-000-28-02-1966@@@
-
 DECRETO Nº 57.885, DE 28 DE FEVEREIRO DE 1966.
 
 Transfere da Emprêsa Ourobranquense de Eletricidade e transformação de Produtos S.A. para Centrais Elétricas de Minas Gerais Sociedade Anônima concessão para distribuir energia elétrica.

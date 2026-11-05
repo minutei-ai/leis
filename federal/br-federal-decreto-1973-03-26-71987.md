@@ -1,5 +1,3 @@
-###DEC-071987-0-000-26-03-1973@@@
-
 DECRETO Nº 71.987, DE 26 DE MARÇO DE 1973.
 
 Declara de utilidade pública as instituições que menciona.

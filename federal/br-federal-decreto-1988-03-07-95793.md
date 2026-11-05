@@ -1,7 +1,3 @@
-1
-
-###DEC-095793-0-000-07-03-1988@@@
-
 DECRETO N° 95.793, DE 7 DE MARÇO DE 1988
 
 Institui a Medalha "Mérito Anfíbio" e dá outras providências.

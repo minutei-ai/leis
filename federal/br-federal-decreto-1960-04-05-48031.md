@@ -1,5 +1,3 @@
-###DEC-048031-0-000-05-04-1960@@@
-
 decreto nº 48.031, de 5 de abril de 1960.
 
 Concede à Sociedade Rio Canela Grande Limitada autorização para funcionar como emprêsa de mineração.

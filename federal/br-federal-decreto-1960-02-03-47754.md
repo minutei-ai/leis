@@ -1,5 +1,3 @@
-###DEC-047754-0-000-03-02-1960@@@
-
 DECRETO Nº 47.754, DE 3 DE FEVEREIRO DE 1960.
 
 Altera o Decreto nº 26.335, de 1949.

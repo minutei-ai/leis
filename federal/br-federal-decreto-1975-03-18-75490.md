@@ -1,5 +1,3 @@
-###DEC-075490-0-000-18-03-1975@@@
-
 Decreto N° 75.490, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Física da Faculdade de Filosofia, Ciências e Letras "Farias de Brito", mantida pela Associação Paulista de Educação e Cultura, com sede na cidade de Guarulhos, Estado de São Paulo.

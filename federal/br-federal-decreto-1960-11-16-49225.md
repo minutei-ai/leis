@@ -1,5 +1,3 @@
-###DEC-049225-0-000-16-11-1960@@@
-
 DECRETO Nº 49.225, DE 16 DE NOVEMBRO DE 1960.
 
 Outorga à Prefeitura Municipal de Serra Negra do Norte, Estado do Rio Grande do Norte, concessão para distribuir energia elétrica.

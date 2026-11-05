@@ -1,5 +1,3 @@
-###DEC-049942-0-000-13-01-1961@@@
-
 Decreto nº 49.942, de 13 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Ivo Felisberto de Souza a pesquisar minério de manganês no município de Muniz Freire, Estado do Espírito Santo.

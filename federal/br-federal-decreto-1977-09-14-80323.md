@@ -1,5 +1,3 @@
-###DEC-080323-0-000-14-09-1977@@@
-
 DECRETO Nº 80.323, DE 14 DE SETEMBRO DE 1977.
 
 Fixa o fator de reajustamento salarial relativo a setembro de 1977.

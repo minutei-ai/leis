@@ -1,5 +1,3 @@
-###DEC-093562-0-000-11-11-1986@@@
-
 DECRETO Nº 93.562, DE 11 DE NOVEMBRO DE 1986
 
 Concede à Empresa Transportes Panamericanos S/A, autorização para funcionar na República Federativa do Brasil.

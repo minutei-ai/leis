@@ -1,5 +1,3 @@
-###DEC-062526-0-000-16-04-1968@@@
-
 DECRETO Nº 62.526, DE 16 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Liga Cachoeirense Contra a Tuberculose’’, com sede em Cachoeira do Sul, Estado do Rio Grande do Sul.

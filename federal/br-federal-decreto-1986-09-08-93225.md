@@ -1,5 +1,3 @@
-###DEC-093225-0-000-08-09-1986@@@
-
 DECRETO Nº 93.225, DE 08 DE SETEMBRO DE 1986
 
 Promulga o Segundo Protocolo Adicional à Constituição da União Postal das Américas e Espanha (UPAE).

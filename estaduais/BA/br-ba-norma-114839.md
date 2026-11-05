@@ -10,7 +10,8 @@ Parágrafo único - A pensão a que se refere a presente Lei será consignada, p
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta de qualquer  dos recursos previstos no inciso II, § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964.
 
-Redação de acordo com a Lei nº 2.341, de 23 de maio de 1966.<br>
+Redação de acordo com a Lei nº 2.341, de 23 de maio de 1966.
+
 Redação original: "Art. 2º - Para fazer face, no corrente exercício, às despesas decorrentes da pensão instituída nesta Lei, fica o Poder Executivo autorizado a abrir, na Secretaria da Fazenda, o crédito especial de até Cr$400.000 (quatrocentos mil cruzeiros), à conta da codificação 3.05.08 - verba 3.1.4.19-1, do orçamento vigente."
 
 Art. 3º - Esta Lei entrará em vigor na data da sua publicação, ficando revogadas as disposições em contrário.
@@ -23,4 +24,4 @@ Governador
 
 Ivo Braga
 
-* * *
+ *

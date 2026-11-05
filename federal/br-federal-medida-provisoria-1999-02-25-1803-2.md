@@ -1,5 +1,3 @@
-###MPV-001803-0-002-25-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.803-2, DE 25 DE FEVEREIRO DE 1999.
 
 Estabelece prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na Faixa de Fronteira, e dá outras providências.

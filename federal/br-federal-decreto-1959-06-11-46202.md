@@ -1,5 +1,3 @@
-###DEC-046202-0-000-11-06-1959@@@
-
 DECRETO Nº 46.202, DE 11 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Christian Von Bulow a pesquisar água mineral no município de Amparo, Estado de São Paulo.

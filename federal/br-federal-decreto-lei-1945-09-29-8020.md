@@ -1,5 +1,3 @@
-###DEL-008020-0-000-29-09-1945@@@
-
 DECRETO-LEI N. 8.020 – DE 29 DE SETEMBRO DE 1945
 
 Transforma em ajudantes de tesoureiro os cobradores da dívida ativa da União e dá outras providências.

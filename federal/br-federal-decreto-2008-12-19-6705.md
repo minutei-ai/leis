@@ -1,5 +1,3 @@
-###DEC-006705-0-000-19-12-2008@@@
-
 DECRETO Nº 6.705, DE 19 DE DEZEMBRO DE 2008.
 
 Dispõe sobre o Conselho Nacional de Turismo, e dá outras providências.      

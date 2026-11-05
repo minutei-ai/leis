@@ -1,5 +1,3 @@
-###MPV-001838-0-007-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.838-7, DE 24 DE SETEMBRO DE 1999.
 
 Altera dispositivos da Lei nº 9.692, de 27 de julho de 1998, que dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 1999.

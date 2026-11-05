@@ -1,5 +1,3 @@
-###DEC-053635-0-000-28-02-1964@@@
-
 DECRETO Nº 53.635, DE 28 DE FEVEREIRO DE 1964.
 
 Concede reconhecimento à Faculdade de Direito de Caxias do Sul, Estado do Rio Grande do Sul.

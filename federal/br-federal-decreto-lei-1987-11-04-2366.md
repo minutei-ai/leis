@@ -1,7 +1,3 @@
-1
-
-###DEL-002366-0-000-04-11-1987@@@
-
 # DECRETO-LEI Nº 2.366, DE 4 DE NOVEMBRO DE 1987.
 
 Altera o Decreto-lei nº 2.365, de 27 de outubro de 1987, e dá outras providências.

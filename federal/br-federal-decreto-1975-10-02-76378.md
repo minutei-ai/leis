@@ -1,5 +1,3 @@
-###DEC-076378-0-000-02-10-1975@@@
-
 decreto nº 76.378, de 2 de outubro de1975.
 
 Concede reconhecimento ao curso de Engenharia Civil da Universidade Católica de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

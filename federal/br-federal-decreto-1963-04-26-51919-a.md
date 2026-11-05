@@ -1,5 +1,3 @@
-###DEC-051919-A-000-26-04-1963@@@
-
 DECRETO Nº 51.919-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Waldemar Calil a pesquisar argila refratária no município de Suzano, Estado de São Paulo.

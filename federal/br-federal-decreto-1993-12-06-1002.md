@@ -1,7 +1,3 @@
-1
-
-###DEC-001002-0-000-06-12-1993@@@
-
 DECRETO N° 1.002, DE 6 DE DEZEMBRO DE 1993
 
 Dispõe sobre o encerramento dos trabalhos de inventariança da extinta Secretaria de Projetos Especiais da Presidência da República, e dá outras providências.

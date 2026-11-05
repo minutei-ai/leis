@@ -1,5 +1,3 @@
-###DEC-078857-0-000-30-11-1976@@@
-
 DECRETO Nº 78.857, DE 30 DE NOVEMBRO DE 1976.
 
 Reduz as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

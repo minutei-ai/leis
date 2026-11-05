@@ -1,5 +1,3 @@
-###DEC-047112-0-000-27-10-1959@@@
-
 Decreto nº 47.112, de 27 de outubro de 1959.
 
 Concede à “Cinal” - Comércio, Indústria e Navegação Amapá Limitada autorização para funcionar como emprêsa de mineração.

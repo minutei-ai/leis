@@ -1,5 +1,3 @@
-###DEC-072788-0-000-13-09-1973@@@
-
 DECRETO Nº 72.788, DE 13 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à implantação do Projeto de Irrigação Vale do Fidalgo, nos Municípios de Paes Landim e Simplício Mendes, Estado do Piauí.

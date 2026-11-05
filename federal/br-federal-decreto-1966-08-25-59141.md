@@ -1,5 +1,3 @@
-###DEC-059141-0-000-25-08-1966@@@
-
 Decreto nº 59.141, de 25 de agôsto de 1966.
 
 Concede reconhecimento à Faculdade de Direito da Universidade Católica de Pernambuco.

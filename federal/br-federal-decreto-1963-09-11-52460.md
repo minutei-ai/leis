@@ -1,5 +1,3 @@
-###DEC-052460-0-000-11-09-1963@@@
-
 DECRETO Nº 52.460, DE 11 DE Setembro DE 1963.
 
 Cria o “1º Esquadrão Independente de Reconhecimento Mecanizado” e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-001742-0-000-27-12-1979@@@
-
 # DecretO-LEI nº 1.742, de 27 de dezembro de 1979
 
 Dispõe sobre a realização das despesas à conta de recursos vinculados do Tesouro Nacional no exercício financeiro de 1980 e dá outras providências.

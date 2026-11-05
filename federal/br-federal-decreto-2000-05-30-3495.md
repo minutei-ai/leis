@@ -1,5 +1,3 @@
-###DEC-003495-0-000-30-05-2000@@@
-
 DECRETO Nº 3.495, DE 30 DE MAIO DE 2000.
 
 Altera o Decreto nº 2.954, de 29 de janeiro  de 1999, que estabelece regras para a redação de atos normativos de competência dos órgãos do Poder Executivo.

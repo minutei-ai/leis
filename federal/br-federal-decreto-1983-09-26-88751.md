@@ -1,5 +1,3 @@
-###DEC-088751-0-000-26-09-1983@@@
-
 Decreto nº 88.751, de 26 de setembro de 1983
 
 Concede à AÇOS FINOS PIRATINI S.A. (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital social.

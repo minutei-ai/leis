@@ -1,36 +1,34 @@
-###DEC-031650-0-000-23-10-1952@@@
+**DECRETO Nº 31**.**650, DE 23 DE OUTUBRO DE 1952**.
 
-<strong>DECRETO Nº 31</strong>.<strong>650, DE 23 DE OUTUBRO DE 1952</strong>.
+***Aprova o Regulamento para o Gabinete do Ministro da Guerra.*
 
-<em><strong>Aprova o Regulamento para o Gabinete do Ministro da Guerra</strong></em><em>.</em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para o Gabinete do Ministro da Guerra, que com êste baixa, assinado pelo General de Divisão Cyro Espírito Santo Cardoso, Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para o Gabinete do Ministro da Guerra, que com êste baixa, assinado pelo General de Divisão Cyro Espírito Santo Cardoso, Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º O presente Decreto entrara em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrara em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 23 de outubro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espírito Santo Cardoso
 
-<strong>REGULAMENTO PARA O GABINETE DO MINISTRO DA GUERRA</strong>
+**REGULAMENTO PARA O GABINETE DO MINISTRO DA GUERRA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>FINALIDADE</em>
+*FINALIDADE*
 
-<strong>Art</strong>. 1º O Gabinete do Ministro da Guerra, com as atribuições que lhe confere a Lei de Organização do Ministério da Guerra, tem por finalidade auxiliar o Ministro no estudo nos assuntos de sua competência funcional, estabelecendo as ligações e tomando as providências necessárias às sua decisões.
+**Art**. 1º O Gabinete do Ministro da Guerra, com as atribuições que lhe confere a Lei de Organização do Ministério da Guerra, tem por finalidade auxiliar o Ministro no estudo nos assuntos de sua competência funcional, estabelecendo as ligações e tomando as providências necessárias às sua decisões.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>ORGANIZAÇÃO</em>
+*ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O Gabinete se compõe de:
+**Art**. 2º O Gabinete se compõe de:
 
 \-Chefia;
 
@@ -38,7 +36,7 @@ Cyro Espírito Santo Cardoso
 
 \- Consultoria Jurídica.
 
-<strong>Art</strong>. 3º - Para atender à finalidade que lhe está afeta e cumprir as missões que lhe sejam determinadas pelo Ministro o Gabinete terá:
+**Art**. 3º - Para atender à finalidade que lhe está afeta e cumprir as missões que lhe sejam determinadas pelo Ministro o Gabinete terá:
 
 \- Chefe do Gabinete;
 
@@ -48,13 +46,13 @@ Cyro Espírito Santo Cardoso
 
 \- Contingente.
 
-<strong>Art</strong>. 4º O Chefe do Gabinete será um General de Brigada.
+**Art**. 4º O Chefe do Gabinete será um General de Brigada.
 
-<strong>Art</strong>. 5º Os oficiais nomeados para as funções de Oficial de Gabinete integrarão as Divisões de acôrdo com as atribuições que lhes forem conferidas.
+**Art**. 5º Os oficiais nomeados para as funções de Oficial de Gabinete integrarão as Divisões de acôrdo com as atribuições que lhes forem conferidas.
 
-<strong>Art</strong>. 6º Integrarão, ainda, o Gabinete os Ajudantes de Ordens do Ministro e do Chefe do Gabinete, e o Assistente-Secretário do Ministro.
+**Art**. 6º Integrarão, ainda, o Gabinete os Ajudantes de Ordens do Ministro e do Chefe do Gabinete, e o Assistente-Secretário do Ministro.
 
-<strong>Art</strong>. 7º As Divisões, em número de cinco (5), serão as seguintes:
+**Art**. 7º As Divisões, em número de cinco (5), serão as seguintes:
 
 1ª Divisão
 
@@ -74,7 +72,7 @@ Cyro Espírito Santo Cardoso
 
 \- Assuntos relativos ao pessoal civil.
 
-2\) <em>- Administração, Economia e Finanças:</em>
+2\) *- Administração, Economia e Finanças:*
 
 \- Subsistência e material de Intendência - Assuntos econômicos e financeiros do Ministério da Guerra - Questões orçamentárias;
 
@@ -84,7 +82,7 @@ Cyro Espírito Santo Cardoso
 
 2ª Divisão
 
-1\) <em>\- Informações e Assuntos Sigilosos:</em>
+1\) *\- Informações e Assuntos Sigilosos:*
 
 \- Assuntos relativos à política interna e externa -Serviço de criptografia - Informações;
 
@@ -92,7 +90,7 @@ Cyro Espírito Santo Cardoso
 
 \- Arquivo da documentação sigilosa do Gabinete.
 
-2\) - <em>Relações Públicas:</em>
+2\) - *Relações Públicas:*
 
 \- Ligações: com o Congresso Nacional - Ministérios - Govêrnos Estaduais - Órgãos da administração extranhos ao Ministério da Guerra;
 
@@ -100,7 +98,7 @@ Cyro Espírito Santo Cardoso
 
 \- Audiência pública - Correspondência oficial do Ministro - Serviço fotográfico do Gabinete.
 
-3\) - <em>Organização, Ensino e Instrução</em>:
+3\) - *Organização, Ensino e Instrução*:
 
 \- Organização geral do Exército - Efetivos em pessoal e animais - Dotação de material;
 
@@ -110,7 +108,7 @@ Cyro Espírito Santo Cardoso
 
 3ª Divisão
 
-<em>Técnica:</em>
+*Técnica:*
 
 \- Fabricação - Aquisição de material de guerra - Recebimento de material do estrangeiro - Assuntos técnico-econômicos - Importação e exportação de produtos controlados:
 
@@ -122,7 +120,7 @@ Cyro Espírito Santo Cardoso
 
 4ª Divisão
 
-<em>Expediente:</em>
+*Expediente:*
 
 1\) - Seção de Expediente;
 
@@ -136,7 +134,7 @@ Cyro Espírito Santo Cardoso
 
 5ª Divisão
 
-<em>Administrativa:</em>
+*Administrativa:*
 
 1\) - Fiscalização Administrativa;
 
@@ -150,29 +148,29 @@ Cyro Espírito Santo Cardoso
 
 6\) Seção de Transporte do Gabinete.
 
-<strong>Art</strong>. 8º Cada Divisão será chefiada por um Oficial de Gabinete do pôsto de Coronel ou Tenente Coronel.
+**Art**. 8º Cada Divisão será chefiada por um Oficial de Gabinete do pôsto de Coronel ou Tenente Coronel.
 
-<strong>Art</strong>. 9º Os Chefes da 1ª e da 2ª Divisões serão oficiais do QENA e o da 3ª Divisão do QTA.
+**Art**. 9º Os Chefes da 1ª e da 2ª Divisões serão oficiais do QENA e o da 3ª Divisão do QTA.
 
 Parágrafo único. Os demais oficiais de Gabinete pertencerão aos diversos Quadros do Exército, de acôrdo com as necessidades e atribuições que lhes forem conferidas.
 
-<strong>Art</strong>. 10. O Chefe do Gabinete organizará o quadro de distribuição dos assuntos pelos oficiais de Gabinete integrantes das Divisões.
+**Art**. 10. O Chefe do Gabinete organizará o quadro de distribuição dos assuntos pelos oficiais de Gabinete integrantes das Divisões.
 
-<strong>Art</strong>. 11. O Chefe da 5ª Divisão exercerá as funções de Fiscal Administrativo do Gabinete.
+**Art**. 11. O Chefe da 5ª Divisão exercerá as funções de Fiscal Administrativo do Gabinete.
 
-<strong>Art</strong>. 12. Um oficial de Gabinete, Capitão I. E., exercerá as funções de Tesoureiro-Almoxarife.
+**Art**. 12. Um oficial de Gabinete, Capitão I. E., exercerá as funções de Tesoureiro-Almoxarife.
 
-<strong>Art</strong>. 13. A. Consultoria Jurídica será constituída de um Consultor e um Assistente.
+**Art**. 13. A. Consultoria Jurídica será constituída de um Consultor e um Assistente.
 
-<strong>Art</strong>. 14. Um funcionário civil, na qualidade de oficial de Gabinete, será o encarregado dos assuntos referentes ao funcionalismo civil do Ministério.
+**Art**. 14. Um funcionário civil, na qualidade de oficial de Gabinete, será o encarregado dos assuntos referentes ao funcionalismo civil do Ministério.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>ATRIBUIÇÕES</em>
+*ATRIBUIÇÕES*
 
-A.) <em>Do Chefe do Gabinete:</em>
+A.) *Do Chefe do Gabinete:*
 
-<strong>Art</strong>. 15. Ao Chefe do Gabinete compete:
+**Art**. 15. Ao Chefe do Gabinete compete:
 
 a) dirigir e coordenar os trabalhos do Gabinete;
 
@@ -194,21 +192,21 @@ h) estudar os assuntos e cumprir as decisões que lhe sejam atribuídas pelo Min
 
 § 2º O Chefe do Gabinete, para efeito de disciplina e justiça, tem atribuições de Comandante de Unidade e Chefe de repartição para com o pessoal do Gabinete.
 
-B) <em>Dos Oficiais de Gabinete:</em>
+B) *Dos Oficiais de Gabinete:*
 
-<strong>Art</strong>. 16. Aos Oficiais de Gabinete compete:
+**Art**. 16. Aos Oficiais de Gabinete compete:
 
 a) o estudo dos assuntos que lhes forem atribuídos nas respectivas Divisões;
 
 b) Cumprir outras missões que lhes forem atribuídas pelo Ministro e pelo Chefe do Gabinete.
 
-<strong>Art</strong>. 17. Aos Chefes das 1ª, 2ª e 3ª Divisões compete alem dos encargos que lhes sejam conferidos como Oficiais de Gabinete e, quando julgarem necessário, fiscalizar e coordenar os trabalhos das respectivas Divisões.
+**Art**. 17. Aos Chefes das 1ª, 2ª e 3ª Divisões compete alem dos encargos que lhes sejam conferidos como Oficiais de Gabinete e, quando julgarem necessário, fiscalizar e coordenar os trabalhos das respectivas Divisões.
 
-<strong>Art</strong>. 18. Aos chefe da 4ª Divisão compete:
+**Art**. 18. Aos chefe da 4ª Divisão compete:
 
 \- dirigir e coordenar os serviços da Seção de Expediente, do Protocolo, do Fichário, do Correio e da Seção de Comunicações.
 
-<strong>Art</strong>. 19. Ao Chefe da 5ª Divisão compete:
+**Art**. 19. Ao Chefe da 5ª Divisão compete:
 
 a) a realização dos encargospróprios da Fiscalização Administrativa, de acôrdo com as prescrições regulamentares e as normas em vigor;
 
@@ -216,11 +214,11 @@ b) coordenar os serviços da Tesouraria, do Almoxarifado, da Seção de Transpor
 
 c) fiscalizar a carga das residências Ministeriais e de outros órgãos ou dependências subordinados diretamente ao Gabinete.
 
-C) <em>Dos órgãos da 4ª Divisão:</em>
+C) *Dos órgãos da 4ª Divisão:*
 
-<strong>Art</strong>. 20. Aos órgãos da 4ª Divisão compete:
+**Art**. 20. Aos órgãos da 4ª Divisão compete:
 
-1\) Seção de Expediente<em>:</em>
+1\) Seção de Expediente*:*
 
 \- executar os serviços de secretaria do Gabinete;
 
@@ -236,7 +234,7 @@ C) <em>Dos órgãos da 4ª Divisão:</em>
 
 \- manter em dia a coleção dos atos oficiais expedidos, com os respectivos índices e todos os elementos que lhes facilitem a busca;
 
-\- organizar o expediente para publicação no “<em>Diário</em> <em>Oficial</em>” ;
+\- organizar o expediente para publicação no “*DiárioOficial*” ;
 
 \- organizar os Boletins de Merecimento dos funcionários civis do Gabinete.
 
@@ -256,7 +254,7 @@ C) <em>Dos órgãos da 4ª Divisão:</em>
 
 \- organizar o fichário da legislação;
 
-\- arquivar pelo prazo mínimo de 10 anos, as coleções do “<em>Diário</em> <em>Oficial</em>”;
+\- arquivar pelo prazo mínimo de 10 anos, as coleções do “*DiárioOficial*”;
 
 \- manter em dia uma coleção completa do Boletim do Exército;
 
@@ -274,23 +272,23 @@ C) <em>Dos órgãos da 4ª Divisão:</em>
 
 \- direção e execução do serviço de comunicações radiotelegráficas e telegráficas do Gabinete.
 
-D) Dos órgãos da 5ª Divisão<em>:</em>
+D) Dos órgãos da 5ª Divisão*:*
 
-<strong>Art</strong>. 21 - Aos órgãos da 5ª Divisão compete:
+**Art**. 21 - Aos órgãos da 5ª Divisão compete:
 
-1\) Fiscalização Administrativa Tesouraria e Almoxarifado<em>:</em>
+1\) Fiscalização Administrativa Tesouraria e Almoxarifado*:*
 
 \- execução dos serviços que lhes são próprios, de acôrdo com as prescrições regulamentares em vigor.
 
-2\) Seção de Transportes<em>:</em>
+2\) Seção de Transportes*:*
 
 \- atender às necessidades de locomoção e transporte e manter os serviços de garages e manutenção de viaturas pertencentes ao Gabinete.
 
-3\) Contingente<em>:</em>
+3\) Contingente*:*
 
 \- execução dos serviços que lhe são peculiares.
 
-4\) Portaria<em>:</em>
+4\) Portaria*:*
 
 \- dirigir e executar os serviços de limpêsa e conservação do Gabinete e órgãos anexos;
 
@@ -298,35 +296,35 @@ D) Dos órgãos da 5ª Divisão<em>:</em>
 
 \- encaminhar ao destino conveniente, de acôrdo com as ordens estabelecidas, as pessoas que tenham assuntos a tratar no Gabinete.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>PRESCRIÇÕES DIVERSAS</em>
+*PRESCRIÇÕES DIVERSAS*
 
-<strong>Art</strong>. 22. O Chefe do Gabinete, quando necessário, organizará instruções para execução dêste Regulamento pelos diferentes órgãos.
+**Art**. 22. O Chefe do Gabinete, quando necessário, organizará instruções para execução dêste Regulamento pelos diferentes órgãos.
 
-<strong>Art</strong>. 23. O Comando do Contingente do Gabinete, as Chefias da Seção de Comunicações e da Seção de Transporte serão exercidos por oficiais do Q.A.O.
+**Art**. 23. O Comando do Contingente do Gabinete, as Chefias da Seção de Comunicações e da Seção de Transporte serão exercidos por oficiais do Q.A.O.
 
-<strong>Art</strong>. 24. Diretamente subordinada ao Chefe do Gabinete funcionara uma Comissão de Redação, que se regerá por Regulamento próprio, e que será integrada por três oficiais sendo, pelo menos, um membro do Magistério do Exército e um do Q. E. M. A.
+**Art**. 24. Diretamente subordinada ao Chefe do Gabinete funcionara uma Comissão de Redação, que se regerá por Regulamento próprio, e que será integrada por três oficiais sendo, pelo menos, um membro do Magistério do Exército e um do Q. E. M. A.
 
 Parágrafo único. Os membros da Comissão de Redação poderão exercer suas funções sem prejuízo das que normalmente exerçam no Gabinete ou fora dêle.
 
-<strong>Art</strong>. 25. Funcionará, anexa ao Gabinete, uma Sala de Imprensa integrada por jornalistas devidamente acreditados.
+**Art**. 25. Funcionará, anexa ao Gabinete, uma Sala de Imprensa integrada por jornalistas devidamente acreditados.
 
-<strong>Art</strong>. 26. O Ministro da Guerra fixará, anualmente, o efetivo do pessoal militar de seu Gabinete, de acôrdo com as necessidades do serviço.
+**Art**. 26. O Ministro da Guerra fixará, anualmente, o efetivo do pessoal militar de seu Gabinete, de acôrdo com as necessidades do serviço.
 
-<strong>Art</strong>. 27. O número de funcionários civis do Gabinete será fixado na lotação numérica aprovada pelo Presidente da República.
+**Art**. 27. O número de funcionários civis do Gabinete será fixado na lotação numérica aprovada pelo Presidente da República.
 
-<strong>Art</strong>. 28. Os extranumerários serão os constantes da respectiva tabela.
+**Art**. 28. Os extranumerários serão os constantes da respectiva tabela.
 
-<strong>Art</strong>. 29. O pessoal militar e civil do Gabinete é de livre escôlha do Ministro que poderá substituí-lo ou mantê-lo em parte ou totalmente.
+**Art**. 29. O pessoal militar e civil do Gabinete é de livre escôlha do Ministro que poderá substituí-lo ou mantê-lo em parte ou totalmente.
 
-<strong>Art</strong>. 30. O pessoal civil lotado no Gabinete fará jus a uma “Gratificação de Representação de Gabinete” que será arbitrada pelo Ministro e variável segundo as categorias funcionais.
+**Art**. 30. O pessoal civil lotado no Gabinete fará jus a uma “Gratificação de Representação de Gabinete” que será arbitrada pelo Ministro e variável segundo as categorias funcionais.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 31. As substituições temporárias e nos impedimentos serão feitas:
+**Art**. 31. As substituições temporárias e nos impedimentos serão feitas:
 
 a) a do Chefe do Gabinete e a do Chefe de Divisão, de acôrdo com as disposições em vigor para as substituições temporárias;
 
@@ -334,4 +332,4 @@ b) a do Chefe da 4ª Divisão e a do Chefe da 5ª Divisão por um oficial de Gab
 
 Rio de Janeiro, 23 de outubro de 1952.
 
-<strong>CYRO ESPIRÍTO SANTO CARDOSO</strong>
+**CYRO ESPIRÍTO SANTO CARDOSO**

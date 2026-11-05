@@ -1,5 +1,3 @@
-###DEC-079587-0-000-26-04-1977@@@
-
 DECRETO Nº 79.587, DE 26 DE abril DE 1977.
 
 Concede à Empresa Maranhense de Mineração S.A. o direito de lavrar gipsita no Município de Codó, Estado do Maranhão.

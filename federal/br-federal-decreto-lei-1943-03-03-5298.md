@@ -1,5 +1,3 @@
-###DEL-005298-0-000-03-03-1943@@@
-
 DECRETO‑LEI N. 5.298 – DE 3 DE MARÇO DE 1943
 
 Fixa as autoridades que na Aeronáutica dispõem de ajudantes de ordens e dá outras providências

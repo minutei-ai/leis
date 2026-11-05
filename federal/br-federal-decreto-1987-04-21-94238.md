@@ -1,5 +1,3 @@
-###DEC-094238-0-000-21-04-1987@@@
-
 DECRETO Nº 94.238, DE 21 DE ABRIL DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Almécegas, Traíras e Laranjo", classificados no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situados no Município de Altos, no Estado do Piauí, e compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.680, de 19 de maio de 1986, e dá outras providências.

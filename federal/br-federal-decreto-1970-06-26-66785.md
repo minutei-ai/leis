@@ -1,5 +1,3 @@
-###DEC-066785-0-000-26-06-1970@@@
-
 DECRETO Nº 66.785 - DE 26 DE JUNHO DE 1970
 
 Altera o Decreto nº 40.936, de 14 de fevereiro de 1957.

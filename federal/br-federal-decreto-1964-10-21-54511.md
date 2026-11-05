@@ -1,5 +1,3 @@
-###DEC-054511-0-000-21-10-1964@@@
-
 DECRETO Nº 54.511, DE 21 DE OUTUBRO DE 1964.
 
 Concede à Minérios Brasileiros Comércio e Exportação Ltda., autorização para funcionar como emprêsa de mineração.

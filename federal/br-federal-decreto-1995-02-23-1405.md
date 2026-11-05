@@ -1,7 +1,3 @@
-1
-
-###DEC-001405-0-000-23-02-1995@@@
-
 DECRETO Nº 1.405, DE 23 DE FEVEREIRO DE 1995
 
 Aprova alteração do Estatuto Social da Petróleo Brasileiro S.A - PETROBRÁS.

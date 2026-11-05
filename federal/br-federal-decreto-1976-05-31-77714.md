@@ -1,5 +1,3 @@
-###DEC-077714-0-000-31-05-1976@@@
-
 DECRETO Nº 77.714 - DE 31 DE MAIO DE 1976
 
 Declara de utilidade pública, para fins de desapropriação, imóveis destinados à Universidade Federal do Ceará e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004328-0-000-08-08-2002@@@
-
 DECRETO Nº 4.328, DE 8 DE AGOSTO DE 2002
 
 Altera o art. 8º do Decreto nº 2.693, de 28 de julho de 1998, que dispõe sobre os procedimentos para pagamento da extensão da vantagem de vinte e oito vírgula oitenta e seis por cento aos servidores públicos do Poder Executivo Federal.

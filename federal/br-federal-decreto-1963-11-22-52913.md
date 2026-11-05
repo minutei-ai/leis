@@ -1,5 +1,3 @@
-###DEC-052913-0-000-22-11-1963@@@
-
 DECRETO Nº 52.913, DE 22 DE NOVEMBRO DE 1963.
 
 Aprova alteração introduzida nos Estatutos da Borborema Companhia de Seguros Gerais, relativa ao aumento do capital social.

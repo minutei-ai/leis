@@ -1,5 +1,3 @@
-###DEC-086016-0-000-19-05-1981@@@
-
 decreto nº 86.016, de 19 de maio de 1981.
 
 Autoriza a Petrobrás Fertilizantes S/A - PETROFÉRTIL a proceder ao aumento do limite de seu Capital Social.

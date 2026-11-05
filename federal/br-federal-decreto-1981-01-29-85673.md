@@ -1,5 +1,3 @@
-###DEC-085673-0-000-29-01-1981@@@
-
 Decreto nº 85 673, de 29 de jANEIRO DE 1981
 
 Autoriza o funcionamento do curso de Farmácia das Faculdades Oswaldo Cruz, com sede na cidade de São Paulo, Estado de São Paulo.

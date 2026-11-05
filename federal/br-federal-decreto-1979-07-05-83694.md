@@ -1,5 +1,3 @@
-###DEC-083694-0-000-05-07-1979@@@
-
 Decreto nº 83 694, de 05 de julho de 1979,
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências,

@@ -1,32 +1,30 @@
-###DEC-053556-0-000-07-02-1964@@@
+**DECRETO Nº 53.556, DE 7 DE FEVEREIRO DE 1964.**
 
-<strong>DECRETO Nº 53.556, DE 7 DE FEVEREIRO DE 1964.</strong>
+***Aprova o nôvo Regimento do Serviço de Radiodifusão Educativa, do Ministério da Educação e Cultura.***
 
-<em><strong>Aprova o nôvo Regimento do Serviço de Radiodifusão Educativa, do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. Fica aprovado o nôvo Regimento do Serviço de Radiodifusão Educativa, que, assinado pelo Ministério da Educação e Cultura com êste baixa.
 
-<strong>Art</strong>. Fica aprovado o nôvo Regimento do Serviço de Radiodifusão Educativa, que, assinado pelo Ministério da Educação e Cultura com êste baixa.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Brasília, 7 de fevereiro de 1964; 143º da Independência e 76º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Júlio Sambaquy
 
-<strong>REGIMENTO DO SERVIÇO DE RADIODIFUSÃO EDUCATIVA</strong>
+**REGIMENTO DO SERVIÇO DE RADIODIFUSÃO EDUCATIVA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
-<strong>Art</strong>. 1º O Serviço de Radiodifusão Educativa (S.R.E), criado pela Lei nº 378, de 13 de janeiro de 1937, e diretamente subordinado ao Ministro de Estado da Educação e Cultura, tem por finalidade:
+**Art**. 1º O Serviço de Radiodifusão Educativa (S.R.E), criado pela Lei nº 378, de 13 de janeiro de 1937, e diretamente subordinado ao Ministro de Estado da Educação e Cultura, tem por finalidade:
 
 I - Promover a irradiação de programas artísticos, literários e científicos, de caracter educativo e cultural;
 
@@ -42,11 +40,11 @@ VI - Promover e patrocinar a gravação, em disco ou fita magnética, de obras m
 
 VII - Realizar atividades públicas destinadas, principalmente, à divulgação da cultura brasileira em tôdas as suas manifestações.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 2º O S.R.E. compreende:
+**Art**. 2º O S.R.E. compreende:
 
 Assessoria de Planejamento (A.P.);
 
@@ -66,25 +64,25 @@ Seção de Relações Públicas (S.R.P);
 
 Seção de Administração (S.A.) e Seção de Orçamento e Contabilidade (S.O.C.)
 
-<strong>Art</strong>. 3º O S.R.E. terá um Diretor, nomeado em comissão pelo Presidente da República por indicação do Ministro de Estado.
+**Art**. 3º O S.R.E. terá um Diretor, nomeado em comissão pelo Presidente da República por indicação do Ministro de Estado.
 
 Parágrafo único. O Diretor do S.R.E. terá um Coordenador Executivo e um Secretário, ambos de sua livre escolha.
 
-<strong>Art</strong>. 4º As Seções previstas no artigo 2º terão Chefes e os Setores e demais órgãos componentes dessas Seções terão Encarregados.
+**Art**. 4º As Seções previstas no artigo 2º terão Chefes e os Setores e demais órgãos componentes dessas Seções terão Encarregados.
 
-<strong>Art</strong>. 5º As Seções que integram o S.R.E. funcionarão coordenadas, em regime de colaboração, orientadas e superintendidas pelo Diretor.
+**Art**. 5º As Seções que integram o S.R.E. funcionarão coordenadas, em regime de colaboração, orientadas e superintendidas pelo Diretor.
 
-<strong>Art</strong>. 6º A Assessoria de Planejamento órgão consultivo da Direção do S.R.E., será integrada pelo Coordenador Executivo e pelos Chefes de Seção sob a presidência do Diretor.
+**Art**. 6º A Assessoria de Planejamento órgão consultivo da Direção do S.R.E., será integrada pelo Coordenador Executivo e pelos Chefes de Seção sob a presidência do Diretor.
 
 Parágrafo único. A Assessoria de Planejamento reunir-se-á pelo menos uma vez por semana.
 
-<strong>C</strong><strong>APÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<em>Da Assessoria de Planejamento</em>
+*Da Assessoria de Planejamento*
 
-<strong>Art</strong>. 7º À Assessoria de Planejamento (A.P.) compete:
+**Art**. 7º À Assessoria de Planejamento (A.P.) compete:
 
 I - Elaborar as diretrizes gerais, das atividade, internas e externas, do S.R.E.;
 
@@ -96,7 +94,7 @@ IV - Emitir parecer sôbre os assuntos que lhe forem apresentados pelo Diretor.
 
 Da Seção Cultural
 
-<strong>Art</strong>. 8º A Seção Cultural (S.C.) compete:
+**Art**. 8º A Seção Cultural (S.C.) compete:
 
 I - Planejar, produzir e redigir programas, destinados à transmissão de conhecimentos gerais ou específicos, nos campos das artes, da literatura, da ciência e da educação, executando o plano geral de programação aprovada pelo diretor.
 
@@ -114,7 +112,7 @@ VII - Informar, à Seção de Documentação, quais os programas gravados pela S
 
 VIII - Fornecer, à Seção de Relações Públicas, informações sôbre as atividades da Seção Cultural.
 
-<strong>Art</strong>. 9.º A S.C. compreende:
+**Art**. 9.º A S.C. compreende:
 
 Setor de Produção e Redação (S.C.-1);
 
@@ -184,7 +182,7 @@ VII - Organizar e manter atualizado o fichário de programas e de colaboradores 
 
 Da Seção Musical
 
-<strong>Art</strong>. 10. A Seção Musical (S.M.) compete:
+**Art**. 10. A Seção Musical (S.M.) compete:
 
 I - Planejar, produzir e redigir programas, destinados à transmissão de conhecimentos gerais ou específicos, no campo da música, executando o plano geral de programação aprovado pelo Diretor;
 
@@ -212,7 +210,7 @@ XII - Orientar a edição de obras musicais e de gravações, promovidas ou patr
 
 XIII - Providenciar, em articulação com a Seção Administrativa, o transporte do pessoal e do material para as atividades externas da Seção Musical.
 
-<strong>Art</strong>. 11.A S.M. compreende:
+**Art**. 11.A S.M. compreende:
 
 Setor de Produção e Redação (S.M.-1);
 
@@ -278,7 +276,7 @@ IV - Sugerir à chefia da Seção Musical a realização de concursos de luteria
 
 Das Seção de Gravação
 
-<strong>Art</strong>. 12 A Seção de Gravação (S.G), compete:
+**Art**. 12 A Seção de Gravação (S.G), compete:
 
 I - Realizar todo o serviço de gravação e de transcrição em disco ou fita magnética; quando se trata de matéria musical, a gravação será feita sob a supervisão de um músico;
 
@@ -302,7 +300,7 @@ X - Coordenar as atividades dos técnicos de gravação, organizando e fazendo c
 
 Da Seção de Controle da Programação
 
-<strong>Art</strong>. 13. A Seção de Controle da Prorrogação (S.C.P.), compete:
+**Art**. 13. A Seção de Controle da Prorrogação (S.C.P.), compete:
 
 I - Organizar, previamente, o roteiro da programação diária com o material fornecido pelas Seções Cultural e Musical;
 
@@ -330,7 +328,7 @@ XII - Encaminhar, à Seção de Documentação, depois de devidamente ordenados,
 
 Da Seção de Transmissão
 
-<strong>Art</strong>. 14. À Seção de Transmissão (S.T) compete:
+**Art**. 14. À Seção de Transmissão (S.T) compete:
 
 I - Coordenar, orientar e fiscalizar  a execução dos serviços de contrôle e operação dos transmissores do S.R.E.;
 
@@ -344,7 +342,7 @@ V - Providenciar, em articulação com a Zeladoria, o transporte do pessoal e do
 
 VI - Coordenar as atividades do pessoal lotado na Seção de Transmissão, organizando e fazendo cumprir as tabelas de horários de serviço.
 
-<strong>Art</strong>. 15. A S.T. compreende:
+**Art**. 15. A S.T. compreende:
 
 Setor de Operação de Transmissores (S.T.-1);
 
@@ -394,7 +392,7 @@ VI - Organizar e manter atualizado o cadastro da aparelhagem técnica do S.R.E.
 
 Da Seção de Documentação
 
-<strong>Art</strong>. 16. À Seção de Documentação (S.D.) compete:
+**Art**. 16. À Seção de Documentação (S.D.) compete:
 
 I - Orientar e coordenar os serviços de documentação, propondo ao Diretor a Aquisição do material necessário ao seu funcionamento;
 
@@ -412,7 +410,7 @@ VII - Organizar e manter atualizado o fichário de entidades e órgãos congêne
 
 VIII - Coligir, ordenar e conservar textos e material de interêsse histórico e cultural.
 
-<strong>Art</strong>. 17. A S.D. compreende:
+**Art**. 17. A S.D. compreende:
 
 Discoteca (S.D.-1);
 
@@ -460,7 +458,7 @@ IV - Colaborar na realização de estudos e pesquisas destinados a elaboração 
 
 Da Seção de Relações públicas
 
-<strong>Art</strong>. 18. À Seção de Relações Públicas (S.R.P.) compete:
+**Art**. 18. À Seção de Relações Públicas (S.R.P.) compete:
 
 I - Planejar, coordenar e orientar todo o serviço de promoção, divulgação, publicação e informação das atividades do S.R.E.;
 
@@ -478,7 +476,7 @@ VII - Promover a realização de pesquisas de audiência, tendências, preferên
 
 VIII - Coordenar os serviços de documentação fotográfica das principais atividades do S.R.E.;
 
-<strong>Art</strong>. 19. À S.R.P. compreende:
+**Art**. 19. À S.R.P. compreende:
 
 Setor de Divulgação e Publicação (S.R.P.-1); e
 
@@ -506,9 +504,9 @@ III - Promover, em articulação com as Seções Cultural e Musical, a gravaçã
 
 Da Seção de Administração
 
-<strong>Art</strong>. 20. À Seção de Administração (S. A.) compete prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do S.R.E., em harmonia com os órgãos do Departamento de Administração do Ministério da Educação e Cultura, cujas normas e métodos deverá observar.
+**Art**. 20. À Seção de Administração (S. A.) compete prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do S.R.E., em harmonia com os órgãos do Departamento de Administração do Ministério da Educação e Cultura, cujas normas e métodos deverá observar.
 
-<strong>Art</strong>. 21. À S. A. compreende:
+**Art**. 21. À S. A. compreende:
 
 Setor de Pessoal (S.A.-1);
 
@@ -564,7 +562,7 @@ VII - Cuidar do transporte de pessoal e material do S.R.E., de acôrdo com instr
 
 Da Seção de Orçamento e Contabilidade
 
-<strong>Art</strong>. 22. À Seção de Orçamento e Contabilidade (O.C.) compete:
+**Art**. 22. À Seção de Orçamento e Contabilidade (O.C.) compete:
 
 I - Organizar, em articulação com as demais Seções, a proposta orçamentária do S.R.E.;
 
@@ -576,11 +574,11 @@ IV - Orientar, quanto a exigências formais, e controlar a movimentação dos re
 
 V - Assessorar o Diretor do S.R.E., em matéria financeira-orçamentária-contábil.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 23. Ao Diretor do S.R.E. compete:
+**Art**. 23. Ao Diretor do S.R.E. compete:
 
 I - Orientar, dirigir e coordenar os trabalhos do S.R.E.;
 
@@ -628,7 +626,7 @@ XXII - Autorizar ou propor a aquisição de material;
 
 XXIV - Autorizar a expedição de certidões de documentos do S.R.E.
 
-<strong>Art</strong>. 24. Ao Coordenador Executivo compete:
+**Art**. 24. Ao Coordenador Executivo compete:
 
 I - Coordenar e fiscalizar a execução das atividades radiofônicas do S.R.E.;
 
@@ -636,7 +634,7 @@ II - Organizar, em articulação com as Seções, os relatórios anuais das ativ
 
 III - Auxiliar o Diretor no exame dos assuntos que forem submetidos à sua decisão.
 
-<strong>Art</strong>. 25. Aos Chefes de Seção compete:
+**Art**. 25. Aos Chefes de Seção compete:
 
 I - Dirigir, coordenar e fiscalizar os trabalhos das respectivas Seções;
 
@@ -672,7 +670,7 @@ XVI - Submeter à aprovação do Diretor e fazer cumprir as escalas de serviço 
 
 XVII - Propor ao Diretor as medidas necessárias à boa execução dos trabalhos a cargo das respectivas Seções.
 
-<strong>Art</strong>. 26. Aos Encarregados de Setores e demais órgãos componentes das seções compete:
+**Art**. 26. Aos Encarregados de Setores e demais órgãos componentes das seções compete:
 
 I - Dirigir e fiscalizar os trabalhos dos respectivos Setores ou órgãos;
 
@@ -692,7 +690,7 @@ VIII - Visar as requisições de material; e
 
 IX - Propor aos Chefes das respectivas Seções as medidas necessárias à boa execução dos trabalhos.
 
-<strong>Art</strong>. 27. Ao Secretário do Diretor compete:
+**Art**. 27. Ao Secretário do Diretor compete:
 
 I - Atender as pessoas que procurarem o diretor, levando ao seu conhecimento os assuntos a tratar;
 
@@ -704,13 +702,13 @@ IV - Apresentar, para despacho do Diretor, o expediente de rotina; e
 
 V - Executar as atribuições que lhe forem cometidas pelo Diretor.
 
-<strong>Art</strong>. 28. Aos servidores em exercício no S.R.E., sem atribuições especificadas neste Regimento, compete executar os trabalhos que lhes forem determinados pelos chefes imediatos.
+**Art**. 28. Aos servidores em exercício no S.R.E., sem atribuições especificadas neste Regimento, compete executar os trabalhos que lhes forem determinados pelos chefes imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 29. Serão substituídos, automaticamente, em seus impedimentos eventuais até trinta (30) dias:
+**Art**. 29. Serão substituídos, automaticamente, em seus impedimentos eventuais até trinta (30) dias:
 
 I - O Diretor, pelo Coordenador Executivo ou Chefe de Seção de sua indicação, designado pelo Ministro de Estado;
 
@@ -718,28 +716,28 @@ II - O Coordenador Executivo, os Chefes de Seção e o Secretário, por servidor
 
 III - Os Encarregados de Setores e demais órgãos por servidores designados pelos Chefes das respectivas Seções.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 30. As irradiações das emissoras do S.R.E. terão o horário e duração que forem determinados pelo Diretor.
+**Art**. 30. As irradiações das emissoras do S.R.E. terão o horário e duração que forem determinados pelo Diretor.
 
-<strong>Art</strong>. 31. Nenhum servidor poderá fazer publicações ou conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do S.R.E. sem prévia autorização escrita do Diretor.
+**Art**. 31. Nenhum servidor poderá fazer publicações ou conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do S.R.E. sem prévia autorização escrita do Diretor.
 
-<strong>Art</strong>. 32. Nenhum servidor ou conjunto musical poderá fazer apresentações públicas (consertos e recitais) nem tomar parte em programas radiofônicos ou de televisão, em nome do S.R.E. ou da Rádio Ministério da Educação e Cultura, sem prévia autorização escrita do Diretor.
+**Art**. 32. Nenhum servidor ou conjunto musical poderá fazer apresentações públicas (consertos e recitais) nem tomar parte em programas radiofônicos ou de televisão, em nome do S.R.E. ou da Rádio Ministério da Educação e Cultura, sem prévia autorização escrita do Diretor.
 
-<strong>Art</strong>. 33. As Seções deverão organizar e manter atualizada coleção de leis, decretos, portarias, instruções e ordens de serviço que digam respeito às respectivas atividades.
+**Art**. 33. As Seções deverão organizar e manter atualizada coleção de leis, decretos, portarias, instruções e ordens de serviço que digam respeito às respectivas atividades.
 
-<strong>Art</strong>. 34. O S.R.E., poderá celebrar convênios com outras emissoras do país, para intercâmbio ou retransmissão de programas artísticos, literários, científicos e pedagógicos, de caráter educativo e cultural.
+**Art**. 34. O S.R.E., poderá celebrar convênios com outras emissoras do país, para intercâmbio ou retransmissão de programas artísticos, literários, científicos e pedagógicos, de caráter educativo e cultural.
 
-<strong>Art</strong>. 35. As funções de Coordenador Executivo, de Chefes de Seção, de Encarregados de Setores e demais órgãos componentes das mesmas Seções (Discoteca, Biblioteca, Fitateca, Museu e Zeladoria) e de Secretário do Diretor do S.R.E., serão gratificadas.
+**Art**. 35. As funções de Coordenador Executivo, de Chefes de Seção, de Encarregados de Setores e demais órgãos componentes das mesmas Seções (Discoteca, Biblioteca, Fitateca, Museu e Zeladoria) e de Secretário do Diretor do S.R.E., serão gratificadas.
 
-§ 1º No provimento da função de Chefe de Seção Musical será observado o disposto nos arts. 30, alínea <em>d</em>, e 33, § 1º, da Lei nº 3.857, de 22 de dezembro de 1960.
+§ 1º No provimento da função de Chefe de Seção Musical será observado o disposto nos arts. 30, alínea *d*, e 33, § 1º, da Lei nº 3.857, de 22 de dezembro de 1960.
 
 § 2º Até que sejam criadas as funções gratificadas previstas neste artigo, as atribuições que lhe são correspondentes serão exercidas por funcionários designados na forma do Regimento e aos quais será atribuída, pelo Ministro de Estado, gratificação especial à título de representação.
 
-<strong>Art</strong>. 36. Os casos omissos, que envolvam matéria de natureza regimental, serão resolvidos pelo Ministro de Estado.
+**Art**. 36. Os casos omissos, que envolvam matéria de natureza regimental, serão resolvidos pelo Ministro de Estado.
 
 Brasília, 7 de fevereiro de 1964.
 
-<strong>JÚLIO SAMBAQUY</strong>
+**JÚLIO SAMBAQUY**

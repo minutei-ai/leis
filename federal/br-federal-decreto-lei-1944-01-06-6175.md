@@ -1,5 +1,3 @@
-###DEL-006175-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.175 – DE 6 DE JANEIRO DE 1944
 
 Extingue a Infantaria Divisionária da 7ª Divisão de Infantaria com sede na 7ª Região Militar

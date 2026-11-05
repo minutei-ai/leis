@@ -1,5 +1,3 @@
-###DEC-006718-0-000-29-12-2008@@@
-
 DECRETO Nº 6.718, DE 29 DE DEZEMBRO DE 2008.
 
 Promulga o Acordo de Parceria e de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República Francesa em Matéria de Segurança Pública, celebrado em Brasília, em 12 de março de 1997.

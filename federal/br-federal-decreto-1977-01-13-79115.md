@@ -1,5 +1,3 @@
-###DEC-079115-0-000-13-01-1977@@@
-
 dECRETO N.º 79.115, DE 13 DE JANEIRO DE 1977.
 
 Concede à empresa BP Petroleum Development Brazil Limited autorização para funcionar na República Federativa do Brasil sob a denominação social de BP Petroleum Development Brazil Limited do Brasil.

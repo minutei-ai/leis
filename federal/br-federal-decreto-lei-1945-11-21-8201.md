@@ -1,5 +1,3 @@
-###DEL-008201-0-000-21-11-1945@@@
-
 DECRETO-LEI N. 8.201 – DE 21 DE NOVEMRRO DE 1945
 
 Altera o Decreto-lei nº 5.175, de 7 de janeiro de 1943

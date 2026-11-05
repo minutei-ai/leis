@@ -1,5 +1,3 @@
-###DEC-062092-0-000-09-01-1968@@@
-
 DECRETO Nº 62.092, DE 9 DE JANEIRO DE 1968.
 
 Retifica o artigo 1º do Decreto nº 57.314, de 24 de novembro de 1965.

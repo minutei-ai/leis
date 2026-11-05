@@ -1,5 +1,3 @@
-###DEL-000629-0-000-16-06-1969@@@
-
 Decreto-lei nº 629, de 16 de Junho de 1969
 
 Dá nova redação à letra b, do artigo 4º do Decreto-lei nº 570, de 3 de maio de 1969.

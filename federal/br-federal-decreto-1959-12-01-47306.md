@@ -1,5 +1,3 @@
-###DEC-047306-0-000-01-12-1959@@@
-
 Decreto nº 47.306, de 1 de dezembro de 1959.
 
 Torna sem efeito o Decreto nº 46.870, de 16 de setembro de 1959.

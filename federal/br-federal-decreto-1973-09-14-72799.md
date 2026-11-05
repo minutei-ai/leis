@@ -1,5 +1,3 @@
-###DEC-072799-0-000-14-09-1973@@@
-
 DECRETO Nº 72.799, DE 14 DE SETEMBRO DE 1973.
 
 Concede à S.A. de Cimento, Mineração e Cabotagem - CIMIMAR o direito de lavrar calcário e dolomita no município de Salto de Pirapora, Estado de São Paulo, e torna sem efeitos os Decretos nºs 15.404, de 27 de novembro de 1948 e o de nº 43.242, de 22 de fevereiro de 1958, retificado pelo Decreto nº 44.550, de 25 de setembro de 1958.

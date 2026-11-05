@@ -1,7 +1,3 @@
-1
-
-###DEC-000894-0-000-16-08-1993@@@
-
 DECRETO Nº 894, DE 16 DE AGOSTO DE 1993
 
 Dispõe sobre a dedução de recursos do Fundo de Participação dos Municípios FPM, para amortização de dívidas junto à Previdência Social e ao Fundo de Garantia do Tempo de Serviço FGTS.

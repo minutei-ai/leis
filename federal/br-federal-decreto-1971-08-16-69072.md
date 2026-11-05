@@ -1,5 +1,3 @@
-###DEC-069072-0-000-16-08-1971@@@
-
 DECRETO Nº 69.072, DE 16 DE agÔsto DE 1971.
 
 Autoriza a Companhia Brasileira de Energia Elétrica a construir linha de transmissão e dá outras providências.

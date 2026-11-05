@@ -1,5 +1,3 @@
-###DEC-068184-0-000-08-02-1971@@@
-
 DECRETO Nº 68.184, DE 8 DE FEVEREIRO DE 1971.
 
 Declara de interesse social para fins de desapropriação, imóvel rural situado nos municípios de Ribeirão, Serinhaém e Escada, no Estado de Pernambuco.

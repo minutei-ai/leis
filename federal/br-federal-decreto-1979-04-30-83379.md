@@ -1,5 +1,3 @@
-###DEC-083379-0-000-30-04-1979@@@
-
 Decreto nº 83.379, de 30 de abril de 1979.
 
 Concede reconhecimento aos cursos de Ciências, de Letras e de Estudos Sociais, da Faculdade de Formação Profissional Integrada, em Niterói, Estado do Rio de Janeiro.

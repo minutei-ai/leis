@@ -1,5 +1,3 @@
-###DEC-005730-0-000-20-03-2006@@@
-
 DECRETO Nº 5.730, DE 20 DE MARÇO DE 2006.
 
 Regulamenta o art. 110 da Lei nº 11.196, de 21 de novembro de 2005, que trata do regime fiscal adotado nas operações realizadas em mercados de liquidação futura pelas instituições autorizadas a funcionar pelo Banco Central do Brasil.

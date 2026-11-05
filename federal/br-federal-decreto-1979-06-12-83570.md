@@ -1,5 +1,3 @@
-###DEC-083570-0-000-12-06-1979@@@
-
 Decreto nº 83.570, de 12 de junho de 1979.
 
 Cria a Delegacia da Capitania dos Portos do Estado do Pará e do Território Federal do Amapá, em Santarém, Agências de Capitania dos Portos e suprime Agências de Capitanias dos Portos.

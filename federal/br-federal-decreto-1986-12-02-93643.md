@@ -1,5 +1,3 @@
-###DEC-093643-0-000-02-12-1986@@@
-
 DECRETO Nº 93.643, DE 2 DE DEZEMBRO DE 1986
 
 Autoriza o funcionamento de habilitação do curso de Letras da Faculdade de Filosofia, Ciências e Letras do Norte de Minas.

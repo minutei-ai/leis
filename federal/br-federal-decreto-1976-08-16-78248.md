@@ -1,5 +1,3 @@
-###DEC-078248-0-000-16-08-1976@@@
-
 DECRETO Nº 78.248, DE 16 DE AGOSTO DE 1976.
 
 Extingue a exigência de atestado de vacinação contra a varíola.

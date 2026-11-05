@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0dbc05e6-776e-41c4-9305-266b0358f388/texto#nowhere)
 
-###DEL-001872-0-000-21-05-1981@@@
-
 # decreto-Lei nº 1.872, de 21 de maio de 1981
 
 Dispõe sobre a aquisição, pelos concessionários, de energia elétrica excedente gerada por autoprodutores, e dá outras providências.

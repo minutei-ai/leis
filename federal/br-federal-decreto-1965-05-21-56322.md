@@ -1,5 +1,3 @@
-###DEC-056322-0-000-21-05-1965@@@
-
 DECRETO Nº 56.322, DE 21 DE MAIO DE 1965.
 
 Autoriza o cidadão brasileiro Pedro de Aquino Cavalcanti a pesquisar calcita, no Município de Sertânia, Estado de Pernambuco.

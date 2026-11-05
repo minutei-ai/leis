@@ -1,5 +1,3 @@
-###DEC-051615-0-000-05-12-1962@@@
-
 DECRETO Nº 51.615, DE 5 DE DEZEMBRO DE 1962.
 
 Cria a Comissão para o fim que indica.

@@ -1,5 +1,3 @@
-###DEL-008767-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.767 – DE 21 DE JANEIRO DE 1946
 
 Abre ao  Ministério das Relações Exteriores o crédito especial de Cr$ 1.600.000,00 para atender às despesas que especifica.

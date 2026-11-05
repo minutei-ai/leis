@@ -1,5 +1,3 @@
-###DEC-060195-0-000-09-02-1967@@@
-
 DECRETO Nº 60.195, DE 9 DE FEVEREIRO DE 1967.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Fazenda.

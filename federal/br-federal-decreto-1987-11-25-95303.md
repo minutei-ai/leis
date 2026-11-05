@@ -1,5 +1,3 @@
-###DEC-095303-0-000-25-11-1987@@@
-
 DECRETO N° 95.303, DE 25 DE NOVEMBRO DE 1987
 
 Dispõe sobre a execução do Décimo Quarto Protocolo Adicional do Acordo Comercial n° 16, do Setor da Indústria Química Derivada do Petróleo.

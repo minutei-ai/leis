@@ -1,5 +1,3 @@
-###DEC-079689-0-000-11-05-1977@@@
-
 DECRETO Nº 79.689, DE 11 DE MAIO DE 1977.
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado no Município de Palmeira dos Índios, Estado de Alagoas.

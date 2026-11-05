@@ -1,5 +1,3 @@
-###DEC-093560-0-000-11-11-1986@@@
-
 DECRETO Nº 93.560, DE 11 DE NOVEMBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural constituído pelas Glebas Paruá e Japunicaua ou Jacunicaua, situado no Município de Santa Melena, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619, de 2 de maio de 1986, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002354-0-000-24-08-1987@@@
-
 # DECRETO-LEI Nº 2.354, DE 24 DE AGOSTO DE 1987
 
 Altera a legislação do imposto de renda.

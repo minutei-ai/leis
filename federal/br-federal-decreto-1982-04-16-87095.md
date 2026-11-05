@@ -1,5 +1,3 @@
-###DEC-087095-0-000-16-04-1982@@@
-
 DECRETO Nº 87.095, DE 16 DE ABrIl DE 1982.
 
 Amplia as zonas prioritárias fixadas pelos Decretos nºs 67.557, de 12 de novembro de 1970, e 70.220, de 1º de março de 1972; prorroga o prazo de intervenção de que trata o Decreto nº 79.288, de 16 de fevereiro de 1977, e dá outras providências.

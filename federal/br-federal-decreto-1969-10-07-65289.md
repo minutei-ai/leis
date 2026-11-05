@@ -1,5 +1,3 @@
-###DEC-065289-0-000-07-10-1969@@@
-
 DECRETO Nº 65.289 - DE 7 outubro DE 1969.
 
 Declara caduco o Decreto nº 31.025, de 20 de junho de 1952.

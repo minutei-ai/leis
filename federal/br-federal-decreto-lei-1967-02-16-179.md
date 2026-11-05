@@ -1,5 +1,3 @@
-###DEL-000179-0-000-16-02-1967@@@
-
 DECRETo-LEI Nº 179, DE 16 DE FEVEREIRO DE 1967
 
 Autoriza a instituição da Fundação Interestadual para o Desenvolvimento dos Vales do Tocantins-Araguaia e Paraguai-Cuiabá (FIRTOP) e dá outras providências.

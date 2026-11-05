@@ -1,5 +1,3 @@
-###DEC-095577-0-000-23-12-1987@@@
-
 DECRETO N° 95.577, DE 23 DE DEZEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "BOA ESPERANÇA, PERPÉTUO SOCORRO E SÃO JOÃO DO RIOZINHO", também conhecidos como "GLEBA EXTREMA", classificados como “latifúndios por exploração”, situados nos Municípios de Senador Guiomard e Plácido de Castro, no Estado do Acre, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.676, de 19 de maio de 1986, e dá outras providências.

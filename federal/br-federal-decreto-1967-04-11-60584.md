@@ -1,5 +1,3 @@
-###DEC-060584-0-000-11-04-1967@@@
-
 Decreto nº 60.584, de 11 de abril de 1967.
 
 Declara de utilidade pública a “Biblioteca Pública Pelotense”, com sede em Pelotas, Estado do Rio Grande do Sul.

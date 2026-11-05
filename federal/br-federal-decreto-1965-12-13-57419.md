@@ -1,5 +1,3 @@
-###DEC-057419-0-000-13-12-1965@@@
-
 DECRETO Nº 57.419, DE 13 DE DEZEMBRO DE 1965.
 
 Regulamenta a Lei nº 4.593 de 29 de dezembro de 1964 que disciplina a desapropriação para as obras de combate às sêcas no Nordeste, no que diz respeito ao Departamento Nacional de Obras Contra as Sêcas.

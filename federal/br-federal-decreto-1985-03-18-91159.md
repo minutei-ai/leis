@@ -1,5 +1,3 @@
-###DEC-091159-0-000-18-03-1985@@@
-
 DECRETO Nº 91.159, DE 18 DE MARÇO DE 1985.
 
 Institui a Comissão para Elaboração de Projeto sobre Responsabilidade nos Mercados Financeiros.

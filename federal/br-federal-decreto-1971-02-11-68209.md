@@ -1,5 +1,3 @@
-###DEC-068209-0-000-11-02-1971@@@
-
 DECRETO Nº 68.209, DE 11 DE FEVEREIRO DE 1971.
 
 Concede à Companhia de Cimento Portland Poty, o direito de lavrar fosforita, no município de Igaraçu, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###MPV-002077-0-028-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.077-28, DE 25 DE JANEIRO DE 2001
 
 Institui o Auxílio-Transporte aos militares, servidores e empregados públicos da Administração Federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

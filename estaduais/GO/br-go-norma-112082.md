@@ -16,40 +16,246 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1600 - SECRETARIA DE ESTADO DA CASA MILITAR</b><br>1601 - GABINETE DO SECRETÁRIO - CHEFE DA CASA MILITAR</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4</td><td style=" width:85px;    ">04 122 4100 4146</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 255.493,06</td><td style=" width:85px;    ">R$ 1.089.506,89</td><td style=" width:85px;    ">R$ 1.344.999,95</td></tr></tbody></table>
+**1600 - SECRETARIA DE ESTADO DA CASA MILITAR**
+1601 - GABINETE DO SECRETÁRIO - CHEFE DA CASA MILITAR
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1900 - SECRETARIA DE ESTADO DE GOVERNO</b><br>1901 - GABINETE DO SECRETARIO DE GOVERNO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td style=" width:85px;    ">04 122 0300 3361</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 17.796.220,73</td><td style=" width:85px;    ">R$ 1.840.034,43</td><td style=" width:85px;    ">R$ 19.636.255,16</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES NA ÁREA DA SAÚDE DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td style=" width:85px;    ">10 122 0300 3363</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 26.958.357,37</td><td style=" width:85px;    ">R$ 496.747,05</td><td style=" width:85px;    ">R$ 27.455.104,42</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 3.426.288,37</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 3.426.288,37</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PAGAMENTO DE INDENIZAÇÃO PELO SERVIÇO EXTRAORDINÁRIO - AC4
+
+04 122 4100 4146
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 255.493,06
+
+R$ 1.089.506,89
+
+R$ 1.344.999,95
+
+**1900 - SECRETARIA DE ESTADO DE GOVERNO**
+1901 - GABINETE DO SECRETARIO DE GOVERNO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025
+
+04 122 0300 3361
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 17.796.220,73
+
+R$ 1.840.034,43
+
+R$ 19.636.255,16
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PROJETOS E ATIVIDADES NA ÁREA DA SAÚDE DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025
+
+10 122 0300 3363
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 26.958.357,37
+
+R$ 496.747,05
+
+R$ 27.455.104,42
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 3.426.288,37
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 3.426.288,37
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1600 - SECRETARIA DE ESTADO DA CASA MILITAR</b><br>1601 - GABINETE DO SECRETÁRIO - CHEFE DA CASA MILITAR</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.349.742,44</td><td style=" width:85px;    ">R$ 1.089.506,89</td><td style=" width:85px;    ">R$ 1.089.506,89</td></tr></tbody></table>
+**1600 - SECRETARIA DE ESTADO DA CASA MILITAR**
+1601 - GABINETE DO SECRETÁRIO - CHEFE DA CASA MILITAR
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1900 - SECRETARIA DE ESTADO DE GOVERNO</b><br>1901 - GABINETE DO SECRETARIO DE GOVERNO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td style=" width:85px;    ">04 122 0300 3361</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 45.859.051,02</td><td style=" width:85px;    ">R$ 1.840.034,43</td><td style=" width:85px;    ">R$ 1.840.034,43</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES NA ÁREA DA SAÚDE DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td style=" width:85px;    ">10 122 0300 3363</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 4.545.892,56</td><td style=" width:85px;    ">R$ 496.747,05</td><td style=" width:85px;    ">R$ 496.747,05</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 3.426.288,37</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 3.426.288,37</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 3.426.288,37</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 3.426.288,37</td></tr></tbody></table>
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.349.742,44
+
+R$ 1.089.506,89
+
+R$ 1.089.506,89
+
+**1900 - SECRETARIA DE ESTADO DE GOVERNO**
+1901 - GABINETE DO SECRETARIO DE GOVERNO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025
+
+04 122 0300 3361
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 45.859.051,02
+
+R$ 1.840.034,43
+
+R$ 1.840.034,43
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROJETOS E ATIVIDADES NA ÁREA DA SAÚDE DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025
+
+10 122 0300 3363
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 4.545.892,56
+
+R$ 496.747,05
+
+R$ 496.747,05
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 3.426.288,37
+
+**TOTAL**
+
+R$ 3.426.288,37
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 3.426.288,37
+
+**TOTAL**
+
+R$ 3.426.288,37

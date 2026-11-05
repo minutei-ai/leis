@@ -1,5 +1,3 @@
-###DEL-006381-0-000-29-03-1944@@@
-
 DECRETO-LEI N. 6.381 – DE 29 DE MARÇO DE 1944
 
 Aumenta de 59 praças o efetivo do Corpo de Bombeiros do Distrito Federal

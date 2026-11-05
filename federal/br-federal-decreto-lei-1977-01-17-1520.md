@@ -1,5 +1,3 @@
-###DEL-001520-0-000-17-01-1977@@@
-
 # DECRETO-LEI Nº 1.520, DE 17 DE JANEIRO DE 1977
 
 Estabelece condição para aquisição dos derivados de petróleo que menciona e dá outras providências.

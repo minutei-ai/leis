@@ -1,5 +1,3 @@
-###DEC-003998-0-000-05-11-2001@@@
-
 DECRETO Nº 3.998, DE 5 DE NOVEMBRO DE 2001
 
 Regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas, e dá outras providências.

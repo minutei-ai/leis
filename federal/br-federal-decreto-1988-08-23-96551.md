@@ -1,5 +1,3 @@
-###DEC-096551-0-000-23-08-1988@@@
-
 DECRETO N° 96.551, DE 23 DE AGOSTO DE 1988
 
 Revoga o Decreto n° 90.582, de 28 de novembro de 1984, e dispositivos do Decreto n° 89.554, de l7 de abril de 1984.

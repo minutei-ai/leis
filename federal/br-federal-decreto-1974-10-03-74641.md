@@ -1,5 +1,3 @@
-###DEC-074641-0-000-03-10-1974@@@
-
 DECRETO Nº 74.641, DE 3 DE OUTUBRO DE 1974.
 
 Concede à Mineração Curambaense Reunida S.A. o direto de lavar minérios de ferro e manganês, nos Municípios de Ladário e Corumbá, Estado de Mato Grosso.

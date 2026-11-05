@@ -1,5 +1,3 @@
-###DEC-071601-0-000-22-12-1972@@@
-
 DECRETO Nº 71.601 - DE 22 DE DEZEMBRO DE 1972
 
 Concede reconhecimento da Faculdade de Direito de Anápolis, mantida pela Associação Educativa Evangélica.

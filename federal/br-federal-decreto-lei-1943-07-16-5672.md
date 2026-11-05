@@ -1,5 +1,3 @@
-###DEL-005672-0-000-16-07-1943@@@
-
 DECRETO‑LEI N. 5.672 – DE 16 DE JULHO DE 1943
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 2.000.000,00, para conclusão da estrada Leopoldina a Petrolina, no Estado de Pernambuco

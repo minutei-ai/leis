@@ -1,5 +1,3 @@
-###DEC-064091-0-000-11-02-1969@@@
-
 DECRETO Nº 64.091, DE 11 DE FEVEREIRO DE 1969.
 
 Concede a Cia. de Desenvolvimento Agro Pecuário, Industrial e Mineral do Estado do Pará - CIDAPAR o direito de lavrar argila, no município de Vizeu, Estado do Pará.

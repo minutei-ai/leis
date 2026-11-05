@@ -1,7 +1,3 @@
-1
-
-###MPV-000992-0-000-11-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 992, DE 11 DE MAIO DE 1995.
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

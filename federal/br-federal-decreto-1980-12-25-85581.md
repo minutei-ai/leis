@@ -1,5 +1,3 @@
-###DEC-085581-0-000-25-12-1980@@@
-
 Decreto nº 85.581, de 25 de dezembro de 1980.
 
 Cria o Quadro Especial de Sargentos do Corpo de Praças da Armada e o Quadro Especial de Sargentos do Corpo de Fuzileiros Navais e dá outras providências.

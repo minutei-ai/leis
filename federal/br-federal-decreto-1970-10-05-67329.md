@@ -1,5 +1,3 @@
-###DEC-067329-0-000-05-10-1970@@@
-
 DECRETO Nº 67.329, DE 5 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 21.519 de 26 de julho de 1946.

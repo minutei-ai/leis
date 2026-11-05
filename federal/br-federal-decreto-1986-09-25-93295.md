@@ -1,5 +1,3 @@
-###DEC-093295-0-000-25-09-1986@@@
-
 DECRETO Nº 93.295, DE 25 DE SETEMBRO DE 1986
 
 Aprova Resolução do Conselho Nacional de Informática e Automação - CONIN.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001027-0-000-20-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.027, DE 20 DE JUNHO DE 1995.
 
 Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do REAL e os critérios para conversão das obrigações para o REAL, e dá outras providências.

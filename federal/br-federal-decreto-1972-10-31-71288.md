@@ -1,5 +1,3 @@
-###DEC-071288-0-000-31-10-1972@@@
-
 DECRETO Nº 71.288 - DE 31 DE OUTUBRO DE 1972.
 
 Declara de utilidade pública, para desapropriação, imóvel situado na Fazenda Bodocongó - bairro Casa de Pedra, Campina Grande, Estado da Paraíba.

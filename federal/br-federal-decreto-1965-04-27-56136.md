@@ -1,5 +1,3 @@
-###DEC-056136-0-000-27-04-1965@@@
-
 DECRETO Nº 56.136, DE 27 DE ABRIL DE 1965.
 
 Concede à The Yorkshire Insurance Company Limited autorização para aumentar o capital destinado às suas operações no País.

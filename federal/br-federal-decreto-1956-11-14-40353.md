@@ -1,14 +1,12 @@
-###DEC-040353-0-000-14-11-1956@@@
+**DECRETO Nº 40.353, DE 14 DE NOVEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.353, DE 14 DE NOVEMBRO DE 1956.</strong>
+***Altera o Regulamento da Escola Preparatória de Cadetes do Ar.***
 
-<em><strong>Altera o Regulamento da Escola Preparatória de Cadetes do Ar.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1<strong>º</strong> A alínea <em>b</em> do art. 3º e o art. 177 do Regulamento da Escola Preparatória de Cadetes do Ar, aprovado pelo Decreto nº 30.976, de 10 de junho de 1952, passam a vigorar com a seguinte redação:
+**Art**. 1**º** A alínea *b* do art. 3º e o art. 177 do Regulamento da Escola Preparatória de Cadetes do Ar, aprovado pelo Decreto nº 30.976, de 10 de junho de 1952, passam a vigorar com a seguinte redação:
 
 “b) ter o civil menos de 18 anos de idade, com tolerância de 1 (um) ano, para aquêles que, por ocasião da inscrição, apresentarem certificado de alistamento que comprove estarem relacionados para incorporação às fileiras do Exercito, Marinha ou Aeronáutica no ano em que se verificar a matrícula, e menos de 20 anos de idade a praça da Aeronáutica, Marinha e Exército, referidos êstes limites a 1 de março do ano da matrícula ’‘.
 
@@ -36,12 +34,12 @@ h) nos seguintes casos, mediante parecer do respectivo Conselho:
 
 3 - quando cometer falta grave, atentatória à dignidade e ao decôro militar, podendo neste caso aplicar-se a pena de exclusão.
 
-Parágrafo único. Não poderão ser rematriculados os alunos excluídos pelos motivos expressos nas alíneas <em>e</em>, <em>f</em>, <em>g</em>, e <em>h</em>”.
+Parágrafo único. Não poderão ser rematriculados os alunos excluídos pelos motivos expressos nas alíneas *e*, *f*, *g*, e *h*”.
 
-<strong>Art</strong>. 2º O presente entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 14 de novembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Fleiuss

@@ -1,5 +1,3 @@
-###DEC-069388-0-000-20-10-1971@@@
-
 DECRETO Nº 69.388, DE 20 DE OUTUBRO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, áreas destinadas à bacia de acumulação do aproveitamento da energia hidráulica de um trecho do rio Paranaíba, denominado Canal de São Simão.

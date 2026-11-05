@@ -1,5 +1,3 @@
-###DEL-007494-0-000-26-04-1945@@@
-
 DECRETO-LEI N. 7.494 – DE 26 DE ABRIL DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar o Sindicato dos Empregados no Comércio do Rio de Janeiro do irnpôsto que menciona

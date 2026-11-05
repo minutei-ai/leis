@@ -1,5 +1,3 @@
-###DEC-060027-0-000-11-01-1967@@@
-
 Decreto nº 60.027, de 11 de Janeiro de 1967.
 
 Concede a Neves Garcia & Cia. Ltda. autorização para funcionar como empresa de mineração.

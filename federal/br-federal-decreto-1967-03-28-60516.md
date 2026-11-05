@@ -1,5 +1,3 @@
-###DEC-060516-0-000-28-03-1967@@@
-
 DECRETO Nº 60.516, DE 28 DE MARÇO DE 1967.
 
 Aprova convênio sôbre candidatos excedentes dos concursos de habilitação dos estabelecimentos de ensino de nível superior.

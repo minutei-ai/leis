@@ -1,5 +1,3 @@
-###DEC-050089-0-000-25-01-1961@@@
-
 DECRETO Nº 50.089, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Emissora Rural A Voz do São Francisco Limitada para instalar uma estação radiodifusora.

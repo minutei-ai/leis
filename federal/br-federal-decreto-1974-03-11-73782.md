@@ -1,5 +1,3 @@
-###DEC-073782-0-000-11-03-1974@@@
-
 DECRETO N° 73.782, DE 11 DE MARÇO DE 1974.
 
 Torna sem efeito aproveitamento de disponíveis do Ministério do Trabalho e Previdência Social no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro.

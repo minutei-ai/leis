@@ -1,5 +1,3 @@
-###MPV-001982-0-071\-01-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.982-71, DE 1 DE junho DE 2000.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

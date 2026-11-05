@@ -1,5 +1,3 @@
-###DEC-091101-0-000-12-03-1985@@@
-
 DECRETO Nº 91.101, DE 12 DE MARÇO DE 1985
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Formação de Professores de Vitória da Conquista - BA.

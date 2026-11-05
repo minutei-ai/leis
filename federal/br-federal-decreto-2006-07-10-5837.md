@@ -1,5 +1,3 @@
-###DEC-005837-0-000-10-07-2006@@@
-
 DECRETO Nº 5.837, DE 10 DE JULHO DE 2006.
 
 Dispõe sobre a criação da Ordem do Mérito da Inteligência, a Medalha da Inteligência Brasileira, a Medalha de Aplicação e Estudo e a Medalha da Carreira de Inteligência.
@@ -37,5 +35,3 @@ Brasília, 10 de julho de 2006; 185º da Independência e 118º da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Jorge Armando Felix
-
-Este texto não substitui o publicado no D.O.U. de 11.7.2006

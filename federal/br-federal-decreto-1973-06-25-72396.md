@@ -1,5 +1,3 @@
-###DEC-072396-0-000-25-06-1973@@@
-
 DECRETO nº 72.396, DE 25 DE JUNHO DE 1973.
 
 Concede reconhecimento dos cursos de Pedagogia, Psicologia, Ciências Sociais, Estudos Sociais e Letras, na Faculdade de Filosofia, Ciências e Letras, do Instituto de Ciências "São Marcos", mantida pela Sociedade Civil de Educação "São Marcos", com sede na cidade de São Paulo, Estado de São Paulo.

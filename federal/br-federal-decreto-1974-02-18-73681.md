@@ -1,5 +1,3 @@
-###DEC-073681-0-000-18-02-1974@@@
-
 DECRETO Nº 73.681, DE 18 DE FEVEREIRO DE 1974.
 
 Dispõe sobre o Programa de Desenvolvimento do Ensino Médio (PRODEM) e dá outras providências.

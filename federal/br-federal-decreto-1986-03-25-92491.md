@@ -1,5 +1,3 @@
-###DEC-092491-0-000-25-03-1986@@@
-
 DECRETO Nº 92.491, DE 25 DE MARÇO DE 1986
 
 Cria a Secretaria Executiva do Programa Nacional de Irrigação (PRONI).

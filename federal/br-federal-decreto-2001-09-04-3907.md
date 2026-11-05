@@ -1,5 +1,3 @@
-###DEC-003907-0-000-04-09-2001@@@
-
 DECRETO Nº 3.907, DE 4 DE SETEMBRO DE 2001
 
 Altera o Regulamento do Fundo de Desenvolvimento Social FDS, aprovado pelo Decreto nº 1.081, de 8 de março de 1994, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-096862-0-000-29-09-1988@@@
-
 DECRETO N° 96.862, DE 29 DE SETEMBRO DE 1988
 
 Outorga concessão a  MAGALHÃES BARROS RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Alta Floresta, Estado do Mato Grosso.

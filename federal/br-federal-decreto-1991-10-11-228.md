@@ -1,7 +1,3 @@
-1
-
-###DEC-000228-0-000-11-10-1991@@@
-
 DECRETO N° 228, DE 11 DE OUTUBRO DE 1991
 
 Estabelece a distribuição dos cargos de direção e das funções gratificadas pertencentes ao Plano Único de Classificação e Retribuição de Cargos, instituído pela Lei n° 7.596, de 10 de abril de 1987, e de ambas providências.

@@ -1,5 +1,3 @@
-###DEC-004179-0-000-02-04-2002@@@
-
 DECRETO Nº 4.179, DE 2 DE ABRIL DE 2002
 
 Regulamenta a Lei nº 10.332, de 19 de dezembro de 2001, na parte que institui mecanismo de financiamento para o Programa de Ciência e Tecnologia para o Setor Aeronáutico e dá outras providências.

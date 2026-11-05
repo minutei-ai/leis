@@ -1,5 +1,3 @@
-###DEC-074116-0-000-28-05-1974@@@
-
 DECRETO Nº 74.116, DE 28 DE MAIO DE 1974.
 
 Transfere funcionário, com o respectivo cargo, do Quadro de Pessoal em extinção do antigo Conselho Nacional de Estatística, para o Quadro de Pessoal do Departamento Nacional de Estradas de Rodagem.

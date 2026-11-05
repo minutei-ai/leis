@@ -1,5 +1,3 @@
-###DEC-054374-0-000-05-10-1964@@@
-
 decreto nº 54.374, de 5 de outubro de 1964.
 
 Outorga a Petróleo Brasileiro S.A. - PETROBRÁS concessão para derivar águas do ribeirão Sarzedo.

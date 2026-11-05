@@ -1,5 +1,3 @@
-###DEC-054945-0-000-06-11-1964@@@
-
 decreto nº 54.945, de 6 de novembro de 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Parapuã, Estado de São Paulo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212859)<br>
-
 # DECRETO N° 70.772, DE 30 DE JULHO DE 2026
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à pavimentação da pista e dos acostamentos e outras melhorias do trecho entre os km 58+00m e 78+77m da Rodovia Osni Mateus, SP-261, nos Municípios de Águas de Santa Bárbara e Iaras, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-056058-0-000-26-04-1965@@@
-
 DECRETO Nº 56.058, DE 26 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Sebastião Marcelo de Andrade a pesquisar feldspato, no município de Antônio Dias, Estado de Minas Gerais.

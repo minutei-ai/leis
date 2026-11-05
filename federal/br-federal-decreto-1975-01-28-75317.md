@@ -1,5 +1,3 @@
-###DEC-075317-0-000-28-01-1975@@@
-
 DECRETO Nº 75.317, DE 28 DE JANEIRO DE 1975.
 
 Cria o Consulado de Carreira em Paissandu.

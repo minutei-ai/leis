@@ -1,5 +1,3 @@
-###DEC-048603-0-000-25-07-1960@@@
-
 DECRETO Nº 48.603, DE 25 DE JULHO DE 1960.
 
 Concede autorização à Cooperativa de Crédito Mútuo dos Oficiais Professores do Exército Limitada com sede em Pôrto Alegre, para alterar o seu estatuto social.

@@ -1,5 +1,3 @@
-###DEC-061607-0-000-24-10-1967@@@
-
 decreto nº 61.607, de 24 de outubro de 1967.
 
 Declara de interêsse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Arinos e São Romão, no Estado de Minas Gerais.

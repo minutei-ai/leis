@@ -1,5 +1,3 @@
-###DEC-055415-0-000-31-12-1964@@@
-
 DECRETO Nº 55.415, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Carlos Oscar Bittner a pesquisar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

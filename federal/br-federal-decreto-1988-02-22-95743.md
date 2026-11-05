@@ -1,7 +1,3 @@
-1
-
-###DEC-095743-0-000-22-02-1988@@@
-
 DECRETO N° 95.743, DE 22 DE FEVEREIRO DE 1988
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre o Brasil e o Peru (Acordo n° 12).

@@ -1,7 +1,3 @@
-1
-
-###DEC-098794-0-000-04-01-1990@@@
-
 DECRETO Nº 98.794, DE 4 DE JANEIRO DE 1990
 
 Renova a concessão outorgada à Rádio Santelenense Ltda., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Santa Helena de Goiás, Estado de Goiás.

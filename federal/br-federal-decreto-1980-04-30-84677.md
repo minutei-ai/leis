@@ -1,5 +1,3 @@
-###DEC-084677-0-000-30-04-1980@@@
-
 Decreto nº 84.677, de 30 de abril de 1980.
 
 Dispõe sobre a criação do Programa Especial de Apoio às Populações Pobres das Zonas Canavieiras do Nordeste.

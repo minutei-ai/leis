@@ -1,5 +1,3 @@
-###DEC-082995-0-000-08-01-1979@@@
-
 Decreto nº 82.995, de 08 de janeiro de 1979
 
 Extingue Organizações Militares no Ministério do Exército e dá outras providências.

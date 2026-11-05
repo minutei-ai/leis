@@ -1,5 +1,3 @@
-###DEL-008325-0-000-08-12-1945@@@
-
 DECRETO N. 8.325 – DE 08 DE DEZEMBRO DE 1945
 
 Dispõe sôbre o pessoal do Ministério das Relações Exteriores e dá  outras providências.

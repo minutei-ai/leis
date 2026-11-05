@@ -1,5 +1,3 @@
-###DEC-000160-0-000-02-07-1991@@@
-
 DECRETO Nº 160, DE 2 DE JULHO DE 1991
 
 Promulga o Protocolo de Prorrogação do Acordo sobre Comércio Internacional de Têxteis (Acordo Multifibras).

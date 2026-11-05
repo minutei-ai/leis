@@ -1,5 +1,3 @@
-###DEC-053367-0-000-31-12-1963@@@
-
 DECRETO Nº 53.367, DE 31 DE DEZEMBRO DE 1963
 
 Transfere, sem aumento de despesas, um cargo do Quadro de Pessoal – Parte Permanente do Ministério da Justiça e Negócios Interiores para o Quadro de Pessoal da Secretaria Público Federal do mesmo Ministério.

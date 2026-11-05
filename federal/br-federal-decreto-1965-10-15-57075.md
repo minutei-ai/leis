@@ -1,5 +1,3 @@
-###DEC-057075-0-000-15-10-1965@@@
-
 DECRETO Nº 57.075, DE 15 DE OUTUBRO DE 1965.
 
 Dispõe sôbre o funcionamento de cursos de Engenheiro de Operação em estabelecimentos de ensino de engenharia.

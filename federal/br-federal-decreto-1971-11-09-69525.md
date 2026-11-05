@@ -1,5 +1,3 @@
-###DEC-069525-0-000-09-11-1971@@@
-
 DECRETO Nº 69.525 - DE 9 DE NOVEMBRO DE 1971
 
 Altera a redação do artigo 4º do Decreto nº 63.324, de 30 de setembro de 1968.

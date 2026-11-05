@@ -1,5 +1,3 @@
-###DEC-077552-0-000-05-05-1976@@@
-
 Decreto nº 77.552, de 5 de maio de 1976
 
 Concede reconhecimento ao curso de Medicina, da Universidade Federal de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

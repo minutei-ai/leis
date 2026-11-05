@@ -1,5 +1,3 @@
-###DEC-060326-0-000-08-03-1967@@@
-
 DECRETO Nº 60.326, de 8 de março de 1967.
 
 Dá nova redação ao preâmbulo e ao artigo 1º do Decreto nº 54.596, de 26 de outubro de 1964.

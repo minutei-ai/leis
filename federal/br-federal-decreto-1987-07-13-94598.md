@@ -1,5 +1,3 @@
-###DEC-094598-0-000-13-07-1987@@@
-
 DECRETO N° 94.598, DE 13 DE JULHO DE 1987
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Educação de Ivaiporã, Estado do Paraná.

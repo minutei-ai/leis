@@ -1,5 +1,3 @@
-###DEL-009215-0-000-30-04-1946@@@
-
 DECRETO-LEI N. 9.215 – DE 30 DE ABRIL DE 1946
 
 Proíbe a prática ou exploração de jogos de azar em todo o território nacional

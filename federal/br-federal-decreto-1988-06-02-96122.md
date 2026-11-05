@@ -1,5 +1,3 @@
-###DEC-096122-0-000-02-06-1988@@@
-
 # DECRETO Nº 96.122, DE 2 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Moura Costa ou Santa Alice - Área A (parte), classificado como latifúndio por exploração, situado no Município de Itaguaí, no Estado do Rio de Janeiro, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.691, de 19 de maio de 1986, e dá outras providências.

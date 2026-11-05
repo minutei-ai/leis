@@ -1,5 +1,3 @@
-###DEC-046426-0-000-14-07-1959@@@
-
 DECRETO Nº 46.426, DE 14 DE JULHO DE 1959.
 
 Cria o Instituto de Pesquisas da Marinha

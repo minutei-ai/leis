@@ -1,5 +1,3 @@
-###DEC-081438-0-000-10-03-1978@@@
-
 Decreto nº 81.438, de 10 de março de 1978.
 
 Concede à Mineração Interex do Brasil Ltda. o direito de lavrar cianita no Município de Andrelândia, Estado de Minas Gerais.

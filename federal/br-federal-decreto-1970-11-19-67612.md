@@ -1,5 +1,3 @@
-###DEC-067612-0-000-19-11-1970@@@
-
 Decreto Nº 67.612, DE 19 DE NOVEMBRO DE 1970.
 
 Dispõe sôbre o Assessoramento Superior da Administração Civil Federal e dá outras providências.

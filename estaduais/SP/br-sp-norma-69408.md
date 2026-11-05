@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69408)
-
 # LEI Nº 12.505, DE 27 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 780/2004, da Deputada Rosmary Corrêa - PSDB)

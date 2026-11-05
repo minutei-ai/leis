@@ -1,5 +1,3 @@
-###DEC-097217-0-000-13-12-1988@@@
-
 DECRETO Nº 97.217, DE 13 DE DEZEMBRO DE 1988
 
 Fixa os preços mínimos para financiamento e aquisição do alho nobre e alho comum, para a safra 1988/89, em todo o Território Nacional.

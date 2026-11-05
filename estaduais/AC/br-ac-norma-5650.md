@@ -1,6 +1,10 @@
 > **LEI Nº 4.127, DE 11 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a preferência de assentos em áreas destinadas à alimentação para as pessoas que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a preferência de assentos em áreas destinadas à alimentação para as pessoas que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

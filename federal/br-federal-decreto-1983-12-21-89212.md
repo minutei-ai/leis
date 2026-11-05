@@ -1,5 +1,3 @@
-###DEC-089212-0-000-21-12-1983@@@
-
 DECRETO Nº 89.212, de 21 de dezembro de 1983.
 
 Altera o Regulamento para o Corpo de Oficiais da Reserva do Exército.

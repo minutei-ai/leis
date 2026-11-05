@@ -1,5 +1,3 @@
-###DEC-059485-0-000-09-11-1966@@@
-
 DECRETO Nº 59.485, de 9 de novembro de 1966.
 
 Autoriza o cidadão brasileiro Augusto Abel a pesquisar areia quartzosa, no município de Peruibe, Estado de São Paulo.

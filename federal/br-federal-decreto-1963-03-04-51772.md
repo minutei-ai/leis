@@ -1,5 +1,3 @@
-###DEC-051772-0-000-04-03-1963@@@
-
 DECRETO Nº 51.772, DE 4 DE MARÇO DE 1963.
 
 Autoriza a Emprêsa Comercial e Técnica de Minérios S. A. a lavrar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

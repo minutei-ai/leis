@@ -1,5 +1,3 @@
-###DEC-051917-0-000-26-04-1963@@@
-
 DECRETO Nº 51.917, DE 26 DE ABRIL DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no município de Cristalina, Estado de Goiás.

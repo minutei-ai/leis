@@ -1,5 +1,3 @@
-###DEC-003724-0-000-10-01-2001@@@
-
 DECRETO Nº 3.724, DE 10 DE JANEIRO DE 2001
 
 Regulamenta o art. 6º da Lei Complementar nº 105, de 10 de janeiro de 2001, relativamente à requisição, acesso e uso, pela Secretaria da Receita Federal, de informações referentes a operações e serviços das instituições financeiras e das entidades a elas equiparadas.

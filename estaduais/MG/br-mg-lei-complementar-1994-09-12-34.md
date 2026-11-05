@@ -4507,7 +4507,3 @@ RESULTADO DAS AÇÕES PROLATADAS AJUIZADAS POR MEMBRO DO MINISTÉRIO PÚBLICO AN
 (Vide art. 3º da Lei Complementar nº 99, de 14/8/2007.)
 
 (Anexo revogado pela alínea "l" do inciso I do art. 4º da Lei Complementar nº 162, de 4/8/2021.)
-
-\===============================================================
-
-Data da última atualização: 16/3/2026.

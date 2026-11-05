@@ -1,5 +1,3 @@
-###DEC-080465-0-000-03-10-1977@@@
-
 DECRETO Nº 80.465, DE 3 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-006607-0-000-21-06-1944@@@
-
 DECRETO-LEI N. 6.607 – DE 21 DE JUNHO DE 1944
 
 Altera sem aumento de despesa, a discriminação dos créditos especiais abertos pelos Decretos-leis 5.560 e 5.728, de 9 de junho e de 5 de agôsto de 1943, respectivamente, e dá outras providências

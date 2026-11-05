@@ -1,5 +1,3 @@
-###DEC-057835-0-000-17-02-1966@@@
-
 DECRETO Nº 57.835, DE 17 DE FEVEREIRO DE 1966.
 
 Estabelece obrigatoriedade de utilização do transporte ferroviário ou das emprêsas de navegação autárquicas, de economia mista ou administradas pela União, pelas repartições públicas, autarquias, órgãos da administração descentralizada e entidades de direito privado, beneficiados pelo Govêrno.

@@ -1,5 +1,3 @@
-###DEL-003126-0-000-19-03-1941@@@
-
 DECRETO-LEI N. 3.126 – DE 19 DE MARÇO DE 1941
 
 Abre crédito especial de 500:000$0 ao Ministério da Agricultura

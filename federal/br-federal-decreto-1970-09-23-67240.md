@@ -1,5 +1,3 @@
-###DEC-067240-0-000-23-09-1970@@@
-
 DECRETO Nº 67.240, DE 23 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública a Irmandade do Hospital São José - Santa Casa de São Vicente, com sede em São Vicente, Estado de São Paulo.

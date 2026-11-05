@@ -1,5 +1,3 @@
-###DEC-067019-0-000-07-08-1970@@@
-
 decreto nº 67.019, de 7 de agôsto de 1970.
 
 Concede permissão, em caráter permanente à firma Dianda & Cia. Ltda., sediada em Ribeirão Pires, Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

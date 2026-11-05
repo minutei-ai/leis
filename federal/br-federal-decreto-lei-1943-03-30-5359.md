@@ -1,5 +1,3 @@
-###DEL-005359-0-000-30-03-1943@@@
-
 DECRETO‑LEI N. 5.359 – DE 30 DE MARÇO DE 1943
 
 Cria, no Quadro Permanente do Ministério da Agriculfura, seis cargos, em comissão, de Administrador de Núcleo Colonial, padrão  L, e dá outras providências

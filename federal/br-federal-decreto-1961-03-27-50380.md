@@ -1,5 +1,3 @@
-###DEC-050380-0-000-27-03-1961@@@
-
 DECRETO Nº 50.380, DE 27 DE MARÇO DE 1961.
 
 Institui um Grupo de Trabalho para estudo dos problemas do Trigo e dá outra providências.

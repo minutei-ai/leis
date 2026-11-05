@@ -1,5 +1,3 @@
-###DEC-075299-0-000-27-01-1975@@@
-
 DECRETO Nº 75.299, DE 27 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento dos cursos de Letras, de Ciências, de Estudos Sociais e de Pedagogia, da Faculdade de Filosofia da Fundação de Ensino Superior do Rio Verde, Estado de Goiás.

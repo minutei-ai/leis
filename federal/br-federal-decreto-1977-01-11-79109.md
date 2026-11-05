@@ -1,5 +1,3 @@
-###DEC-079109-0-000-11-01-1977@@@
-
 DECRETO Nº 79.109, DE 11 DE JANEIRO DE 1977.
 
 Dispõe sobre a organização da Comissão Coordenadora da Criação do Cavalo Nacional, e dá outras providências.

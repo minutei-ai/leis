@@ -1,5 +1,3 @@
-###DEC-006041-0-000-08-02-2007@@@
-
 DECRETO Nº 6.041, DE 8 DE FEVEREIRO DE 2007.
 
 Institui a Política de Desenvolvimento da Biotecnologia, cria o Comitê Nacional de Biotecnologia e dá outras providências.
@@ -136,11 +134,7 @@ Luiz Fernando Furlan
 
 Sérgio Machado Rezende
 
-Marina Silva
-
-Este texto não substitui o publicado no DOU de 9.2.2007.
-
-ANEXO
+Marina SilvaANEXO
 
 POLÍTICA DE DESENVOLVIMENTO DA BIOTECNOLOGIA
 

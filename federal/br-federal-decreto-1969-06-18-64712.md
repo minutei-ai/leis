@@ -1,5 +1,3 @@
-###DEC-064712-0-000-18-06-1969@@@
-
 DECRETO Nº 64.712, DE 18 DE JUNHO DE 1969.
 
 Redistribui, com os respectivos ocupantes para o Quadro de Pessoal - Parte Especial - do Departamento Administrativo do Pessoal Civil (DASP) cargos originário da extinta Companhia Nacional de Navegação Costeira e dá outra providencias.

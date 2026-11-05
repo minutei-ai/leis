@@ -1,5 +1,3 @@
-###DEC-067172-0-000-11-09-1970@@@
-
 DECRETO Nº 67.172, DE 11 DE SETEMBRO DE 1970.
 
 Concede à Mineração Curimbaba Ltda. o direito de lavrar argila, no município de Poços de Caldas, Estado de Minas Gerais.

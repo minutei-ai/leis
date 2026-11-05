@@ -1,5 +1,3 @@
-###DEC-005453-0-000-02-06-2005@@@
-
 DECRETO Nº 5.453, DE 2 DE JUNHO DE 2005
 
  Dá nova redação a dispositivos do Decreto nº 4.732, de 10 de junho de 2003, que dispõe sobre a Câmara de Comércio Exterior - CAMEX, do Conselho de Governo.

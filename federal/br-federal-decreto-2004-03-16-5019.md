@@ -1,5 +1,3 @@
-###DEC-005019-0-000-16-03-2004@@@
-
 DECRETO Nº 5.019,  DE 16 DE MARÇO DE 2004.
 
 Distribui os efetivos de Oficiais da Marinha, em tempo de paz, a vigorar no ano de 2004, e fixa os percentuais dos cargos do Corpo de Intendentes da Marinha e do Corpo de Saúde da Marinha que deverão ser ocupados, exclusivamente, por oficiais do sexo masculino.

@@ -1,5 +1,3 @@
-###DEL-004520-0-000-24-07-1942@@@
-
 DECRETO-LEI N. 4.520 – DE 24 DE JULHO DE 1942
 
 Dispõe sobre a venda e distribuição do pescado

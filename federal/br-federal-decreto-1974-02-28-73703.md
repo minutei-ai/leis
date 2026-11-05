@@ -1,5 +1,3 @@
-###DEC-073703-0-000-28-02-1974@@@
-
 DECRETO N.º 73.703, DE 28 DE FEVEREIRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Emissora Veranense Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Marau, Estado do Rio Grande do Sul.

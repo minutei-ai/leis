@@ -1,5 +1,3 @@
-###DEC-094097-0-000-16-03-1987@@@
-
 DECRETO N° 94.097, DE 16 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "MALHADA DO RIACHÃO E CAJUEIRO", classificados no cadastro de imóveis rurais do INCRA, como latifúndio por exploração, situados no Município de Iguaraci, no Estado de Pernambuco, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.683, de 19 de maio de 1986, e dá outras providências.

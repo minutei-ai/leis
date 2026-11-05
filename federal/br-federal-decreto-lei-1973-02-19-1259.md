@@ -1,5 +1,3 @@
-###DEL-001259-0-000-19-02-1973@@@
-
 DECRETO-LEI N. 1.259 – DE 19 DE FEVEREIRO DE 1973
 
 Revoga o parágrafo único, do artigo 2º, do Decreto-lei nº 759, de 12 de agosto de 1969, introduz noras disposições e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070729-0-000-19-06-1972@@@
-
 DECRETO Nº 70.729, DE 19 DE JUNHO DE 1972.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Economia e Administração da Universidade Federal do Paraná - Curitiba - PR.

@@ -1,5 +1,3 @@
-###DEC-069829-0-000-22-12-1971@@@
-
 decreto nº 69.829 - de 22 DE DEZEMBRO de 1971
 
 Declara de utilidade pública o Asilo de Inválidos de Carangola, com sede em Carangola, Estado de Minas Gerais.

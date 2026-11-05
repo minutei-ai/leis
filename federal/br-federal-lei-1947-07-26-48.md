@@ -1,14 +1,12 @@
-###LEI-000048-0-000-26-07-1947@@@
+**LEI N. 48 – DE 26 DE JULHO DE 1947**
 
-<strong>LEI N. 48 – DE 26 DE JULHO DE 1947</strong>
-
-<em><strong>Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 2.238.217.10 para pagamento de dívidas relacionadas.</strong></em>
+***Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de Cr$ 2.238.217.10 para pagamento de dívidas relacionadas.***
 
 O Presidente da República :
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei :
 
-<strong>Art.</strong> 1º Fica o Poder Executivo autorizado a abrir, pelo Ministério da Fazenda, o crédito especial de  Cr$ 2.238.217,10 (dois milhões, duzentos  e trinta e oito mil, duzentos e dezessete cruzeiros e dez centavos), para ocorrer ao pagamento de dívidas de exercícios anteriores, de acordo com a seguinte discriminação:
+**Art.** 1º Fica o Poder Executivo autorizado a abrir, pelo Ministério da Fazenda, o crédito especial de  Cr$ 2.238.217,10 (dois milhões, duzentos  e trinta e oito mil, duzentos e dezessete cruzeiros e dez centavos), para ocorrer ao pagamento de dívidas de exercícios anteriores, de acordo com a seguinte discriminação:
 
                                                                                                                                                           Cr$
 
@@ -32,10 +30,10 @@ Ministério da Viação e Obras Públicas ......................................
 
 Total..................................................................................................................... 2.238.217,10
 
-<strong>Art.</strong> 2.º Revogam-se as disposições em contrário.
+**Art.** 2.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 26 de julho de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Corrêa e Castro.

@@ -1,5 +1,3 @@
-###DEC-053674-0-000-10-03-1964@@@
-
 Decreto nº 53.674, de 10 de março de 1964.
 
 Dispõe sôbre a aplicação do artigo 23 do Decreto nº 53.480, no Ministério das Relações Exteriores.

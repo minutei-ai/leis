@@ -1,5 +1,3 @@
-###DEC-093606-0-000-21-11-1986@@@
-
 DECRETO Nº 93.606, DE 21 DE NOVEMBRO DE 1986.
 
 Altera o Decreto nº 91.991, de 28 de novembro de 1985, e dá outras providências,

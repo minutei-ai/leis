@@ -1,5 +1,3 @@
-###DEC-005238-0-000-08-10-2004@@@
-
 DECRETO Nº 5.238 DE 8 DE OUTUBRO DE 2004
 
 Dá nova redação ao item 5 do art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto nº 88.777, de 30 de setembro de 1983.

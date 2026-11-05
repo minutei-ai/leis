@@ -1,5 +1,3 @@
-###DEC-057416-0-000-13-12-1965@@@
-
 DECRETO Nº 57.416, DE 13 DE DEZEMBRO DE 1965.
 
 Altera a denominação do Conservatório Musical “Mãe de Deus”, de Londrina, Estado do Paraná.

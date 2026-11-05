@@ -1,5 +1,3 @@
-###DEL-003840-0-000-19-11-1941@@@
-
 DECRETO-LEI N. 3.840 – DE 19 DE NOVEMBRO DE 1941
 
 Dispõe sobre o vencimento de professores militares e dá outras providências

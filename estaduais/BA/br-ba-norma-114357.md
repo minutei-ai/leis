@@ -14,7 +14,8 @@ Art. 2º - A pensão nesta lei à viúva, será suspensa desde que ela contraia 
 
 Art. 3º - As despesas decorrentes da abertura do presente crédito correrão por conta da verba 3.05.08 - 1.6.21.1, do orçamento vigente.
 
-Redação de acordo com a Lei nº 1.969, de 26 de outubro de 1963.<br>
+Redação de acordo com a Lei nº 1.969, de 26 de outubro de 1963.
+
 Redação original: "Art. 3º - Fica o Poder Executivo autorizado a, no presente exercício abrir o crédito especial para atender às despesas decorrentes desta lei, podendo para isso utilizar os recursos previstos na Consignação 8.07.4 - 1.6.21, do Orçamento em vigor." 
 
 Art. 4º - Revogam-se as disposições em contrário.
@@ -29,4 +30,4 @@ Joel Muniz
 
 Luciano Soares
 
-* * *
+ *

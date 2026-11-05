@@ -1,5 +1,3 @@
-###DEC-005538-0-000-19-09-2005@@@
-
 DECRETO Nº 5.538, DE 19 DE SETEMBRO DE 2005
 
 Altera as alíneas "a" e "b" do § 3º do art. 2º do Regulamento da Ordem do Mérito Cultural, aprovado pelo Decreto nº 1.711, de 22 de novembro de 1995.

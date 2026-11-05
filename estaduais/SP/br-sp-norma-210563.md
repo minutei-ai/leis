@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210563)<br>
-
 # LEI N° 18.079, DE 29 DE JANEIRO DE 2025
 
 ## (Projeto de lei n° 427/2021, do Deputado Wellington Moura – REPUBLICANOS)

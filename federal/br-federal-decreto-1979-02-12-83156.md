@@ -1,5 +1,3 @@
-###DEC-083156-0-000-12-02-1979@@@
-
 DECRETO Nº 83.156 DE 12 DE FEVEREIRO DE 1979
 
 Concede reconhecimento aos cursos de Pedagogia, e de Estudos Sociais, ministrados pela Faculdade de Educação de Joaçaba, com sede na cidade de Joaçaba, Estado de Santa Catarina.

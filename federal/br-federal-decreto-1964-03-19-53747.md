@@ -1,5 +1,3 @@
-###DEC-053747-0-000-19-03-1964@@@
-
 DECRETO Nº 53.747, DE 19 DE MARÇO DE 1964.
 
 Dispõe sôbre a composição do Conselho Nacional de Folclore.

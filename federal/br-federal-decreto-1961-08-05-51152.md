@@ -1,5 +1,3 @@
-###DEC-051152-0-000-05-08-1961@@@
-
 DECRETO Nº 51.152, DE 5 DE AGÔSTO DE 1961.
 
 Cria a Comissão Nacional de Planejamento.

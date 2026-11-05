@@ -1,5 +1,3 @@
-###DEL-005763-0-000-19-08-1943@@@
-
 DECRETO‑LEI N. 5.763 – DE 19 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 50.000,00, à verba que especifica

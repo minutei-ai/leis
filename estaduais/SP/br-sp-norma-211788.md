@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211788)<br>
-
 # DECRETO N° 70.066, DE 07 DE NOVEMBRO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria de Governo e Relações Institucionais nos Sistemas de Administração Financeira e Orçamentária do Estado._

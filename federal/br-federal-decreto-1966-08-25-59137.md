@@ -1,5 +1,3 @@
-###DEC-059137-0-000-25-08-1966@@@
-
 decreto nº 59.137, de 25 de agôsto de 1966.
 
 Concede à Mesquita & Pastor Ltda., autorização para funcionar como emprêsa de mineração.

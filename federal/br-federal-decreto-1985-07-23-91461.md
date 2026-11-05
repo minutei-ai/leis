@@ -1,5 +1,3 @@
-###DEC-091461-0-000-23-07-1985@@@
-
 Decreto nº 91.461, de 23 de julho de 1985
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem em favor da Petróleo Brasileiro S/A - PETROBRÁS - imóveis de propriedade particular, constituídos de terras e benfeitorias que menciona.

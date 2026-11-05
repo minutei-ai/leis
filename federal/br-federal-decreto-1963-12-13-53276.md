@@ -1,5 +1,3 @@
-###DEC-053276-0-000-13-12-1963@@@
-
 Decreto nº 53.276, de 13 de dezembro de 1963.
 
 Autoriza a cidadã brasileira Maria Quintão Pena a pesquisar minério de manganês no município de Espera Feliz, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-078386-0-000-09-09-1976@@@
-
 DECRETO Nº 78.386, DE 9 DE SETEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio de Janeiro.

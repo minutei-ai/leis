@@ -1,7 +1,3 @@
-1
-
-###DEC-095691-0-000-01-02-1988@@@
-
 DECRETO N° 95.691, DE 1° DE FEVEREIRO DE 1988
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo Comercial n° 22, no Setor da indústria de óleos essenciais, químico-aromáticos, aromas e sabores.

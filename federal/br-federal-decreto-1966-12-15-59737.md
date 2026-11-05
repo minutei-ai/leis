@@ -1,5 +1,3 @@
-###DEC-059737-0-000-15-12-1966@@@
-
 DECRETO Nº 59.737, de 15 de Dezembro de 1966.
 
 Outorga à Pinho Past Limitada concessão para o aproveitamento de energia hidráulica.

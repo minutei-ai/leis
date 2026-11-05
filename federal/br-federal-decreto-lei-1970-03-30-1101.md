@@ -1,5 +1,3 @@
-###DEL-001101-0-000-30-03-1970@@@
-
 # DECRetO-LEI Nº 1.101, DE 30 mARÇO DE 1970
 
 Estabelece normas especiais aplicáveis às autorizações de pesquisa de cassiterita na Província Estanífera de Rondônia.

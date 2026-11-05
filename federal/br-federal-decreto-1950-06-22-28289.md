@@ -1,26 +1,24 @@
-###DEC-028289-0-000-22-06-1950@@@
+**DECRETO Nº 28.289, DE 22 DE JUNHO DE 1950.**
 
-<strong>DECRETO Nº 28.289, DE 22 DE JUNHO DE 1950.</strong>
+***Outorga concessão à Rádio Eldorado S. A. para estabelecer, nesta Capital, uma estação radiodifusora de ondas médias.***
 
-<em><strong>Outorga concessão à Rádio Eldorado S. A. para estabelecer, nesta Capital, uma estação radiodifusora de ondas médias.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, atendendo ao que requereu a Rádio Eldorado S. A., e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, atendendo ao que requereu a Rádio Eldorado S. A., e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão à Rádio Eldorado S. A. nos têrmos do Art. 11, do Decreto nº 24.655, de 11 de junho de 1934, para estabelecer, nesta Capital, pelo prazo de cinco (5) anos, sem direito de exclusividade, uma estação radiodifusora de ondas médias, de acôrdo com as cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
 § 1º A Rádio Elaborada S. A. operará no canal de 550 quilociclos, na conformidade do convênio assinado em 27 de março de 1950, entre as administrações brasileira e boliviana, para uso recíproco do referido canal.
 
-§ 2º O contrato decorrente desta concessão deverá ser assinado dentro de assenta (60) dias, a contar da data da publicação dêste Decreto no <em>Diário Oficial</em>, sob pena de ser desde logo a mesma considerada nula.
+§ 2º O contrato decorrente desta concessão deverá ser assinado dentro de assenta (60) dias, a contar da data da publicação dêste Decreto no *Diário Oficial*, sob pena de ser desde logo a mesma considerada nula.
 
 Rio de Janeiro, 22 de junho de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 João Valdetaro de Amorim e Mello
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 28.289, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 28.289, DESTA DATA**
 
 I
 
@@ -84,7 +82,7 @@ VII
 
 Para inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno Federal, poderá, pelo órgão fiscalizador, impor à concessionária multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*.
 
 VIII
 
@@ -94,9 +92,9 @@ IX
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo fôr verificada inobservância das disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, <em>e</em> (<em>in fine</em>), <em>j</em>, <em>k</em> e <em>l</em>, da cláusula IV;
+a) se, em todo o tempo fôr verificada inobservância das disposições contidas nas alíneas *a*, *b*, *c*, *d*, *e* (*in fine*), *j*, *k* e *l*, da cláusula IV;
 
-b) se não forem pagas, dentro dos prazos estabelecidos, a cota e contribuições a que se refere a alínea <em>e</em> da cláusula IV, bem como a importância de qualquer multa imposta nos têrmos da cláusula VII;
+b) se não forem pagas, dentro dos prazos estabelecidos, a cota e contribuições a que se refere a alínea *e* da cláusula IV, bem como a importância de qualquer multa imposta nos têrmos da cláusula VII;
 
 c) se, em qualquer tempo, se verificar o emprêgo da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -110,4 +108,4 @@ b) se a concessionária incidi reiteradamente em infrações passíveis de multa
 
 Rio de Janeiro, 22 de junho de 1950.
 
-<strong>JOÃO VALDETARO DE AMORIM E MELLO</strong>
+**JOÃO VALDETARO DE AMORIM E MELLO**

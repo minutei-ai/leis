@@ -1,5 +1,3 @@
-###DEC-055238-0-000-18-12-1964@@@
-
 DECRETO Nº 55.238, DE 18 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia Siderúrgica Pitangui a pesquisar minérios de ferro e manganês no município de Pitangui, Estado Minas Gerais.

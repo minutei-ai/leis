@@ -1,7 +1,3 @@
-1
-
-###DEC-085787-0-000-05-03-1981@@@
-
 Decreto nº 85.787, de 05 de março de 1981.
 
 Prorroga até 31 de dezembro de 1981 o prazo atribuído ao Grupo de Trabalho de que trata o Decreto 84.992, de 4 de agosto de 1980.

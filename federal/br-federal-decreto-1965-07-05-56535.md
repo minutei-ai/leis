@@ -1,5 +1,3 @@
-###DEC-056535-0-000-05-07-1965@@@
-
 DECRETO Nº 56.535, DE 5 DE JULHO DE 1965.
 
 Declara de utilidade pública áreas de terra situadas nos Municípios de Caconde, Estado de São Paulo, Poços de Caldas e Botelhos, Estado de Minas Gerais e autoriza a Companhia Hidroelétrica do Rio Pardo a desapropriá-las.

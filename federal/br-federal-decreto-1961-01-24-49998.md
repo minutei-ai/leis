@@ -1,5 +1,3 @@
-###DEC-049998-0-000-24-01-1961@@@
-
 DECRETO Nº 49.998, DE 24 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.653, de 17 de outubro de 1958.

@@ -1,5 +1,3 @@
-###DEC-046101-0-000-20-05-1959@@@
-
 Decreto nº 46.101, de 20 de março de 1959.
 
 Concede o abono provisório aos servidores do Instituto Brasileiro de Geografia e Estatística.

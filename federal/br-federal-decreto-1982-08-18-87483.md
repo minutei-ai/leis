@@ -1,5 +1,3 @@
-###DEC-087483-0-000-18-08-1982@@@
-
 Decreto nº 87.483, de 18 de agosto de 1982.
 
 Altera a redação do artigo 7-1-26 da Ordenança Geral para o Serviço da Armada, aprovada pelo Decreto nº 8.726 de 6 de fevereiro de 1942.

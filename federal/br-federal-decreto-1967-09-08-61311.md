@@ -1,5 +1,3 @@
-###DEC-061311-0-000-08-09-1967@@@
-
 DECRETO Nº 61.311, DE 8 DE SETEMBRO DE 1967.
 
 Provê sôbre a constituição de grupo de trabalho interministerial, para estudo e levantamento de recursos destinados à alfabetização.

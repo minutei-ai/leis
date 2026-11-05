@@ -1,5 +1,3 @@
-###DEC-096990-0-000-14-10-1988@@@
-
 DECRETO Nº 96.990, DE 14 DE OUTUBRO DE 1988
 
 Cria a Zona de Processamento de Exportação - ZPE de Maracanaú, no Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEL-004953-0-000-13-11-1942@@@
-
 DECRETO-LEI N. 4.953 – DE 13 DE NOVEMBRO DE 1942
 
 Dispõe sobre a aquisição do trigo de produção nacional

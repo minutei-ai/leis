@@ -1,7 +1,3 @@
-1
-
-###MPV-001001-0-000-19-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.001, DE 19 DE MAIO DE 1995
 
 Dispõe sobre a base de cálculo da Contribuição para o Programa de Integração Social (PIS) devida pelas pessoas jurídicas a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e dá outras providências.

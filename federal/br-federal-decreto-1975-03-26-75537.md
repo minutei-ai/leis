@@ -1,5 +1,3 @@
-###DEC-075537-0-000-26-03-1975@@@
-
 DECRETO Nº 75.537, DE 26 DE MARÇO DE 1975.
 
 Autoriza o funcionamento dos cursos de Administração e de Ciências Econômicas, mantidos pela Fundação Faculdade Municipal de Administração e Ciências Econômicas de União da Vitória, com sede na Cidade de União da Vitória, Estado do Paraná.

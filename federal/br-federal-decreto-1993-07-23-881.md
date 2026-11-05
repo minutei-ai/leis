@@ -1,7 +1,3 @@
-1
-
-###DEC-000881-0-000-23-07-1993@@@
-
 DECRETO N° 881, DE 23 DE JULHO DE 1993
 
 Aprova o Regulamento de Promoções de Graduados da Aeronáutica

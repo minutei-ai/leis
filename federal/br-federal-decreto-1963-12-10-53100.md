@@ -1,5 +1,3 @@
-###DEC-053100-0-000-10-12-1963@@@
-
 DECRETO Nº 53.100, DE 10 DE DEZEMBRO DE 1963.
 
 Outorga ao Município de Bacabal, Estado do Maranhão, concessão para distribuir energia elétrica.

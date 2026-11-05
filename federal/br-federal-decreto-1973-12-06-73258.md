@@ -1,5 +1,3 @@
-###DEC-073258-0-000-06-12-1973@@@
-
 DECRETO Nº 73.258 - DE 6 DE DEZEMBRO DE 1973
 
 Concede reconhecimento aos cursos de Letras, Ciências, Estudos Sociais e Psicologia, da Faculdade de Filosofia, Ciências e Letras da Federação das Faculdades "Braz Cubas" mantida pela Sociedade Civil de Educação "Braz Cubas", com sede na Cidade de Moji das Cruzes, Estado de São Paulo.

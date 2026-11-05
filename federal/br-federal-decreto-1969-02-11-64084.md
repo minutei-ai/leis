@@ -1,5 +1,3 @@
-###DEC-064084-0-000-11-02-1969@@@
-
 DECRETO Nº 64.084, DE 11 DE FEVEREIRO DE 1969.
 
 Concede à S.A. Mineração - da Trindade o direito de lavrar minérios de ferro e de manganês, no município de Mariana, Estado de Minas Gerais.

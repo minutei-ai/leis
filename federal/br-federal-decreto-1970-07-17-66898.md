@@ -1,5 +1,3 @@
-###DEC-066898-0-000-17-07-1970@@@
-
 Decreto nº 66.898, de 17 de julho de 1970.
 
 Declara caduco o Decreto nº 12.004, de 19-3-1943, alterado pelo de número 15.641, de 24-5-1944.

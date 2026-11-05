@@ -1,5 +1,3 @@
-###DEC-059998-0-000-10-01-1967@@@
-
 DECRETO Nº 59.998, DE 10 DE JANEIRO DE 1967.
 
 Renova o decreto nº 54.856, de 3 de novembro de 1964.

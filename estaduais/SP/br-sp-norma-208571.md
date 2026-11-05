@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208571)<br>
-
 # LEI N° 17.765, DE 27 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 80/2022, do Deputado Castello Branco – PSL)

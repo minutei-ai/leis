@@ -1,5 +1,3 @@
-###DEC-054657-0-000-29-10-1964@@@
-
 DECRETO Nº 54.657, DE 29 DE OUTUBRO DE 1964.
 
 Transfere de Fenelon Lima & Cia. para a Companhia de Eletricidade do Cariri a concessão para distribuir energia elétrica no Município de Iguatu - Estado do Ceará.

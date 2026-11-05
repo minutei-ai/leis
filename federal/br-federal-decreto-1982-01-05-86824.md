@@ -1,5 +1,3 @@
-###DEC-086824-0-000-05-01-1982@@@
-
 DECRETO Nº 86.824, DE 05 DE JANEIRO DE 1982.
 
 Altera localização de sede do 31º Batalhão de Infantaria motorizado e dá outras providências

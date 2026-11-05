@@ -1,5 +1,3 @@
-###DEC-058223-0-000-19-04-1966@@@
-
 DECRETO Nº 58.223, DE 19 DE ABRIL DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 45.371, de 2 de fevereiro de 1959, para fins de desapropriação pelo Departamento Nacional de Obras e Contra as Sêcas, da área de terreno necessária à construção do açude público “Poço da Cruz”, no município de Moxotó - Estado de Pernambuco.

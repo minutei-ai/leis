@@ -1,5 +1,3 @@
-###DEC-059381-0-000-12-10-1966@@@
-
 DECRETO Nº 59.381, DE 12 DE OUTUBRO DE 1966.
 
 Concede reconhecimento á Faculdade de Medicina de Pelotas.

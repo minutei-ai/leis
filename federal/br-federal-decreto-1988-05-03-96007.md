@@ -1,5 +1,3 @@
-###DEC-096007-0-000-03-05-1988@@@
-
 DECRETO N° 96.007, DE 03 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE JATAÍ LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Jataí, Estado de Goiás.

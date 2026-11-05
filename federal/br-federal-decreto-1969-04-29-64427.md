@@ -1,5 +1,3 @@
-###DEC-064427-0-000-29-04-1969@@@
-
 DECRETO Nº 64.427, DE 29 DE ABRIL DE 1969.
 
 Altera o Decreto nº 62.908, de 25 de junho de 1968.

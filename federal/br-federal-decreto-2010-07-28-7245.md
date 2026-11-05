@@ -1,5 +1,3 @@
-###DEC-007245-0-000-28-07-2010@@@
-
 DECRETO Nº 7.245, DE 28 DE JULHO DE 2010.
 
 Altera o Anexo I ao Decreto nº 6.834, de 30 de abril de 2009, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo-Direção e Assessoramento Superiores e das Funções Gratificadas do Comando da Aeronáutica, do Ministério da Defesa, para incluir na estrutura organizacional do Comando da Aeronáutica a Junta de Julgamento da Aeronáutica, e o Anexo I ao Decreto nº 5.731, de 20 de março de 2006, que dispõe sobre a instalação, a estrutura organizacional da Agência Nacional de Aviação Civil - ANAC e aprova o seu regulamento.

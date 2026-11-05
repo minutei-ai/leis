@@ -1,5 +1,3 @@
-###DEL-006023-0-000-23-11-1943@@@
-
 DECRETO‑LEI N. 6.023 – DE 23 DE NOVEMBRO DE 1943
 
 Altera as carreiras de Maquinista‑marítimo, Patrão, Marinheiro e Servente do Quadro Suplementar do Ministério da Marinha e dá outras providências

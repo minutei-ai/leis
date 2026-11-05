@@ -1,5 +1,3 @@
-###DEC-006267-0-000-22-11-2007@@@
-
 DECRETO Nº 6.2657, DE 22 DE NOVEMBRO DE 2007.
 
 Dá nova redação aos incisos I e II do art. 1o do Decreto no 6.161, de 20 de julho de 2007, que dispõe sobre a inclusão e exclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agência Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação das respectivas concessões, e dá outras providências.
@@ -37,5 +35,3 @@ LUIZ INÁCIO LULA DA SILVA
 Ivan João Guimarães Ramalho
 
 Nelson éHubner Moreira
-
-Este texto não substitui o publicado no DOU de 23.11.2007

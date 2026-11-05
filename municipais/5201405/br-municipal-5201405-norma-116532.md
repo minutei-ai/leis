@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.513, DE 22 DE OUTUBRO DE 2019<br>
+LEI MUNICIPAL Nº 3.513, DE 22 DE OUTUBRO DE 2019
+
 (Revogado pela Lei Ordinária nº 3.518, de 1 de novembro de 2019).
 
 ~~“Autoriza o Poder Executivo a contratar financiamento junto à instituição financeira, na qualidade de agente financeiro, a oferecer garantias e dá outras providencias.”~~
@@ -31,8 +32,10 @@ LEI MUNICIPAL Nº 3.513, DE 22 DE OUTUBRO DE 2019<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 22 de Outubro de 2019.~~
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito Municipal~~
 
-~~OLAVO NOLETO<br>
+~~OLAVO NOLETO
+
 Chefe da Casa Civil~~

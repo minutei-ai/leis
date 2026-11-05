@@ -1,5 +1,3 @@
-###DEC-083278-0-000-12-03-1979@@@
-
 Decreto nº 83.278, de 12 de março de 1979
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, destinado ao ministério do Exército.

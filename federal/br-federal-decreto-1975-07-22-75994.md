@@ -1,5 +1,3 @@
-###DEC-075994-0-000-22-07-1975@@@
-
 DECRETO Nº 75.994 - DE 22 DE JULHO DE 1975.
 
 Concede reconhecimento aos cursos de Ciências Biológicas, de História, de Letras, de Matemática e de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Ituiutaba, mantida pela Fundação Educacional de Ituiutaba, com sede na cidade de Ituiutaba, Estado de Minas Gerais.

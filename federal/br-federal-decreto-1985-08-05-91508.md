@@ -1,5 +1,3 @@
-###DEC-091508-0-000-05-08-1985@@@
-
 DEcrEto nº 91. 508, dE 05 de agosto dE 1985.
 
 Permite o uso nos uniformes das Forças Armadas e Auxiliares, da Insígnia da ''Ordem do Mérito Forças Armadas''.

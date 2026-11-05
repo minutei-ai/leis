@@ -1,7 +1,3 @@
-1
-
-###DEC-001057-0-000-11-02-1994@@@
-
 DECRETO Nº 1.057, DE 11 DE FEVEREIRO DE 1994
 
 Dá nova redação ao art. 10 do Estatuto da Caixa Econômica Federal, aprovado pelo Decreto nº 99.531, de 17 de setembro de 1990.

@@ -1,5 +1,3 @@
-###DEC-055731-0-000-03-02-1965@@@
-
 DECRETO Nº 55.731, DE 3 DE FEVEREIRO DE 1965.
 
 Altera o Regulamento para a Escola Naval.

@@ -1,5 +1,3 @@
-###DEC-072528-0-000-25-07-1973@@@
-
 DECRETO Nº 72.528, DE 25 DE JUNHO DE 1973.
 
 Torna sem efeito aproveitamento de disponíveis no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro e dá outras providências.

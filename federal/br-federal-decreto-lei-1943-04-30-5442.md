@@ -1,5 +1,3 @@
-###DEL-005442-0-000-30-04-1943@@@
-
 DECRETO-LEI N. 5.442 – DE 30 DE ABRIL DE 1943
 
 Dispõe sobre o registo de professores no Ministério do Trabalho, Indústria e Comércio

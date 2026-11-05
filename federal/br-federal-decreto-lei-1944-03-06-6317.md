@@ -1,5 +1,3 @@
-###DEL-006317-0-000-06-03-1944@@@
-
 DECRETO-LEI N. 6.317 – DE 6 DE MARÇO DE 1944
 
 Concede à tropa destacada em Bôa Vista, no território Federal do Rio Branco, as vantagens previstas nos arts. 134 e 140, do Código de Vencimentos e

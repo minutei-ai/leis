@@ -1,5 +1,3 @@
-###DEC-046129-0-000-01-06-1959@@@
-
 DECRETO Nº 46.129, DE 1 DE JUNHO DE 1959.
 
 Dá nova redação ao artigo 9º do Decreto nº 39.324, de 7 de julho de 1956.

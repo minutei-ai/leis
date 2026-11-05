@@ -1,5 +1,3 @@
-###DEC-051338-0-000-26-10-1961@@@
-
 DECRETO Nº 51.338, DE 26 DE OUTUBRO DE 1961.
 
 Autorização para ser procedida a subscrição pública de ações para constituição do Banco de Desenvolvimento do Estado de Santa Catarina Sociedade Anônima.

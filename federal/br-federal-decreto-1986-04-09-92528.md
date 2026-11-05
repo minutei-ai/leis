@@ -1,5 +1,3 @@
-###DEC-092528-0-000-09-04-1986@@@
-
 DECRETO Nº 92.528, DE 9 DE ABRIL DE 1986
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo, de Recife, Pernambuco.

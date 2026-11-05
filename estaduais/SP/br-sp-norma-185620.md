@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185620)
-
 # DECRETO Nº 63.302, DE 22 DE MARÇO DE 2018
 
 ### _Identifica funções de chefia que especifica, destinadas à 1ª Delegacia de Polícia da Pessoa com Deficiência, prevista no Decreto n° 60.028, de 3 de janeiro de 2014, e dá providências correlatas_
@@ -24,12 +22,20 @@ Decreta:
 
 **Artigo 3º -** Este decreto entra em vigor na data de sua publicação.
 
-Palácio dos Bandeirantes, 22 de março de 2018<br>
-GERALDO ALCKMIN<br>
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Palácio dos Bandeirantes, 22 de março de 2018
+
+GERALDO ALCKMIN
+
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 22 de março de 2018.

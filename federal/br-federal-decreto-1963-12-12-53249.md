@@ -1,5 +1,3 @@
-###DEC-053249-0-000-12-12-1963@@@
-
 DECRETO Nº 53.249, DE 12 DE DEZEMBRO DE 1963.
 
 Extingue o Consulado Privativo em Monte Caseros.

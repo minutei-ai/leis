@@ -1,5 +1,3 @@
-###DEC-054166-0-000-21-08-1964@@@
-
 DECRETO Nº 54.166, DE 21 DE AGÔSTO DE 1964.
 
 Outorga à Espírito Santo Centrais Elétricas S.A. concessão para o aproveitamento progressivo de energia hidráulica de um trecho do curso d’água denominado Braço Sul do Rio São Mateus, Estado do Espírito Santo.

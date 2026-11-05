@@ -1,5 +1,3 @@
-###DEL-000035-0-000-01-12-1937@@@
-
 DECRETO-LEI N. 35 – DE 1 DE DEZEMBRO DE 1937
 
 Inclue no regime estabelecido pelo decreto-lei n. 2, de 13 de novembro de 1937, todos os cafés exportados para, o estrangeiros a partir de 1 do mesmo mês, e dá outras providências

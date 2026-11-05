@@ -1,5 +1,3 @@
-###DEC-073006-0-000-26-10-1973@@@
-
 DECRETO Nº 73.006, DE 26 DE OUTUBRO DE 1973.
 
 Torna sem efeito aproveitamento de disponível no Instituto de Previdência e Assistência dos Servidores do Estado (IPASE), e cancela sua disponibilidade.

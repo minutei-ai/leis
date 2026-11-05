@@ -1,5 +1,3 @@
-###DEC-045623-0-000-24-03-1959@@@
-
 decreto nº 45.623, de 24 de março de 1959.
 
 Extingue Coletoria Federal.

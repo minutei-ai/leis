@@ -1,5 +1,3 @@
-###DEC-007104-0-000-10-02-2010@@@
-
 DECRETO Nº 7.104, DE 10 DE FEVEREIRO DE 2010.
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Dominicana, firmado em São Domingos, em 6 de fevereiro de 2006.

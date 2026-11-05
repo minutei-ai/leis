@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185565)
-
 # DECRETO Nº 63.278, DE 19 DE MARÇO DE 2018
 
 ### _Dispõe sobre o reajuste dos tetos específicos para o Programa Paulista da Agricultura de Interesse Social - PPAIS e do subprograma PPAIS - LEITE, nos termos da Lei nº 14.591, de 14 de outubro de 2011, regulamentada pelo Decreto nº 57.755, de 24 de janeiro de 2012_
@@ -24,10 +22,16 @@ Palácio dos Bandeirantes, 19 de março de 2018
 
 GERALDO ALCKMIN
 
-Márcio Fernando Elias Rosa<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Márcio Fernando Elias Rosa
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 19 de março de 2018.

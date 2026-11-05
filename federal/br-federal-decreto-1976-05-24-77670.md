@@ -1,5 +1,3 @@
-###DEC-077670-0-000-24-05-1976@@@
-
 DECRETO Nº 77.670, DE 24 DE MAIO DE 1976
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Jaú, com sede na Cidade de Jaú, Estado de São Paulo.

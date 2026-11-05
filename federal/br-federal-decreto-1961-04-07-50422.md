@@ -1,5 +1,3 @@
-###DEC-050422-0-000-07-04-1961@@@
-
 Decreto Nº 50.422, DE 7 DE ABRIL DE 1961.
 
 Regula o mercado da borracha

@@ -1,5 +1,3 @@
-###DEC-089784-0-000-13-06-1984@@@
-
 Decreto nº 89.784, de    de junho de 1984
 
 Retifica a autorização para o funcionamento de Curso de Professores da Faculdade de Tecnologia de São Paulo, de que trata o Decreto nº 77.504, de 27 de abril de 1976.

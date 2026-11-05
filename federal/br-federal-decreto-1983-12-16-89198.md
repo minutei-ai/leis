@@ -1,5 +1,3 @@
-###DEC-089198-0-000-16-12-1983@@@
-
 Decreto nº 89.198, de 16 de dezembro de 1983
 
 Renova por 15 (quinze) anos a concessão outorgada à TV ESPLANADA DO PARANÁ LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Ponta Grossa, Estado do Paraná.

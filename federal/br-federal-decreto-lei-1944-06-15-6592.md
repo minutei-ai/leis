@@ -1,5 +1,3 @@
-###DEL-006592-0-000-15-06-1944@@@
-
 DECRETO-LEI N. 6.592 – DE 15 DE JUNHO DE 1944
 
 Altera carreiras dos Quadros Permanente e Suplementar do Ministério da Justiça e Negócios Interiores e dá outras providências
@@ -22,4 +20,82 @@ Alexandre Marcondes Filho.
 
 ## RELAÇÃO NOMINAL A QUE SE REFERE O ARTIGO 2º DO DECRETO-LEI Nº 6.592, DE 15 DE JUNHO DE 1944
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:156pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><h3 style="text-align:center"><span style="font-size:1.2em">Nome</span></h3></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Situação antiga</span></p></td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Situação nova</span></p></td></tr><tr><td style="width:156pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="margin-left:18pt; text-indent:-18pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt"><span>1)</span></span><span style="font:7pt 'Times New Roman'; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:' Arial'; font-size:12pt">Luiz da Silva Coelho</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">2) Antônio Coelho Valadão...</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">3) Ângelo Miragaia ...............</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">4) Joaquim Luiz da Costa ....</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">5) Virgílio Rosa e Silva</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Polícia Marítimo e Aéreo,</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:' Arial'; font-size:12pt">classe 7 .......................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Marinheiro, padrão 4 ......</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Marinheiro, padrão 4 ......</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Artífice, classe D ............</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Guarda Civil, classe D ...</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Maquinista Marítimo,</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-family:' Arial'; font-size:12pt">classe 7.</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Maquinista Marítimo,</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:' Arial'; font-size:12pt">classe 4.</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Maquinista Marítimo,</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:' Arial'; font-size:12pt">classe 4.</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Maquinista Marítimo,</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:' Arial'; font-size:12pt">classe 3.</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt">Maquinista Marítimo,</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-family:' Arial'; font-size:12pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:' Arial'; font-size:12pt">classe 3.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:156pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top">
+
+### Nome
+
+</td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Situação antiga
+
+</td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top">
+
+Situação nova
+
+</td></tr><tr><td style="width:156pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top">
+
+1)&nbsp;&nbsp;&nbsp;&nbsp; Luiz da Silva Coelho
+
+&nbsp;
+
+2) Antônio Coelho Valadão...
+
+&nbsp;
+
+3) Ângelo Miragaia ...............
+
+&nbsp;
+
+4) Joaquim Luiz da Costa ....
+
+&nbsp;
+
+5) Virgílio Rosa e Silva
+
+&nbsp;
+
+</td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Polícia Marítimo e Aéreo,
+
+&nbsp;&nbsp; classe 7 .......................
+
+Marinheiro, padrão 4 ......
+
+&nbsp;
+
+Marinheiro, padrão 4 ......
+
+&nbsp;
+
+Artífice, classe D ............
+
+&nbsp;
+
+Guarda Civil, classe D ...
+
+&nbsp;
+
+</td><td style="width:113.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top">
+
+Maquinista Marítimo,
+
+&nbsp;&nbsp;&nbsp; classe 7.
+
+Maquinista Marítimo,
+
+&nbsp;&nbsp;&nbsp;&nbsp; classe 4.
+
+Maquinista Marítimo,
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; classe 4.
+
+Maquinista Marítimo,
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; classe 3.
+
+Maquinista Marítimo,
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; classe 3.
+
+</td></tr></tbody></table>

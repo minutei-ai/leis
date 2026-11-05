@@ -1,5 +1,3 @@
-###DEC-072983-0-000-19-10-1973@@@
-
 DECRETO Nº 72.983, DE 19 DE OUTUBRO DE 1973.
 
 Declara sem efeito o Decreto número 28.347, de 7 de julho de 1950.

@@ -1,14 +1,12 @@
-###DEC-031608-0-000-17-10-1952@@@
+**DECRETO Nº 31.608, DE 17 DE OUTUBRO DE 1952.**
 
-<strong>DECRETO Nº 31.608, DE 17 DE OUTUBRO DE 1952.</strong>
+***Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros, de produção nacional, para o ano de 1953.***
 
-<em><strong>Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros, de produção nacional, para o ano de 1953.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, e tendo em vista o disposto no art. 3º da Lei nº 1.506, de 19 de dezembro de 1951,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, e tendo em vista o disposto no art. 3º da Lei nº 1.506, de 19 de dezembro de 1951,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º. Os preços básicos mínimos nos principais centros de consumo do País, assim considerados, para os efeitos da Lei nº 1.506, de 19 de dezembro de 1951, os portos de escoamento de cada Estado, e as especificações dos produtos mencionados no parágrafo único do art. 1º da referida Lei, são os abaixo discriminados:
+**Art**. 1º. Os preços básicos mínimos nos principais centros de consumo do País, assim considerados, para os efeitos da Lei nº 1.506, de 19 de dezembro de 1951, os portos de escoamento de cada Estado, e as especificações dos produtos mencionados no parágrafo único do art. 1º da referida Lei, são os abaixo discriminados:
 
 ARROZ
 
@@ -60,15 +58,15 @@ Dezesseis cruzeiros (Cr$ 16,00) por arroba de quinze (15) quilos, para o produto
 
 Os preços para o produto entregue em outras localidades das regiões produtoras serão oportunamente determinados nos têrmos do art. 4º da Lei nº 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 2º. Os preços de que trata o art. 1º dêste Decreto referem-se à mercadoria nova da safra de 1953, embalada em sacaria nova, devidamente marcada com as necessárias indicações, classificada, expurgada e depositada nos armazéns indicados neste Decreto e nos mencionados na letra a do art. 6º, e no art. 7º da Lei nº 1.506, de 19 de dezembro de 1951.
+**Art**. 2º. Os preços de que trata o art. 1º dêste Decreto referem-se à mercadoria nova da safra de 1953, embalada em sacaria nova, devidamente marcada com as necessárias indicações, classificada, expurgada e depositada nos armazéns indicados neste Decreto e nos mencionados na letra a do art. 6º, e no art. 7º da Lei nº 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 3º. Êste Decreto entrará me vigor na data de sua publicação.
+**Art**. 3º. Êste Decreto entrará me vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º. Revogam-se as disposições em contrário.
+**Art**. 4º. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 17 de outubro de 1952; 131º da Independência 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Horácio Lafer
 

@@ -1,5 +1,3 @@
-###DEC-047528-0-000-28-12-1959@@@
-
 DECRETO Nº 47.528, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Francisco Ferreira Castelo Branco a pesquisar areias ilmeníticas no município de Barreirinhas, Estado do Maranhão.

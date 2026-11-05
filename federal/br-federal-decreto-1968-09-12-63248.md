@@ -1,5 +1,3 @@
-###DEC-063248-0-000-12-09-1968@@@
-
 Decreto nº 63.248, de 12 de setembro de 1968.
 
 Abre ao Ministério do Trabalho e Previdência Social o crédito suplementar de NCr$235.000,00 (duzentos e trinta e cinco mil cruzeiros novos) para refôrço de dotações consignadas no vigente Orçamento.
@@ -71,8 +69,6 @@ Antonio Delfim Netto
 Jarbas G. Passarinho
 
 Hélio Beltrão
-
-###DEC-063248-0-000-12-09-1968@@@RET01+++
 
 Decreto nº 63.248, de 12 de setembro de 1968.
 

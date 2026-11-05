@@ -1,5 +1,3 @@
-###DEC-048901-0-000-26-08-1960@@@
-
 Decreto nº 48.901, de 26 de agôsto de 1960.
 
 Inclui função gratificada no Quadro Permanente do Ministério da Saúde e dá outras providências.

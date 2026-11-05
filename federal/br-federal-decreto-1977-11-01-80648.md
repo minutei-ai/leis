@@ -1,5 +1,3 @@
-###DEC-080648-0-000-01-11-1977@@@
-
 DECRETO Nº 80.648, DE 01 DE NOVEMBRO DE 1977.
 
 Autoriza a transformação do curso de Ciências Biológicas, em curso de Licenciatura de Ciências de 1º Grau, com habilitação em Biologia, licenciatura plena, da Faculdade de Ciências Biológicas de Araras, com sede na cidade de Araras, Estado de São Paulo.

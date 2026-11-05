@@ -1,5 +1,3 @@
-###DEC-091450-0-000-18-07-1985@@@
-
 Decreto nº 91.450, de 18 de julho de 1985.
 
 Institui a Comissão Provisória de Estudos Constitucionais.

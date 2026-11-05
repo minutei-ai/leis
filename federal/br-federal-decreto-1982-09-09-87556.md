@@ -1,5 +1,3 @@
-###DEC-087556-0-000-09-09-1982@@@
-
 Decreto nº 87.556, de 09 de setembro de 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Transformadora de Distribuição Urucânia, da LIGHT - Serviços de Eletricidade S.A.

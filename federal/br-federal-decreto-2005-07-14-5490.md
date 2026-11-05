@@ -1,5 +1,3 @@
-###DEC-005490-0-000-14-07-2005@@@
-
 DECRETO Nº 5.490, DE 14 DE JULHO DE 2005.
 
        Dispõe sobre a composição e funcionamento do Conselho Nacional de Juventude - CNJ, e dá outras providências.
@@ -181,5 +179,3 @@ DA ORGANIZAÇÃO E DO FUNCIONAMENTO
 JOSÉ ALENCAR GOMES DA SILVA
 
       Iraneth Rodrigues Monteiro
-
-Este texto não substitui o publicado no DOU de 15.7.2005

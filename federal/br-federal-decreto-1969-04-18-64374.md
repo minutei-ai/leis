@@ -1,5 +1,3 @@
-###DEC-064374-0-000-18-04-1969@@@
-
 DECRETO Nº 64.374, DE 18 DE ABRIL DE 1969.
 
 Retifica o artigo 1º do Decreto número 28.475, de 8 de agôsto de 1950.

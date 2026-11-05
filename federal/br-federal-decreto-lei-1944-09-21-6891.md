@@ -1,5 +1,3 @@
-###DEL-006891-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.891 – DE 21 DE SETEMBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Educação e Saúde

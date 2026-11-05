@@ -1,5 +1,3 @@
-###MPV-002080-0-058-27-12-2000@@@
-
 medida provisória nº 2.080-58, de 27 de dezembro de 2000.
 
 Altera os arts. 1º, 4º, 16 e 44, e acresce dispositivos a Lei nº 4.771, de 15 de setembro de 1965, que institui o Código Florestal, bem como altera o art. 10 da Lei nº 9.393, de 19 de dezembro de 1996, que dispõe sobre o Imposto sobre a Propriedade Territorial Rural - ITR, e dá outras providências.

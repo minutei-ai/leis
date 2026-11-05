@@ -1,5 +1,3 @@
-###DEL-009499-0-000-22-07-1946@@@
-
 DECRETO-LEI N. 9.499 – DE 22 DE JULHO DE 1946
 
 Dispõe sôbre a produção e comércio do leite destinado ao abastecimento do Distrito Federal e dá outras providências.

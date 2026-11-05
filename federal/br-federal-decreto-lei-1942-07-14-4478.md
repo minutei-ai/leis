@@ -1,5 +1,3 @@
-###DEL-004478-0-000-14-07-1942@@@
-
 DECRETO-LEI N. 4.478 – DE 14 DE JULHO DE 1942
 
 Organiza a Força Aérea Brasileira em tempo do paz e dá outras providências

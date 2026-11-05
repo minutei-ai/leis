@@ -1,5 +1,3 @@
-###DEC-057549-0-000-29-12-1965@@@
-
 DECRETO Nº 57.549, DE 29 DE DEZEMBRO DE 1965.
 
 Outorga à Força e Luz de Chapecó S.A. energia elétrica.

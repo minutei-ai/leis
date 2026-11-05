@@ -1,5 +1,3 @@
-###DEC-052160-0-000-25-06-1963@@@
-
 DECRETO Nº 52.160, DE 25 DE JUNHO DE 1963.
 
 Dispõe sôbre a autorização do funcionamento do Curso de Graduação de Psicologia da Faculdade de Filosofia, Ciências e Letras de São Bento, da Pontifícia Universidade Católica de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098965-0-000-16-02-1990@@@
-
 DECRETO Nº 98.965, DE 16 DE FEVEREIRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação terrenos adjacentes à Escola Paulista de Medicina, com sede no Estado de São Paulo.

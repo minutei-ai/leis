@@ -1,5 +1,3 @@
-###DEC-078744-0-000-17-11-1976@@@
-
 DECRETO Nº 78.744, DE 17 DE NOVEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL no Estado de São Paulo.

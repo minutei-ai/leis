@@ -1,5 +1,3 @@
-###DEL-006533-0-000-26-05-1944@@@
-
 DECRETO-LEI N. 6.533 – DE 26 DE MAIO DE 1944
 
 Abre ao lnstituto Brasileiro de Geografia e Estatística o crédito supIementar de Cr$ 2.000.000,00 à dotação que especifica

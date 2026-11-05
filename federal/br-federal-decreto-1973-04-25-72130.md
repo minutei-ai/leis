@@ -1,5 +1,3 @@
-###DEC-072130-0-000-25-04-1973@@@
-
 DECRETO Nº 72.130, DE 25 DE ABRIL DE 1973.
 
 Autoriza o funcionamento dos Cursos de Pedagogia e Letras da Faculdade de Filosofia, Ciências e Letras de Itararé, mantida pela Associação Itarareense de Ensino - Itararé - SP

@@ -1,12 +1,10 @@
-###DEC-025195-0-000-09-07-1948@@@
+**DECRETO Nº 25.195, 9 DE JULHO DE 1948.**
 
-<strong>DECRETO Nº 25.195, 9 DE JULHO DE 1948.</strong>
+***Declara de utilidade pública diversas áreas de terra que serão inundadas com a construção da barragem do aproveitamento hidro-elétrico do rio São João, município de São José dos Pinhais, Estado do Paraná, objeto do Decreto, nº 22.765, de 19 de março de 1947, em javor da Companhia Fôrça e Luz do Paraná e a autoriza desapropriá-las.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra que serão inundadas com a construção da barragem do aproveitamento hidro-elétrico do rio São João, município de São José dos Pinhais, Estado do Paraná, objeto do Decreto, nº 22.765, de 19 de março de 1947, em javor da Companhia Fôrça e Luz do Paraná e a autoriza desapropriá-las.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o requerido pela interessada e o disposto no art. 151, letras a e b, do Código de Águas, e nos artigos 3º e 5º letra h, 15, do Decreto-lei número 3.365, de 21 de junho de 1941 e o parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, decreta:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o requerido pela interessada e o disposto no art. 151, letras a e b, do Código de Águas, e nos artigos 3º e 5º letra h, 15, do Decreto-lei número 3.365, de 21 de junho de 1941 e o parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, decreta:
-
-<strong>Art</strong>. 1º. Ficam declaradas de utilidade pública nos têrmos dos artigos 3º e 5º letra h, e 15 Decreto-Lei número 3.365, de 21 de junho de 1941 e parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, as seguintes áreas de terra que serão inuindadas com a construção da barragem de aproveitamento hidro-elétrico do rio São João. No local denominado Vassoroca, município de São José dos Pinhais, Estado do Paraná, de acordo com as plantas apresentadas e aprovadas:
+**Art**. 1º. Ficam declaradas de utilidade pública nos têrmos dos artigos 3º e 5º letra h, e 15 Decreto-Lei número 3.365, de 21 de junho de 1941 e parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, as seguintes áreas de terra que serão inuindadas com a construção da barragem de aproveitamento hidro-elétrico do rio São João. No local denominado Vassoroca, município de São José dos Pinhais, Estado do Paraná, de acordo com as plantas apresentadas e aprovadas:
 
 1\) área de propriedade atribuída a Euzébio Ferreira da Paula, no vale do rio São Joãozinho, com quatrocentos e dezoito mil, quinhentos e setenta e um metros quadrados (418.571m2);
 
@@ -124,14 +122,14 @@
 
 59\) área de propriedade atribuída à Irmãos Cruz, no vale do rio São João, com quinhentos e noventa e dois mil, seiscentos e cinqüênta e oito metros quadrados (592.658m2).
 
-<strong>Art</strong>. 2º A Companhia Fôrça e Luz do Paraná fica autorizada a promover a desapropriação das mencionadas áreas de terra com fundamento no art. 3º e de conformidade com o disposto no art. 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e o parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, já citados.
+**Art**. 2º A Companhia Fôrça e Luz do Paraná fica autorizada a promover a desapropriação das mencionadas áreas de terra com fundamento no art. 3º e de conformidade com o disposto no art. 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e o parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, já citados.
 
-<strong>Art</strong>. 3º. O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º. O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º. Revogam-se as disposições em contrário.
+**Art**. 4º. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 9 de julho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###MPV-000218-0-000-27-09-2004@@@
-
 MEDIDA PROVISÓRIA Nº 218, DE 27 DE SETEMBRO DE 2004.
 
     Autoriza a União a fornecer equipamentos e auxílio técnico aos países africanos, no combate à praga de gafanhotos.   

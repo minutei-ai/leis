@@ -1,5 +1,3 @@
-###DEC-070139-0-000-10-02-1972@@@
-
 DECRETO Nº 70.139, DE 10 de FEVEREIRO DE 1972.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação externa e dá outras providências.

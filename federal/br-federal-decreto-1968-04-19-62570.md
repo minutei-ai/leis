@@ -1,5 +1,3 @@
-###DEC-062570-0-000-19-04-1968@@@
-
 decreto nº 62.570, de 19 de abril de 1968.
 
 Autoriza o funcionamento da Faculdade de Engenharia de Mogi das Cruzes, no Estado de São Paulo.

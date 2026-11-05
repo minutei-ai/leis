@@ -1,5 +1,3 @@
-###DEC-007198-0-000-02-06-2010@@@
-
 DECRETO Nº 7.198, DE 2 DE JUNHO DE 2010.
 
 Dispõe sobre a criação do Consulado do Brasil em Saint Georges de l´Oyapock, na Guiana Francesa.

@@ -1,5 +1,3 @@
-###DEC-083872-0-000-21-08-1979@@@
-
 Decreto nº 83.872, dE 21 de agosto de 1979.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro o de Niterói, Estado do Rio de Janeiro, Recife, Estado de Pernambuco; Salvador, Estado da Bahia e Guarujá, Estado de São Paulo.

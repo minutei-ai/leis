@@ -1,5 +1,3 @@
-###DEC-048415-0-000-24-06-1960@@@
-
 DECRETO Nº 48.415, DE 24 DE junho DE 1960.
 
 Amplia a zona de concessão da Emprêsa Luz e Fôrça Itabapoana Ltda., no Estado do Espírito Santo, e dá outras providências.

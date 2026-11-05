@@ -1,5 +1,3 @@
-###DEC-084377-0-000-07-01-1980@@@
-
 Decreto nº 84.377, de 7 de janeiro de 1980
 
 Declara de utilidade pública, para fins de desapropriação, terrenos e benfeitorias necessárias à ampliação da área das instalações e vias de circulação do Porto de Manaus, localizadas na cidade de Manaus, Estado do Amazonas, e dá outras providências.

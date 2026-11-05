@@ -1,5 +1,3 @@
-###DEC-050490-0-000-25-04-1961@@@
-
 DECRETO Nº 50.490, DE 25 DE ABRIL DE 1961.
 
 Concede autorização para funcionamento de curso.

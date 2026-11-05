@@ -1,5 +1,3 @@
-###DEL-004366-0-000-09-06-1942@@@
-
 DECRETO-LEI N. 4.366 – DE 9 DE JULHO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 8:000$0, à verba que especifica

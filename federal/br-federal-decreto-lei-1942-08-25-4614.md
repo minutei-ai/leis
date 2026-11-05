@@ -1,5 +1,3 @@
-###DEL-004614-0-000-25-08-1942@@@
-
 DECRETO-LEI N. 4.614 – DE 25 DE AGOSTO DE 1942
 
 lncorpora ao Patrimônio Nacional crédito da sociedade alemã “Deutsche Lufthansa, A.G.”

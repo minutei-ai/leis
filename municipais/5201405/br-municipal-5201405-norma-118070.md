@@ -44,7 +44,37 @@ SITUAÇÃO PROPOSTA
 | LOTE 13A | 191,12 |
 | LOTE 13B | 191,12 |
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 14A</td><td style="text-align:center">191,12</td></tr><tr><td style="text-align:center">LOTE 14B</td><td style="text-align:center">311,21</td></tr><tr><td style="text-align:center">LOTE 15A</td><td style="text-align:center">260,12</td></tr><tr><td style="text-align:center">LOTE 15B</td><td style="text-align:center">260,12</td></tr><tr><td style="text-align:center">LOTE 16A</td><td style="text-align:center">260,12</td></tr><tr><td>LOTE 17A</td><td style="text-align:center">260,12</td></tr><tr><td>LOTE 17B</td><td style="text-align:center">260,12</td></tr><tr><td>LOTE 18A</td><td style="text-align:center">260,50</td></tr></tbody></table>
+LOTE 14A
+
+191,12
+
+LOTE 14B
+
+311,21
+
+LOTE 15A
+
+260,12
+
+LOTE 15B
+
+260,12
+
+LOTE 16A
+
+260,12
+
+LOTE 17A
+
+260,12
+
+LOTE 17B
+
+260,12
+
+LOTE 18A
+
+260,50
 
 Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.010.796, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -54,8 +84,10 @@ Aparecida de Goiânia, Estado de Goiás, aos 16 de maio de 2023
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

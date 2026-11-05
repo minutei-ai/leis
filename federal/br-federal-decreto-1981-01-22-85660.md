@@ -1,5 +1,3 @@
-###DEC-085660-0-000-22-01-1981@@@
-
 Decreto nº 85.660, de 22 de janeiro de 1981.
 
 Autoriza o funcionamento das habilitações Orientação Educacional e Supervisão Escolar no curso de Pedagogia da Faculdade Adventista de Educação, com sede na capital de São Paulo.

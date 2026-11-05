@@ -1,6 +1,6 @@
 > **LEI Nº 4.130, DE 17 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a revisão do subsídio dos Membros do Ministério Público do Estado do Acre - MPAC.</span></span></span></p></td></tr></tbody></table>
+Dispõe sobre a revisão do subsídio dos Membros do Ministério Público do Estado do Acre - MPAC.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -30,4 +30,48 @@ Governador do Estado do Acre
 
 **ANEXO ÚNICO**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>Cargos Ocupados</span></strong></span></p></td><td><p><span><strong><span>Subsídio</span></strong></span></p><p><span><strong><span>1º de abril/2023</span></strong></span></p></td><td><p><span><strong><span>Subsídio</span></strong></span></p><p><span><strong><span>1º de fevereiro/2024</span></strong></span></p></td><td><p><span><strong><span>Subsídio</span></strong></span></p><p><span><strong><span>1º de fevereiro/2025</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Procurador de Justiça</span></strong></span></p></td><td><p><span><span>R$ 37.589,95</span></span></p></td><td><p><span><span>R$ 39.717,54,</span></span></p></td><td><p><span><span>R$ 41.846,40</span></span></p></td></tr><tr><td><p><span><strong><span>Promotor de Justiça de Entrância Final</span></strong></span></p></td><td><p><span><span>R$ 35.710,45</span></span></p></td><td><p><span><span>R$ 37.731,67</span></span></p></td><td><p><span><span>R$ 39.754,09</span></span></p></td></tr><tr><td><p><span><strong><span>Promotor de Justiça de Entrância Inicial</span></strong></span></p></td><td><p><span><span>R$ 33.924,92</span></span></p></td><td><p><span><span>R$ 35.845,08</span></span></p></td><td><p><span><span>R$ 37.766,38</span></span></p></td></tr><tr><td><p><span><strong><span>Promotor de Justiça Substituto</span></strong></span></p></td><td><p><span><span>R$ 32.228,67</span></span></p></td><td><p><span><span>R$ 34.052,83</span></span></p></td><td><p><span><span>R$ 35.878,06</span></span></p></td></tr></tbody></table>
+**Cargos Ocupados**
+
+**Subsídio**
+
+**1º de abril/2023**
+
+**Subsídio**
+
+**1º de fevereiro/2024**
+
+**Subsídio**
+
+**1º de fevereiro/2025**
+
+**Procurador de Justiça**
+
+R$ 37.589,95
+
+R$ 39.717,54,
+
+R$ 41.846,40
+
+**Promotor de Justiça de Entrância Final**
+
+R$ 35.710,45
+
+R$ 37.731,67
+
+R$ 39.754,09
+
+**Promotor de Justiça de Entrância Inicial**
+
+R$ 33.924,92
+
+R$ 35.845,08
+
+R$ 37.766,38
+
+**Promotor de Justiça Substituto**
+
+R$ 32.228,67
+
+R$ 34.052,83
+
+R$ 35.878,06

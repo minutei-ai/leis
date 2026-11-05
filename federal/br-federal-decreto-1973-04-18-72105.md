@@ -1,5 +1,3 @@
-###DEC-072105-0-000-18-04-1973@@@
-
 DECRETO Nº 72.105, DE 18 DE ABRIL DE 1973.
 
 Retifica o artigo 1º do Decreto número 66.198, de 11 de fevereiro de 1970.
@@ -21,8 +19,6 @@ Brasília, 18 de abril de 1973; 152º da Independência e 85º da República.
 Emílio G. Médici
 
 Antônio Dias Leite Júnior
-
-###DEC-072105-0-000-18-04-1973@@@
 
 DECRETO Nº 72.105, DE 18 DE ABRIL DE 1973.
 

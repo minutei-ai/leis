@@ -1,5 +1,3 @@
-###DEC-046747-0-000-26-08-1959@@@
-
 DECRETO Nº 46.747, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Vitorino do Nascimento Vieira a pesquisar minério de chumbo no município de Macaúbas, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-046676-0-000-18-08-1959@@@
-
 DECRETO Nº 46.676, DE 18 DE AGÔSTO DE 1959.
 
 Autoriza a cidadã brasileira Ernestina Maria de Jesus Bianchi a pesquisar argila refratária no município de Suzano, Estado de São Paulo.

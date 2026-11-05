@@ -1,7 +1,3 @@
-1
-
-###DEC-099443-0-000-09-08-1990@@@
-
 # DECRETO N° 99.443, DE 9 DE AGOSTO DE 1990
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica, entre o Brasil e o Uruguai (Acordo n° 2).

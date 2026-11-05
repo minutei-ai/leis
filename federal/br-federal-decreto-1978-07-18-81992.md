@@ -1,5 +1,3 @@
-###DEC-081992-0-000-18-07-1978@@@
-
 DECRETO Nº 81.992, DE 18 DE JULHO DE 1978.
 
 Retifica o Decreto nº 81.104 de 21 de dezembro de 1977, que autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Cáceres, Estado do Mato Grosso.

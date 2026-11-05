@@ -1,5 +1,3 @@
-###DEC-091308-0-000-04-06-1985@@@
-
 Decreto nº 91.308, de 04 de junho de 1985
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados no Município de Jaraguarí, Estado do Mato Grosso do Sul.

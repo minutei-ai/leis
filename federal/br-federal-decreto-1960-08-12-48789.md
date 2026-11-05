@@ -1,5 +1,3 @@
-###DEC-048789-0-000-12-08-1960@@@
-
 DECRETO Nº 48.789, DE 12 DE AGÔSTO DE 1960
 
 Autoriza a Emprêsa de Caolim Ltda., a pesquisar calcito no município de Cantagalo, Estado do Rio de Janeiro.

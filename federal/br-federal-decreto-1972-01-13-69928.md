@@ -1,5 +1,3 @@
-###DEC-069928-0-000-13-01-1972@@@
-
 DECRETO Nº 69.928, DE 13 DE JANEIRO DE 1972.
 
 Declara de utilidade pública,para fins de desapropriação em favor da Companhia Vale do Rio Doce, área de terra que menciona.

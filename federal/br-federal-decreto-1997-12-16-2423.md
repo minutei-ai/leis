@@ -1,5 +1,3 @@
-###DEC-002423-0-000-16-12-1997@@@
-
 DECRETO Nº 2.423, DE 16 DE DEZEMBRO DE 1997
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, do IRB - Brasil Resseguros S.A.

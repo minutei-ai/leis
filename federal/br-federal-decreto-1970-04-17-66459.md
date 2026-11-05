@@ -1,5 +1,3 @@
-###DEC-066459-0-000-17-04-1970@@@
-
 DECRETO Nº 66.459, DE 17 DE ABRIL DE 1970.
 
 Autoriza funcionamento de Cursos na Faculdade de Filosofia, Ciências e Letras "Rui Barbosa", de Andradina, no Estado de São Paulo.

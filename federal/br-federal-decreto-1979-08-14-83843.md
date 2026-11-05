@@ -1,5 +1,3 @@
-###DEC-083843-0-000-14-08-1979@@@
-
 Decreto nº 83.843, de 14 de agosto de 1979.
 
 Dispõe sobre delegação de competência ao Ministro da Fazenda para autorizar a cessão de imóveis da União, prevista no Decreto-lei nº 178, de 16 de fevereiro de 1967.

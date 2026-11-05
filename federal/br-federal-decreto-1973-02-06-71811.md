@@ -1,5 +1,3 @@
-###DEC-071811-0-000-06-02-1973@@@
-
 DECRETO Nº 71.811, de 6 de fevereiro de 1973.
 
 Autoriza o funcionamento da Escola Superior de Medicina-Veterinaria de Lages, mantida pela fundação Educacional do Estado de Santa Catarina, Lages, Santa Catarina.

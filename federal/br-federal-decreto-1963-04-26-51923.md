@@ -1,5 +1,3 @@
-###DEC-051923-0-000-26-04-1963@@@
-
 DECRETO Nº 51.923, de 26 de abril de 1963.
 
 Revoga o Decreto nº 24.665, de 13 de março de 1948.

@@ -1,5 +1,3 @@
-###DEL-004853-0-000-21-10-1942@@@
-
 DECRETO-LEI N. 4.853 – DE 21 DE OUTUBRO DE 1942
 
 Abre, pelo Ministério da Justiça e Negócios  Interiores, o crédito suplementar de 300:000$0, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-094291-0-000-28-04-1987@@@
-
 DECRETO N° 94.291, DE 28 DE ABRIL DE 1987.
 
 Autoriza o aumento de Capital Social da Vale do Rio Doce Navegação S.A.  DOCENAVE.

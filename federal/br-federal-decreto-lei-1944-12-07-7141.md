@@ -1,5 +1,3 @@
-###DEL-007141-0-000-07-12-1944@@@
-
 DECRETO-LEI N.  7.141 – DE 7 DE DEZEMBRO DE 1944
 
 Altera as carreiras de Bibliotecário e Bibliotecário-auxiliar do Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

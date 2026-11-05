@@ -1,5 +1,3 @@
-###DEC-057542-0-000-29-12-1965@@@
-
 DECRETO Nº 57.542, DE 29 DE DEZEMBRO DE 1965.
 
 Autoriza a Companhia de Eletrificação Centro-Norte do Ceará a montar usina termelétrica e a construir linhas de transmissão.

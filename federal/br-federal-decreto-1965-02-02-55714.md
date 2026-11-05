@@ -1,5 +1,3 @@
-###DEC-055714-0-000-02-02-1965@@@
-
 DECRETO Nº 55.714, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Braz Sabino Pereira a lavra caulim e feldspato, no município de Franco da Rocha, Estado de São Paulo.

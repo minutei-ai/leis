@@ -1,5 +1,3 @@
-###MPV-001722-0-000-29-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.722, DE 29 DE OUTUBRO DE 1998
 
 Institui normas relativas ao exercício, pelo Advogado-Geral da União, de orientação normativa e de supervisão técnica sobre os órgãos jurídicos das autarquias federais e das fundações instituídas e mantidas pela União.

@@ -1,5 +1,3 @@
-###DEC-085310-0-000-31-10-1980@@@
-
 Decreto nº 85.310, de 31 de outubro de 1980
 
 Fixa novos níveis de salário-mínimo para todo o território nacional.

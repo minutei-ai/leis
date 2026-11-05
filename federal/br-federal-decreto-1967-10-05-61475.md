@@ -1,5 +1,3 @@
-###DEC-061475-0-000-05-10-1967@@@
-
 DECRETO Nº 61.475, DE 5 DE OUTUBRO DE 1967.
 
 Reorganiza a Comissão Permanente de Material e Pesquisas Militares e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047314-0-000-02-12-1959@@@
-
 DECRETO Nº 47.314, DE 2 DE DEZEMBO DE 1959.
 
 Autoriza a Companhia Energia Elétrica da Bahia a construir uma linha de transmissão de energia elétrica no município de Salvador, Estado da Bahia, e dá outras providências.

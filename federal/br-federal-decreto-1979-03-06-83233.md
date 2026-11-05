@@ -1,5 +1,3 @@
-###DEC-083233-0-000-06-03-1979@@@
-
 DECRETO Nº 83.233, DE 06 DE MARÇO DE 1979
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Carlos Henrique de Aragão pelo Decreto nº 44.339, de 22 de agosto de 1958.

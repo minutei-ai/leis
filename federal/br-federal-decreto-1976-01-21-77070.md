@@ -1,5 +1,3 @@
-###DEC-077070-0-000-21-01-1976@@@
-
 Decreto nº 77.070, de 21 de janeiro de 1976.
 
 Considera Patrono da Hidrografia da Marinha o Capitão-de-Fragata Manoel Antonio Vital de Oliveira.

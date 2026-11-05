@@ -1,7 +1,3 @@
-1
-
-###DEC-097828-0-000-13-06-1989@@@
-
 DECRETO N° 97.828, DE 13 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária os imóveis rurais denominados “MELANCIAS, PICADA, SALGADO COMPRIDO, PATOS e PALMEIRAS”, classificados como “latifúndio por exploração”, situados nos Municípios de Itarema e Amontada, Estado do Ceará compreendidos na zona prioritária, fixada pelo Decreto n° 92.617, de 02 de maio de l986, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000879-0-000-30-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 879, DE 30 DE JANEIRO DE 1995
 
 Dispõe sobre a aplicação dos direitos previstos no Acordo Antidumping e no Acordo de Subsídios e Direitos Compensatórios, e dá outras providências.

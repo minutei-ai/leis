@@ -1,5 +1,3 @@
-###DEC-092414-0-000-20-02-1986@@@
-
 DECRETO Nº 92.414, DE 20 DE FEVEREIRO DE 1986
 
 Renova a concessão outorgada à RÁDIO GLOBO DE SÃO PAULO LTDA., para explorar serviço de radiodifusão sonora em ondas curtas, na cidade de São Paulo, Estado de São Paulo.

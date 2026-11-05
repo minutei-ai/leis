@@ -1,5 +1,3 @@
-###DEC-072155-0-000-30-04-1973@@@
-
 DECRETO Nº 72.155, DE 30 DE ABRIL DE 1973.
 
 Renovada por 10 (dez) anos a concessão outorgada à Rádio Eldorado Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de São Paulo, Estado de São Paulo.

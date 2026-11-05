@@ -1,5 +1,3 @@
-###DEC-084877-0-000-08-07-1980@@@
-
 Decreto nº 84.877, de 08 de julho de 1980
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Primavera", situado nos Municípios de Andradina, Castilho e Nova Independência, no Estado de São Paulo, compreendido na área prioritária de que trata o Decreto nº 84.876, de 08 de julho de 1980.

@@ -1,5 +1,3 @@
-###DEC-056145-0-000-27-04-1965@@@
-
 DECRETO Nº 56.145, DE 27 DE ABRIL DE 1965.
 
 Autoriza a Itabira Agro-Industrial S.A., a instalar uma usina termoelétrica para uso exclusivo.

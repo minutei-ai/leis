@@ -1,5 +1,3 @@
-###DEC-066612-0-000-21-05-1970@@@
-
 decreto nº 66.612, de 21 de maio de 1970.
 
 Autoriza funcionamento de Curso.

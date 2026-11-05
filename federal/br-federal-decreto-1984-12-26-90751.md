@@ -1,5 +1,3 @@
-###DEC-090751-0-000-26-12-1984@@@
-
 Decreto nº 90.751, de 26 de dezembro de 1984
 
 Altera dispositivo do Decreto nº 89.224, de 22 de dezembro de 1983.

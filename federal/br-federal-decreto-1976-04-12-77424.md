@@ -1,5 +1,3 @@
-###DEC-077424-0-000-12-04-1976@@@
-
 DECRETO Nº 77.424 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Educação Física, da Escola de Educação Física com sede na cidade de Novo Hamburgo, Estado do Rio Grande do Sul.

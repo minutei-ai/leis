@@ -1,5 +1,3 @@
-###DEC-092346-0-000-29-01-1986@@@
-
 DECRETO Nº 92.346, DE 29 DE JANEIRO DE 1986
 
 Autoriza o funcionamento do curso de Graduação de Professores da Parte de Formação Especial do Currículo do Ensino de 2º Grau do Centro de Ensino Superior de Erexim.

@@ -1,5 +1,3 @@
-###DEL-006327-0-000-08-03-1944@@@
-
 DECRETO-LEI N. 6.327 – DE 8 DE MARÇO De 1944
 
 Altera o Decreto-Iei nº 3.266, de 12 de maio de 1941

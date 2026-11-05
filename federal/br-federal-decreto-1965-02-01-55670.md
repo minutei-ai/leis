@@ -1,5 +1,3 @@
-###DEC-055670-0-000-01-02-1965@@@
-
 DECRETO Nº 55.670, DE 1º DE FEVEREIRO DE 1965.
 
 Autoriza a Mineração Nacional Mina S.A. a lavrar cassiterita no município de São João del Rei, Estado de Minas Gerais.

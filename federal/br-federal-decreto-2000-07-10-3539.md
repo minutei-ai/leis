@@ -1,5 +1,3 @@
-###DEC-003539-0-000-10-07-2000@@@
-
 DECRETO N 3.539, DE 10 DE JULHO DE 2000.
 
 Dispõe sobre a execução do Regulamento 3 (Glossário Uniforme dos Serviços Portuários da Hidrovia Paraguai-Paraná (Porto de Cáceres - Porto de Nueva Palmira), de 19/06/96, do Acordo de Alcance Parcial nº 5, assinado ao amparo do art. 14 do Tratado de Montevidéu de 1980, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Paraguai e da República Oriental do Uruguai, registrado em 03 de dezembro de 1998.
@@ -36,4 +34,22 @@ A Secretaria-Geral da Associação será depositária do presente instrumento, d
 
 EM FÉ DO QUE, os respectivos plenipotênciários subscrevem o presente na cidade de Montevidéu, aos três dias do mês de dezembro de mil novecentos e novente e oito, em um original nos idiomas português e espanhol, sendo ambos os textos iguamente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina:</span></p></td><td style="width:131.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Calos Onis Vigil</span></p></td></tr><tr><td style="width:294.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Bolívia:</span></p></td><td style="width:131.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Mário Lea Plaza Torri</span></p></td></tr><tr><td style="width:294.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:131.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:294.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Paraguai:</span></p></td><td style="width:131.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Efraín Dári Centurión</span></p></td></tr><tr><td style="width:294.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai:</span></p></td><td style="width:131.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Adolfo Castells Mendívil</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina:
+
+Calos Onis Vigil
+
+Pelo Governo da República da Bolívia:
+
+Mário Lea Plaza Torri
+
+Pelo Governo da República Federativa do Brasil:
+
+José Artur Denot Medeiros
+
+Pelo Governo da República do Paraguai:
+
+Efraín Dári Centurión
+
+Pelo Governo da República Oriental do Uruguai:
+
+Adolfo Castells Mendívil

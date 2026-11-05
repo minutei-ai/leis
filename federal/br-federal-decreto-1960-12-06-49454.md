@@ -1,5 +1,3 @@
-###DEC-049454-0-000-06-12-1960@@@
-
 DECRETO Nº 49.454, DE 06 DE DEZEMBRO DE 1960.
 
 Autoriza Berlino Zabeu & Irmãos Limitada a pesquisar caulim, no município de itapecerica da Serra, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-004335-0-000-25-05-1942@@@
-
 DECRETO-LEI N. 4.335 – DE 25 DE MAIO DE 1942
 
 Altera séries funcionais de extranumerários rnensalistas e dá outras providências

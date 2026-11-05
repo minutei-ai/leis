@@ -1,5 +1,3 @@
-###DEC-068886-0-000-06-07-1971@@@
-
 DECRETO Nº 68.886, DE 6 DE JULHO DE 1971.
 
 Cria no Ministério da Aeronáutica, a Medalha "Bartolomeu de Gusmão" e dá outras providências.

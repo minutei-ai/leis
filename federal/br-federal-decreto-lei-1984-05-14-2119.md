@@ -1,5 +1,3 @@
-###DEL-002119-0-000-14-05-1984@@@
-
 # decreto-lei nº 2.119, de 14 de maio de 1984
 
 Dispõe sobre a incorporação da Gratificação que menciona ao provento da aposentadoria e dá outras providências.

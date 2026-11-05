@@ -1,5 +1,3 @@
-###DEC-060724-0-000-18-05-1967@@@
-
 DECRETO Nº 60.724, DE 18 DE MAIO DE 1967.
 
 Declara de utilidade pública a Fundação Cidade do Rio Grande, com sede em Rio Grande, Estado do Rio Grande do Sul.

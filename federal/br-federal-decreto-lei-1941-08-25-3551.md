@@ -1,5 +1,3 @@
-###DEL-003551-0-000-25-08-1941@@@
-
 DECRETO-LEI N. 3.551 – DE 25 DE AGOSTO DE 1941
 
  Concede pensão vitalícia a descendentes do Duque de Caxias

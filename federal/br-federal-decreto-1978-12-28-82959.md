@@ -1,5 +1,3 @@
-###DEC-082959-0-000-28-12-1978@@@
-
 Decreto nº 82.959, de 28 de dezembro de 1978.
 
 Dispõe sobre Progressão Funcional, nos casos que especifica, e dá outras providências.

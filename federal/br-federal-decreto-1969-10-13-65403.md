@@ -1,5 +1,3 @@
-###DEC-065403-0-000-13-10-1969@@@
-
 DECRETO Nº 65.403 - DE 13 DE OUTUBRO DE 1969.
 
 Autoriza funcionamento de curso.

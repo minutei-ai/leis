@@ -1,5 +1,3 @@
-###DEC-061772-0-000-23-11-1967@@@
-
 DECRETO Nº 61.772, DE 23 DE NOVEMBRO DE 1967.
 
 Autoriza o cidadão brasileiro Júlio dos Santos a lavrar argila no município de Taubaté, no Estado de São Paulo.

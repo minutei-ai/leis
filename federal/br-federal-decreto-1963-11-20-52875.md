@@ -1,5 +1,3 @@
-###DEC-052875-0-000-20-11-1963@@@
-
 DECRETO Nº 52.875, DE 20 DE NOVEMBRO DE 1963.
 
 Extinção de Grupo de Trabalho.

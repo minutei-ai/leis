@@ -1,5 +1,3 @@
-###DEL-000023-0-000-29-11-1937@@@
-
 DECRETO-LEI N. 23 – DE 29 DE NOVEMBRO DE 1937
 
 Abre o crédito suplementar de 1.000:000$000 à verba 1ª, Pessoal, do vigente orçamento do Ministério das Relações Exteriores

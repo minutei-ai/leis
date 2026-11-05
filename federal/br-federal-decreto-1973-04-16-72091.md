@@ -1,5 +1,3 @@
-###DEC-072091-0-000-16-04-1973@@@
-
 DECRETO Nº 72.091, DE 16 DE ABRIL DE 1973.
 
 Declara de utilidade publica, para fins de desapropriação dos lotes de terrenos urbanos e sua benfeitorias situados na Cidade de Guaxupé, Estado de Minas Gerais, destinados à construção de uma estação telefônica, pela Companhia Telefônica de Minas Gerais - CTMG.
@@ -23,8 +21,6 @@ Brasília, 16 de abril de 1973; 152º da Independência e 85º da República.
 EMÍLIO G. MÉDICI
 
 Hygino C. Corsetti
-
-###DEC-072091-0-000-16-04-1973@@@
 
 DECRETO Nº 72.091, DE 16 DE ABRIL DE 1973.
 

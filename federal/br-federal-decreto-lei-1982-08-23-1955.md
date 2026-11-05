@@ -1,5 +1,3 @@
-###DEL-001955-0-000-23-08-1982@@@
-
 # Decreto-lei nº 1.955, de 23 de agosto de 1982
 
 Condede à FURNAS e à ELETROSUL isenção de impostos na importação de bens destinados aos Sistemas de Transmissão de Itaipu.

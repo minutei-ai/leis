@@ -1,5 +1,3 @@
-###DEC-078001-0-000-08-07-1976@@@
-
 DECRETO Nº 78.001, DE 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras José Olímpio, com sede na Cidade de Batatais, Estado de São Paulo.

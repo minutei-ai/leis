@@ -1,5 +1,3 @@
-###DEC-056103-0-000-26-04-1965@@@
-
 decreto nº 56.103, de 26 de abril de 1965.
 
 Declara de utilidade pública uma faixa de terra destinada à passagem da linha de transmissão no Município de São Bernardo do Campo, Estado de São Paulo e autoriza a São Paulo Ligth S. A. - Serviços de Eletricidade a promover a sua desapropriação.
@@ -29,8 +27,6 @@ Brasília, 26 de abril de 1965; 144º da Independência e 77º da República.
 h. castello branco
 
 Mauro Thibau
-
-###DEC-056103-0-000-26-04-1965@@@RET01+++
 
 DECRETO Nº 56.103, DE 26 DE ABRIL DE 1965.
 

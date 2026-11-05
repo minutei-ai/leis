@@ -1,5 +1,3 @@
-###MPV-000074-0-000-23-10-2002@@@
-
 MEDIDA PROVISÓRIA Nº 74, DE 23 DE OUTUBRO DE 2002
 
 Altera a Lei nº 7.998, de 11 de janeiro de 1990, para assegurar o pagamento de seguro-desemprego ao trabalhador resgatado da condição análoga à de escravo.

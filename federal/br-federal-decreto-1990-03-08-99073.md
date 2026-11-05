@@ -1,7 +1,3 @@
-1
-
-###DEC-099073-0-000-08-03-1990@@@
-
 DECRETO Nº 99.073, DE 8 DE MARÇO DE 1990
 
 Altera o Decreto nº 96.760, de 22 de setembro de 1988, que regulamentou o Decreto-lei nº 2.433, de 19 de maio de 1988, que dispõe sobre os instrumentos financeiros relativos à política industrial, seus objetivos, e dá outras providências.

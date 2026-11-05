@@ -1,5 +1,3 @@
-###DEC-095245-0-000-16-11-1987@@@
-
 DECRETO N° 95.245, DE 16 DE NOVEMBRO DE 1987
 
 Delega competência ao Ministro da Marinha para autorizar viagens de Almirantes à Antártica.

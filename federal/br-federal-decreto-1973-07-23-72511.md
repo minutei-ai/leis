@@ -1,5 +1,3 @@
-###DEC-072511-0-000-23-07-1973@@@
-
 decreto nº 72.511, de 23 de julho de 1973.
 
 Declara de utilidade pública, para fins de desapropriação um área de terra rural e respectiva faixa de acesso, sem benfeitorias, destinadas à instalação de uma estação repetidora de microondas e serviços afins, pela Companhia Telefônica de Minas Gerais.

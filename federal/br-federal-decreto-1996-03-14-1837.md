@@ -1,5 +1,3 @@
-###DEC-001837-0-000-14-03-1996@@@
-
 DECRETO Nº 1.837, DE 14 DE MARÇO DE 1996.
 
 Autoriza a emissão de Notas do Tesouro Nacional - NTN, série N, para fins de substituição de NTN-L existente na carteira do Banco Central do Brasil.
@@ -26,7 +24,51 @@ VII - pagamento de juros: semestralmente, todo dia quinze dos meses de março e 
 
 VIII - resgate do principal: de acordo com o seguinte cronograma e respectivos percentuais, aplicáveis sobre o principal atualizado:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.1996 - 2,60%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.1997 - 2,90%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.1997 - 2,90%</span></p></td></tr><tr><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.1998 - 3,50%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.1998 - 3,50%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.1999 - 3,90%</span></p></td></tr><tr><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.1999 - 3,90%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.2000 - 4,15%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.2000 - 4,15%</span></p></td></tr><tr><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.2001 - 4,45%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.2001 - 4,45%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.2002 - 4,45%</span></p></td></tr><tr><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.2002 - 4,45%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.2003 - 4,75%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.2003 - 4,75%</span></p></td></tr><tr><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.2004 - 5,00%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.2004 - 5,00%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.2005 - 5,00%</span></p></td></tr><tr><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.2005 - 5,00%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.2006 - 5,00%</span></p></td><td style="width:137.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.2006 - 5,40%</span></p></td></tr><tr><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.3.2007 - 5,40%</span></p></td><td style="width:137.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.9.2007 - 5,40%</span></p></td><td style="width:137.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+15.9.1996 - 2,60%
+
+15.3.1997 - 2,90%
+
+15.9.1997 - 2,90%
+
+15.3.1998 - 3,50%
+
+15.9.1998 - 3,50%
+
+15.3.1999 - 3,90%
+
+15.9.1999 - 3,90%
+
+15.3.2000 - 4,15%
+
+15.9.2000 - 4,15%
+
+15.3.2001 - 4,45%
+
+15.9.2001 - 4,45%
+
+15.3.2002 - 4,45%
+
+15.9.2002 - 4,45%
+
+15.3.2003 - 4,75%
+
+15.9.2003 - 4,75%
+
+15.3.2004 - 5,00%
+
+15.9.2004 - 5,00%
+
+15.3.2005 - 5,00%
+
+15.9.2005 - 5,00%
+
+15.3.2006 - 5,00%
+
+15.9.2006 - 5,40%
+
+15.3.2007 - 5,40%
+
+15.9.2007 - 5,40%
 
 Art. 2° A Secretaria do Tesouro Nacional baixará os atos necessários para o fiel cumprimento deste Decreto.
 

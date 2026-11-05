@@ -1,5 +1,3 @@
-###DEC-081054-0-000-19-12-1977@@@
-
 Decreto nº 81.054, de 19 de dezembro de 1977.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Brejo da Madre de Deus e Santa Cruz do Capibaribe, Estado de Pernambuco, compreendidos na área prioritária de reforma agrária, de que trata o Decreto nº 56.583, de 19/7/65, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19/01/71, e 75.147, de 27/12/74.

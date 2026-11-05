@@ -1,5 +1,3 @@
-###DEC-094207-0-000-10-04-1987@@@
-
 DECRETO Nº 94.207, DE 10 DE ABRIL DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Centro de Estudos Superiores do Carmo.

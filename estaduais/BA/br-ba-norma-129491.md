@@ -1,6 +1,7 @@
 LEI Nº 13.359 DE 29 DE JUNHO DE 2015
 
-Ver também:<br>
+Ver também:
+
 Lei nº [14.089](https://www.legislabahia.ba.gov.br/documentos/lei-no-14089-de-29-de-abril-de-2019) de 29 de abril de 2019 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Aracatu, Barra do Choça, Belo Campo, Bom Jesus da Serra, Cândido Sales, Caraíbas, Condeúba, Cordeiros, Encruzilhada, Guajeru, Jacaraci, Licínio de Almeida, Maetinga, Mirante, Mortugaba, Piripá, Planalto, Poções, Presidente Jânio Quadros, Ribeirão do Largo e Tremedal. 
 
 Atualiza na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites municipais de Presidente Jânio Quadros.

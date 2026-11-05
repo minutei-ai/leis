@@ -1,5 +1,3 @@
-###DEC-003371-0-000-24-02-2000@@@
-
 DECRETO Nº 3.371, DE 24 DE FEVEREIRO DE 2000.
 
 Institui, no âmbito do Ministério de Minas e Energia, o Programa Prioritário de Termeletricidade, e dá outras providências.

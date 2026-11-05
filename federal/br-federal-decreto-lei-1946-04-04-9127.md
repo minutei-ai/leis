@@ -1,5 +1,3 @@
-###DEL-009127-0-000-04-04-1946@@@
-
 DECRETO-LEI N. 9.127 – DE 4 DE ABRIL DE 1946
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 284.834,00, para ocorrer ao pagamento, já autorizado pelo Decreto-lei nº 4.761, de 30 de setembro de 1942, de indenizações ainda não efetuadas, e dá outras providências.

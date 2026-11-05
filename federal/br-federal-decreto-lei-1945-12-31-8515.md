@@ -1,5 +1,3 @@
-###DEL-008515-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.515 – de 31 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 784.111,20, para pagamento de material incorporado ao acervo do mesmo Ministério.

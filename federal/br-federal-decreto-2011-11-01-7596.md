@@ -1,5 +1,3 @@
-###DEC-007596-0-000-01-11-2011-PUB-01@@@
-
 DECRETO Nº 7.596, DE 1º DE NOVEMBRO DE 2011
 
 Promulga o Tratado entre a República Federativa do Brasil e a República do Panamá sobre Auxílio Jurídico Mútuo em Matéria Penal, assinado na Cidade do Panamá, em 10 de agosto de 2007.

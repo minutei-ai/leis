@@ -1,5 +1,3 @@
-###DEC-045538-0-000-05-03-1959@@@
-
 decreto nº 45.538, de 5 de março de 1959.
 
 Altera o art. 1º do Decreto nº 12.759, de 30 de junho de 1943.

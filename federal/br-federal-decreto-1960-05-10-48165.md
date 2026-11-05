@@ -1,5 +1,3 @@
-###DEC-048165-0-000-10-05-1960@@@
-
 DECRETO Nº 48.165, DE 10 DE MAIO DE 1960.
 
 Concede à Cia. Agrícola de Minas Gerais - CAMIG, autorização para funcionar como emprêsa de mineração.

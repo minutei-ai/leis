@@ -1,5 +1,3 @@
-###DEC-075165-0-000-31-12-1974@@@
-
 DECRETO Nº 75.165, DE 31 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras do Instituto Cultural Newton Paiva Ferreira, com sede na Cidade de Belo Horizonte, Estado de Minas Gerais.

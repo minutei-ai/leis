@@ -1,19 +1,17 @@
-###DEC-026732-0-000-01-06-1949@@@
+**DECRETO Nº 26.732, DE 1 DE JUNHO DE 1949.**
 
-<strong>DECRETO Nº 26.732, DE 1 DE JUNHO DE 1949.</strong>
+***Dá nova denominação à Capitania dos Portos do Estado do Pará.***
 
-<em><strong>Dá nova denominação à Capitania dos Portos do Estado do Pará.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º A Capitania dos Portos do Estado do Pará passa a denominar-se Capitania dos Portos do Estado do Pará e Amapá.
 
-<strong>Art</strong>. 1º A Capitania dos Portos do Estado do Pará passa a denominar-se Capitania dos Portos do Estado do Pará e Amapá.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 1 de junho de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha

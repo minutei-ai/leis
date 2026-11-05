@@ -1,5 +1,3 @@
-###DEC-067977-0-000-29-12-1970@@@
-
 DECRETO Nº 67.977, DE 29 DE DEZEMBRO DE 1970.
 
 Declara cessação da exploração de serviços de energia elétrica, outorga concessão em diversos municípios do Estado de Minas Gerais e dá outras providências.

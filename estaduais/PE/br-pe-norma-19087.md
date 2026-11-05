@@ -44,257 +44,66 @@ ANTÔNIO CÉSAR CAÚLA REIS
 
 **COMPOSIÇÃO DO EFETIVO DO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="100%" style="width:100.0%;background:white;border:solid black 1.0pt"><tbody><tr><td width="615" colspan="2" valign="top" style="width:461.5pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">&nbsp;1. OFICIAIS</span></p></td></tr><tr><td width="615" colspan="2" valign="top" style="width:461.5pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1.1 QUADRO DE OFICIAIS COMBATENTES (QOC/BM)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Coronel BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">13 (NR) &nbsp;</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Tenente Coronel BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">35 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Major BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">76 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Capitão BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">114 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1° Tenente BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">90</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">2º Tenente BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">66</span></p></td></tr></tbody></table>
+<table cellspacing="1" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> &nbsp;1. OFICIAIS </td></tr><tr><td colspan="2" valign="top"> 1.1 QUADRO DE OFICIAIS COMBATENTES (QOC/BM) </td></tr><tr><td valign="top"> Coronel BM </td><td valign="top"> 13 (NR) &nbsp; </td></tr><tr><td valign="top"> Tenente Coronel BM </td><td valign="top"> 35 (NR) </td></tr><tr><td valign="top"> Major BM </td><td valign="top"> 76 (NR) </td></tr><tr><td valign="top"> Capitão BM </td><td valign="top"> 114 (NR) </td></tr><tr><td valign="top"> 1° Tenente BM </td><td valign="top"> 90 </td></tr><tr><td valign="top"> 2º Tenente BM </td><td valign="top"> 66 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="100%" style="width:100.0%;background:white;border:solid black 1.0pt"><tbody><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">394 (NR)&nbsp; &nbsp;</span></p></td></tr><tr><td width="615" colspan="2" valign="top" style="width:461.5pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1.2 QUADRO DE OFICIAIS DA ADMINISTRAÇÃO (QOA/BM)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Major BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">08 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Capitão BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">28 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1º Tenente BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">48 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">2° Tenente BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">76</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">160 (NR)</span></p></td></tr><tr><td width="615" colspan="2" valign="top" style="width:461.5pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">2. PR AÇAS</span></p></td></tr><tr><td width="615" colspan="2" valign="top" style="width:461.5pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">QUALIFICAÇÃO BOMBEIRO MILITAR GERAL (QBMG-1)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Subtenente BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">51 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1º Sargento BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">225(NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">2° Sargento BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">303 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">3° Sargento BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">631(NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Cabo BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">456 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Soldado BM</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">2.857 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Total</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">4.523 (NR)</span></p></td></tr><tr><td width="356" valign="top" style="width:266.8pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL GERAL DO EFETIVO</span></p></td><td width="259" valign="top" style="width:194.0pt;border:solid black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">5.077&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="1" cellpadding="0"><tbody><tr><td valign="top"> TOTAL </td><td valign="top"> 394 (NR)&nbsp; &nbsp; </td></tr><tr><td colspan="2" valign="top"> 1.2 QUADRO DE OFICIAIS DA ADMINISTRAÇÃO (QOA/BM) </td></tr><tr><td valign="top"> Major BM </td><td valign="top"> 08 (NR) </td></tr><tr><td valign="top"> Capitão BM </td><td valign="top"> 28 (NR) </td></tr><tr><td valign="top"> 1º Tenente BM </td><td valign="top"> 48 (NR) </td></tr><tr><td valign="top"> 2° Tenente BM </td><td valign="top"> 76 </td></tr><tr><td valign="top"> TOTAL </td><td valign="top"> 160 (NR) </td></tr><tr><td colspan="2" valign="top"> 2. PR AÇAS </td></tr><tr><td colspan="2" valign="top"> QUALIFICAÇÃO BOMBEIRO MILITAR GERAL (QBMG-1) </td></tr><tr><td valign="top"> Subtenente BM </td><td valign="top"> 51 (NR) </td></tr><tr><td valign="top"> 1º Sargento BM </td><td valign="top"> 225(NR) </td></tr><tr><td valign="top"> 2° Sargento BM </td><td valign="top"> 303 (NR) </td></tr><tr><td valign="top"> 3° Sargento BM </td><td valign="top"> 631(NR) </td></tr><tr><td valign="top"> Cabo BM </td><td valign="top"> 456 (NR) </td></tr><tr><td valign="top"> Soldado BM </td><td valign="top"> 2.857 (NR) </td></tr><tr><td valign="top"> Total </td><td valign="top"> 4.523 (NR) </td></tr><tr><td valign="top"> TOTAL GERAL DO EFETIVO </td><td valign="top"> 5.077&nbsp; </td></tr></tbody></table>
 
 **ANEXO II**
 
 **“ANEXO ÚNICO**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td width="152" style="width:113.65pt;border-top:inset;border-left:inset;
-  border-bottom:solid;border-right:solid;border-color:black;border-width:1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">POSTO / GRADUAÇÃO</span></p></td><td width="145" style="width:108.7pt;border-top:inset black 1.0pt;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">QUANTITATIVO</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Coronel</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">7 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">&nbsp;</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:.75pt;margin-bottom:.0001pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Tenente coronel</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">9</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">&nbsp;</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:.75pt;margin-bottom:.0001pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Major</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">19 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Capitão</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">27 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1º tenente</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">5</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">2º tenente</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">5</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Subtenente</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">11</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1º sargento</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">28 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">2º sargento</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">24 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">3º sargento</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">11 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Cabo</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">33 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Soldado</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">161</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:inset black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Total</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:.75pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">340 (NR)</span></p></td></tr></tbody></table>
+POSTO / GRADUAÇÃO
+
+QUANTITATIVO
+
+Coronel
+
+7 (NR)
+
+Tenente coronel
+
+9
+
+Major
+
+19 (NR)
+
+Capitão
+
+27 (NR)
+
+1º tenente
+
+5
+
+2º tenente
+
+5
+
+Subtenente
+
+11
+
+1º sargento
+
+28 (NR)
+
+2º sargento
+
+24 (NR)
+
+3º sargento
+
+11 (NR)
+
+Cabo
+
+33 (NR)
+
+Soldado
+
+161
+
+Total
+
+340 (NR)

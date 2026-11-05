@@ -1,5 +1,3 @@
-###DEC-088863-0-000-17-10-1983@@@
-
 DECRETO Nº 88.863, DE 17 DE OUTUBRO DE 1983
 
 Dispõe sobre o montante do Capital Social da LIGHT - Serviços de Eletricidade S.A.

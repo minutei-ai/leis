@@ -1,5 +1,3 @@
-###DEC-096621-0-000-31-08-1988@@@ 
-
 DECRETO N° 96.621, DE 31 DE AGOSTO. DE 1988
 
 Dispõe sobre a dissolução da Nuclebrás Enriquecimento Isotópico S.A.  NUCLEI e da Nuclebrás Auxiliar de Mineração S.A.  NUCLAM e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005262-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.262 – DE 18 DE FEVEREIRO DE 1943
 
 Autoriza o Prefeito do Distrito Federal a vender, em hasta pública, as áreas de terrenos que  menciona

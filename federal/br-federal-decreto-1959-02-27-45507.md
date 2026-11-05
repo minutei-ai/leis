@@ -1,5 +1,3 @@
-###DEC-045507-0-000-27-02-1959@@@
-
 DECRETO Nº 45.507, DE 27 DE FEVEREIRO DE 1959.
 
 Revoga o Decreto que concedeu à Sociedade Lederle S A. autorização para funcionar na República.

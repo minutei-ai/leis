@@ -1,5 +1,3 @@
-###DEC-002227-0-000-20-05-1997@@@
-
 DECRETO Nº 2.227, DE 20 DE MAIO DE 1997
 
 Autoriza a utilização, no comércio interno, de contêiner estrangeiro e seus acessórios, no prazo que menciona.

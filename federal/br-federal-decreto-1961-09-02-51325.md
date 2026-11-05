@@ -1,5 +1,3 @@
-###DEC-051325-0-000-02-09-1961@@@
-
 Decreto Nº 51.325, DE 2 DE SETEMBRO DE 1961.
 
 Transfere a sede do Comando do Grupamento Regional de Fuzileiros Navais, no 5º Distrito Naval.

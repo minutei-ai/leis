@@ -1,5 +1,3 @@
-###DEC-077096-0-000-30-01-1976@@@
-
 Decreto nº 77.096, de 30 de janeiro de 1976.
 
 Concede autorização à empresa Key Internatinal Drilling Company Limited para operar na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-088140-0-000-02-03-1983@@@
-
 Decreto nº 88.140, de 02 de março de 1983
 
 Dispensa a licitação para alienação das terras devolutas da União que menciona, e dá outras providências.

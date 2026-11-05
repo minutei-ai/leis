@@ -1,5 +1,3 @@
-###DEC-095892-0-000-04-04-1988@@@
-
 DECRETO N° 95.892, DE 04 DE ABRIL DE 1988
 
 Altera a redação do artigo 3° do Decreto n° 95.861, de 22 de março de 1988.

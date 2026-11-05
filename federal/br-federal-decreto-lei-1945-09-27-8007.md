@@ -1,5 +1,3 @@
-###DEL-008007-0-000-27-09-1945@@@
-
 DECRETO-LEI N. 8.007 – DE 27 DE SETEMBRO DE 1945
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 4.000.000.00 para aquisição de material e execução de trabalhos de pequena hidrografia sanitária pelo Serviço Nacional de Malária

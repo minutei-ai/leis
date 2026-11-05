@@ -1,5 +1,3 @@
-###DEC-069919-0-000-11-01-1972@@@
-
 DECRETO Nº 69.919, DE 11 DE JANEIRO DE 1972.
 
 Aprova o Regulamento do Programa de Assistência ao Trabalhador Rural.
@@ -1047,8 +1045,6 @@ c) da publicação do edital.
 Art. 167. Aplicam-se, subsidiariamente, aos casos omissos neste Regulamento, as disposições do Regulamento Geral da Previdência Social, aprovado pelo Decreto nº 60.501, de 14 de março de 1967, com suas alterações.
 
 Art. 168. As dúvidas na execução deste Regulamento e da Lei Complementar nº 11, de 25 de maio de 1971, serão resolvidas pelo Ministro do Trabalho e Previdência Social que, inclusive, poderá criar, se entender necessário, como órgão de segunda instância para os recursos previstos no artigo 106, item II, alíneas a e b, a Comissão Revisora Regional, junto a cada Diretoria Regional (artigo 96) e integrada pelo titular desta, que será o presidente, e por um representante de cada Federação, da Agricultura e dos Trabalhadores na Agricultura, designado pelo Ministro mediante indicação da entidade representada.
-
-###DEC-069919-0-000-11-01-1972@@@
 
 DECRETO Nº 69.919, DE 11 DE JANEIRO DE 1972.
 

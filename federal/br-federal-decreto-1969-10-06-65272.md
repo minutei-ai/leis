@@ -1,5 +1,3 @@
-###DEC-065272-0-000-06-10-1969@@@
-
 Decreto nº 65.272 - de 6 de outubro de 1969.
 
 Altera a letra i), do artigo 1º, do Decreto nº 64.359, de 17 de abril de 1969, que criou a Comissão Especial para a Comissão dos Serviços Portuários de Santos - COSEPS.

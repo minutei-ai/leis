@@ -1,5 +1,3 @@
-###DEC-000535-0-000-20-05-1992@@@
-
 DECRETO Nº 535, DE 20 DE MAIO DE 1992
 
 Cria a Reserva Extrativista do Extremo Norte do Estado do Tocantins.

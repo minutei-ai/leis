@@ -1,7 +1,9 @@
 LEI Nº 12.607 DE 26 DE DEZEMBRO DE 2012
 
-Ver também:<br>
-Lei nº 14.954 de 14 de julho de 2025 - " Altera as Leis nº 8.966, de 22 de dezembro de 2003, e 12.607, de 26 de dezembro de 2012, modifica o Regime Jurídico aplicável aos servidores do Quadro de Pessoal do Ministério Público do Estado da Bahia, reestrutura o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia e dá outras providências."<br>
+Ver também:
+
+Lei nº 14.954 de 14 de julho de 2025 - " Altera as Leis nº 8.966, de 22 de dezembro de 2003, e 12.607, de 26 de dezembro de 2012, modifica o Regime Jurídico aplicável aos servidores do Quadro de Pessoal do Ministério Público do Estado da Bahia, reestrutura o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia e dá outras providências."
+
 Lei nº 14.483 de 08 de setembro de 2022. Altera o quadro de funções de confiança, instituído pela Lei nº 12.607, de 26 de dezembro de 2012, e dá outras providências.
 
 Altera a Lei nº 8.966, de 22 de dezembro de 2003, que dispõe sobre o Plano de Carreiras e Vencimentos dos Servidores do Ministério Público do Estado da Bahia, e dá outras providências.
@@ -46,9 +48,9 @@ Art. 19 - A movimentação, por iniciativa do servidor, só poderá ocorrer apó
 
 **Art. 3º** - A posse em cargo de provimento permanente ou temporário do Ministério Público do Estado da Bahia deverá se dar em até 30 (trinta) dias, contados da data da publicação do ato de nomeação no órgão oficial.
 
-**Parágrafo único** **\-** Em se tratando de servidor que esteja, na data de publicação do ato de provimento, em gozo de licença ou afastado legalmente, o prazo será contado do término do impedimento.
+**Parágrafo único\-** Em se tratando de servidor que esteja, na data de publicação do ato de provimento, em gozo de licença ou afastado legalmente, o prazo será contado do término do impedimento.
 
-**Art. 4º** **\-** A posse em cargo de provimento permanente ou temporário do Ministério Público do Estado da Bahia dependerá de prévia inspeção médica oficial.
+**Art. 4º\-** A posse em cargo de provimento permanente ou temporário do Ministério Público do Estado da Bahia dependerá de prévia inspeção médica oficial.
 
 **Art. 5º** - O prazo para o servidor entrar em exercício é de 15 (quinze) dias, contados da data da posse.
 
@@ -56,47 +58,58 @@ Art. 19 - A movimentação, por iniciativa do servidor, só poderá ocorrer apó
 
 **Art. 6º** - (**VETADO**)
 
-**Art. 7º** **\-** A Gratificação por Serviços Especiais (GSE) é parcela que compõe a remuneração, de caráter temporário, conferida ao servidor, na forma do regulamento, que, sem prejuízo das suas atribuições, seja designado pelo Procurador-Geral de Justiça, especificamente, para:
+**Art. 7º\-** A Gratificação por Serviços Especiais (GSE) é parcela que compõe a remuneração, de caráter temporário, conferida ao servidor, na forma do regulamento, que, sem prejuízo das suas atribuições, seja designado pelo Procurador-Geral de Justiça, especificamente, para:
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "Art.7º- Fica instituída a Gratificação por Serviços Especiais para o servidor ocupante de cargo de provimento efetivo, lotado nos órgãos da Capital, Sedes Regionais e Promotorias de Justiça de Entrância Intermediária, que, sem prejuízo das suas atribuições, seja designado pelo Procurador-Geral de Justiça, especificamente, para: "
 
 **I -**       cumprir mandados, realizando notificações e intimações, com a lavratura de autos e certidões referentes aos atos que praticarem;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "I - cumprir mandados, realizando notificações e intimações, com a lavratura de autos e certidões referentes aos atos que praticarem; "
 
 **II -**       realizar a aplicação de recursos orçamentários de sua unidade, inclusive o acompanhamento da despesa nos seus diversos estágios e prestação de contas da execução de recursos aplicados;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "II -  realizar a aplicação de recursos orçamentários de sua unidade, inclusive o acompanhamento da despesa nos seus diversos estágios e prestação de contas da execução de recursos aplicados;"
 
 **III -**    compor a Comissão Permanente de Sindicância ou de Processo Administrativo;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "III - compor a Comissão Permanente de Sindicância ou de Processo Administrativo; "
 
 **IV -**     desenvolver atividades de inteligência criminal que envolvam informações sigilosas;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "IV -  desenvolver atividades de inteligência criminal que envolvam informações sigilosas."
 
 **V** - desenvolver funções de supervisão técnica de secretarias processuais e administrativas;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
-Redação original: "V -  desenvolver funções de supervisão técnica de secretarias processuais e administrativas;"<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
+Redação original: "V -  desenvolver funções de supervisão técnica de secretarias processuais e administrativas;"
+
 Inciso V acrescido pela Lei nº 14.389 de 10 de dezembro de 2021.
 
 **VI** - desenvolver funções de supervisão técnica de atividades específicas de Tecnologia da Informação e Comunicação;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
-Redação original: "VI -  desenvolver funções de supervisão técnica de atividades específicas de Tecnologia da Informação e Comunicação vinculadas à Diretoria de Tecnologia da Informação;"<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
+Redação original: "VI -  desenvolver funções de supervisão técnica de atividades específicas de Tecnologia da Informação e Comunicação vinculadas à Diretoria de Tecnologia da Informação;"
+
 Inciso VI acrescido pela Lei nº 14.389 de 10 de dezembro de 2021.
 
 **VII** - desenvolver funções de supervisão e liderança de equipes técnicas especializadas;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
-Redação original: "VII -  desenvolver atividades de Agente de Contratação (condução de processos licitatórios)."<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
+Redação original: "VII -  desenvolver atividades de Agente de Contratação (condução de processos licitatórios)."
+
 Inciso VII acrescido pela Lei nº 14.389 de 10 de dezembro de 2021.
 
 **VIII** \- desenvolver atividades de Agente de Contratação (condução de processos licitatórios);
@@ -113,27 +126,32 @@ Inciso X acrescido pela Lei 14.954 de 14 de julho de 2025.
 
 **§ 1º -**  Os valores da Gratificação por Serviços Especiais estão previstos no Anexo Único e o seu reajuste dar-se-á na mesma época e percentual do reajuste dos vencimentos, salvo se decorrente de reestruturação da respectiva carreira.
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "§ 1º - A Gratificação por Serviços Especiais será paga no percentual de 20% (vinte por cento), calculado sobre o vencimento do respectivo cargo, observada a classe ocupada pelo servidor."
 
-**§ 2º** **\-** A gratificação instituída no _caput_ será paga conjuntamente aos vencimentos do cargo e não servirá de base para cálculo de outras vantagens, integrando a remuneração para efeito de:
+**§ 2º\-** A gratificação instituída no _caput_ será paga conjuntamente aos vencimentos do cargo e não servirá de base para cálculo de outras vantagens, integrando a remuneração para efeito de:
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "§ 2º - A gratificação instituída no caput será paga conjuntamente com os vencimentos do cargo e não servirá de base para cálculo de qualquer outra vantagem, integrando a remuneração apenas para efeito de:"
 
 **I -**       cálculo da remuneração de férias;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "I - cálculo da remuneração de férias;"
 
 **II -**       abono pecuniário resultante da conversão de parte de férias a que o servidor tenha direito;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "II - abono pecuniário resultante da conversão de parte de férias a que o servidor tenha direito; "
 
 **III -**    gratificação natalina;
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "III - gratificação natalina."
 
 **IV**\- indenizações calculadas sobre o valor da remuneração;
@@ -146,10 +164,11 @@ Inciso V acrescido pela Lei 14.954 de 14 de julho de 2025.
 
 **§ 3º -** Sobre a parcela da gratificação incidirão os descontos legais, obrigatórios e facultativos, na forma de legislação específica.
 
-Redação de acordo com a Lei 14.954 de 14 de julho de 2025.<br>
+Redação de acordo com a Lei 14.954 de 14 de julho de 2025.
+
 Redação original: "§ 3º  - Sobre a parcela da gratificação incidirão os descontos legais, obrigatórios e facultativos, na forma de legislação específica."
 
-**Art. 8º** **\-** Os ocupantes do cargo de provimento efetivo de Auxiliar de Serviços Gerais que integram o Quadro Especial do Ministério Público do Estado da Bahia, conforme a Lei nº 8.966, de 22 de dezembro de 2003, passam a fazer jus à evolução funcional, de acordo com o disposto nesta Lei.
+**Art. 8º\-** Os ocupantes do cargo de provimento efetivo de Auxiliar de Serviços Gerais que integram o Quadro Especial do Ministério Público do Estado da Bahia, conforme a Lei nº 8.966, de 22 de dezembro de 2003, passam a fazer jus à evolução funcional, de acordo com o disposto nesta Lei.
 
 **Parágrafo único -**  Entende-se por evolução funcional a passagem da referência em que se encontra enquadrado o servidor para a referência imediatamente superior, conforme tabela, observada a data de vigência, constante no Anexo II desta Lei, cujos valores contemplam o percentual de 6,5% (seis vírgula cinco por cento) relativo à revisão geral anual do ano de 2012.
 
@@ -165,7 +184,7 @@ Redação original: "§ 3º  - Sobre a parcela da gratificação incidirão os 
 
 **IV -**     estiver afastado para exercício de mandato eletivo de caráter político-partidário.
 
-**Art. 10** **\-** O enquadramento dos atuais ocupantes do cargo de Auxiliar de Serviços Gerais será efetuado observando o seu tempo de serviço contado na data da publicação desta Lei, de acordo com os seguintes critérios:
+**Art. 10\-** O enquadramento dos atuais ocupantes do cargo de Auxiliar de Serviços Gerais será efetuado observando o seu tempo de serviço contado na data da publicação desta Lei, de acordo com os seguintes critérios:
 
 **I -**       enquadramento na referência C, para os servidores com até 30 anos de tempo de serviço;
 

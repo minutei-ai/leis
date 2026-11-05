@@ -1,5 +1,3 @@
-###DEL-003308-0-000-26-05-1941@@@
-
 DECRETO-LEI N. 3.308 – DE 26 DE MAIO DE 1941
 
 Extingue a carreira de Polícia Especial do Quadro II do Ministério da Justiça e Negócios Interiores, cria cargos isolados e dá outras providências

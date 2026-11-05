@@ -1,5 +1,3 @@
-###DEC-062430-0-000-19-03-1968@@@
-
 DECRETO Nº 62.430, DE 19 DE MARÇO DE 1968.
 
 Declara caduco o decreto nº 12.906, de 14 de julho de 1943.

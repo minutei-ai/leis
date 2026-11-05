@@ -1,5 +1,3 @@
-###DEC-084938-0-000-21-07-1980@@@
-
 Decreto nº 84.938, de 21 de julho de 1980.
 
 Autoriza o funcionamento do curso de Administração, da Faculdade de Administração São José, Estado do Rio de Janeiro.

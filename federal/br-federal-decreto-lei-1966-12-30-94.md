@@ -1,5 +1,3 @@
-###DEL-000094-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 94, DE 30 De DEZEMBRO DE 1966
 
 Altera a legislação do Impôsto de Renda e dá outras providências.

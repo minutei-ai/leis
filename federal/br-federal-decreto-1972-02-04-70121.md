@@ -1,5 +1,3 @@
-###DEC-070121-0-000-04-02-1972@@@
-
 DECRETO Nº 70.121, DE 4 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à uma faixa de terra destina à pastagem de linha de transmissão no Estado de São Paulo.

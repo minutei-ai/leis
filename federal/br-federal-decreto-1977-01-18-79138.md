@@ -1,5 +1,3 @@
-###DEC-079138-0-000-18-01-1977@@@
-
 DECRETO Nº 79.138, DE 18 de JANEIRO DE 1997.
 
 Concede reconhecimento aos cursos de Psicologia e de Formação de Psicólogos, da Faculdade de Filosofia Ciências e Letras, com sede na cidade de Piracicaba, Estado de São Paulo.

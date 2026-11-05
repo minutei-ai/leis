@@ -1,5 +1,3 @@
-###DEC-071340-0-000-08-11-1972@@@
-
 DECRETO Nº 71.340 - DE 8 DE novembro DE 1972.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno da bacia de Irrigação do Açude Público Pau dos Ferros, no município do mesmo nome, Estado do Rio Grande do Norte.

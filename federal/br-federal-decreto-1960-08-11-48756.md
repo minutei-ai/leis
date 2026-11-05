@@ -1,5 +1,3 @@
-###DEC-048756-0-000-11-08-1960@@@
-
 DECRETO Nº 48.756, DE 11 DE AGÔSTO DE 1960.
 
 Suprime cargos provisórios.

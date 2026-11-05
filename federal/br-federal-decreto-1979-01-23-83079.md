@@ -1,5 +1,3 @@
-###DEC-083079-0-000-23-01-1979@@@
-
 DECRETO Nº 83.079, de 23 de janeiro de 1979
 
 Aprova o Regulamento de Movimentação para Oficiais e Praças do Exército (R-50).

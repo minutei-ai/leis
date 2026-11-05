@@ -1,5 +1,3 @@
-###DEC-078375-0-000-03-09-1976@@@
-
 DECRETO Nº 78.375, DE 3 DE SETEMBRO DE 1976.
 
 Autoriza o funcionamento do curso de Formação de Professores de matérias especificas de 2º grau, Esquemas I e II, do Centro de Ensino Superior Plínio Mendes dos Santos, com sede na cidade de Campo Grande, Estado de Mato Grosso.

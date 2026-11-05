@@ -1,5 +1,3 @@
-###DEC-084774-0-000-06-06-1980@@@
-
 (\*) DECRETO Nº 84.774, DE 06 DE JUNHO DE 1980.
 
 Promulga o Segundo Protocolo Adicional à Constituição da União Postal Universal, o Regulamento Geral da União Postal Universal e a Convenção Postal Universal.

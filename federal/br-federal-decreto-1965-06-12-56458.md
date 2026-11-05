@@ -1,5 +1,3 @@
-###DEC-056458-0-000-12-06-1965@@@
-
 decreto nº 56.458, de 12 de junho de 1965.
 
 Aprova o Regulamento de Embarques para a safra de café de 1965/1966.

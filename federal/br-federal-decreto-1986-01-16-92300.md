@@ -1,5 +1,3 @@
-###DEC-092300-0-000-16-01-1986@@@
-
 DECRETO Nº 92.300, DE 16 DE JANEIRO DE 1986
 
 Altera dispositivos do Decreto nº 68.065, de 14 de janeiro de 1971, que dispõem sobre a estrutura e atribuições da Comissão Nacional de Moral e Civismo, criada pelo Decreto-lei nº 869, de 12 de setembro de 1969.

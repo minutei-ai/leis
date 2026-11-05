@@ -1,5 +1,3 @@
-###DEC-058100-0-000-29-03-1966@@@
-
 Decreto nº 58.100, de 29 de março de 1966.
 
 Aprova a regulamentação da Lei número 4.259-1963.

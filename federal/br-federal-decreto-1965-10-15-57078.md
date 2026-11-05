@@ -1,5 +1,3 @@
-###DEC-057078-0-000-15-10-1965@@@
-
 Decreto nº 57.078, de 15 de outubro de 1965.
 
 Autoriza a firma Cristal Exportadora Ltda., a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-004915-0-000-12-12-2003@@@
-
 DECRETO Nº 4.915 DE 12 DE DEZEMBRO DE 2003.
 
       Dispõe sobre o Sistema de Gestão de Documentos de Arquivo - SIGA, da administração pública federal, e dá outras providências.

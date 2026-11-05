@@ -1,5 +1,3 @@
-###DEC-054420-0-000-12-10-1964@@@
-
 DECRETO Nº 54.420, DE 12 DE OUTUBRO DE 1964.
 
 Outorga ao Município de Simplicio Mendes, Estado do Piauí, concessão para distribuir energia elétrica.

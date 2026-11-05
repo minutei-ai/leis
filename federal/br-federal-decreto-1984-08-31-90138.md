@@ -1,5 +1,3 @@
-###DEC-090138-0-000-31-08-1984@@@
-
 Decreto nº 90.138, de 31 de agosto de 1984
 
 Autoriza o funcionamento de habilitação do curso de Estudos Sociais da Faculdade de Ciências Humanas do Sul Paulista.

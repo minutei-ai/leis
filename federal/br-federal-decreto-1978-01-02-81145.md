@@ -1,5 +1,3 @@
-###DEC-081145-0-000-02-01-1978@@@
-
 Decreto nº 81.145, de 02 de janeiro de 1978.
 
 Retifica a concessão de lavra outorgada à Chrystalino Minerais e Refrigerantes Ltda. pelo Decreto nº 67.742, de 08 de dezembro de 1970.

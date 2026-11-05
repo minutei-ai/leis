@@ -1,5 +1,3 @@
-###DEC-056859-0-000-13-09-1965@@@
-
 DECRETO Nº 56.859, DE 13 DE SETEMBRO DE 1965.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$278.690.500, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-071864-0-000-26-02-1973@@@
-
 DECRETO Nº 71.864, DE 26 DE FEVEREIRO DE 1973.
 
 Autoriza  serviço do Patrimônio da União a aceitar a doação de terras devolutas situadas em Manaus, Estado do Amazonas, destinadas ao Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-081736-0-000-30-05-1978@@@
-
 Decreto nº 81.736, de 30 de maio de 1978.
 
 Declara de utilidade pública, para efeito de desapropriação total ou parcial ou constituição  de servidão de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que estipula.

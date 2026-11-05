@@ -1,5 +1,3 @@
-###DEC-088922-0-000-26-10-1983@@@
-
 DECRETO Nº 88.922, DE 26 DE OUTUBRO DE 1983
 
 Autoriza o funcionamento do curso de Educação Artística da Escola Guignard, Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001260-0-000-29-09-1994@@@
-
 DECRETO Nº 1.260, DE 29 DE SETEMBRO 1994
 
 Outorga poderes ao Banco do Brasil S.A. para administrar e cobrar os créditos bancários do extinto Banco Nacional de Crédito Cooperativo S.A. BNCC.

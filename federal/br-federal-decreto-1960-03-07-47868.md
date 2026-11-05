@@ -1,5 +1,3 @@
-###DEC-047868-0-000-07-03-1960@@@
-
 DECRETO Nº 47.868, de 7 de março de 1960.
 
 Revalida o Decreto nº 35.018, de 8 de fevereiro de 1954, que outorgou à Empresa de Eletricidade Alexandre Shlemm S.A. concessão para o aproveitamento progressivo de energia hidráulica no Salto do Vau, existente no rio Palmital, Município de União da Vitória, Estado do Paraná.
@@ -28,8 +26,6 @@ JUSCELINO KUBITSCHEK
 
 Mário Meneghetti
 
-###DEC-047868-0-000-07-03-1960@@@RET01+++
-
 DECRETO Nº 47.868, DE 7 DE maio DE 1960.
 
 Revalida o Decreto nº 35.018, de 8 de fevereiro de 1954, que outorgou à Emprêsa de Eletricidade Alexandre Schlemm S.A. concessão para o aproveitamento progressivo de energia hidráulica no Salto do Vau, existente no rio Palmital, município de Unido da Vitória, Estado do Paraná.
@@ -47,8 +43,6 @@ Art. 1º Fica revalidado ... para o aproveitamento progressivo de energia elétr
 LEIA\-SE:
 
 Art. 1º Fica revalidado ... para o aproveitamento progressivo de energia hidráulica do Salto ...
-
-###DEC-047868-0-000-07-03-1960@@@RET02+++
 
 decreto nº 47.868, de 7 de março de 1960.
 

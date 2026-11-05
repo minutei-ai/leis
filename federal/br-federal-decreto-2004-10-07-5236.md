@@ -1,5 +1,3 @@
-###DEC-005236-0-000-07-10-2004@@@
-
 DECRETO Nº 5.236 DE 7 DE OUTUBRO DE 2004
 
 Autoriza a prorrogação do prazo para assinatura do contrato da concessão outorgada à empresa VASP - Viação Aérea São Paulo S.A., para a execução de serviços aéreos, e dá outras providências.

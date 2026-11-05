@@ -1,5 +1,3 @@
-###DEC-092539-0-000-11-04-1986@@@
-
 DECRETO Nº 92.539, DE 11 DE ABRIL DE 1986
 
 Altera dispositivo do Regulamento de Comando Aéreo.

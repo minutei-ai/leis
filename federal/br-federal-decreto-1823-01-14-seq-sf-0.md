@@ -1,5 +1,3 @@
-###DEC-000000-0-000-14-01-1823@@@
-
 DECRETO - DE 14 DE JANEIRO DE 1823
 
 Sobre as condições com que podem ser admittidos do Brazil os subditos de Portugal.

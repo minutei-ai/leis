@@ -1,5 +1,3 @@
-###DEC-051776-0-000-04-03-1963@@@
-
 DECRETO Nº 51.776, DE 04 DE MARÇO DE 1963.
 
 Concede à Indústria manufatureira de Artefatos de Cimento e Cal Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-075238-0-000-16-01-1975@@@
-
 DECRETO Nº 75.238, DE 16 DE JANEIRO DE 1975.
 
 Concede reconhecimento aos cursos de Ciências Biológicas, de Desenho, de Matemática e de Pedagogia da Faculdade de Ciências e Educação de Criciuma, mantida pela Fundação Educacional de Criciuma, Estado de Santa Catarina.

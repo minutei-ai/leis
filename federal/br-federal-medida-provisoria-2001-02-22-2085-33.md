@@ -1,5 +1,3 @@
-###MPV-002085-0-033-22-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.085-33, DE 22 DE FEVEREIRO DE 2001
 
 Dispõe sobre o Programa de Revitalização de Cooperativas de Produção Agropecuária - RECOOP, autoriza a criação do Serviço Nacional de Aprendizagem do Cooperativismo - SESCOOP, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099053-0-000-07-03-1990@@@
-
 DECRETO N° 99.053, DE 7 DE MARÇO DE 1990
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “ALEGRE DO MARCO/SERRA DOS BURACOS”, situa­do no Município de Abelardo Luz, Estado de Santa Catarina, e dá outras providências.

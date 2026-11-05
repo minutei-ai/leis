@@ -1,5 +1,3 @@
-###DEC-079253-0-000-14-02-1977@@@
-
 DECRETO Nº 79.253, DE 14 DE FEVEREIRO DE 1977.
 
 Outorga à Acearia Frederico Missner S.A. concessão para o aproveitamento hidráulico de um trecho do rio Luiz Alves, no Estado de Santa Catarina, para uso exclusivo.

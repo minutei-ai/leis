@@ -1,5 +1,3 @@
-###DEL-003669-0-000-01-10-1941@@@
-
 DECRETO-LEI N. 3.669 – DE 1 DE OUTUBRO DE 1941
 
 Cria dois lugares de suplentes no Conselho Nacional de Águas e Energia Elétrica

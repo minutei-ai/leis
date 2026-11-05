@@ -1,6 +1,6 @@
 > **LEI Nº 3.814, DE 30 DE NOVEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.715, de 15 de janeiro de 2021, que estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2021.</span></span></span></p></td></tr></tbody></table>
+Altera a Lei nº 3.715, de 15 de janeiro de 2021, que estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2021.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -26,8 +26,669 @@ Governador do Estado do Acre
 
 **...**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;ANTONIA SALES</strong></span></p></td><td><p><span><strong>EMENDA Nº 13/2020 - APOIO A MANUTENÇÃO DA UNIDADE MISTA DE RODRIGUES ALVES</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>100.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;ANTONIA SALES</strong></span></p></td><td><p><span><strong>EMENDA Nº 13/2020 - APOIO AS AÇÕES DA ASSOCIAÇÃO DE PAIS E AMIGOS PESSOA C/ AUTISMO (APAA) - CRUZEIRO DO SUL</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>30.000,00</strong></span></p></td></tr><tr><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;ANTÔNIO PEDRO</strong></span></p></td><td><p><span><strong>EMENDA Nº 14/2020 - AQUISIÇÃO DE COMBUSTÍVEL PARA RECUPERAÇÃO DE RAMAIS DE CAPIXABA - DERACRE&nbsp;</strong></span></p></td><td><p><span><strong>CUSTEIO</strong></span></p></td><td><p><span><strong>50.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;ANTÔNIO PEDRO</strong></span></p></td><td><p><span><strong>EMENDA Nº 14/2020 - AQUISIÇÃO DE COMBUSTÍVEL PARA RECUPERAÇÃO DE RAMAIS DE CAPIXABA - DERACRE&nbsp;</strong></span></p></td><td><p><span><strong>CUSTEIO</strong></span></p></td><td><p><span><strong>50.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;ANTÔNIO PEDRO</strong></span></p></td><td><p><span><strong>EMENDA Nº 14/2020 - APOIO A PREFEITURA RIO BRANCO (SEC. MUNICIPAL EDUCAÇÃO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>50.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;ANTÔNIO PEDRO</strong></span></p></td><td><p><span><strong>EMENDA Nº 14/2020 - AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA - SEPA NO MUNICÍPIO DE XAPURI</strong></span></p></td><td><p><span><strong>INVESTIMENTO</strong></span></p></td><td><p><span><strong>50.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO A PREFEITURA RIO BRANCO (ESC. JOSÉ POTYGUARA)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>7.500,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO A PREFEITURA RIO BRANCO (CRECHE IRMÃOS MI E BINO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>7.500,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (ESCOLA PADRE CRISTÓVÃO FREIRE ARNAUD)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>7.500,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO À ESCOLA CORONEL CONTREIRAS (CRUZEIRO DO SUL)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (ESCOLA DARCY BEZERRA)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>7.500,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO A PREFEITURA PORTO WALTER (SEC. EDUCAÇÃO, CULTURA E DESPORTO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>210.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (ESCOLA DE ENSINO INFANTIL E CRECHE MAJOLUNE)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>5.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO À ESCOLA RURAL SÃO CAMILO (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>5.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;CHICO VIGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 19/2020 - APOIO À ESCOLA MILITAR TIRADENTES (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><span><br>&nbsp;&nbsp;</span><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;EDVALDO MAGALHÃES</strong></span></p></td><td><p><span><strong>EMENDA Nº 17/2020 - APOIO A COMISSÃO PASTORAL DA TERRA - CPT (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>100.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO A PREFEITURA DE ASSIS BRASIL(SEC MUNICIPAL EDUCAÇÃO)</strong></span></p></td><td><p><span><strong>INVESTIMENTO</strong></span></p></td><td><p><span><strong>30.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO A PREFEITURA DE SENA MADUREIRA (SEC MUNICIPAL DE SAÚDE)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>40.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO A PREFEITURA MÄNCIO LIMA (SEC. MUNICIPAL DE SAÚDE)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>40.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO A PREFEITURA PLÁCIDO DE CASTRO (SEC. MUNICIPAL DE EDUCAÇÃO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>30.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO A PREFEITURA PORTO ACRE (SEC. MUNICIPAL DE SAÚDE)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>20.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO A PREFEITURA SANTA ROSA DO PURUS</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>40.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO AO BATALHÃO DO CORPO DE BOMBEIROS DE SENA MADUREIRA</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>100.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO AO INSTITUTO DA ADMINISTRAÇÃO PENINTENCIÁRIA EM SENA MADUREIRA</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>100.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;GEHLEN DINIZ</strong></span></p></td><td><p><span><strong>EMENDA Nº 20/2020 - APOIO AO QUARTEL DA POLÍCIA MILITAR SENA MADUREIRA</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>100.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AÇÕES SUPREMO CENTRO ESPIRITA MESTRE GABRIEL TEMPLO SALOMÃO - UNIÃO DO VEGETAL</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>15.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL ÁGUA DA VIDA (TARAUACÁ)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL ENCANTO DA ROSA (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL JARDIM REAL (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF. UNIÃO VEGETAL JOÃO LANGO MOURA (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>60.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL NÚCLEO MARECHAL THAUMATURGO</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL SENHORA DAS ÁGUAS (TARAUACÁ)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA E CULTO DE ORAÇÃO CASA JESUS FONTE DE LUZ (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AO SINDICATO DOS TRABALHADORES EM EDUCAÇÃO DO ESTADO - SINTEAC TARAUACÁ</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>140.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO A ASSOCIAÇÃO DE MORADORES DO CONJUNTO ESPERANÇA&nbsp;</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>20.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO AO CENTRO ESPÍRITA BENEFICENTE UNIÃO DO VEGETAL NÚCLEO NOVO HORIZONTE</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO A UNIVERSIDADE FEDERAL DO ACRE - UFAC, CENTRO DE INFORMAÇÃO E ASSISTÊNCIA TOXICOLÓGICA DO ACRE (CIAT0x-AC)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO A DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER – DEAM</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020-APOIO AO CENTRO SOCIOEOUCATIVO ALTO ACREJAC</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO A ASSOCIAÇÃO RIOBRANQUENSE DE DEFICIENTES FÍSICOS/ARDEF</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JANILSON LEITE</strong></span></p></td><td><p><span><strong>EMENDA Nº 21/2020 - APOIO A UNIVERSIDADE FEDERAL DO ACRE - UFAC/CENTRO MIJLTIDISCIPLINAR DE CRUZEIRO DO SUL/AC&nbsp;</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>15.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>JONAS LIMA</strong></span></p></td><td><p><span><strong>EMENDA Nº 22/2020 - APOIO A PREFEITURA MÂNCIO LIMA (SEC. DE PRODUÇÃO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>250.000,00</strong></span></p></td></tr><tr><td><p><span><strong>JONAS LIMA</strong></span></p></td><td><p><span><strong>EMENDA Nº 22/2020-APOIO A PREFEITURA MÂNCIO LIMA (SEC. DE SAÚDE)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>250.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DA ESCOLINHA DE FUTEBOL FÉLIX BESTENE NETO - RECRIANÇA (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>50.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DA FEDERAÇÃO ACREANA DE TÊNIS DE MESA (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>20.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DA FEDERAÇÃO ACREANA TÊNIS DE QUADRA (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>30.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DA PARÓQUIA SÃO PEREGRINO (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>30.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DO CENTRO DE ENSINO SOCIAL DOM BOSCO (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>70.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DO GALVEZ ESPORTE CLUBE (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>80.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DO LAR DOS VICENTINOS (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>40.000,00</strong></span></p></td></tr><tr><td><p><span><strong>JOSE BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DA PARÓQUIA SÃO SEBASTIÃO DE XAPURI</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>10.000,00</strong></span></p></td></tr><tr><td><p><span><strong>JOSE BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DA SOCIEDADE EUNICE WEAVER (EDUCANDÁRIO - CRUZEIRO DO SUL)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>20.000,00</strong></span></p></td></tr><tr><td><p><span><strong>JOSE BESTENE</strong></span></p></td><td><p><span><strong>EMENDA Nº 24/2020 - APOIO AS AÇÕES DA ESCOLINHA DE FUTEBOL PROFESSOR PAULÃO</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>130.000,00</strong></span></p></td></tr><tr><td><p><span><strong>JOSE BESTENE</strong></span></p></td><td><p><span><strong>ACRE RUNNIG</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>20.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ LUÍS - TCHÊ</strong></span></p></td><td><p><span><strong>EMENDA Nº 34/2020 - APOIAR ATIVIDADES DE EDUCAÇÃO EMPRESARIAL ATRAVÉS DA AGÊNCIA DE NEGÓCIOS DO ACRE – ANAC</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>80.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ LUÍS - TCHÊ</strong></span></p></td><td><p><span><strong>EMENDA Nº 34/2020 - APOIO AS AÇÕES DA FEDERAÇÃO DE DESPORTOS UNIVERSITÁRI OS ACREANOS (RIO BRANCO)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>20.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ LUÍS - TCHÊ</strong></span></p></td><td><p><span><strong>EMENDA Nº 34/2020 - APOIO PROMOÇÃO DE ATIVIDADES ESPORTIVAS PREVENÇÃO À VIOLÊNCIA, NO ÂMBITO POLICIA CIVIL</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>150.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;JOSÉ LUÍS - TCHÊ</strong></span></p></td><td><p><span><strong>EMENDA Nº 34/2020 - PERFURAÇÃO DE POÇOS ARTESIANOS E ENTREGA DE INSUMOS PARA EXTRAÇÃO DOS RECURSOS<br>&nbsp;HÍDRICOS, POR MEIO DA FUNTAC</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>250.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;LUIZ GONZAGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 25/2020 - LIMPEZA DO RIO VALPARAÍSO – DERACRE</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>40.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;LUIZ GONZAGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 25/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (SEC. MUN. DE SAÚDE)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>50.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;LUIZ GONZAGA</strong></span></p></td><td><p><span><strong>EMENDA Nº 25/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL NÚCLEO NOVO HORIZONTE (CRUZ. DO SUL)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>50.000,00</strong></span></p></td></tr></tbody></table>
+**AUTORIA**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;MARIA ANTÔNIA</strong></span></p></td><td><p><span><strong>EMENDA Nº 28/2020 - APOIO A PREFEITURA RODRIGUES ALVES (SEC. MUNICIPAL DE SAÚDE)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>200.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;MARIA ANTÔNIA</strong></span></p></td><td><p><span><strong>EMENDA Nº 28/2020 - APOIO AÇÕES MOVIMENTO REINTEGRAÇÃO PESSOAS ATINGIDAS PELA HANSENÍASE (MORHAN)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>80.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;MEIRE SERAFIM</strong></span></p></td><td><p><span><strong>EMENDA Nº 29/2020 - APOIO A SANTA CASA DE MISERICÓRDIA DA AMAZÔNIA (ATENDIMENTOS E SERVIÇOS DE SAÚDE EM SENA MADUREIRA)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>500.000,00</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;NICOLAU JUNIOR</strong></span></p></td><td><p><span><strong>EMENDA Nº 31/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (SEC. MUNICIPAL DE CULTURA TURISMO, ESPORTE E LAZER)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>250.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;PEDRO LONGO</strong></span></p></td><td><p><span><strong>EMENDA Nº 32/2020 - APOIO A ASSOCIAÇÃO BENEFICENTE SOLAR DAS ACÁCIAS</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>30.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;PEDRO LONGO</strong></span></p></td><td><p><span><strong>EMENDA Nº 32/2020 - APOIO A ASSOCIAÇÃO AGROEXTRATIVISTA PUYANAWA BARÃO IPIRANGA – AAPBL</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>20.000,00</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td><td><p><span><strong>&nbsp;</strong></span></p></td></tr><tr><td><p><span><strong>AUTORIA</strong></span></p></td><td><p><span><strong>APLICAÇÃO PROGRAMADA</strong></span></p></td><td><p><span><strong>GRUPO DESPESA</strong></span></p></td><td><p><span><strong>RECURSOS PRÓPRIOS DO TESOURO</strong></span></p></td></tr><tr><td><p><span><strong>&nbsp;WAGNER FELIPE</strong></span></p></td><td><p><span><strong>EMENDA Nº 35/2020 - APOIO A MANUTENÇÃO UNIDADE MISTA DE SAÚDE ANA NERY (VILA CAMPINAS)</strong></span></p></td><td><p><span><strong>CUSTEIO E INVESTIMENTO</strong></span></p></td><td><p><span><strong>50.000,00</strong></span></p></td></tr></tbody></table>
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** ANTONIA SALES**
+
+**EMENDA Nº 13/2020 - APOIO A MANUTENÇÃO DA UNIDADE MISTA DE RODRIGUES ALVES**
+
+**CUSTEIO E INVESTIMENTO**
+
+**100.000,00**
+
+** ANTONIA SALES**
+
+**EMENDA Nº 13/2020 - APOIO AS AÇÕES DA ASSOCIAÇÃO DE PAIS E AMIGOS PESSOA C/ AUTISMO (APAA) - CRUZEIRO DO SUL**
+
+**CUSTEIO E INVESTIMENTO**
+
+**30.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** ANTÔNIO PEDRO**
+
+**EMENDA Nº 14/2020 - AQUISIÇÃO DE COMBUSTÍVEL PARA RECUPERAÇÃO DE RAMAIS DE CAPIXABA - DERACRE **
+
+**CUSTEIO**
+
+**50.000,00**
+
+** ANTÔNIO PEDRO**
+
+**EMENDA Nº 14/2020 - AQUISIÇÃO DE COMBUSTÍVEL PARA RECUPERAÇÃO DE RAMAIS DE CAPIXABA - DERACRE **
+
+**CUSTEIO**
+
+**50.000,00**
+
+** ANTÔNIO PEDRO**
+
+**EMENDA Nº 14/2020 - APOIO A PREFEITURA RIO BRANCO (SEC. MUNICIPAL EDUCAÇÃO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**50.000,00**
+
+** ANTÔNIO PEDRO**
+
+**EMENDA Nº 14/2020 - AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA - SEPA NO MUNICÍPIO DE XAPURI**
+
+**INVESTIMENTO**
+
+**50.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO A PREFEITURA RIO BRANCO (ESC. JOSÉ POTYGUARA)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**7.500,00**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO A PREFEITURA RIO BRANCO (CRECHE IRMÃOS MI E BINO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**7.500,00**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (ESCOLA PADRE CRISTÓVÃO FREIRE ARNAUD)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**7.500,00**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO À ESCOLA CORONEL CONTREIRAS (CRUZEIRO DO SUL)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (ESCOLA DARCY BEZERRA)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**7.500,00**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO A PREFEITURA PORTO WALTER (SEC. EDUCAÇÃO, CULTURA E DESPORTO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**210.000,00**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (ESCOLA DE ENSINO INFANTIL E CRECHE MAJOLUNE)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**5.000,00**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO À ESCOLA RURAL SÃO CAMILO (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**5.000,00**
+
+** CHICO VIGA**
+
+**EMENDA Nº 19/2020 - APOIO À ESCOLA MILITAR TIRADENTES (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** EDVALDO MAGALHÃES**
+
+**EMENDA Nº 17/2020 - APOIO A COMISSÃO PASTORAL DA TERRA - CPT (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**100.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO A PREFEITURA DE ASSIS BRASIL(SEC MUNICIPAL EDUCAÇÃO)**
+
+**INVESTIMENTO**
+
+**30.000,00**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO A PREFEITURA DE SENA MADUREIRA (SEC MUNICIPAL DE SAÚDE)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**40.000,00**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO A PREFEITURA MÄNCIO LIMA (SEC. MUNICIPAL DE SAÚDE)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**40.000,00**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO A PREFEITURA PLÁCIDO DE CASTRO (SEC. MUNICIPAL DE EDUCAÇÃO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**30.000,00**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO A PREFEITURA PORTO ACRE (SEC. MUNICIPAL DE SAÚDE)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**20.000,00**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO A PREFEITURA SANTA ROSA DO PURUS**
+
+**CUSTEIO E INVESTIMENTO**
+
+**40.000,00**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO AO BATALHÃO DO CORPO DE BOMBEIROS DE SENA MADUREIRA**
+
+**CUSTEIO E INVESTIMENTO**
+
+**100.000,00**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO AO INSTITUTO DA ADMINISTRAÇÃO PENINTENCIÁRIA EM SENA MADUREIRA**
+
+**CUSTEIO E INVESTIMENTO**
+
+**100.000,00**
+
+** GEHLEN DINIZ**
+
+**EMENDA Nº 20/2020 - APOIO AO QUARTEL DA POLÍCIA MILITAR SENA MADUREIRA**
+
+**CUSTEIO E INVESTIMENTO**
+
+**100.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AÇÕES SUPREMO CENTRO ESPIRITA MESTRE GABRIEL TEMPLO SALOMÃO - UNIÃO DO VEGETAL**
+
+**CUSTEIO E INVESTIMENTO**
+
+**15.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL ÁGUA DA VIDA (TARAUACÁ)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL ENCANTO DA ROSA (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL JARDIM REAL (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF. UNIÃO VEGETAL JOÃO LANGO MOURA (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**60.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL NÚCLEO MARECHAL THAUMATURGO**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL SENHORA DAS ÁGUAS (TARAUACÁ)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA E CULTO DE ORAÇÃO CASA JESUS FONTE DE LUZ (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AO SINDICATO DOS TRABALHADORES EM EDUCAÇÃO DO ESTADO - SINTEAC TARAUACÁ**
+
+**CUSTEIO E INVESTIMENTO**
+
+**140.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO A ASSOCIAÇÃO DE MORADORES DO CONJUNTO ESPERANÇA **
+
+**CUSTEIO E INVESTIMENTO**
+
+**20.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO AO CENTRO ESPÍRITA BENEFICENTE UNIÃO DO VEGETAL NÚCLEO NOVO HORIZONTE**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO A UNIVERSIDADE FEDERAL DO ACRE - UFAC, CENTRO DE INFORMAÇÃO E ASSISTÊNCIA TOXICOLÓGICA DO ACRE (CIAT0x-AC)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO A DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER – DEAM**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020-APOIO AO CENTRO SOCIOEOUCATIVO ALTO ACREJAC**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO A ASSOCIAÇÃO RIOBRANQUENSE DE DEFICIENTES FÍSICOS/ARDEF**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+** JANILSON LEITE**
+
+**EMENDA Nº 21/2020 - APOIO A UNIVERSIDADE FEDERAL DO ACRE - UFAC/CENTRO MIJLTIDISCIPLINAR DE CRUZEIRO DO SUL/AC **
+
+**CUSTEIO E INVESTIMENTO**
+
+**15.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+**JONAS LIMA**
+
+**EMENDA Nº 22/2020 - APOIO A PREFEITURA MÂNCIO LIMA (SEC. DE PRODUÇÃO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**250.000,00**
+
+**JONAS LIMA**
+
+**EMENDA Nº 22/2020-APOIO A PREFEITURA MÂNCIO LIMA (SEC. DE SAÚDE)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**250.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** JOSÉ BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DA ESCOLINHA DE FUTEBOL FÉLIX BESTENE NETO - RECRIANÇA (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**50.000,00**
+
+** JOSÉ BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DA FEDERAÇÃO ACREANA DE TÊNIS DE MESA (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**20.000,00**
+
+** JOSÉ BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DA FEDERAÇÃO ACREANA TÊNIS DE QUADRA (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**30.000,00**
+
+** JOSÉ BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DA PARÓQUIA SÃO PEREGRINO (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**30.000,00**
+
+** JOSÉ BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DO CENTRO DE ENSINO SOCIAL DOM BOSCO (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**70.000,00**
+
+** JOSÉ BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DO GALVEZ ESPORTE CLUBE (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**80.000,00**
+
+** JOSÉ BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DO LAR DOS VICENTINOS (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**40.000,00**
+
+**JOSE BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DA PARÓQUIA SÃO SEBASTIÃO DE XAPURI**
+
+**CUSTEIO E INVESTIMENTO**
+
+**10.000,00**
+
+**JOSE BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DA SOCIEDADE EUNICE WEAVER (EDUCANDÁRIO - CRUZEIRO DO SUL)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**20.000,00**
+
+**JOSE BESTENE**
+
+**EMENDA Nº 24/2020 - APOIO AS AÇÕES DA ESCOLINHA DE FUTEBOL PROFESSOR PAULÃO**
+
+**CUSTEIO E INVESTIMENTO**
+
+**130.000,00**
+
+**JOSE BESTENE**
+
+**ACRE RUNNIG**
+
+**CUSTEIO E INVESTIMENTO**
+
+**20.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** JOSÉ LUÍS - TCHÊ**
+
+**EMENDA Nº 34/2020 - APOIAR ATIVIDADES DE EDUCAÇÃO EMPRESARIAL ATRAVÉS DA AGÊNCIA DE NEGÓCIOS DO ACRE – ANAC**
+
+**CUSTEIO E INVESTIMENTO**
+
+**80.000,00**
+
+** JOSÉ LUÍS - TCHÊ**
+
+**EMENDA Nº 34/2020 - APOIO AS AÇÕES DA FEDERAÇÃO DE DESPORTOS UNIVERSITÁRI OS ACREANOS (RIO BRANCO)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**20.000,00**
+
+** JOSÉ LUÍS - TCHÊ**
+
+**EMENDA Nº 34/2020 - APOIO PROMOÇÃO DE ATIVIDADES ESPORTIVAS PREVENÇÃO À VIOLÊNCIA, NO ÂMBITO POLICIA CIVIL**
+
+**CUSTEIO E INVESTIMENTO**
+
+**150.000,00**
+
+** JOSÉ LUÍS - TCHÊ**
+
+**EMENDA Nº 34/2020 - PERFURAÇÃO DE POÇOS ARTESIANOS E ENTREGA DE INSUMOS PARA EXTRAÇÃO DOS RECURSOS
+ HÍDRICOS, POR MEIO DA FUNTAC**
+
+**CUSTEIO E INVESTIMENTO**
+
+**250.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** LUIZ GONZAGA**
+
+**EMENDA Nº 25/2020 - LIMPEZA DO RIO VALPARAÍSO – DERACRE**
+
+**CUSTEIO E INVESTIMENTO**
+
+**40.000,00**
+
+** LUIZ GONZAGA**
+
+**EMENDA Nº 25/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (SEC. MUN. DE SAÚDE)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**50.000,00**
+
+** LUIZ GONZAGA**
+
+**EMENDA Nº 25/2020 - APOIO AS AÇÕES DO CENTRO ESPÍRITA BENEF UNIÃO VEGETAL NÚCLEO NOVO HORIZONTE (CRUZ. DO SUL)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**50.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** MARIA ANTÔNIA**
+
+**EMENDA Nº 28/2020 - APOIO A PREFEITURA RODRIGUES ALVES (SEC. MUNICIPAL DE SAÚDE)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**200.000,00**
+
+** MARIA ANTÔNIA**
+
+**EMENDA Nº 28/2020 - APOIO AÇÕES MOVIMENTO REINTEGRAÇÃO PESSOAS ATINGIDAS PELA HANSENÍASE (MORHAN)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**80.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** MEIRE SERAFIM**
+
+**EMENDA Nº 29/2020 - APOIO A SANTA CASA DE MISERICÓRDIA DA AMAZÔNIA (ATENDIMENTOS E SERVIÇOS DE SAÚDE EM SENA MADUREIRA)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**500.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** NICOLAU JUNIOR**
+
+**EMENDA Nº 31/2020 - APOIO A PREFEITURA CRUZEIRO DO SUL (SEC. MUNICIPAL DE CULTURA TURISMO, ESPORTE E LAZER)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**250.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** PEDRO LONGO**
+
+**EMENDA Nº 32/2020 - APOIO A ASSOCIAÇÃO BENEFICENTE SOLAR DAS ACÁCIAS**
+
+**CUSTEIO E INVESTIMENTO**
+
+**30.000,00**
+
+** PEDRO LONGO**
+
+**EMENDA Nº 32/2020 - APOIO A ASSOCIAÇÃO AGROEXTRATIVISTA PUYANAWA BARÃO IPIRANGA – AAPBL**
+
+**CUSTEIO E INVESTIMENTO**
+
+**20.000,00**
+
+**AUTORIA**
+
+**APLICAÇÃO PROGRAMADA**
+
+**GRUPO DESPESA**
+
+**RECURSOS PRÓPRIOS DO TESOURO**
+
+** WAGNER FELIPE**
+
+**EMENDA Nº 35/2020 - APOIO A MANUTENÇÃO UNIDADE MISTA DE SAÚDE ANA NERY (VILA CAMPINAS)**
+
+**CUSTEIO E INVESTIMENTO**
+
+**50.000,00**
 
 **...”** **(NR)**

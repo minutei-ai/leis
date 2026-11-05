@@ -1,5 +1,3 @@
-###DEC-047653-0-000-15-01-1960@@@
-
 DECRETO Nº 47.653, DE 15 DE JANEIRO DE 1960.
 
 Altera o Quadro do Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

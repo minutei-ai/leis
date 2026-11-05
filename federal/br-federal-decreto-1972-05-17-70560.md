@@ -1,5 +1,3 @@
-###DEC-070560-0-000-17-05-1972@@@
-
 DECRETO Nº 70.560, DE 17 DE MAIO DE 1972.
 
 Declara de utilidade pública o Instituto Maria Auxiliadora, com sede em Rio do Sul, Estado de Santa Catarina.

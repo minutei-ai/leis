@@ -1,5 +1,3 @@
-###DEL-003657-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.657 – DE 25 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 57:000$0, para mudança da Diretoria da Justiça e do Interior

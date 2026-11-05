@@ -1,5 +1,3 @@
-###DEC-050366-0-000-20-03-1961@@@
-
 DECRETO Nº 50.366, DE 20 DE MARÇO DE 1961.
 
 Cria a Comissão de Filosofia e Ciências no Conselho Nacional de Cultura.

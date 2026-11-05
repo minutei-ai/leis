@@ -1,5 +1,3 @@
-###DEC-081871-0-000-29-06-1978@@@
-
 Decreto nº 81.871, de 29 de junho de 1978.
 
 Regulamenta a Lei nº 6.530, de 12 de maio de 1978, que dá nova regulamentação à profissão de Corretor de Imóveis, disciplina o funcionamento de seus órgãos de fiscalização e dá outras providências.

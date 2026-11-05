@@ -1,5 +1,3 @@
-###DEC-078896-0-000-06-12-1976@@@
-
 DECRETO Nº 78.896, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Música, do Instituto de Artes da Universidade Federal de Goiás, com sede em Goiânia, Estado de Goiás.

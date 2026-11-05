@@ -1,5 +1,3 @@
-###DEC-086704-0-000-09-12-1981@@@
-
 Decreto nº 86.704, de 09 de dezembro de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

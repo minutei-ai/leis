@@ -1,5 +1,3 @@
-###DEC-091509-0-000-05-08-1985@@@
-
 Decreto nº 91.509 de 5 de agosto de 1985.
 
 Fixa o percentual de não numerados de Capitães-de-Mar-e-Guerra dos diversos Corpos de Carreira da Marinha, definitivamente impossibilitados, de acesso ao primeiro posto de Oficial-General.

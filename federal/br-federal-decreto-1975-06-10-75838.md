@@ -1,5 +1,3 @@
-###DEC-075838-0-000-10-06-1975@@@
-
 DECRETO Nº 75.838, DE 10 DE JUNHO DE 1975.
 
 Declara a condição de Militar ao Corpo de Bombeiros do Estado do Rio de Janeiro e dá outras providências.

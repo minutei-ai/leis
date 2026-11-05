@@ -149,7 +149,3 @@ Danilo de Castro
 Paulo de Tarso Almeida Paiva
 
 José Carlos Carvalho
-
-\=========================
-
-Data da última atualização: 22/1/2016.

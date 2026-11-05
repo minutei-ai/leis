@@ -1,5 +1,3 @@
-###DEL-003741-0-000-22-10-1941@@@
-
 DECRETO-LEI N. 3.741 – DE 22 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de 1.240:000$0 para atender às despesas da Escola de Aeronáutica com pessoal, material e obras

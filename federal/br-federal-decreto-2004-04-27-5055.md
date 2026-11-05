@@ -1,5 +1,3 @@
-###DEC-005055-0-000-27-04-2004@@@
-
 DECRETO Nº 5.055,  DE 27 DE ABRIL DE 2004
 
 Institui o Serviço de Atendimento Móvel de Urgência – SAMU, em Municípios e regiões do território nacional, e dá outras providências.

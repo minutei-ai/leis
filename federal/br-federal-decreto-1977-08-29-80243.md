@@ -1,5 +1,3 @@
-###DEC-080243-0-000-29-08-1977@@@
-
 DECRETA Nº 80.243, DE 29 DE AGOSTO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Recife, Estado de Pernambuco.

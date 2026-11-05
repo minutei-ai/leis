@@ -1,5 +1,3 @@
-###DEC-055718-0-000-02-02-1965@@@
-
 DECRETO Nº 55.718, de 2 de fevereiro de 1965.
 
 Autoriza a Companhia Geral de Eletricidade a vender grupos geradores de seu acervo, utilizados na produção de energia elétrica.

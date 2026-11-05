@@ -1,5 +1,3 @@
-###DEC-048615-0-000-25-07-1960@@@
-
 DECRETO N.º 48.615, DE 25 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Oswaldo Milward de Andrade a pesquisar mica e caulim no município do Bicas, Estado de Minas Gerais.

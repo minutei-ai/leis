@@ -1,5 +1,3 @@
-###DEC-086753-0-000-18-12-1981@@@
-
 Decreto nº 86.753, de 18 de dezembro de 1981
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

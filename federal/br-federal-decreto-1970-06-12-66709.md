@@ -1,5 +1,3 @@
-###DEC-066709-0-000-12-06-1970@@@
-
 decreto nº 66.709, de 12 de junho de 1970.
 
 Retifica o artigo 1º do Decreto nº 50.045 de 24 de janeiro de 1961.

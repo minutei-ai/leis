@@ -1,7 +1,3 @@
-1
-
-###DEC-097907-0-000-05-07-1989@@@
-
 DECRETO N° 97.907, DE 5 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Comunicação Social da Escola Baiana de Comunicação Social.

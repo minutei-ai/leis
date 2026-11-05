@@ -1,5 +1,3 @@
-###DEC-093206-0-000-03-09-1986@@@
-
 DECRETO Nº 93.206, DE 03 DE SETEMBRO DE 1986
 
 Dispõe sobre a criação, no Ministério do Exército, da Aviação do Exército, e dá outras providências.

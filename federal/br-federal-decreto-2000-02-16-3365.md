@@ -1,5 +1,3 @@
-###DEC-003365-0-000-16-02-2000@@@
-
 DECRETO Nº 3.365, DE 16 DE FEVEREIRO DE 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

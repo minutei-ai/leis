@@ -1,5 +1,3 @@
-###DEC-088443-0-000-29-06-1983@@@
-
 # DECRETO nº 88.443, de 29 de junho de 1983
 
 Dispõe sobre a alteração do período de reajustamento do salário-declarado do contribuinte em dobro da Previdência Social (art. 53, § 2º do RCPS) e dá outras providências.

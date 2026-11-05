@@ -1,5 +1,3 @@
-###DEC-087039-0-000-16-03-1982@@@
-
 Decreto nº 87.039, de 16 de março de 1982
 
 Inclui dispositivo no Decreto nº 85.645, de 20 de janeiro de 1981, autorizado a ascensão às categorias funcionais do Grupo Polícia Federal, relativamente a servidores que indica.

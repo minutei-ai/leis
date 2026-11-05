@@ -1,5 +1,3 @@
-###DEC-075538-0-000-26-03-1975@@@
-
 DECRETO Nº 75.538, DE 26 DE MARÇO DE 1975
 
 Outorga à Centrais Elétricas de Santa Catarina S.A. - CELESC concessão para transmitir e distribuir energia elétrica nos Municípios de Chapecó, Quilombo, Caxambu do Sul e Coronel Freitas, no Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-053874-0-000-30-03-1964@@@
-
 DECRETO Nº 53.874, DE 30 DE MARÇO DE 1964.
 
 Altera a redação do artigo 9º e parágrafo único do Decreto número 51.011, de 24 de julho de 1961.

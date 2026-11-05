@@ -1,5 +1,3 @@
-###DEC-052034-0-000-21-05-1963@@@
-
 DECRETO Nº 52.034, DE 21 DE MAIO DE 1963.
 
 Autoriza o cidadão brasileiro Foad José Jorge a pesquisar argila no município de Iacanga, Estado de São Paulo.

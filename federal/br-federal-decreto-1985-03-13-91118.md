@@ -1,5 +1,3 @@
-###DEC-091118-0-000-13-03-1985@@@
-
 DECRETO Nº 91.118, DE 13 DE MARÇO dE 1985
 
 Cria, na Secretaria de Planejamento da Presidência da República, a Secretaria Especial de Coordenação Econômico-Social e dá outras providências.

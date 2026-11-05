@@ -1,5 +1,3 @@
-###DEL-002034-0-000-20-06-1983@@@
-
 # Decreto-lei nº 2.034, de 20 de junho de 1983
 
 Altera os limites do benefício fiscal instituído pelo Decreto-lei nº 1.358, de 12 de novembro de 1974, e dá outras providências.

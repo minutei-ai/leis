@@ -1,5 +1,3 @@
-###DEL-004490-0-000-17-07-1942@@@
-
 DECRETO-LEI n. 4.490 – DE 17 DE JULHO DE 1942
 
 Transforma em cargos de carreira os de mecânico de precisão do Quadro Suplementar do Ministério da Guerra e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-005034-0-000-05-04-2004@@@
-
 DECRETO Nº 5.034, DE 5 DE ABRIL DE 2004
 
 Prorroga o prazo para assinatura dos contratos das concessões outorgadas às empresas VARIG S.A. - Viação Aérea Rio-Grandense e VASP - Viação Aérea São Paulo S.A., para a execução de serviços aéreos, e dá outras providências.

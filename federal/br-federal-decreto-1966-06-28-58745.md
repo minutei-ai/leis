@@ -1,5 +1,3 @@
-###DEC-058745-0-000-28-06-1966@@@
-
 DECRETO Nº 58.745, DE 28 DE JUNHO DE 1966.
 
 Declara de utilidade pública a Associação Brasileira de Cerâmica com sede em São Paulo, Estado de São Paulo.

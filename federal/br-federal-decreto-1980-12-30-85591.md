@@ -1,5 +1,3 @@
-###DEC-085591-0-000-30-12-1980@@@
-
 Decreto nº 85.591, de 30 de dezembro 1980.
 
 Conceda à COMPANHIA SIDERÚRGICA DE MOGI DAS CRUZES - COSIM, autorização para proceder a aumento do seu capital social.

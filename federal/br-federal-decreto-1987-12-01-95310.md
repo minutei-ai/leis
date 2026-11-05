@@ -1,5 +1,3 @@
-###DEC-095310-0-000-01-12-1987@@@
-
 DECRETO Nº 95.310, DE 1º DE DEZEMBRO DE 1987
 
 Dispõe sobre aumento do capital social da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

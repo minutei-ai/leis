@@ -1,5 +1,3 @@
-###DEC-071072-0-000-11-09-1972@@@
-
 DECRETO Nº 71.072, DE 11 DE SETEMBRO DE 1972.
 
 Torna sem efeito aproveitamento de disponíveis no Quadro de Pessoal da Universidade Federal Rural de Pernambuco e cassa a disponibilidade dos mesmos.

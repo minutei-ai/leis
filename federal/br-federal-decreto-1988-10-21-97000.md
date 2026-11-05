@@ -1,5 +1,3 @@
-###DEC-097000-0-000-21-10-1988@@@
-
 DECRETO Nº97.000, DE 21 DE OUTUBRO DE 1988
 
 Dispõe sobre a instituição da Fundação Universidade de Cruz Alta.

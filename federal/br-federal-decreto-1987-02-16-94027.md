@@ -1,5 +1,3 @@
-###DEC-094027-0-000-16-02-1987@@@
-
 DECRETO Nº 94.027, DE 16 DE FEVEREIRO DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra no município de Jequitinhonha, necessária à implantação do Programa de Assentamento Dirigido do Vale do Jequitinhonha - PADVALE, desenvolvimento pelo Estado de Minas Gerais.

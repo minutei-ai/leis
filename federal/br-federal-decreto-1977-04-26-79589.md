@@ -1,5 +1,3 @@
-###DEC-079589-0-000-26-04-1977@@@
-
 DECRETO Nº 79.589, DE 26 de abril DE 1977.
 
 Concede à Mineração Rio de Norte S.A. o direito de lavrar bauxita no Município de Faro, Estado do Pará.

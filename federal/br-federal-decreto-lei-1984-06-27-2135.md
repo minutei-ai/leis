@@ -1,5 +1,3 @@
-###DEL-002135-0-000-27-06-1984@@@
-
 # decreto-lei nº 2.135, de 27 de junho de 1984
 
 Reajusta os valores de vencimentos e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências.

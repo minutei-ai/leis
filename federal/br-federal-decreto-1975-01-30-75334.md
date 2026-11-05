@@ -1,5 +1,3 @@
-###DEC-075334-0-000-30-01-1975@@@
-
 DECRETO Nº 75.334, DE 30 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Formação de Professores de Tanabi, São Paulo, mantida pela Fundação Educacional de Jales.

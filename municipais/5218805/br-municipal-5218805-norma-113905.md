@@ -34,37 +34,56 @@ Secretário de Planejamento e Gestão
 
 **“CATEGORIA - MANUTENÇÃO**
 
-...................................................................................................<br>
+...................................................................................................
+
 **Cargo**: Guarda Patrimonial Municipal
 
 **...................................................................................................**
 
-**Descrição da Função: <br>
+**Descrição da Função: 
+
 Sumário:**
 
 Zelar pela integridade dos bens, instalações e equipamentos públicos, bem como pela movimentação de pessoas nas dependências internas e externas dos prédios públicos do Município; exercer a vigilância patrimonial preventiva dos bens públicos, por meio de rondas, inspeções e controle de acesso de pessoal; a critério da Administração, exercer as atribuições do cargo em escala ininterrupta de revezamento, em regime de plantão, compreendendo horários diurnos, noturnos, inclusive feriados e finais de semana.  
 
 **Tarefas:**
 
-•    Realizar a vigilância patrimonial preventiva dos bens, áreas, equipamentos e instalações públicas municipais, compreendendo edificações, praças, parques, feiras, escolas, unidades de saúde, centros culturais e outros espaços públicos municipais que integrem ou abriguem bens, equipamentos ou instalações sob responsabilidade do Município;<br>
-•    Observar, fiscalizar e monitorar as áreas sob sua responsabilidade;<br>
+•    Realizar a vigilância patrimonial preventiva dos bens, áreas, equipamentos e instalações públicas municipais, compreendendo edificações, praças, parques, feiras, escolas, unidades de saúde, centros culturais e outros espaços públicos municipais que integrem ou abriguem bens, equipamentos ou instalações sob responsabilidade do Município;
+
+•    Observar, fiscalizar e monitorar as áreas sob sua responsabilidade;
+
 •    Executar rondas, inspeções periódicas e acompanhamento sistemático nos locais sob sua vigilância, com a finalidade de evitar, detectar, inibir ou comunicar atos de vandalismo, furto, dano, depredação, incêndio, invasão ou qualquer forma de uso indevido do patrimônio público;
 
-•    Controlar o acesso de pessoas, visitantes, colaboradores, prestadores de serviços, veículos, materiais e equipamentos em prédios públicos ou áreas delimitadas, realizando vistorias preventivas e fiscalizando entradas e saídas, conforme normas internas;<br>
-•    Monitorar ambientes por meio de circuito fechado de TV (CFTV), quando disponível, assim como operar equipamentos de comunicação e sistemas de segurança destinados à vigilância patrimonial;<br>
-•    Prestar atendimento ao público, providenciando orientações, informações e encaminhamentos adequados, zelando pela ordem, circulação e uso correto das dependências públicas;<br>
-•    Atuar de forma preventiva, adotando medidas para evitar danos ao patrimônio público e, quando necessário, solicitar a intervenção dos órgãos de segurança pública, respeitados os princípios da legalidade e da competência institucional;<br>
-•    Informar de imediato às autoridades competentes e aos superiores hierárquicos quaisquer irregularidades, situações de risco, fatos anormais ou ocorrências que comprometam a segurança do patrimônio público ou das pessoas;<br>
-•    Percorrer sistematicamente e inspecionar as áreas de trabalho, prevenindo incêndios, roubos, invasões, entrada de pessoas não autorizadas e outras anormalidades;<br>
-•    Orientar pessoas que eventualmente circulem em locais inadequados ou com acesso restrito, promovendo a prevenção de riscos e a adequada utilização dos espaços públicos;<br>
-•    Manter-se no posto de serviço até sua rendição ou substituição formal, observando rigorosamente os horários, turnos e escalas de trabalho previamente estabelecidos;<br>
-•    Zelar pela guarda, conservação, limpeza e manutenção simples dos equipamentos, instrumentos, materiais e do próprio ambiente de trabalho sob sua responsabilidade, realizando o tratamento e o descarte adequado de resíduos;<br>
-•    Atuar na proteção do patrimônio público em eventos promovidos pela Administração Pública;<br>
-•    Conduzir veículos oficiais de interesse da Guarda Patrimonial, quando devidamente habilitado e autorizado, zelando por sua conservação, adequado uso, controle de ocorrências e comunicação de avarias ou irregularidades;<br>
-•    Realizar atividades operacionais em regime de escala de revezamento ininterrupto, garantindo a continuidade dos serviços essenciais de vigilância patrimonial;<br>
+•    Controlar o acesso de pessoas, visitantes, colaboradores, prestadores de serviços, veículos, materiais e equipamentos em prédios públicos ou áreas delimitadas, realizando vistorias preventivas e fiscalizando entradas e saídas, conforme normas internas;
+
+•    Monitorar ambientes por meio de circuito fechado de TV (CFTV), quando disponível, assim como operar equipamentos de comunicação e sistemas de segurança destinados à vigilância patrimonial;
+
+•    Prestar atendimento ao público, providenciando orientações, informações e encaminhamentos adequados, zelando pela ordem, circulação e uso correto das dependências públicas;
+
+•    Atuar de forma preventiva, adotando medidas para evitar danos ao patrimônio público e, quando necessário, solicitar a intervenção dos órgãos de segurança pública, respeitados os princípios da legalidade e da competência institucional;
+
+•    Informar de imediato às autoridades competentes e aos superiores hierárquicos quaisquer irregularidades, situações de risco, fatos anormais ou ocorrências que comprometam a segurança do patrimônio público ou das pessoas;
+
+•    Percorrer sistematicamente e inspecionar as áreas de trabalho, prevenindo incêndios, roubos, invasões, entrada de pessoas não autorizadas e outras anormalidades;
+
+•    Orientar pessoas que eventualmente circulem em locais inadequados ou com acesso restrito, promovendo a prevenção de riscos e a adequada utilização dos espaços públicos;
+
+•    Manter-se no posto de serviço até sua rendição ou substituição formal, observando rigorosamente os horários, turnos e escalas de trabalho previamente estabelecidos;
+
+•    Zelar pela guarda, conservação, limpeza e manutenção simples dos equipamentos, instrumentos, materiais e do próprio ambiente de trabalho sob sua responsabilidade, realizando o tratamento e o descarte adequado de resíduos;
+
+•    Atuar na proteção do patrimônio público em eventos promovidos pela Administração Pública;
+
+•    Conduzir veículos oficiais de interesse da Guarda Patrimonial, quando devidamente habilitado e autorizado, zelando por sua conservação, adequado uso, controle de ocorrências e comunicação de avarias ou irregularidades;
+
+•    Realizar atividades operacionais em regime de escala de revezamento ininterrupto, garantindo a continuidade dos serviços essenciais de vigilância patrimonial;
+
 •    Executar outras atividades correlatas, pertinentes ou compatíveis com a natureza do cargo, determinadas pelo superior hierárquico ou previstas em decreto regulamentar.
 
-Requisitos:<br>
-•    Ensino médio completo;<br>
-•    CNH – Carteira Nacional de Habilitação, no mínimo Categoria “A”, “B” ou “AB”.<br>
+Requisitos:
+
+•    Ensino médio completo;
+
+•    CNH – Carteira Nacional de Habilitação, no mínimo Categoria “A”, “B” ou “AB”.
+
 ...................................................................................................” (NR)

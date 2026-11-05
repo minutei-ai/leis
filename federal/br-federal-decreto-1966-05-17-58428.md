@@ -1,5 +1,3 @@
-###DEC-058428-0-000-17-05-1966@@@
-
 DECRETO Nº 58.428, DE 17 DE MAIO DE 1966.
 
 Declara sem efeito o Decreto número 56.542, de 7 de julho de 1965.

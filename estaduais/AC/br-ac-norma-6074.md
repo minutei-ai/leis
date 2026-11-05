@@ -1,6 +1,10 @@
 > **LEI Nº 4.360, DE 10 DE JUNHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a aceitação de procurações outorgadas à advocacia perante os órgãos públicos estaduais, sem a necessidade de reconhecimento de firma do outorgante em cartório.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a aceitação de procurações outorgadas à advocacia perante os órgãos públicos estaduais, sem a necessidade de reconhecimento de firma do outorgante em cartório.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

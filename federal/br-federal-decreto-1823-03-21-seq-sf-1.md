@@ -1,5 +1,3 @@
-###DEC-000000-0-001-21-03-1823@@@
-
 DECRETO - DE 21 DE MARÇO DE 1823
 
 Nomeia Lord Cochrane 1º Almirante da Armada Nacional e imperial.

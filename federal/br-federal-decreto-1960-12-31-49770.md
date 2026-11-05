@@ -1,5 +1,3 @@
-###DEC-049770-0-000-31-12-1960@@@
-
 DECRETO N. 49.770 – DE 31 DE DEZEMBRO DE 1960
 
 Aprova alterações introduzidas nos Estatutos da Cairú – Companhia de Seguros Gerais.

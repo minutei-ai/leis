@@ -1,5 +1,3 @@
-###DEC-075358-0-000-07-02-1975@@@
-
 DECRETO Nº 75.358, DE 7 DE FEVEREIRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube Metrópole Ltda., para executar serviço de radiodifusão sonora, em onda média de âmbito regional, na cidade de Canoas, Estado do Rio Grande do Sul.

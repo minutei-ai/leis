@@ -1,5 +1,3 @@
-###DEC-066721-0-000-16-06-1970@@@
-
 DECRETO Nº 66.721, DE 16 DE JUNHO DE 1970.
 
 Declara de utilidade pública o Instituto e Orfanato São Pedro de Alcântara, com sede em Nova Era, Estado de Minas Gerais.

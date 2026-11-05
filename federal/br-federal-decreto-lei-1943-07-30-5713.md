@@ -1,5 +1,3 @@
-###DEL-005713-0-000-30-07-1943@@@
-
 DECRETO‑LEI N. 5.713 – DE 30 DE JULHO DE 1943
 
 Dispõe sôbre os descontos a que ficam sujeitas as notas do papel-moeda chamadas a recolhimento

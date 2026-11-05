@@ -1,5 +1,3 @@
-###DEC-001889-0-000-29-04-1996@@@
-
 DECRETO N° 1.889, DE 29 DE ABRIL DE 1996.
 
 Dispõe sobre o apoio técnico e administrativo a ser prestado aos Ministros de Estado Extraordinários de Política Fundiária e para Coordenação de Assuntos Políticos, e sobre a vinculação do Instituto Nacional de Colonização e Reforma Agrária - INCRA.

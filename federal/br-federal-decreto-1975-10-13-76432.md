@@ -1,5 +1,3 @@
-###DEC-076432-0-000-13-10-1975@@@
-
 DECRETO Nº 76.432, DE 13 DE OUTUBRO DE 1975.
 
 Aprova a incorporação da Empresa Elétrica de Londrina S.A. pela Companhia Paranaense de Energia Elétrica - COPEL e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074602-0-000-24-09-1974@@@
-
 decreto nº 74.602, de 24 de SETEMBRO de 1974.
 
 Concede reconhecimento aos cursos de Letras, de Geografia, de História Natural, de Matemática e de Pedagogia da Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado de Mato Grosso.

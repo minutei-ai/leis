@@ -1,5 +1,3 @@
-###DEL-008117-0-000-19-10-1945@@@
-
 DECRETO-LEI N. 8.117 – DE 19 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 7.500.000,00, à verba que especifica.

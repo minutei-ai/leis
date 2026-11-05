@@ -1,5 +1,3 @@
-###DEC-079675-0-000-10-05-1977@@@
-
 Decreto nº 79.675, de 10 de maio de 1977.
 
 Concede reconhecimento ao curso de Engenharia Elétrica, da Universidade Federal do Espírito Santo

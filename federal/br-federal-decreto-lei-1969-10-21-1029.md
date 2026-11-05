@@ -1,7 +1,3 @@
-1
-
-###DEL-001029-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.029, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre o Estatuto dos Militares e dá outras providências.
@@ -1010,6 +1006,170 @@ Aurélio de Lyra Tavares
 
 Márcio de Souza e Mello
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:108pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>A) Oficiais - (Postos)</span></p></td><td style="width:109.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>MARINHA DE GUERRA</span></p></td><td style="width:88.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>EXÉRCITO</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>AERONÁUTICA MILITAR</span></p></td></tr><tr><td style="width:108pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Círculos</span></p></td><td style="width:109.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Almirante</span></p><p class="Tabela" style="text-indent:0pt"><span>- Almirante-de-Esquadra</span></p><p class="Tabela" style="text-indent:0pt"><span>- Vice-Almirante</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Contra-Almirante</span></p></td><td style="width:88.45pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Marechal</span></p><p class="Tabela" style="text-indent:0pt"><span>- General-de-Exéreito</span></p><p class="Tabela" style="text-indent:0pt"><span>- General-de-Divisão</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-General-de-Brigada</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Marechal-do-Ar</span></p><p class="Tabela" style="text-indent:0pt"><span>- Tenente-Brigadeiro</span></p><p class="Tabela" style="text-indent:0pt"><span>- Major-Brigadeiro</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Brigadeiro</span></p></td></tr><tr><td style="width:108pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- de Oficiais-Generais</span></p><p class="Tabela" style="text-indent:0pt"><span>- de Oficiais Superiores</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- de Oficiais Intermediários</span></p></td><td style="width:109.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>-Capitão-de-Mar-e-Guerra</span></p><p class="Tabela" style="text-indent:0pt"><span>- Capitão-de-Fragata</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Capitão-de-Corveta</span></p></td><td style="width:88.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Coronel</span></p><p class="Tabela" style="text-indent:0pt"><span>- Tenente-Coronel</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Major</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Coronel</span></p><p class="Tabela" style="text-indent:0pt"><span>- Tenente-Coronel</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Major</span></p></td></tr><tr><td style="width:108pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- de Oficiais Subalternos (*)</span></p></td><td style="width:109.7pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Capitão-Tenente</span></p></td><td style="width:88.45pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Capitão</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Capitão</span></p></td></tr><tr><td style="width:108pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:109.7pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Primeiro-Tenente</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Segundo-Tenente</span></p></td><td style="width:88.45pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Primeiro-Tenente</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Segundo-Tenente</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Primeiro-Tenente</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Segundo-Tenente</span></p></td></tr><tr><td style="width:108pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>B) Praças - (Graduações)</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Círculos</span></p></td><td style="width:109.7pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Suboficial</span></p><p class="Tabela" style="text-indent:0pt"><span>- Primeiro-Sargento</span></p><p class="Tabela" style="text-indent:0pt"><span>- Segundo-Sargento</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Terceiro-Sargento</span></p></td><td style="width:88.45pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Subtenente</span></p><p class="Tabela" style="text-indent:0pt"><span>- Primeiro-Sargento</span></p><p class="Tabela" style="text-indent:0pt"><span>- Segundo-Sargento</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Terceiro-Sargento</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Suboficial</span></p><p class="Tabela" style="text-indent:0pt"><span>- Primeiro-Sargento</span></p><p class="Tabela" style="text-indent:0pt"><span>- Segundo-Sargento</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Terceiro-Sargento</span></p></td></tr><tr><td style="width:108pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Suboficiais, Subtenentes e Sargentos</span></p></td><td style="width:109.7pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cabo</span></p></td><td style="width:88.45pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cabo</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cabo</span></p></td></tr><tr><td style="width:108pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cabos e demais praças (**)</span></p></td><td style="width:109.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Marinheiro e Soldado</span></p></td><td style="width:88.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Soldado de 1ª Classe</span></p></td></tr><tr><td style="width:108pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:109.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Grumete</span></p></td><td style="width:88.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Soldado</span></p></td><td style="width:88.4pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Soldado de 2ª Classe</span></p></td></tr><tr><td style="width:108pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:109.7pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Guarda-Marinha</span></p></td><td style="width:88.45pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Aspirante-a-Oficial</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Aspirante-a-Oficial</span></p></td></tr><tr><td style="width:108pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>C) Praças Especiais (*)</span></p><p class="Tabela" style="text-indent:0pt"><span>Círculos</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- de</span></p></td><td style="width:109.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Aspirante (aluno da Escola Naval)</span></p><p class="Tabela" style="text-indent:0pt"><span>- Aluno do Colégio Naval</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Aluno de órgão de formação da Escola de Oficiais da reserva</span></p></td><td style="width:88.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Cadete</span></p><p class="Tabela" style="text-indent:0pt"><span>- Aluno da Escola Preparatória de Cadetes do Exército</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Aluno de órgão de formação de Oficiais da reserva</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Cadete</span></p><p class="Tabela" style="text-indent:0pt"><span>- Aluno do Centro de Formação de Pilôto Militar e da Escola Preparatória</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:108pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(**)</span></p></td><td style="width:109.7pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Aluno de escola ou centro de formação de sargentos</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Aprendiz-Marinheiro e Recruta</span></p></td><td style="width:88.45pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Aluno de escola ou centro de formação de sargentos</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Aluno de órgão de formação de praça da reserva</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Aluno de escola ou centro de formação de graduados</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+A) Oficiais - (Postos)
+
+MARINHA DE GUERRA
+
+EXÉRCITO
+
+AERONÁUTICA MILITAR
+
+Círculos
+
+- Almirante
+
+- Almirante-de-Esquadra
+
+- Vice-Almirante
+
+- Contra-Almirante
+
+- Marechal
+
+- General-de-Exéreito
+
+- General-de-Divisão
+
+-General-de-Brigada
+
+- Marechal-do-Ar
+
+- Tenente-Brigadeiro
+
+- Major-Brigadeiro
+
+- Brigadeiro
+
+- de Oficiais-Generais
+
+- de Oficiais Superiores
+
+- de Oficiais Intermediários
+
+-Capitão-de-Mar-e-Guerra
+
+- Capitão-de-Fragata
+
+- Capitão-de-Corveta
+
+- Coronel
+
+- Tenente-Coronel
+
+- Major
+
+- Coronel
+
+- Tenente-Coronel
+
+- Major
+
+- de Oficiais Subalternos (*)
+
+- Capitão-Tenente
+
+- Capitão
+
+- Capitão
+
+- Primeiro-Tenente
+
+- Segundo-Tenente
+
+- Primeiro-Tenente
+
+- Segundo-Tenente
+
+- Primeiro-Tenente
+
+- Segundo-Tenente
+
+B) Praças - (Graduações)
+
+Círculos
+
+- Suboficial
+
+- Primeiro-Sargento
+
+- Segundo-Sargento
+
+- Terceiro-Sargento
+
+- Subtenente
+
+- Primeiro-Sargento
+
+- Segundo-Sargento
+
+- Terceiro-Sargento
+
+- Suboficial
+
+- Primeiro-Sargento
+
+- Segundo-Sargento
+
+- Terceiro-Sargento
+
+- Suboficiais, Subtenentes e Sargentos
+
+- Cabo
+
+- Cabo
+
+- Cabo
+
+- Cabos e demais praças (**)
+
+- Marinheiro e Soldado
+
+- Soldado de 1ª Classe
+
+- Grumete
+
+- Soldado
+
+- Soldado de 2ª Classe
+
+- Guarda-Marinha
+
+- Aspirante-a-Oficial
+
+- Aspirante-a-Oficial
+
+C) Praças Especiais (*)
+
+Círculos
+
+- de
+
+- Aspirante (aluno da Escola Naval)
+
+- Aluno do Colégio Naval
+
+- Aluno de órgão de formação da Escola de Oficiais da reserva
+
+- Cadete
+
+- Aluno da Escola Preparatória de Cadetes do Exército
+
+- Aluno de órgão de formação de Oficiais da reserva
+
+- Cadete
+
+- Aluno do Centro de Formação de Pilôto Militar e da Escola Preparatória
+
+(**)
+
+- Aluno de escola ou centro de formação de sargentos
+
+- Aprendiz-Marinheiro e Recruta
+
+- Aluno de escola ou centro de formação de sargentos
+
+- Aluno de órgão de formação de praça da reserva
+
+- Aluno de escola ou centro de formação de graduados
 
 Observações - os asteriscos (\*) e (\*\*) indicam a freqüência aos “Círculos” correspondentes.

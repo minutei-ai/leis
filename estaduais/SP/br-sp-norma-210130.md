@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210130)<br>
-
 # DECRETO N° 68.983, DE 21 DE OUTUBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Peruíbe, o imóvel que especifica._

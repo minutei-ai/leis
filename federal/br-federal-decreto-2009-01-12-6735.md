@@ -1,5 +1,3 @@
-###DEC-006735-0-000-12-01-2009@@@
-
 DECRETO Nº 6.735, DE 12 DE JANEIRO DE 2009.
 
 Dispõe sobre a incorporação, ao ordenamento jurídico nacional, da Resolução nº 1.835, de 27 de setembro de 2008, do Conselho de Segurança das Nações Unidas, a qual mantém as sanções previstas nas Resoluções nos 1.737 (2006), 1.747 (2007) e 1.803 (2008) daquele Conselho.

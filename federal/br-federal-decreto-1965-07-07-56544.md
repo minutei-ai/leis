@@ -1,5 +1,3 @@
-###DEC-056544-0-000-07-07-1965@@@
-
 DECRETO Nº 56.544, DE 7 DE JULHO DE 1965.
 
 Dá nova redação ao art. 8º e seus parágrafos do Decreto nº 46.259, de 23 de junho de 1959.

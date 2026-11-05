@@ -1,5 +1,3 @@
-###DEC-047966-0-000-31-03-1960@@@
-
 DECRETO Nº 47.966, DE 31 DE MARÇO DE 1960.
 
 Abre, pelo Ministério da Marinha, o crédito especial de Cr$13.690.891,90, para pagamento da diferença de proventos de inatividade.

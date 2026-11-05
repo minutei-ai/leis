@@ -1,5 +1,3 @@
-###DEC-092535-0-000-10-04-1986@@@
-
 DECRETO Nº 92.535, DE 10 DE ABRIL DE 1986
 
 Autoriza o funcionamento do curso de Odontologia da Universidade Estadual de Feira de Santana.

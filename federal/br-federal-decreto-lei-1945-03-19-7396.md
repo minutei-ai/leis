@@ -1,5 +1,3 @@
-###DEL-007396-0-000-19-03-1945@@@
-
 DECRETO-LEI N. 7.396 – DE 19 DE MARÇO DE 1945
 
 Dá nova redação ao art. 1º do Decreto-lei nº 5.862, de 30 de setembro de 1943.

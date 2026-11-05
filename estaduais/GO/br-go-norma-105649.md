@@ -100,8 +100,6 @@ Art. 9º Fica revogada a [Lei nº 17.102](https://legisla.casacivil.go.gov.br/pe
 
 Goiânia, 6 de junho de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

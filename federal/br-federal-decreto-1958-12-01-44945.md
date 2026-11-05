@@ -1,5 +1,3 @@
-###DEC-044945-0-000-01-12-1958@@@
-
 DECRETO Nº 44.945, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Theophilo Badin, a pesquisar columbita e associados, no município de Paramirim, Estado da Bahia.

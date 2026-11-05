@@ -1,5 +1,3 @@
-###DEC-066180-0-000-05-02-1970@@@
-
 decreto nº 66.180 - de 5 de fevereiro de 1970
 
 Dispõe sobre reconhecimento de diferença de preços sobre estoques de trigo e dá outras providências.

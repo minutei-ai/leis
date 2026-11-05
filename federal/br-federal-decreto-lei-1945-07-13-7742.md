@@ -1,5 +1,3 @@
-###DEL-007742-0-000-13-07-1945@@@
-
 DECRETO-LEI N. 7.742 – DE 13 DE JULHO DE 1945
 
 Transfere para o Quadro Suplementar junções gratificadas do Quadro Permanente do Ministério da Educação e Saúde.

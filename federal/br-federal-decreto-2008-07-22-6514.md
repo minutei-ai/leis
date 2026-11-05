@@ -1,5 +1,3 @@
-###DEC-006514-0-000-22-07-2008@@@
-
 DECRETO Nº 6.514, DE 22 DE JULHO DE 2008.
 
 Dispõe sobre as infrações e sanções administrativas ao meio ambiente, estabelece o processo administrativo federal para apuração destas infrações, e dá outras providências.

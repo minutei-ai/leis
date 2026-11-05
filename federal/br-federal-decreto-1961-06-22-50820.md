@@ -1,5 +1,3 @@
-###DEC-050820-0-000-22-06-1961@@@
-
 DECRETO Nº 50.820, DE 22 DE JUNHO DE 1961.
 
 Altera a redação do artigo 4º do Decreto nº 40.110, de 10 de outubro de 1956.

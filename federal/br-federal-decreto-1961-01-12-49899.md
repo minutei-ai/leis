@@ -1,5 +1,3 @@
-###DEC-049899-0-000-12-01-1961@@@
-
 Decreto nº 49.899, de 12 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Francisco de Assis Santos a pesquisar areias ilmeníticas no município de Barreirinhas, Estado do Maranhão.

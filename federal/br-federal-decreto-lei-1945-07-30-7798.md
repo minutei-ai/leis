@@ -1,5 +1,3 @@
-###DEL-007798-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.798 – DE 30 DE JULHO DE 1945
 
 Amplia as deduções previstas no artigo 37 do Decreto-lei nº 5.844, de 23 de setembro de 1943, que dispõe sôbre o impôsto de renda

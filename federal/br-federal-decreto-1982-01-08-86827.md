@@ -1,5 +1,3 @@
-###DEC-086827-0-000-08-01-1982@@@
-
 Decreto nº 86.827, de 08 de janeiro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétrica de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

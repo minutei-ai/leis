@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 Art. 1º - Fica reorganizada a Secretaria da Fazenda do Estado da Bahia, nos termos da presente Lei.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA FINALIDADE E COMPETÊNCIA DA SECRETARIA DA FAZENDA
 
 Art. 2º - A Secretaria da Fazenda tem por finalidade formular e executar funções de administração tributária e de administração financeira do Estado, competindo-lhe:
@@ -37,7 +38,8 @@ f) examinar, registrar e controlar os contratos, convênios e outras operações
 
 Alínea "d", "e" e "f" acrescidas pelo art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ESTRUTURA
 
 Art. 3º - A Secretaria da Fazenda tem a seguinte estrutura:
@@ -72,24 +74,38 @@ III - Órgão Colegiado:
 
 Conselho de Fazenda Estadual".
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
-Redação anterior: "Art. 3º - A Secretaria da Fazenda tem a seguinte estrutura:<br>
-a) Gabinete do Secretário;<br>
-b) Assessoria Setorial de Programação e Orçamento (ASPO);<br>
-c) Serviço de Administração Geral (SAG);<br>
-d) Serviço de Inspeção, Controle e Orientação;<br>
-e) Procuradoria Fiscal;<br>
-f) Departamento Geral das Rendas;<br>
-g) Departamento do Tesouro;<br>
-h) Departamento Central de Contabilidade do Estado;<br>
-i) Conselho da Fazenda Estadual.<br>
-§ 1º - A subdivisão dos órgãos de que cuida este artigo, para execução das tarefas a eles inerentes, será feita em decreto do Poder Executivo, a juízo deste, segundo a conveniência do serviço.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
+Redação anterior: "Art. 3º - A Secretaria da Fazenda tem a seguinte estrutura:
+
+a) Gabinete do Secretário;
+
+b) Assessoria Setorial de Programação e Orçamento (ASPO);
+
+c) Serviço de Administração Geral (SAG);
+
+d) Serviço de Inspeção, Controle e Orientação;
+
+e) Procuradoria Fiscal;
+
+f) Departamento Geral das Rendas;
+
+g) Departamento do Tesouro;
+
+h) Departamento Central de Contabilidade do Estado;
+
+i) Conselho da Fazenda Estadual.
+
+§ 1º - A subdivisão dos órgãos de que cuida este artigo, para execução das tarefas a eles inerentes, será feita em decreto do Poder Executivo, a juízo deste, segundo a conveniência do serviço.
+
 § 2º - A subdivisão de que trata o parágrafo anterior poderá implicar criação e modificação dos serviços operacionais, respeitados o limite e a classificação dos cargos constantes do anexo I desta lei."
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA FINALIDADE E COMPETÊNCIA DOS ÓRGÃOS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO GABINETE DO SECRETÁRIO
 
 Art. 4º - O Gabinete do Secretário tem por finalidade prestar assistência ao titular da Pasta em suas atribuições, competindo-lhe:
@@ -102,7 +118,8 @@ III - coordenar o fluxo de informações e das relações públicas de interesse
 
 IV - executar outras competências necessárias ao cumprimento da sua finalidade.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA ASSESSORIA SETORIAL DE PROGRAMAÇÃO E ORÇAMENTO
 
 Art. 5º - A Assessoria Setorial de Programação e Orçamento tem por finalidade assessorar o Secretário na coordenação das funções de planejamento, programação, orçamento e organização no âmbito da Secretaria, competindo-lhe:
@@ -113,7 +130,8 @@ II - proceder a estudos para a formulação e avaliação da política tributár
 
 III - manter os serviços de documentação e biblioteca;
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "III - elaborar normas de natureza tributária;"
 
 IV - proceder a estudos para atualização da organização e métodos administrativos;
@@ -122,28 +140,34 @@ V -coordenar a elaboração de planos, programas e projetos;
 
 VI - promover a modernização da administração fazendária;
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "VI - promover o treinamento do pessoal;"
 
 VII - executar outras competências necessárias ao cumprimento de sua finalidade.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO SERVIÇO DE ADMINISTRAÇÃO GERAL
 
 Art. 6º - O serviço de Administração Geral (SAG) tem a finalidade e competência previstas no Capítulo VI, do Título III, da Lei nº 2.321, de 11 de abril de 1966, e sua respectiva regulamentação, competindo-lhe ainda administrar as atividades de telecomunicações da Secretaria da Fazenda.
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "Art. 6º - Ressalvado o disposto no inciso VI do artigo 5º desta lei, o Serviço de Administração Geral (SAG) tem a finalidade e competência previstas no Capítulo VI do Título III da Lei nº 2.321, de 11 de abril de 1966, e sua regulamentação."
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
   Do Departamento de Inspeção, Controle e Orientação
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "SEÇÃO IV - DO SERVIÇO DE INSPEÇÃO, CONTROLE E ORIENTAÇÃO"
 
 Art. 7º - O Departamento de Inspeção, Controle e Orientação tem por finalidade inspecionar a atividade técnico-administrativa dos órgãos locais, regionais e sub-regionais e dirigir a apuração da responsabilidade administrativa e dos ilícitos contra a Fazenda Pública Estadual, no âmbito da Secretaria da Fazenda, competindo-lhe:
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "Art. 7º - O Serviço de Inspeção, Controle e Orientação, tem por finalidade inspecionar a produtividade técnico-administrativa dos órgãos locais, sub-regionais e regionais e proceder a orientação para regular cumprimento das normas tributárias, competindo-lhe:"
 
 I - proceder a inspeção fiscal;
@@ -154,7 +178,8 @@ III - proceder a orientação de funcionários e contribuintes para o perfeito c
 
 IV - coordenar, dirigir e processar a apuração de responsabilidade administrativa em face de fatos irregulares ou infringentes da Lei;
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "IV - executar outras competências necessárias ao cumprimento de suas finalidade."
 
 V - coordenar, dirigir e controlar as atividades de repressão a ilícitos contra a Fazenda Estadual, fornecendo ao órgão competente os elementos necessários à promoção das ações cível e penal contra os responsáveis;
@@ -165,34 +190,40 @@ VI - executar outras competências necessárias ao cumprimento de sua finalidade
 
 Acrescido pelo art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA PROCURADORIA FISCAL
 
 Art. 8º - A Procuradoria Fiscal tem por finalidade representar judicialmente o Estado e prestar assessoramento jurídico aos órgãos da administração centralizada, em matéria fiscal, competindo-lhe:
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "Art. 8º - A Procuradoria Fiscal tem por finalidade representar judicialmente o Estado em matéria fiscal e atender as consultas de natureza tributária, competindo-lhe:"
 
 I - controlar a cobrança da dívida ativa do Estado;
 
 II - examinar os aspectos jurídico-tributários dos processos que lhe forem submetidos e opinar sobre a concessão de incentivos fiscais.
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "II - dar orientação aos órgãos estaduais e aos contribuintes para o regular cumprimento da legislação fiscal;"
 
 III - representar o Estado em matéria tributária perante o Judiciário e o Conselho da Fazenda Estadual;
 
 IV - executar outras competências necessárias ao cumprimento de sua finalidade.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DO DEPARTAMENTO DE ADMINISTRAÇÃO TRIBUTÁRIA
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "DO DEPARTAMENTO GERAL DAS RENDAS "
 
 Art. 9º - O Departamento de Administração Tributária tem por finalidade programar, coordenar, executar e avaliar as atividades de tributação, arrecadação, fiscalização e informações econômico-fiscais, competindo-lhe:
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "Art. 9º - O Departamento Geral das Rendas tem por finalidade programar, coordenar, executar e avaliar as atividades de fiscalização e arrecadação de tributos, competindo-lhe:"
 
 I - coordenar a elaboração da programação fiscal;
@@ -227,12 +258,14 @@ XII - executar outras competências necessárias ao cumprimento de sua finalidad
 
 Acrescido pelo art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DO DEPARTAMENTO DO TESOURO
 
 Art. 10 - O Departamento do Tesouro tem por finalidade planejar, programar, coordenar, executar e controlar as atividades relacionadas com a captação, guarda e distribuição dos recursos financeiros e dos serviços de dívida pública do Estado, competindo-lhe:
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "Art. 10 - O Departamento do Tesouro tem por finalidade executar os serviços da Dívida Pública do Estado, receber, guardar e controlar valores, distribuir e realizar pagamentos, competindo-lhe:"
 
 I - executar os serviços da Dívida Pública;
@@ -243,22 +276,26 @@ III - proceder à administração de títulos e valores do Estado;
 
 IV - exercer a orientação, a supervisão técnica e a fiscalização específica dos órgãos setoriais do Sistema;
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "IV - executar outras competências necessárias ao cumprimento de sua finalidade."
 
 V - exercitar outras competências necessárias ao cumprimento de sua finalidade.
 
 Acrescido pelo art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DA INSPETORIA GERAL DE FINANÇAS
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "SEÇÃO VIII - DO DEPARTAMENTO CENTRAL DE CONTABILIDADE DO ESTADO"
 
 Art. 11 - A Inspetoria Geral de Finanças tem por finalidade estabelecer diretrizes técnicas e normativas para a exata aplicação dos recursos financeiros e programar, analisar, controlar e orientar o registro e a utilização sistematizada dos atos e fatos orçamentários, financeiros e patrimoniais do Estado, competindo-lhe:
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "Art. 11 - O Departamento Central de Contabilidade do Estado tem por finalidade programar, analisar, controlar e orientar o registro e a utilização sistematizada dos atos e fatos orçamentários financeiros e patrimoniais do Estado, competindo-lhe:"
 
 I - coordenar e proceder ao controle interno da prestação de contas;
@@ -275,7 +312,8 @@ VI - coordenar e proceder a estudos analíticos dos atos e fatos orçamentários
 
 VII - elaborar relatórios, balanços e demonstrativos periódicos do Estado, em especial as contas anuais do Governador e outros relatórios que se façam necessários;
 
-Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.<br>
+Redação de acordo com o art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
+
 Redação anterior: "VII - executar outras competências necessárias ao cumprimento de sua finalidade."
 
 VIII - exercer orientação normativa, a supervisão técnica e a fiscalização específica dos órgãos setoriais do sistema;
@@ -286,7 +324,8 @@ IX - executar outras competências necessárias ao cumprimento de sua finalidade
 
 Acrescido pelo art. 1º da Lei nº 3.640, de 05 de janeiro de 1978.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DO CONSELHO DA FAZENDA ESTADUAL
 
 Art. 12 - O Conselho da Fazenda Estadual tem por finalidade resolver questões oriundas da interpelação e aplicação de leis e regulamentos fiscais, tributários e contábeis, em nível administrativo, competindo-lhe:
@@ -297,7 +336,8 @@ II - proceder ao julgamento originário de processos de restrição;
 
 III - executar outras competências necessárias ao cumprimento de sua finalidade.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 13 - As citações ou modificações em feitos que envolvam interesse tributário recairão na pessoa do Diretor da Procuradoria Fiscal.
@@ -330,4 +370,4 @@ Governador
 
 Luís Antonio Sande de Oliveira
 
-<table style="border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 317.0pt; border: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" colspan="3" valign="top" width="423"><p class="Tabela-Texto">ANEXO I</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto"><strong>CARGOS</strong></p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto"><strong>Símbolo</strong></p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto"><strong>Quantidade</strong></p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">SECRETARIA DA FAZENDA</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">&nbsp;</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">&nbsp;</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Chefe de Gabinete</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">3-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Assessor-Chefe</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">3-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Diretor de Departamento</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">3-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">3</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Diretor da Procuradoria Fiscal</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">3-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Presidente do Conselho da Fazenda Estadual</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">3-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Diretor de Serviço</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">5-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">6</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Diretor de Divisão</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">5-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">2</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Coordenador</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">4-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">5</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Assessor</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">4-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">4</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Assessor</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">6-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">5</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="265"><p class="Tabela-Texto">Oficial de Gabinete</p></td><td style="width: 49.65pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="66"><p class="Tabela-Texto">10-C</p></td><td style="width: 68.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="92"><p class="Tabela-Texto">1</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> ANEXO I </td></tr><tr><td valign="top"> **CARGOS** </td><td valign="top"> **Símbolo** </td><td valign="top"> **Quantidade** </td></tr><tr><td valign="top"> SECRETARIA DA FAZENDA </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Chefe de Gabinete </td><td valign="top"> 3-C </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Assessor-Chefe </td><td valign="top"> 3-C </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Diretor de Departamento </td><td valign="top"> 3-C </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Diretor da Procuradoria Fiscal </td><td valign="top"> 3-C </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Presidente do Conselho da Fazenda Estadual </td><td valign="top"> 3-C </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Diretor de Serviço </td><td valign="top"> 5-C </td><td valign="top"> 6 </td></tr><tr><td valign="top"> Diretor de Divisão </td><td valign="top"> 5-C </td><td valign="top"> 2 </td></tr><tr><td valign="top"> Coordenador </td><td valign="top"> 4-C </td><td valign="top"> 5 </td></tr><tr><td valign="top"> Assessor </td><td valign="top"> 4-C </td><td valign="top"> 4 </td></tr><tr><td valign="top"> Assessor </td><td valign="top"> 6-C </td><td valign="top"> 5 </td></tr><tr><td valign="top"> Oficial de Gabinete </td><td valign="top"> 10-C </td><td valign="top"> 1 </td></tr></tbody></table>

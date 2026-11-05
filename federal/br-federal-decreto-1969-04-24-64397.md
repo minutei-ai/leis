@@ -1,5 +1,3 @@
-###DEC-064397-0-000-24-04-1969@@@
-
 Decreto Nº 64.397, DE 24 DE ABRIL DE 1969.
 
 Aprova currículo de Curso de Relações Públicas.

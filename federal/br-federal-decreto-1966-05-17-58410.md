@@ -1,5 +1,3 @@
-###DEC-058410-0-000-17-05-1966@@@
-
 DECRETO Nº 58.410, DE 17 DE MAIO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Centrais Elétricas de Minas Gerais S.A. as áreas de terra e benfeitorias que menciona.

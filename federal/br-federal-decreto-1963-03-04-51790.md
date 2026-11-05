@@ -1,5 +1,3 @@
-###DEC-051790-0-000-04-03-1963@@@
-
 Decreto nº 51.790, de 04 de MARÇO de 1963.
 
 Outorga à Prefeitura Municipal de Itanhém concessão para distribuir energia elétrica no município de Itanhém, no Estado da Bahia.

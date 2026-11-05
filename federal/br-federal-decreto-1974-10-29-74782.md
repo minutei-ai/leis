@@ -1,5 +1,3 @@
-###DEC-074782-0-000-29-10-1974@@@
-
 DECRETO Nº 74.782, DE 29 DE OUTUBRO DE 1974.
 
 Autoriza funcionamento da Faculdade de Ciências Jurídicas de Campo Grande, mantida pela Associação de Ensino de Campo Grande com sede na cidade do Rio Janeiro, Estado da Guanabara.

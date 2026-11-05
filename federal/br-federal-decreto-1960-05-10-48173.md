@@ -1,5 +1,3 @@
-###DEC-048173-0-000-10-05-1960@@@
-
 DECRETO Nº 48.173, DE 10 DE MAIO DE 1960.
 
 Renova o decreto nº 42.776, de 9 de dezembro de 1957.

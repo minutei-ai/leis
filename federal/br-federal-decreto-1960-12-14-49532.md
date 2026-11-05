@@ -1,5 +1,3 @@
-###DEC-049532-0-000-14-12-1960@@@
-
 DECRETO Nº 49.532, DE 14 DE dezEMBRO DE 1960.
 
 Altera o Decreto nº 47.693, de 20 de janeiro de 1960.

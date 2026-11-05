@@ -1,5 +1,3 @@
-###DEL-005425-0-000-27-04-1943@@@
-
 DECRETO‑LEI N. 5.425 – DE 27 DE ABRIL DE 1943
 
 Modifica o quadro de distribuição dos agentes fiscais do imposto de consumo

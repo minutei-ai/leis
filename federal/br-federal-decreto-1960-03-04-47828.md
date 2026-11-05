@@ -1,5 +1,3 @@
-###DEC-047828-0-000-04-03-1960@@@
-
 DECRETO Nº 47.828, DE 4 DE MARÇO DE 1960.
 
 Autoriza estrangeiro a adquirir, em revigoração de aforamento, o domínio útil do terreno de acrescido de marinha que menciona, no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-004042-0-000-03-12-2001@@@
-
 DECRETO Nº 4.042, DE 3 DE DEZEMBRO DE 2001.
 
 Dispõe sobre a execução do Trigésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 20 de julho de 2001.

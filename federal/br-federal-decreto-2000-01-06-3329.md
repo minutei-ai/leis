@@ -1,5 +1,3 @@
-###DEC-003329-0-000-06-01-2000@@@
-
 DECRETO Nº 3.329, DE 6 DE JANEIRO DE 2000.
 
 Reconhece a nulidade do ato que menciona.

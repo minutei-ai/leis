@@ -1,5 +1,3 @@
-###DEC-081311-0-000-08-02-1978@@@
-
 Decreto nº 81.311, de 8 de fevereiro de 1978.
 
 Aprova o regulamento do departamento de Ensino e Pesquisa, do Ministério do Exército e dá outras providências.

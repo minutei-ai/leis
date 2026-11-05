@@ -1,5 +1,3 @@
-###DEC-046496-0-000-20-07-1959@@@
-
 DECRETO Nº 46.496, DE 20 DE JULHO DE 1959.
 
 Autoriza o cidadão brasileiro Oscar Rufino de Oliveira a pesquisar caulim, no município e Estado de São Paulo.

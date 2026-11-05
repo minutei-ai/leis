@@ -1,5 +1,3 @@
-###DEC-093631-0-000-01-12-1986@@@
-
 DECRETO Nº 93.631, DE 1º DE DEZEMBRO DE 1986
 
 Altera o artigo 1º do Decreto nº 92.341, de 28 de janeiro de 1986, que autorizou o funcionamento da Faculdade de Engenharia de Poços de Caldas.

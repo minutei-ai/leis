@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0aa294c7-1a84-46da-a297-014f46d7548b/texto#nowhere)
 
-###LCP-000044-0-000-07-12-1983@@@
-
 # LEI COMPLEMENTAR Nº 44, DE 7 DE DEZEMBRO DE 1983
 
 Altera o Decreto-lei nº 406, de 31 de dezembro de 1968, que estabelece normas gerais de Direito tributário, e dá outras providências.

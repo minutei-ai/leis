@@ -1,7 +1,3 @@
-1
-
-###DEC-002030-0-000-11-10-1996@@@
-
 DECRETO Nº 2.030, DE 11 DE OUTUBRO DE 1996
 
 Dispõe sobre a execução de serviços extraordinários de que tratam os arts. 73 e 74 da Lei n° 8.112, de 11 de dezembro de 1990.

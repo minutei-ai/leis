@@ -1,5 +1,3 @@
-###DEC-077678-0-000-25-05-1976@@@
-
 DECRETO Nº 77.678 - DE 25 DE MAIO DE 1976
 
 Concede autorização à General Conference Corporation Of Seventh - Day Adventists, para funcionar no Brasil.

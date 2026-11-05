@@ -1,5 +1,3 @@
-###DEC-082379-0-000-04-10-1978@@@
-
 Decreto nº 82.379, de 04 de outubro de 1978.
 
 Aprova o regulamento do Serviço Nacional de Informações.

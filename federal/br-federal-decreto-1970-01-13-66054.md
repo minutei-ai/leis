@@ -1,5 +1,3 @@
-###DEC-066054-0-000-13-01-1970@@@
-
 Decreto nº 66.054 - de 13 de janeiro de 1970
 
 Autoriza funcionamento da Faculdade.

@@ -1,5 +1,3 @@
-###DEC-092310-0-000-21-01-1986@@@
-
 DECRETO Nº 92.310, DE 21 DE JANEIRO DE 1986
 
 Prorroga o prazo de vigência da hora de verão, instituída pelo Decreto nº 91.698, de 27 de setembro de 1985.

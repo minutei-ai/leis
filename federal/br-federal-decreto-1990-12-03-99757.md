@@ -1,7 +1,3 @@
-1
-
-###DEC-099757-0-000-03-12-1990@@@
-
 # DECRETO N° 99.757, DE 3 DE DEZEMBRO DE 1990
 
 Retifica o Decreto n° 98.602, de 19 de dezembro de 1989, que deu nova redação ao Decreto n° 50.215, de 28 de janeiro de 1961, que promulgou a Convenção relativa ao Estatuto dos Refugiados.

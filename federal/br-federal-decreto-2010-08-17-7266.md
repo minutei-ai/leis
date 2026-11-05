@@ -1,5 +1,3 @@
-###DEC-007266-0-000-17-08-2010-PUB-01@@@
-
 DECRETO Nº 7.266, DE 17 DE AGOSTO DE 2010.
 
 Transfere a cumulatividade da Embaixada do Brasil em N'Djamena, na República do Chade, para a Embaixada do Brasil em Iaundê.

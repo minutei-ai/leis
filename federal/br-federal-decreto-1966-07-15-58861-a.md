@@ -1,5 +1,3 @@
-###DEC-058861-A-000-15-07-1966@@@
-
 DECRETO Nº 58.861-A, DE 15 DE JULHO DE 1966.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$1.500.000, para o fim que especifica.

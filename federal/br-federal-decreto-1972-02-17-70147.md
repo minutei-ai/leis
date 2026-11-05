@@ -1,5 +1,3 @@
-###DEC-070147-0-000-17-02-1972@@@
-
 Decreto Nº 70.147, DE 17 DE FEVEREIRO DE 1972.
 
 Revoga o parágrafo único do artigo 8º do Decreto nº 69.721, de 9 de dezembro de 1971.

@@ -1,10 +1,9 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=147367)
-
 # LEI COMPLEMENTAR Nº 1.084, DE 17 DE DEZEMBRO DE 2008
 
 ### _Transforma Cargos da Parte Permanente do Quadro do Ministério Público do Estado_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
 **Artigo 1º -** Ficam transformados em cargos de Promotor de Justiça Auxiliar de Entrância Final, da Parte Permanente do Quadro de Pessoal do Ministério Público do Estado de São Paulo, 40 (quarenta) dos 121 (cento e vinte e um) cargos de Promotor de Justiça classificados em entrância final, referência VI, criados pelo artigo 3°, inciso I, da [Lei Complementar nº 981, de 21 de dezembro de 2005](http://www.al.sp.gov.br/norma?id=59546).
@@ -17,12 +16,20 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei c
 
 **Artigo 3º -** Esta lei complementar entra em vigor na data de sua publicação.
 
-Palácio dos Bandeirantes, aos 17 de dezembro de 2008.<br>
-José Serra<br>
-Mauro Ricardo Machado Costa<br>
-Secretário da Fazenda<br>
-Francisco Vidal Luna<br>
-Secretário de Economia e Planejamento<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+Palácio dos Bandeirantes, aos 17 de dezembro de 2008.
+
+José Serra
+
+Mauro Ricardo Machado Costa
+
+Secretário da Fazenda
+
+Francisco Vidal Luna
+
+Secretário de Economia e Planejamento
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 17 de dezembro de 2008.

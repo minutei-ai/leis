@@ -1,5 +1,3 @@
-###DEC-091416-0-000-09-07-1985@@@
-
 Decreto nº 91.416, de 09 de julho de 1985
 
 Declara de ocupação dos indígenas, área de terras no Estado de Rondônia, e dá outras providências.

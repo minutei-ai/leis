@@ -1,5 +1,3 @@
-###DEL-006235-0-000-02-02-1944@@@
-
 DECRETO-LEI N. 6.235 – DE 2 DE FEVEREIRO DE 1944
 
 Transforma, no Quadro Permanente do Ministério da Agricultura, o cargo isolado, de provimento em comissão, padrão O, de Diretor ( I. Ec. A. ), no cargo isolado de provimento em comissão, padrão 0, de Diretor do Instituto de Ecologia e Experimentação Agrícolas

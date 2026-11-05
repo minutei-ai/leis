@@ -1,5 +1,3 @@
-###DEC-046388-0-000-07-07-1959@@@b
-
 DECRETO Nº 46.388, DE 7 DE JULHO DE 1959.
 
 Autoriza a execução de trabalhos para colonização ao longo de eixos rodoviários.

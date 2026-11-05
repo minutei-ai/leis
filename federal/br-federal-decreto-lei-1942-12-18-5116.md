@@ -1,5 +1,3 @@
-###DEL-005116-0-000-18-12-1942@@@
-
 DECRETO-LEI N. 5.116 – DE 18 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Viação a Obras Públicas o crédito suplementar de Cr$ 10.000,00 à verba que especifica

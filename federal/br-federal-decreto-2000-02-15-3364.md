@@ -1,5 +1,3 @@
-###DEC-003364-0-000-15-02-2000@@@
-
 DECRETO Nº 3.364, DE 15 DE FEVEreiRO DE 2000.
 
 Dispõe sobre o Comitê Nacional da Qualidade e Produtividade.

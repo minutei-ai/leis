@@ -1,5 +1,3 @@
-###DEL-001160-0-000-17-03-1971@@@
-
 # DECRETO-LEI Nº 1.160, DE 17 DE MARÇO DE 1971
 
 Dispõe sôbre a concessão de isenção de impôsto de importação a bens e equipamentos destinados à pesquisa científica e dá outras providências.

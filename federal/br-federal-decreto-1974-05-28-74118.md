@@ -1,5 +1,3 @@
-###DEC-074118-0-000-28-05-1974@@@
-
 DECRETO Nº 74.118, DE 28 DE MAIO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Educação Osório Campos, mantida pela Sociedade Educacional Campos Salgado com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

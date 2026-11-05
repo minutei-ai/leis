@@ -1,32 +1,30 @@
-###DEC-035428-0-000-29-04-1954@@@
+**DECRETO Nº 35.428, DE 29 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.428, DE 29 DE ABRIL DE 1954.</strong>
+***Aprova o Regimento - Padrão das Delegacias Fiscais do Tesouro Nacional.***
 
-<em><strong>Aprova o Regimento - Padrão das Delegacias Fiscais do Tesouro Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento Padrão das Delegacias Fiscais do Tesouro Nacional, que com êste baixa, assinado pelo Ministro da Fazenda.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento Padrão das Delegacias Fiscais do Tesouro Nacional, que com êste baixa, assinado pelo Ministro da Fazenda.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 29de abril de 1954;133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Oswaldo Aranha
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE DAS DELEGACIAS E DE SUA CLASSIFICAÇÃO</em>
+*DA FINALIDADE DAS DELEGACIAS E DE SUA CLASSIFICAÇÃO*
 
-<strong>Art</strong>. 1º As Delegacias Fiscais do Tesouro Nacional, sediadas nas Capitais dos Estados, têm por finalidade superintender e executar os serviços fazendários federais em cada unidade da Federação, dentro dos limites traçados na legislação vigente.
+**Art**. 1º As Delegacias Fiscais do Tesouro Nacional, sediadas nas Capitais dos Estados, têm por finalidade superintender e executar os serviços fazendários federais em cada unidade da Federação, dentro dos limites traçados na legislação vigente.
 
-<strong>Art</strong>. 2º As Delegacias Fiscais são divididas em três classes.
+**Art**. 2º As Delegacias Fiscais são divididas em três classes.
 
 § 1º São de 1ª classe as dos Estados de São Paulo, Minas Gerais e Rio Grande do Sul.
 
@@ -34,13 +32,13 @@ Oswaldo Aranha
 
 § 3º São de 3ª classe as dos Estados de Santa Catarina, Maranhão, Piauí, Rio Grande do Norte, Paraíba, Alagoas, Sergipe, Espírito Santo, Goiás e Mato Grosso.
 
-<strong>Art</strong>. 3º A jurisdição da Delegacia Fiscal no Amazonas se estende aos Territórios Federais do Acre, Guaporé e Rio Branco; a da Delegacia Fiscal no Pará, ao Território Federal do Amapá; a da Delegacia Fiscal em Pernambuco, ao Território Federal de Fernando de Noronha.
+**Art**. 3º A jurisdição da Delegacia Fiscal no Amazonas se estende aos Territórios Federais do Acre, Guaporé e Rio Branco; a da Delegacia Fiscal no Pará, ao Território Federal do Amapá; a da Delegacia Fiscal em Pernambuco, ao Território Federal de Fernando de Noronha.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 4º As Delegacias Fiscais de 1ª classe compreendem:
+**Art**. 4º As Delegacias Fiscais de 1ª classe compreendem:
 
 I - Serviço de Contrôle e Pagamento (S.C.P.):
 
@@ -80,7 +78,7 @@ II - Turma de Assistência Social (T.A.S.).
 
 § 3º À Delegacia Fiscal em São Paulo é subordinada a Recebedoria Federal em São Paulo.
 
-<strong>Art</strong>. 5º As Delegacias Fiscais de 2ª e 3ª classes compreendem:
+**Art**. 5º As Delegacias Fiscais de 2ª e 3ª classes compreendem:
 
 I -Seção de Contrôle e Pagamento (S.C.P.):
 
@@ -112,25 +110,25 @@ e) Portaria (P.).
 
 Parágrafo único. Nas Delegacias de 2ª e 3ª classes haverá uma Seção Regional de Coletorias, estruturada nos têrmos da Lei nº 1.293, de 27 de dezembro de 1950.
 
-<strong>Art</strong>. 6º Em cada Delegacia haverá, ainda, um Serviço de Obrigações de Guerra, nos têrmos da Lei nº 6.682, de 13 de julho de 1944.
+**Art**. 6º Em cada Delegacia haverá, ainda, um Serviço de Obrigações de Guerra, nos têrmos da Lei nº 6.682, de 13 de julho de 1944.
 
-<strong>Art</strong>. 7º Cada Delegacia será dirigida por um Delegado Fiscal designado pelo Presidente da República.
+**Art**. 7º Cada Delegacia será dirigida por um Delegado Fiscal designado pelo Presidente da República.
 
-<strong>Art</strong>. 8º O Delegado Fiscal terá um Secretário.
+**Art**. 8º O Delegado Fiscal terá um Secretário.
 
 Parágrafo único. Nas Delegacias de 1ª e 2ª classes o Delegado terá, também, um Assistente.
 
-<strong>Art</strong>. 9º As funções de chefia, em cada Delegacia, serão providas por designação do respectivo Delegado Fiscal, salvo nos casos em que a lei dispuser de outra forma.
+**Art**. 9º As funções de chefia, em cada Delegacia, serão providas por designação do respectivo Delegado Fiscal, salvo nos casos em que a lei dispuser de outra forma.
 
 § 1º Os chefes dos Serviços e Seções Regionais de Coletorias, nos têrmos do art. 7º da Lei nº 1.293, de 27 de dezembro de 1950, serão Coletores ou Escrivães de Coletoria, designados pelo Diretor Geral da Fazenda Nacional, mediante proposta dos respectivos Delegados Fiscais à Diretoria das Rendas Internas.
 
 § 2º O Chefe do Serviço de Obrigações de Guerra, em cada Delegacia, nos têrmos do art. 3º do Decreto-lei nº 6.682, de 13 de julho de 1944, será designado pelo Diretor da Caixa de Amortização, mediante proposta do respectivo Delegado Fiscal.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 10. Ao Serviço ou Seção de Contrôle e Pagamento compete:
+**Art**. 10. Ao Serviço ou Seção de Contrôle e Pagamento compete:
 
 I - superintender o serviço de despêsa da União na área de jurisdição da Delegacia, ressalvadas as exceções legais;
 
@@ -166,11 +164,11 @@ XVI - organizar e manter atualizada a ficha financeira de todos aquêles que per
 
 XVII - desincumbir-se de todos os serviços de preparação ou autenticação de documentos e apuração automática de dados estatísticos e contábeis por meio do equipamento mecânico de que fôr provido.
 
-<strong>Art</strong>. 11. Ao Serviço ou Seção Regional de Coletorias compete, de acôrdo com a Lei nº 1.293, de 27 de dezembro de 1950, superintender, orientar, controlar e inspecionar, no território correspondente à jurisdição da Delegacia, a arrecadação e outros atos praticados pelas Coletorias, incumbindo-lhes, também, as tomadas de contas dos exatores.
+**Art**. 11. Ao Serviço ou Seção Regional de Coletorias compete, de acôrdo com a Lei nº 1.293, de 27 de dezembro de 1950, superintender, orientar, controlar e inspecionar, no território correspondente à jurisdição da Delegacia, a arrecadação e outros atos praticados pelas Coletorias, incumbindo-lhes, também, as tomadas de contas dos exatores.
 
-<strong>Art</strong>.. 12. Ao Serviço de Obrigações de Guerra compete, nos têrmos do Decreto-lei nº 6.682, de 13 de julho de 1944, executar todos os trabalhos relativos ao empréstimo de que trata o Decreto-lei nº 4.789, de 5 de outubro de 1942, enquanto perdurar, e bem como os relativos à dívida pública interna de modo geral, de acôrodo com as instruções emanadas da Caixa de Amortização.
+**Art**.. 12. Ao Serviço de Obrigações de Guerra compete, nos têrmos do Decreto-lei nº 6.682, de 13 de julho de 1944, executar todos os trabalhos relativos ao empréstimo de que trata o Decreto-lei nº 4.789, de 5 de outubro de 1942, enquanto perdurar, e bem como os relativos à dívida pública interna de modo geral, de acôrodo com as instruções emanadas da Caixa de Amortização.
 
-<strong>Art</strong>. 13. Ao Serviço ou Seção de Estudos e Fiscalização compete:
+**Art**. 13. Ao Serviço ou Seção de Estudos e Fiscalização compete:
 
 I - preparar os processos e fazer o exame moral e aritmético das guias de receita em virtude das quais tenham de ser recolhidos quaisquer valores ou dinheiros aos cofres públicos, lançando as necessárias classificações, antes de submetidas ao visto da Contadoria Seccional;
 
@@ -194,9 +192,9 @@ X - preparar os processos de contratos, ajustes, acôrdos e outros que interessa
 
 XI - examinar a habilitação dos pretendentes à concessão de licença para a venda de sêlos e à expedição de cartas patentes para a venda de mercadorias e imóveis e de distribuição de prêmios mediante sorteio.
 
-<strong>Art</strong>. 14. À Tesouraria compete as atribuições prevista no Regimento-Padrão das tesourarias dos serviços públicos, aprovado pelo Decreto número 8.740, de 11 de fevereiro de 1942, modificado pelos Decretos ns. 12.571, de 15 de junho de 1943, e 21.948, de 14 de outubro de 1946.
+**Art**. 14. À Tesouraria compete as atribuições prevista no Regimento-Padrão das tesourarias dos serviços públicos, aprovado pelo Decreto número 8.740, de 11 de fevereiro de 1942, modificado pelos Decretos ns. 12.571, de 15 de junho de 1943, e 21.948, de 14 de outubro de 1946.
 
-<strong>Art</strong>. 15. À Procuradoria da Fazenda Federal compete:
+**Art**. 15. À Procuradoria da Fazenda Federal compete:
 
 I - emitir parecer sôbre matéria jurídica nos processos em que fôr solicitada sua audiência pelo Delegado Fiscal;
 
@@ -210,13 +208,13 @@ V - representar a Fazenda nos casos estabelecidos em lei, ou mediante a competen
 
 VI - apurar a liquidez e certeza da dívida ativa da União, inscrevê-la, e autenticar as respectivas certidões para fins de cobrança judicial.
 
-<strong>Art</strong>. 16. Ao Serviço ou Seção de Administração compete executar os trabalhos relativos à administração de pessoal, material, orçamento, comunicações e quaisquer outras atividades de administração geral que se fizerem necessárias ao cumprimento das atribuições da Delegacia, cumprindo-lhe velar pela observância das normas prescritas pelos órgãos centrais de administração geral do Ministério.
+**Art**. 16. Ao Serviço ou Seção de Administração compete executar os trabalhos relativos à administração de pessoal, material, orçamento, comunicações e quaisquer outras atividades de administração geral que se fizerem necessárias ao cumprimento das atribuições da Delegacia, cumprindo-lhe velar pela observância das normas prescritas pelos órgãos centrais de administração geral do Ministério.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 17. Ao Delegado Fiscal incumbe:
+**Art**. 17. Ao Delegado Fiscal incumbe:
 
 I - inspecionar as repartições fazendárias federais existentes na área sob jurisdição da Delegacia, sanando as irregularidades encontradas, promovendo a apuração das responsabilidades que couberem e solicitando ao Diretor-Geral da Fazenda Nacional as providências que excederem à sua competência;
 
@@ -266,7 +264,7 @@ XIII - distribuir aos Agentes Fiscais do Impôsto de Consumo para os serviços d
 
 XXIV - localizar os auxiliares de Coletorias.
 
-<strong>Art</strong>. 18. Ao Assistente incumbe:
+**Art**. 18. Ao Assistente incumbe:
 
 I - coopera no estudo dos assuntos dependentes de deliberação do Delegado Fiscal;
 
@@ -274,7 +272,7 @@ II - colaborar no preparo do relatório anual do Delegado Fiscal;
 
 III - substituir o Delegado Fiscal em suas faltas ou impedimentos até 30 dias.
 
-<strong>Art</strong>. 19. Ao Secretário do Delegado Fiscal incumbe:
+**Art**. 19. Ao Secretário do Delegado Fiscal incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Delegado Fiscal, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -284,7 +282,7 @@ III - redigir a correspondência do Delegado Fiscal;
 
 IV - manter atualizado o contrôle dos papéis que forem a despacho ou estudo do Delegado Fiscal.
 
-<strong>Art</strong>. 20. A cada Chefe de Serviço incumbe:
+**Art**. 20. A cada Chefe de Serviço incumbe:
 
 I - orientar, coordenar e controlar a execução dos trabalhos afetos ao Serviço;
 
@@ -306,7 +304,7 @@ IX - baixar instruções de serviço;
 
 X - apresentar, anualmente, ao Delegado Fiscal, um relatório sôbre as atividades do Serviço.
 
-<strong>Art</strong>. 21. A cada Chefe de Seção incumbe:
+**Art**. 21. A cada Chefe de Seção incumbe:
 
 I - orientar e fiscalizar a execução dos serviços, manter coordenação entre os elementos componentes da Seção e determinar as normas e métodos de trabalho que se fizerem aconselháveis;
 
@@ -326,25 +324,25 @@ VIII - zelar pela disciplina no recinto da Seção.
 
 Parágrafo único. Aos Chefes de Seção, nas Delegacias de 2ª e 3ª classes, incumbem as atribuições previstas no artigo anterior para os Chefes de Serviço, no que couber.
 
-<strong>Art</strong>. 22. Aos Chefes de Turma incumbe:
+**Art**. 22. Aos Chefes de Turma incumbe:
 
 I - distribuir aos servidores, seus subordinados, os trabalhos a realizar;
 
 II - executar os serviços que lhe forem distribuídos pelo Chefe da respectiva Seção.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 22. - O horário normal de trabalho será fixado pelo Diretor-Geral da Fazenda Nacional, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 22. - O horário normal de trabalho será fixado pelo Diretor-Geral da Fazenda Nacional, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
 Parágrafo único. O Delegado Fiscal, o Assistente e o Procurador da Fazenda Federal não ficam sujeitos a ponto, observado o disposto no artigo 5º da Lei nº 2.188, de 3 de março de1954.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 3º Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30dias:
+**Art**. 3º Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30dias:
 
 a) o Delegado Fiscal pelo Assistente, nas Delegacias de 1ª e 2ª classe, e, por um Chefe de Serviço ou Seção, de sua indicação, designado pelo Diretor-Geral da Fazenda Nacional, nas demais Delegacias;
 
@@ -354,18 +352,18 @@ c) o Chefe de Seção por um servidor, designado pelo Delegado Fiscal, por indic
 
 Parágrafo Único. Haverá, sempre, servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 24 Cada Seção deverá manter atualizados regulamentos, circulares, portarias, ordens e instruções de serviço que digam respeito às atividades específicas da mesma.
+**Art**. 24 Cada Seção deverá manter atualizados regulamentos, circulares, portarias, ordens e instruções de serviço que digam respeito às atividades específicas da mesma.
 
-<strong>Art</strong>. 25 Nenhum servidor poderá fazer publicações e conferência ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades da Delegacia Fiscal, sem autorização escrita do Delegado Fiscal.
+**Art**. 25 Nenhum servidor poderá fazer publicações e conferência ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades da Delegacia Fiscal, sem autorização escrita do Delegado Fiscal.
 
-<strong>Art</strong>. 26 As atribuições dos órgãos das Delegacias Fiscais que não tenham sido definidas discriminadamente neste Regimento, sê-lo-ão mediante ato do Diretor-Geral da Fazenda Nacional, dentro dos limites de competência estabelecido no seu Capítulo III.
+**Art**. 26 As atribuições dos órgãos das Delegacias Fiscais que não tenham sido definidas discriminadamente neste Regimento, sê-lo-ão mediante ato do Diretor-Geral da Fazenda Nacional, dentro dos limites de competência estabelecido no seu Capítulo III.
 
-<strong>Art</strong>. 27 Os casos omissos neste Regimento serão resolvidos pelo Ministro da Fazenda, por proposta do Diretor-Geral da Fazenda Nacional.
+**Art**. 27 Os casos omissos neste Regimento serão resolvidos pelo Ministro da Fazenda, por proposta do Diretor-Geral da Fazenda Nacional.
 
 Rio de Janeiro, em 29 de abril de 1954.
 
-<strong>OSVALDO ARANHA</strong>
+**OSVALDO ARANHA**

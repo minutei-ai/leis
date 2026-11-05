@@ -1,5 +1,3 @@
-###DEC-087409-0-000-16-07-1982@@@
-
 Decreto nº 87.409, de 16 de julho de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel denominado "Chapecozinho II", situado nos Municípios de Faxinal dos Guedes e Xanxerê, no Estado de Santa Catarina, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de outubro de 1976 e 84.969, de 28 de julho de 1980.

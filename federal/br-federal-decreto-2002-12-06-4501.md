@@ -1,5 +1,3 @@
-###DEC-004501-0-000-06-12-2002@@@
-
 DECRETO N. 4.501 – DE 6 DE DEZEMBRO DE 2002
 
 Regulamenta o art. 5º da Lei nº 10.539, de 23 de setembro de 2002, que trata da cessão de servidor público federal para fundação internacional de que o Brasil seja integrante ou participe; e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081940-0-000-11-07-1978@@@
-
 Decreto nº 81.940, de 11 de julho de 1978.
 
 Concede à Indústria de Argilas Comerciais S. A. o direito de lavrar argila no Município de Várzea Grande, Estado do Mato Grosso.

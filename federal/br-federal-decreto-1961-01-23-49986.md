@@ -1,5 +1,3 @@
-###DEC-049986-0-000-23-01-1961@@@
-
 DECRETO Nº 49.986, DE 23 DE JANEIRO DE 1961.
 
 Revoga o Decreto nº 41.601, de 29 de maio de 1957.

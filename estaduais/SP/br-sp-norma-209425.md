@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209425)<br>
-
 # LEI N° 17.940, DE 13 DE MAIO DE 2024
 
 ## (Projeto de lei n° 290/2022, do Deputado Campos Machado - AVANTE)

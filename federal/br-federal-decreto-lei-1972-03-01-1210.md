@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9e399d5b-2bae-40a1-946d-10613916137f/texto#nowhere)
 
-###DEL-001210-0-000-01-03-1972@@@
-
 # DECRETO-LEI Nº 1.210, DE 1º DE MARÇO DE 1972
 
 Concede aumento de vencimentos aos funcionários dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal e dá outras providências.

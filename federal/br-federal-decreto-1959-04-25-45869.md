@@ -1,5 +1,3 @@
-###DEC-045869-0-000-25-04-1959@@@
-
 DECRETO Nº 45.869, DE 25 DE ABRIL DE 1959.
 
 Altera o Regulamento do Gabinete do Ministro da Aeronáutica.

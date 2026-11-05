@@ -1,5 +1,3 @@
-###DEC-069991-0-000-20-01-1972@@@
-
 DECRETO Nº 69.991, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Serviço de Obras Sociais - S.O.S., com sede em Araraquara, Estado de São Paulo.

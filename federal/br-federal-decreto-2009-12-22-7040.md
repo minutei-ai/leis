@@ -1,5 +1,3 @@
-###DEC-007040-0-000-22-12-2009@@@
-
 DECRETO Nº 7.040, DE 22 DE DEZEMBRO DE 2009.
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da República Bolivariana da Venezuela no Campo da Cooperação Científica e Tecnológica, firmado em Caracas, em 14 de fevereiro de 2005.

@@ -1,5 +1,3 @@
-###DEC-088200-0-000-25-03-1983@@@
-
 Decreto nº 88.200, de 25 de março de 1983
 
 Declara de utilidade pública, para fins de desapropriação, os terrenos e benfeitorias que menciona, situados no Município de Petrópolis, no Estado do Rio de Janeiro.

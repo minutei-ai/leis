@@ -1,5 +1,3 @@
-###DEC-057200-0-000-09-11-1965@@@
-
 DECRETO Nº 57.200, DE 9 DE NOVEMBRO DE 1965.
 
 Autoriza Marcelo Fernandes da Silva, a comprar pedras preciosas.

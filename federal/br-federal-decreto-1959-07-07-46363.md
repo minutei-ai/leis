@@ -1,5 +1,3 @@
-###DEC-046363-0-000-07-07-1959@@@
-
 DECRETO Nº 46.363, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias ao desenvolvimento do cultivo de forrageira, especialmente a algaroba no Nordeste e dá outras providências.

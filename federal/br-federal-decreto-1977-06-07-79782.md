@@ -1,5 +1,3 @@
-###DEC-079782-0-000-07-06-1977@@@
-
 DECRETO N.º 79.782, DE 7 DE JUNHO DE 1977
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, necessários à construção do canteiro de obra para a fabricação de plataformas fixas de aço, situados em São Roque do Paraguaçu, Município de Maragogipe, no Estado da Bahia.
@@ -14,15 +12,209 @@ Parágrafo único - A área a que se refere este Decreto se subdivide em três �
 
 I - Área 1: envolvida por uma poligonal fechada partindo do Ponto "O" (vértice) de Coordenadas UTM 8.578.707,22N e 516.976,97 E, e de Coordenadas Geográficas Lat. = 12º51'23,55" e Long. = 38º50'36", e seguindo os azimutes verdadeiros e distâncias horizontais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">DE</span></p></td><td style="width:127.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">PARA</span></p></td><td style="width:99.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">AZ. VERD.</span></p></td><td style="width:95.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">DIST. HORIZ.</span></p></td></tr><tr><td style="width:88.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td><td style="width:127.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:99.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">62</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">06'06"</span></p></td><td style="width:95.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54,01m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">83</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">26'24"</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54,01m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">44'08"</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33,00m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">44'08"</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">95,00m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">44'08"</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44,60m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">44'08</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">108,50m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">80</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">14'08"</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24,50m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">321</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">14'08</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">119,30m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">235</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">14'08"</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150,50m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">145</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">14'08</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2,00m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">238</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">41'08"</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75,00m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">258</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">44'08</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38,00m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">44'08"</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">91,00m</span></p></td></tr><tr><td style="width:88.65pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13</span></p></td><td style="width:127.65pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td><td style="width:99.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">197</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">44'08</span></p></td><td style="width:95.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73,00m</span></p></td></tr></tbody></table>
+DE
+
+PARA
+
+AZ. VERD.
+
+DIST. HORIZ.
+
+0
+
+1
+
+62º06'06"
+
+54,01m
+
+1
+
+2
+
+83º26'24"
+
+54,01m
+
+2
+
+3
+
+38º44'08"
+
+33,00m
+
+3
+
+4
+
+60º44'08"
+
+95,00m
+
+4
+
+5
+
+43º44'08"
+
+44,60m
+
+5
+
+6
+
+58º44'08
+
+108,50m
+
+6
+
+7
+
+80º14'08"
+
+24,50m
+
+7
+
+8
+
+321º14'08
+
+119,30m
+
+8
+
+9
+
+235º14'08"
+
+150,50m
+
+9
+
+10
+
+145º14'08
+
+2,00m
+
+10
+
+11
+
+238º41'08"
+
+75,00m
+
+11
+
+12
+
+258º44'08
+
+38,00m
+
+12
+
+13
+
+200º44'08"
+
+91,00m
+
+13
+
+0
+
+197º44'08
+
+73,00m
 
 II - Área 2: indicada na planta pela área hachurada da poligonal fechada E, F, G, H, E, que partindo do Ponto "E", de Coordenadas UTM 8.579.092,00 N e 515.470,00 E, e de Coordenadas Geográficas Lat. = 12º51'11,05" e Long. = 38º51'26,75", desenvolve-se com os seguintes azimutes verdadeiros e distâncias horizontais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">DE</span></p></td><td style="width:127.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">PARA</span></p></td><td style="width:99.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">AZ. VERD.</span></p></td><td style="width:95.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">DIST. HORIZ.</span></p></td></tr><tr><td style="width:88.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:127.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">F</span></p></td><td style="width:99.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">55'</span></p></td><td style="width:95.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">524,33m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">F</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">G</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">99</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">14'</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">475,00m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">G</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">H</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">189</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">40'</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">493,89m</span></p></td></tr><tr><td style="width:88.65pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">H</span></p></td><td style="width:127.65pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:99.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">276º53'</span></p></td><td style="width:95.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">560,00m</span></p></td></tr></tbody></table>
+DE
+
+PARA
+
+AZ. VERD.
+
+DIST. HORIZ.
+
+E
+
+F
+
+18º55'
+
+524,33m
+
+F
+
+G
+
+99º14'
+
+475,00m
+
+G
+
+H
+
+189º40'
+
+493,89m
+
+H
+
+E
+
+276º53'
+
+560,00m
 
 III - Área 3: indicada na planta pela área hachurada da poligonal fechada A, B, C, D, A, que partindo do Ponto  "A", de Coordenadas UTM 8.578.790,00 N e 516.130,00 E, e de Coordenadas Geográficas Lat. = 12º51'20,87" e Long. = 38º51'04,85", desenvolve-se com os seguintes azimutes verdadeiros e distâncias horizontais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">DE</span></p></td><td style="width:127.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">PARA</span></p></td><td style="width:99.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">AZ. VERD.</span></p></td><td style="width:95.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">DIST. HORIZ.</span></p></td></tr><tr><td style="width:88.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A</span></p></td><td style="width:127.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B</span></p></td><td style="width:99.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">131</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">38'</span></p></td><td style="width:95.35pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">361,25m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">C</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">271</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">52'</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">570,09m</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">C</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">D</span></p></td><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">308</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">50'</span></p></td><td style="width:95.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">526,31m</span></p></td></tr><tr><td style="width:88.65pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">D</span></p></td><td style="width:127.65pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A</span></p></td><td style="width:99.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">º</span><span style="font-family:Arial">42'</span></p></td><td style="width:95.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">608,03m</span></p></td></tr></tbody></table>
+DE
+
+PARA
+
+AZ. VERD.
+
+DIST. HORIZ.
+
+A
+
+B
+
+131º38'
+
+361,25m
+
+B
+
+C
+
+271º52'
+
+570,09m
+
+C
+
+D
+
+308º50'
+
+526,31m
+
+D
+
+A
+
+53º42'
+
+608,03m
 
 Art. 2º - A PETROBRÁS fica autorizada a promover e executar, com recursos próprios, amigável ou judicialmente, a desapropriação ou instituição de servidão de passagem a que se refere o artigo 1º deste Decreto.
 

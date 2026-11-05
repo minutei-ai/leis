@@ -1,5 +1,3 @@
-###DEC-002382-0-000-12-11-1997@@@
-
 DECRETO N.º 2.382, DE 12 DE NOVEMBRO DE 1997
 
 Altera os arts. 1º e 2º do Regulamento da Ordem do Mérito Cultural, aprovado pelo Decreto nº 1.711, de 22 de novembro de 1995.

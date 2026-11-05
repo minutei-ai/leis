@@ -1,5 +1,3 @@
-###DEC-063950-0-000-31-12-1968@@@
-
 DECRETO Nº 63.950, DE 31 DE DEZEMBRO DE 1968.
 
 Institui a Coordenação de Relações Públicas do Ministério da Educação e Cultura.

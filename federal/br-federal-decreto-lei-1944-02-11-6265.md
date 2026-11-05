@@ -1,5 +1,3 @@
-###DEL-006265-0-000-11-02-1944@@@
-
 DECRETO-LEI N. 6.265 – DE 11 DE FEVEREIRO DE 1944
 
 Cria uma coletoria federal no município de Carmo da Cachoeira, no Estado de Minas Gerais, e dá outras providências

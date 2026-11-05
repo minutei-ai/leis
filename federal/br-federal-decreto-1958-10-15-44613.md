@@ -1,14 +1,12 @@
-###DEC-044613-0-000-15-10-1958@@@
+**DECRETO Nº 44.613, DE 15 DE OUTUBRO DE 1958.**
 
-<strong>DECRETO Nº 44.613, DE 15 DE OUTUBRO DE 1958.</strong>
+***Constitui, no Conselho Coordenador do Abastecimento, o Grupo de Estudos da Pecuária de Corte.***
 
-<em><strong>Constitui, no Conselho Coordenador do Abastecimento, o Grupo de Estudos da Pecuária de Corte.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal e tendo em vista o Decreto nº 36.521, de 2 de dezembro de 1954,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal e tendo em vista o Decreto nº 36.521, de 2 de dezembro de 1954,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica constituído no Conselho Coordenador do Abastecimento, Grupo de Estudos da Pecuária de Corte - (GEPEC) que se comporá de um representante de cada um dos seguintes órgãos e entidades:
+**Art**. 1º Fica constituído no Conselho Coordenador do Abastecimento, Grupo de Estudos da Pecuária de Corte - (GEPEC) que se comporá de um representante de cada um dos seguintes órgãos e entidades:
 
 I - Ministério da Agricultura;
 
@@ -40,7 +38,7 @@ XIII - Grupo de Trabalho de Fomento à Exportação, do Conselho Nacional do Des
 
 § 2º A direção geral do GEPEC ficará a cargo do representante do Conselho Coordenador do Abastecimento, designado pelo respectivo Secretário Geral.
 
-<strong>Art</strong>. 2º Compete ao GEPEC:
+**Art**. 2º Compete ao GEPEC:
 
 a) Supervisionar a execução do Plano Básico sôbre Pecuária de Corte, elaborado pelo Conselho Coordenador do Abastecimento;
 
@@ -52,7 +50,7 @@ d) Articular-se com os órgãos competentes dos Estados e com as entidades de cl
 
 e) Colaborar para maior eficiência das atividades govenamentais e privadas no setor da pecuária de corte, utilizando os recursos técnicos, econômicos e financeiros já existentes.
 
-<strong>Art</strong>. 3º O GEPEC será integrado pelos subgrupos abaixo:
+**Art**. 3º O GEPEC será integrado pelos subgrupos abaixo:
 
 I - Produção e Industrialização, chefiado pelo representante do Ministério da Agricultura;
 
@@ -64,11 +62,11 @@ IV - Exportação, chefiado pelo representante de Banco do Brasil S.A.;
 
 V - Assuntos Econômicos e Financeiros, chefiado pelo representante do Banco Nacional do Desenvolvimento Econômico.
 
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 15 de outubro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco Negrão de Lima
 

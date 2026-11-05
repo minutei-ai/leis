@@ -1,5 +1,3 @@
-###DEC-046459-0-000-18-07-1959@@@
-
 DECRETO Nº 46.459, de 18 de julho de 1959.
 
 Concede reconhecimento ao curso de engenharia industrial da Escola de Engenharia Industrial do Rio Grande.

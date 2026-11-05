@@ -1,5 +1,3 @@
-###DEL-005843-0-000-22-09-1943@@@
-
 DECRETO–LEI N. 5.843 – DE 22 DE SETEMBRO DE 1943
 
 Eleva os padrões de vencimento de dois cargos de Assistente, em comissão, do Conselho Nacional de Águas e Energia Elétrica

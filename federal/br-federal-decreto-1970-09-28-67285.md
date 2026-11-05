@@ -1,5 +1,3 @@
-###DEC-067285-0-000-28-09-1970@@@
-
 DECRETO Nº 67.285, DE 28 DE SETEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Educação e Cultura, cargos originários do Departamento Administrativo do Pessoal Civil (DASP).

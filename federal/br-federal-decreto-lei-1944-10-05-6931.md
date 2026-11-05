@@ -1,5 +1,3 @@
-###DEL-006931-0-000-05-10-1944@@@
-
 DECRETO-LEI N. 6.931 – DE 5 DE OUTUBRO DE 1944
 
 Abre ao Mínistério da Fazenda o crédito especial de Cr$ 9.063.083,20, para pagamento de notas de papeI-moeda

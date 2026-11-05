@@ -1,5 +1,3 @@
-###DEC-081848-0-000-26-06-1978@@@
-
 Decreto nº 81.848, de 26 de junho de 1978.
 
 Declara de utilidade pública, para fins de desapropriação pela Telecomunicações Brasileiras S.A. - TELEBRÁS, ações das sociedades exploradoras de serviços telefônicos que menciona.

@@ -1,13 +1,13 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210317)<br>
-
 # DECRETO N° 69.119, DE 09 DE DEZEMBRO DE 2024
 
 ### _Institui o Portal Integrador Estadual, denominado Portal "Facilita SP", revoga o Decreto n° 55.660, de 30 de março de 2010, e dá outras providências._
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
-#### Subseção I<br>
+#### Subseção I
+
 Do Portal "Facilita SP"
 
 **Artigo 1° -** Fica instituído o Portal Integrador Estadual, denominado Portal "Facilita SP", plataforma tecnológica de integração da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios - REDESIM, criada pela Lei federal n° 11.598, de 3 dezembro de 2007.
@@ -78,7 +78,8 @@ II - torna obrigatória a observância do disposto na Subseção II da Seção I
 
 **Parágrafo único -** O contabilista ou o responsável técnico atuará junto ao processo de registro e licenciamento utilizando a respectiva assinatura digital e manterá em seu poder o instrumento de mandato para os atos perante o módulo de licenciamento, de que trata a Seção II deste decreto, apresentando-o quando notificado.
 
-#### Subseção II<br>
+#### Subseção II
+
 Das Ações Atinentes ao Município Aderente
 
 **Artigo 8° -** A automatização da viabilidade locacional mencionada no inciso I do artigo 4° deste decreto e a sua consulta prévia dar-se-ão por meio de sistema informatizado capaz de gerar resposta de forma automática, imediata e sem intervenção humana sobre a possibilidade de se exercer determinada atividade econômica em determinado endereço.
@@ -95,10 +96,12 @@ II - o Comitê Facilita SP seja previamente cientificado, por meio de ofício.
 
 **Artigo 11 -** O Município aderente deverá fornecer os documentos e as informações pertinentes, bem como observar os requisitos técnicos para as integrações tecnológicas, conforme os manuais operacionais disponibilizados pela Junta Comercial do Estado de São Paulo para operacionalização do Portal "Facilita SP".
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Módulo de Licenciamento
 
-#### Subseção I<br>
+#### Subseção I
+
 Disposições Gerais
 
 **Artigo 12 -** O módulo de licenciamento do Portal "Facilita SP" centralizará a coleta de informações para troca de dados com os órgãos federais, estaduais e municipais responsáveis pelo processo de licenciamento e legalização de empresários e pessoas jurídicas.
@@ -139,7 +142,8 @@ VI - regulamentar padrões de funcionamento e de procedimentos do Portal "Facili
 
 **Artigo 15 -** É vedado aos órgãos e entidades responsáveis e aos Municípios aderentes instituir exigências de natureza documental ou formal, restritiva ou condicionante para a emissão de licenças e autorizações de funcionamento que excedam as suas competências legais.
 
-#### Subseção II<br>
+#### Subseção II
+
 Do Certificado de Licenciamento Integrado - CLI
 
 **Artigo 16 -** O Certificado de Licenciamento Integrado - CLI, criado pelo [Decreto n° 55.660, de 30 de março de 2010](https://www.al.sp.gov.br/norma/159296), fica reformulado nos termos deste decreto.
@@ -210,7 +214,8 @@ XV - código de barras bidimensional passível de ser escaneado (QR CODE), cuja 
 
 **Parágrafo único -** Para fins do disposto no "caput", serão admitidas as assinaturas eletrônicas avançadas, inclusive as disponibilizadas pela conta "Gov.br", ou qualificadas, nos termos dos incisos II e III do artigo 4° da Lei federal n° 14.063, de 23 de setembro de 2020, respectivamente.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Do Procedimento de Emissão de Licenças Conforme o Grau de Risco da Atividade Econômica
 
 **Artigo 24 -** A classificação do grau de risco das atividades econômicas constantes da Classificação Nacional de Atividade Econômica (CNAE) da Comissão Nacional de Classificação (CONCLA) observará o disposto na Lei n° 17.730, de 11 de abril de 2022, na [Lei n° 17.761, de 25 de setembro de 2023](https://www.al.sp.gov.br/norma/208561) e no [Decreto n° 67.979, de 25 de setembro de 2023](https://www.al.sp.gov.br/norma/208562), bem como a consolidação efetuada pelo Comitê Facilita SP, prevista no inciso II do artigo 2° do [Decreto n° 67.980, de 25 de setembro de 2023](https://www.al.sp.gov.br/norma/208563).
@@ -249,12 +254,14 @@ I - promover vistorias e fiscalizar as atividades econômicas classificadas como
 
 II - controlar os prazos estabelecidos pela legislação em vigor para a análise das solicitações de atos públicos de liberação, cujo decurso implicará a aprovação tácita da solicitação, nos termos da Lei federal n° 13.874, de 20 de setembro de 2019, e do [Decreto n° 67.979, de 25 de setembro de 2023](https://www.al.sp.gov.br/norma/208562), hipótese em que a liberação da atividade econômica deverá ser comunicada ao Portal "Facilita SP".
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Registro e Legalização do Microempreendedor Individual - MEI
 
 **Artigo 31 -** O Microempreendedor Individual - MEI, assim considerado pela Lei Complementar n° 123, de 14 de dezembro de 2006, lavrará o Termo de Ciência e Responsabilidade com Efeito de Dispensa de Alvará e Licença de Funcionamento e obterá o Certificado da Condição do Microempreendedor Individual (CCMEI) no Portal do Empreendedor, disponibilizado no portal único "gov.br", o que permitirá o exercício de suas atividades, dispensando-se a exigência do Certificado de Licenciamento Integrado.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Dos Procedimentos de Fiscalização Orientadora
 
 **Artigo 32 -** Para garantir a aplicação das normas gerais previstas no Capítulo VII da Lei Complementar n° 123, de 14 de dezembro de 2006, os órgãos e entidades responsáveis e os Municípios aderentes deverão instituir procedimentos de natureza orientadora ao microempreendedor individual, às microempresas e empresas de pequeno porte de que trata a referida lei complementar, aplicáveis se:
@@ -271,7 +278,8 @@ I - a lavratura de "Termo de Adequação de Conduta", em primeira visita, do qua
 
 II - a verificação, em segunda visita, do cumprimento da orientação referida no inciso anterior, previamente à lavratura de auto de infração ou instauração de processo administrativo para declaração da invalidade ou cassação do Certificado de Licenciamento Integrado.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Da Segurança da Informação e Proteção de Dados Pessoais
 
 **Artigo 34 -** Os dados e informações coletados pelo Portal "Facilita SP" ficarão sob a responsabilidade do Estado de São Paulo, por intermédio da Junta Comercial do Estado de São Paulo - JUCESP, que deverá garantir sua manutenção, armazenamento e segurança na forma da lei.
@@ -294,7 +302,8 @@ Da Segurança da Informação e Proteção de Dados Pessoais
 
 **§ 3° -** Os entes referidos no § 2° sujeitam-se à aplicação das sanções previstas na Lei federal n° 13.709, de 14 de agosto de 2018.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Das Disposições Finais
 
 **Artigo 36 -** Incumbe aos órgãos e entidades responsáveis e aos Municípios aderentes efetivar as integrações de sistemas já operantes com o Portal "Facilita SP", para a regular transmissão de dados e informações que trafegam entre estes.
@@ -331,7 +340,8 @@ Arthur Luis Pinho de Lima
 
 Jorge Luiz Lima
 
-#### ANEXO<br>
+#### ANEXO
+
 a que se refere o inciso II do artigo 4° do Decreto n° 69.119, de 9 de dezembro de 2024
 
 Termo de Adesão à REDESIM e ao Portal "Facilita SP"

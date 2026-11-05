@@ -1,5 +1,3 @@
-###DEC-070633-0-000-26-05-1972@@@
-
 DECRETO Nº 70.633, DE 26 DE MAIO DE 1972.
 
 Autoriza o Governo do Estado de Sergipe a encampar os bens e instalações vinculadas aos serviços públicos de energia elétrica na sede do município de Itabaiana, naquele Estado, e dá outras providências.

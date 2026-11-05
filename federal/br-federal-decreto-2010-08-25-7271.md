@@ -1,8 +1,14 @@
-###DEC-007271-0-000-25-08-2010-PUB-01@@@
-
 DECRETO Nº 7.271, DE 25 DE AGOSTO DE 2010
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:208.35pt; vertical-align:top"><p style="line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:216.85pt; vertical-align:top"><p style="line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Promulga Acordo entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia para a Isenção de Vistos de Curta Duração para Nacionais da República Federativa do Brasil e da Federação da Rússia, celebrado no Rio de Janeiro em 26 de novembro de 2008.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:208.35pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:216.85pt; vertical-align:top">
+
+Promulga Acordo entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia para a Isenção de Vistos de Curta Duração para Nacionais da República Federativa do Brasil e da Federação da Rússia, celebrado no Rio de Janeiro em 26 de novembro de 2008.
+
+</td></tr></tbody></table>
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso IV, da Constituição, e
 

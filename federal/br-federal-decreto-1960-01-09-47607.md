@@ -1,5 +1,3 @@
-###DEC-047607-0-000-09-01-1960@@@
-
 DECRETO Nº 47.607, DE 9 DE janeiro DE 1960.
 
 Revoga o Decreto nº 46.979, de 7 de outubro de 1959.

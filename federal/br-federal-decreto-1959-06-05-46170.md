@@ -1,5 +1,3 @@
-###DEC-046170-0-000-05-06-1959@@@
-
 DECRETO Nº 46.170, DE 5 DE JUNHO DE 1959.
 
 Institui um grupo de trabalho para estudar as providencias finais para o aproveitamento do Salto-Funil, no Rio Paraíba do Sul, e dá outras providencias.

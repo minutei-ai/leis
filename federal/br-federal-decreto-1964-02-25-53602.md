@@ -1,5 +1,3 @@
-###DEC-053602-0-000-25-02-1964@@@
-
 DECRETO Nº 53.602, DE 25 DE FEVEREIRO DE 1964.
 
 Autoriza o cidadão brasileiro José Pinto dos Santos a pesquisar quartzo e mica no município de Santa Maria ao Suaçuí, Estado de Minas Gerais.

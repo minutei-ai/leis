@@ -1,5 +1,3 @@
-###MPV-001711-0-000-12-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.711, DE 12 DE AGOSTO DE 1998
 
 Dispõe sobre a restituição de recursos correspondentes às contas de depósitos não recadastradas, recolhidos ou não ao Tesouro Nacional.

@@ -1,5 +1,3 @@
-###DEC-004309-0-000-22-07-2002@@@
-
 DECRETO Nº 4.309, DE 22 DE JULHO DE 2002
 
 Altera os Anexos I, II, III, IV, V, VI, VII, X, XII, XIII e XIV do Decreto n4.120, de 7 de fevereiro de 2002, e dá outras providências.

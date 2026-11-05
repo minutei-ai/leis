@@ -1,6 +1,10 @@
 > **LEI Nº 3.498, DE 13 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a proibição de cobrança de taxas pelos serviços de religação dos serviços públicos de distribuição de energia elétrica e de abastecimento de água e saneamento básico em caso de corte por falta de pagamento.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a proibição de cobrança de taxas pelos serviços de religação dos serviços públicos de distribuição de energia elétrica e de abastecimento de água e saneamento básico em caso de corte por falta de pagamento.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

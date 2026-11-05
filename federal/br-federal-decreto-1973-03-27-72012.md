@@ -1,5 +1,3 @@
-###DEC-072012-0-000-27-03-1973@@@
-
 DECRETO Nº 72.012, DE 27 DE MARÇO DE 1973.
 
 Altera o Decreto nº 71.612, de 22 de dezembro de 1972, que concedeu reconhecimento ao Curso de Engenharia Industrial e ao Curso de Engenheiros de Operação, da Faculdade de Engenharia Industrial, mantida pela Fundação de Ciências Aplicadas também de São Bernardo do Campo, São Paulo.

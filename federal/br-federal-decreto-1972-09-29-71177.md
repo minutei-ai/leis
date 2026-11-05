@@ -1,5 +1,3 @@
-###DEC-071177-0-000-29-09-1972@@@
-
 DECRETO Nº 71.177, DE 29 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Superintendência do Vale do São Francisco, uma área de terra de 5.300 hectares, aproximadamente, no Município de São Desidério, Estado da Bahia.

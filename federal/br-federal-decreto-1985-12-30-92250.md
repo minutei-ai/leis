@@ -1,5 +1,3 @@
-###DEC-092250-0-000-30-12-1985@@@
-
 Decreto nº 92.250, de 30 de dezembro de 1985
 
 Altera a composição da Comissão Nacional de Facilitação do Comércio Exterior - CONFAC.

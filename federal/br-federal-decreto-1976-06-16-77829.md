@@ -1,5 +1,3 @@
-###DEC-077829-0-000-16-06-1976@@@
-
 DECRETO Nº 77.829, DE 16 DE JUNHO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado, na "Colônia Militar de Tabatinga", no Município de Benjamin Constant, Estado do Amazonas.

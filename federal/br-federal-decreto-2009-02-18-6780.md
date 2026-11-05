@@ -1,5 +1,3 @@
-###DEC-006780-0-000-18-02-2009@@@
-
 DECRETO Nº 6.780, DE 18 DE FEVEREIRO DE 2009.
 
 Aprova a Política Nacional de Aviação Civil (PNAC) e dá outras providências.

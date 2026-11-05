@@ -1,5 +1,3 @@
-###DEC-045248-0-000-15-01-1959@@@
-
 DECRETO Nº 45.248, DE 15 DE JANEIRO DE 1959.
 
 Renova o Decreto nº 39.396, de 13 de junho de 1956.

@@ -1,5 +1,3 @@
-###DEC-087117-0-000-20-04-1982@@@
-
 Decreto nº 87.117, de 20 de abril de 1982
 
 Dispensa a licitação para a alienação da terras devolutas da União que menciona, e dá outras providências.

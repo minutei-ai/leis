@@ -1,5 +1,3 @@
-###DEC-085326-0-000-06-11-1980@@@
-
 Decreto nº 85.326, de 06 de novembro de 1980.
 
 Aprova o Regulamento para o Alto-Comando do Exército (R-189),

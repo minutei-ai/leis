@@ -1,15 +1,19 @@
 LEI Nº 3.374 DE 30 DE JANEIRO DE 1975
 
-Ver também:<br>
-Lei nº 7.146, de 27 de agosto de 1997 - Reestrutura o Sistema Policial Civil de Carreira Profissional e dá outras providências.<br>
-Lei nº 3.947, de 20 de novembro de 1981 - Transforma órgão, cria e extingue cargos, altera o enquadramento de cargos e a estrutura básica da Polícia Civil da Bahia e dá outras providências.<br>
+Ver também:
+
+Lei nº 7.146, de 27 de agosto de 1997 - Reestrutura o Sistema Policial Civil de Carreira Profissional e dá outras providências.
+
+Lei nº 3.947, de 20 de novembro de 1981 - Transforma órgão, cria e extingue cargos, altera o enquadramento de cargos e a estrutura básica da Polícia Civil da Bahia e dá outras providências.
+
 Lei nº 3.497, de 08 de julho de 1976 - Dispõe sobre a reestruturação organizacional da Secretaria da Segurança Pública e dá outras providências.
 
 Estatuto do Servidor Policial Civil.
 
 O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - O presente Estatuto regula direitos, deveres e prerrogativas dos servidores policiais civis do Estado da Bahia.
@@ -18,7 +22,8 @@ Art. 2º - Para os efeitos deste Estatuto, são servidores policiais civis aquel
 
 Parágrafo único - Incluem-se no disposto neste artigo os ocupantes de cargos em comissão ou função gratificada com atribuições e responsabilidade de natureza policial.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS DIREITOS E VANTAGENS
 
 Art. 3º - São direitos do Servidor Policial Civil todos os previstos no Estatuto dos Funcionários Civis do Estado e mais os que se seguem:
@@ -45,10 +50,14 @@ III - Auxílio-Funeral.
 
 Art. 5º - A gratificação de função policial é devida em razão da natureza do trabalho policial e dos riscos dele decorrentes e será paga até o limite de 150% (cento e cinquenta por cento) do vencimento, nas condições previstas no respectivo regulamento, observados os seguintes critérios:
 
-Ver também:<br>
-Art. 24 da Lei nº 4.613, de 27 de novembro de 1985: "Fica reduzido para 10% (dez por cento), para os cargos classificados nos níveis 1 a 5, e 20% (vinte por cento), para aqueles classificados no nível 6 do Sistema de Carreira Profissional da Polícia Civil da Bahia, o limite máximo da gratificação de Função Policial prevista no artigo 5º, da Lei nº 3.374, de 30 de janeiro de 1975, com a redação dada pelo artigo 23, da Lei nº 4.454, de 15 de maio de 1985."<br>
-Redação de acordo com o art. 23 da Lei nº 4.454, de 15 de maio de 1985.<br>
-Redação anterior de acordo com o art. 6º da Lei nº 3.947, de 20 de novembro de 1981: " Art. 5º - A Gratificação de Função Policial é devida em razão da natureza do trabalho policial e dos riscos dele decorrentes e será paga até o limite de 150% (cento e cinquenta por cento) dos vencimentos, nas condições previstas no respectivo regulamento, observado o seguinte critério:"<br>
+Ver também:
+
+Art. 24 da Lei nº 4.613, de 27 de novembro de 1985: "Fica reduzido para 10% (dez por cento), para os cargos classificados nos níveis 1 a 5, e 20% (vinte por cento), para aqueles classificados no nível 6 do Sistema de Carreira Profissional da Polícia Civil da Bahia, o limite máximo da gratificação de Função Policial prevista no artigo 5º, da Lei nº 3.374, de 30 de janeiro de 1975, com a redação dada pelo artigo 23, da Lei nº 4.454, de 15 de maio de 1985."
+
+Redação de acordo com o art. 23 da Lei nº 4.454, de 15 de maio de 1985.
+
+Redação anterior de acordo com o art. 6º da Lei nº 3.947, de 20 de novembro de 1981: " Art. 5º - A Gratificação de Função Policial é devida em razão da natureza do trabalho policial e dos riscos dele decorrentes e será paga até o limite de 150% (cento e cinquenta por cento) dos vencimentos, nas condições previstas no respectivo regulamento, observado o seguinte critério:"
+
 Redação original: "Art. 5º - A Gratificação de Função Policial é devida em razão da natureza do trabalho policial e dos riscos dele decorrentes e será paga até o limite de 125 (cento e vinte e cinco por cento) dos vencimentos, nas condições previstas no respectivo regulamento, observado o seguinte critério:"
 
 I - 90% (noventa por cento) para os titulares de cargos de provimento efetivo;
@@ -57,19 +66,24 @@ Redação de acordo com o art. 23 da Lei nº 4.454, de 15 de maio de 1985.Redaç
 
 II -de 90% (noventa por cento) a 150% (cento e cinquenta por cento) para os titulares de cargo de direção ou de assessoramento e de funções gratificadas."
 
-Redação de acordo com o art. 23 da Lei nº 4.454, de 15 de maio de 1985.<br>
-Redação anterior de acordo com o art. 6º da Lei nº 3.947, de 20 de novembro de 1981; "b) 80 a 150% para os cargos de direção ou de assessoramento e funções gratificadas."<br>
+Redação de acordo com o art. 23 da Lei nº 4.454, de 15 de maio de 1985.
+
+Redação anterior de acordo com o art. 6º da Lei nº 3.947, de 20 de novembro de 1981; "b) 80 a 150% para os cargos de direção ou de assessoramento e funções gratificadas."
+
 Redação original: "b) 70 a 125% para os cargos de direção ou de assessoramento e funções gratificadas."
 
 Parágrafo único - A percepção da Gratificação de Função Policial é inacumulável com a Gratificação por Condições Especiais de Trabalho e incompatível com o Regime de Tempo Integral.
 
-Redação de acordo com o art. 6º da Lei nº 3.947, de 20 de novembro de 1981.<br>
-Redação anterior de acordo com o art. 85 da Lei nº 3.497, de 08 de julho de 1976: "Parágrafo único - A gratificação de que trata este artigo fica incluída entre as vantagens que o § 3º do art. 140, da Lei nº 2.323, de 11 de abril de 1966, ressalvou para efeito do limite de retribuição nele referido."<br>
+Redação de acordo com o art. 6º da Lei nº 3.947, de 20 de novembro de 1981.
+
+Redação anterior de acordo com o art. 85 da Lei nº 3.497, de 08 de julho de 1976: "Parágrafo único - A gratificação de que trata este artigo fica incluída entre as vantagens que o § 3º do art. 140, da Lei nº 2.323, de 11 de abril de 1966, ressalvou para efeito do limite de retribuição nele referido."
+
 Redação original: "Art. 5º - A Gratificação de Função Policial é devida em razão da natureza do trabalho policial e dos riscos dele decorrentes e será paga até o limite de 50% (cinqüenta por cento) dos vencimentos, nas condições prescritas no respectivo regulamento."
 
 Art. 6º - A percepção da Gratificação de Função Policial é inacumulável com o Salário Noturno e a Gratificação por Condições Especiais de Trabalho e incompatível com o Regime de Tempo Integral.
 
-Redação de acordo com o art. 85 da Lei nº 3.497, de 08 de julho de 1976.<br>
+Redação de acordo com o art. 85 da Lei nº 3.497, de 08 de julho de 1976.
+
 Redação original: "Art. 6º - A percepção da gratificação da gratificação de função policial, de que trata o artigo anterior, é inacumulável com a gratificação prevista no ítem II, do artigo 12, do Decreto nº 20.013, de 27 de outubro de 1966."
 
 Art. 7º - A gratificação de função policial não poderá ser paga se o policial civil estiver afastado do exercício de suas funções específicas, exceto se estiver exercendo cargo em comissão ou função gratificada com atribuições e responsabilidades de natureza policial.
@@ -78,7 +92,8 @@ Art. 8º - Ao policial ferido ou acidentado em serviço será devida a indeniza�
 
 Art. 9º - O auxílio funeral se destina à indenização das despesas com o sepultamento do policial-civil falecido em decorrência de serviço e terá o limite de até duas (2) vezes o valor do seu vencimento-básico.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA HIERARQUIA POLICIAL
 
 Art. 10 - A função policial se fundamenta na hierarquia e na disciplina.
@@ -87,10 +102,12 @@ Art. 11 - A precedência entre os servidores policiais-civis será estabelecida 
 
 Art. 12 - Os funcionários policiais de padrão superior têm precedência hierárquica sobre os de padrão inferior.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS DEVERES E PROIBIÇÕES
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DOS DEVERES
 
 Art. 13 - O policial civil estará sujeito ao conjunto dos deveres comuns ao servidores público em geral, segundo o que prescreve o respectivo estatuto, além dos seguintes:
@@ -107,7 +124,8 @@ V - manter-se física e intelectualmente preparado para o bom desempenho do seu 
 
 VI - freqüentar, com assiduidade, para fins de aperfeiçoamento e atualização de conhecimentos profissionais, os cursos instituídos.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS PROIBIÇÕES
 
 Art. 14 - Ao Servidor Policial Civil é proibida toda ação ou omissão contrária aos seus deveres funcionais e comprometedora da dignidade do cargo, tais como:
@@ -230,10 +248,12 @@ LVIII - levar à prisão ou nela conservar quem quer que se proponha a prestar f
 
 LIX - cobrar carceragem, custas, emolumentos ou qualquer outra despesa, sem autorização legal.
 
-CAPITULO V -<br>
+CAPITULO V -
+
 DAS PENAS DISCIPLINARES E SUA APLICAÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS PENAS DISCIPLINARES
 
 Art. 15 - São penas disciplinares:
@@ -256,7 +276,8 @@ VIII - cassação de aposentadoria;
 
 IX - cassação de disponibilidade.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS REGRAS DE APLICAÇÃO
 
 Art. 16 - Na aplicação das penas disciplinares, a autoridade levará em consideração:
@@ -333,7 +354,8 @@ VII - transgressões dos itens XIV, XXIV, XXVII, LIX, LX e LXI, do artigo 14 des
 
 Art. 28 - A cassação da aposentadoria e da disponibilidade regular-se-á pela legislação em vigor.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 COMPETÊNCIA PARA IMPOSIÇÃO DE PENALIDADE
 
 Art. 29 - São competentes para aplicação das penas previstas na presente Lei:
@@ -346,7 +368,8 @@ III - Os dirigentes de repartição, no casos de advertência, repreensão e sus
 
 Art. 30 - A autoridade que punir abusivamente sujeitar-se-á ao necessário corretivo disciplinar por quem de direito.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA PRESCRIÇÃO
 
 Art. 31 - Prescreverá:
@@ -359,7 +382,8 @@ III - em 5 (cinco) anos, a falta sujeita às penas de demissão, demissão a bem
 
 Parágrafo único - Se a falta for enquadrável penalmente, prescreverá juntamente com o crime.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO REGISTRO DAS FUNÇÕES E DA REABILITAÇÃO
 
 Art. 32 - As punições aplicadas ao funcionário policial serão anotadas no respectivo prontuário e só poderão ser canceladas nas hipóteses de reabilitação previstas nos artigos seguintes.
@@ -382,19 +406,22 @@ Art. 35 - Julgando procedente o pedido de reabilitação, o Secretário da Segur
 
 Art. 36 - O cancelamento a que se refere o artigo anterior não implicará em ressarcimento de direitos ou vantagens de qualquer espécie.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA APURAÇÃO DAS TRANSGRESSÕESSINDICÂNCIA OU PROCESSO ADMINISTRATIVO
 
 Art. 37 - Dependendo da gravidade da falta, caberá à autoridade competente determinar a sua apuração através do processo sumário da sindicância ou providenciar a instauração do processo administrativo, que se subordinará às normas do Estatuto dos Funcionários Públicos Civis do Estado.
 
 Parágrafo único - A instauração do processo administrativo não exclui a possibilidade de determinar-se a abertura de inquérito policial, se o ílicito consubstanciar também infração penal.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA REVISÃO
 
 Art. 38 - É deferido ao servidor policial punido, em conseqüência de processo administrativo, o direito de pedir revisão, desde que apresente novas provas que o eximam de culpa.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 39 - Aplicam-se ao servidor aposentado, mas que, nos termos da lei, vier a ocupar cargo em comissão ou função gratificada de natureza policial, se acidentado em serviço, as disposições referentes a indenização de auxílio acidente e as referentes a pensão especial.

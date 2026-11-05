@@ -1,5 +1,3 @@
-###DEC-006007-0-000-29-12-2006@@@
-
 DECRETO Nº 6.007, DE 29 DE DEZEMBRO DE 2006.
 
 Prorroga a validade dos restos a pagar inscritos no exercício financeiro de 2005.
@@ -21,5 +19,3 @@ Brasília, 29 de dezembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 29.12.2006 - Edição extra

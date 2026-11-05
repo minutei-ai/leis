@@ -26,7 +26,8 @@ Art. 3º - A base de cálculo do imposto fixada por estimativa poderá ter funda
 
 § 1º - Para fixação da base de cálculo de acordo com este artigo, adicionar-se-á ao valor das entradas de mercadorias, acrescido das despesas que onerem o seu custo, o percentual mínimo de 20% (vinte por cento) e máximo de 50% (cinquenta por cento), observada a natureza da atividade.
 
-Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.<br>
+Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.
+
 Redação original: "§ 1º - Para fixação da base de cálculo de acordo com este artigo, ao valor das entradas de mercadorias, acrescido das despesas que onerem o custo destas, adicionar-se-á o lucro presuntivo calculado em 20% no mínimo e 50% no máximo, observada a natureza da atividade do contribuinte."
 
 § 2º - A Guia referida neste artigo poderá ser emitida uma vez ao ano, tendo características peculiares, a juízo do Secretário da Fazenda, quando o emitente for submisso ao sistema de pagamento do imposto por estimativa.
@@ -51,7 +52,8 @@ V - o lançamento ou registro de operação fictícia e a falta de emissão de d
 
 a) no valor das saídas de mercadorias, ao qual se agregará percentual não inferior de 20% (vinte por cento) nem superior de 100% (cem por cento), de acordo com a atividade do contribuinte.
 
-Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.<br>
+Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.
+
 Redação original: "a) no valor das saídas de mercadorias, para adição de margem de lucro compatível com o ramo de atividade do contribuinte, não inferior de 20% nem inferior de 100%;"
 
 b) no valor das despesas gerais do estabelecimento, durante o ano, admitido como equivalente a percentual não inferior de 5% nem superior de 30% do valor das saídas das mercadorias consoante a natureza das atividades do contribuinte.
@@ -70,7 +72,8 @@ a) em relação às mercadorias que entregarem às pessoas diversas daquelas que
 
 b) em relação às mercadorias que transportarem pelo território do Estado, sem destinatário certo ou com itinerário diverso do constante do documento fiscal.
 
-Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.<br>
+Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.
+
 Redação original: "b) em relação às mercadorias provenientes de outros Estados, sem destinatário certo neste Estado;"
 
 c) em relação às mercadorias transferidas a terceiros, no território estadual, durante o transporte;
@@ -91,7 +94,8 @@ V - Os leiloeiros, síndicos, comissários e liquidantes, em relação às opera
 
 VI - os industriais, comerciantes e produtores em relação aos produtos agropecuários, na forma e nos casos estabelecidos em ato do Poder Executivo.
 
-Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.<br>
+Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.
+
 Redação original: "VI - Os comerciantes atacadistas, em relação aos produtos agrícolas adquiridos de produtores não sujeitos à inscrição, quando todos forem situados na mesma Região Fiscal."
 
 VII - Os fabricantes e comerciantes atacadistas de cigarros, fumo desfiado, picado, migado ou em pó e papel de cigarros, em relação às vendas efetuadas a comerciantes varejistas estabelecidos no Estado ou nas unidades da Federação signatárias em convênio celebrado em 10 de março de 1967, na Capital do Rio Grande do Norte.
@@ -102,7 +106,8 @@ IX - O comprador, em relação às saídas de papel usado, ferro velho, garrafas
 
 X - os fabricantes, comerciantes atacadistas e distribuidores de bebidas de qualquer natureza, inclusive refrigerantes, em relação às saídas para contribuintes deste Estado.
 
-Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.<br>
+Redação de acordo com o art. 1º da Lei nº 3.015, de 13 de junho de 1972.
+
 Redação original: "X - Os fabricantes e distribuidores de bebidas de qualquer natureza, inclusive refrigerantes, em relação às vendas efetuadas a revendedores varejistas no Estado."
 
 XI - Os moinhos de trigo, em relação às vendas efetuadas a revendedores e panificadores.
@@ -143,10 +148,14 @@ Quando a medida de ordem econômica ou social prevalecer apenas em Salvador, tom
 
 b) no preço de venda, do industrial ou atacadista, nele computados o Imposto sobre Produtos Industrializados se for o caso, e despesas acessórias, ao qual agregará percentagem não inferior de 10% (dez por cento), nem superior de 100% (cem por cento), tendo em vista a natureza da mercadoria, prevista em regulamento.
 
-Redação de acordo com o art. 3º da Lei nº 3.015, de 13 de junho de 1972.<br>
-Redação original: "Parágrafo único - Nos casos indicados nos itens VII, VIII, X, XI e XIII, fundamentar-se-á a base de cálculo:<br>
-a) no preço de venda a varejo, excluído o valor do Imposto sobre Produtos Industrializados quando as mercadorias estiverem sujeitas a preço máximo de venda a varejo, marcado pelo fabricante;<br>
-b) no preço máximo de venda, no varejo, quando este estiver fixado pelo fabricante ou em razão de medida de ordem econômica ou social;<br>
+Redação de acordo com o art. 3º da Lei nº 3.015, de 13 de junho de 1972.
+
+Redação original: "Parágrafo único - Nos casos indicados nos itens VII, VIII, X, XI e XIII, fundamentar-se-á a base de cálculo:
+
+a) no preço de venda a varejo, excluído o valor do Imposto sobre Produtos Industrializados quando as mercadorias estiverem sujeitas a preço máximo de venda a varejo, marcado pelo fabricante;
+
+b) no preço máximo de venda, no varejo, quando este estiver fixado pelo fabricante ou em razão de medida de ordem econômica ou social;
+
 c) no preço de venda, do industrial ou atacadista, nele computado o Imposto sobre Produtos Industrializados se for o caso, e despesas acessórias, ao qual se adicionará percentagem não inferior de 10% (dez por cento), nem superior de 100% (cem por cento), tendo em vista a reprodutividade da mercadoria, prevista em regulamento."
 
 Art. 10 - A responsabilidade do contribuinte substituto não exclui a do substituído, em qualquer caso, pela evasão do imposto, ficando estes solidariamente responsáveis pelo débito, sem prejuízo das penas em que incorrerem, podendo qualquer deles, individualmente, responder ao processo fiscal pertinente.

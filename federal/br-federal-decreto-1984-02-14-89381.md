@@ -1,5 +1,3 @@
-###DEC-089381-0-000-14-02-1984@@@
-
 DECRETO Nº 89.381 De 14 de fevereiro de 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói e Angra dos Reis, Estado do Rio de Janeiro; Salvador, Estado da Bahia; Recife, Ipojuca, Jaboatão e Paulista, Estado de Pernambuco e de Fortaleza, Estado do Ceará.

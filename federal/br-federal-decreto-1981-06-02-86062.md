@@ -1,5 +1,3 @@
-###DEC-086062-0-000-02-06-1981@@@
-
 DECRETO Nº 86.062, DE 02 DE JUNHO DE 1981.
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 69.907, de 7 de janeiro de 1972, as entidades de fiscalização do exercício de profissões liberais que menciona.

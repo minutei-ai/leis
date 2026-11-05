@@ -1,5 +1,3 @@
-###DEC-081435-0-000-08-03-1978@@@
-
 Decreto nº 81.435, de 08 de março de 1978.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Salvador Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Salvador, Estado da Bahia.

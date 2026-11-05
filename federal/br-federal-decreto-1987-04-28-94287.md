@@ -1,5 +1,3 @@
-###DEC-094287-0-000-28-04-1987@@@
-
 DECRETO N° 94.287, DE 28 DE ABRIL DE 1987.
 
 Fixa o termo final de implementação do "Programa Ruas em Paz" criado pelo Decreto n° 91.538, de 16 de agosto de 1985.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/161941)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2011/compilacao-lei-14516-31.08.2011.html)
 
 # LEI N° 14.516, DE 31 DE AGOSTO DE 2011
@@ -41,7 +40,8 @@
 
 ~~Secretário-Chefe da Casa Civil~~
 
-~~Publicada na Assessoria Técnico-Legislativa, aos 31 de agosto de 2011.~~<br>
+~~Publicada na Assessoria Técnico-Legislativa, aos 31 de agosto de 2011.~~
+
  
 
 ~~**retificação do D.O.E de 1°/9/2011**~~
@@ -52,8 +52,8 @@
 
 _~~Torna obrigatório o encaminhamento, por escrito, dos contratos firmados por meio de call center e formas similares aos contratante, e dá outras providências~~_
 
-<br>
-~~leia-se como segue e não como constou:~~<br>
+~~leia-se como segue e não como constou:~~
+
  
 
 ~~GERALDO ALCKMIN~~

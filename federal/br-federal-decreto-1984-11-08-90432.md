@@ -1,5 +1,3 @@
-###DEC-090432-0-000-08-11-1984@@@
-
 Decreto nº 90.432, de 08 de novembro de 1984
 
 Dispõe sobre o montante do Capital Social da LIGHT - Serviços de Eletricidade S.A.

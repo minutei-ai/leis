@@ -1,5 +1,3 @@
-###DEC-079812-0-000-14-06-1977@@@
-
 Decreto nº 79.812, de 14 de junho de 1977
 
 Concede à Exploração e Beneficiamento de Rutilo Ltda. - EBRUL o direito de lavrar rutilo no Município de Santana do Garambéu, Estado de Minas Gerais.

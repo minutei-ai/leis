@@ -1,5 +1,3 @@
-###DEC-071406-0-000-20-11-1972@@@
-
 DECRETO Nº 71.406, DE 20 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento do Curso de Letras da Fundação Universidade Regional do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-096300-0-000-11-07-1988@@@
-
 DECRETO N° 96.300, DE 11 DE JULHO DE 1988
 
 Outorga concessão à RÁDIO VITÓRIA LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Vitó­ria do Mearim, Estado do Maranhão.

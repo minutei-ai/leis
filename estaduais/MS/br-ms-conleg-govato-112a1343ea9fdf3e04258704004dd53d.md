@@ -6,15 +6,16 @@ Declara de Utilidade Pública Estadual o Instituto Crescer, com sede no Municíp
 
 Publicada no Diário Oficial nº 10.555, de 30 de junho de 2021, página 3.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual o Instituto Crescer, com sede no Município de Dourados.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual o Instituto Crescer, com sede no Município de Dourados.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 29 de junho de 2021.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

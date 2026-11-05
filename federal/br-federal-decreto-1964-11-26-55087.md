@@ -1,5 +1,3 @@
-###DEC-055087-0-000-26-11-1964@@@
-
 DECRETO Nº 55.087, DE 26 DE NOVEMBRO DE 1964.
 
 Declara feriado bancário no Estado de Goiás.

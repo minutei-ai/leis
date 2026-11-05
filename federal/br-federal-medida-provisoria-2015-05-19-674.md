@@ -14,5 +14,6 @@ DILMA ROUSSEFF
 
 Nelson Barbosa
 
-<<ANEXO>><br>
+<<ANEXO>>
+
 <<TABELA>>

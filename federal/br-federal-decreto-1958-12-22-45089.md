@@ -1,5 +1,3 @@
-###DEC-045089-0-000-22-12-1958@@@
-
 DECRETO Nº 45.089, DE 22 DE dezembro DE 1958.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia de Seguros “Garantia Industrial Paulista”.

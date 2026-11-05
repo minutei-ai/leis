@@ -1,5 +1,3 @@
-###DEC-088089-0-000-08-02-1983@@@
-
 Decreto nº 88.089, de 08 de Fevereiro de 1983.
 
 Autoriza o aumento de potência da RÁDIO EXCELSIOR DO RIO GRANDE DO SUL LTDA., na cidade do Rio Grande do Sul.

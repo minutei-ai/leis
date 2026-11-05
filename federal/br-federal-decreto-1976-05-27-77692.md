@@ -1,5 +1,3 @@
-###DEC-077692-0-000-27-05-1976@@@
-
 Decreto nº 77.692, de 27 de maio de 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Canoinhas Ltda, autorizada a usar a denominação de Rádio Santa Catarina, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Florianópolis, Estado de Santa Catarina.

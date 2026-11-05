@@ -1,5 +1,3 @@
-###DEC-006790-0-000-06-03-2009@@@
-
 DECRETO Nº 6.790, DE 6 DE MARÇO DE 2009.
 
 Dá nova redação aos arts. 24, 25, 27 e 44 do Decreto no 4.502, de 9 de dezembro de 2002, que aprova o Regulamento para o Corpo de Oficiais da Reserva do Exército - R-68.

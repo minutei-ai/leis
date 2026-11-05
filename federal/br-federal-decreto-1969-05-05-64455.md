@@ -1,5 +1,3 @@
-###DEC-064455-0-000-05-05-1969@@@
-
 DECRETO Nº 64.455, DE 5 DE MAIO DE 1969.
 
 Declara caduco o decreto nº 26.894 de 13 de julho de 1949.

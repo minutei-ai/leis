@@ -1,5 +1,3 @@
-###DEC-075755-0-000-23-05-1975@@@
-
 DECRETO Nº 75.755, DE 23 DE MAIO DE 1975.
 
 Autoriza a transferência da sede da Centrais Elétricas do Sul do Brasil S.A.. - ELETROSUL.

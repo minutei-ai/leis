@@ -1,5 +1,3 @@
-###DEC-057462-0-000-20-12-1965@@@
-
 DECRETO Nº 57.462, DE 20 DE DEZEMBRO DE 1965.
 
 Altera o Regulamento do Impôsto do Sêlo.

@@ -1,5 +1,3 @@
-###DEL-009348-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.348 – DE 10 DE JUNHO DE 1946
 
 Altera, sem aumento de despesa o orçamento do Ministério do Trabalho, Indústria e Comércio, e dá outras providências.

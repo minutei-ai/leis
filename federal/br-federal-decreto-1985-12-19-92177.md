@@ -1,5 +1,3 @@
-###DEC-092177-0-000-19-12-1985@@@
-
 Decreto nº 92.177, de 19 de dezembro de 1985
 
 Outorga concessão à RÁDIO CLUBE DE PARINTINS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Parintins, Estado do Amazonas.

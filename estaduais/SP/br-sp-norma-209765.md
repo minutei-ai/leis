@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209765)<br>
-
 # DECRETO N° 68.715, DE 25 DE JULHO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Porto Ferreira, o imóvel que especifica._

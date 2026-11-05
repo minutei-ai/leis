@@ -1,5 +1,3 @@
-###DEC-054925-0-000-04-11-1964@@@
-
 DECRETO Nº 54.925, DE 4 DE NOVEMBRO DE 1964.
 
 Concede à Calcários Finos do Brasil Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-079767-0-000-02-06-1977@@@
-
 Decreto nº 79.767, de 2 de junho de 1977
 
 Concede à Águas Minerais Santa Paula Ltda. o direito de lavrar água mineral natural alcalino-terrosa no Município de Almirante Tamandaré, Estado do Paraná.

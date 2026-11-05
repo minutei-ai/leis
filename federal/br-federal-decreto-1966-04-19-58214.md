@@ -1,5 +1,3 @@
-###DEC-058214-0-000-19-04-1966@@@
-
 DECRETO Nº 58.214, DE 19 DE ABRIL DE 1966.
 
 Declara de utilidade pública a “Casa da Amizade das Senhoras dos Rotarianos do Rio de Janeiro”, com sede no Estado da Guanabara.

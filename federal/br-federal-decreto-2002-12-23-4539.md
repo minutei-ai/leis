@@ -1,5 +1,3 @@
-###DEC-004539-0-000-23-12-2002@@@
-
 DECRETO N. 4.539 – DE 23 DE DEZEMBRO DE 2002
 
 Altera o Decreto nº 3.937, de 25 de setembro de 2001, que regulamenta a Lei nº 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação.

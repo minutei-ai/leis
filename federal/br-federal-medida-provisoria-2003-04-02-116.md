@@ -1,5 +1,3 @@
-###MPV-000116-0-000-02-04-2003@@@
-
 MEDIDA PROVISÓRIA Nº 116, DE 2 DE ABRIL 2003.
 
 Dispõe sobre o salário mínimo a partir de 1° de abril de 2003, e dá outras providências.

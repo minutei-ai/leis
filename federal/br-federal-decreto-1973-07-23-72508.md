@@ -1,5 +1,3 @@
-###DEC-072508-0-000-23-07-1973@@@
-
 DECRETO Nº 72.508, DE 23 DE JULHO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada na cidade de São Sebastião do Paraíso, Estado de Minas Gerais, destinada à construção de uma estação telefônica pela Companhia Telefônica de Minas Gerais.

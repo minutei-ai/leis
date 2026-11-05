@@ -1,5 +1,3 @@
-###DEC-057777-0-000-10-02-1966@@@
-
 DECRETO Nº 57.777, DE 10 DE FEVEREIRO DE 1966.
 
 Dá nova redação ao nº 2 do § 1º do art. 33, do Regulamento de Administração do Exército, aprovado pelo Decreto nº 3.251, de 9 de novembro de 1938.

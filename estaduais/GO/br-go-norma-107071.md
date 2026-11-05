@@ -12,5 +12,6 @@ Art. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 18 de abril de 2023.
 
-Deputado BRUNO PEIXOTO<br>
+Deputado BRUNO PEIXOTO
+
 – PRESIDENTE –

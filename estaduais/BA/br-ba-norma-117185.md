@@ -1,6 +1,7 @@
 LEI Nº 4.482 DE 03 DE JULHO DE 1985
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.357 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: América Dourada, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Ipupiara, Irecê, Itaguaçu da Bahia, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, São Gabriel, Uibaí e Xique-Xique.
 
 Modifica o [art. 1º e seus itens, da Lei nº 4.445, de 09 de maio de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4445-de-09-de-maio-de-1985#LO_4_445_Art__1) , e [art. 1º item 04](https://www.legislabahia.ba.gov.br/documentos/lei-no-4399-de-25-de-fevereiro-de-1985#LO_4_399_Art__1_Item_4) , e o [art. 2º, item 02, da Lei nº 4.399 de 25 de fevereiro de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4399-de-25-de-fevereiro-de-1985#LO_4_399_Art__2_Item_2) e dá outras providências.

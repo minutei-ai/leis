@@ -1,5 +1,3 @@
-###DEC-048172-0-000-10-05-1960@@@
-
 Decreto nº 48.172, de 10 de maio de 1960.
 
 Concede a Águas Minerais Serra Branca S.A., autorização para funcionar como emprêsa de mineração.

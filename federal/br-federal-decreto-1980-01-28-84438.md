@@ -1,5 +1,3 @@
-###DEC-084438-0-000-28-01-1980@@@
-
 DECRETO Nº 84.438, DE 28 DE JANEIRO 1980.
 
 Promulga o Acordo sobre Imunidades, Isenções e Privilégios do Fundo Financeiro para o Desenvolvimento da Bacia do Prata no Território dos Países Membros.

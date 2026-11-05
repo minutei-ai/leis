@@ -1,5 +1,3 @@
-###DEC-088746-0-000-22-09-1983@@@
-
 Decreto nº 88.746, de 22 de setembro de 1983.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

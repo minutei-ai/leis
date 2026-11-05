@@ -1,5 +1,3 @@
-###DEC-007660-0-000-23-12-2011-PUB-01@@@
-
 DECRETO Nº 7.660, DE 23 DE DEZEMBRO DE 2011
 
 Aprova a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI.

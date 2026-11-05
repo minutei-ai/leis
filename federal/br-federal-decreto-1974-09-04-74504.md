@@ -1,5 +1,3 @@
-###DEC-074504-0-000-04-09-1974@@@
-
 DECRETO Nº 74.504, DE 4 DE SETEMBRO DE 1974.
 
 Concede novo prazo para utilização, pela Prefeitura Municipal de Cabo Frio, de terrenos da União situados naquele Município.

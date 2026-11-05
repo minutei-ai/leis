@@ -1,5 +1,3 @@
-###MPV-001235-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.235, DE 14 DE DEZEMBRO DE 1995.
 
 Reduz o imposto de importação para os produtos que especifica e dá outras providências.
@@ -153,8 +151,6 @@ Pedro Malan
 Dorothea Werneck
 
 José Serra
-
-###MPV-001235-0-000-14-12-1995@@@REP01+++
 
 # MEDIDA PROVISÓRIA Nº 1.235, DE 14 DE DEZEMBRO DE 1995.
 

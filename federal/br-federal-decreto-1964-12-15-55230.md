@@ -1,5 +1,3 @@
-###DEC-055230-0-000-15-12-1964@@@
-
 DECRETO Nº 55.230, DE 15 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre remuneração de conferentes e consertadores da Marina Mercante e dá outras providências.

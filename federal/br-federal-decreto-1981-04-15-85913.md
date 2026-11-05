@@ -1,5 +1,3 @@
-###DEC-085913-0-000-15-04-1981@@@
-
 Decreto nº 85.913, de 15 de abril de 1981.
 
 Extingue Grupo de Trabalho criado pelo Decreto nº 85.052, de 18 de agosto de 1980.

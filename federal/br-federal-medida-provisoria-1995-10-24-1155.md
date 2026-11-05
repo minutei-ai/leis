@@ -1,7 +1,3 @@
-1
-
-###MPV-001155-0-000-24-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.155, DE 24 DE OUTUBRO DE 1995.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

@@ -1,5 +1,3 @@
-###MPV-001938-0-011-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.938-11, DE 9 DE DEZEMBRO DE 1999.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

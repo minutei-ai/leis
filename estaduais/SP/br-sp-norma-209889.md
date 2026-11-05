@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209889)<br>
-
 # DECRETO N° 68.809, DE 26 DE AGOSTO DE 2024
 
 ### _Dispõe sobre a admissão na Ordem do Ipiranga._

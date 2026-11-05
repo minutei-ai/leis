@@ -1,5 +1,3 @@
-###DEC-096888-0-000-30-09-1988@@@
-
 DECRETO N° 96.888, DE 30 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à TELEVISÃO ATALAIA LTDA., para explorar serviço de radiodifusão de sons e imagens (TV}, na Cidade de Aracaju, Estado de Sergipe.

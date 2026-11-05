@@ -1,5 +1,3 @@
-###DEC-002309-0-000-22-08-1997@@@
-
 DECRETO Nº 2.309, DE 22 DE AGOSTO DE 1997
 
 Dispõe sobre a sub-rogação de obrigações pecuniárias, decorrentes de decisões judiciais para indenização, por responsabilidade civil e reparação de danos, a ex-empregados e/ou dependentes, provenientes da extinta COSIM.

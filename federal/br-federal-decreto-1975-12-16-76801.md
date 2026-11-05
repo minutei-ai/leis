@@ -1,5 +1,3 @@
-###DEC-076801-0-000-16-12-1975@@@
-
 DECRETO Nº 76.801, de 16 de dezembro de 1975.
 
 Acrescenta parágrafo único ao artigo 6º do Decreto nº 72.423, de 3 de junho de 1973.

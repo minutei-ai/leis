@@ -1,5 +1,3 @@
-###DEC-076709-0-000-02-12-1975@@@
-
 DECRETO Nº 76.709, DE 2 DE DEZEMBRO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Mato Grosso.

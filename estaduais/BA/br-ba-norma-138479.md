@@ -8,12 +8,14 @@ Cria o Projeto Vale Alimentação Estudantil - PVAE, destinado a ações de tran
 
 **Art. 2º** \- Fica o Poder Executivo autorizado a contratar agentes financeiros e comerciais para a operacionalização do Projeto Vale Alimentação Estudantil - PVAE no que tange à elaboração da folha de pagamento a partir dos dados e informações que serão disponibilizados pela Administração Pública Estadual e ao pagamento dos benefícios, obedecidas as exigências legais.
 
-Redação de acordo com o art.1º da Lei [14.269](https://www.legislabahia.ba.gov.br/documentos/lei-no-14269-de-01-de-junho-2020) de 01 de junho de 2020.<br>
+Redação de acordo com o art.1º da Lei [14.269](https://www.legislabahia.ba.gov.br/documentos/lei-no-14269-de-01-de-junho-2020) de 01 de junho de 2020.
+
 Redação original:"art. 2º- Fica o Poder Executivo autorizado a contratar a Caixa Econômica Federal e/ou o Banco do Brasil como agentes financeiros para a operacionalização do Projeto Vale Alimentação Estudantil - PVAE no que tange à elaboração da folha de pagamento a partir dos dados e informações que serão disponibilizados pela Administração Pública Estadual e ao pagamento dos benefícios, obedecidas as exigências legais."
 
 **Art. 3º -**  As despesas do Projeto Vale Alimentação Estudantil - PVAE correrão por conta de recursos do Fundo Estadual de Combate e Erradicação da Pobreza - FUNCEP e de recursos das fontes livres do Tesouro.
 
-Redação de acordo com o art.1º da Lei [14.269](https://www.legislabahia.ba.gov.br/documentos/lei-no-14269-de-01-de-junho-2020) de 01 de junho de 2020.<br>
+Redação de acordo com o art.1º da Lei [14.269](https://www.legislabahia.ba.gov.br/documentos/lei-no-14269-de-01-de-junho-2020) de 01 de junho de 2020.
+
 Redação original:"art. 3º- As despesas do Projeto Vale Alimentação Estudantil - PVAE correrão por conta de recursos do Fundo Estadual de Combate e Erradicação da Pobreza - FUNCEP."
 
 **Art. 4º** - O servidor público ou agente de entidade conveniada ou contratada que inserir ou fizer inserir dados ou informações falsas ou diversas daquelas que deveriam informar com a finalidade de alterar a verdade sobre o fato ou contribuir para a entrega do benefício a pessoa diversa do beneficiário final será responsabilizado civil, penal e administrativamente.

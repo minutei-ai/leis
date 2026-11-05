@@ -1,5 +1,3 @@
-###DEC-052681-0-000-14-10-1963@@@
-
 DECRETO Nº 52.681, DE 14 DE OUTUBRO DE 1963.
 
 Inclui funções gratificadas no Ministério da Educação e Cultura, e dá outras providências.

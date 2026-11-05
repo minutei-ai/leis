@@ -1,5 +1,3 @@
-###DEC-072858-0-000-27-09-1973@@@
-
 DECRETO Nº 72.858, DE 27 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha transmissão, no Estado de São Paulo.

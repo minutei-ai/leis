@@ -1,5 +1,3 @@
-###DEC-054293-0-000-16-09-1964@@@
-
 DECRETO Nº 54.293, DE 16 DE SETEMBRO DE 1964.
 
 Designa no Ministério das Relações Exteriores, o Doutor Sérgio Coutinho de Menezes, do Ministério das Minas e Energia, e o Secretário Luiz Dilermando de Castello Cruz para integrarem a Comissão encarregada de examinar a questão das emprêsas conhecidas como “Northern Utilities”.

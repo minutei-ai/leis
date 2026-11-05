@@ -1,5 +1,3 @@
-###DEL-006560-0-000-06-06-1944@@@
-
 DECRETO-LEI N. 6.560 – DE 6 DE JUNHO DE 1944
 
 Cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde, e abre crédito suplementar

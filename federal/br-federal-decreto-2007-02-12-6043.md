@@ -1,5 +1,3 @@
-###DEC-006043-0-000-12-02-2007@@@
-
 DECRETO Nº 6.043, DE 12 DE FEVEREIRO DE 2007.
 
 Dá nova redação ao art. 7o do Decreto no 4.703, de 21 de maio de 2003, que dispõe sobre o Programa Nacional da Diversidade Biológica - PRONABIO e a Comissão Nacional de Biodiversidade.
@@ -25,5 +23,3 @@ Brasília, 12 de fevereiro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Marina Silva
-
-Este texto não substitui o publicado no DOU de 13.2.2007.

@@ -1,5 +1,3 @@
-###DEC-076389-0-000-03-10-1975@@@
-
 Decreto Nº 76.389, DE 3 DE OUTUBRO DE 1975.
 
 Dispõe sobre as medidas de prevenção e controle da poluição industrial, de que trata o Decreto-lei nº 1.413, de 14 de agosto de 1975, e dá outras providências.

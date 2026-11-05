@@ -1,5 +1,3 @@
-###DEC-076251-0-000-12-09-1975@@@
-
 Decreto nº 76.251 - de 12 de setembro de 1975
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Sociedade Mantiqueira, cuja denominação foi alterada para Rádio Sociedade Mantiqueira Ltda., para que a Fundação Nossa Senhora Aparecida passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Cruzeiro, Estado de São Paulo.

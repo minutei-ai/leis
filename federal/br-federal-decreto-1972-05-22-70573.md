@@ -1,5 +1,3 @@
-###DEC-070573-0-000-22-05-1972@@@
-
 DECRETO Nº 70.573, DE 22 DE MAIO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação Piratininga, São Paulo-SP.

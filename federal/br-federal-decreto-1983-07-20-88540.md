@@ -1,5 +1,3 @@
-###DEC-088540-0-000-20-07-1983@@@
-
 Decreto nº 88.540, de 20 de julho de 1983.
 
 Regulamenta a convocação de Polícia Militar prevista no artigo 3º do Decreto-lei nº 667, de 02 de julho de 1969, alterado pelo Decreto-lei nº 2.010, de 12 de janeiro de 1983.

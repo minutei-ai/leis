@@ -1,5 +1,3 @@
-###DEC-073109-0-000-07-11-1973@@@
-
 DECRETO Nº 73.109 - DE 7 DE NOVEMBRO DE 1973.
 
 Retifica o Decreto nº 64.126, de 19 de fevereiro de 1969, que aprovou o enquadramento do pessoal do Ministério da Educação e Cultura, beneficiado pelo disposto no parágrafo único, do artigo 23 da Lei nº 4.069, de 11 de junho de 1962, e dá outras providências.

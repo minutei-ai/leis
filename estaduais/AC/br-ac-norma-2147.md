@@ -1,6 +1,10 @@
 > **LEI Nº 3.390, DE 12 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a realizar a doação de ações da Agência de Negócios do Estado do Acre – ANAC, para a Central de Cooperativas de Alimentos do Acre – AMAZON e para a Cooperativa dos Produtores de Suínos do Alto Acre – COOPERSUÍNOS.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a realizar a doação de ações da Agência de Negócios do Estado do Acre – ANAC, para a Central de Cooperativas de Alimentos do Acre – AMAZON e para a Cooperativa dos Produtores de Suínos do Alto Acre – COOPERSUÍNOS.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

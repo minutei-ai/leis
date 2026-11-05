@@ -1,5 +1,3 @@
-###DEC-007813-0-000-20-09-2012-PUB-01@@@
-
 DECRETO N°\- 7.813, DE 20 DE SETEMBRO DE 2012
 
 Altera o Anexo I ao Decreto n° 7.628, de 30 de novembro de 2011, na parte em que se refere ao Programa de Dispêndios Globais - PDG da Financiadora de Estudos e Projetos - FINEP para 2012, e dá outras providências.

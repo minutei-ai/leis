@@ -1,5 +1,3 @@
-###DEC-001954-0-000-11-07-1996@@@
-
 DECRETO Nº 1.954, DE 11 DE JULHO DE 1996.
 
 Promulga o Acordo sobre Cooperação para o Combate ao Tráfico Ilícito de Madeira, celebrado entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai.

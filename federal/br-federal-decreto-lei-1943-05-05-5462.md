@@ -1,5 +1,3 @@
-###DEL-005462-0-000-05-05-1943@@@
-
 DECRETO‑LEI N. 5.462 – DE 5 DE MAIO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 10.181.480,00 para atender a despesas de desapropriação

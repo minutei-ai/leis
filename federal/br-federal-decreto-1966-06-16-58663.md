@@ -1,5 +1,3 @@
-###DEC-058663-0-000-16-06-1966@@@
-
 DECETO Nº 58.663, DE 16 DE JUNHO DE 1966.
 
 Altera o decreto nº 53.562, de 19 de fevereiro de 1964, que inclui na Parte Especial, nos Quadros de Pessoal do Conselho Nacional de Estatística e da Escola Nacional de Ciências Estatísticas, do Instituto Brasileiro de Geografia e Estatística, o pessoal abrangido pelas Leis nºs 3.967, de 5 de outubro de 1961, e 4.069, de 11 de junho de 1962, e dá outras providências.

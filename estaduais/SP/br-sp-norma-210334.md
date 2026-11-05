@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210334)<br>
-
 # DECRETO N° 69.153, DE 12 DE DEZEMBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, em comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas._

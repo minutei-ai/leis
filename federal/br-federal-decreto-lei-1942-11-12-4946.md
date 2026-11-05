@@ -1,5 +1,3 @@
-###DEL-004946-0-000-12-11-1942@@@
-
 DECRETO-LEI N. 4.946 – DE 12 DE NOVEMBRO DE 1942
 
 Abre ao Ministério do Trabalho, lndústria e Comércio o crédito especial de Cr$ 13.200,00 para as despesas com o curso de Formação de metrologistas

@@ -1,5 +1,3 @@
-###DEC-062160-0-000-19-01-1968@@@
-
 DECRETO Nº 62.160, DE 19 DE JANEIRO DE 1968.
 
 Autoriza o cidadão brasileiro Antônio Pinheiro Dias a lavrar diatomita, no município de Campos, Estado do Rio de Janeiro.

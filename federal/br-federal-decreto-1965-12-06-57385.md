@@ -1,5 +1,3 @@
-###DEC-057385-0-000-06-12-1965@@@
-
 DECRETO Nº 57.385, DE 6 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Itamar Ribeiro Camelo a pesquisar amianto, no município de Sanclerlândia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-073419-0-000-04-01-1974@@@
-
 DECRETO Nº 73.419, DE 4 DE JANEIRO DE 1974.
 
 Aprova alteração introduzida nos Estatutos da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

@@ -1,5 +1,3 @@
-###DEC-006390-0-000-08-03-2008@@@
-
 DECRETO Nº 6.390, DE 8 DE MARÇO DE 2008.
 
 Regulamenta o art. 8o-F da Lei no 11.530, de 24 de outubro de 2007, que institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI.
@@ -87,5 +85,3 @@ Brasília, 8 de março de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Tarso Genro
-
-Este texto não substitui o publicado no DOU de 10.3.2008

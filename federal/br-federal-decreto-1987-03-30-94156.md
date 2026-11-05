@@ -1,5 +1,3 @@
-###DEC-094156-0-000-30-03-1987@@@
-
 DECRETO Nº 94.156, DE 30 DE MARÇO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Areia Branca" classificado no Cadastro de Imóveis Rurais do INCRA, como "latifúndio por exploração", situado no Município de Marabá Paulista, no Estado de São Paulo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de l9 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-051315-0-000-30-08-1961@@@
-
 Decreto Nº 51.315, DE 30 DE AGÔSTO DE 1961.
 
 Dispõe sôbre feriado bancário.

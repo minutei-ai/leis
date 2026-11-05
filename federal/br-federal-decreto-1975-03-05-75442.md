@@ -1,5 +1,3 @@
-###DEC-075442-0-000-05-03-1975@@@
-
 Decreto nº 75.442, de 5 de março de 1975.
 
 Extingue a Escola de Veterinária do Exército, e dá outras providências.

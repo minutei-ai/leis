@@ -1,14 +1,12 @@
-###DEC-019617-0-000-18-09-1945@@@
+**DECRETO Nº 19.617, DE 18 DE SETEMBRO DE 1945.**
 
-<strong>DECRETO Nº 19.617, DE 18 DE SETEMBRO DE 1945.</strong>
+***Outorga concessão à Emprêsa Fôrça e Luz Santa Catarina S. A. para o aproveitamento progressivo da energia hidráulica existente no curso de água Rio dos Cedros, no município de Timbó, no Estado de Santa Catarina.***
 
-<em><strong>Outorga concessão à Emprêsa Fôrça e Luz Santa Catarina S. A. para o aproveitamento progressivo da energia hidráulica existente no curso de água Rio dos Cedros, no município de Timbó, no Estado de Santa Catarina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, de acôrdo com a Lei Constitucional nº 6, e nos têrmos do art. 164 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, de acôrdo com a Lei Constitucional nº 6, e nos têrmos do art. 164 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada concessão à Emprêsa Fôrça e Luz Santa Catarina S. A., com sede em Blumenau, Estado de Santa Catarina, para o aproveitamento progressivo da energia hidráulica existente no curso de água Rio dos Cedros, a montante da afluência do rio Palmeiras, no distrito de Arrozeira, município de Timbó, no referido Estado de Santa Catarina.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada concessão à Emprêsa Fôrça e Luz Santa Catarina S. A., com sede em Blumenau, Estado de Santa Catarina, para o aproveitamento progressivo da energia hidráulica existente no curso de água Rio dos Cedros, a montante da afluência do rio Palmeiras, no distrito de Arrozeira, município de Timbó, no referido Estado de Santa Catarina.
 
 § 1º Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, bem como a descarga e a potência concedidas.
 
@@ -18,7 +16,7 @@ Fiscal, em votação universal; Senhor
 
 § 3º O aproveitamento inicial objetivará a instalação de um grupo de cinco mil quilowatts aproximadamente.
 
-<strong>Art</strong>. 2º Sob pena de caducidade da presente concessão, a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade da presente concessão, a concessionária obriga-se a:
 
 I - Registrar êste título na Divisão de Águas do Departamento Nacional de Produção Mineral - Ministério de Agricultura - dentro do prazo de trinta (30) dias, após a sua publicação.
 
@@ -70,32 +68,32 @@ u) orçamento detalhado para cada um do itens acima.
 
 V - Obedecer, em todos os projetos, às prescrições de ordem técnica determinadas pela referida Divisão de Águas.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e a manter, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações linimétricas e medições de descarga e a realizar as observações de acordo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e a manter, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações linimétricas e medições de descarga e a realizar as observações de acordo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela mesma Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela mesma Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato da Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato da Divisão de Águas.
 
-<strong>Art</strong>. 6º O capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão, em função da indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art**. 6º O capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão, em função da indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 8º Para a manutenção da integridade do patrimônio a que se refere o art. 6º do presente Decreto, será criada uma reserva, que proverá às renovações por depreciação, determinadas pela usura ou impostas por acidentes.
+**Art**. 8º Para a manutenção da integridade do patrimônio a que se refere o art. 6º do presente Decreto, será criada uma reserva, que proverá às renovações por depreciação, determinadas pela usura ou impostas por acidentes.
 
 Parágrafo único. A constituição dessa reserva, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas tendo-se em vista duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 9º Findo o prazo da concessão, o patrimônio desta, constituído na forma do art. 6º, reverterá para o Município de Timbó, em conformidade com o estipulado no art. 165 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzido a “reserva de renovação”, a que se refere o parágrafo único do art. 9º dêste Decreto.
+**Art**. 9º Findo o prazo da concessão, o patrimônio desta, constituído na forma do art. 6º, reverterá para o Município de Timbó, em conformidade com o estipulado no art. 165 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzido a “reserva de renovação”, a que se refere o parágrafo único do art. 9º dêste Decreto.
 
 § 1º Se o Município de Timbó não fizer uso de seu direito a essa reversão, caberá à concessionária a alternativa de requerer ao Govêrno Federal seja a concessão renovada pela forma que, no respectivo contrato, deverá estar prevista, ou de restabelecer, no curso de água, às suas expensas, a situação anterior ao aproveitamento concedido.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Município de Timbó, e a entrar com o requerimento de prorrogação da concessão, ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 10. A concessionária gozará, desde a data do registro a que se refere o art. 5º, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 10. A concessionária gozará, desde a data do registro a que se refere o art. 5º, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 11. O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrária.
+**Art**. 11. O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrária.
 
 Rio de Janeiro, 18 de setembro de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Apolônio Sales

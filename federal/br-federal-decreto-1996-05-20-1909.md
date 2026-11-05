@@ -1,7 +1,3 @@
-1
-
-###DEC-001909-0-000-20-05-1996@@@
-
 DECRETO Nº 1.909, DE 20 DE MAIO DE 1996
 
 Dispõe sobre a execução do Vigésimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica Nº 2, entre Brasil e Uruguai, de 4 de março de 1996.

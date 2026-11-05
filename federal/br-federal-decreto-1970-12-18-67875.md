@@ -1,5 +1,3 @@
-###DEC-067875-0-000-18-12-1970@@@
-
 DECRETO Nº 67.875, DE 18 DE DEZEMBRO DE 1970.
 
 Dispõe sobre a Secretaria-Geral do Ministério da Fazenda e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073292-0-000-11-12-1973@@@
-
 DECRETO Nº 73.292 - DE 11 DE DEZEMBRO DE 1973
 
 Extingue o Grupo Executivo Para as Terras do Sudoeste do Paraná - GETSOP - e dá outras providências.

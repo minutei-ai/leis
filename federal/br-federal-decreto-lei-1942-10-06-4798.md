@@ -1,5 +1,3 @@
-###DEL-004798-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.798 – DE 6 DE OUTUBRO DE 1942
 
 Cria o 1º Grupo Independente de Artilharia na 7ª Região Militar

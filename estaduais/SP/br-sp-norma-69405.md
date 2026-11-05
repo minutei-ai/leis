@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69405)
-
 # LEI Nº 12.502, DE 27 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 592/2004, do Deputado Luiz Gonzaga Vieira - PSDB)

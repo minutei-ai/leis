@@ -1,5 +1,3 @@
-###DEC-048687-0-000-04-08-1960@@@
-
 DECRETO Nº 48.687, DE 4 DE AGÔSTO DE 1960.
 
 Inclui funções gratificadas no Quadro I - Parte Permanente - do Ministério da Viação e Obras Públicas.

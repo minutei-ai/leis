@@ -1,5 +1,3 @@
-###DEC-075638-0-000-22-04-1975@@@
-
 DECRETO Nº 75.638, DE 22 DE ABRIL DE 1975.
 
 Declara luto oficial

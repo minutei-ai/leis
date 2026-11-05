@@ -1,7 +1,3 @@
-1
-
-###DEC-097681-0-000-20-04-1989@@@
-
 DECRETO Nº 97.681, DE 20 DE ABRIL DE 1989
 
 Autoriza o aumento do capital social de MERIDIONAL LEASING S.A. - ARRENDAMENTO MERCANTIL.

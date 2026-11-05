@@ -26,14 +26,13 @@ I – a fração de 15 (quinze) ou mais dias se equipara a um mês; e
 
 II – para a definição de efetivo exercício, serão adotados os critérios das Leis nº [13.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81526/lei-13909), de 25 de setembro de 2001, e nº [20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979/lei-20756), de 2020, conforme o regime jurídico do beneficiário.
 
-Art. 5º Fica ainda o Chefe do Poder Executivo autorizado a implantar um adicional ao percentual constante do art. 2º desta Lei, exclusivamente na parcela de que trata o inciso I de seu § 1º, para o cumprimento do disposto no inciso XI do art. 212-A da Constituição Federal.<br>
+Art. 5º Fica ainda o Chefe do Poder Executivo autorizado a implantar um adicional ao percentual constante do art. 2º desta Lei, exclusivamente na parcela de que trata o inciso I de seu § 1º, para o cumprimento do disposto no inciso XI do art. 212-A da Constituição Federal.
+
 [\- Vide Decreto  n º 9.997, de 08-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104679/decreto-9997) 
 
 Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 30 de novembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

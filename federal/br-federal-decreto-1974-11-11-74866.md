@@ -1,5 +1,3 @@
-###DEC-074866-0-000-11-11-1974@@@
-
 DECRETO Nº 74.866, DE 11 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade Ciências Econômicas de Itabuna, mantida pela Federação das Escolas Superiores de Ilhéus e Itabuna.

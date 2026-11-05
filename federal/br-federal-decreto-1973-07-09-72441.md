@@ -1,5 +1,3 @@
-###DEC-072441-0-000-09-07-1973@@@
-
 DECRETO Nº 72.441, DE 9 DE JULHO DE 1973.
 
 Autoriza a cessão gratuita de imóvel ao Governo do Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-048778-0-000-12-08-1960@@@
-
 DECRETO Nº 48.778, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza Fluorita Cocal Ltda. a pesquisar fluorita no município de Urussanga, Estado de Santa Catarina.

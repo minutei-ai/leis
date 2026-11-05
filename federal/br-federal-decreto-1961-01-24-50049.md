@@ -1,5 +1,3 @@
-###DEC-050049-0-000-24-01-1961@@@
-
 DECRETO Nº 50.049, DE 24 DE Janeiro DE 1961.
 
 Outorga concessão à Organização Tocantins, Rádio-jornais, Publicidade, Limitada para estabelecer uma estação de radiodifusão.

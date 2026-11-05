@@ -1,5 +1,3 @@
-###DEC-061610-0-000-24-10-1967@@@
-
 DECRETO Nº 61.610, DE 24 DE OUTUBRO DE 1967.
 
 Transfere para o Ministério do Interior as atribuições e o acervo de bens constitutivos do programa de migrações internas e radicação de populações até então sob a responsabilidade do Ministério do Trabalho e Previdência Social, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075076-0-000-11-12-1974@@@
-
 DECRETO nº 75.076, DE 11 DE DEZEMBRO DE 1974.
 
 Concede indulto a sentenciados primários e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005504-0-000-05-08-2005@@@
-
 DECRETO Nº 5.504, DE 5 DE AGOSTO DE 2005.
 
       Estabelece a exigência de utilização do pregão, preferencialmente na forma eletrônica, para entes públicos ou privados, nas contratações de bens e serviços comuns, realizadas em decorrência de transferências voluntárias de recursos públicos da União, decorrentes de convênios ou instrumentos congêneres, ou consórcios públicos. 
@@ -35,5 +33,3 @@ LUIZ INÁCIO LULA DA SILVA
 Antonio Palocci Filho
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 8.8.2005

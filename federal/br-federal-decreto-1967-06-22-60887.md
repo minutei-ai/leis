@@ -1,5 +1,3 @@
-###DEC-060887-0-000-22-06-1967@@@
-
 DECRETO Nº 60.887, DE 22 DE JUNHO DE 1967.
 
 Prorroga o prazo de adoção de notas fiscais para transações interestaduais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070692-0-000-08-06-1972@@@
-
 Decreto nº 70.692, de 8 de junho de 1972.
 
 Redistribui, com o respectivo ocupante, para o Departamento de Polícia Federal, cargo do Ministério da Saúde, e dá outras providências.

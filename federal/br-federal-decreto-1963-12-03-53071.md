@@ -1,5 +1,3 @@
-###DEC-053071-0-000-03-12-1963@@@
-
 DECRETO Nº 53.071, DE 3 DE DEZEMBRO DE 1963.
 
 Institui a “Hora de Verão” em todo o território nacional.

@@ -1,5 +1,3 @@
-###DEC-068018-0-000-31-12-1970@@@
-
 decreto nº 68.018, de 31 de dezembro de 1970.
 
 Redistribui cargo, com o respectivo ocupante, para a Escola Técnica Federal de Sergipe, e dá outras providências.

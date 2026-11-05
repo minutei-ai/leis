@@ -1,5 +1,3 @@
-###DEC-085908-0-000-14-04-1981@@@
-
 Decreto nº 85.908, de 14 de abril de 1981.
 
 Autoriza a elevação do capital social da Casa da Moeda do Brasil - CMB.

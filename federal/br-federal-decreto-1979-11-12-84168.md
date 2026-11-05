@@ -1,5 +1,3 @@
-###DEC-084168-0-000-12-11-1979@@@
-
 Decreto nº 84.168, de 12 de novembro de 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio novo Andirá Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Rio Branco, Estado do Acre.

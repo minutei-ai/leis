@@ -1,5 +1,3 @@
-###DEC-057602-0-000-07-01-1966@@@
-
 Decreto nº 57.602, de 7 de janeiro de 1966.
 
 Outorga concessão à Rádio Nossa Senhora de Fátima Ltda., para instalar uma emissora de radiodifusão sonora, na cidade de Vacaria - R.S.

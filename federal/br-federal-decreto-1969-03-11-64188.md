@@ -1,5 +1,3 @@
-###DEC-064188-0-000-11-03-1969@@@
-
 DECRETO Nº 64.188, DE 11 DE MARÇO DE 1969.
 
 Cria Grupo de Trabalho Interministerial, sob a coordenação do Ministério das Relações Exteriores, para preparação da posição do Brasil na CECLA, CIES e entendimento bilaterais com os EE. UU.

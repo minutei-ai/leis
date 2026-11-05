@@ -1,5 +1,3 @@
-###DEL-008282-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.282 – DE 4 DEZEMBRO DE 1945
 
 Dispõe sôbre transformação de unidades-escolas.

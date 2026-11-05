@@ -1,5 +1,3 @@
-###DEC-075747-0-000-22-05-1975@@@
-
 DECRETO Nº 75.747, DE 22 DE MAIO DE 1975.
 
 Concede à Rio Doce Titânio S.A. - TITANSA, o direito de lavrar minério de titânio no Município de Patrocínio, Estado de Minas Gerais.

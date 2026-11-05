@@ -1,5 +1,3 @@
-###DEC-047349-0-000-04-12-1959@@@
-
 DECRETO Nº 47.349, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Amável Soares a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

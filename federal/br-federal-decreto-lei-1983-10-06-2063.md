@@ -1,5 +1,3 @@
-###DEL-002063-0-000-06-10-1983@@@
-
 # Decreto-lei nº 2.063, de 06 de outubro de 1983
 
 Dispõe sobre multas a serem aplicadas por infrações à regulamentação para a execução do serviço de transporte rodoviário de cargas ou produtos perigosos e dá outras providências.

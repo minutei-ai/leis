@@ -1,5 +1,3 @@
-###DEC-048337-0-000-21-06-1960@@@
-
 DECRETO Nº 48.337, DE 21 DE JUNHO DE 1960.
 
 Autoriza a S.A. Mineração da Trindade a lavrar minério de ferro e minério de ferro-manganês, no município de Ouro Prêto, Estado de Minas Gerais.

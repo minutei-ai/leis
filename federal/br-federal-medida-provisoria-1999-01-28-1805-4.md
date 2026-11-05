@@ -1,5 +1,3 @@
-###MPV-001805-0-004-28-01-1999@@@
-
 MEDIDA PROVISÓRIA nº 1.805-4, DE 28 DE JANEIRO DE 1999.
 
 Altera dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966, da Lei nº 6.435, de 15 de julho de 1977, da Lei nº 5.627, de 1º de dezembro de 1970, e dá outras providências.

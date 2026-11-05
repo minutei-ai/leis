@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº. 251, DE 27 DE JUNHO DE 2022.
 
-<br>
 Altera a Lei Complementar n. 6.111/2012 - Plano de Cargos, Carreiras e Vencimentos do Quadro Permanente dos servidores da área da saúde do Município de Rio Verde.
 
 A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:
@@ -19,7 +18,8 @@ VINÍCIUS FONSÊCA CAMPOS
 
 Procurador-Geral
 
-**ANEXO ÚNICO À LEI COMPLEMENTAR Nº. 251/2022<br>
+**ANEXO ÚNICO À LEI COMPLEMENTAR Nº. 251/2022
+
 (Anexo VII da LC nº. 6.111/2012 - Tabela de Referências - Progressão Horizontal dos Cargos do Quadro Permanente de Agente Comunitário de Saúde, Agente de Combate a Endemias e Técnico em Radiologia)**
 
 | CARGO |
@@ -99,9 +99,11 @@ L
 
 R$ 2.424,00
 
- | R$ 2.572,35 | R$ 2.729,78 | R$ 2.896,84 | R$ 3.074,13 | R$ 3.262,26 | R$ 3.461,91 | R$ 3.673,78 | R$ 3.898,62 | R$ 4.137,21 | R$ 4.390,41 | R$ 4.659,10<br>
+ | R$ 2.572,35 | R$ 2.729,78 | R$ 2.896,84 | R$ 3.074,13 | R$ 3.262,26 | R$ 3.461,91 | R$ 3.673,78 | R$ 3.898,62 | R$ 4.137,21 | R$ 4.390,41 | R$ 4.659,10
+
   |
-| Agente de Combate a Endemias | R$ 2.424,00 | R$ 2.572,35 | R$ 2.729,78 | R$ 2.896,84 | R$ 3.074,13 | R$ 3.262,26 | R$ 3.461,91 | R$ 3.673,78 | R$ 3.898,62 | R$ 4.137,21 | R$ 4.390,41 | R$ 4.659,10<br>
+| Agente de Combate a Endemias | R$ 2.424,00 | R$ 2.572,35 | R$ 2.729,78 | R$ 2.896,84 | R$ 3.074,13 | R$ 3.262,26 | R$ 3.461,91 | R$ 3.673,78 | R$ 3.898,62 | R$ 4.137,21 | R$ 4.390,41 | R$ 4.659,10
+
   |
 | Técnico em Radiologia |
 

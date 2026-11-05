@@ -1,5 +1,3 @@
-###DEL-001535-0-000-13-04-1977@@@
-
 # DECRETO-LEI Nº 1.535, DE 13 DE ABRIL DE 1977
 
 Altera o Capítulo IV do Título II da Consolidação das Leis do Trabalho, relativo a Férias, e dá outras providências.

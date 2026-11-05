@@ -1,5 +1,3 @@
-###DEC-076047-0-000-29-07-1975@@@
-
 DECRETO Nº 76.047 - DE 29 DE Julho de 1975.
 
 Altera o artigo 2º do Decreto nº 63.954 de 31 de Dezembro de 1968, que criou o Comando Naval de Brasília.

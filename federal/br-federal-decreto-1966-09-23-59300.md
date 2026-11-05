@@ -1,5 +1,3 @@
-###DEC-059300-0-000-23-09-1966@@@
-
 decreto nº 59.300, de 23 de setembro de 1966.
 
 Outorga ao Município de Colinas, Estado do Maranhão, concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Brasília, 23 de setembro de 1966; 145º da Independência e 78º da República.
 h. castello branco
 
 Benedicto Dutra
-
-###DEC-059300-0-000-23-09-1966@@@RET01+++
 
 DECRETO Nº 59.300, DE 23 DE SETEMBRO DE 1966.
 

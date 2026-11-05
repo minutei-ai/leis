@@ -1,5 +1,3 @@
-###MPV-001985-0-032\-27-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-32, DE 27 de SETEMBRO DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

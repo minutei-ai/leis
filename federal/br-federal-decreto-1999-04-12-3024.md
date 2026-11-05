@@ -1,5 +1,3 @@
-###DEC-003024-0-000-12-04-1999@@@
-
 DECRETO Nº 3.024, DE 12 DE ABRIL DE 1999.
 
 Fixa o número de dias par a exibição de obras cinematográficas brasileiras durante o ano de 1999, e dá outras providências.
@@ -12,7 +10,37 @@ Art. 1º Fica fixado em quarenta e nove o número de dias nos quais as empresas 
 
 Art. 2º As salas, espaços ou locais de exibição pública comercial geminadas e pertencentes à mesma empresa deverão cumprir a cota de tela, no ano de 1999, obedecendo a à seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:81.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Salas</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Geminadas</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1ª sala</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2ª sala</span></p></td><td style="width:42.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3ª sala</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4ª sala</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5ª sala</span></p></td><td style="width:40.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6ª sala e demais</span></p></td></tr><tr><td style="width:81.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Dias de</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Obrigatoriedade</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>49 dias</span></p></td><td style="width:42.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>42 dias</span></p></td><td style="width:42.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>35 dias</span></p></td><td style="width:35.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>28 dias</span></p></td><td style="width:42.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>21 dias</span></p></td><td style="width:40.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14 dias</span></p></td></tr></tbody></table>
+Salas
+
+Geminadas
+
+1ª sala
+
+2ª sala
+
+3ª sala
+
+4ª sala
+
+5ª sala
+
+6ª sala e demais
+
+Dias de
+
+Obrigatoriedade
+
+49 dias
+
+42 dias
+
+35 dias
+
+28 dias
+
+21 dias
+
+14 dias
 
 Art. 3º As empresas proprietárias, locatárias ou arrendatárias de salas, espaços ou locais de exibição pública comercial apresentarão semestralmente à Secretaria para o Desenvolvimento Audiovisual do Ministério da Cultura, nos termos do § 2º do art. 29 da Lei nº 8.401, de 8 de janeiro de 1992, as informações relativas ao cumprimento do disposto nos arts. 1º e 2º deste Decreto.
 

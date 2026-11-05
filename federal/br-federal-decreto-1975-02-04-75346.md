@@ -1,5 +1,3 @@
-###DEC-075346-0-000-04-02-1975@@@
-
 DECRETO Nº 75.346, DE 4 DE FEVEREIRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade de Filosofia, Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras "Farias Brito", mantida pela Associação Paulista de Educação e Cultura, com sede na cidade de Guarulhos, Estado de São Paulo.

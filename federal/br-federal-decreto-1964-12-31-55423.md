@@ -1,5 +1,3 @@
-###DEC-055423-0-000-31-12-1964@@@
-
 DECRETO Nº 55.423, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a cidadã brasileira Angela Gebara a pesquisar leucita, no município de Poços de Caldas, Estado de Minas Gerais.

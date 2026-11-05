@@ -1,5 +1,3 @@
-###DEC-086060-0-000-02-06-1981@@@
-
 DECRETO Nº 86.060, DE 02 DE JUNHO DE 1981.
 
 Cria, no Estado do Maranhão, o Parque Nacional dos Lençóis Maranhenses, com os limites que especifica e dá outras providências.

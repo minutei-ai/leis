@@ -1,5 +1,3 @@
-###DEC-064868-0-000-24-07-1969@@@
-
 DECRETO Nº 64.868 - DE 24 DE JULHO DE 1969.
 
 Decreta a intervenção federal no Município de Balneário de Camboriú, no Estado de Santa Catarina, e da outras providências.

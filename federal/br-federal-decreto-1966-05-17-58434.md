@@ -1,5 +1,3 @@
-###DEC-058434-0-000-17-05-1966@@@
-
 Decreto nº 58.434, de 17 de maio de 1966.
 
 Retifica o art. 1º do Decreto número 54.229, de 2 de setembro de 1964.

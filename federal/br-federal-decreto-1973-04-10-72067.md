@@ -1,5 +1,3 @@
-###DEC-072067-0-000-10-04-1973@@@
-
 DECRETO Nº 72.067, DE 10 DE ABRIL DE 1973.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de distribuição, no Estado do Rio de Janeiro.
@@ -25,8 +23,6 @@ Brasília, 10 de abril de 1973; 152.º da Independência e 85.º da República.
 Emílio G Médici
 
 Benjamim Mario Baptista
-
-###DEC-072067-0-000-10-04-1973@@@
 
 DECRETO Nº 72.067, DE 10 DE ABRIL DE 1973.
 

@@ -1,14 +1,12 @@
-###DEC-038712-0-000-28-01-1956@@@
+**DECRETO Nº 38.712, DE 28 DE JANEIRO DE 1956**
 
-<strong>DECRETO Nº 38.712, DE 28 DE JANEIRO DE 1956</strong>
+***Altera a redação de dispositivo do Regimento do Departamento Nacional do Trabalho, e dá outras providências.***
 
-<em><strong>Altera a redação de dispositivo do Regimento do Departamento Nacional do Trabalho, e dá outras providências.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL** no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong> no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Os artigos 25, 26, 27, 28, e 29 do Regimento do Departamento Nacional do Trabalho, aprovado pelo Decreto n.º 13.001, de 27 de julho de 1943, e alterado pelo Decreto n.º 16.570, de 11 de setembro de 1944, passam a ter a seguinte redação:
+**Art**. 1.º Os artigos 25, 26, 27, 28, e 29 do Regimento do Departamento Nacional do Trabalho, aprovado pelo Decreto n.º 13.001, de 27 de julho de 1943, e alterado pelo Decreto n.º 16.570, de 11 de setembro de 1944, passam a ter a seguinte redação:
 
 “Art. 25, A D.H.S.T.compete:
 
@@ -94,7 +92,7 @@ VII – promover campanhas educativas contra infortúnios do trabalho;
 
 VIII – providenciar a organização de Comissões Internas de Prevenção de Acidentes (C.I.P.A.), de acordo com a lei”.
 
-<strong>Art</strong>. 2.º Acrescentem–se ao referido Regimento, após o art.29, os seguintes artigos:
+**Art**. 2.º Acrescentem–se ao referido Regimento, após o art.29, os seguintes artigos:
 
 “Art. 29–A. À S.I.E.T. compete:
 
@@ -142,12 +140,12 @@ V – expedir notificações, guias, editais e outros documentos necessários à
 
 VI – tomar as providências cabíveis quanto às alterações de pessoal, necessidade de material e previsões de orçamento, em articulação com os órgãos do Departamento de Administração do Ministério do Trabalho, Indústria e Comércio”.
 
-<strong>Art</strong>. 3.º Revogam–se as disposições em contrário.
+**Art**. 3.º Revogam–se as disposições em contrário.
 
-<strong>Art</strong>. 4.º Este Decreto entrará em vigor na data de sua publicação.
+**Art**. 4.º Este Decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, em 28 de janeiro de 1956; 136.º da Independência e 68.º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Nilson Omegna

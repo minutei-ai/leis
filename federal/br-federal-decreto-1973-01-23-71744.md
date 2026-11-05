@@ -1,5 +1,3 @@
-###DEC-071744-0-000-23-01-1973@@@
-
 DECRETO Nº 71.744, de 23 de janeiro de 1973.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em São Luiz, Estado do Maranhão.

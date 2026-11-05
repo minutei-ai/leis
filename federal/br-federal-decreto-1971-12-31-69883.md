@@ -1,5 +1,3 @@
-###DEC-069883-0-000-31-12-1971@@@
-
 DECRETO Nº 69.883 - DE 31 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados na cidade de Londrina, Estado do Paraná, destinados à construção de central de telex e instalação de equipamentos indispensáveis à execução do Sistema Nacional de Telecomunicações

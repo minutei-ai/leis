@@ -1,5 +1,3 @@
-###DEC-057670-0-000-26-01-1966@@@
-
 DECRETO Nº 57.670, DE 26 DE JANEIRO DE 1966.
 
 Declara de utilidade pública a “Associação Escola Doméstica Filhas de Maria Imaculada”, com sede em São Paulo, Estado de São Paulo.

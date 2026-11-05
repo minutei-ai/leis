@@ -1,5 +1,3 @@
-###DEC-047731-0-000-02-02-1960@@@
-
 DECRETO Nº 47.731, de 2 de fevereiro de 1960.
 
 Concede à Indústria, Comércio e Navegação - Sociedade Vinícola Rio Grandense Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

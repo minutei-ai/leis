@@ -1,5 +1,3 @@
-###DEL-006285-0-000-18-02-1944@@@
-
 DECRETO-LEI N. 6.285 – DE 18 DE FEVEREIRO DE 1944
 
 Concede pensão especial à viúva de Valentim de Almeida, morto em ato de serviço

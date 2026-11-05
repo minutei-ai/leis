@@ -1,5 +1,3 @@
-###DEC-003744-0-000-05-02-2001@@@
-
 DECRETO Nº 3.744 , DE 5 DE FEVEREIRO DE 2001
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil, da República da Colômbia, da República do Equador, da República do Peru e da República Bolivariana da Venezuela (países-membros da Comunidade Andina), de 15 de novembro de 2000.

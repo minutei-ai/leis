@@ -1,5 +1,3 @@
-###DEL-007668-0-000-22-06-1945@@@
-
 DECRETO-LEI N. 7.668 – DE 22 DE JUNHO DE 1945
 
 Revoga o Decreto-lei nº 6.513, de 19 de maio de 1944

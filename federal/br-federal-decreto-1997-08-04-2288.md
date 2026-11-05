@@ -1,5 +1,3 @@
-###DEC-002288-0-000-04-08-1997@@@
-
 DECRETO Nº 2.288, DE 4 DE AGOSTO DE 1997
 
 Altera o valor de indenização constante do Anexo do Decreto nº 2.255, de 16 de junho de 1997.

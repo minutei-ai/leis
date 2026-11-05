@@ -1,5 +1,3 @@
-###DEC-060183-0-000-08-02-1967@@@
-
 DECRETO Nº 60.183, DE 8 DE FEVEREIRO DE 1967.
 
 Altera o nome do Parque Nacional do Rio de Janeiro, criado pelo Decreto nº50.923, de 6 de julho de 1961, para Parque Nacional da Tijuca, (PNT), com as dimensões e demais características previstas no presente Decreto, e dá outras providências.

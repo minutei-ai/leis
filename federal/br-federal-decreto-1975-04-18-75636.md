@@ -1,5 +1,3 @@
-###DEC-075636-0-000-18-04-1975@@@
-
 DECRETO Nº 75.636, DE 18 DE ABRIL DE 1975.
 
 Acrescenta parágrafos no artigo 6º do regulamento para o Instituto de Pesquisas da Marinha, aprovado pelo Decreto nº 46.427, de 14 de julho de 1959.

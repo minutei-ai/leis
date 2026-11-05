@@ -1,5 +1,3 @@
-###DEC-071808-0-000-06-02-1973@@@
-
 DECRETO Nº 71.808, de 6 de fevereiro de 1973.
 
 Autoriza o funcionamento da Faculdade de Turismo e Letras, mantida pelo Instituto de Cultura e Ensino Padre Manoel da Nóbrega, São Paulo.

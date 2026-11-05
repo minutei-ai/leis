@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/177021)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2016/compilacao-lei-16119-18.01.2016.html)
 
 # LEI N° 16.119, DE 18 DE JANEIRO DE 2016
@@ -9,7 +8,8 @@
 
 ### _~~Dispõe sobre as condições de apresentação de ofertas de produtos e serviços ao consumidor e dá providências correlatas~~_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
+
 ~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~
 
  ~~Artigo 1° - O fornecedor, ao disponibilizar catálogo, cardápio ou qualquer espécie de oferta, física ou virtual, na área do estabelecimento ou não, visando à comercialização ou divulgação de produtos e serviços, deverá indicar:~~
@@ -26,7 +26,8 @@
 
 ~~Artigo 4° - Esta lei entra em vigor no prazo de 60 (sessenta) dias de sua publicação.~~
 
-~~Palácio dos Bandeirantes, 18 de janeiro de 2016.~~<br>
+~~Palácio dos Bandeirantes, 18 de janeiro de 2016.~~
+
 ~~GERALDO ALCKMIN~~
 
 ~~Aloisio de Toledo César~~

@@ -1,5 +1,3 @@
-###DEC-056891-0-000-22-09-1965@@@
-
 DECRETO Nº 56.891, DE 22 DE SETEMBRO DE 1965.
 
 Dispõe sôbre relações entre o Instituto Nacional de Desenvolvimento Agrária e o Ministério da Agricultura.

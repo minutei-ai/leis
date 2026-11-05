@@ -1,7 +1,3 @@
-1
-
-###DEC-000432-0-000-24-01-1992@@@
-
 DECRETO N° 432, DE 24 DE JANEIRO DE 1992
 
 Dispõe sobre as ações integradas federais relativas ao processo de reforma agrária, redefine o Grupo de Trabalho da Reforma Agrária.

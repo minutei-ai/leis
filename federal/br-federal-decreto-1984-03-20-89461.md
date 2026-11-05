@@ -1,5 +1,3 @@
-###DEC-089461-0-000-20-03-1984@@@
-
 Decreto nº 89.461 de 20 de março de 1984.
 
 Promulga a Convenção que institui uma Organização de Metrologia Legal, 1955.

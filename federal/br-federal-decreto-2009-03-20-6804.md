@@ -1,5 +1,3 @@
-###DEC-006804-0-000-20-03-2009@@@
-
 DECRETO Nº 6.804, DE 20 DE MARÇO DE 2009.
 
 Regulamenta o parcelamento de débitos dos municípios e de suas autarquias e fundações, junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional, relativos às contribuições sociais de que tratam as alíneas “a” e “c” do parágrafo único do art. 11 da Lei no 8.212, de 24 de julho de 1991, instituído pelos arts. 96 a 103 da Lei no 11.196, de 21 de novembro de 2005, com a redação dada pela Medida Provisória no 457, de, 10 de fevereiro de 2009.

@@ -1,5 +1,3 @@
-###DEC-048633-A-000-28-07-1960@@@
-
 DECRETO Nº 48.633-A, DE 28 DE JULHO DE 1960.
 
 Transfere ações de propriedade do Tesouro, nas emprêsas de economia mista, para as instituições de previdência social, e dá outras providências.
@@ -14,7 +12,29 @@ Art. 1º O Ministro da Fazenda tomará, dentro de 60 (sessenta) dias, as necess�
 
 § 2º As referidas ações das Sociedades Companhias Vale do Rio Doce, Companhia Hidro Elétrica do São Francisco, Companhia Siderúrgica Nacional, Companhia Nacional de Álcalis, Fábrica Nacional de Motores e Petróleo Brasileiro S. A., serão rateadas nas seguintes proporções:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Instituto de Aposentadoria e Pensões dos Marítimos..........................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1,1%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Instituto de Aposentadoria e Pensões dos Bancários.........................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4,2%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas...........</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6,6%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Caixa de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos...............................................................................................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>8,9%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Instituto de Aposentadoria e Pensões dos Comerciários....................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>21,2%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Instituto de Aposentadoria e Pensões dos Industriários......................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>58%</span></p></td></tr></tbody></table>
+Instituto de Aposentadoria e Pensões dos Marítimos..........................................................
+
+1,1%
+
+Instituto de Aposentadoria e Pensões dos Bancários.........................................................
+
+4,2%
+
+Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas...........
+
+6,6%
+
+Caixa de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos...............................................................................................................................
+
+8,9%
+
+Instituto de Aposentadoria e Pensões dos Comerciários....................................................
+
+21,2%
+
+Instituto de Aposentadoria e Pensões dos Industriários......................................................
+
+58%
 
 Art. 2º As transferências de ações determinadas no artigo 1º serão precedidas de reavaliações dos ativos das várias emprêsas e feitas pelos respectivos valores nominais e das partes beneficiárias da Companhia Hidro Elétrica do São Francisco pelo valor de aquisição de que trata o artigo 1º da Lei nº 2.404, de 13 de janeiro de 1955.
 

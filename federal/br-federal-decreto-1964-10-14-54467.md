@@ -1,5 +1,3 @@
-###DEC-054467-0-000-14-10-1964@@@
-
 decreto nº 54.467, de 14 de outubro de 1964.
 
 Fica autorizado o cidadão brasileiro Arthur Herman Lundgren a pesquisar calcário e fosfato, no município de Igaraçu, Estado de Pernambuco.

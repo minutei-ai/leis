@@ -1,5 +1,3 @@
-###DEC-006111-0-000-10-05-2007@@@
-
 DECRETO Nº 6.111, DE 10 DE MAIO DE 2007.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Índia sobre Cooperação em Assuntos Relativos à Defesa, celebrado em Nova Delhi, em 1o de dezembro de 2003.
@@ -24,11 +22,7 @@ Brasília, 10 de maio de 2007; 186º da Independência e 119º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 11.5.2007.
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
 
 E O GOVERNO DA REPÚBLICA DA ÍNDIA SOBRE COOPERAÇÃO
 

@@ -1,5 +1,3 @@
-###DEL-006989-0-000-26-10-1944@@@
-
 DECRETO-LEI N. 6.989 – DE 26 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.800.000,00, para pagamento a concessionários de portos

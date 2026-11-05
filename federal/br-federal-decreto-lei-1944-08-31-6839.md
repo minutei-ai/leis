@@ -1,5 +1,3 @@
-###DEL-006839-0-000-31-08-1944@@@
-
 DECRETO-LEI N. 6.839 – DE 31 DE AGÔSTO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei nº 5.036, de 4 de dezembro de 1942

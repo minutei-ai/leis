@@ -1,5 +1,3 @@
-###DEC-085366-0-000-17-11-1980@@@
-
 decreto nº 85.366, de 17 de novembro de 1980.
 
 Altera redação de dispositivo do Decreto nº 85.233, de 6 de outubro de 1980, que dispõe sobre o Grupo-Atividades Específicas de Controle Interno, e dá outras Providências.

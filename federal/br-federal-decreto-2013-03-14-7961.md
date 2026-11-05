@@ -1,5 +1,3 @@
-###DEC-007961-0-000-14-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.961, DE 14 DE MARÇO DE 2013
 
 Altera o Decreto nº 4.244, de 22 de maio de 2002, para incluir o Chefe do Estado- Maior Conjunto das Forças Armadas entre as autoridades transportadas em aeronaves do Comando da Aeronáutica.

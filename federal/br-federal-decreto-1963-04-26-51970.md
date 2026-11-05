@@ -1,5 +1,3 @@
-###DEC-051970-0-000-26-04-1963@@@
-
 DECRETO Nº 51.970, DE 26 DE ABRIL DE 1963.
 
 Transfere da Prefeitura Municipal de Rosário do Sul, Estado do Rio Grande do Sul, para a Comissão Estadual de Energia Elétrica a concessão para produzir, transmitir, transformar e distribuir energia elétrica no Município.

@@ -1,5 +1,3 @@
-###DEC-093942-0-000-16-01-1987@@@
-
 DECRETO Nº 93.942, DE 16 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Áreas Remanescentes da Fazenda Campos Novos", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Cabo Frio, no Estado do Rio de Janeiro, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.691, de 19 de maio de 1986, e dá outras providências.

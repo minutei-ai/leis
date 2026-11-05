@@ -1,7 +1,3 @@
-1
-
-###DEC-098440-0-000-23-11-1989@@@
-
 DECRETO Nº 98.440, DE 23 DE NOVEMBRO DE 1989
 
 Cria, no Estado do Amazonas, as Florestas Nacionais Pari-Cachoeira I e Pari-Cachoeira II, com os limites que especifica, e dá outras providências.

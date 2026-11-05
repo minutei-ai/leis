@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209057)<br>
-
 # DECRETO N° 68.286, DE 28 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de pista marginal, no sentido decrescente, entre os km 331,8 e 331,4 da Rodovia SP-333, no Município de Marília, e dá providências correlatas._

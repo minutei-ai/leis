@@ -1,5 +1,3 @@
-###DEC-074265-0-000-08-07-1974@@@
-
 DECRETO Nº 74.265 - DE 8 DE JULHO DE 1974.
 
 Cria a Embaixada do Brasil nos Emirados Árabes Unidos.

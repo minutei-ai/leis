@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211447)<br>
-
 # DECRETO N° 69.868, DE 15 DE SETEMBRO DE 2025
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para o Ministério Público do Estado de São Paulo, a administração do imóvel que especifica, localizado no Município de Iguape._

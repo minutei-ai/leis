@@ -1,5 +1,3 @@
-###DEC-048256-0-000-02-06-1960@@@
-
 DECRETO Nº 48.256, DE 2 DE JUNHO DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Ferro, faixa de terreno e benfeitorias, atingidas pela ligação Palmeira dos Indios - Colégios, no Estado de Alagoas.

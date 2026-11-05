@@ -1,5 +1,3 @@
-###DEC-064194-0-000-12-03-1969@@@
-
 DECRETO Nº 64.194, DE 12 DE MARÇO DE 1969.
 
 Autoriza o funcionamento de Curso de Bacharelado.

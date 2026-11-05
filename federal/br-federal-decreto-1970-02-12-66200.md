@@ -1,5 +1,3 @@
-###DEC-066200-0-000-12-02-1970@@@
-
 DECRETO Nº 66.200 - DE 12 DE FEVEREIRO DE 1970
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Ministério da Aeronáutica, cargos originários do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

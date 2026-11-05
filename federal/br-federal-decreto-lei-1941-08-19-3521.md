@@ -1,5 +1,3 @@
-###DEL-003521-0-000-19-08-1941@@@
-
 DECRETO-LEI N. 3.521 – DE 19 DE AGOSTO DE 1941
 
 É extinta a Inspetoria de Engenharia.

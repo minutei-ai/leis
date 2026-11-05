@@ -1,5 +1,3 @@
-###DEC-073092-0-000-06-11-1973@@@
-
 DECRETO Nº 73.092 - DE 6 DE NOVEMBRO DE 1973
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

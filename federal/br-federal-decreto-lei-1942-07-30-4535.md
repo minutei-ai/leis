@@ -1,5 +1,3 @@
-###DEL-004535-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.535 – DE 30 DE JULHO DE 1942
 
 Abre ao Ministério da Educação e Saude, o crédito especial de 3:900$0, para pagamento de gratificação de função

@@ -1,5 +1,3 @@
-###DEC-066682-0-000-10-06-1970@@@
-
 decreto nº 66.682, de 10 de junho de 1970.
 
 Cria Comissão Interministerial de Estudos dos Assuntos relacionados com a Política Brasileira para os Recursos do Mar.

@@ -1,5 +1,3 @@
-###DEC-070167-0-000-18-02-1972@@@
-
 DECRETO Nº 70.167, DE 18 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento dos Cursos de História e Geografia da Faculdade Dom Aquino de Filosofia, Ciências e Letras - Campo Grande - MT.

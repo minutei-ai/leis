@@ -1,5 +1,3 @@
-###DEC-069178-0-000-09-09-1971@@@
-
 DECRETO Nº 69.178, DE 9 DE SETEMBRO DE 1971.
 
 Declara a caducidade dos decretos que menciona.

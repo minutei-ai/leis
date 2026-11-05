@@ -1,5 +1,3 @@
-###DEL-001294-0-000-19-12-1973@@@
-
 # DECRETO-LEI Nº 1.294, DE 19 DE DEZEMBRO DE 1973
 
 Cria o cargo de Presidente do Instituto Nacional de Alimentação e Nutrição (INAN).

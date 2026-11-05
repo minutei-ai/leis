@@ -1,5 +1,3 @@
-###DEC-080274-0-000-05-09-1977@@@
-
 DECRETO Nº 80.274, DE 5 DE SETEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Química Industrial da Universidade Católica de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

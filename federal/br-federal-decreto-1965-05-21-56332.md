@@ -1,5 +1,3 @@
-###DEC-056332-0-000-21-05-1965@@@
-
 DECRETO Nº 56.332, de 21 de maio de 1965.
 
 Autoriza o cidadão brasileiro Custodio Netto Jr. a pesquisar aluviões auríferos, no município de São Feliz do Xingú, Estado do Pará.

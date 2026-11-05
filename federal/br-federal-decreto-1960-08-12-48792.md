@@ -1,5 +1,3 @@
-###DEC-048792-0-000-12-08-1960@@@
-
 DECRETO Nº 48.792, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o cidadão brasileiro Miguel Alves Evangelista a pesquisar mármore no município Juazeiro, Estado da Bahia.

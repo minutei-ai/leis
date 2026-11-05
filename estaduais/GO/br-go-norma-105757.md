@@ -136,8 +136,6 @@ Art. 5º Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 30 de junho de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

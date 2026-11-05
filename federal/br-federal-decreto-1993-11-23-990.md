@@ -1,7 +1,3 @@
-1
-
-###DEC-000990-0-000-23-11-1993@@@
-
 DECRETO N° 990, DE 23 DE NOVEMBRO DE 1993
 
 Promulga a correção do artigo XV, alínea b do Acordo Relativo a Organização Internacional de Telecomunicações por Satélite (INTELSAT), concluído em Washington, D.C., em 20.8.1971.

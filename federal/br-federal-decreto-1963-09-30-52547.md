@@ -1,5 +1,3 @@
-###DEC-052547-0-000-30-09-1963@@@
-
 DECRETO Nº 52.547, DE 30 DE SETEMBRO DE 1963.
 
 Outorga à Comissão Estadual de Energia Elétrica do Estado do Rio de Grande do Sul concessão para distribuir energia elétrica no município de Pôrto Lucena.

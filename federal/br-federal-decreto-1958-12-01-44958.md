@@ -1,5 +1,3 @@
-###DEC-044958-0-000-01-12-1958@@@
-
 DECRETO Nº 44.958, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza a cidadão brasileira Nicolina Bernardo a pesquisar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

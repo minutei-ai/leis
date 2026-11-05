@@ -1,5 +1,3 @@
-###DEC-002155-0-000-20-02-1997@@@
-
 DECRETO Nº 2.155 DE 20 DE FEVEREIRO DE 1997
 
 Dá nova redação ao art. 1º, inciso I, do Decreto nº  2.149, de l4 de fevereiro de 1997.

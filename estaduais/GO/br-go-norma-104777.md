@@ -124,8 +124,6 @@ Parágrafo único. A transparência ativa prevista no art. 5º deve abranger, no
 
 Goiânia,13 de janeiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

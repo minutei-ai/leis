@@ -1,5 +1,3 @@
-###DEC-052178-0-000-28-06-1963@@@
-
 DECRETO Nº 52.178, DE 28 DE JUNHO DE 1963.
 
 Autoriza estrangeiro a adquirir o domínio útil do terreno  nacional interior que menciona, no Estado da Guanabara.

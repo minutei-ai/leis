@@ -1,5 +1,3 @@
-###DEC-051696-0-000-05-02-1963@@@
-
 DECRETO Nº 51.696, DE 5 DE Fevereiro DE 1963.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Saúde.

@@ -1,5 +1,3 @@
-###DEC-069352-0-000-14-10-1971@@@
-
 Decreto Nº 69.352, DE 14 DE outubro DE 1971.
 
 Dispõe sôbre o emprêgo de Grupos-Tarefa no Gabinete do Ministro e no Conselho de Desenvolvimento Comercial (CDC) do Ministério da Indústria e do Comércio.

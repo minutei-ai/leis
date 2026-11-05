@@ -1,5 +1,3 @@
-###DEC-084207-0-000-13-11-1979@@@
-
 DECRETO Nº 84.207, DE 13 DE NOVEMBRO DE 1979.
 
 Acrescenta parágrafo único ao artigo 6º do Decreto nº 70.773, de 28 de junho de 1972, que regulamenta o pagamento dos militares por crédito em conta-corrente bancária.

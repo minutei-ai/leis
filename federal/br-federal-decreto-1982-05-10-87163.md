@@ -1,5 +1,3 @@
-###DEC-087163-0-000-10-05-1982@@@
-
 Decreto nº 87.163, de 10 de maio de 1982.
 
 Promulga o Convênio de Cooperação Cultural e Educacional, entre o Governo da República Federativa do Brasil e o dos Estados Unidos Mexicanos.
@@ -122,4 +120,20 @@ ARTIGO XIV
 
 Feito em Brasília, aos 29 dias do mês de julho de 1980, em dois exemplares originais, nos idiomas português e espanhol, ambos os textos fazendo igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DOS ESTADOS UNIDOS MEXICANOS:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Jorge Castañeda)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DOS ESTADOS UNIDOS MEXICANOS:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Ramiro Saraiva Guerreiro)
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Jorge Castañeda)
+
+</td></tr></tbody></table>

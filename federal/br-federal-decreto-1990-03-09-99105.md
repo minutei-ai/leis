@@ -1,7 +1,3 @@
-1
-
-###DEC-099105-0-000-09-03-1990@@@
-
 DECRETO N° 99.105, DE 9 DE MARÇO DE 1990
 
 Cria, no Estado do Amazonas, a Flo­resta Nacional Cubaté com os limites que especifica e dá outras providências.

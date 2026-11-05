@@ -1,5 +1,3 @@
-###DEC-094036-0-000-17-02-1987@@@
-
 DECRETO Nº 94.036, DE 17 DE FEVEREIRO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA RIO DA AREIA", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Teixeira Soares, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 02 de maio de 1986, e dá outras providências.

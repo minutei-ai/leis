@@ -1,5 +1,3 @@
-###DEL-008474-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.474 – DE 27 DE DEZEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a vender, em concorrência pública, os imóveis que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004268-0-000-12-06-2002@@@
-
 DECRETO Nº 4.268, DE 12 DE JUNHO DE 2002
 
 Dá nova redação ao art. 6º do Decreto nº 4.232, de 14 de maio de 2002, que dispõe sobre as audiências e reuniões dos agentes públicos em exercício na Administração Pública Federal direta, nas autarquias e fundações públicas federais com representantes de interesses de particulares.

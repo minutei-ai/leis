@@ -1,5 +1,3 @@
-###DEC-047208-0-000-09-11-1959@@@
-
 DECRETO Nº 47.208, DE 9 DE NOVEMBRO DE 1959.
 
 Suspende, provisoriamente, a aquisição de material permanente e de consumo, para o serviço público, e dá outra providências.

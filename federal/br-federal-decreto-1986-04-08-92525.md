@@ -1,5 +1,3 @@
-###DEC-092525-0-000-08-04-1986@@@
-
 DECRETO Nº 92.525, DE 8 DE ABRIL DE 1986
 
 Outorga concessão à JET-RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Teresina, Estado do Piauí.

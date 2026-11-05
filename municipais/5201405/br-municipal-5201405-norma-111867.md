@@ -44,7 +44,8 @@ III - previstas nos incisos III e XIII do caput deste artigo.
 
 (...)
 
-SUBSEÇÃO V<br>
+SUBSEÇÃO V
+
 DAS GRATIFICAÇÕES DE INSALUBRIDADE, PERICULOSIDADE E PENOSIDADE
 
 Art. 87. Os servidores, efetivos ou comissionados, que trabalham com habitualidade em locais insalubres, ou em contato permanente com substâncias tóxicas, radioativas, ou com risco de vida e/ou em condições penosas fazem jus à gratificação sobre o vencimento do cargo ocupado, conforme dispuser o regulamento.
@@ -71,11 +72,14 @@ Art. 156 (...)
 
 ~~“Art. 89-A. Poderá ser concedida gratificação por penosidade aos servidores, efetivos ou comissionados, que desempenhem serviços e atividades comuns em condições anormais ou adversas, que provoquem pena e sofrimento, em que se exige atenção constante e vigilância acima do comum, desde que diferentes daquelas situações previstas como insalubres e perigosas.~~
 
-~~Art. 89-B. A condição de penosidade deverá ser comprovada e reavaliada periodicamente, conforme dispuser regulamento. (...)~~<br>
+~~Art. 89-B. A condição de penosidade deverá ser comprovada e reavaliada periodicamente, conforme dispuser regulamento. (...)~~
+
 (Revogado pela Lei Complementar nº 203, de 9 de fevereiro de 2023).
 
-SUBSEÇÃO XI<br>
-DO BÔNUS POR METAS ALCANÇADAS<br>
+SUBSEÇÃO XI
+
+DO BÔNUS POR METAS ALCANÇADAS
+
 (Revogado pela Lei Complementar nº 203, de 9 de fevereiro de 2023).
 
 ~~Art. 98-A. O bônus por metas alcançadas poderá ser concedido aos servidores, efetivos ou comissionados, de forma coletiva ou individual, conforme dispuser regulamento próprio, desde que observados os limites de valores previstos em lei.~~
@@ -86,8 +90,10 @@ DO BÔNUS POR METAS ALCANÇADAS<br>
 
 ~~§3º. As metas a serem alcançadas terão seus resultados aferidos periodicamente, sendo devido o bônus proporcionalmente em função do desempenho.~~
 
-SUBSEÇÃO XII<br>
-DA GRATIFICAÇÃO POR FATOR DIFERENCIADOR DAS ATIVIDADES PRESTADAS<br>
+SUBSEÇÃO XII
+
+DA GRATIFICAÇÃO POR FATOR DIFERENCIADOR DAS ATIVIDADES PRESTADAS
+
 (Revogado pela Lei Complementar nº 203, de 9 de fevereiro de 2023).
 
 ~~Art. 98-B. A gratificação por fator diferenciador da atividade prestada poderá ser concedida aos servidores, efetivos ou comissionados, desde que seja verificado atendimento dos seguintes critérios diferenciadores, não constantes dos requisitos mínimos legais para o provimento do cargo em exercício:~~
@@ -160,39 +166,164 @@ Art. 11 Esta Lei entrará em vigor na data de sua publicação, produzindo seus 
 
 GABINETE DO PREFEITO DE APARECIDA DE GOIÂNIA, 22 de fevereiro de 2017.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
 ANEXO I
 
 NÍVEIS PARA VALORAÇÃO DOS BÔNUS POR METAS E DAS GRATIFICAÇÕES CONSTANTES DO ART. 73, INCISOS II e XII, DA LEI COMPLEMENTAR Nº 003/2001
 
-<table><tbody><tr><td style=" width:160px;  height:40px;    ">NÍVEL</td><td style=" width:175px;  height:40px;    ">VALOR OTIMIZADO</td></tr><tr><td style=" width:160px;  height:27px;   ">XX</td><td style=" width:175px;  height:27px;   ">R$ 2.000,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XIX</td><td style=" width:175px;  height:27px;   ">R$ 1.900,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XVIII</td><td style=" width:175px;  height:27px;   ">R$ 1.800,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XVII</td><td style=" width:175px;  height:27px;   ">R$ 1.700,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XVI</td><td style=" width:175px;  height:27px;   ">R$ 1.600,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XV</td><td style=" width:175px;  height:27px;   ">R$ 1.500,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XIV</td><td style=" width:175px;  height:27px;   ">R$ 1.400,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XIII</td><td style=" width:175px;  height:27px;   ">R$ 1.300,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XII</td><td style=" width:175px;  height:27px;   ">R$ 1.200,00</td></tr><tr><td style=" width:160px;  height:27px;   ">XI</td><td style=" width:175px;  height:27px;   ">R$ 1.100,00</td></tr><tr><td style=" width:160px;  height:27px;   ">X</td><td style=" width:175px;  height:27px;   ">R$ 1.000,00</td></tr><tr><td style=" width:160px;  height:27px;   ">IX</td><td style=" width:175px;  height:27px;   ">R$ 900,00</td></tr><tr><td style=" width:160px;  height:27px;   ">VIII</td><td style=" width:175px;  height:27px;   ">R$ 800,00</td></tr><tr><td style=" width:160px;  height:27px;   ">VII</td><td style=" width:175px;  height:27px;   ">R$ 700,00</td></tr><tr><td style=" width:160px;  height:27px;   ">VI</td><td style=" width:175px;  height:27px;   ">R$ 600,00</td></tr><tr><td style=" width:160px;  height:27px;   ">V</td><td style=" width:175px;  height:27px;   ">R$ 500,00</td></tr><tr><td style=" width:160px;  height:27px;   ">IV</td><td style=" width:175px;  height:27px;   ">R$ 400,00</td></tr><tr><td style=" width:160px;  height:27px;   ">III</td><td style=" width:175px;  height:27px;   ">R$ 300,00</td></tr><tr><td style=" width:160px;  height:27px;   ">II</td><td style=" width:175px;  height:27px;   ">R$ 200,00</td></tr><tr><td style=" width:160px;  height:27px;   ">I</td><td style=" width:175px;  height:27px;   ">R$ 100,00</td></tr></tbody></table>
+NÍVEL
+
+VALOR OTIMIZADO
+
+XX
+
+R$ 2.000,00
+
+XIX
+
+R$ 1.900,00
+
+XVIII
+
+R$ 1.800,00
+
+XVII
+
+R$ 1.700,00
+
+XVI
+
+R$ 1.600,00
+
+XV
+
+R$ 1.500,00
+
+XIV
+
+R$ 1.400,00
+
+XIII
+
+R$ 1.300,00
+
+XII
+
+R$ 1.200,00
+
+XI
+
+R$ 1.100,00
+
+X
+
+R$ 1.000,00
+
+IX
+
+R$ 900,00
+
+VIII
+
+R$ 800,00
+
+VII
+
+R$ 700,00
+
+VI
+
+R$ 600,00
+
+V
+
+R$ 500,00
+
+IV
+
+R$ 400,00
+
+III
+
+R$ 300,00
+
+II
+
+R$ 200,00
+
+I
+
+R$ 100,00
 
 ANEXO II
 
-NÍVEIS PARA VALORAÇÃO DA GRATIFICAÇÃO ART. 73, INCISO XIII, DA LEI COMPLEMENTAR Nº 003/2001<br>
+NÍVEIS PARA VALORAÇÃO DA GRATIFICAÇÃO ART. 73, INCISO XIII, DA LEI COMPLEMENTAR Nº 003/2001
+
  
 
-<table><tbody><tr><td rowspan="2" style=" width:241px;  height:24px;    ">CRITÉRIO</td><td rowspan="2" style=" width:47px;  height:24px;    ">NÍVEL</td><td colspan="5" style=" width:383px;  height:24px;    ">VALOR DA GRATIFICAÇÃO POR INTENSIDADE</td></tr><tr><td style=" width:76px;  height:18px;    ">A</td><td style=" width:76px;  height:18px;    ">B</td><td style=" width:76px;  height:18px;    ">C</td><td style=" width:76px;  height:18px;    ">D</td><td style=" width:80px;  height:18px;    ">E</td></tr><tr><td style=" width:241px;  height:54px;   ">Cumulativamente os critérios diferenciadores constantes dos incisos I, II, III, IV e V do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:54px;   ">X</td><td style=" width:76px;  height:54px;   ">R$ 2.000,00</td><td style=" width:76px;  height:54px;   ">R$ 1.900,00</td><td style=" width:76px;  height:54px;   ">R$ 1.800,00</td><td style=" width:76px;  height:54px;   ">R$ 1.700,00</td><td style=" width:80px;  height:54px;   ">R$ 1.600,00</td></tr><tr><td style=" width:241px;  height:55px;   ">Cumulativamente os critérios diferenciadores constantes dos incisos I, II, III e IV do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:55px;   ">IX</td><td style=" width:76px;  height:55px;   ">R$ 1.800,00</td><td style=" width:76px;  height:55px;   ">R$ 1.700,00</td><td style=" width:76px;  height:55px;   ">R$ 1.600,00</td><td style=" width:76px;  height:55px;   ">R$ 1.500,00</td><td style=" width:80px;  height:55px;   ">R$ 1.400,00</td></tr><tr><td style=" width:241px;  height:55px;   ">Cumulativamente os critérios diferenciadores constantes dos incisos I, II e IV do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:55px;   ">VIII</td><td style=" width:76px;  height:55px;   ">R$ 1.600,00</td><td style=" width:76px;  height:55px;   ">R$ 1.500,00</td><td style=" width:76px;  height:55px;   ">R$ 1.400,00</td><td style=" width:76px;  height:55px;   ">R$ 1.300,00</td><td style=" width:80px;  height:55px;   ">R$ 1.200,00</td></tr><tr><td style=" width:241px;  height:55px;   ">Cumulativamente os critérios diferenciadores constantes dos incisos I e II do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:55px;   ">VII</td><td style=" width:76px;  height:55px;   ">R$ 1.500,00</td><td style=" width:76px;  height:55px;   ">R$ 1.400,00</td><td style=" width:76px;  height:55px;   ">R$ 1.300,00</td><td style=" width:76px;  height:55px;   ">R$ 1.200,00</td><td style=" width:80px;  height:55px;   ">R$ 1.100,00</td></tr><tr><td style=" width:241px;  height:55px;   ">Cumulativamente os critérios diferenciadores constantes dos incisos III e IV do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:55px;   ">VI</td><td style=" width:76px;  height:55px;   ">R$ 1.400,00</td><td style=" width:76px;  height:55px;   ">R$ 1.300,00</td><td style=" width:76px;  height:55px;   ">R$ 1.200,00</td><td style=" width:76px;  height:55px;   ">R$ 1.100,00</td><td style=" width:80px;  height:55px;   ">R$ 1.000,00</td></tr><tr><td style=" width:241px;  height:37px;   ">&nbsp;Critério diferenciador constantes do inciso III do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:37px;   ">V</td><td style=" width:76px;  height:37px;   ">R$ 1.200,00</td><td style=" width:76px;  height:37px;   ">R$ 1.100,00</td><td style=" width:76px;  height:37px;   ">R$ 1.000,00</td><td style=" width:76px;  height:37px;   ">R$ 900,00</td><td style=" width:80px;  height:37px;   ">R$ 800,00</td></tr><tr><td style=" width:241px;  height:60px;   ">Cumulativamente os critérios diferenciadores constantes dos incisos I e IV do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:60px;   ">IV</td><td style=" width:76px;  height:60px;   ">R$ 1.100,00</td><td style=" width:76px;  height:60px;   ">R$ 1.000,00</td><td style=" width:76px;  height:60px;   ">R$ 900,00</td><td style=" width:76px;  height:60px;   ">R$ 800,00</td><td style=" width:80px;  height:60px;   ">R$ 700,00</td></tr><tr><td style=" width:241px;  height:54px;   ">Cumulativamente os critérios diferenciadores constantes dos incisos IV e V do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:54px;   ">III</td><td style=" width:76px;  height:54px;   ">R$ 1.000,00</td><td style=" width:76px;  height:54px;   ">R$ 900,00</td><td style=" width:76px;  height:54px;   ">R$ 800,00</td><td style=" width:76px;  height:54px;   ">R$ 700,00</td><td style=" width:80px;  height:54px;   ">R$ 600,00</td></tr><tr><td style=" width:241px;  height:36px;   ">&nbsp;Critério diferenciador constantes do inciso IV do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:36px;   ">II</td><td style=" width:76px;  height:36px;   ">R$ 700,00</td><td style=" width:76px;  height:36px;   ">R$ 600,00</td><td style=" width:76px;  height:36px;   ">R$ 500,00</td><td style=" width:76px;  height:36px;   ">R$ 400,00</td><td style=" width:80px;  height:36px;   ">R$ 300,00</td></tr><tr><td style=" width:241px;  height:50px;   ">&nbsp;Critério diferenciador constantes do inciso V do art. 98-B da Lei Complementar nº 003/2001.</td><td style=" width:47px;  height:50px;   ">I</td><td style=" width:76px;  height:50px;   ">R$ 500,00</td><td style=" width:76px;  height:50px;   ">R$ 400,00</td><td style=" width:76px;  height:50px;   ">R$ 300,00</td><td style=" width:76px;  height:50px;   ">R$ 200,00</td><td style=" width:80px;  height:50px;   ">R$ 100,00</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">CRITÉRIO</td><td rowspan="2">NÍVEL</td><td colspan="5">VALOR DA GRATIFICAÇÃO POR INTENSIDADE</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>Cumulativamente os critérios diferenciadores constantes dos incisos I, II, III, IV e V do art. 98-B da Lei Complementar nº 003/2001.</td><td>X</td><td>R$ 2.000,00</td><td>R$ 1.900,00</td><td>R$ 1.800,00</td><td>R$ 1.700,00</td><td>R$ 1.600,00</td></tr><tr><td>Cumulativamente os critérios diferenciadores constantes dos incisos I, II, III e IV do art. 98-B da Lei Complementar nº 003/2001.</td><td>IX</td><td>R$ 1.800,00</td><td>R$ 1.700,00</td><td>R$ 1.600,00</td><td>R$ 1.500,00</td><td>R$ 1.400,00</td></tr><tr><td>Cumulativamente os critérios diferenciadores constantes dos incisos I, II e IV do art. 98-B da Lei Complementar nº 003/2001.</td><td>VIII</td><td>R$ 1.600,00</td><td>R$ 1.500,00</td><td>R$ 1.400,00</td><td>R$ 1.300,00</td><td>R$ 1.200,00</td></tr><tr><td>Cumulativamente os critérios diferenciadores constantes dos incisos I e II do art. 98-B da Lei Complementar nº 003/2001.</td><td>VII</td><td>R$ 1.500,00</td><td>R$ 1.400,00</td><td>R$ 1.300,00</td><td>R$ 1.200,00</td><td>R$ 1.100,00</td></tr><tr><td>Cumulativamente os critérios diferenciadores constantes dos incisos III e IV do art. 98-B da Lei Complementar nº 003/2001.</td><td>VI</td><td>R$ 1.400,00</td><td>R$ 1.300,00</td><td>R$ 1.200,00</td><td>R$ 1.100,00</td><td>R$ 1.000,00</td></tr><tr><td>&nbsp;Critério diferenciador constantes do inciso III do art. 98-B da Lei Complementar nº 003/2001.</td><td>V</td><td>R$ 1.200,00</td><td>R$ 1.100,00</td><td>R$ 1.000,00</td><td>R$ 900,00</td><td>R$ 800,00</td></tr><tr><td>Cumulativamente os critérios diferenciadores constantes dos incisos I e IV do art. 98-B da Lei Complementar nº 003/2001.</td><td>IV</td><td>R$ 1.100,00</td><td>R$ 1.000,00</td><td>R$ 900,00</td><td>R$ 800,00</td><td>R$ 700,00</td></tr><tr><td>Cumulativamente os critérios diferenciadores constantes dos incisos IV e V do art. 98-B da Lei Complementar nº 003/2001.</td><td>III</td><td>R$ 1.000,00</td><td>R$ 900,00</td><td>R$ 800,00</td><td>R$ 700,00</td><td>R$ 600,00</td></tr><tr><td>&nbsp;Critério diferenciador constantes do inciso IV do art. 98-B da Lei Complementar nº 003/2001.</td><td>II</td><td>R$ 700,00</td><td>R$ 600,00</td><td>R$ 500,00</td><td>R$ 400,00</td><td>R$ 300,00</td></tr><tr><td>&nbsp;Critério diferenciador constantes do inciso V do art. 98-B da Lei Complementar nº 003/2001.</td><td>I</td><td>R$ 500,00</td><td>R$ 400,00</td><td>R$ 300,00</td><td>R$ 200,00</td><td>R$ 100,00</td></tr></tbody></table>
 
 ANEXO III
 
-<br>
 NÍVEIS PARA VALORAÇÃO GRATIFICAÇÃO POR PENOSIDADE, PREVISTA NODO ART. 73, INCISO VI, DA LEI COMPLEMENTAR Nº 003/2001
 
-<table><tbody><tr><td style=" width:160px;  height:40px;    ">NÍVEL</td><td style=" width:175px;  height:40px;    ">VALOR OTIMIZADO</td></tr><tr><td style=" width:160px;  height:27px;   ">X</td><td style=" width:175px;  height:27px;   ">R$ 1.000,00</td></tr><tr><td style=" width:160px;  height:27px;   ">IX</td><td style=" width:175px;  height:27px;   ">R$ 900,00</td></tr><tr><td style=" width:160px;  height:27px;   ">VIII</td><td style=" width:175px;  height:27px;   ">R$ 800,00</td></tr><tr><td style=" width:160px;  height:27px;   ">VII</td><td style=" width:175px;  height:27px;   ">R$ 700,00</td></tr><tr><td style=" width:160px;  height:27px;   ">VI</td><td style=" width:175px;  height:27px;   ">R$ 600,00</td></tr><tr><td style=" width:160px;  height:27px;   ">V</td><td style=" width:175px;  height:27px;   ">R$ 500,00</td></tr><tr><td style=" width:160px;  height:27px;   ">IV</td><td style=" width:175px;  height:27px;   ">R$ 400,00</td></tr><tr><td style=" width:160px;  height:27px;   ">III</td><td style=" width:175px;  height:27px;   ">R$ 300,00</td></tr><tr><td style=" width:160px;  height:27px;   ">II</td><td style=" width:175px;  height:27px;   ">R$ 200,00</td></tr><tr><td style=" width:160px;  height:27px;   ">I</td><td style=" width:175px;  height:27px;   ">R$ 100,00</td></tr></tbody></table>
+NÍVEL
+
+VALOR OTIMIZADO
+
+X
+
+R$ 1.000,00
+
+IX
+
+R$ 900,00
+
+VIII
+
+R$ 800,00
+
+VII
+
+R$ 700,00
+
+VI
+
+R$ 600,00
+
+V
+
+R$ 500,00
+
+IV
+
+R$ 400,00
+
+III
+
+R$ 300,00
+
+II
+
+R$ 200,00
+
+I
+
+R$ 100,00
 
 ANEXO IV
 
-<br>
 ANEXO III - LEI COMPLEMENTAR Nº 125/2017
 
-<br>
-QUANTITATIVO E SUBSÍDIOS/VENCIMENTOS – CARGOS DE DIREÇÃO E ASSESSORAMENTO<br>
+QUANTITATIVO E SUBSÍDIOS/VENCIMENTOS – CARGOS DE DIREÇÃO E ASSESSORAMENTO
+
  
 
-<table><tbody><tr><td style=" width:69px;  height:39px;    ">SÍMB.</td><td style=" width:271px;  height:39px;    ">DENOMINAÇÃO</td><td style=" width:96px;  height:39px;    ">QUANT.</td><td style=" width:167px;  height:39px;    ">SUBSÍDIO</td></tr><tr><td style=" width:69px;  height:15px;   ">DS-1</td><td style=" width:271px;  height:15px;   ">Chefe da Casa Civil</td><td style=" width:96px;  height:15px;   ">1</td><td rowspan="4" style=" width:167px;  height:15px;   ">Valor fixado para Secretário Municipal, constante da LC nº 62/2012.</td></tr><tr><td style=" width:69px;  height:17px;   ">DS-1</td><td style=" width:271px;  height:17px;   ">Presidente de Autarquia</td><td style=" width:96px;  height:17px;   ">1</td></tr><tr><td style=" width:69px;  height:19px;   ">DS-1</td><td style=" width:271px;  height:19px;   ">Procurador Geral</td><td style=" width:96px;  height:19px;   ">1</td></tr><tr><td style=" width:69px;  height:18px;   ">DS-1</td><td style=" width:271px;  height:18px;   ">Secretário Municipal</td><td style=" width:96px;  height:18px;   ">18</td></tr><tr><td style=" width:69px;  height:19px;   ">DSE-1</td><td style=" width:271px;  height:19px;   ">Secretário Executivo</td><td style=" width:96px;  height:19px;   ">24</td><td style=" width:167px;  height:19px;   ">R$ 8.000,00</td></tr><tr><td style=" width:69px;  height:33px;    ">SÍMB.</td><td style=" width:271px;  height:33px;    ">DENOMINAÇÃO</td><td style=" width:96px;  height:33px;    ">QUANT.</td><td style=" width:167px;  height:33px;    ">VENCIMENTO</td></tr><tr><td style=" width:69px;  height:20px;   ">DS-4</td><td style=" width:271px;  height:20px;   ">Contador Geral</td><td style=" width:96px;  height:20px;   ">1</td><td style=" width:167px;  height:20px;   ">R$ 7.518,73</td></tr><tr><td style=" width:69px;  height:20px;   ">DSS-1</td><td style=" width:271px;  height:20px;   ">Superintendente de Saúde</td><td style=" width:96px;  height:20px;   ">1</td><td style=" width:167px;  height:20px;   ">R$ 6.865,64</td></tr><tr><td style=" width:69px;  height:20px;   ">DSS-2</td><td style=" width:271px;  height:20px;   ">Diretor de Saúde</td><td style=" width:96px;  height:20px;   ">2</td><td style=" width:167px;  height:20px;   ">R$ 6.385,95</td></tr><tr><td style=" width:69px;  height:20px;   ">DS-2</td><td style=" width:271px;  height:20px;   ">Assessor Especial do Prefeito</td><td style=" width:96px;  height:20px;   ">9</td><td style=" width:167px;  height:20px;   ">R$ 6.265,64</td></tr><tr><td style=" width:69px;  height:20px;   ">DS-2</td><td style=" width:271px;  height:20px;   ">Superintendente</td><td style=" width:96px;  height:20px;   ">21</td><td style=" width:167px;  height:20px;   ">R$ 6.265,64</td></tr><tr><td style=" width:69px;  height:20px;   ">DSS-3</td><td style=" width:271px;  height:20px;   ">Diretor de Unidade de Saúde</td><td style=" width:96px;  height:20px;   ">13</td><td style=" width:167px;  height:20px;   ">R$ 5.166,64</td></tr><tr><td style=" width:69px;  height:20px;   ">CCS-1</td><td style=" width:271px;  height:20px;   ">Coordenador de Saúde</td><td style=" width:96px;  height:20px;   ">8</td><td style=" width:167px;  height:20px;   ">R$ 5.132,83</td></tr><tr><td style=" width:69px;  height:20px;   ">CCS-2</td><td style=" width:271px;  height:20px;   ">Coordenador de Unidade de Saúde</td><td style=" width:96px;  height:20px;   ">8</td><td style=" width:167px;  height:20px;   ">R$ 4.632,83</td></tr><tr><td style=" width:69px;  height:20px;   ">DS-3</td><td style=" width:271px;  height:20px;   ">Diretor</td><td style=" width:96px;  height:20px;   ">58</td><td style=" width:167px;  height:20px;   ">R$ 4.385,95</td></tr><tr><td style=" width:69px;  height:20px;   ">CCS-3</td><td style=" width:271px;  height:20px;   ">Chefe de Saúde</td><td style=" width:96px;  height:20px;   ">14</td><td style=" width:167px;  height:20px;   ">R$ 3.379,70</td></tr><tr><td style=" width:69px;  height:20px;   ">AJU-1</td><td style=" width:271px;  height:20px;   ">Assessor Jurídico</td><td style=" width:96px;  height:20px;   ">11</td><td style=" width:167px;  height:20px;   ">R$ 3.166,64</td></tr><tr><td style=" width:69px;  height:21px;   ">CC-1</td><td style=" width:271px;  height:21px;   ">Coordenador</td><td style=" width:96px;  height:21px;   ">139</td><td style=" width:167px;  height:21px;   ">R$ 3.132,83</td></tr><tr><td style=" width:69px;  height:21px;   ">CC-1</td><td style=" width:271px;  height:21px;   ">Subprocurador</td><td style=" width:96px;  height:21px;   ">5</td><td style=" width:167px;  height:21px;   ">R$ 3.132,83</td></tr><tr><td style=" width:69px;  height:22px;   ">CCS-4</td><td style=" width:271px;  height:22px;   ">Chefe de Unidade de Saúde</td><td style=" width:96px;  height:22px;   ">62</td><td style=" width:167px;  height:22px;   ">R$ 2.887,76</td></tr><tr><td style=" width:69px;  height:20px;   ">AS</td><td style=" width:271px;  height:20px;   ">Assessor Superior</td><td style=" width:96px;  height:20px;   ">60</td><td style=" width:167px;  height:20px;   ">R$ 2.756,89</td></tr><tr><td style=" width:69px;  height:20px;   ">AS</td><td style=" width:271px;  height:20px;   ">Presidente de Conselheiro Tutelar</td><td style=" width:96px;  height:20px;   ">3</td><td style=" width:167px;  height:20px;   ">R$ 2.756,89</td></tr><tr><td style=" width:69px;  height:20px;   ">APA</td><td style=" width:271px;  height:20px;   ">Assessor de Planejamento e Administração</td><td style=" width:96px;  height:20px;   ">19</td><td style=" width:167px;  height:20px;   ">R$ 2.506,26</td></tr><tr><td style=" width:69px;  height:20px;   ">CC-2</td><td style=" width:271px;  height:20px;   ">Chefe</td><td style=" width:96px;  height:20px;   ">130</td><td style=" width:167px;  height:20px;   ">R$ 1.879,70</td></tr><tr><td style=" width:69px;  height:20px;   ">CC-2</td><td style=" width:271px;  height:20px;   ">Chefe de Gabinete</td><td style=" width:96px;  height:20px;   ">21</td><td style=" width:167px;  height:20px;   ">R$ 1.879,70</td></tr><tr><td style=" width:69px;  height:20px;   ">AES-1</td><td style=" width:271px;  height:20px;   ">Assessor Especial 1</td><td style=" width:96px;  height:20px;   ">300</td><td style=" width:167px;  height:20px;   ">R$ 2.255,64</td></tr><tr><td style=" width:69px;  height:20px;   ">AES-1</td><td style=" width:271px;  height:20px;   ">Conselheiro Tutelar</td><td style=" width:96px;  height:20px;   ">12</td><td style=" width:167px;  height:20px;   ">R$ 2.255,64</td></tr><tr><td style=" width:69px;  height:20px;   ">AES-2</td><td style=" width:271px;  height:20px;   ">Assessor Especial 2</td><td style=" width:96px;  height:20px;   ">300</td><td style=" width:167px;  height:20px;   ">R$ 1.253,13</td></tr><tr><td style=" width:69px;  height:20px;   ">AED-1</td><td style=" width:271px;  height:20px;   ">Assessor Especial 3</td><td style=" width:96px;  height:20px;   ">300</td><td style=" width:167px;  height:20px;   ">R$ 1.127,82</td></tr><tr><td style=" width:69px;  height:20px;   ">AEC-1</td><td style=" width:271px;  height:20px;   ">Assessor Especial 4</td><td style=" width:96px;  height:20px;   ">300</td><td style=" width:167px;  height:20px;   ">R$ 937,00</td></tr></tbody></table>
+<table><tbody><tr><td>SÍMB.</td><td>DENOMINAÇÃO</td><td>QUANT.</td><td>SUBSÍDIO</td></tr><tr><td>DS-1</td><td>Chefe da Casa Civil</td><td>1</td><td rowspan="4">Valor fixado para Secretário Municipal, constante da LC nº 62/2012.</td></tr><tr><td>DS-1</td><td>Presidente de Autarquia</td><td>1</td></tr><tr><td>DS-1</td><td>Procurador Geral</td><td>1</td></tr><tr><td>DS-1</td><td>Secretário Municipal</td><td>18</td></tr><tr><td>DSE-1</td><td>Secretário Executivo</td><td>24</td><td>R$ 8.000,00</td></tr><tr><td>SÍMB.</td><td>DENOMINAÇÃO</td><td>QUANT.</td><td>VENCIMENTO</td></tr><tr><td>DS-4</td><td>Contador Geral</td><td>1</td><td>R$ 7.518,73</td></tr><tr><td>DSS-1</td><td>Superintendente de Saúde</td><td>1</td><td>R$ 6.865,64</td></tr><tr><td>DSS-2</td><td>Diretor de Saúde</td><td>2</td><td>R$ 6.385,95</td></tr><tr><td>DS-2</td><td>Assessor Especial do Prefeito</td><td>9</td><td>R$ 6.265,64</td></tr><tr><td>DS-2</td><td>Superintendente</td><td>21</td><td>R$ 6.265,64</td></tr><tr><td>DSS-3</td><td>Diretor de Unidade de Saúde</td><td>13</td><td>R$ 5.166,64</td></tr><tr><td>CCS-1</td><td>Coordenador de Saúde</td><td>8</td><td>R$ 5.132,83</td></tr><tr><td>CCS-2</td><td>Coordenador de Unidade de Saúde</td><td>8</td><td>R$ 4.632,83</td></tr><tr><td>DS-3</td><td>Diretor</td><td>58</td><td>R$ 4.385,95</td></tr><tr><td>CCS-3</td><td>Chefe de Saúde</td><td>14</td><td>R$ 3.379,70</td></tr><tr><td>AJU-1</td><td>Assessor Jurídico</td><td>11</td><td>R$ 3.166,64</td></tr><tr><td>CC-1</td><td>Coordenador</td><td>139</td><td>R$ 3.132,83</td></tr><tr><td>CC-1</td><td>Subprocurador</td><td>5</td><td>R$ 3.132,83</td></tr><tr><td>CCS-4</td><td>Chefe de Unidade de Saúde</td><td>62</td><td>R$ 2.887,76</td></tr><tr><td>AS</td><td>Assessor Superior</td><td>60</td><td>R$ 2.756,89</td></tr><tr><td>AS</td><td>Presidente de Conselheiro Tutelar</td><td>3</td><td>R$ 2.756,89</td></tr><tr><td>APA</td><td>Assessor de Planejamento e Administração</td><td>19</td><td>R$ 2.506,26</td></tr><tr><td>CC-2</td><td>Chefe</td><td>130</td><td>R$ 1.879,70</td></tr><tr><td>CC-2</td><td>Chefe de Gabinete</td><td>21</td><td>R$ 1.879,70</td></tr><tr><td>AES-1</td><td>Assessor Especial 1</td><td>300</td><td>R$ 2.255,64</td></tr><tr><td>AES-1</td><td>Conselheiro Tutelar</td><td>12</td><td>R$ 2.255,64</td></tr><tr><td>AES-2</td><td>Assessor Especial 2</td><td>300</td><td>R$ 1.253,13</td></tr><tr><td>AED-1</td><td>Assessor Especial 3</td><td>300</td><td>R$ 1.127,82</td></tr><tr><td>AEC-1</td><td>Assessor Especial 4</td><td>300</td><td>R$ 937,00</td></tr></tbody></table>

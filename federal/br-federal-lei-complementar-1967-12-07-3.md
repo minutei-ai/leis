@@ -1,7 +1,3 @@
-1
-
-###LCP-000003-0-000-07-12-1967@@@
-
 # LEI COmPLEmENTAr Nº 3, DE 7 DE DEZEmBro DE 1967
 
 Dispõe sobre os Orçamentos Plurianuais de Investimento, e dá outras providências.
@@ -112,8 +108,6 @@ Hélio Beltrão
 
 (\*) Partes vetadas pêlo Presidente da República e mantidas pelo Congresso Nacional.
 
-###LCP-000003-0-000-07-12-1967@@@VET01+++
-
 PARTES VETADAS
 
 # LEI COMPLEMENTAR Nº 3 DE 7 DE DEZEMBRO DE 1967
@@ -153,8 +147,6 @@ Senado Federal, 26 de março de 1968.
 GILBERTO MARINHO
 
 Presidente do SENADO FEDERAL
-
-###LCP-000003-0-000-07-12-1967@@@RET01+++
 
 # LEI COMPLEMENTAR Nº 3, DE 7 DE DEZEMBRO DE 1967
 

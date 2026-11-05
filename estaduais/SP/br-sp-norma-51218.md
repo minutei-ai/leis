@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51218)
-
 # LEI Nº 11.753, DE 01 DE JULHO DE 2004
 
 ## (PL 752/2001 - Luiz Gonzaga Vieira)

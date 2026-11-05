@@ -1,5 +1,3 @@
-###DEC-062159-0-000-19-01-1968@@@
-
 DECRETO Nº 62.159, DE 19 DE JANEIRO DE 1968.
 
 Dá nova redação ao artigo 252 do Regulamento Geral da Previdência Social.

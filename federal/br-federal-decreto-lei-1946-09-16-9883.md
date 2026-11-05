@@ -1,5 +1,3 @@
-###DEL-009883-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.883 – DE 16 DE SETEMBRO DE 1946
 
 Limita a recria e engorda de animais por parte das emprêsas frigoríficas que exploram a indústria de carnes e derivados e dá outras providências

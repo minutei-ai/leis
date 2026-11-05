@@ -1,5 +1,3 @@
-###DEC-064503-0-000-14-05-1969@@@
-
 DECRETO Nº 64.503, DE 14 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, área destinada à ampliação da subestação de Mogi das Cruzes localizadas no município de Mogi das Cruzes, Estado de São Paulo.

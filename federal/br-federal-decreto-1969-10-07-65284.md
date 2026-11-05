@@ -1,5 +1,3 @@
-###DEC-065284-0-000-07-10-1969@@@
-
 DECRETO Nº 65.284 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto nº 10.388, de 2 de setembro de 1942.

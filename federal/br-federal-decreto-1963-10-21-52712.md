@@ -1,5 +1,3 @@
-###DEC-052712-0-000-21-10-1963@@@
-
 DECRETO Nº 52.712, DE 21 DE OUTUBRO DE 1963.
 
 Altera dispositivos do Regulamento aprovado pelo Decreto nº 51.816, de 11 de março de 1963.

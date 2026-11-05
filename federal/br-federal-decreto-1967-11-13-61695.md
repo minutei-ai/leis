@@ -1,5 +1,3 @@
-###DEC-061695-0-000-13-11-1967@@@
-
 Decreto nº 61.695, de 13 de novembro de 1967.
 
 Autoriza a Sociedade Extrativa de Minérios da Ribeira Ltda., a lavrar calcita, no município de Ribeira, no Estado de São Paulo.

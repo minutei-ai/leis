@@ -1,5 +1,3 @@
-###DEL-005151-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.151 – DE 31 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Aeronáutica o crédito suplementar de Cr$ 13.847.442,60 à verba que especifica

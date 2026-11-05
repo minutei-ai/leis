@@ -1,5 +1,3 @@
-###DEC-046241-0-000-19-06-1959@@@
-
 DECRETO Nº 46.241, DE 19 DE JUNHO DE 1959.
 
 Dispõe sôbre a função gratificada de Assistente do Delegado Fiscal no Estado de Pernambuco, do Ministério da Fazenda.

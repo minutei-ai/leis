@@ -1,5 +1,3 @@
-###DEC-073843-0-000-13-03-1974@@@
-
 DECRETO nº 73.843, DE 13 DE MARÇO DE 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências .

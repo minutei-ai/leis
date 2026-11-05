@@ -1,5 +1,3 @@
-###DEL-008690-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.690 – DE 16 DE JANEIRO DE 1946
 
 Dispõe sôbre a substituição e conversão de penas criminais.

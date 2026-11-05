@@ -62,15 +62,75 @@ DEFENSOR PÚBLICO
 
 A - Vigência a partir de 01 de setembro de 2008
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Classe</p></td><td style="width: 178.5pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">% de interstício em relação a classe anterior</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Instância Superior</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">7,875%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Especial</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">6,958%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">3ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">8,081%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">2ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">11,112%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">1ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238">&nbsp;</td></tr></tbody></table>
+Classe
+
+% de interstício em relação a classe anterior
+
+Instância Superior
+
+7,875%
+
+Especial
+
+6,958%
+
+3ª
+
+8,081%
+
+2ª
+
+11,112%
+
+1ª
 
 B - Vigência a partir de 01 de setembro de 2009
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Classe</p></td><td style="width: 178.5pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">% de interstício em relação a classe anterior</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Instância Superior</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">10,020%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Especial</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">10,015%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">3ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">10,159%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">2ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">11,901%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">1ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238">&nbsp;</td></tr></tbody></table>
+Classe
+
+% de interstício em relação a classe anterior
+
+Instância Superior
+
+10,020%
+
+Especial
+
+10,015%
+
+3ª
+
+10,159%
+
+2ª
+
+11,901%
+
+1ª
 
 C - Vigência a partir de 01 de setembro de 2010
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Classe</p></td><td style="width: 178.5pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">% de interstício em relação a classe anterior</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Instância Superior</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">12,525%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Especial</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">11,271%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">3ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">9,357%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">2ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">10,968%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">1ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238">&nbsp;</td></tr></tbody></table>
+Classe
+
+% de interstício em relação a classe anterior
+
+Instância Superior
+
+12,525%
+
+Especial
+
+11,271%
+
+3ª
+
+9,357%
+
+2ª
+
+10,968%
+
+1ª
 
 ANEXO II
 
@@ -80,8 +140,34 @@ DEFENSOR PÚBLICO
 
 A - Vigência a partir de 01 de setembro de 2011
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">ANO</p></td><td style="width: 178.5pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">Subsídio Classe inicial (R$)</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">2011</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">12.400,00<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr></tbody></table>
+ANO
+
+Subsídio Classe inicial (R$)
+
+2011
+
+12.400,00
 
 B - Vigência a partir de 01 de setembro de 2011
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Classe</p></td><td style="width: 178.5pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">% de interstício em relação a classe anterior</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Instância Superior</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">11,112%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">Especial</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">11,112%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">3ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">11,112%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">2ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238"><p class="Tabela-Texto">11,113%</p></td></tr><tr><td style="width: 118.8pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="158"><p class="Tabela-Texto">1ª</p></td><td style="width: 178.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 0cm 0cm 0cm; height: 34.3pt;" valign="top" width="238">&nbsp;</td></tr></tbody></table>
+Classe
+
+% de interstício em relação a classe anterior
+
+Instância Superior
+
+11,112%
+
+Especial
+
+11,112%
+
+3ª
+
+11,112%
+
+2ª
+
+11,113%
+
+1ª

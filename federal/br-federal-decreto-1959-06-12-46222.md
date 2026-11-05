@@ -1,5 +1,3 @@
-###DEC-046222-0-000-12-06-1959@@@
-
 DECRETO Nº 46.222, DE 12 DE JUNHO DE 1959.
 
 Autoriza a aquisição de ações da Emprêsa Centrais Elétricas de Goiás Sociedade Anônima.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001201-0-000-21-07-1994@@@
-
 DECRETO N° 1.201, DE 21 DE JULHO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

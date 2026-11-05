@@ -1,7 +1,3 @@
-1
-
-###DEL-002409-0-000-07-01-1988@@@
-
 # DECRETO‑LEI Nº 2.409, DE 7 DE JANEIRO DE 1988
 
 Altera o Decreto-lei nº 1.901, de 22 de dezembro de 1981.

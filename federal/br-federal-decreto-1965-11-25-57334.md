@@ -1,5 +1,3 @@
-###DEC-057334-0-000-25-11-1965@@@
-
 DECRETO Nº 57.334, DE 25 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro José Pedro a pesquisar filito no município de Pirapora do Bom Jesus, Estado de São Paulo.

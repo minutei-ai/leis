@@ -1,5 +1,3 @@
-###DEC-081874-0-000-03-07-1978@@@
-
 Decreto nº 81.874, de 03 de julho de 1978.
 
 Altera dispositivo do Decreto nº 80 509, de 7 de outubro de 1977, que cria a Diretoria de Armamento e Comunicações da Marinha (DACM), extingue a Diretoria de Armamento da Marinha (DAM) e a Diretoria de Comunicações e Eletrônica da Marinha (DCEM), e aprova o Regulamento da Diretoria de Armamento e Comunicações da Marinha.

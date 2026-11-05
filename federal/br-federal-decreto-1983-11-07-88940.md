@@ -1,5 +1,3 @@
-###DEC-088940-0-000-07-11-1983@@@
-
 decreto nº 88.940, de 07 de novembro dE 1983
 
 Dispõe sobre a criação das Áreas de Proteção Ambiental das Bacias dos Rios São Bartolomeu e Descoberto, e dá outras providências.

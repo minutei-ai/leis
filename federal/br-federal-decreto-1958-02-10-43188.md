@@ -1,14 +1,12 @@
-###DEC-043188-0-000-10-02-1958@@@
+**DECRETO Nº 43.188, DE 10 DE FEVEREIRO DE 1958.**
 
-<strong>DECRETO Nº 43.188, DE 10 DE FEVEREIRO DE 1958.</strong>
+***Modifica a redação de artigos do Regulamento aprovado pelo Decreto nº 39.344, de 11 de junho de 1956, (Regulamento da Lei de Promoções do Exército).***
 
-<em><strong>Modifica a redação de artigos do Regulamento aprovado pelo Decreto nº 39.344, de 11 de junho de 1956, (Regulamento da Lei de Promoções do Exército).</strong></em>
+**O PRESIDENTE DE REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DE REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 12, 16, 17, e 27 do Regulamento aprovado pelo Decreto nº 39.344, de 11 de junho de 1956 (Regulamento da Lei de Promoções do Exército) passam a ter a seguinte redação:
+**Art**. 1º Os artigos 12, 16, 17, e 27 do Regulamento aprovado pelo Decreto nº 39.344, de 11 de junho de 1956 (Regulamento da Lei de Promoções do Exército) passam a ter a seguinte redação:
 
 “Art. 12 para promoção pelo princípio de escolha deverá o oficial satisfazer os requisitos determinados na Lei de Promoções, artigos 20, 21, 22, 23, e 24, conforme o caso.
 
@@ -24,10 +22,10 @@ Parágrafo único. As listas a serem organizadas para a promoção por escôlha,
 
 2º Número de pontos obtidos no 2º escrutínio”.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de fevereiro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

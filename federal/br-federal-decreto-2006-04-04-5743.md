@@ -1,5 +1,3 @@
-###DEC-005743-0-000-04-04-2006@@@
-
 DECRETO Nº 5.743, DE 4 DE ABRIL DE 2006.
 
      Dispõe sobre o remanejamento, em caráter temporário, de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona.

@@ -1,5 +1,3 @@
-###DEC-055436-0-000-31-12-1964@@@
-
 DECRETO Nº 55.436, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza Magnesium do Brasil Limitada a lavrar magnesita no município de Iguatu, Estado do Ceará.

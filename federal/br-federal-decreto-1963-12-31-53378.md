@@ -1,5 +1,3 @@
-###DEC-053378-0-000-31-12-1963@@@
-
 DECRETO Nº 53.378, DE 31 DE DEZEMBRO DE 1963
 
 Altera o dispositivo do Decreto número 43.935, de 3 de julho de 1958.

@@ -1,5 +1,3 @@
-###DEC-076106-0-000-11-08-1975@@@
-
 Decreto nº 76.106 - de 11 de agosto de 1975
 
 Altera o artigo 11 do Decreto número 67.706, de 7 de dezembro de 1970, que reorganiza o Conselho de Desenvolvimento Industrial e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048394-0-000-23-06-1960@@@
-
 DECRETO Nº 48.394, DE 23 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro João Pires de Abreu a pesquisar calcário no município de Sete Lagoas, Estado de Minas Gerais.

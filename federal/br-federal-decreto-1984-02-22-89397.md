@@ -1,5 +1,3 @@
-###DEC-089397-0-000-22-02-1984@@@
-
 Decreto nº 89.397, de 22 de fevereiro de 1984
 
 Autoriza o aumento do capital social do Hospital de Clínicas de Porto Alegre.

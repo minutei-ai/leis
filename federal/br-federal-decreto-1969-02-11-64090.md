@@ -1,5 +1,3 @@
-###DEC-064090-0-000-11-02-1969@@@
-
 Decreto nº 64.090, de 11 de fevereiro de 1969.
 
 Declara caduco o Decreto nº 17.268 de 29 de novembro de 1944.

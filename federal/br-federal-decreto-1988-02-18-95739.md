@@ -1,7 +1,3 @@
-1
-
-###DEC-095739-0-000-18-02-1988@@@
-
 DECRETO N° 95.739, DE 18 DE FEVEREIRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Palestina, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-058290-0-000-29-04-1966@@@
-
 decreto nº 58.290, de 29 de abril de 1966.
 
 Garantia do Tesouro Nacional a uma operação de crédito com o Departamento Nacional de Estradas de Rodagem.

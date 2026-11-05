@@ -1,5 +1,3 @@
-###DEL-006760-0-000-31-07-1944@@@
-
 DECRETO-LEI N. 6.760 – DE 31 DE JULHO DE 1944
 
 Acrescenta dispositivo ao Decreto-lei nº 6.397, de 1 de abril de 1944

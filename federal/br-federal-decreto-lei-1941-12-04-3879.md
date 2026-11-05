@@ -1,5 +1,3 @@
-###DEL-003879-0-000-04-12-1941@@@
-
 DECRETO-LEI N. 3.879 – DE 4 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 77:500$0, à verba que especifica

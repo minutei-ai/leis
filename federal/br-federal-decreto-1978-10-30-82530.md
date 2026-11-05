@@ -1,5 +1,3 @@
-###DEC-082530-0-000-30-10-1978@@@
-
 Decreto nº 82 530, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Serviço Social, da Faculdade de Serviço Social de Uberlândia, com sede na cidade de Uberlândia, Estado de Minas Gerais.

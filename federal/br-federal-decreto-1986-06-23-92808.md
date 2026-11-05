@@ -1,5 +1,3 @@
-###DEC-092808-0-000-23-06-1986@@@
-
 DECRETO Nº 92.808, DE 23 DE JUNHO DE 1986
 
 Declara de interesse Social, para fins de desapropriação, o imóvel rural denominado "Mira Flores", situado no Município de Turiaçu, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619, de 2 de maio de 1986, e dá outras providências.

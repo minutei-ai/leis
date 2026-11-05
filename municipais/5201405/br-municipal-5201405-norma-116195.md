@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.129, DE 11 DE DEZEMBRO DE 2013.<br>
+LEI MUNICIPAL Nº 3.129, DE 11 DE DEZEMBRO DE 2013.
+
 (Revogada pela Lei Ordinária nº 3.549, de 24 de abril de 2020).
 
 ~~Fica o Poder Executivo Municipal autorizado à desafetar área pública do uso comum do povo e fazer doação para INSTITUTO DE ADMINISTRAÇÃO E GESTÃO EDUCACIONAL LTDA., situada no loteamento Jardim Florença, neste município.~~
@@ -25,11 +26,14 @@ LEI MUNICIPAL Nº 3.129, DE 11 DE DEZEMBRO DE 2013.<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 11 dias do mês de dezembro de dois mil e treze.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~
 
-~~TARCÍSIO FRANCISCO DOS SANTOS<br>
+~~TARCÍSIO FRANCISCO DOS SANTOS
+
 Procurador Geral do Município~~

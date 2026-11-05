@@ -1,5 +1,3 @@
-###DEC-003367-0-000-22-02-2000@@@
-
 DECRETO Nº 3.367, DE 22 DE FEVEREIRO DE 2000.
 
 Dispõe sobre o processo de desestatização das empresas do setor elétrico, incluídas no Programa Nacional de Desestatização - PND.

@@ -1,5 +1,3 @@
-###DEC-004318-0-000-31-07-2002@@@
-
 DECRETO Nº 4.318, DE 31 DE JULHO DE 2002
 
 Altera a alíquota do Imposto sobre Produtos Industrializados - IPI incidente sobre os produtos que menciona.

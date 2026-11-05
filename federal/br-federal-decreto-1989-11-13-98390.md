@@ -1,7 +1,3 @@
-1
-
-###DEC-098390-0-000-13-11-1989@@@
-
 DECRETO Nº 98.390, DE 13 DE NOVEMBRO DE 1989
 
 Altera o Regimento de Custas do Tribunal Marítimo, aprovado pelo Decreto nº 93.667, de 09 de dezembro de 1986.
@@ -32,7 +28,125 @@ TABELA I
 
 Das custas referentes a processos sobre acidentes e fatos da navegação e outros atos
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:60.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Itens</span></p></td><td style="width:248.15pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="text-indent:0pt"><span>Atos</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.7pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Valor (BTN)</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Distribuição e Cancelamento</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>02</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Representação (ver 1ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>03</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Citação, intimação (ver 2ª e 3ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>04</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Diligências (ver 4ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>05</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Homologação de desistência (ver 5ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>06</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Delegação de atribuições</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>07</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Deserção de recurso ou diligência</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>08</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Desentranhamento de documentos - por fl.</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>09</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Guia de julgado</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Conta de custas</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>11</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Recursos em geral, inclusive em matéria de registro</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>12</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Assistência ou litisconsórcio - por pessoa</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>13</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Certidões, translados, ofícios, instrumento de agravo,edital, mandado, carta (ver 6ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>14</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>Dos peritos (ver 7ª obs.)</span></p><p class="Anexo" style="text-indent:0pt"><span>a ) Perícia</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>b) Exame em documentos</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>80</span></p><p class="Anexo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>60</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>Dos intérpretes</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Intervenção em depoimento - em cada ato com duração máxima de 1 hora (ver 8ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>Dos advogados de ofício (ver 9ª obs.)</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>a) Defesa de armador e de proprietário de navio, estaleiro, dique, carreira, oficina de construção ou de reparação naval ou equivalente</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70 a 800</span></p></td></tr><tr><td style="width:60.3pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>b) Defesa de capitão, oficial ou equivalente</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>c) Defesa de subalterno</span></p></td><td style="width:102.7pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>48 a 200</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16 a 80</span></p></td></tr></tbody></table>
+Itens
+
+Atos
+
+Valor (BTN)
+
+01
+
+Distribuição e Cancelamento
+
+8
+
+02
+
+Representação (ver 1ª obs.)
+
+8
+
+03
+
+Citação, intimação (ver 2ª e 3ª obs.)
+
+8
+
+04
+
+Diligências (ver 4ª obs.)
+
+8
+
+05
+
+Homologação de desistência (ver 5ª obs.)
+
+8
+
+06
+
+Delegação de atribuições
+
+8
+
+07
+
+Deserção de recurso ou diligência
+
+8
+
+08
+
+Desentranhamento de documentos - por fl.
+
+1
+
+09
+
+Guia de julgado
+
+2
+
+10
+
+Conta de custas
+
+8
+
+11
+
+Recursos em geral, inclusive em matéria de registro
+
+16
+
+12
+
+Assistência ou litisconsórcio - por pessoa
+
+8
+
+13
+
+Certidões, translados, ofícios, instrumento de agravo,edital, mandado, carta (ver 6ª obs.)
+
+8
+
+14
+
+Dos peritos (ver 7ª obs.)
+
+a ) Perícia
+
+b) Exame em documentos
+
+80
+
+60
+
+15
+
+Dos intérpretes
+
+Intervenção em depoimento - em cada ato com duração máxima de 1 hora (ver 8ª obs.)
+
+16
+
+16
+
+Dos advogados de ofício (ver 9ª obs.)
+
+a) Defesa de armador e de proprietário de navio, estaleiro, dique, carreira, oficina de construção ou de reparação naval ou equivalente
+
+70 a 800
+
+b) Defesa de capitão, oficial ou equivalente
+
+c) Defesa de subalterno
+
+48 a 200
+
+16 a 80
 
 Observações:
 
@@ -70,7 +184,103 @@ TABELA II
 
 Das custas referentes a registro inicial ou transferência de propriedade marítima, de armador, de hipoteca, de demais ônus e outros atos
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:74.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Itens</span></p></td><td style="width:233.95pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Atos</span></p></td><td style="width:102.7pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Valor (BTN)</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Registro ou transferência de propriedade marítima até 4000 AB(*)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Entre 4000 e 10000 AB</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10000 e 22000 AB</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>240</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>22000 e 40000 AB</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>480</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Acima de 40000 AB</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>640</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>02</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Registro de armador (em função do total de tonelagem bruta, objeto de armação) (ver 1ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Até 5000 TB</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Entre 5000 e 50000 TB .</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>48</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Acima de 50000 TB</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>112</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>03</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Registro de hipoteca, alienação fiduciária, anticrese, crédito privilegiado e outros ônus</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Até 7600 BTN</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Entre 7600 e 20169 BTN</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>20169 e 32968 BTN</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>160</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>32968 e 50721 BTN</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>240</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Acima de 50721 BTNs</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>320</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>04</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Cancelamento em geral</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>05</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Averbações em geral (ver 2ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>06</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Provisão para condômino ou nova via (ver 2ª obs.)</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>07</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Nova via do certificado de armador</span></p></td><td style="width:102.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>16</span></p></td></tr><tr><td style="width:74.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>08</span></p></td><td style="width:233.95pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Certidão</span></p></td><td style="width:102.7pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td></tr></tbody></table>
+Itens
+
+Atos
+
+Valor (BTN)
+
+01
+
+Registro ou transferência de propriedade marítima até 4000 AB(*)
+
+16
+
+Entre 4000 e 10000 AB
+
+80
+
+10000 e 22000 AB
+
+240
+
+22000 e 40000 AB
+
+480
+
+Acima de 40000 AB
+
+640
+
+02
+
+Registro de armador (em função do total de tonelagem bruta, objeto de armação) (ver 1ª obs.)
+
+Até 5000 TB
+
+16
+
+Entre 5000 e 50000 TB .
+
+48
+
+Acima de 50000 TB
+
+112
+
+03
+
+Registro de hipoteca, alienação fiduciária, anticrese, crédito privilegiado e outros ônus
+
+Até 7600 BTN
+
+16
+
+Entre 7600 e 20169 BTN
+
+80
+
+20169 e 32968 BTN
+
+160
+
+32968 e 50721 BTN
+
+240
+
+Acima de 50721 BTNs
+
+320
+
+04
+
+Cancelamento em geral
+
+8
+
+05
+
+Averbações em geral (ver 2ª obs.)
+
+8
+
+06
+
+Provisão para condômino ou nova via (ver 2ª obs.)
+
+16
+
+07
+
+Nova via do certificado de armador
+
+16
+
+08
+
+Certidão
+
+8
 
 (\*) Arqueação Bruta (AB)
 

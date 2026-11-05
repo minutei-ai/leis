@@ -1,5 +1,3 @@
-###DEC-082817-0-000-06-12-1978@@@
-
 Decreto nº 82 817, de 06 de dezembro de 1978
 
 Autoriza mudança de freqüência e aumento de potência diurna da Rádio Emissora Lagoa da Prata Ltda., na cidade de Lagoa da Prata, Estado de Minas Gerais.

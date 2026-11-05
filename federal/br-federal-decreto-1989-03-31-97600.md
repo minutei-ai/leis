@@ -1,5 +1,3 @@
-###DEC-097600-0-000-31-03-1989@@@
-
 DECRETO N° 97.600, DE 31 DE MARÇO DE 1989
 
 Aprova o Regulamento do Comando de Defesa Aeroespacial Brasileiro e dá outras providências.

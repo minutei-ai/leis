@@ -1,10 +1,11 @@
-LEI Nº 20.918 , DE 21 DE DEZEMBRO DE 2020.<br>
+LEI Nº 20.918 , DE 21 DE DEZEMBRO DE 2020.
 
-\- [Vide Legislação dispondo sobre Contrato Temporário](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17368).<br>
+\- [Vide Legislação dispondo sobre Contrato Temporário](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17368).
+
 \- [Vide Decreto nº 10.499, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109177/decreto-10499) - Dispõe sobre a celebração dos contratos temporários da administração estadual direta, e fundacional do Poder Executivo do Estado de Goiás.
 
-<br>
-Dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, nos termos do art. 92, inciso X, da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), e dá outras providências.  <br>
+Dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, nos termos do art. 92, inciso X, da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), e dá outras providências.  
+
  
 
 A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei: 
@@ -61,7 +62,8 @@ j) técnicas especializadas de tecnologia da informação; ou
 
 k) de serviços de engenharia.
 
-VII – de atividades didático–pedagógicas em escolas de governo, com o período de contratação máxima de 3 (três) anos e a possibilidade de ser prorrogado até o prazo total de 5 (cinco) anos.<br>
+VII – de atividades didático–pedagógicas em escolas de governo, com o período de contratação máxima de 3 (três) anos e a possibilidade de ser prorrogado até o prazo total de 5 (cinco) anos.
+
 \- [Acrescido pela Lei no 22.079, de 28-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107283).
 
 § 1º Para o disposto nesta Lei, ato do Chefe do Poder Executivo disporá sobre:
@@ -104,10 +106,12 @@ VI - as hipóteses de rescisão do contrato.
 
 § 5º Para a realização do processo seletivo o órgão ou a entidade, por meio de processo administrativo a ser enviado para o Órgão Central de Gestão de Pessoal, deverá comprovar o disposto no § 3º deste artigo, assim como apresentar a relação das funções temporárias e respectivas vagas, atribuições, requisitos, carga horária, além da declaração de adequação orçamentária expedida por seu ordenador de despesas, e precisará, ainda, seguir as orientações e as normativas complementares instituídas pelo Órgão Central de Gestão de Pessoal.
 
-§ 6º Quando o edital do processo seletivo simplificado de que trata o caput contemplar o preenchimento de vagas que exijam nível de ensino superior, será reservada parte dessas vagas para os profissionais com até 3 (três) anos de conclusão do curso de graduação, conforme critérios objetivos definidos pelo Órgão Central de Gestão de Pessoal.<br>
+§ 6º Quando o edital do processo seletivo simplificado de que trata o caput contemplar o preenchimento de vagas que exijam nível de ensino superior, será reservada parte dessas vagas para os profissionais com até 3 (três) anos de conclusão do curso de graduação, conforme critérios objetivos definidos pelo Órgão Central de Gestão de Pessoal.
+
 \- [Acrescido pela Lei nº 21.228, de 05-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104743).
 
-§ 7º O prazo de 3 (três) anos de que trata o § 6º terá como termo a data da inscrição no certame.<br>
+§ 7º O prazo de 3 (três) anos de que trata o § 6º terá como termo a data da inscrição no certame.
+
 \- [Acrescido pela Lei nº 21.228, de 05-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104743).
 
 Art. 5º O ajuste, nos casos das alíneas “b” e “c” do inciso II e da alínea “e” do inciso VI do art. 2º desta Lei, poderá ser efetivado à vista de notória capacidade técnica ou científica do profissional, mediante análise do currículo comprovado, observada a ampla divulgação da(s) vaga(s), dos critérios objetivos para a avaliação dos currículos e dos resultados obtidos por cada candidato no sítio do Órgão Central de Gestão de Pessoal.
@@ -134,7 +138,8 @@ Art. 7º É proibida, nos termos desta Lei, a contratação de servidores ativos
 
 Art. 8º É vedada a recontratação do pessoal admitido nos termos desta Lei na mesma função, salvo se mediante aprovação em outro processo seletivo simplificado.
 
-Art. 9º A remuneração do pessoal contratado nos termos desta Lei será fixada em importância não superior ao valor da remuneração dos servidores do quadro permanente que desempenhem funções semelhantes ou, se não existir a similitude, em condições do mercado de trabalho.<br>
+Art. 9º A remuneração do pessoal contratado nos termos desta Lei será fixada em importância não superior ao valor da remuneração dos servidores do quadro permanente que desempenhem funções semelhantes ou, se não existir a similitude, em condições do mercado de trabalho.
+
 \- [Redação dada pela Lei no 22.079, de 28-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107283).
 
 ~~Art. 9º A remuneração do pessoal contratado nos termos desta Lei será fixada em importância não superior ao valor do vencimento ou subsídio inicial fixado para os servidores do quadro permanente que desempenhem funções semelhantes, ou, se não existir a similitude, em condições do mercado de trabalho.~~
@@ -145,10 +150,12 @@ Art. 9º A remuneração do pessoal contratado nos termos desta Lei será fixada
 
 § 3º Nos casos em que a prestação de serviço não exija tempo integral, por decorrer de necessidade administrativa eventual, e conforme definido no edital de chamamento público, o pagamento poderá ser efetuado por hora de trabalho, de acordo com a produtividade, observadas as disposições do art. 10 desta Lei.
 
-§ 4º Caberá ao Chefe do Poder Executivo, após a manifestação do Órgão Central de Gestão de Pessoal, fixar as tabelas de remuneração para as hipóteses de contratações previstas no inciso VII do caput do art. 2º desta Lei.<br>
+§ 4º Caberá ao Chefe do Poder Executivo, após a manifestação do Órgão Central de Gestão de Pessoal, fixar as tabelas de remuneração para as hipóteses de contratações previstas no inciso VII do caput do art. 2º desta Lei.
+
 \- [Acrescido pela Lei nº 22.079, de 28-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107283).
 
-§ 5º O pessoal contratado nos termos desta Lei perceberá ainda as parcelas remuneratórias previstas em legislações específicas quando forem expressamente aplicáveis ao pessoal contratado por tempo determinado.<br>
+§ 5º O pessoal contratado nos termos desta Lei perceberá ainda as parcelas remuneratórias previstas em legislações específicas quando forem expressamente aplicáveis ao pessoal contratado por tempo determinado.
+
 \- [Acrescido pela Lei nº 22.079, de 28-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107283).
 
 Art. 10. Quanto ao pessoal contratado, nos termos desta Lei:
@@ -179,7 +186,8 @@ h) casamento; e
 
 i) luto;
 
-j) vale-transporte; e<br>
+j) vale-transporte; e
+
 \- [Acrescida pela Lei nº 22.079, de 28-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107283).
 
 V - aplicam-se, no que couber, as disposições do Título V - Capítulos I a V, e do Título VI - Capítulos I a VII, da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020.
@@ -216,10 +224,12 @@ Parágrafo único. Fica resguardada para os casos previstos neste artigo a inden
 
 Art. 12. O tempo de serviço prestado em virtude de contratação nos termos desta Lei será contado para todos os efeitos legais, salvo disposição legal específica em sentido contrário.
 
-Art. 12-A. (VETADO).<br>
+Art. 12-A. (VETADO).
+
 \- [Acrescido pela Lei nº 21.228, de 05-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104743).
 
-Art. 12-B. (VETADO).<br>
+Art. 12-B. (VETADO).
+
 \- [Acrescido pela Lei nº 21.228, de 05-01-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104743).
 
  Art. 13. O disposto nesta Lei, inclusive quanto aos prazos definidos em seu art. 2º, aproveita aos contratos de trabalho celebrados antes da sua vigência, desde que não importe em prejuízo ao contratado.
@@ -234,6 +244,6 @@ Art. 15. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 21 de dezembro de 2020; 132o da República.  
 
-<br>
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

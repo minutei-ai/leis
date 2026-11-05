@@ -1,5 +1,3 @@
-###DEC-082712-0-000-23-11-1978@@@
-
 Decreto nº 82.712, de 23 de novembro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Alfredo Moreira de Sousa pelo Decreto nº 29.412, de 29 de março de 1951.

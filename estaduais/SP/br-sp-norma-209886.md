@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209886)<br>
-
 # DECRETO N° 68.806, DE 26 DE AGOSTO DE 2024
 
 ### _Cria a Assessoria Policial Civil do Tribunal de Contas do Estado de São Paulo e dá providências correlatas._

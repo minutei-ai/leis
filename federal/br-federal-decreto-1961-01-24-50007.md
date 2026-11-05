@@ -1,5 +1,3 @@
-###DEC-050007-0-000-24-01-1961@@@
-
 DECRETO Nº 50.007, DE 24 DE JANEIRO DE 1961.
 
 Autoriza Mineração Hanna do Brasil Ltda. a lavrar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

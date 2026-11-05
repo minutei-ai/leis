@@ -1,5 +1,3 @@
-###DEL-007513-0-000-02-05-1945@@@
-
 DECRETO-LEI N. 7.513 – DE 2 DE MAIO DE 1945
 
 Transfere para o regime do Instituto de Aposentadoria e Pensões dos Comerciários os empregados da Ordem dos Advogados do Brasil e de suas Seções

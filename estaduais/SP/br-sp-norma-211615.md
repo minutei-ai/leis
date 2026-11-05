@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211615)<br>
-
 # DECRETO N° 69.938, DE 07 DE OUTUBRO DE 2025
 
 ### _Institui o Programa "Casa da Mulher Paulista" e dá providências correlatas._

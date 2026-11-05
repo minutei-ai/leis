@@ -1,7 +1,3 @@
-1
-
-###DEC-000274-0-000-29-10-1991@@@
-
 DECRETO Nº 274, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Terra Vermelha, no Estado do Amazonas.

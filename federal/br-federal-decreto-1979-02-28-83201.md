@@ -1,5 +1,3 @@
-###DEC-083201-0-000-28-02-1979@@@
-
 Decreto nº 83.201, de 28 de fevereiro de 1979
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária á implantação da subestação Barbarense da Companhia Paulista de Força e Luz - CPFL, Estado de São Paulo.

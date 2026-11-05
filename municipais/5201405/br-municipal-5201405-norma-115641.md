@@ -20,15 +20,40 @@ Art. 5º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 18 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">APM 10 A</td><td style="text-align:center">1.113,54</td></tr><tr><td style="text-align:center">APM 10 B</td><td style="text-align:center">962,00</td></tr><tr><td style="text-align:center">APM 10 C</td><td style="text-align:center">962,00</td></tr><tr><td style="text-align:center">APM 10 D</td><td style="text-align:center">962,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+APM 10 A
+
+1.113,54
+
+APM 10 B
+
+962,00
+
+APM 10 C
+
+962,00
+
+APM 10 D
+
+962,00
 
 SITUAÇÃO PROPOSTA DE REMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">APM 10 A – 10 D</td><td style="text-align:center">3.999,54</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+APM 10 A – 10 D
+
+3.999,54

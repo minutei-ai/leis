@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2b88c8af-3316-45f7-a2f0-477329ea60fb/texto#nowhere)
 
-###DEL-000507-0-000-18-03-1969@@@
-
 DECRETO-LEI Nº 507, DE 18 DE MARÇO DE 1969
 
 Altera o artigo 530 da Consolidação das Leis do Trabalho

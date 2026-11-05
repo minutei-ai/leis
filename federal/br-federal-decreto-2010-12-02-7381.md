@@ -1,5 +1,3 @@
-###DEC-007381-0-000-02-12-2010-PUB-01@@@
-
 DECRETO Nº  7.381, DE 2 DE DEZEMBRO DE 2010
 
 Regulamenta a Lei nº 11.771, de 17 de setembro de 2008, que dispõe sobre a Política Nacional de Turismo, define as atribuições do Governo Federal no planejamento, desenvolvimento e estímulo ao setor turístico, e dá outras providências.

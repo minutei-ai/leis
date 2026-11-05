@@ -1,5 +1,3 @@
-###DEC-044861-0-000-21-11-1958@@@
-
 DECRETO Nº 44.861, DE 21 DE NOVEMBRO DE 1958.
 
 Outorga concessão à Rádio Itaí Limitada para instalar uma estação radiodifusora.

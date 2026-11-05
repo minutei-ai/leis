@@ -1,5 +1,3 @@
-###DEC-006164-0-000-20-07-2007@@@
-
 DECRETO Nº 6.164, DE 20 DE JULHO DE 2007.
 
 Dispõe sobre a antecipação do abono anual devido ao segurado e ao dependente da Previdência Social, no ano de 2007.

@@ -1,5 +1,3 @@
-###DEC-076419-0-000-10-10-1975@@@
-
 DECRETO Nº 76.419, DE 10 DE OUTUBRO DE 1975.
 
 Concede à Cimento Itaú de Corumbá S.A. o direito de lavrar calcário no Município de Corumbá, Estado de Mato Grosso.

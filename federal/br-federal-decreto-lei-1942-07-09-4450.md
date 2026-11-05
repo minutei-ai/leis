@@ -1,5 +1,3 @@
-###DEL-004450-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.450 – DE 9 DE JULHO DE 1942
 
 Altera disposições do decreto-lei n. 3.768, de 28 de outubro de 1941

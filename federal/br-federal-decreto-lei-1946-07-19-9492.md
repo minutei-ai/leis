@@ -1,5 +1,3 @@
-###DEL-009492-0-000-19-07-1946@@@
-
 DECRETO-LEI N. 9.492 – DE 19 DE JULHO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 15.000.000,00, para despesas da Justiça eleitoral.

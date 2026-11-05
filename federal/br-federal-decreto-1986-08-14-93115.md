@@ -1,5 +1,3 @@
-###DEC-093115-0-000-14-08-1986@@@
-
 DECRETO Nº 93.115, DE 14 DE AGOSTO DE 1986
 
 Cria o Fundo de Desenvolvimento Rural - FDR, o Conselho de Crédito Rural e Agroindustrial - CCRA, e dá outras providências.

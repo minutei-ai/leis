@@ -1,5 +1,3 @@
-###DEC-091562-0-000-23-08-1985@@@
-
 DecReto nº 91.562, de 23 de agosto de 1985
 
 Renova a concessão outorgada à TV ACAUÃ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Teresina, Estado do Piauí.

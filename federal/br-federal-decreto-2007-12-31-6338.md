@@ -1,5 +1,3 @@
-###DEC-006338-0-000-31-12-2007@@@
-
 DECRETO Nº 6.338, DE 31 DE DEZEMBRO DE 2007.
 
 Fixa o valor absoluto do limite global das deduções do imposto sobre a renda devido, a título de doações e patrocínios, no apoio direto a projetos desportivos e paradesportivos.
@@ -23,5 +21,3 @@ Brasília, 31 de dezembro de 2007; 186º da Independência e 119º da República
 LUIZ INÁCIO LULA DA SILVA
 
 Arno Hugo Augustin Filho
-
-Este texto não substitui o publicado no DOU de 31.12.2007 - Edição extra

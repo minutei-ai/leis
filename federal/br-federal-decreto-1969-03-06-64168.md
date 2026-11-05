@@ -1,5 +1,3 @@
-###DEC-064168-0-000-06-03-1969@@@
-
 Decreto Nº 64.168, DE 6 DE MARÇO DE 1969.
 
 Concede autorização a Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

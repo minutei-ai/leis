@@ -1,5 +1,3 @@
-###DEC-005817-0-000-26-06-2006@@@
-
 DECRETO Nº 5.817, DE 26 DE JUNHO DE 2006.
 
 Promulga o Acordo de Cooperação na Área do Turismo entre o Governo da República Federativa do Brasil e o Governo da República da Croácia, celebrado em Brasília, em 7 de junho de 2001.
@@ -24,11 +22,7 @@ Promulga o Acordo de Cooperação na Área do Turismo entre o Governo da Repúbl
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 27.6.2006.
-
-ACORDO DE COOPERAÇÃO NA ÁREA DE TURISMO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA CROÁCIA
+        Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO NA ÁREA DE TURISMO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA CROÁCIA
 
 O Governo da República Federativa do Brasil
 

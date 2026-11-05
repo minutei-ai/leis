@@ -1,7 +1,3 @@
-1
-
-###DEL-002332-0-000-09-06-1987@@@
-
 # DECRETO-LEI Nº 2.332, DE 9 DE JUNHO DE 1987
 
 Dispõe sobre a constituição de reserva especial no balanço de instituições financeiras, e dá outras providências.

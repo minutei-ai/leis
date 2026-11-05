@@ -1,5 +1,3 @@
-###DEC-058940-0-000-29-07-1966@@@
-
 DECRETO Nº 58.940, DE 29 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro José Emílio Rocha a lavrar ouro e diamante nos municípios de Bocaiuva e Diamantina, Estado de Minas Gerais.

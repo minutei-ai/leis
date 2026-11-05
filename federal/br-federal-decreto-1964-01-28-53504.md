@@ -1,5 +1,3 @@
-###DEC-053504-0-000-28-01-1964@@@
-
 DECRETO Nº 53.504, DE 28 DE JANEIRO DE 1964.
 
 Autoriza o Ministro da Fazenda a dar garantia do Tesouro Nacional a empréstimo no exterior, a ser realizado pela Rêde Ferroviária Federal S.A.

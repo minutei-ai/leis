@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/548404eb-7930-44ce-b19e-97ef4920fd14/texto#nowhere)
 
-###DEL-002281-0-000-17-01-1986@@@
-
 # DECRETO-LEI Nº 2.281, DE 17 DE JANEIRO DE 1986
 
 Altera o percentual de reajuste de que trata a Lei nº 7.419, de 17 de dezembro de 1985, e dá outras providências.

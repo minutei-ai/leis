@@ -1,5 +1,3 @@
-###DEC-058028-0-000-21-03-1966@@@
-
 DECRETO Nº 58.028, DE 21 DE MARÇO DE 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamento nôvo sem similar nacional registrado, neste descrito e consignado à emprêsa “Microlite do Nordeste S.A. - Indústria e Comércio”, de Jaboatão (Pe.).
@@ -14,7 +12,21 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamento nôvo, sem similar nacional registrado, a seguir descrito e consignado à emprêsa “Microlite do Nordeste S.A. - Indústria e Comércio”, de Jaboatão (Pe.):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:184.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:85.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:71pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:184.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Misturador Lancaster com equipamento especial para mistura de produtos químicos para pilhas sêcas, fabricado por “The Eletric Storage Battery Company Philadelphia, EUA”. Tambor de mistura com 59” de diâmetro, palhetas misturadoras em Stellite, válvula de descarga com material capaz de resistir à ação corrosiva, incluindo motor elétrico de 15 HP com 1.200 r.p.m. trifásico e correia em “V” para acionamento do misturador ................................................</span></p></td><td style="width:85.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:71pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>13.636</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1
+
+Misturador Lancaster com equipamento especial para mistura de produtos químicos para pilhas sêcas, fabricado por “The Eletric Storage Battery Company Philadelphia, EUA”. Tambor de mistura com 59” de diâmetro, palhetas misturadoras em Stellite, válvula de descarga com material capaz de resistir à ação corrosiva, incluindo motor elétrico de 15 HP com 1.200 r.p.m. trifásico e correia em “V” para acionamento do misturador ................................................
+
+1
+
+13.636
 
 Parágrafo único. Com respeito ao motor elétrico que acompanha a maquinaria fica sua similaridade para efeito da isenção de que trata o presente decreto, para ser examinada pela alfândega de destino, quando o desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Ministro da Fazenda.
 

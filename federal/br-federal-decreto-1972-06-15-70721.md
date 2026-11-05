@@ -1,5 +1,3 @@
-###DEC-070721-0-000-15-06-1972@@@
-
 DECRETO Nº 70.721, DE 15 DE JUNHO DE 1972.
 
 Concede reconhecimento à Faculdade de Artes Plásticas, com os cursos de Desenho e Plástica de Ribeirão Preto.

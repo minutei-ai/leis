@@ -1,5 +1,3 @@
-###DEL-005564-0-000-10-06-1943@@@
-
 DECRETO‑LEI N. 5. 564 – DE 10 DE JUNHO DE 1943
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 27.022,00, Para Pagamento de honorários e custas de Juízes de Casamento

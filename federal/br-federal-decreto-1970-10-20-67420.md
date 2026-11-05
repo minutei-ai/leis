@@ -1,5 +1,3 @@
-###DEC-067420-0-000-20-10-1970@@@
-
 decreto nº 67.420, de 20 de outubro de 1970.
 
 Concede a Faria & Cia. Ltda., o direito de lavrar feldspato e quartzo, no município de Socorro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-065506-0-000-21-10-1969@@@
-
 decreto nº 65.506 - de 21 de outubro de 1969.
 
 Declara de utilidade pública o "Serviço de Assistência Social Evangélica", com sede no Estado da Guanabara.

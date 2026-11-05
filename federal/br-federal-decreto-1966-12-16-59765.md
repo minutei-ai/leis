@@ -1,5 +1,3 @@
-###DEC-059765-0-000-16-12-1966@@@
-
 DECRETO Nº 59.765, DE 16 DE DEZEMBRO DE 1966.
 
 Declara pública, de uso comum, as águas dos cursos que específica.

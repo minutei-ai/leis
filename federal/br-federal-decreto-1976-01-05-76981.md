@@ -1,5 +1,3 @@
-###DEC-076981-0-000-05-01-1976@@@
-
 decreto nº 76.981, de 5 de janeiro de 1976.
 
 Concede à Mineração Santa Mônica Ltda. o direito de lavrar bauxita no Município de Faro, Estado do Pará.

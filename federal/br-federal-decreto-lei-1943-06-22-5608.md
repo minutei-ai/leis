@@ -1,5 +1,3 @@
-###DEL-005608-0-000-22-06-1943@@@
-
 DECRETO‑LEI N. 5.608 – DE 22 DE JUNHO DE 1943
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 9.600,00 para pagamento de gratificação, de magistério

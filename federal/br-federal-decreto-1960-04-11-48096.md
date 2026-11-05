@@ -1,5 +1,3 @@
-###DEC-048096-0-000-11-04-1960@@@
-
 DECRETO Nº 48.096, de 11 de abril de 1960.
 
 Autoriza a Companhia Viçosense Fôrça e Luz a constituir hipoteca a favor do Banco do Brasil S.A.

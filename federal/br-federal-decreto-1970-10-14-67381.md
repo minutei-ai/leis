@@ -1,5 +1,3 @@
-###DEC-067381-0-000-14-10-1970@@@
-
 Decreto Nº 67.381, de 14 de outubro de 1970.
 
 Declara de utilidade pública o Instituto Americano de Lins, com sede em Lins, Estado de São Paulo.

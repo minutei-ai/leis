@@ -1,5 +1,3 @@
-###DEL-006451-0-000-28-04-1944@@@
-
 DECRETO-LEI N. 6.451 – DE 28 DE ABRIL DE 1944
 
 Transfere a sede do 3º Batalhão de Carros de Combate

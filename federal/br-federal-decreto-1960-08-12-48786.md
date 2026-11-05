@@ -1,5 +1,3 @@
-###DEC-048786-0-000-12-08-1960@@@
-
 DECRETO N. 48.786 – DE 12 DE AGÔSTO DE 1960
 
 Autoriza o cidadão brasileiro Wilson Francisco Capellini a lavrar argila no município de Mogi das Cruzes, Estado de São Paulo.

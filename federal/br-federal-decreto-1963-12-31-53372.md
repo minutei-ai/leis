@@ -1,5 +1,3 @@
-###DEC-053372-0-000-31-12-1963@@@
-
 DECRETO Nº 53.372, DE 31 DE DEZEMBRO DE 1963.
 
 Autoriza a Universidade Federal de São Paulo a criar a criar e instalar cursos preuniversitários e dá outras providências.

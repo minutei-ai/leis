@@ -1,5 +1,3 @@
-###DEC-065332-0-000-13-10-1969@@@
-
 DECRETO Nº 65.332 - DE 13 DE OUTUBRO DE 1969.
 
 Transfere autorizações da Central Elétrica de Furnas S. A. para a Light - Serviços de Eletricidade S. A.

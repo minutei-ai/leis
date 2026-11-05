@@ -1,5 +1,3 @@
-###DEC-055247-0-000-21-12-1964@@@
-
 DECRETO Nº 55.247, DE 21 DE DEZEMBRO DE 1964.
 
 Altera o Regulamento ao Ministério da Indústria e do Comércio, aprovado pelo Decreto nº 531, de 23 de janeiro de 1962, e dá outras providências.

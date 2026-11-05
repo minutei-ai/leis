@@ -1,5 +1,3 @@
-###DEC-058920-0-000-26-07-1966@@@
-
 DECRETO Nº 58.920, DE 26 DE JULHO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministro da Guerra.

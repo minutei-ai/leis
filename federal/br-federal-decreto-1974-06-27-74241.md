@@ -1,5 +1,3 @@
-###DEC-074241-0-000-27-06-1974@@@
-
 DECRETO Nº 74.241, DE 27 DE JUNHO DE 1974.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas, Contábeis e Atuariais "Coração de Jesus", da Pontifícia Universidade Católica de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

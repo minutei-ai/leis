@@ -1,5 +1,3 @@
-###DEC-059564-0-000-14-11-1966@@@
-
 DECRETO Nº 59.564, DE 14 DE NOVEMBRO DE 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos imóveis que menciona, situados no Estado da Guanabara.

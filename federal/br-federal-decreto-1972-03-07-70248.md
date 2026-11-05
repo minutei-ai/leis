@@ -1,5 +1,3 @@
-###DEC-070248-0-000-07-03-1972@@@
-
 DECRETO Nº 70.248, DE 7 DE MARÇO DE1972.
 
 Exclui cargos do INPS do relacionamento de desnecessidade e aproveita disponíveis que indica.

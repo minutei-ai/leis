@@ -1,5 +1,3 @@
-###DEC-057919-0-000-04-03-1966@@@
-
 DECRETO Nº 57.919, DE 4 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro José Paulo a pesquisar feldspato no município de Rio Bonito, Estado do Rio de Janeiro.

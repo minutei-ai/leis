@@ -1,7 +1,3 @@
-1
-
-###DEC-098908-0-000-31-01-1990@@@
-
 DECRETO Nº 98.908, DE 31 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Direito do Instituto de Santareno de Ensino Superior.

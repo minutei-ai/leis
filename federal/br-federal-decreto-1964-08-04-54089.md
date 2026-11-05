@@ -1,5 +1,3 @@
-###DEC-054089-0-000-04-08-1964@@@
-
 DECRETO Nº 54.089, DE 4 DE AGôSTO DE 1964.
 
 Transfere da lotação permanente do Departamento de Administração do Ministério da Justiça e Negócios Interiores para o da Procuradoria da República no Estado do Rio de Janeiro um claro de Escrevente - Datilógrafo.

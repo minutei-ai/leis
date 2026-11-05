@@ -1,5 +1,3 @@
-###DEC-068204-0-000-11-02-1971@@@
-
 DECRETO Nº 68.204, DE 11 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra pela qual passa a linha de transmissão que se estende desde a usina Isidoro até a Fábrica de Cimento Portland, no município de Corumbá de Goiás, Estado de Goiás.

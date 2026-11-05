@@ -1,7 +1,3 @@
-1
-
-###DEC-000344-0-000-20-11-1991@@@
-
 DECRETO Nº 344, DE 20 DE NOVEMBRO DE 1991
 
 Dispõe sobre a transferência da gestão de estoques governamentais do café sob a guarda do Instituto Brasileiro do Café, em extinção, e dá outras providências.

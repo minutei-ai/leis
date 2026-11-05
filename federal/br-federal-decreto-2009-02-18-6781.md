@@ -1,5 +1,3 @@
-###DEC-006781-0-000-18-02-2009@@@
-
 DECRETO Nº 6.781, DE 18 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agencia Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento do processo de licitação dessas concessões, e dá outras providências.

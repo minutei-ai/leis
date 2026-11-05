@@ -1,5 +1,3 @@
-###DEC-004273-0-000-20-06-2002@@@
-
 DECRETO Nº 4.273, DE 20 DE JUNHO DE 2002
 
 Dá nova redação ao art. 11 do Decreto nº 4.050, de 12 de dezembro de 2001, que regulamenta o art. 93 da Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre a cessão de servidores de órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional.

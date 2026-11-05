@@ -1,5 +1,3 @@
-###DEC-049219-0-000-16-11-1960@@@
-
 DECRETO Nº 49.219, DE 16 DE NOVEMBRO DE 1960.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. Estado de Minas Gerais concessão para distribuir energia elétrica.
@@ -37,8 +35,6 @@ Brasília, 16 de novembro de 1960; 139º da Independência e 72º da República.
 JUSCELINO KUBITSCHEK
 
 Antônio Barros Carvalho
-
-###DEC-049219-0-000-16-11-1960@@@RET01+++
 
 DECRETO Nº 49.219, DE 16 DE NOVEMBRO DE 1960.
 

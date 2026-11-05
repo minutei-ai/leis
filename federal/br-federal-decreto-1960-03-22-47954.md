@@ -1,5 +1,3 @@
-###DEC-047954-0-000-22-03-1960@@@
-
 DECRETO Nº 47.954, DE 22 DE MARÇO DE 1960.
 
 Abre, ao Ministério da Fazenda, o crédito extraordinário de Cr$100.000.000.00, para o fim que específica.

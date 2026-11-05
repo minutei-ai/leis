@@ -1,5 +1,3 @@
-###DEC-074342-0-000-30-07-1974@@@
-
 DECRETO Nº 74.342, DE 30 DE JULHO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Radio Nordeste Ltda, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Natal, Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-002516-0-000-12-03-1998@@@
-
 DECRETO Nº 2.516, DE 12 DE MARÇO DE 1998
 
 Promulga o Acordo sobre Cooperação Econômico-Comercial, celebrado entre o Governo da República Federativa do Brasil e o Governo da Ucrânia, em Brasília, em 25 de outubro de 1995.
@@ -86,9 +84,8 @@ Artigo V
 
 2.  Os pagamentos e transferências de pagamentos serão realizados de acordo com a legislação vigente em cada país. 
 
-Artigo VI<br>
-<br>
-<br>
+Artigo VI
+
  
 
 Cada Parte, na medida de suas possibilidades, procurará prestar assistência às organizações empresas e firmas da outra Parte interessadas na captação de oportunidades de ampliação do intercâmbio comercial.
@@ -153,4 +150,26 @@ No caso de expiração do presente Acordo, suas disposições continuarão ser a
 
 Feito em Brasília, em 25 de outubro de 1995, em dois exemplares originais, nos idiomas português, ucraniano e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Sebastião Rego Barros</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministério, interno, de Estado</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">das Relações Exteriores</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da Ucrânia</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Serguiy Ossyka</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro das Relações Econômicas.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Sebastião Rego Barros
+
+Ministério, interno, de Estado
+
+das Relações Exteriores
+
+</td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo Governo da Ucrânia
+
+&nbsp;
+
+Serguiy Ossyka
+
+Ministro das Relações Econômicas.
+
+</td></tr></tbody></table>

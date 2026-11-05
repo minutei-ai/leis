@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e9ba0b06-d584-4a24-91b0-89e5fd5586cc/texto#nowhere)
 
-###DEL-001066-0-000-29-10-1969@@@
-
 DECRETO-LEI Nº 1.066, DE 29 DE OUTUBRO DE 1969
 
 Organiza os Serviços Administrativos da Vice-Presidência da República e dá outras providências.

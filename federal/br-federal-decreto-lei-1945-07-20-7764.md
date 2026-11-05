@@ -1,5 +1,3 @@
-###DEL-007764-0-000-20-07-1945@@@
-
 DECRETO-LEI N. 7.764 – DE 20 DE JULHO DE 1945
 
 Cria funções no Quadro III – Parte Permanente – do Ministério da Viação e Obras Públicas e  da outras providências

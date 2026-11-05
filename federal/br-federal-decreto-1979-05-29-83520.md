@@ -1,5 +1,3 @@
-###DEC-083520-0-000-29-05-1979@@@
-
 decreto nº 83.520, de 29 de maio de 1979.
 
 Concede reconhecimento ao curso de Tecnólogo em Couros e Tanantes, do Centro de Ciências e Tecnologia, no Campus de Campina Grande, da Universidade Federal da Paraíba.

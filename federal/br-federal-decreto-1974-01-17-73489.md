@@ -1,5 +1,3 @@
-###DEC-073489-0-000-17-01-1974@@@
-
 DECRETO N° 73.489, DE 17 DE JANEIRO DE 1974.
 
 Concede reconhecimento ao Curso de Geologia da Faculdade de Filosofia, Ciências e Letras de Rio Claro, Estado de São Paulo.

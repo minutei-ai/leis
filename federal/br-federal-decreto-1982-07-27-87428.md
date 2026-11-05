@@ -1,5 +1,3 @@
-###DEC-087428-0-000-27-07-1982@@@
-
 Decreto nº 87.428, de 27 de julho de 1982
 
 Dispõe sobre a estrutura básica do Ministério dos Transportes e dá outras providências.

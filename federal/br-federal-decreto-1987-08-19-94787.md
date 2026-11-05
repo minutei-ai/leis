@@ -1,5 +1,3 @@
-###DEC-094787-0-000-19-08-1987@@@
-
 DECRETO N° 94.787, DE 19 DE AGOSTO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Filosofia e Ciências Humanas de Gurupi.

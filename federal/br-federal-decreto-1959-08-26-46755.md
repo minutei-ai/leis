@@ -1,5 +1,3 @@
-###DEC-046755-0-000-26-08-1959@@@
-
 DECRETO Nº 46.755, DE 26 DE Agôsto DE 1959.
 
 Abre ao Poder Judiciário - Justiça do Trabalho, os créditos especiais na importância total de Cr$49.881.040,00, para o fim que menciona.

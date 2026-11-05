@@ -1,5 +1,3 @@
-###DEC-089645-0-000-10-05-1984@@@
-
 Decreto nº 89.645, de 10 de maio de 1984
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais constituídos de parte da "Fazenda Santa Rita", situados nos Municípios de Turmalina e Populina, no Estado de São Paulo, compreendidos na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 87.254, de 7 de junho de 1982, e ampliada pelo Decreto nº 89.644 de 10 de maio de 1984.

@@ -1,5 +1,3 @@
-###DEL-008400-0-000-19-12-1945@@@
-
 DECRETO-LEI N. 8.400 – DE 19 DE DEZEMBRO DE 1945
 
 Extingue a Coordenação da Mobilização Econômica e dá outras providências.

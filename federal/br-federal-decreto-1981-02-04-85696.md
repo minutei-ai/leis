@@ -1,5 +1,3 @@
-###DEC-085696-0-000-04-02-1981@@@
-
 DECRETO Nº 85.696, DE 04 DE FEVEREIRO DE 1981.
 
 Concede à Navegação Rio Doce Ltda. Autorização para proceder ao aumento do limite de seu Capital Social

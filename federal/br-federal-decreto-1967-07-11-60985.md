@@ -1,5 +1,3 @@
-###DEC-060985-0-000-11-07-1967@@@
-
 DECRETO Nº 60.985, DE 11 DE JULHO DE 1967.
 
 Declara caduco o Decreto nº 35.035, de 11 de fevereiro de 1954.

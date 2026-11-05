@@ -1,5 +1,3 @@
-###DEC-091083-0-000-12-03-1985@@@
-
 DECRETO Nº 91.083, DE 12 dE março 1985
 
 Autoriza o funcionamento do curso de Administração da Fundação Educacional de Jataí-GO.

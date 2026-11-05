@@ -1,5 +1,3 @@
-###DEC-073172-0-000-20-11-1973@@@
-
 DECRETO Nº 73.172 - DE 20 DE NOVEMBRO DE 1973
 
 Dispõe sobre a reorganização da Secretaria Geral do Ministério da Justiça.

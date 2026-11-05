@@ -1,5 +1,3 @@
-###DEC-079334-0-000-03-03-1977@@@
-
 DECRETO Nº 79.334, DE 3 DE MARÇO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Rio Branco, Estado do Acre.

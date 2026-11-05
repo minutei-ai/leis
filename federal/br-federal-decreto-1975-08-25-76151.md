@@ -1,5 +1,3 @@
-###DEC-076151-0-000-25-08-1975@@@
-
 DECRETO Nº 76.151 - DE 25 DE AGOSTO DE 1975
 
 Autoriza o Banco Central do Brasil a contratar a abertura de créditos até o montante de US$ 50,000,000.00, em favor da República da Bolívia, para o fim que específica.

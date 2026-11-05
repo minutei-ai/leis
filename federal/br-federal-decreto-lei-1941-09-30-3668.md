@@ -1,5 +1,3 @@
-###DEL-003668-0-000-30-09-1941@@@
-
 DECRETO-LEI N. 3.668 – DE 30 DE SETEMBRO DE 1941
 
 Dispõe sobre a publicação das Obras Completas de Ruy Barbosa.

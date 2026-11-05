@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=6518)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1998/compilacao-lei-9955-27.04.1998.html)
 
 # LEI Nº 9.955, DE 27 DE ABRIL DE 1998
@@ -7,21 +6,31 @@
 
 ### _Transforma em Estância Turística o Município de Holambra_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Fica transformado em estância turística o Município de Holambra.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 27 de abril de 1998.<br>
-MÁRIO COVAS<br>
-Marcos Arbaitman<br>
-Secretário de Esportes e Turismo<br>
-Fernando Leça<br>
-Secretário-Chefe da Casa Civil<br>
-Antonio Angarita<br>
-Secretário do Governo e Gestão Estratégica<br>
-Publicada na Assessoria Técnico-Legislativa, aos 27 de abril de 1998.~~
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
+Faço saber que a Assembléia Legislativa decreta eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Fica transformado em estância turística o Município de Holambra.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 27 de abril de 1998.
+
+MÁRIO COVAS
+
+Marcos Arbaitman
+
+Secretário de Esportes e Turismo
+
+Fernando Leça
+
+Secretário-Chefe da Casa Civil
+
+Antonio Angarita
+
+Secretário do Governo e Gestão Estratégica
+
+Publicada na Assessoria Técnico-Legislativa, aos 27 de abril de 1998.~~
 
 Revogada.
 

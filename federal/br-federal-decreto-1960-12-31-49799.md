@@ -1,5 +1,3 @@
-###DEC-049799-0-000-31-12-1960@@@
-
 DECRETO Nº 49.799, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia de Cimento Portland Maringá a pesquisar minério de ferro, calcário e quartzito, no município de Itararé, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-076055-0-000-30-07-1975@@@
-
 DECRETO Nº 76.055, DE 30 DE JULHO DE 1975.
 
 Regulamenta os artigos 75 a 77 do Decreto-lei nº 37, de 18 de novembro de 1966 que dispõem sobre o regime de admissão temporária.

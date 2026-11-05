@@ -1,5 +1,3 @@
-###DEL-002329-0-000-21-06-1940@@@
-
 DECRETO-LEI N. 2.329 – DE 21 DE JUNHO DE 1940
 
 Extingue as graduações de 1º e 2º Cabos e restabelece o de Cabo

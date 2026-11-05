@@ -1,5 +1,3 @@
-###DEC-094042-0-000-18-02-1987@@@
-
 DECRETO Nº 94.042, DE 18 DE FEVEREIRO DE 1987.
 
 Dispõe sobre reajustes dos contratos em vigor, firmados com a Administração Pública.

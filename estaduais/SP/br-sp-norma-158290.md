@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/158290)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2009/compilacao-lei-13785-27.10.2009.html)
 
 # LEI N° 13.785, DE 27 DE OUTUBRO DE 2009

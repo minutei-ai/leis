@@ -1,5 +1,3 @@
-###DEC-075031-0-000-03-12-1974@@@
-
 DECRETO nº 75.031, de 3 de Dezembro de 1974.
 
 Altera o Regulamento da Ordem do Mérito Naval.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183822)
-
 # DECRETO Nº 62.899, DE 30 DE OUTUBRO DE 2017
 
 ### _Altera o Decreto 57.686, de 27 de dezembro de 2011, que disciplina a concessão de regime especial para apropriação e utilização de crédito acumulado do ICMS nas hipóteses que especifica_
@@ -30,16 +28,26 @@ Palácio dos Bandeirantes, 30 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Márcio Luiz França Gomes<br>
-Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+Márcio Luiz França Gomes
+
+Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de outubro de 2017.
 
 OFÍCIO GS-CAT Nº 995/2017
@@ -56,7 +64,10 @@ Helcio Tokeshi
 
 Secretário da Fazenda
 
-A Sua Excelência o Senhor<br>
-GERALDO ALCKMIN<br>
-Governador do Estado de São Paulo<br>
+A Sua Excelência o Senhor
+
+GERALDO ALCKMIN
+
+Governador do Estado de São Paulo
+
 Palácio dos Bandeirantes

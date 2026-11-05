@@ -1,5 +1,3 @@
-###DEC-047126-0-000-27-10-1959@@@
-
 DECRETO Nº 47.126, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Abílio Ebram a pesquisar água mineral do município de Taubaté, Estado de São Paulo.

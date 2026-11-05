@@ -212,7 +212,8 @@ Art. 20. As entidades beneficiadas com os recursos públicos previstos neste cap
 
 Parágrafo único. O previsto no caput deste artigo não exclui a fiscalização realizada pelos órgãos de controle externo.
 
-Art. 21. As transferências de recursos às entidades previstas no art. 18 desta Lei deverão ser precedidas de chamamento público, seleção, aprovação de plano de trabalho e assinatura de instrumento de ajuste, devendo ser observadas na elaboração de tais instrumentos, as exigências do art. 116, da Lei Federal nº 14.133, de 2021, ou da Lei Federal nº 13.019, de 2014.<br>
+Art. 21. As transferências de recursos às entidades previstas no art. 18 desta Lei deverão ser precedidas de chamamento público, seleção, aprovação de plano de trabalho e assinatura de instrumento de ajuste, devendo ser observadas na elaboração de tais instrumentos, as exigências do art. 116, da Lei Federal nº 14.133, de 2021, ou da Lei Federal nº 13.019, de 2014.
+
 (Redação alterada pela Lei nº 3.877, de 15 de dezembro de 2025)
 
 ~~Art. 21. As transferências de recursos às entidades previstas no art. 17 desta Lei deverão ser precedidas de chamamento público, seleção, aprovação de plano de trabalho e assinatura de instrumento de ajuste, devendo ser observadas na elaboração de tais instrumentos, as exigências do art. 116, da Lei Federal nº 14.133, de 2021, ou da Lei Federal nº 13.019, de 2014.~~
@@ -435,10 +436,12 @@ Aparecida de Goiânia, 16 de junho de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
-ANEXO<br>
+ANEXO
+
 (Anexo alterado pela Lei nº 3.877, de 15 de dezembro de 2025)
 
 [https://legisla.casacivil.go.gov.br/api/v1/arquivos/18695](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18695)

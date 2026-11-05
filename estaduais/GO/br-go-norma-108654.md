@@ -222,7 +222,8 @@ DOS ADMINISTRADORES
 
 Art. 17. A SGG, como órgão de apoio direto à coordenação, à integração e à tomada de decisão das ações governamentais nos órgãos integrantes da Governadoria, fica responsável pela interlocução com as empresas estatais e pela tramitação de expedientes voltados à indicação de administradores ou Conselheiros Fiscais pelo Chefe do Poder Executivo, com a preservação da independência dos membros estatutários no exercício de suas funções.
 
-Art. 18. Os administradores eleitos das empresas estatais, inclusive os representantes dos empregados e dos acionistas minoritários, devem participar, na posse e anualmente, de treinamentos específicos disponibilizados pela empresa estatal que tratem:<br>
+Art. 18. Os administradores eleitos das empresas estatais, inclusive os representantes dos empregados e dos acionistas minoritários, devem participar, na posse e anualmente, de treinamentos específicos disponibilizados pela empresa estatal que tratem:
+
 \- [Redação dada pelo Decreto nº 10.554, de 16-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109473/decreto-10554).
 
 ~~Art. 18. Os administradores e os Conselheiros Fiscais das empresas estatais, inclusive os representantes dos empregados e dos acionistas minoritários, devem participar, na posse e anualmente, de treinamentos específicos disponibilizados pela empresa estatal que tratem:~~
@@ -239,7 +240,8 @@ V – da legislação que dispõe sobre a responsabilização administrativa e d
 
 VI – dos demais temas relacionados às atividades da empresa estatal.
 
-Parágrafo único. Os membros do Conselho Fiscal possuem a prerrogativa de participar de treinamento específico disponibilizado pela empresa estatal sobre os temas dispostos nos incisos I a VI do caput deste artigo.<br>
+Parágrafo único. Os membros do Conselho Fiscal possuem a prerrogativa de participar de treinamento específico disponibilizado pela empresa estatal sobre os temas dispostos nos incisos I a VI do caput deste artigo.
+
 \- [Redação dada pelo Decreto nº 10.554, de 16-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109473/decreto-10554).
 
 ~~Parágrafo único. É vedada a recondução do administrador ou do Conselheiro Fiscal que não tiver participado do treinamento anual disponibilizado pela empresa estatal nos últimos 2 (dois) anos.~~
@@ -300,10 +302,12 @@ Art. 25. É vedada a indicação para o Conselho de Administração e para a Dir
 
 I – de representante da autoridade da regulação a que a empresa pública ou a sociedade de economia mista estiver sujeita, bem como de seus parentes consanguíneos ou afins até o 3º (terceiro) grau;
 
-~~II – de pessoa que atuou, nos últimos 36 (trinta e seis) meses, como participante da estrutura decisória de partido político ou em trabalho vinculado a organização, estruturação e realização de campanha eleitoral;~~<br>
+~~II – de pessoa que atuou, nos últimos 36 (trinta e seis) meses, como participante da estrutura decisória de partido político ou em trabalho vinculado a organização, estruturação e realização de campanha eleitoral;~~
+
 \- [Revogado pelo Decreto nº 10.650, de 25-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110437), art. 2º.
 
-~~III – de pessoa que exerça cargo em organização sindical;~~<br>
+~~III – de pessoa que exerça cargo em organização sindical;~~
+
 \- [Revogado pelo Decreto nº 10.650, de 25-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110437), art. 2º.
 
 IV – de pessoa que tenha firmado contrato ou parceria como fornecedor, comprador, demandante ou ofertante de bens ou serviços de qualquer natureza com a pessoa político– administrativa controladora da empresa pública ou da sociedade de economia mista ou com a própria empresa ou sociedade em período inferior a 3 (três) anos antes da data de nomeação; ou
@@ -318,7 +322,8 @@ Parágrafo único. Atingido o limite previsto no _caput_ deste artigo, o retorno
 
 Art. 27. O Conselho Fiscal contará com pelo menos 1 (um) membro indicado pelo ente controlador, que deverá ser servidor público com vínculo permanente com a administração pública.
 
-Art. 28. Fica vedada a participação no Conselho Fiscal de pessoa que seja membro de órgãos da administração da empresa estatal ou de sociedade controlada por ela ou ainda que pertença ao mesmo grupo dela, também de pessoa que seja cônjuge ou parente até o 3º (terceiro) grau de administrador de empresa estatal.<br>
+Art. 28. Fica vedada a participação no Conselho Fiscal de pessoa que seja membro de órgãos da administração da empresa estatal ou de sociedade controlada por ela ou ainda que pertença ao mesmo grupo dela, também de pessoa que seja cônjuge ou parente até o 3º (terceiro) grau de administrador de empresa estatal.
+
 \- [Redação dada pelo Decreto nº 10.554, de 16-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109473/decreto-10554).
 
 ~~Art. 28. Fica vedada a participação no Conselho Fiscal de pessoa que tenha sido membro de órgãos de administração pública nos últimos 12 (doze) meses, seja empregada de empresa estatal, de sociedade controlada por ela ou que pertença ao mesmo grupo dela, ou mesmo que seja cônjuge ou parente até 3º (terceiro) grau de administrador de empresa estatal.~~
@@ -355,7 +360,8 @@ Art. 34. Para as empresas estatais com a receita operacional bruta inferior a R$
 
 I – ter experiência profissional, no mínimo, de:
 
-a) 5 (cinco) anos no setor público ou privado, preferencialmente na área de atuação da empresa pública ou da sociedade de economia mista;<br>
+a) 5 (cinco) anos no setor público ou privado, preferencialmente na área de atuação da empresa pública ou da sociedade de economia mista;
+
 \- [Redação dada pelo Decreto nº 10.650, de 25-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110437).
 
 ~~a) 5 (cinco) anos no setor público ou privado, na área de atuação da empresa pública ou da sociedade de economia mista;~~
@@ -364,7 +370,8 @@ b) 2 (dois) anos, pela ocupação de pelo menos 1 (um) dos seguintes cargos:
 
 1\. de direção ou de chefia superior em empresa de porte ou objeto social semelhante ao da empresa pública ou sociedade de economia mista, compreendido como cargo de chefia superior o situado nos 2 (dois) níveis hierárquicos não estatutários mais altos da empresa;
 
-2\. de provimento em comissão do tipo direção ou assessoramento, de qualquer nível, na estrutura básica ou complementar do Poder Executivo estadual, nos termos da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023; ou<br>
+2\. de provimento em comissão do tipo direção ou assessoramento, de qualquer nível, na estrutura básica ou complementar do Poder Executivo estadual, nos termos da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023; ou
+
 \- [Redação dada pelo Decreto nº 10.650, de 25-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110437).
 
 ~~2\. de provimento em comissão de qualquer nível na estrutura básica do Poder Executivo estadual, nos termos da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023; ou~~
@@ -373,14 +380,16 @@ b) 2 (dois) anos, pela ocupação de pelo menos 1 (um) dos seguintes cargos:
 
 c) 2 (dois) anos como profissional liberal em atividade direta ou indiretamente vinculada à área de atuação da empresa pública ou da sociedade de economia mista;
 
-II – ter formação acadêmica de nível superior; e<br>
+II – ter formação acadêmica de nível superior; e
+
 \- [Redação dada pelo Decreto nº 10.650, de 25-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110437).
 
 ~~II – ter formação acadêmica de nível superior em área compatível com a de atuação da empresa estatal; e~~
 
 III – não se enquadrar nas hipóteses de inelegibilidade previstas nas alíneas do inciso I do _caput_ do art. 1º da Lei Complementar federal nº 64, de 18 de maio de 1990, com alterações posteriores.
 
-Art. 35. Podem ser membros do Conselho Fiscal pessoas naturais, residentes no país, com formação acadêmica de nível superior e que tenham exercido por no mínimo 2 (dois) anos cargo de direção ou assessoramento na administração pública ou cargo de conselheiro fiscal ou administrador em empresa.<br>
+Art. 35. Podem ser membros do Conselho Fiscal pessoas naturais, residentes no país, com formação acadêmica de nível superior e que tenham exercido por no mínimo 2 (dois) anos cargo de direção ou assessoramento na administração pública ou cargo de conselheiro fiscal ou administrador em empresa.
+
 \- [Redação dada pelo Decreto nº 10.650, de 25-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110437).
 
 ~~Art. 35. Podem ser membros do Conselho Fiscal pessoas naturais, residentes no país, com formação acadêmica compatível com o exercício da função e que tenham exercido, por no mínimo 2 (dois) anos, cargo de direção ou assessoramento na administração pública ou cargo de conselheiro fiscal ou administrador em empresa.~~

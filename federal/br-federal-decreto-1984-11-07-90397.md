@@ -1,5 +1,3 @@
-###DEC-090397-0-000-07-11-1984@@@
-
 Decreto nº 90.397, de 07 de novembro de 1984.
 
 Autoriza o aumento do capital social da Rede Federal de Armazéns Gerais Ferroviários S.A. - AGEF.

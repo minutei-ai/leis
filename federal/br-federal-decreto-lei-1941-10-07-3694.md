@@ -1,5 +1,3 @@
-###DEL-003694-0-000-07-10-1941@@@
-
 DECRETO-LEI N. 3.694 – DE 7 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 5:250$0, para pagamento a Inspetores de Ensino

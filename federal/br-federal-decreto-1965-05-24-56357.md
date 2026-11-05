@@ -1,5 +1,3 @@
-###DEC-056357-0-000-24-05-1965@@@
-
 DECRETO Nº 56.357, DE 24 DE MAIO DE 1965.
 
 Concede à CONAN - Companhia de Navegação do Norte autorização para funcionar como emprêsa de navegação de cabotagem.
@@ -15,8 +13,6 @@ Brasília, 24 de maio de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Daniel Faraco
-
-###DEC-056357-0-000-24-05-1965@@@RET01+++
 
 DECRETO Nº 56.357, DE 24 DE MAIO DE 1965.
 

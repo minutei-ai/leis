@@ -1,5 +1,3 @@
-###DEC-052472-0-000-13-09-1963@@@
-
 DECRETO Nº 52.472, DE 13 DE SETEMBRO DE 1963.
 
 Dispõe sôbre a jurisdição que os Ministério devem exercer sôbre autarquias, órgãos autônomos e sociedades de economia mista, e dá outras providências.

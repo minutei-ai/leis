@@ -1,5 +1,3 @@
-###DEC-005069-0-000-05-05-2004@@@
-
 DECRETO Nº 5.069,  DE 5 DE MAIO DE 2004
 
 Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional de Aqüicultura e Pesca - CONAPE, e dá outras providências.

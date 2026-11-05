@@ -1,5 +1,3 @@
-###DEC-083616-0-000-25-06-1979@@@
-
 Decreto nº 83.616, de 25 de junho de 1979.
 
 Concede à Mineração Nossa Senhora das Dores Ltda. o direito de lavrar fluorita no Município de Jaguaruna, Estado de Santa Catarina.

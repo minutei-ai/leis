@@ -1,5 +1,3 @@
-###DEC-005398-0-000-23-03-2005@@@
-
 DECRETO Nº 5.398 DE 23 DE MARÇO DE 2005
 
 Dá nova redação aos arts. 4º e 5º do Decreto no 4.732, de 10 de junho de 2003, que dispõe sobre a Câmara de Comércio Exterior - CAMEX, do Conselho de Governo.

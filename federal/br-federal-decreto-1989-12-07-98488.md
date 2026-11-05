@@ -1,5 +1,3 @@
-###DEC-098488-0-000-07-12-1989@@@
-
 DECRETO N° 98.488, DE 7 DE DEZEMBRO DE 1989
 
 Revoga o Decreto n° 98.228, de 2 de outubro de 1989.

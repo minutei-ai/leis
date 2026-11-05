@@ -1,5 +1,3 @@
-###DEC-079126-0-000-17-01-1977@@@
-
 DECRETO Nº 79.126, DE 17 DE JANEIRO DE 1977.
 
 Concede reconhecimento aos cursos de Formação de Professores de Disciplinas Especializadas no Ensino de 2º grau, Esquema I, de Desenho Industrial, de Desenho e Plástica, e de Comunicação Social, da Universidade do Maranhão, com sede na cidade de São Luís, Estado do Maranhão.

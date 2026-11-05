@@ -1,5 +1,3 @@
-###DEC-093653-0-000-05-12-1986@@@
-
 DECRETO Nº 93.653, DE 5 DE DEZEMBRO DE 1986
 
 Concede a Aço Minas Gerais S.A. AÇOMINAS - (GRUPO SIDERBRÁS), autorização para proceder a aumento do seu capital social.

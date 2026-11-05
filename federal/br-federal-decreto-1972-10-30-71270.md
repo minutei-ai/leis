@@ -1,5 +1,3 @@
-###DEC-071270-0-000-30-10-1972@@@
-
 DECRETO Nº 71.270 - de 30 de outubro de 1972.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Paulista, Estado de Pernambuco.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.120, DE 02 DE MARÇO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei n. 1.805, de 26 de dezembro de 2006, que “Dispõe sobre a fixação de emolumentos devidos pelos atos praticados pelos serviços notariais e de registros e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei n. 1.805, de 26 de dezembro de 2006, que “Dispõe sobre a fixação de emolumentos devidos pelos atos praticados pelos serviços notariais e de registros e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -42,7 +46,7 @@
 
 ...
 
-**Art**. **35.** **...**
+**Art**. **35....**
 
 ...
 
@@ -66,7 +70,7 @@
 
 **(Registro de nascimento, óbito, incluída a primeira certidão, e conversão de união estável em casamento)**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"><p><span><strong><span>ATO</span></strong></span></p><p><span><strong><span>&nbsp;</span></strong></span></p></td><td><p><span><span>Emolumentos (85%)</span></span></p></td><td><p><span><span>Fundo de Compensação (5%)</span></span></p></td><td><p><span><span>Fundo Fiscalização&nbsp;(10%)</span></span></p></td><td><p><span><span>Valor Final ao Usuário</span></span></p></td></tr><tr><td><p><span><span>1)</span></span></p></td><td><p><span><span>Assento de nascimento e óbito, incluída a primeira certidão, bem ainda o registro da conversão da união estável em casamento – R$ 52,28.&nbsp;</span></span></p></td><td><p><span><span>Isento</span></span></p></td><td><p><span><span>Isento</span></span></p></td><td><p><span><span>Isento</span></span></p></td><td><p><span><span>Isento</span></span></p></td></tr><tr><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"> **ATO&nbsp;** </td><td> Emolumentos (85%) </td><td> Fundo de Compensação (5%) </td><td> Fundo Fiscalização&nbsp;(10%) </td><td> Valor Final ao Usuário </td></tr><tr><td> 1) </td><td> Assento de nascimento e óbito, incluída a primeira certidão, bem ainda o registro da conversão da união estável em casamento – R$ 52,28.&nbsp; </td><td> Isento </td><td> Isento </td><td> Isento </td><td> Isento </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
 
 **NOTAS:**
 

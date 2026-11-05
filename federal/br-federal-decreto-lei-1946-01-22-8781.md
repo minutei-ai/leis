@@ -1,5 +1,3 @@
-###DEL-008781-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.781 – DE 22 DE JANEIRO DE 1946
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$ 40.000,00 para ocorrer à despesas de viagem e de representação de um delegado do Brasil à Conferência Econômica Internacional.

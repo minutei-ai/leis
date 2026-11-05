@@ -1,5 +1,3 @@
-###DEC-001979-0-000-09-08-1996@@@
-
 DECRETO Nº 1.979, DE 9 DE AGOSTO DE 1996.
 
 Promulga a Convenção Interamericana sobre Normas Gerais de Direito Internacional Privado, concluída em Montevidéu, Uruguai, em 8 de maio de 1979.

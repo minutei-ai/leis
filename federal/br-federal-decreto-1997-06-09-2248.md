@@ -1,5 +1,3 @@
-###DEC-002248-0-000-09-06-1997@@@
-
 DECRETO Nº 2.248, DE 9 DE JUNHO DE 1997
 
 Autoriza o depósito de ações de propriedade da União no Fundo de Amortização da Dívida Pública Mobiliária Federal, na forma estabelecida no art. 30 da Lei nº 9.069, de 29 de junho de 1995, no art. 3º do Decreto nº 1.312 de 18 de novembro de 1994, e dá outras providências.

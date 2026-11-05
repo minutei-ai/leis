@@ -1,5 +1,3 @@
-###DEC-073450-0-000-14-01-1974@@@
-
 DECRETO Nº 73.450, DE 14 DE JANEIRO DE 1974.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno de acrescido de marinha que menciona, situado em Vitória, Estado do Espírito Santo.

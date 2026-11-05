@@ -1,5 +1,3 @@
-###DEC-076931-0-000-29-12-1975@@@
-
 DECRETO Nº 76.931, DE 29 DE DEZEMBRO DE 1975.
 
 Regulamenta no âmbito do Ministério das Relações Exteriores, para o Grupo Diplomacia (D-300), o artigo 29, § 1º, alínea c, nº 1, da Lei nº 5.809, de 10 de outubro de 1972.

@@ -1,5 +1,3 @@
-###DEC-045306-0-000-27-01-1959@@@
-
 Decreto nº 45.306, de 27 de janeiro de 1959.
 
 Declara caduco o Decreto nº 9.233, de 8 de abril de 1942.

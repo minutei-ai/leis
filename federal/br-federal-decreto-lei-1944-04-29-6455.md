@@ -1,5 +1,3 @@
-###DEL-006455-0-000-29-04-1944@@@
-
 DECRETO-LEI N. 6.455 – DE 29 DE ABRIL DE 1944
 
 Dispõe sôbre subscrição e venda de “Obrigações de Guerra”, e dá outras providências

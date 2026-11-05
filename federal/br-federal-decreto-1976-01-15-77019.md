@@ -1,5 +1,3 @@
-###DEC-077019-0-000-15-01-1976@@@
-
 DECRETO Nº 77.019, DE 15 DE JANEIRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Pará.

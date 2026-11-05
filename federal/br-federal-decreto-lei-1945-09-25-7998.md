@@ -1,5 +1,3 @@
-###DEL-007998-0-000-25-09-1945@@@
-
 DECRETO-LEI N. 7.998 – DE 25 DE SETEMBRO DE 1945
 
 Abre o crédito suplementar de Cr$ 200.000,00 à dotação que especifica

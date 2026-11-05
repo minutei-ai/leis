@@ -1,5 +1,3 @@
-###DEC-051422-0-000-01-03-1962@@@
-
 DECRETO Nº 51.422, DE 1º DE MARÇO DE 1962.
 
 Cria a Comissão Organizadora Nacional dos sétimos Congressos Internacionais de Medicina Tropical e Malária.

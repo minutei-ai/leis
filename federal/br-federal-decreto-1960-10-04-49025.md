@@ -1,5 +1,3 @@
-###DEC-049025-0-000-04-10-1960@@@
-
 DECRETO Nº 49.025, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Sócrates Bonfim a pesquisar minério de manganês no município de Aripuanã, Estado de Mato Grosso.

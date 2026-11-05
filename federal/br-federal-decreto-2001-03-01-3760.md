@@ -1,5 +1,3 @@
-###DEC-003760-0-000-01-03-2001@@@
-
 DECRETO Nº 3.760, DE 1º DE MARÇO DE 2001
 
 Dispõe sobre a execução do Trigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 31 de outubro de 2000.

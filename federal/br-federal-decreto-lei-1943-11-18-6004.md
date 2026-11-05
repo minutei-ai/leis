@@ -1,5 +1,3 @@
-###DEL-006004-0-000-18-11-1943@@@ 
-
 DECRETO‑LEI N. 6.004 – DE 18 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 557.290,00, à verba que especifica

@@ -1,5 +1,3 @@
-###MPV-001793-0-000-30-12-1998@@@
-
 medida provisória nº 1.793, de 30 de dezembro de 1998.
 
 Institui a Taxa Processual sobre os processos de competência do Conselho Administrativo de Defesa Econômica - CADE, e dá outras providências.

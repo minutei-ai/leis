@@ -1,5 +1,3 @@
-###DEC-076441-0-000-15-10-1975@@@
-
 DECRETO Nº 76.441, DE 15 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública para fins de desapropriação, áreas de terra com benfeitorias, necessárias à segurança da Usina Hidroelétrica Marechal Mascarenhas de Morais, de Furnas - Centrais Elétricas S.A ., no Estado de Minas Gerais.

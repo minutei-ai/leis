@@ -1,5 +1,3 @@
-###DEC-003906-0-000-04-09-2001@@@
-
 DECRETO Nº 3.906, DE 4 DE SETEMBRO DE 2001
 
 Altera a redação do art. 1º do Decreto nº 3.101, de 30 de junho de 1999, que dispõe sobre a composição dos Conselhos Deliberativo do Fundo de Amparo ao Trabalhador - CODEFAT e Curador do Fundo de Garantia do Tempo de Serviço - CCFGTS, para dispor sobre a presidência e a vice-presidência do CODEFAT.

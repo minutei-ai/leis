@@ -1,5 +1,3 @@
-###DEC-060157-0-000-31-01-1967@@@
-
 DECRETO Nº 60.157, DE 31 DE JANEIRO DE 1967.
 
 Aprova a alteração introduzida nos Estatutos da Mundial Companhia Nacional de Seguros Gerais, relativa ao aumento do capital social.

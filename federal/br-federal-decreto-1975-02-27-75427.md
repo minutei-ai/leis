@@ -1,5 +1,3 @@
-###DEC-075427-0-000-27-02-1975@@@
-
 DECRETO Nº 75.427, DE 27 DE FEVEREIRO DE 1975.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos de marinha e acrescidos que menciona, situados no Estado do Ceará.

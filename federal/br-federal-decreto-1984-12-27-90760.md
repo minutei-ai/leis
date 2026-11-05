@@ -1,5 +1,3 @@
-###DEC-090760-0-000-27-12-1984@@@
-
 Decreto nº 90.760, de 27 de dezembro de 1984.
 
 Revoga dispositivo do Decreto nº 84.128, de 29 de outubro de 1979, que dispõe sobre o controle de recursos e dispêndios de empresas estatais.

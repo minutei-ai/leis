@@ -1,5 +1,3 @@
-###DEC-091467-0-000-23-07-1985@@@
-
 DECRETO Nº 91.467, DE 23 DE JULHO DE 1985.
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Fundação Educacional do Norte Catarinense.

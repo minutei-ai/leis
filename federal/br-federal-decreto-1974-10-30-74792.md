@@ -1,5 +1,3 @@
-###DEC-074792-0-000-30-10-1974@@@
-
 DECRETO Nº 74.792, DE 30 DE OUTUBRO DE 1974
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Atalaia de Maringá Ltda., para executar serviço de radiodifusão sonora em onda de média de âmbito regional, na cidade de Maringá, Estado do Paraná.

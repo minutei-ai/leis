@@ -1,5 +1,3 @@
-###DEC-068663-0-000-24-05-1971@@@
-
 Decreto nº 68.663, de 24 de maio de 1971.
 
 Concede à Cia. Catarinense de Cimento Portland o direito de lavrar calcário, no município de Vidal Ramos, Estado de Santa Catarina.

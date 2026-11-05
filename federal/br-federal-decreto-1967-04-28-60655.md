@@ -1,5 +1,3 @@
-###DEC-060655-0-000-28-04-1967@@@
-
 DECRETO Nº 60.655, DE 28 DE ABRIL DE 1967.
 
 Declara de utilidade pública o “Hospital Geral Dr. Francisco Tozzi”, com sede em Águas de Lindóia, Estado de São Paulo.

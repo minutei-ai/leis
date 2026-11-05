@@ -1,5 +1,3 @@
-###DEC-079300-0-000-24-02-1977@@@
-
 DECRETO Nº 79.300, DE 24 DE FEVEREIRO DE 1977.
 
 Concede a Minérios Azambuja Ltda. o direito de lavrar feldspato no Município de Pedras Grandes, Estado de Santa Catarina.

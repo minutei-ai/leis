@@ -1,5 +1,3 @@
-###DEC-005579-0-000-10-11-2005@@@
-
 DECRETO Nº 5.579, DE 10 DE NOVEMBRO DE 2005.
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Panamá sobre Cooperação entre as Academias Diplomáticas de Ambos os Países, celebrado em Brasília, em 21 de agosto de 2001.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 11.11.2005
-
-ACORDO ENTRE OS GOVERNOS DA REPÚBLICA FEDERATIVA DO BRASIL E DA
+         Celso Luiz Nunes AmorimACORDO ENTRE OS GOVERNOS DA REPÚBLICA FEDERATIVA DO BRASIL E DA
 
 REPÚBLICA DO PANAMÁ SOBRE COOPERAÇÃO ENTRE AS ACADEMIAS
 

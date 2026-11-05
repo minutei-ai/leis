@@ -1,5 +1,3 @@
-###DEC-074156-0-000-06-06-1974@@@
-
 DECRETO Nº 74.156, DE 6 DE JUNHO DE 1974.
 
 Cria a Comissão Nacional de Regiões Metropolitanas e Política Urbana - CNPU e dá outras providências.

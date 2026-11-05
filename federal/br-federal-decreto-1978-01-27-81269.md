@@ -1,5 +1,3 @@
-###DEC-081269-0-000-27-01-1978@@@
-
 Decreto nº 81.269, de 27 de janeiro de 1978.
 
 Concede reconhecimento aos cursos de Administração, de Ciências Econômicas e de Ciências Contábeis da Universidade de Fortaleza, com sede em Fortaleza, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-056619-0-000-28-07-1965@@@
-
 DECRETO Nº 56.619, DE 28 DE JULHO DE 1965.
 
 Dispõe sôbre a prestação de assistência médica e à maternidade aos trabalhadores rurais.

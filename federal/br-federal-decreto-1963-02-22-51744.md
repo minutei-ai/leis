@@ -1,5 +1,3 @@
-###DEC-051744-0-000-22-02-1963@@@
-
 Decreto nº 51.744, de 22 de fevereiro de 1963.
 
 Dispõe sôbre a Comissão de Assuntos Territoriais (C.A.T.) e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-096499-0-000-12-08-1988@@@
-
 DECRETO N° 96.499, DE 12 DE AGOSTO DE 1988
 
 Promulga o Acordo para a Construção de uma Ponte Internacional sobre o Rio Tacutu, entre o Governo da República Federativa do Brasil e o Governo da República Cooperativista da Guiana.

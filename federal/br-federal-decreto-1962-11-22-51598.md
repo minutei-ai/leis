@@ -1,5 +1,3 @@
-###DEC-051598-0-000-22-11-1962@@@
-
 Decreto nº 51.598, de 22 de novembro de 1962.
 
 Revoga o Decreto nº 50.739, de 7 de junho de 1961

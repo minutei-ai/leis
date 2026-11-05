@@ -1,5 +1,3 @@
-###DEC-005911-0-000-27-09-2006@@@
-
 DECRETO Nº 5.911, DE 27 DE SETEMBRO DE 2006.
 
 Estabelece procedimentos para prorrogação das concessões de uso do bem público dos empreendimentos de geração de energia elétrica de que trata o art. 17 da Lei no 10.848, de 15 de março de 2004, altera o Decreto no 5.163, de 30 de julho de 2004, e dá outras providências.
@@ -83,5 +81,3 @@ Brasília, 27 de setembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
           Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no D.O.U. de 28.9.2006.

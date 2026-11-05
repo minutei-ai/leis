@@ -1,5 +1,3 @@
-###DEC-002872-0-000-10-12-1998@@@
-
 DECRETO Nº 2.872, DE 10 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a execução do Acordo de Alcance Parcial nº 12 ao amparo do Artigo 25 do TM-80, assinado entre os Governos da Argentina, Brasil, Paraguai, Uruguai, Costa Rica, El Salvador, Guatemala, Honduras e Nicarágua, em 18 de abril de 1998.
@@ -152,6 +150,22 @@ EM FÉ DO QUE, subscreve-se o presente Acordo na cidade de Santiago do Chile, Re
 
 A Seguir as assinaturas dos Excelentíssimos Senhores Presidentes dos países signatários que subscreveram o presente Acordo na cidade de Santiago do Chile, aos dezoito dias do mês de abril de mil novecentos e noventa e oito:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República da Argentina: Carlos Saúl MENEM</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República Federativa do Brasil: Fernando Henrique CARDOSO</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República do Paraguai: Juan Carlos WASMOSY</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República Oriental do Uruguai: Julio Maria SANGUINETTI</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República da Costa Rica: José Maria FIGUERES OLSEN</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República de El Salvador: Armando CALDERON SOL</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República da Guatemala: Álvaro ARZU IRIGOYEN</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República de Honduras: Carlos FLORES FACUSSE</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República da Nicarágua: Arnoldo ALEMAN LACAYO</span></p></td></tr></tbody></table>
+Pela República da Argentina: Carlos Saúl MENEM
+
+Pela República Federativa do Brasil: Fernando Henrique CARDOSO
+
+Pela República do Paraguai: Juan Carlos WASMOSY
+
+Pela República Oriental do Uruguai: Julio Maria SANGUINETTI
+
+Pela República da Costa Rica: José Maria FIGUERES OLSEN
+
+Pela República de El Salvador: Armando CALDERON SOL
+
+Pela República da Guatemala: Álvaro ARZU IRIGOYEN
+
+Pela República de Honduras: Carlos FLORES FACUSSE
+
+Pela República da Nicarágua: Arnoldo ALEMAN LACAYO
 
 “Nota da Secretaria”. - O texto que antecede é tradução do original no idioma espanhol para o idioma português, realizada a pedido da Representação da República Argentina, revisada e conformada oportunamente pela Delegação do Brasil no Comitê de Representantes.

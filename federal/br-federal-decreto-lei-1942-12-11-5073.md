@@ -1,5 +1,3 @@
-###DEL-005073-0-000-11-12-1942@@@
-
 DECRETO-LEI N. 5.073 – DE 11 DE DEZEMBRO DE 1942
 
  Dispõe sobre o provimento de cargos do Q. P. do             D. A. S. P.

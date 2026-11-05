@@ -1,5 +1,3 @@
-###DEC-096356-0-000-18-07-1988@@@
-
 DECRETO N° 96.356, DE 18 DE JULHO DE 1988
 
 Dispõe sobre a elevação do capital social da NUCLEMON - Nuclebrás de Monazita e Associados Ltda.

@@ -1,5 +1,3 @@
-###DEL-008313-0-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.313 – DE 7 DE DEZEMBRO DE 1945
 
 Dispõe sôbre jornais e emprêsas jornalísticas pertencentes aos governos da União, dos Estados e das entidades autárquicas.

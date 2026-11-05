@@ -1,5 +1,3 @@
-###DEC-052409-0-000-27-08-1963@@@
-
 DECRETO Nº 52.409, DE 27 DE AGÔSTO DE 1963.
 
 Altera a cláusula IV das que baixaram com o Decreto nº 8.588, de 8 de março de 1911, e autoriza a Companhia Mogiana de Estradas de Ferro a cobrar “taxa de utilização” da ponte sôbre o Rio Grande.

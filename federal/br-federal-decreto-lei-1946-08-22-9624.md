@@ -1,5 +1,3 @@
-###DEL-009624-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.624 – DE 22 DE AGÔSTO DE 1946
 
 Dispõe sôbre os Quadros Permanente e Suplementar da Prefeitura do Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-068930-0-000-16-07-1971@@@
-
 DECRETO Nº 68.930, DE 16 DE JULHO DE 1971.
 
 Aprova Estatuto do Hospital de Clínicas de Pôrto Alegre.

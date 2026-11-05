@@ -1,5 +1,3 @@
-###DEC-068938-0-000-16-07-1971@@@
-
 decreto nº 68.938, de 16 de julho de 1971.
 
 Da nôvo prazo à Prefeitura Municipal de Salvador, no Estado da Bahia, para cumprimento dos encargos que menciona.

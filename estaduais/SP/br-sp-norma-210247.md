@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210247)<br>
-
 # DECRETO N° 69.073, DE 22 DE NOVEMBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante comodato, por prazo indeterminado, parte do imóvel que especifica, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-048217-0-000-13-05-1960@@@
-
 Decreto nº 48.217, de 13 de maio de 1960.
 
 Autoriza Neto & Cia. Ltda., a lavrar água mineral no município de Grão Mogol, Estado de Minas Gerais.

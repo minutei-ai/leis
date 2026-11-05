@@ -1,5 +1,3 @@
-###DEC-046744-0-000-26-08-1959@@@
-
 DECRETO Nº 46.744, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza a Companhia de Pesquisas e Lavras Minerais - Copelmi a pesquisar carvão mineral no município e Guaíba, Estado do Rio Grande do Sul.

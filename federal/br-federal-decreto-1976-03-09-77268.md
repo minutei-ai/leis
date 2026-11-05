@@ -1,5 +1,3 @@
-###DEC-077268-0-000-09-03-1976@@@
-
 decreto nº 77.268, de 9 de março de 1976.
 
 Renova por 10(dez) anos a concessão outorgada à Rádio Itapema Limitada, para executar serviço de radiodifusão sonora, em onda média de âmbito regional, na Cidade de Santos, Estado de São Paulo.

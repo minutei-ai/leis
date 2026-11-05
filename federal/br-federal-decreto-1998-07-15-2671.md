@@ -1,5 +1,3 @@
-###DEC-002671-0-000-15-07-1998@@@
-
 DECRETO Nº 2.671, DE 15 DE JULHO DE 1998
 
 Promulga a Convenção nº 164 da OIT, sobre a Proteção da Saúde e a Assistência Médica aos Trabalhadores Marítimos, assinada em Genebra, em 8 de outubro de 1987.

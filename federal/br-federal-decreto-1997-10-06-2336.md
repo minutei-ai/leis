@@ -1,5 +1,3 @@
-###DEC-002336-0-000-06-10-1997@@@
-
 DECRETO Nº 2.336, DE 6 OUTUBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.286, de 24 de julho de 1997.

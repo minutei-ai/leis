@@ -1,5 +1,3 @@
-###DEC-075201-0-000-09-01-1975@@@
-
 DECRETO Nº 75.201, DE 09 DE JANEIRO DE 1975.
 
 Reduz as alíquotas do Imposto único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

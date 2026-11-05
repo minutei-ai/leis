@@ -1,5 +1,3 @@
-###DEC-058888-0-000-20-07-1966@@@
-
 DECRETO Nº 58.888, DE 20 DE JULHO DE 1966.
 
 Renova o Decreto número 53.302, de 16 de dezembro de 1963.

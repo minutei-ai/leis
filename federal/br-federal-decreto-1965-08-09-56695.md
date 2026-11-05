@@ -1,5 +1,3 @@
-###DEC-056695-0-000-09-08-1965@@@
-
 DECRETO Nº 56.695, DE 9 DE AGÔSTO DE 1965.
 
 Outorga à Companhia de Eletricidade de Alagoas concessão para distribuir energia elétrica.

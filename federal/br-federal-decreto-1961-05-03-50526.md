@@ -1,5 +1,3 @@
-###DEC-050526-0-000-03-05-1961@@@
-
 DECREto nº 50.526, de 3 de maio de 1961.
 
 Declara emancipada a Gleba Caçaria do Núcleo Colonial Santa Alice e dá outras providências.

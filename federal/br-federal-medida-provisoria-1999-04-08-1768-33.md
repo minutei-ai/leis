@@ -1,5 +1,3 @@
-###MPV-001768-0-033-08-04-1999@@@
-
 MEDIDA PROVISÓRiA Nº 1.768-33, DE 8 DE ABril DE 1999
 
 Dispõe sobre a novação de dívidas e responsabilidades do Fundo de Compensação de Variações Salariais - FCVS; altera o Decreto-Lei nº 2.406, de 5 de janeiro de 1988, e as Leis nºs 8.004, 8.100 e 8.692, de 14 de março de 1990, 5 de dezembro de 1990, e 28 de julho de 1993, respectivamente, e dá outras providências.

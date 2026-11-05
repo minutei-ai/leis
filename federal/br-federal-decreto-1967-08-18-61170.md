@@ -1,5 +1,3 @@
-###DEC-061170-0-000-18-08-1967@@@
-
 DECRETO Nº 61.170, DE 18 DE AGÔSTO DE 1967.
 
 Dispõe sôbre a participação dos agentes do fisco estadual ou municipal em cotas-partes de multas.

@@ -1,5 +1,3 @@
-###DEC-052589-0-000-01-10-1963@@@
-
 DECRETO Nº 52.589, DE 1 DE OUTUBRO DE 1963.
 
 Autoriza a Companhia Elétrica Caiuá, a ampliar o seu sistema elétrico.

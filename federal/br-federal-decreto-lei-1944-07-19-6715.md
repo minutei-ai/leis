@@ -1,5 +1,3 @@
-###DEL-006715-0-000-19-07-1944@@@
-
 DECRETO-LEI N. 6.715 – DE 19 DE JULHO DE 1944
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 100.000,00 para o fim que especifica

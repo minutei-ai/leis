@@ -120,22 +120,102 @@ SÍLVIO PESSOA DE CARVALHO
 
 IRAN PEREIRA DOS SANTOS
 
-<br>
-
 **ANEXO I**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="589" style="width:442.1pt;border:outset black 1.0pt"><tbody><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLOS DE NÍVEIS DO CARGO EFETIVO DE MÉDICO</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR DO VENCIMENTO-BASE R$</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SM – 1</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.213,57</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SM – 2</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.259,31</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SM – 3</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.308,80</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SM – 4</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.361,22</span></p></td></tr></tbody></table>
+SÍMBOLOS DE NÍVEIS DO CARGO EFETIVO DE MÉDICO
+
+VALOR DO VENCIMENTO-BASE R$
+
+SM – 1
+
+1.213,57
+
+SM – 2
+
+1.259,31
+
+SM – 3
+
+1.308,80
+
+SM – 4
+
+1.361,22
 
 **ANEXO II**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="589" style="width:442.1pt;border:outset black 1.0pt"><tbody><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLOS DE NÍVEIS DO CARGO EFETIVO DE ODONTÓLOGO</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR DO VENCIMENTO-BASE R$</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SO – 1</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">679,72</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SO – 2</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">727,28</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SO – 3</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">778,75</span></p></td></tr></tbody></table>
+SÍMBOLOS DE NÍVEIS DO CARGO EFETIVO DE ODONTÓLOGO
+
+VALOR DO VENCIMENTO-BASE R$
+
+SO – 1
+
+679,72
+
+SO – 2
+
+727,28
+
+SO – 3
+
+778,75
 
 **ANEXO III**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="589" style="width:442.1pt;border:outset black 1.0pt"><tbody><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLOS DE NÍVEIS DO CARGO EFETIVO DE ASSESSOR JURÍDICO</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR DO VENCIMENTO BASE R$</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJ-I</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">903,76</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJ-II</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">967,01</span></p></td></tr><tr><td width="64%" style="width:64.78%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJ-III</span></p></td><td width="34%" style="width:34.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.034,71</span></p></td></tr></tbody></table>
+SÍMBOLOS DE NÍVEIS DO CARGO EFETIVO DE ASSESSOR JURÍDICO
+
+VALOR DO VENCIMENTO BASE R$
+
+AJ-I
+
+903,76
+
+AJ-II
+
+967,01
+
+AJ-III
+
+1.034,71
 
 **ANEXO IV**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="587" style="width:440.05pt;border:outset black 1.0pt"><tbody><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLOS DE NÍVEIS DOS CARGOS EFETIVOS DO GRUPO OCUPACIONAL SAÚDE PÚBLICA</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR DO VENCIMENTO BASE R$</span></p></td></tr><tr style="height:16.5pt"><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:16.5pt"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NAS-1</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:16.5pt"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">174,37</span></p></td></tr><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NAS-2</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">183,08</span></p></td></tr><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NAS-3</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">192,24</span></p></td></tr><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NMS-1</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">201,84</span></p></td></tr><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NMS-2</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">213,96</span></p></td></tr><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NMS-3</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">226,81</span></p></td></tr><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NSS-6</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">542,26</span></p></td></tr><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NSS-7</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">580,21</span></p></td></tr><tr><td width="65%" style="width:65.08%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">NSS-8</span></p></td><td width="34%" style="width:34.44%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">620,82</span></p></td></tr></tbody></table>
+SÍMBOLOS DE NÍVEIS DOS CARGOS EFETIVOS DO GRUPO OCUPACIONAL SAÚDE PÚBLICA
+
+VALOR DO VENCIMENTO BASE R$
+
+NAS-1
+
+174,37
+
+NAS-2
+
+183,08
+
+NAS-3
+
+192,24
+
+NMS-1
+
+201,84
+
+NMS-2
+
+213,96
+
+NMS-3
+
+226,81
+
+NSS-6
+
+542,26
+
+NSS-7
+
+580,21
+
+NSS-8
+
+620,82

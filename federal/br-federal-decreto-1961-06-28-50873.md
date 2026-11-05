@@ -1,5 +1,3 @@
-###DEC-050873-0-000-28-06-1961@@@
-
 DECRETO Nº 50.873, DE 28 DE JUNHO DE 1961.
 
 Altera o art. 2º do Decreto nº 50.396, de 29 de março de 1961.

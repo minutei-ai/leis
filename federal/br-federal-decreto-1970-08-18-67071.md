@@ -1,5 +1,3 @@
-###DEC-067071-0-000-18-08-1970@@@
-
 decreto nº 67.071, de 18 de agôsto de 1970.
 
 Declara de utilidade pública a Prelazia de Roraima, com sede em Boa Vista, Território Federal de Roraima.

@@ -1,5 +1,3 @@
-###DEC-057018-0-000-11-10-1965@@@
-
 Decreto nº 57.018, de 11 de outubro de 1965.
 
 Autoriza o cidadão brasileiro Gilberto Pereira a pesquisar caulim, no município de Mogi das Cruzes, Estado de São Paulo.

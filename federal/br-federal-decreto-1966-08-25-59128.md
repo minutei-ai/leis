@@ -1,5 +1,3 @@
-###DEC-059128-0-000-25-08-1966@@@
-
 DECRETO Nº 59.128, de 25 de agôsto de 1966.
 
 Autoriza o cidadão brasileiro José Pereira Carvalhal Filho a pesquisar quartzo no Município de Passa Quatro, Estado de Minas Gerais.

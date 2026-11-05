@@ -1,5 +1,3 @@
-###DEC-083168-0-000-13-02-1979@@@
-
 Decreto nº 83.168, de 13 de fevereiro de 1979
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

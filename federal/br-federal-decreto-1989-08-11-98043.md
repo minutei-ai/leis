@@ -1,7 +1,3 @@
-1
-
-###DEC-098043-0-000-11-08-1989@@@
-
 DECRETO N° 98.043, DE 11 DE AGOSTO DE 1989
 
 Denomina o Complexo Hidrelétrico de Itaparica, na divisa dos Estados de Pernambuco e Bahia, de USINA HIDRELÉTRICA LUIZ GONZAGA.

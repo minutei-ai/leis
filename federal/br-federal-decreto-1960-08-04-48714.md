@@ -1,5 +1,3 @@
-###DEC-048714-0-000-04-08-1960@@@
-
 DECRETO Nº 48.714, DE 4 AGÔSTO DE 1960.
 
 Cria Postos de Subsistência do Serviço de Alimentação da Previdência Social nas localidades que menciona.

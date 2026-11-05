@@ -1,5 +1,3 @@
-###DEC-069044-0-000-10-08-1971@@@
-
 DECRETO Nº 69.044, DE 10 DE agôsto de 1971.
 
 Aproveita funcionário em disponibilidade e dá outras providências.

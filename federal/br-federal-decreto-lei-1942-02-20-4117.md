@@ -1,5 +1,3 @@
-###DEL-004117-0-000-20-02-1942@@@
-
 DECRETO-LEI N. 4.117 – DE 20 DE FEVEREIRO DE 1942
 
 Permite aos funcionários e extra numerários da União lecionar em cursos instituídos para os servidores da Estrada de Ferro Central do Brasil

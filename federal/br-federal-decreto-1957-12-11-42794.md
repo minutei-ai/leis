@@ -1,14 +1,12 @@
-###DEC-042794-0-000-11-12-1957@@@
+**DECRETO Nº 42.794, DE 11 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.794, DE 11 DE DEZEMBRO DE 1957.</strong>
+***Modifica a organização e encargos da Comissão Permanente de Comunicações das Fôrças Armadas, criada pelo Decreto nº 35.495, de 13 de maio de 1954 e dá outras providências.***
 
-<em><strong>Modifica a organização e encargos da Comissão Permanente de Comunicações das Fôrças Armadas, criada pelo Decreto nº 35.495, de 13 de maio de 1954 e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o Art. 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o Art. 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a ter a seguinte redação o Decreto nº 35.495, de 13 de maio de 1954:
+**Art**. 1º Passa a ter a seguinte redação o Decreto nº 35.495, de 13 de maio de 1954:
 
 “Art. 1º É criada a Comissão Permanente de Comunicações das Fôrças Armadas (CPCFA), integrante do Estado-Maior das Fôrças Armadas, a cujo Chefe ficará diretamente subordinada.
 
@@ -26,7 +24,7 @@ a) estudar e propor medidas referentes:
 
 b) cooperar com os outros órgãos do Estado-Maior das Fôrças Armadas, no Planejamento Militar de Guerra;
 
-c) elaborar os manuais e glossários referentes à doutrina, métodos e processos especificados no item <em>a</em>;
+c) elaborar os manuais e glossários referentes à doutrina, métodos e processos especificados no item *a*;
 
 d) estudar e emitir pareceres sôbre a legislação de comunicações e sôbre as propostas de acôrdos e convênios internacionais a serem subscritos pelo Brasil, nos aspectos incidentes sôbre a segurança nacional;
 
@@ -54,7 +52,7 @@ Art. 7º Revogam-se as disposições em contrário.”
 
 Rio de Janeiro, em 11 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antônio Alves Câmara
 

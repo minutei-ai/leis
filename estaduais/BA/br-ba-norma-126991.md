@@ -52,7 +52,21 @@ GRUPO OCUPACIONAL TÉCNICO ADMINISTRATIVO
 
 Vigência a partir de 01/07/2013
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 121.0pt; border: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="161"><p class="Tabela-Texto">Cargo</p></td><td style="width: 61.1pt; border: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="81"><p class="Tabela-Texto">Percentual</p></td></tr><tr><td style="width: 121.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="161"><p class="Tabela-Texto">Técnico Administrativo</p></td><td style="width: 61.1pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="81"><p class="Tabela-Texto">29,60%</p></td></tr><tr><td style="width: 121.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="161"><p class="Tabela-Texto">Auxiliar Administrativo</p></td><td style="width: 61.1pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="81"><p class="Tabela-Texto">22,20%</p></td></tr><tr><td style="width: 121.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="161"><p class="Tabela-Texto">Analista Técnico</p></td><td style="width: 61.1pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="81"><p class="Tabela-Texto">22,20%</p></td></tr></tbody></table>
+Cargo
+
+Percentual
+
+Técnico Administrativo
+
+29,60%
+
+Auxiliar Administrativo
+
+22,20%
+
+Analista Técnico
+
+22,20%
 
 ANEXO II
 
@@ -60,4 +74,14 @@ GRUPO OCUPACIONAL TÉCNICO ADMINISTRATIVO
 
 Vigência a partir de 01/07/2014
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 121.0pt; border: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="161"><p class="Tabela-Texto">Cargo</p></td><td style="width: 61.1pt; border: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="81"><p class="Tabela-Texto">Percentual</p></td></tr><tr><td style="width: 121.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="161"><p class="Tabela-Texto">Técnico Administrativo</p></td><td style="width: 61.1pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="81"><p class="Tabela-Texto">25,90%</p></td></tr><tr><td style="width: 121.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="161"><p class="Tabela-Texto">Auxiliar Administrativo</p></td><td style="width: 61.1pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="81"><p class="Tabela-Texto">&nbsp;</p></td></tr><tr><td style="width: 121.0pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="161"><p class="Tabela-Texto">Analista Técnico</p></td><td style="width: 61.1pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="81"><p class="Tabela-Texto">&nbsp;</p></td></tr></tbody></table>
+Cargo
+
+Percentual
+
+Técnico Administrativo
+
+25,90%
+
+Auxiliar Administrativo
+
+Analista Técnico

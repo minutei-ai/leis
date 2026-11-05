@@ -1,5 +1,3 @@
-###DEC-050351-0-000-17-03-1961@@@
-
 DECRETO Nº 50.351, DE 17 DE MARÇO DE 1961.
 
 Acrescenta dois parágrafos ao artigo 1º do Decreto nº 50.284, de 21 de fevereiro de 1961.

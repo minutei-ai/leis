@@ -1,5 +1,3 @@
-###DEC-006749-0-000-23-01-2009@@@
-
 DECRETO Nº 6.749, DE 23 DE JANEIRO DE 2009.
 
 Revoga os Decretos que menciona.

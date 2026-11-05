@@ -1,5 +1,3 @@
-###DEL-002971-0-000-22-01-1941@@@
-
 DECRETO-LEI N. 2.971 – DE 22 DE JANEIRO DE 1941
 
 Prorroga o prazo estabelecido na alínea a, do artigo 31, do Decreto-lei n. 1.990, de 4 de abril de 1939

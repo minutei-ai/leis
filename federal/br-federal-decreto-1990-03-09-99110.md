@@ -1,7 +1,3 @@
-1
-
-###DEC-099110-0-000-09-03-1990@@@
-
 DECRETO Nº 99.110, DE 9 DE MARÇO DE 1990
 
 Cria, no Estado do Amazonas, a Flo­resta Nacional Içana com os limites que es­pecifica, e dá outras providências.

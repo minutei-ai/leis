@@ -1,5 +1,3 @@
-###DEC-067000-0-000-05-08-1970@@@
-
 DECRETO Nº 67.000, DE 5 DE AGÔSTO DE 1970.
 
 Confisca bens de Ildefonso Gomes de Almeida e dá outras providências.

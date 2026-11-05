@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:26:04.000Z"
 sha256_fonte: "e7a3a73443ceaba76e2a3b7ee5925292195c3fd18e969ffdde450895422a3f29"
 sha256_markdown: "04d89e310c65755fc502519c89eb68af77cd23b35b13ddcf49d31f65a0f1eb8e"
 ---
-
 # LEI Nº 1.015, DE 18 DE DEZEMBRO DE 1989.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,26 +20,38 @@ Autoriza o Poder Executivo a abrir créditos suplementares ao Orçamento do Esta
 
 Publicada no Diário Oficial nº 2.707, de 19 de dezembro de 1989.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a<br>
-Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - Fica o Poder Executivo autorizado a abrir ao Orçamento<br>
-Programa de 1989, créditos suplementares até o limite de NCZ$<br>
-120.000.000,00 (cento e vinte milhões de cruzados novos),<br>
-utilizando como recursos compensatórios as fontes referidas no<br>
-parágrafo 1º, incisos I a IV, do artigo 43, da Lei Federal nº<br>
-4.320, de 17 de março de 1964.<br>
-<br>
-Parágrafo único - do total acima, NCZ$ 90.000.000,00 (noventa<br>
-milhoes de cruzados novos), serão destinados a atender,<br>
-especialmente o Sistema Unificado e Descentralizado de Saúde -<br>
-SUDS, o serviço da dívida e as transferências constitucionais a<br>
-municípios.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 18 de dezembro de 1989.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a
+
+Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Fica o Poder Executivo autorizado a abrir ao Orçamento
+
+Programa de 1989, créditos suplementares até o limite de NCZ$
+
+120.000.000,00 (cento e vinte milhões de cruzados novos),
+
+utilizando como recursos compensatórios as fontes referidas no
+
+parágrafo 1º, incisos I a IV, do artigo 43, da Lei Federal nº
+
+4.320, de 17 de março de 1964.
+
+Parágrafo único - do total acima, NCZ$ 90.000.000,00 (noventa
+
+milhoes de cruzados novos), serão destinados a atender,
+
+especialmente o Sistema Unificado e Descentralizado de Saúde -
+
+SUDS, o serviço da dívida e as transferências constitucionais a
+
+municípios.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 18 de dezembro de 1989.
+
+MARCELO MIRANDA SOARES
+
 Governador

@@ -1,5 +1,3 @@
-###DEC-096843-0-000-28-09-1988@@@
-
 DECRETO Nº 96.843, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à Sociedade Butiaense de Radiodifusão Ltda. - SOBRAL, para explorar serviço de radiodifusão sonora em onda média, na Cidade de Butiá, Estado do Rio Grande do Sul.

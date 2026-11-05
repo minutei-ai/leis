@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209116)<br>
-
 # DECRETO N° 68.335, DE 20 DE FEVEREIRO DE 2024
 
 ### _Institui o Programa Alfabetiza Juntos SP e dá providências correlatas._

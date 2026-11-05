@@ -1,5 +1,3 @@
-###DEL-009443-0-000-11-07-1946@@@
-
 DECRETO-LEI N. 9.443 – DE 11 DE JULHO DE 1946
 
 Modifica disposição do Decreto-lei n.º 4.791, de 5 de Outubro de 1942

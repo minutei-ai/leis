@@ -1,5 +1,3 @@
-###DEC-083298-0-000-26-03-1979@@@
-
 Decreto nº 83.298, de 26 de março de 1979
 
 Concede reconhecimento ao curso de Estudos Sociais da Universidade Católica de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

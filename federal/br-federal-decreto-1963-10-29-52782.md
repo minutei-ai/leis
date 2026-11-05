@@ -1,5 +1,3 @@
-###DEC-052782-0-000-29-10-1963@@@
-
 DECRETO Nº 52.782, DE 29 DE OUTUBRO DE 1963.
 
 Amplia a Carreira de Procurador do Instituto de Previdência e Assistência dos Servidores do Estado.

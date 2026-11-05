@@ -1,5 +1,3 @@
-###DEL-005594-0-000-18-06-1943@@@
-
 DECRETO‑LEI N. 5.594 – DE 18 DE JUNHO DE 1943
 
 Aumenta o Quadro de Estado‑Maior General do Exército de dois Generais de Divisão

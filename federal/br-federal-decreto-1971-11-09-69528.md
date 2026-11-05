@@ -1,5 +1,3 @@
-###DEC-069528-0-000-09-11-1971@@@
-
 DECRETO Nº 69.528 - DE 9 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis situados na Rua Senador Pompeu nºs 111, 113, 123 e 125, cidade do Rio de Janeiro, Estado da Guanabara, necessários à ampliação da Estação Terminal de Multiplex e Centro de Comutação Nacional e Internacional na cidade do Rio de Janeiro, integrante do Sistema Nacional de Telecomunicações, a cargo da Emprêsa Brasileira de Telecomunicações - EMBRATEL.

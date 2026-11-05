@@ -1,5 +1,3 @@
-###DEC-054038-0-000-23-07-1964@@@
-
 DECRETO Nº 54.038, DE 23 DE JULHO DE 1964.
 
 Concede reconhecimento à Faculdade Católica de Filosofia do Piauí, de Teresina, Estado do Piauí.

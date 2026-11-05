@@ -1,5 +1,3 @@
-###DEC-090400-0-000-07-11-1984@@@
-
 Decrete nº 90.400, de 07 de novembro de 1984
 
 Outorga concessão à FUNDAÇÃO DE ENSINO E TECNOLOGIA DE ALFENAS, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Alfenas, Estado de Minas Gerais.

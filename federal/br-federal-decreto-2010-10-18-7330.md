@@ -1,5 +1,3 @@
-###DEC-007330-0-000-18-10-2010-PUB-01@@@
-
 DECRETO Nº 7.330, DE 18 DE OUTUBRO DE 2010.
 
 Altera o Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

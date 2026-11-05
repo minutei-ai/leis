@@ -1,5 +1,3 @@
-###DEC-082945-0-000-27-12-1978@@@
-
 Decreto nº 82.945, de 27 de dezembro de 1978
 
 Declara luto oficial

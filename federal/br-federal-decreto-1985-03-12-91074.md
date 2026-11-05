@@ -1,5 +1,3 @@
-###DEC-091074-0-000-12-03-1985@@@
-
 DECRETO Nº 91.074, dE 12 dE março dE 1985
 
 Renova a concessão outorgada à RÁDIO GUAÍBA S.A., para explorar serviço de radiodifusão sonora em onda média, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-003633-0-000-18-10-2000@@@
-
 DECRETO Nº 3.633, DE 18 DE OUTUBRO DE 2000.
 
 Altera a redação do art. 8º do Regulamento aprovado pelo Decreto nº 60.459, de 13 de março de 1967, inclui parágrafo único ao art. 7º do Decreto nº 61.589, de 23 de outubro de 1967, e dá outras providências.

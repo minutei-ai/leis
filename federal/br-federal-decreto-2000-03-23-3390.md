@@ -1,5 +1,3 @@
-###DEC-003390-0-000-23-03-2000@@@
-
 DECRETO Nº 3.390, DE 23 DE MARÇO DE 2000.
 
 Regulamenta o pagamento da Gratificação de Desempenho de Atividade Tributária - GDAT, devida aos integrantes das Carreiras Auditoria da Receita Federal, Auditoria-Fiscal da Previdência Social e Auditoria-Fiscal do Trabalho, e dá outras providências.

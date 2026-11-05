@@ -1,5 +1,3 @@
-###DEC-069031-0-000-09-08-1971@@@
-
 DECRETO Nº 69.031, DE 9 DE AGôSTO DE 1971.
 
 Concede à Mineração Mascote Limitada o direito de lavrar barita, no município de Ibitiara, Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001062-0-000-27-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.062, DE 27 DE JULHO DE 1995.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

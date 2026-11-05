@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208445)<br>
-
 # DECRETO N° 67.905, DE 28 DE AGOSTO DE 2023
 
 ### _Altera o Decreto n° 66.374, de 23 de dezembro de 2021, que dispõe sobre o programa de auxílio financeiro às entidades hospitalares sem fins lucrativos - Programa Mais Santas Casas._

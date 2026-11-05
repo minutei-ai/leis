@@ -1,5 +1,3 @@
-###DEC-075413-0-000-25-02-1975@@@
-
 DECRETO Nº 75.413, DE 25 DE FEVEREIRO DE 1975.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras, de Duque de Caxias, mantida pela Fundação Educacional de Duque de Caxias, com sede na Cidade de Duque de Caxias, Estado do Rio de Janeiro.

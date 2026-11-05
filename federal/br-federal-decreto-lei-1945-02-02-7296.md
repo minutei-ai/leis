@@ -1,5 +1,3 @@
-###DEL-007296-0-000-02-02-1945@@@
-
 DECRETO-LEI N. 7.296 – DE 2 DE FEVEREIRO DE 1945
 
 Cria função gratificada

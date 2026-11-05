@@ -1,5 +1,3 @@
-###DEC-060707-0-000-10-05-1967@@@
-
 Decreto nº 60.707, de 10 de maio de 1967.
 
 Altera o Decreto nº 57.645, de 14 de janeiro de 1966, que dispõe sôbre a inclusão de servidores da Companhia Urbanizadora da Nova Capital do Brasil (NOVACAP) em órgão da Administração direta ou indireta.

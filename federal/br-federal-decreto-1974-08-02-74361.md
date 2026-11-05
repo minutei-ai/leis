@@ -1,5 +1,3 @@
-###DEC-074361-0-000-02-08-1974@@@
-
 DECRETO Nº 74.361, DE 2 DE AGOSTO DE 1974.
 
 Altera a denominação do Conselho Nacional da Indústria Siderúrgica, dá nova redação ao Decreto número 66.759, de 19 de junho de 1970, e outras providências.

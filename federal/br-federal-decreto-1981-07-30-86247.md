@@ -1,5 +1,3 @@
-###DEC-086247-0-000-30-07-1981@@@
-
 Decreto Nº 86.247, de 30 de julho de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à formação do Reservatório da Usina Hidrelétrica de Samuel, da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Território Federal de Rondônia.

@@ -1,5 +1,3 @@
-###DEC-081027-0-000-12-12-1977@@@
-
 Decreto nº 81.027, de 12 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Administração do Instituto Champanhat de Estudos Superiores, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

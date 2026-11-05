@@ -1,5 +1,3 @@
-###DEC-007887-0-000-14-01-2013-PUB-01@@@
-
 DECRETO Nº 7.887, DE 14 DE JANEIRO DE 2013
 
 Fixa, para a Aeronáutica, os quantitativos de vagas para promoções obrigatórias de oficiais, para os Quadros que menciona, no ano-base de 2012.

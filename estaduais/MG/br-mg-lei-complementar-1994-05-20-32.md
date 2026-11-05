@@ -37,7 +37,3 @@ Antônio Augusto Junho Anastasia
 José Afonso Bicalho Beltrão da Silva
 
 Kildare Gonçalves Carvalho
-
-\================================================================
-
-Data da última atualização: 11/09/2008

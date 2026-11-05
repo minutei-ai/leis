@@ -1,5 +1,3 @@
-###DEC-004485-0-000-25-11-2002@@@
-
 DECRETO Nº 4.485, DE 25 DE NOVEMBRO DE 2002
 
 Dá nova redação a dispositivos do Decreto nº 3.722, de 9 de janeiro de 2001, que regulamenta o art. 34 da Lei nº 8.666, de 21 de junho de 1993, e dispõe sobre o Sistema de Cadastramento Unificado de Fornecedores - SICAF.

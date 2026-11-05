@@ -1,7 +1,3 @@
-1
-
-###MPV-001449-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.449, DE 10 DE MAIO DE 1996.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

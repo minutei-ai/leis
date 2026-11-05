@@ -156,21 +156,26 @@ Afonso Bandeira Florence
 
 Secretário da Casa Civil
 
-Edelvino da Silva Góes Filho<br>
+Edelvino da Silva Góes Filho
+
 Secretário da Administração
 
-Marcelo Werner Derschum Filho<br>
+Marcelo Werner Derschum Filho
+
 Secretário da Segurança Pública
 
-Felipe da Silva Freitas<br>
+Felipe da Silva Freitas
+
 Secretário de Justiça e Direitos Humanos
 
 José Vieira Leal Neto
 
 Secretário de Assistência e Desenvolvimento Social em exercício
 
-André Nascimento Curvello<br>
+André Nascimento Curvello
+
 Secretário de Comunicação Social
 
-José Carlos Souto de Castro Filho<br>
+José Carlos Souto de Castro Filho
+
 Secretário de Administração Penitenciária e Ressocialização

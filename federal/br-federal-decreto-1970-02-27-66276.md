@@ -1,5 +1,3 @@
-###DEC-066276-0-000-27-02-1970@@@
-
 DECRETO Nº 66.276 - DE 27 DE FEVEREIRO DE 1970
 
 Autoriza funcionamento de Faculdade.

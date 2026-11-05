@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/97cff69f-08d9-4a61-becc-0d1c519c15a4/texto#nowhere)
 
-###DEL-000916-0-000-07-10-1969@@@
-
 DECRETO-LEI Nº 916, DE 7 DE OUTUBRO DE 1969
 
 Cria a Comissão Incentivadora dos Centros Rurais Universitários de Treinamento e Ação Comunitária CINCRUTAC - e dá outras providências

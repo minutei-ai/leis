@@ -1,5 +1,3 @@
-###MPV-002123-0-027-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 21.123-27, DE 27 DE DEZEMBRO DE 2000.
 
 Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispões sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

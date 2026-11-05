@@ -1,5 +1,3 @@
-###DEC-047810-0-000-22-02-1960@@@
-
 DECRETO Nº 47.870, DE 22 FEVEREIRO DE 1960.
 
 Vincula recursos do Fundo Federal de Eletrificação e dá outras providências.
@@ -16,7 +14,27 @@ Parágrafo primeiro - O Plano de aplicação dos recursos decorrente da tomada d
 
 Parágrafo segundo - O esquema de integralização das ações a serem subscritas na forma dêste artigo será:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1960...................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>244.800.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1961...................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>326.400.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1962...................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>408.000.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1963...................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>408.000.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1964...................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>244.800.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+1960...................................................................................................................
+
+244.800.000,00
+
+1961...................................................................................................................
+
+326.400.000,00
+
+1962...................................................................................................................
+
+408.000.000,00
+
+1963...................................................................................................................
+
+408.000.000,00
+
+1964...................................................................................................................
+
+244.800.000,00
 
 Art. 3º Fica o Grupo de Trabalho do Salto-Funil, criado pelo Decreto nº 46.170, de 5 de junho de 1959, autorizado a obter adiantamentos à conta dos recursos ora vinculados, a fim de construir as instalações que se fizerem necessárias para o suprimento de energia às obras do projeto hidroelétrico do Salto-Funil, assim como, para melhorar o abastecimento da cidade de Resende, devendo tomar para isso, todas as medidas executivas que se fizerem necessárias, até a constituição da CHEVAP.
 

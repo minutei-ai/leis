@@ -1,5 +1,3 @@
-###DEC-069979-0-000-20-01-1972@@@
-
 Decreto Nº 69.979, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Educandário Madre Guell, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###MPV-001674-0-057-26-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.674-57, DE 26 DE OUTUBRO DE 1998
 
 Dispõe sobre a base de cálculo da Contribuição para o Programa de integração Social - PIS devida pelas pessoas jurídicas a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e dá outras providências.

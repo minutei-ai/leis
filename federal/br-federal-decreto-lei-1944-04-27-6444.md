@@ -1,5 +1,3 @@
-###DEL-006444-0-000-27-04-1944@@@
-
 DECRETO-LEI N. 6.444 – DE 27 DE ABRIL DE 1944
 
 Cria uma coletoria federal no município de Baixo Guandu, no Estado do Espírito Santo, e dá outras providências
@@ -18,7 +16,15 @@ VERBA 1 – PESSOAL
 
 Consignação I – Pessoal Permanente
 
-<table cellspacing="0" cellpadding="0" style="margin-left:21.3pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>S/c nº 01 – Pessoal Permanente ..................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.400,00</span></p></td></tr><tr><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>S/c nº 02 – Percentagens .............................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">Cr$ 9. 900,00</span></p></td></tr><tr><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">Cr$ 15.300,00</span></p></td></tr></tbody></table>
+S/c nº 01 – Pessoal Permanente ..................................................................................
+
+Cr$ 5.400,00
+
+S/c nº 02 – Percentagens .............................................................................................
+
+Cr$ 9. 900,00
+
+Cr$ 15.300,00
 
 Art. 4º O presente Decreto-lei entrará em vigor na data de sua publicação.
 

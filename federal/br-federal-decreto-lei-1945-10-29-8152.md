@@ -1,5 +1,3 @@
-###DEL-008152-0-000-29-10-1945@@@
-
 DECRETO-LEI N. 8.152 – DE 29 DE OUTUBRO DE 1945
 
 Institui no Exército Pagadorias de Inativo e Pensionistas

@@ -36,7 +36,8 @@ II - o valor mínimo de cada parcela não poderá ser inferior a R$100,00 (cem r
 
 III - a inclusão de débitos no parcelamento de que trata esta Lei não implica novação de dívida e não depende de apresentação de garantia ou de arrolamento de bens, exceto quando já houver penhora em execução fiscal ajuizada.
 
-Redação de acordo com a Lei nº [12.917](javascript: openDoc\() , de 31 de outubro de 2013.<br>
+Redação de acordo com a Lei nº [12.917](javascript: openDoc\() , de 31 de outubro de 2013.
+
 Redação original: "III - a inclusão de débitos no parcelamento de que trata esta Lei não implica novação de dívida."
 
 Parágrafo único - A fruição do benefício previsto nesta Lei impõe ao sujeito passivo que optar pelo pagamento parcelado, a autorização de débito automático das parcelas em conta corrente mantida em instituição bancária conveniada com a Secretaria da Fazenda.
@@ -75,7 +76,8 @@ II - 20% (vinte por cento) dos honorários dispensados, quando vinculados aos de
 
 § 2º - As transferências previstas no § 1º deste artigo serão efetuadas nos exercícios de 2015 e 2016.
 
-Redação de acordo com o art. 6º do Decreto nº 13.207, de 22 de dezembro de 2014.<br>
+Redação de acordo com o art. 6º do Decreto nº 13.207, de 22 de dezembro de 2014.
+
 Redação original: "§ 2º - As transferências previstas no § 1º deste artigo serão efetuadas nos exercícios de 2013 e 2014."
 
 &nbs

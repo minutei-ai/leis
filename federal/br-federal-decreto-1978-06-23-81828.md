@@ -1,5 +1,3 @@
-###DEC-081828-0-000-23-06-1978@@@
-
 Decreto nº 81.828, de 23 de junho de 1978.
 
 Concede à Magnesita S. A. o direito de lavrar talco no Município de Brumado, Estado da Bahia.

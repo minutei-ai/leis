@@ -1,5 +1,3 @@
-###DEC-088324-0-000-23-05-1983@@@
-
 Decreto nº 88.324, de 23 de maio de 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos municípios do Rio de Janeiro, Niterói, Cabo Frio, Mangaratiba, Angra dos Reis, Estado do Rio de Janeiro; Guarujá, Estado de São Paulo e Recife, Estado de Pernambuco.

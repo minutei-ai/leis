@@ -1,5 +1,3 @@
-###DEL-006485-0-000-10-05-1944@@@
-
 DECRETO-LEI N. 6.485 – DE 10 DE MAIO DE 1944
 
 Altera a constituição da Comissão de Construção do Centro Nacional de Ensino e Pesquisas Agronômicas do Ministério da Agricultura e dá outras providências

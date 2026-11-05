@@ -1,5 +1,3 @@
-###DEC-086680-0-000-02-12-1981@@@
-
 Decreto nº 86.680, de 02 de dezembro de 1981.
 
 Define a competência do Ministro de Estado Chefe do Gabinete Civil para convocação de emissoras de radiodifusão.

@@ -1,5 +1,3 @@
-###DEC-045304-0-000-27-01-1959@@@
-
 DECRETO Nº 45.304, DE 27 DE JANEIRO DE 1959.
 
 Autoriza Manuel Augusto Dias Minerais Ltda. a lavrar feldspato, caulim. quartzo e mica no município de Bicas, Estado de Minas.

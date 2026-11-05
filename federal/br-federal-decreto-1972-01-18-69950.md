@@ -1,5 +1,3 @@
-###DEC-069950-0-000-18-01-1972@@@
-
 Decreto nº 69.950, de 18 de janeiro de 1972.
 
 Declara de utilidade pública o Centro Educacional Sagrado Coração, com sede em Paraguaçu, Estado de Minas Gerais.

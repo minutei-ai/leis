@@ -1,5 +1,3 @@
-###DEL-009595-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.595 – DE 16 DE AGÔSTO DE 1946
 
 Dispõe sôbre a contribuição para o montepio civil, estabelece a pensão correspondente e dá outras providências.

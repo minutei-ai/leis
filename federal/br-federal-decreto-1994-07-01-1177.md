@@ -1,7 +1,3 @@
-1
-
-###DEC-001177-0-000-01-07-1994@@@
-
 DECRETO N° 1.177, DE 1° DE JULHO DE 1994
 
 Organiza as Forças Navais, Aeronavais e de Fuzileiros Navais da Marinha do Brasil, seus respectivos Comandos, e dá outras providências.

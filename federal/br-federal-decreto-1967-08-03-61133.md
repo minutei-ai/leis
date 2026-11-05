@@ -1,5 +1,3 @@
-###DEC-061133-0-000-03-08-1967@@@
-
 DECRETO Nº 61.133, DE 3 DE AGÔSTO DE 1967.
 
 Dá nova redação ao Decreto número 60.446, de 13 de março de 1967.

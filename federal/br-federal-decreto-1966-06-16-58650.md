@@ -1,36 +1,34 @@
-###DEC-058650-0-000-16-06-1966@@@
+**DECRETO Nº 58.650, DE 16 DE JUNHO DE 1966.**
 
-<strong>DECRETO Nº 58.650, DE 16 DE JUNHO DE 1966.</strong>
+***Aprova o Regimento do Serviço de Orçamento do Departamento dos Correios e Telégrafos.***
 
-<em><strong>Aprova o Regimento do Serviço de Orçamento do Departamento dos Correios e Telégrafos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o artigo 3º do Decreto nº 58.649, de 16 de junho de 1966,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o artigo 3º do Decreto nº 58.649, de 16 de junho de 1966,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Orçamento do Departamento dos Correios e Telégrafos, que consta êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Orçamento do Departamento dos Correios e Telégrafos, que consta êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua públicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua públicação, revogadas as disposições em contrário.
 
 Brasília, 16 de junho de 1966; 145º da Independência e 78º da Republica.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Juarez Távora
 
-<strong>REGIMENTO DO SERVIÇO DE ORÇAMENTO DO DEPARTAMENTO DOS CORREIOS E TELÉGRAFOS</strong>
+**REGIMENTO DO SERVIÇO DE ORÇAMENTO DO DEPARTAMENTO DOS CORREIOS E TELÉGRAFOS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço de Orçamento diretamente subordinado ao Diretor-Geral do Departamento dos Correios e Telégrafos, tem como finalidade coordenar e elaborar as propostas orçamentárias, distribuir os créditos e controlar a execução do orçamento.
+**Art**. 1º O Serviço de Orçamento diretamente subordinado ao Diretor-Geral do Departamento dos Correios e Telégrafos, tem como finalidade coordenar e elaborar as propostas orçamentárias, distribuir os créditos e controlar a execução do orçamento.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O Serviço de Orçamento tem a seguinte organização:
+**Art**. 2º O Serviço de Orçamento tem a seguinte organização:
 
 I) Setor de Previsão
 
@@ -40,15 +38,15 @@ III) Setor de Contrôle
 
 IV) Turma de Administração
 
-<strong>Art</strong>. 3º O Serviço de Orçamento será chefiado por funcionário, designado pelo Diretor-Geral do Departamento dos Correios e Telégrafos.
+**Art**. 3º O Serviço de Orçamento será chefiado por funcionário, designado pelo Diretor-Geral do Departamento dos Correios e Telégrafos.
 
 Parágrafo único. Os Setôres e a Turma de Administração do referido Serviço serão chefiados por funcionários designados pelo Chefe do Serviço de Orçamento.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>Art</strong>. 4º Compete ao Setor de Previsão:
+**Art**. 4º Compete ao Setor de Previsão:
 
 I) receber e estudar as propostas orçamentárias parciais, apresentadas pelos órgãos da Diretoria-Geral e pelas Diretorias Regionais;
 
@@ -60,7 +58,7 @@ IV) organizar o orçamento-programa, com fundamento na proposta orçamentária, 
 
 V) examinar os pedidos de créditos adicionais e providenciar os expedientes respectivos.
 
-<strong>Art</strong>. 5º Compete ao Setor de execução:
+**Art**. 5º Compete ao Setor de execução:
 
 I) escriturar os créditos orçamentários a adicionais concedidos ao Departamento;
 
@@ -72,7 +70,7 @@ IV) minutar expedientes de registro de distribuição ou redistribuição de cr�
 
 V) encaminhar ao Setor de Contrôle a documentação relativa às distribuições e redistribuições de créditos, logo após a ultimação das respectivas operações.
 
-<strong>Art</strong>. 6º Compete ao Setor de Contrôle:
+**Art**. 6º Compete ao Setor de Contrôle:
 
 I) organizar e manter atualizada a escrituração geral do movimento financeiro realizado em todos os órgãos do Departamento, através da documentação enviada mensalmente, pelas Diretorias Regionais e outros órgãos responsáveis pela execução orçamentária;
 
@@ -82,7 +80,7 @@ III) realizar, por determinação superior, inspeções nos órgãos do Departam
 
 IV) prestar informações relativas às suas atividades aos demais setores do serviço de Orçamento;
 
-<strong>Art</strong>. 7º Compete à Turma de Administração:
+**Art**. 7º Compete à Turma de Administração:
 
 I) controlar a distribuição do material de uso dos Setores;
 
@@ -92,11 +90,11 @@ III) organizar escalas, de férias do pessoal do Serviço de Orçamento;
 
 IV) manter em dia as anotações de pessoal do serviço, encaminhando-as aos órgãos competentes.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 8º Ao Chefe do Serviço de Orçamento incumbe:
+**Art**. 8º Ao Chefe do Serviço de Orçamento incumbe:
 
 I) dirigir e controlar os serviços que lhe estão afetos, propondo ao Diretor-Geral as medidas que se fizerem necessárias ao bom desempenho de suas atribuições;
 
@@ -126,7 +124,7 @@ XIII) requisitar material;
 
 XIV) apresentar ao Diretor-Geral do DCT relatório anual dos trabalhos realizados, em andamento, ou planejados.
 
-<strong>Art</strong>. 9º Aos Chefes de Setor e ao Chefe da Turma de Administração incumbe:
+**Art**. 9º Aos Chefes de Setor e ao Chefe da Turma de Administração incumbe:
 
 I) coordenar e orientar a execução dos trabalhos de competência do Setor ou da Turma sob sua responsabilidade;
 
@@ -144,23 +142,23 @@ VII) providenciar o suprimento do material necessário à execução dos serviç
 
 VIII) apresentar ao Chefe ao Serviço de Orçamento relatório anual dos trabalhos realizados, em andamento ou planejados.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 10. Os trabalhos do Serviço de Orçamento serão executados por servidores do Quadro do Departamento dos Correios e Telégrafos pertencentes à lotação do Serviço e pelos legalmente requisitados.
+**Art**. 10. Os trabalhos do Serviço de Orçamento serão executados por servidores do Quadro do Departamento dos Correios e Telégrafos pertencentes à lotação do Serviço e pelos legalmente requisitados.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 11. O Horário normal de Trabalho do Serviço de Orçamento será fixado para o serviço público federal, respeitados os limites estabelecidos na legislação vigente.
+**Art**. 11. O Horário normal de Trabalho do Serviço de Orçamento será fixado para o serviço público federal, respeitados os limites estabelecidos na legislação vigente.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 12. Serão substituídos em suas faltas ou impedimentos eventuais:
+**Art**. 12. Serão substituídos em suas faltas ou impedimentos eventuais:
 
 I) O Chefe do Serviço de Orçamento por um dos Chefes dos Setores;
 
@@ -168,54 +166,52 @@ II) Os Chefes dos Setores e o Encarregado da turma de Administração por funcio
 
 Brasília, 16 de junho de 1966
 
-<strong>JUAREZ TÁVORA</strong>
+**JUAREZ TÁVORA**
 
-###DEC-058650-0-000-16-06-1966@@@RET01+++
+**DECRETO Nº 58.650, DE 16 DE JUNHO DE 1966.**
 
-<strong>DECRETO Nº 58.650, DE 16 DE JUNHO DE 1966.</strong>
+***Aprova o Regimento do Serviço de Orçamento do Departamento dos Correios e Telégrafos.***
 
-<em><strong>Aprova o Regimento do Serviço de Orçamento do Departamento dos Correios e Telégrafos.</strong></em>
+(Publicado no *DiárioOficial* - Seção I - Parte I, de 22-6-66.)
 
-(Publicado no <em>Diário</em> <em>Oficial</em> - Seção I - Parte I, de 22-6-66.)
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 Na pág. nº 6.734, 2ª coluna, art. 5º, item II),
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ:</strong></u>
+**ONDESELÊ:**
 
 ... previsões da despesa ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u>
+**LEIA\-SE**
 
 ... previsões de despesa ...
 
 No item III), do mesmo art.
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 ... concessão da suplementação ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE:</strong></u>
+**LEIA\-SE:**
 
 ... concessão de implementação ...
 
 Nas mesmas páginas e coluna, art. 6º, item II),
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ:</strong></u>
+**ONDESELÊ:**
 
 ... que movimentem créditos; ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE:</strong></u>
+**LEIA\-SE:**
 
 ... que movimentam créditos; ...
 
 Na 3ª coluna, art. 8º, item IX),
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 ... IX) aprova os boletins ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE:</strong></u>
+**LEIA\-SE:**
 
 ... IX) expedir os boletins ...

@@ -1,5 +1,3 @@
-###DEC-068682-0-000-25-05-1971@@@
-
 DECRETO Nº 68.682 - DE 25 DE maio DE 1971.
 
 Dispõe sôbre a sede das entidades da Administração Federal Indireta e a transferência de seu pessoal.

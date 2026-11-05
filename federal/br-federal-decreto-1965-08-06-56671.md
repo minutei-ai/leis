@@ -1,5 +1,3 @@
-###DEC-056671-0-000-06-08-1965@@@
-
 DECRETO Nº 56.671, DE 6 DE AGÔSTO DE 1965.
 
 Declara de utilidade pública para fins de desapropriação, pela Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério das Minas e Energia, terrenos situados no Município de Pôrto Alegre, no Estado do rio Grande do Sul.

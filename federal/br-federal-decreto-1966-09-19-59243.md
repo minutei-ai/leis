@@ -1,5 +1,3 @@
-###DEC-059243-0-000-19-09-1966@@@
-
 Decreto nº 59.243, de 19 de setembro de 1966.
 
 Declara públicas, de uso comum, as águas dos cursos dágua que especifica.

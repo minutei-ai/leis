@@ -1,5 +1,3 @@
-###DEC-085924-0-000-22-04-1981@@@
-
 Decreto nº 85.924, de 22 de abril de 1981.
 
 Altera dispositivos do Decreto nº 62.860 de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075368-0-000-13-02-1975@@@
-
 DECRETO Nº 75.368, DE 13 DE FEVEREIRO DE 1975.
 
 Fixa o fator de reajustamento Salarial, relativo a fevereiro de 1975.

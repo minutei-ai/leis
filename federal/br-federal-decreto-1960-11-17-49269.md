@@ -1,5 +1,3 @@
-###DEC-049269-0-000-17-11-1960@@@
-
 DECRETO Nº 49.269, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Jair Ribeiro de Carvalho a pesquisar cassiterita no município de São João Del Rei, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-047033-0-000-14-10-1959@@@
-
 DECRETO Nº 47.033, DE 14 DE OUTUBRO DE 1959.
 
 Autoriza Indumar - Industrial de Mármores Ltda. a lavrar mármore no município de Diamantina, Estado de Minas Gerais.

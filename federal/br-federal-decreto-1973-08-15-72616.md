@@ -1,5 +1,3 @@
-###DEC-072616-0-000-15-08-1973@@@
-
 DECRETO Nº 72.616, DE 15 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras Hebraico-brasileira "Renascença", mantida pela Sociedade Hebraico-brasileira "Renascença", com sede na cidade de São Paulo, Estado de São Paulo.

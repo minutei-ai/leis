@@ -1,5 +1,3 @@
-###DEC-053731-0-000-18-03-1964@@@
-
 DECRETO Nº 53.731, de 18 de março de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Marítimos e Terrestres Lloyd Sul Americano, inclusive aumento do capital social.

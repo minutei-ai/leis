@@ -1,5 +1,3 @@
-###DEC-087350-0-000-01-07-1982@@@
-
 Decreto nº 87.350, de 1º de julho de 1982.
 
 Dispõe sobre o provimento de funções de confiança de Secretário de Controle Interno.

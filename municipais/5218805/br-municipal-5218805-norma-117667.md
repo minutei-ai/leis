@@ -1160,7 +1160,8 @@ III - com a decisão do Auditor Fiscal.
 
 § 2º Os prazos previstos neste artigo serão contados em dias úteis e poderão ser prorrogados por até duas vezes, por igual período, mediante ato justificado do gestor imediato a que o Auditor Fiscal responsável estiver subordinado.
 
-(Redação dada pela Lei Complementar nº 40<br>
+(Redação dada pela Lei Complementar nº 40
+
 1, de 3 de julho de 2025)
 
 Art. 38. A divergência entre o valor arbitrado no procedimento previsto nesta Subseção e o valor declarado pelo contribuinte não constitui, por si só, infração para os fins do art. 49 desta Lei.
@@ -6286,15 +6287,15 @@ ANEXO
 
 DA LEI N. 5.727/2009
 
-| **TAXAS DE VISTORIAS PARA LOCALIZAÇÃO E LICENCIAMENTO** **DE ATIVIDADES ECONÔMICAS E PROFISSIONAIS.** **TABELAS I A III** |
+| **TAXAS DE VISTORIAS PARA LOCALIZAÇÃO E LICENCIAMENTODE ATIVIDADES ECONÔMICAS E PROFISSIONAIS.TABELAS I A III** |
 | --- |
 | Para licenciar a localização de atividades econômicas, há necessidade de inspecionar o local quanto: à segurança, o sossego público, a moralidade, a estética e a permissão de uso do solo urbano e para promover vistorias de vigilância sanitária e de meio ambiente, em relação ao objetivo a ser licenciado, sendo que estas serão específicas e com preços próprios. A inspeção de atividade sujeita a vistoria de meio ambiente, será realizada levando em conta a classificação de Potencial Poluidor/Degrador de Pequeno, Médio e Grande Porte, conforme tabela de classificação anexa a esta Lei. O Alvará será requerido na Secretaria da Fazenda e por ela será expedido, se todas as vistorias realizadas forem favoráveis. Terá efeito, urbanístico, sanitário e de meio ambiente. O preço da vistoria é por unidade autônoma vistoriada, no peso correspondente, conforme consta da tabela abaixo: O contribuinte que tiver o Alvará INDEFERIDO será cadastrado como irregular. Neste caso a inscrição não tem efeito de ALVARÁ ou LICENÇA, é simples controle fiscal. A vistoria e o Alvará de estabelecimentos localizados em camelódromos, mercados e feiras livres, por serem coletivos e de fácil verificação, bem como de ambulantes e assemelhados, com ou sem ponto fixo, terão uma redução de 50% (cinqüenta) por cento em seus valores. |
 | --- |
-| **TABELA I** **TAXA DE VISTORIA URBANÍSTICA E DE POSTURA MUNICIPAL PARA CONCESSÃO DE ALVARÁ DE LOCALIZAÇÃO E LICENCIAMENTO DE ESTABELECIMENTO COMERCIAL, INDUSTRIAL, PRESTACIONAL E PROFISSIONAL AUTÔNOMO.** **FISCALIZAÇÃO URBANA E TRIBUTÁRIA.** |
+| **TABELA ITAXA DE VISTORIA URBANÍSTICA E DE POSTURA MUNICIPAL PARA CONCESSÃO DE ALVARÁ DE LOCALIZAÇÃO E LICENCIAMENTO DE ESTABELECIMENTO COMERCIAL, INDUSTRIAL, PRESTACIONAL E PROFISSIONAL AUTÔNOMO.FISCALIZAÇÃO URBANA E TRIBUTÁRIA.** |
 | --- |
-| **ITEM I** **CÓDIGO** | **ESPÉCIES DE VISTORIAS E** **CRITÉRIOS DE PREÇOS** | **QUANT** **(1)** | **PESO** **(2)** | **VALOR** |
+| **ITEM ICÓDIGO** | **ESPÉCIES DE VISTORIAS ECRITÉRIOS DE PREÇOS** | **QUANT(1)** | **PESO(2)** | **VALOR** |
 | --- | --- | --- | --- | --- |
-| **UNIIT.** **(3)** | **TOTAL 1x2x3=** |
+| **UNIIT.(3)** | **TOTAL 1x2x3=** |
 | --- | --- |
 | **1.** | **VISTORIAS URBANÍSTICAS:** |
 | **1.1** | **QUANTO AO USO DO SOLO URBANO.** |
@@ -6309,9 +6310,9 @@ DA LEI N. 5.727/2009
 | 1.3.01 | Taxa de Expediente para expedição do alvará, sem vistorias sanitárias. | \- | \- | \- | 45,43 |
 | 1.3.02 | Taxa de Expediente para expedição do alvará, com vistorias sanitárias ou de meio ambiente. | \- | \- | \- | 92,15 |
 | 1.3.03 | Taxa de Expediente para expedição do alvará, com vistorias sanitárias e de meio ambiente. | \- | \- | \- | 137,73 |
-| **TABELA II** **TAXA DE VISTORIA SANITÁRIA, PARA CONCESSÃO DE ALVARÁ DE LOCALIZAÇÃO** **E LICENCIAMENTO DE ESTABELECIMENTO COMERCIAL, PRESTACIONAL,** **INDUSTRIAL E RELATIVAS A SAÚDE ANIMAL** **FISCALIZAÇÃO** **DA VIGILÂNCIA SANITÁRIA.** |
-| **ITEM II** **CÓDIGO** | **ESPÉCIES DE VISTORIAS E** **CRITÉRIOS DE PREÇOS** | **QUANT** **(1)** | **PESO** **(2)** | **VALOR** |
-| **UNIIT.** **(3)** | **TOTAL** **1x2x3=** |
+| **TABELA IITAXA DE VISTORIA SANITÁRIA, PARA CONCESSÃO DE ALVARÁ DE LOCALIZAÇÃOE LICENCIAMENTO DE ESTABELECIMENTO COMERCIAL, PRESTACIONAL,INDUSTRIAL E RELATIVAS A SAÚDE ANIMALFISCALIZAÇÃODA VIGILÂNCIA SANITÁRIA.** |
+| **ITEM IICÓDIGO** | **ESPÉCIES DE VISTORIAS ECRITÉRIOS DE PREÇOS** | **QUANT(1)** | **PESO(2)** | **VALOR** |
+| **UNIIT.(3)** | **TOTAL1x2x3=** |
 | **2.** | **VISTORIAS SANITÁRIAS:** |
 | **2.1** | **QUANTO AO PRÉDIO:** |
 | 2.1.01 | Inspeção da construção e instalações para verificar se atende às exigências sanitárias para o ramo da atividade |   | 1.3 | 45,43 |   |
@@ -6335,9 +6336,9 @@ DA LEI N. 5.727/2009
 | **2.3** | **VISTORIAS RELATIVAS À SAÚDE ANIMAL.** |
 | 2.3.01 | Por animal examinado. |   | 1.0 | 14,75 |   |
 
-| **TABELA III** **TAXA DE VISTORIA DE MEIO AMBIENTE, PARA CONCESSÃO DE ALVARÁ DE LOCALIZAÇÃO E LICENCIAMENTO DE ESTABELECIMENTO COMERCIAL, PRESTACIONAL, INDUSTRIAL E DE ATIVIDADE POLUIDORA, CONFORME CLASSIFICAÇÃO CONTIDA NA LEI .....** **FISCALIZAÇÃO DE MEIO AMBIENTE** |
+| **TABELA IIITAXA DE VISTORIA DE MEIO AMBIENTE, PARA CONCESSÃO DE ALVARÁ DE LOCALIZAÇÃO E LICENCIAMENTO DE ESTABELECIMENTO COMERCIAL, PRESTACIONAL, INDUSTRIAL E DE ATIVIDADE POLUIDORA, CONFORME CLASSIFICAÇÃO CONTIDA NA LEI .....FISCALIZAÇÃO DE MEIO AMBIENTE** |
 | --- |
-| **ITEM III** **CÓDIGO** | **ESPÉCIES DE VISTORIAS E CRITÉRIOS DE PREÇOS** | **QUANT.** | **PORT.** | **PESO** | **VALOR** |
+| **ITEM IIICÓDIGO** | **ESPÉCIES DE VISTORIAS E CRITÉRIOS DE PREÇOS** | **QUANT.** | **PORT.** | **PESO** | **VALOR** |
 | **P.P.D. PEQUENO (2.1)** | **P.P.D. MÉDIO (2.2)** | **P.P.D. GRANDE (2.3)** | **UNIT. (3)** | **TOTAL 1x2x3+** |
 | **3.** | **VISTORIAS DE MEIO AMBIENTE.** |
 | **3.1** | **ATIVIDADE COM POTENCIAL POLUIDOR/DEGRADANTE - PEQUENO** |
@@ -6353,28 +6354,43 @@ DA LEI N. 5.727/2009
 | 3.1.10 | Análise de resultado de exame laboratorial. |   |   | 1.5 | 3.0 | 4.0 | 76,11 |   |
 | 3.1.11 | Suspensão, embargo ou interdição de atividade econômica, por motivo de meio ambiente. |   |   | 10.0 | 15.0 | 20.0 | 76,11 |   |
 | 3.1.12 | Liberação de embargo ou interdição por motivo ambiental. |   |   | 5.0 | 7.5 | 10.0 | 76,11 |   |
-| 3.1.13 | <br>
-Análise de Pesquisa mineral (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~Análise de projeto de pesquisa mineral.~~ |   |   | \--- | \--- | 10.0 | <br>
-138,65<br>
+| 3.1.13 |
+
+Análise de Pesquisa mineral (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~Análise de projeto de pesquisa mineral.~~ |   |   | \--- | \--- | 10.0 |
+
+138,65
+
 (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~76,11~~ |   |
-| 3.1.14 | Análise de projeto de lavra de jazida mineral |   |   | \--- | \--- | 30.0 | <br>
-138,65<br>
+| 3.1.14 | Análise de projeto de lavra de jazida mineral |   |   | \--- | \--- | 30.0 |
+
+138,65
+
 (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~76,11~~ |   |
-| 3.1.15 | Vistoria em garimpo |   |   | \--- | \--- | 30.0 | <br>
+| 3.1.15 | Vistoria em garimpo |   |   | \--- | \--- | 30.0 |
+
 138,65   (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~76,11~~ |   |
-| 3.1.16 | <br>
-Análise de projeto em vistoria de extração de areia. (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~Análise de projeto ou vistoria de extração vegetal, em floresta nativa.~~ |   |   | \--- | \--- | <br>
-30,0<br>
-(Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~15,0~~ | <br>
-138,65<br>
+| 3.1.16 |
+
+Análise de projeto em vistoria de extração de areia. (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~Análise de projeto ou vistoria de extração vegetal, em floresta nativa.~~ |   |   | \--- | \--- |
+
+30,0
+
+(Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~15,0~~ |
+
+138,65
+
 (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~76,11~~ |   |
 | 3.1.16 | ~~Análise de projeto ou vistoria de extração vegetal, em floresta plantada.~~ |   |   | \--- | \--- | ~~7,5~~ | ~~76,11~~ |   |
-| 3.1.17 | Análise de projeto ou vistoria em área de extração de areia.<br>
-(Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) |   |   | \--- | \--- | 30.0 | 138,65<br>
+| 3.1.17 | Análise de projeto ou vistoria em área de extração de areia.
+
+(Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) |   |   | \--- | \--- | 30.0 | 138,65
+
 (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~76,11~~ |   |
-| 3.1.18 | Análise de projeto de loteamento, sem prejuízo dos itens 3.1.01 a 3.1.12. |   |   | 30.0 | \--- | \--- | <br>
+| 3.1.18 | Análise de projeto de loteamento, sem prejuízo dos itens 3.1.01 a 3.1.12. |   |   | 30.0 | \--- | \--- |
+
 138,65 (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~76,11~~ |   |
-| 3.1.19 | Análise de projetos e vistorias de outras atividades constantes da listagem de atividades causadoras e degradação ambiental,  sem prejuízo dos itens 3.1.01 a 3.1.12. |   |   | 2.0 | 4.0 | 6.0 | <br>
+| 3.1.19 | Análise de projetos e vistorias de outras atividades constantes da listagem de atividades causadoras e degradação ambiental,  sem prejuízo dos itens 3.1.01 a 3.1.12. |   |   | 2.0 | 4.0 | 6.0 |
+
 138,65 (Redação dada pela Lei Complementar nº. 228, de 4 de novembro de 2021) ~~76,11~~ |   |
 | 3.2 | ATIVIDADE PARA CONVERSÃO DO USO DO SOLO (Inserido pela Lei Complementar nº. 228, de 4 de novembro de 2021) |
 | 3.2.1 | Análise de projeto ou vistoria de extração vegetal, em floresta plantada (Inserido pela Lei Complementar nº. 228, de 4 de novembro de 2021) |   | \--- | \--- | \--- | 7.5 | 138,65 |   |
@@ -6385,20 +6401,23 @@ Análise de projeto em vistoria de extração de areia. (Redação dada pela Lei
 | 3.2.6 | Arvores isoladas (valor por espécie extirpada) (Inserido pela Lei Complementar nº. 228, de 4 de novembro de 2021) |   |   |   |   |   | 250,00 |   |
 | **NOTAS:** 1. Os ramos de atividades enquadrados com Potencial Poluidor/Degradante – Pequeno;  com Potencial Poluidor/Degradante  -  Médio e com  Potencial Poluidor/Degradante – Grande, estão discriminados em lista própria, anexa a esta Lei; 2. O peso a ser aplicado no cálculo é o que corresponder ao enquadramento do ramo de atividade na lista mencionada acima. |
 
-| **TAXAS DE VISTORIAS PARA RENOVAÇÃO DE ALVARÁ E FUNCIONAMENTO DE ATIVIDADES ECONÔMICAS E PROFISSIONAIS.** **TABELAS IV A VI** |
+| **TAXAS DE VISTORIAS PARA RENOVAÇÃO DE ALVARÁ E FUNCIONAMENTO DE ATIVIDADES ECONÔMICAS E PROFISSIONAIS.TABELAS IV A VI** |
 | --- |
 | Para renovar ALVARÁ de funcionamento de atividades econômicas, há necessidade de inspecionar o local, ou o Poder Público Municipal ter estrutura e potencialidade, para verificar se o estabelecimento ainda atende: à segurança, o sossego público, a moralidade, a estética e a permissão de uso do solo urbano e para promover vistorias de vigilância sanitária e de meio ambiente, em relação ao objetivo a ser relicenciado, sendo que as sanitárias e de meio ambiente são específicas e com preços próprios, conforme tabelas V e VI. O Alvará de renovação será requerido na Secretaria da Fazenda e por ela será expedido, se todas as vistorias realizadas forem favoráveis. Ele terá efeito, urbanístico, sanitário e de meio ambiente. O preço da vistoria é por unidade autônoma vistoriada, ou para a qual o Município tenha estrutura e potencialidade para inspecionar quando necessário, no peso correspondente, conforme consta das tabelas IV a VI. A inspeção, ou a potencialidade de inspeção, de atividade sujeita a vistoria de meio ambiente, será em função da classificação de Potencial Poluidor/Degrador de Pequeno, Médio e Grande Porte, conforme tabela de classificação anexa a esta Lei. O contribuinte que tiver o Alvará INDEFERIDO será cadastrado como irregular. Neste caso a inscrição não tem efeito de ALVARÁ ou LICENÇA, é simples controle fiscal. A vistoria e o Alvará de estabelecimentos localizados em camelódromos, mercados e feiras livres, por serem coletivos e de fácil verificação, bem como de ambulantes e assemelhados, com ou sem ponto fixo, terão uma redução de 50% (cinqüenta) por cento em seus valores. |
 | --- |
 
  
 
-| **TABELA IV<br>
-TAXA DE VISTORIAS URBANÍSTICAS E DE POSTURAS PARA RENOVAÇÃO DE ALVARÁ DE FUNCIONAMENTO DE ESTABELECIMENTO DE ATIVIDADE COMERCIAL,<br>
-PRESTACIONAL, INDUSTRIAL E PROFISSIONAL AUTÔNOMO.<br>
+| **TABELA IV
+
+TAXA DE VISTORIAS URBANÍSTICAS E DE POSTURAS PARA RENOVAÇÃO DE ALVARÁ DE FUNCIONAMENTO DE ESTABELECIMENTO DE ATIVIDADE COMERCIAL,
+
+PRESTACIONAL, INDUSTRIAL E PROFISSIONAL AUTÔNOMO.
+
 FISCALIZAÇÃO TRIBUTÁRIA E URBANA.** |
 | --- |
 | **ITEM I CÓDIGO** | **ESPÉCIES DE VISTORIAS E CRITÉRIOS DE PREÇOS** | **QUANT (1)** | **PESO (2)** | **VALOR** |
-| **UNIIT. (3)** | **TOTAL** **1x2x3=** |
+| **UNIIT. (3)** | **TOTAL1x2x3=** |
 | **1.** | **VISTORIAS URBANÍSTICAS:** |
 | **1.1** | **QUANTO AO USO DO SOLO URBANO.** |
 | 1.1.01 | Análise dos documentos institucionais da empresas para verificar as exigências legais e técnicas que deles devem constar, principalmente, se os objetivos da atividade a ser relicenciada ainda atendem a legislação de uso do solo urbano, sanitária e de meio ambiente. | \--- | 1.0 | 36,88 | 36,88 |
@@ -6415,13 +6434,16 @@ FISCALIZAÇÃO TRIBUTÁRIA E URBANA.** |
 
  
 
-| **TABELA V<br>
-TAXA DE VISTORIA SANITÁRIA, PARA RENOVAÇÃO DE ALVARÁ DE FUNCIONA-MENTO DE ESTABELECIMENTO COMERCIAL, PRESTACIONAL,<br>
-INDUSTRIAL E RALATIVAS À SAÚDE ANIMAL.<br>
+| **TABELA V
+
+TAXA DE VISTORIA SANITÁRIA, PARA RENOVAÇÃO DE ALVARÁ DE FUNCIONA-MENTO DE ESTABELECIMENTO COMERCIAL, PRESTACIONAL,
+
+INDUSTRIAL E RALATIVAS À SAÚDE ANIMAL.
+
 FISCALIZAÇÃO DA VIGILÂNCIA SANITÁRIA.** |
 | --- |
 | **ITEM I CÓDIGO** | **ESPÉCIES DE VISTORIAS E CRITÉRIOS DE PREÇOS** | **QUANT (1)** | **PESO (2)** | **VALOR** |
-| **UNIIT. (3)** | **TOTAL** **1x2x3=** |
+| **UNIIT. (3)** | **TOTAL1x2x3=** |
 | **2.** | **VISTORIAS SANITÁRIAS:** |
 | **2.1** | **QUANTO AO PRÉDIO:** |
 | 2.1.01 | Inspeção da construção e instalações para verificar se atende às exigências sanitárias para o ramo da atividade |   | 1.3 | 36,88 |   |
@@ -6445,12 +6467,14 @@ FISCALIZAÇÃO DA VIGILÂNCIA SANITÁRIA.** |
 | **2.3** | **VISTORIAS RELATIVAS À SAÚDE ANIMAL.** |
 | 2.3.01 | Por animal examinado. |   | 1.0 | 12,30 |   |
 
-| TABELA VI<br>
-TAXA DE VISTORIA DE MEIO AMBIENTE, PARA RENVAÇÃO DE ALVARÁ DE FUNCIO-NAMENTO DE ESTABELECIMENTO COMERCIAL, PRESTACIONAL, INDUSTRIAL E DE ATIVIDADE POLUIDORA, CONFORME CLASSIFICAÇÃO DEFINIDA PELA LEI ......<br>
+| TABELA VI
+
+TAXA DE VISTORIA DE MEIO AMBIENTE, PARA RENVAÇÃO DE ALVARÁ DE FUNCIO-NAMENTO DE ESTABELECIMENTO COMERCIAL, PRESTACIONAL, INDUSTRIAL E DE ATIVIDADE POLUIDORA, CONFORME CLASSIFICAÇÃO DEFINIDA PELA LEI ......
+
 FISCALIZAÇÃO DE MEIO AMBIENTE |
 | --- |
 | **ITEM III CÓDIGO** | **ESPÉCIES DE VISTORIAS E CRITÉRIOS DE PREÇOS** | **QUANT** | **PESO** | **VALOR** |
-| **P.P.D.** **PEQUENO (2.1)** | **P.P.D.** **MÉDIO (2.2)** | **P.P.D.** **GRANDE (2.3)** | **UNIIT. (3)** | **TOTAL**  **1x2x3=** |
+| **P.P.D.PEQUENO (2.1)** | **P.P.D.MÉDIO (2.2)** | **P.P.D.GRANDE (2.3)** | **UNIIT. (3)** | **TOTAL**  **1x2x3=** |
 | **3.** | **VISTORIAS DE MEIO AMBIENTE.** |
 | **3.1** | **ATIVIDADE COM POTENCIAL POLUIDOR/DEGRADANTE - PEQUENO** |
 | 3.1.01 | Análise de projeto de tratamento do lixo sólido. |   | 2.0 | 3.0 | 5.0 | 61,47 |   |
@@ -6474,19 +6498,26 @@ FISCALIZAÇÃO DE MEIO AMBIENTE |
 | 3.1.19 | Análise de projeto de loteamento, sem prejuízo dos itens 3.1.01 a 3.1.12 |   | 30.0 | \--- | \--- | 61,47 |   |
 | 3.1.20 | Análise de projetos e vistorias de outras atividades constantes da listagem de atividades causadoras e degradação ambiental, sem prejuízo dos itens 3.1.01 a 3.1.12. |   | 2.0 | 4.0 | 6.0 | 61,47 |   |
 
-| TABELA VII<br>
-TAXA DE VISTORIA PARA LICENCIAMENTO E RENOVAÇÃO DE ALVARÁ<br>
-PARA EXPLORAÇÃO DE MEIOS DE PUBLICIDADE EM GERAL.<br>
-FISCALIZAÇÃO TRIBUTÁRIA, DE POSTURAS,<br>
+| TABELA VII
+
+TAXA DE VISTORIA PARA LICENCIAMENTO E RENOVAÇÃO DE ALVARÁ
+
+PARA EXPLORAÇÃO DE MEIOS DE PUBLICIDADE EM GERAL.
+
+FISCALIZAÇÃO TRIBUTÁRIA, DE POSTURAS,
+
 DE OBRAS E DE MEIO AMBIENTE |
 | --- |
-| Para realizar publicidade e propaganda,  em letreiros de faixas,  de muros  e  de  prédios;  em placas; painéis; dístico; outdoor; balões; em mobiliário urbano; em ônibus e similares; por alto-falante fixo ou ambulante, ou em veículo motorizado; é necessária prévia licença da Prefeitura, que fará diligências e vistorias para verificar a permissão de instalação  do  engenho  ou  meio publicitátário no local e na forma pretendido, a segurança,  a estética,  a moralidade.  O  preço das  inspeções varia em função das características de cada engenho ou meio de  publicidade, na  forma abaixo, sem prejuízo das vistorias de poluição visual e sonora  constante  da  tabela  de meio ambiente:<br>
-A - Em placas de madeira ou metálica, de no máximo 07 (sete) metros de altura, sem instala-elétrica e sem fundação; em outdoor; letreiros em prédios, muros e  faixas;  em  ônibus  e similares e em mobiliário urbano;<br>
-B - Em placas, painéis, dístico, outdoor e outros engenhos, cuja construção e estrutura, para certeza de sua segurança, necessitam de fundação, ou de cálculo estrutural, sem instalação elétrica; C - Em engenho publicitário com as características do item anterior, com instalação elétrica;<br>
+| Para realizar publicidade e propaganda,  em letreiros de faixas,  de muros  e  de  prédios;  em placas; painéis; dístico; outdoor; balões; em mobiliário urbano; em ônibus e similares; por alto-falante fixo ou ambulante, ou em veículo motorizado; é necessária prévia licença da Prefeitura, que fará diligências e vistorias para verificar a permissão de instalação  do  engenho  ou  meio publicitátário no local e na forma pretendido, a segurança,  a estética,  a moralidade.  O  preço das  inspeções varia em função das características de cada engenho ou meio de  publicidade, na  forma abaixo, sem prejuízo das vistorias de poluição visual e sonora  constante  da  tabela  de meio ambiente:
+
+A - Em placas de madeira ou metálica, de no máximo 07 (sete) metros de altura, sem instala-elétrica e sem fundação; em outdoor; letreiros em prédios, muros e  faixas;  em  ônibus  e similares e em mobiliário urbano;
+
+B - Em placas, painéis, dístico, outdoor e outros engenhos, cuja construção e estrutura, para certeza de sua segurança, necessitam de fundação, ou de cálculo estrutural, sem instalação elétrica; C - Em engenho publicitário com as características do item anterior, com instalação elétrica;
+
 D - Vistorias de meio ambiente, relativas à poluição sonora ou visual. |
 | **ITEM** | **VISTORIAS REALIZADAS NA FORMA ACIMA.** | **PREÇOS** |
 | **VISTORIAS** | **ALVARÁ** |
-| **ALÍNEA**  **“A”** | **ALÍNEA** **“B”** | **ALÍNEA** **“C”** | **ALÍNEA** **“D”** |
+| **ALÍNEA**  **“A”** | **ALÍNEA“B”** | **ALÍNEA“C”** | **ALÍNEA“D”** |
 | 01 | Por unidade na zona urbana | 76,11 | 122,94 | 157,94 | 122,94 | 45,43 |
 | 02 | Por unidade na zona rural | 122,94 | 183,49 | 203,88 | 203,88 | 45,43 |
 | 03 | Por alto-falante fixo | 45,43 | \- | \- | 61,73 | 30,69 |
@@ -6494,13 +6525,18 @@ D - Vistorias de meio ambiente, relativas à poluição sonora ou visual. |
 | 05 | Por veículo de propaganda sonora, 04 rodas. | 76,11 | \- | \- | 101,87 | 45,43 |
 | 06 | Por veículo de propaganda sonora, tipo trio elétrico ou similar. | 92,15 | \- | \- | 183,83 | 45,43 |
 | 07 | Por ônibus coletivo ou similar, por propaganda ou anúncio, afixado. | 61,73 | \- | \- | 76,11 | 45,43 |
-| NOTA:<br>
-As hipóteses das alíneas “A” – “B” e “C” não são simultâneas, uma elimina a outra, mas, o valor da que tiver incidência deverá ser somado ao da alínea “D” e ao valor do alvará.<br>
+| NOTA:
+
+As hipóteses das alíneas “A” – “B” e “C” não são simultâneas, uma elimina a outra, mas, o valor da que tiver incidência deverá ser somado ao da alínea “D” e ao valor do alvará.
+
 Na renovação do Alvará tem redução de 20% (vinte) por cento, nos valores da tabela. |
 
-| TABELA VIII<br>
-TAXA DE VISTORIA PARA LOCALIZAÇÃO E LICENCIAMENTO DE CIRCOS, PARQUES<br>
-DE DIVERSÕES PÚBLICAS, PALANQUES, SHOWS E SIMILARES:<br>
+| TABELA VIII
+
+TAXA DE VISTORIA PARA LOCALIZAÇÃO E LICENCIAMENTO DE CIRCOS, PARQUES
+
+DE DIVERSÕES PÚBLICAS, PALANQUES, SHOWS E SIMILARES:
+
 FISCALIZAÇÃO TRIBUTÁRIA, VIGILÂNCIA SANITÁRIA E OBRAS. |
 | --- |
 | Para instalação de circo, parque de diversão pública, estrutura externa para show, palanque e similar, é necessária prévia licença da Prefeitura, que fará as diligências e vistorias necessárias, para verificar a permissão da instalação no local pretendido; o atendimento das normas de segurança da construção e montagem das estruturas; aparelhos;  equipamentos; instalações elétricas e hidráulicas; o atendimento das normas de vigilância sanitária da parte  de uso público, trailer e instalações de artistas e empregados, e quando for o caso a verificação  da saúde, segurança e instalações dos animais utilizados em apresentações públicas. O preço da taxa varia em função das características de cada caso, conforme segue: |
@@ -6522,9 +6558,9 @@ FISCALIZAÇÃO TRIBUTÁRIA, VIGILÂNCIA SANITÁRIA E OBRAS. |
 | **06** | **Expedição do Alavará** | 61,47 |
 | **NOTA:**  O Alvará será expedido somente se todas as vistorias forem favoráveis. |
 
-| **TABELA X** **TAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO** |
+| **TABELA XTAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO** |
 | --- |
-| **ITEM** **ÚNICO** | **VISTORIAS E DILIGÊNCIAS REALIZADAS, PARA VERIFI-CAR A POSSIBILIDADE LEGAL E CONVENIÊNCIA DO ESTABELECIMENTO FUNCIONAR EM HORÁRIO ESPECIAL.** | **P R E Ç O** |
+| **ITEMÚNICO** | **VISTORIAS E DILIGÊNCIAS REALIZADAS, PARA VERIFI-CAR A POSSIBILIDADE LEGAL E CONVENIÊNCIA DO ESTABELECIMENTO FUNCIONAR EM HORÁRIO ESPECIAL.** | **P R E Ç O** |
 | --- | --- | --- |
 | **PERCENTUAL SOBRE A TAXA ANUAL** |
 | **01.** | **Estabelecimento que produz poluição sonora:** |
@@ -6544,11 +6580,14 @@ FISCALIZAÇÃO TRIBUTÁRIA, VIGILÂNCIA SANITÁRIA E OBRAS. |
 | 03.04 | Por ano. | 75,00% |
 | NOTAS: 01 – A licença para horário especial obedecerá às disposições pertinentes do . Código de Posturas. 02 – Não será fornecida licença para horário especial para estabelecimento produtor de poluição sonora, localizado em zona residencial. |
 
-| TABELA IX<br>
-TAXA DE VISTORIA E DE LICENÇA PARA CONSTRUÇÃO DE<br>
+| TABELA IX
+
+TAXA DE VISTORIA E DE LICENÇA PARA CONSTRUÇÃO DE
+
 EDIFICAÇÕES, OUTRAS OBRAS E LOTEAMENTO. |
 | --- |
-| ITEM I | ANÁLISES E VISTORIAS DE PROJETO DE CONSTRUÇÃO<br>
+| ITEM I | ANÁLISES E VISTORIAS DE PROJETO DE CONSTRUÇÃO
+
 DE EDIFICAÇÕES E EXPEDIÇÃO DE ALVARÁ. | PREÇOS |
 | SERVIÇO | ALVARÁ |
 | **01.** | **Construção térrea, apenas com projetos básicos.** |
@@ -6606,8 +6645,10 @@ DE EDIFICAÇÕES E EXPEDIÇÃO DE ALVARÁ. | PREÇOS |
 | 03.03 | Registro do projeto na Prefeitura. | 76,11 |   |
 | 03.04 | Expedição do Alvará de Construção. |   | 76,11 |
 | ITEM III | ANÁLISE E VISTORIAS DE PROJETO DE EXECUÇÃO DE LOTEAMENTO. | PREÇO |
-| 01 | Análise e exame do projeto de parcelamento do solo. | <br>
-700,00<br>
+| 01 | Análise e exame do projeto de parcelamento do solo. |
+
+700,00
+
 [(Redação dada pela Lei Complementar nº 50, de 14 de dezembro de 2015)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114610/lei-complementar-50) ~~352,81~~ |
 | 02 | Análise e exame do projeto elétrico. | 183,83 |
 | 03 | Análise e exame do projeto, quantos aos espaços destinados a equipamentos públicos e áreas verdes. | 137,73 |
@@ -6620,7 +6661,8 @@ DE EDIFICAÇÕES E EXPEDIÇÃO DE ALVARÁ. | PREÇOS |
 | 10 | Vistoria “in loco” para verificar  o  projeto  planoaltimétrico  com  a  situação fática do loteamento. | 229,88 |
 | 11 | Verificação da possibilidade do  loteamento,  em  função  da legislação  de parcelamento do solo urbano. | 137,73 |
 | 12 | Análise e exame de outros elementos e documentos. | 76,11 |
-| 13 | Registro do loteamento na Prefeitura, por lote. | 12,87<br>
+| 13 | Registro do loteamento na Prefeitura, por lote. | 12,87
+
 [(Redação dada pela Lei Complementar nº 50, de 14 de dezembro de 2015)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114610/lei-complementar-50) ~~7,40~~ |
 | 14 | Análise e exame do projeto de infraestrutura (Pavimentação e meio fio com sarjeta) [(Inserido pela Lei Complementar nº 50, de 14 de dezembro de 2015)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114610/lei-complementar-50) | 246,00 |
 | 15 | Análise e exame do projeto de redes Água, e Esgotos [(Inserido pela Lei Complementar nº 50, de 14 de dezembro de 2015)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114610/lei-complementar-50) | 246,00 |
@@ -6643,12 +6685,16 @@ DE EDIFICAÇÕES E EXPEDIÇÃO DE ALVARÁ. | PREÇOS |
 | 02 |   | 61,47 |
 | 03 |   | 61,47 |
 | 04 |   | 61,47 |
-| NOTAS:<br>
-01 – A interdição do imóvel prejudica e expedição de Alvará de Localização ou de Funcionamento de Atividade Econômica;<br>
-02 – O contribuinte que estiver funcionando em prédio interditado ou embargado terá o seu Alvará suspenso de ofício e a atividade interditada até a liberação  do  imóvel.<br>
+| NOTAS:
+
+01 – A interdição do imóvel prejudica e expedição de Alvará de Localização ou de Funcionamento de Atividade Econômica;
+
+02 – O contribuinte que estiver funcionando em prédio interditado ou embargado terá o seu Alvará suspenso de ofício e a atividade interditada até a liberação  do  imóvel.
+
 03 -  A Prefeitura fará vistoria em edificação habitada, que esteja oferecendo perigo às pessoas, independentemente de requerimento de interessado. |
 
-| TABELA X<br>
+| TABELA X
+
 TAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO |
 | --- |
 | **ITEM ÚNICO** | **VISTORIAS E DILIGÊNCIAS REALIZADAS, PARA VERIFICAR A POSSIBILIDADE LEGAL E CONVENIÊNCIA DO ESTABELECIMENTO FUNCIONAR EM HORÁRIO ESPECIAL.** | **PREÇO** |
@@ -6668,14 +6714,15 @@ TAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO |
 | 03.02 | Por trimestre. | 25,00% |
 | 03.03 | Por semestre. | 50,00% |
 | 03.04 | Por ano. | 75,00% |
-| NOTAS:<br>
+| NOTAS:
+
 01 – A licença para horário especial obedecerá às disposições pertinentes do Código de Posturas. 02 – Não será fornecida licença para horário especial para estabelecimento produtor de poluição sonora, localizado em zona residencial. |
 
  
 
-| **TABELA XI** **TAXA DE EXPEDIENTE E SERVIÇOS** |
+| **TABELA XITAXA DE EXPEDIENTE E SERVIÇOS** |
 | --- |
-| **ITEM** **I** | **ATOS COMUNS A ADMINISTRAÇÃO GERAL** | **P R E Ç O** |
+| **ITEMI** | **ATOS COMUNS A ADMINISTRAÇÃO GERAL** | **P R E Ç O** |
 | --- | --- | --- |
 | 01 | Expedição de Alvarás não especificados. | 30,69 |
 | 02 | Atestados não constantes de tabelas. | 14,75 |
@@ -6685,7 +6732,7 @@ TAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO |
 | 06 | Concessões de privilégios, por ato do Prefeito. | 76,11 |
 | 07 | Expedição de documentos, certidões, atestados, relatórios, laudos, não especificados, por lauda datilografa. | 6,15 |
 | 08 | Fotocópia por folha. | 0,74 |
-| **ITEM** **II** | **ATOS DA SECRETARIA DA FAZENDA** | **P R E Ç O** |
+| **ITEMII** | **ATOS DA SECRETARIA DA FAZENDA** | **P R E Ç O** |
 | 01 | Expedição de Alvarás não previstos. | 30,69 |
 | 02 | Ré-emissão avulsa de Guia de recolhimento de tributo | 3,05 |
 | 04 | Inscrição no Cadastro Imobiliário, por imóvel. | 8,55 |
@@ -6701,11 +6748,11 @@ TAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO |
 | 14 | Vistorias simples para transferência de imóveis | 22,14 |
 | 15 | Taxa para de Registro de marca para animais | 36,94 |
 | 16 | Taxa de Negativação de Tributos | 6,15 |
-| **ITEM** **III** | **ATOS DA SECRETARIA DE PLANEJAMENTO E ADMINISTRAÇÃO** | **P R E Ç O** |
+| **ITEMIII** | **ATOS DA SECRETARIA DE PLANEJAMENTO E ADMINISTRAÇÃO** | **P R E Ç O** |
 | 01. | Editais de licitações, por unidade | 76,11 |
 | 02. | Taxa de vistoria de imóvel objeto de regularização Fundiária, cujo fato gerador é a vistoria do imóvel (Inserido pela Lei Complementar n.º 197, de 21 de dezembro de 2020) | 196,85 |
 | 03. | Taxa de Certidão elou Título de Regularização Fundiária - CRF: cujo fato gerador é a expedição do documento pelo Município ao final do procedimento da REURB (Inserido pela Lei Complementar n.º 197, de 21 de dezembro de 2020) | 424,85 |
-| **ITEM** **IV** | **ATOS DA SECRETARIA DE AÇÃO URBANA** | **P R E Ç O** |
+| **ITEMIV** | **ATOS DA SECRETARIA DE AÇÃO URBANA** | **P R E Ç O** |
 | **01.** | **Numeração e emplacamento de mobiliário e equipamentos de comércio eventual ou ambulante:** |
 | 01.01 | Bancas de revistas e jornais. | 14,75 |
 | 01.02 | Bancas de Feiras Livres. | 14,75 |
@@ -6728,12 +6775,12 @@ TAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO |
 | 06.08 | Ocupação de ossuário por cinco anos (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 286,44 |
 | 06.09 | Depósito, retirada ou remoção de ossada (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 155,92 |
 | 06.10 | Título de perpetuidade (terreno jazigo 2,24 x 2,50m) (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 9.876,65 |
-| 06.11 | Título de perpetuidade (terreno adulto 1,10 x 2,50m) (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 278,81 (Redação dada pela Lei Complementar nº 456, de 23 de abril de 2026) ~~2.032,75~~ ~~1.232,75~~ ~~(Redação dada pela Lei Complementar nº 441, de 19 de fevereiro de 2026)~~ |
+| 06.11 | Título de perpetuidade (terreno adulto 1,10 x 2,50m) (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 278,81 (Redação dada pela Lei Complementar nº 456, de 23 de abril de 2026) ~~2.032,751.232,75(Redação dada pela Lei Complementar nº 441, de 19 de fevereiro de 2026)~~ |
 | 06.12 | Título de perpetuidade (terreno criança 1,20 x 0,80m) (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 316,12 |
 | 06.13 | Licença para obras (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 132,29 (Redação dada pela Lei Complementar nº 441, de 19 de fevereiro de 2026) ~~200,29~~ |
 | 06.14 | Aluguel de sala para velório (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 304,54 |
 | 06.15 | Título de perpetuidade (terreno jazigo 3,00 x 2,80m) (Inserido pela Lei Complementar nº 434, de 15 de dezembro de 2025) | 10.231,77 |
-| **ITEM** **V** | **TAXA DE EXPEDIENTE QUE COMPÕE A RECEITA DO TESOURO, COBRADA PELA SMT.** | **P R E Ç O** |
+| **ITEMV** | **TAXA DE EXPEDIENTE QUE COMPÕE A RECEITA DO TESOURO, COBRADA PELA SMT.** | **P R E Ç O** |
 | **01.** | **QUANTO A CADASTRO, REVALIDAÇÃO, TRANSFERÊNCIA DE CADASTRO E BAIXA DE VEÍCULO DE TRANSPORTE DE PESSOAS E CARGAS E DE EQUIPAMENTOS.** |
 | 01.01 | Moto Táxi  | 17,56 |
 | 01.02 | Veículo de aluguel automóvel (táxi e similar). | 36,88 |
@@ -6833,18 +6880,18 @@ TAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO |
 | 06.01 | Multas aplicadas a condutor e proprietário de veículo |   |
 | 06.02 | Cobrança administrativa de dano na sinalização, provocado por veículo ou pessoa, mais multa de 30% (trinta) por cento, acréscimos de juros de mora equivalentes à Taxa Referencial do Sistema de Liquidação e de Custódia - Selic, contados da data do sinistro. (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~Cobrança administrativa de dano na sinalização, provocado por veículo ou pessoa, mais multa de 30% (trinta) por cento, juros de mora de 1% (um) por cento ao mês e correção monetária, contados da data do sinistro.~~ | Valor avaliado do dano mais acréscimos legais. |
 | 06.03 | Serviço de produção, reparação e manutenção de sinalização, realizado para a Prefeitura ou para terceiros, conforme regulamento | Preço do regulamento |
-| **ITEM** **VI** | **ATOS DA SECRETARIA DE MEIO AMBIENTE** | **P R E Ç O** |
+| **ITEMVI** | **ATOS DA SECRETARIA DE MEIO AMBIENTE** | **P R E Ç O** |
 | 01 | Guarda de mercadorias e outros bens apreendidos, por dia ou fração. | 7,40 |
 | 02 | Liberação de mercadorias e bens apreendidos. | 7,40 |
 | 03 | Cópias de laudos técnicos e outros documentos técnicos, por lauda. | 12,30 |
-| **ITEM** **VII** | **ATOS DA SECRETARIA DA SAÚDE** | **P R E Ç O** |
+| **ITEMVII** | **ATOS DA SECRETARIA DA SAÚDE** | **P R E Ç O** |
 | 01 | Matrícula de animais, por animal e por ano. | 9,17 |
 | 02 | Renovação de matrícula de animais. | 6,15 |
 | 03 | Guarda e tratamento de animais apreendidos, por cabeça e por dia. | 7,40 |
 | 04 | Liberação de animais apreendidos | 7,40 |
 | 05 | Taxa de Análise de Projetos Arquitetônicos [(Inserido pela Lei Complementar nº 50, de 14 de dezembro de 2015)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114610/lei-complementar-50) | 450,00 |
 | 06 | Taxa de Reanálise de Projetos Arquitetônicos [(Inserido pela Lei Complementar nº 50, de 14 de dezembro de 2015)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114610/lei-complementar-50) | 130,00 |
-| **ITEM** **VIII** | **ATOS DA SECRETARIA DE OBRAS** | **P R E Ç O** |
+| **ITEMVIII** | **ATOS DA SECRETARIA DE OBRAS** | **P R E Ç O** |
 | **01.** | **DIVERSOS:** |
 | 01.01 | Expedição de habite-se, por m² (metro quadrado) de área edificada. | 1,46 |
 | 01.02 | Vistorias técnicas em imóveis. | 122,94 |
@@ -6876,7 +6923,8 @@ TAXA DE VISTORIA E DE LICENÇA PARA FUNCIONAMENTO EM HORÁRIO EXTRAORDINÁRIO |
 | ~~02.14~~ | ~~Aluguel de sala para velório~~ (Revogado pela Lei Complementar nº 434, de 15 de dezembro de 2025) | ~~25,79~~ |
 | ~~02.15~~ | ~~Título de perpetuidade (terreno jazigo 3,00 x 2,80m) (Inserido pela Lei Complementar nº 50, de 14 de dezembro de 2015)~~ (Revogado pela Lei Complementar nº 434, de 15 de dezembro de 2025) | ~~658,00~~ |
 
-| ~~TABELA XII<br>
+| ~~TABELA XII
+
 PREÇO PÚBLICO PELA PRESTAÇÃO DE SERVIÇOS DE COLETA E REMOÇÃO DE LIXO E ENTULHO EM IMÓVEIS RESIDENCIAIS E NÃO RESIDENCIAIS E DE CONSTRUÇÃO E REPARAÇÃO DE CALÇADAS E MUROS.~~ |
 | --- |
 | ~~**ÍTEM ÚNICO**~~ | ~~**ESPECIFICAÇÃO**~~ | ~~**PREÇO MENSAL**~~ |
@@ -6893,35 +6941,49 @@ PREÇO PÚBLICO PELA PRESTAÇÃO DE SERVIÇOS DE COLETA E REMOÇÃO DE LIXO E EN
 | ~~03.02~~ | ~~Lixo comercial e industrial de pequeno Perigo, até 03 (três) coletas semanais.~~  |  ~~36,88~~ |
 | ~~03.03~~ | ~~Lixo comercial e industrial de Médio Perigo, com 04 (quatro) ou mais coletas semanais.~~     | ~~106,94~~ |
 | ~~03.04~~ | ~~Lixo comercial e industrial de Médio Perigo, com até 03 (três) coletas semanais.~~   |  ~~92,15~~ |
-| ~~03.05~~ | ~~Lixo hospitalar e comercial e industrial de Grande Perigo, com 04 (quatro) ou mais coletas semanais.~~ |  ~~168,36~~<br>
+| ~~03.05~~ | ~~Lixo hospitalar e comercial e industrial de Grande Perigo, com 04 (quatro) ou mais coletas semanais.~~ |  ~~168,36~~
+
   |
 | ~~03.06~~ | ~~Lixo hospitalar e comercial e industrial de grande Perigo, com até 03 (três) coletas semanais.~~     |  ~~137,73~~ |
-| ~~NOTA:<br>
+| ~~NOTA:
+
 Os preços deste item (03.) é para o máximo de 20m³ (vinte) metros cúbicos por mês, o excedente será cobrado na mesma proporção.~~ |
 | ~~**04.**~~ | ~~**REMOÇÃO DE ENTULHOS E OUTROS MATERIAIS**~~ |
-| ~~04.01~~ | ~~Remoção de entulho por m³ (metro cúbico)~~    | ~~4,28<br>
-38,09<br>
+| ~~04.01~~ | ~~Remoção de entulho por m³ (metro cúbico)~~    | ~~4,28
+
+38,09
+
 (Redação dada pela Lei Complementar nº. 50, de 14 de dezembro de 2015)~~ |
-| ~~04.02~~ | ~~Remoção de lixo seco por m³ (metro cúbico)~~    <br>
-  | ~~4,90<br>
-40,15<br>
+| ~~04.02~~ | ~~Remoção de lixo seco por m³ (metro cúbico)~~    
+
+  | ~~4,90
+
+40,15
+
 (Redação dada pela Lei Complementar nº. 50, de 14 de dezembro de 2015)~~ |
-| ~~04.03~~ | ~~Remoção de lixo úmido por tonelada~~    <br>
-  | ~~22,14<br>
-51,17<br>
+| ~~04.03~~ | ~~Remoção de lixo úmido por tonelada~~    
+
+  | ~~22,14
+
+51,17
+
 (Redação dada pela Lei Complementar nº. 50, de 14 de dezembro de 2015)~~ |
-| ~~04.04~~ | ~~Remoção de expurgos de poda de árvore por m³ (metro cúbico)~~    <br>
-  | ~~3,70<br>
-38,09<br>
+| ~~04.04~~ | ~~Remoção de expurgos de poda de árvore por m³ (metro cúbico)~~    
+
+  | ~~3,70
+
+38,09
+
 (Redação dada pela Lei Complementar nº. 50, de 14 de dezembro de 2015)~~ |
 | ~~**05.**~~ | ~~**OUTROS SERVIÇOS**~~ |
 | ~~05.01~~ | ~~Capinação e roçagem, por m² (metro quadrado) de área trabalhada.~~ | ~~0,43~~ |
 | ~~05.02~~ | ~~Construção e reparo de calçada e muro, por m² (metro quadrado).~~ | ~~45,43~~ |
 | ~~05.03~~ | ~~Recepção de lixo e entulho de terceiros no aterro sanitário da Prefeitura, por m³ (metro cúbico).~~ | ~~2,24~~ |
-| ~~NOTA :<br>
+| ~~NOTA :
+
 A prefeitura fará, também, coleta do lixo produzido por lotes vagos, com redução de 50% (cinquenta) por cento na tabela.~~ |
 
-| **TABELA XII** **TAXA DE MANEJO DE RESÍDUOS SÓLIDOS URBANOS E PREÇO PÚBLICO PELA PRESTAÇÃO DE SERVIÇOS DE COLETA DE LIXO ESPECIAL E DE REMOÇÃO DE ENTULHOS E OUTROS SERVIÇOS** |
+| **TABELA XIITAXA DE MANEJO DE RESÍDUOS SÓLIDOS URBANOS E PREÇO PÚBLICO PELA PRESTAÇÃO DE SERVIÇOS DE COLETA DE LIXO ESPECIAL E DE REMOÇÃO DE ENTULHOS E OUTROS SERVIÇOS** |
 | --- |
 | **TAXA DE MANEJO DE RESÍDUOS SÓLIDOS URBANOS** |
 | --- |
@@ -7007,10 +7069,10 @@ A prefeitura fará, também, coleta do lixo produzido por lotes vagos, com redu�
 
 (Redação dada pela Lei Complementar nº. 370, de 16 de dezembro de 2024)
 
-| **TABELA XIII** **PREÇO PÚBLICO E RENDAS PELA OCUPAÇÃO E USO DE ÁREAS EM BENS INTEGRANTES DO PATRIMÔNIO PÚBLICO** [(Redação dada pela Lei Complementar n.º 84, de 30 de junho de 2017)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/118194/lei-complementar-84) ~~**PREÇO PÚBLICO PELA OCUPAÇÃO E USO DE ÁREA EM VIA E** **LOGRADOURO PÚBLICO; ESPAÇO AÉREO E SOLO** **SUBTERRÂNEO DE DOMÍNIO MUNICIPAL.**~~ |
+| **TABELA XIIIPREÇO PÚBLICO E RENDAS PELA OCUPAÇÃO E USO DE ÁREAS EM BENS INTEGRANTES DO PATRIMÔNIO PÚBLICO** [(Redação dada pela Lei Complementar n.º 84, de 30 de junho de 2017)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/118194/lei-complementar-84) ~~**PREÇO PÚBLICO PELA OCUPAÇÃO E USO DE ÁREA EM VIA ELOGRADOURO PÚBLICO; ESPAÇO AÉREO E SOLOSUBTERRÂNEO DE DOMÍNIO MUNICIPAL.**~~ |
 | --- |
 | O Poder Público Municipal na condição de gestor e administrador dos bens integrantes do Patrimônio Público e responsável pelo ordenamento da ocupação do solo urbano, como previsto no inciso VIII, do art. 30, da Constituição Federal e do art. 99 e incisos, do Código Civil Brasileiro, deve cobrar preço público de quem utiliza estes bens parafins artísticos, culturais econômicos, decorrente das diligências e vistorias empreendidas para definir o local e as condições urbanísticas dessa utilização, principalmente quanto à preservação; à estética; à arborização; o trânsito; a segurança das pessoas; a poluição; etc; bem como a necessária e prévia licença. Para isso o usuário deverá pagar pelo uso dos bens e pelas inspeções realizadas na forma da tabela que se segue: [(Redação dada pela Lei Complementar n.º 84, de 30 de junho de 2017)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/118194/lei-complementar-84) ~~O Poder Público Municipal na condição de gestor e administrador dos bens públicos de uso comum do povo e responsável pelo ordenamento da ocupação do solo urbano, como previsto no inciso VIII, do art. 30, da Constituição Federal e no inciso I, do art. 66, do Código Civil BrasiLeiro, deve cobrar preço público de quem utiliza estes bens para fins econômicos, decorrente das diligências e vistorias empreendidas para definir o local e as condições urbanísticas dessa utilização, principalmente quanto à preservação; à estética; à arborização; o trânsito; a segurança das pessoas; a poluição; etc; bem como a a necessária e prévia licença. Para isso o usuário deverá pagar pelo uso dos bens e pe- lãs inspeções realizadas na forma da tabela que se segue:~~ |
-| **ITEM** **ÚNICO** | **ESPECIFICAÇÃO DE USO E CATEGORIA DE USUÁRIO** | **P R E Ç O S** |
+| **ITEMÚNICO** | **ESPECIFICAÇÃO DE USO E CATEGORIA DE USUÁRIO** | **P R E Ç O S** |
 | **POR DIA** | **POR MÊS** | **POR ANO** | **ALVARÁ** |
 | 01 | Ambulantes | 1,46 | 30,74 | 229,93 | 30,69 |
 | 02 | Comércio em Feiras Livres, por metro quadrado ou fração. | 0,52 | 7,40 | 61,73 | 30,69 |
@@ -7031,7 +7093,7 @@ A prefeitura fará, também, coleta do lixo produzido por lotes vagos, com redu�
 | d) mobilização e desmobilização de infraestrutura para a realização de evento; [(Inserido pela Lei Complementar n.º 84, de 30 de junho de 2017)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/118194/lei-complementar-84) | 1.000,00 |   |   |   |
 | NOTAS: 01 – O preço público supra é devido por pessoa física ou jurídica usuária dos bens, e, havendo mais de uma empresa utilizando entre si e simultaneamente os mesmos equipamentos e instalações para exploração de seus respectivos ramos de atividade, cada qual deverá pagar o preço pelo próprio uso da via pública ou de bens integrantes do Patrimônio Público; [(Redação dada pela Lei Complementar n.º 84, de 30 de junho de 2017)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/118194/lei-complementar-84) ~~01 – O preço público supra, é por empresa usuária dos bens, havendo mais de uma empresa, utilizando entre si e simultaneamente os mesmos equipamentos e instalações para exploração de seus respectivos ramos de atividade, cada qual deverá pagar o preço pelo próprio uso da via ou do logradouro público.~~ 02 – O Alvará das atividades dos itens 08 (oito) a 13 (treze) será outorgado para a cidade de Rio Verde e por distrito; [(Redação dada pela Lei Complementar n.º 84, de 30 de junho de 2017)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/118194/lei-complementar-84) ~~02 – O Alvará das atividades dos itens 08 (oito) a 12 (doze) será outorgado para a cidade de Rio Verde e por Distrito.~~ 03 – O Alvará para uso de vias e logradouro público não alcança o estabelecimento da empresa; [(Redação dada pela Lei Complementar n.º 84, de 30 de junho de 2017)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/118194/lei-complementar-84) ~~03 – O Alvará para o uso de vias e logradouro público não alcança o estabelecimento da empresa.~~ 04 – Para o uso de via ou de bem público que demande a mobilização e desmobilização de infraestrutura terá, quem dele fizer uso, um dia antes e um dia depois do evento para as providências cabíveis. Se este prazo não for bastante, a pessoa que pretender fazer uso da via ou de bem público deverá recolher o preço público de mobilização e desmobilização prevista no item “d”, item 13, desta Tabela para cada dia a mais que se fizer necessário. [(Inserido pela Lei Complementar n.º 84, de 30 de junho de 2017)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/118194/lei-complementar-84) |
 
-| **TABELA XIV** **PENALIDADES POR DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA**. |
+| **TABELA XIVPENALIDADES POR DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA**. |
 | --- |
 | Esta tabela trata das penalidades aplicadas ao sujeito passivo, relativo ao descumprimento de obrigações acessórias. Os valores das infrações contidas nesta tabela serão atualizados no mês de janeiro de cada ano, por ato próprio do Chefe do Poder Executivo com base no índice oficial adotado. |
 | --- |
@@ -7081,7 +7143,8 @@ A prefeitura fará, também, coleta do lixo produzido por lotes vagos, com redu�
 | **VII – Por falta relacionada com a prática de ato ou omissão, próprios de suas funções, os servidores, os serventuários da justiça, as autoridades, respondem pelo prejuízo perante o erário municipal e por multa:** |   |
 | quando o servidor, ou autoridade deixar de praticar, ou omitir ato de sua função; ou praticá-lo em desacordo com as normas; dificultar o trabalho fiscal no exame de livros e documentos fiscais; não consignar nos documentos lavrados às informações necessárias sobre o recolhimento de tributos e cumprimento de obrigações acessórias. | R$210,78 |
 
-| TABELA XV<br>
+| TABELA XV
+
 Taxa de Vistoria e Inspeção Sanitária, Para Concessão de Alvará De Localização e Licenciamento de Estabelecimento Prestacional, Industrial, Relativo aos Aspectos Industriais e Sanitários de Origem Animal e Vegetal e Instalações para Produção, Manipulação, Abate e Industrialização ou Preparo de seus Derivados Sob Qualquer Forma de Consumo.   FISCALIZAÇÃO AGROPECUÁRIA |
 | --- |
 | **ITEM I** | **ESPÉCIES VISTORIAS E CRITÉRIOS DE PREÇO** | **QUANT (1)** | **PESO (2)** | **UNIT (3)** | **TOTAL 1x2x3=** |
@@ -7122,7 +7185,7 @@ Taxa de Vistoria e Inspeção Sanitária, Para Concessão de Alvará De Localiza
 | 1.9.04 | Certidão de regularidade |   | 1.5 | 30,00 |   |
 | 1.9.05 | Certificado rastreamento |   | 4.0 | 30,00 |   |
 
-| **TABELA XVI** **VALOR FIXO DE PROFISSIONAIS AUTONOMOS** |
+| **TABELA XVIVALOR FIXO DE PROFISSIONAIS AUTONOMOS** |
 | --- |
 | Esta tabela trata dos valores fixos definidos na Seção VII artigo 76 do livro segundo, Que define o enquadramento dos profissionais autônomos, conforme definição do inciso II do art.77. Os valores fixos serão corrigidos anualmente aplicando-se o índice oficial do município. |
 | --- |
@@ -7132,11 +7195,11 @@ Taxa de Vistoria e Inspeção Sanitária, Para Concessão de Alvará De Localiza
 | b) habilitados de nível médio. | 118,20 [(Redação dada pela Lei Complementar nº. 50, de 14 de dezembro de 2015)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114610/lei-complementar-50) ~~35,74~~ |
 | c) outros profissionais não habilitados. | 59,10 [(Redação dada pela Lei Complementar nº. 50, de 14 de dezembro de 2015)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114610/lei-complementar-50) ~~23,45~~ |
 
-| **TABELA XVII** **VALORES ESTABELECIDOS PARA:** (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~**TABELA XVII**~~ ~~**VALOR PARA IMPETRAR RECURSO DE OFÍCIO**~~ ~~(Inserida pela Lei Complementar nº. 09, de 21 de maio de 2014)~~   I – INTERPOSIÇÃO DE RECURSO DE OFÍCIO PELA 1ª (PRIMEIRA) INSTÂNCIA (Art. 264); (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025)   II – PEDIDO DE RECONSIDERAÇÃO AO COLEGIADO ESPECIAL DO CARF (Art. 275-A); (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025)   III – LIMITE DE VALOR DE DISPENSA DE RETENÇÃO E RECOLHIMENTO DO ISSQN POR ÓRGÃOS PÚBLICOS QUE POSSUAM VERBAS DE SUPRIMENTO DE FUNDO, DESTINADOS A ADIANTAMENTO PARA PEQUENAS DESPESAS, NA CONDIÇÃO DE SUBSTITUTO TRIBUTÁRIO DAQUELES SERVIÇOS (Art. 85, § 2º, II, “a”). (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025) |
+| **TABELA XVIIVALORES ESTABELECIDOS PARA:** (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~**TABELA XVII****VALOR PARA IMPETRAR RECURSO DE OFÍCIO**(Inserida pela Lei Complementar nº. 09, de 21 de maio de 2014)~~   I – INTERPOSIÇÃO DE RECURSO DE OFÍCIO PELA 1ª (PRIMEIRA) INSTÂNCIA (Art. 264); (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025)   II – PEDIDO DE RECONSIDERAÇÃO AO COLEGIADO ESPECIAL DO CARF (Art. 275-A); (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025)   III – LIMITE DE VALOR DE DISPENSA DE RETENÇÃO E RECOLHIMENTO DO ISSQN POR ÓRGÃOS PÚBLICOS QUE POSSUAM VERBAS DE SUPRIMENTO DE FUNDO, DESTINADOS A ADIANTAMENTO PARA PEQUENAS DESPESAS, NA CONDIÇÃO DE SUBSTITUTO TRIBUTÁRIO DAQUELES SERVIÇOS (Art. 85, § 2º, II, “a”). (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025) |
 | --- |
-| Os valores fixados nesta tabela deverão ser corrigidos anualmente, aplicando-se o índice oficial adotado pelo Município. (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~Esta tabela fixa o valor mencionado no art. 264 (Livro Quatro, Título único, Capítulo II, Seção VII) usado como parâmetro para os recursos de ofício impetrados pelo Município.~~ ~~O valor fixado nesta tabela deverá ser corrigido anualmente, aplicando-se o índice oficial adotado pelo Município.~~ |
+| Os valores fixados nesta tabela deverão ser corrigidos anualmente, aplicando-se o índice oficial adotado pelo Município. (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~Esta tabela fixa o valor mencionado no art. 264 (Livro Quatro, Título único, Capítulo II, Seção VII) usado como parâmetro para os recursos de ofício impetrados pelo Município.O valor fixado nesta tabela deverá ser corrigido anualmente, aplicando-se o índice oficial adotado pelo Município.~~ |
 | --- |
-| I - A autoridade julgadora de primeira instância recorrerá de ofício sempre que a decisão exonerar o contribuinte do pagamento de débito de valor superior a: (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~A autoridade julgadora de primeira instância recorrerá de ofício sempre que a decisão exonerar o contribuinte do pagamento de crédito tributário de valor superior a:~~ | 3.000,00 (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~R$ 1.000,00~~ ~~R$ 3.000,00~~ ~~(Redação dada pela Lei Complementar nº. 274, de 16 de dezembro de 2022) R$~~ |
+| I - A autoridade julgadora de primeira instância recorrerá de ofício sempre que a decisão exonerar o contribuinte do pagamento de débito de valor superior a: (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~A autoridade julgadora de primeira instância recorrerá de ofício sempre que a decisão exonerar o contribuinte do pagamento de crédito tributário de valor superior a:~~ | 3.000,00 (Redação dada pela Lei Complementar nº 401, de 3 de julho de 2025) ~~R$ 1.000,00R$ 3.000,00(Redação dada pela Lei Complementar nº. 274, de 16 de dezembro de 2022) R$~~ |
 | II - Caberá pedido de reconsideração no prazo de 10 (dez) dias, com efeito suspensivo, ao Colegiado Especial do Conselho Administrativo de Recursos Fiscais, de suas decisões não unânimes, quando o crédito municipal em litígio seja superior a: (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025) | R$ 20.000,00 (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025) |
 | III - Os órgãos públicos que possuam verbas de suprimento de fundo, destinados a adiantamento para pequenas despesas, ficam dispensados de efetuar a retenção e o recolhimento do ISSQN, na condição de substituto tributário, daqueles serviços cujo valor não exceda o limite de: (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025) | R$ 1.182,29 (Inserido pela Lei Complementar nº 401, de 3 de julho de 2025) |
 

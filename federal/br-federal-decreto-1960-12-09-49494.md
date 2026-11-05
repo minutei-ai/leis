@@ -1,5 +1,3 @@
-###DEC-049494-0-000-09-12-1960@@@
-
 DECRETO Nº 49.494, DE 09 DE DEZEMBRO DE 1960.
 
 Retifica o art. 1º do Decreto nº 48.491, de 11 de julho de 1960.

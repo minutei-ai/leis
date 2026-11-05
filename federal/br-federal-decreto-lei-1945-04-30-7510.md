@@ -1,5 +1,3 @@
-###DEL-007510-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.510 – DE 30 DE ABRIL DE 1945
 
 Altera carreiras do Ministério da Justiça e Negócios Interiores, abre crédito suplementar e dá outras providências

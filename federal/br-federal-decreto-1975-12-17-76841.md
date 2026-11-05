@@ -1,5 +1,3 @@
-###DEC-076841-0-000-17-12-1975@@@
-
 DECRETO nº 76.841, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Comunicação Social da Universidade Federal de Goiás, com sede na cidade de Goiânia, Estado de Goiás.

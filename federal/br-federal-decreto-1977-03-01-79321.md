@@ -1,5 +1,3 @@
-###DEC-079321-0-000-01-03-1977@@@
-
 DECRETO Nº 79.321, DE 1º DE MARÇO DE 1977.
 
 Outorga à Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE concessão para o aproveitamento da energia hidráulica de um trecho do rio Uatumã, no local denominado Cachoeira Balbina, no Estado do Amazonas.

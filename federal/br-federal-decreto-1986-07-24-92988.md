@@ -1,5 +1,3 @@
-###DEC-092988-0-000-24-07-1986@@@
-
 DECRETO Nº 92.988, DE 24 DE JULHO DE 1986
 
 Altera a composição do Conselho Deliberativo da Superintendência do Desenvolvimento da Amazônia - SUDAM.

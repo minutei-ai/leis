@@ -1,5 +1,3 @@
-###DEL-003036-0-000-10-02-1941@@@
-
 DECRETO-LEI N. 3.036 – DE 10 DE FEVEREIRO DE 1941
 
 Dispõe sobre as taxas devidas pelas certidões anuais destinadas ao cumprimento do art. 41 do decreto-lei nº 1.402, de 5 de julho de 1939.

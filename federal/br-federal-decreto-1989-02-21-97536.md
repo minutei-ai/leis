@@ -1,5 +1,3 @@
-###DEC-097536-0-000-21-02-1989@@@
-
 DECRETO N° 97.536, DE 21 DE FEVEREIRO DE 1989
 
 Extingue Agências de Capitanias dos Portos.

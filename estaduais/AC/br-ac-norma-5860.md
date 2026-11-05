@@ -1,6 +1,10 @@
 > **LEI Nº 4.228, DE 01 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título Honorífico de Cidadão Acreano ao Sr. Ivan Pereira Rios.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título Honorífico de Cidadão Acreano ao Sr. Ivan Pereira Rios.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211018)<br>
-
 # DECRETO N° 69.583, DE 05 DE JUNHO DE 2025
 
 ### _Amplia os limites da Estação Ecológica de Assis e da Floresta Estadual de Assis, no Município de Assis._
@@ -20,7 +18,8 @@ Arthur Luis Pinho de Lima
 
 Natália Resende Andrade Ávila
 
-#### ANEXO I<br>
+#### ANEXO I
+
 MEMORIAL DESCRITIVO DA ÁREA DE AMPLIAÇÃO DA ESTAÇÃO ECOLÓGICA DE ASSIS
 
 Imóvel: Sítio Santo Ambrósio e Água do Capão Bonito (Fazenda Capão Bonito)
@@ -45,7 +44,8 @@ Inicia-se a descrição deste perímetro no Ponto 0, definido pelas coordenadas 
 
 Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 51 WGr, fuso 22S, tendo como datum o SIRGAS-2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
 
-#### ANEXO II<br>
+#### ANEXO II
+
 MEMORIAIS DESCRITIVOS DAS ÁREAS DE AMPLIAÇÃO DA FLORESTA ESTADUAL DE ASSIS
 
 Memorial descritivo da Gleba 1 de ampliação da Floresta Estadual de Assis: Imóvel: Fazenda Cervo e Taquaral (Fazenda Paraíso)

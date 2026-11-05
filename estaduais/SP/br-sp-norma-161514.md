@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/161514)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2011/compilacao-lei-14465-01.06.2011.html)
 
 # LEI N° 14.465, DE 01 DE JUNHO DE 2011

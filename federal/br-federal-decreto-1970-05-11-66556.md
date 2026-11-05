@@ -1,5 +1,3 @@
-###DEC-066556-0-000-11-05-1970@@@
-
 DECRETO Nº 66.556, DE 11 DE MAIO DE 1970.
 
 Define as áreas de competência dos Ministérios das Minas e Energia e da Indústria e do Comércio em relação à indústria petroquímica.

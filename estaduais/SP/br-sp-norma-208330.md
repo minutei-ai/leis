@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208330)<br>
-
 # DECRETO N° 67.833, DE 25 DE JULHO DE 2023
 
 ### _Dispõe sobre a admissão na Ordem do Ipiranga._

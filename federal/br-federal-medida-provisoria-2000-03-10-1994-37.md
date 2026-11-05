@@ -1,5 +1,3 @@
-###MPV-001994-0-037-10-03-2000@@@
-
 Medida Provisória nº 1.994-37, de 10 de março de 2000.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

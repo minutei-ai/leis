@@ -1,5 +1,3 @@
-###DEC-064567-0-000-22-05-1969@@@
-
 DECRETO Nº 64.567, DE 22 DE MAIO DE 1969.
 
 Regulamenta dispositivos do Decreto-lei nº 486, de 3 de março de 1969, que dispõem sôbre a escrituração e livros mercantis e dá outras providências.

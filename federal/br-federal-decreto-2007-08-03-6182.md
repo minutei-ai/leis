@@ -1,5 +1,3 @@
-###DEC-006182-0-000-03-08-2007@@@
-
 DECRETO Nº 6.182, DE 3 DE AGOSTO DE 2007.
 
 Dispõe sobre a dissolução e liquidação da Companhia de Desenvolvimento de Barcarena -CODEBAR.
@@ -59,5 +57,3 @@ Miguel Jorge
 Paulo Bernardo Silva
 
 Marina Silva
-
-Este texto não substitui o publicado no DOU de 6.8.2007

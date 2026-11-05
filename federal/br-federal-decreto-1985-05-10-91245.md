@@ -1,5 +1,3 @@
-###DEC-091245-0-000-10-05-1985@@@
-
 Decreto nº 91.245, de 10 de maio de 1985.
 
 Dispõe sobre a ocupação de imóveis residenciais por servidores da Administração Federal, e dá outras providências.

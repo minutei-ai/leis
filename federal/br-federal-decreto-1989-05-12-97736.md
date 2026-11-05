@@ -1,7 +1,3 @@
-1
-
-###DEC-097736-0-000-12-05-1989@@@
-
 DECRETO N° 97.736, DE 12 DE MAIO DE 1989
 
 Renova a concessão outorgada à RÁDIO GAURAMA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Gaurama, Estado do Rio Grande do Sul.

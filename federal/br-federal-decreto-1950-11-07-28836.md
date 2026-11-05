@@ -1,12 +1,10 @@
-###DEC-028836-0-000-07-11-1950@@@
+**DECRETO Nº 28.836, DE 7 DE NOVEMBRO DE 1950.**
 
-<strong>DECRETO Nº 28.836, DE 7 DE NOVEMBRO DE 1950.</strong>
-
-<em><strong>Modifica o § 3.º do art. 27 do Decreto n.º 27.959, de 5 de abril de 1950.</strong></em>
+***Modifica o § 3.º do art. 27 do Decreto n.º 27.959, de 5 de abril de 1950.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, item I da Constituição, decreta:
 
-<strong>Art</strong>. 1º O § 3.º do art. 27 do Decreto n.º 27.959, de 5 de abril de 1950, passa a Ter a seguinte redação:
+**Art**. 1º O § 3.º do art. 27 do Decreto n.º 27.959, de 5 de abril de 1950, passa a Ter a seguinte redação:
 
 “Art. 27.- ..................................................................................................................................
 
@@ -22,10 +20,10 @@ Quando o oficial recorrer desta decisão, o resultado será comunicado:
 
 \- ou à Secretaria Geral do Ministério da Guerra para publicação no Boletim Reservado do Exército se assim fôr determinado pelo Chefe do Estado Maior de Exército.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 7 de novembro de 1950; 129.º da Independência e 62.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

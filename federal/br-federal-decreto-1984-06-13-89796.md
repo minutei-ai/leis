@@ -1,5 +1,3 @@
-###DEC-089796-0-000-13-06-1984@@@
-
 Decreto nº 89.796, de 13 de junho de 1984
 
 Altera dispositivo do Regulamento para o Corpo do Pessoal Graduado da Aeronáutica.

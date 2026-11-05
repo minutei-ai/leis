@@ -1,7 +1,3 @@
-1
-
-###MPV-001122-0-000-22-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.122, DE 22 DE SETEMBRO 1995.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

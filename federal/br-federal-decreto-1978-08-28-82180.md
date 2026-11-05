@@ -1,5 +1,3 @@
-###DEC-082180-0-000-28-08-1978@@@
-
 Decreto nº 82.180, de 28 de agosto de 1978.
 
 Outorga à Centrais Elétricas de Goiás S.A. - CELG concessão para o aproveitamento da energia hidráulica de trecho do rio Balsas Mineiro, situado nos Municípios de Ponte Alta do Norte e Monte do Carmo, no Estado de Goiás.

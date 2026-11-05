@@ -6,7 +6,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º Fica declarada situação de emergência por 180 (cento e oitenta) dias nos Municípios de Águas Lindas de Goiás, Anápolis, Aparecida de Goiânia, Caldas Novas, Catalão, Ceres, Cristalina, Formosa, Goianésia, Goiânia, Goianira, Goiatuba, Inhumas, Ipameri, Iporá, Itaberaí, Itumbiara, Jaraguá, Jataí, Luziânia, Mineiros, Morrinhos, Nerópolis, Palmeiras de Goiás, Pirenópolis, Pires do Rio, Quirinópolis, Rialma, Santa Helena de Goiás, Santo Antônio do Descoberto, São Luís de Montes Belos, Senador Canedo, Silvânia, Trindade, Uruaçu e Valparaíso de Goiás, todos do Estado de Goiás, afetados pelo desastre classificado e codificado como ‘Incêndio Florestal – Incêndios em áreas não protegidas, com reflexos na qualidade do ar’ caracterizado pela propagação de fogo sem controle em qualquer tipo de vegetação não localizada em área sob proteção legal, com a consequente queda da qualidade do ar, conforme a Classificação e Codificação Brasileira de Desastres – COBRADE 1.4.1.3.2, constante do Anexo da Portaria nº 260, de 2 de fevereiro de 2022, do Ministério do Desenvolvimento Regional – MDR.<br>
+Art. 1º Fica declarada situação de emergência por 180 (cento e oitenta) dias nos Municípios de Águas Lindas de Goiás, Anápolis, Aparecida de Goiânia, Caldas Novas, Catalão, Ceres, Cristalina, Formosa, Goianésia, Goiânia, Goianira, Goiatuba, Inhumas, Ipameri, Iporá, Itaberaí, Itumbiara, Jaraguá, Jataí, Luziânia, Mineiros, Morrinhos, Nerópolis, Palmeiras de Goiás, Pirenópolis, Pires do Rio, Quirinópolis, Rialma, Santa Helena de Goiás, Santo Antônio do Descoberto, São Luís de Montes Belos, Senador Canedo, Silvânia, Trindade, Uruaçu e Valparaíso de Goiás, todos do Estado de Goiás, afetados pelo desastre classificado e codificado como ‘Incêndio Florestal – Incêndios em áreas não protegidas, com reflexos na qualidade do ar’ caracterizado pela propagação de fogo sem controle em qualquer tipo de vegetação não localizada em área sob proteção legal, com a consequente queda da qualidade do ar, conforme a Classificação e Codificação Brasileira de Desastres – COBRADE 1.4.1.3.2, constante do Anexo da Portaria nº 260, de 2 de fevereiro de 2022, do Ministério do Desenvolvimento Regional – MDR.
+
 \- [Redação dada pelo Decreto nº 10.546, de 11-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109457/decreto-10546).
 
 ~~Art. 1º Fica declarada situação de emergência por 180 (cento e oitenta) dias nos Municípios de Anápolis, Caldas Novas, Ceres, Goianésia, Goiânia, Inhumas, Iporá, Itaberaí, Itumbiara, Jaraguá, Luziânia, Morrinhos, Palmeiras de Goiás, Pires do Rio, Quirinópolis, Rialma, Santo Antônio do Descoberto, Senador Canedo, Silvânia e Trindade, todos do Estado de Goiás, afetados pelo desastre denominado “Incêndios em áreas não protegidas, com reflexos na qualidade do ar”, caracterizado pela propagação de fogo sem controle em qualquer tipo de vegetação não localizada em área sob proteção legal, com a consequente queda da qualidade do ar, conforme a Classificação e Codificação Brasileira de Desastres – COBRADE 1.4.1.3.2, constante do Anexo da Portaria nº 260, de 2 de fevereiro de 2022, do Ministério do Desenvolvimento Regional – MDR.~~
@@ -38,8 +39,6 @@ Parágrafo único. Observado o estabelecido no _caput_ deste artigo, os órgãos
 Art. 5º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 29 de agosto de 2024; 136º da República.
-
-<br>
 
 RONALDO CAIADO
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2affc9f1-9f5b-4947-a0d9-71522007e22e/texto#nowhere)
 
-###DEL-000239-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 239, De 28 DE Fevereiro DE 1967
 
 Define o Programa Tecnológico Nacional, o sistema nacional de tecnologia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055708-0-000-02-02-1965@@@
-
 decreto nº 55.708, de 2 de fevereiro de 1965.
 
 Renova o decreto nº 49.020, de 4 de agôsto de 1960.

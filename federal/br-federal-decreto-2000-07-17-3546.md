@@ -1,5 +1,3 @@
-###DEC-003546-0-000-17-07-2000@@@
-
 DECRETO Nº 3.546, DE 17 JULHO DE 2000
 
 Cria o Conselho Interministerial do Açúcar e do Álcool - CIMA e dá outras providências.

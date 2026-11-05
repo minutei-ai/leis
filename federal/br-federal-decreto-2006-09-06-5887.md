@@ -1,5 +1,3 @@
-###DEC-005887-0-000-06-09-2006@@@
-
 DECRETO Nº 5.887, DE 6 DE SETEMBRO DE 2006.
 
 Altera os arts. 313 e 374 do Decreto no 4.543, de 26 de dezembro de 2002, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.
@@ -31,5 +29,3 @@ Brasília, 6 de setembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
         Guido Mantega
-
-Este texto não substitui o publicado no D.O.U. de 8.9.2006.

@@ -42,7 +42,8 @@ Art. 4º O Consesp se reunirá em caráter ordinário duas vezes ao ano, prefere
 
 § 4º As reuniões do Consesp serão restritas aos membros e a representantes legais, a assessores diretamente ligados aos membros presentes e a convidados estritamente ligados à área de segurança pública.
 
-§ 5º As convocações para as reuniões ordinárias do Consesp serão providenciadas com antecedência mínima de trinta dias e para as reuniões extraordinárias, com antecedência mínima de quinze dias, exceto em casos emergenciais, por deliberação do seu Presidente.<br>
+§ 5º As convocações para as reuniões ordinárias do Consesp serão providenciadas com antecedência mínima de trinta dias e para as reuniões extraordinárias, com antecedência mínima de quinze dias, exceto em casos emergenciais, por deliberação do seu Presidente.
+
          § 6º As reuniões ordinárias do Consesp poderão ser realizadas nos Estados, por indicação do membro que tenha infraestrutura necessária à realização do evento em seu Estado.
 
 § 7º O quórum de reunião do Consesp é de maioria absoluta e o quórum de aprovação é de maioria simples.

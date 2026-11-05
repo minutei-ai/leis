@@ -1,5 +1,3 @@
-###DEC-093489-0-000-31-10-1986@@@
-
 DECRETO Nº 93.489, DE 31 DE OUTUBRO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO CENTRAL MISSIONEIRA LTDA., para a RÁDIO MISSIONEIRA SETE POVOS LTDA.

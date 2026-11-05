@@ -1,5 +1,3 @@
-###DEC-075908-0-000-25-06-1975@@@
-
 DECRETO Nº 75.908, DE 25 DE JUNHO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada no Bairro da Bela Vista, Capital, Estado de São Paulo, destinada a instalação de uma central telefônica interurbana, pela Telecomunicações de São Paulo S. A. - TELESP.

@@ -1,5 +1,3 @@
-###DEC-094982-0-000-29-09-1987@@@
-
 DECRETO Nº 94.982, DE 29 DE SETEMBRO DE 1987
 
 Altera a composição da Comissão de Coordenação Financeira.

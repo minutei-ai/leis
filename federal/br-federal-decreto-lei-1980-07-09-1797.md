@@ -1,7 +1,3 @@
-1
-
-###DEL-001797-0-000-09-07-1980@@@
-
 # Decreto-Lei nº 1.797, de 09 de Julho de 1980.
 
 Concede isenção do imposto de importação para as obras de arte que específica.

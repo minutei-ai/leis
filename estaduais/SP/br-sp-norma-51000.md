@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51000)
-
 # LEI Nº 11.717, DE 24 DE MAIO DE 2004
 
 ## (PL 780/2003 - Valdomiro Lopes)

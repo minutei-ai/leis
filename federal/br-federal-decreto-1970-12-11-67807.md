@@ -1,5 +1,3 @@
-###DEC-067807-0-000-11-12-1970@@@
-
 DECRETO Nº 67.807, DE 11 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública a Associação Protetora de Menores de Santos, com sede em Santos, Estado de São Paulo.

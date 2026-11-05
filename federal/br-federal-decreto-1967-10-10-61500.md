@@ -1,5 +1,3 @@
-###DEC-061500-0-000-10-10-1967@@@
-
 DECRETO Nº 61.500, DE 10 DE OUTUBRO DE 1967.
 
 Transfere do Govêrno do Estado de Pernambuco as concessões para distribuir energia elétrica em vários municípios do Estado do Pernambuco.

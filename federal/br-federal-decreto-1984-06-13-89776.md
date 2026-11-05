@@ -1,5 +1,3 @@
-###DEC-089776-0-000-13-06-1984@@@
-
 Decreto nº 89.776, de 13 de JUNHO de 1984
 
 Outorga à Empresa Elétrica Bragantina S.A. concessão para o aproveitamento da energia hidráulica de um trecho do rio Jaguari, onde se acha instalada a usina hidrelétrica Dr. Geraldo Tosta, no Município de Bragança Paulista, Estado de São Paulo.

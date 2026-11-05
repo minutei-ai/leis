@@ -1,5 +1,3 @@
-###DEC-051700-0-000-08-02-1963@@@
-
 decreto nº 51.700, de 08 de fevereiro de 1963.
 
 Cria Grupo de Trabalho para o desenvolvimento da pecuária

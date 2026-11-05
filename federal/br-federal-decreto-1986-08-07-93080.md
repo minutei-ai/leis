@@ -1,5 +1,3 @@
-###DEC-093080-0-000-07-08-1986@@@
-
 DECRETO Nº 93.080, DE 7 DE AGOSTO DE 1986
 
 Concede autorização ao navio de pesquisa "RESEARCHER", de bandeira norte-americana, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

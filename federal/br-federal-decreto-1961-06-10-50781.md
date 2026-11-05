@@ -1,5 +1,3 @@
-###DEC-050781-0-000-10-06-1961@@@
-
 DECRETO Nº 50.781, DE 10 DE JUNHO DE 1961.
 
 Prorroga por 45 dias o prazo a que ser refere o art. 2º do Decreto número 50.323, de 7 de março de 1961.

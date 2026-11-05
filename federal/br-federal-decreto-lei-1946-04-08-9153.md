@@ -1,5 +1,3 @@
-###DEL-009153-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.153 – DE 8 DE ABRIL DE 1946
 
 Manda contar tempo de serviço a  Oficial Aviador do Quadro de Oficiais Auxiliares.

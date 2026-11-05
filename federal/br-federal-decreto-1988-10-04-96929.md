@@ -1,5 +1,3 @@
-###DEC-096929-0-000-04-10-1988@@@
-
 # DECRETO Nº 96.929, DE 4 DE OUTUBRO DE 1988
 
 Dispõe sobre o Instituto Nacional de Tecnologia e dá outras providências.

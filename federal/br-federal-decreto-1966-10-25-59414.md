@@ -1,5 +1,3 @@
-###DEC-059414-0-000-25-10-1966@@@
-
 DECRETO Nº 59.414, DE 25 DE OUTUBRO DE 1966.
 
 Estabelece normas gerais de tarifação para as emprêsas concessionárias de serviços públicos de energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-066204-0-000-13-02-1970@@@
-
 DECRETO Nº 66.204 - DE 13 DE FEVEREIRO DE 1970
 
 Regulamenta o Fundo Especial para Calamidade Públicas - FUNCAP - e dá outras providências.

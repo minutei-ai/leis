@@ -1,5 +1,3 @@
-###DEL-009743-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.743 – DE 5 DE SETEMBRO DE 1946
 
 Cancela o crédito especial de Cr$ 9.000.000,00 aberto pelo Decreto-lei nº 7.847, de 9 Agôsto de 1945.

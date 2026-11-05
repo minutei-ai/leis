@@ -1,5 +1,3 @@
-###DEC-076241-0-000-11-09-1975@@@
-
 Decreto nº 76.241 - de 11 de setembro de 1975
 
 Transfere, para o Ministério da Agricultura, a Comissão Coordenadora da Criação do Cavalo Nacional - CCCCN e dá outras providências.

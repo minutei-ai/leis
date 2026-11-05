@@ -1,5 +1,3 @@
-###DEC-053884-0-000-13-04-1964@@@
-
 DECRETO Nº 53.884, DE 13 DE ABRIL DE 1964.
 
 Extingüe o Instituto Superior de Estudos Brasileiros.

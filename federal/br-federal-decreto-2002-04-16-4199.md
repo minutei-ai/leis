@@ -1,5 +1,3 @@
-###DEC-004199-0-000-16-04-2002@@@
-
 DECRETO Nº 4.199, DE 16 DE ABRIL DE 2002
 
 Dispõe sobre a prestação de informações institucionais relativas à Administração Pública Federal a partidos políticos, coligações e candidatos à Presidência da República até a data da divulgação oficial do resultado final das eleições.

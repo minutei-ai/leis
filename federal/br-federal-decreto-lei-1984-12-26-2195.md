@@ -1,5 +1,3 @@
-###DEL-002195-0-000-26-12-1984@@@
-
 # Decreto-lei nº 2.195, de 26 de dezembro de 1984
 
 Dispõe sobre a concessão do incentivo funcional a que alude o item II do artigo 2º da Lei nº 6.433, de 15 de julho de 1977, e dá outras providências.

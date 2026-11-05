@@ -1,5 +1,3 @@
-###DEC-002326-0-000-19-09-1997@@@
-
 DECRETO Nº 2.326, DE 19 DE SETEMBRO DE 1997
 
 Altera dispositivos do Estatuto da Empresa Brasileira de Correios e Telégrafos - ECT, aprovado pelo Decreto nº 83.726, de 17 de junho de 1979.

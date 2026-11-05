@@ -1,5 +1,3 @@
-###DEC-067096-0-000-21-08-1970@@@
-
 Decreto nº 67.096, de 21 de agôsto de 1970.
 
 Declara de utilidade pública a Fundação Geraldo Corrêa, com sede em Divinópolis, Estado de Minas Gerais.

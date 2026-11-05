@@ -1,5 +1,3 @@
-###DEC-071956-0-000-20-03-1973@@@
-
 decreto nº 71.956, de 20 de março de 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem, de linha de transmissão, no Estado de Goiás.

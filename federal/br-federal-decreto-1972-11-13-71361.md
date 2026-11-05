@@ -1,5 +1,3 @@
-###DEC-071361-0-000-13-11-1972@@@
-
 Decreto Nº 71.361 - DE 13 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras da Fundação Regional de Blumenau, Santa Catarina.

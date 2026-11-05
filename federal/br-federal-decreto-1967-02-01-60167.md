@@ -1,5 +1,3 @@
-###DEC-060167-0-000-01-02-1967@@@
-
 Decreto nº 60.167, de 1º de fevereiro de 1967.
 
 Anula o Decreto nº 47.197, de 6 de novembro de 1959.

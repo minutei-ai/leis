@@ -1,5 +1,3 @@
-###DEC-062533-0-000-16-04-1968@@@
-
 DECRETO Nº 62.533, DE 16 DE ABRIL DE 1968.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais a importação de equipamento nôvo, neste descrito e consignado à emprêsa “Companhia Industrial de Cerâmica CINCERA”, de Santa Rita (Pb)

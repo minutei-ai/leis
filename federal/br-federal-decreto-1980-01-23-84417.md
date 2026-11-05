@@ -1,5 +1,3 @@
-###DEC-084417-0-000-23-01-1980@@@
-
 DECRETO Nº 84.417 DE 23 DE JANEIRO DE 1980
 
 Renova por 10 (dez) anos a concessão outorgada à Radio Jornal Brasil Central S.A., transferida ao Governo do Estado de Goiás para, através do Consórcio de Empresas de Radiodifusão e Notícias do Estado - CERNE, executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Goiânia, Estado de Goiás.

@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 786, DE 18 DE OUTUBRO DE 1988.<br>
+LEI MUNICIPAL Nº 786, DE 18 DE OUTUBRO DE 1988.
+
 (Revogada pela Lei Ordinária nº 3.632, de 21 de outubro de 2021).
 
 ~~Dispõe sobre a doação de área no loteamento Colina Azul e da outras providencias.~~
@@ -21,5 +22,6 @@ LEI MUNICIPAL Nº 786, DE 18 DE OUTUBRO DE 1988.<br>
 
  
 
-~~NORBERTO JOSE TEIXEIRA~~<br>
+~~NORBERTO JOSE TEIXEIRA~~
+
 ~~PREFEITO MUNICIPAL~~

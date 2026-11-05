@@ -1,7 +1,3 @@
-1
-
-###DEC-000636-0-000-24-08-1992@@@
-
 DECRETO Nº 636, DE 24 DE AGOSTO DE 1992
 
 Altera dispositivos do Regulamento Aduaneiro.

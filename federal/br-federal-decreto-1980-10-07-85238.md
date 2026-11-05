@@ -1,5 +1,3 @@
-###DEC-085238-0-000-07-10-1980@@@
-
 DECRETO nº 85.238 de 07 de outubro de 1980.
 
 Regulamenta a Lei nº 6.807 de 7 de julho de 1980, que cria o Corpo Auxiliar feminino da Reservada Marinha (CAFRM) e dá outras providências.
@@ -388,11 +386,43 @@ Art. 43 - As militares do CAFRM, quando convocadas, reverterão à inatividade, 
 
 I - No QAFO
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Posto</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Idade-Limite</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão-de-Fragata</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56 anos</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão-de-Corveta</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52 anos</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão-Tenente e Primeiro-Tenente</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48 anos</span></p></td></tr></tbody></table>
+Posto
+
+Idade-Limite
+
+Capitão-de-Fragata
+
+56 anos
+
+Capitão-de-Corveta
+
+52 anos
+
+Capitão-Tenente e Primeiro-Tenente
+
+48 anos
 
 II - No QAFP
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Graduação</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Idade-Limite</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Suboficial</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52 anos</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiro-Sargento</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50 anos</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundo-Sargento</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48 anos</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Terceiro-Sargento</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47 anos</span></p></td></tr></tbody></table>
+Graduação
+
+Idade-Limite
+
+Suboficial
+
+52 anos
+
+Primeiro-Sargento
+
+50 anos
+
+Segundo-Sargento
+
+48 anos
+
+Terceiro-Sargento
+
+47 anos
 
 Art. 44 - A Reforma "ex-officio" será aplicada às militares do CAFRM que atingirem as seguintes idades-limites de permanência na Reserva:
 

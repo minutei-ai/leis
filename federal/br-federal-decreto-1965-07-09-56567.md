@@ -1,5 +1,3 @@
-###DEC-056567-0-000-09-07-1965@@@
-
 DECRETO Nº 56.567, DE 9 DE JULHO DE 1965.
 
 Altera o Regulamento para a Diretoria de Hidrografia e Navegação, aprovado pelo Decreto nº 32.582, de 15 de abril de 1953.

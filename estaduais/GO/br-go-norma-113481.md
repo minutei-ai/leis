@@ -16,24 +16,54 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td style=" width:85px;    ">10 305 1043 2519</td><td style=" width:85px;    ">17530162</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 640.274,39</td><td style=" width:85px;    ">R$ 1.505.062,73</td><td style=" width:85px;    ">R$ 2.145.337,12</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2850-FUNDO ESTADUAL DE SAÚDE - FES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td>10 305 1043 2519</td><td>17530162</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 640.274,39</td><td>R$ 1.505.062,73</td><td>R$ 2.145.337,12</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS ESPECIAIS GERAIS</td><td style=" width:85px;    ">28 846 0100 7104</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 43.700.835,00</td><td style=" width:85px;    ">R$ 7.367.028,00</td><td style=" width:85px;    ">R$ 51.067.863,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**1700 - SECRETARIA DE ESTADO DA ECONOMIA** 1704 - ENCARGOS ESPECIAIS</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>ENCARGOS ESPECIAIS GERAIS</td><td>28 846 0100 7104</td><td>15010100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 43.700.835,00</td><td>R$ 7.367.028,00</td><td>R$ 51.067.863,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;  height:19px;   ">R$ 7.367.028,00</td></tr><tr><td style=" width:340px;    ">17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA</td><td style=" width:340px;    ">R$ 1.505.062,73</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 8.872.090,73</td></tr></tbody></table>
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 7.367.028,00
+
+17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA
+
+R$ 1.505.062,73
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 8.872.090,73
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR</td><td style=" width:85px;    ">10 304 1043 2497</td><td style=" width:85px;    ">17530162</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.872.725,61</td><td style=" width:85px;    ">R$ 1.505.062,73</td><td style=" width:85px;    ">R$ 1.505.062,73</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**2850-FUNDO ESTADUAL DE SAÚDE - FES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR</td><td>10 304 1043 2497</td><td>17530162</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 4.872.725,61</td><td>R$ 1.505.062,73</td><td>R$ 1.505.062,73</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS JUDICIÁRIOS</td><td style=" width:85px;    ">28 846 0100 7105</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 471.062.784,00</td><td style=" width:85px;    ">R$ 7.367.028,00</td><td style=" width:85px;    ">R$ 7.367.028,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**1700 - SECRETARIA DE ESTADO DA ECONOMIA** 1704 - ENCARGOS ESPECIAIS</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>ENCARGOS JUDICIÁRIOS</td><td>28 846 0100 7105</td><td>15010100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 471.062.784,00</td><td>R$ 7.367.028,00</td><td>R$ 7.367.028,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;  height:19px;   ">R$ 7.367.028,00</td></tr><tr><td style=" width:340px;    ">17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA</td><td style=" width:340px;    ">R$ 1.505.062,73</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 8.872.090,73</td></tr></tbody></table>
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 7.367.028,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;  height:19px;   ">R$ 7.367.028,00</td></tr><tr><td style=" width:340px;    ">17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA</td><td style=" width:340px;    ">R$ 1.505.062,73</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 8.872.090,73</td></tr></tbody></table>
+17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA
+
+R$ 1.505.062,73
+
+**TOTAL**
+
+R$ 8.872.090,73
+
+**TOTAL POR FONTE**
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 7.367.028,00
+
+17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA
+
+R$ 1.505.062,73
+
+**TOTAL**
+
+R$ 8.872.090,73

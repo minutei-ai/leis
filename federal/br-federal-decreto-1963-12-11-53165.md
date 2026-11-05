@@ -1,5 +1,3 @@
-###DEC-053165-0-000-11-12-1963@@@
-
 DECRETO Nº 53.165, DE 11 DE DEZEMBEO DE 1963.
 
 Autoriza a Emprêsa sul Brasileira de Eletricidade S.A. a ampliar suas instalações de produto de energia elétrica, no município de Joinville, Estado de Santa Catarina.

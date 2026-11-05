@@ -1,5 +1,3 @@
-###DEL-005737-0-000-10-08-1943@@@
-
 DECRETO–LEI  N. 5.737 – DE 10 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 3.000.000,00 para construção de rodovia

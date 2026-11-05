@@ -1,5 +1,3 @@
-###DEC-083004-0-000-10-01-1979@@@
-
 Decreto nº 83.004, de 10 de Janeiro de 1979
 
 Autoriza alienação do domínio útil dos terrenos com edificações pertencentes ao patrimônio da Universidade Federal do Rio Grande do Norte.

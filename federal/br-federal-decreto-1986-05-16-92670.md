@@ -1,5 +1,3 @@
-###DEC-092670-0-000-16-05-1986@@@
-
 # DECRETO Nº 92.670, DE 16 DE MAIO DE 1986
 
 Renova a concessão outorgada à RÁDIO CULTURA DE FOZ DO IGUAÇU LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Foz do Iguaçu, Estado do Paraná.

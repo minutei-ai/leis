@@ -1,5 +1,3 @@
-###DEC-074802-0-000-01-11-1974@@@
-
 DECRETO Nº 74.802, DE 1 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem da linha de transmissão da Companhia Brasileira de Energia Elétrica - CBEE, Estado do Rio de Janeiro.

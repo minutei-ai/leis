@@ -1,5 +1,3 @@
-###DEC-067134-0-000-03-09-1970@@@
-
 Decreto nº 67.134, de 3 de setembro de 1970.
 
 Declara caduco o Decreto nº 38.878, de 13 de março de 1956.

@@ -1,5 +1,3 @@
-###DEC-074394-0-000-12-08-1974@@@
-
 DECRETO Nº 74.394 - DE 12 DE AGOSTO DE 1974.
 
 Concede à Cimento Tocantins S.A. o direito de lavrar argila em Brasília, Distrito Federal.

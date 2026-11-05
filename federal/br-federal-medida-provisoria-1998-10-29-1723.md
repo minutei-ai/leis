@@ -1,5 +1,3 @@
-###MPV-001723-0-000-29-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.723, DE 29 DE oUTUbRO DE 1998
 
 Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal e dá outras providências.

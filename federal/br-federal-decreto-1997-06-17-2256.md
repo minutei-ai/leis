@@ -1,5 +1,3 @@
-###DEC-002256-0-000-17-06-1997@@@
-
 DECRETO Nº 2.256, DE 17 DE JUNHO DE 1997
 
 Regulamenta o Registro Especial Brasileiro - REB, para embarcações de que trata a Lei nº 9.432, de 8 de janeiro de 1997.

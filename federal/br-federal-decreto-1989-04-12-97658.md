@@ -1,7 +1,3 @@
-1
-
-###DEC-097658-0-000-12-04-1989@@@
-
 DECRETO N° 97.658, DE 12 DE ABRIL DE 1989
 
 Cria, nos Estados da Bahia e de Minas Gerais, o PARQUE NACIONAL GRANDE SERTÃO VEREDAS, com limites que especifica e dá outras providências.

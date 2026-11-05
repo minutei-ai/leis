@@ -1,5 +1,3 @@
-###DEL-007031-0-000-09-11-1944@@@
-
 DECRETO-LEI N. 7.031 – DE 9 DE NOVEMBRO DE 1944
 
 Autoriza a realização de empréstimo para a conclusão das obras e instalações do edifício-sede do Ministério do Trabalho, Indústria e Comércio.

@@ -1,5 +1,3 @@
-###DEC-049308-0-000-21-11-1960@@@
-
 DECRETO Nº 49.308, DE 21 DE NOVEMBRO DE 1960.
 
 Aprova o Regimento do Serviço Nacional de Fiscalização da Odontologia.

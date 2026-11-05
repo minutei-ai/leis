@@ -1,5 +1,3 @@
-###DEC-046715-0-000-25-08-1959@@@
-
 DECRETO Nº 46.715, DE 25 DE AGôSTO DE 1959.
 
 Concede reconhecimento a Escola Industrial Pio XII, de areia, Estado da Paraíba.

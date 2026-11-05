@@ -1,5 +1,3 @@
-###DEC-087480-0-000-16-08-1982@@@
-
 # Decreto nº 87.480, de 16 de agosto de 1982
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento - D.N.O.S., áreas de terras, com as respectivas benfeitoras, necessárias à conclusão da Barragem Chapéu D‘Uvas, no Município de Ewbank da Câmara, Estado de Minas Gerais.

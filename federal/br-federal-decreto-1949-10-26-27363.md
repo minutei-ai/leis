@@ -1,14 +1,12 @@
-###DEC-027363-0-000-26-10-1949@@@
+**DECRETO Nº 27.363, DE 26 DE OUTUBRO DE 1949.**
 
-<strong>DECRETO Nº 27.363, DE 26 DE OUTUBRO DE 1949.</strong>
+***Dá nova redação aos arts. 12, 13, 17, 57, 61, 62, 63, 64, 65 e 66 do Decreto nº 12.277, de 19 de abril de 1943 (Regulamento do Colégio Militar), modificado pelo Decreto nº 22.418, de 9 de janeiro de 1947.***
 
-<em><strong>Dá nova redação aos arts. 12, 13, 17, 57, 61, 62, 63, 64, 65 e 66 do Decreto nº 12.277, de 19 de abril de 1943 (Regulamento do Colégio Militar), modificado pelo Decreto nº 22.418, de 9 de janeiro de 1947.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os arts. 12, 13, 17, 57, 61, 62, 63, 64, 65, e 66 do Decreto número 12.277, de 19 de abril de 1943 (Regulamento do Colégio Militar), modificado pelo Decreto nº 22.418, de 9 de janeiro de 1947, passam a ter a seguinte redação:
+**Art**. 1º Os arts. 12, 13, 17, 57, 61, 62, 63, 64, 65, e 66 do Decreto número 12.277, de 19 de abril de 1943 (Regulamento do Colégio Militar), modificado pelo Decreto nº 22.418, de 9 de janeiro de 1947, passam a ter a seguinte redação:
 
 “Art. 12. O ano escolar dividir-se-á em dois períodos letivos e em dois períodos de férias, a saber:
 
@@ -110,10 +108,10 @@ Art. 66. Findo o concurso de admissão ao Curso Ginasial ou Científico, a Subdi
 
 4º - Contribuintes integrais.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Rio de Janeiro, 26 de outubro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

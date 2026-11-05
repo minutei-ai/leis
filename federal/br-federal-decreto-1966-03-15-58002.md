@@ -1,5 +1,3 @@
-###DEC-058002-0-000-15-03-1966@@@
-
 DECRETO Nº 58.002, de 15 de março de 1966.
 
 Autoriza Mineração Industria e Comércio Ltda., a pesquisar diatomita no município de Morro do Chapéu, Estado da Bahia .

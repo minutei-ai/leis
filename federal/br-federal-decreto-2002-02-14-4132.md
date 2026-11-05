@@ -1,5 +1,3 @@
-###DEC-004132-0-000-14-02-2002@@@
-
 DECRETO Nº 4.132, DE 14 DE FEVEREIRO DE 2002.
 
 Altera o art. 13 do Decreto n~~º~~ 3.363, de 11 de fevereiro de 2000, que cria a Comissão Interministerial para o reexame dos processos de anistia de que trata a Lei n~~º~~ 8.878, de 11 de maio de 1994.

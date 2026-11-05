@@ -1,5 +1,3 @@
-###DEC-076612-0-000-17-11-1975@@@
-
 DECRETO Nº 76.612, DE 17 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento à habilitação em Educação Moral e Cívica da Faculdade de Filosofia, Ciências e Letras do Sagrado Coração de Jesus, com sede na cidade de Bauru, Estado de São Paulo.

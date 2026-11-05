@@ -1,5 +1,3 @@
-###DEC-002544-0-000-13-04-1998@@@
-
 DECRETO Nº 2.544, DE 13 DE ABRIL DE 1998
 
 Promulga o Acordo Constitutivo do Instituto Interamericano para Pesquisa em Mudanças Globais, concluído em 13 de maio de 1992, em Montevidéu.

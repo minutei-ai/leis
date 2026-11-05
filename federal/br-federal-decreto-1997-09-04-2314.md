@@ -1,5 +1,3 @@
-###DEC-002314-0-000-04-09-1997@@@
-
 DECRETO Nº 2.314, DE 4 DE SETEMBRO DE 1997
 
 Regulamenta a Lei nº 8.918, de 14 de julho de 1994, que dispõe sobre a padronização, a classificação, o registro, a inspeção, a produção e a fiscalização de bebidas.

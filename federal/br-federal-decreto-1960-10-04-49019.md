@@ -1,5 +1,3 @@
-###DEC-049019-0-000-04-10-1960@@@
-
 DECRETO Nº 49.019, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza a Campanhia Cearense de Cimento Portland a pesquisar Calcário nos municípios de Coreau e Sebral, Estado do Ceará.

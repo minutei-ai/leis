@@ -1,5 +1,3 @@
-###DEC-074501-0-000-04-09-1974@@@
-
 DECRETO Nº 74.501, DE 4 DE SETEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade Niteroiense de Formação de Professores, com o curso de Professores para as Disciplinas de Formação Especial no Ensino de 2º grau, mantida pela Associação Educacional Plínio Leite, com sede na cidade de Niterói, Estado do Rio de Janeiro.

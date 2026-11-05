@@ -1,5 +1,3 @@
-###DEC-058925-0-000-27-07-1966@@@
-
 DECRETO Nº 58.925, DE 27 DE JULHO DE 1966.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S. A. - ELETROBRÁS.

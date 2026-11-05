@@ -1,14 +1,12 @@
-###DEC-022281-0-000-16-12-1946@@@
+**DECRETO Nº 22.281, DE 16 DE DEZEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22.281, DE 16 DE DEZEMBRO DE 1946.</strong>
+***Declara de utilidade pública e autoriza a desapropriação de diversa áreas de terras necessárias às construções de usinas, barragem, tubulações e bacias de acumulação, para o aproveitamento hidroelétrico da Cachoeira Poço Fundo no rio Machado, Estado de Minas Gerais, objeto da concessão outorgada à Companhia Sul Mineira de Eletricidade pelo Decreto nº 17.796, de 9 de Fevereiro de 1945.***
 
-<em><strong>Declara de utilidade pública e autoriza a desapropriação de diversa áreas de terras necessárias às construções de usinas, barragem, tubulações e bacias de acumulação, para o aproveitamento hidroelétrico da Cachoeira Poço Fundo no rio Machado, Estado de Minas Gerais, objeto da concessão outorgada à Companhia Sul Mineira de Eletricidade pelo Decreto nº 17.796, de 9 de Fevereiro de 1945.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que confere o do art. 87, Constituição e tendo em vista o requerimento pela interessada, e o disposto no art. 151, letra *b*, do Código de Águas,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que confere o do art. 87, Constituição e tendo em vista o requerimento pela interessada, e o disposto no art. 151, letra <em>b</em>, do Código de Águas,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art.</strong> 1º. Ficam declaradas de utilidade pública, nos têrmos do artigo 3º e 5º, letras <em>f</em> e <em>h</em>, do Decreto-lei  nº 3.365, de 21 de junho de 1941, e o parágrafo único do art. 1º do Decreto- lei nº4.152, de 6 de Março de 1942, as seguintes áreas de terras , situado no distrito de Guimirim, município de igual o nome, Estado de Minas Gerais, e necessária à Construção da usina, barragem e tubulação e bacia de acumulação, instalações essas destinadas ao pagamento da cachoeira de Poço Fundo, no rio Machado, cuja concessão foi outorgada à Companhia Sul Mineira de Eletricidade pelo Decreto nº 17.796, de 9 de Fevereiro de 1945.
+**Art.** 1º. Ficam declaradas de utilidade pública, nos têrmos do artigo 3º e 5º, letras *f* e *h*, do Decreto-lei  nº 3.365, de 21 de junho de 1941, e o parágrafo único do art. 1º do Decreto- lei nº4.152, de 6 de Março de 1942, as seguintes áreas de terras , situado no distrito de Guimirim, município de igual o nome, Estado de Minas Gerais, e necessária à Construção da usina, barragem e tubulação e bacia de acumulação, instalações essas destinadas ao pagamento da cachoeira de Poço Fundo, no rio Machado, cuja concessão foi outorgada à Companhia Sul Mineira de Eletricidade pelo Decreto nº 17.796, de 9 de Fevereiro de 1945.
 
 1\) Área de 551.812,5 (quinhentos e cinqüenta mil oitocentos e doze e meio) metros quadrados, de propriedade atribuída a Francisca Cãdida do Nascimento, Luis Garcia Francisco e Euzébio Franco;
 
@@ -38,12 +36,12 @@
 
 Parágrafo único. As áreas acima aludidas estão representados nas plantas sob ns 148 a 155 que foram devidamente aprovadas pelo Ministério da Agricultura.
 
-<strong>Art</strong>. 2º. A Companhia Sul Mineira de Eletricidade fica autorizada a promover a desapropriação das referidas art. 15 do Decreto-lei nº 3.365, e o parágrafo único do art. 1º do decreto-lei nº 4.152.
+**Art**. 2º. A Companhia Sul Mineira de Eletricidade fica autorizada a promover a desapropriação das referidas art. 15 do Decreto-lei nº 3.365, e o parágrafo único do art. 1º do decreto-lei nº 4.152.
 
-<strong>Art</strong>. 3º O Presente decreto entra em vigor na data de sua publicação ,revogadas as disposições em contrário
+**Art**. 3º O Presente decreto entra em vigor na data de sua publicação ,revogadas as disposições em contrário
 
 Rio de Janeiro, 13e dezembro de 1946, 125º independência  e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

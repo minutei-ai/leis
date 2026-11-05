@@ -1,5 +1,3 @@
-###DEC-070306-0-000-21-03-1972@@@
-
 DECRETO Nº 70.306, DE 21 DE MARÇO DE 1972.
 
 Torna sem efeito aproveitamento de disponível na Universidade Federal Rural de Pernambuco.

@@ -151,7 +151,3 @@ Fundação João Pinheiro – FJP
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 2,22068 Gabinete Chefe de Gabinete 01 0,90000 Centros de Estudos Municipais e Metropolitanos Diretor 01 1,61924 Centro de Estudos Econômicos e Sociais Diretor 01 1,61924 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,61924 Centro de Estudos Históricos e Culturais Diretor 01 1,61924 Centro de Estatística e Informações Diretor 01 1,61924 Centro de Desenvolvimento em administração Diretor 01 1,61924 Escola de Governo Diretor-Geral 01 1,61924 Escola de Governo Diretor Adjunto 01 1,57298 Assessoria Jurídica Assessor jurídico 01 0,90000 Auditoria Seccional Auditor seccional 01 0,90000 Assessor de Comunicação Social 01 0,90000 Superintendência Superintendente 01 0,90000 Superintendência Superintendente 01 0,90000 Superintendência Superintendente 01 0,90000 Superintendência Superintendente 01 0,90000 Superintendência Superintendente 01 0,90000 Escola de Governo Secretário-Geral 01 0,90000
-
-\=======================================================================
-
-Data da última atualização: 11/8/2026.

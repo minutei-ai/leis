@@ -1,5 +1,3 @@
-###DEC-058617-0-000-14-06-1966@@@
-
 DECRETO Nº 58.617, DE 14 DE JUNHO DE 1966.
 
 Outorga à Companhia Sul Sergipana de Eletricidade concessão para distribuir energia elétrica.

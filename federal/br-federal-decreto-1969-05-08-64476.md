@@ -1,5 +1,3 @@
-###DEC-064476-0-000-08-05-1969@@@
-
 Decreto nº 64.476, de 8 de maio de 1969.
 
 Autoriza estrangeiro a adquirir em transferência de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado do Rio de Janeiro.

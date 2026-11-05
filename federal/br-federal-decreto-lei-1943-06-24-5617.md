@@ -1,5 +1,3 @@
-###DEL-005617-0-000-24-06-1943@@@
-
 DECRETO–LEI N. 5.617 – DE 24 DE JUNH0 DE 1943
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 75.000,00, para pagamento de subvenção

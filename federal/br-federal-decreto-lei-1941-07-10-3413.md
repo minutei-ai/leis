@@ -1,5 +1,3 @@
-###DEL-003413-0-000-10-07-1941@@@
-
 DECRETO-LEI N. 3.413 – DE 10 DE JULHO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 20:680$0 para pagamento de diárias

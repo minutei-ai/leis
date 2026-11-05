@@ -1,5 +1,3 @@
-###DEC-064416-0-000-28-04-1969@@@
-
 DECRETO Nº 64.416, DE 28 de ABRIL DE 1969.
 
 Dispõe sôbre a organização do Ministério da Justiça.

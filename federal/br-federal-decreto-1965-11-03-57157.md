@@ -1,5 +1,3 @@
-###DEC-057157-0-000-03-11-1965@@@
-
 DECRETO Nº 57.157, DE 3 DE NOVEMBRO DE 1965.
 
 Autoriza pessoa jurídica estrangeira a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno de marinha e acrescido que menciona, no Estado da Guanabara.

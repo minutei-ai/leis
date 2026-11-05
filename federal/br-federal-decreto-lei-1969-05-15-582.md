@@ -1,5 +1,3 @@
-###DEL-000582-0-000-15-05-1969@@@
-
 DECRETO-LEI Nº 582, DE 15 DE MAIO DE 1969
 
 Estabelece medidas para acelerar a Reforma Agrária, dispõe sôbre a organização e funcionamento do instituto Brasileiro de Reforma Agrária e dá outras providências.

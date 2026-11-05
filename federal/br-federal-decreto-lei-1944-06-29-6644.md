@@ -1,5 +1,3 @@
-###DEL-006644-0-000-29-06-1944@@@
-
 DECRETO-LEI N. 6.644 – DE 29 DE JUNHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 8.000.000,00 para pagamento da 5ª prestação de ações da Companhia Vale do Rio Doce S.A.

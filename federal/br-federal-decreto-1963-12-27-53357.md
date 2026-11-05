@@ -1,5 +1,3 @@
-###DEC-053357-0-000-27-12-1963@@@
-
 DECRETO Nº 53.357, de 27 de dezembro de 1963.
 
 Autoriza Centrais Elétricas de Minas Gerais S.A. a constituir hipoteca em favor do Banco Nacional do Desenvolvimento Econômico.

@@ -1,5 +1,3 @@
-###DEC-073693-0-000-22-02-1974@@@
-
 decreto nº 73.693, de 22 de fevereiro de 1974.
 
 Dispõe sobre a criação de área prioritária de emergência, para fins de Reforma Agrária no Estado do Espírito Santo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-084127-0-000-29-10-1979@@@
-
 Decreto nº 84.127, de 29 de outubro de 1979.
 
 Autoriza alienação de bens imóveis pertencentes ao patrimônio da Universidade Federal de Alagoas e dá outras providências.

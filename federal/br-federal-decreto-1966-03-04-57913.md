@@ -1,5 +1,3 @@
-###DEC-057913-0-000-04-03-1966@@@
-
 DECRETO Nº 57.913, DE 4 DE MARÇO DE 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.

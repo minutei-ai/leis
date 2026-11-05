@@ -26,11 +26,30 @@ Goiânia, 30 de setembro de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO
 
 IMÓVEL AUTORIZADO A SER RECEBIDO PELO ESTADO DE GOIÁS POR DOAÇÃO ONEROSA DO MUNICÍPIO DE SÃO DOMINGOS/GO, PARA A CONSTRUÇÃO E A INSTALAÇÃO DA SEDE PRÓPRIA DA DELEGACIA DE POLÍCIA CIVIL DO MUNICÍPIO, CONFORME A LEI MUNICIPAL Nº 267, DE 15 DE DEZEMBRO DE 2025
 
-<table><thead></thead><tbody><tr><td style="text-align:center">DENOMINAÇÃO</td><td>Terreno Urbano</td></tr><tr><td style="text-align:center">LOCALIZAÇÃO</td><td>Rua 3, Lote 1-A, Quadra APM-04, Setor Jardim Primavera, São Domingos/GO</td></tr><tr><td style="text-align:center">ÁREA</td><td>899,86 m²</td></tr><tr><td style="text-align:center">MATRÍCULA</td><td>nº 6.072, Cartório de Registro de Imóveis, Títulos e Documentos, Civil de Pessoas Jurídicas e Naturais de São Domingos/GO</td></tr><tr><td style="text-align:center">MEMORIAL DESCRITIVO</td><td>Assim se descreve: “limites e confrontantes: para quem olha o terreno de frente tem as seguintes confrontações e medidas, (sic) Pela frente com a Rua 3, medindo 24,00m; Pelo lado direito com o lote 1, medindo 37,50m; Pelo fundos (sic) com o lote 1 medindo 24,00m e pelo lado esquerdo com a avenida minas gerais (sic) medindo 37,50m, onde teve início essa descrição”.</td></tr></tbody></table>
+DENOMINAÇÃO
+
+Terreno Urbano
+
+LOCALIZAÇÃO
+
+Rua 3, Lote 1-A, Quadra APM-04, Setor Jardim Primavera, São Domingos/GO
+
+ÁREA
+
+899,86 m²
+
+MATRÍCULA
+
+nº 6.072, Cartório de Registro de Imóveis, Títulos e Documentos, Civil de Pessoas Jurídicas e Naturais de São Domingos/GO
+
+MEMORIAL DESCRITIVO
+
+Assim se descreve: “limites e confrontantes: para quem olha o terreno de frente tem as seguintes confrontações e medidas, (sic) Pela frente com a Rua 3, medindo 24,00m; Pelo lado direito com o lote 1, medindo 37,50m; Pelo fundos (sic) com o lote 1 medindo 24,00m e pelo lado esquerdo com a avenida minas gerais (sic) medindo 37,50m, onde teve início essa descrição”.

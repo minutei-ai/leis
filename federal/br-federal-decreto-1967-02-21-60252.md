@@ -1,5 +1,3 @@
-###DEC-060252-0-000-21-02-1967@@@
-
 DECRETO Nº 60.252, DE 21 DE FEVEREIRO DE 1967.
 
 Institui, no Ministério da Saúde, a Campanha Nacional de Saúde Mental e dá outras providências.

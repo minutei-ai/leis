@@ -1,5 +1,3 @@
-###DEC-069034-0-000-09-08-1971@@@
-
 DECRETO Nº 69.034, DE 9 DE AGÔSTO DE 1971
 
 Inclui nas relações de que trata o Decreto nº 55.244, de 21 de dezembro de 1964, os cargos que especifica.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3ee21113-07d6-46f1-ad65-a966270ed6fa/texto#nowhere)
 
-###DEL-001230-0-000-05-07-1972@@@
-
 # DECRETO-LEI Nº 1.230, DE 5 De JULHO dE 1972
 
 Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º, alínea b, da Constituição, o Município de Tarauacá, do Acre, e dá outras providências.

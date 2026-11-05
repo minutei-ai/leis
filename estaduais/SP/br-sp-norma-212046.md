@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212046)<br>
-
 # DECRETO N° 70.240, DE 19 DE DEZEMBRO DE 2025
 
 ### _Regulamenta o procedimento para relicitação dos contratos de parceria de que trata a Lei n° 16.933, de 24 de janeiro de 2019._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 **Artigo 1° -** Este decreto estabelece o procedimento para relicitação dos contratos de parceria de que trata a [Lei n° 16.933, de 24 de janeiro de 2019](https://www.al.sp.gov.br/norma/189324).
@@ -19,10 +18,12 @@ I - continuidade, regularidade e eficiência na prestação dos serviços contra
 
 II - transparência, necessidade e adequação das decisões dos órgãos e das entidades competentes.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 DA QUALIFICAÇÃO DA RELICITAÇÃO DO EMPREENDIMENTO
 
-#### Seção I<br>
+#### Seção I
+
 Do Requerimento de Relicitação
 
 **Artigo 3° -** O requerimento de relicitação, que será formulado por escrito pelo contratado originário à agência reguladora competente, conterá:
@@ -63,7 +64,8 @@ b) das obrigações de investimentos essenciais a serem mantidas, alteradas ou s
 
 **§ 3° -** Os investimentos de ampliação de capacidade ou novos investimentos poderão ser considerados essenciais nos casos em que a agência reguladora competente ateste sua imprescindibilidade para garantir a segurança ou a continuidade da prestação do serviço.
 
-#### Seção II<br>
+#### Seção II
+
 Do Procedimento de Qualificação
 
 **Artigo 4° -** O requerimento de relicitação será processado e analisado preliminarmente pela agência reguladora competente, à qual caberá manifestar-se sobre a viabilidade do requerimento de relicitação, observado o disposto neste decreto e na Seção III da [Lei n° 16.933, de 24 de janeiro de 2019](https://www.al.sp.gov.br/norma/189324).
@@ -80,10 +82,12 @@ II - à Secretaria de Parcerias em Investimentos, para manifestar-se sobre a con
 
 **§ 2° -** Após a qualificação do empreendimento no PPI-SP para fins da relicitação, as medidas destinadas a instaurar ou a dar seguimento a processos de caducidade eventualmente em curso contra o contratado originário ficarão sobrestadas.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 DA RELICITAÇÃO DO EMPREENDIMENTO QUALIFICADO
 
-#### Seção I<br>
+#### Seção I
+
 Disposições Gerais
 
 **Artigo 7° -** Caberá à Secretaria de Parcerias em Investimentos, ou a outro órgão ou entidade competente para representar o Estado na condição de poder concedente, adotar as medidas necessárias à realização da relicitação do empreendimento qualificado nos termos do disposto no Capítulo II deste decreto, em especial:
@@ -96,7 +100,8 @@ III - publicar o edital, julgar a licitação e conduzir o procedimento licitat�
 
 IV - celebrar o contrato de parceria e os instrumentos administrativos decorrentes do processo de relicitação de que trata este decreto.
 
-#### Seção II<br>
+#### Seção II
+
 Do Termo Aditivo
 
 **Artigo 8° -** São cláusulas obrigatórias do termo aditivo de que trata o artigo 10 da [Lei n° 16.933, de 24 de janeiro de 2019](https://www.al.sp.gov.br/norma/189324), sem prejuízo de outras consideradas pertinentes pela agência reguladora competente ou pela Secretaria de Parcerias em Investimentos:
@@ -155,7 +160,8 @@ XVI - a previsão de pagamento pelo futuro contratado das indenizações referen
 
 **§ 4° -** Poderá ser previsto, no termo aditivo de que trata o "caput" deste artigo, o pagamento, integral ou parcial, dos valores correspondentes às indenizações devidas pelo poder concedente ao contratado original, diretamente aos seus financiadores e garantidores, nos termos e nos limites a serem disciplinados no termo aditivo e replicados no edital de relicitação de que trata o artigo 10 deste decreto.
 
-#### Seção III<br>
+#### Seção III
+
 Do Processo de Relicitação
 
 **Artigo 9° -** O processo de relicitação do empreendimento qualificado seguirá os trâmites preparatórios para celebração de uma nova parceria, observando-se os requisitos previstos na legislação aplicável e no [Decreto n° 67.759, de 20 de junho de 2023](https://www.al.sp.gov.br/norma/208205).
@@ -164,7 +170,8 @@ Do Processo de Relicitação
 
 **Parágrafo único -** Os valores correspondentes às indenizações eventualmente devidas aos financiadores e garantidores do contratado original poderão constar do edital de relicitação e da minuta do novo contrato de parceria, nos termos do disposto no § 4° do artigo 8° deste decreto.
 
-#### Seção IV<br>
+#### Seção IV
+
 Da Indenização
 
 **Artigo 11 -** A indenização pelos bens reversíveis não amortizados ou depreciados vinculados ao contrato de parceria, de que trata o item 7 do § 1° do artigo 12 da [Lei n° 16.933, de 24 de janeiro de 2019](https://www.al.sp.gov.br/norma/189324), será calculada pela agência reguladora competente, de acordo com o regramento previsto no contrato de parceria, aplicando-se supletivamente as disposições desta Seção, desde que não conflitantes com a disciplina contratual.
@@ -185,7 +192,8 @@ IV - o valor de outros desequilíbrios contratuais cuja recomposição seja devi
 
 **§ 2° -** O pagamento da indenização de que trata esta Seção, nos termos apurados administrativamente pela agência reguladora competente, será condição para o início do novo contrato de parceria, em observância ao disposto no § 3° do artigo 10 da [Lei n° 16.933, de 24 de janeiro de 2019](https://www.al.sp.gov.br/norma/189324), sem prejuízo de outros valores a serem apurados e pagos posteriormente, decorrentes de decisão judicial, arbitral ou outro mecanismo privado de resolução de conflitos, na forma prevista no inciso V do artigo 8° deste decreto.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 DISPOSIÇÕES FINAIS
 
 **Artigo 13 -** O processo de relicitação não resultará em qualquer espécie de responsabilidade para o poder concedente em relação a encargos, ônus, obrigações ou compromissos com terceiros ou com empregados do contratado, originário ou futuro.

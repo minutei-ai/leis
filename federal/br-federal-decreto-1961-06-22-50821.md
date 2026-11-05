@@ -1,5 +1,3 @@
-###DEC-050821-0-000-22-06-1961@@@
-
 Decreto nº 50.821, de 22 de junho de 1961.
 
 Altera a redação dos arts. 50, 51, 72 e 73 do Regulamento para os Colégios Militares  R/69.

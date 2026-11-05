@@ -1,7 +1,3 @@
-1
-
-###DEC-000942-0-000-28-09-1993@@@
-
 DECRETO N° 942, DE 28 DE SETEMBRO DE 1993
 
 Institui a hora de verão, em parte do território nacional, no período que indica.

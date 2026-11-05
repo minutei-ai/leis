@@ -1,5 +1,3 @@
-###DEC-047912-0-000-11-03-1960@@@
-
 DECRETO Nº 47.912, DE 11 DE MARÇO DE 1960.
 
 Cria a Legação do Brasil no Estado de Gana.

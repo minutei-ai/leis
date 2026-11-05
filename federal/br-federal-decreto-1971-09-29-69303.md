@@ -1,5 +1,3 @@
-###DEC-069303-0-000-29-09-1971@@@
-
 DECRETO Nº 69.303, DE 29 DE SETEMBRO DE 1971.
 
 Autoriza a Comissão Executiva do Sal a utilizar a verba de Cr$ 664.000,00 destinada à construção da Salina Experimental de Mossoró (RN), e dá outras providências.

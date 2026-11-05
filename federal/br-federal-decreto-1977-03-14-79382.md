@@ -1,5 +1,3 @@
-###DEC-079382-0-000-14-03-1977@@@
-
 DECRETO Nº 79.382, DE 14 DE MARÇO DE 1977.
 
 Confisca bem pertencente a Antonio João Abdalla, e dá outras providências.

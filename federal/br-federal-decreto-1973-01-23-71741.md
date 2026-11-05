@@ -1,5 +1,3 @@
-###DEC-071741-0-000-23-01-1973@@@
-
 DECRETO Nº 71.741, de 23 de janeiro de 1973.
 
 Declara sem efeito o Decreto número 25.075, de 9 de junho de 1948.

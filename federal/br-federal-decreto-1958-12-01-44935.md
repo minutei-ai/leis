@@ -1,5 +1,3 @@
-###DEC-044935-0-000-01-12-1958@@@
-
 DECRETO Nº 44.935, DE 1 DE DEZEMBRO DE 1958.
 
 Da nova redação ao art. 1º do Decreto nº 42.569, de 7 de novembro de 1957.

@@ -1,5 +1,3 @@
-###DEC-088048-0-000-19-01-1983@@@
-
 Decreto nº 88.048, de 19 de janeiro de 1983.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa variável de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado de Mato Grosso do Sul.

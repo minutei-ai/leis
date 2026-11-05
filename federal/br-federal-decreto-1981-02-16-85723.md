@@ -1,5 +1,3 @@
-###DEC-085723-0-000-16-02-1981@@@
-
 Decreto nº 85.723, de 16 de fevereiro de 1981.
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia, da Fundação Faculdade Municipal de Educação, Ciências e Letras de Paranavaí, no Estado do Paraná.

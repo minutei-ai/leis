@@ -1,5 +1,3 @@
-###DEC-007134-0-000-29-03-2010@@@
-
 DECRETO Nº 7.134, DE 29 DE MARÇO DE 2010.
 
 Dispõe o sobre o remanejamento de cargos em comissão, e altera o Anexo II ao Decreto no 6.931, de 11 de agosto de 2009, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Gratificações de Exercício em Cargo de Confiança do Gabinete de Segurança Institucional da Presidência da República.
@@ -26,7 +24,7 @@ ANEXO I
 
 REMANEJAMENTO DE CARGOS
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:105.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO</span></p></td><td style="width:108.18pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS-UNITÁRIO</span></p></td><td colspan="2" style="width:226.58pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DA SEGES/MP P/ O GSI/PR</span></p></td></tr><tr><td style="width:105.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:108.18pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:112.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">QTDE</span></p></td><td style="width:113.48pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VALOR TOTAL</span></p></td></tr><tr><td style="width:105.5pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 102.4</span></p></td><td style="width:108.18pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3,23</span></p></td><td style="width:112.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:113.48pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3,23</span></p></td></tr><tr><td style="width:105.5pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 102.3</span></p></td><td style="width:108.18pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,91</span></p></td><td style="width:112.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:113.48pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7,64</span></p></td></tr><tr><td style="width:105.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 102.2</span></p></td><td style="width:108.18pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,27</span></p></td><td style="width:112.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:113.48pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2,54</span></p></td></tr><tr><td colspan="2" style="width:214.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL</span></p></td><td style="width:112.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7</span></p></td><td style="width:113.48pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13,41</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> CÓDIGO </td><td> DAS-UNITÁRIO </td><td colspan="2"> DA SEGES/MP P/ O GSI/PR </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> QTDE </td><td> VALOR TOTAL </td></tr><tr><td> DAS 102.4 </td><td> 3,23 </td><td> 1 </td><td> 3,23 </td></tr><tr><td> DAS 102.3 </td><td> 1,91 </td><td> 4 </td><td> 7,64 </td></tr><tr><td> DAS 102.2 </td><td> 1,27 </td><td> 2 </td><td> 2,54 </td></tr><tr><td colspan="2"> TOTAL </td><td> 7 </td><td> 13,41 </td></tr></tbody></table>
 
 ANEXO II
 
@@ -34,12 +32,740 @@ ANEXO II
 
 a)QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS GRATIFICAÇÕES DE EXERCÍCIO EM CARGO DE CONFIANÇA DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">UNIDADE</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CARGO/ FUNÇÃO</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DENOMINAÇÃO/ CARGO/FUNÇÃO</span></p></td><td style="width:69.38pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NE/DAS/RMP</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ASSESSORIA ESPECIAL</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor-Chefe</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.6</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Especial</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.5</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor-Chefe Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0001 (A)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">GABINETE</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Chefe de Gabinete</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.5</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.2</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SECRETARIA-EXECUTIVA</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretário-Executivo</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NE</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.2</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Núcleo do Sistema de Proteção ao Programa Nuclear Brasileiro</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Chefe</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DEPARTAMENTO DE GESTÃO E DE ARTICULAÇÃO INSTITUCIONAL</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Diretor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0001 (A)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DEPARTAMENTO DE SEGURANÇA</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Diretor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0001 (A)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Proteção Pessoal</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Proteção das Instalações</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Apoio Logístico</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Escritório de Representação em São Bernardo do Campo/SP</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Chefe</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Escritório de Representação em Florianópolis/SC</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Chefe</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DEPARTAMENTO DE SEGURANÇA DA INFORMAÇÃO E COMUNICAÇÕES</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Diretor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.5</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Gestão da Segurança da Informação</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Tratamento de Incidentes de Rede</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral do Sistema de Segurança e Credenciamento</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.2</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SECRETARIA DE COORDENAÇÃO E ACOMPANHAMENTO DE ASSUNTOS MILITARES</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretário</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.6</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor-Chefe Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0001 (A)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SECRETARIA DE ACOMPANHAMENTO E ESTUDOS INSTITUCIONAIS</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretário</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.6</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretário-Adjunto</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.5</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor-Chefe Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0001 (A)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessoria de Infraestruturas Críticas</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Chefe de Assessoria</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0001 (A)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Acompanhamento</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Estudos Institucionais</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Assentimento Prévio</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Escritório de Análise de Imagens de Monitoramento por Satélite em Campinas/SP</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Chefe</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SECRETARIA NACIONAL DE POLÍTICAS SOBRE DROGAS</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretário</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NE</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretário-Adjunto</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.6</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.2</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DIRETORIA DE PROJETOS ESTRATÉGICOS E ASSUNTOS INTERNACIONAIS</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Diretor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.5</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.2</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Projetos Estratégicos</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Assuntos Internacionais</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DIRETORIA DE ARTICULAÇÃO E COORDENAÇÃO DE POLÍTICAS SOBRE DROGAS</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Diretor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.5</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.2</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Políticas de Prevenção, Tratamento e Reinserção Social</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Gestão de Projetos e Subvenção Social</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DIRETORIA DE CONTENCIOSO E GESTÃO DO FUNDO NACIONAL ANTIDROGAS</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Diretor</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.5</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico Militar</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.3</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.2</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assistente Técnico</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102.1</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Contencioso do Fundo Nacional Antidrogas</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:193.7pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação-Geral de Gestão do Fundo Nacional Antidrogas</span></p></td><td style="width:46.42pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:131.12pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenador-Geral</span></p></td><td style="width:69.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101.4</span></p></td></tr></tbody></table>
+UNIDADE
+
+CARGO/ FUNÇÃO
+
+DENOMINAÇÃO/ CARGO/FUNÇÃO
+
+NE/DAS/RMP
+
+ASSESSORIA ESPECIAL
+
+1
+
+Assessor-Chefe
+
+101.6
+
+1
+
+Assessor Especial
+
+102.5
+
+1
+
+Assessor-Chefe Militar
+
+Grupo 0001 (A)
+
+GABINETE
+
+1
+
+Chefe de Gabinete
+
+101.5
+
+3
+
+Assessor
+
+102.4
+
+1
+
+Assessor Técnico Militar
+
+Grupo 0003 (C)
+
+4
+
+Assistente Militar
+
+Grupo 0004 (D)
+
+2
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+1
+
+Assessor Técnico
+
+102.3
+
+3
+
+Assistente
+
+102.2
+
+SECRETARIA-EXECUTIVA
+
+1
+
+Secretário-Executivo
+
+NE
+
+1
+
+Assessor Militar
+
+Grupo 0002 (B)
+
+1
+
+Assessor Técnico Militar
+
+Grupo 0003 (C)
+
+1
+
+Assistente Militar
+
+Grupo 0004 (D)
+
+1
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+1
+
+Assessor
+
+102.4
+
+1
+
+Assessor Técnico
+
+102.3
+
+2
+
+Assistente
+
+102.2
+
+2
+
+Assistente Técnico
+
+102.1
+
+Núcleo do Sistema de Proteção ao Programa Nuclear Brasileiro
+
+1
+
+Chefe
+
+Grupo 0002 (B)
+
+DEPARTAMENTO DE GESTÃO E DE ARTICULAÇÃO INSTITUCIONAL
+
+1
+
+Diretor
+
+Grupo 0001 (A)
+
+2
+
+Assessor Militar
+
+Grupo 0002 (B)
+
+1
+
+Assessor Técnico
+
+102.3
+
+2
+
+Assistente Técnico
+
+102.1
+
+Coordenação
+
+3
+
+Coordenador
+
+Grupo 0004 (D)
+
+1
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+DEPARTAMENTO DE SEGURANÇA
+
+1
+
+Diretor
+
+Grupo 0001 (A)
+
+4
+
+Assessor Militar
+
+Grupo 0002 (B)
+
+1
+
+Assessor
+
+102.4
+
+10
+
+Assessor Técnico Militar
+
+Grupo 0003 (C)
+
+4
+
+Assessor Técnico
+
+102.3
+
+8
+
+Assistente Militar
+
+Grupo 0004 (D)
+
+11
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+2
+
+Assistente Técnico
+
+102.1
+
+Coordenação-Geral de Proteção Pessoal
+
+1
+
+Coordenador-Geral
+
+Grupo 0003 (C)
+
+Coordenação
+
+4
+
+Coordenador
+
+Grupo 0004 (D)
+
+Coordenação-Geral de Proteção das Instalações
+
+1
+
+Coordenador-Geral
+
+Grupo 0003 (C)
+
+Coordenação
+
+3
+
+Coordenador
+
+Grupo 0004 (D)
+
+Coordenação-Geral de Apoio Logístico
+
+1
+
+Coordenador-Geral
+
+Grupo 0003 (C)
+
+Coordenação
+
+2
+
+Coordenador
+
+Grupo 0004 (D)
+
+Escritório de Representação em São Bernardo do Campo/SP
+
+1
+
+Chefe
+
+Grupo 0002 (B)
+
+2
+
+Assessor Técnico Militar
+
+Grupo 0005 (E)
+
+Escritório de Representação em Florianópolis/SC
+
+1
+
+Chefe
+
+Grupo 0005 (E)
+
+DEPARTAMENTO DE SEGURANÇA DA INFORMAÇÃO E COMUNICAÇÕES
+
+1
+
+Diretor
+
+101.5
+
+1
+
+Assessor Militar
+
+Grupo 0002 (B)
+
+1
+
+Assessor Técnico
+
+102.3
+
+1
+
+Assistente Técnico
+
+102.1
+
+Coordenação-Geral de Gestão da Segurança da Informação
+
+1
+
+Coordenador-Geral
+
+101.4
+
+1
+
+Assessor Técnico
+
+102.3
+
+2
+
+Assistente Militar
+
+Grupo 0004 (D)
+
+Coordenação-Geral de Tratamento de Incidentes de Rede
+
+1
+
+Coordenador-Geral
+
+101.4
+
+1
+
+Assessor Técnico Militar
+
+Grupo 0003 (C)
+
+1
+
+Assessor Técnico
+
+102.3
+
+2
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+Coordenação-Geral do Sistema de Segurança e Credenciamento
+
+1
+
+Coordenador-Geral
+
+Grupo 0003 (C)
+
+1
+
+Assessor Técnico
+
+102.3
+
+2
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+1
+
+Assistente Técnico
+
+102.2
+
+SECRETARIA DE COORDENAÇÃO E ACOMPANHAMENTO DE ASSUNTOS MILITARES
+
+1
+
+Secretário
+
+101.6
+
+3
+
+Assessor-Chefe Militar
+
+Grupo 0001 (A)
+
+10
+
+Assessor Militar
+
+Grupo 0002 (B)
+
+1
+
+Assessor Técnico Militar
+
+Grupo 0003 (C)
+
+Coordenador
+
+1
+
+Coordenador
+
+Grupo 0004 (D)
+
+2
+
+Assistente Técnico
+
+102.1
+
+SECRETARIA DE ACOMPANHAMENTO E ESTUDOS INSTITUCIONAIS
+
+1
+
+Secretário
+
+101.6
+
+1
+
+Secretário-Adjunto
+
+101.5
+
+1
+
+Assessor
+
+102.4
+
+1
+
+Assessor-Chefe Militar
+
+Grupo 0001 (A)
+
+1
+
+Assessor Militar
+
+Grupo 0002 (B)
+
+1
+
+Assistente Militar
+
+Grupo 0004 (D)
+
+2
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+Assessoria de Infraestruturas Críticas
+
+1
+
+Chefe de Assessoria
+
+Grupo 0001 (A)
+
+Coordenação-Geral de Acompanhamento
+
+1
+
+Coordenador-Geral
+
+101.4
+
+2
+
+Assessor Militar
+
+Grupo 0002 (B)
+
+3
+
+Assessor Técnico
+
+102.3
+
+1
+
+Assistente Técnico
+
+102.1
+
+Coordenação-Geral de Estudos Institucionais
+
+1
+
+Coordenador-Geral
+
+101.4
+
+1
+
+Assistente Técnico
+
+102.1
+
+Coordenação-Geral de Assentimento Prévio
+
+1
+
+Coordenador-Geral
+
+101.4
+
+Escritório de Análise de Imagens de Monitoramento por Satélite em Campinas/SP
+
+1
+
+Chefe
+
+Grupo 0002 (B)
+
+2
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+SECRETARIA NACIONAL DE POLÍTICAS SOBRE DROGAS
+
+1
+
+Secretário
+
+NE
+
+1
+
+Secretário-Adjunto
+
+101.6
+
+1
+
+Assessor Militar
+
+Grupo 0002 (B)
+
+1
+
+Assessor
+
+102.4
+
+1
+
+Assessor Técnico
+
+102.3
+
+1
+
+Assistente Técnico Militar
+
+Grupo 0005 (E)
+
+3
+
+Assistente
+
+102.2
+
+4
+
+Assistente Técnico
+
+102.1
+
+DIRETORIA DE PROJETOS ESTRATÉGICOS E ASSUNTOS INTERNACIONAIS
+
+1
+
+Diretor
+
+101.5
+
+3
+
+Assessor Técnico
+
+102.3
+
+1
+
+Assistente
+
+102.2
+
+1
+
+Assistente Técnico
+
+102.1
+
+Coordenação-Geral de Projetos Estratégicos
+
+1
+
+Coordenador Geral
+
+101.4
+
+Coordenação-Geral de Assuntos Internacionais
+
+1
+
+Coordenador Geral
+
+101.4
+
+DIRETORIA DE ARTICULAÇÃO E COORDENAÇÃO DE POLÍTICAS SOBRE DROGAS
+
+1
+
+Diretor
+
+101.5
+
+4
+
+Assessor Técnico
+
+102.3
+
+2
+
+Assistente
+
+102.2
+
+1
+
+Assistente Técnico
+
+102.1
+
+Coordenação-Geral de Políticas de Prevenção, Tratamento e Reinserção Social
+
+1
+
+Coordenador-Geral
+
+101.4
+
+Coordenação-Geral de Gestão de Projetos e Subvenção Social
+
+1
+
+Coordenador-Geral
+
+101.4
+
+DIRETORIA DE CONTENCIOSO E GESTÃO DO FUNDO NACIONAL ANTIDROGAS
+
+1
+
+Diretor
+
+101.5
+
+1
+
+Assessor Técnico Militar
+
+Grupo 0003 (C)
+
+4
+
+Assessor Técnico
+
+102.3
+
+1
+
+Assistente
+
+102.2
+
+4
+
+Assistente Técnico
+
+102.1
+
+Coordenação-Geral de Contencioso do Fundo Nacional Antidrogas
+
+1
+
+Coordenador-Geral
+
+101.4
+
+Coordenação-Geral de Gestão do Fundo Nacional Antidrogas
+
+1
+
+Coordenador-Geral
+
+101.4
 
 b)QUADRO RESUMO DE CUSTOS DOS CARGOS EM COMISSÃO DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS-UNITÁRIO</span></p></td><td colspan="2" style="width:149.38pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SITUAÇÃO ATUAL</span></p></td><td colspan="2" style="width:141.57pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:63.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:86.38pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">QTDE.</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VALOR TOTAL</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">QTDE.</span></p></td><td style="width:86.38pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VALOR TOTAL</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NE</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5,40</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10,80</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10,80</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 101.6</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5,28</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,12</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,12</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 101.5</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4,25</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,50</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,50</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 101.4</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3,23</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35,53</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35,53</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 102.5</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4,25</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4,25</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4,25</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 102.4</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3,23</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19,38</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,61</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 102.3</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,91</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,02</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49,66</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 102.2</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,27</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13,97</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16,51</span></p></td></tr><tr><td style="width:63.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS 102.1</span></p></td><td style="width:86.38pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,00</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,00</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21</span></p></td><td style="width:86.38pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,00</span></p></td></tr><tr><td colspan="2" style="width:150.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">193,57</span></p></td><td style="width:54.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">91</span></p></td><td style="width:86.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">206,98</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> CÓDIGO </td><td> DAS-UNITÁRIO </td><td colspan="2"> SITUAÇÃO ATUAL </td><td colspan="2"> SITUAÇÃO NOVA </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> QTDE. </td><td> VALOR TOTAL </td><td> QTDE. </td><td> VALOR TOTAL </td></tr><tr><td> NE </td><td> 5,40 </td><td> 2 </td><td> 10,80 </td><td> 2 </td><td> 10,80 </td></tr><tr><td> DAS 101.6 </td><td> 5,28 </td><td> 4 </td><td> 21,12 </td><td> 4 </td><td> 21,12 </td></tr><tr><td> DAS 101.5 </td><td> 4,25 </td><td> 6 </td><td> 25,50 </td><td> 6 </td><td> 25,50 </td></tr><tr><td> DAS 101.4 </td><td> 3,23 </td><td> 11 </td><td> 35,53 </td><td> 11 </td><td> 35,53 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td> DAS 102.5 </td><td> 4,25 </td><td> 1 </td><td> 4,25 </td><td> 1 </td><td> 4,25 </td></tr><tr><td> DAS 102.4 </td><td> 3,23 </td><td> 6 </td><td> 19,38 </td><td> 7 </td><td> 22,61 </td></tr><tr><td> DAS 102.3 </td><td> 1,91 </td><td> 22 </td><td> 42,02 </td><td> 26 </td><td> 49,66 </td></tr><tr><td> DAS 102.2 </td><td> 1,27 </td><td> 11 </td><td> 13,97 </td><td> 13 </td><td> 16,51 </td></tr><tr><td> DAS 102.1 </td><td> 1,00 </td><td> 21 </td><td> 21,00 </td><td> 21 </td><td> 21,00 </td></tr><tr><td colspan="2"> TOTAL </td><td> 84 </td><td> 193,57 </td><td> 91 </td><td> 206,98 </td></tr></tbody></table>
 
 c)QUADRO RESUMO DE CUSTOS DAS GRATIFICAÇÕES DE EXERCÍCIO EM CARGO DE CONFIANÇA DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO</span></p></td><td style="width:70.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DAS-UNITÁRIO</span></p></td><td colspan="2" style="width:149.38pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SITUAÇÃO ATUAL</span></p></td><td colspan="2" style="width:141.57pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:79.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.62pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">QTDE.</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VALOR TOTAL</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">QTDE.</span></p></td><td style="width:94.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VALOR TOTAL</span></p></td></tr><tr><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:70.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:94.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0001 (A)</span></p></td><td style="width:70.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0,64</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5,12</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:94.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5,12</span></p></td></tr><tr><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0002 (B)</span></p></td><td style="width:70.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0,58</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14,50</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25</span></p></td><td style="width:94.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14,50</span></p></td></tr><tr><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0003 (C)</span></p></td><td style="width:70.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0,53</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10,07</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19</span></p></td><td style="width:94.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10,07</span></p></td></tr><tr><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0004 (D)</span></p></td><td style="width:70.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0,48</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13,92</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29</span></p></td><td style="width:94.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13,92</span></p></td></tr><tr><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo 0005 (E)</span></p></td><td style="width:70.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0,44</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11,88</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27</span></p></td><td style="width:94.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11,88</span></p></td></tr><tr><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:70.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:94.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td colspan="2" style="width:150.05pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL</span></p></td><td style="width:62.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">108</span></p></td><td style="width:86.28pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55,49</span></p></td><td style="width:46.98pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">108</span></p></td><td style="width:94.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55,49</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> CÓDIGO </td><td> DAS-UNITÁRIO </td><td colspan="2"> SITUAÇÃO ATUAL </td><td colspan="2"> SITUAÇÃO NOVA </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> QTDE. </td><td> VALOR TOTAL </td><td> QTDE. </td><td> VALOR TOTAL </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td> Grupo 0001 (A) </td><td> 0,64 </td><td> 8 </td><td> 5,12 </td><td> 8 </td><td> 5,12 </td></tr><tr><td> Grupo 0002 (B) </td><td> 0,58 </td><td> 25 </td><td> 14,50 </td><td> 25 </td><td> 14,50 </td></tr><tr><td> Grupo 0003 (C) </td><td> 0,53 </td><td> 19 </td><td> 10,07 </td><td> 19 </td><td> 10,07 </td></tr><tr><td> Grupo 0004 (D) </td><td> 0,48 </td><td> 29 </td><td> 13,92 </td><td> 29 </td><td> 13,92 </td></tr><tr><td> Grupo 0005 (E) </td><td> 0,44 </td><td> 27 </td><td> 11,88 </td><td> 27 </td><td> 11,88 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td colspan="2"> TOTAL </td><td> 108 </td><td> 55,49 </td><td> 108 </td><td> 55,49 </td></tr></tbody></table>

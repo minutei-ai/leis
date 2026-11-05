@@ -1,5 +1,3 @@
-###DEC-059453-0-000-03-11-1966@@@
-
 Decreto nº 59.453, de 3 de novembro de 1966.
 
 Declara a cessação da exploração de diversos serviços de energia elétrica e outorga a concessões em municípios dos Estados de Santa Catarina e Paraná à Centrais Elétricas de Santa Catarina S. A. e dá outras providências.
@@ -31,8 +29,6 @@ Brasília, 3 de novembro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Benedicto Dutra
-
-###DEC-059453-0-000-03-11-1966@@@RET01+++
 
 decreto nº 59.453, de 3 de novembro de 1966.
 

@@ -1,5 +1,3 @@
-###DEC-064317-0-000-07-04-1969@@@
-
 DECRETO Nº 64.317, DE 7 DE ABRIL DE 1969.
 
 Declara caduco o Decreto nº 18.211, de 28 de março de 1945.

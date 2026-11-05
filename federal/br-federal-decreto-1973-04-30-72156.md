@@ -1,5 +1,3 @@
-###DEC-072156-0-000-30-04-1973@@@
-
 DECRETO Nº 72.156, DE 30 DE ABRIL DE 1973.
 
 Revogada por 10 (dez) anos a concessão outorgada à Fundação Nossa Senhora Aparecida, para executar serviço de radiodifusão sonora em onda tropical, na cidade de Aparecida do Norte, Estado de São Paulo.

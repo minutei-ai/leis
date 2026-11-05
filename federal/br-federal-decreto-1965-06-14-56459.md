@@ -1,5 +1,3 @@
-###DEC-056459-0-000-14-06-1965@@@
-
 DECRETO Nº 56.459, DE 14 DE JUNHO DE 1965.
 
 Concede autorização aos cursos de Geografia e História da Faculdade de Filosofia, Ciências e Letras de Santos, São Paulo.

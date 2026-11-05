@@ -1,5 +1,3 @@
-###DEL-007796-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.796 – DE 30 DE JULHO DE 1945
 
 Dá nova redação ao art. 6º do Decreto-lei nº 2.436, de 22 de junho de 1940

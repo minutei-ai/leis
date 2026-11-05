@@ -6,22 +6,28 @@ Declara de Utilidade Pública o Centro Espirita Ismael, com sede em Campo Grande
 
 Publicada no Diário Oficial nº 719, de 25 de novembro de 1981, página 29.
 
-Pedro Pedrossian, Governador do Estado de Mato Grosso do Sul, faço<br>
-saber que a Assembléia Legislativa decreta e eu sanciono a seguinte<br>
-Lei:<br>
-<br>
-Art. 1º - Fica declarado de Utilidade Pública para todos os<br>
-efeitos legais o Centro Espirita Ismael, com sede em Campo Grande.<br>
-<br>
-Art. 2º - Esta lei entrará em vigor na data de sua publicação.<br>
-<br>
-Campo Grande, 24 de novembro de 1.981.<br>
-<br>
-PEDRO PEDROSSIAN<br>
-Governador<br>
-<br>
-OSMAR FERREIRA DUTRA<br>
-Secretário de Estado para Assuntos da Casa Civil<br>
-<br>
-NELSON TRAD<br>
+Pedro Pedrossian, Governador do Estado de Mato Grosso do Sul, faço
+
+saber que a Assembléia Legislativa decreta e eu sanciono a seguinte
+
+Lei:
+
+Art. 1º - Fica declarado de Utilidade Pública para todos os
+
+efeitos legais o Centro Espirita Ismael, com sede em Campo Grande.
+
+Art. 2º - Esta lei entrará em vigor na data de sua publicação.
+
+Campo Grande, 24 de novembro de 1.981.
+
+PEDRO PEDROSSIAN
+
+Governador
+
+OSMAR FERREIRA DUTRA
+
+Secretário de Estado para Assuntos da Casa Civil
+
+NELSON TRAD
+
 Secretário de Estado de Justiça

@@ -1,7 +1,3 @@
-1
-
-###DEC-000708-0-000-22-12-1992@@@
-
 DECRETO N° 708, DE 22 DE DEZEMBRO DE 1992
 
 Promulga o Acordo de Cooperação Econômica, Comercial, Industrial, Tecnológica e Financeira entre o Governo da República Federativa do Brasil e o Governo dos Emirados Árabes Unidos, de 11.10.1988.

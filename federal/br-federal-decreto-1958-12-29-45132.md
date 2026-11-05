@@ -1,5 +1,3 @@
-###DEC-045132-0-000-29-12-1958@@@
-
 Decreto n° 45.132, de 29 de dezembro de 1958.
 
 Autoria o cidadão brasileiro Benevandro Moreira de Souza Lima a pesquisar manganês, ferro e associados, no município de Corumbá, Estado de Mato Grosso.

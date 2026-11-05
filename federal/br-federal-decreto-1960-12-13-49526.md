@@ -1,5 +1,3 @@
-###DEC-049526-0-000-13-12-1960@@@
-
 DECRETO Nº 49.526, DE 13 DE DEZEMBRO DE 1960.
 
 Autoriza a Centrais Elétricas do Rio das Contas S.A. a construir hipoteca a favor do Banco Nacional do Desenvolvimento Econômico.

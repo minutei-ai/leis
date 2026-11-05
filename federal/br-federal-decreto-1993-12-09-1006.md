@@ -1,7 +1,3 @@
-1
-
-###DEC-001006-0-000-09-12-1993@@@
-
 DECRETO N° 1.006, DE 9 DE DEZEMBRO DE 1993
 
 Institui Cadastro Informativo (CADIN) dos créditos de órgãos e entidades federais não quitados e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055614-0-000-21-01-1965@@@
-
 DECRETO Nº 55.614, de 21 de JANEIRO DE 1965.
 
 Declara de utilidade pública a Fundação Dona Mindoca Rennó Moreira, com sede em Santa Rita do Sapucai, Estado de Minas Gerais.

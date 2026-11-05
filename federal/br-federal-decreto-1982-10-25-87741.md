@@ -1,5 +1,3 @@
-###DEC-087741-0-000-25-10-1982@@@
-
 Decreto nº 87.741, de 25 de outubro de 1982
 
 Declara de utilidade pública as instituições que menciona.

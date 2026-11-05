@@ -1,5 +1,3 @@
-###DEC-080670-0-000-07-11-1977@@@
-
 Decreto nº 80.670, de 07 de novembro de 1977.
 
 Renova por 15 (quinze) anos a concessão outorgada à TV Globo Ltda. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

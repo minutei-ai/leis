@@ -1,5 +1,3 @@
-###DEL-007904-0-000-28-08-1945@@@
-
 DECRETO-LEI N. 7.904 – DE  28 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 5.000.000,00, à verba que especifica.

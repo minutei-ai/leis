@@ -1,5 +1,3 @@
-###DEC-060842-0-000-09-06-1967@@@
-
 DECRETO Nº 60.842, de 9 de junho de 1967.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a construir linha de transmissão.
@@ -27,8 +25,6 @@ Brasília, 9 de junho de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 José Costa Cavalcanti
-
-###DEC-060842-0-000-09-06-1967@@@RET01+++
 
 DECRETO Nº 60.842, DE 9 DE JUNHO DE 1967.
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-097706-0-000-03-05-1989@@@
-
 DECRETO N° 97.706, DE 03 DE MAIO DE 1989
 
 Prorroga o prazo de publicação dos atos de exoneração ou dispensa dos servi­dores que menciona e dá outras provi­dências.

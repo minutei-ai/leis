@@ -1,5 +1,3 @@
-###DEC-048695-0-000-04-08-1960@@@
-
 DECRETO Nº 48.695, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza a Rádio Cultura da Bahia S.A. a transferir sua estação da Ilha de Itaparica para a cidade de Salvador, Estado da Bahia.

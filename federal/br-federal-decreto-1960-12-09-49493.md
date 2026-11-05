@@ -1,5 +1,3 @@
-###DEC-049493-0-000-09-12-1960@@@
-
 DECRETO Nº 49.493, DE 9 DE DEZEMBRO DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Única de Extranumerário-Mensalista do Ministério da Educação e Cultura, para idêntica tabela do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-092445-0-000-06-03-1986@@@
-
 DECRETO Nº 92.445, DE 06 DE MARÇO DE 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado São Sebastião ou São Sebastião do Mosquito, compreendido na referida área, no Município de Goiás, no Estado de Goiás, e dá outras providências.

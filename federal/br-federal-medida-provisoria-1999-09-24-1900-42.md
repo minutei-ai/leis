@@ -1,5 +1,3 @@
-###MPV-001900-0-042-24-09-1999@@@
-
 Medida Provisória nº 1.900-42, de 24 de setembro de 1999.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

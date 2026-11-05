@@ -1,5 +1,3 @@
-###DEC-060038-0-000-11-01-1967@@@
-
 Decreto nº 60.038, de 11 de janeiro de 1967.
 
 Concede à Materiais de Construção Santa Luzia Ltda., autorização para funcionar como emprêsa de mineração.

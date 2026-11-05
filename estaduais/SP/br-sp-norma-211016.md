@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211016)<br>
-
 # DECRETO N° 69.581, DE 05 DE JUNHO DE 2025
 
 ### _Regulamenta o artigo 12 da Lei n.° 12.780, de 30 de novembro de 2007, que institui a Política Estadual de Educação Ambiental._

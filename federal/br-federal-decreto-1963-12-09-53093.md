@@ -1,5 +1,3 @@
-###DEC-053093-0-000-09-12-1963@@@
-
 DECRETO Nº 53.093, DE 9 DE DEZEMBRO DE 1963.
 
 Altera subconsignações a que se refere o Decreto nº 51.814, de 8 de março de 1963.

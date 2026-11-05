@@ -1,5 +1,3 @@
-###DEC-049017-0-000-04-10-1960@@@
-
 DECRETO Nº 49.017, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza a Cia. de Cimento Portland Goiás a lavrar calcáreo no município de Palmira de Goiás, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-048953-0-000-16-09-1960@@@
-
 Decreto nº 48.953, de 16 de setembro de 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 35.734, de 28-6-1954, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessário à construção do açude público SERRINHA, no Município de Serra Talhada, Estado de Pernambuco.

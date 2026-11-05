@@ -1,5 +1,3 @@
-###DEC-067925-0-000-22-12-1970@@@
-
 DECRETO Nº 67.925, DE 22 DE DEZEMBRO DE 1970.
 
 Redistribui cargo, com o respectivo ocupante, para o instituto Nacional de Colonização e Reforma Agrária, e dá outras providências.

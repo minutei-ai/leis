@@ -1,5 +1,3 @@
-###DEL-006386-0-000-30-03-1944@@@
-
 DECRETO-LEI N. 6.386 – DE 30 DE MARÇO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.177.600,00 para pagamento de fretes e seguros de locomotivas importadas para a Viação Férrea Federal Leste Brasileiro

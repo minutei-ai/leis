@@ -1,5 +1,3 @@
-###DEC-002530-0-000-26-03-1998@@@
-
 DECRETO Nº 2.530, DE 26 DE MARÇO DE 1998
 
 Acresce § 3º ao art. 5º do Decreto nº 2.264, de 27 de junho de 1997, que regulamenta a Lei nº 9.424, de 24 de dezembro de 1996, o âmbito federal.

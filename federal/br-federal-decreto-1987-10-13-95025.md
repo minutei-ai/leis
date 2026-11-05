@@ -1,5 +1,3 @@
-###DEC-095025-0-000-13-10-1987@@@
-
 DECRETO Nº 95.025, DE 13 DE OUTUBRO DE 1987
 
 Declara de utilidade pública as instituições que menciona.

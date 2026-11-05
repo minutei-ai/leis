@@ -1,5 +1,3 @@
-###DEC-053095-0-000-10-12-1963@@@
-
 DECRETO Nº 53.095, DE 10 de dezembro de 1963.
 
 Concede à Mineração Regoni Ltda., autorização para funcionar como emprêsa de mineração.

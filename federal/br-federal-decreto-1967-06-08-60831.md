@@ -1,5 +1,3 @@
-###DEC-060831-0-000-08-06-1967@@@
-
 DECRETO Nº 60.831, DE 8 DE JUNHO DE 1967.
 
 Inclui os cargos efetivos do Quadro de Pessoal do Instituto Nacional do Mate, extinto pelo Decreto-lei nº 281 de 28 de fevereiro de 1967, na Parte Suplementar do Quadro de Pessoal do Ministério da Agricultura e dá outras providências.

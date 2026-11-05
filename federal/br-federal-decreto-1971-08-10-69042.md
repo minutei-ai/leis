@@ -1,5 +1,3 @@
-###DEC-069042-0-000-10-08-1971@@@
-
 DECRETO Nº 69.042, DE 10 DE AGÔSTO DE 1971.
 
 Declara de utilidade pública a Casa da Criança, com sede em São Gonçalo do Sapucaí, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-066106-0-000-22-01-1970@@@
-
 DECRETO Nº 66.106 - DE 22 DE JANEIRO DE 1970
 
 Altera o artigo 2º do Decreto número 64.920, de 31 de julho de 1969, que criou Grupo de Trabalho para estudar o problema do excepcional.

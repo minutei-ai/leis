@@ -1,5 +1,3 @@
-###DEC-003770-0-000-12-03-2001@@@
-
 DECRETO Nº 3.770, de 12 de MARÇO de 2001(\*)
 
 Delega competência ao Ministro de Estado da Defesa para emitir autorizações de exportação de material de emprego militar.

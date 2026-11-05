@@ -1,5 +1,3 @@
-###DEL-001550-0-000-26-04-1977@@@
-
 # DECRETO-LEI Nº 1.550, DE 26 DE ABRIL DE 1977
 
 Reajusta os vencimentos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outra providências.

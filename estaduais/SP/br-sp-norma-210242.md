@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210242)<br>
-
 # DECRETO N° 69.046, DE 14 DE NOVEMBRO DE 2024
 
 ### _Dispõe sobre a evolução na carreira dos integrantes do Quadro do Magistério submetidos ao regime instituído pela Lei Complementar n.° 1.374, de 30 de março de 2022, sobre o estágio probatório, e dá providências correlatas._
@@ -8,17 +6,20 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposição Preliminar
 
 **Artigo 1° -** O estágio probatório dos integrantes do Quadro de Magistério e a evolução dos servidores submetidos ao regime instituído pela [Lei Complementar n.° 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860), nas modalidades desempenho e desenvolvimento, observarão o disposto neste decreto.
 
 **Parágrafo único -** O disposto neste decreto aplica-se também ao cargo ou função-atividade de Professor de Educação Básica I e Professor II regidos pela [Lei Complementar n.° 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860).
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Evolução
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 2° -** A evolução por desempenho e por desenvolvimento do servidor público dar-se-á conforme a trilha na qual o servidor se encontrar em exercício, nos termos do parágrafo único do artigo 5° e do artigo 14 da [Lei Complementar n° 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860), observados os interstícios mínimos previstos nos artigos 21 e 42 da mesma lei complementar.
@@ -55,7 +56,8 @@ V - ausências ao trabalho em virtude de consulta ou sessão de tratamento de sa
 
 **Parágrafo único -** Os efeitos pecuniários da evolução ocorrerão no mês subsequente à publicação da portaria de concessão, retroagindo sua incidência à data de vigência concessiva de que trata o "caput" deste artigo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Evolução por Desempenho
 
 **Artigo 6° -** O processo de evolução por desempenho do servidor será realizado por meio dos seguintes instrumentos:
@@ -120,7 +122,8 @@ II - poderá prever instrumentos adicionais ou substitutivos de avaliação, par
 
 **§ 2° -** Ato do Secretário da Educação estabelecerá, previamente ao processo de evolução por desempenho, as autoridades competentes para julgamento do recurso e a forma de seu processamento.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Evolução por Desenvolvimento
 
 **Artigo 10 -** A evolução por desenvolvimento ocorrerá:
@@ -163,7 +166,8 @@ a) os cursos superiores de licenciatura plena utilizados pela classe de docente 
 
 b) para a classe de suporte pedagógico aderente ao Plano de Carreira e Remuneração instituído pela [Lei Complementar n° 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860), os cursos de pedagogia ou pós-graduação utilizados anteriormente para obtenção de evolução funcional com fundamento na [Lei Complementar n° 836, de 30 de dezembro de 1997](https://www.al.sp.gov.br/norma/6190).
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Competências e Habilidades
 
 **Artigo 15 -** As competências e habilidades, para fins de evolução na carreira dos integrantes do Quadro do Magistério, ficam fixadas na conformidade dos Anexos VI a XIV deste decreto.
@@ -172,10 +176,12 @@ Das Competências e Habilidades
 
 **§ 2° -** Ato do Secretário da Educação poderá detalhar as competências e habilidades de que trata o "caput" deste artigo, bem como os mecanismos de avaliação.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Estágio Probatório
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições gerais
 
 **Artigo 16 -** Durante o estágio probatório, que compreende o período dos 3 (três) primeiros anos, correspondente a 1.095 (mil e noventa e cinco) dias de efetivo exercício, o integrante do Quadro do Magistério será submetido ao Curso Específico de Formação para Ingressantes e à Avaliação Especial de Desempenho.
@@ -192,14 +198,16 @@ I - no cargo em que o servidor tenha ingressado; ou
 
 II - na designação ou afastamento para o exercício de funções com atribuições inerentes ou correlatas a seu cargo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Curso Específico de Formação
 
 **Artigo 18 -** O Curso Específico de Formação para Ingressantes, parte integrante e obrigatória do estágio probatório, tem por finalidade orientar os ingressantes em cargos da classe de docente e de suporte pedagógico para o correto cumprimento das suas atribuições.
 
 **Parágrafo único -** O Curso Específico de Formação para Ingressantes será oferecido no período de duração do estágio probatório, com metodologia, etapas, carga horária e conteúdo definidos e regulamentados pela Secretaria da Educação.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Avaliação Especial de Desempenho
 
 **Artigo 19 -** A avaliação especial de desempenho é o conjunto de instrumentos periodicamente utilizados para o acompanhamento contínuo do desempenho do servidor durante o período de estágio probatório, a fim de verificar sua aptidão e capacidade para o exercício das atribuições inerentes ao seu cargo, considerando os seguintes aspectos:
@@ -266,7 +274,8 @@ IV - ter sua constituição e a designação do seu respectivo presidente public
 
 **Parágrafo único -** Os membros das comissões de que trata o "caput" deste artigo e o superior hierárquico a que se refere o § 1° do artigo 20 exercerão as atividades relativas ao acompanhamento e avaliação de estágio probatório sem prejuízo das atribuições do cargo ou função de que é titular.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Término do Estágio Probatório
 
 **Artigo 23 -** Decorrido o período de estágio probatório, o superior imediato ou a Comissão de Avaliação Especial de Desempenho, conforme a unidade de exercício do servidor, emitirá, no prazo de 90 (noventa) dias, parecer fundamentado, conclusivo e não vinculante sobre o desempenho do servidor avaliado, manifestando-se fundamentadamente pela confirmação ou não do servidor no cargo, com base nos resultados obtidos na Avaliação Especial de Desempenho e no Curso Específico de Formação para Ingressantes.
@@ -287,7 +296,8 @@ II - exonerar do cargo o servidor que, no decorrer do estágio probatório, não
 
 **Parágrafo único -** A decisão final de confirmação ou exoneração será publicada no Diário Oficial do Estado.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Disposições Finais
 
 **Artigo 25 -** O servidor aderente ao Plano de Carreira e Remuneração instituído pela [Lei Complementar n° 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860), em seu primeiro processo de evolução funcional, será submetido à avaliação de desempenho, conforme disposto no artigo 16 das Disposições Transitórias da mesma lei complementar.
@@ -318,81 +328,448 @@ Arthur Luis Pinho de Lima
 
 Renato Feder
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 3° deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Trilha</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Grau de Responsabilidade e Complexidade da Trilha</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Profissionais/Atuação do Profissional</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Regência</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Trilha principal e estruturante, constituída por uma trajetória de desenvolvimento do profissional especializado em atividades de ensino e de aprendizagem realizadas em interação direta com os estudantes, exigindo do docente conhecimentos técnico- científicos, práticas pedagógicas, habilidades de didática aplicada, engajamento e prática profissional com foco na melhoria da aprendizagem.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Professor de Ensino Fundamental e Médio, Professor de Educação Básica I e Professor II que possuem atuação direta com os estudantes, exercendo suas atividades: - Exclusivamente na sala de aula. - Em sala de aula e em projetos ou programas da Pasta. - Exclusivamente em projetos ou programas da Pasta.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Especialista Educacional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Trilha complementar, constituída por uma trajetória de desenvolvimento do profissional como especialista nas áreas de currículo, produção de materiais didáticos, planejamento, avaliação, tecnologia e implementação de políticas educacionais.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Professor de Ensino Fundamental e Médio, Professor de Educação Básica I e Professor II que atua nas seguintes funções: - Professor Especialista em Currículo. - Coordenador de Equipe Curricular.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Gestão Educacional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Trilha complementar, constituída por uma trajetória de desenvolvimento do profissional em competências e habilidades de gestão e liderança, conhecimentos de ferramentas gerenciais, gestão de processos, gestão de pessoas, monitoramento de indicadores e resultados organizacionais, formulação, implementação e avaliação de políticas educacionais, resolução de problemas e desafios de gestão educacional para o exercício de posições gerenciais.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1. Professor de Ensino Fundamental e Médio, Professor de Educação Básica I e Professor II que atua nas seguintes funções: - Coordenador de Gestão Pedagógica. - Coordenador de Gestão Pedagógica Geral. - Coordenador de Gestão Pedagógica por Área de Conhecimento. - Vice-Diretor Escolar. - Professor designado como Diretor. - Professor designado como Supervisor. - Professor afastado nos Órgãos Centrais ou Diretorias de Ensino. - Dirigente Regional de Ensino. - Coordenador. - Diretor de Departamento. - Diretor de Centro. - Diretor de Núcleo. 2. Diretor Escolar que atua nas seguintes funções: - Supervisor Educacional. - Dirigente Regional de Ensino. &nbsp; 3. Supervisor Educacional que atua como Dirigente Regional de Ensino. 4. Diretor Escolar 5. Supervisor Educacional.</td></tr></tbody></table>
+Trilha
 
-#### ANEXO II - Trilha de Regência<br>
+Grau de Responsabilidade e Complexidade da Trilha
+
+Profissionais/Atuação do Profissional
+
+Regência
+
+Trilha principal e estruturante, constituída por uma trajetória de desenvolvimento do profissional especializado em atividades de ensino e de aprendizagem realizadas em interação direta com os estudantes, exigindo do docente conhecimentos técnico- científicos, práticas pedagógicas, habilidades de didática aplicada, engajamento e prática profissional com foco na melhoria da aprendizagem.
+
+Professor de Ensino Fundamental e Médio, Professor de Educação Básica I e Professor II que possuem atuação direta com os estudantes, exercendo suas atividades: - Exclusivamente na sala de aula. - Em sala de aula e em projetos ou programas da Pasta. - Exclusivamente em projetos ou programas da Pasta.
+
+Especialista Educacional
+
+Trilha complementar, constituída por uma trajetória de desenvolvimento do profissional como especialista nas áreas de currículo, produção de materiais didáticos, planejamento, avaliação, tecnologia e implementação de políticas educacionais.
+
+Professor de Ensino Fundamental e Médio, Professor de Educação Básica I e Professor II que atua nas seguintes funções: - Professor Especialista em Currículo. - Coordenador de Equipe Curricular.
+
+Gestão Educacional
+
+Trilha complementar, constituída por uma trajetória de desenvolvimento do profissional em competências e habilidades de gestão e liderança, conhecimentos de ferramentas gerenciais, gestão de processos, gestão de pessoas, monitoramento de indicadores e resultados organizacionais, formulação, implementação e avaliação de políticas educacionais, resolução de problemas e desafios de gestão educacional para o exercício de posições gerenciais.
+
+1. Professor de Ensino Fundamental e Médio, Professor de Educação Básica I e Professor II que atua nas seguintes funções: - Coordenador de Gestão Pedagógica. - Coordenador de Gestão Pedagógica Geral. - Coordenador de Gestão Pedagógica por Área de Conhecimento. - Vice-Diretor Escolar. - Professor designado como Diretor. - Professor designado como Supervisor. - Professor afastado nos Órgãos Centrais ou Diretorias de Ensino. - Dirigente Regional de Ensino. - Coordenador. - Diretor de Departamento. - Diretor de Centro. - Diretor de Núcleo. 2. Diretor Escolar que atua nas seguintes funções: - Supervisor Educacional. - Dirigente Regional de Ensino.   3. Supervisor Educacional que atua como Dirigente Regional de Ensino. 4. Diretor Escolar 5. Supervisor Educacional.
+
+#### ANEXO II - Trilha de Regência
+
 a que se refere o artigo 7° deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Referências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Interstício</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Grau satisfatório</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L1 para a L2 ou M2 ou D2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L3 ou M3 ou D3 para a L4 ou M4 ou D4</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L5 ou M5 ou D5 para a L6 ou M6 ou D6</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L7 ou M7 ou D7 para a L8 ou M8 ou D8</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">75%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L10 ou M10 ou D10 para a L11 ou M11 ou D11</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">80%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L13 ou M13 ou D13 para a L14 ou M14 ou D14</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">85%</td></tr></tbody></table>
+Referências
 
-#### ANEXO III - Trilha de Especialista Educacional<br>
+Interstício
+
+Grau satisfatório
+
+Da L1 para a L2 ou M2 ou D2
+
+3 anos
+
+70%
+
+Da L3 ou M3 ou D3 para a L4 ou M4 ou D4
+
+2 anos
+
+70%
+
+Da L5 ou M5 ou D5 para a L6 ou M6 ou D6
+
+2 anos
+
+70%
+
+Da L7 ou M7 ou D7 para a L8 ou M8 ou D8
+
+2 anos
+
+75%
+
+Da L10 ou M10 ou D10 para a L11 ou M11 ou D11
+
+2 anos
+
+80%
+
+Da L13 ou M13 ou D13 para a L14 ou M14 ou D14
+
+2 anos
+
+85%
+
+#### ANEXO III - Trilha de Especialista Educacional
+
 a que se refere o artigo 7° deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Referências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Interstício</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Grau satisfatório</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L1 para a L2 ou M2 ou D2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L3 ou M3 ou D3 para a L4 ou M4 ou D4</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L5 ou M5 ou D5 para a L6 ou M6 ou D6</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L7 ou M7 ou D7 para a L8 ou M8 ou D8</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">75%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L10 ou M10 ou D10 para a L11 ou M11 ou D11</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">80%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L13 ou M13 ou D13 para a L14 ou M14 ou D14</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">85%</td></tr></tbody></table>
+Referências
 
-#### ANEXO IV - Trilha de Gestão Educacional<br>
+Interstício
+
+Grau satisfatório
+
+Da L1 para a L2 ou M2 ou D2
+
+3 anos
+
+70%
+
+Da L3 ou M3 ou D3 para a L4 ou M4 ou D4
+
+2 anos
+
+70%
+
+Da L5 ou M5 ou D5 para a L6 ou M6 ou D6
+
+2 anos
+
+70%
+
+Da L7 ou M7 ou D7 para a L8 ou M8 ou D8
+
+2 anos
+
+75%
+
+Da L10 ou M10 ou D10 para a L11 ou M11 ou D11
+
+2 anos
+
+80%
+
+Da L13 ou M13 ou D13 para a L14 ou M14 ou D14
+
+2 anos
+
+85%
+
+#### ANEXO IV - Trilha de Gestão Educacional
+
 a que se refere o artigo 7° deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Referências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Interstício</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Grau satisfatório</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L1 para a L2 ou M2 ou D2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L3 ou M3 ou D3 para a L4 ou M4 ou D4</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L5 ou M5 ou D5 para a L6 ou M6 ou D6</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L7 ou M7 ou D7 para a L8 ou M8 ou D8</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">75%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L10 ou M10 ou D10 para a L11 ou M11 ou D11</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">80%</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L13 ou M13 ou D13 para a L14 ou M14 ou D14</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">85%</td></tr></tbody></table>
+Referências
 
-#### ANEXO V<br>
+Interstício
+
+Grau satisfatório
+
+Da L1 para a L2 ou M2 ou D2
+
+3 anos
+
+70%
+
+Da L3 ou M3 ou D3 para a L4 ou M4 ou D4
+
+2 anos
+
+70%
+
+Da L5 ou M5 ou D5 para a L6 ou M6 ou D6
+
+2 anos
+
+70%
+
+Da L7 ou M7 ou D7 para a L8 ou M8 ou D8
+
+2 anos
+
+75%
+
+Da L10 ou M10 ou D10 para a L11 ou M11 ou D11
+
+2 anos
+
+80%
+
+Da L13 ou M13 ou D13 para a L14 ou M14 ou D14
+
+2 anos
+
+85%
+
+#### ANEXO V
+
 a que se refere o artigo 13 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Referências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Interstício</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pontuação Mínima</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L2 ou M2 ou D2 para a L3 ou M3 ou D3</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70 pontos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L4 ou M4 ou D4 para a L5 ou M5 ou D5</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70 pontos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L6 ou M6 ou D6 para a L7 ou M7 ou D7</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70 pontos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L8 ou M8 ou D8 para a L9 ou M9 ou D9</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">70 pontos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L9 ou M9 ou D9 para a L10 ou M10 ou D10</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">75 pontos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L11 ou M11 ou D11 para a L12 ou M12 ou D12</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">80 pontos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L12 ou M12 ou D12 para a L13 ou M13 ou D13</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">80 pontos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Da L14 ou M14 ou D14 para a L15 ou M15 ou D15</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2 anos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">85 pontos</td></tr></tbody></table>
+Referências
 
-#### ANEXO VI<br>
-Competências e Habilidades do Cargo de Professor de Ensino Fundamental e Médio, Professor de Educação Básica I e Professor II<br>
+Interstício
+
+Pontuação Mínima
+
+Da L2 ou M2 ou D2 para a L3 ou M3 ou D3
+
+2 anos
+
+70 pontos
+
+Da L4 ou M4 ou D4 para a L5 ou M5 ou D5
+
+2 anos
+
+70 pontos
+
+Da L6 ou M6 ou D6 para a L7 ou M7 ou D7
+
+2 anos
+
+70 pontos
+
+Da L8 ou M8 ou D8 para a L9 ou M9 ou D9
+
+2 anos
+
+70 pontos
+
+Da L9 ou M9 ou D9 para a L10 ou M10 ou D10
+
+2 anos
+
+75 pontos
+
+Da L11 ou M11 ou D11 para a L12 ou M12 ou D12
+
+2 anos
+
+80 pontos
+
+Da L12 ou M12 ou D12 para a L13 ou M13 ou D13
+
+2 anos
+
+80 pontos
+
+Da L14 ou M14 ou D14 para a L15 ou M15 ou D15
+
+2 anos
+
+85 pontos
+
+#### ANEXO VI
+
+Competências e Habilidades do Cargo de Professor de Ensino Fundamental e Médio, Professor de Educação Básica I e Professor II
+
 a que se refere o artigo 15 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Conhecimento Profissional: envolve domínio sobre o componente curricular de sua atuação e como se dá a aprendizagem.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Dominar o conteúdo (objeto de conhecimento) do seu componente curricular e as interfaces existentes entre as áreas do conhecimento.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. -<span style="background-color:rgb(255,255,255);color:rgb(51,51,51);"> </span>Demonstrar conhecimentos sobre as competências e habilidades do seu componente curricular e como se inter-relacionam com as das demais áreas e componentes, de forma alinhada com o currículo paulista.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Prática Profissional: envolve planejar e aplicar diferentes metodologias para tornar as aulas dinâmicas e atrativas, promovendo a aprendizagem dos estudantes e a autoavaliação da prática docente.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Utilizar diferentes estratégias e metodologias para tornar a aprendizagem dinâmica, significativa e que faça sentido para o estudante.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. -<span style="background-color:rgb(255,255,255);color:rgb(51,51,51);"> </span>Saber escolher e aplicar as diferentes estratégias e metodologias conforme o objetivo de aprendizagem de cada conteúdo, especificidades dos estudantes e a realidade local.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Engajamento Profissional: envolve o comprometimento entre o trabalho do professor, a instituição e a comunidade escolar.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C3. Demonstrar postura democrática-participativa, ética e comprometida com o projeto pedagógico da escola, as políticas educacionais da Secretaria e com o seu desenvolvimento profissional.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H3. - Atuar de forma engajada, colaborativa, proativa, empática e solidária com a comunidade escolar promovendo um ambiente acolhedor e favorável à aprendizagem.</td></tr></tbody></table>
+Dimensão Profissional
 
-#### ANEXO VII<br>
-Competências e Habilidades para a função de Professor Especialista em Currículo<br>
+Competências
+
+Habilidades
+
+Conhecimento Profissional: envolve domínio sobre o componente curricular de sua atuação e como se dá a aprendizagem.
+
+C1. Dominar o conteúdo (objeto de conhecimento) do seu componente curricular e as interfaces existentes entre as áreas do conhecimento.
+
+H1. - Demonstrar conhecimentos sobre as competências e habilidades do seu componente curricular e como se inter-relacionam com as das demais áreas e componentes, de forma alinhada com o currículo paulista.
+
+Prática Profissional: envolve planejar e aplicar diferentes metodologias para tornar as aulas dinâmicas e atrativas, promovendo a aprendizagem dos estudantes e a autoavaliação da prática docente.
+
+C2. Utilizar diferentes estratégias e metodologias para tornar a aprendizagem dinâmica, significativa e que faça sentido para o estudante.
+
+H2. - Saber escolher e aplicar as diferentes estratégias e metodologias conforme o objetivo de aprendizagem de cada conteúdo, especificidades dos estudantes e a realidade local.
+
+Engajamento Profissional: envolve o comprometimento entre o trabalho do professor, a instituição e a comunidade escolar.
+
+C3. Demonstrar postura democrática-participativa, ética e comprometida com o projeto pedagógico da escola, as políticas educacionais da Secretaria e com o seu desenvolvimento profissional.
+
+H3. - Atuar de forma engajada, colaborativa, proativa, empática e solidária com a comunidade escolar promovendo um ambiente acolhedor e favorável à aprendizagem.
+
+#### ANEXO VII
+
+Competências e Habilidades para a função de Professor Especialista em Currículo
+
 a que se refere o artigo 15 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Resultado Pedagógico: envolve domínio sobre o Currículo Paulista e sobre os processos de formação continuada para assegurar a qualidade do processo de ensino e de aprendizagem.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Atuar na elaboração e execução do plano de intervenção pedagógica da Diretoria de Ensino e apoiar e acompanhar o planejamento, replanejamento e implementação das ações pedagógicas das escolas.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. - Acompanhar, orientar, monitorar e avaliar a execução dos Programas e Projetos da Secretaria nas escolas.- Analisar os dados e resultados de avaliações e da frequência dos estudantes e propor medidas para a melhoria dos indicadores. - Realizar ações de formação continuada para os coordenadores de gestão pedagógica, visando a melhoria do desempenho dos professores e dos estudantes.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Comportamento Institucional: envolve o ato de zelar pelo ambiente escolar para garantir a implementação das ações da Diretoria de Ensino, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Planejar, implementar, acompanhar, monitorar e avaliar as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. -<span style="background-color:rgb(255,255,255);color:rgb(51,51,51);"> </span>Atuar na elaboração das ações da Diretoria de Ensino, considerando as metas de curto, médio e longo prazos e as estratégias para alcançá-las. -<span style="background-color:rgb(255,255,255);color:rgb(51,51,51);"> </span>Acompanhar e orientar o Coordenador de Gestão Pedagógica e os professores para garantir a regularidade do funcionamento da escola. - Acompanhar e orientar o Coordenador de Gestão Pedagógica e os professores quanto à implementação de ações que visam a melhoria do clima escolar e o enfrentamento a violência na escola.</td></tr></tbody></table>
+Dimensão Profissional
 
-#### ANEXO VIII<br>
-Competências e Habilidades para a função de Coordenador de Equipe Curricular<br>
+Competências
+
+Habilidades
+
+Resultado Pedagógico: envolve domínio sobre o Currículo Paulista e sobre os processos de formação continuada para assegurar a qualidade do processo de ensino e de aprendizagem.
+
+C1. Atuar na elaboração e execução do plano de intervenção pedagógica da Diretoria de Ensino e apoiar e acompanhar o planejamento, replanejamento e implementação das ações pedagógicas das escolas.
+
+H1. - Acompanhar, orientar, monitorar e avaliar a execução dos Programas e Projetos da Secretaria nas escolas.- Analisar os dados e resultados de avaliações e da frequência dos estudantes e propor medidas para a melhoria dos indicadores. - Realizar ações de formação continuada para os coordenadores de gestão pedagógica, visando a melhoria do desempenho dos professores e dos estudantes.
+
+Comportamento Institucional: envolve o ato de zelar pelo ambiente escolar para garantir a implementação das ações da Diretoria de Ensino, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.
+
+C2. Planejar, implementar, acompanhar, monitorar e avaliar as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.
+
+H2. - Atuar na elaboração das ações da Diretoria de Ensino, considerando as metas de curto, médio e longo prazos e as estratégias para alcançá-las. - Acompanhar e orientar o Coordenador de Gestão Pedagógica e os professores para garantir a regularidade do funcionamento da escola. - Acompanhar e orientar o Coordenador de Gestão Pedagógica e os professores quanto à implementação de ações que visam a melhoria do clima escolar e o enfrentamento a violência na escola.
+
+#### ANEXO VIII
+
+Competências e Habilidades para a função de Coordenador de Equipe Curricular
+
 a que se refere o artigo 15 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Resultado Pedagógico: envolve domínio sobre o Currículo Paulista e sobre as metodologias e estratégias de formação continuada para assegurar a qualidade do processo de ensino e de aprendizagem.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Atuar na elaboração e execução do plano de intervenção pedagógica da Diretoria de Ensino e apoiar, coordenar, acompanhar, monitorar e avaliar o planejamento e a implementação das ações pedagógicas realizadas pela equipe do Núcleo Pedagógico.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. - Organizar, acompanhar, orientar, monitorar e avaliar a execução dos Programas e Projetos da Secretaria nas escolas. - Planejar e desenvolver plano de formação e de acompanhamento junto aos Professores Especialistas em Currículo. - Analisar os dados e resultados de avaliações e da frequência dos estudantes e propor, junto com a equipe do Núcleo Pedagógico, medidas para a melhoria dos indicadores. - Promover a troca de experiências e o compartilhamento do conhecimento entre os membros da equipe do Núcleo Pedagógico, visando o aprimoramento dos trabalhos e o desenvolvimento desses profissionais.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Comportamento Institucional: envolve o ato de liderar, gerenciar e zelar pela implementação das ações da Diretoria de Ensino, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Planejar, implementar, acompanhar, monitorar e avaliar as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. - Atuar na coordenação, gerenciamento e implementação das ações da Diretoria de Ensino, considerando as metas de curto, médio e longo prazos e as estratégias para alcançá-las. - Acompanhar, orientar e coordenar a equipe do Núcleo Pedagógico para promover ações pedagógicas com vistas a garantir a regularidade do funcionamento da escola. - Acompanhar e orientar a equipe do Núcleo Pedagógico com foco na implementação de ações que visam a melhoria do clima escolar e o enfrentamento a violência na escola.</td></tr></tbody></table>
+Dimensão Profissional
 
-#### ANEXO IX<br>
-Competências e Habilidades da função de Coordenador de Gestão Pedagógica, Coordenador de Gestão Pedagógica Geral e Coordenador de Gestão Pedagógica por Área de Conhecimento<br>
+Competências
+
+Habilidades
+
+Resultado Pedagógico: envolve domínio sobre o Currículo Paulista e sobre as metodologias e estratégias de formação continuada para assegurar a qualidade do processo de ensino e de aprendizagem.
+
+C1. Atuar na elaboração e execução do plano de intervenção pedagógica da Diretoria de Ensino e apoiar, coordenar, acompanhar, monitorar e avaliar o planejamento e a implementação das ações pedagógicas realizadas pela equipe do Núcleo Pedagógico.
+
+H1. - Organizar, acompanhar, orientar, monitorar e avaliar a execução dos Programas e Projetos da Secretaria nas escolas. - Planejar e desenvolver plano de formação e de acompanhamento junto aos Professores Especialistas em Currículo. - Analisar os dados e resultados de avaliações e da frequência dos estudantes e propor, junto com a equipe do Núcleo Pedagógico, medidas para a melhoria dos indicadores. - Promover a troca de experiências e o compartilhamento do conhecimento entre os membros da equipe do Núcleo Pedagógico, visando o aprimoramento dos trabalhos e o desenvolvimento desses profissionais.
+
+Comportamento Institucional: envolve o ato de liderar, gerenciar e zelar pela implementação das ações da Diretoria de Ensino, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.
+
+C2. Planejar, implementar, acompanhar, monitorar e avaliar as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.
+
+H2. - Atuar na coordenação, gerenciamento e implementação das ações da Diretoria de Ensino, considerando as metas de curto, médio e longo prazos e as estratégias para alcançá-las. - Acompanhar, orientar e coordenar a equipe do Núcleo Pedagógico para promover ações pedagógicas com vistas a garantir a regularidade do funcionamento da escola. - Acompanhar e orientar a equipe do Núcleo Pedagógico com foco na implementação de ações que visam a melhoria do clima escolar e o enfrentamento a violência na escola.
+
+#### ANEXO IX
+
+Competências e Habilidades da função de Coordenador de Gestão Pedagógica, Coordenador de Gestão Pedagógica Geral e Coordenador de Gestão Pedagógica por Área de Conhecimento
+
 a que se refere o artigo 15 do deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações pedagógicas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Atuar como gestor pedagógico da escola ao planejar, subsidiar, acompanhar, monitorar e avaliar os processos de ensino e de aprendizagem, bem como o desempenho de professores e estudantes.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. - Planejar, orientar, acompanhar e avaliar a prática docente, implementando ações de melhorias quando necessário. - Acompanhar e monitorar a frequência e aprendizagem dos estudantes, com vistas às possíveis intervenções. - Realizar a formação continuada dos professores.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Comportamento Institucional: envolve o ato de liderar e zelar pelo ambiente escolar para garantir a implementação das ações da escola, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Realizar a gestão pedagógica da escola para que as atividades estejam em consonância com as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito aprendizagens.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. - Realizar a gestão pedagógica da escola para garantir que as atividades sejam desenvolvidas com eficácia e eficiência. - Estimular e envolver os professores para promover o engajamento e a corresponsabilização nas atividades desenvolvidas na escola. - Orientar, apoiar e desenvolver os professores para que as entregas sejam qualificadas, promovendo uma cultura colaborativa no ambiente escolar.</td></tr></tbody></table>
+Dimensão Profissional
 
-#### ANEXO X<br>
-Competências e Habilidades da função de Vice-Diretor Escolar<br>
+Competências
+
+Habilidades
+
+Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações pedagógicas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.
+
+C1. Atuar como gestor pedagógico da escola ao planejar, subsidiar, acompanhar, monitorar e avaliar os processos de ensino e de aprendizagem, bem como o desempenho de professores e estudantes.
+
+H1. - Planejar, orientar, acompanhar e avaliar a prática docente, implementando ações de melhorias quando necessário. - Acompanhar e monitorar a frequência e aprendizagem dos estudantes, com vistas às possíveis intervenções. - Realizar a formação continuada dos professores.
+
+Comportamento Institucional: envolve o ato de liderar e zelar pelo ambiente escolar para garantir a implementação das ações da escola, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.
+
+C2. Realizar a gestão pedagógica da escola para que as atividades estejam em consonância com as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito aprendizagens.
+
+H2. - Realizar a gestão pedagógica da escola para garantir que as atividades sejam desenvolvidas com eficácia e eficiência. - Estimular e envolver os professores para promover o engajamento e a corresponsabilização nas atividades desenvolvidas na escola. - Orientar, apoiar e desenvolver os professores para que as entregas sejam qualificadas, promovendo uma cultura colaborativa no ambiente escolar.
+
+#### ANEXO X
+
+Competências e Habilidades da função de Vice-Diretor Escolar
+
 a que se refere o artigo 15 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações administrativas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Realizar a gestão material e patrimonial da escola, além de auxiliar a direção quanto aos recursos financeiros de forma a assegurar o bom funcionamento da escola e a viabilização das ações pedagógicas.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. - Gerenciar a execução dos serviços de limpeza e merenda. - Acompanhar e zelar pelo fornecimento e utilização adequada dos materiais permanentes e de consumo. - Atuar para conservar o patrimônio escolar. - Implementar ações com a equipe escolar para que os registros dos diários sejam realizados dentro do prazo esperado.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Comportamento Institucional: envolve o ato de implementar as políticas educacionais da Secretaria, garantindo a eficácia, eficiência, efetividade e relevância das ações com vistas a melhoria da qualidade educacional.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Promover ações que zelem pela segurança na escola e pela melhoria da convivência, do clima escolar e dos conflitos presentes nas relações interpessoais existentes na escola.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. - Planejar, organizar e implementar atividades e estratégias que promovam um clima escolar positivo. - Mapear os fatores e indicadores de riscos sociais e vulnerabilidade no âmbito da unidade escolar e seu entorno, propondo ações de intervenção e ajustes. - Promover uma rede de apoio e a participação da família na vida escolar dos estudantes.</td></tr></tbody></table>
+Dimensão Profissional
 
-#### ANEXO XI<br>
-Competências e Habilidades do integrante do Quadro do Magistério (QM) afastado ou nomeado, ou designado em cargo de comissão nos Órgãos Centrais, ou Diretoria de Ensino<br>
+Competências
+
+Habilidades
+
+Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações administrativas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.
+
+C1. Realizar a gestão material e patrimonial da escola, além de auxiliar a direção quanto aos recursos financeiros de forma a assegurar o bom funcionamento da escola e a viabilização das ações pedagógicas.
+
+H1. - Gerenciar a execução dos serviços de limpeza e merenda. - Acompanhar e zelar pelo fornecimento e utilização adequada dos materiais permanentes e de consumo. - Atuar para conservar o patrimônio escolar. - Implementar ações com a equipe escolar para que os registros dos diários sejam realizados dentro do prazo esperado.
+
+Comportamento Institucional: envolve o ato de implementar as políticas educacionais da Secretaria, garantindo a eficácia, eficiência, efetividade e relevância das ações com vistas a melhoria da qualidade educacional.
+
+C2. Promover ações que zelem pela segurança na escola e pela melhoria da convivência, do clima escolar e dos conflitos presentes nas relações interpessoais existentes na escola.
+
+H2. - Planejar, organizar e implementar atividades e estratégias que promovam um clima escolar positivo. - Mapear os fatores e indicadores de riscos sociais e vulnerabilidade no âmbito da unidade escolar e seu entorno, propondo ações de intervenção e ajustes. - Promover uma rede de apoio e a participação da família na vida escolar dos estudantes.
+
+#### ANEXO XI
+
+Competências e Habilidades do integrante do Quadro do Magistério (QM) afastado ou nomeado, ou designado em cargo de comissão nos Órgãos Centrais, ou Diretoria de Ensino
+
 a que se refere o artigo 15 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pedagógica- Administrativa: envolve coordenar, realizar e gerir as ações assegurando a qualidade dos processos e procedimentos e o atendimento aos princípios básicos da administração pública.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Atuar na elaboração e implementação do planejamento estratégico e na articulação das ações administrativas para a viabilização e atendimento das necessidades pedagógicas promovendo a melhoria contínua dos processos, procedimentos e entregas.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. - Planejar e elaborar coletivamente as ações com base em dados e evidências visando à melhoria dos resultados. - Executar, acompanhar, monitorar e avaliar as atividades com eficácia e eficiência. - Prever com antecipação os desafios, reavaliando posicionamentos por meio da implementação de ações corretivas para a melhoria dos resultados.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Comportamento Institucional: envolve o ato de liderar para a implementação das políticas educacionais da Secretaria, garantindo a eficácia, eficiência, efetividade e relevância das ações com vistas a melhoria da qualidade educacional.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Implementar a política educacional compreendendo o contexto, a natureza e as especificidades das demandas inerentes ao local de atuação para assegurar o atendimento aos interesses e necessidade da sociedade em geral.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. - Analisar cenários e definir prioridades para tomada de decisão, para alcançar os objetivos, metas e resultados almejados pela instituição. - Monitorar e Avaliar as ações desenvolvidas para obter entregas qualificadas. - Acompanhar e orientar os profissionais da rede, identificando as necessidades e fornecendo suporte necessário para o desenvolvimento das atividades.</td></tr></tbody></table>
+Dimensão Profissional
 
-#### ANEXO XII<br>
-Competências e Habilidades do Cargo de Diretor Escolar<br>
+Competências
+
+Habilidades
+
+Pedagógica- Administrativa: envolve coordenar, realizar e gerir as ações assegurando a qualidade dos processos e procedimentos e o atendimento aos princípios básicos da administração pública.
+
+C1. Atuar na elaboração e implementação do planejamento estratégico e na articulação das ações administrativas para a viabilização e atendimento das necessidades pedagógicas promovendo a melhoria contínua dos processos, procedimentos e entregas.
+
+H1. - Planejar e elaborar coletivamente as ações com base em dados e evidências visando à melhoria dos resultados. - Executar, acompanhar, monitorar e avaliar as atividades com eficácia e eficiência. - Prever com antecipação os desafios, reavaliando posicionamentos por meio da implementação de ações corretivas para a melhoria dos resultados.
+
+Comportamento Institucional: envolve o ato de liderar para a implementação das políticas educacionais da Secretaria, garantindo a eficácia, eficiência, efetividade e relevância das ações com vistas a melhoria da qualidade educacional.
+
+C2. Implementar a política educacional compreendendo o contexto, a natureza e as especificidades das demandas inerentes ao local de atuação para assegurar o atendimento aos interesses e necessidade da sociedade em geral.
+
+H2. - Analisar cenários e definir prioridades para tomada de decisão, para alcançar os objetivos, metas e resultados almejados pela instituição. - Monitorar e Avaliar as ações desenvolvidas para obter entregas qualificadas. - Acompanhar e orientar os profissionais da rede, identificando as necessidades e fornecendo suporte necessário para o desenvolvimento das atividades.
+
+#### ANEXO XII
+
+Competências e Habilidades do Cargo de Diretor Escolar
+
 a que se refere o artigo 15 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações pedagógicas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Conduzir o planejamento pedagógico e apoiar o coordenador pedagógico e os professores no processo de ensino e de aprendizagem.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. - Elaborar, implementar e avaliar o plano de ação da escola. - Coordenar, acompanhar e avaliar a implementação do currículo, mediante a observação de sala de aula e análise dos indicadores e de resultados de avaliação para assegurar as aprendizagens dos estudantes. - Monitorar a frequência dos estudantes e a participação nas avaliações, promovendo ações de engajamento junto à comunidade escolar.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Comportamento Institucional: envolve o ato de liderar e zelar pelo ambiente escolar para garantir a implementação das ações da escola, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Realizar a gestão escolar para que as atividades estejam em consonância com as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. - Realizar a gestão administrativa e financeira da escola para garantir a regularidade do funcionamento da escola. - Realizar a gestão de pessoas promovendo o engajamento e a corresponsabilização da comunidade escolar. - Orientar, apoiar e desenvolver a equipe escolar para que as entregas sejam qualificadas, promovendo uma cultura colaborativa no ambiente escolar.</td></tr></tbody></table>
+Dimensão Profissional
 
-#### ANEXO XIII<br>
-Competências e Habilidades do Cargo de Supervisor Educacional<br>
+Competências
+
+Habilidades
+
+Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações pedagógicas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.
+
+C1. Conduzir o planejamento pedagógico e apoiar o coordenador pedagógico e os professores no processo de ensino e de aprendizagem.
+
+H1. - Elaborar, implementar e avaliar o plano de ação da escola. - Coordenar, acompanhar e avaliar a implementação do currículo, mediante a observação de sala de aula e análise dos indicadores e de resultados de avaliação para assegurar as aprendizagens dos estudantes. - Monitorar a frequência dos estudantes e a participação nas avaliações, promovendo ações de engajamento junto à comunidade escolar.
+
+Comportamento Institucional: envolve o ato de liderar e zelar pelo ambiente escolar para garantir a implementação das ações da escola, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.
+
+C2. Realizar a gestão escolar para que as atividades estejam em consonância com as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.
+
+H2. - Realizar a gestão administrativa e financeira da escola para garantir a regularidade do funcionamento da escola. - Realizar a gestão de pessoas promovendo o engajamento e a corresponsabilização da comunidade escolar. - Orientar, apoiar e desenvolver a equipe escolar para que as entregas sejam qualificadas, promovendo uma cultura colaborativa no ambiente escolar.
+
+#### ANEXO XIII
+
+Competências e Habilidades do Cargo de Supervisor Educacional
+
 a que se refere o artigo 15 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações pedagógicas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Dar suporte aos gestores escolares para a implementação de ações pedagógicas que visem a melhoria da aprendizagem e da frequência dos estudantes.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. - Acompanhar, orientar, monitorar e avaliar a execução dos Programas e Projetos da Secretaria nas escolas. - Analisar os dados e resultados de avaliações e da frequência dos estudantes e propor medidas para a melhoria dos indicadores. - Realizar ações de formação continuada para os gestores escolares para a melhoria das atividades desenvolvidas na escola.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Comportamento Institucional: envolve o ato de liderar e zelar pelo ambiente escolar para garantir a implementação das ações da Diretoria de Ensino, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Planejar, implementar, acompanhar, monitorar e avaliar as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. - Atuar na elaboração das ações da Diretoria de Ensino, considerando as metas de curto, médio e longo prazos e as estratégias para alcançá-las. - Acompanhar e orientar a gestão escolar para garantir a regularidade do funcionamento da escola. - Acompanhar e orientar a gestão da escola quanto à implementação de ações que visam a melhoria do clima escolar e o enfrentamento a violência na escola.</td></tr></tbody></table>
+Dimensão Profissional
 
-#### ANEXO XIV<br>
-Competências e Habilidades do Cargo de Dirigente Regional de Ensino<br>
+Competências
+
+Habilidades
+
+Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações pedagógicas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.
+
+C1. Dar suporte aos gestores escolares para a implementação de ações pedagógicas que visem a melhoria da aprendizagem e da frequência dos estudantes.
+
+H1. - Acompanhar, orientar, monitorar e avaliar a execução dos Programas e Projetos da Secretaria nas escolas. - Analisar os dados e resultados de avaliações e da frequência dos estudantes e propor medidas para a melhoria dos indicadores. - Realizar ações de formação continuada para os gestores escolares para a melhoria das atividades desenvolvidas na escola.
+
+Comportamento Institucional: envolve o ato de liderar e zelar pelo ambiente escolar para garantir a implementação das ações da Diretoria de Ensino, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.
+
+C2. Planejar, implementar, acompanhar, monitorar e avaliar as políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.
+
+H2. - Atuar na elaboração das ações da Diretoria de Ensino, considerando as metas de curto, médio e longo prazos e as estratégias para alcançá-las. - Acompanhar e orientar a gestão escolar para garantir a regularidade do funcionamento da escola. - Acompanhar e orientar a gestão da escola quanto à implementação de ações que visam a melhoria do clima escolar e o enfrentamento a violência na escola.
+
+#### ANEXO XIV
+
+Competências e Habilidades do Cargo de Dirigente Regional de Ensino
+
 a que se refere o artigo 15 deste decreto
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dimensão Profissional</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Competências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Habilidades</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações pedagógicas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C1. Coordenar o trabalho pedagógico realizado pelas equipes da Diretoria de Ensino para garantir que as unidades escolares recebam todo apoio e orientação necessária para a realização de suas atividades.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H1. - Organizar, facilitar e acompanhar a elaboração, e o monitoramento das ações voltadas à melhoria do ensino e da aprendizagem dos estudantes. - Monitorar o rendimento e a frequência dos estudantes nas escolas de sua jurisdição, implementando ações para a melhoria dos resultados esperados. - Acompanhar e monitorar o andamento das ações pedagógicas, em especial quanto à atuação da Equipe de Supervisão e do Núcleo Pedagógico, com foco em resultado e, quando necessário, intervindo com reformulações.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Comportamento Institucional: envolve o ato de liderar e zelar pelo ambiente escolar para garantir a implementação das ações da Diretoria de Ensino, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C2. Coordenar o planejamento, implementação, acompanhamento, monitoramento e avaliação das políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">H2. - Liderar e articular com as equipes da Diretoria de Ensino as ações, considerando as metas de curto, médio e longo prazos e as estratégias para alcançá-las. - Acompanha e orienta a equipe da Diretoria de Ensino para que auxiliem com eficácia e eficiência os profissionais das unidades escolares no desenvolvimento das atividades. - Promover novas propostas e incentivar novas propostas e as pessoas a contribuírem com ideias que possam melhorar processos e entregas, otimizando tempo, recursos humanos e financeiros, de modo a promover constantemente a eficiência na administração pública.</td></tr></tbody></table>
+Dimensão Profissional
+
+Competências
+
+Habilidades
+
+Resultado Pedagógico: envolve garantir a eficácia e eficiência das ações pedagógicas para assegurar a qualidade dos processos de ensino e de aprendizagem a todos os estudantes.
+
+C1. Coordenar o trabalho pedagógico realizado pelas equipes da Diretoria de Ensino para garantir que as unidades escolares recebam todo apoio e orientação necessária para a realização de suas atividades.
+
+H1. - Organizar, facilitar e acompanhar a elaboração, e o monitoramento das ações voltadas à melhoria do ensino e da aprendizagem dos estudantes. - Monitorar o rendimento e a frequência dos estudantes nas escolas de sua jurisdição, implementando ações para a melhoria dos resultados esperados. - Acompanhar e monitorar o andamento das ações pedagógicas, em especial quanto à atuação da Equipe de Supervisão e do Núcleo Pedagógico, com foco em resultado e, quando necessário, intervindo com reformulações.
+
+Comportamento Institucional: envolve o ato de liderar e zelar pelo ambiente escolar para garantir a implementação das ações da Diretoria de Ensino, em consonância com as políticas educacionais da Secretaria a fim de garantir o direito fundamental à educação de qualidade.
+
+C2. Coordenar o planejamento, implementação, acompanhamento, monitoramento e avaliação das políticas educacionais, apresentando engajamento e compromisso no trabalho colaborativo para atingir as metas e os objetivos traçados, tendo como foco a qualidade da educação e o direito às aprendizagens.
+
+H2. - Liderar e articular com as equipes da Diretoria de Ensino as ações, considerando as metas de curto, médio e longo prazos e as estratégias para alcançá-las. - Acompanha e orienta a equipe da Diretoria de Ensino para que auxiliem com eficácia e eficiência os profissionais das unidades escolares no desenvolvimento das atividades. - Promover novas propostas e incentivar novas propostas e as pessoas a contribuírem com ideias que possam melhorar processos e entregas, otimizando tempo, recursos humanos e financeiros, de modo a promover constantemente a eficiência na administração pública.

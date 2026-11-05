@@ -1,5 +1,3 @@
-###DEC-052636-0-000-08-10-1963@@@
-
 DECRETO Nº 52.636, DE 08 DE OUTUBRO DE 1963.
 
 Cria a Comissão Permanente de Dormentes de Madeira “COPERMA” e dá outras providencias.

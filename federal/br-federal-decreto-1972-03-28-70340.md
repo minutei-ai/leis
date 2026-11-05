@@ -1,5 +1,3 @@
-###DEC-070340-0-000-28-03-1972@@@
-
 DECRETO Nº 70.340, DE 28 DE MARÇO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Silvânia, no Estado de Goiás.

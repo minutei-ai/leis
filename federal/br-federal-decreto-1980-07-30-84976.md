@@ -1,5 +1,3 @@
-###DEC-084976-0-000-30-07-1980@@@
-
 Decreto nº 84.976, de 30 de julho de 1980.
 
 Autoriza o aumento da potência da SOCIEDADE RÁDIO INTEGRAÇÃO LTDA., da cidade de Restinga Seca, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-095161-0-000-06-11-1987@@@
-
 DECRETO Nº 95.161, DE 6 DE NOVEMBRO DE 1987
 
 Cria função de confiança do Grupo-Direção e Assessoramento Superiores, na Tabela Permanente do Instituto Jurídico das Terras Rurais - INTER.

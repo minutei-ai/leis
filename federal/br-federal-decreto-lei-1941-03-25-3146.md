@@ -1,5 +1,3 @@
-###DEL-003146-0-000-25-03-1941@@@
-
 DECRETO-LEI N. 3.146 – DE 25 DE MARÇO DE 1941
 
 Modifica o artigo 14, do decreto-lei n. 2.964, de 20 de Janeiro de 1941.

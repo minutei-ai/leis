@@ -1,5 +1,3 @@
-###DEC-054027-0-000-17-07-1964@@@
-
 DECRETO Nº 54.027, DE 17 DE JULHO DE 1964.
 
 Transfere de sede o 1º Esquadrão de Remonta e dá outras providências.

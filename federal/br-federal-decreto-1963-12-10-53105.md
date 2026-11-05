@@ -1,5 +1,3 @@
-###DEC-053105-0-000-10-12-1963@@@
-
 Decreto nº 53.105, de 10 de dezembro de 1963.
 
 Concede à “EMCASA” - Emprêsa de Mineração de Calcário de Santa Catarina S.A. autorização para constituir-se como emprêsa de mineração.

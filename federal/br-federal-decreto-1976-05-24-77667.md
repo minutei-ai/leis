@@ -1,5 +1,3 @@
-###DEC-077667-0-000-24-05-1976@@@
-
 Decreto nº 77.667, de 24 de maio de 1976
 
 Confisca bens pertencentes à empresa denominada Potassa e Adubos Químicos do Brasil S.A., com sede na Capital do Estado de São Paulo, e dá outras providências.

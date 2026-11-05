@@ -1,5 +1,3 @@
-###MPV-000561-0-000-08-03-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N° \- 561, DE 8 DE MARÇO DE 2012
 
 Altera as Leis n° 12.409, de 25 de maio de 2011, n° 11.578, de 26 de novembro de 2007, n° 11.977, de 7 de julho de 2009, e n° 10.188, de 12 de fevereiro de 2001.

@@ -1,5 +1,3 @@
-###DEC-067568-0-000-13-11-1970@@@
-
 Decreto Nº 67.568, de 13 de novembro de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

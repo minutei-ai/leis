@@ -1,5 +1,3 @@
-###DEC-091995-0-000-28-11-1985@@@
-
 DECRETO Nº 91.995, DE 28 DE novembro DE 1985
 
 Limita o uso de veículos oficiais de representação da Administração Federal direta e autárquica, e dá outras providências.

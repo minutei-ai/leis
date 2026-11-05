@@ -1,7 +1,3 @@
-1
-
-###DEC-000911-0-000-03-09-1993@@@
-
 DECRETO Nº 911, DE 3 DE SETEMBRO DE 1993
 
 Promulga a Convenção de Viena sobre Responsabilidade Civil por Danos Nucleares, de 21/05/1963.

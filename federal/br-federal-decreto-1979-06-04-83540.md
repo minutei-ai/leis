@@ -1,5 +1,3 @@
-###DEC-083540-0-000-04-06-1979@@@
-
 Decreto nº 83.540, de 04 de Junho de 1979.
 
 Regulamenta a aplicação da Convenção Internacional sobre Responsabilidade Civil em Danos Causados por Poluição por Óleo, de 1969, e dá outras providências.

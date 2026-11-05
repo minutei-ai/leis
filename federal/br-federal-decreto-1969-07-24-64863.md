@@ -1,5 +1,3 @@
-###DEC-064863-0-000-24-07-1969@@@
-
 DECRETO Nº 64.863 - DE 24 DE JULHO DE 1969.
 
 Dispõe sôbre o afastamento de servidor da Administração Direta e Indireta para Ministérios ou Órgãos integrantes da Presidência da República que ainda não possuam quadro próprio de pessoal.

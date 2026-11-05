@@ -16,28 +16,140 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DO HOSPITAL DE ÁGUAS LINDAS DE GOIÁS</td><td style=" width:85px;    ">10 302 1043 3285</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.929.326,12</td><td style=" width:85px;    ">R$ 1.929.326,12</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">16050001</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.844.930,29</td><td style=" width:85px;    ">R$ 31.409,05</td><td style=" width:85px;    ">R$ 3.876.339,34</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À&nbsp; COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM</td><td style=" width:340px;  height:19px;   ">R$ 31.409,05</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.929.326,12</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 1.960.735,17</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DO HOSPITAL DE ÁGUAS LINDAS DE GOIÁS
+
+10 302 1043 3285
+
+26000232
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.929.326,12
+
+R$ 1.929.326,12
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+16050001
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.844.930,29
+
+R$ 31.409,05
+
+R$ 3.876.339,34
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+16050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À  COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM
+
+R$ 31.409,05
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 1.929.326,12
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.960.735,17
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA</td><td style=" width:85px;    ">10 302 1043 3284</td><td style=" width:85px;    ">16050001</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.295.151,00</td><td style=" width:85px;    ">R$ 31.409,05</td><td style=" width:85px;    ">R$ 31.409,05</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso I</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 1.929.326,12</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.929.326,12</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À&nbsp; COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM</td><td style=" width:340px;  height:19px;   ">R$ 31.409,05</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 31.409,05</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À&nbsp; COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM</td><td style=" width:340px;  height:19px;   ">R$ 31.409,05</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.929.326,12</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.960.735,17</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA
+
+10 302 1043 3284
+
+16050001
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.295.151,00
+
+R$ 31.409,05
+
+R$ 31.409,05
+
+**TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §  1º  Inciso I**
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 1.929.326,12
+
+**TOTAL**
+
+R$ 1.929.326,12
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+16050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À  COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM
+
+R$ 31.409,05
+
+**TOTAL**
+
+R$ 31.409,05
+
+**TOTAL POR FONTE**
+
+16050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À  COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM
+
+R$ 31.409,05
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 1.929.326,12
+
+**TOTAL**
+
+R$ 1.960.735,17

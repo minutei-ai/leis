@@ -1,5 +1,3 @@
-###DEL-005711-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.711 – DE 29 DEJULHO DE 1943
 
 Abre ao Ministério da Fazendo o crédito Suplementar de Cr$ 3.500.000,00, á verba que especifica:

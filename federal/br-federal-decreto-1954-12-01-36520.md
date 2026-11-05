@@ -1,14 +1,12 @@
-###DEC-036520-0-000-01-12-1954@@@
+**DECRETO Nº 36.520, DE 1 DE DEZEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.520, DE 1 DE DEZEMBRO DE 1954.</strong>
+***Altera a redação do art. 9º e parágrafo único do art. 60, do Regulamento Provisório de Promoções dos Oficiais da Aeronáutica da Ativa.***
 
-<em><strong>Altera a redação do art. 9º e parágrafo único do art. 60, do Regulamento Provisório de Promoções dos Oficiais da Aeronáutica da Ativa.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 9º e o parágrafo único do art. 60 doRegulamento aprovado pelo Decreto nº 36.228, de 27 de setembro de 1954, passam a vigorar com a seguinte redação:
+**Art**. 1º O art. 9º e o parágrafo único do art. 60 doRegulamento aprovado pelo Decreto nº 36.228, de 27 de setembro de 1954, passam a vigorar com a seguinte redação:
 
 "Art. 9º O oficial não poderá ser promovido, mesmo que tenha preenchido tõdas as condições, enquanto estiver:
 
@@ -58,10 +56,10 @@ b) ausência de punição por transgressão grave, no período de um ano.
 
 \- um ano de exercício de funções em cada uma das Regiões de Serviço, Norte e Sul, sendo um como oficial superior".
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 1 de dezembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

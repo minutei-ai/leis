@@ -1,5 +1,3 @@
-###DEL-007955-0-000-13-09-1945@@@
-
 DECRETO-LEI N. 7.955 – DE 13 DE SETEMBRO DE 1945
 
 Institui Conselhos de Medicina e dá outras providências

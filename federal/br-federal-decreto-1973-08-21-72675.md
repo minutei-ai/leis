@@ -1,5 +1,3 @@
-###DEC-072675-0-000-21-08-1973@@@
-
 DECRETO Nº 72.675, DE 21 DE AGOSTO DE 1973.
 
 Aproveita no Quadro de Pessoal do Ministério da Fazenda servidor em disponibilidade no Departamento Nacional de Obras Contra as Secas e dá outras providências.

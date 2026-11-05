@@ -1,5 +1,3 @@
-###DEC-075631-0-000-18-04-1975@@@
-
 DECRETO Nº 75.631, DE 18 DE ABRIL DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

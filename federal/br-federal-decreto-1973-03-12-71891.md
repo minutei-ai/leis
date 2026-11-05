@@ -1,5 +1,3 @@
-###DEC-071891-0-000-12-03-1973@@@
-
 DECRETO Nº 71.891, DE 12 DE MARÇO DE 1973.
 
 Concede reconhecimento aos cursos de Matemática, Física e Química da Universidade de Brasília - DF , mantida pela Universidade de Brasília.

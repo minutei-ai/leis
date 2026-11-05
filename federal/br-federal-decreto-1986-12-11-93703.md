@@ -1,5 +1,3 @@
-###DEC-093703-0-000-11-12-1986@@@
-
 DECRETO Nº 93.703, DE 11 DE DEZEMBRO DE 1986
 
 Declara de fé pública em todo o Território Nacional, o cartão de identidade emitido pelo Ministério da Marinha, e dá outras providências.

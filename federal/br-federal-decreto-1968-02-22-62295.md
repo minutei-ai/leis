@@ -1,5 +1,3 @@
-###DEC-062295-0-000-22-02-1968@@@
-
 DECRETO Nº 62.295, DE 22 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública a “Assistência à Juventude Agrária de Itapetininga” com sede em Itapetininga, Estado de São Paulo.

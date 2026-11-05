@@ -14,5 +14,6 @@ Art.3° Esta Lei entra em vigor na data de sua publicação.
 
 MUNICIPIO DE APARECIDA DE GOIÂNIA-GO, 24 DIAS DO MÊS DE AGOSTO DO ANO DE 2021.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal

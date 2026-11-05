@@ -1,5 +1,3 @@
-###DEC-062044-0-000-04-01-1968@@@
-
 DECRETO Nº 62.044, DE 4 DE JANEIRO DE 1968.
 
 Concede reconhecimento à Faculdade de Ciências Médicas dos Hospitais da Santa Casa de Misericórdia de São Paulo.

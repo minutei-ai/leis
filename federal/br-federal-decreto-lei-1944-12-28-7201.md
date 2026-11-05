@@ -1,5 +1,3 @@
-###DEL-007201-0-000-28-12-1944@@@
-
 DECRETO-LEI N. 7.201 – DE 28 DE DEZEMBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a conceder a isenção que menciona

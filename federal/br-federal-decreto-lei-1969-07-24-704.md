@@ -1,5 +1,3 @@
-###DEL-000704-0-000-24-07-1969@@@
-
 DECRETO-LEI Nº 704, DE 24 DE JULHO DE 1969
 
 Dispõe sôbre previdência social rural e dá outras providências.

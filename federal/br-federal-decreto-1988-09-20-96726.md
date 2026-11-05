@@ -1,5 +1,3 @@
-###DEC-096726-0-000-20-09-1988@@@
-
 DECRETO N° 96.726, DE 20 DE SETEMBRO DE 1988
 
 Revoga o Decreto n° 80.600, de 21 de outubro de 1977, que aprova o Regulamento do Centro de Análises de Sistemas Navais - CASNAV.

@@ -1,5 +1,3 @@
-###DEC-092248-0-000-30-12-1985@@@
-
 Decreto Nº 92.248, de 30 de dezembro de 1985
 
 Dispõe sobre a composição do Conselho Deliberativo do Fundo Nacional de Desenvolvimento da Educação.

@@ -1,5 +1,3 @@
-###MPV-002099-0-035-22-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.099-35, DE 22 DE FEVEREIRO DE 2001
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

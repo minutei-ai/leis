@@ -1,5 +1,3 @@
-###DEC-083890-0-000-27-08-1979@@@
-
 DECRETO Nº 83.890, DE 27 DE AGOSTO DE 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade Educadora Cariri Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Crato, Estado do Ceará.

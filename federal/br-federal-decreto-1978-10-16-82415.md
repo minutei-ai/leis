@@ -1,5 +1,3 @@
-###DEC-082415-0-000-16-10-1978@@@
-
 Decreto n.º 82 415, de 16 de outubro de 1978
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Odontologia de Marília, mantida pela Associação de Ensino de Marília, com sede na cidade de Marília, Estado de São Paulo.

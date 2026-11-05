@@ -1,5 +1,3 @@
-###DEC-085248-0-000-13-10-1980@@@
-
 Decreto nº 85.248, de 13 de outubro de 1980.
 
 Promulga o Acordo de Previdência Social entre o Governo da República Federativa do Brasil e o Governo da República Oriental do Uruguai.
@@ -176,4 +174,14 @@ A aplicação do presente Acordo será regulada por ajustes administrativos, cuj
 
 Feito na cidade de Montevidéu aos vinte e sete dias do mês de janeiro de mil novecentos e setenta e oito em quatro exemplares originais, dois em português, dois em espanhol, cujos textos fazem igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Federativa do Brasil:</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Oriental do Uruguai:</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Antonio F. Azevedo da Silveira</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Alejandro Rovira</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil:
+
+Oriental do Uruguai:
+
+Antonio F. Azevedo da Silveira
+
+Alejandro Rovira

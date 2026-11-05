@@ -1,5 +1,3 @@
-###DEC-069908-0-000-10-01-1972@@@
-
 DECRETO Nº 69.908, DE 10 DE JANEIRO de 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Presidente Wenceslau, S.P.

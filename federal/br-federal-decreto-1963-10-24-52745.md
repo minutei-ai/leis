@@ -1,5 +1,3 @@
-###DEC-052745-0-000-24-10-1963@@@
-
 DECRETO Nº 52.745, DE 24 DE OUTUBRO DE 1963.
 
 Dispõe sôbre a exibição de filmes brasileiros.

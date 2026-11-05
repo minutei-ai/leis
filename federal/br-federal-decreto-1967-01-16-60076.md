@@ -1,5 +1,3 @@
-###DEC-060076-0-000-16-01-1967@@@
-
 DECRETO Nº 60.076, DE 16 DE JANEIRO DE 1967.
 
 Regulamenta o Decreto-Lei nº 18, de 24 de agôsto de 1966, alterado pelo de nº 78, de 8 de dezembro de 1966, que dispõem sôbre o exercício da profissão de aeronáutica.

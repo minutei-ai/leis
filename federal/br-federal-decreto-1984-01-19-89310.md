@@ -1,5 +1,3 @@
-###DEC-089310-0-000-19-01-1984@@@
-
 Decreto nº 89.310, de 19 de janeiro de 1984.
 
 Altera a redação de dispositivos do Decreto nº 84.669, de 29 de abril de 1980, que regulamenta o instituto da progressão funcional.

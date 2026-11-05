@@ -1,5 +1,3 @@
-###DEC-089083-0-000-30-11-1983@@@
-
 DECRETO Nº 89.083, DE 30 DE NOVEMBRO DE 1983
 
 Concede autorização à Empresa PECTEN SANTOS PETROLEUM COMPANY, para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

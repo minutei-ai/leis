@@ -1,5 +1,3 @@
-###DEC-052187-0-000-28-06-1963@@@
-
 DECRETO Nº 52.187, DE 28 DE JUNHO DE 1963.
 
 Autoriza estrangeira a adquirir, em transferencia de aforamento, o domínio útil do terreno de marinha que menciona, no Estado do Rio de Janeiro.

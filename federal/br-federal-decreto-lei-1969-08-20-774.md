@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8179f50e-6000-44e0-9011-00907f552e0c/texto#nowhere)
 
-###DEL-000774-0-000-20-08-1969@@@
-
 DECRETO-LEI Nº 774, DE 20 DE AGÔSTO DE 1969
 
 Autoriza o funcionamento da Universidade do Rio Grande, RS, e dá outras providências.

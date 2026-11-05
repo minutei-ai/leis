@@ -1,5 +1,3 @@
-###DEC-061360-0-000-15-09-1967@@@
-
 DECRETO Nº 61.360, DE 15 DE SETEMBRO DE 1967.
 
 Autoriza Itamar Bolshaw Gomes a comprar pedras preciosas.

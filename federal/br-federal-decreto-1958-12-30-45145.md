@@ -1,5 +1,3 @@
-###DEC-045145-0-000-30-12-1958@@@
-
 Decreto nº 45.145, de 30 de dezembro de 1958.
 
 Aprova o Regulamento da Diretoria de Veterinária (R-34).

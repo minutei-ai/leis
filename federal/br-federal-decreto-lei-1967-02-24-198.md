@@ -1,5 +1,3 @@
-###DEL-000198-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 198, DE 24 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir, pelo Ministério das Minas e Energia, o crédito especial de NCr$4.000.000,00 (quatro milhões de cruzeiros novos), para o fim que especifica.

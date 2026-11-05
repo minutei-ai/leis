@@ -1,5 +1,3 @@
-###DEC-072377-0-000-18-06-1973@@@
-
 DECRETO Nº 72.377, DE 18 DE JUNHO DE 1973.
 
 Prorroga o prazo da autorização concedida pelo Decreto nº 68.989, de 28 de julho de 1971, à empresa Storm Drilling Company.

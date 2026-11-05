@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/582322b7-0987-43f3-a501-fd9de9b3b039/texto#nowhere)
 
-###DEL-000529-0-000-11-04-1969@@@
-
 DECRETO-LEI Nº 529, DE 11 DE ABRIL DE 1969
 
 Reabre os prazos previstos no § 2º do artigo 19 e no artigo 21, da Lei número 4.119, de 27 de agôsto de 1962.

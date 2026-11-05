@@ -1,6 +1,10 @@
 > **LEI Nº 3.352, DE 18 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria o Programa Saúde Itinerante no âmbito do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria o Programa Saúde Itinerante no âmbito do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

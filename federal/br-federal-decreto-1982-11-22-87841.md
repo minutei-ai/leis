@@ -1,5 +1,3 @@
-###DEC-087841-0-000-22-11-1982@@@
-
 Decreto nº 87.841, de 22 de novembro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa variável de terra destinada à passagem de linha de subtransmissão da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

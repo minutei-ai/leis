@@ -1,5 +1,3 @@
-###DEC-060465-A-000-14-03-1967@@@
-
 DECRETO Nº 60.465-A, DE 14 DE MARÇO DE 1967.
 
 Outorga concessão à TV coligadas de Santa Catarina S/A, para instalar uma estação de radiodifusão de sons e imagens (televisão), na Cidade de Blumenau, Estado de Santa Catarina.

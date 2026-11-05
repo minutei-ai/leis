@@ -1,5 +1,3 @@
-###DEC-069406-0-000-22-10-1971@@@
-
 DECRETO Nº 69.406 - de 22 de outubro de 1971
 
 Autoriza a reversão de terreno à Prefeitura Municipal de Peixe, no Estado de Goiás.

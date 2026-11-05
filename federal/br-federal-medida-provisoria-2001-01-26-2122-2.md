@@ -1,5 +1,3 @@
-###MPV-002122-0-002-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.122-2, DE 26 DE JANEIRO DE 2001
 
 Dispõe sobre a especialização das sociedades seguradoras em planos privados de assistência à saúde e dá outras providências.

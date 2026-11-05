@@ -1,5 +1,3 @@
-###DEC-094648-0-000-14-07-1987@@@
-
 DECRETO Nº 94.648, DE 14 DE JULHO DE 1987.
 
 Altera o Decreto nº 93.597, de 21 de novembro de 1986, e dá outras providências.

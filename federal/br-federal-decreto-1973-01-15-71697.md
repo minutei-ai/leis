@@ -1,5 +1,3 @@
-###DEC-071697-0-000-15-01-1973@@@
-
 DECRETO Nº 71.697, DE 15 DE JANEIRO DE 1973.
 
 Altera dispositivo do Decreto número 65.312, de 9 de outubro de 1969, que regulamentou o Decreto-lei número 610, de 4 de junho de 1969, que criou os Quadros Complementares de Oficiais da Marinha.

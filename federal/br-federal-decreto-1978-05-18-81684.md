@@ -1,5 +1,3 @@
-###DEC-081684-0-000-18-05-1978@@@
-
 Decreto nº 81.684 de 18 de maio de 1978
 
 Autoriza a conversão do curso de Engenharia de Operação da Faculdade de Engenharia Industrial "Braz Cubas", com sede em Mogi das Cruzes, Estado de São Paulo.

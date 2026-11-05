@@ -1,5 +1,3 @@
-###DEC-064860-0-000-23-07-1969@@@
-
 DECRETO Nº 64.860 - DE 23 DE JULHO DE 1969.
 
 Cria o Parque Indígena que discrimina, na região limítrofe do Estado de Mato Grosso com o Território Federal de Rondônia, e dá outras providências.

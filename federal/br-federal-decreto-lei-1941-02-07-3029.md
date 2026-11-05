@@ -1,5 +1,3 @@
-###DEL-003029-0-000-07-02-1941@@@
-
 DECRETO-LEI N. 3.029 – DE 7 DE FEVEREIRO DE 1941
 
 Dispõe sobre o crédito especial aberto pelo decreto-lei nº 3.005, de 30 de janeiro de 1941

@@ -1,7 +1,3 @@
-1
-
-###DEC-000765-0-000-03-03-1993@@@
-
 DECRETO N° 765, DE 3 DE MARÇO DE 1993
 
 Dá nova redação aos arts. 2°, 4° e 6°, parágrafo único, do Decreto n° 90.725, de 19 de dezembro de 1984, que institui a Comissão Assessora de Assuntos Científicos e Tecnológicos das Forças Armadas.

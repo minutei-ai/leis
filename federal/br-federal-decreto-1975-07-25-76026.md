@@ -1,5 +1,3 @@
-###DEC-076026-0-000-25-07-1975@@@
-
 DECRETO Nº 76.026 - DE 25 DE JULHO DE 1975.
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade Dom Aquino de Filosofia, Ciências e Letras mantidas pela Missão Salesiana de Mato Grosso, com sede na cidade de Campo Grande, Estado de Mato Grosso.

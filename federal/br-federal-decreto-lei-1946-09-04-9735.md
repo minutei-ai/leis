@@ -1,5 +1,3 @@
-###DEL-009735-0-000-04-09-1946@@@
-
 DECRETO-LEI N. 9.735 – DE 4 DE SETEMBRO DE 1946
 
 Consolida a legislação relativa ao Instituto de Resseguros do Brasil e dá outras providências

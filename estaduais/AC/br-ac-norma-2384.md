@@ -1,6 +1,10 @@
 > **LEI Nº 3.207, DE 26 DE DEZEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei n. 1.693, de 21 de dezembro de 2005, que "Cria os Programas de Pólos Agroflorestais e Quintais Agroflorestais - PQA e autoriza o Poder Executivo a outorgar, sob condição resolutiva, concessão de direito real de uso de terras públicas rurais localizadas nos pólos agroflorestais, para implementação da Política de Desenvolvimento Sustentável do Estado”.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei n. 1.693, de 21 de dezembro de 2005, que "Cria os Programas de Pólos Agroflorestais e Quintais Agroflorestais - PQA e autoriza o Poder Executivo a outorgar, sob condição resolutiva, concessão de direito real de uso de terras públicas rurais localizadas nos pólos agroflorestais, para implementação da Política de Desenvolvimento Sustentável do Estado”.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

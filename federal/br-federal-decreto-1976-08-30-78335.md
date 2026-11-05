@@ -1,5 +1,3 @@
-###DEC-078335-0-000-30-08-1976@@@
-
 DECRETO Nº 78.335, DE 30 DE AGOSTO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, situados em municípios do Estado da Bahia, necessários às obras de construção dos oleodutos e Gasodutos Refinaria Landulpho Alves - RLAM-COPENE - Petroquímica do Nordeste S.A. Mataripe-Candeias e Terminal Ferroviário de Candeias.

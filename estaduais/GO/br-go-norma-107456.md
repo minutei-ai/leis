@@ -156,8 +156,6 @@ Art. 23. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 6 de julho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

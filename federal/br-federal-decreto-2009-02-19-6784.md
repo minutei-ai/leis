@@ -1,5 +1,3 @@
-###DEC-006784-0-000-19-02-2009@@@
-
 DECRETO Nº 6.784, DE 19 DE FEVEREIRO DE 2009.
 
 Altera a subordinação da 4a Brigada de Infantaria Motorizada, do Comando do Exército, transforma a 4a Região Militar/4a Divisão de Exército, e dá outras providências.

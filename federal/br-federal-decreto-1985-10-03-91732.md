@@ -1,5 +1,3 @@
-###DEC-091732-0-000-03-10-1985@@@
-
 Decreto nº 91.732, dE 30 DE outubro de 1985
 
 Cria a Embaixada do Brasil na República Popular Socialista da Albânia.

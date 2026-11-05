@@ -1,5 +1,3 @@
-###DEC-086011-0-000-19-05-1981@@@
-
 Decreto nº 86.011, de 19 de maio de 1981.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (D.N.O.S.) um lote de terra e benfeitoria, situado no Município de São Leopoldo, no Estado do Rio Grande do Sul, e dá outras providências.

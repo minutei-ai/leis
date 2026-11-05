@@ -1,5 +1,3 @@
-###MPV-000512-0-000-25-11-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 512, DE 25 DE NOVEMBRO DE 2010.
 
 Altera a Lei no 9.440, de 14 de março de 1997, que estabelece incentivos fiscais para o desenvolvimento regional e da indústria automotiva.

@@ -1,5 +1,3 @@
-###DEC-056291-0-000-18-05-1965@@@
-
 decreto nº 56.921, de 18 de maio de 1965.
 
 Declara de utilidade pública, para fins de desapropriação o terreno edificado que menciona, em Belém, Estado do Pará.

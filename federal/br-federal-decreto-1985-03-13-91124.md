@@ -1,5 +1,3 @@
-###DEC-091124-0-000-13-03-1985@@@
-
 Decreto nº 91.124, de 13 de março de 1985.
 
 Aprova o Regulamento do Instituto de Estudos do Mar Almirante Paulo Moreira.

@@ -1326,7 +1326,8 @@ Goiânia, 22 de outubro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO I
@@ -1375,7 +1376,7 @@ II - tempo mínimo de efetivo exercício no nível
 | Pontuação mensal | Fração diária |
 | 0,2 | 0,0067 |
 
-<table><tbody><tr><td colspan="2">TABELA 2 – TEMPO MÍNIMO DE EFETIVO EXERCÍCIO NO NÍVEL – PONTUAÇÃO FINAL POR CICLO DE EVOLUÇÃO</td></tr><tr><td style="text-align: center;">PONTUAÇÃO MÍNIMA NECESSÁRIA</td><td style="text-align: center;">PONTUAÇÃO PADRÃO</td></tr><tr><td style="text-align: center;">2,4</td><td style="text-align: center;">4,8</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">TABELA 2 – TEMPO MÍNIMO DE EFETIVO EXERCÍCIO NO NÍVEL – PONTUAÇÃO FINAL POR CICLO DE EVOLUÇÃO</td></tr><tr><td>PONTUAÇÃO MÍNIMA NECESSÁRIA</td><td>PONTUAÇÃO PADRÃO</td></tr><tr><td>2,4</td><td>4,8</td></tr></tbody></table>
 
 III - desempenho no exercício das atribuições
 
@@ -1384,9 +1385,9 @@ III - desempenho no exercício das atribuições
 | PONTUAÇÃO MÍNIMA NECESSÁRIA | PONTUAÇÃO PADRÃO | PONTUAÇÃO MÁXIMA COMPUTADA |
 | 7 | 9 | 10,7 |
 
-<table><tbody><tr><td colspan="6" style="text-align: center;">TABELA 2 – DESEMPENHO – PERSPECTIVAS E PESO – FUNÇÃO GERAL</td></tr><tr><td style="text-align: center;">Perspectiva</td><td style="text-align: center;">Nota máxima da avaliação</td><td style="text-align: center;">Peso percentual</td><td style="text-align: center;">Aplicação da pontuação</td><td style="text-align: center;">Pontuação máxima por aplicação</td><td style="text-align: center;">Pontuação máxima por semestre</td></tr><tr><td style="text-align: center;">Resultados</td><td style="text-align: center;">11</td><td style="text-align: center;">70%</td><td style="text-align: center;">Mensal</td><td style="text-align: center;">1,283</td><td style="text-align: center;">7,7</td></tr><tr><td style="text-align: center;">Competências técnicas</td><td style="text-align: center;">10</td><td style="text-align: center;">20%</td><td style="text-align: center;">Semestral</td><td style="text-align: center;">2</td><td style="text-align: center;">2</td></tr><tr><td style="text-align: center;">Competências comportamentais</td><td style="text-align: center;">10</td><td style="text-align: center;">10%</td><td style="text-align: center;">Semestral</td><td style="text-align: center;">1</td><td style="text-align: center;">1</td></tr><tr><td style="text-align: center;">TOTAL</td><td style="text-align: center;">–</td><td style="text-align: center;">100%</td><td style="text-align: center;">–</td><td style="text-align: center;">–</td><td style="text-align: center;">10,7</td></tr></tbody></table>
+<table><tbody><tr><td colspan="6">TABELA 2 – DESEMPENHO – PERSPECTIVAS E PESO – FUNÇÃO GERAL</td></tr><tr><td>Perspectiva</td><td>Nota máxima da avaliação</td><td>Peso percentual</td><td>Aplicação da pontuação</td><td>Pontuação máxima por aplicação</td><td>Pontuação máxima por semestre</td></tr><tr><td>Resultados</td><td>11</td><td>70%</td><td>Mensal</td><td>1,283</td><td>7,7</td></tr><tr><td>Competências técnicas</td><td>10</td><td>20%</td><td>Semestral</td><td>2</td><td>2</td></tr><tr><td>Competências comportamentais</td><td>10</td><td>10%</td><td>Semestral</td><td>1</td><td>1</td></tr><tr><td>TOTAL</td><td>–</td><td>100%</td><td>–</td><td>–</td><td>10,7</td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="6" style="text-align: center;">TABELA 3 – DESEMPENHO – PERSPECTIVAS E PESO – FUNÇÃO GERENCIAL</td></tr><tr><td style="text-align: center;">Perspectiva</td><td style="text-align: center;">Nota máxima da avaliação</td><td style="text-align: center;">Peso percentual</td><td style="text-align: center;">Aplicação da pontuação</td><td style="text-align: center;">Pontuação máxima por aplicação</td><td style="text-align: center;">Pontuação máxima por semestre</td></tr><tr><td style="text-align: center;">Resultados</td><td style="text-align: center;">11</td><td style="text-align: center;">70%</td><td style="text-align: center;">Mensal</td><td style="text-align: center;">1,283</td><td style="text-align: center;">7,7</td></tr><tr><td style="text-align: center;">Competências técnicas</td><td style="text-align: center;">10</td><td style="text-align: center;">10%</td><td style="text-align: center;">Semestral</td><td style="text-align: center;">1</td><td style="text-align: center;">1</td></tr><tr><td style="text-align: center;">Competências comportamentais</td><td style="text-align: center;">10</td><td style="text-align: center;">20%</td><td style="text-align: center;">Semestral</td><td style="text-align: center;">2</td><td style="text-align: center;">2</td></tr><tr><td style="text-align: center;">TOTAL</td><td style="text-align: center;">–</td><td style="text-align: center;">100%</td><td style="text-align: center;">–</td><td style="text-align: center;">–</td><td style="text-align: center;">10,7</td></tr></tbody></table>
+<table><tbody><tr><td colspan="6">TABELA 3 – DESEMPENHO – PERSPECTIVAS E PESO – FUNÇÃO GERENCIAL</td></tr><tr><td>Perspectiva</td><td>Nota máxima da avaliação</td><td>Peso percentual</td><td>Aplicação da pontuação</td><td>Pontuação máxima por aplicação</td><td>Pontuação máxima por semestre</td></tr><tr><td>Resultados</td><td>11</td><td>70%</td><td>Mensal</td><td>1,283</td><td>7,7</td></tr><tr><td>Competências técnicas</td><td>10</td><td>10%</td><td>Semestral</td><td>1</td><td>1</td></tr><tr><td>Competências comportamentais</td><td>10</td><td>20%</td><td>Semestral</td><td>2</td><td>2</td></tr><tr><td>TOTAL</td><td>–</td><td>100%</td><td>–</td><td>–</td><td>10,7</td></tr></tbody></table>
 
 IV - aperfeiçoamento
 
@@ -1395,7 +1396,9 @@ IV - aperfeiçoamento
 | Carga horária mínima | Carga horária máxima |
 | 60 horas | 100 horas |
 
-<table style="width: 905.222px;"><tbody><tr><td style="text-align: center; width: 869px;">TABELA 2 - APERFEIÇOAMENTO - PONTUAÇÃO POR HORA</td></tr><tr><td style="text-align: center; width: 869px;">0,09</td></tr></tbody></table>
+TABELA 2 - APERFEIÇOAMENTO - PONTUAÇÃO POR HORA
+
+0,09
 
 | TABELA 3 – APERFEIÇOAMENTO – PONTUAÇÃO FINAL POR CICLO DE EVOLUÇÃO |
 | --- |
@@ -1425,13 +1428,18 @@ II - pontuação por tipo de assunção de responsabilidades
 | DAS-3, DAS-4 | 0,889 |
 | DAS-1, DAS-2 | 1,000 |
 
-<table style="width: 933.222px;"><tbody><tr><td colspan="2" style="text-align: center; width: 897px;">TABELA 2 – ASSUNÇÃO DE RESPONSABILIDADES – PONTUAÇÃO POR EXERCÍCIO DE FUNÇÃO COMISSIONADA</td></tr><tr><td style="text-align: center;">VALOR</td><td style="text-align: center; width: 499px;">PONTUAÇÃO MENSAL</td></tr><tr><td style="text-align: center;">até R$ 750,00</td><td style="text-align: center; width: 499px;">0,333</td></tr><tr><td style="text-align: center;">R$ 751,00 a R$ 1.200,00</td><td style="text-align: center; width: 499px;">0,364</td></tr><tr><td style="text-align: center;">R$ 1.201,00 a R$ 1.650,00</td><td style="text-align: center; width: 499px;">0,400</td></tr><tr><td style="text-align: center;">R$ 1.651,00 a R$ 2.250,00</td><td style="text-align: center; width: 499px;">0,444</td></tr><tr><td style="text-align: center;">acima de R$ 2.250,00</td><td style="text-align: center; width: 499px;">0,500</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">TABELA 2 – ASSUNÇÃO DE RESPONSABILIDADES – PONTUAÇÃO POR EXERCÍCIO DE FUNÇÃO COMISSIONADA</td></tr><tr><td>VALOR</td><td>PONTUAÇÃO MENSAL</td></tr><tr><td>até R$ 750,00</td><td>0,333</td></tr><tr><td>R$ 751,00 a R$ 1.200,00</td><td>0,364</td></tr><tr><td>R$ 1.201,00 a R$ 1.650,00</td><td>0,400</td></tr><tr><td>R$ 1.651,00 a R$ 2.250,00</td><td>0,444</td></tr><tr><td>acima de R$ 2.250,00</td><td>0,500</td></tr></tbody></table>
 
-<table style="width: 904.222px;"><tbody><tr><td colspan="2" style="text-align: center; width: 868px;">TABELA 3 – ASSUNÇÃO DE RESPONSABILIDADES – PONTUAÇÃO POR EXERCÍCIO DE FUNÇÃO GRATIFICADA</td></tr><tr><td style="text-align: center;">VALOR</td><td style="text-align: center; width: 480px;">PONTUAÇÃO MENSAL</td></tr><tr><td style="text-align: center;">até R$ 750,00</td><td style="text-align: center; width: 480px;">0,333</td></tr><tr><td style="text-align: center;">R$ 751,00 a R$ 1.200,00</td><td style="text-align: center; width: 480px;">0,364</td></tr><tr><td style="text-align: center;">R$ 1.201,00 a R$ 1.650,00</td><td style="text-align: center; width: 480px;">0,400</td></tr><tr><td style="text-align: center;">R$ 1.651,00 a R$ 2.250,00</td><td style="text-align: center; width: 480px;">0,444</td></tr><tr><td style="text-align: center;">acima de R$ 2.250,00</td><td style="text-align: center; width: 480px;">0,500</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">TABELA 3 – ASSUNÇÃO DE RESPONSABILIDADES – PONTUAÇÃO POR EXERCÍCIO DE FUNÇÃO GRATIFICADA</td></tr><tr><td>VALOR</td><td>PONTUAÇÃO MENSAL</td></tr><tr><td>até R$ 750,00</td><td>0,333</td></tr><tr><td>R$ 751,00 a R$ 1.200,00</td><td>0,364</td></tr><tr><td>R$ 1.201,00 a R$ 1.650,00</td><td>0,400</td></tr><tr><td>R$ 1.651,00 a R$ 2.250,00</td><td>0,444</td></tr><tr><td>acima de R$ 2.250,00</td><td>0,500</td></tr></tbody></table>
 
-<table style="width: 919.222px;"><tbody><tr><td style="width: 883px;"><br>TABELA 4 - ASSUNÇÃO DE RESPONSABILIDADES - &nbsp; PONTUAÇÃO POR EXERCÍCIO DE FUNÇÃO DESIGNADA</td></tr><tr><td style="text-align: center; width: 883px;">PONTUAÇÃO MENSAL</td></tr><tr><td style="text-align: center; width: 883px;">0,333</td></tr></tbody></table>
+TABELA 4 - ASSUNÇÃO DE RESPONSABILIDADES -   PONTUAÇÃO POR EXERCÍCIO DE FUNÇÃO DESIGNADA
 
-| TABELA 5 – ASSUNÇÃO DE RESPONSABILIDADES – <br>
+PONTUAÇÃO MENSAL
+
+0,333
+
+| TABELA 5 – ASSUNÇÃO DE RESPONSABILIDADES – 
+
 PONTUAÇÃO POR ATUAÇÃO COMO AGENTE DE CONTRATAÇÃO, GESTOR OU FISCAL DE CONTRATOS OU CONVÊNIOS |
 | --- |
 | Faixa | Pontuação mensal |
@@ -1441,24 +1449,33 @@ PONTUAÇÃO POR ATUAÇÃO COMO AGENTE DE CONTRATAÇÃO, GESTOR OU FISCAL DE CONT
 | II | 0,444 |
 | I | 0,500 |
 
-<table style="width: 870px;"><tbody><tr><td style="width: 836px;">TABELA 6 - ASSUNÇÃO DE RESPONSABILIDADES - &nbsp;PONTUAÇÃO POR ATUAÇÃO EM CONSELHO, COMITÊ, CÂMARA TÉCNICA, COMISSÃO OU GRUPO DE TRABALHO</td></tr><tr><td style="text-align: center; width: 836px;">Pontuação mensal</td></tr><tr><td style="text-align: center; width: 836px;">0,333</td></tr></tbody></table>
+TABELA 6 - ASSUNÇÃO DE RESPONSABILIDADES -  PONTUAÇÃO POR ATUAÇÃO EM CONSELHO, COMITÊ, CÂMARA TÉCNICA, COMISSÃO OU GRUPO DE TRABALHO
 
-<table style="width: 870px;"><tbody><tr><td style="width: 836px;">TABELA 7 - ASSUNÇÃO DE RESPONSABILIDADES - &nbsp;PONTUAÇÃO POR EXERCÍCIO EM ATUAÇÃO PRIORITÁRIA</td></tr><tr><td style="text-align: center; width: 836px;">Pontuação mensal</td></tr><tr><td style="text-align: center; width: 836px;">0,333</td></tr></tbody></table>
+Pontuação mensal
 
-| TABELA 8 – ASSUNÇÃO DE RESPONSABILIDADES –<br>
+0,333
+
+TABELA 7 - ASSUNÇÃO DE RESPONSABILIDADES -  PONTUAÇÃO POR EXERCÍCIO EM ATUAÇÃO PRIORITÁRIA
+
+Pontuação mensal
+
+0,333
+
+| TABELA 8 – ASSUNÇÃO DE RESPONSABILIDADES –
+
 PONTUAÇÃO POR PUBLICAÇÃO DE ARTIGOS OU PESQUISAS CIENTÍFICOS COM ISSN |
 | --- |
 | Faixa | Pontuação por publicação |
 | Artigo científico completo publicado em periódico com ISSN e não indexado em base de dados | 0,5 |
 | Artigo científico completo publicado em periódicos indexados em base de dados reconhecidos nacional ou internacionalmente com ISSN | 3 |
 
-<table style="width: 1023.22px;"><tbody><tr><td colspan="2" style="text-align: center; width: 987px;">TABELA 9 –ASSUNÇÃO DE RESPONSABILIDADES –<br>PONTUAÇÃO POR PUBLICAÇÃO DE LIVROS COM CORPO EDITORIAL E ISBN</td></tr><tr><td style="width: 426px; text-align: center;">Faixa</td><td style="width: 552px; text-align: center;">Pontuação por publicação</td></tr><tr><td style="width: 426px; text-align: center;">Organizador de livro</td><td style="width: 552px; text-align: center;">1</td></tr><tr><td style="width: 426px; text-align: center;">Capítulo de livro</td><td style="width: 552px; text-align: center;">3</td></tr><tr><td style="width: 426px; text-align: center;">Livro completo</td><td style="width: 552px; text-align: center;">6</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">TABELA 9 –ASSUNÇÃO DE RESPONSABILIDADES – PONTUAÇÃO POR PUBLICAÇÃO DE LIVROS COM CORPO EDITORIAL E ISBN</td></tr><tr><td>Faixa</td><td>Pontuação por publicação</td></tr><tr><td>Organizador de livro</td><td>1</td></tr><tr><td>Capítulo de livro</td><td>3</td></tr><tr><td>Livro completo</td><td>6</td></tr></tbody></table>
 
-<table style="width: 841.222px;"><tbody><tr><td colspan="2" style="text-align: center; width: 805px;">TABELA 10 – ASSUNÇÃO DE RESPONSABILIDADES –<br>PONTUAÇÃO POR&nbsp;ARTIGOS OU PESQUISAS CIENTÍFICOS APROVADOS EM EVENTOS CIENTÍFICOS</td></tr><tr><td style="text-align: center; width: 424px;">Faixa</td><td style="text-align: center; width: 372px;">Pontuação por publicação</td></tr><tr><td style="text-align: center; width: 424px;">Estadual</td><td style="text-align: center; width: 372px;">1</td></tr><tr><td style="text-align: center; width: 424px;">Regional</td><td style="text-align: center; width: 372px;">2</td></tr><tr><td style="text-align: center; width: 424px;">Nacional</td><td style="text-align: center; width: 372px;">3</td></tr><tr><td style="text-align: center; width: 424px;">Internacional</td><td style="text-align: center; width: 372px;">4</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">TABELA 10 – ASSUNÇÃO DE RESPONSABILIDADES – PONTUAÇÃO POR&nbsp;ARTIGOS OU PESQUISAS CIENTÍFICOS APROVADOS EM EVENTOS CIENTÍFICOS</td></tr><tr><td>Faixa</td><td>Pontuação por publicação</td></tr><tr><td>Estadual</td><td>1</td></tr><tr><td>Regional</td><td>2</td></tr><tr><td>Nacional</td><td>3</td></tr><tr><td>Internacional</td><td>4</td></tr></tbody></table>
 
-<table style="width: 816.222px;"><tbody><tr><td colspan="2" style="text-align: center; width: 780px;">TABELA 11 – ASSUNÇÃO DE RESPONSABILIDADES –<br>PONTUAÇÃO POR REGISTRO DE PATENTE OU DE CULTIVAR</td></tr><tr><td style="width: 401px; text-align: center;">Faixa</td><td style="width: 368px; text-align: center;">Pontuação por publicação</td></tr><tr><td style="width: 401px; text-align: center;">Registro de patente</td><td style="width: 368px; text-align: center;">6</td></tr><tr><td style="width: 401px; text-align: center;">Registro de cultivar</td><td style="width: 368px; text-align: center;">6</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">TABELA 11 – ASSUNÇÃO DE RESPONSABILIDADES – PONTUAÇÃO POR REGISTRO DE PATENTE OU DE CULTIVAR</td></tr><tr><td>Faixa</td><td>Pontuação por publicação</td></tr><tr><td>Registro de patente</td><td>6</td></tr><tr><td>Registro de cultivar</td><td>6</td></tr></tbody></table>
 
-<table style="width: 786.222px;"><tbody><tr><td colspan="2" style="text-align: center; width: 750px;">TABELA 12 – ASSUNÇÃO DE RESPONSABILIDADES –<br>PONTUAÇÃO POR ESTÁGIO PÓS-DOUTORAL DESENVOLVIDO NO ÓRGÃO</td></tr><tr><td>Tipo de curso</td><td style="text-align: center; width: 186px;">Pontuação</td></tr><tr><td>Pós-doutorado – igual a seis meses</td><td style="text-align: center; width: 186px;">6</td></tr><tr><td>Pós-doutorado – maior que seis meses e menor ou igual a doze (doze) meses</td><td style="text-align: center; width: 186px;">8</td></tr><tr><td>Pós-doutorado – maior que doze meses e menor ou igual a vinte e quatro meses</td><td style="text-align: center; width: 186px;">12</td></tr><tr><td>Pós-doutorado – maior que vinte e quatro meses e menor que quarenta e oito meses</td><td style="text-align: center; width: 186px;">24</td></tr><tr><td>Pós-doutorado – maior ou igual a quarenta e oito meses</td><td style="text-align: center; width: 186px;">48</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">TABELA 12 – ASSUNÇÃO DE RESPONSABILIDADES – PONTUAÇÃO POR ESTÁGIO PÓS-DOUTORAL DESENVOLVIDO NO ÓRGÃO</td></tr><tr><td>Tipo de curso</td><td>Pontuação</td></tr><tr><td>Pós-doutorado – igual a seis meses</td><td>6</td></tr><tr><td>Pós-doutorado – maior que seis meses e menor ou igual a doze (doze) meses</td><td>8</td></tr><tr><td>Pós-doutorado – maior que doze meses e menor ou igual a vinte e quatro meses</td><td>12</td></tr><tr><td>Pós-doutorado – maior que vinte e quatro meses e menor que quarenta e oito meses</td><td>24</td></tr><tr><td>Pós-doutorado – maior ou igual a quarenta e oito meses</td><td>48</td></tr></tbody></table>
 
 III - pontuação por tipo de titulação acadêmica
 
@@ -1492,13 +1509,18 @@ II - desempenho no exercício das atribuições de ensino, pesquisa e extensão 
 | Competências comportamentais | 10 | 10% | Semestral | 1 | 1,2 | 1,2 |
 | TOTAL | – | 100% | – | – | – | 12,84 |
 
-<table><tbody><tr><td colspan="7" style="text-align: center;">TABELA 2 – DESEMPENHO – PERSPECTIVAS E PESO – FUNÇÃO GERENCIAL</td></tr><tr><td style="text-align: center;">Perspectiva</td><td style="text-align: center;">Nota máxima da avaliação</td><td style="text-align: center;">Peso percentual</td><td style="text-align: center;">Aplicação da pontuação</td><td style="text-align: center;">Pontuação máxima por aplicação</td><td style="text-align: center;">Coeficiente de pontuação</td><td style="text-align: center;">Pontuação máxima final por semestre</td></tr><tr><td style="text-align: center;">Resultados</td><td style="text-align: center;">11</td><td style="text-align: center;">70%</td><td style="text-align: center;">Semestral</td><td style="text-align: center;">7,7</td><td style="text-align: center;">1,2</td><td style="text-align: center;">9,24</td></tr><tr><td style="text-align: center;">Competências técnicas</td><td style="text-align: center;">10</td><td style="text-align: center;">10%</td><td style="text-align: center;">Semestral</td><td style="text-align: center;">1</td><td style="text-align: center;">1,2</td><td style="text-align: center;">1,2</td></tr><tr><td style="text-align: center;">Competências comportamentais</td><td style="text-align: center;">10</td><td style="text-align: center;">20%</td><td style="text-align: center;">Semestral</td><td style="text-align: center;">2</td><td style="text-align: center;">1,2</td><td style="text-align: center;">2,4</td></tr><tr><td style="text-align: center;">TOTAL</td><td style="text-align: center;">–</td><td style="text-align: center;">100%</td><td style="text-align: center;">–</td><td style="text-align: center;">–</td><td style="text-align: center;">–</td><td style="text-align: center;">12,84</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td colspan="7">TABELA 2 – DESEMPENHO – PERSPECTIVAS E PESO – FUNÇÃO GERENCIAL</td></tr><tr><td>Perspectiva</td><td>Nota máxima da avaliação</td><td>Peso percentual</td><td>Aplicação da pontuação</td><td>Pontuação máxima por aplicação</td><td>Coeficiente de pontuação</td><td>Pontuação máxima final por semestre</td></tr><tr><td>Resultados</td><td>11</td><td>70%</td><td>Semestral</td><td>7,7</td><td>1,2</td><td>9,24</td></tr><tr><td>Competências técnicas</td><td>10</td><td>10%</td><td>Semestral</td><td>1</td><td>1,2</td><td>1,2</td></tr><tr><td>Competências comportamentais</td><td>10</td><td>20%</td><td>Semestral</td><td>2</td><td>1,2</td><td>2,4</td></tr><tr><td>TOTAL</td><td>–</td><td>100%</td><td>–</td><td>–</td><td>–</td><td>12,84</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
-<table style="width: 1047.22px;"><tbody><tr><td colspan="3">TABELA 3 – DESEMPENHO – PONTUAÇÃO FINAL POR CICLO DE AVALIAÇÃO</td></tr><tr><td style="text-align: center;">Pontuação mínima necessária</td><td style="text-align: center;">Pontuação padrão</td><td style="width: 393px; text-align: center;">Pontuação máxima computada</td></tr><tr><td style="text-align: center;">8,4</td><td style="text-align: center;">10,8</td><td style="width: 393px; text-align: center;">12,84</td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">TABELA 3 – DESEMPENHO – PONTUAÇÃO FINAL POR CICLO DE AVALIAÇÃO</td></tr><tr><td>Pontuação mínima necessária</td><td>Pontuação padrão</td><td>Pontuação máxima computada</td></tr><tr><td>8,4</td><td>10,8</td><td>12,84</td></tr></tbody></table>
 
 III - assunção de responsabilidade referente à [Lei nº 22.816](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109054), de 2024
 
-<table style="width: 862.222px;"><tbody><tr><td style="text-align: center; width: 826px;">ASSUNÇÃO DE RESPONSABILIDADES -<br>PONTUAÇÃO POR EXECUÇÃO DE PROJETO DE ENSINO, PESQUISA OU EXTENSÃO COM CAPTAÇÃO DE RECURSOS</td></tr><tr><td style="text-align: center; width: 826px;">PONTUAÇÃO MENSAL</td></tr><tr><td style="text-align: center; width: 826px;">0,333</td></tr></tbody></table>
+ASSUNÇÃO DE RESPONSABILIDADES -
+PONTUAÇÃO POR EXECUÇÃO DE PROJETO DE ENSINO, PESQUISA OU EXTENSÃO COM CAPTAÇÃO DE RECURSOS
+
+PONTUAÇÃO MENSAL
+
+0,333
 
 IV - titulação e qualificação acadêmica da [Lei nº 22.816](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109054), de 2024
 

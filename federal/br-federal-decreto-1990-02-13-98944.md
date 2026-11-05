@@ -1,7 +1,3 @@
-1
-
-###DEC-098944-0-000-13-02-1990@@@
-
 DECRETO Nº 98.944, DE 13 DE FEVEREIRO DE 1990
 
 Torna sem efeito o Decreto nº 96.258, de 30 de junho de 1988.

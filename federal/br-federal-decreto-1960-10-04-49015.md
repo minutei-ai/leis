@@ -1,5 +1,3 @@
-###DEC-049015-0-000-04-10-1960@@@
-
 Decreto nº 49.015, de 4 de outubro de 1960.
 
 Autoriza o cidadão brasileiro Paulo Costa a pesquisar feldspato e quartzo no município de Hotelhos, Estado de Minas Gerais.

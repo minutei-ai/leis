@@ -1,5 +1,3 @@
-###DEL-004370-0-000-10-06-1942@@@
-
 DECRETO-LEI N. 4.370 – DE 10 DE JUNHO DE 1942
 
 Cria cargos de Ajudante de Tesoureiro, no Quadro III – Parte Permanente – do Ministério da Viação e Obras Públicas

@@ -1,5 +1,3 @@
-###DEC-055899-0-000-07-04-1965@@@
-
 DECRETO Nº 55.899, DE 7 DE ABRIL DE 1965.
 
 Aprova o Quadro Geral de Acionistas da Companhia Nacional de Seguro Agrícola.

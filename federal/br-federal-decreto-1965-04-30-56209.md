@@ -1,5 +1,3 @@
-###DEC-056209-0-000-30-04-1965@@@
-
 decreto nº 56.209, de 30 de abril de 1965.
 
 Altera a denominação da série de classes de Técnico de Previdência e Seguros, do Quadro de Pessoal - Parte Permanente - do Instituto de Aposentadoria e Pensões dos Industriários.

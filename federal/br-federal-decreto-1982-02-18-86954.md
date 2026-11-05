@@ -1,5 +1,3 @@
-###DEC-086954-0-000-18-02-1982@@@
-
 Decreto nº 86.954, de 18 de fevereiro de 1982
 
 Dispõe sobre o aumento de capital do Banco do Nordeste do Brasil S.A.

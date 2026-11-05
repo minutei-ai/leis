@@ -1,5 +1,3 @@
-###DEC-079362-0-000-09-03-1977@@@
-
 Decreto nº 79.362, de 9 de março de 1977.
 
 Concede reconhecimento aos cursos de Letras , de Pedagogia e de Matemática, da Faculdade de Educação, Ciências e Letras Marechal Castelo Branco, e ao Curso de Educação Física e Técnico em Desportos, da Faculdade de Educação Física da Guanabara, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

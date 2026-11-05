@@ -1,5 +1,3 @@
-###DEC-053591-0-000-25-02-1964@@@
-
 DECRETO nº 53.591, de 25 de fevereiro de 1964.
 
 Autoriza a CONTEC a filiar-se à Confederação Americana dos Bancários.

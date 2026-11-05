@@ -1,5 +1,3 @@
-###DEC-090494-0-000-12-11-1984@@@
-
 DECRETO nº 90.494, de 12 de novembro de 1984.
 
 Revoga o Regulamento do Quadro de Estado-Maior da Ativa (R-177)

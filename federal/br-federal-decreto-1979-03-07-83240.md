@@ -1,5 +1,3 @@
-###DEC-083240-0-000-07-03-1979@@@
-
 Decreto nº 83.240, de 07 de março de 1979.
 
 Reserva  área de terra, no Estado do Pará, para a instalação do "Campo de Provas das Forças Armadas", e dá outras providências.

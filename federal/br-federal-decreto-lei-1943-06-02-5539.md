@@ -1,5 +1,3 @@
-###DEL-005539-0-000-02-06-1943@@@
-
 DECRETO‑LEI N. 5.539 – DE 2 DE JUNHO DE 1943
 
 Regulamenta o Quadro de Oficiais Mecânicos, criado pelo decreto‑lei 3.810, de 10 de novembro de 1941

@@ -1,5 +1,3 @@
-###DEC-067604-0-000-18-11-1970@@@
-
 DECRETO Nº 67.604, DE 18 DE NOVEMBRO DE 1970.
 
 Concede à Emprêsa Itambé de Mineração Ltda., o direito de lavrar calcário, no município de Campo Largo, Estado do Paraná.

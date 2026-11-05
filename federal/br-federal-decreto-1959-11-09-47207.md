@@ -1,5 +1,3 @@
-###DEC-047207-0-000-09-11-1959@@@
-
 Decreto nº 47.207, de 9 de novembro de 1959.
 
 Altera o Regulamento Geral do Corpo de Bombeiros do Distrito Federal, aprovado pelo Decreto número 41.096, de 7 de março de 1957, e dá outras providências.

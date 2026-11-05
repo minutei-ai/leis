@@ -1,5 +1,3 @@
-###DEC-074817-0-000-05-11-1974@@@
-
 DECRETO Nº 74.817, DE 5 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona, destinado ao Ministério do Exército.

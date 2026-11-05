@@ -1,5 +1,3 @@
-###DEC-087162-0-000-10-05-1982@@@
-
 Decreto nº 87.162, de 10 de maio de 1982
 
 Declara de utilidade pública, para efeito de desapropriação, dois terrenos situados na cidade de Florianópolis, Capital do Estado de Santa Catarina, destinados à ampliação do edifício-sede do Tribunal Regional do Trabalho da 12a Região e Juntas de Conciliação e Julgamento de Florianópolis.

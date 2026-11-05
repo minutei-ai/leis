@@ -1,5 +1,3 @@
-###MPV-000591-0-000-29-11-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N° 591, DE 29 DE NOVEMBRO DE 2012
 
 Altera a Medida Provisória n° 579, de 11 de setembro de 2012, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais, e sobre a modicidade tarifária.

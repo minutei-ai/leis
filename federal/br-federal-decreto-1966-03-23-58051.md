@@ -1,5 +1,3 @@
-###DEC-058051-0-000-23-03-1966@@@
-
 DECRETO Nº 58.051, DE 23 DE MARÇO DE 1966.
 
 Autoriza Cimento Aratu S.A. a pesquisar conchas e corais no município de Salvador, Estado da Bahia.

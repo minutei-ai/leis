@@ -1,5 +1,3 @@
-###DEC-004797-0-000-31-07-2003@@@
-
 DECRETO Nº 4.797, DE 31 DE JULHO DE 2003.
 
        Dispõe sobre a Ordem Nacional do Mérito Educativo e dá outras providências.

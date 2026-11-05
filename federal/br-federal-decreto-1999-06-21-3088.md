@@ -1,5 +1,3 @@
-###DEC-003088-0-000-21-06-1999@@@
-
 DECRETO Nº 3.088, DE 21 DE JUNHO DE 1999.
 
 Estabelece a sistemática de “metas para a inflação” como diretriz para fixação do regime de política monetária e dá outras providências.

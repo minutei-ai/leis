@@ -1,5 +1,3 @@
-###DEC-006841-0-000-07-05-2009@@@
-
 DECRETO Nº 6.841, DE 7 DE MAIO DE 2009.
 
 Altera e acresce dispositivos ao Decreto no 1.935, de 20 de junho de 1996, que dispõe sobre a organização e o funcionamento do Conselho de Recursos do Sistema Financeiro Nacional.

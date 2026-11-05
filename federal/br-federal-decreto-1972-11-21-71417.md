@@ -1,5 +1,3 @@
-###DEC-071417-0-000-21-11-1972@@@
-
 Decreto nº 71.417 - de 21 de novembro de 1972.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis e benfeitorias situados nos Municípios de Araucária e Curitiba, no Estado do Paraná.

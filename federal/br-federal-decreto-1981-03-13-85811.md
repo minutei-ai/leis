@@ -1,7 +1,3 @@
-1
-
-###DEC-085811-0-000-13-03-1981@@@
-
 DecretO nº 85.811, de 13 de março de 1981.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Iaçu, no Estado da Bahia, e dá outras providências.

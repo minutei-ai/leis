@@ -1,28 +1,26 @@
-###DEC-027584-0-000-14-12-1949@@@
+**DECRETO Nº 27.584, DE 14 DE DEZEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.584, DE 14 DE DEZEMBRO DE 1949.</strong>
+***Aprova o Plano de uniformes para os Escolas Preparatórias.***
 
-<em><strong>Aprova o Plano de uniformes para os Escolas Preparatórias.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º. Fica aprovado o Plano de uniformes para as Escolas Preparatórias, que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, Ministro de Estado da Guerra.
 
-<strong>Art</strong>. 1º. Fica aprovado o Plano de uniformes para as Escolas Preparatórias, que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, Ministro de Estado da Guerra.
-
-<strong>Art</strong>. 2º. Revogam-se as disposições em contrário.
+**Art**. 2º. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 14 de dezembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa
 
-<strong>PLANO DE UNIFORMES PARA AS ESCOLAS PREPARATÓRIAS</strong>
+**PLANO DE UNIFORMES PARA AS ESCOLAS PREPARATÓRIAS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA COMPOSIÇÃO DOS UNIFORMES</em>
+*DA COMPOSIÇÃO DOS UNIFORMES*
 
 1º Uniformes
 
@@ -100,9 +98,9 @@ Canrobert P. da Costa
 
 \- Calçado tipo desporto.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Constituem peças complementares dos uniformes:</em>
+*Constituem peças complementares dos uniformes:*
 
 \- Camisa de agasalho.
 
@@ -118,9 +116,9 @@ Canrobert P. da Costa
 
 \- Sobre-capa verde oliva para boné.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA DESCRIÇÃO DAS PEÇAS E DITAS COMPLEMENTARES DOS UNIFORMES</em>
+*DA DESCRIÇÃO DAS PEÇAS E DITAS COMPLEMENTARES DOS UNIFORMES*
 
 1 - Agasalhos
 
@@ -254,9 +252,9 @@ c) Pretas - de algodão.
 
 \- Idêntica à dos oficiais.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>USO DOS UNIFORMES E AGASALHOS</em>
+*USO DOS UNIFORMES E AGASALHOS*
 
 a) Os 1º e 2º - Em paradas, solenidades, atos sociais e a passeio.
 
@@ -278,9 +276,9 @@ e) agasalhos:
 
 \- Com os 1º, 2º e 3º uniformes, ou quando determinado.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DISTINTIVOS E SEU USO</em>
+*DISTINTIVOS E SEU USO*
 
 a) Os correspondentes a cada Escola:
 
@@ -292,7 +290,7 @@ b) Os de ano:
 
 \- Em ângulo reto, um para cada ano letivo, e aplicados no têrço superior da manga direita, assim:
 
-1\) em sutache cinza - nos 3º e 4º uniformes e nas peças de agasalho constantes dos ns. 1 e 2, da alínea <em>e</em>, do Capítulo IV;
+1\) em sutache cinza - nos 3º e 4º uniformes e nas peças de agasalho constantes dos ns. 1 e 2, da alínea *e*, do Capítulo IV;
 
 2\) em sutache dourado - nos 1º e 2º uniformes;
 
@@ -302,9 +300,9 @@ b) Os de ano:
 
 \- prateada - no de sutache cinza.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DISPOSIÇÕES GERAIS E TRANSITÓRIAS</em>
+*DISPOSIÇÕES GERAIS E TRANSITÓRIAS*
 
 1º - As peças de uniformes do Plano anterior, de pequena duração, deverão ser distribuídas até o final do estoque.
 
@@ -320,4 +318,4 @@ b) Os de ano:
 
 Rio de Janeiro, 14 de dezembro de 1949.
 
-<strong>GENERAL CANROBERT P. DA COSTA</strong>
+**GENERAL CANROBERT P. DA COSTA**

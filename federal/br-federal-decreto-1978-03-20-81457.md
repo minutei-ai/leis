@@ -1,5 +1,3 @@
-###DEC-081457-0-000-20-03-1978@@@
-
 Decreto nº 81.457, de 20 de março de 1978.
 
 Declara de utilidade pública, áreas de terrenos urbanos com benfeitorias, situadas na cidade do Rio de Janeiro, Estado do Rio de Janeiro, para fins de desapropriação pela Telecomunicações do Rio de Janeiro S.A. - TELERJ.

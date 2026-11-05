@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209274)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2024/compilacao-lei-17893-02.04.2024.html)
 
 # LEI N° 17.893, DE 02 DE ABRIL DE 2024

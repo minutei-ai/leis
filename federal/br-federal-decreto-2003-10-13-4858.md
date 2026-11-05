@@ -1,5 +1,3 @@
-###DEC-004858-0-000-13-10-2003@@@
-
 DECRETO Nº 4.858, DE 13 DE OUTUBRO DE 2003.
 
        Dispõe sobre a composição e funcionamento do Conselho Superior do Cinema, e dá outras providências.
@@ -112,5 +110,6 @@ Instituto Nacional de Tecnologia da Informação \- ITI." (NR)
 
         Brasília, 13 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

@@ -1,5 +1,3 @@
-###DEC-003585-0-000-05-09-2000@@@
-
 DECRETO Nº 3.585, DE 5 DE SETEMBRO DE 2000.
 
 Acresce dispositivo ao Decreto nº 2.954, de 29 de janeiro de 1999, que estabelece regras para a redação de atos normativos de competência dos órgãos do Poder Executivo.

@@ -1,5 +1,3 @@
-###DEC-072144-0-000-26-04-1973@@@
-
 DECRETO Nº 72.144, DE 26 DE ABRIL DE 1973.
 
 Altera o artigo 2.º, do Decreto número 45.954, de 30 de abril de 1959, que cria o Parque Nacional de Ubajara, no Estado do Ceará.
@@ -19,8 +17,6 @@ Brasília, 26 de abril de 1973; 152º da Independência e 85.º da República.
 Emílio G. Médici
 
 L. F. Cirne Lima
-
-###DEC-072144-0-000-26-04-1973@@@
 
 DECRETO Nº 72.144, DE 26 DE ABRIL DE 1973.
 

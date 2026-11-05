@@ -1,32 +1,30 @@
-###DEC-027475-0-000-21-11-1949@@@
+**DECRETO Nº 27.475, DE 21 DE NOVEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.475, DE 21 DE NOVEMBRO DE 1949.</strong>
+***Aprova o Regimento da Divisão da Economia Cafeeira.***
 
-<em><strong>Aprova o Regimento da Divisão da Economia Cafeeira.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Divisão da Economia Cafeeira que, assinado pelo Ministro de Estado dos Negócios da Fazenda, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Divisão da Economia Cafeeira que, assinado pelo Ministro de Estado dos Negócios da Fazenda, com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor em 1 de janeiro de 1950, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor em 1 de janeiro de 1950, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 21 de novembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Guilherme da Silveira
 
-<strong>REGIMENTO DA DIVISÃO DA ECONOMIA CAFEEIRA</strong>
+**REGIMENTO DA DIVISÃO DA ECONOMIA CAFEEIRA**
 
-<strong>(D.E.C.)</strong>
+**(D.E.C.)**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DAS FINALIDADES</em>
+*DAS FINALIDADES*
 
-<strong>Art</strong>. 1<strong>º</strong> A Divisão da Economia Cafeeira, criada pelo Decreto-lei número 9.784, de 6 de setembro de 1946, no Ministério da Fazenda, terá sua sede na capital de São Paulo, competindo-lhe, em todo o território nacional, a direção e a superintendência da política, econômica do café, mencionadamente.
+**Art**. 1**º** A Divisão da Economia Cafeeira, criada pelo Decreto-lei número 9.784, de 6 de setembro de 1946, no Ministério da Fazenda, terá sua sede na capital de São Paulo, competindo-lhe, em todo o território nacional, a direção e a superintendência da política, econômica do café, mencionadamente.
 
 a) a regulamentação e a fiscalização do trânsito do café das fontes de produção para os pontos de escoamento;
 
@@ -46,15 +44,15 @@ h) a expedição de instruções às emprêsas transportadoras e o exercício, q
 
 Parágrafo único. A política externa do café será sempre executada por intermédio do Ministério das Relações Exteriores.
 
-<strong>Art</strong>. 2<strong>º</strong> A Divisão da Economia Cafeeira é diretamente subordinada ao Ministro da Fazenda, a quem compete a expedição dos regulamentos, portarias, resoluções, e que terá também a competência privativa de atos decisórios em caso omissos na legislação ou regulamentos em vigor.
+**Art**. 2**º** A Divisão da Economia Cafeeira é diretamente subordinada ao Ministro da Fazenda, a quem compete a expedição dos regulamentos, portarias, resoluções, e que terá também a competência privativa de atos decisórios em caso omissos na legislação ou regulamentos em vigor.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 3<strong>º</strong> A Divisão da Economia Cafeeira terá função executivas e será dirigida por um Diretor, nomeado em comissão, pelo Presidente da República.
+**Art**. 3**º** A Divisão da Economia Cafeeira terá função executivas e será dirigida por um Diretor, nomeado em comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 4<strong>º</strong> A Divisão da Economia Cafeeira compor-se-á de:
+**Art**. 4**º** A Divisão da Economia Cafeeira compor-se-á de:
 
 I) Serviço de Fiscalização e Estatística (S.F.E.);
 
@@ -64,13 +62,13 @@ III) Postos de Fiscalização (P.) em Caravelas, Pôrto Esperança e Florianópo
 
 IV) Serviço de Administração;
 
-<strong>Art</strong>. 5<strong>º</strong> O S.F.E compreenderá:
+**Art**. 5**º** O S.F.E compreenderá:
 
 I) Seção de Fiscalização e Inspeção (Sc. F.);
 
 II) - Seção de Estatística (Sc. E.)
 
-<strong>Art</strong>. 6<strong>º</strong> A. D. de Santos e Rio de Janeiro compreenderão:
+**Art**. 6**º** A. D. de Santos e Rio de Janeiro compreenderão:
 
 I) Seção de Fiscalização e Estatística (Sc. F. E.);
 
@@ -78,7 +76,7 @@ II) Seção de Classificação (Sc. Cl.);
 
 III) Seção de Administração (Sc. A.).
 
-<strong>Art</strong>. 7<strong>º</strong> O S.A. compreenderá:
+**Art**. 7**º** O S.A. compreenderá:
 
 I) Seção de Pessoal (Sc. P.)
 
@@ -88,27 +86,27 @@ III) Seção de Material (Sc. M.);
 
 IV) Seção de Comunicações (Sc. C.)
 
-<strong>Art</strong>. 8<strong>º</strong> Os Serviços e Seções integrantes da D.E.C. serão dirigidos por Chefes, designados pelo Diretor.
+**Art**. 8**º** Os Serviços e Seções integrantes da D.E.C. serão dirigidos por Chefes, designados pelo Diretor.
 
-<strong>Art</strong>. 9<strong>º</strong> As Delegações serão dirigidos por Delegados e os Postos de Fiscalização por Encarregados, designados pelo Diretor.
+**Art**. 9**º** As Delegações serão dirigidos por Delegados e os Postos de Fiscalização por Encarregados, designados pelo Diretor.
 
-<strong>Art</strong>. 10. Poderá haver nas Delegações Turmas que terão Encarregados, designados pelos Delegados, mediante aprovação do diretor.
+**Art**. 10. Poderá haver nas Delegações Turmas que terão Encarregados, designados pelos Delegados, mediante aprovação do diretor.
 
-<strong>Art</strong>. 11. O Diretor da D.E.C. será auxiliado por um Assistente Administrativo, por êle designado.
+**Art**. 11. O Diretor da D.E.C. será auxiliado por um Assistente Administrativo, por êle designado.
 
-<strong>Art</strong>. 12. Onde não houver Delegações ou Postos, mas se tornar conveniente a assistência direta da D.E.C., ao juízo Diretor, serão por êle designados Fiscais incumbidos dos trabalhos locais.
+**Art**. 12. Onde não houver Delegações ou Postos, mas se tornar conveniente a assistência direta da D.E.C., ao juízo Diretor, serão por êle designados Fiscais incumbidos dos trabalhos locais.
 
-<strong>Art</strong>. 13. Mediante instruções de serviço baixadas pelo Diretor, as Seções poderão desdobrar-se em Turmas.
+**Art**. 13. Mediante instruções de serviço baixadas pelo Diretor, as Seções poderão desdobrar-se em Turmas.
 
-<strong>Art</strong>. 14. Os órgãos integrantes da Divisão funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 14. Os órgãos integrantes da Divisão funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 16. O Serviço de Fiscalização e Estatística (S.F.E.) terá a seu cargo as atividades discriminados nos parágrafos dêste artigo, as quais serão exercidas pelas Seções, dêle integrantes, competindo:
+**Art**. 16. O Serviço de Fiscalização e Estatística (S.F.E.) terá a seu cargo as atividades discriminados nos parágrafos dêste artigo, as quais serão exercidas pelas Seções, dêle integrantes, competindo:
 
-§ 1<strong>º</strong> À Sc. F.:
+§ 1**º** À Sc. F.:
 
 I) organizar e propor planos de fiscalização;
 
@@ -124,7 +122,7 @@ VI) sugerir a adoção de medidas necessárias ao perfeito andamento dos trabalh
 
 VII) apresentar anualmente, com a devida pontualidade, relatório acêrca dos trabalhos que lhe competem, transmitido infôrmações especiais acaso necessária.
 
-§ 2<strong>º</strong> À Sc. E.:
+§ 2**º** À Sc. E.:
 
 I) manter sempre em dia todos os dados indicadores ou cadastros que interessarem direta ou indiretamente à economia cafeeira;
 
@@ -136,7 +134,7 @@ IV) apresentar semsestralmente, com a deivda pontualidade, relatório acerca dos
 
 V) promover a impressão e distribuição de obras relacionadas com a economia cafeeira cuja edição seja autorizada pelo Diretor.
 
-<strong>Art</strong>. 17. Às Delegações (D) e Postos (P) incumbe, nos pôrtos ou pontos de escoamento, a execução das medidas visando cumprimento das finalidades da Divisão notadamente.
+**Art**. 17. Às Delegações (D) e Postos (P) incumbe, nos pôrtos ou pontos de escoamento, a execução das medidas visando cumprimento das finalidades da Divisão notadamente.
 
 I) registro dos documentos representativos do café destinado ao pôrto;
 
@@ -150,15 +148,15 @@ V) fiscalização dos embarques para o exterior e para outros pontos do país, n
 
 VI) coleta e remessa à Sc. E. dos dados estatísticos relacionados com as atividade de que tratam os itens anteriores.
 
-§ 1<strong>º</strong> No caso das D. de Santos e do Rio de Janeiro, ficarão a cargo das Sc. F. E. as atividades mencionadas nos itens I e IV dêste artigo com exclusão da classificação propriamente dita que será da competência da Sc. Cl., ambas esta Seções devendo articular-se convenientemente para o desempenho satisfatório da atividade referida no item IV: competindo à Sc. A. as funções de que trata o art. 13 e seus parágrafos, no que couber.
+§ 1**º** No caso das D. de Santos e do Rio de Janeiro, ficarão a cargo das Sc. F. E. as atividades mencionadas nos itens I e IV dêste artigo com exclusão da classificação propriamente dita que será da competência da Sc. Cl., ambas esta Seções devendo articular-se convenientemente para o desempenho satisfatório da atividade referida no item IV: competindo à Sc. A. as funções de que trata o art. 13 e seus parágrafos, no que couber.
 
-§ 2<strong>º</strong> Na execução dessas medidas, obedecerá a D. ou P. às instruções que lhe fôrem ministradas pela sede.
+§ 2**º** Na execução dessas medidas, obedecerá a D. ou P. às instruções que lhe fôrem ministradas pela sede.
 
-§ 3<strong>º</strong> Incumbe, ademais, às Delegações ou Postos a execução dos serviços internos de ordem administrativa necessárias a seu perfeito funcionamento.
+§ 3**º** Incumbe, ademais, às Delegações ou Postos a execução dos serviços internos de ordem administrativa necessárias a seu perfeito funcionamento.
 
-<strong>Art</strong>. 18. O. S. A. terá a seu cargo as atividades discriminadas nos parágrafos dêste artigo, as quais serão exercidas por intermédio das Seções dêle integrantes, competindo:
+**Art**. 18. O. S. A. terá a seu cargo as atividades discriminadas nos parágrafos dêste artigo, as quais serão exercidas por intermédio das Seções dêle integrantes, competindo:
 
-§ 1<strong>º</strong> À Seção do Pessoal - (Sc. P.):
+§ 1**º** À Seção do Pessoal - (Sc. P.):
 
 I) fiscalizar a assiduidade dos servidores;
 
@@ -182,7 +180,7 @@ X) organizar e manter em dia os assentamentos das fichas funcionais;
 
 XI) elaborar e controlar as relações dos descontos obrigatórios ou autorizados, em fôlhas de pagamento, bem como proceder à averbação e à classificação de tais descontos.
 
-§ 2<strong>º</strong> À Seção de Contabilidade (Sc. Ct.)
+§ 2**º** À Seção de Contabilidade (Sc. Ct.)
 
 I) fazer o registro contábil da despesa da D.E.C.;
 
@@ -220,7 +218,7 @@ VII) providenciar o reparo e conserto do material;
 
 VIII) fazer a codificação, classificação e marcação do material permanente;
 
-§ 4<strong>º</strong> À Seção de Comunicações (Sc. C.):
+§ 4**º** À Seção de Comunicações (Sc. C.):
 
 I) receber, registrar, distribuir, expedir e arquivar a correspondência da D.E.C.;
 
@@ -254,11 +252,11 @@ XV) promover a compra das obras cuja aquisição fôr autorizada pelo Diretor e 
 
 XVI) executar os demais atos decorrentes das atribuições que lhe incumbem.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 19. Ao Diretor incumbe:
+**Art**. 19. Ao Diretor incumbe:
 
 I) a representação ativa da D.E.C.; a orientação dos serviços afetos à mesma e a decisão dos assuntos de rotina, inclusive daqueles disciplinados em leis, regulamentos, resoluções e despachos do Ministro da Fazenda, em caso análogo.
 
@@ -344,7 +342,7 @@ XL) dirigir-se aos Chefes ou Diretores de repartições públicas, ou de quaisqu
 
 XLI) praticar os demais atos necessários ao cabal desempenho de suas atribuições;
 
-<strong>Art</strong>. 20. Aos Chefes de Serviço incumbe:
+**Art**. 20. Aos Chefes de Serviço incumbe:
 
 I) propor ao Diretor ou determianar aos Chefes de Seção medidas convenientes aos trabalhso;
 
@@ -378,7 +376,7 @@ XV) propor ao Diretor a antecipação ou prorrogação remunerada do período no
 
 XVI) praticar os demais atos de suas competência, no interêsse dos trabalhos;
 
-<strong>Art</strong>. 21. Aos Chefes de Seção e Encarregados de Turma incumbe:
+**Art**. 21. Aos Chefes de Seção e Encarregados de Turma incumbe:
 
 I) dirigir e fiscalizar os trabalhos informando o Chefe de Serviço, Delegado ou Chefe de Seção, conforme o caso, das atividades da Seção ou Turma, solicitando as providêncais que julgarem necessárias para a boa marcha dos respectivos trabalhos;
 
@@ -392,7 +390,7 @@ V) aplicar penas disciplinares, até a de repreensão, ao pessoal subordinado e 
 
 VI) cumprir com presteza e boa vontade as ordens que lhe forem dadas por seus superiores hierárquicos no interêsse dos serviços.
 
-<strong>Art</strong>. 22. Aos Delegados incumbe:
+**Art**. 22. Aos Delegados incumbe:
 
 I) dirigir e superintender todos os trabalhos da Delegação;
 
@@ -420,7 +418,7 @@ XII) praticar os demais atos necessários ao fiel cumprimento de suas atribuiç�
 
 Parágrafo único. Os Delegados serão competentes para empenhar despesas e requisitar pagamento e adiantamentos e bem assim passagens e transporte, em objeto de serviço.
 
-<strong>Art</strong>. 23. Ao Assistente Administrativo incumbe:
+**Art**. 23. Ao Assistente Administrativo incumbe:
 
 I - Substituir o Diretor em seus impedimentos eventuais;
 
@@ -430,7 +428,7 @@ III - Redigir a correspondência pessoal do Diretor;
 
 IV - Representar o Diretor, quando para isso designado.
 
-<strong>Art</strong>. 24. Aos Encarregados dos Postos de Fiscalização incumbe;
+**Art**. 24. Aos Encarregados dos Postos de Fiscalização incumbe;
 
 I - O cumprimento do disposto no art. 17 dêste Regimento;
 
@@ -442,21 +440,21 @@ IV - Assinar o expediente do Posto;
 
 V - Consultar o Diretor sôbre as dúvidas que tiverem quanto à execução, ou inteligência das leis, regulamentos, resoluções, etc., aplicáveis à D.C.E.
 
-<strong>Art</strong>. 25. Aos servidores que não tenham atribuições especificadas nêste Regulamento incumbe as que lhes forem cometidas pelos superiores hierárquicos.
+**Art**. 25. Aos servidores que não tenham atribuições especificadas nêste Regulamento incumbe as que lhes forem cometidas pelos superiores hierárquicos.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 26. O horário normal do trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público.
+**Art**. 26. O horário normal do trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público.
 
-<strong>Art</strong>. 27. Não ficam sujeitos a ponto o Diretor, os Chefes de Serviço, os Delegados, e os Encarregados de Posto e o Assistente Administrativo.
+**Art**. 27. Não ficam sujeitos a ponto o Diretor, os Chefes de Serviço, os Delegados, e os Encarregados de Posto e o Assistente Administrativo.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 28 Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais;
+**Art**. 28 Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais;
 
 a) o Diretor pelo Assistente Administrativo, por êle designado;
 
@@ -474,4 +472,4 @@ Parágrafo único. Haverá sempre servidores previamente designados para as subs
 
 Rio de Janeiro, 21 de novembro de 1949.
 
-<strong>GUILHERME DA SILVEIRA</strong>
+**GUILHERME DA SILVEIRA**

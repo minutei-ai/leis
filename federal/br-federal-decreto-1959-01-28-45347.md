@@ -1,5 +1,3 @@
-###DEC-045347-0-000-28-01-1959@@@
-
 DECRETO Nº 45.347, DE 28 DE JANEIRO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação do terreno que menciona, situado no Município de Beneditinos, no Estado do Pìauí.

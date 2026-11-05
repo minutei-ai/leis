@@ -1,5 +1,3 @@
-###DEC-005666-0-000-10-01-2006@@@
-
 DECRETO Nº 5.666, DE 10 DE JANEIRO DE 2006.
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia sobre Cooperação no Domínio de Tecnologias Militares de Interesse Mútuo, celebrado em Moscou, em 9 de abril de 2002.

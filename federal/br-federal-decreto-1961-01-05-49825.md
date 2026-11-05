@@ -1,5 +1,3 @@
-###DEC-049825-0-000-05-01-1961@@@
-
 DECRETO Nº 49.825, DE 05 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 43.977, de 4 de julho de 1958.

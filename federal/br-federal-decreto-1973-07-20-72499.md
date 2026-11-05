@@ -1,5 +1,3 @@
-###DEC-072499-0-000-20-07-1973@@@
-
 DECRETO N.º 72.499, DE 20 DE JULHO DE 1973.
 
 Redistribui servidor agregado da extinta Comissão do Vale do São Francisco para o Departamento Nacional de Estradas de Rodagem.

@@ -1,5 +1,3 @@
-###DEC-068187-0-000-10-02-1971@@@
-
 decreto nº 68.187, de 10 de Fevereiro de 1971.
 
 Autoriza o Reconhecimento dos Cursos de História, Geografia, Pedagogia e Letras, da Faculdade de Filosofia, Ciências e Letras de Catanduva, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-000625-0-000-11-06-1969@@@
-
 DECRETO-LEI Nº 625, DE 11 DE JUNHO DE 1969
 
 Dispõe sôbre o processamento dos institutos de enquadramento e readaptação no Serviço Civil do Poder Executivo.

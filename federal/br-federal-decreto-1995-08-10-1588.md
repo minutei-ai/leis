@@ -1,7 +1,3 @@
-1
-
-###DEC-001588-0-000-10-08-1995@@@
-
 DECRETO Nº 1.588, DE 10 DE AGOSTO DE 1995
 
 Altera dispositivos do Decreto nº 1.340, de 20 de dezembro de 1994, que dispõe sobre os efetivos do pessoal militar do Exército, em serviço ativo, a vigorarem em 1995.

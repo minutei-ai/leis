@@ -1,5 +1,3 @@
-###DEC-090800-0-000-10-01-1985@@@
-
 DECRETO Nº 90.800 dE 10 de janeiro dE 1985
 
 Renova a concessão outorgada à RÁDIO 14 DE JULHO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Julio de Castilhos, Estado do Rio Grande do Sul.

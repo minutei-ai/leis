@@ -1,5 +1,3 @@
-###DEC-069030-0-000-09-08-1971@@@
-
 DECRETO Nº 69.030, DE 9 DE AGôSTO DE 1971.
 
 Concede a Empresa de Mineração Benedito Ferreira Lopes o direito de lavrar argila e caulim, no município de Biritiba-Mirim, Estado de São Paulo.

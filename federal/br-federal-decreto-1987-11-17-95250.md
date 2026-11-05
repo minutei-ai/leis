@@ -1,5 +1,3 @@
-###DEC-095250-0-000-17-11-1987@@@
-
 DECRETO Nº 95.250, DE 17 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA BOA ESPERANÇA - LOTES 14 e 15 DO LOTEAMENTO PONTÃO", classificado como latifúndio por exploração, situado no Município de Araguatins, Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n.º 92.690, de 19 de maio de 1986, e dá outras providências.

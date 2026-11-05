@@ -1,5 +1,3 @@
-###DEC-064919-0-000-31-07-1969@@@
-
 DECRETO Nº 64.919, DE 31 DE JULHO DE 1969.
 
 Cede à "CODEMAT - Companhia de Desenvolvimento de Mato Grosso" faixa de terra que especifica no município de Dourados, Estado de Mato Grosso, e dá outras providências.

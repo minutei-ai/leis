@@ -1,5 +1,3 @@
-###DEC-080481-0-000-03-10-1977@@@
-
 Decreto nº 80.481, de 3 de outubro de 1977.
 
 Autoriza a transformação dos cursos de Ciências, de Matemática, de Física e de Ciências Biológicas, em curso de Ciências da Faculdade de Ciências de Bauru, Estado de São Paulo.

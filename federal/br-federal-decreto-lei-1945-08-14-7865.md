@@ -1,5 +1,3 @@
-###DEL-007865-0-000-14-08-1945@@@
-
 DECRETO-LEI N. 7.865 – DE 14 DE AGÔSTO DE 1945
 
 Altera, sem aumento de despesa o orçamento especial do Plano de Obras e Equipamentos.

@@ -1,5 +1,3 @@
-###DEC-091026-0-000-05-03-1985@@@
-
 Decreto nº 91.026, de 05 de março de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de Reforma agrária, no Município de Nazaré, no Estado da Bahia.

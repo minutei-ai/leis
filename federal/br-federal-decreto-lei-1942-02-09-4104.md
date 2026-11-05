@@ -1,5 +1,3 @@
-###DEL-004104-0-000-09-02-1942@@@
-
 DECRETO-LEI N. 4.104 – DE 9 DE FEVEREIRO DE 1942
 
 Cria a Rede de Experimentação Agrícola do Norte do país, subordinada ao Instituto Agronômico do Norte, em Belem, do Pará

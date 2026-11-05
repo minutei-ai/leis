@@ -1,5 +1,3 @@
-###DEC-058343-0-000-03-05-1966@@@
-
 DECRETO Nº 58.343, de 3 de maio de 1966.
 
 Concede à Frota Comercial Marítima e de Cabotagem do Brasil S.A. - FROCAB - autorização para funcionar como emprêsa de navegação de cabotagem.

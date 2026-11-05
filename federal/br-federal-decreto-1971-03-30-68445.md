@@ -1,5 +1,3 @@
-###DEC-068445-0-000-30-03-1971@@@
-
 DECRETO Nº 68.445, de 30 DE MARÇO DE 1971.
 
 Declara de utilidade pública a União Social de Cultura e Esportes, com sede em Campinas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-003594-0-000-08-09-2000@@@
-
 DECRETO Nº 3.594, DE 8 DE SETEMBRO DE 2000.
 
 Dispõe sobre a execução do Ajuste Complementar ao Convênio Básico entre o Governo da República Federativa do Brasil e a Organização Mundial da Saúde e o Acordo entre o Governo da República Federativa do Brasil e a Repartição Sanitária Pan-Americana para o Funcionamento do Escritório de Área da Organização Pan-Americana da Saúde/Organização Mundial da Saúde no Brasil, de 16 de março de 2000.
@@ -136,4 +134,14 @@ O presente Ajuste Complementar poderá ser alterado por troca de Notas mediante 
 
 Feito em Brasília, em 16 de março de 2000, em dois exemplares originais, no idioma português, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PELA OPAS/OMS</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Serra</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">George Alleyne</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro da Saúde</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor da OPAS</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+
+PELA OPAS/OMS
+
+José Serra
+
+George Alleyne
+
+Ministro da Saúde
+
+Diretor da OPAS

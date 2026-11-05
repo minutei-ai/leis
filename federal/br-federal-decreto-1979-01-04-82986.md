@@ -1,5 +1,3 @@
-###DEC-082986-0-000-04-01-1979@@@
-
 decreto nº 82.986, de 04 de janeiro de 1979
 
 Autoriza alienação de bem imóvel pertencente ao patrimônio da Universidade Federal da Paraíba.

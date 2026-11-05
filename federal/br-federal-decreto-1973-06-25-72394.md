@@ -1,5 +1,3 @@
-###DEC-072394-0-000-25-06-1973@@@
-
 Decreto nº 72.394, DE 25 DE JUNHO DE 1973.
 
 Autoriza o funcionamento do Curso de Artes Industriais, Licenciatura de 1° grau, na Faculdade de Ciências, da Fundação Educacional de Bauru, com sede na cidade de Bauru, Estado de São Paulo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210150)<br>
-
 # DECRETO N° 69.000, DE 23 DE OUTUBRO DE 2024
 
 ### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento das Bonificações por Resultados - BR, exercício 2023._

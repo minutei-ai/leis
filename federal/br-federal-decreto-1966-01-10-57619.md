@@ -1,5 +1,3 @@
-###DEC-057619-0-000-10-01-1966@@@
-
 DECRETO Nº 57.619, DE 10 DE JANEIRO DE 1966.
 
 Outorga Concessão à Rádio Clube de Rio Largo S.A. para instalar uma emissora de radiodifusão de sons.

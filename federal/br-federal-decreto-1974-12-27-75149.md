@@ -1,5 +1,3 @@
-###DEC-075149-0-000-27-12-1974@@@
-
 DECRETO Nº 75.149, DE 27 DE DEZEMBRO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado de Alagoas.
@@ -21,8 +19,6 @@ Brasília, 27 de dezembro de 1974; 153º da Independência e 86º da República.
 Ernesto Geisel
 
 Mário Henrique Simonsen
-
-###DEC-075149-0-000-27-12-1974@@@RET01+++
 
 DECRETO Nº 75.149, DE 27 DE DEZEMBRO DE 1974.
 

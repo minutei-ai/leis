@@ -1,5 +1,3 @@
-###DEC-045291-0-000-26-01-1959@@@
-
 Decreto nº 45.291, de 26 de janeiro de 1959.
 
 Autoriza a Companhia de Cimento Portland Paraíso a pesquisar caulim e mica no município de Espera Feliz, no Estado de Minas Gerais.

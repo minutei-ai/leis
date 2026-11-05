@@ -1,5 +1,3 @@
-###DEC-007106-0-000-10-02-2010@@@
-
 DECRETO Nº 7.106, DE 10 DE FEVEREIRO DE 2010.
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo de Barbados, firmado em Bridgetown, em 21 de novembro de 2004.

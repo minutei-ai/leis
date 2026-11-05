@@ -1,5 +1,3 @@
-###DEC-097484-0-000-31-01-1989@@@
-
 DECRETO N° 97.484, DE 31 DE JANEIRO DE 1989
 
 Altera o Cerimonial da Marinha, aprovado pelo Decreto n° 87.427, de 27 de julho de 1982.

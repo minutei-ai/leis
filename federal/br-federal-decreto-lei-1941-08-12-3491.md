@@ -1,5 +1,3 @@
-###DEL-003491-0-000-12-08-1941@@@
-
 DECRETO-LEI N. 3.491 – DE 12 DE AGOSTO DE 1941
 
 Cria a função gratificada de chefe de Portaria do Arquivo Nacional e dá outras providências

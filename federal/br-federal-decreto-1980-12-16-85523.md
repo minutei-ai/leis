@@ -1,5 +1,3 @@
-###DEC-085523-0-000-16-12-1980@@@
-
 Decreto nº 85.523, de 16 de dezembro de 1980.
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, alterado pelo Decreto nº 84.993, de 05 de agosto de 1980.

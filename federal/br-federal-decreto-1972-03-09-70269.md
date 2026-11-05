@@ -1,5 +1,3 @@
-###DEC-070269-0-000-09-03-1972@@@
-
 DECRETO Nº 70.269, DE 9 DE MARÇO DE 1972
 
 Revoga o Decreto nº 9.355, de 31 de janeiro de 1912, que concedeu à empresa America Brazil Corporation autorização para funcionar na República Federativa do Brasil.

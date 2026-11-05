@@ -1,7 +1,3 @@
-1
-
-###DEC-000998-0-000-01-12-1993@@@
-
 DECRETO N° 998, DE 1° DE DEZEMBRO DE 1993
 
 Dispõe sobre a execução do Protocolo de Adequação ao Acordo Regional de Abertura de Mercados em Favor do Equador (Acordo n° 2), entre Brasil e Equador, de 3l de maio de 1993.
@@ -46,7 +42,6 @@ josé jerônimo moscado de souza
 
 Pelo Governo da República do Equador:
 
-<br>
 EDUARDO CABEZAS MOLINA
 
 TABELAS

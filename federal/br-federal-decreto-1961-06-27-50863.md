@@ -1,5 +1,3 @@
-###DEC-050863-0-000-27-06-1961@@@
-
 DECRETO Nº 50.863, de 27 de junho de 1961.
 
 Estabelece normas para pagamento de despesas de perícia nos tombamentos dos bens e instalações das emprêsas de energia elétrica.

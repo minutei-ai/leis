@@ -1,5 +1,3 @@
-###DEC-081033-0-000-15-12-1977@@@
-
 Decreto nº 81.033, de 15 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Química, da Universidade Estadual de Londrina, com sede na cidade de Londrina, Estado do Paraná.

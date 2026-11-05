@@ -1,5 +1,3 @@
-###DEL-003664-0-000-29-09-1941@@@
-
 DECRETO-LEI N. 3.664 – DE 29 DE SETEMBRO DE 1941
 
 Altera a carreira de Engenheiro do Quadro Permanente do Ministério da Aeronáutica

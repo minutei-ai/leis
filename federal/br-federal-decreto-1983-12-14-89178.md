@@ -1,5 +1,3 @@
-###DEC-089178-0-000-14-12-1983@@@
-
 DECRETO Nº 89.178, DE 14 DE DEZEMBRO DE 1983
 
 Regulamenta a Lei nº 7.122, de 12 de setembro de 1983, que dispõe sobre a emissão de uma série especial de selos, comemorativa do centenário de nascimento de Getúlio Vargas.

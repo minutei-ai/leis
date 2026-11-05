@@ -1,5 +1,3 @@
-###DEC-056225-0-000-30-04-1965@@@
-
 DECRETO Nº 56.225, DE 30 DE ABRIL DE 1965.
 
 Autoriza a Emprêsa Brasileira de Engenharia S.A. a pesquisar ouro no município de São Félix do Xingu - Estado do Pará.

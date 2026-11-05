@@ -1,5 +1,3 @@
-###DEC-078949-0-000-15-12-1976@@@
-
 DECRETO Nº 78.949, DE 15 DE DEZEMBRO DE 1976
 
 Autoriza o funcionamento do curso de Enfermagem da Escola de Farmácia e Odontologia de Alfenas, com sede na cidade de Alfenas, Estado de Minas Gerais.

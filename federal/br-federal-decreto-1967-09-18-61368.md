@@ -1,5 +1,3 @@
-###DEC-061368-0-000-18-09-1967@@@
-
 Decreto nº 61.368, de 18 de Setembro de 1967.
 
 Revoga o Decreto nº 1.858, de 4 de agôsto de 1937.

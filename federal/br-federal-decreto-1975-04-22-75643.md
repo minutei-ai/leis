@@ -1,5 +1,3 @@
-###DEC-075643-0-000-22-04-1975@@@
-
 DECRETO Nº 75.643, DE 22 DE ABRIL DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, compreendendo parte do loteamento Fazenda da Luz - 1º Distrito - São Gonçalo, Estado do Rio de Janeiro, destinada à instalação de um parque de transmissores, pela Fundação Radio Mauá.

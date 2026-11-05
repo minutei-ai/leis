@@ -1,7 +1,3 @@
-1
-
-###DEC-097615-0-000-05-04-1989@@@
-
 DECRETO N° 97.615, DE 05 DE ABRIL DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “RIO PRETO”, classificado como” latifúndio por exploração”, situado no Município de Matos Costa, no Estado de Santa Catarina, compreendido na zona prioritária, fixada pelo Decreto n° 92.693, de 19 de maio de 1986, e dá outras providências.

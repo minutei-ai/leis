@@ -1,5 +1,3 @@
-###DEC-088228-0-000-14-04-1983@@@
-
 Decreto nº 88.228, de 14 de abril de 1983
 
 Autoriza o aumento do Capital Social da Companhia Vale do Rio Doce - CVRD.

@@ -1,5 +1,3 @@
-###DEC-068814-0-000-28-06-1971@@@
-
 DECRETO Nº 68.814 - DE 28 DE JUNHO DE 1971.
 
 Concede reconhecimento à Faculdade Estadual de Ciências Econômicas e Contábeis de Londrina, com o curso de Ciências Econômicas, PR.

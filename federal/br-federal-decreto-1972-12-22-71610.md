@@ -1,5 +1,3 @@
-###DEC-071610-0-000-22-12-1972@@@
-
 DECRETO Nº 71.610 - DE 22 DE DEZEMBRO DE 1972
 
 Concede reconhecimento da Faculdade de Engenharia Souza Marques, da Fundação Técnico Educacional Souza Marques, com os cursos de Engenharia Civil e Engenharia Mecânica, na Guanabara.

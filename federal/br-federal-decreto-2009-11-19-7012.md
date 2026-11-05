@@ -1,5 +1,3 @@
-###DEC-007012-0-000-19-11-2009@@@
-
 DECRETO Nº 7.012, DE 19 DE NOVEMBRO DE 2009.
 
 Altera os arts. 1o e 2o do Regulamento da Ordem do Mérito Cultural, aprovado pelo Decreto no 1.711, de 22 de novembro de 1995.

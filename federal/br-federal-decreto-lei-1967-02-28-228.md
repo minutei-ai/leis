@@ -1,5 +1,3 @@
-###DEL-000228-0-000-28-02-1967@@@
-
 dECRETO-LEI Nº 228, DE 28 DE FEVEREIRO DE 1967
 
 Reformula a organização da representação estudantil e dá outras providências.

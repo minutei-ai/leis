@@ -1,5 +1,3 @@
-###DEC-051968-0-000-26-04-1963@@@
-
 DECRETO Nº 51.968, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Companhia Paulista de Mineração a pesquisar siltitos e Folhelhos no município de Pilar do Sul, Estado de São Paulo.

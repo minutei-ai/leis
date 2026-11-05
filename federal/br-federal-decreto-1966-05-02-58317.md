@@ -1,5 +1,3 @@
-###DEC-058317-0-000-02-05-1966@@@
-
 DECRETO Nº 58.317, DE 2 DE MAIO DE 1966.
 
 Altera dispositivo do Decreto número 55.722, de 2 de fevereiro de 1965.

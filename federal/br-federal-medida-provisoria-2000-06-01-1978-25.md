@@ -1,5 +1,3 @@
-###MPV-001978-0-025\-01-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-25, DE 1 de junho DE 2000.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

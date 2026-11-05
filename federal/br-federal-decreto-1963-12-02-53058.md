@@ -1,5 +1,3 @@
-###DEC-053058-0-000-02-12-1963@@@
-
 Decreto nº 53.058, de 2 de dezembro de 1963.
 
 Concede a Ford Motor do Brasil S.A. autorização para continuar a funcionar na República.

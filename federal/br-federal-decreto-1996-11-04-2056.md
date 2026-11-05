@@ -1,5 +1,3 @@
-###DEC-002056-0-000-04-11-1996@@@
-
 DECRETO Nº 2.056, DE 4 DE NOVEMBRO DE 1996.
 
 Aprova o Regulamento do Serviço Móvel Celular.

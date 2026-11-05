@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/61f99751-f59c-4f18-82c2-ea3961f00a7e/texto#nowhere)
 
-###DEL-000430-0-000-22-01-1969@@@
-
 DECRETO-LEI Nº 430, DE 22 DE JANEIRO DE 1969
 
 Transfere para a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS as ações pertencentes à União Federal do capital da Usina Termelétrica de Figueira S.A.- UTELFA.

@@ -1,5 +1,3 @@
-###DEC-087204-0-000-20-05-1982@@@
-
 Decreto nº 87.204, de 20 de maio de 1982
 
 Cassa a concessão outorgada à RÁDIO CIDADE CANÇÃO LTDA., para executar serviços de radiodifusão sonora em onda tropical, na cidade de Mandaguaçu, Estado do Paraná.

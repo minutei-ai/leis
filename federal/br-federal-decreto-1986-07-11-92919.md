@@ -1,5 +1,3 @@
-###DEC-092919-0-000-11-07-1986@@@
-
 DECRETO Nº 92.919, DE 11 DE JULHO DE 1986
 
 Dispõe sobre a transferência, do Rio de Janeiro para Brasília, da Comissão Nacional da Indústria da Construção Civil - CNICC, do Ministério da Indústria e do Comércio - MIC.

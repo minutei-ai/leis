@@ -1,5 +1,3 @@
-###DEC-077625-0-000-17-05-1976@@@
-
 Decreto nº 77.625, de 17 de maio de 1976
 
 Altera a redação dos artigos 97 e 103 do Regulamento do Programa de Assistência ao Trabalhador Rural, aprovado pelo Decreto nº 73.617, de 12 de fevereiro de 1974, e dá outras providências.

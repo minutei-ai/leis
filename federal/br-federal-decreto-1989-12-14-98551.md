@@ -1,5 +1,3 @@
-###DEC-098551-0-000-14-12-1989@@@
-
 DECRETO Nº 98.551, DE 14 DE DEZEMBRO DE 1989
 
 Dá nova redação ao art. 9º do Decreto nº 81.316, de 8 de fevereiro de 1978.

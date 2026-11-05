@@ -1,5 +1,3 @@
-###DEC-048492-0-000-11-07-1960@@@
-
 decreto nº 48.492, de 11 de julho de 1960.
 
 Transfere sem aumento de despesa a função da Tabela Única de Extranumerário-Mensalista do Ministério da Justiça e Negócios Interiores para idêntica Tabela de Ministério da Fazenda.

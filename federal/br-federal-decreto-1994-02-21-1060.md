@@ -1,7 +1,3 @@
-1
-
-###DEC-001060-0-000-21-02-1994@@@
-
 DECRET0 Nº 1.060, DE 21 DE FEVEREIR0 DE 1994
 
 Dispõe sobre a execução da Adesão de Cuba ao Acordo de Cooperação e Intercâmbio de Bens nas Áreas Cultural, Educacional e Científica, entre Brasil, Argentina, Bolívia, Colômbia, Chile, Equador, México, Paraguai, Peru, Uruguai, Venezuela e Cuba, de 7 de julho de 1992.

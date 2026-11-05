@@ -1,5 +1,3 @@
-###DEC-084784-0-000-12-06-1980@@@
-
 DECRETO Nº 84.784 DE 12 DE JUNHO DE 1980
 
 Autoriza o funcionamento dos cursos de Administração, de Ciências Contábeis e Ciências Econômicas, das Faculdades Reunidas de Administração, Ciências Contábeis e Ciências Econômicas de Palmas, Estado do Paraná.

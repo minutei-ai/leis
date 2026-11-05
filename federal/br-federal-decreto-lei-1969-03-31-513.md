@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9aafc00d-f915-4bea-8c8d-4a4720174758/texto#nowhere)
 
-###DEL-000513-0-000-31-03-1969@@@
-
 DECRETO-LEI Nº 513, DE 31 DE MARÇO DE 1969
 
 Autoriza a doação ao imóvel que menciona, situado no Distrito Federal e dá outras providências.

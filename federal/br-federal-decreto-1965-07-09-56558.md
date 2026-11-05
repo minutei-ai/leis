@@ -1,5 +1,3 @@
-###DEC-056558-0-000-09-07-1965@@@
-
 DECRETO Nº 56.558, DE 9 DE JULHO DE 1965.
 
 Concede a Pedreira Monte Carlo Limitada toda autorização para funcionar como emprêsa de mineração.

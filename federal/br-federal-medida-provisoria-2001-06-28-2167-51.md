@@ -1,5 +1,3 @@
-###MPV-002167-0-051-28-06-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.167‑51, DE 28 DE JUNHO DE 2001
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

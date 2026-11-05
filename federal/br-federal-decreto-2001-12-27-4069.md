@@ -1,5 +1,3 @@
-###DEC-004069-0-000-27-12-2001@@@
-
 DECRETO Nº 4.069, DE 27 DE DEZEMBRO DE 2001
 
 Altera os Anexos I e IV do Decreto no 3.746, de 6 de fevereiro de 2001, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 2001.

@@ -1,5 +1,3 @@
-###DEL-006483-0-000-09-05-1944@@@
-
 DECRETO-LEI N. 6.483 – DE 9 DE MAIO DE 1944
 
 Cria a 2a Bateria Móvel de Artilharia de Costa

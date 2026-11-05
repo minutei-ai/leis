@@ -20,5 +20,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Município de Aparecida de Goiânia, aos 19 de outubro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

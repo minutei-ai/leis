@@ -1,5 +1,3 @@
-###DEC-056830-0-000-02-09-1965@@@
-
 DECRETO Nº 56.830, DE 2 DE SETEMBRO DE 1965.
 
 Concede à Pedreira Santa Irenéia Ltda. autorização para funcionar como emprêsa de mineração.

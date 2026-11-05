@@ -1,5 +1,3 @@
-###DEC-076502-0-000-23-10-1975@@@
-
 DECRETO Nº 76.502, DE 23 DE OUTUBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade Muriaé Ltda. Para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Muriaé, Estado de Minas Gerais.

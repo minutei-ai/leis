@@ -1,5 +1,3 @@
-###DEC-045999-0-000-15-05-1959@@@
-
 Decreto nº 45.999, de 15 de maio de 1959.
 
 Autoriza o cidadão brasileiro Domício Gondim Barreto a pesquisar minérios de zinco, chumbo e cobre no município de Vazante, Estado de Minas Gerais.

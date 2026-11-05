@@ -1,5 +1,3 @@
-###DEC-079049-0-000-27-12-1976@@@
-
 DECRETO Nº 79.049, DE 27 DE DEZEMBRO DE 1976.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Rio Branco, Estado do Acre, compreendidos na área prioritária de Reforma Agrária, assim declarada pelo Decreto nº 67.557, de 12 de novembro de 1970, e ampliada pelo Decreto nº 75.295, de 27 de janeiro de 1975.

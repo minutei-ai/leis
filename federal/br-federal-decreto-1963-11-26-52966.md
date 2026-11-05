@@ -1,5 +1,3 @@
-###DEC-052966-0-000-26-11-1963@@@
-
 DECRETO Nº 52.966, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Antônio Ribeiro de Andrade a pesquisar minério de manganês no município de Aquidauana, Estado de Mato Grosso.

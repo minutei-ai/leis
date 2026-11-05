@@ -14,8 +14,10 @@ Goiânia, 30 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-VIRMONDES CRUVINEL<br>
+VIRMONDES CRUVINEL
+
 Deputado Estadual

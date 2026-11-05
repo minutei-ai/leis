@@ -1,5 +1,3 @@
-###DEC-096774-0-000-26-09-1988@@@
-
 DECRETO N° 96.774, DE 26 DE SETEMBRO DE 1988
 
 Altera o Decreto n° 93.874, de 23 de dezembro de 1986.

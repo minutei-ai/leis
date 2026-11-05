@@ -1,11 +1,17 @@
-LEI Nº 21.232, DE 11 DE JANEIRO DE 2022<br>
-<br>
-\- [Vide Decreto nº 10.184](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106481/decreto-10184), de 19-12-2022 (Regulamenta o procedimento para a execução<br>
-orçamentária e financeira das emendas parlamentares individuais impositivas)<br>
-\- [Vide Decreto nº 10.161](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106266/decreto-10161), de 01-11-2022 - (Dispôe sobre normas para o encerramento da<br>
-execução orçamentária, financeira e contábil do exercício financeiro de 2022)<br>
-\- [Vide Decreto nº 10.098](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105660/decreto-10098), de 14-06-2022 - (Regulamenta o procedimento para<br>
-a execução orçamentária e financeira das emendas parlamentares individuais<br>
+LEI Nº 21.232, DE 11 DE JANEIRO DE 2022
+
+\- [Vide Decreto nº 10.184](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106481/decreto-10184), de 19-12-2022 (Regulamenta o procedimento para a execução
+
+orçamentária e financeira das emendas parlamentares individuais impositivas)
+
+\- [Vide Decreto nº 10.161](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106266/decreto-10161), de 01-11-2022 - (Dispôe sobre normas para o encerramento da
+
+execução orçamentária, financeira e contábil do exercício financeiro de 2022)
+
+\- [Vide Decreto nº 10.098](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105660/decreto-10098), de 14-06-2022 - (Regulamenta o procedimento para
+
+a execução orçamentária e financeira das emendas parlamentares individuais
+
 impositivas por meio das transferências especiais previstas no art. 111-A da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual)).
 
 Estima a receita e fixa a despesa do Estado para o exercício de 2022.
@@ -434,11 +440,8 @@ Art. 32. Esta Lei entra em vigor na data de sua publicação, mas produz efeitos
 
 Goiânia, 11 de janeiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
-Governador do Estado<br>
-<br>
+Governador do Estado
 
 Os anexos da lei nº 21.232, de 11 de janeiro de 2022, que estima a receita e fixa a despesa do estado para o exercício vigente, estão disponíveis no sítio eletrônico da secretaria de estado da economia ([https://www.economia.go.gov.br](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17537)), conforme dispõem o caput e o § 3º do art. 15 da lei nº 21.064, de 21 de julho de 2021.

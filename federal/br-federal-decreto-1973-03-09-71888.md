@@ -1,5 +1,3 @@
-###DEC-071888-0-000-09-03-1973@@@
-
 DECRETO Nº 71.888, DE 9 DE MARÇO DE 1973.
 
 Concede reconhecimento ao Curso de Direito, da Faculdade de Direito do Oeste de Minas, mantida pela Sociedade Educacional e Cultural de Divinópolis - MG.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095814-0-000-10-03-1988@@@
-
 DECRETO N° 95.814, DE 10 DE MARCO DE 1988
 
 Delega competência ao Ministro da Indústria e do Comércio para os atos que menciona e dá outras providências.

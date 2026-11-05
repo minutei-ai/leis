@@ -1,5 +1,3 @@
-###DEC-086577-0-000-16-11-1981@@@
-
 DECRETO Nº 86.577, DE 16 DE NOVEMBRO DE 1981.
 
 Extingue os Parques Regionais de Armamento da 2ª Região Militar, da 5ª Divisão de Exército, da 8ª Região Militar e da 9ª Região Militar/ 9ª Divisão de Exército, e os Parques Regionais de Motomecanização da 2ª Região Militar e da 3ª Região Militar.

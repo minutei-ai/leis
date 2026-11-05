@@ -1,5 +1,3 @@
-###DEC-005375-0-000-17-02-2005@@@
-
 DECRETO Nº 5.375 DE 17 DE FEVEREIRO DE 2005
 
 Dispõe sobre a aplicação do § 7º do art. 93 da Lei nº 8.112, de 11 de dezembro de l990, para compor força de trabalho no âmbito dos projetos que especifica, e dá outras providências.

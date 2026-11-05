@@ -1,5 +1,3 @@
-###DEC-092661-0-000-16-05-1986@@@
-
 DECRETO Nº 92.661, DE 16 DE MAIO DE 1986
 
 Promulga o Acordo de Cooperação Amazônica entre o Governo da República Federativa do Brasil e o Governo da República da Colômbia.
@@ -104,4 +102,14 @@ A vigência do presente acordo é indefinida, a menos que uma das partes o denun
 
 Feito em Bogotá, D.E., aos 12 dias do mês de março de 1981, em dois exemplares, nas línguas portuguesa e espanhola, sendo ambos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">da Colômbia:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Diego Uribe Vargas</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil:
+
+da Colômbia:
+
+Ramiro Saraiva Guerreiro
+
+Diego Uribe Vargas

@@ -10,7 +10,41 @@ Art. 1º A Lei nº 7.435/2023 passa a vigorar a seguinte alteração:
 
 ...............................................................................................................................
 
-<table><thead></thead><tbody><tr><td style="text-align: center; width: 263px;"><strong>CARGO</strong></td><td style="text-align: center; width: 289px;"><strong>QUANTITATIVO</strong></td></tr><tr><td style="text-align: center; width: 263px;">...........................................</td><td style="text-align: center; width: 289px;">..........................................</td></tr><tr><td style="text-align: center; width: 263px;">Auxiliar de Serviços Gerais</td><td style="text-align: center; width: 289px;">30</td></tr><tr><td style="text-align: center; width: 263px;">Motorista</td><td style="text-align: center; width: 289px;">06</td></tr><tr><td style="text-align: center; width: 263px;">Procurador Jurídico</td><td style="text-align: center; width: 289px;">02</td></tr><tr><td style="text-align: center; width: 263px;">Assistente Legislativo</td><td style="text-align: center; width: 289px;">06</td></tr><tr><td style="text-align: center; width: 263px;">Assistente Social</td><td style="text-align: center; width: 289px;">01</td></tr><tr><td style="text-align: center; width: 263px;">Técnico de Informática</td><td style="text-align: center; width: 289px;">06</td></tr><tr><td style="text-align: center; width: 263px;">Tradutor e Intérprete de Língua Brasileira de Sinais - LIBRAS</td><td style="text-align: center; width: 289px;">04</td></tr></tbody></table>
+**CARGO**
+
+**QUANTITATIVO**
+
+...........................................
+
+..........................................
+
+Auxiliar de Serviços Gerais
+
+30
+
+Motorista
+
+06
+
+Procurador Jurídico
+
+02
+
+Assistente Legislativo
+
+06
+
+Assistente Social
+
+01
+
+Técnico de Informática
+
+06
+
+Tradutor e Intérprete de Língua Brasileira de Sinais - LIBRAS
+
+04
 
 ”
 

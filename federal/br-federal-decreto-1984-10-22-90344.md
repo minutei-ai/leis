@@ -1,5 +1,3 @@
-###DEC-090344-0-000-22-10-1984@@@
-
 Decreto nº 90.344, de 22 de outubro de 1984.
 
 Acrescenta parágrafos ao artigo 3º do Decreto nº 69.442, de 29 de outubro de 1971, que instituiu a Comissão Naval Brasileira na Europa, com sede em Londres, Inglaterra.

@@ -1,5 +1,3 @@
-###DEC-059954-0-000-09-01-1967@@@
-
 DECRETO Nº 59.954, DE 9 DE JANEIRO DE 1967.
 
 Autoriza a Sociedade Brasileira de Mineração Fama Ltda. a lavrar aminto, no município de Itaberaba, no Estado da Bahia.

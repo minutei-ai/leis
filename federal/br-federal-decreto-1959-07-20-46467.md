@@ -1,5 +1,3 @@
-###DEC-046467-0-000-20-07-1959@@@
-
 DECRETO Nº 46.467, DE 20 DE JULHO DE 1959.
 
 Suprime cargo extinto.

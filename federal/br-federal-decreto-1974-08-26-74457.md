@@ -1,5 +1,3 @@
-###DEC-074457-0-000-26-08-1974@@@
-
 DECRETO Nº 74.457, DE 26 DE AGOSTO DE 1974.
 
 Concede reconhecimento à Faculdade de Medicina de Itajubá, mantida pela Associação de Integração Social de Itajubá, com sede na cidade de Itajubá, Estado de Minas Gerais.

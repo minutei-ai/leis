@@ -1,5 +1,3 @@
-###DEC-068868-0-000-05-07-1971@@@
-
 DECRETO Nº 68.868, DE 5 DE JULHO DE 1971.
 
 Concede à Júlia Adam - Empresa de Mineração e Águas Ltda. o direito de lavrar água mineral, no município de Iretama, Estado do Paraná.

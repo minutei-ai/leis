@@ -4,7 +4,8 @@ Dispõe sobre a regulamentação e fiscalização do serviço de transporte remu
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Fica regulamentado, na forma da presente Lei, o transporte remunerado privado individual de passageiros, com uso de aplicativos de tecnologia de transporte, no Município de Aparecida de Goiânia, nos moldes dos arts. 11-A e 11-B da Lei Federal nº 12.587, de 03 de janeiro de 2012, disciplinando o uso intensivo do viário urbano para exploração da atividade.
@@ -17,10 +18,12 @@ Art. 2º O direito ao uso intensivo do viário urbano no Município de Aparecida
 
 §3º. As plataformas tecnológicas de acesso e solicitação do serviço de que trata esta Lei devem ser adaptadas de modo a possibilitar a sua plena utilização por pessoa com deficiência, vedada a cobrança de quaisquer valores e encargos adicionais pela prestação desses serviços.
 
-Capítulo II<br>
+Capítulo II
+
 DO TRANSPORTE REMUNERADO INDIVIDUAL PRIVADO DE PASSAGEIROS
 
-Seção I<br>
+Seção I
+
 Do Serviço
 
 Art. 3º A autorização do uso intensivo do viário urbano para exploração de atividade econômica de transporte remunerado individual privado de passageiros é condicionada ao cadastro da Operadora de Tecnologia de Transporte Autorizada - OTTA perante a Secretaria Municipal da Fazenda e a seu credenciamento junto à Secretaria Municipal de Mobilidade e Defesa Social.
@@ -67,7 +70,8 @@ Art. 6º A OTTA deve disponibilizar sistema de divisão de corridas entre chamad
 
 §2º. As corridas divididas ficam limitadas a 06 (seis) passageiros se deslocando concomitantemente por veículo, de acordo com sua capacidade máxima de transporte.
 
-Seção II<br>
+Seção II
+
 Da Exploração Intensiva do Viário Urbano
 
 Art. 7º A exploração intensiva da malha viária pelo transporte remunerado individual privado de passageiros é condicionada à utilização de créditos de quilômetros pelas Operadoras de Tecnologia de Transporte Autorizadas – OTTA’s, independentemente do pagamento do Imposto Sobre Serviço de Qualquer Natureza – ISSQN incidente sobre a atividade, previsto no Código Tributário do Município de Aparecida de Goiânia.
@@ -86,14 +90,16 @@ Art. 9º Os créditos de quilômetros utilizados no mês serão contabilizados a
 
 Art. 10 O valor do preço público a ser cobrado pela exploração intensiva do viário urbano do Município será estabelecido por meio de Decreto do Chefe do Poder Executivo, com base nas diretrizes estabelecidas na presente Seção.
 
-Seção III<br>
+Seção III
+
 Da Política de Preços
 
 Art. 11 As Operadoras de Tecnologia de Transporte Autorizadas – OTTA’s têm liberdade para fixar o preço cobrado do usuário dos serviços.
 
 Parágrafo único. Devem ser disponibilizadas ao usuário, antes do início da corrida, informações sobre o preço a ser cobrado e cálculo da estimativa do valor final.
 
-Seção IV<br>
+Seção IV
+
 Da Política de Cadastramento de Veículos e Motoristas
 
 Art. 12 Podem se cadastrar nas Operadoras de Tecnologia de Transporte Autorizadas – OTTA’s motoristas e veículos que satisfaçam os seguintes requisitos:
@@ -132,14 +138,16 @@ I - registrar, gerir e assegurar a veracidade das informações prestadas pelos 
 
 II - cadastrar-se e compartilhar seus dados com o órgão gestor municipal, conforme regulamentação expedida nos termos da presente Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA FISCALIZAÇÃO
 
 Art. 14 A fiscalização das Operadoras de Tecnologia de Transporte Autorizadas – OTTA’s será exercida pela Secretaria de Mobilidade e Defesa Social ou órgão que a substituir na função de gestor dos serviços de transporte de passageiros no Município.
 
 Art. 15 Fica o Poder Executivo autorizado a celebrar convênio com órgãos de fiscalização de trânsito da União, Estado e outros Municípios, ou com a corporação da Polícia Militar para a fiscalização cooperativa de todo ou de parte do uso intensivo do viário urbano para exploração de atividade econômica privada de transporte remunerado individual de passageiros prestado através de tecnologia de comunicação, visando o aperfeiçoamento da dinâmica do exercício do poder de polícia administrativa.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS INFRAÇÕES E PENALIDADES
 
 Art. 16 O descumprimento de qualquer obrigação estabelecida nesta Lei e demais normas que disciplinam o serviço de transporte remunerado privado individual de passageiros, e a exploração intensiva do viário urbano no Município de Aparecida de Goiânia, sem prejuízo das responsabilidades civil e penal e de outras penalidades previstas na legislação vigente, resulta na cominação das seguintes sanções, de forma proporcional:
@@ -192,7 +200,8 @@ Parágrafo único. A revogação terá efeito pelo prazo de 05 (cinco) anos.
 
 Art. 22 Qualquer pessoa, constatando infração às disposições da presente Lei, poderá dirigir representação às autoridades competentes com vistas ao exercício de seu poder de polícia.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DISPOSIÇÕES FINAIS
 
 Art. 23 As Operadoras de Tecnologia de Transporte Autorizadas – OTTA’s deverão disponibilizar ao Município, sem quaisquer ônus, equipamentos, programas, sistemas, serviços ou qualquer outro mecanismo que viabilize, facilite, agilize ou dê segurança à fiscalização de suas operações pelos órgãos competentes, em tempo real.
@@ -207,10 +216,12 @@ Art. 27 Esta Lei entra em vigor em 60 (sessenta) dias após a sua publicação.
 
 Gabinete do Prefeito de Aparecida de Goiânia-GO, 03 de janeiro de 2019.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil
 
 ANEXO ÚNICO

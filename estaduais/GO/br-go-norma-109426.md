@@ -35,8 +35,6 @@ II – 1º de janeiro de 2025, quanto ao art. 3º deste Decreto.
 
 Goiânia, 29 de agosto de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

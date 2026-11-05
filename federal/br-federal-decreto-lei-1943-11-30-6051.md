@@ -1,5 +1,3 @@
-###DEL-006051-0-000-30-11-1943@@@
-
 DECRETO‑LEI N. 6.051 – DE 30 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 70.000,00 à verba que especifica

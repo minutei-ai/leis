@@ -1,14 +1,12 @@
-###DEC-030898-0-000-22-05-1952@@@
+**DECRETO Nº 30.898, DE 22 DE MAIO DE 1952.**
 
-<strong>DECRETO Nº 30.898, DE 22 DE MAIO DE 1952.</strong>
+***Suprime cargos extintos.***
 
-<em><strong>Suprime cargos extintos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos do art. 1º, alínea *m*, do Decreto-lei n. 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos do art. 1º, alínea <em>m</em>, do Decreto-lei n. 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos no Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio:
+**Art**. 1º Ficam suprimidos no Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio:
 
 1 cargo da classe D, da carreira de Atendente, vago em virtude da exoneração de Paulo Cavalcânti;
 
@@ -22,10 +20,10 @@
 
 7 cargos da classe D, da carreira de Servente, vagos em virtude da aposentadoria de Oscarino Marques Monteiro, Laura Bernardes e Antônio Alves Taveira, exoneração de Josino Soares Dantas e promoção de Bernadino Gomes, Manuel Felipe da Costa e Antônio Côrtes do Nascimento, ficando sem aplicação a dotação correspondente.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 22 de maio de 1952; 131º da Independência e 64º, da República
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Segadas Viana

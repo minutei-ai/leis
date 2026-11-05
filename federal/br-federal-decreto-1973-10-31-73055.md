@@ -1,5 +1,3 @@
-###DEC-073055-0-000-31-10-1973@@@
-
 DECRETO Nº 73.055, de 31 de outubro de 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

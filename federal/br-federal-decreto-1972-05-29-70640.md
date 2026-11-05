@@ -1,5 +1,3 @@
-###DEC-070640-0-000-29-05-1972@@@
-
 DECRETO Nº 70.640, DE 29 DE MAIO DE 1972.
 
 Cria, no Ministério da Saúde, a Secretária Especial de Saúde da Região Amazônica.

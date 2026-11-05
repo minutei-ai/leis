@@ -1,6 +1,4 @@
-###DEC-080448-0-000-28-09-1977@@@
-
- decreto nº 80.448, de 28 de setembro de 1977.
+decreto nº 80.448, de 28 de setembro de 1977.
 
 Altera o Decreto nº 77.066, de 21 de janeiro de 1976, que constitui a Indústria de  Material Bélico do Brasil (IMBEL), aprova seus Estatutos e dá outras providências.
 
@@ -24,9 +22,7 @@ DECRETA:
 
 Sylvio Frota
 
-###DEC-080448-0-000-28-09-1977@@@
-
- (\*) decreto nº 80.448, de 28 de setembro de 1977.
+(\*) decreto nº 80.448, de 28 de setembro de 1977.
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil (IMBEL), aprovados pelo Decreto nº 77.066, de 21 de janeiro de 1976, e dá outras providências.
 

@@ -1,5 +1,3 @@
-###DEL-002217-0-000-03-01-1985@@@
-
 # DEcreto-leI nº 2.217, de 03 dE janeiIro de 1985.
 
 Reajusta os vencimentos e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências.

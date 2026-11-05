@@ -1,5 +1,3 @@
-###DEC-076574-0-000-10-11-1975@@@
-
 DECRETO Nº 76.574, DE 10 DE NOVEMBRO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona situado no Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEL-008676-0-000-15-01-1946@@@
-
 DECRETO-LEI N. 8.676 – DE 15 DE JANEIRO DE 1946
 
 Prorroga a vigência do crédito especial aberto ao Ministério da Fazenda pelo art. 15 do Decreto-lei nº 6.763, de 3 de agôsto de 1944.

@@ -1,5 +1,3 @@
-###DEC-051430-0-000-14-03-1962@@@
-
 DECRETO Nº 51.430, DE 14 DE MARÇO DE 1962.
 
 Inclui funções gratificadas na Parte permanente do Quadro de Pessoal do Ministério da Aeronáutica.

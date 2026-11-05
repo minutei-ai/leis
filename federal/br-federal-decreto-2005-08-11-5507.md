@@ -1,5 +1,3 @@
-###DEC-005507-0-000-11-08-2005@@@
-
 DECRETO Nº 5.507, DE 11 DE AGOSTO DE 2005.
 
        Dispõe sobre a execução do Primeiro Protocolo Adicional ao Apêndice II ao Acordo de Complementação Econômica no 55, entre os Governos da República Federativa do Brasil e dos Estados Unidos Mexicanos, de 18 de maio de 2005.
@@ -22,11 +20,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 12.8.2005
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 55 CELEBRADO ENTRE O MERCOSUL E OS ESTADOS UNIDOS MEXICANOS
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 55 CELEBRADO ENTRE O MERCOSUL E OS ESTADOS UNIDOS MEXICANOS
 
 Primeiro Protocolo Adicional ao Apêndice II "Sobre o Comércio no Setor Automotivo entre o Brasil e o México"
 

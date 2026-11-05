@@ -16,5 +16,6 @@ Art. 5º. Esta Lei entra em vigor na data de sua publicação.
 
 MUNICIPIO DE APARECIDA DE GOIÂNIA-GO, 06 DIAS DO MÊS DE MAIO DO ANO DE 2021.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal

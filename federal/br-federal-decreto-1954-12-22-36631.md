@@ -1,14 +1,12 @@
-###DEC-036631-0-000-22-12-1954@@@
+**DECRETO Nº 36.631, DE 22 DE DEZEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.631, DE 22 DE DEZEMBRO DE 1954.</strong>
+***Declara de utilidade pública diversas áreas de terras necessárias ao aproveitamento hidráulico no rio Pardo, municípios de São José do Rio Pardo e Mococa, no Estado de São Paulo, e autoriza o Departamento de Águas e Energia Elétrica a promover as respectivas desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terras necessárias ao aproveitamento hidráulico no rio Pardo, municípios de São José do Rio Pardo e Mococa, no Estado de São Paulo, e autoriza o Departamento de Águas e Energia Elétrica a promover as respectivas desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, atendendo ao que requer o Departamento de Águas e Energia Elétrica, do Estado de São Paulo,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, atendendo ao que requer o Departamento de Águas e Energia Elétrica, do Estado de São Paulo,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as áreas de terras adiante indicadas, complementares as constantes do Decreto nº 32.565, de 9 de abril de 1953 e necessárias ao aproveitamento da energia hidráulica do rio Pardo, nos municípios de São José do Rio Pardo e Mococa, concedido pelo Decreto nº 31.757, de 11 de novembro de 1952:
+**Art**. 1º Ficam declaradas de utilidade pública as áreas de terras adiante indicadas, complementares as constantes do Decreto nº 32.565, de 9 de abril de 1953 e necessárias ao aproveitamento da energia hidráulica do rio Pardo, nos municípios de São José do Rio Pardo e Mococa, concedido pelo Decreto nº 31.757, de 11 de novembro de 1952:
 
 1 - Área de quatrocentos e noventa e três mil oitocentos e vinte (493.820) metros quadrados, de propriedade atribuída a Marina Coutinho Franco de Camargo e outros 2 glebas.
 
@@ -48,16 +46,16 @@
 
 Parágrafo único. As áreas acima aludidas estão representadas nas plantas aprovadas pelo Ministro da Agricultura.
 
-<strong>Art</strong>. 2º O Departamento de Águas e Energia Elétrica do Estado de São Paulo fica autorizado a promover, na forma da legislação vigente, a desapropriação das áreas indicadas.
+**Art**. 2º O Departamento de Águas e Energia Elétrica do Estado de São Paulo fica autorizado a promover, na forma da legislação vigente, a desapropriação das áreas indicadas.
 
-<strong>Art</strong>. 3º As desapropriações de que trata o art. 1º são declaradas de natureza urgente, para os efeitos do parágrafo único do art. 15, do Decreto-lei nº 3.365, de 21-6-41, acrescentado pelo Decreto-lei nº 4.152, de 6-3-42, com a nova redação que me deu o Decreto-lei nº 9.811, de 9-9-46.
+**Art**. 3º As desapropriações de que trata o art. 1º são declaradas de natureza urgente, para os efeitos do parágrafo único do art. 15, do Decreto-lei nº 3.365, de 21-6-41, acrescentado pelo Decreto-lei nº 4.152, de 6-3-42, com a nova redação que me deu o Decreto-lei nº 9.811, de 9-9-46.
 
-<strong>Art</strong>. 4º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 4º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 22 de dezembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Costa Pôrto

@@ -1,5 +1,3 @@
-###DEC-048931-0-000-09-09-1960@@@
-
 DECRETO Nº 48.931, DE 9 DE SETEMBRO DE 1960.
 
 Inclui funções gratificadas no Quadro Permanente do Ministério da Fazenda e dá outras providências.

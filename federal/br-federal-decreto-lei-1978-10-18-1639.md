@@ -1,5 +1,3 @@
-###DEL-001639-0-000-18-10-1978@@@
-
 # Decreto-lei nº 1.639, de 18 de outubro de 1978
 
 Dá nova redação aos incisos IX e XII do artigo 15 do Decreto-lei nº 37, de 18 de novembro de 1966.

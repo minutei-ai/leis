@@ -1,7 +1,3 @@
-1
-
-###DEC-000932-0-000-16-09-1993@@@
-
 DECRETO N° 932, DE 16 DE SETEMBRO DE 1993
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação n° 8 das Preferências Outorgadas no Período 1962/1980, entre Brasil e Bolívia, de 25/06/93.

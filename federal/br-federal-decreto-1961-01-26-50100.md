@@ -1,5 +1,3 @@
-###DEC-050100-0-000-26-01-1961@@@
-
 DECRETO Nº 50.100, DE 26 DE JANEIRO 1961.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Belavista.

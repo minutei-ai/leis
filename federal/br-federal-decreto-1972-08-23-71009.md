@@ -1,5 +1,3 @@
-###DEC-071009-0-000-23-08-1972@@@
-
 DECRETO Nº 71.009, DE 23 DE AGOSTO DE 1972.
 
 Outorga concessão para aproveitamento hidrelétrico, de uso exclusivo.

@@ -1,5 +1,3 @@
-###DEC-045748-0-000-07-04-1959@@@
-
 decreto nº 45.748, de 7 de abril de 1959.
 
 Concede à Companhia Industrial Fluminense Fundição de Estanho e suas Ligas autorização para funcionar como emprêsa de mineração.

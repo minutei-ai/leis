@@ -1,5 +1,3 @@
-###DEC-070426-0-000-17-04-1972@@@
-
 DECRETO Nº 70.426, DE 17 DE ABRIL DE 1972.
 
 Autoriza o funcionamento da Faculdade de Agrimensura, na cidade de Pirassununga - SP.

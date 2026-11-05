@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212348)<br>
-
 # LEI N° 18.419, DE 13 DE MARÇO DE 2026
 
 ## (Projeto de lei n° 489/2019, da Deputada Delegada Graciela - PL)

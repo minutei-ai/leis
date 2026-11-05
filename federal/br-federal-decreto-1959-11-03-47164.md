@@ -1,5 +1,3 @@
-###DEC-047164-0-000-03-11-1959@@@
-
 DECRETO Nº 47.164, DE 3 DE NOVEMBRO DE 1959.
 
 Autoriza o Embaixador do Brasil junto ao Gôverno da República do Líbano a aceitar a doação das parcelas de terreno que menciona, situadas na cidade de Beirute.

@@ -60,8 +60,6 @@ Art. 5º Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publi
 
 Goiânia, 22 de março de 2024; 136º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em exercício

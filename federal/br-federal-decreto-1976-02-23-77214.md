@@ -1,5 +1,3 @@
-###DEC-077214-0-000-23-02-1976@@@
-
 DECRETO Nº 77.214, DE 23 DE FEVEREIRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora Triangulina Ltda., cuja denominação foi, posteriormente alterada para Rádio Difusora de Uberaba S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Uberaba, Estado de Minas Gerais.

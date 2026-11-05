@@ -1,5 +1,3 @@
-###DEC-046641-0-000-17-08-1959@@@
-
 DECRETO Nº 46.641, DE 17 DE AGôSTO DE 1959.
 
 Autoriza a Fosforita Olinda S.A. a lavrar fosforita no município de Igaraçu, Estado de Pernambuco.

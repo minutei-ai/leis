@@ -1,5 +1,3 @@
-###DEC-005644-0-000-28-12-2005@@@
-
 DECRETO Nº 5.644, DE 28 DE DEZEMBRO DE 2005.
 
        Dispõe sobre a atuação integrada e o intercâmbio de informações entre a Secretaria da Receita Federal e a Secretaria da Receita Previdenciária e dá outras providências.
@@ -27,5 +25,3 @@ LUIZ INÁCIO LULA DA SILVA
      Antonio Palocci Filho
 
    Nelson Machado
-
-Este texto não substitui o publicado no DOU de 29.12.2005

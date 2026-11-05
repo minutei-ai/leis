@@ -1,5 +1,3 @@
-###DEC-046229-0-000-16-06-1959@@@
-
 Decreto nº 46.229, de 16 de junho de 1959.
 
 Modifica o Decreto nº 46.115, de 22 de maio de 1959, e o Decreto número 46.119, de 23 de maio de 1958.

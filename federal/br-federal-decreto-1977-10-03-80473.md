@@ -1,5 +1,3 @@
-###DEC-080473-0-000-03-10-1977@@@
-
 DECRETO Nº 80.473, DE 3 DE OUTUBRO DE 1977.
 
 Concede à CALA - Calcário Lagamar Indústria e Comércio Limitada o direito de lavrar calcário dolomítico no Município de Lagamar, Estado de Minas Gerais.

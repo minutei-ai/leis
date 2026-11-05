@@ -1,5 +1,3 @@
-###DEC-001826-0-000-29-02-1996@@@
-
 DECRETO N° 1.826, DE 29 DE FEVEREIRO DE 1996
 
 Regulamenta a Lei Complementar n° 84, de 18 de janeiro de 1996, que institui fonte de custeio para a manutenção da Seguridade Social.

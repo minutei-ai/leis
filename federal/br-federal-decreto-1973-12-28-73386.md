@@ -1,5 +1,3 @@
-###DEC-073386-0-000-28-12-1973@@@
-
 DECRETO Nº 73.386 - DE 28 DE DEZEMBRO DE 1973
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Cultura de Araraquara Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Araraquara, Estado de São Paulo.

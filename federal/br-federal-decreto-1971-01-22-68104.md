@@ -1,5 +1,3 @@
-###DEC-068104-0-000-22-01-1971@@@
-
 DECRETO Nº 68.104, DE 22 DE JANEIRO DE 1971.
 
 Regulamenta a Lei nº 5.648, de 11 de dezembro de 1970, que criou o Instituto Nacional da Propriedade Industrial - INPI e dá outras providências.

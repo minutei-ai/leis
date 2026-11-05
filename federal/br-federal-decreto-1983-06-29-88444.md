@@ -1,5 +1,3 @@
-###DEC-088444-0-000-29-06-1983@@@
-
 # Decreto nº 88.444, de 29 de junho de 1983
 
 Concede à Florestal Acesita S.A. autorização para proceder a aumento do seu capital social.

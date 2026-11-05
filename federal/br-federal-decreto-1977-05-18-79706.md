@@ -1,5 +1,3 @@
-###DEC-079706-0-000-18-05-1977@@@
-
 DECRETO Nº 79.706, DE 18 DE MAIO DE 1977.
 
 Dispõe sobre os atos da administração pública relativamente ao controle de preços

@@ -1,5 +1,3 @@
-###MPV-002040-0-012-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.040-12, DE 23 DE novembro DE 2000.
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamento, e dá outras providencias.

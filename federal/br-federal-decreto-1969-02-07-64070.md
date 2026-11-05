@@ -1,5 +1,3 @@
-###DEC-064070-0-000-07-02-1969@@@
-
 DECRETO Nº 64.070, DE 7 DE FEVEREIRO DE 1969.
 
 Reajusta a retribuição da Diretoria da Comissão do Plano do Carvão Nacional - CPCAN.

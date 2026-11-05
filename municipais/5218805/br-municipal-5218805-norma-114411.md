@@ -571,7 +571,8 @@ Art. 60. Nos estabelecimentos que comercializem ou consertem aparelhos sonoros, 
 
 Parágrafo único. As cabines instaladas deverão ser dotadas de aparelhos de renovação de ar.
 
-**CAPÍTULO V<br>
+**CAPÍTULO V
+
 DOS POSTOS DE COMBUSTÍVEIS**
 
 Art. 61. Os postos de serviços automobilísticos e combustíveis deverão manter, obrigatoriamente:
@@ -586,7 +587,8 @@ IV - pessoal de serviço adequadamente uniformizado;
 
 V - equipamento e instalação para inflar e calibrar pneus em perfeito estado de funcionamento e de fácil acesso aos usuários.
 
-**CAPÍTULO VI<br>
+**CAPÍTULO VI
+
 DOS INFLAMÁVEIS E EXPLOSIVOS**
 
 Art. 62. Somente serão permitidos o armazenamento e o comércio de substâncias inflamáveis ou explosivos quando, além da licença para funcionamento, o interessado atender as exigências legais quanto ao Zoneamento a edificação e a segurança, mediante licenciamento especial do órgão próprio da Prefeitura, sem prejuízo da observância das normas pertinentes baixadas por outras esferas governamentais.
@@ -707,10 +709,12 @@ III - a interdição das atividades, culminada com a multa prevista neste artigo
 
 [(Inserido pela Lei Complementar nº. 269, de 16 de dezembro de 2022)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114616/lei-complementar-269)
 
-**TÍTULO IV<br>
+**TÍTULO IV
+
 DA UTILIZAÇÃO DAS VIAS E LOGRADOUROS PÚBLICOS**
 
-**CAPÍTULO   I<br>
+**CAPÍTULO   I
+
 DO USO DAS VIAS EM GERAL**
 
 Art. 68. Compete ao Município regulamentar o uso das vias e logradouros públicos municipais.
@@ -771,7 +775,8 @@ IV - conduzir ou conservar animais sobre o passeio ou jardins.
 
 Parágrafo único. Excetuam-se ao disposto no item dois deste artigo, carrinhos de criança ou deficientes e, em ruas de pequeno movimento, triciclos e bicicletas de uso infantil.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DO EMPACHAMENTO DAS VIAS PÚBLICAS**
 
 Art. 76. Nenhuma obra, inclusive demolição, poderá dispensar o tapume provisório, que deverá ocupar uma faixa de largura no máximo, igual a metade do passeio.
@@ -830,7 +835,8 @@ Art. 81. Os estabelecimentos comerciais tipo bares lanchonetes e similares, pode
 
 § 2º Os proprietários de estabelecimentos comerciais que, por ventura, fizerem uso do leito das vias públicas serão autuados e providenciada a cassação de licença de funcionamento, sendo, de consequência, devidamente fechados pelo órgão competente.
 
-**SEÇÃO I<br>
+**SEÇÃO I
+
 DO USO DOS ESTORES**
 
 Art. 82. O uso temporário dos estores contra ação do sol, instalados na extremidade de marquises do respectivo edifício, somente será permitida quando:
@@ -843,7 +849,8 @@ III - forem mantidos em perfeito estado de limpeza e conservação;
 
 IV - tiverem na extremidade inferior, elementos convenientemente adaptados e suficientemente pesados, a fim de garantir, quando distendidos, relativa flexibilidade.
 
-**SEÇÃO II<br>
+**SEÇÃO II
+
 DA INSTALAÇÃO DOS TOLDOS**
 
 Art. 83. A instalação de toldos nas edificações depende de autorização prévia do órgão próprio da Prefeitura e somente será permitida quando atendidas as seguintes exigências:
@@ -880,7 +887,8 @@ IV - construção com material de boa qualidade, mantendo-se convenientemente co
 
 Parágrafo único. Os toldos não autorizados ou instalados em desacordo com o estabelecido neste artigo, serão removidos pelo órgão próprio da Prefeitura, sem prejuízo da aplicação de outras penalidades cabíveis.  
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DO MOBILIÁRIO URBANO**
 
 Art. 85. A localização e o funcionamento do mobiliário urbano (bancas de jornais e revistas, pit-dogs e similares), em logradouros públicos dependem de prévia autorização de uso do local expedida pelo órgão próprio da Prefeitura.
@@ -981,7 +989,8 @@ Art. 92. Para melhor atender ao interesse público, a Prefeitura poderá deixar 
 
 Art. 93. As bancas de jornais e revistas, pit-dogs e similares, não autorizadas serão apreendidas e removidas sem prejuízo da aplicação de outras penalidades cabíveis.
 
-**CAPÍTULO IV<br>
+**CAPÍTULO IV
+
 DOS MEIOS DE PUBLICIDADE E PROPAGANDA**
 
 Art. 94. O disposto neste código determina o ordenamento da publicidade no espaço urbano, objetivando contribuir para a preservação e a melhoria da paisagem urbana, respeitando o interesse coletivo e as necessidades sociais de conforto ambiental. 
@@ -1056,7 +1065,8 @@ Art. 103. Os anúncios e veículos de divulgação que forem encontrados sem a n
 
 § 3º Anúncios veiculados sobre outros componentes do mobiliário urbano serão regularizados de acordo com as normas deste Código.
 
-**SEÇÃO I<br>
+**SEÇÃO I
+
 DOS ANÚNCIOS**
 
 Art. 104. São considerados anúncios, para os efeitos deste Código, quaisquer mensagens visuais emitidas por veículos de divulgação presentes na paisagem urbana, visíveis dos logradouros públicos, cuja finalidade seja divulgar estabelecimentos, produtos, ideias, marcas, pessoas ou coisas e outras informações do interesse da comunidade, classificando-se em:
@@ -1077,7 +1087,8 @@ Art. 105. Nos logradouros públicos não será permitida a afixação ou coloca�
 
 § 2º Para a concessão ou permissão de que trata o parágrafo anterior será indispensável a manifestação favorável do órgão de Planejamento do Município.
 
-**SEÇÃO II<br>
+**SEÇÃO II
+
 DOS VEÍCULOS DE DIVULGAÇÃO**
 
 Art. 106. São considerados veículos de divulgação, para os efeitos deste Código, quaisquer equipamentos presentes ou visíveis dos logradouros públicos e propriedades particulares utilizados para transmitir mensagens visuais sobre estabelecimentos, produtos, ideias, marcas, pessoas, ou coisas, bem como outras informações de interesse da comunidade, classificando-se em:
@@ -1154,7 +1165,8 @@ XIII - quando, pela sua forma, dimensões e localização, vierem a configurar s
 
 [(Inserido pela Lei Complementar nº 450, de 19 de fevereiro de 2026)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114047/lei-complementar-450)
 
-**SEÇÃO III<br>
+**SEÇÃO III
+
 DO MURAL**
 
 Art. 108. É considerado mural o veículo de divulgação formado pela execução de "pintura artística” realizada diretamente sobre o muro e/ou fachada de edificação.
@@ -1181,7 +1193,8 @@ VI - o espaço publicitário destinado ao patrocinador, não poderá exceder à 
 
 ~~VI - não ter espaço para anúncio do patrocinador superior a 10% (dez   por cento) da área total.~~
 
-**SEÇÃO IV<br>
+**SEÇÃO IV
+
 DO LETREIRO**
 
 Art. 110. É considerado letreiro, para os efeitos deste Código, o veículo de divulgação visual que identifica o estabelecimento ou a edificação, através de nomes, denominações, logotipos e emblemas, sem existir qualquer característica publicitária, promocional ou de propaganda, devendo estar contido na edificação que identifica e denomina.
@@ -1202,7 +1215,8 @@ II - tratando-se de luminosos, os pedidos deverão ainda indicar o sistema de il
 
 III - os anúncios do inciso anterior serão colocados a uma altura mínima de 2,50 (dois metros e cinquenta centímetros) do passeio, não podendo ter nenhuma de suas estruturas fixadas na calçada.
 
-**SEÇÃO V<br>
+**SEÇÃO V
+
 DO PAINEL OU PLACA**
 
 Art. 112. Para os efeitos deste Código considera-se painel ou placa o engenho fixo ou móvel de uma ou mais faces constituídas por materiais que, expostos por longo período de tempo, não sofram deterioração física substancial, que exija estruturas metálicas, fundações ou redes elétricas, deverão estar dimensionados para suportar vendavais com ou sem movimento, luminoso, iluminado ou sem iluminação, excluindo-se aqueles que identifiquem no próprio local do estabelecimento.
@@ -1273,7 +1287,8 @@ X - é de responsabilidade da empresa proponente a confirmação do uso do siste
 
 [(Inserido pela Lei Complementar nº 450, de 19 de fevereiro de 2026)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114047/lei-complementar-450)
 
-**SEÇÃO VI<br>
+**SEÇÃO VI
+
 DOS EQUIPAMENTOS EÓLICOS**
 
 Art. 114. Para os efeitos da presente Lei considera-se equipamento eólico, o veículo de divulgação dotado de movimento, cuja fonte propulsora seja o vento, podendo ser da seguinte forma:
@@ -1288,7 +1303,8 @@ a) as partes móveis se situarem a uma altura mínima de 2,50 m (dois metros e c
 
 b) quando invadirem o espaço aéreo sobre o passeio, não ultrapassar 1,20 m (um metro e vinte centímetros), contado a partir da divisa do logradouro com o terreno.
 
-**SEÇÃO VII<br>
+**SEÇÃO VII
+
 DOS BALÕES**
 
 Art. 116. Para os efeitos da presente Lei é considerado balão, os equipamentos dotados de capacidade de flutuação no ar, utilizado na difusão de anúncios.
@@ -1299,7 +1315,8 @@ I - não utilizar gás inflamável na sua confecção;
 
 II - ter a sua instalação devidamente autorizada pelo órgão do Ministério da Aeronáutica responsável pela proteção ao voo, quando situados nas zonas de aproximação dos aeroportos.
 
-**SEÇÃO VIII<br>
+**SEÇÃO VIII
+
 DA PROPAGANDA EM MOBILIÁRIO URBANO**
 
 Art. 118. Para os efeitos da presente Lei é considerado mobiliário urbano, o veículo de divulgação formado pela existência do espaço destinado a anúncio, em equipamento prestador de serviço de utilidade pública, instalados nos logradouros públicos.
@@ -1326,7 +1343,8 @@ Art. 119. A exploração comercial de espaços publicitários em mobiliário urb
 
 [(Inserido pela Lei Complementar nº 450, de 19 de fevereiro de 2026)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114047/lei-complementar-450)
 
-**SEÇÃO IX<br>
+**SEÇÃO IX
+
 DOS VEÍCULOS AUTOMOTORES**
 
 Art. 120. Para os efeitos da presente Lei é considerado também como veículo de divulgação os veículos automotores.
@@ -1335,7 +1353,8 @@ Parágrafo único. Não serão considerados anúncios em veículos automotores a
 
 Art. 121. Os veículos automotores poderão ser utilizados como veículos de divulgação, desde que sejam obedecidas as restrições do artigo 106 desta Lei e estarem os anúncios   pintados ou afixados diretamente nas laterais do veículo automotor, excetuando-se os vidros.
 
-**SEÇÃO X<br>
+**SEÇÃO X
+
 DA PUBLICIDADE VOLANTE**
 
 Art. 122. A   propaganda   volante   via voz   ou alto falantes, depende de licença da Prefeitura, e pagamento da respectiva taxa.
@@ -1362,7 +1381,8 @@ Art. 124. O horário para funcionamento dos serviços de publicidade volante nas
 
 § 2º Incorrerá o concessionário do serviço publicitário utilizando amplificadores de som, numa multa correspondente a um salário mínimo vigente no País, pela infração das normas constantes deste Código e a reincidência implicará no cancelamento sumário da licença.
 
-**SEÇÃO XI<br>
+**SEÇÃO XI
+
 DO “OUTDOOR”**
 
 Art.125. Para os efeitos da presente Lei é considerado "outdoor", o veículo de divulgação constituído de quadro próprio, onde são colocados informes publicitários formando anúncios e possuindo estrutura de sustentação própria, devendo esta ser resistente à intempérie da natureza.
@@ -1453,13 +1473,16 @@ XIV- não conter material publicitário que contenham informações ou imagens i
 
 ~~XIV - manter afastamento   mínimo de   100 m (cem metros) de estações de passageiros, escolas, creches, cemitérios, hospitais, asilos, orfanatos, repartições públicas, vias de tráfego e rotatórias.~~
 
-**TÍTULO V<br>
+**TÍTULO V
+
 DA LOCALIZAÇÃO E FUNCIONAMENTO DE ESTABELECIMENTOS INDUSTRIAIS, COMERCIAIS, PRESTADORES DE SERVIÇOS E SIMILARES**
 
-**CAPÍTULO I <br>
+**CAPÍTULO I 
+
 DO LICENCIAMENTO DOS ESTABELECIMENTOS INDUSTRIAIS COMERCIAIS**
 
-**SEÇÃO I<br>
+**SEÇÃO I
+
 DA LICENÇA PARA LOCALIZAÇÃO E FUNCIONAMENTO**
 
 Art. 127. Nenhum estabelecimento comercial ou industrial poderá funcionar no Município sem prévia licença da Prefeitura, concedida a requerimento dos interessados e mediante pagamento dos devidos tributos. 
@@ -1536,7 +1559,8 @@ IV - por solicitação de autoridade competente, provados os motivos que fundame
 
 § 2º Poderá ser igualmente fechado todo estabelecimento que exercer atividades sem a necessária licença expedida em conformidade com o que preceitua neste capítulo.
 
-**SESSÃO II<br>
+**SESSÃO II
+
 DO COMÉRCIO AMBULANTE**
 
 Art. 133. Considera-se comércio ou serviço ambulante, para os efeitos desta Lei, o exercício de porta em porta, ou de maneira móvel nos logradouros públicos ou em locais de acesso ao público, sem direito a neles estacionar.
@@ -1593,7 +1617,8 @@ Art. 140. É proibido o exercício da atividade de camelô nos logradouros públ
 
 § 2º Os infratores deste artigo terão apreendidos e removidos os seus instrumentos, materiais, mercadoria e animais utilizados na atividade, além de sujeitarem-se a outras penalidades cabíveis.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DO HORÁRIO DE FUNCIONAMENTO**
 
 Art. 141. É livre o horário de funcionamento de estabelecimentos industriais e comerciais, inclusive aos sábados, domingos e feriados, respeitada a legislação federal, inclusive as normas de direito trabalhista, sob pena de cassação do respectivo Alvará de Licença para Localização e Funcionamento.
@@ -1870,7 +1895,8 @@ Parágrafo único. O horário de funcionamento dos estabelecimentos prestadores 
 
 [(Inserido pela Lei Complementar nº. 5.451, de 13 de junho de 2008)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114495/lei-complementar-5451)
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DA EXPLORAÇÃO DE PEDREIRAS, CASCALHEIRAS, OLARIAS, DEPÓSITOS DE AREIA E SAIBRO**
 
 Art. 143. A exploração de pedreiras, cascalheiras, olarias, depósitos de areia e saibro, depende de licença da Prefeitura, que a concederá, observados os preceitos deste Código. 
@@ -1943,7 +1969,8 @@ IV - de algum modo possa oferecer perigo a pontes, muralhas ou qualquer obra con
 
 V - de qualquer modo esteja colocando em risco o equilíbrio ambiental.
 
-**TÍTULO VI<br>
+**TÍTULO VI
+
 DOS SERVIÇOS PÚBLICOS**
 
 Art. 153. O Município exercerá, os seguintes serviços públicos, especialmente:
@@ -1964,7 +1991,8 @@ Art. 154. Fica o Prefeito Municipal autorizado a baixar decreto regulamentando o
 
 Art. 155. Os serviços de iluminação pública, serviços funerários e transportes coletivos, matadouros e limpeza urbana, poderão ser dados em concessão, pela Prefeitura.
 
-**SEÇÃO II<br>
+**SEÇÃO II
+
 DO MATADOURO**
 
 Art. 157. O matadouro Municipal deverá dispor de:
@@ -2025,7 +2053,8 @@ I - se o infrator for proprietário do estabelecimento, além de multa, ficará 
 
 II - é lícito a apreensão das carnes que forem encontradas sem o respectivo carimbo da inspeção sanitária.
 
-**SEÇÃO III<br>
+**SEÇÃO III
+
 DOS CEMITÉRIOS**
 
 Art. 168. Os cemitérios do Município terão caráter secular, sendo livres a todos os cultos religiosos, administrados pela autoridade municipal, podendo os seus serviços ser objeto de concessão, observadas as disposições da Lei Orgânica e legislação federal pertinente à matéria.
@@ -2064,8 +2093,10 @@ Art. 171. Os concessionários de terrenos ou seus representantes são obrigados 
 
 § 6º Caso o concessionário ou seu representante apareça, antes do prazo fatal, deverá executar obras que forem exigidas pela prefeitura, e ressarci-las de todas as despesas que houver tido com a conservação da sepultura e com as medidas tomadas, além do pagamento das multas devidas.
 
-**SEÇÃO IV <br>
-DOS TERMINAIS RODOVIÁRIOS**<br>
+**SEÇÃO IV 
+
+DOS TERMINAIS RODOVIÁRIOS**
+
 (Inserido pela Lei Complementar nº 27, de 02 de dezembro de 2014)
 
 Art. 171-A.    Os Terminais Rodoviários de embarque e desembarque de passageiros, em suas formas de operação e controle de linhas de veículos de transporte coletivo interdistritais, intermunicipais, interestaduais ou internacionais, incluindo áreas destinadas a estacionamento e outros serviços comunitários pertinentes, respeitada a missão social à qual se destinam, terão por finalidade a centralização do transporte coletivo interdistrital, intermunicipal. Interestadual e internacional.
@@ -2076,10 +2107,12 @@ Art. 171-B.    O uso dos Terminais Rodoviários descritos no art. 171-A, obed
 
 [(Inserido pela Lei Complementar nº 27, de 02 de dezembro de 2014)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114565/lei-complementar-27)
 
-**TÍTULO VII<br>
+**TÍTULO VII
+
 OUTROS RELATIVOS A ORDEM E O BEM ESTAR COMUNITÁRIO**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DOS ANIMAIS**
 
 Art. 172. É proibido o trânsito ou permanência de animais de qualquer espécie nas vias públicas do perímetro urbano.
@@ -2166,7 +2199,8 @@ XIII - usar arreios sobre partes feridas, contusões ou chagas de animal;
 
 XIV - praticar todo e qualquer ato, mesmo não especificado neste código, que acarretar violência e sofrimento para o animal.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DA EXTINÇÃO DE INSETOS NOCIVOS**
 
 Art. 183. Os proprietários, inquilinos, arrendatários ou possuidores de imóveis situados neste Município são obrigados a extinguir os formigueiros porventura neles existentes.
@@ -2175,10 +2209,12 @@ Parágrafo único. No caso de descumprimento dessa obrigação, os serviços ser
 
 Art. 184. A utilização de produtos químicos de qualquer natureza, em áreas urbanas, somente será admitida após licenciamento ambiental pelo órgão competente do Município.
 
-**TÍTULO VIII<br>
+**TÍTULO VIII
+
 DAS DISPOSIÇÕES GERAIS**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DOS PASSEIOS E MUROS**
 
 Art. 185. Nos terrenos, edificados ou não, localizados na zona urbana é obrigatória a construção de fechos divisórios com os logradouros públicos e de calçadas nos passeios, na forma estabelecida pela lei de edificações.
@@ -2209,10 +2245,12 @@ Art. 187. Os proprietários ou os possuidores a qualquer título de terrenos e e
 
 ~~Art. 187 Os fechos divisórios e as calçadas devem ser mantidos permanentemente conservados e limpos, ficando o proprietário obrigado a repará-los quando necessário.~~
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DAS PENALIDADES**
 
-**SEÇÃO I<br>
+**SEÇÃO I
+
 DAS INFRAÇÕES E DAS MULTAS**
 
 Art.188. O infrator dos dispositivos deste código, sem prejuízo da cassação da licença para localização ou da de funcionamento de atividade econômica ou profissional e outras cominações previstas em legislação específica, será punido com as seguintes multas:
@@ -2253,7 +2291,7 @@ c) R$237,57 (duzentos e trinta e sete reais e cinquenta e sete centavos) por inf
 
 [(Redação dada pela Lei Complementar nº. 5.734, de 04 de dezembro de 2009)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114536/lei-complementar-5734)
 
-c~~) R$150,00 (cento e cinquenta reais) por infração aos artigos: 40 - 46 - 47 - 51 - 54 - 57, parágrafo único - 59, §§ 1º, 2º e 4º - 60, parágrafo único 64 e 67, I a V;~~ ~~(Inserido pela Lei Complementar nº. 4.271, de 01 de abril de 2002)~~
+c~~) R$150,00 (cento e cinquenta reais) por infração aos artigos: 40 - 46 - 47 - 51 - 54 - 57, parágrafo único - 59, §§ 1º, 2º e 4º - 60, parágrafo único 64 e 67, I a V;(Inserido pela Lei Complementar nº. 4.271, de 01 de abril de 2002)~~
 
 d) R$200,00 (duzentos reais) por infração aos artigos: 44, § 4º - 52, §§1º a 3º - 58 - 62 - 63 - 65 e 66.
 
@@ -2619,7 +2657,8 @@ II - o curador ou pessoa sobre guarda estiver o incapaz; 
 
 III - aquele que der causa a contravenção forçada.
 
-**SEÇÃO II<br>
+**SEÇÃO II
+
 DOS AUTOS DE INFRAÇÃO**
 
 Art. 197. Auto de infração é o instrumento por meio do qual à autoridade Municipal apura a violação das disposições deste código e de outras Leis, decretos e regulamento do Município.
@@ -2788,10 +2827,12 @@ Parágrafo único. A partir desta fase, o processo passa a ter o rito processual
 
 ~~Parágrafo único -A partir desta fase o processo terá o rito do processo administrativo do Código Tributário do Município, inclusive quanto a recursos e julgamento de 2ª instância, inscrição em dívida ativa e ajuizamento. (Redação dada pela Lei Complementar nº. 4.271, de 1º de abril de 2002)~~
 
-**CAPÍTULO III <br>
+**CAPÍTULO III 
+
 DAS DISPOSIÇÕES FINAIS**
 
-**~~DAS DISPOSIÇÕES FISCAIS~~**<br>
+**~~DAS DISPOSIÇÕES FISCAIS~~**
+
 [(Redação dada pela Lei Complementar nº. 4.271, de 01 de abril de 2002)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/114482/lei-complementar-4271)
 
 Art. 205. A Prefeitura colaborará com o Estado e a União através de convênios se possível, visando:
@@ -2822,7 +2863,8 @@ Vanderval lima ferreira
 
 Secretário Geral
 
-**APÊNDICE I<br>
+**APÊNDICE I
+
 DISPOSIÇÕES TRANSITÓRIAS DA LEI COMPLEMENTAR Nº 50 DE 14 DE DEZEMBRO DE 2015:**
 
 LEI COMPLEMENTAR Nº 50, DE 14 DE DEZEMBRO DE 2015:
@@ -2833,43 +2875,133 @@ Altera Tabelas Anexas às Leis Complementares 5.727/2009 e 3.635/98 e dá outras
 
 Art. 1º Altera a Tabela IX – Taxa de Vistoria e de Licença para Construção de Edificações, Outras Obras e Loteamento, itens I - análises e vistorias de projeto de construção de edificações e expedição de alvará, anexa à Lei 5.727/2019, de 11.12.2009, Código Tributário do Município, alterando o item abaixo;
 
-<table style="width: 500px;"><tbody><tr><td><strong>NOTA</strong> – Para prédio com mais de três pavimentos será cobrada as vistorias e os exames próprios dos itens 04.01 a 04.11 supra, acrescentando-se a partir do quarto pavimento, em cada um dos referidos itens, para cada pavimento que exceder, o valor correspondente a 100% (cem) por cento do valor da tabela.</td></tr></tbody></table>
+**NOTA** – Para prédio com mais de três pavimentos será cobrada as vistorias e os exames próprios dos itens 04.01 a 04.11 supra, acrescentando-se a partir do quarto pavimento, em cada um dos referidos itens, para cada pavimento que exceder, o valor correspondente a 100% (cem) por cento do valor da tabela.
 
  Art. 2º Altera a Tabela IX – Taxa de Vistoria e de Licença para Construção de Edificações, Outras Obras e Loteamento, item III - análises e vistorias de projeto de execução de loteamento, anexa à Lei 5.727/2019, de 11.12.2009, Código Tributário do Município, inserindolhe os itens abaixo:
 
-<table style="width: 500px;"><tbody><tr><td>14</td><td>Análise e exame do projeto de infraestrutura (Pavimentação e Meio fio com Sarjeta)</td><td>R$ 246,00</td></tr><tr><td>15</td><td>Análise e exame do projeto de redes Água, e Esgotos</td><td>R$ 246,00</td></tr><tr><td>16</td><td>Análise e exame do projeto de rede de Galerias Pluviais</td><td>R$ 246,0</td></tr></tbody></table>
+14
+
+Análise e exame do projeto de infraestrutura (Pavimentação e Meio fio com Sarjeta)
+
+R$ 246,00
+
+15
+
+Análise e exame do projeto de redes Água, e Esgotos
+
+R$ 246,00
+
+16
+
+Análise e exame do projeto de rede de Galerias Pluviais
+
+R$ 246,0
 
 Art. 3º Altera a Tabela IX – Taxa de Vistoria e de Licença para Construção de Edificações, Outras Obras e Loteamento, item III - análises e vistorias de projeto de execução de loteamento, anexa à Lei 5.727/2019, de 11.12.2009, Código Tributário do Município, cuja redação se apresenta da seguinte forma:
 
-<table style="width: 500px;"><tbody><tr><td>01</td><td>Análise e exame do projeto de parcelamento do solo.</td><td>R$ 700,00</td></tr><tr><td>13</td><td>Registro do loteamento na Prefeitura, por lote.</td><td>R$ 12,87</td></tr></tbody></table>
+01
+
+Análise e exame do projeto de parcelamento do solo.
+
+R$ 700,00
+
+13
+
+Registro do loteamento na Prefeitura, por lote.
+
+R$ 12,87
 
 Art. 4º Altera a Tabela XI – Taxa de Expediente e Serviços, item IV, anexa à Lei 5.727/2009, de 11.12.2009, Código Tributário do Município, alterando os itens abaixo;
 
-<table style="width: 500px;"><tbody><tr><td>04.11</td><td>Registro e Transferência de Permissão de Taxi</td><td>R$ 2.538,25</td></tr></tbody></table>
+04.11
+
+Registro e Transferência de Permissão de Taxi
+
+R$ 2.538,25
 
 Art. 5º Altera a Tabela XI – Taxa de Expediente e Serviços, item V - taxa de expediente que compõe a receita do tesouro, cobrada pela AMT, anexa à Lei 5.727/2009, de 11.12.2009, Código Tributário do Município, inserindo-lhe os itens abaixo;
 
-<table style="width: 500px;"><tbody><tr><td>05.14</td><td>Fornecimento de cópia de Relatório ou Boletim de Ocorrência de Acidente de Trânsito</td><td>R$ 30,00</td></tr></tbody></table>
+05.14
+
+Fornecimento de cópia de Relatório ou Boletim de Ocorrência de Acidente de Trânsito
+
+R$ 30,00
 
 Art. 6º Altera a Tabela XI – Taxa de Expediente e Serviços, item V - taxa de expediente que compõe a receita do tesouro, cobrada pela AMT, anexa à Lei 5.727/2009, de 11.12.2009, Código Tributário do Município, passando a vigorar com a seguinte redação:
 
-<table style="width: 500px;"><tbody><tr><td>05.07</td><td>Autorização para fechamento de rua</td><td>50,00</td></tr></tbody></table>
+05.07
+
+Autorização para fechamento de rua
+
+50,00
 
  Art. 7º Altera a Tabela XI – Taxa de Expediente e Serviços, item VI - Atos da Secretaria Da Saúde, anexa à Lei 5.727/2009, de 11.12.2009, Código Tributário do Município, inserindo-lhe os itens abaixo;
 
-<table style="width: 500px;"><tbody><tr><td>05</td><td>Taxa de Análise de Projetos Arquitetônicos</td><td>R$ 450,00</td></tr><tr><td>06</td><td>Taxa de Reanálise de Projetos Arquitetônicos</td><td>R$ 130,00</td></tr></tbody></table>
+05
+
+Taxa de Análise de Projetos Arquitetônicos
+
+R$ 450,00
+
+06
+
+Taxa de Reanálise de Projetos Arquitetônicos
+
+R$ 130,00
 
 Art. 8º Altera a Tabela XI – Taxa de Expediente e Serviços, item VIII - atos Secretaria Municipal de Infraestrutura e Desenvolvimento Urbano, anexa à Lei 5.727/2019, de 11.12.2009, Código Tributário do Município, passando a vigorar com a seguinte redação:
 
-<table style="width: 500px;"><tbody><tr><td>01.12</td><td style="width: 400px;">Desmembramento de Lote, por unidade desmembrada</td><td style="width: 2px;">R$ 205,50</td></tr><tr><td>02.15</td><td style="width: 400px;">Título de perpetuidade (terreno jazigo 3,00 x 2,80m)</td><td style="width: 2px;">R$ 658,00</td></tr></tbody></table>
+01.12
+
+Desmembramento de Lote, por unidade desmembrada
+
+R$ 205,50
+
+02.15
+
+Título de perpetuidade (terreno jazigo 3,00 x 2,80m)
+
+R$ 658,00
 
 Art. 10. Altera a Tabela XII – preço público pela prestação de serviços de coleta e remoção de lixo e entulho em imóveis residenciais e não residenciais e de construção e reparação de calçadas e muros - remoção de entulhos e outros materiais, anexa à Lei 5.727/2019, de 11.12.2009, Código Tributário do Município, passando a vigorar com a seguinte redação:
 
-<table style="width: 500px;"><tbody><tr><td style="width: 59px;">04.01</td><td style="width: 385px;">Remoção de entulho por m³ (metro cúbico)</td><td>R$ 38,09</td></tr><tr><td style="width: 59px;">04.02</td><td style="width: 385px;">Remoção de lixo seco por m³ (metro cúbico)</td><td>R$ 40,15</td></tr><tr><td style="width: 59px;">04.03</td><td style="width: 385px;">Remoção de lixo úmido por tonelada</td><td>R$ 51,17</td></tr><tr><td style="width: 59px;">04.04</td><td style="width: 385px;">Remoção de expurgos de poda de árvore por m³ (metro cúbico)</td><td>R$ 38.09</td></tr></tbody></table>
+04.01
+
+Remoção de entulho por m³ (metro cúbico)
+
+R$ 38,09
+
+04.02
+
+Remoção de lixo seco por m³ (metro cúbico)
+
+R$ 40,15
+
+04.03
+
+Remoção de lixo úmido por tonelada
+
+R$ 51,17
+
+04.04
+
+Remoção de expurgos de poda de árvore por m³ (metro cúbico)
+
+R$ 38.09
 
 Art. 11. Altera a Tabela XVI – Valor Fixo de Profissionais Autônomos, anexa à Lei 5.727/2010, de 11.12.2009, Código Tributário do Município, passando a vigorar com a seguinte redação:
 
-<table style="width: 500px;"><tbody><tr><td>a) habilitados de nível superior.</td><td>R$ 197,00</td></tr><tr><td>b) habilitados de nível médio.</td><td>R$ 118,20</td></tr><tr><td>c) outros profissionais não habilitados.</td><td>R$ 59,10</td></tr></tbody></table>
+a) habilitados de nível superior.
+
+R$ 197,00
+
+b) habilitados de nível médio.
+
+R$ 118,20
+
+c) outros profissionais não habilitados.
+
+R$ 59,10
 
 Art. 12. Revogadas disposições em contrário, esta Lei entrará em vigor após noventa dias da data de sua publicação. 
 

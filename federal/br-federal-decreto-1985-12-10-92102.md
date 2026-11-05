@@ -1,5 +1,3 @@
-###DEC-092102-0-000-10-12-1985@@@
-
 DECRETO nº 92.102, de 10 de dezembro De 1985
 
 Outorga concessão à RÁDIO BOA ESPERANÇA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Barro, Estado do Ceará.

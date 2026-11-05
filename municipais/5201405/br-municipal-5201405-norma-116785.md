@@ -112,5 +112,6 @@ Art. 16 – Esta lei entrará em vigor na data de sua publicação, revogada as 
 
 Gabinete do Presidente da Câmara Municipal de Aparecida Goiânia, aos 04 dias do mês de fevereiro do ano de 2016.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 PRESIDENTE

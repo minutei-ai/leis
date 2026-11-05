@@ -1,5 +1,3 @@
-###DEC-061369-0-000-18-09-1967@@@
-
 Decreto nº 61.369, de 18 de Setembro de 1967.
 
 Revoga o Decreto nº 60.592, de 13 de abril de 1967, que declarou de utilidade pública, para fins de desapropriação pela PETROBRÁS, terreno na estrada da Gávea, no Rio de Janeiro, Estado da Guanabara.

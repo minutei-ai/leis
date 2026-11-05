@@ -1,7 +1,3 @@
-1
-
-###DEC-095646-0-000-15-01-1988@@@
-
 DECRETO N° 95.646, DE 15 DE JANEIRO DE 1988
 
 Autoriza o Banco Nacional de Crédito Cooperativo S.A.  BNCC a elevar o seu capital social.

@@ -1,5 +1,3 @@
-###DEC-077634-0-000-19-05-1976@@@
-
 DECRETO Nº 77.634, DE 19 DE MAIO DE 1976
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Duque de Caxias, Estado do Rio de Janeiro.

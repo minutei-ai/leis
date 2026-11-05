@@ -1,5 +1,3 @@
-###DEC-082592-0-000-07-11-1978@@@
-
 Decreto nº 82.592, de 07 de novembro de 1978.
 
 Concede reconhecimento ao curso de Tecnólogo em Saneamento Ambiental, ministrado pela Universidade Federal de Alagoas, em Maceió, Estado de Alagoas.

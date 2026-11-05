@@ -1,5 +1,3 @@
-###DEC-080982-0-000-12-12-1977@@@
-
 Decreto nº 80.982, de 12 de dezembro de 1977.
 
 Concede à Mineração Vale do Jacurici S/A o direito de lavrar cromita no Município de Monte Santo, Estado da Bahia.

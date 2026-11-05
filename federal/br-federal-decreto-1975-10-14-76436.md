@@ -1,5 +1,3 @@
-###DEC-076436-0-000-14-10-1975@@@
-
 DECRETO Nº 76.436, de 14 de outubro de 1975.
 
 Altera o Decreto nº 72.434, de 9 de julho de 1973, que criou a Coordenação Nacional do Ensino Agrícola do Ministério da Educação e Cultura.

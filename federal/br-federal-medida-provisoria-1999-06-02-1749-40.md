@@ -1,5 +1,3 @@
-###MPV-001749-0-040-02-06-1999@@@
-
 medida provisória nº 1.749-40, de 2 de junho de 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

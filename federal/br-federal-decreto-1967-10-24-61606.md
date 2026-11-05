@@ -1,5 +1,3 @@
-###DEC-061606-0-000-24-10-1967@@@
-
 DECRETO Nº 61.606, DE 24 DE OUTUBRO DE 1967.
 
 Concede nôvo prazo para pagamento do Impôsto sôbre a Propriedade Territorial Rural, respectiva Taxa de Cadastro quando incidente e a Contribuição ao Instituto Nacional de Desenvolvimento Agrário; devida pelos proprietários de imóveis rurais.

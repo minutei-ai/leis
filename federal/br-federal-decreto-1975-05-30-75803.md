@@ -1,5 +1,3 @@
-###DEC-075803-0-000-30-05-1975@@@
-
 DECRETO nº 75.803, de 30 de maio de 1975.
 
 Exclui cargo, que indica, do Quadro de Pessoal - Parte suplementar - do Ministério da Agricultura.

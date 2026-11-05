@@ -1,5 +1,3 @@
-###DEC-087112-0-000-19-04-1982@@@
-
 decreto nº 87.112, de 19 de abril de 1982
 
 Autoriza o BANCO DE CHILE a funcionar no País

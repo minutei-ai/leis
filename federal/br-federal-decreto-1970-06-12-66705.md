@@ -1,5 +1,3 @@
-###DEC-066705-0-000-12-06-1970@@@
-
 DECRETO Nº 66.705, DE 12 DE JUNHO DE 1970.
 
 Outorga à Fundação Rural Mineira, concessão para derivar as águas do rio São Francisco, no município de Manga, Estado de Minas Gerais.

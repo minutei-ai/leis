@@ -1,5 +1,3 @@
-###DEC-064263-0-000-21-03-1969@@@
-
 decreto nº 64.263, de 21 de março de 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Estado Maior das Fôrças Armadas, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

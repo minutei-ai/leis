@@ -1,5 +1,3 @@
-###DEC-064823-0-000-15-07-1969@@@
-
 Decreto nº 64.823 - de 15 de julho de 1969.
 
 Dispõe sôbre a elaboração orçamentária e prestação de contas da Escola Técnica de Indústria Química e Têxtil, do SENAI.

@@ -1,5 +1,3 @@
-###DEC-006672-0-000-02-12-2008@@@
-
 DECRETO Nº 6.672, DE 2 DE DEZEMBRO DE 2008.
 
 Regulamenta o art. 6o da Medida Provisória no 2.183-56, de 24 de agosto de 2001, que trata do Subprograma de Combate à Pobreza Rural, instituído no âmbito do Programa Nacional de Reforma Agrária, e dá outras providências.

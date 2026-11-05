@@ -1,5 +1,3 @@
-###DEC-003053-0-000-07-05-1999@@@
-
 DECRETO Nº 3.053, DE 7 DE MAIO DE 1999.
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 25, entre os Governos do Brasil e do Peru, de 31 de março de 1999.

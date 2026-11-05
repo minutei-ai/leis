@@ -1,5 +1,3 @@
-###DEC-070451-0-000-25-04-1972@@@
-
 DECRETO Nº 70.451, DE 25 DE ABRIL DE 1972.
 
 Aprova o Regulamento para o Quartel de Marinheiros.

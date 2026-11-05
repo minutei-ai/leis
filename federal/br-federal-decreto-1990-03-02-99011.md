@@ -1,7 +1,3 @@
-1
-
-###DEC-099011-0-000-02-03-1990@@@
-
 DECRETO Nº 99.011, DE 2 DE MARÇO DE 1990
 
 Regula a extinção de cargos e empregos vagos previstos na Lei nº 7.800, de 10 de julho de 1989, e dá outras providências.
@@ -25,8 +21,6 @@ Brasília, 02 de março de 1990; 169º da Independência e 102º da República.
 JOSÉ SARNEY
 
 João Batista de Abreu
-
-###DEC-099011-0-000-02-03-1990@@@REP01+++
 
 DECRETO N° 99.011, DE 2 DE MARÇO DE 1990
 

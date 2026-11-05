@@ -1,5 +1,3 @@
-###DEC-055544-0-000-11-01-1965@@@
-
 DECRETO Nº 55.544, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Walter Fernandes a lavrar água mineral no município de Ceará Mirim, Estado do Rio Grande do Norte.

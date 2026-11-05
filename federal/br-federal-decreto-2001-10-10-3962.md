@@ -1,5 +1,3 @@
-###DEC-003962-0-000-10-10-2001@@@
-
 DECRETO Nº 3.962, DE 10 DE OUTUBRO DE 2001
 
 Dispõe sobre liberação de recursos para pagamento dos servidores públicos federais, no âmbito da Administração Federal direta, autárquica e fundacional.

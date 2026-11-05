@@ -1,29 +1,27 @@
-**LEI COMPLEMENTAR Nº 100, DE 11 DE JANEIRO DE 2002**<br>
-**.** **REVOGADA** pela LC [320/08.](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/e9cb6d2c575c3438042574790068e1c1?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20320%2C%20DE)
+**LEI COMPLEMENTAR Nº 100, DE 11 DE JANEIRO DE 2002**
+
+**.REVOGADA** pela LC [320/08.](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/e9cb6d2c575c3438042574790068e1c1?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20320%2C%20DE)
 
 **Dispõe sobre o Plano de Carreira dos Professores da Educação Superior da Fundação Universidade do Estado de Mato Grosso, seus respectivos cargos e subsídios e dá outras providências.**
 
-<br>
-
 **O GOVERNADOR DO ESTADO DE MATO GROSSO**, tendo em vista o que dispõe o art. 45 da Constituição Estadual sanciona a seguinte lei complementar:
 
-<br>
-**TÍTULO I**<br>
+**TÍTULO I**
+
 **Das Disposições Preliminares**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Da Finalidade**
 
-<br>
 **Art. 1º** Esta lei complementar tem por finalidade disciplinar a Carreira dos Professores da Educação Superior da Fundação Universidade do Estado de Mato Grosso, dispondo sobre qualificação, habilitação, desempenho e subsídios dos referidos professores, observados os dispositivos legais relacionados à matéria.
 
 Parágrafo único. A Carreira dos Professores da Educação Superior é constituída de cargos públicos, com ingresso exclusivo por concurso público de provas e títulos.
 
-<br>
-**CAPÍTULO lI**<br>
+**CAPÍTULO lI**
+
 **Da Constituição do Plano de Carreira**
 
-<br>
 **Art. 2º** O Plano de Carreira dos Professores da Educação Superior da **UNEMAT** compreende os cargos integrantes da Carreira dos Professores da Educação Superior e as funções de gestão universitária.
 
 **Art. 3º** Os cargos de provimento efetivo da Carreira serão organizados dentro dos seguintes princípios e objetivos:
@@ -38,45 +36,42 @@ IV- adoção do sistema de progressão funcional na carreira, moldado no planeja
 
 V- avaliação do desempenho funcional, mediante critérios a serem aprovados pelo **CONSUNI** e homologados pelo Conselho Curador da FUNEMAT.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Da Lotação dos Cargos da Carreira**
 
-<br>
 **Art. 4º** A lotação global dos cargos efetivos corresponde ao quantitativo total de cargos pertencentes à Carreira dos Professores da Educação Superior.
 
 Parágrafo único. Os quantitativos de lotação da carreira serão estabelecidos autonomamente pela FUNEMT, de acordo com as suas necessidades institucionais, nos termos do disposto em seu estatuto.
 
-<br>
 **TÍTULO II**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Dos Professores da Educação Superior**
 
-<br>
 **Art. 5º** Para os efeitos desta lei complementar, entende-se por Professores da Educação Superior, o conjunto de professores ocupantes de cargos efetivos que exercem as atividades da Educação Superior elencadas no art. 7º desta lei complementar e que desempenham as atividades de ensino, pesquisa, extensão e de gestão administrativa da **UNEMAT.**
 
 **Art. 6º** Os Professores da Educação Superior de que trata o artigo anterior organizam-se em carreira própria denominada Carreira dos Professores da Educação Superior.
 
-<br>
-**TÍTULO III**<br>
+**TÍTULO III**
+
 **Da Carreira dos Professores da Educação Superior**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Das Atribuições da Educação Superior**
 
-<br>
 **Art. 7º** são consideradas atribuições da Educação Superior:
 
 I - as pertinentes à pesquisa, ensino e extensão que, indissociáveis, visem à aprendizagem, à produção do conhecimento, à ampliação e à difusão do saber e da cultura;
 
 II - as inerentes ao exercício de direção, coordenação, chefia e assessoramento na própria instituição ou em outras previstas em lei.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Da Estruturação da Carreira**
 
-<br>
 **Art. 8º** A Carreira dos Professores da Educação Superior, constituída pelo cargo único de Professor da Educação Superior, compõe-se de:
 
 I - Professor Auxiliar - Classe A;
@@ -91,22 +86,20 @@ V - Professor Titular - Classe E.
 
 Parágrafo único. Cada classe compreende 05 (cinco) níveis, representados pelos números de 01 (um) a 05 (cinco), exceto a de Professor Adjunto e a de Professor Titular que possuem um só nível.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Do Ingresso na Carreira**
 
-<br>
 **Art. 9º** o ingresso na Carreira dos Professores da Educação Superior será feito exclusivamente mediante habilitação em concurso público de provas e títulos, para o nível inicial da classe, de acordo com a titulação e de acordo com o edital aprovado pelo Conselho Curador da **FUNEMT**.
 
 § 1º O ingresso na Carreira dos Professores da Educação Superior será em jornada de 20 (vinte) e 30 (trinta) horas, excetuando-se na classe de Professor Titular;
 
 § 2º O ingresso na classe de Professor Titular será feito exclusivamente mediante habilitação em concurso público de provas e títulos, em jornada de dedicação exclusiva, no qual somente poderão inscrever-se portadores do Titulo de Livre-Docente, que possuam experiência comprovada de, no mínimo, 04 (quatro) anos de docência no ensino superior.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Da Progressão Funcional**
 
-<br>
 **Art. 10** A progressão funcional na Carreira dos Professores da Educação Superior ocorrerá exclusivamente pela titulação e avaliação de desempenho profissional, de acordo com o dispositivo legal, com exceção para Professor Titular, cujo ingresso na classe será feito exclusivamente mediante habilitação em concurso público de provas e títulos.
 
 **Art. 11** A progressão vertical na classe dar-se-á no intersticio de 03 (três) anos, sendo obrigatória a avaliação de desempenho e de mais critérios com apresentação de memorial descritivo.
@@ -145,20 +138,18 @@ III - da classe de Professor Assistente Doutor para a de Professor Adjunto, apó
 
 § 2º Os títulos referidos nos incisos I, II, III só terão validade mediante reconhecimento por órgãos oficiais do País.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **Do Estágio Probatório**
 
-<br>
 **Art. 13** O Professor nomeado para o cargo de provimento efetivo ficará sujeito ao estágio probatório por período de 03 (três) anos, durante o qual a sua aptidão e capacidade serão objetos de avaliação para o desempenho do cargo, obedecendo às diretrizes gerais estabelecidas no Título IV, Capítulo II, desta lei complementar.
 
 Parágrafo único. O professor não aprovado no estágio probatório será exonerado, cabendo-lhe recurso às instâncias deliberativas da UNEMAT, assegurada ampla defesa, o contraditório e o devido processo legal.
 
-<br>
-**CAPÍTULO VI**<br>
+**CAPÍTULO VI**
+
 **Da Jornada de Trabalho**
 
-<br>
 **Art. 14** O Professor da Educação Superior desempenhará suas atividades cumprindo as seguintes jornadas de trabalho:
 
 I - jornada de 20 (vinte) hora semanais de trabalho, sendo no mínimo 10 (dez) horas/aula semanais em atividades de ensino;
@@ -213,11 +204,10 @@ III - percepção de direitos autorais correlatos;
 
 IV - colaboração esporádica e não habitual em atividades de sua especialidade, devidamente autorizada pela unidade ou departamento onde estiver lotado, de acordo com regulamentação a ser elaborada pelo CONSUNI.
 
-<br>
-**CAPÍTULO VII**<br>
+**CAPÍTULO VII**
+
 **Dos Professores Visitantes e Substitutos**
 
-<br>
 **Art. 17** A FUNEMT poderá contratar Professores Visitantes e Professores Substitutos, por prazo determinado, de acordo com as necessidades de instituição.
 
 § 1º Os Professores de que trata o caput deste artigo não farão jus à progressão na carreira por avaliação de desempenho ou aos benefícios previstos no art. 33 desta lei complementar, exceto no § 1º.
@@ -254,14 +244,14 @@ IV - casos de exoneração, aposentadoria, falecimento ou abertura de novas vaga
 
 § 5º A contratação do Professor Substituto far-se-á mediante processo de seleção pública, através de edital expedido pelo Departamento, em consonância com os Institutos e/ou Faculdades, devidamente autorizada pelo Reitor.
 
-<br>
-**TÍTULO IV**<br>
+**TÍTULO IV**
+
 **Do Desenvolvimento Profissional**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Das Disposições Gerais**
 
-<br>
 **Art. 20** Visando a atender aos princípios e objetivos definidos no art. 3º desta lei complementar, a instituição elaborará um Plano Institucional de Desenvolvimento para os Professores da Educação Superior.
 
 § 1º O Plano Institucional de Desenvolvimento para os Professores da Educação Superior é parte integrante do Plano de Desenvolvimento Institucional da UNEMAT.
@@ -276,14 +266,14 @@ b) avaliação de desempenho.
 
 **Art. 21** A FUNEMT poderá firmar convênios ou protocolos de cooperação com outras instituições, com o objetivo de viabilizar o Plano de Desenvolvimento para os Professores da Educação Superior, visando ao desenvolvimento técnico, científico e cultural.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Do Desenvolvimento dos Professores na Carreira da Educação Superior**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Capacitação Docente**
 
-<br>
 **Art. 22** A capacitação docente tem por objetivo o aperfeiçoamento técnico, científico e cultural dos docentes da UNEMAT, na perspectiva de construção de um padrão de qualidade e do aprimoramento do desempenho de suas funções sociais.
 
 **Art. 23** A capacitação docente é dever e direito dos integrantes da Carreira dos Professores da Educação Superior e será assegurada pela **FUNEMT**, observando-se o disposto no art. 25.
@@ -312,11 +302,10 @@ Parágrafo único. O não-cumprimento do disposto no caput deste artigo implica 
 
 **Art. 30** A avaliação do plano e dos programas de capacitação docente da instituição, bem como a observância do cumprimento dos mesmos, é de responsabilidade do Conselho de Ensino, Pesquisa e Extensão - **CONEPE**.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Dos Afastamentos**
 
-<br>
 **Art. 31** Além dos casos previstos na legislação vigente, o docente integrante da Carreira dos Professores da Educação Superior poderá afastar-se de suas funções, assegurados os direitos e vantagens a que fizer jus, nas seguintes hipóteses:
 
 I - para comparecer a congressos ou reuniões relacionadas às atividades acadêmicas, administrativas, científicas;
@@ -341,25 +330,24 @@ V - para o exercício de função pública temporária.
 
 **Art. 32** A autorização para afastamento do docente, de que trata o art. 31 desta lei complementar, será da competência exclusiva do Reitor, excetuando-se o disposto no inciso I do referido artigo.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Remoção**
 
-<br>
 **Art. 33** Poderá ocorrer a remoção de docentes intercampi e interdepartamentos, desde que respeitada a área de concurso, autorizada pela unidade de lotação e atendidas às necessidades de serviço e de existência de vaga, mediante os interesses públicos, institucional e particular.
 
 § 1º A mobilidade de que trata o presente artigo será objeto de regulamentação específica pelo **CONSUNI.**
 
 § 2º A remoção do Professor, na forma prevista no caput deste artigo, será homologada pelo Reitor, mediante ato de lotação.
 
-<br>
-**TÍTULO V**<br>
+**TÍTULO V**
+
 **De Programa de Avaliação Docente**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Da Avaliação dos Professores da Educação Superior**
 
-<br>
 **Art. 34** A avaliação dos Professores da Educação Superior da **UNEMAT** é parte integrante do Programa de Avaliação Institucional e será efetivada com as seguintes finalidades:
 
 I - aprovação em estágio probatório e progressão na carreira;
@@ -368,11 +356,10 @@ II - atribuição e manutenção de jornada de trabalho.
 
 Parágrafo único. Os trabalhos referentes à avaliação docente serão realizados por comissões de professores.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **Da Comissão de Avaliação para Estágio Probatório e Carreira**
 
-<br>
 **Art. 35** A Comissão de Avaliação para estágio probatório e progressão na carreira terá como atribuições, além de outras que venham a ser definidas pelo **CONSUNI**, elaborar e submeter à apreciação do **CONSUNI**, através da Reitoria:
 
 I - propostas de normas que comporão o Instrumento de Avaliação de Desempenho dos docentes na **UNEMAT** para o estágio probatório e para a progressão na carreira;
@@ -407,11 +394,10 @@ IX - prêmios, títulos acadêmicos recebidos, desde que relativos às atividade
 
 X - participação em comissões temporárias ou permanentes.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Da Comissão de Avaliação para Jornada de Dedicação Exclusiva**
 
-<br>
 **Art. 38** A Comissão de Avaliação para jornada de dedicação exclusiva será constituída por 03 (três) Professores designados pela Reitoria com homologação do **CONSUNI.**
 
 § 1º A Comissão deverá elaborar seu regimento no prazo de 60 (sessenta) dias, a contar da data de sua instalação, submetendo-o à apreciação do CONSUNI.
@@ -444,14 +430,14 @@ VI - evidência de resultados apresentados em relatório conforme plano de pesqu
 
 VII - administração devida dos recursos destinados ao projeto, mediante prestação de contas.
 
-<br>
-**TÍTULO VI**<br>
+**TÍTULO VI**
+
 **Do Subsídio dos Professores da Educação Superior**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **De Subsídio**
 
-<br>
 **Art. 41** O sistema remuneratório dos Professores da Educação Superior é o estabelecido através de subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratórla, obedecido o disposto no art. 37, IX e X, da Constituição Federal.
 
 Parágrafo único. O subsídio ora fixado incorpora todas as verbas remuneratórias e demais vantagens pecuniárias atualmente percebidas pelos Professores da UNEMAT, inclusive adicionais, verbas de representação e gratificações.
@@ -460,14 +446,14 @@ Parágrafo único. O subsídio ora fixado incorpora todas as verbas remuneratór
 
 **Art. 43** As tabelas de subsídio a que se referem as jornadas de 20 (vinte) horas, de 30 (trinta) horas e de dedicação exclusiva do Professor da Educação Superior encontram-se, respectivamente, nos Anexos I, II e III desta lei complementar.
 
-<br>
-**TÍTULO VII**<br>
+**TÍTULO VII**
+
 **Das Disposições Gerais**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Das Disposições Transitórias**
 
-<br>
 **Art. 44** O enquadramento dos atuais Professores Efetivos na presente lei complementar, obedecerá aos seguintes critérios:
 
 I - na Classe, de acordo com a titulação exigida;
@@ -502,48 +488,122 @@ Parágrafo único. **V E T A D O.**
 
 Palácio Paiaguás, em Cuiabá, 11 de janeiro de 2002, 181º da Independência e 114º da República.
 
-**DANTE MARTINS DE OLIVEIRA**<br>
-HERMES GOMES DE ABREU<br>
-MAURÍCIO MAGALHÃES FARIA<br>
-JOSÉ RENATO MARTINS DA SILVA<br>
-BENEDITO XAVIER DE SOUZA CORBELINO<br>
-JOÃO JOSÉ DE AMORIM<br>
-JOSÉ GONÇALVES BOTELHO DO PRADO<br>
-GUILHERME FREDERICO DE MOURA MULLER<br>
-FRANCISCO TARQUÍNIO DALTRO<br>
-CARLOS AVALONE JÚNIOR<br>
-JEVERSON MISSIAS DE OLIVEIRA<br>
-VÍTOR CÂNDIA<br>
-CARLOS CARLÃO PEREIRA DO NASCIMENTO<br>
-JÚLIO STRUBING MULLER NETO<br>
-FAUSTO DE SOUZA FARIA<br>
-PEDRO PINTO DE OLIVEIRA<br>
-SUELI SOLANGE CAPITULA<br>
-ROBERTO TADEU VAZ CURVO<br>
-PEDRO CALMON PEPEU GARCIA VIEIRA SANTANA<br>
-THIERS FERREIRA<br>
-FREDERICO GUILHERME DE MOURA MULLER<br>
-SABINO ALBERTÃO FILHO<br>
+**DANTE MARTINS DE OLIVEIRA**
+
+HERMES GOMES DE ABREU
+
+MAURÍCIO MAGALHÃES FARIA
+
+JOSÉ RENATO MARTINS DA SILVA
+
+BENEDITO XAVIER DE SOUZA CORBELINO
+
+JOÃO JOSÉ DE AMORIM
+
+JOSÉ GONÇALVES BOTELHO DO PRADO
+
+GUILHERME FREDERICO DE MOURA MULLER
+
+FRANCISCO TARQUÍNIO DALTRO
+
+CARLOS AVALONE JÚNIOR
+
+JEVERSON MISSIAS DE OLIVEIRA
+
+VÍTOR CÂNDIA
+
+CARLOS CARLÃO PEREIRA DO NASCIMENTO
+
+JÚLIO STRUBING MULLER NETO
+
+FAUSTO DE SOUZA FARIA
+
+PEDRO PINTO DE OLIVEIRA
+
+SUELI SOLANGE CAPITULA
+
+ROBERTO TADEU VAZ CURVO
+
+PEDRO CALMON PEPEU GARCIA VIEIRA SANTANA
+
+THIERS FERREIRA
+
+FREDERICO GUILHERME DE MOURA MULLER
+
+SABINO ALBERTÃO FILHO
+
 JURANDIR ANTÔNIO FRANCISCO
 
-<br>
-
-<br>
 **ANEXO I**
 
-<table border="1"><tbody><tr valign="top"><td width="599" colspan="4"><div align="center"><b><font size="4" face="Arial">PROFESSOR UNEMAT – 20 HORAS</font></b></div></td></tr><tr valign="top"><td width="152"><div align="center"><b><font size="4" face="Arial">Classe</font></b></div></td><td width="153" rowspan="2"><div align="center"><b><font size="4" face="Arial">A</font></b></div></td><td width="147" rowspan="2"><div align="center"><b><font size="4" face="Arial">B</font></b></div></td><td width="147" rowspan="2"><div align="center"><b><font size="4" face="Arial">C</font></b></div></td></tr><tr valign="top"><td width="152"><div align="center"><b><font size="4" face="Arial">Nível</font></b></div></td></tr><tr valign="top"><td width="152"><div align="center"><font size="4" face="Arial">1</font></div></td><td width="153"><div align="center"><font size="4" face="Arial">1.065,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">1.810,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">2.450,00</font></div></td></tr><tr valign="top"><td width="152"><div align="center"><font size="4" face="Arial">2</font></div></td><td width="153"><div align="center"><font size="4" face="Arial">1.110,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">1.882,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">2.548,00</font></div></td></tr><tr valign="top"><td width="152"><div align="center"><font size="4" face="Arial">3</font></div></td><td width="153"><div align="center"><font size="4" face="Arial">1.155,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">1.954,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">2.646,00</font></div></td></tr><tr valign="top"><td width="152"><div align="center"><font size="4" face="Arial">4</font></div></td><td width="153"><div align="center"><font size="4" face="Arial">1.200,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">2.026,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">2.744,00</font></div></td></tr><tr valign="top"><td width="152"><div align="center"><font size="4" face="Arial">5</font></div></td><td width="153"><div align="center"><font size="4" face="Arial">1.245,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">2.098,00</font></div></td><td width="147"><div align="center"><font size="4" face="Arial">2.842,00</font></div></td></tr></tbody></table>
+<table><tbody><tr valign="top"><td colspan="4">**PROFESSOR UNEMAT – 20 HORAS**</td></tr><tr valign="top"><td>**Classe**</td><td rowspan="2">**A**</td><td rowspan="2">**B**</td><td rowspan="2">**C**</td></tr><tr valign="top"><td>**Nível**</td></tr><tr valign="top"><td>1</td><td>1.065,00</td><td>1.810,00</td><td>2.450,00</td></tr><tr valign="top"><td>2</td><td>1.110,00</td><td>1.882,00</td><td>2.548,00</td></tr><tr valign="top"><td>3</td><td>1.155,00</td><td>1.954,00</td><td>2.646,00</td></tr><tr valign="top"><td>4</td><td>1.200,00</td><td>2.026,00</td><td>2.744,00</td></tr><tr valign="top"><td>5</td><td>1.245,00</td><td>2.098,00</td><td>2.842,00</td></tr></tbody></table>
 
 **ANEXO II**
 
-<table border="1"><tbody><tr valign="top"><td width="600" colspan="5"><div align="center"><b><font size="4" face="Arial">PROFESSOR UNEMAT – 30 HORAS</font></b></div></td></tr><tr valign="top"><td width="120"><div align="center"><b><font size="4" face="Arial">Classe</font></b></div></td><td width="120" rowspan="2"><div align="center"><b><font size="4" face="Arial">A</font></b></div></td><td width="120" rowspan="2"><div align="center"><b><font size="4" face="Arial">B</font></b></div></td><td width="120" rowspan="2"><div align="center"><b><font size="4" face="Arial">C</font></b></div></td><td width="120" rowspan="2"><div align="center"><b><font size="4" face="Arial">D</font></b></div></td></tr><tr valign="top"><td width="120"><div align="center"><b><font size="4" face="Arial">Nível</font></b></div></td></tr><tr valign="top"><td width="120"><div align="center"><font size="4" face="Arial">1</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">1.600,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">2.720,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">3.680,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">-</font></div></td></tr><tr valign="top"><td width="120"><div align="center"><font size="4" face="Arial">2</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">1.665,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">2.830,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">3.830,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">-</font></div></td></tr><tr valign="top"><td width="120"><div align="center"><font size="4" face="Arial">3</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">1.730,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">2.940,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">3.980,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">4.600,00</font></div></td></tr><tr valign="top"><td width="120"><div align="center"><font size="4" face="Arial">4</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">1.795,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">3.050,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">4.130,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">-</font></div></td></tr><tr valign="top"><td width="120"><div align="center"><font size="4" face="Arial">5</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">1.860,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">3.160,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">4.280,00</font></div></td><td width="120"><div align="center"><font size="4" face="Arial">-</font></div></td></tr></tbody></table>
+<table><tbody><tr valign="top"><td colspan="5">**PROFESSOR UNEMAT – 30 HORAS**</td></tr><tr valign="top"><td>**Classe**</td><td rowspan="2">**A**</td><td rowspan="2">**B**</td><td rowspan="2">**C**</td><td rowspan="2">**D**</td></tr><tr valign="top"><td>**Nível**</td></tr><tr valign="top"><td>1</td><td>1.600,00</td><td>2.720,00</td><td>3.680,00</td><td>-</td></tr><tr valign="top"><td>2</td><td>1.665,00</td><td>2.830,00</td><td>3.830,00</td><td>-</td></tr><tr valign="top"><td>3</td><td>1.730,00</td><td>2.940,00</td><td>3.980,00</td><td>4.600,00</td></tr><tr valign="top"><td>4</td><td>1.795,00</td><td>3.050,00</td><td>4.130,00</td><td>-</td></tr><tr valign="top"><td>5</td><td>1.860,00</td><td>3.160,00</td><td>4.280,00</td><td>-</td></tr></tbody></table>
 
 **ANEXO III**
 
-<table border="1"><tbody><tr valign="top"><td width="600" colspan="6"><div align="center"><b><font size="4" face="Arial">PROFESSOR UNEMAT – DE</font></b></div></td></tr><tr valign="top"><td width="100"><div align="center"><b><font size="4" face="Arial">Classe</font></b></div></td><td width="100" rowspan="2"><div align="center"><b><font size="4" face="Arial">A</font></b></div></td><td width="100" rowspan="2"><div align="center"><b><font size="4" face="Arial">B</font></b></div></td><td width="100" rowspan="2"><div align="center"><b><font size="4" face="Arial">C</font></b></div></td><td width="100" rowspan="2"><div align="center"><b><font size="4" face="Arial">D</font></b></div></td><td width="100" rowspan="2"><div align="center"><b><font size="4" face="Arial">E</font></b></div></td></tr><tr valign="top"><td width="100"><div align="center"><b><font size="4" face="Arial">Nível</font></b></div></td></tr><tr valign="top"><td width="100"><div align="center"><font size="4" face="Arial">1</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">2.600,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">4.420,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">5.750,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">-</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">7.800,00</font></div></td></tr><tr valign="top"><td width="100"><div align="center"><font size="4" face="Arial">2</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">2.700,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">4.600,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">5.980,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">-</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">-</font></div></td></tr><tr valign="top"><td width="100"><div align="center"><font size="4" face="Arial">3</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">2.800,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">4.780,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">6.210,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">7.400,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">-</font></div></td></tr><tr valign="top"><td width="100"><div align="center"><font size="4" face="Arial">4</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">2.900,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">4.960,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">6.440,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">-</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">-</font></div></td></tr><tr valign="top"><td width="100"><div align="center"><font size="4" face="Arial">5</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">3.000,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">5.140,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">6.670,00</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">-</font></div></td><td width="100"><div align="center"><font size="4" face="Arial">-</font></div></td></tr></tbody></table>
+<table><tbody><tr valign="top"><td colspan="6">**PROFESSOR UNEMAT – DE**</td></tr><tr valign="top"><td>**Classe**</td><td rowspan="2">**A**</td><td rowspan="2">**B**</td><td rowspan="2">**C**</td><td rowspan="2">**D**</td><td rowspan="2">**E**</td></tr><tr valign="top"><td>**Nível**</td></tr><tr valign="top"><td>1</td><td>2.600,00</td><td>4.420,00</td><td>5.750,00</td><td>-</td><td>7.800,00</td></tr><tr valign="top"><td>2</td><td>2.700,00</td><td>4.600,00</td><td>5.980,00</td><td>-</td><td>-</td></tr><tr valign="top"><td>3</td><td>2.800,00</td><td>4.780,00</td><td>6.210,00</td><td>7.400,00</td><td>-</td></tr><tr valign="top"><td>4</td><td>2.900,00</td><td>4.960,00</td><td>6.440,00</td><td>-</td><td>-</td></tr><tr valign="top"><td>5</td><td>3.000,00</td><td>5.140,00</td><td>6.670,00</td><td>-</td><td>-</td></tr></tbody></table>
 
 **ANEXO IV**
 
-<table border="1"><tbody><tr valign="top"><td width="298"><div align="center"><b><font size="4" face="Arial">Função</font></b></div></td><td width="161"><div align="center"><b><font size="4" face="Arial">Quantidade</font></b></div></td><td width="141"><div align="center"><b><font size="4" face="Arial">Subsídio</font></b></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Reitor</font></td><td width="161"><div align="center"><font size="4" face="Arial">1</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">7.400,00</font></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Vice-Reitor</font></td><td width="161"><div align="center"><font size="4" face="Arial">1</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">5.000,00</font></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Pró-Reitor</font></td><td width="161"><div align="center"><font size="4" face="Arial">5</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">4.800,00</font></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Assessor Superior</font></td><td width="161"><div align="center"><font size="4" face="Arial">4</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">3.700,00</font></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Diretor de Instituto e Faculdade</font></td><td width="161"><div align="center"><font size="4" face="Arial">8</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">3.700,00</font></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Coordenador Regional</font></td><td width="161"><div align="center"><font size="4" face="Arial">11</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">3.700,00</font></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Chefe de Departamento</font></td><td width="161"><div align="center"><font size="4" face="Arial">45</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">2.960,00</font></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Assessor de Pró-Reitoria</font></td><td width="161"><div align="center"><font size="4" face="Arial">10</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">2.960,00</font></div></td></tr><tr valign="top"><td width="298"><font size="4" face="Arial">Coordenador Administrativo/Pedagógico</font></td><td width="161"><div align="center"><font size="4" face="Arial">20</font></div></td><td width="141"><div align="center"><font size="4" face="Arial">2.960,00</font></div></td></tr></tbody></table>
+**Função**
 
-<br>
-<br>
+**Quantidade**
+
+**Subsídio**
+
+Reitor
+
+1
+
+7.400,00
+
+Vice-Reitor
+
+1
+
+5.000,00
+
+Pró-Reitor
+
+5
+
+4.800,00
+
+Assessor Superior
+
+4
+
+3.700,00
+
+Diretor de Instituto e Faculdade
+
+8
+
+3.700,00
+
+Coordenador Regional
+
+11
+
+3.700,00
+
+Chefe de Departamento
+
+45
+
+2.960,00
+
+Assessor de Pró-Reitoria
+
+10
+
+2.960,00
+
+Coordenador Administrativo/Pedagógico
+
+20
+
+2.960,00

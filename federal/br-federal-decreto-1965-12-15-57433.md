@@ -1,5 +1,3 @@
-###DEC-057433-0-000-15-12-1965@@@
-
 DECRETO Nº 57.433, de 15 de dezembro de 1965.
 
 Concede à Companhia de Seguros de Minas Gerais S.A. autorização para funcionar e aprova os seus Estatutos.

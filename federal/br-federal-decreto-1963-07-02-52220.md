@@ -1,5 +1,3 @@
-###DEC-052220-0-000-02-07-1963@@@
-
 DECRETO Nº 52.220, DE 2 DE JULHO DE 1963.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação do equipamento novo, sem similar nacional registrado, neste descrito, e consignado à firma “Monteiro Paiva & Cia.”, de João Pessoa (Pb).
@@ -14,7 +12,25 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária par o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação do equipamento novo, sem similar nacional registrado, a seguir descrito e consignado à firma “Monteiro Paiva & Cia.”, de João Pessoa, Estado da Paraíba:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Item</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1 (uma) máquina barbeadora para fios, cordas e cordões de sisal, de até 5 mm de diâmetro, com dois cabeçotes e capacidade de produção de 12.000 metros por hora, sem motor elétrico. Fabricação de </span><span style="font-style:italic">Beckmann</span><span> &amp; </span><span style="font-style:italic">Co.</span><span>, </span><span style="font-style:italic">Spinning</span><span> </span><span style="font-style:italic">Machinery</span><span> - Alemanha Ocidental. Pêso líquido: 520 kg..................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline">4.253</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total:.............................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline">4.253</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor total
+
+CIF US$
+
+1 (uma) máquina barbeadora para fios, cordas e cordões de sisal, de até 5 mm de diâmetro, com dois cabeçotes e capacidade de produção de 12.000 metros por hora, sem motor elétrico. Fabricação de Beckmann &amp; Co., Spinning Machinery - Alemanha Ocidental. Pêso líquido: 520 kg..................................
+
+1
+
+4.253
+
+Total:.............................................................................................
+
+4.253
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

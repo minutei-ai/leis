@@ -1,5 +1,3 @@
-###DEC-084680-0-000-02-05-1980@@@
-
 Decreto nº 84.680, de 02 de maio de 1980.
 
 Outorga à Companhia Paranaense de Energia - COPEL concessão para o aproveitamento da energia hidráulica de um trecho do rio Iguaçu, nos Municípios de Capitão Leônidas Marques, Salto do Lontra e Realeza, Estado do Paraná.

@@ -74,16 +74,14 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 29 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
-Governador do Estado<br>
-<br>
+Governador do Estado
 
-ANEXO I<br>
-<br>
-Alterações ao Anexo I – Metas fiscais,<br>
+ANEXO I
+
+Alterações ao Anexo I – Metas fiscais,
+
 da [Lei nº 21.064](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104223/lei-21064), de 21 de julho de 2021.
 
 Demonstrativo 1 – Metas Anuais:
@@ -108,16 +106,20 @@ Demonstrativo 8 – Margem de Expansão das Despesas Obrigatórias de Caráter C
 
 Alterado para indicar, como margem para expansão das despesas obrigatórias de caráter continuado, o valor líquido de impostos de R$ 1,628 bilhão, proveniente da alienação da CELG T, o qual deverá ser utilizado para aporte financeiro ou atuarial no Fundo Previdenciário do RPPS. Embora tal valor não seja uma receita permanente strictu sensu, entende-se que há possibilidade de compensação, se a despesa obrigatória de caráter continuado a ser criada tiver horizonte limitado. Nesse caso, poderá ser calculado o valor presente da série de impactos da medida a serem compensados por aporte onceand for all prévio de até R$ 1,628 bilhão, o qual permanecerá aplicado.
 
-DEMONSTRATIVO I - METAS ANUAIS<br>
+DEMONSTRATIVO I - METAS ANUAIS
+
 ( [clique para visualizar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17521) )
 
-DEMONSTRATIVO 3 - METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES<br>
+DEMONSTRATIVO 3 - METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES
+
 ( [clique para visualizar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17522) )
 
-DEMONSTRATIVO 7 - ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DA RE RECEITA<br>
+DEMONSTRATIVO 7 - ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DA RE RECEITA
+
 ( [clique para visualizar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17523) )
 
-DEMONSTRATIVO 8 - MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO<br>
+DEMONSTRATIVO 8 - MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO
+
 [( clique para visualizar)](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17524)
 
 ANEXO II
@@ -240,8 +242,8 @@ Data-base de 2022 (10%)
 \* estimado falta o mês de dezembro
 
  | Tribunal de Contas do Estado | 14.200.000,00 |
-| Total Anual | 45.615.000,00<br>
-<br>
+| Total Anual | 45.615.000,00
+
  |
 
 Tribunal de Contas dos Municípios

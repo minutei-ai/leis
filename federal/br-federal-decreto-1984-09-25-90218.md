@@ -1,5 +1,3 @@
-###DEC-090218-0-000-25-09-1984@@@
-
 DECRETO Nº 90.218, DE 25 DE setembro DE 1984
 
 Autoriza o funcionamento dos cursos de Letras de Ciências da Fundação Educacional da Região dos Lagos-RJ.

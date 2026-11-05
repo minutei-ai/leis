@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/901cf0ae-98d0-4b99-9567-9353abaae737/texto#nowhere)
 
-###DEL-001055-0-000-21-10-1969@@@
-
 decreto-LEI nº 1.055, de 21 de outubro de 1969
 
 Aproveita servidor no Quadro de Pessoal do Ministério da Educação e Cultura.

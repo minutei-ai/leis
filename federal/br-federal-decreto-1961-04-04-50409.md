@@ -1,5 +1,3 @@
-###DEC-050409-0-000-04-04-1961@@@
-
 DECRETO Nº 50.409, DE 4 DE ABRIL DE 1961.
 
 Altera o Decreto número 50.272, de 15 de fevereiro de 1961, e da outras providências.

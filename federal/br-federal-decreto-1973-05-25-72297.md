@@ -1,5 +1,3 @@
-###DEC-072297-0-000-25-05-1973@@@
-
 DECRETO Nº 72.297, DE 25 DE MAIO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Engenharia Civil de Itajubá, mantida pela Fundação Universidade de Itajubá, Itajubá, Estado de Minas Gerais.

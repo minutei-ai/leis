@@ -1,5 +1,3 @@
-###DEL-003802-0-000-06-11-1941@@@
-
 DECRETO-LEI N. 3.802 – DE 6 DE NOVEMBRO DE 1941
 
 Altera a lei n. 3.508, de 10 de julho de 1918, e o regulamento do comércio de adubos e corretivos, baixado com o decreto n. 14.177 de 19 de maio de 1920

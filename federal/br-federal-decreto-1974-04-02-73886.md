@@ -1,5 +1,3 @@
-###DEC-073886-0-000-02-04-1974@@@
-
 DECRETO Nº 73.886, DE 2 DE ABRIL DE 1974.
 
 Transfere, com o respectivo cargo, funcionária de Quadro em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual Fundação IBGE.

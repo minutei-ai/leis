@@ -1,5 +1,3 @@
-###DEC-006337-0-000-31-12-2007@@@
-
 DECRETO Nº 6.337, DE 31 DE DEZEMBRO DE 2007.
 
 Dá nova redação ao art. 1o do Decreto no 5.821, de 29 de junho de 2006, que reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da COFINS, da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação dos produtos que menciona, conforme disposições do § 3o do art. 2o da Lei no 10.637, de 30 de dezembro de 2002, do § 3o do art. 2o da Lei no 10.833, de 29 de dezembro de 2003, e do § 11 do art. 8o da Lei no 10.865, de 30 de abril de 2004.
@@ -21,5 +19,3 @@ Brasília, 31 de dezembro de 2007; 186o da Independência e 119oda República.
 LUIZ INÁCIO LULA DA SILVA
 
 Arno Hugo Augustin Filho
-
-Este texto não substitui o publicado no DOU de 31.12.2007 - Edição extra

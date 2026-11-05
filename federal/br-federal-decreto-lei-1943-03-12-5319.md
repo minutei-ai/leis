@@ -1,5 +1,3 @@
-###DEL-005319-0-000-12-03-1943@@@
-
 DECRETO‑LEI N. 5.319 – DE 12 MARÇO DE 1943
 
 Transfere a sede, do 22º Batalhão de Caçadores

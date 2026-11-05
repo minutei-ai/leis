@@ -1,5 +1,3 @@
-###DEC-079260-0-000-14-02-1977@@@
-
 DECRETO Nº 79.260, DE 14 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento aos cursos de Ciências Contábeis, de Administração e de Ciências Econômicas, das Faculdades Integradas do Colégio Moderno, com sede na Cidade de Belém, Estado do Pará.

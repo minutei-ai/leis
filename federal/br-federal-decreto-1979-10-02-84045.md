@@ -1,5 +1,3 @@
-###DEC-084045-0-000-02-10-1979@@@
-
 Decreto nº 84.045, de 02 de outubro de 1979
 
 Atribui competência ao Ministro da Fazenda para aceitar ou recusar, pela União, doação com encargos.

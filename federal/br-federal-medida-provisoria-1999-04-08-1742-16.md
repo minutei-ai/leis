@@ -1,5 +1,3 @@
-###MPV-001742-0-016-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.742-16, DE 8 DE ABRIL DE 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

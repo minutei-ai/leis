@@ -1,5 +1,3 @@
-###DEC-065302-0-000-07-10-1969@@@
-
 DECRETO Nº 65.302 - DE 7 DE OUTUBRO de 1969.
 
 Declara caduco o Decreto número 16.590, de 13 de setembro de 1944.

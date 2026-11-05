@@ -1,5 +1,3 @@
-###DEC-082469-0-000-23-10-1978@@@
-
 Decreto nº 82.469, de 23 de outubro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Nova Aparecida da Companhia Paulista de Força Luz - CPFL, no Estado de São Paulo.

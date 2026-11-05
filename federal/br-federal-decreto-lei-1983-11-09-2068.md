@@ -1,5 +1,3 @@
-###DEL-002068-0-000-09-11-1983@@@
-
 # Decreto-lei nº 2.068, de 09 de novembro de 1983
 
 Altera a legislação da taxa rodoviária única e dá outras providências.

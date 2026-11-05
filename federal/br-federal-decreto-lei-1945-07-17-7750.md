@@ -1,5 +1,3 @@
-###DEL-007750-0-000-17-07-1945@@@
-
 DECRETO-LEI N. 7.750 – DE 17 DE JULHO DE 1945
 
 Torna possível ao eleitor, nas capitais dos Estados e no Distrito Federal, até o ato da inscrição, escolher o domicílio leitoral.

@@ -1,5 +1,3 @@
-###DEL-005190-0-000-14-01-1943@@@
-
 DECRETO‑LEI N. 5.190 – DE 14 De JANEIRO DE 1943
 
 Reorganiza o Quadro de Estado‑Maior do Exécito e dá outras providências

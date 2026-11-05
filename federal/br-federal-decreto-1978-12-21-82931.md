@@ -1,5 +1,3 @@
-###DEC-082931-0-000-21-12-1978@@@
-
 Decreto nº 82.931, de 21 de dezembro de 1978.
 
 Retifica a concessão de lavra outorgada à Companhia Siderúrgica Pains pelo Decreto nº 67.603, de 18 de novembro de 1970.

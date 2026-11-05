@@ -1,7 +1,3 @@
-1
-
-###DEC-001115-0-000-19-04-1994@@@
-
 DECRETO N° 1.115, DE 19 DE ABRIL DE 1994
 
 Torna sem efeito a revogação do decreto que menciona.

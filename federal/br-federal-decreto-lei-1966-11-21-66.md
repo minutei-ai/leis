@@ -1,5 +1,3 @@
-###DEL-000066-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 66, DE 21 DE NOVEMBRO DE 1966
 
 Altera disposições da Lei nº 3.607, de 26 de agôsto de 1960, e dá outras providências.

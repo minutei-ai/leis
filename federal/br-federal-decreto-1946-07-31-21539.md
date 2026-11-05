@@ -1,22 +1,20 @@
-###DEC-021539-0-000-31-07-1946@@@
+**DECRETONº 21.539, DE 31 DE JULHO DE 1946.**
 
-<strong>DECRETONº 21.539, DE 31 DE JULHO DE 1946.</strong>
+***Concede à “Sociedade Comercial Ipanema, Limitada“, autorização para funcionar na República.***
 
-<em><strong>Concede à “Sociedade Comercial Ipanema, Limitada“, autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a “Sociedade Comercial Ipanema, Limitada”,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a “Sociedade Comercial Ipanema, Limitada”,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. E’ concedida à “Sociedade Comercial Ipanema, Limitada”, com sede em Lisboa, Portugal, autorização para funcionar na República, com o capital de Cr$ 68.000,00 (sessenta e oito mil cruzeiros), destinado às suas operações no Brasil, e com os instrumentos de contratos social que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 31 de julho de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Octacilio Negrão de Lima.
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 21.539, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 21.539, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 31 de julho de 1946.
 
-<strong>OTACILIO NEGRÃO DE LIMA</strong>
+**OTACILIO NEGRÃO DE LIMA**

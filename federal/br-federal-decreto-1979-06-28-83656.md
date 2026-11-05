@@ -1,5 +1,3 @@
-###DEC-083656-0-000-28-06-1979@@@
-
 Decreto nº 83.656, de 28 de Junho de 1979.
 
 Concede reconhecimento às habitações em Desenho e em Artes Plásticas do curso de Educação Artística e ás habitações em Jornalismo e em Relações Públicas do curso de Comunicação Social da Universidade Estadual de Londrina, Estado do Paraná.

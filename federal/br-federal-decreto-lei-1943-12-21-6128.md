@@ -1,5 +1,3 @@
-###DEL-006128-0-000-21-12-1943@@@
-
 DECRETO‑LEI N. 6.128 – DE 21 DE DEZEMBRO DE 1943
 
 Dispõe Sobre a administração do Lóide Brasileiro e dá outras providências

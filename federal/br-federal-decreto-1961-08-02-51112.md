@@ -1,5 +1,3 @@
-###DEC-051112-0-000-02-08-1961@@@
-
 DECRETO Nº 051112, DE 02 DE AGôSTO DE 1961.
 
 Autoriza a São Paulo Light S.A. a construir um ramal de linha de transmissão no município de Santo André, Estado de São Paulo.

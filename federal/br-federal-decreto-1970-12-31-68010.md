@@ -1,5 +1,3 @@
-###DEC-068010-0-000-31-12-1970@@@
-
 DECRETO Nº 68.010, DE 31 DE DEZEMBRO de 1970.
 
 Declara de utilidade pública a Casa de Menores São Tarcísio, com sede em Cláudio, Estado de Minas Gerais.

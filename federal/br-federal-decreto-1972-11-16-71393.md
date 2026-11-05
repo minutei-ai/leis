@@ -1,5 +1,3 @@
-###DEC-071393-0-000-16-11-1972@@@
-
 DECRETO Nº 71.393 - DE 16 DE NOVEMBRO DE 1972.
 
 Dispõe sobre a retificação do Decreto nº 70.891, de 28 de julho de 1972

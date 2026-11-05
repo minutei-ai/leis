@@ -1,5 +1,3 @@
-###DEC-060779-0-000-30-05-1967@@@
-
 decreto nº 60.779, de 30 de maio de 1967.
 
 Dispõe sôbre a liquidação do Instituto Nacional do Mate, extinto pelo Decreto-lei nº 281, de 28 de fevereiro de 1967, e dá outras providências.

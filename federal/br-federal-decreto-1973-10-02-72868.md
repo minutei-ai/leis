@@ -1,5 +1,3 @@
-###DEC-072868-0-000-02-10-1973@@@
-
 DECRETO Nº 72.868, DE 2 DE OUTUBRO DE 1973.
 
 Revoga os Decretos que aprovaram o Regulamento da AFA.

@@ -1,5 +1,3 @@
-###DEC-092433-0-000-03-03-1986@@@
-
 DECRETO Nº 92.433, DE 03 DE MARÇO DE 1986
 
 Dispõe sobre a execução das medidas previstas nos artigos 37 e 38 do Decreto-lei nº 2.283, de 27 de fevereiro de 1986.

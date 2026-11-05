@@ -1,5 +1,3 @@
-###DEC-001971-0-000-30-07-1996@@@
-
 DECRETO Nº 1.971, DE 30 DE JULHO DE 1996.
 
 Prorroga o prazo de remanejamento dos cargos que menciona.

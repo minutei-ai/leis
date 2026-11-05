@@ -1,5 +1,3 @@
-###DEC-080663-0-000-03-11-1977@@@
-
 DECRETO Nº 80.663, DE 03 DE NOVEMBRO DE 1977.
 
 Concede à Companhia Riograndense de Mineração o direito de lavrar talco no Município de Caçapava do Sul, Estado do Rio Grande do Sul.

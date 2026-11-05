@@ -1,5 +1,3 @@
-###DEC-066338-0-000-18-03-1970@@@
-
 DECRETO Nº 66.338 - DE 18 DE MARÇO DE 1970
 
 Aprova o Estatuto da Fundação Faculdade Católica de Medicina de Pôrto Alegre.

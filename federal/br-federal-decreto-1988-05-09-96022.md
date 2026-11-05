@@ -1,5 +1,3 @@
-###DEC-096022-0-000-09-05-1988@@@
-
 DECRETO N° 96.022, DE 09 DE MAIO DE 1988
 
 Transfere para o Ministério da Fazenda a administração, a fiscalização e a cobrança da contribuição de que tratam os Decretos-leis n°s 308, de 28 de fevereiro de 1967, e 1.712, de 14 de novembro de 1979, e do adicional de que trata o Decreto-lei n° 1.952, de 15 de julho de 1982, e dá outras providências.

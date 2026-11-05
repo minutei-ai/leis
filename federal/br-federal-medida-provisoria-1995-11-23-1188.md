@@ -1,7 +1,3 @@
-1
-
-###MPV-001188-0-000-23-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.188, DE 23 DE  NOVEMBRO  DE 1995.
 
 Altera as Leis nºs 8.019, de 11 de abril de 1990 e 8.212, de 24 de julho de 1991, e dá outras providências.

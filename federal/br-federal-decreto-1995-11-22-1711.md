@@ -1,7 +1,3 @@
-1
-
-###DEC-001711-0-000-22-11-1995@@@
-
 DECRETO N° 1.711, DE 22 DE NOVEMBRO DE 1995.
 
 Aprova o Regulamento da Ordem do Mérito Cultural, instituída pelo art. 34 da Lei n° 8.313, de 23 de dezembro de 1991.

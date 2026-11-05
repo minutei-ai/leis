@@ -1,5 +1,3 @@
-###DEC-002880-0-000-15-12-1998@@@
-
 DECRETO Nº  2.880, DE 15 DE DEZEMBRO DE 1998.
 
 Regulamenta o Auxílio-Transporte dos servidores e empregados públicos da administração federal direta, autárquica e fundacional do Poder Executivo da União e altera o Decreto nº 95.247, de 17 de novembro de 1987.

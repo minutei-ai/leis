@@ -1,5 +1,3 @@
-###DEC-061201-0-000-22-08-1967@@@
-
 DECRETO Nº 61.201, de 22 de agôsto de 1967.
 
 Altera o Regulamento da Escola de Aeronáutic.a

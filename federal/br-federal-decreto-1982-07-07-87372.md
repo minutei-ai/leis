@@ -1,5 +1,3 @@
-###DEC-087372-0-000-07-07-1982@@@
-
 DEcreto nº 87.372, de 07 de julho de 1982.
 
 Aprova o Estatuto da Empresa Gerencial de Projetos Navais - EMGEPRON e dá outras providências.

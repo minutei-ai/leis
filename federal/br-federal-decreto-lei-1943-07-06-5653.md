@@ -1,5 +1,3 @@
-###DEL-005653-0-000-06-07-1943@@@
-
 DECRETO‑LEI N.  5.653 – DE 6 DE  JULHO DE 1943 
 
 Dispõe sôbre consignações em  folha de pagamento de militares

@@ -1,5 +1,3 @@
-###DEL-008987-0-000-15-02-1946@@@
-
 DECRETO-LEI N. 8.987 – DE 15 DE FEVEREIRO DE 1946
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 300.000,00 para pagamento de materiais fornecidos à Estrada de Ferro Bahia e Minas.

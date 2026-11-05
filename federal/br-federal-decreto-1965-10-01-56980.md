@@ -1,5 +1,3 @@
-###DEC-056980-0-000-01-10-1965@@@
-
 DECRETO Nº 56.980, de 1º de outubro de 1965.
 
 Dispõe sôbre a lavra e industrialização dos xistos oleígenos.
@@ -64,7 +62,25 @@ Parágrafo único. O. Conselho Nacional do Petróleo decidirá, nos têrmos do D
 
 Art. 5º Independentemente do direito assegurado à Petrobrás de requerer novas pesquisas em quaisquer outras áreas do País cabe-lhe a exclusividade para a pesquisa e lavra do xisto contido na área definida neste artigo, pelas seguintes coordenadas geográficas:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Longitude Oeste</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Latitude Sul</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º vértice: 50º30’54”</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>24º38º48”</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º vértice: 50º22’16”</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25º46’24”</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3º vértice: 50º27’07”</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25º50’24”</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4º vértice: 50º36’22”</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25º42’24”</span></p></td></tr></tbody></table>
+Longitude Oeste
+
+Latitude Sul
+
+1º vértice: 50º30’54”
+
+24º38º48”
+
+2º vértice: 50º22’16”
+
+25º46’24”
+
+3º vértice: 50º27’07”
+
+25º50’24”
+
+4º vértice: 50º36’22”
+
+25º42’24”
 
 Art. 6º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,7 +1,3 @@
-1
-
-###MPV-001007-0-000-26-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.007, de 26 de MAIO de 1995
 
 Institui a Taxa de Juros de Longo Prazo (TJLP), dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-Pasep, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

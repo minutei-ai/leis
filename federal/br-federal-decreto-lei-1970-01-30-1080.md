@@ -1,7 +1,3 @@
-1
-
-###DEL-001080-0-000-30-01-1970@@@
-
 # DECRETO-LEI Nº 1.080, DE 30 DE JANEIRO DE 1970
 
 Dispõe sôbre a entrega das parcelas do Impôsto sôbre Circulação de Mercadorias pertencentes aos Municípios dos Territórios Federais.

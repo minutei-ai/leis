@@ -1,5 +1,3 @@
-###DEC-005955-0-000-07-11-2006@@@
-
 DECRETO Nº 5.955 DE 7 DE NOVEMBRO DE 2006.
 
 Dá nova redação ao art. 7o do Anexo I do Decreto no 5.719, de 13 de março de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e dá outras providências.
@@ -41,5 +39,3 @@ LUIZ INÁCIO LULA DA SILVA
         Paulo Bernardo Silva
 
          Pedro Brito Nascimento
-
-Este texto não substitui o publicado no DOU de 8.11.2006

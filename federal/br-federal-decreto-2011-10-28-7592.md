@@ -1,5 +1,3 @@
-###DEC-007592-0-000-28-10-2011-PUB-01@@@
-
 DECRETO Nº 7.592, DE 28 DE OUTUBRO DE 2011
 
 Determina a avaliação da regularidade da execução dos convênios, contratos de repasse e termos de parceria celebrados com entidades privadas sem fins lucrativos até a publicação do Decreto nº 7.568, de 16 de setembro de 2011, e dá outras providências.

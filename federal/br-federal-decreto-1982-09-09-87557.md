@@ -1,5 +1,3 @@
-###DEC-087557-0-000-09-09-1982@@@
-
 Decreto nº 87.557, de 09 de setembro de 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Ocauçu da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

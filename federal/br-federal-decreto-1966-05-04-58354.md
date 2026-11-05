@@ -1,5 +1,3 @@
-###DEC-058354-0-000-04-05-1966@@@
-
 DECRETO Nº 58.354, DE 4 DE MAIO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude “Campo Grande”, município de Campo Grande, Estado de Alagoas.

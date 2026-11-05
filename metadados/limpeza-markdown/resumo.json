@@ -1,0 +1,34 @@
+{
+  "files_scanned": 539,
+  "files_changed": 534,
+  "markers": 0,
+  "images": 0,
+  "images_extracted": 0,
+  "images_omitted": 0,
+  "portals": {
+    "diario_oficial": 1149,
+    "mg_atualizacao": 9454,
+    "alesp": 19896,
+    "camara": 844,
+    "sp_capital": 5735
+  },
+  "html_converted": 9,
+  "errors": 0,
+  "apply": true,
+  "allowlist_data_image": [],
+  "allowlist_portal_camara": [],
+  "portals_acumulado": {
+    "diario_oficial": 1149,
+    "mg_atualizacao": 9454,
+    "alesp": 19896,
+    "camara": 844,
+    "sp_capital": 5735
+  },
+  "files_changed_pass3": 534,
+  "portals_pass3": {
+    "mg_atualizacao": 345,
+    "camara": 189
+  },
+  "passes": 3,
+  "nota": "Pass1 corpus completo; pass2 resíduos de marcador/base64/br/DO; pass3 cabeçalhos # CÂMARA e datas MG com separador ----- ou OCR irregular. imagens.jsonl: hashes/assets finais; contagens de eventos em images_pass*. Allowlists esvaziadas: geradores omitem brasão/chrome CEDI; corpos sha256_corpo_preservado limpos com hashes regenerados (texto jurídico intacto)."
+}

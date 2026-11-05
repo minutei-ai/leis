@@ -1,5 +1,3 @@
-###DEL-005341-0-000-24-03-1943@@@
-
 DECRETO-LEI N. 5.341 – DE 24 DE MARÇO DE 1943
 
 Restabelece cargo no Quadro Suplementar do Ministério da Justiça e Negócios Interiores e dá outras providências

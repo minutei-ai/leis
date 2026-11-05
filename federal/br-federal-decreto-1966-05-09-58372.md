@@ -1,5 +1,3 @@
-###DEC-058372-0-000-09-05-1966@@@
-
 DECRETO Nº 58.372, DE 9 DE MAIO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção de um poço profundo, para o Serviço de Abastecimento dágua da cidade de Martininópole, Estado do Ceará.

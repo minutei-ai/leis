@@ -1,5 +1,3 @@
-###DEC-057299-0-000-22-11-1965@@@
-
 DECRETO Nº 57.299, DE 22 DE NOVEMBRO DE 1965.
 
 Altera o Decreto nº 967, de 7 de maio de 1962.

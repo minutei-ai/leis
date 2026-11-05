@@ -1,5 +1,3 @@
-###DEL-008630-0-000-10-01-1946@@@
-
 DECRETO-LEI N. 8.630 – DE 10 DE JANEIRO DE 1946
 
 Dispõe sôbre funções gratificadas e cargos isolados no Ministério da Agricultura e dá outras providências

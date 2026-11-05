@@ -1,5 +1,3 @@
-###DEC-089260-0-000-28-12-1983@@@
-
 DecretO nº 89.260, de 28 de dezembro de 1983
 
 Declara de ocupação dos silvícolas área de terras no Município de Diamantino, no Estado de Mato Grosso, e dá outras providências.

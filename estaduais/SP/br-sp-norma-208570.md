@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208570)<br>
-
 # DECRETO N° 67.985, DE 27 DE SETEMBRO DE 2023
 
 ### _Regulamenta o disposto no artigo 20 da Lei federal n° 14.133, de 1° de abril de 2021, e veda a aquisição de bens e a contratação de serviços enquadrados na categoria de luxo, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._

@@ -1,5 +1,3 @@
-###DEL-005917-0-000-25-10-1943@@@
-
 DECRETO‑LEI N. 5.917 – DE 25 DE OUTUBRO DE 1943
 
 Aprova o acôrdo celebrado entre o Estado do Paraná e a Rêde de Viação Paraná‑Santa Catarina, para liquidação de contas, e dá outras provi­dências

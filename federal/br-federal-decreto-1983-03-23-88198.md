@@ -1,5 +1,3 @@
-###DEC-088198-0-000-23-03-1983@@@
-
 Decreto nº 88.198, de 23 de março de 1983
 
 Outorga concessão à RÁDIO CULTURAL DE VITÓRIA LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Vitória de Santo Antão, Estado de Pernambuco.

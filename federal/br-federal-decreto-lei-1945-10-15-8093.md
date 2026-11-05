@@ -1,5 +1,3 @@
-###DEL-008093-0-000-15-10-1945@@@
-
 DECRETO-LEI N. 8.093 – DE 15 DE OUTUBRO DE 1945
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 9.186,70, para pagamento de salários

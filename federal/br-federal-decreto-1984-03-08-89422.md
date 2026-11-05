@@ -1,5 +1,3 @@
-###DEC-089422-0-000-08-03-1984@@@
-
 Decreto nº 89.422, de 08 de março de 1984
 
 Homologa a demarcação da Área Indígena que menciona, no Estado de Mato Grosso do Sul.

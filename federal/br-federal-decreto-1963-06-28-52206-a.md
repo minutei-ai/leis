@@ -1,5 +1,3 @@
-###DEC-052206-A-000-28-06-1963@@@
-
 DECRETO Nº 52.206-A, DE 28 DE JUNHO DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de São João de Meriti, Estado do Rio de Janeiro.

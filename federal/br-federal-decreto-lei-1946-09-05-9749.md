@@ -1,5 +1,3 @@
-###DEL-009749-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.749 – DE 5 DE SETEMBRO DE 1946
 
 Suspende até 31 de Dezembro de 1946 a cobrança dos direitos de importação e demais taxas aduaneiras que incidem sôbre a soda cáustica.

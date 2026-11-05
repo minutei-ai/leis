@@ -1,5 +1,3 @@
-###DEC-052612-0-000-02-10-1963@@@
-
 DECRETO Nº 52.612, DE 2 DE OUTUBRO DE 1963.
 
 Autoriza a São Paulo Light S.A. - Serviços de Eletricidade a construir linha de transmissão.

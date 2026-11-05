@@ -1,5 +1,3 @@
-###DEC-004712-0-000-29-05-2003@@@
-
 DECRETO Nº 4.712, DE 29 DE MAIO DE 2003.
 
        Dá nova redação ao art. 36 do Decreto no 1.744, de 8 de dezembro de 1995, que regulamenta o benefício de prestação continuada devida a pessoa portadora de deficiência e a idoso, de que trata a Lei no 8.742, de 7 de dezembro de 1993.
@@ -20,6 +18,8 @@ Parágrafo único.  O valor do resíduo não recebido em vida pelo beneficiá
 
         Brasília, 29 de maio de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Ricardo José Ribeiro Berzoini<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Ricardo José Ribeiro Berzoini
+
 Benedita Souza da Silva Sampaio

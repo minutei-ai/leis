@@ -1,5 +1,3 @@
-###DEC-076037-0-000-28-07-1975@@@
-
 decreto nº 76.037 - DE 28 DE JULHO DE 1975.
 
 Cria a Embaixada do Brasil em Praia, República de Cabo Verde.

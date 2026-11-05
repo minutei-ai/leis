@@ -1,5 +1,3 @@
-###DEC-056890-A-000-20-09-1965@@@
-
 DECRETO Nº 56.890-A, DE 20 DE SETEMBRO DE 1965.
 
 Autoriza o Ministro da Fazenda a dar garantia do Tesouro Nacional a um financiamento a ser realizado pela Centrais Elétricas Brasileiras S.A.-ELETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-050587-0-000-13-05-1961@@@
-
 Decreto nº 50.587, de 13 de maio de 1961.
 
 Concede autorização para funcionamento de curso.

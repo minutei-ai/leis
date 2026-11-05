@@ -1,5 +1,3 @@
-###DEC-078025-0-000-12-07-1976@@@
-
 DECRETO Nº 78.025, DE 12 DE JULHO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Radio Cultura de Poços de Caldas S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Poços de Caldas, Estado Minas Gerais.

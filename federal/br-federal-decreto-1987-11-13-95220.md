@@ -1,5 +1,3 @@
-###DEC-095220-0-000-13-11-1987@@@
-
 DECRETO N° 95.220, DE 13 DE NOVEMBRO DE 1987
 
 Altera dispositivo do Regulamento para o Corpo de Oficiais da Reserva do Exército (RCORE) aprovado pelo Decreto n° 90.600, de 30 de novembro de 1984.

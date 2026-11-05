@@ -1,5 +1,3 @@
-###DEC-062394-0-000-13-03-1968@@@
-
 DECRETO Nº 62.394, DE 13 DE MARÇO DE 1968.
 
 Concede reconhecimento à Faculdade de Serviço Social de Bauru - SP.

@@ -1,5 +1,3 @@
-###DEC-078273-0-000-17-08-1976@@@
-
 DECRETO Nº 78.273, DE 17 DE AGOSTO DE 1976.
 
 Altera dispositivo do Decreto número 76.206, de 4 de setembro de 1975, que concedeu reconhecimento do curso de Pedagogia da Universidade Regional do Nordeste, com sede na cidade de Campina Grande, Estado da Paraíba.

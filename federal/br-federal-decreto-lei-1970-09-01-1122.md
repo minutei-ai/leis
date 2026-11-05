@@ -1,5 +1,3 @@
-###DEL-001122-0-000-01-09-1970@@@
-
 # Decreto-lei nº 1.122, DE 1 DE SETEMBRO DE 1970
 
 Concede isenção dos impostos incidentes sôbre bens importados pela Companhia Vale do Rio Doce.

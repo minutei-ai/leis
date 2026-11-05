@@ -1,5 +1,3 @@
-###DEC-058357-0-000-05-05-1966@@@
-
 Decreto nº 58.357, de 5 de maio de 1966
 
 Transforma o Consulado de carreira em Rivera em Consulado privativo.

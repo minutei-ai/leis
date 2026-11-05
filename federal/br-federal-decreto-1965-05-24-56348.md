@@ -1,5 +1,3 @@
-###DEC-056348-0-000-24-05-1965@@@
-
 DECRETO Nº 56.348, DE 24 DE Maio de 1965.
 
 Aprova alterações introduzidas nos Estatutos da Recife Companhia Nacional de Seguros Gerais, inclusive aumento do capital social.

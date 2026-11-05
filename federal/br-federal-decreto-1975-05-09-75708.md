@@ -1,5 +1,3 @@
-###DEC-075708-0-000-09-05-1975@@@
-
 Decreto Nº 75.708, DE 9 DE MAIO DE 1975.
 
 Concede reconhecimento ao Curso de Administração da Universidade Federal do Espírito Santo.

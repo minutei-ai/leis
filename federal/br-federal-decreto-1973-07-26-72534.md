@@ -1,5 +1,3 @@
-###DEC-072534-0-000-26-07-1973@@@
-
 DECRETO Nº 72.534, DE 26 DE JULHO DE 1973
 
 Dispõe sobre a concessão de diárias aos funcionários da Carreira de Diplomata em serviço no País.

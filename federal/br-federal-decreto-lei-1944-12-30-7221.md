@@ -1,5 +1,3 @@
-###DEL-007221-0-000-30-12-1944@@@
-
 DECRETO-LEI N. 7.221 – DE 30 DE DEZEMBRO DE 1944
 
 Dispõe sôbre a eletrificação do trecho de São Paulo a Jundiaí, da linha de Santos a Jundiaí

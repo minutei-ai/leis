@@ -1,5 +1,3 @@
-###MPV-000594-0-000-05-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº\- 594, DE 6 DE DEZEMBRO DE 2012
 
 Altera a Lei nº 12.096, de 24 de novembro de 2009, quanto à autorização para concessão de subvenção econômica em operações de financiamento destinadas a aquisição e produção de bens de capital e a inovação tecnológica; altera a Lei nº 11.529, de 22 de outubro de 2007, quanto à concessão de subvenção econômica em operações destinadas a financiamentos a diferentes setores da economia; altera a Lei nº 12.409, de 25 de maio de 2011, quanto à concessão de subvenção econômica em financiamentos destinados a beneficiários localizados em Municípios atingidos por desastres naturais; e altera a Lei nº 12.712, de 30 de agosto de 2012, que autoriza a concessão de subvenção econômica às instituições financeiras oficiais federais nas operações de crédito para investimentos no âmbito do Fundo de Desenvolvimento da Amazônia - FDA e do Fundo de Desenvolvimento do Nordeste - FDNE.

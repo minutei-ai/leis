@@ -1,5 +1,3 @@
-###DEC-095717-0-000-11-02-1988@@@
-
 DECRETO No 95.717, DE 11 DE FEVEREIRO DE 1988.
 
 Promulga a Convenção para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre a Renda entre a República Federativa do Brasil e a República do Equador.

@@ -1,5 +1,3 @@
-###DEC-090201-0-000-17-09-1984@@@
-
 Decreto nº 90.201, de 17 de setembro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trecho de linha de subtransmissão da LIGHT-Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

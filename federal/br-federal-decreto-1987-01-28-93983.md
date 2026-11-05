@@ -1,5 +1,3 @@
-###DEC-093983-0-000-28-01-1987@@@
-
 DECRETO N° 93.983, DE 28 DE JANEIRO DE 1987
 
 Dispõe sobre a recondução dos representantes da iniciativa privada na Comissão de Política Aduaneira.

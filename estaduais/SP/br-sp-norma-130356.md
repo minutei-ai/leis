@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130356)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/2007/compilacao-emenda.constitucional-23-31.01.2007.html)
 
 # EMENDA CONSTITUCIONAL Nº 23, DE 31 DE JANEIRO DE 2007
@@ -38,7 +37,5 @@
 ~~FAUSTO FIGUEIRA - 1º Secretário~~
 
 ~~GERALDO VINHOLI - 2º Secretário~~
-
-<br>
 
 _\- Norma declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, nos autos da [ADI nº 6602](http://portal.stf.jus.br/processos/detalhe.asp?incidente=6057423)._

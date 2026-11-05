@@ -1,10 +1,8 @@
-###DEC-063192-0-000-29-08-1968@@@
+**DECRETO Nº 63.192, DE 29 DE AGÔSTO DE 1968.**
 
-<strong>DECRETO Nº 63.192, DE 29 DE AGÔSTO DE 1968.</strong>
+***Considera “Patrono do Serviço de Saúde da Aeronáutica “ o Major Brigadeiro Médico Dr. Angelo Godinho dos Santos e estabelece o dia 11 de maio como data festiva nas Organizações do Serviço de Saúde da Aeronáutica.***
 
-<em><strong>Considera “Patrono do Serviço de Saúde da Aeronáutica “ o Major Brigadeiro Médico Dr. Angelo Godinho dos Santos e estabelece o dia 11 de maio como data festiva nas Organizações do Serviço de Saúde da Aeronáutica.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando das atribuições que lhe confere o artigo 83, item II da Constituição e considerando.
+**O PRESIDENTE DA REPÚBLICA,** usando das atribuições que lhe confere o artigo 83, item II da Constituição e considerando.
 
 \- que o Major Brigadeiro Médico Doutor Ângelo Godinho dos Santos durante a sua carreira de médico militar prestou os mais assinalados serviços, consagrando-se por inteiro, ao cabal desvelado e excepcional desempenho das funções que exerceu;
 
@@ -18,16 +16,16 @@
 
 \- que a perpetuação do reconhecimento coletivo sôbre ser um dever de patriotismo é um exemplo válido e um incentivo permanente a quantos integram ou venham a compor Serviço de Saúde da Aeronáutica,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º É considerado “Patrono do Serviço de Saúde da Aeronáutica o Major Brigadeiro Médico Dr. Angelo Godinho dos Santos.
+**Art**. 1º É considerado “Patrono do Serviço de Saúde da Aeronáutica o Major Brigadeiro Médico Dr. Angelo Godinho dos Santos.
 
-<strong>Art</strong>. 2º O dia 11 de maio, data do nascimento do Major Brigadeiro Médico Dr. Angelo Godinho dos Santos é considerado Data Festiva nas organizações do Serviço de Saúde da Aeronáutica.
+**Art**. 2º O dia 11 de maio, data do nascimento do Major Brigadeiro Médico Dr. Angelo Godinho dos Santos é considerado Data Festiva nas organizações do Serviço de Saúde da Aeronáutica.
 
-<strong>Art</strong>. 3º Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 29 de agôsto de 1968; 147º da Independência e 80º da República.
 
-<strong>A COSTA E SILVA</strong>
+**A COSTA E SILVA**
 
 Marcio e Souza e Mello

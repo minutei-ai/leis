@@ -1,5 +1,3 @@
-###DEC-075384-0-000-17-02-1975@@@
-
 Decreto nº 75.384, de 17 de fevereiro de 1975.
 
 Autoriza o funcionamento do curso de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de São José do Rio Preto, Estado de São Paulo.

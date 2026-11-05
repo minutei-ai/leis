@@ -1,5 +1,3 @@
-###DEC-076376-0-000-02-10-1975@@@
-
 DECRETO Nº 76.376, DE 2 DE OUTUBRO DE 1975.
 
 Concede reconhecimento do curso de Engenharia Mecânica da Universidade Federal da Bahia, com sede na Cidade de Salvador, Estado da Bahia.

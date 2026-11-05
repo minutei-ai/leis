@@ -1,5 +1,3 @@
-###DEC-072383-0-000-20-06-1973@@@
-
 DECRETO Nº 72.383, DE 20 DE JUNHO DE 1973.
 
 Promulga a Convenção para a Repressão aos Atos ilícitos Contra a Segurança da Aviação Civil.
@@ -185,8 +183,6 @@ Artigo 16
 Em Testemunho do que os Plenipotenciários abaixo-assinados, devidamente autorizados pelos seus Governos assinaram a presente Convenção.
 
 Feita em Montreal, aos vinte e três dias de setembro de mil novecentos e setenta e um, em três originais, cada um em quatro textos autênticos, nos idiomas inglês, russo e espanhol.
-
-###DEC-072383-0-000-20-06-1973@@@
 
 DECRETO Nº 72.383, DE 20 DE JUNHO DE 1973.
 

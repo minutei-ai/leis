@@ -1721,7 +1721,3 @@ Denominação do Cargo do Tesouro Estadual Vencimento (R$) Gratificação Especi
 (Anexo com redação dada pelo Anexo XVIII da Lei nº 20.748, de 25/6/2013.)
 
 (Vide art. 46 Lei nº 20.748, de 25/6/2013.)
-
-\=============================================================
-
-Data da última atualização: 23/12/2025.

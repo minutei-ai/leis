@@ -1,5 +1,3 @@
-###DEC-082061-0-000-02-08-1978@@@
-
 Decreto nº 82.061, de 02 de agosto de 1978.
 
 Exclui cargos do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

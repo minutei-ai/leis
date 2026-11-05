@@ -1,5 +1,3 @@
-###DEL-006789-0-000-14-08-1944@@@
-
 DECRETO-LEI N. 6.789 – DE 14 DE AGÔSTO DE 1944
 
 Altera a carreira de Agrônomo Silvicultor do Quadro Permanente do Ministério da Agricultura e dá outras providências

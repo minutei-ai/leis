@@ -1,5 +1,3 @@
-###DEC-067006-0-000-06-08-1970@@@
-
 DECRETO Nº 67.006, DE 6 DE AGÔSTO DE 1970.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 50.541, de 4 de maio de 1961, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "Boa Vista", no município de Salgueiro, Estado de Pernambuco.

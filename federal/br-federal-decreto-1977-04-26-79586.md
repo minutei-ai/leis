@@ -1,5 +1,3 @@
-###DEC-079586-0-000-26-04-1977@@@
-
 DECRETO Nº 79.586, DE 26 DE ABRIL DE 1977.
 
 Concede a Alda Bernardes de Castro, Firma Individual o direito de lavrar calcário no Município de Lagoa da Prata, Estado de Minas Gerais.

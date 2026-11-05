@@ -1,5 +1,3 @@
-###DEC-062063-0-000-05-01-1968@@@
-
 DECRETO Nº 62.063, DE 5 DE JANEIRO DE 1968.
 
 Autoriza a Cia. Materiais Sulfurosos - MATSULFUR, a lavrar calcário no município de Montes Claros, Estado de Minas Gerais.

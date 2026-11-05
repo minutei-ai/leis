@@ -1,5 +1,3 @@
-###DEC-054793-0-000-03-11-1964@@@
-
 DECRETO Nº 54.793, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Milton Vieira de Araújo a pesquisar quartzo no município de Itamarandiba, Estado de Minas Gerais.

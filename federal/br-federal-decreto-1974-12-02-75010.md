@@ -1,5 +1,3 @@
-###DEC-075010-0-000-02-12-1974@@@
-
 DECRETO Nº 75.010, DE 2 DE DEZEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Alvorada de Londrina Ltda, para que a "Fundação Mater et Magistra de Londrina" passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Londrina, Estado do Paraná sob a denominação de Rádio Alvorada de Londrina.

@@ -1,5 +1,3 @@
-###DEC-001962-0-000-24-07-1996@@@
-
 DECRETO N º1.962, DE 24 DE JULHO DE 1996.
 
 Dá nova redação ao § 2º do art. 17 da Estrutura Regimental da Comissão Nacional de Energia Nuclear, aprovada pelo Decreto nº 150, de 15 de junho de 1991.

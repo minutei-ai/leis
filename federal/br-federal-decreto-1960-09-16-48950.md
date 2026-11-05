@@ -1,5 +1,3 @@
-###DEC-048950-0-000-16-09-1960@@@
-
 Decreto nº 48.950, de 16 de setembro de 1960.
 
 Dispõe sôbre o exercício de cargos e funções de chefia nos Estados-Maiores Geral e Especial do Corpo de Fuzileiros Navais.

@@ -1,5 +1,3 @@
-###DEC-003762-0-000-05-03-2001@@@
-
 DECRETO Nº 3.762, DE 5 DE MARÇO DE 2001
 
 Regulamenta a Gratificação de Desempenho de Atividade do Ciclo de Gestão, a Gratificação de Desempenho de Atividade de Auditoria de Valores Mobiliários, a Gratificação de Desempenho de Atividade de Auditoria de Seguros Privados, a Gratificação de Desempenho de Atividade de Ciência e Tecnologia e a Gratificação de Desempenho de Atividade de Fiscalização Agropecuária, e dá outras providências.

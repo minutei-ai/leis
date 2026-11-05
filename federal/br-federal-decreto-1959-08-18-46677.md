@@ -1,5 +1,3 @@
-###DEC-046677-0-000-18-08-1959@@@
-
 DECRETO Nº 46.677, DE 18 DE AGÔSTO DE 1959.
 
 Autoriza a S.A. Mineração Trindade a lavrar areia quartzosa no município de Santa Bárbara, Estado de minas Gerais.

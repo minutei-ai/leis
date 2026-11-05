@@ -1,5 +1,3 @@
-###MPV-000076-0-000-25-10-2002@@@
-
 MEDIDA PROVISÓRIA Nº 76, DE 25 DE OUTUBRO DE 2002
 
 Dispõe sobre a instituição de equipe de transição pelo candidato eleito para o cargo de Presidente da República, cria cargos em comissão, e dá outras providências.

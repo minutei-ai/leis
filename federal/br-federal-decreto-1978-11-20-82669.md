@@ -1,5 +1,3 @@
-###DEC-082669-0-000-20-11-1978@@@
-
 DECRETO Nº 82.669, DE 20 DE NOVEMBRO DE 1978
 
 Retifica a autorização de lavra conferida à Companhia de Cimento Portland Paraíso pelo Decreto nº 63.050, de 30 de julho de 1968, retificado pelo Decreto nº 73.504, de 17 de janeiro de 1974.

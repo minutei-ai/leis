@@ -1,5 +1,3 @@
-###DEC-079174-0-000-27-01-1977@@@
-
 DECRETO Nº 79.174, DE 27 DE JANEIRO DE 1977.
 
 Torna sem efeito aproveitamento e cassa disponibilidade.

@@ -1,5 +1,3 @@
-###DEC-060864-0-000-16-06-1967@@@
-
 DECRETO Nº 60.864, DE 16 DE JUNHO DE 1967.
 
 Declara de utilidade pública o Instituto Nossa Senhora Auxiliadora.

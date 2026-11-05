@@ -1,5 +1,3 @@
-###DEC-058755-0-000-28-06-1966@@@
-
 Decreto nº 58.755, de 28 de junho de 1966.
 
 Abre ao Ministério das Relações Exteriores, o crédito especial de Cr$25.000.000, para atender às despesas decorrentes da visita ao Brasil de sua excelência o Senhor Josip Broz-Tito, Presidente da República Popular Federativa da Iugoslávia.

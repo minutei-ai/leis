@@ -1,5 +1,3 @@
-###DEC-053588-0-000-24-02-1964@@@
-
 DECRETO Nº 53.588, DE 24 DE FEVEREIRO DE 1964.
 
 Institui o Prêmio Nacional do Disco.

@@ -1,5 +1,3 @@
-###DEC-083655-0-000-28-06-1979@@@
-
 Decreto nº 83.655, de 28 de junho de 1979.
 
 Concede reconhecimento ao curso de Nutrição da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

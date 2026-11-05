@@ -1,5 +1,3 @@
-###DEC-000000-0-000-17-09-1823@@@
-
 DECRETO - DE 17 DE SETEMBRO DE 1823
 
 Separa a cadeira de partos da de operações da Academia Medico-Cirurgica desta Côrte e nomeia lente para ella.

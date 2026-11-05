@@ -1,5 +1,3 @@
-###DEL-001116-0-000-27-07-1970@@@
-
 # DECRETO-LEI Nº 1.116, DE 27 DE JULHO DE 1970
 
 Acrescenta artigo ao Decreto-Lei nº 697, de 23 de julho de 1969.

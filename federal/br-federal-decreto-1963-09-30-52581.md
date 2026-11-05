@@ -1,5 +1,3 @@
-###DEC-052581-0-000-30-09-1963@@@
-
 DECRETO Nº 52.581, DE 30 DE SETEMBRO DE 1963.
 
 Transfere para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, concessões de que é titular a Prefeitura Municipal de Jaguari.

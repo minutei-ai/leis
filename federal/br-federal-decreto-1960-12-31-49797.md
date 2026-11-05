@@ -1,5 +1,3 @@
-###DEC-049797-0-000-31-12-1960@@@
-
 DECRETO Nº 49.797, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Jeronymo Thomé da Silva Júnior a lavrar rutilo no município de Corumbá de Goiás, Estado de Goiás.

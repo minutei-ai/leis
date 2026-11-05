@@ -506,83 +506,49 @@ SÍLVIO PESSOA DE CARVALHO
 
 Redação alterada pelo art. 3° da [Lei Complementar n° 525, de 22 de dezembro de 2023](https://legis.alepe.pe.gov.br/?lc5252023).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:9.45pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:9.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FAIXA ETÁRIA</span></p></td><td width="223" style="width:167.25pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:9.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">ALÍQUOTA</span></p></td></tr><tr style="height:5.2pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:5.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">0 - 18 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:5.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6,40%</span></p></td></tr><tr style="height:5.2pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:5.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">19 - 23 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:5.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6,50%</span></p></td></tr><tr style="height:13.5pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">24 - 28 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6,60%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">29 - 33 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6,70%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">34 – 38 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6,80%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">39 – 43 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6,90%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">44 - 48 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">7,00%</span></p></td></tr><tr style="height:13.5pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">49 - 53 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">7,10%</span></p></td></tr><tr style="height:13.5pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">54 – 58 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">7,20%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">59 anos ou mais*</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">7,30%</span></p></td></tr></tbody></table>
+FAIXA ETÁRIA
+
+ALÍQUOTA
+
+0 - 18 anos
+
+6,40%
+
+19 - 23 anos
+
+6,50%
+
+24 - 28 anos
+
+6,60%
+
+29 - 33 anos
+
+6,70%
+
+34 – 38 anos
+
+6,80%
+
+39 – 43 anos
+
+6,90%
+
+44 - 48 anos
+
+7,00%
+
+49 - 53 anos
+
+7,10%
+
+54 – 58 anos
+
+7,20%
+
+59 anos ou mais*
+
+7,30%
 
 \* Aos beneficiários que, até a data de 1º de janeiro de 2024, se encontrem na faixa etária de 59 anos, aplica-se a alíquota de 6,4%, conforme previsto na alínea “d” do § 5º do art. 15.”
 
@@ -592,540 +558,220 @@ Redação alterada pelo art. 3° da [Lei Complementar n° 525, de 22 de dezembro
 
   Redação alterada pelo art. 3° da [Lei Complementar n° 525, de 22 de dezembro de 2023](https://legis.alepe.pe.gov.br/?lc5252023).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FAIXA ETÁRIA</span></p></td><td width="223" style="width:167.25pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">ALÍQUOTA</span></p></td></tr><tr style="height:15.0pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">0 - 18 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2,40%</span></p></td></tr><tr style="height:13.5pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">19 - 23 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2,80%</span></p></td></tr><tr style="height:13.5pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">24 - 28 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2,80%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">29 - 33 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2,80%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">34 – 38 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2,80%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">39 – 43 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3,00%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">44 - 48 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3,00%</span></p></td></tr><tr style="height:13.5pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">49 - 53 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3,00%</span></p></td></tr><tr style="height:13.5pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">54 – 58 anos</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3,00%</span></p></td></tr><tr style="height:14.25pt"><td width="199" style="width:149.25pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">59 anos ou mais</span></p></td><td width="223" style="width:167.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">4,00%</span></p></td></tr></tbody></table>
+FAIXA ETÁRIA
+
+ALÍQUOTA
+
+0 - 18 anos
+
+2,40%
+
+19 - 23 anos
+
+2,80%
+
+24 - 28 anos
+
+2,80%
+
+29 - 33 anos
+
+2,80%
+
+34 – 38 anos
+
+2,80%
+
+39 – 43 anos
+
+3,00%
+
+44 - 48 anos
+
+3,00%
+
+49 - 53 anos
+
+3,00%
+
+54 – 58 anos
+
+3,00%
+
+59 anos ou mais
+
+4,00%
 
 **ANEXO III**
 
 **Contribuição dos Beneficiários Suplementares (valor nominal)**
 
-**(A****r****ts. 13, § 11 e 15, VI)**
+**(Arts. 13, § 11 e 15, VI)**
 
 (Acrescido pelo art. 1° da [Lei Complementar n° 369, de 21 de setembro de 2017](https://legis.alepe.pe.gov.br/?lc3692017), retroagindo seus efeitos a 1° de julho de 2017.)
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr style="height:14.2pt"><td width="133" valign="top" style="width:99.4pt;border:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FAIXA ETÁRIA</span></p></td><td width="116" valign="top" style="width:87.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">VALOR&nbsp; R$</span></p></td></tr><tr style="height:14.2pt"><td width="133" valign="top" style="width:99.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">0 a 17 anos</span></p></td><td width="116" valign="top" style="width:87.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">80,00</span></p></td></tr><tr style="height:14.2pt"><td width="133" valign="top" style="width:99.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">18 a 29 anos</span></p></td><td width="116" valign="top" style="width:87.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">110,00</span></p></td></tr><tr style="height:14.2pt"><td width="133" valign="top" style="width:99.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">30 a 39 anos</span></p></td><td width="116" valign="top" style="width:87.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">150,00</span></p></td></tr><tr style="height:14.2pt"><td width="133" valign="top" style="width:99.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">40 a 49 anos</span></p></td><td width="116" valign="top" style="width:87.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">250,00</span></p></td></tr><tr style="height:14.2pt"><td width="133" valign="top" style="width:99.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">50 a 59 anos</span></p></td><td width="116" valign="top" style="width:87.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">350,00</span></p></td></tr><tr style="height:14.2pt"><td width="133" valign="top" style="width:99.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Mais de 60 anos</span></p></td><td width="116" valign="top" style="width:87.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">480,00</span></p></td></tr></tbody></table>
+FAIXA ETÁRIA
+
+VALOR  R$
+
+0 a 17 anos
+
+80,00
+
+18 a 29 anos
+
+110,00
+
+30 a 39 anos
+
+150,00
+
+40 a 49 anos
+
+250,00
+
+50 a 59 anos
+
+350,00
+
+Mais de 60 anos
+
+480,00
 
 **ANEXO IV**
 
  (Acrescido pelo art. 1° da [Lei Complementar n° 369, de 21 de setembro de 2017](https://legis.alepe.pe.gov.br/?lc3692017), retroagindo seus efeitos a 1° de julho de 2017.)
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="645" style="width:484.1pt;border-collapse:collapse"><tbody><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FUNÇÃO</span></p></td><td width="228" style="width:171.1pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">VALOR DA GRATIFICAÇÃO</span></p></td></tr><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">MÉDICO AUDITOR</span></p></td><td width="228" style="width:171.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 2.900,00</span></p></td></tr><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ODONTÓLOGO AUDITOR, BUCO-MAXILO AUDITOR</span></p></td><td width="228" style="width:171.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 2.900,00</span></p></td></tr><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ASSITENTE SOCIAL AUDITOR</span></p></td><td width="228" style="width:171.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 1.500,00</span></p></td></tr><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ENFERMEIRO AUDITOR</span></p></td><td width="228" style="width:171.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 1.500,00</span></p></td></tr><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">FARMACÊUTICO AUDITOR</span></p></td><td width="228" style="width:171.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 1.500,00</span></p></td></tr><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">FISIOTERAPEUTA AUDITOR</span></p></td><td width="228" style="width:171.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 1.500,00</span></p></td></tr><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">FONOAUDIÓLOGO AUDITOR</span></p></td><td width="228" style="width:171.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 1.500,00</span></p></td></tr><tr style="height:17.0pt"><td width="417" style="width:313.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">NUTRICIONISTA AUDITOR</span></p></td><td width="228" style="width:171.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:17.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 1.500,00</span></p></td></tr></tbody></table>
+FUNÇÃO
+
+VALOR DA GRATIFICAÇÃO
+
+MÉDICO AUDITOR
+
+R$ 2.900,00
+
+ODONTÓLOGO AUDITOR, BUCO-MAXILO AUDITOR
+
+R$ 2.900,00
+
+ASSITENTE SOCIAL AUDITOR
+
+R$ 1.500,00
+
+ENFERMEIRO AUDITOR
+
+R$ 1.500,00
+
+FARMACÊUTICO AUDITOR
+
+R$ 1.500,00
+
+FISIOTERAPEUTA AUDITOR
+
+R$ 1.500,00
+
+FONOAUDIÓLOGO AUDITOR
+
+R$ 1.500,00
+
+NUTRICIONISTA AUDITOR
+
+R$ 1.500,00
 
 **ANEXO V**
 
 (Acrescido pelo art. 1° da [Lei Complementar n° 369, de 21 de setembro de 2017](https://legis.alepe.pe.gov.br/?lc3692017), retroagindo seus efeitos a 1° de julho de 2017.)
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="482" style="width:361.5pt;border-collapse:collapse"><tbody><tr style="height:15.75pt"><td width="255" style="width:191.4pt;border:solid windowtext 1.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FUNÇÃO</span></p></td><td width="227" style="width:6.0cm;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QUANTITATIVO</span></p></td></tr><tr style="height:15.75pt"><td width="482" nowrap="" colspan="2" valign="bottom" style="width:361.5pt;border:
-  solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">RECIFE</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">MÉDICO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">13</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">BUCO-MAXILO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">02</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ODONTOLÓGO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">05</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ENFERMEIRO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">26</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">FARMACÊUTICO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">02</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">FONOAUDIÓLOGO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">02</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">FISIOTERAPEUTA AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">06</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">NUTRICIONISTA AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">02</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ASSISTENTE SOCIAL / AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">06</span></p></td></tr><tr style="height:15.75pt"><td width="482" nowrap="" colspan="2" valign="bottom" style="width:361.5pt;border:
-  solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">ARCOVERDE</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">MÉDICO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">01</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ENFERMEIRO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">01</span></p></td></tr><tr style="height:15.75pt"><td width="482" nowrap="" colspan="2" valign="bottom" style="width:361.5pt;border:
-  solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">CARUARU</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">MÉDICO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">02</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ENFERMEIRO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">02</span></p></td></tr><tr style="height:15.75pt"><td width="482" nowrap="" colspan="2" style="width:361.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">GARANHUNS</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">MÉDICO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">01</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ENFERMEIRO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">01</span></p></td></tr><tr style="height:15.75pt"><td width="482" nowrap="" colspan="2" style="width:361.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">SERRA TALHADA</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">MÉDICO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">01</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ENFERMEIRO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">01</span></p></td></tr><tr style="height:15.75pt"><td width="482" nowrap="" colspan="2" style="width:361.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">PETROLINA</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">MÉDICO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">01</span></p></td></tr><tr style="height:15.75pt"><td width="255" nowrap="" style="width:191.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">ENFERMEIRO AUDITOR</span></p></td><td width="227" nowrap="" valign="bottom" style="width:6.0cm;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">01</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> FUNÇÃO </td><td> QUANTITATIVO </td></tr><tr><td nowrap="" colspan="2" valign="bottom"> RECIFE </td></tr><tr><td nowrap=""> MÉDICO AUDITOR </td><td nowrap="" valign="bottom"> 13 </td></tr><tr><td nowrap=""> BUCO-MAXILO AUDITOR </td><td nowrap="" valign="bottom"> 02 </td></tr><tr><td nowrap=""> ODONTOLÓGO AUDITOR </td><td nowrap="" valign="bottom"> 05 </td></tr><tr><td nowrap=""> ENFERMEIRO AUDITOR </td><td nowrap="" valign="bottom"> 26 </td></tr><tr><td nowrap=""> FARMACÊUTICO AUDITOR </td><td nowrap="" valign="bottom"> 02 </td></tr><tr><td nowrap=""> FONOAUDIÓLOGO AUDITOR </td><td nowrap="" valign="bottom"> 02 </td></tr><tr><td nowrap=""> FISIOTERAPEUTA AUDITOR </td><td nowrap="" valign="bottom"> 06 </td></tr><tr><td nowrap=""> NUTRICIONISTA AUDITOR </td><td nowrap="" valign="bottom"> 02 </td></tr><tr><td nowrap=""> ASSISTENTE SOCIAL / AUDITOR </td><td nowrap="" valign="bottom"> 06 </td></tr><tr><td nowrap="" colspan="2" valign="bottom"> ARCOVERDE </td></tr><tr><td nowrap=""> MÉDICO AUDITOR </td><td nowrap="" valign="bottom"> 01 </td></tr><tr><td nowrap=""> ENFERMEIRO AUDITOR </td><td nowrap="" valign="bottom"> 01 </td></tr><tr><td nowrap="" colspan="2" valign="bottom"> CARUARU </td></tr><tr><td nowrap=""> MÉDICO AUDITOR </td><td nowrap="" valign="bottom"> 02 </td></tr><tr><td nowrap=""> ENFERMEIRO AUDITOR </td><td nowrap="" valign="bottom"> 02 </td></tr><tr><td nowrap="" colspan="2"> GARANHUNS </td></tr><tr><td nowrap=""> MÉDICO AUDITOR </td><td nowrap="" valign="bottom"> 01 </td></tr><tr><td nowrap=""> ENFERMEIRO AUDITOR </td><td nowrap="" valign="bottom"> 01 </td></tr><tr><td nowrap="" colspan="2"> SERRA TALHADA </td></tr><tr><td nowrap=""> MÉDICO AUDITOR </td><td nowrap="" valign="bottom"> 01 </td></tr><tr><td nowrap=""> ENFERMEIRO AUDITOR </td><td nowrap="" valign="bottom"> 01 </td></tr><tr><td nowrap="" colspan="2"> PETROLINA </td></tr><tr><td nowrap=""> MÉDICO AUDITOR </td><td nowrap="" valign="bottom"> 01 </td></tr><tr><td nowrap=""> ENFERMEIRO AUDITOR </td><td nowrap="" valign="bottom"> 01 </td></tr></tbody></table>
 
 **ANEXO VI**
 
 Acrescido pelo art. 4° da [Lei Complementar n° 525, de 22 de dezembro de 2023](https://legis.alepe.pe.gov.br/?lc5252023).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="504" style="width:378.3pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:21.0pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:21.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FAIXA ETÁRIA</span></p></td><td width="100" style="width:75.0pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:21.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">TITULAR</span></p></td><td width="119" style="width:89.55pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:21.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">DEPENDENTE</span></p></td><td width="156" style="width:117.2pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:21.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">SUPLEMENTARES</span></p></td></tr><tr style="height:13.5pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">0 - 18 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 141,96</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 101,40</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 202,80</span></p></td></tr><tr style="height:14.25pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">19 - 23 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 204,07</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 145,76</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 291,53</span></p></td></tr><tr style="height:14.25pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">24 - 28 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 214,31</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 153,08</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 306,15</span></p></td></tr><tr style="height:14.25pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">29 - 33 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 243,65</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 174,04</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 348,08</span></p></td></tr><tr style="height:14.25pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">34 - 38 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 256,62</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 183,30</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 366,60</span></p></td></tr><tr style="height:14.25pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">39 - 43 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 333,06</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 237,90</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 475,80</span></p></td></tr><tr style="height:14.25pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">44 - 48 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 350,12</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 250,09</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 500,18</span></p></td></tr><tr style="height:14.25pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">49 - 53 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 457,28</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 326,63</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 653,25</span></p></td></tr><tr style="height:14.25pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">54 - 58 anos</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 481,16</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 343,69</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 687,38</span></p></td></tr><tr style="height:15.75pt"><td width="129" style="width:96.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">59 anos ou mais</span></p></td><td width="100" style="width:75.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 521,43</span></p></td><td width="119" style="width:89.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 372,45</span></p></td><td width="156" style="width:117.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 744,90</span></p></td></tr></tbody></table>
+FAIXA ETÁRIA
+
+TITULAR
+
+DEPENDENTE
+
+SUPLEMENTARES
+
+0 - 18 anos
+
+R$ 141,96
+
+R$ 101,40
+
+R$ 202,80
+
+19 - 23 anos
+
+R$ 204,07
+
+R$ 145,76
+
+R$ 291,53
+
+24 - 28 anos
+
+R$ 214,31
+
+R$ 153,08
+
+R$ 306,15
+
+29 - 33 anos
+
+R$ 243,65
+
+R$ 174,04
+
+R$ 348,08
+
+34 - 38 anos
+
+R$ 256,62
+
+R$ 183,30
+
+R$ 366,60
+
+39 - 43 anos
+
+R$ 333,06
+
+R$ 237,90
+
+R$ 475,80
+
+44 - 48 anos
+
+R$ 350,12
+
+R$ 250,09
+
+R$ 500,18
+
+49 - 53 anos
+
+R$ 457,28
+
+R$ 326,63
+
+R$ 653,25
+
+54 - 58 anos
+
+R$ 481,16
+
+R$ 343,69
+
+R$ 687,38
+
+59 anos ou mais
+
+R$ 521,43
+
+R$ 372,45
+
+R$ 744,90

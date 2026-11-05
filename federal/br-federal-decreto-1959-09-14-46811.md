@@ -1,5 +1,3 @@
-###DEC-046811-0-000-14-09-1959@@@
-
 DECRETO Nº 46.811, DE 14 DE SETEMBRO DE 1959.
 
 Dispõe sôbre a lotação de servidores cedidos à R. F. F. S. A.

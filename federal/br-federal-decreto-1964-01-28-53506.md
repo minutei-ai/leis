@@ -1,5 +1,3 @@
-###DEC-053506-0-000-28-01-1964@@@
-
 decreto nº 53.506, de 28 de janeiro de 1964.
 
 Dispõe sôbre o pagamento de gratificação natalina aos servidores dos Institutos de Aposentadoria e Pensões e do Serviço de Alimentação da Previdência Social.

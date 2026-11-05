@@ -1,5 +1,3 @@
-###DEC-069893-0-000-31-12-1971@@@
-
 DECRETO Nº 69.893 - DE 31 DE DEZEMBRO DE 1971
 
 Torna sem efeito redistribuição de funcionário agregado para o Quadro de Pessoal do Departamento de Polícia Federal.

@@ -1,5 +1,3 @@
-###DEC-005026-0-000-30-03-2004@@@
-
 DECRETO Nº 5.026,  DE 30 DE MARÇO DE 2004.
 
 Dá nova redação ao art. 47 do Decreto nº 93.872, de 23 de dezembro de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente, e dá outras providências.

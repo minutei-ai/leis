@@ -1,5 +1,3 @@
-###DEC-071912-0-000-14-03-1973@@@
-
 DECRETO nº 71.912, de 14 de março de 1973.
 
 Concede a Mineração Geral do Nordeste S.A. o direito de lavrar argila no município de Camaçari, Estado da Bahia.

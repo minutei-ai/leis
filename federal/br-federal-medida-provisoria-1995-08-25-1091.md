@@ -1,7 +1,3 @@
-1
-
-###MPV-001091-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.091, DE 25 DE AGOSTO DE 1995.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

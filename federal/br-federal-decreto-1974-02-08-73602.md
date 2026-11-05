@@ -1,5 +1,3 @@
-###DEC-073602-0-000-08-02-1974@@@
-
 DECRETO Nº 73.602, DE 8 DE FEVEREIRO DE 1974.
 
 Altera dispositivo do Decreto número 60.521, de 31 de março de 1967, dispõe sobre os Serviços Regionais de Aviação Civil e dá outras providências.

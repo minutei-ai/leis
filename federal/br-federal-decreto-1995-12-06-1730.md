@@ -1,7 +1,3 @@
-1
-
-###DEC-001730-0-000-06-12-1995@@@
-
 DECRETO Nº 1.730, DE 6 DE DEZEMBRO DE 1995.
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica Nº 18, entre Brasil, Argentina, Paraguai e Uruguai, de 30 de dezembro de 1994.

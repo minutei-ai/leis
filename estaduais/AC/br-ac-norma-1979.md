@@ -1,6 +1,10 @@
 > **LEI Nº 3.342, DE 14 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a doação de um imóvel urbano ao Município de Rio Branco/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a doação de um imóvel urbano ao Município de Rio Branco/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-049187-0-000-04-11-1960@@@
-
 DECRETO Nº 49.187, DE 04 DE novembro DE 1960.
 
 Autoriza o Serviço do Patrimônio a aceitar a doação da ilha do Bananal, no Estado de Goiás.

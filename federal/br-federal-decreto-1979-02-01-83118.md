@@ -1,5 +1,3 @@
-###DEC-083118-0-000-01-02-1979@@@
-
 Decreto nº 83.118, de 01 de fevereiro de 1979.
 
 Promulga a Acordo Básico de Cooperação Científica e Técnica Brasil-Guatemala.
@@ -110,4 +108,20 @@ O presente Acordo Básico poderá ser denunciado por qualquer das Partes Contrat
 
 Feito na cidade de Brasília, aos dezesseis dias do mês de junho de 1976, em dois exemplares originais, cada um nas línguas portuguesa e espanhola, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:217.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DA GUATEMALA:</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ANTONIO FRANCISCO A. DA SILVEIRA</span></p></td><td style="width:217.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ADOLFO MOLINA ORANTES</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:217.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DA GUATEMALA:
+
+</td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+ANTONIO FRANCISCO A. DA SILVEIRA
+
+</td><td style="width:217.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+ADOLFO MOLINA ORANTES
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-072113-0-000-23-04-1973@@@
-
 DECRETO Nº 72.113, DE 23 DE ABRIL DE 1973.
 
 Altera o Regulamento para o Diretoria de Intendência da Marinha, aprovado pelo Decreto nº 68.456, de 31 de março de 1971.

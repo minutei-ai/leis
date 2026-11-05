@@ -1,5 +1,3 @@
-###DEC-051941-A-000-26-04-1963@@@
-
 DECRETO Nº 51.941-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Sociedade São Paulo de Mineração Limitada a lavrar minério de níquel, no município de Jacupiranga, Estado de São Paulo.

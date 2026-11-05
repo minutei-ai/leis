@@ -1,14 +1,12 @@
-###DEC-032565-0-000-02-04-1953@@@
+**DECRETO Nº 32.565, DE 2 DE ABRIL DE 1953.**
 
-<strong>DECRETO Nº 32.565, DE 2 DE ABRIL DE 1953.</strong>
+***Declara de utilidade pública a área de terra compreendida no plano de aproveitamento do potencial hidráulico do rio Pardo, entre os municípios de São José do Rio Pardo e Mococa, no Estado de São Paulo, e autoriza o Departamento de Águas e Energia Elétrica estadual a promover a respectiva desapropriação.***
 
-<em><strong>Declara de utilidade pública a área de terra compreendida no plano de aproveitamento do potencial hidráulico do rio Pardo, entre os municípios de São José do Rio Pardo e Mococa, no Estado de São Paulo, e autoriza o Departamento de Águas e Energia Elétrica estadual a promover a respectiva desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, atendendo ao que requereu o Departamento de Águas e Energia Elétrica, do Estado de São Paulo,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, atendendo ao que requereu o Departamento de Águas e Energia Elétrica, do Estado de São Paulo,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as áreas de terra adiante indicadas, necessárias a realização das obras de aproveitamento da energia hidráulica do rio Pardo, no trecho situado entre o canal de fuga da usina da Companhia Paulista de Energia Elétrica, no município de São José do Rio Pardo, e um ponto situado dois quilômetros a montante da barra do córrego do Limoeiro, município de Mococa, Estado de São Paulo, aproveitamento concedido ao Departamento de Águas e Energia Elétrica pelo Decreto nº 31.757, de 11 de novembro de 1952, a saber:
+**Art**. 1º Ficam declaradas de utilidade pública as áreas de terra adiante indicadas, necessárias a realização das obras de aproveitamento da energia hidráulica do rio Pardo, no trecho situado entre o canal de fuga da usina da Companhia Paulista de Energia Elétrica, no município de São José do Rio Pardo, e um ponto situado dois quilômetros a montante da barra do córrego do Limoeiro, município de Mococa, Estado de São Paulo, aproveitamento concedido ao Departamento de Águas e Energia Elétrica pelo Decreto nº 31.757, de 11 de novembro de 1952, a saber:
 
 Nº 1 - Área de três mil e novecentos (3.900) metros quadrados, de propriedade atribuída a Oscar Vilares ou sucessor;
 
@@ -46,14 +44,14 @@ Nº 17 - Área de um milhão, cento e onze mil, cento e vinte (1.111.120) metros
 
 Parágrafo único. As áreas acima aludidas estão representadas nas plantas aprovadas pelo Ministério da Agricultura.
 
-<strong>Art</strong>. 2º O Departamento de Águas e Energia Elétrica, do Estado de São Paulo, fica autorizada a promover, na forma da legislação vigente, a desapropriação das áreas indicadas.
+**Art**. 2º O Departamento de Águas e Energia Elétrica, do Estado de São Paulo, fica autorizada a promover, na forma da legislação vigente, a desapropriação das áreas indicadas.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 2 de abril de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

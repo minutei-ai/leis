@@ -1,5 +1,3 @@
-###DEC-045234-0-000-15-01-1959@@@
-
 decreto nº 45.234, de 15 de janeiro de 1959.
 
 Dá nova redação ao art. 1º do Decreto nº 42.435, de 14 de outubro de 1957, que transferiu a emprêsa “Indústrias Salto Grande S. A.”, a concessão do aproveitamento da queda d’água denominada Salto Grande, no rio Itajaí do Sul, distrito sede do Município de Ituporanga, Estado de Santa Catarina.

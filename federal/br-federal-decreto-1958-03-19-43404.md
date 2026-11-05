@@ -1,14 +1,12 @@
-###DEC-043404-0-000-19-03-1958@@@
+**DECRETO Nº 43.404, DE 19 DE MARÇO DE 1958.**
 
-<strong>DECRETO Nº 43.404, DE 19 DE MARÇO DE 1958.</strong>
+***Declara de utilidade pública, diversas áreas de terra que deverão ser inundadas pelo Rio Caveiras depois da construção da usina situada no distrito de Lajes município do mesmo nome, Estado de Santa Catarina, e autoriza a Companhia Catarinense de Fôrça e Luz S.A. a promover as desapropriações.***
 
-<em><strong>Declara de utilidade pública, diversas áreas de terra que deverão ser inundadas pelo Rio Caveiras depois da construção da usina situada no distrito de Lajes município do mesmo nome, Estado de Santa Catarina, e autoriza a Companhia Catarinense de Fôrça e Luz S.A. a promover as desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra que deverão ser inundadas pelo Rio Caveiras, depois da construção da usina situada no mesmo nome, Estado de Santa Catarina, constantes da planta aprovada pelo Ministro da Agricultura, Processo D. Ag. 2.961-57.
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra que deverão ser inundadas pelo Rio Caveiras, depois da construção da usina situada no mesmo nome, Estado de Santa Catarina, constantes da planta aprovada pelo Ministro da Agricultura, Processo D. Ag. 2.961-57.
 
 1 - Área de 145.000 m² (cento e quarenta e cinco mil metros quadrados), de propriedade atribuída a Paulo Hasse Cia. Ltda.
 
@@ -32,36 +30,34 @@
 
 11 - Área de 99.000 m² (noventa e nove mil metros quadrados), de propriedade atribuída a José Maria de Oliveira Mandu.
 
-<strong>Art</strong>. 2º Fica autorizada a Companhia Catarinense de Fôrça e Luz S.A. a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
+**Art**. 2º Fica autorizada a Companhia Catarinense de Fôrça e Luz S.A. a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º Nos têrmos do artigo 95 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes deste decreto é declarada de caráter urgente.
+**Art**. 3º Nos têrmos do artigo 95 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes deste decreto é declarada de caráter urgente.
 
-<strong>Art</strong>. 4º O presente decreto entra em vigor na data da sua publicação.
+**Art**. 4º O presente decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de março de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti
 
-###DEC-043404-0-000-19-03-1958@@@RET01+++
+**DECRETO Nº 43.404, DE 19 DE MARÇO DE 1958.**
 
-<strong>DECRETO Nº 43.404, DE 19 DE MARÇO DE 1958.</strong>
+***Declara de utilidade pública diversas áreas de terra que deverão ser inundadas pelo Rio Caveiras, depois da construção da usina situada no distrito de Lages, município do mesmo nome, Estado de Santa Catarina, e autoriza a Companhia Catarinense de Fôrça e Luz S.A. a promover as desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra que deverão ser inundadas pelo Rio Caveiras, depois da construção da usina situada no distrito de Lages, município do mesmo nome, Estado de Santa Catarina, e autoriza a Companhia Catarinense de Fôrça e Luz S.A. a promover as desapropriações.</strong></em>
+(Publicado no *Diário Oficial* - Seção I - de 22 de março de 1958)
 
-(Publicado no <em>Diário Oficial</em> - Seção I - de 22 de março de 1958)
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 No art. 1º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 9 - Área de 36.500 m2 ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u>:
+**LEIA\-SE**:
 
 9 - Área de 336.500 m2 ...

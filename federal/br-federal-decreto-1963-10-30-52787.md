@@ -1,5 +1,3 @@
-###DEC-052787-0-000-30-10-1963@@@
-
 DECRETO Nº 52.787, DE 30 DE OUTUBRO DE 1963.
 
 Abre, ao Poder Judiciário, Justiça do Trabalho, Tribunal Regional do Trabalho da 4a Região, o crédito especial de Cr$22.000.000,00, para o fim que especifica.

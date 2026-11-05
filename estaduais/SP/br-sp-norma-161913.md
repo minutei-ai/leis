@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/161913)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2011/compilacao-lei.complementar-1146-24.08.2011.html)
 
 # LEI COMPLEMENTAR N° 1.146, DE 24 DE AGOSTO DE 2011

@@ -1,5 +1,3 @@
-###DEC-085592-0-000-30-12-1980@@@
-
 Decreto nº 85.592, de 30 de dezembro de 1980
 
 Conceda à AÇOS FINOS PIRANTINI S/A, autorização para proceder a aumento do seu Capital social.

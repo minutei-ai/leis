@@ -1,5 +1,3 @@
-###DEC-050413-0-000-05-04-1961@@@
-
 DECRETO Nº 50.413, DE 5 DE ABRIL DE 1961.
 
 Cria, no Ministério da Aeronáutica, a Comissão de Altos Estudos e Planejamentos - CAEP.

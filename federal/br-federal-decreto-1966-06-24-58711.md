@@ -1,5 +1,3 @@
-###DEC-058711-0-000-24-06-1966@@@
-
 DECRETO Nº 58.711, DE 24 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Eloy Araújo de Mendonça e Silva a pesquisar enxofre no município de Tutóia, Estado do Maranhão.

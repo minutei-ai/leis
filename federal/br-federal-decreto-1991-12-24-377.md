@@ -1,7 +1,3 @@
-1
-
-###DEC-000377-0-000-24-12-1991@@@
-
 DECRETO N° 377, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Terra Indígena IVAÍ, no Estado do Paraná.

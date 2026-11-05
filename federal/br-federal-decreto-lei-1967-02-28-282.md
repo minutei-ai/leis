@@ -1,5 +1,3 @@
-###DEL-000282-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 282, DE 28 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o Crédito Especial que menciona.

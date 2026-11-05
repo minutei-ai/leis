@@ -1,5 +1,3 @@
-###DEL-000583-0-000-15-05-1969@@@
-
 DECRETO-LEI Nº 583, DE 15 DE MAIO DE 1969
 
 Altera, sem aumento de despesa, o Quadro de Pessoal da Secretaria do Tribunal Superior Eleitoral e dá outras providências.

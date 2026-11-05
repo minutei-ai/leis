@@ -1,5 +1,3 @@
-###DEC-079266-0-000-14-02-1977@@@
-
 DECRETO N.º 79.266, DE 14 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Ciências e Letras Teresa Martin, com sede na cidade de São Paulo Estado de São Paulo.

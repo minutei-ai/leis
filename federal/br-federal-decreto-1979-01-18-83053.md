@@ -1,5 +1,3 @@
-###DEC-083053-0-000-18-01-1979@@@
-
 Decreto nº 83 053 de 18 de janeiro de 1979
 
 Dispõe sobre a importação, o arrenda mento mercantil, a locação ou a aquisição no mercado interno de bens de consumo, máquinas e equipamentos, veículos e demais produtos de origem externa, por órgãos e entidades da administração federal direta e indireta e fundações supervisionadas, e dá outras providências.

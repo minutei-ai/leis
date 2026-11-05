@@ -1,5 +1,3 @@
-###DEL-002308-0-000-19-12-1986@@@
-
 # DECRETO-LEI Nº 2.308, DE 19 DE DEZEMBRO DE 1986
 
 Altera a legislação do imposto de renda.

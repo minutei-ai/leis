@@ -1,14 +1,12 @@
-###DEC-044161-0-000-25-07-1958@@@
+**DECRETO Nº 44.161, DE 25 DE JULHO DE 1958.**
 
-<strong>DECRETO Nº 44.161, DE 25 DE JULHO DE 1958.</strong>
+***Transfere, sem aumento de despesa, funções da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra, que menciona, e dá outras providências.***
 
-<em><strong>Transfere, sem aumento de despesa, funções da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra, que menciona, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes as seguintes funções da Tabela Numérica Especial de Extranumerário-mensalista de Administração dos Estabelecimentos, Ministro Mallet, para idêntica tabelas, abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes as seguintes funções da Tabela Numérica Especial de Extranumerário-mensalista de Administração dos Estabelecimentos, Ministro Mallet, para idêntica tabelas, abaixo indicadas:
 
 I - para a Biblioteca do Exército, uma (1) função de Servente, referência 18, ocupada por Moacyr Garcez Pereira;
 
@@ -20,10 +18,10 @@ IV - para o Laboratório Químico e Farmacêutico do Exército, três (3) funç�
 
 V - para o Parque e Depósito de Material de Engenharia, uma (1) função de Jardineiro, referência 19, ocupada por Delcides da Costa e duas (2) de Servente, referência 18, ocupadas por Jorgelino de Sousa, e Sérgio Machado.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, em 25 de julho de 1958; 137º da independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

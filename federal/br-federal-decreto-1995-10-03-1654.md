@@ -1,7 +1,3 @@
-1
-
-###DEC-001654-0-000-03-10-1995@@@
-
 DECRETO N° 1.654, DE 03 DE OUTUBRO DE 1995
 
 Altera dispositivos do Regulamento Disciplinar do Exército (R-4), aprovado pelo Decreto n° 90.608, de 4 de dezembro de 1984.

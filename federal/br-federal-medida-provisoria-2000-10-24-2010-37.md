@@ -1,5 +1,3 @@
-###MPV-002010-0-037-24-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.010-37, DE 24 DE outubro de 2000.
 
 Dá nova redação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

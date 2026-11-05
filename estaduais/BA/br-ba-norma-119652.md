@@ -2,11 +2,16 @@ LEI Nº 6.931 DE 05 DE JANEIRO DE 1996
 
 Institui o programa especial de incentivo à exoneração voluntária, autoriza o pagamento das verbas que indica e dá outras providências.
 
-Ver também:<br>
-Art. 3º da Lei nº 8.579, de de 06 de março de 2003: "Fica revogorado o Programa Especial de Incentivo à Exoneração Voluntária, até 31 de dezembro de 2003, de acordo com os critérios e condições estabelecidos na Lei nº 6.931, de 05 de janeiro de 1996, com as alterações decorrentes da Lei nº 7.323, de 29 de maio de 1998."<br>
-Art. 1º da Lei nº 7.323, de 29 de maio de 1998: "Fica revogorado o programa especial de incentivo à exoneração voluntária, que será executado com base em adesões formuladas pelos servidores públicos estaduais até a data de 31 de dezembro de 1998, de acordo com os critérios e condições estabelecidos na Lei nº 6.931, de 05 de janeiro de 1996, excetuando-se o disposto no seu art. 5º, inciso IV."<br>
-Art. 12 da Lei nº 7.023, de 23 de janeiro de 1997: "Fica prorrogado, até 30 de junho de 1997, o Programa Especial de Incentivo à Exoneração Voluntária, instituído pela Lei nº 6.931, de 05 de janeiro de 1996."<br>
-Art. 1º da Lei nº 6.974, de 24 de julho de 1996: "Fica prorrogado, até 31 de dezembro de 1996, o prazo para o servidor público civil, ocupante de cargo ou emprego permanente, requerer exoneração voluntária, nos termos da Lei nº 6.931, de 05 de janeiro de 1996."<br>
+Ver também:
+
+Art. 3º da Lei nº 8.579, de de 06 de março de 2003: "Fica revogorado o Programa Especial de Incentivo à Exoneração Voluntária, até 31 de dezembro de 2003, de acordo com os critérios e condições estabelecidos na Lei nº 6.931, de 05 de janeiro de 1996, com as alterações decorrentes da Lei nº 7.323, de 29 de maio de 1998."
+
+Art. 1º da Lei nº 7.323, de 29 de maio de 1998: "Fica revogorado o programa especial de incentivo à exoneração voluntária, que será executado com base em adesões formuladas pelos servidores públicos estaduais até a data de 31 de dezembro de 1998, de acordo com os critérios e condições estabelecidos na Lei nº 6.931, de 05 de janeiro de 1996, excetuando-se o disposto no seu art. 5º, inciso IV."
+
+Art. 12 da Lei nº 7.023, de 23 de janeiro de 1997: "Fica prorrogado, até 30 de junho de 1997, o Programa Especial de Incentivo à Exoneração Voluntária, instituído pela Lei nº 6.931, de 05 de janeiro de 1996."
+
+Art. 1º da Lei nº 6.974, de 24 de julho de 1996: "Fica prorrogado, até 31 de dezembro de 1996, o prazo para o servidor público civil, ocupante de cargo ou emprego permanente, requerer exoneração voluntária, nos termos da Lei nº 6.931, de 05 de janeiro de 1996."
+
 Regulamentada pelo Decreto nº 5.168, de 09 de fevereiro de 1996.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei :

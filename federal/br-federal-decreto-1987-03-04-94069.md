@@ -1,5 +1,3 @@
-###DEC-094069-0-000-04-03-1987@@@
-
 DECRETO N° 94.069, DE 04 DE MARÇO DE 1987
 
 Outorga a Companhia de Eletricidade do Amapá - CEA concessão para o aproveitamento de energia hidráulica de trechos dos rios Cricou e Amapá Grande, no Território Federal do Amapá.

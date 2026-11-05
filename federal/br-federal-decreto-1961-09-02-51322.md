@@ -1,5 +1,3 @@
-###DEC-051322-0-000-02-09-1961@@@
-
 Decreto Nº 51.322, DE 2 DE SETEMBRO DE 1961.
 
 Cria o Comando do Campo da Ilha do Governador.

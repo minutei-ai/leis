@@ -1,5 +1,3 @@
-###DEC-007636-0-000-07-12-2011-PUB-01@@@
-
 DECRETO Nº 7.636, DE 7 DE DEZEMBRO DE 2011
 
 Dispõe sobre o apoio financeiro da União a Estados, Distrito Federal e Municípios destinado ao aprimoramento dos serviços, programas, projetos e benefícios de assistência social com base no Índice de Gestão Descentralizada do Sistema Único de Assistência Social - IGDSUAS.

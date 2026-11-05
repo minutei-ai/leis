@@ -1,5 +1,3 @@
-###DEL-006214-0-000-20-01-1944@@@
-
 DECRETO-LEI N. 6.214 – DE 20 DE Janeiro DE 1944
 
 Regula o sigilo das invenções durante o estado de guerra, cri a Comissão de Inventos e dá outras providências

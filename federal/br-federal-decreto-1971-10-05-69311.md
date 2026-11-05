@@ -1,5 +1,3 @@
-###DEC-069311-0-000-05-10-1971@@@
-
 DECRETO Nº 69.311, DE 5 DE OUTUBRO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, do Instituto Brasileiro de Desenvolvimento Florestal, para o Ministério da Agricultura.

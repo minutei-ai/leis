@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.082, de 16 de Fevereiro de 2023.](https://legis.ac.go
 
 > **LEI Nº 3.915, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de auxílio temporário de saúde aos servidores em efetivo exercício no sistema estadual de saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de auxílio temporário de saúde aos servidores em efetivo exercício no sistema estadual de saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -26,7 +30,7 @@ Modificada pela Lei nº [4.082, de 16 de Fevereiro de 2023.](https://legis.ac.go
 
 **Art. 4º** ~~O auxílio temporário de saúde será pago durante o período compreendido entre 1º de abril de 2022 e 31 de dezembro de 2022.~~ (Revogado pela Lei nº 4.082, de 16/02/2023)
 
-~~**Parágrafo único.** O auxílio temporário de saúde será extinto após o período definido neste artigo, prescindindo de qualquer ato formal da administração para esse fim.~~ ~~(Revogado pela Lei nº 4.082, de 16/02/2023)~~
+~~**Parágrafo único.** O auxílio temporário de saúde será extinto após o período definido neste artigo, prescindindo de qualquer ato formal da administração para esse fim.(Revogado pela Lei nº 4.082, de 16/02/2023)~~
 
 **Art. 5º** As despesas decorrentes desta lei correrão à conta das dotações próprias consignadas no orçamento vigente, ficando o Poder Executivo autorizado a abrir créditos suplementares para o corrente exercício.
 

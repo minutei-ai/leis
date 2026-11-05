@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209933)<br>
-
 # DECRETO N° 68.841, DE 05 DE SETEMBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, da Concessionária Linha Universidade S/A, o imóvel que especifica._

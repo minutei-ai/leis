@@ -1,5 +1,3 @@
-###DEC-059556-0-000-11-11-1966@@@
-
 DECRETO Nº 59.556, DE 11 DE NOVEMBRO DE 1966.
 
 Transfere da Companhia Fôrça e Luz de Conselheiro Lafaiete S. A. para a Centrais Elétricas de Minas Gerais S. A. concessão para distribuir energia elétrica.

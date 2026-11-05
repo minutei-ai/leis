@@ -1,5 +1,3 @@
-###DEC-083339-0-000-17-04-1979@@@
-
 Decreto nº 83.339, de 17 de abril de 1979.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis do Instituto Superior de Ciências, Letras e Artes com sede em Três Corações, Estado de Minas Gerais.

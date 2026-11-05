@@ -1,5 +1,3 @@
-###DEC-051138-0-000-04-08-1961@@@
-
 Decreto nº 51.138, de 4 de agôsto de 1961.
 
 Dispensa, temporariamente, exigência do Regulamento de Promoções para Oficiais da Marinha.

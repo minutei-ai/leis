@@ -1,5 +1,3 @@
-###DEC-084206-0-000-13-11-1979@@@
-
 Decreto nº 84.206, de 13 de novembro de 1979.
 
 Dispõe sobre a estrutura básica do Ministério das Comunicações e dá outras providências.

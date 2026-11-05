@@ -1,5 +1,3 @@
-###DEC-047889-0-000-08-03-1960@@@
-
 DECRETO Nº 47.889, DE 8 DE MARÇO DE 1960.
 
 Altera a redação do art. 2º do Decreto nº 39.635, de 19 de julho de 1956.

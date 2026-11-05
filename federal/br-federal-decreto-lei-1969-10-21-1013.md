@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b7d3bd2e-e089-4ab8-ade9-4df68f86b120/texto#nowhere)
 
-###DEL-001013-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.013, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre o resgate de comprovantes de recolhimento do adicional restituível e dos empréstimos compulsórios, referentes a pessoas físicas.

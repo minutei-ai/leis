@@ -1,5 +1,3 @@
-###DEC-053364-0-000-31-12-1963@@@
-
 DECRETO Nº 53.364, DE 31 DE DEZEMBRO DE 19963.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial de Cr$60.204.000,00 (sessenta milhões e duzentos e quatro mil cruzeiros), para atender às despesas de que trata o art. 5º da Lei nº 4.170 de 5 de dezembro de 1962, para funcionar novos cursos na Escola de Engenharia de Uberlândia – Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-005259-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.259 – DE 18 DE FEvereiro DE 1943
 
 Aprova despesas imprevistas no orçamento estabelecido para a construção do monumento ao Barão do Rio Branco e dá outras providências

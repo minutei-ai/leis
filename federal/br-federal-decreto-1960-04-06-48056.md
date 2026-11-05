@@ -1,5 +1,3 @@
-###DEC-048056-0-000-06-04-1960@@@
-
 DECRETO Nº 48.056, DE 6 DE ABRIL DE 1960.
 
 Transfere a sede do Batalhão de Guardas para Brasília e dá outras providências.

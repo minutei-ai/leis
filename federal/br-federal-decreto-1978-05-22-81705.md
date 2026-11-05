@@ -1,5 +1,3 @@
-###DEC-081705-0-000-22-05-1978@@@
-
 Decreto Nº 81.705, de 22 de maio de 1978.
 
 Declara revogados os decretos que outorgaram à RÁDIO MINISTÉRIO DA EDUCAÇÃO E CULTURA concessão para instalar, nas cidades do Rio de Janeiro e Brasília, estações de radiodifusão sonora em ondas curtas e médias.

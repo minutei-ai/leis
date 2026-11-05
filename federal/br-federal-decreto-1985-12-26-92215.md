@@ -1,5 +1,3 @@
-###DEC-092215-0-000-26-12-1985@@@
-
 decreto nº 92.215, de 26 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Cajá, compreendido na referida área, no Município de Alagoinha, no Estado da Paraíba, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070824-0-000-12-07-1972@@@
-
 DECRETO Nº 70.824, DE 12 DE JULHO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada a passagem de linha de transmissão, no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-093329-0-000-02-10-1986@@@
-
 DECRETO Nº 93.329, DE 2 DE OUTUBRO DE 1986
 
 Outorga concessão à RÁDIO BELO CAMPO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Belo Campo, Estado da Bahia.

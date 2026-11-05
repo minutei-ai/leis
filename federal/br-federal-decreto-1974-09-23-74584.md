@@ -1,5 +1,3 @@
-###DEC-074584-0-000-23-09-1974@@@
-
 DECRETO Nº 74.584, DE 9 DE SETEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Petrópolis Rádio Difusora S. A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Petrópolis, Estado do Rio de Janeiro.

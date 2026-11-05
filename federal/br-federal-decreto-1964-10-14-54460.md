@@ -1,5 +1,3 @@
-###DEC-054460-0-000-14-10-1964@@@
-
 Decreto nº 54.460, de 14 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Djahy Farina Romero a pesquisar caulim no município de Magé, Estado do Rio de Janeiro.

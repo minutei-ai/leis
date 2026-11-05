@@ -1,5 +1,3 @@
-###MPV-002045-0-007-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.045-7, DE 21 DE dezembro DE 2000.
 
 Institui o Fundo Nacional de Segurança Pública - FNSP, e dá outras providências.

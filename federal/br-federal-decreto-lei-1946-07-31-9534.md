@@ -1,5 +1,3 @@
-###DEL-009534-0-000-31-07-1946@@@
-
 DECRETO-LEI N. 9.534 – DE 31 DE JULHO DE 1946
 
 Aprova o acôrdo celebrado em 6 de Julho de 1946, entre os Governos Federal e do Estado de São Paulo.

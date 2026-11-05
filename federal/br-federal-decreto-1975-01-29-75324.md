@@ -1,5 +1,3 @@
-###DEC-075324-0-000-29-01-1975@@@
-
 DECRETO Nº 75.324, DE 29 DE JANEIRO DE 1975.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno de marinha e acrescidos que menciona, situado no Estado de Sergipe.

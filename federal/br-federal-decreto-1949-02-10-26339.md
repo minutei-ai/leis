@@ -1,14 +1,12 @@
-###DEC-026339-0-000-10-02-1949@@@
+**DECRETO Nº 26.339, DE 10 DE FEVEREIRO DE 1949.**
 
-<strong>DECRETO Nº 26.339, DE 10 DE FEVEREIRO DE 1949.</strong>
+***Altera a lotação do Ministério da Educação e saúde.***
 
-<em><strong>Altera a lotação do Ministério da Educação e saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A lotação numérica do Departamento Nacional da Criança, atendida pelos Quadros Permanente e Suplementar do Ministério da Educação e da Saúde, passa a ser a seguinte, em substituição à aprovada pelo decreto nº 24.131, de 27 de novembro de 1947, e altera pelos decretos ns. 24.131, de 18 de fevereiro, e 24.753, de 5 de abril, ambos de 1948:
+**Art**. 1º A lotação numérica do Departamento Nacional da Criança, atendida pelos Quadros Permanente e Suplementar do Ministério da Educação e da Saúde, passa a ser a seguinte, em substituição à aprovada pelo decreto nº 24.131, de 27 de novembro de 1947, e altera pelos decretos ns. 24.131, de 18 de fevereiro, e 24.753, de 5 de abril, ambos de 1948:
 
 XIII - DEPARTAMENTO NACIONAL DA CRIANÇA
 
@@ -24,7 +22,7 @@ Diretor Geral do departamento Nacional da criança .............................
 
 Cargo de Carreira:
 
-Médico Puericultor.............................................................................................................<u>1</u>.............<u>\-</u>
+Médico Puericultor.............................................................................................................1.............\-
 
 Totais.................................................................................................................................2.............-
 
@@ -62,9 +60,9 @@ SERVIÇO DE EDUCAÇÃO E DIVULGAÇÃO
 
 Cargo de carreira:
 
-Médico Puericultor...................................................................................................................<u>4</u>.......<u>\-</u>
+Médico Puericultor...................................................................................................................4.......\-
 
-Totais.......................................................................................................................................<u>4</u>.......<u>\-</u>
+Totais.......................................................................................................................................4.......\-
 
 SERVIÇO DE ESTATISTICA
 
@@ -110,9 +108,9 @@ Médico Puecultor...............................................................
 
 Prático de Farmácia....................................................................................................................-   1
 
-Técnico de Laboratório................................................................................................................<u>8</u>...<u>\-</u>
+Técnico de Laboratório................................................................................................................8...\-
 
-Totais........................................................................................................................................<u>81</u>...<u>8</u>
+Totais........................................................................................................................................81...8
 
 SERVIÇO DE ADMINISTRAÇÃO
 
@@ -154,7 +152,7 @@ Enfermeiro......................................................................
 
 Escriturário..............................................................................................................................2.......-
 
-Médico Puericultor...................................................................................................................<u>5</u>.......<u>\-</u>Totais.....................................................................................................................................10.......-
+Médico Puericultor...................................................................................................................5.......\-Totais.....................................................................................................................................10.......-
 
 DELEGACIA FEDERAL DA CRIANÇA DA 2ª REGIÃO DE FORTALEZA
 
@@ -170,7 +168,7 @@ Enfermeiro......................................................................
 
 Escriturário.............................................................................................................................2........-
 
-Médico Puericultor................................................................................................................<u>5</u>..........<u>\-</u>
+Médico Puericultor................................................................................................................5..........\-
 
 Totais....................................................................................................................................10........-
 
@@ -188,9 +186,9 @@ Enfermeiro......................................................................
 
 Escriturário...............................................................................................................................2......-
 
-Médico Puericultor...................................................................................................................<u>5</u>.......<u>\-</u>
+Médico Puericultor...................................................................................................................5.......\-
 
-Totais.....................................................................................................................................<u>10</u>.......<u>\-</u>
+Totais.....................................................................................................................................10.......\-
 
 DELEGACIA FEDERAL DA CRIANÇA DA REGIÃO – SALVADOR
 
@@ -208,7 +206,7 @@ Escriturário...................................................................
 
 Médico Puericultor.....................................................................................................................4.....-
 
-Servente...................................................................................................................................<u>\-</u>......<u>1</u>
+Servente...................................................................................................................................\-......1
 
 Totais........................................................................................................................................9.....1
 
@@ -266,7 +264,7 @@ Médico puericultor.............................................................
 
 Totais........................................................................................................................................10....-
 
-<strong>Art</strong>. 2 Fica alterada a lotação numérica das repartições atendidas pelos Quadros Permanente e Suplemente do Ministério da Educação e Saúde do Seguinte Modo:
+**Art**. 2 Fica alterada a lotação numérica das repartições atendidas pelos Quadros Permanente e Suplemente do Ministério da Educação e Saúde do Seguinte Modo:
 
 I – exclui - se 1(um) cargo da carreira de bibliotecario-auxiliar, claro da lotação permanente do Instituto Nacional do livro;
 
@@ -308,12 +306,12 @@ XIX - exclui-se 1(um) cargo de carreira de técnico de educação, ocupado por C
 
 XX - exclui-se 1(um) cargo da carreira de estatístico, claro, da lotação permanente do Serviço de Estatísticas da Educação e Saúde.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 10 de fevereiro de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani

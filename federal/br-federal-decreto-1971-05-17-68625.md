@@ -1,5 +1,3 @@
-###DEC-068625-0-000-17-05-1971@@@
-
 DECRETO Nº 68.625 - DE 17 DE MAIO DE 1971.
 
 Declara de utilidade pública o Instituto dos Advogados do Rio Grande do Sul, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

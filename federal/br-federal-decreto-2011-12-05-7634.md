@@ -1,5 +1,3 @@
-###DEC-007634-0-000-05-12-2011-PUB-01@@@
-
 DECRETO Nº 7.634, DE 5 DE DEZEMBRO DE 2011
 
 Discrimina ações do Programa Territórios da Cidadania a serem executadas por meio de transferência obrigatória, no exercício de 2011.

@@ -1,5 +1,3 @@
-###DEC-058691-0-000-22-06-1966@@@
-
 DECRETO Nº 58.691, DE 22 DE JUNHO DE 1966.
 
 Declara a cessação de serviços de energia elétrica e outorga nova concessão para distribuição.

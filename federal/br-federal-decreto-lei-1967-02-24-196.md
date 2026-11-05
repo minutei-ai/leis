@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c2487abd-58cd-416a-be20-a90a288976df/texto#nowhere)
 
-###DEL-000196-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 196, DE 24 DE FEVEREIRO DE 1967
 
 Altera dispositivo da Lei nº 4.328, de 30 de abril de 1964.

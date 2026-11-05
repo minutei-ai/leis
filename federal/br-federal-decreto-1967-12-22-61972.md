@@ -1,5 +1,3 @@
-###DEC-061972-0-000-22-12-1967@@@
-
 DECRETO Nº 61.972, DE 22 DE DEZEMBRO DE 1967.
 
 Concede nacionalização à sociedade The Brazilian Coal Companhy limited, sob a denominação de Cory Irmãos do Brasil Carvão Limitada.

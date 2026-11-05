@@ -1,5 +1,3 @@
-###DEC-057059-0-000-15-10-1965@@@
-
 DECRETO Nº 57.059, DE 15 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Joaquim Marques Carriço a lavrar areia quartzosa, no Município de São Vicente, Estado de São Paulo.

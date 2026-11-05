@@ -1,5 +1,3 @@
-###DEC-046946-0-000-01-10-1959@@@
-
 DECRETO Nº 46.946, DE 1º DE OUTUBRO DE 1959.
 
 Concede a “Sidemine-Minas-Santa Catarina, Mineração, Siderurgia Limitada”, autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-058481-0-000-23-05-1966@@@
-
 Decreto nº 58.481, de 23 de maio de 1966.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional a operação de crédito que menciona.

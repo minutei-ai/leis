@@ -1,5 +1,3 @@
-###DEC-078526-0-000-30-09-1976@@@
-
 decreto nº 78.526, de 30 de setembro de 1976.
 
 Altera dispositivo do Decreto número 77.162, de 1976, de 12 de fevereiro de 1976, que concedeu reconhecimento ao curso de Letras, da Faculdade Ibero-Americana de Letras e Ciências Humanas, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-064743-0-000-26-06-1969@@@
-
 DECRETO Nº 64.743, DE 26 DE JUNHO DE 1969.
 
 Altera a composição da Comissão Brasileira do Decênio Hidrológico Internacional e toma outras providências.

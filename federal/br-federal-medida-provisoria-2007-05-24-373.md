@@ -1,5 +1,3 @@
-###MPV-000373-0-000-24-05-2007@@@
-
 MEDIDA PROVISÓRIA Nº 373, DE 24 DE MAIO DE 2007.
 
 Dispõe sobre a concessão de pensão especial às pessoas atingidas pela hanseníase que foram submetidas a isolamento e internação compulsórios.
@@ -53,5 +51,3 @@ Luiz Marinho
 Patrus Ananias
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 25.5.2007

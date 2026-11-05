@@ -1,5 +1,3 @@
-###DEC-048077-0-000-07-04-1960@@@
-
 DECRETO Nº 48.077, DE 7 DE ABRIL DE 1960.
 
 Autoriza a cidadã brasileira Felicidade da Conceição Tameirão Neves a pesquisar minérios de manganês, no município de Diamantina, Estado de Minas Gerais.

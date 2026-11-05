@@ -1,5 +1,3 @@
-###DEC-067815-0-000-15-12-1970@@@
-
 DECRETO Nº 67.815, DE 15 DE DEZEMBRO de 1970.
 
 Concede permissão, em caráter permanente, à emprêsa S. A. Gordinho Braune - Indústria de Papel, sediada em Jundiai, Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

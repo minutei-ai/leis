@@ -1,5 +1,3 @@
-###DEC-007478-0-000-12-05-2011-PUB-01@@@
-
 DECRETO Nº 7.478, DE 12 DE MAIO DE 2011
 
 Cria a Câmara de Políticas de Gestão, Desempenho e Competitividade - CGDC, do Conselho de Governo, e dá outras providências.

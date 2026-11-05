@@ -1,5 +1,3 @@
-###DEC-094233-0-000-15-04-1987@@@
-
 DECRETO Nº 94.233, DE 15 DE ABRIL DE 1987.
 
 Dispõe sobre os efeitos financeiros dos reajustamentos a que se refere o Decreto nº 94.042, de fevereiro de 1987.

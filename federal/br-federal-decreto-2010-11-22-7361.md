@@ -1,5 +1,3 @@
-###DEC-007361-0-000-22-11-2010-PUB-01@@@
-
 DECRETO Nº 7.361, DE 22 DE NOVEMBRO DE 2010.
 
 Aumenta o capital social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e altera o seu Estatuto Social, aprovado pelo Decreto no 4.418, de 11 de outubro de 2002.

@@ -1,6 +1,4 @@
-###DEC-072540-0-000-27-07-1973@@@
-
- DECRETO Nº 72.540, DE 27 DE JULHO DE 1973.
+DECRETO Nº 72.540, DE 27 DE JULHO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.
 

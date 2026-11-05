@@ -1,5 +1,3 @@
-###DEC-086839-0-000-12-01-1982@@@
-
 DEcreto nº 86.839, de 12 de janeiro de 1982
 
 Cassa autorização de funcionamento de estabelecimento de ensino superior.

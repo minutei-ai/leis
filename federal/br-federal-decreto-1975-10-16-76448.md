@@ -1,5 +1,3 @@
-###DEC-076448-0-000-16-10-1975@@@
-
 DECRETO Nº 76.448, DE 16 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

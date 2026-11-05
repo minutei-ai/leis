@@ -1,5 +1,3 @@
-###DEC-055847-0-000-19-03-1965@@@
-
 Decreto nº 55.847, de 19 de março de 1965.
 
 Autoriza a cessão de terrenos acrescidos de marinha sob o regime de aforamento, nos têrmos dos artigos 125 e 126 do Decreto-lei nº 9.760 de 1946.

@@ -1,5 +1,3 @@
-###DEC-056971-0-000-01-10-1965@@@
-
 DECRETO Nº 56.971, DE 1º DE OUTUBRO DE 1965.
 
 Aprova alteração introduzida nos Estatutos da Solidez Companha Nacional de Seguros, relativa ao aumento do capital social.

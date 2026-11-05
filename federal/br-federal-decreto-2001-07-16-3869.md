@@ -1,5 +1,3 @@
-###DEC-003869-0-000-16-07-2001@@@
-
 DECRETO Nº 3.869, DE 16 DE JULHO DE 2001
 
 Promulga o Acordo por troca de Notas, entre o Governo da República Federativa do Brasil e o Governo da República da Hungria para a Abolição Recíproca da Exigência de Visto de Entrada, celebrado em Budapeste, em 9 de novembro de 1999.

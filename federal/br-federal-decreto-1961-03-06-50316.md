@@ -1,5 +1,3 @@
-###DEC-050316-0-000-06-03-1961@@@
-
 DECRETO Nº 50.316, DE 06 DE MARÇO DE 1961.
 
 Dispõe sôbre as operações de crédito nas Caixas Econômicas Federais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060081-0-000-17-01-1967@@@
-
 DECRETO Nº 60.081, DE 17 DE JANEIRO DE 1967.
 
 Institui, com âmbito nacional, a Semana da Comunidade.

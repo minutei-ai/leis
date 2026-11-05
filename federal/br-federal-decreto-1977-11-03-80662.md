@@ -1,5 +1,3 @@
-###DEC-080662-0-000-03-11-1977@@@
-
 DECRETO Nº 80.662, DE 03 DE NOVEMBRO DE 1977.
 
 Concede à Mineração Itapeva Ltda. o direito de lavrar filito no Município de Itapeva, Estado de São Paulo.

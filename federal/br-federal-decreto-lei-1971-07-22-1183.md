@@ -1,5 +1,3 @@
-###DEL-001183-0-000-22-07-1971@@@
-
 # DECRETO-LEI Nº 1.183, De 22 DE JULHO DE 1971
 
 Declara de interêsse da Segurança Nacional nos têrmos do artigo 15, § 1º, alínea b, da Constituição, o Município de Roque Gonzales, do Estado do Rio Grande do Sul e dá outras providências.

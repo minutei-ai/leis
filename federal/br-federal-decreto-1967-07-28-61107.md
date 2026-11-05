@@ -1,5 +1,3 @@
-###DEC-061107-0-000-28-07-1967@@@
-
 DECRETO Nº 61.107, DE 28 DE JULHO DE 1967.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Botucatu, em Botucatu, Estado de São Paulo.

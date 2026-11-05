@@ -1,7 +1,3 @@
-1
-
-###MPV-001331-0-000-07-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.331, DE 7 DE MARÇO DE 1996.
 
 Acrescenta § 5º ao art. 4º da Lei nº 8.884, de 11 de junho de 1994, e dá outras providências.

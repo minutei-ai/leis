@@ -1,5 +1,3 @@
-###DEC-087119-0-000-20-04-1982@@@
-
 Decreto nº 87.119, de 20 de abril de 1982
 
 Altera dispositivo do Regulamento Para o Corpo do Pessoal Graduado da Aeronáutica, aprovado pelo Decreto número 68.951, de 19 de julho de 1971.

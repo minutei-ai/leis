@@ -1,5 +1,3 @@
-###MPV-001756-0-008-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.756-8, DE 14 DE DEZEMBRO DE 1998.
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

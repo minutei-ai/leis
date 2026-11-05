@@ -1,5 +1,3 @@
-###DEC-081194-0-000-09-01-1978@@@
-
 Decreto nº 81.194, de 9 de janeiro de 1978
 
 Promulga o Protocolo que Modifica e Complementa a Convenção entre os Estados Unidos do Brasil, atualmente República Federativa do Brasil, e o Japão, Destinada a Evitar a Dupla Tributação em Matéria de Impostos sobre Rendimentos.

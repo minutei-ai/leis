@@ -1,5 +1,3 @@
-###DEC-005271-0-000-16-11-2004@@@
-
 DECRETO Nº 5.271 DE 16 DE NOVEMBRO DE 2004
 
 Altera dispositivos do Decreto nº 5.163, de 30 de julho de 2004, que regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica, e dá outras providências.

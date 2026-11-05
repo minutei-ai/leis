@@ -1,5 +1,3 @@
-###DEC-079017-0-000-23-12-1976@@@
-
 DECRETO Nº 79.017, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de História, e de Ciências Sociais, da Universidade Regional do Rio Grande do Norte, com sede na Cidade de Mossoró, Estado do Rio Grande do Norte.

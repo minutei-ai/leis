@@ -16,7 +16,8 @@ Parágrafo único. Para este Decreto os órgãos e as entidades da administraç�
 
 Art. 2º Consideram-se, para os fins deste Decreto, as mesmas definições do art. 5º da Lei federal nº 13.709, de 2018, com os seguintes acréscimos:
 
-I – Comitê Estadual de Proteção de Dados Pessoais – CEPD: órgão colegiado consultivo e deliberativo na área de proteção de dados pessoais no âmbito da administração pública direta e indireta do Poder Executivo do Estado de Goiás;<br>
+I – Comitê Estadual de Proteção de Dados Pessoais – CEPD: órgão colegiado consultivo e deliberativo na área de proteção de dados pessoais no âmbito da administração pública direta e indireta do Poder Executivo do Estado de Goiás;
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~I – Comitê Estadual de Proteção de Dados Pessoais – CEPD: órgão colegiado consultivo na área de proteção de dados pessoais no âmbito da administração pública direta e indireta do Poder Executivo do Estado de Goiás;~~
@@ -85,7 +86,8 @@ CAPÍTULO II
 
 DO COMITÊ ESTADUAL DE PROTEÇÃO DE DADOS PESSOAIS
 
-Art. 4º Fica criado o Comitê Estadual de Proteção de Dados Pessoais – CEPD, órgão colegiado consultivo e deliberativo na área de proteção de dados pessoais no âmbito da administração pública direta e indireta do Poder Executivo, regido pelo disposto na Lei federal nº 13.709, de 2018.<br>
+Art. 4º Fica criado o Comitê Estadual de Proteção de Dados Pessoais – CEPD, órgão colegiado consultivo e deliberativo na área de proteção de dados pessoais no âmbito da administração pública direta e indireta do Poder Executivo, regido pelo disposto na Lei federal nº 13.709, de 2018.
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~Art. 4º Fica criado o Comitê Estadual de Proteção de Dados Pessoais – CEPD, órgão colegiado consultivo na área de proteção de dados pessoais no âmbito da administração pública direta e indireta do Poder Executivo, regido pelo disposto na Lei federal nº 13.709, de 2018.~~
@@ -126,7 +128,8 @@ XVI – elaborar relatórios anuais de avaliação da execução das ações da 
 
 XVII – disseminar o conhecimento sobre a proteção de dados pessoais e da privacidade para a população goiana; e
 
-XVIII – decidir sobre questões relativas à proteção de dados pessoais no âmbito estadual, conforme as diretrizes estabelecidas pela Autoridade Nacional de Proteção de Dados.<br>
+XVIII – decidir sobre questões relativas à proteção de dados pessoais no âmbito estadual, conforme as diretrizes estabelecidas pela Autoridade Nacional de Proteção de Dados.
+
 \- [Acrescido pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 § 1º O CEPD deverá obedecer ao disposto na Lei federal nº 12.527, de 18 de novembro de 2011, e na [Lei estadual nº 18.025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90142/lei-18025), de 22 de maio de 2013, para disseminar boas práticas e evitar o conflito entre essas normas, resguardadas as competências da PGE.
@@ -139,58 +142,68 @@ Art. 6º O CEPD terá autonomia para propor diretrizes estratégicas e para orie
 
 Art. 7º Integram o CEPD os membros indicados pelos dirigentes máximos dos seguintes órgãos:
 
-I – Controladoria– Geral do Estado – CGE;<br>
+I – Controladoria– Geral do Estado – CGE;
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~I – Controladoria– Geral do Estado – CGE, por meio da Chefia de Gabinete do Secretário– Chefe da CGE, que o presidirá e coordenará os trabalhos;~~
 
 II – Secretaria de Estado da Administração – SEAD;
 
-III – Secretaria de Estado de Ciência, Tecnologia e Inovação – SECTI;<br>
+III – Secretaria de Estado de Ciência, Tecnologia e Inovação – SECTI;
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~III – Secretaria de Estado de Desenvolvimento e Inovação – SEDI; e~~
 
 IV – Procuradoria– Geral do Estado – PGE.
 
-V – Secretaria– Geral de Governo – SGG.<br>
+V – Secretaria– Geral de Governo – SGG.
+
 \- [Acrescido pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
-§ 1º Cada órgão de que trata o _caput_ deste artigo indicará 2 (dois) membros para o CEPD, que serão 1 (um) titular e 1 (um) suplente, dentre os servidores com qualificação compatível com uma das matérias relativas ao CEPD, na forma definida em seu regimento interno.<br>
+§ 1º Cada órgão de que trata o _caput_ deste artigo indicará 2 (dois) membros para o CEPD, que serão 1 (um) titular e 1 (um) suplente, dentre os servidores com qualificação compatível com uma das matérias relativas ao CEPD, na forma definida em seu regimento interno.
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~§ 1º Cada órgão de que trata o _caput_ deste artigo indicará 4 (quatro) membros para o CEPD, que serão 2 (dois) titulares e 2 (dois) suplentes, dentre os servidores com qualificação compatível com uma das matérias relativas ao CEPD, na forma definida em seu regimento interno.~~
 
 § 2º A participação no comitê não será remunerada.
 
-§ 3º O mandato dos membros do comitê será de 2 (dois) anos, permitida a recondução.<br>
+§ 3º O mandato dos membros do comitê será de 2 (dois) anos, permitida a recondução.
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~§ 3º O mandato dos membros do comitê será de 2 (dois) anos, permitida uma recondução.~~
 
-§ 4º O representante da CGE exercerá a Presidência do CEPD.<br>
+§ 4º O representante da CGE exercerá a Presidência do CEPD.
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~§ 4º A CGE indicará qual dos seus dois membros titulares exercerá a função de presidente e qual exercerá a de vice-presidente do CEPD, para um mandato de 2 (dois) anos, permitida a recondução do presidente para essa função, a serem definidos no regimento interno.~~
 
-§ 5º O representante da SGG exercerá a Vice-Presidência do CEPD.<br>
+§ 5º O representante da SGG exercerá a Vice-Presidência do CEPD.
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~§ 5º A CGE, por meio da Chefia de Gabinete do seu Secretário-Chefe, exercerá as funções de Secretaria-Executiva do CEPD, cujas competências serão definidas no regimento interno de que trata o art. 10.~~
 
-§ 6º A CGE deverá disponibilizar servidores para atuarem na função de Secretaria-Executiva do CEPD, cujas competências serão definidas no regimento interno de que trata o art. 10 deste Decreto.<br>
+§ 6º A CGE deverá disponibilizar servidores para atuarem na função de Secretaria-Executiva do CEPD, cujas competências serão definidas no regimento interno de que trata o art. 10 deste Decreto.
+
 \- [Acrescido pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 Art. 8º O CEPD se reunirá:
 
-I – ordinariamente, 1 (uma) vez a cada 4 (quatro) meses; e<br>
+I – ordinariamente, 1 (uma) vez a cada 4 (quatro) meses; e
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~I – ordinariamente, 1 (uma) vez a cada 2 (dois) meses; e~~
 
 II – extraordinariamente, sempre que houver convocação por seu presidente.
 
-§ 1º As reuniões serão realizadas com a presença de, no mínimo, 3 (três) de seus integrantes.<br>
+§ 1º As reuniões serão realizadas com a presença de, no mínimo, 3 (três) de seus integrantes.
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~§ 1º As reuniões serão realizadas com a presença de, no mínimo, 5 (cinco) de seus integrantes, admitida via teleconferência.~~
@@ -247,102 +260,134 @@ Seção II
 
 Da governança e das competências
 
-Art. 14. A governança dos atos relativos à proteção de dados pessoais cabe aos órgãos vinculados ao CEPD.<br>
+Art. 14. A governança dos atos relativos à proteção de dados pessoais cabe aos órgãos vinculados ao CEPD.
+
 \- [Redação dada pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
 ~~Art. 14. Compete à CGE:~~
 
-~~I – presidir o CEPD por meio da Chefia de Gabinete do Secretário– Chefe da CGE, bem como coordenar e apoiar administrativamente esse comitê;~~<br>
+~~I – presidir o CEPD por meio da Chefia de Gabinete do Secretário– Chefe da CGE, bem como coordenar e apoiar administrativamente esse comitê;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, I.
 
-~~II – apoiar o CEPD na elaboração PEPD, com relação às diretrizes estratégicas traçadas pelo CEPD;~~<br>
+~~II – apoiar o CEPD na elaboração PEPD, com relação às diretrizes estratégicas traçadas pelo CEPD;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, I.
 
-~~III – apoiar o CEPD na consolidação dos resultados e no monitoramento dos agentes públicos de tratamento de dados quanto à elaboração do seu respectivo POA;~~<br>
+~~III – apoiar o CEPD na consolidação dos resultados e no monitoramento dos agentes públicos de tratamento de dados quanto à elaboração do seu respectivo POA;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, I.
 
-~~IV – incentivar a elaboração de manuais e de modelos de documentos para a implementação da PEPD;~~<br>
+~~IV – incentivar a elaboração de manuais e de modelos de documentos para a implementação da PEPD;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, I.
 
-~~V – apoiar nas capacitações, nos seminários e nos eventos com relação à LGPD; e~~<br>
+~~V – apoiar nas capacitações, nos seminários e nos eventos com relação à LGPD; e~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, I.
 
-~~VI – realizar atividades correlatas.~~<br>
+~~VI – realizar atividades correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, I.
 
-§ 1º A CGE, a SEAD, a SECTI, a SGG e a PGE, em consonância com a sua área de atuação, contribuirão com as competências pertinentes, para garantir a efetividade das medidas previstas neste Decreto.<br>
+§ 1º A CGE, a SEAD, a SECTI, a SGG e a PGE, em consonância com a sua área de atuação, contribuirão com as competências pertinentes, para garantir a efetividade das medidas previstas neste Decreto.
+
 \- [Acrescido pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
-§ 2º Outros colegiados estaduais com competência na área de proteção de dados deverão agir de forma colaborativa e harmoniosa com o CEPD e poderão oferecer assistência e orientações, mediante solicitação.<br>
+§ 2º Outros colegiados estaduais com competência na área de proteção de dados deverão agir de forma colaborativa e harmoniosa com o CEPD e poderão oferecer assistência e orientações, mediante solicitação.
+
 \- [Acrescido pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529).
 
-~~Art. 15. Compete à SEDI:~~<br>
+~~Art. 15. Compete à SEDI:~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~I – orientar e desenvolver, com auxílio do Comitê Estadual de Tecnologia da Informação e Comunicação – CETIC, soluções de Tecnologia da Informação – TI relacionadas à proteção de dados pessoais;~~<br>
+~~I – orientar e desenvolver, com auxílio do Comitê Estadual de Tecnologia da Informação e Comunicação – CETIC, soluções de Tecnologia da Informação – TI relacionadas à proteção de dados pessoais;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~II – apoiar os órgãos e as entidades na adequação dos sistemas às exigências da Lei federal nº 13.709, de 2018;~~<br>
+~~II – apoiar os órgãos e as entidades na adequação dos sistemas às exigências da Lei federal nº 13.709, de 2018;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~III – promover e coordenar ações de integração e compartilhamento de dados dos sistemas informatizados da sua competência, para a proteção de dados pessoais;~~<br>
+~~III – promover e coordenar ações de integração e compartilhamento de dados dos sistemas informatizados da sua competência, para a proteção de dados pessoais;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~IV – apoiar nas capacitações, seminários e eventos com relação à LGPD; e~~<br>
+~~IV – apoiar nas capacitações, seminários e eventos com relação à LGPD; e~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~V – realizar atividades correlatas.~~<br>
+~~V – realizar atividades correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~Art. 16. Cabe ao Comitê Estadual de Tecnologia da Informação e Comunicação – CETIC, criado pelo [Decreto estadual nº 8.800](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69542/decreto-8800), de 10 de novembro de 2016:~~<br>
+~~Art. 16. Cabe ao Comitê Estadual de Tecnologia da Informação e Comunicação – CETIC, criado pelo [Decreto estadual nº 8.800](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69542/decreto-8800), de 10 de novembro de 2016:~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~I – oferecer os subsídios técnicos necessários à formulação das diretrizes estratégicas e das orientações pelo CEPD para a elaboração dos POAs;~~<br>
+~~I – oferecer os subsídios técnicos necessários à formulação das diretrizes estratégicas e das orientações pelo CEPD para a elaboração dos POAs;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~II – orientar, do ponto de vista tecnológico, os agentes públicos de tratamento de dados na implementação dos respectivos POAs;~~<br>
+~~II – orientar, do ponto de vista tecnológico, os agentes públicos de tratamento de dados na implementação dos respectivos POAs;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~III – propor padrões de desenvolvimento de novas soluções de TI, para a proteção de dados pessoais, desde a fase de concepção do produto e serviço até a sua execução; e~~<br>
+~~III – propor padrões de desenvolvimento de novas soluções de TI, para a proteção de dados pessoais, desde a fase de concepção do produto e serviço até a sua execução; e~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~IV – incluir no Plano Diretor de Tecnologia da Informação – PDTI ações e medidas de novas tecnologias no campo dos sistemas de informação e comunicação relacionadas à proteção de dados pessoais.~~<br>
+~~IV – incluir no Plano Diretor de Tecnologia da Informação – PDTI ações e medidas de novas tecnologias no campo dos sistemas de informação e comunicação relacionadas à proteção de dados pessoais.~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~Art. 17. Compete à SEAD:~~<br>
+~~Art. 17. Compete à SEAD:~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~I – promover as ações de treinamento e capacitação gerais e abrangentes do CEPD, como também auxiliar nas capacitações específicas de cada órgão e entidade, por meio da Escola de Governo, para contribuir com a disseminação de conhecimentos técnicos e operacionais para aimplementação da Política Estadual de Proteção de Dados Pessoais;~~<br>
+~~I – promover as ações de treinamento e capacitação gerais e abrangentes do CEPD, como também auxiliar nas capacitações específicas de cada órgão e entidade, por meio da Escola de Governo, para contribuir com a disseminação de conhecimentos técnicos e operacionais para aimplementação da Política Estadual de Proteção de Dados Pessoais;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~II – auxiliar o CEPD na formulação e na gestão de metodologias, instrumentos e padrões de planejamento e planos gerenciais com relação ao POA e à Política Estadual de Proteção de Dados Pessoais;~~<br>
+~~II – auxiliar o CEPD na formulação e na gestão de metodologias, instrumentos e padrões de planejamento e planos gerenciais com relação ao POA e à Política Estadual de Proteção de Dados Pessoais;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~III – auxiliar na ordenação e execução de programas de apoio à modernização e inovação da gestão com relação à proteção de dados pessoais;~~<br>
+~~III – auxiliar na ordenação e execução de programas de apoio à modernização e inovação da gestão com relação à proteção de dados pessoais;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~IV – promover e coordenar ações de integração e compartilhamento de dados dos sistemas informatizados da sua competência, para a proteção de dados pessoais; e~~<br>
+~~IV – promover e coordenar ações de integração e compartilhamento de dados dos sistemas informatizados da sua competência, para a proteção de dados pessoais; e~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~V – realizar atividades correlatas.~~<br>
+~~V – realizar atividades correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~Art. 18. Compete à PGE:~~<br>
+~~Art. 18. Compete à PGE:~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~I – responder às consultas específicas referentes à aplicação da LGPD no Estado, desde que sejam encaminhadas pelo titular dos órgãos e das entidades ou pelo CEPD, observado o disposto na [Lei Complementar nº 58](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990/lei-complementar-058), de 4 de julho de 2006;~~<br>
+~~I – responder às consultas específicas referentes à aplicação da LGPD no Estado, desde que sejam encaminhadas pelo titular dos órgãos e das entidades ou pelo CEPD, observado o disposto na [Lei Complementar nº 58](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990/lei-complementar-058), de 4 de julho de 2006;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~II – disponibilizar minutas padronizadas de contratos, convênios, acordos de cooperação, termos de uso de sistema de informação da administração pública e instrumentos jurídicos congêneres necessários à implementação da Lei federal nº 13.709, de 2018;~~<br>
+~~II – disponibilizar minutas padronizadas de contratos, convênios, acordos de cooperação, termos de uso de sistema de informação da administração pública e instrumentos jurídicos congêneres necessários à implementação da Lei federal nº 13.709, de 2018;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~III – promover e coordenar ações de integração e compartilhamento de dados dos sistemas informatizados da sua competência, para a proteção de dados pessoais;~~<br>
+~~III – promover e coordenar ações de integração e compartilhamento de dados dos sistemas informatizados da sua competência, para a proteção de dados pessoais;~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~IV – apoiar nas capacitações, seminários e eventos com relação à LGPD; e~~<br>
+~~IV – apoiar nas capacitações, seminários e eventos com relação à LGPD; e~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
-~~V – realizar atividades correlatas.~~<br>
+~~V – realizar atividades correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.661, de 27-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110529), art. 2º, II.
 
 Seção III

@@ -1,5 +1,3 @@
-###DEC-078157-0-000-02-08-1976@@@
-
 Decreto Nº 78.157, DE 2 DE AGOSTO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação pela Companhia Siderúrgica Nacional, áreas situadas no Município de Congonhas, Estado de Minas Gerais.
@@ -16,13 +14,109 @@ Art. 2º Os bens declarados de utilidade pública, objeto da presente desapropri
 
 Superfície 279.280,00 metros quadrados, limitada ao sul pelo leito da linha férrea da Rede Ferroviária Federal S.A., Ramal de Paraopeba, entre as estações de Congonhas e Caetano Lopes, vértices A e E; e mais a poligonal de vértices A, B, C, D e E, com as seguintes coordenadas geográficas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">A</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">613.000,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.537,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">B</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">613.000,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.600,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">C</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">613.300,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.900,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">D</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">613.567,610</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.900,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">613.642,413</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.290,775</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr></tbody></table>
+A
+
+613.000,000
+
+E
+
+7.731.537,000
+
+N
+
+B
+
+613.000,000
+
+E
+
+7.731.600,000
+
+N
+
+C
+
+613.300,000
+
+E
+
+7.731.900,000
+
+N
+
+D
+
+613.567,610
+
+E
+
+7.731.900,000
+
+N
+
+E
+
+613.642,413
+
+E
+
+7.731.290,775
+
+N
 
 # ÁREA II
 
 Superfície 167.282,00 metros quadrados, limitada ao sul pelo leito da linha férrea da Rede Ferroviária Federal, Ramal de Paraopeba, entre as estações de Congonhas e Casa de Pedra, vértices F e J; e mais a poligonal de vértices F, G, H, I e J com as seguintes coordenadas geográficas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">F</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">614.050,226</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.252,165</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">G</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">613.970,682</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.900,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">H</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">614.300,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.900,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">614.300,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.500,000</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr><tr><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">J</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">614.080,252</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.731.223,739</span></p></td><td style="width:80.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">N</span></p></td></tr></tbody></table>
+F
+
+614.050,226
+
+E
+
+7.731.252,165
+
+N
+
+G
+
+613.970,682
+
+E
+
+7.731.900,000
+
+N
+
+H
+
+614.300,000
+
+E
+
+7.731.900,000
+
+N
+
+I
+
+614.300,000
+
+E
+
+7.731.500,000
+
+N
+
+J
+
+614.080,252
+
+E
+
+7.731.223,739
+
+N
 
 constantes da mesma planta.
 

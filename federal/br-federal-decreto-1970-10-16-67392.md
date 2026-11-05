@@ -1,5 +1,3 @@
-###DEC-067392-0-000-16-10-1970@@@
-
 decreto nº 67.392, de 16 de outubro de 1970.
 
 Declara caduco o Decreto nº 10.109, de 30 de julho de 1942.

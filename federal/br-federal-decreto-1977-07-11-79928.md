@@ -1,5 +1,3 @@
-###DEC-079928-0-000-11-07-1977@@@
-
 DECRETO Nº 79.928, DE 11 DE JULHO DE 1977
 
 Retifica a concessão de lavra outorgada à Mercantil Industrial de Minérios Limitada pelo Decreto nº 73.904, de 5 de abril de 1974.

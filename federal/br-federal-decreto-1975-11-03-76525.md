@@ -1,5 +1,3 @@
-###DEC-076525-0-000-03-11-1975@@@
-
 DECRETO Nº 76.525, DE 3 DE NOVEMBRO DE 1975.
 
 Concede à Camargo Corrêa Industrial S.A. o direito de lavrar calcário no Município de Apiaí, Estado de São Paulo.

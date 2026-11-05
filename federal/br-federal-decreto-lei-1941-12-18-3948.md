@@ -1,5 +1,3 @@
-###DEL-003948-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.948 – DE 18 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 30:000$0, para liquidação de despesas efetuados com a Delegação Argentina de Tiro

@@ -1,5 +1,3 @@
-###DEL-006038-0-000-25-11-1943@@@
-
 DECRETO‑LEI N. 6.038 – DE 25 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 310.562,80, para pagamento de contribuição devida à Caixa de Apo­sentadoria e Pensões dos Aeroviários.

@@ -1,5 +1,3 @@
-###DEC-058448-0-000-17-05-1966@@@
-
 DECRETO Nº 58.448, DE 17 DE MAIO DE 1966.
 
 Declara sem efeito o Decreto número 54.768, de 30 de outubro de 1954.

@@ -1,5 +1,3 @@
-###DEC-051295-0-000-25-08-1961@@@
-
 DECRETO Nº 51.295, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro João Giraldi a pesquisar calcário e talco no município de Castro, Estado do Paraná.

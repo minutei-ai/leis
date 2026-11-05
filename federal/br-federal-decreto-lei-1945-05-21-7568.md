@@ -1,5 +1,3 @@
-###DEL-007568-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.568 – DE 21 DE MAIO DE 1945
 
 Altera a carreira de Contínuo do Quadro II – Extinto – do Ministério da Viação e Obras Públicas

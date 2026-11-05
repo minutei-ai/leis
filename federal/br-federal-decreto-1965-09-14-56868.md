@@ -1,5 +1,3 @@
-###DEC-056868-0-000-14-09-1965@@@
-
 DECRETO Nº 56.868, DE 14 DE SETEMBRO DE 1965.
 
 Declara de utilidade pública o “Ginásio Santo Antônio”, com sede em Nova Iguaçu, Estado do Rio de Janeiro.

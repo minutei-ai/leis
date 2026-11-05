@@ -1,5 +1,3 @@
-###DEC-083143-0-000-06-02-1979@@@
-
 DECRETO Nº 83.143, DE 06 DE FEVEREIRO DE 1979
 
 Promulga o Convênio de Abastecimento a Médio Prazo de Produtos, celebrado entre o Governo da República Federativa do Brasil e o Governo da República do Peru.
@@ -104,4 +102,20 @@ O presente Convênio entrará em vigor a partir da troca dos Instrumentos de Rat
 
 Feito em dois exemplares, nos idiomas português e espanhol, sendo ambos igualmente válidos e assinados a bordo do navio da Armada Peruana "Ucayali", fundeado no Rio Amazonas (Solimões), na linha de fronteira brasileiro-peruana, aos cinco dias do mês de novembro de mil novecentos e setenta e seis.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Antônio Francisco Azeredo da Silveira</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República do Peru:</span></p></td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">José de La Puente Radbil</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil:
+
+</td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Antônio Francisco Azeredo da Silveira
+
+</td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República do Peru:
+
+</td><td style="width:194.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+José de La Puente Radbil
+
+</td></tr></tbody></table>

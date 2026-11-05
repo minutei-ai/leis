@@ -198,8 +198,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 19 de janeiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -210,7 +208,8 @@ ANEXO ÚNICO
 
 (Anexo IX, art. 6º, CXXXII, e art. 11, LX e LX-A)
 
-MÁQUINAS, EQUIPAMENTOS E COMPONENTES DESTINADOS À AFERIÇÃO<br>
+MÁQUINAS, EQUIPAMENTOS E COMPONENTES DESTINADOS À AFERIÇÃO
+
 OU À PRODUÇÃO DE ENERGIA ELÉTRICA POR MEIO DE FONTES RENOVÁVEIS
 
 | ITEM | NCM | DESCRIÇÃO |

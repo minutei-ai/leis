@@ -1,5 +1,3 @@
-###DEC-078614-0-000-22-10-1976@@@
-
 DECRETO Nº 78.614, DE 22 DE OUTUBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

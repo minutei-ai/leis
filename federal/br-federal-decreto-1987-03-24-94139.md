@@ -1,5 +1,3 @@
-###DEC-094139-0-000-24-03-1987@@@
-
 DECRETO Nº 94.139, DE 24 DE MARÇO DE 1987.
 
 Altera dispositivo do Decreto nº 92.858, de 27 de junho de 1986.

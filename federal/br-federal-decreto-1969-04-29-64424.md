@@ -1,5 +1,3 @@
-###DEC-064424-0-000-29-04-1969@@@
-
 DECRETO Nº 64.424, DE 29 DE ABRIL DE 1969.
 
 Dispõe sôbre o recolhimento, ao Instituto Brasileiro de Desenvolvimento Florestal (IBDF), de emolumentos destinados à cobertura das despesas de análise e fiscalização dos projetos de florestamento e reflorestamento correspondentes aos estímulos fiscais de que trata a Lei nº 5.106, de 2 de setembro de 1966.

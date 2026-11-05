@@ -1,5 +1,3 @@
-###DEC-061230-0-000-23-08-1967@@@
-
 DECRETO Nº 61.230, DE 23 DE AGÔSTO DE 1967.
 
 Declara sem efeito o decreto número 19.231, de 19 de julho de 1945.

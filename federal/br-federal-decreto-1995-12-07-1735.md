@@ -1,7 +1,3 @@
-1
-
-###DEC-001735-0-000-07-12-1995@@@
-
 DECRETO Nº 1.735, DE 7 DE DEZEMBRO DE 1995.
 
 Acresce parágrafos ao art. 15 do Decreto nº 101, de 17 de abril de 1991, que regulamenta a Lei nº 8.167, de 16 de janeiro de 1991.

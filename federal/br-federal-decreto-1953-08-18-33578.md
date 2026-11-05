@@ -1,16 +1,14 @@
-###DEC-033578-0-000-18-08-1953@@@
+**DECRETO Nº 33.578, DE 18 DE AGÔSTO DE 1953.**
 
-<strong>DECRETO Nº 33.578, DE 18 DE AGÔSTO DE 1953.</strong>
+***Dá a denominação de “Batalhão Pirajá” ao 19º Batalhão de Caçadores e cria o respectivo estandarte.***
 
-<em><strong>Dá a denominação de “Batalhão Pirajá” ao 19º Batalhão de Caçadores e cria o respectivo estandarte.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA</strong><strong>:</strong>
+**Art**. 1º Passa a denomina-se “Batalhão Pirajá” o atual 19º Batalhão de Caçadores, com sede na cidade de Salvador, Estado da Bahia.
 
-<strong>Art</strong>. 1º Passa a denomina-se “Batalhão Pirajá” o atual 19º Batalhão de Caçadores, com sede na cidade de Salvador, Estado da Bahia.
-
-<strong>Art</strong>. 2º Fica criado o estandarte distintivo para o Batalhão Pirajá, de acôrdo com o môdelo que acompanha este Decreto e com as seguintes características:
+**Art**. 2º Fica criado o estandarte distintivo para o Batalhão Pirajá, de acôrdo com o môdelo que acompanha este Decreto e com as seguintes características:
 
 a) Campo verde, com bordadura de amarelo;
 
@@ -24,10 +22,10 @@ e) laço militar das cores nacionais com a inscrição - 19º Batalhão de Caça
 
 f) dimensões: 0,80m x 1,10m.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 18 de agôsto de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espírito Santo Cardoso

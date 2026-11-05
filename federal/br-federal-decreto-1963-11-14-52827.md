@@ -1,5 +1,3 @@
-###DEC-052827-0-000-14-11-1963@@@
-
 DECRETO Nº 52.827, DE 14 DE NOVEMBRO DE 1963.
 
 Altera a redação do artigo 10 do Decreto nº 47.053, de 20 de outubro de 1959.

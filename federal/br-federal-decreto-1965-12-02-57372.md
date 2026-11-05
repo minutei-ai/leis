@@ -1,5 +1,3 @@
-###DEC-057372-0-000-02-12-1965@@@
-
 DECRETO Nº 57.372, DE 2 DE DEZEMBRO DE 1965.
 
 Modifica a redação do art. 7º, do Decreto nº 56.995, de 1º de outubro de 1965.

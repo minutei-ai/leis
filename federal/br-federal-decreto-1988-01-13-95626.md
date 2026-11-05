@@ -1,7 +1,3 @@
-1
-
-###DEC-095626-0-000-13-01-1988@@@
-
 DECRETO N° 95.626, DE 13 DE JANEIRO DE 1988
 
 Renova a concessão outorgada à Rádio Difusora Alto Vale Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Rio do Sul, Estado de Santa Catarina.

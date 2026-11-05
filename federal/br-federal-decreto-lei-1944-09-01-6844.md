@@ -1,5 +1,3 @@
-###DEL-006844-0-000-01-09-1944@@@
-
 DECRETO-LEI N. 6.844 – DE 1 DE SETEMBRO DE 1944
 
 Cria Unidades divisionárias de manutenção das grandes Unidades de Cavalaria

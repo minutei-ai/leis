@@ -1,5 +1,3 @@
-###DEC-060740-0-000-23-05-1967@@@
-
 DECRETO Nº 60.740, DE 23 DE MAIO DE 1967.
 
 Delega competência aos Ministros de Estado e dirigentes de órgãos diretamente subordinados à Presidência da República a despachar em caráter final expedientes de interêsse dos respectivos servidores.

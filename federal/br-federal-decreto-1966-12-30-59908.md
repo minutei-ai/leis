@@ -1,5 +1,3 @@
-###DEC-059908-0-000-30-12-1966@@@
-
 DECRETO Nº 59.908, de 30 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Dante Dortas Olivieri a pesquisar calcário e mármore, no município de Jacobina, Estado da Bahia.

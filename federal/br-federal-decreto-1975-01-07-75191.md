@@ -1,5 +1,3 @@
-###DEC-075191-0-000-07-01-1975@@@
-
 DECRETO Nº 75.191, DE 7 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento dos cursos de Estudos Sociais e de Ciências da Faculdade de Filosofia, Ciências e Letras, mantida pela Fundação de Ensino e Pesquisa de Itajubá, Estado de Minas Gerais.

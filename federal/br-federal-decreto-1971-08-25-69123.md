@@ -1,5 +1,3 @@
-###DEC-069123-0-000-25-08-1971@@@
-
 Decreto Nº 69.123, DE 25 DE agôsto DE 1971.
 
 Declara de utilidade pública o Patronato Agrícola e Profissional São José, com sede em Erechim, Estado do Rio Grande do Sul.

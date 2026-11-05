@@ -1,5 +1,3 @@
-###DEC-067066-0-000-17-08-1970@@@
-
 DECRETO N° 67.066, DE 17 DE AGôSTO DE 1970
 
 Dá nova redação ao artigo 1° do Decreto n° 55.513, de 11 de janeiro de 1965.

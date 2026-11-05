@@ -1,5 +1,3 @@
-###DEL-006643-0-000-29-06-1944@@@
-
 DECRETO-LEI N. 6.643 – DE 29 DE JUNHO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 48.500.000,00 para melhoramentos no rio São Francisco

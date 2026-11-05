@@ -1,5 +1,3 @@
-###DEC-084754-0-000-28-05-1980@@@
-
 Decreto nº 84.754, de 28 de maio de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado do Maranhão.

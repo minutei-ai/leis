@@ -1,5 +1,3 @@
-###DEC-089303-0-000-13-01-1984@@@
-
 Decreto nº 89.303 de 13 de janeiro de 1984
 
 Fixa, no Ministério da Aeronáutica, os mínimos de vagas para promoção Obrigatória, referentes ao ano-base de 1983, nos diversos Quadros do Corpo de Oficiais da Ativa.
@@ -12,7 +10,137 @@ Art. 1º - Ficam estabelecidos, para o ano de 1983, as seguintes proporções, d
 
 Quadros de Oficiais Aviadores, Engenheiros, Médicos, Farmacêuticos, Dentistas e Capelães:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coronel................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente-Coronel....................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quadro de Oficiais Intendente:</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coronel................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente-Coronel....................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7/75</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quadro de Oficiais de Infantaria da Aeronáutica:</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente-Coronel....................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">¼</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9/100</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quadro de Oficiais Especialistas em Aviões:</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente-Coronel....................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">¼</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3/19</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quadro de Oficiais Especialistas em Comunicações:</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente-Coronel....................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">¼</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/6</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quadro de Oficiais Especialistas em Fotografia, Armamento, Meteorologia, Controle de Tráfego Aéreo e Suprimento Técnico</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tenente-Coronel....................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">¼</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Major...................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quadro de Oficiais de Administração:</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitão................................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiro-Tenente...................</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do efetivo do posto</span></p></td></tr></tbody></table>
+Coronel................................
+
+1/8
+
+do efetivo do posto
+
+Tenente-Coronel....................
+
+1/15
+
+do efetivo do posto
+
+Major...................................
+
+1/20
+
+do efetivo do posto
+
+Quadro de Oficiais Intendente:
+
+Coronel................................
+
+1/8
+
+do efetivo do posto
+
+Tenente-Coronel....................
+
+1/15
+
+do efetivo do posto
+
+Major...................................
+
+7/75
+
+do efetivo do posto
+
+Quadro de Oficiais de Infantaria da Aeronáutica:
+
+Tenente-Coronel....................
+
+¼
+
+do efetivo do posto
+
+Major...................................
+
+1/10
+
+do efetivo do posto
+
+Capitão................................
+
+9/100
+
+do efetivo do posto
+
+Quadro de Oficiais Especialistas em Aviões:
+
+Tenente-Coronel....................
+
+¼
+
+do efetivo do posto
+
+Major...................................
+
+1/10
+
+do efetivo do posto
+
+Capitão................................
+
+3/19
+
+do efetivo do posto
+
+Quadro de Oficiais Especialistas em Comunicações:
+
+Tenente-Coronel....................
+
+¼
+
+do efetivo do posto
+
+Major...................................
+
+1/10
+
+do efetivo do posto
+
+Capitão................................
+
+1/6
+
+do efetivo do posto
+
+Quadro de Oficiais Especialistas em Fotografia, Armamento, Meteorologia, Controle de Tráfego Aéreo e Suprimento Técnico
+
+Tenente-Coronel....................
+
+¼
+
+do efetivo do posto
+
+Major...................................
+
+1/10
+
+do efetivo do posto
+
+Capitão................................
+
+1/15
+
+do efetivo do posto
+
+Quadro de Oficiais de Administração:
+
+Capitão................................
+
+1/10
+
+do efetivo do posto
+
+Primeiro-Tenente...................
+
+1/20
+
+do efetivo do posto
 
 Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogados as disposições em contrário.
 

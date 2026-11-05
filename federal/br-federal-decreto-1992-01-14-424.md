@@ -1,7 +1,3 @@
-1
-
-###DEC-000424-0-000-14-01-1992@@@
-
 DECRETO N° 424, DE 14 DE JANEIRO DE 1992
 
 Estabelece critérios para realização da despesa pública na antevigência da Lei Orçamentária para 1992, e dá outras providências.

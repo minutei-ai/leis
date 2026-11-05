@@ -1,5 +1,3 @@
-###DEC-089005-0-000-16-11-1983@@@
-
 Decreto nº 89.005, de 16 de novembro de 1983
 
 Autoriza a transferência direta da concessão outorgada à REDE NOVA TERRA DE RADIODIFUSÃO para a RÁDIO NOVA LTDA.

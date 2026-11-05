@@ -1,5 +1,3 @@
-###DEL-003968-0-000-23-12-1941@@@
-
 DECRETO-LEI N. 3.968 – DE 23 DE DEZEMBRO DE 1941
 
 Eleva o padrão de vencimento do cargo de Tesoureiro do Ministério do Trabalho, Indústria e Comércio

@@ -1,5 +1,3 @@
-###DEC-086323-0-000-31-08-1981@@@
-
 Decreto nº 86.323, de 31 de agosto de 1981
 
 Altera a estrutura básica do Ministério da Agricultura.

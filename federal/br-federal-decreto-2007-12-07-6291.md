@@ -1,5 +1,3 @@
-###DEC-006291-0-000-07-12-2007@@@
-
 DECRETO Nº 6.291, DE 7 DE DEZEMBRO DE 2007.
 
 Transfere gratuitamente ao domínio do Estado do Amapá terras pertencentes à União, nos termos do art. 5o do Decreto-Lei no 2.375, de 24 de novembro de 1987, e dá outras providências.
@@ -49,5 +47,3 @@ Transfere gratuitamente ao domínio do Estado do Amapá terras pertencentes à U
 LUIZ INÁCIO LULA DA SILVA
 
 Guilherme Cassel
-
-Este texto não substitui o publicado no DOU de 10.12.2007

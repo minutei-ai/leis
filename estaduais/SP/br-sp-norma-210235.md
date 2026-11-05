@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210235)<br>
-
 # DECRETO N° 69.055, DE 14 DE NOVEMBRO DE 2024
 
 ### _Fixa o valor mensal da bolsa de estudo do Programa de Residência Médica e do Programa de Bolsas para Cursos de Especialização "Lato Sensu" e dá providências correlatas._

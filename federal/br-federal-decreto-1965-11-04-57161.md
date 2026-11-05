@@ -1,5 +1,3 @@
-###DEC-057161-0-000-04-11-1965@@@
-
 Decreto nº 57.161, de 4 de novembro de 1965.
 
 Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da Primeira Região - Abertura de crédito especial, para o fim que especifica.

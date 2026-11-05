@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/837892e2-68af-4579-ba7d-ea9a6d846e52/texto#nowhere)
 
-###DEL-001847-0-000-30-12-1980@@@
-
 # DECRETO-LEI nº 1.847, de 30 de dezembro de 1980
 
 Concede isenção dos impostos de importação e sobre produtos industrializados para equipamentos de produção cinematográfica.

@@ -1,5 +1,3 @@
-###DEC-056579-0-000-19-07-1965@@@
-
 DECRETO Nº 56.579, DE 19 DE JULHO DE 1965.
 
 Concede à sociedade “Branatra” - Emprêsa Brasileira de Navegação Transatlântica e Cabotagem Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

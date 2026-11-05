@@ -1,5 +1,3 @@
-###DEC-073475-0-000-16-01-1974@@@
-
 DECRETO Nº 73.475, DE 16 DE JANEIRO DE 1974.
 
 Redistribui, para o Quadro de Pessoal do IPASE, cargos, com os respectivos ocupantes, aproveita servidor em disponibilidade, e dá outras providências.

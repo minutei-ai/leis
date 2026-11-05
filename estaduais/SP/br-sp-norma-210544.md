@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210544)<br>
-
 # DECRETO N° 69.316, DE 16 DE JANEIRO DE 2025
 
 ### _Transfere, da Secretaria da Cultura, Economia e Indústria Criativas para a Secretaria de Esportes, a administração do imóvel que especifica, localizado no Município de São Paulo, e revoga o Decreto n° 66.500, de 11 de fevereiro de 2022._

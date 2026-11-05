@@ -1,5 +1,3 @@
-###DEC-046895-0-000-24-09-1959@@@
-
 DECRETO Nº 46.895, DE 24 DE SETEMBRO DE 1959.
 
 Altera o Decreto nº 46.431, de 15 de julho de 1959.

@@ -1,5 +1,3 @@
-###DEC-044996-0-000-03-12-1958@@@
-
 DECRETO Nº 44.996, DE 3 DE DEZEMBRO DE 1958.
 
 Dá nova redação à ementa e ao artigo 1º do Decreto nº 42.883, de 26 de dezembro de 1957.

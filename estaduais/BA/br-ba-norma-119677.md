@@ -2,14 +2,18 @@ LEI Nº 6.975 DE 24 DE JULHO DE 1996
 
 Cria o Fundo Estadual de Atendimento à Criança e ao Adolescente - FECRIANÇA e dá outras providências.
 
-Ver também:<br>
-Decreto nº 16.108 de 29 de maio de 2015 - Declara a vinculação de fundos estaduais à estrutura da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS, nos termos da Lei nº 13.204, de 11 de dezembro de 2014, da Lei Federal nº 8.742, de 07 de dezembro de 1993, bem como da Lei Federal nº 8.069, de 13 de julho de 1990, na forma que indica.<br>
-Decreto nº 6.198, de 05 de fevereiro de 1997 - Regulamenta o Fundo Estadual de Atendimento à Criança e ao Adolescente - FECRIANÇA, instituído pela Lei  nº 6.975, de 24 de julho de 1996.<br>
+Ver também:
+
+Decreto nº 16.108 de 29 de maio de 2015 - Declara a vinculação de fundos estaduais à estrutura da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS, nos termos da Lei nº 13.204, de 11 de dezembro de 2014, da Lei Federal nº 8.742, de 07 de dezembro de 1993, bem como da Lei Federal nº 8.069, de 13 de julho de 1990, na forma que indica.
+
+Decreto nº 6.198, de 05 de fevereiro de 1997 - Regulamenta o Fundo Estadual de Atendimento à Criança e ao Adolescente - FECRIANÇA, instituído pela Lei  nº 6.975, de 24 de julho de 1996.
+
 [Decreto nº 6.198, de 05 de fevereiro de 1997](https://www.legislabahia.ba.gov.br/documentos/decreto-no-6198-de-05-de-fevereiro-de-1997#DEC_6_198) \- Regulamenta o Fundo Estadual de Atendimento à Criança e ao Adolescente - FECRIANÇA, instituído pela Lei nº 6.975, de 24 de julho de 1996.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte lei,
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO OBJETIVO, VINCULAÇÃO E ADMINISTRAÇÃO
 
 Art. 1º - Fica criado o Fundo Estadual de Atendimento à Criança e ao Adolescente - FECRIANÇA, com o objetivo de prover os recursos necessários à execução de programas de trabalho relacionados com a política de atendimento dos direitos da criança e do adolescente.
@@ -18,7 +22,8 @@ Parágrafo único - As ações relacionadas com os programas previstos neste art
 
 Art. 2º - O Fundo Estadual de Atendimento à Criança e ao Adolescente terá, como gestor, a Secretaria do Trabalho e Ação Social, sob a fiscalização e orientação do Conselho Estadual dos Direitos da Criança e do Adolescente - CECA.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS RECURSOS, DESPESAS E CONTABILIDADE
 
 Art. 3º - Constituem recursos do FECRIANÇA os provenientes de:
@@ -45,7 +50,8 @@ Art. 5º - O FECRIANÇA terá contabilidade própria, escriturada segundo os pad
 
 Parágrafo único - O saldo positivo do FECRIANÇA, apurado em balanço, em cada exercício financeiro, será transferido, à crédito do mesmo, para o exercício seguinte.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO PLANEJAMENTO E ORÇAMENTAÇÃO
 
 Art. 6º- O Orçamento relativo ao FECRIANÇA comporá o Orçamento da Seguridade Social do Estado.
@@ -64,7 +70,8 @@ IV - à metodologia e às normas emanadas do Órgão Central de Planejamento do 
 
 § 3º - O gestor do FECRIANÇA encaminhará ao Conselho Estadual dos Direitos da Criança e do Adolescente - CECA, na forma e com a periodicidade por este definidas, relatório de gestão dos recursos captados.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS
 
 Art. 7º - Fica o Poder Executivo autorizado a abrir, no Orçamento da Seguridade Social vigente, créditos especiais no montante de até R$ 10.000.000,00 (dez milhões de reais), para a constituição do FECRIANÇA no corrente exercício.

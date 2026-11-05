@@ -1,5 +1,3 @@
-###DEC-058674-0-000-20-06-1966@@@
-
 DECRETO Nº 58.674, DE 20 DE JUNHO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Itatiaia Companhia de Seguros, relativa ao aumento do capital social.

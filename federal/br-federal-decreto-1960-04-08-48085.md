@@ -1,5 +1,3 @@
-###DEC-048085-0-000-08-04-1960@@@
-
 DECRETO Nº 48.085, DE 8 DE ABRIL DE 1960.
 
 Transfere, sem aumento de despesa, fundo de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra.

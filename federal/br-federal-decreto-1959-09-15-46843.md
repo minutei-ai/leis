@@ -1,5 +1,3 @@
-###DEC-046843-0-000-15-09-1959@@@
-
 DECRETO Nº 46.843,DE 15 DE SETEMBRO DE 1959.
 
 Autoriza a Companhia Luz e Fôrça Hulha Branca a construir mais uma comporta na barragem do Rio Paraúna, Estado de Minas Gerais.
@@ -29,8 +27,6 @@ Rio de Janeiro, 15 de setembro de 1959; 138º da Independência e 71º da Repúb
 Juscelino Kubitschek
 
 Mário Meneghetti
-
-###DEC-046843-0-000-15-09-1959@@@RET01+++
 
 DECRETO Nº 46.843, DE 15 DE SETEMBRO DE 1959.
 

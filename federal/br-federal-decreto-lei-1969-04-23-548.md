@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/46b25997-8910-4750-b10d-6891ba2543c8/texto#nowhere)
 
-###DEL-000548-0-000-23-04-1969@@@
-
 DECRETO-LEI Nº 548, DE 23 DE ABRIL DE 1969
 
 Estabelece a precedência funcional entre Oficiais-Generais dos postos de Almirante-de-Esquadra, General-de-Exército e Tenente-Brigadeiro e dá outras providências.

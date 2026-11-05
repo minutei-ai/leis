@@ -1,5 +1,3 @@
-###DEC-070108-0-000-03-02-1972@@@
-
 DECRETO Nº 70.108, DE 3 DE FEVEREIRO DE 1972.
 
 Retifica o Decreto nº 66.629, de 25 de maio de 1970, que retificou o Decreto nº 63.614, de 13 de novembro de 1968, que aprovou o Quadro de Pessoal Extinto do ex-Território Federal do Acre, e dá outras providências.

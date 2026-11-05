@@ -1,5 +1,3 @@
-###DEC-004066-0-000-27-12-2001@@@
-
 DECRETO Nº 4.066, DE 27 DE DEZEMBRO DE 2001
 
 Reduz as alíquotas específicas e o limite de dedução da Contribuição de Intervenção do Domínio Econômico (Cide), instituída pela Lei no 10.336, de 19 de dezembro de 2001, para os produtos que especifica.

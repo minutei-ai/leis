@@ -1,7 +1,3 @@
-1
-
-###DEC-099865-0-000-21-12-1990@@@
-
 # DECRETO N° 99.865, DE 21 DE DEZEMBRO DE 1990
 
 Abre ao Orçamento Fiscal da União, em favor da Presidência da República, créditos adicionais no valor de Cr$ 14.414.279.000,00, para reforço de dotações consignadas no vigente orçamento.

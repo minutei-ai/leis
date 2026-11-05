@@ -1,5 +1,3 @@
-###DEC-047891-0-000-09-03-1960@@@
-
 Decreto nº 47.891, de 9 de março de 1960.
 
 Renova a declaração de utilidade publica a que se refere o Decreto número 34.433, de 31 de outubro de 1959, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Araras”, no Município de Santa Cruz do Norte, Estado do Ceará.
@@ -17,8 +15,6 @@ Rio de Janeiro, 9 de março de 1960; 139º da Independência e 72º da Repúblic
 Juscelino Kubitschek
 
 Ernani do Amaral Peixoto
-
-###DEC-047891-0-000-09-03-1960@@@RET01+++
 
 DECRETO Nº 47.891, DE 09 DE MARÇO DE 1960.
 

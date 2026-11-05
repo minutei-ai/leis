@@ -1,5 +1,3 @@
-###DEC-068770-0-000-17-06-1971@@@
-
 DECRETO Nº 68.770 - de 17 de junho de 1971.
 
 Autoriza a contratação de operação de crédito externo para financiamento parcial de um Programa de Expansão e melhoria do Ensino Fundamental e Médio.

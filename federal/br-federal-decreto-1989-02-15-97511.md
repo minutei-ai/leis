@@ -1,5 +1,3 @@
-###DEC-097511-0-000-15-02-1989@@@
-
 DECRETO N° 97.511, DE 15 DE FEVEREIRO DE 1989
 
 Acrescenta parágrafo ao art. 3º do Decreto n° 97.459, de 15 de janeiro de 1989, que dispõe sobre a cessão de servidores da Administração Pública Federal, e dá outras providências.
@@ -29,8 +27,6 @@ JOSÉ SARNEY
 Mailson Ferreira da Nóbrega
 
 João Batista de Abreu
-
-###DEC-097511-0-000-15-02-1989@@@REP01+++
 
 DECRETO N° 97.511, DE 15 DE FEVEREIRO DE 1989
 

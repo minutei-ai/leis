@@ -1,5 +1,3 @@
-###DEC-087519-0-000-24-08-1982@@@
-
 Decreto nº 87.519, de 24 de agosto de 1982
 
 Revoga o Decreto nº 84.238, de 22 de novembro de 1979, que autorizou o funcionamento da empresa Airlift Internacional Inc., no Brasil.

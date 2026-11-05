@@ -1,5 +1,3 @@
-###DEC-054336-0-000-29-09-1964@@@
-
 DECRETO Nº 54.336, DE 29 DE SETEMBRO DE 1964.
 
 Transfere do Município de Santo Antônio de Jesus para Companhia de Eletricidade do Estado da Bahia a concessão para distribuir energia elétrica no Município de Santo Antônio de Jesus, Estado da Bahia.

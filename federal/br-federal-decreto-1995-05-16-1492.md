@@ -1,7 +1,3 @@
-1
-
-###DEC-001492-0-000-16-05-1995@@@
-
 DECRETO Nº 1.492, DE 16 DE MAIO DE 1995
 
 Prorroga e transfere a concessão de que trata o Decreto nº 60.261, de 23 de fevereiro de 1967.

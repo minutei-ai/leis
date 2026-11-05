@@ -1,5 +1,3 @@
-###DEC-089134-0-000-07-12-1983@@@
-
 decreto nº 89.134, de 07 de dezembro dE 1983
 
 Autoriza o aumento do Capital Social da Companhia Siderúrgica da Amazônia - SIDERAMA.

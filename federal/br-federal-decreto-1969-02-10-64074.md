@@ -1,5 +1,3 @@
-###DEC-064074-0-000-10-02-1969@@@
-
 DECRETO Nº 64.074, DE 10 DE FEVEREIRO DE 1969.
 
 Autoriza a UTE Serviços de Eletricidade S.A. a funcionar como emprêsa de energia elétrica, e dá outras providências.

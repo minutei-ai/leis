@@ -1,5 +1,3 @@
-###DEC-054801-0-000-03-11-1964@@@
-
 DECRETO N.º 54.801, DE 3 DE NOVEMBRO DE 1964.
 
 Concede à Castro & Vilas Bôas Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-060841-0-000-09-06-1967@@@
-
 Decreto nº 60.841, de 9 de junho de 1967.
 
 Provê sôbre a duração mínima do trabalho escolar dos estabelecimentos de ensino superior e dá outras providências.

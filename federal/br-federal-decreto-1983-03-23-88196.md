@@ -1,5 +1,3 @@
-###DEC-088196-0-000-23-03-1983@@@
-
 Decreto nº 88.196 de 23 de março de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de Rádio Telefonia Rural Casa Grande, da ELETROPAULO - Eletricidade de São Paulo S.A, no Estado de São Paulo.

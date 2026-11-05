@@ -1,5 +1,3 @@
-###DEC-073038-0-000-30-10-1973@@@
-
 DECRETO Nº 73.038, DE 30 DE OUTUBRO DE 1973.
 
 Declara perempta a concessão outorgada à Fundação Metropolitana Paulista para executar o serviço de radiodifusão sonora em onda curta, na cidade de São Paulo, Estado de São Paulo.

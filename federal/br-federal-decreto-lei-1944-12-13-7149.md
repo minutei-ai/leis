@@ -1,5 +1,3 @@
-###DEL-007149-0-000-13-12-1944@@@
-
 DECRETO–LEI N. 7.149 – DE 13 DE DEZEMBRO DE 1944
 
 Amplia, para seis meses, o prazo concedido pelo art. 3º do  Decreto. N. 16.46I, de 29 de agôsto de 1944

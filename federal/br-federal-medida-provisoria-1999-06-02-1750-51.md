@@ -1,5 +1,3 @@
-###MPV-001750-0-051-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1750-51, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

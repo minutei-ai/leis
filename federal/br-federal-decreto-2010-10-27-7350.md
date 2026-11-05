@@ -1,5 +1,3 @@
-###DEC-007350-0-000-27-10-2010-PUB-01@@@
-
 DECRETO Nº 7.350, DE 27 DE OUTUBRO DE 2010.
 
 Dispõe sobre a elevação da categoria do Consulado em Rivera, na República Oriental do Uruguai.

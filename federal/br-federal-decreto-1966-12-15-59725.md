@@ -1,5 +1,3 @@
-###DEC-059725-0-000-15-12-1966@@@
-
 decreto nº 59.725, de 15 de dezembro de 1966.
 
 Concede a Itagema, Mineração e Comércio Limitada autorização para funcionar como emprêsa de mineração.

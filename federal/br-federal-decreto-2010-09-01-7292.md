@@ -1,5 +1,3 @@
-###DEC-007292-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.292, DE 1º DE SETEMBRO DE 2010.
 
 Acresce item ao § 1º do art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto nº 88.777, de 30 de setembro de 1983, para possibilitar a cessão de militares do Distrito Federal à Secretaria de Estado de Ordem Pública e Social do Distrito Federal.

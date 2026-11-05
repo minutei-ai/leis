@@ -1,5 +1,3 @@
-###DEC-046415-0-000-13-07-1959@@@
-
 DECRETO Nº 46.415, DE 13 DE JULHO DE 1959.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a tomar ações da Companhia Hidro-Elétrica do São Francisco, a conta do Fundo Federal de Eletrificação.
@@ -16,7 +14,35 @@ Art. 2º Fica o Banco Nacional do Desenvolvimento Econômico (B.N.D.E.), como ag
 
 § 2º O esquema de integralização das ações a serem subscritas na forma dêste artigo será:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1959 ..................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>400.000.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1960 ..................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>800.000.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1961 ..................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>850.000.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1962 ..................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.150.000.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1963 ..................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.190.000.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1964 ..................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>940.000.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1965 ..................................................................................................................</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>370.000.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+1959 ..................................................................................................................
+
+400.000.000,00
+
+1960 ..................................................................................................................
+
+800.000.000,00
+
+1961 ..................................................................................................................
+
+850.000.000,00
+
+1962 ..................................................................................................................
+
+1.150.000.000,00
+
+1963 ..................................................................................................................
+
+1.190.000.000,00
+
+1964 ..................................................................................................................
+
+940.000.000,00
+
+1965 ..................................................................................................................
+
+370.000.000,00
 
 Art. 3º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

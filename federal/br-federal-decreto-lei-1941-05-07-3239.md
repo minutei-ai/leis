@@ -1,5 +1,3 @@
-###DEL-003239-0-000-07-05-1941@@@
-
 DECRETO-LEI N. 3.239 – DE 7 DE MAIO DE 1941
 
 Modifica a carreira de Escriturário do Quadro Permanente do Ministério da Marinha

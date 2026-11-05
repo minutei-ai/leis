@@ -1,5 +1,3 @@
-###DEC-078633-0-000-27-10-1976@@@
-
 Decreto nº 78.633, de 27 de outubro de 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais e da habilitação em Magistério das Disciplinas Especializadas do Ensino de 2º grau, do curso de Pedagogia, da Faculdade de Educação e Estudos Sociais de Araraguara, com sede na cidade de Araraguara, Estado de São Paulo.

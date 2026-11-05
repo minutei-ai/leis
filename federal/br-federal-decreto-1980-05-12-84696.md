@@ -1,5 +1,3 @@
-###DEC-084696-0-000-12-05-1980@@@
-
 decreto nº 84.696, de 12 de maio de 1980.
 
 Autoriza o funcionamento dos cursos de Administração, de Ciências Contábeis e de Economia, do Centro de Ensino Superior de Rondônia, em Porto Velho, Território Federal de Rondônia.

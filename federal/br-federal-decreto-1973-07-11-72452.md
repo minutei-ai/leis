@@ -1,5 +1,3 @@
-###DEC-072452-0-000-11-07-1973@@@
-
 DECRETO Nº 72.452, DE 11 DE JULHO DE1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciência e Letras de Palmas mantida pelo Centro Pastoral Educacional e Assistencial "Dom Carlos", sede na cidade de Palmas, Estado do Paraná

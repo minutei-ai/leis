@@ -1,5 +1,3 @@
-###DEC-047521-0-000-28-12-1959@@@
-
 DECRETO Nº 47.521, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza Brasil Construtora S.A. a pesquisar água mineral no município de Itamonte, Estado de Minas Gerais.

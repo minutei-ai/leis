@@ -1,5 +1,3 @@
-###DEL-005707-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.707 – DE 29 DE JULHO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial do Cr$ 169.650,00 , para classificação de despesa

@@ -1,5 +1,3 @@
-###MPV-001859-0-015-25-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.859-15, DE 25 de AGOSTO DE 1999.
 
 Estabelece prazo de prescrição para o exercício de ação punitiva pela Administração Pública Federal, direta e indireta, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-001087-0-000-02-03-1970@@@
-
 # DECRETO-LEI Nº 1.087, De 2 DE mARÇO DE 1970
 
 Dispõe sôbre a aprovação de projetos de florestamento e reflorestamento visando ao reconhecimento de incentivos fiscais.

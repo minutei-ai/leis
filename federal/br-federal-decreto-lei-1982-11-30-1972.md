@@ -1,5 +1,3 @@
-###DEL-001972-0-000-30-11-1982@@@
-
 # DECRETO-LEI Nº 1.972, DE 30 DE NOVEMBRO DE 1982
 
 Prorroga os prazos estabelecidos no Decreto-lei nº 1.966, de 1º de novembro de 1982, e dá outras providências.

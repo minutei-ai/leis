@@ -1,5 +1,3 @@
-###DEC-050386-0-000-28-03-1961@@@
-
 DECRETO Nº 50386, DE 28 DE MARÇO DE 1961.
 
 Dá nova redação aos artigos 14, 15 e seu parágrafo único, parágrafo único do artigo 18, e artigo 23 do Decreto nº 39.412, de 16 de junho de 1956, e revoga os Decretos ns. 41.986, de 5 de agôsto de 1957 e 43.715, de 19 de maio de 1958.

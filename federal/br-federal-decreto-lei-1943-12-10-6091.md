@@ -1,5 +1,3 @@
-###DEL-006091-0-000-10-12-1943@@@
-
 DECRETO‑LEI N. 6.091 ‑ DE 10 DE DEZEMBRO DE 1943
 
 Autoriza o Prefeito do Distrito Federal a vender, em concorrência pública, o imóvel que menciona

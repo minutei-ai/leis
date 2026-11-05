@@ -1,7 +1,3 @@
-1
-
-###DEC-098048-0-000-14-08-1989@@@
-
 # DECRETO N° 98.048, DE 14 DE AGOSTO DE 1989
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo da Faculdade de Artes Plásticas.

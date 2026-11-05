@@ -1,5 +1,3 @@
-###DEC-057502-0-000-28-12-1965@@@
-
 Decreto nº 57.502, de 28 de dezembro de 1965.
 
 Autoriza o cidadão brasileiro José da Silva Gomes a pesquisar bauxita, no município de Lajes, Estado de Santa Catarina.

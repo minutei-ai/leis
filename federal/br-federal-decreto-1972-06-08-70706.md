@@ -1,5 +1,3 @@
-###DEC-070706-0-000-08-06-1972@@@
-
 DECRETO Nº 70.706, DE 8 DE JUNHO DE 1972.
 
 Concede autorização à companhia holandesa Koninklijke Nederlandsche Maatschappij Voor Havenwerken N.V. (Royal Netherlands Harbour Works Company) para operar em águas brasileiras com embarcações estrangeiras, nos serviços que especifica.

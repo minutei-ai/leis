@@ -1,5 +1,3 @@
-###DEC-089543-0-000-11-04-1984@@@
-
 DEcreto nº 89.543, de 11 de abril de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à SOCIEDADE RÁDIO SANTAMARIENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Maria, Estado do Rio Grande do Sul.

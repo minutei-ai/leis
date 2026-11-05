@@ -1,5 +1,3 @@
-###DEC-093121-0-000-18-08-1986@@@
-
 DECRETO Nº 93.121, DE 18 DE AGOSTO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação da estação transformadora de distribuição Vinhedo, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

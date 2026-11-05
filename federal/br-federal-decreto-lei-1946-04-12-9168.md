@@ -1,5 +1,3 @@
-###DEL-009168-0-000-12-04-1946@@@
-
 DECRETO-LEI N. 9.168 – DE 12 DE ABRIL DE 1946
 
 Altera disposições da Consolidação das Leis do Trabalho referentes à Justiça do Trabalho.

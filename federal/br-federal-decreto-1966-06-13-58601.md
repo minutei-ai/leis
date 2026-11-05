@@ -1,5 +1,3 @@
-###DEC-058601-0-000-13-06-1966@@@
-
 DECRETO Nº 58.601, DE 13 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Raimundo Figueiredo Cavalcante a lavrar cassiterita no Município de Pôrto Velho, Território Federal de Rondônia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097870-0-000-26-06-1989@@@
-
 DECRETO Nº 97.870, DE 26 DE JUNHO DE 1989
 
 Altera o Regulamento do Fundo de Estudos do Mar – (FUNDEM), aprovado pelo Decreto nº 94.661, de 22 de julho de 1987.

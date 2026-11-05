@@ -1,5 +1,3 @@
-###DEL-005426-0-000-27-04-1943@@@
-
 DECRETO‑LEI N. 5.426 – DE 27 DE ABRIL DE 1943
 
 Altera a redação de disposições dos decretos‑leis ns. 5.030, 5.031 e 5.032, de 4 de dezembro de 1942, e dá outras providências

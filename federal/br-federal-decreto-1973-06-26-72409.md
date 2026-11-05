@@ -1,5 +1,3 @@
-###DEC-072409-0-000-26-06-1973@@@
-
 DECRETO Nº 72.409, DE 26 DE JUNHO DE 1973.
 
 Cria uma Divisão Administrativa na Chefia do Departamento de Engenharia e Comunicações, do Ministério do Exército.

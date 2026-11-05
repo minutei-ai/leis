@@ -1,5 +1,3 @@
-###DEC-087949-0-000-20-12-1982@@@
-
 Decreto nº 87.949, de 20 de dezembro de 1982
 
 Autoriza a Nuclebrás Equipamentos Pesados S.A. - NUCLEP a proceder ao aumento do limite do seu Capital Social.

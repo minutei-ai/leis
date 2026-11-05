@@ -1,5 +1,3 @@
-###MPV-001615-0-032-25-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.615-32, DE 25 DE AGOSTO DE 1998
 
 Dispõe sobre a emissão de Nota do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S. A., e dá outras providências.

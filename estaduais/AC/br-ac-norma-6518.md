@@ -1,6 +1,10 @@
 > **LEI Nº 4.622, DE 24 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa Câmbio Verde, com a finalidade de promover a sustentabilidade ambiental, por meio da troca de resíduos recicláveis por alimentos, no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa Câmbio Verde, com a finalidade de promover a sustentabilidade ambiental, por meio da troca de resíduos recicláveis por alimentos, no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

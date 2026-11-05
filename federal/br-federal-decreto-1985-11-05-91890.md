@@ -1,5 +1,3 @@
-###DEC-091890-0-000-05-11-1985@@@
-
 DECRETO Nº 91.890, DE 05 DE NOVEMBRO DE 1985
 
 Declara como Área de Relevante Interesse Ecológico - ARIE, uma área de mangues denominada Manguezais da Foz do Rio Mamanguape, no Estado da Paraíba, e dá outras providências.

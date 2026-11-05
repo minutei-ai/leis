@@ -1,5 +1,3 @@
-###DEC-055973-0-000-20-04-1965@@@
-
 DECRETO Nº 55.973, DE 20 DE ABRIL DE 1965.
 
 Declara de utilidade pública o Lar Escola Irmã Maria Ângela, com sede em Campinas, Estado de São Paulo.

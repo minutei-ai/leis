@@ -1,7 +1,3 @@
-1
-
-###DEC-001746-0-000-14-12-1995@@@
-
 DECRETO N° 1.746, DE 14 DEZEMBRO DE 1995.
 
 Dispõe sobra a dissolução e extinção da Companhia de Navegação Lloyd Brasileiro - LLOYDBRÁS, e dá outras providências.

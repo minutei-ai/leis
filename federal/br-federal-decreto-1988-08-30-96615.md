@@ -1,5 +1,3 @@
-###DEC-096615-0-000-30-08-1988@@@
-
 DECRETO Nº 96.615, DE 30 DE AGOSTO DE 1988
 
 Dispõe sobre a fiscalização financeira orçamentária e contábil da fundação Centro Brasileiro de TV Educativa  FCBTVE, no exercício de 1988.

@@ -1,5 +1,3 @@
-###DEC-069263-0-000-22-09-1971@@@
-
 DECRETO Nº 69.263, DE 22 DE SETEMBRO DE 1971.
 
 Cria o Parque Indígena do Araguaia entre os Estados de Goiás e Mato Grosso, estabelecendo os seus limites.

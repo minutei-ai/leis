@@ -1,5 +1,3 @@
-###MPV-001782-0-001-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.782-1, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

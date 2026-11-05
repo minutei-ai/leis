@@ -1,5 +1,3 @@
-###DEC-045415-0-000-12-02-1959@@@
-
 DECRETO Nº 45.415, DE 12 DE FEVEREIRO DE 1959.
 
 Outorga à Companhia Geral de Minas concessão para o aproveitamento progressivo da energia hidráulica do trecho do Rio Grande compreendido entre um ponto situado 12 km a jusante da foz do Rio Canoas e outro localizado 6 km a jusante da foz do córrego Tapera, nos municípios de Rifaina e Pedregulho do Estado de São Paulo e Sacramento do Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-080208-0-000-22-08-1977@@@
-
 DECRETO Nº 80.208, DE 22 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão da Centrais Elétricas de São Paulo S. A. - CESP, no Estado de São Paulo.

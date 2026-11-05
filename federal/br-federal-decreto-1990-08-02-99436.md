@@ -1,7 +1,3 @@
-1
-
-###DEC-099436-0-000-02-08-1990@@@
-
 DECRETO N° 99.436, DE 2 DE AGOSTO DE 1990
 
 Delega competência ao Ministro da Justiça para aprovar alterações nos atos que regem o funcionamento das sociedades estrangeiras.

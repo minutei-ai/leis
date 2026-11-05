@@ -1,5 +1,3 @@
-###DEC-081878-0-000-04-07-1978@@@
-
 Decreto nº 81.878, de 04 de julho de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

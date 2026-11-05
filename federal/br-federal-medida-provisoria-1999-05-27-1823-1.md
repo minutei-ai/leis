@@ -1,5 +1,3 @@
-###MPV-001823-0-001-27-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.823-1, DE 27 DE MAIO DE 1999.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

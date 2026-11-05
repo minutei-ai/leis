@@ -1,5 +1,3 @@
-###DEC-051182-0-000-11-08-1961@@@
-
 DECRETO Nº 51.182, DE 11 DE AGÔSTO DE 1961.
 
 Proíbe o traje de banho nos concursos e desfiles de beleza.

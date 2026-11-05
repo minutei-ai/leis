@@ -1,5 +1,3 @@
-###DEC-051139-0-000-04-08-1961@@@
-
 DECRETO Nº 51.139, DE 4 DE AGÔSTO DE 1961.
 
 Altera a constituição prevista no artigo 3º do Decreto nº 50.837, de 23 de junho de 1961, que cria o GEIMA.

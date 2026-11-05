@@ -1,5 +1,3 @@
-###DEC-064659-0-000-06-06-1969@@@
-
 DECRETO Nº 64.659, DE 6 DE JUNHO DE 1969.
 
 Redistribui, com o respectivo ocupante para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Estradas de Rodagem, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras Providências.

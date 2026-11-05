@@ -1,5 +1,3 @@
-###DEC-075270-0-000-23-01-1975@@@
-
 DECRETO Nº 75.270, DE 23 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Filosofia, Ciências e Letras de Sorocaba, mantida pela Fundação Dom Aguirre, com sede na cidade de Sorocaba, Estado de São Paulo.

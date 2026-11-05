@@ -1,5 +1,3 @@
-###DEC-083277-0-000-12-03-1979@@@
-
 Decreto nº 83.277, de 12 de março de 1979
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade de Administração e Finanças de Machado, com sede em Machado, Estado de Minas Gerais.

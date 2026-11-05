@@ -1,5 +1,3 @@
-###DEC-060666-0-000-02-05-1967@@@
-
 decreto nº 60.666, de 2 de maio de 1967.
 
 Concede à Great American Insurance Company autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

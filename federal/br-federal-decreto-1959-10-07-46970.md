@@ -1,5 +1,3 @@
-###DEC-046970-0-000-07-10-1959@@@
-
 DECRETO Nº 46.970, DE 7 DE OUTUBRO DE 1959.
 
 Concede à Companhia Guanabara de Comércio e Indústria autorização para funcionar como emprêsa de mineração.

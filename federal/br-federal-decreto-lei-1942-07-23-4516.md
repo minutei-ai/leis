@@ -1,5 +1,3 @@
-###DEL-004516-0-000-23-07-1942@@@
-
 DECRETO-LEI N. 4.516 – DE 23 DE JULHO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 500:000$0, para atender aos compromissos do Brasil na urbanização da praça internacional de Santana do Livramento-Rivera

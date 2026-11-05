@@ -1,5 +1,3 @@
-###DEC-076635-0-000-18-11-1975@@@
-
 DECRETO Nº 76.635, DE 18 DE NOVEMBRO DE 1975.
 
 Extingue o Comando Naval de Natal, criado pelo Decreto nº 52.271, de 17 de julho de 1963.

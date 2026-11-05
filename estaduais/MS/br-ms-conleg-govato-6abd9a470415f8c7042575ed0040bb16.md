@@ -6,7 +6,8 @@ Cria o Projeto "Esporte com a Polícia Militar" e dá outras providências.
 
 Publicada no Diário Oficial nº 7.495, de 8 de julho de 2009. OBS: Lei promulgada pela Assembleia Legislativa.
 
-A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO DO SUL..<br>
+A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO DO SUL..
+
 Faço saber que a Assembléia Legislativa do Estado de Mato Grosso do Sul decreta e eu promulgo, nos termos do § 7º do artigo 70 da Constituição Estadual a seguinte Lei:
 
 Art. 1º Fica criado no âmbito do Estado de Mato Grosso do Sul o Projeto "Esporte com a Polícia Militar" com o objetivo fomentar a prática de esporte e promover uma maior integração entre a Polícia Militar de Mato Grosso do Sul e a Comunidade.
@@ -33,5 +34,6 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação.
 
 Campo Grande, 7 de julho de 2009.
 
-Deputado JERSON DOMINGOS<br>
+Deputado JERSON DOMINGOS
+
 Presidente

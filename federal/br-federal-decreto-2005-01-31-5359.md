@@ -1,5 +1,3 @@
-###DEC-005359-0-000-31-01-2005@@@
-
 DECRETO Nº 5.359 DE 31 DE JANEIRO DE 2005
 
 Dispõe sobre a execução do Vigésimo Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República Bolivariana da Venezuela, de 29 de outubro de 2004.

@@ -1,5 +1,3 @@
-###DEC-096226-0-000-27-06-1988@@@
-
 DECRETO N° 96.226, DE 27 DE JUNHO DE 1988
 
 Concede autorização aos navios de pesquisa "WHITING" e "MT. MITCHELL", de bandeira norte-americana, para realizarem em águas jurisdicionais brasileiras os serviços que especifica.

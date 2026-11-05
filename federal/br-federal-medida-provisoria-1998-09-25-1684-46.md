@@ -1,5 +1,3 @@
-###MPV-001684-0-046-25-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.684-46, DE 25 DE SETEMBRO DE 1998
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

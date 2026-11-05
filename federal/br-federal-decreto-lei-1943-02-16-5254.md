@@ -1,5 +1,3 @@
-###DEL-005254-0-000-16-02-1943@@@
-
 DECRETO‑LEI N. 5.254 – DE 16 DE FEVEREIRO DE 1943
 
 Dispõe sobre promoções no Exército durante o primeiro semeslre do corrente ano

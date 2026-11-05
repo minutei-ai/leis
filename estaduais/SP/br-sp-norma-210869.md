@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210869)<br>
-
 # DECRETO N° 69.490, DE 21 DE ABRIL DE 2025
 
 ### _Declara luto oficial no Estado, por 7 (sete) dias, pelo falecimento de Sua Santidade o Papa Francisco._

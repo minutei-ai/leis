@@ -1,5 +1,3 @@
-###DEC-082095-0-000-08-08-1978@@@
-
 Decreto nº 82.095, de 08 de agosto de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Olinda, Estado de Pernambuco.

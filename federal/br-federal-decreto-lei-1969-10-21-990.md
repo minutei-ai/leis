@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/fbe7fa20-e7ea-493a-be0a-3aa8e6f0c9a2/texto#nowhere)
 
-###DEL-000990-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 990, DE 21 DE OUTUBRO DE 1969
 
 Aprova Convênio sôbre Transporte Internacional Terrestre, firmado pelo Brasil, em Montevidéu, a 19 de outubro de 1966.

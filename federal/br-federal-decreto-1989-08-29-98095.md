@@ -1,7 +1,3 @@
-1
-
-###DEC-098095-0-000-29-08-1989@@@
-
 DECRETO N° 98.095, DE 29 DE AGOSTO DE 1989
 
 Suspende a liquidação do Banco de Roraima S.A., outorga ao Estado de Roraima os poderes que indica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-051741-0-000-22-02-1963@@@
-
 DECRETO Nº 51.741, DE 22 DE FEVEREIRO DE 1963.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 39.076, de 25 de abril de 1956, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Araci”, no Município de Serrinha, Estado da Bahia.

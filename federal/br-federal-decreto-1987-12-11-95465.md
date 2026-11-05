@@ -1,5 +1,3 @@
-###DEC-095465-0-000-11-12-1987@@@
-
 DECRETO Nº 95.465, DE 11 DE DEZEMBRO DE 1987
 
 Renova a concessão outorgada à RÁDIO EDUCADORA DE LOANDA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Loanda, Estado do Paraná.

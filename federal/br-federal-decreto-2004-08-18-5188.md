@@ -1,5 +1,3 @@
-###DEC-005188-0-000-18-08-2004@@@
-
 DECRETO Nº 5.188 DE 18 DE AGOSTO DE 2004
 
 Estabelece prazo para regularização da unidade de exercício dos servidores que especifica e dá outras providências.

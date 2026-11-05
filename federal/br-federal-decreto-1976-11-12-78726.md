@@ -1,5 +1,3 @@
-###DEC-078726-0-000-12-11-1976@@@
-
 DECRETO Nº 78.726, DE 12 DE NOVEMBRO DE 1976.
 
 Revoga por 10 (dez) anos a concessão outorgada ao Estado do Espírito Santo para que a Fundação Cultural do Espírito Santo - Rádio Espírito Santo passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Vitória, Estado do Espírito Santo.

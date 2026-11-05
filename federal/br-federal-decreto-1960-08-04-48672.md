@@ -1,5 +1,3 @@
-###DEC-048672-0-000-04-08-1960@@@
-
 DECRETO Nº 48.672 DE AGôSTO DE 1960.
 
 Autoriza a Companhia Brasileira do Cobre a comprar pedras preciosas.

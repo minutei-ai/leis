@@ -1,5 +1,3 @@
-###DEC-081651-0-000-11-05-1978@@@
-
 Decreto nº 81.651, de 11 de maio de 1978.
 
 Reorganiza o Conselho de Desenvolvimento Industrial - CDI - e dá outras providências.
@@ -117,8 +115,6 @@ João Paulo dos Reis Velloso
 Maurício Rangel Reis
 
 Tácito Theophilo
-
-###DEC-081651-0-000-11-05-1978@@@RET01+++
 
 DECRETO Nº 81.651, DE 11 DE MAIO DE 1978.
 

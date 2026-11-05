@@ -1,5 +1,3 @@
-###DEC-086067-0-000-03-06-1981@@@
-
 Decreto nº 86.067, de 03 de junho de 1981
 
 Retifica área de proteção para fonte de água mineral estabelecida pelo Decreto nº 84.836, de 24 de junho de 1980.

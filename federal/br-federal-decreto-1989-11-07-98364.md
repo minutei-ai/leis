@@ -1,7 +1,3 @@
-1
-
-###DEC-098364-0-000-07-11-1989@@@
-
 DECRETO Nº 98.364, DE 07 DE NOVEMBRO DE 1989
 
 Altera os incisos I e VI do Artigo 1º do Decreto nº 97.605, de 31 de março de 1989, que fixa os efetivos do Exército para 1989.

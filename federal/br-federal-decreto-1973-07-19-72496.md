@@ -1,5 +1,3 @@
-###DEC-072496-0-000-19-07-1973@@@
-
 DECRETO Nº 72.496, DE 19 DE JULHO DE 1973.
 
 Declara de interesse social, para fins de desapropriação, área de terras no Estado do Ceará.

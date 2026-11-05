@@ -1,5 +1,3 @@
-###DEC-074329-0-000-29-07-1974@@@
-
 DECRETO Nº 74.329, DE 29 DE JULHO DE 1974.
 
 Promulga o Convênio Básico de Cooperação Técnica Brasil-Venezuela.

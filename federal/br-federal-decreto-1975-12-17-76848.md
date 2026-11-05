@@ -1,5 +1,3 @@
-###DEC-076848-0-000-17-12-1975@@@
-
 DECRETO Nº 76.848, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Letras e Educação de Vacaria, com sede na cidade de Vacaria, Estado do Rio Grande do Sul.

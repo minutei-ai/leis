@@ -1,5 +1,3 @@
-###DEC-067170-0-000-11-09-1970@@@
-
 decreto nº 67.170, de 11 de setembro de 1970.
 
 Concede à Permatex - Cimento Amianto S.A., o direito de lavrar amianto, no município de Barro Alto, Estado de Goiás.

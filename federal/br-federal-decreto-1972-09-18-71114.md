@@ -1,5 +1,3 @@
-###DEC-071114-0-000-18-09-1972@@@
-
 DECRETO Nº 71.114, DE 18 DE SETEMBRO DE 1972.
 
 Retifica o Decreto nº 71.66, de 1 de setembro de 1972, que abre a Encargos Gerais da União - Recursos sob Supervisão do Ministério da Fazenda, o crédito suplementar de Cr$ 40.092.636,00.

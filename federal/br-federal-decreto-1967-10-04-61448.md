@@ -1,5 +1,3 @@
-###DEC-061448-0-000-04-10-1967@@@
-
 DECRETO Nº 61.448, DE 4 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão, no Estado de São Paulo.

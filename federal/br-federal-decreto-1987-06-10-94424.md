@@ -1,5 +1,3 @@
-###DEC-094424-0-000-10-06-1987@@@
-
 DECRETO Nº 94.424, DE 10 DE JUNHO DE 1987
 
 Altera os arts. 4º, 9º e 10 do Regulamento do art. 21 da Lei nº 7.232, de 29 de outubro de 1984, aprovado pelo Decreto nº 92.181, de 19 de dezembro de 1985, prorroga o prazo de delegação de competência, e dá outras providências.

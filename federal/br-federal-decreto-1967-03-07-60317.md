@@ -1,5 +1,3 @@
-###DEC-060317-0-000-07-03-1967@@@
-
 DECRETO Nº 60.317, DE 7 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Josias Gomes dos Santos a pesquisar caulim no município de Magé, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-091258-0-000-21-05-1985@@@
-
 Decreto nº 91.258, de 21 de maio de 1985
 
 Aprova alteração introduzida no Estatuto da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

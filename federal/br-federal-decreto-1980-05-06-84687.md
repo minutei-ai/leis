@@ -1,5 +1,3 @@
-###DEC-084687-0-000-06-05-1980@@@
-
 DECRETO Nº 84.687, DE 06 DE MAIO DE 1980
 
 Concede à PETROBRÁS Mineração S.A. - PETROMISA, autorização para proceder ao aumento do limite de seu Capital Social.

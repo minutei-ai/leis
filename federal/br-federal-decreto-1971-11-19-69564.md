@@ -1,5 +1,3 @@
-###DEC-069564-0-000-19-11-1971@@@
-
 DECRETO Nº 69.564 - 19 de novembro de 1971
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Estado da Guanabara.

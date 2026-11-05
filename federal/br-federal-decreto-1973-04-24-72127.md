@@ -1,5 +1,3 @@
-###DEC-072127-0-000-24-04-1973@@@
-
 DECRETO Nº 72.127, DE 24 DE ABRIL DE 1973.
 
 Autoriza o funcionamento do curso de  Pedagogia, do Centro de Ciências Humanas e Sociais, mantido pelo Instituto Isabel, Rio de Janeiro, GB.

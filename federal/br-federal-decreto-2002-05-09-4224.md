@@ -1,5 +1,3 @@
-###DEC-004224-0-000-09-05-2002@@@
-
 DECRETO Nº 4.224, DE 9 DE MAIO DE 2002
 
 dispõe sobre a execução do quadragesimo setimo protocolo adicional ao acordo de complementação economica 2 (veiculos automotores), entre os governos da republica federativa do brasil e da republica oriental do uruguai, de 29 de junho de 2001.

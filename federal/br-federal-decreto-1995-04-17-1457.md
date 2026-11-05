@@ -1,7 +1,3 @@
-1
-
-###DEC-001457-0-000-17-04-1995@@@
-
 # DECRETO Nº 1.457, DE 17 DE ABRIL DE 1995
 
 Promulga o Acordo de Seguridade Social ou Segurança Social entre o Governo da República Federativa do Brasil e o Governo da República Portuguesa, de 7 de maio de 1991.

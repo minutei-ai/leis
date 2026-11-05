@@ -1,5 +1,3 @@
-###DEC-071890-0-000-12-03-1973@@@
-
 DECRETO Nº 71.890, DE 12 DE MARÇO DE 1973.
 
 Concede reconhecimento à Faculdade de Porto-Alegrense de Educação, Ciências e Letras, da Sociedade Universitária Sul - Riograndense.

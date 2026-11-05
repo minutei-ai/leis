@@ -1,5 +1,3 @@
-###DEC-083086-0-000-24-01-1979@@@
-
 Decreto nº 83 086, de 24 de janeiro de 1979
 
 Autoriza a conversão dos cursos de Ciências, 1º grau, de Matemática, de Física, de Química e de Ciências Biológicas, em curso de Ciências, licenciaturas de 1º Grau e Plena, da Faculdade de Filosofia, Ciências e Letras "Farias Brito''

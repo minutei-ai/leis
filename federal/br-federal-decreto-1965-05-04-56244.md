@@ -1,5 +1,3 @@
-###DEC-056244-0-000-04-05-1965@@@
-
 Decreto nº 56.244, de 4 de maio de 1965.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Justiça e Negócios Interiores.

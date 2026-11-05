@@ -1,5 +1,3 @@
-###DEC-068455-0-000-31-03-1971@@@
-
 DECRETO Nº 68.455, DE 31 DE MARÇO DE 1971.
 
 Concede à Marinha de Guerra da Colômbia o Prêmio "Marinha do Brasil".

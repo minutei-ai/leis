@@ -1,5 +1,3 @@
-###DEC-070377-0-000-07-04-1972@@@
-
 DECRETO Nº 70.377, DE 7 DE ABRIL DE 1972.
 
 Redistribui com o respectivo ocupante, para o Departamento Nacional de Obras e Saneamento, cargo do Ministério da Saúde, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-084934-0-000-21-07-1980@@@
-
 Decreto nº 84.934, de 21 de julho de 1980.
 
 Dispõe sobre as atividades e serviços das Agências de Turismo, regulamenta o seu registro e funcionamento e dá outras providências.

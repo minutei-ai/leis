@@ -1,5 +1,3 @@
-###DEC-054986-0-000-13-11-1964@@@
-
 DECRETO Nº 54.986, DE 13 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Fressato a pesquisar argila, no município de São José dos Pinhais, Estado do Paraná.

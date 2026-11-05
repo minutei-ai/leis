@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/51258702-861a-4b74-b108-90ebb262dc39/texto#nowhere)
 
-###DEL-000459-0-000-10-02-1969@@@
-
 DECRETO-LEI Nº 459, DE 10 DE FEVEREIRO DE 1969
 
 Cria a Comissão Geral de Inquérito Policial Militar e dá outras providências.

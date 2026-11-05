@@ -1,5 +1,3 @@
-###DEC-077800-0-000-09-06-1976@@@
-
 DECRETO Nº 77.800, DE 9 DE JUNHO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Penápolis, Estado de São Paulo.

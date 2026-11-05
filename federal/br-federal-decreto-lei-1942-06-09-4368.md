@@ -1,5 +1,3 @@
-###DEL-004368-0-000-09-06-1942@@@
-
 DECRETO-LEI N. 4.368 – DE 9 DE JUNHO DE 1942
 
 Altera, sem aumento de despesa, o Anexo 13 – Ministério da Aeronáutica, do Orçamento em vigor

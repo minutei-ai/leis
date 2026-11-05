@@ -1,5 +1,3 @@
-###DEC-050867-0-000-27-06-1961@@@
-
 DECRETO Nº 50.867, dE 27 DE JUNHO DE 1961.
 
 Concede a “The Western  Telegraph Company Limited” autorização para ampliar a sua concessão em vigor, para o fim de instalar e explorar o serviço telegráfico público internacional e interior no Estado do Rio Grande do Sul.

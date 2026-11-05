@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi deleg
 
 Art. 1º - Fica reorganizada, na forma indicada na presente Lei, a Secretaria da Segurança Pública do Estado da Bahia.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 Art. 2º - A Secretaria da Segurança Pública tem por finalidade executar a política governamental destinada a garantir a ordem pública, coparticipando do sistema da segurança interna e defesa civil do Estado, protegendo pessoas e patrimônios, assegurando os direitos e garantias individuais, prevenindo e reprimindo a criminalidade, garantindo o cumprimento da lei e o exercício dos Poderes constituídos, competindo-lhe:
@@ -29,7 +30,8 @@ VIII - promover o recrutamento, seleção, formação e aprimoramento dos servid
 
 IX - exercer outras atividades correlatas.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA
 
 Art. 3º - A Secretaria da Segurança Pública tem a seguinte estrutura:
@@ -80,7 +82,8 @@ a) Departamento Estadual de Trânsito - DETRAN
 
 Art. 4º - O assessoramento jurídico dos órgãos da administração centralizada da Secretaria cabe à Procuradoria Geral do Estado, na forma da legislação em vigor.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 COMPETÊNCIA DOS ÓRGÃOS E DA ENTIDADE
 
 Art. 5º - Ao Gabinete do Secretário, que presta assistência ao titular da pasta no desempenho de suas atribuições, compete:
@@ -213,14 +216,16 @@ Art. 15 - O Conselho Superior da Polícia e o Conselho Estadual de Trânsito tê
 
 Art. 16 - O Departamento Estadual de Trânsito - DETRAN, autarquia vinculada à Secretaria da Segurança Pública tem sua finalidade e competência estabelecidas na legislação específica e a sua supervisão e controle far-se-ão nos termos do [§ 2º do artigo 8º da Lei 2.321/66.](https://www.legislabahia.ba.gov.br/documentos/lei-no-2321-de-11-de-abril-de-1966#LO_2_321_Art__8_P_2)
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 SISTEMA ESTADUAL DE SEGURANÇA PÚBLICA
 
 Art. 17 - O Sistema Estadual de Segurança Pública, dirigido pelo Secretário da Segurança Pública, compreende a Polícia Civil, a Polícia Militar e o Departamento Estadual de Trânsito - DETRAN.
 
 Parágrafo único - A organização e as atividades do Sistema Estadual de Segurança Pública serão estabelecidas no seu Regimento.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 18 - Fica extinto o Centro de Recolhimento Provisório "Lafayette Coutinho", integrante do Departamento da Polícia Metropolitana.
@@ -251,4 +256,176 @@ Antonio Bião Martins Lima
 
 CARGOS EM COMISSÃO
 
-<table style="margin-left: 24.8pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 217.5pt; border: 1pt solid windowtext; padding: 0cm 3.5pt;" valign="top" width="290"><p style="margin: 6pt 0cm 12pt; text-align: center;" align="center">DENOMINAÇÃO</p></td><td style="width: 100.4pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="134"><p style="margin: 6pt 0cm 12pt; text-align: center;" align="center">SÍMBOLO</p></td><td style="width: 103.65pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="138"><p style="margin: 6pt 0cm 12pt; text-align: center;" align="center">QUANTIDADE</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Delegado Chefe da Polícia Civil</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-6</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Comandante Geral da Polícia Militar</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-6</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Chefe de Gabinete</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Assessor<span>&nbsp; </span>Especial</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">02</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Assessor Chefe</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Diretor</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">09</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Inspetor Setorial de Finanças</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Coordenador</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">05</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Chefe da Asses. de Comunicação Social</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Superintendente de Administração</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Corregedor da Polícia Civil</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Presidente do Conselho</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Chefe de Gabinete da Polícia Civil</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Assessor</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">16</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Chefe da Assistência Civil e Militar</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">02</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Diretor de Serviço</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">04</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Diretor de Divisão</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">09</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Diretor de Divisão Regional de Polícia</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">32</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Diretor de Instituto</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">03</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Diretor do Laboratório Central</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Assessor Administrativo</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-3</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">05</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Ajudante de Ordens</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-3</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Chefe de Serviço</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-3</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">15</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Coordenador de Unidade Técnica</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-3</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">04</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Chefe de Assistência Técnico-Policial</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-3</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">04</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Delegado Municipal</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-2</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">40</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Chefe de Unidade</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-2</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">06</p></td></tr><tr><td style="width: 217.5pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="290"><p>Oficial de Gabinete</p></td><td style="width: 100.4pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="134"><p style="text-align: center;" align="center">DAS-1</p></td><td style="width: 103.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="138"><p style="text-align: center;" align="center">02</p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Delegado Chefe da Polícia Civil
+
+DAS-6
+
+01
+
+Comandante Geral da Polícia Militar
+
+DAS-6
+
+01
+
+Chefe de Gabinete
+
+DAS-5
+
+01
+
+Assessor  Especial
+
+DAS-5
+
+02
+
+Assessor Chefe
+
+DAS-5
+
+01
+
+Diretor
+
+DAS-5
+
+09
+
+Inspetor Setorial de Finanças
+
+DAS-5
+
+01
+
+Coordenador
+
+DAS-5
+
+05
+
+Chefe da Asses. de Comunicação Social
+
+DAS-5
+
+01
+
+Superintendente de Administração
+
+DAS-5
+
+01
+
+Corregedor da Polícia Civil
+
+DAS-5
+
+01
+
+Presidente do Conselho
+
+DAS-5
+
+01
+
+Chefe de Gabinete da Polícia Civil
+
+DAS-5
+
+01
+
+Assessor
+
+DAS-4
+
+16
+
+Chefe da Assistência Civil e Militar
+
+DAS-4
+
+02
+
+Diretor de Serviço
+
+DAS-4
+
+04
+
+Diretor de Divisão
+
+DAS-4
+
+09
+
+Diretor de Divisão Regional de Polícia
+
+DAS-4
+
+32
+
+Diretor de Instituto
+
+DAS-4
+
+03
+
+Diretor do Laboratório Central
+
+DAS-4
+
+01
+
+Assessor Administrativo
+
+DAS-3
+
+05
+
+Ajudante de Ordens
+
+DAS-3
+
+01
+
+Chefe de Serviço
+
+DAS-3
+
+15
+
+Coordenador de Unidade Técnica
+
+DAS-3
+
+04
+
+Chefe de Assistência Técnico-Policial
+
+DAS-3
+
+04
+
+Delegado Municipal
+
+DAS-2
+
+40
+
+Chefe de Unidade
+
+DAS-2
+
+06
+
+Oficial de Gabinete
+
+DAS-1
+
+02

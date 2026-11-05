@@ -16,32 +16,230 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2498</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 59.120.617,29</td><td style=" width:85px;    ">R$ 6.723.796,62</td><td style=" width:85px;    ">R$ 65.844.413,91</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES</td><td style=" width:85px;    ">10 302 1043 2522</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 155.957,36</td><td style=" width:85px;    ">R$ 1.027.128,84</td><td style=" width:85px;    ">R$ 1.183.086,20</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2961-DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA SEGURANÇA NO TRÂNSITO</td><td style=" width:85px;    ">06 125 1036 2456</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 5.700.000,00</td><td style=" width:85px;    ">R$ 5.700.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 6.723.796,62</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 5.700.000,00</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.027.128,84</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 13.450.925,46</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE
+
+10 302 1043 2498
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 59.120.617,29
+
+R$ 6.723.796,62
+
+R$ 65.844.413,91
+
+REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES
+
+10 302 1043 2522
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 155.957,36
+
+R$ 1.027.128,84
+
+R$ 1.183.086,20
+
+**2961-DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DA SEGURANÇA NO TRÂNSITO
+
+06 125 1036 2456
+
+17530161
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 5.700.000,00
+
+R$ 5.700.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 6.723.796,62
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 5.700.000,00
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 1.027.128,84
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 13.450.925,46
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE PLANO DE FORTALECIMENTO DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2601</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 275.988.248,46</td><td style=" width:85px;    ">R$ 6.723.796,62</td><td style=" width:85px;    ">R$ 6.723.796,62</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 105.884.318,20</td><td style=" width:85px;    ">R$ 1.027.128,84</td><td style=" width:85px;    ">R$ 1.027.128,84</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2961-DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DA SEDE ADMINISTRATIVA</td><td style=" width:85px;    ">06 122 1036 3259</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 17.750.054,16</td><td style=" width:85px;    ">R$ 5.700.000,00</td><td style=" width:85px;    ">R$ 5.700.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 6.723.796,62</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 5.700.000,00</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.027.128,84</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 13.450.925,46</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 6.723.796,62</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 5.700.000,00</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.027.128,84</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 13.450.925,46</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+REALIZAÇÃO DE PLANO DE FORTALECIMENTO DE MÉDIA E ALTA COMPLEXIDADE
+
+10 302 1043 2601
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 275.988.248,46
+
+R$ 6.723.796,62
+
+R$ 6.723.796,62
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 105.884.318,20
+
+R$ 1.027.128,84
+
+R$ 1.027.128,84
+
+**2961-DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÃO DA SEDE ADMINISTRATIVA
+
+06 122 1036 3259
+
+17530161
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 17.750.054,16
+
+R$ 5.700.000,00
+
+R$ 5.700.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 6.723.796,62
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 5.700.000,00
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 1.027.128,84
+
+**TOTAL**
+
+R$ 13.450.925,46
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 6.723.796,62
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 5.700.000,00
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 1.027.128,84
+
+**TOTAL**
+
+R$ 13.450.925,46

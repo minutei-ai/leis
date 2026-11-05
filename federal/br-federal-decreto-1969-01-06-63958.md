@@ -1,5 +1,3 @@
-###DEC-063958-0-000-06-01-1969@@@
-
 DECRETO Nº 63.958, DE 6 DE JANEIRO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Filosofia Ciências e Letras da Instituição Universitária "Moura Lacerda", de Ribeirão Prêto - São Paulo.

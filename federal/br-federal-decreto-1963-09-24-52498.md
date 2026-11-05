@@ -1,5 +1,3 @@
-###DEC-052498-0-000-24-09-1963@@@
-
 DECRETO Nº 52.498, DE 24 DE SETEMBRO DE 1963.
 
 Cria o Consulado honorário do Brasil em Trier, Alemanha.

@@ -1,5 +1,3 @@
-###DEC-077154-0-000-12-02-1976@@@
-
 DECRETO Nº 77.154, DE 12 DE FEVEREIRO DE 1976.
 
 Renova o prazo da concessão para o uso exclusivo do aproveitamento hidráulico de um trecho do rio do Peixe, outorgada à S.A. Indústrias Votorantim, no Estado de São Paulo.

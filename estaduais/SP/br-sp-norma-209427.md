@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209427)<br>
-
 # LEI N° 17.942, DE 13 DE MAIO DE 2024
 
 ## (Projeto de lei n° 1334/2023, do Deputado Dirceu Dalben - CIDADANIA)

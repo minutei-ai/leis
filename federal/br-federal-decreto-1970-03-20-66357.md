@@ -1,5 +1,3 @@
-###DEC-066357-0-000-20-03-1970@@@
-
 DECRETO Nº 66.357 - DE 20 DE MARÇO DE 1970
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Obras de Saneamento (DNOS) cargos originários - do Ministério dos Transportes e dá outras providências.

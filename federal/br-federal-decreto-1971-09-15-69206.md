@@ -1,5 +1,3 @@
-###DEC-069206-0-000-15-09-1971@@@
-
 DECRETO Nº 69.206, DE 15 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Andradina, com sede em Andradina, Estado de São Paulo.

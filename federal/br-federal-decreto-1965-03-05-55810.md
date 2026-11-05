@@ -1,5 +1,3 @@
-###DEC-055810-0-000-05-03-1965@@@
-
 decreto nº 55.810, de 5 de março de 1965.
 
 Dispões sôbre o reajuste dos preços básicos mínimos para as operações de financiamento ou aquisição Arroz, Milho e Soja de produção nacional, da safra de 1964-1965, fixado pelo Decreto nº 54.294, de 18 de setembro de 1964.

@@ -1,5 +1,3 @@
-###MPV-001710-0-003-05-11-1998@@@
-
 MEDIDA PROVISÓRIA nº 1.710-3, DE 5 DE NOVEMBRO DE 1998.
 
 Acrescenta dispositivo  à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

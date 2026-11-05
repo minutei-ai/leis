@@ -1,5 +1,3 @@
-###DEL-005095-0-000-16-12-1942@@@
-
 DECRETO-LEI N. 5.095 – DE 16 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Fazenda o crédito especial de Cr$ 7.994.246,00 para pagamento de notas de papel-moeda

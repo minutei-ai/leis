@@ -1,5 +1,3 @@
-###DEL-006049-0-000-29-11-1943@@@
-
 DECRETO‑LEI N. 6.049 – DE 29 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas a crédito especial de Cr$ 6.660,00 para atender ao pagamento de desapropriação

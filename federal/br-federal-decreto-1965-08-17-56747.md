@@ -1,5 +1,3 @@
-###DEC-056747-0-000-17-08-1965@@@
-
 DECRETO Nº 56.747, DE 17 DE AGÔSTO DE 1965.
 
 Institui o dia do Folclore.

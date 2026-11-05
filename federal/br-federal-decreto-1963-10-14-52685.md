@@ -1,5 +1,3 @@
-###DEC-052685-0-000-14-10-1963@@@
-
 DECRETO Nº 52.685, de 14 de outubro de 1963.
 
 Altera o Regulamento de Uniformes para os Militares da Aeronáutica, aprovado pelo Decreto nº 41.660, de 7 de junho de 1967.

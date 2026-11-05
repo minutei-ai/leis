@@ -1,5 +1,3 @@
-###DEC-048948-0-000-15-09-1960@@@
-
 DECRETO Nº 48.948, DE 15 DE SETEMBRO DE 1960.
 
 Altera o Decreto nº 40.785, de 21 de janeiro de 1957.

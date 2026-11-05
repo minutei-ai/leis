@@ -1,5 +1,3 @@
-###DEC-056135-0-000-27-04-1965@@@
-
 DECRETO Nº 56.135, DE 27 DE ABRIL DE 1965.
 
 Aprova a nova redação do art. 8º dos Estatutos Sociais da Sul América Capitalização S.A.

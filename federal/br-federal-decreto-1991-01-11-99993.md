@@ -1,7 +1,3 @@
-1
-
-###DEC-099993-0-000-11-01-1991@@@
-
 DECRETO Nº 99.993, DE 11 DE JANEIRO DE 1991.
 
 Declara de utilidade pública para fins de desapropriação em favor da Companhia de eletricidade do Estado da Bahia - COELBA, a área de terra que menciona.

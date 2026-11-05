@@ -1,5 +1,3 @@
-###DEC-095321-0-000-02-12-1987@@@
-
 DECRETO Nº 95.321, DE 2 DE DEZEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA SERRA DOS TEIXEIRAS", classificado como “latifúndio por exploração”, situado nos Municípios de Jacobina e Morro do Chapéu, Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986 e dá outras Providências.

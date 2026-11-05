@@ -1,5 +1,3 @@
-###DEC-050130-0-000-26-01-1961@@@
-
 decreto nº 50.130, de 26 de janeiro de 1961.
 
 Outorga concessão à Ceará Rádio Clube S. A. para estabelecer uma estação de Radiotelevisão.

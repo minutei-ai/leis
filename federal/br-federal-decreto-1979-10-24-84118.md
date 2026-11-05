@@ -1,5 +1,3 @@
-###DEC-084118-0-000-24-10-1979@@@
-
 Decreto nº 84.118, de 24 de outubro de 1979.
 
 Acrescenta parágrafo ao artigo 2º do Decreto nº 83.940, de 10 de setembro de 1979, que dispõe sobre a transferência do CIP para a Secretaria de Planejamento da Presidência da República.

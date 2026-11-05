@@ -1,28 +1,26 @@
-###DEC-021355-0-000-25-06-1946@@@
+**DECRETO Nº 21.355, DE 25 DE JUNHO DE 1946.**
 
-<strong>DECRETO Nº 21.355, DE 25 DE JUNHO DE 1946.</strong>
+***Aprova os estatutos do Instituto Brasileiro de Educação, Ciência e Cultura.***
 
-<em><strong>Aprova os estatutos do Instituto Brasileiro de Educação, Ciência e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovados os estatutos dos do Instituto Brasileiro de Educação, Ciência e Cultura, criado pelo Decreto-lei nº 9.355, de 13 de junho de 1946, que acompanham o presente Decreto.
 
-<strong>Art</strong>. 1º Ficam aprovados os estatutos dos do Instituto Brasileiro de Educação, Ciência e Cultura, criado pelo Decreto-lei nº 9.355, de 13 de junho de 1946, que acompanham o presente Decreto.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 25 de Junho de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 João Neves da Fontoura
 
 Luiz Augusto da Silva Vieira
 
-<strong>ESTATUTOS DO INSTITUTO BRASILEIRO DE EDUCAÇÃO, CIÊNCIA E CULTURA.</strong>
+**ESTATUTOS DO INSTITUTO BRASILEIRO DE EDUCAÇÃO, CIÊNCIA E CULTURA.**
 
-<strong>Art</strong>. 1º O Instituto Brasileiro de Educação, Ciência e Cultura, (IBEC) fundado pelo Decreto-lei nº 9.355, de 13 de Junho de 1946, tem por objetivo, sob a inspiração das tradições, democráticas e pacifistas, da política internacional do Brasil, associar aos trabalhos da Unesco, e à realização de seus objetivos, os principais grupos nacionais que se interessam pelos problemas da educação, da pesquisa científica e da cultura, especialmente para:
+**Art**. 1º O Instituto Brasileiro de Educação, Ciência e Cultura, (IBEC) fundado pelo Decreto-lei nº 9.355, de 13 de Junho de 1946, tem por objetivo, sob a inspiração das tradições, democráticas e pacifistas, da política internacional do Brasil, associar aos trabalhos da Unesco, e à realização de seus objetivos, os principais grupos nacionais que se interessam pelos problemas da educação, da pesquisa científica e da cultura, especialmente para:
 
 a) colaborar no incremento do conhecimento mútuo dos povos por todos os órgãos de informação das massas e, para êste fim, recomendar os acôrdos internacionais necessários para promover a livre circulação de idéias pela palavra e pela imagem;
 
@@ -54,9 +52,9 @@ j) promoverá, pelos meios adequados, o desenvolvimento das relações culturais
 
 § 2º O Instituto terá sede no Rio de Janeiro e funcionará o Ministério das Relações Exteriores, podendo estabelecer filiais em outras cidades do Brasil.
 
-<strong>Art</strong>. 2º o patrimônio do Instituto será constituído por subvenções, donativos, legados e saldos das suas receitas.
+**Art**. 2º o patrimônio do Instituto será constituído por subvenções, donativos, legados e saldos das suas receitas.
 
-<strong>Art</strong>. 3º Serão membros do Instituto vinte delegados do Gôverno, nomeados pelo Presidente da República, os dois funcionários do Ministério das Relações Exteriores referidos no § 1º do art. 6º e um representante escolhido para cada um dos grupos nacionais, interessados pelos problemas de educação, de pesquisa científica e de cultura e designados por portaria do Ministro de Estado das Relações Exteriores.
+**Art**. 3º Serão membros do Instituto vinte delegados do Gôverno, nomeados pelo Presidente da República, os dois funcionários do Ministério das Relações Exteriores referidos no § 1º do art. 6º e um representante escolhido para cada um dos grupos nacionais, interessados pelos problemas de educação, de pesquisa científica e de cultura e designados por portaria do Ministro de Estado das Relações Exteriores.
 
 § 1º Os membros do Instituto hão de preencher os requisitos seguintes:
 
@@ -68,29 +66,29 @@ c) residência no Rio de Janeiro.
 
 § 2º Os membros do Instituto que tenham servido durante um triênio pelo menos, na Diretoria ou no Conselho Deliberativo, e dêles não mais façam parte, constituirão o Conselho Consultivo.
 
-<strong>Art</strong>. 4º Os membros da Diretoria do Conselho Deliberativo, ou da comissão que, sem motivo justificado, faltarem as três reuniões consecutivas, para que tenham sido convocados, perderão automaticamente êsses cargos.
+**Art**. 4º Os membros da Diretoria do Conselho Deliberativo, ou da comissão que, sem motivo justificado, faltarem as três reuniões consecutivas, para que tenham sido convocados, perderão automaticamente êsses cargos.
 
-<strong>Art</strong>. 5º O Instituto será administrado pela Diretoria e pelo Conselho Deliberativo, constituído trienalmente pela forma declarada nos arts. 6º e 7º.
+**Art**. 5º O Instituto será administrado pela Diretoria e pelo Conselho Deliberativo, constituído trienalmente pela forma declarada nos arts. 6º e 7º.
 
 § 1º Ninguém servirá simultâneamente na Diretoria e em qualquer dos Conselhos.
 
 § 2º O mandato da Diretoria e do Conselho Deliberativo será de três anos contados da data da posse, prorrogando-se, no entanto, até a eleição e posse dos novos eleitos para os mesmos cargos.
 
-§ 3º Em caso de vaga na Diretoria ou no Conselho Deliberativo, proceder-se-á na forma do art. 8º <em>f</em>) à eleição do substituto, que preencherá o tempo restante do mandato.
+§ 3º Em caso de vaga na Diretoria ou no Conselho Deliberativo, proceder-se-á na forma do art. 8º *f*) à eleição do substituto, que preencherá o tempo restante do mandato.
 
 § 4º os cargos da Diretoria e dos Conselhos serão exercidos gratuitamente.
 
-<strong>Art</strong>. 6º A Diretoria compor-se-á de Presidente, 1º, 2º e 3º Vice-Presidentes, Secretário-Geral, Sub-Secretário-Geral, 1º e segundo Secretários e Tesoureiro.
+**Art**. 6º A Diretoria compor-se-á de Presidente, 1º, 2º e 3º Vice-Presidentes, Secretário-Geral, Sub-Secretário-Geral, 1º e segundo Secretários e Tesoureiro.
 
 § 1º O Secretário-Geral será o chefe da Divisão Cultural do Ministério das Relações Exteriores e o Sub-Secretário-Geral o Chefe do Serviço de Informações do mesmo Ministério.
 
 § 2º O Ministro das Relações Exteriores será Presidente de honra do Instituto, exercendo a Presidência de tôdas as sessões a que tiver presente.
 
-<strong>Art</strong>. 7º o Conselho Deliberativo se comporá de 40 Membros do Instituto, inclusive os representantes do Gôverno que não façam parte da Diretoria, sendo os demais eleitos pela Assembléia Geral, dentre os representantes dos grupos nacionais.
+**Art**. 7º o Conselho Deliberativo se comporá de 40 Membros do Instituto, inclusive os representantes do Gôverno que não façam parte da Diretoria, sendo os demais eleitos pela Assembléia Geral, dentre os representantes dos grupos nacionais.
 
 Parágrafo único. O Conselho será presidido pelo Presidente do Instituto.
 
-<strong>Art</strong>. 8º Compete a Diretoria:
+**Art**. 8º Compete a Diretoria:
 
 a) administrar o Instituto, provendo a realizações de seus objetivos;
 
@@ -120,23 +118,23 @@ m) opinar sôbre a extinção do Instituto;
 
 n) instituir as filias mencionadas no § 4º do art. 1º, orientando controlando e coordenando suas atividades.
 
-<strong>Art</strong>. 9º Ao Presidente cabe representar o Instituto, ativa e passivamente, em tôdas as relações com terceiros; promover e superintender todos os serviços e atividades do Instituto, adotando as providências necessárias para sua eficiência; presidir as reuniões da Diretoria, do Conselho Deliberativo, da Diretoria juntamente com o Conselho Deliberativo e as Assembléias Gerais; acompanhar os trabalhos das comissões; autorizar os recebimentos e as despesas, na conformidade do orçamento e das deliberações da Diretoria e do Conselho Deliberativo; visar os cheques emitidos pelo tesoureiro; propôr os empregados, seus vencimentos, dispensa e penalidades; organizar os relatórios dos trabalhos do Instituto para a assembléia Geral e para Unesco, que serão submetidos à Diretoria (art. 8º, <em>h</em>).
+**Art**. 9º Ao Presidente cabe representar o Instituto, ativa e passivamente, em tôdas as relações com terceiros; promover e superintender todos os serviços e atividades do Instituto, adotando as providências necessárias para sua eficiência; presidir as reuniões da Diretoria, do Conselho Deliberativo, da Diretoria juntamente com o Conselho Deliberativo e as Assembléias Gerais; acompanhar os trabalhos das comissões; autorizar os recebimentos e as despesas, na conformidade do orçamento e das deliberações da Diretoria e do Conselho Deliberativo; visar os cheques emitidos pelo tesoureiro; propôr os empregados, seus vencimentos, dispensa e penalidades; organizar os relatórios dos trabalhos do Instituto para a assembléia Geral e para Unesco, que serão submetidos à Diretoria (art. 8º, *h*).
 
 Parágrafo único. Os Vice-Presidentes substituirão e auxiliarão o Presidente no desempenho de suas atribuições, pela forma determinada no regimento interno.
 
-<strong>Art</strong>. 10 Ao Secretário-Geral, auxiliado e substituído pelo Sub-Secretário-Geral, 1º e 2º secretários, incumbem a direção dos serviços de publicidade e informações e os da secretaria, inclusive expediente e correspondência, a rúbrica de todos os livros da escrituração, a organização e a guarda da biblioteca e do arquivo.
+**Art**. 10 Ao Secretário-Geral, auxiliado e substituído pelo Sub-Secretário-Geral, 1º e 2º secretários, incumbem a direção dos serviços de publicidade e informações e os da secretaria, inclusive expediente e correspondência, a rúbrica de todos os livros da escrituração, a organização e a guarda da biblioteca e do arquivo.
 
-<strong>Art</strong>. 11 Ao Tesoureiro compete a guarda, movimentação e escrituração dos haveres da sociedade, o depósito do dinheiro no Banco do Brasil, a emissão de cheques visados pelo Presidente, o recebimento de quaisquer quantias ou valores devidos ou pertencentes ao Instituto, a elaboração do anti-projeto do orçamento anual e o balanço da receita e das despesa que será submetido a apreciação da Diretoria e do Conselho Deliberativo (arts.8º, <em>c</em>, e 14º, <em>a</em>) e votado pela Assembléia Geral (art. 18).
+**Art**. 11 Ao Tesoureiro compete a guarda, movimentação e escrituração dos haveres da sociedade, o depósito do dinheiro no Banco do Brasil, a emissão de cheques visados pelo Presidente, o recebimento de quaisquer quantias ou valores devidos ou pertencentes ao Instituto, a elaboração do anti-projeto do orçamento anual e o balanço da receita e das despesa que será submetido a apreciação da Diretoria e do Conselho Deliberativo (arts.8º, *c*, e 14º, *a*) e votado pela Assembléia Geral (art. 18).
 
-<strong>Art</strong>. 12 O Regimento Interno distribuirá pelos Diretores os encargos não atribuídos a algum dêles nestes Estatutos, assim como regulará a sua substituição e licenciamento, e as reuniões da Diretoria e dos Conselhos fixando prazos restritos para desempenho de suas funções.
+**Art**. 12 O Regimento Interno distribuirá pelos Diretores os encargos não atribuídos a algum dêles nestes Estatutos, assim como regulará a sua substituição e licenciamento, e as reuniões da Diretoria e dos Conselhos fixando prazos restritos para desempenho de suas funções.
 
-<strong>Art</strong>. 13 A designação dos representantes dos grupos nacionais se fará, para cada triênio, até 30 dias antes da terminação do triênio precedente, mediante solicitação prévia da Secretaria do Instituto.
+**Art**. 13 A designação dos representantes dos grupos nacionais se fará, para cada triênio, até 30 dias antes da terminação do triênio precedente, mediante solicitação prévia da Secretaria do Instituto.
 
 § 1º Caducará, por decisão do Conselho Deliberativo sob proposta da Diretoria, a investidura do representante que deixar de fazer parte da instituição que represente ou se esta se extinguir.
 
-§ 2º Também sob proposta da Diretoria do Instituto (art. 8º,,<em>j</em>) poderá ser excluída da representação no Instituto, por portaria do Ministro de Estado das Relações Exteriores, a instituição que se tornar inidônea.
+§ 2º Também sob proposta da Diretoria do Instituto (art. 8º,,*j*) poderá ser excluída da representação no Instituto, por portaria do Ministro de Estado das Relações Exteriores, a instituição que se tornar inidônea.
 
-<strong>Art</strong>. 14. Ao Conselho Deliberativo compete:
+**Art**. 14. Ao Conselho Deliberativo compete:
 
 a) emitir proceder sob o projeto de orçamento anual da receita e da despesa e autorizar despesas extra-orçamentária urgentes e necessárias;
 
@@ -144,33 +142,33 @@ b) emitir parecer sôbre os relatórios do Presidente e contas anuais da Diretor
 
 c) emitir parecer sôbre os planos de concursos, prêmios e bolsas de estudos elaborados pela Diretoria;
 
-c) emitir parecer sôbre as minutas dos contratos, que a Diretoria resolva celebrar, e sôbre as propostas de extinção do Instituto (art. 8º, <em>m</em>) ou de modificação dêstes estatutos (art. 8º, <em>l</em>);
+c) emitir parecer sôbre as minutas dos contratos, que a Diretoria resolva celebrar, e sôbre as propostas de extinção do Instituto (art. 8º, *m*) ou de modificação dêstes estatutos (art. 8º, *l*);
 
-e) preencher a vaga na Diretoria ou no próprio Conselho, nos casos dos arts. 5º, § 3º e 8º, <em>f</em> e pela forma determinada;
+e) preencher a vaga na Diretoria ou no próprio Conselho, nos casos dos arts. 5º, § 3º e 8º, *f* e pela forma determinada;
 
 f) declarar a caducidade da investidura do representante do grupo nacional nos casos do art. 13º, § 1º;
 
-g) emitir parecer sôbre a solução dos casos omissos nestes estatutos (artigo 9º, <em>k</em>);
+g) emitir parecer sôbre a solução dos casos omissos nestes estatutos (artigo 9º, *k*);
 
 h) propôr à Diretoria as iniciativas, ou realizações, que considerar convenientes, apreciando qualquer sugestão que, nesse sentido, lhe seja apresentada por algum de seus membros.
 
-<strong>Art</strong>. 15 O Conselho Consultivo, constituído na forma do art. 3º, § 2º será ouvido pela Diretoria sempre que esta considerar conveniente.
+**Art**. 15 O Conselho Consultivo, constituído na forma do art. 3º, § 2º será ouvido pela Diretoria sempre que esta considerar conveniente.
 
-<strong>Art</strong>. 16 A Diretoria e o Conselho Deliberativo funcionarão com a presença da maioria de seus membros, sendo as deliberações e pareceres adotados pelo voto da maioria presente.
+**Art**. 16 A Diretoria e o Conselho Deliberativo funcionarão com a presença da maioria de seus membros, sendo as deliberações e pareceres adotados pelo voto da maioria presente.
 
-<strong>Art</strong>. 17 Os membros do Instituto não respondem sebsidiáriamente pelas obrigações sociais.
+**Art**. 17 Os membros do Instituto não respondem sebsidiáriamente pelas obrigações sociais.
 
-<strong>Art</strong>. 18 A Assembléia Geral, ordinária, de que farão parte todos os membros do Instituto realizar-se-á, no mês de junho, anualmente, para conhecer do relatório do Presidente, contas da Diretoria, do projeto de orçamento para o ano vindouro, e respectivos pareceres do Conselho Deliberativo, e, trienalmente, para eleger os membros da Diretoria indicados no art. 6º e § 1º e os do Conselho Deliberativo.
+**Art**. 18 A Assembléia Geral, ordinária, de que farão parte todos os membros do Instituto realizar-se-á, no mês de junho, anualmente, para conhecer do relatório do Presidente, contas da Diretoria, do projeto de orçamento para o ano vindouro, e respectivos pareceres do Conselho Deliberativo, e, trienalmente, para eleger os membros da Diretoria indicados no art. 6º e § 1º e os do Conselho Deliberativo.
 
 § 1º As Assembléias extraordinárias realizar-se-ão quando convocadas pela Diretoria.
 
-§ 2º As Assembléias serão convocadas por anúncios publicados por três 3 vezes no <em>Diário Oficial</em> e em outro jornal desta Capital, com oito dias pelo menos de antecedência, instalando-se, em 1ª convocação com a presença de maioria absoluta dos membros do Instituto. Não se reunindo essa maioria, a Assembléia ficará, desde logo, automáticamente adiada para o terceiro dia útil subseqüente, no mesmo local e à mesma hora, instalando-se, então, com qualquer número de presentes.
+§ 2º As Assembléias serão convocadas por anúncios publicados por três 3 vezes no *Diário Oficial* e em outro jornal desta Capital, com oito dias pelo menos de antecedência, instalando-se, em 1ª convocação com a presença de maioria absoluta dos membros do Instituto. Não se reunindo essa maioria, a Assembléia ficará, desde logo, automáticamente adiada para o terceiro dia útil subseqüente, no mesmo local e à mesma hora, instalando-se, então, com qualquer número de presentes.
 
-<strong>Art</strong>. 19 A modificação dêste estatuto se fará por Decreto do Gôverno Federal, sob proposta da Diretoria com parecer do Conselho Deliberativo (artigos 8º, <em>l</em> e 14º, <em>d</em>).
+**Art**. 19 A modificação dêste estatuto se fará por Decreto do Gôverno Federal, sob proposta da Diretoria com parecer do Conselho Deliberativo (artigos 8º, *l* e 14º, *d*).
 
-<strong>Art</strong>. 20 A extinção do Instituto sòmente será decretada pelo Gôverno Federal, ouvida a Diretoria e Conselho Deliberativo (arts. 8º,<em>m</em> e 14º, <em>d</em>).
+**Art**. 20 A extinção do Instituto sòmente será decretada pelo Gôverno Federal, ouvida a Diretoria e Conselho Deliberativo (arts. 8º,*m* e 14º, *d*).
 
-<strong>Art</strong>. 21 As autoridades e repartições públicas federais, estaduais e municipais atenderão prontamente aos pedidos de informações do Presidente do Instituto e procurarão facilitar o desempenho da missão do Instituto. Sua correspondência gozará de franquia postal e telegráfica.
+**Art**. 21 As autoridades e repartições públicas federais, estaduais e municipais atenderão prontamente aos pedidos de informações do Presidente do Instituto e procurarão facilitar o desempenho da missão do Instituto. Sua correspondência gozará de franquia postal e telegráfica.
 
 Parágrafo único. Sendo necessário, o Ministro de Estado das Relações Exteriores designará um ou mais funcionários do mesmo Ministério para auxiliarem os trabalhos do Instituto.
 

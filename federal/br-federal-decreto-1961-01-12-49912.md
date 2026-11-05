@@ -1,5 +1,3 @@
-###DEC-049912-0-000-12-01-1961@@@
-
 DECRETO Nº 49.912, DE 12 DE JANEIRO DE 1961.
 
 Dispõe sôbre cargo de Professor Catedrático do Colégio Pedro II (Externato e Internato) do Ministério da Educação e Cultura.

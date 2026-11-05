@@ -1,14 +1,12 @@
-###DEC-041460-0-000-06-05-1957@@@
+**DECRETO Nº 41.460, DE 6 DE MAIO DE 1957.**
 
-<strong>DEC</strong><strong>R</strong><strong>ETO Nº 41.460, DE 6 DE MAIO DE 1957.</strong>
+***Inclui e altera o símbolo de funções gratificadas no Quadro Permanente do Ministério da Justiça e Negócios Interiores.***
 
-<em><strong>Inclui e altera o símbolo de funções gratificadas no Quadro Permanente do Ministério da Justiça e Negócios Interiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam incluídas no Quadro Permanente do Ministério da Justiça e Negócios Interiores, as funções gratificadas abaixo discriminadas, que integrarão a lotação da Agência Nacional.
+**Art**. 1º Ficam incluídas no Quadro Permanente do Ministério da Justiça e Negócios Interiores, as funções gratificadas abaixo discriminadas, que integrarão a lotação da Agência Nacional.
 
 FG-3
 
@@ -46,7 +44,7 @@ FG-7
 
 1 - Encarregado da Turma de Expedição do Serviço de Imprensa da Divisão de Informações.
 
-<strong>Art</strong>. 2º As atuais funções gratificadas do Quadro Permanente do Ministério da Justiça e Negócios Interiores que integram a lotação da Agência Nacional, passam a ser classificadas na forma abaixo:
+**Art**. 2º As atuais funções gratificadas do Quadro Permanente do Ministério da Justiça e Negócios Interiores que integram a lotação da Agência Nacional, passam a ser classificadas na forma abaixo:
 
 FG-2
 
@@ -56,14 +54,14 @@ FG-3
 
 1 - Diretor da Secretária.
 
-<strong>Art</strong>. 3º A despesa resultante dêste decreto correrá por conta da dotação orçamentária própria.
+**Art**. 3º A despesa resultante dêste decreto correrá por conta da dotação orçamentária própria.
 
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 6 de maio de 1957;136º Independência 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Carlos de Macedo Soares

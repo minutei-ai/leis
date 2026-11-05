@@ -1,5 +1,3 @@
-###MPV-000598-0-000-27-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 598, DE 27 DE DEZEMBRO DE 2012
 
 Abre crédito extraordinário, em favor de diversos órgãos e empresas estatais, para os fins que especifica.

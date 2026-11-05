@@ -1,5 +1,3 @@
-###DEL-009110-0-000-01-04-1946@@@
-
 DECRETO-LEI N. 9.110 – DE 1 DE ABRIL DE 1946
 
 Extingue a Oitava Junta de Conciliação e Julgamento com sede em São Paulo, Estado de São Paulo cria Junta de Conciliação e Julgamento em Santo André Estado de São Paulo e dá outras providências.

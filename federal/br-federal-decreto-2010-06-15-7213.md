@@ -1,5 +1,3 @@
-###DEC-007213-0-000-15-06-2010@@@
-
 DECRETO Nº 7.213, DE 15 DE JUNHO DE 2010.
 
 Altera e acresce dispositivos ao Decreto no 6.759, de 5 de fevereiro de 2009, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.

@@ -16,40 +16,382 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">15 451 1003 3291</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 6.011.323,00</td><td style=" width:85px;    ">R$ 6.011.323,00</td></tr></tbody></table>
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 552.339,00</td><td style=" width:85px;    ">R$ 4.500.000,00</td><td style=" width:85px;    ">R$ 5.052.339,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.544.573,50</td><td style=" width:85px;    ">R$ 31.600.000,00</td><td style=" width:85px;    ">R$ 33.144.573,50</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 93.000,83</td><td style=" width:85px;    ">R$ 1.010.000,00</td><td style=" width:85px;    ">R$ 1.103.000,83</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 286.517,03</td><td style=" width:85px;    ">R$ 5.610.000,00</td><td style=" width:85px;    ">R$ 5.896.517,03</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA</td><td style=" width:85px;    ">12 366 4100 4157</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 526.935,59</td><td style=" width:85px;    ">R$ 6.630.000,00</td><td style=" width:85px;    ">R$ 7.156.935,59</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">15 451 1003 3291</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.988.677,70</td><td style=" width:85px;    ">R$ 2.988.677,70</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:340px;  height:19px;   ">R$ 49.350.000,00</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 2.988.677,70</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 6.011.323,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 58.350.000,70</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS - GOIÁS EM MOVIMENTO
+
+15 451 1003 3291
+
+27610156
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 6.011.323,00
+
+R$ 6.011.323,00
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 552.339,00
+
+R$ 4.500.000,00
+
+R$ 5.052.339,00
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.544.573,50
+
+R$ 31.600.000,00
+
+R$ 33.144.573,50
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 93.000,83
+
+R$ 1.010.000,00
+
+R$ 1.103.000,83
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 286.517,03
+
+R$ 5.610.000,00
+
+R$ 5.896.517,03
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA
+
+12 366 4100 4157
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 526.935,59
+
+R$ 6.630.000,00
+
+R$ 7.156.935,59
+
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS - GOIÁS EM MOVIMENTO
+
+15 451 1003 3291
+
+17610156
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 2.988.677,70
+
+R$ 2.988.677,70
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 49.350.000,00
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 2.988.677,70
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 6.011.323,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 58.350.000,70
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PRESTAÇÃO DE SERVIÇOS SOCIAIS</td><td style=" width:85px;    ">08 244 1007 2380</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 6.004.869,99</td><td style=" width:85px;    ">R$ 5.600.000,00</td><td style=" width:85px;    ">R$ 5.600.000,00</td></tr><tr><td style=" width:85px;    ">TRANSFERÊNCIA DE RENDA COMPLEMENTAR - GOIÁS + INCLUSIVO</td><td style=" width:85px;    ">08 242 1040 2586</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.000.000,00</td><td style=" width:85px;    ">R$ 411.323,00</td><td style=" width:85px;    ">R$ 411.323,00</td></tr></tbody></table>
+**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL**
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 4100 4149</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 410.134.403,20</td><td style=" width:85px;    ">R$ 49.350.000,00</td><td style=" width:85px;    ">R$ 49.350.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DA DIGNIDADE MENSTRUAL DA MULHER - SEDS</td><td style=" width:85px;    ">08 244 1007 2254</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 337.775,00</td><td style=" width:85px;    ">R$ 337.775,00</td><td style=" width:85px;    ">R$ 337.775,00</td></tr><tr><td style=" width:85px;    ">TRANSFERÊNCIA DE RENDA COMPLEMENTAR - BOLSA AUXÍLIO - FAMÍLIA ACOLHEDORA</td><td style=" width:85px;    ">08 243 1044 2317</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 900.000,00</td><td style=" width:85px;    ">R$ 900.000,00</td></tr><tr><td style=" width:85px;    ">TRANSFERÊNCIA DE RENDA COMPLEMENTAR - MÃES DE GOIÁS</td><td style=" width:85px;    ">08 244 1044 2312</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.026.311,33</td><td style=" width:85px;    ">R$ 1.750.902,70</td><td style=" width:85px;    ">R$ 1.750.902,70</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:340px;  height:19px;   ">R$ 49.350.000,00</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 2.988.677,70</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 6.011.323,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 58.350.000,70</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:340px;  height:19px;   ">R$ 49.350.000,00</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 2.988.677,70</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 6.011.323,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 58.350.000,70</td></tr></tbody></table>
+**VALOR A REDUZIR**
+
+GESTÃO DA INICIATIVA PRESTAÇÃO DE SERVIÇOS SOCIAIS
+
+08 244 1007 2380
+
+27610156
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 6.004.869,99
+
+R$ 5.600.000,00
+
+R$ 5.600.000,00
+
+TRANSFERÊNCIA DE RENDA COMPLEMENTAR - GOIÁS + INCLUSIVO
+
+08 242 1040 2586
+
+27610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.000.000,00
+
+R$ 411.323,00
+
+R$ 411.323,00
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL
+
+12 361 4100 4149
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 410.134.403,20
+
+R$ 49.350.000,00
+
+R$ 49.350.000,00
+
+**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL**
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROMOÇÃO DA DIGNIDADE MENSTRUAL DA MULHER - SEDS
+
+08 244 1007 2254
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 337.775,00
+
+R$ 337.775,00
+
+R$ 337.775,00
+
+TRANSFERÊNCIA DE RENDA COMPLEMENTAR - BOLSA AUXÍLIO - FAMÍLIA ACOLHEDORA
+
+08 243 1044 2317
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.000.000,00
+
+R$ 900.000,00
+
+R$ 900.000,00
+
+TRANSFERÊNCIA DE RENDA COMPLEMENTAR - MÃES DE GOIÁS
+
+08 244 1044 2312
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.026.311,33
+
+R$ 1.750.902,70
+
+R$ 1.750.902,70
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 49.350.000,00
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 2.988.677,70
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 6.011.323,00
+
+**TOTAL**
+
+R$ 58.350.000,70
+
+**TOTAL POR FONTE**
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 49.350.000,00
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 2.988.677,70
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 6.011.323,00
+
+**TOTAL**
+
+R$ 58.350.000,70

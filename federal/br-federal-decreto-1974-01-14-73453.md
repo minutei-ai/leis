@@ -1,5 +1,3 @@
-###DEC-073453-0-000-14-01-1974@@@
-
 DECRETO Nº 73.453, DE 14 DE JANEIRO DE 1974
 
 Fixa na Aeronáutica para os diferentes Quadros e Postos, as proporções a serem observadas no cálculo da quota compulsória para o ano de 1973.

@@ -1,5 +1,3 @@
-###DEL-003583-0-000-03-09-1941@@@
-
 DECRETO-LEI N. 3.583 – DE 3 DE SETEMBRO DE 1941
 
 Proíbe a derrubada de cajueiros em áreas rurais do território nacional e dá outras providências

@@ -1,7 +1,3 @@
-1
-
-###MPV-001522-0-000-11-10-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.522, DE 11 DE OUTUBRO DE 1996.
 
 Altera dispositivos da Lei nº 8.112, de 11 de dezembro de 1990, e da Lei nº 8.460, de 17 de setembro de 1992, e dá outras providências.

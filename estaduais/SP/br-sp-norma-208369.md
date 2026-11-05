@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208369)<br>
-
 # DECRETO N° 67.859, DE 04 DE AGOSTO DE 2023
 
 ### _Cria e organiza, na Secretaria da Justiça e Cidadania, a Coordenadoria de Políticas para os Povos Indígenas, e dá providências correlatas._

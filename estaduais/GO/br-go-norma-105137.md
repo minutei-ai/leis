@@ -116,36 +116,40 @@ Art. 13. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 11 de fevereiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
-[**Anexo I - Limites de Empenho**](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17721)<br>
+[**Anexo I - Limites de Empenho**](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17721)
+
 [\- Redação dada pelo Decreto nº 10.119, de 22-07-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105957/decreto-10119)
 
-[**Anexo II - Limites de Pagamento**](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17722)<br>
+[**Anexo II - Limites de Pagamento**](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17722)
+
 [\- Redação dada pelo Decreto nº 10.119, de 22-07-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105957/decreto-10119)
 
-<br>
+**[Anexo III - Limites de Pagamento de Restos a Pagar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17723)**
 
-**[Anexo III - Limites de Pagamento de Restos a Pagar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17723)**<br>
-[\- Redação dada pelo Decreto nº 10.119, de 22-07-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105957/decreto-10119)**<br>
+[\- Redação dada pelo Decreto nº 10.119, de 22-07-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105957/decreto-10119)**
+
 **
 
 **[Anexo IV- Metas Bimestrais de Arrecadação](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17729)**
 
-[**Anexo V - Quadro de Cotas Trimestrais da Despesa**](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17725)<br>
+[**Anexo V - Quadro de Cotas Trimestrais da Despesa**](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17725)
+
 [\- Redação dada pelo Decreto nº 10.119, de 22-07-2022 (](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105957/decreto-10119)[Anexo IV)](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105957/decreto-10119)
 
-**[Anexo VI - Quadro de Metas Quadrimestrais para o Resultado Primário dos Orçamentos Fiscal e da Seguridade Social](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17727)<br>
+**[Anexo VI - Quadro de Metas Quadrimestrais para o Resultado Primário dos Orçamentos Fiscal e da Seguridade Social](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17727)
+
 **[\- Retificado pelo Decreto nº 10.119, de 22-07-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105957/decreto-10119)
 
 **[Anexo VII - Exceções aos Limites de Empenho e Pagamento](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17726)**
 
 Vide:
 
-[Anexos I a VII - original publicados no Diário Oficial de 11-02-2022](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17730)<br>
-[Anexo I - Alterado pela Portaria nº 103/2022-Economia (página 29)](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5177)<br>
+[Anexos I a VII - original publicados no Diário Oficial de 11-02-2022](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17730)
+
+[Anexo I - Alterado pela Portaria nº 103/2022-Economia (página 29)](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5177)
+
 [Anexos I, II e V alterados pela Portaria nº 56/2022-Economia](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17671)

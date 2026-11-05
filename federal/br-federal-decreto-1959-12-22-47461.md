@@ -1,5 +1,3 @@
-###DEC-047461-0-000-22-12-1959@@@
-
 decreto nº 47.461, de 22 de Dezembro de 1959.
 
 Declara sem efeito o Decreto número 46.587, de 13 de agôsto de 1959.

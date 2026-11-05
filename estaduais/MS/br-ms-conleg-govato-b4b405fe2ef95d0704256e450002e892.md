@@ -6,24 +6,32 @@ Declara de utilidade pública a ASSOCIAÇÃO DOS MORADORES DO JARDIM SANTA'ANA, 
 
 Publicada no Diário Oficial nº 978, de 17 de dezembro de 1982.
 
-Pedro Pedrossian, Governador do Estado de Mato Grosso do Sul, faço<br>
-saber que a Assembléia Legislativa decreta e eu sanciono a<br>
-seguinte Lei:<br>
-<br>
-Art. 1º - Fica declarada de utilidade pública estadual a ASSOCIAÇãO<br>
-DOS MORADORES DO JARDIM SANT'ANA, com sede no município de<br>
-Dourados, neste Estado.<br>
-<br>
-Art. 2º - Esta lei entrará em vigor na data da sua pubIicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 16 de dezembro de 1.982.<br>
-<br>
-PEDRO PEDROSSIAN<br>
-Governador<br>
-<br>
-AUGUSTO MAURÍCIO WANDERLEY<br>
-Secretário de Estado para Assuntos da Casa Civil<br>
-<br>
-CLAUDIONOR MIGUEL ABSS DUARTE<br>
+Pedro Pedrossian, Governador do Estado de Mato Grosso do Sul, faço
+
+saber que a Assembléia Legislativa decreta e eu sanciono a
+
+seguinte Lei:
+
+Art. 1º - Fica declarada de utilidade pública estadual a ASSOCIAÇãO
+
+DOS MORADORES DO JARDIM SANT'ANA, com sede no município de
+
+Dourados, neste Estado.
+
+Art. 2º - Esta lei entrará em vigor na data da sua pubIicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 16 de dezembro de 1.982.
+
+PEDRO PEDROSSIAN
+
+Governador
+
+AUGUSTO MAURÍCIO WANDERLEY
+
+Secretário de Estado para Assuntos da Casa Civil
+
+CLAUDIONOR MIGUEL ABSS DUARTE
+
 Secretário de Estado de Justiça

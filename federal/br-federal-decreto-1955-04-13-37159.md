@@ -1,38 +1,36 @@
-###DEC-037159-0-000-13-04-1955@@@
+**DECRETO Nº 37.159, DE 13 DE ABRIL DE 1955.**
 
-<strong>DECRETO Nº 37.159, DE 13 DE ABRIL DE 1955.</strong>
+***Aprova o Regimento da Divisão do Pessoal Civil (D.P.C.) do Ministério da Guerra.***
 
-<em><strong>Aprova o Regimento da Divisão do Pessoal Civil (D.P.C.) do Ministério da Guerra.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Divisão do Pessoal Civil (D.P.C.) do Ministério da Guerra, o qual com este baixa, assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Divisão do Pessoal Civil (D.P.C.) do Ministério da Guerra, o qual com este baixa, assinado pelo respectivo Ministro de Estado.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 13 de abril de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott
 
-<strong>REGIMENTO DA DIVISÃO DO PESSOAL CIVIL (D.P.C.) DO MINISTÉRIO DA GUERRA</strong>
+**REGIMENTO DA DIVISÃO DO PESSOAL CIVIL (D.P.C.) DO MINISTÉRIO DA GUERRA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
-<strong>Art</strong>. 1º A Divisão do Pessoal Civil (D.P.C.) do Ministério da Guerra, diretamente subordinada a Diretoria Geral do Pessoal, na forma do art. 3º do Decreto nº 31.210, de 29 de julho de 1952, tem por finalidade executar, orientar e fiscalizar a aplicação da legislação de pessoal civil, no Ministério.
+**Art**. 1º A Divisão do Pessoal Civil (D.P.C.) do Ministério da Guerra, diretamente subordinada a Diretoria Geral do Pessoal, na forma do art. 3º do Decreto nº 31.210, de 29 de julho de 1952, tem por finalidade executar, orientar e fiscalizar a aplicação da legislação de pessoal civil, no Ministério.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 2º A D.P.C. é constituída dos seguintes órgãos:
+**Art**. 2º A D.P.C. é constituída dos seguintes órgãos:
 
 \- Seção de Cadastro e Registro (S.C.R.).
 
@@ -40,19 +38,19 @@ Henrique Lott
 
 \- Seção de Movimentação (S.M.).
 
-<strong>Art</strong>. 3º A D.P.C. será chefiada por servidor civil, nomeado em comissão pelo Presidente da República.
+**Art**. 3º A D.P.C. será chefiada por servidor civil, nomeado em comissão pelo Presidente da República.
 
-<strong>Art</strong>. 4º O Chefe da Divisão terá um Assessor designado dentre servidores públicos.
+**Art**. 4º O Chefe da Divisão terá um Assessor designado dentre servidores públicos.
 
-<strong>Art</strong>. 5º As Seções serão chefiadas por servidores civis, designados pelo Chefe da Divisão.
+**Art**. 5º As Seções serão chefiadas por servidores civis, designados pelo Chefe da Divisão.
 
-<strong>Art</strong>. 6º Os órgãos que integram a D.P.C. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Chefe da Divisão.
+**Art**. 6º Os órgãos que integram a D.P.C. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Chefe da Divisão.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 7º - A S.C.R. compete:
+**Art**. 7º - A S.C.R. compete:
 
 I - Manter rigorosamente em dia o assentamento individual dos servidores civis do Ministério, a exceção do pessoal para obras e dos estipendiados por economias administrativas ou pelas rendas das seções comerciais, com indicação dos elementos de identificação, encargos de família, carreira ou série funcional, psicotécnica e quaisquer outros que se relacionem, direta ou indiretamente, com o exercício da função pública;
 
@@ -80,7 +78,7 @@ XII - Providenciar a imediata comunicação de aposentadoria dos servidores civi
 
 XIII - Expedir certidões de tempo de serviço aos servidores civis do Ministério, à vista dos assentamentos individuais existentes na Seção.
 
-<strong>Art</strong>. 8º À S.D.D. compete:
+**Art**. 8º À S.D.D. compete:
 
 I - Instruir os processos e prestar esclarecimentos necessários, relativamente a licenças em geral, inclusive a especial, aposentadoria, punições, elogios, fianças, cauções, montepio, previdência, auxílio-funeral e demais assuntos de legislação geral concernentes aos funcionários e extranumerários;
 
@@ -100,7 +98,7 @@ VIII - Instruir os processos relativos a Restos a Pagar ou a Exercícios findos;
 
 IX - Estudar a organização do cooperativismo e colaborar na sua incentivação.
 
-<strong>Art</strong>. 9º. À S.M. compete:
+**Art**. 9º. À S.M. compete:
 
 I - Organizar e manter em dia os fichários referentes aos cargos, carreiras, funções e séries funcionais pertencentes ao Ministério;
 
@@ -126,11 +124,11 @@ XI - Lavrar todos os atos relativos aos servidores, inclusive apostilas, efetuan
 
 XII - Coligir, nas épocas próprias, os dados necessários à elaboração da proposta orçamentária referente a pessoal, discriminando o número de carreiras e o de séries funcionais, bem como o de cargos e referências, com os seus respectivos vencimentos e salários.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 10. Ao Chefe da Divisão incumbe:
+**Art**. 10. Ao Chefe da Divisão incumbe:
 
 I - Dirigir, coordenar e fiscalizar os trabalhos da Divisão;
 
@@ -160,7 +158,7 @@ XIII - Propor a realização de serviço extraordinário;
 
 XIV - Apresentar, anualmente, ao Diretor-Geral do Pessoal do Ministério relatório dos trabalhos da Divisão.
 
-<strong>Art</strong>. 11. Aos Chefes de Seção incumbe:
+**Art**. 11. Aos Chefes de Seção incumbe:
 
 I - Orientar e fiscalizar os trabalhos da Seção;
 
@@ -180,31 +178,31 @@ VIII - Elogiar e aplicar pena disciplinar de representação, aos servidores da 
 
 IX - Apresentar, anualmente ao Chefe da Divisão, relatório das atividades da Seção.
 
-<strong>Art</strong>. 12. Ao Assessor incumbe:
+**Art**. 12. Ao Assessor incumbe:
 
 I - Auxiliar o Chefe da Divisão no exame dos assuntos que lhe forem submetidos para estudo e decisão e no preparo de despachos relativos ao expediente de rotina da Divisão;
 
 II - Representar o Chefe da Divisão, quando para isso designado.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 13. A D.P.C. terá a lotação aprovada em decreto.
+**Art**. 13. A D.P.C. terá a lotação aprovada em decreto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do HORÁRIO</em>
+*Do HORÁRIO*
 
-<strong>Art</strong>. 14. O horário normal de trabalho da D.P.C. será o estabelecido para o Serviço Público Civil.
+**Art**. 14. O horário normal de trabalho da D.P.C. será o estabelecido para o Serviço Público Civil.
 
 Parágrafo único. Não fica sujeito a ponto o Chefe da Divisão, devendo porém observar o número de horas prescrito pela Lei nº 2.188, de 3 de março de 1954.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 15. Serão substituídos, automaticamente, em seus impedimentos eventuais, até 30 dias:
+**Art**. 15. Serão substituídos, automaticamente, em seus impedimentos eventuais, até 30 dias:
 
 I - O Chefe da Divisão, pelo seu Assessor ou por um dos Chefes de Seção, mediante sua indicação, e designado pelo Diretor Geral do Pessoal;
 
@@ -212,12 +210,12 @@ II - Os Chefes de Seção por servidor de sua indicação, escolhido dentro da r
 
 Parágrafo único. Haverá sempre servidores previamente designados, para as substituições de que trata este artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 16. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos circulares, pareceres, portarias, ordens e instruções de serviço que digam respeito às suas atividades específicas.
+**Art**. 16. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos circulares, pareceres, portarias, ordens e instruções de serviço que digam respeito às suas atividades específicas.
 
 Rio de Janeiro, em 13 de abril de 1955.
 
-<strong>HENRIQUE LOTT</strong>
+**HENRIQUE LOTT**

@@ -1,5 +1,3 @@
-###DEC-053713-0-000-17-03-1964@@@
-
 DECRETO Nº 53.713, de 17 de março de 1964.
 
 Autoriza Macisa - Mineração da Amazônia, Comércio e Indústria S.A. a pesquisar cassiteria no município de Lábrea, Estado do Amazonas.

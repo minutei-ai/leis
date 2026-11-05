@@ -1,7 +1,3 @@
-1
-
-###DEC-002077-0-000-21-11-1996@@@
-
 DECRETO Nº 2.077, DE 21 DE NOVEMBRO DE 1996.
 
 Dá nova redação ao art. 33 do Decreto nº 1.204, de 29 de julho de 1994, que altera e consolida a regulamentação da Lei nº 8.031, de 12 de abril de 1990, que cria o Programa Nacional de Desestatização.

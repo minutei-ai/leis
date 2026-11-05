@@ -1,5 +1,3 @@
-###DEC-079819-0-000-15-06-1977@@@
-
 DECRETO Nº 79.819, DE 15 DE JUNHO DE 1977
 
 Revoga o Decreto nº 73.321, de 18 de dezembro de 1973.

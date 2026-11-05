@@ -1,5 +1,3 @@
-###DEC-092475-0-000-20-03-1986@@@
-
 DECRETO Nº 92.475, DE 20 DE MARÇO DE 1986
 
 Cria a Comissão Interministerial para propor uma Política de Ação Governamental para o Setor Leiteiro.

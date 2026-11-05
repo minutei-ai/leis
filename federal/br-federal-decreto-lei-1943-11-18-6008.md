@@ -1,5 +1,3 @@
-###DEL-006008-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 6.008 – DE 18 DE NOVEMBRO DE 1943
 
 Destaca a importância de Cr$ 9.110.289,80 para liquidação de dívidas relacionadas, e dá outras providências

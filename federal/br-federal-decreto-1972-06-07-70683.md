@@ -1,5 +1,3 @@
-###DEC-070683-0-000-07-06-1972@@@
-
 DECRETO Nº 70.683, DE 7 DE JUNHO DE 1972.
 
 Autoriza o funcionamento da Escola Superior de Administração de Negócios - São Bernardo do Campo - SP.

@@ -2,13 +2,17 @@ Modificada pelas Leis nº [3.771, de 09 de Agosto de 2021;](https://legis.ac.gov
 
 > **LEI Nº 3.742, DE 16 DE JUNHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a reabertura de prazo para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a reabertura de prazo para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
-**~~Art. 1º~~** ~~Ficam reabertos os prazos para pagamento do Imposto sobre a Propriedade de Veículos Automotores – IPVA, dispostos no art. 3º da Po~~~~rtaria nº 342, de 9 de dezembro de 2020, que “Aprova os valores de base de cálculo e estabelece prazo para pagamento do IPVA referente  ao exercício de 2021”, cujos vencimentos originais ocorreram no último dia útil dos meses de março e abril do corrente ano, com redução de cem por cento da multa e dos juros de mora e, ficam prorrogados os prazos para pagamento do IPVA, cujos vencimentos originais ocorrerão no último dia útil dos meses de maio, junho, julho e agosto do corrente ano, para o dia 20 de dezembro de 2021.~~
+**~~Art. 1º~~** ~~Ficam reabertos os prazos para pagamento do Imposto sobre a Propriedade de Veículos Automotores – IPVA, dispostos no art. 3º da Portaria nº 342, de 9 de dezembro de 2020, que “Aprova os valores de base de cálculo e estabelece prazo para pagamento do IPVA referente  ao exercício de 2021”, cujos vencimentos originais ocorreram no último dia útil dos meses de março e abril do corrente ano, com redução de cem por cento da multa e dos juros de mora e, ficam prorrogados os prazos para pagamento do IPVA, cujos vencimentos originais ocorrerão no último dia útil dos meses de maio, junho, julho e agosto do corrente ano, para o dia 20 de dezembro de 2021.~~
 
 **~~Art. 1º~~** ~~Ficam reabertos os prazos para pagamento do Imposto sobre a Propriedade de Veículos Automotores – IPVA, dispostos no art. 3º da Portaria nº 342, de 9 de dezembro de 2020, que “Aprova os valores de base de cálculo e estabelece prazo para pagamento do IPVA referente ao exercício de 2021”, para o dia 30 de agosto de 2021, cujos vencimentos originais ocorreram no último dia útil dos meses de janeiro, fevereiro, março e abril do corrente ano, com redução de cem por cento da multa e dos juros de mora e, ficam prorrogados os prazos para pagamento do IPVA, cujos vencimentos originais ocorrerão no último dia útil dos meses de maio, junho, julho e agosto do corrente ano, para o dia 20 de dezembro de 2021. (Redação dada pela Lei nº 3.771, de 09/08/2021)~~
 

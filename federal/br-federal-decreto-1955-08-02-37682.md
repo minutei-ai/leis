@@ -1,30 +1,28 @@
-###DEC-037682-0-000-02-08-1955@@@
+**DECRETO Nº 37.682, DE 2 DE AGÔSTO DE 1955.**
 
-<strong>DECRETO Nº 37.682, DE 2 DE AGÔSTO DE 1955.</strong>
+***Aprova o Regulamento para o fundo Naval.***
 
-<em><strong>Aprova o Regulamento para o fundo Naval.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado Regulamento para o Fundo Naval que com êste baixa assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado Regulamento para o Fundo Naval que com êste baixa assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 2 de agôsto de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Edmundo Jordão Amorim do Vale
 
-<strong>REGULAMENTO PARA O FUNDO NAVAL</strong>
+**REGULAMENTO PARA O FUNDO NAVAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos fins</em>
+*Dos fins*
 
-<strong>Art</strong>. 1º O Fundo Naval é uma soma de recursos financeiros cuja principal finalidade é a renovação do material flutuante da Marinha de Guerra (Decreto nº 20.923, de 8 de janeiro de 1932).
+**Art**. 1º O Fundo Naval é uma soma de recursos financeiros cuja principal finalidade é a renovação do material flutuante da Marinha de Guerra (Decreto nº 20.923, de 8 de janeiro de 1932).
 
 Parágrafo único. O Fundo Naval é também destinado (Lei nº 1.383, de 13 de junho de 1951):
 
@@ -32,7 +30,7 @@ a) à renovação da Marinha de Guerra em geral; e
 
 b) à construção do estaleiro de Jacuacanga.
 
-<strong>Art</strong>. 2º O Fundo Naval será aplicado (Decreto nº 20.923, de 8 de janeiro de 1932):
+**Art**. 2º O Fundo Naval será aplicado (Decreto nº 20.923, de 8 de janeiro de 1932):
 
 a) na aquisição de material flutuante, em geral, compatível com seus próprios recursos, e em quaisquer outras realizações e serviços que, a juízo do Ministro da Marinha se tornem necessários;
 
@@ -42,13 +40,13 @@ c) na aquisição de material fixo e móvel para a defesa dos portos, rios e lit
 
 d) nos serviços de socorros marítimos, faróis e balizamento.
 
-Parágrafo único. As aplicações constantes das alíneas <em>a</em> e <em>b</em> ficam sujeitas à aprovação do Presidente da República.
+Parágrafo único. As aplicações constantes das alíneas *a* e *b* ficam sujeitas à aprovação do Presidente da República.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da receita</em>
+*Da receita*
 
-<strong>Art</strong>. 3º A receita do Fundo Naval será constituída:
+**Art**. 3º A receita do Fundo Naval será constituída:
 
 a) das contribuições dos Governos Federal, Estaduais e Municipais, especialmente da dotação concedida pela Lei nº 1.383, de 13 de junho de 1951, para ser aplicada de acôrdo com êste Regulamento;
 
@@ -70,13 +68,13 @@ g) de outras rendas provenientes de estabelecimentos ou repartições de Marinha
 
 § 3º O Ministro da Marinha baixará instruções para a arrecadação da renda do Fundo Naval, por parte das repartições de Marinha, e decidirá sobre o recolhimento de que trata a letra g) dêste artigo.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Administração</em>
+*Da Administração*
 
-<strong>Art</strong>. 4º A administração do Fundo Naval ficará a cargo de uma Junta Administrativa constituída pelo Chefe do Estado maior da Armada, Secretário Geral da Marinha, e pelos Diretores Gerais, sob a orientação do Ministro da Marinha, que a presidirá sem direito a voto.
+**Art**. 4º A administração do Fundo Naval ficará a cargo de uma Junta Administrativa constituída pelo Chefe do Estado maior da Armada, Secretário Geral da Marinha, e pelos Diretores Gerais, sob a orientação do Ministro da Marinha, que a presidirá sem direito a voto.
 
-<strong>Art</strong>. 5º A Junta Administrativa reunir-se-á ordinàriamente uma vez por mês e extraordinàriamente, sempre que fôr necessário, por convocação do Ministro da Marinha.
+**Art**. 5º A Junta Administrativa reunir-se-á ordinàriamente uma vez por mês e extraordinàriamente, sempre que fôr necessário, por convocação do Ministro da Marinha.
 
 § 1º É obrigatória a presença da maioria dos membros para que a junta possa deliberar.
 
@@ -86,7 +84,7 @@ g) de outras rendas provenientes de estabelecimentos ou repartições de Marinha
 
 § 4º De tudo quanto ocorrer em cada reunião será lavrada uma ata, assinada por todos os membros presentes.
 
-<strong>Art</strong>. 6º À Junta Administrativa compete:
+**Art**. 6º À Junta Administrativa compete:
 
 a) aprovar, anualmente, o programa de realizações do Fundo Naval;
 
@@ -98,7 +96,7 @@ d) fiscalizar a arrecadação da receita e a aplicação da despêsa; e
 
 e) aprovar os empréstimos aos órgãos de assistência social da Marinha e quaisquer outras operações de crédito.
 
-<strong>Art</strong>. 7º Ao Presidente da Junta Administrativa compete:
+**Art**. 7º Ao Presidente da Junta Administrativa compete:
 
 a) autorizar as aquisições e os serviços que julgar necessários, bem como a respectiva despesa;
 
@@ -108,11 +106,11 @@ c) assinar, pessoalmente ou por delegação de poderes, os contratos em que o Fu
 
 d) convocar e presidir as reuniões da Junta Administrativa.
 
-<strong>Art</strong>. 8º À Divisão do Fundo Naval, do Departamento de Finanças da Secretaria Geral da Marinha, incumbem o expediente, a contabilidade e a tesouraria do Fundo Naval.
+**Art**. 8º À Divisão do Fundo Naval, do Departamento de Finanças da Secretaria Geral da Marinha, incumbem o expediente, a contabilidade e a tesouraria do Fundo Naval.
 
 Parágrafo único. Nas reuniões da Junta Administrativa, o Encarregado da Divisão do Fundo Naval exercerá as funções de Secretário.
 
-<strong>Art</strong>. 9º Ao Secretário Geral da Marinha, como assessor administrativo do Ministro da Marinha, compete a função de ser o seu principal assessor para a administração do Fundo Naval, cabendo-lhe:
+**Art**. 9º Ao Secretário Geral da Marinha, como assessor administrativo do Ministro da Marinha, compete a função de ser o seu principal assessor para a administração do Fundo Naval, cabendo-lhe:
 
 a) promover a requisição dos recursos previstos no artigo 2º;
 
@@ -124,19 +122,19 @@ d) fiscalizar a escrituração e o movimento financeiro do Fundo Naval; e
 
 e) providenciar os pagamentos autorizados pelo Presidente da Junta Administrativa.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 10. O numerário do fundo Naval será depositado no Banco do Brasil ou na Caixa Econômica.
+**Art**. 10. O numerário do fundo Naval será depositado no Banco do Brasil ou na Caixa Econômica.
 
-<strong>Art</strong>. 11. Poderá o Fundo Naval adquirir cambiais para suprir a Comissão Naval Brasileira em Washington dos recursos necessários para atender a compromissos no exterior.
+**Art**. 11. Poderá o Fundo Naval adquirir cambiais para suprir a Comissão Naval Brasileira em Washington dos recursos necessários para atender a compromissos no exterior.
 
-<strong>Art</strong>. 12. Poderá o Fundo naval conceder adiantamentos para custeio de obras e serviços da marinha, para evitar prejuízos decorrentes de atraso na distribuição ou processamento de verbas próprios, devendo êsses adiantamentos ser resgatados logo que cesse motivo de sua concessão.
+**Art**. 12. Poderá o Fundo naval conceder adiantamentos para custeio de obras e serviços da marinha, para evitar prejuízos decorrentes de atraso na distribuição ou processamento de verbas próprios, devendo êsses adiantamentos ser resgatados logo que cesse motivo de sua concessão.
 
 Rio de Janeiro, em 2 de agôsto de 1955.
 
-<strong>EDMUNDO JORDÃO AMORIM DO VALLE</strong>
+**EDMUNDO JORDÃO AMORIM DO VALLE**
 
 Vice-Almirante
 

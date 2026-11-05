@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d1d2f34b-421f-4abb-90bc-e2ef9f1f94ea/texto#nowhere)
 
-###DEL-000957-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 957, DE 13 DE OUTUBRO DE 1969
 
 Dá nova redação aos artigos 141, e seus parágrafos 1º e 3º, e 182, do Decreto-lei nº  728, de 4 de agôsto de 1969, que instituiu o Código de Vencimentos dos Militares

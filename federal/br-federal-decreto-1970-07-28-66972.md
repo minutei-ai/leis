@@ -1,5 +1,3 @@
-###DEC-066972-0-000-28-07-1970@@@
-
 DECRETO Nº 66.972, DE 28 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 39.164, de 14 de maio de 1956.

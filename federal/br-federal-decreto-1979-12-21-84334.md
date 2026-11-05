@@ -1,5 +1,3 @@
-###DEC-084334-0-000-21-12-1979@@@
-
 Decreto nº 84.334, de 21 de dezembro de 1979.
 
 Altera os Estatutos do Instituto de Resseguros do Brasil - IRB.

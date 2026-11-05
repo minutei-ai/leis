@@ -1,5 +1,3 @@
-###DEL-002223-0-000-07-01-1985@@@
-
 # DECRETO-lei Nº 2.223, dE 07 de janeIro de 1985
 
 Reajusta os vencimentos e proventos dos funcionários do Quadro das Secretarias das Seções Judiciárias da Justiça Federal de primeira Instância, bem como os das pensões e dá outras providências.

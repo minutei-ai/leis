@@ -1,5 +1,3 @@
-###DEC-052408-0-000-27-08-1963@@@
-
 DECRETO Nº 52.408, DE 27 DE AGÔSTO DE 1963.
 
 Institui Grupo de Trabalho para estudar a situação da indústria de charutos e propor medidas para a solução de seus problemas.

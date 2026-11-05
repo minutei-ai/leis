@@ -1,5 +1,3 @@
-###DEC-068560-0-000-28-04-1971@@@
-
 Decreto nº 68.560, de 28 de abril de 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no Estado da Paraíba.

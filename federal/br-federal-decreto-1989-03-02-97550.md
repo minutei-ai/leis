@@ -1,5 +1,3 @@
-###DEC-097550-0-000-02-03-1989@@@
-
 DECRETO N° 97.550, DE 2 DE MARÇO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município e Comarca de Guarujá, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A.  TELESP, e dá outras providências.

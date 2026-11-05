@@ -1,5 +1,3 @@
-###DEC-050637-0-000-20-05-1961@@@
-
 DECRETO Nº 50.637, DE 20 DE MAIO DE 1961.
 
 Cria Grupo Executivo de Coordenação do Crédito Rural (GECRE) e dá outras providências.

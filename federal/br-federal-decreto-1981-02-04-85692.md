@@ -1,5 +1,3 @@
-###DEC-085692-0-000-04-02-1981@@@
-
 DECRETO Nº 85.692, DE 04 DE FEVEREIRO DE 1981.
 
 Concede à ÁLCALIS DO RIO GRANDE DO NORTE S/A - ALCANORTE, autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

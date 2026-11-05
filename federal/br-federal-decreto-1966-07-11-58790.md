@@ -1,5 +1,3 @@
-###DEC-058790-0-000-11-07-1966@@@
-
 DECRETO Nº 58.790, DE 11 DE JULHO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da “Brasil”, Companhia de Seguros Gerais, relativa ao aumento do capital social.

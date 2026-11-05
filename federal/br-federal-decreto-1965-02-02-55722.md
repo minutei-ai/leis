@@ -1,5 +1,3 @@
-###DEC-055722-0-000-02-02-1965@@@
-
 DECRETO Nº 55.722, DE 2 DE FEVEREIRO DE 1965.
 
 Cria o Conselho Consultivo do Planejamento “CONSPLAN” - e dá outras providências.

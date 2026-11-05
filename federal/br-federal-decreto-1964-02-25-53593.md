@@ -1,5 +1,3 @@
-###DEC-053593-0-000-25-02-1964@@@
-
 DECRETO Nº 53.593, DE 25 DE FEVEREIRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, faixa de domínio necessária à construção de trechos da Rodovia BR-35.

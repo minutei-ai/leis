@@ -1,5 +1,3 @@
-###DEL-008119-0-000-19-10-1945@@@
-
 DECRETO-LEI N. 8.119 – DE 19 DE OUTUBRO DE 1945
 
 Estabelece as idades limites para a permanência no serviço ativo dos Oficiais combatentes e das Classes Anexas da Marinha de Guerra.

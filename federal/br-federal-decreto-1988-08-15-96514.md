@@ -1,5 +1,3 @@
-###DEC-096514-0-000-15-08-1988@@@
-
 DECRETO N° 96.514, DE 15 DE AGOSTO DE 1988
 
 Regulamenta a isenção do Imposto sobre Produtos Industrializados na aquisição de automóveis por pessoas portadoras de deficiência físico-paraplégica, prevista no item IV do art. 1.° da Lei n° 7.613, de 13 de julho de 1987.

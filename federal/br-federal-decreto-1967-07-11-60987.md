@@ -1,5 +1,3 @@
-###DEC-060987-0-000-11-07-1967@@@
-
 DECRETO Nº 60.987, DE 11 DE JULHO DE 1967.
 
 Reestrutura a Comissão Nacional para os Assuntos da Associação Latino-Americana de Livre Comércio e dá outras providências.

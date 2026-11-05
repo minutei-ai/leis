@@ -1,5 +1,3 @@
-###DEC-050031-0-000-24-01-1961@@@
-
 DECRETO Nº 50.031, DE 24 DE JANEIRO DE 1961.
 
 Concede à Quinderé Mineração e Indústria Limitada autorização para funcionar como emprêsa de mineração.

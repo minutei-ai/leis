@@ -1,5 +1,3 @@
-###DEC-087404-0-000-13-07-1982@@@
-
 DECRETO Nº 87.404, DE 13 DE JULHO DE 1982
 
 Altera a redação do Art. 11 do Decreto nº 85.633, de 8 de janeiro de 1981.

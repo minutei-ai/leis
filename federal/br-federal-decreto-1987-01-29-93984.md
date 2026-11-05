@@ -1,5 +1,3 @@
-###DEC-093984-0-000-29-01-1987@@@
-
 DECRETO N° 93.984, DE 29 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA MARAGATOS", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Água Boa, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 02 de maio de 1986, e dá outras providências.

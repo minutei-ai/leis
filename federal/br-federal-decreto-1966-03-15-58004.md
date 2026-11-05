@@ -1,5 +1,3 @@
-###DEC-058004-0-000-15-03-1966@@@
-
 DECRETO Nº 58.004, de 15 de março de 1966.
 
 Outorga concessão.

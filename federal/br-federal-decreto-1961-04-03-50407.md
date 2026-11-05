@@ -1,5 +1,3 @@
-###DEC-050407-0-000-03-04-1961@@@
-
 DECRETO Nº 50.407, DE 3 DE ABRIL DE 1961.
 
 Dispõe sôbre preferência para nomeação ou admissão no Serviço Civil do Poder Executivo e das Autarquias Federais do pessoal exonerado ou dispensado por fôrça do Decreto nº 50.284, de 21 de fevereiro de 1961.

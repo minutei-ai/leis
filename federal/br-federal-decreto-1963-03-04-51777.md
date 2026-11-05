@@ -1,5 +1,3 @@
-###DEC-051777-0-000-04-03-1963@@@
-
 DECRETO Nº 51.777, DE 4 DE MARÇO DE 1963.
 
 Autoriza a São Paulo Light S.A. – Serviços de Eletricidade a ampliar suas instalações.

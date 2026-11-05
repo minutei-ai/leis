@@ -1,5 +1,3 @@
-###DEC-048060-0-000-06-04-1960@@@
-
 DECRETO Nº 48.060, DE 6 DE ABRIL DE 1960.
 
 Aprova projeto e orçamento relativos à construção, em Salvador, Estado da Bahia, do primeiro trecho do prolongamento da avenida Jequitaia, em direção à Barra.

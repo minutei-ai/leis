@@ -1,5 +1,3 @@
-###DEL-004224-0-000-02-04-1942@@@
-
 DECRETO-LEI N. 4.224 – DE 2 DE ABRIL DE 1942
 
 Cria a 3ª Brigada de Infantaria com sede em Fortaleza

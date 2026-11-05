@@ -1,7 +1,3 @@
-1
-
-###DEC-098212-0-000-29-09-1989@@@
-
 DECRETO N° 98.212, DE 29 DE SETEMBRO DE 1989
 
 Altera o Regulamento sobre a Cobrança do Pedágio nas Rodovias Federais.

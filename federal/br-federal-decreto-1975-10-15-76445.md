@@ -1,5 +1,3 @@
-###DEC-076445-0-000-15-10-1975@@@
-
 Decreto Nº 76.445, DE 15 DE OUTUBRO DE 1975.
 
 Fixa o fator de reajustamento salarial relativo a outubro de 1975.

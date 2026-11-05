@@ -1,5 +1,3 @@
-###DEC-070053-0-000-26-01-1972@@@
-
 DECRETO Nº 70.053, DE 26 DE JANEIRO DE 1972.
 
 Concede à Cal-Química Mineração Indústria e Comércio Ltda., o direito de lavrar calcário, no Município de Formiga, Estado de Minas Gerais.

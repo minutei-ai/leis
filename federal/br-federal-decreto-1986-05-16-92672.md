@@ -1,5 +1,3 @@
-###DEC-092672-0-000-16-05-1986@@@
-
 DECRETO Nº 92.672, DE 16 DE MAIO DE 1986
 
 Outorga concessão à RÁDIO CACIQUE BRUENQUE DE REGENERAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Regeneração, Estado do Piauí.

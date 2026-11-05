@@ -1,5 +1,3 @@
-###DEC-046834-0-000-15-09-1959@@@
-
 decreto nº 46.834, de 15 de setembro de 1959.
 
 Autoriza o cidadão brasileiro Jacob Klabin Lafer a pesquisar ilmenita no município de Caraguatatuba, Estado de São Paulo.

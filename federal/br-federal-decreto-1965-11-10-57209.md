@@ -1,5 +1,3 @@
-###DEC-057209-0-000-10-11-1965@@@
-
 DECRETO Nº 57.209, DE 10 DE NOVEMBRO DE 1965.
 
 Abre crédito especial, pelo Ministério da Fazenda, de acôrdo com a autorização da Lei nº 4.670, de 12-6-65, e dá outras providências.

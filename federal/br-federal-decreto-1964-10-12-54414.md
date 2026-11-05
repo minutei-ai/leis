@@ -1,5 +1,3 @@
-###DEC-054414-0-000-12-10-1964@@@
-
 DECRETO Nº 54.414, DE 12 DE OUTUBRO DE 1964.
 
 Amplia a zona de concessão da Companhia de Eletrificação Centro-Norte do Ceará “CENORTE”.

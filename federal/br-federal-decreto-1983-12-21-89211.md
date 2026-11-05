@@ -1,5 +1,3 @@
-###DEC-089211-0-000-21-12-1983@@@
-
 Decreto nº 89.211, de 21 de dezembro de 1983
 
 Altera o Decreto nº 88.101, de 10 de fevereiro de 1983, que aprovou o Estatuto da Empresa Pública Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

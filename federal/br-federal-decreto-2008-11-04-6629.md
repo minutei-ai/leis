@@ -1,5 +1,3 @@
-###DEC-006629-0-000-04-11-2008@@@
-
 DECRETO Nº 6.629, DE 4 DE NOVEMBRO DE 2008.
 
 Regulamenta o Programa Nacional de Inclusão de Jovens - Projovem, instituído pela Lei no 11.129, de 30 de junho de 2005, e regido pela Lei no 11.692, de 10 de junho de 2008, e dá outras providências.

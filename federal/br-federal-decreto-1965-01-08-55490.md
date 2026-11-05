@@ -1,5 +1,3 @@
-###DEC-055490-0-000-08-01-1965@@@
-
 DECRETO Nº 55.490, DE 8 DE JANEIRO DE 1965.
 
 Transforma o Consulado Privativo do Brasil em Cobija, Bolívia, em Consulado Honorário.

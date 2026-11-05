@@ -1,5 +1,3 @@
-###DEC-045238-0-000-15-01-1959@@@
-
 DECRETO Nº 45.238, DE 15 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Isidoro Dequech a pesquisar quartzo no município de Tubarão, Estado de Santa Catarina.

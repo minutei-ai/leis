@@ -1,5 +1,3 @@
-###DEC-087740-0-000-25-10-1982@@@
-
 Decreto nº 87.740, de 25 de outubro de 1982
 
 Cria, no Estado de Rondônia, a Procuradoria da República.

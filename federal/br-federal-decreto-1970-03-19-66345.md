@@ -1,5 +1,3 @@
-###DEC-066345-0-000-19-03-1970@@@
-
 DECRETO Nº 66.345 - DE 19 DE MARÇO DE 1970
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Blumenau, com sede em Blumenau, Estado de Santa Catarina.

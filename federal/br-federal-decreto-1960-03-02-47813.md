@@ -1,5 +1,3 @@
-###DEC-047813-0-000-02-03-1960@@@
-
 Decreto nº 47.813, de 2 de março de 1960.
 
 Institui o Serviço Nacional de Recenseamento e dá outras providências.

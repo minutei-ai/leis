@@ -1,5 +1,3 @@
-###DEC-070308-0-000-21-03-1972@@@
-
 DECRETO Nº 70.308, DE 21 DE MARÇO DE 1972.
 
 Torna sem efeito aproveitamento, no Quadro de Pessoal do Ministério dos Transportes, de servidores disponíveis do Instituto de Previdência e Assistência dos Servidores do Estado e cassa a disponibilidade dos mesmos.

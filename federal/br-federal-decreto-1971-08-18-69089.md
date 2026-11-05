@@ -1,5 +1,3 @@
-###DEC-069089-0-000-18-08-1971@@@
-
 DECRETO Nº 69.089, de 18 de Agosto de 1971.
 
 Concede à Companhia de Cimento Portland Poty o direito de lavrar fosforita no município de João Pessoa, Estado da Paraíba.

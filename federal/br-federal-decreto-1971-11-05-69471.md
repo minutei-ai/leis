@@ -1,5 +1,3 @@
-###DEC-069471-0-000-05-11-1971@@@
-
 DECRETO Nº 69.471 - DE 5 DE NOVEMBRO DE 1971
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 51.741, de 22 de fevereiro de 1963, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "Araci", no município de Araci, Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001743-0-000-08-12-1995@@@
-
 DECRETO N° 1.743, DE 8 DE DEZEMBRO DE 1995.
 
 Promulga o Acordo, por troca de Notas, Relativo ao Exercício de Atividades Remuneradas por Parte de Dependência do Pessoal Diplomático, Consular, Administrativo e Técnico, entre o Governo da República Federativa do Brasil e o Governo do Reino da Dinamarca, de 22 de março de 1994.

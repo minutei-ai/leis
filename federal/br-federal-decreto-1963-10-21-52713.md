@@ -1,5 +1,3 @@
-###DEC-052713-0-000-21-10-1963@@@
-
 DECRETO Nº 52.713, DE 21 DE OUTUBRO DE 1963.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Itajaí (SC.)

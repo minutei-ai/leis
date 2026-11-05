@@ -8,7 +8,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º Este Decreto estabelece o regramento de transição de que trata o art. 191 da Lei federal nº 14.133 (Lei de Licitações e Contratos Administrativos), de 1º de abril de 2021, na administração pública direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.
 
- Art. 2º  Os processos licitatórios, as contratações diretas e os procedimentos do sistema de registro de preços autuados no Sistema Eletrônico de Informações - SEI instruídos até 31 de março de 2023 com a opção por licitar expressa nos fundamentos das Leis federais nº 8.666, de 21 de junho de 1993, nº 10.520, de 17 de julho de 2002, e nº 12.462, de 4 de agosto de 2011, arts. 1º a 47-A, serão por elas regidos, desde que as respectivas publicações ocorram até 31 de dezembro de 2023, conforme o Anexo Único deste Decreto.<br>
+ Art. 2º  Os processos licitatórios, as contratações diretas e os procedimentos do sistema de registro de preços autuados no Sistema Eletrônico de Informações - SEI instruídos até 31 de março de 2023 com a opção por licitar expressa nos fundamentos das Leis federais nº 8.666, de 21 de junho de 1993, nº 10.520, de 17 de julho de 2002, e nº 12.462, de 4 de agosto de 2011, arts. 1º a 47-A, serão por elas regidos, desde que as respectivas publicações ocorram até 31 de dezembro de 2023, conforme o Anexo Único deste Decreto.
+
 [\- Redação dada pelo Decreto nº 10.246, de 30-03-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246)
 
 ~~Art. 2º Os processos licitatórios, as contratações diretas e os procedimentos do sistema de registro de preços autuados no Sistema Eletrônico de Informações - SEI instruídos até 31 de março de 2023 com a opção por licitar expressa nos fundamentos das Leis federais nº 8.666, de 1993, nº 10.520, de 17 de julho de 2002, e dos arts. 1º a 47-A da Lei federal nº 12.462, de 4 de agosto de 2011, serão por elas regidos, desde que as respectivas publicações ocorram até 1º de abril de 2024, conforme o Anexo Único deste Decreto.~~
@@ -33,15 +34,14 @@ Art. 8º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 20 de março de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-CRONOGRAMA PARA A UTILIZAÇÃO DAS LEIS FEDERAIS Nº 8.666, DE 1993,<br>
+CRONOGRAMA PARA A UTILIZAÇÃO DAS LEIS FEDERAIS Nº 8.666, DE 1993,
+
 Nº 10.520, DE 2002, E DOS ARTS. 1º a 47-A DA LEI FEDERAL Nº 12.462, DE 2011
 
 | Rito  | Descrição  | Prazo para a assinatura da Requisição de Despesas ou da Solicitação de Bens e Serviços  | Prazo para a publicação no COMPRASNET.GO | Prazo para a publicação do aviso ou da ratificação no Diário Oficial do Estado  |
@@ -49,20 +49,34 @@ Nº 10.520, DE 2002, E DOS ARTS. 1º a 47-A DA LEI FEDERAL Nº 12.462, DE 2011
 | 1) Licitação   | Todas as modalidades de licitação previstas nas Leis federais nº 8.666, de 1993, nº 10.520, de 2002, e nº 12.462, de 2011, inclusive licitações para registro de preços   |
 Até 31 de março de 2023  
 
- | Até 31 de dezembro de 2023, às 18h<br>
-[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º[<br>
-](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246)~~Até 1º de abril de 2024, às 18h~~   | Até 31 de dezembro de 2023<br>
-[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º **<br>**~~Até 1º de abril de 2024~~   |
-| 2) Contratação direta por valor   | Abrange as dispensas de licitação em razão do valor, processadas por meio de "Compra Direta" no COMPRASNET.GO | Até 31 de março de 2023   | Até 31 de dezembro de 2023, às 18h<br>
-[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º[<br>
+ | Até 31 de dezembro de 2023, às 18h
+
+[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º[
+
+](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246)~~Até 1º de abril de 2024, às 18h~~   | Até 31 de dezembro de 2023
+
+[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º **
+**~~Até 1º de abril de 2024~~   |
+| 2) Contratação direta por valor   | Abrange as dispensas de licitação em razão do valor, processadas por meio de "Compra Direta" no COMPRASNET.GO | Até 31 de março de 2023   | Até 31 de dezembro de 2023, às 18h
+
+[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º[
+
 ](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246)~~Até 1º de abril de 2024, às 18h~~  | Não se aplica |
-| 3) Outras dispensas   | Todas as dispensas de licitação não abrangidas pelo item 2 | Até 31 de março de 2023   | Até 31 de dezembro de 2023, às 18h<br>
-[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º[<br>
-](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246)~~Até 1º de abril de 2024, às 18h~~  | Até 31 de dezembro de 2023<br>
-[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º<br>
+| 3) Outras dispensas   | Todas as dispensas de licitação não abrangidas pelo item 2 | Até 31 de março de 2023   | Até 31 de dezembro de 2023, às 18h
+
+[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º[
+
+](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246)~~Até 1º de abril de 2024, às 18h~~  | Até 31 de dezembro de 2023
+
+[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º
+
 ~~Até 1º de abril de 2024~~ |
-| 4) Inexigibilidade   | Todas as inexigibilidades | Até 31 de março de 2023   | Até 31 de dezembro de 2023, às 18h<br>
-[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º[<br>
-](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246)~~Até 1º de abril de 2024, às 18h~~  | Até 31 de dezembro de 2023<br>
-[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º<br>
+| 4) Inexigibilidade   | Todas as inexigibilidades | Até 31 de março de 2023   | Até 31 de dezembro de 2023, às 18h
+
+[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º[
+
+](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246)~~Até 1º de abril de 2024, às 18h~~  | Até 31 de dezembro de 2023
+
+[\- Redação dada pelo Decreto nº 10.246, de 30-03-2023,](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106876/decreto-10246) art. 2º
+
 ~~Até 1º de abril de 2024~~ |

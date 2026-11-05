@@ -1,5 +1,3 @@
-###DEC-090161-0-000-10-09-1984@@@
-
 Decreto nº 90.161, de 10 de setembro de 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, Situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro; Recife, Estado de Pernambuco e Florianópolis, Estado de Santa Catarina.

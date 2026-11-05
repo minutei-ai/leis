@@ -1,5 +1,3 @@
-###DEL-000313-0-000-07-03-1967@@@
-
 DECreto-LEI Nº 313, DE 7 DE MARÇO DE 1967
 
 Cria, no Corpo de Oficiais da Aeronáutica da Ativa, o Quadro de Oficiais-Engenheiros e sua respectiva reserva.
@@ -84,7 +82,33 @@ Da Constituição e do Acesso no Q. O. Eng.
 
 Art. 7º O Quadro de Oficiais Engenheiros terá a seguinte constituição inicial:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:327.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major-Brigadeiro ....................................................................................</span></p></td><td style="width:76.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td></tr><tr><td style="width:327.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brigadeiro .............................................................................................</span></p></td><td style="width:76.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td></tr><tr><td style="width:327.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel .................................................................................................</span></p></td><td style="width:76.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>16</span></p></td></tr><tr><td style="width:327.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tenente-Coronel ....................................................................................</span></p></td><td style="width:76.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>32</span></p></td></tr><tr><td style="width:327.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major ....................................................................................................</span></p></td><td style="width:76.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>50</span></p></td></tr><tr><td style="width:327.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitão .................................................................................................</span></p></td><td style="width:76.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>100</span></p></td></tr><tr><td style="width:327.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º Tenente ............................................................................................</span></p></td><td style="width:76.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>variável</span></p></td></tr></tbody></table>
+Major-Brigadeiro ....................................................................................
+
+1
+
+Brigadeiro .............................................................................................
+
+2
+
+Coronel .................................................................................................
+
+16
+
+Tenente-Coronel ....................................................................................
+
+32
+
+Major ....................................................................................................
+
+50
+
+Capitão .................................................................................................
+
+100
+
+1º Tenente ............................................................................................
+
+variável
 
 Parágrafo único. As especialidades de engenharia no Quadro de Oficiais Engenheiros serão fixadas por decreto, de forma a atender às necessidades de engenharia do Ministério da Aeronáutica, dentro de 10 (dez) dias, a partir da publicação dêste Decreto-lei.
 

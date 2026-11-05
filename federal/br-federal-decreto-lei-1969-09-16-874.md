@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1ddada7c-aa09-4bb9-a630-be5d9bdc13be/texto#nowhere)
 
-###DEL-000874-0-000-16-09-1969@@@
-
 DECRETO-LEI Nº 874, DE 16 DE SETEMBRO DE 1969
 
 Provê sôbre a inclusão obrigatória do titular da Diretoria do Ensino Superior na composição do Conselho Federal de Educação.

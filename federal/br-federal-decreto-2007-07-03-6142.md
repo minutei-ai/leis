@@ -1,5 +1,3 @@
-###DEC-006142-0-000-03-07-2007@@@
-
 DECRETO Nº 6.142, DE 3 DE JULHO DE 2007.
 
 Promulga o Vigésimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica no 35, entre os Governos dos Estados Partes do Mercosul e o Governo da República do Chile, de 19 de outubro de 1999.
@@ -22,11 +20,7 @@ Brasília, 3 de julho de 2007; 186º da Independência e 119º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimaraes Neto
-
-Este texto não substitui o publicado no DOU de 4.7.2007
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 35 CELEBRADO ENTRE OS
+Samuel Pinheiro Guimaraes NetoACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 35 CELEBRADO ENTRE OS
 
 GOVERNOS DOS ESTADOS PARTES DO MERCOSUL E O GOVERNO DA REPÚBLICA DO CHILE
 

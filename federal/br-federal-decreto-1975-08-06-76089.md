@@ -1,5 +1,3 @@
-###DEC-076089-0-000-06-08-1975@@@
-
 DECRETO Nº 76.089 - de 6 de agosto de 1975
 
 Dispõe sobre a constituição do Conselho de Administração da Superintendência da Zona Franca de Manaus (SUFRAMA), e dá outras providências.

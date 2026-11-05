@@ -1,5 +1,3 @@
-###DEC-079392-0-000-15-03-1977@@@
-
 DECRETO Nº 79.392, de 15 DE março DE 1977.
 
 Revoga o Decreto que outorgou concessão à Universidade Federal de Santa Maria para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade de Santa Maria, Estado do Rio Grande do Sul.

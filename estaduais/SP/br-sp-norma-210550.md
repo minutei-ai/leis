@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210550)<br>
-
 # DECRETO N° 69.323, DE 22 DE JANEIRO DE 2025
 
 ### _Altera o Decreto n° 62.242, de 31 de outubro de 2016, que dispõe sobre o Regulamento do Fundo de Combate e Erradicação da Pobreza - FECOEP._

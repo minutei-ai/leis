@@ -1,5 +1,3 @@
-###DEL-004419-0-000-29-06-1942@@@
-
 DECRETO-LEI N. 4.419 – DE 29 DE JUNHO DE 1942
 
 Cria cargos no Quadro Permanente do Ministério da Fazenda e dá outras providências.

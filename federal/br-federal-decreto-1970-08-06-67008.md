@@ -1,5 +1,3 @@
-###DEC-067008-0-000-06-08-1970@@@
-
 DECRETO Nº 67.008, DE 6 DE AGÔSTO DE 1970.
 
 Declara caduco o Decreto nº 30.074, de 17 de outubro de 1951.

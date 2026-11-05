@@ -1,5 +1,3 @@
-###DEC-057896-0-000-28-02-1966@@@
-
 DECRETONº 57.896, de 28 de fevereiro de 1966.
 
 Altera os artigos 3º, 4º e 5º do Regimento do Departamento Econômico do Ministério da Agricultura, aprovado pelo Decreto nº 52.663, de 11 de outubro de 1963.

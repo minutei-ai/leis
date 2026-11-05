@@ -1,5 +1,3 @@
-###DEC-052474-0-000-13-09-1963@@@
-
 DECRETO N 52.474, DE 13 DE SETEMBRO DE 1963.
 
 Dispõe sôbre remuneração e vantagens dos operários navais do Lloyd Brasileiro P.N. e Companhia Nacional de Navegação Costeira.

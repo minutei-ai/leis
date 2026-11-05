@@ -1,5 +1,3 @@
-###DEL-006739-0-000-26-07-1944@@@
-
 DECRETO-LEI N. 6.739 – DE 26 DE Julho DE 1944,
 
 Dispõe sôbre a locação de imóveis

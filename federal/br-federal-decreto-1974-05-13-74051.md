@@ -1,5 +1,3 @@
-###DEC-074051-0-000-13-05-1974@@@
-
 DECRETO Nº 74.051, DE 13 DE MAIO DE 1974.
 
 Autoriza a transferência para o patrimônio do Instituto Nacional de Colonização e Reforma Agrária (INCRA) do imóvel que menciona, situado no Município de Cruz do Espírito Santo, Estado da Paraíba.

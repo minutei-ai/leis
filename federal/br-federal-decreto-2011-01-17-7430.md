@@ -1,5 +1,3 @@
-###DEC-007430-0-000-17-01-2011-PUB-01@@@
-
 DECRETO Nº 7.430, DE 17 DE JANEIRO DE 2011
 
 Dispõe sobre a transferência do Arquivo Nacional e do Conselho Nacional de Arquivos - CONARQ da Casa Civil da Presidência da República para o Ministério da Justiça.

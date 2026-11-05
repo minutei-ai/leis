@@ -1,5 +1,3 @@
-###DEL-006646-0-000-29-06-1944@@@
-
 DECRETO-LEI N. 6.646 – DE 29 DE JUNHO DE 1944
 
 Aprova o programa quadrienal apresentado pelo Departamento Nacional de Estradas de Ferro para execução das ligações ferroviárias do norte com o sul do país, abre o crédito especial de Cr$ 60.000.000,00 e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-007111-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.111– DE 4 DE DEZEMBRO DE 1944
 
 Prorroga o prazo a que se refere o art. 2º do Decreto-lei nº 6.589, de 15 de junho de l944

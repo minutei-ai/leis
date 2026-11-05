@@ -1,5 +1,3 @@
-###DEC-003386-0-000-17-03-2000@@@
-
 DECRETO Nº 3.386, DE 17 DE MARÇO DE 2000.
 
 Dispõe sobre a subordinação da Diretoria do Serviço Geográfico, Órgão de Apoio do Exército Brasileiro.

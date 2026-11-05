@@ -1,5 +1,3 @@
-###DEC-045000-0-000-04-12-1958@@@
-
 DECRETO Nº 45.000, DE 4 DE DEZEMBRO DE 1958.
 
 Modifica o Decreto nº 36.512, de 1 de dezembro de 1954, que fixa a composição da Delegação Brasileira da Comissão Militar Mista Brasil-Estados Unidos e na Comissão Mista de Defesa Brasil-Estados Unidos.

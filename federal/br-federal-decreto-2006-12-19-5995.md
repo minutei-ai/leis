@@ -1,5 +1,3 @@
-###DEC-005995-0-000-19-12-2006@@@
-
 DECRETO Nº 5.995 DE 19 DE DEZEMBRO DE 2006.
 
 Institui o Sistema de Gestão do Projeto de Integração do Rio São Francisco com as Bacias Hidrográficas do Nordeste Setentrional, e dá outras providências.
@@ -265,5 +263,3 @@ Brasília, 19 de dezembro de 2006; 185º da Independência e 118º da República
 LUIZ INÁCIO LULA DA SILVA
 
         Pedro Brito do Nascimento
-
-Este texto não substitui o publicado no DOU de 20.12.2006.

@@ -1,5 +1,3 @@
-###DEC-000800-0-000-20-04-1993@@@
-
 DECRETO N° 800, DE 20 DE ABRIL DE 1993
 
 Dá nova redação aos incisos I e II do art. 10 do Decreto n° 455, de 26 de fevereiro de 1992.

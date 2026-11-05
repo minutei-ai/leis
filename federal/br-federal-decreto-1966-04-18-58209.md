@@ -1,5 +1,3 @@
-###DEC-058209-0-000-18-04-1966@@@
-
 DECRETO Nº 58.209, DE 18 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Luiz Rodrigues Pereira a pesquisar cassiterita no Município de Carandaí, Estado de Minas Gerais.

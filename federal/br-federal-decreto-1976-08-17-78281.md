@@ -1,5 +1,3 @@
-###DEC-078281-0-000-17-08-1976@@@
-
 DECRETO Nº 78.281, DE 17 DE AGOSTO DE 1976
 
 Fixa o fator de reajustamento salarial relativo a agosto de 1973

@@ -1,5 +1,3 @@
-###DEC-083442-0-000-10-05-1979@@@
-
 o decreto de nº 83.442, de 10 de maio de 1979.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona situado no Município de Aracaju, Estado de Sergipe.

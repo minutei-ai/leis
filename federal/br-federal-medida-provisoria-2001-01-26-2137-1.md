@@ -1,5 +1,3 @@
-###MPV-002137-0-001-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.137-1, DE 26 DE JANEIRO DE 2001.
 
 Acresce e altera dispositivos da Lei nº 8.974, de 5 de janeiro de 1995, e dá outras providências.

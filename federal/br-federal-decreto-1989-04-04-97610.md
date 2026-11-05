@@ -1,7 +1,3 @@
-1
-
-###DEC-097610-0-000-04-04-1989@@@
-
 DECRETO N° 97.610, DE 04 DE ABRIL DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado ”BITIUA FAZENDAS REUNIDAS LTDA”., classificado como “latifúndio por exploração”, situado no Município de Bacuri, no Estado do Maranhão, compreendido na zona prioritária, fixada pelo Decreto n° 92.619, de 02 de maio de 1986, e dá outras providências.

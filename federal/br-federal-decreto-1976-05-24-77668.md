@@ -1,5 +1,3 @@
-###DEC-077668-0-000-24-05-1976@@@
-
 Decreto nº 77.668, de 24 de maio de 1976
 
 Dispõe sobre o enquadramento de cargos do Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE).

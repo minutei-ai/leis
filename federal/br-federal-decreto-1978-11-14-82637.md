@@ -1,5 +1,3 @@
-###DEC-082637-0-000-14-11-1978@@@
-
 Decreto nº 82.637, de 14 de novembro de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Vitória, Estado do Espírito Santo.

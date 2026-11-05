@@ -1,5 +1,3 @@
-###DEC-045923-0-000-29-04-1959@@@
-
 DECRETO Nº 45.923, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Fitos Mimotto, a pesquisar dolomita, xisto argiloso, no município de Santana do Parnaíba, Estado de São Paulo.

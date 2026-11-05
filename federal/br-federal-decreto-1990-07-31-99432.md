@@ -1,7 +1,3 @@
-1
-
-###DEC-099432-0-000-31-07-1990@@@
-
 DECRETO N° 99.432, DE 31 DE JULHO DE 1990
 
 Revoga o Decreto n° 49.331, de 24 de novembro de 1960, que regulamenta o abas­tecimento nacional de petróleo, de que trata o art. 3° da Lei n° 2.004, de 3 de outubro de 1953, no que diz respeito a produção de óleos e de graxas lubrificantes, derivados de petróleo.

@@ -1,5 +1,3 @@
-###DEL-002247-0-000-21-02-1985@@@
-
 # DECRETO-LEI Nº 2.247, DE 21 DE FEVEREIRO DE 1985
 
 Estende a isenção de impostos prevista no artigo 1º do Decreto-lei nº 2.044, de 7 de julho de 1983, às hipóteses que indica.

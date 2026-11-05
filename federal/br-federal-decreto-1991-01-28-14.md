@@ -1,5 +1,3 @@
-###DEC-000014-0-000-28-01-1991@@@
-
 DECRETO N° 14, DE 28 DE JANEIRO DE 1991
 
 Altera dispositivos do Decreto n° 99.659, de  31 de outubro de 1990.

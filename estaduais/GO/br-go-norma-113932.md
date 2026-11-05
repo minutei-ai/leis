@@ -16,22 +16,184 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2800 - SECRETARIA DA SAÚDE</b><br>2801 - GABINETE DO SECRETARIO DA SAUDE</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS</td><td style=" width:85px;    ">10 128 1043 2520</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 693.000,00</td><td style=" width:85px;    ">R$ 700.000,00</td><td style=" width:85px;    ">R$ 1.393.000,00</td></tr></tbody></table>
+**2800 - SECRETARIA DA SAÚDE**
+2801 - GABINETE DO SECRETARIO DA SAUDE
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">26010233</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 12.421.000,00</td><td style=" width:85px;    ">R$ 744.482,20</td><td style=" width:85px;    ">R$ 13.165.482,20</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO</b><br>3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DOS SERVIÇOS DAS ESCOLAS DO FUTURO DO ESTADO DE GOIÁS</td><td style=" width:85px;    ">12 363 1054 2390</td><td style=" width:85px;    ">27060001</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 190.850,00</td><td style=" width:85px;    ">R$ 190.850,00</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DO MOBILIÁRIO DA ESCOLA DO FUTURO DO ESTADO DE GOIÁS</td><td style=" width:85px;    ">12 363 1054 3194</td><td style=" width:85px;    ">27060002</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 279.467,00</td><td style=" width:85px;    ">R$ 279.467,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE OBRAS DE ARTE EM RODOVIAS - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 3292</td><td style=" width:85px;    ">27000290</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 772.607,39</td><td style=" width:85px;    ">R$ 772.607,39</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 700.000,00</td></tr><tr><td style=" width:340px;    ">26010233 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 744.482,20</td></tr><tr><td style=" width:340px;    ">27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 772.607,39</td></tr><tr><td style=" width:340px;    ">27060001 - TRANSFERÊNCIA ESPECIAL DA UNIÃO - CORRENTE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 190.850,00</td></tr><tr><td style=" width:340px;    ">27060002 - TRANSFERÊNCIA ESPECIAL DA UNIÃO - CAPITAL - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 279.467,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 2.687.406,59</td></tr></tbody></table>
+**SALDO ATUALIZADO**
+
+QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS
+
+10 128 1043 2520
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 693.000,00
+
+R$ 700.000,00
+
+R$ 1.393.000,00
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+26010233
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 12.421.000,00
+
+R$ 744.482,20
+
+R$ 13.165.482,20
+
+**3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO**
+3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DOS SERVIÇOS DAS ESCOLAS DO FUTURO DO ESTADO DE GOIÁS
+
+12 363 1054 2390
+
+27060001
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 190.850,00
+
+R$ 190.850,00
+
+AQUISIÇÃO DO MOBILIÁRIO DA ESCOLA DO FUTURO DO ESTADO DE GOIÁS
+
+12 363 1054 3194
+
+27060002
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 279.467,00
+
+R$ 279.467,00
+
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO DE OBRAS DE ARTE EM RODOVIAS - GOIÁS EM MOVIMENTO
+
+26 782 1055 3292
+
+27000290
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 772.607,39
+
+R$ 772.607,39
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 700.000,00
+
+26010233 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 744.482,20
+
+27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 772.607,39
+
+27060001 - TRANSFERÊNCIA ESPECIAL DA UNIÃO - CORRENTE - EXERCÍCIOS ANTERIORES
+
+R$ 190.850,00
+
+27060002 - TRANSFERÊNCIA ESPECIAL DA UNIÃO - CAPITAL - EXERCÍCIOS ANTERIORES
+
+R$ 279.467,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 2.687.406,59

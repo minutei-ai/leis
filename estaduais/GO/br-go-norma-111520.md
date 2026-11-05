@@ -16,22 +16,40 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td colspan="8" style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:100%;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr><tr><td style=" width:13%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:13%;    ">PROJETOS E ATIVIDADES NA ÁREA DA SAÚDE DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td style=" width:12%;    ">10 122 0300 3363</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 36.919.869,43</td><td style=" width:12%;    ">R$ 38.487,94</td><td style=" width:12%;    ">R$ 36.958.357,37</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2850-FUNDO ESTADUAL DE SAÚDE - FES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>PROJETOS E ATIVIDADES NA ÁREA DA SAÚDE DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td>10 122 0300 3363</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 36.919.869,43</td><td>R$ 38.487,94</td><td>R$ 36.958.357,37</td></tr></tbody></table>
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td colspan="8" style=" width:100%;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr><tr><td style=" width:13%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:13%;    ">PROJETOS E ATIVIDADES NA ÁREA DA EDUCAÇÃO, DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td style=" width:12%;    ">12 122 0300 3362</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 12.579.637,06</td><td style=" width:12%;    ">R$ 750.000,00</td><td style=" width:12%;    ">R$ 13.329.637,06</td></tr><tr><td style=" width:13%;    ">PROJETOS E ATIVIDADES NA ÁREA DA EDUCAÇÃO, DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td style=" width:12%;    ">12 122 0300 3362</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 11.225.328,61</td><td style=" width:12%;    ">R$ 911.512,06</td><td style=" width:12%;    ">R$ 12.136.840,67</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO** 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>PROJETOS E ATIVIDADES NA ÁREA DA EDUCAÇÃO, DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td>12 122 0300 3362</td><td>15000100</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 12.579.637,06</td><td>R$ 750.000,00</td><td>R$ 13.329.637,06</td></tr><tr><td>PROJETOS E ATIVIDADES NA ÁREA DA EDUCAÇÃO, DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td>12 122 0300 3362</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 11.225.328,61</td><td>R$ 911.512,06</td><td>R$ 12.136.840,67</td></tr></tbody></table>
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 1.700.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 1.700.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.700.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.700.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td colspan="8" style=" width:100%;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:100%;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr><tr><td style=" width:13%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:13%;    ">PROJETOS E ATIVIDADES NA ÁREA DA SAÚDE DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td style=" width:12%;    ">10 122 0300 3363</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 7.645.892,56</td><td style=" width:12%;    ">R$ 1.700.000,00</td><td style=" width:12%;    ">R$ 1.700.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**2850-FUNDO ESTADUAL DE SAÚDE - FES**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>PROJETOS E ATIVIDADES NA ÁREA DA SAÚDE DECORRENTES DE EMENDAS PARLAMENTARES IMPOSITIVAS - LOA 2025</td><td>10 122 0300 3363</td><td>15000100</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 7.645.892,56</td><td>R$ 1.700.000,00</td><td>R$ 1.700.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 1.700.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 1.700.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 1.700.000,00
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 1.700.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 1.700.000,00</td></tr></tbody></table>
+**TOTAL**
+
+R$ 1.700.000,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.700.000,00
+
+**TOTAL**
+
+R$ 1.700.000,00

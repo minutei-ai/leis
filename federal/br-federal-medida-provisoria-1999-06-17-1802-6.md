@@ -1,5 +1,3 @@
-###MPV-001802-0-006-17-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.802-6 DE 17 DE JUNHO DE 1999.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

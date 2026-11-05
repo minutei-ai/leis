@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211779)<br>
-
 # DECRETO N° 70.060, DE 05 DE NOVEMBRO DE 2025
 
 ### _Revoga o Decreto n° 67.004, de 28 de julho de 2022._

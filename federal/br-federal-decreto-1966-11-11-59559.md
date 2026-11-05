@@ -1,5 +1,3 @@
-###DEC-059559-0-000-11-11-1966@@@
-
 DECRETO Nº 59.559, DE 11 DE NOVEMBRO DE 1966.
 
 Concede à Estância Valinhos Limitada autorização para funcionar como emprêsa de mineração.

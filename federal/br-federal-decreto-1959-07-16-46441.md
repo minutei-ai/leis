@@ -1,5 +1,3 @@
-###DEC-046441-0-000-16-07-1959@@@
-
 DECRETO Nº 46.441, DE 16 DE JULHO DE 1959.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 31.362, de 1 de setembro de 1952, para fins de desapropriação, pelo Departamento Nacional de Obras situada no Município de Tauá, Estado do Ceará.

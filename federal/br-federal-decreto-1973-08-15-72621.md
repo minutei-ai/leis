@@ -1,5 +1,3 @@
-###DEC-072621-0-000-15-08-1973@@@
-
 DECRETO Nº 72.621, DE 15 DE AGOSTO DE 1973.
 
 Concede a Simwal S.A ., Indústria de Mármores e Granitos o direito de lavrar mármore no Município de Jucurutu, Estado do Rio Grande do Norte.

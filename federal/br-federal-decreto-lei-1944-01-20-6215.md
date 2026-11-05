@@ -1,5 +1,3 @@
-###DEL-006215-0-000-20-01-1944@@@
-
 DECRETO-LEI N. 6.215 – DE 20 DE Janeiro DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 10.000,00, para pagamento de gratificação por execução de trabalho de utilidade para o serviço

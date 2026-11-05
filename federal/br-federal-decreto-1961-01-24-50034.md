@@ -1,5 +1,3 @@
-###DEC-050034-0-000-24-01-1961@@@
-
 DECRETO Nº 50.034, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro João Sattim a pesquisar feldspato no município de Socorro, Estado de São Paulo.

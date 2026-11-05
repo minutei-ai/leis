@@ -1,5 +1,3 @@
-###DEC-070635-0-000-26-05-1972@@@
-
 DECRETO Nº 70.635, DE 26 DE MAIO DE 1972.
 
 Torna sem efeito aproveitamento na Unidade Federal Rural de Pernambuco de disponíveis do Departamento Nacional de Obras Contra as Secas e dá outra providências.

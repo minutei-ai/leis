@@ -1,5 +1,3 @@
-###DEC-075995-0-000-22-07-1975@@@
-
 DECRETO Nº 75.995 - DE 22 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Florestal do Centro de Ciências Rurais da Universidade Federal de Santa Maria, Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000405-0-000-26-12-1991@@@
-
 # DECRETO Nº 405, DE 26 DE DEZEMBRO DE 1991
 
 Consolida o Regimento Interno da Seção Brasileira da Comissão Mista Brasileiro-Uruguaia para o Desenvolvimento da Bacia da Lagoa Mirim (SB/CLM), vinculando-a à Secretaria do Desenvolvimento Regional da Presidência da República, e dá outras providências.

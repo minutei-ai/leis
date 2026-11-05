@@ -1,5 +1,3 @@
-###DEC-094337-0-000-15-05-1987@@@
-
 DECRETO Nº 94.337, DE 15 DE MAIO DE 1987.
 
 Altera a estrutura do Conselho Nacional do Comércio Exterior (CONCEX).

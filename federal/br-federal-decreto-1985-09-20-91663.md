@@ -1,5 +1,3 @@
-###DEC-091663-0-000-20-09-1985@@@
-
 DECRETO Nº 91.663, de 20 de setembro de 1985
 
 Autoriza o funcionamento do curso de Direito da Fundação Educacional do Oeste Catarinense.

@@ -1,5 +1,3 @@
-###DEC-071537-0-000-13-12-1972@@@
-
 DECRETO Nº 71.537 - DE 13 DE DEZEMBRO DE 1972
 
 Autoriza a contração de empréstimo em moeda estrangeira, para o fim que menciona, e dá outras providências.

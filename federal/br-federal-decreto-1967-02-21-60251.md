@@ -1,5 +1,3 @@
-###DEC-060251-0-000-21-02-1967@@@
-
 DECRETO Nº 60.251, DE 21 DE FEVEREIRO DE 1967.
 
 Modifica o Decreto 58.266, de 27 de abril de 1966, que instituiu a IV Conferência Nacional de Saúde.

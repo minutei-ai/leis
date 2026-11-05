@@ -1,5 +1,3 @@
-###DEC-052385-0-000-20-08-1963@@@
-
 DECRETO Nº 52.385, DE 20 DE AGÔSTO DE 1963.
 
 Autoriza o cidadão brasileiro Fitos Mimoto a lavrar xisto argiloso no município de Pirapora do Bom Jesus, Estado de São Paulo.

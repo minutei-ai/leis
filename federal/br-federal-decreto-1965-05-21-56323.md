@@ -1,5 +1,3 @@
-###DEC-056323-0-000-21-05-1965@@@
-
 DECRETO Nº 56.323, DE 21 DE MAIO DE 1965.
 
 Autoriza o cidadão brasileiro Custodio Netto Jr. a pesquisar aluviões auríferos no Município de São Félix do Xingú, Estado do Pará.

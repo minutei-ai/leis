@@ -1,5 +1,3 @@
-###DEL-007042-0-000-10-11-1944@@@
-
 DECRETO-LEI N. 7.042 – DE 10 DE NOVEMBRO DE 1944
 
 Dispõe sôbre funções gratificadas, no Ministério da Aeronaática e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-093075-0-000-06-08-1986@@@
-
 DECRETO Nº 93.075, DE 06 DE AGOSTO DE 1986
 
 Delega competência ao Ministro da Fazenda para autorizar a alienação, concessão ou transferência de imóveis da União a estrangeiros e dá outras providências.

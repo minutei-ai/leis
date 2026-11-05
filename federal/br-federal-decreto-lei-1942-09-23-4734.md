@@ -1,5 +1,3 @@
-###DEL-004734-0-000-23-09-1942@@@
-
 DECRETO-LEI N. 4734 – DE 23 DE SETEMBRO DE 1942
 
 Revoga o decreto-lei n. 4.699, de 17 de setembro de 1942

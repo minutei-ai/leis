@@ -1,5 +1,3 @@
-###DEC-084749-0-000-28-05-1980@@@
-
 Decreto nº 84.749, de 28 de maio de 1980.
 
 Autoriza o funcionamento do curso de Engenharia, do Centro de Estudos Superiores do Estado do Pará, Belém, Estado do Pará.

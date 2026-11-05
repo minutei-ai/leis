@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/166703)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2012/compilacao-lei-14734-09.04.2012.html)
 
 # LEI N° 14.734, DE 09 DE ABRIL DE 2012

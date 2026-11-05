@@ -1,5 +1,3 @@
-###DEC-081330-0-000-09-02-1978@@@
-
 Decreto nº 81.330, de 9 de fevereiro de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de São Paulo S.A. - CESP, no Estado de São Paulo.

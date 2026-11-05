@@ -1,5 +1,3 @@
-###DEC-064212-0-000-18-03-1969@@@
-
 DECRETO Nº 64.212, DE 18 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Associação Aracajuana de Beneficência, com sede em Aracaju, Estado de Sergipe.

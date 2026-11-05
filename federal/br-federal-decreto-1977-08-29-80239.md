@@ -1,5 +1,3 @@
-###DEC-080239-0-000-29-08-1977@@@
-
 DECRETO Nº 80.239, DE 29 DE AGOSTO DE 1977.
 
 Concede à Cia. Catarinense de Cimento Portland do direito de lavrar calcário no Município de Vidal Ramos, Estado de Santa Catarina.

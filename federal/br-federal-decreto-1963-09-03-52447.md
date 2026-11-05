@@ -1,5 +1,3 @@
-###DEC-052447-0-000-03-09-1963@@@
-
 decreto nº 52.447, de 3 de setembro de 1963.
 
 Dispõe sôbre as atribuições do Ministério de Estado Extraordinário, incumbido de estudar e propor a coordenação do comércio exterior, e dá outras providências.

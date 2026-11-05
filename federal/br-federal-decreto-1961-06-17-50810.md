@@ -1,5 +1,3 @@
-###DEC-050810-0-000-17-06-1961@@@
-
 decreto nº 50.810, de 17 de junho de 1961.
 
 Autoriza o Ministro das Minas e Energia a assinar convênio criando o Instituto Regional de Pesquisas de Recursos Naturais, na Bahia, e dá outras providências.

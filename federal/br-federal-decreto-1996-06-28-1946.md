@@ -1,5 +1,3 @@
-###DEC-001946-0-000-28-06-1996@@@
-
 DECRETO N° 1.946, DE 28 DE JUNHO DE 1996.
 
 Cria o Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, e dá outras providências.

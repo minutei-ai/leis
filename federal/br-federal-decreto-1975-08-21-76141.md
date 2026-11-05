@@ -1,5 +1,3 @@
-###DEC-076141-0-000-21-08-1975@@@
-
 DECRETO Nº 76.141 - DE 21 DE AGOSTO DE 1975
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica no Município de São Pedro do Sul, Estado do Rio Grande do Sul.

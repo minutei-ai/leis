@@ -1,5 +1,3 @@
-###DEC-053015-0-000-27-11-1963@@@
-
 DECRETO Nº 53.015, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Odilon Izar a lavrar água mineral no município de Garça, Estado de São Paulo.

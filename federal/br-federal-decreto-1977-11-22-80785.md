@@ -1,5 +1,3 @@
-###DEC-080785-0-000-22-11-1977@@@
-
 DECRETO Nº 80.785, DE 22 DE NOVEMBRO DE 1977.
 
 Declara sem efeito o Decreto nº 27.323, de 18 de outubro de 1949, que autorizou a cidadã brasileira Messias de Assis Machado a lavrar mica e associados no Município de Itamarandiba, Estado de Minas Gerais.

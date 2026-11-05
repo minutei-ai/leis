@@ -4,7 +4,8 @@ Institui a Carreira dos Auditores Fiscais do município de Aparecida de Goiânia
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art.1°. Esta Lei institui a carreira dos Auditores Fiscais do Município de Aparecida de Goiânia, estabelece as condições de desenvolvimento de seus integrantes nessa carreira, fixa o valor da remuneração do cargo que a compõe e disciplina assuntos correlatos.
@@ -29,7 +30,8 @@ III - Classe: a divisão básica da carreira integrada por cargos de idêntica d
 
 IV - Padrão: a posição do servidor na escala da carreira.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS ATRIBUIÇÕES DO AUDITOR FISCAL MUNICIPAL
 
 Art.3°. As atribuições conferidas, privativamente, aos auditores fiscais municipais, integrantes do Quadro Fiscal da Prefeitura de Aparecida de Goiânia, são as seguintes:
@@ -72,10 +74,12 @@ XVIII - Executar interdição de estabelecimentos, nos termos do art. 56, X, da 
 
 XIX - Aplicar as penalidades cabíveis conforme as infrações apuradas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA CARREIRA DE AUDITOR FISCAL MUNICIPAL
 
-Seção I<br>
+Seção I
+
 Da organização da carreira
 
 Art.4°. A carreira de auditor fiscal municipal fica configurada mediante a integração dos atuais cargos de Assistente de Fiscalização, Fiscalização de Posturas, Defesa Ambiental, Procon, Edificações e Loteamentos e Saúde Pública, pertencentes ao Quadro de Fiscalização da Prefeitura de Aparecida de Goiânia.
@@ -90,7 +94,8 @@ III - Classe III: composta pelos padrões 1 e 2;
 
 IV - Classe IV: composta por padrão único.
 
-CAPITULO IV<br>
+CAPITULO IV
+
 DO ENQUADRAMENTO
 
 Art.6°. O auditor fiscal municipal, aprovado em concurso público para provimento do cargo será enquadrado na classe I padrão 1 da Tabela ''A" constante do Anexo I desta Lei.
@@ -105,10 +110,12 @@ Art.7°. O servidor em efetivo exercício será enquadrado na classe e respectiv
 
 §4°. O procedimento decorrente da situação prevista no caput será feito no prazo de até 180 (cento e oitenta) dias, contados da publicação desta Lei.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS DIREITOS E VANTAGENS
 
-Seção 1<br>
+Seção 1
+
 Da remuneração
 
 Art.8°. Sem prejuízo de outros benefícios previstos em lei, inclusive os benefícios previstos na Lei Complementar Municipal nº 003, de 28 de dezembro de 2001 (Estatuto dos Servidores da Prefeitura e da Câmara Municipal de Aparecida de Goiânia) ficam assegurados, ao auditor fiscal municipal em atividade, os seguintes direitos e vantagens:
@@ -121,7 +128,8 @@ III - Adicional de incentivo à profissionalização (titularidade);
 
 IV - Gratificação decorrente do exercício de função de confiança ou cargo em comissão.
 
-Seção II<br>
+Seção II
+
 Do Salário Base
 
 Art.9°. O salário base dos auditores fiscais municipais é fixado por um valor inicial, constante da Tabela "A" do Anexo I desta Lei, o qual é atribuído em escala crescente na carreira, conforme o seu enquadramento nas classes e padrões definidos na referida Tabela, ficando assim composto:
@@ -142,7 +150,8 @@ Art.11. A gratificação de produtividade fiscal e os adicionais de ordem perman
 
 Art.12. O salário base de que trata esta Seção entrará em vigor a partir da publicação desta Lei e será atualizado anualmente, de acordo com a data base aplicada aos demais servidores do Município.
 
-Seção III<br>
+Seção III
+
 Da gratificação de produtividade fiscal
 
 Art.13. A gratificação de produtividade fiscal é o incentivo pecuniário, mensal, concedido ao auditor fiscal municipal com base na avaliação de suas atividades, mensurada em face do efetivo desempenho, de acordo com critérios e procedimentos estabelecidos em regulamento.
@@ -161,7 +170,8 @@ II - Quando de licença-prêmio, tratamento de saúde ou férias, o equivalente 
 
 Art.16. É facultado ao Poder Executivo a criação de gratificação de produtividade fiscal institucional, por Meta de Resultados, com critérios a serem definidos em regulamento.
 
-Seção IV<br>
+Seção IV
+
 Do adicional de incentivo à profissionalização
 
 Art.17. O adicional de incentivo à profissionalização será devido ao auditor fiscal municipal em razão do aprimoramento de sua qualificação profissional e conforme o grau de titularidade.
@@ -186,10 +196,12 @@ III - 20% (vinte por cento) para um total igual ou superior a 720 (setecentas e 
 
 §2°. O adicional de incentivo à profissionalização incorpora-se ao vencimento do servidor para todos os efeitos legais, inclusive aposentadoria e disponibilidade.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA PROGRESSÃO NA CARREIRA
 
-Seção I<br>
+Seção I
+
 Da progressão funcional
 
 Art.19. Progressão funcional é a passagem do auditor fiscal municipal do padrão em que se encontra para o padrão imediatamente superior, dentro da mesma classe da carreira, em razão do cumprimento do interstício de tempo de efetivo exercício na carreira, assim disposto:
@@ -212,7 +224,8 @@ IV - Na Classe IV: padrão único, acima de 21 (vinte e um) anos de efetivo exer
 
 §3°. A progressão funcional será requerida pelo interessado e submetida à apreciação do Secretário ao qual o servidor fiscal é subordinado.
 
-Seção II<br>
+Seção II
+
 Da promoção
 
 Art.20. Promoção é a elevação do auditor fiscal municipal na carreira, de uma classe para a imediatamente superior, quando implementados os seguintes requisitos:
@@ -283,7 +296,8 @@ IV – Na Classe IV: 12 vagas, padrão único.
 
 Parágrafo único. A periodicidade das solicitações de promoção será anual e os servidores não classificados sempre poderão pleitear o enquadramento no exercício seguinte.
 
-Seção III<br>
+Seção III
+
 Das disposições comuns à progressão funcional e à promoção
 
 Art.23. A promoção dos auditores fiscais municipais será gerida pela Secretaria de Administração, mediante Comissão Permanente de que trata esta Lei e posterior referendo do respectivo Secretário a qual esteja subordinado.
@@ -296,7 +310,8 @@ II - Nos últimos doze meses não tenha estado de licença para tratar de intere
 
 III - Nos últimos 2 (dois) anos, o servidor, embora haja implementado os prazos e requisitos para a progressão funcional ou promoção, não tenha sofrido penalidade de repreensão ou suspensão aplicada em decorrência de processo administrativo disciplinar.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DO PROVIMENTO
 
 Art.25. O ingresso na carreira disciplinada nesta Lei far-se-á no cargo de Auditor Fiscal Municipal no padrão 1 da classe I, mediante aprovação prévia em concurso público.
@@ -309,7 +324,8 @@ Art.25. O ingresso na carreira disciplinada nesta Lei far-se-á no cargo de Audi
 
 §4°. Ficam destinadas 15 vagas para o cargo de Auditor Fiscal Municipal que deverão ser ocupadas somente por aqueles que possuam curso superior completo nas seguintes áreas da saúde: Assistência Social, Ciências Biológicas, Ciência Biomédicas, Educação Física, Enfermagem, Farmácia, Fisioterapia, Fonoaudiologia, Medicina, Medicina Veterinária, Nutrição, Odontologia, Psicologia e Terapia Ocupacional; e registro no órgão competente.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA JORNADA DE TRABALHO E DA FREQUÊNCIA
 
 Art.26. A jornada de trabalho dos auditores fiscais municipais é de 40 (quarenta) horas semanais.
@@ -320,7 +336,8 @@ Art.26. A jornada de trabalho dos auditores fiscais municipais é de 40 (quarent
 
 Art. 27. A frequência do auditor fiscal municipal é apurada pela apresentação de relatório mensal de atividade.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DA INTEGRAÇÃO E DOS CARGOS EXTINTOS A VAGAR
 
 Art. 28. Os servidores do Quadro de Fiscalização da Secretaria de Meio Ambiente e Sustentabilidade, Secretaria de Planejamento e Regulação Urbana e Secretaria de Saúde integrarão, automaticamente, a carreira instituída por esta Lei, ressalvados os declarados celetistas por decisão judicial transitada em julgado.
@@ -335,7 +352,8 @@ Art. 28. Os servidores do Quadro de Fiscalização da Secretaria de Meio Ambient
 
 Art. 29. A vacância dos cargos de Assistente de Fiscalização, Fiscalização de Posturas, Defesa Ambiental, Edificações e Loteamentos e Saúde Pública, ocorrerá na forma prevista na Lei Complementar Municipal n° 003, de 28 de dezembro de 2001 (Estatuto dos Servidores da Prefeitura e da Câmara Municipal de Aparecida de Goiânia) e, quando de sua ocorrência, ficarão automaticamente extintos.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DA COMISSÃO PERMANENTE E DOS RECURSOS
 
 Art.30. As avaliações dos servidores desta carreira serão coordenadas por Comissão Permanente da Secretaria Municipal de Administração do Município, cuja composição conterá, no mínimo, 02 (dois) servidores da carreira avaliada, à qual incumbirá:
@@ -356,7 +374,8 @@ Parágrafo único. O prazo do recurso previsto neste artigo é de 30 (trinta) di
 
 Art.32. O auditor fiscal que compuser a Comissão deverá ser substituído quando da análise de requerimento próprio.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DAS DISPOSIÇÓES FINAIS E TRANSITÓRIAS
 
 Art. 33. Os servidores enquadrados no novo Plano de Cargos, Carreira e Remuneração instituído por esta Lei poderão optar por se manter submetidos às regras vigentes na data da publicação desta Lei.
@@ -395,14 +414,15 @@ Art.42. Esta Lei entra em vigor na data de sua publicação, revogando-se as dis
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 25 de maio de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
 ANEXO I
 
 TABELA "A" – VENCIMENTO
 
-<table class="Table" style="border-collapse:collapse"><tbody><tr><td style="  height:35px;   "><a><b>CLASSE</b></a></td><td colspan="11" style="  height:35px;   "><b>PADRÃO</b></td></tr><tr><td rowspan="2" style="  height:21px;   "><b>I</b></td><td style="  height:21px;    "><b>1 (Venc.)</b></td><td style="  height:21px;    "><b>2</b></td><td style="  height:21px;    "><b>3</b></td><td style="  height:21px;    "><b>4</b></td><td style="  height:21px;    "><b>5</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td></tr><tr><td style="  height:61px;   "><b>R$ 9.517,00 + X%</b></td><td style="  height:61px;   "><b>1I + 2% + X%</b></td><td style="  height:61px;   "><b>2I + 2% + X%</b></td><td style="  height:61px;   "><b>3I + 2% + X%</b></td><td style="  height:61px;   "><b>4I + 2% + X%</b></td><td style="  height:61px;   "><b>&nbsp;</b></td><td style="  height:61px;   "><b>&nbsp;</b></td><td style="  height:61px;   "><b>&nbsp;</b></td><td style="  height:61px;   "><b>&nbsp;</b></td><td style="  height:61px;   "><b>&nbsp;</b></td><td style="  height:61px;   "><b>&nbsp;</b></td></tr><tr><td rowspan="2" style="  height:21px;   "><b>II</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>1</b></td><td style="  height:21px;    "><b>2</b></td><td style="  height:21px;    "><b>3</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td></tr><tr><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>5I +3% + X%</b></td><td style="  height:41px;   "><b>1II + 2% + X%</b></td><td style="  height:41px;   "><b>2II + 2% + X%</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td></tr><tr><td rowspan="2" style="  height:21px;   "><b>III</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>1</b></td><td style="  height:21px;    "><b>2</b></td><td style="  height:21px;    "><b>&nbsp;</b></td></tr><tr><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>3II + 5% + X%</b></td><td style="  height:41px;   "><b>1III + 2% + X%</b></td><td style="  height:41px;   "><b>&nbsp;</b></td></tr><tr><td rowspan="2" style="  height:21px;   "><b>IV</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>&nbsp;</b></td><td style="  height:21px;    "><b>ÚNICO</b></td></tr><tr><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>&nbsp;</b></td><td style="  height:41px;   "><b>2III + 10% + X%</b></td></tr></tbody></table>
+<table><tbody><tr><td><a>**CLASSE**</a></td><td colspan="11">**PADRÃO**</td></tr><tr><td rowspan="2">**I**</td><td>**1 (Venc.)**</td><td>**2**</td><td>**3**</td><td>**4**</td><td>**5**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td></tr><tr><td>**R$ 9.517,00 + X%**</td><td>**1I + 2% + X%**</td><td>**2I + 2% + X%**</td><td>**3I + 2% + X%**</td><td>**4I + 2% + X%**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td></tr><tr><td rowspan="2">**II**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**1**</td><td>**2**</td><td>**3**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td></tr><tr><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**5I +3% + X%**</td><td>**1II + 2% + X%**</td><td>**2II + 2% + X%**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td></tr><tr><td rowspan="2">**III**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**1**</td><td>**2**</td><td>**&nbsp;**</td></tr><tr><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**3II + 5% + X%**</td><td>**1III + 2% + X%**</td><td>**&nbsp;**</td></tr><tr><td rowspan="2">**IV**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**ÚNICO**</td></tr><tr><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**&nbsp;**</td><td>**2III + 10% + X%**</td></tr></tbody></table>
 
 LEGENDA
 
@@ -418,7 +438,26 @@ c)    outras vantagens e adicionais a que o auditor fiscal tenha direito.
 
 3\) SB: salário base, sendo fixado o salário base inicial no Padrão 1 da Classe I, no valor de R$ 9.517,00 (nove mil quinhentos e dezessete reais).
 
-TABELA "B"<br>
+TABELA "B"
+
 QUADRO DE VAGAS - AUDITOR FISCAL MUNICIPAL
 
-<table class="MsoTableGrid" style="border-collapse:collapse; border:none"><tbody><tr><td style=" width:328px;    "><b>CLASSE</b></td><td style=" width:328px;    "><b>VAGAS</b></td></tr><tr><td style=" width:328px;    "><b>I</b></td><td style=" width:328px;    "><b>47</b></td></tr><tr><td style=" width:328px;    "><b>II</b></td><td style=" width:328px;    "><b>36</b></td></tr><tr><td style=" width:328px;    "><b>III</b></td><td style=" width:328px;    "><b>24</b></td></tr><tr><td style=" width:328px;    "><b>IV</b></td><td style=" width:328px;    "><b>12</b></td></tr></tbody></table>
+**CLASSE**
+
+**VAGAS**
+
+**I**
+
+**47**
+
+**II**
+
+**36**
+
+**III**
+
+**24**
+
+**IV**
+
+**12**

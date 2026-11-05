@@ -1,5 +1,3 @@
-###DEC-085693-0-000-04-02-1981@@@
-
 DECRETO Nº 85.693, DE 04 DE FEVEREIRO DE 1981.
 
 Concede à Companhia Nacional de Álcalis - CNA, autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

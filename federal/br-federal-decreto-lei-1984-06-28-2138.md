@@ -1,5 +1,3 @@
-###DEL-002138-0-000-28-06-1984@@@
-
 # Decreto-lei nº 2.138, de 28 de junho de 1984.
 
 Reajusta o valor do soldo base de cálcuIo da remuneração dos PM da Polícia Militar e dos BM do Corpo de Bombeiros com Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-059760-0-000-16-12-1966@@@
-
 Decreto nº 59.760, de 16 de dezembro de 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$101.012.744 (cento e um milhões, doze mil, setecentos e quarenta e quatro cruzeiros) autorizado pela Lei nº 5.148, de 20 de outubro de 1966, para ocorrer ao custeio de obras em próprios nacionais.
@@ -14,7 +12,35 @@ Art. 2º De acôrdo com os orçamentos elaborados, o crédito especial em aprê�
 
 No Estado da Guanabara:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rua Barão de Guaratiba, 21 .....................................................................................</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>13.648.580</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rua São Luiz Gonzaga, 2.241 ..................................................................................</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>8.187.960</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rua Almirante Alexandrino, 1.538 ............................................................................</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>22.362.404</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rua Almirante Alexandrino, 1.630 ............................................................................</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5.000.000</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rua Cândido Mendes, 891 .......................................................................................</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>41.213.800</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>No Estado do Rio de Janeiro:</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Imóvel denominado “Paraízo” em Paulo de Frontin .................................................</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">10.600.000</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>101.012.744</span></p></td></tr></tbody></table>
+Cr$
+
+Rua Barão de Guaratiba, 21 .....................................................................................
+
+13.648.580
+
+Rua São Luiz Gonzaga, 2.241 ..................................................................................
+
+8.187.960
+
+Rua Almirante Alexandrino, 1.538 ............................................................................
+
+22.362.404
+
+Rua Almirante Alexandrino, 1.630 ............................................................................
+
+5.000.000
+
+Rua Cândido Mendes, 891 .......................................................................................
+
+41.213.800
+
+No Estado do Rio de Janeiro:
+
+Imóvel denominado “Paraízo” em Paulo de Frontin .................................................
+
+10.600.000
+
+101.012.744
 
 Art. 3º A execução das obras ficará a cargo do Serviço do Patrimônio da União e terá a cooperação da Divisão de Obras do Ministério da Fazenda.
 

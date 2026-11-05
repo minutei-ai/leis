@@ -1,5 +1,3 @@
-###DEC-078015-0-000-12-07-1976@@@
-
 DECRETO Nº 78.015, DE 12 DE JULHO DE 1976.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona situado no Município de Guarapari, Estado do Espírito Santo.

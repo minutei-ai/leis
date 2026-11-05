@@ -1,5 +1,3 @@
-###DEC-080201-0-000-22-08-1977@@@
-
 DECRETO Nº 80.201, DE 22 DE AGOSTO DE 1977.
 
 Concede à Mineração de Feldspato Andradense Ltda, o direito de lavrar feldspato e quartzo no Município de Inconfidentes, Estado de Minas Gerais.
@@ -29,8 +27,6 @@ Brasília, 22 de agosto de 1977; 156º da Independência e 89º da República.
 Ernesto geisel
 
 Shigeaki Ueki
-
-###DEC-080216-0-000-23-08-1977@@@RET+++
 
 DECRETO Nº 80.216, DE 23 DE AGOSTO DE 1977.
 

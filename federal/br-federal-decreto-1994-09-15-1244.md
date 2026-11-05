@@ -1,7 +1,3 @@
-1
-
-###DEC-001244-0-000-15-09-1994@@@
-
 DECRETO Nº 1.244, DE 15 DE SETEMBRO DE 1994
 
 Altera a redação da alínea “c” do art. 23 dos Regulamentos do Serviço Social do Comércio (SESC) e do Serviço Nacional de Aprendizagem Comercial (SENAC).

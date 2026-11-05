@@ -1,5 +1,3 @@
-###DEC-006736-0-000-12-01-2009@@@
-
 DECRETO Nº 6.736, DE 12 DE JANEIRO DE 2009.
 
 Promulga o Acordo entre a República Federativa do Brasil e a República Argentina, celebrado em Puerto Iguazú, em 30 de novembro de 2005.

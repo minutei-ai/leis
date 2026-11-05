@@ -1,5 +1,3 @@
-###DEC-087798-0-000-11-11-1982@@@
-
 Decreto nº 87.798, de 11 de novembro de 1982
 
 Concede à Companhia Siderúrgica Paulista - COSIPA, autorização para proceder a aumento do seu capital social.

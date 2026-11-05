@@ -1,5 +1,3 @@
-###DEC-055120-0-000-02-12-1964@@@
-
 DECRETO Nº 55.120, DE 2 DE DEZEMBRO DE 1964.
 
 Autoriza a Plumbum S. A. Indústria Brasileira de Mineração a pesquisar minérios de cobre, no município de Ibipitanga, Estado da Bahia.

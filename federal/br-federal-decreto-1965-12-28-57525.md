@@ -1,5 +1,3 @@
-###DEC-057525-0-000-28-12-1965@@@
-
 DECRETO Nº 57.525, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Geraldo Majela de Menezes a lavrar calcário no município de Maruim, Estado de Sergipe.

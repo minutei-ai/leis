@@ -1,5 +1,3 @@
-###DEC-049157-0-000-31-10-1960@@@
-
 DECRETO Nº 49.157, DE 31 DE OUTUBRO DE 1960.
 
 Cria cargos e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Bancários e dá outras providências.

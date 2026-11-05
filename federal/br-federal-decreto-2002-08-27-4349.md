@@ -1,5 +1,3 @@
-###DEC-004349-0-000-27-08-2002@@@
-
 DECRETO Nº 4.349, DE 27 DE AGOSTO DE 2002
 
 Dispõe sobre a execução do Qüinquagésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 8 de abril de 2002.

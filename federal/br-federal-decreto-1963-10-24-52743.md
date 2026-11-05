@@ -1,5 +1,3 @@
-###DEC-052743-0-000-24-10-1963@@@
-
 Decreto nº 52.743, de 24 de outubro de 1963.
 
 Concede à Sociedade Anônima The Sydney Ross Co. autorização para continuar a funcionar na República.

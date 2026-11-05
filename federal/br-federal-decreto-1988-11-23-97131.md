@@ -1,5 +1,3 @@
-###DEC-097131-0-000-23-11-1988@@@
-
 DECRETO Nº 97.131, DE 23 DE NOVEMBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel situado na Rua Acre nº 80, na Cidade do Rio de Janeiro, e dá outras providências.

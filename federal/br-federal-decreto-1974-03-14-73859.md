@@ -1,5 +1,3 @@
-###DEC-073859-0-000-14-03-1974@@@
-
 DECRETO Nº 73.859, DE 14 DE MARÇO 1974.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

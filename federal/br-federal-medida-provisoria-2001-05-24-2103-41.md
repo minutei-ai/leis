@@ -1,5 +1,3 @@
-###MPV-002103-0-041-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.103‑41, DE 24 DE MAIO DE 2001.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.
@@ -359,8 +357,6 @@ José Jorge
 Martus Tavares
 
  Roberto Brant
-
-###MPV-002103-0-041-24-05-2001@@@RET01+++
 
 MEDIDA PROVISÓRIA Nº 2.103-41, DE 24 DE MAIO DE 2001.
 

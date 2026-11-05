@@ -1,5 +1,3 @@
-###DEL-000673-0-000-07-07-1969@@@
-
 DECRETO-LEI Nº 673, De 7 de julho DE 1969
 
 Dispõe sôbre a situação do pessoal atingido por revisões de enquadramento ou de quadros, efetivadas por fôrça de disposições legais e regulamentares, e dá outras providências.

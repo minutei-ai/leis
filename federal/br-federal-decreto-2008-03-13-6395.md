@@ -1,5 +1,3 @@
-###DEC-006395-0-000-13-03-2008@@@
-
 DECRETO Nº 6.395, DE 13 DE MARÇO DE 2008.
 
 Promulga o Acordo sobre Serviços Aéreos entre o Governo da República Federativa do Brasil e o Governo da República de Cabo Verde, celebrado em Praia, em 29 de julho de 2004.
@@ -22,11 +20,7 @@ Brasília, 13 de março de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 14.3.2008
-
-ACORDO SOBRE SERVIÇOS AÉREOS ENTRE O GOVERNO DA
+Celso Luiz Nunes AmorimACORDO SOBRE SERVIÇOS AÉREOS ENTRE O GOVERNO DA
 
 REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA
 

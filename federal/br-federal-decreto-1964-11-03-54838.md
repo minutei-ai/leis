@@ -1,5 +1,3 @@
-###DEC-054838-0-000-03-11-1964@@@
-
 DECRETO Nº 54.838, DE 3 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Amaury de Souza Mello a pesquisar mica, no município de Governador Valadares, Estado de Minas Gerais.

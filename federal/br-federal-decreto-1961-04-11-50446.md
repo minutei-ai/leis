@@ -1,5 +1,3 @@
-###DEC-050446-0-000-11-04-1961@@@
-
 DECRETO Nº 50.446, DE 11 DE ABRIL DE 1961.
 
 Altera o Regimento do Departamento Nacional de Obras Contra as Sêcas.

@@ -1,5 +1,3 @@
-###DEC-068213-0-000-11-02-1971@@@
-
 DECRETO Nº 68.213, DE 11 DE FEVEREIRO DE 1971.
 
 Institui a Medalha do Mérito da Segurança do Trabalho e da outras providências.

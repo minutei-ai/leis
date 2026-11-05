@@ -1,5 +1,3 @@
-###DEC-066247-0-000-23-02-1970@@@
-
 Decreto nº 66.247, de 23 de Fevereiro de 1970.
 
 Extingue a Comissão de Estradas de Rodagem nº 1, do Ministério do Exército, e dá outras providências.

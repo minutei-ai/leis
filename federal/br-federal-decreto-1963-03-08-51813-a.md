@@ -1,5 +1,3 @@
-###DEC-051813-A-000-08-03-1963@@@
-
 Decreto nº 51.813-A, de 8 de março de 1963.
 
 Dispõe sôbre a entrada no País de caminhões transportando carga importada dos países limítrofes ou para os mesmos exportada.

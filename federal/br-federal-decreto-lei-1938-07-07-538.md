@@ -1,5 +1,3 @@
-###DEL-000538-0-000-07-07-1938@@@
-
 DECRETO-LEI N. 538 - DE 7 DE JULHO DE 1938
 
 Organiza o Conselho Nacional de Petróleo, define suas atribuições e dá outras providências

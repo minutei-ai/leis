@@ -1,5 +1,3 @@
-###DEL-006245-0-000-04-02-1944@@@
-
 DECRETO-LEI N. 6.245 – DE 4 DE FEVEREIRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a vender, em hasta pública, a área de terreno que menciona

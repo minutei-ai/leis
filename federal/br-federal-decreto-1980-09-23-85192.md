@@ -1,5 +1,3 @@
-###DEC-085192-0-000-23-09-1980@@@
-
 DECRETO Nº 85.192, DE 23 DE SETEMBRO DE 1980.
 
 Dá nova redação a dispositivos do Regulamento de Uniformes do Exército (R-124), aprovado pelo Decreto nº 67.042, de 12 de agosto de 1970.

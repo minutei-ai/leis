@@ -1,5 +1,3 @@
-###DEC-004297-0-000-10-07-2002@@@
-
 DECRETO Nº 4.297, DE 10 DE JULHO DE 2002
 
 Regulamenta o art. 9, inciso II, da Lei nº 6.938, de 31 de agosto de 1981, estabelecendo critérios para o Zoneamento Ecológico-Econômico do Brasil - ZEE, e dá outras providências.

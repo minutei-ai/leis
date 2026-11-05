@@ -1,5 +1,3 @@
-###DEC-007463-0-000-19-04-2011-PUB-01@@@
-
 DECRETO Nº 7.463, DE 19 DE ABRIL DE 2011.
 
 Dispõe sobre a execução no Território Nacional da Resolução n~~°~~ 1.945, de 14 de outubro de 2010, do Conselho de Segurança das Nações Unidas, que, entre outras providências, prorroga o mandato do Painel de Peritos estabelecido para auxiliar o Comitê do Conselho de Segurança sobre o Sudão a monitorar as medidas descritas no parágrafo 3~~º~~ (d) e (e) da Resolução n~~º~~ 1.591 (2005).

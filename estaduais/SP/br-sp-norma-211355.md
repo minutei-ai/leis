@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211355)<br>
-
 # DECRETO N° 69.821, DE 26 DE AGOSTO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e por prazo determinado, do Município de Ribeirão Preto, o imóvel que especifica._

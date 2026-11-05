@@ -1,5 +1,3 @@
-###DEC-058840-0-000-15-07-1966@@@
-
 DECRETO Nº 58.840, DE 15 DE JULHO DE 1966.
 
 Aprova a tabela dos índices de reajustamento das aposentadorias e pensões e benefícios de manutenção do salário em vigor nos Institutos de Aposentadoria e Pensões, a que se refere o art. 67 da Lei nº 3.807, de 26 de agôsto de 1960.
@@ -12,7 +10,7 @@ Art. 1º Os valôres das aposentadorias e pensões dos Institutos de Aposentador
 
 Art. 2º Os coeficientes de reajustamento dos benefícios a que alude o art. 1º serão os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="2" style="width:425.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Coeficiente</span></p></td></tr><tr><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aposentadorias e pensões globais e benefícios de Manutenção do salário iniciados antes de 1965 .............................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2,00</span></p></td></tr><tr><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-left:10.7pt; margin-bottom:0pt; text-indent:-7.05pt"><span>Aposentadorias e pensões globais e benefícios de manutenção do salário iniciados em 1965 ..................................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1,27</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> Coeficiente </td></tr><tr><td> Aposentadorias e pensões globais e benefícios de Manutenção do salário iniciados antes de 1965 ............................................................................................. </td><td> 2,00 </td></tr><tr><td> Aposentadorias e pensões globais e benefícios de manutenção do salário iniciados em 1965 .................................................................................................. </td><td> 1,27 </td></tr></tbody></table>
 
 § 1º Os coeficientes relativo aos benefícios concedidos até o ano de 1963, inclusive, se aplica aos valôres resultantes do reajustamento determinado pelo Decreto nº 53.926, de 20 maio de 1964.
 

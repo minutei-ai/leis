@@ -1,5 +1,3 @@
-###DEL-008447-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.447 – DE 26 DEZEMBRO DE l945
 
 Altera, sem aumento de despesa, orçamento do Ministério da Viação e Obras Públicas.

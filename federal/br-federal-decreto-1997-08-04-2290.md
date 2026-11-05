@@ -1,5 +1,3 @@
-###DEC-002290-0-000-04-08-1997@@@
-
 DECRETO Nº 2.290, DE 4 DE AGOSTO DE 1997
 
 Regulamenta o disposto no art. 5º, inciso VIII, da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências,

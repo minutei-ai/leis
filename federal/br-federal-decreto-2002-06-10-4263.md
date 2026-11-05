@@ -1,5 +1,3 @@
-###DEC-004263-0-000-10-06-2002@@@
-
 DECRETO Nº 4.263, DE 10 DE JUNHO DE 2002
 
 Dispõe sobre a criação da Ordem do Mérito da Defesa, e dá outras providências.

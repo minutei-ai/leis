@@ -1,5 +1,3 @@
-###DEC-071650-0-000-02-01-1973@@@
-
 DECRETO Nº 71.650, DE 2 DE JANEIRO DE 1973.
 
 Concede reconhecimento da Faculdade de Filosofia, Ciências e Letras, do Vale do Itajaí, da Fundação de Ensino do Polo Geo-Educacional do Vale do Itajaí, Santa Catarina.

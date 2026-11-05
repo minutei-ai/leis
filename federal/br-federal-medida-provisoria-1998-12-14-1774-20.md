@@ -1,5 +1,3 @@
-###MPV-001774-0-020-14-12-1998@@@
-
 MEDIDA PROViSÓRIA Nº 1.774-20, DE 14 DE DEZEMBRO DE 1998.
 
 Altera a redação e acresce dispositivos às Leis nºs 8.629, de 25 de fevereiro de 1993, e 8.437, de 30 de junho de 1992, e dá outras providências.

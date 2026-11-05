@@ -1,5 +1,3 @@
-###DEL-004056-0-000-27-01-1942@@@
-
 DECRETO-LEI N. 4.056 – DE 27 DE JANEIRO DE 1942
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei número 2.124, de 11 de abril de 1940

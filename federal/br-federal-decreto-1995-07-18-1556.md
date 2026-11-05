@@ -1,7 +1,3 @@
-1
-
-###DEC-001556-0-000-18-07-1995@@@
-
 DECRETO Nº 1.556, DE 18 DE JULHO DE 1995.
 
 Cria Comitê Interministerial Permanente para aprimoramento e acompanhamento da política industrial, tecnológica e comercial para a Zona Franca de Manaus, e dá outras providências.

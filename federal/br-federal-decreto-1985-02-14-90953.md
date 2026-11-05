@@ -1,5 +1,3 @@
-###DEC-090953-0-000-14-02-1985@@@
-
 DECRETO Nº 90.953, DE 14 DE FEVEREIRO DE 1985
 
 Outorga concessão à RÁDIO JORNAL SÃO MIGUEL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Miguel do Iguaçu, Estado do Paraná.

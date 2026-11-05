@@ -1,6 +1,10 @@
 > **LEI Nº 3.213, DE 29 DE DEZEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Sistema Integrado de Habitação do Estado do Acre - SIHAB e dispõe sobre a sua gestão e manutenção.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Sistema Integrado de Habitação do Estado do Acre - SIHAB e dispõe sobre a sua gestão e manutenção.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-094553-0-000-06-07-1987@@@
-
 DECRETO N° 94.553, DE 6 DE JULHO DE 1987
 
 Cria, no âmbito do Ministério dos Transportes, a Comissão Executiva para o Desenvolvimento da Navegação Interior e das Vias Navegáveis - CENAV, e dá outras providências.

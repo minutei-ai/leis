@@ -1,5 +1,3 @@
-###DEC-003340-0-000-18-01-2000@@@
-
 DECRETO Nº 3.340, DE 18 DE JANEIRO DE 2000.
 
 Promulga o Acordo Básico de Cooperação Científica, Técnica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia, celebrado em Brasília, em 21 de novembro de 1997.
@@ -116,4 +114,22 @@ A partir da data de entrada em vigor do presente Acordo, deixará de vigorar o A
 
 Feito em Brasília, em 21 de novembro de 1997, em dois exemplares originais, nos idiomas português, russo e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência de interpretação, prevalecerá o texto em inglês
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da Federação</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>da Rússia</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Luiz Felipe Lampreia</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Levgueni Primakov</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado das</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro dos Negócios</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Relações Exteriores</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Estrangeiros</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da Federação
+
+Federativa do Brasil
+
+da Rússia
+
+Luiz Felipe Lampreia
+
+Levgueni Primakov
+
+Ministro de Estado das
+
+Ministro dos Negócios
+
+Relações Exteriores
+
+Estrangeiros

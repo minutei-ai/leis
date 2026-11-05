@@ -1,7 +1,3 @@
-1
-
-###DEC-001230-0-000-24-08-1994@@@
-
 DECRETO Nº 1.230, DE 24 DE AGOSTO DE 1994
 
 Dá nova redação ao art. 71 de Decreto nº 73.267, de 6 de dezembro de 1973, que regulamentou a Lei nº 5.823, de 14 de novembro de 1972.

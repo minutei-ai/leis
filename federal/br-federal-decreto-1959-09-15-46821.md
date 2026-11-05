@@ -1,5 +1,3 @@
-###DEC-046821-0-000-15-09-1959@@@
-
 DECRETO Nº 46.821, de 15 de setembro de 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

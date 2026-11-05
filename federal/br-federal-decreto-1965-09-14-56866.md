@@ -1,5 +1,3 @@
-###DEC-056866-0-000-14-09-1965@@@
-
 DECRETO Nº 56.866, DE 14 DE SETEMBRO DE 1965.
 
 Abre, pelo Ministério da Guerra, o crédito especial de Cr$3.000.000.000 (três bilhões de cruzeiros), para os fins que especifica.

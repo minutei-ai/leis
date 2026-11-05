@@ -1,5 +1,3 @@
-###DEC-096570-0-000-24-08-1988@@@
-
 DECRETO N° 96.570, DE 24 DE AGOSTO DE 1988
 
 Renova a concessão outorgada à RÁDIO NOSSA SENHORA DO SOCORRO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Socorro, Estado de São Paulo.

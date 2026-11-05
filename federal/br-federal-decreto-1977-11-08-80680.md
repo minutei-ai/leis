@@ -1,5 +1,3 @@
-###DEC-080680-0-000-08-11-1977@@@
-
 DECRETO Nº 80.680, DE 08 DE NOVEMBRO DE 1977.
 
 Retifica a concessão de lavra outorgada à Tungstênio do Brasil Minérios e Metais Ltda pelo Decreto nº 78.334, de 30 de agosto de 1976.

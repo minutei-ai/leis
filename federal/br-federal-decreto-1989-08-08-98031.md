@@ -1,7 +1,3 @@
-1
-
-###DEC-098031-0-000-08-08-1989@@@
-
 DECRETO N° 98.031, DE 8 DE AGOSTO DE 1989
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE PICOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Picos, Estado do Piauí.

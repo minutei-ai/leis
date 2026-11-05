@@ -1,5 +1,3 @@
-###DEC-056345-0-000-21-05-1965@@@
-
 DECRETO Nº 56.345, 21 DE MAIO DE 1965.
 
 Autoriza o cidadão brasileiro Hélio Moutinho a pesquisar minério de níquel e amianto, no município de Pontalina, Estado de Goiás.

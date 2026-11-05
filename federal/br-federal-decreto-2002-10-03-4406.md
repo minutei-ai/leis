@@ -1,5 +1,3 @@
-###DEC-004406-0-000-03-10-2002@@@
-
 DECRETO Nº4.406, DE 3 DE OUTUBRO DE 2002
 
 Estabelece diretrizes para a fiscalização em embarcações comerciais de turismo, seus passageiros e tripulantes.

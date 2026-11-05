@@ -1,5 +1,3 @@
-###DEC-076333-0-000-24-09-1975@@@
-
 DECRETO Nº 76.333 - DE 24 DE SETEMBRO DE 1975
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Duque de Caxias, Estado do Rio de Janeiro.

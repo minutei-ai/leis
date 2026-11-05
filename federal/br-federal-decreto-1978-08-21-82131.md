@@ -1,5 +1,3 @@
-###DEC-082131-0-000-21-08-1978@@@
-
 Decreto nº 82.131, de 21 de agosto de 1978.
 
 Retifica a concessão de lavra outorgada á Companhia Brasileira de Alumínio pelo Decreto nº 69.177, de 09 de setembro de 1971.

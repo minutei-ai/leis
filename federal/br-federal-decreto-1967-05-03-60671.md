@@ -1,5 +1,3 @@
-###DEC-060671-0-000-03-05-1967@@@
-
 DECRETO Nº 60.671, DE 3 DE MAIO DE 1967.
 
 Declara a cessação de serviços de energia elétrica e outorga concessão.

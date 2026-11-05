@@ -1,5 +1,3 @@
-###DEC-078382-0-000-08-09-1976@@@
-
 Decreto nº 78.382, de 8 de setembro de 1976.
 
 Dispõe sobre a publicação obrigatória de contratos administrativos de interesse dos órgãos da Administração Federal direta e suas autarquias.

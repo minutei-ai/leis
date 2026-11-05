@@ -1,6 +1,10 @@
 > **LEI Nº 3.782, DE 13 DE OUTUBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.760, de 19 de julho de 2021, que “Institui o Programa de Estímulo à Construção Civil para Geração de Emprego e Renda – PEC/GER-AC, a fim de modificar a forma de compensação do crédito orçamentário”</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.760, de 19 de julho de 2021, que “Institui o Programa de Estímulo à Construção Civil para Geração de Emprego e Renda – PEC/GER-AC, a fim de modificar a forma de compensação do crédito orçamentário”
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

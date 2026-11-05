@@ -1,5 +1,3 @@
-###DEC-085747-0-000-24-02-1981@@@
-
 Decreto nº 85.747, de 24 de fevereiro de 1981
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural que menciona, situado no Município de São Felix do Araguaia, no Estado de Mato Grosso, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 85.746 de 24 de fevereiro de 1981.

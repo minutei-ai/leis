@@ -1,5 +1,3 @@
-###DEC-002430-0-000-17-12-1997@@@
-
 DECRETO Nº 2.430, DE 17 DE DEZEMBRO DE 1997
 
 Regulamenta o art. 31 da Lei nº 9.491, de 9 de setembro de 1997, que altera procedimentos relativos ao Programa Nacional de Desestatização, e dá outras providências.

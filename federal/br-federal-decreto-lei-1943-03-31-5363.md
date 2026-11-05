@@ -1,5 +1,3 @@
-###DEL-005363-0-000-31-03-1943@@@
-
 DECRETO‑LEI N. 5.363 – DE 31 MARÇO DE 1943
 
 Abre ao Ministério da justiça e Negócios Interiores o crédito especial de Cr$ 45.000,00 para despesas com os funcionários da Policia Civil do Distrito Federal, designados para prestar serviços no estrangeiro

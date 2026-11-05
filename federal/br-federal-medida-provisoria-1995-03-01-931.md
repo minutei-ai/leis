@@ -1,7 +1,3 @@
-1
-
-###MPV-000931-0-000-01-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 931, DE 1º DE MARÇO 1995
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios e dá outras providências.

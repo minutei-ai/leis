@@ -1,5 +1,3 @@
-###DEC-049661-0-000-31-12-1960@@@
-
 DECRETO Nº 49.661, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza Lindoiano Hotel Fontes Radioativas Ltda. a lavrar água mineral no município de Águas de Lindóia, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-069440-0-000-27-10-1971@@@
-
 Decreto nº 69.440 - de 27 de outubro de 1971
 
 Autoriza o Ministro da Fazenda a negociar e contratar com o Fundo de Diversificação da Organização Internacional do Café (O.I.C.) empréstimo em moeda estrangeira, para o fim que menciona.

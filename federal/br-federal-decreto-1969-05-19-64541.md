@@ -1,5 +1,3 @@
-###DEC-064541-0-000-19-05-1969@@@
-
 DECRETO Nº 64.541, DE 19 DE MAIO DE 1969.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São Joaquim da Barra, no Estado de São Paulo.

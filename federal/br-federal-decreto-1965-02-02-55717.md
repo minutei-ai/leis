@@ -1,5 +1,3 @@
-###DEC-055717-0-000-02-02-1965@@@
-
 DECRETO Nº 55.717, de 2 de fevereiro de 1965.
 
 Autoriza a Companhia Catarinense de Cimento Portland a pesquisar calcário, no município de Brusque, Estado de Santa Catarina.

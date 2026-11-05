@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/974139f2-72ae-4069-b14c-2878954a9e05/texto#nowhere)
 
-###DEL-000554-0-000-25-04-1969@@@
-
 DECRETO-LEI Nº 554, DE 25 DE ABRIL DE 1969
 
 Dispõe sôbre desapropriação por interêsse social, de imóveis rurais, para fins de reforma agrária, e dá outras providências.

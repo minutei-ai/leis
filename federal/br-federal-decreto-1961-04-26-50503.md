@@ -1,5 +1,3 @@
-###DEC-050503-0-000-26-04-1961@@@
-
 DECRETO Nº 50.503, DE 26 DE ABRIL DE 1961.
 
 Cria uma Embaixada do Brasil na República do Senegal.

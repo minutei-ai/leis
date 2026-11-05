@@ -1,5 +1,3 @@
-###LCP-000108-0-000-29-05-2001@@@
-
 LEI COMPLEMENTAR Nº 108, DE 29 DE MAIO DE 2001
 
 Dispõe sobre a relação entre a União, os Estados, o Distrito Federal e os Municípios, suas autarquias, fundações, sociedades de economia mista e outras entidades públicas e suas respectivas entidades fechadas de previdência complementar, e dá outras providências.

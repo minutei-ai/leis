@@ -1,5 +1,3 @@
-###DEC-067780-0-000-10-12-1970@@@
-
 DECRETO Nº 67.780, DE 10 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 25.420 de 1 de setembro de 1948.

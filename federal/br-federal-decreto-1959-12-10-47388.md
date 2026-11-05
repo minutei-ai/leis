@@ -1,5 +1,3 @@
-###DEC-047388-0-000-10-12-1959@@@
-
 DECRETO Nº 47.388, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Odilon Izar a pesquisar água mineral no município de Garça, Estado de São Paulo.

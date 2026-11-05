@@ -1,5 +1,3 @@
-###DEC-081343-0-000-14-02-1978@@@
-
 Decreto nº 81.343, de 14 de fevereiro de 1978
 
 Autoriza o Serviço do Patrimônio da Uniào a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Apodi, Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEL-007356-0-000-05-03-1945@@@
-
 DECRETO-LEI N. 7.356 – DE 5 DE MARÇO DE 1945
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

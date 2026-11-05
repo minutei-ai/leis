@@ -1,5 +1,3 @@
-###DEL-008274-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.274 – DE 4 DE DEZEMBRO DE 1945
 
 Restabelece o regime de compra e venda em Bolsa para os títulos ao portador

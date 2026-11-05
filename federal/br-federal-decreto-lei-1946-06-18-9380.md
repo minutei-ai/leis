@@ -1,5 +1,3 @@
-###DEL-009380-0-000-18-06-1946@@@
-
 DECRETO-LEI N. 9. 380 – DE 18 DE JUNHO DE 1946
 
 Modifica a redação do art. 4º do Decreto-lei nº 6. 550, de 31 de Maio de 1944.

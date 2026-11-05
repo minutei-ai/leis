@@ -1,7 +1,3 @@
-1
-
-###MPV-001359-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.359, DE 12 DE MARÇO DE 1996.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM, e dá outras providências.

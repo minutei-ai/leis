@@ -1,5 +1,3 @@
-###MPV-001749-0-038-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.749-38, DE 8 DE ABRIL DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

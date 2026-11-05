@@ -1,5 +1,3 @@
-###DEC-060386-0-000-11-03-1967@@@
-
 decreto nº 60.386, de 11 de março de 1967.
 
 Dispõe sôbre a forma de pagamento à previdência social de débitos contraído por órgãos federais da Administração Direta e dá outras providências.

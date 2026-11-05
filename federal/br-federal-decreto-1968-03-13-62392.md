@@ -1,5 +1,3 @@
-###DEC-062392-0-000-13-03-1968@@@
-
 DECRETO Nº 62.392, DE 13 DE MARÇO DE 1968.
 
 Autoriza o funcionamento do Instituto de Tecnologia de Governador Valadares - MG.

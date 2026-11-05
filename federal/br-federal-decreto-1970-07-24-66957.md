@@ -1,5 +1,3 @@
-###DEC-066957-0-000-24-07-1970@@@
-
 DECRETO Nº 86.957, DE 24 DE JULHO DE 1970.
 
 Dá nova redação ao artigo 4º, do Decreto nº 66.303, de 6 de março de 1970.

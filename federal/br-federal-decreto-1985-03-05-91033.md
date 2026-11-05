@@ -1,5 +1,3 @@
-###DEC-091033-0-000-05-03-1985@@@
-
 DECRETO Nº 91.033, DE 05 DE MARÇO DE 1985
 
 Autoriza o funcionamento do curso de Tradutor e Intérprete do Instituto Mineiro de Ciências Administrativas e Tecnológicas.

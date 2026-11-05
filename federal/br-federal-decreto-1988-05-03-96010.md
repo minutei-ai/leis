@@ -1,5 +1,3 @@
-###DEC-096010-0-000-03-05-1988@@@
-
 DECRETO N° 96.010, DE 03 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO DIFUSORA PARANAIBENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Paranaíba, Estado do Mato Grosso do Sul.

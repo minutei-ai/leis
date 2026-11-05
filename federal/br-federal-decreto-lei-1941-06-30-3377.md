@@ -1,5 +1,3 @@
-###DEL-003377-0-000-30-06-1941@@@
-
 DECRETO-LEI N. 3.377 – DE 30 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 187:800$0 à verba que especifica

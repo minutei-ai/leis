@@ -1,5 +1,3 @@
-###DEC-071053-0-000-31-08-1972@@@
-
 DECRETO N.º 71.053, DE 31 DE AGOSTO DE 1972.
 
 Autoriza a transferência para o patrimônio da Indústria Carboquímica Catarinense S. A . (ICC), do terreno que menciona, situado no Município de Imbituba, Estado de Santa Catarina.

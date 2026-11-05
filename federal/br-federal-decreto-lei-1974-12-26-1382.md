@@ -1,5 +1,3 @@
-###DEL-001382-0-000-26-12-1974@@@
-
 # DECRETO-LEI Nº 1.382, DE 26 DE DEZEMBRO DE 1974
 
 Dispõe sobre a forma de tributação das empresas agrícolas e dá outras providências.

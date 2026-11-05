@@ -1,5 +1,3 @@
-###DEL-005271-0-000-23-02-1943@@@
-
 DECRETO‑LEI N. 5.271 – DE 23 DE FEVEREIRO DE 1943
 
 Autoriza a alienação de próprio nacional a a permuta de parte de imovel, passivel de desapropriação, por outro da Prefeitura Municipal de São Paulo, nas mesmas condições; declara de utilidade pública a desapropriação dos imoveis que menciona, todos situados na Capital do Estado de São Paulo, e dá outras providências

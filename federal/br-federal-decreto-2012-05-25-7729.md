@@ -1,5 +1,3 @@
-###DEC-007729-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N° 7.729, DE 25 DE MAIO DE 2012
 
 Regulamenta as disposições da Lei n° 12.599, de 23 de março de 2012, relativas ao Programa Cinema Perto de Você, estabelece normas para credenciamento, aprovação e habilitação de projetos para o Regime Especial de Tributação para Desenvolvimento  da Atividade de Exibição Cinematográfica, e dá outras providências.

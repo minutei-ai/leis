@@ -1,22 +1,20 @@
-###DEC-036757-0-000-07-01-1955@@@
+**DECRETO Nº 36.757, DE 7 DE JANEIRO DE 1955.**
 
-<strong>DECRETO Nº 36.757, DE 7 DE JANEIRO DE 1955.</strong>
+***Aprova o Regimento padrão das Seções de Organização dos Ministérios Civis.***
 
-<em><strong>Aprova o Regimento padrão das Seções de Organização dos Ministérios Civis.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado Regimento padrão das Seções de Organização, dos Ministérios Civis, criadas pela Lei número 1.650, de 19 de julho de 1952, e que com êste baixa, assinado pelos Ministros de Estado: da Agricultura, Educação e Cultura, Fazenda, Justiça e Negócios Interiores, Relações Exteriores, Saúde, Trabalho, Indústria e Comércio e Viação e Obras Públicas.
 
-<strong>Art</strong>. 1º Fica aprovado Regimento padrão das Seções de Organização, dos Ministérios Civis, criadas pela Lei número 1.650, de 19 de julho de 1952, e que com êste baixa, assinado pelos Ministros de Estado: da Agricultura, Educação e Cultura, Fazenda, Justiça e Negócios Interiores, Relações Exteriores, Saúde, Trabalho, Indústria e Comércio e Viação e Obras Públicas.
+**Art**. 2º Êste decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entra em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 7 de janeiro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Miguel Seabra Fagundes
 
@@ -34,35 +32,35 @@ Napoleão de Alencastro Guimarães
 
 Aramis Atahyde
 
-<strong>REGIMENTO DAS SEÇÕES DE ORGANIZAÇÃO DOS MINISTÉRIOS CIVIS</strong>
+**REGIMENTO DAS SEÇÕES DE ORGANIZAÇÃO DOS MINISTÉRIOS CIVIS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º As Seções de Organização (S. O.) dos Ministérios Civis, criados pela Lei nº 1.650, de 19 de julho de 1952, tem por fim proceder ao estudo da organização, condições, normas e métodos de trabalho das unidades administrativas dos respectivos Ministérios, bem como sugerir as medidas que julgarem necessárias à sua racionalização e aperfeiçoamento.
+**Art**. 1º As Seções de Organização (S. O.) dos Ministérios Civis, criados pela Lei nº 1.650, de 19 de julho de 1952, tem por fim proceder ao estudo da organização, condições, normas e métodos de trabalho das unidades administrativas dos respectivos Ministérios, bem como sugerir as medidas que julgarem necessárias à sua racionalização e aperfeiçoamento.
 
 Parágrafo único. As S. O. são subordinadas, administrativamente, aos Departamentos de Administração e, no Ministério da Fazenda, à Diretoria Geral da Fazenda Nacional. Técnicamente, são subordinadas ao Departamento Administrativo do Serviço Público.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º As S. O. compreende:
+**Art**. 2º As S. O. compreende:
 
 I - Turma de Organização (T.O.)
 
 II - Turma de Métodos de Trabalho (T.M.)
 
-<strong>Art</strong>. 3º As S. O. terão Chefes designados pelo Diretor-Geral do Departamento de Administração e, no caso do Ministério da Fazenda, pelo Diretor-Geral da Fazenda Nacional, devendo a escolha recair, de preferência, em servidores que possuam conhecimentos especializados de organização.
+**Art**. 3º As S. O. terão Chefes designados pelo Diretor-Geral do Departamento de Administração e, no caso do Ministério da Fazenda, pelo Diretor-Geral da Fazenda Nacional, devendo a escolha recair, de preferência, em servidores que possuam conhecimentos especializados de organização.
 
-<strong>Art</strong>. 4º As T.O. e T.M. serão chefiadas por servidores designados pelos Chefes das S. O.
+**Art**. 4º As T.O. e T.M. serão chefiadas por servidores designados pelos Chefes das S. O.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência</em>
+*Da Competência*
 
-<strong>Art</strong>. 5º Às S. O. compete:
+**Art**. 5º Às S. O. compete:
 
 I - proceder ao estudo da organização, condições de funcionamento, normas e métodos de trabalho adotados no respectivo Ministério, tendo em vista a obtenção de maior eficiência e redução de gastos;
 
@@ -88,7 +86,7 @@ XI - identificar, por meio de verificações efetuadas nas repartições do resp
 
 XII - efetuar exame nos relatórios apresentados pelos chefes de serviço do respectivo Ministério, sugerindo a autoridade superior a adoção de providências que conduzam à melhoria das condições de trabalho do órgão correspondente.
 
-<strong>Art</strong>. 6º Às T.O. compete:
+**Art**. 6º Às T.O. compete:
 
 I - proceder ao levantamento da estrutura do respectivo Ministério e sugerir alterações que julgar necessárias, visando à simplificação e à redução do custo dos serviços;
 
@@ -104,7 +102,7 @@ VI - articular-se com a T.M., nos trabalhos de implantação progressiva dos nov
 
 VII - organizar e manter atualizados fichários de tôdas as leis, decretos, ordens, decisões, circulares e instruções relativas a modificações na estrutura dos órgãos do respectivo Ministério.
 
-<strong>Art</strong>. 7º Às T.M. compete:
+**Art**. 7º Às T.M. compete:
 
 I - realizar estudos e pesquisas sôbre as condições e métodos de trabalho das unidades administrativas do Ministério;
 
@@ -128,11 +126,11 @@ X - colaborar, com as repartições do Ministério, na identificação das causa
 
 XI - estudar os processo relativos a métodos de trabalho, submetido à apreciação do respectivo Ministro de Estado.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 8º Aos Chefes de S. O. incumbe:
+**Art**. 8º Aos Chefes de S. O. incumbe:
 
 I - orientar, dirigir e coordenar os trabalhos da S. O.;
 
@@ -176,7 +174,7 @@ XX - comparecer às reuniões para as quais tenham sido convocados, pela autorid
 
 XXI - apresentar, à autoridade imediatamente superior relatório anual dos trabalhos realizados, em andamento e planejados.
 
-<strong>Art</strong>. 9º Aos Chefes de Turma incumbe:
+**Art**. 9º Aos Chefes de Turma incumbe:
 
 I - orientar e controlar os trabalhos de que forem incumbidos os servidores sob a sua chefia;
 
@@ -192,41 +190,41 @@ VI - aplicar penas de repreensão aos seus subordinados propondo ao chefe da S. 
 
 VII - apresentar, trimestralmente, ao chefe da S. O., relatório dos trabalhos realizados pela Turma.
 
-<strong>Art</strong>. 10. Aos servidores que não tenham atribuições especificadas neste Regimento cumpre realizar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 10. Aos servidores que não tenham atribuições especificadas neste Regimento cumpre realizar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 11. Os serviços a cargo das S. O. serão executados por servidores pertencentes à sua lotação pelos legalmente requisitados e por outros admitidos na forma da legislação em vigor.
+**Art**. 11. Os serviços a cargo das S. O. serão executados por servidores pertencentes à sua lotação pelos legalmente requisitados e por outros admitidos na forma da legislação em vigor.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 12. O horário normal de trabalho das S. O. será fixado pelas autoridades a que estejam subordinadas, observado o número de horas semanais, ou mensais, estabelecido para o Serviço Público Civil.
+**Art**. 12. O horário normal de trabalho das S. O. será fixado pelas autoridades a que estejam subordinadas, observado o número de horas semanais, ou mensais, estabelecido para o Serviço Público Civil.
 
 Parágrafo único. Não ficam sujeitos a ponto os Chefes da S. O.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 13. Os Chefes das S.O., em seus impedimentos eventuais, até 30 dias, serão substituídos pelo Chefe de Turma, por êles indicado e designado pelo Diretor-Geral do respectivo Departamento de Administração, ou, no caso do Ministério da Fazenda, pelo Diretor-Geral da Fazenda Nacional.
+**Art**. 13. Os Chefes das S.O., em seus impedimentos eventuais, até 30 dias, serão substituídos pelo Chefe de Turma, por êles indicado e designado pelo Diretor-Geral do respectivo Departamento de Administração, ou, no caso do Ministério da Fazenda, pelo Diretor-Geral da Fazenda Nacional.
 
-<strong>Art</strong>. 14. Os Chefes de Turma serão substituídos, em seus impedimentos eventuais, até 30 dias, por servidores designados pelos Chefes das S.O.
+**Art**. 14. Os Chefes de Turma serão substituídos, em seus impedimentos eventuais, até 30 dias, por servidores designados pelos Chefes das S.O.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 15. Todo projeto de organização, ou reorganização, de qualquer repartição dos Ministérios, deverá ser prèviamente submetido ao estudo da respectiva S.O.
+**Art**. 15. Todo projeto de organização, ou reorganização, de qualquer repartição dos Ministérios, deverá ser prèviamente submetido ao estudo da respectiva S.O.
 
-<strong>Art</strong>. 16. Para efeito de que trata e art. 1º da Lei nº 1.650, de 19 de julho de 1952, os projetos de organização, ou reorganização após examinados pelas S.O., serão submetidos ao Presidente da República, por intermédio do Departamento Administrativo do Serviço Público.
+**Art**. 16. Para efeito de que trata e art. 1º da Lei nº 1.650, de 19 de julho de 1952, os projetos de organização, ou reorganização após examinados pelas S.O., serão submetidos ao Presidente da República, por intermédio do Departamento Administrativo do Serviço Público.
 
 Rio de Janeiro, 7 de janeiro de 1955.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Miguel Seabra Fagundes
 

@@ -1,5 +1,3 @@
-###DEC-076258-0-000-12-09-1975@@@
-
 Decreto Nº 76.258 - DE 12 DE SETEMBRO DE 1975
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Light - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

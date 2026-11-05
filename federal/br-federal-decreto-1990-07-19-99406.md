@@ -1,7 +1,3 @@
-1
-
-###DEC-099406-0-000-19-07-1990@@@
-
 DECRETO Nº 99.406, DE 19 DE JULHO DE 1990
 
 Dispõe sobre a composição do Conselho Nacional de Informática e Automação e dá outras providências.

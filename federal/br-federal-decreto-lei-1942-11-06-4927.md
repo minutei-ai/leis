@@ -1,5 +1,3 @@
-###DEL-004927-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.927 – DE 6 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito suplementar de Cr$ 584.200,00 à verba que especifica

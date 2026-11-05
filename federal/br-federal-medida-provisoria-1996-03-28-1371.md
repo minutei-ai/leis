@@ -1,7 +1,3 @@
-1
-
-###MPV-001371-0-000-28-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.371, DE 28 DE MARÇO DE 1996.
 
 Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados bens de informática adquiridos pelo Tribunal Superior Eleitoral.

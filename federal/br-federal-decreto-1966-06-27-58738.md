@@ -1,5 +1,3 @@
-###DEC-058738-0-000-27-06-1966@@@
-
 Decreto nº 58.738, de 27 de junho de 1966.
 
 Renova o Decreto nº 52.233, de 9 de julho de 1963.

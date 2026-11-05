@@ -1,5 +1,3 @@
-###LCP-000092-0-000-23-12-1997@@@
-
 LEI COMPLEMENTAR Nº 92, DE 23 DE DEZEMBRO DE 1997
 
 Altera a legislação do imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação.

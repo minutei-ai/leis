@@ -1,5 +1,3 @@
-###DEC-005611-0-000-12-12-2005@@@
-
 DECRETO Nº 5.611, DE 12 DE DEZEMBRO DE 2005.
 
 Autoriza a Secretaria Especial dos Direitos Humanos da Presidência da República a dar cumprimento às recomendações da Comissão Interamericana de Direitos Humanos, e dá outras providências.

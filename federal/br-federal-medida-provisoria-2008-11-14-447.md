@@ -1,5 +1,3 @@
-###MPV-000447-0-000-14-11-2008@@@
-
 MEDIDA PROVISÓRIA Nº 447, DE 14 DE NOVEMBRO DE 2008.
 
 Altera a Medida Provisória no 2.158-35, de 24 de agosto de 2001, a Lei no 10.637, de 30 de dezembro de 2002, a Lei no 10.833, de 29 de dezembro de 2003, a Lei no 8.383, de 30 de dezembro de 1991, a Lei no 11.196, de 21 de novembro de 2005, a Lei no 8.212, de 24 de julho de 1991, e a Lei no 10.666, de 8 de maio de 2003, para alterar o prazo de pagamento dos impostos e contribuições federais que especifica.

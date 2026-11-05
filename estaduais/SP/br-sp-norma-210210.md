@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210210)<br>
-
 # DECRETO LEGISLATIVO N° 2.555, DE 12 DE NOVEMBRO DE 2024
 
 ### _Aprova a indicação de membro para integrar a Diretoria da Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP._

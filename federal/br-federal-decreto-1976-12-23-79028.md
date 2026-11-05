@@ -1,5 +1,3 @@
-###DEC-079028-0-000-23-12-1976@@@
-
 DECRETO Nº 79.028, DE 23 DE DEZEMBRO DE 1976.
 
 Fixa, para o exercício de 1977, o limite global de importação, através da Zona Franca de Manaus, e dá outras providências.

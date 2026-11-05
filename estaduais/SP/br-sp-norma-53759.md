@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53759)
-
 # LEI Nº 11.934, DE 07 DE JUNHO DE 2005
 
 ## (PL 525/2004 - Aldo Demarchi)

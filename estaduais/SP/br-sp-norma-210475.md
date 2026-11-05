@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210475)<br>
-
 # DECRETO N° 69.250, DE 26 DE DEZEMBRO DE 2024
 
 ### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração de imóvel que especifica._

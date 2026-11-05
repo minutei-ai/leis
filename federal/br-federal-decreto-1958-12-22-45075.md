@@ -1,5 +1,3 @@
-###DEC-045075-0-000-22-12-1958@@@
-
 Decreto nº 45.075, de 22 de dezembro de 1958.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Pedro II, no Estado do Piauí.

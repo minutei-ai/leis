@@ -1,5 +1,3 @@
-###DEC-091294-0-000-31-05-1985@@@
-
 Decreto nº 91.294, de 31 de Maio de 1985
 
 Altera dispositivo do Regulamento do Imposto de Renda aprovado pelo Decreto nº 85.450, de 4 de dezembro de 1980.

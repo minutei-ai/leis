@@ -1,5 +1,3 @@
-###DEC-075520-0-000-21-03-1975@@@
-
 DECRETO Nº 75.520, DE 21 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Contábeis e Administrativas Augusto Motta, mantida pela Sociedade Unificada de Ensino Superior Augusto Motta, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

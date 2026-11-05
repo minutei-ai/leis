@@ -1,7 +1,3 @@
-1
-
-###DEC-001694-0-000-13-11-1995@@@
-
 DECRETO Nº 1.694, DE 13 DE NOVEMBRO DE 1995.
 
 Cria o Sistema Nacional de Informações da Pesca e Aqüicultura - SINPESQ, e dá outras providências.

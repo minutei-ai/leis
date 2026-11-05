@@ -1,5 +1,3 @@
-###DEC-049937-0-000-13-01-1961@@@
-
 Decreto Nº 49.937, DE 13 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Rosendo Serapião de Souza Filho a pesquisar água mineral, no município da Serra, Estado do Espírito Santo.

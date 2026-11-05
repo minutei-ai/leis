@@ -1,5 +1,3 @@
-###DEC-091780-0-000-15-10-1985@@@
-
 DECRETO Nº 91.780, DE 15 DE OUTUBRO DE 1985
 
 Autoriza a prorrogação do funcionamento dos cursos de Estudos Sociais, Letras e Ciências do Centro de Ensino Superior de Erexim.

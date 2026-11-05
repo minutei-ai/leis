@@ -1,5 +1,3 @@
-###DEC-055741-0-000-09-02-1965@@@
-
 decreto nº 55.741, de 9 de fevereiro de 1965.
 
 Declara de utilidade pública o “Instituto Ana Gonzaga”, com sede no Estado da Guanabara.

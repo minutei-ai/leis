@@ -1,5 +1,3 @@
-###MPV-002167-0-053-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.167-53, DE 23 DE AGOSTO DE 2001
 
  Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

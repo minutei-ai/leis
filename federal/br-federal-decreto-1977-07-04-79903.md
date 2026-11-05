@@ -1,5 +1,3 @@
-###DEC-079903-0-000-04-07-1977@@@
-
 DECRETO Nº 79.903, DE 4 DE JULHO DE 1977
 
 Concede à Comércio e Exploração de Minérios Ltda. - COMEXMIL o direito de lavrar minério de ferro no Município de Brumadinho, Estado de Minas Gerais.

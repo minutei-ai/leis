@@ -1,5 +1,3 @@
-###DEC-006636-0-000-05-11-2008@@@
-
 DECRETO Nº 6.636, DE 5 DE NOVEMBRO DE 2008.
 
 Dispõe sobre o percentual máximo do Fundo de Combate e Erradicação da Pobreza a ser destinado às despesas administrativas para o exercício de 2008.

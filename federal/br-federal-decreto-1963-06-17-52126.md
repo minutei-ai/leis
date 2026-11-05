@@ -1,5 +1,3 @@
-###DEC-052126-0-000-17-06-1963@@@
-
 Decreto nº 52.126, de 17 de junho de 1963.
 
 Estabelece providências para a regularização do abastecimento de produtos siderúrgicos ao mercado e cria a Comissão Executiva do Plano de Importação de Produtos Siderúrgicos (CEPLA).

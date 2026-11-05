@@ -1,5 +1,3 @@
-###DEL-009705-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.705 – DE 3 DE SETEMBRO DE 1946 
 
 Torna sem aplicação parte da dotação da Verba 3 – Serviço e Encargos do Ministério da Agricultura, e abre crédito suplementar ao mesmo Ministério e dá outras providências.

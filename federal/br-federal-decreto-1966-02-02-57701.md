@@ -1,5 +1,3 @@
-###DEC-057701-0-000-02-02-1966@@@
-
 DECRETO Nº 57.701, DE 2 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Duque de Caxias, Estado do Rio de janeiro.

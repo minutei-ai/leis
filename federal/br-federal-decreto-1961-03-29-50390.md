@@ -1,5 +1,3 @@
-###DEC-050390-0-000-29-03-1961@@@
-
 DECRETO Nº 50.390, DE 29 DE MARÇO DE 1961
 
 Dispõe sôbre o funcionamento do Ministério das Minas e Energia.

@@ -1,5 +1,3 @@
-###DEC-076392-0-000-06-10-1975@@@
-
 Decreto Nº 76.392, DE 6 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras e Saneamento - D.N.O.S. - área de terreno situada no Município de Ibirama, no Estado de Santa Catarina.

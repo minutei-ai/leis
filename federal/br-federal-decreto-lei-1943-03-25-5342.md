@@ -1,5 +1,3 @@
-###DEL-005342-0-000-25-03-1943@@@
-
 DECRETO‑LEI N. 5.342 – DE 25 DE MARÇO DE 1943
 
 Dispõe sobre a competência do Conselho Nacional de Desportos e a disciplina das atividades desportivas, e dá outras providências

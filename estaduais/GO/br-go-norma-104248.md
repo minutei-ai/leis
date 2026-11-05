@@ -174,8 +174,6 @@ III – 1º de fevereiro de 2021, quanto ao inciso XXXIV do art. 9º do Anexo IX
 
 Goiânia, 28 de julho de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

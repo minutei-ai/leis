@@ -1,5 +1,3 @@
-###DEC-065298-0-000-07-10-1969@@@
-
 DECRETO Nº 65.298 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto número 19.491 de 23 de agôsto de 1945.

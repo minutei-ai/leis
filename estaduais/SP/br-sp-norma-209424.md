@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209424)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2024/compilacao-lei-17939-13.05.2024.html)
 
 # LEI N° 17.939, DE 13 DE MAIO DE 2024

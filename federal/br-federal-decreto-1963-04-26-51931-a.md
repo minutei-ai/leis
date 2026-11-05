@@ -1,5 +1,3 @@
-###DEC-051931-A-000-26-04-1963@@@
-
 DECRETO Nº 51.931-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Marcelo Vieira Coelho a pesquisar xisto argiloso, no município de Pirapora do Bom Jesus, Estado de São Paulo.

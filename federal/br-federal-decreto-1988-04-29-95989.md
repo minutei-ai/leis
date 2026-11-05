@@ -1,5 +1,3 @@
-###DEC-095989-0-000-29-04-1988@@@
-
 DECRETO N° 95.989, DE 29 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA RECANTO” ou “ESTRELA” (LOTES 1, 2, 3, 4, 5, 6, 7 E 8 DA GLEBA 3 DA COLÔNIA XAGU; LOTE 9 DÁ GLEBA 3 - 1ª PARTE DA COLÔNIA XAGU E LOTES 1, 2, 3, 4, 6, 11 E 12 DA GLEBA 3 -  1ª PARTE SEÇÃO B DA COLÔNIA XAGU), classificado como latifúndio por exploração, situado no Município de Laranjeiras do Sul, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 02 de maio de 1986, e dá outras providências.

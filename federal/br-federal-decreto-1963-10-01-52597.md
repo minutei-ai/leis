@@ -1,5 +1,3 @@
-###DEC-052597-0-000-01-10-1963@@@
-
 Decreto Nº 52.597, DE 1 DE OUTUBRO DE 1963.
 
 Outorga a Irmãos Agibert e Cia. Ltda. concessão para o aproveitamento da energia hidráulica do desnível Salto Rio dos Patos existente no Rio dos Patos, Município de Prudentópolis, Estado do Paraná.
@@ -39,8 +37,6 @@ Brasília, 1 de outubro de 1963; 142º da Independência e 75º da República
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-052597-0-000-01-10-1963@@@
 
 Decreto Nº 52.797, DE 1 DE OUTUBRO DE 1963.
 

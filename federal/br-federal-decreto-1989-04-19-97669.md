@@ -1,7 +1,3 @@
-1
-
-###DEC-097669-0-000-19-04-1989@@@
-
 DECRETO N° 97.669, DE 19 DE ABRIL DE 1989
 
 Dispõe sobre o Dia Nacional da Aviação Agrícola e dá outras providências.

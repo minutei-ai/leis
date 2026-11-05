@@ -1,5 +1,3 @@
-###MPV-001789-0-003-25-03-1999@@@
-
 MEDIDA PROVISÓria Nº 1.789-3, DE 25 DE MARÇO dE 1999
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

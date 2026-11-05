@@ -1,5 +1,3 @@
-###DEC-003517-0-000-20-06-2000@@@
-
 DECRETO Nº 3.517, DE 20 DE JUNHO DE 2000.
 
 Promulga a Convenção Internacional Contra a Tomada de Reféns, concluída em Nova York, em 18 de dezembro de 1979, com a reserva prevista no parágrafo 2º do art. 16.

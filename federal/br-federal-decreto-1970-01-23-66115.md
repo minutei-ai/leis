@@ -1,5 +1,3 @@
-###DEC-066115-0-000-23-01-1970@@@
-
 DECRETO Nº 66.115 - DE 23 DE JANEIRO DE 1970
 
 Concede reconhecimento de Faculdade.

@@ -1,5 +1,3 @@
-###DEC-084405-0-000-18-01-1980@@@
-
 Decreto nº 84.405, de 18 de janeiro de 1980
 
 Revigora o Decreto nº 69.618, de 30 de novembro de 1971, que dispõe sobre a isenção do IPI nos produtos destinados à construção, instalação, ampliação ou modernização de sedes de embaixadas e repartições consulares.
@@ -17,8 +15,6 @@ Brasília, 18 de janeiro de 1980; 159º da Independência e 92º da República.
 JOÃO FIGUEIREDO
 
 Ernane Galvêas
-
-###DEC-084405-0-000-18-01-1980@@@RET01+++
 
 DECRETO Nº 84.405, DE 18 DE JANEIRO DE 1980
 

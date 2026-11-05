@@ -1,5 +1,3 @@
-###DEC-062008-0-000-29-12-1967@@@
-
 DECRETO nº 62.008, de 29 de dezembro de 1967.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de transmissão.

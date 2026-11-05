@@ -1,5 +1,3 @@
-###DEC-077835-0-000-16-06-1976@@@
-
 DECRETO Nº 77.835, DE 16 DE JUNHO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Mapinguari Ltda., cuja denominação foi, posteriormente, alterada para Rádio Copacabana Ltda., para executar serviços de radiodifusão sonora em onda média de âmbito regional, na cidade de São Gonçalo, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-053571-0-000-20-02-1964@@@
-
 DECRETO Nº 53.571, DE 20 DE FEVEREIRO DE 1964.
 
 Torna insubsistente o Decreto número 44.311, de 11 de agôsto de 1958.

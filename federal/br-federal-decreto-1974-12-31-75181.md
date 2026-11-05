@@ -1,5 +1,3 @@
-###DEC-075181-0-000-31-12-1974@@@
-
 DECRETO Nº 75.181, DE 31 DE dezembro DE 1974.
 
 Altera a redação do item I do artigo 6º do Regulamento para a Diretoria de Administração da Marinha, aprovado pelo Decreto número 66.395, de 25 de março de 1970.
@@ -21,8 +19,6 @@ Brasília, 31 de dezembro de 1974; 153º da Independência e 86º da República.
 ERNESTO GEISEL
 
 Geraldo Azevedo henning
-
-###DEC-075181-0-000-31-12-1974@@@RET01+++
 
 DECRETO Nº 75.181, DE 31 DE DEZEMBRO DE 1974.
 

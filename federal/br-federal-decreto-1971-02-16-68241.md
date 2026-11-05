@@ -1,5 +1,3 @@
-###DEC-068241-0-000-16-02-1971@@@
-
 DECRETO Nº 68.241, DE 16 DE FEVEREIRO DE 1971.
 
 Retifica o artigo 1º do Decreto número 59.976, de 10 de janeiro de 1967.

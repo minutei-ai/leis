@@ -1,5 +1,3 @@
-###DEC-091860-0-000-01-11-1985@@@
-
 Decreto nº 91.860, de 1º de novembro de 1985
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-052947-0-000-26-11-1963@@@
-
 DECRETO Nº 52.947,DE 26 DE NOVEMBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Pirenópolis, Estado de Goiás, concessão para produzir e distribuir energia elétrica.

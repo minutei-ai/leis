@@ -1,5 +1,3 @@
-###DEC-059794-0-000-19-12-1966@@@
-
 DECRETO N 59.794, DE 19 DE DEZEMBRO DE 1966.
 
 Outorga à Companhia Estadual de Energia Elétrica do Estado do Rio Grande do Sul concessão para distribuir energia elétrica.

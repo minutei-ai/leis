@@ -1,7 +1,3 @@
-1
-
-###DEC-099260-0-000-17-05-1990@@@
-
 DECRETO N° 99.260 DE 17 DE MAIO DE 1990
 
 Aprova o Estatuto do Instituto de Pesquisa Econômica Aplicada - IPEA e dá outras providências.

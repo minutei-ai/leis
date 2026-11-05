@@ -1,5 +1,3 @@
-###MPV-000213-0-000-10-09-2004@@@
-
 MEDIDA PROVISÓRIA Nº 213, DE 10 DE SETEMBRO DE 2004
 
 Institui o Programa Universidade para Todos - PROUNI, regula a atuação de entidades beneficentes de assistência social no ensino superior, e dá outras providências.

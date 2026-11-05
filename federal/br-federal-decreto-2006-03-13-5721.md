@@ -1,5 +1,3 @@
-###DEC-005721-0-000-13-03-2006@@@
-
 DECRETO Nº 5.721, DE 13 DE MARÇO DE 2006.
 
 Promulga o Acordo entre a República Federativa do Brasil e a República da Coréia sobre Assistência Judiciária Mútua em Matéria Penal, celebrado em Brasília, em 13 de dezembro de 2002.
@@ -308,4 +306,12 @@ Vigência e Denúncia
 
         Feito em Brasília, em 13 de dezembro de 2002, em dois exemplares originais, nos idiomas português, coreano e inglês, sendo todos os textos igualmente autênticos. Em caso de qualquer divergência de interpretação, o texto em inglês deverá prevalecer.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:231.35pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_______________________________ PELA REPÚBLICA FEDERATIVA DO BRASIL PAULO DE TARSO RAMOS RIBEIRO Ministro da Justiça</span></p></td><td style="width:231.4pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">______________________________ PELA REPÚBLICA DA CORÉIA MYUNGBAI KIM Embaixador</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:231.35pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+_______________________________ PELA REPÚBLICA FEDERATIVA DO BRASIL PAULO DE TARSO RAMOS RIBEIRO Ministro da Justiça
+
+</td><td style="width:231.4pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+______________________________ PELA REPÚBLICA DA CORÉIA MYUNGBAI KIM Embaixador
+
+</td></tr></tbody></table>

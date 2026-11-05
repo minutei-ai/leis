@@ -1,5 +1,3 @@
-###DEC-076608-0-000-17-11-1975@@@
-
 DECRETO Nº 76.608, DE 17 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Farmácia da Faculdade de Farmácia e Bioquímica do Espírito Santo, com sede na Cidade de Vitória, Estado do Espírito Santo.

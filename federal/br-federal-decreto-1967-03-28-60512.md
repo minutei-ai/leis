@@ -1,5 +1,3 @@
-###DEC-060512-0-000-28-03-1967@@@
-
 DECRETO Nº 60.512, DE 28 DE MARÇO DE 1967.
 
 Altera o preço mínimo básico para financiamento ou aquisição de Girassol das Regiões Central e Meridional do País, da safra do ano de 1967, fixado pelo Decreto nº 58.976, de 3 de agôsto de 1966.

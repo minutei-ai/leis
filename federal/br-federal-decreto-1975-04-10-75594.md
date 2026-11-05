@@ -1,5 +1,3 @@
-###DEC-075594-0-000-10-04-1975@@@
-
 DECRETO Nº 75.594 - DE 10 DE ABRIL DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL,  no Estado de São Paulo.

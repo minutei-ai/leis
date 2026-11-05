@@ -1,5 +1,3 @@
-###DEC-059353-0-000-04-10-1966@@@
-
 DECRETO Nº 59.353, DE 4 DE OUTUBRO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Jaguarão – RS, destinado ao Ministério da Guerra.

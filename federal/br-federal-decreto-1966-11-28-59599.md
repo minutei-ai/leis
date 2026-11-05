@@ -1,5 +1,3 @@
-###DEC-059599-0-000-28-11-1966@@@
-
 DECRETO Nº 59.599, DE 28 DE NOVEMBRO DE 1966.
 
 Dá nova redação ao § 1º do art. 1º do Decreto 50.640, de 20.5.61, que regulamentou o uso de carros oficiais.

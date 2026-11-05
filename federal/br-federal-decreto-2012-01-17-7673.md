@@ -1,5 +1,3 @@
-###DEC-007673-0-000-17-01-2012-PUB-01@@@
-
 DECRETO Nº 7.673, DE 17 DE JANEIRO DE 2012
 
 Fixa, para o Exército, os quantitativos de vagas para promoções obrigatórias de oficiais das Armas, Quadros e Serviços que menciona, no ano-base de 2011.

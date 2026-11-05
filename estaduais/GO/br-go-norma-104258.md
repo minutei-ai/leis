@@ -1,4 +1,5 @@
-LEI Nº 21.071, DE 9 DE AGOSTO DE 2021<br>
+LEI Nº 21.071, DE 9 DE AGOSTO DE 2021
+
 \- [Vide Decreto nº 10.330, de 18-10-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107860/decreto-10330).
 
 Cria o Programa de Alfabetização AlfaMais Goiás pela criança alfabetizada, em regime de colaboração com os municípios goianos, e dá outras providências.
@@ -73,7 +74,8 @@ Art. 9º Os municípios que aderirem ao Programa de Alfabetização AlfaMais Goi
 
 § 3º Os recursos recebidos pelas escolas devem ser aplicados em conformidade com o Plano de Desenvolvimento de Aprendizagens.
 
-Art. 10. O Estado oferecerá material didático complementar, pagamento de bolsas a profissionais responsáveis pela formação e acompanhamento pedagógico das unidades de ensino.<br>
+Art. 10. O Estado oferecerá material didático complementar, pagamento de bolsas a profissionais responsáveis pela formação e acompanhamento pedagógico das unidades de ensino.
+
 \- [Vide Decreto nº 9.947, de 16-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104306/decreto-9947) - Autoriza a Secretaria de Estado da Educação a pagar a bolsa de apoio técnico aos servidores que atuarem no Programa de Alfabetização AlfaMais Goiás.
 
 Parágrafo único. Os profissionais responsáveis pela formação e acompanhamento pedagógico das unidades de ensino serão selecionados mediante critérios estabelecidos em decreto governamental, de acordo com a categoria, a disponibilidade e o valor das bolsas detalhados no art. 11 desta Lei.
@@ -86,73 +88,88 @@ I – Categoria I – nível estadual:
 
 a) 1 (uma) bolsa mensal para coordenador estadual no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
 
-b) 1 (uma) bolsa mensal para Especialista em Educação Infantil no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;<br>
+b) 1 (uma) bolsa mensal para Especialista em Educação Infantil no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~b) 1 (uma) bolsa mensal para especialista em Educação Infantil no valor unitário de R$ 1.800,00 (um mil e oitocentos reais) , no total de 12 (doze) bolsas anuais;~~
 
-c) 1 (uma) bolsa mensal para Especialista em Alfabetização no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;<br>
+c) 1 (uma) bolsa mensal para Especialista em Alfabetização no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~c) 1 (uma) bolsa mensal para especialista em Alfabetização no valor unitário de R$ 1.800,00 (um mil e oitocentos reais) , no total de 12 (doze) bolsas anuais;~~
 
-d) 1 (uma) bolsa mensal para Especialista em Gestão no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;<br>
+d) 1 (uma) bolsa mensal para Especialista em Gestão no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~d) 4 (quatro) bolsas mensais para professor formador em Educação Infantil no valor unitário de R$ 1.200,00 (um mil e duzentos reais) , no total de 12 (doze) bolsas anuais; e~~
 
-e) 6 (seis) bolsas mensais para Professor Formador em Educação Infantil no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;<br>
+e) 6 (seis) bolsas mensais para Professor Formador em Educação Infantil no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~e) 4 (quatro) bolsas mensais para professor formador em Alfabetização no valor unitário de R$ 1.200,00 (um mil e duzentos reais) , no total de 12 (doze) bolsas anuais;~~
 
-f) 6 (seis) bolsas mensais para Professor Formador em Alfabetização no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais; e<br>
+f) 6 (seis) bolsas mensais para Professor Formador em Alfabetização no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais; e
+
 \- [Acrescida pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
-g) 6 (seis) bolsas mensais para Professor Formador em Gestão no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;<br>
+g) 6 (seis) bolsas mensais para Professor Formador em Gestão no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Acrescida pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 II – Categoria II – nível regional:
 
-a) 40 (quarenta) bolsas mensais para Articulador Regional no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;<br>
+a) 40 (quarenta) bolsas mensais para Articulador Regional no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~a) 40 (quarenta) bolsas mensais para articulador regional no valor unitário de R$ 1.000,00 (um mil reais) , no total de 12 (doze) bolsas anuais;~~
 
-b) 40 (quarenta) bolsas mensais para Formador em Educação Infantil no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;<br>
+b) 40 (quarenta) bolsas mensais para Formador em Educação Infantil no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~b) 40 (quarenta) bolsas mensais para formador em Educação Infantil no valor unitário de R$ 600,00 (seiscentos reais) , no total de 12 (doze) bolsas anuais; e~~
 
-c) 40 (quarenta) bolsas mensais para Formador em Alfabetização no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais; e<br>
+c) 40 (quarenta) bolsas mensais para Formador em Alfabetização no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais; e
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~c) 40 (quarenta) bolsas mensais para formador em Alfabetização no valor unitário de R$ 600,00 (seiscentos reais) , no total de 12 (doze) bolsas anuais;~~
 
-d) 40 (quarenta) bolsas mensais para Formador em Gestão no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;<br>
+d) 40 (quarenta) bolsas mensais para Formador em Gestão no valor unitário de R$ 2.000,00 (dois mil reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Acrescida pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 III – Categoria III – nível municipal:
 
-a) 246 (duzentas e quarenta e seis) bolsas mensais para Articuladores Municipais no valor unitário de R$ 1.800,00 (mil e oitocentos reais) , no total de 12 (doze) bolsas anuais;<br>
+a) 246 (duzentas e quarenta e seis) bolsas mensais para Articuladores Municipais no valor unitário de R$ 1.800,00 (mil e oitocentos reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~a) 246 (duzentas e quarenta e seis) bolsas mensais para articuladores municipais no valor unitário de R$ 1.000,00 (um mil reais) , no total de 12 (doze) bolsas anuais;~~
 
-b) 246 (duzentas e quarenta e seis) bolsas mensais para Formadores em Educação Infantil no valor unitário de R$ 1.500,00 (mil e quinhentos reais) , no total de 12 (doze) bolsas anuais;<br>
+b) 246 (duzentas e quarenta e seis) bolsas mensais para Formadores em Educação Infantil no valor unitário de R$ 1.500,00 (mil e quinhentos reais) , no total de 12 (doze) bolsas anuais;
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~b) 246 (duzentas e quarenta e seis) bolsas mensais para formadores em Educação Infantil no valor unitário de R$ 600,00 (seiscentos reais) , no total de 12 (doze) bolsas anuais; e~~
 
-c) 246 (duzentas e quarenta e seis) bolsas mensais para Formadores em Alfabetização no valor unitário de R$ 1.500,00 (mil e quinhentos reais) , no total de 12 (doze) bolsas anuais; e<br>
+c) 246 (duzentas e quarenta e seis) bolsas mensais para Formadores em Alfabetização no valor unitário de R$ 1.500,00 (mil e quinhentos reais) , no total de 12 (doze) bolsas anuais; e
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~c) 246 (duzentas e quarenta e seis) bolsas mensais para formadores em Alfabetização no valor unitário de R$ 600,00 (seiscentos reais) , no total de 12 (doze) bolsas anuais.~~
 
-d) 246 (duzentas e quarenta e seis) bolsas mensais para Formadores em Gestão no valor unitário de R$ 1.500,00 (mil e quinhentos reais) , no total de 12 (doze) bolsas anuais.<br>
+d) 246 (duzentas e quarenta e seis) bolsas mensais para Formadores em Gestão no valor unitário de R$ 1.500,00 (mil e quinhentos reais) , no total de 12 (doze) bolsas anuais.
+
 \- [Acrescida pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
-§ 2º O prazo de concessão das bolsas será, no mínimo, de 3 (três) meses e, no máximo, de 24 (vinte e quatro) meses, permitida a prorrogação por apenas um período, limitado a 48 (quarenta e oito) meses.<br>
+§ 2º O prazo de concessão das bolsas será, no mínimo, de 3 (três) meses e, no máximo, de 24 (vinte e quatro) meses, permitida a prorrogação por apenas um período, limitado a 48 (quarenta e oito) meses.
+
 \- [Redação dada pela Lei nº 22.224, de 21-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107669/lei-22224).
 
 ~~§ 2º O prazo de concessão das bolsas será, no mínimo, de 3 (três) meses e, no máximo, de 12 (doze) meses, permitida a prorrogação por um único período, até o limite de 24 (vinte e quatro) meses.~~
@@ -162,8 +179,6 @@ Art. 12. As despesas decorrentes da aplicação desta Lei correrão à conta das
 Art. 13. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 9 de agosto de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

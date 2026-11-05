@@ -1,5 +1,3 @@
-###DEC-049617-0-000-29-12-1960@@@
-
 DECRETO Nº 49.617, DE 29 DE DEZMBRO DE 1960.
 
 Estabelece o regime de organização e funcionamento das Caixas Econômicas Federais e dá outras providências.

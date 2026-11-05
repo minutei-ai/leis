@@ -1,5 +1,3 @@
-###DEC-076396-0-000-07-10-1975@@@
-
 Decreto Nº 76.396, DE 7 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de  Santa Catarina S.A - CELESC.

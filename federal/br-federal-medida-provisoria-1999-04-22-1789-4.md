@@ -1,5 +1,3 @@
-###MPV-001789-0-004-22-04-1999@@@
-
 MEDIDA PROVIÓRIA Nº 1.789-4, DE 22 DE ABRIL DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

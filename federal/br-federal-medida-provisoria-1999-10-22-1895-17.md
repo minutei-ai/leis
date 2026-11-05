@@ -1,5 +1,3 @@
-###MPV-001895-0-017-22-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.895-17, DE 22 DE OUTUBRO DE 1999.
 
 Dá nova redação no art. 57 da Lei nº 4.878, de 3 de dezembro de 1965, que dispõe sobre o regime jurídico peculiar aos funcionários policiais civis da União e do Distrito Federal, e dá outras providências.

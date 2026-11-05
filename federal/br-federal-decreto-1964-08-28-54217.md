@@ -1,5 +1,3 @@
-###DEC-054217-0-000-28-08-1964@@@
-
 DECRETO Nº 54.217, DE 28 DE AGÔSTO DE 1964.
 
 Modifica o Regime do Conselho Federal de Educação, aprovado pelo Decreto nº 52.617, de 7 de outubro de 1963.

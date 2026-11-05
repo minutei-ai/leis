@@ -1,5 +1,3 @@
-###DEL-004781-A-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.781 – A – DE 5 DE OUTUBRO DE 1942
 
 Cria o Comando da Artilharia da 7ª Região Militar

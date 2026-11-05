@@ -1,5 +1,3 @@
-###DEC-076422-0-000-10-10-1975@@@
-
 DECRETO Nº 76.422, DE 10 DE OUTUBRO DE 1975
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração de Empresas de Araçatuba, com sede na cidade de Araçatuba, Estado de São Paulo.

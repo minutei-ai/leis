@@ -1,5 +1,3 @@
-###DEC-003298-0-000-20-12-1999@@@
-
 DECRETO Nº 3.298, DE 20 DE DEZEMBRO DE 1999.
 
 Regulamenta a Lei nº 7.853, de 24 de outubro de 1989, dispõe sobre a Política Nacional para a Integração da Pessoa Portadora de Deficiência, consolida as normas de proteção, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057217-0-000-10-11-1965@@@
-
 DECRETO Nº 57.217, DE 10 DE NOVEMBRO DE 1965.
 
 Autoriza a Companhia Ferro Brasileiro S.A. a instalar uma turbina a vapor em José Brandão, Município de Caeté, Estado de Minas Gerais, para uso exclusivo.

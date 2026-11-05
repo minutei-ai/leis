@@ -1,7 +1,3 @@
-1
-
-###DEC-001308-0-000-11-11-1994@@@
-
 DECRETO Nº 1.308, DE 11 DE NOVEMBRO DE 1994
 
 Dispõe sobre levantamento parcial, em território nacional, do regime de sanções contra a República Federal da Iugoslávia, conforme determinado pela Resolução 943 (1994) do Conselho de Segurança das Nações Unidas.

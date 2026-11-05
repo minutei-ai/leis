@@ -1,5 +1,3 @@
-###DEC-090599-0-000-30-11-1984@@@
-
 Decreto nº 90.599, de 30 de novembro de 1984
 
 Outorga concessão à RÁDIO ASSUNÇÃO CEARENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Sobral, Estado do Ceará.

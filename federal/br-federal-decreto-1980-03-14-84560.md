@@ -1,5 +1,3 @@
-###DEC-084560-0-000-14-03-1980@@@
-
 decreto nº 84.560, de 14 de março de 1980
 
 Regulamenta a Lei nº 6.708, de 30 de outubro de 1979, que dispõe sobre a correção automática dos salários, modifica a política salarial e dá outras providências.

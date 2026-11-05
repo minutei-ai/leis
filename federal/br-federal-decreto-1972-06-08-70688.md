@@ -1,5 +1,3 @@
-###DEC-070688-0-000-08-06-1972@@@
-
 Decreto nº 70.688, de 8 de junho de 1972.
 
 Autoriza a transferência do Colégio Agrícola "Manoel Barata", da sede atual, na localidade de Outeiro, Ilha de Caratateua, Município de Belém, para a Cidade de Castanhal, Município de Castanhal, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-074562-0-000-16-09-1974@@@
-
 decreto nº 74.562, de 16 de setembro de 1974.
 
 Dispõe sobre a colaboração dos Professores, Monitores ou Alfabetizadores recrutados pelas Comissões Municipais da Fundação Movimento Brasileiro de Alfabetização - MOBRAL.

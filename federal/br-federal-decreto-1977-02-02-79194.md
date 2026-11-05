@@ -1,5 +1,3 @@
-###DEC-079194-0-000-02-02-1977@@@
-
 DECRETO Nº 79.194, 2 DE FEVEREIRO DE 1977.
 
 Dispõe sobre a cessão nas condições que menciona, de bens imóveis da União, e dá outras providências.

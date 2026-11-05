@@ -1,5 +1,3 @@
-###DEC-074263-0-000-08-07-1974@@@
-
 DECRETO Nº 74.263 - DE 8 DE JULHO DE 1974.
 
 Cria a Embaixada do Brasil na República Popular de Bangladesh.

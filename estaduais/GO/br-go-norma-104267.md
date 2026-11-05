@@ -54,23 +54,28 @@ III – não possua crédito tributário inscrito em dívida ativa estadual.
 
 § 1º Na hipótese do inciso II, a falta de pagamento ou o pagamento parcial correspondente a determinado período de apuração implica perda do direito de o estabelecimento utilizar o crédito outorgado previsto no art. 3º, exclusivamente no referido período de apuração, exceto quando, antes do início da ação fiscal, houver o pagamento integral ou parcial, hipótese em que fica permitida a utilização integral ou proporcional do benefício, conforme o caso, observadas ainda as demais disposições previstas na legislação tributária.
 
-§ 2º Na hipótese do inciso III do _caput_ deste artigo, o estabelecimento fica impedido de utilizar o crédito outorgado previsto no art. 3º deste Decreto, na apuração do ICMS correspondente ao mês da inscrição em dívida ativa até a apuração do ICMS correspondente ao mês anterior à sua regularização, nos termos da legislação tributária.<br>
+§ 2º Na hipótese do inciso III do _caput_ deste artigo, o estabelecimento fica impedido de utilizar o crédito outorgado previsto no art. 3º deste Decreto, na apuração do ICMS correspondente ao mês da inscrição em dívida ativa até a apuração do ICMS correspondente ao mês anterior à sua regularização, nos termos da legislação tributária.
+
 \- [Redação dada pelo Decreto nº 10.758, de 15-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111145). Efeitos retroativos a 1º-2-2025.
 
 ~~§ 2º Na hipótese do inciso III, o estabelecimento fica impedido de utilizar, em caráter definitivo, o crédito outorgado previsto no art. 3º, na apuração do ICMS correspondente ao mês da inscrição em dívida ativa até a apuração do ICMS correspondente ao mês anterior à sua regularização, nos termos da legislação tributária.~~
 
-§ 3º A existência de crédito tributário inscrito em dívida ativa não constitui empecilho à utilização do crédito outorgado previsto no art. 3º deste Decreto, quando:<br>
+§ 3º A existência de crédito tributário inscrito em dívida ativa não constitui empecilho à utilização do crédito outorgado previsto no art. 3º deste Decreto, quando:
+
 \- [Redação dada pelo Decreto nº 10.758, de 15-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111145). Efeitos retroativos a 1º-2-2025.
 
 ~~§ 3º A existência de crédito tributário inscrito em dívida ativa cuja exigibilidade esteja suspensa nos termos da lei ou para o qual tenha sido efetivada a penhora de bens suficientes para o pagamento do total da dívida não constitui empecilho à utilização do crédito outorgado previsto no art. 3º.~~
 
-I – a exigibilidade esteja suspensa nos termos da lei;<br>
+I – a exigibilidade esteja suspensa nos termos da lei;
+
 \- [Acrescido pelo Decreto nº 10.758, de 15-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111145). Efeitos retroativos a 1º-2-2025.
 
-II – tenha sido efetivada a penhora de bens suficientes para o pagamento do total da dívida; ou<br>
+II – tenha sido efetivada a penhora de bens suficientes para o pagamento do total da dívida; ou
+
 \- [Acrescido pelo Decreto nº 10.758, de 15-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111145). Efeitos retroativos a 1º-2-2025.
 
-III – antes do início da ação fiscal decorrente da utilização indevida do benefício fiscal, o contribuinte efetue o pagamento integral do crédito tributário inscrito em dívida ativa, permitido o parcelamento, observadas as demais disposições previstas na legislação tributária.<br>
+III – antes do início da ação fiscal decorrente da utilização indevida do benefício fiscal, o contribuinte efetue o pagamento integral do crédito tributário inscrito em dívida ativa, permitido o parcelamento, observadas as demais disposições previstas na legislação tributária.
+
 \- [Acrescido pelo Decreto nº 10.758, de 15-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111145). Efeitos retroativos a 1º-2-2025.
 
 Art. 5º É vedada a utilização do crédito outorgado previsto no art. 3º:

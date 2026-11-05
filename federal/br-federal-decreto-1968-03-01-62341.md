@@ -1,5 +1,3 @@
-###DEC-062341-0-000-01-03-1968@@@
-
 DECRETO Nº 62.341, DE MARÇO DE 1968.
 
 Transforma em Cargo em Comissão, símbolo 4-C, a Função Gratificada, símbolo 1-F, de Chefe do Instituto Nacional de Câncer.

@@ -1,5 +1,3 @@
-###DEC-072462-0-000-12-07-1973@@@
-
 DECRETO Nº 72.462, DE 12 DE JULHO DE 1973.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Marinha e dá outras providências.

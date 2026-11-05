@@ -1,7 +1,3 @@
-1
-
-###DEC-097923-0-000-06-07-1989@@@
-
 DECRETO N° 97.923, DE 6 DE JULHO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado Fazenda Estrela ou Boa Vista, classificado como latifúndio por exploração, situado no Município de João Pinheiro, Estado de Minas Gerais, compreendido na zona prioritária fixada pelo Decreto n° 92.694, de 19 de maio de 1986, e dá outras providências.

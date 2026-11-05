@@ -6,22 +6,34 @@ Altera Lei 5.727/2010.
 
 Art. 1º Altera a Lei n. 5.727/2010, de 11.12.2009, Código Tributário do Município, passando os seus artigos 76 e 111 a viger com a seguinte redação:
 
-“Art. 76. As alíquotas para cálculo do imposto são:<br>
-I – ..............................................................................................<br>
-II – .............................................................................................<br>
+“Art. 76. As alíquotas para cálculo do imposto são:
+
+I – ..............................................................................................
+
+II – .............................................................................................
+
 a) - 02% (dois por cento):subitens “04.01 a 04.21”, quando o faturamento for contra a previdência social, cooperativas médicas,  entidades de medicina de grupo, ou empresas que por sua natureza prestam serviços ao Fundo Municipal de Saúde.”
 
-“Art. 111. São isentos do pagamento das taxas, vistorias e alvarás:<br>
-I – .............................................................................................;<br>
-II -..............................................................................................;<br>
-III - ............................................................................................;<br>
-IV - ............................................................................................;<br>
-V - .............................................................................................;<br>
-VI - ............................................................................................;<br>
-VII - ...........................................................................................;<br>
+“Art. 111. São isentos do pagamento das taxas, vistorias e alvarás:
+
+I – .............................................................................................;
+
+II -..............................................................................................;
+
+III - ............................................................................................;
+
+IV - ............................................................................................;
+
+V - .............................................................................................;
+
+VI - ............................................................................................;
+
+VII - ...........................................................................................;
+
 VIII - as associações religiosas, templo de qualquer culto, instituições filantrópicas e assistenciais, sem fins lucrativos orfanatos, asilos e órgãos da administração direta e indireta da União e do Estado que atendam as disposições do artigo 6º, desta Lei, por ato do Secretário da Fazenda, mediante requerimento.”
 
-Art. 2º Altera a Tabela XI – Taxa de Expediente e Serviços, item VIII, anexa à Lei 5.727/2010, de 11.12.2009, Código Tributário do Município, inserindo-lhe o item abaixo;<br>
+Art. 2º Altera a Tabela XI – Taxa de Expediente e Serviços, item VIII, anexa à Lei 5.727/2010, de 11.12.2009, Código Tributário do Município, inserindo-lhe o item abaixo;
+
  
 
 <table style="width: 500px;"><tbody><tr><td>01.02</td><td>Desmembramento de lote</td><td>R$ 162,00</td></tr></tbody></table>

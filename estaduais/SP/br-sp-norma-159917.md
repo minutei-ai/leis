@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/159917)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2010/compilacao-lei-14180-07.07.2010.html)
 
 # LEI N° 14.180, DE 07 DE JULHO DE 2010
@@ -15,7 +14,8 @@
 
 ~~Artigo 1° - Ficam as instituições financeiras e demais estabelecimentos que operam com financiamento, crediário, empréstimos ou operações congêneres obrigadas a afixar, no interior de seus estabelecimentos, placa ou cartaz informativo sobre o direito do consumidor que liquidar antecipadamente o seu débito à redução proporcional dos juros e demais acréscimos.~~
 
-~~Parágrafo único - A placa ou cartaz a que se refere o "caput" deverá conter os seguintes dizeres:~~<br>
+~~Parágrafo único - A placa ou cartaz a que se refere o "caput" deverá conter os seguintes dizeres:~~
+
 ~~"Nos termos do artigo 52, § 2°, da Lei federal n° 8.078, de 11 de setembro de 1990 - Código de Defesa do Consumidor, fica assegurada ao consumidor a liquidação antecipada do débito, total ou parcial, mediante redução proporcional dos juros e demais acréscimos".~~
 
 ~~Artigo 2° - As placas e os cartazes a que se refere o artigo 1° deverão ser afixados dentro das instituições financeiras e demais estabelecimentos que operam com financiamento, crediário, empréstimos ou operações congêneres em local visível ao público, para que possam ser lidos à distância, ficando obrigadas as referidas instituições à sua confecção.~~

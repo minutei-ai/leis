@@ -1,5 +1,3 @@
-###DEC-078837-0-000-25-11-1976@@@
-
 DECRETO Nº 78.837, DE 25 DE NOVEMBRO DE 1976.
 
 Autoriza a Universidade Federal de Minas Gerais a hipotecar bens imóveis de sua propriedade e dá outras providências.
@@ -47,8 +45,6 @@ Brasília, 25 de novembro de 1976; 155º da Independência e 88º da República.
 ERNESTO GEISEL
 
 Ney Braga
-
-###DEC-078837-0-000-25-11-1976@@@RET01+++
 
 DECRETO Nº 78.837, DE 25 DE NOVEMBRO DE 1976.
 

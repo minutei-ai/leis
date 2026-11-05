@@ -6,7 +6,8 @@ Institui a Política Estadual de Assistência Técnica e Extensão Rural para a 
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA POLÍTICA ESTADUAL DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL PARA A PRODUÇÃO FAMILIAR - PEATER
 
 Art. 1º - Fica instituída a Política Estadual de Assistência Técnica e Extensão Rural para a Agricultura Familiar - PEATER, cuja formulação e supervisão são de competência da Secretaria da Agricultura, Irrigação e Reforma Agrária - SEAGRI, através da Superintendência de Agricultura Familiar - SUAF.
@@ -81,7 +82,8 @@ XI - promover a integração da ATER com a pesquisa, aproximando a produção ag
 
 XII - contribuir para a expansão do aprendizado, da educação e da qualificação profissional, de forma diversificada, apropriada e contextualizada à realidade do meio rural brasileiro.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PROGRAMA ESTADUAL DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL NA AGRICULTURA FAMILIAR - PROATER
 
 Art. 6º - Fica instituído, como principal instrumento de implementação da PEATER, o Programa Estadual de Assistência Técnica e Extensão Rural na Agricultura Familiar - PROATER.
@@ -90,7 +92,8 @@ Art. 7º - O PROATER terá como objetivos a organização e a execução dos ser
 
 Art. 8º - As Entidades Executoras do PROATER compreendem as instituições ou organizações públicas ou privadas, com ou sem fins lucrativos, previamente credenciadas.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO CREDENCIAMENTO DAS ENTIDADES EXECUTORAS
 
 Art. 9º - O credenciamento de Entidades Executoras do PROATER será realizado pelo Conselho Estadual de Desenvolvimento Rural Sustentável - CEDRS.
@@ -107,7 +110,8 @@ Art. 10 - Os requisitos e os procedimentos para o credenciamento como Entidade E
 
 Parágrafo único - Excepcionalmente, nos 02 (dois) primeiros anos de vigência desta Lei, será exigida, para o credenciamento como Entidade Executora do PROATER, a experiência mínima de 02 (dois) anos com ações de ATER, e constituição legal há mais de 02 (dois) anos.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA CONTRATAÇÃO DAS ENTIDADES EXECUTORAS
 
 Art. 11 - A contratação das Entidades Executoras será efetivada pela Secretaria da Agricultura, Irrigação e Reforma Agrária - SEAGRI ou por outras Secretarias ou órgãos do Estado, observadas as disposições desta Lei, bem como as da Lei Estadual nº 9.433, de 01 de março de 2005.
@@ -150,7 +154,8 @@ V - as metas pré-estabelecidas de acesso dos agricultores assistidos a outras p
 
 VI - a observância quanto ao planejamento e organização dos serviços de assistência técnica constantes nos Planos Municipais e Territoriais de ATER, onde houver.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO ACOMPANHAMENTO, CONTROLE, FISCALIZAÇÃO E DA AVALIAÇÃO DOS RESULTADOS DA EXECUÇÃO DO PROATER
 
 Art. 14 - A execução dos contratos será acompanhada e fiscalizada pelo órgão ou entidade contratante, observadas as normas da Lei Estadual nº 9.433, de 01 de março de 2005.
@@ -181,7 +186,8 @@ Parágrafo único - Na construção da metodologia e dos mecanismos de que trata
 
 Art. 20 - O relatório anual consolidado de execução do PROATER, abrangendo as ações de sua responsabilidade e as das entidades executoras contratadas, será encaminhado pela SEAGRI ao CEDRS, para sua apreciação.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DISPOSIÇÕES FINAIS
 
 Art. 21 - O art. 59 da Lei nº 9.433, de 01 de março de 2005, passa a vigorar acrescido do seguinte inciso XXIV:

@@ -1,7 +1,3 @@
-1
-
-###DEC-097637-0-000-10-04-1989@@@
-
 DECRETO N° 97.637, DE 10 DE ABRIL DE 1989
 
 Dispõe sobre a suspensão temporária dos incentivos fiscais e créditos oficiais visando a reavaliação e reorientação dos mesmos, e dá outras providências.

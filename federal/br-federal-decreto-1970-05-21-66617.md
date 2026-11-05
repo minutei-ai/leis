@@ -1,5 +1,3 @@
-###DEC-066617-0-000-21-05-1970@@@
-
 DECRETO Nº 66.617, DE 21 DE MAIO DE 1970.
 
 Transforma o 13º Regimento de Cavalaria em 3º Regimento de Cavalaria de Guardas e dá outras providências.

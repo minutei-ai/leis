@@ -1,5 +1,3 @@
-###DEC-077995-0-000-08-07-1976@@@
-
 DECRETO Nº 77.995, DE 08 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Ciências, Da União das Faculdades Francanas, com sede na cidade de Franca, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-052780-0-000-29-10-1963@@@
-
 DECRETO Nº 52.780, DE 29 DE OUTUBRO DE 1963.
 
 Dispõe sôbre estoques de trigo e seus derivados e quantidades em trânsito de trigo em grão, importadas, e dá outras providências.

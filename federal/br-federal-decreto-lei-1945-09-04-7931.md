@@ -1,5 +1,3 @@
-###DEL-007931-0-000-04-09-1945@@@
-
 DECRETO-LEI N. 7.931 – DE 4 DE SETEMBRO DE 1945
 
 Dispõe sôbre os cargos e funções gratificadas do extinto Departamento de Imprensa e Propaganda e dá outras Providências.

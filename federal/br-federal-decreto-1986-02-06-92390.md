@@ -1,5 +1,3 @@
-###DEC-092390-0-000-06-02-1986@@@
-
 DECRETO Nº 92.390, DE 06 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento de habilitação do curso de Letras da Faculdade de Filosofia, Ciências e Letras de Santiago.

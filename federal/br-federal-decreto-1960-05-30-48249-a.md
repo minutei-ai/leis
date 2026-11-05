@@ -1,5 +1,3 @@
-###DEC-048249-A-000-30-05-1960@@@
-
 Decreto nº 48.249-A, de 30 de maio de 1960.
 
 Dá nova redação ao art. 22, do Regulamento do Banco Nacional de Crédito Cooperativo, aprovado pelo Decreto nº 30.265, de 11 de dezembro de 1951.

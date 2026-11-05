@@ -1,5 +1,3 @@
-###DEC-050933-0-000-10-07-1961@@@
-
 DECRETO Nº 50.933, DE 10 DE JULHO DE 1961.
 
 Institui uma Comissão para examinar a exatidão dos créditos das instituições de previdência social com a União, por pagamento originário do Decreto-lei nº 3.769-41, ou das vantagens previstas no art. 504, do Decreto nº 48.959 - A - 60, providenciando as medidas necessárias à sua liquidação.

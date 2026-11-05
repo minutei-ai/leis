@@ -1,5 +1,3 @@
-###DEC-056126-0-000-27-04-1965@@@
-
 DECRETO Nº 56.126, DE 27 DE ABRIL DE 1965.
 
 Concede a Ford Motor do Brasil S. A. autorização para continuar a funcionar na República.
@@ -13,8 +11,6 @@ Brasília, 27 de abril de 1965; 144º da Independência e 77º da República.
 h. castello branco
 
 Daniel Faraco
-
-###DEC-056126-0-000-27-04-1965@@@RET01+++
 
 decreto nº 56.126, de 27 de abril de 1965.
 

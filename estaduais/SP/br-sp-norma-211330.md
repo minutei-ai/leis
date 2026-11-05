@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211330)<br>
-
 # ATO DA MESA N° 24/2025, DE 19 DE AGOSTO DE 2025
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições regimentais, CONSIDERANDO, o disposto no artigo 5° da [Resolução n° 943, de 29 de maio de 2024](https://www.al.sp.gov.br/norma/209509), em que restou autorizada a cobrança em folha de pagamento de contribuição assistencial sindical, desde que instituída por Acordo ou Convenção Coletiva, a ser imposta aos servidores desta Casa, ainda que não sindicalizados, assegurado o direito de oposição, na forma deste regulamento, RESOLVE:

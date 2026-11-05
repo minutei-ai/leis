@@ -1,5 +1,3 @@
-###MPV-000549-0-000-17-11-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 549, DE 17 DE NOVEMBRO DE 2011
 
 Reduz a zero as alíquotas da Contribuição para o PIS/PASEP, da Contribuição para o Financiamento da Seguridade Social - COFINS, da Contribuição para o PIS/PASEPImportação e da COFINS - Importação incidentes sobre a importação e a receita de venda no mercado interno dos produtos que menciona.

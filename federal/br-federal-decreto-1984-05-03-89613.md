@@ -1,5 +1,3 @@
-###DEC-089613-0-000-03-05-1984@@@
-
 DECRETO nº 89.613, DE 03 DE MAIO DE 1984
 
 Autoriza o Governo do Estado de Alagoas a explorar, através da RÁDIO DIFUSORA DE ALAGOAS, na cidade de Maceió, Estado de Alagoas, serviço de radiodifusão sonora em onda média, mediante convênio a ser celebrado com o Ministério das Comunicações.

@@ -1,5 +1,3 @@
-###DEC-078339-0-000-31-08-1976@@@
-
 DECRETO Nº 78.339, DE 31 DE AGOSTO DE 1976.
 
 Regulamenta a Lei nº 6.181, de 11 de dezembro de 1974, que altera o artigo 600 da Consolidação das Leis do Trabalho, amplia a destinação do Fundo de Assistência ao Desempregado e dá outras providências.

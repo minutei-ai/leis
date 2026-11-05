@@ -1,5 +1,3 @@
-###DEL-000129-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 129, 31 de JANEIRO DE 1967
 
 Dá nova redação ao art. 43 do Decreto-Lei nº 72 de 21 de novembro de 1966.

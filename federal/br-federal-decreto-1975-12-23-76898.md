@@ -1,5 +1,3 @@
-###DEC-076898-0-000-23-12-1975@@@
-
 DECRETO Nº 76.898, DE 23 DE DEZEMBRO DE 1975.
 
 Renova prazo de concessão outorgada à Celulose Irani S.A., para o uso exclusivo do aproveitamento hidráulico de um trecho do rio do Mato no Município de Joaçaba, atual Município de Catanduva, Estado de Santa Catarina.

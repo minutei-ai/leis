@@ -1,5 +1,3 @@
-###DEC-073517-0-000-21-01-1974@@@
-
 DECRETO Nº 73.517, DE 21 DE JANEIRO de 1974.
 
 Concede à Cia. Vale do Rio Doce o direito de lavrar minério de ferro, no Município de Nova Era, Estado de Minas Gerais.

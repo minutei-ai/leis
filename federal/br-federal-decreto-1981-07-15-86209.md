@@ -1,5 +1,3 @@
-###DEC-086209-0-000-15-07-1981@@@
-
 Decreto nº 86.209, de 15 de julho de 1981.
 
 Delega competência ao Procurador-Geral da República, para a prática dos atos que indica.

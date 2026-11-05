@@ -1,5 +1,3 @@
-###DEL-004306-0-000-18-05-1942@@@
-
 DECRETO-LEI N. 4.306 – DE 18 DE MAIO DE 1942
 
 Suspende a obrigatoriedade de aviso prévio sobre a chegada de navios nacionais e dá outras providências

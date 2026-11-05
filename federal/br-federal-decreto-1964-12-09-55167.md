@@ -1,5 +1,3 @@
-###DEC-055167-0-000-09-12-1964@@@
-
 DECRETO Nº 55.167, DE 9 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre a revisão dos quadros de pessoal das Caixas Econômicas Federais e dá outras providências.

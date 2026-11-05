@@ -1,5 +1,3 @@
-###DEC-085854-0-000-30-03-1981@@@
-
 Decreto nº 85.854, dE 30 DE MARÇO DE 1981.
 
 Autoriza o funcionamento do curso de Tecnólogo em Técnicas Digitais das Faculdades Integradas Estácio de Sá, Rio de Janeiro, Estado do Rio de Janeiro.

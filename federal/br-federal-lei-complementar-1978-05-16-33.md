@@ -1,7 +1,3 @@
-1
-
-###LCP-000033-0-000-16-05-1978@@@
-
 # LEI COMPLEMENTAR Nº 33, DE 16 DE MAIO DE 1978
 
 Dispõe sobre a renovação de eleições para Prefeito, Vice-Prefeito e Vereadores, nos Municípios criados nos termos do art. 2º da Lei Complementar nº 32, de 26 de dezembro de 1977, e dá outras providências.

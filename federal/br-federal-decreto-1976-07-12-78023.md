@@ -1,5 +1,3 @@
-###DEC-078023-0-000-12-07-1976@@@
-
 Decreto nº 78.023, de 12 de julho de 1976.
 
 Dispõe sobre a organização do Ministério das Comunicações e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001988-0-015-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.988-15, DE 14 DE DEZEMBRO DE 1999.
 
 Dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata a Lei nº 7.827, de 27 de setembro de 1989, e dá outras providências.

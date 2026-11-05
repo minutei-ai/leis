@@ -1,5 +1,3 @@
-###MPV-001709-0-000-06-08-1998@@@
-
 Medida Provisória nº 1.709, de 6 de Agosto de 1998
 
 Dispõe sobre o trabalho a tempo parcial, faculta a extensão do benefício do programa de Alimentação do Trabalhador - PAT ao trabalho dispensado e altera dispositivo da Consolidação das Leis do trabalho - CLT.

@@ -1,5 +1,3 @@
-###DEC-097142-0-000-29-11-1988@@@
-
 DECRETO Nº 97.142, DE 29 DE NOVEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade de Emfermagem do Hospital Israelita Albert Einsten.

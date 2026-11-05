@@ -1,5 +1,3 @@
-###DEC-074096-0-000-23-05-1974@@@
-
 DECRETO Nº 74.096, DE 23 DE MAIO DE 1974.
 
 Exclui servidor do Instituto de Previdência e Assistência dos Servidores do Estado - IPASE, do enquadramento definitivo de que trata o Decreto nº 66.003, de 30 de dezembro de 1969.

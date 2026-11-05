@@ -1,5 +1,3 @@
-###DEC-007374-0-000-26-11-2010-PUB-01@@@
-
 DECRETO Nº 7.374, DE 26 DE NOVEMBRO DE 2010.
 
 Cria o Comissariado Brasileiro para coordenar a participação do Brasil no Festival Internacional Europalia 2011.

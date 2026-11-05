@@ -1,5 +1,3 @@
-###DEC-005948-0-000-26-10-2006@@@
-
 DECRETO Nº 5.948, DE 26 DE OUTUBRO DE 2006.
 
 Aprova a Política Nacional de Enfrentamento ao Tráfico de Pessoas e institui Grupo de Trabalho Interministerial com o objetivo de elaborar proposta do Plano Nacional de Enfrentamento ao Tráfico de Pessoas - PNETP.
@@ -76,11 +74,7 @@ Brasília,  26 de outubro  de 2006; 185o da Independência e 118o da Repúblic
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Márcio Thomaz Bastos
-
-Este texto não substitui o publicado no DOU de 27.10.2006
-
-ANEXO
+        Márcio Thomaz BastosANEXO
 
 POLÍTICA NACIONAL DE ENFRENTAMENTO AO TRÁFICO DE PESSOAS
 

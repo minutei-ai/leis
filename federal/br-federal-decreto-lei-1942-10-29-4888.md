@@ -1,5 +1,3 @@
-###DEL-004888-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.888 – DE 29 DE OUTUBRO DE 1942
 
 Extingue a Contadoria Seccional junto à Estrada de Ferro Central do Brasil e dá outras providências

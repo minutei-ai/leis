@@ -1,14 +1,12 @@
-###DEC-040627-0-000-27-12-1956@@@
+**DECRETO Nº 40.627, DE 27 DE DEZEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.627, DE 27 DE DEZEMBRO DE 1956.</strong>
+***Transfere funções das Tabelas numéricas Especiais que indica.***
 
-<em><strong>Transfere funções das Tabelas numéricas Especiais que indica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º. Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de extranumerário mensalista abaixo indicadas:
+**Art**. 1º. Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de extranumerário mensalista abaixo indicadas:
 
 I – uma função de ajustador, referência 22, ocupada por Hilário Bastos de Macedo, da Tabela do Parque da Aeronáutica dos Afonsos para a do Depósito de Aeronáutica do Rio de Janeiro;
 
@@ -24,10 +22,10 @@ VI – uma função de Ferramenteiro, referência 19, ocupada por Armando Cesar 
 
 VII – uma função de Serviçal, referência 19, ocupada por João Florentino de Oliveira, da Tabela da Escola de Especialistas de Aeronáutica para a Base da Aérea do Recife.
 
-<strong>Art</strong>. 2º. Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º. Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 27 de dezembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Fleiuss

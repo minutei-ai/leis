@@ -1,5 +1,3 @@
-###DEC-046266-0-000-26-06-1959@@@
-
 DECRETO Nº 46.266, DE 26 DE JUNHO DE 1959.
 
 Concede reconhecimento aos cursos que indica.

@@ -1,5 +1,3 @@
-###DEC-053148-0-000-10-12-1963@@@
-
 Decreto nº 53.148, de 10 de dezembro de 1963.
 
 Autoriza a Sociedade de Mineração Ceramite Ltda. a lavrar caulim e feldspato no município de Mar de Espanha, Estado de Minas Gerais.

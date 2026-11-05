@@ -1,5 +1,3 @@
-###DEC-003819-0-000-21-05-2001@@@
-
 DECRETO Nº 3.819, DE 21 DE MAIO DE 2001
 
 Altera a alíquota do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF, na hipótese que menciona.

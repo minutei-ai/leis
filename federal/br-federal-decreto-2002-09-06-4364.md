@@ -1,5 +1,3 @@
-###DEC-004364-0-000-06-09-2002@@@
-
 DECRETO Nº 4.364, DE 6 DE SETEMBRO DE 2002
 
 Dá nova redação ao art. 5º do Decreto nº 2.406, de 27 de novembro de 1997, que regulamenta a Lei nº 8.948, de 8 de dezembro de 1994.

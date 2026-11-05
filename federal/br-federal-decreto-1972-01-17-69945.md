@@ -1,5 +1,3 @@
-###DEC-069945-0-000-17-01-1972@@@
-
 DECRETO Nº 69.945, DE 17 DE JANEIRO DE 1972.
 
 Concede autorização às firmas Arthur Levy Boat Service Inc. e Arthur Levy do Brasil Ltda. Para operação, em águas brasileiras, de embarcações de nacionalidade norte-americana.

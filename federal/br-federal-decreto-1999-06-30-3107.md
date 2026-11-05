@@ -1,5 +1,3 @@
-###DEC-003107-0-000-30-06-1999@@@
-
 DECRETO nº 3.107, DE 30 DE JUNHO DE 1999.
 
 Prorroga o prazo estabelecido no art. 1o do Decreto nº 2.419, de 15 de dezembro de 1997.

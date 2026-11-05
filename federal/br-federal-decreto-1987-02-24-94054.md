@@ -1,5 +1,3 @@
-###DEC-094054-0-000-24-02-1987@@@
-
 DECRETO N° 94.054, DE 24 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-046697-0-000-20-08-1959@@@
-
 Decreto nº 46.697, de 20 de Agôsto de 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra, que menciona.

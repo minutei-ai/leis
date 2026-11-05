@@ -1,5 +1,3 @@
-###DEC-095298-0-000-25-11-1987@@@
-
 DECRETO Nº 95.298, DE 25 DE NOVEMBRO DE 1987
 
 Cria a Rede Nacional de Hospitais da Medicina do Aparelho Locomotor e dá outras providências.

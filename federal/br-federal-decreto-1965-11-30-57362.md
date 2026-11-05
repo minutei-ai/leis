@@ -1,5 +1,3 @@
-###DEC-057362-0-000-30-11-1965@@@
-
 DECRETO Nº 57.362, DE 30 DE NOVEMBRO DE 1965.
 
 Concede à Companhia Seguradora Intercontinental autorização para funcionar e aprova os seus Estatutos.

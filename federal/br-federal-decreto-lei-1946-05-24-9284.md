@@ -1,5 +1,3 @@
-###DEL-009284-0-000-24-05-1946@@@
-
 DECRETO-LEI N. 9.284 – DE 24 DE MAIO DE 1946
 
 Declara sem aplicação o crédito especial aberto pelo Decreto-lei nº 9.171, de 12 de Abril de 1946

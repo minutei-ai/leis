@@ -1,5 +1,3 @@
-###DEC-088199-0-000-24-03-1983@@@
-
 Decreto nº 88.199, de 24 de março de 1983
 
 Extingue a Comissão de Coordenação e Implementação de Técnicas Financeiras - COCITEF e dá outras providências.

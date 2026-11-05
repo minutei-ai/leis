@@ -1,5 +1,3 @@
-###DEC-046287-0-000-29-06-1959@@@
-
 Decreto nº 46.287, de 29 de junho de 1959.
 
 Autoriza a Mineração Tejucana Limitada a pesquisar diamante e ouro no município de Diamantina, Estado de Minas Gerais.

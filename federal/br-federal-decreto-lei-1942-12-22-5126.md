@@ -1,5 +1,3 @@
-###DEL-005126-0-000-22-12-1942@@@
-
 DECRETO-LEI N. 5.126 – DE 22 DE DEZEMBRO DE 1942
 
 Prorroga o prazo referido no parágrafo único do artigo 2º do decreto-lei n. 2.618, de 23 de setembro de 1940

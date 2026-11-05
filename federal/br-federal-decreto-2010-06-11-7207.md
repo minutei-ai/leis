@@ -1,5 +1,3 @@
-###DEC-007207-0-000-11-06-2010@@@
-
 DECRETO Nº 7.207, DE 11 DE JUNHO DE 2010.
 
 Dispõe sobre a criação da Embaixada do Brasil em Suva, na República das Ilhas Fiji, cumulativa com a Embaixada em Camberra.

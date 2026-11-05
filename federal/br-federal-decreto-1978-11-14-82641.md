@@ -1,5 +1,3 @@
-###DEC-082641-0-000-14-11-1978@@@
-
 DECRETO Nº 82.641, DE 14 DE NOVEMBRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Araioses, Estado do Maranhão.

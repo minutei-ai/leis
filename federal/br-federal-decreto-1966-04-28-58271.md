@@ -1,5 +1,3 @@
-###DEC-058271-0-000-28-04-1966@@@
-
 DECRETO Nº 58.271, DE 28 DE ABRIL DE 1966.
 
 Autoriza a Emprêsa de Caolim Limitado a pesquisar arenito no Município de Bom Jesus do Amparo, Estado de Minas Gerais.

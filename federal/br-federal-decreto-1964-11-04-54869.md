@@ -1,5 +1,3 @@
-###DEC-054869-0-000-04-11-1964@@@
-
 DECRETO Nº 54.869, DE 4 DE Novembro DE 1964.
 
 Concede à Indústria Mineradora Pagliato Ltda., autorização para funcionar como emprêsa de mineração.

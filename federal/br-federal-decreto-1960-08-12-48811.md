@@ -1,5 +1,3 @@
-###DEC-048811-0-000-12-08-1960@@@
-
 DECRETO Nº 48.811, DE 12 DE AGÔSTO DE 1960.
 
 Renova o Decreto nº 42.096, de 19 de agôsto de 1957.

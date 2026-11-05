@@ -1,14 +1,12 @@
-###DEC-043645-0-000-07-05-1958@@@
+**DECRETO Nº 43.645, DE 7 DE MAIO DE 1958.**
 
-<strong>DECRETO Nº 43.645, DE 7 DE MAIO DE 1958.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronútica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronútica, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicados.
+**Art**. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicados.
 
 I - uma função de Jardineiro, referência 20, ocupada por Leofredo Dias Barbosa, da Tabela da Base Aérea de Belo Horizonte para a do Núcleo de parque de Aeronáutica de Lagoa Santa;
 
@@ -22,10 +20,10 @@ V - uma função de Motorista, referência 21, ocupada por Romeu Paulino Salgado
 
 VI - uma função de Artífice, referência 20, ocupada por José Lino da Silva Filho, da Tabela da Base Aérea do Recife para a do Hospital Central da Aeronútica.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, 7 de maio de 1958, 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Melo

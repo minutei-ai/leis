@@ -1,5 +1,3 @@
-###DEC-059736-0-000-15-12-1966@@@
-
 DECRETO Nº 59.736, DE 15 DE DEZEMBRO DE 1966.
 
 Transfere da Prefeitura Municipal de Nova Lima para a Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

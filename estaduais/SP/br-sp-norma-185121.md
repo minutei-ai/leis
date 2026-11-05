@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185121)
-
 # DECRETO Nº 63.190, DE 01 DE FEVEREIRO DE 2018
 
 ### _Dá denominação de "Luiz Ferraz Penedo" ao dispositivo rodoviário que especifica_
@@ -16,8 +14,12 @@ Palácio dos Bandeirantes, 1º de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, a 1º de fevereiro de 2018.

@@ -1,5 +1,3 @@
-###DEC-073779-0-000-11-03-1974@@@
-
 DECRETO Nº 73.779, DE 11 DE MARÇO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Curitiba, Estado do Paraná.

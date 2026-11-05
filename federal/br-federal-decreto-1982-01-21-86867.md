@@ -1,5 +1,3 @@
-###DEC-086867-0-000-21-01-1982@@@
-
 Decreto nº 86.867, de 21 de janeiro de 1982
 
 Cria o Centro de Instrução de Graduados da Aeronáutica e dá outras providências.

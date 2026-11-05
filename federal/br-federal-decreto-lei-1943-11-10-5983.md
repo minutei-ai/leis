@@ -1,5 +1,3 @@
-###DEL-005983-0-000-10-11-1943@@@
-
 DECRETO‑LEI N. 5.983 – DE 10 DEZEMBRO DE 1943
 
 Aprova têrmo de ajuste entre o Governo Brasileiro e cidadão norte americano, para instalação da Escola Técnica de Aviação

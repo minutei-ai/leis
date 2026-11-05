@@ -1,5 +1,3 @@
-###DEC-078133-0-000-29-07-1976@@@
-
 DECRETO Nº 78.133, DE 29 DE JULHO DE 1976.
 
 Autoriza o funcionamento da Habilitação Português-Inglês, no curso de Letras, da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Penápolis, Estado de São Paulo.

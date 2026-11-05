@@ -1,5 +1,3 @@
-###DEC-073567-0-000-25-01-1974@@@
-
 DECRETO Nº 73.567, DE 25 DE JANEIRO DE 1974.
 
 Transfere funcionária, com o respectivo cargo do Quadro de Pessoal em extinção do antigo Conselho Nacional de Geografia, para o Quadro de Pessoal do Ministério da Agricultura.

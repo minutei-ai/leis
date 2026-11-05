@@ -1,5 +1,3 @@
-###DEC-057768-0-000-09-02-1966@@@
-
 DECRETO Nº 57.768, DE 9 DE FEVEREIRO DE 1966.
 
 Abre à Justiça Eleitoral - Tribunal Regional Eleitoral da Bahia, o crédito especial de Cr$1.360.000, para o fim que especifica.

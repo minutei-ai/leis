@@ -1,5 +1,3 @@
-###DEC-056660-0-000-06-08-1965@@@
-
 DECRETO Nº 56.660, DE 6 DE AGÔSTO DE 1965.
 
 Autoriza a Companhia de Cimento Portland Alvorada a pesquisar calcário no município de Cantagalo, Estado do Rio de Janeiro.

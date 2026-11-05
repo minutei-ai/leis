@@ -1,5 +1,3 @@
-###DEL-005276-0-000-24-02-1943@@@
-
 DECRETO‑LEI N. 5.276 – DE 24 DE FEVEREIRO DE 1943
 
 Cria a 1ª Bateria Movel de Artilharia de Costa, com sede em Belem do Pará

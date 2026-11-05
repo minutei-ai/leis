@@ -1,5 +1,3 @@
-###DEC-056600-0-000-22-07-1965@@@
-
 DECRETO Nº 56.600, DE 22 DE JULHO DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a fazer a cessão de uma área de terreno da Fazenda Militar de Barueri, ao Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-069232-0-000-21-09-1971@@@
-
 DECRETO Nº 69.232, DE 21 DE SETEMBRO DE 1971.
 
 Concede autorização a sociedade seguradora estrangeira para aumentar o capital de suas operações no Brasil.

@@ -1,5 +1,3 @@
-###DEC-050363-0-000-20-03-1961@@@
-
 Decreto nº 50.363, de 20 de março de 1961.
 
 Dispõe sôbre o regime dos preços, resultantes da Instrução nº 204, de 13 de março de 1961, da Superintendência da Moeda e do Crédito, relativos a fertilizantes, inseticidas e semelhantes.

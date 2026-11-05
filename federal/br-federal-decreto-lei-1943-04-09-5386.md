@@ -1,5 +1,3 @@
-###DEL-005386-0-000-09-04-1943@@@
-
 DECRETO‑LEI N. 5.386 – DE 9 DE ABRIL DE 1943
 
 Transfere de Curitiba para Porto União, na 5ª Região Militar, a sede do 5º Batalhão de Engenharia

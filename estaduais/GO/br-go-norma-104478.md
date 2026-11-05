@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, 28 de dezembro de 2020.
 
-<br>
-
 CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
 
 QUADRO 1
@@ -32,7 +30,7 @@ QUADRO 1
 |
 
  |   |
-|   | **VALOR TOTAL A** **SUPLEMENTAR** |
+|   | **VALOR TOTAL ASUPLEMENTAR** |
 |   | **200.000,00** |
 
 QUADRO 2

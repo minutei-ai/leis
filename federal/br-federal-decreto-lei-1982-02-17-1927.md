@@ -1,5 +1,3 @@
-###DEL-001927-0-000-17-02-1982@@@
-
 # DECRETO-LEI Nº 1.927, DE 17 DE FEVEREIRO DE 1982
 
 Altera a redação do § 3º do artigo 1º do Decreto-lei nº 1.798, de 24 de julho de 1980, introduzido pelo Decreto-lei nº 1.880, de 27 de agosto de 1981.

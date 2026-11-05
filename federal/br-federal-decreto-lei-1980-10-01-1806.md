@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/08236b47-53ad-4305-a903-cc0794590c31/texto#nowhere)
 
-###DEL-001806-0-000-01-10-1980@@@
-
 # DECRETO-Lei nº 1.806, DE 1º DE OUTUBRO DE 1980
 
 Reabre o prazo fixado no § 1º do artigo 4º do Decreto-lei nº 1.699, de 16 outubro de 1979, que dispõe sobre cancelamento e parcelamento de débitos previdenciários

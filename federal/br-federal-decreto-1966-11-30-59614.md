@@ -1,5 +1,3 @@
-###DEC-059614-0-000-30-11-1966@@@
-
 DECRETO Nº 59.614, DE 30 DE NOVEMBRO DE 1966.
 
 Autoriza José Ribamar Acácio de Lima a comprar pedras preciosas.

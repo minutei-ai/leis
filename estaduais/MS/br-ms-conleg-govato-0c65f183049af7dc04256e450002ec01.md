@@ -6,30 +6,208 @@ Modifica e redistribui e Efetivo do Corpo de Bombeiros Militar e dá outras prov
 
 Publicada no Diário Oficial nº 3.324, de 24 de junho de 1992, página 1.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º O Efetivo do Corpo de Bombeiros Militar do Estado de Mato<br>
-Grosso do Sul, fixado pela [Lei nº 1.052, de 11 de julho de 1990](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/9c66028cc980cf6c04256e450002eb5d?OpenDocument),<br>
-fica modificado e redistribuído de acordo com o Anexo I desta Lei.<br>
-<br>
-Art. 2º As despesas decorrentes da aplicação desta Lei correrão<br>
-à conta dos recursos orçamentários e créditos próprios.<br>
-<br>
-Art. 3º Esta Lei entra em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 23 de junho de 1992.<br>
-<br>
-PEDRO PEDROSSIAN<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º O Efetivo do Corpo de Bombeiros Militar do Estado de Mato
+
+Grosso do Sul, fixado pela [Lei nº 1.052, de 11 de julho de 1990](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/9c66028cc980cf6c04256e450002eb5d?OpenDocument),
+
+fica modificado e redistribuído de acordo com o Anexo I desta Lei.
+
+Art. 2º As despesas decorrentes da aplicação desta Lei correrão
+
+à conta dos recursos orçamentários e créditos próprios.
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 23 de junho de 1992.
+
+PEDRO PEDROSSIAN
+
 Governador
 
-ANEXO I<br>
-BOMBEIROS MILITAR<br>
+ANEXO I
+
+BOMBEIROS MILITAR
+
 QUADRO DE OFICIAIS
 
-<table><tbody><tr><td>POSTOS</td><td>QOBM</td><td>QOBM/MÉD</td><td>BM/DENT</td><td>QOBM/ADM</td><td>QOBM/ESP</td><td>TOTAL</td></tr><tr><td>Coronel BM</td><td>02</td><td>-</td><td>-</td><td>-</td><td>-</td><td>02</td></tr><tr><td>Ten-Coronel BM</td><td>04</td><td>-</td><td>-</td><td>-</td><td>-</td><td>04</td></tr><tr><td>Major BM</td><td>08</td><td>-</td><td>-</td><td>-</td><td>-</td><td>08</td></tr><tr><td>Capitão BM</td><td>11</td><td>-</td><td>-</td><td>-</td><td>-</td><td>11</td></tr><tr><td>1º Tenente BM</td><td>15</td><td>01</td><td>01</td><td>-</td><td>-</td><td>17</td></tr><tr><td>2º Tenente BM</td><td>20</td><td>-</td><td>-</td><td>09</td><td>01</td><td>30</td></tr><tr><td>TOTAL</td><td>60</td><td>01</td><td>01</td><td><br>09</td><td><br>01</td><td><br>72</td></tr></tbody></table>
+POSTOS
 
-<br>
+QOBM
+
+QOBM/MÉD
+
+BM/DENT
+
+QOBM/ADM
+
+QOBM/ESP
+
+TOTAL
+
+Coronel BM
+
+02
+
+-
+
+-
+
+-
+
+-
+
+02
+
+Ten-Coronel BM
+
+04
+
+-
+
+-
+
+-
+
+-
+
+04
+
+Major BM
+
+08
+
+-
+
+-
+
+-
+
+-
+
+08
+
+Capitão BM
+
+11
+
+-
+
+-
+
+-
+
+-
+
+11
+
+1º Tenente BM
+
+15
+
+01
+
+01
+
+-
+
+-
+
+17
+
+2º Tenente BM
+
+20
+
+-
+
+-
+
+09
+
+01
+
+30
+
+TOTAL
+
+60
+
+01
+
+01
+
+09
+
+01
+
+72
+
 QUADRO DE PRAÇAS DE BOMBEIROS MILITAR
 
-<table><tbody><tr><td>GRADUAÇÃO</td><td>COMBATENTES</td><td>ESPECIALISTAS</td><td>TOTAL</td></tr><tr><td>Subtenente BM</td><td>13</td><td>05</td><td>18</td></tr><tr><td>1º Sargento BM</td><td>35</td><td>33</td><td>68</td></tr><tr><td>2º Sargento BM</td><td>48</td><td>66</td><td>114</td></tr><tr><td>3º Sargento BM</td><td>107</td><td>126</td><td>233</td></tr><tr><td>Cabo BM</td><td>254</td><td>195</td><td>449</td></tr><tr><td>Soldado BM</td><td>512</td><td>343</td><td>855</td></tr><tr><td>TOTAL</td><td>969</td><td>768</td><td>1.737</td></tr></tbody></table>
+GRADUAÇÃO
+
+COMBATENTES
+
+ESPECIALISTAS
+
+TOTAL
+
+Subtenente BM
+
+13
+
+05
+
+18
+
+1º Sargento BM
+
+35
+
+33
+
+68
+
+2º Sargento BM
+
+48
+
+66
+
+114
+
+3º Sargento BM
+
+107
+
+126
+
+233
+
+Cabo BM
+
+254
+
+195
+
+449
+
+Soldado BM
+
+512
+
+343
+
+855
+
+TOTAL
+
+969
+
+768
+
+1.737

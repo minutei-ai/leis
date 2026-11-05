@@ -1,5 +1,3 @@
-###DEC-054082-0-000-31-07-1964@@@
-
 DECRETO Nº 54.082, DE 31 DE JULHO DE 1964.
 
 Aprova a revisão dos Quadros de Pessoal do Departamento Nacional de Obras de Saneamento, e dá outras providências.

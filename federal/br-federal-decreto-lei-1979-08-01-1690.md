@@ -1,5 +1,3 @@
-###DEL-001690-0-000-01-08-1979@@@
-
 # Decreto-lei nº 1.690, de 01 de agosto de 1979
 
 Altera dispositivos do Decreto-lei nº 1.631, de 2 de agosto de 1978, que dispõe sobre a incidência do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos nos álcoois etílico e metílico, para fins carburantes, e dá outras providências.

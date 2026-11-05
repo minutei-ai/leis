@@ -1,5 +1,3 @@
-###DEL-005612-0-000-24-06-1943@@@
-
 DECRETO‑LEI n. 5.612 – DE 24 DE JUNHO DE 1943
 
 Altera disposições do decreto‑lei n. 4.902, de 31 de outubro de 1942, e da outras providências

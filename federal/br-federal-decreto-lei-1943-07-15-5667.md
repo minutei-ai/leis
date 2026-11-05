@@ -1,5 +1,3 @@
-###DEL-005667-0-000-15-07-1943@@@
-
 DECRETO-LEI N. 5.667 – DE 15 DE JULHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 160.000,00 e dá outras providências

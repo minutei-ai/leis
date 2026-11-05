@@ -1,5 +1,3 @@
-###DEC-094215-0-000-14-04-1987@@@
-
 DECRETO Nº 94.215, DE 14 DE ABRIL DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, situada no Município e Comarca de São Paulo, Estado de São Paulo, destinada à instalação de Centro Operacional da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

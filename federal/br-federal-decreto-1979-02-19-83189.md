@@ -1,5 +1,3 @@
-###DEC-083189-0-000-19-02-1979@@@
-
 decreto nº 83.189, de 19 de fevereiro de 1979.
 
 Acrescenta parágrafo único ao artigo 6º do Decreto nº 78.042, de 13 de julho de 1976, que dispõe sobre a estrutura básica do Ministério dos Transportes.

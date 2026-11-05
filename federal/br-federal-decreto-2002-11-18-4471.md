@@ -1,5 +1,3 @@
-###DEC-004471-0-000-18-11-2002@@@
-
 DECRETO Nº 4.471, DE 18 DE NOVEMBRO DE 2002
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério das Comunicações, e dá outras providências.

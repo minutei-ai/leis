@@ -1,5 +1,3 @@
-###DEL-000210-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 210, dE 27 de FeVEReIRO DE 1967
 
 Estabelece normas para o abastecimento de trigo, sua industrialização e comercialização e dá outras providências.

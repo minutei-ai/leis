@@ -1,5 +1,3 @@
-###DEC-066388-0-000-25-03-1970@@@
-
 DECRETO Nº 66.388 - DE 25 DE MARÇO DE 1970
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial do Departamento Nacional de Estradas de Rodagem (DNER), cargo originário do Departamento Nacional de Obras Contra as Secas (DNOCS), e dá outras providências.

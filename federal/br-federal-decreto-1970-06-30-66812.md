@@ -1,5 +1,3 @@
-###DEC-066812-0-000-30-06-1970@@@
-
 decreto nº 66.812 - de 30 de junho de 1970
 
 Autoriza o funcionamento da Faculdade de Direito Estácio de Sá, GB.

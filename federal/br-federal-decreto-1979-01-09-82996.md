@@ -1,5 +1,3 @@
-###DEC-082996-0-000-09-01-1979@@@
-
 Decreto nº 82.996, de 09 de janeiro de 1979
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Catanduva, Estado de São Paulo.

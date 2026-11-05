@@ -1,5 +1,3 @@
-###DEC-070083-0-000-01-02-1972@@@
-
 DECRETO Nº 70.083, DE 1º DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública as instituições que menciona.

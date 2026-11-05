@@ -1,5 +1,3 @@
-###DEC-071822-0-000-07-02-1973@@@
-
 decreto nº 71.822, de 7 de fevereiro de 1973.
 
 Muda a sede do 1º Esquadrão Independente de Cavalaria e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095729-0-000-12-02-1988@@@
-
 DECRETO N° 95.729, DE 12 DE FEVEREIRO DE 1988
 
 Dispõe sobre a competência do Conselho Nacional do Petróleo (CNP), baixa normas de procedimento e dá outras providências.

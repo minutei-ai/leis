@@ -157,7 +157,3 @@ Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais – IE
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 1,66551 Gabinete Chefe de Gabinete 01 0,65420 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,43418 Diretoria de Proteção e Memória Diretor 01 1,43418 Diretoria de Conservação e Restauração Diretor 01 1,43418 Assessoria de Comunicação Social Assessor de Comunicação Social 01 0,65420 Assessoria Jurídica Assessor Jurídico 01 0,65420 Auditoria Seccional Auditor Seccional 01 0,65420
-
-\=====================================================================
-
-Data da última atualização: 11/8/2026.

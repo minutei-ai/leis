@@ -1,5 +1,3 @@
-###DEL-000085-0-000-27-12-1966@@@
-
 DECRETO-LEI Nº 85, DE 27 DEZEMBRO DE 1966
 
 Modifica dispositivo da Lei nº 5.025, de 10 de junho de 1966, que dispõe sôbre abertura, pelo Poder Executivo, do crédito especial de Cr$1.500.000.000, destinado à instalação e ao funcionamento do Conselho Nacional do Comércio Exterior e ao Fundo Federal Agro-Pecuário.

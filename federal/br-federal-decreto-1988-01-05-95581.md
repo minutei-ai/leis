@@ -1,7 +1,3 @@
-1
-
-###DEC-095581-0-000-05-01-1988@@@
-
 DECRETO N° 95.581, DE 5 DE JANEIRO DE 1988
 
 Outorga concessão à RÁDIO TACARIJUS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Miguel do Tapuio, Estado do Piauí.

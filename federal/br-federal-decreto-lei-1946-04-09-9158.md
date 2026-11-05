@@ -1,5 +1,3 @@
-###DEL-009158-0-000-09-04-1946@@@
-
 DECRETO-LEI N. 9.158 – DE 9 DE ABRIL DE 1946
 
 Autoriza a cobrança de Cr$ 1,00, nos despachos de importação ou exportação para o estrangeiro, destinada ao Sindicato dos Ajudantes de Despachantes da Alfândega do Rio.

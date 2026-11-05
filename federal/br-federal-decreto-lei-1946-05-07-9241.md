@@ -1,5 +1,3 @@
-###DEL-009241-0-000-07-05-1946@@@
-
 DECRETO-LEI N. 9.241 – DE 7 DE MAIO DE 1946
 
 Dispõe sôbre posse de diretores e professôres catedráticos da Universidade do Brasil.

@@ -1,5 +1,3 @@
-###DEC-077779-0-000-08-06-1976@@@
-
 DECRETO Nº 77.779, DE 08 DE JUNHO DE 1976.
 
 Declara a caducidade do Manifesto de Mina que menciona

@@ -1,5 +1,3 @@
-###DEC-059201-0-000-09-09-1966@@@
-
 DECRETO Nº 59.201, DE 9 DE SETEMBRO DE 1966.
 
 Concede à sociedade Paula Lima Navegação de Cabotagem e Exportação Ltda., autorização para funcionar como emprêsa de navegação de cabotagem.

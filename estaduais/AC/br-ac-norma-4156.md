@@ -1,6 +1,10 @@
 > **LEI Nº 3.655, DE 11 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo Estadual a receber área em doação para construção da Escola Pública Estadual no município de Capixaba.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo Estadual a receber área em doação para construção da Escola Pública Estadual no município de Capixaba.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

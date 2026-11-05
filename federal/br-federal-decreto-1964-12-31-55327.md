@@ -1,5 +1,3 @@
-###DEC-055327-0-000-31-12-1964@@@
-
 DECRETO Nº 55.327, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Francisco Afonso da Silva a pesquisar mármore, no município de Morada Nova, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097616-0-000-06-04-1989@@@
-
 DECRETO N° 97.616, DE 06 DE ABRIL DE 1989
 
 Fixa cargos privativos de Oficial-General da Aeronáutica, em Tempo de Paz, e dá outras providências.

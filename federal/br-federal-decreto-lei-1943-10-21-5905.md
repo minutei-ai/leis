@@ -1,6 +1,4 @@
-###DEL-005905-0-000-21-10-1943@@@
-
- DECRETO-LEI N. 5.905 – DE 21 DE OUTUBRO DE 1943
+DECRETO-LEI N. 5.905 – DE 21 DE OUTUBRO DE 1943
 
 Dispõe sôbre os prazos para a apresentação e exame dos balaços gerais da União
 

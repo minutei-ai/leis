@@ -1,5 +1,3 @@
-###DEL-005438-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.438 – DE 30 DE ABRIL DE 1943
 
 Dispõe sobre o registo "ex‑officio" de estrangeiros

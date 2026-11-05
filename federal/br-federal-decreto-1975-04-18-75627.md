@@ -1,5 +1,3 @@
-###DEC-075627-0-000-18-04-1975@@@
-
 DECRETO Nº 75.627, DE 18 DE ABRIL DE 1975.
 
 Dispõe sobre a contratação para o desempenho das atividades de assessoramento superior aos Ministros de Estado, de que trata o Capítulo IV, do Título XI, do Decreto-lei número 200, de 25 de fevereiro de 1967, e dá outras providências.

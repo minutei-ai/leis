@@ -1,5 +1,3 @@
-###DEC-055622-0-000-22-01-1965@@@
-
 DECRETO Nº 55.622, DE 22 DE JANEIRO DE 1965.
 
 Altera o Regimento do Ministério da Viação e Obras Publicas.

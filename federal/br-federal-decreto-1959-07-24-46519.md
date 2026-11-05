@@ -1,5 +1,3 @@
-###DEC-046519-0-000-24-07-1959@@@
-
 DECRETO Nº 46.519, de 24 de julho de 1959.
 
 Revoga o Decreto nº 10 067, de 23de julho de 1942.

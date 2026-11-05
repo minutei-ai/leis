@@ -1,5 +1,3 @@
-###DEC-076622-0-000-17-11-1975@@@
-
 Decreto nº 76.622, de 17 de novembro de 1975.
 
 Revogadas os Decretos que regulam o aproveitamento e a formação de Oficiais para os Quadros de Oficiais de Administração e Especialistas em Suprimento Técnico, do Corpo de Oficiais da Aeronáutica.

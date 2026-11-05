@@ -1,5 +1,3 @@
-###DEC-068470-0-000-05-04-1971@@@
-
 DECRETO Nº 68.470, DE 5 DE ABRIL DE 1971.
 
 Altera o Regulamento para a Estação Rádio de Val-de-Cães, aprovado pelo Decreto nº 115, de 6 de novembro de 1961.

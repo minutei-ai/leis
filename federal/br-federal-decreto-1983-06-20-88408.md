@@ -1,5 +1,3 @@
-###DEC-088408-0-000-20-06-1983@@@
-
 Decreto nº 88.408, de 20 de junho de 1983
 
 Altera a estrutura da rede consular brasileira.

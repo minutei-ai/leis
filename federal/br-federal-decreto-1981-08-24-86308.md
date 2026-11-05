@@ -1,5 +1,3 @@
-###DEC-086308-0-000-24-08-1981@@@
-
 Decreto nº 86.308, de 24 de agosto de 1981.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Diamantino, no Estado de Mato Grosso, compreendidos na área prioritária de reforma agrária, fixada pelo Decreto nº 86.307, de 24 de agosto de 1981.

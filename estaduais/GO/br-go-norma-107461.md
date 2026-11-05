@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no S.D.O. de 06.-07-2023._](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18396)
+
+<!-- nota-edicao:fim -->
+
 LEI COMPLEMENTAR Nº 184, DE 6 DE JULHO DE 2023
 
 Altera a [Lei Complementar nº 25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023), de 06 de julho de 1998, a [Lei Complementar nº 103](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101090), de 1º de outubro de 2013, a [Lei Complementar nº 156](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103302), de 07 de agosto de 2020, a [Lei nº 13.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82255), de 05 de novembro de 1997, e dá outras providências.
@@ -39,8 +45,6 @@ Parágrafo único. Em observância às normas do Regime de Recuperação Fiscal 
 Art. 11. Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 6 de julho de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 
@@ -166,7 +170,6 @@ Tabelas das tarefas típicas e pré-requisitos para cargos de provimento em comi
 | Descrição Sumária das Tarefas |
 | Ao Assistente do Conselho Superior do Ministério Público compete prestar auxílio técnico-jurídico e administrativo às atividades do Conselheiro e, notadamente: elaborar minutas e outras manifestações próprias da atividade do Conselheiro junto ao Conselho Superior do Ministério Público, além da análise, estudos, exames, pesquisas, relatórios e trabalhos de natureza técnica ou jurídica, atinentes aos autos extrajudiciais e administrativos da alçada do órgão; acompanhar o andamento dos autos extrajudiciais e administrativos e expedientes do órgão; manter o registro e controle das atividades desenvolvidas, apresentando relatórios; assistir o Conselheiro nos demais serviços administrativos necessários ao desempenho de suas funções; executar outras tarefas compatíveis com suas atribuições, a critério da chefia imediata ou institucional. |
 
-..........................................................................................................................”(NR)<br>
-<br>
+..........................................................................................................................”(NR)
 
-[_Este texto não substitui o publicado no S.D.O. de 06.-07-2023._](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18396)
+[

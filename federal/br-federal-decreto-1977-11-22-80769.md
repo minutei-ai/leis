@@ -1,5 +1,3 @@
-###DEC-080769-0-000-22-11-1977@@@
-
 Decreto nº 80.769, de 22 de novembro de 1977.
 
 Concede à Empresa Mineradora Serra Negra Ltda. o direito de lavrar água mineral natural fracamente radioativa na fonte no Município de Serra Negra, Estado de São Paulo.

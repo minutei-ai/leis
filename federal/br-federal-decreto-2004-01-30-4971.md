@@ -1,5 +1,3 @@
-###DEC-004971-0-000-30-01-2004@@@
-
 DECRETO Nº 4.971,  DE 30 DE JANEIRO DE 2004.
 
 Dispõe sobre a composição e o funcionamento do Conselho Deliberativo do Fundo Constitucional de Financiamento do Centro-Oeste.

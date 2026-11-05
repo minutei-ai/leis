@@ -1,5 +1,3 @@
-###DEC-053825-0-000-24-03-1964@@@
-
 DECRETO Nº 53.825, DE 24 DE MARÇO DE 1964.
 
 Autoriza a cidadã brasileira Ana Cambraia Diniz a pesquisar grafita no município de Oliveira, Estado de Minas Gerais.

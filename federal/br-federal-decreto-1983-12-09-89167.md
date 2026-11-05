@@ -1,5 +1,3 @@
-###DEC-089167-0-000-09-12-1983@@@
-
 DECRETO Nº 89.167, DE 09 DE DEZEMBRO DE 1983
 
 Dispõe sobre a eleição dos representantes classistas para o Conselho de Recursos da Previdência Social e para as Juntas de Recursos da Previdência Social e dá outras providências.

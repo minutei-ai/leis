@@ -1,5 +1,3 @@
-###DEC-081987-0-000-18-07-1978@@@
-
 Decreto nº 81.987, de 18 de julho de 1978
 
 Concede à Mineração Vale do Jacurici S.A. o direito de lavrar cromita no Município de Senhor do BonFim, Estado da Bahia.

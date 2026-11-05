@@ -1,7 +1,3 @@
-1
-
-###DEL-001849-0-000-13-01-1981@@@
-
 # Decreto-Lei nº 1.849, de 13 de janeiro dE 1981
 
 Altera a redação do artigo 4º e seus parágrafos da Lei nº 5.655, de 20 de maio de 1971, e dá outras providências.

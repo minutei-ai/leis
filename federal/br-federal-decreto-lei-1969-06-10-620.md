@@ -1,5 +1,3 @@
-###DEL-000620-0-000-10-06-1969@@@
-
 Decreto-lei nº 620, de 10 de Junho de 1969
 
 Altera dispositivos da Lei nº 5.194, de 24 de dezembro de 1966, que regula o exercício das profissões de Engenheiro, Arquiteto e Engenheiro Agrônomo.

@@ -1,5 +1,3 @@
-###DEC-051230-0-000-22-08-1961@@@
-
 DECRETO Nº 51.230, DE 22 DE AGÔSTO DE 1961.
 
 Concede à sociedade anônima Refinações de Milho, Brazil, autorização para continuar a funcionar na República.

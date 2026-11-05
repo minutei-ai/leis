@@ -1,5 +1,3 @@
-###DEC-050667-0-000-30-05-1961@@@
-
 DECRETO Nº 50.667, DE 30 DE MAIO DE 1961.
 
 Torna sem efeito dispositivo do Decreto número 50.633, de 20 de maio de 1961.

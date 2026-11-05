@@ -1,5 +1,3 @@
-###DEC-081917-0-000-11-07-1978@@@
-
 Decreto nº 81.917, de 11 de julho de 1978.
 
 Concede à Companhia de Indústrias Gerais, Obras e Terras o direito de lavrar calcário dolomítico no Município de Bagé, Estado do Rio Grande do Sul.

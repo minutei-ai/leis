@@ -1,5 +1,3 @@
-###MPV-001770-0-045-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1-770-45, DE 11 DE FEVEREIRO DE 1999.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

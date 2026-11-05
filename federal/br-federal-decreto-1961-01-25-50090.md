@@ -1,5 +1,3 @@
-###DEC-050090-0-000-25-01-1961@@@
-
 DECRETO Nº 50.090, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Cultura de Joinville Limitada para estabelecer uma estação de radiotelevisão.

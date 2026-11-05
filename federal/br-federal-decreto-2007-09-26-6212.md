@@ -1,5 +1,3 @@
-###DEC-006212-0-000-26-09-2007@@@
-
 DECRETO Nº 6.212, DE 26 DE SETEMBRO DE 2007.
 
 Institui a hora de verão, em parte do território nacional, no período que indica.
@@ -19,5 +17,3 @@ Brasília, 26 de setembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson José Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 27.9.2007

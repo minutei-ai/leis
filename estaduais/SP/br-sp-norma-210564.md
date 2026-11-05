@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210564)<br>
-
 # DECRETO N° 69.335, DE 29 DE JANEIRO DE 2025
 
 ### _Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Sorocaba._

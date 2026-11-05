@@ -1,5 +1,3 @@
-###DEC-048703-0-000-04-08-1960@@@
-
 decreto nº 48.703, de 4 de agôsto de 1960.
 
 Outorga concessão à Rádio Ibituruna Limitada para instalar uma estação radiodifusora.

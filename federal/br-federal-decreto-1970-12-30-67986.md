@@ -1,5 +1,3 @@
-###DEC-067986-0-000-30-12-1970@@@
-
 Decreto nº 67.986, de 30 de dezembro de 1970.
 
 Redistribui cargo, com o respectivo ocupante, para a Universidade Federal do Rio Grande do Sul e dá outras providências.

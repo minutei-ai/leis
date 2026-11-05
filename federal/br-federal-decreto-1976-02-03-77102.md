@@ -1,5 +1,3 @@
-###DEC-077102-0-000-03-02-1976@@@
-
 decreto nº 77.102, de 3 de fevereiro de 1976.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas, Contábeis e Administração de Campo Grande, com sede na cidade de Campo Grande, Estado de Mato Grosso.

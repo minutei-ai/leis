@@ -1,5 +1,3 @@
-###DEC-074678-0-000-10-10-1974@@@
-
 DECRETO Nº 74.678, DE 10 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento do curso de Mecânica Automobilística da Faculdade de Tecnologia Senador Fláquer, mantida pelo Instituto de Ensino Superior Senador Fláquer, com sede na cidade de Santo André, Estado de São Paulo.

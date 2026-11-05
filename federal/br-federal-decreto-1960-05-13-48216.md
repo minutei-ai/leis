@@ -1,5 +1,3 @@
-###DEC-048216-0-000-13-05-1960@@@
-
 DECRETO Nº 48.216, DE 13 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Walter Lemos Baptista a pesquisar quartzo, no município de Itabaiana, Estado de Sergipe.

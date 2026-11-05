@@ -1,5 +1,3 @@
-###DEL-001195-0-000-09-12-1971@@@
-
 # Decreto-lei Nº 1.195, DE 9 DE DEZEMBRO DE 1971
 
 Dá nova redação ao § 3º do artigo 1º, do Decreto-lei nº 61, de 21 de novembro de 1966

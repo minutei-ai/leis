@@ -1,5 +1,3 @@
-###DEC-007459-0-000-07-04-2011-PUB-01@@@
-
 DECRETO Nº 7.459, DE 7 DE ABRIL DE 2011
 
 Autoriza o aumento do capital social do Serviço Federal de Processamento de Dados - SERPRO.

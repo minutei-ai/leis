@@ -1,5 +1,3 @@
-###DEL-003561-0-000-28-08-1941@@@
-
 DECRETO-LEI N. 3.561 – DE 28 DE AGOSTO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Justiça e Negócios Interiores

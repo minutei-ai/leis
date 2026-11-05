@@ -1,7 +1,7 @@
 LEI COMPLEMENTAR Nº. 260, DE 30 DE AGOSTO DE 2022.
 
-<br>
-Altera a Lei Complementar nº. 251/2022, que aumentou os vencimentos dos Agentes Comunitários de Saúde e Agentes de Combates a Endemias.<br>
+Altera a Lei Complementar nº. 251/2022, que aumentou os vencimentos dos Agentes Comunitários de Saúde e Agentes de Combates a Endemias.
+
  
 
 **A CÂMARA MUNICIPAL DE RIO VERDE APROVA E EU SANCIONO A SEGUINTE LEI:**

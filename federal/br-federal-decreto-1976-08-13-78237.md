@@ -1,5 +1,3 @@
-###DEC-078237-0-000-13-08-1976@@@
-
 Decreto nº 78.237, de 13 de agosto de 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz no Estado de São Paulo.

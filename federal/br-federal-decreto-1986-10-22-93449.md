@@ -1,5 +1,3 @@
-###DEC-093449-0-000-22-10-1986@@@
-
 DECRETO Nº 93.449, DE 22 DE OUTUBRO DE 1986.
 
 Estabelece normas para cumprimento do disposto no § 3º do art. 25 da Constituição, e dá outras providências.

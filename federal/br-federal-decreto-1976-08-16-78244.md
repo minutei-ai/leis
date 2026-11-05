@@ -1,5 +1,3 @@
-###DEC-078244-0-000-16-08-1976@@@
-
 Decreto nº 78.244, de 16 de agosto de 1976.
 
 Dá nova redação ao artigo 1º do Decreto nº 76.103, de 11 de agosto de 1975, que autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Cuiabá, Estado de Mato Grosso.

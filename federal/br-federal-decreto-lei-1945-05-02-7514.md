@@ -1,5 +1,3 @@
-###DEL-007514-0-000-02-05-1945@@@
-
 DECRETO-LEI N. 7.514 – DE 2 DE MAIO DE 1945
 
 Altera a carreira de Cabineiro de Estrada de Ferro, do Quadro II – extinto – do Ministério da Viação e Obras Públicas e dá outras providências

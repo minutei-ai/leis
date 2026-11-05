@@ -1,5 +1,3 @@
-###DEL-008170-0-000-12-11-1945@@@
-
 DECRETO-LEI N. 8.170 – DE 12 DE NOVEMBRO DE 1945
 
 Dispõe sôbre o patrimônio de partidos dissolvidos

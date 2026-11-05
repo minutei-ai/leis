@@ -1,5 +1,3 @@
-###DEL-004805-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.805 – DE 6 DE OUTUBRO DE 1942
 
 Concede pensão especial a Geraldo de Oliveira Paiva

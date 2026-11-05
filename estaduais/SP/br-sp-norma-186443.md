@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/186443)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16730-22.05.2018.html)
 
 # LEI N° 16.730, DE 22 DE MAIO DE 2018

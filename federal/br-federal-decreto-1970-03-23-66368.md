@@ -1,5 +1,3 @@
-###DEC-066368-0-000-23-03-1970@@@
-
 DECRETO Nº 66.368 - DE 23 DE MARÇO DE 1970
 
 Autoriza o funcionamento do Curso de Administração de Emprêsas da Faculdade de Administração e Ciências Econômicas "Santana", em São Paulo.

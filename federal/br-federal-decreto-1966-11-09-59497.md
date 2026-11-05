@@ -1,5 +1,3 @@
-###DEC-059497-0-000-09-11-1966@@@
-
 DECRETO Nº 59.497, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza a Companhia de Melhoramentos de São Paulo - Indústrias de Papéis a funcionar aos domingos e feriados civis e religiosos.

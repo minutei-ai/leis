@@ -1,5 +1,3 @@
-###DEC-002412-0-000-03-12-1997@@@
-
 DECRETO Nº 2.412, DE 3 DE DEZEMBRO DE 1997
 
 Institui o Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado - RECOF.

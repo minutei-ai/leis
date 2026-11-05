@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e7155b39-88fe-47b9-8938-df257ba2e590/texto#nowhere)
 
-###DEL-000487-0-000-03-03-1969@@@
-
 # DECRETO-LEI Nº 487, DE 3 de MARÇO dE 1969
 
 Dispõe sôbre a composição e o funcionamento do Conselho Nacional do Comércio Exterior (CONCEX).

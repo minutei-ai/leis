@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211630)<br>
-
 # DECRETO N° 69.953, DE 10 DE OUTUBRO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à duplicação e melhoria do trecho entre os km 30+700m e 43+000m da SP-056, Rodovia Alberto Hinoto, nos Municípios de Itaquaquecetuba e Arujá, e dá providências correlatas._

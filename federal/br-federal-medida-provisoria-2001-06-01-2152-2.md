@@ -1,5 +1,3 @@
-###MPV-002152-0-002-01-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.152‑2, DE 1º DE JUNHO DE 2001
 
 Cria e instala a Câmara de Gestão da Crise de Energia Elétrica, do Conselho de Governo, estabelece diretrizes para programas de enfrentamento da crise de energia elétrica e dá outras providências.

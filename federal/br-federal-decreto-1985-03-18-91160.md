@@ -1,5 +1,3 @@
-###DEC-091160-0-000-18-03-1985@@@
-
 DECRETO Nº 91.160, DE 18 DE MARÇO DE 1985
 
 Cria a Comissão de Avaliação das remunerações indiretas do administração Pública.

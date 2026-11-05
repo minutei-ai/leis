@@ -1,5 +1,3 @@
-###MPV-000553-0-000-21-12-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 553, DE 21 DE DEZEMBRO DE 2011
 
 Abre crédito extraordinário, em favor dos Ministérios da Ciência, Tecnologia e Inovação, da Defesa e da Integração Nacional, no valor global de R$ 533.581.700,00, para os fins que especifica.

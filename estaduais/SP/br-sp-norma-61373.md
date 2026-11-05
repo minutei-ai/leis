@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61373)
-
 # LEI Nº 12.273, DE 20 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 184/2005, do Deputado Afanasio Jazadji - PFL)

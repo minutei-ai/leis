@@ -1,5 +1,3 @@
-###DEC-056652-0-000-05-08-1965@@@
-
 Decreto nº 56.652, de 5 de agôsto de 1965.
 
 Aprova alterações introduzidas nos Estatutos da União do Comércio e Indústria Companhia de Seguros Gerais, inclusive aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 5 de agôsto de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Daniel Faraco.
-
-###DEC-056652-0-000-05-08-1965@@@RET01+++
 
 DECRETO Nº 56.652, DE 5 DE AGÔSTO DE 1965.
 

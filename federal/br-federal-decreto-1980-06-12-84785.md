@@ -1,5 +1,3 @@
-###DEC-084785-0-000-12-06-1980@@@
-
 Decreto nº 84.785, de 12 de junho de 1980.
 
 Autoriza o funcionamento das habilitações de Tradutor e de Intérprete, no curso de Letras das Faculdades Metropolitanas Unidas - Associação Educacional, em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###MPV-001789-0-001-28-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.789-1, DE 28 DE JANEIRO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

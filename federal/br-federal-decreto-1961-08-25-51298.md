@@ -1,5 +1,3 @@
-###DEC-051298-0-000-25-08-1961@@@
-
 DECRETO Nº 51.298, DE 25 DE AGÔSTO DE 1961.
 
 Concede à Emprêsa Mineradora Cazú Ltda. autorização para funcionar como emprêsa de mineração.

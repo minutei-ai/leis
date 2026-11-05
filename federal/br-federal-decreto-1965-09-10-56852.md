@@ -1,5 +1,3 @@
-###DEC-056852-0-000-10-09-1965@@@
-
 DECRETO Nº 56.852, DE 10 DE SETEMBRO DE 1965.
 
 Prorroga, por mais de 60 (sessenta) dias, o prazo de que trata o artigo 4º do Decreto nº 56.570, de 9 de julho de 1965.

@@ -1,5 +1,3 @@
-###DEC-067230-0-000-22-09-1970@@@
-
 DECRETO nº 67.230, de 22 de setembro de 1970.
 
 Extingue cargos no Quadro de Pessoal - Parte Permanente - do Departamento Administrativo do Pessoal Civil.

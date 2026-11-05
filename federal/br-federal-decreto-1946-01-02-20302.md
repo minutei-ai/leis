@@ -1,30 +1,28 @@
-###DEC-020302-0-000-02-01-1946@@@
+**DECRETO Nº 20.302, DE 2 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.302, DE 2 DE JANEIRO DE 1946.</strong>
+***Aprova os Regimentos das Diretorias do Ensino Superior, Ensino Secundário, Ensino Comercial e Ensino Industrial, do Ministério da Educação e Saúde.***
 
-<em><strong>Aprova os Regimentos das Diretorias do Ensino Superior, Ensino Secundário, Ensino Comercial e Ensino Industrial, do Ministério da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a,* da Constituição,\]
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a,</em> da Constituição,\]
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovados os Regimentos das Diretorias - do Ensino Superior, Ensino Secundário, Ensino Comercial e Ensino Industrial – do Ministério da Educação e Saúde, que, assinados pelo respectivo Ministro, baixam com êste decreto.
 
-<strong>Art</strong>. 1º Ficam aprovados os Regimentos das Diretorias - do Ensino Superior, Ensino Secundário, Ensino Comercial e Ensino Industrial – do Ministério da Educação e Saúde, que, assinados pelo respectivo Ministro, baixam com êste decreto.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 2 de janeiro de 1946, 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Raul Leitão da Cunha
 
-<strong>REGIMENTO DA DIRETORIA DO ENSINO SUPERIOR</strong>
+**REGIMENTO DA DIRETORIA DO ENSINO SUPERIOR**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E COMPETÊNCIA</em>
+*DA FINALIDADE E COMPETÊNCIA*
 
-<strong>Art</strong>. 1º A Diretoria do Ensino Superior, subordinada ao Ministro da Educação e Saúde, tem por finalidade orientar e fiscalizar a aplicação das leis do ensino superior, competindo-lhe:
+**Art**. 1º A Diretoria do Ensino Superior, subordinada ao Ministro da Educação e Saúde, tem por finalidade orientar e fiscalizar a aplicação das leis do ensino superior, competindo-lhe:
 
 I – promover nos estabelecimentos sob a sua jurisdição, o melhoramento progressivo das instalações e do ensino;
 
@@ -36,11 +34,11 @@ IV – observar, no decurso da inspeção, a idoneidade, a assiduidade e as cond
 
 V – submeter ao Conselho Nacional de Educação, em tempo oportuno, os processos referentes à inspeção de estabelecimentos, para concessão das prerrogativas da autorização para funcionamento ou reconhecimento.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A Diretoria compõe-se de:
+**Art**. 2º A Diretoria compõe-se de:
 
 Seção de Estudos e Organização;
 
@@ -52,15 +50,15 @@ Seção de Registros;
 
 Serviço Auxiliar.
 
-<strong>Art</strong>. 3º A Diretoria terá um diretor subordinado imediatamente ao Ministro; as seções e o serviço auxiliar terão chefes subordinados imediatamente ao diretor.
+**Art**. 3º A Diretoria terá um diretor subordinado imediatamente ao Ministro; as seções e o serviço auxiliar terão chefes subordinados imediatamente ao diretor.
 
-<strong>Art</strong>. 4º O diretor terá um assistente e um secretário, escolhidos dentre os servidores da Diretoria.
+**Art**. 4º O diretor terá um assistente e um secretário, escolhidos dentre os servidores da Diretoria.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 5º À Seção de Estudos e Organização compete:
+**Art**. 5º À Seção de Estudos e Organização compete:
 
 I – estudar:
 
@@ -76,7 +74,7 @@ IV – informar sôbre condições de admissão de pessoal docente e administrat
 
 V – realizar inquéritos, pesquisas e outros estudos que visem a melhoria do ensino.
 
-<strong>Art</strong>. 6º À Seção de Fiscalização da Vida Escolar compete:
+**Art**. 6º À Seção de Fiscalização da Vida Escolar compete:
 
 I – manter atualizados os históricos escolares e ter em ordem os respectivos comprovantes;
 
@@ -90,7 +88,7 @@ c) transferência de aluno;
 
 d) nome, idade, filiação e natureza de aluno, e registrar as retificações autorizadas;
 
-<strong>Art</strong>. 7º À Seção de Inspeção compete:
+**Art**. 7º À Seção de Inspeção compete:
 
 I – fiscalizar:
 
@@ -108,7 +106,7 @@ c) levantamento dos dados necessários à organização da estatística e matrí
 
 III – organizar os processo dos relatórios que devam ser submetidos ao Conselho Nacional de Educação.
 
-<strong>Art</strong>. 8º A Seção de Registros compete:
+**Art**. 8º A Seção de Registros compete:
 
 I – registrar:
 
@@ -130,19 +128,19 @@ b) cadastro especial, para publicação;
 
 c) fichários de reitores, diretores, secretários e respectivos substitutos.
 
-<strong>Art</strong>. 9º Ao Serviço Auxiliar compete:
+**Art**. 9º Ao Serviço Auxiliar compete:
 
 I – elaborar os trabalhos mecanográficos e os atinentes ao pessoal, material, orçamento e comunicações;
 
 II – preparar o expediente que por sua natureza não competir às seções.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<em>Do diretor</em>
+*Do diretor*
 
-<strong>Art</strong>. 10. Ao diretor incumbe:
+**Art**. 10. Ao diretor incumbe:
 
 I – dirigir os trabalhos da Diretoria;
 
@@ -196,25 +194,25 @@ XX – autorizar registro de diploma certificado, apostila e professor, e visar 
 
 XXI – requisitar das seções os auxiliares necessários ao serviço do seu gabinete.
 
-<em>Do assistente</em>
+*Do assistente*
 
-<strong>Art</strong>. 11 – Ao assistente incumbe:
+**Art**. 11 – Ao assistente incumbe:
 
 I – auxiliar o diretor, executando ou dirigindo a execução de trabalhos e exercendo as funções de que o mesmo o encarregar, no seu gabinete;
 
 II – reunir os elementos necessários ao preparo de relatório e boletins do diretor.
 
-<em>Do secretário</em>
+*Do secretário*
 
-<strong>Art</strong>. 12 – Ao secretário incumbe:
+**Art**. 12 – Ao secretário incumbe:
 
 I – receber as pessoas que desejem falar ao diretor e encaminhá-las ou a ele transmitir o assunto, conforme as suas ordens;
 
 II – representar o diretor, quando para isto fôr por êle designado.
 
-<em>Do chefe do Serviço Auxiliar e dos chefes de seção</em>
+*Do chefe do Serviço Auxiliar e dos chefes de seção*
 
-<strong>Art</strong>. 13 – Ao chefe do serviço auxiliar e a cada chefe de seção incumbe:
+**Art**. 13 – Ao chefe do serviço auxiliar e a cada chefe de seção incumbe:
 
 I – dirigir os trabalhos do órgão ao seu cargo;
 
@@ -236,35 +234,35 @@ IX – impedir, no recinto do órgão que dirige, a presença de pessoa estranha
 
 X – proferir despachos interlocutórios.
 
-<em>Dos inspetores</em>
+*Dos inspetores*
 
-<strong>Art</strong>. 14 – Os inspetores desempenharão os encargos determinados em instruções especiais.
+**Art**. 14 – Os inspetores desempenharão os encargos determinados em instruções especiais.
 
-<em>Dos demais servidores</em>
+*Dos demais servidores*
 
-<strong>Art</strong>. 15 – Aos servidores que não têm atribuições especificadas neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das suas funções que forem determinados pelos chefes respectivos.
+**Art**. 15 – Aos servidores que não têm atribuições especificadas neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das suas funções que forem determinados pelos chefes respectivos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 16.- A Diretoria terá lotação fixada em decreto.
+**Art**. 16.- A Diretoria terá lotação fixada em decreto.
 
 Parágrafo único – Além dos funcionários lotados, a Diretoria poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 17 – O horário normal de trabalho da Diretoria será estabelecido pelo ministro, respeitado o número de horas semanais fixado para o serviço público.
+**Art**. 17 – O horário normal de trabalho da Diretoria será estabelecido pelo ministro, respeitado o número de horas semanais fixado para o serviço público.
 
 Parágrafo único – O diretor está isento de assinatura de ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 18 – Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 18 – Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
 
 a) o diretor, pelo chefe de seção previamente designado pelo ministro;
 
@@ -272,15 +270,15 @@ b) o chefe de seção e o chefe de serviço auxiliar, por um dos respectivos sub
 
 Rio de Janeiro, 27 de dezembro de 1945.
 
-<strong>RAUL LEITÃO DA CUNHA</strong>
+**RAUL LEITÃO DA CUNHA**
 
-<strong>REGIMENTO DA DIRETORIA DO ENSINO SECUNDÁRIO</strong>
+**REGIMENTO DA DIRETORIA DO ENSINO SECUNDÁRIO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E COMPETÊNCIA</em>
+*DA FINALIDADE E COMPETÊNCIA*
 
-<strong>Art</strong>. 1º - A Diretoria do Ensino Secundário, subordinado ao Ministro da Educação e Saúde, tem por finalidade orientar e fiscalizar a aplicação das leis do ensino secundário sob a jurisdição do Ministério da Educação e Saúde, competindo-lhe:
+**Art**. 1º - A Diretoria do Ensino Secundário, subordinado ao Ministro da Educação e Saúde, tem por finalidade orientar e fiscalizar a aplicação das leis do ensino secundário sob a jurisdição do Ministério da Educação e Saúde, competindo-lhe:
 
 I – promover, nos estabelecimentos sob sua jurisdição, o melhoramento progressivo das instalações, o aperfeiçoamento dos métodos de ensino;
 
@@ -290,11 +288,11 @@ III – fazer inspecionar as condições dos estabelecimentos que requererem as 
 
 IV – observar, no decurso da inspeção, a idoneidade, a assiduidade as condições da admissão dos membros do corpo docente, bem como a possibilidades de desenvolvimento da entidade inspecionada.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º - A Diretoria compõe-se de:
+**Art**. 2º - A Diretoria compõe-se de:
 
 Seção de Prédios e Aparelhamento Escolar;
 
@@ -308,15 +306,15 @@ Seção de Inspeção;
 
 Serviço Auxiliar.
 
-<strong>Art</strong>. 3º - A Diretoria terá um Diretor subordinado imediatamente ao ministro: as seções e o serviço auxiliar terão chefes subordinados imediatamente ao diretor.
+**Art**. 3º - A Diretoria terá um Diretor subordinado imediatamente ao ministro: as seções e o serviço auxiliar terão chefes subordinados imediatamente ao diretor.
 
-<strong>Art</strong>. 4º - O diretor terá um assistente e um secretário, escolhidos dentre os servidores da Diretoria.
+**Art**. 4º - O diretor terá um assistente e um secretário, escolhidos dentre os servidores da Diretoria.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 5º - A Seção de Prédios e Aparelhamento Escolar compete:
+**Art**. 5º - A Seção de Prédios e Aparelhamento Escolar compete:
 
 I – verificar se o material didático e as instalações dos estabelecimentos que requerem inspeção obedecem às especificações e discriminações qualitativas e quantitativas mínimas, aprovadas pelo ministro e proceder periodicamente à aludida verificação;
 
@@ -334,7 +332,7 @@ V – opinar sôbre redação de regimento de estabelecimento sob a jurisdição
 
 VI – realizar inquéritos, pesquisas e outros estudo que visem a melhoria do ensino.
 
-<strong>Art</strong>. 6º - À Seção de Pessoal Docente e Administrativo compete:
+**Art**. 6º - À Seção de Pessoal Docente e Administrativo compete:
 
 I – registrar professor, orientador educacional, diretor e secretário, e cancelar o registro quando fôr o caso;
 
@@ -348,7 +346,7 @@ III – expedir certificados de registro de professor, orientador educacional e 
 
 IV – informar sôbre idôneidade e condições de admissão de membros do corpo docente, diretores, orientadores educacional e secretários.
 
-<strong>Art</strong>. 7º - À Seção de Fiscalização da Vida Escolar compete:
+**Art**. 7º - À Seção de Fiscalização da Vida Escolar compete:
 
 I – manter atualizados os históricos escolares e ter em ordem os respectivos comprovantes;
 
@@ -364,7 +362,7 @@ d) nome, idade, filiação e naturalidade de aluno e registrar as retificações
 
 III – expedir certidões e certificados;
 
-<strong>Art</strong>. 8º À Seção de Orientação e Assistência compete:
+**Art**. 8º À Seção de Orientação e Assistência compete:
 
 I – promover a execução dos preceitos legais referentes à orientação educacional e fiscalizá-la;
 
@@ -376,7 +374,7 @@ IV – elaborar planos para concessão de bôlsas de estudos a alunos e controla
 
 V – estudar os casos de admissão gratuita de estudantes pobres nos estabelecimentos equiparados ou reconhecidos, bem como os de aquisição de uniforme e material escolar para os mesmos.
 
-<strong>Art</strong>. 9º A Seção de Inspeção compete:
+**Art**. 9º A Seção de Inspeção compete:
 
 I – fiscalizar:
 
@@ -392,19 +390,19 @@ b) instalação de curso de aperfeiçoamento para inspetores;
 
 c) levantamento dos dados necessários à organização da estatística de matrícula, frequência e aproveitamento dos alunos.
 
-<strong>Art</strong>. 10. Ao Serviço Auxiliar compete:
+**Art**. 10. Ao Serviço Auxiliar compete:
 
 I – elaborar os trabalhos mecanográficos e os atinentes a pessoal, material, orçamento e comunicações;
 
 II – preparar o expediente que por sua natureza não competir às seções.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<em>Do Diretor</em>
+*Do Diretor*
 
-<strong>Art</strong>. 11. Ao diretor incumbe:
+**Art**. 11. Ao diretor incumbe:
 
 I. dirigir os trabalhos da Diretoria;
 
@@ -464,7 +462,7 @@ XXI - aprovar redação de regimento de estabelecimento sob a jurisdição da Di
 
 Do assistente
 
-<strong>Art</strong>. 12. Aso assistente incumbe:
+**Art**. 12. Aso assistente incumbe:
 
 I - auxiliar o diretor, executando ou dirigindo a execução de trabalhos e exercendo as funções de que o mesmo o encarregar, no seu gabinete;
 
@@ -472,7 +470,7 @@ II - reunir os elementos necessários ao preparo de relatórios ao preparo de re
 
 Do secretário
 
-<strong>Art</strong>. 13. Ao secretário incumbe:
+**Art**. 13. Ao secretário incumbe:
 
 I - receber as pessoas que desejam falar ao diretor e encaminhá-las ou a ele transmitir o assunto, conforme as suas ordens;
 
@@ -480,7 +478,7 @@ II - representar o diretor, quando para isto for, por ele, designado.
 
 Do chefe de Serviço Auxiliar
 
-<strong>Art</strong>. 14. Ao chefe do Serviço Auxiliar e a cada chefe de seção incumbe:
+**Art**. 14. Ao chefe do Serviço Auxiliar e a cada chefe de seção incumbe:
 
 I - dirigir os trabalhos do órgão ao seu cargo;
 
@@ -504,33 +502,33 @@ X - proferir despachos interlocutórios.
 
 Dos inspetores
 
-<strong>Art</strong>. 15. Os inspetores desempenharão os encargos determinados em instruções especiais.
+**Art**. 15. Os inspetores desempenharão os encargos determinados em instruções especiais.
 
 Dos demais servidores
 
-<strong>Art</strong>. 16. Aos servidores que não tem atribuições especificadas neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das suas funções que forem determinados pelos chefes respectivos.
+**Art**. 16. Aos servidores que não tem atribuições especificadas neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das suas funções que forem determinados pelos chefes respectivos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 17. A Diretoria terá lotação fixada em decreto.
+**Art**. 17. A Diretoria terá lotação fixada em decreto.
 
 Parágrafo único. Além dos funcionários lotados, a Diretoria poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 18. O horário normal de trabalho da Diretoria será estabelecido pelo Ministro, respeitado o número de horas semanais fixado para o serviço público.
+**Art**. 18. O horário normal de trabalho da Diretoria será estabelecido pelo Ministro, respeitado o número de horas semanais fixado para o serviço público.
 
 Parágrafo único. O diretor está isento de assinatura de ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 19. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 19. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
 
 a) o diretor, pelo chefe de seção préviamente designado pelo ministro;
 
@@ -538,13 +536,13 @@ b) o chefe de seção e o chefe do serviço auxiliar, por um dos respectivos sub
 
 Rio de Janeiro, 29 de dezembro de 1945 - Raul Leitão da Cunha
 
-<strong>REGIMENTO DA DIRETORIA DO ENSINO COMERCIAL</strong>
+**REGIMENTO DA DIRETORIA DO ENSINO COMERCIAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E COMPETÊNCIA</em>
+*DA FINALIDADE E COMPETÊNCIA*
 
-<strong>Art</strong>. 1º A Diretoria do Ensino Comercial, subordinada ao Ministro da Educação e Saúde, tem por finalidade orientar e fiscalizar a aplicação das leis do ensino comercial sob a jurisdição do Ministro da Educação e Saúde, competindo-lhe:
+**Art**. 1º A Diretoria do Ensino Comercial, subordinada ao Ministro da Educação e Saúde, tem por finalidade orientar e fiscalizar a aplicação das leis do ensino comercial sob a jurisdição do Ministro da Educação e Saúde, competindo-lhe:
 
 I - promover, nos estabelecimentos sob sua jurisdição, o melhoramento progressivo das instalações e o aperfeiçoamento dos métodos de ensino;
 
@@ -554,11 +552,11 @@ III - fazer inspecionar as condições dos estabelecimentos que requerem as prer
 
 IV - observar no decurso da inspeção, a idoneidade, a assiduidade e as condições da admissão dos membros do corpo docente, bem como as possibilidades de desenvolvimento da entidade inspecionada.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A Diretoria compõe-se de:
+**Art**. 2º A Diretoria compõe-se de:
 
 Seção de Prédio e Aparelhamento Escolar;
 
@@ -568,15 +566,15 @@ Seção de Inspeção
 
 Serviço Auxiliar.
 
-<strong>Art</strong>. 3º A Diretoria terá um diretor subordinado imediatamente ao ministro; as seções e o serviço auxiliar terão chefes subordinados imediatamente ao diretor.
+**Art**. 3º A Diretoria terá um diretor subordinado imediatamente ao ministro; as seções e o serviço auxiliar terão chefes subordinados imediatamente ao diretor.
 
-<strong>Art</strong>. 4º O diretor terá um assistente e um secretário escolhido dentre os servidores da Diretoria.
+**Art**. 4º O diretor terá um assistente e um secretário escolhido dentre os servidores da Diretoria.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 5º À Seção de Prédio e Aparelhamento Escolar compete:
+**Art**. 5º À Seção de Prédio e Aparelhamento Escolar compete:
 
 I - verificar se o material didático e as instalações dos estabelecimentos que requerem inspeção obedecem às especificações e discriminações qualitativas e quantitativa, mínimas aprovadas pelo ministro, e proceder periodicamente à aludida verificação;
 
@@ -594,7 +592,7 @@ V - opinar sôbre redação de regimento de estabelecimento sob a jurisdição d
 
 VI - realizar inquéritos, pesquisar e outros estudos que visem a melhoria do ensino.
 
-<strong>Art</strong>. 6º À Seção de Pessoal Docente e Administrativo compete:
+**Art**. 6º À Seção de Pessoal Docente e Administrativo compete:
 
 I - registrar professor, orientador educacional, diretor e secretário e cancelar o registro quando for o caso;
 
@@ -608,7 +606,7 @@ III - expedir certificados de registro de professor, orientador educacional e se
 
 IV - informar sobre idoneidade e condições de admissão de membros do corpo docente, diretores orientadores educacionais e secretários.
 
-<strong>Art</strong>. 7º À Seção de Fiscalização da Vida Escolar compete:
+**Art**. 7º À Seção de Fiscalização da Vida Escolar compete:
 
 I - manter atualizados os históricos escolares e ter em ordem os respectivos comprovantes;
 
@@ -632,7 +630,7 @@ b) certificado;
 
 c) apostila.
 
-<strong>Art</strong>. 8º - À Seção de Orientação e Assistência compete:
+**Art**. 8º - À Seção de Orientação e Assistência compete:
 
 I - promover a execução dos preceitos legais referentes à orientação educacional e fiscalizá-la;
 
@@ -644,7 +642,7 @@ IV - elaborar planos para concessão de bolsas de estudos a alunos e controlar a
 
 V - estudar os casos de admissão gratuita de estudantes pobres nos estabelecimentos equiparados ou reconhecidos, bem como os de aquisição de uniformes e material escolar para os mesmos.
 
-<strong>Art</strong>. 9º - À Seção de Inspeção compete:
+**Art**. 9º - À Seção de Inspeção compete:
 
 I - fiscalizar:
 
@@ -660,17 +658,17 @@ b) instalação de curso de aperfeiçoamento para inspetores;
 
 c) levantamento dos dados necessários à organização da estatística de matriculas, freqüências e aproveitamento dos alunos.
 
-<strong>Art</strong>. 10 - Ao Serviço Auxiliar compete:
+**Art**. 10 - Ao Serviço Auxiliar compete:
 
 I - elaborar os trabalhos mecanográficos e os atinentes a pessoal, material, orçamento e comunicações;
 
 II - preparar o expediente que por sua natureza não competir às seções.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL Do DIRETOR</em>
+*DAS ATRIBUIÇÕES DO PESSOAL Do DIRETOR*
 
-<strong>Art</strong>. 11 - Ao diretor incumbe:
+**Art**. 11 - Ao diretor incumbe:
 
 I - dirigir os trabalhos da Diretoria;
 
@@ -732,7 +730,7 @@ XXII - aprovar redação de regimento de estabelecimento sob a jurisdição da D
 
 Do assistente
 
-<strong>Art</strong>. 12. Ao assistente incumbe:
+**Art**. 12. Ao assistente incumbe:
 
 I - auxiliar o diretor, executando ou dirigindo a execução dos trabalhos e exercendo as funções de que o mesmo o encarregar, no seu gabinete;
 
@@ -740,7 +738,7 @@ II - reunir os elementos necessários ao preparo de relatórios e boletins do di
 
 Do secretário
 
-<strong>Art</strong>. 13. Ao secretário incumbe:
+**Art**. 13. Ao secretário incumbe:
 
 I - receber as pessoas que desejem falar ao diretor e encaminhá-las ou e ele transmitir o assunto, conforme as suas ordens;
 
@@ -748,7 +746,7 @@ II - representar o diretor, quando para isto for por ele designado.
 
 Do chefe do Serviço Auxiliar e do chefes de seção
 
-<strong>Art</strong>. 14. Ao chefe de Serviço Auxiliar e a cada chefe da seção incumbe:
+**Art**. 14. Ao chefe de Serviço Auxiliar e a cada chefe da seção incumbe:
 
 I - dirigir os trabalhos do órgão ao seu cargo;
 
@@ -772,41 +770,41 @@ X - proferir despachos interlocutórios.
 
 Dos fiscais gerais e inspetores
 
-<strong>Art</strong>. 15. Os fiscais gerais e inspetores desempenharão os encargos determinados, segundo a respectiva categoria, em instruções especiais.
+**Art**. 15. Os fiscais gerais e inspetores desempenharão os encargos determinados, segundo a respectiva categoria, em instruções especiais.
 
 Dos demais servidores
 
-<strong>Art</strong>. 16. Aos servidores que não tem atribuições especificadas neste regimento cabe a execução dos trabalhos próprio dos seus cargos ou das suas funções que forem determinados pelos chefes respectivos.
+**Art**. 16. Aos servidores que não tem atribuições especificadas neste regimento cabe a execução dos trabalhos próprio dos seus cargos ou das suas funções que forem determinados pelos chefes respectivos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 17. A Diretoria terá lotação fixada em decreto.
-
-Parágrafo único. Além dos funcionários lotados, a Diretoria poderá ter pessoal extranumerário.
-
-<strong>CAPÍTULO V</strong>
-
-<em>DA LOTAÇÃO</em>
-
-<strong>Art</strong>. 17. A Diretoria terá lotação fixada um decreto.
+**Art**. 17. A Diretoria terá lotação fixada em decreto.
 
 Parágrafo único. Além dos funcionários lotados, a Diretoria poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO V**
 
-<em>DO HORÁRIO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 18. O horário normal de trabalho da Diretoria será estabelecido pelo ministro, respeitado o número de horas semanais fixado para o serviço público.
+**Art**. 17. A Diretoria terá lotação fixada um decreto.
+
+Parágrafo único. Além dos funcionários lotados, a Diretoria poderá ter pessoal extranumerário.
+
+**CAPÍTULO VI**
+
+*DO HORÁRIO*
+
+**Art**. 18. O horário normal de trabalho da Diretoria será estabelecido pelo ministro, respeitado o número de horas semanais fixado para o serviço público.
 
 Parágrafo único. O diretor está isento de assinatura de ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 19. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 19. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
 
 a) o diretor, pelo chefe de seção préviamente designado pelo ministro;
 
@@ -814,15 +812,15 @@ b) o chefe de seção e o chefe do Serviço Auxiliar, por um dos respectivos sub
 
 Rio de Janeiro, 27 de dezembro de 1945.
 
-<strong>RAUL LEITÃO DA CUNHA</strong>
+**RAUL LEITÃO DA CUNHA**
 
-<strong>REGIMENTO DA DIRETORIA DO ENSINO INDUSTRIAL</strong>
+**REGIMENTO DA DIRETORIA DO ENSINO INDUSTRIAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E COMPETÊNCIA</em>
+*DA FINALIDADE E COMPETÊNCIA*
 
-<strong>Art</strong>. 1º A Diretoria do Ensino Industrial, subordinada ao Ministério da Educação e Saúde, tem por finalidade orientar e fiscalizar a aplicação das leis de ensino industrial sob a jurisdição do Ministério da Educação e Saúde, competindo-lhe:
+**Art**. 1º A Diretoria do Ensino Industrial, subordinada ao Ministério da Educação e Saúde, tem por finalidade orientar e fiscalizar a aplicação das leis de ensino industrial sob a jurisdição do Ministério da Educação e Saúde, competindo-lhe:
 
 I - promover, nos estabelecimentos sob a sua jurisdição, o melhoramento progressivo das instalações e o aperfeiçoamento dos métodos de ensino;
 
@@ -840,11 +838,11 @@ VII - estudar os assuntos submetidos ao Ministério pelo Serviço Nacional de Ap
 
 VIII - orientar e fiscalizar o ensino nas escolas e nos cursos mantidos pelo Ministério.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A Diretoria compõe-se de:
+**Art**. 2º A Diretoria compõe-se de:
 
 Seção de Prédios, Instalações e Estudos;
 
@@ -854,17 +852,17 @@ Seção de Aprendizagem Industrial;
 
 Serviço Auxiliar.
 
-<strong>Art</strong>. 3º Subordinados à Diretoria funcionarão as escolas técnicas, as escolas industriais, os cursos de mineração, de metalurgia e de química industrial, mantidos pelo Ministério.
+**Art**. 3º Subordinados à Diretoria funcionarão as escolas técnicas, as escolas industriais, os cursos de mineração, de metalurgia e de química industrial, mantidos pelo Ministério.
 
-<strong>Art</strong>. 4º A Diretoria terá um diretor subordinado imediatamente ao ministro; as seções e o serviço auxiliar terão chefes subordinados imediatamente ao diretor.
+**Art**. 4º A Diretoria terá um diretor subordinado imediatamente ao ministro; as seções e o serviço auxiliar terão chefes subordinados imediatamente ao diretor.
 
-<strong>Art</strong>. 5<strong>º</strong> O diretor terá um assistente e um secretário, que escolherá dentre os servidores da Diretoria.
+**Art**. 5**º** O diretor terá um assistente e um secretário, que escolherá dentre os servidores da Diretoria.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6º À Seção de Prédios, Instalações e Estudos compete:
+**Art**. 6º À Seção de Prédios, Instalações e Estudos compete:
 
 I - verificar se o material didático e as instalações dos estabelecimentos que requerem inspeção obedecem às especificações e discriminações qualitativas e quantitativas mínimas, aprovadas pelo ministro, e proceder periódicamente à dita verificação;
 
@@ -906,7 +904,7 @@ IX - realizar inquéritos, pesquisar e outros estudos que visem a melhoria do en
 
 X - coligir elementos para estudo da caracterização das profissões e determinação dos conhecimentos que devem entrar na formação profissional relativa a cada modalidade de ofício ou técnica.
 
-<strong>Art</strong>. 8º A Seção de Pessoal docente, Discente e Administrativo compete:
+**Art**. 8º A Seção de Pessoal docente, Discente e Administrativo compete:
 
 I - informar sôbre:
 
@@ -938,7 +936,7 @@ IV - estudar pedidos de registro de diploma, certificado, apostila e fazer os re
 
 V - promover o levantamento dos dados necessários à organização da estatística de matrículas, freqüência e aproveitamento dos alunos;
 
-<strong>Art</strong>. 9º A Seção de Aprendizagem Industrial compete:
+**Art**. 9º A Seção de Aprendizagem Industrial compete:
 
 I orientar:
 
@@ -952,19 +950,19 @@ III - fiscalizar a execução de programas e instruções, por parte dos estabel
 
 IV - providenciar a cassação ou suspensão de um ou mais cursos, quando não assegurarem eficiência;
 
-<strong>Art</strong>. 10 Ao Serviço Auxiliar compete:
+**Art**. 10 Ao Serviço Auxiliar compete:
 
 I - elaborar os trabalhos mecanográficos e os atinentes a pessoal, material, orçamento e comunicações;
 
 II - preparar o expediente que não competir por sua natureza às seções.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<em>Do diretor</em>
+*Do diretor*
 
-<strong>Art</strong>. 11 Ao diretor incumbe:
+**Art**. 11 Ao diretor incumbe:
 
 I - dirigir os trabalhos da Diretoria;
 
@@ -1026,7 +1024,7 @@ XXIII - opinar em processos de admissão ou nomeação de professor das escolas 
 
 Do assistente
 
-<strong>Art</strong>. 12 Ao assistente incumbe:
+**Art**. 12 Ao assistente incumbe:
 
 I - auxiliar o diretor, executando ou dirigindo a execução de trabalhos e exercendo as funções de que o mesmo o encarregar, no seu gabinete;
 
@@ -1034,7 +1032,7 @@ II - reunir os elementos necessários ao preparo de relatórios e boletins do di
 
 Do secretário
 
-<strong>Art</strong>. 13 Ao secretário incumbe:
+**Art**. 13 Ao secretário incumbe:
 
 I - receber as pessoas eu desejem falar ao diretor e encaminhá-las ou a êle transmitir o assunto , conforme as suas ordens;
 
@@ -1042,7 +1040,7 @@ II - representar o diretor, quando para isto fôr por êle designado;
 
 Do chefe do Serviço Auxiliar e dos chefes de seção
 
-<strong>Art</strong>. 14 Ao chefe do serviço auxiliar e a cada chefe de seção incumbe:
+**Art**. 14 Ao chefe do serviço auxiliar e a cada chefe de seção incumbe:
 
 I - dirigir os trabalhos do órgão ao seu cargo;
 
@@ -1066,33 +1064,33 @@ X - proferir despachos interlocutórios.
 
 Dos inspetores
 
-<strong>Art</strong>. 15 Os inspetores desempenharão os encargos determinados em instruções especiais.
+**Art**. 15 Os inspetores desempenharão os encargos determinados em instruções especiais.
 
 Dos demais servidores
 
-<strong>Art</strong>. 16 Aos servidores que não têm atribuições especificadas neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das funções que forem determinados pelos chefes respectivos.
+**Art**. 16 Aos servidores que não têm atribuições especificadas neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das funções que forem determinados pelos chefes respectivos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 17 A Diretoria terá lotação fixada em decreto.
+**Art**. 17 A Diretoria terá lotação fixada em decreto.
 
 Parágrafo único - Além dos funcionários lotados, a Diretoria poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 18 O horário normal de trabalho da Diretoria será estabelecido pelo ministro, respeitado o número de horas semanais fixado para o serviço público.
+**Art**. 18 O horário normal de trabalho da Diretoria será estabelecido pelo ministro, respeitado o número de horas semanais fixado para o serviço público.
 
 Parágrafo único.- O diretor está isento de assinatura de ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 19 Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 19 Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
 
 a) o diretor, pelo chefe de seção prèviamente designado pelo ministro;
 
@@ -1100,4 +1098,4 @@ b) o chefe de seção e o chefe do serviço auxiliar, por um dos respectivos sub
 
 Rio de Janeiro, 29 de dezembro de 1945.
 
-<strong>RAUL LEITÃO DA CUNHA</strong>
+**RAUL LEITÃO DA CUNHA**

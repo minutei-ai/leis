@@ -1,5 +1,3 @@
-###DEC-080855-0-000-29-11-1977@@@
-
 Decreto nº 80.855, de 29 de novembro de 1977.
 
 Declara caducidade da concessão de lavra que menciona.

@@ -1,5 +1,3 @@
-###DEC-054666-0-000-29-10-1964@@@
-
 DECRETO Nº 54.666, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a Sociedade Industrial Redelvim Andrade Ltda. a comprar pedras preciosas.

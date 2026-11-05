@@ -1,5 +1,3 @@
-###DEC-096009-0-000-03-05-1988@@@
-
 DECRETO N° 96.009, DE 03 DE MAIO DE 1988
 
 Renova a concessão outorgada à SOCIEDADE EMISSORA RADIOVOX LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Muritiba, Estado da Bahia.

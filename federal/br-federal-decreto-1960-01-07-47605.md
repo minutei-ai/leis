@@ -1,5 +1,3 @@
-###DEC-047605-0-000-07-01-1960@@@
-
 DECRETO Nº 47.605, DE 7 DE JANEIRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos da The Commercial Union Assurance Company Limited.

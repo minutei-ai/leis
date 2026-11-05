@@ -1,5 +1,3 @@
-###DEL-005639-0-000-01-07-1943@@@
-
 DECRETO‑LEI N. 5.639 – DE 1 DE JULHO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 57.065,00, para pagamento de reparação de locomotivas

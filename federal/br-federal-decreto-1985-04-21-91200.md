@@ -1,5 +1,3 @@
-###DEC-091200-0-000-21-04-1985@@@
-
 DECRETO Nº 91.200, De 21 de abril de 1985
 
 Declara luto oficial.

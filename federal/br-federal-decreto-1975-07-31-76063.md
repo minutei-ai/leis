@@ -1,5 +1,3 @@
-###DEC-076063-0-000-31-07-1975@@@
-
 DECRETO Nº 76.063, DE 31 DE JULHO DE 1975.
 
 Regulamenta os incisos III, IV, V, VI, VII, XI e XII do artigo 15 do Decreto-lei nº 37, de 18 de novembro de 1966, e dá outras providências.

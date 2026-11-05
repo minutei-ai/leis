@@ -1,5 +1,3 @@
-###DEC-069207-0-000-15-09-1971@@@
-
 DECRETO Nº 69.207, DE 15 DE SETEMBRO DE 1971.
 
 Autoriza funcionamento dos Cursos de Engenharia Eletrotécnica, Engenharia de Produção e de Matemática da Escola de Engenharia de São Carlos, a Universidade de São Paulo.

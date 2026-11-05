@@ -6,20 +6,26 @@ Declara de Utilidade Pública o "Asilo Lar dos Idosos Assistência Social São F
 
 Publicada no Diário Oficial nº 2.807, de 16 de maio de 1990.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a<br>
-Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - Fica declarado de Utilidade Pública, para todos os<br>
-efeitos legais o ASILO LAR DOS IDOSOS ASSISTÊNCIA SOCIAL SÃO<br>
-FRANCISCO, com sede na Vila Bom Jesus na cidade de Cassilândia-MS.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua promulgação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 15 de maio de 1990.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
-Governador<br>
-<br>
-ESACHEU CIPRIANO NASCIMENTO<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a
+
+Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Fica declarado de Utilidade Pública, para todos os
+
+efeitos legais o ASILO LAR DOS IDOSOS ASSISTÊNCIA SOCIAL SÃO
+
+FRANCISCO, com sede na Vila Bom Jesus na cidade de Cassilândia-MS.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua promulgação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 15 de maio de 1990.
+
+MARCELO MIRANDA SOARES
+
+Governador
+
+ESACHEU CIPRIANO NASCIMENTO
+
 Secretário de Estado de Justiça, Trabalho e Ação Social

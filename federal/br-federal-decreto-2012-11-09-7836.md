@@ -1,5 +1,3 @@
-###DEC-007836-0-000-09-11-2012-PUB-01@@@
-
 DECRETO N°\- 7.836, DE 9 DE NOVEMBRO DE 2012
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória.

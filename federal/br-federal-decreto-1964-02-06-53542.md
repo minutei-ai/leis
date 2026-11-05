@@ -1,5 +1,3 @@
-###DEC-053542-0-000-06-02-1964@@@
-
 DECRETO Nº 53.542, DE 6 DE FEVEREIRO DE 1964.
 
 Autoriza o Banco do Brasil S.A. a levar a crédito da Comissão Nacional de Planejamento (COPLAN) os recursos provenientes da aplicação dos Decretos nº 50.359, de 18 de março de 1961 e nº 50.889, de 1º de julho de 1961.

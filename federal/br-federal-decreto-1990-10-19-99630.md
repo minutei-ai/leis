@@ -1,5 +1,3 @@
-###DEC-099630-0-000-19-10-1990@@@
-
 DECRETO N° 99.630, DE 19 DE OUTUBRO DE 1990
 
 Dispõe sobre a alienação de bens imóveis de autarquias e fundações públicas e dá outras providencias.

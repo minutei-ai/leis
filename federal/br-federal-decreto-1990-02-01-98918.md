@@ -1,7 +1,3 @@
-1
-
-###DEC-098918-0-000-01-02-1990@@@
-
 DECRETO Nº 98.918, DE 1º DE FEVEREIR0 DE 1990
 
 Renova a Concessão outorgada à RÁDIO ITUPORANGA LTDA., para explorar serviço de radiodifusão sonora em onda media na Cidade de Ituporanga, Estado de Santa Catarina.

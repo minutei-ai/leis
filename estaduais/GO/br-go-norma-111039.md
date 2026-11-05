@@ -18,19 +18,22 @@ CAPÍTULO II
 
 DAS ORIGENS DOS RECURSOS
 
-Art. 2º O FEG poderá receber aporte inicial oriundo do superávit financeiro do Tesouro Estadual, apurado no balanço do exercício de 2024, em fontes não vinculadas, descontados os créditos por superávit do Tesouro Estadual abertos em 2025 e os montantes necessários à cobertura dos restos a pagar e das demais obrigações financeiras, condicionado à disponibilidade orçamentária e financeira, respeitadas as limitações legais e fiscais.<br>
+Art. 2º O FEG poderá receber aporte inicial oriundo do superávit financeiro do Tesouro Estadual, apurado no balanço do exercício de 2024, em fontes não vinculadas, descontados os créditos por superávit do Tesouro Estadual abertos em 2025 e os montantes necessários à cobertura dos restos a pagar e das demais obrigações financeiras, condicionado à disponibilidade orçamentária e financeira, respeitadas as limitações legais e fiscais.
+
 \- [Redação dada pela Lei Complementar nº 211, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111978).
 
 ~~Art. 2º O FEG será constituído a partir de um aporte inicial de R$ 4.000.000.000,00 (quatro bilhões de reais), proveniente de recursos não vinculados do Tesouro Estadual, conforme a disponibilidade orçamentária e financeira, respeitadas as limitações legais e fiscais.~~
 
 Art. 3º Adicionalmente, constituirão receitas do FEG:
 
-I – até 20% do superávit financeiro do Tesouro Estadual, apurado no balanço do exercício anterior, em fontes não vinculadas, descontados os créditos por superávit do Tesouro Estadual e os montantes necessários à cobertura dos restos a pagar e das demais obrigações financeiras.<br>
+I – até 20% do superávit financeiro do Tesouro Estadual, apurado no balanço do exercício anterior, em fontes não vinculadas, descontados os créditos por superávit do Tesouro Estadual e os montantes necessários à cobertura dos restos a pagar e das demais obrigações financeiras.
+
 \- [Redação dada pela Lei Complementar nº 211, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111978).
 
 ~~I – entre 50% e 70% do superávit financeiro do Tesouro Estadual apurado em balanço do exercício anterior, em fontes não vinculadas, descontados os créditos por superávit do Tesouro Estadual autorizados até a data prevista no § 2º deste artigo e os montantes necessários à cobertura dos restos a pagar e das demais obrigações financeiras;~~
 
-~~II – receitas de alienações, concessões e permissões;~~<br>
+~~II – receitas de alienações, concessões e permissões;~~
+
 \- [Revogado pela Lei Complementar nº 211, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111978), art. 2º.
 
 III – contribuições e doações de entidades públicas e privadas;
@@ -41,7 +44,8 @@ V – outras fontes de recursos.
 
 § 1º O saldo positivo apurado em balanço será transferido para o exercício seguinte a crédito do FEG ou, por deliberação do Comitê Gestor do Fundo de Estabilização Econômica do Estado de Goiás – CGFEG, será revertido, total ou parcialmente, para as finalidades do FEG, observadas as normas da Constituição Estadual.
 
-§ 2º Os recursos a que se refere o inciso I deste artigo serão repassados ao FEG desde que haja disponibilidade orçamentária e financeira e sejam respeitadas as limitações legais e fiscais.<br>
+§ 2º Os recursos a que se refere o inciso I deste artigo serão repassados ao FEG desde que haja disponibilidade orçamentária e financeira e sejam respeitadas as limitações legais e fiscais.
+
 \- [Redação dada pela Lei Complementar nº 211, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111978).
 
 ~~§ 2º Os recursos a que se refere o inciso I deste artigo serão repassados ao FEG, impreterivelmente, até o último dia útil de junho do exercício corrente.~~

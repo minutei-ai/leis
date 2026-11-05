@@ -1,5 +1,3 @@
-###DEC-003387-0-000-17-03-2000@@@
-
 DECRETO Nº 3.387, DE 17 DE MARÇO DE 2000.
 
 Dispõe sobre a subordinação da Diretoria de Assuntos Culturais, Órgão de Apoio do Exército Brasileiro.

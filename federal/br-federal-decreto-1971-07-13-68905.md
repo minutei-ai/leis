@@ -1,5 +1,3 @@
-###DEC-068905-0-000-13-07-1971@@@
-
 DECRETO Nº 68.905, DE 13 DE JULHO DE 1971.
 
 Declara de utilidade pública a Associação Família de Maria, com sede em Curitiba, Estado do Paraná.

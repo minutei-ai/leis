@@ -1,5 +1,3 @@
-###DEC-068208-0-000-11-02-1971@@@
-
 DECRETO Nº 68.208, DE 11 DE FEVEREIRO 1971.
 
 Redistribui cargos, com os respectivos ocupantes, para o Ministério da Agricultura.

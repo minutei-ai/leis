@@ -1,5 +1,3 @@
-###DEL-004445-0-000-08-07-1942@@@
-
 DECRETO-LEI N. 4.445 – DE 8 DE JULHO DE 1942
 
 Extingue funções gratificadas de Chefe de linhas e instalações no Departamento dos Correios e Telégrafos, cria outras e dá outras providências

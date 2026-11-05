@@ -1,7 +1,3 @@
-1
-
-###DEC-095696-0-000-02-02-1988@@@
-
 DECRETO Nº 95.696, DE 2 DE FEVEREIRO DE 1988
 
 Concede à Companhia Siderúrgica Nacional - CSN (Grupo SIDERBRÁS) autorização para proceder a aumento do seu capital social.

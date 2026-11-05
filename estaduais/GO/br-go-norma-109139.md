@@ -1,6 +1,6 @@
 Portaria Orçamentária nº 346/2024 - Economia
 
-**O** **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004035893.
+**OSECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso I, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004035893.
 
 **RESOLVE:**
 
@@ -12,15 +12,13 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 26 dias do mês de Junho de 2024.
 
-<br>
-
 FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
 | SUPLEMENTAÇÃO |
 | --- |
-| **1700 - SECRETARIA DE ESTADO DA ECONOMIA** **1704 - ENCARGOS ESPECIAIS** |
+| **1700 - SECRETARIA DE ESTADO DA ECONOMIA1704 - ENCARGOS ESPECIAIS** |
 | **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
 | 28 846 0100 7.119 | PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV | 1 - PESSOAL E ENCARGOS SOCIAIS | 25010100 | 90 |
 | **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |

@@ -1,5 +1,3 @@
-###DEL-004424-0-000-30-06-1942@@@
-
 DECRETO-LEI N. 4.424 – DE 30 DE JUNHO DE 1942
 
 Extingue cargo de Professor Catedrático na Faculdade Nacional de Medicina da Universidade do Brasil

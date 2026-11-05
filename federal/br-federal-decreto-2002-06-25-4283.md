@@ -1,5 +1,3 @@
-###DEC-004283-0-000-25-06-2002@@@
-
 DECRETO Nº 4.283, DE 25 DE JUNHO DE 2002
 
 Estabelece período de vinculação da Agência Nacional do Cinema - ANCINE à Casa Civil da Presidência da República.

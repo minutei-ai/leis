@@ -1,5 +1,3 @@
-###DEC-050102-0-000-26-01-1961@@@
-
 DECRETO Nº 50.102, DE 26 DE JANEIRO 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da “A Universal”, Companhia Nacional de Seguros Gerais.

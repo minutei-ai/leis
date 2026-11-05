@@ -1,5 +1,3 @@
-###DEL-004745-0-000-25-09-1942@@@
-
 DECRETO-LEI N. 4.745 – DE 25 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 600:000$0, para instalação e aparelhamento de um ponto de sericicultura

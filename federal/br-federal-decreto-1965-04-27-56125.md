@@ -1,5 +1,3 @@
-###DEC-056125-0-000-27-04-1965@@@
-
 DECRETO Nº 56.125, DE 27 DE ABRIL DE 1965.
 
 Concede à Companhia de Navegação da Amazônia autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

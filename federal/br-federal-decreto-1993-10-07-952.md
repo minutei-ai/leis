@@ -1,7 +1,3 @@
-1
-
-###DEC-000952-0-000-07-10-1993@@@
-
 DECRETO N° 952, DE 7 DE OUTUBRO DE 1993
 
 Dispõe sobre a outorga de permissão e autorização para a exploração de serviços de transporte rodoviário interestadual e internacional de passageiros e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083353-0-000-18-04-1979@@@
-
 Decreto n° 83.353, de 18 de abril de 1979.
 
 Declara a caducidade do Manifesto de Mina que menciona.

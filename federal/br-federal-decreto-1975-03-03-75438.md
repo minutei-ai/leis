@@ -1,5 +1,3 @@
-###DEC-075438-0-000-03-03-1975@@@
-
 DECRETO Nº 75.438, DE 3 DE MARÇO DE 1975.
 
 Reduz temporariamente as alíquotas do Imposto sobre Produtos Industrializados incidentes sobre têxteis.

@@ -1,5 +1,3 @@
-###DEC-079296-0-000-24-02-1977@@@
-
 Decreto nº 79.296, de 24 de fevereiro de 1977.
 
 Extingue a Comissão Incentivadora dos Centros Rurais Universitários de Treinamento e Ação Comunitária e dá outras providências.

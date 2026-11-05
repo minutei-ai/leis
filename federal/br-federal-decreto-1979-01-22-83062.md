@@ -1,5 +1,3 @@
-###DEC-083062-0-000-22-01-1979@@@
-
 DECRETO Nº 83.062, DE 22 DE JANEIRO DE 1979
 
 Revoga o Decreto nº 75.952, de 8 de julho de 1975, que declarou de utilidade pública e interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale do São Francisco (CODEVASF), área de terra situada no Município de Pirapora, no Estado de Minas Gerais.

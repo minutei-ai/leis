@@ -1,5 +1,3 @@
-###DEC-047419-0-000-11-12-1959@@@
-
 DECRETO Nº 47.419, DE 11 DE dezembro DE 1959.
 
 Autoriza a cessão gratuita do terreno nacional interior que menciona, situado a montante da Estada do Sumaré, nos altos da Serra da Carioca, no Distrito Federal.

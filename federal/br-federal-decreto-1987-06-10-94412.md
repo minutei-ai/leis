@@ -1,5 +1,3 @@
-###DEC-094412-0-000-10-06-1987@@@
-
 DECRETO Nº 94.412, DE 10 DE JUNHO DE 1987
 
 Outorga concessão à RÁDIO DIFUSORA DE NORTELÂNDIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Nortelândia, Estado do Mato Grosso.

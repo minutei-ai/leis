@@ -1,6 +1,10 @@
 > **LEI Nº 3.735, DE 25 DE MAIO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Selo Empresa Amiga do Jovem e do Adolescente.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Selo Empresa Amiga do Jovem e do Adolescente.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

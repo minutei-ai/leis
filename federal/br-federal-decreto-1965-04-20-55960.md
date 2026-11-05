@@ -1,5 +1,3 @@
-###DEC-055960-0-000-20-04-1965@@@
-
 DECRETO Nº 55.960, DE 20 DE ABRIL DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Bambuí, Estado de Minas Gerais.

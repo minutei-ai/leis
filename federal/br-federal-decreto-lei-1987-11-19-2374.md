@@ -1,5 +1,3 @@
-###DEL-002374-0-000-19-11-1987@@@
-
 # DECRETO-LEI Nº 2.374, DE 19 DE NOVEMBRO DE 1987.
 
 Dispõe sobre a aplicação do Decreto-lei nº 2.365, de 27 de outubro de 1987, aos servidores da Superintendência do Desenvolvimento do Nordeste - Sudene e dá outras providências.

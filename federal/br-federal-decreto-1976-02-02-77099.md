@@ -1,5 +1,3 @@
-###DEC-077099-0-000-02-02-1976@@@
-
 DECRETO Nº 77.099, DE 2 DE FEVEREIRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da subestação de Fazenda Nova, da Centrais Elétricas de Goiás S.A. - CELG, no Município de Fazenda Nova, Estado de Goiás.

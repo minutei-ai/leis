@@ -1,5 +1,3 @@
-###DEC-004840-0-000-17-09-2003@@@
-
 DECRETO Nº 4.840,  DE 17 DE SETEMBRO DE 2003.
 
        Regulamenta a Medida Provisória no 130, de 17 de setembro de 2003, que dispõe sobre a autorização para desconto de prestações em folha de pagamento, e dá outras providências.

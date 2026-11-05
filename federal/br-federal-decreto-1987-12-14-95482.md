@@ -1,5 +1,3 @@
-###DEC-095482-0-000-14-12-1987@@@
-
 DECRETO Nº 95.482, DE 14 DE DEZEMBRO DE 1987
 
 Cria, sob a responsabilidade do Ministério do Interior, o Grupo Técnico Interministerial de Alto Nível, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-088885-0-000-18-10-1983@@@
-
 DECRETO Nº 88.885, DE 18 DE OUTUBRO DE 1983
 
 Suspende a execução da Emenda Constitucional nº 21, de 22 de outubro de 1981, do Estado do Rio Grande do Sul.

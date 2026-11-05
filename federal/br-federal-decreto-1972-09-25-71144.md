@@ -1,5 +1,3 @@
-###DEC-071144-0-000-25-09-1972@@@
-
 DECRETO Nº 71.144, DE 25 DE SETEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras das Faculdades Integradas Santo Antônio - Bragança Paulista - SP.

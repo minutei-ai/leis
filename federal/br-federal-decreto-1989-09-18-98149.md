@@ -1,7 +1,3 @@
-1
-
-###DEC-098149-0-000-18-09-1989@@@
-
 DECRETO Nº 98.149, DE 18 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “AGROPECUÁRIA CAPELA S/A, GLEBA A ou “FAZENDA CAPELA”, situado nos Municípios de Canoas e São Sebastião do Caí, no Estado do Rio Grande do Sul, e dá outras providências.

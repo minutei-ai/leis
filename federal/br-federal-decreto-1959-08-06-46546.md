@@ -1,5 +1,3 @@
-###DEC-046546-0-000-06-08-1959@@@
-
 DECRETO Nº 46.546, DE 6 DE AGôSTO DE 1959.
 
 Altera símbolos de funções gratificadas do Ministério da Fazenda.

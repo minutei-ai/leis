@@ -1,5 +1,3 @@
-###DEC-079551-0-000-19-04-1977@@@
-
 DECRETO Nº 79.551, DE 19 DE ABRIL DE 1977.
 
 Autoriza o Ministro da Fazenda a contratar empréstimo mediante emissão de Títulos da Dívida Externa e dá outras providências.

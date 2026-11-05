@@ -1,5 +1,3 @@
-###DEC-051083-0-000-31-07-1961@@@
-
 Decreto nº 51.083, DE 31 DE JULHO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no município de Sertãozinho, no Estado de São Paulo.

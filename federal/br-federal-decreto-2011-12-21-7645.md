@@ -1,5 +1,3 @@
-###DEC-007645-0-000-21-12-2011-PUB-01@@@
-
 DECRETO Nº 7.645, DE 21 DE DEZEMBRO DE 2011
 
 Regulamenta os arts. 7º e 10 da Lei nº 10.225, de 15 de maio de 2001, dispondo sobre o desenvolvimento dos empregados e sobre o Bônus Semestral de Desempenho de Atividade Hospitalar dos empregos  públicos do Hospital das Forças Armadas.

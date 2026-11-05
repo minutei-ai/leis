@@ -1,6 +1,10 @@
 > **LEI Nº 4.654, DE 03 DE OUTUBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.265, de 31 de março de 2010, que estabelece nova estrutura de carreira para os servidores públicos estaduais da Secretaria de Estado da Fazenda - SEFAZ, para dispor sobre a indenização por acúmulo de acervo fiscal e a indenização pelo exercício de plantão em posto fiscal localizado em divisa ou fronteira interestadual ou internacional.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.265, de 31 de março de 2010, que estabelece nova estrutura de carreira para os servidores públicos estaduais da Secretaria de Estado da Fazenda - SEFAZ, para dispor sobre a indenização por acúmulo de acervo fiscal e a indenização pelo exercício de plantão em posto fiscal localizado em divisa ou fronteira interestadual ou internacional.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

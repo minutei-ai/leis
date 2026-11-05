@@ -1,5 +1,3 @@
-###DEC-064008-0-000-20-01-1969@@@
-
 DECRETO Nº 64.008, DE 20 DE JANEIRO DE 1969.
 
 Dispõe sôbre nova redação do § 1º do art. 10 do Decreto nº 54.295, de 23 de setembro de 1964.

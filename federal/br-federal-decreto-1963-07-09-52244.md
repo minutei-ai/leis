@@ -1,5 +1,3 @@
-###DEC-052244-0-000-09-07-1963@@@
-
 decreto nº 52.244, de 9 de julho de 1963.
 
 Retifica o Decreto nº 221, de 24 de novembro de 1961.

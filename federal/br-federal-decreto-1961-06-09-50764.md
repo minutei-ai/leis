@@ -1,5 +1,3 @@
-###DEC-050764-0-000-09-06-1961@@@
-
 DECRETO Nº 50.764, DE 9 DE JUNHO DE 1961.
 
 Outorga ao Estado de Santa Catarina concessão para o aproveitamento de energia hidráulica da cachoeira Cascata do Vau existente no rio Chapecozinho, distrito e município de Xanxerê, Estado de Santa Catarina.

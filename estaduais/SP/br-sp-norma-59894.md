@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59894)
-
 # LEI Nº 12.215, DE 06 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 581/2005, do Deputado Marquinho Tortorello - PPS)

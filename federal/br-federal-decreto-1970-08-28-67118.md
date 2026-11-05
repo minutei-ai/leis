@@ -1,5 +1,3 @@
-###DEC-067118-0-000-28-08-1970@@@
-
 DECRETO Nº 67.118, DE 28 DE AGÔSTO DE 1970.
 
 Autoriza o Ministro da Fazenda a conceder a Garantia da União a operação externa a ser contratada pelas Centrais Elétricas de São Paulo S. A. - CESP e dá outras providências.

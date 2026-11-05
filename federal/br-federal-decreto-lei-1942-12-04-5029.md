@@ -1,5 +1,3 @@
-###DEL-005029-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.029 – DE 4 DE DEZEMBRO DE 1942
 
 Considera como guarnições especiais as guarnições de Brasília e Amapá

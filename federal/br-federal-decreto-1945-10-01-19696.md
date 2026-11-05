@@ -1,10 +1,8 @@
-###DEC-019696-0-000-01-10-1945@@@
+**DECRETO Nº 19.696, DE 1 DE OUTUBRO DE 1945.**
 
-<strong>DECRETO Nº 19.696, DE 1 DE OUTUBRO DE 1945.</strong>
+***Aprova e manda executar o Regulamento para as Escolas de Aprendizes Marinheiros.***
 
-<em><strong>Aprova e manda executar o Regulamento para as Escolas de Aprendizes Marinheiros.</strong></em>
-
-<strong>O PRESIDENTE REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição:
+**O PRESIDENTE REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição:
 
 RESOLVE aprovar e mandar executar, para as Escolas de Aprendizes Marinheiros, o Regulamento que a este acompanha, assinado pelo Vice-amilrante Henrique Aristides Guilhem - Ministro de Estado dos Negócios da Marinha.
 
@@ -12,19 +10,19 @@ O presente Decreto entrará em vigor na data de sua publicação, revogadas as d
 
 Rio de Janeiro, 1 de outubro de 1945; 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Henrique A. Guilhem
 
-<strong>REGULAMENTOS PARA AS ESCOLAS DE APRENDIZES MARINHEIROS, A QUE SE REFERE O DECRETO Nº 19.696, DE 1 DE OUTUBRO DE 1945.</strong>
+**REGULAMENTOS PARA AS ESCOLAS DE APRENDIZES MARINHEIROS, A QUE SE REFERE O DECRETO Nº 19.696, DE 1 DE OUTUBRO DE 1945.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º As Escolas de Aprendizes Marinheiros, são estabelecimentos diretamente subordinados à Diretoria do Ensino Naval e destinados ao preparo de jovens para o serviço na Marinha de Guerra.
+**Art**. 1º As Escolas de Aprendizes Marinheiros, são estabelecimentos diretamente subordinados à Diretoria do Ensino Naval e destinados ao preparo de jovens para o serviço na Marinha de Guerra.
 
-<strong>Art</strong>. 2º Compete a essas Escolas proporcionar de forma adequada e padronizada:
+**Art**. 2º Compete a essas Escolas proporcionar de forma adequada e padronizada:
 
 I - Instrução propedêutica elementar;
 
@@ -36,15 +34,15 @@ IV - Educação Física;
 
 V - Educação moral e cívica.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Estrutura das Escolas</em>
+*Da Estrutura das Escolas*
 
-<strong>Art</strong>. 3º As Escolas de Aprendizes Marinheiros serão constituídas dos seguintes órgãos:
+**Art**. 3º As Escolas de Aprendizes Marinheiros serão constituídas dos seguintes órgãos:
 
 I - Comando
 
@@ -52,17 +50,17 @@ II - Departamento Administrativo.
 
 III - Departamento Escolar.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Administração</em>
+*Da Administração*
 
-<strong>Art</strong>. 4º As Escolas terão seus serviços administrativos regulados pela legislação que rege o serviço a bordo dos navios da Armada e pela Organização Interna Administrativa do Estabelecimento. Os assuntos referentes à educação e instrução dos alunos ficarão subordinados às normas estabelecidas pela Diretoria do Ensino Naval.
+**Art**. 4º As Escolas terão seus serviços administrativos regulados pela legislação que rege o serviço a bordo dos navios da Armada e pela Organização Interna Administrativa do Estabelecimento. Os assuntos referentes à educação e instrução dos alunos ficarão subordinados às normas estabelecidas pela Diretoria do Ensino Naval.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Educação e Ensino</em>
+*Da Educação e Ensino*
 
-<strong>Art</strong>. 5º O programa das Escolas de Aprendizes Marinheiros compreenderá:
+**Art**. 5º O programa das Escolas de Aprendizes Marinheiros compreenderá:
 
 I - o Ensino Propedêutico Elementar;
 
@@ -72,15 +70,15 @@ III - a Formação Militar Naval;
 
 IV - a Educação Física.
 
-<strong>Art</strong>. 6º O desenvolvimento dos assuntos contidos nesse programa, assim como as normas pedagógicas a serem observadas na sua execução, constarão do Plano Geral do Ensino, elaborado pela Diretoria do Ensino Naval.
+**Art**. 6º O desenvolvimento dos assuntos contidos nesse programa, assim como as normas pedagógicas a serem observadas na sua execução, constarão do Plano Geral do Ensino, elaborado pela Diretoria do Ensino Naval.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Inscrição</em>
+*Da Inscrição*
 
-<strong>Art</strong>. 7º As inscrições para a matrícula nas Escolas serão feitas por intermédio dos Comandos Navais, nas repartições ou estabelecimentos que êstes indicarem, dentro de suas jurisdições, nas épocas fixadas pela Diretoria do Ensino Naval.
+**Art**. 7º As inscrições para a matrícula nas Escolas serão feitas por intermédio dos Comandos Navais, nas repartições ou estabelecimentos que êstes indicarem, dentro de suas jurisdições, nas épocas fixadas pela Diretoria do Ensino Naval.
 
-<strong>Art</strong>. 8º Nenhum candidato será inscrito sem provar:
+**Art**. 8º Nenhum candidato será inscrito sem provar:
 
 a) que é brasileiro;
 
@@ -90,13 +88,13 @@ c) que ao terminar o curso escolar terá mais de 17 anos e que ao se inscrever t
 
 d) que tem autorização irrevogável e escrita de país, tutor ou responsável para verificar praça no Corpo do Pessoal Subalterno da Armada.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Matrícula</em>
+*Da Matrícula*
 
-<strong>Art</strong>. 9º O número de vagas para a matrícula em cada Escola será fixado pelo Ministro da Marinha, mediante proposta Diretor do Ensino Naval.
+**Art**. 9º O número de vagas para a matrícula em cada Escola será fixado pelo Ministro da Marinha, mediante proposta Diretor do Ensino Naval.
 
-<strong>Art</strong>. 10º Nenhum candidato será admitido à matrícula sem que:
+**Art**. 10º Nenhum candidato será admitido à matrícula sem que:
 
 a) seja submetido à inspeção de saúde e jugaldo apto, fisicamente, para o serviço da Armada e,
 
@@ -104,23 +102,23 @@ b) seja aprovado nos exames de habilitação intelectual e mental estabelecidos 
 
 Parágrafo único. A inspeção de saúde e as provas de habilitação serão realizadas, de preferência, na própria localidade em que tiver sido feita a inscrição do candidato e sempre de conformidade com as instruções organizadas pelas Diretorias de Saúde e do Ensino Naval.
 
-<strong>Art</strong>. 11. A matrícula de Aprendizes Marinheiros será concedida, pelos Comandantes de Escolas, aos candidatos que tiverem satisfeito as condições estabelecidas no art. 10 e que se apresentarem às Escolas na data determinada.
+**Art**. 11. A matrícula de Aprendizes Marinheiros será concedida, pelos Comandantes de Escolas, aos candidatos que tiverem satisfeito as condições estabelecidas no art. 10 e que se apresentarem às Escolas na data determinada.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Do Curso Escolar</em>
+*Do Curso Escolar*
 
-<strong>Art</strong>. 12. A duração do curso escolar e o seu currículo serão fixados pelo Diretoria do Ensino, de acôrdo com o Plano Geral de Ensino.
+**Art**. 12. A duração do curso escolar e o seu currículo serão fixados pelo Diretoria do Ensino, de acôrdo com o Plano Geral de Ensino.
 
-<strong>Art</strong>. 13. O aproveitamento dos Aprendizes Marinheiros, durante o curso, será verificado e julgado na forma estabelecida pela Diretoria do Ensino Naval.
+**Art**. 13. O aproveitamento dos Aprendizes Marinheiros, durante o curso, será verificado e julgado na forma estabelecida pela Diretoria do Ensino Naval.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Do regime Disciplinar</em>
+*Do regime Disciplinar*
 
-<strong>Art</strong>. 14. Constituirão contravenções disciplinares, para os Aprendizes Marinheiros, além das faltas propriamente escolares, as previstas no art. 2º do Regulamento Disciplinar para a Armada, adaptáveis à sua situação e idade.
+**Art**. 14. Constituirão contravenções disciplinares, para os Aprendizes Marinheiros, além das faltas propriamente escolares, as previstas no art. 2º do Regulamento Disciplinar para a Armada, adaptáveis à sua situação e idade.
 
-<strong>Art</strong>. 15. De acôrdo com a natureza e circunstâncias atenuantes ou agravantes das faltas cometidas, serão aplicadas aos Aprendizes Marinheiros as seguintes punições:
+**Art**. 15. De acôrdo com a natureza e circunstâncias atenuantes ou agravantes das faltas cometidas, serão aplicadas aos Aprendizes Marinheiros as seguintes punições:
 
 a) Repreensão simples;
 
@@ -136,11 +134,11 @@ f) Prisão rigorosa até 10 dias;
 
 g) Exclusão da Escola.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Do Cancelamento da Matrícula</em>
+*Do Cancelamento da Matrícula*
 
-<strong>Art</strong>. 16. Terá a sua matrícula cancelada e será eliminado da Escola o Aprendiz Marinheiros que:
+**Art**. 16. Terá a sua matrícula cancelada e será eliminado da Escola o Aprendiz Marinheiros que:
 
 a) tiver má conduta habitual ou praticar ato que o torne indígno da carreira;
 
@@ -154,50 +152,50 @@ e) não conseguir as notas necessárias para aprovação no curso escolar; e,
 
 f) demonstrar não possuir suficiente resistência física para o Serviço da Armada.
 
-§ 1º O cancelamento da matrícula dependerá: de autorização do Diretor do Ensino Naval, mediante proposta justificada dos Comandantes das Escolas, nos casos de incidência nas alíneas <em>a</em> e <em>b</em>; de têrmo de inspeção de saúde, no caso da alínea <em>f</em>; e de simples comunicação nos demais casos.
+§ 1º O cancelamento da matrícula dependerá: de autorização do Diretor do Ensino Naval, mediante proposta justificada dos Comandantes das Escolas, nos casos de incidência nas alíneas *a* e *b*; de têrmo de inspeção de saúde, no caso da alínea *f*; e de simples comunicação nos demais casos.
 
 § 2º No caso de incidência na alínea e será permitida, a critério da Diretoria do Ensino Naval, a repetição de curso ao Aprendiz que, não tendo conseguido aprovação em matérias do ensino propedêutico, houver, entretanto, alcançado aprovação no ensino profissional e na educação física, a par de haver revelado aptidão, para a profissão e boa conduta.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 17. O Comando das Escolas será exercido por Oficial Superior da ativa, do Corpo de Oficiais da Armada.
+**Art**. 17. O Comando das Escolas será exercido por Oficial Superior da ativa, do Corpo de Oficiais da Armada.
 
-<strong>Art</strong>. 18. Os serviços das Escolas serão desempenhados por oficiais, suboficiais, praças e civis, em número fixado pelas lotações dêsses estabelecimentos.
+**Art**. 18. Os serviços das Escolas serão desempenhados por oficiais, suboficiais, praças e civis, em número fixado pelas lotações dêsses estabelecimentos.
 
-<strong>Art</strong>. 19. O ensino propedêutico elementar será ministrado por professores civis, contratados, diplomados por qualquer Escola Normal ou de Ensino Superior Oficial do País, ou com tirocínio de magistério similar, devidamente comprovado.
+**Art**. 19. O ensino propedêutico elementar será ministrado por professores civis, contratados, diplomados por qualquer Escola Normal ou de Ensino Superior Oficial do País, ou com tirocínio de magistério similar, devidamente comprovado.
 
-<strong>Art</strong>. 20. A instrução profissional será ministrada pelos oficiais, suboficiais e praças que forem designados para servir nesses estabelecimentos.
+**Art**. 20. A instrução profissional será ministrada pelos oficiais, suboficiais e praças que forem designados para servir nesses estabelecimentos.
 
-<strong>Art</strong>. 21. O ensino de Formação Militar Naval será ministrado por professores civis, por oficiais e suboficiais designados para servir nesses estabelecimentos.
+**Art**. 21. O ensino de Formação Militar Naval será ministrado por professores civis, por oficiais e suboficiais designados para servir nesses estabelecimentos.
 
-<strong>Art</strong>. 22. A educação física será dada pelos Monitores dessa especialidade, dentro das diretrizes adotadas na Marinha, e sob controle do médico da Escola.
+**Art**. 22. A educação física será dada pelos Monitores dessa especialidade, dentro das diretrizes adotadas na Marinha, e sob controle do médico da Escola.
 
-<strong>Art</strong>. 23. As nomeações e designações para servir nas Escolas de Aprendizes processar-se-ão de acôrdo com as normas constantes da legislação em vigor.
+**Art**. 23. As nomeações e designações para servir nas Escolas de Aprendizes processar-se-ão de acôrdo com as normas constantes da legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 24. Os Aprendizes Marinheiros usarão os uniformes estabelecidos no Plano de Uniformes para a Marinha da Guerra.
+**Art**. 24. Os Aprendizes Marinheiros usarão os uniformes estabelecidos no Plano de Uniformes para a Marinha da Guerra.
 
-<strong>Art</strong>. 25. Os Aprendizes Marinheiros perceberão os vencimentos que lhe competirem por lei.
+**Art**. 25. Os Aprendizes Marinheiros perceberão os vencimentos que lhe competirem por lei.
 
-<strong>Art</strong>. 26. O período de curso escolar não será considerado como tempo de serviço militar, para efeitos de quitação com o mesmo serviço.
+**Art**. 26. O período de curso escolar não será considerado como tempo de serviço militar, para efeitos de quitação com o mesmo serviço.
 
-<strong>Art</strong>. 27. Os Comandantes das Escolas de Aprendizes submeterão à aprovação do Diretor de Ensino, a Organização Interna Administrativa das respectivas Escolas.
+**Art**. 27. Os Comandantes das Escolas de Aprendizes submeterão à aprovação do Diretor de Ensino, a Organização Interna Administrativa das respectivas Escolas.
 
-<strong>Art</strong>. 28. Os casos omissos neste Regulamento serão resolvidos pelo Ministro da Marinha.
+**Art**. 28. Os casos omissos neste Regulamento serão resolvidos pelo Ministro da Marinha.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 29. Enquanto existirem na atividade oficiais do Quadro de Professores do Ensino Elementar, em extinção, poderão êles ser designados para as funções a que se refere o artigo 19.
+**Art**. 29. Enquanto existirem na atividade oficiais do Quadro de Professores do Ensino Elementar, em extinção, poderão êles ser designados para as funções a que se refere o artigo 19.
 
 Rio de Janeiro, 1 de outubro de 1945.
 
-<strong>HENRIQUE A. GUILHEM</strong>
+**HENRIQUE A. GUILHEM**
 
 Ministro da Marinha

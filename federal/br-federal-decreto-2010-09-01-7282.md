@@ -1,5 +1,3 @@
-###DEC-007282-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.282, DE 1º DE SETEMBRO DE 2010.
 
 Dispõe sobre a execução do Acordo de Alcance Parcial nº 17 ao Amparo do Artigo 14 do Tratado de Montevidéu de 1980 (AAP/A14TM/17) - Acordo sobre Pesos e Dimensões de Veículos de Transporte Rodoviário de Passageiros e Cargas - , assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, em 27 de maio de 2010.
@@ -42,7 +40,59 @@ Artigo 3°- O presente Acordo não obstaculizará a aplicação das disposiçõe
 
 Artigo 4°\- Os limites de pesos permitidos para a circulação de veículos de transporte de carga e de passageiros no âmbito do MERCOSUL são:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">EIXOS</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">QUANTIDADE DE RODAS</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">LIMITE (t)</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">SIMPLES</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">2</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">6</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">SIMPLES</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">4</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">10,5</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">&nbsp;</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">&nbsp;</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">&nbsp;</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">DUPLO</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">4</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">10</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">DUPLO</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">6</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">14</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">DUPLO</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">8</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">18</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">&nbsp;</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">&nbsp;</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">&nbsp;</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">TRIPLO</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">6</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">14</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">TRIPLO</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">10</span></p></td><td style="width:127.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">21</span></p></td></tr><tr><td style="width:146.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">TRIPLO</span></p></td><td style="width:249.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">12</span></p></td><td style="width:127.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">25,5</span></p></td></tr></tbody></table>
+EIXOS
+
+QUANTIDADE DE RODAS
+
+LIMITE (t)
+
+SIMPLES
+
+2
+
+6
+
+SIMPLES
+
+4
+
+10,5
+
+DUPLO
+
+4
+
+10
+
+DUPLO
+
+6
+
+14
+
+DUPLO
+
+8
+
+18
+
+TRIPLO
+
+6
+
+14
+
+TRIPLO
+
+10
+
+21
+
+TRIPLO
+
+12
+
+25,5
 
 4.1 Entende-se por eixo duplo o conjunto de 2 (dois) eixos, cuja distância entre centros de rodas é igualou superior a 1,20 m e igualou inferior a 2,40 m.
 
@@ -56,7 +106,45 @@ Artigo 7°- O limite máximo para o Peso Bruto Total será de 45t, dependendo da
 
 Artigo 8°- As dimensões máximas permitidas para a circulação de veículos de transporte de carga e de passageiros no âmbito do MERCOSUL são:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:434.28pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Comprimento máximo (m)</span></p></td><td style="width:89.98pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">&nbsp;</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Caminhão simples</span></p></td><td style="width:89.98pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">14</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Caminhão com reboque</span></p></td><td style="width:89.98pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">20</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">Reboque</span></p></td><td style="width:89.98pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">8,6</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Caminhão-trator com semi-reboque</span></p></td><td style="width:89.98pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">18,6</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Caminhão-trator com semi-reboque e reboque</span></p></td><td style="width:89.98pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">20,5</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Ônibus de longa distância</span></p></td><td style="width:89.98pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">14</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Largura máxima (m)</span></p></td><td style="width:89.98pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">2,6</span></p></td></tr><tr><td style="width:434.28pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Altura máxima (m)</span></p></td><td style="width:89.98pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">&nbsp;</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Ônibus de longa distância</span></p></td><td style="width:89.98pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">4,1</span></p></td></tr><tr><td style="width:433.9pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Caminhão</span></p></td><td style="width:89.98pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">4,3</span></p></td></tr></tbody></table>
+Comprimento máximo (m)
+
+Caminhão simples
+
+14
+
+Caminhão com reboque
+
+20
+
+Reboque
+
+8,6
+
+Caminhão-trator com semi-reboque
+
+18,6
+
+Caminhão-trator com semi-reboque e reboque
+
+20,5
+
+Ônibus de longa distância
+
+14
+
+Largura máxima (m)
+
+2,6
+
+Altura máxima (m)
+
+Ônibus de longa distância
+
+4,1
+
+Caminhão
+
+4,3
 
 Artigo 9°- O presente Acordo entrará em vigor trinta dias após a notificação da Secretaria-Geral da ALADI aos países signatários de que recebeu a comunicação dá Secretaria do MERCOSUL informando a incorporação deste Acordo aos ordenamentos jurídicos dos quatro Estados Partes do MERCOSUL.
 
@@ -66,4 +154,18 @@ A Secretaria-Geral da ALADI será depositária do presente Acordo, do qual envia
 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Acordo na cidade de Montevidéu, aos vinte e sete dias do mês de maio de dois mil e dez, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:406.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Pelo Governo da República Argentina:</span></p></td><td style="width:117.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">Maria Cristina Boldorini</span></p></td></tr><tr><td style="width:406.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Pelo Governo da República Federativa do Brasil:</span><span style="font-family:'Arial Unicode MS Western'; -aw-import:spaces">&nbsp;</span></p></td><td style="width:117.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">Regis Percy Arslanian</span></p></td></tr><tr><td style="width:406.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Pelo Governo da República do Paraguai:</span><span style="font-family:'Arial Unicode MS Western'; -aw-import:spaces">&nbsp;&nbsp;</span></p></td><td style="width:117.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS'">Emilio Gimenez Franco</span></p></td></tr><tr><td style="width:406.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Pelo Governo da República Oriental do Uruguai:</span><span style="font-family:'Arial Unicode MS Western'; -aw-import:spaces">&nbsp;</span></p></td><td style="width:117.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">Gonzalo Rodríguez Gig</span><span style="font-family:'Arial Unicode MS'">ena</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina:
+
+Maria Cristina Boldorini
+
+Pelo Governo da República Federativa do Brasil:
+
+Regis Percy Arslanian
+
+Pelo Governo da República do Paraguai:
+
+Emilio Gimenez Franco
+
+Pelo Governo da República Oriental do Uruguai:
+
+Gonzalo Rodríguez Gigena

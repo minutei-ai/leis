@@ -1,5 +1,3 @@
-###DEC-070458-0-000-26-04-1972@@@
-
 DECRETO Nº 70.458, DE 26 DE ABRIL DE 1972.
 
 Declara de utilidade pública, a Associação "Madre Cabrini" das Missionárias do Sagrado Coração de Jesus, com sede no Rio de Janeiro, Estado da Guanabara.

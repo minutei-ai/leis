@@ -1,5 +1,3 @@
-###DEC-006117-0-000-22-05-2007@@@
-
 DECRETO Nº 6.117, DE 22 DE MAIO DE 2007.
 
 Aprova a Política Nacional sobre o Álcool, dispõe sobre as medidas para redução do uso indevido de álcool e sua associação com a violência e criminalidade, e dá outras providências.
@@ -30,11 +28,7 @@ Marcia Bassit Lameiro da Costa Mazzoli
 
 Marcio Fortes de Almeida
 
-Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 23.5.2007.
-
-ANEXO I
+Jorge Armando FelixANEXO I
 
 POLÍTICA NACIONAL SOBRE O ÁLCOOL
 

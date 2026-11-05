@@ -1,5 +1,3 @@
-###DEC-088208-0-000-30-03-1983@@@
-
 Decreto nº 88.208, de 30 de março de 1983.
 
 Altera o Regulamento para a Representação do Brasil na Junta Interamericana de Defesa (RBJID).

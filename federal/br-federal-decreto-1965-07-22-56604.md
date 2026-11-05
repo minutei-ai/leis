@@ -1,5 +1,3 @@
-###DEC-056604-0-000-22-07-1965@@@
-
 DECRETO Nº 56.604, DE 22 DE JULHO DE 1965.
 
 Dá nova Redação ao Decreto número 55.060, de 24 de novembro de 1964.

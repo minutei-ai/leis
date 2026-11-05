@@ -1,5 +1,3 @@
-###DEC-047626-0-000-15-01-1960@@@
-
 Decreto nº 47.626, de 15 de janeiro de 1960.
 
 Concede à Águas Termais São Pedro Ltda. autorização para funcionar como emprêsa de mineração.

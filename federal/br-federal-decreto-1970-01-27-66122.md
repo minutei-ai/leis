@@ -1,5 +1,3 @@
-###DEC-066122-0-000-27-01-1970@@@
-
 decreto nº 66.122 - de 27 de janeiro de 1970
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Aeronáutica e dá outras providências.

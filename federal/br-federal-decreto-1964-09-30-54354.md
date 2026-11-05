@@ -1,5 +1,3 @@
-###DEC-054354-0-000-30-09-1964@@@
-
 decreto nº 54.354, de 30 de setembro de 1964.
 
 Revoga o Decreto nº 53.642, de 28 de fevereiro de 1964.

@@ -1,5 +1,3 @@
-###DEC-048037-0-000-05-04-1960@@@
-
 DECRETO Nº 48.037, DE 5 DE ABRIL DE 1960.
 
 Transfere para a Hidrelétrica Paraná S. A. a concessão outorgada à Prefeitura Municipal de Palmas, Estado do Paraná, pelo Decreto 46.228, de 16 de junho de 1.959.

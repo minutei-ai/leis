@@ -1,5 +1,3 @@
-###DEC-083371-0-000-25-04-1979@@@
-
 Decreto nº 83.371, de 25 de abril de 1979.
 
 Concede reconhecimento aos cursos de Secretariado e de Ciências, da Universidade Federal da Bahia, na cidade de Salvador, Estado da Bahia.

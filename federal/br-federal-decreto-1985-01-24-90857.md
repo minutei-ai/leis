@@ -1,5 +1,3 @@
-###DEC-090857-0-000-24-01-1985@@@
-
 Decreto Nº 90.857, de 24 de janeiro de 1985
 
 Estabelece reserva de minérios nucleares, de seus concentrados ou de compostos químicos de elementos nucleares, dispõe sobre estoque de material fértil e físsil especial e dá outras providências.

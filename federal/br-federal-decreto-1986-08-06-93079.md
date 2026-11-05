@@ -1,5 +1,3 @@
-###DEC-093079-0-000-06-08-1986@@@
-
 DECRETO Nº 93.079, DE 06 DE AGOSTO DE 1986
 
 Dispõe sobre a transferência de pessoal da Empresa Brasileira de Planejamento de Transportes - GEIPOT, para a Empresa Brasileira dos Transportes Urbanos - EBTU e desta para aquela e dá outras providências.

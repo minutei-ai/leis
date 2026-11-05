@@ -1,5 +1,3 @@
-###DEC-004583-0-000-03-02-2003@@@
-
 DECRETO Nº 4.583, DE 3 DE FEVEREIRO DE 2003.
 
        Dispõe, em caráter excepcional, sobre a composição do Conselho Nacional de Saúde - CNS, e delega competência ao Ministro de Estado Chefe da Casa Civil da Presidência da República para a prática dos atos que menciona.
@@ -16,5 +14,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 3 de fevereiro de 2003; 182~~º~~ da Independência e 115~~º~~ da República.
 
- LUIZ INÁCIO LULA DA SILVA<br>
+ LUIZ INÁCIO LULA DA SILVA
+
 Humberto Sérgio Costa Lima

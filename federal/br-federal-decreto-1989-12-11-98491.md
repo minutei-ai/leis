@@ -1,5 +1,3 @@
-###DEC-098491-0-000-11-12-1989@@@
-
 DECRETO N° 98.491, DE 11 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Tecnologia, unidade das Faculdades Integradas Tiradentes.

@@ -1,5 +1,3 @@
-###DEC-095925-0-000-15-04-1988@@@
-
 DECRETO N.° 95.925, DE 15 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SITIO”, classificado como “latifúndio por exploração”, situado no Município de Dona Inês, no Estado da Paraíba, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.682, de 19 de maio de 1986, e dá outras providências.

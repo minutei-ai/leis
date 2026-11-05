@@ -1,5 +1,3 @@
-###DEC-067598-0-000-18-11-1970@@@
-
 decreto nº 67.598, de 18 de novembro de 1970.
 
 Concede reconhecimento à Escola Superior de Administração e Gerência, de Florianópolis, S. C.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099155-0-000-12-03-1990@@@
-
 DECRETO Nº 99.155, DE 12 DE MARÇO DE 1990
 
 Outorga concessão à TV MINAS SUL LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Varginha, Estado de Minas Cerais.

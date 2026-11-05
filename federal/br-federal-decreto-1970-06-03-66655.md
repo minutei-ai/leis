@@ -1,5 +1,3 @@
-###DEC-066655-0-000-03-06-1970@@@
-
 decreto nº 66.655, de 3 de junho de 1970.
 
 Extingue a Base Aérea de Belo Horizonte.

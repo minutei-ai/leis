@@ -1,7 +1,3 @@
-1
-
-###DEC-000511-0-000-27-04-1992@@@
-
 DECRETO N° 511, DE 27 DE ABRIL DE 1992
 
 Altera dispositivos do Regulamento para o Tráfego Marítimo, aprovado pelo Decreto n° 87.648, de 24 de setembro de 1982.

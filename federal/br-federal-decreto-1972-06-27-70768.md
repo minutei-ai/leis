@@ -1,5 +1,3 @@
-###DEC-070768-0-000-27-06-1972@@@
-
 decreto nº 70.768, de 27 de junho de 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério da Saúde, cargo do Ministério da Fazenda, e dá outras providências.

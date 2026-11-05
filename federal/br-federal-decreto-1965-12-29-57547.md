@@ -1,5 +1,3 @@
-###DEC-057547-0-000-29-12-1965@@@
-
 DECRETO Nº 57.547, DE 29 DE DEZEMBRO DE 1965.
 
 Transfere, da Companhia Luzense de Eletricidade para Centrais Elétricas de Minas Gerais S.A, concessão para distribuir energia elétrica.

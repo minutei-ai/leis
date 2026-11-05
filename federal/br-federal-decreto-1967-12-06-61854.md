@@ -1,5 +1,3 @@
-###DEC-061854-0-000-06-12-1967@@@
-
 Decreto nº 61.854, de 6 de Dezembro de 1967.
 
 Abre ao Ministério da Fazenda o crédito especial de NCr$150.000,00, para o fim que menciona.

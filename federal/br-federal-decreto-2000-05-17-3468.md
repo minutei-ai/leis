@@ -1,5 +1,3 @@
-###DEC-003468-0-000-17-05-2000@@@
-
 DECRETO Nº 3.468, DE 17 DE MAIO DE 2000.
 
 Promulga o Protocolo de Assistência Jurídica Mútua em Assuntos Penais, assinado em San Luis, República Argentina, em 25 de junho de 1996, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai.
@@ -392,4 +390,26 @@ Da mesma forma o Governo da República do Paraguai notificará aos Governos dos 
 
 Feito em São Luiz, República Argentina, aos 25 dias do mês de junho de 1996, em um original nos idiomas espanhol e português, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pela República Argentina</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Guido Di Tella</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro de Relações Exteriores</span></p></td><td style="width:216.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pela República Federativa do Brasil</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro das Relações Exteriores</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:216.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pela República do Paraguai</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Rubén Melgarejo Lanzoni</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro das Relações Exteriores</span></p></td><td style="width:216.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pela República Oriental do Uruguai</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Álvaro Ramos</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro de Relações Exteriores</span></p></td></tr></tbody></table>
+Pela República Argentina
+
+Guido Di Tella
+
+Ministro de Relações Exteriores
+
+Pela República Federativa do Brasil
+
+Luiz Felipe Lampreia
+
+Ministro das Relações Exteriores
+
+Pela República do Paraguai
+
+Rubén Melgarejo Lanzoni
+
+Ministro das Relações Exteriores
+
+Pela República Oriental do Uruguai
+
+Álvaro Ramos
+
+Ministro de Relações Exteriores

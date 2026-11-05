@@ -1,5 +1,3 @@
-###DEL-004678-0-000-10-09-1942@@@
-
 DECRETO-LEI N. 4.678 – DE 10 DE SETEMBRO DE 1942
 
 Autoriza a Interventoria Federal no Estado do Paraná a suspender a distribuição de prêmios, ed que trata o decreto n. 23.598, de 18 de dezembro de 1933

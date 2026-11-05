@@ -1,5 +1,3 @@
-###DEC-088189-0-000-17-03-1983@@@
-
 DECRETO Nº 88.189, DE 17 DE MARÇO DE 1983
 
 Declara de interesse social, para fins de desapropriação, Imóvel rural constituído de parte da "Fazenda Capintuba", situado no  município de Alenquer, no Estado do Pará, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 88.188, de 17 de março de 1983.

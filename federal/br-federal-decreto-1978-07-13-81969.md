@@ -1,5 +1,3 @@
-###DEC-081969-0-000-13-07-1978@@@
-
 Decreto nº 81.969, de 13 de julho de 1978
 
 Concede autorização à COMPANHIA ESSO PROPESCÇÃO DO BRASIL para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÀS e dá outras providências.

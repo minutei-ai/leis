@@ -1,5 +1,3 @@
-###DEC-002975-0-000-01-03-1999@@@
-
 DECRETO Nº 2.975, DE 1º DE MARÇO DE 1999.
 
 Promulga o Acordo de Transporte Rodoviário Internacional de Passageiros e Carga, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela, em Caracas, em 4 de julho de 1995.
@@ -190,7 +188,25 @@ O presente Acordo poderá ser modificado por entendimentos das Partes Contratant
 
 Feito em Caracas, em 04 de julho de 1995, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Da Venezuela</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Miguel A. Burelli Rivas</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro das Relações</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Relações Exteriores</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Da Venezuela
+
+Luiz Felipe Lampreia
+
+Miguel A. Burelli Rivas
+
+Ministro de Estado das
+
+Ministro das Relações
+
+Relações Exteriores
+
+Exteriores
 
 Anexo I
 

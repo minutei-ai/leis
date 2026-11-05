@@ -1,5 +1,3 @@
-###DEC-089323-0-000-24-01-1984@@@
-
 DECRETO Nº 89.323, DE 24 DE JANEIRO DE 1984
 
 Revoga a concessão outorgada à FUNDAÇÃO CULTURAL DO ESPÍRITO SANTO, para executar serviço de radiodifusão sonora em onda tropical, na cidade de Vitória, Estado do Espírito Santo.

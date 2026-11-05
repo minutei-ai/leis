@@ -1,5 +1,3 @@
-###DEC-081055-0-000-19-12-1977@@@
-
 Decreto nº 81.055, de 19 de dezembro de 1977.
 
 Dá nova redação ao parágrafo 2o do artigo 1o e ao artigo 3o, bem como acrescenta parágrafo ao artigo 2o do Decreto n° 75.752, de 23 de maio de 1975, que regulamenta o Decreto-lei n° 1.403, de igual data.

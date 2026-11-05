@@ -1,5 +1,3 @@
-###DEC-092409-0-000-20-02-1986@@@
-
 DECRETO Nº 92.409, DE 20 DE FEVEREIRO DE 1986
 
 Dá nova redação ao caput do artigo 3º, do Decreto nº 68.324, de 09 de março de 1971, alterado pelo artigo 1º do Decreto nº 81.436, de 09 de março de 1978 e pelo artigo 1º do Decreto nº 84.847, de 24 de junho de 1980, que dispõe sobre a participação no Condomínio do Reservatório Paraibuna-Paraitinga, e dá outras providências.

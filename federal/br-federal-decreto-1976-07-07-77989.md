@@ -1,5 +1,3 @@
-###DEC-077989-0-000-07-07-1976@@@
-
 DECRETO Nº 77.989, DE 7 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Contábeis de Rio Claro, com sede na Cidade de Rio Claro, Estado de São Paulo.

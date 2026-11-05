@@ -1,5 +1,3 @@
-###MPV-001773-0-034-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.773-34, DE 11 DE FEVEREIRO DE 1999.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

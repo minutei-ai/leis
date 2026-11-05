@@ -29,7 +29,3 @@ Antônio Mourão Guimarães
 Iago Vitoriano Pimentel
 
 José de Carvalho Lopes
-
-\============================================================
-
-Data da última atualização: 05/09/2006.

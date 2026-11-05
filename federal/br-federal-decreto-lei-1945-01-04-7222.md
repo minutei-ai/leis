@@ -1,5 +1,3 @@
-###DEL-007222-0-000-04-01-1945@@@
-
 DECRETO-LEI N. 7.222 – DE 4 DE JANEIRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 5.600.000,00, à verba que especifica

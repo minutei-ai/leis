@@ -1,5 +1,3 @@
-###DEC-055904-0-000-09-04-1965@@@
-
 DECRETO Nº 55.904, DE 9 DE ABRIL DE 1965.
 
 Concede à sociedade Agrícola e Industrial Usina Oiterinhos Limitada autorização para funcionar como empresa de mineração.

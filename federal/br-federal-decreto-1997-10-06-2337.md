@@ -1,5 +1,3 @@
-###DEC-002337-0-000-06-10-1997@@@
-
 # DECRETO Nº 2.337, DE 6 DE OUTUBRO DE 1997
 
 Dispõe sobre o remanejamento do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

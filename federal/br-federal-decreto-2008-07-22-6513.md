@@ -1,5 +1,3 @@
-###DEC-006513-0-000-22-07-2008@@@
-
 DECRETO Nº 6.513, DE 22 DE JULHO DE 2008.
 
 Altera o Decreto nº 4.412, de 7 de outubro de 2002, que dispõe sobre a atuação das Forças Armadas e da Polícia Federal nas terras indígenas, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-048211-0-000-13-05-1960@@@
-
 DECRETO Nº 48.211, DE 13 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Richard Paul Werner a pesquisar minério de ferro, no município de Gaspar, Estado de Santa Catarina.

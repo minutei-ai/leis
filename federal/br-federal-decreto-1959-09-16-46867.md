@@ -1,5 +1,3 @@
-###DEC-046867-0-000-16-09-1959@@@
-
 DECRETO Nº 46.867, DE 16 DE SETEMBRO DE 1959.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis destinados às instalações do Centro Médico da Universidade do Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099679-0-000-08-11-1990@@@
-
 DECRETO N° 99.679, DE 8 DE NOVEMBRO DE 1990
 
 Dá nova regulamentação à Lei n° 6.874 de 3 de dezembro de 1980, que atribui à empresa exploradora de serviços públicos de telecomunicações a edição de listas telefônicas.

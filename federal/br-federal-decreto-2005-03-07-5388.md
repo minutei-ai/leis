@@ -1,5 +1,3 @@
-###DEC-005388-0-000-07-03-2005@@@
-
 DECRETO Nº 5.388 DE 7 DE MARÇO DE 2005
 
 Dá nova redação ao art. 4º do Decreto nº 4.376, de 13 de setembro de 2002, que dispõe sobre a organização e o funcionamento do Sistema Brasileiro de Inteligência.

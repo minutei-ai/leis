@@ -1,5 +1,3 @@
-###DEC-068355-0-000-16-03-1971@@@
-
 DECRETO Nº 68.355, DE 16 DE MARÇO DE 1971.
 
 Concede autorização à sociedade seguradora estrangeira para aumentar o capital de suas operações no Brasil.

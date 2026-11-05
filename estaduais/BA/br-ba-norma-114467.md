@@ -2,8 +2,10 @@ LEI Nº 1.731 DE 19 DE JULHO DE 1962
 
 Cria o Município de RIACHÃO DAS NEVES, desmembrado do de COTEGIPE.
 
-Ver também:<br>
-Lei nº 13.558 de 10 de maio de 2016 - Atualiza, com base na Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Angical, Baianópolis, Barreiras, Buritirama, Catolândia, Cotegipe, Cristópolis, Formosa do Rio Preto, Luís Eduardo Magalhães, Mansidão, Riachão das Neves, Santa Rita de Cássia, São Desidério e Wanderley.<br>
+Ver também:
+
+Lei nº 13.558 de 10 de maio de 2016 - Atualiza, com base na Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Angical, Baianópolis, Barreiras, Buritirama, Catolândia, Cotegipe, Cristópolis, Formosa do Rio Preto, Luís Eduardo Magalhães, Mansidão, Riachão das Neves, Santa Rita de Cássia, São Desidério e Wanderley.
+
 Lei nº [12.906](javascript: openDoc\() de 24 de setembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Bacia do Rio Grande, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Angical, Baianópolis, Barreiras, Buritirama, Catolândia, Cotegipe, Cristópolis, Formosa do Rio Preto, Luis Eduardo Magalhães, Mansidão, Riachão das Neves, Santa Rita de Cássia, São Desidério e Wanderley.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -76,4 +78,4 @@ da seguinte maneira:
 
 "Começa no marco no lugar Mandacaru, na margem do rio Branco; daí em reta até o marco no lugar Fidelis; daí em reta até o marco no lugar Poções, à margem do Riachão do Cariporé; daí finalmente em reta em direção Norte até o marco à margem da vereda da Carnaubinha, Monte Alegre ou Funil."
 
-* * *
+ *

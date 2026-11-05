@@ -1,5 +1,3 @@
-###DEC-060709-0-000-11-05-1967@@@
-
 DECRETO Nº 60.709, DE 11 DE MAIO DE 1967.
 
 Dispõe sôbre a não realização no corrente ano, das Assembléias Gerais dos Conselhos Nacionais de Estatística e de Geografia e dá outras providências.

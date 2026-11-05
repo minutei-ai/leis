@@ -1,5 +1,3 @@
-###DEC-006366-0-000-30-01-2008@@@
-
 DECRETO Nº 6.366, DE 30 DE JANEIRO DE 2008.
 
 Regulamenta a Medida Provisória no 415, de 21 de janeiro de 2008, que proíbe a comercialização de bebidas alcoólicas em rodovias federais.
@@ -87,5 +85,3 @@ José Gomes Temporão
 Rodrigo Figueiredo
 
 Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 31.1.2008

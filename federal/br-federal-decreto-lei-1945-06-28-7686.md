@@ -1,5 +1,3 @@
-###DEL-007686-0-000-28-06-1945@@@
-
 DECRETO-LEI N. 7.686 – DE 28 DE JUNHO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 252.900,00, para o fim que especifica

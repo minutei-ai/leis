@@ -1,5 +1,3 @@
-###DEC-003209-0-000-13-10-1999@@@
-
 DECRETO Nº 3.209, DE 13 DE OUTUBRO DE 1999.
 
 Promulga o Acordo de Cooperação Técnica, entre o Governo da República Federativa do Brasil e o Governo da República Argentina, celebrado em Buenos Aires, em 9 de abril de 1996.
@@ -218,4 +216,14 @@ Artigo XVI
 
 Feito em Buenos Aires, em 09 de abril de 1996, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:137.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina</span></p></td></tr><tr><td style="width:137.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Guido di Tella</span></p></td></tr><tr><td style="width:137.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro das Relações Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República Argentina
+
+Luiz Felipe Lampreia
+
+Guido di Tella
+
+Ministro de Estado das Relações Exteriores
+
+Ministro das Relações Exteriores

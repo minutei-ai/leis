@@ -1,5 +1,3 @@
-###DEC-049450-0-000-06-12-1960@@@
-
 DECRETO Nº 49.450, DE 06 DE DEZEMBRO DE 1960.
 
 Autoriza Caolim Itabirito Ltda. a pesquisar caulim no município de Itabirito, Estado de Minas Gerais.

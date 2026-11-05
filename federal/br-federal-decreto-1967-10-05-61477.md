@@ -1,5 +1,3 @@
-###DEC-061477-0-000-05-10-1967@@@
-
 decreto Nº 61.477, de 5 de outubro de 1967.
 
 Permite o uso, nos uniformes militares, da Medalha da Inconfidência e altera disposições do Decreto número 40.556, de 17 de dezembro de 1956.

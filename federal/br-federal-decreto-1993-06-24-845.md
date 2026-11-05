@@ -1,7 +1,3 @@
-1
-
-###DEC-000845-0-000-24-06-1993@@@
-
 DECRETO N° 845, DE 24 DE JUNHO DE 1993
 
 Fixa cargos privativos de Oficial-General da Aeronáutica, em tempo de paz, e dá outras providências.

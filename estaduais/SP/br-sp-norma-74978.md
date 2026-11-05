@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74978)
-
 # LEI COMPLEMENTAR Nº 1.031, DE 28 DE DEZEMBRO DE 2007
 
 ### _Dispõe sobre o subsídio dos Membros do Poder Judiciário._

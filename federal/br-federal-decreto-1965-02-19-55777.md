@@ -1,5 +1,3 @@
-###DEC-055777-0-000-19-02-1965@@@
-
 DECRETO Nº 55.777, DE 19 DE FEVEREIRO DE 1965.
 
 Isenta a Campanha Nacional de Merenda Escolar, do Ministério da Educação e Cultura, do pagamento de emolumentos consulares, licenças de importação, pedágio, taxas portuárias, alfandegárias e outras despesas, que recaiam sôbre mercadorias e equipamentos importados por essa mesma Campanha ou a ela doados por entidades internacionais, governos estrangeiros ou entidades particulares, mediante acôrdos, convênios e outras formas de ajuste.

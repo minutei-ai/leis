@@ -1,4 +1,5 @@
-LEI Nº 22.933, DE 21 DE AGOSTO DE 2024<br>
+LEI Nº 22.933, DE 21 DE AGOSTO DE 2024
+
 \- [Vide Decreto nº 10.530, de 21-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109394)  (Regulamento).
 
 Dispõe sobre o Sistema Unificado Estadual de Sanidade Agroindustrial Familiar, Artesanal e de Pequeno Porte – SUSAF/GO e dá outras providências.
@@ -50,8 +51,6 @@ Art. 8º O SUSAF/GO poderá abranger estabelecimentos familiares de pequeno port
 Art. 9º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 21 de agosto de 2024; 136º da República.
-
-<br>
 
 RONALDO CAIADO
 

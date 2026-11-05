@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210594)<br>
-
 # DECRETO N° 69.348, DE 07 DE FEVEREIRO DE 2025
 
 ### _Institui o Comitê de Assessoramento Estratégico para Políticas de Segurança Pública - CAESP._

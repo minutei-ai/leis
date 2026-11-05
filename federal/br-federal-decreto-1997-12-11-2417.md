@@ -1,5 +1,3 @@
-###DEC-002417-0-000-11-12-1997@@@
-
 DECRETO Nº 2.417, DE 11 DE DEZEMBRO DE 1997
 
 Autoriza a prorrogação da descentralização, até 31 de dezembro de 1999, referente às atividades que menciona e dá outras providências.

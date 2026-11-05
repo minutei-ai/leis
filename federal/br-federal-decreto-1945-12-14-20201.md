@@ -1,17 +1,15 @@
-###DEC-020201-0-000-14-12-1945@@@
+**DECRETO Nº 20.201, DE 14 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.201, DE 14 DE DEZEMBRO DE 1945.</strong>
+***Concede reconhecimento aos cursos de filosofia, geografia e história, letras clássicas, letras néo-latinas e pedagogia da Faculdade de Filosofia, Ciências e Letras Santa Maria.***
 
-<em><strong>Concede reconhecimento aos cursos de filosofia, geografia e história, letras clássicas, letras néo-latinas e pedagogia da Faculdade de Filosofia, Ciências e Letras Santa Maria.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da constituição, e nos têrmos do artigo 23 do Decreto-lei número 421, de 11 de maio de 1938,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da constituição, e nos têrmos do artigo 23 do Decreto-lei número 421, de 11 de maio de 1938,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedido reconhecimento aos cursos de filosofia, geografia e história, letras clássicas, letras néo-latinas e pedagogia mantidos pela Faculdade de Filosofia, Ciências e Letras Santa Maria, com sede em Belo Horizonte, no Estado de Minas Gerais.
 
 Rio de Janeiro,14 de dezembro de 1945, 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Raul Leitão da Cunha

@@ -1,5 +1,3 @@
-###DEC-075227-0-000-16-01-1975@@@
-
 DECRETO Nº 75.227, DE 16 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Educação e Letras do Alto Taquari, mantida pela Fundação Alto Taquari de Ensino Superior, com sede na Cidade de Lajeado, Estado do Rio Grande do Sul.

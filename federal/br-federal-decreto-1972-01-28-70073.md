@@ -1,5 +1,3 @@
-###DEC-070073-0-000-28-01-1972@@@
-
 DECRETO nº 70.073, DE 28 DE JANEIRO DE 1972.
 
 Concede à Companhia de Cimento Portland Rio Branco direito de lavrar calcário no município de Corumbá, Estado de Goiás.

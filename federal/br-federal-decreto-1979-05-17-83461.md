@@ -1,5 +1,3 @@
-###DEC-083461-0-000-17-05-1979@@@
-
 decreto nº 83.461, de 17 de maio de 1979.
 
 Autoriza o funcionamento do curso de Engenharia Civil da Faculdade de Engenharia de Joinville, Estado de Santa Catarina.

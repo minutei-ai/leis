@@ -1,5 +1,3 @@
-###DEL-005025-0-000-03-12-1942@@@
-
 DECRETO-LEI N. 5.025 – DE 3 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Aeronáutica o crédito suplementar de Cr$ 5.950.000,00 à verba que especifica

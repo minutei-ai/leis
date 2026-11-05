@@ -1,5 +1,3 @@
-###MPV-001683-0-004-27-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.683-4, DE 27 DE AGOSTO DE 1998
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

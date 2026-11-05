@@ -1,5 +1,3 @@
-###DEC-081880-0-000-04-07-1978@@@
-
 Decreto nº 81.880, de 04 dE julho de 1978.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S., área de terra abrangida pelo Acampamento do Açude Público "Pereira de Miranda", ex-Pentecoste, no Estado do Ceará.

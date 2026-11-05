@@ -1,5 +1,3 @@
-###DEC-055388-0-000-31-12-1964@@@
-
 DECRETO Nº 55.388, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Plínio Portella a pesquisar dolomita, no município de Piraí, Estado do Rio de Janeiro.

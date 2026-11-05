@@ -1,5 +1,3 @@
-###DEC-074760-0-000-24-10-1974@@@
-
 DECRETO Nº 74.760, DE 24 DE OUTUBRO DE 1974
 
 Dispõe sobre a estrutura básica do Instituto Brasileiro do Café (IBC) e dá outras providências.

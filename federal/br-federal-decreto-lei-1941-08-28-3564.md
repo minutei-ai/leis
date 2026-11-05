@@ -1,5 +1,3 @@
-###DEL-003564-0-000-28-08-1941@@@
-
 DECRETO-LEI N. 3.564 – DE 28 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de réis 4.125:000$0, para atender às despesas iniciais do Parque de Aeronáutica de São Paulo, e demais instalações

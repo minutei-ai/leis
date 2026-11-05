@@ -1,7 +1,3 @@
-1
-
-###DEC-098054-0-000-15-08-1989@@@
-
 DECRETO N° 98.054, DE 15 DE AGOSTO DE 1989
 
 Dispõe sobre as exportações de açúcar, álcool, mel rico e mel residual e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006159-0-000-30-12-1943@@@
-
 DECRETO-LEI N. 6.159 - DE 30 DE DEZEMBRO DE 1943
 
 Cria a Biblioteca do Ministério da Fazenda e dá outras providências

@@ -1,5 +1,3 @@
-###MPV-001947-0-024-02-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.947-24, DE 2 de março de 2000.
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

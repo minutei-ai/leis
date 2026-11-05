@@ -1,5 +1,3 @@
-###DEC-054028-0-000-17-07-1964@@@
-
 DECRETO Nº 54.028, DE 17 DE JULHO DE 1964.
 
 Transforma a Coudelaria de Saican em Fazenda.

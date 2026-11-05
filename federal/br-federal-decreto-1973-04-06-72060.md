@@ -1,5 +1,3 @@
-###DEC-072060-0-000-06-04-1973@@@
-
 Decreto Nº 72.060, DE 6 DE ABRIL DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras Grande Rio, mantida pela Associação Fluminense de Educação de Duque de Caxias, com sede na Cidade de Duque de Caxias, Estado do Rio de Janeiro.

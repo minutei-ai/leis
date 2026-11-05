@@ -1,5 +1,3 @@
-###DEC-006678-0-000-08-12-2008@@@
-
 DECRETO Nº 6.678, DE 8 DE DEZEMBRO DE 2008.
 
 Aprova o VII Plano Setorial para os Recursos do Mar.      

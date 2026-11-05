@@ -1,5 +1,3 @@
-###DEC-079646-0-000-03-05-1977@@@
-
 DECRETO Nº 79.646, DE 3 DE MAIO DE 1977.
 
 Altera dispositivo do Regulamento para os Quadros Complementares de Oficiais da Marinha, aprovado pelo Decreto número 74.467, de 28 de agosto de 1974.

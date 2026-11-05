@@ -1,5 +1,3 @@
-###DEC-092483-0-000-21-03-1986@@@
-
 DECRETO Nº 92.483, DE 21 DE MARÇO DE 1986
 
 Renova a concessão outorgada à RADIODIFUSÃO ASSISENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Francisco de Assis, Estado do Rio Grande do Sul.

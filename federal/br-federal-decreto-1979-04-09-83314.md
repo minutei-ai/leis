@@ -1,5 +1,3 @@
-###DEC-083314-0-000-09-04-1979@@@
-
 DECRETO Nº 83.314, DE 09 DE ABRIL DE 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

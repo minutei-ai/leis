@@ -1,5 +1,3 @@
-###DEC-083575-0-000-18-06-1979@@@
-
 decreto nº 83.575, de 18 de junho de 1970.
 
 Dispõe sobre a extinção de órgãos em Autarquias vinculadas ao Ministério da Indústria e do Comércio.

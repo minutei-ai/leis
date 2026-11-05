@@ -1,5 +1,3 @@
-###DEC-050877-0-000-29-06-1961@@@
-
 DECRETO Nº 50.877, DE 29 DE JUNHO DE 1961.
 
 Dispõe sôbre o lançamento de resíduos tóxicos ou oleosos nas águas interiores ou litorâneas do País, e dá outras providências.

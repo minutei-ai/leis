@@ -1,5 +1,3 @@
-###DEC-077200-0-000-19-02-1976@@@
-
 decreto nº 77.200, de 19 de fevereiro de 1976.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Ciências Econômicas, Administrativas e Contábeis de São João Del Rei, com sede na Cidade de São João Del Rei, Estado de Minas Gerais.

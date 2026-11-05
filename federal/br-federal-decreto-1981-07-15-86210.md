@@ -1,5 +1,3 @@
-###DEC-086210-0-000-15-07-1981@@@
-
 DECRETO Nº 86.210, de 15 de julho de 1981.
 
 Delega competência ao Ministro Extraordinário para a Desburocratização, para a expedição de atos necessários à execução do Programa Nacional de Desburocratização, instituído pelo Decreto nº 83.740, de 18 de julho de 1979.

@@ -1,5 +1,3 @@
-###DEC-006192-0-000-20-08-2007@@@
-
 DECRETO Nº 6.192, DE 20 DE AGOSTO DE 2007.
 
 Altera o art. 2o do Decreto no 4.622, de 21 de março de 2003, que dispõe sobre a Medalha de Serviço Amazônico, e dá outras providências.
@@ -21,5 +19,3 @@ Brasília, 20 de agosto de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 21.8.2007

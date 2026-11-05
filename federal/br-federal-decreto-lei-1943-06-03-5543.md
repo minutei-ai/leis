@@ -1,5 +1,3 @@
-###DEL-005543-0-000-03-06-1943@@@
-
 DECRETO‑LEI N. 5.543 – DE 3 DE JUNHO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 64.648,60, para pagamento de serviços prestados à Companhia Ferroviá­ria Éste Brasileiro.

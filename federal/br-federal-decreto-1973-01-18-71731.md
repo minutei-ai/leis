@@ -1,5 +1,3 @@
-###DEC-071731-0-000-18-01-1973@@@
-
 DECRETO Nº 71.731, DE 18 DE JANEIRO DE 1973.
 
 Aprova o Regulamento do Conselho Superior de Economia e Finanças da Aeronáutica.

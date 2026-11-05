@@ -1,5 +1,3 @@
-###MPV-001798-0-000-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.798, DE 13 DE JANEIRO DE 1999.
 
 Acrescenta dispositivos à Lei nº 9.028, de 12 de abril de 1995, que dispõe sobre o exercício das atribuições institucionais da Advocacia-Geral da União, e dá outras providências.

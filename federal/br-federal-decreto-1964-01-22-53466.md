@@ -1,5 +1,3 @@
-###DEC-053466-0-000-22-01-1964@@@
-
 DECRETO Nº 53.466, DE 22 DE JANEIRO DE 1964.
 
 Altera dispositivos do Regulamento de Promoções da Marinha, aprovado pelo Decreto nº 42.808, de 13 de dezembro de 1957.

@@ -1,5 +1,3 @@
-###DEC-050533-0-000-04-05-1961@@@
-
 DECRETO Nº 50.533, DE 4 DE MAIO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Aliança do Pará.

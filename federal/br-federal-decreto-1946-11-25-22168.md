@@ -1,54 +1,52 @@
-###DEC-022168-0-000-25-11-1946@@@
+**DECRETO Nº 22.168, DE 25 DE NOVEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22.168, DE 25 DE NOVEMBRO DE 1946.</strong>
+***Aprova o Regimento da casa de Rui Barbosa do Ministério da Educação e Saúde.***
 
-<em><strong>Aprova o Regimento da casa de Rui Barbosa do Ministério da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**Decreta:**
 
-<strong>Decreta:</strong>
+**Art**. 1º Fica aprovado o regimento da casa de Rui Barbosa, que assinado pelo Ministro da Educação e saúde, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o regimento da casa de Rui Barbosa, que assinado pelo Ministro da Educação e saúde, com êste baixa.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 25 de novembro de 1946; 125º da Independência e 58º da República.
 
-<strong>Eurico G. Dutra</strong>
+**Eurico G. Dutra**
 
 Ernesto de Souza Campos
 
-<strong>REGIMENTO DA CASA DE RUI BARBOSA</strong>
+**REGIMENTO DA CASA DE RUI BARBOSA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A casa de Rui Barbosa (C. R. B.), criada pelo Decreto Legislativo nº 5.429, de 9 de janeiro de 1928, órgão integrante do Ministério da Educação e Saúde, subordinado ao respectivo Ministro de Estado, tem por finalidade cultuar a memória de Rui Barbosa, velando pela Biblioteca, arquivo, documentos e objetos que lhe pertenceram, promovendo a publicação de seu arquivo e de suas obras e realizando conferências sôbre a sua vida e obra.
+**Art**. 1º A casa de Rui Barbosa (C. R. B.), criada pelo Decreto Legislativo nº 5.429, de 9 de janeiro de 1928, órgão integrante do Ministério da Educação e Saúde, subordinado ao respectivo Ministro de Estado, tem por finalidade cultuar a memória de Rui Barbosa, velando pela Biblioteca, arquivo, documentos e objetos que lhe pertenceram, promovendo a publicação de seu arquivo e de suas obras e realizando conferências sôbre a sua vida e obra.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A C. R. B. compõe-se de:
+**Art**. 2º A C. R. B. compõe-se de:
 
 Turma do Museu e Divulgação (T. M. D.);
 
 Turma de Administração (T. A.).
 
-<strong>Art</strong> 3º O Diretor terá um Secretário por ele designado.
+**Art** 3º O Diretor terá um Secretário por ele designado.
 
-<strong>Art</strong> 4º As Turmas terão Chefes designados pelo Diretor.
+**Art** 4º As Turmas terão Chefes designados pelo Diretor.
 
-<strong>Art</strong> 5º Os Órgãos que integram a C. R. B. funcionários perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art** 5º Os Órgãos que integram a C. R. B. funcionários perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6º À T. M. D. compete:
+**Art**. 6º À T. M. D. compete:
 
 I - promover a aquisição, o registro, a classificação e catalogação, a guarda e conservação dos livros, documentos, móveis e outros objetos que pertenceram ou se refiram a Rui Barbosa;
 
@@ -66,13 +64,13 @@ VII - prestar informações aos visitantes a respeito da vida e obra de Rui Barb
 
 VIII - extrair certidões e cópias de documentos, quando autorizo pelo Diretor;
 
-<strong>Art</strong>. 7º À T. A. compete:
+**Art**. 7º À T. A. compete:
 
 I - promover as medidas necessárias á administração do pessoal, material, orçamento e comunicações, devendo para tanto:
 
 a) receber, registrar, distribuir, expedir e guardar a correspondência oficial e papéis relativos às atividades da C. R. B.;
 
-b) promover a publicação, no <em>Diário Oficial</em>, dos atos e decisões relativas às atividades da C. R. B.;
+b) promover a publicação, no *Diário Oficial*, dos atos e decisões relativas às atividades da C. R. B.;
 
 c) encaminhar à D. P. do D. A., devidamente instruídos, os processos referentes aos servidores em exercício na C. R. B.;
 
@@ -88,11 +86,11 @@ III - manter a vigilância permanente de tôdas as dependências da C. R. B.
 
 IV - manter, em lugar conveniente, um servidor incumbido de prestar informações e guardar quaisquer objetos dos visitantes e consulentes.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 8º Ao Diretor incumbe:
+**Art**. 8º Ao Diretor incumbe:
 
 I - administrar e representar a C. R. B.;
 
@@ -152,7 +150,7 @@ XXVIII - ouvir, individual ou coletivamente, pessoas que tenham conhecimento esp
 
 XXIX - autorizar o fornecimento de certidões e cópias de documentos.
 
-<strong>Art</strong>. 9º Aos Chefes de Turma incumbe:
+**Art**. 9º Aos Chefes de Turma incumbe:
 
 I - administrar a respectiva turma;
 
@@ -180,7 +178,7 @@ XII - propor ao Diretor a antecipação ou prorrogação remunerada do período 
 
 XIII - conceder férias ao pessoal que lhe fôr diretamente subordinado;
 
-<strong>Art</strong>. 10. Ao Secretário incumbe;
+**Art**. 10. Ao Secretário incumbe;
 
 I - atender ás pessoal que desejam comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -188,31 +186,31 @@ II - representar o diretor quando para isso fôr designado;
 
 III - redigir a correspondência pessoal do Diretor;
 
-<strong>Art</strong>. 11. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhe forem determinados pelos seus superiores imediatos;
+**Art**. 11. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhe forem determinados pelos seus superiores imediatos;
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 12. A C. R. B terá lotação aprovada em Decreto.
+**Art**. 12. A C. R. B terá lotação aprovada em Decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, a C. R. B. poderá ter pessoal extranumerário admitido na forma da legislação vigente.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 13. O horário normal de trabalho será fixado pelo Diretor, respeitando o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 13. O horário normal de trabalho será fixado pelo Diretor, respeitando o número de horas semanais estabelecido para o Serviço Público Civil.
 
 Parágrafo único. Os funcionários e extranumerário da C. R. B. ficarão sujeitos ao regime de plantões nos domingos e feriados.
 
-<strong>Art</strong>. 14. O Diretor da C. R. B. não fica sujeito a ponto, devendo, porém observar o horário fixado.
+**Art**. 14. O Diretor da C. R. B. não fica sujeito a ponto, devendo, porém observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 15. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 15. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor, por um dos Chefes de Turma, conforme indicação sua ao Ministro de Estado e designação feita por êste;
 
@@ -220,30 +218,30 @@ II - Os Chefes de Turma por servidores designados pelo Diretor.
 
 Parágrafo único. Haverá, sempre, servidores previamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 16. A T. M. D. deverá dispor de servidores suficientemente instruídos a respeito das obras e objetos que pertenceram a Rui Barbosa, para prestarem informações aos consulentes e visitantes.
+**Art**. 16. A T. M. D. deverá dispor de servidores suficientemente instruídos a respeito das obras e objetos que pertenceram a Rui Barbosa, para prestarem informações aos consulentes e visitantes.
 
-<strong>Art</strong>. 17. Não poderá ter qualquer utilização os móveis e as alfaias que pertenceram a Rui Barbosa e guarnecem a Casa.
+**Art**. 17. Não poderá ter qualquer utilização os móveis e as alfaias que pertenceram a Rui Barbosa e guarnecem a Casa.
 
-<strong>Art</strong>. 18. Os livros de grande raridade, os incunábulos, os exemplares em papel especial ou numerados, as obras com dedicatória, assinatura, ou anotações de homens notáveis, e, de modo geral, todos os documentos de valor histórico, deverão ser guardados em estantes fechadas e só poderão ser dados à consulta mediante autorização do Diretor e assistência direta e interrupta de um servidor para tal fim especialmente destacado.
+**Art**. 18. Os livros de grande raridade, os incunábulos, os exemplares em papel especial ou numerados, as obras com dedicatória, assinatura, ou anotações de homens notáveis, e, de modo geral, todos os documentos de valor histórico, deverão ser guardados em estantes fechadas e só poderão ser dados à consulta mediante autorização do Diretor e assistência direta e interrupta de um servidor para tal fim especialmente destacado.
 
-<strong>Art</strong>. 19. A Sala de Conferência da C. R. B. só será cedida para fins educativos e patrióticos.
+**Art**. 19. A Sala de Conferência da C. R. B. só será cedida para fins educativos e patrióticos.
 
-<strong>Art</strong>. 20. Para qualquer reparo nos imóveis e objetos quaisquer da C. R. B. deverá ouvir a Diretoria do Patrimônio Histórico e Artístico Nacional.
+**Art**. 20. Para qualquer reparo nos imóveis e objetos quaisquer da C. R. B. deverá ouvir a Diretoria do Patrimônio Histórico e Artístico Nacional.
 
-<strong>Art</strong>. 21. Os catálogos e demais publicações da C. R. B., depois de impressos, serão postos a venda, devendo a respectiva renda ser recolhida ao Tesouro Nacional.
+**Art**. 21. Os catálogos e demais publicações da C. R. B., depois de impressos, serão postos a venda, devendo a respectiva renda ser recolhida ao Tesouro Nacional.
 
-<strong>Art</strong>. 22. Nenhum servidor da C. R. B. poderá fazer publicações ou conferências ou dar entrevistas, sôbre assuntos que se relacione com a organização e as atividades da mesma, sem prévia autorização escrita do Diretor.
+**Art**. 22. Nenhum servidor da C. R. B. poderá fazer publicações ou conferências ou dar entrevistas, sôbre assuntos que se relacione com a organização e as atividades da mesma, sem prévia autorização escrita do Diretor.
 
-<strong>Art</strong>. 23. A juízo do Diretor, poderão ser incluídos em publicações da C. R. B. trabalhos relevantes de técnicos estranhos à mesma, quando se referirem a assuntos relacionados com as atividades da Casa.
+**Art**. 23. A juízo do Diretor, poderão ser incluídos em publicações da C. R. B. trabalhos relevantes de técnicos estranhos à mesma, quando se referirem a assuntos relacionados com as atividades da Casa.
 
-<strong>Art</strong>. 24. Os trabalhos realizados na C. R. B. poderão ser publicados em revistas literárias e científicas nacionais e estrangeiras, desde que tenham como único sub-título a expressão: "Trabalho da Casa de Rui Barbosa" e a publicação tenha sido autorizada pelo Diretor.
+**Art**. 24. Os trabalhos realizados na C. R. B. poderão ser publicados em revistas literárias e científicas nacionais e estrangeiras, desde que tenham como único sub-título a expressão: "Trabalho da Casa de Rui Barbosa" e a publicação tenha sido autorizada pelo Diretor.
 
-<strong>Art</strong>. 25. O servidor incumbido de executar as atividades constantes do item III, do art. 7º, deverá residir obrigatòriamente nas dependências do próprio edifício que lhe forem especialmente destinados.
+**Art**. 25. O servidor incumbido de executar as atividades constantes do item III, do art. 7º, deverá residir obrigatòriamente nas dependências do próprio edifício que lhe forem especialmente destinados.
 
 Rio de Janeiro, 25 de novembro de 1946.
 
-<strong>Ernesto de Souza Campos</strong>
+**Ernesto de Souza Campos**

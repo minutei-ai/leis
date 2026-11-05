@@ -1,5 +1,3 @@
-###DEC-048640-0-000-01-08-1960@@@
-
 decreto nº 48.640, de 1º de agôsto de 1960.
 
 Declara de utilidade pública a Fundação Gorceix, com sede em Ouro Prêto, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-047741-0-000-02-02-1960@@@
-
 DECRETO Nº 47.741, DE 2 DE FEVEREIRO DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Estranumerário-mensalista do Instituto Benjamin Constant para idêntica tabela do Museu Histórico Nacional, ambas do Ministério da Educação e Cultura.

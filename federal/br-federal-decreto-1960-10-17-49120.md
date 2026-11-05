@@ -1,5 +1,3 @@
-###DEC-049120-0-000-17-10-1960@@@
-
 DECRETO Nº 49.120, DE 17 DE OUTUBRO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio.

@@ -1,5 +1,3 @@
-###DEL-003464-0-000-25-07-1941@@@
-
 DECRETO-LEI N. 3.464 – DE 25 DE JULHO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito suplementar de 870:000$0 às verbas que especifica e dá outras providências

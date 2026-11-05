@@ -1,5 +1,3 @@
-###DEC-079015-0-000-23-12-1976@@@
-
 DECRETO Nº 79.015, DE 23 DE DEZEMBRO DE 1976.
 
 Autoriza o funcionamento do curso de Formação de Professores de Disciplinas Profissionalizantes de Ensino de 2º grau - Esquemas I e II, da Faculdade de Filosofia, Ciências e Letras de Sorocaba, com sede na cidade de Sorocaba, Estado de São Paulo.

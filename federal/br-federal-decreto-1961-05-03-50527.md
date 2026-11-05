@@ -1,5 +1,3 @@
-###DEC-050527-0-000-03-05-1961@@@
-
 DECRETO Nº 50.527, DE 3 DE MAIO DE 1961.
 
 Declara emancipado o Núcleo Colonial Duque de Caxias e dá outras providências.

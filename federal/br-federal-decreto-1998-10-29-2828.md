@@ -1,5 +1,3 @@
-###DEC-002828-0-000-29-10-1998@@@
-
 DECRETO Nº 2.828, DE 29 DE OUTUBRO DE 1998
 
 Prorroga o prazo de remanejamento do cargo em comissão que menciona, e dá outras providências.

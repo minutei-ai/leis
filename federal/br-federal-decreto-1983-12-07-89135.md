@@ -1,5 +1,3 @@
-###DEC-089135-0-000-07-12-1983@@@
-
 Decreto nº 89.135, de 07 de dezembro De 1983
 
 Autoriza o aumento do Capital Social da Centrais Elétricas de Roraima - CER.

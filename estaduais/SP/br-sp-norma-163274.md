@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/163274)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2011/compilacao-lei-14579-07.10.2011.html)
 
 # LEI N° 14.579, DE 07 DE OUTUBRO DE 2011

@@ -1,5 +1,3 @@
-###DEC-083734-0-000-18-07-1979@@@
-
 Decreto nº 83.734, de 18 de julho de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

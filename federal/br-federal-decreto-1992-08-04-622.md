@@ -1,7 +1,3 @@
-1
-
-###DEC-000622-0-000-04-08-1992@@@
-
 DECRETO Nº 622, DE 4 DE AGOSTO DE 1992
 
 Altera dispositivos dos Decretos nºs 496, de 20 de abril de 1992, 514, de 28 de abril de 1992, e 524, de 19 de maio de 1992, e dá outras providências.

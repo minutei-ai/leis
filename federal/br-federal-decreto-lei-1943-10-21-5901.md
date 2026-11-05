@@ -1,5 +1,3 @@
-###DEL-005901-0-000-21-10-1943@@@
-
 DECRETO‑LEI N. 5.901 – DE 21 DE OUTUBRO DE 1943
 
 Dispõe sôbre as normas nacionais para a revisão qüinqüenal da divisão  admi­nistrativa e judiciária do país

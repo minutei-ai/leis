@@ -1,5 +1,3 @@
-###DEC-049181-0-000-01-11-1960@@@
-
 DECRETO Nº 49.181, DE 01 DE NOVEMBRO DE 1960.
 
 Transfere à Administração do Serviço de Alimentação da Previdência Social o Restaurante Central dos Estudantes, instalado na Ponta do Calabouço.

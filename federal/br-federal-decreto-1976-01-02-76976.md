@@ -1,5 +1,3 @@
-###DEC-076976-0-000-02-01-1976@@@
-
 DECRETO Nº 76.976, DE 2 DE JANEIRO DE 1976.
 
 Concede a Companhia Têxtil Santa Elisabeth autorização para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento fabril que menciona.

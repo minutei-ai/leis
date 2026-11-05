@@ -161,7 +161,3 @@ Instituto de Desenvolvimento do Norte e Nordeste de Minas Gerais – IDENE
 Cargos de provimento em comissão da Estrutura Básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS VENCIMENTO BÁSICO EM R$ Diretoria-Geral Diretor-Geral 01 1.784,00 Gabinete Chefe de Gabinete 01 1.338,00 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1.338,00 Diretoria de Coordenação de Programas e Projetos Diretor 01 1.338,00 Diretoria de Captação e Qualificação Diretor 01 1.338,00 Diretoria Regional do Norte de Minas Diretor 01 1.338,00 Diretoria Regional do Vale do Jequitinhonha Diretor 01 1.338,00 Diretoria Regional do Vale do Mucuri Diretor 01 1.338,00 Assessoria de Integração Regional Assessor-Chefe 01 1.338,00 Assessoria Jurídica Assessor Jurídico 01 1.338,00 Auditoria Seccional Auditor Seccional 01 1.250,00 Gabinete Assessor de Comunicação Social 01 1.250,00
-
-\======================================
-
-Data da última atualização: 25/1/2011.

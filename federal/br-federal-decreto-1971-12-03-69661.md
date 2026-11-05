@@ -1,5 +1,3 @@
-###DEC-069661-0-000-03-12-1971@@@
-
 DECRETO Nº 69.661 - DE 3 DE DEZEMBRO DE 1971
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Saúde.

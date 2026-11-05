@@ -1,5 +1,3 @@
-###DEC-091533-0-000-15-08-1985@@@
-
 Decreto nº 91.533, de 15 de agosto de 1985
 
 Extingue, no Ministério dos Transportes, a Comissão Coordenadora da Política de Compra de Locomativas-CCPCL, e dá outras providências.

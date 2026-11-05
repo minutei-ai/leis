@@ -1,5 +1,3 @@
-###DEC-074711-0-000-17-10-1974@@@
-
 DECRETO Nº 74.711, DE 17 DE OUTUBRO DE 1974
 
 Autoriza o funcionamento da habilitação em Comércio Exterior no curso de Administração e Ciências Contábeis "Tibiriçá", mantida pela Associação "Tibiriçá" de Educação, com sede na cidade de São Paulo, Estado de São  Paulo.

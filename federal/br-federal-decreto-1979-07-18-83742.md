@@ -1,5 +1,3 @@
-###DEC-083742-0-000-18-07-1979@@@
-
 Decreto nº 83.742, de 18 de julho de 1979
 
 Concede à Cerâmica Carpi S.A. o direito de lavrar argila no Município de Itu, Estado de São Paulo.

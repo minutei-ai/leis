@@ -1,5 +1,3 @@
-###DEC-049672-0-000-31-12-1960@@@
-
 DECRETO Nº 49.672, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Almir Leal a pesquisar areais ilmeníticios no município de Tutóia, Estado do Maranhão.

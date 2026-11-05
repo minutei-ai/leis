@@ -1,5 +1,3 @@
-###DEC-053398-0-000-06-01-1964@@@
-
 DECRETO Nº 53.398, DE 6 DE JANEIRO DE 1964.
 
 Alteração do Regulamento para a Diretoria do Pessoal da Marinha.

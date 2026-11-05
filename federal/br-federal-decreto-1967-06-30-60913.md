@@ -1,5 +1,3 @@
-###DEC-060913-0-000-30-06-1967@@@
-
 DECRETO Nº 60.913, DE 30 DE JUNHO DE 1967.
 
 Retifica o relacionamento que acompanhou o art. 2º do Decreto número 60.508, de 27 de março de 1967, e dá outras providências.

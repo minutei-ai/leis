@@ -1,5 +1,3 @@
-###DEC-049729-0-000-31-12-1960@@@
-
 decreto nº 49.729, de 31 de dezembro de 1960.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Companhia Mista de Energia Elétrica de Jussara.

@@ -34,19 +34,24 @@ X – (VETADO);
 
 XI – (VETADO).
 
-XII – estimular a disponibilização de espaços voltados ao atendimento de altas habilidades/superdotação dos alunos matriculados no sistema público de ensino, com o uso de recursos didáticos e pedagógicos para identificar, atender e estimular seu potencial criativo;<br>
+XII – estimular a disponibilização de espaços voltados ao atendimento de altas habilidades/superdotação dos alunos matriculados no sistema público de ensino, com o uso de recursos didáticos e pedagógicos para identificar, atender e estimular seu potencial criativo;
+
 \- [Acrescido pela Lei nº 23.400, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110656/lei-23400).
 
-XIII – estimular a identificação das necessidades educacionais especiais dos alunos, bem como o atendimento suplementar para que explorem áreas de interesse, aprofundem conhecimentos já adquiridos e desenvolvam habilidades relacionadas à criatividade, à resolução de problemas e ao raciocínio lógico, além de habilidades sociais e emocionais, propiciando vivenciarem o processo de aprendizagem com motivação;<br>
+XIII – estimular a identificação das necessidades educacionais especiais dos alunos, bem como o atendimento suplementar para que explorem áreas de interesse, aprofundem conhecimentos já adquiridos e desenvolvam habilidades relacionadas à criatividade, à resolução de problemas e ao raciocínio lógico, além de habilidades sociais e emocionais, propiciando vivenciarem o processo de aprendizagem com motivação;
+
 \- [Acrescido pela Lei nº 23.400, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110656/lei-23400).
 
-XIV – orientar e apoiar a família, com vistas à compreensão do comportamento dos seus filhos e às condutas educativas dos pais, melhorando as relações interpessoais, criando um ambiente acolhedor e incentivando o desenvolvimento das potencialidades dos alunos;<br>
+XIV – orientar e apoiar a família, com vistas à compreensão do comportamento dos seus filhos e às condutas educativas dos pais, melhorando as relações interpessoais, criando um ambiente acolhedor e incentivando o desenvolvimento das potencialidades dos alunos;
+
 \- [Acrescido pela Lei nº 23.400, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110656/lei-23400).
 
-XV – estimular a elaboração de um plano de desenvolvimento individual e escolar para as altas habilidades ou superdotação, bem como de um plano de ensino individualizado;<br>
+XV – estimular a elaboração de um plano de desenvolvimento individual e escolar para as altas habilidades ou superdotação, bem como de um plano de ensino individualizado;
+
 \- [Acrescido pela Lei nº 23.400, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110656/lei-23400).
 
-XVI – estimular a atenção para altas habilidades/superdotação e habilidades sociais na saúde mental e para melhora da qualidade de vida.<br>
+XVI – estimular a atenção para altas habilidades/superdotação e habilidades sociais na saúde mental e para melhora da qualidade de vida.
+
 \- [Acrescido pela Lei nº 23.400, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110656/lei-23400).
 
 Parágrafo único. O Poder Executivo poderá realizar parcerias com instituições universitárias para a oferta de atendimento suplementar, bem como com institutos voltados ao desenvolvimento, promoção e pesquisa sobre atendimento a pessoas com altas habilidades e superdotação, considerando a legislação em vigor, incluindo as diretrizes do Conselho Nacional de Educação sobre a matéria.

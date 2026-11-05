@@ -1,5 +1,3 @@
-###DEL-004107-0-000-11-02-1942@@@
-
 DECRETO-LEI N. 4.107 – DE 11 DE FEVEREIRO DE 1942
 
 Reorganiza a Recebedoria do Distrito Federal e dá outras providências

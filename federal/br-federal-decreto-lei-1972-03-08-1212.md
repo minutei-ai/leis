@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f327cab2-18e2-49a4-957c-501d5892b41a/texto#nowhere)
 
-###DEL-001212-0-000-08-03-1972@@@
-
 # DECRETO-LEI Nº 1.212, DE 8 DE MARÇO DE 1972
 
 Reajusta os vencimentos dos servidores da Secretaria Geral do Tribunal de Contas da União e dá outras providências.

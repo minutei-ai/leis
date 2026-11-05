@@ -1,5 +1,3 @@
-###DEC-054775-0-000-30-10-1964@@@
-
 decreto nº 54.775, de 30 de outubro de 1964.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Educação e Cultura, e dá outras providências.

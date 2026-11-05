@@ -1,5 +1,3 @@
-###DEC-006630-0-000-04-11-2008@@@
-
 DECRETO Nº 6.630, DE 4 DE NOVEMBRO DE 2008.
 
 Dá nova redação aos arts. 5o e 6o do Decreto no 6.226, de 4 de outubro de 2007, que institui o Programa Mais Cultura.

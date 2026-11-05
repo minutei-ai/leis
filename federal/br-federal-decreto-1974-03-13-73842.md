@@ -1,5 +1,3 @@
-###DEC-073842-0-000-13-03-1974@@@
-
 DECRETO Nº 73.842, DE 13 DE MARÇO DE 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

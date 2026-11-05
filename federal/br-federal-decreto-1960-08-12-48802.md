@@ -1,5 +1,3 @@
-###DEC-048802-0-000-12-08-1960@@@
-
 Decreto nº 48.802, de 12 de agôsto de 1960.
 
 Declara caduco o Decreto nº 33.723, de 3 de setembro de 1953.

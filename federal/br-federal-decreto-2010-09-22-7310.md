@@ -1,5 +1,3 @@
-###DEC-007310-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.310, DE 22 DE SETEMBRO DE 2010.
 
 Dá nova redação ao § 5~~º~~ do art. 2~~º~~ do Decreto n~~º~~ 5.685, de 25 de janeiro de 2006, que institui o Comitê de Regulação e Fiscalização dos Mercados Financeiro, de Capitais, de Seguros, de Previdência e Capitalização - Coremec.

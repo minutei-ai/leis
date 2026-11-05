@@ -1,5 +1,3 @@
-###DEC-083330-0-000-16-04-1979@@@
-
 decreto nº 83.330, de 16 de abril de 1979.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade de Ciências Administrativas, Contábeis e Econômicas, com sede na cidade de Teresópolis, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-002676-0-000-04-10-1940@@@
-
 DECRETO-LEI N. 2.676 – DE 4 DE OUTUBRO DE 1940
 
 Dispõe sobre a aplicação de penalidade por infração do disposto nos arts. 202, § 3º, e 163 do Código de Águas

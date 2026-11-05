@@ -1,5 +1,3 @@
-###DEC-059864-0-000-26-12-1966@@@
-
 DECRETO Nº 59.864, DE 26 DE DEZEMBRO DE 1966.
 
 Aprova o enquadramento dos professôres fundadores das Faculdades de Direito de Cuiabá e de Odontologia de Diamantina em cargos de Professor de Ensino Superior, do Quadro de Pessoal – Parte Suplementar do Ministério da Educação e Cultura e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-090376-0-000-29-10-1984@@@
-
 Decreto nº 90.376, de 29 de outubro de 1984.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de São Félix do Araguaia, no Estado de Mato Grosso.

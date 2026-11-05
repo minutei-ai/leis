@@ -1,5 +1,3 @@
-###DEC-050594-0-000-15-05-1961@@@
-
 DECRETO Nº 50.594, DE 15 DE MAIO DE 1961.
 
 Acrescenta parágrafo ao art. 58 do Regulamento aprovado pelo Decreto nº 47.890, de 9 de março de 1960.

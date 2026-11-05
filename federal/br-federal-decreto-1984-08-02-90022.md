@@ -1,5 +1,3 @@
-###DEC-090022-0-000-02-08-1984@@@
-
 decreto nº 90.022, de 02 de agosto de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de Furnas-Centrais Elétricas S.A., no Estado de Goiás.

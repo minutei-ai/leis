@@ -16,80 +16,928 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO)</td><td style=" width:85px;    ">10 303 1043 2501</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.249.746,56</td><td style=" width:85px;    ">R$ 5.170.786,46</td><td style=" width:85px;    ">R$ 6.420.533,02</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">17130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 38.291,67</td><td style=" width:85px;    ">R$ 181.567,82</td><td style=" width:85px;    ">R$ 219.859,49</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4093-METROBUS TRANSPORTE COLETIVO S/A</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">15 122 4100 4144</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 3.400.000,00</td><td style=" width:85px;    ">R$ 3.400.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">BOLSA ESTUDO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 1008 2549</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 7.797.344,18</td><td style=" width:85px;    ">R$ 13.717.193,00</td><td style=" width:85px;    ">R$ 21.514.537,18</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA MANUTENÇÃO DA INFRAESTRUTURA MUNICIPAL - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">15 451 1055 2536</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 143.624,63</td><td style=" width:85px;    ">R$ 3.100.000,00</td><td style=" width:85px;    ">R$ 3.243.624,63</td></tr><tr><td style=" width:85px;    ">MONITORAMENTO DE FAIXAS DE ROLAMENTO - GOINFRA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2540</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 268.667,39</td><td style=" width:85px;    ">R$ 1.900.000,00</td><td style=" width:85px;    ">R$ 2.168.667,39</td></tr></tbody></table>
+**SALDO ATUALIZADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO)
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 18.887.979,46</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 3.400.000,00</td></tr><tr><td style=" width:340px;    ">17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP</td><td style=" width:340px;    ">R$ 181.567,82</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 27.469.547,28</td></tr></tbody></table>
+10 303 1043 2501
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.249.746,56
+
+R$ 5.170.786,46
+
+R$ 6.420.533,02
+
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3177
+
+17130000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 38.291,67
+
+R$ 181.567,82
+
+R$ 219.859,49
+
+**4093-METROBUS TRANSPORTE COLETIVO S/A**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+15 122 4100 4144
+
+15010100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 3.400.000,00
+
+R$ 3.400.000,00
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+BOLSA ESTUDO - ENSINO MEDIO
+
+12 362 1008 2549
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 7.797.344,18
+
+R$ 13.717.193,00
+
+R$ 21.514.537,18
+
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DA MANUTENÇÃO DA INFRAESTRUTURA MUNICIPAL - GOIÁS EM MOVIMENTO
+
+15 451 1055 2536
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 143.624,63
+
+R$ 3.100.000,00
+
+R$ 3.243.624,63
+
+MONITORAMENTO DE FAIXAS DE ROLAMENTO - GOINFRA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2540
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 268.667,39
+
+R$ 1.900.000,00
+
+R$ 2.168.667,39
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 18.887.979,46
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 3.400.000,00
+
+17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP
+
+R$ 181.567,82
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 5.000.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 27.469.547,28
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 14.459.412,57</td><td style=" width:85px;    ">R$ 5.170.786,46</td><td style=" width:85px;    ">R$ 5.170.786,46</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 5.243.641,15</td><td style=" width:85px;    ">R$ 181.567,82</td><td style=" width:85px;    ">R$ 181.567,82</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE PENSÕES ESPECIAIS</td><td style=" width:85px;    ">09 274 0200 7250</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 13.055.574,18</td><td style=" width:85px;    ">R$ 3.400.000,00</td><td style=" width:85px;    ">R$ 3.400.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td style=" width:85px;    ">10 305 1043 2519</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 15.270,33</td><td style=" width:85px;    ">R$ 15.270,33</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.967.253,27</td><td style=" width:85px;    ">R$ 1.967.253,27</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DO HOSPITAL DE ÁGUAS LINDAS DE GOIÁS</td><td style=" width:85px;    ">10 302 1043 3285</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 332.763,49</td><td style=" width:85px;    ">R$ 332.763,49</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA</td><td style=" width:85px;    ">10 302 1043 3284</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.387.272,21</td><td style=" width:85px;    ">R$ 2.387.272,21</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE &nbsp;PROCEDIMENTOS E ENSAIOS LABORATORIAIS PARA OS SERVIÇOS DE VIGILÂNCIA EM SAÚDE</td><td style=" width:85px;    ">10 302 1043 2521</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 3.609,28</td><td style=" width:85px;    ">R$ 3.609,28</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA</td><td style=" width:85px;    ">10 302 1043 3348</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.542.570,54</td><td style=" width:85px;    ">R$ 2.542.570,54</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td style=" width:85px;    ">10 305 1043 2519</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 661.649,34</td><td style=" width:85px;    ">R$ 661.649,34</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES</td><td style=" width:85px;    ">10 302 1043 2522</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 82.051,58</td><td style=" width:85px;    ">R$ 82.051,58</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2498</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 51.275,74</td><td style=" width:85px;    ">R$ 51.275,74</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES</td><td style=" width:85px;    ">10 302 1043 2522</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 394.680,92</td><td style=" width:85px;    ">R$ 394.680,92</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 16.737,64</td><td style=" width:85px;    ">R$ 16.737,64</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO / AMPLIAÇÃO DE UNIDADE DA PMGO</td><td style=" width:85px;    ">06 181 1051 3181</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 69.842,89</td><td style=" width:85px;    ">R$ 69.842,89</td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE VIATURA PELA POLÍCIA MILITAR</td><td style=" width:85px;    ">06 181 1051 2484</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 306.578,24</td><td style=" width:85px;    ">R$ 306.578,24</td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE SEMOVENTE</td><td style=" width:85px;    ">06 181 1051 2359</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 24,64</td><td style=" width:85px;    ">R$ 24,64</td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE PENSÕES ESPECIAIS</td><td style=" width:85px;    ">09 274 0200 7250</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.939,75</td><td style=" width:85px;    ">R$ 10.939,75</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 137.867,70</td><td style=" width:85px;    ">R$ 137.867,70</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTO / MATERIAL DE PROTEÇÃO E SEGURANÇA INDIVIDUAL &nbsp;PARA PMGO</td><td style=" width:85px;    ">06 181 1051 2355</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 100.466,32</td><td style=" width:85px;    ">R$ 100.466,32</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2100 - SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL</b><br>2101 - GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL</td></tr></tbody></table>
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 500.000,00</td></tr></tbody></table>
+10 302 1043 2516
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE MATRÍCULA EM CURSOS TÉCNICOS NOS COLÉGIOS TECNOLÓGICOS DE GOIÁS - COTECS</td><td style=" width:85px;    ">12 363 1054 2566</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">ATENDIMENTO AO ARTESÃO</td><td style=" width:85px;    ">11 334 1054 2445</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+3 - OUTRAS DESPESAS CORRENTES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PLANO DE FORTALECIMENTO - &nbsp;DISPONIBILIZAÇÃO DE LEITOS DE UTI</td><td style=" width:85px;    ">10 302 1043 2518</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.090.493,51</td><td style=" width:85px;    ">R$ 2.090.493,51</td></tr></tbody></table>
+R$ 14.459.412,57
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA</b><br>4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA</td></tr></tbody></table>
+R$ 5.170.786,46
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS</td><td style=" width:85px;    ">15 451 1055 3351</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 407.367,94</td><td style=" width:85px;    ">R$ 407.367,94</td></tr></tbody></table>
+R$ 5.170.786,46
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">COORDENAÇÃO DO PROGRAMA &nbsp;NACIONAL DE IMUNIZAÇÃO &nbsp;EM ÂMBITO ESTADUAL</td><td style=" width:85px;    ">10 305 1043 2512</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.617.327,98</td><td style=" width:85px;    ">R$ 1.617.327,98</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MINEIROS</td><td style=" width:85px;    ">10 302 1043 3349</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.149,69</td><td style=" width:85px;    ">R$ 1.149,69</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSERVAÇÃO DE SINALIZAÇÃO VIÁRIA PELA GOINFRA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2534</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.478.502,00</td><td style=" width:85px;    ">R$ 3.000.000,00</td><td style=" width:85px;    ">R$ 3.000.000,00</td></tr><tr><td style=" width:85px;    ">MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2538</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.000.000,00</td><td style=" width:85px;    ">R$ 2.000.000,00</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 18.887.979,46</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 3.400.000,00</td></tr><tr><td style=" width:340px;    ">17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP</td><td style=" width:340px;    ">R$ 181.567,82</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 27.469.547,28</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 18.887.979,46</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 3.400.000,00</td></tr><tr><td style=" width:340px;    ">17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP</td><td style=" width:340px;    ">R$ 181.567,82</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 27.469.547,28</td></tr></tbody></table>
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17130000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 5.243.641,15
+
+R$ 181.567,82
+
+R$ 181.567,82
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1704 - ENCARGOS ESPECIAIS
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE PENSÕES ESPECIAIS
+
+09 274 0200 7250
+
+15010100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 13.055.574,18
+
+R$ 3.400.000,00
+
+R$ 3.400.000,00
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS
+
+10 305 1043 2519
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 15.270,33
+
+R$ 15.270,33
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.967.253,27
+
+R$ 1.967.253,27
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DO HOSPITAL DE ÁGUAS LINDAS DE GOIÁS
+
+10 302 1043 3285
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 332.763,49
+
+R$ 332.763,49
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA
+
+10 302 1043 3284
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 2.387.272,21
+
+R$ 2.387.272,21
+
+REALIZAÇÃO DE  PROCEDIMENTOS E ENSAIOS LABORATORIAIS PARA OS SERVIÇOS DE VIGILÂNCIA EM SAÚDE
+
+10 302 1043 2521
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 3.609,28
+
+R$ 3.609,28
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA
+
+10 302 1043 3348
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 2.542.570,54
+
+R$ 2.542.570,54
+
+PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS
+
+10 305 1043 2519
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 661.649,34
+
+R$ 661.649,34
+
+REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES
+
+10 302 1043 2522
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 82.051,58
+
+R$ 82.051,58
+
+REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE
+
+10 302 1043 2498
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 51.275,74
+
+R$ 51.275,74
+
+REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES
+
+10 302 1043 2522
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 394.680,92
+
+R$ 394.680,92
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 16.737,64
+
+R$ 16.737,64
+
+CONSTRUÇÃO / AMPLIAÇÃO DE UNIDADE DA PMGO
+
+06 181 1051 3181
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 69.842,89
+
+R$ 69.842,89
+
+DISPONIBILIZAÇÃO DE VIATURA PELA POLÍCIA MILITAR
+
+06 181 1051 2484
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 306.578,24
+
+R$ 306.578,24
+
+DISPONIBILIZAÇÃO DE SEMOVENTE
+
+06 181 1051 2359
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 24,64
+
+R$ 24,64
+
+PAGAMENTO DE PENSÕES ESPECIAIS
+
+09 274 0200 7250
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.939,75
+
+R$ 10.939,75
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 137.867,70
+
+R$ 137.867,70
+
+AQUISIÇÃO DE EQUIPAMENTO / MATERIAL DE PROTEÇÃO E SEGURANÇA INDIVIDUAL  PARA PMGO
+
+06 181 1051 2355
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 100.466,32
+
+R$ 100.466,32
+
+**2100 - SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL**
+2101 - GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+REALIZAÇÃO DE MATRÍCULA EM CURSOS TÉCNICOS NOS COLÉGIOS TECNOLÓGICOS DE GOIÁS - COTECS
+
+12 363 1054 2566
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+ATENDIMENTO AO ARTESÃO
+
+11 334 1054 2445
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PLANO DE FORTALECIMENTO -  DISPONIBILIZAÇÃO DE LEITOS DE UTI
+
+10 302 1043 2518
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 2.090.493,51
+
+R$ 2.090.493,51
+
+**4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA**
+4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS
+
+15 451 1055 3351
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 407.367,94
+
+R$ 407.367,94
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+COORDENAÇÃO DO PROGRAMA  NACIONAL DE IMUNIZAÇÃO  EM ÂMBITO ESTADUAL
+
+10 305 1043 2512
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 1.617.327,98
+
+R$ 1.617.327,98
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MINEIROS
+
+10 302 1043 3349
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 1.149,69
+
+R$ 1.149,69
+
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSERVAÇÃO DE SINALIZAÇÃO VIÁRIA PELA GOINFRA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2534
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.478.502,00
+
+R$ 3.000.000,00
+
+R$ 3.000.000,00
+
+MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2538
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 2.000.000,00
+
+R$ 2.000.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 18.887.979,46
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 3.400.000,00
+
+17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP
+
+R$ 181.567,82
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 5.000.000,00
+
+**TOTAL**
+
+R$ 27.469.547,28
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 18.887.979,46
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 3.400.000,00
+
+17130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP
+
+R$ 181.567,82
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 5.000.000,00
+
+**TOTAL**
+
+R$ 27.469.547,28

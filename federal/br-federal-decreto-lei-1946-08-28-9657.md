@@ -1,5 +1,3 @@
-###DEL-009657-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.657 – DE 28 DE AGÔSTO DE 1946
 
 Altera, com redução de despesa, os Quadros Permanente e Suplementar do Ministério da Fazenda e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082561-0-000-01-11-1978@@@
-
 Decreto nº 82.561, de 01 de novembro de 1978.
 
 Promulga o Acordo Comercial entre o Governo da República Federativa do Brasil e o Governo da Austrália.
@@ -116,7 +114,17 @@ Em fé do que, os abaixo assinados, devidamente autorizados pelos respectivos Go
 
 Feito em Camberra, aos 23 dias de fevereiro de mil novecentos e setenta e oito, em dois exemplares, nas línguas portuguesa e inglesa, sendo cada texto igualmente autêntico.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td><td style="width:134.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Federativa do Brasil</span></p></td><td style="width:134.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Austrália</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ramiro Elysio Saraiva Guerreiro</span></p></td><td style="width:134.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">John Douglas Anthony</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da
+
+Federativa do Brasil
+
+Austrália
+
+Ramiro Elysio Saraiva Guerreiro
+
+John Douglas Anthony
 
 NOTA INTERPRETATIVA
 
@@ -128,6 +136,16 @@ Com relação ao Acordo Comercial entre o Governo da República Federativa do Br
 
 3\) O vocábulo "serviços" constante dos artigos I e IX do Acordo não deve ser entendido como abrangendo serviços de transporte.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Federativa do Brasil</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Austrália</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ramiro Elysio Saraiva Guerreiro</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Johh Douglas Anthony</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da
+
+Federativa do Brasil
+
+Austrália
+
+Ramiro Elysio Saraiva Guerreiro
+
+Johh Douglas Anthony
 
 Camberra, em 23 de fevereiro de 1978

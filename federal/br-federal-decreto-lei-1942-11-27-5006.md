@@ -1,5 +1,3 @@
-###DEL-005006-0-000-27-11-1942@@@
-
 DECRETO-LEI N. 5.006 – DE 27 DE NOVEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 20.000,00, para atender às despesas que especifica

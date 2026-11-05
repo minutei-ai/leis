@@ -1,5 +1,3 @@
-###DEL-003263-0-000-12-05-1941@@@
-
 DECRETO-LEI N. 3.263 – DE 12 DE MAIO DE 1941
 
 Modifica disposições do decreto-lei nº 279, de 16 de fevereiro de 1938.

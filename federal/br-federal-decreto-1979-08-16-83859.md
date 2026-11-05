@@ -1,5 +1,3 @@
-###DEC-083859-0-000-16-08-1979@@@
-
 Decreto nº 83.859, de 16 de agosto de 1979.
 
 Transfere da Madeireira Nacional S.A., atual MANASA - Madeireira Nacional S.A. para "FIBRART" - Embalagens Ltda. a concessão para o aproveitamento da energia hidráulica, para uso exclusivo, no Município de Guarapuava, Estado do Paraná.

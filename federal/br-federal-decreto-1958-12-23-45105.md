@@ -1,5 +1,3 @@
-###DEC-045105-0-000-23-12-1958@@@
-
 DECRETO Nº 45.105, DE 23 DE DEZEMBRO DE 1958.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia Sul Sergipana de Eletricidade (Sulgipe).

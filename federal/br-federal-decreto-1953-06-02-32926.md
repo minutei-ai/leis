@@ -1,24 +1,22 @@
-###DEC-032926-0-000-02-06-1953@@@
+**DECRETO Nº 32.926 DE 02 DE JUNHO DE 1953**
 
-<strong>DECRETO Nº 32.926 DE 02 DE JUNHO DE 1953</strong>
+***Retifica o Decreto nº 32.494, de 31 de março de 1953, que declarou de utilidade pública a faixa de terra destinada a passagem da linha tronco de transmissão da Companhia Hidro Elétrica do São Francisco, de Paulo Afonso a Salvador( Linha Sul).***
 
-<em><strong>Retifica o Decreto nº 32.494, de 31 de março de 1953, que declarou de utilidade pública a faixa de terra destinada a passagem da linha tronco de transmissão da Companhia Hidro Elétrica do São Francisco, de Paulo Afonso a Salvador( Linha Sul).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição e tendo em vista o dispôsto no art. 151, letras “ b” e “c” do código de Águas, e no Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidro Elétrica do São Francisco, concessionária do aproveitamento da energia hidráulica do  São Francisco, concessionária do prometimento da energia  hidráulica do rio São Francisco, no trecho compreendido entre Juazeiro e Piranhas, em virtude do Decreto nº 19.706, de 3 de outubro de 1945, revalidado pelo Decreto nº 27.723, de 23 de janeiro de 1950, decreto:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição e tendo em vista o dispôsto no art. 151, letras “ b” e “c” do código de Águas, e no Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidro Elétrica do São Francisco, concessionária do aproveitamento da energia hidráulica do  São Francisco, concessionária do prometimento da energia  hidráulica do rio São Francisco, no trecho compreendido entre Juazeiro e Piranhas, em virtude do Decreto nº 19.706, de 3 de outubro de 1945, revalidado pelo Decreto nº 27.723, de 23 de janeiro de 1950, decreto:
+**Art**. 1º É declarada de utilidade pública a faxa de terra, destinada a  passagem área ou subterrânea, da linha troco de transmissão de energia elétrica de KV. Da Companhia Hidro Elétrico do São Francisco , de, Paulo Afonso a Salvador, com 100 metros de largura na extensão de 450km e 120 metros no trecho restante com a extensão de 6.150 metros.
 
-<strong>Art</strong>. 1º É declarada de utilidade pública a faxa de terra, destinada a  passagem área ou subterrânea, da linha troco de transmissão de energia elétrica de KV. Da Companhia Hidro Elétrico do São Francisco , de, Paulo Afonso a Salvador, com 100 metros de largura na extensão de 450km e 120 metros no trecho restante com a extensão de 6.150 metros.
+**Art**. A faixa de terra descrita no artigo anterior compreendeste as áreas constantes da planta aprovada pelo Ministério da Agricultura, situados nos Estados de Alagoas, Bahia e Sergipe, de propriedade atribuída as pessoas a seguir relacionadas , da ordem  em que se encontra ao longo do traço da linha:
 
-<strong>Art</strong>. A faixa de terra descrita no artigo anterior compreendeste as áreas constantes da planta aprovada pelo Ministério da Agricultura, situados nos Estados de Alagoas, Bahia e Sergipe, de propriedade atribuída as pessoas a seguir relacionadas , da ordem  em que se encontra ao longo do traço da linha:
+**ALAGÔAS**
 
-<strong>ALAGÔAS</strong>
-
-<em>Município de Águas Branca</em>
+*Município de Águas Branca*
 
 1\. Parque Nacional de Paulo Afonso.
 
 BAHIA
 
-<em>Município de Glória</em>
+*Município de Glória*
 
 1 - Parque Nacional de Paulo Afonso.
 
@@ -38,15 +36,15 @@ BAHIA
 
 9 - Dr. José Gonçalves de sá
 
-<em>Município de Geremoado</em>
+*Município de Geremoado*
 
 1 - Antônio Gomes da Silva.
 
 2 - Espólio de Antonio Gomes deCarvalho.
 
-<em>SERGIPE</em>
+*SERGIPE*
 
-<em>Município de Pôrto da Fôlha</em>
+*Município de Pôrto da Fôlha*
 
 12-João Geraldo Valadão.
 
@@ -80,13 +78,13 @@ BAHIA
 
 27- Manuel Gomes dos Santos.
 
-<em>BAHIA</em>
+*BAHIA*
 
 Municipío de Gerenmoabo
 
 28-João Costa Carvalho e Marta José Carvalho.
 
-<em>SERGIPE</em>
+*SERGIPE*
 
 Municipío de Nossa Senhora da Glória
 
@@ -118,7 +116,7 @@ Municipío de Nossa Senhora da Glória
 
 Franco.
 
-<em>Municipío de Frei Paulo</em>
+*Municipío de Frei Paulo*
 
 43-Vencesiau José da Costa
 
@@ -258,7 +256,7 @@ Albino José Matias.
 
 108-Firmina Batista de Jesus.
 
-<em>Município de Frei Paulo</em>
+*Município de Frei Paulo*
 
 109-José Pedro dos Santos.
 
@@ -266,7 +264,7 @@ Albino José Matias.
 
 111-Timóteo Rodrigues da Mota.
 
-<em>Município de Rodrigues</em>
+*Município de Rodrigues*
 
 112- Espólio de Ernesto Francisco de Santana
 
@@ -278,7 +276,7 @@ Albino José Matias.
 
 116-José Asquino Santana.
 
-<em>Minucípio de Frei</em> Paulo
+*Minucípio de Frei* Paulo
 
 117-João Manuel de Santana
 
@@ -298,7 +296,7 @@ Albino José Matias.
 
 1258- Cícero Manuel de Santana.
 
-<em>Município de Itabaiana.</em>
+*Município de Itabaiana.*
 
 126- Miiguel Antônio dos Santos
 
@@ -312,7 +310,7 @@ Albino José Matias.
 
 131- José da Silva Passos.
 
-<em>Município de Ribeirópolis</em>
+*Município de Ribeirópolis*
 
 132- José Rezende Filho.
 
@@ -320,7 +318,7 @@ Albino José Matias.
 
 134-Pedro Ferreira Alves.
 
-<em>Município de Itabaiana.</em>
+*Município de Itabaiana.*
 
 135- José da Silva Passos.
 
@@ -418,7 +416,7 @@ Albino José Matias.
 
 182-João Tavares da Costa.
 
-<em>Município de Campo do Brito</em>
+*Município de Campo do Brito*
 
 183-Manuel Francisco Teles
 
@@ -510,7 +508,7 @@ Albino José Matias.
 
 227- José de Faro Rollemberg.
 
-<em>Município de Lagorto</em>
+*Município de Lagorto*
 
 227-José de Farro Rollemberg.
 
@@ -572,7 +570,7 @@ Albino José Matias.
 
 256 – Marciano José Barbosa.
 
-<em>Município de Salgado</em>
+*Município de Salgado*
 
 256 – Marciano José Barbosa.
 
@@ -586,7 +584,7 @@ Albino José Matias.
 
 261 – Antônio Alves Costa.
 
-<em>Município de Buquim</em>
+*Município de Buquim*
 
 2662 – José Francisco de Mendonça e Pedro Francisco de Mendonça.
 
@@ -658,7 +656,7 @@ Albino José Matias.
 
 296 – Manuel Araújo Bessa.
 
-<em>Município de Arauá</em>
+*Município de Arauá*
 
 296 – Manuel Araújo Bessa.
 
@@ -680,7 +678,7 @@ Albino José Matias.
 
 305 – Otoniel Silveira Nascimento.
 
-<em>Município de Iatabaianinha</em>
+*Município de Iatabaianinha*
 
 305 – Otoniel Silveira Nascimento.
 
@@ -824,9 +822,9 @@ Albino José Matias.
 
 377 – Joaquim Alves Limeira.
 
-<strong>BAHIA</strong>
+**BAHIA**
 
-<em>Município de Rio Real</em>
+*Município de Rio Real*
 
 378 – João Bispo dos Santos.
 
@@ -834,15 +832,15 @@ Albino José Matias.
 
 380 – Benjamim Alves da Fonseca.
 
-<strong>SERGIPE</strong>
+**SERGIPE**
 
-<em>Município de Itabaianinha</em>
+*Município de Itabaianinha*
 
 381 – Otávio Sousa Dantas de Carvalho.
 
-<strong>BAHIA</strong>
+**BAHIA**
 
-<em>Município de Rio Real</em>
+*Município de Rio Real*
 
 382 – Maria Pureza do Amor.
 
@@ -916,7 +914,7 @@ Albino José Matias.
 
 418 – João Pereira dos Santos.
 
-<em>Município de Itapicuru</em>
+*Município de Itapicuru*
 
 419 – Hermógenes Ferreira Lima e Filhos.
 
@@ -924,7 +922,7 @@ Albino José Matias.
 
 421Romão Dias da Silva.
 
-<em>Município de Esplanada.</em>
+*Município de Esplanada.*
 
 420 – Claudiana Simões de Fartas.
 
@@ -1052,7 +1050,7 @@ Albino José Matias.
 
 482 – Mâncio Pimentel Sampaio.
 
-<em>Município de Entre Rios</em>
+*Município de Entre Rios*
 
 483 – Sinfrônio da Rocha Ribeiro.
 
@@ -1112,7 +1110,7 @@ Albino José Matias.
 
 511 –Casemiro Bispo dos Santos.
 
-<em>Município de Alagoinhas</em>
+*Município de Alagoinhas*
 
 512 – Terras devolutas do Estado.
 
@@ -1160,7 +1158,7 @@ Albino José Matias.
 
 534 – Espólio de Gabriel Ferreira de Santana.
 
-<em>Município de Catu</em>
+*Município de Catu*
 
 535 – Ilarindo de Carvalho Barros.
 
@@ -1204,7 +1202,7 @@ Albino José Matias.
 
 555 – Espólio do Dr, Antônio Claon de Brito.
 
-<em>Município de Pojuca</em>
+*Município de Pojuca*
 
 556 – Dr. Dilson Vasconcelos Aguiar.
 
@@ -1212,13 +1210,13 @@ Albino José Matias.
 
 558 – João de Sousa Freire.
 
-<em>Município de São Sebastião</em>
+*Município de São Sebastião*
 
 559 – João de Sousa Freire.
 
 560 – Espólio de Manuel Campos Montes Santo.
 
-<em>Município de Mata de São João</em>
+*Município de Mata de São João*
 
 561 – Espólio de Dr. Heitor Marback.
 
@@ -1238,7 +1236,7 @@ Albino José Matias.
 
 569 – João Saback de Oliveira.
 
-<em>Município de Camaçari</em>
+*Município de Camaçari*
 
 570 – Nelson Heitor Doria.
 
@@ -1270,7 +1268,7 @@ Albino José Matias.
 
 584 – Crinto Félix Martins.
 
-<em>Município de Salvador</em>
+*Município de Salvador*
 
 585 – Julieta Robato Plana.
 
@@ -1390,20 +1388,20 @@ Albino José Matias.
 
 643 – Francisco da Silva Lima Jorge
 
-<strong>Art</strong>. 3º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no art. 1º.
+**Art**. 3º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no art. 1º.
 
-<strong>Art</strong>. 4º Quando não fôr o necessário proceder-se á desapropriação do domínio pleno, fica constituída, em favor da mesma Companhia e para o fim indicado, a servidão necessária de praticar todos os atos de construção manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
+**Art**. 4º Quando não fôr o necessário proceder-se á desapropriação do domínio pleno, fica constituída, em favor da mesma Companhia e para o fim indicado, a servidão necessária de praticar todos os atos de construção manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
 
 § 1º Os proprietários das áreas de terras atingidas pelo õnus limitarão o uso e gôzo das mesmas ao que for compatível com a existência da servidão, abstendo-se, em conseqüência de praticar dentro das mesmas quaisquer atos que embaracem ou lhe causem dano, incluídos entre êles os de erguer construções ou de fazer plantações de elevado porte.
 
 § 2º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover, no caso de embaraço opôsto pelo proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento podendo utilizar-se, inclusive do processo da desapropriação, nos têrmos do artigo 40, do Decreto-lei número 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 5º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 5º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 6º Revogam-se as disposições em contrário, ficando retificado, com a promulgação dêste, o Decreto nº 32.494, de 31 de março de 1953.
+**Art**. 6º Revogam-se as disposições em contrário, ficando retificado, com a promulgação dêste, o Decreto nº 32.494, de 31 de março de 1953.
 
 Rio de Janeiro, 2 de junho de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Clefas.

@@ -1,5 +1,3 @@
-###DEC-070566-0-000-18-05-1972@@@
-
 DECRETO Nº 70.566, DE 18 DE MAIO DE 1972.
 
 Declara sem efeito o Decreto número 35.598 de 2 de junho de 1954.

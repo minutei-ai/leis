@@ -1,5 +1,3 @@
-###DEC-062374-0-000-08-03-1968@@@
-
 DECRETO Nº 62.374, DE 8 DE MARÇO DE 1968.
 
 Autoriza Companhia Siderúrgica Paulista – COSIPA a lavrar calcário, no Município de Itararé, Estado de São Paulo.

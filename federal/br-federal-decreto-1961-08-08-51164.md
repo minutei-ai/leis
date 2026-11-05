@@ -1,5 +1,3 @@
-###DEC-051164-0-000-08-08-1961@@@
-
 Decreto nº 51.164, de 8 de agôsto de 1961.
 
 Suprime cargos no Quadro do Pessoal do Instituto Nacional do Mate e dá outras providências.

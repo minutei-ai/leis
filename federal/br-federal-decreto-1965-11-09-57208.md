@@ -1,5 +1,3 @@
-###DEC-057208-0-000-09-11-1965@@@
-
 DECRETO Nº 57.208, DE 9 DE Novembro 1965.
 
 Prorroga o prazo de vigência do Grupo de Trabalho da Baixada Sul Riograndense, subordinada à Superintendência do Plano de Valorização Econômica da Região Fronteira Sudoeste do País.

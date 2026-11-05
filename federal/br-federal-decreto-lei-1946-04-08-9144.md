@@ -1,5 +1,3 @@
-###DEL-009144-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.144 – DE 8 DE ABRIL DE 1946
 
 Altera a redação da art. 13, do Decreto-lei n. 7.037, de 10 de Novembro de 1944, e dá outras providências.

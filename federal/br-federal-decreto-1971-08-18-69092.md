@@ -1,5 +1,3 @@
-###DEC-069092-0-000-18-08-1971@@@
-
 DECRETO Nº 69.092, DE 18 DE AGÔSTO DE 1971.
 
 Concede à empresa MINEBRA - Minérios Brasileiros S.A., Mineração e Industrialização o direito de lavrar dolomita, no município de Miracatú, Estado de São Paulo.

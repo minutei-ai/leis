@@ -114,4 +114,4 @@ JAIR MESSIAS BOLSONARO
 
 Abraham Bragança de Vasconcellos Weintraub
 
-Marcos César Pontes<br>
+Marcos César Pontes

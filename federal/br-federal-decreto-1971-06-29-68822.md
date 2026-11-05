@@ -1,5 +1,3 @@
-###DEC-068822-0-000-29-06-1971@@@
-
 DECRETO Nº 68.822 - DE 29 DE JUNHO DE 1971.
 
 Autoriza o funcionamento do Curso de Engenharia Mecânica da Faculdade de Mogi das Cruzes, sediada em Mogi das Cruzes, S.P.

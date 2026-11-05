@@ -1,5 +1,3 @@
-###DEC-078087-0-000-19-07-1976@@@
-
 DECRETO Nº 78.087, DE 19 DE JULHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos com benfeitorias, necessários a implantação da subestação denominada "Otacílio Costa", da Centrais Elétricas de Santa Catarina S.A. CELESC, no Estado de Santa Catarina.

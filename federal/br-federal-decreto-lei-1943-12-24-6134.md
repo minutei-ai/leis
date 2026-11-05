@@ -1,5 +1,3 @@
-###DEL-006134-0-000-24-12-1943@@@
-
 DECRETO‑LEI N. 6.134 – DE 24 DE DEZEMBRO DE 1943
 
 Autoriza a aquisição de terrenos na Ilha do Governador

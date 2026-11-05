@@ -1,5 +1,3 @@
-###DEC-060243-0-000-20-02-1967@@@
-
 DECRETO Nº 60.243, DE 20 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública, para a fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a faixa de terra necessária à complementação da área destinada à construção do Edifício Sede do 4º Distrito de Obras do Departamento Nacional de Obra Contra as Sêcas.

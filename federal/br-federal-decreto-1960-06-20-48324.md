@@ -1,5 +1,3 @@
-###DEC-048324-0-000-20-06-1960@@@
-
 Decreto nº 48.324, de 20 de junho de 1960.
 
 Concede equiparação aos cursos agrícolas técnicos de Zootecnia e de Lacticínios, do Instituto de Zootecnia e Indústrias Pecuárias “Fernando Costa”.

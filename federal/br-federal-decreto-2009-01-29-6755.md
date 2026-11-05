@@ -1,5 +1,3 @@
-###DEC-006755-0-000-29-01-2009@@@
-
 DECRETO Nº 6.755, DE 29 DE JANEIRO DE 2009.
 
 Institui a Política Nacional de Formação de Profissionais do Magistério da Educação Básica, disciplina a atuação da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior -CAPES no fomento a programas de formação inicial e continuada, e dá outras providências.

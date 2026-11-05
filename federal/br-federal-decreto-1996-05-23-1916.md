@@ -1,7 +1,3 @@
-1
-
-###DEC-001916-0-000-23-05-1996@@@
-
 DECRETO Nº 1.916, DE 23 DE MAIO DE 1996.
 
 Regulamenta o processo de escolha dos dirigentes de instituições federais de ensino superior, nos termos da Lei n° 9.192, de 21 de dezembro de 1995.

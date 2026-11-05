@@ -1,5 +1,3 @@
-###DEC-075411-0-000-25-02-1975@@@
-
 DECRETO Nº 75.411, DE 25 DE FEVEREIRO DE 1975.
 
 Autoriza o funcionamento das habilitações em Enfermagem Médico-Cirúrgica e em Licenciatura do Curso de Enfermagem e Obstetrícia, da Escola Paulista de Enfermagem, mantida pela Sociedade Paulista para o Desenvolvimento da Medicina, com sede na Cidade de São Paulo, Estado de São Paulo.

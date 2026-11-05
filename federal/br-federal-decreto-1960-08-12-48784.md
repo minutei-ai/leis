@@ -1,5 +1,3 @@
-###DEC-048784-0-000-12-08-1960@@@
-
 DECRETO Nº 48.784, de 12 DE agôsto DE 1960.
 
 Autoriza a cidadã brasileira Amélia Lima Soares a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-078268-0-000-17-08-1976@@@
-
 DECRETO Nº 78.268, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras de Registro, com sede na cidade de Registro, Estado de São Paulo.

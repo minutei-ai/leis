@@ -1,5 +1,3 @@
-###DEL-005076-0-000-11-12-1942@@@ 
-
 DECRETO-LEI N. 5.076 – DE 11 DE DEZEMBRO DE 1942
 
 Cede, a título precário e gratuitamente, ao Aero Clube de Três Corações, no Estado de Minas Gerais, a área de terreno que menciona, parte do próprio nacional denominado “Fazenda Atalaia”, situado no município de Três Corações, naquele Estado e dá outras providências.

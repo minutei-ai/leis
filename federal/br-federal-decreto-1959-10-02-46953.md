@@ -1,5 +1,3 @@
-###DEC-046953-0-000-02-10-1959@@@
-
 DECRETO Nº 46.953, DE 2 DE OUTUBRO DE 1959.
 
 Dispõe sôbre as Faculdades de Arquitetura das Universidades do Recife e da Bahia.

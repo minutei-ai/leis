@@ -1,5 +1,3 @@
-###DEC-078738-0-000-17-11-1976@@@
-
 DECRETO Nº 78.738, DE 17 DE NOVEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona situado no Estado do Pará.

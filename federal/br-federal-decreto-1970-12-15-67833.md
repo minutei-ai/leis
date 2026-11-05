@@ -1,5 +1,3 @@
-###DEC-067833-0-000-15-12-1970@@@
-
 Decreto nº 67.833, de 15 de dezembro de 1970.
 
 Retifica o artigo 1º do Decreto nº 67.636, de 20 de novembro de 1970, que abre ao Ministério da Fazenda, em favor do Gabinete do Ministro o crédito suplementar de Cr$ 2.500.000,00 (dois milhões e quinhentos mil cruzeiros), para refôrço de dotações consignadas no vigente Orçamento.

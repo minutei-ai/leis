@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b6ccea20-558f-4613-9cd8-ffc6f3a28129/texto#nowhere)
 
-###DEL-000921-0-000-10-10-1969@@@
-
 DECRETO-LEI Nº 921, DE 10 DE OUTUBRO DE 1969
 
 Altera a Lei nº 5.152, de 21 de outubro de 1966, que autorizou o Poder Executivo a instituir a Fundação Universidade do Maranhão e dá outras providências.

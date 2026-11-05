@@ -1,5 +1,3 @@
-###DEC-001930-0-000-17-06-1996@@@
-
 DECRETO N° 1.930, DE 17 DE JUNHO DE 1996.
 
 Cria a Comissão de Acompanhamento do Programa de Apoio ao Desenvolvimento do Extrativismo - PRODEX, em apoio ao Fundo Constitucional de Financiamento do Norte - FNO.

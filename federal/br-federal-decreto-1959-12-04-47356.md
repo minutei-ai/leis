@@ -1,5 +1,3 @@
-###DEC-047356-0-000-04-12-1959@@@
-
 DECRETO Nº 47.356, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza a “SOEMIBRA” Sociedade Extrativa de Minérios Brasileiros Ltda. a pesquisar dolomita amianto e água mineral no município de Miracatú, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-083234-0-000-06-03-1979@@@
-
 Decreto nº 83 234, de 06 de março de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de trans missão da Centrais Elétricas do Sul do Brasil S.A. -ELETROSUL, no Estado do Paraná.

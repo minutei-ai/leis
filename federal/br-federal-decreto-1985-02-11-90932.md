@@ -1,5 +1,3 @@
-###DEC-090932-0-000-11-02-1985@@@
-
 Decreto nº 90.932, de 11 de fevereiro de 1985
 
 Dispõe sobre o limite do Capital Autorizado da Companhia Rio-Grandense de Nitrogenados - CRN.

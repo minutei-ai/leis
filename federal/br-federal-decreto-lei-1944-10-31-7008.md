@@ -1,5 +1,3 @@
-###DEL-007008-0-000-31-10-1944@@@
-
 DECRETO-LEI N. 7.008 – DE 31 DE OUTUBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Justiça e Negócios Interiores

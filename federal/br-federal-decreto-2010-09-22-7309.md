@@ -1,5 +1,3 @@
-###DEC-007309-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.309, DE 22 DE SETEMBRO DE 2010.
 
 Dá nova redação ao art. 4o do Decreto no 7.167, de 5 de maio de 2010, que regulamenta o Fundo Nacional de Desenvolvimento Florestal - FNDF.

@@ -1,5 +1,3 @@
-###DEC-055898-0-000-07-04-1965@@@
-
 DECRETO Nº 55.898, DE 7 DE ABRIL DE 1965.
 
 Cria na Companhia Brasileira de Alimentos (COBAL) o Fundo para Melhoria da Distribuição de Gêneros alimentícios e dá outras providências.

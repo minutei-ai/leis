@@ -1,5 +1,3 @@
-###DEC-073868-0-000-26-03-1974@@@
-
 DECRETO Nº 73.868, DE 26 DE MARÇO DE 1974.
 
 Autoriza o funcionamento do curso de Formação de Professores para as Disciplinas Profissionais do Ensino Técnico - Esquemas I e II, das Faculdades integradas do instituto Educacional Piracicabano, com sede na cidade de Piracicaba, Estado de São Paulo.

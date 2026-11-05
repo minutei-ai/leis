@@ -1,5 +1,3 @@
-###DEC-088914-0-000-24-10-1983@@@
-
 Decreto nº 88.914, de 24 de outubro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO DIFUSORA BENTO GONÇALVES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bento Gonçalves, Estado do Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099251-0-000-11-05-1990@@@
-
 DECRETO Nº 99.251, DE 11 DE MAIO DE 1990
 
 Dispõe sobre proventos de servidores em disponibilidade.

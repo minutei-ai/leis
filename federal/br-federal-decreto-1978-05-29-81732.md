@@ -1,5 +1,3 @@
-###DEC-081732-0-000-29-05-1978@@@
-
 Decreto nº 81.732, de 29 de maio de 1978.
 
 Altera a redação do art. 5º do Decreto nº 81.233, de 18 de janeiro de 1978, que dispõe sobre a composição das Categorias Direção Intermediária e Assistência Intermediária do Grupo-Direção e Assistência Intermediárias, do Quadro Permanente do Ministério da Fazenda e dá outras providências.

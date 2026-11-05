@@ -1,5 +1,3 @@
-###MPV-001740-0-032-02-06-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.740-32, DE 2 DE JUNHO DE 1999.
 
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.

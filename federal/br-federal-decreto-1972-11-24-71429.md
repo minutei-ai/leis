@@ -1,5 +1,3 @@
-###DEC-071429-0-000-24-11-1972@@@
-
 DECRETO Nº 71.429, de 24 de novembro de 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas, com os Cursos de Ciências Contábeis e Administração de Empresas, em São Paulo, mantida pela Instituição Educacional de São Miguel Paulista.

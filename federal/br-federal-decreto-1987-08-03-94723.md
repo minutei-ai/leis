@@ -1,5 +1,3 @@
-###DEC-094723-0-000-03-08-1987@@@
-
 DECRETO Nº 94.723, DE 3 DE AGOSTO DE 1987.
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade Ibero-Americana de Letras e Ciências Humanas.

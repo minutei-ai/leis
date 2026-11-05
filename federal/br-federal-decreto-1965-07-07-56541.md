@@ -1,5 +1,3 @@
-###DEC-056541-0-000-07-07-1965@@@
-
 decreto nº 56.541, de 7 de julho de 1965.
 
 Concede à Irmãos Guilhermino Ltda. autorização para funcionar como emprêsa de mineração.

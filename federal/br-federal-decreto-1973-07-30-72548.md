@@ -1,5 +1,3 @@
-###DEC-072548-0-000-30-07-1973@@@
-
 DECRETO Nº 72.548, DE 30 DE JULHO DE 1973.
 
 Concede autorização para funcionar como empresa de energia elétrica à Centrais Elétricas do Norte do Brasil S. A. - ELETRONORTE.

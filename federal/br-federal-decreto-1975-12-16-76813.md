@@ -1,5 +1,3 @@
-###DEC-076813-0-000-16-12-1975@@@
-
 DECRETO Nº 76.813, de 16 de dezembro de 1975.
 
 Extingue a Diretoria de Assuntos Especiais, Educação Física e Desportos, e dá outras providências.

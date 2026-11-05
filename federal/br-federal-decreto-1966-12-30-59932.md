@@ -1,5 +1,3 @@
-###DEC-059932-0-000-30-12-1966@@@
-
 DECRETO Nº 59.932, DE 30 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro José da Silva Souza a pesquisar água mineral no município de São Fidelis, Estado do Rio de Janeiro.

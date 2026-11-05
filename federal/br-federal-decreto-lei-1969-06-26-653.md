@@ -1,5 +1,3 @@
-###DEL-000653-0-000-26-06-1969@@@
-
 Decreto-lei nº 653, de 26 de Junho de 1969
 
 Declara extinta a intervenção em instituição de ensino superior e dá outras providências.

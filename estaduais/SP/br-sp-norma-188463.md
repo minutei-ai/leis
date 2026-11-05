@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188463)
-
 # DECRETO Nº 63.846, DE 26 DE NOVEMBRO DE 2018
 
 ### _Declara de utilidade pública para fins de desapropriação pela Concessionária RODOVIAS DO TIETÊ S.A., os imóveis necessários às obras de implantação da marginal entre o km 248+000m e o km 252+000m da Rodovia Marechal Rondon, SP-300, pista oeste, Município e Comarca de Botucatu, no trecho que especifica e dá providências correlatas_

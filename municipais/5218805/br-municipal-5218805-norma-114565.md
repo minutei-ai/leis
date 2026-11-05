@@ -18,7 +18,8 @@ Art. 1º Fica alterada a Lei 3.635/98, de 03 de março de 1998, inserindo no Cap
 
 **DOS TERMINAIS RODOVIÁRIOS**
 
-Art. 171-A. Os Terminais Rodoviários de embarque e desembarque de passageiros, em suas formas de operação e controle de linhas de veículos de transporte coletivo interdistritais, intermunicipais, interestaduais ou internacionais, incluindo áreas destinadas a estacionamento e outros serviços comunitários pertinentes, respeitada a missão social à qual se destinam, terão por finalidade a centralização do transporte coletivo interdistrital, intermunicipal, interestadual e internacional.<br>
+Art. 171-A. Os Terminais Rodoviários de embarque e desembarque de passageiros, em suas formas de operação e controle de linhas de veículos de transporte coletivo interdistritais, intermunicipais, interestaduais ou internacionais, incluindo áreas destinadas a estacionamento e outros serviços comunitários pertinentes, respeitada a missão social à qual se destinam, terão por finalidade a centralização do transporte coletivo interdistrital, intermunicipal, interestadual e internacional.
+
 Art.171-B. O uso dos Terminais Rodoviários descritos no art. 171-A, obedecerão às disposições de regulamento a ser aprovado por ato do Poder Executivo."
 
 Art. 2º O artigo 188 da Lei 3.635/98, de 03 de março de 1998, será acrescido do inciso VIII, com a seguinte redação:

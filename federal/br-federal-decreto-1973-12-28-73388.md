@@ -1,5 +1,3 @@
-###DEC-073388-0-000-28-12-1973@@@
-
 DECRETO Nº 73.388 - DE 28 DE DEZEMBRO DE 1973
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal do Estado-Maior das Forças Armadas, e dá outras providências.

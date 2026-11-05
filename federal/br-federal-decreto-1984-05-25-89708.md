@@ -1,5 +1,3 @@
-###DEC-089708-0-000-25-05-1984@@@
-
 Decreto nº 89.708, de 25 de maio de 1984
 
 Renova a concessão outorgada à RÁDIO COPACABANA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de São Gonçalo, Estado do Rio de Janeiro.

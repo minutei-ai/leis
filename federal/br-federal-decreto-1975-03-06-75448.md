@@ -1,5 +1,3 @@
-###DEC-075448-0-000-06-03-1975@@@
-
 DECRETO Nº 75.448, DE 6 DE MARÇO DE 1975.
 
 Concede reconhecimento aos cursos de Engenharia Elétrica e de matemática da Escola de Engenharia e do Instituto de Ciências Matemáticas de São Carlos.

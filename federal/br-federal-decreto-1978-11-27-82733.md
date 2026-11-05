@@ -1,5 +1,3 @@
-###DEC-082733-0-000-27-11-1978@@@
-
 Decreto nº 82.733, de 27 de novembro de 1978.
 
 Retifica a autorização de lavra conferida aos cidadãos brasileiros José Pacífico Homem e Antônio Pacífico Homem Júnior pelo Decreto nº 11.358, de 18 de janeiro de 1943, retificado pelo Decreto nº 64.846, de 18 de julho de 1969.

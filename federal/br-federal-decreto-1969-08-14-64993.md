@@ -1,5 +1,3 @@
-###DEC-064993-0-000-14-08-1969@@@
-
 DECRETO Nº 64.993 - de 14 de AgÔsto de 1969.
 
 Altera a redação do artigo 3º do Decreto nº 63.913, de 26 de Dezembro de 1968.

@@ -1,5 +1,3 @@
-###DEC-075909-0-000-25-06-1975@@@
-
 DECRETO Nº 75.909, DE 25 DE JUNHO DE 1975.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

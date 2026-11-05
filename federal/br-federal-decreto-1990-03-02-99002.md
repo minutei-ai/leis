@@ -1,7 +1,3 @@
-1
-
-###DEC-099002-0-000-02-03-1990@@@
-
 DECRETO Nº 99.002, DE 2 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Filosofia, Ciências e Letras Gonçalves Dias.

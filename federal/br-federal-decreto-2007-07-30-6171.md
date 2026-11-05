@@ -1,5 +1,3 @@
-###DEC-006171-0-000-30-07-2007@@@
-
 DECRETO Nº 6.171, DE 30 DE JULHO DE 2007.
 
 Dispõe sobre a Medalha-Prêmio “Almirante Alexandrino de Alencar” e dá outras providências.
@@ -25,5 +23,3 @@ Brasília, 30 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 31.7.2007

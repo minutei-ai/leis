@@ -1,5 +1,3 @@
-###DEC-057842-0-000-18-02-1966@@@
-
 DECRETO Nº 57.842, DE 18 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, pela Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério das Minas e Energia, terreno situado no município de Salvador, Estado da Bahia.

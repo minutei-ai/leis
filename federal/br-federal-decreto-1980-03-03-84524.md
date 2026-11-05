@@ -1,5 +1,3 @@
-###DEC-084524-0-000-03-03-1980@@@
-
 Decreto nº 84.524, de 03 de março de 1980
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Cabo Frio, Estado do Rio de Janeiro, Guarujá, Estado de São Paulo e Recife, Estado de Pernambuco.

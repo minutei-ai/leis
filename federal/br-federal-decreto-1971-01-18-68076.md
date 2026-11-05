@@ -1,5 +1,3 @@
-###DEC-068076-0-000-18-01-1971@@@
-
 Decreto nº 68.076, de 18 de janeiro de 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 54.123, de 12 de agosto de 1964, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, da área de terreno necessária à construção do açude público "Serra Branca", no município do mesmo nome, Estado da Paraíba.

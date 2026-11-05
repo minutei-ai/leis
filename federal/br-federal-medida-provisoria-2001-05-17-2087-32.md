@@ -1,5 +1,3 @@
-###MPV-002087-0-032-17-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.087‑32, DE 17 DE MAIO DE 2001.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

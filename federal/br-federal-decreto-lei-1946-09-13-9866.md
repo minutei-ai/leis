@@ -1,5 +1,3 @@
-###DEL-009866-0-000-13-09-1946@@@
-
 DECRETO-lei N. 9.866 – DE 13 DE SETEMBRO DE 1946
 
 Autoriza a permuta de imóveis que menciona, revoga o Decreto-lei número 2.803, de 21 de Novembro de 1940, e dá outras providências.

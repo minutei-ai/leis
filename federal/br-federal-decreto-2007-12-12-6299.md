@@ -1,5 +1,3 @@
-###DEC-006299-0-000-12-12-2007@@@
-
 DECRETO Nº 6.299, DE 12 DE DEZEMBRO DE 2007.
 
 Regulamenta os arts. 1o, 2o, 3o, 4o, 5o e 6o da Lei no 11.437, de 28 de dezembro de 2006, que destinam recursos para o financiamento de programas e projetos voltados para o desenvolvimento das atividades audiovisuais, e dá outras providências.
@@ -133,5 +131,3 @@ LUIZ INÁCIO LULA DA SILVA
 Nelson Machado
 
 Gilberto Gil
-
-Este texto não substitui o publicado no DOU de 13.12.2007

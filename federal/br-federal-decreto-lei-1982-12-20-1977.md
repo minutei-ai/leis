@@ -1,5 +1,3 @@
-###DEL-001977-0-000-20-12-1982@@@
-
 # DECreto-LEI nº 1.977, dE 20 de dezembro de 1982
 
 Prorroga prazos de vigência de Decretos-leis que dispõem sobre acréscimos às alíquotas do imposto de importação e dá outras providências.

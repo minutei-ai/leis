@@ -1,5 +1,3 @@
-###DEC-079630-0-000-29-04-1977@@@
-
 DECRETO Nº 79.630, DE 29 DE ABRIL DE 1977.
 
 Extingue o Terceiro Conselho de Contribuintes e dá outras providências.

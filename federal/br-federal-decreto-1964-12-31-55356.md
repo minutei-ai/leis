@@ -1,5 +1,3 @@
-###DEC-055356-0-000-31-12-1964@@@
-
 Decreto nº 55.356, de 31 de dezembro de 1964.
 
 Concede à Industrial, Comercial e Agrícola Rio Pilões S.A. autorização para funcionar como emprêsa de mineração.

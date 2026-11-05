@@ -1,5 +1,3 @@
-###DEC-093218-0-000-05-09-1986@@@
-
 DECRETO Nº 93.218, DE 05 DE SETEMBRO DE 1986
 
 Dispõe sobre alteração de denominação do Arquivo do Exército, no Ministério do Exército, e dá outras providências.

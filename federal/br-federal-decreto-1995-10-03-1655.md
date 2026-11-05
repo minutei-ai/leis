@@ -1,7 +1,3 @@
-1
-
-###DEC-001655-0-000-03-10-1995@@@
-
 DECRETO N° 1.655, DE 03 DE OUTUBRO DE 1995
 
 Define a competência da Polícia Rodoviária Federal, e dá outras providências.

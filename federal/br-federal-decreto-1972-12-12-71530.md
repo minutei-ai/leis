@@ -1,5 +1,3 @@
-###DEC-071530-0-000-12-12-1972@@@
-
 DECRETO Nº 71.530 - DE 12 DE DEZEMBRO DE 1972
 
 Concede à S.A. Indústrias Votorantim o direito de lavrar calcário no município de Salto de Pirapora, Estado de São Paulo.

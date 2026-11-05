@@ -1,4 +1,5 @@
-DECRETO Nº 9.790, DE 20 DE JANEIRO DE 2021<br>
+DECRETO Nº 9.790, DE 20 DE JANEIRO DE 2021
+
 \- [Revogada pelo Decreto nº 10.953, de 8-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116147), art. 1º.
 
 ~~_Dispõe sobre as diretrizes para o credenciamento e a certificação das instituições ou das entidades públicas ou privadas por parte do Departamento Estadual de Trânsito de Goiás – DETRAN/GO e dá outras providências._~~
@@ -43,14 +44,16 @@ DECRETO Nº 9.790, DE 20 DE JANEIRO DE 2021<br>
 
 ~~Art. 3º A autorização de funcionamento das instituições e das entidades públicas ou privadas para atuarem como CFCs é concedida a título precário, sem qualquer ônus para o DETRAN/GO, e está condicionada aos interesses da administração pública.~~
 
-~~Art. 4º O credenciamento das instituições e das entidades públicas ou privadas é específico para cada endereço, intransferível e renovável.~~<br>
+~~Art. 4º O credenciamento das instituições e das entidades públicas ou privadas é específico para cada endereço, intransferível e renovável.~~
+
 ~~\- [Redação dada pelo Decreto nº 10.085, de 11-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105510/decreto-10085).~~
 
 ~~Art. 4º O credenciamento das instituições e das entidades públicas ou privadas é de natureza intransferível e inegociável, além de ser específico para o município autorizado.~~
 
 ~~§ 1º As alterações contratuais dos CFCs em razão da saída voluntária de um dos sócios ou por sucessão hereditária, em caso de falecimento, deverão ser previamente comunicadas ao DETRAN/GO, por meio da Gerência de Credenciamento e Controle.~~
 
-~~§ 2º As alterações contratuais para o ingresso de novo sócio, por motivo de saída voluntária de um dos sócios, serão condicionadas à permanência do sócio majoritário, o qual não poderá sob nenhuma hipótese ser destituído por vontade das partes, sob pena de descredenciamento, bem como à autorização da presidência do DETRAN/GO.~~<br>
+~~§ 2º As alterações contratuais para o ingresso de novo sócio, por motivo de saída voluntária de um dos sócios, serão condicionadas à permanência do sócio majoritário, o qual não poderá sob nenhuma hipótese ser destituído por vontade das partes, sob pena de descredenciamento, bem como à autorização da presidência do DETRAN/GO.~~
+
 ~~\- [Revogado pelo Decreto nº 10.085, de 11-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105510/decreto-10085), art. 2º, I.~~
 
 ~~§ 3º No caso de falecimento de um dos sócios, com a desistência expressa do(s) herdeiro(s), será admitido o ingresso de novo sócio, mediante prévia autorização da presidência do DETRAN/GO.~~
@@ -143,7 +146,8 @@ DECRETO Nº 9.790, DE 20 DE JANEIRO DE 2021<br>
 
 ~~XXI – relação dos veículos de aprendizagem, na forma estabelecida pela legislação de trânsito vigente;~~
 
-~~XXII – planta baixa do imóvel destinado ao CFC, com a descrição das dependências e das instalações, em escala 1:100;~~<br>
+~~XXII – planta baixa do imóvel destinado ao CFC, com a descrição das dependências e das instalações, em escala 1:100;~~
+
 ~~\- [Revogado pelo Decreto nº 10.085, de 11-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105510/decreto-10085), art. 2º, II.~~
 
 ~~XXIII – Certificado de Registro de Veículo – CRV, em nome do CFC, com as alterações exigidas pela legislação para o veículo automotor e o número do Certificado de Segurança Veicular – CSV; e~~
@@ -194,7 +198,8 @@ DECRETO Nº 9.790, DE 20 DE JANEIRO DE 2021<br>
 
 ~~VI – multimídia (_datashow_) ou qualquer outro instrumento similar para transmissão de aulas a distância;~~
 
-~~VII – aparelho de DVD, _datashow_ ou outro instrumento similar;~~<br>
+~~VII – aparelho de DVD, _datashow_ ou outro instrumento similar;~~
+
 ~~\- [Revogado pelo Decreto nº 10.085, de 11-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105510/decreto-10085), art. 2º, III.~~
 
 ~~VIII – microcomputador com alto poder de conectividade para a transmissão de dados de forma segura e criptografada, seguindo o máximo nível de segurança disponível no mercado;~~
@@ -367,5 +372,6 @@ DECRETO Nº 9.790, DE 20 DE JANEIRO DE 2021<br>
 
  
 
-~~RONALDO CAIADO~~<br>
+~~RONALDO CAIADO~~
+
 ~~Governador do Estado~~

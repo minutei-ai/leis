@@ -1,5 +1,3 @@
-###DEC-006842-0-000-07-05-2009@@@
-
 DECRETO Nº 6.842, DE 7 DE MAIO DE 2009.
 
 Regulamenta a concessão de alíquota zero, até 30 de abril de 2012 ou até que a produção nacional atenda a oitenta por cento do consumo interno, da Contribuição para o PIS/PASEP, da Contribuição para o Financiamento da Seguridade Social - COFINS, da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação incidentes sobre a receita bruta decorrente da venda no mercado interno e sobre a importação de papel.

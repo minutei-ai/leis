@@ -1,5 +1,3 @@
-###DEC-000000-0-000-24-05-1823@@@
-
 DECRETO - DE 24 DE MAIO DE 1823
 
 Extinge a Administração do dizimo do assucar que existia no Thesouro Publico.

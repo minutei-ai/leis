@@ -1,5 +1,3 @@
-###DEC-093993-0-000-02-02-1987@@@
-
 DECRETO Nº 93.993, DE 02 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Catu, da Companhia Paulista de Força e Luz  \- CPFL, no Estado de São Paulo.

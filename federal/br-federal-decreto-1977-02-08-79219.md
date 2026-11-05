@@ -1,5 +1,3 @@
-###DEC-079219-0-000-08-02-1977@@@
-
 DECRETO Nº 79.219, DE 8 DE FEVEREIRO DE 1977.
 
 Autoriza a transformação do curso de Química, em curso de Ciências, licenciatura plena, com habilitação em Química, da Faculdade de Filosofia, Ciências e Letras de São Bernardo do Campo, com sede na Cidade São Bernardo do Campo, Estado de São Paulo.

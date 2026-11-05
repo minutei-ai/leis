@@ -1,5 +1,3 @@
-###DEC-074300-0-000-18-07-1974@@@
-
 Decreto nº 74.300 - de 18 de julho de 1974.
 
 Altera disposições do Decreto número 73.411, de 4 de janeiro de 1974, que institui o Conselho Nacional de Pós-Graduação e dá outras providências.

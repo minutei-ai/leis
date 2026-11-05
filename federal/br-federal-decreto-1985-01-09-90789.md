@@ -1,5 +1,3 @@
-###DEC-090789-0-000-09-01-1985@@@
-
 Decreto nº 90.789, de 09 de janeiro de 1985
 
 Autoriza o Serviço do Patrimônio da União a praticar os atos que menciona.

@@ -1,5 +1,3 @@
-###MPV-002130-0-001-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.130-1, DE 27 DE DEZEMBRO DE 2000.
 
 Define normas de regulação para o setor de medicamentos, institui a Fórmula Paramétrica de Reajuste de Preços de Medicamentos - FPR, cria a Câmara de Medicamentos e dá outras providências.
@@ -206,7 +204,9 @@ Onde:
 
 b) FPI representa o fator de ponderação da apresentação i e é calculado do seguinte modo:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:78pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:78.05pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-style:italic">FPi = F</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span></p></td></tr><tr><td style="width:78.05pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:Symbol; font-size:1.2em"></span><span style="font-size:0.8em; vertical-align:super">n</span><span style="font-size:0.8em; vertical-align:sub">i=1</span><span style="font-style:italic">F</span><span style="font-size:0.67em; vertical-align:super">i</span></p></td></tr></tbody></table>
+FPi = Fi
+
+ni=1Fi
 
 Onde:
 
@@ -226,7 +226,13 @@ b.1.2) Qij e a quantidade vendida da apresentação i no mês j, com j variando 
 
 3\. novembro de 2000 e é calculado do seguinte modo:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4.</span><span style="font-family:'Monotype Sorts'"></span><span style="font-style:italic">P</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span><span style="font-size:0.67em; font-style:italic; vertical-align:sub">EMP</span><span style="font-size:0.67em; vertical-align:sub"> =</span></p></td><td style="width:63.9pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-style:italic">P</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span><span style="font-size:0.67em; vertical-align:sub">nov/00 </span><span>- </span><span style="font-style:italic">P</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span><span style="font-size:0.67em; vertical-align:sub">ago/99 </span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>x 100, onde:</span></p></td></tr><tr><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.67em; vertical-align:sub; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-style:italic">P</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span><span style="font-size:0.67em; vertical-align:sub">ago/99</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.67em; vertical-align:sub; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+4.PiEMP =
+
+Pinov/00 - Piago/99
+
+x 100, onde:
+
+Piago/99
 
  c.1) Piago/99 é o preço máximo da apresentação i no mês de agosto de 1999; e
 
@@ -244,7 +250,13 @@ a) i e FPI são definidos como no item 2.1; e
 
 b) PIRMP representa a variação percentual de preço da apresentação i entre 1º de novembro de 2000 e 31 de janeiro de 2001 e é calculado do seguinte modo:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Monotype Sorts'"></span><span style="font-style:italic">P</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span><span style="font-size:0.67em; vertical-align:sub">RMP =</span></p></td><td style="width:63.9pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-style:italic">P</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span><span style="font-size:0.67em; vertical-align:sub">jan/01 </span><span>- </span><span style="font-style:italic">P</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span><span style="font-size:0.67em; vertical-align:sub">nov/00 </span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>x 100,</span></p></td></tr><tr><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.67em; vertical-align:sub; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-style:italic">P</span><span style="font-size:0.67em; font-style:italic; vertical-align:super">i</span><span style="font-size:0.67em; vertical-align:sub">nov/00</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.67em; vertical-align:sub; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+PiRMP =
+
+Pijan/01 - Pinov/00
+
+x 100,
+
+Pinov/00
 
 onde:
 

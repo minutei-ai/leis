@@ -1,7 +1,3 @@
-1
-
-###DEC-001256-0-000-29-09-1994@@@
-
 DECRETO Nº 1.256, DE 29 DE SETEMBRO DE 1994
 
 Promulga a Convenção nº 154, da Organização Internacional do Trabalho, sobre o Incentivo à Negociação Coletiva, concluída em Genebra, em 19 de junho de 1981.

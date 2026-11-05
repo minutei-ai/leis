@@ -1,5 +1,3 @@
-###DEC-073068-0-000-31-10-1973@@@
-
 DECRETO Nº 73.068, de 31 de Outubro de 1973.
 
 Retifica o Decreto nº 72.812, de 18 de Setembro de 1973, que alterou o Quadro Único de Pessoal da Universidade Federal do Rio Grande do Sul, e dá outras providências.

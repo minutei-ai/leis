@@ -1,5 +1,3 @@
-###MPV-000249-0-000-04-05-2005@@@
-
 MEDIDA PROVISÓRIA Nº 249, DE 4 DE MAIO DE 2005
 
 Dispõe sobre a instituição de concurso de prognóstico destinado ao desenvolvimento da prática desportiva, a participação de entidades desportivas da modalidade futebol nesse concurso, o parcelamento de débitos tributários e para com o Fundo de Garantia do Tempo de Serviço - FGTS, e dá outras providências.

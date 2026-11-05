@@ -1,5 +1,3 @@
-###DEC-082224-0-000-05-09-1978@@@
-
 Decreto nº 82.224, de 05 de setembro de 1978.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Record S.A. para executar serviço de radiodifusão sonora em onda curta, na cidade de São Paulo, Estado de São Paulo.

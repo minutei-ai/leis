@@ -1,5 +1,3 @@
-###MPV-000097-0-000-27-12-2002@@@
-
 MEDIDA PROVISÓRIA N. 97 – DE 27 DE DEZEMBRO DE 2002
 
 Altera o art. 26 da Medida Provisória nº 2.192-70, de 24 de agosto de 2001, que estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

@@ -1,38 +1,36 @@
-###DEC-048055-0-000-06-04-1960@@@
+**DECRETO Nº 48.055, DE 6 DE ABRIL DE 1960.**
 
-<strong>DECRETO Nº 48.055, DE 6 DE ABRIL DE 1960.</strong>
+***Aprova o Regulamento da Diretoria de Motomecanização (DMM).***
 
-<em><strong>Aprova o Regulamento da Diretoria de Motomecanização (DMM).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Diretoria de Motomecanização (R-116), que com êste baixa, assinado pelo Marechal R-1 Henrique Baptista *Duffles* Teixeira *Lott*, Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Diretoria de Motomecanização (R-116), que com êste baixa, assinado pelo Marechal R-1 Henrique Baptista <em>Duffles</em> Teixeira <em>Lott</em>, Ministro de Estado dos Negócios da Guerra.
+**Art**. 2º O Ministro da Guerra fica autorizado a baixar, em complemento a êste Regulamento, novas Instruções para o funcionamento do Serviço de Motomecanização, a que ser refere o Decreto nº 41.186, de 20 de março de 1957.
 
-<strong>Art</strong>. 2º O Ministro da Guerra fica autorizado a baixar, em complemento a êste Regulamento, novas Instruções para o funcionamento do Serviço de Motomecanização, a que ser refere o Decreto nº 41.186, de 20 de março de 1957.
-
-<strong>Art</strong>. 3º O presente decreto entrará em vigor na data de sua publicação, ficando revogados o Decreto número 19.052, de 2 de julho de 1945, demais disposições em contrário.
+**Art**. 3º O presente decreto entrará em vigor na data de sua publicação, ficando revogados o Decreto número 19.052, de 2 de julho de 1945, demais disposições em contrário.
 
 Rio de Janeiro, DF, 6 de abril de 1960; 139º da Independência e 72º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Odylio Denys
 
-<strong>DIRETORIA DE MOTOMECANIZAÇÃO (DMM)</strong>
+**DIRETORIA DE MOTOMECANIZAÇÃO (DMM)**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>GENERALIDADES</em>
+*GENERALIDADES*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Diretoria e suas finalidades</em>
+*Da Diretoria e suas finalidades*
 
-<strong>Art</strong>. 1º A Diretoria de Motomecanização (DMM), diretamente subordinada à Diretoria-Geral do Material Bélico, dirige, coordena e fiscaliza as atividades do Serviço de Motomecanização.
+**Art**. 1º A Diretoria de Motomecanização (DMM), diretamente subordinada à Diretoria-Geral do Material Bélico, dirige, coordena e fiscaliza as atividades do Serviço de Motomecanização.
 
-<strong>Art</strong>. 2º À Diretoria de Motomecanização compete:
+**Art**. 2º À Diretoria de Motomecanização compete:
 
 1\) Estabelecer as normas e diretrizes que disciplinam o suprimento e a manutenção do material motomecanizado e motorizado, organizando e difundindo a documentação correspondente;
 
@@ -62,15 +60,15 @@ Odylio Denys
 
 14\) Tratar dos assuntos de estatística, na esfera de suas atividades.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>ORGANIZAÇÃO</em>
+*ORGANIZAÇÃO*
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização geral</em>
+*Da organização geral*
 
-<strong>Art</strong>. 3º A Diretoria de Motomecanização compreende:
+**Art**. 3º A Diretoria de Motomecanização compreende:
 
 1\) Diretor;
 
@@ -78,7 +76,7 @@ Odylio Denys
 
 3\) 3 (três) Seções.
 
-<strong>Art</strong>. 4º São diretamente subordinados à Diretoria de Motomecanização:
+**Art**. 4º São diretamente subordinados à Diretoria de Motomecanização:
 
 1\) Parque Central de Motomecanização;
 
@@ -86,11 +84,11 @@ Odylio Denys
 
 Parágrafo único. Têm subordinação técnica à DMM os Parques Regionais e Depósitos Regionais de Motomecanização.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da organização pormenorizada</em>
+*Da organização pormenorizada*
 
-<strong>Art</strong>. 5º O Gabinete compreende:
+**Art**. 5º O Gabinete compreende:
 
 1\) Chefia;
 
@@ -100,7 +98,7 @@ Parágrafo único. Têm subordinação técnica à DMM os Parques Regionais e De
 
 4\) 3ª Divisão (D-3) - Coordenação.
 
-<strong>Art</strong>. 6º As Seções denominam-se:
+**Art**. 6º As Seções denominam-se:
 
 1\) 1ª Seção (S/1) - Técnica;
 
@@ -108,19 +106,19 @@ Parágrafo único. Têm subordinação técnica à DMM os Parques Regionais e De
 
 3\) 3ª Seção (S/3) - Manutenção.
 
-<strong>Art</strong>. 7º Em função da disponibilidade em pessoal, o Diretor poderá desdobrar as Seções em Subseções, de forma a melhor atender a distribuição de seus encargos.
+**Art**. 7º Em função da disponibilidade em pessoal, o Diretor poderá desdobrar as Seções em Subseções, de forma a melhor atender a distribuição de seus encargos.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>ATRIBUIÇÕES</em>
+*ATRIBUIÇÕES*
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições orgânicas</em>
+*Das atribuições orgânicas*
 
 I - Do Gabinete
 
-<strong>Art</strong>. 8º Ao Gabinete compete:
+**Art**. 8º Ao Gabinete compete:
 
 1\) auxiliar o Diretor na administração da Diretoria, estabelecendo as ligações entre as suas seções e promovendo os entendimentos externos que se fizerem necessários;
 
@@ -156,7 +154,7 @@ I - Do Gabinete
 
 II - Das Seções
 
-<strong>Art</strong>. 9º À 1ª Seção (S/1) - Técnica, compete:
+**Art**. 9º À 1ª Seção (S/1) - Técnica, compete:
 
 1\) elaborar os trabalhos necessários ao estabelecimento ou modificação dos princípios básicos de manutenção e de suprimento;
 
@@ -198,7 +196,7 @@ II - Das Seções
 
 11\) colaborar com a Diretoria de Estudos e Pesquisas Tecnológicas (DEPT) no que se refere à elaboração das especificações técnicas do material motomecanizado e motorizado.
 
-<strong>Art</strong>. 10. À 2ª Seção (S/2) - Suprimento, compete realizar os trabalhos relativos ao suprimento dos seguintes materiais:
+**Art**. 10. À 2ª Seção (S/2) - Suprimento, compete realizar os trabalhos relativos ao suprimento dos seguintes materiais:
 
 \- viaturas (exceto as hipomóveis) e seus acessórios;
 
@@ -256,7 +254,7 @@ Compete, ainda, à Seção de Suprimentos
 
 12\) elaborar e submeter a aprovação do Diretor de Motomecanização o Regimento Interno da Seção.
 
-<strong>Art</strong>. 11. À 3ª Seção (S/3) - Manutenção compete:
+**Art**. 11. À 3ª Seção (S/3) - Manutenção compete:
 
 1\) estudar as indisponibilidades de viaturas motomecanizadas e motorizadas e fornecer elementos à Seção de Suprimentos capazes de permití-la determinar as necessidades do Exército relativas ao material necessário à recuperação dessas viaturas;
 
@@ -290,13 +288,13 @@ Compete, ainda, à Seção de Suprimentos
 
 16\) estabelecer o seu Regimento Interno.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das atribuições funcionais</em>
+*Das atribuições funcionais*
 
 I - Do Diretor
 
-<strong>Art</strong>. 12. O Diretor de Motomecanização é o Chefe do Serviço de Motomecanização e lhe compete:
+**Art**. 12. O Diretor de Motomecanização é o Chefe do Serviço de Motomecanização e lhe compete:
 
 1\) dirigir, coordenar e controlar as atividades da Diretoria;
 
@@ -354,7 +352,7 @@ Parágrafo único. O Diretor poderá autorizar o Chefe do Gabinete e os Chefes d
 
 II - Do Chefe do Gabinete
 
-<strong>Art</strong>. 13. Ao Chefe do Gabinete compete:
+**Art**. 13. Ao Chefe do Gabinete compete:
 
 1\) Auxiliar o Diretor na administração da Diretoria, estabelecendo a ligação entre as suas Seções e promovendo entendimentos externos necessários ao serviço;
 
@@ -392,7 +390,7 @@ II - Do Chefe do Gabinete
 
 III - Dos Chefes de Seção
 
-<strong>Art</strong>. 14. Aos Chefes de Seção compete:
+**Art**. 14. Aos Chefes de Seção compete:
 
 1\) estabelecer o Regimento Interno da Seção;
 
@@ -416,24 +414,24 @@ III - Dos Chefes de Seção
 
 11\) ter sob sua responsabilidade o material pertencente à carga da Seção.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>OUTRAS DISPOSIÇÕES</em>
+*OUTRAS DISPOSIÇÕES*
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 15. Nos casos de substituição temporária, o Diretor de Motomecanização será substituído pelo oficial mais antigo, dentre os de maior pôsto que lhe são subordinados.
+**Art**. 15. Nos casos de substituição temporária, o Diretor de Motomecanização será substituído pelo oficial mais antigo, dentre os de maior pôsto que lhe são subordinados.
 
-<strong>Art</strong>. 16. Quando o afastamento do Diretor de Motomecanização fôr por prazo inferior a dez dias, responderá pelo expediente o Chefe do Gabinete.
+**Art**. 16. Quando o afastamento do Diretor de Motomecanização fôr por prazo inferior a dez dias, responderá pelo expediente o Chefe do Gabinete.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Prescrições diversas</em>
+*Prescrições diversas*
 
-<strong>Art</strong>. 17. Para efeito de disciplina e justiça, o pessoal militar está sujeito aos regulamentos que regem a matéria e o pessoal civil às prescrições do Estatuto dos Funcionários Públicos Civis da União.
+**Art**. 17. Para efeito de disciplina e justiça, o pessoal militar está sujeito aos regulamentos que regem a matéria e o pessoal civil às prescrições do Estatuto dos Funcionários Públicos Civis da União.
 
 Rio de Janeiro, DF.
 
-<strong>HENRIQUE LOTT</strong>
+**HENRIQUE LOTT**

@@ -1,5 +1,3 @@
-###DEC-003673-0-000-28-11-2000@@@
-
 DECRETO Nº 3.673, DE 28 DE NOVEMBRO DE 2000.
 
 Delega competência ao Ministro de Estado do Desenvolvimento Agrário para a prática dos atos que menciona.

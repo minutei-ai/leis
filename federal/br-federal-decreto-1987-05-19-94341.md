@@ -1,5 +1,3 @@
-###DEC-094341-0-000-19-05-1987@@@
-
 DECRETO Nº 94.341, DE 19 DE MAIO DE 1987.
 
 Autoriza a MERIDIONAL LEASING S.A. - ARREDAMENTO MERCANTIL a procedera ao aumento do capital social.

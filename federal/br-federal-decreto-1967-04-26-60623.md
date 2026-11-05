@@ -1,5 +1,3 @@
-###DEC-060623-0-000-26-04-1967@@@
-
 Decreto nº 60.623, de 26 de abril de 1967.
 
 Retifica o Regimento do Departamento Nacional da Produção Mineral do Ministério das Minas e Energia, aprovado pelo Decreto nº 59.873, de 26 de dezembro de 1966.

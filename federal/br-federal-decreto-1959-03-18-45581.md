@@ -1,5 +1,3 @@
-###DEC-045581-0-000-18-03-1959@@@
-
 Decreto nº 45.581, de 18 de março de 1959.
 
 Cria a Comissão de Povoamento dos Eixos Rodoviários e dá outras providências.

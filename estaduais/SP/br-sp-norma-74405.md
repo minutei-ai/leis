@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74405)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2007/compilacao-lei.complementar-1020-23.10.2007.html)
 
 # LEI COMPLEMENTAR Nº 1.020, DE 23 DE OUTUBRO DE 2007
@@ -15,8 +14,10 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei c
 
 ~~**Parágrafo único** - As designações de que trata o "caput" deste artigo poderão ser efetuadas nos casos de ausência, impedimentos legais e regulamentares do titular.~~
 
-**Artigo 1º -** Fica instituída Gratificação por Acúmulo de Titularidade - GAT para os integrantes da carreira de Delegado de Polícia designados, excepcionalmente, para responderem cumulativamente pelo comando de unidades e equipes operacionais e de plantão dos órgãos de execução da Polícia Civil. (NR)<br>
-**§ 1º** - Aplica-se o disposto neste artigo aos Delegados de Polícia que, sem prejuízo de suas funções de adjunto ou de assistente, vierem a ser designados para substituir titulares de unidades e equipes operacionais e de plantão dos órgãos de execução da Polícia Civil. (NR)<br>
+**Artigo 1º -** Fica instituída Gratificação por Acúmulo de Titularidade - GAT para os integrantes da carreira de Delegado de Polícia designados, excepcionalmente, para responderem cumulativamente pelo comando de unidades e equipes operacionais e de plantão dos órgãos de execução da Polícia Civil. (NR)
+
+**§ 1º** - Aplica-se o disposto neste artigo aos Delegados de Polícia que, sem prejuízo de suas funções de adjunto ou de assistente, vierem a ser designados para substituir titulares de unidades e equipes operacionais e de plantão dos órgãos de execução da Polícia Civil. (NR)
+
 **§ 2º** - As designações de que trata este artigo poderão ser efetuadas nos casos de ausência, impedimentos legais e regulamentares do titular, por período igual ou superior a 15 (quinze) dias, vedada mais de uma designação para o mesmo período. (NR)
 
 _\- Artigo 1º com redação dada pela [Lei Complementar nº 1.152, de 25/10/2011](http://www.al.sp.gov.br/norma?id=163679), retroagindo seus efeitos a 01/07/2011._

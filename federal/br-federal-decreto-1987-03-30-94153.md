@@ -1,5 +1,3 @@
-###DEC-094153-0-000-30-03-1987@@@
-
 DECRETO Nº 94.153, DE 30 DE MARCO DE 1987.
 
 Autoriza o funcionamento do curso de Administração, em Mineiros, Estado de Goiás.

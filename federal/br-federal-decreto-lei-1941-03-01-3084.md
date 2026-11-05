@@ -1,5 +1,3 @@
-###DEL-003084-0-000-01-03-1941@@@
-
 DECRETO-LEI N. 3.084 – DE 1 DE MARÇO DE 1941
 
 Estatuto dos Militares

@@ -1,5 +1,3 @@
-###DEL-003852-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.852 – DE 20 DE NOVEMBRO DE 1941
 
 Retifica as tabelas anexas ao decreto-lei n. 3.422, de 12 de julho de 1941.

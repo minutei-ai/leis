@@ -1,5 +1,3 @@
-###MPV-001726-0-000-03-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.726, DE 3 de NOVEMBRO DE 1998
 
 Insere dispositivos na Consolidação das Leis do Trabalho, para facultar a suspensão do contrato de trabalho para a participação do trabalhador em curso ou programa de qualificação profissional, altera a Lei nº 7.998, de 11 de janeiro de 1990, para instituir a bolsa de qualificação profissional e permitir o pagamento de benefício no desemprego de longa duração, altera a Lei nº 6.321, de 14 de abril de 1976, e a Lei nº 6.494, de 7 de dezembro de 1977, e dá outras providências.

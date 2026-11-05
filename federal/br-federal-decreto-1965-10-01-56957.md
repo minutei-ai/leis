@@ -1,5 +1,3 @@
-###DEC-056957-0-000-01-10-1965@@@
-
 DECRETO Nº 56.957, DE 1º DE OUTUBRO DE 1965.
 
 Altera o Decreto nº  55.927, de 14 de abril de 1965, que declara de utilidade pública, para fins de desapropriação ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S. A. - PETROBRÁS, imóveis situados no Estado de Sergipe.

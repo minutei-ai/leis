@@ -1,7 +1,3 @@
-1
-
-###DEC-099288-0-000-06-06-1990@@@
-
 DECRETO N° 99.288, DE 6 DE JUNHO DE 1990
 
 Transfere atribuições, e competência, do extinto Instituto do Açúcar e do Álcool (IAA), e de seus órgãos, para a Secretaria do Desenvolvimento Regional, e dá outras providências.

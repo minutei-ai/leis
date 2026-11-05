@@ -1,5 +1,3 @@
-###DEC-048663-0-000-04-08-1960@@@
-
 DECRETO Nº 48.663, DE 4 DE AGÔSTO DE 1960.
 
 Concede autorização para funcionamento de curso.

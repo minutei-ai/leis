@@ -1,5 +1,3 @@
-###DEC-066356-0-000-20-03-1970@@@
-
 DECRETO Nº 66.356 - DE 20 DE MARÇO DE 1970
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

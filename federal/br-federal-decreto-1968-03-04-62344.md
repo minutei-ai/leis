@@ -1,5 +1,3 @@
-###DEC-062344-0-000-04-03-1968@@@
-
 DECRETO Nº 62.344, DE 4 DE MARÇO DE 1968.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde Cotegipe, município de Cotegipe, até a Base Naval de Aratu, Município de Simões Filho, no Estado da Bahia.

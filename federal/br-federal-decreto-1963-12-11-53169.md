@@ -1,5 +1,3 @@
-###DEC-053169-0-000-11-12-1963@@@
-
 DECRETO Nº 53.169, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza Indústrias Reunidas Vidrobrás Ltda., a pesquisar areia quartzoza no município de Descalvado, Estado de São Paulo.

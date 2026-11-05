@@ -1,5 +1,3 @@
-###DEC-079519-0-000-13-04-1977@@@
-
 DECRETO Nº 79.519, DE 13 DE ABRIL DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias á implantação da subestação de Taubaté, da Centrais Elétricas de São Paulo S.A. - CESP, no Estado de São Paulo.

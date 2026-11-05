@@ -1,5 +1,3 @@
-###DEC-066157-0-000-03-02-1970@@@
-
 decreto nº 66.157, de 3 de fevereiro de 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em São Gabriel - RS, destinado ao Ministério do Exército.

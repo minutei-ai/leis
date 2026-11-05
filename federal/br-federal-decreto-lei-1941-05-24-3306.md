@@ -1,5 +1,3 @@
-###DEL-003306-0-000-24-05-1941@@@
-
 DECRETO-LEI N. 3.306 – DE 24 DE MAIO DE 1941
 
 Institue, com personalidade própria de natureza autárquica, a Estrada de Ferro Central do Brasil, e dá outras providências

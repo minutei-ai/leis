@@ -1,5 +1,3 @@
-###DEC-066305-0-000-10-03-1970@@@
-
 DECRETO Nº 66.305 - DE 10 DE MARÇO DE 1970
 
 Declara de utilidade pública a Sociedade Israelita de Educação do Rio de Janeiro, com sede no Estado da Guanabara.

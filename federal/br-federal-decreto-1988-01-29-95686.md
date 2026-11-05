@@ -1,7 +1,3 @@
-1
-
-###DEC-095686-0-000-29-01-1988@@@
-
 DECRETO N° 95.686, DE 29 DE JANEIRO DE 1988
 
 Reajusta o valor do Piso Nacional de Salários.

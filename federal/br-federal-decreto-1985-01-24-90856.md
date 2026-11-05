@@ -1,5 +1,3 @@
-###DEC-090856-0-000-24-01-1985@@@
-
 Decreto nº 90.856, de 24 de janeiro de 1985.
 
 Altera o Decreto nº 86.217, de 15 de julho de 1981, que Institui a medalha-Prêmio "Almirante Wandenkolk".
@@ -19,8 +17,6 @@ Brasília, 24 de janeiro de 1985; 164º da Independência e 97º da República.
 JOãO FIGUEIREDO
 
 Alfredo Karam
-
-###DEC-090856-0-000-24-01-1985@@@REP01+++
 
 Decreto Nº 90.856, de 24 de janeiro de 1985.
 

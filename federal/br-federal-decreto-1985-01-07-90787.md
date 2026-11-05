@@ -1,5 +1,3 @@
-###DEC-090787-0-000-07-01-1985@@@
-
 Decreto nº 90.787, de 07 de janeiro de 1985
 
 Dispõe sobre o limite do Capital Autorizado da Petroflex Indústria e Comércio S.A.

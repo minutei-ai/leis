@@ -1,7 +1,3 @@
-1
-
-###DEC-097768-0-000-19-05-1989@@@
-
 DECRETO Nº 97.768, DE 19 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “BOQUEIRÃO, RAPADURA E NOVA OLINDA (DATA PALMEIRA)”, classificado como “latifúndio por exploração”, situado no Município de Codó, no Estado do Maranhão, compreendido na zona prioritária, fixada pelo Decreto nº 92.619, de 02 de maio de 1986, e dá outras providências.

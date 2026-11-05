@@ -1,5 +1,3 @@
-###DEL-005670-0-000-15-07-1943@@@
-
 DECRETO‑LEI N. 5.670 – DE 15 DE JULHO DE 1943
 
 Prorroga a vigência da tabela de salário mínimo e dá outras providências.

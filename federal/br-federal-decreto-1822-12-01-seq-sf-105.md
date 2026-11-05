@@ -1,5 +1,3 @@
-###DEC-000000-0-105-01-12-1822@@@
-
 DECRETO - DO 1º DE DEZEMBRO DE 1822
 
 Concede o perdão do crime de deserção a determinados soldados do Batalhão de Artilharia da Marinha do Rio de Janeiro, que se acham presos.

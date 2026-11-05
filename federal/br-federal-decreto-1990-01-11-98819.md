@@ -1,7 +1,3 @@
-1
-
-###DEC-098819-0-000-11-01-1990@@@
-
 DECRET0 Nº 98.819, DE 11 DE JANEIR0 DE 1990
 
 Altera o prazo de concessão outorgada no Estado do Paraná, através do Decreto nº 36.398 de 23 de fevereiro de 1949 e dá outras providências
@@ -31,8 +27,6 @@ Brasília, 11 de janeiro de 1990; 169º da Independência e 102º da República.
 JOSÉ SARNEY
 
 José Reinaldo Carneiro Tavares
-
-###DEC-098819-0-000-11-01-1990@@@RET01+++
 
 # DECRETO N° 98.819, DE 11 DE JANEIRO DE 1990
 

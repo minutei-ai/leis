@@ -1,5 +1,3 @@
-###DEC-096653-0-000-06-09-1988@@@
-
 DECRETO N° 96.653, DE 6 DE SETEMBRO DE 1988
 
 Dispõe sobre a intervenção na  Transbrasil S.A. Linhas Aéreas.

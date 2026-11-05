@@ -1,5 +1,3 @@
-###DEC-077887-0-000-22-06-1976@@@
-
 decreto nº 77.887, DE 22 de junho de 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Radio Paulista Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Paulista, Estado Pernambuco.

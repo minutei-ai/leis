@@ -1,5 +1,3 @@
-###DEC-082820-0-000-11-12-1978@@@
-
 Decreto nº 82.820, de 11 de dezembro de 1978
 
 Confisca bens de JAUARY GUIMARÃES DE SOUZA MARINHO para reparação de danos causados ao patrimônio público e dá outras providências.

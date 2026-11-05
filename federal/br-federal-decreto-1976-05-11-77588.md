@@ -1,5 +1,3 @@
-###DEC-077588-0-000-11-05-1976@@@
-
 decreto nº 77.588 - de 11 de mai0 de 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educadora de Campinas S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Campinas, Estado de São Paulo.

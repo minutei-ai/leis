@@ -1,5 +1,3 @@
-###DEC-003931-0-000-19-09-2001@@@
-
 DECRETO Nº 3.931, DE 19 DE SETEMBRO DE 2001
 
 Regulamenta o Sistema de Registro de Preços previsto no art. 15 da Lei nº 8.666, de 21 de junho de 1993, e dá outras providências.

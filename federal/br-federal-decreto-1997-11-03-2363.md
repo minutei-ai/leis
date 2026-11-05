@@ -1,5 +1,3 @@
-###DEC-002363-0-000-03-11-1997@@@
-
 DECRETO Nº 2.363, DE 3 DE NOVEMBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.281, de 24 de julho de 1997, e dá outras providências.

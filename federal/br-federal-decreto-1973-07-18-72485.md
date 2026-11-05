@@ -1,5 +1,3 @@
-###DEC-072485-0-000-18-07-1973@@@
-
 DECRETO Nº 72.485, DE 18 DE JUlHO DE 1973.
 
 Dispões sobre o enquadramento de professores da Faculdade de Direito de Sergipe e dá outras providências

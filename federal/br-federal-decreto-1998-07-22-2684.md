@@ -1,5 +1,3 @@
-###DEC-002684-0-000-22-07-1998@@@
-
 DECRETO Nº 2.684, DE 22 DE JULHO DE 1998
 
 Dispõe sobre os cargos privativos de Oficial-General do Exército em Tempo de Paz e dá outras providências.

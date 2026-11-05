@@ -1,5 +1,3 @@
-###DEC-003617-0-000-02-10-2000@@@
-
 DECRETO Nº 3.617, DE 2 DE Outubro DE 2000.
 
 Dispõe sobre a composição do Conselho Nacional de Política Cultural do Ministério da Cultura, e dá outras providências.

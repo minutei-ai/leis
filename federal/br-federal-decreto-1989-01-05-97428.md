@@ -1,5 +1,3 @@
-###DEC-097428-0-000-05-01-1989@@@
-
 DECRETO N° 97.428, DE 5 DE JANEIRO DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados do Instituto Cultural Newton Paiva Ferreira.

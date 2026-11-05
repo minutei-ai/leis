@@ -1,5 +1,3 @@
-###DEC-053661-0-000-04-03-1964@@@
-
 Decreto nº 53.661, de 4 de março de 1964.
 
 Cria a Embaixada do Brasil na Nova Zelândia.

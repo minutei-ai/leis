@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209268)<br>
-
 # DECRETO N° 68.421, DE 02 DE ABRIL DE 2024
 
 ### _Delega competência ao Secretário de Parcerias em Investimentos para os fins que especifica._

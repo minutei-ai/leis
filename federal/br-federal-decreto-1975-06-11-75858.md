@@ -1,5 +1,3 @@
-###DEC-075858-0-000-11-06-1975@@@
-
 DECRETO Nº 75.858, DE 11 DE JUNHO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras "Castro Alves", mantida pelo Instituto de Ensino Superior "Castro Alves" - IESCA, com sede na Cidade de São Paulo, Estado de São Paulo.

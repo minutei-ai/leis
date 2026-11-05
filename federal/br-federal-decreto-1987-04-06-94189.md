@@ -1,5 +1,3 @@
-###DEC-094189-0-000-06-04-1987@@@
-
 DECRETO Nº 94.189, DE 6 DE ABRIL DE 1987
 
 Renova a concessão outorgada à FUNDAÇÃO CULTURAL CELINAUTA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Clevelândia, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-057061-0-000-15-10-1965@@@
-
 DECRETO Nº 57.061, DE 15 DE OUTUBRO DE 1965.
 
 Aprova o Regulamento sôbre a fiscalização do comércio de sementes e mudas, a que se refere a Lei número 4.727, de 17-07-1965.

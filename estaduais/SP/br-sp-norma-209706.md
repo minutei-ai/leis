@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209706)<br>
-
 # DECRETO N° 68.695, DE 11 DE JULHO DE 2024
 
 ### _Autoriza a abertura de licitação para a concessão dos serviços públicos de ampliação, operação, conservação, manutenção e realização dos investimentos necessários à exploração dos sistemas rodoviários denominados "Lote Rota Sorocabana" e "Lote Nova Raposo", e aprova o respectivo regulamento._
@@ -100,7 +98,8 @@ Rafael Antonio Cren Benini        
 
 #### REGULAMENTO DA CONCESSÃO DOS SERVIÇOS PÚBLICOS DE EXPLORAÇÃO DOS SISTEMAS RODOVIÁRIOS DENOMINADOS "LOTE ROTA SOROCABANA" E "LOTE NOVA RAPOSO"  
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar a concessão dos serviços públicos de ampliação, operação, conservação, manutenção e realização dos investimentos necessários à exploração dos sistemas rodoviários denominados:  
@@ -159,7 +158,8 @@ II - Sistema Remanescente, compreendendo a Rodovia SP 280, do quilômetro 13+290
 
 **Artigo 5° -** Aos sistemas rodoviários descritos nos artigos 3° e 4° deste regulamento serão incorporadas todas as ampliações a serem implantadas durante o período da concessão, que passarão a integrar sua faixa de domínio.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Serviços Previstos no Sistema Rodoviário
 
 **Artigo 6° -** Os serviços e demais atividades operacionais a serem executados nos sistemas rodoviários são classificados em:  
@@ -288,7 +288,8 @@ IV - declaração de utilidade pública ou de interesse social para fins de desa
 
 **Parágrafo único -** Os sistemas de controle e automação a que se refere este artigo deverão permitir integral aplicação dos serviços não delegados, especialmente no que se refere à fiscalização de trânsito.  
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Responsabilidades das Concessionárias
 
 **Artigo 11 -** São deveres das concessionárias, durante todo o prazo de concessão, sem prejuízo do disposto no respectivo contrato de concessão:  
@@ -355,7 +356,8 @@ XXX- manter em plena operação, e dentro dos padrões estabelecidos, os canais 
 
 XXXI- observar o regramento estabelecido no contrato de concessão e normas expedidas pela ARTESP quanto à devolução dos sistemas rodoviários ou eventual transferência para as concessionárias que as sucedam.  
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa e das Penalidades
 
 **Artigo 12 -** Estão sujeitos a fiscalização e monitoramento todos os serviços previstos no presente regulamento.  
@@ -372,12 +374,14 @@ Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa 
 
 **§ 2° -** A fiscalização do serviço será feita pela ARTESP, que poderá contratar serviços de apoio à fiscalização, observado o disposto na [Lei Complementar n° 914, de 14 de janeiro de 2002](https://www.al.sp.gov.br/norma/935), e alterações posteriores.   
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Do Policiamento Ostensivo, Preventivo e Repressivo
 
 **Artigo 15 -** As atividades policiais de caráter ostensivo, preventivo e repressivo, e outras atribuídas por lei à Polícia Militar, serão exercidas, nos sistemas rodoviários de que trata este regulamento, pela Polícia Militar Rodoviária.  
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Tarifas de Pedágio e das Receitas
 
 **Artigo 16 -** Constituem receitas das concessionárias, a partir das datas previstas nos editais:  
@@ -404,7 +408,8 @@ IX - outras previstas no respectivo edital e Contrato de Concessão, ou que venh
 
 **Parágrafo único -** As concessionárias deverão adotar a política de desconto para usuários frequentes, nos termos e condições previstos no respectivo edital e contrato de concessão.    
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Dos Direitos e Obrigações dos Usuários
 
 **Artigo 18 -** São direitos e obrigações dos usuários:  
@@ -425,7 +430,8 @@ VII - contribuir para a conservação das boas condições dos bens públicos po
 
 **Artigo 19 -** A ARTESP e as concessionárias estimularão a participação da comunidade em assuntos de interesse do sistema rodoviário objeto da respectiva concessão.   
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Das Disposições Gerais
 
 **Artigo 20 -** O Poder Concedente providenciará, mediante proposta das concessionárias, as medidas para a declaração de utilidade pública dos bens e áreas necessários à ampliação do sistema rodoviário, responsabilizando-se as concessionárias pela promoção das desapropriações e servidões administrativas, bem como pelas respectivas indenizações, nos termos do respectivo contrato de concessão.

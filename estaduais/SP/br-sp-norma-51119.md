@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51119)
-
 # LEI Nº 11.739, DE 03 DE JUNHO DE 2004
 
 ## (PL 1097/2003 - Celino Cardoso)

@@ -1,5 +1,3 @@
-###DEC-083766-0-000-23-07-1979@@@
-
 DECRETO Nº 83.766 DE 23 DE JULHO DE 1979.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Econômicas do Centro Cibernético Gay-Lussac, com sede na cidade de Niterói, Estado do Rio de Janeiro.

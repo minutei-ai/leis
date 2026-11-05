@@ -1,7 +1,3 @@
-1
-
-###DEC-098032-0-000-09-08-1989@@@
-
 DECRETO N° 98.032, DE 9 DE AGOSTO DE 1989
 
 Renova a concessão outorgada À RÁDIO HERÓIS DO JENIPAPO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Campo Maior, Estado do Piauí.

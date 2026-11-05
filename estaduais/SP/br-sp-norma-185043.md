@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185043)
-
 # DECRETO Nº 63.166, DE 19 DE JANEIRO DE 2018
 
 ### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Regional de Registro, e dá providências correlatas_
@@ -20,10 +18,16 @@ Palácio dos Bandeirantes, 19 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-David Everson Uip<br>
-Secretário da Saúde<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+David Everson Uip
+
+Secretário da Saúde
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 19 de janeiro de 2018.

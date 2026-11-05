@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/dad2d98a-e783-426d-b2d0-b9c1920834c2/texto#nowhere)
 
-###DEL-000843-0-000-09-09-1969@@@
-
 DECRETO-LEI Nº 843, DE 9 DE SETEMBRO DE 1969
 
 Aprova a reforma do ex-soldado Valdecir Raimundo Soares, cujo registro foi negado pelo Tribunal de Contas da União.

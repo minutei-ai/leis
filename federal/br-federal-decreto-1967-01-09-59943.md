@@ -1,5 +1,3 @@
-###DEC-059943-0-000-09-01-1967@@@
-
 DECRETO Nº 59.943, DE 9 DE JANEIRO DE 1967.
 
 Estabelece normas para o abate de gado bovino no ano de 1967 e determina outras providências.

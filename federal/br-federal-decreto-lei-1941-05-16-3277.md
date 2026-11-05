@@ -1,5 +1,3 @@
-###DEL-003277-0-000-16-05-1941@@@
-
 DECRETO-LEI N. 3.277 – DE 16 DE MAIO DE 1941
 
 Cria o posto de Capitão de Corveta no Quadro de Maquinistas da Armada e dá outras providências.

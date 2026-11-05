@@ -1,5 +1,3 @@
-###DEC-059301-0-000-23-09-1966@@@
-
 DECRETO Nº 59.301, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Nelson Deusdará Filho a pesquisar minério de manganês, no município de Caeté, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-085081-0-000-27-08-1980@@@
-
 Decreto nº 85.081, de 27 de agosto de 1980.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Niterói, Estado do Rio de Janeiro e de Recife, Estado de Pernambuco.

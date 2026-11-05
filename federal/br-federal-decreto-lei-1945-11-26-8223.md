@@ -1,5 +1,3 @@
-###DEL-008223-0-000-26-11-1945@@@
-
 DECRETO-LEI N. 8.223 – DE 26 DE NOVEMBRO DE 1945
 
 Suspende, temporariamente, a execução da alínea "l" do art. 12 do Decreto-lei nº 7.343, de 26 de fevereiro de 1945 e altera a alínea e do (ilegível) Decreto-lei.

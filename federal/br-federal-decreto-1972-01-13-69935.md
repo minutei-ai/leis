@@ -1,5 +1,3 @@
-###DEC-069935-0-000-13-01-1972@@@
-
 DECRETO Nº 69.935, de 13 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Fundação Agrícola Teutônia, com sede na Vila de Teutônia, Município de Estrêla, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-078858-0-000-30-11-1976@@@
-
 DECRETO Nº 78.858, DE 30 DE NOVEMBRO DE 1976.
 
 Concede a José Lúcio Rezende - firma individual o direito de lavrar calcário no Município de Matozinhos, Estado de Minas Gerais.

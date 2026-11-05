@@ -1,5 +1,3 @@
-###DEL-008269-0-000-03-12-1945@@@
-
 DECRETO-LEI N. 8.269 – DE 3 DE DEZEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta dos imóveis que menciona

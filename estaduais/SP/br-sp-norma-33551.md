@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/33551)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1981/compilacao-lei-2831-12.05.1981.html)
 
 # LEI N° 2.831, DE 12 DE MAIO DE 1981

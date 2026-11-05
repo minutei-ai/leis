@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/5a427382-2441-40b5-a7bd-1849cea9aeaf/texto#nowhere)
 
-###DEL-000859-0-000-11-09-1969@@@
-
 DECRETO-LEI Nº 859, DE 11 DE SETEMBRO DE 1969
 
 Mantém a destinação prevista no art. 16 do Decreto-lei nº 61, de 21.11.66, para aplicação na infra-estrutura aeronáutica e dá outras providências.

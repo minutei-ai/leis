@@ -1,5 +1,3 @@
-###DEC-051991-0-000-06-05-1963@@@
-
 DECRETO Nº 51.991, DE 6 DE MAIO DE 1963.
 
 Dispõe sôbre o funcionamento da Consultoria Geral da República.

@@ -4,14 +4,16 @@ Cria a Ouvidoria da Secretaria Municipal de Defesa Social, Guarda Municipal, e d
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA, ESTADO DE GOIÁS, APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA OUVIDORIA DA SECRETARIA MUNICIPAL DE DEFESA SOCIAL
 
 Art. 1º - Esta Lei cria em caráter permanente, na estrutura da Secretaria Municipal de Defesa Social, a Ouvidoria da Secretaria Municipal da Defesa Social, de acordo com o estabelecido na Lei Federal nº 10.826, de 22 de dezembro de 2003 e no Decreto Federal nº 5.123, de 01 de julho de 2004.
 
 Art. 2º - A Ouvidoria será o canal de comunicação direta entre a sociedade e a Secretaria Municipal de Defesa Social, recebendo daquela, reclamações, denúncias, sugestões e elogios, estimulando a participação do cidadão no controle e avaliação dos serviços prestados por esta Secretaria de Defesa Social.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COMPETÊNCIA DA OUVIDORIA
 
 Art. 3º - À Ouvidoria da Secretaria Municipal de Defesa Social, constitui-se em órgão permanente, autônomo e independente, que se destina a fiscalizar, investigar, auditorar e propor políticas de qualificação das atividades desenvolvidas pela Guarda Municipal, a qual compete:
@@ -32,7 +34,8 @@ VII - estimular a participação do cidadão na fiscalização e planejamento do
 
 VIII - encaminhar ao Prefeito, ao Secretário Municipal de Defesa Social, ao Secretário de Administração, ao Procurador Geral do Município, relatório mensal consolidado das atividades, ocorrências e sugestões para o permanente aperfeiçoamento dos procedimentos adotados pelos integrantes da Secretaria Municipal de Defesa Social.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA COMPETÊNCIA DO OUVIDOR
 
 Art. 4º - Ao Ouvidor da Secretaria Municipal de Defesa Social, compete:
@@ -79,7 +82,8 @@ Art. 6º - O Ouvidor deve reportar-se diretamente ao Secretário Municipal de De
 
 § 2º - O Ouvidor manterá permanentemente atualizadas as informações e estatísticas referentes às atividades realizadas no âmbito da Ouvidoria da Secretaria Municipal de Defesa Social.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 7º - O acesso à Ouvidoria da Secretaria Municipal de Defesa Social, poderá ser realizado pessoalmente, de segunda à sexta-feira, no horário normal de atendimento, ou por meio de:
@@ -92,7 +96,8 @@ III - ligação telefônica através do Disque Ouvidoria; e
 
 IV - formulário eletrônico via internet, a ser disponibilizado na página da Prefeitura Municipal de Aparecida de Goiânia.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA LEGITIMIDADE DAS RECLAMAÇÕES E REPRESENTAÇÕES
 
 Art. 8º - Poderá dirigir-se à Ouvidoria, qualquer pessoa, brasileira ou estrangeira, física ou jurídica, que se considere lesada ou ameaçada por integrantes do Quadro de Servidores da Secretaria Municipal de Defesa Social, no exercício e desempenho de suas funções ou em razão dela.
@@ -109,7 +114,8 @@ Art. 12 - O Ouvidor da Secretaria Municipal de Defesa Social, mediante despacho 
 
 § 1º - As reclamações e representações indeferidas deverão constar nos relatórios dispostos no inciso VIII, do art. 3º e § 1º, do art. 6º.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 13 - A Ouvidoria da Secretaria Municipal de Defesa Social será composta pelas seguintes funções:
@@ -174,14 +180,18 @@ Art. 24 – Esta Lei entra em vigor na data de sua publicação, revogando-se as
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 17 dias do mês de abril de 2008.
 
-JOSÉ MACÊDO DE ARAÚJO<br>
+JOSÉ MACÊDO DE ARAÚJO
+
 Prefeito Municipal
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 Secretário Executivo
 
-MARCELO RIBEIRO FERNANDES<br>
+MARCELO RIBEIRO FERNANDES
+
 Procurador Geral do Município
 
-FÁBIO GONÇALVES DA SILVA<br>
+FÁBIO GONÇALVES DA SILVA
+
 Secretário de Administração

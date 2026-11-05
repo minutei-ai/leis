@@ -1,7 +1,3 @@
-1
-
-###DEC-098967-0-000-20-02-1990@@@
-
 DECRETO N° 98.967, DE 20 DE FEVEREIRO DE 1990
 
 Altera dispositivos do Decreto n° 97.667, de 19 de abril de 1989.

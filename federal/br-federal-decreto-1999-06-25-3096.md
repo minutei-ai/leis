@@ -1,5 +1,3 @@
-###DEC-003096-0-000-25-06-1999@@@
-
 decreto nº 3.096, de 25 de junho de 1999.
 
 Dispõe sobre o remanejamento, em caráter temporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores – DAS que menciona, e dá outras providências.

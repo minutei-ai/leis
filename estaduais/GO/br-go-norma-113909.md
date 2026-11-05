@@ -56,5 +56,6 @@ b) quanto ao art. 78-C do Anexo XII do [Decreto nº 4.852](https://legisla.casac
 
 Goiânia, 22 de abril de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

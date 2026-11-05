@@ -1,5 +1,3 @@
-###DEC-069387-0-000-20-10-1971@@@
-
 DECRETO Nº 69.387, DE 20 DE OUTUBRO DE 1971.
 
 Declara a cessação da exploração de serviços de energia elétrica, outorga concessão à Espírito Santo Centrais Elétricas S.A. e dá outras providências.

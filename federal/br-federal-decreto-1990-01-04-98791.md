@@ -1,7 +1,3 @@
-1
-
-###DEC-098791-0-000-04-01-1990@@@
-
 DECRETO Nº 98.791, DE 4 DE JANEIRO DE 1990
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo Regional de Abertura de Mercados em Favor do Equador (Acordo nº 2), entre o Brasil e o Equador.

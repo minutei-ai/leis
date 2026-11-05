@@ -1,5 +1,3 @@
-###DEC-048114-0-000-13-04-1960@@@
-
 decreto nº 48.114, de 13 de abril de 1960.
 
 Altera o Quadro do Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

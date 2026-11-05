@@ -1,5 +1,3 @@
-###DEC-062079-0-000-08-01-1968@@@
-
 DECRETO Nº 62.079, DE 8 DE JANEIRO DE 1968.
 
 Autoriza o cidadão brasileiro Aurélio de Almeida Seabra Velloso a lavrar mármore e calcário, no município de Belmonte, Estado da Bahia.

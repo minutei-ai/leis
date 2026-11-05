@@ -1,5 +1,3 @@
-###DEC-059449-0-000-03-11-1966@@@
-
 DECRETO Nº 59.449, DE 3 DE NOVEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros da Bahia, inclusive aumento do capital social.

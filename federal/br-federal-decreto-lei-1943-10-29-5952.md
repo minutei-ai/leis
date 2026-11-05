@@ -1,5 +1,3 @@
-###DEL-005952-0-000-29-10-1943@@@
-
 DECRETO‑LEI N. 5.952 – DE 29 DE OUTUBRO DE 1943
 
 Autoriza o aproveitamento na Reserva Aeronáutica de alunos que concluam com aproveitamento cursos em Escolas de Formação de Oficiais dos Es­tados Unidos da América do Norte

@@ -1,5 +1,3 @@
-###DEC-070709-0-000-13-06-1972@@@
-
 DECRETO Nº 70.709, DE 13 DE JUNHO DE 1972.
 
 Torna sem efeito a redistribuição de servidor do Ministério dos Transportes para o Ministério da Educação e Cultura, e dá outras providências.

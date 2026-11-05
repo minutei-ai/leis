@@ -1,5 +1,3 @@
-###DEC-077107-0-000-04-02-1976@@@
-
 decreto nº 77.107, de 4 de fevereiro de 1976.
 
 Dispõe sobre a edição e distribuição de livros textos e dá outras providências.

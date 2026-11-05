@@ -1,5 +1,3 @@
-###DEC-084551-0-000-11-03-1980@@@
-
 DECRETO Nº 84.551, DE 11 DE MARÇO DE 1980.
 
 Concede autorização à COMPANHIA ESSO PROSPECÇÃO DO BRASIL, para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S/A - PETROBRÁS.

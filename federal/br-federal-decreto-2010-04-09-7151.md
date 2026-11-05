@@ -1,5 +1,3 @@
-###DEC-007151-0-000-09-04-2010@@@
-
 DECRETO Nº 7.151, DE 9 DE ABRIL DE 2010.
 
 Aprova o Estatuto Social da Empresa de Tecnologia e Informações da Previdência Social - DATAPREV

@@ -1,5 +1,3 @@
-###DEC-053494-0-000-27-01-1964@@@
-
 DECRETO Nº 53.494, DE 27 DE JANEIRO DE 1964.
 
 Altera o Regulamento para o Colégio Naval.

@@ -1,5 +1,3 @@
-###DEC-050058-0-000-25-01-1961@@@
-
 DECRETO Nº 50.058, DE 25 DE JANEIRO DE 1961.
 
 Altera o Regulamento para a Escala Naval.

@@ -1,5 +1,3 @@
-###DEL-006610-0-000-21-06-1944@@@
-
 DECRETO-LEI N. 6.610 – DE 21 DE JUNHO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 212.937,00, para o fim que especifica

@@ -1,5 +1,3 @@
-###DEC-067389-0-000-16-10-1970@@@
-
 decreto nº 67.389, de 16 de outubro de 1970.
 
 Declara caduco o Decreto nº 38.497, de 31 de dezembro de 1955.

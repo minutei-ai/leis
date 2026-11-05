@@ -1,5 +1,3 @@
-###DEC-048791-0-000-12-08-1960@@@
-
 DECRETO Nº48.791, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Mardegan a lavrar água mineral no município de Ibirá, Estado de São Paulo.

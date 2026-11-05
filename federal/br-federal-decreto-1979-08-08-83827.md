@@ -1,5 +1,3 @@
-###DEC-083827-0-000-08-08-1979@@@
-
 Decreto nº 83.827, de 08 de agosto de 1979.
 
 Altera dispositivos do Regulamento para o Corpo de Praças do Corpo de Fuzileiros Navais, aprovado pelo Decreto nº 79.770, de 3 de junho de 1977.

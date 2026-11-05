@@ -1,5 +1,3 @@
-###DEC-081695-0-000-22-05-1978@@@
-
 Decreto nº 81.695, de 22 de maio de 1978
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do imóvel que menciona, situado no Município de Cáceres, Estado de Mato Grosso.

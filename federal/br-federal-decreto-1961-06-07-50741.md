@@ -1,18 +1,16 @@
-###DEC-050741-0-000-07-06-1961@@@
+**DECRETO Nº 50.741, DE 7 DE JUNHO DE 1961.**
 
-<strong>DECRETO Nº 50.741, DE 7 DE JUNHO DE 1961.</strong>
+***Cria a Comissão de Desenvolvimento do Centro-Oeste e dá outras providências.***
 
-<em><strong>Cria a Comissão de Desenvolvimento do Centro-Oeste e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica criada a Comissão de Desenvolvimento do Centro-Oeste com o objetivo de coordenar e executar estudos e programas para o desenvolvimento da região compreendida pelos Estados de Goiás e Mato Grosso e pelo Distrito Federal.
 
-<strong>Art</strong>. 1º Fica criada a Comissão de Desenvolvimento do Centro-Oeste com o objetivo de coordenar e executar estudos e programas para o desenvolvimento da região compreendida pelos Estados de Goiás e Mato Grosso e pelo Distrito Federal.
+**Art**. 2º A Comissão de Desenvolvimento Federal, é subordinada diretamente ao Presidente da República.
 
-<strong>Art</strong>. 2º A Comissão de Desenvolvimento Federal, é subordinada diretamente ao Presidente da República.
-
-<strong>Art</strong>. 3º A Comissão de Desenvolvimento do Centro-Oeste se constitui de 14 (quatorze) membros, sendo 3 (três) indicados, respectivamente, pelos Governadores dos Estados de Goiás e Mato Grosso e pelo Prefeito do Distrito Federal e 11 (onze) representantes dos seguintes órgãos.
+**Art**. 3º A Comissão de Desenvolvimento do Centro-Oeste se constitui de 14 (quatorze) membros, sendo 3 (três) indicados, respectivamente, pelos Governadores dos Estados de Goiás e Mato Grosso e pelo Prefeito do Distrito Federal e 11 (onze) representantes dos seguintes órgãos.
 
 a) Ministério da Agricultura;
 
@@ -38,7 +36,7 @@ k) Superintendência do Plano de Valorização Econômica da Amazônia.
 
 Parágrafo único. Os governadores dos Estados e o Prefeito do Distrito Federal, sempre que o desejarem, assumirão pessoalmente a representação das suas respectivas Unidades Federadas.
 
-<strong>Art</strong>. 4º Incumbe à Comissão do Desenvolvimento do Centro-Oeste:
+**Art**. 4º Incumbe à Comissão do Desenvolvimento do Centro-Oeste:
 
 a) elaborar o diagnóstico preliminar da economia da região;
 
@@ -54,15 +52,15 @@ f) organizar o seu regimento interno;
 
 g) aprovar a aplicação dos recursos financeiros que forem  postos à sua disposição.
 
-<strong>Art</strong>. 5º A Comissão poderá reunir-se em diferentes localidades da região e na capital da República, deliberação por maioria de votos.
+**Art**. 5º A Comissão poderá reunir-se em diferentes localidades da região e na capital da República, deliberação por maioria de votos.
 
 Parágrafo único. As reuniões da Comissão serão presididas rotativamente pelos representantes dos Governos estaduais e do Distrito Federal que a compõem.
 
-<strong>Art</strong>. 6º Os trabalhos técnicos e administrativos da Comissão serão executados por uma Secretaria Executiva, sob a responsabilidade de um Diretor Executivo designado pelo Presidente da República.
+**Art**. 6º Os trabalhos técnicos e administrativos da Comissão serão executados por uma Secretaria Executiva, sob a responsabilidade de um Diretor Executivo designado pelo Presidente da República.
 
-<strong>Art</strong>. 7º À Secretaria Executiva compete:
+**Art**. 7º À Secretaria Executiva compete:
 
-a) elaborar o diagnóstico preliminar a que se refere a alíne <em>a</em>, do art. 4º;
+a) elaborar o diagnóstico preliminar a que se refere a alíne *a*, do art. 4º;
 
 b) assistir aos membros da Comissão, suprindo-os de informações, estudos e sugestões que se fizerem necessários ao exercício de suas atribuições;
 
@@ -74,7 +72,7 @@ e) cooperar com o DASP no exame das proposições que incluírem recursos para a
 
 f) desincumbir-se das atividades técnicas e administrativas indispensáveis à realização das finalidades da Comissão.
 
-<strong>Art</strong>. 8º Em conformidade com as diretrizes da política de desenvolvimento regional, e em articulação com o DASP, a Secretaria Executiva proporá medidas, inclusive de natureza legislativa objetivando:
+**Art**. 8º Em conformidade com as diretrizes da política de desenvolvimento regional, e em articulação com o DASP, a Secretaria Executiva proporá medidas, inclusive de natureza legislativa objetivando:
 
 a) a extinção de órgãos que perderam razão de ser em conseqüência da mudança de condições;
 
@@ -86,7 +84,7 @@ d) as medidas necessárias a eliminação de duplicidade ou oposição de funç�
 
 Parágrafo único. Para os fins dêste artigo a Secretaria Executiva observará a adequação dos órgãos especialmente no que respeita a parte que lhes cabe ou caberá no desenvolvimento da região e avaliará a eficiência dos mesmos em face dos recursos financeiros que lhes forem ou lhes deram ser concedidos.
 
-<strong>Art</strong>. 9º São atribuições do Diretor Executivo.
+**Art**. 9º São atribuições do Diretor Executivo.
 
 a) representar oficialmente a Comissão;
 
@@ -104,13 +102,13 @@ g) fixar a retribuição por serviços técnicos prestados à Comissão, e atrib
 
 h) autorizar as despesas previstas em orçamento aprovado pela Comissão.
 
-<strong>Art</strong>. 10. A. Comissão instituída neste Decreto funcionará enquanto não fôr criada, por lei, a Superintendência do Desenvolvimento do Centro-Oeste.
+**Art**. 10. A. Comissão instituída neste Decreto funcionará enquanto não fôr criada, por lei, a Superintendência do Desenvolvimento do Centro-Oeste.
 
-<strong>Art</strong>. 11. Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 11. Êste Decreto entrará em vigor na data de sua publicação.
 
 Brasília, (DF), 7 de junho de 1961; 140º da Independência e 73º da República.
 
-<strong>JÂNIO QUADROS</strong>
+**JÂNIO QUADROS**
 
 Oscar Pedroso Horta
 

@@ -1,5 +1,3 @@
-###DEC-062413-0-000-15-03-1968@@@
-
 DECRETO Nº 62.413, DE 15 DE MARÇO DE 1968.
 
 Aprova o Regulamento do Serviço Atuarial do Ministério do Trabalho e Previdência Social e dá outras providências.

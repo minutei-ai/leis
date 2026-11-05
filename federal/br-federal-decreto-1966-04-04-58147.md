@@ -1,5 +1,3 @@
-###DEC-058147-0-000-04-04-1966@@@
-
 Decreto nº 58.147, de 4 de abril de 1966.
 
 Autoriza a Companhia de Eletricidade do Estado da Bahia a construir linha de transmissão.

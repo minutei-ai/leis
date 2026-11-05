@@ -1,5 +1,3 @@
-###DEC-046380-0-000-07-07-1959@@@
-
 DECRETO Nº 46.380, DE 7 DE JULHO DE 1959.
 
 Constitui Grupo de Trabalho com a finalidade de estudar, planejar e executar um programa do treinamento de dirigentes e líderes cooperativistas, no Estado do Maranhão.

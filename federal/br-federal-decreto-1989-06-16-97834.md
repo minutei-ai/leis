@@ -1,7 +1,3 @@
-1
-
-###DEC-097834-0-000-16-06-1989@@@
-
 DECRETO N° 97.834, DE 16 DE JUNHO DE 1989
 
 Regulamenta a exigência da prova de quitação de tributos e de contribuições federais nos casos que menciona.

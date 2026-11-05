@@ -1,5 +1,3 @@
-###DEC-070175-0-000-18-02-1972@@@
-
 DECRETO Nº 70.175, DE 18 DE FEveREIRO DE 1972.
 
 Declara de utilidade pública a Associação de Caridade São Francisco Xavier, com sede em Itaguaí, Estado do Rio de Janeiro.

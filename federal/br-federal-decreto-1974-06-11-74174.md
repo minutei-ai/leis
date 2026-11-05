@@ -1,5 +1,3 @@
-###DEC-074174-0-000-11-06-1974@@@
-
 DECRETO Nº 74.174, DE 11 DE JUNHO DE 1974.
 
 Dá nova redação à letra "j" e § 1º , do artigo 1º, do Decreto nº 53.937, de 29 de maio de 1964, alterado pelos de números 54.383, de 6 de outubro de 1964, 64.490, de 12 de maio de 1969, 65.582, de 21 de outubro de 1969, e 70.159, de 17 de fevereiro de 1972, que fixa a lotação de Adidos e Adjuntos de Adidos Naval, do Exército e Aeronáutica junto as Representações Diplomáticas no exterior e dá outras providências.

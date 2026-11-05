@@ -1,5 +1,3 @@
-###DEC-088453-0-000-30-06-1983@@@
-
 # Decreto nº 88.453, DE 30 de junho de 1983
 
 Dispõe sobre equivalência de cursos para efeito de aplicação do disposto no artigo 1º do Decreto nº 86.763, de 22 de dezembro de 1981.
@@ -39,8 +37,6 @@ Brasília, DF , 30 de junho de 1983; 162º da Independência e 95º da Repúblic
 JOÃO FIGUEIREDO
 
 Waldir de Vasconcelos
-
-###DEC-088453-0-000-30-06-1983@@@REP01+++
 
 # (\*) Decreto nº 88.453, de 30 de junho de 1983.
 

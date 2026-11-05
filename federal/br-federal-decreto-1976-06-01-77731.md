@@ -1,5 +1,3 @@
-###DEC-077731-0-000-01-06-1976@@@
-
 DECRETO Nº 77.731, DE 1º DE JUNHO DE 1976
 
 Concede reconhecimento ao curso de Formação de Professores, Esquemas I e II, da Faculdade de Formação de Professores, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

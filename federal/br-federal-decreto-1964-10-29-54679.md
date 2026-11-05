@@ -1,5 +1,3 @@
-###DEC-054679-0-000-29-10-1964@@@
-
 Decreto nº 54.679, de 29 de outubro de 1964.
 
 Declara públicas, de uso comum, as águas do curso que especifica.

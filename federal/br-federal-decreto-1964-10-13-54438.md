@@ -1,5 +1,3 @@
-###DEC-054438-0-000-13-10-1964@@@
-
 DECRETO Nº 54.438, DE 13 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Antônio Preto de Godoy a pesquisar feldspato, no município de Socorro, Estado de São Paulo.

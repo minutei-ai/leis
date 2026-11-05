@@ -1,5 +1,3 @@
-###DEC-064266-0-000-21-03-1969@@@
-
 DECRETO Nº 64.266, DE 21 DE MARÇO DE 1969.
 
 Concede à Liz S/A - Comércio e Beneficiamento de Calcário o direito de lavrar calcário no município de Laranjeiras, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-074093-0-000-23-05-1974@@@
-
 DECRETO Nº 74.093, DE 23 DE MAIO DE 1974.
 
 Eleva à categoria de Embaixada as Legações do Brasil na República Popular da Bulgária, na República Popular da Hungria, na República Socialista da Romênia e na República da África do Sul.

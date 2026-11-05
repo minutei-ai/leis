@@ -1,5 +1,3 @@
-###DEC-082654-0-000-16-11-1978@@@
-
 DECRETO Nº 82.654, DE 16 DE NOVEMBRO DE 1978.
 
 Declara de utilidade pública, para fins de desapropriação, diversos imóveis constituídos de terrenos e prédios, situados na Cidade do Rio de Janeiro RJ, necessários ao Ministério da Aeronáutica.

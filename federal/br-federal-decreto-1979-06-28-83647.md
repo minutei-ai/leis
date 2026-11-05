@@ -1,5 +1,3 @@
-###DEC-083647-0-000-28-06-1979@@@
-
 Decreto nº 83.647, de 28 de junho de 1979.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Econômicas da Faculdade de Ciências Humanas-ESUDA, com sede na cidade de Recife, Estado de Pernambuco.

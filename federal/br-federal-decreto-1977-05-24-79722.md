@@ -1,5 +1,3 @@
-###DEC-079722-0-000-24-05-1977@@@
-
 decreto nº 79.722, de 24 de maio de 1977.
 
 Reajusta valores da Indenização de Representação fixados pelo Decreto número 77.805, de junho de 1976.

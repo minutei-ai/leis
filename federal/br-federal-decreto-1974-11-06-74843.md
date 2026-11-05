@@ -1,5 +1,3 @@
-###DEC-074843-0-000-06-11-1974@@@
-
 DECRETO Nº 74.843, DE 6 DE NOVEMBRO DE 1974
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz, no Estado de São Paulo.

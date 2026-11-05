@@ -1,5 +1,3 @@
-###DEC-050319-0-000-07-03-1961@@@
-
 DECRETO Nº 50.319, DE 7 DE MARÇO DE 1961.
 
 Determina a sustação do regime de tempo integral para os técnicos dos serviços de saúde.

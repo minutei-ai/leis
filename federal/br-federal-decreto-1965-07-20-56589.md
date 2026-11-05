@@ -1,5 +1,3 @@
-###DEC-056589-0-000-20-07-1965@@@
-
 Decreto nº 56.589, de 20 de julho de 1965.
 
 Modifica a divisão do território nacional em Zonas Aéreas

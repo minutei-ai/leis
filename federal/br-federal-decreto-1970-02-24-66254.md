@@ -1,5 +1,3 @@
-###DEC-066254-0-000-24-02-1970@@@
-
 DECRETO Nº 66.254 - DE 24 DE FEVEREIRO DE 1970
 
 Dispõe sobre a entrega das quotas do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios e do Fundo de Participação dos Municípios, e dá outras providências.

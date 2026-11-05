@@ -1,5 +1,3 @@
-###DEC-007856-0-000-06-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.856, DE 6 DE DEZEMBRO DE 2012
 
 Discrimina ações do Programa Territórios da Cidadania a serem executadas por meio de transferência obrigatória, no exercício de 2012.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095701-0-000-04-02-1988@@@
-
 DECRETO Nº 95.701, DE 4 DE FEVEREIRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Administração e Ciências Contábeis de Linhares, Espírito Santo.

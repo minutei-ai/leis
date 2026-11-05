@@ -1,5 +1,3 @@
-###DEC-046625-0-000-14-08-1959@@@
-
 DECRETO Nº 46.625, DE 14 DE AGÔSTO DE 1959.
 
 Outorga à Companhia Paranaense de Energia Elétrica - COPEL - autorização de estudos para aproveitamento de diversos desníveis situados na bacia do baixo Iguaçu, no trecho compreendido entre Salto Grande e a fronteira com a República Argentina.

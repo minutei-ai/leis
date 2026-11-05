@@ -1,5 +1,3 @@
-###DEC-006339-0-000-03-01-2008@@@
-
 DECRETO Nº 6.339, DE 3 DE JANEIRO DE 2008.
 
 Altera as alíquotas do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.
@@ -115,5 +113,3 @@ Brasília, 3 de janeiro de 2008; 187º da Independência e 120º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 3.1.2008 - Edição extra

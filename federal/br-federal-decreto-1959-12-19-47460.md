@@ -1,5 +1,3 @@
-###DEC-047460-0-000-19-12-1959@@@
-
 decreto nº 47.460, de 19 de dezembro de 1959.
 
 Autoriza o Ministério da Fazenda a dar o aval do Tesouro Nacional às operações de crédito entre a Prefeitura do Distrito Federal, e entidades financiadoras.

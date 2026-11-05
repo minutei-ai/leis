@@ -64,5 +64,6 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação, com efeitos a 
 
 Aparecida de Goiânia, 17 de março de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

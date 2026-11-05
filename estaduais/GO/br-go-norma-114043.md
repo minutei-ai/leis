@@ -16,24 +16,318 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI</td><td style=" width:85px;    ">10 126 1043 2499</td><td style=" width:85px;    ">16000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 150.000,00</td><td style=" width:85px;    ">R$ 1.719.174,00</td><td style=" width:85px;    ">R$ 1.869.174,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE &nbsp;PROCEDIMENTOS E ENSAIOS LABORATORIAIS PARA OS SERVIÇOS DE VIGILÂNCIA EM SAÚDE</td><td style=" width:85px;    ">10 302 1043 2521</td><td style=" width:85px;    ">16000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.468.951,83</td><td style=" width:85px;    ">R$ 2.500.000,00</td><td style=" width:85px;    ">R$ 3.968.951,83</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO E DISPONIBILIZAÇÃO DE MEDICAMENTOS E INSUMOS DOS PLANOS DE CONTINGÊNCIA</td><td style=" width:85px;    ">10 303 1043 2491</td><td style=" width:85px;    ">16000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 477.160,00</td><td style=" width:85px;    ">R$ 477.160,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">10 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 103.085.458,85</td><td style=" width:85px;    ">R$ 628.650,00</td><td style=" width:85px;    ">R$ 103.714.108,85</td></tr><tr><td style=" width:85px;    ">QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS</td><td style=" width:85px;    ">10 128 1043 2520</td><td style=" width:85px;    ">17990142</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 4.000.000,00</td><td style=" width:85px;    ">R$ 4.000.000,00</td></tr><tr><td style=" width:85px;    ">COORDENAÇÃO DO PROGRAMA &nbsp;NACIONAL DE IMUNIZAÇÃO &nbsp;EM ÂMBITO ESTADUAL</td><td style=" width:85px;    ">10 305 1043 2512</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 360.000,00</td><td style=" width:85px;    ">R$ 330.000,00</td><td style=" width:85px;    ">R$ 690.000,00</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td style=" width:85px;    ">10 305 1043 2519</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.802.418,56</td><td style=" width:85px;    ">R$ 1.200.000,00</td><td style=" width:85px;    ">R$ 4.002.418,56</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR</td><td style=" width:85px;    ">10 304 1043 2497</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.269.937,03</td><td style=" width:85px;    ">R$ 800.000,00</td><td style=" width:85px;    ">R$ 2.069.937,03</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 628.650,00</td></tr><tr><td style=" width:340px;    ">16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE</td><td style=" width:340px;    ">R$ 4.696.334,00</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style=" width:340px;    ">R$ 4.000.000,00</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 2.330.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 11.654.984,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI
+
+10 126 1043 2499
+
+16000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 150.000,00
+
+R$ 1.719.174,00
+
+R$ 1.869.174,00
+
+REALIZAÇÃO DE  PROCEDIMENTOS E ENSAIOS LABORATORIAIS PARA OS SERVIÇOS DE VIGILÂNCIA EM SAÚDE
+
+10 302 1043 2521
+
+16000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.468.951,83
+
+R$ 2.500.000,00
+
+R$ 3.968.951,83
+
+AQUISIÇÃO E DISPONIBILIZAÇÃO DE MEDICAMENTOS E INSUMOS DOS PLANOS DE CONTINGÊNCIA
+
+10 303 1043 2491
+
+16000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 477.160,00
+
+R$ 477.160,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+10 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 103.085.458,85
+
+R$ 628.650,00
+
+R$ 103.714.108,85
+
+QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS
+
+10 128 1043 2520
+
+17990142
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 4.000.000,00
+
+R$ 4.000.000,00
+
+COORDENAÇÃO DO PROGRAMA  NACIONAL DE IMUNIZAÇÃO  EM ÂMBITO ESTADUAL
+
+10 305 1043 2512
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 360.000,00
+
+R$ 330.000,00
+
+R$ 690.000,00
+
+PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS
+
+10 305 1043 2519
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.802.418,56
+
+R$ 1.200.000,00
+
+R$ 4.002.418,56
+
+REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR
+
+10 304 1043 2497
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.269.937,03
+
+R$ 800.000,00
+
+R$ 2.069.937,03
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 628.650,00
+
+16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE
+
+R$ 4.696.334,00
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 4.000.000,00
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 2.330.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 11.654.984,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">16000232</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 589.190.042,08</td><td style=" width:85px;    ">R$ 4.219.174,00</td><td style=" width:85px;    ">R$ 4.219.174,00</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">16000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 7.200.000,00</td><td style=" width:85px;    ">R$ 477.160,00</td><td style=" width:85px;    ">R$ 477.160,00</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 81.319.771,61</td><td style=" width:85px;    ">R$ 628.650,00</td><td style=" width:85px;    ">R$ 628.650,00</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">17990142</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 5.157.000,00</td><td style=" width:85px;    ">R$ 4.000.000,00</td><td style=" width:85px;    ">R$ 4.000.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 104.857.189,36</td><td style=" width:85px;    ">R$ 2.330.000,00</td><td style=" width:85px;    ">R$ 2.330.000,00</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 628.650,00</td></tr><tr><td style=" width:340px;    ">16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE</td><td style=" width:340px;    ">R$ 4.696.334,00</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style=" width:340px;    ">R$ 4.000.000,00</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 2.330.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 11.654.984,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 628.650,00</td></tr><tr><td style=" width:340px;    ">16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE</td><td style=" width:340px;    ">R$ 4.696.334,00</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style=" width:340px;    ">R$ 4.000.000,00</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 2.330.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 11.654.984,00</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+16000232
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 589.190.042,08
+
+R$ 4.219.174,00
+
+R$ 4.219.174,00
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+16000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 7.200.000,00
+
+R$ 477.160,00
+
+R$ 477.160,00
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 81.319.771,61
+
+R$ 628.650,00
+
+R$ 628.650,00
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+17990142
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 5.157.000,00
+
+R$ 4.000.000,00
+
+R$ 4.000.000,00
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 104.857.189,36
+
+R$ 2.330.000,00
+
+R$ 2.330.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 628.650,00
+
+16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE
+
+R$ 4.696.334,00
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 4.000.000,00
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 2.330.000,00
+
+**TOTAL**
+
+R$ 11.654.984,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 628.650,00
+
+16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE
+
+R$ 4.696.334,00
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 4.000.000,00
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 2.330.000,00
+
+**TOTAL**
+
+R$ 11.654.984,00

@@ -1,5 +1,3 @@
-###DEC-005537-0-000-13-09-2005@@@
-
 DECRETO Nº 5.537, DE 13 DE SETEMBRO DE 2005.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Peru sobre Facilitação para o Ingresso e Trânsito de seus Nacionais em seus Territórios, de 10 de fevereiro de 2004.
@@ -128,4 +126,12 @@ ARTIGO 14
 
         Feito na Cidade de Lima, aos 10 dias de fevereiro de 2004, em dois exemplares nos idiomas português e castelhano, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:239.6pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL CELSO AMORIM Ministro de Estado das Relações Exteriores</span></p></td><td style="width:239.65pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DO PERU MANUEL RODRIGUEZ CUADROS Ministro das Relações Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:239.6pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL CELSO AMORIM Ministro de Estado das Relações Exteriores
+
+</td><td style="width:239.65pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DO PERU MANUEL RODRIGUEZ CUADROS Ministro das Relações Exteriores
+
+</td></tr></tbody></table>

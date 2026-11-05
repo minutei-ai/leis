@@ -8,17 +8,20 @@ Retifica o Anexo Único, inciso I, do Decreto nº [8.000](https://legisla.casaci
 
 Art. 1º Fica retificado o Anexo Único, inciso I, do Decreto nº [8.000](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66578/decreto-8000), de 20 de setembro de 2013, publicado no Suplemento do Diário Oficial do dia 23 do mesmo mês e ano, a fim de fazer nele a seguinte inclusão:
 
-| I – ENQUADRAMENTO PREVISTO PARA O EXERCÍCIO DE 2013 –<br>
+| I – ENQUADRAMENTO PREVISTO PARA O EXERCÍCIO DE 2013 –
+
 REFERENTE AOS 34% (ART. 6º DA LEI Nº [17.916](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89871/lei-17916), DE 27 DE DEZEMBRO DE 2012). |
 | --- |
-| NÍVEL DE ESCOLA-<br>
+| NÍVEL DE ESCOLA-
+
 RIDADE DO EMPREGO | ORDEM DE CLASSIFI-CAÇÃO | NOME | CPF/ME Nº |
 Nº DO PROCESSO DE REQUER-IMENTO DE ANISTIA/ INCLUSÃO
 
  | DATA DE NASCI-MENTO | DATA DE ADMISSÃO | DATA DE DEMISSÃO OU DE DISPENSA | ÚLTIMO CARGO OCUPADO JUNTO À EXTINTA CAIXEGO | EMPREGO EQUIVALENTE PARA ENQUA-DRAMENTO– ART. 7º DA LEINº [15.664](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79708/lei-15664), DE 2006 |
 | MÉDIO | 1 - F |
 
-LUIZ CARLOS VIEIRA<br>
+LUIZ CARLOS VIEIRA
+
 BORGES
 
  | \*\*\*.526. 701-\*\* |
@@ -32,8 +35,6 @@ BORGES
 Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 29 de dezembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

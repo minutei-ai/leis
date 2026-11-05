@@ -1,5 +1,3 @@
-###DEC-056229-0-000-30-04-1965@@@
-
 DECRETO Nº 56.229, DE 30 DE ABRIL DE 1965.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a modificar instalação elétrica.

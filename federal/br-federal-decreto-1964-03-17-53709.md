@@ -1,5 +1,3 @@
-###DEC-053709-0-000-17-03-1964@@@
-
 DECRETO Nº 53.709, DE 17 DE MARÇO DE 1964.
 
 Autoriza o cidadão brasileiro José Maria Aguiar a pesquisar cassiterita, no município de Lábrea, Estado do Amazonas.

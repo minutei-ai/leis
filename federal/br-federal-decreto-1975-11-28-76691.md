@@ -1,5 +1,3 @@
-###DEC-076691-0-000-28-11-1975@@@
-
 DECRETO Nº 76.691, DE 28 DE NOVEMBRO DE 1975.
 
 Autoriza a aterro de área em mar e a cessão, sob o regime de aforamento do terreno que menciona, situado no Município de Cabo Frio, Estado do Rio de Janeiro.

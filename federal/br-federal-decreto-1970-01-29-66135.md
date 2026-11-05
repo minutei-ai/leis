@@ -1,5 +1,3 @@
-###DEC-066135-0-000-29-01-1970@@@
-
 DECRETO Nº 66.135 - DE 29 DE JANEIRO DE 1970
 
 Declara de utilidade pública a Instituição Cristã de Assistência Social de Araguari - ICASA, com sede em Araguari, Estado de Minas Gerais.

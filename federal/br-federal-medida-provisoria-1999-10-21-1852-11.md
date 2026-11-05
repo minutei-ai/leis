@@ -1,5 +1,3 @@
-###MPV-001852-0-011-21-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.852-11, DE 21 DE OUTUBRO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

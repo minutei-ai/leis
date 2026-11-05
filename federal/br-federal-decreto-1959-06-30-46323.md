@@ -1,5 +1,3 @@
-###DEC-046323-0-000-30-06-1959@@@
-
 DECRETO Nº 46.323, DE 30 DE JUNHO DE 1959.
 
 Autoriza a Central Elétrica de Furnas S. A. a construir uma linha de transmissão de energia elétrica entre a Usina Hidrelétrica de Peixotos e a cidade de Belo Horizonte, no Estado de Minas Gerais.

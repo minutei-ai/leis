@@ -1,5 +1,3 @@
-###DEL-002090-0-000-27-12-1983@@@
-
 # DECRETO nº 2.090, de 27 de dezembro de 1983
 
 Reajusta os atuais valores de vencimentos e proventos dos funcionários da Secretaria do Tribunal Superior Eleitoral e dá outras providências.

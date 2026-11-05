@@ -1,5 +1,3 @@
-###DEC-064516-0-000-15-05-1969@@@
-
 DECRETO Nº 64.516, DE 15 DE MAIO DE 1969.
 
 Declara de utilidade pública para fins de desapropriação, o imóvel que menciona, necessário ao Ministro do Exército.

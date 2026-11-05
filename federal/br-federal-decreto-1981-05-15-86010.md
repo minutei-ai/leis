@@ -1,5 +1,3 @@
-###DEC-086010-0-000-15-05-1981@@@
-
 Decreto nº 86.010, de 15 de maio de 1981
 
 Dispõe sobre a Comissão de Coordenação do Transporte Aéreo Civil - COTAC do Ministério da Aeronáutica.

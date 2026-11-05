@@ -104,8 +104,6 @@ III – 1º de março de 2022, quanto aos demais dispositivos.
 
 Goiânia, 23 de setembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

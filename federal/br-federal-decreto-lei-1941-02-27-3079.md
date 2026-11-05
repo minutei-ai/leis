@@ -1,5 +1,3 @@
-###DEL-003079-0-000-27-02-1941@@@
-
 DECRETO-LEI N. 3.079 – DE 27 DE FEVEREIRO DE 1941
 
 Retifica a área transferida ao patrimônio da União pela Prefeitura do Distrito Federal “ex-vi” do disposto no  n. 2 do art. 2º do decreto-lei n. 1.146, de 13 de março de 1939

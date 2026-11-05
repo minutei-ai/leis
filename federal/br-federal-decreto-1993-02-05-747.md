@@ -1,7 +1,3 @@
-1
-
-###DEC-000747-0-000-05-02-1993@@@
-
 DECRETO N° 747, DE 5 DE FEVEREIRO DE 1993
 
 Consolida o regulamento da Lei n ° 8.249, de 24 de outubro de 1991, que esta­belece as características da Nota do Tesou­ro Nacional (NTN) e dá outras providências.

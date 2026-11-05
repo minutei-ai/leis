@@ -1,5 +1,3 @@
-###DEC-076568-0-000-06-11-1975@@@
-
 DECRETO Nº 76.568, DE 6 DE NOVEMBRO DE 1975.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de São Caetano, Estado de Pernambuco, compreendido na área prioritária de Reforma Agrária, de que trata o Decreto nº 56.583, de 19 de julho de 1965, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos números 60.465, de 14 de março de 1967, 68.085, de 18 de janeiro de 1971 e 75.147, de 27 de dezembro de 1974.

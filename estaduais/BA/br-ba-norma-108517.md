@@ -86,4 +86,28 @@ Waldeck Vieira Ornelas
 
 CARGOS EM COMISSÃO DA LOTEBA
 
-<table style="margin-left: 104.65pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 106.3pt; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="142"><p>DENOMINAÇÃO</p></td><td style="width: 66.7pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="89"><p align="center">SÍMBOLO</p></td><td style="width: 96.3pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="128"><p align="center">QUANTIDADE</p></td></tr><tr><td style="width: 106.3pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="142"><p style="text-align: justify;">Diretor</p></td><td style="width: 66.7pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="89"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 96.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">02</p></td></tr></tbody></table>
+<table style="margin-left: 104.65pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 106.3pt; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="142">
+
+DENOMINAÇÃO
+
+</td><td style="width: 66.7pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="89">
+
+SÍMBOLO
+
+</td><td style="width: 96.3pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="128">
+
+QUANTIDADE
+
+</td></tr><tr><td style="width: 106.3pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="142">
+
+Diretor
+
+</td><td style="width: 66.7pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="89">
+
+DAS-5
+
+</td><td style="width: 96.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="128">
+
+02
+
+</td></tr></tbody></table>

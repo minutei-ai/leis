@@ -1,5 +1,3 @@
-###DEL-009317-0-000-03-06-1946@@@
-
 DECRETO-LEI N. 9.317 – DE 3 DE JUNHO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona

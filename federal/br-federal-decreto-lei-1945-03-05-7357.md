@@ -1,5 +1,3 @@
-###DEL-007357-0-000-05-03-1945@@@
-
 DECRETO-LEI N. 7.357 – DE 5 DE MARÇO DE 1945
 
 Eleva o vencimento do Superintendente da Administração do Pôrto do Rio de Janeiro

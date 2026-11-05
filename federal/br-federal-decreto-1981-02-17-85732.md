@@ -1,5 +1,3 @@
-###DEC-085732-0-000-17-02-1981@@@
-
 decreto nº 85.732, de 17 de fevereiro de 1981.
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia, a ser ministrado pela Faculdade de Enfermagem e Obstetrícia, em Passos, Estado de Minas Gerais.

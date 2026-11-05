@@ -1,5 +1,3 @@
-###DEC-056133-0-000-27-04-1965@@@
-
 DECRETO Nº 56.133, DE 27 DE ABRIL DE 1965.
 
 Concede à Pearl Assurance Company, Limited autorização para aumentar o capital destinado às suas operações no País.

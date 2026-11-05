@@ -1,5 +1,3 @@
-###DEC-083358-0-000-23-04-1979@@@
-
 Decreto nº 83.358, de 23 de abril de 1979.
 
 Concede autorização à BAYER DO BRASIL INDÚSTRIAS QUÍMICAS S/A, com sede no Rio de Janeiro, para funcionar aos domingos e feriados civis e religiosos, nos setores industrial que menciona.

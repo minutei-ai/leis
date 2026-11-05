@@ -1,5 +1,3 @@
-###DEC-085949-0-000-29-04-1981@@@
-
 decreto nº 85.949, de 29 de abril de 1981
 
 Autoriza o aumento do capital social da Companhia de Navegação Lloyd Brasileiro - LLOYDBRÁS.

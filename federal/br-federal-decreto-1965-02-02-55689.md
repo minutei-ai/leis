@@ -1,5 +1,3 @@
-###DEC-055689-0-000-02-02-1965@@@
-
 DECRETO Nº 55.689, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Cypriano Chaves a pesquisar cassiterita, nos municípios de Resende Costa e Coronel Xavier Chaves, no Estado de Minas Gerais.

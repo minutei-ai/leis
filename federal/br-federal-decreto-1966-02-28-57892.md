@@ -1,5 +1,3 @@
-###DEC-057892-0-000-28-02-1966@@@
-
 DECRETO Nº 57.892, DE 28 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública a “Sociedade Uberabense de Proteção e Amparo dos Menores”, com sede em Uberaba, Estado de Minas Gerais.

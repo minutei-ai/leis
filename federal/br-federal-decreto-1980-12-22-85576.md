@@ -1,5 +1,3 @@
-###DEC-085576-0-000-22-12-1980@@@
-
 Decreto nº 85.576, de 22 de dezembro de 1980
 
 Declara de utilidade pública as ações representativas do capital social da Companhia Pontagrossense de Telecomunicações - CPT, para fins de desapropriação pela Telecomunicações Brasileiras S.A. - TELEBRÁS.

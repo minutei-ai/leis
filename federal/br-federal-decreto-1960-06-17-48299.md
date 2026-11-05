@@ -1,5 +1,3 @@
-###DEC-048299-0-000-17-06-1960@@@
-
 DECRETO Nº 48.299, DE 17 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro José de Lima a pesquisar amianto, no município de Itapaci, Estado de Goiás.

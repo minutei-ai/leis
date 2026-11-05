@@ -1,5 +1,3 @@
-###DEC-069416-0-000-23-10-1971@@@
-
 DECRETO Nº 69.416 - de 23 DE OUTUBRO DE 1971
 
 Transfere a sede da Academia da Fôrça Aérea para Pirassununga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-065081-0-000-29-08-1969@@@
-
 DECRETO Nº 65.081 - DE 29 DE AGôSTO DE 1969.
 
 Cria dois cargos de diretores para integrarem a administração do Instituto de Resseguros do Brasil.

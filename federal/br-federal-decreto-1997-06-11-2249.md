@@ -1,5 +1,3 @@
-###DEC-002249-0-000-11-06-1997@@@
-
 DECRETO Nº 2.249, DE 11 DE JUNHO DE 1997
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização – PND, de aproveitamentos hidrelétricos.

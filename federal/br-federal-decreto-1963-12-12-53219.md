@@ -1,5 +1,3 @@
-###DEC-053219-0-000-12-12-1963@@@
-
 DECRETO Nº 53.219, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia Mineira de Eletricidade e alienar instalações de transmissão de energia elétrica.

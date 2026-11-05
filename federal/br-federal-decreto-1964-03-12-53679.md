@@ -1,5 +1,3 @@
-###DEC-053679-0-000-12-03-1964@@@
-
 DECRETO Nº 53.679, DE 12 DE MARÇO DE 1964.
 
 Altera a redação do Artigo 3º do Decreto nº 34.701, de 26 de novembro de 1953, que organizou o Centro Técnico da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-067620-0-000-19-11-1970@@@
-
 DECRETO Nº 67.620, DE 19 DE NOVEMBRO DE 1970.
 
 Extingue o Instituto de Energia Atômica (I.E.A), como Órgão Integrante da Comissão Nacional de Energia Nuclear (CNEN) e dá outras providências.

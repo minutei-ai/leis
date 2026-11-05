@@ -1,5 +1,3 @@
-###DEC-003855-0-000-03-07-2001@@@
-
 DECRETO Nº 3.855, DE 3 DE JULHO DE 2001
 
 Regulamenta a Lei nº 9.973, de 29 de maio de 2000, que dispõe sobre o sistema de armazenagem dos produtos agropecuários, e dá outras providências.

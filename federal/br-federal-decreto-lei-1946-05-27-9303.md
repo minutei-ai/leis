@@ -1,5 +1,3 @@
-###DEL-009303-0-000-27-05-1946@@@
-
 DECRETO-LEI  N. 9.303 – DE 27 DE MAIO DE 1946
 
 Suprime os exames de licença ginasial e licença colegial e dá outras providências.

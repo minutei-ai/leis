@@ -1,5 +1,3 @@
-###DEC-074343-0-000-30-07-1974@@@
-
 DECRETO Nº 74.343 - DE 30 DE JULHO DE 1974.
 
 Concede autorização à "World Meteorological Organization" para realizar, no mar territorial do Brasil, os serviços que especifica.

@@ -1,5 +1,3 @@
-###MPV-001758-0-007-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.758-7, DE 14 DE DEZEMBRO DE 1998.
 
 Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios do Planejamento e Orçamento, da Agricultura e do Abastecimento, e do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, crédito extraordinário no valor de R$ 824.000.000,00, para os fins que especifica.

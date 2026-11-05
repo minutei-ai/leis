@@ -1,5 +1,3 @@
-###DEC-004266-0-000-11-06-2002@@@
-
 DECRETO Nº 4.266, DE 11 DE JUNHO DE 2002
 
 Dá nova redação ao Anexo ao Decreto nº 3.803, de 24 de abril de 2001, que dispõe sobre o crédito presumido da contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS-Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins, previsto nos arts. 3º e 4º da Lei nº 10.147, de 21 de dezembro de 2000.
@@ -22,4 +20,1924 @@ Barjas Negri
 
 A N E X O
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Categoria I - Medicamentos monodroga identificados com tarja vermelha ou preta</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ABACAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACAMPROSATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACARBOSE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACEBROFILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACECLOFENACO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE ATOSIBANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE BUSERELINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE CASPOFUNGINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE CIPROTERONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE DESMOPRESSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE DEXAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE FLUDROCORTISONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE GLATIRAMER</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE GOSERELINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE GUANABENZO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE LEUPROLIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE MEDROXIPROGESTERONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE MEGESTROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE NAFARELINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE SOMATOSTATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE TERLIPRESSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETAZOLAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETONIDO DE FLUOCINOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETONIDO DE TRIANCINOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACICLOVIR (EXCETO QUANDO DESTINADO À FORMULAÇÃO DERMATOLÓGICA)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACICLOVIR SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO NALIDÍXICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO PIPEMÍDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO TOLFENÂMICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO URSODESOXICÓLICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO VALPRÓICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO ZOLEDRÔNICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACIPIMOX</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACITRETINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACTINOMICINA D</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ADENOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ALBENDAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ALENDRONATO MONOSÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ALFACALCIDOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ALFUZOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ALOPURINOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ALPRAZOLAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ALPROSTADIL (EXCETO QUANDO DESTINADO À FORMULAÇÃO PARA DIAGNÓSTICO E TRATAMENTO DA DISFUNÇÃO ERÉTIL)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ALTEPLASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMIFOSTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMINOFILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMINOGLUTETIMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMISULPRIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMOBARBITAL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMOXICILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMPICILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMPICILINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMPRENAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ANASTRAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ANFOTERICINA B</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ANTIMONIATO DE MEGLUMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>APROTININA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ARTEMETER</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ARTESUNATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ASPARAGINASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ATENOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ATORVASTATINA CÁLCICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AURANOFINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AUROTIOMALATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AXETIL CEFUROXIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AZATIOPRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AZITROMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AZTREONAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BACLOFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BARBEXACLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZBROMARONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZILPENICILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZILPENICILINA BENZATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZILPENICILINA POTÁSSICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZNIDAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZOATO DE METRONIDAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZONIDAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BERACTANTO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BESILATO DE ANLODIPINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BESILATO DE ATRACÚRIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BESILATO DE CISATRACÚRIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BETA-CICLODEXTRINA PIROXICAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BETAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BEZAFIBRATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BICALUTAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BIMATOPROST</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BISMESILATO DE ALMITRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BISSULFATO DE QUINIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BITARTARATO DE EPINEFRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BITARTARATO DE METARAMINOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BITARTARATO DE NOREPINEFRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BITARTARATO DE VINORELBINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BRINZOLAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMAZEPAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMETO DE IPRATRÓPIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMETO DE PANCURÔNIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMETO DE PIPECURÔNIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMETO DE PIRIDOSTIGMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMETO DE VENCURÔNIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMIDRATO DE FENOTEROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BUDESONIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BUMETANIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BUSSULFANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CALCITONINA DE SALMÃO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CALCITONINA HUMANA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CALCITONINA SINTÉTICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CALCITRIOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CANDESARTANA CELEXETIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CAPECITABINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CAPTOPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARBACOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARBAMAZEPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARBENICILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARBONATO DE LÍTIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARBOPLATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARMUSTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARVEDILOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CASPOFUNGINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFACLOR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFADROXIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFALEXINA MONOHIDRATADA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFALOTINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFAZOLINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFETAMET PIVOXIL CLORIDRATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFIXIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFODIZIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFOPERAZONA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFOTAXIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFOTAXIMA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFOXITINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFPODOXIMA PROXETIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFPROZIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFPROZIL MONOIDRATADO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFTAZIDIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFTRIAXONA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CEFUROXIMA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CELECOXIB</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CERIVASTATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CETOCONAZOL (EXCETO QUANDO DESTINADO À FORMULAÇÃO DERMATOLÓGICA)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CETOROLACO DE TROMETAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CETOPROFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CICLOFOSFAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CICLOSERINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CICLOSPORINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CILAZAPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CIMETIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CINARIZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CIPROFIBRATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CIPROFLOXACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CISPLATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CITARABINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CITICOLINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CITRATO DE BISMUTO RANITIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CITRATO DE DIETILCARBAMAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CITRATO DE FENTANIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CITRATO DE SUFENTANILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CITRATO DE TAMOXIFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLADRIBINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLARITROMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLOBAZAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLODRONATO DISSÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLOFAZIMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLOFIBRATO DE ALUMÍNIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLONAZEPAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLOPIDOGREL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORAMBUCILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORANFENICOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORAZEPATO DIPOTÁSSICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORDIAZEPÓXIDO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE ACETILCOLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE BETANECOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE MIVACÚRIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE SUXAMETÔNIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ACECLIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ALFENTANILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ALIZAPRIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE AMANTADINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE AMILORIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE AMIODARONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE APRACLONIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BAMIFILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BARNIDIPINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BENAZEPRIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BENZIDAMINA (EXCETO QUANDO DESTINADO ÀS FORMULAÇÕES TÓPICAS)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BETAXOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BIPERIDENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BUFLOMEDILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BUPIVACAINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BUPRENORFINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BUSPIRONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CEFEPIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CETAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CIMETIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CIPROFLOXACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CITARABINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CLINDAMICINA (EXCETO QUANDO DESTINADO A FORMULAÇÕES TÓPICAS)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CLONIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CLOROEXIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CLORPROMAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DAUNORUBICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DELAPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DEXMEDETOMIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DEXRAZOXANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DIFENIDRAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DILTIAZEM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DIPIVEFRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DOBUTAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DONEPEZIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DOPAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DORZOLAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DOXICICLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DOXORUBICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE EPIRUBICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ESMOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ESPECTINOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ETAMBUTOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ETILEFRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE FENFORMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE FENILEFRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE FLUFENAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE GENCITABINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE GRANISETRONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE HIDRALAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE IDARUBICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE IRINOTECANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LERCANIDIPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LEVOBUNOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LEVOMEPROMAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LINCOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LISOZIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LOMEFLOXACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE MEFLOQUINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE METADONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE METFORMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE METIPRANOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE MEXILETINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE MIDAZOLAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE MINOCICLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE MITOXANTRONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE MONOCICLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE MOXIFLOXACINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE NALBUFINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE NALOXONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE NALTREXONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ONDANSETRONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE OXICODONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE OXITETRACICLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PETIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PILOCARPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PIOGLITAZONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PRAZOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PROCARBAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PROPAFENONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PROPRANOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE QUINAPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE RALOXIFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE RANITIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE REMIFENTANILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE RITODRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ROPIVACAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE SELEGILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE SOTALOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE SUFENTANILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TACRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TAMSULOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TERAZOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TERBINAFINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TETRACICLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TETRAHIDROZOLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TICLOPIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TIORIDAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TIROBIFANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TOPOTECANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TRAMADOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TRIEXIFENIDILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TROPISETRON</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE VANCOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE VERAPAMILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE ZIPRASIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORMETINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORPROPAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORTALIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLOXAZOLAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLOZAPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>COLCHICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>COLESTIRAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CROMOGLICATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DACARBAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DACTINOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DANAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DANTROLENO SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAPSONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DECANOATO DE HALOPERIDOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DECANOATO DE NANDROLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DECANOATO DE ZUCLOPENTIXOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEFLAZACORT</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESFLURANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESLANOSIDO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESOGESTREL (EXCETO EM FORMULAÇÕES CONTRACEPTIVAS)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESOXIMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEXAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIACEREINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIAZEPAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIAZÓXIDO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLOFENACO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLOFENACO ÁCIDO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLOFENACO COLESTIRAMÔNIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLOFENACO DIETILAMÔNIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLOFENACO POTÁSSICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLOFENACO RESINATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLOFENACO SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLORIDRATO DE CLOROQUINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLORIDRATO DE FLUNARIZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLORIDRATO DE PRAMIPEXOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLORIDRATO DE QUININA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLORIDRATO DE TRIFLUOPERAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DICLORIDRATO DE ZUCLOPENTIXOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIDANOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIETILESTILBESTROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIFOSFATO DE CLOROQUINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIFOSFATO DE DIETILESTILBESTROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIFOSFATO DE PRIMAQUINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIGITOXINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIGOXINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIIDROGENOFOSFATO DE RILMENIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIMERCAPROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIMETICONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DINITRATO DE ISOSSORBIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DINOPROSTONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIPIRIDAMOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIPROPIONATO DE BECLOMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIRITROMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DISSULFIRAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIVALPROATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DOCETAXOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DORNASE ALFA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DOXAZOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DOXICICLINA MONOIDRATADA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DOXOFILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DROPERIDOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DROXICAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>EFAVIRENZ</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENANTATO DE FLUFENAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENAPRILATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENDOFLURANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENFLURANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENOXAPARINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENTACAPONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ERTAPENEM SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESOMEPRAZOL MAGNÉSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESPIRAMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESPIRONOLACTONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTAVUDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTEARATO DE ERITROMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTOLATO DE ERITROMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTRADIOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTREPTOQUINASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTRIOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTROGÊNIOS CONJUGADOS</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETABONATO DE LOTEPREDNOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETAMBUTOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETIONAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETOFIBRATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETOMIDATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETOPOSIDO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETOPOSIDO FOSFATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>EXEMESTANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FAMOTIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FANCICLOVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FELODIPINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENILBUTAZONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENILBUTAZONA CÁLCICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENITOÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENITOÍNA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENOBARBITAL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENOBARBITAL SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENOFIBRATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENOXIMETILPENICILINA POTÁSSICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FENTETRAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FINASTERIDA (EXCETO QUANDO DESTINADO EM FORMULAÇÕES PARA TRATAMENTO DA ALOPÉCIA)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUCITOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUCONAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUMAZENIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUNISOLIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUORURACILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLURBIPROFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUTAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUVASTATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOLINATO DE CÁLCIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FORMESTANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSCARNETO SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO COMPLEXO DE TETRACICLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DE CLINDAMICINA (EXCETO QUANDO DESTINADO A FORMULAÇÕES TÓPICAS)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DE CODEÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DE DISOPIRAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DE FLUDARABINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DISSÓDICO DE BETAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DISSÓDICO DE DEXAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO SÓDICO DE PREDNISOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFESTROL TETRASSÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSINOPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOTEMUSTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUMARATO ÁCIDO DE CETOTIFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUMARATO DE BENCICLANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUMARATO DE BISOPROLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUMARATO DE FORMOTEROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUMARATO DE QUETIAPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FURAZOLIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUROATO DE MOMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUROSEMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GABAPENTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GANCICLOVIR SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GATIFLOXACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GENFIBROZILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GESTRINONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLIBENCLAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLICLAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLIMEPIRIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLIPIZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLUCAGON</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLUCAMETACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLUCONATO DE CLOROEXIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLUTARALDEÍDO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GRISEOFULVINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HALOPERIDOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HALOTANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HEMISSUCCINATO DE HIDROCORTISONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HEMISSUCCINATO SÓDICO DE CLORANFENICOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HEXACETONIDO DE TRIANCINOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HEXAIDROBENZOATO DE ESTRADIOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIALURONATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIALURONIDASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIDROGENOMALEATO DE LISURIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIDRÓXIDO DE FERRO ENDOVENOSO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIDROXIURÉIA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IBOPAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IBUPROFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IFOSFAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IMIGLUCERASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INDAPAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INDOMETACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INSULINA BOVINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INSULINA HUMANA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INSULINA MISTA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INSULINA SUÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IODOPOVIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IPRIFLAVONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IRBESARTANA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ISETIONATO DE PENTAMIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ISOFLURANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ISONIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ISRADIPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ITRACONAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IVERMECTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LACIDIPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LACTATO DE ANRINONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LACTATO DE BIPERIDENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LACTATO DE CIPROFLOXACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LACTATO DE MILRINONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LAMIVUDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LAMOTRIGINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LANSOPRAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LAPACHOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LATANOPROST</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LAURISULFATO SÓDICO DE MEPARTRICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LEFLUNOMIDE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LETROZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LEVOFLOXACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LEVOFOLINATO DE CÁLCIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LEVOSIMENDAN</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LIMECILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LINEZOLIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LIOTIRONINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LISINOPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOMUSTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOPINAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LORAZEPAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOSARTAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOSARTAM POTÁSSICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOVASTATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOXOPROFENO SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MALEATO DE ENALAPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MALEATO DE LEVOMEPROMAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MALEATO DE METILERGOMETRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MALEATO DE TIMOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MANIDIPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MANITOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MEBENDAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MELFALANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MELOXICAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MEPIRIZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MERCAPTOPURINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MEROPENEMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE BROMOCRIPTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE CODERGOCRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE DEFEROXAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE DELAVIRDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE DIIDROERGOCRISTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE DOLASETRONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE DOXAZOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE IMATINIB</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE NELFINAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE PEFLOXACINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE PERGOLIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE PRALIDOXIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE SAQUINAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESILATO DE ZIPRASIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MESNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METFORMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METILDIGOXINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METILDOPA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METIMAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METIPRANOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METISULFATO DE NEOSTIGMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METOTREXATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METOTREXATO SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METRONIDAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MICOFENOLATO DE MOFETILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MICONAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MILTEFOSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MINOXIDILA (EXCETO QUANDO DESTINADO EM FORMULAÇÕES PARA TRATAMENTO DA ALOPÉCIA)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MIOCAMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MISOPROSTOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MITOMICINA C</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MITOTANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MONONITRATO DE ISOSSORBIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MONTELUCASTE SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MOXIFLOXACINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MOXONIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NABUMETONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NADOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NADROPARINA CÁLCICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NAFTIDROFURILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NAPROXENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NAPROXENO SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NATEGLINIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NEDOCROMILA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NEVIRAPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NICERGOLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NIFEDIPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NIFURTIMOX</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NILUTAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NIMESULIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NIMODIPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NISOLDIPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NISTATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NITRATO DE MICONAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NITRENDIPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NITROFURANTOÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NITROGLICERINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NITROPRUSSIATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NIZATIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NORFLOXACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OCTREOTIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OFLOXACINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OLANZAPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OLEATO DE ETANOLAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OMEPRAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OMEPRAZOL MAGNÉSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OXACILINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OXALIPLATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OXAMNIQUINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OXCARBAZEPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OXIMETOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OXITOCINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PACLITAXEL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PALMITATO DE CLORANFENICOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PALMITATO DE COLFOSCERIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PALMITATO DE PIPOTIAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PAMIDRONATO DISSÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PANTOPRAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PANTOPRAZOL SÓDICO SESQUIDRATADO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PEFLOXACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PENFLURIDOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PENICILAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PENTOXIFILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PERICIAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PERINDOPRIL ERBUMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PERINDOPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIMETIXENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIMOZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PINDOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIOGLITAZONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIPOTIAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIRACETAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIRAZINAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIRETANIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIRIBEDILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIRIMETAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIROXICAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PRANOPROFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PRAVASTATINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PRAZIQUANTEL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PREDNISOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PREDNISONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PRIMAQUINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PRIMIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROBUCOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROGESTERONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROPATILNITRATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROPILTIOURACILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROPIONATO DE CLOBETASOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROPIONATO DE FLUTICASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROPOFOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROTIONAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>QUININA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RABEPRAZOL SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RALTITREXATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RAMIPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>REPAGLINIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RESERPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RETEPLASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RIBAVIRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RIFAMICINA SV SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RIFAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RIFAMPICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RILUZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RISEDRONATO SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RISPERIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RITONAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RIVASTIGMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ROFECOXIB</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ROSOXACINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ROXITROMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SALBUTAMOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SALMETEROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SAQUINAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SELEGILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SEVOFLURANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SINVASTATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SIROLIMUS</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SOMATOSTATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SOMATOTROFINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUBSCITRATO DE BISMUTO COLOIDAL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUCCINATO DE METOPROLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUCCINATO DE SUMATRIPTANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUCCINATO SÓDICO DE HIDROCORTISONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUCCINATO SÓDICO DE METILPREDNISOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFACETAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFADIAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFADIAZINA DE PRATA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFASALAZINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE AMICACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE ARBEKACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE BAMETANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE BLEOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE CAPREOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE CEFPIROMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE CLOROQUINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE EFEDRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE ESTREPTOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE GENTAMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE HIDROXICLOROQUINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE INDINAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE MORFINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE NETILMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE QUINIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE QUININA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE SALBUTAMOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE TERBUTALINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE TOBRAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE VIMBLASTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE VINCRISTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULPIRIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULTAMICILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUMATRIPTANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUPROFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TACRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TACROLIMUS</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TALIDOMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TAMOXIFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TARTARATO DE BRIMONIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TARTARATO DE METOPROLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TEICOPLANINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TELITROMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TELMISARTANA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TENIPOSIDEO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TENOXICAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TEOFILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TEOFILINATO DE AMBROXOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TERIZIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TETRACICLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIABENDAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIANFENICOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIAPRIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIBOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TILUDRONATO DISSÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIOGUANINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIOPENTAL SÓDICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIOSSULFATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIOTEPA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIOTIXENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIROXINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOBRAMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOLCAPONE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOPIRAMATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOREMIFENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOSILATO DE SULTAMICILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRANDOLAPRILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRAPIDIL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRAVOPROST</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRETINOÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRICLOSAN</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRIETIODETO DE GALAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRIFLUSAL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRIIODOTIRONINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRIMETAZIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRIPTORELINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>UBIDECARENOMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>UNOPROSTONA ISOPROPÍLICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALACICLOVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALERATO DE ESTRADIOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALPROATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALSARTAN</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VERTEPORFIRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VIGABATRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VINCAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>XINAFOATO DE SALMETEROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ZAFIRLUCAST</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ZALCITABINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ZIDOVUDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ZOLMITRIPTANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Categoria II - Medicamentos em associações identificados com tarja vermelha ou preta</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE BETAMETASONA + FOSFATO DISSÓDICO DE BETAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE CORTISONA + CLORIDRATO DE CLORTETRACICLINA + LORETINATO DE BISMUTO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETONIDO DE FLUOCINOLONA + CLORANFENICOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETONIDO DE FLUOCINOLONA + CLORIDRATO DE NAFAZOLINA + SULFATO DE NEOMICINA + SULFATO DE ZINCO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETONIDO DE FLUOCINOLONA + SULFATO DE POLIMIXINA B + SULFATO DE NEOMICINA + CLORIDRATO DE LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETONIDO DE TRIANCINOLONA + SULFATO DE POLIMIXINA B + SULFATO DE NEOMICINA + CLORIDRATO DE LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO SALICÍLICO + ÁCIDO BENZÓICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMBUFILINA + CLORIDRATO DE ETAFEDRINA + CLORIDRATO DE FENILEFRINA + SUCCINATO DE DOXILAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMBUFILINA + CLORIDRATO DE ETAFEDRINA + SUCCINATO DE DOXILAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMBUFILINA + CLORIDRATO DE ETAFEDRINA + SUCCINATO DE DOXILAMINA + GUAIFENESINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMILORIDA + CLORTALIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMOXICILINA + CLAVULANATO DE POTÁSSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMOXICILINA + SULBACTAM</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMPICILINA + PROBENECIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMPICILINA BENZATINA + AMPICILINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ARTEMETER + LUMEFANTRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ATENOLOL + CLORTALIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ATENOLOL + NIFEDIPINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AZTREONAM + ARGININA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZILPENICILINA + ANTÍGENOS BACTERIANOS + ÁCIDO ÉPSILON-AMINOCAPRÓICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BENZILPENICILINA POTÁSSICA + BENZILPENICILINA PROCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMAZEPAM + SULPIRIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMOPRIDA + DIMETICONA + PEPSINA + ALFA-AMILASE + LIPASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BROMOPRIDA + PANCREATINA + CELULASE + DIMETICONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CANDESARTANA CILEXETIL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CAPTOPRILA + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARBONATO DE SÓDIO + FENOL + CLORIDRATO DE PROCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CETRIMIDA + GLUCONATO DE CLOREXIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CIANOCOBALAMINA + CLORIDRATO DE PIRIDOXINA + CLORIDRATO DE TIAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CIANOCOBALAMINA + CLORIDRATO DE PIRIDOXINA + CLORIDRATO DE TIAMINA + ACETATO DE DEXAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CILAZAPRIL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CITRATO DE FENTANILA + DROPERIDOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLARITROMICINA + AMOXICILINA + LANSOPRAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLOFIBRATO DE ETILA + TARTARATO DE NICOTINILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORANFENICOL + CLORIDRATO DE LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORANFENICOL + DEXAMETASONA + CLORIDRATO DE LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORANFENICOL + SULFACETAMIDA SÓDICA + CLORIDRATO DE TETRACAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORFENESINA + CLORANFENICOL + CLORIDRATO DE LIDOCAÍNA + URÉIA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORFENESINA + CLORIDRATO DE TETRACAÍNA + VALERATO DE BETAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE AMILORIDA + FUROSEMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BENAZEPRIL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BUPIVACAINA + EPINEFRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE BUPIVACAÍNA + GLICOSE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CEFEPIMA + L-ARGININA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE CIPROFLOXACINA + DEXAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DOPAMINA + GLICOSE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE DORZOLAMIDA + MALEATO DE TIMOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE FENILEFRINA + CLORIDRATO DE LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LIDOCAÍNA + EPINEFRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LIDOCAÍNA + GLICOSE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE LIDOCAÍNA+BITARTARATO DE NOREPINEFRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE METOCLOPRAMIDA + DIMETICONA + ÁDICO DEIDROCÓLICO + CELULASE + PEPSINA + PANCREATINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE OXITETRACICLINA + SULFATO DE POLIMIXINA B</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PRILOCAÍNA + FELIPRESSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PROPRANOLOL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORTALIDONA + RESERPINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DALFOPRISTINA + QUINUPRISTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DESOXIMETASONA + SULFATO DE NEOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEXAMETASONA + CLORANFENICOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEXAMETASONA + CLORANFENICOL + CLORIDRATO DE TETRIZOLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEXAMETASONA + SULFATO DE GENTAMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEXAMETASONA + SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEXAMETASONA + SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B + HIPROMELOSE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DIMETICONA + PANCREATINA + DEICROLATO DE SÓDIO + BROMELINA + METOCLOPRAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ENANTATO DE HIDROXIPROGESTERONA + HEXAIDROBENZOATO DE ESTRADIOL + HEXAHIDROBENZOATO DE TESTOSTERONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESPIRANOMICINA + METRONIDAZOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESPIRONOLACTONA + FUROSEMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTRADIOL + ACETATO DE NORETISTERONA (EXCETO FORMULAÇÕES CONTRACEPTIVAS)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTRADIOL + LEVONORGESTREL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTRADIOL + NORGESTIMATO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESTROGÊNIOS CONJUGADOS + ACETATO DE MEDROXIPROGESTERONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETINILESTRADIOL + ACETATO DE CIPROTERONA (EXCETO FORMULAÇÕES CONTRACEPTIVAS)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ETINILESTRADIOL + ACETATO DE NORETISTERONA (EXCETO FORMULAÇÕES CONTRACEPTIVAS)</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FIBRINOLISINA + DESOXIRRIBONUCLEASE + CLORAFENICOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FIBRINOLISINA + DESOXIRRIBONUCLEASE + GENTAMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUORMETOLONA + SULFATO DE GENTAMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUORMETOLONA + SULFATO DE NEOMICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DISSÓDICO DE BETAMETASONA + DIPROPIONATO DE BETAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DISSÓDICO DE DEXAMETASONA + ACETATO DE DEXAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSINOPRIL SÓDICO + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUMARATO DE BISOPROLOL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUMARATO DE FORMOTEROL + BUDESONIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FUROSEMIDA + TRIANTERENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIDROCLOROTIAZIDA + ESPIRONOLACTONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIDROCLOROTIAZIDA + TRIANTERENO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>HIDROCLOROTIAZIDA + BISOPROLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IBUPROFENO + L-ARGININA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IMIPENEM + CILASTATINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IRBESARTANA + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ISONIAZIDA + RIFAMPICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LATANOPROST + MALEATO DE TIMOLOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LEVODOPA + CARBIDOPA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LEVODOPA + CLORIDRATO DE BENSERAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LIDOCAÍNA + PRILOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LIDOCAÍNA + SULFATO DE NEOMICINA + HIALURONIDASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LIPASE PANCREÁTICA + PROTEASE PANCREÁTICA + AMILASE PANCREÁTICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LISINOPRIL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOMIFILINA + MESILATO DE DIIDROERGOCRISTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOPINAVIR + RITONAVIR</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LOSARTAM + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MALEATO DE ENALAPRIL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MALEATO DE ENALAPRIL+ BESILATO ANLODIPINO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>METILDOPA + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NEOMICINA + BACITRACINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NITROFURAZONA + SULFATO DE NEOMICINA + ACETATO DE FLUDROCORTISONA + CLORIDRATO DE LIDOCAÍNA + DIMETILSULFÓXIDO + MENTOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NITROFURAZONA + SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B + CLORIDRATO DE LIDOCAÍNA + ACETATO DE FLUDROCORTISONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PANCREATINA + DIASTASE + PEPSINA + DIMETICONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PANCREATINA + DIMETICONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PANCREATINA +VITAMINA B6 + PAPAÍNA + DEICROLATO DE SÓDIO + NICOTINAMIDA + CLORETO DE MAGNÉSIO + DIASTASE + PEPSINA + VITAMINA B1 + VITAMINA B2 + HOMOCISTEINATIOLACTONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PEPSINA + ALFA-AMILASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PEPSINA +PANCREATINA + DIASTASE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PERINDOPRILA ERBUMINA + INDAPAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PIPERACILINA SÓDICA + TAZOBACTAMA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RAMIPRIL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RESERPINA + CLORTALIDONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RESERPINA + DISSULFATO ÁCIDO DE DIIDRALAZINA + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SALBUTAMOL + DIPROPIONATO DE BECLOMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUCCINATO DE METOPROLOL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULBACTAM + AMPICILINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULBACTAM + CEFOPERAZONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFACETAMIDA SÓDICA + ACETATO DE PREDNISOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFACETAMIDA SÓDICA + ACETATO DE PREDNISOLONA + HIPROMELOSE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFACETAMIDA SÓDICA + CLORANFENICOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFADIAZINA + TRIMETOPRIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFADOXINA + PIRIMETANIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFAMETOXAZOL + TRIMETOPRIMA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE GENTAMICINA + FOSFATO DISSÓDICO DE BETAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE NEOMICINA + CLORIDRATO DE LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE NEOMICINA + FOSFATO DISSÓDICO DE DEXAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B + ACETATO DE PREDNISOLONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B + HIDROCORTISONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE POLIMIXINA B + CLORIDRATO DE LIDOCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE TERBUTALINA + GUAIFENISINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TARTARATO DE METOPROLOL + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TEGAFUR + URACILA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TICARCILINA + CLAVULANATO DE POTÁSSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIROTRICINA + ÁCIDO SALICÍLICO + ÁCIDO BÓRICO + CLORIDRATO DE PROCAÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIROTRICINA + METABORATO DE ETILA + CLOROBUTANOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIROTRICINA + URÉIA + CLOROBUTANOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TIROXINA SÓDICA + LIOTIRONINA SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOBRAMICINA + DEXAMETASONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALERATO DE ESTRADIOL + ACETATO DE CIPROTERONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALERATO DE ESTRADIOL + ACETATO DE MEDROXIPROGESTERONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALERATO DE ESTRADIOL + LEVONORGESTREL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALERATO DE ESTRADIOL + NORETISTERONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALSARTAN + HIDROCLOROTIAZIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ZIDOVUDINA + LAMIVUDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Categoria III - Substâncias para Medicamentos utilizados em Nutrição Hidroeletrolítica Parenteral, Hemodiálise e Diálise Peritoneal, Substitutos do Plasma e Expansores Plasmáticos, identificados com tarja vermelha</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE L-LISINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE POTÁSSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE TOCOFEROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ACETATO DE ZINCO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO ACÉTICO PARA HEMODIÁLISE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO ASCÓRBICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO FÓLICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO L-ASPÁRTICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO L-GLUTÂMICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO PANTOTÊNICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁCIDO SELENIOSO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÁGUA PARA INJEÇÃO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AMIDO HIDROXIETÍLICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BICARBONATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>BIOTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CIANOCOBALAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE AMÔNIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE CÁLCIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE COBRE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE CROMO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE FERRO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE MAGNÉSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE MANGANÊS</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE POTÁSSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORETO DE ZINCO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE L-CISTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE L-LEUCINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE L-ORNITINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE PIRIDOXINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CLORIDRATO DE TIAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEXPANTENOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEXTRAN</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ERGOCALCIFEROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FITOMENADIONA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FLUORETO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DE POTÁSSIO DIBÁSICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFATO DE POTÁSSIO MONOBÁSICO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FOSFOLIPÍDEOS (LECITINA) DA GEMA DO OVO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FRUTOSE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLICEROL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLICINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLICONATO DE CÁLCIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GLICOSE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ICODEXTRINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IODETO DE POTÁSSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LACTATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-ALANINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-ARGININA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-ASPARAGINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-CISTEÍNA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-CISTINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>LECITINA DE OVO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-FENILALANINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-HISTIDINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-ISOLEUCINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-LEUCINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-LISINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-METIONINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-ORNITINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-PROLINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-SERINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-TIROSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-TREONINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-TRIPTOFANO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>L-VALINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MANITOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>MOLIBDATO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>N (2) - L - ALANIL - L - GLUTAMINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>N-ACETIL TIROSINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NICOTINAMIDA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÓLEO DE SOJA FRACIONADO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PALMITATO DE RETINOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>POLIGELINA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RIBOFLAVINA 5-FOSFATO SÓDICA</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SELENITO DE SÓDIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SORBITOL</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE COBRE</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE MAGNÉSIO</span></p></td></tr><tr><td style="padding:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE MANGANÊS</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SULFATO DE ZINCO</span></p></td></tr></tbody></table>
+Categoria I - Medicamentos monodroga identificados com tarja vermelha ou preta
+
+ABACAVIR
+
+ACAMPROSATO
+
+ACARBOSE
+
+ACEBROFILINA
+
+ACECLOFENACO
+
+ACETATO DE ATOSIBANO
+
+ACETATO DE BUSERELINA
+
+ACETATO DE CASPOFUNGINA
+
+ACETATO DE CIPROTERONA
+
+ACETATO DE DESMOPRESSINA
+
+ACETATO DE DEXAMETASONA
+
+ACETATO DE FLUDROCORTISONA
+
+ACETATO DE GLATIRAMER
+
+ACETATO DE GOSERELINA
+
+ACETATO DE GUANABENZO
+
+ACETATO DE LEUPROLIDA
+
+ACETATO DE MEDROXIPROGESTERONA
+
+ACETATO DE MEGESTROL
+
+ACETATO DE NAFARELINA
+
+ACETATO DE SOMATOSTATINA
+
+ACETATO DE TERLIPRESSINA
+
+ACETAZOLAMIDA
+
+ACETONIDO DE FLUOCINOLONA
+
+ACETONIDO DE TRIANCINOLONA
+
+ACICLOVIR (EXCETO QUANDO DESTINADO À FORMULAÇÃO DERMATOLÓGICA)
+
+ACICLOVIR SÓDICO
+
+ÁCIDO NALIDÍXICO
+
+ÁCIDO PIPEMÍDICO
+
+ÁCIDO TOLFENÂMICO
+
+ÁCIDO URSODESOXICÓLICO
+
+ÁCIDO VALPRÓICO
+
+ÁCIDO ZOLEDRÔNICO
+
+ACIPIMOX
+
+ACITRETINA
+
+ACTINOMICINA D
+
+ADENOSINA
+
+ALBENDAZOL
+
+ALENDRONATO MONOSÓDICO
+
+ALFACALCIDOL
+
+ALFUZOSINA
+
+ALOPURINOL
+
+ALPRAZOLAM
+
+ALPROSTADIL (EXCETO QUANDO DESTINADO À FORMULAÇÃO PARA DIAGNÓSTICO E TRATAMENTO DA DISFUNÇÃO ERÉTIL)
+
+ALTEPLASE
+
+AMIFOSTINA
+
+AMINOFILINA
+
+AMINOGLUTETIMIDA
+
+AMISULPRIDA
+
+AMOBARBITAL
+
+AMOXICILINA
+
+AMPICILINA
+
+AMPICILINA SÓDICA
+
+AMPRENAVIR
+
+ANASTRAZOL
+
+ANFOTERICINA B
+
+ANTIMONIATO DE MEGLUMINA
+
+APROTININA
+
+ARTEMETER
+
+ARTESUNATO DE SÓDIO
+
+ASPARAGINASE
+
+ATENOLOL
+
+ATORVASTATINA CÁLCICA
+
+AURANOFINA
+
+AUROTIOMALATO DE SÓDIO
+
+AXETIL CEFUROXIMA
+
+AZATIOPRINA
+
+AZITROMICINA
+
+AZTREONAM
+
+BACLOFENO
+
+BARBEXACLONA
+
+BENZBROMARONA
+
+BENZILPENICILINA
+
+BENZILPENICILINA BENZATINA
+
+BENZILPENICILINA POTÁSSICA
+
+BENZNIDAZOL
+
+BENZOATO DE METRONIDAZOL
+
+BENZONIDAZOL
+
+BERACTANTO
+
+BESILATO DE ANLODIPINO
+
+BESILATO DE ATRACÚRIO
+
+BESILATO DE CISATRACÚRIO
+
+BETA-CICLODEXTRINA PIROXICAM
+
+BETAMETASONA
+
+BEZAFIBRATO
+
+BICALUTAMIDA
+
+BIMATOPROST
+
+BISMESILATO DE ALMITRINA
+
+BISSULFATO DE QUINIDINA
+
+BITARTARATO DE EPINEFRINA
+
+BITARTARATO DE METARAMINOL
+
+BITARTARATO DE NOREPINEFRINA
+
+BITARTARATO DE VINORELBINA
+
+BRINZOLAMIDA
+
+BROMAZEPAM
+
+BROMETO DE IPRATRÓPIO
+
+BROMETO DE PANCURÔNIO
+
+BROMETO DE PIPECURÔNIO
+
+BROMETO DE PIRIDOSTIGMINA
+
+BROMETO DE VENCURÔNIO
+
+BROMIDRATO DE FENOTEROL
+
+BUDESONIDA
+
+BUMETANIDA
+
+BUSSULFANO
+
+CALCITONINA DE SALMÃO
+
+CALCITONINA HUMANA
+
+CALCITONINA SINTÉTICA
+
+CALCITRIOL
+
+CANDESARTANA CELEXETIL
+
+CAPECITABINA
+
+CAPTOPRILA
+
+CARBACOL
+
+CARBAMAZEPINA
+
+CARBENICILINA
+
+CARBONATO DE LÍTIO
+
+CARBOPLATINA
+
+CARMUSTINA
+
+CARVEDILOL
+
+CASPOFUNGINA
+
+CEFACLOR
+
+CEFADROXIL
+
+CEFALEXINA MONOHIDRATADA
+
+CEFALOTINA SÓDICA
+
+CEFAZOLINA SÓDICA
+
+CEFETAMET PIVOXIL CLORIDRATO
+
+CEFIXIMA
+
+CEFODIZIMA
+
+CEFOPERAZONA SÓDICA
+
+CEFOTAXIMA
+
+CEFOTAXIMA SÓDICA
+
+CEFOXITINA SÓDICA
+
+CEFPODOXIMA PROXETIL
+
+CEFPROZIL
+
+CEFPROZIL MONOIDRATADO
+
+CEFTAZIDIMA
+
+CEFTRIAXONA SÓDICA
+
+CEFUROXIMA SÓDICA
+
+CELECOXIB
+
+CERIVASTATINA
+
+CETOCONAZOL (EXCETO QUANDO DESTINADO À FORMULAÇÃO DERMATOLÓGICA)
+
+CETOROLACO DE TROMETAMINA
+
+CETOPROFENO
+
+CICLOFOSFAMIDA
+
+CICLOSERINA
+
+CICLOSPORINA
+
+CILAZAPRILA
+
+CIMETIDINA
+
+CINARIZINA
+
+CIPROFIBRATO
+
+CIPROFLOXACINA
+
+CISPLATINA
+
+CITARABINA
+
+CITICOLINA SÓDICA
+
+CITRATO DE BISMUTO RANITIDINA
+
+CITRATO DE DIETILCARBAMAZINA
+
+CITRATO DE FENTANIL
+
+CITRATO DE SUFENTANILA
+
+CITRATO DE TAMOXIFENO
+
+CLADRIBINA
+
+CLARITROMICINA
+
+CLOBAZAM
+
+CLODRONATO DISSÓDICO
+
+CLOFAZIMINA
+
+CLOFIBRATO DE ALUMÍNIO
+
+CLONAZEPAM
+
+CLOPIDOGREL
+
+CLORAMBUCILA
+
+CLORANFENICOL
+
+CLORAZEPATO DIPOTÁSSICO
+
+CLORDIAZEPÓXIDO
+
+CLORETO DE ACETILCOLINA
+
+CLORETO DE BETANECOL
+
+CLORETO DE MIVACÚRIO
+
+CLORETO DE SUXAMETÔNIO
+
+CLORIDRATO DE ACECLIDINA
+
+CLORIDRATO DE ALFENTANILA
+
+CLORIDRATO DE ALIZAPRIDA
+
+CLORIDRATO DE AMANTADINA
+
+CLORIDRATO DE AMILORIDA
+
+CLORIDRATO DE AMIODARONA
+
+CLORIDRATO DE APRACLONIDINA
+
+CLORIDRATO DE BAMIFILINA
+
+CLORIDRATO DE BARNIDIPINO
+
+CLORIDRATO DE BENAZEPRIL
+
+CLORIDRATO DE BENZIDAMINA (EXCETO QUANDO DESTINADO ÀS FORMULAÇÕES TÓPICAS)
+
+CLORIDRATO DE BETAXOLOL
+
+CLORIDRATO DE BIPERIDENO
+
+CLORIDRATO DE BUFLOMEDILA
+
+CLORIDRATO DE BUPIVACAINA
+
+CLORIDRATO DE BUPRENORFINA
+
+CLORIDRATO DE BUSPIRONA
+
+CLORIDRATO DE CEFEPIMA
+
+CLORIDRATO DE CETAMINA
+
+CLORIDRATO DE CIMETIDINA
+
+CLORIDRATO DE CIPROFLOXACINA
+
+CLORIDRATO DE CITARABINA
+
+CLORIDRATO DE CLINDAMICINA (EXCETO QUANDO DESTINADO A FORMULAÇÕES TÓPICAS)
+
+CLORIDRATO DE CLONIDINA
+
+CLORIDRATO DE CLOROEXIDINA
+
+CLORIDRATO DE CLORPROMAZINA
+
+CLORIDRATO DE DAUNORUBICINA
+
+CLORIDRATO DE DELAPRILA
+
+CLORIDRATO DE DEXMEDETOMIDINA
+
+CLORIDRATO DE DEXRAZOXANO
+
+CLORIDRATO DE DIFENIDRAMINA
+
+CLORIDRATO DE DILTIAZEM
+
+CLORIDRATO DE DIPIVEFRINA
+
+CLORIDRATO DE DOBUTAMINA
+
+CLORIDRATO DE DONEPEZIL
+
+CLORIDRATO DE DOPAMINA
+
+CLORIDRATO DE DORZOLAMIDA
+
+CLORIDRATO DE DOXICICLINA
+
+CLORIDRATO DE DOXORUBICINA
+
+CLORIDRATO DE EPIRUBICINA
+
+CLORIDRATO DE ESMOLOL
+
+CLORIDRATO DE ESPECTINOMICINA
+
+CLORIDRATO DE ETAMBUTOL
+
+CLORIDRATO DE ETILEFRINA
+
+CLORIDRATO DE FENFORMINA
+
+CLORIDRATO DE FENILEFRINA
+
+CLORIDRATO DE FLUFENAZINA
+
+CLORIDRATO DE GENCITABINA
+
+CLORIDRATO DE GRANISETRONA
+
+CLORIDRATO DE HIDRALAZINA
+
+CLORIDRATO DE IDARUBICINA
+
+CLORIDRATO DE IRINOTECANO
+
+CLORIDRATO DE LERCANIDIPINA
+
+CLORIDRATO DE LEVOBUNOLOL
+
+CLORIDRATO DE LEVOMEPROMAZINA
+
+CLORIDRATO DE LIDOCAÍNA
+
+CLORIDRATO DE LINCOMICINA
+
+CLORIDRATO DE LISOZIMA
+
+CLORIDRATO DE LOMEFLOXACINA
+
+CLORIDRATO DE MEFLOQUINA
+
+CLORIDRATO DE METADONA
+
+CLORIDRATO DE METFORMINA
+
+CLORIDRATO DE METIPRANOLOL
+
+CLORIDRATO DE MEXILETINA
+
+CLORIDRATO DE MIDAZOLAM
+
+CLORIDRATO DE MINOCICLINA
+
+CLORIDRATO DE MITOXANTRONA
+
+CLORIDRATO DE MONOCICLINA
+
+CLORIDRATO DE MOXIFLOXACINO
+
+CLORIDRATO DE NALBUFINA
+
+CLORIDRATO DE NALOXONA
+
+CLORIDRATO DE NALTREXONA
+
+CLORIDRATO DE ONDANSETRONA
+
+CLORIDRATO DE OXICODONA
+
+CLORIDRATO DE OXITETRACICLINA
+
+CLORIDRATO DE PETIDINA
+
+CLORIDRATO DE PILOCARPINA
+
+CLORIDRATO DE PIOGLITAZONA
+
+CLORIDRATO DE PRAZOSINA
+
+CLORIDRATO DE PROCARBAZINA
+
+CLORIDRATO DE PROPAFENONA
+
+CLORIDRATO DE PROPRANOLOL
+
+CLORIDRATO DE QUINAPRILA
+
+CLORIDRATO DE RALOXIFENO
+
+CLORIDRATO DE RANITIDINA
+
+CLORIDRATO DE REMIFENTANILA
+
+CLORIDRATO DE RITODRINA
+
+CLORIDRATO DE ROPIVACAÍNA
+
+CLORIDRATO DE SELEGILINA
+
+CLORIDRATO DE SOTALOL
+
+CLORIDRATO DE SUFENTANILA
+
+CLORIDRATO DE TACRINA
+
+CLORIDRATO DE TAMSULOSINA
+
+CLORIDRATO DE TERAZOSINA
+
+CLORIDRATO DE TERBINAFINA
+
+CLORIDRATO DE TETRACICLINA
+
+CLORIDRATO DE TETRAHIDROZOLINA
+
+CLORIDRATO DE TICLOPIDINA
+
+CLORIDRATO DE TIORIDAZINA
+
+CLORIDRATO DE TIROBIFANO
+
+CLORIDRATO DE TOPOTECANO
+
+CLORIDRATO DE TRAMADOL
+
+CLORIDRATO DE TRIEXIFENIDILA
+
+CLORIDRATO DE TROPISETRON
+
+CLORIDRATO DE VANCOMICINA
+
+CLORIDRATO DE VERAPAMILA
+
+CLORIDRATO DE ZIPRASIDONA
+
+CLORMETINA
+
+CLORPROPAMIDA
+
+CLORTALIDONA
+
+CLOXAZOLAM
+
+CLOZAPINA
+
+COLCHICINA
+
+COLESTIRAMINA
+
+CROMOGLICATO DE SÓDIO
+
+DACARBAZINA
+
+DACTINOMICINA
+
+DANAZOL
+
+DANTROLENO SÓDICO
+
+DAPSONA
+
+DECANOATO DE HALOPERIDOL
+
+DECANOATO DE NANDROLONA
+
+DECANOATO DE ZUCLOPENTIXOL
+
+DEFLAZACORT
+
+DESFLURANO
+
+DESLANOSIDO
+
+DESOGESTREL (EXCETO EM FORMULAÇÕES CONTRACEPTIVAS)
+
+DESOXIMETASONA
+
+DEXAMETASONA
+
+DIACEREINA
+
+DIAZEPAM
+
+DIAZÓXIDO
+
+DICLOFENACO
+
+DICLOFENACO ÁCIDO
+
+DICLOFENACO COLESTIRAMÔNIO
+
+DICLOFENACO DIETILAMÔNIO
+
+DICLOFENACO POTÁSSICO
+
+DICLOFENACO RESINATO
+
+DICLOFENACO SÓDICO
+
+DICLORIDRATO DE CLOROQUINA
+
+DICLORIDRATO DE FLUNARIZINA
+
+DICLORIDRATO DE PRAMIPEXOL
+
+DICLORIDRATO DE QUININA
+
+DICLORIDRATO DE TRIFLUOPERAZINA
+
+DICLORIDRATO DE ZUCLOPENTIXOL
+
+DIDANOSINA
+
+DIETILESTILBESTROL
+
+DIFOSFATO DE CLOROQUINA
+
+DIFOSFATO DE DIETILESTILBESTROL
+
+DIFOSFATO DE PRIMAQUINA
+
+DIGITOXINA
+
+DIGOXINA
+
+DIIDROGENOFOSFATO DE RILMENIDINA
+
+DIMERCAPROL
+
+DIMETICONA
+
+DINITRATO DE ISOSSORBIDA
+
+DINOPROSTONA
+
+DIPIRIDAMOL
+
+DIPROPIONATO DE BECLOMETASONA
+
+DIRITROMICINA
+
+DISSULFIRAM
+
+DIVALPROATO DE SÓDIO
+
+DOCETAXOL
+
+DORNASE ALFA
+
+DOXAZOSINA
+
+DOXICICLINA MONOIDRATADA
+
+DOXOFILINA
+
+DROPERIDOL
+
+DROXICAM
+
+EFAVIRENZ
+
+ENANTATO DE FLUFENAZINA
+
+ENAPRILATO
+
+ENDOFLURANO
+
+ENFLURANO
+
+ENOXAPARINA SÓDICA
+
+ENTACAPONA
+
+ERTAPENEM SÓDICO
+
+ESOMEPRAZOL MAGNÉSIO
+
+ESPIRAMICINA
+
+ESPIRONOLACTONA
+
+ESTAVUDINA
+
+ESTEARATO DE ERITROMICINA
+
+ESTOLATO DE ERITROMICINA
+
+ESTRADIOL
+
+ESTREPTOQUINASE
+
+ESTRIOL
+
+ESTROGÊNIOS CONJUGADOS
+
+ETABONATO DE LOTEPREDNOL
+
+ETAMBUTOL
+
+ETIONAMIDA
+
+ETOFIBRATO
+
+ETOMIDATO
+
+ETOPOSIDO
+
+ETOPOSIDO FOSFATO
+
+EXEMESTANO
+
+FAMOTIDINA
+
+FANCICLOVIR
+
+FELODIPINO
+
+FENILBUTAZONA
+
+FENILBUTAZONA CÁLCICA
+
+FENITOÍNA
+
+FENITOÍNA SÓDICA
+
+FENOBARBITAL
+
+FENOBARBITAL SÓDICO
+
+FENOFIBRATO
+
+FENOXIMETILPENICILINA POTÁSSICA
+
+FENTETRAMINA
+
+FINASTERIDA (EXCETO QUANDO DESTINADO EM FORMULAÇÕES PARA TRATAMENTO DA ALOPÉCIA)
+
+FLUCITOSINA
+
+FLUCONAZOL
+
+FLUMAZENIL
+
+FLUNISOLIDA
+
+FLUORURACILA
+
+FLURBIPROFENO
+
+FLUTAMIDA
+
+FLUVASTATINA
+
+FOLINATO DE CÁLCIO
+
+FORMESTANO
+
+FOSCARNETO SÓDICO
+
+FOSFATO COMPLEXO DE TETRACICLINA
+
+FOSFATO DE CLINDAMICINA (EXCETO QUANDO DESTINADO A FORMULAÇÕES TÓPICAS)
+
+FOSFATO DE CODEÍNA
+
+FOSFATO DE DISOPIRAMIDA
+
+FOSFATO DE FLUDARABINA
+
+FOSFATO DISSÓDICO DE BETAMETASONA
+
+FOSFATO DISSÓDICO DE DEXAMETASONA
+
+FOSFATO SÓDICO DE PREDNISOLONA
+
+FOSFESTROL TETRASSÓDICO
+
+FOSINOPRILA
+
+FOTEMUSTINA
+
+FUMARATO ÁCIDO DE CETOTIFENO
+
+FUMARATO DE BENCICLANO
+
+FUMARATO DE BISOPROLOL
+
+FUMARATO DE FORMOTEROL
+
+FUMARATO DE QUETIAPINA
+
+FURAZOLIDONA
+
+FUROATO DE MOMETASONA
+
+FUROSEMIDA
+
+GABAPENTINA
+
+GANCICLOVIR SÓDICO
+
+GATIFLOXACINA
+
+GENFIBROZILA
+
+GESTRINONA
+
+GLIBENCLAMIDA
+
+GLICLAZIDA
+
+GLIMEPIRIDA
+
+GLIPIZIDA
+
+GLUCAGON
+
+GLUCAMETACINA
+
+GLUCONATO DE CLOROEXIDINA
+
+GLUTARALDEÍDO
+
+GRISEOFULVINA
+
+HALOPERIDOL
+
+HALOTANO
+
+HEMISSUCCINATO DE HIDROCORTISONA
+
+HEMISSUCCINATO SÓDICO DE CLORANFENICOL
+
+HEXACETONIDO DE TRIANCINOLONA
+
+HEXAIDROBENZOATO DE ESTRADIOL
+
+HIALURONATO DE SÓDIO
+
+HIALURONIDASE
+
+HIDROCLOROTIAZIDA
+
+HIDROGENOMALEATO DE LISURIDA
+
+HIDRÓXIDO DE FERRO ENDOVENOSO
+
+HIDROXIURÉIA
+
+IBOPAMINA
+
+IBUPROFENO
+
+IFOSFAMIDA
+
+IMIGLUCERASE
+
+INDAPAMIDA
+
+INDOMETACINA
+
+INSULINA BOVINA
+
+INSULINA HUMANA
+
+INSULINA MISTA
+
+INSULINA SUÍNA
+
+IODOPOVIDONA
+
+IPRIFLAVONA
+
+IRBESARTANA
+
+ISETIONATO DE PENTAMIDINA
+
+ISOFLURANO
+
+ISONIAZIDA
+
+ISRADIPINA
+
+ITRACONAZOL
+
+IVERMECTINA
+
+LACIDIPINA
+
+LACTATO DE ANRINONA
+
+LACTATO DE BIPERIDENO
+
+LACTATO DE CIPROFLOXACINA
+
+LACTATO DE MILRINONA
+
+LAMIVUDINA
+
+LAMOTRIGINA
+
+LANSOPRAZOL
+
+LAPACHOL
+
+LATANOPROST
+
+LAURISULFATO SÓDICO DE MEPARTRICINA
+
+LEFLUNOMIDE
+
+LETROZOL
+
+LEVOFLOXACINA
+
+LEVOFOLINATO DE CÁLCIO
+
+LEVOSIMENDAN
+
+LIDOCAÍNA
+
+LIMECILINA
+
+LINEZOLIDA
+
+LIOTIRONINA
+
+LISINOPRILA
+
+LOMUSTINA
+
+LOPINAVIR
+
+LORAZEPAM
+
+LOSARTAM
+
+LOSARTAM POTÁSSICO
+
+LOVASTATINA
+
+LOXOPROFENO SÓDICO
+
+MALEATO DE ENALAPRILA
+
+MALEATO DE LEVOMEPROMAZINA
+
+MALEATO DE METILERGOMETRINA
+
+MALEATO DE TIMOLOL
+
+MANIDIPINA
+
+MANITOL
+
+MEBENDAZOL
+
+MELFALANO
+
+MELOXICAM
+
+MEPIRIZOL
+
+MERCAPTOPURINA
+
+MEROPENEMA
+
+MESILATO DE BROMOCRIPTINA
+
+MESILATO DE CODERGOCRINA
+
+MESILATO DE DEFEROXAMINA
+
+MESILATO DE DELAVIRDINA
+
+MESILATO DE DIIDROERGOCRISTINA
+
+MESILATO DE DOLASETRONA
+
+MESILATO DE DOXAZOSINA
+
+MESILATO DE IMATINIB
+
+MESILATO DE NELFINAVIR
+
+MESILATO DE PEFLOXACINO
+
+MESILATO DE PERGOLIDA
+
+MESILATO DE PRALIDOXIMA
+
+MESILATO DE SAQUINAVIR
+
+MESILATO DE ZIPRASIDONA
+
+MESNA
+
+METFORMINA
+
+METILDIGOXINA
+
+METILDOPA
+
+METIMAZOL
+
+METIPRANOLOL
+
+METISULFATO DE NEOSTIGMINA
+
+METOTREXATO
+
+METOTREXATO SÓDICO
+
+METRONIDAZOL
+
+MICOFENOLATO DE MOFETILA
+
+MICONAZOL
+
+MILTEFOSINA
+
+MINOXIDILA (EXCETO QUANDO DESTINADO EM FORMULAÇÕES PARA TRATAMENTO DA ALOPÉCIA)
+
+MIOCAMICINA
+
+MISOPROSTOL
+
+MITOMICINA C
+
+MITOTANO
+
+MONONITRATO DE ISOSSORBIDA
+
+MONTELUCASTE SÓDICO
+
+MOXIFLOXACINO
+
+MOXONIDINA
+
+NABUMETONA
+
+NADOLOL
+
+NADROPARINA CÁLCICA
+
+NAFTIDROFURILA
+
+NAPROXENO
+
+NAPROXENO SÓDICO
+
+NATEGLINIDA
+
+NEDOCROMILA SÓDICA
+
+NEVIRAPINA
+
+NICERGOLINA
+
+NIFEDIPINA
+
+NIFURTIMOX
+
+NILUTAMIDA
+
+NIMESULIDA
+
+NIMODIPINA
+
+NISOLDIPINA
+
+NISTATINA
+
+NITRATO DE MICONAZOL
+
+NITRENDIPINA
+
+NITROFURANTOÍNA
+
+NITROGLICERINA
+
+NITROPRUSSIATO DE SÓDIO
+
+NIZATIDINA
+
+NORFLOXACINA
+
+OCTREOTIDA
+
+OFLOXACINO
+
+OLANZAPINA
+
+OLEATO DE ETANOLAMINA
+
+OMEPRAZOL
+
+OMEPRAZOL MAGNÉSIO
+
+OXACILINA SÓDICA
+
+OXALIPLATINA
+
+OXAMNIQUINA
+
+OXCARBAZEPINA
+
+OXIMETOLONA
+
+OXITOCINA
+
+PACLITAXEL
+
+PALMITATO DE CLORANFENICOL
+
+PALMITATO DE COLFOSCERIL
+
+PALMITATO DE PIPOTIAZINA
+
+PAMIDRONATO DISSÓDICO
+
+PANTOPRAZOL
+
+PANTOPRAZOL SÓDICO SESQUIDRATADO
+
+PEFLOXACINA
+
+PENFLURIDOL
+
+PENICILAMINA
+
+PENTOXIFILINA
+
+PERICIAZINA
+
+PERINDOPRIL ERBUMINA
+
+PERINDOPRILA
+
+PIMETIXENO
+
+PIMOZIDA
+
+PINDOLOL
+
+PIOGLITAZONA
+
+PIPOTIAZINA
+
+PIRACETAM
+
+PIRAZINAMIDA
+
+PIRETANIDA
+
+PIRIBEDILA
+
+PIRIMETAMINA
+
+PIROXICAM
+
+PRANOPROFENO
+
+PRAVASTATINA SÓDICA
+
+PRAZIQUANTEL
+
+PREDNISOLONA
+
+PREDNISONA
+
+PRIMAQUINA
+
+PRIMIDONA
+
+PROBUCOL
+
+PROCAÍNA
+
+PROGESTERONA
+
+PROPATILNITRATO
+
+PROPILTIOURACILA
+
+PROPIONATO DE CLOBETASOL
+
+PROPIONATO DE FLUTICASONA
+
+PROPOFOL
+
+PROTIONAMIDA
+
+QUININA
+
+RABEPRAZOL SÓDICO
+
+RALTITREXATO
+
+RAMIPRILA
+
+REPAGLINIDA
+
+RESERPINA
+
+RETEPLASE
+
+RIBAVIRINA
+
+RIFAMICINA SV SÓDICA
+
+RIFAMIDA
+
+RIFAMPICINA
+
+RILUZOL
+
+RISEDRONATO SÓDICO
+
+RISPERIDONA
+
+RITONAVIR
+
+RIVASTIGMINA
+
+ROFECOXIB
+
+ROSOXACINO
+
+ROXITROMICINA
+
+SALBUTAMOL
+
+SALMETEROL
+
+SAQUINAVIR
+
+SELEGILINA
+
+SEVOFLURANO
+
+SINVASTATINA
+
+SIROLIMUS
+
+SOMATOSTATINA
+
+SOMATOTROFINA
+
+SUBSCITRATO DE BISMUTO COLOIDAL
+
+SUCCINATO DE METOPROLOL
+
+SUCCINATO DE SUMATRIPTANO
+
+SUCCINATO SÓDICO DE HIDROCORTISONA
+
+SUCCINATO SÓDICO DE METILPREDNISOLONA
+
+SULFACETAMIDA
+
+SULFADIAZINA
+
+SULFADIAZINA DE PRATA
+
+SULFASALAZINA
+
+SULFATO DE AMICACINA
+
+SULFATO DE ARBEKACINA
+
+SULFATO DE BAMETANO
+
+SULFATO DE BLEOMICINA
+
+SULFATO DE CAPREOMICINA
+
+SULFATO DE CEFPIROMA
+
+SULFATO DE CLOROQUINA
+
+SULFATO DE EFEDRINA
+
+SULFATO DE ESTREPTOMICINA
+
+SULFATO DE GENTAMICINA
+
+SULFATO DE HIDROXICLOROQUINA
+
+SULFATO DE INDINAVIR
+
+SULFATO DE MORFINA
+
+SULFATO DE NETILMICINA
+
+SULFATO DE QUINIDINA
+
+SULFATO DE QUININA
+
+SULFATO DE SALBUTAMOL
+
+SULFATO DE TERBUTALINA
+
+SULFATO DE TOBRAMINA
+
+SULFATO DE VIMBLASTINA
+
+SULFATO DE VINCRISTINA
+
+SULPIRIDA
+
+SULTAMICILINA
+
+SUMATRIPTANO
+
+SUPROFENO
+
+TACRINA
+
+TACROLIMUS
+
+TALIDOMIDA
+
+TAMOXIFENO
+
+TARTARATO DE BRIMONIDINA
+
+TARTARATO DE METOPROLOL
+
+TEICOPLANINA
+
+TELITROMICINA
+
+TELMISARTANA
+
+TENIPOSIDEO
+
+TENOXICAM
+
+TEOFILINA
+
+TEOFILINATO DE AMBROXOL
+
+TERIZIDONA
+
+TETRACICLINA
+
+TIABENDAZOL
+
+TIANFENICOL
+
+TIAPRIDA
+
+TIBOLONA
+
+TILUDRONATO DISSÓDICO
+
+TIOGUANINA
+
+TIOPENTAL SÓDICO
+
+TIOSSULFATO DE SÓDIO
+
+TIOTEPA
+
+TIOTIXENO
+
+TIROXINA SÓDICA
+
+TOBRAMICINA
+
+TOLCAPONE
+
+TOPIRAMATO
+
+TOREMIFENO
+
+TOSILATO DE SULTAMICILINA
+
+TRANDOLAPRILA
+
+TRAPIDIL
+
+TRAVOPROST
+
+TRETINOÍNA
+
+TRICLOSAN
+
+TRIETIODETO DE GALAMINA
+
+TRIFLUSAL
+
+TRIIODOTIRONINA SÓDICA
+
+TRIMETAZIDINA
+
+TRIPTORELINA
+
+UBIDECARENOMA
+
+UNOPROSTONA ISOPROPÍLICA
+
+VALACICLOVIR
+
+VALERATO DE ESTRADIOL
+
+VALPROATO DE SÓDIO
+
+VALSARTAN
+
+VERTEPORFIRINA
+
+VIGABATRINA
+
+VINCAMINA
+
+XINAFOATO DE SALMETEROL
+
+ZAFIRLUCAST
+
+ZALCITABINA
+
+ZIDOVUDINA
+
+ZOLMITRIPTANO
+
+Categoria II - Medicamentos em associações identificados com tarja vermelha ou preta
+
+ACETATO DE BETAMETASONA + FOSFATO DISSÓDICO DE BETAMETASONA
+
+ACETATO DE CORTISONA + CLORIDRATO DE CLORTETRACICLINA + LORETINATO DE BISMUTO
+
+ACETONIDO DE FLUOCINOLONA + CLORANFENICOL
+
+ACETONIDO DE FLUOCINOLONA + CLORIDRATO DE NAFAZOLINA + SULFATO DE NEOMICINA + SULFATO DE ZINCO
+
+ACETONIDO DE FLUOCINOLONA + SULFATO DE POLIMIXINA B + SULFATO DE NEOMICINA + CLORIDRATO DE LIDOCAÍNA
+
+ACETONIDO DE TRIANCINOLONA + SULFATO DE POLIMIXINA B + SULFATO DE NEOMICINA + CLORIDRATO DE LIDOCAÍNA
+
+ÁCIDO SALICÍLICO + ÁCIDO BENZÓICO
+
+AMBUFILINA + CLORIDRATO DE ETAFEDRINA + CLORIDRATO DE FENILEFRINA + SUCCINATO DE DOXILAMINA
+
+AMBUFILINA + CLORIDRATO DE ETAFEDRINA + SUCCINATO DE DOXILAMINA
+
+AMBUFILINA + CLORIDRATO DE ETAFEDRINA + SUCCINATO DE DOXILAMINA + GUAIFENESINA
+
+AMILORIDA + CLORTALIDONA
+
+AMOXICILINA + CLAVULANATO DE POTÁSSIO
+
+AMOXICILINA + SULBACTAM
+
+AMPICILINA + PROBENECIDA
+
+AMPICILINA BENZATINA + AMPICILINA SÓDICA
+
+ARTEMETER + LUMEFANTRINA
+
+ATENOLOL + CLORTALIDONA
+
+ATENOLOL + NIFEDIPINO
+
+AZTREONAM + ARGININA
+
+BENZILPENICILINA + ANTÍGENOS BACTERIANOS + ÁCIDO ÉPSILON-AMINOCAPRÓICO
+
+BENZILPENICILINA POTÁSSICA + BENZILPENICILINA PROCAÍNA
+
+BROMAZEPAM + SULPIRIDA
+
+BROMOPRIDA + DIMETICONA + PEPSINA + ALFA-AMILASE + LIPASE
+
+BROMOPRIDA + PANCREATINA + CELULASE + DIMETICONA
+
+CANDESARTANA CILEXETIL + HIDROCLOROTIAZIDA
+
+CAPTOPRILA + HIDROCLOROTIAZIDA
+
+CARBONATO DE SÓDIO + FENOL + CLORIDRATO DE PROCAÍNA
+
+CETRIMIDA + GLUCONATO DE CLOREXIDINA
+
+CIANOCOBALAMINA + CLORIDRATO DE PIRIDOXINA + CLORIDRATO DE TIAMINA
+
+CIANOCOBALAMINA + CLORIDRATO DE PIRIDOXINA + CLORIDRATO DE TIAMINA + ACETATO DE DEXAMETASONA
+
+CILAZAPRIL + HIDROCLOROTIAZIDA
+
+CITRATO DE FENTANILA + DROPERIDOL
+
+CLARITROMICINA + AMOXICILINA + LANSOPRAZOL
+
+CLOFIBRATO DE ETILA + TARTARATO DE NICOTINILA
+
+CLORANFENICOL + CLORIDRATO DE LIDOCAÍNA
+
+CLORANFENICOL + DEXAMETASONA + CLORIDRATO DE LIDOCAÍNA
+
+CLORANFENICOL + SULFACETAMIDA SÓDICA + CLORIDRATO DE TETRACAÍNA
+
+CLORFENESINA + CLORANFENICOL + CLORIDRATO DE LIDOCAÍNA + URÉIA
+
+CLORFENESINA + CLORIDRATO DE TETRACAÍNA + VALERATO DE BETAMETASONA
+
+CLORIDRATO DE AMILORIDA + FUROSEMIDA
+
+CLORIDRATO DE AMILORIDA + HIDROCLOROTIAZIDA
+
+CLORIDRATO DE BENAZEPRIL + HIDROCLOROTIAZIDA
+
+CLORIDRATO DE BUPIVACAINA + EPINEFRINA
+
+CLORIDRATO DE BUPIVACAÍNA + GLICOSE
+
+CLORIDRATO DE CEFEPIMA + L-ARGININA
+
+CLORIDRATO DE CIPROFLOXACINA + DEXAMETASONA
+
+CLORIDRATO DE DOPAMINA + GLICOSE
+
+CLORIDRATO DE DORZOLAMIDA + MALEATO DE TIMOLOL
+
+CLORIDRATO DE FENILEFRINA + CLORIDRATO DE LIDOCAÍNA
+
+CLORIDRATO DE LIDOCAÍNA + EPINEFRINA
+
+CLORIDRATO DE LIDOCAÍNA + GLICOSE
+
+CLORIDRATO DE LIDOCAÍNA+BITARTARATO DE NOREPINEFRINA
+
+CLORIDRATO DE METOCLOPRAMIDA + DIMETICONA + ÁDICO DEIDROCÓLICO + CELULASE + PEPSINA + PANCREATINA
+
+CLORIDRATO DE OXITETRACICLINA + SULFATO DE POLIMIXINA B
+
+CLORIDRATO DE PRILOCAÍNA + FELIPRESSINA
+
+CLORIDRATO DE PROPRANOLOL + HIDROCLOROTIAZIDA
+
+CLORTALIDONA + RESERPINA
+
+DALFOPRISTINA + QUINUPRISTINA
+
+DESOXIMETASONA + SULFATO DE NEOMICINA
+
+DEXAMETASONA + CLORANFENICOL
+
+DEXAMETASONA + CLORANFENICOL + CLORIDRATO DE TETRIZOLINA
+
+DEXAMETASONA + SULFATO DE GENTAMICINA
+
+DEXAMETASONA + SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B
+
+DEXAMETASONA + SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B + HIPROMELOSE
+
+DIMETICONA + PANCREATINA + DEICROLATO DE SÓDIO + BROMELINA + METOCLOPRAMIDA
+
+ENANTATO DE HIDROXIPROGESTERONA + HEXAIDROBENZOATO DE ESTRADIOL + HEXAHIDROBENZOATO DE TESTOSTERONA
+
+ESPIRANOMICINA + METRONIDAZOL
+
+ESPIRONOLACTONA + FUROSEMIDA
+
+ESTRADIOL + ACETATO DE NORETISTERONA (EXCETO FORMULAÇÕES CONTRACEPTIVAS)
+
+ESTRADIOL + LEVONORGESTREL
+
+ESTRADIOL + NORGESTIMATO
+
+ESTROGÊNIOS CONJUGADOS + ACETATO DE MEDROXIPROGESTERONA
+
+ETINILESTRADIOL + ACETATO DE CIPROTERONA (EXCETO FORMULAÇÕES CONTRACEPTIVAS)
+
+ETINILESTRADIOL + ACETATO DE NORETISTERONA (EXCETO FORMULAÇÕES CONTRACEPTIVAS)
+
+FIBRINOLISINA + DESOXIRRIBONUCLEASE + CLORAFENICOL
+
+FIBRINOLISINA + DESOXIRRIBONUCLEASE + GENTAMICINA
+
+FLUORMETOLONA + SULFATO DE GENTAMICINA
+
+FLUORMETOLONA + SULFATO DE NEOMICINA
+
+FOSFATO DISSÓDICO DE BETAMETASONA + DIPROPIONATO DE BETAMETASONA
+
+FOSFATO DISSÓDICO DE DEXAMETASONA + ACETATO DE DEXAMETASONA
+
+FOSINOPRIL SÓDICO + HIDROCLOROTIAZIDA
+
+FUMARATO DE BISOPROLOL + HIDROCLOROTIAZIDA
+
+FUMARATO DE FORMOTEROL + BUDESONIDA
+
+FUROSEMIDA + TRIANTERENO
+
+HIDROCLOROTIAZIDA + ESPIRONOLACTONA
+
+HIDROCLOROTIAZIDA + TRIANTERENO
+
+HIDROCLOROTIAZIDA + BISOPROLOL
+
+IBUPROFENO + L-ARGININA
+
+IMIPENEM + CILASTATINA SÓDICA
+
+IRBESARTANA + HIDROCLOROTIAZIDA
+
+ISONIAZIDA + RIFAMPICINA
+
+LATANOPROST + MALEATO DE TIMOLOL
+
+LEVODOPA + CARBIDOPA
+
+LEVODOPA + CLORIDRATO DE BENSERAZIDA
+
+LIDOCAÍNA + PRILOCAÍNA
+
+LIDOCAÍNA + SULFATO DE NEOMICINA + HIALURONIDASE
+
+LIPASE PANCREÁTICA + PROTEASE PANCREÁTICA + AMILASE PANCREÁTICA
+
+LISINOPRIL + HIDROCLOROTIAZIDA
+
+LOMIFILINA + MESILATO DE DIIDROERGOCRISTINA
+
+LOPINAVIR + RITONAVIR
+
+LOSARTAM + HIDROCLOROTIAZIDA
+
+MALEATO DE ENALAPRIL + HIDROCLOROTIAZIDA
+
+MALEATO DE ENALAPRIL+ BESILATO ANLODIPINO
+
+METILDOPA + HIDROCLOROTIAZIDA
+
+NEOMICINA + BACITRACINA
+
+NITROFURAZONA + SULFATO DE NEOMICINA + ACETATO DE FLUDROCORTISONA + CLORIDRATO DE LIDOCAÍNA + DIMETILSULFÓXIDO + MENTOL
+
+NITROFURAZONA + SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B + CLORIDRATO DE LIDOCAÍNA + ACETATO DE FLUDROCORTISONA
+
+PANCREATINA + DIASTASE + PEPSINA + DIMETICONA
+
+PANCREATINA + DIMETICONA
+
+PANCREATINA +VITAMINA B6 + PAPAÍNA + DEICROLATO DE SÓDIO + NICOTINAMIDA + CLORETO DE MAGNÉSIO + DIASTASE + PEPSINA + VITAMINA B1 + VITAMINA B2 + HOMOCISTEINATIOLACTONA
+
+PEPSINA + ALFA-AMILASE
+
+PEPSINA +PANCREATINA + DIASTASE
+
+PERINDOPRILA ERBUMINA + INDAPAMIDA
+
+PIPERACILINA SÓDICA + TAZOBACTAMA SÓDICA
+
+RAMIPRIL + HIDROCLOROTIAZIDA
+
+RESERPINA + CLORTALIDONA
+
+RESERPINA + DISSULFATO ÁCIDO DE DIIDRALAZINA + HIDROCLOROTIAZIDA
+
+SALBUTAMOL + DIPROPIONATO DE BECLOMETASONA
+
+SUCCINATO DE METOPROLOL + HIDROCLOROTIAZIDA
+
+SULBACTAM + AMPICILINA
+
+SULBACTAM + CEFOPERAZONA
+
+SULFACETAMIDA SÓDICA + ACETATO DE PREDNISOLONA
+
+SULFACETAMIDA SÓDICA + ACETATO DE PREDNISOLONA + HIPROMELOSE
+
+SULFACETAMIDA SÓDICA + CLORANFENICOL
+
+SULFADIAZINA + TRIMETOPRIMA
+
+SULFADOXINA + PIRIMETANIDA
+
+SULFAMETOXAZOL + TRIMETOPRIMA
+
+SULFATO DE GENTAMICINA + FOSFATO DISSÓDICO DE BETAMETASONA
+
+SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA
+
+SULFATO DE NEOMICINA + CLORIDRATO DE LIDOCAÍNA
+
+SULFATO DE NEOMICINA + FOSFATO DISSÓDICO DE DEXAMETASONA
+
+SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B
+
+SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B + ACETATO DE PREDNISOLONA
+
+SULFATO DE NEOMICINA + SULFATO DE POLIMIXINA B + HIDROCORTISONA
+
+SULFATO DE POLIMIXINA B + CLORIDRATO DE LIDOCAÍNA
+
+SULFATO DE TERBUTALINA + GUAIFENISINA
+
+TARTARATO DE METOPROLOL + HIDROCLOROTIAZIDA
+
+TEGAFUR + URACILA
+
+TICARCILINA + CLAVULANATO DE POTÁSSIO
+
+TIROTRICINA + ÁCIDO SALICÍLICO + ÁCIDO BÓRICO + CLORIDRATO DE PROCAÍNA
+
+TIROTRICINA + METABORATO DE ETILA + CLOROBUTANOL
+
+TIROTRICINA + URÉIA + CLOROBUTANOL
+
+TIROXINA SÓDICA + LIOTIRONINA SÓDICA
+
+TOBRAMICINA + DEXAMETASONA
+
+VALERATO DE ESTRADIOL + ACETATO DE CIPROTERONA
+
+VALERATO DE ESTRADIOL + ACETATO DE MEDROXIPROGESTERONA
+
+VALERATO DE ESTRADIOL + LEVONORGESTREL
+
+VALERATO DE ESTRADIOL + NORETISTERONA
+
+VALSARTAN + HIDROCLOROTIAZIDA
+
+ZIDOVUDINA + LAMIVUDINA
+
+Categoria III - Substâncias para Medicamentos utilizados em Nutrição Hidroeletrolítica Parenteral, Hemodiálise e Diálise Peritoneal, Substitutos do Plasma e Expansores Plasmáticos, identificados com tarja vermelha
+
+ACETATO DE L-LISINA
+
+ACETATO DE POTÁSSIO
+
+ACETATO DE SÓDIO
+
+ACETATO DE TOCOFEROL
+
+ACETATO DE ZINCO
+
+ÁCIDO ACÉTICO PARA HEMODIÁLISE
+
+ÁCIDO ASCÓRBICO
+
+ÁCIDO FÓLICO
+
+ÁCIDO L-ASPÁRTICO
+
+ÁCIDO L-GLUTÂMICO
+
+ÁCIDO PANTOTÊNICO
+
+ÁCIDO SELENIOSO
+
+ÁGUA PARA INJEÇÃO
+
+AMIDO HIDROXIETÍLICO
+
+BICARBONATO DE SÓDIO
+
+BIOTINA
+
+CIANOCOBALAMINA
+
+CLORETO DE AMÔNIO
+
+CLORETO DE CÁLCIO
+
+CLORETO DE COBRE
+
+CLORETO DE CROMO
+
+CLORETO DE FERRO
+
+CLORETO DE MAGNÉSIO
+
+CLORETO DE MANGANÊS
+
+CLORETO DE POTÁSSIO
+
+CLORETO DE SÓDIO
+
+CLORETO DE ZINCO
+
+CLORIDRATO DE L-CISTINA
+
+CLORIDRATO DE L-LEUCINA
+
+CLORIDRATO DE L-ORNITINA
+
+CLORIDRATO DE PIRIDOXINA
+
+CLORIDRATO DE TIAMINA
+
+DEXPANTENOL
+
+DEXTRAN
+
+ERGOCALCIFEROL
+
+FITOMENADIONA
+
+FLUORETO DE SÓDIO
+
+FOSFATO DE POTÁSSIO DIBÁSICO
+
+FOSFATO DE POTÁSSIO MONOBÁSICO
+
+FOSFOLIPÍDEOS (LECITINA) DA GEMA DO OVO
+
+FRUTOSE
+
+GLICEROL
+
+GLICINA
+
+GLICONATO DE CÁLCIO
+
+GLICOSE
+
+ICODEXTRINA
+
+IODETO DE POTÁSSIO
+
+LACTATO DE SÓDIO
+
+L-ALANINA
+
+L-ARGININA
+
+L-ASPARAGINA
+
+L-CISTEÍNA
+
+L-CISTINA
+
+LECITINA DE OVO
+
+L-FENILALANINA
+
+L-HISTIDINA
+
+L-ISOLEUCINA
+
+L-LEUCINA
+
+L-LISINA
+
+L-METIONINA
+
+L-ORNITINA
+
+L-PROLINA
+
+L-SERINA
+
+L-TIROSINA
+
+L-TREONINA
+
+L-TRIPTOFANO
+
+L-VALINA
+
+MANITOL
+
+MOLIBDATO DE SÓDIO
+
+N (2) - L - ALANIL - L - GLUTAMINA
+
+N-ACETIL TIROSINA
+
+NICOTINAMIDA
+
+ÓLEO DE SOJA FRACIONADO
+
+PALMITATO DE RETINOL
+
+POLIGELINA
+
+RIBOFLAVINA 5-FOSFATO SÓDICA
+
+SELENITO DE SÓDIO
+
+SORBITOL
+
+SULFATO DE COBRE
+
+SULFATO DE MAGNÉSIO
+
+SULFATO DE MANGANÊS
+
+SULFATO DE ZINCO

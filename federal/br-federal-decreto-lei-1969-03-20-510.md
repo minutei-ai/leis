@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/706cec20-fcbd-40ce-b4fb-fa553c0853f9/texto#nowhere)
 
-###DEL-000510-0-000-20-03-1969@@@
-
 DECRETO-LEI Nº 510, DE 20 DE MARÇO DE 1969
 
 Altera dispositivos do Decreto-lei nº 314, de 13 de março de 1967, e dá outras providências

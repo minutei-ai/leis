@@ -1,5 +1,3 @@
-###DEC-007249-0-000-02-08-2010@@@
-
 DECRETO Nº 7.249, DE 2 DE AGOSTO DE 2010
 
 Dispõe sobre a execução do Septuagésimo Protocolo Adicional ao Acordo de Complementação Econômica nº 18 (70PA-ACE18), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, em 19 de maio de 2010.

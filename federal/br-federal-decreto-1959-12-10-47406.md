@@ -1,5 +1,3 @@
-###DEC-047406-0-000-10-12-1959@@@
-
 DECRETO Nº 47.406, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza concessão de suprimento de recursos à Comissão de Marinha Mercante.

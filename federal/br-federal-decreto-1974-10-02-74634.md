@@ -1,5 +1,3 @@
-###DEC-074634-0-000-02-10-1974@@@
-
 decreto nº 74.634, de 2 de outubro de 1974.
 
 Autoriza a Usina Hidro-Elétrica Nova Palma a ampliar o aproveitamento hidrelétrico da Cachoeira dos Mouros, no Município de Nova Palma, Estado do Rio Grande do Sul.

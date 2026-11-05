@@ -1,5 +1,3 @@
-###DEC-093120-0-000-18-08-1986@@@
-
 DECRETO Nº 93.120, DE 18 DE AGOSTO DE 1986
 
 Dispõe sobre a execução do Programa Nacional do Leite para Crianças Carentes.

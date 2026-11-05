@@ -1,5 +1,3 @@
-###DEC-053445-0-000-20-01-1964@@@
-
 DECRETO Nº 53.445, DE 20 DE JANEIRO DE 1964.
 
 Autoriza a S. A. Mineração da Trindade a lavrar minério de ferro, no município de Sabará, Estado de Minas Gerais.

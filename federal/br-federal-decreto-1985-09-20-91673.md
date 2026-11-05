@@ -1,5 +1,3 @@
-###DEC-091673-0-000-20-09-1985@@@
-
 Decreto nº 91.673, de 20 de setembro de 1985
 
 Cria a Escola Agrotécnica Federal no Município de Araguatins, no Estado de Goiás, e dá outras providências.

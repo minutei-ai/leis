@@ -1,5 +1,3 @@
-###DEC-068342-0-000-11-03-1971@@@
-
 DECRETO Nº 68.342, de 11 de março de 1971.
 
 Extingue o Fundo de Amortização dos Empréstimos Internos, Papel.

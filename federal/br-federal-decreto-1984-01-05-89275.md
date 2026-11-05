@@ -1,5 +1,3 @@
-###DEC-089275-0-000-05-01-1984@@@
-
 Decreto nº 89.275, de 05 dE janeiro de 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Angra dos Reis, Estado do Rio de Janeiro; Recife e Goiana, Estado de Pernambuco.

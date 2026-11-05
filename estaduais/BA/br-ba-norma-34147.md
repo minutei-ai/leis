@@ -4,10 +4,12 @@ CONSTITUIÇÃO DO ESTADO DA BAHIA
 
 Promulgada a 20 de agosto de 1935 pela Assembléa Constituinte
 
-PARTE I -<br>
+PARTE I -
+
 DA ORGANIZAÇÃO DO ESTADO
 
-TITULO I -<br>
+TITULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - O Estado da Bahia, parte integrante da Federação Brasileira, reger-se-á pelos preceitos desta Constituição, competindo-lhe, no exercicio de sua autonomia politico-administrativa, todo e qualquer direito ou poder que lhe for vedado, explicita ou implicitamente, pela Constituição Federal.
@@ -22,10 +24,12 @@ Art. 3º - São poderes constitucionaes do Estado: o Legislativo, o Executivo e 
 
 § 2º - É vedado a qualquer Poder delegar a outro o exercicio de suas attribuições.
 
-TITULO II -<br>
+TITULO II -
+
 DO PODER LEGISLATIVO
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 4º - O Poder Legislativo é exercido pela Assembléa Geral Legislativa, composta de representantes do povo e representantes das associações profissionaes.
@@ -138,7 +142,8 @@ II - deixar de comparecer ás sessões durante trinta dias consecutivos, sem req
 
 III - transferir o domicilio para fóra do Estado.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 DAS ATTRIBUIÇÕES DO PODER LEGISLATIVO
 
 Art. 16 - Compete privativamente á Assembléa, com a sancção do Governador:
@@ -217,7 +222,8 @@ XVII - approvar os convenios de limites entre os municipios;
 
 XVIII - criar commissões de inqueritos sobre factos determinados, sempre que o requerer a terça parte, pelo menos, de seus membros.
 
-CAPITULO III -<br>
+CAPITULO III -
+
 DA SECÇÃO PERMANENTE
 
 Art. 18 - No intervallo das sessões annuaes, uma quarta parte da Assembléa Legislativa, constituida, na fórma do Regimento Interno, sempre com representação proporcional ao numero dos deputados eleitos pelas correntes partidarias, as quaes escolherão seus representantes, funccionará, como Secção Permanente, com as seguintes attribuições:
@@ -262,7 +268,8 @@ XVIII - consolidar as leis, resoluções, decretos e regulamentos do Estado;
 
 § 2º - Qualquer deputado estranho á Secção Permanente poderá comparecer ás suas sessões, participar dos debates e fazer requerimentos, sem direito de voto.
 
-CAPITULO IV -<br>
+CAPITULO IV -
+
 DAS LEIS E RESOLUÇÕES
 
 Art. 19 - A iniciativa de projectos de lei pertence a qualquer deputado, ás Commissões da Assembléa, á Secção Permanente, ao Governador e, quando regularem materia de divisão ou organização judiciaria, também á Côrte de Appellação.
@@ -305,10 +312,12 @@ II - estabelecerem a clausula cambial, ou em ouro, para a retribuição de servi
 
 III - augmentarem vencimentos, subsidios, gratificações ou quaesquer outras retribuições em mais de vinte por cento, em cada legislatura.
 
-TITULO III -<br>
+TITULO III -
+
 DO PODER EXECUTIVO
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DO GOVERNADOR
 
 Art. 24 - O Poder Executivo será exercido pelo Governador.
@@ -343,7 +352,8 @@ Paragrapho unico - Se, por qualquer circumstancia, não estiver reunida a Assemb
 
 Art. 29 - O Governador responderá pessoalmente pelos actos que praticar.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 DAS ATTRIBUIÇÕES DO GOVERNADOR
 
 Art. 30 - Compete ao Governador:
@@ -386,7 +396,8 @@ XVIII - propôr á Secção Permanente a suspensão provisoria da execução de 
 
 XIX - praticar todos os actos legaes necessarios ou uteis ao interesse publico, quando, implicita ou explicitamente, por esta Constituição, não estejam reservados a outro Poder.
 
-CAPITULO III -<br>
+CAPITULO III -
+
 DA PERDA DO CARGO DE GOVERNADOR
 
 Art. 31 - O Governador perderá o cargo se:
@@ -439,7 +450,8 @@ Art. 32 - Nos casos das alineas I e II do artigo anterior e no da alinea III, qu
 
 § 9º - Decretada a procedencia da accusação, o Governador ficará immediatamente afastado do exercicio do cargo.
 
-CAPITULO IV -<br>
+CAPITULO IV -
+
 DOS SECRETARIOS DE ESTADO
 
 Art. 33 - Os Secretarios de Estado terão a seu cargo a gestão dos serviços compreendidos na organização administrativa e technica de cada Secretaria e auxiliarão o Governador na direcção geral dos negocios estaduaes, não podendo exercer qualquer outra funcção publica, salvo o magisterio.
@@ -482,10 +494,12 @@ Art. 37 - O Secretario de Estado será destituido do cargo, com inhabilitação 
 
 Paragrapho unico - Quando o Secretario de Estado não fôr accusado juntamente com o Governador, nas hypotheses a que se refere este artigo, será processado e julgado pela Côrte de Appellação, que, dentre os seus membros, escolherá o accusador.
 
-TITULO IV -<br>
+TITULO IV -
+
 DO PODER JUDICIARIO
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 38 - O Poder Judiciario será exercido pelos seguintes orgams:
@@ -520,7 +534,8 @@ II - qualquer actividade politico-partidaria, pena de perda do cargo.
 
 Art. 41 - As custas judiciarias serão proporcionaes sempre que as causas tiverem valor economico, fixados os limites minimo e maximo em lei ordinaria.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 DA CÔRTE DE APPELLAÇÃO
 
 Art. 42 - A Côrte de Appellação, com séde na Capital do Estado e jurisdicção em todo o seu territorio, será composta de doze Desembargadores e funccionará como Tribunal de Instancia Superior.
@@ -549,7 +564,8 @@ IV - conceder licença aos seus membros, Juizes, Pretores e serventuarios que lh
 
 V - propôr á Assembléa Legislativa a criação ou suppressão dos cargos de sua Secretaria e Cartorio.
 
-CAPITULO III -<br>
+CAPITULO III -
+
 DOS JUIZES E PRETORES
 
 Art. 45 - Os Juizes e Pretores serão nomeados dentre os brasileiros natos, bachareis ou doutores em direito, de reconhecido saber e bôa reputação moral.
@@ -566,12 +582,14 @@ Art. 46 - Os Juizes e Pretores serão nomeados pelo Governador, com approvação
 
 § 3º - O concurso para Juiz de Direito e Pretor será valido por dois annos.
 
-CAPITULO IV -<br>
+CAPITULO IV -
+
 DO CONSELHO DISCIPLINAR
 
 Art. 47 - A lei determinará a composição do Conselho Disciplinar da Magistratura, especificando as attribuições que terá, além da prevista nesta Constituição.
 
-CAPITULO V -<br>
+CAPITULO V -
+
 DA ADVOCACIA
 
 Art. 48 - A Ordem dos Advogados do Brasil, Secção da Bahia, será sempre ouvida em todos os assumptos pertinentes á divisão e á organização judiciarias do Estado.
@@ -586,10 +604,12 @@ Art. 49 - A provisão para advogar não poderá ser expedida para comarca onde s
 
 § 3º - As provisões serão concedidas e renovadas por tres annos, após parecer do Conselho da Ordem dos Advogados do Brasil. Secção da Bahia.
 
-TITULO V -<br>
+TITULO V -
+
 DOS ORGAMS DE COOPERAÇÃO DAS ACTIVIDADES GOVERNAMENTAES
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DO TRIBUNAL DE CONTAS
 
 Art. 50 - Será orgam fiscal da execução fiel das leis orçamentarias e da administração financeira um Tribunal de Contas composto de sete Conselheiros vitalicios e inamoviveis com vencimentos irreductiveis, nomeados pelo Governador com approvação da Assembléa Legislativa ou da Secção Permanente, dentre os bachareis ou doutores em Direito, maiores de trinta annos de idade, de notoria capacidade e reputação illibada e domiciliados no Estado há mais de dois annos.
@@ -624,7 +644,8 @@ VII - julgar, em ultima instancia administrativa, os recursos de contribuintes d
 
 Art. 52 - O Tribunal de Contas enviará á Assembléa, dentro dos primeiros quinze dias de cada sessão legislativa, um relatorio minucioso dos seus trabalhos no curso do anno anterior.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 DO MINISTERIO PUBLICO
 
 Art. 53 - O Ministerio Publico, cujo chefe é o Procurador Geral do Estado, terá o encargo de zelar pela execução da lei, representar a Fazenda Estadual em Juizo e defender os interesses geraes sob a guarda do Estado.
@@ -645,7 +666,8 @@ Art. 54 - Representando o Ministerio Publico, haverá em cada Comarca, pelo meno
 
 Art. 55 - Os membros do Ministerio Publico só perderão o cargo por decreto que, de modo expresso, se funde, em motivo legal, depois de inquerito administrativo em que se lhes assegure ampla defesa, ouvido o Procurador Geral, ou por sentença judicial transitada em julgado.
 
-CAPITULO III -<br>
+CAPITULO III -
+
 DOS CONSELHOS TECHNICOS
 
 Art. 56 - Além dos Conselhos Technicos de Assistencia Social, Educação e Cultura, Ordem Economica e Negocios Municipaes, serão criados outros, reclamados pelo interesse publico, que funccionarão, tambem, como orgams autonomos junto aos Poderes do Estado.
@@ -654,10 +676,12 @@ Art. 56 - Além dos Conselhos Technicos de Assistencia Social, Educação e Cult
 
 § 2º - Os trabalhos dos membros dos Conselhos Technicos serão considerados serviços relevantes ao Estado.
 
-TITULO VI -<br>
+TITULO VI -
+
 DOS MUNICIPIOS
 
-CAPITULO UNICO -<br>
+CAPITULO UNICO -
+
 DA ORGANIZAÇÃO MUNICIPAL
 
 Art. 57 - A criação de municipios ou alteração dos já constituidos far-se-á sempre por lei do Estado, precedida de representação dos interessados e consulta plebiscitaria aos habitantes da porção territorial que tiver de ser desmembrada.
@@ -798,15 +822,18 @@ Paragrapho unico - É licito, ainda, ao Estado intervir nos municipios consoante
 
 Art. 71 - A lei estabelecerá as categorias profissionaes, afim de assegurar dois representantes classistas junto ás Camaras Municipaes compostas de doze ou mais Vereadores, nos Municipios onde existam associações de classe.
 
-TITULO VII -<br>
+TITULO VII -
+
 DA ADMINISTRAÇÃO PUBLICA
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 72 - As Secretarias de Estado superintenderão a administração publica, orientando o serviço segundo criterio racional e technico.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 DOS FUNCCIONARIOS PUBLICOS
 
 Art. 73 - Observadas as condições legaes e asseguradas aos funccionarios as garantias estabelecidas nos arts. 169 a 173 da Constituição Federal, os cargos publicos serão accessiveis a todos os brasileiros, reservando-se ao Estatuto dos Funccionarios Publicos regular os seus demais direitos e deveres.
@@ -831,10 +858,12 @@ Paragrapho unico - As mesmas prerogativas e garantias são asseguradas aos offic
 
 Art. 78 - Os serventuarios da Justiça gozarão das garantias de inamovibilidade desde o momento da posse.
 
-TITULO VIII -<br>
+TITULO VIII -
+
 DA FAZENDA DO ESTADO
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DO PATRIMONIO
 
 Art. 79 - Constituem Patrimonio do Estado:
@@ -849,7 +878,8 @@ IV - a divida activa proveniente de receita não arrecadada;
 
 V - os bens moveis destinados ao serviço da administração e segurança publica do Estado.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 DO REGIME FINANCEIRO
 
 Art. 80 - O exercicio financeiro abrange as operações relativas á receita e á despesa autorizadas por lei, dentro do respectivo anno financeiro, bem como todas as variações verificadas no patrimonio do Estado, decorrentes da execução dos orçamentos.
@@ -860,7 +890,8 @@ Art. 82 - A fiscalização financeira dos serviços autonomos do Estado será fe
 
 Paragrapho unico - A Assembléa Legislativa votará o Codigo de Contabilidade Publica, dispondo de modo especial sobre a contabilidade dos municipios.
 
-CAPITULO III -<br>
+CAPITULO III -
+
 DO ORÇAMENTO
 
 Art. 83 - O orçamento será uno, incorporando-se, obrigatoriamente, á receita, todos os tributos, rendas e supprimentos de fundos, incluindo-se, discriminadamente, na despesa, as dotações necessarias ao custeio dos serviços publicos.
@@ -897,7 +928,8 @@ III - o accumulo de creditos votados com quaesquer recursos ou rendas dos servi�
 
 Art. 85 - Salvo disposição expressa em contrario, só se abrirá credito extra-orçamentario no segundo semestre do exercicio.
 
-CAPITULO IV -<br>
+CAPITULO IV -
+
 DA RECEITA
 
 Art. 86 - Constituem receita do Estado:
@@ -908,15 +940,18 @@ II - rendas industriaes e patrimoniaes;
 
 III - eventuaes.
 
-PARTE II -<br>
+PARTE II -
+
 DOS FINS DO ESTADO
 
-TITULO I -<br>
+TITULO I -
+
 DOS DIREITOS E DAS GARANTIAS INDIVIDUAES
 
 Art. 87 - Esta Constituição assegura a brasileiros e estrangeiros residentes no Estado a inviolabilidade dos direitos concernentes á liberdade, segurança, subsistencia e propriedade, nos termos da Constituição Federal.
 
-TITULO II -<br>
+TITULO II -
+
 DA ORDEM ECONOMICA
 
 Art. 88 - Visando assegurar a todos existencia condigna e á economia geral o maior desenvolvimento, a lei, nos limites da competencia do Estado, attendendo ás peculiaridades regionaes e subordinando-se aos principios de justiça social, dentre outras providencias, disporá sobre:
@@ -963,7 +998,8 @@ Art. 90 - O Estado conservará em seu territorio uma area nunca inferior a cem q
 
 Art. 91 - A lei estabelecerá as condições do trabalho no Estado, mantendo, como limite minimo, os direitos e garantias do art. 121 da Constituição Federal.
 
-TITULO III -<br>
+TITULO III -
+
 DA ASSISTENCIA SOCIAL
 
 Art. 92 - O estado verificará, periodicamente, o padrão de vida em todo o seu territorio, attentas as condições regionaes, afim de estabelecer planos de organização dos serviços de assistencia social.
@@ -986,7 +1022,8 @@ Art. 94 - Além dos membros temporarios escolhidos dentre os Presidentes das ins
 
 Paragrapho unico - Na organização do Conselho e dos Serviços de Assistencia Social, assegurar-se-á a representação feminina.
 
-TITULO IV -<br>
+TITULO IV -
+
 DA EDUCAÇÃO E CULTURA
 
 Art. 95 - Cumpre ao Estado promover o desenvolvimento das sciencias, letras e artes, zelar seu patrimonio natural, historico e cultural e orientar a educação, que deverá ser totalitaria, attendendo aos problemas moraes, culturaes, economicos e desportivos, em vista da formação e aperfeiçoamento do individuo.
@@ -1021,7 +1058,8 @@ V - fiscalizar os institutos particulares de educação, as propostas de inscrip
 
 VI - propôr a remoção de professores primarios, assegurando-lhes, entretanto, permanencia nas escolas e localidades, salvo casos de remoção a pedido, por accesso ou em consequencia de pena imposta depois de inquerito disciplinar.
 
-PARTE III -<br>
+PARTE III -
+
 DISPOSIÇÕES GERAES
 
 Art. 96 - Esta Constituição poderá ser emendada ou reformada.

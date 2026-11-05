@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/98995344-6556-4004-a114-17681f863619/texto#nowhere)
 
-###DEL-001819-0-000-11-12-1980@@@
-
 # Decreto-lei nº 1.819, de 11 de dezembro de 1980
 
 Reajusta o valor do soldo base de cálculo da remuneração dos militares

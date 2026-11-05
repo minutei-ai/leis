@@ -1,5 +1,3 @@
-###DEC-079974-0-000-15-07-1977@@@
-
 DECRETO Nº 79.974, DE 15 DE JULHO DE 1977
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Fortaleza, Estado do Ceará.

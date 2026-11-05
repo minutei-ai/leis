@@ -1,5 +1,3 @@
-###DEC-055541-0-000-11-01-1965@@@
-
 DECRETO Nº 55.541, de 11 de janeiro de 1965.
 
 Autoriza a prefeitura Municipal de Itabira a pesquisar minério de ferro no município de Itabira, Estado de Minas Gerais.

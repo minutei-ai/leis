@@ -1,5 +1,3 @@
-###DEC-003632-0-000-17-10-2000@@@
-
 DECRETO Nº 3.632, de 17 de Outubro de 2000.
 
 Exclui do art. 2º do Decreto nº 3.592, de 6 de Setembro de 2000, que institui a hora de verão, em parte do Território Nacional, os Estados que menciona.

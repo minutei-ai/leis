@@ -1,5 +1,3 @@
-###DEL-004679-0-000-10-09-1942@@@
-
 DECRETO-LEI N. 4.679 – DE 10 DE SETEMBRO DE 1942
 
 Extingue a Contadoria Seccional junto à Estrada de Ferro Noroeste do Brasil e dá outras providências

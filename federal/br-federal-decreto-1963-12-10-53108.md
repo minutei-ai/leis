@@ -1,5 +1,3 @@
-###DEC-053108-0-000-10-12-1963@@@
-
 decreto nº 53.108, de 10 de dezembro de 1963.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Uruguaiana, Estado do Rio Grande do Sul.

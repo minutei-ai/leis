@@ -1,5 +1,3 @@
-###MPV-001752-0-036-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.752-36, DE 6 DE MAIO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito extraordinário até o limite de R$106.000.000,00 (cento e seis milhões de reais), para os fins que especifica.

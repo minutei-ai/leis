@@ -1,5 +1,3 @@
-###DEC-096824-0-000-28-09-1988@@@
-
 DECRETO N° 96.824, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO E TELEVISÃO SENTINELA DA AMAZÔNIA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na Cidade de Óbidos, Estado do Pará.

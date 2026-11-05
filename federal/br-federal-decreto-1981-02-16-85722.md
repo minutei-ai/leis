@@ -1,5 +1,3 @@
-###DEC-085722-0-000-16-02-1981@@@
-
 DECRETO Nº 85.722, DE 16 DE FEVEREIRO DE 1981.
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Odontologia Camilo Castelo Branco, em São Paulo, Estado de São Paulo.

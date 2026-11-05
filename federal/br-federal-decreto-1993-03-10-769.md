@@ -1,7 +1,3 @@
-1
-
-###DEC-000769-0-000-10-03-1993@@@
-
 DECRETO N° 769, DE 10 DE MARÇO DE 1993
 
 Dispõe sobre a transferência e a criação, por transformação, de cargos em comissão e funções gratificadas no âmbito do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, e dá outras providências.

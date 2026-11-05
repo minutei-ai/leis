@@ -1,5 +1,3 @@
-###DEC-052149-0-000-25-06-1963@@@
-
 DECRETO Nº 52.149, DE 25 DE JUNHO DE 1963.
 
 Aprova o Regulamento da Lei 4.216, de 6 de maio de 1963.

@@ -1,5 +1,3 @@
-###DEC-089166-0-000-09-12-1983@@@
-
 DECRETO Nº 89.166, DE 09 DE DEZEMBRO DE 1983.
 
 Dispõe sobre o limite do Capital Autorizado da Nuclebrás Auxiliar  de Mineração S.A. - NUCLAM.

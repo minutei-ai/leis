@@ -1,5 +1,3 @@
-###MPV-001599-0-051-18-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.599-51, DE 18 DE NOVEMBRO DE 1998
 
 Dá nova redação a dispositivos da Lei nº 8.742(1), de 7 de dezembro de 1993, que dispõe sobre a Organização da Assistência Social, e dá outras providências.

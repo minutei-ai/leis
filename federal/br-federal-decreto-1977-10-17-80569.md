@@ -1,5 +1,3 @@
-###DEC-080569-0-000-17-10-1977@@@
-
 DECRETO Nº 80.569, DE 17 DE outuBRO DE 1977.
 
 Altera o Decreto número 77.365, de 1º de abril de 1976.

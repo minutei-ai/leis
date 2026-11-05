@@ -1,7 +1,3 @@
-1
-
-###DEC-001288-0-000-21-10-1994@@@
-
 DECRETO N° 1.288, DE 21 DE OUTUBRO DE 1994
 
 Dispõe sobre o término, em território nacional, do regime de sanções contra o Haiti, estabelecido pelas Resoluções 841 (1993), 873 (1993), 875 (1993) e 917 (1994) do Conselho de Segurança das Nações Unidas.

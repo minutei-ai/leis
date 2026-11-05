@@ -1,5 +1,3 @@
-###DEC-071889-0-000-12-03-1973@@@
-
 DECRETO Nº 71.889, DE 12 DE MARÇO DE 1973.
 
 Aproveita funcionários no Quadro de Pessoal do Departamento de Polícia Federal, e dá outras providências.

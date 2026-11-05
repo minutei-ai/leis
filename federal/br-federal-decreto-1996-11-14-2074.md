@@ -1,5 +1,3 @@
-###DEC-002074-0-000-14-11-1996@@@
-
 DECRETO Nº 2.074, DE 14 DE NOVEMBRO DE 1996.
 
 Cria a Comissão Interministerial para a aplicação dos dispositivos da Convenção Internacional sobre a Proibição do Desenvolvimento, Produção, Estocagem e Uso das Armas Químicas e sobre a Destruição das Armas Químicas existentes no mundo (CPAQ) e elenca as obrigações e deveres decorrentes da CPAQ.

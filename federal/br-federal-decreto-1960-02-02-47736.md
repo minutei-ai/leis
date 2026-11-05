@@ -1,5 +1,3 @@
-###DEC-047736-0-000-02-02-1960@@@
-
 DECRETO N. 47.736 – DE 2 DE FEVEREIRO DE 1960
 
 Concede autorização para o funcionamento de cursos

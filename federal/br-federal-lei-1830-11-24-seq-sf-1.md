@@ -1,5 +1,3 @@
-###LEI-000000-0-001-24-11-1830@@@
-
 LEI - DE 24 DE NOVEMBRO DE 1830
 
 Extingue o Commissariado Geral do Exercito durante a paz.

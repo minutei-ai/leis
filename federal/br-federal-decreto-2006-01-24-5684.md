@@ -1,5 +1,3 @@
-###DEC-005684-0-000-24-01-2006@@@
-
 DECRETO Nº 5.684, DE 24 DE JANEIRO DE 2006.
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona.

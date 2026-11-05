@@ -1,5 +1,3 @@
-###DEC-095294-0-000-24-11-1987@@@
-
 DECRETO Nº 95.294, DE 24 DE NOVEMBRO DE 1987
 
 Outorga concessão à RÁDIO CLUBE DE BOCAIÚVA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bocaiúva, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-051218-0-000-22-08-1961@@@
-
 DECRETO Nº 51.218, DE 22 DE AGÔSTO DE 1961.
 
 Regulamenta o Decreto-Lei nº 910, de novembro de 1938, que dispõe sôbre o exercício da Profissão de Jornalista.

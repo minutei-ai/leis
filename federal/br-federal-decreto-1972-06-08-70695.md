@@ -1,5 +1,3 @@
-###DEC-070695-0-000-08-06-1972@@@
-
 DECRETO Nº 70.695, DE 9 DE JUNHO DE 1972.
 
 Torna sem efeito o aproveitamento, no Ministério da Marinha, de servidora disponível do Instituto de Previdência e Assistência dos Servidores do Estado e cassa a disponibilidade da mesma.

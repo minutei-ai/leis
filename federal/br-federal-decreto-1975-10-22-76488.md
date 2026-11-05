@@ -1,5 +1,3 @@
-###DEC-076488-0-000-22-10-1975@@@
-
 Decreto Nº 76.488, de 22 de outubro de 1975.
 
 Outorga concessão à TV Studios Silvio Santos Ltda. para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-083176-0-000-15-02-1979@@@
-
 DECRETO Nº 83.176, DE 15 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Administração, ministrado pela Faculdade de Ciências Econômicas de Colatina, com sede na cidade de Colatina, Estado do Espírito Santo.

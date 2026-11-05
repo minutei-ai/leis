@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211039)<br>
-
 # DECRETO N° 69.597, DE 09 DE JUNHO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Franco da Rocha, de parte do imóvel que especifica, e dá providências correlatas._

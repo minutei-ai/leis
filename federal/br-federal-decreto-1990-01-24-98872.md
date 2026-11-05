@@ -1,7 +1,3 @@
-1
-
-###DEC-098872-0-000-24-01-1990@@@
-
 DECRETO Nº 98.872, DE 24 DE JANEIRO DE 1990
 
 Renova a concessão outorgada à Rádio Carajá de Anápolis Ltda., para explorar serviço de radiodifusão sonora em onda tropical, na Cidade de Anápolis, Estado de Goiás.

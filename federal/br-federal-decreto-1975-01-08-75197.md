@@ -1,5 +1,3 @@
-###DEC-075197-0-000-08-01-1975@@@
-
 DECRETO Nº 75.197, DE 8 DE JANEIRO DE 1975
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Unaí e Bonfinópolis de Minas no Estado de Minas Gerais, em polígono compreendido na área proprietária de Reforma Agrária, de que tratam os Decretos números 56.795, de 27-8-65, 58.716, de 24-6-66, 66.034, de 31-12-69 e 72.381, de 19-6-73.

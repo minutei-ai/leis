@@ -1,5 +1,3 @@
-###DEC-077197-0-000-19-02-1976@@@
-
 DECRETO Nº 77.197, DE 19 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Educação Física da Faculdade de Educação Física do Norte do Paraná, com sede na Cidade de Londrina, Estado do Paraná.

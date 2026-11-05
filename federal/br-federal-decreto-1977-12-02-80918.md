@@ -1,5 +1,3 @@
-###DEC-080918-0-000-02-12-1977@@@
-
 DECRETO Nº 80.918, DE 02 DE dezembro DE 1977.
 
 Renova por 15 (quinze) anos a concessão outorgada à Bauru Rádio Clube S.A., posteriormente transferida à TV Bauru Ltda., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Bauru, Estado de São Paulo.

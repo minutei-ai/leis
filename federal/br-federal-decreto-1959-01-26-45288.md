@@ -1,5 +1,3 @@
-###DEC-045288-0-000-26-01-1959@@@
-
 DECRETO Nº 45.288, DE 26 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Coriolano Martins dos Santos a pesquisar manganês no município de Senhor do Bonfim, Estado da Bahia.

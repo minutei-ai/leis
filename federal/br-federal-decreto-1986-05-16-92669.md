@@ -1,5 +1,3 @@
-###DEC-092669-0-000-16-05-1986@@@
-
 # DECRETO Nº 92.669, DE 16 DE MAIO DE 1986
 
 Renova a concessão outorgada à Rádio Vila Velha Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Ponta Grossa, Estado do Paraná.

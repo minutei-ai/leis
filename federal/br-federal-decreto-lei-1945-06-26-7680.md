@@ -1,5 +1,3 @@
-###DEL-007680-0-000-26-06-1945@@@
-
 DECRETO-LEI N. 7.680 – DE 26 DE JUNHO DE 1945
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 108.000,00 à dotação que especifica

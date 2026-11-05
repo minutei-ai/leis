@@ -1,5 +1,3 @@
-###DEC-045802-0-000-15-04-1959@@@
-
 DECRETO Nº 45.802 DE 15 DE abril DE 1959.
 
 Altera o Regulamento para a Escola Naval.

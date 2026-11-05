@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4785e250-eee0-43dc-8dbc-777ea4f7c98b/texto#nowhere)
 
-###DEL-000906-0-000-01-10-1969@@@
-
 DECRETO-LEi Nº 906, DE 1º DE OUTUBRO DE 1969
 
 Transfere para o Ministério das Relações Exteriores cargo do Ministério da Fazenda.

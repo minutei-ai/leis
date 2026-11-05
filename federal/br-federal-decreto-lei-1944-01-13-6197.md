@@ -1,5 +1,3 @@
-###DEL-006197-0-000-13-01-1944@@@
-
 DECRETO-LEI N. 6.197 – DE 13 DE JANEIRO DE 1944
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 15.769,60, para atender ao pagamento de despesas com a inauguração do Monumento ao Barão do Rio Branco.

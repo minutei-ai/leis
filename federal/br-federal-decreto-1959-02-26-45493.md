@@ -1,5 +1,3 @@
-###DEC-045493-0-000-26-02-1959@@@
-
 DECRETO Nº 45.493, DE 26 DE fevereiro DE 1959.
 
 Autoriza o cidadão brasileiro Athos Fontes Ferreira a pesquisar dolomita no município de Itararê, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-075999-0-000-22-07-1975@@@
-
 DECRETO Nº 75.999 - DE 22 DE JULHO DE 1975.
 
 Dispõe sobre a desativação da Comissão Coordenadora do Projeto Aeroporto Internacional (CCPAI) e dá outras providências.

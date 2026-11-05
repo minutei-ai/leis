@@ -1,5 +1,3 @@
-###DEC-069022-0-000-05-08-1971@@@
-
 decreto nº 69.022, de 5 de AGôSTO de 1971.
 
 Concede reconhecimento do Curso de Educação Física da Faculdade de Educação Física da Universidade Católica de Campinas, S.P.

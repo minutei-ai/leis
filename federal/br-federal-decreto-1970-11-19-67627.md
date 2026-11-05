@@ -1,5 +1,3 @@
-###DEC-067627-0-000-19-11-1970@@@
-
 Decreto Nº 67.627, DE 19 DE NOVEMBRO DE 1970.
 
 Cria, no M.R.E., a Comissão de Assistência à Transferência do Corpo Diplomático.

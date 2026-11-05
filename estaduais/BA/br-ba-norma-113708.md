@@ -1,6 +1,7 @@
 LEI Nº 1.020 DE 14 DE AGOSTO DE 1958
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.179 de 26 de maio de 2014. Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Aiquara, Apuarema, Barra do Rocha, Boa Nova, Dário Meira, Gongogi, Ibirataia, Ipiaú, Itagi, Itagibá, Itamari, Jequié, Jitaúna, Manoel Vitorino, Nova Ibiá e Ubatã, e altera a Lei nº 12.926, de 18 de dezembro de 2013, no que concerne ao limite de Ibirapitanga. 
 
 Cria o Município de Itagibá, desmembrado do de Boa Nova.
@@ -75,4 +76,4 @@ Luiz de Moura Bastos
 
 Jorge Fernandes Figueira
 
-* * *
+ *

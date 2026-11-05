@@ -1,5 +1,3 @@
-###DEL-001478-0-000-26-08-1976@@@
-
 # DECRETO-LEI Nº 1.478, dE 26 De AGOSTO DE 1976
 
 Altera dispositivos do Decreto-lei nº 1.376, de 12 de dezembro de 1974, relativos aos Fundos de Investimentos do Nordeste, da Amazônia e Setoriais, e dá outras providências.

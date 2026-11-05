@@ -1,5 +1,3 @@
-###DEC-067954-0-000-23-12-1970@@@
-
 DECRETO Nº 67.954, DE 23 de DEZEMBRO DE 1970.
 
 Declara de utilidade pública o Convívio - Sociedade Brasileira de Cultura, com sede em São Paulo, Estado de São Paulo.

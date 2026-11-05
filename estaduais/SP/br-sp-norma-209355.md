@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209355)<br>
-
 # DECRETO N° 68.477, DE 24 DE ABRIL DE 2024
 
 ### _Altera o Decreto n° 67.856, de 1° de agosto de 2023, que regulamenta as Leis n° 17.621, de 3 de fevereiro de 2023, e n° 17.635, de 17 de fevereiro de 2023._

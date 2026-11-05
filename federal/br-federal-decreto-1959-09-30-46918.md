@@ -1,5 +1,3 @@
-###DEC-046918-0-000-30-09-1959@@@
-
 DECRETO Nº 46.918, DE 30 DE SETEMBRO DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadro Permanente e Suplementar do Ministério da Agricultura

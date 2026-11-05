@@ -1,5 +1,3 @@
-###DEC-085777-0-000-27-02-1981@@@
-
 Decreto nº 85.777, de 27 de fevereiro de 1981.
 
 Autoriza o funcionamento do curso de Música e das habilitações  em Desenho e em Artes Plásticas da Faculdade de Música Santa Cecília, em Pindamonhangaba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-068319-0-000-05-03-1971@@@
-
 DECRETO Nº 68.319, DE 5 DE MARÇO DE 1971.
 
 Declara de utilidade pública o Educandário Imaculado Coração de Maria "Dona Maria Queiroz Pedroso", com sede em Mauá, Estado de São Paulo.

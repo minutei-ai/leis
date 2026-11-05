@@ -1,5 +1,3 @@
-###DEC-085880-0-000-08-04-1981@@@
-
 Decreto nº 85.880, de 8 de abril de 1981.
 
 Institui o "Prêmio Nacional de Ciência e Tecnologia" como estímulo à produção científica e tecnológica.

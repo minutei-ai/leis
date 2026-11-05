@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ce524b92-1d37-4851-b8eb-ab430b83639c/texto#nowhere)
 
-###DEL-000975-0-000-20-10-1969@@@
-
 DECRETO-LEI Nº 975, DE 20 DE OUTUBRO DE 1969
 
 Define os crimes de contrabando e transporte de terroristas e subversivos, praticados por meio de aeronaves e dá outras providências.

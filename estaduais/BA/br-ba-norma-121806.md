@@ -4,17 +4,20 @@ Dispõe sobre a composição e a competência do Ministério Público Especial d
 
 **O VICE-GOVERNADOR, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA COMPOSIÇÃO DO MPEC E DA ADMISSÃO, NOMEAÇÃO E PROGRESSÃO DE SEUS MEMBROS 
 
 **Art. 1º** - Criado pela Lei Complementar nº 28, de 14 de dezembro de 2006, o Ministério Público junto ao Tribunal de Contas dos Municípios do Estado da Bahia, ao qual se aplicam os princípios da unidade, da indivisibilidade e da independência funcional, é constituído por 04 (quatro) Procuradores, cujos subsídios são fixados no Anexo Único desta Lei.
 
-Redação de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014.<br>
+Redação de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014.
+
 Redação original: "Art. 1º -  Criado pela Lei Complementar nº 28, de 14 de dezembro de 2006, o Ministério Público Especial de Contas junto ao Tribunal de Contas dos Municípios, ao qual se aplicam os princípios da unidade, da indivisibilidade e da independência funcional, compõe-se de 01 (um) Procurador-Geral e Procuradores, sendo a carreira escalonada em 04 (quatro) Classes diferenciadas e sobrepostas verticalmente, A, B, C e D, de conformidade com o que estabelece o Anexo Único desta Lei."
 
 **Art. 2º** \- O ingresso na carreira de Procurador far-se-á mediante concurso público de provas e títulos, assegurada a participação da Ordem dos Advogados do Brasil e observando-se, na nomeação, a ordem de classificação, exigindo-se do bacharel em Direito, no mínimo, 03 (três) anos de atividade jurídica.
 
-Redação de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014.<br>
+Redação de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014.
+
 Redação original: "Art. 2º - Os Procuradores, em número de 03 (três), nomeados pelo Presidente do Tribunal, deverão ter nacionalidade brasileira, serem portadores de diploma de Bacharel em Direito e terem sido aprovados em concurso público de provas e títulos, voltado exclusivamente para o MPEC, de cuja comissão participará a OAB, devendo, ainda, como requisito essencial para serem investidos no cargo inicial da carreira, comprovarem, no mínimo, 03 (três) anos de atividade jurídica, observando-se, nas nomeações, a ordem de classificação."
 
 **<Revogado> § 1º** \- O ingresso na carreira de Procurador dar-se-á sempre em sua classe inicial, a Classe A.
@@ -31,21 +34,26 @@ Revogado pelo art. 42 da Lei nº 13.205, de 17 de dezembro de 2014.
 
 **Art. 3º** - O Procurador-Geral será nomeado para mandato de 02 (dois) anos, dentre os integrantes da carreira, permitida uma recondução, tendo o tratamento protocolar compatível com a relevância do cargo.
 
-Redação de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014.<br>
+Redação de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014.
+
 Redação original: "Art. 3º - A nomeação do Procurador-Geral, para um mandato de 02 (dois) anos, será realizada pelo Governador do Estado e resultará de escolha efetivada pelo Plenário do Tribunal, dentre os nomes constantes de lista tríplice a ele submetida, recaindo sobre um dos três Procuradores que compõem o Ministério Público Especial de Contas, admitindo-se a recondução do mandato para período igual e imediatamente subsequente.
 
 **Parágrafo único** -  Compete ao Procurador-Geral de Contas designar entre os Procuradores de Contas em efetivo exercício, o Procurador-Geral de Contas Adjunto, que o substituirá em suas ausências e impedimentos, sem prejuízo das atribuições de origem, passando o Procurador-Geral de Contas Adjunto a fazer jus, durante a substituiçäo, à percepção do subsídio do cargo exercido, desde que a mesma se dê por tempo superior a 10 (dez) dias.
 
-Redação de acordo com a Lei 14.758 de 26 de junho de 2024.<br>
-Redação anterior de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014: Parágrafo único - "  Em suas ausências ou impedimentos, o Procurador-Geral será substituído pelo Procurador mais antigo no cargo e, sucessivamente, o que tiver maior idade, passando o substituto a fazer jus, durante a substituição, à percepção do subsídio do cargo exercido, desde que a mesma se dê por tempo superior a 10 (dez) dias."<br>
+Redação de acordo com a Lei 14.758 de 26 de junho de 2024.
+
+Redação anterior de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014: Parágrafo único - "  Em suas ausências ou impedimentos, o Procurador-Geral será substituído pelo Procurador mais antigo no cargo e, sucessivamente, o que tiver maior idade, passando o substituto a fazer jus, durante a substituição, à percepção do subsídio do cargo exercido, desde que a mesma se dê por tempo superior a 10 (dez) dias."
+
 Redação original: "§ 1º - O Procurador-Geral fará jus a tratamento protocolar compatível com a relevância do cargo.§ 2º - Em suas ausências ou impedimentos, o Procurador-Geral será substituído pelo Procurador mais antigo no cargo e, sucessivamente, o que tiver maior idade, passando o substituto a fazer jus, durante a substituição, à percepção do subsídio do cargo exercido, desde que a mesma  se  dê  por  tempo superior a 10 (dez) dias."
 
 **Art. 4º** \- Aos membros do Ministério Público junto ao Tribunal de Contas dos Municípios do Estado da Bahia aplicam-se, subsidiariamente, no que couber, as disposições da Lei Orgânica do Ministério Público Estadual pertinentes a direitos, garantias, prerrogativas, vedações, regime disciplinar e forma de investidura.
 
-Redação de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014.<br>
+Redação de acordo com o art. 36 da Lei nº 13.205, de 17 de dezembro de 2014.
+
 Redação original: "Art. 4º - Aos membros do Ministério Público Especial de Contas aplicam-se, subsidiariamente, no que couber, as disposições da Lei Orgânica do Ministério Público Estadual pertinentes a direitos, garantias, prerrogativas, vedações, regime disciplinar e forma de investidura no cargo inicial da carreira."
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA COMPETÊNCIA DO MPEC
 
 **Art. 5º** - Compete ao Ministério Público Especial de Contas junto ao Tribunal de Contas dos Municípios, em sua missão de guarda da lei e fiscal de sua execução:
@@ -64,7 +72,8 @@ DA COMPETÊNCIA DO MPEC
 
 **VII -**   representar ao Procurador-Geral da Justiça, quando determinado em Parecer Prévio, em processos de denúncia e em Termos de Ocorrência**,** pelo ajuizamento de Ação Direta de Inconstitucionalidade de leis ou atos normativos municipais em face da Constituição do Estado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA ESTRUTURA DO MPEC
 
 **Art. 6º** - Para atender o quanto dispõe nesta Lei, ficam criados, na estrutura do Tribunal de Contas dos Municípios, 03 (três) cargos de provimento temporário de Secretário, TCM-125-DAS-3, e 01 (um) cargo de provimento temporário de Assessor, TCM-114-DAS-4, cujos ocupantes serão escolhidos, preferencialmente, entre servidores do quadro do Tribunal.
@@ -117,7 +126,8 @@ Art. 6º-C acrescido pela Lei 14.758 de 26 de junho de 2024.
 
 **Art. 7º** - O Tribunal providenciará a estrutura necessária ao funcionamento do Gabinete do Procurador-Geral, nele lotando servidores que deem apoio técnico e administrativo a suas atividades.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DISPOSIÇÕES FINAIS
 
 **<Revogado> Art. 8º** \- Os subsídios de que trata esta Lei, em seu Anexo Único, seguem o disposto no § 8º combinado com o § 4º do art. 39 da Constituição Federal, e absorvem qualquer outra parcela, seja a que título for.
@@ -142,11 +152,4 @@ Manoel Vitório da Silva Filho
 
 Secretário da Administração
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:477.75pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td colspan="2" style="width:477.75pt;border:solid #000001 1.0pt;
-  border-bottom:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="637"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO ÚNICO</span></b><br><b><span style="font-size:8.0pt;color:black">SUBSÍDIO DO CARGO DE PROCURADOR DO MINISTÉRIO PÚBLICO JUNTO AO TRIBUNAL DE CONTAS DOS MUNICÍPIOS DO ESTADO DA BAHIA</span></b></p></td></tr><tr style="page-break-inside:avoid"><td colspan="2" style="width:477.75pt;border:solid #000001 1.0pt;
-  border-bottom:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="637"><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">(Redação do anexo único de acordo com o art. 37 da Lei nº 13.205, de 17 de dezembro de 2014: "O Anexo Único da Lei nº 12.207, de 14 de abril de 2011, passa a vigorar com o teor constante do Anexo VI</span><span style="color:#00000A"> desta Lei, aplicando-se, ainda, as disposições do art. 1º, inciso III, da Lei Estadual nº </span><span style="color:black">12.805</span><span style="color:#00000A">, de 23 de abril de 2013."</span><span style="color:black">)</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:247.5pt;border:solid #000001 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">SUBSIDIO</span></p></td><td style="width:230.25pt;border:solid #000001 1.0pt;
-  border-bottom:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="307"><p align="center" class="MsoNormal" style="text-align:center"><br><span style="font-size:12.0pt">R$ 26.589,68</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:247.5pt;border-top:none;border-left:
-  solid #000001 1.0pt;border-bottom:solid #000001 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="330"><p class="MsoNormal"><span style="font-size:12.0pt">PROCURADOR</span></p></td><td style="width:230.25pt;border:solid #000001 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="307"><p class="MsoNormal"><span style="color:black">&nbsp;</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **ANEXO ÚNICOSUBSÍDIO DO CARGO DE PROCURADOR DO MINISTÉRIO PÚBLICO JUNTO AO TRIBUNAL DE CONTAS DOS MUNICÍPIOS DO ESTADO DA BAHIA** </td></tr><tr><td colspan="2" valign="top"> (Redação do anexo único de acordo com o art. 37 da Lei nº 13.205, de 17 de dezembro de 2014: "O Anexo Único da Lei nº 12.207, de 14 de abril de 2011, passa a vigorar com o teor constante do Anexo VI desta Lei, aplicando-se, ainda, as disposições do art. 1º, inciso III, da Lei Estadual nº 12.805, de 23 de abril de 2013.") </td></tr><tr><td valign="top"> SUBSIDIO </td><td valign="top"> R$ 26.589,68 </td></tr><tr><td valign="top"> PROCURADOR </td><td valign="top"> &nbsp; </td></tr></tbody></table>

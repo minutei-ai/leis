@@ -1,5 +1,3 @@
-###DEC-054178-0-000-24-08-1964@@@
-
 DECRETO Nº 54.178, DE 24 DE AGÔSTO DE 1964.
 
 Autoriza o cidadão brasileiro Moacyr Portugal Linhares a pesquisar água mineral no município de Nova Granada Estado de São Paulo.

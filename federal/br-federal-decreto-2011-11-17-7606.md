@@ -1,5 +1,3 @@
-###DEC-007606-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.606, DE 17 DE NOVEMBRO DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1989, de 17 de junho de 2011, do Conselho de Segurança das Nações Unidas, que trata de sanções contra indivíduos, grupos, empreendimentos e entidades da Al-Qaeda e a ela associados.

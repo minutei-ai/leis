@@ -1,5 +1,3 @@
-###DEC-075508-0-000-18-03-1975@@@
-
 DECRETO Nº 75.508, DE 18 DE MARÇO DE 1975.
 
 Regulamenta a Lei nº 6.168, de 9 de dezembro de 1974, que criou o Fundo de Apoio do Desenvolvimento Social - FAS.

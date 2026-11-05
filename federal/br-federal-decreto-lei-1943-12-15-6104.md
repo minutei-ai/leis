@@ -1,5 +1,3 @@
-###DEL-006104-0-000-15-12-1943@@@
-
 DECRETO‑LEI N. 6.104 – DE 15 DE DEZEMBRO DE 1943
 
 Abre ao Ministério das Relações Exteriores, o crédito especial de Cr$ 500.000,00, para atender as despesas com a participação, do Brasil na solução da questão de limites entre o Equador e o Perú

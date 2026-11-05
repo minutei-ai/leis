@@ -1,7 +1,3 @@
-1
-
-###DEC-001404-0-000-21-02-1995@@@
-
 DECRETO N° 1.404, DE 21 DE FEVEREIRO DE 1995
 
 Dá nova redação ao art. 4º do Decreto nº 1.007, de 13 de dezembro de 1993, que dispõe sobre as contribuições compulsórias devidas ao Serviço Social do Transporte - SEST e ao Serviço Nacional de Aprendizagem do Transporte SENAT.

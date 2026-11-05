@@ -1,5 +1,3 @@
-###DEC-066112-0-000-23-01-1970@@@
-
 DECRETO Nº 66.112 - DE 23 DE JANEIRO DE 1970
 
 Regulamenta o Capítulo VI do Decreto-lei nº 240, de 28 de fevereiro de 1967, que cria o Fundo de Metrologia (FUMET).

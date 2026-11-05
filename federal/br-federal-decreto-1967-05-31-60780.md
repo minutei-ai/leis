@@ -1,5 +1,3 @@
-###DEC-060780-0-000-31-05-1967@@@
-
 decreto nº 60.780, de 31 de maio de 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. - CEMIG concessão para distribuir energia elétrica no Município de São Sebastião do Rio Verde, Estado de Minas Gerais.

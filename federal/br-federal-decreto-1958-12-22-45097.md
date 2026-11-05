@@ -1,5 +1,3 @@
-###DEC-045097-0-000-27-12-1958@@@
-
 decreto nº 45.097, de 27 de dezembro de 1958.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no Município de Pocinhos, Estado da Paraíba.

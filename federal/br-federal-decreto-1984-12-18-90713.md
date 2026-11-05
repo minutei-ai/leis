@@ -1,5 +1,3 @@
-###DEC-090713-0-000-18-12-1984@@@
-
 # Decreto nº 90.713, de 18 de dezembro de 1984
 
 Dispõe sobre o montante do Capital Social da Petrobrás Comércio Internacional S.A. - INTERBRÁS.

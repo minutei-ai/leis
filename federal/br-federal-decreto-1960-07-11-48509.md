@@ -1,5 +1,3 @@
-###DEC-048509-0-000-11-07-1960@@@
-
 DECRETO Nº 48.509, DE 11 DE JULHO DE 1960.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista de repartição do Ministério da Agricultura, na forma que menciona.

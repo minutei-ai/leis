@@ -1,5 +1,3 @@
-###DEL-004895-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.895 – DE 29 DE OUTUBRO DE 1942
 
 Autoriza o prefeito do Distrito Federal a por à disposição do Ministério da Marinha a quantia de 470:000$0 (quatrocentos e setenta contos de réis), e dá outras providências.

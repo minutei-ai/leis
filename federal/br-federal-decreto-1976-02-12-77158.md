@@ -1,5 +1,3 @@
-###DEC-077158-0-000-12-02-1976@@@
-
 DECRETO Nº 77.158, DE 12 DE FEVEREIRO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Guajará Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Belém, Estado do Pará.

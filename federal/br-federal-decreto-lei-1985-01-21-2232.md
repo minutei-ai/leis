@@ -1,5 +1,3 @@
-###DEL-002232-0-000-21-01-1985@@@
-
 # DECRETO-LEI Nº 2.232, DE 21 DE janeiro DE 1985
 
 Dá nova redação ao art. 5º do Decreto-lei nº 1.950, de 14 de julho de 1982.

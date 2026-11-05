@@ -1,5 +1,3 @@
-###DEC-046257-0-000-22-06-1959@@@
-
 DECRETO Nº 46.257, DE 22 DE JUNHO DE 1959.
 
 Concede autorização a Companhia Yasuda Contra Incêndio e Marítimo, com sede em Tokio, Japão, para funcionar na República, operando em seguros e resseguros dos ramos elementares.

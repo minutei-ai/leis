@@ -1,5 +1,3 @@
-###DEC-070565-0-000-18-05-1972@@@
-
 DECRETO Nº 70.565, DE 18 DE MAIO DE 1972.
 
 Concede reconhecimento à Faculdade de Direito de Colatina - Espírito Santo.

@@ -1,18 +1,16 @@
-###DEC-063371-0-000-08-10-1968@@@
+**DECRETO Nº 63.371, DE 8 DE OUTUBRO DE 1968.**
 
-<strong>DECRETO Nº 63.371, DE 8 DE OUTUBRO DE 1968.</strong>
+***Concede à “INAIR - Internacional de Aviación S.A.” autorização para funcionar na República.***
 
-<em><strong>Concede à “INAIR - Internacional de Aviación S.A.” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83 inciso II da Constituição, e nos têrmos do Decreto 35.514, de 18 de maio de 1954,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83 inciso II da Constituição, e nos têrmos do Decreto 35.514, de 18 de maio de 1954,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É concedida à “INAIR - Internacional de Aviación S.A.”, sociedade comercial, com sede na cidade do Panamá, República do Panamá, autorização para funcionar na República com os estatutos sociais, que apresentou, e capital destinado às suas operações, estimado em NCr$2.000,00 (dois mil cruzeiros novos), obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da presente autorização.
 
-<strong>Art</strong>. 1º É concedida à “INAIR - Internacional de Aviación S.A.”, sociedade comercial, com sede na cidade do Panamá, República do Panamá, autorização para funcionar na República com os estatutos sociais, que apresentou, e capital destinado às suas operações, estimado em NCr$2.000,00 (dois mil cruzeiros novos), obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da presente autorização.
+**Art**. 2º Fica entendido que o exercício efetivo de quaisquer de suas atividades no Brasil, relacionadas com os serviços de transporte aéreo, ficará sujeito a legislação brasileira, que lhe fôr aplicável.
 
-<strong>Art</strong>. 2º Fica entendido que o exercício efetivo de quaisquer de suas atividades no Brasil, relacionadas com os serviços de transporte aéreo, ficará sujeito a legislação brasileira, que lhe fôr aplicável.
-
-<strong>Art</strong>. 3º Ficam, ainda, estabelecidas as seguintes cláusulas:
+**Art**. 3º Ficam, ainda, estabelecidas as seguintes cláusulas:
 
 a) a “INAIR - Internacional de Aviación S.A.” é obrigada a manter, permanentemente, um representante-geral, no Brasil, com plenos e limitados poderes para tratar e definitivamente resolver as questões que se suscitarem, quer com o Govêrno, quer com particulares, podendo ser demandado, e receber citação inicial pela sociedade;
 
@@ -28,12 +26,12 @@ f) a presente autorização é dada sem prejuízo de achar-se a sociedade sujeit
 
 g) a infração de quaisquer das cláusulas, para a qual não exista cominação especial, será punida com a multa de NCr$200,00 (duzentos cruzeiros novos) a NCr$1.000,00 (um mil cruzeiros novos), podendo ser-lhe cassada a autorização, em caso de reincidência.
 
-<strong>Art</strong>. 4º Acompanham êste Decreto em sua publicação os estatutos sociais apresentados, legal e devidamente traduzidos, e demais atos mencionados no art. 2º do Decreto nº 35.514, de 18 de maio de 1954.
+**Art**. 4º Acompanham êste Decreto em sua publicação os estatutos sociais apresentados, legal e devidamente traduzidos, e demais atos mencionados no art. 2º do Decreto nº 35.514, de 18 de maio de 1954.
 
-<strong>Art</strong>. 5º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 8 de outubro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Mário de Sousa e Mello

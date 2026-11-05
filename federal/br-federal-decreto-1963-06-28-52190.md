@@ -1,5 +1,3 @@
-###DEC-052190-0-000-28-06-1963@@@
-
 DECRETO Nº 52.190, DE 28 DE JUNHO DE 1963.
 
 Altera a constituição da Comissão Executiva do Plano de Recuperação econômico-Rural da Lavoura Cacaueira “CEPLAC” e cria um Conselho Consultivo naquele órgão.

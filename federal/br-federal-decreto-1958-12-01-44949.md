@@ -1,5 +1,3 @@
-###DEC-044949-0-000-01-12-1958@@@
-
 DECRETO Nº 44.949, DE 1 DE dezembro DE 1958.
 
 Autoriza a Emprêsa de Mineração Novaterra Ltda a pesquisar minério de ferro no município de Belo Vale, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-000761-0-000-04-10-1938@@@
-
 DECRETO-LEI N. 761 – DE 4 DE OUTUBRO DE 1938
 
 Dispõe sobre o exame dos processos concernentes à cooperação financeira da União com as instituições culturais de ordem privada

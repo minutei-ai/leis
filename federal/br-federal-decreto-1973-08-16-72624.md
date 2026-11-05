@@ -1,5 +1,3 @@
-###DEC-072624-0-000-16-08-1973@@@
-
 decreto nº 72.624, de 16 de agosto de 1973.
 
 Concede à C.B.E. - Companhia Brasileira de Equípamentos o direito de lavrar calcário, no Município de Capão Bonito - Estado de São Paulo.

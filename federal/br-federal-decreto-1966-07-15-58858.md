@@ -1,5 +1,3 @@
-###DEC-058858-0-000-15-07-1966@@@
-
 DECRETO Nº 58.858, DE 15 DE JULHO DE 1966.
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de Cr$500.000.000 (quinhentos milhões de cruzeiro), para o fim que específica.

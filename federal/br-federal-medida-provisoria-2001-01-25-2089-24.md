@@ -1,5 +1,3 @@
-###MPV-002089-0-024-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.089-24, DE 25 DE JANEIRO DE 2001
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração.

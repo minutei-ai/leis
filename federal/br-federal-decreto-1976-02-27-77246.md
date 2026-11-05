@@ -1,5 +1,3 @@
-###DEC-077246-0-000-27-02-1976@@@
-
 DECRETO Nº 77.246, DE 27 DE FEVEREIRO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube do Pará, cuja denominação foi, posteriormente, alterada para Rádio Clube do Pará S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Belém, Estado do Pará.

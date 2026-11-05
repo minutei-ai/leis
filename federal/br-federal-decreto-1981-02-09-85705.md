@@ -1,5 +1,3 @@
-###DEC-085705-0-000-09-02-1981@@@
-
 Decreto nº 85.705, de 09 de fevereiro de 1981.
 
 Promulga o Protocolo relativo a uma emenda ao artigo 50 (a) da Convenção sobre Aviação Civil Internacional.

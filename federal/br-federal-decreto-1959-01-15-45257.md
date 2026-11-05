@@ -1,5 +1,3 @@
-###DEC-045257-0-000-15-01-1959@@@
-
 DECRETO Nº 45.257, DE 15 DE JANEIRO DE 1959.
 
 Renova o Decreto nº 40.332, de 12 de novembro de 1956.

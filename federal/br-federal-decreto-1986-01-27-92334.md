@@ -1,5 +1,3 @@
-###DEC-092334-0-000-27-01-1986@@@
-
 DECRETO Nº 92.334, DE 27 DE JANEIRO DE 1986
 
 Autoriza o Governo do Estado do Acre a explorar, através da Fundação de Desenvolvimento de Recursos Humanos da Cultura e do Desporto - FDRHCD, na cidade de Rio Branco, Estado do Acre, serviço de radiodifusão sonora em onda média, mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

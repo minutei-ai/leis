@@ -1,5 +1,3 @@
-###DEC-052291-0-000-24-07-1963@@@
-
 DECRETO Nº 52.291, DE 24 DE JULHO DE 1963.
 
 Concede reconhecimento a cursos do Instituto Musical de São Paulo.

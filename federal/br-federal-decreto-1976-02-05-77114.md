@@ -1,5 +1,3 @@
-###DEC-077114-0-000-05-02-1976@@@
-
 DECRETO Nº 77.114, DE 5 DE FEVEREIRO DE 1976.
 
 Cria Missão Diplomática no Reino do Nepal.

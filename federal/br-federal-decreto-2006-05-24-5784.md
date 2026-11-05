@@ -1,5 +1,3 @@
-###DEC-005784-0-000-24-05-2006@@@
-
 DECRETO Nº 5.784, DE 24 DE MAIO DE 2006.
 
 Fixa cargos privativos de Oficial-General da Aeronáutica em tempo de paz e dá outras providências.

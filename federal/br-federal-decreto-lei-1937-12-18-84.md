@@ -1,5 +1,3 @@
-###DEL-000084-0-000-18-12-1937@@@
-
 DECRETO-LEI N. 84 – DE 18 DE DEZEMBRO DE 1937
 
 Abre o crédito especial de 4.000:000$000 para conclusão do edifício-sede do Ministério do Trabalho

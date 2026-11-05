@@ -1,5 +1,3 @@
-###DEC-080303-0-000-08-09-1977@@@
-
 DECRETO Nº 80.303, DE 8 DE SETEMBRO DE 1977.
 
 Dá competência ao Ministério da Previdência e Assistência Social para adotar providências necessárias à implantação do Sistema Nacional de Previdência e Assistência Social.

@@ -1,5 +1,3 @@
-###DEC-051081-0-000-31-07-1961@@@
-
 DECRETO Nº 51.081, DE 31 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio da União e do Estado da Guanabara, as águas do rio Paineiras.

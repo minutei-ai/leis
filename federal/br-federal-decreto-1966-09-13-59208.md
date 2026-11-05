@@ -1,5 +1,3 @@
-###DEC-059208-0-000-13-09-1966@@@
-
 Decreto nº 59.208, de 13 de setembro de 1966.
 
 Dispõe sôbre o horário de trabalho nos Estabelecimentos, com atividades fabris, do Ministério da Guerra.

@@ -1,7 +1,3 @@
-1
-
-###LCP-000039-0-000-10-12-1980@@@
-
 # LEI COMPLEMENTAR Nº 39, DE 10 DE DEZEMBRO DE 1980
 
 Altera a redação do art. 6º da Lei Complementar nº 28, de 18 de novembro de 1975 e dá outras providências.

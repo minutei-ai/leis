@@ -1,5 +1,3 @@
-###DEL-004060-0-000-28-01-1942@@@
-
 DECRETO-LEI N. 4.060 – DE 28 DE JANEIRO DE 1942
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 380 :00$0, para obras do Leprosário de Cruzeiro do Sul, no Território do Acre

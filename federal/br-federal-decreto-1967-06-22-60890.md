@@ -1,5 +1,3 @@
-###DEC-060890-0-000-22-06-1967@@@
-
 DECRETO Nº 60.890, DE 22 DE JUNHO DE 1967.
 
 Constitui Grupo de Trabalho Especial, junto ao Ministério das Minas e Energia, com as atribuições que especifica.

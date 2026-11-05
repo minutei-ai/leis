@@ -1,5 +1,3 @@
-###DEC-076698-0-000-01-12-1975@@@
-
 decreto nº 76.698, de 1º de Dezembro de 1975.
 
 Torna sem efeito aproveitamento de disponível no Quadro do Hospital dos Servidores do Estado e cassa a disponibilidade do mesmo.

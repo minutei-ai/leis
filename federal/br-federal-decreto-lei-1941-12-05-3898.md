@@ -1,5 +1,3 @@
-###DEL-003898-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.898 – DE 5 DE DEZEMBRO DE 1941
 
 Cria a carreira de Naturulista Auxiliar, no Quadro Permanente do Ministério da Educação e Saude, e dá outras providências

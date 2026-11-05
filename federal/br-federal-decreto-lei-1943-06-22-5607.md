@@ -1,5 +1,3 @@
-###DEL-005607-0-000-22-06-1943@@@
-
 DECRETO‑LEI N. 5.607 – DE 22 DE JUNHO DE 1943
 
 Dispõe sôbre a organização de Serviços de Ensino e Orientação Profissional nas Estradas de Ferro Administradas Pela União, e dá outras providências

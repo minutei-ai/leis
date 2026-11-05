@@ -1,5 +1,3 @@
-###DEL-001115-0-000-24-07-1970@@@
-
 # DECReTO-LEI nº 1.115, DE 24 DE JULHO DE 1970
 
 Concede estimulos às fusões e as incorporações das Sociedades Seguradoras e dá outras providências.

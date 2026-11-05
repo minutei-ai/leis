@@ -1,5 +1,3 @@
-###DEC-000000-0-000-29-03-1823@@@
-
 DECRETO - DE 29 DE MARÇO DE 1823
 
 Declara em estado de bloqueio o porto da Cidade da Bahia.

@@ -1,5 +1,3 @@
-###DEC-094019-0-000-12-02-1987@@@
-
 DECRETO Nº 94.019, DE 12 DE FEVEREIRO DE 1987.
 
 Outorga concessão à TV VALE DO PARAÍBA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de São José dos Campos, Estado de São Paulo.

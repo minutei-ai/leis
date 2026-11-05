@@ -1,5 +1,3 @@
-###DEC-086866-0-000-21-01-1982@@@
-
 DECRETO Nº 86.866, DE 21 DE JANEIRO DE 1982
 
 Extingue a Base Área de Belo Horizonte e o Núcleo da mesma Base e dá outras providências.

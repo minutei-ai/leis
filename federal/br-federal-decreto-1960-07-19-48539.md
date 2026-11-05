@@ -1,5 +1,3 @@
-###DEC-048539-0-000-19-07-1960@@@
-
 DECRETO Nº 48.539, DE 19 DE JULHO DE 1960.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Carolina (MA).

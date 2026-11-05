@@ -1,5 +1,3 @@
-###DEC-055763-0-000-17-02-1965@@@
-
 Decreto nº 55.763, de 17 de fevereiro de 1965.
 
 Altera o Capítulo VII da 1ª Parte do RUPE (Decreto nº 30.163, de 13 de novembro de 1951).

@@ -1,5 +1,3 @@
-###DEC-086648-0-000-25-11-1981@@@
-
 Decreto nº 86.648, de 25 de novembro de 1981
 
 Revoga o Decreto nº 66.269, de 26 de fevereiro de 1970.

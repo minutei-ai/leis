@@ -1,5 +1,3 @@
-###DEL-006220-0-000-21-01-1944@@@
-
 DECRETO-LEI N. 6.220 – DE 21 DE JANEIRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.851.380,70, para classificação de despesa proveniente do transporte de valores

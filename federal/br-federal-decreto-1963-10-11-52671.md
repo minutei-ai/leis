@@ -1,5 +1,3 @@
-###DEC-052671-0-000-11-10-1963@@@
-
 DECRETO Nº 52.671, de 11 de outubro de 1963
 
 Dispõe sôbre a situação funcional dos titulares dos ofícios de justiça das comarcas do antigo Território Federal  do Acre.

@@ -1,5 +1,3 @@
-###DEC-061052-0-000-24-07-1967@@@
-
 Decreto nº 61.052, de 24 de julho de 1967.
 
 Abre, ao Ministério da Fazenda, o crédito especial de NCr$3.409,00 autorizado pela Lei nº 5.193, de 20 de dezembro de 1966, para fins que menciona.

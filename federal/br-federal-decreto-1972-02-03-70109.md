@@ -1,5 +1,3 @@
-###DEC-070109-0-000-03-02-1972@@@
-
 Decreto nº 70.109, de 3 de fevereiro de 1972.
 
 Redistribui, com respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Obras e Saneamento, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

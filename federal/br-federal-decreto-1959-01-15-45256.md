@@ -1,5 +1,3 @@
-###DEC-045256-0-000-15-01-1959@@@
-
 DECRETO Nº 45.256, DE 15 DE JANEIRO DE 1959.
 
 Altera a redação do Decreto nº 39.803, de 16 de agôsto de 1956

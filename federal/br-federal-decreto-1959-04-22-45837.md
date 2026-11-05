@@ -1,5 +1,3 @@
-###DEC-045837-0-000-22-04-1959@@@
-
 decreto nº 45.837, de 22 de abril de 1959.
 
 Classifica localidade do Território Nacional, na Categoria “A” prevista no art. 122 da Lei nº 1.316, de 20 de janeiro de 1951.

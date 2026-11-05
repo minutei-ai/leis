@@ -1,5 +1,3 @@
-###DEC-062541-0-000-16-04-1968@@@
-
 DECRETO Nº 62.541, DE 16 DE ABRIL DE 1968.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Prefeitura Municipal de Frutal no distrito de Frutal, município de Frutal, Estado de Minas Gerais e outorga concessão à Centrais Elétricas de Minas Gerais S. A. no município de Frutal, Estado de Minas Gerais e dá outras providências.

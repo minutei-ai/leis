@@ -1,5 +1,3 @@
-###DEC-061823-0-000-04-12-1967@@@
-
 DECRETO Nº 61.823, DE 4 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública o “Educandário São Vicente de Paulo” com sede em Itararé, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-094343-0-000-19-05-1987@@@
-
 DECRETO Nº 94.343, DE 19 DE MAIO DE 1987.
 
 Dispõe sobre o aumento do capital autorizado da PETROBRÁS INTERNACIONAL S.A. - BRASPETRO.

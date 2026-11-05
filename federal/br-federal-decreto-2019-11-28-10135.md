@@ -40,4 +40,4 @@ JAIR MESSIAS BOLSONARO
 
 Paulo Guedes
 
-Bento Albuquerque<br>
+Bento Albuquerque

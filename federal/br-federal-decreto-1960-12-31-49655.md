@@ -1,5 +1,3 @@
-###DEC-049655-0-000-31-12-1960@@@
-
 decreto nº 49.655, de 31 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro Claudionor Ferreira de Figueiredo a pesquisar quartzo e pedras coradas, no município de Teófilo Otoni, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-095459-0-000-10-12-1987@@@
-
 DECRETO Nº 95.459, DE 10 DE DEZEMBRO DE 1987
 
 Altera o Decreto nº 62.724, de 17 de maio de 1968, que estabelece normas gerais de tarifação para as empresas concessionárias de serviços públicos de energia elétrica.

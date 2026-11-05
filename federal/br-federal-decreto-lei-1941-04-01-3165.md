@@ -1,5 +1,3 @@
-###DEL-003165-0-000-01-04-1941@@@
-
 DECRETO-LEI N. 3.165 – DE 1 DE ABRIL DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 2:250$0, para pagamento de gratificação adicional.

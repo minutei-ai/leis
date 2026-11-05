@@ -1,5 +1,3 @@
-###DEC-096901-0-000-03-10-1988@@@
-
 DECRETO N° 96.901, DE 3 DE OUTUBRO DE 1988
 
 Autoriza o Citibank N.A. a instalar filias, mediante permuta.

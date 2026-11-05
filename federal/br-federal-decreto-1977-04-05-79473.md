@@ -1,5 +1,3 @@
-###DEC-079473-0-000-05-04-1977@@@
-
 DECRETO Nº 79.473, DE 5 DE ABRIL DE 1977.
 
 Concede á CONSTROEM S.A. - Construtora, Organização e Empreendimentos o direito de lavrar gnaisse no Município de Taubaté, Estado de São Paulo.

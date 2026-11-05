@@ -1,5 +1,3 @@
-###DEC-003084-0-000-14-06-1999@@@
-
 DECRETO Nº 3.084, DE 14 DE JUNHO DE 1999.
 
 Dispõe sobre a alocação, em caráter temporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-002153-0-000-24-07-1984@@@
-
 # DECRETO-LEI Nº 2.153, DE 24 DE JULHO DE 1984
 
 Introduz parágrafos no artigo 3º da Lei nº 6.732, de 04 de dezembro de 1979, e dá outra providência.

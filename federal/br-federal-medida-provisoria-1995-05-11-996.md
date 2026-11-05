@@ -1,5 +1,3 @@
-###MPV-000996-0-000-11-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 996, DE 11 DE MAIO DE 1995
 
 Dispõe sobre as alíquotas de contribuição para o Plano de Seguridade Social do servidor público civil ativo dos Poderes da União, das autarquias e das fundações públicas, e dá outras providências.
@@ -8,7 +6,25 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da 
 
 Art. 1º A contribuição mensal do servidor civil, ativo, incide sobre sua remuneração conforme definida no inciso III do art. 1º da Lei nº 8.852, de 4 de fevereiro de 1994, e será calculada mediante aplicação das alíquotas estabelecidas na tabela a seguir, com vigência a partir de 1º de julho de 1994 e até a data de publicação da lei que disporá sobre o Plano de Seguridade Social do servidor público civil:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:1.5pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:327.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:2.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Faixas (com base na Lei nº</span><span style="font-family:Arial"> 8.622, de 19.1.93, Anexo III)</span></p></td><td style="width:48.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Alí</span><span style="font-family:Arial">quota (% )</span></p></td></tr><tr><td style="width:327.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:2.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Remuneraçã</span><span style="font-family:Arial">o correspondente a até</span><span style="font-family:Arial"> 2,6 vezes o vencimento bá</span><span style="font-family:Arial">sico da Classe D, Padrã</span><span style="font-family:Arial">o IV-NA, inclusive</span></p></td><td style="width:48.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">9</span></p></td></tr><tr><td style="width:327.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:2.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Remuneraçã</span><span style="font-family:Arial">o correspondente a 2,6 o vencimento bá</span><span style="font-family:Arial">sico da Classe D, Padrã</span><span style="font-family:Arial">o IV-NA, exclusive, até</span><span style="font-family:Arial"> o correspondente a 2,6 vezes o vencimento bá</span><span style="font-family:Arial">sico da Classe C, Padrã</span><span style="font-family:Arial">o IV-NI, inclusive</span></p></td><td style="width:48.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">10</span></p></td></tr><tr><td style="width:327.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:2.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Remuneraçã</span><span style="font-family:Arial">o correspondente a 2,6 vezes o vencimento bá</span><span style="font-family:Arial">sico da Classe C, Padrã</span><span style="font-family:Arial">o IV</span><span style="font-family:Arial">-NI, exclusive, até</span><span style="font-family:Arial"> o correspondente a 2,6 vezes o vencimento bá</span><span style="font-family:Arial">sico da Classe C, Padrã</span><span style="font-family:Arial">o IV-NS, inclusive</span></p></td><td style="width:48.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11</span></p></td></tr><tr><td style="width:327.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:2.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Remuneraçã</span><span style="font-family:Arial">o superior a 2,6 vezes o vencimento bá</span><span style="font-family:Arial">sico da Classe C, Padrã</span><span style="font-family:Arial">o IV-NS</span></p></td><td style="width:48.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">12</span></p></td></tr></tbody></table>
+Faixas (com base na Lei nº 8.622, de 19.1.93, Anexo III)
+
+Alíquota (% )
+
+Remuneração correspondente a até 2,6 vezes o vencimento básico da Classe D, Padrão IV-NA, inclusive
+
+9
+
+Remuneração correspondente a 2,6 o vencimento básico da Classe D, Padrão IV-NA, exclusive, até o correspondente a 2,6 vezes o vencimento básico da Classe C, Padrão IV-NI, inclusive
+
+10
+
+Remuneração correspondente a 2,6 vezes o vencimento básico da Classe C, Padrão IV-NI, exclusive, até o correspondente a 2,6 vezes o vencimento básico da Classe C, Padrão IV-NS, inclusive
+
+11
+
+Remuneração superior a 2,6 vezes o vencimento básico da Classe C, Padrão IV-NS
+
+12
 
 Art. 2º A União, as autarquias e as fundações públicas federais continuarão a participar do custeio do Plano de Seguridade Social do servidor, através de:
 

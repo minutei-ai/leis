@@ -1,5 +1,3 @@
-###DEC-059253-0-000-20-09-1966@@@
-
 decreto nº 59.253, de 20 de setembro de 1966.
 
 Retifica o enquadramento dos cargos da Universidade do Recife.
@@ -21,8 +19,6 @@ Brasília, 20 de setembro de 1966; 145º da Independência e 78º da República.
 h. castello branco
 
 Raymundo Moniz de Aragão
-
-###DEC-059253-0-000-20-09-1966@@@RET01+++
 
 DECRETO Nº 59.253, DE 20 DE SETEMBRO 1966.
 

@@ -1,5 +1,3 @@
-###DEC-083222-0-000-01-03-1979@@@
-
 Decreto nº 83.222, de 1º de março de 1979
 
 Concede reconhecimento aos cursos de Economia Doméstica, e de Professores para as Disciplinas de Formação Especial no Ensino de 2º Grau, da Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

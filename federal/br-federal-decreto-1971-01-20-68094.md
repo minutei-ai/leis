@@ -1,5 +1,3 @@
-###DEC-068094-0-000-20-01-1971@@@
-
 DECRETO Nº 68.094, DE 20 DE JANEIRO DE 1971.
 
 Aprova a alteração do art. 5º dos Estatutos da Petróleo Brasileiro S.A. - PETROBRÁS.

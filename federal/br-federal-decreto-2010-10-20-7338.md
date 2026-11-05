@@ -1,5 +1,3 @@
-###DEC-007338-0-000-20-10-2010-PUB-01@@@
-
 DECRETO Nº 7.338, DE 20 DE OUTUBRO DE 2010.
 
 Dispõe sobre a integralização de cotas no Fundo de Garantia de Operações de Crédito Educativo - FGEDUC.

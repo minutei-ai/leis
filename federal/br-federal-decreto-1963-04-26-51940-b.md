@@ -1,5 +1,3 @@
-###DEC-051940-B-000-26-04-1963@@@
-
 Decreto nº 51.940-B, de 26 de Abril de 1963.
 
 Concede ao Centro de Navegação Transatlântica de Santos a prerrogativa prevista no art. 513, alínea d da Consolidação das Leis do Trabalho.

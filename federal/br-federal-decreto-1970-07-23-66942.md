@@ -1,5 +1,3 @@
-###DEC-066942-0-000-23-07-1970@@@
-
 DECRETO Nº 66.942, DE 23 DE JULHO DE 1970.
 
 Aplica disposições do Decreto número 57.775, de 10 de fevereiro de 1966, a militar nomeado para a Comissão Geral de Investigações.

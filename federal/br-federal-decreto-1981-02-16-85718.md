@@ -1,5 +1,3 @@
-###DEC-085718-0-000-16-02-1981@@@
-
 Decreto nº 85.718, de 16 de fevereiro de 1981.
 
 Autoriza o funcionamento de cursos para habilitação de Professores da Parte de Formação Especial dos Currículos do Ensino de 1º e 2º graus, no Centro de Educação Técnica da Bahia.

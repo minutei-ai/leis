@@ -1,5 +1,3 @@
-###MPV-000414-0-000-04-01-2008@@@
-
 MEDIDA PROVISÓRIA Nº 414, DE 4 DE JANEIRO DE 2008.
 
 Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
@@ -31,5 +29,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 7.1.2008.

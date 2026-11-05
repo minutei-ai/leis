@@ -1,5 +1,3 @@
-###DEC-078085-0-000-19-07-1976@@@
-
 DECRETO Nº 78.085, DE 19 DE JULHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terras e benfeitorias, necessárias à ampliação do canteiro de obras e ao reservatório da Usina Hidroelétrica de Itumbiara, de FURNAS - Centrais Elétricas S.A., localizada na divisa dos Estados de Goiás e de Minas Gerais.

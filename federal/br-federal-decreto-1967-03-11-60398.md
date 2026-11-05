@@ -1,5 +1,3 @@
-###DEC-060398-0-000-11-03-1967@@@
-
 DECRETO Nº 60.398, DE 11 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Walmor Manoel de Freitas a pesquisar calcário no município de Siderópolis, Estado de Santa Catarina.

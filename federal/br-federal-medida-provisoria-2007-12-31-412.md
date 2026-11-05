@@ -1,5 +1,3 @@
-###MPV-000412-0-000-31-12-2007@@@
-
 MEDIDA PROVISÓRIA Nº 411, DE 31 DE DEZEMBRO DE 2007.
 
 Dispõe sobre a prorrogação do Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária - REPORTO, instituído pela Lei no 11.033, de 21 de dezembro de 2004 .
@@ -17,5 +15,3 @@ Dispõe sobre a prorrogação do Regime Tributário para Incentivo à Moderniza�
 LUIZ INÁCIO LULA DA SILVA
 
 Arno Hugo Augustin Filho
-
-Este texto não substitui o publicado no DOU de 31.12.2007 - Edição extra.

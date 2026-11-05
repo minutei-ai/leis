@@ -1,5 +1,3 @@
-###DEC-081633-0-000-08-05-1978@@@
-
 Decreto nº 81 633, de 08 de maio de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos terrenos que menciona, situados na Cidade e Estado do Rio de Janeiro.

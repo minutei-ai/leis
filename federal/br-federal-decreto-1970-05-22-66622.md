@@ -1,5 +1,3 @@
-###DEC-066622-0-000-22-05-1970@@@
-
 DECRETO Nº 66.622, DE 22 DE MAIO DE 1970.
 
 Dispõe sobre a competência  dos Ministros de Estado dos Ministérios Civis e a participação das Divisões de Segurança e Informações em assuntos relacionados com a Segurança Nacional e as Informações Nacionais e dá outras providências.

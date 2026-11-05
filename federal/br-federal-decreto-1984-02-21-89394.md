@@ -1,5 +1,3 @@
-###DEC-089394-0-000-21-02-1984@@@
-
 Decreto nº 89.394, de 21 de fevereiro de 1984
 
 Aprova o Regulamento para o Corpo do Pessoal Graduado da Aeronáutica e dá outras providências.
@@ -28,7 +26,21 @@ Art. 1º - O Corpo do Pessoal Graduado da Aeronáutica (CPGAer) é constituído 
 
 Art. 2º - O CPGAer é organizado com os seguintes quadros:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:193.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Quadro de Suboficiais e Sargentos</span></p></td><td style="width:228.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(QSS)</span></p></td></tr><tr><td style="width:193.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Quadro de Taifeiros</span></p></td><td style="width:228.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(QTA)</span></p></td></tr><tr><td style="width:193.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Quadro de Cabos</span></p></td><td style="width:228.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(QCB)</span></p></td></tr><tr><td style="width:193.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Quadro de Soldados</span></p></td><td style="width:228.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(QSD)</span></p></td></tr></tbody></table>
+- Quadro de Suboficiais e Sargentos
+
+(QSS)
+
+- Quadro de Taifeiros
+
+(QTA)
+
+- Quadro de Cabos
+
+(QCB)
+
+- Quadro de Soldados
+
+(QSD)
 
 Art. 3º - Quadro é o conjunto das praças de uma ou de várias graduações.
 
@@ -94,7 +106,21 @@ Quadro de Suboficiais e Sargentos (QSS)
 
 Art. 17 - O Quadro de Suboficiais e Sargentos é constituído dos seguintes grupamentos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:143.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a) - Básico</span></p></td><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- (BAS)</span></p></td></tr><tr><td style="width:143.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">b) - Música</span></p></td><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- (MUS)</span></p></td></tr><tr><td style="width:143.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">c) - Supervisor de Taifa</span></p></td><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- (STA)</span></p></td></tr><tr><td style="width:143.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">d) - Voluntário Especial</span></p></td><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- (VTE)</span></p></td></tr></tbody></table>
+a) - Básico
+
+- (BAS)
+
+b) - Música
+
+- (MUS)
+
+c) - Supervisor de Taifa
+
+- (STA)
+
+d) - Voluntário Especial
+
+- (VTE)
 
 Art. 18 - Os efetivos do QSS são fixados, anualmente em ato do Ministro da Aeronáutica, para fins de promoção.
 
@@ -120,7 +146,21 @@ Art. 23 - A posição hierárquica dos Suboficiais e Sargentos é dada, nos grup
 
 Art. 24 - No QSS, os graduados são, em princípio, classificados, para fins de atividade militar, em níveis de conhecimento especializado, com as seguintes correspondências:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Suboficial</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- nível 7 (sete)</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Primeiro-Sargento</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- nível 6 (seis)</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Segundo-Sargento</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- nível 5 (cinco)</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Terceiro-Sargento</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- nível 4 (quatro)</span></p></td></tr></tbody></table>
+Suboficial
+
+- nível 7 (sete)
+
+Primeiro-Sargento
+
+- nível 6 (seis)
+
+Segundo-Sargento
+
+- nível 5 (cinco)
+
+Terceiro-Sargento
+
+- nível 4 (quatro)
 
 § 1º - A classificação, sucessiva ou não, nos diferentes níveis de conhecimento especializado é condicionada à aprovação no Exame Suficiência, ou em provas especiais, para o acesso a nível superior.
 
@@ -142,7 +182,17 @@ Quadro de Taifeiros (QTA)
 
 Art. 26 - No QTA, as praças têm a denominação genérica de "Taifeiro" e são classificadas, para fins de habilitação especializada, em níveis de conhecimento profissional com as seguintes correspondências:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Taifeiro-Mor</span></p></td><td style="width:235.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- nível 3 (três)</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Taifeiro de 1ª Classe</span></p></td><td style="width:235.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- nível 2 (dois)</span></p></td></tr><tr><td style="width:186pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Taifeiro de 2ª Classe</span></p></td><td style="width:235.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- nível 1 (um)</span></p></td></tr></tbody></table>
+Taifeiro-Mor
+
+- nível 3 (três)
+
+Taifeiro de 1ª Classe
+
+- nível 2 (dois)
+
+Taifeiro de 2ª Classe
+
+- nível 1 (um)
 
 Art. 27 - Aplicam-se ao QTA, com as características peculiares estabelecidas, as disposições relativas aos níveis de conhecimento especializado previstas nos §§ 1º, 2º, 4º e 5º do artigo 24 deste Regulamento.
 
@@ -398,7 +448,25 @@ d - exame de suficiência, conforme disposto no artigo 24.
 
 § 3º - Os graus de conceitos são emitidos, nas "fichas de informações" e transcritos nas "fichas de promoção", com a seguinte correspondência:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">excelente</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5 (cinco) pontos;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">ótimo</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 4 (quatro) pontos;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">bom</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 3 (três) pontos;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">insuficiente</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 2 (dois) pontos; e</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">mau</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 1 (Um) ponto.</span></p></td></tr></tbody></table>
+excelente
+
+- 5 (cinco) pontos;
+
+ótimo
+
+- 4 (quatro) pontos;
+
+bom
+
+- 3 (três) pontos;
+
+insuficiente
+
+- 2 (dois) pontos; e
+
+mau
+
+- 1 (Um) ponto.
 
 § 4º - A incapacidade física temporária não constitui impedimento à promoção.
 
@@ -607,8 +675,6 @@ Art. 100 - Os casos não previstos neste Regulamento são resolvidos pelo Comand
 DéLIo JArDim DE mattos
 
 Ministro da Aeronáutica
-
-###DEC-089394-0-000-21-02-1984@@@RET01+++
 
 DECRETO Nº 89.394, DE 21 DE FEVEREIRO DE 1984
 

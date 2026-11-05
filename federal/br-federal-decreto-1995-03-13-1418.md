@@ -1,7 +1,3 @@
-1
-
-###DEC-001418-0-000-13-03-1995@@@
-
 DECRETO Nº 1.418, DE 13 DE MARÇO DE 1995
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Alcance Parcial para a Facilitação do Comércio, denominado “Acordo de Recife”, e de seu Primeiro Protocolo Adicional, entre Brasil, Argentina, Paraguai e Uruguai, de 25 de outubro de 1994.

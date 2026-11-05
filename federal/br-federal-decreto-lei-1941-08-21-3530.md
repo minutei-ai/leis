@@ -1,5 +1,3 @@
-###DEL-003530-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.530 – DE 21 DE AGOSTO DE 1941
 
 Altera, sem aumento de despesa, dotações orçamentárias distribuídas ao Ministério da Aeronáutica

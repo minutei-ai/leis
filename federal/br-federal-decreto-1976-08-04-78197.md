@@ -1,5 +1,3 @@
-###DEC-078197-0-000-04-08-1976@@@
-
 DECRETO Nº 78.197, DE 4 DE AGOSTO DE 1976.
 
 Autoriza a instituição de servidão de solo, em favor de concessão de lavra.

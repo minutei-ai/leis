@@ -1,5 +1,3 @@
-###DEC-007955-0-000-12-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.955, DE 12 DE MARÇO DE 2013
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e Governo da República das Filipinas sobre Cooperação no Campo da Agricultura, firmado em Brasília, em 24 de junho de 2009.

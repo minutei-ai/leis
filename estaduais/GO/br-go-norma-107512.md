@@ -4,7 +4,8 @@ Institui o Dia Estadual do Sociólogo.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
 
-Art. 1º Fica instituído o Dia Estadual do Sociólogo, a ser comemorado, anualmente, no dia 10 de dezembro.<br>
+Art. 1º Fica instituído o Dia Estadual do Sociólogo, a ser comemorado, anualmente, no dia 10 de dezembro.
+
 \- [Redação dada pela Lei nº 24.297, de 21-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114759).
 
 ~~Art. 1º Fica instituído o Dia Estadual do Sociólogo, a ser comemorado, anualmente, no dia 14 de abril.~~

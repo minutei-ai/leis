@@ -1,5 +1,3 @@
-###DEC-083927-0-000-03-09-1979@@@
-
 Decreto nº 83.927, de 03 de setembro de 1979.
 
 Promulga o Acordo de Comércio entre o Governo da República Federativa do Brasil e o Governo da República da Guiné-Bissau.
@@ -88,4 +86,14 @@ O término deste Acordo não interferirá com a vigência dos convênios e contr
 
 Feito na cidade de Brasília, aos dezoito dias do mês de maio de 1978, em dois exemplares originais, no idioma português, sendo ambos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FEDERATVA DO BRASIL:</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DA GUINÉ-BISSAU:</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Antonio F. Azeredo da Silveira)</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Victor Saúde Maria)</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATVA DO BRASIL:
+
+DA GUINÉ-BISSAU:
+
+(Antonio F. Azeredo da Silveira)
+
+(Victor Saúde Maria)

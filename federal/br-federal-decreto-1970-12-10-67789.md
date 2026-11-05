@@ -1,5 +1,3 @@
-###DEC-067789-0-000-10-12-1970@@@
-
 DECRETO Nº 67.789, DE 10 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto número 6.927, de 6 de março de 1941.

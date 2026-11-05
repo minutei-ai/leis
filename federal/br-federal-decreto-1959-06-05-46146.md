@@ -1,5 +1,3 @@
-###DEC-046146-0-000-05-06-1959@@@
-
 DECRETO Nº 46.146, DE 5 DE JUNHO DE 1959.
 
 Concede a Irmãos Cioccari Limitada autorização para funcionar como emprêsa de mineração.

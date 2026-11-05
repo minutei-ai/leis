@@ -1,5 +1,3 @@
-###DEC-045112-0-000-26-12-1958@@@
-
 decreto nº 45.112, de 26 de dezembro de 1958.
 
 Dispõe sôbre entidade mantenedora da Escola de Enfermeiras do Hospital São Vicente de Paulo, de Goiânia.

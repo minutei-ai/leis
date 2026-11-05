@@ -68,5 +68,6 @@ Art. 9º Esta Lei entra em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 30 dias do mês de Maio de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

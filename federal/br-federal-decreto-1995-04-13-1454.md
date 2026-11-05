@@ -1,7 +1,3 @@
-1
-
-###DEC-001454-0-000-13-04-1995@@@
-
 DECRETO Nº 1.454, DE 13 DE ABRIL DE 1995
 
 Dá nova redação ao art. 1º, inciso I, alíquota a, do Decreto nº 1.385, de 6 de fevereiro de 1995, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 1995, e altera os valores constantes de seu anexo.

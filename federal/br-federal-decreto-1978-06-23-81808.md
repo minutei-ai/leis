@@ -1,5 +1,3 @@
-###DEC-081808-0-000-23-06-1978@@@
-
 Decreto nº 81.808, de 23 de junho de 1978.
 
 Cria a Embaixada do Brasil no Reino da Suazilândia.

@@ -1,5 +1,3 @@
-###MPV-000595-0-000-06-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº\- 595, DE 6 DE DEZEMBRO DE 2012
 
 Dispõe sobre a exploração direta e indireta, pela União, de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários, e dá outras providências.

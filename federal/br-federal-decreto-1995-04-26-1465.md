@@ -1,7 +1,3 @@
-1
-
-###DEC-001465-0-000-26-04-1995@@@
-
 DECRETO Nº 1.465, DE 26 DE ABRIL DE 1995
 
 Cria a Câmara de Políticas de Infra-Estrutura, do Conselho de Governo.

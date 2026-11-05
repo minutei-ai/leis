@@ -1,5 +1,3 @@
-###DEC-092835-0-000-27-06-1986@@@
-
 DECRETO Nº 92.835, DE 27 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Colônia Nova", situado no Município de Nioaque, no Estado de Mato Grosso do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.621, de 2 de maio de 1986, e dá outras providências.

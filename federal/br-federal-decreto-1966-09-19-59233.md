@@ -1,5 +1,3 @@
-###DEC-059233-0-000-19-09-1966@@@
-
 Decreto nº 59.233, de 19 de setembro de 1966.
 
 Outorga à Cia. Luz e Fôrça “Santa Cruz” concessão para distribuir energia elétrica no Município de Paranapanema, Estado de São Paulo.

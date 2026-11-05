@@ -1,5 +1,3 @@
-###DEC-053548-0-000-06-02-1964@@@
-
 DECRETO Nº 53.548, DE 6 DE FEVEREIRO DE 1964.
 
 Concede a Serviços Marítimos Camuyrano S. A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

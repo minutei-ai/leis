@@ -1,5 +1,3 @@
-###DEL-004764-0-000-30-09-1942@@@
-
 DECRETO-LEI N. 4.764 – DE 30 DE SETEMBRO DE 1942
 
 Cria a função gratificada de secretário do Procurador Geral do Distrito Federal e dá outras providências

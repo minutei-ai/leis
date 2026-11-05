@@ -1,5 +1,3 @@
-###DEC-061154-0-000-14-08-1967@@@
-
 DECRETO Nº 61.154, de 14 de agôsto de 1967.
 
 Concede à sociedade Aluminium Limited Sales, Inc. autorização para continuar a funcionar na República do Brasil, sob a nova denominação de Alcan Sales Inc.

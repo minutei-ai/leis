@@ -1,5 +1,3 @@
-###DEC-088501-0-000-12-07-1983@@@
-
 DECRETO Nº 88.501, DE 12 DE JULHO de 1983
 
 Cria a Diretoria de Informática, extingue a Diretoria de Processamento de Dados e altera o Regulamento do Departamento de Engenharia e Comunicações, aprovado pelo Decreto nº 72.407, de 26 de junho de 1973, e o Regulamento do Departamento-Geral de Serviços, aprovado pelo Decreto nº 87.084, de 6 de abril de 1982.
@@ -87,8 +85,6 @@ Brasília, DF, 12 de julho de 1983; 162º da Independência e 95º da República
 JOÃO FIGUEIREDO
 
 Walter Pires
-
-###DEC-088501-0-000-12-07-1983@@@RET01+++
 
 DECRETO Nº 88.501, DE 12 DE JULHO DE 1983
 

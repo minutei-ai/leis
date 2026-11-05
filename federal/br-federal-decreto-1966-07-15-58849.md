@@ -1,5 +1,3 @@
-###DEC-058849-0-000-15-07-1966@@@
-
 DECRETO Nº 58.849, DE 15 DE JULHO DE 1966.
 
 Autoriza a Indústrias Reunidas Vidrobrás Ltda. a lavrar areia quartzosa no Município de Descalvado, Estado de São Paulo.

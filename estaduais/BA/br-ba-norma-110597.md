@@ -1,6 +1,7 @@
 LEI Nº 9.386 DE 12 DE JANEIRO DE 2005
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.356, de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios, a saber: Cabaceiras do Paraguaçu, Cachoeira, Castro Alves, Conceição do Almeida, Cruz das Almas, Dom Macedo Costa, Governador Mangabeira, Muniz Ferreira, Muritiba, Santo Antônio de Jesus, São Felipe, São Félix, São Francisco do Conde, São Sebastião do Passé, Sapeaçu, Saubara e Varzedo. 
 
 Redefine os limites do município de GOVERNADOR MANGABEIRA, criado em 1962, através da Lei nº 1639, desmembrado do território de Muritiba.
@@ -27,4 +28,4 @@ Deputado GABAN
 
 Presidente
 
-* * *
+ *

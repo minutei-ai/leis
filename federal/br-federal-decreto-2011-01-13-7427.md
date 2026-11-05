@@ -1,5 +1,3 @@
-###DEC-007427-0-000-13-01-2011-PUB-01@@@
-
 DECRETO Nº 7.427, DE 13 DE JANEIRO DE 2011
 
 Dá nova redação aos arts. 10 e 12 do Decreto nº 7.426, de 7 de janeiro de 2011, que dispõe sobre a transferência da Secretaria Nacional de Políticas sobre Drogas, do Conselho Nacional de Políticas sobre Drogas - CONAD e da gestão do Fundo Nacional Antidrogas - FUNAD do Gabinete de Segurança Institucional da Presidência da República para o Ministério da Justiça, bem como sobre remanejamento de cargos para a Defensoria Pública da União.

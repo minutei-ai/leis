@@ -1,5 +1,3 @@
-###DEL-009084-0-000-22-03-1946@@@
-
 DECRETO-LEI N. 9.084 – DE 22 DE MARÇO DE 1946
 
 Suspende, pelo prazo de seis meses, a cobrança dos direitos de importação e demais taxas aduaneiras, que incidem sôbre o farelo, farelinho e o triguilho.

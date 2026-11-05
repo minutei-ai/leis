@@ -1,5 +1,3 @@
-###DEC-057586-0-000-06-01-1966@@@
-
 decreto nº 57.586, de 6 de janeiro de 1966.
 
 Dispõe sôbre o limite de sessões ordinárias da Comissão Executiva do Instituto do Açúcar e do Álcool.

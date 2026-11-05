@@ -1,5 +1,3 @@
-###DEC-091980-0-000-25-11-1985@@@
-
 DECRETO Nº 91.980, DE 25 DE NOVEMBRO DE 1985
 
 Redefine os objetivos do Movimento Brasileiro de Alfabetização - MOBRAL, altera sua denominação e dá outras providências.
@@ -39,8 +37,6 @@ Brasília, em 25 de novembro de 1985; 164º da Independência e 97º da Repúbli
 JOSÉ SARNEY
 
 Marco Maciel
-
-###DEC-091980-0-000-25-11-1985@@@RET01+++
 
 DECRETO Nº 91.980, DE 25 DE NOVEMBRO DE 1985
 

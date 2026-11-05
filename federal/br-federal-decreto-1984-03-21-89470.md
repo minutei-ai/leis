@@ -1,5 +1,3 @@
-###DEC-089470-0-000-21-03-1984@@@
-
 Decreto Nº 89.470, de 21 de março de 1984
 
 Autoriza a COBRA - COMPUTADORES E SISTEMAS BRASILEIROS S.A. a proceder ao aumento do limite do seu capital autorizado, bem como do capital social.

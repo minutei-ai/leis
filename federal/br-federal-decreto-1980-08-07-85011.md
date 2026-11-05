@@ -1,5 +1,3 @@
-###DEC-085011-0-000-07-08-1980@@@
-
 Decreto nº 85.011, de 07 de agosto de 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessárias à ampliação da subestação Jaú da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

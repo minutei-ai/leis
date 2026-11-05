@@ -1,5 +1,3 @@
-###DEC-064528-0-000-16-05-1969@@@
-
 DECRETO Nº 64.528, DE 16 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação pela Emprêsa Brasileira de Correios e Telégrafos - ECT, imóvel que menciona, situado na Ilha do Governador, Estado da Guanabara.

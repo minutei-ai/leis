@@ -1,5 +1,3 @@
-###DEC-068224-0-000-12-02-1971@@@
-
 DECRETO nº 68.224, DE 12 DE FEVEREIRO DE 1971
 
 Autoriza a reincorporação ao patrimônio da União dos bens móveis e imóveis da Escola Técnica Darcy Vargas,  da Fundação Abrigo do Cristo Redentor.

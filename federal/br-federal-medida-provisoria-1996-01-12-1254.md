@@ -1,7 +1,3 @@
-1
-
-###MPV-001254-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.254, DE 12 DE JANEIRO DE 1996.
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS, e dá outras providências.

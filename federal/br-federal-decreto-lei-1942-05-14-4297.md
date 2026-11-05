@@ -1,5 +1,3 @@
-###DEL-004297-0-000-14-05-1942@@@
-
 DECRETO-LEI N. 4.297 – DE 14 DE MAIO DE 1942
 
 Crie, na Prefeitura do Distrito Federal, o Serviço de Administração da Secretaria Geral de Finanças e dá outras providências

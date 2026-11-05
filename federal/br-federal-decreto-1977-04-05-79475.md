@@ -1,5 +1,3 @@
-###DEC-079475-0-000-05-04-1977@@@
-
 DECRETO Nº 79.475, DE 5 DE ABRIL DE 1977.
 
 Concede a Minérios Indústriais do Sul S.A. - MINEL, o direito de lavrar caulim no Município de Jaguaruna, Estado de Santa Catarina.

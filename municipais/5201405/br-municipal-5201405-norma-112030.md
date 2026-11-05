@@ -14,11 +14,14 @@ Art. 2º. Esta lei entrará em vigor na data de sua publicação, revogando as d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, aos 25 dias do mês de junho de 2009.
 
-MAGUITO VILELA<br>
+MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO
 
-TARCISIO FRANCISCO DOS SANTOS<br>
+TARCISIO FRANCISCO DOS SANTOS
+
 PROCURADOR GERAL DO MUNICÍPIO

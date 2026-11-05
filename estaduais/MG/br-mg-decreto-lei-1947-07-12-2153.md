@@ -91,7 +91,3 @@ MILTON SOARES CAMPOS
 Américo René Giannetti
 
 José de Magalhães Pinto
-
-\=====================================
-
-Data da última atualização: 06/09/2006.

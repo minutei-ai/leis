@@ -1,5 +1,3 @@
-###DEC-076342-0-000-26-09-1975@@@
-
 DECRETO Nº 76.342 - de 26 setembro de 1975
 
 Estabelece normas complementares de aplicação de recursos do PIS e do PASEP.

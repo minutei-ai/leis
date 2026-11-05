@@ -1,7 +1,3 @@
-1
-
-###DEC-000798-0-000-15-04-1993@@@
-
 DECRETO N° 798, DE 15 DE ABRIL DE 1993
 
 Acrescenta inciso ao art. 11 do Decreto n° 724, de 20 de janeiro de 1993.

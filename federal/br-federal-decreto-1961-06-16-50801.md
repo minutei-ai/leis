@@ -1,5 +1,3 @@
-###DEC-050801-0-000-16-06-1961@@@
-
 DECRETO Nº 50.801, DE 16 DE JUNHO DE 1961.
 
 Autoriza a Prefeitura Municipal de Monte Alegre do Sul, Estado de São Paulo a construir uma linha de transmissão entre a sede do município e o Bairro das Mostardas, no mesmo município, e dá outras providência.

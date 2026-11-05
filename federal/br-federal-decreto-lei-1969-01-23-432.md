@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0d137d42-b3de-4d9a-9e7c-0602dc60534a/texto#nowhere)
 
-###DEL-000432-0-000-23-01-1969@@@
-
 DECRETO-LEI Nº 432, DE 23 DE JANEIRO DE 1969
 
 Modifica a Lei nº 3.381, de 24 de abril de 1958, que criou o Fundo da Marinha Mercante e a Taxa de Renovação da Marinha Mercante e dá outras providências.

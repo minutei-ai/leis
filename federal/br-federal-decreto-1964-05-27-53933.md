@@ -1,5 +1,3 @@
-###DEC-053933-0-000-27-05-1964@@@
-
 DECRETO Nº 53.933, DE 27 DE MAIO DE 1964.
 
 Gestor de Finanças do Estado-Maior da Aeronáutica.

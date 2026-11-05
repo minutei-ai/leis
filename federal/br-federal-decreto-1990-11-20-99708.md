@@ -1,7 +1,3 @@
-1
-
-###DEC-099708-0-000-20-11-1990@@@
-
 DECRETO Nº 99.708, DE 20 DE NOVEMBRO DE 1990
 
 Reintegração de Dejean Magno Pellegrin no cargo de Oficial de Chancelaria do Quadro Permanente do Ministério das Relações Exteriores.

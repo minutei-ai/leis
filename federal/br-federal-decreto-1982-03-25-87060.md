@@ -1,5 +1,3 @@
-###DEC-087060-0-000-25-03-1982@@@
-
 Decreto nº 87.060, de 25 março de 1982.
 
 Concede autorização ao navio "CALYPSO" para realizar, na bacia amazônica do Brasil, os serviços que especifica.

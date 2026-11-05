@@ -1,5 +1,3 @@
-###DEC-004891-0-000-24-11-2003@@@
-
 DECRETO Nº 4.891,  DE 24 DE NOVEMBRO DE 2003.
 
        Altera o Estatuto da RADIOBRÁS - Empresa Brasileira de Comunicação S.A.

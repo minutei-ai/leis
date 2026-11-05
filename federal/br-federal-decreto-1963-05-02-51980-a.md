@@ -1,5 +1,3 @@
-###DEC-051980-A-000-02-05-1963@@@
-
 DECRETO Nº 51.980-A, DE 2 DE MAIO DE 1963.
 
 Altera, por necessidade de serviço, a lotação de repartições do Ministério do Trabalho e Previdência Social.

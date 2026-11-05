@@ -1,5 +1,3 @@
-###DEC-066476-0-000-22-04-1970@@@
-
 decreto nº 66.476, de 22 de abril de 1970.
 
 Revoga o artigo 2º e parágrafos do Decreto nº 54.576, de 23 de outubro de 1964 e dá outras providências.

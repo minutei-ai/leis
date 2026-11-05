@@ -1,5 +1,3 @@
-###DEL-006718-0-000-20-07-1944@@@
-
 DECRETO-LEI N. 6.718 – DE 20 DE JULHO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta dos imóveis que menciona

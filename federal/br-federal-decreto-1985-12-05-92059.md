@@ -1,5 +1,3 @@
-###DEC-092059-0-000-05-12-1985@@@
-
 DeCREto nº 92.059, de 05 de dezembro de 1985
 
 Autoriza o funcionamento do curso de Economia da Fundação Educacional Empresarial do Alto Vale do Rio do Peixe, no Estado de Santa Catarina.

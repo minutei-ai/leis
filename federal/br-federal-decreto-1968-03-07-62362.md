@@ -1,5 +1,3 @@
-###DEC-062362-0-000-07-03-1968@@@
-
 decreto nº 62.362, de 7 de março de 1968.
 
 Dispõe sôbre redistruição de pessoal.

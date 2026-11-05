@@ -1,7 +1,3 @@
-1
-
-###DEC-001108-0-000-13-04-1994@@@
-
 DECRETO N° 1.108, DE 13 DE ABRIL DE 1994
 
 Consolida o regulamento da Lei; n° 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesouro Nacional (NTN), e dá outras providências.

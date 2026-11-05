@@ -1,5 +1,3 @@
-###DEC-050750-0-000-08-06-1961@@@
-
 DECRETO Nº 50.750, DE 8 DE JULHO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Gerais Corcovado.

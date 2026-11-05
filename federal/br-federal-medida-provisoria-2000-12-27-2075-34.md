@@ -1,5 +1,3 @@
-###MPV-002075-0-034-27-12-2000@@@
-
 medida provisória nº 2.075-34, de 27 dezembro de 2000.
 
 Dispõe sobre a adoção de medidas relacionadas com o Sistema Financeiro da Habitação - SFH, altera as Leis nº 4.380, de 21 de agosto de 1964, e 8.036, de 11 de maio de 1990, e 8.692, de 28 de julho de 1993, e dá outras providências.

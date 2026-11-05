@@ -1,5 +1,3 @@
-###DEC-049650-0-000-31-12-1960@@@
-
 DECRETO Nº 49.650, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Bonifácio Pimenta a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

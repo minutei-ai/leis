@@ -1,7 +1,3 @@
-1
-
-###MPV-000811-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 811, DE 30 DE DEZEMBRO DE 1994
 
 Altera dispositivo da Lei nº 8.620, de 5 de janeiro de 1993.

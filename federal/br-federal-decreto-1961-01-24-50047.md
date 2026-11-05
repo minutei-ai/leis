@@ -1,5 +1,3 @@
-###DEC-050047-0-000-24-01-1961@@@
-
 DECRETO Nº 50.047, DE 24 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Teresina do Piauí Ltda., para estabelecer estação de radiodifusão.

@@ -1,5 +1,3 @@
-###DEC-002456-0-000-14-01-1998@@@
-
 DECRETO Nº 2.456, DE 14 DE JANEIRO DE 1998
 
 Remaneja os Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas - FG que menciona.

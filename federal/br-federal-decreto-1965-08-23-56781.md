@@ -1,5 +1,3 @@
-###DEC-056781-0-000-23-08-1965@@@
-
 DECRETO Nº 56.781, DE 23 DE AGôSTO DE 1965.
 
 Renova a autorização concedida pelo Decreto nº 1.637, de 23 de novembro de 1962.

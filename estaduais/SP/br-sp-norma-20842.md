@@ -1,23 +1,37 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=20842)
-
 # LEI Nº 7.047, DE 22 DE ABRIL DE 1991
 
 ### _Declara de utilidade pública a "Associação de Proteção e Assistência à Maternidade e à Infância de Borborema" com sede em Borborema._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** É declarada de utilidade pública a "Associação de Proteção e Assistência a Maternidade e a Infância de Borborema" com sede em Borborema.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 22 de abril de 1991.<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Manuel Alceu Affonso Ferreira<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Nader Wafae<br>
-Secretário da Saúde<br>
-Antonio Adolpho Lobbe Neto<br>
-Secretário do Trabalho e da Promoção Social<br>
-Alda Marco Antonio<br>
-Secretária do Menor<br>
-Cláudio Ferraz de Alvarenga<br>
-Secretário do Governo<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** É declarada de utilidade pública a "Associação de Proteção e Assistência a Maternidade e a Infância de Borborema" com sede em Borborema.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 22 de abril de 1991.
+
+LUIZ ANTONIO FLEURY FILHO
+
+Manuel Alceu Affonso Ferreira
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Nader Wafae
+
+Secretário da Saúde
+
+Antonio Adolpho Lobbe Neto
+
+Secretário do Trabalho e da Promoção Social
+
+Alda Marco Antonio
+
+Secretária do Menor
+
+Cláudio Ferraz de Alvarenga
+
+Secretário do Governo
+
 Publicada na Assessoria Técnico-Legislativa, aos 22 de abril de 1991.

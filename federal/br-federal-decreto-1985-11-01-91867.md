@@ -1,5 +1,3 @@
-###DEC-091867-0-000-01-11-1985@@@
-
 DECRETO Nº 91.867, de 01 de novembro de 1985
 
 Renova a concessão outorgada à RADIO DIFUSORA DE CARIACICA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cariacica, Estado do Espírito Santo.

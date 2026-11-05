@@ -1,5 +1,3 @@
-###DEC-060646-0-000-28-04-1967@@@
-
 DECRETO Nº 60.646, DE 28 DE ABRIL DE 1967.
 
 Declara de utilidade pública o “Educandário Santista”, com sede em Santos, Estado de São Paulo.

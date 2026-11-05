@@ -1,5 +1,3 @@
-###MPV-001817-0-003-17-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.817-3, DE 17 DE JUNHO DE 1999.
 
 Altera a redação do § 3º do art. 28 e o § 2º do art. 60 da Lei nº 9.692, de 27 de julho de 1998, que dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 1999.

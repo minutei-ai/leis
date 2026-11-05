@@ -1,5 +1,3 @@
-###DEC-045826-0-000-17-04-1959@@@
-
 DECRETO Nº 45.826, DE 17 DE ABRIL DE 1959.
 
 Autoriza a cessão gratuita do terreno que menciona, situado ao Distrito Federal.

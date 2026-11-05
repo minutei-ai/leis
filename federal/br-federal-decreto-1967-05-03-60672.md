@@ -1,5 +1,3 @@
-###DEC-060672-0-000-03-05-1967@@@
-
 DECRETO Nº 60.672, DE 3 DE MAIO DE 1967.
 
 Outorga concessão.

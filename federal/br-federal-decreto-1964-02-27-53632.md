@@ -1,5 +1,3 @@
-###DEC-053632-0-000-27-02-1964@@@
-
 DECRETO Nº 53.632, DE 27 DE FEVEREIRO DE 1964.
 
 Considera de interêsse militar o cargo de Presidente da Companhia Siderúrgica Nacional.

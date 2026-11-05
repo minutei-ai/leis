@@ -1,5 +1,3 @@
-###DEC-077944-0-000-30-06-1976@@@
-
 DECRETO Nº 77.944, DE 30 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Araxá, com sede na cidade de Araxá, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-080989-0-000-12-12-1977@@@
-
 DECRETO Nº 80.989, DE 12 DE DEZEMBRO DE 1977.
 
 Concede à Companhia Paulista de Mineração o direito de lavrar caulim, no Município de Tapiraí, Estado de São Paulo .

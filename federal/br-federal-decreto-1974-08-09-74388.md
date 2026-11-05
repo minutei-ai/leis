@@ -1,5 +1,3 @@
-###DEC-074388-0-000-09-08-1974@@@
-
 DECRETO Nº 74.388 - DE 9 DE AGOSTO DE 1974
 
 Cria a Embaixada do Brasil na República de Serra Leoa.

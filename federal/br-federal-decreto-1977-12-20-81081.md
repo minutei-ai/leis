@@ -1,5 +1,3 @@
-###DEC-081081-0-000-20-12-1977@@@
-
 DECRETO Nº 81.081, DE 20 DE DEZEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de D. Pedro, no Estado do Maranhão.

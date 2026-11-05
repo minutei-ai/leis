@@ -1,7 +1,3 @@
-1
-
-###DEC-085792-0-000-09-03-1981@@@
-
 Decreto nº 85.792, de 09 de março de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ.

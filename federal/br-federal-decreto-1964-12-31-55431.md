@@ -1,5 +1,3 @@
-###DEC-055431-0-000-31-12-1964@@@
-
 DECRETO Nº 55.431, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Américo Azevedo Costa a pesquisar Feldspato, no município de Águas da Prata, Estado de São Paulo.

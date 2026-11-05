@@ -1,7 +1,3 @@
-1
-
-###DEC-099445-0-000-09-08-1990@@@
-
 DECRETO N° 99.445, DE 9 DE AGOSTO DE 1990
 
 Transfere a realização da IX Conferência Nacional de Saúde.

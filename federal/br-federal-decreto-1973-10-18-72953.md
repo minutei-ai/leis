@@ -1,5 +1,3 @@
-###DEC-072953-0-000-18-10-1973@@@
-
 Decreto nº 72.953, de 18 de outubro de 1973.
 
 Concede a Vicente Antônio de Oliveira, firma individual, o direito de lavrar feldspato, caulim e quartzo, no Município de Socorro, Estado de São Paulo.

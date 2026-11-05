@@ -1,5 +1,3 @@
-###DEC-078920-0-000-07-12-1976@@@
-
 DECRETO Nº 78.920, DE 7 DE DEZEMBRO DE 1976.
 
 Dispõe sobre as atividades de pesquisa, desenvolvimento e demonstração dos processos tecnológicos, destinados à produção de energia oriunda de fontes não convencionais, cria o Projeto Ipiranga e dá outras providências.

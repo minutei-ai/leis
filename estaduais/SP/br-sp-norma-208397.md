@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208397)<br>
-
 # DECRETO N° 67.871, DE 12 DE AGOSTO DE 2023
 
 ### _Cria e organiza, na Secretaria da Administração Penitenciária, o Centro de Detenção Provisória de Aguaí e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1° -** Fica criado, na Secretaria da Administração Penitenciária, diretamente subordinado ao Coordenador da Coordenadoria de Unidades Prisionais da Região Central do Estado, o Centro de Detenção Provisória de Aguaí.
@@ -17,7 +16,8 @@ Disposições Preliminares
 
 **Artigo 2°-** O Centro de Detenção Provisória de Aguaí destina-se à custódia de presos provisórios do sexo masculino.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Estrutura
 
 **Artigo 3° -** O Centro de Detenção Provisória de Aguaí tem a seguinte estrutura:
@@ -46,7 +46,8 @@ VI - Núcleo de Atendimento à Saúde.
 
 **Artigo 4° -** O Centro de Segurança e Disciplina e o Núcleo de Atendimento à Saúde contam, cada um, com uma Célula de Apoio Administrativo, que não se caracteriza como unidade administrativa.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Níveis Hierárquicos
 
 **Artigo 5° -** As unidades adiante indicadas do Centro de Detenção Provisória de Aguaí têm os seguintes níveis hierárquicos:
@@ -75,7 +76,8 @@ d) o Núcleo de Escolta e Vigilância;
 
 e) o Núcleo de Pessoal.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Dos Órgãos dos Sistemas de Administração Geral
 
 **Artigo 6° -** O Núcleo de Pessoal é órgão subsetorial do Sistema de Administração de Pessoal.
@@ -88,10 +90,12 @@ II - Sistema de Administração dos Transportes Internos Motorizados.
 
 **Parágrafo único -** O Centro Administrativo funcionará, também, como órgão detentor do Sistema de Administração dos Transportes Internos Motorizados.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Atribuições
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Equipe de Assistência Técnica
 
 **Artigo 8° -** A Equipe de Assistência Técnica tem as seguintes atribuições:
@@ -130,7 +134,8 @@ b) gerentes de estabelecimentos bancários oficiais, com o objetivo de abrir con
 
 XV - fiscalizar o abastecimento das informações gerenciais a que se refere o inciso IX do artigo 21 deste decreto.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Centro Integrado de Movimentações e Informações Carcerárias
 
 **Artigo 9° -** O Centro Integrado de Movimentações e Informações Carcerárias tem as seguintes atribuições:
@@ -167,7 +172,8 @@ X - verificar a autenticidade dos documentos a serem inseridos nos prontuários 
 
 XI - preparar a solicitação de escolta, às Polícias Militar, Civil ou Federal, quando das movimentações externas de presos.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Do Centro de Segurança e Disciplina
 
 **Artigo 10 -** O Centro de Segurança e Disciplina tem as seguintes atribuições:
@@ -274,7 +280,8 @@ IV - providenciar a identificação datiloscópica e fotográfica dos presos e e
 
 V - encaminhar os novos presos às unidades envolvidas no processo de internação.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Centro de Escolta e Vigilância Penitenciária
 
 **Artigo 14 -** Ao Centro de Escolta e Vigilância Penitenciária cabe planejar, executar e fiscalizar as atividades de:
@@ -301,7 +308,8 @@ V - vedar a entrada de pessoas estranhas à unidade;
 
 VI - efetuar a revista dos presos quando for escoltá-los.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Centro Administrativo
 
 **Artigo 16 -** O Centro Administrativo tem as seguintes atribuições:
@@ -436,7 +444,8 @@ c) promover a guarda do material de limpeza e controlar seu consumo.
 
 **Artigo 17 -** O Núcleo de Pessoal tem as atribuições previstas nos artigos 14 a 19 do [Decreto n° 52.833, de 24 de março de 2008](https://www.al.sp.gov.br/norma/76584), observada a alteração efetuada pelo [Decreto n° 58.372, de 5 de setembro de 2012](https://www.al.sp.gov.br/norma/168088).
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Do Núcleo de Atendimento à Saúde
 
 **Artigo 18 -** O Núcleo de Atendimento à Saúde tem as seguintes atribuições:
@@ -495,7 +504,8 @@ VII - controlar requisições e receitas de medicamentos em geral, principalment
 
 VIII - manter o corpo clínico sempre atualizado sobre os medicamentos disponíveis.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Das Células de Apoio Administrativo
 
 **Artigo 20 -** As Células de Apoio Administrativo têm, em suas respectivas áreas de atuação, as seguintes atribuições:
@@ -514,7 +524,8 @@ VI - manter registro do material permanente e comunicar à unidade competente a 
 
 VII - desenvolver outras atividades características de apoio administrativo.
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 Das Atribuições Comuns
 
 **Artigo 21 -** São atribuições comuns a todas as unidades:
@@ -537,10 +548,12 @@ VIII - identificar necessidades de treinamento específico para os servidores do
 
 IX - abastecer e manter atualizado, eletronicamente, banco de dados implantado pela Pasta, com informações relativas à sua área de trabalho.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Competências
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Diretor do Centro de Detenção Provisória de Aguaí
 
 **Artigo 22 -** Ao Diretor do Centro de Detenção Provisória de Aguaí compete:
@@ -615,7 +628,8 @@ VII - aprovar as escalas de trabalho dos presos, elaboradas pelo Diretor do Cent
 
 VIII - observar as normas determinadas pela Pasta acerca de sua área de atuação, dando publicidade aos servidores para o respectivo cumprimento.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Dos Diretores dos Centros e dos Diretores dos Núcleos
 
 **Artigo 23 -** Ao Diretor do Centro Integrado de Movimentações e Informações Carcerárias compete informar ao Diretor do Centro de Detenção Provisória as incompatibilidades existentes entre os elementos constantes nos alvarás de soltura e nos prontuários penitenciários.
@@ -700,7 +714,8 @@ III - discutir, periodicamente, com os profissionais envolvidos, os casos examin
 
 IV - orientar e fiscalizar a documentação clínica dos pacientes.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Competências Comuns
 
 **Artigo 31 -** São competências comuns ao Diretor do Centro de Detenção Provisória de Aguaí e aos Diretores dos Centros, em suas respectivas áreas de atuação:
@@ -747,7 +762,8 @@ XV - em relação à administração de material, requisitar à unidade competen
 
 **Artigo 33 -** As competências previstas neste capítulo, sempre que coincidentes, serão exercidas, de preferência, pelas autoridades de menor nível hierárquico.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Do "Pro Labore"
 
 **Artigo 34 -** Para efeito da atribuição da gratificação "pro labore" de que trata o artigo 14 da [Lei Complementar n° 959, de 13 de setembro de 2004](https://www.al.sp.gov.br/norma/51764), observadas as alterações posteriores, ficam caracterizadas como específicas da carreira de Agente de Segurança Penitenciária as funções adiante discriminadas, destinadas ao Centro de Detenção Provisória de Aguaí, na seguinte conformidade:
@@ -768,12 +784,14 @@ I - 1 (uma) de Diretor de Divisão, para o Centro de Escolta e Vigilância Penit
 
 II - 4 (quatro) de Diretor de Serviço, para o Núcleo de Escolta e Vigilância, sendo 1 (uma) para cada turno.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Da Gratificação por Comando de Unidade Prisional - COMP
 
 **Artigo 36 -** Para fins de atribuição da Gratificação por Comando de Unidade Prisional - COMP, instituída pela [Lei Complementar n° 842, de 24 de março de 1998](https://www.al.sp.gov.br/norma/6377), observadas as alterações posteriores, o Centro de Detenção Provisória de Aguaí fica classificado como COMP II.
 
-#### CAPÍTULO IX<br>
+#### CAPÍTULO IX
+
 Disposições Finais
 
 **Artigo 37 -** As atribuições e competências previstas neste decreto poderão ser detalhadas mediante resolução do Secretário da Administração Penitenciária.

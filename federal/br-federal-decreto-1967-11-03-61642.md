@@ -1,5 +1,3 @@
-###DEC-061642-0-000-03-11-1967@@@
-
 DECRETO Nº 61.642, DE 3 DE NOVEMBRO DE 1967.
 
 Abre, pela Presidência da República, em favor do Conselho Nacional de Pesquisas o crédito suplementar no montante de NCr$2.000.000,00 (dois milhões de cruzeiros novos), para refôrço de dotação consignada no orçamento vigente.

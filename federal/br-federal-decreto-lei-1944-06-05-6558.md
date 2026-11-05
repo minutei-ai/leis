@@ -1,5 +1,3 @@
-###DEL-006558-0-000-05-06-1944@@@
-
 DECRETO-LEI N. 6.558 – DE 5 DE JUNHO DE 1944
 
 Altera dispositivos do Estatuto dos Funcionários Públicos Civis da União

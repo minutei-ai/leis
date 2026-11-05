@@ -1,5 +1,3 @@
-###DEC-072560-0-000-31-07-1973@@@
-
 DECRETO Nº 72.560, DE 31 DE JULHO DE 1973.
 
 Confisca bens de propriedade das Indústrias J. J. Abdalla S. A. e dá outras providências.

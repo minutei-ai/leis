@@ -1,5 +1,3 @@
-###DEL-007855-0-000-13-08-1945@@@
-
 DECRETO-LEI N. 7.855 – DE 13 DE AGÔSTO DE 1945
 
 Eleva o vencimento do cargo isolado, de provimento efetivo, de Tradutor, padrão I, do Quadro Suplementar do Ministério da Justiça e Negócios Interiores.

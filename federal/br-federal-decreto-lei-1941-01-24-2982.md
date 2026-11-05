@@ -1,5 +1,3 @@
-###DEL-002982-0-000-24-01-1941@@@
-
 DECRETO-LEI N. 2.982 – DE 24 DE JANEIRO DE 1941
 
 Transfere para a jurisdição da Comissão Especial de Obras de Piquete, Resende e Bicas a construção da rodovia Piquete-Itajubá, e dá outra providência

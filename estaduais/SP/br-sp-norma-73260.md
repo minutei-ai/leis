@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/73260)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2007/compilacao-lei.complementar-1014-26.07.2007.html)
 
 # LEI COMPLEMENTAR N° 1.014, DE 26 DE JULHO DE 2007

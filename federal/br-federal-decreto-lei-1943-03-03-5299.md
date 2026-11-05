@@ -1,5 +1,3 @@
-###DEL-005299-0-000-03-03-1943@@@
-
 DECRETO‑LEI N. 5.299 – DE 3 DE MARÇO DE 1943
 
 Autoriza a supressão da Estrada de Ferro Paulo Afonso e dá outras providências

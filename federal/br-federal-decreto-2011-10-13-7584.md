@@ -1,5 +1,3 @@
-###DEC-007584-0-000-13-10-2011-PUB-01@@@
-
 DECRETO Nº 7.584, DE 13 DE OUTUBRO DE 2011
 
 Dá nova redação ao art. 2º do Decreto nº 6.558, de 8 de setembro de 2008, que institui a hora de verão em parte do território nacional.

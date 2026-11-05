@@ -1,5 +1,3 @@
-###DEC-048917-0-000-05-09-1960@@@
-
 DECRETO Nº 48.917, DE 5 DE SETEMBRO DE 1960.
 
 Cria Consulado em Ciudad Trufilo.

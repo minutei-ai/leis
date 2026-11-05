@@ -1,5 +1,3 @@
-###DEC-073622-0-000-12-02-1974@@@
-
 DECRETO Nº 73.622, DE 12 DE FEVEREIRO DE 1974.
 
 Altera a estrutura básica do Departamento de Administração (DA), do Ministério das Minas e Energia, e dá outras providências.

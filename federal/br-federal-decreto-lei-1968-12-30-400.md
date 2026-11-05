@@ -1,5 +1,3 @@
-###DEL-000400-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 400, DE 30 DE DEZEMBRO DE 1968
 
 Altera a legislação pertinente ao Impôsto sôbre Produtos Industrializados e dá outras providências.
@@ -179,8 +177,6 @@ Brasília, 30 de dezembro de 1968; 147º da Independência e 80º da República.
 A. COSTA E SILVA
 
 Antônio Delfim Netto
-
-###DEL-000400-0-000-30-12-1968@@@RET01+++
 
 DECRETO-LEI Nº 400, DE 30 DE DEZEMBRO DE 1968
 

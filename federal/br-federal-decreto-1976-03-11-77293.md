@@ -1,5 +1,3 @@
-###DEC-077293-0-000-11-03-1976@@@
-
 DECRETO Nº 77.293, DE 11 DE MARÇO DE 1976.
 
 Declara de utilidade pública, para efeito de desapropriação, o imóvel denominado "Parque Lage", situado na Cidade do Rio de Janeiro, e dá outras providências.

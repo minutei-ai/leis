@@ -1,5 +1,3 @@
-###DEC-060408-0-000-11-03-1967@@@
-
 DECRETO Nº 60.408, DE 11 DE MARÇO DE 1967.
 
 Dispõe sôbre a dissolução dos contratos administrativos sob a jurisdição do Ministério da Viação e Obras Públicas para os quais não foram destinados recursos no orçamento de 1967.

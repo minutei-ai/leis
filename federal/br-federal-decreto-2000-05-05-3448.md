@@ -1,5 +1,3 @@
-###DEC-003448-0-000-05-05-2000@@@
-
 DECRETO Nº 3.448, DE 5 DE MAIO DE 2000.
 
 Cria o Subsistema de Inteligência de Segurança Pública, no âmbito do Sistema Brasileiro de Inteligência, e dá outras providências.

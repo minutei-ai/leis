@@ -1,5 +1,3 @@
-###DEL-005339-0-000-23-03-1943@@@
-
 DECRETO‑LEI N. 5.339 – DE 23 DE MARÇO DE 1943
 
 Dispõe sobre as Chefias dos Seviços de Transmissões Regionais

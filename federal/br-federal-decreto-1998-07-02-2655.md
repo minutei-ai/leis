@@ -1,5 +1,3 @@
-###DEC-002655-0-000-02-07-1998@@@
-
 DECRETO Nº 2.655, DE 2 DE JULHO DE 1998
 
 Regulamenta o Mercado Atacadista de Energia Elétrica, define as regras de organização do Operador Nacional do Sistema Elétrico, de que trata a Lei nº 9.648, de 27 de maio de 1998, e dá outras providências.

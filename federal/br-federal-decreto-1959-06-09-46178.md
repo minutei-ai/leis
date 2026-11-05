@@ -1,5 +1,3 @@
-###DEC-046178-0-000-09-06-1959@@@
-
 DECRETO Nº 46.178, DE 9 DE JUNHO DE 1959.
 
 Estende a Conferência Nacional Dos Bispos do Brasil o disposto no Decreto nº 44.609 de 8 de outubro de 1958.

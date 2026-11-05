@@ -1,5 +1,3 @@
-###DEC-068825-0-000-29-06-1971@@@
-
 DECRETO Nº 68.825 - DE 29 DE JUNHO DE 1971.
 
 Retifica o enquadramento de servidor da extinta Comissão Federal de Abastecimento e Preços, e dá outras providências.

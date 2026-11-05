@@ -1,5 +1,3 @@
-###DEC-074755-0-000-24-10-1974@@@
-
 Decreto nº 74.755, de 24 de outubro de 1974.
 
 Altera o Decreto nº 71.535, de 13 de dezembro de 1972, que dispõe sobre a progressão funcional na carreira de Diplomata, e dá outras providências.

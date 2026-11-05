@@ -1,5 +1,3 @@
-###DEC-070087-0-000-02-02-1972@@@
-
 DECRETO nº 70.087, DE 2 DE FEVEREIRO DE 1972.
 
 Classifica órgãos de deliberação coletiva existentes na área do Ministério da Justiça.

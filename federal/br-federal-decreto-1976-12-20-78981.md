@@ -1,5 +1,3 @@
-###DEC-078981-0-000-20-12-1976@@@
-
 DECRETO Nº 78.981, DE 20 DE DEZEMBRO DE 1976.
 
 Autoriza a alienação do terreno que menciona, situado no Município de Corumbá de Goiás, Estado de Goiás.

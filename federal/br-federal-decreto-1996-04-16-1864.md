@@ -1,5 +1,3 @@
-###DEC-001864-0-000-16-04-1996@@@
-
 DECRETO Nº 1.864, DE 16 DE ABRIL DE 1996.
 
 Aprova o Regulamento de Promoções de Graduados do Exército (R-196).

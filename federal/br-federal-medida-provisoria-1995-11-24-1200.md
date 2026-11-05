@@ -1,7 +1,3 @@
-1
-
-###MPV-001200-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.200, DE 24 DE NOVEMBRO DE 1995.
 
 Reduz a alíquota do imposto de importação para os produtos que especifica e dá outras providências.

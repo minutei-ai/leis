@@ -1,5 +1,3 @@
-###DEC-057802-0-000-14-02-1966@@@
-
 dEcreto nº 57.802, de 14 de fevereiro de 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona situado no Município de São Gonçalo do Sapucaí, Estado de Minas Gerais.

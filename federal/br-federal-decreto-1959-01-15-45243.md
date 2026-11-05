@@ -1,5 +1,3 @@
-###DEC-045243-0-000-15-01-1959@@@
-
 DECRETO N. 45.243 – DE 15 DE JANEIRO DE 1959
 
 Concede à Companhia Nacional de Minérios autorização para funcionar como emprêsa de mineração.

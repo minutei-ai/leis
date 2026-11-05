@@ -1,5 +1,3 @@
-###DEC-047171-0-000-05-11-1959@@@
-
 DECRETO Nº 47.171, DE 5 DE NOVEMBRO DE 1959.
 
 Exclui das disposições do parágrafo único do art. 9º do Decreto número 45.363, de 29 de janeiro de 1959, a despesa que menciona, e autoriza a concessão de suprimento de recursos à Comissão de Marinha Mercante para ocorrer de despesas que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-063942-0-000-30-12-1968@@@
-
 DECRETO Nº 63.942, DE 30 DE DEZEMBRO DE 1968.
 
 Abre ao Ministério dos Transportes, em favor do Grupo Executivo de Integração da Política de Transportes, o crédito especial de NCr$ 2.800.000,00 para o fim que especifica.

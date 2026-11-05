@@ -1,5 +1,3 @@
-###DEC-054999-0-000-13-11-1964@@@
-
 DECRETO Nº 54.999, DE 13 DE NOVEMBRO DE 1964.
 
 Institui a Conferência Nacional de Educação e dá outras providências.

@@ -1,6 +1,4 @@
-###DEC-038539-0-000-10-01-1956@@@
-
-<strong>DECRETO Nº 38.539, DE 10 DE JANEIRO DE 1956.</strong>
+**DECRETO Nº 38.539, DE 10 DE JANEIRO DE 1956.**
 
 <!-- fac-simile-oficial:inicio -->
 

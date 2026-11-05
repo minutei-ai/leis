@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=50995)
-
 # LEI Nº 11.712, DE 24 DE MAIO DE 2004
 
 ## (PL 520/2003 - Ary Fossen)

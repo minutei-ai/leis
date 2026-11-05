@@ -1,5 +1,3 @@
-###DEC-059177-0-000-06-09-1966@@@
-
 decreto nº 59.177, de 6 de setembro de 1966.
 
 Declara de utilidade pública o Oratório Festivo “Nossa Senhora Auxiliadora” de Aracaju, com sede em Aracaju, Estado de Sergipe.

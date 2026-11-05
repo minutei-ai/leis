@@ -1,5 +1,3 @@
-###DEC-045668-0-000-31-03-1959@@@
-
 DECRETO Nº 45.668, DE 31 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal da Paraíba.
@@ -23,8 +21,6 @@ Rio de Janeiro, em 31 de março de 1959, 138º da Independência e 71º da Repú
 Juscelino Kubitschek
 
 Lucas Lopes
-
-###DEC-045668-0-000-31-03-1959@@@RET01+++
 
 Decreto nº 45.668, de 31 de março de 1959.
 

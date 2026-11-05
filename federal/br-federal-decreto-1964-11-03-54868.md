@@ -1,5 +1,3 @@
-###DEC-054868-0-000-03-11-1964@@@
-
 DECRETO Nº 54.868, DE 3 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Herculano Almeida a pesquisar argila, no município de Sacramento, Estado de Minas Gerais.

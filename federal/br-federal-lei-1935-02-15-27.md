@@ -1,26 +1,24 @@
-###LEI-000027-0-000-15-02-1935@@@
+**LEI N. 27 – DE 15 DE FEVEREIRO DE 1935**
 
-<strong>LEI N. 27 – DE 15 DE FEVEREIRO DE 1935</strong>
-
-<em><strong>Abre, pelo Ministerio da Justiça e Negocios Interiores, o credito especial de 59:432$600, para pagamento a funcionarios das Secretarias da Camara dos Deputados e Senado Federal</strong></em>
+***Abre, pelo Ministerio da Justiça e Negocios Interiores, o credito especial de 59:432$600, para pagamento a funcionarios das Secretarias da Camara dos Deputados e Senado Federal***
 
 O Presidente da Republica dos Estados Unidos do Brasil:
 
  Faço saber que o Poder LegisIativo decreta e eu sanciono a seguinte lei:
 
-<strong>Art.</strong> 1º Fica aberto, pelo Ministerio da Justiça e Negocios Interiores, o credito especial de 59:432$600 para pagamento devido a funccionarios das Secretarias da Camara dos Deputados e do Senado Federal, conforme a demonstração annexa, organizada pela Directoria da Contabilidade daquella Secretaria.
+**Art.** 1º Fica aberto, pelo Ministerio da Justiça e Negocios Interiores, o credito especial de 59:432$600 para pagamento devido a funccionarios das Secretarias da Camara dos Deputados e do Senado Federal, conforme a demonstração annexa, organizada pela Directoria da Contabilidade daquella Secretaria.
 
-<strong>Art.</strong> 2º O credito será aberto com os recursos provenientes das operações autorizadas pelo decreto n. 13, de 31 de dezembro de 1934.
+**Art.** 2º O credito será aberto com os recursos provenientes das operações autorizadas pelo decreto n. 13, de 31 de dezembro de 1934.
 
-<strong>Art.</strong> 3º Revogam-se as disposições em contrario.
+**Art.** 3º Revogam-se as disposições em contrario.
 
 Rio de Janeiro, 15 de fevereiro de 1935, 114 da Independencia e 47º da Republica.
 
-<strong>GETULIO VARGAS.</strong>
+**GETULIO VARGAS.**
 
  Vicente Ráo.
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>DEMONSTRAÇÃO A QUE SE REFERE O ART. 1º DO DECRETO LEGISLATIVO N 27 DE 15 DE FEVEREIRO DE 1935</strong></span></span></h1>
+# **DEMONSTRAÇÃO A QUE SE REFERE O ART. 1º DO DECRETO LEGISLATIVO N 27 DE 15 DE FEVEREIRO DE 1935**
 
 Vice director, Nestor Massena (desde 19 de agosto de 9934)...............................................11:048$400
 

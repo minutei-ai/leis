@@ -10,32 +10,36 @@ Art. 2º - Fica o Poder Executivo Municipal autorizado a doar ao Fundo de Arrend
 
 QUADRAS/ ÁREAS INSTITUCIONAIS:
 
-<table class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="3" style=" width:610px;    ">&nbsp;QUADRA 01 - APM 01 (ÁREA INSTITUCIONAL) à A= 16.638,05 m²</td></tr><tr><td style=" width:204px;    ">Frente</td><td style=" width:163px;    ">137,77 metros</td><td style=" width:243px;    ">Para a Rua Mucuri</td></tr><tr><td style=" width:204px;    ">Lado Direito</td><td style=" width:163px;    ">104,99 metros</td><td style=" width:243px;    ">Com a Rua Nelson Toledo da Silveira</td></tr><tr><td style=" width:204px;    ">Lado Esquerdo</td><td style=" width:163px;    ">105,03 metros</td><td style=" width:243px;    ">Com a Rua Edith Bárbara</td></tr><tr><td style=" width:204px;    ">Fundos</td><td style=" width:163px;    ">137,58 metros</td><td style=" width:243px;    ">Com a Rua Lucília Viana</td></tr><tr><td style=" width:204px;    ">Chanfros</td><td colspan="2" style=" width:406px;    ">6,38 metros / 7,70 metros / 6,38 metros / 7,70 metros</td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">&nbsp;QUADRA 01 - APM 01 (ÁREA INSTITUCIONAL) à A= 16.638,05 m²</td></tr><tr><td>Frente</td><td>137,77 metros</td><td>Para a Rua Mucuri</td></tr><tr><td>Lado Direito</td><td>104,99 metros</td><td>Com a Rua Nelson Toledo da Silveira</td></tr><tr><td>Lado Esquerdo</td><td>105,03 metros</td><td>Com a Rua Edith Bárbara</td></tr><tr><td>Fundos</td><td>137,58 metros</td><td>Com a Rua Lucília Viana</td></tr><tr><td>Chanfros</td><td colspan="2">6,38 metros / 7,70 metros / 6,38 metros / 7,70 metros</td></tr></tbody></table>
 
-<table class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="3" style=" width:643px;    ">QUADRA 02 - APM 02 (ÁREA INSTITUCIONAL) à A= 4.489,95 m²</td></tr><tr><td style=" width:214px;    ">Frente</td><td style=" width:162px;    ">91,11 metros</td><td style=" width:267px;    ">Para a Rua Mucuri</td></tr><tr><td style=" width:214px;    ">Lado Direito</td><td style=" width:162px;    ">38,86 metros</td><td style=" width:267px;    ">Com a Rua Edith Bárbara</td></tr><tr><td style=" width:214px;    ">Lado Esquerdo</td><td style=" width:162px;    ">42,93 metros</td><td style=" width:267px;    ">Com a Rua Eli Marques de Oliveira</td></tr><tr><td style=" width:214px;    ">Fundos</td><td style=" width:162px;    ">77,94 metros</td><td style=" width:267px;    ">Com a Rua Dona Alzira</td></tr><tr><td style=" width:214px;    ">Chanfros</td><td colspan="2" style=" width:428px;    ">7,70 metros /6,38 metros / 8,43 metros /5,38 metros</td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">QUADRA 02 - APM 02 (ÁREA INSTITUCIONAL) à A= 4.489,95 m²</td></tr><tr><td>Frente</td><td>91,11 metros</td><td>Para a Rua Mucuri</td></tr><tr><td>Lado Direito</td><td>38,86 metros</td><td>Com a Rua Edith Bárbara</td></tr><tr><td>Lado Esquerdo</td><td>42,93 metros</td><td>Com a Rua Eli Marques de Oliveira</td></tr><tr><td>Fundos</td><td>77,94 metros</td><td>Com a Rua Dona Alzira</td></tr><tr><td>Chanfros</td><td colspan="2">7,70 metros /6,38 metros / 8,43 metros /5,38 metros</td></tr></tbody></table>
 
-<table class="Table" style="width:612px; border-collapse:collapse" width="612"><tbody><tr><td colspan="3" style=" width:612px;  height:17px;   ">&nbsp;QUADRA 03 - APM 03 (ÁREA INSTITUCIONAL) à A= 4.758,79 m²</td></tr><tr><td style=" width:195px;  height:17px;   ">Frente</td><td style=" width:147px;  height:17px;   ">74,65 metros</td><td style=" width:270px;  height:17px;   ">Para a Rua Dona Alzira</td></tr><tr><td style=" width:195px;  height:18px;   ">Lado Direito</td><td style=" width:147px;  height:18px;   ">43,95 metros</td><td style=" width:270px;  height:18px;   ">Com a Rua Edith Bárbara</td></tr><tr><td style=" width:195px;  height:17px;   ">Lado Esquerdo</td><td style=" width:147px;  height:17px;   ">48,44 metros</td><td style=" width:270px;  height:17px;   ">Com a Rua Eli Marques de Oliveira</td></tr><tr><td style=" width:195px;  height:18px;   ">Fundos</td><td style=" width:147px;  height:18px;   ">60,10 metros</td><td style=" width:270px;  height:18px;   ">Com a Rua Lucília Viana</td></tr><tr><td style=" width:195px;  height:17px;   ">Chanfros</td><td colspan="2" style=" width:417px;  height:17px;   ">7,70 metros /6,38 metros / 8,43 metros /5,38 metros</td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">&nbsp;QUADRA 03 - APM 03 (ÁREA INSTITUCIONAL) à A= 4.758,79 m²</td></tr><tr><td>Frente</td><td>74,65 metros</td><td>Para a Rua Dona Alzira</td></tr><tr><td>Lado Direito</td><td>43,95 metros</td><td>Com a Rua Edith Bárbara</td></tr><tr><td>Lado Esquerdo</td><td>48,44 metros</td><td>Com a Rua Eli Marques de Oliveira</td></tr><tr><td>Fundos</td><td>60,10 metros</td><td>Com a Rua Lucília Viana</td></tr><tr><td>Chanfros</td><td colspan="2">7,70 metros /6,38 metros / 8,43 metros /5,38 metros</td></tr></tbody></table>
 
-<table class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="3" style=" width:644px;  height:17px;   ">QUADRA 04 - APM 04 (ÁREA INSTITUCIONAL) à A= 5.142,06 m²</td></tr><tr><td style=" width:209px;  height:16px;   ">Frente</td><td style=" width:167px;  height:16px;   ">30,19 metros</td><td style=" width:268px;  height:16px;   ">Para a Rua Eli Marques de Oliveira</td></tr><tr><td style=" width:209px;  height:17px;   ">Lado Direito</td><td style=" width:167px;  height:17px;   ">96,96 metros</td><td style=" width:268px;  height:17px;   ">Com a Rua Eli Marques de Oliveira</td></tr><tr><td style=" width:209px;  height:16px;   ">Lado Esquerdo</td><td style=" width:167px;  height:16px;   ">88,74 metros</td><td style=" width:268px;  height:16px;   ">Com a Rua Edith Bárbara</td></tr><tr><td style=" width:209px;  height:16px;   ">Fundos</td><td style=" width:167px;  height:16px;   ">56,81 metros</td><td style=" width:268px;  height:16px;   ">Com a Rua Lucília Viana</td></tr><tr><td style=" width:209px;  height:17px;   ">Chanfros</td><td colspan="2" style=" width:435px;  height:17px;   ">6,38 metros / 8,43 metros / 5,38 metros / 7,70 metros</td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">QUADRA 04 - APM 04 (ÁREA INSTITUCIONAL) à A= 5.142,06 m²</td></tr><tr><td>Frente</td><td>30,19 metros</td><td>Para a Rua Eli Marques de Oliveira</td></tr><tr><td>Lado Direito</td><td>96,96 metros</td><td>Com a Rua Eli Marques de Oliveira</td></tr><tr><td>Lado Esquerdo</td><td>88,74 metros</td><td>Com a Rua Edith Bárbara</td></tr><tr><td>Fundos</td><td>56,81 metros</td><td>Com a Rua Lucília Viana</td></tr><tr><td>Chanfros</td><td colspan="2">6,38 metros / 8,43 metros / 5,38 metros / 7,70 metros</td></tr></tbody></table>
 
-Art. 3º - A doação dos terrenos de que trata o artigo 2º desta Lei destina-se à edificação de moradias para a população de menor renda que atender aos seguintes requisitos:<br>
+Art. 3º - A doação dos terrenos de que trata o artigo 2º desta Lei destina-se à edificação de moradias para a população de menor renda que atender aos seguintes requisitos:
+
 (Redação alterada pela Lei Ordinária nº 3.415, de 25 de maio de 2018).
 
 ~~Art. 3º - A doação dos terrenos de que trata o artigo 2º desta Lei destina-se à edificação de moradias para a população de menor renda, sob forma de financiamento residencial com opção de compra pelo arrendatário que atender aos seguintes requisitos:~~
 
 I - residir no Município de Aparecida de Goiânia, há mais de 5 (cinco) anos;
 
-II - possuir renda mensal familiar em conformidade com o disposto nas normas regulamentadoras do Fundo de Arrendamento Residencial - FAR; <br>
+II - possuir renda mensal familiar em conformidade com o disposto nas normas regulamentadoras do Fundo de Arrendamento Residencial - FAR; 
+
 (Redação alterada pela Lei Ordinária nº 3.415, de 25 de maio de 2018).
 
-~~II - possuir renda mensal familiar até 3 (três) salários mínimos;~~<br>
+~~II - possuir renda mensal familiar até 3 (três) salários mínimos;~~
+
 ~~(Redação alterada pela Lei Ordinária nº 3.410, de 17 de abril de 2018).~~
 
 ~~II - possuir renda mensal familiar correspondente a 03 (três) salários mínimos;~~
 
 III - que a unidade seja destinada à residência da pessoa mutuário e de seus dependentes diretos;
 
-IV – não ter sido beneficiado anteriormente em programas de habitação social do governo; <br>
+IV – não ter sido beneficiado anteriormente em programas de habitação social do governo; 
+
 (Redação alterada pela Lei Ordinária nº 3.410, de 17 de abril de 2018).
 
 ~~IV - que preferencialmente atendidos os requisitos, sejam os imóveis destinados às pessoas que enquadram no programa (Minha Casa Minha Vida), senão vejamos:~~
@@ -46,11 +50,14 @@ b) que não possui casa própria ou financiamento em qualquer Unidade Federativa
 
 c) que os mutuários(as) pagarão até 5% (cinco por cento), da renda durante 10 anos, corrigida pela TR e o registro do Imóvel preferencialmente em nome da mulher;
 
-V - não possuir casa própria ou financiamento em qualquer Unidade Federativa – UF. <br>
+V - não possuir casa própria ou financiamento em qualquer Unidade Federativa – UF. 
+
 (Redação acrescentada pela Lei Ordinária nº 3.410, de 17 de abril de 2018).
 
-~~Parágrafo único. Os mutuários(as) pagarão até 10% (dez por cento) da renda durante 10 anos, corrigida pela TR e o registro do imóvel será feito preferencialmente em nome da mulher, quando os beneficiários forem casados ou viverem em regime de união estável. <br>
-(Redação acrescentada pela Lei Ordinária nº 3.410, de 17 de abril de 2018).~~<br>
+~~Parágrafo único. Os mutuários(as) pagarão até 10% (dez por cento) da renda durante 10 anos, corrigida pela TR e o registro do imóvel será feito preferencialmente em nome da mulher, quando os beneficiários forem casados ou viverem em regime de união estável. 
+
+(Redação acrescentada pela Lei Ordinária nº 3.410, de 17 de abril de 2018).~~
+
 (Revogado pela Lei Ordinária nº 3.415, de 25 de maio de 2018).
 
 Art. 4º - Os arrendatários serão selecionados pelo Município de Aparecida de Goiânia-GO, mediante parecer social emitido pela Secretaria de Habitação e Regularização Fundiária que adotará critérios objetivos, dentre os quais devem constar do artigo 3º desta Lei, e serão indicados ao Fundo de Arrendamento Residencial - FAR, para o arrendamento de unidade edificada nos terrenos objeto da doação por este Município.
@@ -99,5 +106,6 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 3
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal

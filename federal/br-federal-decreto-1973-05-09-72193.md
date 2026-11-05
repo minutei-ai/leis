@@ -1,5 +1,3 @@
-###DEC-072193-0-000-09-05-1973@@@
-
 DECRETO Nº 72.193, DE 9 DE MAIO DE 1973.
 
 Revoga o Decreto que concedeu à empresa Screen Gems of Brazil, Inc. autorização para funcionar na República Federativa do Brasil.

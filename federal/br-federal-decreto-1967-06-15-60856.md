@@ -1,5 +1,3 @@
-###DEC-060856-0-000-15-06-1967@@@
-
 Decreto nº 60.856, de 15 de junho de 1967.
 
 Dispõe sôbre a readaptação de que tratam as Leis números 3.780, de 12 de julho de 1960, e 4.242, de 17 de julho de 1963.

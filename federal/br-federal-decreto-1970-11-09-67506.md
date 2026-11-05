@@ -1,5 +1,3 @@
-###DEC-067506-0-000-09-11-1970@@@
-
 DECRETO Nº 67.506, DE 9 DE NOVEMBRO DE 1970.
 
 Autorização para o funcionamento de Licenciatura em Ciências da Faculdade de Filosofia, Ciências e Letras de Santo André, SP.

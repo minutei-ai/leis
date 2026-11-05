@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/60de7eb5-4b4f-4f24-8fd9-707cfe2ce160/texto#nowhere)
 
-###DEL-001008-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.008, de 21 de outubro de 1969
 
 Autoriza o Poder Executivo a abrir ao Poder Judiciário - Justiça Eleitoral, em favor do Tribunal Regional Eleitoral do Rio Grande do Sul, o crédito especial de NCr$1.310,00 para o fim que especifica.
@@ -14,7 +12,45 @@ Art. 1º Fica o Poder Executivo autorizado a abrir ao Poder Judiciário - Justi�
 
 Art. 2º Os recursos necessários à execução dêste Decreto-lei decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao Subanexo 4.04.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.00.00</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Poder Judiciário</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.04.60</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Justiça Eleitoral</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.04.20</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>- Tribunal Regional Eleitoral do Rio Grande do Sul</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Atividades - 01.06.02.2085</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.0.0.0</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.0.0</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Custeio</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.2.0</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Material de Consumo .......................................................................</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>310,00</span></p></td></tr><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.4.0</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Encargos Diversos ...........................................................................</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">1.000,00</span></p></td></tr><tr><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:315.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ..............................................................................................</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">1.310,00</span></p></td></tr></tbody></table>
+NCr$
+
+4.00.00
+
+- Poder Judiciário
+
+4.04.60
+
+- Justiça Eleitoral
+
+4.04.20
+
+- Tribunal Regional Eleitoral do Rio Grande do Sul
+
+Atividades - 01.06.02.2085
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.2.0
+
+- Material de Consumo .......................................................................
+
+310,00
+
+3.1.4.0
+
+- Encargos Diversos ...........................................................................
+
+1.000,00
+
+TOTAL ..............................................................................................
+
+1.310,00
 
 Art. 3º Êste Decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

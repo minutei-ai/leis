@@ -1,14 +1,12 @@
-###DEC-024987-0-000-24-05-1948@@@
+**DECRETO Nº 24.987, DE 24 DE MAIO DE 1948.**
 
-<strong>DECRETO Nº 24.987, DE 24 DE MAIO DE 1948.</strong>
+***Suprime cargos provisórios.***
 
-<em><strong>Suprime cargos provisórios.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal, e nos têrmos do artigo 1º alínea N do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal, e nos têrmos do artigo 1º alínea N do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos os cargos provisórios das seguintes carreiras do Quadro Permanente do Ministério da Educação e Saúde:
+**Art**. 1º Ficam suprimidos os cargos provisórios das seguintes carreiras do Quadro Permanente do Ministério da Educação e Saúde:
 
 Bibliotecário-Auxiliar - 2 cargos da classe E, vagos em virtude da promoção de Irene de Queiroz Monteiro e Luiza Lacerda de Araújo Feio;
 
@@ -20,10 +18,10 @@ Professor do Ensino Primário - 1 cargo da classe F, criado pelo Decreto-lei nº
 
 Zelador - 1 cargo da classe D, vago em virtude da promoção de Emiliano Teixeira; devendo a dotação correspondente ser levada a crédito da conta-corrente do mesmo Quadro do referido Ministério.
 
-<strong>Art</strong>. 2º revogam-se as disposições em contrário.
+**Art**. 2º revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 24 de maio de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani

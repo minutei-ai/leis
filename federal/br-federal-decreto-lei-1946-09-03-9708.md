@@ -1,5 +1,3 @@
-###DEL-009708-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.708 – DE 3 DE SETEMBRO DE 1946
 
 Revoga o art. 10 do Decreto-lei número 4.642, de 2 de Setembro de 1942.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099049-0-000-07-03-1990@@@
-
 DECRETO Nº 99.049, DE 7 DE MARÇO DE 1990
 
 Renova a concessão outorgada à RÁDIO HUMAITÁ LTDA., para explorar serviço de ra­diodifusão sonora em onda média, na cidade de Campo Mourão, Estado do Paraná.

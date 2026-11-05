@@ -1,5 +1,3 @@
-###DEL-000732-0-000-05-08-1969@@@
-
 DECRETO-LEI Nº 732, De 5 DE AGÔSTO DE 1969
 
 Altera disposições do Decreto-lei número 21, de 17 de setembro de 1966, e dá outras providências.

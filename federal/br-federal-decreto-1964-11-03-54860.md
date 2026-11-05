@@ -1,5 +1,3 @@
-###DEC-054860-0-000-03-11-1964@@@
-
 DECRETO Nº 54.860, DE 3 DE NOVEMBRO DE 1964.
 
 Renova o decreto nº 49.248, de 17 de novembro de 1960.

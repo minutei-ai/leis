@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d567cc38-9dfd-45e7-bd55-e2d37767f8f4/texto#nowhere)
 
-###DEL-000454-0-000-05-02-1969@@@
-
 DECRETO-LEI Nº 454, DE 5 DE FEVEREIRO DE 1969
 
 Aprova o Acôrdo de Conservação dos Recursos Naturais do Atlântico Sul, entre o Brasil e a Argentina, assinado em Buenos Aires, em 29 de dezembro de 1967.

@@ -1,5 +1,3 @@
-###DEC-069709-0-000-07-12-1971@@@
-
 decreto nº 69.709 - de 7 DE DEZEMBRO de 1971
 
 Declara sem efeito o Decreto número 29.792, de 19 de julho de 1951.

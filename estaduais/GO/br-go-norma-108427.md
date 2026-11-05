@@ -10,8 +10,6 @@ Art. 2º Esta Portaria entra em vigor na data de sua assinatura.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, 30 de janeiro de 2024.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 Secretária de Estado da Economia

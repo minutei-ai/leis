@@ -1,5 +1,3 @@
-###DEC-062198-0-000-31-01-1968@@@
-
 DECRETO Nº 62.198, DE 31 DE JANEIRO DE 1968.
 
 Autoriza o Superintendente da SUDECO a praticar atos de sua competência tendentes à implantação da autarquia.

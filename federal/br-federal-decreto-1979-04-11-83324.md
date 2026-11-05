@@ -1,5 +1,3 @@
-###DEC-083324-0-000-11-04-1979@@@
-
 Decreto nº 83.324, de 11 de abril de 1979.
 
 Dispõe sobre a vinculação do Banco Nacional de Desenvolvimento Econômico ao Ministério da Indústria e do Comércio.

@@ -1,5 +1,3 @@
-###DEL-007991-0-000-24-09-1945@@@
-
 DECRETO-LEI N. 7.991 – DE 24 DE SETEMBRO DE 1945
 
 Suspende a execução do art. 7º do Decreto-lei nº 5.165, de 31 de dezembro de 1942, e torna sem efeito o licenciamento de oficiais, nos têrmos do mesmo artigo.

@@ -1,5 +1,3 @@
-###DEC-054554-0-000-23-10-1964@@@
-
 DECRETO Nº 54.554, DE 23 DE OUTUBRO DE 1964.
 
 Concede a “The Ford Foundation” autorização para funcionar no Brasil e aprova os seus estatutos.

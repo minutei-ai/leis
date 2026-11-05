@@ -1,5 +1,3 @@
-###DEC-070981-0-000-14-08-1972@@@
-
 Decreto nº 70.981, de 14 de agosto de 1972.
 
 Dá nova redação ao item I do artigo 4º do Decreto nº 70.913, de 2 de agosto de 1972, que dispõe sobre a transformação em sociedade de economia mista da Empresa Brasileira de Telecomunicações -.EMBRATEL.

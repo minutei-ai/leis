@@ -1,5 +1,3 @@
-###DEC-096636-0-000-02-09-1988@@@
-
 DECRETO N° 96 636, DE 2 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO GUARACIABA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Guaraciaba do Norte, Estado do Ceará.

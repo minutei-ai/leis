@@ -1,5 +1,3 @@
-###MPV-001938-0-012-06-01-2000@@@
-
 MEDIDA PROVISÓRIa Nº 1.938-12, DE 6 DE JANEIRO DE 2000.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

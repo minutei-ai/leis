@@ -1,7 +1,3 @@
-1
-
-###DEC-099277-0-000-06-06-1990@@@
-
 DECRETO N° 99.277, DE 6 DE JUNHO DE 1990
 
 Cria, no Estado do Amazonas, a Reserva Biológica do Uatumã e dá outras providências.

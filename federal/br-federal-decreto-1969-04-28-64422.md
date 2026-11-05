@@ -1,5 +1,3 @@
-###DEC-064422-0-000-28-04-1969@@@
-
 DECRETO Nº 64.422, DE 28 DE ABRIL DE 1969.
 
 Declara de utilidade pública a Obra Assistencial São José do Jardim Europa, com sede em São Paulo, Estado de São Paulo.

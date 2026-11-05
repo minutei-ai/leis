@@ -1,5 +1,3 @@
-###DEC-085690-0-000-03-02-1981@@@
-
 Decreto nº 85.690, de 03 de fevereiro de 1981
 
 Altera a composição da Junta Consultiva do Instituto Brasileiro do Café.

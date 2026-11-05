@@ -1,5 +1,3 @@
-###DEC-007903-0-000-04-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.903, DE 4 DE FEVEREIRO DE 2013
 
 Estabelece a aplicação de margem de preferência em licitações realizadas no âmbito da administração pública federal para aquisição de equipamentos de tecnologia da informação e comunicação que menciona.

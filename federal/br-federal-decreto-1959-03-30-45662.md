@@ -1,5 +1,3 @@
-###DEC-045662-0-000-30-03-1959@@@
-
 DECRETO Nº 45.662, DE 30 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal do Ceará.

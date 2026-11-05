@@ -1,5 +1,3 @@
-###MPV-002134-0-026-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.134-26, DE 26 DE JANEIRO DE 2001
 
 Altera dispositivos das Leis nº 9.782, de 26 de janeiro de 1999, que define o Sistema Nacional de Vigilância Sanitária e cria a Agência Nacional de Vigilância Sanitária, e nº 6.437, de 20 de agosto de 1977, que configura infrações à legislação sanitária federal e estabelece as sanções respectivas, e dá outras providências.
@@ -224,21 +222,1439 @@ FERNANDO HENRIQUE CARDOSO
 
 Silvano Gianni
 
-<br>
-
 ANEXO I
 
 QUADRO DEMONSTRATIVO DE FUNÇÕES COMISSIONADAS DE VIGILÂNCIA SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:153.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><h3 style="margin-left:0.05pt"><span>CÓDIGO/FCVS</span></h3></td><td style="width:153.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="Dec"><span style="text-transform:none">QUANTIDADE</span></p></td><td style="width:158.35pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="Dec"><span style="text-transform:none">VALOR</span></p></td></tr><tr><td style="width:153.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-left:0.05pt; text-indent:-0.05pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">FCVS V</span></p></td><td style="width:153.65pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">42</span></p></td><td style="width:158.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1.170,00</span></p></td></tr><tr><td style="width:153.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-left:0.05pt; text-indent:-0.05pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCVS IV</span></p></td><td style="width:153.65pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">58</span></p></td><td style="width:158.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">855,00</span></p></td></tr><tr><td style="width:153.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-left:0.05pt; text-indent:-0.05pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCVS III</span></p></td><td style="width:153.65pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">47</span></p></td><td style="width:158.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">664,00</span></p></td></tr><tr><td style="width:153.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-left:0.05pt; text-indent:-0.05pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCVS II</span></p></td><td style="width:153.65pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">58</span></p></td><td style="width:158.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">585,00</span></p></td></tr><tr><td style="width:153.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-left:0.05pt; text-indent:-0.05pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCVS I</span></p></td><td style="width:153.65pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">69</span></p></td><td style="width:158.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">518,00</span></p></td></tr><tr><td style="width:153.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="margin-left:0.05pt; text-indent:-0.05pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">TOTAL</span></p></td><td style="width:153.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; font-weight:bold">274</span><span style="font-size:10pt"></span></p></td><td style="width:158.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; font-weight:bold">199.610,00</span><span style="font-size:10pt"></span></p></td></tr></tbody></table>
+### CÓDIGO/FCVS
 
-<br>
+QUANTIDADE
+
+VALOR
+
+FCVS V
+
+42
+
+1.170,00
+
+FCVS IV
+
+58
+
+855,00
+
+FCVS III
+
+47
+
+664,00
+
+FCVS II
+
+58
+
+585,00
+
+FCVS I
+
+69
+
+518,00
+
+TOTAL
+
+274
+
+199.610,00
 
 ANEXO II
 
 TAXA DE FISCALIZAÇÃO DE VIGILÂNCIA SANITÁRIA
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:48.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="Dec"><span style="text-transform:none">Itens</span></p></td><td style="width:247.3pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="Dec"><span style="text-transform:none">FATOS GERADORES</span></p></td><td style="width:84.3pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="Dec"><span style="text-transform:none">Valores em R$</span></p></td><td style="width:84.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">Prazo para</span><span style="font-size:10pt"> </span><span style="font-size:10pt; font-weight:bold">Renovação</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Registro de alimentos, aditivos alimentares, bebidas, águas envasadas e embalagens recicladas</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração, inclusão ou isenção no registro de alimentos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.800</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Revalidação ou renovação de registro de alimentos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril/linha de produção de alimentos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">1.4.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">No País e Mercosul</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">1.4.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de boas práticas de fabricação e controle para cada estabelecimento ou unidade fabril, tipo de atividade e linha de produção ou comercialização para indústrias de alimentos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">1.4.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outros países</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">37.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">2.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Registro de cosméticos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">2.500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">2.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração, inclusão ou isenção no registro de cosméticos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.800</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">2.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Revalidação ou renovação de registro de cosméticos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">2.500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">2.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril/linha de produção de cosméticos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2.4.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">No País e Mercosul</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2.4.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de boas práticas de fabricação e controle para cada estabelecimento ou unidade fabril, tipo de atividade e linha de produção/comercialização para indústrias de cosméticos, produtos de higiene e perfumes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2.4.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outros países</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">37.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização/Renovação e autorização especial/renovação de funcionamento por estabelecimento ou unidade fabril para cada tipo de atividade</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Indústria de medicamentos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">20.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Indústria de insumos farmacêuticos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">20.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Distribuidora, Importadora, Exportadora, Transportadora, Armazenagem, Embalagem e Reembalagem e demais previstas em legislação específica de medicamentos e insumos farmacêuticos.</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Fracionamento de insumos farmacêuticos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Drogarias e farmácias</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Industria de Cosméticos, produtos de higiene e perfumes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Distribuidora, Importadora, Exportadora, Transportadora, Armazenagem, Embalagem e Reembalagem e demais prevista em legislação específica de cosméticos, produtos de higiene e perfumes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.8</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Industria de saneantes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3.1.9</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Distribuidora, Importadora, Exportadora, Transportadora, Armazenagem, Embalagem e Reembalagem e demais prevista em legislação específica de saneantes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">3.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de Funcionamento e autorização especial de farmácia de manipulação</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Registro, revalidação ou renovação de registro de medicamentos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Produto novo</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">80.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Produto similar</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">21.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Produto genérico</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Nova associação no País</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">21.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Monodroga aprovada em associação</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">21.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Nova via de administração do medicamento no País</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">21.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Nova concentração no País</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">21.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.8</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Nova forma farmacêutica no País</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">21.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.9</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Medicamentos fitoterápicos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.9.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Novo</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.9.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Similar</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.9.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Tradicional</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.10</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Medicamentos homeopáticos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.10.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Novo</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.10.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Similar</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.1.11</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Novo acondicionamento no País</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.800</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">4.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração, inclusão ou isenção no registro de medicamentos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.800</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">4.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril/linha de produção de medicamentos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.3.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">No País e Mercosul</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.3.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Praticas de Fabricação de medicamentos e insumos farmacêuticos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.3.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outros países</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">37.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4.3.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Práticas de Distribuição e Armazenagem de medicamentos e insumos farmacêuticos / estabelecimento</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de Funcionamento</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de medicamentos, matérias-primas e insumos farmacêuticos em terminais alfandegados de uso público</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de substâncias e medicamentos sob controle especial em terminais alfandegados de uso público</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de cosméticos, produtos de higiene ou perfumes e matérias-primas em terminais alfandegados de uso público</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de produtos saneantes domissanitários e matérias-primas em terminais alfandegados de uso público</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de materiais e equipamentos médico hospitalares e produtos de diagnóstico de uso "in vitro" (correlatos) em terminais alfandegados de uso público</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de alimentos em terminais alfandegados de uso público</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços alternativos de abastecimento de água potável para consumo humano de bordo de aeronaves, embarcações e veículos terrestres que operam transporte coletivo internacional de passageiros</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.8</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de desinsetização ou desratização em embarcações, veículos terrestres em trânsito por estações e passagens de fronteira, aeronaves, terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estações e passagens de fronteira</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.9</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de limpeza, desinfecção e descontaminação de superfícies de aeronaves, veículos terrestres em trânsito por estações e passagens de fronteira, embarcações, terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estação e passagem de fronteiras</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.10</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de limpeza e recolhimento de resíduos resultantes do tratamento de águas servidas e dejetos em terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estações e passagens de fronteira</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.11</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de Empresas que operam prestação de serviços de esgotamento e tratamento de efluentes sanitários de aeronaves, embarcações e veículos terrestres em trânsito por estações e passagens de fronteira em terminais aeroportuários, portuário e estações e passagens de fronteira</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.12</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam prestação de serviços de Segregação, coleta, acondicionamento, armazenamento, transporte, tratamento e disposição final de resíduos sólidos resultantes de aeronaves, veículos terrestres em trânsito por estações e passagens de fronteira, embarcações, terminais portuários e aeroportuários de cargas e viajantes, terminais alfandegados de uso público e estações e passagens de fronteira</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.13</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas que operam a prestação de serviços, nas áreas portuárias, aeroportuárias e estações e passagens de fronteira, de lavanderia, atendimento médico, hotelaria, drogarias, farmácias e ervanários, comércio de materiais e equipamentos hospitalares, salões de barbeiros e cabeleleiros, pedicuros e institutos de beleza e congêneres</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.1.14</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização de funcionamento de empresas prepostas para gerir, representar ou administrar negócios, em nome de uma empresa de navegação, tomando as providências necessárias ao despacho de uma embarcação em um porto (agência de navegação).</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência em processo de importação de produtos sujeito à vigilância sanitária.</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.2.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de importação sobre bens, produtos , matérias-primas e insumos sujeitos à vigilância sanitária, por pessoa jurídica, para fins de comercialização ou industrialização</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.2.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Importação de até 10 (dez) itens de bens, produtos, matérias-primas ou insumos:</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor base: R$100,00</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">100</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.2.1.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Importação de 11 (onze) a 20 (vinte) itens de bens, produtos, matérias-primas ou insumos:</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor base: R$200,00</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">200</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.2.1.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Importação de 21 (vinte e um) a 30 (trinta) itens de bens, produtos, matérias-primas ou insumos:</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor base: R$300,00</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">300</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.2.1.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Importação de 31 (trinta e um) a 50 (vinte) itens de bens, produtos, matérias-primas ou insumos:</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor base: R$1.000,00</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.2.1.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Importação de 51(cinqüenta e um) a 100 (cem) itens de bens, produtos, matérias-primas ou insumos:</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor base: R$2.000,00</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">2.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de importação por pessoa física de materiais e equipamentos médico-hospitalares e produtos para diagnóstico de uso "in vitro", sujeitos à vigilância sanitária, para fins de oferta e comércio de prestação de serviços a terceiros</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">100</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de importação por hospitais e estabelecimentos de saúde privados de materiais e equipamentos médico-hospitalares e produtos para diagnóstico de uso "in vitro", sujeitos à vigilância sanitária, para fins de oferta e comércio de prestação de serviços a terceiros</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">100</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de importação e exportação de produtos ou matéria-prima sujeito à vigilância sanitária, por pessoa física, para fins de uso individual ou próprio</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de importação de amostras de produto ou matéria-prima sujeito à vigilância sanitária, por pessoa jurídica, para análises e experiências, com vistas ao registro de produto</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">100</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de importação de amostras de produto ou matéria-prima sujeito à vigilância sanitária, por pessoa jurídica, para fins de demonstração em feiras ou eventos públicos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">100</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.8</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de importação, de amostras de produto sujeito à vigilância sanitária, por pessoa jurídica, para fins de demonstração para profissionais especializados</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">100</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência em processo de exportação de produtos sujeitos à vigilância sanitária</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de exportação sobre bens, produtos, matérias-primas e insumos sujeitos à vigilância sanitária, por pessoa jurídica, para fins de comercialização ou industrialização</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de exportação de amostras de bens, produtos, matéria-prima ou insumos sujeitos à vigilância sanitária, por pessoa jurídica, para análises e experiências, com vistas ao registro de produto</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de exportação de amostras de produto ou matéria-prima sujeito à vigilância sanitária, por pessoa jurídica, para fins de demonstração em feiras ou eventos públicos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de exportação de amostras de produto sujeito à vigilância sanitária, por pessoa jurídica, para fins de demonstração para profissionais especializados</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de exportação e importação de amostras biológicas humanas, por pessoa jurídica, para fins de realização de ensaios e experiências laboratoriais</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.5.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Exportação e Importação de no máximo 20 amostras</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.5.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Exportação e Importação de 21 até 50 amostras</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">200</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência de exportação de amostras biológicas humanas,</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.9.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência em Licença de Importação Substitutiva relacionada a processos de importação de produto e matérias-primas sujeitas à vigilância sanitária</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">50</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.10</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Colheita e transporte de amostras para análises laboratorial de produtos importados sujeitos a análise de controle:</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.10.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Dentro do município</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">150</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.10.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outro município no mesmo Estado</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">300</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.10.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outro estado</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.11</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Vistoria para verificação de cumprimento de exigências sanitárias relativas à desinterdição de produtos importados, armazenados em área externa ao terminal alfandegado de uso público:</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.11.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Dentro do município</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">150</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.11.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outro município no mesmo Estado</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">300</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.11.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outro estado</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.12</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Vistoria semestral para verificação de cumprimento de exigências sanitárias relativas às condições higienico-sanitárias de plataformas constituídas de instalação ou estrutura, fixa ou móvel, localizada em águas sob jurisdição nacional, destinada a atividade direta ou indireta com a pesquisa e a lavra de recursos minerais oriundos do leito das águas interiores ou de seu subsolo, ou do mar, da plataforma continental ou de seu subsolo</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.13</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência para isenção de imposto em processo de importação ou exportação de produtos sujeitos à vigilância sanitária.</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Atividades de controle sanitário de portos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Emissão de certificado internacional de desratização e isenção de desratização de embarcações que realizem navegação de:</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar Aberto / Longo curso; trânsito internacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e atividades ou serviços de transporte de cargas e/ou passageiros</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.1.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar Aberto / Longo curso; trânsito internacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e atividades de pesca</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.1.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar Aberto / Longo curso; trânsito internacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e atividades de esporte e recreio com fins não comercial</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.1.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior; trânsito internacional; deslocamento fluvial e atividades ou serviços de transporte de cargas e/ou passageiros</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.1.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior, trânsito internacional; deslocamento fluvial e atividades de pesca</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.1.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior, trânsito internacional; deslocamento fluvial e atividades de esporte e recreio.</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Emissão dos certificados nacional de desratização e isenção de desratização de Embarcações que realizem navegação de:</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto / cabotagem (trânsito exclusivamente nacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou passageiros)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto/Apoio marítimo (trânsito exclusivamente nacional e deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional e deslocamentos marítimo, marítimo-fluvial ou marítimo lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior (trânsito exclusivamente nacional; deslocamentos marítimo ou marítimo-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou de passageiros)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior (trânsito exclusivamente nacional; deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou de passageiros)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior de apoio portuário (trânsito exclusivamente nacional; deslocamentos marítimo ou marítimo-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior de apoio portuário (trânsito exclusivamente nacional; deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.8</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional e deslocamentos marítimo ou marítimo-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2.9</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional e deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2. 10</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto ou interior, que desenvolvem atividade de pesca, com saída e entrada entre portos distintos do território nacional</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2..11</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto ou interior, que desenvolvem atividade de pesca , com saída e retorno ao mesmo porto do território nacional e sem escalas intermediárias</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">5.14.2. 12</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior que desenvolvem atividades de esporte e recreio com fins não comerciais, em trânsitos municipal, intermunicipal ou interestadual</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.2. 13</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Qualquer embarcação da Marinha do Brasil ou sob convite deste órgão, utilizadas para fins não comerciais</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">5.14.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Emissão de guia de desembarque de passageiros e tripulantes de embarcações, aeronaves ou veículos terrestres de trânsito internacional</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">500</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Emissão do certificado de livre prática de embarcações que realizam navegação de:</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar Aberto / Longo curso; trânsito internacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou passageiros</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar Aberto / Longo curso; trânsito internacional ; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e desenvolvem atividades de esporte e recreio ou pesca.</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior; trânsito internacional; deslocamento fluvial e desenvolvem atividades ou serviços de transporte de cargas e/ou passageiros</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior; trânsito internacional; deslocamento fluvial e desenvolvem atividades de esporte e recreio ou pesca</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto / cabotagem (trânsito exclusivamente nacional ); deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou passageiros)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto/Apoio marítimo (trânsito exclusivamente nacional)e deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre )</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional) e deslocamentos marítimo, marítimo-fluvial ou marítimo lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.8</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior (trânsito exclusivamente nacional); deslocamentos marítimo ou marítimo-lacustre e atividades ou serviços de transporte de cargas e/ou de passageiros)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.9</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior (trânsito exclusivamente nacional; deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre e atividades ou serviços de transporte de cargas e/ou de passageiros)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4. 10</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior de apoio portuário (trânsito exclusivamente nacional); deslocamentos marítimo ou marítimo-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4. 11</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior de apoio portuário (trânsito exclusivamente nacional; deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4. 12</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional; deslocamentos marítimo ou marítimo-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4. 13</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional e deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre)</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4. 14</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto ou interior, que desenvolvem atividade de pesca, com saída e entrada entre portos distintos do território nacional</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">600</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4. 15</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Mar aberto ou interior, que desenvolvem atividade de pesca , com saída e retorno ao mesmo porto do território nacional e sem escalas intermediárias</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4.</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">16</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Interior que desenvolvem atividades de esporte e recreio com fins não comercial, em trânsitos municipal, intermunicipal ou interestadual</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5.14.4. 17</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Qualquer embarcação da Marinha do Brasil ou sob convite deste órgão, utilizadas para fins não comerciais</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Registro de saneantes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">6.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Produto de Grau de Risco II</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração, inclusão ou isenção no registro de saneantes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.800</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Revalidação ou renovação de registro de saneantes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">6.3.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Produto de Grau de Risco II</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">6.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril/linha de produção de saneantes</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">6.4.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">No País e Mercosul</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">6.4.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de boas práticas de fabricação e controle para cada estabelecimento ou unidade fabril, tipo de atividade e linha de produção/comercialização para indústrias de saneantes domissanitários</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">6.4.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outros países</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">37.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">7.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Autorização/Renovação de Funcionamento de empresas por estabelecimento / unidade fabril para cada tipo de atividade</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Por estabelecimento fabricante de uma ou mais linhas de produtos para saúde (equipamentos, materiais e produtos para diagnóstico de uso "in vitro")</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">10.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.1.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Distribuidora, Importadora, Exportadora, Transportadora, Armazenagem, Embalagem e Reembalagem e demais prevista em legislação específica de produtos para saúde</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.1.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Por estabelecimento de comércio varejista de produtos para saúde</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">7.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Práticas de Fabricação de produtos para saúde, para cada estabelecimento ou unidade fabril/linha de produção</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.2.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">No País e Mercosul</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.2.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Praticas de Fabricação de produtos para saúde</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.2.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outros países</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">37.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">7.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certificação de Boas Práticas de Distribuição e Armazenagem de produtos para saúde / estabelecimento</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">7.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Modificação ou acréscimo na certificação por inclusão de novo tipo de linha de produto (equipamento, materiais e produtos para diagnóstico de uso "in vitro")</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">5.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">7.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Registro, revalidação ou renovação de registro de produtos para saúde</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.5.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Equipamentos de grande porte para diagnóstico ou terapia, tais como medicina nuclear, tomografia computadorizada, ressonância magnética e cineangiocoro-nariografia, entre outros</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">20.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.5.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outros equipamentos de médio e pequeno portes para diagnóstico ou terapia, artigos, materiais, produtos para diagnóstico de uso in-vitro e demais produtos para saúde</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.5.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Família de equipamentos de grande porte para diagnóstico ou terapia</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">28.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7.5.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Família de equipamentos de médio e pequeno portes para diagnóstico ou terapia, artigos, materiais, reagentes de diagnóstico de uso in-vitro e demais produtos para saúde</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">12.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">7.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração, inclusão ou isenção no registro de produtos para saúde</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.800</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">7.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Emissão de certificado para exportação</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Avaliação toxicológica para fim de registro de produto</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">8.1.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Produto Técnico de ingrediente ativo não registrado no país</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">80.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">8.1.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Produto Técnico de ingrediente ativo já registrado no país</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">40.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">8.1.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Produto Formulado</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">40.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.2</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Avaliação toxicológica para registro de componente</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">40.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.3</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Avaliação toxicológica para fim de Registro Especial Temporário</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">25.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.4</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Reclassificação Toxicológica</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">25.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.5</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Reavaliação de registro de produto, conforme Decreto nº 991/93</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">25.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cinco anos</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.6</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Avaliação toxicológica para fim de Inclusão de Cultura</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">25.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.7</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração de dose</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">8.7.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração de dose para maior na aplicação</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">25.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">8.8</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração de dose para menor na aplicação</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">9</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">9.1</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Registro, revalidação ou renovação de registro de fumígenos</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">100.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">10</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência para veicular publicidade contendo alerta à população, no prazo e nas condições indicados pela autoridade sanitária</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">10.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">11</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Anuência em processo de pesquisa clínica</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">10.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">12</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Alteração ou acréscimo na Autorização de Funcionamento</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">4.000</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">13</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Substituição de representante legal, responsável técnico ou cancelamento de autorização</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ISENTO</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">14</span></p></td><td style="width:247.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Certidão, atestado e demais atos declaratórios</span></p></td><td style="width:84.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.800</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr><tr><td style="width:48.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">15</span></p></td><td style="width:247.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Desarquivamento de processo e segunda via de documento</span></p></td><td style="width:84.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">1.800</span></p></td><td style="width:84.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">---</span></p></td></tr></tbody></table>
+Itens
+
+FATOS GERADORES
+
+Valores em R$
+
+Prazo para Renovação
+
+1
+
+1.1
+
+Registro de alimentos, aditivos alimentares, bebidas, águas envasadas e embalagens recicladas
+
+6.000
+
+Cinco anos
+
+1.2
+
+Alteração, inclusão ou isenção no registro de alimentos
+
+1.800
+
+---
+
+1.3
+
+Revalidação ou renovação de registro de alimentos
+
+6.000
+
+Cinco anos
+
+1.4
+
+Certificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril/linha de produção de alimentos
+
+1.4.1
+
+No País e Mercosul
+
+1.4.1.1
+
+Certificação de boas práticas de fabricação e controle para cada estabelecimento ou unidade fabril, tipo de atividade e linha de produção ou comercialização para indústrias de alimentos
+
+15.000
+
+Anual
+
+1.4.2
+
+Outros países
+
+37.000
+
+Anual
+
+2
+
+2.1
+
+Registro de cosméticos
+
+2.500
+
+Cinco anos
+
+2.2
+
+Alteração, inclusão ou isenção no registro de cosméticos
+
+1.800
+
+---
+
+2.3
+
+Revalidação ou renovação de registro de cosméticos
+
+2.500
+
+Cinco anos
+
+2.4
+
+Certificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril/linha de produção de cosméticos
+
+2.4.1
+
+No País e Mercosul
+
+2.4.1.1
+
+Certificação de boas práticas de fabricação e controle para cada estabelecimento ou unidade fabril, tipo de atividade e linha de produção/comercialização para indústrias de cosméticos, produtos de higiene e perfumes
+
+15.000
+
+Anual
+
+2.4.2
+
+Outros países
+
+37.000
+
+Anual
+
+3
+
+3.1
+
+Autorização/Renovação e autorização especial/renovação de funcionamento por estabelecimento ou unidade fabril para cada tipo de atividade
+
+---
+
+---
+
+3.1.1
+
+Indústria de medicamentos
+
+20.000
+
+---
+
+3.1.2
+
+Indústria de insumos farmacêuticos
+
+20.000
+
+---
+
+3.1.3
+
+Distribuidora, Importadora, Exportadora, Transportadora, Armazenagem, Embalagem e Reembalagem e demais previstas em legislação específica de medicamentos e insumos farmacêuticos.
+
+15.000
+
+Anual
+
+3.1.4
+
+Fracionamento de insumos farmacêuticos
+
+15.000
+
+Anual
+
+3.1.5
+
+Drogarias e farmácias
+
+500
+
+Anual
+
+3.1.6
+
+Industria de Cosméticos, produtos de higiene e perfumes
+
+6.000
+
+---
+
+3.1.7
+
+Distribuidora, Importadora, Exportadora, Transportadora, Armazenagem, Embalagem e Reembalagem e demais prevista em legislação específica de cosméticos, produtos de higiene e perfumes
+
+6.000
+
+---
+
+3.1.8
+
+Industria de saneantes
+
+6.000
+
+---
+
+3.1.9
+
+Distribuidora, Importadora, Exportadora, Transportadora, Armazenagem, Embalagem e Reembalagem e demais prevista em legislação específica de saneantes
+
+6.000
+
+---
+
+3.2
+
+Autorização de Funcionamento e autorização especial de farmácia de manipulação
+
+5.000
+
+Anual
+
+4
+
+4.1
+
+Registro, revalidação ou renovação de registro de medicamentos
+
+4.1.1
+
+Produto novo
+
+80.000
+
+Cinco anos
+
+4.1.2
+
+Produto similar
+
+21.000
+
+Cinco anos
+
+4.1.3
+
+Produto genérico
+
+6.000
+
+Cinco anos
+
+4.1.4
+
+Nova associação no País
+
+21.000
+
+---
+
+4.1.5
+
+Monodroga aprovada em associação
+
+21.000
+
+---
+
+4.1.6
+
+Nova via de administração do medicamento no País
+
+21.000
+
+---
+
+4.1.7
+
+Nova concentração no País
+
+21.000
+
+---
+
+4.1.8
+
+Nova forma farmacêutica no País
+
+21.000
+
+---
+
+4.1.9
+
+Medicamentos fitoterápicos
+
+4.1.9.1
+
+Novo
+
+6.000
+
+Cinco anos
+
+4.1.9.2
+
+Similar
+
+6.000
+
+Cinco anos
+
+4.1.9.3
+
+Tradicional
+
+6.000
+
+Cinco anos
+
+4.1.10
+
+Medicamentos homeopáticos
+
+4.1.10.1
+
+Novo
+
+6.000
+
+Cinco anos
+
+4.1.10.2
+
+Similar
+
+6.000
+
+Cinco anos
+
+4.1.11
+
+Novo acondicionamento no País
+
+1.800
+
+---
+
+4.2
+
+Alteração, inclusão ou isenção no registro de medicamentos
+
+1.800
+
+---
+
+4.3
+
+Certificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril/linha de produção de medicamentos
+
+4.3.1
+
+No País e Mercosul
+
+4.3.2
+
+Certificação de Boas Praticas de Fabricação de medicamentos e insumos farmacêuticos
+
+15.000
+
+Anual
+
+4.3.3
+
+Outros países
+
+37.000
+
+Anual
+
+4.3.4
+
+Certificação de Boas Práticas de Distribuição e Armazenagem de medicamentos e insumos farmacêuticos / estabelecimento
+
+15.000
+
+Anual
+
+5
+
+5.1
+
+Autorização de Funcionamento
+
+5.1.1
+
+Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de medicamentos, matérias-primas e insumos farmacêuticos em terminais alfandegados de uso público
+
+15.000
+
+Anual
+
+5.1.2
+
+Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de substâncias e medicamentos sob controle especial em terminais alfandegados de uso público
+
+15.000
+
+Anual
+
+5.1.3
+
+Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de cosméticos, produtos de higiene ou perfumes e matérias-primas em terminais alfandegados de uso público
+
+6.000
+
+Anual
+
+5.1.4
+
+Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de produtos saneantes domissanitários e matérias-primas em terminais alfandegados de uso público
+
+6.000
+
+Anual
+
+5.1.5
+
+Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de materiais e equipamentos médico hospitalares e produtos de diagnóstico de uso "in vitro" (correlatos) em terminais alfandegados de uso público
+
+6.000
+
+Anual
+
+5.1.6
+
+Autorização de funcionamento de empresas que operam prestação de serviços de armazenagem e distribuição de alimentos em terminais alfandegados de uso público
+
+6.000
+
+Anual
+
+5.1.7
+
+Autorização de funcionamento de empresas que operam prestação de serviços alternativos de abastecimento de água potável para consumo humano de bordo de aeronaves, embarcações e veículos terrestres que operam transporte coletivo internacional de passageiros
+
+6.000
+
+Anual
+
+5.1.8
+
+Autorização de funcionamento de empresas que operam prestação de serviços de desinsetização ou desratização em embarcações, veículos terrestres em trânsito por estações e passagens de fronteira, aeronaves, terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estações e passagens de fronteira
+
+6.000
+
+Anual
+
+5.1.9
+
+Autorização de funcionamento de empresas que operam prestação de serviços de limpeza, desinfecção e descontaminação de superfícies de aeronaves, veículos terrestres em trânsito por estações e passagens de fronteira, embarcações, terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estação e passagem de fronteiras
+
+6.000
+
+Anual
+
+5.1.10
+
+Autorização de funcionamento de empresas que operam prestação de serviços de limpeza e recolhimento de resíduos resultantes do tratamento de águas servidas e dejetos em terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estações e passagens de fronteira
+
+6.000
+
+Anual
+
+5.1.11
+
+Autorização de funcionamento de Empresas que operam prestação de serviços de esgotamento e tratamento de efluentes sanitários de aeronaves, embarcações e veículos terrestres em trânsito por estações e passagens de fronteira em terminais aeroportuários, portuário e estações e passagens de fronteira
+
+6.000
+
+Anual
+
+5.1.12
+
+Autorização de funcionamento de empresas que operam prestação de serviços de Segregação, coleta, acondicionamento, armazenamento, transporte, tratamento e disposição final de resíduos sólidos resultantes de aeronaves, veículos terrestres em trânsito por estações e passagens de fronteira, embarcações, terminais portuários e aeroportuários de cargas e viajantes, terminais alfandegados de uso público e estações e passagens de fronteira
+
+6.000
+
+Anual
+
+5.1.13
+
+Autorização de funcionamento de empresas que operam a prestação de serviços, nas áreas portuárias, aeroportuárias e estações e passagens de fronteira, de lavanderia, atendimento médico, hotelaria, drogarias, farmácias e ervanários, comércio de materiais e equipamentos hospitalares, salões de barbeiros e cabeleleiros, pedicuros e institutos de beleza e congêneres
+
+500
+
+Anual
+
+5.1.14
+
+Autorização de funcionamento de empresas prepostas para gerir, representar ou administrar negócios, em nome de uma empresa de navegação, tomando as providências necessárias ao despacho de uma embarcação em um porto (agência de navegação).
+
+6.000
+
+Anual
+
+5.2
+
+Anuência em processo de importação de produtos sujeito à vigilância sanitária.
+
+5.2.1
+
+Anuência de importação sobre bens, produtos , matérias-primas e insumos sujeitos à vigilância sanitária, por pessoa jurídica, para fins de comercialização ou industrialização
+
+5.2.1.1
+
+Importação de até 10 (dez) itens de bens, produtos, matérias-primas ou insumos:
+
+Valor base: R$100,00
+
+100
+
+---
+
+5.2.1.2
+
+Importação de 11 (onze) a 20 (vinte) itens de bens, produtos, matérias-primas ou insumos:
+
+Valor base: R$200,00
+
+200
+
+---
+
+5.2.1.3
+
+Importação de 21 (vinte e um) a 30 (trinta) itens de bens, produtos, matérias-primas ou insumos:
+
+Valor base: R$300,00
+
+300
+
+---
+
+5.2.1.4
+
+Importação de 31 (trinta e um) a 50 (vinte) itens de bens, produtos, matérias-primas ou insumos:
+
+Valor base: R$1.000,00
+
+1.000
+
+---
+
+5.2.1.5
+
+Importação de 51(cinqüenta e um) a 100 (cem) itens de bens, produtos, matérias-primas ou insumos:
+
+Valor base: R$2.000,00
+
+2.000
+
+---
+
+5.3
+
+Anuência de importação por pessoa física de materiais e equipamentos médico-hospitalares e produtos para diagnóstico de uso "in vitro", sujeitos à vigilância sanitária, para fins de oferta e comércio de prestação de serviços a terceiros
+
+100
+
+---
+
+5.4
+
+Anuência de importação por hospitais e estabelecimentos de saúde privados de materiais e equipamentos médico-hospitalares e produtos para diagnóstico de uso "in vitro", sujeitos à vigilância sanitária, para fins de oferta e comércio de prestação de serviços a terceiros
+
+100
+
+---
+
+5.5
+
+Anuência de importação e exportação de produtos ou matéria-prima sujeito à vigilância sanitária, por pessoa física, para fins de uso individual ou próprio
+
+ISENTO
+
+---
+
+5.6
+
+Anuência de importação de amostras de produto ou matéria-prima sujeito à vigilância sanitária, por pessoa jurídica, para análises e experiências, com vistas ao registro de produto
+
+100
+
+---
+
+5.7
+
+Anuência de importação de amostras de produto ou matéria-prima sujeito à vigilância sanitária, por pessoa jurídica, para fins de demonstração em feiras ou eventos públicos
+
+100
+
+---
+
+5.8
+
+Anuência de importação, de amostras de produto sujeito à vigilância sanitária, por pessoa jurídica, para fins de demonstração para profissionais especializados
+
+100
+
+---
+
+5.9
+
+Anuência em processo de exportação de produtos sujeitos à vigilância sanitária
+
+---
+
+---
+
+5.9.1
+
+Anuência de exportação sobre bens, produtos, matérias-primas e insumos sujeitos à vigilância sanitária, por pessoa jurídica, para fins de comercialização ou industrialização
+
+ISENTO
+
+---
+
+5.9.2
+
+Anuência de exportação de amostras de bens, produtos, matéria-prima ou insumos sujeitos à vigilância sanitária, por pessoa jurídica, para análises e experiências, com vistas ao registro de produto
+
+ISENTO
+
+---
+
+5.9.3
+
+Anuência de exportação de amostras de produto ou matéria-prima sujeito à vigilância sanitária, por pessoa jurídica, para fins de demonstração em feiras ou eventos públicos
+
+ISENTO
+
+---
+
+5.9.4
+
+Anuência de exportação de amostras de produto sujeito à vigilância sanitária, por pessoa jurídica, para fins de demonstração para profissionais especializados
+
+ISENTO
+
+---
+
+5.9.5
+
+Anuência de exportação e importação de amostras biológicas humanas, por pessoa jurídica, para fins de realização de ensaios e experiências laboratoriais
+
+5.9.5.1
+
+Exportação e Importação de no máximo 20 amostras
+
+ISENTO
+
+---
+
+5.9.5.2
+
+Exportação e Importação de 21 até 50 amostras
+
+200
+
+---
+
+5.9.6
+
+Anuência de exportação de amostras biológicas humanas,
+
+5.9.7
+
+Anuência em Licença de Importação Substitutiva relacionada a processos de importação de produto e matérias-primas sujeitas à vigilância sanitária
+
+50
+
+---
+
+5.10
+
+Colheita e transporte de amostras para análises laboratorial de produtos importados sujeitos a análise de controle:
+
+5.10.1
+
+Dentro do município
+
+150
+
+---
+
+5.10.2
+
+Outro município no mesmo Estado
+
+300
+
+---
+
+5.10.3
+
+Outro estado
+
+600
+
+---
+
+5.11
+
+Vistoria para verificação de cumprimento de exigências sanitárias relativas à desinterdição de produtos importados, armazenados em área externa ao terminal alfandegado de uso público:
+
+5.11.1
+
+Dentro do município
+
+150
+
+---
+
+5.11.2
+
+Outro município no mesmo Estado
+
+300
+
+---
+
+5.11.3
+
+Outro estado
+
+600
+
+---
+
+5.12
+
+Vistoria semestral para verificação de cumprimento de exigências sanitárias relativas às condições higienico-sanitárias de plataformas constituídas de instalação ou estrutura, fixa ou móvel, localizada em águas sob jurisdição nacional, destinada a atividade direta ou indireta com a pesquisa e a lavra de recursos minerais oriundos do leito das águas interiores ou de seu subsolo, ou do mar, da plataforma continental ou de seu subsolo
+
+6.000
+
+---
+
+5.13
+
+Anuência para isenção de imposto em processo de importação ou exportação de produtos sujeitos à vigilância sanitária.
+
+ISENTO
+
+---
+
+5.14
+
+Atividades de controle sanitário de portos
+
+5.14.1
+
+Emissão de certificado internacional de desratização e isenção de desratização de embarcações que realizem navegação de:
+
+5.14.1.1
+
+Mar Aberto / Longo curso; trânsito internacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e atividades ou serviços de transporte de cargas e/ou passageiros
+
+1000
+
+---
+
+5.14.1.2
+
+Mar Aberto / Longo curso; trânsito internacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e atividades de pesca
+
+1000
+
+---
+
+5.14.1.3
+
+Mar Aberto / Longo curso; trânsito internacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e atividades de esporte e recreio com fins não comercial
+
+ISENTO
+
+---
+
+5.14.1.4
+
+Interior; trânsito internacional; deslocamento fluvial e atividades ou serviços de transporte de cargas e/ou passageiros
+
+1000
+
+---
+
+5.14.1.5
+
+Interior, trânsito internacional; deslocamento fluvial e atividades de pesca
+
+1000
+
+---
+
+5.14.1.6
+
+Interior, trânsito internacional; deslocamento fluvial e atividades de esporte e recreio.
+
+ISENTO
+
+---
+
+5.14.2
+
+Emissão dos certificados nacional de desratização e isenção de desratização de Embarcações que realizem navegação de:
+
+5.14.2.1
+
+Mar aberto / cabotagem (trânsito exclusivamente nacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou passageiros)
+
+500
+
+---
+
+5.14.2.2
+
+Mar aberto/Apoio marítimo (trânsito exclusivamente nacional e deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre)
+
+500
+
+---
+
+5.14.2.3
+
+Mar aberto que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional e deslocamentos marítimo, marítimo-fluvial ou marítimo lacustre)
+
+500
+
+---
+
+5.14.2.4
+
+Interior (trânsito exclusivamente nacional; deslocamentos marítimo ou marítimo-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou de passageiros)
+
+500
+
+---
+
+5.14.2.5
+
+Interior (trânsito exclusivamente nacional; deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou de passageiros)
+
+500
+
+---
+
+5.14.2.6
+
+Interior de apoio portuário (trânsito exclusivamente nacional; deslocamentos marítimo ou marítimo-lacustre)
+
+500
+
+---
+
+5.14.2.7
+
+Interior de apoio portuário (trânsito exclusivamente nacional; deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre)
+
+500
+
+---
+
+5.14.2.8
+
+Interior que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional e deslocamentos marítimo ou marítimo-lacustre)
+
+500
+
+---
+
+5.14.2.9
+
+Interior que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional e deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre)
+
+500
+
+---
+
+5.14.2. 10
+
+Mar aberto ou interior, que desenvolvem atividade de pesca, com saída e entrada entre portos distintos do território nacional
+
+500
+
+---
+
+5.14.2..11
+
+Mar aberto ou interior, que desenvolvem atividade de pesca , com saída e retorno ao mesmo porto do território nacional e sem escalas intermediárias
+
+ISENTO
+
+---
+
+5.14.2. 12
+
+Interior que desenvolvem atividades de esporte e recreio com fins não comerciais, em trânsitos municipal, intermunicipal ou interestadual
+
+ISENTO
+
+---
+
+5.14.2. 13
+
+Qualquer embarcação da Marinha do Brasil ou sob convite deste órgão, utilizadas para fins não comerciais
+
+ISENTO
+
+---
+
+5.14.3
+
+Emissão de guia de desembarque de passageiros e tripulantes de embarcações, aeronaves ou veículos terrestres de trânsito internacional
+
+500
+
+---
+
+5.14.4
+
+Emissão do certificado de livre prática de embarcações que realizam navegação de:
+
+5.14.4.1
+
+Mar Aberto / Longo curso; trânsito internacional; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou passageiros
+
+600
+
+---
+
+5.14.4.2
+
+Mar Aberto / Longo curso; trânsito internacional ; deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e desenvolvem atividades de esporte e recreio ou pesca.
+
+600
+
+---
+
+5.14.4.3
+
+Interior; trânsito internacional; deslocamento fluvial e desenvolvem atividades ou serviços de transporte de cargas e/ou passageiros
+
+600
+
+---
+
+5.14.4.4
+
+Interior; trânsito internacional; deslocamento fluvial e desenvolvem atividades de esporte e recreio ou pesca
+
+600
+
+---
+
+5.14.4.5
+
+Mar aberto / cabotagem (trânsito exclusivamente nacional ); deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre e desenvolvem atividades ou serviços de transporte de cargas e/ou passageiros)
+
+600
+
+---
+
+5.14.4.6
+
+Mar aberto/Apoio marítimo (trânsito exclusivamente nacional)e deslocamentos marítimo, marítimo-fluvial ou marítimo-lacustre )
+
+600
+
+---
+
+5.14.4.7
+
+Mar aberto que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional) e deslocamentos marítimo, marítimo-fluvial ou marítimo lacustre)
+
+600
+
+---
+
+5.14.4.8
+
+Interior (trânsito exclusivamente nacional); deslocamentos marítimo ou marítimo-lacustre e atividades ou serviços de transporte de cargas e/ou de passageiros)
+
+600
+
+---
+
+5.14.4.9
+
+Interior (trânsito exclusivamente nacional; deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre e atividades ou serviços de transporte de cargas e/ou de passageiros)
+
+600
+
+---
+
+5.14.4. 10
+
+Interior de apoio portuário (trânsito exclusivamente nacional); deslocamentos marítimo ou marítimo-lacustre)
+
+600
+
+---
+
+5.14.4. 11
+
+Interior de apoio portuário (trânsito exclusivamente nacional; deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre)
+
+600
+
+---
+
+5.14.4. 12
+
+Interior que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional; deslocamentos marítimo ou marítimo-lacustre)
+
+600
+
+---
+
+5.14.4. 13
+
+Interior que desenvolvem outra atividade ou serviço (trânsito exclusivamente nacional e deslocamentos marítimo-fluvial, fluvial ou fluvial-lacustre)
+
+600
+
+---
+
+5.14.4. 14
+
+Mar aberto ou interior, que desenvolvem atividade de pesca, com saída e entrada entre portos distintos do território nacional
+
+600
+
+---
+
+5.14.4. 15
+
+Mar aberto ou interior, que desenvolvem atividade de pesca , com saída e retorno ao mesmo porto do território nacional e sem escalas intermediárias
+
+ISENTO
+
+---
+
+5.14.4.  16
+
+Interior que desenvolvem atividades de esporte e recreio com fins não comercial, em trânsitos municipal, intermunicipal ou interestadual
+
+ISENTO
+
+---
+
+5.14.4. 17
+
+Qualquer embarcação da Marinha do Brasil ou sob convite deste órgão, utilizadas para fins não comerciais
+
+ISENTO
+
+---
+
+6
+
+6.1
+
+Registro de saneantes
+
+6.1.1
+
+Produto de Grau de Risco II
+
+8.000
+
+Cinco anos
+
+6.2
+
+Alteração, inclusão ou isenção no registro de saneantes
+
+1.800
+
+---
+
+6.3
+
+Revalidação ou renovação de registro de saneantes
+
+6.3.1
+
+Produto de Grau de Risco II
+
+8.000
+
+Cinco anos
+
+6.4
+
+Certificação de Boas Práticas de Fabricação para cada estabelecimento ou unidade fabril/linha de produção de saneantes
+
+6.4.1
+
+No País e Mercosul
+
+6.4.1.1
+
+Certificação de boas práticas de fabricação e controle para cada estabelecimento ou unidade fabril, tipo de atividade e linha de produção/comercialização para indústrias de saneantes domissanitários
+
+15.000
+
+Anual
+
+6.4.2
+
+Outros países
+
+37.000
+
+Anual
+
+7
+
+7.1
+
+Autorização/Renovação de Funcionamento de empresas por estabelecimento / unidade fabril para cada tipo de atividade
+
+---
+
+---
+
+7.1.1
+
+Por estabelecimento fabricante de uma ou mais linhas de produtos para saúde (equipamentos, materiais e produtos para diagnóstico de uso "in vitro")
+
+10.000
+
+---
+
+7.1.2
+
+Distribuidora, Importadora, Exportadora, Transportadora, Armazenagem, Embalagem e Reembalagem e demais prevista em legislação específica de produtos para saúde
+
+8.000
+
+---
+
+7.1.3
+
+Por estabelecimento de comércio varejista de produtos para saúde
+
+5.000
+
+---
+
+7.2
+
+Certificação de Boas Práticas de Fabricação de produtos para saúde, para cada estabelecimento ou unidade fabril/linha de produção
+
+---
+
+---
+
+7.2.1
+
+No País e Mercosul
+
+---
+
+---
+
+7.2.1.1
+
+Certificação de Boas Praticas de Fabricação de produtos para saúde
+
+15.000
+
+Anual
+
+7.2.2
+
+Outros países
+
+37.000
+
+Anual
+
+7.3
+
+Certificação de Boas Práticas de Distribuição e Armazenagem de produtos para saúde / estabelecimento
+
+15.000
+
+Anual
+
+7.4
+
+Modificação ou acréscimo na certificação por inclusão de novo tipo de linha de produto (equipamento, materiais e produtos para diagnóstico de uso "in vitro")
+
+5.000
+
+---
+
+7.5
+
+Registro, revalidação ou renovação de registro de produtos para saúde
+
+7.5.1
+
+Equipamentos de grande porte para diagnóstico ou terapia, tais como medicina nuclear, tomografia computadorizada, ressonância magnética e cineangiocoro-nariografia, entre outros
+
+20.000
+
+Cinco anos
+
+7.5.2
+
+Outros equipamentos de médio e pequeno portes para diagnóstico ou terapia, artigos, materiais, produtos para diagnóstico de uso in-vitro e demais produtos para saúde
+
+8.000
+
+Cinco anos
+
+7.5.3
+
+Família de equipamentos de grande porte para diagnóstico ou terapia
+
+28.000
+
+Cinco anos
+
+7.5.4
+
+Família de equipamentos de médio e pequeno portes para diagnóstico ou terapia, artigos, materiais, reagentes de diagnóstico de uso in-vitro e demais produtos para saúde
+
+12.000
+
+Cinco anos
+
+7.6
+
+Alteração, inclusão ou isenção no registro de produtos para saúde
+
+1.800
+
+---
+
+7.7
+
+Emissão de certificado para exportação
+
+ISENTO
+
+---
+
+8
+
+8.1
+
+Avaliação toxicológica para fim de registro de produto
+
+8.1.1
+
+Produto Técnico de ingrediente ativo não registrado no país
+
+80.000
+
+Cinco anos
+
+8.1.2
+
+Produto Técnico de ingrediente ativo já registrado no país
+
+40.000
+
+Cinco anos
+
+8.1.3
+
+Produto Formulado
+
+40.000
+
+Cinco anos
+
+8.2
+
+Avaliação toxicológica para registro de componente
+
+40.000
+
+Cinco anos
+
+8.3
+
+Avaliação toxicológica para fim de Registro Especial Temporário
+
+25.000
+
+Cinco anos
+
+8.4
+
+Reclassificação Toxicológica
+
+25.000
+
+Cinco anos
+
+8.5
+
+Reavaliação de registro de produto, conforme Decreto nº 991/93
+
+25.000
+
+Cinco anos
+
+8.6
+
+Avaliação toxicológica para fim de Inclusão de Cultura
+
+25.000
+
+---
+
+8.7
+
+Alteração de dose
+
+8.7.1
+
+Alteração de dose para maior na aplicação
+
+25.000
+
+---
+
+8.8
+
+Alteração de dose para menor na aplicação
+
+ISENTO
+
+---
+
+9
+
+9.1
+
+Registro, revalidação ou renovação de registro de fumígenos
+
+100.000
+
+Anual
+
+10
+
+Anuência para veicular publicidade contendo alerta à população, no prazo e nas condições indicados pela autoridade sanitária
+
+10.000
+
+---
+
+11
+
+Anuência em processo de pesquisa clínica
+
+10.000
+
+---
+
+12
+
+Alteração ou acréscimo na Autorização de Funcionamento
+
+4.000
+
+---
+
+13
+
+Substituição de representante legal, responsável técnico ou cancelamento de autorização
+
+ISENTO
+
+---
+
+14
+
+Certidão, atestado e demais atos declaratórios
+
+1.800
+
+---
+
+15
+
+Desarquivamento de processo e segunda via de documento
+
+1.800
+
+---
 
 Notas:
 

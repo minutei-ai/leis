@@ -1,5 +1,3 @@
-###DEC-091271-0-000-29-05-1985@@@
-
 DECRETO nº 91.271, de 29 de maio de 1985
 
 Veda a concessão, por entidades estatais, de aval, fiança ou outras garantias.

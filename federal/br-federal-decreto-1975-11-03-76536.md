@@ -1,5 +1,3 @@
-###DEC-076536-0-000-03-11-1975@@@
-
 DECRETO Nº 76.536, DE 3 DE NOVEMBRO DE 1975.
 
 Dispõe sobre o exame médico de cidadãos de nacionalidade portuguesa para entrada e permanência no território nacional.

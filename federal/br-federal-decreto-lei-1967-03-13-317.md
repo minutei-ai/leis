@@ -1,5 +1,3 @@
-###DEL-000317-0-000-13-03-1967@@@
-
 decreto-lei nº 317, de 13 de março de 1967
 
 Reorganiza as Polícias e os Cargos de Bombeiros Militares dos Estagiados, dos Territórios e do Distrito Federal e dá outras providências.

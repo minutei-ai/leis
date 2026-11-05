@@ -1,5 +1,3 @@
-###DEC-074532-0-000-11-09-1974@@@
-
 DECRETO Nº 74.532, DE 11 DE SETEMBRO DE 1974.
 
 Revoga o Decreto nº 42.045, de 14 de agosto de 1957, que outorga concessão ao Instituto Tecnológico da Aeronáutica para estabelecer uma estação radiodifusora, em São José dos Campos - Estado de São Paulo.

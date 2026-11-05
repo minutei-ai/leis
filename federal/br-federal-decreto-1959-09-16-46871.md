@@ -1,5 +1,3 @@
-###DEC-046871-0-000-16-09-1959@@@
-
 decreto nº 46.871, de 16 de setembro de 1959.
 
 Altera o Regulamento para a Escola da Marinha Mercante do Pará.

@@ -1,5 +1,3 @@
-###DEC-068965-0-000-22-07-1971@@@
-
 Decreto Nº 68.965, DE 22 DE JUlHO DE 1971.
 
 Concede à Mineração Matheus Leme Ltda. o direito de lavrar argila no município de São Simão, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-053356-0-000-27-12-1963@@@
-
 DECRETO Nº 53.356, DE 27 DE DEZEMBRO DE 1963.
 
 Retifica nas partes que menciona, o Regulamento do Conselho Superior da Previdência Social, aprovado pelo Decreto nº 694, de 14 de março de 1962.

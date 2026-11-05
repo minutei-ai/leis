@@ -1,5 +1,3 @@
-###DEC-050346-0-000-16-03-1961@@@
-
 Decreto Nº 50.346, DE 16 DE MARÇO DE 1961.
 
 Dispõe sôbre a jornada de trabalho para servidores de repartições situadas em cidades que especifica.

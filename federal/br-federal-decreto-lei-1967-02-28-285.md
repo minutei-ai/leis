@@ -1,5 +1,3 @@
-###DEL-000285-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 285, DE 28 FEVEREIRO DE 1967
 
 Dispõe sôbre o tratamento fiscal das pessoas jurídicas nos casos de fusão ou incorporação considerados de interêsse para a economia nacional.

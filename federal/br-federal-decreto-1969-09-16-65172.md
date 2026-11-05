@@ -1,5 +1,3 @@
-###DEC-065172-0-000-16-09-1969@@@
-
 DECRETO Nº 65.172 - DE 16 DE SETEMBRO DE 1969.
 
 Dispõe sôbre o enquadramento de servidores da extinta Comissão Mista Ferroviária Brasileiro-Boliviana aproveitados no antigo Ministério da Viação e Obras Públicas pelo Decreto nº 52.588-A de 30 de setembro de 1963, alterado pelo Decreto nº 54.131, de 14 de agôsto de 1964.

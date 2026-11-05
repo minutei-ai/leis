@@ -1,5 +1,3 @@
-###DEC-082661-0-000-16-11-1978@@@
-
 DECRETO Nº 82.661, DE 16 DE NOVEMBRO DE 1978.
 
 Retifica a concessão de lavra outorgada à Itapessoca Agro-Indústrial S.A. pelo Decreto nº 81.056, de 19 de dezembro de 1977.

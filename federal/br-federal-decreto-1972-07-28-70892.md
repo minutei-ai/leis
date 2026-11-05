@@ -1,5 +1,3 @@
-###DEC-070892-0-000-28-07-1972@@@
-
 DECRETO Nº 70.892, DE 28 DE JULHO DE 1972.
 
 Dispõe sobre a participação de servidores públicos nos programas universitários dos Centros Rurais Universitários de Treinamento e Ação Comunitária (CRUTAC).

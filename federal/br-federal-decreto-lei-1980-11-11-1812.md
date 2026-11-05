@@ -1,5 +1,3 @@
-###DEL-001812-0-000-11-11-1980@@@
-
 # Decreto-lei nº 1.812, de 11 de novembro de 1980
 
 Dispõe sobre recursos da União, estranhos ao Fundo Federal de Eletrificação e dá outras providências.

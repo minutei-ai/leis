@@ -1,5 +1,3 @@
-###DEC-082347-0-000-02-10-1978@@@
-
 DECRETO nº 82 347 de 02 de outubro de 1978
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Codó, Estado do Maranhão.
@@ -21,8 +19,6 @@ ERNESTO GEISEL
 Mário Henrique Simonsen
 
 Alysson Paulinelli
-
-###DEC-082347-0-000-02-10-1978@@@RET01+++
 
 Decreto nº 82.347, DE 2 DE OUTUBRO DE 1978
 

@@ -25,7 +25,3 @@ Art. 6º – Esta lei complementar entra em vigor na data de sua publicação.
 Belo Horizonte, aos 17 de setembro de 2021; 233º da Inconfidência Mineira e 200º da Independência do Brasil.
 
 ROMEU ZEMA NETO
-
-\============================================================
-
-Data da última atualização: 12/5/2025.

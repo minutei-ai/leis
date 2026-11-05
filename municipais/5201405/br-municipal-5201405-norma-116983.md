@@ -18,8 +18,10 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito de Aparecida de Goiânia-GO, 02 de Agosto de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

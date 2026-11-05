@@ -1,5 +1,3 @@
-###DEC-068980-0-000-23-07-1971@@@
-
 DECRETO Nº 68.980, DE 23 DE JULHO DE 1971.
 
 Autorização para funcionamento do curso de Relações Públicas da Faculdade de Ciências Econômicas, Contábeis e Administração de Emprêsas "Piracicabana" - SP.

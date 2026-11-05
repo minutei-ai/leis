@@ -1,5 +1,3 @@
-###DEC-084362-0-000-31-12-1979@@@
-
 Decreto nº 84.362 de 31 de dezembro de 1979.
 
 Dispõe sobre a estrutura de controle interno aplicável a recursos de qualquer natureza, estabelece novos instrumentos de fiscalização e acompanhamento da despesa pública e dá outras providências.

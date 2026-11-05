@@ -1,5 +1,3 @@
-###DEL-000137-0-000-02-02-1967@@@
-
 DECRETO-LEI Nº 137,DE 2 de FEVEREIRO DE 1967
 
 Dispõe sôbre a política de consolidação do Distrito Federal, cria a Coordenação do Desenvolvimento de Brasília (CODEBRÁS); extingue o Grupo de Trabalho de Brasília - G.T.B. e dá outras providências.

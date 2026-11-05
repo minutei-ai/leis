@@ -1,5 +1,3 @@
-###DEC-048374-0-000-22-06-1960@@@
-
 DECRETO Nº 48.374, DE 22 DE JUNHO DE 1960.
 
 Concede à M. Dedini S.A. Metalúrgica autorização para funcionar como emprêsa de mineração.

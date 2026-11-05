@@ -1,5 +1,3 @@
-###DEC-064294-0-000-31-03-1969@@@
-
 DECRETO Nº 64.294, DE 31 de março DE 1969.
 
 Cria o Grupo Especial de Ação Coordenada do Govêrno Federal no Estado de Santa Catarina.

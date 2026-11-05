@@ -1,5 +1,3 @@
-###DEC-007376-0-000-01-12-2010-PUB-01@@@
-
 DECRETO Nº  7.376, DE 1º DE DEZEMBRO DE 2010
 
 Cria a Embaixada do Brasil em Tarawa, na República de Kiribati, cumulativa com a Embaixada em Wellington.

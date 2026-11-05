@@ -1,5 +1,3 @@
-###DEL-007015-0-000-03-11-1944@@@
-
 DECRETO-LEI N. 7.015 – DE 3 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 202.668,00 para cumprimento de precatório do Juízo da 6ª Vara Cível

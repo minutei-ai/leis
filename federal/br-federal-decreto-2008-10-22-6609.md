@@ -1,5 +1,3 @@
-###DEC-006609-0-000-22-10-2008@@@
-
 DECRETO Nº 6.609, DE 22 DE OUTUBRO DE 2008.
 
 Altera o Decreto no 6.490, de 19 de junho de 2008, que regulamenta os arts. 8o\-D e 8o\-E da Lei no 11.530, de 24 de outubro de 2007, que institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI.

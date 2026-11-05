@@ -1,5 +1,3 @@
-###DEC-090976-0-000-22-02-1985@@@
-
 DECRETO Nº 90.976, de 22 de fevereiro de 1985
 
 Outorga concessão à SOCIEDADE RÁDIO RURAL DE RINÓPOLIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Rinópolis Estado de São Paulo.

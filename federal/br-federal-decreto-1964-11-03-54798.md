@@ -1,5 +1,3 @@
-###DEC-054798-0-000-03-11-1964@@@
-
 DECRETO Nº 54.798, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Antônio Boim a pesquisar água mineral, no município de João Ramalho, Estado de São Paulo.

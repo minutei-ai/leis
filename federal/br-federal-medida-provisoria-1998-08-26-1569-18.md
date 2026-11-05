@@ -1,5 +1,3 @@
-###MPV-001569-0-018-26-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.569-18, DE 26 DE AGOSTO DE 1998
 
 Estabelece multa em operações de importação e dá outras providências.

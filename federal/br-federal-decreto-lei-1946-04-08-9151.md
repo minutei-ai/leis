@@ -1,5 +1,3 @@
-###DEL-009151-0-000-08-04-1946@@@
-
 DECRETO-LEl N. 9.151 – DE 8 DE ABRIL DE 1946
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 3.584,00, para pagamento de salário de diaristas.

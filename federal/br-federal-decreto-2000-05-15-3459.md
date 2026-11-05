@@ -1,5 +1,3 @@
-###DEC-003459-0-000-15-05-2000@@@
-
 Decreto nº 3.459, de 15 de maio de 2000.
 
 Delega competência ao Ministro de Estado da Justiça para a prática do ato que especifica.

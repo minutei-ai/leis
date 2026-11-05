@@ -1,5 +1,3 @@
-###DEC-059651-0-000-02-12-1966@@@
-
 decreto nº 59.651, de 02 de dezembro de 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$5.000.000.000 para atender despesas com a conclusão de edifícios necessários à instalação do Itamaty em Brasília.

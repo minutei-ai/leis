@@ -1,5 +1,3 @@
-###DEC-053222-0-000-12-12-1963@@@
-
 DECRETO Nº 53.222, DE 12 DE DEZEMBRO DE 1963
 
 Autoriza a Companhia Siderúrgica Paulista COSIPA, a pesquisar calcário, no município de Salto de Pirapora, Estado de São Paulo.

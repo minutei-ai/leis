@@ -1,5 +1,3 @@
-###MPV-001826-0-000-21-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.826, DE 21 DE MAIO DE 1999.
 
 Institui o Programa Emergencial de Combate aos Efeitos da Seca, autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor da Presidência da República, crédito extraordinário no valor de R$165.000.000,00, para os fins que especifica, e dá outras providências.

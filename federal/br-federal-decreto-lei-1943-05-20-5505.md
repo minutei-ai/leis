@@ -1,5 +1,3 @@
-###DEL-005505-0-000-20-05-1943@@@
-
 DECRETO-LEI N. 5.505 – DE 20 DE MAIO DE 1943
 
 Estabelece a forma de desconto das importâncias para subscrição compulsória das "Obrigações de Guerra” pelos segurados dos Institutos e Caixas de Aposentadoria e Pensões, e dá outras providências
@@ -53,7 +51,5 @@ A. de Souza Costa.
 Alexandre Marcondes Filho.
 
 <<ANEXO>>CLBR Vol. 03 Ano 1943 Pág. 169 Tabela 1.
-
-<br>
 
 ANEXO TABELA

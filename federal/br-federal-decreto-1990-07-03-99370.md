@@ -1,7 +1,3 @@
-1
-
-###DEC-099370-0-000-03-07-1990@@@
-
 # DECRETO N° 99.370, DE 3 DE JULHO DE 1990
 
 Revoga o inciso II do art. 10 do Decreto n° 70.951, de 9 de agosto de 1972.

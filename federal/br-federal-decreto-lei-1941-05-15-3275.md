@@ -1,5 +1,3 @@
-###DEL-003275-0-000-15-05-1941@@@
-
 DECRETO-LEI N. 3.275 – DE 15 DE MAIO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 45:273$4, para despesas decorrentes de desapropriação

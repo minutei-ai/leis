@@ -1,5 +1,3 @@
-###DEC-055555-0-000-14-01-1965@@@
-
 DECRETO nº 55.555, DE 14 DE JANEIRO DE 1965.
 
 Cria no Departamento dos Correios e Telégrafos, a Seção Regional de Telex de Santo André, na cidade do mesmo nome, no Estado de São Paulo.

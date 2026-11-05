@@ -1,5 +1,3 @@
-###DEC-093151-0-000-21-08-1986@@@
-
 DECRETO Nº 93.151, DE 21 DE AGOSTO DE 1986.
 
 Revoga o Decreto nº 93.080, de 07 de agosto de 1986, que autorizou pesquisa do navio de bandeira norte-americana "RESEARCHER" em águas jurisdicionais brasileiras.

@@ -48,7 +48,8 @@ Art. 7º - Caberá à Diretoria Executiva representar a Autarquia em juízo ou f
 
 Parágrafo único - O exame jurídico dos processos administrativos de regularização fundiária será procedido pela Procuradoria Jurídica do INTERBA e a representação em Juízo, quando envolva interesses patrimoniais do Estado, far-se-á, na Comarca de Salvador, por intermédio da Procuradoria Geral do Estado e, por delegação desta, nas demais Comarcas, pelo representante do Ministério Público, em ambos os casos com assistência do INTERBA.
 
-Redação de acordo com a Lei nº 3.804, de 17 de junho de 1980.<br>
+Redação de acordo com a Lei nº 3.804, de 17 de junho de 1980.
+
 Redação original: "Parágrafo único - A representação em juízo e o exame jurídico dos processos administrativos de regularização fundiária serão realizados através da Procuradoria Jurídica da Autarquia."
 
 Art. 8º - Fica o Poder Executivo autorizado a:
@@ -59,7 +60,8 @@ II - praticar os atos regulamentares, regimentais ou estatutários que decorram,
 
 Art. 9º - O INTERBA intervirá, como assistente do Estado, em todas as ações discriminatórias de terras devolutas, de usucapião e de retificação de registros imobiliários.
 
-Redação de acordo com a Lei nº 3.804, de 17 de junho de 1980.<br>
+Redação de acordo com a Lei nº 3.804, de 17 de junho de 1980.
+
 Redação original: "Art. 9º - A Autarquia terá participação efetiva em todos os processos de usucapião e retificação de registro imobiliário, bem como poderes para promover ações discriminatórias de terras devolutas do Estado."
 
 Art. 10 - Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.

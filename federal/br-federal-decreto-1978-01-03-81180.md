@@ -1,5 +1,3 @@
-###DEC-081180-0-000-03-01-1978@@@
-
 Decreto nº 81 180, de 3 de janeiro de1978.
 
 Concede reconhecimento ao curso de Formação de Professores para as Disciplinas de Formação Especial de Ensino de 2º grau, da Universidade Estadual de Ponta Grossa, com sede na cidade de Ponta Grossa, Estado do Paraná.

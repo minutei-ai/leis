@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e003f3b0-746f-48ee-a522-4f6bb1bdc883/texto#nowhere)
 
-###DEL-000864-0-000-12-09-1969@@@
-
 DECRETO-LEI Nº 864, DE 12 DE SETEMBRO DE 1969
 
 Altera o artigo 2º do Decreto-Legislativo nº 18, de 15 de dezembro de 1961, e dá outras providências.

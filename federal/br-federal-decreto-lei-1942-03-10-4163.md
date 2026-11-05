@@ -1,5 +1,3 @@
-###DEL-004163-0-000-10-03-1942@@@
-
 DECRETO-LEI N. 4.163 – DE 10 DE MARÇO DE 1942
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 2.323:000$0 à verba que especifica

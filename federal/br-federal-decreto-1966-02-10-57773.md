@@ -1,5 +1,3 @@
-###DEC-057773-0-000-10-02-1966@@@
-
 DECRETO Nº 57.773, DE 10 DE FEVEREIRO DE 1966.
 
 Aprova o Aditivo ao Regulamento de Embarques para a safra 1965-1966.

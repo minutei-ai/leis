@@ -1,5 +1,3 @@
-###DEC-054194-0-000-24-08-1964@@@
-
 DECRETO Nº 54.194, DE 24 DE AGÔSTO DE 1964.
 
 Autoriza o cidadão brasileiro José Ferreira da Silva a pesquisar água mineral no município de Santo Antonio de Pádua, Estado do Rio de Janeiro.

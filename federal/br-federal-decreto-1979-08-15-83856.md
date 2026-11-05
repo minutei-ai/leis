@@ -1,5 +1,3 @@
-###DEC-083856-0-000-15-08-1979@@@
-
 Decreto nº 83.865 de 25 de agosto de 1979.
 
 Atribui competência ao Ministro da Fazenda para a prática dos atos que menciona.

@@ -1,5 +1,3 @@
-###DEC-055765-0-000-17-02-1965@@@
-
 DECRETO Nº 55.765, DE 17 DE FEVEREIRO DE 1965.
 
 Dá nova redação ao art. 3º do Decreto nº 1.884, de 17 de dezembro de 1962.

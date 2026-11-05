@@ -1,5 +1,3 @@
-###DEC-055434-0-000-31-12-1964@@@
-
 DECRETO Nº 55.434, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Milton Resende a pesquisar feldspato no município de Piau, Estado de Minas Gerais.

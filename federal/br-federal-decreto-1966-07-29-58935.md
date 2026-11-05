@@ -1,5 +1,3 @@
-###DEC-058935-0-000-29-07-1966@@@
-
 DECRETO Nº 58.935, DE 29 DE JULHO DE 1966.
 
 Autoriza a Companhia de Mineração Rosicler a pesquisar areia quartizosa, no município de Itirapina Estado de São Paulo.

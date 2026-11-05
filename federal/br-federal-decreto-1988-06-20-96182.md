@@ -1,5 +1,3 @@
-###DEC-096182-0-000-20-06-1988@@@
-
 DECRETO N° 96.182, DE 20 DE JUNHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área adjacente de terra, necessária à ampliação da estação transformadora de distribuição Cruzeiro, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

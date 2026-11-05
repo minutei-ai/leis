@@ -1,5 +1,3 @@
-###DEC-067015-0-000-06-08-1970@@@
-
 DECRETO Nº 67.015, DE 6 DE AGÔSTO DE 1970.
 
 Decreta Intervenção Federal no Município de Sabará, no Estado de Minas Gerais, e dá outras providências.

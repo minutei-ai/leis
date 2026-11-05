@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211801)<br>
-
 # LEI N° 18.314, DE 11 DE NOVEMBRO DE 2025
 
 ## (Projeto de lei n° 629/2024, da Deputada Leci Brandão - PCdoB)

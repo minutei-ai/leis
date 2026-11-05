@@ -1,5 +1,3 @@
-###DEC-060116-0-000-23-01-1967@@@
-
 Decreto nº 60.116, de 23 de Janeiro de 1967.
 
 Declara de utilidade pública o imóvel que menciona, na cidade Barbacena, Estado de Minas Gerais.

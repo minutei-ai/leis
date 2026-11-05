@@ -1,5 +1,3 @@
-###DEC-050453-0-000-13-04-1961@@@
-
 Decreto nº 50.453, de 13 de abril de 1961.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional a empréstimo a ser realizado pela Rêde Ferroviária Federal S.A.

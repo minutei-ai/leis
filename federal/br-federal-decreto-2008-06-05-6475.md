@@ -1,5 +1,3 @@
-###DEC-006475-0-000-05-06-2008@@@
-
 DECRETO Nº 6.475, DE 5 DE JUNHO DE 2008.
 
 Promulga o Acordo da CPLP sobre Concessão de Vistos de Múltiplas Entradas para Determinadas Categorias de Pessoas, assinado em Brasília, em 30 de julho de 2002.
@@ -24,11 +22,7 @@ Brasília, 5 de junho de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 6.6.2008
-
-ACORDO SOBRE CONCESSÃO DE VISTOS DE MÚLTIPLAS ENTRADAS
+Samuel Pinheiro Guimarães NetoACORDO SOBRE CONCESSÃO DE VISTOS DE MÚLTIPLAS ENTRADAS
 
 PARA DETERMINADAS CATEGORIAS DE PESSOAS
 

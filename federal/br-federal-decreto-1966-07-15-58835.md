@@ -1,5 +1,3 @@
-###DEC-058835-0-000-15-07-1966@@@
-
 DECRETO nº 58.835, DE 15 DE JULHO DE 1966.
 
 Torna sem efeito o Decreto nº 52.712, de 21 de outubro de 1963.

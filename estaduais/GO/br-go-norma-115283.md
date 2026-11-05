@@ -22,8 +22,10 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 12 de junho de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-ROSÂNGELA REZENDE<br>
+ROSÂNGELA REZENDE
+
 Deputada Estadual

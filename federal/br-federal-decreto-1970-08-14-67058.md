@@ -1,5 +1,3 @@
-###DEC-067058-0-000-14-08-1970@@@
-
 DECRETO Nº 67.058, DE 14 DE AGÔSTO DE 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona, situado no Município de Jacarezinho, no Estado do Paraná.

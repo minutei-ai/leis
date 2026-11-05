@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211157)<br>
-
 # LEI N° 18.167, DE 08 DE JULHO DE 2025
 
 ## (Projeto de lei n° 1023/2023, das Deputadas Clarice Ganem - PODE e Andréa Werner- PSB)

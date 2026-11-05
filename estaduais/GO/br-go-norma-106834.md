@@ -2,9 +2,10 @@ LEI Nº 21.809, DE 14 DE MARÇO DE 2023
 
 Institui, no Estado de Goiás, o Programa Família Acolhedora Goiana para crianças e adolescentes afastados do convívio familiar por decisão judicial.
 
-<br>
-\- [Vide Decreto nº 10.831](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111751), de 09-12-2025 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2026.<br>
-\- [Vide Decreto nº 10.594](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110117), de 10-12-2024 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2025.<br>
+\- [Vide Decreto nº 10.831](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111751), de 09-12-2025 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2026.
+
+\- [Vide Decreto nº 10.594](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110117), de 10-12-2024 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2025.
+
 \- [Vide Decreto nº 10.377](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108291/decreto-10377), de 27-12-2023 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2024.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
@@ -269,9 +270,12 @@ Art. 29. O Poder Executivo deverá, no que for necessário, regulamentar esta Le
 
 Art. 30. Para o exercício de 2023, o Chefe do Poder Executivo fica autorizado a abrir à SEDS crédito especial no Orçamento-Geral do Estado, conforme está estabelecido no Anexo Único desta Lei, no valor de R$ 2.000.000,00 (dois milhões de reais), por se tratar de despesa não prevista nele e sem dotação orçamentária específica.
 
-Art. 31. A continuidade do programa dependerá da renovação anual por decreto do Chefe do Poder Executivo e da existência de dotação orçamentária e disponibilidade financeira.<br>
-\- [Vide Decreto nº 10.831](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111751), de 09-12-2025 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2026.<br>
-\- [Vide Decreto nº 10.594](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110117), de 10-12-2024 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2025.<br>
+Art. 31. A continuidade do programa dependerá da renovação anual por decreto do Chefe do Poder Executivo e da existência de dotação orçamentária e disponibilidade financeira.
+
+\- [Vide Decreto nº 10.831](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111751), de 09-12-2025 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2026.
+
+\- [Vide Decreto nº 10.594](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110117), de 10-12-2024 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2025.
+
 \- [Vide Decreto nº 10.377](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108291/decreto-10377), de 27-12-2023 - Prorroga a vigência do Programa Família Acolhedora Goiana para o exercício de 2024.
 
 Art. 32. Esta Lei entra em vigor na data de sua publicação.

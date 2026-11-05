@@ -1,5 +1,3 @@
-###DEC-001983-0-000-14-08-1996@@@
-
 DECRETO Nº 1.983, DE 14 DE AGOSTO DE 1996.
 
 Institui, no âmbito do Departamento de Polícia Federal do Ministério da Justiça e da Diretoria-Geral de Assuntos Consulares, Jurídicos e de Assistência a Brasileiros no Exterior do Ministério das Relações Exteriores, o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro (PROMASP), e aprova o Regulamento de Documentos de Viagem.

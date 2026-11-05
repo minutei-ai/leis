@@ -1,5 +1,3 @@
-###DEC-067027-0-000-07-08-1970@@@
-
 decreto nº 67.027, de 7 de agôsto de 1970.
 
 Anula os efeitos do Decreto nº 63.047, de 29 de julho de 1968, que alterou enquadramento aprovado pelo Decreto nº 51.633, de 19 de dezembro de 1962.

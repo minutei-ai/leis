@@ -1,5 +1,3 @@
-###DEC-046423-0-000-14-07-1959@@@
-
 DECRETO Nº 46.423, DE 14 DE JULHO DE 1959.
 
 Altera a redação de dispositivos do Regulamento para o quadro de Oficiais Auxiliares da Marinha.

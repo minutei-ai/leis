@@ -1,5 +1,3 @@
-###DEC-054288-0-000-16-09-1964@@@
-
 DECRETO Nº 54.288, DE 16 DE SETEMBRO DE 1964.
 
 Concede à Companhia Cervejaria Caracú autorização para funcionar como emprêsa de mineração.

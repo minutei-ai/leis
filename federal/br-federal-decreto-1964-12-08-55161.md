@@ -1,5 +1,3 @@
-###DEC-055161-0-000-08-12-1964@@@
-
 DECRETO Nº 55.161, DE 8 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre promoções na série de Classe de Agente Fiscal do Impôsto de Renda, do Ministério da Fazenda.

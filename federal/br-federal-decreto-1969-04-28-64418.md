@@ -1,5 +1,3 @@
-###DEC-064418-0-000-28-04-1969@@@
-
 Decreto Nº 64.418, DE 28 DE ABRIL DE 1969.
 
 Declara de utilidade pública, para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a estrutura número BR-305 da linha de transmissão Mogi Guaçu - Mogi Mirim - Bragança Paulista e a sede do município de Itapira, Estado de São Paulo.

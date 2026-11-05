@@ -1,5 +1,3 @@
-###DEL-000176-0-000-15-02-1967@@@
-
 DECRETO-LEI Nº 176, DE 15 DE FEVEREIRO DE 1967
 
 Modifica o § 1º do art. 28 do Decreto-lei nº 81, de 21 de dezembro de 1966 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003823-0-000-28-05-2001@@@
-
 DECRETO Nº 3.823, DE 28 DE MAIO DE 2001
 
 Aprova o Regulamento do Programa Nacional de Renda Mínima vinculado à educação - "Bolsa Escola", e dá outras providências.
@@ -407,10 +405,6 @@ Pedro Malan
 Paulo Renata Souza
 
 Martus Tavares
-
-<br>
-
-<br>
 
 ANEXO
 

@@ -1,5 +1,3 @@
-###DEC-078060-0-000-15-07-1976@@@
-
 DECRETO Nº 78.060, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na Cidade de Guarulhos, Estado de São Paulo.

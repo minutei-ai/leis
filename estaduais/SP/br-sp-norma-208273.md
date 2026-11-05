@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208273)<br>
-
 # LEI N° 17.722, DE 11 DE JULHO DE 2023
 
 ## (Projeto de lei n° 608, de 2023, do Deputado Caio França - PSB)

@@ -1,5 +1,3 @@
-###DEL-009736-0-000-04-09-1946@@@
-
 DECRETO-LEI N. 9.736 – DE 4 DE SETEMBRO DE 1946
 
 Fixa o  número de Generais de Exército, Almirante de Esquadra e Tenente Brigadeiro e dá outras providências.

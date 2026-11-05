@@ -1,5 +1,3 @@
-###DEC-047025-0-000-14-10-1959@@@
-
 Decreto nº 47.025, de 14 de outubro de 1959.
 
 Declara sem efeito o Decreto número 37.733, de 9 de agôsto de 1955.

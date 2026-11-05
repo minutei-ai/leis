@@ -1,5 +1,3 @@
-###DEC-085134-0-000-15-09-1980@@@
-
 DECRETO Nº 85.134, DE 15 DE SETEMBRO DE 1980
 
 Altera o Decreto nº 84.067 de 08 Out 79 que cria a secretaria Especial de Informática e o Decreto n.º 84.266 de 05 Dez 79 que dispõe a estrutura básica da Secretária Especial de Informática (SEI).

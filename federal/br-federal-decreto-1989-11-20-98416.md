@@ -1,7 +1,3 @@
-1
-
-###DEC-098416-0-000-20-11-1989@@@
-
 DECRETO Nº 98.416, DE 20 DE NOVEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Econômicas de Araçatuba.

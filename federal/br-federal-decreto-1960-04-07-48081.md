@@ -1,5 +1,3 @@
-###DEC-048081-0-000-07-04-1960@@@
-
 DECRETO Nº 48.081, DE 7 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro Ari Machado a pesquisar mica e pedras coradas no município de Galiléia, Estado de Minas Gerais.

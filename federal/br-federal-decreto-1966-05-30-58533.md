@@ -1,5 +1,3 @@
-###DEC-058533-0-000-30-05-1966@@@
-
 DECRETO Nº 58.533, DE 30 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Gustavo Adolfo Frank a pesquisar diatomita, mármore e esmeralda no município de Vitória da Conquista, Estado da Bahia.

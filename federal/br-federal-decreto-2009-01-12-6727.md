@@ -1,5 +1,3 @@
-###DEC-006727-0-000-12-01-2009@@@
-
 DECRETO Nº 6.727, DE 12 DE JANEIRO DE 2009.
 
 Revoga a alínea “f” do inciso V do § 9o do art. 214, o art. 291 e o inciso V do art. 292 do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.

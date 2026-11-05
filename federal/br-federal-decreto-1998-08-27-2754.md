@@ -1,5 +1,3 @@
-###DEC-002754-0-000-27-08-1998@@@
-
 DECRETO Nº 2.754, DE 27 DE AGOSTO DE 1998
 
 Promulga o Protocolo Adicional à Convenção Americana sobre Direitos Humanos Referente à Abolição da Pena de Morte, adotado em Assunção, em 8 de junho de 1990, e assinado pelo Brasil em 7 de junho de 1994.

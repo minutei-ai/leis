@@ -1,5 +1,3 @@
-###DEL-005153-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.153 – DE 31 DE DEZEMBRO DE 1942
 
 Autoriza a desapropriação de lotes ou áreas de terras nos Núcleos Coloniais

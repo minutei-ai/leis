@@ -1,5 +1,3 @@
-###DEC-071640-0-000-29-12-1972@@@
-
 Decreto nº 71.640 - de 29 de dezembro de 1972
 
 Concede à Empresa de Mineração Paraíso Ltda. o direito de lavrar caulim no município de Caraí, Estado de Minas Gerais.

@@ -94,8 +94,6 @@ Art. 10. Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 15 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -106,7 +104,8 @@ ANEXO I
 
 (Altera o Anexo I da [Lei Complementar nº 25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023/lei-complementar-025), de 06 de julho de 1998)
 
-"Anexo I<br>
+"Anexo I
+
 Quadro da Carreira do Ministério Público - [LC nº 25/98](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023/lei-complementar-025)
 
 | Cargo | Quantitativo |
@@ -122,7 +121,8 @@ ANEXO II
 
 (Altera o Anexo V da [Lei Complementar nº 103](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101090/lei-complementar-103), de 1º de outubro de 2013)
 
-"Anexo V<br>
+"Anexo V
+
 Quadro de cargos em comissão - [LC 103](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101090/lei-complementar-103)/2003
 
 | Cargo | Remuneração (símbolo) | Quantitativo |

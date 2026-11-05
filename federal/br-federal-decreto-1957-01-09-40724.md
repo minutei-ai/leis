@@ -1,18 +1,16 @@
-###DEC-040724-0-000-09-01-1957@@@
+**DECRETO Nº 40.724, DE 9 DE JANEIRO DE 1957.**
 
-<strong>DECRETO Nº 40.724, DE 9 DE JANEIRO DE 1957.</strong>
+***Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão de 66 kv da Companhia Hidro Elétrica do São Francisco de Angelim a Caruaru.***
 
-<em><strong>Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão de 66 kv da Companhia Hidro Elétrica do São Francisco de Angelim a Caruaru.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no artigo 151, letras “*b*” e “*c*” do Código de Águas, e no Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidro Elétrica do São Francisco,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no artigo 151, letras “<em>b</em>” e “<em>c</em>” do Código de Águas, e no Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidro Elétrica do São Francisco,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É declarada de utilidade pública a faixa de terra, destinada à passagem, aérea ou subterrânea, da linha de transmissão de energia elétrica de 66 kv da Companhia Hidro Elétrica do São Francisco, com 550 metros de largura, de Angelim Pernambuco, no km 0, a Caruaru, Pernambuco, no km 81 mais 523m.
 
-<strong>Art</strong>. 1º É declarada de utilidade pública a faixa de terra, destinada à passagem, aérea ou subterrânea, da linha de transmissão de energia elétrica de 66 kv da Companhia Hidro Elétrica do São Francisco, com 550 metros de largura, de Angelim Pernambuco, no km 0, a Caruaru, Pernambuco, no km 81 mais 523m.
+**Art**. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes da planta aprovada pelo Ministério da Agricultura em 27 de abril de 1956. *Diário Oficial* de 24 de maio de 1956 situadas no Estado de Pernambuco, de propriedade atribuída às pessoas abaixo relacionadas na ordem em que se encontram ao longo do traçado da linha.
 
-<strong>Art</strong>. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes da planta aprovada pelo Ministério da Agricultura em 27 de abril de 1956. <em>Diário Oficial</em> de 24 de maio de 1956 situadas no Estado de Pernambuco, de propriedade atribuída às pessoas abaixo relacionadas na ordem em que se encontram ao longo do traçado da linha.
-
-<em>MUNICÍPIO DE ANGELIN, PERNAMBUCO</em>
+*MUNICÍPIO DE ANGELIN, PERNAMBUCO*
 
 1\) Área de 24.250 (vinte e quatro mil duzentos e cinqüenta) m<sup>2</sup>, de João Salgueiro da Silva.
 
@@ -68,7 +66,7 @@
 
 27\) Área de 10.000 (dez mil) m<sup>2</sup>, de João Sérgio Lopes.
 
-<em>MUNICÍPIO DE CANHOTINHO, PERNAMBUCO</em>
+*MUNICÍPIO DE CANHOTINHO, PERNAMBUCO*
 
 28\) Área de 27.000 (vinte e sete mil) m<sup>2</sup>, de Antônio Salgado de Azevedo.
 
@@ -154,7 +152,7 @@
 
 69\) Área de 56.500 (cinqüenta e seis mil e quinhentos) m<sup>2</sup>, de Manuel Correia de Souza.
 
-<em>MUNICÍPIO DE LAGEDO, PERNAMBUCO</em>
+*MUNICÍPIO DE LAGEDO, PERNAMBUCO*
 
 70\) Área de 5.000 (cinco mil) m<sup>2</sup>, de Abílio Couto Oliveira.
 
@@ -272,7 +270,7 @@
 
 127\) Área de 25.750 (vinte e cinco mil e setecentos e cinquenta) m², de Manuel Bento do Amaral.
 
-<em>MUNICÍPIO DE SÃO BENTO DO UNA, PERNAMBUCO</em>
+*MUNICÍPIO DE SÃO BENTO DO UNA, PERNAMBUCO*
 
 128\) Área de 47.750 (quarenta e sete mil setecentos e cinquenta) m², da Santa Casa da Misericórdia.
 
@@ -330,7 +328,7 @@
 
 155\) Área de 17.500 (dezessete mil e quinhentos) m², de José Francisco dos anjos.
 
-<em>MUNICÍPIO DE ALTINHO, PERNAMBUCO</em>
+*MUNICÍPIO DE ALTINHO, PERNAMBUCO*
 
 156\) Área de 33.750 (trinta e três mil setecentos e cinquenta) m², do Espólio de Felício Miguel dos Anjos.
 
@@ -390,7 +388,7 @@
 
 184 - Área de 19.000 (dezenove mil) m2, de José Joaquim de Lima.
 
-<em>MUNICÍPIO DE SÃO CAETANO, PERNAMBUCO</em>
+*MUNICÍPIO DE SÃO CAETANO, PERNAMBUCO*
 
 185 - Área de 1.330 (um mil trezentos e trinta) m2, de João Joaquim de Melo.
 
@@ -560,7 +558,7 @@
 
 268 - Área de 9.200 (nove mil duzentos) m2, de Antônio Alves da Silva.
 
-<em>MINICÍPIO DE CARUARU, PERNAMBUCO</em>
+*MINICÍPIO DE CARUARU, PERNAMBUCO*
 
 269 - Área de 11.750 (onze mil setecentos e cinquenta) m2, de Claudino Augusto Tôrres.
 
@@ -638,22 +636,22 @@
 
 306 - Área de 80.000 (oitenta mil) m2, de Cortume Souza Irmãos S/A.
 
-<strong>Art</strong>. 3º A Companhia Hidrelétrica do São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
+**Art**. 3º A Companhia Hidrelétrica do São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
 
-<strong>Art</strong>. 4º Quando não for necessário, proceder-se à desapropriação do domínio pleno, fica constituída, em favor da mesma Companhia e para o fim indicado, a servidão necessária, a qual compreende o direito atribuído à empresa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
+**Art**. 4º Quando não for necessário, proceder-se à desapropriação do domínio pleno, fica constituída, em favor da mesma Companhia e para o fim indicado, a servidão necessária, a qual compreende o direito atribuído à empresa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
 
 § 1º Os proprietários das áreas de terras atingidas pelo ônus limitarão o uso e gozo das mesmas ao que for compatível com a existência da servidão abstendo-se, em consequência, de praticar, dentro das mesmas quaisquer atos que embarcarem ou lhe causem dano, incluídos entre eles os de erguer construções ou de fazer plantações de elevado porte.
 
 § 2º A Companhia Hidrelétrica do São Francisco fica autorizada a promover, no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessário ao seu reconhecimento podendo utilizar-se, inclusive do processo de desapropriação, nos termos do art. 40, do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 5º Nos termos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes deste Decreto, é declarada de caráter urgente.
+**Art**. 5º Nos termos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes deste Decreto, é declarada de caráter urgente.
 
-<strong>Art</strong>. 6º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 9 de janeiro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mario Meneghetti

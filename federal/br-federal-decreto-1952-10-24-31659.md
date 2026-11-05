@@ -1,23 +1,71 @@
-###DEC-031659-0-000-24-10-1952@@@
+**DECRETO Nº 31.659, DE 24 DE OUTUBRO DE 1952.**
 
-<strong>DECRETO Nº 31.659, DE 24 DE OUTUBRO DE 1952.</strong>
+***Abre, pelo Ministério da Fazenda, o crédito especial de Cr$178.500,00, para o fim que específica.***
 
-<em><strong>Abre, pelo Ministério da Fazenda, o crédito especial de Cr$178.500,00, para o fim que específica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, de acôrdo com a autorização contida no artigo 3º da Lei nº 1.351, de 2 de abril de 1951, e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, de acôrdo com a autorização contida no artigo 3º da Lei nº 1.351, de 2 de abril de 1951, e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É aberto, pelo Ministério da Fazenda o crédito especial de cento e setenta e oito mil e quinhentos cruzeiros (Cr$178.500,00) para atender a diferença de pagamento de proventos aos seguintes Ministros aposentados do Supremo Tribunal Federal do aumento concedido na mencionada Lei nº 1.351 (conforme consta do processo protocolado no Tesouro Nacional sob nº 188.640 de 1952):
 
-<strong>Art</strong>. 1º É aberto, pelo Ministério da Fazenda o crédito especial de cento e setenta e oito mil e quinhentos cruzeiros (Cr$178.500,00) para atender a diferença de pagamento de proventos aos seguintes Ministros aposentados do Supremo Tribunal Federal do aumento concedido na mencionada Lei nº 1.351 (conforme consta do processo protocolado no Tesouro Nacional sob nº 188.640 de 1952):
+Cr$
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Cr$</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Antônio Joaquim Pires de Carvalho Albuquerque................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>14.700,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Ataulfo Nápoles de Paiva.....................................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.200,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Hermenegildo Rodrigues de Barros.....................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.200,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Plínio de Castro Casado.......................................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.200,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>João Martins de Carvalho Mourão........................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.200,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Manuel da Costa Manso.......................................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.200,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Carlos Maximiliano Pereira dos Santos................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.200,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Armando de Alencar.............................................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.200,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Antônio Bento de Faria.........................................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>11.400,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Eduardo Espinola.................................................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>11.400,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>José Filadelfo de Barros e Azevedo.....................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>11.400,00</span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>Washington Osório de Oliveira.............................................................................</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline"><span><u>16.200,00</u></span></span></p></td></tr><tr><td style="width:350.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:74.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline"><span><u>178.500,00</u></span></span></p></td></tr></tbody></table>
+Antônio Joaquim Pires de Carvalho Albuquerque................................................
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+14.700,00
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+Ataulfo Nápoles de Paiva.....................................................................................
+
+16.200,00
+
+Hermenegildo Rodrigues de Barros.....................................................................
+
+16.200,00
+
+Plínio de Castro Casado.......................................................................................
+
+16.200,00
+
+João Martins de Carvalho Mourão........................................................................
+
+16.200,00
+
+Manuel da Costa Manso.......................................................................................
+
+16.200,00
+
+Carlos Maximiliano Pereira dos Santos................................................................
+
+16.200,00
+
+Armando de Alencar.............................................................................................
+
+16.200,00
+
+Antônio Bento de Faria.........................................................................................
+
+11.400,00
+
+Eduardo Espinola.................................................................................................
+
+11.400,00
+
+José Filadelfo de Barros e Azevedo.....................................................................
+
+11.400,00
+
+Washington Osório de Oliveira.............................................................................
+
+16.200,00
+
+178.500,00
+
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
+
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 24 de outubro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Horácio Lafer

@@ -1,5 +1,3 @@
-###DEC-098503-0-000-12-12-1989@@@
-
 DECRETO Nº 98.503, DE 12 DE DEZEMBRO DE 1989
 
 Revoga o Decreto nº 97.921, de 06 de julho de 1989, que declarou de interesse social para fins de reforma agrária, o imóvel rural denominado “RINCÃO DO BICHO LOTE 05, QUINHÃ O01”, situado no Município de Cantagalo, Estado do Paraná.

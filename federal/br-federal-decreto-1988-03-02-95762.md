@@ -1,7 +1,3 @@
-1
-
-###DEC-095762-0-000-02-03-1988@@@
-
 DECRETO N° 95.762, DE 2 DE MARCO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados  “Fazenda Barro Vermelho” e “Fazenda Canudos”  (parte), classificados como latifúndio por exploração, situados no Município de Barra, Estado da Bahia, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n ° 92.689, de 19 de maio de 1986, e dá outras providências.

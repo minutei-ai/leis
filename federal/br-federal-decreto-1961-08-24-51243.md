@@ -1,5 +1,3 @@
-###DEC-051243-0-000-24-08-1961@@@
-
 Decreto nº 51.243, de 24 de agôsto de 1961.
 
 Autoriza o cidadão brasileiro Celso Gonçalves Bastos a pesquisar caulim no município de Mar de Espanha, Estado de Minas Gerais.

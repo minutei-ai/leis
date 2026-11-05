@@ -1,5 +1,3 @@
-###DEL-009914-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.914 – DE 17 DE SETEMBRO DE 1946
 
 Esclarece dispositivos do Decreto-lei nº 9.840, de 11 de setembro de l946

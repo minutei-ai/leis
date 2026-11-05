@@ -1,5 +1,3 @@
-###DEC-052443-0-000-03-09-1963@@@
-
 decreto nº 52.443, de 3 de setembro de 1963.
 
 Declara de interêsse social para fins de desapropriação as áreas de terras situadas no Município de Imperatriz a margem da Rodovia Belém-Brasília com as denominações de Conceição, Campolina, Campo Grande e Jibóia.

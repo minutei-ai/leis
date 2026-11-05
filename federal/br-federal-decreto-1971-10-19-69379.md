@@ -1,5 +1,3 @@
-###DEC-069379-0-000-19-10-1971@@@
-
 decreto nº 69.379, de 19 de outubro de 1971.
 
 Autoriza a alienação de imóveis da Universidade Federal de Santa Catarina e dá outras providências.

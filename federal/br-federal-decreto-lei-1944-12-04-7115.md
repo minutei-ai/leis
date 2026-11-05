@@ -1,5 +1,3 @@
-###DEL-007115-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.115 – DE 4 DE DEZEMBRO DE 1944
 
 Autoriza substituição de títulos do Tesouro Nacional

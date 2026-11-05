@@ -1,5 +1,3 @@
-###DEC-006189-0-000-20-08-2007@@@
-
 DECRETO Nº 6.189, DE 20 DE AGOSTO DE 2007.
 
 Acresce e altera dispositivos do Decreto no 5.289, de 29 de novembro de 2004, que disciplina a organização e o funcionamento da administração pública federal, para desenvolvimento do programa de cooperação federativa denominado Força Nacional de Segurança Pública.
@@ -29,5 +27,3 @@ Parágrafo único.  Os servidores civis e militares dos Estados e do Distrito F
 LUIZ INÁCIO LULA DA SILVA
 
 Tarso Genro
-
-Este texto não substitui o publicado no DOU de 21.8.2007

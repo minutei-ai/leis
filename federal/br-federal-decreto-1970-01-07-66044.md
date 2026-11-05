@@ -1,5 +1,3 @@
-###DEC-066044-0-000-07-01-1970@@@
-
 Decreto nº 66.044 - de 7 de janeiro de 1970
 
 Concede à Alumínio Poços de Caldas S.A., o direito de lavrar bauxita, no município de Oriximiná, Estado do Pará.

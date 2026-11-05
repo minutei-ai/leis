@@ -1,5 +1,3 @@
-###DEC-081980-0-000-18-07-1978@@@
-
 DECRETO Nº 81.980, DE 18 DE JULHO DE 1978
 
 Concede à Mical - Minérios Catarinenses S.A. o direito de lavrar fluorita no Município de Pedras Grandes, Estado de Santa Catarina.

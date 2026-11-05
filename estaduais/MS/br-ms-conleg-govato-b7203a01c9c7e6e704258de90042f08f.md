@@ -6,15 +6,16 @@ Denomina Elizeu Mendes Feitoza o Posto da Sanesul do Distrito de Culturama no Mu
 
 Publicada no Diário Oficial nº 12.143, de 30 de abril de 2026, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominado Elizeu Mendes Feitoza o Posto da Sanesul do Distrito de Culturama no Município de Fátima do Sul.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominado Elizeu Mendes Feitoza o Posto da Sanesul do Distrito de Culturama no Município de Fátima do Sul.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 29 de abril de 2026.
 
-<br>
-EDUARDO CORRÊA RIEDEL<br>
+EDUARDO CORRÊA RIEDEL
+
 Governador do Estado

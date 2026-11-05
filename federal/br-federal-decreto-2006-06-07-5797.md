@@ -1,5 +1,3 @@
-###DEC-005797-0-000-07-06-2006@@@
-
 DECRETO Nº 5.797, DE 7 DE JUNHO DE 2006.
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 59, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do Mercosul, e os Governos da República Bolivariana da Venezuela, da República da Colômbia e da República do Equador, de 30 de março de 2006.
@@ -22,11 +20,7 @@ Brasília,  7 de junho de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 8.6.2006.
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA
+       Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA
 
 ASSINADO ENTRE OS GOVERNOS DA REPÚBLICA
 

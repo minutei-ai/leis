@@ -1,14 +1,12 @@
-###DEC-035079-0-000-19-02-1954@@@
+**DECRETO Nº 35.079, DE 19 DE FEVEREIRO DE 1954.**
 
-<strong>DECRETO Nº 35.079, DE 19 DE FEVEREIRO DE 1954.</strong>
+***Modifica a redação do artigo 3º do Decreto nº 29.806, de 25 de julho de 1951, alterada pelos Decretos números 29.829, de 31 de julho de 1951 e nº 30.092, de 25 de outubro de 1951, e da outras providências.***
 
-<em><strong>Modifica a redação do artigo 3º do Decreto nº 29.806, de 25 de julho de 1951, alterada pelos Decretos números 29.829, de 31 de julho de 1951 e nº 30.092, de 25 de outubro de 1951, e da outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - O artigo 3º do Decreto nº 29.806, de 25 de julho de 1951, alterado pelos de nº 29.829, de 31 de julho de 1951, e nº 30.092, de 25 de outubro de 1951, passa a ter a seguinte redação:
+**Art**. 1º - O artigo 3º do Decreto nº 29.806, de 25 de julho de 1951, alterado pelos de nº 29.829, de 31 de julho de 1951, e nº 30.092, de 25 de outubro de 1951, passa a ter a seguinte redação:
 
 “Art. 3º - A Comissão de Desenvolvimento Industrial será constituída:
 
@@ -44,13 +42,13 @@ e) - supervisionar a elaboração das prestações de contas a serem submetidos 
 
 § 3º Nos impedimentos do Segundo Vice-Presidente, os atos mencionados no parágrafo anterior serão praticados por outro membro da comissão designado, em caráter permanente, pelo Presidente para essa função”.
 
-<strong>Art</strong>. 2º - Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º - Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º - Revogam-se as disposições em contrário.
+**Art**. 3º - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 19 de fevereiro de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Oswaldo Aranha
 

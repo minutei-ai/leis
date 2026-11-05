@@ -1,5 +1,3 @@
-###DEC-051877-0-000-02-04-1963@@@
-
 decreto nº 51.877, de 2 de abril de 1963.
 
 Amplia a zona de concessão da Comissão Estadual de Energia Elétrica do Estado do Rio de Janeiro, e dá outras providências.

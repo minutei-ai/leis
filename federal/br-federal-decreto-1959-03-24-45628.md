@@ -1,5 +1,3 @@
-###DEC-045628-0-000-24-03-1959@@@
-
 DECRETO Nº 45.628, de 24 de março de 1959.
 
 Autoriza a concessão de suprimentos de recursos à Comissão de Marinha Mercante e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069138-0-000-30-08-1971@@@
-
 DECRETO Nº 69.138, DE 30 DE AGÔSTO DE 1971.
 
 Retifica o artigo 1º do Decreto número 57.094, de 19-10-1965.

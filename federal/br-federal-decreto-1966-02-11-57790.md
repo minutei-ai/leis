@@ -1,5 +1,3 @@
-###DEC-057790-0-000-11-02-1966@@@
-
 DECRETO Nº 57.790, DE 11 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada na Estado de Santa Catarina.

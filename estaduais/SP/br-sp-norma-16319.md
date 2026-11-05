@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/16319)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1993/compilacao-lei-8209-04.01.1993.html)
 
 # LEI N° 8.209, DE 04 DE JANEIRO DE 1993
@@ -7,8 +6,10 @@
 
 ### _Cria a Secretaria de Estado da Administração Penitenciária e dá providências correlatas_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
 ~~Artigo 1.° - Fica criada a Secretaria de Estado da Administração Penitenciária, destinada a promover a execução penal no âmbito administrativo e a proporcionar condições para a reinserção social do condenado e do internado.~~
 
 ~~Artigo 1.° - Fica criada a Secretaria de Estado da Administração Penitenciária, destinada a promover a execução penal no âmbito administrativo e a proporcionar condições para a reinserção social do condenado e do interno, e a custódia provisória de presos. (NR)~~
@@ -19,8 +20,10 @@ _~~\- Artigo 1° com redação dada pela [Lei Complementar n° 897, de 09/05/2
 
 _\- Artigo 1° com redação dada pela [Lei Complementar n° 1.416, de 26/09/2024](https://www.al.sp.gov.br/norma/210060), em vigor a partir de 01/01/2025._
 
-**Artigo 2.° -** Constitui o campo funcional da Secretaria da Administração Penitenciária:<br>
-**I -** a execução da política estadual de assuntos penitenciários;<br>
+**Artigo 2.° -** Constitui o campo funcional da Secretaria da Administração Penitenciária:
+
+**I -** a execução da política estadual de assuntos penitenciários;
+
 **II -** a organização, administração, coordenação, inspeção e fiscalização dos seguintes estabelecimentos penais:
 
 ~~**a)** Casa de Detenção;~~
@@ -77,10 +80,14 @@ _\- Alínea "h" acrescentada pela [Lei Complementar n° 897, de 09/05/2001](http
 
 _\- Inciso IV com redação dada pela [Lei Complementar n° 897, de 09/05/2001](https://www.al.sp.gov.br/norma/3914)._
 
-**V -** o adestramento profissional dos sentenciados e o oferecimento de trabalho remunerado;<br>
-**VI -** a supervisão dos patronatos e a assistência aos egressos;<br>
-**VII -** a emissão de pareceres sobre livramento condicional indulto e comutação de penas;<br>
-**VIII -** a realização de pesquisas criminológicas;<br>
+**V -** o adestramento profissional dos sentenciados e o oferecimento de trabalho remunerado;
+
+**VI -** a supervisão dos patronatos e a assistência aos egressos;
+
+**VII -** a emissão de pareceres sobre livramento condicional indulto e comutação de penas;
+
+**VIII -** a realização de pesquisas criminológicas;
+
 **IX -** a assistência às famílias dos sentenciados.
 
 ~~Artigo 3.° - A Secretaria da Administração Penitenciária terá a seguinte estrutura básica:~~
@@ -93,31 +100,52 @@ _~~\- "Caput com redação dada pela [Lei Complementar n° 897, de 09/05/2001](h
 
 _\- "Caput" com redação dada pela [Lei Complementar n° 1.416, de 26/09/2024](https://www.al.sp.gov.br/norma/210060), em vigor a partir de 01/01/2025._
 
-~~**a)** Gabinete do Secretário;~~<br>
-~~**b)** Assessoria Técnica;~~<br>
-~~**c)** Coordenadoria dos Estabelecimentos Penitenciários do Estado - COESPE;~~<br>
-~~**d)** Corregedoria Administrativa do Sistema Penitenciário;~~<br>
-~~**e)** Conselho Penitenciário;~~<br>
-~~**f)** Conselho Estadual de Política Criminal e Penitenciária;~~<br>
-~~**g)** Grupo de Planejamento Setorial;~~<br>
-~~**h)** Consultoria Jurídica, órgão da Procuradoria Geral do Estado;~~<br>
-~~**i)** Comissão Processante Permanente; e~~<br>
+~~**a)** Gabinete do Secretário;~~
+
+~~**b)** Assessoria Técnica;~~
+
+~~**c)** Coordenadoria dos Estabelecimentos Penitenciários do Estado - COESPE;~~
+
+~~**d)** Corregedoria Administrativa do Sistema Penitenciário;~~
+
+~~**e)** Conselho Penitenciário;~~
+
+~~**f)** Conselho Estadual de Política Criminal e Penitenciária;~~
+
+~~**g)** Grupo de Planejamento Setorial;~~
+
+~~**h)** Consultoria Jurídica, órgão da Procuradoria Geral do Estado;~~
+
+~~**i)** Comissão Processante Permanente; e~~
+
 ~~**j)** Serviço de Administração.~~
 
 _~~\- Alíneas "a" a "j" revogadas pela [Lei Complementar n° 897, de 09/05/2001](https://www.al.sp.gov.br/norma/3914).~~_
 
-~~**I -** Gabinete do Secretário; (NR)~~<br>
-~~**II -** Coordenadoria de Unidades Prisionais de São Paulo e da Grande São Paulo; (NR)~~<br>
-~~**III -** Coordenadoria de Unidades Prisionais da Região do Vale do Paraíba e Litoral; (NR)~~<br>
-~~**IV -** Coordenadoria de Unidades Prisionais da Região Central do Estado; (NR)~~<br>
-~~**V -** Coordenadoria de Unidades Prisionais da Região Noroeste do Estado; (NR)~~<br>
-~~**VI -** Coordenadoria de Unidades Prisionais da Região Oeste do Estado; (NR)~~<br>
-~~**VII -** Coordenadoria de Saúde do Sistema Penitenciário; (NR)~~<br>
-~~**VIII -** Departamento de Controle e Execução Penal; (NR)~~<br>
-~~**IX -** Ouvidoria do Sistema Penitenciário; (NR)~~<br>
-~~**X -** Corregedoria Administrativa do Sistema Penitenciário; (NR)~~<br>
-~~**XI -** Conselho Penitenciário do Estado; (NR)~~<br>
-~~**XII -** Conselho Estadual de Política Criminal e Penitenciária; (NR)~~<br>
+~~**I -** Gabinete do Secretário; (NR)~~
+
+~~**II -** Coordenadoria de Unidades Prisionais de São Paulo e da Grande São Paulo; (NR)~~
+
+~~**III -** Coordenadoria de Unidades Prisionais da Região do Vale do Paraíba e Litoral; (NR)~~
+
+~~**IV -** Coordenadoria de Unidades Prisionais da Região Central do Estado; (NR)~~
+
+~~**V -** Coordenadoria de Unidades Prisionais da Região Noroeste do Estado; (NR)~~
+
+~~**VI -** Coordenadoria de Unidades Prisionais da Região Oeste do Estado; (NR)~~
+
+~~**VII -** Coordenadoria de Saúde do Sistema Penitenciário; (NR)~~
+
+~~**VIII -** Departamento de Controle e Execução Penal; (NR)~~
+
+~~**IX -** Ouvidoria do Sistema Penitenciário; (NR)~~
+
+~~**X -** Corregedoria Administrativa do Sistema Penitenciário; (NR)~~
+
+~~**XI -** Conselho Penitenciário do Estado; (NR)~~
+
+~~**XII -** Conselho Estadual de Política Criminal e Penitenciária; (NR)~~
+
 ~~**XIII -** Núcleo de Apoio Administrativo. (NR)~~
 
 _~~\- Incisos I a XIII acrescentados pela [Lei Complementar n° 897, de 09/05/2001](https://www.al.sp.gov.br/norma/3914).~~_
@@ -136,34 +164,64 @@ _~~Parágrafo único com redação dada pela [Lei Complementar n° 897, de 09/05
 
 _\- Parágrafo único com redação dada pela [Lei Complementar n° 1.416, de 26/09/2024](https://www.al.sp.gov.br/norma/210060), em vigor a partir de 01/01/2025._
 
-**Artigo 4.° -** Fica criado o Quadro da Secretaria da Administração Penitenciária, compreendendo o Subquadro de Cargos Públicos (SQC) e o Subquadro de Funções-Atividades (SQF).**<br>
-Artigo 5.° -** Ficam criados na Tabela I (SQC-I) do Quadro mencionado no artigo anterior os seguintes cargos:<br>
-**I -** 1 (um) de Secretário de Estado;<br>
-**II -** 1 (um) de Chefe de Gabinete, Faixa 38;<br>
-**III -** 3 (três) de Assessor Técnico de Gabinete, Faixa 34;<br>
-**IV -** 1 (um) de Diretor de Serviço, Faixa 28;<br>
-**V -** 2 (dois) de Assistente Técnico de Gabinete II, Faixa 27;<br>
-**VI -** 1 (um) de Assistente Técnico de Gabinete I, Faixa 21;<br>
-**VII -** 1 (um) de Oficial de Gabinete, Faixa 15;<br>
-**VIII -** 1 (um) de Auxiliar de Gabinete, Faixa 11.**<br>
-Artigo 6.° -** O provimento dos cargos criados no artigo anterior será feito com observância dos requisitos exigidos na legislação específica para cada um deles.**<br>
-Artigo 7.° -** Fica criada no Quadro da Secretaria da Administração Penitenciária uma função de Secretário Adjunto.**<br>
-Artigo 8.° -** O Poder Executivo adotará providências destinadas a transferir, para o Quadro da Secretaria da Administração Penitenciária, os cargos e funções-atividades necessários ao cumprimento das atribuições da Pasta.**<br>
-Artigo 9.° -** Ficam transferidos para a Secretaria da Administração Penitenciária, com os respectivos bens móveis, equipamentos, direitos e obrigações, cargos e funções-atividades, os seguintes órgãos:<br>
-**I -** Coordenadoria dos Estabelecimentos Penitenciários do Estado - COESPE;<br>
-**II -** Corregedoria Administrativa do Sistema Penitenciário;<br>
-**III -** Conselho Penitenciário do Estado; e<br>
-**IV -** Conselho Estadual de Política Criminal e Penitenciária.**<br>
-Artigo 10 -** O desdobramento da estrutura básica, as atribuições e a subordinação das unidades administrativas mencionadas nesta lei, bem como a competência de seus dirigentes, serão fixados por decreto.**<br>
-Artigo 11 -** As Secretarias de Planejamento e Gestão e da Fazenda providenciarão os atos necessários à efetivação da transferência, para a Secretaria da Administração Penitenciária, dos saldos de dotações orçamentárias, objetivando o cumprimento desta lei.**<br>
-Artigo 12 -** As despesas resultantes da aplicação desta lei correrão à conta das dotações próprias consignadas no Orçamento-Programa vigente, ficando o Poder Executivo autorizado a abrir, para o presente exercício, créditos suplementares até o limite de Cr$ 300.000.000,00 (trezentos milhões de cruzeiros), na forma prevista no § 1.° do Artigo 43, da Lei federal n. 4.320, de 17 de março de 1964.**<br>
-Artigo 13 -** O Poder Executivo regulamentará esta lei no prazo de 60 (sessenta) dias.**<br>
-Artigo 14 -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 4 de janeiro de 1993.<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Dr. Cláudio Ferraz de Alvarenga, Secretário do Governo<br>
-Dr. Eduardo Maia de Castro Ferraz, Secretário da Fazenda<br>
-Dr. Miguel Tebar Barrionuevo, Secretário da Administração e Modernização do Serviço Público<br>
-Dr. Paulo de Tarso Mendonça, Secretário Adjunto, respondendo pelo Expediente da Secretária da Segurança Pública.<br>
-Dr. Ernesto Lozardo, Secretário de Planejamento e Gestão<br>
+**Artigo 4.° -** Fica criado o Quadro da Secretaria da Administração Penitenciária, compreendendo o Subquadro de Cargos Públicos (SQC) e o Subquadro de Funções-Atividades (SQF).**
+
+Artigo 5.° -** Ficam criados na Tabela I (SQC-I) do Quadro mencionado no artigo anterior os seguintes cargos:
+
+**I -** 1 (um) de Secretário de Estado;
+
+**II -** 1 (um) de Chefe de Gabinete, Faixa 38;
+
+**III -** 3 (três) de Assessor Técnico de Gabinete, Faixa 34;
+
+**IV -** 1 (um) de Diretor de Serviço, Faixa 28;
+
+**V -** 2 (dois) de Assistente Técnico de Gabinete II, Faixa 27;
+
+**VI -** 1 (um) de Assistente Técnico de Gabinete I, Faixa 21;
+
+**VII -** 1 (um) de Oficial de Gabinete, Faixa 15;
+
+**VIII -** 1 (um) de Auxiliar de Gabinete, Faixa 11.**
+
+Artigo 6.° -** O provimento dos cargos criados no artigo anterior será feito com observância dos requisitos exigidos na legislação específica para cada um deles.**
+
+Artigo 7.° -** Fica criada no Quadro da Secretaria da Administração Penitenciária uma função de Secretário Adjunto.**
+
+Artigo 8.° -** O Poder Executivo adotará providências destinadas a transferir, para o Quadro da Secretaria da Administração Penitenciária, os cargos e funções-atividades necessários ao cumprimento das atribuições da Pasta.**
+
+Artigo 9.° -** Ficam transferidos para a Secretaria da Administração Penitenciária, com os respectivos bens móveis, equipamentos, direitos e obrigações, cargos e funções-atividades, os seguintes órgãos:
+
+**I -** Coordenadoria dos Estabelecimentos Penitenciários do Estado - COESPE;
+
+**II -** Corregedoria Administrativa do Sistema Penitenciário;
+
+**III -** Conselho Penitenciário do Estado; e
+
+**IV -** Conselho Estadual de Política Criminal e Penitenciária.**
+
+Artigo 10 -** O desdobramento da estrutura básica, as atribuições e a subordinação das unidades administrativas mencionadas nesta lei, bem como a competência de seus dirigentes, serão fixados por decreto.**
+
+Artigo 11 -** As Secretarias de Planejamento e Gestão e da Fazenda providenciarão os atos necessários à efetivação da transferência, para a Secretaria da Administração Penitenciária, dos saldos de dotações orçamentárias, objetivando o cumprimento desta lei.**
+
+Artigo 12 -** As despesas resultantes da aplicação desta lei correrão à conta das dotações próprias consignadas no Orçamento-Programa vigente, ficando o Poder Executivo autorizado a abrir, para o presente exercício, créditos suplementares até o limite de Cr$ 300.000.000,00 (trezentos milhões de cruzeiros), na forma prevista no § 1.° do Artigo 43, da Lei federal n. 4.320, de 17 de março de 1964.**
+
+Artigo 13 -** O Poder Executivo regulamentará esta lei no prazo de 60 (sessenta) dias.**
+
+Artigo 14 -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 4 de janeiro de 1993.
+
+LUIZ ANTONIO FLEURY FILHO
+
+Dr. Cláudio Ferraz de Alvarenga, Secretário do Governo
+
+Dr. Eduardo Maia de Castro Ferraz, Secretário da Fazenda
+
+Dr. Miguel Tebar Barrionuevo, Secretário da Administração e Modernização do Serviço Público
+
+Dr. Paulo de Tarso Mendonça, Secretário Adjunto, respondendo pelo Expediente da Secretária da Segurança Pública.
+
+Dr. Ernesto Lozardo, Secretário de Planejamento e Gestão
+
 Publicado na Assessoria Técnico-Legislativa aos 4 de janeiro de 1993.

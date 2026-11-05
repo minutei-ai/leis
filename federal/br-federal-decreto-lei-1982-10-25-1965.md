@@ -1,5 +1,3 @@
-###DEL-001965-0-000-25-10-1982@@@
-
 # Decreto-lei nº 1.965, de 25 de outubro de 1982
 
 Cria cargo em comissão e função de confiança no Quadro e Tabela Permanentes do Ministério Público Federal, e dá outras providências.

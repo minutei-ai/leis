@@ -1,5 +1,3 @@
-###DEC-073621-0-000-12-02-1974@@@
-
 DECRETO Nº 73.621, DE 12 DE FEVEREIRO DE 1974.
 
 Altera a estrutura básica do Departamento Nacional da Produção Mineral (DNPM), do Ministério das Minas e Energia, e dá outras providências.

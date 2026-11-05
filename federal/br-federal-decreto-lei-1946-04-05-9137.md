@@ -1,5 +1,3 @@
-###DEL-009137-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.137 – DE 5 DE ABRIL DE 1946
 
 Altera o  artigo 10 do Regulamento do Tribunal Marítimo,  a que se refere o Decreto-lei, nº 7.675, de 26 junho de 1945.

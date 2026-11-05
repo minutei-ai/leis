@@ -1,5 +1,3 @@
-###DEC-090498-0-000-12-11-1984@@@
-
 Decreto Nº 90.498 de 12 de novembro de 1984
 
 Concede autorização ao navio de pesquisa norte-americano "THOMAS WASHINGTON" para realizar em águas brasileiras os serviços que especifica.

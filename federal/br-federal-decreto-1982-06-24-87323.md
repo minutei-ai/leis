@@ -1,5 +1,3 @@
-###DEC-087323-0-000-24-06-1982@@@
-
 Decreto nº 87.323, de 24 de junho de 1982.
 
 Altera o Estatuto da Empresa Pública Banco Nacional do Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto nº 73.713, de 1º de março de 1974.

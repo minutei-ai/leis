@@ -60,10 +60,12 @@ II - outros instrumentos de cadastro, controle e registros referentes à produç
 
 III - quaisquer outros processos ligados direta ou indiretamente à promoção e proteção à saúde.
 
-CAPITULO II<br>
+CAPITULO II
+
 SANEAMENTO DO MEIO AMBIENTE
 
-Seção I<br>
+Seção I
+
 Disposições Gerais
 
 Art. 7º A Secretaria Municipal da Saúde de Aparecida de Goiânia, em articulação com os demais órgãos e entidades competentes federais, estaduais e municipais, observará e aplicará as normas legais, regulamentares e técnicas sobre saneamento do meio ambiente.
@@ -910,5 +912,6 @@ Aparecida de Goiânia, 6 de junho de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia

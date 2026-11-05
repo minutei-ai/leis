@@ -1,5 +1,3 @@
-###DEC-064043-0-000-31-01-1969@@@
-
 DECRETO Nº 64.043, DE 31 DE JANEIRO DE 1969.
 
 Concede reconhecimento à Faculdade de Ciências Políticas e Econômicas de Cachoeira do Sul, no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-003073-0-000-21-02-1941@@@
-
 DECRETO-LEI N. 3.073 – DE 21 DE FEVEREIRO DE 1941
 
 Cria o estandarte e a flâmula para a Escola de Educação Física do Exército

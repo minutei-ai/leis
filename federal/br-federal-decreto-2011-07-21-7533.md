@@ -1,5 +1,3 @@
-###DEC-007533-0-000-21-07-2011-PUB-01@@@
-
 DECRETO Nº 7.533, DE 21 DE JULHO DE 2011
 
 Dispõe sobre a antecipação do abono anual devido aos segurados e dependentes da Previdência Social, no ano de 2011.

@@ -1,5 +1,3 @@
-###DEC-059597-0-000-28-11-1966@@@
-
 DECRETO nº 59.597, DE 28 DE NOVEMBRO DE 1966.
 
 Extingue o Consulado Honorário e cria o Consulado de Carreira em Sydney, Austrália.

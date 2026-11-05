@@ -1,5 +1,3 @@
-###DEC-006799-0-000-17-03-2009@@@
-
 DECRETO Nº 6.799, DE 17 DE MARÇO DE 2009.
 
 Dá nova redação ao inciso III do § 1o do art. 11 do Estatuto da Cruz Vermelha Brasileira, aprovado pelo Decreto no 4.948, de 7 de janeiro de 2004.

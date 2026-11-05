@@ -1,5 +1,3 @@
-###DEC-003715-0-000-03-01-2001@@@
-
 DECRETO Nº 3.715 , DE 3 DE JANEIRO DE 2001
 
 Dispõe sobre o remanejamento, em caráter temporário, dos Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas - FG que menciona, e dá outras providências.

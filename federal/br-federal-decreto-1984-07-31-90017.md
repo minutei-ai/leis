@@ -1,5 +1,3 @@
-###DEC-090017-0-000-31-07-1984@@@
-
 DECRETO Nº 90.017, de 31 de julho de 1984.
 
 Altera o Decreto nº 77.919, de 25 de junho de 1976, que regulamenta a Lei nº 6.265, de 19 de novembro de 1975-Lei do Ensino no Exército.

@@ -1,5 +1,3 @@
-###DEC-085685-0-000-30-01-1981@@@
-
 DECRETO Nº 85.685, DE 30 DE JANEIRO DE 1981.
 
 Inclui parágrafos no art. 5º do Decreto nº 85.354, de 12 de novembro de 1980, que dispõe sobre a Categoria Funcional de Agente de Vigilância do Grupo-Outras Atividades de Nível Médio e dá outras providências.

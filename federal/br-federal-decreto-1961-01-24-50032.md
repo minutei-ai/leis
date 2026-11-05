@@ -1,5 +1,3 @@
-###DEC-050032-0-000-24-01-1961@@@
-
 DECRETO Nº 50.032, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro José Roberto Moyses de Castro a pesquisar calcário no município de Jacobina, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-005273-0-000-16-11-2004@@@
-
 DECRETO Nº 5.273 DE 16 DE NOVEMBRO DE 2004
 
 Altera os arts. 3º, 4º, 15 e 18 do Decreto nº 4.773, de 7 de julho de 2003, que dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional dos Direitos da Mulher \- CNDM.

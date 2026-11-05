@@ -1,5 +1,3 @@
-###DEC-083923-0-000-30-08-1979@@@
-
 decreto nº 83.923, de 30 de agosto de 1979.
 
 Reduz o interstício de permanência na graduação de subtenente das QM 42-285 e 42-286.

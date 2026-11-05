@@ -1,5 +1,3 @@
-###DEC-072527-0-000-25-07-1973@@@
-
 DECRETO Nº 72.527, de 25 de julho de 1973.
 
 Aprova o Plano Básico de Desenvolvimento Científico e Tecnológico - PBDCT, para o biênio 1973/1974.

@@ -6,10 +6,12 @@ Dispõe sobre o processo administrativo, no âmbito da Administração direta e 
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 PARTE GERAL
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** \- Esta Lei dispõe sobre o processo administrativo no âmbito da Administração direta e das entidades da Administração indireta regidas pelo regime de direito público, do Estado da Bahia, visando, em especial, à proteção dos direitos dos administrados e ao mais justo e célere cumprimento dos fins da Administração.
@@ -52,7 +54,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **§ 10** \- O direito de petição será exercido independentemente da cobrança de taxas, sendo vedado à Administração recusar-se a receber petição, sob pena de responsabilidade do agente público.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS DIREITOS E DEVERES DO ADMINISTRADO
 
 **Art. 4º** \- São direitos do administrado ao postular no processo administrativo, sem prejuízo de outros que lhe forem assegurados:
@@ -67,7 +70,8 @@ DOS DIREITOS E DEVERES DO ADMINISTRADO
 
 **V -**      obter cópia dos autos na repartição em que tramita o processo, ressalvados os casos previstos em lei, mediante o recolhimento prévio de valor a título de ressarcimento de despesas incorridas com o seu atendimento, calculadas da forma prevista em norma regulamentar.
 
-Redação de acordo com o art. 23 da Lei nº [13.446](https://www.legislabahia.ba.gov.br/documentos/lei-no-13446-de-07-de-outubro-de-2015), de 07 de outubro de 2015.<br>
+Redação de acordo com o art. 23 da Lei nº [13.446](https://www.legislabahia.ba.gov.br/documentos/lei-no-13446-de-07-de-outubro-de-2015), de 07 de outubro de 2015.
+
 Redação original: "V - obter cópia dos autos na repartição em que tramita o processo, ressalvados os casos previstos em lei, mediante pagamento de taxas discriminadas em lei específica;"
 
 **VI -**     formular alegações, produzir provas e interpor recursos, os quais serão obrigatoriamente objeto de apreciação e manifestação motivada da autoridade competente;
@@ -104,7 +108,8 @@ Redação original: "V - obter cópia dos autos na repartição em que tramita o
 
 **Parágrafo único -**   É dever do servidor público atender convocação para prestar informações ou figurar como testemunha em processo administrativo, salvo motivo justificado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS POSTULANTES NO PROCESSO ADMINISTRATIVO
 
 **Art. 9º** \- São legitimados para postular no processo administrativo:
@@ -119,7 +124,8 @@ DOS POSTULANTES NO PROCESSO ADMINISTRATIVO
 
 **§ 2º** \- A intervenção de terceiro no processo dependerá de decisão da autoridade competente, quando comprovado o interesse.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA FORMA, TEMPO E LUGAR DOS ATOS PROCESSUAIS
 
 **Art. 10** \- Os atos do processo administrativo não dependem de forma determinada, senão quando a lei exigir, podendo ser utilizados modelos padronizados pela Administração.
@@ -142,7 +148,8 @@ DA FORMA, TEMPO E LUGAR DOS ATOS PROCESSUAIS
 
 **Parágrafo único -**   O prazo previsto neste artigo poderá ser prorrogado, mediante comprovada justificação.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO INÍCIO DO PROCESSO
 
 **Art. 13** \- O processo administrativo inicia-se de ofício, a pedido do interessado ou por denúncia de qualquer administrado.
@@ -183,7 +190,8 @@ DO INÍCIO DO PROCESSO
 
 **Art. 20** \- Quando o processo administrativo for iniciado a pedido de mais de um postulante e a prática conjunta dos atos instrutórios causar prejuízo ao exame da matéria, a autoridade competente, mediante decisão fundamentada, poderá determinar o desmembramento do processo.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA INSTRUÇÃO
 
 **Art. 21** \- As atividades de instrução destinam-se a subsidiar a motivação dos atos decisórios e se realizam de ofício, por iniciativa da Administração, sem prejuízo do direito do interessado de requerer e produzir prova.
@@ -248,7 +256,8 @@ DA INSTRUÇÃO
 
 **Art. 32** \- A autoridade julgadora poderá, se entender necessário para a busca da verdade material, determinar a realização de diligências complementares. 
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DOS ATOS DECISÓRIOS
 
 **Art. 33** \- A Administração emitirá decisão motivada nos processos administrativos, bem como sobre solicitações ou reclamações, indicando de forma clara e precisa os fundamentos de fato e de direito que embasaram a decisão.
@@ -265,7 +274,8 @@ DOS ATOS DECISÓRIOS
 
 **Parágrafo único -**   A decisão definitiva, considerando razões de segurança jurídica ou de relevante interesse social, motivadamente, poderá estabelecer restrição aos seus efeitos ou determinar o início de sua eficácia, a partir do ato decisório ou de momento específico.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DA DESISTÊNCIA E EXTINÇÃO DO PROCESSO
 
 **Art. 36** \- O postulante poderá, mediante manifestação escrita, desistir total ou parcialmente do pedido formulado ou renunciar a direitos disponíveis.
@@ -278,7 +288,8 @@ DA DESISTÊNCIA E EXTINÇÃO DO PROCESSO
 
 **Art. 38** \- A Administração poderá desarquivar o processo, por motivo justificado ou em razão de fato superveniente.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DA INVALIDAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO
 
 **Art. 39** \- A Administração tem o dever de invalidar seus próprios atos, quando eivados de vícios de legalidade, e pode revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos.
@@ -293,7 +304,8 @@ DA INVALIDAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO
 
 **Parágrafo único -**   É vedada a convalidação de ato cuja legalidade tenha sido objeto de impugnação perante a Administração.
 
-CAPÍTULO X -<br>
+CAPÍTULO X -
+
 DOS PRAZOS
 
 **Art. 42** \- Os prazos começam a correr a partir do primeiro dia útil após a ciência oficial do postulante.
@@ -328,7 +340,8 @@ DOS PRAZOS
 
 **§ 3º** \- Verificada a justa causa, a autoridade administrativa competente concederá ao postulante prazo razoável para a prática do ato.
 
-CAPÍTULO XI -<br>
+CAPÍTULO XI -
+
 DOS ATOS DE COMUNICAÇÃO
 
 **Art. 49** \- Notificação é o ato pelo qual a Administração convoca alguém para integrar o processo administrativo, a fim de que apresente defesa sobre os fatos descritos pela autoridade competente.
@@ -391,7 +404,8 @@ DOS ATOS DE COMUNICAÇÃO
 
 **III -**     publicação do edital no órgão oficial, com juntada aos autos de cópia do ato publicado.
 
-CAPÍTULO XII -<br>
+CAPÍTULO XII -
+
 DOS RECURSOS, DA REVISÃO E DO PEDIDO DE RECONSIDERAÇÃO
 
 **Art. 54** \- Das decisões definitivas no processo cabe recurso hierárquico, devolvendo o conhecimento da matéria impugnada.
@@ -456,7 +470,8 @@ DOS RECURSOS, DA REVISÃO E DO PEDIDO DE RECONSIDERAÇÃO
 
 **Parágrafo único -**   O pedido de reconsideração não poderá ser renovado e observará, no que couber, o regime dos recursos hierárquico e administrativo.
 
-CAPÍTULO XIII -<br>
+CAPÍTULO XIII -
+
 DA COMPETÊNCIA
 
 **Art. 69** \- A competência para apreciação do processo administrativo será do órgão vinculado à matéria versada, salvo disposição legal ou regulamentar em contrário, devendo ser iniciado perante a autoridade de menor grau hierárquico para decidir.
@@ -489,7 +504,8 @@ DA COMPETÊNCIA
 
 **Art. 74** \- O agente público, que exorbitar os limites de suas atribuições, decorrentes da competência que legalmente lhe for conferida, responderá administrativamente pelo abuso de poder, sem prejuízo da responsabilização penal e cível.
 
-CAPÍTULO XIV -<br>
+CAPÍTULO XIV -
+
 DOS IMPEDIMENTOS E DA SUSPEIÇÃO
 
 **Art. 75** \- É impedido de atuar em processo administrativo o servidor ou autoridade que:
@@ -538,7 +554,8 @@ DOS IMPEDIMENTOS E DA SUSPEIÇÃO
 
 **Art. 80** \- O indeferimento do incidente de suspeição poderá ser objeto de recurso hierárquico, sem efeito suspensivo.
 
-CAPÍTULO XV -<br>
+CAPÍTULO XV -
+
 DO INCIDENTE DE FALSIDADE DOCUMENTAL
 
 **Art. 81** \- O incidente de falsidade documental pode ser instaurado em qualquer fase do processo administrativo, de ofício ou a pedido do interessado, a quem caberá suscitá-lo na defesa ou no prazo de 10 (dez) dias, contados da intimação da sua juntada aos autos.
@@ -553,11 +570,14 @@ DO INCIDENTE DE FALSIDADE DOCUMENTAL
 
 **Parágrafo único -**   Se for declarada a falsidade do documento, a autoridade processante determinará a instauração de processo administrativo destinado a apurar a responsabilidade da parte que juntou documento falso e impor penalidade cabível, sem prejuízo do dever de representar ao Ministério Público.
 
-CAPÍTULO XVI -<br>
-DO USO DA TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO<br>
+CAPÍTULO XVI -
+
+DO USO DA TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO
+
 NO PROCESSO ADMINISTRATIVO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Os atos processuais eletrônicos
 
 **Art. 85** \- O uso de meio eletrônico na tramitação dos processos administrativos para comunicação de atos e transmissão de peças processuais será admitido nos termos desta Lei.
@@ -602,7 +622,8 @@ Os atos processuais eletrônicos
 
 **Art. 90** \- Todas as comunicações oficiais, que transitem entre órgãos da Administração, serão feitas preferencialmente por meio eletrônico.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da prática de atos processuais por fac-símile e teleconferência
 
 **Art. 91** \- É permitida a prática de atos processuais que dependam de petição escrita mediante a utilização de sistema de transmissão de dados e imagens, tipo fac-símile, ou outro similar, na forma prevista em regulamento.
@@ -617,7 +638,8 @@ Da prática de atos processuais por fac-símile e teleconferência
 
 **Art. 93** \- A Administração poderá realizar, por sistema de videoconferência ou outro recurso tecnológico de transmissão de sons e imagens em tempo real, interrogatório, depoimento, reunião de órgão colegiado ou audiência pública, dentre outros atos processuais.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Sistema de processo eletrônico
 
 **Art. 94** \- A Administração poderá desenvolver sistema eletrônico para os processos administrativos por meio de autos total ou parcialmente digitais, utilizando, preferencialmente, a rede mundial de computadores e o acesso por meio de redes internas e externas.
@@ -648,7 +670,8 @@ Sistema de processo eletrônico
 
 **Parágrafo único -**   O acesso aos dados e documentos, de que trata este artigo, dar-se-á por qualquer meio tecnológico disponível, preferencialmente o de menor custo, considerada sua eficiência.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Do Diário Oficial Eletrônico
 
 **Art. 100** \- A Administração implantará Diário Oficial Eletrônico, disponibilizado em site da rede mundial de computadores, para publicação de atos administrativos e comunicações em geral.
@@ -659,13 +682,16 @@ Do Diário Oficial Eletrônico
 
 **§ 3º** \- Considera-se data da publicação o primeiro dia útil seguinte ao da disponibilização da informação no Diário Eletrônico.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 PROCESSOS ADMINISTRATIVOS ESPECIAIS
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO PROCESSO SANCIONATÓRIO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Das Disposições Gerais
 
 **Art. 101** \- Rege-se por este Capítulo o processo sancionatório destinado à imposição de penalidade, em face da prática de infração administrativa, com observância das garantias da ampla defesa e do contraditório, nas hipóteses não disciplinadas em legislação específica.
@@ -684,7 +710,8 @@ Das Disposições Gerais
 
 **III -**     verificar a existência de indícios suficientes de prática de infração administrativa, após o juízo de admissibilidade de denúncia apresentada perante os órgãos de controle da Administração Pública.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da denúncia de infração administrativa
 
 **Art. 104** \- Qualquer pessoa que tiver conhecimento de violação da ordem jurídica, no âmbito da Administração estadual, poderá denunciá-la às autoridades competentes.
@@ -717,7 +744,8 @@ Da denúncia de infração administrativa
 
 **Parágrafo único -**   Os procedimentos mencionados no _caput_ deste artigo restringem-se ao desempenho da função administrativa por parte dos órgãos ou entidades referidas no art. 104, para o controle interno dos seus próprios atos.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do rito do processo sancionatório
 
 **Art. 108** \- O processo sancionatório será instaurado mediante expedição de portaria ou lavratura de auto de infração, dando-se ciência ao acusado através de notificação efetuada na forma prevista no art. 49 desta Lei.
@@ -800,7 +828,8 @@ Do rito do processo sancionatório
 
 **Art. 124** \- Aplica-se subsidiariamente, no que couber, o Código de Processo Penal ao processo sancionatório.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PROCESSO DE JUSTIFICAÇÃO
 
 **Art. 125** \- Rege-se por este Capítulo o processo de justificação administrativa, destinado a suprir falta ou insuficiência de documento e produzir prova de fato de interesse do postulante, perante órgãos e entidades da Administração.
@@ -823,7 +852,8 @@ DO PROCESSO DE JUSTIFICAÇÃO
 
 **Art. 130** \- Será apurada a responsabilidade criminal dos autores de declarações falsas, prestadas em justificações administrativas, mediante representação da autoridade ao Ministério Público.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO PROCESSO DE INVALIDAÇÃO DE ATOS E CONTRATOS ADMINISTRATIVOS
 
 **Art. 131** \- Rege-se pelo disposto neste Capítulo o processo de invalidação de ato e contrato administrativo, que poderá ser instaurado pela Administração, de ofício, ou a requerimento de particular.
@@ -852,10 +882,12 @@ DO PROCESSO DE INVALIDAÇÃO DE ATOS E CONTRATOS ADMINISTRATIVOS
 
 **Art. 135** \- Ao declarar a invalidade do ato ou contrato, e tendo em vista razões de segurança jurídica ou de relevante interesse social, poderá a autoridade restringir os efeitos daquela declaração ou decidir que só tenha eficácia a partir do ato decisório ou de momento específico.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO PROCESSO DE REPARAÇÃO DE DANOS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da apuração do dano
 
 **Art. 136** \- Regem-se pelo disposto neste Capítulo os processos de reparação de danos patrimoniais causados pela Administração a terceiros, e pelo administrado ao erário.
@@ -874,7 +906,8 @@ Da apuração do dano
 
 **Art. 140** \- Nas indenizações pagas nos termos deste Capítulo não incidirão honorários advocatícios.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da reparação de danos ao administrado
 
 **Art. 141** \- O processo administrativo de reparação de danos causados ao administrado será instaurado a pedido do interessado ou de ofício.
@@ -887,7 +920,8 @@ Da reparação de danos ao administrado
 
 **Art. 145** \- Concluído o processo de reparação de danos, a Administração cobrará os valores pagos do agente público que praticou o ato ilícito, identificado mediante devido processo legal, na forma prevista na Seção III deste Capítulo.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Da reparação de danos ao erário
 
 **Art. 146** \- O processo administrativo de reparação de danos ao erário será instaurado para apuração, determinação e cobrança dos prejuízos causados ao erário por agente público, administrado ou qualquer pessoa jurídica, observando as regras previstas na Seção I deste Capítulo.
@@ -906,10 +940,12 @@ Da reparação de danos ao erário
 
 **§ 2º** \- A não quitação do débito no prazo estipulado implicará sua inscrição em Dívida Ativa, na forma da lei.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO PROCESSO SELETIVO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Das Disposições Gerais
 
 **Art. 151** \- Rege-se por este Capítulo o processo seletivo destinado a recrutar pessoal para o desempenho de cargo, emprego e função pública, na forma prevista na Constituição Federal.
@@ -936,7 +972,8 @@ Das Disposições Gerais
 
 **II -**      processo seletivo simplificado.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das etapas do processo seletivo
 
 **Art. 160** \- O processo seletivo será amplamente divulgado, observadas, no mínimo, as seguintes regras:
@@ -965,7 +1002,8 @@ Das etapas do processo seletivo
 
 **Art. 169** \- No exame de saúde do candidato convocado para a posse ou exercício da função somente poderão ser consideradas como inabilitadoras as condições físicas ou psíquicas que impeçam o exercício normal das atribuições funcionais.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do concurso público
 
 **Art. 170** \- O concurso público destina-se ao provimento de cargo ou emprego público, na forma prevista na Constituição Federal.
@@ -1028,7 +1066,8 @@ Do concurso público
 
 **§ 3º** \- Ao candidato inabilitado é assegurado o direito de interpor recurso, juntando as provas que entender necessárias.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do processo seletivo simplificado
 
 **Art. 179** \- O processo seletivo simplificado será utilizado em caso de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, prevista na Constituição Federal.
@@ -1049,12 +1088,14 @@ Do processo seletivo simplificado
 
 **§ 4º** \- A inobservância das regras estabelecidos neste artigo para a dispensa do processo seletivo simplificado implicará responsabilização do agente público.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA ARBITRAGEM
 
 **Art. 182** \- Os instrumentos convocatórios para seleção de interessados em contratar ou conveniar com entidades da Administração poderão prever o emprego dos mecanismos privados de resolução de disputas, inclusive a arbitragem, a ser realizada no Brasil e em língua portuguesa, nos termos da Lei nº 9.307, de 23 de setembro de 1996, para dirimir conflitos decorrentes do contrato ou convênio com eles relacionados.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DAS MEDIDAS ACAUTELATÓRIAS
 
 **Art. 183** \- São admitidas medidas cautelares inominadas, não positivadas em lei, em caso de risco iminente da ocorrência de fatos que possam comprometer o resultado final do processo administrativo, trazer prejuízo ao erário ou lesão ao interesse público de difícil ou impossível reparação.
@@ -1071,7 +1112,8 @@ DAS MEDIDAS ACAUTELATÓRIAS
 
 **Art. 185** \- A autoridade competente para adotar a medida cautelar será a mesma com competência para determinar a instauração do processo administrativo correspondente.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 186** \- Os processos administrativos que tenham disciplina legal específica continuarão a reger-se por lei própria, aplicando-lhes apenas subsidiariamente os preceitos desta Lei.

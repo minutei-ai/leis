@@ -1,32 +1,30 @@
-###DEC-035324-0-000-05-04-1954@@@
+**DECRETO Nº 35**.**324, DE 5 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35</strong>.<strong>324, DE 5 DE ABRIL DE 1954.</strong>
+***Aprova e Regimento da Delegação de contrôle do Departamento Nacional de Estradas de Rodagem.*
 
-<em><strong>Aprova e Regimento da Delegação de contrôle do Departamento Nacional de Estradas de Rodagem</strong></em><em>.</em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Delegação de Contrôle do Departamento Nacional de Estradas de Rodagem, criada pelo art. 3º do Decreto-lei nº 8.463, de 27 de dezembro de 1945, o qual com êste baixa, assinado pelo Ministro da Viação e Obras Públicas.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Delegação de Contrôle do Departamento Nacional de Estradas de Rodagem, criada pelo art. 3º do Decreto-lei nº 8.463, de 27 de dezembro de 1945, o qual com êste baixa, assinado pelo Ministro da Viação e Obras Públicas.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 5 de abril de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 José Américo
 
-<strong>REGIMENTO DA DELEGAÇÃO DE CONTRÔLE DO D.N.E.R</strong>
+**REGIMENTO DA DELEGAÇÃO DE CONTRÔLE DO D.N.E.R**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E DA COMPETÊNCIA DA DELEGAÇÃO</em>
+*DA FINALIDADE E DA COMPETÊNCIA DA DELEGAÇÃO*
 
-<strong>Art</strong>. 1º A Delegação de Contôle (D. C.) é o órgão do Departamento de Estradas de Rodagem (D.N.E.R.), incumbido de fiscalizar a sua administração financeira, sob a orientação superior do conselho Rodoviário Nacional (C.R.N.).
+**Art**. 1º A Delegação de Contôle (D. C.) é o órgão do Departamento de Estradas de Rodagem (D.N.E.R.), incumbido de fiscalizar a sua administração financeira, sob a orientação superior do conselho Rodoviário Nacional (C.R.N.).
 
-<strong>Art</strong>. 2º - Compete à D. C.:
+**Art**. 2º - Compete à D. C.:
 
 I - examinar os balancetes mensais e as prestações de contas anuais do Diretor Geral a serem subnmetidos  apreciação do C.R.N., emitindo parecer a respeito;
 
@@ -48,23 +46,23 @@ VII - responder com presteza a tôdas as consultas que lhe formular o C.R.N. ou 
 
 § 3º A D. C. não suscitará mais de uma diligência no mesmo processo sem motivo superveniente à diligência anterior, salvo se esta não fôr devidamente atendida.
 
-<strong>Art</strong>. 3º No exercício das suas atribuições, a D. C. abster-se-á do exame da conveniência ou oportunidade dos atos praticados pela administração do D.N.E.R.
+**Art**. 3º No exercício das suas atribuições, a D. C. abster-se-á do exame da conveniência ou oportunidade dos atos praticados pela administração do D.N.E.R.
 
-<strong>Art</strong>. 4º Em caso de dúvida de interpretação ou consequentes de omissão da legislação em vigor, deverá a D. C. solicitar o prévio pronunciamento do C.R.N.
+**Art**. 4º Em caso de dúvida de interpretação ou consequentes de omissão da legislação em vigor, deverá a D. C. solicitar o prévio pronunciamento do C.R.N.
 
 § 1º Quando o C.R.N. não se pronunciar, dentro de 30 dias, sôbre as dúvidas levadas ao seu conhecimento, nos têrmos dêste artigo terão aplicação subsidiária o Código de Contabilidade Pública e o respectivo Regulamento.
 
 § 2º Quando indispensável diligência, por parte do C.R.N., será interrompido o prazo a que se refere parágrafo anterior mediante comunicação à D. C..
 
-<strong>Art</strong>. 5º Para cumprimento de suas atribuições poderá a D. C. requisitar e examinar, a qualquer tempo, a escrituração e os documentos relacionados com a administração financeira do D.N.E.R.,
+**Art**. 5º Para cumprimento de suas atribuições poderá a D. C. requisitar e examinar, a qualquer tempo, a escrituração e os documentos relacionados com a administração financeira do D.N.E.R.,
 
-<strong>Art</strong>. 6º A D. C. comunicará ao Diretor Geral, por escrito qualquer irregularidade que encontrar, ficando êste obrigado a dar-lhe dentro de dez dias úteis conhecimento das providências que tiver tomado para sanar as irregularidades ou punir os responsáveis; se as irregularidades forem de responsabilidade do Diretor Geral, a D. C. comunica-las-à ao Presidente do C.R.N..
+**Art**. 6º A D. C. comunicará ao Diretor Geral, por escrito qualquer irregularidade que encontrar, ficando êste obrigado a dar-lhe dentro de dez dias úteis conhecimento das providências que tiver tomado para sanar as irregularidades ou punir os responsáveis; se as irregularidades forem de responsabilidade do Diretor Geral, a D. C. comunica-las-à ao Presidente do C.R.N..
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA COMPOSIÇÃO</em>
+*DA COMPOSIÇÃO*
 
-<strong>Art</strong>. 7º a D. C. é constituída:
+**Art**. 7º a D. C. é constituída:
 
 I - de um funcionário do Corpo Instrutivo do Tribunal de Contas, ao qual compete a sua presidência;
 
@@ -74,11 +72,11 @@ III - de um funcionário do Departamento de Administração do Ministério da Vi
 
 Parágrafo único. Nas faltas e impedimentos do Presidente, a presidência será exercida pelo mais idoso dos outros membros.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DOS MEMBROS DA D. C.</em>
+*DOS MEMBROS DA D. C.*
 
-<strong>Art</strong>. 8º Compete ao Presidente:
+**Art**. 8º Compete ao Presidente:
 
 I - Presidir às reuniões;
 
@@ -98,7 +96,7 @@ VIII - zelar para que sejam observados, por àqueles a que forem distribuídos o
 
 IX - apresentar, anualmente um relatório sôbre as atividades da D. C., ao C.R.N.
 
-<strong>Art</strong>. 9º A. cada um dos Membros da D. C., inclusive ao seu Presidente, compete:
+**Art**. 9º A. cada um dos Membros da D. C., inclusive ao seu Presidente, compete:
 
 I - o estudo dos processos;
 
@@ -108,17 +106,17 @@ III - o exercício do voto nas decisões;
 
 IV - a assinatura das atas das sessões.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA ORGANIZAÇÃO DOS SERVIÇOS E DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DA ORGANIZAÇÃO DOS SERVIÇOS E DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 10. A. D.C. terá uma secretária constituída dos seguintes órgãos:
+**Art**. 10. A. D.C. terá uma secretária constituída dos seguintes órgãos:
 
 I - Seção de Tomadas de Contas;
 
 II - Seção de Expediente.
 
-<strong>Art</strong>. 11. Cabe à Seção de Tomada de Contas:
+**Art**. 11. Cabe à Seção de Tomada de Contas:
 
 I - o exame e instrução de todos os processos de tomada de contas, atos e contratos submetidos à D. C.;
 
@@ -128,7 +126,7 @@ III - a organização da relação dos contratantes sujeitos a tomada de contas;
 
 IV - a organização do arquivo de tomada de contas.
 
-<strong>Art</strong>. 12 Cabe à Seção de Expediente:
+**Art**. 12 Cabe à Seção de Expediente:
 
 I - a prática dos atos de expediente necessários ao exercício das funções da D.C.;
 
@@ -146,7 +144,7 @@ VII - a remessa, ao Diretor Geral, das provisões de quitação, assinadas pelo 
 
 VIII - a execução dos serviços internos da D.C., relativos a pessoal, material e comunicação.
 
-<strong>Art</strong>. 13. Ao chefe da secretária incumbe:
+**Art**. 13. Ao chefe da secretária incumbe:
 
 I - orientar, cooderar e controlar os trabalhos da Secretaria;
 
@@ -156,7 +154,7 @@ III - indicar, entre os Chefes de Seção, seu substituto eventual;
 
 IV - coligir elementos para o relatório anual da D. C.
 
-<strong>Art</strong>. 14. Aos chefes de Seção incumbe:
+**Art**. 14. Aos chefes de Seção incumbe:
 
 I - distribuir pelos servidores o trabalho a realizar;
 
@@ -170,50 +168,50 @@ V - fornecer elementos para o relatório anual de D. C.;
 
 VI - executar os serviços que lhes forem atribuídos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA DISTRIBUIÇÃO E DO ESTUDO DOS PROCESSOS</em>
+*DA DISTRIBUIÇÃO E DO ESTUDO DOS PROCESSOS*
 
-<strong>Art</strong>. 15. Os processos, a critério do Presidente, poderão ser distribuídos imediatamente ou durante as reuniões.
+**Art**. 15. Os processos, a critério do Presidente, poderão ser distribuídos imediatamente ou durante as reuniões.
 
-<strong>Art</strong>. 16. O relator terá o prazo de 15 dias para o oferecimento do parecer.
+**Art**. 16. O relator terá o prazo de 15 dias para o oferecimento do parecer.
 
 § 1º Os pareceres serão sempre anexados ao processo.
 
 § 2º O pedido de vista de qualquer processo por um dos Membros da Delegação, não prejudicará o prazo previsto no § 1º do art. 2º.
 
-<strong>Art</strong>. 17. Os processos devolvidos pelos relatores serão, imediatamente, incluídos em pauta.
+**Art**. 17. Os processos devolvidos pelos relatores serão, imediatamente, incluídos em pauta.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS REUNIÕES</em>
+*DAS REUNIÕES*
 
-<strong>Art</strong>. 18. A. Delegação reunir-se-a ordinariamente duas vêzes por semana, em dias fixados pelo Presidente, e sessão extraordinária sempre que por êste convocada.
+**Art**. 18. A. Delegação reunir-se-a ordinariamente duas vêzes por semana, em dias fixados pelo Presidente, e sessão extraordinária sempre que por êste convocada.
 
-<strong>Art</strong>. 19. Terão preferência sôbre os da pauta os assuntos que necessitem, de deliberação imediata.
+**Art**. 19. Terão preferência sôbre os da pauta os assuntos que necessitem, de deliberação imediata.
 
 Parágrafo único. Os processos referentes as prestações de contas anuais e balancetes mensais do D.N.E.R. preferirão sempre a quaisquer outros.
 
-<strong>Art</strong>. 20. A. Delegação funcionará com a presença de, pelo menos, dois de seus membros.
+**Art**. 20. A. Delegação funcionará com a presença de, pelo menos, dois de seus membros.
 
-<strong>Art</strong>. 21. Durante e discussão e antes da votação, qualquer Membro da Delegação poderá pedir vista do processo, até a reunião seguinte, atendido o dispôsto no § 2º do artigo 16.
+**Art**. 21. Durante e discussão e antes da votação, qualquer Membro da Delegação poderá pedir vista do processo, até a reunião seguinte, atendido o dispôsto no § 2º do artigo 16.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO REEXAME DE DECISÕES</em>
+*DO REEXAME DE DECISÕES*
 
-<strong>Art</strong>. 22. Qualquer assunto, submetido à D.C., poderá voltar ao seu exame por iniciativa do Diretor Geral, com base em razões ou documentos não apreciados anteriormente.
+**Art**. 22. Qualquer assunto, submetido à D.C., poderá voltar ao seu exame por iniciativa do Diretor Geral, com base em razões ou documentos não apreciados anteriormente.
 
 Parágrafo único. Nêsse caso, o processo será distribuído a relator diverso do que houver funcionando na decisão anterior.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 23. Aos Membros da Delegação, poderá o Ministro da Viação e Obras Públicas conceder, sob proposta do Conselho Rodoviário Nacional, uma gratificação que não exceda a Cr$1.500,00 (mil e quinhentos cruzeiros) mensais.
+**Art**. 23. Aos Membros da Delegação, poderá o Ministro da Viação e Obras Públicas conceder, sob proposta do Conselho Rodoviário Nacional, uma gratificação que não exceda a Cr$1.500,00 (mil e quinhentos cruzeiros) mensais.
 
-<strong>Art</strong>. 24. Sempre que verificadas 8 (oito) faltas consecutivas de um Membro da Delegação às suas reuniões, o Presidente em exercício comunicará o fato ao C.R.N.
+**Art**. 24. Sempre que verificadas 8 (oito) faltas consecutivas de um Membro da Delegação às suas reuniões, o Presidente em exercício comunicará o fato ao C.R.N.
 
 Rio de Janeiro, 5 de abril de 1954.
 
-<strong>JOSÉ AMÉRICO</strong>
+**JOSÉ AMÉRICO**

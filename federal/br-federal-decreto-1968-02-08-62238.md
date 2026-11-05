@@ -1,5 +1,3 @@
-###DEC-062238-0-000-08-02-1968@@@
-
 DECRETO Nº 62.238, DE 8 DE FEVEREIRO 1968.
 
 Cria a Embaixada do Brasil em Coveite.

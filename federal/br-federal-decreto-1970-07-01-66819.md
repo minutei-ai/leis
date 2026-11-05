@@ -1,5 +1,3 @@
-###DEC-066819-0-000-01-07-1970@@@
-
 DECRETO Nº 66.819, DE 1 DE JULHO DE 1970.
 
 Dispõe sôbre os depósitos devidos ao Fundo de Garantia do Tempo de Serviço, em decorrência do estabelecido no artigo 3º da Lei nº 5.480, de 10 de agôsto de 1968.

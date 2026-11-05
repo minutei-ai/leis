@@ -1,5 +1,3 @@
-###DEC-080248-0-000-30-08-1977@@@
-
 Decreto nº 80.248, de 30 de agosto de 1977.
 
 Concede à Minérios Industriais do Sul S. A. - MINEL o direito de lavrar calcário no Município de Rio Pardo, Estado do Rio Grande do Sul.

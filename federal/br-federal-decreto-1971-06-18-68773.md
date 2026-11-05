@@ -1,5 +1,3 @@
-###DEC-068773-0-000-18-06-1971@@@
-
 DECRETO Nº 68.773 - DE 18 DE JUNHO DE 1971.
 
 Prorroga o prazo a execução dos serviços concernentes aos registros públicos, regulados pelo Decreto-lei nº 1.000, de 21 de outubro de 1969.

@@ -1,5 +1,3 @@
-###DEC-068817-0-000-28-06-1971@@@
-
 DECRETO Nº 68.817 - DE 28 DE JUNHO DE 1971.
 
 Declara de utilidade pública a sociedade Beneficente de Senhoras - Hospital Sírio Libanês, com sede em São Paulo, Estado de São Paulo.

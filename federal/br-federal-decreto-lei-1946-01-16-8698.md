@@ -1,5 +1,3 @@
-###DEL-008698-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.698 – DE 16 DE JANEIRO DE 1946
 
  Altera a carreira de Bibliotecário do Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

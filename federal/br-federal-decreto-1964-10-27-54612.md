@@ -1,5 +1,3 @@
-###DEC-054612-0-000-27-10-1964@@@
-
 DECRETO Nº 54.612, DE 27 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Dias Leite a pesquisar esteatita no município de Congonhas, Estado de Minas Gerais.

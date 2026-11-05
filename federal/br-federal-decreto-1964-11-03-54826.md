@@ -1,5 +1,3 @@
-###DEC-054826-0-000-03-11-1964@@@
-
 DECRETO Nº 54.826, DE 3 DE NOVEMBRO DE 1964.
 
 Outorga ao Município de Campestre, Estado de Minas Gerais, concessão para o aproveitamento de energia hidráulica.

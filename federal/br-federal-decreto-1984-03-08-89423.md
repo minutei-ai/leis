@@ -1,5 +1,3 @@
-###DEC-089423-0-000-08-03-1984@@@
-
 Decreto nº 89.423, de 08 de março de 1984.
 
 Dispõe sobre o limite do Capital Autorizado da ULTRAFÉRTIL SIA - Indústria e Comércio de Fertilizantes.

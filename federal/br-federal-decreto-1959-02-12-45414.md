@@ -1,5 +1,3 @@
-###DEC-045414-0-000-12-02-1959@@@
-
 DECRETO Nº 45.414, DE 12 DE FEVEREIRO DE 1959.
 
 Declara de utilidade pública uma área de terra situada no Município de Araras, Estado de São Paulo, destinada à localização de uma subestação transformadora da Companhia hidroelétrica do Rio Pardo, e autoriza a citada Companhia a promover a desapropriação da referida área de terra.

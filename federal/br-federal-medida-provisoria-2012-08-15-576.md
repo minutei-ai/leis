@@ -1,5 +1,3 @@
-###MPV-000576-0-000-15-08-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 576, DE 15 DE AGOSTO 2012
 
 Altera as Leis nº 10.233, de 5 de junho de 2001, e nº 12.404, de 4 de maio de 2011, para modificar a denominação da Empresa de Transporte Ferroviário de Alta Velocidade S.A. - ETAV para Empresa de Planejamento e Logística S.A. - EPL, e ampliar suas competências.

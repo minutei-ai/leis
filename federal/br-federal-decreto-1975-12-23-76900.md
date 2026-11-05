@@ -1,5 +1,3 @@
-###DEC-076900-0-000-23-12-1975@@@
-
 DECRETO Nº 76.900, DE 23 DE DEZEMBRO DE 1975.
 
 Institui a Relação Anual de Informações Sociais - RAIS e dá outras providências.

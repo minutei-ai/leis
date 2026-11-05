@@ -1,5 +1,3 @@
-###DEL-004715-0-000-18-09-1942@@@
-
 DECRETO-LEI N. 4.715 – DE 18 DE SETEMBRO DE 1942
 
 Cria o 6º Grupo Móvel de Artilharia de Costa na 2º Região Militar

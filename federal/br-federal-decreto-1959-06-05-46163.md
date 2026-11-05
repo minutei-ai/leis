@@ -1,5 +1,3 @@
-###DEC-046163-0-000-05-06-1959@@@
-
 DECRETO Nº 46.163, DE 5 DE JUnHO DE 1959.
 
 Revalida o Decreto nº 39.063, de 18 de abril de 1956, que ampliou a zona de fornecimento da Companhia Fôrça e Luz São João do Matipó e restringiu a da Companhia Leste Mineira de Eletricidade.

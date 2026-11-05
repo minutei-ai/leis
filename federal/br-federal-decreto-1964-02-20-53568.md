@@ -1,5 +1,3 @@
-###DEC-053568-0-000-20-02-1964@@@
-
 DECRETO Nº 53.568, DE 20 DE FEVEREIRO DE 1964.
 
 Institui a Medalha Comemorativa do primeiro centenário do nascimento de Lauro Müller.

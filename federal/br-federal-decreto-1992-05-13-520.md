@@ -1,7 +1,3 @@
-1
-
-###DEC-000520-0-000-13-05-1992@@@
-
 DECRETO Nº 520; DE 13 DE MAIO DE 1992
 
 Institui o Sistema Nacional de Bibliotecas Públicas e dá outras providências.

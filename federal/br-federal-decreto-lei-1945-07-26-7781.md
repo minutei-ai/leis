@@ -1,5 +1,3 @@
-###DEL-007781-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.781 – DE 26 DE JULHO DE 1945
 
 Modifica o processo de provimento de cadeiras da Escola Nacional de Educação Física. e Desportos da Universidade do Brasil.

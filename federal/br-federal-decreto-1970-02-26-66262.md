@@ -1,5 +1,3 @@
-###DEC-066262-0-000-26-02-1970@@@
-
 DECRETO Nº 66.262 - DE 26 DE FEVEREIRO DE 1970
 
 Autoriza a cessão gratuita do terreno que menciona, situado na cidade de Três Passos, no Estado do Rio Grande do Sul.

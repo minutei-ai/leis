@@ -1,7 +1,3 @@
-1
-
-###DEC-098897-0-000-30-01-1990@@@
-
 DECRETO Nº 98.897, DE 30 DE JANEIRO DE 1990
 
 Dispõe sobre as reservas extrativistas e dá outras providências.

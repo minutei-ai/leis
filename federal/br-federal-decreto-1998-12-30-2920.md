@@ -1,5 +1,3 @@
-###DEC-002920-0-000-30-12-1998@@@
-
 DECRETO Nº 2.920, DE 30 DE DEZEMBRO DE 1998.
 
 Dispõe sobre o pagamento de tarifas bancárias pelos órgãos da administração pública federal.

@@ -1,5 +1,3 @@
-###DEC-080117-0-000-10-08-1977@@@
-
 DECRETO Nº 80.117, DE 10 DE AGOSTO DE 1977.
 
 Concede a Jacir de Freitas, firma individual, o direito de lavrar ardósia no Município de Sete Lagoas, Estado de Minas Gerais.

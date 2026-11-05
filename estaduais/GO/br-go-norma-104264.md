@@ -22,8 +22,6 @@ DECRETO Nº 9.925, DE 23 DE AGOSTO DE 2021
 
 ~~Goiânia, 23 de agosto de 2021; 133º da República.~~
 
-<br>
-
 ~~RONALDO CAIADO~~
 
 ~~Governador do Estado~~

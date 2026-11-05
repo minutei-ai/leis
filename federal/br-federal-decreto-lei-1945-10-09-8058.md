@@ -1,5 +1,3 @@
-###DEL-008058-0-000-09-10-1945@@@
-
 DECRETO-LEI N. 8.058 – DE 9 DE OUTUBRO DE 1945
 
 Cria, no Quadro Permanente da Prefeitura do Distrito Federal, cargo isolado, de provimento em comissão, e dá outras providências.

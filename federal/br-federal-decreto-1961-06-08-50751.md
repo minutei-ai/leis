@@ -1,5 +1,3 @@
-###DEC-050751-0-000-08-06-1961@@@
-
 DECRETO Nº 50.751, DE 8 DE JUNHO DE 1961.
 
 Prorroga prazo do Decreto nº 50.375, de 22 de março de 1961.

@@ -1,5 +1,3 @@
-###DEC-061103-0-000-28-07-1967@@@
-
 DECRETO Nº 61.103, DE 28 DE julho DE 1967.
 
 Autoriza o funcionamento da Escola de Engenharia da Fundação Técnico Educacional, na cidade do Rio de Janeiro, Estado da Guanabara.

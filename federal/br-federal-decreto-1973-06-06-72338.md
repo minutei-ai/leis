@@ -1,5 +1,3 @@
-###DEC-072338-0-000-06-06-1973@@@
-
 Decreto nº 72.338, de 6 de junho de 1973.
 
 Redistribui cargo, com o respectivo ocupante, para o Tribunal Regional do Trabalho da 3ª Região, e dá outras providências.

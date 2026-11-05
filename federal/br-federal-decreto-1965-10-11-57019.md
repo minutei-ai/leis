@@ -1,5 +1,3 @@
-###DEC-057019-0-000-11-10-1965@@@
-
 Decreto nº 57.019, de 11 de outubro de 1965.
 
 Autoriza Mineração Mascote Ltda. a pesquisar barita no município de Seabra, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-092007-0-000-28-11-1985@@@
-
 DECRETO Nº 92.007, DE 28 DE novembro DE 1985
 
 Dispõe sobre a redução de despesas de serviços de terceiros e outros custeios nas empresas estatais, e dá outras providências.

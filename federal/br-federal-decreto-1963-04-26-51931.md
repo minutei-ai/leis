@@ -1,5 +1,3 @@
-###DEC-051931-0-000-26-04-1963@@@
-
 DECRETO Nº 51.931, de 26 de abril de 1963.
 
 Autoriza o cidadão Eric Adolph Engel a comprar pedras preciosas.

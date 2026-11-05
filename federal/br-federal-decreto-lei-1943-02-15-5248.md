@@ -1,5 +1,3 @@
-###DEL-005248-0-000-15-02-1943@@@
-
 DECRETO‑LEI N. 5.248 – DE 15 DE FEVEREIRO DE 1943
 
 Jurisdiciona ao Ministério da Marinha os serviços referentes à movimentação e ao aprestamento de navios mercantes, em portos brasileiros

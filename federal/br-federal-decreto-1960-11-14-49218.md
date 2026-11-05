@@ -1,5 +1,3 @@
-###DEC-049218-0-000-14-11-1960@@@
-
 Decreto nº 49.218, de 14 de novembro de 1960.
 
 Declara de utilidade pública a Associação Brasileira de Combate à Tuberculose com sede no Estado da Guanabara.

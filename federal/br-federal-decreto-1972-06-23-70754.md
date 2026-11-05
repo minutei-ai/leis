@@ -1,5 +1,3 @@
-###DEC-070754-0-000-23-06-1972@@@
-
 DECRETO nº 70.754, de 23 de junho de 1972.
 
 Torna sem efeito aproveitamento no Ministério da Marinha de disponível do Instituto de Previdência dos Servidores do Estado.

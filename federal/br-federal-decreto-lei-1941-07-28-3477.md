@@ -1,5 +1,3 @@
-###DEL-003477-0-000-28-07-1941@@@
-
 DECRETO-LEI N. 3.477 – DE 28 DE JULHO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 9:660$0, para pagamento a professores

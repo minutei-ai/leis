@@ -1,5 +1,3 @@
-###DEC-072664-0-000-20-08-1973@@@
-
 decreto Nº 72.664, de 20 de agosto de 1973.
 
 Autoriza o funcionamento da Faculdade de Comunicação Social "Brás Cubas", mantida pela Sociedade Civil de Educação "Brás Cubas", em Mogi das Cruzes, Estado de São Paulo.

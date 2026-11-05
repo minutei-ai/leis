@@ -1,5 +1,3 @@
-###DEC-083800-0-000-30-07-1979@@@
-
 DECRETO Nº 83.800, DE 30 DE JULHO DE 1979.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada pela Siderurgia Brasileira S/A - SIDERBRÁS.

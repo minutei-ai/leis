@@ -1,5 +1,3 @@
-###DEC-051950-A-000-26-04-1963@@@
-
 DECRETO Nº 51.950-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Christovam Miguel Sanches a pesquisar água mineral no município de Valinhos, Estado de São Paulo.

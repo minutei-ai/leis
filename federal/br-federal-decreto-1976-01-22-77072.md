@@ -1,5 +1,3 @@
-###DEC-077072-0-000-22-01-1976@@@
-
 DECRETO Nº 77.072, DE 22 DE JANEIRO DE 1976.
 
 Autoriza o Banco Europeu para a América Latina (B.E.A.L.) S.A., como sucessor do Banco Italo-Belga S.A., a funcionar no País e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056025-0-000-23-04-1965@@@
-
 DECRETO Nº 56.025, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Hiroyuki Morikawa a pesquisar caulim, no município de Mogi das Cruzes, Estado de São Paulo.

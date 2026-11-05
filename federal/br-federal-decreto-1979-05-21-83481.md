@@ -1,5 +1,3 @@
-###DEC-083481-0-000-21-05-1979@@@
-
 Decreto nº. 83.481, de 21 de maio de 1979.
 
 Cria o Quadro de Oficiais Músicos no Corpo de Oficiais da Ativa da Aeronáutica, em tempo de paz, e dá outras providências.

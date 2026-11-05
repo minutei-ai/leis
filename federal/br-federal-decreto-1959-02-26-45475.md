@@ -1,5 +1,3 @@
-###DEC-045475-0-000-26-02-1959@@@
-
 DECRETO Nº 45.475, DE 26 DE FEVEREIRO DE 1959.
 
 Aprova o Regulamento para o Escola de Guerra Naval.

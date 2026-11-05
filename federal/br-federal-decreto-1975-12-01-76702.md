@@ -1,5 +1,3 @@
-###DEC-076702-0-000-01-12-1975@@@
-
 DECRETO Nº 76.702, DE 1 DE DEZEMBRO DE 1975.
 
 Concede autorização às empresas Compagnie Générale de Geophysique e Companhia Brasileira de Geofísica, para operarem na plataforma continental a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

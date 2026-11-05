@@ -1,5 +1,3 @@
-###DEC-091077-0-000-12-03-1985@@@
-
 Decreto nº 91.077, de 12 de março de 1985
 
 Dispõe sobre a alienação de material, no âmbito do Ministério da Marinha, e dá outras providências.

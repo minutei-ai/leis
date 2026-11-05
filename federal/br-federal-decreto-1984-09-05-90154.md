@@ -1,5 +1,3 @@
-###DEC-090154-0-000-05-09-1984@@@
-
 Decreto nº 90.154, de 05 de setembro de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Barra Funda da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

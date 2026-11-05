@@ -1,5 +1,3 @@
-###DEC-096438-0-000-28-07-1988@@@
-
 DECRETO N.° 96.438, DE 28 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado GLEBA SÃO BENEDITO, na Data Remanso da Mariana, classificado como “latifúndio por exploração”, situado no Município de Coroatá, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.6l9, de 2 de maio de 1986, e dá outras providências.

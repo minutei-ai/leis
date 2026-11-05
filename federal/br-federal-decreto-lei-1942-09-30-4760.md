@@ -1,5 +1,3 @@
-###DEL-004760-0-000-30-09-1942@@@
-
 DECRETO-LEI N. 4.760 – DE 30 DE SETEMBRO DE 1942
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 1.087:000$0 à verba que especifica e dá outras providências

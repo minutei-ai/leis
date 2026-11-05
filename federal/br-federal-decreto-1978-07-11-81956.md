@@ -1,5 +1,3 @@
-###DEC-081956-0-000-11-07-1978@@@
-
 Decreto nº 81.956, de 11 de julho de 1978.
 
 Concede à Companhia Siderúrgica Cruzeiro do Sul - CRUZUL o direito de lavrar dolomito e minério de manganês no Município de Santa Bárbara, Estado de Minas Gerais.

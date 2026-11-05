@@ -1,5 +1,3 @@
-###MPV-001986-0-003\-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.986-3, DE 9 de março de 2000.
 
 Acresce dispositivos à Lei nº 5.859, de 11 de dezembro de 1972, que dispõe sobre a profissão de empregado doméstico, para facultar acesso ao Fundo de Garantia do Tempo de Serviço - FGTS e ao seguro-desemprego.

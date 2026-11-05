@@ -1,5 +1,3 @@
-###DEC-006900-0-000-15-07-2009@@@
-
 DECRETO Nº 6.900, DE 15 DE JULHO DE 2009.
 
 Acresce o art. 14-A ao Decreto no 3.112, de 6 de julho 1999, que regulamenta a Lei no 9.796, de 5 de maio de 1999, e dá outras providências.

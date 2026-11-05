@@ -1,5 +1,3 @@
-###DEC-048057-0-000-06-04-1960@@@
-
 DECRETO Nº 48.057, de 6 de abril de 1960.
 
 Extingui as Companhias de Serviço Industrial existentes no Exército e dá outras providências.

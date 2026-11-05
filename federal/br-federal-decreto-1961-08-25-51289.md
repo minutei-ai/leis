@@ -1,5 +1,3 @@
-###DEC-051289-0-000-25-08-1961@@@
-
 DECRETO Nº 51.289, DE 25 DE AGÔSTO DE 1961.
 
 Concede à Águas Minerais Bom Pastor Ltda. autorização para funcionar como emprêsa de mineração.

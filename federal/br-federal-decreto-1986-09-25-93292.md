@@ -1,5 +1,3 @@
-###DEC-093292-0-000-25-09-1986@@@
-
 DECRETO Nº 93.292, DE 25 DE SETEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Palheiros", situado nos Municípios de Açu e Upanema, no Estado do Rio Grande do Norte, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.681, de 19 de maio de 1986, e dá outras providências.

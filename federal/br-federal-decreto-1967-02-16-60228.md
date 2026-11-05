@@ -1,5 +1,3 @@
-###DEC-060228-0-000-16-02-1967@@@
-
 DECRETO Nº 60.228, DE 16 DE FEVEREIRO DE 1967.
 
 Retifica o Decreto nº 59.872, de 26 de dezembro de 1966.

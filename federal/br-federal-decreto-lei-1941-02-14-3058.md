@@ -1,5 +1,3 @@
-###DEL-003058-0-000-14-02-1941@@@
-
 DECRETO-LEI N. 3.058 – DE 14 DE FEVEREIRO DE 1941
 
 Dispõe sobre a extensão dos serviços de energia elétrica à localidade de Campo Limpo, no município de Jundiaí, Estado de S. Paulo, por parte da Empresa Luz e Força de Jundiaí

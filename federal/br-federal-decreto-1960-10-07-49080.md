@@ -1,5 +1,3 @@
-###DEC-049080-0-000-07-10-1960@@@
-
 DECRETO Nº 49.080, DE 7 DE OUTUBRO DE 1960.
 
 Dispõe sôbre a desapropriação de imóveis destinados a Escola Industrial de Fortaleza.

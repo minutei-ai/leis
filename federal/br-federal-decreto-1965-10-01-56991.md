@@ -1,5 +1,3 @@
-###DEC-056991-0-000-01-10-1965@@@
-
 DECRETO Nº 56.991, DE 1º DE OUTUBRO de 1965.
 
 Declara prioritária ao Desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais a importação de equipamentos novos, sem similar nacional registrado neste descritos e consignados à emprêsa “Companhia de Fiação e Tecidos Norte Alagoas”, de Maceió, (AL).
@@ -14,7 +12,37 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao Desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Companhia de Fiação e Tecidos Norte Alagoas” de Maceió (AL):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Partes de trens de alta estiragem WST, tipo UT-3/E-430, para cinco filatórios John Hetherington, inclusive rolos de pressão e gaiolas, tipo “Stabilkaefig” e porta-maçaroca Novibra, sem freio, pêso líquido: 719 quilos, fabricação e exportação de “Spindelfabrik Sussen, Schurr, Stahlecker &amp; Grill GMBH - Sussen – Alemanha Oc ............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.060</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.129</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coletores de Resíduos, sistema Augusta tipo pneumafil para cinco filatórios, inclusive ventiladores industriais acoplados a motor trifásico de 1 KW, pêso liquido 810 quilos; fabricação e exportação de Ernst Jacobi &amp; Co. K.G., Augsburg/Alemanha - Oc .............................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.436</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total ..........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.565</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1
+
+Partes de trens de alta estiragem WST, tipo UT-3/E-430, para cinco filatórios John Hetherington, inclusive rolos de pressão e gaiolas, tipo “Stabilkaefig” e porta-maçaroca Novibra, sem freio, pêso líquido: 719 quilos, fabricação e exportação de “Spindelfabrik Sussen, Schurr, Stahlecker &amp; Grill GMBH - Sussen – Alemanha Oc ............................................................
+
+6.060
+
+7.129
+
+2
+
+Coletores de Resíduos, sistema Augusta tipo pneumafil para cinco filatórios, inclusive ventiladores industriais acoplados a motor trifásico de 1 KW, pêso liquido 810 quilos; fabricação e exportação de Ernst Jacobi &amp; Co. K.G., Augsburg/Alemanha - Oc .............................................................................................
+
+10
+
+5.436
+
+Total ..........................................................................................
+
+-
+
+12.565
 
 Parágrafo único. com respeito ao motor elétrico que acompanha a maquinária, fica sua similaridade, para efeito da isenção de que trata o presente decreto, para ser examinada pela alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

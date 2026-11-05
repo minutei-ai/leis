@@ -1,5 +1,3 @@
-###DEC-074907-0-000-19-11-1974@@@
-
 DECRETO Nº 74.907, DE 19 DE NOVEMBRO DE 1974.
 
 Concede à Empresa Águas de Brasília Ltda. o direito de lavrar água mineral natural hipotermal no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEL-005704-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.704 – DE 29 DE JUlHO DE 1943
 
 Concede pensão especial a Ada Rica de Azevedo

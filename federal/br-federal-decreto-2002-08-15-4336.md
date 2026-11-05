@@ -1,5 +1,3 @@
-###DEC-004336-0-000-15-08-2002@@@
-
 DECRETO Nº 4.336, DE 15 DE AGOSTO DE 2002
 
 Dispõe sobre a utilização de recursos da Reserva Global de Reversão – RGR para o financiamento do atendimento a consumidores de baixa renda, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007563-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.563 – DE 21 DE MAIO DE 1945
 
 Dispõe sôbre a localização da Cidade Universitária da Universidade do Brasil e dá outras providências

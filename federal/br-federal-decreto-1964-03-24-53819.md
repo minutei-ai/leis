@@ -1,5 +1,3 @@
-###DEC-053819-0-000-24-03-1964@@@
-
 DECRETO Nº 53.819, DE 24 DE MARÇO DE 1964.
 
 Dispõe sôbre a aplicação dos artigos 20 e 21 da Lei nº 3.998, de 15 de dezembro de 1961.

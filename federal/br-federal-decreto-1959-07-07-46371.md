@@ -1,5 +1,3 @@
-###DEC-046371-0-000-07-07-1959@@@
-
 DECRETO Nº 46.371, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias à recuperação do Vale do Marituba, no Estado de Alagoas, e dá outras providências.

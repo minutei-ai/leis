@@ -1,5 +1,3 @@
-###DEC-006666-0-000-27-11-2008@@@
-
 DECRETO Nº 6.666, DE 27 DE NOVEMBRO DE 2008.
 
 Institui, no âmbito do Poder Executivo federal, a Infra-Estrutura Nacional de Dados Espaciais - INDE, e dá outras providências.

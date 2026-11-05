@@ -1,4 +1,5 @@
-DECRETO “N” Nº 291 DE 10 DE MAIO DE 2023.<br>
+DECRETO “N” Nº 291 DE 10 DE MAIO DE 2023.
+
 (Revogado pelo Decreto "N" nº 456, de 12 de julho de 2023).
 
 ~~Dispõe sobre a alteração do Decreto “N” nº 681, de 14 de setembro de 2022, que dispõe sobre a nomeação dos membros integrantes da Junta Administrativa de Recursos de Infrações – Jari e dá outras providências.~~
@@ -13,8 +14,10 @@ DECRETO “N” Nº 291 DE 10 DE MAIO DE 2023.<br>
 
 ~~MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 10 de maio de 2023.~~
 
-~~VILMAR MARIANO DA SILVA<br>
+~~VILMAR MARIANO DA SILVA
+
 Prefeito~~
 
-~~SÉRGIO CÂNDIDO DE CARVALHO<br>
+~~SÉRGIO CÂNDIDO DE CARVALHO
+
 Secretário Executivo de Mobilidade~~

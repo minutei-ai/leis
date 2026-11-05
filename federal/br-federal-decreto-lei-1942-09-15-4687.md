@@ -1,5 +1,3 @@
-###DEL-004687-0-000-15-09-1942@@@
-
 DECRETO-LEI N. 4.687 – DE 15 DE SETEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de 20:000$0 (vinte contos de réis), à verba que especifica

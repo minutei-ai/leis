@@ -1,5 +1,3 @@
-###DEC-091003-0-000-27-02-1985@@@
-
 decreto nº 91.003, de 27 de fevereiro de 1985
 
 Dispõe sobre a execução orçamentária do Projeto "Complementação de Imagens de Radar no Brasil".

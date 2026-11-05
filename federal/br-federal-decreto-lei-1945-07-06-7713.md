@@ -1,5 +1,3 @@
-###DEL-007713-0-000-06-07-1945@@@
-
 DECRETO-LEI N. 7.713 – DE 6 DE JULHO DE 1945
 
 Erige em monumento nacional a cidade de Mariana

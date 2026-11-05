@@ -1,5 +1,3 @@
-###DEL-000588-0-000-16-05-1969@@@
-
 DECRETO-LEI Nº 588, DE 16 DE MAIO DE 1969
 
 Modifica o Projeto 15.04.11.1.180 do programa de trabalho da Superintendência do Desenvolvimento da Amazônia, constante da Lei número 5.546, de 29 de novembro de 1968.

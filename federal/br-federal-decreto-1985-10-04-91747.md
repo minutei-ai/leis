@@ -1,5 +1,3 @@
-###DEC-091747-0-000-04-10-1985@@@
-
 Decrete nº 91.747, de 04 de outubro de 1985
 
 Renova a concessão outorgada à FUNDAÇÃO CÁSPER LÍBERO, para explorar serviço de radiodifusão sonora em ondas curtas, na cidade de São Paulo, Estado de São Paulo.

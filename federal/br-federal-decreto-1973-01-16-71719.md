@@ -1,5 +1,3 @@
-###DEC-071719-0-000-16-01-1973@@@
-
 DECRETO Nº 71.719, DE 16 DE JANEIRO de 1973.
 
 Fixa as proporções para o cálculo do número mínimo de vagas que deveriam ser abertas em 1972 para a aplicação da Cota Compulsória no Ministério da Marinha.

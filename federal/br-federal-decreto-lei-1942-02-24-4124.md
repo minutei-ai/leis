@@ -1,5 +1,3 @@
-###DEL-004124-0-000-24-02-1942@@@
-
 DECRETO-LEI N. 4.124 – DE 24 DE FEREIRO DE 1942
 
 Dispõe sobre os crimes de deserção e engajamento

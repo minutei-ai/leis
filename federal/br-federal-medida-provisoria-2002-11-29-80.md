@@ -1,5 +1,3 @@
-###MPV-000080-0-000-29-11-2002@@@
-
 MEDIDA PROVISÓRIA Nº 80, DE 29 DE NOVEMBRO DE 2002
 
 Altera o art. 5º da Lei nº 8.427, de 27 de maio de 1992, que dispõe sobre a concessão de subvenção econômica nas operações de crédito rural.

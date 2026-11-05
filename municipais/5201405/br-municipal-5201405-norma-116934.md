@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR Nº 112, DE 11 DE DEZEMBRO DE 2015<br>
+LEI COMPLEMENTAR Nº 112, DE 11 DE DEZEMBRO DE 2015
+
 (Revogado pela Lei Complementar nº 127, de 24 de fevereiro de 2017).
 
 ~~Institui a Estrutura Administrativa do Fundo de Previdência Social do Município de Aparecida de Goiânia - APARECIDAPREV e dá outras providências.~~
@@ -71,13 +72,16 @@ LEI COMPLEMENTAR Nº 112, DE 11 DE DEZEMBRO DE 2015<br>
 
  
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER DE MORAIS<br>
+~~EULER DE MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~
 
-~~ELI DE FARIA<br>
+~~ELI DE FARIA
+
 Presidente - APARECIDAPREVI~~
 
 ~~[ANEXOS](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19079/anexo)~~

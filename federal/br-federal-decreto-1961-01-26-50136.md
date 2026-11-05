@@ -1,5 +1,3 @@
-###DEC-050136-0-000-26-01-1961@@@
-
 DECRETO Nº 50.136, DE 26 DE JANEIRO DE 1961.
 
 Exclui a função de Diretor do Hospital Central do Exército do artigo 3º do Decreto nº 43.190 de 12 de fevereiro de 1958.

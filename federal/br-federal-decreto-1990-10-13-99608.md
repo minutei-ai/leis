@@ -1,5 +1,3 @@
-###DEC-099608-0-000-13-10-1990@@@
-
 DECRETO Nº 99.608, DE 13 DE OUTUBRO DE 1990
 
 Cria Grupo de Trabalho com a finalidade de coordenar e estabelecer diretrizes para a negociação de débitos de entidades da Administração Pública Federal e dá outras providências .

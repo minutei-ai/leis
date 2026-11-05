@@ -1,5 +1,3 @@
-###DEC-051134-0-000-03-08-1961@@@
-
 DECRETO Nº 51.134, de 3 de agôsto 1961.
 
 Regula os programas de teatro e diversões pública através do rádio e da televisão, o funcionamento de alto-falantes, e dá outras providências.

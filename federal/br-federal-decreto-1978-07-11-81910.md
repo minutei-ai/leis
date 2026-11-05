@@ -1,5 +1,3 @@
-###DEC-081910-0-000-11-07-1978@@@
-
 Decreto nº 81.910, de 11 de julho de 1978.
 
 Concede à CARBOMINAS - Indústria Química Ltda. o direito de lavrar calcário no Município de Formiga, Estado de Minas Gerais.

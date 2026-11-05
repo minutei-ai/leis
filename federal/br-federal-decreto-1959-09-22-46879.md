@@ -1,5 +1,3 @@
-###DEC-046879-0-000-22-09-1959@@@
-
 DECRETO Nº 46.879, DE 22 DE SETEMBRO DE 1959.
 
 Assegura preços mínimos à produção de juta e malva da Bacia Amazônica, da safra de 1960.

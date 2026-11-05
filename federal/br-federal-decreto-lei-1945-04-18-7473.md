@@ -1,5 +1,3 @@
-###DEL-007473-0-000-18-04-1945@@@
-
 DECRETO-LEI N. 7.473 – DE 18 DE ABRIL DE 1945
 
 Dispõe sôbre a criacão do Instituto Rio Branco e dá outras providências

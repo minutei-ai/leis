@@ -1,5 +1,3 @@
-###DEL-006988-0-000-26-10-1944@@@
-
 DECRETO-LEI N. 6.988 – DE 26 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 9.000.000,00, para atender as despesas da incorporação de imóveis, operada em virtude do Decreto-lei nº 6.426, de 14 de abril de 1944

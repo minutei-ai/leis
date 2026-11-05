@@ -1,5 +1,3 @@
-###DEC-059079-0-000-12-08-1966@@@
-
 DECRETO Nº 59.079, DE 12 DE AGôSTO DE 1966.
 
 Autoriza o Departamento Nacional de Águas e Energia, do Ministério das Minas e Energia, a reconhecer como investimento das concessionárias de serviço público de energia elétrica, cujo contrôle acionário foi adquirido pela ELETROBRÁS, nos têrmos da Lei nº 4.428, de 14 de outubro de 1964, o valor que menciona, para efeitos do disposto no § 1º do art. 5º do Decreto-lei nº 3.128 de 19 de março de 1941.

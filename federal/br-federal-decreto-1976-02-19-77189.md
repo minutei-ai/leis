@@ -1,5 +1,3 @@
-###DEC-077189-0-000-19-02-1976@@@
-
 Decreto nº 77.189, de 19 de fevereiro de 1976.
 
 Declara de utilidade pública, para fins de desapropriação terreno necessário à implantação da subestação de Vitória, de FURNAS - Centrais Elétricas S.A., no Estado do Espírito Santo.

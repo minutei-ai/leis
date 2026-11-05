@@ -1,32 +1,27 @@
-<br>
-<br>
-**LEI Nº 10.254 DE 20 DE DEZEMBRO DE 2023.**<br>
-<br>
-<br>
+**LEI Nº 10.254 DE 20 DE DEZEMBRO DE 2023.**
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%"><b><font face="Arial">DISPÕE SOBRE O PODER DE POLÍCIA SOBRE A ATIVIDADE PETROLÍFERA E INSTITUI A TAXA DE CONTROLE, MONITORAMENTO E FISCALIZAÇÃO DAS ATIVIDADES DE EXPLORAÇÃO E PRODUÇÃO DE PETRÓLEO E GÁS – TFPG NO ESTADO DO RIO DE JANEIRO.</font></b></td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%">**DISPÕE SOBRE O PODER DE POLÍCIA SOBRE A ATIVIDADE PETROLÍFERA E INSTITUI A TAXA DE CONTROLE, MONITORAMENTO E FISCALIZAÇÃO DAS ATIVIDADES DE EXPLORAÇÃO E PRODUÇÃO DE PETRÓLEO E GÁS – TFPG NO ESTADO DO RIO DE JANEIRO.**</td></tr></tbody></table>
 
-<br>
-<br>
-<br>
 **GOVERNADOR DO ESTADO DO RIO DE JANEIRO**
 
-Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:<br>
+Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:
 
 **~~Art. 1º~~**~~\- O poder de polícia, em especial ambiental, sobre a atividade de exploração e produção de Petróleo e Gás no Estado do Rio de Janeiro será exercido pelo órgão ambiental competente mediante controle, registro, monitoramento, avaliação e fiscalização das atividades da indústria petrolífera, consoante competência estabelecida nos incisos VI, VII e XI do art. 23, nos incisos VI e VIII do art. 24, no inciso VI do art. 170 e no art. 225, § 1º, da Constituição da República, bem como nos incisos VI do art. 73, VI e VIII do art. 74 e art. 261 da Constituição do Estado do Rio de Janeiro, e observando-se o disposto na Lei Complementar Federal nº 140/2011.~~
 
 ~~§ 1º- No exercício do poder de polícia, o órgão ambiental competente poderá contar com o apoio técnico e operacional de órgãos e entidades da administração estadual, observadas as respectivas competências legais.~~
 
-~~§ 2º- O órgão ambiental estadual, poderá celebrar convênios ou outros instrumentos com pessoas jurídicas de direito público, tendo como objeto a execução conjunta de atividades específicas objeto da presente Lei.~~<br>
-Art. 1º O poder de polícia atribuído ao controle, registro, monitoramento, avaliação e fiscalização das atividades da indústria petrolífera observará as competências estabelecidas nos incisos VI, VII e XI do art. 23, nos incisos VI e VIII do art. 24, no inciso VI do art. 170 e no art. 225, § 1º, da Constituição da República, bem como nos incisos VI do art. 73, VI e VIII do art. 74 e art. 261 da Constituição do Estado do Rio de Janeiro, e o disposto na Lei Complementar Federal n.º 140, de 08 de dezembro de 2011. (Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).<br>
-<br>
-§ 1º A fiscalização da TFPG será exercida de forma conjunta pelo órgão ambiental competente e pela Secretaria de Estado de Fazenda, dentro das suas atribuições específicas.<br>
-<br>
-§ 2º O órgão ambiental estadual e a Secretaria de Estado de Fazenda poderão celebrar convênios ou outros instrumentos com pessoas jurídicas de direito público, tendo como objeto a execução conjunta de atividades específicas objeto da presente lei.<br>
-(Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).<br>
-<br>
-§ 3º O produto da arrecadação da TFPG será igualmente repartido entre os órgãos referidos no parágrafo anterior. (Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).<br>
-<br>
+~~§ 2º- O órgão ambiental estadual, poderá celebrar convênios ou outros instrumentos com pessoas jurídicas de direito público, tendo como objeto a execução conjunta de atividades específicas objeto da presente Lei.~~
+
+Art. 1º O poder de polícia atribuído ao controle, registro, monitoramento, avaliação e fiscalização das atividades da indústria petrolífera observará as competências estabelecidas nos incisos VI, VII e XI do art. 23, nos incisos VI e VIII do art. 24, no inciso VI do art. 170 e no art. 225, § 1º, da Constituição da República, bem como nos incisos VI do art. 73, VI e VIII do art. 74 e art. 261 da Constituição do Estado do Rio de Janeiro, e o disposto na Lei Complementar Federal n.º 140, de 08 de dezembro de 2011. (Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).
+
+§ 1º A fiscalização da TFPG será exercida de forma conjunta pelo órgão ambiental competente e pela Secretaria de Estado de Fazenda, dentro das suas atribuições específicas.
+
+§ 2º O órgão ambiental estadual e a Secretaria de Estado de Fazenda poderão celebrar convênios ou outros instrumentos com pessoas jurídicas de direito público, tendo como objeto a execução conjunta de atividades específicas objeto da presente lei.
+
+(Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).
+
+§ 3º O produto da arrecadação da TFPG será igualmente repartido entre os órgãos referidos no parágrafo anterior. (Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).
+
 § 4º No exercício do poder de polícia, o órgão ambiental competente e a Secretaria de Estado de Fazenda poderão contar com o apoio técnico e operacional de outros órgãos e entidades da administração estadual, observadas as respectivas competências legais. (Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).
 
 **Art. 2º**\- Constituem objetivos do poder de polícia sobre as atividades da indústria petrolífera:
@@ -53,9 +48,10 @@ X – consolidar e manter informações para subsidiar a investigações de acid
 
 XI – proteger a saúde, a segurança e o bem-estar da população;
 
-XII – proteger as atividades econômicas e sociais realizadas na região.<br>
-XIII – assegurar a arrecadação de receitas tributárias provenientes das atividades econômicas relacionadas ao petróleo e gás, de modo a fomentar o equilíbrio fiscal do Estado; (Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).<br>
-<br>
+XII – proteger as atividades econômicas e sociais realizadas na região.
+
+XIII – assegurar a arrecadação de receitas tributárias provenientes das atividades econômicas relacionadas ao petróleo e gás, de modo a fomentar o equilíbrio fiscal do Estado; (Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).
+
 XIV – implementar mecanismos de acompanhamento e fiscalização tributária com vistas à prevenção de fraudes e irregularidades nas atividades econômicas vinculadas à exploração e produção de petróleo e gás. (Redação dada pela [Lei nº. 10.866 de 03 de julho de 2025](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNlYjE4NmYxYTEwYTM0NzUwMzI1OGNjYTAwNGQ0MDU2P09wZW5Eb2N1bWVudA==)).
 
 **Art. 3º-** O poder de polícia será exercido sobre:
@@ -156,14 +152,10 @@ Parágrafo único. Constatada infração relativa à Taxa de Controle, Monitoram
 
 **Art. 11-** Fica revogada a [Lei n° 7.182, de 29 de dezembro de 2015.](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2Y1OTQxMjgzYWFmODBhZGY4MzI1N2YzMTAwNWJkYzg1P09wZW5Eb2N1bWVudA==)
 
-**Art. 12-** Esta Lei entrará em vigor na data de sua publicação, produzindo efeitos a contar de 1º de abril de 2024.<br>
+**Art. 12-** Esta Lei entrará em vigor na data de sua publicação, produzindo efeitos a contar de 1º de abril de 2024.
 
-Rio de Janeiro, 20 de dezembro de 2023.<br>
-<br>
-<br>
-**CLAUDIO CASTRO**<br>
-**Governador**<br>
+Rio de Janeiro, 20 de dezembro de 2023.
 
-<br>
-<br>
-<br>
+**CLAUDIO CASTRO**
+
+**Governador**

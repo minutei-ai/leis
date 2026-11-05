@@ -1,7 +1,3 @@
-1
-
-###DEC-001507-0-000-30-05-1995@@@
-
 DECRETO Nº 1.507, DE 30 DE MAIO DE 1995
 
 Cria a Comissão Nacional de Segurança Pública nos Portos, Terminais e Vias Navegáveis, e dá outras providências.

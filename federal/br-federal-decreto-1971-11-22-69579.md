@@ -1,5 +1,3 @@
-###DEC-069579-0-000-22-11-1971@@@
-
 DECRETO Nº 69.579 - DE 22 DE NOVEMBRO de 1971
 
 Declara de utilidade pública, para fins de desapropriação pela Concessionária do Porto de Santos, Companhia Docas de Santos as áreas de terreno necessárias aos acessos rodoviárias desde a rodovia Piaçaguera-Guarujá até a Ilha do Barnabé, nos Municípios de Guarujá e de Santos, no Estado de São Paulo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080336-0-000-14-09-1977@@@
-
 DECRETO Nº 80.336, DE 14 DE SETEMBRO DE 1977.
 
 Concede reconhecimento da habilitação em Formação de Professores para Deficientes Mentais, do curso de Pedagogia, da Universidade Católica de Campinas, do Estado de São Paulo.

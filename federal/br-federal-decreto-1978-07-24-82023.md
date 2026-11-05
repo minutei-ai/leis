@@ -1,5 +1,3 @@
-###DEC-082023-0-000-24-07-1978@@@
-
 Decreto nº 82.023, de 24 de julho de 1978.
 
 Declara sem efeito o Decreto nº 80.285, de 05 de setembro de 1977, que concedeu à ITACOMIL - Itambé Comércio e Mineração Ltda. o direito de lavrar argila no Município de Uberaba, Estado de Minas Gerais.

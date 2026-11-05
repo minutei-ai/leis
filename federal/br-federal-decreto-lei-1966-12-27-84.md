@@ -1,5 +1,3 @@
-###DEL-000084-0-000-27-12-1966@@@
-
 DECRETO-LEI Nº 84, DE 27 DE DEZEMBRO DE 1966
 
 Modifica dispositivo da Lei nº 4.936, de 17 de março de 1966, que dispõe sôbre abertura, pelo Poder Executivo, do crédito especial de Cr$500.000.000, destinado a integrar os recursos iniciais do Fundo da Propriedade Industrial.

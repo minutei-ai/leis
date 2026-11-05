@@ -1,5 +1,3 @@
-###DEC-007457-0-000-06-04-2011-PUB-01@@@
-
 DECRETO Nº 7.457, DE 6 DE ABRIL DE 2011
 
 Dá nova redação ao inciso XXII do art 15-A do Decreto nº  6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

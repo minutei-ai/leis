@@ -1,5 +1,3 @@
-###DEC-004111-0-000-01-02-2002@@@
-
 DECRETO Nº 4.111, DE 1º DE FEVEREIRO DE 2002
 
 Autoriza, na forma do 2º do art. 34 da Lei nº 9.427, a ANEEL a contratar temporariamente pessoal técnico de nível superior imprescindível à continuidade de suas atividades e dá outras providências.

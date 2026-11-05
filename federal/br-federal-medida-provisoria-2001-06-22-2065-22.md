@@ -1,5 +1,3 @@
-###MPV-002065-0-022-22-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.065-22, DE 22 DE JUNHO DE 2001
 
 Dispõe sobre a Cédula de Crédito Bancário e acresce dispositivo à Lei nº 4.728, de 14 de julho de 1965, para instituir a alienação fiduciária em garantia de coisa fungível ou de direito.

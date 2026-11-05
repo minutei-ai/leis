@@ -1,5 +1,3 @@
-###MPV-002163-0-041-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.163-41, DE 23 DE AGOSTO de 2001
 
  Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

@@ -1,5 +1,3 @@
-###DEC-051794-0-000-04-03-1963@@@
-
 Decreto nº 51.794, de 04 de MARÇO de 1963.
 
 Autoriza a Companhia Nacional de Alcalis a construir linha de transmissão.

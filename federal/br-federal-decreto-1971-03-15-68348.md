@@ -1,5 +1,3 @@
-###DEC-068348-0-000-15-03-1971@@@
-
 Decreto nº 68.348, de 15 de março de 1971.
 
 Declara sem efeito o Decreto número 29.596 de 28 de maio de 1951.

@@ -1,5 +1,3 @@
-###DEC-097409-0-000-23-12-1988@@@
-
 DECRETO N° 97.409, DE 23 DE DEZEMBRO DE 1988
 
 Promulgação à Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias.

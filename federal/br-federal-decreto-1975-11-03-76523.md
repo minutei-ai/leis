@@ -1,5 +1,3 @@
-###DEC-076523-0-000-03-11-1975@@@
-
 DECRETO Nº 76.523, DE 3 DE NOVEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, imóveis constituídos de terras e benfeitorias, situados nos municípios de São José dos Campos, Jacareí, Santa Branca Guararema, Mogi das Cruzes, Suzano e Mauá, no Estado de São Paulo.

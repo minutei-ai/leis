@@ -1,12 +1,10 @@
-###DEC-035404-0-000-26-04-1954@@@
+**DECRETO Nº 35.404, DE 26 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.404, DE 26 DE ABRIL DE 1954.</strong>
+***Altera a redação do artigo 1º do Decreto nº 35.172, de 9 de março de 1954.***
 
-<em><strong>Altera a redação do artigo 1º do Decreto nº 35.172, de 9 de março de 1954.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 O artigo 1º do Decreto nº 35.172, de 9 de março de 1954, passa a ter a seguinte redação:
 
@@ -14,6 +12,6 @@ O artigo 1º do Decreto nº 35.172, de 9 de março de 1954, passa a ter a seguin
 
 Rio de Janeiro, 26 de abril de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 José Américo

@@ -1,5 +1,3 @@
-###MPV-000534-0-000-20-05-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 534, DE 20 DE MAIO DE 2011
 
 Altera o art. 28 da Lei nº 11.196, de 21 de novembro de 2005, para incluir no Programa de Inclusão Digital Tablet PC produzido no País conforme processo produtivo básico estabelecido pelo Poder Executivo.

@@ -1,5 +1,3 @@
-###DEC-072523-0-000-25-07-1973@@@
-
 DECRETO Nº 72.523, DE 25 DE JULHO DE 1973.
 
 Confisca bens de propriedade da Companhia Brasileira de Cimento Portland Perus e dá outras providências.

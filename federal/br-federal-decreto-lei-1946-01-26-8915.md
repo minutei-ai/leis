@@ -1,5 +1,3 @@
-###DEL-008915-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.915 – DE 26 DE JANEIRO DE 1946
 
 Prorroga, por mais três dias, o prazo a que se fere o art. 1 do Decreto-lei nº 8.830, de 24 de janeiro de 1946.

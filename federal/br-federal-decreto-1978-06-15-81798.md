@@ -1,5 +1,3 @@
-###DEC-081798-0-000-15-06-1978@@@
-
 Decreto nº 81.798, de 15 de junho de 1978.
 
 Dispõe sobre a adoção de medidas de emergência para a erradicação da Peste Suína Africana.

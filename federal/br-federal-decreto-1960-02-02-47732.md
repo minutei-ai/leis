@@ -1,5 +1,3 @@
-###DEC-047732-0-000-02-02-1960@@@
-
 DECRETO Nº 47.732, DE 2 DE FEVEREIRO DE 1960.
 
 Concede autorização para o funcionamento de curso.

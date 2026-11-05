@@ -1,5 +1,3 @@
-###DEL-001557-0-000-14-06-1977@@@
-
 # DECRETO-LEI Nº 1.557, DE 14 DE JUNhO DE 1977
 
 Dispõe sobre a participação acionária da União no capital do Banco da Amazônia SIA e a concessão de incentivos fiscais às pessoas físicas que adquirirem ações do mesmo estabelecimento.

@@ -131,7 +131,3 @@ ANEXO
 TABELA DE VENCIMENTO
 
 SÍMBOLO/GRAU VENCIMENTO Cr$ FO-A 864.640 FO-B 871.767 FO-C 878.894 FO-D 886.021 FO-E 893.148 FO-F 900.275 FO-G 907.402 FO-H 914.529 FO-I 921.656 FO-J 928.783
-
-\---------------------------------------------------------------
-
-Data da última atualização: 29/10/2003.

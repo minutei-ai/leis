@@ -1,5 +1,3 @@
-###DEC-088534-0-000-18-07-1983@@@
-
 DECRETO nº 88.534, de 18 de julho de 1983
 
 Concede à AÇO MINAS GERAIS S.A AÇOMINAS autorização para proceder aumento do seu capital autorizado bem como de capital social.

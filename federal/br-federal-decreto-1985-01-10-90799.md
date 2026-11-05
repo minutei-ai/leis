@@ -1,5 +1,3 @@
-###DEC-090799-0-000-10-01-1985@@@
-
 DECRETO Nº 90.799, DE10 DE JANEIRO DE 1985
 
 Outorga concessão à SOCIEDADE RÁDIO CANCELLA DE ITUIUTABA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Ituiutaba, Estado de Minas Gerais.

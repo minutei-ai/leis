@@ -1,5 +1,3 @@
-###DEC-096495-0-000-11-08-1988@@@
-
 DECRETO N° 96.495, DE 11 DE AGOSTO DE 1988
 
 Baixa instruções complementares para a execução dos arts. 61 e 68 da Lei nº 7.501, de 27 de junho de 1986, e dá outras providências.

@@ -1,32 +1,30 @@
-###DEC-020301-0-000-02-01-1946@@@
+**DECRETO N. 20.301 – DE 2 DE JANEIRO DE 1946**
 
-<strong>DECRETO N. 20.301 – DE 2 DE JANEIRO DE 1946</strong>
+***Aprova o Regimento do Instituto Nacional de Cinema Educativo, do Ministério da Educação e Saúde.***
 
-<em><strong>Aprova o Regimento do Instituto Nacional de Cinema Educativo, do Ministério da Educação e Saúde.</strong></em>
+O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a*,* da Constituição,
 
-O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a<em>,</em> da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art.** 1º – Fica aprovado o regimento do Instituto, Nacional de Cinema Educativo, do Ministério da Educação e Saúde, que, assinado pelo respectivo ministro, baixa com êste decreto.
 
-<strong>Art.</strong> 1º – Fica aprovado o regimento do Instituto, Nacional de Cinema Educativo, do Ministério da Educação e Saúde, que, assinado pelo respectivo ministro, baixa com êste decreto.
+**Art.** 2º – Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art.</strong> 2º – Êste decreto entrará em vigor na data da sua publicação.
-
-<strong>Art.</strong> 3º – Revogam-se as disposições em contrário.
+**Art.** 3º – Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 2 de janeiro de 1946, 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES.</strong>
+**JOSÉ LINHARES.**
 
 Raul Leitão da Cunha.
 
-<h1 style="margin-top:6pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGIMENTO DO INSTITUTO NACIONAL DE CINEMA EDUCATIVO</strong></span></span></h1>
+# **REGIMENTO DO INSTITUTO NACIONAL DE CINEMA EDUCATIVO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E COMPETÊNCIA</em>
+*DA FINALIDADE E COMPETÊNCIA*
 
-<strong>Art.</strong> 1º – O Instituto Nacional de Cinema Educativo, órgão subordinado imediatamente ao Ministro da Educação e Saúde tem por finalidade promover e orientar a utilização da cinematografia especialmente como processo auxiliar de ensino e ainda como meio de educação em geral, competindo-lhe:
+**Art.** 1º – O Instituto Nacional de Cinema Educativo, órgão subordinado imediatamente ao Ministro da Educação e Saúde tem por finalidade promover e orientar a utilização da cinematografia especialmente como processo auxiliar de ensino e ainda como meio de educação em geral, competindo-lhe:
 
 a) – editar filmes educativos escolares (sub-standard) e populares:
 
@@ -38,11 +36,11 @@ c) – prestar assistência científica e técnica à iniciativa particular desd
 
 Parágrafo único – Para cumprir a sua finalidade, em tôda a extensão, o Instituto manterá uma filmotéca, divulgará filmes da sua propriedade, cedendo-os por empréstimo às instituições culturais e de ensina oficiais e particutares, nacionais estrangeiras; e fará publicar uma revista consagrada especialmente educação pelos processos técnico modernos (cinema, fonografia, som, etc) .
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art.</strong> 2º – O Instituto compõe-se de:
+**Art.** 2º – O Instituto compõe-se de:
 
 a) – Serviço de Orientação Educacional, que compreenderá:
 
@@ -72,15 +70,15 @@ Almoxarifado;
 
 Portaria.
 
-<strong>Art.</strong> 3º – O Instituto terá, um diretor; os Serviços um chefe, subordinado diretamente ao diretor; as seções, o Laboratório, a Oficina, a Filmotéca e Distribuição, o Almoxarifado e a Portaria terão encarregados.
+**Art.** 3º – O Instituto terá, um diretor; os Serviços um chefe, subordinado diretamente ao diretor; as seções, o Laboratório, a Oficina, a Filmotéca e Distribuição, o Almoxarifado e a Portaria terão encarregados.
 
-<strong>Art.</strong> 4º – O diretor terá um secretário, escolhido dentre os funcionários do Ministério.
+**Art.** 4º – O diretor terá um secretário, escolhido dentre os funcionários do Ministério.
 
 § 1º – O secretário do diretor poderá ser o chefe da S. A.
 
 § 2º – Quando o secretário não fôr o chefe da S. A. perceberá a gratificação de função que lhe fôr arbitrada.
 
-<strong>Art.</strong> 5º – Haverá uma Comissão Consultiva composta de cientistas e artistas de reconhecida autoridade, à qual serão submetidos, sempre que necessários, os projetos dos filmes a serem editados ou os originais concluídos.
+**Art.** 5º – Haverá uma Comissão Consultiva composta de cientistas e artistas de reconhecida autoridade, à qual serão submetidos, sempre que necessários, os projetos dos filmes a serem editados ou os originais concluídos.
 
 § 1º – A Comissão será organizada pelo diretor, prèviamente autorizado pelo Ministro.
 
@@ -88,11 +86,11 @@ Portaria.
 
 § 3º – O desempenho da função de membro da Comissão é gratuito e vale como contribuição relevante à cultura nacional.
 
-<strong>CAPITULO III</strong>
+**CAPITULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art.</strong> 6º – Ao Serviço de Orientação Educacional compete:
+**Art.** 6º – Ao Serviço de Orientação Educacional compete:
 
 I – Proceder:
 
@@ -120,7 +118,7 @@ VII. organizar a propaganda das edições do Instituto nos estabelecimentos de e
 
 VIII.superintender as seções de Estudos e Pesquisas e de Publicidade;
 
-<strong>Art.</strong> 7º<em>.</em> Ao Serviço de Técnica Cinematográfica compete :
+**Art.** 7º*.* Ao Serviço de Técnica Cinematográfica compete :
 
 I. organizar a adaptação e o tratamento das edições cinematográficas e fonográficas;
 
@@ -130,7 +128,7 @@ III. fazer os ensaios e as pesquisas de laboratório exigidas pelo incessante pr
 
 IV. superintender a Seção de Adaptação, a Seção de Tratamento, a Filmagem, o Laboratório e a Oficina.
 
-<strong>Art.</strong> 8º. Ao Serviço Auxiliar compete :
+**Art.** 8º. Ao Serviço Auxiliar compete :
 
 I. elaborar os trabalhos atinentes a pessoal, material, orçamento e comunicações;
 
@@ -140,17 +138,17 @@ III. prestar ao público as informações que lhe puderem ser prestadas e orient
 
 IV. superintender os serviços da Filmotéca e Distribuição, da Bibliotéca, do Almoxarifado e da Portaria.
 
-<strong>Art.</strong> 9º. A Seção de Adaptação compete elaborar a, continuidade, o cenário, os diálogos e o texto dos filmes a serem editados.
+**Art.** 9º. A Seção de Adaptação compete elaborar a, continuidade, o cenário, os diálogos e o texto dos filmes a serem editados.
 
-<strong>Art.</strong> 10. A Seção de Tratamento compete estudar a montagem, cenografia, indumentária e música.
+**Art.** 10. A Seção de Tratamento compete estudar a montagem, cenografia, indumentária e música.
 
-<strong>Art.</strong> 11. A Seção de Filmagem compete :
+**Art.** 11. A Seção de Filmagem compete :
 
 I. executar a filmagem, a sonorização dos filmes editados e os trabalhos fotográficos em geral, sob a supervisão do chefe do Serviço de Técnica Cinematográfica ;
 
 II. ter sob a sua guarda o estúdio e todo o material de filmagem e sonorização.
 
-<strong>Art.</strong> 12. Ao Laboratório compete :
+**Art.** 12. Ao Laboratório compete :
 
 I. fazer a revelação dos filmes e demais operações complementares;
 
@@ -158,7 +156,7 @@ II. executar as cópias, ampliações e  reduções de filmes, de acôrdo com a
 
 III. ter sob a sua guarda as salas de revelação e corte.
 
-<strong>Art.</strong> 13. A Oficina compete :
+**Art.** 13. A Oficina compete :
 
 I. manter em perfeito estado de funcionamento toda a aparelhagem de luz e som, tanto a empregada na confecção dos filmes quanto na projeção;
 
@@ -166,7 +164,7 @@ II. fazer ns reparos necessários à conservanção do material em uso;
 
 III. executar qualquer atribuição, dentro de sua capacidade, determinada pelo chefe do Serviço de Técnica Cinematográfica.
 
-<strong>Art.</strong> 14. A Filmoteca e Distribuição compete :
+**Art.** 14. A Filmoteca e Distribuição compete :
 
 I. guardar os originais das edições cinematográficas e fonográficas e zelar pela, sua conservação;
 
@@ -190,7 +188,7 @@ VI. registrar o movimento da sala de projeção;
 
 VII. rever o material que volta da circulação e comunicar a ocorrência de defeitos observados ao chefe da Seção Auxiliar;
 
-<strong>Art.</strong> 15. À Bibtiotéca compete:
+**Art.** 15. À Bibtiotéca compete:
 
 I. manter organizado o repositório de obras e periódicos, nacionais e estrangeiros, sôbre assuntos relacionados direta ou indiretarnente com a matéria da competência dos órgãos que ccnstituem o instituto;
 
@@ -214,7 +212,7 @@ VI. providenciar sobre encomenda de obras, periódicos e fichas impressas padron
 
 VII. atender às pessoas que forem autorizadas pelo diretor a freqüentar a sala de leitura
 
-<strong>Art.</strong> 16\. Ao Almoxarifado compete:
+**Art.** 16\. Ao Almoxarifado compete:
 
 I. receber e distribuir o materíal adquirido, de acôrdo com as normas estabelecidas pelo Departamento de Administração;
 
@@ -228,7 +226,7 @@ V. proceder e manter atualizado o inventário do material permanente;
 
 VI. fornecer os dados necessários à elaboração do orçamento do material.
 
-<strong>Art.</strong> 17 A Portaria compete:
+**Art.** 17 A Portaria compete:
 
 I. orientar as partes que tiverem. interêsse a tratar no Instituto;
 
@@ -236,13 +234,13 @@ II. velar pelo asseio e pela conservação ordinária das dependências ocupadas
 
 III. manter a vigilância diuturna do Instituto.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
 DAS ATRIBUIÇÕES DO PESSOAL
 
 Do Diretor
 
-<strong>Art.</strong> 18 Ao diretor compete:
+**Art.** 18 Ao diretor compete:
 
 I. dirigir o Instituto;
 
@@ -292,9 +290,9 @@ XX. designar os chefes de Serviço, o secretário e os encarregados;
 
 XXI. indicar ao ministro, para designação, os membros da Comissão Consultiva.
 
-<h3 style="margin-top:18pt; text-align:center;font-weight:normal;font-style:normal"><span style="font-size:1.44em"><span>Dos chefes de serviço</span></span></h3>
+### Dos chefes de serviço
 
-<strong>Art.</strong> 19\. Aos chefes de serviço compete:
+**Art.** 19\. Aos chefes de serviço compete:
 
 I. chefiar os serviços a seu cargo:
 
@@ -320,9 +318,9 @@ XI. autenticar documentos e respectivas cópias, que tiverem de ser expedidos ou
 
 XII. providenciar sôbre a organização da sinópse e do índice de leis, regulamentos, regimentos, instruções e decisões que envolverem assuntos relacionados com os de que trata a seção a seu cargo.
 
-<strong>DOS ENCARREGADOS</strong>
+**DOS ENCARREGADOS**
 
-<strong>Art.</strong> 20. Aos encarregados compete:
+**Art.** 20. Aos encarregados compete:
 
 I. chefiar os órgãos sob a sua responsabilidade ou se encarregarem dos seus trabalhos;
 
@@ -344,9 +342,9 @@ IX – cooperar com o chefe de serviço de quem fôr subordinado na elaboração
 
 X – autenticar documentos e respectivas cópias, que tiverem de ser expedidos ou tiverem de ser submetdos a autoridade superio:
 
-<strong>DO SECRETÁRIO</strong>
+**DO SECRETÁRIO**
 
-<strong>Art.</strong> 21. – Ao Secretário compete:
+**Art.** 21. – Ao Secretário compete:
 
 I – receber as pessoas que desejarem tratar com o diretor e acompanhá-las ou transmitir o assunto ao diretor, segundo as ordens dêste;
 
@@ -354,31 +352,31 @@ II – representar o diretor, quando fôr por êste designado;
 
 III – preparar a correspondência do diretor.                          
 
-<strong>DOS DEMAIS SERVIDORES</strong>
+**DOS DEMAIS SERVIDORES**
 
-<strong>Art.</strong> 22. – Aos servidores que não têm atribuições especificadas neste Regimento cabe a execução dos trabalhos próprios dos seus cargos ou das suas funções, que forem determinados pelos chefes respectivos.
+**Art.** 22. – Aos servidores que não têm atribuições especificadas neste Regimento cabe a execução dos trabalhos próprios dos seus cargos ou das suas funções, que forem determinados pelos chefes respectivos.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art.</strong> 23\. – O Instituto terá lotação fixada em decreto.
+**Art.** 23\. – O Instituto terá lotação fixada em decreto.
 
 Parágrafo único – Além dos funcionários lotados, o Instituto poderá ter pessoal extranumerário.
 
-<strong>CAPITULO VI</strong>
+**CAPITULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art.</strong> 24. – O horário normal de trabalho será fixado pelo diretor, respeitado o número de horas semanais, fixado para o serviço público.
+**Art.** 24. – O horário normal de trabalho será fixado pelo diretor, respeitado o número de horas semanais, fixado para o serviço público.
 
 Parágrafo único – O diretor está isento de assinatura de ponto.
 
-<strong>CAPITULO VII</strong>
+**CAPITULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>                              
+*DAS SUBSTITUIÇÕES*                              
 
-<strong>Art.</strong> 25. –  Serão substituídos, nas faltas ocasionais e nos impedimentos transitórios:   
+**Art.** 25. –  Serão substituídos, nas faltas ocasionais e nos impedimentos transitórios:   
 
 a) diretor pelo chefe de serviço prèviamente designado pelo ministro;
 
@@ -386,25 +384,25 @@ b) o chefe de serviço pelo encarregado, prèviamente designado pelo drietor;
 
 c) o encarregado, por servidor seu subordinado, prèviamente designado pelo chefe de serviço  que estiver subordinado.
 
-<strong>CAPITULO VIII</strong>
+**CAPITULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art.</strong> 26. – A inscrição para uso dos filmes sub-standard, constantes do catálogo do Instituto, far-se-á mediante pedido escrito ao diretor.
+**Art.** 26. – A inscrição para uso dos filmes sub-standard, constantes do catálogo do Instituto, far-se-á mediante pedido escrito ao diretor.
 
 § 1º – O pedido será  entregue pessoalmente pelo interessado ou por seu representante devidamente autorizado
 
 § 2º – O porte dos filmes, como tôdas as providências até o filme chegar ao seu destino, e a sua restituição até entregar ao Instituto, far-se-á pessoalmente pelo representante autorizado ou pelo próprio interessado, e sempre sob a responsabilidade dêste.
 
-<strong>Art.</strong> 27. – Os estabelecimentos de ensino ou de cultura que desejarem possuir cópias dos filmes editados pelo Instituto, devem requerer ao diretor a respectiva concessão, fornecendo o filme virgem, para a cópia, na metragem estipulada pelo Instituto.
+**Art.** 27. – Os estabelecimentos de ensino ou de cultura que desejarem possuir cópias dos filmes editados pelo Instituto, devem requerer ao diretor a respectiva concessão, fornecendo o filme virgem, para a cópia, na metragem estipulada pelo Instituto.
 
-<strong>Art.</strong> 28. – O Instituto poderá prestar assistência técnica e científica à indústria cinematográfica particular que a solicitar.
+**Art.** 28. – O Instituto poderá prestar assistência técnica e científica à indústria cinematográfica particular que a solicitar.
 
 Parágrafo único – A assistência será requerida ao diretor, com indicação do plano de trabalho do filme a realizar.
 
-<strong>Art.</strong> 29. – Os filmes de cultura popular (standard), editados pelo Instituto serão exibidos nas casas de espetáculos públicos, de acôrdo com as instruções baixadas pelo ministro.
+**Art.** 29. – Os filmes de cultura popular (standard), editados pelo Instituto serão exibidos nas casas de espetáculos públicos, de acôrdo com as instruções baixadas pelo ministro.
 
-<strong>Art.</strong> 30. – O Instituto poderá:
+**Art.** 30. – O Instituto poderá:
 
 a) permutar filme da sua edição por outro de igual natureza ou de idêntico valor educativo;
 

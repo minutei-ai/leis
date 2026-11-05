@@ -1,5 +1,3 @@
-###DEC-003610-0-000-27-09-2000@@@
-
 DECRETO Nº 3.610, DE 27 DE SETEMBRO DE 2000.
 
 Acrescenta o inciso IV, ao art. 6º do Decreto nº 3.390, de 23 de março de 2000, que regulamenta o pagamento da gratificação de Desempenho de Atividade Tributária - GDAT, devida aos integrantes das Carreiras Auditoria da Receita Federal, Auditoria-Fiscal da Previdência Social e Auditoria-Fiscal do trabalho, e da outras providências.

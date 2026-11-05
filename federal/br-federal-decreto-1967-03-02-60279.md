@@ -1,5 +1,3 @@
-###DEC-060279-0-000-02-03-1967@@@
-
 DECRETO Nº 60.279, DE 2 DE MARÇO DE 1967.
 
 Concede nacionalização à Socièté Sucrière de Rio Branco, sob a denominação de Sociedade Açucareira de Rio Branco S.A.

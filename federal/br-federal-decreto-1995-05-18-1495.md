@@ -1,7 +1,3 @@
-1
-
-###DEC-001495-0-000-18-05-1995@@@
-
 DECRETO Nº 1.495, DE 18 DE MAIO DE 1995
 
 Dispõe sobre o regime de drawback.

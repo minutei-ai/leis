@@ -1,5 +1,3 @@
-###DEC-065397-0-000-13-10-1969@@@
-
 DECRETO Nº 65.397 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas - DNOCS, a área de terreno necessária à ampliação de estação de tratamento d'água na cidade de Quixadá, Estado do Ceará.

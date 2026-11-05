@@ -1,5 +1,3 @@
-###DEC-053769-0-000-20-03-1964@@@
-
 DECRETO Nº 53.769, DE 20 DE MARÇO DE 1964.
 
 Outorga à Prefeitura Municipal de Nova Roma concessão para aproveitamento de energia hidráulica.

@@ -1,5 +1,3 @@
-###DEC-079395-0-000-15-03-1977@@@
-
 DECRETO Nº 79.395, 15 DE março DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Excelsior da Bahia S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Salvador, Estado da Bahia.

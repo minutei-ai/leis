@@ -1,5 +1,3 @@
-###DEC-082189-0-000-29-08-1978@@@
-
 Decreto nº 82.189, de 29 de agosto de 1978.
 
 Concede reconhecimento ao curso de Engenharia Química, ministrado pela Faculdade de Engenharia da Universidade de Mogi das Cruzes, com sede na cidade de Mogi das Cruzes, Estado de São Paulo.

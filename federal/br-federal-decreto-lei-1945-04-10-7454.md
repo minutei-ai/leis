@@ -1,5 +1,3 @@
-###DEL-007454-0-000-10-04-1945@@@
-
 DECRETO-LEI N. 7.454 – DE 10 DE ABRIL DE 1945
 
 Cria, na Fôrça Aérea Brasileira, medalhas militares

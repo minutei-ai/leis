@@ -1,5 +1,3 @@
-###DEC-053201-0-000-11-12-1963@@@
-
 DECRETO Nº 53.201, DE 11 DE DEZEMBRO DE 1963.
 
 Transfere um cargo de Farmacêutico TC-701-17-A, do Quadro de Pessoal do Território Federal de Rondônia, do Ministério da Justiça e Negócios Interiores, para idêntico Quadro do Ministério da Agricultura.

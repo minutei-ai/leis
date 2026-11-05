@@ -1,5 +1,3 @@
-###DEC-070163-0-000-18-02-1972@@@
-
 decreto nº 70.163, de 18 de fevereiro de 1972.
 
 Autoriza a cessão, sob forma de utilização gratuita, dos terrenos de marinha e acrescidos de marinha que menciona, situados no Município de Matinhos, no Estado do Paraná.

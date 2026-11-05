@@ -1,5 +1,3 @@
-###DEC-083374-0-000-25-04-1979@@@
-
 Decreto nº 83.374, de 25 de abril de 1979.
 
 Altera o Decreto nº 75.070, de 09 de dezembro de 1974, que dispõe sobre a construção, manutenção, operação e exploração de aeroportos e aeródromos públicos, e dá outras providências.

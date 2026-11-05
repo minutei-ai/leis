@@ -1,5 +1,3 @@
-###MPV-000599-0-000-27-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 599, DE 27 DE DEZEMBRO DE 2012
 
 Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito  Federal e aos Municípios, com o objetivo de compensar perdas de arrecadação decorrentes da redução das alíquotas nas operações e prestações interestaduais relativas ao Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, institui o Fundo de Desenvolvimento Regional e dá outras providências.

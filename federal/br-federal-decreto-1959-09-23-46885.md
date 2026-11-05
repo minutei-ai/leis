@@ -1,14 +1,12 @@
-###DEC-046885-0-000-23-09-1959@@@
+**DECRETO Nº 46.885, DE 23 DE SETEMBRO DE 1959.**
 
-<strong>DECRETO Nº 46.885, DE 23 DE SETEMBRO DE 1959.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
 
 I - uma função de Serralheiro, referência 22, uma de Pintor, referência 22, e uma de Apontador, referência 16, ocupadas, respectivamente, por Domingos Vieira da Silva Junior, Moacyr Armond e Nelson da Silva Duarte, da Tabela do Parque de Aeronáutica dos Afonsos para a do Gabinete do Ministro;
 
@@ -32,10 +30,10 @@ X - uma função de Auxiliar de Hangar, referência 18, ocupada por Fausto de Me
 
 XI - uma função de Auxiliar de Mecânico, referência 17, ocupada por Octhon de Souza Pacheco, da Tabela do Parque de Aeronáutica de São Paulo para a do Parque de Aeronáutica dos Afonsos.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 23 de setembro de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Melo

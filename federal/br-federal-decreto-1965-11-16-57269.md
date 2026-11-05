@@ -1,5 +1,3 @@
-###DEC-057269-0-000-16-11-1965@@@
-
 DECRETO Nº 57.269, DE 16 DE NOVEMBRO DE 1965.
 
 Transfere para o Govêrno do Estado da Bahia os encargos e responsabilidades relacionados com o reconhecimento e inspeção dos estabelecimentos de ensino médio localizados no seu território.

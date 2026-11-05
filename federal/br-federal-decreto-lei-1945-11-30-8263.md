@@ -1,5 +1,3 @@
-###DEL-008263-0-000-30-11-1945@@@
-
 DECRETO-LEI N. 8.263 – DE 30 DE NOVEMBRO DE 1945
 
 Cria taxas adicionais sôbre preços de carvão nacional e dá outras providências.

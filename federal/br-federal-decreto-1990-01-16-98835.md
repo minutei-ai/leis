@@ -1,7 +1,3 @@
-1
-
-###DEC-098835-0-000-16-01-1990@@@
-
 DECRETO Nº 98.835, DE 16 DE JANEIRO DE 1990
 
 Declara de utilidade pública para fins de desapropriação total ou parcial, ou instituição de servidão administrativa e/ou de passagem em favor da Petróleo Brasileiro S.A. PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

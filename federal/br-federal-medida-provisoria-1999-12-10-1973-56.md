@@ -1,5 +1,3 @@
-###MPV-001973-0-056-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.973-56, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

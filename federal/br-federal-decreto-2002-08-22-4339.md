@@ -1,5 +1,3 @@
-###DEC-004339-0-000-22-08-2002@@@
-
 DECRETO N. 4.339 – DE 22 DE AGOSTO DE 2002
 
 Institui princípios e diretrizes para implementação da Política Nacional da Biodiversidade.

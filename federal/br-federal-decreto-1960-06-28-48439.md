@@ -1,5 +1,3 @@
-###DEC-048439-0-000-28-06-1960@@@
-
 decreto nº 48.439, de 28 de junho de 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Agricultura.

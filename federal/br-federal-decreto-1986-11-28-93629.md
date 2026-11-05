@@ -1,5 +1,3 @@
-###DEC-093629-0-000-28-11-1986@@@
-
 DECRETO Nº 93.629, DE 28 DE NOVEMBRO DE 1986
 
 Dispõe sobre a composição do Conselho Nacional de Direito Autoral - CNDA, e dá outras providências.

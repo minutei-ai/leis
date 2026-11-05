@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209953)<br>
-
 # LEI N° 18.022, DE 09 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 365/2023, do Deputado Rafa Zimbaldi - CIDADANIA)

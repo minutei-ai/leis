@@ -1,5 +1,3 @@
-###DEC-058416-0-000-17-05-1966@@@
-
 DECRETO Nº 58.416, de 17 de maio de 1966.
 
 Ministério da Fazenda - Abre o crédito especial de Cr$39.412.700, para o fim que especifica.

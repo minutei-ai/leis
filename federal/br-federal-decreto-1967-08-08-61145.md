@@ -1,5 +1,3 @@
-###DEC-061145-0-000-08-08-1967@@@
-
 DECRETO Nº 61.145, DE 8 DE AGÔSTO DE 1967.
 
 Provê sôbre a retificação do Decreto nº 60.464, de 14 de março de 1967.

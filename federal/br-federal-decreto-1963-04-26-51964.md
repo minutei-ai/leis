@@ -1,5 +1,3 @@
-###DEC-051964-0-000-26-04-1963@@@
-
 decreto nº 51.964, de 26 de abril de 1963.
 
 Declara de utilidade pública as áreas de terra que discrimina, destinadas à passagem da linha de transmissão da São Paulo Light S.A. - Serviços de Eletricidade, entre a Usina Termoéletrica de Piratininga e um ponto da linha de Cubatão a São Caetano do Sul.

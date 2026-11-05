@@ -1,5 +1,3 @@
-###DEC-050654-0-000-24-05-1961@@@
-
 DECRETO Nº 50.654, DE 24 DE MAIO DE 1961.
 
 Aprova alterações introduzidas no Estatutos da St. Paul Fire and Marine Insurance Company.

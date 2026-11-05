@@ -1,5 +1,3 @@
-###DEC-053264-0-000-13-12-1963@@@
-
 DECRETO Nº 53.264, DE 13 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre a Reabilitação Profissional na Previdência Social.

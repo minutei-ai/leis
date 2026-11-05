@@ -1,5 +1,3 @@
-###DEC-005623-0-000-19-12-2005@@@
-
 DECRETO Nº 5.623, DE 19 DE DEZEMBRO DE 2005.
 
 Autoriza a prorrogação da descentralização, até 31 de dezembro de 2007, das atividades que menciona.

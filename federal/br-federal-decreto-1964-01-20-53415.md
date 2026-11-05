@@ -1,5 +1,3 @@
-###DEC-053415-0-000-20-01-1964@@@
-
 DECRETO Nº 53.415, DE 20 DE JANEIRO DE 1964.
 
 Transfere de Ribeiro Parada S.A. Indústria de Papel e Papelão à Indústria Salto Pintado Ltda. a concessão para o aproveitamento da queda d’água denominada Salto Pintado, município de Pôrto União, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-079666-0-000-09-05-1977@@@
-
 DECRETO Nº 79.666, DE 9 DE MAIO DE 1977.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno de marinha que menciona, situado no Município de Vila Velha, Estado de Espírito Santo.

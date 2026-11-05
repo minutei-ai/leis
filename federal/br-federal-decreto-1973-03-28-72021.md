@@ -1,5 +1,3 @@
-###DEC-072021-0-000-28-03-1973@@@
-
 DECRETO Nº 72.021, DE 28 DE MARÇO DE 1973.
 
 Discrimina os Órgãos cujos cargos, funções ou atividades, desempenhados nas condições da Lei de Retribuição no Exterior, se consideram permanentes.
@@ -91,8 +89,6 @@ Mário Gibson Barboza
 J. Araripe Macedo
 
 Marcos Vinicius Pratini de Moraes
-
-###DEC-072021-0-000-28-03-1973@@@RET01+++
 
 DECRETO Nº 72.021, DE 28 DE MARÇO DE 1973.
 

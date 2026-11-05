@@ -1,5 +1,3 @@
-###DEC-057333-0-000-25-11-1965@@@
-
 DECRETO Nº 57.333, DE 25 DE NOVEMBRO DE 1965.
 
 Concede à Companha Itabrás de Mineração autorização para funcionar como emprêsa de mineração.

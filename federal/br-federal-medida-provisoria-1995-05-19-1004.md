@@ -1,7 +1,3 @@
-1
-
-###MPV-001004-0-000-19-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.004, DE 19 DE MAIO DE 1995
 
 Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do Real, e os critérios para conversão das obrigações para o Real, e dá outras providências.

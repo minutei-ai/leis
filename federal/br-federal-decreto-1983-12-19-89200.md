@@ -1,5 +1,3 @@
-###DEC-089200-0-000-19-12-1983@@@
-
 decreto nº 89.200, de 19 dE dezembro de 1983
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo da Faculdade de Artes e Comunicação de Bauru, São Paulo.

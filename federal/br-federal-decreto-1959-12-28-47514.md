@@ -1,5 +1,3 @@
-###DEC-047514-0-000-28-12-1959@@@
-
 DECRETO Nº 47.514, DE 28 DE dezembRO DE 1959.
 
 Autoriza a Siderúgica Frei Leopoldo Ltda.-SIFREL - a pesquisar minérios de ferro de manganês e dolomita no município de Itauna, Estado de Minas Gerais.

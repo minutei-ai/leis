@@ -1,5 +1,3 @@
-###DEL-007701-0-000-05-07-1945@@@
-
 DECRETO-LEI N. 7.701 – DE 5 DE JULHO DE 1945
 
 Prorroga o prazo de que trata o Decreto-lei nº 7.609, de 5 de junho de 1945, e dá outras providências

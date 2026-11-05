@@ -1,5 +1,3 @@
-###DEC-007124-0-000-03-03-2010@@@
-
 DECRETO Nº 7.124, DE 3 DE MARÇO DE 2010.
 
 Dispõe sobre a elevação da categoria dos Vice-Consulados em Cobija, Cochabamba, Guayaramerin e Puerto Suarez, no Estado Plurinacional da Bolívia

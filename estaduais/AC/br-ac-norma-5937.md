@@ -1,6 +1,10 @@
 > **LEI Nº 4.306, DE 03 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a aplicação do questionário m-chat para realização do rastreamento de sinais precoces do autismo, nas unidades de saúde pública e privada do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a aplicação do questionário m-chat para realização do rastreamento de sinais precoces do autismo, nas unidades de saúde pública e privada do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-004997-0-000-26-02-2004@@@
-
 DECRETO Nº 4.997,  DE 26 DE FEVEREIRO DE 2004.
 
 Dispõe sobre os saldos remanescentes das autorizações constantes do Quadro VI da Lei nº 10.640, de 14 de janeiro de 2003, que estima a receita e fixa a despesa da União para o exercício de 2003.

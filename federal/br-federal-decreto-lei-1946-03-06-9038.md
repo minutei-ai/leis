@@ -1,5 +1,3 @@
-###DEL-009038-0-000-06-03-1946@@@
-
 DECRETO-LEI N. 9.038 – DE 6 DE MARÇO DE 1946
 
 Aceita a doação, feita à União, de um terreno, situado em Aracati, no Estado do Ceará.

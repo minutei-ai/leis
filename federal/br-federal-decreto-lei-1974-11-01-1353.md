@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4364d397-038b-473e-ac4c-efa6b1bcbc51/texto#nowhere)
 
-###DEL-001353-0-000-01-11-1974@@@
-
 # DECRETO-LEI Nº 1.353, DE 1 DE NOVEMBRO DE 1974
 
 Altera o Decreto-lei nº 1.331, de 31 de maio de 1974, e dá outras providências.

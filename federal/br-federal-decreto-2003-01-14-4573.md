@@ -1,5 +1,3 @@
-###DEC-004573-0-000-14-01-2003@@@
-
 DECRETO N. 4.573 – DE 14 DE JANEIRO DE 2003
 
 Fixa, para a Marinha do Brasil, o número de vagas para promoções obrigatórias de Oficiais, para os Corpos e Quadros que menciona, no ano-base de 2002.
@@ -12,37 +10,179 @@ Art. 1º Para fim de aplicação da Quota Compulsória de que trata o art. 100 d
 
 I – CORPO DA ARMADA  
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Quadro de Oficiais da Armada</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(CA)</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-Guerra ............................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata .................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta .................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td></tr></tbody></table>
+Quadro de Oficiais da Armada
+
+(CA)
+
+Capitães-de-Mar-Guerra ............................
+
+1/8
+
+Capitães-de-Fragata .................................
+
+1/15
+
+Capitães-de-Corveta .................................
+
+1/20
 
 II – CORPO DE FUZILEIROS NAVAIS 
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Quadro de Oficiais Fuzileiros Navais</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(FN)</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra .........................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata .................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta .................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td></tr></tbody></table>
+Quadro de Oficiais Fuzileiros Navais
+
+(FN)
+
+Capitães-de-Mar-e-Guerra .........................
+
+1/8
+
+Capitães-de-Fragata .................................
+
+1/15
+
+Capitães-de-Corveta .................................
+
+1/20
 
 III – CORPO DE INTENDENTES DA MARINHA 
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Quadro de Oficiais Intendentes da Marinha</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(IM)</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra .........................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata ..................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta ..................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td></tr></tbody></table>
+Quadro de Oficiais Intendentes da Marinha
+
+(IM)
+
+Capitães-de-Mar-e-Guerra .........................
+
+1/8
+
+Capitães-de-Fragata ..................................
+
+1/15
+
+Capitães-de-Corveta ..................................
+
+1/20
 
 IV – CORPO DE ENGENHEIROS DA MARINHA (EN)
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra ....................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta .............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td></tr></tbody></table>
+Capitães-de-Mar-e-Guerra ....................
+
+1/8
+
+Capitães-de-Fragata  ............................
+
+1/15
+
+Capitães-de-Corveta .............................
+
+1/20
 
 V – CORPO DE SAÚDE DA MARINHA
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) Quadro de Médicos</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(Md)</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra ....................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata .............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta .............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td></tr></tbody></table>
+a) Quadro de Médicos
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) Quadro de Cirurgiões-Dentistas</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(CD)</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra ....................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/4</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata ............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta .............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr></tbody></table>
+(Md)
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">c) Quadro de Apoio à Saúde</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(S)</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra ....................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/4</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata .............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta .............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr></tbody></table>
+Capitães-de-Mar-e-Guerra ....................
+
+1/8
+
+Capitães-de-Fragata .............................
+
+1/15
+
+Capitães-de-Corveta .............................
+
+1/20
+
+b) Quadro de Cirurgiões-Dentistas
+
+(CD)
+
+Capitães-de-Mar-e-Guerra ....................
+
+1/4
+
+Capitães-de-Fragata ............................
+
+1/10
+
+Capitães-de-Corveta .............................
+
+1/15
+
+c) Quadro de Apoio à Saúde
+
+(S)
+
+Capitães-de-Mar-e-Guerra ....................
+
+1/4
+
+Capitães-de-Fragata .............................
+
+1/10
+
+Capitães-de-Corveta .............................
+
+1/15
 
 VI – CORPO AUXILIAR DA MARINHA: 
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) Quadro Técnico</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(T)</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra ....................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/4</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata .............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta .............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr></tbody></table>
+a) Quadro Técnico
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) Quadro de Capelães Navais</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(CN)</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Mar-e-Guerra ...................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/4</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Fragata ............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-de-Corveta ............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td></tr></tbody></table>
+(T)
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">c) Quadro Auxiliar da Armada</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(AA)</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes .............................</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes ............................</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td></tr></tbody></table>
+Capitães-de-Mar-e-Guerra ....................
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">d) Quadro Auxiliar de Fuzileiros Navais</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">(AFN)</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitães-Tenentes ................................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td></tr><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiros-Tenentes ...............................</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td></tr></tbody></table>
+1/4
+
+Capitães-de-Fragata .............................
+
+1/10
+
+Capitães-de-Corveta .............................
+
+1/15
+
+b) Quadro de Capelães Navais
+
+(CN)
+
+Capitães-de-Mar-e-Guerra ...................
+
+1/4
+
+Capitães-de-Fragata ............................
+
+1/10
+
+Capitães-de-Corveta ............................
+
+1/15
+
+c) Quadro Auxiliar da Armada
+
+(AA)
+
+Capitães-Tenentes .............................
+
+1/10
+
+Primeiros-Tenentes ............................
+
+1/20
+
+d) Quadro Auxiliar de Fuzileiros Navais
+
+(AFN)
+
+Capitães-Tenentes ................................
+
+1/10
+
+Primeiros-Tenentes ...............................
+
+1/20
 
 Art. 2º Este Decreto entra em vigor na data da sua publicação.
 

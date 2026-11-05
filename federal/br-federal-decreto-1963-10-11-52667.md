@@ -1,30 +1,28 @@
-###DEC-052667-0-000-11-10-1963@@@
+**DECRETO Nº 52.667, DE 11 DE OUTUBRO DE 1963.**
 
-<strong>DECRETO Nº 52.667, DE 11 DE OUTUBRO DE 1963.</strong>
+***Aprova o Regimento do Serviço de Meteorologia do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Serviço de Meteorologia do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Meteorologia do Ministério da Agricultura que com êste baixa, assinado pelo Ministro do Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Meteorologia do Ministério da Agricultura que com êste baixa, assinado pelo Ministro do Estado.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de publicação, revogadas as disposições em contrário.
 
 Brasília, 11 de outubro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Oswaldo Lima Filho
 
-<strong>REGIMENTO DO SERVIÇO DE METEOROLOGIA</strong>
+**REGIMENTO DO SERVIÇO DE METEOROLOGIA**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O serviço de Meteorologia (SM), diretamente subordinado ao Secretário Geral da Agricultura, é o órgão central das pesquisas e informações meteorológicas e de estudos de climatologia agrícola competindo-lhe:
+**Art**. 1º O serviço de Meteorologia (SM), diretamente subordinado ao Secretário Geral da Agricultura, é o órgão central das pesquisas e informações meteorológicas e de estudos de climatologia agrícola competindo-lhe:
 
 I - Realizar estudos e pesquisas no campo de Meteorologia;
 
@@ -36,11 +34,11 @@ IV - Articular-se com outros órgãos do Ministério da Agricultura para realiza
 
 V - Cumprir e fazer cumprir os atos e acôrdos internacionais referentes à meteorologia.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O Serviço de Meteorologia (SM) compreende:
+**Art**. 2º O Serviço de Meteorologia (SM) compreende:
 
 A) Órgãos centrais.
 
@@ -92,21 +90,21 @@ Setor de Meteorológia Aplicada (Semap)
 
 Setor de Observações Meteorológicas (Setom)
 
-<strong>Art</strong>. 3º O S.M. será dirigido por um Diretor, nomeado em comissão pelo Presidente da República.
+**Art**. 3º O S.M. será dirigido por um Diretor, nomeado em comissão pelo Presidente da República.
 
 § 1º O Diretor do S.M. terá um Assessor, um Secretário e um Auxiliar por êle designados.
 
 § 2º Além do Assessor previsto neste artigo o Diretor do S.M. terá um Assessor para coordenação de cursos.
 
-<strong>Art</strong>. 4º As funções de assessor serão, de preferência, exercidas por ocupantes de cargos técnicos.
+**Art**. 4º As funções de assessor serão, de preferência, exercidas por ocupantes de cargos técnicos.
 
-<strong>Art</strong>. 5º As Divisões de Estudos e Pesquisas Meteorológicas e de Observações Meteorológicas terão chefes designados pelo Diretor do S.M. e escolhidos entre ocupantes de cargos de Meteorologia e Engenheiro.
+**Art**. 5º As Divisões de Estudos e Pesquisas Meteorológicas e de Observações Meteorológicas terão chefes designados pelo Diretor do S.M. e escolhidos entre ocupantes de cargos de Meteorologia e Engenheiro.
 
-<strong>Art</strong>. 6º Os Distritos de Meteorologia terão chefes designados pelo Diretor do S.M.
+**Art**. 6º Os Distritos de Meteorologia terão chefes designados pelo Diretor do S.M.
 
-<strong>Art</strong>. 7º As Seções, a Biblioteca, o Observatório Meteorológico e os Setores terão chefes e as Turmas, Encarregados, designados pelas autoridades imediatamente superiores.
+**Art**. 7º As Seções, a Biblioteca, o Observatório Meteorológico e os Setores terão chefes e as Turmas, Encarregados, designados pelas autoridades imediatamente superiores.
 
-<strong>Art</strong>. 8º São os seguintes os órgãos regionais do Serviço de Meteorologia:
+**Art**. 8º São os seguintes os órgãos regionais do Serviço de Meteorologia:
 
 I - Distrito de Meteorologia Norte - com sede em Belém, abrangendo os Estados do Acre, Amazonas, Pará e Maranhão e os Territórios de Amapá, Rondônia e Roraima.
 
@@ -120,19 +118,19 @@ V - Distrito de Meteorologia do Centro-Sul - com sede na cidade de Rio de Janeir
 
 VI - Distrito de Meteorológia do Sul, com sede em Pôrto Alegre, abrangendo os Estados de Santa Catarina, Paraná e Rio Grande do Sul.
 
-<strong>Art</strong>. 9º Os Distritos de Meteorológia e as respectivas rêdes meteorológicas regionais, abrangendo observatório, - estações meteorológicas e de radiocomunicações postos termopluviométricos, pluviométricos e semafóricos, formarão, articulados com a sede do Serviço, um sistema nacional de meteorologia, cuja supervisão, direção e contrôle caberá a êste último órgão exercer.
+**Art**. 9º Os Distritos de Meteorológia e as respectivas rêdes meteorológicas regionais, abrangendo observatório, - estações meteorológicas e de radiocomunicações postos termopluviométricos, pluviométricos e semafóricos, formarão, articulados com a sede do Serviço, um sistema nacional de meteorologia, cuja supervisão, direção e contrôle caberá a êste último órgão exercer.
 
-<strong>Art</strong>. 10. Os órgãos integrantes do S.M. funcionarão articulados em regime de mútua colaboração, sob a orientação do Diretor do Serviço que coordenará, supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais, de Serviço.
+**Art**. 10. Os órgãos integrantes do S.M. funcionarão articulados em regime de mútua colaboração, sob a orientação do Diretor do Serviço que coordenará, supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais, de Serviço.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Divisão de</em> <em>Estudos e Pesquisas Meteorológicas</em>
+*Da Divisão deEstudos e Pesquisas Meteorológicas*
 
-<strong>Art</strong>. 11. A Divisão de Estudos e Pesquisas Meteorológicas (Depem) - compete:
+**Art**. 11. A Divisão de Estudos e Pesquisas Meteorológicas (Depem) - compete:
 
 I - Promover, realizar e controlar estudos e pesquisas no campo da meteorológia, abrangendo os domínios da climatologia, da aerologia, da meteorológia, abrangendo os domínios da climatologia, da aerologia, da meteorologia sinótica, agrícola, dinâmica descrita, observacional e da bioclimatologia;
 
@@ -144,7 +142,7 @@ IV - Elaborar normas técnicas e métodos de trabalho na rêde meteorologica;
 
 V - Promover o intercâmbio científico com entidades nacionais e estrangeira.
 
-<strong>Art</strong>. 12. A Seção de Climatologia (SECLI) compete:
+**Art**. 12. A Seção de Climatologia (SECLI) compete:
 
 I - Estudar os climas do País sob diversas formas e nas diversas escalas que ofereçam interêsse;
 
@@ -162,7 +160,7 @@ XII - Manter atualizada a classificação racional dos climas do País;
 
 VIII - Centralizar e coordenar as observações especiais numa rêde selecionada, de modo a permitir o estudo das condições de confôrto nas diversas regiões.
 
-<strong>Art</strong>. 13. A Seção de Meteorologia Agrícola (SEMEA) compete:
+**Art**. 13. A Seção de Meteorologia Agrícola (SEMEA) compete:
 
 I - Centralizar, coordenar e orientar a realização de estudos agrometeorológicos, de modo a permitir pesquisas da influência do clima sôbre a agricultura e a pecuária; em colaboração com os Institutos de Pesquisas e Experimentação Agropecuárias outros órgãos do Ministério, entidades públicas e patriculares;
 
@@ -170,7 +168,7 @@ II - Cooperar na investigação da correlação entre os fenômenos agrícolas e
 
 III - Promover a publicação de boletins periódicos com dados concernentes a problemas que exprimam relações entre os estados atmonsféricos, a agricultura e a pecuária.
 
-<strong>Art</strong>. 14. A Seção de Meteorologia Sinótica (SEMES) compete:
+**Art**. 14. A Seção de Meteorologia Sinótica (SEMES) compete:
 
 I - Realizar pesquisas em tôrno dos meios de previsão do tempo a curto e a médio prazo;
 
@@ -182,7 +180,7 @@ IV - Colaborar com a Seção de Divulgação na elaboração do boletim diário 
 
 V - Cooperar na elaboração das normas de observação na rêde de meteorologia do País, na parte referente à meteorologia sinótica.
 
-<strong>Art</strong>. 15. A Seção de Aerologia (SEARO) compete:
+**Art**. 15. A Seção de Aerologia (SEARO) compete:
 
 I - Realizar estudos de circulação da atmosfera;
 
@@ -192,11 +190,11 @@ III - Orientar o cálculo e a organização das normais aerológicas bem como da
 
 IV - Cooperar na elaboração das normais de observação na rêde meteorologia do País, na parte referente à aerologia.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Divisão de Meteorologia Aplicada</em>
+*Da Divisão de Meteorologia Aplicada*
 
-<strong>Art</strong>. 16. A Divisão de Meteorologia Aplicada (DIMEA) compete:
+**Art**. 16. A Divisão de Meteorologia Aplicada (DIMEA) compete:
 
 I - Planejar, promover e efetuar previsões e prognósticos de temperaturas, ventos, precipitações e de fenômenos adversos;
 
@@ -204,7 +202,7 @@ II - organizar e promover a difusão de coletivos meteorológicos, diários, men
 
 III - Orientar a divulgação das previsões relativas à agricultura.
 
-<strong>Art</strong>. 17. A Seção de Análise e Previsão (SAPRE) compete:
+**Art**. 17. A Seção de Análise e Previsão (SAPRE) compete:
 
 I - Elaborar cartas do tempo, segundo as normas internacionais, com os dados recebidos das rêdes sinóticas da América do Sul e de outras regiões que as exigências do trabalho tornem aconselháveis;
 
@@ -216,7 +214,7 @@ IV - Fornecer análises e cartas do tempo, bem como colaborar com a D.E.P.M. nos
 
 V - Preparar, diariamente, o Boletim do tempo.
 
-<strong>Art</strong>. 18. A Seção de Proteção à Navegação (SENAV) compete:
+**Art**. 18. A Seção de Proteção à Navegação (SENAV) compete:
 
 I - Elaborar as previsões que devam ser irradiadas pela Seção Telecomunicação;
 
@@ -228,7 +226,7 @@ IV - Incentivar, junto às companhias de navegação marítima, o interêsse pel
 
 V - Organizar registros que contenham dados meteorológicos normais, no solo e em altitude, relativos aos principais aeródromos e às diversas rotas aéreas, assim como os referentes às observações marítimas.
 
-<strong>Art</strong>. 19. A Seção de Telecomunicação (SETEL) compete:
+**Art**. 19. A Seção de Telecomunicação (SETEL) compete:
 
 I - Receber os despachos meteorológicos provenientes das rêdes nacional e internacional;
 
@@ -236,9 +234,9 @@ II - Organizar e irradiar os coletivos diários e mensais, nacionais e internaci
 
 III - Executar quaisquer outros serviços de radiotransmissão e recepção de interêsse do S. M.;
 
-IV - Sugerir medidas tendentes a tornar mais rápidas a centralização e a transmissão dos dados por teletipo, radioteletipo e mapas em <em>facsmile</em>.
+IV - Sugerir medidas tendentes a tornar mais rápidas a centralização e a transmissão dos dados por teletipo, radioteletipo e mapas em *facsmile*.
 
-<strong>Art</strong>. 20. A Seção de Divulgação (SEDIV) compete:
+**Art**. 20. A Seção de Divulgação (SEDIV) compete:
 
 I - Realizar, com elementos fornecidos pelas seções especializadas do S. M., a divulgação dos conhecimentos relativos à climatologia brasileira por meio de publicações, tanto de caráter científico como de vulgarização;
 
@@ -248,11 +246,11 @@ III - Providenciar a expedição das remessas feitas e dos órgãos, instituiç�
 
 IV - orientar a S. A. na aquisição dos materiais a serem adquiridos para impressão dos trabalhos do S. M.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Divisão de Observações Meteorológicas</em>
+*Da Divisão de Observações Meteorológicas*
 
-<strong>Art</strong>. 21. A Divisão de Observações Meteorológicas (DIOME) compete:
+**Art**. 21. A Divisão de Observações Meteorológicas (DIOME) compete:
 
 I - Planejar, promover e controlar as observações meteorológicas efetuadas pela rêde de estações meteorológicas e de radiocomunicações, postos termopluviométricos, pluviométricos, integrantes do sistema nacional;
 
@@ -262,7 +260,7 @@ III - Atender a consultas de órgaos públicos e de particulares e fornecer cert
 
 IV - Sistematizar e manter o arquivo técnico.
 
-<strong>Art</strong>. 22. A Seção de Verificação (SEVER) compete:
+**Art**. 22. A Seção de Verificação (SEVER) compete:
 
 I - Centralizar a produção técnica da estações meteorologicas para verificação técnica definitiva, comunicando aos Distritos Regionais respectivos as falhas notadas na mesma;
 
@@ -276,7 +274,7 @@ V - Remeter às seções técnicas e aos Distritos de Meteorologia as produçõe
 
 VI - Organizar e manter registros das estações cooperadoras, fiscalizando o cumprimento dos respectivos têrmos de compromisso.
 
-<strong>Art</strong>. 23. A Seção de Instrumentos (SEINS) compete:
+**Art**. 23. A Seção de Instrumentos (SEINS) compete:
 
 I - Examinar, calibrar e aferir os instrumentos destinados à rêde meteorológica e, mediante autorização superior, os pertencentes a quaisquer órgãos oficiais, entidades públicas ou privadas e particulares;
 
@@ -286,7 +284,7 @@ III - Cooperar nas instruções relativas ao manejo e conservação dos instrume
 
 IV - Orientar a S. A. na aquisição do material técnico necessário aos trabalhos do S. M.
 
-<strong>Art</strong>. 24. A Seção de Consultas (SECON) compete:
+**Art**. 24. A Seção de Consultas (SECON) compete:
 
 I - Presar, em caráter oficial tôdas e quaisquer informações técnicas relativas aos diversos setores de meteorologia, desde o fornecimento de dados meteorológicos normais até a elaboração de pareceres que envolvem trabalhos realizados e os resultados obtidos pelas Divisões de Estudos e Pesquisas Meteorológicas e de Meteorologia Aplicada;
 
@@ -294,17 +292,17 @@ II - Passar certidões sôbre assuntos de natureza técnica;
 
 III - Manter estreito entendimento com as demais seções do S. M., especialmente com as da D.E.P.M., para que as informações prestadas se revistam do maior rigor e precisão possíveis.
 
-<strong>Art</strong>. 25. Ao Arquivo Técnico (ARTEC) compete:
+**Art**. 25. Ao Arquivo Técnico (ARTEC) compete:
 
 I - Ter sob sua guarda e responsabiliadede os documentos técnicos organizando-os e classificando-os seguindo um sistema racional;
 
 II - Fazer empréstimos dos documentos arquivados, de acôrdo com instruções baixadas pelo chefe da Divisão.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Observatório Meteorológico</em>
+*Do Observatório Meteorológico*
 
-<strong>Art</strong>. 26. Ao Observatório Meteorológico de Brasília (OMBRA) compete:
+**Art**. 26. Ao Observatório Meteorológico de Brasília (OMBRA) compete:
 
 I - Realizar observações climatológicas horárias, ou pelo menos três vêzes ao dia, além dos dados horários obtidos por registradores automáticos;
 
@@ -318,11 +316,11 @@ V - Colaborar na divulgação das previsões diárias para Brasília e demais ci
 
 VI - Colaborar no estudo de climatologia da região central do País efetuando observações para fins especiais.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Biblioteca</em>
+*Da Biblioteca*
 
-<strong>Art</strong>. 27. A Biblioteca (BISME) compete:
+**Art**. 27. A Biblioteca (BISME) compete:
 
 I - Registrar, classificar, catalogar, guardar e conservar obras de interêsse do S. M.;
 
@@ -336,11 +334,11 @@ V - Providenciar a aquisição de obras técnicas e revistas, sugeridas pelo che
 
 VI - Formentar o intercâmbio bibliográfico com instituições científicas do Brasil e do Exterior;
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Seção de Administração</em>
+*Da Seção de Administração*
 
-<strong>Art</strong>. 28. A Seção de Administração (SA-SM) compete:
+**Art**. 28. A Seção de Administração (SA-SM) compete:
 
 I - Elaborar o expediente administratvo do S.M.;
 
@@ -384,15 +382,15 @@ II - Atender ao público em seus pedidos de informações, bem como orientá-lo 
 
 III - Expedir certidões, exceto as relativas a tempo de serviço prestado ao S.M.;
 
-IV - Providenciar a publicação no <em>Diário</em> <em>Oficial</em> de expediente do S.M.;
+IV - Providenciar a publicação no *DiárioOficial* de expediente do S.M.;
 
 § 2º A SA-SM funcionará em perfeita articulação com o Departamento de Administração do M.A.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Dos Distritos de Meteorologia</em>
+*Dos Distritos de Meteorologia*
 
-<strong>Art</strong>. 29. Aos Distritos de Meteorologia (DISME) compete:
+**Art**. 29. Aos Distritos de Meteorologia (DISME) compete:
 
 I - Coordenar o trabalho de tôdas as estações meteorológica e de radiocomunicações, postos termopluviométricos, pluviométricos e semafóricos que estiverem compreendidos na respectiva região, providenciando as medidas que se apresentarem proveitosas à sua eficiência;
 
@@ -452,11 +450,11 @@ V - Organizar e expedir os boletins de freqüência dos funcionários;
 
 VI - Elaborar o expediente dos respectivos Distritos de Meteorologia referente a pessoal, orçamento e material.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 30. Ao Diretor do Serviço de Meteorologia incumbe:
+**Art**. 30. Ao Diretor do Serviço de Meteorologia incumbe:
 
 I - Superintender, de acôrdo com a legislação, normas e instruções vigentes, as atividades a cargo do Serviço;
 
@@ -512,7 +510,7 @@ XXVI - Designar e dispensar os professôres dos cursos, bem como os respectivos 
 
 XXVII - Baixar normas para funcionamento dos cursos e realização de provas;
 
-<strong>Art</strong>. 31. Aos chefes de Divisão, de Biblioteca, do Observatório Meteorológico e da S.A., no que couber, incumbe:
+**Art**. 31. Aos chefes de Divisão, de Biblioteca, do Observatório Meteorológico e da S.A., no que couber, incumbe:
 
 I - Dirigir, coordenar, orientar e fiscalizar os trabalhos a cargo da respectiva unidade, estabelecendo normas e métodos para execução dos mesmos;
 
@@ -554,7 +552,7 @@ XIX - Zelar pela ordem, disciplina, regularidade e eficiência dos trabalhos em 
 
 XX - Exercer tôdas as demais atividades não expressamente previstas neste Regimento, que lhes caibam em virtude da legislação em vigor e que sejam necessárias à plena realização das atribuições afetas ao órgão sob sua chefia.
 
-<strong>Art</strong>. 32. Aos chefes de Seção e de Setor e aos Encarregados de Turma incumbe:
+**Art**. 32. Aos chefes de Seção e de Setor e aos Encarregados de Turma incumbe:
 
 I - Dirigir e fiscalizar os trabalhos das respectivas unidades administrativas;
 
@@ -582,7 +580,7 @@ XII - Propor ao chefe imediato a antecipação ou prorrogação do período norm
 
 XIII - Exercer tôdas as demais atividades não expressamente previstas neste Regimento, que lhes caibam em virtude da legislação em vigor e que sejam necessárias à plena realização das atribuições afetas aos órgãos a que estiverem subordinados.
 
-<strong>Art</strong>. 33. Aos chefes dos Distritos de Meteorologia incumbe:
+**Art**. 33. Aos chefes dos Distritos de Meteorologia incumbe:
 
 I - Orientar, coordenar e dirigir os serviços da respectiva repartição;
 
@@ -636,7 +634,7 @@ XXV - Atender às solicitações de esclarecimento quanto aos trabalhos em andam
 
 XXVI - Designar e dispensar quando lhe forem diretamente subordinados os ocupantes de funções gratificadas e seus substitutos eventuais.
 
-<strong>Art</strong>. 34. Ao Assessor encarregado da coordenação dos cursos incumbe:
+**Art**. 34. Ao Assessor encarregado da coordenação dos cursos incumbe:
 
 I - Coordenar as atividades relacionadas com os cursos de post graduação e os destinados à formação de técnicos e pesquisadores especializados;
 
@@ -650,9 +648,9 @@ V - Controlar a freqüência de alunos e professôres e preparar os certificados
 
 VI - Exercer os demais trabalhos da assistência cultural determinados pelo Diretor;
 
-<strong>Art</strong>. 35 - Ao Assessor incumbe o desempenho das atribuições de natureza especializada que lhe forem cometidas pelo Diretor do S.M.
+**Art**. 35 - Ao Assessor incumbe o desempenho das atribuições de natureza especializada que lhe forem cometidas pelo Diretor do S.M.
 
-<strong>Art</strong>. 36 - Ao Secretário do Diretor incumbe:
+**Art**. 36 - Ao Secretário do Diretor incumbe:
 
 I - Atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a este conhecimento do assunto a tratar;
 
@@ -660,35 +658,35 @@ II - Redigir a correspondência que lhe fôr determinada;
 
 III - Realizar outras tarefas que lhe forem cometidas pelo Diretor;
 
-<strong>Art</strong>. 37 - Ao Auxiliar do Diretor incumbe:
+**Art**. 37 - Ao Auxiliar do Diretor incumbe:
 
 I - Organizar e manter atualizado o contrôle da movimentação de processos submetidos a despacho do Diretor;
 
 II - Executar trabalhos de datilografia que lhe forem determinados.
 
-<strong>Art</strong>. 38 - Aos funcionários do S.M., que não tenham atribuições especificadas neste Regimento, cumpre executar os trabalhos de que forem incumbidos pelos seus superiores imediatos.
+**Art**. 38 - Aos funcionários do S.M., que não tenham atribuições especificadas neste Regimento, cumpre executar os trabalhos de que forem incumbidos pelos seus superiores imediatos.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 39. O S. M. terá a lotação que fôr aprovada em decreto.
+**Art**. 39. O S. M. terá a lotação que fôr aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, poderá o S.M. dispor de pessoal requisitado na forma da legislação vigente.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 40. O horário normal de trabalho é fixado para o Serviço Público Federal, respeitados os regimes especiais estabelecidos na legislação vigente.
+**Art**. 40. O horário normal de trabalho é fixado para o Serviço Público Federal, respeitados os regimes especiais estabelecidos na legislação vigente.
 
 Parágrafo único. Poderá ser estabelecido horário especial, de acôrdo com a natureza das atividades do S. M., desde que observado o número normal de horas semanais ou mensais.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 41. Serão substituídos automàticamente em seus impedimentos temporários ou eventuais:
+**Art**. 41. Serão substituídos automàticamente em seus impedimentos temporários ou eventuais:
 
 I - O Diretor do S.M., pelo Chefe de Divisão de sua indicação designado pelo Ministro de Estado;
 
@@ -698,14 +696,14 @@ II - Os chefes do observatório Meteorológico, Biblioteca, e Seção, e os Enca
 
 Parágrafo único. Haverá sempre funcionários designados para as substituições.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 42. O fornecimento de dados meteorológicos especiais e de pareceres técnicos, bem como o consêrto, a comparação e a aferição de instrumentos quando solicitados por particulares serão feitos mediante pagamento de uma taxa retributória, de acôrdo com a Tabela aprovada pelo Ministro da Agricultura.
+**Art**. 42. O fornecimento de dados meteorológicos especiais e de pareceres técnicos, bem como o consêrto, a comparação e a aferição de instrumentos quando solicitados por particulares serão feitos mediante pagamento de uma taxa retributória, de acôrdo com a Tabela aprovada pelo Ministro da Agricultura.
 
-<strong>Art</strong>. 43. Os servidores do S.M. e da rêde meteorológica não poderão fazer publicações e conferências, nem conceder entrevistas sôbre assuntos relacionados com a organização ou as atividades do serviço sem prévia autorização do respectivo Diretor.
+**Art**. 43. Os servidores do S.M. e da rêde meteorológica não poderão fazer publicações e conferências, nem conceder entrevistas sôbre assuntos relacionados com a organização ou as atividades do serviço sem prévia autorização do respectivo Diretor.
 
 Brasília, 11 de outubro de 1963.
 
-<strong>OSWALDO LIMA FILHO</strong>
+**OSWALDO LIMA FILHO**

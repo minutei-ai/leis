@@ -1,5 +1,3 @@
-###DEC-060000-0-000-10-01-1967@@@
-
 DECRETO Nº 60.000, DE 10 DE JANEIRO DE 1967.
 
 Altera o art. 1º do Decreto nº 43.966, de 4 de julho de 1958.

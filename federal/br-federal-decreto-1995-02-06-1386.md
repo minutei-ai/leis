@@ -1,7 +1,3 @@
-1
-
-###DEC-001386-0-000-06-02-1995@@@
-
 DECRETO Nº 1.386, DE 6 DE FEVEREIRO DE 1995
 
 Cria a Câmara de Comércio Exterior, do Conselho de Governo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050850-0-000-26-06-1961@@@
-
 DECRETO Nº 50.850, DE 26 DE JUNHO DE 1961.
 
 Concede a “The Western Telegraph Company Limited” autorização para ampliar a sua concessão em vigor, para o fim de instalar e explorar serviço telegráfico público internacional e interior no Estado do Rio Grande do Sul.

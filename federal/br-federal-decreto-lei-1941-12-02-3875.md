@@ -1,5 +1,3 @@
-###DEL-003875-0-000-02-12-1941@@@
-
 DECRETO-LEI N. 3.875 – DE 2 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 720$ para pagamento de gratificação adicional

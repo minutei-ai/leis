@@ -1,5 +1,3 @@
-###DEC-065193-0-000-18-09-1969@@@
-
 decreto nº 65.193 - de 18 de setembro de 1969.
 
 Altera e acrescenta dispositivos ao Decreto nº 62.797, de 31 de maio de 1968.

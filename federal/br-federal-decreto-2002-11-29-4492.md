@@ -1,5 +1,3 @@
-###DEC-004492-0-000-29-11-2002@@@
-
 DECRETO Nº 4.492, DE 29 DE NOVEMBRO DE 2002
 
 Regulamenta a carreira de Tecnologia Militar, criada pela Lei nº 9.657, de 3 de junho de 1998.

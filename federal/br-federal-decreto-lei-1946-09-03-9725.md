@@ -1,5 +1,3 @@
-###DEL-009725-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.725 – DE 3 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 2.000.000,00, para aquisição de biblioteca.

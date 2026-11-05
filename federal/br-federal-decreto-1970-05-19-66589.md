@@ -1,5 +1,3 @@
-###DEC-066589-0-000-19-05-1970@@@
-
 decreto nº 65.589, de 19 de maio de 1970.
 
 Concede à Permatex - Cimento Amianto S.A. o direito de lavrar amianto no município de Itaberaba, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-047806-0-000-15-02-1960@@@
-
 DECRETO Nº 47.806, DE 15 DE FEVEREIRO DE 1960.
 
 Dá nova redação à letra b do Artigo 71 do Regulamento para a Escola de Comando e Estado-Maior do Exército.

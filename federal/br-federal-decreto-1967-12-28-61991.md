@@ -1,5 +1,3 @@
-###DEC-061991-0-000-28-12-1967@@@
-
 DECRETO Nº 61.991, DE 28 DE DEZEMBRO DE 1967.
 
 Cria Grupo de Trabalho no Ministério das Minas e Energia.

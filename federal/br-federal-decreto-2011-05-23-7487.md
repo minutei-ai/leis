@@ -1,5 +1,3 @@
-###DEC-007487-0-000-23-05-2011-PUB-01@@@
-
 DECRETO Nº 7.487, DE 23 DE MAIO DE 2011
 
 Dá nova redação aos arts. 7º, 32, 33 e 45 do Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

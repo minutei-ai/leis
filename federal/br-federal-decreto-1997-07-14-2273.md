@@ -1,5 +1,3 @@
-###DEC-002273-0-000-14-07-1997@@@
-
 DECRETO Nº 2.273, DE 14 DE JULHO DE 1997
 
 Regulamenta os arts. 14 e 21 da Medida Provisória nº 1.535-7, de 11 de julho de 1997.

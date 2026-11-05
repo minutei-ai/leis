@@ -1,5 +1,3 @@
-###DEC-050178-0-000-28-01-1961@@@
-
 DECRETO Nº 50.178, DE 28 DE JANEIRO DE 1961.
 
 O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas), e tendo em vista o que consta do DNPM-6586-59,

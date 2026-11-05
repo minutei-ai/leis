@@ -1,5 +1,3 @@
-###DEC-085082-0-000-27-08-1980@@@
-
 Decreto nº 85.082, de 27 de agosto de 1980
 
 Autoriza o funcionamento do curso de Letras, da Faculdade de Filosofia da Cidade de Goiás, Estado de Goiás.

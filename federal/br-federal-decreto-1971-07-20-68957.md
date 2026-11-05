@@ -1,5 +1,3 @@
-###DEC-068957-0-000-20-07-1971@@@
-
 DECRETO Nº 68.957, de 20 de julho de 1971.
 
 Concede à Empresa de Águas Nossa Senhora de Nazaré S.A. o direito de lavrar água mineral, no município de Belém, Estado do Pará.

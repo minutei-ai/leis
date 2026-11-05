@@ -1,5 +1,3 @@
-###DEC-091173-0-000-26-03-1985@@@
-
 Decreto nº 91.173, de 26 de março de 1985.
 
 Delega competência ao Ministro Chefe do Gabinete Civil para a prática do ato que menciona.

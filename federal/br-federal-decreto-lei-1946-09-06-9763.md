@@ -1,5 +1,3 @@
-###DEL-009763-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.763 – DE 6 DE SETEMBRO DE 1946
 
 Concede isenção de direitos de importação para consumo e demais taxas aduaneiras, inclusive a de previdência social, para o papel para livros e dá outras providências.

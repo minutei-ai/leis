@@ -1,5 +1,3 @@
-###DEC-058403-0-000-17-05-1966@@@
-
 DECRETO Nº 58.403, de 17 de maio de 1966.
 
 Autoriza a DEMA - Distribuidora e Exportadora de Minérios e Adubos S. A. a lavrar pirocloro no município de Araxá, no Estado de Minas Gerais.

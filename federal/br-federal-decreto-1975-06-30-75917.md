@@ -1,5 +1,3 @@
-###DEC-075917-0-000-30-06-1975@@@
-
 DECRETo Nº 75.917, DE 30 DE JUNHO DE 1975.
 
 Autoriza o funcionamento da Faculdade de Ciências Humanas de Francisco Beltrão, mantida pela Fundação Faculdade de Ciências Humanas de Francisco Beltrão, com sede na Cidade de Francisco Beltrão, Estado do Paraná.

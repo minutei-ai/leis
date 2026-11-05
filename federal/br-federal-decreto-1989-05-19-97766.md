@@ -1,7 +1,3 @@
-1
-
-###DEC-097766-0-000-19-05-1989@@@
-
 DECRETO Nº 97.766, DE 19 DE MAIO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “FAZENDA CHOPIM - QUINHÃO II - FRAÇÃO B”, classificado como “latifúndio por exploração”, situado no Município de Mangueirinha, no Estado do Paraná, compreendido na zona prioritária, fixada pelo Decreto nº 92.622, de 02 de maio de 1986, e dá outras providências.

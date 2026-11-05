@@ -1,5 +1,3 @@
-###DEC-081320-0-000-09-02-1978@@@
-
 decreto nº 81.320 de 9 de fevereiro de 1978.
 
 Concede reconhecimento aos cursos de Matemática, de Letras e de Pedagogia da Faculdade de Filosofia, Ciências e Letras Anderson, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

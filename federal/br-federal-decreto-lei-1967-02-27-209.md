@@ -1,5 +1,3 @@
-###DEL-000209-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 209, DE 27 DE FEVEREIRO DE 1967
 
 Institui o Código Brasileiro de Alimentos, e dá outras providências.

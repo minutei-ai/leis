@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210770)<br>
-
 # LEI N° 18.138, DE 19 DE MARÇO DE 2025
 
 ## (Projeto de lei n° 755/2024, do Deputado Delegado Olim - PP)

@@ -1,5 +1,3 @@
-###DEC-045627-0-000-24-03-1959@@@
-
 DECRETO Nº 45.627, DE 24 DE MARÇO DE 1959.
 
 Autoriza estrangeira a adquirir fração ideal de domínio útil do terreno de acrescidos de marinha que menciona, no Distrito Federal.

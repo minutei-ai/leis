@@ -1,5 +1,3 @@
-###DEC-003560-0-000-14-08-2000@@@
-
 DECRETO Nº 3.560, DE 14 DE AGOSTO DE 2000.
 
 Regulamenta os §§ 5º e 6º do art. 2º do Decreto-Lei nº 2.452. de 29 de julho de 1988 alterado pelas Leis nº 8.396 de 2 de janeiro de 1992, e 8.924 de 29 de julho de 1994, estabelecendo o procedimento para declaração de caducidade de concessão de Zonas de Processamento de Exportação-ZPE, e dá outras providências.

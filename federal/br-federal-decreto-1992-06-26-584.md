@@ -1,5 +1,3 @@
-###DEC-000584-0-000-26-06-1992@@@
-
 DECRETO N° 584, DE 26 DE JUNHO DE 1992
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferencias Outorgadas no período 1962/1980 (Acordo nº 10 Revisado}, entre Brasil e Colômbia.

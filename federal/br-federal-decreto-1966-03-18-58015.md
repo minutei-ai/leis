@@ -1,5 +1,3 @@
-###DEC-058015-0-000-18-03-1966@@@
-
 DECRETO Nº 58.015, DE 18 DE MARÇO DE 1966.
 
 Altera o Regulamento do Serviço Geral de Expediente e Arquivo da Aeronáutica, aprovado pelo Decreto nº 1.976, de 2 de janeiro de 1963.

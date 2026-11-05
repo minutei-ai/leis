@@ -1,5 +1,3 @@
-###DEC-055010-0-000-17-11-1964@@@
-
 DECRETO Nº 55.010, DE 17 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Rio Prêto, com sede em São José do Rio Prêto Estado de São Paulo.

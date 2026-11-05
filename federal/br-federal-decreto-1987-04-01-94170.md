@@ -1,5 +1,3 @@
-###DEC-094170-0-000-01-04-1987@@@
-
 DECRETO N° 94.170, DE 1° DE ABRIL DE 1987
 
 Dispõe sobre a importação sem cobertura cambial.

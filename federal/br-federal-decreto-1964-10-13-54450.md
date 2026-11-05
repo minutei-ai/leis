@@ -1,5 +1,3 @@
-###DEC-054450-0-000-13-10-1964@@@
-
 decreto nº 54.450, de 13 de outubro de 1964.
 
 Renova o decreto nº 49.929 de 13 de janeiro de 1961.

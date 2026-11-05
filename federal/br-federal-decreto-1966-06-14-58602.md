@@ -1,5 +1,3 @@
-###DEC-058602-0-000-14-06-1966@@@
-
 DECRETO Nº 58.602, de 14 de junho de 1966.
 
 Retifica o enquadramento dos cargos, funções e empregos do Departamento Administrativo do Serviço Público.

@@ -1,5 +1,3 @@
-###DEC-063912-0-000-26-12-1968@@@
-
 DECRETO Nº 63.912, DE 26 DE DEZEMBRO DE 1968.
 
 Regula o pagamento da gratificação de Natal ao trabalhador avulso e dá outras providências.

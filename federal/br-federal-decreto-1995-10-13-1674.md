@@ -1,7 +1,3 @@
-1
-
-###DEC-001674-0-000-13-10-1995@@@
-
 DECRETO Nº 1.674, DE 13 DE OUTUBRO DE 1995.
 
 Altera o art. 2º do Decreto nº 1.636, de 14 de setembro de 1995, que institui a hora de verão, em parte do Território Nacional, no período que indica.

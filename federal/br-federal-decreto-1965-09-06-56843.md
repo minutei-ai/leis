@@ -1,5 +1,3 @@
-###DEC-056843-0-000-06-09-1965@@@
-
 DECRETO Nº 56.843, DE 6 DE SETEMBRO de 1965.
 
 Retifica disposições do Decreto número 55.899, de 7 de abril de 1965 que aprova o Quadro Geral de Acionistas de Seguro Agrícola.

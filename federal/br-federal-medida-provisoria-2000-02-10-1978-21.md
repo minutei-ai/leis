@@ -1,5 +1,3 @@
-###MPV-001978-0-021-10-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-21, DE 10 DE Fevereiro DE 2000.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

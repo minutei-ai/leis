@@ -1,5 +1,3 @@
-###DEC-071777-0-000-31-01-1973@@@
-
 decreto nº 71.777, de 31 de janeiro de 1973.
 
 Concede à Mineração Abel S.A. o direito de lavrar areia quartzosa no município de Peruíbe, Estado de São Paulo.

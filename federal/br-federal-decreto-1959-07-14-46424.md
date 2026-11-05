@@ -1,32 +1,30 @@
-###DEC-046424-0-000-14-07-1959@@@
+**DECRETO Nº 46.424, DE 14 DE JULHO DE 1959.**
 
-<strong>DECRETO Nº 46.424, DE 14 DE JULHO DE 1959.</strong>
+***Aprova o Regulamento para os Centros de Contrôle de Estoque.***
 
-<em><strong>Aprova o Regulamento para os Centros de Contrôle de Estoque.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para os Centros de Contrôle de Estoque (CCE), que a êste acompanha, assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para os Centros de Contrôle de Estoque (CCE), que a êste acompanha, assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 14 de julho de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Jorge do Paço Mattoso Maia
 
-<strong>REGULAMENTO PARA OS CENTROS DE CONTRÔLE DE ESTOQUE</strong>
+**REGULAMENTO PARA OS CENTROS DE CONTRÔLE DE ESTOQUE**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Fins</em>
+*Dos Fins*
 
-<strong>Art</strong>. 1º Os Centros de Contrôle de estoque (CCE) são órgãos logísticos, que têm por finalidade promover e assegurar a manutenção dos estoques de suprimentos, que devam existir nos pontos de acumulação e distribuição da rede de abastecimento da MB, nos níveis determinados pelo EMA e Diretorias Técnicas.
+**Art**. 1º Os Centros de Contrôle de estoque (CCE) são órgãos logísticos, que têm por finalidade promover e assegurar a manutenção dos estoques de suprimentos, que devam existir nos pontos de acumulação e distribuição da rede de abastecimento da MB, nos níveis determinados pelo EMA e Diretorias Técnicas.
 
-<strong>Art</strong>. 2º Para a consecução de sua finalidade, cabe especificamente aos CCE:
+**Art**. 2º Para a consecução de sua finalidade, cabe especificamente aos CCE:
 
 I - manter o perfeito conhecimento dos estoques existentes nos Centros de Suprimentos e nos Depósitos Primários e Secundários;
 
@@ -46,17 +44,17 @@ VIII - coordenar as providências ligadas às tarefas necessárias à movimenta�
 
 Parágrafo único. Os CCE realizarão seus trabalhos de acôrdo com os programas estabelecidos pela Diretoria de Intendência da Marinha.
 
-<strong>Art</strong>. 3º Cada CCE está subordinado:
+**Art**. 3º Cada CCE está subordinado:
 
 I - Ao Comando do Distrito Naval em cuja sede estiver localizado, quando ao Comando Militar e Contrôle de Coordenação.
 
 II - À Diretoria de Intendência da Marinha, quanto ao Contrôle de Administração.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 4º Cada CCE, sob a direção de um Diretor, auxiliado pelo Vice-Diretor, compreende cinco Divisões, a saber:
+**Art**. 4º Cada CCE, sob a direção de um Diretor, auxiliado pelo Vice-Diretor, compreende cinco Divisões, a saber:
 
 I - Divisão de Planejamento;
 
@@ -68,13 +66,13 @@ IV - Divisão de Contrôle;
 
 V - Divisão Técnica.
 
-<strong>Art</strong>. 5º As Divisões se subdividirão em Seções de acôrdo com o que estabelecer o Regimento Interno de cada CCE.
+**Art**. 5º As Divisões se subdividirão em Seções de acôrdo com o que estabelecer o Regimento Interno de cada CCE.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 6º Cada CCE dispõe do seguinte pessoal:
+**Art**. 6º Cada CCE dispõe do seguinte pessoal:
 
 I - Diretor - Capitão-de-Mar-e-Guerra do Corpo de Intendentes da Marinha;
 
@@ -86,27 +84,27 @@ IV - Tantas praças do CPSA e CPSCFN quantas forem necessárias aos serviços, d
 
 V - Tantos servidores civis da Tabela Numérica do Ministério da Marinha, extranumerários e contratados, quantos forem necessários aos serviços, de conformidade com o previsto no Regimento Interno.
 
-<strong>Art</strong>. 7º O pessoal de cada CCE será nomeado, designado ou admitido de acôrdo com a legislação e normas vigentes.
+**Art**. 7º O pessoal de cada CCE será nomeado, designado ou admitido de acôrdo com a legislação e normas vigentes.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 8º Êste Regulamento será complementado por um Regimento Interno e por uma Organização Interna Administrativa para cada acôrdo com as normas em vigor.
+**Art**. 8º Êste Regulamento será complementado por um Regimento Interno e por uma Organização Interna Administrativa para cada acôrdo com as normas em vigor.
 
-<strong>Art</strong>. 9º Serão regidos por êste Regulamento o Centro de Contrôle de Estoque de Material Comum e o Centro de Contrôle de Estoque de Sobressalentes para Navios, já em funcionamento, assim como os demais Centros de Contrôle de Estoque que venham a ser criados.
+**Art**. 9º Serão regidos por êste Regulamento o Centro de Contrôle de Estoque de Material Comum e o Centro de Contrôle de Estoque de Sobressalentes para Navios, já em funcionamento, assim como os demais Centros de Contrôle de Estoque que venham a ser criados.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Disposições Transitórias</em>
+*Das Disposições Transitórias*
 
-<strong>Art</strong>. 10. Enquanto não estiver completamente organizada e em funcionamento a Rêde de Aquisição do Sistema de Abastecimento da MB, caberão aos CCE as funções de procura atribuídas àquela rede.
+**Art**. 10. Enquanto não estiver completamente organizada e em funcionamento a Rêde de Aquisição do Sistema de Abastecimento da MB, caberão aos CCE as funções de procura atribuídas àquela rede.
 
-<strong>Art</strong>. 11. No prazo de noventa (90) dias a partir da publicação ao presente Regulamento em Boletim do Ministério da Marinha o Diretor-Geral de Intendência da Marinha submeterá à aprovação do Ministro da Marinha o projeto de Regimento Interno para cada CCE já criado, elaborado de acôrdo com as normas em vigor.
+**Art**. 11. No prazo de noventa (90) dias a partir da publicação ao presente Regulamento em Boletim do Ministério da Marinha o Diretor-Geral de Intendência da Marinha submeterá à aprovação do Ministro da Marinha o projeto de Regimento Interno para cada CCE já criado, elaborado de acôrdo com as normas em vigor.
 
 Rio de Janeiro, em 16 de junho de 1959.
 
-<strong>JORGE DO PAÇO MATTOSO MAIA</strong>
+**JORGE DO PAÇO MATTOSO MAIA**
 
 Almirante-de-Esquadra
 

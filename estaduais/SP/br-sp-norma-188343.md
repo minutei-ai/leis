@@ -1,16 +1,11 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188343)
-
 # DECRETO Nº 63.821, DE 21 DE NOVEMBRO DE 2018
 
 ### _Declara de utilidade pública para fins de desapropriação pela Concessionária RODOVIAS DO TIETÊ S.A., os imóveis necessários às obras de melhoria da interseção localizada no km 4+700m da Rodovia Dr. João José Rodrigues, SP-113, Município e Comarca de Tietê, no trecho que especifica e dá providências correlatas_
 
 MÁRCIO FRANÇA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956 e do disposto no [Decreto n° 53.312, de 08 de agosto de 2008](https://www.al.sp.gov.br/norma/122292),
 
-<br>
-
 Decreta:
 
-<br>
 **Artigo 1º -** Ficam declarados de utilidade pública, para fins de desapropriação, pela RODOVIAS DO TIETÊ S.A., empresa concessionária de serviço público, por via amigável ou judicial, os imóveis descritos na planta cadastral de código nº DE-SPD004113-004.005-021-D03/001 e memoriais descritivos constantes do processo ARTESP-028.977/2018-SLT, necessários às obras de melhoria da interseção localizada no km 4+700m da Rodovia Dr. João José Rodrigues, SP-113, Município e Comarca de Tietê, com área total de 7.514,06m² (sete mil, quinhentos e quatorze metros quadrados e seis decímetros quadrados), dentro dos perímetros a seguir descritos, imóveis estes que constam pertencer aos proprietários, a saber:
 
 I - área 1, uma gleba de terras designada Gleba 2, Sítio Pirapora, localizada do lado direito da Rodovia SP-113, sentido Tietê-Capivari, km 4+700m, Bairro Pirapora, Município e Comarca de Tietê, que consta pertencer a Mário Jorge Maschietto, Ângela Dantas Maschietto e/ou outros, que inicia no ponto “1” de coordenadas N=7.444.509,849 e E=226.061,801, sendo constituída pelos segmentos 1-2 em linha reta com azimute de 72°36'40,35” e distância de 31,637m; 2-3 em linha reta com azimute de 159°50'25,42” e distância de 6,487m; 3-4 em linha reta com azimute de 244°54'49,62” e distância de 6,481m; 4-1 em linha reta com azimute de 268°40'06,39” e distância de 26,564m, perfazendo uma área de 137,17m² (cento e trinta e sete metros quadrados e dezessete decímetros quadrados);
@@ -23,24 +18,26 @@ IV - área 4, uma gleba de terras, localizada no Bairro Pirapora, lado esquerdo 
 
 **Parágrafo único -** Ficam excluídas as propriedades que estiverem dentro da área abrangida por este decreto, pertencentes às pessoas jurídicas de Direito Público.
 
-<br>
-
 **Artigo 2º -** Fica a expropriante autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem - DER.
-
-<br>
 
 **Artigo 3º -** As despesas decorrentes da execução do presente decreto correrão por conta de verba própria da Concessionária Rodovias do Tietê S.A.
 
-<br>
 **Artigo 4º -** Este decreto entra em vigor na data de sua publicação.
 
-<br>
-Palácio dos Bandeirantes, 21 de novembro de 2018<br>
-MÁRCIO FRANÇA<br>
-Mário Mondolfo<br>
-Secretário de Logística e Transportes<br>
-Aldo Rebelo<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Palácio dos Bandeirantes, 21 de novembro de 2018
+
+MÁRCIO FRANÇA
+
+Mário Mondolfo
+
+Secretário de Logística e Transportes
+
+Aldo Rebelo
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 21 de novembro de 2018.

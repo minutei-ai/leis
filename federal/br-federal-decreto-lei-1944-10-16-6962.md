@@ -1,5 +1,3 @@
-###DEL-006962-0-000-16-10-1944@@@
-
 DECRETO-LEI N. 6.962 – DE 16 DE OUTUBRO DE 1944
 
 Autoriza a aquisição de um terreno em Salvador, Estado da Bahia, para os serviços do Comando Naval de Leste

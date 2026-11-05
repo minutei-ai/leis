@@ -1,5 +1,3 @@
-###DEC-055055-0-000-24-11-1964@@@
-
 DECRETO Nº 55.055, DE 24 DE NOVEMBRO DE 1964.
 
 Concede à Maragno & Cia. Ltda., autorização para funcionar como emprêsa de mineração.

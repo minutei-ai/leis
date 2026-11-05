@@ -1,5 +1,3 @@
-###DEC-066911-0-000-20-07-1970@@@
-
 decreto nº 66.911, de 20 de julho de 1970.
 
 Declara caduco o Decreto nº 15.591 de 17 de maio de 1944.

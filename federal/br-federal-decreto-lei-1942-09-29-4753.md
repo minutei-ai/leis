@@ -1,5 +1,3 @@
-###DEL-004753-0-000-29-09-1942@@@
-
 DECRETO-LEI N. 4.753 – DE 29 DE SETEMBRO DE 1942
 
 Autoriza o aproveitamento na Reserva Aeronáutica de pilotos civís formados nas Escolas de Aviação do Estados unido da América do Norte

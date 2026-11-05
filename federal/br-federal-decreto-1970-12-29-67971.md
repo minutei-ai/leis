@@ -1,5 +1,3 @@
-###DEC-067971-0-000-29-12-1970@@@
-
 DECRETO Nº 67.971, DE 29 DE DEZEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Instituto Brasileiro de Desenvolvimento Florestal, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarqui Federal e dá outras providências.

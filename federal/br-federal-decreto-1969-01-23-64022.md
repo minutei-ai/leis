@@ -1,5 +1,3 @@
-###DEC-064022-0-000-23-01-1969@@@
-
 DECRETO Nº 64.022, DE 23 DE JANEIRO DE 1969.
 
 Aprova a reformulação dos Estatutos da Sociedade por Ações Emprêsa de Reparos Navais "COSTEIRA" S.A.

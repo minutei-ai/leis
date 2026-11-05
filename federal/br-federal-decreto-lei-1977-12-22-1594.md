@@ -1,5 +1,3 @@
-###DEL-001594-0-000-22-12-1977@@@
-
 # Decreto-lei nº 1594, de 22 de dezembro de 1977
 
 Prorroga os incentivos fiscais previstos no Decreto-lei nº 221, de 28 de fevereiro de 1967.

@@ -1,14 +1,12 @@
-###DEC-025034-0-000-01-06-1948@@@
+**DECRETO Nº 25.034, DE 1 DE JUNHO DE 1948.**
 
-<strong>DECRETO Nº 25.034, DE 1 DE JUNHO DE 1948.</strong>
+***Aceita a doação dos imóveis que menciona, situados em diversos Estados.***
 
-<em><strong>Aceita a doação dos imóveis que menciona, situados em diversos Estados.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e de acôrdo com os artigos ns. 1.165 e 1.180, do Código Civil,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e de acôrdo com os artigos ns. 1.165 e 1.180, do Código Civil,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - Fica aceita pela União a doação dos imóveis abaixo descritos, conforme escrituras públicas assinadas entre o Departamento dos Correios e Telégrafos e os proprietários em seguida mencionados:
+**Art**. 1º - Fica aceita pela União a doação dos imóveis abaixo descritos, conforme escrituras públicas assinadas entre o Departamento dos Correios e Telégrafos e os proprietários em seguida mencionados:
 
 a) - Imóveis situados no Estado de São Paulo.
 
@@ -36,17 +34,17 @@ c) - Imóvel situado no Estado de Alagôas.
 
 9 - Cidade de União (atual União dos Palmares) terreno de 30 (trinta) metros de frente por 40 (quarenta) metros de fundos, localizado entre a Estrada de Ferro Great Western e a área de prolongamento da avenida João Pessoa, doado pela Prefeitura Municipal de União, por escritura de 12 de abril de 1941, lavrada no Livro de Notas nº 44, fls 53 a 55 v.; do tabelião interino Lourinaldo Valadares de Paula Gaia, da citada localidade;
 
-<strong>Art</strong>. 2º - Fica igualmente aceita a cessão que à União foi feita em 20 de dezembro de 1920, por intermédio da antiga Repartição Geral dos Telégrafos, pela Prefeitura Municipal de Araguáia (atualmente Araguaina), Estado de Mato Grosso, de um terreno situado no avenida Dom Bosco, com 10 (dez) metros de frente, por 100 (cem) metros de fundo, limitando com as propriedades de Antônio Carvalhais da Silva, ao nascente, de Josefina da Costa Toledo ao poente, e com o ribeirão Lage ao Sul. conforme consta do “Registro de Concessão de Terras”, daquela Prefeitura, a fls. 33 v., imóvel êsse no qual já foi construído um edifício para a agência postal-telegráfica da referida localidade, fim para que foi doado.
+**Art**. 2º - Fica igualmente aceita a cessão que à União foi feita em 20 de dezembro de 1920, por intermédio da antiga Repartição Geral dos Telégrafos, pela Prefeitura Municipal de Araguáia (atualmente Araguaina), Estado de Mato Grosso, de um terreno situado no avenida Dom Bosco, com 10 (dez) metros de frente, por 100 (cem) metros de fundo, limitando com as propriedades de Antônio Carvalhais da Silva, ao nascente, de Josefina da Costa Toledo ao poente, e com o ribeirão Lage ao Sul. conforme consta do “Registro de Concessão de Terras”, daquela Prefeitura, a fls. 33 v., imóvel êsse no qual já foi construído um edifício para a agência postal-telegráfica da referida localidade, fim para que foi doado.
 
-<strong>Art</strong>. 3º - São aprovadas as escrituras públicas de doação mencionadas nos ns. 1 a 9 do artigo 1º, assim como a cessão a que se refere o artigo 2º, cujos traslados e certidão, respectivamente, baixam, devidamente rubricados com o presente Decreto.
+**Art**. 3º - São aprovadas as escrituras públicas de doação mencionadas nos ns. 1 a 9 do artigo 1º, assim como a cessão a que se refere o artigo 2º, cujos traslados e certidão, respectivamente, baixam, devidamente rubricados com o presente Decreto.
 
-<strong>Art</strong>. 4º - Nos terrenos descritos nos ns. 1, 2, 3 e 7 do artigo 1º será construído um edifício para a agência postal ou postal-telegráfica das respectivas localidades, e no descrito no de nº 5, um para instalação de estações  rádio-automáticas, visto terem sido doados para êsses fins.
+**Art**. 4º - Nos terrenos descritos nos ns. 1, 2, 3 e 7 do artigo 1º será construído um edifício para a agência postal ou postal-telegráfica das respectivas localidades, e no descrito no de nº 5, um para instalação de estações  rádio-automáticas, visto terem sido doados para êsses fins.
 
-<strong>Art</strong>. 5º - Revogam-se as disposições em contrário.
+**Art**. 5º - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 1 de junho de 1948, 127 da Independência e 60º da República
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana
 

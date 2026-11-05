@@ -1,5 +1,3 @@
-###DEC-051919-B-000-26-04-1963@@@
-
 DECRETO Nº 51.919-b, DE 26 DE ABRIL DE 1963.
 
 Declara sem efeito o decreto número 44.920, de 1º de dezembro de 1958.

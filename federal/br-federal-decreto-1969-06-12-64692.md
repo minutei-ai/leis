@@ -1,5 +1,3 @@
-###DEC-064692-0-000-12-06-1969@@@
-
 DECRETO Nº 64.692, de 12 de junho de 1969.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Educação e Cultura, e dá outras providências.

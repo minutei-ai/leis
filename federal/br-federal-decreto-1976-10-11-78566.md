@@ -1,5 +1,3 @@
-###DEC-078566-0-000-11-10-1976@@@
-
 Decreto Nº 78.566, DE 11 DE outubro de 1796.
 
 Concede Reconhecimento ao curso de Biblioteconomia, da Fundação Universidade do Maranhão, com sede na Cidade de São Luiz, Estado do Maranhão.

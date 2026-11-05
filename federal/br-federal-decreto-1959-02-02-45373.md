@@ -1,5 +1,3 @@
-###DEC-045373-0-000-02-02-1959@@@
-
 decreto nº 45.373, de 2 de fevereiro de 1959.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Ferro, área de terreno e respectivas benfeitorias, necessária à ligação Camaragibe-Forno da Cal, Estado de Pernambuco.

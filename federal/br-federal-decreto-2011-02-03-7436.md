@@ -1,5 +1,3 @@
-###DEC-007436-0-000-03-02-2011-PUB-01@@@
-
 DECRETO Nº 7.436, DE 3 DE FEVEREIRO DE 2011
 
 Dá nova redação aos arts. 8º, 9º, 11, 12 e 13 do Anexo I do Decreto nº 7.364, de 23 de novembro de 2010, que Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo- Direção e Assessoramento Superiores - DAS, das Funções Gratificadas - FG, das Gratificações de Exercício em Cargo de Confiança, das Gratificações de Representação pelo Exercício de Função e das Gratificações de Representação - GR do Ministério da Defesa.

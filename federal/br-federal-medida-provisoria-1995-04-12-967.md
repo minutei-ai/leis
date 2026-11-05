@@ -1,7 +1,3 @@
-1
-
-###MPV-000967-0-000-12-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 967, DE 12 DE ABRIL DE 1995.
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048220-0-000-13-05-1960@@@
-
 DECRETO Nº 48.220, DE 13 DE MAIO DE 1960.
 
 Autoriza Estância Pilar S.A. a pesquisar água mineral, no município de Ribeirão Pires, Estado de São Paulo.

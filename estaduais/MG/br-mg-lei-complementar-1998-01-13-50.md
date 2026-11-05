@@ -41,7 +41,3 @@ EDUARDO AZEREDO
 Agostinho Patrús
 
 Arésio A. de Almeida Dâmaso e Silva
-
-\===============================================================
-
-Data da última atualização: 23/03/2004.

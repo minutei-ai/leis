@@ -1,5 +1,3 @@
-###DEC-004927-0-000-23-12-2003@@@
-
 DECRETO Nº 4.927 DE 23 DE DEZEMBRO DE 2003.
 
 Dá nova redação a alínea "e" do inciso I do art. 3o do Decreto no 2.119, de 13 de janeiro de 1997, que dispõe sobre o Programa Piloto para a Proteção das Florestas Tropicais do Brasil e sobre a sua Comissão de Coordenação.

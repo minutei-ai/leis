@@ -1,5 +1,3 @@
-###DEC-078002-0-000-08-07-1976@@@
-
 DECRETO Nº 78.002, DE 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Química Industrial de Química da Universidade de Estado do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

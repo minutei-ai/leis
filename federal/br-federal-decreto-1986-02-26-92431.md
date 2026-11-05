@@ -1,5 +1,3 @@
-###DEC-092431-0-000-26-02-1986@@@
-
 DECRETO Nº 92.431, DE 26 DE FEVEREIRO DE 1986
 
 Delega competência ao Ministro de Estado Extraordinário para Assuntos de Administração para execução do disposto no artigo 4º da Emenda Constitucional nº 26, de 27 de novembro de 1985.

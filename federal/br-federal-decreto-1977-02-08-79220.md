@@ -1,5 +1,3 @@
-###DEC-079220-0-000-08-02-1977@@@
-
 DECRETO Nº 79.220, DE 8 DE FEVEREIRO DE 1977.
 
 Autorizo do a transformação do curso de Matemática, em curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Itatiba, com sede na cidade de Itatiba, Estado de São Paulo.

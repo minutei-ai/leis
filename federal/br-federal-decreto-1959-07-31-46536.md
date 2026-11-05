@@ -1,5 +1,3 @@
-###DEC-046536-0-000-31-07-1959@@@
-
 DECRETO Nº 46.536, DE 31 DE JULHO DE 1959.
 
 Altera a redação das alíneas “a” e “c” do art. 29 do regulamento de Uniformes para os Militares da Aeronáutica ( RUMAER ).

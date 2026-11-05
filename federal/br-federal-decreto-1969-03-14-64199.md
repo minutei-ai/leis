@@ -1,5 +1,3 @@
-###DEC-064199-0-000-14-03-1969@@@
-
 DECRETO Nº 64.199, DE 14 DE MARÇO DE 1969.
 
 Cria o Núcleo do Comando do Comando Geral de Pesquisa e Desenvolvimento e dá outras providências.

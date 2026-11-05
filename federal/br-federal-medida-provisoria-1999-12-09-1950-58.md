@@ -1,5 +1,3 @@
-###MPV-001950-0-058-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.950-58, DE 9 DE DEZEMBRO DE 1999.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

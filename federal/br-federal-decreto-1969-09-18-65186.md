@@ -1,5 +1,3 @@
-###DEC-065186-0-000-18-09-1969@@@
-
 DECRETO N.º 65.186 - DE 18 DE SETEMBRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento Administrativo do Pessoal Civil (DASP) cargos originários da extinta Companhia Nacional de Navegação Costeira, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057218-0-000-10-11-1965@@@
-
 Decreto nº 57.218, de 10 de novembro de 1965.
 
 Concede à Mineração Brasileira de Ouro S.A. “Brásouro” autorização para funcionar como emprêsa de mineração.

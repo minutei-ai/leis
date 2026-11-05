@@ -1,5 +1,3 @@
-###DEL-009385-0-000-20-06-1946@@@
-
 DECRETO-LEI N. 9.385 – DE 20 DE JUNHO DE 1946
 
 Modifica a redução do art. 3º do Decreto-lei nº 5.878, de 4 de Outubro de 1943.

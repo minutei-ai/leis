@@ -1,5 +1,3 @@
-###DEC-071857-0-000-19-02-1973@@@
-
 DECRETO Nº 71.857, DE 19 DE FEVEREIRO DE 1973.
 
 Altera o Decreto 67.433-70, que dispôs sobre o "Projeto para implantação integrada de pesquisa e experimentação florestal".

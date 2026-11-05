@@ -1,5 +1,3 @@
-###DEC-047139-0-000-27-10-1959@@@
-
 decreto nº 47.139, de 27 de outubro de 1959.
 
 Renova o Decreto nº 38.149, de 10 de outubro de 1955.

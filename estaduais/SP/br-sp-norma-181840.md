@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=181840)
-
 # DECRETO Nº 62.596, DE 25 DE MAIO DE 2017
 
 ### _Transfere para a Polícia Civil do Estado de São Paulo, a Corregedoria Geral da Polícia Civil - CORREGEDORIA e dá providências correlatas_
@@ -138,14 +136,24 @@ Palácio dos Bandeirantes, 25 de maio de 2017
 
 GERALDO ALCKMIN
 
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 25 de maio de 2017.

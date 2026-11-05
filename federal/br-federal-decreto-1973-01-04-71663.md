@@ -1,5 +1,3 @@
-###DEC-071663-0-000-04-01-1973@@@
-
 DECRETO Nº 71.663, DE 4 DE JANEIRO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

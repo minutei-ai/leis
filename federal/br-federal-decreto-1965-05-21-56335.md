@@ -1,5 +1,3 @@
-###DEC-056335-0-000-21-05-1965@@@
-
 Decreto nº 56.335, de 21 de maio de 1965.
 
 Autoriza o cidadão brasileiro Antônio Raphael da Silva a lavrar minério de ferro, no município de Santa Bárbara, Estado de Minas Gerais.

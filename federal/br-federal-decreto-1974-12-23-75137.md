@@ -1,5 +1,3 @@
-###DEC-075137-0-000-23-12-1974@@@
-
 DECRETO Nº 75.137, DE 23 DE DEZEMBRO DE 1974.
 
 Aprova a alteração nos Estatutos Sociais da Companhia Auxiliar de Empresas Elétricas Brasileiras – CAEEB.

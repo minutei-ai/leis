@@ -1,5 +1,3 @@
-###DEC-061701-0-000-13-11-1967@@@
-
 DECRETO Nº 61.701, DE 13 DE NOVEMBRO DE 1967.
 
 Autoriza a Light - Serviços de Eletricidade S. A. a construir linha de transmissão, entre os municípios de Santana de Parnaíba e São Paulo, no Estado de São Paulo.

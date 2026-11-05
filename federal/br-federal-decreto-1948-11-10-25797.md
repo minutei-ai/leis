@@ -1,14 +1,12 @@
-###DEC-025797-0-000-10-11-1948@@@
+**DECRETO Nº 25.797, DE 10 DE NOVEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.797, DE 10 DE NOVEMBRO DE 1948.</strong>
+***Altera o Regimento do Museu Imperial.***
 
-<em><strong>Altera o Regimento do Museu Imperial.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regimento do Museu Imperial, do Ministério da Educação e Saúde, aprovado pelo Decreto número 21.008, de 23 de abril de 1946, passa a vigorar com as seguintes alterações:
+**Art**. 1º O Regimento do Museu Imperial, do Ministério da Educação e Saúde, aprovado pelo Decreto número 21.008, de 23 de abril de 1946, passa a vigorar com as seguintes alterações:
 
 I – O art. 3º ficará assim redigido:
 
@@ -36,12 +34,12 @@ VI – Acrescente-se o seguinte:
 
 “Art. 54. Terão residência obrigatória no Museu, nas áreas destinadas a êsse fim, o Chefe de Portaria e um jardineiro previamente designado pelo Diretor”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 10 de novembro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani

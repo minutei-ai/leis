@@ -1,20 +1,18 @@
-###DEC-023185-0-000-10-06-1947@@@
+**DECRETO N. 23.185 – DE 10 DE JUNHO DE 1947**
 
-<strong>DECRETO N. 23.185 – DE 10 DE JUNHO DE 1947</strong>
-
-<em><strong>Outorga concessão à Rádio Difusora do Amazonas, Limitada, para estabelecer, na cidade de Manaus, Estado do Amazonas, uma estação radiodifusora.</strong></em>
+***Outorga concessão à Rádio Difusora do Amazonas, Limitada, para estabelecer, na cidade de Manaus, Estado do Amazonas, uma estação radiodifusora.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e atendendo ao que requereu a Rádio Difusora do Amazonas, Limitada, tendo em vista o disposto no artigo 5º, número XII, da mesma Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Artigo único.</strong> Fica outorgada concessão à Rádio Difusora do Amazonas, Limitada, para estabelecer, na cidade de Manaus, Estado do Amazonas, sem direito de exclusividade uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
+**Artigo único.** Fica outorgada concessão à Rádio Difusora do Amazonas, Limitada, para estabelecer, na cidade de Manaus, Estado do Amazonas, sem direito de exclusividade uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
 Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 60 dias a contar da data da publicação dêste decreto no Diário Oficial, sob pena de ser logo considerada nula a concessão.
 
 Rio de Janeiro, 10 de junho de 1947, 126º da Independência e 59º  da República
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clovis Pestana.
 

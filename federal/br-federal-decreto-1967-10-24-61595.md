@@ -1,5 +1,3 @@
-###DEC-061595-0-000-24-10-1967@@@
-
 DECRETO Nº 61.595, DE 24 DE OUTUBRO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Lins-SP, destinado ao Ministério do Exército.

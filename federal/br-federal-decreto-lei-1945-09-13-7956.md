@@ -1,5 +1,3 @@
-###DEL-007956-0-000-13-09-1945@@@
-
 DECRETO-LEI N. 7.956 – DE 13 DE SETEMBRO DE 1945 
 
 Autoriza o Ministro de Estado da Justiça e Negócios Interiores a requisitar os pavimentos quinto, sexto, sétimo, oitavo e parte do décimo do Edifício Novo Mundo, à Avenida Presidente Wilson nº 164.

@@ -1,5 +1,3 @@
-###DEC-058006-0-000-15-03-1966@@@
-
 DECRETO Nº 58.006, DE 15 DE MARÇO DE 1966.
 
 Autoriza o Ministro da Fazenda a dar a garantia do Tesouro Nacional à operação de Crédito que específica.

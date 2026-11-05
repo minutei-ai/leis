@@ -1,7 +1,3 @@
-1
-
-###DEC-001000-0-000-02-12-1993@@@
-
 DECRETO Nº 1.000, DE 2 DE DEZEMBRO DE 1993
 
 Dispõe sobre o repasse, o pagamento de subvenções sociais e o recadastramento de entidades.

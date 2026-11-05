@@ -1,5 +1,3 @@
-###DEC-073742-0-000-06-03-1974@@@
-
 DECRETO Nº 73.742, DE 6 DE MARÇO DE 1974.
 
 Renova por 10 (dez) anos concessão outorgada à Rádio Sul Fluminense Ltda., para executar serviço de radiodifusão sonora em sonda média de âmbito regional, na cidade de Barra Mansa, Estado do Rio de Janeiro.

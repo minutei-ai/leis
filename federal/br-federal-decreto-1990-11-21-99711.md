@@ -1,7 +1,3 @@
-1
-
-###DEC-099711-0-000-21-11-1990@@@
-
 DECRETO Nº 99.711, DE 21 DE NOVEMBRO DE 1990
 
 Promulga o Acordo de Cooperação Cultural, Científica e Técnica, entre o Governo da República Federativa do Brasil e o Governo da República do Mali.
@@ -72,7 +68,8 @@ ARTIGO V
 
 Os programas e projetos de formação e de aperfeiçoamento profissional poderão ser implementados através do recebimento de bolsistas e do envio de professores ou pessoal técnico qualificado.
 
-Artigo VI<br>
+Artigo VI
+
 A Parte Contratante que receber os técnicos e professores mencionados no Artigo V tomara todas as medidas necessárias para facilitar.
 
 Artigo VII

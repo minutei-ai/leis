@@ -1,5 +1,3 @@
-###DEL-008133-0-000-25-10-1945@@@
-
 (\*) DECRETO-LEI N. 8.133 – DE 25 DE OUTUBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a conceder à Sociedade Educadora da Infância e Juventude, isenção do impôsto que menciona.

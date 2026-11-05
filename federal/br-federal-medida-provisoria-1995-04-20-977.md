@@ -1,7 +1,3 @@
-1
-
-###MPV-000977-0-000-20-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 977, DE 20 DE ABRIL DE 1995
 
 Dá nova redação a dispositivos das Leis nºs 8.849, de 28 de janeiro de 1994, e 8.541, de 23 de dezembro de 1992, que alteram a legislação do Imposto sobre a Renda e proventos de qualquer natureza, e dá outras providências.

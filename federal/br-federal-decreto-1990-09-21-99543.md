@@ -1,5 +1,3 @@
-###DEC-099543-0-000-21-09-1990@@@
-
 DECRETO N° 99.543, DE 21 DE SETEMBRO DE 1990
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo Comercial n° 26, no Setor da Indústria de Artigos e Aparelhos para Usos Hospitalares, Médicos, Odontológicos, Veterinários e Afins, entre o Brasil, a Argentina e o México.

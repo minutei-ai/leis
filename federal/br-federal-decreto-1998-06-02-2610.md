@@ -1,5 +1,3 @@
-###DEC-002610-0-000-02-06-1998@@@
-
 DECRETO Nº 2.610, DE 2 DE JUNHO DE 1998
 
 Dispõe sobre o adiantamento de remuneração aos militares e aos servidores públicos civis.

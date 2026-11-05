@@ -1,5 +1,3 @@
-###DEC-060007-0-000-10-01-1967@@@
-
 Decreto nº 60.007, de 10 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro Antônio Motta Netto a lavrar areia quartzosa, no município de Mongaguá, no Estado de São Paulo.

@@ -143,7 +143,3 @@ I.1. – Cargos de Provimento em Comissão com denominação específica:
 Cargo Código Quantitativo Vencimento (em R$) Procurador-Geral PGTC 1 23.256,82 Subprocurador-Geral SPTC 2 21.142,56 (...)
 
 ”.
-
-\================================
-
-Data da última atualização: 28/10/2025.

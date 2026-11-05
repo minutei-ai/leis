@@ -1,5 +1,3 @@
-###DEC-076069-0-000-31-07-1975@@@
-
 DECRETO Nº 76.069, DE 31 DE JULHO DE 1975
 
 Concede à Mineração Aripuanã S.A. o direito de levar cassiterita no Município de Aripuanã, Estado de Mato Grosso.

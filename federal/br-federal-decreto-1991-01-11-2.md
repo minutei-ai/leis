@@ -1,5 +1,3 @@
-###DEC-000002-0-000-11-01-1991@@@
-
 DECRETO Nº 2, DE 11 DE JANEIRO DE 1991.
 
 Institui Grupo de Trabalho incumbido de elaborar projeto piloto para recepção de imagem via satélite, a ser utilizado no processo educacional brasileiro.

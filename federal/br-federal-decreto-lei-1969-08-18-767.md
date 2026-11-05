@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7150a5cf-f21d-4812-818c-e44192727e87/texto#nowhere)
 
-###DEL-000767-0-000-18-08-1969@@@
-
 dECRETO-LEI Nº 767, DE 18 DE AGÔSTO DE 1969
 
 Institui incentivos fiscais e creditícios para o desenvolvimento industrial e dá outras previdências.

@@ -1,5 +1,3 @@
-###DEC-074734-0-000-21-10-1974@@@
-
 DECRETO Nº 74.734, DE 21 DE OUTUBRO DE 1974.
 
 Dispõe sobre a Embaixada do Brasil na República do Daomé.

@@ -1,5 +1,3 @@
-###DEC-073938-0-000-16-04-1974@@@
-
 DECRETO Nº 73.938, DE 16 DE ABRIL DE 1974.
 
 Declara sem efeito o Decreto número 29.103, de 8 de janeiro de 1951.

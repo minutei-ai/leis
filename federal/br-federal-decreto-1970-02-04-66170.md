@@ -1,5 +1,3 @@
-###DEC-066170-0-000-04-02-1970@@@
-
 DECRETO Nº 66.170 - DE 4 DE FEVEREIRO DE 1970
 
 Dispõe sôbre a composição da Comissão de Promoção, do Ministério da Aeronáutica, prevista nos artigos 52 e 53 do Regulamento de Promoção dos Funcionários Públicos Civis da União.

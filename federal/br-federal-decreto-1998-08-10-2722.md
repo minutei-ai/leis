@@ -1,5 +1,3 @@
-###DEC-002722-0-000-10-08-1998@@@
-
 DECRETO Nº 2.722, DE 10 DE AGOSTO DE 1998
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo Comercial nº 13, Setor da Indústria Fonográfica, entre Brasil, Argentina, Uruguai e Venezuela, de 23 de dezembro de 1996.

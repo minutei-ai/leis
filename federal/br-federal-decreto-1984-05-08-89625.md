@@ -1,5 +1,3 @@
-###DEC-089625-0-000-08-05-1984@@@
-
 decreto nº 89.625, de 08 de maio de 1984
 
 Outorga concessão à RÁDIO DIFUSORA DOS INHAMUNS LIMITADA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Tauá, Estado do Ceará.

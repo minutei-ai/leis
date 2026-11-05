@@ -1,5 +1,3 @@
-###DEC-000172-0-000-08-07-1991@@@
-
 DECRETO Nº 172, DE 8 DE JULHO DE 1991
 
 Altera a redação do art. 14 do Decreto nº 99.266, de 28 de maio de 1990, modificado pelo Decreto nº 99.664, de 1º de novembro de 1990, e dá outras providências.

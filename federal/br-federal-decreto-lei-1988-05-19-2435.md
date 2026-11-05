@@ -1,7 +1,3 @@
-1
-
-###DEL-002435-0-000-19-05-1988@@@
-
 # DECRETO‑LEI N° 2.435, DE 19 DE MAIO DE 1988
 
 Dispõe sobre a dispensa de controles prévios na exportação.

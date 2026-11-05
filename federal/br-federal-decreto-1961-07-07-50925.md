@@ -1,5 +1,3 @@
-###DEC-050925-0-000-07-07-1961@@@
-
 DECRETO Nº 50.925, DE 7 DE JULHO DE 1961.
 
 Altera o Decreto nº 43.174, de 4 de fevereiro de 1958, que institui o Grupo de Trabalho do Departamento Nacional de Endemias Rurais, do Ministério da Saúde, para erradicação da malária no país.

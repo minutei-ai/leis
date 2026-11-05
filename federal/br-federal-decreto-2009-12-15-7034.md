@@ -1,5 +1,3 @@
-###DEC-007034-0-000-15-12-2009@@@
-
 DECRETO Nº 7.034, DE 15 DE DEZEMBRO DE 2009.
 
 Dispõe sobre a divulgação, por meio do Portal da Transparência do Poder Executivo Federal, de dados e informações relativos à Copa do Mundo de Futebol de 2014.

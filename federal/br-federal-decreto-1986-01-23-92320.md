@@ -1,5 +1,3 @@
-###DEC-092320-0-000-23-01-1986@@@
-
 DECRETO Nº 92.320, DE 23 DE JANEIRO DE 1986
 
 Dispõe sobre a criação do Programa de Apoio a Organizações de Pequenos Produtores Rurais do Nordeste e dá outras providências.

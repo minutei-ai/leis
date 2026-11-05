@@ -1,5 +1,3 @@
-###DEL-007376-0-000-13-03-1945@@@
-
 DECRETO-LEI N. 7.376 – DE 13 DE MARÇO DE 1945
 
 Transfere a data de vigência do Decreto-lei nº 7.105, de 30-11-44, abre crédito especial e dá outras providências.

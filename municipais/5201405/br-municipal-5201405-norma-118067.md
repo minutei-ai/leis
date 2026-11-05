@@ -10,11 +10,31 @@ Art. 1º Ficam remembrados os Lotes 04A, 04B e 04C da Quadra 14 do Loteamento PO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEIS</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 04A</td><td style="text-align:center">2.669,69</td></tr><tr><td style="text-align:center">LOTE 04B</td><td style="text-align:center">3.400,08</td></tr><tr><td style="text-align:center">LOTE 04C</td><td style="text-align:center">4.250,07</td></tr></tbody></table>
+**IMÓVEIS**
+
+(m²)
+
+LOTE 04A
+
+2.669,69
+
+LOTE 04B
+
+3.400,08
+
+LOTE 04C
+
+4.250,07
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEL</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 04A-04C</td><td style="text-align:center">10.319,84</td></tr></tbody></table>
+**IMÓVEL**
+
+(m²)
+
+LOTE 04A-04C
+
+10.319,84
 
 Parágrafo único. O remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.074.253, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -22,8 +42,10 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 16 de maio de 2023.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

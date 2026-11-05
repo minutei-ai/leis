@@ -1,5 +1,3 @@
-###DEC-051733-0-000-21-02-1963@@@
-
 DECRETO Nº 51.733, DE 21 DE FEVEREIRO DE 1963.
 
 Aprova a reclassificação dos servidores da Administração do Pôrto do Rio de Janeiro (APRJ) e dá outras providências.

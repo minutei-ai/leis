@@ -1,5 +1,3 @@
-###DEC-054209-0-000-26-08-1964@@@
-
 decreto nº 54.209, de 26 de agôsto de 1964.
 
 Retifica o art. 1º do decreto nº 53.386, de 31 de dezembro de 1963.

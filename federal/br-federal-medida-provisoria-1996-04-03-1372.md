@@ -1,7 +1,3 @@
-1
-
-###MPV-001372-0-000-03-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.372, DE 3 DE ABRIL DE 1996.
 
 Acrescenta parágrafo ao art. 75 da Lei nº 4.728, de 14 de julho de 1965.

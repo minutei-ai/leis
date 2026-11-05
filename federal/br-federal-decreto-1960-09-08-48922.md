@@ -1,5 +1,3 @@
-###DEC-048922-0-000-08-09-1960@@@
-
 Decreto nº 48.922, de 8 de setembro de 1960.
 
 Cria um Setor de Classificação de Cargos no Conselho Nacional de Economia, e dá outras providências.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=26427)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1987/compilacao-lei-5519-09.01.1987.html)
 
 # LEI Nº 5.519, DE 09 DE JANEIRO DE 1987
@@ -7,19 +6,27 @@
 
 ### _Transforma o Município de Bananal em Estância Turística_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** É transformado em estância turística o Município de Bananal.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 9 de janeiro de 1987.<br>
-FRANCO MONTORO<br>
-Sérgio Barbour<br>
-Secretário de Esportes e Turismo<br>
-Luiz Carlos Bresser Pereira<br>
-Secretário do Governo<br>
-Publicada na Assessoria Técnico-Legislativa, aos 9 de dezembro 1987.~~
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** É transformado em estância turística o Município de Bananal.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 9 de janeiro de 1987.
+
+FRANCO MONTORO
+
+Sérgio Barbour
+
+Secretário de Esportes e Turismo
+
+Luiz Carlos Bresser Pereira
+
+Secretário do Governo
+
+Publicada na Assessoria Técnico-Legislativa, aos 9 de dezembro 1987.~~
 
 Revogada.
 

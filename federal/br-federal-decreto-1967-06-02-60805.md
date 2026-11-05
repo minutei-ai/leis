@@ -1,5 +1,3 @@
-###DEC-060805-0-000-02-06-1967@@@
-
 DECRETO Nº 60.805, DE 2 DE JUNHO DE 1967.
 
 Revoga o Decreto nº 52.108, de 11 de junho de 1963.

@@ -1,5 +1,3 @@
-###DEC-088947-0-000-07-11-1983@@@
-
 Decreto nº 88.947, de 07 de novembro de 1983.
 
 Promulga o Acordo sobre Transporte Marítimo entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha.
@@ -152,4 +150,20 @@ ARTIGO XVI
 
 Feito em Brasília, aos 4 dias do mês de abril de 1979, em dois exemplares, cada um nos idiomas português e alemão, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Pela República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Pela República Federal da Alemanha:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Peter Hermes)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pela República Federativa do Brasil:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pela República Federal da Alemanha:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Ramiro Saraiva Guerreiro)
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Peter Hermes)
+
+</td></tr></tbody></table>

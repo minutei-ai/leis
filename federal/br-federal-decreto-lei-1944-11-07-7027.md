@@ -1,5 +1,3 @@
-###DEL-007027-0-000-07-11-1944@@@
-
 DECRETO-LEI N. 7.027 – DE 7 DE NOVEMBRO DE 1944
 
 Estabelece que sòmente brasileiros natos podem ser agentes ou representantes das emprêsas de navegação do Patrimônio Nacional e dá outras providências

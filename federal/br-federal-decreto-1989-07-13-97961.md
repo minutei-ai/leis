@@ -1,7 +1,3 @@
-1
-
-###DEC-097961-0-000-13-07-1989@@@
-
 DECRETO N° 97.961, DE 13 DE JULHO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade Tapajós, em São Bernardo do Campo, Estado de São Paulo.

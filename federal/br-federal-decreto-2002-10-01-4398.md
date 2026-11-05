@@ -1,5 +1,3 @@
-###DEC-004398-0-000-01-10-2002@@@
-
 DECRETO Nº 4.398, DE 1º DE OUTUBRO DE 2002
 
 Dispõe sobre a desvinculação de ações do Banco do Brasil S.A. depositadas no Fundo de Amortização da Dívida Pública Mobiliária Federal.

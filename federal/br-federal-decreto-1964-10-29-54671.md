@@ -1,5 +1,3 @@
-###DEC-054671-0-000-29-10-1964@@@
-
 DECRETO Nº 54.671, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a cessão gratuita do terreno que menciona, situado no Estado da Guanabara.

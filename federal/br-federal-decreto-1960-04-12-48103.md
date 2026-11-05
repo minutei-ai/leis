@@ -1,5 +1,3 @@
-###DEC-048103-0-000-12-04-1960@@@
-
 DECRETO Nº 48.103, DE 12 DE ABRIL DE 1960.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério de Agricultura.

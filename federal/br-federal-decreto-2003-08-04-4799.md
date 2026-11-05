@@ -1,5 +1,3 @@
-###DEC-004799-0-000-04-08-2003@@@
-
 DECRETO Nº 4.799, DE 4 DE AGOSTO DE 2003.
 
        Dispõe sobre a comunicação de governo do Poder Executivo Federal e dá outras providências.
@@ -136,5 +134,6 @@ DECRETO Nº 4.799, DE 4 DE AGOSTO DE 2003.
 
         Brasília, 4 de agosto de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Luiz Gushiken

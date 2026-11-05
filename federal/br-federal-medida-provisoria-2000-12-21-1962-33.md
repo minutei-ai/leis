@@ -1,5 +1,3 @@
-###MPV-001962-0-033-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.962-33, DE 21 de dezembro DE 2000.
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

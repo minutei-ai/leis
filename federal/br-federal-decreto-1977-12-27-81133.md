@@ -1,5 +1,3 @@
-###DEC-081133-0-000-27-12-1977@@@
-
 Decreto nº 81.133, de 27 de dezembro de 1977.
 
 Altera os limites de Reserva Irantxe, criada pelo Decreto nº 63.368, de 08 de outubro de 1968.

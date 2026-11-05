@@ -1,5 +1,3 @@
-###DEC-068891-0-000-08-07-1971@@@
-
 decreto nº 68.891, de 8 de julho de 1971.
 
 Autoriza o funcionamento do Curso de Estudos Sociais-Licenciatura do 1º Ciclo, da Faculdade "Auxilium" de Filosofia, Ciências e Letras de Lins, SP.

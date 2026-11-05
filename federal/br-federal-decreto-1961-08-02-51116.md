@@ -1,5 +1,3 @@
-###DEC-051116-0-000-02-08-1961@@@
-
 DECRETO Nº 51.116, DE 2 DE AGÔSTO DE 1961.
 
 Altera o art. 103 do Regulamento de Defesa Sanitária Vegetal, do Departamento Nacional da Produção Vegetal.

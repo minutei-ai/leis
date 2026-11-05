@@ -1,5 +1,3 @@
-###DEL-003849-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.849 – DE 20 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 1:800$0, à verba que especifica

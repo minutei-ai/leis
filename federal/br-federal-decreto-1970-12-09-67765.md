@@ -1,5 +1,3 @@
-###DEC-067765-0-000-09-12-1970@@@
-
 DECRETO Nº 67.765, DE 9 DE DEZEMBRO DE 1970.
 
 Concede à ICOMINAS S.A. - Emprêsa de Mineração o direito de lavrar calcário, no município de Pedro Leopoldo, Estado de Minas Gerais.

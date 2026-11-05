@@ -1,5 +1,3 @@
-###MPV-000466-0-000-29-07-2009@@@
-
 MEDIDA PROVISÓRIA Nº 466, DE 29 DE JULHO DE 2009.
 
 Dispõe sobre os serviços de energia elétrica nos Sistemas Isolados e dá outras providências.

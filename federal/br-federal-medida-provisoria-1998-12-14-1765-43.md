@@ -1,5 +1,3 @@
-###MPV-001765-0-043-14-12-1998@@@
-
 medida provisória nº 1.765-43, de 14 de dezembro de 1998.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

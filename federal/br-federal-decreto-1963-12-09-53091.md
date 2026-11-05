@@ -1,5 +1,3 @@
-###DEC-053091-0-000-09-12-1963@@@
-
 DECRETO Nº 53.091, DE 9 DE DEZEMBRO DE 1963.
 
 Outorga concessão à Cia. de Serviços Elétricos do Rio Grande do Norte para distribui energia elétrica.

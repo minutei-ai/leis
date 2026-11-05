@@ -1,5 +1,3 @@
-###DEC-067597-0-000-18-11-1970@@@
-
 DECRETO Nº 67.597, DE 18 DE NOVEMBRO DE 1970.
 
 Concede reconhecimento a Cursos da Faculdade Federal de Engenharia de Uberlândia - Minas Gerais.

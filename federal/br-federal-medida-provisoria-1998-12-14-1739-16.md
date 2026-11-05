@@ -1,5 +1,3 @@
-###MPV-001739-0-016-14-12-1998@@@
-
 medida provisória nº 1.739-16, de 14 de dezembro de 1998.
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

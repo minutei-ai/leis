@@ -1,5 +1,3 @@
-###DEC-060755-0-000-29-05-1967@@@
-
 Decreto nº 60.755, de 29 de maio de 1967.
 
 Torna sem efeito a inclusão de ex-servidores do extinto Conselho de Desenvolvimento no Quadro de Pessoal do Ministério da Industria e do Comércio.

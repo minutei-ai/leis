@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:45:14.000Z"
 sha256_fonte: "ebcc183eee1adb6467771040b70cead205186d845e8578c0ce020ae8f118a867"
 sha256_markdown: "bce3090c7b77e7f545f4bdd74773609fe254563fbf48147a3ade6cf4c898079e"
 ---
-
 # LEI Nº 63, DE 7 DE MAIO DE 1980.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,65 +20,76 @@ Da nova redação aos anexos I e II da Lei nº 16, de 13 de novembro de 1979, al
 
 Publicada no Diário Oficial nº 334, de 8 de maio de 1980, página 5.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembléia Legislativa do Estado decreta e eu<br>
-sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - Os anexos I e II da Lei nº 16, de 13 de novembro de<br>
-1979, alterada pela Lei nº 52, de 19 de dezembro de 1979,<br>
-reajustados pelo item VII, do art. 2º da Lei nº 56, de 28 de março<br>
-de 1980, passam a vigorar com a redação dada nos anexos I e II<br>
-desta Lei.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação,<br>
-retroagindo seus efeitos a 1º de março de 1980, revogadas as<br>
-disposições em contrário.<br>
-<br>
-Campo Grande, 07 de maio de 1980.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
-Governador<br>
-<br>
-JOÃO LEITE SCHIMIDT<br>
-Secretário de Estado para<br>
-Assuntos da Casa Civil<br>
-<br>
-WALDIR DOS SANTOS PEREIRA<br>
-Secretário de Estado de Administração<br>
-<br>
-FLÁVIO BENJAMIN CORREA DE ANDRADE<br>
-Secretário de Estado de Justiça<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembléia Legislativa do Estado decreta e eu
+
+sanciono a seguinte Lei:
+
+Art. 1º - Os anexos I e II da Lei nº 16, de 13 de novembro de
+
+1979, alterada pela Lei nº 52, de 19 de dezembro de 1979,
+
+reajustados pelo item VII, do art. 2º da Lei nº 56, de 28 de março
+
+de 1980, passam a vigorar com a redação dada nos anexos I e II
+
+desta Lei.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação,
+
+retroagindo seus efeitos a 1º de março de 1980, revogadas as
+
+disposições em contrário.
+
+Campo Grande, 07 de maio de 1980.
+
+MARCELO MIRANDA SOARES
+
+Governador
+
+JOÃO LEITE SCHIMIDT
+
+Secretário de Estado para
+
+Assuntos da Casa Civil
+
+WALDIR DOS SANTOS PEREIRA
+
+Secretário de Estado de Administração
+
+FLÁVIO BENJAMIN CORREA DE ANDRADE
+
+Secretário de Estado de Justiça
 
 ```
-                            A N E X O  I                                                                                                                          
-                QUADRO DO PESSOAL DO MINISTÉRIO PÚBLICO                              -------------------------------------------------------------------- 
-                                VENCIMENTO VENCIMENTO                
-SÍMBOLOS   DENOMINAÇÃO DO CARGO  1º/03/80  1º/05/80   REPRESENTAÇÃO  
--------------------------------------------------------------------- 
-MP-25    Procurador da Justiça   84.000    105.000            60%    
-                                                                     
-MP-24    Promotor de Entrância                                       
-         Especial                74.214     92.767            50%    
-                                                                     
-MP-23   Promotor de 2ª Entrância 65.483     81.853            40%    
-                                                                     
-MP-22   Promotor de 1ª Entrância 56.752     70.940            35%    
--------------------------------------------------------------------- 
-                                                                     
-                                                                     
+                            A N E X O  I
+                QUADRO DO PESSOAL DO MINISTÉRIO PÚBLICO                              --------------------------------------------------------------------
+                                VENCIMENTO VENCIMENTO
+SÍMBOLOS   DENOMINAÇÃO DO CARGO  1º/03/80  1º/05/80   REPRESENTAÇÃO
+--------------------------------------------------------------------
+MP-25    Procurador da Justiça   84.000    105.000            60%
+
+MP-24    Promotor de Entrância
+         Especial                74.214     92.767            50%
+
+MP-23   Promotor de 2ª Entrância 65.483     81.853            40%
+
+MP-22   Promotor de 1ª Entrância 56.752     70.940            35%
+--------------------------------------------------------------------
+
 ```
 
 ```
-                            A N E X O  II                                                                                                                       
-               QUADRO DO PESSOAL DA ASSISTÊNCIA JUDICIÁRIA                          -------------------------------------------------------------------- 
-                                VENCIMENTO VENCIMENTO                
-SÍMBOLOS   DENOMINAÇÃO DO CARGO  1º/03/80  1º/05/80   REPRESENTAÇÃO  
--------------------------------------------------------------------- 
-DP-14    Defensor Público de                                         
-         Entrância Especial       7.214     92.767          50%    
-                                                                     
-DP-13    Defensor Público de      65.483     81.853         40%   
-         2ª Entrância                                                
--------------------------------------------------------------------- 
+                            A N E X O  II
+               QUADRO DO PESSOAL DA ASSISTÊNCIA JUDICIÁRIA                          --------------------------------------------------------------------
+                                VENCIMENTO VENCIMENTO
+SÍMBOLOS   DENOMINAÇÃO DO CARGO  1º/03/80  1º/05/80   REPRESENTAÇÃO
+--------------------------------------------------------------------
+DP-14    Defensor Público de
+         Entrância Especial       7.214     92.767          50%
+
+DP-13    Defensor Público de      65.483     81.853         40%
+         2ª Entrância
+--------------------------------------------------------------------
 ```

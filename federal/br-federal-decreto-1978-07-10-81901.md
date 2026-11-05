@@ -1,5 +1,3 @@
-###DEC-081901-0-000-10-07-1978@@@
-
 Decreto nº 81.901, de 10 de julho de 1978.
 
 Concede reconhecimento ao curso de Ciências, ministrado pela Faculdade de Filosofia, Ciências e Letras do Alegrete, com sede na cidade de Alegrete, Estado do Rio Grande do Sul.

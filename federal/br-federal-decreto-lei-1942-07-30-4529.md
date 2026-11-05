@@ -1,5 +1,3 @@
-###DEL-004529-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.529 – DE 30 DE JULHO DE 1942
 
 Estabelece prazo de prescrição para a ação de anulação de casamento

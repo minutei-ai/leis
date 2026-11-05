@@ -1,5 +1,3 @@
-###DEC-092854-0-000-27-06-1986@@@
-
 DECRETO Nº 92.854, DE 27 DE JUNHO DE 1986
 
 Retifica o Decreto nº 89.487, de 28 de março de 1984.

@@ -1,5 +1,3 @@
-###DEC-049233-0-000-16-11-1960@@@
-
 DECRETO Nº 49.233, DE 16 DE Novembro DE 1960.
 
 Autoriza o cidadão brasileiro Labieno da Costa Machado a pesquisar quartzito e leucofilito no município de Santana do Parnaíba, Estado de São Paulo.

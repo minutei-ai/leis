@@ -1,5 +1,3 @@
-###DEC-046311-0-000-30-06-1959@@@
-
 decreto nº 46.311, de 30 de junho de 1959.
 
 Autoriza o cidadão brasileiro Lourenço Miguel Amorim a pesquisar calcário no município de Jacuí, Estado de Minas Gerais.

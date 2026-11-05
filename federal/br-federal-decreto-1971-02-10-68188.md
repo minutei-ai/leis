@@ -1,5 +1,3 @@
-###DEC-068188-0-000-10-02-1971@@@
-
 decreto nº 68.188, de 10 de Fevereiro de 1971.
 
 Autorização para o funcionamento dos Cursos de Pedagogia, Psicologia, Ciências Sociais, Letras, Ciências e Estudos Sociais da Faculdade de Filosofia, Ciências e Letras da Sociedade Civil de Educação "São Marcos".

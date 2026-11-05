@@ -1,5 +1,3 @@
-###DEC-083420-0-000-04-05-1979@@@
-
 DECRETO Nº 83.420, DE 04 DE MAIO DE 1979.
 
 Concede à Ceriumbrás S.A. - Minérios e Metais o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

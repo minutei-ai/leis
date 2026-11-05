@@ -1,5 +1,3 @@
-###DEC-074326-0-000-26-07-1974@@@
-
 DECRETO Nº 74.326 - DE 26 DE JULHO DE 1974.
 
 Torna sem efeito redistribuição de cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério da Agricultura.

@@ -32,12 +32,10 @@ ANTERIORES
 | Código Orçamentário | 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS |
 | Valor | 45.000.000,00 |
 
-<br>
-SELENE PERES PERES NUNES<br>
+SELENE PERES PERES NUNES
+
 Secretária de Estado da Economia
 
 CUMPRA-SE e PUBLIQUE-SE.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em GOIÂNIA, aos 18 dias do mês de agosto de 2023.
-
-<br>

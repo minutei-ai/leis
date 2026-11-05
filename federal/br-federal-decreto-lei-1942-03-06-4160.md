@@ -1,5 +1,3 @@
-###DEL-004160-0-000-06-03-1942@@@
-
 DECRETO-LEI N. 4.160 – DE 6 DE MARÇO DE 1941
 
 Dispõe sobre a exportação de arroz

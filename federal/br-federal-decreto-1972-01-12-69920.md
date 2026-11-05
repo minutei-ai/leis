@@ -1,5 +1,3 @@
-###DEC-069920-0-000-12-01-1972@@@
-
 DECRETO Nº 69.920, DE 12 DE JANEIRO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargo originário do extinto Serviço de Navegação da Bacia do Prata, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099404-0-000-19-07-1990@@@
-
 DECRETO Nº 99.404, DE 19 DE JULHO DE 1990
 
 Cria a Embaixada do Brasil na República da Namíbia.

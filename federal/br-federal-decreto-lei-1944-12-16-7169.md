@@ -1,5 +1,3 @@
-###DEL-007169-0-000-16-12-1944@@@
-
 DECRETO-LEI N. 7.169 – DE 16 DEZEMBRO DE 1944
 
 Cria e suprime função gratificada no Quadro Único do Ministério do Trabalho, Indústria e Comércio e dá outras providências

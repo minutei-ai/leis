@@ -1,5 +1,3 @@
-###DEC-055502-0-000-11-01-1965@@@
-
 DECRETO Nº 55.502, de 11 de janeiro de 1965.
 
 Autoriza Cal - Química Mineração Indústria e Comércio Ltda. a pesquisar calcário, no município de Formiga, Estado de Minas Gerais.

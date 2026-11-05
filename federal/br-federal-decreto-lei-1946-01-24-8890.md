@@ -1,5 +1,3 @@
-###DEL-008890-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.890 – DE 24 DE JANEIRO DE 1946
 
 Transfere para o Ministério do Trabalho, Indústria e Comércio e para o Conselho Federal de Comércio Exterior dotações do Orçamento da Coordenação da Mobilização Econômica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055719-0-000-02-02-1965@@@
-
 DECRETO Nº 55.719, DE 2 DE FEVEREIRO DE 1965.
 
 Declara caduco o Decreto nº 36.617, de 16 de dezembro de 1954.

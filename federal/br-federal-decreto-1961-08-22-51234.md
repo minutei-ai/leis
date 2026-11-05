@@ -1,5 +1,3 @@
-###DEC-051234-0-000-22-08-1961@@@
-
 DECRETO Nº 51.234, DE 22 DE AGÔSTO DE 1961.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$3.000.000,00, para atender às despesas do Colégio Municipal Pelotense, de Pelotas, no Estado do Rio Grande do Sul.

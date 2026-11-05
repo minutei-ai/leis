@@ -1,5 +1,3 @@
-###DEL-003790-0-000-03-11-1941@@@
-
 DECRETO-LEI N. 3.790 – DE 3 DE NOVEMBRO DE 1941
 
 Veda à imprensa a distribuição de prêmios por meio de sorteios

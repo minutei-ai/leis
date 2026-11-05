@@ -1,5 +1,3 @@
-###DEC-044903-0-000-27-11-1958@@@
-
 DECRETO Nº 44.903, DE 27 DE NOVEMBRO DE 1958.
 
 Altera os Decretos nº 41.246, de 4 de abril de 1957, e 43.635 de 2 de maio de 1958, que dispõem sôbre os Quadros de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas.

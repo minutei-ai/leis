@@ -1,5 +1,3 @@
-###DEC-048080-0-000-07-04-1960@@@
-
 DECRETO Nº 48.080, DE 7 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro João Tozatto Filho a pesquisar argila no município de Araucária, Estado do Paraná.

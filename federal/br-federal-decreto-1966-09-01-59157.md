@@ -1,5 +1,3 @@
-###DEC-059157-0-000-01-09-1966@@@
-
 Decreto Nº 59.157, DE 1º DE SETEMBRO DE 1966.
 
 Transfere para o Govêrno do Estado de Pernambuco os encargos e responsabilidades relacionados com o reconhecimento de ensino médio localizados no seu território.

@@ -1,5 +1,3 @@
-###DEC-058999-0-000-04-08-1966@@@
-
 DECRETO Nº 58.999, DE 4 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Antônio Aparecido de Toledo a pesquisar feldspato, quartzo e caulim no Município de Socorro, Estado de São Paulo.

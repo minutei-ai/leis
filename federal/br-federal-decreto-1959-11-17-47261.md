@@ -1,5 +1,3 @@
-###DEC-047261-0-000-17-11-1959@@@
-
 DECRETO Nº 47.261 DE 17 DE NOVEMBRO DE 1959.
 
 Altera o artigo 1.3.2 do Regulamento de Uniformes para a Marinha do Brasil.

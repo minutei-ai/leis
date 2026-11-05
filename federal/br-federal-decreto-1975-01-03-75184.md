@@ -1,5 +1,3 @@
-###DEC-075184-0-000-03-01-1975@@@
-
 decreto nº 75.184, DE 3 DE JANEIRO DE 1975.
 
 Dispõe sobre enquadramento de servidores do Ministério do Trabalho, e dá outras providências.

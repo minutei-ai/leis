@@ -1,5 +1,3 @@
-###DEC-048969-0-000-26-09-1960@@@
-
 DECRETO Nº 48.969, DE 26 DE SETEMBRO DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, casas e benfeitorias, necessárias ao plano de construção do Centro Universitário da Universidade da Bahia.

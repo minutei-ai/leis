@@ -1,5 +1,3 @@
-###DEC-093968-0-000-23-01-1987@@@
-
 DECRETO Nº 93.968, DE 23 DE JANEIRO DE 1987
 
 Restabelece o Conselho Nacional de Serviço Social e dá outras providências.

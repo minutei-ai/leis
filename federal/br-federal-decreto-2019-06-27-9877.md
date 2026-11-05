@@ -62,7 +62,8 @@ c) Polícia Federal;
 
 d) Polícia Rodoviária Federal;
 
-II - do Ministério da Infraestrutura:<br>
+II - do Ministério da Infraestrutura:
+
      a) Departamento Nacional de Infraestrutura de Transportes;
 
 b) Agência Nacional de Transportes Terrestres; e

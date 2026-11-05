@@ -1,5 +1,3 @@
-###DEC-070004-0-000-20-01-1972@@@
-
 DECRETO Nº 70.004, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Associação de Proteção e Assistência a Infância de Pires do Rio, com sede em Pires do Rio Estado de Goiás.

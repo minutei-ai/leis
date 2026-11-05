@@ -1,5 +1,3 @@
-###DEC-091249-0-000-16-05-1985@@@
-
 Decreto nº 91.249, de 16 de maio de 1985.
 
 Inclui o Secretário Executivo do Programa Nacional de Desburocratização na Comissão de Avaliação de Incentivos Fiscais.

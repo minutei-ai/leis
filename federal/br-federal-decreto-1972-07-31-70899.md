@@ -1,5 +1,3 @@
-###DEC-070899-0-000-31-07-1972@@@
-
 DECRETO Nº 70.899, DE 31 DE JULHO DE 1972.
 
 Concede à Plumbum S.A. Indústria Brasileira de Mineração o direito de lavrar minério de chumbo no município de Adrianópolis, Estado do Paraná.

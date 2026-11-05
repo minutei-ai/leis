@@ -1,5 +1,3 @@
-###DEC-005290-0-000-29-11-2004@@@
-
 DECRETO Nº 5.290 DE 29 DE NOVEMBRO DE 2004
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional, determina à Agência Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação dessas concessões.

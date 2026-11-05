@@ -1,5 +1,3 @@
-###DEC-056273-0-000-10-05-1965@@@
-
 DECRETO Nº 56.273, DE 10 DE MAIO DE 1965.
 
 Outorga a Companhia Paranaense de Energia Elétrica autorização de estudos das fontes de energia hidráulica existentes no alto rio Iguaçu e seus afluentes, no Estado do Paraná

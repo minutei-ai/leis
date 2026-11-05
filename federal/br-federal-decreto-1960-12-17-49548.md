@@ -1,5 +1,3 @@
-###DEC-049548-0-000-17-12-1960@@@
-
 DECRETO Nº 49.548, DE 17 DE DEZEMBRO DE 1960.
 
 Cria Inspetorias Florestais.

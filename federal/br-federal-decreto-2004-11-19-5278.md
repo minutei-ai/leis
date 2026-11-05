@@ -1,5 +1,3 @@
-###DEC-005278-0-000-19-11-2004@@@
-
 DECRETO Nº 5.278 DE 19 DE NOVEMBRO DE 2004
 
 Revoga o § 2º do art. 17 do Decreto nº 4.992, de 18 de fevereiro de 2004, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2004.

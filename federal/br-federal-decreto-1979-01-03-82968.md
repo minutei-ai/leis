@@ -1,5 +1,3 @@
-###DEC-082968-0-000-03-01-1979@@@
-
 Decreto nº 82.968, de 03 de janeiro de 1979
 
 Concede à Companhia de Mineração Santarém - COMISA o direito de lavrar bauxita nos Municípios de Oriximiná e Faro, Estado do Pará.

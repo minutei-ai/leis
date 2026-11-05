@@ -1,7 +1,3 @@
-1
-
-###DEC-098230-0-000-02-10-1989@@@
-
 DECRETO Nº 98.230, DE 2 DE OUTUBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “GLEBA BORECAIA” - LOTE PONTAL”, situado no Município de Água Boa, Estado de Mato Grosso, e dá outras providências.

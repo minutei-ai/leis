@@ -1,5 +1,3 @@
-###DEC-052456-0-000-10-09-1963@@@
-
 DECRETO Nº 52.456, DE 10 DE SETEMBRO DE 1963.
 
 Altera dispositivos do Decreto número 49.355, de 28 de novembro de 1960, e do Decreto nº 51.406, de 6 de fevereiro de 1962.

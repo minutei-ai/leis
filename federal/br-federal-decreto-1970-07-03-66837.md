@@ -1,5 +1,3 @@
-###DEC-066837-0-000-03-07-1970@@@
-
 DECRETO Nº 66.837, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Casa do Filho do Seringueiro, com sede em Ananindeua, Estado do Pará.

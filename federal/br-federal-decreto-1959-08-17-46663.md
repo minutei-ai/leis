@@ -1,5 +1,3 @@
-###DEC-046663-0-000-17-08-1959@@@
-
 DECRETO Nº 46.663, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Tasso Pinheiro a lavrar mármore no município de Eldorado, estado de São Paulo.

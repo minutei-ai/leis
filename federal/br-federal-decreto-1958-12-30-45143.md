@@ -1,36 +1,34 @@
-###DEC-045143-0-000-30-12-1958@@@
+**DECRETO Nº 45.143, DE 30 DE DEZEMBRO DE 1958.**
 
-<strong>DECRETO Nº 45.143, DE 30 DE DEZEMBRO DE 1958.</strong>
+***Aprova o Regulamento do Departamento de Provisão Geral (R-154).***
 
-<em><strong>Aprova o Regulamento do Departamento de Provisão Geral (R-154).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Departamento de Provisão Geral (R-154), que com êste baixa, assinado pelo General de Exército Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Departamento de Provisão Geral (R-154), que com êste baixa, assinado pelo General de Exército Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, ficando revogado o Decreto nº 21.827, de 5 de setembro de 1946, e demais disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, ficando revogado o Decreto nº 21.827, de 5 de setembro de 1946, e demais disposições em contrário.
 
 Rio de Janeiro, 30 de dezembro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 
-<strong>REGULAMENTO DO DEPARTAMENTO DE PROVISÃO GERAL (DPG)</strong>
+**REGULAMENTO DO DEPARTAMENTO DE PROVISÃO GERAL (DPG)**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO DEPARTAMENTO E SUAS FINALIDADES</em>
+*DO DEPARTAMENTO E SUAS FINALIDADES*
 
-<strong>Art</strong>. 1º O Departamento de Provisão Geral (DPG), diretamente subordinado ao Ministro da Guerra, incumbe-se das atividades relativas ao suprimento e manutenção do material de tôda natureza, à saúde do pessoal, à provisão animal e à saúde dos animais, tendo em vista as necessidades da vida corrente do Exército, bem como as da mobilização e emprêgo das Fôrças Terrestres.
+**Art**. 1º O Departamento de Provisão Geral (DPG), diretamente subordinado ao Ministro da Guerra, incumbe-se das atividades relativas ao suprimento e manutenção do material de tôda natureza, à saúde do pessoal, à provisão animal e à saúde dos animais, tendo em vista as necessidades da vida corrente do Exército, bem como as da mobilização e emprêgo das Fôrças Terrestres.
 
-<strong>Art</strong>. 2º Ao Departamento de Provisão Geral compete:
+**Art**. 2º Ao Departamento de Provisão Geral compete:
 
 1\) orientar, coordenar e fiscalizar as atividades das Diretorias subordinadas, no que se refere:
 
@@ -82,15 +80,15 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 12\) manter o Ministro da Guerra informado dos trabalhos a seu cargo.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Organização</em>
+*Organização*
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO GERAL</em>
+*DA ORGANIZAÇÃO GERAL*
 
-<strong>Art</strong>. 3º O Departamento de Provisão Geral compreende:
+**Art**. 3º O Departamento de Provisão Geral compreende:
 
 1\) Chefia;
 
@@ -98,7 +96,7 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 3\) Seção Administrativa.
 
-<strong>Art</strong>. 4º São diretamente subordinadas ao DPG:
+**Art**. 4º São diretamente subordinadas ao DPG:
 
 1\) Diretoria Geral de Material Bélico;
 
@@ -108,17 +106,17 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 4\) Diretoria Geral de Remonta e Veterinária.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA ORGANIZAÇÃO PORMENORIZADA</em>
+*DA ORGANIZAÇÃO PORMENORIZADA*
 
-<strong>Art</strong>. 5º A Chefia do DPG compreende:
+**Art**. 5º A Chefia do DPG compreende:
 
 1\) Chefe;
 
 2\) Gabinete.
 
-<strong>Art</strong>. 6º O Gabinete compreende:
+**Art**. 6º O Gabinete compreende:
 
 1\) Chefia;
 
@@ -128,7 +126,7 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 4\) 3ª Divisão (S/3) - Relações Públicas.
 
-<strong>Art</strong>. 7º A 1ª Subchefia compreende:
+**Art**. 7º A 1ª Subchefia compreende:
 
 1\) Subchefia;
 
@@ -136,7 +134,7 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 3\) 2ª Seção (S/2) - Mobilização.
 
-<strong>Art</strong>. 8º À 2ª Subchefia compreende:
+**Art**. 8º À 2ª Subchefia compreende:
 
 1\) Subchefia;
 
@@ -144,7 +142,7 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 3\) 4ª Seção (S/4) - Assuntos Financeiros.
 
-<strong>Art</strong>. 9º A Divisão Administrativa compreende:
+**Art**. 9º A Divisão Administrativa compreende:
 
 1\) Chefia;
 
@@ -152,19 +150,19 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 3\) Almoxarifado.
 
-<strong>Art</strong>. 10. Em função da disponibilidade de pessoal, o Chefe do Departamento poderá desdobrar as Divisões em Seções de forma a melhor atender à distribuição de seus encargos.
+**Art**. 10. Em função da disponibilidade de pessoal, o Chefe do Departamento poderá desdobrar as Divisões em Seções de forma a melhor atender à distribuição de seus encargos.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Atribuições</em>
+*Atribuições*
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES ORGÂNICAS</em>
+*DAS ATRIBUIÇÕES ORGÂNICAS*
 
 I - Do Gabinete
 
-<strong>Art</strong>. 11. Ao Gabinete incumbe:
+**Art**. 11. Ao Gabinete incumbe:
 
 1\) encarregar-se das relações públicas;
 
@@ -180,11 +178,11 @@ I - Do Gabinete
 
 II - Das Subchefias
 
-<strong>Art</strong>. 12. As Subchefias, diretamente subordinadas ao Chefe do Departamento, orientam e coordenam os trabalhos das respectivas Seções, na execução das atribuições que lhes são inerentes.
+**Art**. 12. As Subchefias, diretamente subordinadas ao Chefe do Departamento, orientam e coordenam os trabalhos das respectivas Seções, na execução das atribuições que lhes são inerentes.
 
-<strong>Art</strong>. 13. Compete à 1ª Subchefia orientar e coordenar as atividades das 1ª e 2ª Seções nos trabalhos relativos à Logística, Estatística e Mobilização na esfera das atribuições do Departamento.
+**Art**. 13. Compete à 1ª Subchefia orientar e coordenar as atividades das 1ª e 2ª Seções nos trabalhos relativos à Logística, Estatística e Mobilização na esfera das atribuições do Departamento.
 
-<strong>Art</strong>. 14. Compete à 2ª Subchefia orientar e coordenar as atividades das 3ª e 4ª Seções, nos trabalhos relativos a:
+**Art**. 14. Compete à 2ª Subchefia orientar e coordenar as atividades das 3ª e 4ª Seções, nos trabalhos relativos a:
 
 1\) suprimento, manutenção e administração em geral do material de tôda natureza, em uso no Exército;
 
@@ -194,15 +192,15 @@ II - Das Subchefias
 
 III - Das Seções das Subchefias
 
-<strong>Art</strong>. 15. A 1ª Seção (S/1), Logística e Estatística, trata:
+**Art**. 15. A 1ª Seção (S/1), Logística e Estatística, trata:
 
 1\) do planejamento logístico, no que diz respeito à estocagem de suprimentos, à hospitalização e às evacuações, bem como ao preparo das áreas e instalações, tendo em vista as necessidades de paz e de guerra;
 
 2\) dos assuntos de Estatística que se relacionam com as atividades do Departamento e das Diretorias subordinadas.
 
-<strong>Art</strong>. 16. A 2ª Seção (S/2), Mobilização, trata dos assuntos relacionados com a mobilização, em material e animais dos comandos, unidades e órgãos diversos, bem como dos que se referem à mobilização da produção inclusive a industrial, de interêsse das Diretorias Gerais de Material Bélico de Intendência, de Saúde e de Remonta e Veterinária.
+**Art**. 16. A 2ª Seção (S/2), Mobilização, trata dos assuntos relacionados com a mobilização, em material e animais dos comandos, unidades e órgãos diversos, bem como dos que se referem à mobilização da produção inclusive a industrial, de interêsse das Diretorias Gerais de Material Bélico de Intendência, de Saúde e de Remonta e Veterinária.
 
-<strong>Art</strong>. 17. À 3ª Seção (S/3), Suprimento, Manutenção e Saúde, incumbe tratar:
+**Art**. 17. À 3ª Seção (S/3), Suprimento, Manutenção e Saúde, incumbe tratar:
 
 1\) dos assuntos referentes ao suprimento manutenção do material, inclusive meios de subsistência da gestão das Diretorias subordinadas ao Departamento, necessários à vida corrente do Exército;
 
@@ -212,11 +210,11 @@ III - Das Seções das Subchefias
 
 4\) dos problemas referentes à saúde do pessoal e dos animais.
 
-<strong>Art</strong>. 18. À 4ª Seção (S/4) Assuntos Financeiros, incumbe tratar dos assuntos relativos aos processos de aquisição, às propostas orçamentárias, às tabelas de dotações orçamentárias e demais atos administrativos referentes a finanças.
+**Art**. 18. À 4ª Seção (S/4) Assuntos Financeiros, incumbe tratar dos assuntos relativos aos processos de aquisição, às propostas orçamentárias, às tabelas de dotações orçamentárias e demais atos administrativos referentes a finanças.
 
 IV - Da Seção Administrativa
 
-<strong>Art</strong>. 19. À Seção Administrativa incumbe:
+**Art**. 19. À Seção Administrativa incumbe:
 
 1\) tratar das questões concernentes à administração de fundos, de acôrdo com as instruções e regulamentos em vigor;
 
@@ -242,13 +240,13 @@ Parágrafo único. A execução dos encargos acima é distribuída de acôrdo co
 
 \- Almoxarifado.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS ATRIBUIÇÕES FUNCIONAIS</em>
+*DAS ATRIBUIÇÕES FUNCIONAIS*
 
 I - Do Chefe do DPG
 
-<strong>Art</strong>. 20. Compete ao Chefe do Departamento:
+**Art**. 20. Compete ao Chefe do Departamento:
 
 1\) dirigir e coordenar os trabalhos do Departamento, particularmente no que diz respeito ao planejamento a seu cargo, consoante as diretrizes do Estado-Maior do Exército, aprovadas pelo Ministro da Guerra;
 
@@ -280,7 +278,7 @@ I - Do Chefe do DPG
 
 II - Do Chefe do Gabinete
 
-<strong>Art</strong>. 21. Compete ao Chefe do Gabinete:
+**Art**. 21. Compete ao Chefe do Gabinete:
 
 1\) dirigir os trabalhos do Gabinete e coordenar os das suas Seções;
 
@@ -308,7 +306,7 @@ II - Do Chefe do Gabinete
 
 III - Dos Subchefes
 
-<strong>Art</strong>. 22. Compete aos Subchefes:
+**Art**. 22. Compete aos Subchefes:
 
 1\) dirigir os trabalhos da Subchefia, tomando as decisões necessárias à coordenação dos trabalhos das Seções;
 
@@ -328,7 +326,7 @@ III - Dos Subchefes
 
 IV - Dos Chefes de Seção
 
-<strong>Art</strong>. 23. Compete aos Chefes de Seção:
+**Art**. 23. Compete aos Chefes de Seção:
 
 1\) dirigir as atividades da Seção, particularmente quanto aos planos e programas a serem elaborados;
 
@@ -342,31 +340,31 @@ IV - Dos Chefes de Seção
 
 V - Do Chefe da Seção Administrativa
 
-<strong>Art</strong>. 24. Compete ao Chefe da Seção Administrativa:
+**Art**. 24. Compete ao Chefe da Seção Administrativa:
 
 1\) executar as atribuições previstas para os fiscais administrativos no Regulamento de Administração do Exército.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Outras Disposições</em>
+*Outras Disposições*
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS DIRETORIAS SUBORDINADAS</em>
+*DAS DIRETORIAS SUBORDINADAS*
 
-<strong>Art</strong>. 25. A Diretoria Geral do Material Bélico (DGMB) incumbe-se do suprimento e da manutenção do armamento, munição, material de guerra química, viaturas em geral, material de engenharia e material de comunicações, bem como do suprimento de combustível e lubrificantes.
+**Art**. 25. A Diretoria Geral do Material Bélico (DGMB) incumbe-se do suprimento e da manutenção do armamento, munição, material de guerra química, viaturas em geral, material de engenharia e material de comunicações, bem como do suprimento de combustível e lubrificantes.
 
-<strong>Art</strong>. 26. A Diretoria Geral de Intendência (DGI) incumbe-se das atividades relativas ao suprimento e ao emprêgo de fundos, à subsistência e ao material de intendência.
+**Art**. 26. A Diretoria Geral de Intendência (DGI) incumbe-se das atividades relativas ao suprimento e ao emprêgo de fundos, à subsistência e ao material de intendência.
 
-<strong>Art</strong>. 27. A Diretoria Geral de Saúde do Exército (DGSE) incumbe-se das atividades relativas ao estado de saúde do pessoal do Ministério da Guerra e ao suprimento e manutenção de material de saúde.
+**Art**. 27. A Diretoria Geral de Saúde do Exército (DGSE) incumbe-se das atividades relativas ao estado de saúde do pessoal do Ministério da Guerra e ao suprimento e manutenção de material de saúde.
 
-<strong>Art</strong>. 28. A Diretoria Geral de Remonta e Veterinária (DGRV) incumbe-se das atividades relativas: à provisão animal, inclusive as que estimulam a criação de tipos de solípedes mais adequados ao serviço do Exército; ao estado de saúde dos animais do Exército; ao suprimento e à manutenção dos materiais peculiares ao Serviço.
+**Art**. 28. A Diretoria Geral de Remonta e Veterinária (DGRV) incumbe-se das atividades relativas: à provisão animal, inclusive as que estimulam a criação de tipos de solípedes mais adequados ao serviço do Exército; ao estado de saúde dos animais do Exército; ao suprimento e à manutenção dos materiais peculiares ao Serviço.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 29. As substituições temporárias no DPG obedecerão às seguintes normas:
+**Art**. 29. As substituições temporárias no DPG obedecerão às seguintes normas:
 
 1\) Chefe do Departamento, pelo General combatente, engenheiro militar ou de serviços mais antigo dentre os de maior pôsto que lhe são subordinados; quando o chefe do DPG se deslocar a serviço em território nacional, ou se afastar por qualquer motivo por prazo provável inferior a dez dias, o subchefe mais antigo responderá pelo expediente;
 
@@ -374,55 +372,53 @@ V - Do Chefe da Seção Administrativa
 
 3\) Chefe do Gabinete e de Seção pelo oficial mais antigo do Gabinete ou da Seção, respeitadas, nas substituições normais, as condições privativas de Quadro, Arma ou Serviço; nas substituições eventuais, o oficial mais antigo do Gabinete ou da Seção responderá pelo expediente.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>PRESCRIÇÕES DIVERSAS</em>
+*PRESCRIÇÕES DIVERSAS*
 
-<strong>Art</strong>. 30. As atribuições disciplinares dos Chefes e Subchefes do DPG são equivalentes às previstas no RDE, item 2 do Art. 37, para o Chefe e Subchefe do EME.
+**Art**. 30. As atribuições disciplinares dos Chefes e Subchefes do DPG são equivalentes às previstas no RDE, item 2 do Art. 37, para o Chefe e Subchefe do EME.
 
-<strong>Art</strong>. 31. O Chefe do Gabinete e os de Seção, para efeito de disciplina e justiça, têm atribuições equivalentes às de comandante da Unidade.
+**Art**. 31. O Chefe do Gabinete e os de Seção, para efeito de disciplina e justiça, têm atribuições equivalentes às de comandante da Unidade.
 
-<strong>Art</strong>. 32. Em complemento às prescrições contidas neste Regulamento, o Departamento elaborará o seu regimento interno.
+**Art**. 32. Em complemento às prescrições contidas neste Regulamento, o Departamento elaborará o seu regimento interno.
 
 Rio de Janeiro, 30 de dezembro de 1958.
 
-<strong>GEN. EX. HENRIQUE B. D. TEIXEIRA LOTT</strong>
+**GEN. EX. HENRIQUE B. D. TEIXEIRA LOTT**
 
 MINISTRO DA GUERRA
 
-###DEC-045143-0-000-30-12-1958@@@REP01+++
+**(\*) DECRETO Nº 45.143, DE 30 DE DEZEMBRO DE 1958.**
 
-<strong>(\*) DECRETO Nº 45.143, DE 30 DE DEZEMBRO DE 1958.</strong>
+***Aprova o Regulamento do Departamento de Provisão Geral (R-154).***
 
-<em><strong>Aprova o Regulamento do Departamento de Provisão Geral (R-154).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Departamento de Provisão Geral (R-154), que com êste baixa, assinado pelo General de Exército Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Departamento de Provisão Geral (R-154), que com êste baixa, assinado pelo General de Exército Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, ficando revogado o Decreto nº 21.827, de 5 de setembro de 1946, e demais disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, ficando revogado o Decreto nº 21.827, de 5 de setembro de 1946, e demais disposições em contrário.
 
 Rio de Janeiro, 30 de dezembro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 
-<strong>REGULAMENTO DO DEPARTAMENTO DE PROVISÃO GERAL (DPG)</strong>
+**REGULAMENTO DO DEPARTAMENTO DE PROVISÃO GERAL (DPG)**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO DEPARTAMENTO E SUAS FINALIDADES</em>
+*DO DEPARTAMENTO E SUAS FINALIDADES*
 
-<strong>Art</strong>. 1º O Departamento de Provisão Geral (DPG), diretamente subordinado ao Ministro da Guerra, incumbe-se das atividades relativas ao suprimento e manutenção do material de tôda natureza, à saúde do pessoal, à provisão animal e à saúde dos animais, tendo em vista as necessidades da vida corrente do Exército, bem como as da mobilização e emprêgo das Fôrças Terrestres.
+**Art**. 1º O Departamento de Provisão Geral (DPG), diretamente subordinado ao Ministro da Guerra, incumbe-se das atividades relativas ao suprimento e manutenção do material de tôda natureza, à saúde do pessoal, à provisão animal e à saúde dos animais, tendo em vista as necessidades da vida corrente do Exército, bem como as da mobilização e emprêgo das Fôrças Terrestres.
 
-<strong>Art</strong>. 2º Ao Departamento de Provisão Geral compete:
+**Art**. 2º Ao Departamento de Provisão Geral compete:
 
 1\) orientar, coordenar e fiscalizar as atividades das Diretorias subordinadas, no que se refere:
 
@@ -474,15 +470,15 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 12\) manter o Ministro da Guerra informado dos trabalhos a seu cargo.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Organização</em>
+*Organização*
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO GERAL</em>
+*DA ORGANIZAÇÃO GERAL*
 
-<strong>Art</strong>. 3º O Departamento de Provisão Geral compreende:
+**Art**. 3º O Departamento de Provisão Geral compreende:
 
 1\) Chefia;
 
@@ -490,7 +486,7 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 3\) Divisão Administrativa.
 
-<strong>Art</strong>. 4º São diretamente subordinadas ao DPG:
+**Art**. 4º São diretamente subordinadas ao DPG:
 
 1\) Diretoria Geral de Material Bélico;
 
@@ -500,17 +496,17 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 4\) Diretoria Geral de Remonta e Veterinária.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA ORGANIZAÇÃO PORMENORIZADA</em>
+*DA ORGANIZAÇÃO PORMENORIZADA*
 
-<strong>Art</strong>. 5º A Chefia do DPG compreende:
+**Art**. 5º A Chefia do DPG compreende:
 
 1\) Chefe;
 
 2\) Gabinete.
 
-<strong>Art</strong>. 6º O Gabinete compreende:
+**Art**. 6º O Gabinete compreende:
 
 1\) Chefia;
 
@@ -520,7 +516,7 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 4\) 3ª Seção (S/3) - Relações Públicas.
 
-<strong>Art</strong>. 7º A 1ª Subchefia compreende:
+**Art**. 7º A 1ª Subchefia compreende:
 
 1\) Subchefia;
 
@@ -528,7 +524,7 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 3\) 2ª Divisão (D/2) - Mobilização.
 
-<strong>Art</strong>. 8º À 2ª Subchefia compreende:
+**Art**. 8º À 2ª Subchefia compreende:
 
 1\) Subchefia;
 
@@ -536,7 +532,7 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 3\) 4ª Divisão (D/4) - Assuntos Financeiros.
 
-<strong>Art</strong>. 9º A Divisão Administrativa compreende:
+**Art**. 9º A Divisão Administrativa compreende:
 
 1\) Chefia;
 
@@ -544,19 +540,19 @@ b) proposta de importação de artigos ou materiais, de provisão normal do Depa
 
 3\) Almoxarifado.
 
-<strong>Art</strong>. 10. Em função da disponibilidade de pessoal, o Chefe do Departamento poderá desdobrar as Divisões em Seções de forma a melhor atender à distribuição de seus encargos.
+**Art**. 10. Em função da disponibilidade de pessoal, o Chefe do Departamento poderá desdobrar as Divisões em Seções de forma a melhor atender à distribuição de seus encargos.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Atribuições</em>
+*Atribuições*
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES ORGÂNICAS</em>
+*DAS ATRIBUIÇÕES ORGÂNICAS*
 
 I - Do Gabinete
 
-<strong>Art</strong>. 11. Ao Gabinete incumbe:
+**Art**. 11. Ao Gabinete incumbe:
 
 1\) encarregar-se das relações públicas;
 
@@ -572,11 +568,11 @@ I - Do Gabinete
 
 II - Das Subchefias
 
-<strong>Art</strong>. 12. As Subchefias, diretamente subordinadas ao Chefe do Departamento, orientam e coordenam os trabalhos das respectivas Seções, na execução das atribuições que lhes são inerentes.
+**Art**. 12. As Subchefias, diretamente subordinadas ao Chefe do Departamento, orientam e coordenam os trabalhos das respectivas Seções, na execução das atribuições que lhes são inerentes.
 
-<strong>Art</strong>. 13. Compete à 1ª Subchefia orientar e coordenar as atividades das 1ª e 2ª Divisões nos trabalhos relativos à Logística, Estatística e Mobilização na esfera das atribuições do Departamento.
+**Art**. 13. Compete à 1ª Subchefia orientar e coordenar as atividades das 1ª e 2ª Divisões nos trabalhos relativos à Logística, Estatística e Mobilização na esfera das atribuições do Departamento.
 
-<strong>Art</strong>. 14. Compete à 2ª Subchefia orientar e coordenar as atividades das 3ª e 4ª Divisões nos trabalhos relativos ao seguinte:
+**Art**. 14. Compete à 2ª Subchefia orientar e coordenar as atividades das 3ª e 4ª Divisões nos trabalhos relativos ao seguinte:
 
 1\) suprimento, manutenção e administração em geral do material de tôda natureza, em uso no Exército;
 
@@ -586,15 +582,15 @@ II - Das Subchefias
 
 III - Das Divisões
 
-<strong>Art</strong>. 15. A 1ª Divisão (D/1), Logística e Estatística, trata:
+**Art**. 15. A 1ª Divisão (D/1), Logística e Estatística, trata:
 
 1\) do planejamento logístico, no que diz respeito à estocagem de suprimentos, à hospitalização e às evacuações, bem como ao preparo das áreas e instalações, tendo em vista as necessidades de paz e de guerra;
 
 2\) dos assuntos de Estatística que se relacionam com as atividades do Departamento e das Diretorias subordinadas.
 
-<strong>Art</strong>. 16. A 2ª Divisão (D/2), Mobilização, trata dos assuntos relacionados com a mobilização, em material e animais dos comandos, unidades e órgãos diversos, bem como dos que se referem à mobilização da produção inclusive a industrial, de interêsse das Diretorias Gerais de Material Bélico de Intendência, de Saúde e de Remonta e Veterinária.
+**Art**. 16. A 2ª Divisão (D/2), Mobilização, trata dos assuntos relacionados com a mobilização, em material e animais dos comandos, unidades e órgãos diversos, bem como dos que se referem à mobilização da produção inclusive a industrial, de interêsse das Diretorias Gerais de Material Bélico de Intendência, de Saúde e de Remonta e Veterinária.
 
-<strong>Art</strong>. 17. À 3ª Divisão (D/3), Suprimento, Manutenção e Saúde, incumbe tratar:
+**Art**. 17. À 3ª Divisão (D/3), Suprimento, Manutenção e Saúde, incumbe tratar:
 
 1\) dos assuntos referentes ao suprimento manutenção do material, inclusive meios de subsistência da gestão das Diretorias subordinadas ao Departamento, necessários à vida corrente do Exército;
 
@@ -604,11 +600,11 @@ III - Das Divisões
 
 4\) dos problemas referentes à saúde do pessoal e dos animais.
 
-<strong>Art</strong>. 18. À 4ª Divisão (D/4) Assuntos Financeiros, incumbe tratar dos assuntos relativos aos processos de aquisição, às propostas orçamentárias, às tabelas de dotações orçamentárias e demais atos administrativos referentes a finanças.
+**Art**. 18. À 4ª Divisão (D/4) Assuntos Financeiros, incumbe tratar dos assuntos relativos aos processos de aquisição, às propostas orçamentárias, às tabelas de dotações orçamentárias e demais atos administrativos referentes a finanças.
 
 IV - Da Divisão Administrativa
 
-<strong>Art</strong>. 19. À Divisão Administrativa incumbe:
+**Art**. 19. À Divisão Administrativa incumbe:
 
 1\) tratar das questões concernentes à administração de fundos, de acôrdo com as instruções e regulamentos em vigor;
 
@@ -634,13 +630,13 @@ Parágrafo único. A execução dos encargos acima é distribuída de acôrdo co
 
 \- Almoxarifado.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS ATRIBUIÇÕES FUNCIONAIS</em>
+*DAS ATRIBUIÇÕES FUNCIONAIS*
 
 I - Do Chefe do DPG
 
-<strong>Art</strong>. 20. Compete ao Chefe do Departamento:
+**Art**. 20. Compete ao Chefe do Departamento:
 
 1\) dirigir e coordenar os trabalhos do Departamento, particularmente no que diz respeito ao planejamento a seu cargo, consoante as diretrizes do Estado-Maior do Exército, aprovadas pelo Ministro da Guerra;
 
@@ -672,7 +668,7 @@ I - Do Chefe do DPG
 
 II - Do Chefe do Gabinete
 
-<strong>Art</strong>. 21. Compete ao Chefe do Gabinete:
+**Art**. 21. Compete ao Chefe do Gabinete:
 
 1\) dirigir os trabalhos do Gabinete e coordenar os das suas Seções;
 
@@ -700,7 +696,7 @@ II - Do Chefe do Gabinete
 
 III - Dos Subchefes
 
-<strong>Art</strong>. 22. Compete aos Subchefes:
+**Art**. 22. Compete aos Subchefes:
 
 1\) dirigir os trabalhos da Subchefia, tomando as decisões necessárias à coordenação dos trabalhos das Divisões;
 
@@ -720,7 +716,7 @@ III - Dos Subchefes
 
 IV - Dos Chefes de Seção
 
-<strong>Art</strong>. 23. Compete aos Chefes de Seção:
+**Art**. 23. Compete aos Chefes de Seção:
 
 1\) dirigir as atividades da Divisão, particularmente quanto aos planos e programas a serem elaborados;
 
@@ -734,31 +730,31 @@ IV - Dos Chefes de Seção
 
 V - Do Chefe da Divisão Administrativa
 
-<strong>Art</strong>. 24. Compete ao Chefe da Divisão Administrativa:
+**Art**. 24. Compete ao Chefe da Divisão Administrativa:
 
 1\) executar as atribuições previstas para os fiscais administrativos no Regulamento de Administração do Exército.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Outras Disposições</em>
+*Outras Disposições*
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS DIRETORIAS SUBORDINADAS</em>
+*DAS DIRETORIAS SUBORDINADAS*
 
-<strong>Art</strong>. 25. A Diretoria Geral do Material Bélico (DGMB) incumbe-se do suprimento e da manutenção do armamento, munição, material de guerra química, viaturas em geral, instrumentos e equipamentos de observação e de direção de tiro, material de engenharia e material de comunicações, bem como do suprimento de combustível e lubrificantes.
+**Art**. 25. A Diretoria Geral do Material Bélico (DGMB) incumbe-se do suprimento e da manutenção do armamento, munição, material de guerra química, viaturas em geral, instrumentos e equipamentos de observação e de direção de tiro, material de engenharia e material de comunicações, bem como do suprimento de combustível e lubrificantes.
 
-<strong>Art</strong>. 26. A Diretoria Geral de Intendência (DGI) incumbe-se das atividades relativas ao suprimento e ao emprêgo de fundos, à subsistência e ao material de intendência.
+**Art**. 26. A Diretoria Geral de Intendência (DGI) incumbe-se das atividades relativas ao suprimento e ao emprêgo de fundos, à subsistência e ao material de intendência.
 
-<strong>Art</strong>. 27. A Diretoria Geral de Saúde do Exército (DGSE) incumbe-se das atividades relativas ao estado de saúde do pessoal do Ministério da Guerra e ao suprimento e manutenção de material de saúde.
+**Art**. 27. A Diretoria Geral de Saúde do Exército (DGSE) incumbe-se das atividades relativas ao estado de saúde do pessoal do Ministério da Guerra e ao suprimento e manutenção de material de saúde.
 
-<strong>Art</strong>. 28. A Diretoria Geral de Remonta e Veterinária (DGRV) incumbe-se das atividades relativas: à provisão animal, inclusive as que estimulam a criação de tipos de solípedes mais adequados ao serviço do Exército; ao estado de saúde dos animais do Exército; ao suprimento e à manutenção dos materiais peculiares ao Serviço.
+**Art**. 28. A Diretoria Geral de Remonta e Veterinária (DGRV) incumbe-se das atividades relativas: à provisão animal, inclusive as que estimulam a criação de tipos de solípedes mais adequados ao serviço do Exército; ao estado de saúde dos animais do Exército; ao suprimento e à manutenção dos materiais peculiares ao Serviço.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 29. As substituições temporárias no DPG obedecerão às seguintes normas:
+**Art**. 29. As substituições temporárias no DPG obedecerão às seguintes normas:
 
 1\) Chefe do Departamento, pelo General combatente, engenheiro militar ou de serviços mais antigo dentre os de maior pôsto que lhe são subordinados; quando o chefe do DPG se deslocar a serviço em território nacional, ou se afastar por qualquer motivo por prazo provável inferior a dez dias, o subchefe mais antigo responderá pelo expediente;
 
@@ -766,18 +762,18 @@ V - Do Chefe da Divisão Administrativa
 
 3\) Chefe do Gabinete e de Divisão pelo oficial mais antigo do Gabinete ou da Divisão, respeitadas, nas substituições normais, as condições privativas de Quadro, Arma ou Serviço; nas substituições eventuais, o oficial mais antigo do Gabinete ou da Divisão responderá pelo expediente.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>PRESCRIÇÕES DIVERSAS</em>
+*PRESCRIÇÕES DIVERSAS*
 
-<strong>Art</strong>. 30. As atribuições disciplinares dos Chefes e Subchefes do DPG são equivalentes às previstas no RDE, item 2 do Art. 37, para o Chefe e Subchefe do EME.
+**Art**. 30. As atribuições disciplinares dos Chefes e Subchefes do DPG são equivalentes às previstas no RDE, item 2 do Art. 37, para o Chefe e Subchefe do EME.
 
-<strong>Art</strong>. 31. O Chefe do Gabinete e os de Divisão, para efeito de disciplina e justiça, têm atribuições equivalentes às de comandante da Unidade.
+**Art**. 31. O Chefe do Gabinete e os de Divisão, para efeito de disciplina e justiça, têm atribuições equivalentes às de comandante da Unidade.
 
-<strong>Art</strong>. 32. Em complemento às prescrições contidas neste Regulamento, o Departamento elaborará o seu regimento interno.
+**Art**. 32. Em complemento às prescrições contidas neste Regulamento, o Departamento elaborará o seu regimento interno.
 
 Rio de Janeiro, 30 de dezembro de 1958.
 
-<strong>HENRIQUE LOTT</strong>
+**HENRIQUE LOTT**
 
 MINISTRO DA GUERRA

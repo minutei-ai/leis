@@ -1,5 +1,3 @@
-###DEC-048255-0-000-02-06-1960@@@
-
 DECRETO Nº 48.255, DE 2 DE JUNHO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 33.236, de 6 de 1953, para fins de desapropriação, pelo Departamento Nacional de Estradas de Ferro, das áreas de terrenos e respectivos benfeitorias necessárias à construção do rainal Itajaí-Brusque, da Estradas de Ferro Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-059298-0-000-23-09-1966@@@
-
 DECRETO Nº 59.298, DE 23 DE SETEMBRO DE 1966.
 
 Declara públicas, de uso comum, as águas de curso que especifica.

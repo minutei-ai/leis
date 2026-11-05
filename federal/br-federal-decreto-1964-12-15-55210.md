@@ -1,5 +1,3 @@
-###DEC-055210-0-000-15-12-1964@@@
-
 decreto nº 55.210, de 15 de dezembro de 1964.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Petróleo Brasileiro S. A., Petrobrás,. terras situadas nos municípios de Santo Antônio da Patrulha e de Gravatai, no Estado do Rio Grande do Sul.
@@ -14,7 +12,49 @@ Art.1º. Ficam declarados de utilidade pública, para fins de desapropriação, 
 
 I - Terreno, inclusive benfeitorias, de forma irregular, com 50.931 m2 45 dm2 (cinqüenta mil novecentos e trinta e um metros quadrados e quarenta e cinco decímetros quadrados), situado no município de Santo Antonio da Patrulha, Estado do Rio Grande do Sul, formado por um polígono irregular de 7 (sete) lados, cujos vértices, conforme desenho número 5391 - 2 - 100 - 6B, que com êste baixa, situam-se nas seguintes coordenadas planas:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice Estaca 674 34 m </span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 547.991,70 N 6691.220,60</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 1</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 547.987,60 N 6691.288,50</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 2</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 547.787,90 N 6691.300,60</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 3</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 547.802,90 N 6691.050,90</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 4</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 548.032,90 N 6691.036,90</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 5</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 548.009,40 N 6691.084,90</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 6</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 547.995,90 N 6691.150,50</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 1</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 516.643,89 N 6695.873,71</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 2</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 516.643,89 N 6695.671,91</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 3</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 516.926,90 N 6695.710,30</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vértice P 4</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>= E 516.809,90 N 6695.896,40</span></p></td></tr></tbody></table>
+Vértice Estaca 674 34 m
+
+= E 547.991,70 N 6691.220,60
+
+Vértice P 1
+
+= E 547.987,60 N 6691.288,50
+
+Vértice P 2
+
+= E 547.787,90 N 6691.300,60
+
+Vértice P 3
+
+= E 547.802,90 N 6691.050,90
+
+Vértice P 4
+
+= E 548.032,90 N 6691.036,90
+
+Vértice P 5
+
+= E 548.009,40 N 6691.084,90
+
+Vértice P 6
+
+= E 547.995,90 N 6691.150,50
+
+Vértice P 1
+
+= E 516.643,89 N 6695.873,71
+
+Vértice P 2
+
+= E 516.643,89 N 6695.671,91
+
+Vértice P 3
+
+= E 516.926,90 N 6695.710,30
+
+Vértice P 4
+
+= E 516.809,90 N 6695.896,40
 
 terreno êsse com as seguintes confrontações e delimitações: partindo do ponto inicial fixado na estaca nº 674+34 metros da linha diretriz do Oleoduto Tramandaí-Canoas e seguindo  na direção norte, o alinhamento ou lado “ Ponto Inicial - P1”, com 68 metros de  comprimento, forma com a linha diretriz do Oleoduto, um ângulo interno de 61º14’40’’, medindo à esquerda; o lado ou alinhamento “P1 - P2”, medindo 200 metros de comprimento, forma com o lado anterior um ângulo interno de 96º55’30’’; o lado ou alinhamento “P2 -.P3”, com a extensão de 250 metros, forma com o anterior um ângulo interno de 83º02’50’’; o alinhamento “P3 - P4”, com 250.50 metros de comprimento, forma com o lado anterior um ângulo interno de 96º55’10’’; o alinhamento ou lado “P4 - P5”, com 52.80 metros, forma com o lado anterior um ângulo interno de 60º06’30’’;o alinhamento ou lado “P5 - P6”, que mede 67.00 metros de comprimento forma com o lado anterior um ângulo interno de 194º47’30’’ e, finalmente, o alinhamento ou lado “P6 - Ponto Inicial”, a forma com o lado ou alinhamento anterior um ângulo de 188º11’30’’, e mede 70.20 metros, até encontrar o ponto inicial e fechar o polígono, sendo de 180º02’50’’ o ângulo interno formado pelos lados com vértice no ponto inicial, estaca nº 674+34 metros, da diretriz do Oleoduto.
 

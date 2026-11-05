@@ -1,5 +1,3 @@
-###DEC-058430-0-000-17-05-1966@@@
-
 DECRETO Nº 58.430, DE 17 DE MAIO DE 1966.
 
 Restringe a zona de concessão da Companhia Nordeste do Brasil e outorga concessão à Companhia de Eletricidade de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-073834-0-000-13-03-1974@@@
-
 DECRETO Nº 73.834, DE 13 DE MARÇO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona, necessário ao Ministério do Exército.

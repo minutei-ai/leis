@@ -1,5 +1,3 @@
-###DEC-007389-0-000-09-12-2010-PUB-01@@@
-
 DECRETO Nº 7.389, DE 9 DE DEZEMBRO DE 2010.
 
 Regulamenta o incentivo de que trata o art. 11- B da Lei no 9.440, de 14 de março de 1997, que estabelece incentivos fiscais para o desenvolvimento regional.

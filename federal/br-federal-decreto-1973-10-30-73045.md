@@ -1,5 +1,3 @@
-###DEC-073045-0-000-30-10-1973@@@
-
 Decreto Nº 73.045, de 30 de outubro de 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Taubaté Ltda., para executar serviço de radiodifusão sonora, em onda média de âmbito regional, na cidade de Taubaté, Estado e São Paulo.

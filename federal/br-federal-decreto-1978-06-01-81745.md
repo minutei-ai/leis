@@ -1,5 +1,3 @@
-###DEC-081745-0-000-01-06-1978@@@
-
 Decreto nº 81.745, de 1º de junho de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Mangaratiba, Estado do Rio de Janeiro.

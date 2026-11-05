@@ -1,5 +1,3 @@
-###MPV-002035-0-028-21-12-2000@@@
-
 medida provisória Nº 2.035-28, de 21 de dezembro de 2000.
 
 Dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata a Lei nº 7.827, de 27 de setembro de 1989, e dá outras providencias.

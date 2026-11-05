@@ -1,5 +1,3 @@
-###DEC-045385-0-000-03-02-1959@@@
-
 DECRETO Nº 45.385, DE 3 DE FEVEREIRO DE 1959.
 
 Autoriza o “Bank of London & South America Limited”, com sede em Londres (Inglaterra), a instalar agência em Brasília (Go).

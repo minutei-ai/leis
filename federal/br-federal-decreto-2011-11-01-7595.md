@@ -1,5 +1,3 @@
-###DEC-007595-0-000-01-11-2011-PUB-01@@@
-
 DECRETO Nº 7.595, DE 1º DE NOVEMBRO DE 2011
 
 Promulga o Tratado de Cooperação Jurídica Internacional em Matéria Penal entre a República Federativa do Brasil e os Estados Unidos Mexicanos, firmado na Cidade do México, em 6 de agosto de 2007.

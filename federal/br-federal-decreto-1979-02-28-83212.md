@@ -1,5 +1,3 @@
-###DEC-083212-0-000-28-02-1979@@@
-
 decreto nº 83.212, de 28 de fevereiro de 1979
 
 Concede reconhecimento ao curso de Ciências da Universidade Federal Rural do Rio de Janeiro, Estado do Rio de Janeiro.

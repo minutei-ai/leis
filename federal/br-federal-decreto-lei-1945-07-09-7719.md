@@ -1,5 +1,3 @@
-###DEL-007719-0-000-09-07-1945@@@
-
 DECRETO-LEI N. 7.719 – DE 9 DE JULHO DE 1945
 
 Modifica o sistema de contribuição para o custeio ào Serviço de Alimentação da Previdência Social – SAPS– e dá outras providências.

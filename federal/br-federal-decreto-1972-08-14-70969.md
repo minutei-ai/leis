@@ -1,5 +1,3 @@
-###DEC-070969-0-000-14-08-1972@@@
-
 DECRETO Nº 70.969, DE 14 DE AGOSTO DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

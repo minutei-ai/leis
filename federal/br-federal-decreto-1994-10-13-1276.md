@@ -1,7 +1,3 @@
-1
-
-###DEC-001276-0-000-13-10-1994@@@
-
 DECRETO Nº 1.276, DE 13 DE OUTUBRO DE 1994
 
 Cria a Zona de Processamento de Exportação- ZPE de Teófilo Otoni, no Estado de Minas Gerais.

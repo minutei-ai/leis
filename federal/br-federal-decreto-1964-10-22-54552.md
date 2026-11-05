@@ -1,5 +1,3 @@
-###DEC-054552-0-000-22-10-1964@@@
-
 Decreto nº 54.552, de 22 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Arnaldo Campos a comprar pedras preciosas.

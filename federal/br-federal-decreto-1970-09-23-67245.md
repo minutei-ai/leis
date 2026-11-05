@@ -1,5 +1,3 @@
-###DEC-067245-0-000-23-09-1970@@@
-
 DECRETO Nº 67.245, DE 23 DE SETEMBRO DE 1970.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 53.780, de 23 de março de 1964, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à instalação do Instituto de Pesquisas, do Serviço de Piscicultura do DNOCS, no município de Pentecoste, Estado do Ceará.

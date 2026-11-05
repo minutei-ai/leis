@@ -1,5 +1,3 @@
-###DEC-051943-A-000-26-04-1963@@@
-
 DECRETO Nº 51.943-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Emprêsa de Caolim Ltda., a lavrar caulim no município de Bicas, Estado de Minas Gerais.

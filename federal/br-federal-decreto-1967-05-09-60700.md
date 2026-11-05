@@ -1,5 +1,3 @@
-###DEC-060700-0-000-09-05-1967@@@
-
 DECRETO Nº 60.700, DE 9 DE MAIO DE 1967.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 48.952, de 16 de setembro de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “SUME”, no Município de Sumé, Estado da Paraíba.

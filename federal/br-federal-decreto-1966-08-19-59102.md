@@ -1,5 +1,3 @@
-###DEC-059102-0-000-19-08-1966@@@
-
 DECRETO Nº 59.102, DE 19 DE AGÔSTO DE 1966.
 
 Concede à The Motor Union Insurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

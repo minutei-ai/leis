@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59670)
-
 # LEI Nº 12.180, DE 27 DE DEZEMBRO DE 2005
 
 ### _Dispõe sobre a remuneração dos Deputados Estaduais no exercício de 2005._
@@ -28,17 +26,16 @@ Secretário-Adjunto respondendo pelo expediente da Casa Civil
 
 Publicada na Assessoria Técnico-Legislativa, aos 27 de dezembro de 2005.
 
-<br>
-
 #### [LEI Nº 12.180, DE 27 DE DEZEMBRO DE 2005](https://www.al.sp.gov.br/norma/59670)
 
 _Dispõe sobre a remuneração dos Deputados Estaduais no exercício de 2005_
 
 #### Retificação do D.O. de 28-12-2005
 
-<br>
+Leia-se como segue e não como constou:
 
-Leia-se como segue e não como constou:<br>
-Fábio Augusto Martins Lepique<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Casa Civil<br>
+Fábio Augusto Martins Lepique
+
+Secretário-Adjunto, Respondendo pelo Expediente da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 28 de dezembro de 2005.

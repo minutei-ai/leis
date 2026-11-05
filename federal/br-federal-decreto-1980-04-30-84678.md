@@ -1,5 +1,3 @@
-###DEC-084678-0-000-30-04-1980@@@
-
 Decreto nº 84.678, de 30 de abril de 1980
 
 Autoriza o funcionamento da Faculdade de Direito de Umuarama, no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-066976-0-000-28-07-1970@@@
-
 Decreto nº 66.976, de 28 de julho de 1970.
 
 Transforma os 2º e 3º Batalhões Rodoviários em 8º e 9º Batalhões de Engenharia de Construção, cria o 2º Grupamento de Engenharia de Construção e dá outras providências.

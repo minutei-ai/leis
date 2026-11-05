@@ -1,5 +1,3 @@
-###DEC-088773-0-000-28-09-1983@@@
-
 decreto nº 88.773, de 28 de setembro de 1983
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Flor do Dia", situado no Município de Coroatá, no Estado do Maranhão, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 70.220, de 1º de março de 1972, alterado pelos Decretos nºs 71.195, de 4 de outubro de 1972, 79.288, de 16 de fevereiro de 1977, e 87.095, de 16 de abril de 1982.

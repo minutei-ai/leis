@@ -1,5 +1,3 @@
-###DEC-088951-0-000-08-11-1983@@@
-
 Decreto nº 88.951, de 08 de novembro de 1983.
 
 Dispõe sobre a transferência de funcionário.

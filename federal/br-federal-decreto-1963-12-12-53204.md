@@ -1,5 +1,3 @@
-###DEC-053204-0-000-12-12-1963@@@
-
 Decreto nº 53.204, de 12 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Antônio Ribeiro de Andrade a pesquisar minério de manganês no município de Aquidauana, Estado de Mato Grosso.

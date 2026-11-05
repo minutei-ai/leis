@@ -1,5 +1,3 @@
-###DEC-001817-0-000-12-02-1996@@@
-
 DECRETO Nº 1.817, DE 12 DE FEVEREIRO DE 1996
 
 Dispõe sobre o processo de eleição dos representantes da sociedade civil no Conselho Nacional de Assistência Social, e dá outras providências.

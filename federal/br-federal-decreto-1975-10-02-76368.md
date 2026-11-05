@@ -1,5 +1,3 @@
-###DEC-076368-0-000-02-10-1975@@@
-
 DECRETO Nº 76.368, DE 2 DE OUTUBRO DE 1975
 
 Concede à Indústria Mineradora Pagliato Limitada, o direito de lavrar calcário no Município de Guapiara, Estado de São Paulo.

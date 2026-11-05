@@ -1,5 +1,3 @@
-###DEC-060767-0-000-29-05-1967@@@
-
 DECRETO Nº 60.767, DE 29 DE MAIO DE 1967.
 
 Extingue o Consulado Geral do Brasil em Copenhague.

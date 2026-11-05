@@ -1,5 +1,3 @@
-###DEC-058702-0-000-23-06-1966@@@
-
 decreto nº 58.702, de 23 de junho de 1966.
 
 Altera o Regulamento para a concessão da Ordem de Rio Branco.
@@ -40,7 +38,25 @@ B - Quadro Suplementar, destinado aos funcionários aposentados da Carreira de D
 
 § 2º O Quadro Ordinário terá o seguinte efetivo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grã-Cruz ................................................................................................................................</span></p></td><td style="width:24pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grande Oficial ........................................................................................................................</span></p></td><td style="width:24pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comendador ..........................................................................................................................</span></p></td><td style="width:24pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Oficial .....................................................................................................................................</span></p></td><td style="width:24pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cavaleiro ...............................................................................................................................</span></p></td><td style="width:24pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td></tr></tbody></table>
+Grã-Cruz ................................................................................................................................
+
+15
+
+Grande Oficial ........................................................................................................................
+
+20
+
+Comendador ..........................................................................................................................
+
+20
+
+Oficial .....................................................................................................................................
+
+30
+
+Cavaleiro ...............................................................................................................................
+
+30
 
 § 3º O Diplomata do Quadro Ordinário é transferido automàticamente para o Suplementar, quando aposentado;
 
@@ -76,13 +92,45 @@ Cavaleiros - Oficiais de patentes abaixo das precedentemente citadas, Segundos e
 
 Art. 12 Para a admissão no Quadro Suplementar da Ordem, os servidores públicos brasileiros deverão contar, no mínimo, o tempo de serviço estipulado a seguir, segundo o grau proposto:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cavaleiro ..........................................................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Oficial ................................................................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comendador .....................................................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grande Oficial ...................................................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>35 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grã-Cruz ...........................................................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30 anos</span></p></td></tr></tbody></table>
+Cavaleiro ..........................................................................................................................
+
+10 anos
+
+Oficial ................................................................................................................................
+
+25 anos
+
+Comendador .....................................................................................................................
+
+20 anos
+
+Grande Oficial ...................................................................................................................
+
+35 anos
+
+Grã-Cruz ...........................................................................................................................
+
+30 anos
 
 Parágrafo único. A promoção ao grau superior será feita sem exigências de tempo de serviço, obedecido apenas o interstício fixado no art. 14 abaixo.
 
 Art. 14 Os  interstícios para promoção nos Quadros da Ordem serão os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cavaleiro a Oficial ......................................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Oficial a Comendador .................................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Comendador a Grande Oficial ....................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Grande Oficial a Grã-Cruz .........................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 anos</span></p></td></tr></tbody></table>
+De Cavaleiro a Oficial ......................................................................................................
+
+2 anos
+
+De Oficial a Comendador .................................................................................................
+
+3 anos
+
+De Comendador a Grande Oficial ....................................................................................
+
+4 anos
+
+De Grande Oficial a Grã-Cruz .........................................................................................
+
+5 anos
 
 Parágrafo único. Farão parte igualmente dêste Quadro Suplementar os diplomatas membros da Ordem que tenham sido aposentados na carreira e serão transferidos automàticamente para o Quadro, no grau correspondente.
 

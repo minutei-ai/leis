@@ -1,5 +1,3 @@
-###DEC-093620-0-000-25-11-1986@@@
-
 DECRETO Nº 93.620, DE 25 DE NOVEMBRO DE 1986
 
 Outorga concessão à RÁDIO BAHIA NORDESTE DE PAULO AFONSO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Paulo Afonso, Estado da Bahia.

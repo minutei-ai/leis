@@ -1,5 +1,3 @@
-###DEC-080985-0-000-12-12-1977@@@
-
 Decreto nº 80.985, de 12 de dezembro de 1977.
 
 Concede à BRAMINEX - Brasileira de Mármore Exportadora Ltda. o direito de lavrar mármore no Município de Cachoeira de Itapemirim, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-005500-0-000-29-07-2005@@@
-
 DECRETO Nº 5.500, DE 29 DE JULHO DE 2005.
 
        Dispõe sobre adoção de planos de reposição de trabalho para compensar faltas ao serviço em decorrência da participação de servidores em paralisação de serviços públicos, e dá outras providências.
@@ -23,5 +21,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 1º.8.2005

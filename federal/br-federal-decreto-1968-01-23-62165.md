@@ -1,5 +1,3 @@
-###DEC-062165-0-000-23-01-1968@@@
-
 DECRETO Nº 62.165, de 23 de Janeiro de 1968.
 
 Revogada o art. 2º, item VII, e o art. 11 do Regimento do Gabinete do Ministro da Justiça, aprovado pelo Decreto nº 59.045, de 10 de agôsto de 1966.

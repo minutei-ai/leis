@@ -1,5 +1,3 @@
-###DEC-081665-0-000-16-05-1978@@@
-
 Decreto nº 81.665, de 16 de maio de 1978.
 
 Concede reconhecimento ao curso de Educação Física, da Faculdade de Educação Física e Desportos de Blumenau, com sede na cidade de Blumenau, Estado de Santa Catarina.

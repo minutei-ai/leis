@@ -1,5 +1,3 @@
-###DEC-001953-0-000-10-07-1996@@@
-
 DECRETO Nº 1.953, DE 10 DE JULHO DE 1996.
 
 Institui o Sistema Nacional de Desenvolvimento das Atividades Espaciais - SINDAE e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082680-0-000-21-11-1978@@@
-
 DECRETO Nº 82.680, DE 21 DE NOVEMBRO DE 1978
 
 Declara sem efeito o Decreto nº 18.019, de 07 de março de 1945, retificado pelo Decreto nº 31.504, de 02 de outubro de 1952, que autorizou o cidadão brasileiro Brazílio Vieira Barbosa a lavrar argila refratária e associados no Município de São Paulo, Estado de São Paulo.

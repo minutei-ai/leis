@@ -1,5 +1,3 @@
-###DEL-004181-0-000-16-03-1942@@@
-
 DECRETO-LEI N. 4.181 – DE 16 DE MARÇO DE 1942
 
 Dispõe sobre a criação de Secções de Estatística Militar e dá outras providências.

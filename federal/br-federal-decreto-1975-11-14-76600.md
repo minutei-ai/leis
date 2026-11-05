@@ -1,5 +1,3 @@
-###DEC-076600-0-000-14-11-1975@@@
-
 DECRETO Nº 76.600, de 14 DE NOVEMBRO DE 1975.
 
 Altera dispositivos do Decreto número 68.099, de 20 de janeiro de 1971, com a redação dada pelo Decreto nº 74.099, de 23 de maio de 1974, que criou a Comissão Brasileira de Atividade Espaciais (COBAE) .

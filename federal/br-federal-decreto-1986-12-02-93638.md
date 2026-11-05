@@ -1,5 +1,3 @@
-###DEC-093638-0-000-02-12-1986@@@
-
 DECRETO Nº 93.638, DE 2 DE DEZEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO BAHIANA DE JEQUIÉ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Jequié, Estado da Bahia.

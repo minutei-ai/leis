@@ -1,5 +1,3 @@
-###DEC-096014-0-000-06-05-1988@@@
-
 DECRETO N° 96.014, DE 06 DE MAIO DE 1988
 
 Outorga concessão à RÁDIO PLACAR LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Ortigueira, Estado do Paraná.

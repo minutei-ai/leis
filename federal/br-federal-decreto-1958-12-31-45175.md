@@ -1,5 +1,3 @@
-###DEC-045175-0-000-31-12-1958@@@
-
 DecretO nº 45.175, de 31 de dezembro de 1958.
 
 Concede à Mineração Federal, S.A. autorização para continuar a funcionar como emprêsa de mineração.

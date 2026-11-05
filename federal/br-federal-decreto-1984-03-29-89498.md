@@ -1,5 +1,3 @@
-###DEC-089498-0-000-29-03-1984@@@
-
 Decreto nº 89.498 de 29 de março de 1984
 
 Altera  dispositivo do Regulamento dos Comandos Aéreos Regionais e dá outras providências.

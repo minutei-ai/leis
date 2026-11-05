@@ -1,5 +1,3 @@
-###DEC-057293-0-000-19-11-1965@@@
-
 DECRETO Nº 57.293, de 19 de novembro de 1965.
 
 Delega poderes ao Chefe do Gabinete Militar da Presidência da República, para autorizar a realização de coleta de preços e concorrência administrativa e dispensa de concorrência, na forma prevista nas letras c e e, item IV, do artigo 1º da Lei número 4.401, de 10 de setembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-071091-0-000-13-09-1972@@@
-
 DECRETO Nº 71.091, DE 13 DE SETEMBRO DE 1972
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão, no Estado de Goiás.

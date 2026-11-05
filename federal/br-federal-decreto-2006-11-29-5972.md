@@ -1,5 +1,3 @@
-###DEC-005972-0-000-29-11-2006@@@
-
 DECRETO Nº 5.972 DE 29 DE NOVEMBRO DE 2006.
 
 Dá nova redação aos arts. 13 e 16 do Plano Geral de Metas para a Universalização do Serviço Telefônico Fixo Comutado Prestado no Regime Público - PGMU, aprovado pelo Decreto no 4.769, de 27 de junho de 2003.
@@ -55,5 +53,3 @@ Brasília, 29 de novembro de 2006; 185o da Independência e 118o da República.
 JOSÉ ALENCAR GOMES DA SILVA
 
          Fernando Rodrigues Lopes de Oliveira
-
-Este texto não substitui o publicado no DOU de 30.11.2006

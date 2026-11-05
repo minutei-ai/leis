@@ -1,5 +1,3 @@
-###DEC-000000-0-088-11-11-1822@@@
-
 DECRETO - DE 11 DE NOVEMBRO DE 1822
 
 Regula a expedição das patentes dos Officiaes de Milícias e Ordenanças.

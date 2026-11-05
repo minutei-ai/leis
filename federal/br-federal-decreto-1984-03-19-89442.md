@@ -1,5 +1,3 @@
-###DEC-089442-0-000-19-03-1984@@@
-
 decreto nº 89.442, de 19 de março de 1984.
 
 Dispõe sobre o montante do Capital Social da Petróleo Brasileira S/A - PETROBRÁS.

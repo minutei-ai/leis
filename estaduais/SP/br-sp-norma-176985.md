@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/176985)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2016/compilacao-lei.complementar-1280-13.01.2016.html)
 
 # LEI COMPLEMENTAR N° 1.280, DE 13 DE JANEIRO DE 2016
@@ -7,7 +6,8 @@
 
 ### _Institui a Diária Especial por Jornada Extraordinária de Trabalho Policial Civil - DEJEC, aos integrantes da Polícia Civil do Estado, e dá providências correlatas_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
 ~~Artigo 1° - Fica instituída a Diária Especial por Jornada Extraordinária de Trabalho Policial Civil - DEJEC aos integrantes da Polícia Civil do Estado, em exercício nas Organizações Policiais Civis.~~
@@ -70,17 +70,30 @@ _\- Artigo 6° com redação dada pela [Lei n° 18.440, de 02/04/2026](https://w
 
 _\- Artigo 7° com redação dada pela [Lei n° 18.440, de 02/04/2026](https://www.al.sp.gov.br/norma/212441)._
 
-**Artigo 8° -** A realização da DEJEC fica condicionada a autorização anual governamental, observada a disponibilidade orçamentária e financeira, ouvidas, previamente, as Secretarias da Fazenda e de Planejamento e Gestão.**<br>
-Artigo 9° -** As despesas resultantes da aplicação desta lei complementar correrão à conta das dotações próprias consignadas no orçamento vigente.**<br>
-Artigo 10 -** Esta lei complementar entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 13 de janeiro de 2016.<br>
-GERALDO ALCKMIN<br>
-Alexandre de Moraes<br>
-Secretário da Segurança Pública<br>
-Renato Villela<br>
-Secretário da Fazenda<br>
-Marcos Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Edson Aparecido dos Santos<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo 8° -** A realização da DEJEC fica condicionada a autorização anual governamental, observada a disponibilidade orçamentária e financeira, ouvidas, previamente, as Secretarias da Fazenda e de Planejamento e Gestão.**
+
+Artigo 9° -** As despesas resultantes da aplicação desta lei complementar correrão à conta das dotações próprias consignadas no orçamento vigente.**
+
+Artigo 10 -** Esta lei complementar entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 13 de janeiro de 2016.
+
+GERALDO ALCKMIN
+
+Alexandre de Moraes
+
+Secretário da Segurança Pública
+
+Renato Villela
+
+Secretário da Fazenda
+
+Marcos Monteiro
+
+Secretário de Planejamento e Gestão
+
+Edson Aparecido dos Santos
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 13 de janeiro de 2016.

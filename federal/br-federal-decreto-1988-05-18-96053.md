@@ -1,5 +1,3 @@
-###DEC-096053-0-000-18-05-1988@@@
-
 DECRETO Nº 96.053, DE 18 DE MAIO DE 1988
 
 Outorga concessão à JURUÁ COMUNICAÇÕES LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Carauari, Estado do Amazonas.

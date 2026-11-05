@@ -1,5 +1,3 @@
-###DEC-075283-0-000-23-01-1975@@@
-
 DECRETO Nº 75.283, DE 23 DE JANEIRO DE 1975.
 
 Dispõe sobre a destinação, no exercício de 1975, dos recursos para execução do Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste (PROTERRA).

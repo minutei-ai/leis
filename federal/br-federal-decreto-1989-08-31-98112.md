@@ -1,5 +1,3 @@
-###DEC-098112-0-000-31-08-1989@@@
-
 DECRETO Nº 98.112, DE 31 DE AGOSTO DE 1989
 
 Renova a concessão outorgada a RÁDIO CIDADE AM DE VOTUPORANGA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Votuporanga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-045029-0-000-04-12-1958@@@
-
 DECRETO Nº 45.029, DE 4 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão da Companhia Hidro Elétrica do São Francisco, de 66 kV, de Angelim a Maceió, nos Estados de Pernambuco e Alagoas.
@@ -249,8 +247,6 @@ Rio de Janeiro, 4 de dezembro de 1958; 137º da Independência e 70º da Repúbl
 Juscelino Kubitschek
 
 Mário Meneghetti
-
-###DEC-045029-0-000-04-12-1958@@@RET01+++
 
 DECRETO Nº 45.029, DE 4 DE DEZEMBRO DE 1958.
 

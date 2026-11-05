@@ -14,12 +14,14 @@ Art. 2º Altera o art. 63  da Lei n. 5.727/2009, de 11 de dezembro de 2009, que
 
 § 2º Não se incluem na base de cálculo do imposto:
 
-I - o valor dos materiais produzidos pelo prestador fora do local da prestação dos serviços, previstos no itens 7.02 e 7.05 da Lista de Serviços Tributáveis (que fica sujeito ao ICMS).<br>
+I - o valor dos materiais produzidos pelo prestador fora do local da prestação dos serviços, previstos no itens 7.02 e 7.05 da Lista de Serviços Tributáveis (que fica sujeito ao ICMS).
+
 II - o valor das subempreitadas já tributadas pelo imposto.”
 
 Art. 3º Altera o art. 76  da Lei n. 5.727/2009, de 11 de dezembro de 2009, que passa a apresentar a seguinte redação:
 
-“Art. 76. As alíquotas para cálculo do imposto são:<br>
+“Art. 76. As alíquotas para cálculo do imposto são:
+
 I  - ..............................................................................................
 
 II - sobre serviços prestados pelo próprio contribuinte, constantes da lista de serviços tributáveis do artigo 55, deste Código:
@@ -28,16 +30,20 @@ a) .............................................................................
 
 b) ...............................................................................................
 
-c) ...............................................................................................<br>
-d) 05% (cinco por cento):<br>
+c) ...............................................................................................
+
+d) 05% (cinco por cento):
+
 itens “02” (dois) - “03” (três) - “07” (sete), exceto os subitens 7.02 e 7.05 - “10” (dez) - “12” (doze) exceto os subitens “12.01, 12.02 e 12.08” “13” (treze) - “15” (quinze) - “18” (dezoito) - “19” (dezenove) - “20” (vinte) - “21” (vinte e um) - “22” (vinte de dois) -“23” (vinte e três) - “25” (vinte e cinco)  - “26” (vinte e seis) - “28” (vinte e oito) - “32” (trinta e dois)  e “34” (trinta e quatro);subitens “17.08, 17.11, 17.22 e 1723”.
 
-e)  03,50% (três vírgula cinqüenta por cento):<br>
+e)  03,50% (três vírgula cinqüenta por cento):
+
 Os subitens 7.02 e 7.05 do item 07 (sete)”
 
 Art. 2º Altera o art. 239  da Lei n. 5.727/2009, de 11 de dezembro de 2009, que passa a apresentar a seguinte redação:
 
-“Art. 239. O procedimento fiscal tem início com:<br>
+“Art. 239. O procedimento fiscal tem início com:
+
 I - ...............................................................................................
 
 a) ...............................................................................................

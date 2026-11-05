@@ -1,5 +1,3 @@
-###DEC-007703-0-000-20-03-2012-PUB-01@@@
-
 DECRETO Nº 7.703, DE 20 DE MARÇO DE 2012
 
 Altera o Decreto nº 4.130, de 13 de fevereiro de 2002, que aprova o Regulamento e o Quadro Demonstrativo dos Cargos Comissionados e dos Cargos Comissionados Técnicos da Agência Nacional de Transportes Terrestres - ANTT.

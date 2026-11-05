@@ -24,19 +24,53 @@ Art. 2º Fica suprimida, no mesmo Quadro e Ministério, a função gratificada d
 
 Art. 3º Fica aberto o crédito suplementar de 2.978.400,00 (dois milhões, novecentos e setenta e oito mil e quatrocentos cruzeiros) às seguintes dotações do anexo 16 – Ministério da Fazenda – do Orçamento Geral da República (Decreto-lei nº 6.143, de 29 de dezembro de 1943) :
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VERBA 1 – PESSOAL</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Consignação</span><span> II – Pessoal Extranumerário</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Subconsignação 05 – Mensalistas</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>04 – Diretoria Geral da Fazenda Nacional</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:21.3pt"><span style="-aw-import:spaces">&nbsp;</span><span>06 – Serviço do Pessoal ............................................................................................... Cr$ 1.963.800,00</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Consignaçã</span><span>o III – Vantagens</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Subconsignação 09 – Funções Gratificadas</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>04 – Diretoria Geral da Fazenda Nacional</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:21.3pt"><span style="-aw-import:spaces">&nbsp;</span><span>06 – Serviço do Pessoal..................................................................................................... Cr$ 39.600,00</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Consignação </span><span>IV – Indenizações</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Subconsignação 23 – Diárias</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>04 – Diretoria Geral da Fazenda Nacional</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:21.3pt"><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>06 – Serviço do Pessoal ................................................................................................. Cr$ 50.000,00</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">VERBA 2 – MATERIAL</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Consignação </span><span style="font-size:10pt">ll</span><span style="font-size:10pt"> – Material de Consumo</span></p></td></tr></tbody></table>
+VERBA 1 – PESSOAL
+
+Consignação II – Pessoal Extranumerário
+
+Subconsignação 05 – Mensalistas
+
+04 – Diretoria Geral da Fazenda Nacional
+
+06 – Serviço do Pessoal ............................................................................................... Cr$ 1.963.800,00
+
+Consignação III – Vantagens
+
+Subconsignação 09 – Funções Gratificadas
+
+04 – Diretoria Geral da Fazenda Nacional
+
+06 – Serviço do Pessoal..................................................................................................... Cr$ 39.600,00
+
+Consignação IV – Indenizações
+
+Subconsignação 23 – Diárias
+
+04 – Diretoria Geral da Fazenda Nacional
+
+06 – Serviço do Pessoal ................................................................................................. Cr$ 50.000,00
+
+VERBA 2 – MATERIAL
+
+Consignação ll – Material de Consumo
 
 Subconsignação 17 – Artigos de expediente, desenho, ensino e educação; artigos escolares para
 
 distribuição; fichas e livros de escrituração; impressos e material de              classificação, inclusive fichas bibliográficas e de referência
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>27 – Divisão do Impôsto de Renda e Delegacias..................................................... Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>575.000,00</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Consignação III – Diversas Despesas</span></p></td></tr></tbody></table>
+27 – Divisão do Impôsto de Renda e Delegacias..................................................... Cr$   575.000,00
+
+Consignação III – Diversas Despesas
 
 Subconsignação 29 – Acondicionamento e embalagem; armazenagem, carretos, estivas e
 
 capatazias; transporte de encomendas, cargas e animais, alojamento e alimentação dêstes e de seus tratadores em viagem; seguros de transporte
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>27 – Divisão do Impôsto de Renda e Delegacias...........................................</span><span>.............. Cr$ 300.000,00</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Subconsignação 41 – Passagens, transporte de pessoal e de suas bagagens</span></p></td></tr><tr><td style="width:481.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>27 – Divisão do Impôsto de Renda e Delegacias......................................................... Cr$ 50.000,00</span></p></td></tr></tbody></table>
+27 – Divisão do Impôsto de Renda e Delegacias......................................................... Cr$ 300.000,00
+
+Subconsignação 41 – Passagens, transporte de pessoal e de suas bagagens
+
+27 – Divisão do Impôsto de Renda e Delegacias......................................................... Cr$ 50.000,00
 
 Art. 4º Êste Decreto-lei entra em vigor na data de sua publicação.
 

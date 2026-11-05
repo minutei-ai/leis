@@ -1,5 +1,3 @@
-###MPV-001985-0-026\-06-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-26, DE 6 de abril DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

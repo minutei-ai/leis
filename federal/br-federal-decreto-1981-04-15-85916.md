@@ -1,5 +1,3 @@
-###DEC-085916-0-000-15-04-1981@@@
-
 Decreto nº 85.916, de 15 de abril de 1981.
 
 Dispõe sobre as atividades da Administração Pública Federal nas Regiões Metropolitanas, e dá outras providências.

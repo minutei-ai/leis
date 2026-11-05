@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69096)
-
 # LEI Nº 12.405, DE 11 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 455/2006, do Deputados Cândido Vaccarezza - PT e outros)

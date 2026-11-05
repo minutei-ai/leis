@@ -1,5 +1,3 @@
-###DEC-073054-0-000-31-10-1973@@@
-
 DECRETO Nº 73.054, DE 31 DE OUTUBRO DE 1973.
 
 Torna sem efeito redistribuição, com o respectivo ocupante, de cargo do Ministério dos Transportes para o Ministério da Saúde.

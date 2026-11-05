@@ -1,5 +1,3 @@
-###DEC-069978-0-000-20-01-1972@@@
-
 Decreto Nº 69.978, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Escola de Aperfeiçoamento da Aeronáutica Civil, com sede no Rio de Janeiro, Estado da Guanabara.

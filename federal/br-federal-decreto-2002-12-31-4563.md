@@ -1,5 +1,3 @@
-###DEC-004563-0-000-31-12-2002@@@
-
 DECRETO Nº 4.563, DE 31 DE DEZEMBRO DE 2002.
 
 Altera o Regulamento aprovado pelo Decreto no 57.690, de 1o de fevereiro de 1966, para a execução da Lei no 4.680, de 18 de junho de 1965.
@@ -20,5 +18,6 @@ Altera o Regulamento aprovado pelo Decreto no 57.690, de 1o de fevereiro de 1966
 
         Brasília, 31 de dezembro de 2002; 181o da Independência e 114o da República.
 
-FERNANDO HENRIQUE CARDOSO<br>
+FERNANDO HENRIQUE CARDOSO
+
 Euclides Scalco

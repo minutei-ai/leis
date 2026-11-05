@@ -1,5 +1,3 @@
-###DEC-005542-0-000-20-09-2005@@@
-
 DECRETO Nº 5.542, DE 20 DE SETEMBRO DE 2005
 
 Institui o Projeto Cidadão Conectado - Computador para Todos, no âmbito do Programa de Inclusão Digital, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072027-0-000-29-03-1973@@@
-
 DECRETO Nº 72.027, DE 29 DE MARÇO DE 1973.
 
 Concede a PLUMBUM S. A. Indústria Brasileira de Mineração o direito de lavrar minério de chumbo no Município de Adrianópolis, Estado do Paraná.

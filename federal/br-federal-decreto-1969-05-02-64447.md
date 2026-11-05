@@ -1,5 +1,3 @@
-###DEC-064447-0-000-02-05-1969@@@
-
 DECRETO Nº 64.447, DE 2 DE MAio DE 1969.
 
 Altera os Estatutos da Fundação Nacional do Índio.

@@ -1,5 +1,3 @@
-###DEC-054513-0-000-21-10-1964@@@
-
 DECRETO Nº 54.513, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Antônio Meira a pesquisar diamante, ouro e quartzo, no município de Diamantina, Estado de Minas Gerais.

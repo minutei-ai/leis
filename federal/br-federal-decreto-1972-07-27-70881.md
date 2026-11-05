@@ -1,5 +1,3 @@
-###DEC-070881-0-000-27-07-1972@@@
-
 DECRETO Nº 70.881, DE 27 DE JULHO DE 1972.
 
 Declara de utilidade pública as instituições que menciona.

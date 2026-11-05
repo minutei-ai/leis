@@ -1,5 +1,3 @@
-###DEC-091193-0-000-12-04-1985@@@
-
 Decreto nº 91.193, de 12 de abril de 1985.
 
 Autoriza o funcionamento do curso de Administração do Instituto Santareno de Ensino Superior.

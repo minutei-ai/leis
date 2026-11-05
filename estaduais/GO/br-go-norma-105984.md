@@ -1,5 +1,6 @@
-LEI Nº 21.528, DE 4 DE AGOSTO DE 2022<br>
-[\- Revogado pela Lei n. 21.705, de 15-12-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106463/lei-21705)<br>
+LEI Nº 21.528, DE 4 DE AGOSTO DE 2022
+
+[\- Revogado pela Lei n. 21.705, de 15-12-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106463/lei-21705)
 
 ~~Dispõe sobre a afixação permanente de placas ou cartazes nos estabelecimentos que comercializam carnes.~~
 
@@ -16,8 +17,6 @@ LEI Nº 21.528, DE 4 DE AGOSTO DE 2022<br>
 ~~Art. 5º Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publicação.~~
 
 Goiânia, 4 de agosto de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

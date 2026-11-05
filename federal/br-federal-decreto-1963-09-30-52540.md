@@ -1,5 +1,3 @@
-###DEC-052540-0-000-30-09-1963@@@
-
 DECRETO Nº 52.540, DE 30 DE SETEMBRO DE 1963.
 
 Transfere da Prefeitura Municipal de São Tiago para Centrais Elétricas de Minas Gerais S. A. a concessão para transmitir e distribuir energia elétrica no município.

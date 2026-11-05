@@ -1,5 +1,3 @@
-###DEC-047464-0-000-22-12-1959@@@
-
 DECRETO Nº 47.464, DE 22 DE DEZEMBRO DE 1959.
 
 Transfere função da extinta Tabela Numérica Especial de Extranumerário-mensalista da Rêde de Viação Cearense para a Parte Suplementar da Tabela Única de Extranumerário-Mensalista do Ministério da Saúde.

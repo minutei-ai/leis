@@ -1,5 +1,3 @@
-###DEL-004572-0-000-12-08-1942@@@
-
 DECRETO-LEI N. 4.572 – DE 12 DE AGOSTO DE 1942
 
 Abre, pelo Conselho de Imigração e Colonização, o crédito especial de 30:000$0 e torna sem aplicação igual quantia em dotação, que especifica, do orçamento em vigor.

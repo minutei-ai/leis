@@ -1,7 +1,3 @@
-1
-
-###DEC-099052-0-000-07-03-1990@@@
-
 DECRETO Nº 99.052, DE 7 DE MARÇO DE 1990
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “BOM LUGAR” conhecido como “OITIS”, situa­do no Município de Pedra Branca, Estado do Ceará, e dá outras providências.

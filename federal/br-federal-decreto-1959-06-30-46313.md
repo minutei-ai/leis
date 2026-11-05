@@ -1,5 +1,3 @@
-###DEC-046313-0-000-30-06-1959@@@
-
 DECRETO Nº 46.313, DE 30 DE junho DE 1959.
 
 Autoriza o cidadão brasileiro Moacyr Rodrigues Pereira a pesquisar mica e quartzo, no município Galiléia, Estado de Minas Gerais.

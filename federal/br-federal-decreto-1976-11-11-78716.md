@@ -1,5 +1,3 @@
-###DEC-078716-0-000-11-11-1976@@@
-
 DECRETO Nº 78.716, DE 11 DE NOVEMBRO DE 1976.
 
 Concede à Petróleo Brasileiro S.A. - PETROBRÁS o direito de lavrar silvinita, carnalita, salgema e taquidrita nos Municípios de Capela, Japaratuba, Siriri, Japoatã, Rosário do Catete, General Maynard, Malhador, Santa Rosa de Lima, Divina Pastora, Carmópolis, Nossa Senhora das Dores e Moita Bonita, Estado de Sergipe.

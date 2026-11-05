@@ -1,5 +1,3 @@
-###DEL-006330-0-000-09-03-1944@@@
-
 DECRETO-LEI N. 6.330 – DE 9 DE MARÇO DE 1944
 
 Isenta de direitos de importação, imposto de consumo e demais taxas aduaneiras os salvados constituídos por borracha e seus artefatos, adquiridos pelo Banco de Crédito da Borracha S. A.

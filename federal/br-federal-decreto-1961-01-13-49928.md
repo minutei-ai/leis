@@ -1,5 +1,3 @@
-###DEC-049928-0-000-13-01-1961@@@
-
 DECRETO Nº 49.928, DE 13 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Ubirajara Keutenedjian a pesquisar mármore no município de Cerro Azul, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-075447-0-000-06-03-1975@@@
-
 DECRETO Nº 75.447, DE 6 DE MARÇO DE 1975.
 
 Autoriza o funcionamento da Escola superior de Tecnologia de Criciúma, mantida pela Fundação Educacional de Criciúma, com sede na cidade de Criciúma, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-054234-0-000-02-09-1964@@@
-
 DECRETO Nº 54.234, DE 2 DE SETEMBRO DE 1964.
 
 Concede reconhecimento à Faculdade Católica de Medicina de Pôrto Alegre, Estado do Rio Grande do Sul.

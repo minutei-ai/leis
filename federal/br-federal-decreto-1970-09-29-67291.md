@@ -1,5 +1,3 @@
-###DEC-067291-0-000-29-09-1970@@@
-
 decreto nº 67.291, de 29 de setembro de 1970.
 
 Concede reconhecimento a Cursos da Faculdade de Filosofia, Ciências e Letras de Mogi das Cruzes, S.P.

@@ -1,5 +1,3 @@
-###DEC-060376-0-000-11-03-1967@@@
-
 DECRETO Nº 60.376, DE 11 DE MARÇO DE 1967.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 48.956, de 16 de setembro de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Cocorobó, no Município de Euclides da Cunha, Estado da Bahia.

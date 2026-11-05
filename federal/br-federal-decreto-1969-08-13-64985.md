@@ -1,5 +1,3 @@
-###DEC-064985-0-000-13-08-1969@@@
-
 decreto nº 64.985 - de 13 de agôsto de 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal, Parte Permanente, do Ministério das Relações Exteriores, cargo originário do Quadro de Pessoal Parte Permanente, do Ministério da Marinha.

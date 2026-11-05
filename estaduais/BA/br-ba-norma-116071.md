@@ -10,29 +10,33 @@ Art. 2º - O empréstimo previsto nesta lei será resgatado em 10 (dez) anos, in
 
 Art. 3º - Os orçamentos dos exercícios de 1978 a 1984 consignarão as dotações necessárias ao pagamento das seguintes importâncias em dólar americano, ou o equivalente em outras moedas, ao câmbio então vigente, para os serviços de amortização do empréstimo autorizado nesta lei:
 
-<table border="1" cellspacing="0" cellpadding="0" width="227" style="width:170.1pt;
- margin-left:127.6pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0in 3.5pt 0in 3.5pt"><tbody><tr><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>1978<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>US$1.428.571,43<quebra></quebra></span></p></td></tr><tr><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>1979<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>US$1.428.571,43<quebra></quebra></span></p></td></tr><tr><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>1980<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>US$1.428.571,43<quebra></quebra></span></p></td></tr><tr><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>1981<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>US$1.428.571,43<quebra></quebra></span></p></td></tr><tr><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>1982<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>US$1.428.571,43<quebra></quebra></span></p></td></tr><tr><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>1983<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>US$1.428.571,43<quebra></quebra></span></p></td></tr><tr><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>1984<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>US$1.428.571,42<quebra></quebra></span></p></td></tr></tbody></table>
+1978<quebra></quebra>
+
+US$1.428.571,43<quebra></quebra>
+
+1979<quebra></quebra>
+
+US$1.428.571,43<quebra></quebra>
+
+1980<quebra></quebra>
+
+US$1.428.571,43<quebra></quebra>
+
+1981<quebra></quebra>
+
+US$1.428.571,43<quebra></quebra>
+
+1982<quebra></quebra>
+
+US$1.428.571,43<quebra></quebra>
+
+1983<quebra></quebra>
+
+US$1.428.571,43<quebra></quebra>
+
+1984<quebra></quebra>
+
+US$1.428.571,42<quebra></quebra>
 
 Parágrafo único - Os orçamentos anuais consignarão, também,as verbas necessárias aos serviços de pagamento dos juros calculados à taxa interbancária de Londres, reajustável semestralmente, acrescida de uma sobretaxa não superior a 1,75% ao ano.
 

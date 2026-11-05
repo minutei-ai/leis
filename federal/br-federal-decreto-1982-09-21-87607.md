@@ -1,5 +1,3 @@
-###DEC-087607-0-000-21-09-1982@@@
-
 Decreto nº 87.607, de 21 de setembro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO CARIRI S/A., autoriza a transferência direta para a SOCIEDADE RÁDIO DA PARAÍBA LIMITADA., que passará a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Campina Grande, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-073799-0-000-12-03-1974@@@
-
 DECRETO Nº 73.799, DE 12 DE MARÇO DE 1974.
 
 Autoriza a contratação de operações de crédito, para os projetos de Água Vermelha e Ilha Solteira.

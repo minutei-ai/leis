@@ -1,5 +1,3 @@
-###DEC-059062-0-000-11-08-1966@@@
-
 DECRETO Nº 59.062, DE 11 DE AGÔSTO DE 1966.
 
 Autoriza o cidadão brasileiro José Pereira de Queiroz a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

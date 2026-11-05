@@ -1,5 +1,3 @@
-###DEC-047133-0-000-27-10-1959@@@
-
 DECRETO Nº 47.133, DE 27 DE OUTUBRO DE 1959.
 
 Concede reconhecimento do curso de Ciências Econômicas da Faculdade de Ciências Econômicas de Marília.

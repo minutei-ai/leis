@@ -1,5 +1,3 @@
-###DEL-006391-0-000-31-03-1944@@@
-
 DECRETO-LEI N. 6.391 – DE 31 DE MARÇO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 3.682.418,00, para liquidação de compromissos

@@ -1,5 +1,3 @@
-###DEC-060583-0-000-11-04-1967@@@
-
 Decreto nº 60.583, de 11 de abril de 1967.
 
 Declara de utilidade pública o “Instituto Irmãs Missionárias de Nossa Senhora Consoladora”, com sede em São Paulo, Estado de São Paulo.

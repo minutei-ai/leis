@@ -1,5 +1,3 @@
-###DEC-045036-0-000-05-12-1958@@@
-
 DECRETO Nº 45.036, DE 5 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública, para fins de desapropriação pelo 2º Batalhão Ferroviário, faixa de terreno necessária à construção de trecho ferroviário localizado em Mafra, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-066508-0-000-28-04-1970@@@
-
 Decreto nº 66.508, de 28 de abril de 1970.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas e Administrativas de Presidente Prudente com os Cursos de Ciências Contábeis e Administração de Emprêsas.

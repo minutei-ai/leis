@@ -1,5 +1,3 @@
-###DEC-079560-0-000-20-04-1977@@@
-
 DECRETO Nº 79.560, DE 20 DE ABRIL DE 1977.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras "Eugênio Pacelli", com sede na cidade de Pouso Alegre, Estado de Minas Gerais.

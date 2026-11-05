@@ -1,5 +1,3 @@
-###DEC-051580-0-000-08-11-1962@@@
-
 DECRETO Nº 51.580, DE 8 DE NOVEMBRO DE 1962.
 
 Retifica o Decreto nº 51.336, de 13 de outubro de 1961, publicado no “Diário Oficial” de 17 de outubro de 1961.

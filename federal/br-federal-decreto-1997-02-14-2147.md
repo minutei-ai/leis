@@ -1,5 +1,3 @@
-###DEC-002147-0-000-14-02-1997@@@
-
 DECRETO Nº 2.147, DE 14 DE FEVEREIRO DE 1997
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Educação e do Desporto, e dá outras providências.

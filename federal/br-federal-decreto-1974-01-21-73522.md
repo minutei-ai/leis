@@ -1,5 +1,3 @@
-###DEC-073522-0-000-21-01-1974@@@
-
 DECRETO Nº 73.522, DE 21 DE JANEIRO DE 1974.
 
 Outorga à Mineração Curimbaba limitada concessão para o aproveitamento hidráulico de um trecho do rio Verde, no Município de Caldas, Estado de Minas Gerais.

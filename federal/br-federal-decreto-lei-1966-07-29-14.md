@@ -1,5 +1,3 @@
-###DEL-000014-0-000-29-07-1966@@@
-
 DECRETO-LEI Nº 14, DE 29 DE JULHO DE 1966
 
 Autoriza bancos privados a emitir Certificados de Depósito Bancário e dá outras providências.

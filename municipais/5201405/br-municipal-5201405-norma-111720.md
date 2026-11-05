@@ -316,10 +316,12 @@ DAS ESTAÇÕES RÁDIO BASE
 
 ~~§3º. Todas as fontes não ionizantes, com estrutura em torre, necessitam de licenciamento ambiental, licença prévia e de instalação, por caracterizarem atividades potencialmente poluidoras.~~
 
-~~§4º. Todas as antenas necessitam de licença pra funcionamento.<br>
+~~§4º. Todas as antenas necessitam de licença pra funcionamento.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
-~~Art. 47 É vedada a instalação de Estações Rádio Base (ERB), microcélulas de telefonia celular e equipamentos afins sem o devido alvará de licença, aprovado pelas secretarias responsáveis pelo licenciamento ambiental e licenciamento de obras.<br>
+~~Art. 47 É vedada a instalação de Estações Rádio Base (ERB), microcélulas de telefonia celular e equipamentos afins sem o devido alvará de licença, aprovado pelas secretarias responsáveis pelo licenciamento ambiental e licenciamento de obras.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~Art. 48 É vedada a instalação de Estações Rádio Base (ERB), microcélulas de telefonia celular e equipamentos afins nas seguintes situações:~~
@@ -330,7 +332,8 @@ DAS ESTAÇÕES RÁDIO BASE
 
 ~~III - quando o ponto de emissão de radiação da antena transmissora estiver a uma distância inferior a 50 m (cinqüenta metros) da edificação e das áreas de acesso e circulação onde estiverem instaladas clínicas, centros de saúde e hospitais e presídios.~~
 
-~~Parágrafo único. A instalação de ERB’s deverá respeitar uma distância mínima, entre elas, de 500 (quinhentos) metros em linha reta e deverão atender à obrigatoriedade de compartilhamento de torre pelas prestadoras de serviço de telecomunicações que utilizam estações transmissoras de radiocomunicação, nas situações em que o afastamento entre elas for menor do que 500 (quinhentos) metros, exceto quando houver motivo justificado.<br>
+~~Parágrafo único. A instalação de ERB’s deverá respeitar uma distância mínima, entre elas, de 500 (quinhentos) metros em linha reta e deverão atender à obrigatoriedade de compartilhamento de torre pelas prestadoras de serviço de telecomunicações que utilizam estações transmissoras de radiocomunicação, nas situações em que o afastamento entre elas for menor do que 500 (quinhentos) metros, exceto quando houver motivo justificado.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~Art. 49 O Pedido de Licenciamento para construção/instalação de Estação Rádio Base (ERB) de Telefonia Celular, Micro Células para Reprodução de Sinais e equipamentos afins deve ser protocolado junto ao setor competente na Prefeitura Municipal, instruído com os seguintes documentos:~~
@@ -375,7 +378,8 @@ DAS ESTAÇÕES RÁDIO BASE
 
 ~~§1º. Entende-se por estudos ambientais todos e quaisquer estudos relativos aos aspectos ambientais e sanitários relacionados à localização, instalação, operação e ampliação de uma atividade ou empreendimento, apresentado como subsídio para a análise da licença requerida, tais como relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e análise preliminar de risco.~~
 
-~~§2º. Poderão ser solicitados novos estudos ou documentos específicos quando o órgão competente considerar necessário.<br>
+~~§2º. Poderão ser solicitados novos estudos ou documentos específicos quando o órgão competente considerar necessário.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~Art. 50 O Estudo de Impacto será examinado pelo comitê técnico de análise de uso e ocupação do solo e diretrizes viárias, devendo o requerente apresentar relatório técnico teórico contendo:~~
@@ -386,20 +390,24 @@ DAS ESTAÇÕES RÁDIO BASE
 
 ~~XVIII – III - estimativa de densidades máximas de potência irradiada (quando se tem o número máximo de canais em operação) referentes às áreas do entorno;~~
 
-~~IV - indicação das distâncias de segurança para o atendimento dos limites expressos no art. 2º, inciso I e II, respectivamente.<br>
+~~IV - indicação das distâncias de segurança para o atendimento dos limites expressos no art. 2º, inciso I e II, respectivamente.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
-~~Art. 51 Após obtenção do alvará de funcionamento o empreendedor deverá apresentar o contrato de seguro de dano patrimonial e físico.<br>
+~~Art. 51 Após obtenção do alvará de funcionamento o empreendedor deverá apresentar o contrato de seguro de dano patrimonial e físico.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
-~~Art. 52 A fiscalização e o controle das radiações eletromagnéticas, bem como da emissão das licenças ambientais, serão de responsabilidade da secretaria responsável pelo licenciamento ambiental, podendo esta exigir laudos periódicos emitidos por profissionais habilitados a expensas do empreendedor.<br>
+~~Art. 52 A fiscalização e o controle das radiações eletromagnéticas, bem como da emissão das licenças ambientais, serão de responsabilidade da secretaria responsável pelo licenciamento ambiental, podendo esta exigir laudos periódicos emitidos por profissionais habilitados a expensas do empreendedor.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~Art. 53 As ERB’s instaladas anteriormente à publicação da presente Lei deverão ser objeto de análise de impacto ambiental e de vizinhança, bem como adequações propostas por esta Lei, para a renovação do alvará de funcionamento ou depois de vencido o licenciamento ambiental.~~
 
 ~~§1º. As desconformidades em relação ao estabelecido nesta Lei deverão ser adequadas pelo interessado imediatamente, quando se referir aos níveis de densidade de potência definidos nesta Lei, e no prazo de 12 (doze) meses, quanto aos demais critérios.~~
 
-~~§2º. Os estudos necessários ao processo de licenciamento deverão ser realizados, as expensas do empreendedor, por profissionais legalmente habilitados, serão responsáveis pelas informações apresentadas, sujeitando-se às sanções administrativas, civis e penais.<br>
+~~§2º. Os estudos necessários ao processo de licenciamento deverão ser realizados, as expensas do empreendedor, por profissionais legalmente habilitados, serão responsáveis pelas informações apresentadas, sujeitando-se às sanções administrativas, civis e penais.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~Art. 54 Para o licenciamento ambiental de ERB deverão ser observadas as seguintes disposições:~~
@@ -416,13 +424,14 @@ DAS ESTAÇÕES RÁDIO BASE
 
 ~~VI - a implantação deverá atender também os gabaritos e disposições estabelecidos pelos planos de proteção de aeródromos definidos pela União, os dispositivos legais de proteção ao patrimônio ambiental e de descargas atmosféricas segundo as normas da Associação Brasileira de Normas Técnicas (ABNT).~~
 
-~~Parágrafo único. Os casos omissos serão analisados pelos órgãos municipais competentes.<br>
+~~Parágrafo único. Os casos omissos serão analisados pelos órgãos municipais competentes.
+
 ~~(Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
-~~Art. 55 Fica instituída uma comissão de natureza consultiva, que contará com a participação de representantes da sociedade civil e de prestadores de serviço de telecomunicações, cuja finalidade é contribuir para a implementação do disposto nesta lei.~~<br>
+~~Art. 55 Fica instituída uma comissão de natureza consultiva, que contará com a participação de representantes da sociedade civil e de prestadores de serviço de telecomunicações, cuja finalidade é contribuir para a implementação do disposto nesta lei.~~
+
 (Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
-<br>
 CAPÍTULO VI
 
 DOS POSTOS DE SERVIÇOS AUTOMOBILÍSTICOS E COMÉRCIO VAREJISTA DE GLP
@@ -431,7 +440,8 @@ Art. 57 Os postos de serviços automobilísticos deverão garantir distância m�
 
 Art. 58 Fica vedada a instalação de postos para abastecimentos, troca de óleo e serviços em Zonas Especiais de Proteção Ambienta I e II (ZEPA I e II), Zona Parque e em áreas de preservação ambiental.
 
-Art. 59 Os terrenos em que serão edificados postos de abastecimento, serviços e combustíveis não poderão ser inferiores a 1.200,00m² (Hum mil e duzentos metros quadrados) com testada mínima de 30,00m (trinta metros).<br>
+Art. 59 Os terrenos em que serão edificados postos de abastecimento, serviços e combustíveis não poderão ser inferiores a 1.200,00m² (Hum mil e duzentos metros quadrados) com testada mínima de 30,00m (trinta metros).
+
 (Redação alterada pela Lei Compelemntar nº 179, de 2 de dezembro de 2020).
 
 ~~Art. 59 Os terrenos em que serão edificados postos de abastecimento, serviços e combustíveis não poderão ser inferiores a 720,00m² (setecentos e vinte metros quadrados) com testada mínima de 30,00m (trinta metros).~~
@@ -686,10 +696,12 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 09 de
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil
 
 ANEXOS

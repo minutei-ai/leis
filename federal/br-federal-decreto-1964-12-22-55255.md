@@ -1,5 +1,3 @@
-###DEC-055255-0-000-22-12-1964@@@
-
 DECRETO Nº 55.255, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Menezes de Oliveira a pesquisar quartzo e mica no município de Governador Valadares, Estado de Minas Gerais.

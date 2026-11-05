@@ -1,5 +1,3 @@
-###DEC-002162-0-000-24-02-1997@@@
-
 DECRETO Nº 2.162, DE 24 DE FEVEREIRO DE 1997
 
 Dispõe sobre o remanejamento temporário dos cargos em comissão que menciona, e dá outras providências.

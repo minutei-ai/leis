@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir na Secretaria da Fazenda, �
 
 Art. 2º - As despesas decorrentes da abertura do crédito autorizado nesta Lei correrão à conta de recursos consignados na codificação 3.05.08 - Verba 3.1.4.19-1 do orçamento em vigor.
 
-Redação de acordo com a Lei nº 2.158, de 08 de junho de 1965.<br>
+Redação de acordo com a Lei nº 2.158, de 08 de junho de 1965.
+
 Redação opriginal: "Art. 2º - As despesas decorrentes da abertura do presente crédito correrão por conta dos recursos consignados na codificação 3.05.08 - verba 1.6.21.1, do orçamento vigente."
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -25,4 +26,4 @@ Flaviano da Silva Guimarães
 
 Ivo Braga
 
-* * *
+ *

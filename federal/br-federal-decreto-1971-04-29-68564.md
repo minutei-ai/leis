@@ -1,5 +1,3 @@
-###DEC-068564-0-000-29-04-1971@@@
-
 DECRETO Nº 68.564 - DE 29 DE ABRIL DE 1971.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério da Fazenda para o Ministério das Minas e Energia, e dá outras providências.

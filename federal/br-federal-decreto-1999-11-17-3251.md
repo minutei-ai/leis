@@ -1,5 +1,3 @@
-###DEC-003251-0-000-17-11-1999@@@
-
 DECRETO Nº 3.251, DE 17 DE NOVEMBRO DE 1999.
 
 Promulga a Convenção nº 134, da Organização Internacional do Trabalho, sobre Prevenção de Acidentes de Trabalho dos Marítimos, concluída em Genebra, em 30 de outubro de 1970.

@@ -1,5 +1,3 @@
-###DEC-094609-0-000-14-07-1987@@@
-
 DECRETO N° 94.609, DE 14 DE JULHO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Seringal União", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado nos Municípios de Ariquemes e Jaru, no Estado de Rondônia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras Providências.

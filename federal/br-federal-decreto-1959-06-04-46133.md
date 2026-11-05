@@ -1,5 +1,3 @@
-###DEC-046133-0-000-04-06-1959@@@
-
 DECRETO Nº 46.133, DE 4 DE JUNHO DE 1959.
 
 Concede à “Aerolineas Argentinas” autorização para continuar a funcionar na República.

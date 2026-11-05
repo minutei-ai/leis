@@ -1,5 +1,3 @@
-###DEC-007686-0-000-01-03-2012-PUB-01@@@
-
 DECRETO N° 7.686, DE 1°\- DE MARÇO DE 2012
 
 Promulga o Acordo sobre Cooperação Financeira para o Projeto "Programa de Crédito Energias Renováveis" entre a República Federativa do Brasil e a República Federal da Alemanha.

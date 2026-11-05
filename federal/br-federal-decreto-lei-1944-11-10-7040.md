@@ -1,5 +1,3 @@
-###DEL-007040-0-000-10-11-1944@@@
-
 DECRETO-LEI N. 7.040 – DE 10 DE NOVEMBRO DE 1944
 
 Fixa efetivos dos Quadros de Oficiais do Exército

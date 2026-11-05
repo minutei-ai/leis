@@ -1,5 +1,3 @@
-###DEC-007598-0-000-07-11-2011-PUB-01@@@
-
 DECRETO Nº 7.598, DE 7 DE NOVEMBRO DE 2011
 
 Delega ao Advogado-Geral da União competência para autorizar a contratação de advogados e especialistas visando à defesa judicial e extrajudicial de interesse da União no exterior, nos termos da Lei nº 8.897, de 27 de junho de 1994.

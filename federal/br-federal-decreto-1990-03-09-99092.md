@@ -1,7 +1,3 @@
-1
-
-###DEC-099092-0-000-09-03-1990@@@
-
 DECRETO Nº 99.092, DE 9 DE MARÇO DE 1990.
 
 Promulga o Convênio para o Estabelecimento de um Depósito Franco no Porto de Rio Grande,entre a República Federativa do Brasil e a República do Paraguai.

@@ -1,5 +1,3 @@
-###DEL-009759-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.759 – DE 5 DE SETEMBRO DE 1946
 
 Dispõe sôbre a competência do Departamento de Administração do Ministério da Justiça e Negócios Interiores.

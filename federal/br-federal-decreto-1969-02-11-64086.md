@@ -1,5 +1,3 @@
-###DEC-064086-0-000-11-02-1969@@@
-
 DECRETO Nº 64.086, DE 11 DE FEVEREIRO DE 1969.
 
 Dispõe sôbre o regime de trabalho e retribuição do magistério superior federal, aprova programa de incentivo à implantação do regime de tempo integral e dedicação exclusiva, e dá outras providências.

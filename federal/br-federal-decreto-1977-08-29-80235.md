@@ -1,5 +1,3 @@
-###DEC-080235-0-000-29-08-1977@@@
-
 DECRETO Nº 80.235, DE 29 DE AGOSTO DE 1977.
 
 Concede à Cristalito do Brasil Mineração Ltda. o direito de lavrar dolomito no Município de Ouro Preto, Estado de Minas Gerais.

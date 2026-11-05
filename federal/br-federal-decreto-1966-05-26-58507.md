@@ -1,5 +1,3 @@
-###DEC-058507-0-000-26-05-1966@@@
-
 DECRETO Nº 58.507, DE 26 DE MAIO DE 1966.
 
 Retifica o Decreto nº 51.371, de 13 de dezembro de 1961, que aprovou o enquadramento dos servidores do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas, e dá outras providências.

@@ -1,30 +1,28 @@
-###DEC-030219-0-000-29-11-1951@@@
+**DECRETO Nº 30.219, DE 29 DE NOVENBRO DE 1951.**
 
-<strong>DECRETO Nº 30.219, DE 29 DE NOVENBRO DE 1951.</strong>
+***Dispõe sôbre o uniforme de Guarda Florestais do Serviço Florestal do Ministério da Agricultura.***
 
-<em><strong>Dispõe sôbre o uniforme de Guarda Florestais do Serviço Florestal do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, § 1º, da constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, § 1º, da constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o plano de uniforme para os guardas Florestais do Serviço Florestal do Ministério da Agricultura, de acôrdo com os desenhos que o acompanham o presente decreto, alterando-se, assim, parcialmente o constante do decreto-lei nº 6.344, de 15 de março de 1944.
 
-<strong>Art</strong>. 1º Fica aprovado o plano de uniforme para os guardas Florestais do Serviço Florestal do Ministério da Agricultura, de acôrdo com os desenhos que o acompanham o presente decreto, alterando-se, assim, parcialmente o constante do decreto-lei nº 6.344, de 15 de março de 1944.
+**Art**. 2º E vedado as outras comparações civis e de policiamento fiscal o uso de uniformes semelhantes ao plano aprovado por êste Decreto.
 
-<strong>Art</strong>. 2º E vedado as outras comparações civis e de policiamento fiscal o uso de uniformes semelhantes ao plano aprovado por êste Decreto.
+**Art**. 3º As insígnias não poderão Ter qualquer semelhança com as das classes armadas.
 
-<strong>Art</strong>. 3º As insígnias não poderão Ter qualquer semelhança com as das classes armadas.
+**Art**. 4º O presente decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º O presente decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 29 de novembro de 1951;130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas
 
-<strong>PLANO DE UNIFORME A QUE SE REFERE ESTE DECRETO Nº 30.219, DE 29 DE NOVEMBRO DE 1951; PARA GUARDA FLORESTAL DO MINISTÉRIO DA AGRICULTURA.</strong>
+**PLANO DE UNIFORME A QUE SE REFERE ESTE DECRETO Nº 30.219, DE 29 DE NOVEMBRO DE 1951; PARA GUARDA FLORESTAL DO MINISTÉRIO DA AGRICULTURA.**
 
 Em tecido de brim cáqui.
 

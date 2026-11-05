@@ -1,5 +1,3 @@
-###DEC-093310-0-000-30-09-1986@@@
-
 DECRETO Nº 93.310, DE 30 DE SETEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Lote Vanda", situado no Município de Água Boa, no Estado de Mato Grosso, compreendido no zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 02 de maio de 1986 e dá outras providências.

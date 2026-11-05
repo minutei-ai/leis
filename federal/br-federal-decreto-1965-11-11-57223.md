@@ -1,5 +1,3 @@
-###DEC-057223-0-000-11-11-1965@@@
-
 DECRETO Nº 57.223, DE 11 DE NOVEMBRO DE 1965.
 
 Regulamento a Lei nº 4.584, de 11 de novembro de 1964, que concede, pelo prazo de 4 (quatro ) anos, isenção dos impostos de importação e de consumo para importação do material destinado à instalação ou ampliação da indústria nacional de mecânica pesada e dá outras providências.

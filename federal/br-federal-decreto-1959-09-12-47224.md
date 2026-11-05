@@ -1,5 +1,3 @@
-###DEC-047224-0-000-12-09-1959@@@
-
 DECRETO Nº 47.224, DE 12 DE setembro DE 1959.
 
 Dispõe sôbre as vantagens do pessoal a serviço das emprêsas de navegação pertencentes ao Patrimônio Nacional e dá outra providências.

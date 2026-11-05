@@ -1,5 +1,3 @@
-###DEC-092489-0-000-24-03-1986@@@
-
 DECRETO Nº 92.489, DE 24 DE MARÇO DE 1986
 
 Dispõe sobre a estrutura básica do Ministério da Cultura e dá outras providências.

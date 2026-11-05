@@ -1,5 +1,3 @@
-###DEC-049437-0-000-06-12-1960@@@
-
 DECRETO N. 49.437 – DE 6 DE DEZEMBRO DE 1960
 
 Concede à Mineração Santana Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-069006-0-000-04-08-1971@@@
-
 DECRETO Nº 69.006, DE 4 DE AGôSTO DE 1971.
 
 Altera dispositivos do Estatuto da Caixa Econômica Federal.

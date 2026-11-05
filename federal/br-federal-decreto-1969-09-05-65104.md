@@ -1,5 +1,3 @@
-###DEC-065104-0-000-05-09-1969@@@
-
 DECRETO Nº 65.104 - DE 5 DE SETEMBRO DE 1969.
 
 Altera o Decreto nº 60.521, de 31 de março de 1967, muda denominação de Órgãos do Ministério da Aeronáutica e dá outras providências.

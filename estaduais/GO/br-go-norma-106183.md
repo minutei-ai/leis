@@ -20,21 +20,26 @@ II – Delegacia– Geral da Polícia Civil:
 
 a) Francisco José da Silva Costa Júnior, CPF nº \*\*\*.356.928-\*\*; e
 
-b) Guilherme Conde Corrêa, CPF nº \*\*\*.556.866-\*\*; e<br>
+b) Guilherme Conde Corrêa, CPF nº \*\*\*.556.866-\*\*; e
+
 \- [Redação dada pelo Decreto nº 10.186, de 29-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106542/decreto-10186).
 
 ~~b) Pedro de Aquino Morais Júnior, CPF nº \*\*\*.495.231-\*\*; e~~
 
-III – Secretaria de Estado da Saúde: Pedro de Aquino Morais Júnior, CPF nº \*\*\*.495.231– \*\*.<br>
+III – Secretaria de Estado da Saúde: Pedro de Aquino Morais Júnior, CPF nº \*\*\*.495.231– \*\*.
+
 \- [Redação dada pelo Decreto nº 10.186, de 29-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106542/decreto-10186).
 
 ~~III – Secretaria de Estado da Saúde:~~
 
-~~a) Marielli Vieira Ribeiro, CPF nº \*\*\*.240.941-\*\*; e~~<br>
+~~a) Marielli Vieira Ribeiro, CPF nº \*\*\*.240.941-\*\*; e~~
+
 \- [Revogada pelo Decreto nº 10.186, de 29-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106542/decreto-10186), art. 3º.
 
-~~b) Vinícius Lázaro Peregrino de Oliveira, CPF nº \*\*\*.395.171-\*\*~~ _~~.~~<br>
-_\- [Revogada pelo Decreto nº 10.186, de 29-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106542/decreto-10186), art. 3º._<br>
+~~b) Vinícius Lázaro Peregrino de Oliveira, CPF nº \*\*\*.395.171-\*\*~~ _~~.~~
+
+_\- [Revogada pelo Decreto nº 10.186, de 29-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106542/decreto-10186), art. 3º._
+
 _
 
 Parágrafo único. A coordenação da força-tarefa competirá à representante da Controladoria-Geral do Estado indicada na alínea “a” do inciso I deste artigo.
@@ -58,8 +63,6 @@ Art. 6º Fica determinado o prazo até 31 de dezembro de 2022 para a apresentaç
 Art. 7º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 5 de outubro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

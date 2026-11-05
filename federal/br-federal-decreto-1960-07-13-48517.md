@@ -1,5 +1,3 @@
-###DEC-048517-0-000-13-07-1960@@@
-
 DECRETO Nº 48.517, DE 13 DE JULHO DE 1960.
 
 Cria o Consulado Honorário do Brasil, em Monterrey, México.

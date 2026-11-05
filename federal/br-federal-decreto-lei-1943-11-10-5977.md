@@ -1,5 +1,3 @@
-###DEL-005977-0-000-10-11-1943@@@
-
 DECRETO‑LEI N. 5.977 – DE 10 DE NOVEMBRO DE 1943
 
 Altera a tabela do salário mínimo e dá outras providências

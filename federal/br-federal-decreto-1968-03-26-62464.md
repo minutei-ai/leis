@@ -1,5 +1,3 @@
-###DEC-062464-0-000-26-03-1968@@@
-
 DEcreto nº 62.464, de 26 de março de 1968.
 
 Concede à ELAL - Israel Airlines Limited autorização para funcionar no Brasil.

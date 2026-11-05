@@ -1,5 +1,3 @@
-###DEC-081778-0-000-12-06-1978@@@
-
 Decreto nº 81.778, de 12 de junho de 1978
 
 Autoriza o repasse de recursos provenientes de contratação de empréstimo em moeda estrangeira, para o fim que menciona, e dá outras providências.

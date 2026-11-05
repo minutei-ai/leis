@@ -1,5 +1,3 @@
-###DEC-066580-0-000-15-05-1970@@@
-
 DECRETO Nº 66.580, DE 15 DE MAIO DE 1970.
 
 Concede autonomia administrativa e financeira à Superintendência de Campanhas de Saúde Pública, e dá outras providências.

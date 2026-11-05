@@ -1,5 +1,3 @@
-###DEC-005010-0-000-09-03-2004@@@
-
 DECRETO Nº 5.010,  DE 9 DE MARÇO DE 2004.
 
 Dá nova redação ao caput do art. 1o do Decreto no 4.978, de 3 de fevereiro de 2004, que regulamenta o art. 230 da Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre a assistência à saúde do servidor.

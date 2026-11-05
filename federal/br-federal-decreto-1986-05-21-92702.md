@@ -1,5 +1,3 @@
-###DEC-092702-0-000-21-05-1986@@@
-
 DECRETO Nº 92.702, DE 21 DE MAIO DE 1986
 
 Cria o Conselho Superior da Previdência e Assistência Social, e dá outras providências.

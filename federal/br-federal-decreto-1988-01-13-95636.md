@@ -1,7 +1,3 @@
-1
-
-###DEC-095636-0-000-13-01-1988@@@
-
 DECRETO N° 95.636, DE 13 DE JANEIRO DE 1988
 
 Outorga concessão a TV JANGADEIRO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Fortaleza, Estado do Ceará.

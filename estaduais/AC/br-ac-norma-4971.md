@@ -1,6 +1,10 @@
 > **LEI Nº 3.866, DE 14 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a contratar operação de crédito externo junto ao Fundo Financeiro para o Desenvolvimento da Bacia do Prata - FONPLATA, com garantia da União.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a contratar operação de crédito externo junto ao Fundo Financeiro para o Desenvolvimento da Bacia do Prata - FONPLATA, com garantia da União.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

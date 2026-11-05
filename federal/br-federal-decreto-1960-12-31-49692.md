@@ -1,5 +1,3 @@
-###DEC-049692-0-000-31-12-1960@@@
-
 DECRETO Nº 49.692, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. a construir uma linha de transmissão entre as subestações de Nova Lima e de Conselheiro Lafaiete, passando por Itabirito no Estado de Minas Gerais, e dá outras providências.

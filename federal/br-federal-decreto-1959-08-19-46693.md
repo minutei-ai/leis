@@ -1,5 +1,3 @@
-###DEC-046693-0-000-19-08-1959@@@
-
 DECRETO Nº 46.693, DE 19 DE AGÔSTO DE 1959.
 
 Altera a redação do Decreto número 46.131, de 3 de junho de 1959.

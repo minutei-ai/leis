@@ -1,5 +1,3 @@
-###DEC-087346-0-000-29-06-1982@@@
-
 Decreto nº 87.346, de 29 de junho de 1982
 
 Eleva o capital do Banco Nacional do Desenvolvimento Econômico e Social - BNDES e dá outras providencias.

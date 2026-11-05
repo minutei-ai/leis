@@ -1,5 +1,3 @@
-###DEC-047010-0-000-13-10-1959@@@
-
 DECRETO Nº 47.010, DE 13 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Edgard Teixeira Leite a lavrar crocita no Município de Piu-í, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-084411-0-000-22-01-1980@@@
-
 Decreto nº 84.411, de 22 de janeiro de 1980
 
 Altera o Decreto nº 75.569, de 7 de abril de 1975, que dispõe sobre a estrutura básica da Comissão Nacional de Energia Nuclear (CNEN)

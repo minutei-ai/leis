@@ -1,5 +1,3 @@
-###DEC-067979-0-000-29-12-1970@@@
-
 DECRETO Nº 67.979, DE 29 DE DEZEMBRO DE 1970.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para o aproveitamento da energia hidráulica de um trecho do rio Ocoi, no município de São Miguel do Iguaçu, Estado do Paraná.

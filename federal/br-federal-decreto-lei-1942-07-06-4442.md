@@ -1,5 +1,3 @@
-###DEL-004442-0-000-06-07-1942@@@
-
 DECRETO-LEI N. 4.442 – DE 6 DE JULHO DE 1942
 
 Cria a função gratificada de Chefe da Secção de Biologia do Serviço Florestal, no Ministério da Agricultura, e dá outras providências

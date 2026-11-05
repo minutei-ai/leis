@@ -1,5 +1,3 @@
-###DEL-005793-0-000-02-09-1943@@@
-
 DECRETO–LEI N. 5.793 – DE 2 DE SETEMBRO DE 1943
 
 Suspende a intervenção, do Governo Federal na Emprêsa de Navegação Hoepcke S. A .

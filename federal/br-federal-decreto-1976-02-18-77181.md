@@ -1,5 +1,3 @@
-###DEC-077181-0-000-18-02-1976@@@
-
 Decreto nº 77.181, de 18 de fevereiro de 1976
 
 Concede autorização à "Association Of Baptists for World Evangelism, Inc" para funcionar no Brasil.

@@ -1,5 +1,3 @@
-###DEC-071531-0-000-12-12-1972@@@
-
 decreto nº 71.531 - de 12 de dezembro de 1972
 
 Torna sem efeito a cassação da disponibilidade de vários servidores do Departamento Nacional de Obras Contra a Seca.

@@ -1,5 +1,3 @@
-###DEC-059319-0-000-28-09-1966@@@
-
 Decreto nº 59.319, de 28 de setembro de 1966.
 
 Cria a “Comissão de Construção Naval da Marinha do Brasil”, e dá outras providências.

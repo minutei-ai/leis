@@ -1,7 +1,3 @@
-1
-
-###DEC-000877-0-000-20-07-1993@@@
-
 DECRETO N° 877, DE 20 DE JULHO DE 1993
 
 Regulamenta a concessão do adicional de irradiação ionizante de que trata o § 1° do art. 12 da Lei n° 8.270, de 17 de dezembro de 1991.

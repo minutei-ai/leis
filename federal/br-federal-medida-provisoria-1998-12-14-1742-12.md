@@ -1,5 +1,3 @@
-###MPV-001742-0-012-14-12-1998@@@
-
 medida provisória nº 1.742-12, de 14 de dezembro de 1998.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

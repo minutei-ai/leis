@@ -1,5 +1,3 @@
-###DEC-064236-0-000-20-03-1969@@@
-
 DECRETO Nº 64.236, DE 20 DE MARÇO DE 1969.
 
 Redistribui com o respectivo ocupante para o Quadro Único de Pessoal - Parte Especial - da Universidade Federal do Rio de Janeiro, cargo originário do Departamento Nacional de Portos e Vias Navegáveis.

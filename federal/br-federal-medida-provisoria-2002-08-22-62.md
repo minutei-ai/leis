@@ -1,5 +1,3 @@
-###MPV-000062-0-000-22-08-2002@@@
-
 MEDIDA PROVISÓRIA Nº 62, DE 22 DE AGOSTO DE 2002
 
 Altera o art. 25 da Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

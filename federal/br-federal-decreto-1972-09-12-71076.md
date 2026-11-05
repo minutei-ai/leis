@@ -1,5 +1,3 @@
-###DEC-071076-0-000-12-09-1972@@@
-
 Decreto nº 71.076, de 12 de setembro de 1972.
 
 Concede reconhecimento à Faculdade de Agronomia e Zootecnia "Manoel Carlos Gonçalves", de Pinhal - S. P.

@@ -1,5 +1,3 @@
-###DEC-090504-0-000-13-11-1984@@@
-
 Decreto nº 90.504, de 13 de novembro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

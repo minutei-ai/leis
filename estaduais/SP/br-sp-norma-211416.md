@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211416)<br>
-
 # LEI N° 18.202, DE 08 DE SETEMBRO DE 2025
 
 ## (Projeto de lei n.° 354/2023, do Deputado Rafa Zimbaldi - CIDADANIA)

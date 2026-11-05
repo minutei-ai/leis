@@ -1,5 +1,3 @@
-###DEC-084046-0-000-02-10-1979@@@
-
 Decreto nº 84.046, de 02 de outubro de 1979.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Município do Rio de Janeiro e de Niterói, Estado do Rio de Janeiro e de Vitória, Estado do Espírito Santo.

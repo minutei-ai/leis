@@ -1,5 +1,3 @@
-###DEL-006179-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.179 – DE 6 DE  JANEIRO DE 1944
 
 Extingue a 14ª Divisão de Infantaria da 7ª Região Militar

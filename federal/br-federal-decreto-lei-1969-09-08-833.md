@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c1da277f-c536-4817-b09a-645f4bc40b27/texto#nowhere)
 
-###DEL-000833-0-000-08-09-1969@@@
-
 DECRETO-LEI Nº 833, DE 8 DE SETEMBRO DE 1969
 
 Altera a redação do artigo 10 do Decreto-lei nº 61, de 21 de novembro de 1966.

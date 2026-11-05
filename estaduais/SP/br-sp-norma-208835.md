@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208835)<br>
-
 # DECRETO N° 68.108, DE 24 DE NOVEMBRO DE 2023
 
 ### _Institui o Comitê Intersecretarial de Controle e Prevenção do Huanglongbing (HLB), denominado "greening dos citros", e dá outras providências._

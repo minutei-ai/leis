@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208512)<br>
-
 # DECRETO N° 67.944, DE 15 DE SETEMBRO DE 2023
 
 ### _Autoriza a outorga de uso, ao Município de Descalvado, do imóvel que especifica, e dá providências correlatas_

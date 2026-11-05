@@ -1,5 +1,3 @@
-###DEC-054451-0-000-13-10-1964@@@
-
 DECRETO Nº 54.451, DE 13 DE OUTUBRO DE 1964.
 
 Renova o decreto nº 49.893, de 12 de janeiro de 1961.

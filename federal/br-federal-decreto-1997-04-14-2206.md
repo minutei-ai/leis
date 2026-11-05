@@ -1,5 +1,3 @@
-###DEC-002206-0-000-14-04-1997@@@
-
 DECRETO Nº 2.206, DE 14 DE ABRIL DE 1997
 
 Aprova o Regulamento do Serviço de TV a Cabo.

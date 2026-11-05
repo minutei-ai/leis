@@ -1,5 +1,3 @@
-###DEC-085618-0-000-06-01-1981@@@
-
 Decreto nº 85.618, de 06 de janeiro de 1981
 
 Autoriza o aumento de potência da RÁDIO PONTAL DE NOVA LONDRINA LTDA., na cidade de Nova Londrina, Estado de Paraná.

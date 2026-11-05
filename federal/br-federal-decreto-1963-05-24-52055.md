@@ -1,5 +1,3 @@
-###DEC-052055-0-000-24-05-1963@@@
-
 DECRETO Nº 52.055, DE 24 DE MAIO DE 1963.
 
 Torna extensiva ao Tabaco em fôlha produzido no Estado da Paraíba, as especificações a que se refere o Decreto nº 10.218, de 12 de agôsto de 1942, com as alterações do Decreto nº 40.071, de 8 de outubro de 1956.

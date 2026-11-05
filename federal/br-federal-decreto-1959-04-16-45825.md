@@ -1,5 +1,3 @@
-###DEC-045825-0-000-16-04-1959@@@
-
 DECRETO Nº 45.825, DE 16 DE ABRIL DE 1959.
 
 Autoriza a Companhia Fôrça e Luz de Pompéu S.A. a constituir hipoteca sôbre os seus bens e instalações em favor do Banco do Brasil Sociedade Anônima.

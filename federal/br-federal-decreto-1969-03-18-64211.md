@@ -1,5 +1,3 @@
-###DEC-064211-0-000-18-03-1969@@@
-
 DECRETO Nº 64.211, DE 18 DE MARÇO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas de Joinville, Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-052993-0-000-27-11-1963@@@
-
 DECRETO Nº 52.993, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Joseph Nigri a lavrar caulim, no município de São Paulo, Estado de São Paulo.

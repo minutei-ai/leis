@@ -1,5 +1,3 @@
-###DEL-006036-0-000-25-11-1943@@@
-
 DECRETO‑LEI N. 6.036 – DE 25 DE NOVEMBRO DE 1943
 
 Procede à revisão anual da classificação das coletorias federais

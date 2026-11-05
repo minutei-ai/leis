@@ -1,5 +1,3 @@
-###DEC-064663-0-000-09-06-1969@@@
-
 DECRETO Nº 64.663, DE 9 DE JUNHO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional d Estradas de Rodagem, faixa terreno, situada no Estado do Rio de Janeiro.

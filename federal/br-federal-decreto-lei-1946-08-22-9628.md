@@ -1,5 +1,3 @@
-###DEL-009628-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.628 – DE 22 DE AGÔSTO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o Clube de Regatas do Flamengo do pagamento de emolumentos de obras

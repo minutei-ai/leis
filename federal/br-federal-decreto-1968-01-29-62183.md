@@ -1,5 +1,3 @@
-###DEC-062183-0-000-29-01-1968@@@
-
 DECRETO Nº 62.183, DE 29 DE JANEIRO DE 1968.
 
 Reconhecimento da Faculdade de Medicina da Universidade Católica de Pelotas - R.G.S.

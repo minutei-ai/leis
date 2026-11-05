@@ -1,5 +1,3 @@
-###DEC-070373-0-000-06-04-1972@@@
-
 DECRETO Nº 70.373, DE 6 DE ABRIL DE 1972.
 
 Autoriza o funcionamento na Faculdade Pestalozzi de Ciências, Educação e Tecnologia, com os cursos que especifica.

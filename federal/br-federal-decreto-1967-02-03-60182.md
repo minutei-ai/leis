@@ -1,5 +1,3 @@
-###DEC-060182-0-000-03-02-1967@@@
-
 DECRETO Nº 60.182, DE 3 DE FEVEREIRO DE 1967.
 
 Aprova o Regulamento do Serviço Nacional de Informações.

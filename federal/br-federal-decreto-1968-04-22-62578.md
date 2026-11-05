@@ -1,5 +1,3 @@
-###DEC-062578-0-000-22-04-1968@@@
-
 Decreto nº 62.578, de 22 de abril de 1968.
 
 Altera o enquadramento do pessoal da extinta Comissão do Impôsto Sindical.

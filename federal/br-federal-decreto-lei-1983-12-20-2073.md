@@ -1,5 +1,3 @@
-###DEL-002073-0-000-20-12-1983@@@
-
 # DECRETO-LEI Nº 2.073, DE 20 DE DEZEMBRO DE 1983
 
 Altera a legislação do imposto suplementar de renda.

@@ -1,5 +1,3 @@
-###MPV-001876-0-016-26-08-1999@@@
-
 MEDIDA PROVISÓRIA nº 1.876-16, DE 26 AGOSTO DE 1999.
 
 Dispõe sobre a adoção de medidas relacionadas com o Sistema Financeiro da Habitação - SFH, altera as Leis Nos 4.380, de 21 de agosto e 1964, 8.036, de 11 de maio de 1990, e 8.692, e 28 de julho de 1993, e dá outras providências.

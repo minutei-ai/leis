@@ -1,5 +1,3 @@
-###DEC-052141-0-000-25-06-1963@@@
-
 DECRETO Nº 52.141, DE 25 DE JUNHO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Município de Maragogipe, Estado da Bahia.

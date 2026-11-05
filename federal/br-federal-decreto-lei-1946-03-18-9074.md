@@ -1,5 +1,3 @@
-###DEL-009074-0-000-18-03-1946@@@
-
 DECRETO-LEI N. 9.074 – DE 18 DE MARÇO DE 1946
 
 Retifica o Orçamento Geral da República

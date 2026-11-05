@@ -1,5 +1,3 @@
-###LEI-000000-0-000-22-09-1829@@@
-
 LEI - DE 22 DE SETEMBRO DE 1829
 
 Estabelece a fórma que se devera observar nos processos dos réos pronunciados que se esconderem, ou se ausentarem.

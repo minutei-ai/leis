@@ -1,5 +1,3 @@
-###DEC-071824-0-000-07-02-1973@@@
-
 decreto nº 71.824, de 7 de fevereiro de 1973.
 
 Dispõe sobre o recolhimento da Taxa Rodoviária Única e dá outras providências.

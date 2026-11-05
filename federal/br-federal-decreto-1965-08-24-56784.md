@@ -1,5 +1,3 @@
-###DEC-056784-0-000-24-08-1965@@@
-
 Decreto nº 56.784, de 24 de agôsto de 1965.
 
 Altera a lotação numérica e nominal dos cargos de Fiel do Tesouro do Quadro de Pessoal do Ministério da Fazenda.

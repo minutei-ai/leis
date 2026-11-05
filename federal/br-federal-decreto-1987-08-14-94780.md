@@ -1,5 +1,3 @@
-###DEC-094780-0-000-14-08-1987@@@
-
 DECRETO N° 94.780, DE 14 DE AGOSTO DE 1987
 
 Dispõe sobre a estrutura básica da Administração do Território Federal de Fernando de Noronha, e dá outras providências.

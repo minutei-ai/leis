@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208232)<br>
-
 # DECRETO N° 67.780, DE 29 DE JUNHO DE 2023
 
 ### _Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Piracicaba._

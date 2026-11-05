@@ -1,5 +1,3 @@
-###DEC-054851-0-000-03-11-1964@@@
-
 decreto nº 54.851, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Altino José Antunes a pesquisar quartzo e mica, no município de Governador Valadares, Estado de Minas Gerais.
@@ -21,8 +19,6 @@ Brasília, 4 de novembro de 1964; 143º da Independência e 76º da República.
 h. castello branco
 
 Mauro Thibau
-
-###DEC-054851-0-000-03-11-1964@@@RET01+++
 
 Decreto nº 54.851, de 3 de novembro de 1964.
 

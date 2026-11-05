@@ -1,5 +1,3 @@
-###DEC-086378-0-000-17-09-1981@@@
-
 Decreto nº 86.378, de 17 de setembro de 1981
 
 Dispõe sobre a estrutura básica do Instituto Nacional de Alimentação e Nutrição - INAN e dá outras providências

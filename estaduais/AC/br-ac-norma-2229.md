@@ -1,6 +1,10 @@
 > **LEI Nº 3.472, DE 04 DE ABRIL DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de subvenções sociais pelo Poder Executivo, para o exercício 2019, em favor de entidades civis sem fins lucrativos na área de assistência social e na área da saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de subvenções sociais pelo Poder Executivo, para o exercício 2019, em favor de entidades civis sem fins lucrativos na área de assistência social e na área da saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

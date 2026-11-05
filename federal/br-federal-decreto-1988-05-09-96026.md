@@ -1,5 +1,3 @@
-###DEC-096026-0-000-09-05-1988@@@
-
 DECRETO N° 96.026, DE 09 DE MAIO DE 1988
 
 Estabelece os limites dos Municípios criados, no Território Federal do Amapá, pela Lei n° 7.639, de 17 de dezembro de 1987.

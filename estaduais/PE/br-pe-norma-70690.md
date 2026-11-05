@@ -44,402 +44,298 @@ Coordenadas Projetadas UTM Fuso 25 S.
 
 Área 01
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:11.25pt"><td width="26" style="width:19.7pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">ID</span></p></td><td width="85" style="width:64.0pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">X (m)</span></p></td><td width="94" style="width:70.5pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Y (m)</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254902,773</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9117024,551</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254909,069</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9117011,752</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254912,523</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9117002,801</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254919,382</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116992,587</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254930,105</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116981,718</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">6</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254936,477</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116975,672</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">7</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254939,546</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116970,314</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">8</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254942,445</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116960,174</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254947,407</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116939,59</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">10</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254948,013</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116937,379</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">11</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254949,769</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116914,088</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">12</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254957,742</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116875,503</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">13</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254957,603</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116876,053</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">14</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254949,327</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116894,26</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">15</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254941,382</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116910,813</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">16</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254933,147</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116922,44</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">17</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254924,54</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116937,834</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">18</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254918,913</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116951,572</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">19</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254922,223</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116953,062</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">20</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254934,885</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116961,172</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">21</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254938,113</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116965,145</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">22</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254937,203</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116967,711</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">23</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254934,72</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116967,959</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">24</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254931,492</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116966,386</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">25</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254924,54</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116963,904</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">26</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254916,181</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116960,428</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">27</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254913,45</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116968,704</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">28</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254909,147</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116975,573</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">29</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254905,009</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116981,201</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">30</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254899,96</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116987,159</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">31</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254894,829</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116991,38</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">32</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254889,036</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116997,587</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">33</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254885,146</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9117003,298</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">34</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254872,546</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9117025,788</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">35</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254896,313</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9117035,742</span></p></td></tr></tbody></table>
+ID
+
+X (m)
+
+Y (m)
+
+1
+
+254902,773
+
+9117024,551
+
+2
+
+254909,069
+
+9117011,752
+
+3
+
+254912,523
+
+9117002,801
+
+4
+
+254919,382
+
+9116992,587
+
+5
+
+254930,105
+
+9116981,718
+
+6
+
+254936,477
+
+9116975,672
+
+7
+
+254939,546
+
+9116970,314
+
+8
+
+254942,445
+
+9116960,174
+
+9
+
+254947,407
+
+9116939,59
+
+10
+
+254948,013
+
+9116937,379
+
+11
+
+254949,769
+
+9116914,088
+
+12
+
+254957,742
+
+9116875,503
+
+13
+
+254957,603
+
+9116876,053
+
+14
+
+254949,327
+
+9116894,26
+
+15
+
+254941,382
+
+9116910,813
+
+16
+
+254933,147
+
+9116922,44
+
+17
+
+254924,54
+
+9116937,834
+
+18
+
+254918,913
+
+9116951,572
+
+19
+
+254922,223
+
+9116953,062
+
+20
+
+254934,885
+
+9116961,172
+
+21
+
+254938,113
+
+9116965,145
+
+22
+
+254937,203
+
+9116967,711
+
+23
+
+254934,72
+
+9116967,959
+
+24
+
+254931,492
+
+9116966,386
+
+25
+
+254924,54
+
+9116963,904
+
+26
+
+254916,181
+
+9116960,428
+
+27
+
+254913,45
+
+9116968,704
+
+28
+
+254909,147
+
+9116975,573
+
+29
+
+254905,009
+
+9116981,201
+
+30
+
+254899,96
+
+9116987,159
+
+31
+
+254894,829
+
+9116991,38
+
+32
+
+254889,036
+
+9116997,587
+
+33
+
+254885,146
+
+9117003,298
+
+34
+
+254872,546
+
+9117025,788
+
+35
+
+254896,313
+
+9117035,742
 
 Área 02
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:12.75pt"><td width="26" style="width:19.7pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:12.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">ID</span></p></td><td width="85" style="width:64.0pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">X (m)</span></p></td><td width="94" style="width:70.5pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Y (m)</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254968,693</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116796,851</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254965,962</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116799,582</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254964,307</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116804,796</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254963,81</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116811,334</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254963,727</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116818,121</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">6</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254964,39</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116823,666</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">7</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254963,562</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116831,28</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">8</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254963,893</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116841,79</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254962,284</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116853,524</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">10</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254963,778</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116846,294</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">11</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254963,817</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116846,106</span></p></td></tr><tr style="height:11.25pt"><td width="26" style="width:19.7pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">12</span></p></td><td width="85" style="width:64.0pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">254973,712</span></p></td><td width="94" style="width:70.5pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9116796,63</span></p></td></tr></tbody></table>
+ID
+
+X (m)
+
+Y (m)
+
+1
+
+254968,693
+
+9116796,851
+
+2
+
+254965,962
+
+9116799,582
+
+3
+
+254964,307
+
+9116804,796
+
+4
+
+254963,81
+
+9116811,334
+
+5
+
+254963,727
+
+9116818,121
+
+6
+
+254964,39
+
+9116823,666
+
+7
+
+254963,562
+
+9116831,28
+
+8
+
+254963,893
+
+9116841,79
+
+9
+
+254962,284
+
+9116853,524
+
+10
+
+254963,778
+
+9116846,294
+
+11
+
+254963,817
+
+9116846,106
+
+12
+
+254973,712
+
+9116796,63

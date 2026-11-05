@@ -1,5 +1,3 @@
-###MPV-002077-0-030-22-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.077-30, DE 22 DE MARÇO DE 2001
 
 Institui o Auxílio-Transporte, dispõe sobre o pagamento dos militares e dos servidores do Poder Executivo Federal, inclusive de suas autarquias, fundações, empresas públicas e sociedades de economia mista, e dá outras providências.

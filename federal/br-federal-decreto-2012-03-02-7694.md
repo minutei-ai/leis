@@ -1,5 +1,3 @@
-###DEC-007694-0-000-02-03-2012-PUB-01@@@
-
 DECRETO Nº 7.694, DE 2 DE MARÇO DE 2012
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Fundação Joaquim Nabuco - FUNDAJ, e remaneja cargos em comissão.

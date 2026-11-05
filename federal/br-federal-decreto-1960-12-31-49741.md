@@ -1,5 +1,3 @@
-###DEC-049741-0-000-31-12-1960@@@
-
 DECRETO Nº 49.741, DE 31 DE DEZEMBRO DE 1960.
 
 Transfere da Prefeitura Municipal de Morrinhos para a Centrais Elétricas de Goiás S.A. a concessão para a produção e fornecimento de energia elétrica ao Município de Morrinhos, Estado de Goiás.

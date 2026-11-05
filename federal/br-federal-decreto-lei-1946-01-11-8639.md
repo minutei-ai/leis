@@ -1,5 +1,3 @@
-###DEL-008639-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.639 – DE 11 DE JANEIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o Clube de Engenharia do pagamento do impôsto que menciona.

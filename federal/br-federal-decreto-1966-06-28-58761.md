@@ -1,5 +1,3 @@
-###DEC-058761-0-000-28-06-1966@@@
-
 Decreto nº 58.761, de 28 de junho de 1966.
 
 Altera o art. 2º do Decreto nº 57.614, de 7 de janeiro de 1966, na parte referente ao Departamento de Aeronáutica Civil.

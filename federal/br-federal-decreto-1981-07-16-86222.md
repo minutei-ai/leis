@@ -1,5 +1,3 @@
-###DEC-086222-0-000-16-07-1981@@@
-
 Decreto nº 86.222, de 16 de julho de 1981.
 
 Acrescenta dispositivo ao Regulamento da Escola Superior de Guerra, aprovado pelo Decreto nº 72.699, de 27 de agosto de 1973.

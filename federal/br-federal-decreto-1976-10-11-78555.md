@@ -1,5 +1,3 @@
-###DEC-078555-0-000-11-10-1976@@@
-
 DECRETO Nº 78.555, DE 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento aos cursos de Engenharia Civil e Engenharia Elétrica, da Faculdade Federal de Uberlândia, Estado de Minas Gerais

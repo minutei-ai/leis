@@ -1,5 +1,3 @@
-###DEC-004177-0-000-28-03-2002@@@
-
 DECRETO Nº 4.177, DE 28 DE MARÇO DE 2002
 
 Transfere para a Corregedoria-Geral da União as competências e as unidades administrativas da Casa Civil da Presidência da República e do Ministério da Justiça que especifica e dá outras providências.
@@ -69,8 +67,6 @@ Martus Tavares
 Pedro Parente
 
 Anadyr de Mendonça Rodrigues
-
-###DEC-004177-0-000-28-03-2002@@@REP001+++
 
 DECRETO Nº 4.177, DE 28 DE MARÇO DE 2002(\*)
 

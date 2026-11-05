@@ -1,5 +1,3 @@
-###MPV-002036-0-085-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.036-85, DE 23 DE novembro DE 2000.
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal, e dá outras providências.

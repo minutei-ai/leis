@@ -1,5 +1,3 @@
-###DEL-001957-0-000-31-08-1982@@@
-
 # DECRETO Nº 1.957, DE 31 DE AGOSTO DE 1982
 
 Revoga o artigo 5º da Lei nº 6.263, de 18 de novembro de 1975.

@@ -1,5 +1,3 @@
-###DEC-058830-0-000-15-07-1966@@@
-
 DECRETO Nº 58.830, de 15 de julho de 1966.
 
 Concede à sociedade E.C. De witt & Co. Ltd. autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

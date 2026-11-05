@@ -1,7 +1,3 @@
-1
-
-###DEC-097946-0-000-11-07-1989@@@
-
 DECRETO N° 97.946, DE 11 DE JULHO DE 1989
 
 Dispõe sobre a Estrutura Básica do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e dá outras providências.

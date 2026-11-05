@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/dfd44b44-12ba-48d0-b43b-1757141caddf/texto#nowhere)
 
-###DEL-000915-0-000-07-10-1969@@@
-
 DECRETO-LEI Nº 915, DE 7 DE OUTUBRO DE 1969
 
 Altera a redação do artigo 224 da Consolidação das Leis do Trabalho

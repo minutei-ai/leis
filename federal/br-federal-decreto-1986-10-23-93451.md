@@ -1,5 +1,3 @@
-###DEC-093451-0-000-23-10-1986@@@
-
 DECRETO Nº 93.451, DE 23 DE OUTUBRO DE 1986
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro SIA - PETROBRÁS, o imóvel constituído de terras e benfeitoras, de propriedade particular, situado no Município de Macaé, no Estado do Rio de Janeiro, necessário à instalação de queimadores de gás.

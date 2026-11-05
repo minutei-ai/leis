@@ -1,5 +1,3 @@
-###DEC-007658-0-000-23-12-2011-PUB-01@@@
-
 DECRETO Nº 7.658, DE 23 DE DEZEMBRO DE 2011
 
 Dispõe sobre a execução do Sexagésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº2 (69PA-ACE2), assinado entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, em 24 de agosto de 2011.

@@ -1,5 +1,3 @@
-###DEC-056930-0-000-01-10-1965@@@
-
 DECRETO Nº 56.930, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a Cia. Estrada de Ferro e Minas de São Jerônimo a pesquisar carvão no município de Guaibá, Estado do Rio Grande do Sul.

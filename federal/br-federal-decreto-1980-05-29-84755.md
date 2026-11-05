@@ -1,5 +1,3 @@
-###DEC-084755-0-000-29-05-1980@@@
-
 Decreto 84.755, de 29 de maio de 1980.
 
 Regulamenta o artigo 6º do Decreto-Lei nº 1.691, de 2 de agosto de 1979, e dá outras providências.

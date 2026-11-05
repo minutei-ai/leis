@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210646)<br>
-
 # DECRETO N° 69.371, DE 21 DE FEVEREIRO DE 2025
 
 ### _Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de construção, operação, manutenção e realização dos investimentos necessários para a exploração do Sistema de Interligação entre os Municípios de Santos e Guarujá, aprova o respectivo regulamento e dá providências correlatas._
@@ -56,7 +54,8 @@ Rafael Antonio Cren Benini
 
 #### REGULAMENTO DA CONCESSÃO DOS SERVIÇOS PÚBLICOS DE EXPLORAÇÃO DO SISTEMA DE INTERLIGAÇÃO ENTRE OS MUNICÍPIOS DE SANTOS E GUARUJÁ
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar a concessão patrocinada dos serviços públicos de construção, operação, manutenção e realização dos investimentos necessários para a exploração do Sistema de Interligação entre os Municípios de Santos e Guarujá.
@@ -65,7 +64,8 @@ Do Objetivo
 
 **Artigo 3° -** Ao Sistema de Interligação serão incorporadas todas as construções, melhorias e investimentos a serem realizados durante o período da concessão.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Serviços Previstos no Sistema Rodoviário
 
 **Artigo 4° -** Os serviços e demais atividades operacionais a serem executados no Sistema de Interligação são classificados em:
@@ -172,7 +172,8 @@ IV - declaração de utilidade pública ou de interesse social para fins de desa
 
 **Parágrafo único -** Os sistemas de controle e automação a que se refere este artigo deverão permitir integral aplicação dos serviços não delegados, especialmente no que se refere à fiscalização de trânsito.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Responsabilidades Da Concessionária
 
 **Artigo 9° -** São deveres e obrigações da concessionária, durante todo o prazo de concessão, sem prejuízo do disposto no respectivo contrato de concessão:
@@ -237,7 +238,8 @@ XXIX - manter em plena operação, e dentro dos padrões estabelecidos, os canai
 
 XXX - observar o regramento estabelecido no contrato de concessão e normas expedidas pela ARTESP quanto à devolução do Sistema de Interligação ou eventual transferência para a concessionária que a suceder.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa e das Penalidades
 
 **Artigo 10 -** Estão sujeitos a fiscalização e monitoramento todos os serviços previstos no presente regulamento.
@@ -254,12 +256,14 @@ Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa 
 
 **§2° -** A fiscalização do serviço será feita pela ARTESP, que poderá contratar serviços de apoio à fiscalização, observado o disposto na [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), e alterações posteriores.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Do Policiamento Ostensivo, Preventivo e Repressivo
 
 **Artigo 13 -** As atividades policiais de caráter ostensivo, preventivo e repressivo, e outras atribuídas por lei à Polícia Militar, serão exercidas, no Sistema de Interligação de que trata este regulamento, pela Polícia Militar Rodoviária.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Tarifas de Pedágio e das Receitas
 
 **Artigo 14 -** Constituem receitas da concessionária, a partir das datas previstas no edital:
@@ -284,7 +288,8 @@ IX - outras previstas no respectivo edital e contrato de concessão, ou que venh
 
 **Artigo 15 -** As tarifas de pedágio, a contraprestação pública, o aporte público e as receitas acessórias decorrentes dos serviços não delegados, bem como os critérios e a periodicidade de cálculo e reajuste, serão estabelecidos nos editais, observadas as normas legais e regulamentares pertinentes.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Dos Direitos e Obrigações dos Usuários
 
 **Artigo 16 -** São direitos e obrigações dos usuários:
@@ -311,7 +316,8 @@ X - estar garantido pelos seguros contratados pela concessionária, na forma do 
 
 **Artigo 17 -** A ARTESP e a concessionária estimularão a participação da comunidade em assuntos de interesse do Sistema de Interligação objeto da respectiva concessão.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Das Disposições Gerais
 
 **Artigo 18 -** O Poder Concedente providenciará, mediante proposta da concessionária, as medidas para a declaração de utilidade pública dos bens e áreas necessárias à construção do Sistema de Interligação, responsabilizando-se a concessionária pela promoção das desapropriações e servidões administrativas, bem como pelas respectivas indenizações, nos termos do respectivo contrato de concessão.

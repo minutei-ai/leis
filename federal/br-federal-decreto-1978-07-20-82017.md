@@ -1,5 +1,3 @@
-###DEC-082017-0-000-20-07-1978@@@
-
 Decreto nº 82.017, de 20 de julho de 1978
 
 Concede à Flacol Mármores S.A. o direito de lavrar mármore no Município de Juazeiro, Estado da Bahia.

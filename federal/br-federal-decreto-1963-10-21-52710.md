@@ -1,5 +1,3 @@
-###DEC-052710-0-000-21-10-1963@@@
-
 DECRETO Nº 52.710, DE 21 DE Outubro DE 1963.
 
 Transfere da Prefeitura Municipal de Mateus Leme para Centrais Elétricas de Minas Gerias S.A. a concessão para distribuir energia elétrica nos distritos de Mateus Leme, Azurita, Igarapé, e São Joaquim de Bicas, município de Mateus Leme, Estado de Minas Gerais.

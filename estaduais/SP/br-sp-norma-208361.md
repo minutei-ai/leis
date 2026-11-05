@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208361)<br>
-
 # DECRETO N° 67.852, DE 28 DE JULHO DE 2023
 
 ### _Altera o Decreto n° 53.921, de 30 de dezembro de 2008, que regulamenta o cadastro para o bloqueio do recebimento de ligações de telemarketing, instituído pela Lei n° 13.226, de 7 de outubro de 2008, alterada pela Lei n° 17.334, de 9 de março de 2021, e dá providências correlatas._

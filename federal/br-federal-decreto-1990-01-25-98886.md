@@ -1,7 +1,3 @@
-1
-
-###DEC-098886-0-000-25-01-1990@@@
-
 DECRETO Nº 98.886, DE 25 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de formação de Professores para Pré-Escolar e 1ª a 4ª séries do Ensino Fundamental pelo Instituto Superior de Educação do Pará.

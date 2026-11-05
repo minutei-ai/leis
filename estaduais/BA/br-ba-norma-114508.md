@@ -1,6 +1,7 @@
 LEI Nº 1.773 DE 30 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [14.091](https://www.legislabahia.ba.gov.br/documentos/lei-no-14091-de-29-de-abril-de-2019) de 29 de abril de 2019 - Atualiza, na forma da Lei nº 12.057, 11 de janeiro, de 2011, os limites dos municípios de Candeias, Itaparica, Madre de Deus, Salinas da Margarida, Simões Filho e Vera Cruz.
 
 Cria o Município de Vera Cruz, desmembrado do de Itaparica.
@@ -77,4 +78,4 @@ Art. 3º - A eleição para Prefeitos e Vereadores do Município de Vera Cruz se
 
 Art. 4º - O município de Itaparica, fica obrigado a aplicar nos distritos de Vera Cruz, Mar Grande, Jeribatuba e Cacha-Pregos, até sua definitiva emancipação 70% da renda arrecadada no referido distrito.
 
-* * *
+ *

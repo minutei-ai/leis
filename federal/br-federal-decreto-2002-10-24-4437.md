@@ -1,5 +1,3 @@
-###DEC-004437-0-000-24-10-2002@@@
-
 DECRETO Nº 4.437, DE 24 DE OUTUBRO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Peru sobre Cooperação em Matéria de Prevenção do Consumo, Reabilitação, Controle da Produção e do Tráfico Ilícito de Entorpecentes e Substâncias Psicotrópicas e seus Delitos Conexos, celebrado em Lima, em 28 de setembro de 1999.

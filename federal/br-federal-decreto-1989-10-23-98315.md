@@ -1,7 +1,3 @@
-1
-
-###DEC-098315-0-000-23-10-1989@@@
-
 DECRETO N° 98.315, DE 23 DE OUTUBRO DE 1989
 
 Declara de utilidade pública a Associação Brasileira de Assistência á Mucoviscidose e outras entidades.

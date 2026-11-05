@@ -1,5 +1,3 @@
-###DEC-055826-0-000-11-03-1965@@@
-
 DECRETO Nº 55.826, DE 11 DE MARÇO DE 1965.
 
 Aprova o aumento de capital e a reforma estatutária promovido pelo Banco do Estado da Guanabara S.A.

@@ -1,5 +1,3 @@
-###MPV-000446-0-000-07-11-2008@@@
-
 MEDIDA PROVISÓRIA Nº 446, DE 7 DE NOVEMBRO DE 2008.
 
 Dispõe sobre a certificação das entidades beneficentes de assistência social, regula os procedimentos de isenção de contribuições para a seguridade social, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056831-0-000-02-09-1965@@@
-
 DECRETO Nº 56.831, DE 2 DE SETEMBRO DE 1965.
 
 Outorga à Companhia de Eletricidade de Alagoas (CEAL) concessão par distribuir energia elétrica.

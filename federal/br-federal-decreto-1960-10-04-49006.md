@@ -1,5 +1,3 @@
-###DEC-049006-0-000-04-10-1960@@@
-
 DECRETO Nº 49.006, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Francisco da Silva a pesquisar minério de ferro no município de Itauna, Estado de Minas Gerais.

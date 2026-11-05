@@ -1,5 +1,3 @@
-###DEC-079522-0-000-13-04-1977@@@
-
 DECRETO Nº 79.522, de 13 de abril de 1977.
 
 Concede à Cifercal Limitada o direito de lavrar calcário no Município de Sete Lagoas, Estado de Minas Gerais.

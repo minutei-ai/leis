@@ -1,5 +1,3 @@
-###DEL-000032-0-000-18-11-1966@@@
-
 DECreto-LEI Nº 32, DE 18 DE NOVEMBRO DE 1966
 
 Institui o Código Brasileiro do Ar

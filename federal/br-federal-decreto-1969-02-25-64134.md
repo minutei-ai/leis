@@ -1,5 +1,3 @@
-###DEC-064134-0-000-25-02-1969@@@
-
 DECRETO Nº 64.134, DE 25 DE FEVEREIRO DE 1969.
 
 Aprova os Estatutos da Fundação Universidade Federal de São Carlos.

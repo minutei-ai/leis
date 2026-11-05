@@ -1,7 +1,3 @@
-1
-
-###DEC-099187-0-000-17-03-1990@@@
-
 DECRETO Nº 99.187, DE 17 DE MARÇO DE 1990
 
 Delega competência ao Chefe do Estado-Maior das Forças Armadas, aos titulares das Secretarias da Presidência da República e ao Consultor-Geral da República.

@@ -1,5 +1,3 @@
-###DEL-008032-0-000-03-10-1945@@@
-
 DECRETO-LEI N. 8.032 – DE 3 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 200.000.000,00, para subscrição de ações da Companhia Hidro-Elétrica do São Francisco, e dá outras providências.

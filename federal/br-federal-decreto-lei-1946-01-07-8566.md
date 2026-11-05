@@ -1,5 +1,3 @@
-###DEL-008566-0-000-07-01-1946@@@
-
 DECRETO-LEI N. 8.566 – DE 7 DE JANEIRO DE 1946 
 
 Reabre o alistamento eleitoral, e dá outras providências

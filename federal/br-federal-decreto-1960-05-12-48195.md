@@ -1,5 +1,3 @@
-###DEC-048195-0-000-12-05-1960@@@
-
 DECRETO Nº 48.195, DE 12 DE MAIO DE 1960.
 
 Autoriza a Mineração do Jutaí Ltda. a pesquisar minério de alumínio no município de Almeirim, Estado do Pará.

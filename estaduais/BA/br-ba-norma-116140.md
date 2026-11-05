@@ -46,35 +46,4 @@ Joaquim Batista Neves
 
 ANEXO I
 
-<table border="0" cellspacing="0" cellpadding="0" width="369" style="width:276.4pt;
- margin-left:63.8pt;border-collapse:collapse;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>SÍMBOLOS<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>VALORES<quebra></quebra></span></p></td></tr><tr style="mso-row-margin-left:1.9pt"><td width="369" colspan="2" valign="top" style="width:276.4pt;padding:0in 3.5pt 0in 3.5pt"><p class="Tabela-Texto"><span>EXTINTA EQUIPARAÇÃO OU VINCULAÇÃO A SUBSÍDIOS DE SECRETÁRIOS DE ESTADO.<quebra></quebra></span></p></td></tr><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>5.245,00<quebra></quebra></span></p></td></tr><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>EXTINTO CC 7<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>4.456,00<quebra></quebra></span></p></td></tr><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>EXTINTO CC 6<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>4.195,00<quebra></quebra></span></p></td></tr><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>EXTINTO CC 5<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3.933,00<quebra></quebra></span></p></td></tr><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>EXTINTO CC 4<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3.670,00<quebra></quebra></span></p></td></tr><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>EXTINTO CC 3<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3.146,00<quebra></quebra></span></p></td></tr><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>EXTINTO CC 2<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.622,00<quebra></quebra></span></p></td></tr><tr><td width="227" colspan="2" valign="top" style="width:170.1pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>EXTINTO CC 1<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.097,00<quebra></quebra></span></p></td></tr><tr></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> SÍMBOLOS<quebra></quebra> </td><td valign="top"> VALORES<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> EXTINTA EQUIPARAÇÃO OU VINCULAÇÃO A SUBSÍDIOS DE SECRETÁRIOS DE ESTADO.<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> <quebra></quebra> </td><td valign="top"> 5.245,00<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> EXTINTO CC 7<quebra></quebra> </td><td valign="top"> 4.456,00<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> EXTINTO CC 6<quebra></quebra> </td><td valign="top"> 4.195,00<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> EXTINTO CC 5<quebra></quebra> </td><td valign="top"> 3.933,00<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> EXTINTO CC 4<quebra></quebra> </td><td valign="top"> 3.670,00<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> EXTINTO CC 3<quebra></quebra> </td><td valign="top"> 3.146,00<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> EXTINTO CC 2<quebra></quebra> </td><td valign="top"> 2.622,00<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> EXTINTO CC 1<quebra></quebra> </td><td valign="top"> 2.097,00<quebra></quebra> </td></tr><tr></tr></tbody></table>

@@ -110,34 +110,37 @@ EDUARDO HENRIQUE ACCIOLY CAMPOS
 
 Governador do Estado
 
-<br>
-
 **ANEXO I**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="margin-left:59.35pt;border-collapse:collapse"><tbody><tr><td width="145" valign="top" style="width:108.8pt;border:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Denominação da Função:</p></td><td width="111" valign="top" style="width:83.05pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Quantitativo:</p></td><td width="316" valign="top" style="width:236.9pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Atribuições:</p></td><td width="146" valign="top" style="width:109.45pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Requisito de Provimento da Função:</p></td><td width="96" valign="top" style="width:72.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Função Gratificada (SIGLA)</p></td></tr><tr><td width="145" valign="top" style="width:108.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Chefe da Divisão de Liquidação de Pena</p></td><td width="111" valign="top" style="width:83.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td><td width="316" valign="top" style="width:236.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Monitoramento dos lapsos temporais para a concessão dos benefícios de execução; cálculo de pena para fins de elaboração de atestado de pena; assessorar os juízes no acompanhamento da execução das penas e da concessão dos benefícios ao apenado; exercer outras atribuições determinadas pelos juízes das execuções penais.</p></td><td width="146" valign="top" style="width:109.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Servidor efetivo, portador do título de Bacharel em Direito.</p></td><td width="96" valign="top" style="width:72.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">FGJ-1</p></td></tr><tr><td width="145" valign="top" style="width:108.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Chefe Adjunto da Divisão de Liquidação de Pena</p></td><td width="111" valign="top" style="width:83.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td><td width="316" valign="top" style="width:236.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Auxiliar o Chefe da Divisão de Liquidação de Pena no Monitoramento dos lapsos temporais para a concessão dos benefícios de execução; nos cálculo de pena para fins de elaboração de atestado de pena; bem como no assessoramento dos juízes no acompanhamento da execução das penas e da concessão dos benefícios ao apenado; substituir, nas suas ausências e afastamentos o Chefe da Divisão de Liquidação de Pena; exercer outras atribuições determinadas pelos juízes das execuções penais.</p></td><td width="146" valign="top" style="width:109.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Servidor efetivo, portador do título de Bacharel em Direito.</p></td><td width="96" valign="top" style="width:72.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">FGJ-2</p></td></tr></tbody></table>
+Denominação da Função:
 
-<br>
+Quantitativo:
+
+Atribuições:
+
+Requisito de Provimento da Função:
+
+Função Gratificada (SIGLA)
+
+Chefe da Divisão de Liquidação de Pena
+
+04
+
+Monitoramento dos lapsos temporais para a concessão dos benefícios de execução; cálculo de pena para fins de elaboração de atestado de pena; assessorar os juízes no acompanhamento da execução das penas e da concessão dos benefícios ao apenado; exercer outras atribuições determinadas pelos juízes das execuções penais.
+
+Servidor efetivo, portador do título de Bacharel em Direito.
+
+FGJ-1
+
+Chefe Adjunto da Divisão de Liquidação de Pena
+
+04
+
+Auxiliar o Chefe da Divisão de Liquidação de Pena no Monitoramento dos lapsos temporais para a concessão dos benefícios de execução; nos cálculo de pena para fins de elaboração de atestado de pena; bem como no assessoramento dos juízes no acompanhamento da execução das penas e da concessão dos benefícios ao apenado; substituir, nas suas ausências e afastamentos o Chefe da Divisão de Liquidação de Pena; exercer outras atribuições determinadas pelos juízes das execuções penais.
+
+Servidor efetivo, portador do título de Bacharel em Direito.
+
+FGJ-2
 
 **ANEXO II**
 
@@ -147,1678 +150,965 @@ Governador do Estado
 
 1ª ENTRÂNCIA
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">UNIDADE JUDICIÁRIA</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">AFRÂNIO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">AGRESTINA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ÁGUAS BELAS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ALAGOINHA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ALIANÇA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ALTINHO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">AMARAJI</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ANGELIM</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BELÉM DE MARIA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BELÉM DO SÃO FRANCISCO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BETÂNIA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BODOCÓ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BOM CONSELHO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BOM JARDIM</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BREJÃO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BREJO DA MADRE DE DEUS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BUENOS AIRES</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BUÍQUE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CABROBÓ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CACHOEIRINHA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CAETES</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CALÇADO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CAMOCIM DE SÃO FELIX</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CANHOTINHO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CATENDE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CAPOEIRAS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CARNAÍBA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CHÃ GRANDE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CONDADO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CORRENTES</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CORTÊS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CUMARU</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CUPIRA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CUSTÓDIA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">EXU</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">FEIRA NOVA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">FERREIROS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">FLORES</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">FLORESTA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">GAMELEIRA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">GLÓRIA DO GOITÁ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">IATI</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">IBIMIRIM</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">IBIRAJUBA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">INAJÁ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">IPUBI</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ITAÍBA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ITAMBÉ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ITAPETIM</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ITAPISSUMA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ITAQUITINGA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">JATAÚBA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">JOÃO ALFREDO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">JOAQUIM NABUCO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">JUPI</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">JUREMA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">LAGOA DE ITAENGA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">LAGOA DO OURO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">LAGOA DOS GATOS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">LAGOA GRANDE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">LAJEDO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">MACAPARANA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">MARAIAL</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">MIRANDIBA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">MOREILÂNDIA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">OROBÓ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">OROCÓ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PALMEIRINA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PANELAS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PARNAMIRIM</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PASSIRA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PEDRA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PETROLÂNDIA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">POÇÃO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">POMBOS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PRIMAVERA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">QUIPAPÁ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">RIACHO DAS ALMAS</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">RIO FORMOSO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SAIRÉ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SALOÁ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SANHARÓ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SANTA MARIA DA BOA VISTA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SANTA MARIA DO CAMBUCÁ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO BENTO DO UMA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO CAETANO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO JOÃO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO JOAQUIM DO MONTE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO JOSÉ DA COROA GRANDE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO JOSÉ DO BELMONTE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO VICENTE FÉRRER</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SERRITA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SIRINHAÉM</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TABIRA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TACAIMBÓ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TACARATU</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TAMANDARÉ</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TAQUARITINGA DO NORTE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TERRA NOVA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TORITAMA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TRACUNHAÉM</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" rowspan="2" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TRINDADE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TRIUNFO</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TUPANATINGA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TUPARETAMA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">VENTUROSA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">VERDEJANTE</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">VERTENTES</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Única</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">VICÊNCIA</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="300" valign="top" style="width:225.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> COMARCA </td><td valign="top"> UNIDADE JUDICIÁRIA </td></tr><tr><td valign="top"> AFRÂNIO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> AGRESTINA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ÁGUAS BELAS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ALAGOINHA </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> ALIANÇA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> ALTINHO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> AMARAJI </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ANGELIM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BELÉM DE MARIA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BELÉM DO SÃO FRANCISCO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BETÂNIA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BODOCÓ </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> BOM CONSELHO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td rowspan="2" valign="top"> BOM JARDIM </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> BREJÃO </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> BREJO DA MADRE DE DEUS </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> BUENOS AIRES </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BUÍQUE </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td rowspan="2" valign="top"> CABROBÓ </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> CACHOEIRINHA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CAETES </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CALÇADO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CAMOCIM DE SÃO FELIX </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CANHOTINHO </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> CATENDE </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> CAPOEIRAS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CARNAÍBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CHÃ GRANDE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CONDADO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CORRENTES </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CORTÊS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CUMARU </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CUPIRA </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> CUSTÓDIA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> EXU </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> FEIRA NOVA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> FERREIROS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> FLORES </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> FLORESTA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> GAMELEIRA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> GLÓRIA DO GOITÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> IATI </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> IBIMIRIM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> IBIRAJUBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> INAJÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> IPUBI </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAÍBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAMBÉ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAPETIM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAPISSUMA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAQUITINGA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JATAÚBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JOÃO ALFREDO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JOAQUIM NABUCO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JUPI </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JUREMA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAGOA DE ITAENGA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAGOA DO OURO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAGOA DOS GATOS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAGOA GRANDE </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> LAJEDO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> MACAPARANA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> MARAIAL </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> MIRANDIBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> MOREILÂNDIA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> OROBÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> OROCÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PALMEIRINA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PANELAS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PARNAMIRIM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PASSIRA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PEDRA </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> PETROLÂNDIA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> POÇÃO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> POMBOS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PRIMAVERA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> QUIPAPÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> RIACHO DAS ALMAS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> RIO FORMOSO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SAIRÉ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SALOÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SANHARÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SANTA MARIA DA BOA VISTA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SANTA MARIA DO CAMBUCÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO BENTO DO UMA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td rowspan="2" valign="top"> SÃO CAETANO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> SÃO JOÃO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO JOAQUIM DO MONTE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO JOSÉ DA COROA GRANDE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO JOSÉ DO BELMONTE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO VICENTE FÉRRER </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SERRITA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SIRINHAÉM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TABIRA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TACAIMBÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TACARATU </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TAMANDARÉ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TAQUARITINGA DO NORTE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TERRA NOVA </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> TORITAMA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> TRACUNHAÉM </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="2" valign="top"> TRINDADE </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> TRIUNFO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TUPANATINGA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TUPARETAMA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> VENTUROSA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> VERDEJANTE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> VERTENTES </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> VICÊNCIA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr></tbody></table>
 
 2ª ENTRÂNCIA
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="397" valign="top" style="width:297.65pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">UNIDADE JUDICIÁRIA</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ABREU E LIMA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">AFOGADOS DA INGAZEIRA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ÁGUA PRETA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ARARIPINA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ARCOVERDE</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BARREIROS</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BELO JARDIM</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BEZERROS</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">BONITO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CABO DE STO. AGOSTINHO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">5ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Conciliação, Mediação e Arbitragem</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CAMARAGIBE</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CARPINA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">CARUARU</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">5ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara do Tribunal do Júri</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Regional de Execução Penal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Conciliação, Mediação e Arbitragem</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ESCADA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">GARANHUNS</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">GOIANA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">GRAVATÁ</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">IGARASSU</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">IPOJUCA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">ITAMARACÁ</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">JABOATÃO GUARARAPES</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">5ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">6ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara do Tribunal do Júri</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara do Tribunal do Júri</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Conciliação, Mediação e Arbitragem</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">LIMOEIRO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">MORENO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">NAZARÉ DA MATA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">OLINDA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">5ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara do Tribunal do Júri</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Conciliação, Mediação e Arbitragem</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">OURICURI</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PALMARES</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PAUDALHO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PAULISTA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">5ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara do Tribunal do Júri</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Conciliação, Mediação e Arbitragem</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PESQUEIRA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">PETROLINA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">5ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara do Tribunal do Júri</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Central de Conciliação, Mediação e Arbitragem</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">RIBEIRÃO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SALGUEIRO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Regional de Execução Penal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SANTA CRUZ CAPIBARIBE</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara da Fazenda Pública</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO JOSÉ DO EGITO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SÃO LOURENÇO DA MATA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SERRA TALHADA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SERTÂNIA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">SURUBIM</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TIMBAÚBA</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">VITÓRIA DE SANTO ANTÃO</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Criminal</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="250" valign="top" style="width:187.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="397" valign="top" style="width:297.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal</p></td></tr></tbody></table>
+COMARCA
 
-<br>
+UNIDADE JUDICIÁRIA
+
+ABREU E LIMA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+AFOGADOS DA INGAZEIRA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara Regional da Infância e Juventude
+
+Vara Criminal
+
+ÁGUA PRETA
+
+1ª Vara
+
+2ª Vara
+
+ARARIPINA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara Regional da Infância e Juventude
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+ARCOVERDE
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara da Fazenda Pública
+
+Vara Regional da Infância e Juventude
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+BARREIROS
+
+1ª Vara
+
+2ª Vara
+
+BELO JARDIM
+
+1ª Vara
+
+2ª Vara
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+BEZERROS
+
+1ª Vara
+
+2ª Vara
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+BONITO
+
+1ª Vara
+
+2ª Vara
+
+Vara Regional da Infância e Juventude
+
+CABO DE STO. AGOSTINHO
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+5ª Vara Cível
+
+1ª Vara da Fazenda Pública
+
+2ª Vara da Fazenda Pública
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+Vara Regional da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+Juizado de Violência Doméstica e Familiar contra a Mulher
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+Central de Cartas de Ordem, Precatória e Rogatória
+
+Central de Conciliação, Mediação e Arbitragem
+
+CAMARAGIBE
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+Juizado de Violência Doméstica e Familiar contra a Mulher
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+CARPINA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+CARUARU
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+5ª Vara Cível
+
+1ª Vara da Fazenda Pública
+
+2ª Vara da Fazenda Pública
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+Vara Regional da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+4ª Vara Criminal
+
+Vara do Tribunal do Júri
+
+3ª Vara Regional de Execução Penal
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+Central de Cartas de Ordem, Precatória e Rogatória
+
+Central de Conciliação, Mediação e Arbitragem
+
+ESCADA
+
+1ª Vara
+
+2ª Vara
+
+GARANHUNS
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara da Fazenda Pública
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+Vara Regional da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+GOIANA
+
+1ª Vara
+
+2ª Vara
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+GRAVATÁ
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+IGARASSU
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+Vara Regional da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+Juizado de Violência Doméstica e Familiar contra a Mulher
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+IPOJUCA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara da Fazenda Pública
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+ITAMARACÁ
+
+1ª Vara
+
+2ª Vara
+
+JABOATÃO GUARARAPES
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+5ª Vara Cível
+
+6ª Vara Cível
+
+1ª Vara da Fazenda Pública
+
+2ª Vara da Fazenda Pública
+
+3ª Vara da Fazenda Pública
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+3ª Vara de Família e Registro Civil
+
+4ª Vara de Família e Registro Civil
+
+Vara de Sucessões e Registros Públicos
+
+Vara da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+1ª Vara do Tribunal do Júri
+
+2ª Vara do Tribunal do Júri
+
+Juizado de Violência Doméstica e Familiar contra a Mulher
+
+1º Juizado Especial Cível e das Relações de Consumo
+
+2º Juizado Especial Cível e das Relações de Consumo
+
+3º Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+Central de Cartas de Ordem, Precatória e Rogatória
+
+Central de Conciliação, Mediação e Arbitragem
+
+LIMOEIRO
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara Criminal
+
+Vara Regional da Infância e Juventude
+
+Juizado Especial Cível e das Relações de Consumo
+
+MORENO
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara Criminal
+
+NAZARÉ DA MATA
+
+1ª Vara
+
+Vara Regional da Infância e Juventude
+
+OLINDA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+5ª Vara Cível
+
+1ª Vara da Fazenda Pública
+
+2ª Vara da Fazenda Pública
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+3ª Vara de Família e Registro Civil
+
+Vara de Sucessões e Registros Públicos
+
+Vara da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+Vara do Tribunal do Júri
+
+Juizado de Violência Doméstica e Familiar contra a Mulher
+
+1º Juizado Especial Cível e das Relações de Consumo
+
+2º Juizado Especial Cível e das Relações de Consumo
+
+3º Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+Central de Cartas de Ordem, Precatória e Rogatória
+
+Central de Conciliação, Mediação e Arbitragem
+
+OURICURI
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+PALMARES
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara Regional da Infância e Juventude
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+PAUDALHO
+
+1ª Vara
+
+2ª Vara
+
+PAULISTA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+5ª Vara Cível
+
+1ª Vara da Fazenda Pública
+
+2ª Vara da Fazenda Pública
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+Vara da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+4ª Vara Criminal
+
+Vara do Tribunal do Júri
+
+1º Juizado Especial Cível e das Relações de Consumo
+
+2º Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+Central de Cartas de Ordem, Precatória e Rogatória
+
+Central de Conciliação, Mediação e Arbitragem
+
+PESQUEIRA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+PETROLINA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+5ª Vara Cível
+
+Vara da Fazenda Pública
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+Vara Regional da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+Vara do Tribunal do Júri
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
+
+Central de Cartas de Ordem, Precatória e Rogatória
+
+Central de Conciliação, Mediação e Arbitragem
+
+RIBEIRÃO
+
+1ª Vara
+
+2ª Vara
+
+SALGUEIRO
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara Regional da Infância e Juventude
+
+Vara Criminal
+
+4ª Vara Regional de Execução Penal
+
+Juizado Especial Cível e das Relações de Consumo
+
+SANTA CRUZ CAPIBARIBE
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara da Fazenda Pública
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+SÃO JOSÉ DO EGITO
+
+1ª Vara
+
+2ª Vara
+
+SÃO LOURENÇO DA MATA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+SERRA TALHADA
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+SERTÂNIA
+
+1ª Vara
+
+2ª Vara
+
+SURUBIM
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+Vara Criminal
+
+Vara Regional da Infância e Juventude
+
+Juizado Especial Cível e das Relações de Consumo
+
+TIMBAÚBA
+
+1ª Vara
+
+2ª Vara
+
+Juizado Especial Cível e das Relações de Consumo
+
+VITÓRIA DE SANTO ANTÃO
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+Vara Regional da Infância e Juventude
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal
 
 3ª ENTRÂNCIA
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="366" style="margin-left:75.7pt;border-collapse:collapse"><tbody><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="251" valign="top" style="width:188.35pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">UNIDADE JUDICIÁRIA</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">CAPITAL</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">5ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">6ª Vara Cível&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">7ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">8ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">9ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">10ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">11ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">12ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">13ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">14ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">15ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">16ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">17ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">18ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">19ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">20ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">21ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">22º Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">23ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">24ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">25ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">26ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">27ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">28ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">29ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">30ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">31ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">32ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">33ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">34ª Vara Cível</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3ª Vara da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4ª Vara da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">5ª Vara da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">6ª Vara da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">7ª Vara da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">8ª Vara da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara dos Executivos Fiscais Estaduais</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara dos Executivos Fiscais Estaduais</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara dos Executivos Fiscais Municipais</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara dos Executivos Fiscais Municipais</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">5ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">6ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">7ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">8ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">9ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">10ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">11ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">12ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">13ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">14ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">15ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">16ª Vara de Família e Registro Civil</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">5ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">6ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">7ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara da Infância e Juventude</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara da Infância e Juventude</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3ª Vara da Infância e Juventude</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4ª Vara da Infância e Juventude</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Acidentes do Trabalho</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Acidentes do Trabalho</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Vara da Justiça Militar</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">5ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">6ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">7ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">8ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">9ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">10ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">11ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">12ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">13ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">14ª Vara Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Crimes contra a Criança e o Adolescente</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Crimes contra a Criança e o Adolescente</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara do Tribunal do Júri</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara do Tribunal do Júri</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3ª Vara do Tribunal do Júri</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4ª Vara do Tribunal do Júri</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Execuções Penais</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Execuções Penais</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Vara de Execução de Penas Alternativas</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Vara dos Crimes contra a Administração Pública e a Ordem Tributária</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1ª Vara de Entorpecentes</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2ª Vara de Entorpecentes</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1º Juizado de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2º Juizado de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">5º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">6º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">7º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">8º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">9º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">10º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">11º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">12º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">13º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">14º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">15º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">16º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">17º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">18º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">19º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">20º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">21º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">22º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">23º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">24º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo do Idoso</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Criminal do Idoso</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1º Juizado Especial Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2º Juizado Especial Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3º Juizado Especial Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4º Juizado Especial Criminal</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Juizado Especial Cível e das Relações de Consumo e Criminal do Torcedor</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">1º Juizado Especial da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">2º Juizado Especial da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">3º Juizado Especial da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">4º Juizado Especial da Fazenda Pública</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Central de Conciliação, Mediação e Arbitragem</p></td></tr><tr><td width="115" valign="top" style="width:86.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="251" valign="top" style="width:188.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify">Central de Combate ao Crime Organizado</p></td></tr></tbody></table>
+COMARCA
+
+UNIDADE JUDICIÁRIA
+
+CAPITAL
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+5ª Vara Cível
+
+6ª Vara Cível
+
+7ª Vara Cível
+
+8ª Vara Cível
+
+9ª Vara Cível
+
+10ª Vara Cível
+
+11ª Vara Cível
+
+12ª Vara Cível
+
+13ª Vara Cível
+
+14ª Vara Cível
+
+15ª Vara Cível
+
+16ª Vara Cível
+
+17ª Vara Cível
+
+18ª Vara Cível
+
+19ª Vara Cível
+
+20ª Vara Cível
+
+21ª Vara Cível
+
+22º Vara Cível
+
+23ª Vara Cível
+
+24ª Vara Cível
+
+25ª Vara Cível
+
+26ª Vara Cível
+
+27ª Vara Cível
+
+28ª Vara Cível
+
+29ª Vara Cível
+
+30ª Vara Cível
+
+31ª Vara Cível
+
+32ª Vara Cível
+
+33ª Vara Cível
+
+34ª Vara Cível
+
+1ª Vara da Fazenda Pública
+
+2ª Vara da Fazenda Pública
+
+3ª Vara da Fazenda Pública
+
+4ª Vara da Fazenda Pública
+
+5ª Vara da Fazenda Pública
+
+6ª Vara da Fazenda Pública
+
+7ª Vara da Fazenda Pública
+
+8ª Vara da Fazenda Pública
+
+1ª Vara dos Executivos Fiscais Estaduais
+
+2ª Vara dos Executivos Fiscais Estaduais
+
+1ª Vara dos Executivos Fiscais Municipais
+
+2ª Vara dos Executivos Fiscais Municipais
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+3ª Vara de Família e Registro Civil
+
+4ª Vara de Família e Registro Civil
+
+5ª Vara de Família e Registro Civil
+
+6ª Vara de Família e Registro Civil
+
+7ª Vara de Família e Registro Civil
+
+8ª Vara de Família e Registro Civil
+
+9ª Vara de Família e Registro Civil
+
+10ª Vara de Família e Registro Civil
+
+11ª Vara de Família e Registro Civil
+
+12ª Vara de Família e Registro Civil
+
+13ª Vara de Família e Registro Civil
+
+14ª Vara de Família e Registro Civil
+
+15ª Vara de Família e Registro Civil
+
+16ª Vara de Família e Registro Civil
+
+1ª Vara de Sucessões e Registros Públicos
+
+2ª Vara de Sucessões e Registros Públicos
+
+3ª Vara de Sucessões e Registros Públicos
+
+4ª Vara de Sucessões e Registros Públicos
+
+5ª Vara de Sucessões e Registros Públicos
+
+6ª Vara de Sucessões e Registros Públicos
+
+7ª Vara de Sucessões e Registros Públicos
+
+1ª Vara da Infância e Juventude
+
+2ª Vara da Infância e Juventude
+
+3ª Vara da Infância e Juventude
+
+4ª Vara da Infância e Juventude
+
+Vara Regional da Infância e Juventude
+
+1ª Vara de Acidentes do Trabalho
+
+2ª Vara de Acidentes do Trabalho
+
+Vara da Justiça Militar
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+4ª Vara Criminal
+
+5ª Vara Criminal
+
+6ª Vara Criminal
+
+7ª Vara Criminal
+
+8ª Vara Criminal
+
+9ª Vara Criminal
+
+10ª Vara Criminal
+
+11ª Vara Criminal
+
+12ª Vara Criminal
+
+13ª Vara Criminal
+
+14ª Vara Criminal
+
+1ª Vara de Crimes contra a Criança e o Adolescente
+
+2ª Vara de Crimes contra a Criança e o Adolescente
+
+1ª Vara do Tribunal do Júri
+
+2ª Vara do Tribunal do Júri
+
+3ª Vara do Tribunal do Júri
+
+4ª Vara do Tribunal do Júri
+
+1ª Vara de Execuções Penais
+
+2ª Vara de Execuções Penais
+
+Vara de Execução de Penas Alternativas
+
+Vara dos Crimes contra a Administração Pública e a Ordem Tributária
+
+1ª Vara de Entorpecentes
+
+2ª Vara de Entorpecentes
+
+1º Juizado de Violência Doméstica e Familiar contra a Mulher
+
+2º Juizado de Violência Doméstica e Familiar contra a Mulher
+
+1º Juizado Especial Cível e das Relações de Consumo
+
+2º Juizado Especial Cível e das Relações de Consumo
+
+3º Juizado Especial Cível e das Relações de Consumo
+
+4º Juizado Especial Cível e das Relações de Consumo
+
+5º Juizado Especial Cível e das Relações de Consumo
+
+6º Juizado Especial Cível e das Relações de Consumo
+
+7º Juizado Especial Cível e das Relações de Consumo
+
+8º Juizado Especial Cível e das Relações de Consumo
+
+9º Juizado Especial Cível e das Relações de Consumo
+
+10º Juizado Especial Cível e das Relações de Consumo
+
+11º Juizado Especial Cível e das Relações de Consumo
+
+12º Juizado Especial Cível e das Relações de Consumo
+
+13º Juizado Especial Cível e das Relações de Consumo
+
+14º Juizado Especial Cível e das Relações de Consumo
+
+15º Juizado Especial Cível e das Relações de Consumo
+
+16º Juizado Especial Cível e das Relações de Consumo
+
+17º Juizado Especial Cível e das Relações de Consumo
+
+18º Juizado Especial Cível e das Relações de Consumo
+
+19º Juizado Especial Cível e das Relações de Consumo
+
+20º Juizado Especial Cível e das Relações de Consumo
+
+21º Juizado Especial Cível e das Relações de Consumo
+
+22º Juizado Especial Cível e das Relações de Consumo
+
+23º Juizado Especial Cível e das Relações de Consumo
+
+24º Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Cível e das Relações de Consumo do Idoso
+
+Juizado Especial Criminal do Idoso
+
+1º Juizado Especial Criminal
+
+2º Juizado Especial Criminal
+
+3º Juizado Especial Criminal
+
+4º Juizado Especial Criminal
+
+Juizado Especial Cível e das Relações de Consumo e Criminal do Torcedor
+
+1º Juizado Especial da Fazenda Pública
+
+2º Juizado Especial da Fazenda Pública
+
+3º Juizado Especial da Fazenda Pública
+
+4º Juizado Especial da Fazenda Pública
+
+Central de Cartas de Ordem, Precatória e Rogatória
+
+Central de Conciliação, Mediação e Arbitragem
+
+Central de Combate ao Crime Organizado
 
 **”**
 
@@ -1826,1393 +1116,943 @@ Governador do Estado
 
 **QUANTITATIVO DE CARGOS DE MAGISTRADO**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="margin-left:90.45pt;border-collapse:collapse"><tbody><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TRIBUNAL DE JUSTIÇA</p></td><td width="216" valign="top" style="width:162.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">DESEMBARGADOR</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="216" valign="top" style="width:162.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">39</p></td></tr></tbody></table>
+TRIBUNAL DE JUSTIÇA
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 4.5pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Recife</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 4.5pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">140</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 4.5pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 4.5pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">70</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 4.5pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Abreu e Lima</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">06</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">1ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">23</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Camaragibe</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">08</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Jaboatão dos Guararapes</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">25</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Moreno</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Olinda</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">21</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Paulista</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">17</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São Lourenço da Mata</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Cabo de Santo Agostinho</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">16</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">2ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Ipojuca</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">06</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Igarassu</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">10</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">3ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Itamaracá</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Itapissuma</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vitória de Santo Antão</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">11</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">4ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Chã Grande</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Glória do Goitá</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Pombos</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Nazaré da Mata</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">5ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Aliança</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Buenos Aires</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Carpina</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Condado</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Ferreiros</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Goiana</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Itambé</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Itaquitinga</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Lagoa de Itaenga</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Macaparana</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Paudalho</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Timbaúba</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Tracunhaém</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vicência</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Palmares</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">06</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">6ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Água Preta</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Amaraji</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Barreiros</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Belém de Maria</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Catende</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Cortês</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Escada</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Gameleira</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Joaquim Nabuco</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Maraial</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Primavera</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Quipapá</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Ribeirão</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Rio Formoso</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São José da Coroa Grande</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Sirinhaém</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Tamandaré</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Caruaru</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">18</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">7ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">06</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Alagoinha</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Belo Jardim</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Bezerros</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Brejo da Madre de Deus</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Cachoeirinha</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Capoeiras</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Gravatá</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Jataúba</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Pesqueira</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Poção</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Riacho das Almas</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Sanharó</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São Bento do Una</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São Caetano</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Tacaimbó</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Bonito</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">8ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Agrestina</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Altinho</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Camocim de São Félix</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Cupira</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Ibirajuba</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Lagoa dos Gatos</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Panelas</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Sairé</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São Joaquim do Monte</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Limoeiro</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">9ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Bom Jardim</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Cumaru</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Feira Nova</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">João Alfredo</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Orobó</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Passira</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São Vicente Ferrer</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Garanhuns</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">11</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">10ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Angelim</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Bom Conselho</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Brejão</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Caetés</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Calçado</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Canhotinho</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Correntes</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Iati</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Jupi</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Jurema</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Lagoa do Ouro</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Lajedo</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Palmeirina</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Saloá</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São João</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Surubim</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">11ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Santa Cruz do Capibaribe</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">06</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Santa Maria do Cambucá</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Taquaritinga do Norte</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Toritama</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Vertentes</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Buíque</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">12ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Águas Belas</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Itaíba</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Pedra</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Tupanatinga</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Venturosa</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Afogados da Ingazeira</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">13ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Carnaíba</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Flores</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Itapetim</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São José do Egito</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Serra Talhada</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Tabira</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Triunfo</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Tuparetama</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Arcoverde</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">06</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">14ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Betânia</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Custódia</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Ibimirim</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Inajá</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Sertânia</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Salgueiro</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">06</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">15ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Mirandiba</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Parnamirim</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">São José do Belmonte</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Serrita</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Terra Nova</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Verdejante</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Floresta</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">16ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Belém de São Francisco</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Petrolândia</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Tacaratu</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Araripina</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">06</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">17ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">00</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">03</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Bodocó</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Exu</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Ipubi</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Moreilândia</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Ouricuri</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">04</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Trindade</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">COMARCA</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Circunscrição</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Petrolina</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">15</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">18ª</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">05</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Afrânio</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Cabrobó</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">02</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Lagoa Grande</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Orocó</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr><tr><td width="175" valign="top" style="width:131.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Santa Maria da Boa Vista</p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 4.5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">01</p></td><td width="109" valign="top" style="width:81.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="114" valign="top" style="width:85.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td><td width="86" valign="top" style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">&nbsp;</p></td></tr></tbody></table>
+DESEMBARGADOR
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" align="left" style="border-collapse:collapse;margin-left:4.8pt;margin-right:4.8pt"><tbody><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Cargos</p></td><td width="204" valign="top" style="width:153.0pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Quantitativo</p></td></tr><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Desembargador</p></td><td width="204" valign="top" style="width:153.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="right" style="text-align:right">39</p></td></tr><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito de 3ª Entrância</p></td><td width="204" valign="top" style="width:153.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="right" style="text-align:right">140</p></td></tr><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito de 2ª Entrância</p></td><td width="204" valign="top" style="width:153.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="right" style="text-align:right">276</p></td></tr><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito de 1ª Entrância</p></td><td width="204" valign="top" style="width:153.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="right" style="text-align:right">125</p></td></tr><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto de 3ª Entrância</p></td><td width="204" valign="top" style="width:153.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="right" style="text-align:right">70</p></td></tr><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz de Direito Substituto de 2ª Entrância</p></td><td width="204" valign="top" style="width:153.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="right" style="text-align:right">44</p></td></tr><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">Juiz Substituto</p></td><td width="204" valign="top" style="width:153.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="right" style="text-align:right">55</p></td></tr><tr><td width="341" valign="top" style="width:255.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="text-align:justify">TOTAL</p></td><td width="204" valign="top" style="width:153.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="right" style="text-align:right">749</p></td></tr></tbody></table>
+39
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Recife
+
+140
+
+70
+
+00
+
+Abreu e Lima
+
+06
+
+1ª
+
+23
+
+00
+
+Camaragibe
+
+08
+
+Jaboatão dos Guararapes
+
+25
+
+Moreno
+
+03
+
+Olinda
+
+21
+
+Paulista
+
+17
+
+São Lourenço da Mata
+
+05
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Cabo de Santo Agostinho
+
+16
+
+2ª
+
+05
+
+00
+
+Ipojuca
+
+06
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Igarassu
+
+10
+
+3ª
+
+01
+
+01
+
+Itamaracá
+
+02
+
+Itapissuma
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Vitória de Santo Antão
+
+11
+
+4ª
+
+01
+
+02
+
+Chã Grande
+
+01
+
+Glória do Goitá
+
+01
+
+Pombos
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Nazaré da Mata
+
+02
+
+5ª
+
+02
+
+04
+
+Aliança
+
+02
+
+Buenos Aires
+
+01
+
+Carpina
+
+05
+
+Condado
+
+01
+
+Ferreiros
+
+01
+
+Goiana
+
+04
+
+Itambé
+
+01
+
+Itaquitinga
+
+01
+
+Lagoa de Itaenga
+
+01
+
+Macaparana
+
+01
+
+Paudalho
+
+02
+
+Timbaúba
+
+03
+
+Tracunhaém
+
+01
+
+Vicência
+
+02
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Palmares
+
+06
+
+6ª
+
+02
+
+04
+
+Água Preta
+
+02
+
+Amaraji
+
+01
+
+Barreiros
+
+02
+
+Belém de Maria
+
+01
+
+Catende
+
+02
+
+Cortês
+
+01
+
+Escada
+
+02
+
+Gameleira
+
+01
+
+Joaquim Nabuco
+
+01
+
+Maraial
+
+01
+
+Primavera
+
+01
+
+Quipapá
+
+01
+
+Ribeirão
+
+02
+
+Rio Formoso
+
+01
+
+São José da Coroa Grande
+
+01
+
+Sirinhaém
+
+01
+
+Tamandaré
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Caruaru
+
+18
+
+7ª
+
+06
+
+05
+
+Alagoinha
+
+01
+
+Belo Jardim
+
+04
+
+Bezerros
+
+04
+
+Brejo da Madre de Deus
+
+02
+
+Cachoeirinha
+
+01
+
+Capoeiras
+
+01
+
+Gravatá
+
+05
+
+Jataúba
+
+01
+
+Pesqueira
+
+04
+
+Poção
+
+01
+
+Riacho das Almas
+
+01
+
+Sanharó
+
+01
+
+São Bento do Una
+
+02
+
+São Caetano
+
+02
+
+Tacaimbó
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Bonito
+
+03
+
+8ª
+
+00
+
+03
+
+Agrestina
+
+01
+
+Altinho
+
+01
+
+Camocim de São Félix
+
+01
+
+Cupira
+
+01
+
+Ibirajuba
+
+01
+
+Lagoa dos Gatos
+
+01
+
+Panelas
+
+01
+
+Sairé
+
+01
+
+São Joaquim do Monte
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Limoeiro
+
+05
+
+9ª
+
+00
+
+03
+
+Bom Jardim
+
+02
+
+Cumaru
+
+01
+
+Feira Nova
+
+01
+
+João Alfredo
+
+01
+
+Orobó
+
+01
+
+Passira
+
+01
+
+São Vicente Ferrer
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Garanhuns
+
+11
+
+10ª
+
+02
+
+05
+
+Angelim
+
+01
+
+Bom Conselho
+
+02
+
+Brejão
+
+01
+
+Caetés
+
+01
+
+Calçado
+
+01
+
+Canhotinho
+
+01
+
+Correntes
+
+01
+
+Iati
+
+01
+
+Jupi
+
+01
+
+Jurema
+
+01
+
+Lagoa do Ouro
+
+01
+
+Lajedo
+
+02
+
+Palmeirina
+
+01
+
+Saloá
+
+01
+
+São João
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Surubim
+
+05
+
+11ª
+
+00
+
+04
+
+Santa Cruz do Capibaribe
+
+06
+
+Santa Maria do Cambucá
+
+01
+
+Taquaritinga do Norte
+
+01
+
+Toritama
+
+02
+
+Vertentes
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Buíque
+
+02
+
+12ª
+
+00
+
+03
+
+Águas Belas
+
+01
+
+Itaíba
+
+01
+
+Pedra
+
+01
+
+Tupanatinga
+
+01
+
+Venturosa
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Afogados da Ingazeira
+
+04
+
+13ª
+
+00
+
+05
+
+Carnaíba
+
+01
+
+Flores
+
+01
+
+Itapetim
+
+01
+
+São José do Egito
+
+02
+
+Serra Talhada
+
+05
+
+Tabira
+
+01
+
+Triunfo
+
+01
+
+Tuparetama
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Arcoverde
+
+06
+
+14ª
+
+00
+
+03
+
+Betânia
+
+01
+
+Custódia
+
+02
+
+Ibimirim
+
+01
+
+Inajá
+
+01
+
+Sertânia
+
+02
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Salgueiro
+
+06
+
+15ª
+
+00
+
+03
+
+Mirandiba
+
+01
+
+Parnamirim
+
+01
+
+São José do Belmonte
+
+01
+
+Serrita
+
+01
+
+Terra Nova
+
+01
+
+Verdejante
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Floresta
+
+02
+
+16ª
+
+00
+
+02
+
+Belém de São Francisco
+
+01
+
+Petrolândia
+
+02
+
+Tacaratu
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Araripina
+
+06
+
+17ª
+
+00
+
+03
+
+Bodocó
+
+01
+
+Exu
+
+01
+
+Ipubi
+
+01
+
+Moreilândia
+
+01
+
+Ouricuri
+
+04
+
+Trindade
+
+02
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Petrolina
+
+15
+
+18ª
+
+02
+
+05
+
+Afrânio
+
+01
+
+Cabrobó
+
+02
+
+Lagoa Grande
+
+01
+
+Orocó
+
+01
+
+Santa Maria da Boa Vista
+
+01
+
+Cargos
+
+Quantitativo
+
+Desembargador
+
+39
+
+Juiz de Direito de 3ª Entrância
+
+140
+
+Juiz de Direito de 2ª Entrância
+
+276
+
+Juiz de Direito de 1ª Entrância
+
+125
+
+Juiz de Direito Substituto de 3ª Entrância
+
+70
+
+Juiz de Direito Substituto de 2ª Entrância
+
+44
+
+Juiz Substituto
+
+55
+
+TOTAL
+
+749
 
                                                                                                             **”**
 
@@ -3220,22 +2060,32 @@ Governador do Estado
 
 **CARGOS EFETIVOS CRIADOS PELA [LEI COMPLEMENTAR Nº 100, DE 21 DE NOVEMBRO DE 2007](https://legis.alepe.pe.gov.br/?lc1002007), COM AS ALTERAÇÕES REALIZADAS POR ESTA LEI COMPLEMENTAR**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="624" style="margin-left:.4pt;border-collapse:collapse"><tbody><tr><td width="540" style="width:405.0pt;border-top:inset;border-left:inset;
-  border-bottom:solid;border-right:solid;border-color:black;border-width:1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">Cargos</p></td><td width="84" style="width:63.0pt;border-top:inset black 1.0pt;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">Quantitativo</p></td></tr><tr><td width="540" style="width:405.0pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">Analista Judiciário, símbolo APJ – Função Judiciária e Administrativa</p></td><td width="84" style="width:63.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">455</p></td></tr><tr><td width="540" style="width:405.0pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">Técnico Judiciário, símbolo TPJ – Função Judiciária e Administrativa</p></td><td width="84" style="width:63.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">1.266</p></td></tr><tr><td width="540" style="width:405.0pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">Oficial de Justiça, símbolo OPJ – Função Judiciária e Administrativa</p></td><td width="84" style="width:63.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">390</p></td></tr><tr><td width="540" style="width:405.0pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">Analista Judiciário, símbolo APJ – Função Apoio Especializado (Assistente Social)</p></td><td width="84" style="width:63.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">156</p></td></tr><tr><td width="540" style="width:405.0pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">Analista Judiciário, símbolo APJ – Função Apoio Especializado (Psicólogo)</p></td><td width="84" style="width:63.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">156</p></td></tr><tr><td width="540" style="width:405.0pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:inset black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">Analista Judiciário, símbolo APJ – Função Apoio Especializado (Pedagogo)</p></td><td width="84" style="width:63.0pt;border-top:none;border-left:none;border-bottom:
-  inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">34</p></td></tr></tbody></table>
+Cargos
+
+Quantitativo
+
+Analista Judiciário, símbolo APJ – Função Judiciária e Administrativa
+
+455
+
+Técnico Judiciário, símbolo TPJ – Função Judiciária e Administrativa
+
+1.266
+
+Oficial de Justiça, símbolo OPJ – Função Judiciária e Administrativa
+
+390
+
+Analista Judiciário, símbolo APJ – Função Apoio Especializado (Assistente Social)
+
+156
+
+Analista Judiciário, símbolo APJ – Função Apoio Especializado (Psicólogo)
+
+156
+
+Analista Judiciário, símbolo APJ – Função Apoio Especializado (Pedagogo)
+
+34
 
                                                                                                                                                      **”**

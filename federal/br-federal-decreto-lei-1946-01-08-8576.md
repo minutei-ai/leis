@@ -1,5 +1,3 @@
-###DEL-008576-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.576 – DE 8 DE JANEIRO DE 1946
 
 Declara de utilidade pública o terreno que menciona, e permite que por meio de permuta por outro terreno se efetive sua desapropriação.

@@ -1,5 +1,3 @@
-###DEC-066067-0-000-14-01-1970@@@
-
 Decreto nº 66.067 - de 14 de janeiro de 1970
 
 Autoriza funcionamento de cursos.

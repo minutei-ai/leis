@@ -1,5 +1,3 @@
-###DEC-005416-0-000-07-04-2005@@@
-
 DECRETO Nº 5.416 DE 7 DE ABRIL DE 2005
 
 Acresce dispositivos ao art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto nº 88.777, de 30 de setembro de 1983.

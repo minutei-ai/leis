@@ -1,5 +1,3 @@
-###DEC-057244-0-000-12-11-1965@@@
-
 DECRETO Nº 57.244, DE 12 DE NOVEMBRO DE 1965.
 
 Aprova o Regimento da Campanha de Erradicação da Malária (CEM), criada pela Lei nº 4.709, de 28 de junho de 1965.

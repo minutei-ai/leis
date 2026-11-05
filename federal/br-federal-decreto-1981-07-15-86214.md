@@ -1,5 +1,3 @@
-###DEC-086214-0-000-15-07-1981@@@
-
 Decreto nº 86.214, de 15 de julho de 1981.
 
 Institui o Programa de Melhoria do Atendimento ao Público e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050143-0-000-27-01-1961@@@
-
 DECRETO Nº 50.143, DE 27 DE JANEIRO DE 1961.
 
 Institui a Comissão Nacional para os Assuntos da Associação Latino-Americana de Livre Comércio.

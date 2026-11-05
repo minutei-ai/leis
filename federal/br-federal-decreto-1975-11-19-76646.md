@@ -1,5 +1,3 @@
-###DEC-076646-0-000-19-11-1975@@@
-
 DECRETO Nº 76.646, DE 11 de NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Matemática do Centro Pedagógico de Três Lagoas, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208628)<br>
-
 # ATO DO PRESIDENTE N° 221, DE 05 DE OUTUBRO DE 2023
 
 ### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 1449, de 2023, que orça a Receita e fixa a Despesa do Estado para o exercício de 2024._

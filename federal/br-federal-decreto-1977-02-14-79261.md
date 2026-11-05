@@ -1,5 +1,3 @@
-###DEC-079261-0-000-14-02-1977@@@
-
 DECRETO Nº 79.261, DE 14 DE FEVEREIRO DE 1977.
 
 Autoriza a transformação de curso e funcionamento de habilitação na Faculdade Estadual de Filosofia, Ciências e Letras de Paranaguá, com sede na cidade de Paranaguá, Estado do Paraná.

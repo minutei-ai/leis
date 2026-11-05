@@ -1,5 +1,3 @@
-###DEC-007510-0-000-30-06-2011-PUB-01@@@
-
 DECRETO Nº 7.510, DE 30 DE JUNHO DE 2011
 
 Altera o art. 3º do Decreto no 6.722, de 30 de dezembro de 2008.

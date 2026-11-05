@@ -1,14 +1,12 @@
-###DEC-024620-0-000-03-03-1948@@@
+**DECRETO Nº24.620, DE 3 DE MARÇO DE 1948.**
 
-<strong>DECRETO Nº</strong> <strong>24.620, DE 3 DE MARÇ</strong><strong>O DE 1948.</strong>
+***Declara de utilidade pú**blica diversas á**reas de terra situadas no lugar denominado Vossoroca, municí**pio de Sã**o José**dos Pinhais, Estado do Paraná**, necessá**rias à**construçã**o de uma barragem para acumulaçã**o sazonal a ser utilizada na usina de Chaminé**, cuja autorizaçã**o foi outorgada pelo Decreto nº**22.765, de 19 de març**o de 1947, e autoriza a mesma Companhia a desapropriá**\-las.***
 
-<em><strong>Declara de utilidade pú</strong></em><em><strong>blica diversas á</strong></em><em><strong>reas de terra situadas no lugar denominado Vossoroca, municí</strong></em><em><strong>pio de Sã</strong></em><em><strong>o José</strong></em> <em><strong>dos Pinhais, Estado do Paraná</strong></em><em><strong>, necessá</strong></em><em><strong>rias à</strong></em> <em><strong>construçã</strong></em><em><strong>o de uma barragem para acumulaçã</strong></em><em><strong>o sazonal a ser utilizada na usina de Chaminé</strong></em><em><strong>, cuja autorizaçã</strong></em><em><strong>o foi outorgada pelo Decreto nº</strong></em> <em><strong>22.765, de 19 de març</strong></em><em><strong>o de 1947, e autoriza a mesma Companhia a desapropriá</strong></em><em><strong>\-las.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o requerido pela interessada, o disposto nos arts. 151, letra *b* do Decreto nº 24.643, de 10 de julho de 1934; 3º, 5º, alínea *f,* e 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, e Decreto-lei nº 4.152, de 6 de março de 1942,
 
-<strong>O PRESIDENTE DA REPÚ</strong><strong>BLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o requerido pela interessada, o disposto nos arts. 151, letra <em>b</em> do Decreto nº 24.643, de 10 de julho de 1934; 3º, 5º, alínea <em>f,</em> e 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, e Decreto-lei nº 4.152, de 6 de março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública diversas áreas de terra situadas no lugar denominado Vossoroca, município de São José dos Pinhais, Estado do Paraná, necessárias à construção de uma barragem para acumulação sazonal, a se utilizada na usina de Chaminé, cuja autorização foi outorgada pelo Decreto nº 22.765, de 19 de março de 1947, e autoriza a mesma Companhia a desapropriá\-las, de acôrdo com as plantas apresentadas e aprovadas:
+**Art**. 1º Ficam declaradas de utilidade pública diversas áreas de terra situadas no lugar denominado Vossoroca, município de São José dos Pinhais, Estado do Paraná, necessárias à construção de uma barragem para acumulação sazonal, a se utilizada na usina de Chaminé, cuja autorização foi outorgada pelo Decreto nº 22.765, de 19 de março de 1947, e autoriza a mesma Companhia a desapropriá\-las, de acôrdo com as plantas apresentadas e aprovadas:
 
 1 - área de terra de 669.976 (seiscentos e sessenta e nove mil e novecentos e setenta e seis) metros quadrados, de propriedade atribuída a Custódio Cruz, situada no vale do rio São Joãozinho, município de São José dos Pinhais, Estado do Paraná;
 
@@ -78,14 +76,14 @@
 
 34 - área de 50.031 (cinqüenta mil e trinta e um) metros quadrados, de propriedade atribuída a Gabriel Batista, situada no vale do rio São Joãozinho, município de São José dos Pinhais, Estado do Paraná;
 
-<strong>Art.</strong> 2º A Companhia Fôrça e Luz do Paraná S. A. fica autorizada a promover a desapropriação das mencionadas áreas de terra, com fundamento no art. 3º e de conformidade com o disposto  no art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, e o parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, citados.
+**Art.** 2º A Companhia Fôrça e Luz do Paraná S. A. fica autorizada a promover a desapropriação das mencionadas áreas de terra, com fundamento no art. 3º e de conformidade com o disposto  no art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, e o parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, citados.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições me contrário.
+**Art**. 4º Revogam-se as disposições me contrário.
 
 Rio de Janeiro, 3 de março de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###DEC-075964-0-000-11-07-1975@@@
-
 DECRETO Nº 75.964 - DE 11 DE JULHO DE1975
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos de acrescidos de marinha que menciona, situados na cidade de Rio Grande, Estado do Rio Grande do Sul.

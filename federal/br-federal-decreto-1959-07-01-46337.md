@@ -1,5 +1,3 @@
-###DEC-046337-0-000-01-07-1959@@@
-
 DECRETO Nº 46.337, DE 1º DE JULHO DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

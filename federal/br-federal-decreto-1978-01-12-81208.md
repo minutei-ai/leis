@@ -1,5 +1,3 @@
-###DEC-081208-0-000-12-01-1978@@@
-
 Decreto nº 81.208, de 12 de janeiro de 1978
 
 Autoriza o serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Campinas, Estado de São Paulo.

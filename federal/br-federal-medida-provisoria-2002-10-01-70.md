@@ -1,5 +1,3 @@
-###MPV-000070-0-000-01-10-2002@@@
-
 MEDIDA PROVISÓRIA Nº 70, DE 1º DE OUTUBRO DE 2002
 
 Dispõe sobre a participação de capital estrangeiro nas empresas jornalísticas e de radiodifusão sonora e de sons e imagens, conforme o § 4º do art. 222 da Constituição, altera os arts. 38 e 64 da Lei nº 4.117, de 27 de agosto de 1962, o § 3º do art. 12 do Decreto-Lei nº 236, de 28 de fevereiro de 1967, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001955-0-063-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.955-63, DE 06 de JANEIRO DE 2000.
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

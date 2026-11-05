@@ -1,5 +1,3 @@
-###DEC-049287-0-000-18-11-1960@@@
-
 Decreto nº 49.287, de 18 de novembro de 1960.
 
 Autoriza a Emprêsa Sul Brasileira de Eletricidade S.A. a ampliar suas instalações no município de Jaraguá do Sul, Estado de Santa Catarina.

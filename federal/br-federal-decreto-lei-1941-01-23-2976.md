@@ -1,5 +1,3 @@
-###DEL-002976-0-000-23-01-1941@@@
-
 DECRETO-LEI N. 2.976 – DE 23 DE JANEIRO DE 1941
 
 Altera a classificação das despesas com a construção da ponte internacional Brasil-Argentina

@@ -1,5 +1,3 @@
-###DEC-086869-0-000-25-01-1982@@@
-
 Decreto nº 86.869, de 25 de janeiro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa destinada à passagem de linha de distribuição da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

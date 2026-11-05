@@ -1,7 +1,3 @@
-1
-
-###DEL-001082-0-000-05-02-1970@@@
-
 # DECReTO-LEI Nº 1.082, DE 5 De FEVEREIRO DE 1970
 
 Prorroga o prazo concedido ao Conselho de Política Aduaneira para apreciação dos “valôres mínimos“ nas importações, estabelecidos pela Carteira de Comércio Exterior do Banco do Brasil S.A. (CACEX).

@@ -1,5 +1,3 @@
-###DEC-003699-0-000-22-12-2000@@@
-
 DECRETO Nº 3.699, DE 22 DE DEZEMBRO DE 2000.
 
 Dispõe sobre a cessão de servidor integrante da Carreira Auditoria da Receita Federal a Estado, Distrito Federal ou a Município.

@@ -1,5 +1,3 @@
-###DEC-068859-0-000-05-07-1971@@@
-
 Decreto nº 68.859, de 5 de julho de 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 55.995, de 22 de abril de 1965, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "Caxitoré", no município de Pentecoste, Estado do Ceará.

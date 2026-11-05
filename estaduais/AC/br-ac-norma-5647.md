@@ -1,6 +1,10 @@
 > **LEI Nº 4.124, DE 11 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei n° 3.799, de 28 de outubro de 2021, que Cria a Carteira Estadual da Pessoa com Transtorno do Espectro Autista – e-CEPTEA.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei n° 3.799, de 28 de outubro de 2021, que Cria a Carteira Estadual da Pessoa com Transtorno do Espectro Autista – e-CEPTEA.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

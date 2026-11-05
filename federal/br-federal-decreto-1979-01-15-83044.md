@@ -1,5 +1,3 @@
-###DEC-083044-0-000-15-01-1979@@@
-
 DECRETO Nº 83.044, DE 15 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de pedagogia, ministrado pela Faculdade Niteroiense de Educação, Letras e Turismo, com sede na cidade de Niterói, Estado do Rio de Janeiro.

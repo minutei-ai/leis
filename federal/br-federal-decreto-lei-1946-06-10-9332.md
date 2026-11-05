@@ -1,5 +1,3 @@
-###DEL-009332-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.332 – DE 10 DE JUNHO DE 1946
 
 Extingue a Inspetoria da Arma de Cavalaria

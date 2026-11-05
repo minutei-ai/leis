@@ -1,5 +1,3 @@
-###DEC-045491-0-000-26-02-1959@@@
-
 DECERTO Nº 45.491, DE 26 DE Fevereiro DE 1959.
 
 Concede a Elias Zaidan Maluf & Filhos autorização para funcionar como emprêsa de mineração.

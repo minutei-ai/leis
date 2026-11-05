@@ -1,5 +1,3 @@
-###DEL-006490-0-000-11-05-1944@@@
-
 DECRETO-LEI N. 6.490 – DE 11 DE MAIO DE 1944
 
 Exclui dos benefícios do abono familiar os servidores públicos beneficiados pelo regime de salário-família

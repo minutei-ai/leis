@@ -1,5 +1,3 @@
-###DEC-046915-0-000-29-09-1959@@@
-
 DECRETO Nº 46.915, DE 29 DE SETEMBRO DE 1959.
 
 Abre, ao Ministério da Fazenda, o crédito extraordinário de Cr$ 15.000.000,00. para o fim que especifica.

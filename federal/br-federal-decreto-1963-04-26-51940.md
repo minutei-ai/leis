@@ -1,5 +1,3 @@
-###DEC-051940-0-000-26-04-1963@@@
-
 DECRETO Nº 51.940, DE 26 DE ABRIL DE 1963.
 
 Autoriza a S.A., Indústrias Votorantim a pesquisar argila no município de Sorocaba, Estado de São Paulo.

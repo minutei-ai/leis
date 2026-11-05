@@ -1,5 +1,3 @@
-###DEL-007261-0-000-19-01-1945@@@
-
 DECRETO-LEI N. 7.261 – DE 19 DE JANEIRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar o Dispensário São José do pagamento do impôsto que menciona

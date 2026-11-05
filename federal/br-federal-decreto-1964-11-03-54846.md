@@ -1,5 +1,3 @@
-###DEC-054846-0-000-03-11-1964@@@
-
 DECRETO Nº 54.846, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Antônio Toshio Hara a pesquisar água mineral no município de Cotia, Estado de São Paulo.

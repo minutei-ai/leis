@@ -1,5 +1,3 @@
-###DEC-074503-0-000-04-09-1974@@@
-
 DECRETO Nº 74.503, DE 4 DE SETEMBRO DE 1974.
 
 Cria a Embaixada do Brasil na República da Guiné.

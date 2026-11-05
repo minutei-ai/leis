@@ -1,36 +1,34 @@
-###DEC-060819-0-000-06-06-1967@@@
+**DECRETO Nº 60.819, DE 6 DE JUNHO DE 1967.**
 
-<strong>DECRETO Nº 60.819, DE 6 DE JUNHO DE 1967.</strong>
+***Aprova o Regimento Interno da Seção Brasileira da Comissão Mista Brasileira-Uruguaia para o Desenvolvimento da Bacia da Lagoa Mirim (CLM) e dá outras providências.***
 
-<em><strong>Aprova o Regimento Interno da Seção Brasileira da Comissão Mista Brasileira-Uruguaia para o Desenvolvimento da Bacia da Lagoa Mirim (CLM) e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento Interno da Seção Brasileira da Comissão Mista Brasileira-Uruguaia para Desenvolvimento da Bacia da Lagoa Mirim (CLM) que com êste baixa, assinado pelo Ministro do Interior e pelo Ministro das Relações Exteriores.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento Interno da Seção Brasileira da Comissão Mista Brasileira-Uruguaia para Desenvolvimento da Bacia da Lagoa Mirim (CLM) que com êste baixa, assinado pelo Ministro do Interior e pelo Ministro das Relações Exteriores.
+**Art**. 2º Fica extinto o Grupo de Trabalho da Baixada Sul Riograndense, transferido à responsabilidade e utilização da Seção Brasileira da CLM todo o acervo de bens e serviços de que dispõe o mencionado Grupo de Trabalho.
 
-<strong>Art</strong>. 2º Fica extinto o Grupo de Trabalho da Baixada Sul Riograndense, transferido à responsabilidade e utilização da Seção Brasileira da CLM todo o acervo de bens e serviços de que dispõe o mencionado Grupo de Trabalho.
+**Art**. 3º Ficam ratificados os fatos anteriormente praticados pela Seção Brasileira da CLM, no uso das atribuições decorrentes das Notas Reversais entre os Governos do Brasil e do Uruguai em 26 de abril de 1963 e 5 agôsto de 1965.
 
-<strong>Art</strong>. 3º Ficam ratificados os fatos anteriormente praticados pela Seção Brasileira da CLM, no uso das atribuições decorrentes das Notas Reversais entre os Governos do Brasil e do Uruguai em 26 de abril de 1963 e 5 agôsto de 1965.
-
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 6 de junho de 1967; 146º da Independência e 79º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 José de Magalhães Pinto
 
 Afonso A. Lima
 
-<strong>SEÇÃO BRASILEIRA DA COMISSÃO MISTA BRASILEIRO-URUGUAIA PARA O DESENVOLVIMENTO DA BACIA DA LAGOA MIRIM</strong>
+**SEÇÃO BRASILEIRA DA COMISSÃO MISTA BRASILEIRO-URUGUAIA PARA O DESENVOLVIMENTO DA BACIA DA LAGOA MIRIM**
 
 REGIMENTO INTERNO
 
 Finalidade
 
-<strong>Art</strong>. 1º A Seção Brasileira (SB), órgão vinculado diretamente ao Ministério do Interior, tem por finalidade dar cumprimento na área brasileira, aos compromissos internacionais assumidos pelo Brasil, definidos na Notas Reversais trocadas com a República Oriental do Uruguai a 26 de abril de 1963 e 5 de agôsto de 1965.
+**Art**. 1º A Seção Brasileira (SB), órgão vinculado diretamente ao Ministério do Interior, tem por finalidade dar cumprimento na área brasileira, aos compromissos internacionais assumidos pelo Brasil, definidos na Notas Reversais trocadas com a República Oriental do Uruguai a 26 de abril de 1963 e 5 de agôsto de 1965.
 
 § 1º A SB é o órgão de planejamento específico da área.
 
@@ -38,7 +36,7 @@ Finalidade
 
 Atribuições
 
-<strong>Art</strong>. 2º São atribuições da Seção:
+**Art**. 2º São atribuições da Seção:
 
 I - Superintender, coordenar e executar, em caráter supletivo, as operações que cabem ao Govêrno;
 
@@ -62,11 +60,11 @@ X - Executar quaisquer outras tarefas correlatas que lhe forem cometidas pelo Go
 
 Composição
 
-<strong>Art</strong>. 3º A Seção, como parte integrante do organismo internacional, é constituída de representantes do Govêrno, em número estabelecidos de conformidade com o art. 9º do Regulamento da CLM (Decreto nº 57.564, de 31 de dezembro de 1965) designados pelo Presidente da República, mediante indicação do Ministro do Interior.
+**Art**. 3º A Seção, como parte integrante do organismo internacional, é constituída de representantes do Govêrno, em número estabelecidos de conformidade com o art. 9º do Regulamento da CLM (Decreto nº 57.564, de 31 de dezembro de 1965) designados pelo Presidente da República, mediante indicação do Ministro do Interior.
 
 Organizações
 
-<strong>Art</strong>. 4º A Seção tem a seguinte estrutura:
+**Art**. 4º A Seção tem a seguinte estrutura:
 
 I - Gabinete da Chefia;
 
@@ -78,7 +76,7 @@ b) Setor Adminstrativo;
 
 III - Assessoria Jurídica.
 
-<strong>Art</strong>. 5º São atribuições do Chefe da Seção:
+**Art**. 5º São atribuições do Chefe da Seção:
 
 I - Representar a Seção;
 
@@ -98,7 +96,7 @@ VIII - Delegar qualquer de suas atribuições ao Secretário Executivo.
 
 Parágrafo único. O Chefe da Seção será designado pelo Presidente da República e escolhido entre os representantes do Govêrno, mediante indicação do Ministro do Interior, ouvido o Ministério das Relações Exteriores.
 
-<strong>Art</strong>. 6º São atribuições da Secretaria Executiva:
+**Art**. 6º São atribuições da Secretaria Executiva:
 
 I - Supervisionar, organizar, coordenar e orientar a execução dos serviços em geral da Seção;
 
@@ -108,7 +106,7 @@ III - Secretariar as reuniões da Seção, fazendo lavrar as respectivas atas.
 
 Parágrafo único. Os serviços da Secretaria Executiva são supervisionados e coordenados por um Secretário Executivo de reconhecida capacidade técnica, designado pelo Presidente da República, por indicação do Ministro do Interior.
 
-<strong>Art</strong>. 7º São atribuições do Secretário Executivo:
+**Art**. 7º São atribuições do Secretário Executivo:
 
 I - Supervisionar, organizar, coordenar e orientar a execução dos serviços necessários ao atendimento dos encargos da Seção;
 
@@ -124,7 +122,7 @@ VI - Executar outras tarefas correlatas que lhe forem cometidas pelo Chefe da Se
 
 VII - Substituir o Chefe da Seção no seus impedimentos eventuais.
 
-<strong>Art</strong>. 8º São atribuições do Setor Técnico:
+**Art**. 8º São atribuições do Setor Técnico:
 
 I - Assessorar a Seção em tudo o que se referir a projetos regionais destinados a promover o desenvolvimento da Bacia da Lagoa Mirim executando com êsse objetivo os serviços requeridos;
 
@@ -134,7 +132,7 @@ II - Executar outras tarefas correlatas que lhe forem cometidas pelo Secretario 
 
 § 2º O Setor Técnico terá tantos subsetores quantos forem necessários, criados por ato do Chefe da Seção, ouvido o Ministério do Interior.
 
-<strong>Art</strong>. 9º São atribuições do Setor Administrativo a supervisão, coordenação, direção e execução dos serviços atinentes à administração da Seção.
+**Art**. 9º São atribuições do Setor Administrativo a supervisão, coordenação, direção e execução dos serviços atinentes à administração da Seção.
 
 Parágrafo único. Para a realização dessas atribuições o Setor Administrativo tem a seguinte estrutura:
 
@@ -150,7 +148,7 @@ Parágrafo único. Para a realização dessas atribuições o Setor Administrati
 
 6 - Subsetor de Serviços Auxiliares.
 
-<strong>Art</strong>. 10. São atribuições do Setor Administrativo:
+**Art**. 10. São atribuições do Setor Administrativo:
 
 I - Dirigir, coordenar e supervisionar os serviços do Setor;
 
@@ -172,7 +170,7 @@ IX - Propor, ao Serviço do Patrimônio da União, o registro e tombamento dos b
 
 X - Executar outras atribuições próprias do cargo ou que lhe sejam atribuídas pelo Secretário Executivo.
 
-<strong>Art</strong>. 11. São atribuições do Subsetor de Expediente:
+**Art**. 11. São atribuições do Subsetor de Expediente:
 
 I - Receber os expedientes e papéis destinados à Seção, registrando-os para que possam ser identificados;
 
@@ -192,7 +190,7 @@ VIII - Executar serviços mecanográficos;
 
 IX - Executar outras tarefas correlatas que lhe forem cometidas pelo Chefe do Setor Administrativo.
 
-<strong>Art</strong>. 12. São atribuições do Setor de Pessoal:
+**Art**. 12. São atribuições do Setor de Pessoal:
 
 I - Organizar e manter o arquivo da documentação relativa à vida funcional de cada servidor, conservando atualizados os assentamentos individuais do pessoal;
 
@@ -212,7 +210,7 @@ VIII - Elaborar as folhas de pagamento do pessoal;
 
 IX - Executar outras tarefas correlatas que lhe forem cometidas pelo Chefe do Setor Administrativo.
 
-<strong>Art</strong>. 13. São atribuições do Sub-setor de Contabilidade e Orçamento:
+**Art**. 13. São atribuições do Sub-setor de Contabilidade e Orçamento:
 
 I - Elaborar a proposta orçamentária da Seção, sob a supervisão do Chefe do Setor Administrativo, segundo as normas e processos técnicos aplicáveis;
 
@@ -242,7 +240,7 @@ XIII - Executar outras tarefas correlatas que lhe forem cometidas pelo Chefe do 
 
 Parágrafo único. A Chefia do Sub-setor de Contabilidade e Orçamento será provida por técnico habilitado e devidamente registrado em Conselho de Contabilidade.
 
-<strong>Art</strong>. 14. São atribuições do Sub-setor de Material e Patrimônio:
+**Art**. 14. São atribuições do Sub-setor de Material e Patrimônio:
 
 I - Fazer a previsão do material necessário aos trabalhos das diversas unidades da Seção;
 
@@ -262,7 +260,7 @@ VIII - Prestar contas, sempre que requerido, dos bens e materiais entregues à s
 
 IX - Executar outras tarefas correlatas que lhe forem incumbidas pelo Chefe do Setor Administrativo.
 
-<strong>Art</strong>. 15. São atribuições do Sub-setor de Comunicações e Arquivo:
+**Art**. 15. São atribuições do Sub-setor de Comunicações e Arquivo:
 
 I - Proferir despachos interlocutórios visando ao melhor esclarecimento dos fatos e instruções de expedientes;
 
@@ -290,7 +288,7 @@ XII - Prestar as informações que lhe forem solicitadas relativas ao material d
 
 XIII - Executar outras tarefas correlatas que lhe forem cometidas pelo Chefe do Setor Administrativo.
 
-<strong>Art</strong>. 16. São atribuições do Sub-setor de Serviços Auxiliares:
+**Art**. 16. São atribuições do Sub-setor de Serviços Auxiliares:
 
 I - Responsabilizar-se pela abertura e fechamento dos locais de trabalho e de acesso à Seção;
 
@@ -316,7 +314,7 @@ XI - Fiscalizar o consumo de materiais, combustíveis e lubrificantes, visando �
 
 XII - Executar outras tarefas correlatas que lhe forem cometidas pelo Chefe do Setor Administrativo.
 
-<strong>Art</strong>. 17. São atribuições da Assessoria Jurídica:
+**Art**. 17. São atribuições da Assessoria Jurídica:
 
 I - Assistir à Seção em todos os assuntos que envolvam matéria jurídica;
 
@@ -326,19 +324,19 @@ Parágrafo único. Os serviços da Assessoria Jurídica terão como responsável
 
 FUNCIONAMENTO
 
-<strong>Art</strong>. 18. A Seção reunir-se-á em sua sede ou outro local previamente indicado, uma vez por mês ordinariamente e, extraordinariamente, sempre que solicitado pela maioria de seus membros por via de expediente em que serão relatadas as razões do pedido.
+**Art**. 18. A Seção reunir-se-á em sua sede ou outro local previamente indicado, uma vez por mês ordinariamente e, extraordinariamente, sempre que solicitado pela maioria de seus membros por via de expediente em que serão relatadas as razões do pedido.
 
-<strong>Art</strong>. 19. A Chefia da Seção comunicará aos membros, com antecedência mínima de três dias, os assuntos que irão constar da Ordem do Dia das reuniões. Tratando-se de reunião extraordinária, a comunicação far-se-á acompanhar das razões determinantes da convocação do Plenário.
+**Art**. 19. A Chefia da Seção comunicará aos membros, com antecedência mínima de três dias, os assuntos que irão constar da Ordem do Dia das reuniões. Tratando-se de reunião extraordinária, a comunicação far-se-á acompanhar das razões determinantes da convocação do Plenário.
 
 Parágrafo único. Em cada reunião ordinária serão fixados local, data e hora em que a próxima reunião será realizada.
 
-<strong>Art</strong>. 20. Sempre que um membro da Seção estiver impossibilitado de comparecer à reunião comunicará à Chefia para que conste da ata.
+**Art**. 20. Sempre que um membro da Seção estiver impossibilitado de comparecer à reunião comunicará à Chefia para que conste da ata.
 
-<strong>Art</strong>. 21. As reuniões serão realizadas com a presença da maioria dos membros da Seção e as resoluções obedecerão ao sistema majoritário.
+**Art**. 21. As reuniões serão realizadas com a presença da maioria dos membros da Seção e as resoluções obedecerão ao sistema majoritário.
 
-<strong>Art</strong>. 22. A Seção pode constituir comissões específicas de caráter transitório; para fins de assessoramento ou estudo particularizado de qualquer assunto de interêsse do órgão, cabendo a essas comissões a elaboração de relatórios conclusivos sôbre as matérias que lhes tiverem sido submetidas.
+**Art**. 22. A Seção pode constituir comissões específicas de caráter transitório; para fins de assessoramento ou estudo particularizado de qualquer assunto de interêsse do órgão, cabendo a essas comissões a elaboração de relatórios conclusivos sôbre as matérias que lhes tiverem sido submetidas.
 
-<strong>Art</strong>. 23. Das reuniões da Seção, lavrar-se-ão atas que serão paginadas em seqüência ininterrupta e sendo aprovada, receberão as assinaturas de todos os membros presentes.
+**Art**. 23. Das reuniões da Seção, lavrar-se-ão atas que serão paginadas em seqüência ininterrupta e sendo aprovada, receberão as assinaturas de todos os membros presentes.
 
 § 1º A ata de uma reunião será lida e aprovada na reunião seguinte.
 
@@ -346,7 +344,7 @@ Parágrafo único. Em cada reunião ordinária serão fixados local, data e hora
 
 § 3º Tôdas as fôlhas constitutivas da Ata deverão ser autenticadas pelos membros presentes à reunião, constando da última fôlha, a assinatura por extenso de cada um dêles acima de seus respectivos nomes inscritos datilograficamente.
 
-<strong>Art</strong>. 24. Das atas constarão necessariamente:
+**Art**. 24. Das atas constarão necessariamente:
 
 I - Natureza da reunião;
 
@@ -366,33 +364,33 @@ VIII - Declarações de voto, se solicitado;
 
 IX - Qualquer outro fato tratado na reunião.
 
-<strong>DISPOSIÇÕES GERAIS</strong>
+**DISPOSIÇÕES GERAIS**
 
-<strong>Art</strong>. 25. A Seção tem sua sede em Pôrto Alegre (RS).
+**Art**. 25. A Seção tem sua sede em Pôrto Alegre (RS).
 
 § 1º Poderá ser transferida a sede da Seção Brasileira para qualquer centro urbano de importância da Bacia de Lagoa Mirim, a juízo do Ministério do Interior, ouvida previamente a CLM, através do Ministério das Relações Exteriores.
 
 § 2º A Secretaria Executiva fica sediada em Pelotas, podendo, eventualmente, a juízo da Seção, ser transferida para qualquer outra cidade brasileira da bacia.
 
-<strong>Art</strong>. 26. O Secretário Executivo e o Chefe do Setor Técnico, nos impedimentos temporários de um deles, substituir-se-ão, reciprocamente, até o retorno do titular ausente.
+**Art**. 26. O Secretário Executivo e o Chefe do Setor Técnico, nos impedimentos temporários de um deles, substituir-se-ão, reciprocamente, até o retorno do titular ausente.
 
 Parágrafo único. No caso de vaga de um desses cargos, será observado o mesmo critério acima até a designação do titular do pôsto vago.
 
-<strong>Art</strong>. 27. As Chefias do Setor devem ser providas por profissionais de reconhecida competência, devidamente habilitados para os cargos.
+**Art**. 27. As Chefias do Setor devem ser providas por profissionais de reconhecida competência, devidamente habilitados para os cargos.
 
-<strong>Art</strong>. 28. As remunerações do pessoal da Seção, inclusive gratificações e demais vantagens, serão fixadas em tabelas aprovadas pelo Ministério do Interior.
+**Art**. 28. As remunerações do pessoal da Seção, inclusive gratificações e demais vantagens, serão fixadas em tabelas aprovadas pelo Ministério do Interior.
 
 Parágrafo único. O Chefe da Seção e os funcionários requisitados, em exercício no seu Gabinete, perceberão Gratificações de Representação a ser fixada por ato do Ministro do Interior, guardada equivalência com os níveis de salário estabelecidos para o pessoal contratado pela Seção, regido pela Legislação Trabalhista.
 
-<strong>Art</strong>. 29. O pessoal contratado nos têrmos do art. 2º, item IX, e artigo 5º, item VI, terá suas relações de trabalho regidas pela Consolidação das Leis do Trabalho.
+**Art**. 29. O pessoal contratado nos têrmos do art. 2º, item IX, e artigo 5º, item VI, terá suas relações de trabalho regidas pela Consolidação das Leis do Trabalho.
 
-<strong>Art</strong>. 30. Os papéis pertencentes ao arquivo da Seção não poderão ser confiados a pessoas estranhas ao seu serviço, nem será permitida consulta aos mesmos sem expressa autorização do Chefe da Seção.
+**Art**. 30. Os papéis pertencentes ao arquivo da Seção não poderão ser confiados a pessoas estranhas ao seu serviço, nem será permitida consulta aos mesmos sem expressa autorização do Chefe da Seção.
 
-<strong>Art</strong>. 31. É vedado tirar cópia de documentos do arquivo do órgão sem autorização expressa do Chefe da Seção ou do Secretário Executivo.
+**Art**. 31. É vedado tirar cópia de documentos do arquivo do órgão sem autorização expressa do Chefe da Seção ou do Secretário Executivo.
 
-<strong>Art</strong>. 32. Os documentos reservados, confidenciais ou secretos deverão ser conservados em arquivos de correspondência especial.
+**Art**. 32. Os documentos reservados, confidenciais ou secretos deverão ser conservados em arquivos de correspondência especial.
 
-<strong>Art</strong>. 33. Serão automaticamente substituído, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 33. Serão automaticamente substituído, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Chefe do Setor por um Chefe de Subsetor;
 
@@ -400,7 +398,7 @@ II - O Chefe de Subsetor por outro Chefe de Subsetor do mesmo Setor.
 
 Parágrafo único. O Chefe da Seção designará, previamente, os servidores substitutos.
 
-<strong>Art</strong>. 34. Aos servidores da Seção serão fornecidas carteiras de identificação, com validade temporária e renováveis periodicamente.
+**Art**. 34. Aos servidores da Seção serão fornecidas carteiras de identificação, com validade temporária e renováveis periodicamente.
 
 Parágrafo único. Documento idêntico poderá ser proporcionado também aos seguintes dependentes do servidor:
 
@@ -410,6 +408,6 @@ II - Filhos e enteados menores ou incapazes;
 
 III - Filhas e enteadas solteiras.
 
-<strong>JOSÉ DE MAGALHÃES PINTO</strong>
+**JOSÉ DE MAGALHÃES PINTO**
 
 Afonso A Lima

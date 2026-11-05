@@ -1,5 +1,3 @@
-###DEC-075673-0-000-29-04-1975@@@
-
 DECRETO Nº 75.673, DE 29 DE ABRIL DE 1975.
 
 Aprova alteração introduzida nos Estatutos da Petróleo Brasileiro S.A. - PETROBRÁS.

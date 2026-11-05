@@ -1,5 +1,3 @@
-###DEC-050874-0-000-29-06-1961@@@
-
 DECRETO Nº 50.874, DE 29 DE JUNHO DE 1961
 
 Concede nacionalização à sociedade anônima Warner International Corporation, sob a denominação de Laboratórios Warner S.A.

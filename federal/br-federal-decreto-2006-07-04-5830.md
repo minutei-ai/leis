@@ -1,5 +1,3 @@
-###DEC-005830-0-000-04-07-2006@@@
-
 DECRETO Nº 5.830, DE 4 DE JULHO DE 2006. <http://legislacao.planalto.gov.br/legislacao.nsf/Viw\_Identificacao/DEC%205.830-2006?OpenDocument>
 
 Dá nova redação ao § 3o do art. 131 do Anexo ao Decreto no 5.741, de 30 de março de 2006.
@@ -19,5 +17,3 @@ Brasília, 4 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
           Luiz Carlos Guedes Pinto
-
-Este texto não substitui o publicado no D.O.U. de 5.7.2006

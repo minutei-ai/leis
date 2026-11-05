@@ -1,5 +1,3 @@
-###DEC-007607-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.607, DE 17 DE NOVEMBRO DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 2009, de 16 de setembro de 2011, do Conselho de Segurança das Nações Unidas, que altera o regime de sanções aplicadas à Líbia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098039-0-000-10-08-1989@@@
-
 DECRETO N° 98.039, DE 10 DE AGOSTO DE 1989
 
 Dispõe sobre o regime administrativo dos Arsenais de Guerra que menciona.

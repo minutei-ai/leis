@@ -1,5 +1,3 @@
-###DEC-089313-0-000-24-01-1984@@@
-
 Decreto nº 89.313, de 24 de janeiro de 1984.
 
 Altera o Decreto nº 62.724, de 17 de maio de 1968, e o Regulamento a que se refere o Decreto nº 68.419, de 25 de março de 1971 que dispõem, respectivamente, sobre normas gerais de tarifação para os Concessionários de serviços públicos de energia elétrica, e o Imposto Único sobre Energia Elétrica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008222-0-000-26-11-1945@@@
-
 DECRETO-LEI N. 8.222 – DE 26 DE NOVEMBRO DE 1945
 
 Dá nova redação aos arts. 2º e 3º do Decreto-lei n º 1.417, de 13 de julho de 1939.

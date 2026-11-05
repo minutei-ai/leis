@@ -1,5 +1,3 @@
-###DEL-007711-0-000-06-07-1945@@@
-
 DECRETO-LEI N. 7.711 – DE 6 DE JULHO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 400.000,00, em favor da Comissão Executiva Têxtil

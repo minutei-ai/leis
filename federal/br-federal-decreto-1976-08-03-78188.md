@@ -1,5 +1,3 @@
-###DEC-078188-0-000-03-08-1976@@@
-
 DECRETO Nº 78.188, DE 3 DE AGOSTO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Itatiaia Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Nova Lima, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-004096-0-000-22-01-2002@@@
-
 DECRETO Nº 4.096, DE 22 DE JANEIRO DE 2002.
 
 Considera de natureza militar os cargos ocupados por militares da ativa das Forças Armadas, no Ministério da Ciência e Tecnologia, e dá outras providências.

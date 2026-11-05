@@ -1,7 +1,3 @@
-1
-
-###DEC-098826-0-000-15-01-1990@@@
-
 DECRETO N° 98.826, DE 15 DE JANEIRO DE 1990
 
 Homologa o demarcação administrativa da Terra Indígena Carretão I, que menciona, no Estado de Goiás.

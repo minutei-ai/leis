@@ -1,5 +1,3 @@
-###DEC-007541-0-000-02-08-2011-PUB-01@@@
-
 DECRETO Nº 7.541, DE 2 DE AGOSTO DE 2011.
 
 Altera o Anexo V ao Decreto n~~º~~ 6.890, de 29 de junho de 2009, que altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI.

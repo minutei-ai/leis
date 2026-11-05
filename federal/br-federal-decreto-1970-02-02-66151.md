@@ -1,5 +1,3 @@
-###DEC-066151-0-000-02-02-1970@@@
-
 DECRETO Nº 66.151 - DE 2 DE FEVEREIRO DE 1970
 
 Autoriza firma brasileira a operar com draga de propriedade estrangeira, na extração de areia, na região de Foz de Iguaçu.

@@ -1,5 +1,3 @@
-###DEC-091772-0-000-14-10-1985@@@
-
 Decreto nº 91.772, de 14 de outubro de 1985
 
 Altera o Art. 1º do Decreto nº 90.134 de 30 de agosto de 1984, que autorizou o funcionamento do curso de Ciências Econômicas.

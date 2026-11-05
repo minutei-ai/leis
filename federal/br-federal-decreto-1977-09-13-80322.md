@@ -1,5 +1,3 @@
-###DEC-080322-0-000-13-09-1977@@@
-
 DECRETO Nº 80.322, DE 13 DE SETEMBRO DE 1977
 
 Aprova a transformação do curso de Matemática, ministrado pela Faculdade de Filosofia, Ciências e Letras de Umuarama, mantida pela Associação Paranaense de Ensino e Cultura, com sede na cidade de Umuarama, em curso de Ciências.

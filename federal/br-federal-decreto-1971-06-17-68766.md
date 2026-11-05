@@ -1,5 +1,3 @@
-###DEC-068766-0-000-17-06-1971@@@
-
 DECRETO Nº 68.766 - DE 17 DE JUNHO DE 1971.
 
 Revoga o Decreto 50.281, de 18 de fevereiro de 1961.

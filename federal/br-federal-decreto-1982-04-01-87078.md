@@ -1,5 +1,3 @@
-###DEC-087078-0-000-01-04-1982@@@
-
 Decreto nº 87.078, de 1º de abril de 1982
 
 Altera alíquotas do Imposto sobre Produtos Industrializados incidente sobre os produtos que menciona.

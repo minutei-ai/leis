@@ -1,5 +1,3 @@
-###DEC-076477-0-000-20-10-1975@@@
-
 DECRETO Nº 76.477, DE 20 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção da subestação denominada "Cruzeiro", da Companhia Paulista de Força e Luz- CPFL no Estado de São Paulo.

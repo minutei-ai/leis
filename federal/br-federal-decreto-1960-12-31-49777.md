@@ -1,5 +1,3 @@
-###DEC-049777-0-000-31-12-1960@@@
-
 DECRETO Nº 49.777, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza Mineração Ouro Branco Limitada a pesquisar caulim e argila no município de Cotia, Estado de São Paulo.

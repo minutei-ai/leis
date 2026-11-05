@@ -1,5 +1,3 @@
-###DEC-047752-0-000-03-02-1960@@@
-
 DEcreto nº 47.752, de 3 de fevereiro de 1960.
 
 Restabelece e transfere função do Conselho Nacional do Petróleo, e dá outras providências.

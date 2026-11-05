@@ -1,5 +1,3 @@
-###DEC-067076-0-000-18-08-1970@@@
-
 DECRETO Nº 67.076, DE 18 DE AGÔSTO DE 1970.
 
 Declara caduco o decreto nº 24.783 de 12 de abril de 1948.

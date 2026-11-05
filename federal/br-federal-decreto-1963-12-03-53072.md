@@ -1,5 +1,3 @@
-###DEC-053072-0-000-03-12-1963@@@
-
 Decreto nº 53.072, de 3 de dezembro de 1963.
 
 Cria o Grupo de Trabalho da Indústria de Materiais e Equipamentos para Petróleo.

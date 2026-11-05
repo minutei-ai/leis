@@ -1,5 +1,3 @@
-###DEL-007695-0-000-30-06-1945@@@
-
 DECRETO-LEI N. 7.695 – DE 30 DE JUNHO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 653,30, para pagamento de gratificação de magistério.

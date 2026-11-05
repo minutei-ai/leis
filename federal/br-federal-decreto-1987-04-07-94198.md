@@ -1,5 +1,3 @@
-###DEC-094198-0-000-07-04-1987@@@
-
 DECRETO Nº 94.198, DE 7 DE ABRIL DE 1987
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (DNOS), área de terra necessária à construção do Aeroporto de Pinheiro, no Município de Pinheiro, Estado do Maranhão.

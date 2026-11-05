@@ -1,5 +1,3 @@
-###DEC-091185-0-000-03-04-1985@@@
-
 DECRETO Nº 91.185, DE 03 DE ABRIL DE 1985
 
 Altera a redação do art. 1º do Decreto nº 83.323, de 11 de abril de 1979, e do art. 2º do Decreto nº 85.776, de 26 de fevereiro de 1981.

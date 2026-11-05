@@ -1,5 +1,3 @@
-###DEC-002801-0-000-13-10-1998@@@
-
 DECRETO Nº 2.801, DE 13 DE OUTUBRO DE 1998
 
 Revoga o inciso IV do art. 2º do Decreto nº 99.525, de 14 de setembro de 1990, que institui, no Ministério das Relações Exteriores, o Programa Complementar de Assistência Médica do Serviço Exterior.

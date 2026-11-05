@@ -1,5 +1,3 @@
-###DEC-074273-0-000-09-07-1974@@@
-
 Decreto nº 74.273 - de 9 de julho de 1974.
 
 Altera o Quadro de Pessoal da Universidade Federal do Rio Grande do Norte, aprovado pelo Decreto número 51.469, de 21 de maio de 1962, bem como o enquadramento do pessoal beneficiado pelo parágrafo único, do artigo 23, da Lei nº 4.069, de 11 de junho de 1962, aprovado pelo Decreto nº 51.769, de 1º de março de 1963, e dá outras providências.

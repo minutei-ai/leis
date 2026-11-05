@@ -1,5 +1,3 @@
-###DEC-055478-0-000-08-01-1965@@@
-
 decreto nº 55.478, de 8 de janeiro de 1965.
 
 Autoriza a Emprêsa Brasileira de Engenharia S. A. a pesquisar ouro no município de São Félix do Xingu, Estado do Pará.

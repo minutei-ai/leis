@@ -1,7 +1,3 @@
-1
-
-###DEC-099706-0-000-20-11-1990@@@
-
 DECRETO N° 99.706, DE 20 DE NOVEMBRO DE 1990
 
 Dispõe sobre a execução da Ata de Retificação do Oitavo Protocolo Adicional ao Acordo Comercial n° 15, entre o Brasil, a Argentina e o México.

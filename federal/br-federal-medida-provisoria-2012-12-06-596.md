@@ -1,5 +1,3 @@
-###MPV-000596-0-000-06-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº\- 596 , DE 6 DE DEZEMBRO DE 2012
 
 Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e da Integração Nacional, no valor de R$ 573.330.080,00, para os fins que especifica.

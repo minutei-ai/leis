@@ -1,5 +1,3 @@
-###DEC-065468-0-000-21-10-1969@@@
-
 DECRETO Nº 65.468 - DE 21 DE OUTUBRO DE 1969.
 
 Homologa modificações do Regulamento da Administração do Exército e da outras providências.

@@ -1,5 +1,3 @@
-###DEC-058557-0-000-31-05-1966@@@
-
 DECRETO Nº 58.557, DE 31 DE MAIO DE 1966.
 
 Altera o Regulamento para a Assistência Médico-Social da Armada, aprovado pelo Decreto nº 47.057, de 21 de outubro de 1959.

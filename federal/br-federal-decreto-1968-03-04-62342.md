@@ -1,5 +1,3 @@
-###DEC-062342-0-000-04-03-1968@@@
-
 DECRETO Nº 62.342, DE 4 DE MARÇO DE 1968.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Saúde, cargos oriundos do extinto Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

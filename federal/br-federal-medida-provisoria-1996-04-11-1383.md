@@ -1,7 +1,3 @@
-1
-
-###MPV-001383-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.383, DE 11 DE ABRIL DE 1996.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089650-0-000-11-05-1984@@@
-
 Decreto nº 89.650, de 11 de maio de 1984
 
 Altera o Decreto nº 59.607, de 28 de novembro de 1966, que regulamenta a Lei nº 5.025, de 10 de junho de 1966, e o Decreto-lei  nº 24, de 19 de outubro de 1966, que dispõem sobre o intercâmbio comercial com o exterior.

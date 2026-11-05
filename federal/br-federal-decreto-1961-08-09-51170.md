@@ -1,5 +1,3 @@
-###DEC-051170-0-000-09-08-1961@@@
-
 Decreto nº 51.170, de 9 de agôsto de 1961.
 
 Dá nova redação ao artigo 5º do Decreto nº 29.026, de 23 de dezembro de 1950.

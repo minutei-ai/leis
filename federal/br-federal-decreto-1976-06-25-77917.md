@@ -1,5 +1,3 @@
-###DEC-077917-0-000-25-06-1976@@@
-
 DECRETO Nº 77.917, DE 25 DE JUNHO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada ao Governo do Estado do Acre para que a autarquia Serviço de Divulgação do Estado do Acre - SERDA, através da Rádio Difusora Acreana, execute serviço de radiodifusão sonora em onda tropical, na Cidade de Rio Branco, Estado do Acre.

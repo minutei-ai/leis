@@ -1,5 +1,3 @@
-###DEC-005866-0-000-03-08-2006@@@
-
 DECRETO Nº 5.866, DE 3 DE AGOSTO DE 2006.
 
 Promulga a Convenção entre o Governo da República Federativa do Brasil e o Governo do Reino dos Países Baixos relativa à Assistência Administrativa Mútua para Aplicação Apropriada da Legislação Aduaneira e para a Prevenção, Investigação e Combate às Infrações Aduaneiras, celebrada em Brasília, em 7 de março de 2002.
@@ -24,11 +22,7 @@ Brasília, 3 de agosto de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 5.8.2006
-
-CONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
+       Celso Luiz Nunes AmorimCONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 
 GOVERNO DO REINO DOS PAÍSES BAIXOS RELATIVA À ASSISTÊNCIA
 

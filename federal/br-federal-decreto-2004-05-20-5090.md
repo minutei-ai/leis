@@ -1,5 +1,3 @@
-###DEC-005090-0-000-20-05-2004@@@
-
 DECRETO Nº 5.090, DE 20 DE MAIO DE 2004
 
 Regulamenta a Lei nº 10.858, de 13 de abril de 2004, e institui o programa "Farmácia Popular do Brasil", e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-054306-0-000-25-09-1964@@@
-
 DECRETO Nº 54.306, DE 25 DE SETEMBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Duque de caxias, Estado do Rio de Janeiro.

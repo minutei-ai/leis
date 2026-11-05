@@ -1,5 +1,3 @@
-###DEC-075322-0-000-29-01-1975@@@
-
 DECRETO Nº 75.322, DE 29 DE JANEIRO DE 1975.
 
 Mudança de denominação de Unidades da Força Terrestre.

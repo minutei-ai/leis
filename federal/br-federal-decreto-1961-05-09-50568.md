@@ -1,5 +1,3 @@
-###DEC-050568-0-000-09-05-1961@@@
-
 DECRETO Nº 50.568, DE 9DE MAIO DE 1961.
 
 Concede à sociedade Peixoto Gonçalves, Navegação S. A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

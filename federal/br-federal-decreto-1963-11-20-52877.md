@@ -1,5 +1,3 @@
-###DEC-052877-0-000-20-11-1963@@@
-
 DECRETO Nº 52.877, DE 20 DE NOVEMBRO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno que menciona, no Estado do Paraná.

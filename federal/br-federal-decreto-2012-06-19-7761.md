@@ -1,5 +1,3 @@
-###DEC-007761-0-000-19-06-2012-PUB-01@@@
-
 DECRETO N° 7.761, DE 19 DE JUNHO DE 2012
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia para a Construção de uma Ponte Internacional sobre o Igarapé Rapirrã entre as Cidades de Plácido de Castro e Montevidéu, firmado em La Paz, em 17 de dezembro de 2007.

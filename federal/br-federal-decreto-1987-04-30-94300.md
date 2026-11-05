@@ -1,5 +1,3 @@
-###DEC-094300-0-000-30-04-1987@@@
-
 DECRETO Nº 94.300, DE 30 DE ABRIL DE 1987.
 
 Renova a concessão outorgada à RÁDIO NAJUÁ DE IRATI LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Irati, Estado do Paraná.

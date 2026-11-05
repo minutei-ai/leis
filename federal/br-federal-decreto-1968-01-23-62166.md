@@ -1,5 +1,3 @@
-###DEC-062166-0-000-23-01-1968@@@
-
 DECRETO Nº 62.166, DE 23 DE JANEIRO DE 1968.
 
 Revoga o Decreto nº 53.736, de 18.3.64.

@@ -1,5 +1,3 @@
-###DEC-002210-0-000-22-04-1997@@@
-
 DECRETO Nº 2.210, DE 22 DE ABRIL DE 1997
 
 Regulamenta o Decreto-Lei nº 1.809, de 7 de outubro de 1980, que instituiu o Sistema de Proteção ao Programa Nuclear Brasileiro (SEPRON), e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098658-0-000-21-12-1989@@@
-
 DECRETO N° 98.658, DE 21 DE DEZEMBRO DE 1989
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/80, entre o Brasil e o México (Acordo n° 9).

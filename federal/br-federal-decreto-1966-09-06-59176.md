@@ -1,5 +1,3 @@
-###DEC-059176-0-000-06-09-1966@@@
-
 decreto nº 59.176, de 6 de setembro de 1966.
 
 Declara de utilidade pública o “Instituto Isabel”, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-057975-0-000-11-03-1966@@@
-
 DECRETO Nº 57.975, DE 11 DE MARÇO DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 45.663, de 30 de março de 1959, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Sohen” no Estado da Bahia.

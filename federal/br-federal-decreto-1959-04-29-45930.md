@@ -1,5 +1,3 @@
-###DEC-045930-0-000-29-04-1959@@@
-
 Decreto nº 45.930, de 29 de abril de 1959.
 
 Concede à Mindobrás - Minérios do Brasil S.A. autorização para funcionar como emprêsa de mineração.

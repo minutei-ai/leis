@@ -1,5 +1,3 @@
-###DEL-008392-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.392 – DE 17 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a aposentadoria de Olímpio Olinto de Oliveira

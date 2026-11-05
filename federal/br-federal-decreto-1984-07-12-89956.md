@@ -1,5 +1,3 @@
-###DEC-089956-0-000-12-07-1984@@@
-
 Decreto nº 89.956, de 12 de julho de 1984.
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República do Equador.

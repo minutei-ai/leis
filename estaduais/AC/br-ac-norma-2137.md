@@ -1,6 +1,10 @@
 > **LEI Nº 3.380, DE 16 DE ABRIL DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a alienar bens semoventes através da Secretaria de Estado de Agropecuária – SEAP.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a alienar bens semoventes através da Secretaria de Estado de Agropecuária – SEAP.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -23,5 +27,3 @@ Rio Branco-Acre, 16 de maio de 2018, 130º da República, 116º do Tratado de Pe
 **Tião Viana**
 
 Governador do Estado do Acre
-
-<br>

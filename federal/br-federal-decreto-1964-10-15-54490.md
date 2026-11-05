@@ -1,5 +1,3 @@
-###DEC-054490-0-000-15-10-1964@@@
-
 Decreto nº 54.490, de 15 de outubro de 1964.
 
 Cria o Consulado do Brasil em Rijeka

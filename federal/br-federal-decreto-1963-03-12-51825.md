@@ -1,5 +1,3 @@
-###DEC-051825-0-000-12-03-1963@@@
-
 DECRETO Nº 51.825, DE 12 DE MARÇO DE 1963.
 
 Declara de utilidade pública glebas de terra situadas nos municípios de Igaraçu do Tietê - São Manuel - Botucatu - Anhembi - Conchas - Laranjal Paulista - Piracicaba - São Pedro - Dois Córregos - Minérios do Tietê e Barra Bonita todos no Estado de São Paulo, necessárias à bacia de acumulação da usina Hidroelétrica “Jânio Quadros” antiga “Barra Bonita”, da Companhia Hidroelétrica do Rio Pardo, e autoriza a citada companhia a promover a desapropriação das referidas glebas.

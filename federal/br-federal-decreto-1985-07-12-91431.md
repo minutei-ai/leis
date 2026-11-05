@@ -1,5 +1,3 @@
-###DEC-091431-0-000-12-07-1985@@@
-
 DEcRETo Nº 91.431, de 12 de julho de 1985
 
 Aprova o Estatuto da Companhia Brasileira de Armazenamento - CIBRAZEM e dá outras providências.

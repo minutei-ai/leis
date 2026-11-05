@@ -1,5 +1,3 @@
-###DEC-070213-0-000-29-02-1972@@@
-
 DECRETO nº 70.213, DE 29 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras Tibiriçá, com os Cursos de Letras, Matemática e Ciências (1° Grau).

@@ -1,5 +1,3 @@
-###DEC-087258-0-000-07-06-1982@@@
-
 DECRETO Nº 87.258, DE 07 DE JUNHO DE 1982
 
 Concede autorização ao navio de pesquisa soviético, "PROFESSOR STOCKMAN" para realizar na região do estuário do rio Amazonas e em águas adjacentes os serviços que especifica.

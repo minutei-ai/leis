@@ -1,5 +1,3 @@
-###DEC-078464-0-000-27-09-1976@@@
-
 DECRETO Nº 78.464, DE 27 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Engenharia de Pesca, da Universidade Federal Rural de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

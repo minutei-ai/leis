@@ -1,5 +1,3 @@
-###MPV-000320-0-000-24-08-2006@@@
-
 MEDIDA PROVISÓRIA Nº 320, DE 24 DE AGOSTO DE 2006.
 
 Dispõe sobre a movimentação e armazenagem de mercadorias importadas ou despachadas para exportação, o alfandegamento de locais e recintos, a licença para explorar serviços de movimentação e armazenagem de mercadorias em Centro Logístico e Industrial Aduaneiro, altera a legislação aduaneira e dá outras providências.
@@ -567,5 +565,3 @@ Brasília, 24 de agosto de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
          Bernard Appy
-
-Este texto não substitui o publicado no D.O.U. de 25.8.2006

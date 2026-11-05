@@ -1,5 +1,3 @@
-###DEC-091214-0-000-30-04-1985@@@
-
 Decreto nº 91.214 de 30 de abril de 1985.
 
 Cria o Ministério da Reforma e do Desenvolvimento Agrário - MIRAD, dispõe sobre sua estrutura, e dá outras providências.

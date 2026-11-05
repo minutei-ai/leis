@@ -1,5 +1,3 @@
-###DEC-074323-0-000-26-07-1974@@@
-
 DECRETO Nº 74.323, DE 26 DE JulhO DE 1974.
 
 Concede autorização à "Word Meterological Organization", para realizar, no mar territorial do Brasil, os serviços que especifica.

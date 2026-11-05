@@ -1,5 +1,3 @@
-###DEC-002275-0-000-15-07-1997@@@
-
 DECRETO Nº 2.275, DE 15 DE JULHO DE 1997
 
 Dispõe sobre a execução do Protocolo de Registro do Acordo de Complementação Econômica nº 36, entre os Governos dos Estados Partes do MERCOSUL, e o Governo da República da Bolívia, de 27 de fevereiro de 1997.

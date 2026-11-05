@@ -1,5 +1,3 @@
-###DEL-006654-0-000-30-06-1944@@@
-
 DECRETO-LEI N. 6.654 – DE 30 DE JUNHO DE 1944
 
 Abre, sem aumento de despesa, crédito suplementar ao Ministério da Agricultura, e dá outras providências

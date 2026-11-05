@@ -1,5 +1,3 @@
-###DEC-079852-0-000-23-06-1977@@@
-
 DECRETO Nº 79.852, DE 23 DE JUNHO DE 1977
 
 Concede reconhecimento aos cursos de Estudos Sociais, de Letras e de Pedagogia, da Faculdade de Educação, Ciências e Letras Simonsen, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

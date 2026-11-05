@@ -1,5 +1,3 @@
-###DEC-007676-0-000-06-02-2012-PUB-01@@@
-
 DECRETO Nº 7.676, DE 6 DE FEVEREIRO DE 2012
 
 Dispõe sobre a execução no Território Nacional de decisão do Comitê de Sanções do Conselho de Segurança das Nações Unidas estabelecido pela Resolução no 1970 (2011) relativo à Líbia, pela qual se altera a lista de entidades sujeitas a sanções.

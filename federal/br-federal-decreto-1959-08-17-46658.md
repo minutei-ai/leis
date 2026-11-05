@@ -1,5 +1,3 @@
-###DEC-046658-0-000-17-08-1959@@@
-
 DECRETO Nº 46.658, DE 17 DE AGÔSTO DE 1959.
 
 Renova o Decreto nº 41.922, de 29 de julho de 1957.

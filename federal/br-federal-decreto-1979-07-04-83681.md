@@ -1,5 +1,3 @@
-###DEC-083681-0-000-04-07-1979@@@
-
 decreto nº 83.681, de 04 de julho de 1979.
 
 Institui a COMISSÃO NACIONAL DE ENERGIA

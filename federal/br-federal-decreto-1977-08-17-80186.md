@@ -1,5 +1,3 @@
-###DEC-080186-0-000-17-08-1977@@@
-
 DECRETO Nº 80.186, DE 17 DE AGOSTO DE 1977.
 
 Concede à Construção e Comércio Camargo Corrêa S.A. o direito de lavrar calcário no Município de Apiaí, Estado de São Paulo.

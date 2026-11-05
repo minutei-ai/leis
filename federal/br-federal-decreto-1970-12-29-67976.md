@@ -1,5 +1,3 @@
-###DEC-067976-0-000-29-12-1970@@@
-
 DECRETO Nº 67.976, DE 29 DE DEZEMBRO DE 1970.
 
 Concede à A. Sammarone Júnior Emprêsa de Mineração o direito de lavrar argila, areia quartzosa e quartzitos, nos municípios de Jundiaí e Várzea Paulista, Estado de São Paulo.

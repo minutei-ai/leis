@@ -1,5 +1,3 @@
-###DEC-002964-0-000-24-02-1999@@@
-
 DECRETO Nº 2.964, DE 24 DE FEVEREIRO DE 1999.
 
 Dá nova redação ao art. 2º do Decreto nº 2.927, de 8 de janeiro de 1999.

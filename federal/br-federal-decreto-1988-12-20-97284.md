@@ -1,5 +1,3 @@
-###DEC-097284-0-000-20-12-1988@@@
-
 DECRETO Nº 97.284, DE 20 DE DEZEMBRO DE 1988
 
 Abre ao Orçamento da União, em favor de diversos Órgãos, o crédito suplementar de CZ$ 92.248.202.000,00, para reforço de dotações consignadas no vigente Orçamento.

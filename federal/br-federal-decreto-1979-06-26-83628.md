@@ -1,5 +1,3 @@
-###DEC-083628-0-000-26-06-1979@@@
-
 Decreto nº 83.628, de 26 de junho de 1979.
 
 Autoriza o funcionamento do curso de Ciências Contábeis e da  habilitação em Comércio Exterior do curso de administração da Faculdade de Ciências Administrativas e Contábeis, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-077240-0-000-26-02-1976@@@
-
 DECRETO Nº 77.240, DE 26 DE FEVEREIRO DE 1976.
 
 Regulamenta a concessão da Gratificação por Serviços Especiais, nos casos que especifica, é dá outras providências.
@@ -14,7 +12,23 @@ Parágrafo único. A gratificação a que se refere este artigo não se aplica a
 
 Art. 2º Os valores da Gratificação por Serviços Especiais, de que trata este Decreto, e o requisito a ser observado para a respectiva aplicação são os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Valor Mensal</span></p></td><td style="width:301.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Requesito</span></p></td></tr><tr><td style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$ 1.100,00 800,00</span></p></td><td style="width:301.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ocupantes de cargos ou empregos de nível médio, integrantes dos dois últimos Níveis dos Grupos. Ocupantes de cargos ou empregos de nível médio, integrantes dos demais Níveis dos Grupos, ou de cargos ou empregos a que sejam afetas atividades de transporte e portaria.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Valor Mensal
+
+</td><td style="width:301.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Requesito
+
+</td></tr><tr><td style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Cr$ 1.100,00 800,00
+
+</td><td style="width:301.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Ocupantes de cargos ou empregos de nível médio, integrantes dos dois últimos Níveis dos Grupos. Ocupantes de cargos ou empregos de nível médio, integrantes dos demais Níveis dos Grupos, ou de cargos ou empregos a que sejam afetas atividades de transporte e portaria.
+
+</td></tr></tbody></table>
 
 Art. 3º A Gratificação por Serviços Especiais não se incorpora, para qualquer efeito, ao vencimento ou salário do servidor.
 

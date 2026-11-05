@@ -1,5 +1,3 @@
-###DEC-003331-0-000-07-01-2000@@@
-
 decreto nº 3.331, de 7 de janeiro de 2000.
 
 Revoga o art. 20 do Decreto nº 2.451, de 5 de janeiro de 1998.

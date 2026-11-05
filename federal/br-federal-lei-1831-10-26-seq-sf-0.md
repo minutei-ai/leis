@@ -1,5 +1,3 @@
-###LEI-000000-0-000-26-10-1831@@@
-
 LEI - DE 26 DE OUTUBRO DE 1831
 
 Prescreve o modo de processar os crimes publicos e particulares e dá outras providencias quanto aos policiaes.

@@ -1,5 +1,3 @@
-###DEL-008714-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.714 – DE 18 DE JANEIRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 50.000,00 à verba que especifica.

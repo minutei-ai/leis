@@ -1,5 +1,3 @@
-###DEL-000326-0-000-08-05-1967@@@
-
 DECRETO-LEI Nº 326, DE 8 DE MAIO DE 1967
 
 Dispõe sôbre o recolhimento do impôsto sôbre produtos industrializados e dá outras providências.

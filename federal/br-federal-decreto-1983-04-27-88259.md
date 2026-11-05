@@ -1,5 +1,3 @@
-###DEC-088259-0-000-27-04-1983@@@
-
 decreto nº 88.259, de 27 de abril de 1983
 
 Revoga o Decreto nº 1.126, de 04 de junho de 1962 que outorgou concessão a RÁDIO EDUCADORA DE UBERLÂNDIA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Uberlândia, Estado de Minas Gerais.

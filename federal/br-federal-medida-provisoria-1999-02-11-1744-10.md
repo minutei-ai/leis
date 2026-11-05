@@ -1,5 +1,3 @@
-###MPV-001744-0-010-11-02-1999@@@
-
 medida provisória nº 1.744-10, de 11 de fevereiro de 1999.
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

@@ -1,5 +1,3 @@
-###DEC-064543-0-000-19-05-1969@@@
-
 DECRETO Nº 64.543, DE 19 DE MAIO 1969.
 
 Aprova o Plano de Reestruturação da Universidade de Caxias do Sul - RS.

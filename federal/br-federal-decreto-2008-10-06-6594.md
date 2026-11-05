@@ -1,5 +1,3 @@
-###DEC-006594-0-000-06-10-2008@@@
-
 DECRETO Nº 6.594, DE 6 DE OUTUBRO DE 2008.
 
 Institui o Programa Mercosul Social e Participativo.

@@ -1,5 +1,3 @@
-###DEC-083145-0-000-07-02-1979@@@
-
 Decreto nº 83.145, de 07 de fevereiro de 1979
 
 Declara a utilidade pública, para fins de desapropriação, áreas de terras, situada sem São José dos Campos, no Estado de São Paulo, necessárias ao Ministério da Aeronáutica.

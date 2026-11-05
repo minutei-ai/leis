@@ -1,5 +1,3 @@
-###DEC-047273-0-000-20-11-1959@@@
-
 Decreto nº 47.273, de 20 de novembro de 1959.
 
 Considera de interêsse militar as funções exercidas no CODENO e no DNOCS, por Oficiais do Exército, Engenheiros Militares.

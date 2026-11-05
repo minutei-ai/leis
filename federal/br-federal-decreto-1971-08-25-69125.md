@@ -1,5 +1,3 @@
-###DEC-069125-0-000-25-08-1971@@@
-
 DECRETO Nº 69.125, DE 25 DE AGôSTO DE 1971.
 
 Autoriza o funcionamento do Curso de Licenciatura em Ciências da Faculdade de Filosofia, Ciências e Letras de Marília, S.P.

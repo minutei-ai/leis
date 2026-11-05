@@ -1,5 +1,3 @@
-###DEC-069319-0-000-06-10-1971@@@
-
 DECRETO Nº 69.319, DE 6 DE OUTUBRO DE 1971.
 
 Altera o artigo 23 e seu parágrafo único do Regulamento dos Incentivos Fiscais para o Desenvolvimento Florestal do País.

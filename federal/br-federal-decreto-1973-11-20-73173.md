@@ -1,5 +1,3 @@
-###DEC-073173-0-000-20-11-1973@@@
-
 DECRETO Nº 73.173 - DE 20 DE NOVEMBRO DE1973
 
 Dispõe sobre a estrutura administrativa do Ministério Público da União junto à Justiça Militar e dá outras providências.

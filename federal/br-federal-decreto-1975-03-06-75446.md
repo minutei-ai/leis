@@ -1,5 +1,3 @@
-###DEC-075446-0-000-06-03-1975@@@
-
 DECRETO Nº 75.446, DE 6 DE MARÇO DE 1975.
 
 Altera o artigo 2°, do Decreto nº 73.711, de 1º de março de 1974.

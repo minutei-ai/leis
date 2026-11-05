@@ -1,5 +1,3 @@
-###DEC-071945-0-000-20-03-1973@@@
-
 DECRETO Nº 71.945, DE 20 DE MARÇO DE 1973.
 
 Altera o aproveitamento de disponível do extinto Território Federal de Ponta Porã.

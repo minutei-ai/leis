@@ -1,5 +1,3 @@
-###DEC-087391-0-000-13-07-1982@@@
-
 Decreto nº 87.391, de 13 de julho de 1982
 
 Autoriza o aumento do Capital Social da Companhia de Desenvolvimento de Roraima-CODESAIMA

@@ -1,5 +1,3 @@
-###DEC-045274-0-000-23-01-1959@@@
-
 decreto nº 45.274, de 23 de janeiro de 1959.
 
 Altera o § 2º do artigo 4º do Regulamento de Bases e Destacamentos de Bases Aéreas.

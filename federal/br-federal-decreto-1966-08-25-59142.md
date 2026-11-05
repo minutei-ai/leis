@@ -1,5 +1,3 @@
-###DEC-059142-0-000-25-08-1966@@@
-
 DECRETO Nº 59.142, DE 25 DE AGOSTO DE 1966.
 
 Concede autorização para o Funcionamento da Escola Superior de Química “Oswaldo Cruz” de São Paulo.

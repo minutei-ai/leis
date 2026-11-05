@@ -1,5 +1,3 @@
-###DEC-051839-0-000-14-03-1963@@@
-
 DECRETO Nº 51.839, DE 14 DE MARÇO DE 1963.
 
 Inclui função gratificada no Quadro Permanente do Ministério da Saúde

@@ -1,5 +1,3 @@
-###DEC-081489-0-000-29-03-1978@@@
-
 Decreto nº 81.489, de 29 de março de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

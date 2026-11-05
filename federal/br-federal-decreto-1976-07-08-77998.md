@@ -1,5 +1,3 @@
-###DEC-077998-0-000-08-07-1976@@@
-
 decreto nº 77.998, de 8 de julho de 1976.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na Cidade de Guarulhos, Estado de São Paulo.

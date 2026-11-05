@@ -1,5 +1,3 @@
-###DEC-083172-0-000-13-02-1979@@@
-
 DECRETO Nº 83.172, DE 13 DE FEVEREIRO DE 1979.
 
 Concede autorização ao "R/V ALEXANDER VON HUMBOLDT" para realizar, no mar territorial do Brasil, os serviços que especifica.

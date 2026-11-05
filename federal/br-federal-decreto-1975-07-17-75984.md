@@ -1,5 +1,3 @@
-###DEC-075984-0-000-17-07-1975@@@
-
 DECRETO Nº 75.984 - DE 17 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Estatística da Universidade Católica de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

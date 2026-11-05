@@ -1,5 +1,3 @@
-###DEC-083369-0-000-25-04-1979@@@
-
 Decreto nº 83.369, de 25 de abril de 1979.
 
 Concede reconhecimento ao curso de Odontologia, da Faculdade de Odontologia de Santo Amaro, na capital do Estado de São Paulo.

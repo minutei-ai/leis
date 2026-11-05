@@ -1,5 +1,3 @@
-###DEC-066867-0-000-13-07-1970@@@
-
 Decreto nº 66.867, de 13 de julho de 1970.
 
 Retifica o Decreto nº 66.819, de 1 de julho de 1970, que dispõe sôbre os depósitos devidos ao Fundo de Garantia do Tempo de Serviço, em decorrência do estabelecido no artigo 3º da Lei nº 5.480, de 10 de agôsto de 1968.

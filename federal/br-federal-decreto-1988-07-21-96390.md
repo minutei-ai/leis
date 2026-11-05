@@ -1,5 +1,3 @@
-###DEC-096390-0-000-21-07-1988@@@
-
 DECRETO N° 96.390, DE 21 DE JULHO DE 1988
 
 Autoriza o funcionamento do curso de Engenharia Agrícola do Centro de Tecnologia das Faculdades Integradas de Uberaba.

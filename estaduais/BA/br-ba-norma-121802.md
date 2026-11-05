@@ -1,6 +1,7 @@
 LEI Nº 12.215 DE 30 DE MAIO DE 2011
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [15.004](javascript: openDoc\() de 26 de março de 2014 - Aprova o Regulamento da Lei nº 12.215, de 30 de maio de 2011, que dispõe sobre o Serviço de Inspeção Sanitária e Industrial de Produtos de Origem Animal no Estado da Bahia, e dá outras providências.
 
 Dispõe sobre o Serviço de Inspeção Sanitária e Industrial de Produtos de Origem Animal no Estado da Bahia, e dá outras providências.

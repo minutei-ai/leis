@@ -1,7 +1,3 @@
-1
-
-###DEC-098827-0-000-15-01-1990@@@
-
 DECRETO N° 98.827, DE 16 DE JANEIRO DE 1990
 
 Retifica os limites e homologa a demarcação administrativa da Área Indígena IRANTXE, no Município de Diamantino, Estado de Mato Grosso e dá outras providências.

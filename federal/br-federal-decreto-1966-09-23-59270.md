@@ -1,5 +1,3 @@
-###DEC-059270-0-000-23-09-1966@@@
-
 DECRETO Nº 59.270, 23 DE SETEMBRO DE 1966.
 
 Cria funções gratificadas na Pagadoria de Inativos e Pensionistas do Ministério da Aeronáutica e dá outras providências.

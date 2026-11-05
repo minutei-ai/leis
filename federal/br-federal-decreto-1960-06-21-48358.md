@@ -1,5 +1,3 @@
-###DEC-048358-0-000-21-06-1960@@@
-
 DECRETO Nº 48.358, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Agostinho Rodrigues da Cunha a pesquisar quartzo e mica, no município de Malacacheta, Estado de Minas Gerais.

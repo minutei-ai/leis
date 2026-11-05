@@ -1,5 +1,3 @@
-###DEC-096821-0-000-28-09-1988@@@
-
 DECRETO N° 96.821, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO MACAMBIRA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Ipueiras, Estado do Ceará.

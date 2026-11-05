@@ -1,7 +1,3 @@
-1
-
-###DEC-099127-0-000-09-03-1990@@@
-
 DECRETO Nº 99.127, DE 9 DE MARÇO DE 1990
 
 Outorga concessão a EMPRESA DE TELEVISÃO JOÃO PESSOA LTDA., para explorar ser­viço de radiodifusão de sons e imagens (televisão) na Cidade de João Pessoa, Estado da Paraíba.

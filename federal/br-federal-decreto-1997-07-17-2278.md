@@ -1,5 +1,3 @@
-###DEC-002278-0-000-17-07-1997@@@
-
 DECRETO Nº 2.278, DE 17 DE JULHO DE 1997
 
 Regulamenta o Decreto-Lei nº 1.177, de 21 de junho de 1971, que dispõe sobre aerolevantamentos no território nacional e dá outras providências.

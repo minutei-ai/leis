@@ -1,5 +1,3 @@
-###DEL-009474-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.474 – DE 15 DE JULHO DE 1946
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

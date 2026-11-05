@@ -1,5 +1,3 @@
-###DEC-007803-0-000-13-09-2012-PUB-01@@@
-
 DECRETO Nº 7.803, DE 13 DE SETEMBRO DE 2012
 
 Altera o Decreto nº 4.376, de 13 de setembro de 2002, que dispõe sobre a organização e o funcionamento do Sistema Brasileiro de Inteligência, instituído pela Lei nº 9.883, de 7 de dezembro de 1999.

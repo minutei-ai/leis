@@ -1,7 +1,3 @@
-1
-
-###DEC-000817-0-000-03-05-1993@@@
-
 DECRETO N° 817, DE 3 DE MAIO DE 1993
 
 Acresce dispositivo ao § 2° do art. 4° do Decreto n° 810, de 27 de abril de 1993.

@@ -1,5 +1,3 @@
-###DEC-090968-0-000-21-02-1985@@@
-
 DECRETO Nº 90.968, de 21 de fevereiro de 1985
 
 Outorga concessão à TV CARAJÁS LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Belém, Estado do Pará.

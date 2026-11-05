@@ -1,5 +1,3 @@
-###DEC-085000-0-000-06-08-1980@@@
-
 Decreto nº 85.000, de 06 de agosto de 1980.
 
 Cria Comissão Executiva do Programa Especial de Apoio às Populações Pobres das Zonas Canavieiras do Nordeste.

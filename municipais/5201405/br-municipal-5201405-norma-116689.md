@@ -20,8 +20,10 @@ Art. 4º - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, 11 de setembro de 2017.
 
-VETER MARTINS MORAIS<br>
+VETER MARTINS MORAIS
+
 Prefeito em exercício
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

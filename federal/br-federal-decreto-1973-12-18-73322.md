@@ -1,5 +1,3 @@
-###DEC-073322-0-000-18-12-1973@@@
-
 DECRETO Nº 73.322 - DE 18 DE DEZEMBRO DE 1973
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção da subestação de Porto do Carro, no município de Cabo Frio, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###MPV-000235-0-000-13-01-2005@@@
-
 MEDIDA PROVISÓRIA Nº 235, DE 13 DE JANEIRO DE 2005
 
 Dispõe sobre o Programa Universidade para Todos - PROUNI.

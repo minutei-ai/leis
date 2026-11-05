@@ -1,5 +1,3 @@
-###DEC-064235-0-000-20-03-1969@@@
-
 DECRETO Nº 64.235, DE 20 DE MARÇO DE 1969.
 
 Revoga o Decreto nº 60.595, de 13 de abril de 1967.

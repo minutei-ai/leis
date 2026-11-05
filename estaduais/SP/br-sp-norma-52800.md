@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/52800)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2005/compilacao-lei-11886-01.03.2005.html)
 
 # LEI N° 11.886, DE 01 DE MARÇO DE 2005

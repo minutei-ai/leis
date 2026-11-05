@@ -1,5 +1,3 @@
-###DEC-080253-0-000-30-08-1977@@@
-
 DECRETO Nº 80.253, DE 30 de agosto DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município da Lapa, Estado do Paraná.

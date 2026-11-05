@@ -1,5 +1,3 @@
-###DEL-002340-0-000-26-06-1940@@@
-
 DECRETO-LEI N. 2.340 – de 26 de junho de 1940
 
 Autoriza o Ministério da Agricultura a contratar, mediante concorrência, a exploração de apatita das jazidas de Ipanema, em São Paulo e sua transformação em fosfato sotúvel, mediante as condições que estabelece

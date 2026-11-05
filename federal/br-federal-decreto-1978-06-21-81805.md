@@ -1,5 +1,3 @@
-###DEC-081805-0-000-21-06-1978@@@
-
 Decreto nº 81.805, de 21 de junho de 1978
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Norte.
@@ -21,8 +19,6 @@ ERNESTO GEISEL
 Fernando Bethlem
 
 Mário Henrique Simonsen
-
-###DEC-081805-0-000-21-06-1978@@@RET01+++
 
 DECRETO Nº 81.805, DE 21 DE JUNHO DE 1978.
 

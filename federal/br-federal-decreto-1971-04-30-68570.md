@@ -1,5 +1,3 @@
-###DEC-068570-0-000-30-04-1971@@@
-
 DECRETO Nº 68.570 - DE 30 DE ABRIL DE 1971.
 
 Torna sem efeito o Decreto número 68.310, de 3 de março de 1971, que redistribuiu cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério das Minas e Energia.

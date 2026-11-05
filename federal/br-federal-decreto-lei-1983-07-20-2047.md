@@ -1,5 +1,3 @@
-###DEL-002047-0-000-20-07-1983@@@
-
 # Decreto-lei nº 2.047, de 20 de Julho de 1983
 
 Institui empréstimo compulsório para custear auxílio exigido em decorrência de calamidade pública.

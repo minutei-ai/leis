@@ -1,5 +1,3 @@
-###DEC-057373-0-000-02-12-1965@@@
-
 DECRETO Nº 57.373, DE 2 DE DEZEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público Sabugi, no município de São João do Sabugi, no Estado do Rio Grande do Norte.

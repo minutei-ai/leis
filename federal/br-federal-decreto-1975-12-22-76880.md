@@ -1,5 +1,3 @@
-###DEC-076880-0-000-22-12-1975@@@
-
 DECRETO Nº 76.880, DE 22 DE DEZEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da subestação de Getulina, da Companhia Paulista de Forças e Luz - CPFL, no Estado de São Paulo.

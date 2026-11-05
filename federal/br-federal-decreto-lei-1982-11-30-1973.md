@@ -1,5 +1,3 @@
-###DEL-001973-0-000-30-11-1982@@@
-
 # DECRETO-LEI Nº 1.973, DE 30 DE NOVEMBRO DE 1982.
 
 Amplia a isenção do Imposto sobre a renda concedida às empresas de pequeno porte e dá outras providências.

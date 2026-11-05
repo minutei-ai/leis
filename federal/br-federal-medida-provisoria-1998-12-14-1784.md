@@ -1,5 +1,3 @@
-###MPV-001784-0-000-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.784, DE 14 DE DEZEMBRO DE 1998.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

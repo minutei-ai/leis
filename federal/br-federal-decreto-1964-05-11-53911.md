@@ -1,5 +1,3 @@
-###DEC-053911-0-000-11-05-1964@@@
-
 DECRETO Nº 53.911, DE 11 DE MAIO DE 1964.
 
 Eleva à categoria de Embaixada a Representação diplomática do Brasil junto ao Govêrno do Grão-Ducado do Luxemburgo, com sede em Bruxelas.

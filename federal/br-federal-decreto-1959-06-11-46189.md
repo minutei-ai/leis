@@ -1,5 +1,3 @@
-###DEC-046189-0-000-11-06-1959@@@
-
 DECRETO Nº 46.189, DE 11 DE junho DE 1959.
 
 Autoriza a Comissão do Vale do São Francisco a aceitar, na sede do Município de Palmas de Monte Alto, Estado da Bahia, a doação de uma área de 11.200m2, de propriedade do Agrônomo Waldemar Teixeira de Moura e de sua esposa, da. Nilza Laranjeira de Moura.

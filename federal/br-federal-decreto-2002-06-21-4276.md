@@ -1,5 +1,3 @@
-###DEC-004276-0-000-21-06-2002@@@
-
 DECRETO Nº 4.276, DE 21 DE JUNHO DE 2002
 
 Acresce dispositivo ao Decreto nº 49.875, de 11 de janeiro de 1961, que cria o "Parque Nacional do Tocantins", no Estado de Goiás, e dá outras providências.

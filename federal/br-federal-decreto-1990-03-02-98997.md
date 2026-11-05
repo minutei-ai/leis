@@ -1,7 +1,3 @@
-1
-
-###DEC-098997-0-000-02-03-1990@@@
-
 DECRETO Nº 98.997, DE 2 DE MARÇO DE 1990
 
 Institui a Fundação Universidade Federal do Amapá e dá outras providências.

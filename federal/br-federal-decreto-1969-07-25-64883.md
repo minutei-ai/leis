@@ -1,5 +1,3 @@
-###DEC-064883-0-000-25-07-1969@@@
-
 DECRETO Nº 64.883 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto número 14.927, de 2 de março de 1944.

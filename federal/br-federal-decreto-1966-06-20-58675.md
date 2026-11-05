@@ -1,5 +1,3 @@
-###DEC-058675-0-000-20-06-1966@@@
-
 DECRETO Nº 58.675, DE 20 DE JUNHO DE 1966.
 
 Declara de utilidade pública a “Confederação Brasileira de Trabalhadores Cristãos”, com sede no Estado da Guanabara.

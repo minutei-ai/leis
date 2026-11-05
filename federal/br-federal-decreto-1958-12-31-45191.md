@@ -1,5 +1,3 @@
-###DEC-045191-0-000-31-12-1958@@@
-
 DECRETO Nº 45.191, DE 31 DE DEZEMBRO DE 1958.
 
 Aprova o Regulamento para a Base Naval do Salvador.

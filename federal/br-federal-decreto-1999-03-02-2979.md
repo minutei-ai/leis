@@ -1,5 +1,3 @@
-###DEC-002979-0-000-02-03-1999@@@
-
 DECRETO Nº 2.979, DE 2 DE MARÇO DE 1999.
 
 Dá nova redação ao art. 2º do Decreto nº 99.438, de 7 de agosto de 1990, que dispõe sobre a organização e as atribuições do Conselho Nacional de Saúde.

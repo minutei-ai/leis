@@ -1,5 +1,3 @@
-###DEL-001741-0-000-27-12-1979@@@
-
 # Decreto-lei nº 1.741, de 27 de dezembro de 1979
 
 Altera a redação do artigo 13 do Decreto-lei nº 1.089/70.

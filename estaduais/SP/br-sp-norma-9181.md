@@ -1,16 +1,23 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=9181)
-
 # LEI Nº 9.564, DE 02 DE MAIO DE 1997
 
 ### _Dá denominação de "Lidia Lima da Silva" à EEPG(A) Jardim Planalto, em Suzano._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Passa a denominar-se "Lídia Lima da Silva" a Escola Estadual de 1.º Grau (Agrupada) Jardim Planalto, em Suzano.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 02 de maio de 1997.<br>
-MÁRIO COVAS<br>
-Teresa Roserley Neubauer da Silva, Secretária da Educação<br>
-Walter Feldman, Secretário-Chefe da Casa Civil<br>
-Antonio Angarita, Secretário do Governo e Gestão Estratégica<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Passa a denominar-se "Lídia Lima da Silva" a Escola Estadual de 1.º Grau (Agrupada) Jardim Planalto, em Suzano.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 02 de maio de 1997.
+
+MÁRIO COVAS
+
+Teresa Roserley Neubauer da Silva, Secretária da Educação
+
+Walter Feldman, Secretário-Chefe da Casa Civil
+
+Antonio Angarita, Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 02 de maio de 1997.

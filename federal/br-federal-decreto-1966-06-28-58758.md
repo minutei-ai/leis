@@ -1,5 +1,3 @@
-###DEC-058758-0-000-28-06-1966@@@
-
 DECRETO Nº 58.758, DE 28 DE JUNHO DE 1966.
 
 Institui o Circulo Feminino, no setor da Educação Cívica Extra-Escolar do Ministério da Educação e Cultura.

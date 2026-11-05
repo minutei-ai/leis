@@ -1,5 +1,3 @@
-###DEC-048257-0-000-02-06-1960@@@
-
 DECRETO Nº 48.257, DE 2 DE JUNHO DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno necessário à construção da Rodovia BR-31 Vitória-Belo Horizonte, situada no Município de Conceição de Castelo, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-064256-0-000-21-03-1969@@@
-
 DECRETO Nº 64.256, DE 21 DE MARÇO DE 1969.
 
 Declara caduco o Decreto nº 38.366, de 23 de dezembro de 1955.

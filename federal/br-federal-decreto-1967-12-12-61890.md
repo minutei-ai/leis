@@ -1,5 +1,3 @@
-###DEC-061890-0-000-12-12-1967@@@
-
 DECRETO nº 61.890, de 12 de DEZEMBRO DE 1967.
 
 Autoriza a Rêde Ferroviária Federal S.A. a ceder bens de sua propriedade e dá outras providências.

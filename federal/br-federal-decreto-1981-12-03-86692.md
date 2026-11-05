@@ -1,5 +1,3 @@
-###DEC-086692-0-000-03-12-1981@@@
-
 DECRETO Nº 86.692, DE 03 DE DEZEMBRO DE 1981
 
 Acrescenta item ao artigo 2º do Decreto nº 84.919, de 16 de julho de 1980, que instituiu a Comissão Nacional do Ano Internacional das Pessoas Deficientes.

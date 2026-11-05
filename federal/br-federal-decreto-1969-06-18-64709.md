@@ -1,5 +1,3 @@
-###DEC-064709-0-000-18-06-1969@@@
-
 DECRETO Nº 64.709, DE 18 DE JUNHO DE 1969.
 
 Transforma função gratificada do Quadro de Pessoal do Ministério do Exército em cargo em comissão, e dá outras providências.

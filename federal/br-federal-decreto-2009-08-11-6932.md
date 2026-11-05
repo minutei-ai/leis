@@ -1,5 +1,3 @@
-###DEC-006932-0-000-11-08-2009@@@
-
 DECRETO Nº 6.932, DE 11 DE AGOSTO DE 2009.
 
 Dispõe sobre a simplificação do atendimento público prestado ao cidadão, ratifica a dispensa do reconhecimento de firma em documentos produzidos no Brasil, institui a "Carta de Serviços ao Cidadão" e dá outras providências.

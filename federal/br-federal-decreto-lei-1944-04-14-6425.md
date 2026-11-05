@@ -1,5 +1,3 @@
-###DEL-006425-0-000-14-04-1944@@@
-
 DECRETO-LEI N. 6.425 – DE 14 DE ABRIL DE 1944
 
 Torna obrigatório o uso do guaraná em todos os produtos cuja propaganda comercial se baseie no nome daquela planta, e dá outras providências

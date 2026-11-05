@@ -1,5 +1,3 @@
-###DEC-052874-0-000-20-11-1963@@@
-
 decreto nº 52.874, de 20 de novembro de 1963.
 
 Declara de utilidade pública a Sociedade Civil “Casas de Educação”, com sede no Estado da Guanabara.

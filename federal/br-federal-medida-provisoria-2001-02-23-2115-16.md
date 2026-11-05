@@ -1,5 +1,3 @@
-###MPV-002115-0-016-23-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.115-16, DE 23 DE FEVEREIRO DE 2001
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamentos brasileiro, e dá outras providências.

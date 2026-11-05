@@ -1,7 +1,3 @@
-1
-
-###DEC-001087-0-000-14-03-1994@@@
-
 DECRETO Nº 1.087, DE 14 DE MARÇO DE 1994
 
 Dispõe sobre a transferência de Cargos em Comissão que menciona.

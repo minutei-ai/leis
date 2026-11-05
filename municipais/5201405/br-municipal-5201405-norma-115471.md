@@ -26,8 +26,24 @@ ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 22</td><td style="text-align:center">360,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 22
+
+360,00
 
 SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 22 A</td><td style="text-align:center">180,00</td></tr><tr><td style="text-align:center">LOTE 22 B</td><td style="text-align:center">180,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 22 A
+
+180,00
+
+LOTE 22 B
+
+180,00

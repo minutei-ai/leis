@@ -1,5 +1,3 @@
-###DEC-075341-0-000-03-02-1975@@@
-
 Decreto nº 75.341, DE 3 DE FEVEREIRO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz, no Estado de São Paulo.

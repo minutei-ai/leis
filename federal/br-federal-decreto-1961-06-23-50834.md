@@ -1,5 +1,3 @@
-###DEC-050834-0-000-23-06-1961@@@
-
 DECRETO Nº 50.834, DE 23 DE JUNHO DE 1961.
 
 Especifica novas funções em organizações militares que dão direito às gratificações de Técnico Militar, previsto no art. 56, e de Serviço Industrial, a que se referem os arts. 64 e 66 da lei nº 1.316, de 20 de janeiro de 1951.

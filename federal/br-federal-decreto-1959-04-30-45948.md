@@ -1,5 +1,3 @@
-###DEC-045948-0-000-30-04-1959@@@
-
 DECRETO Nº 45.948, DE 30 DE ABRIL DE 1959.
 
 Extingue os 3º e 6º Batalhões de Saúde e cria as 3ª e 6ª Companhias Independentes de Saúde.

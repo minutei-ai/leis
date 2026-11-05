@@ -1,5 +1,3 @@
-###DEC-059317-0-000-28-09-1966@@@
-
 DECRETO Nº 59.317, DE 28 DE SETEMBRO DE 1966.
 
 Cria o “Presídio da Marinha” e dá outras providências.

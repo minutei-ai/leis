@@ -1,5 +1,3 @@
-###DEC-083986-0-000-18-09-1979@@@
-
 Decreto nº 83.986, de 18 de setembro de 1979
 
 Dá nova redação ao parágrafo único do artigo 1º do Decreto nº 83.699, de 05 de julho de 1979, que declara de utilidade pública, no interesse da PETROBRÁS, as áreas que especifica.

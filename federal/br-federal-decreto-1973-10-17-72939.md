@@ -1,5 +1,3 @@
-###DEC-072939-0-000-17-10-1973@@@
-
 DECRETO Nº 72.939, DE 17 DE OUTUBRO DE 1973.
 
 Concede reconhecimento ao curso de Medicina da Universidade Estadual de Mato Grosso, com sede na Cidade de Campo Grande, Estado de Mato Grosso.

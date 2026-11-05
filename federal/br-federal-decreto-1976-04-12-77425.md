@@ -1,5 +1,3 @@
-###DEC-077425-0-000-12-04-1976@@@
-
 DECRETO Nº 77.425 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Sorocaba, com sede na cidade de Sorocaba, Estado de São Paulo.

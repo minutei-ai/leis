@@ -6,7 +6,8 @@ Institui o Programa Bolsa Presença na Rede Pública Estadual de Ensino, e dá o
 
 **Art. 1º** - Fica instituído o Programa Bolsa Presença com o objetivo de estimular a permanência, no processo de aprendizagem escolar, dos alunos da Rede Pública Estadual de Ensino em condição de vulnerabilidade socioeconômica, nos termos e condições previstos nesta Lei.
 
-Redação de acordo com o art. 2º  da Lei nº [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com o art. 2º  da Lei nº [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "Art. 1º - Fica instituído o Programa Bolsa Presença com o objetivo de estimular a permanência dos alunos da Rede Pública Estadual de Ensino em condição de vulnerabilidade socioeconômica, nos termos e condições previstos nesta Lei. "
 
 **Art. 2º** - Para alcançar os objetivos do Programa Bolsa Presença serão desenvolvidas ações de fortalecimento e motivação de aprendizagem do aluno, de continuidade nos estudos e de apoio à sua família, consistentes em:
@@ -57,7 +58,8 @@ Redação original: "Art. 1º - Fica instituído o Programa Bolsa Presença com 
 
 **II** \- no valor de R$150,00 (cento e cinquenta reais) por família, acrescido de R$50,00 (cinquenta reais) por aluno, a partir do segundo aluno admitido no Programa.
 
-Redação de acordo com a Lei nº [14.396](https://www.legislabahia.ba.gov.br/documentos/lei-no-14396-de-16-de-dezembro-de-2021) de 26 de dezembro de 2021.<br>
+Redação de acordo com a Lei nº [14.396](https://www.legislabahia.ba.gov.br/documentos/lei-no-14396-de-16-de-dezembro-de-2021) de 26 de dezembro de 2021.
+
 Redação original: "Art. 4º - Fica autorizado o pagamento de bolsa no valor de R$150,00 (cento e cinquenta reais), destinada à família do aluno participante do Programa Bolsa Presença, nos termos e condições previstos nesta Lei."
 
 **§ 1º -** O pagamento da bolsa, autorizado no _caput_ deste artigo, será feito mensalmente a partir da admissão ao Programa Bolsa Presença, com a comprovação do cumprimento dos requisitos previstos no art. 5º desta Lei.
@@ -66,7 +68,8 @@ Redação original: "Art. 4º - Fica autorizado o pagamento de bolsa no valor de
 
 **<Revogado> § 2º** \- Será concedida uma bolsa por família, independentemente do número de alunos que a integrem e que tenham sido admitidos no Programa Bolsa Presença.
 
-Revogada pela Lei nº [14.396](https://www.legislabahia.ba.gov.br/documentos/lei-no-14396-de-16-de-dezembro-de-2021) de 26 de dezembro de 2021.<br>
+Revogada pela Lei nº [14.396](https://www.legislabahia.ba.gov.br/documentos/lei-no-14396-de-16-de-dezembro-de-2021) de 26 de dezembro de 2021.
+
 § 2º acrescido pelo art. 2º da Lei nº 14.360 de 01 de setembro de 2021.
 
 **Art. 5º** - Poderá participar do Programa Bolsa Presença o aluno regularmente matriculado em unidade escolar da Rede Pública Estadual de Ensino cuja família em situação de pobreza e extrema pobreza esteja inscrita no Cadastro Único para Programas Sociais do Governo Federal - CadÚnico.
@@ -93,12 +96,14 @@ Parágrafo único acrescido pelo art. 2º da Lei nº [14.360](https://www.legisl
 
 **Art. 7º** - O Programa Bolsa Presença será executado concomitantemente com o calendário letivo, ao final do qual os alunos participantes serão avaliados com base em indicadores de aprovação e de abandono escolar.
 
-Redação de acordo com a Lei nº [14.396](https://www.legislabahia.ba.gov.br/documentos/lei-no-14396-de-16-de-dezembro-de-2021) de 26 de dezembro de 2021.<br>
+Redação de acordo com a Lei nº [14.396](https://www.legislabahia.ba.gov.br/documentos/lei-no-14396-de-16-de-dezembro-de-2021) de 26 de dezembro de 2021.
+
 Redação original: "Art. 7º - O Programa Bolsa Presença poderá ter, em cada edição, duração de até 06 (seis) meses, ao final da qual os estudantes participantes serão avaliados com base em indicadores de aprovação e de abandono escolar."
 
 **Art. 8º** - O Poder Executivo editará os atos necessários ao fiel cumprimento desta Lei.
 
-Redação de acordo com a Lei nº [14.396](https://www.legislabahia.ba.gov.br/documentos/lei-no-14396-de-16-de-dezembro-de-2021) de 26 de dezembro de 2021.<br>
+Redação de acordo com a Lei nº [14.396](https://www.legislabahia.ba.gov.br/documentos/lei-no-14396-de-16-de-dezembro-de-2021) de 26 de dezembro de 2021.
+
 Redação original: "Art. 8º - À Secretaria da Educação - SEC caberá estabelecer o início e a duração de cada edição do Programa Bolsa Presença, bem como dispor sobre os procedimentos necessários à sua implantação."
 
 **Art. 9º** - As despesas decorrentes do Programa Bolsa Presença correrão, preferencialmente, por conta de recursos do Fundo Estadual de Combate e Erradicação da Pobreza - FUNCEP e de recursos das fontes livres do Tesouro.

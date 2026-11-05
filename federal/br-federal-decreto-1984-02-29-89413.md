@@ -1,5 +1,3 @@
-###DEC-089413-0-000-29-02-1984@@@
-
 Decreto nº 89.413, de 29 de fevereiro de 1984
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à ampliação da subestação Pioneiros, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

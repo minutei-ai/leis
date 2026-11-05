@@ -1,5 +1,3 @@
-###DEC-059289-0-000-23-09-1966@@@
-
 DECRETO Nº 59.289, DE 23 DE SETEMBRO DE 1966.
 
 Concede à Pedreira Exata S.A. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEL-006699-0-000-17-07-1944@@@
-
 DECRETO-LEI N. 6.699 – DE 17 DE JULHO DE 1944
 
 Altera dispositivo do Código de Vencimentos e Vantagens dos Militares do Exército

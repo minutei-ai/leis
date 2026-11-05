@@ -1,5 +1,3 @@
-###DEC-074381-0-000-08-08-1974@@@
-
 DECRETO Nº 74.381 - DE 8 DE AGOSTO DE 1974.
 
 Altera o disposto no artigo 8º do Decreto nº 73.653, de 15 de fevereiro de 1974, e dá outras providências.

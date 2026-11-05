@@ -1,5 +1,3 @@
-###DEL-007884-0-000-21-08-1945@@@
-
 DECRETO-LEI N. 7.884 – DE 21 DE AGÔSTO DE 1945
 
 Isenta do pagamento dos direitos de importação e demais taxas aduaneiras o gado ovino em pé.

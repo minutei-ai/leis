@@ -1,6 +1,10 @@
 > **LEI Nº 4.223, DE 01 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede Título Honorífico de Cidadã Acreana à Sra. Maria Beatriz Saldanha Tavares.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede Título Honorífico de Cidadã Acreana à Sra. Maria Beatriz Saldanha Tavares.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

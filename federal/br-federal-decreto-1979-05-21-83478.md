@@ -1,5 +1,3 @@
-###DEC-083478-0-000-21-05-1979@@@
-
 Decreto nº 83.478, de 21 de maio de 1979.
 
 Dispõe sobre a composição do Conselho de Desenvolvimento Social - CDS.

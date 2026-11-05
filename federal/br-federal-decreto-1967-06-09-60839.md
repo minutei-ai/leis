@@ -1,5 +1,3 @@
-###DEC-060839-0-000-09-06-1967@@@
-
 decreta nº 60.839, de 9 de junho de 1967.
 
 Outorga à Sociedade Anônima de eletrificação da Paraíba - SAELPA concessão para distribuir energia elétrica nos Municípios de Boqueirão e Pocinhos, no Estado da Paraíba.

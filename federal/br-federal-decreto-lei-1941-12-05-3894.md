@@ -1,5 +1,3 @@
-###DEL-003894-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.894 – DE 5 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Guerra, o crédito suplementar de 350:000$0, à verba que especifica.

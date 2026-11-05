@@ -6,23 +6,24 @@ Institui a reserva de vagas, em percentual de, no mínimo, 20%, nas empresas da 
 
 Publicada no Diário Oficial nº 9.267, de 14 de outubro de 2016, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica estabelecido o percentual mínimo de vinte por cento (20%) para contratação de segurança e de vigilantes do sexo feminino pelas empresas prestadoras de serviços nas áreas de segurança e vigilância, bem como, na de transportes de valores, contratadas por órgãos e por entidades integrantes da Administração Pública Direta e Indireta dos Poderes do Estado de Mato Grosso do Sul.<br>
-<br>
-Art. 2º A exigência que se refere o artigo 1º incidirá sobre as novas contratações e renovações de contratos, devendo constar expressamente nos editais de licitação para a contratação de empresas prestadoras de serviços de vigilância e segurança, qualquer que seja a modalidade adotada.<br>
-<br>
-<i>Parágrafo único</i>. Aplica-se a reserva ora prevista, inclusive, nos casos de dispensa e/ou de inexigibilidade de licitação.<br>
-<br>
-Art. 3º Caberá aos executores dos contratos a verificação do cumprimento da presente Lei.<br>
-<br>
-Art. 4º Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2017.<br>
-<br>
-Art. 5º Revogam-se as disposições em contrário.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica estabelecido o percentual mínimo de vinte por cento (20%) para contratação de segurança e de vigilantes do sexo feminino pelas empresas prestadoras de serviços nas áreas de segurança e vigilância, bem como, na de transportes de valores, contratadas por órgãos e por entidades integrantes da Administração Pública Direta e Indireta dos Poderes do Estado de Mato Grosso do Sul.
+
+Art. 2º A exigência que se refere o artigo 1º incidirá sobre as novas contratações e renovações de contratos, devendo constar expressamente nos editais de licitação para a contratação de empresas prestadoras de serviços de vigilância e segurança, qualquer que seja a modalidade adotada.
+
+*Parágrafo único*. Aplica-se a reserva ora prevista, inclusive, nos casos de dispensa e/ou de inexigibilidade de licitação.
+
+Art. 3º Caberá aos executores dos contratos a verificação do cumprimento da presente Lei.
+
+Art. 4º Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2017.
+
+Art. 5º Revogam-se as disposições em contrário.
+
 Campo Grande, 13 de outubro de 2016.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

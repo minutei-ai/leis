@@ -1,5 +1,3 @@
-###DEC-003515-0-000-20-06-2000@@@
-
 DECRETO Nº 3.515, DE 20 DE JUNHO DE 2000.
 
 Cria o Fórum Brasileiro de Mudanças Climáticas e dá outras providências.

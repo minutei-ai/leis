@@ -1,5 +1,3 @@
-###DEC-077849-0-000-16-06-1976@@@
-
 DECRETO Nº 77.849, DE 16 DE JUNHO DE 1976.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S., área de terra abrangida pelo Projeto de Irrigação "Zona de Transição do Vale do Banabuiu", situada nos Municípios de Morada Nova, Limoeiro do Norte e Russas, no Estado do Ceará.

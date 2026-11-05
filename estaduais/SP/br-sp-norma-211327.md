@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211327)<br>
-
 # DECRETO N° 69.808, DE 18 DE AGOSTO DE 2025
 
 ### _Revoga o Decreto n° 67.853, de 28 de julho de 2023._

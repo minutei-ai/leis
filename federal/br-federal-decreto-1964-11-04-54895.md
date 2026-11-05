@@ -1,5 +1,3 @@
-###DEC-054895-0-000-04-11-1964@@@
-
 DECRETO Nº 54.895, de 4 de novembro de 1964.
 
 Autoriza o cidadão brasileiro José Hervelha a pesquisar talco no município de Cananéia, Estado de São Paulo.

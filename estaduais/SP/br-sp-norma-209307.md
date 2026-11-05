@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209307)<br>
-
 # LEI N° 17.902, DE 16 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 840/2023, do Deputado Rui Alves - REPUBLICANOS)

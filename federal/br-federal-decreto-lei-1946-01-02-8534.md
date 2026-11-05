@@ -1,5 +1,3 @@
-###DEL-008534-0-000-02-01-1946@@@
-
 DECRETO-LEI N. 8.534 – DE  2  DE JANEIRO DE 1946
 
 Passa a Diretoria do Patrimônio Histórico e Artístico Nacional o Serviço do mesmo nome, criado pela Lei número 378, de 13 de janeiro de 1937, e dá outras providências.

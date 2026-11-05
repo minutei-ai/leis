@@ -1,5 +1,3 @@
-###DEL-008437-0-000-24-12-1945@@@
-
 DECRETO-LEI N. 8.437 – DE 24 DE DEZEMBRO DE 1945
 
 Regula situação dos Cadetes de Intendência

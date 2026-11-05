@@ -1,7 +1,3 @@
-1
-
-###DEC-001400-0-000-21-02-1995@@@
-
 DECRETO N° 1.400, DE 21 DE FEVEREIRO DE 1995
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica n° 27, entre o Brasil e Venezuela, de 28 de julho de l994.

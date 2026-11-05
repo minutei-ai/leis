@@ -1,5 +1,3 @@
-###DEC-068580-0-000-03-05-1971@@@
-
 Decreto Nº 68.580 - DE 3 DE MAIO DE 1971.
 
 Outorga concessão à Companhia Telefônica de Cabrobó S.A. para executar serviço de telefonia público urbano no Município de Cabrobó, no Estado de Pernambuco.

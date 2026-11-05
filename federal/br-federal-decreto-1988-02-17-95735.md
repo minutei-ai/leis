@@ -1,7 +1,3 @@
-1
-
-###DEC-095735-0-000-17-02-1988@@@
-
 DECRETO N° 95.735, DE 17 DE FEVEREIRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação área de terreno, sem benfeitorias, situada no Município e Comarca de Piracicaba, Estado de São Paulo destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

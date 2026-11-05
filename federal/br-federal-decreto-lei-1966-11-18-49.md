@@ -1,5 +1,3 @@
-###DEL-000049-0-000-18-11-1966@@@
-
 DECRETO-Lei Nº 49, DE 18 DE NOVEMBRO de 1966
 
 Regula o limite máximo de carga por eixo para o tráfego nas vias públicas de veículos ou combinações de veículos e dá outras providências.

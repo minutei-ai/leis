@@ -1,5 +1,3 @@
-###DEC-069844-0-000-27-12-1971@@@
-
 DECRETO Nº 69.844 - DE 27 DE DEZEMBRO DE 1971
 
 Redistribui, com a respectiva ocupante, cargo do Ministério das Relações Exteriores para o Ministério da Marinha, e dá outras providências.

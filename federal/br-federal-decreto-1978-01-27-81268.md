@@ -1,5 +1,3 @@
-###DEC-081268-0-000-27-01-1978@@@
-
 Decreto nº 81.268, de 27 de janeiro de 1978.
 
 Concede reconhecimento à habilitação Comércio Exterior do curso de Administração do Instituto de Ciências Sociais do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

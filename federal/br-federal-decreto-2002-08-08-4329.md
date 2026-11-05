@@ -1,5 +1,3 @@
-###DEC-004329-0-000-08-08-2002@@@
-
 DECRETO Nº 4.329, DE 8 DE AGOSTO DE 2002
 
 Altera o Decreto nº 890, de 9 de agosto de 1993, que dispõe sobre a unificação de recursos movimentados pelo Tesouro Nacional e a abertura e manutenção de contas em moeda estrangeira pela União, no País e no exterior.

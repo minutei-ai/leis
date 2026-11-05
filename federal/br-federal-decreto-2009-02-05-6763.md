@@ -1,5 +1,3 @@
-###DEC-006763-0-000-05-02-2009@@@
-
 DECRETO Nº 6.763, DE 5 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a execução do Quadragésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica no 35 (49PA-ACE35), entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República do Chile, de 25 de novembro de 2008.

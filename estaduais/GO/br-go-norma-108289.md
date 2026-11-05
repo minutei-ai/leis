@@ -44,8 +44,6 @@ III – 1º de janeiro de 2024, quanto ao art. 9º, inciso XXXIV, alínea “a�
 
 Goiânia, 27 de dezembro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

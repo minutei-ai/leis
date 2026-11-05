@@ -1,5 +1,3 @@
-###DEC-055479-0-000-08-01-1965@@@
-
 DECRETO Nº 55.479, DE 8 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Augusto Cesar a pesquisar ouro no município de Peixe, Estado de Goiás.

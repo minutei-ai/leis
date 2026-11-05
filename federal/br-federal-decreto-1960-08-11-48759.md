@@ -1,5 +1,3 @@
-###DEC-048759-0-000-11-08-1960@@@
-
 DECRETO Nº 48.759, DE 11 DE agôsto DE 1960.
 
 Suprime cargos provisórios.

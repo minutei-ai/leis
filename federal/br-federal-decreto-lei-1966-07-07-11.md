@@ -1,5 +1,3 @@
-###DEL-000011-0-000-07-07-1966@@@
-
 DECRETO-LEI Nº 11, DE 7 DE JULHO DE 1966
 
 Considera o exercício do cargo de Comandante de Polícia Militar Estadual, do Distrito Federal e de Território, para os fins que especifica, nas mesmas condições que o exercício de Comando de Tropa no Exército.

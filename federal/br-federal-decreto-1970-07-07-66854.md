@@ -1,5 +1,3 @@
-###DEC-066854-0-000-07-07-1970@@@
-
 DECRETO Nº 66.854, DE 7 DE JULHO DE 1970.
 
 Considera serviço nacional relevante as missões de construção em execução pelos 5°, 6° e 7° Batalhões de Engenharia de Construção, na região Amazônica.

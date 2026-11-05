@@ -1,5 +1,3 @@
-###DEC-091810-0-000-18-10-1985@@@
-
 DecRETO Nº 91.810, de 18 dE outubro de 1985
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Mangaratiba, Estado do Rio de Janeiro; e de Santos, Estado de São Paulo.

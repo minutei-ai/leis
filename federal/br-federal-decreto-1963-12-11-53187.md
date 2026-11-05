@@ -1,5 +1,3 @@
-###DEC-053187-0-000-11-12-1963@@@
-
 DECRETO Nº 53.187, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Floriano Peixoto Soeiro de Carvalho a pesquisar dolomita no município de Paraíba do Sul, Estado do Rio de Janeiro.

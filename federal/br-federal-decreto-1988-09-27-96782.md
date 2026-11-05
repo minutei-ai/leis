@@ -1,5 +1,3 @@
-###DEC-096782-0-000-27-09-1988@@@
-
 DECRETO N° 96.782, DE 27 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada a L & C RÁDIO EMISSORAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Caçapava, Estado de São Paulo.

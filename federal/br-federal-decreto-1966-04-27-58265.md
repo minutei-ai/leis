@@ -1,5 +1,3 @@
-###DEC-058265-0-000-27-04-1966@@@
-
 DECRETO Nº 58.265, DE 27 DE ABRIL DE 1966.
 
 Aprova modificações no Regimento Interno do Departamento de Administração do Ministério da Educação e Cultura.

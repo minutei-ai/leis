@@ -1,5 +1,3 @@
-###DEL-004369-0-000-09-06-1942@@@
-
 DECRETO-LEI N. 4.369 – DE 9 DE JUNHO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 50:000$0 para pagamento de gratificação

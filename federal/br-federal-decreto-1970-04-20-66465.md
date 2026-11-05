@@ -1,5 +1,3 @@
-###DEC-066465-0-000-20-04-1970@@@
-
 DECRETO Nº 66.465, DE 20 DE ABRIL DE 1970.
 
 Concede reconhecimento a Curso Médico.

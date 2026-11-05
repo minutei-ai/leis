@@ -1,5 +1,3 @@
-###DEC-085670-0-000-29-01-1981@@@
-
 Decreto nº 85.670, de 29 de janeiro de 1981
 
 Autoriza o funcionamento dos cursos de Ortóptica e de Fonoaudiologia, do Instituto Brasileiro de Medicina e Reabilitação do Rio de Janeiro, Estado do Rio de Janeiro.

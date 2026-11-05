@@ -1,5 +1,3 @@
-###DEL-005288-0-000-01-03-1943@@@
-
 DECRETO‑LEI N. 5.288 – DE 1 DE MARÇO DE 1943
 
 Cria cargos de Ajudante de Tesoureiro no Ministério da Fazenda e dá outras providências

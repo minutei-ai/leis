@@ -1,5 +1,3 @@
-###DEC-061512-0-000-11-10-1967@@@
-
 DECRETO Nº 61.512, DE 11 DE OUTUBRO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona; situado em Cuiabá, Estado de Mato Grosso.

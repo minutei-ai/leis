@@ -1,5 +1,3 @@
-###DEC-081757-0-000-05-06-1978@@@
-
 Decreto nº 81.757, de 05 de junho de 1978.
 
 Aprova o Regulamento da Estação Naval do Rio de Janeiro.

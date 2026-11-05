@@ -1,7 +1,3 @@
-1
-
-###MPV-000865-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 865, de 27 DE JANEIRO de 1995
 
 Institui a Taxa de Juros de Longo Prazo (TJLP), dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-Pasep, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001734-0-022-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.734-22, DE 14 DE DEZEMBRO DE 1998.
 
 Estabelece multa em operações de importação e dá outras providências.

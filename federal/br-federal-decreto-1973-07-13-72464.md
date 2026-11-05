@@ -1,5 +1,3 @@
-###DEC-072464-0-000-13-07-1973@@@
-
 DECRETO Nº 72.464, DE 13 DE JULHO DE 1973.
 
 Torna sem efeito redistribuição de cargos, com o respectivo ocupante, para o Quadro de Pessoal do Ministério da Educação e Cultura.

@@ -1,5 +1,3 @@
-###DEC-051941-0-000-26-04-1963@@@
-
 DECRETO Nº 51.941, DE 26 DE ABRIL DE 1963.
 
 Renova o Decreto nº 48.405, de 23 de junho de 1960.

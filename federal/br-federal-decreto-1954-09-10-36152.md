@@ -1,14 +1,12 @@
-###DEC-036152-0-000-10-09-1954@@@
+**DECRETO Nº 36.152, DE 10 DE SETEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.152, DE 10 DE SETEMBRO DE 1954.</strong>
+***Declara de utilidade pública diversas áreas de terras marginais do Ribeirão de Lages e seus afluentes e autoriza a Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada, a promover desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terras marginais do Ribeirão de Lages e seus afluentes e autoriza a Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada, a promover desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lha confere o art. 87, inciso I, da Constituição, tendo em vista o disposto do Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lha confere o art. 87, inciso I, da Constituição, tendo em vista o disposto do Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terras sujeitas à inundação pelas descargas da usina auxiliar de Lages na etapa final do aproveitamento progressivo do Ribeirão das Lages - constantes da planta aprovada pelo Ministro da Agricultura, de nº 52.108:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terras sujeitas à inundação pelas descargas da usina auxiliar de Lages na etapa final do aproveitamento progressivo do Ribeirão das Lages - constantes da planta aprovada pelo Ministro da Agricultura, de nº 52.108:
 
 1 - Área de cinquenta e um mil e quinhentos (51.500,00) metros quadrados de propriedade atribuída a Boaventura Antônio Pinto.
 
@@ -28,14 +26,14 @@
 
 9 - Área de cinco mil duzentos e cinquenta (5.250,00) metros quadrados de propriedade atribuída a quem de direito.
 
-<strong>Art</strong>. 2º Fica autorizada a Cia, de Carris e Fôrça do Rio de Janeiro, Limitada, a promover a desapropriação das referidas áreas de terras na forma da legislação vigente.
+**Art**. 2º Fica autorizada a Cia, de Carris e Fôrça do Rio de Janeiro, Limitada, a promover a desapropriação das referidas áreas de terras na forma da legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de setembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 José da Costa Pôrto

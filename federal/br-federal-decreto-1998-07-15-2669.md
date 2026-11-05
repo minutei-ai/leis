@@ -1,5 +1,3 @@
-###DEC-002669-0-000-15-07-1998@@@
-
 DECRETO Nº 2.669, DE 15 DE JULHO DE 1998
 
 Promulga a Convenção nº 163 da OIT, sobre o Bem-Estar dos Trabalhadores Marítimos no Mar e no Porto, assinada em Genebra, em 8 de outubro de 1987.

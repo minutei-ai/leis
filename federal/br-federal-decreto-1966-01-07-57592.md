@@ -1,5 +1,3 @@
-###DEC-057592-0-000-07-01-1966@@@
-
 decreto nº 57.592, de 7 de janeiro de 1966.
 
 Estabelece normas para o abate de gado bovino no ano de 1966 e determina outras providências.

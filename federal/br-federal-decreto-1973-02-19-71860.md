@@ -1,5 +1,3 @@
-###DEC-071860-0-000-19-02-1973@@@
-
 DECRETO Nº 71.860, DE 19 DE FEVEREIRO DE 1973.
 
 Transfere, com o respectivo cargo, para o Instituto de Previdência e Assistência dos Servidores do Estado, funcionária do Quadro de Pessoal em Extinção da Fundação IBGE.

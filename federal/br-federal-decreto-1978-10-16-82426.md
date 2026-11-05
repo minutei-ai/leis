@@ -1,5 +1,3 @@
-###DEC-082426-0-000-16-10-1978@@@
-
 Decreto nº 82.426, de 16 de outubro de 1978
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita no Município de Resende, Estado do Rio de Janeiro.

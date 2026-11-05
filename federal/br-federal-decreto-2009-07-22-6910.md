@@ -1,5 +1,3 @@
-###DEC-006910-0-000-22-07-2009@@@
-
 DECRETO Nº 6.910, DE 22 DE JULHO DE 2009.
 
 Dispõe sobre ação emergencial a ser adotada pelo Ministério do Desenvolvimento Agrário nos casos em que especifica, e dá outras providências.

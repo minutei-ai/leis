@@ -1,5 +1,3 @@
-###DEC-004028-0-000-22-11-2001@@@
-
 DECRETO Nº 4.028, DE 22 DE NOVEMBRO DE 2001
 
 Dá nova redação ao § 4o do art. 10 do Decreto no 3.431, de 24 de abril de 2000, que regulamenta a execução do programa de Recuperação Fiscal - REFIS

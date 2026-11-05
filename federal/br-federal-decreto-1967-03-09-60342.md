@@ -1,5 +1,3 @@
-###DEC-060342-0-000-09-03-1967@@@
-
 DECRETO Nº 60.342, DE 9 DE MARÇO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$133.724.236 (cento e trinta e três milhões, setecentos e vinte e quatro mil, duzentos e trinta e seis cruzeiros), autorizado pela Lei número 5.214, de 16 de janeiro do corrente ano, para o fim que menciona.

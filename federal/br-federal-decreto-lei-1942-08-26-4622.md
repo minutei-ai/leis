@@ -1,5 +1,3 @@
-###DEL-004622-0-000-26-08-1942@@@
-
 DECRETO-LEI N. 4.622 – DE 26 DE AGOSTO DE 1942
 
 Dispõe sobre inclusão aos quadros do Serviço de Saude do Exército dos médicos e farmacêuticos que fizerem parte da Missão Médica Especial enviada à França

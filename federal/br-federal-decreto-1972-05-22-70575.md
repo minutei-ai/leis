@@ -1,5 +1,3 @@
-###DEC-070575-0-000-22-05-1972@@@
-
 DECRETO Nº 70.575, DE 22 DE MAIO DE 1972.
 
 Concede reconhecimento à Faculdade de Ciências de Bauru - SP.

@@ -1,5 +1,3 @@
-###DEC-045672-0-000-31-03-1959@@@
-
 Decreto nº 45.672, de 31 de março de 1959.
 
 Abre ao Ministério da Fazenda, o crédito especial de Cr$200.000.000,00, a que se refere a Lei nº 3.470, de 28 de novembro de 1958.

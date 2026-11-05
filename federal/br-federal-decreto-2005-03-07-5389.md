@@ -1,5 +1,3 @@
-###DEC-005389-0-000-07-03-2005@@@
-
 DECRETO Nº 5.389 DE 7 DE MARÇO DE 2005
 
 Dá nova redação ao art. 2º do Decreto nº 4.878, de 18 de novembro de 2003, que dispõe sobre a composição do Conselho Nacional de Saúde - CNS.

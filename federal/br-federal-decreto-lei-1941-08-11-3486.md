@@ -1,5 +1,3 @@
-###DEL-003486-0-000-11-08-1941@@@
-
 DECRETO-LEI N. 3.486 – DE 11 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 184.800$0, à verba que especifica

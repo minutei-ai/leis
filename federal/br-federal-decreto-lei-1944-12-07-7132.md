@@ -1,5 +1,3 @@
-###DEL-007132-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.132 – DE 7 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 7.000.000,00, à verba que especifica

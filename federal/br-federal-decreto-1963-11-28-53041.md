@@ -1,5 +1,3 @@
-###DEC-053041-0-000-28-11-1963@@@
-
 DECRETO Nº 53.041, DE 28 DE NOVEMBRO DE 1963.
 
 Atribui ao Grupo de Trabalho de Expansão do Ensino Industrial os serviços técnicos que vêm sendo realizados, pela Comissão Brasileiro-Americana de Educação Industrial e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083790-0-000-30-07-1979@@@
-
 decreto nº 83.790 de 30 de julho de 1979.
 
 Autoriza o aumento do capital da Fertilizantes Vale do Rio Grande S . A - VALEFÉRTIL, e dá outras providências.

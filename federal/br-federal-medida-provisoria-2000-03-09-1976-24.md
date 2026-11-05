@@ -1,5 +1,3 @@
-###MPV-001976-0-024-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.976-24, DE 9 DE março DE 2000.
 
 Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos privados de assistência à saúde e dá outras providências.

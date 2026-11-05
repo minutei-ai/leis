@@ -1,5 +1,3 @@
-###DEC-094756-0-000-10-08-1987@@@
-
 DECRETO Nº 94.756, DE 10 DE AGOSTO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Chopim", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Mangueirinha, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providências.

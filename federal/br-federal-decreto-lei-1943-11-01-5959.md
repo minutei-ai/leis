@@ -1,5 +1,3 @@
-###DEL-005959-0-000-01-11-1943@@@
-
 DECRETO‑LEI N. 5.959 – DE 1 DE NOVEMBRO DE 1943
 
 Dispõe sôbre o expurgo de aviões pelo Serviço de Saúde dos Portos, e dá outras providências
@@ -12,7 +10,23 @@ Art. 1º O Serviço de Saúde dos Portos, do Departamento Nacional de Saúde, do
 
 Art. 2º O serviço será dirigido por um funcionário da carreira de médico­\-sanitarista, que admitirá o pessoal necessário à execução dos trabalhos, com as seguintes diárias:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:49.65pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:347.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>a) médico</span><span>‑</span><span>auxiliar até ........................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(dez dólares);</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>US$ 10,00</span></p></td></tr><tr><td style="width:347.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>b) guarda</span><span>‑</span><span>chefe até ..........................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(cinco dólares);</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>US$ 5,00</span></p></td></tr><tr><td style="width:347.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>c) expurgador até .............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(um dólar e setenta centavos).</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>US$ 1,70</span></p></td></tr></tbody></table>
+a) médico‑auxiliar até ........................................................................................
+
+(dez dólares);
+
+US$ 10,00
+
+b) guarda‑chefe até ..........................................................................................
+
+(cinco dólares);
+
+US$ 5,00
+
+c) expurgador até .............................................................................................
+
+(um dólar e setenta centavos).
+
+US$ 1,70
 
 Art. 3º O funcionário designado para dirigir o serviço perceberá a gra­tificação de representação mensal de quinhentos dólares (US$ 500,00).
 

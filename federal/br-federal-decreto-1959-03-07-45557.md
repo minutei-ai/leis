@@ -1,5 +1,3 @@
-###DEC-045557-0-000-07-03-1959@@@
-
 DECRETO Nº 45.557, DE 7 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores do Conselho Regional de Engenharia e Arquitetura - 5ª Região (Distrito Federal, Rio de Janeiro e Espírito Santo).

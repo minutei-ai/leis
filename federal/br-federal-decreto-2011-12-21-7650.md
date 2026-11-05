@@ -1,5 +1,3 @@
-###DEC-007650-0-000-21-12-2011-PUB-01@@@
-
 DECRETO N° 7.650, DE 21 DE DEZEMBRO DE 2011
 
 Dispõe sobre a prorrogação dos mandatos dos membros do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA, representantes da sociedade civil.

@@ -1,5 +1,3 @@
-###DEC-092918-0-000-10-07-1986@@@
-
 DECRETO Nº 92.918, DE 10 DE JULHO DE 1986
 
 Autoriza o aumento de potência das entidades que menciona, executantes de serviço de radiodifusão sonora em onda média, nas cidades e unidades da federação indicadas.

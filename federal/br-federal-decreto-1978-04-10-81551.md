@@ -1,5 +1,3 @@
-###DEC-081551-0-000-10-04-1978@@@
-
 Decreto nº 81.551, de 10 de abril de 1978
 
 Concede reconhecimento aos cursos de Ciências Contábeis, de Ciências Econômicas, e de Administração, da Faculdade de Ciências Administrativas, Econômicas e Contábeis Osvaldo Cruz; e curso de Ciências, da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de São Paulo, Estado de São Paulo.

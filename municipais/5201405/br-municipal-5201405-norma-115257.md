@@ -14,22 +14,26 @@ I - Orçamento Fiscal referente aos Poderes do Município, Órgãos, Fundos inst
 
 II - Orçamento da Seguridade Social, abrangendo todos os Órgãos a eles vinculados, Fundos instituídos e mantidos pelo Poder Público Municipal e Entidades a Administração Direta e Indireta.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
-Seção I<br>
+Seção I
+
 DA ESTIMATIVA DA RECEITA
 
 Art. 2° A Receita Total do exercício de 2024 foi estimada para suportar os Orçamentos Fiscal e da Seguridade Social em R$ 3.305.639.130,00 (três bilhões, trezentos e cinco milhões, seiscentos e trinta e nove mil, cento e trinta reais), a preços correntes e conforme a legislação vigente.
 
 Art. 3° A Receita será arrecadada nos termos da legislação vigente e das especificações dos quadros integrantes desta Lei, observado os desdobramentos decorrentes da arrecadação de tributos, contribuições e de outras receitas correntes e de capital, previstas na legislação vigente, que são discriminados por categoria econômica e fonte de recursos.
 
-Seção II<br>
+Seção II
+
 DA FIXAÇÃO DA DESPESA
 
 Art. 4º A Despesa Total está fixada em R$ 3.305.639.130,00 (três bilhões, trezentos e cinco milhões, seiscentos e trinta e nove mil, cento e trinta reais).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA AUTORIZAÇÃO PARA ABERTURA DE CRÉDITOS ADICIONAIS
 
 Art. 5º Fica o Poder Executivo autorizado a abrir por decreto, créditos adicionais suplementares até 100% (cem por cento) do limite estabelecido no art. 23, da Lei Municipal nº 3.721/2023, observado o
@@ -46,12 +50,14 @@ IV - anulação de valor alocado na reserva de contingência, observado o art.5�
 
 V - repasse de recursos financeiros através de transferências financeiras recebidas de convênios, contratos, ajustes ou acordos firmados com órgãos federais, estaduais e municipais.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS OPERAÇÕES DE CRÉDITO
 
 Art. 7º Fica o Poder Executivo municipal autorizado a realizar operações de créditos por antecipação de receita, com a finalidade de manter o equilíbrio orçamentário financeiro do Município observadas as condições estabelecidas no art. 7º, inciso II, da Lei Federal nº 4.320/1964, e art. 38, da Lei Complementar n° 101/2000 - LRF, e os preceitos legais aplicáveis à matéria.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 8º O Chefe do Poder Executivo, nos termos da Lei Municipal nº 3.721/2023 (LDO), adotará parâmetros para utilização dos recursos orçamentários de forma a compatibilizar as despesas à efetiva realização das receitas, visando o cumprimento das metas de resultado primário.
@@ -98,5 +104,6 @@ Art. 11 Esta Lei entrará em vigor em 1º de janeiro de 2024.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 19 de dezembro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

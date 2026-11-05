@@ -1,19 +1,17 @@
-###DEC-023229-0-000-23-06-1947@@@
+**DECRETO Nº 23.229, DE 23 de junho de 1947.**
 
-<strong>DECRETO Nº 23.229, DE 23 de junho de 1947.</strong>
+***Extingue cargo excedente.***
 
-<em><strong>Extingue cargo excedente.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I,  da Constituição, e nos têrmos do art. 1º, alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I,  da Constituição, e nos têrmos do art. 1º, alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**decreta:**
 
-<strong>decreta:</strong>
+**Art**. 1º Fica  extinto 1 (um) cargo da classe G da carreira de Arquivista do Quadro Permanente do Ministério da Aeronáutica, vago em virtude da exoneração de José Arlindo Braga, devendo a dotação correspondente ser levada a crédito da conta-corrente do mesmo Quadro e Ministério.
 
-<strong>Art</strong>. 1º Fica  extinto 1 (um) cargo da classe G da carreira de Arquivista do Quadro Permanente do Ministério da Aeronáutica, vago em virtude da exoneração de José Arlindo Braga, devendo a dotação correspondente ser levada a crédito da conta-corrente do mesmo Quadro e Ministério.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de junho de 1947, 126º da Independência e 59º da República.
 
-<strong>Eurico G. Dutra</strong>
+**Eurico G. Dutra**
 
 Armando Trompowsky

@@ -1,5 +1,3 @@
-###DEL-004405-0-000-25-06-1942@@@
-
 DECRETO-LEI N. 4.405 – DE 25 DE JUNHO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 591:862$9, para Final liquidação de despesas com a III Reunião de Consulta dos Ministros das Relações Exteriores das Repúblicas Americanas.

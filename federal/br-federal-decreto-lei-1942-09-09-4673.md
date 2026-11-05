@@ -1,5 +1,3 @@
-###DEL-004673-0-000-09-09-1942@@@
-
 DECRETO-LEI N. 4.673 – DE 9 DE SETEMBRO DE 1942
 
 Cria o 5º Grupo Movel de Artilharia de Costa na 7ª Região Militar

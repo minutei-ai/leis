@@ -1,5 +1,3 @@
-###DEC-082953-0-000-28-12-1978@@@
-
 Decreto nº 82.953, de 28 de dezembro de 1978
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Laranjeiras, Estado de Sergipe.

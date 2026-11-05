@@ -1,5 +1,3 @@
-###DEC-062105-0-000-11-01-1968@@@
-
 DECRETO Nº 62.105, DE 11 DE JANEIRO DE 1968.
 
 Regulamenta o Decreto-Lei nº 270, de 28 de fevereiro de 1967 dispondo sôbre as receitas do Fundo Aeroviário e os Critérios para quantificação e cobranças das taxas aeroportuárias, e dá outras providências.

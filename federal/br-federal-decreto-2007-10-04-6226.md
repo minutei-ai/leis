@@ -1,5 +1,3 @@
-###DEC-006226-0-000-04-10-2007@@@
-
 DECRETO Nº 6.226, DE 4 DE OUTUBRO DE 2007.
 
 Institui o Programa Mais Cultura.
@@ -115,5 +113,3 @@ Brasília, 4 de outubro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Gilberto Gil
-
-Este texto não substitui o publicado no DOU de 5.10.2007.

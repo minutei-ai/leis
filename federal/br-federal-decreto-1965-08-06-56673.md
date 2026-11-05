@@ -1,5 +1,3 @@
-###DEC-056673-0-000-06-08-1965@@@
-
 Decreto nº 56.673, de 6 de agôsto de 1965.
 
 Renova o Decreto nº 49.894, de 12 de janeiro de 1961.

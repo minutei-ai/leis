@@ -1,7 +1,3 @@
-1
-
-###DEC-099669-0-000-06-11-1990@@@
-
 DECRETO N° 99.669, DE 6 DE NOVEMBRO DE 1990
 
 Dispõe sobre a criação do Comando de Operações Terrestres e dá outras providências.

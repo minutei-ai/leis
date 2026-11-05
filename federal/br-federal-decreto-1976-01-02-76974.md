@@ -1,5 +1,3 @@
-###DEC-076974-0-000-02-01-1976@@@
-
 DECRETO Nº 76.974, DE 2 DE JANEIRO DE 1976.
 
 Desativa a Inspetoria-Geral da Aeronáutica e dá outras providências.

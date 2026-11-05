@@ -1,5 +1,3 @@
-###DEC-047915-0-000-12-03-1960@@@
-
 DECRETO Nº 47.915, DE 12 DE MARÇO DE 1960.
 
 Autoriza a Fôrça e Luz do Pará Sociedade Anônima a constituir hipoteca sôbre os seus bens em favor do Banco Nacional do Desenvolvimento Econômico.

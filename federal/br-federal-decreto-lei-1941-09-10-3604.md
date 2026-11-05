@@ -1,5 +1,3 @@
-###DEL-003604-0-000-10-09-1941@@@
-
 DECRETO-LEI N. 3.604 – DE 10 DE SETEMBRO DE 1941
 
 Concede pensão vitalícia a D. Adelaide Amoedo

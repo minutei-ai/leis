@@ -1,5 +1,3 @@
-###DEC-054391-0-000-08-10-1964@@@
-
 DECRETO Nº 54.391, DE 8 DE OUTUBRO DE 1964.
 
 Altera a lotação numérica do Quadro de Pessoal - Parte Permanente do Ministério da Fazenda.

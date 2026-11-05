@@ -1,5 +1,3 @@
-###DEC-077841-0-000-16-06-1976@@@
-
 DECRETO Nº 77.841, DE 16 DE JUNHO DE 1976.
 
 Declara sem efeito o Decreto número 61.840, de 5 de dezembro de 1967, que concedeu a Salim Cesar Curi o direito de lavrar cassiterita.

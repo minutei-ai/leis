@@ -18,22 +18,22 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 13 de maio de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-| Imóvel de propriedade do Estado de Goiás autorizado a ser alienado, mediante doação onerosa,<br>
+| Imóvel de propriedade do Estado de Goiás autorizado a ser alienado, mediante doação onerosa,
+
 ao Município de Córrego do Ouro/GO |
 | --- |
 | DENOMINAÇÃO | **Quadra 26 – UBS – Unidade Básica de Saúde** |
 | LOCALIZAÇÃO | **Entre a Rua São Paulo, a Avenida Tiradentes e a Rua Paraná, Centro, Córrego do Ouro/GO** |
-| ÁREA | **3.483,42 m**² **com 1.053,76 m**² **de benfeitorias****<br>
+| ÁREA | **3.483,42 m**² **com 1.053,76 m**² **de benfeitorias
+
 ** |
-| MATRÍCULA | **Nº 2.776 – Cartório de Registro de Imóveis de** **Córrego do Ouro/GO** |
+| MATRÍCULA | **Nº 2.776 – Cartório de Registro de Imóveis deCórrego do Ouro/GO** |
 |
 LIMITES E CONFRONTAÇÕES DO IMÓVEL
 

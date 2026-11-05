@@ -1,5 +1,3 @@
-###DEC-053994-0-000-03-07-1964@@@
-
 DECRETO Nº 53.994, DE 3 DE JULHO DE 1964.
 
 Altera a redação do Decreto número 53.508, de 29 de janeiro de 1964.

@@ -1,5 +1,3 @@
-###DEC-051791-0-000-04-03-1963@@@
-
 Decreto nº 51.791, de 4 de MARÇO de 1963.
 
 Amplia a zona de concessão da Emprêsa Luz e Fôrça Santa Maria S.A., no Estado do Espírito Santo, e dá outras providências.

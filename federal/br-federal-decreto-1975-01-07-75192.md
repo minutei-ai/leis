@@ -1,5 +1,3 @@
-###DEC-075192-0-000-07-01-1975@@@
-
 DECRETO Nº 75.192, DE 7 DE JANEIRO DE 1975.
 
 Altera disposições do Decreto número 60.521, de 31 de março de 1957, que estabelece a Estrutura Básica de Organização do Ministério da Aeronáutica.

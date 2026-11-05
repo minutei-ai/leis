@@ -1,5 +1,3 @@
-###DEC-056474-0-000-16-06-1965@@@
-
 decreto nº 56.474, de 16 de junho de 1965.
 
 Outorga concessão à Rádio Rural de Tupaciguara, para instalar uma estação de radiodifusão sonora.

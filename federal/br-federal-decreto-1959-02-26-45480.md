@@ -1,5 +1,3 @@
-###DEC-045480-0-000-26-02-1959@@@
-
 Decreto nº 45.480, de 26 de fevereiro de 1959.
 
 Reduz, temporariamente, exigências do Regulamento de Promoções para Oficiais da Marinha.

@@ -1,5 +1,3 @@
-###DEC-071468-0-000-04-12-1972@@@
-
 DECRETO Nº 71.468 - DE 4 DE DEZEMBRO DE 1972
 
 Concede reconhecimento ao Curso de Administração de Empresas da Faculdade de Administração de Empresas de Ribeirão Preto.

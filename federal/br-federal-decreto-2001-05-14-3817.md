@@ -1,5 +1,3 @@
-###DEC-003817-0-000-14-05-2001@@@
-
 DECRETO Nº 3.817, DE 14 DE MAIO DE 2001.
 
 Dá nova redação ao art. 4º do Decreto n.º 3.210 de 14 de outubro de 1999, que dispõe sobre a Comissão de Desenvolvimento do projeto e da Implantação do Sistema de Comunicações Militares por Satélite ‑ CISCOMIS.

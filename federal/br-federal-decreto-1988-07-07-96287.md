@@ -1,5 +1,3 @@
-###DEC-096287-0-000-07-07-1988@@@
-
 DECRETO N° 96.287, DE 7 DE JULHO DE 1988
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f9adb416-9907-47de-a8d7-7fe9f1c1c4fd/texto#nowhere)
 
-###DEL-000776-0-000-20-08-1969@@@
-
 DECRETO-LEI Nº 776, DE 20 DE AGÔSTO DE 1969
 
 Transfere cargo do Ministério da Aeronáutica para o Estado-Maior das Fôrças Armadas.

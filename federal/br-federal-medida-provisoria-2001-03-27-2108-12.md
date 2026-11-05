@@ -1,5 +1,3 @@
-###MPV-002108-0-012-27-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.108-12, DE 27 DE MARÇO DE 2001
 
 Institui, no âmbito da União, nos termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para aquisição de bens e serviços comuns, e dá outras providências.

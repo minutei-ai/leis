@@ -1,5 +1,3 @@
-###MPV-000248-0-000-20-04-2005@@@
-
 MEDIDA PROVISÓRIA Nº 248, DE 20 DE ABRIL DE 2005
 
 Dispõe sobre o valor do salário mínimo a partir de 1º de maio de 2005, e dá outras providências.

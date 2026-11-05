@@ -1,5 +1,3 @@
-###DEC-061188-0-000-21-08-1967@@@
-
 DECRETO Nº 61.188, DE 21 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, área destinada à bacia de acumulação, do aproveitamento da energia hidráulica de um trecho do rio Paranapanema, municípios de Fartura e Carlópolis, nos Estados de São Paulo e Paraná.

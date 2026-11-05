@@ -1,5 +1,3 @@
-###DEL-008217-0-000-23-11-1945@@@
-
 DECRETO-LEI N. 8.217 – DE 23 DE NOVEMBRO DE 1945
 
 Dispõe sôbre a isenção de impostos nas aquisições de imóveis feitas por oficiais e praças da Fôrça Expedicionária Brasileira.

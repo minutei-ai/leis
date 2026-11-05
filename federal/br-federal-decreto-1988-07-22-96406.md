@@ -1,5 +1,3 @@
-###DEC-096406-0-000-22-07-1988@@@
-
 DECRETO N° 96.406, DE 22 DE JULHO DE 1988
 
 Outorga concessão à RÁDIO CAMPOS BELOS LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Campos Belos, Estado de Goiás.

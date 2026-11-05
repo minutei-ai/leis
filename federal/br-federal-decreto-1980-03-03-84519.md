@@ -1,5 +1,3 @@
-###DEC-084519-0-000-03-03-1980@@@
-
 Decreto nº 84.519, de 03 de março de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

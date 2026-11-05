@@ -1,5 +1,3 @@
-###DEC-051418-0-000-23-02-1962@@@
-
 Decreto nº 51.418, de 23 de fevereiro de 1962.
 
 Altera o Decreto nº 29.433 de 4 de abril de 1951 e dá outras providências.

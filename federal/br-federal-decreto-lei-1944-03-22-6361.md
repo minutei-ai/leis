@@ -1,5 +1,3 @@
-###DEL-006361-0-000-22-03-1944@@@
-
 DECRETO-LEI N. 6.361 – DE 22 DE MARÇO DE 1944
 
 Suspende, enquanto perdurar o estado de guerra, as disposições dos arts. 239 e 241 da Consolidação das Leis do Trabalho e dá outras providências

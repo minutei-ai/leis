@@ -1,5 +1,3 @@
-###DEC-006619-0-000-29-10-2008@@@
-
 DECRETO Nº 6.619, DE 29 DE OUTUBRO DE 2008.
 
 Dá nova redação a dispositivos do Decreto no 6.170, de 25 de julho de 2007, que dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse.

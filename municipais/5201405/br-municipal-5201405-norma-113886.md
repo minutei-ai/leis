@@ -12,7 +12,8 @@ Art. 2º - A Unidade de Execução Municipal - UEM será composta pelos seguinte
 
 I - Ana Paula Vilela Rocha Veiga - Coordenadora Administrativa e Financeira;
 
-II - Renata Morales de Campos - Coordenadora Técnica;<br>
+II - Renata Morales de Campos - Coordenadora Técnica;
+
 (Redação alterada pelo Decreto "N" nº 205, de 5 de abril de 2014).
 
 ~~II - Fernanda Raquel de Oliveira Rocha - Coordenadora Técnica, e~~
@@ -23,11 +24,14 @@ Art. 3º - Este Decreto entrará em vigor na data de sua publicação, revogando
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, aos quatro dias do mês de setembro do ano de dois mil e treze.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-CARLOS EDUARDO DE PAULA RODRIGUES<br>
+CARLOS EDUARDO DE PAULA RODRIGUES
+
 Secretário da Fazenda
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário de Governo e Integração Institucional

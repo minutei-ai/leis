@@ -1,5 +1,3 @@
-###DEC-073182-0-000-21-11-1973@@@
-
 DECRETO Nº 73.182 - DE 21 DE NOVEMBRO DE 1973
 
 Autoriza o funcionamento do curso de Engenharia de Operação, Modalidade Eletricidade, da Faculdade de Engenharia de Ituiutaba, mantida pela Fundação Universidade do Triângulo Mineiro, com sede na Cidade de Ituiutaba, Estado de Minas Gerais.

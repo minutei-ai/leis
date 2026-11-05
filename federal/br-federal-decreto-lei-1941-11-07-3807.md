@@ -1,5 +1,3 @@
-###DEL-003807-0-000-07-11-1941@@@
-
 DECRETO-LEI N. 3.807 – DE 7 DE NOVEMBRO DE 1941
 
 Regula o aproveitamento de notas de 1$0 do Banco do Brasil e dá outras providências

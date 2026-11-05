@@ -1,5 +1,3 @@
-###DEC-056512-0-000-28-06-1965@@@
-
 DECRETO Nº 56.512, DE 28 DE JUNHO DE 1965.
 
 Prorroga vigência do Decreto número 327 de 11.12.61, que concede isenção de taxas e impostos federais em favor da emprêsa “Companhia Agro-Industrial Igarassu”, de Igarassu, Estado de Pernambuco.

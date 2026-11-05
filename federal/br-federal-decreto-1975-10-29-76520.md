@@ -1,5 +1,3 @@
-###DEC-076520-0-000-29-10-1975@@@
-
 DECRETO Nº 76.520, DE 29 DE OUTUBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cultura de Gravataí Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Gravataí, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-094123-0-000-20-03-1987@@@
-
 DECRETO Nº 94.123, DE 20 DE MARÇO DE 1987.
 
 Renova a concessão outorgada a RÁDIO URUBUPUNGÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Andradina, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-065252-0-000-01-10-1969@@@
-
 DECRETO Nº 65.252 - DE 1º DE OUTUBRO DE 1969.
 
 Extingue o Serviço de Estatística Econômica e Financeira (S.E.E.F.) do Ministério da Fazenda e dá outras providências.

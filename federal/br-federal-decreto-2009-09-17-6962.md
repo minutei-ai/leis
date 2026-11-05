@@ -1,5 +1,3 @@
-###DEC-006962-0-000-17-09-2009@@@
-
 DECRETO Nº 6.962, DE 17 DE SETEMBRO DE 2009.
 
 Regulamenta as Seções I, II, III e IV do Capítulo I e o Capítulo II da Lei no 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072618-0-000-15-08-1973@@@
-
 DECRETO Nº 72.618, DE 15 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento dos cursos de Economia e Contabilidade na Faculdade de Ciências Contábeis e Administrativas, mantida pela Sociedade Universitária "Augusto Motta", com sede na cidade do Rio de Janeiro, Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-062479-0-000-28-03-1968@@@
-
 DECRETO nº 62.479, DE 28 DE MARÇO DE 1968.
 
 Regulamenta o artigo 36 e seu parágrafo único do Decreto-lei nº 67 de 21 de novembro de 1966.

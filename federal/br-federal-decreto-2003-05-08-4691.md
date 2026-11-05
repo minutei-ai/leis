@@ -1,5 +1,3 @@
-###DEC-004691-0-000-08-05-2003@@@
-
 DECRETO Nº 4.691, DE 8 DE MAIO DE 2003.
 
        Estabelece restrições para execução, no exercício de 2003, das despesas que especifica, e dá outras providências.
@@ -44,5 +42,6 @@ DECRETO Nº 4.691, DE 8 DE MAIO DE 2003.
 
         Brasília, 8 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

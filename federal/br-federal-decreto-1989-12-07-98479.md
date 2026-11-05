@@ -1,5 +1,3 @@
-###DEC-098479-0-000-07-12-1989@@@
-
 DECRETO Nº 98.479, DE 7 DE DEZEMBRO DE 1989
 
 Aprova o III Plano Setorial para os Recursos Mar (III PSRM).

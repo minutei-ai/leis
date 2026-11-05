@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209175)<br>
-
 # LEI N° 17.866, DE 09 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 387/2022, da Deputada Leci Brandão – PcdoB)

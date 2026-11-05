@@ -1,5 +1,3 @@
-###DEC-072332-0-000-04-06-1973@@@
-
 DECRETO Nº 72.332, DE 4 DE JUNHO DE 1973.
 
 Cria o Centro de Documentação do Exército e dá outras providências.

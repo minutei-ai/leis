@@ -1,5 +1,3 @@
-###DEC-048523-0-000-14-07-1960@@@
-
 DECRETO Nº 48.523, DE 14 DE JULHO DE 1960.
 
 Declara de utilidade pública a Sociedade Brasileira Cultural e Caritativa São José, com sede em Curitiba, Estado do Paraná.

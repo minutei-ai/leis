@@ -1,5 +1,3 @@
-###DEC-003682-0-000-06-12-2000@@@
-
 DECRETO Nº 3.682, DE 6 DE DEZEMBRO DE 2000.
 
 Altera dispositivo do Decreto nº 2.153, de 20 de fevereiro de 1997, que estabelece e organiza as Forças Navais, Aeronavais e de Fuzileiros Navais da Marinha, dispõe sobre as áreas de jurisdição dos Comandos de Distritos Navais e dá outras providências.

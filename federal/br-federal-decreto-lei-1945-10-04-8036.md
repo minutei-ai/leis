@@ -1,5 +1,3 @@
-###DEL-008036-0-000-04-10-1945@@@
-
 DECRETO-LEI N. 8.036 – DE 4 DE OUTUBRO DE 1945
 
 Define o regime de seguro social dos empregados do Conselho Federal de Engenharia e Arquitetura

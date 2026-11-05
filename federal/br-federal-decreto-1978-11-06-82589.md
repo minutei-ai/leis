@@ -1,5 +1,3 @@
-###DEC-082589-0-000-06-11-1978@@@
-
 decreto nº 82.589, de 06 de novembro de 1978.
 
 Concede indulto, reduz penas e dá outras providências.

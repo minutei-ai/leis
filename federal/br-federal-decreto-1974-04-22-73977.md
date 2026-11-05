@@ -1,5 +1,3 @@
-###DEC-073977-0-000-22-04-1974@@@
-
 DECRETO Nº 73.977, DE 22 DE ABRIL DE 1974.
 
 Extingue o Conselho de Terras da União e da outras providências.

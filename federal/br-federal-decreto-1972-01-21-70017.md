@@ -1,5 +1,3 @@
-###DEC-070017-0-000-21-01-1972@@@
-
 DECRETO Nº 70.017, DE 21 DE JANEIRO DE 1972.
 
 Concede à Companhia de Cimento Portland de Sergipe o direito de lavrar calcário, nos municípios de Nossa Senhora do Socorro e Laranjeiras, Estado de Sergipe.

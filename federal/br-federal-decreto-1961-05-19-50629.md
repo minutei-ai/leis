@@ -1,5 +1,3 @@
-###DEC-050629-0-000-19-05-1961@@@
-
 DECRETO Nº 50.629, DE 19 DE MAIO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros “Aliança da Bahia”.

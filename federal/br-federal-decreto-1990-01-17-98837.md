@@ -1,7 +1,3 @@
-1
-
-###DEC-098837-0-000-17-01-1990@@@
-
 DECRETO Nº 98.837, DE 17 DE JANEIRO DE 1990
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica nº 12 entre o Brasil e a Argentina.

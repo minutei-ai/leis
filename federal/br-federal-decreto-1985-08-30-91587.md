@@ -1,5 +1,3 @@
-###DEC-091587-0-000-30-08-1985@@@
-
 Decreto nº 91.587, de 30 de agosto de 1985
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da estação de transição Volta Redonda, da LIGHT-Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

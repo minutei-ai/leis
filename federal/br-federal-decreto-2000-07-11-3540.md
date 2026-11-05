@@ -1,5 +1,3 @@
-###DEC-003540-0-000-11-07-2000@@@
-
 DECRETO Nº 3.540, DE 11 DE JULHO DE 2000.
 
 Estabelece as características dos Títulos da Dívida Pública Mobiliária Federal interna e dá outras providências.

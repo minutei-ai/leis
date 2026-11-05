@@ -1,5 +1,3 @@
-###DEL-006761-0-000-31-07-1944@@@
-
 DECRETO-LEI N. 6.761 – DE 31 DE JULHO DE 1944
 
 Concede favores fiscais aos hotéis que se estabelecerem no território nacional e fixa para essa concessão

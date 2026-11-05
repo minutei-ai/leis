@@ -1,5 +1,3 @@
-###DEC-071838-0-000-14-02-1973@@@
-
 Decreto nº 71.838, de 14 de fevereiro de 1973.
 
 Dispõe sobre a Comissão Especial para a Execução do Plano de Melhoramento e Expansão do Ensino Superior (CEPES) e dá outras providências.

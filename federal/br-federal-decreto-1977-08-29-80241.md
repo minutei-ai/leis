@@ -1,5 +1,3 @@
-###DEC-080241-0-000-29-08-1977@@@
-
 Decreto nº 80.241, de 29 de agosto de 1977.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S. - área de terra abrangida pela bacia hidráulica e faixa de Açude Público "São Mamede", no Estado da Paraíba, e da outras Providências.

@@ -1,5 +1,3 @@
-###DEC-074071-0-000-15-05-1974@@@
-
 DECRETO Nº 74.071, DE 15 DE MAIO DE 1974.
 
 Concede autorização às firmas Western Geophysical Company Of America e Sermar - Serviços Marítimos Ltda., para operarem em águas interiores e na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

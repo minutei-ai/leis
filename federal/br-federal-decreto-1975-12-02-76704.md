@@ -1,5 +1,3 @@
-###DEC-076704-0-000-02-12-1975@@@
-
 DECRETO Nº 76.704, DE 2 DE DEZEMBRO DE 1975.
 
 Acrescenta dispositivos aos Decretos números 76.406 e 76.407, de 9 de outubro de 1975, que, respectivamente, dispõem sobre a importação, arrendamento mercantil ou aquisição, no mercado interno, de produtos de origem externa por órgão e entidades da administração federal direta e indireta e fundações supervisionadas; e institui normas para as mesmas operações relacionadas com máquinas, equipamentos e veículos, inclusive suas partes, peças e acessórios.

@@ -58,10 +58,12 @@ Art. 3º Cabe ao Município assegurar à pessoa com Transtorno do Espectro Autis
 
 § 3º Os atendimentos à pessoa com TEA em âmbito municipal devem ser informados ao órgão competente para a atualização do cadastro a que se refere o § 2º deste artigo, na forma do regulamento.
 
-Art. 3º-A Fica instituído, como parte integrante das políticas públicas de inclusão da pessoa com Transtorno do Espectro Autista (TEA), o Programa "Cine Azul e Cultura Acessível", com o objetivo de promover sessões culturais adaptadas e ambientes inclusivos no município de Aparecida de Goiânia.<br>
+Art. 3º-A Fica instituído, como parte integrante das políticas públicas de inclusão da pessoa com Transtorno do Espectro Autista (TEA), o Programa "Cine Azul e Cultura Acessível", com o objetivo de promover sessões culturais adaptadas e ambientes inclusivos no município de Aparecida de Goiânia.
+
 (Redação acrescentada pela Lei nº 3.864, de 13 de novembro de 2025)
 
-§ 1º O Programa abrangerá, mas não se limitará, a sessões de cinemas, apresentações teatrais, musicais, circenses e outras atividades culturais em ambientes fechados ou abertos, mediante as seguintes adequações:<br>
+§ 1º O Programa abrangerá, mas não se limitará, a sessões de cinemas, apresentações teatrais, musicais, circenses e outras atividades culturais em ambientes fechados ou abertos, mediante as seguintes adequações:
+
 (Redação acrescentada pela Lei nº 3.864, de 13 de novembro de 2025)
 
 I – redução do volume sonoro: com níveis sonoros reduzidos para evitar desconfortos;
@@ -74,7 +76,8 @@ IV – pausas flexíveis: com intervalos durante as sessões para descanso;
 
 V – capacitação dos profissionais: garantindo formação específica para atendimento humanizado.
 
-§ 2º O Programa poderá ser implementado em parceria com cinemas, teatros, casas de show, instituições culturais, ONGs e entidades da sociedade civil.<br>
+§ 2º O Programa poderá ser implementado em parceria com cinemas, teatros, casas de show, instituições culturais, ONGs e entidades da sociedade civil.
+
 (Redação acrescentada pela Lei nº 3.864, de 13 de novembro de 2025)
 
 Art. 4º A prestação de serviços públicos à pessoa com Transtorno do Espectro Autista será realizada de forma integrada pelos serviços municipais de saúde, educação e assistência social.
@@ -179,5 +182,6 @@ Art. 16. Esta Lei entra em vigor na data da publicação.
 
 Câmara Municipal de Aparecida de Goiânia, 14 de março de 2023.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Câmara Municipal

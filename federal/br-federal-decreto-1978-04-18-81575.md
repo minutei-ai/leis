@@ -1,5 +1,3 @@
-###DEC-081575-0-000-18-04-1978@@@
-
 Decreto nº 81.575, de 18 de abril de 1978.
 
 Declara a caducidade do Manifesto de mina menciona.

@@ -1,5 +1,3 @@
-###DEL-006418-0-000-13-04-1944@@@
-
 DECRETO-LEI N. 6.418 – DE 13 DE ABRIL DE 1944
 
 Autoriza o Ministério da Fazenda a alienar, mediante concorrência pública, os próprios nacionais que menciona, situados no município do Sêrro, Estado de Minas Gerais, e dá outras providências

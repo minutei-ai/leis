@@ -1,5 +1,3 @@
-###DEC-090313-0-000-16-10-1984@@@
-
 Decreto nº 90.313, de 16 de outubro de 1984
 
 Dispõe sobre abertura de créditos adicionais ao orçamento, disciplina operações orçamentário - financeiras e dá outras providências.

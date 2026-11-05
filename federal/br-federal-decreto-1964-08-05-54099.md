@@ -1,5 +1,3 @@
-###DEC-054099-0-000-05-08-1964@@@
-
 DECRETO Nº 54.099, DE 5 de AGÔSTO DE 1964.
 
 Modifica o texto do art. 421, do Decreto nº 48.959-A, de 19 de setembro de 1960, que aprovou o Regulamento Geral da Previdência Social.

@@ -1,5 +1,3 @@
-###DEL-008501-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.501 – DE 28 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 14.940.500,00 para despesas com a Fábrica Nacional de Motores.

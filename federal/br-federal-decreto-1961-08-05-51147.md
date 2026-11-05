@@ -1,5 +1,3 @@
-###DEC-051147-0-000-05-08-1961@@@
-
 DECRETO Nº 51.147, DE 5 DE AGÔSTO DE 1961.
 
 Abre, ao Poder Judiciário - Tribunal de Justiça do Distrito Federal, o crédito especial de Cr$78.000,00 para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-086028-0-000-27-05-1981@@@
-
 Decreto nº 86.028, de 27 de maio de 1981.
 
 Institui em todo Território Nacional a "Semana Nacional do Meio Ambiente", e dá outras providências.

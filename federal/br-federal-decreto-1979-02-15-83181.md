@@ -1,5 +1,3 @@
-###DEC-083181-0-000-15-02-1979@@@
-
 DECRETO Nº 83.181, DE 15 DE FEVEREIRO DE 1979.
 
 Concede reconhecimento aos cursos de Administração, e de Ciências Contábeis, ministrados pela Faculdade Estadual de Ciências Econômicas de Apucarana, Estado do Paraná.

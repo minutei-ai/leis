@@ -1,5 +1,3 @@
-###DEC-077945-0-000-30-06-1976@@@
-
 DECRETO Nº 77.945, DE 30 DE JUNHO DE 1976.
 
 Concede reconhecimento aos cursos de Letras e de Pedagogia, da Faculdade de Pedagogia e Letras, com sede na cidade de Caçador, Estado de Santa Catarina.

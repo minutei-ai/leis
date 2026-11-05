@@ -1,5 +1,3 @@
-###DEL-004598-0-000-20-08-1942@@@
-
 DECRETO-LEI N. 4.598 – DE 20 DE AGOSTO DE 1942
 
  Dispõe sobre aluguéis de residências e dá outras providências

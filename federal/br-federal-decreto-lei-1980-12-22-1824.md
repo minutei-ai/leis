@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/808b25f0-d791-4507-a772-0d8168bacbd8/texto#nowhere)
 
-###DEL-001824-0-000-22-12-1980@@@
-
 # Decreto-lei nº 1.824, de 22 de dezembro de 1980
 
 Altera disposições da Lei nº 5.787, de 27 de junho de 1972, modificada pelo Decreto-lei nº 1.693, de 30 de agosto de 1979, extingue gratificação e dá outras providências.

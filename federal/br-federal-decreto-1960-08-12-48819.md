@@ -1,5 +1,3 @@
-###DEC-048819-0-000-12-08-1960@@@
-
 DECRETO Nº 48.819, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza a Companhia Mineira de Eletricidade a alienar gleba de terra de sua propriedade, é dá outras providências.
@@ -27,8 +25,6 @@ Brasília, 12 de agôsto de 1960; 139º da Independência e 72º da República.
 JUSCELINO KUBITSCHEK
 
 Antônio Barros Carvalho
-
-###DEC-048819-0-000-12-08-1960@@@RET01+++
 
 DECRETO Nº 48.819, DE 12 DE AGÔSTO DE 1960.
 

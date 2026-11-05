@@ -1,5 +1,3 @@
-###MPV-001584-0-000-02-09-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.584, DE 2 DE SETEMBRO DE 1997
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe.

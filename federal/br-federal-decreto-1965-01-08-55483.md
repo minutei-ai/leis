@@ -1,5 +1,3 @@
-###DEC-055483-0-000-08-01-1965@@@
-
 DECRETO Nº 55.483, DE 8 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Joaquim Plínio de Oliveira a pesquisar minério de chumbo, no município de Brotas de Macaúbas, Estado da Bahia.

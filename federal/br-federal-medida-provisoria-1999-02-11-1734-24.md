@@ -1,5 +1,3 @@
-###MPV-001734-0-024-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.734-24, DE 11 DE FEVEREIRO DE 1999.
 
 Estabelece multa em operações de importação e dá outras providências.

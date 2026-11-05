@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208253)<br>
-
 # DECRETO N° 67.787, DE 11 DE JULHO DE 2023
 
 ### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo, imóvel situado no Município de São Sebastião, necessário à implantação de programa habitacional, e dá providências correlatas._

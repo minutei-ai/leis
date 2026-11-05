@@ -1,5 +1,3 @@
-###DEC-089304-0-000-17-01-1984@@@
-
 Decreto nº 89.304, de 17 de janeiro de 1984
 
 Cria Núcleo de Secretaria de Controle Interno nos Gabinetes da Presidência da República.
@@ -53,8 +51,6 @@ JOÃO FIGUEIREDO
 Rubem Ludwig
 
 Leitão de Abreu
-
-###DEC-089304-0-000-17-01-1984@@@RET01+++
 
 DECRETO Nº 89.304, DE 17 DE JANEIRO DE 1984
 

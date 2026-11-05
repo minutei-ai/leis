@@ -1,5 +1,3 @@
-###DEL-007343-0-000-26-02-1945@@@
-
 DECRETO-LEI N. 7.343 – DE 26 DE FEVEREIRO DE 1945
 
 Aprova  novas disposições sôbre o serviço militar e dá outras providências

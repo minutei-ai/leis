@@ -1,5 +1,3 @@
-###DEC-056423-0-000-07-06-1965@@@
-
 DECRETO Nº 56.423, DE 7 DE JUNHO DE 1965.
 
 Autoriza Ferrosul Limitada a pesquisar minérios de ferro e de manganês no município de Joinvile, Estado de Santa Catarina.

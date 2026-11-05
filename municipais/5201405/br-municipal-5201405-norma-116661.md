@@ -4,14 +4,16 @@ Altera a Lei nº 3.385, de 30 de outubro de 2017, que dispõe sobre o Plano Plur
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PLANEJAMENTO GOVERNAMENTAL E DO PLANO PLURIANUAL
 
 Art. 1º Esta Lei altera a Lei n° 3.385, de 30 de outubro de 2017, que dispõe sobre o Plano Plurianual do Município de Aparecida de Goiânia para o quadriênio 2018-2021, em cumprimento ao estabelecido no art. 51, inciso II, alínea “e” da Lei Orgânica do Município de Aparecida de Goiânia.
 
 Art. 2º Fica estabelecido para o período 2019-2021 a nova organização dos programas, estabelecimento de indicadores, objetivos, ações, público-alvo, produtos, unidades de medida, metas físicas e metas financeiras.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ESTRUTURA E ORGANIZAÇÃO DO PLANO
 
 Art. 3º O PPA 2018-2021 reflete as políticas públicas e organiza a atuação governamental por meio de Programas Finalísticos e de Apoio à Gestão e Manutenção da Administração do Município, assim definidos:
@@ -44,10 +46,12 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 18 de dezembro de 2018.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19004)

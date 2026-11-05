@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212593)<br>
-
 # DECRETO N° 70.599, DE 13 DE MAIO DE 2026
 
 ### _Dispõe sobre o Sistema de Gestão de Pessoal - SGP e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### Seção I<br>
+#### Seção I
+
 Do Sistema de Gestão de Pessoal - SGP
 
 **Artigo 1° -** O Sistema de Gestão de Pessoal - SGP, de uso obrigatório pela Administração Direta e pelas autarquias do Estado de São Paulo, instrumento central de execução dos atos previstos no Sistema de Administração de Pessoal, devendo ser utilizado para o registro, processamento e controle dos atos de pessoal e da folha de pagamento.
@@ -81,7 +80,8 @@ III - haja compatibilidade com os objetivos estabelecidos neste decreto.
 
 **Parágrafo único -** A autorização de que trata o "caput"deste artigo será realizada em caráter excepcional e temporário e será precedida da apresentação, pelo órgão ou entidade interessada, de plano de adequação ao Sistema de Gestão de Pessoal - SGP.
 
-#### Seção II<br>
+#### Seção II
+
 Do Portal SOU.SP.GOV.BR
 
 **Artigo 6° -** A plataforma digital SOU.SP.GOV.BR será o canal exclusivo para formalização de requerimentos funcionais dos agentes públicos ativos.
@@ -90,7 +90,8 @@ Do Portal SOU.SP.GOV.BR
 
 **§ 2° -** Mediante avaliação de viabilidade técnica e operacional, o uso da plataforma poderá ser estendido aos beneficiários da São Paulo Previdência - SPPREV e aos participantes da Fundação de Previdência Complementar do Estado de São Paulo - SP-PREVCOM.
 
-#### Seção III<br>
+#### Seção III
+
 Disposições Finais
 
 **Artigo 7° -** O Secretário de Gestão e Governo Digital editará normas complementares necessárias ao cumprimento deste decreto.
@@ -131,7 +132,8 @@ IX - o [Decreto n° 61.155, de 5 de março de 2015](https://www.al.sp.gov.br/nor
 
 X - do [Decreto n° 69.506, de 30 de abril de 2025](https://www.al.sp.gov.br/norma/210898), a alínea "a" do inciso V do artigo 2°.
 
-#### Seção IV<br>
+#### Seção IV
+
 Disposição Transitória
 
 **Artigo único -** A implantação do Sistema de Gestão de Pessoal - SGP, no âmbito dos órgãos e entidades, observará o cronograma a ser estabelecido pelo Secretário de Gestão e Governo Digital.

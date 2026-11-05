@@ -1,5 +1,3 @@
-###DEC-049826-0-000-05-01-1961@@@
-
 DECRETO Nº 49.826, DE 5 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.088, de 24 de julho de 1958.

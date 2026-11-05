@@ -1,7 +1,3 @@
-1
-
-###DEC-000906-0-000-30-08-1993@@@
-
 DECRETO N° 906, DE 30 DE AGOSTO DE 1993
 
 Altera o Decreto n° 92.512, de 2 de abril de 1986 que estabelece normas, condições de atendimento e indenizações para a assistência médico‑hospitalar ao militar e seus dependentes.

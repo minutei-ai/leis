@@ -1,5 +1,3 @@
-###DEC-073080-0-000-05-11-1973@@@
-
 DECRETO Nº 73.080 - DE 5 DE NOVEMBRO DE 1973
 
 Altera o artigo 47, do Decreto número 41.019, de 26 de fevereiro de 1957, que regulamenta os serviços de energia elétrica.

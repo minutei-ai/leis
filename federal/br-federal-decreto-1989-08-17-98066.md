@@ -1,7 +1,3 @@
-1
-
-###DEC-098066-0-000-17-08-1989@@@
-
 DECRETO N° 98.066, DE 17 DE AGOSTO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA RIBEIRÃO BONITO” OU “JACINTO”, situado no Município de Carlópolis, Estado do Paraná, e dá outras providências.

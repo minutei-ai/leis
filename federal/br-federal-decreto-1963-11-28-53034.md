@@ -1,5 +1,3 @@
-###DEC-053034-0-000-28-11-1963@@@
-
 decreto nº 53.034, de 28 de novembro de 1963.
 
 Autoriza o cidadão brasileiro João de Mello Franco a pesquisar quartzo e bauxita, no município de Ouro Prêto, Estado de Minas Gerais.

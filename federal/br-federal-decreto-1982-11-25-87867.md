@@ -1,5 +1,3 @@
-###DEC-087867-0-000-25-11-1982@@@
-
 Decreto nº 87.867, de 25 de novembro de 1982.
 
 Altera o Decreto nº 85.487, de 11 de dezembro de 1980, que dispõe sobre a carreira do magistério superior nas instituições federais autárquicas, e dá outras previdências.

@@ -1,5 +1,3 @@
-###DEC-089762-0-000-06-06-1984@@@
-
 Decreto nº 89.762, de 06 de junho de 1984
 
 Altera a estrutura organizacional da Fundação IBGE

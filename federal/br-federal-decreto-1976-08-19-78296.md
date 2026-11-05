@@ -1,5 +1,3 @@
-###DEC-078296-0-000-19-08-1976@@@
-
 DECRETO Nº 78.296, DE 19 DE AGOSTO DE 1976.
 
 Concede reconhecimento aos cursos de Psicologia, de Bacharelado e de Formação de Psicólogo da Universidade Federal Fluminense com sede na cidade de Niterói, Estado do Rio de Janeiro.

@@ -8,7 +8,8 @@ Art. 1º São desafetados do uso comum do povo, transformadas em áreas patrimon
 
 Art. 2º Fica o Executivo Municipal autorizado a doar os imóveis caracterizados no artigo antecedente, aos órgãos a seguir qualificados, da seguinte forma:
 
-~~I. A APM-3, da quadra 30, com 4.640,38 metros quadrados, localizada no loteamento citado, será doada para a JUSTIÇA FEDERAL, CNPJ n.º 05.439.950/0001-30, com sede à Rua 19, n.º 244, Centro, Goiânia-GO, para construção da sede da Subseção Judiciária de Aparecida de Goiânia (Fórum da Justiça Federal).~~<br>
+~~I. A APM-3, da quadra 30, com 4.640,38 metros quadrados, localizada no loteamento citado, será doada para a JUSTIÇA FEDERAL, CNPJ n.º 05.439.950/0001-30, com sede à Rua 19, n.º 244, Centro, Goiânia-GO, para construção da sede da Subseção Judiciária de Aparecida de Goiânia (Fórum da Justiça Federal).~~
+
 (Revogado pela Lei Ordinária nº 3.566, de 3 de julho de 2020).
 
 II. A APM-3A, da quadra 30, com 700,00 metros quadrados, do loteamento citado, será doada para o CONSELHO REGIONAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA DO ESTADO DE GOIÁS - CREA, CNPJ n.º 01.619.022/0001-05, com sede à Rua 239, nº 585, Setor Universitário, Goiânia-GO, para construção da Inspetoria do Conselho.
@@ -21,8 +22,10 @@ Gabinete do Prefeito de Aparecida de Goiânia, aos 15 de dezembro de 2010.
 
  
 
-Luiz Alberto Maguito Vilela<br>
+Luiz Alberto Maguito Vilela
+
 Prefeito Municipal
 
-Eli de Faria<br>
+Eli de Faria
+
 Secretário Executivo

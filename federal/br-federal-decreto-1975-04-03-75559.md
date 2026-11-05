@@ -1,5 +1,3 @@
-###DEC-075559-0-000-03-04-1975@@@
-
 DECRETO Nº 75.559, DE 3 DE ABRIL DE 1975.
 
 Altera o Decreto nº 51.670, de 17 de janeiro de 1963, que aprovou em caráter definitivo o enquadramento do pessoal da Superintendência Nacional da Marinha, Mercante e dá outras providências.

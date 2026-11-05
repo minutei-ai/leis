@@ -1,5 +1,3 @@
-###DEC-082595-0-000-07-11-1978@@@
-
 Decreto nº 82.595, de 07 de novembro de 1978.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Administrativas Machado Sobrinho, com sede na cidade de Juiz de Fora, Estado de Minas Gerais.

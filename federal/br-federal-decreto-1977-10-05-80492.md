@@ -1,5 +1,3 @@
-###DEC-080492-0-000-05-10-1977@@@
-
 decreto nº 80.492, de 5 de outubro de 1977.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Piquet Carneiro, Estado do Ceará, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 60.465, de 14 de março de 1967, retificado pelo Decreto nº 61.106, de 28 de julho de 1967, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19 de janeiro de 1971, e 75.147, de 27 de dezembro de 1974.

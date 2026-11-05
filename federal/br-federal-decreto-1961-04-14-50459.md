@@ -1,5 +1,3 @@
-###DEC-050459-0-000-14-04-1961@@@
-
 DECRETO Nº 50.459, DE 14 DE ABRIL DE 1961.
 
 Concede à sociedade Silva Franco & Cia. Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem, sob a nova denominação de Silva Franco - Comércio e Navegação Ltda.

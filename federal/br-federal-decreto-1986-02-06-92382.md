@@ -1,5 +1,3 @@
-###DEC-092382-0-000-06-02-1986@@@
-
 DECRETO Nº 92.382, DE 06 DE FEVEREIRO DE 1986
 
 Outorga a Centrais Elétricas de Goiás S.A. - CELG concessão para o aproveitamento da energia hidráulica de um trecho do rio Ponte Alta onde se acha instalada a usina hidrelétrica Ponte Alta do Bom Jesus, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEL-001170-0-000-10-05-1971@@@
-
 # DECRETO-LEI Nº 1.170, DE 10 De MAIO DE 1971
 
 Declara de interêsse da Segurança Nacional, nos têrmos do artigo 15, § 1º alínea “b”, da Constituição, o Município de Santa Helena Estado do Paraná e dá outras providências.

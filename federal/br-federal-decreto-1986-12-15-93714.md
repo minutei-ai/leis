@@ -1,5 +1,3 @@
-###DEC-093714-0-000-15-12-1986@@@
-
 DECRETO Nº 93.714, DE 15 DE DEZEMBRO DE 1986
 
 Dispõe sobre a defesa de direitos do cidadão contra abusos, erros e omissões na Administração Federal.
@@ -67,8 +65,6 @@ Rubens Bayma Denys
 Marco Maciel
 
 Aluizio Alves
-
-###DEC-093714-0-000-15-12-1986@@@RET01+++
 
 Decreto nº 93.714, de 15 de dezembro de 1986
 

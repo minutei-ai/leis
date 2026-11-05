@@ -1,5 +1,3 @@
-###DEC-071161-0-000-27-09-1972@@@
-
 DECRETO Nº 71.161, DE 27 DE SETEMBRO DE 1972.
 
 Autoriza, em caráter excepcional, utilização de recursos do Fundo de Desenvolvimento da Industria Salineira, criado pelo Decreto nº 55.842, de 16 de março de 1965, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069322-0-000-06-10-1971@@@
-
 decreto nº 69.322, de 6 de outubro de 1971.
 
 Autoriza a universidade Federal da Bahia alienar imóvel de sua propriedade.

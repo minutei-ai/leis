@@ -1,5 +1,3 @@
-###DEC-002667-0-000-10-07-1998@@@
-
 DECRETO Nº 2.667, DE 10 DE JULHO DE 1998
 
 Dispõe sobre a execução do Décimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre Brasil, Argentina, Paraguai e Uruguai, de 17 de dezembro de 1997

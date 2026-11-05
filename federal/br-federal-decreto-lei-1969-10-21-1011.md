@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/fe5193c9-5c43-468d-8be3-28c227aa879a/texto#nowhere)
 
-###DEL-001011-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.011, DE 21 DE OUTUBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério do Planejamento e Coordenação Geral, em fator da Secretaria Geral (Recursos sob Contrôle do Órgão Central de Orçamento), o crédito especial de NCr$12.900.000,00 (doze milhões e novecentos mil cruzeiros novos) para o fim que especifica.

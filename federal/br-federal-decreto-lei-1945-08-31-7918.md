@@ -1,5 +1,3 @@
-###DEL-007918-0-000-31-08-1945@@@
-
 DECRETO-LEI N. 7.918 – DE 31 DE AGÔSTO DE 1945
 
 Dispõe sôbre a organização da Faculdade Nacional de Arquitetura da Universidade do Brasil.

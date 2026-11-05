@@ -1,5 +1,3 @@
-###DEC-066977-0-000-28-07-1970@@@
-
 DECRETO Nº 66.977, DE 28 DE JULHO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Conselho Nacional de Telecomunicações - (CONTEL), cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional - e Companhia Nacional de Navegação Costeira.

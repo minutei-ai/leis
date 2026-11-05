@@ -1,5 +1,3 @@
-###DEC-058085-0-000-28-03-1966@@@
-
 DECRETO Nº 58.085, DE 28 DE MARÇO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Italbrás, Companhia de Seguros Gerais, relativa ao aumento do capital social.

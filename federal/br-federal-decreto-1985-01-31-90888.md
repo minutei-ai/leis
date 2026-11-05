@@ -1,5 +1,3 @@
-###DEC-090888-0-000-31-01-1985@@@
-
 # DECRETO Nº 90.888 DE 31 DE JANEIRO DE 1985
 
 Outorga concessão à TV STÚDIOS DE BRASÍLIA S/C LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Brasília, Distrito Federal.

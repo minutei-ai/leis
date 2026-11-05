@@ -1,5 +1,3 @@
-###DEC-092406-0-000-20-02-1986@@@
-
 DECRETO Nº 92.406, DE 20 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Ciências Aplicadas de São José dos Campos.

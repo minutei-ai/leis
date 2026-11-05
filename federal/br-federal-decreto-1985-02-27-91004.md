@@ -1,5 +1,3 @@
-###DEC-091004-0-000-27-02-1985@@@
-
 Decreto nº 91.004, de 27 de fevereiro de 1985
 
 Dispõe sobre o registro profissional de professores, de especialistas de educação e dá outras providências.

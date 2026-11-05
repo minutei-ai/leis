@@ -1,19 +1,17 @@
-###DEC-042735-0-000-03-12-1957@@@
+**DECRETO N° 42.735, DE 3 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO N° 42.735, DE 3 DE DEZEMBRO DE 1957.</strong>
+***Torna insubsistente o Decreto número 42.698, de 27 de novembro de 1957.***
 
-<em><strong>Torna insubsistente o Decreto número 42.698, de 27 de novembro de 1957.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o art. 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o art. 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica insubsistente o Decreto nº 42.698 de 27 de novembro de 1957, alterando o Regulamento Provisório de Promoções dos Oficiais da Aeronáutica da Ativa.
 
-<strong>Art</strong>. 1º Fica insubsistente o Decreto nº 42.698 de 27 de novembro de 1957, alterando o Regulamento Provisório de Promoções dos Oficiais da Aeronáutica da Ativa.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro ,em 3 de dezembro de 1957; 136º da independência e 69ºda República
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Melo

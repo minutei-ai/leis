@@ -1,5 +1,3 @@
-###DEC-003155-0-000-27-08-1999@@@
-
 DECRETO Nº 3.155, DE 27 DE AGOSTO DE 1999.
 
 Dá nova redação aos art. 2º e 5º do Decreto de 11 de março de 1998, que cria o Conselho Empresarial ‘’Brasil 500 Anos’’, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073022-0-000-30-10-1973@@@
-
 DECRETO Nº 73.022, DE 30 DE OUTUBRO DE 1973.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Itaqui, no Estado do Rio Grande do Sul.

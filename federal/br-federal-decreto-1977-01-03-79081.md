@@ -1,5 +1,3 @@
-###DEC-079081-0-000-03-01-1977@@@
-
 DECRETO Nº 79.081, DE 3 DE JANEIRO DE 1977.
 
 Fixa o valor da bolsa especial de aluno Monitor, instituída pelo Decreto nº 66.315, de 13 de março de 1970.

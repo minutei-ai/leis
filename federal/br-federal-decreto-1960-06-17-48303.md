@@ -1,5 +1,3 @@
-###DEC-048303-0-000-17-06-1960@@@
-
 DECRETO Nº 48.303, DE 17 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Paulo Trindade a pesquisar ouro, nos municípios de Conselho Lafaiete e Piranga, Estado de Minas Gerais.

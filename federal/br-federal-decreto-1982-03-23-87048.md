@@ -1,5 +1,3 @@
-###DEC-087048-0-000-23-03-1982@@@
-
 Decreto Nº 87.048, de 23 de março de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do sul do Brasil S.A. - ELETROSUL, nos Estados de Santa Catarina e Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-051643-0-000-26-12-1962@@@
-
 DECRETO Nº 51.643, DE 26 DE DEZEMBRO DE 1962.
 
 Transforma em Divisão as Seções que abaixo especifica, no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas, e dá outras providências.

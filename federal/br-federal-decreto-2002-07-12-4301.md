@@ -1,5 +1,3 @@
-###DEC-004301-0-000-12-07-2002@@@
-
 DECRETO Nº 4.301, DE 12 DE JULHO DE 2002
 
 Cria a 15ª Superintendência Regional do Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN, e dá outras providências.
@@ -28,7 +26,37 @@ ANEXO I
 
 REMANEJAMENTO DE CARGOS
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CÓDIGO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS - UNITÁRIO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DA SEGES/MP P/ O IPHAN</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>QTDE.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALOR TOTAL</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,24</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,24</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,11</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2,22</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,46</span></p></td><td style="border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.38pt 0.38pt 0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:0pt"><td style="width:53.65pt"></td><td style="width:81.75pt"></td><td style="width:129.55pt"></td><td style="width:74.2pt"></td></tr></tbody></table>
+CÓDIGO
+
+DAS - UNITÁRIO
+
+DA SEGES/MP P/ O IPHAN
+
+QTDE.
+
+VALOR TOTAL
+
+DAS 101.3
+
+1,24
+
+1
+
+1,24
+
+DAS 101.2
+
+1,11
+
+2
+
+2,22
+
+TOTAL
+
+3
+
+3,46
 
 ANEXO II
 
@@ -38,10 +66,320 @@ a)
 
 QUADRO DEMONSTRATIVO DE CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL - IPHAN
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>UNIDADE</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARGOS/ FUNÇÕES/ Nº</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DENOMINAÇÃO CARGO/FUNÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS/ FG</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Presidente</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.6</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Assistente</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102.2</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GABINETE</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.4</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102.1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROCURADORIA JURÍDICA</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Procurador Jurídico</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.4</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102.1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEPARTAMENTO DE PLANEJAMENTO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>E ADMINISTRAÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Diretor</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.4</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102.1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenação</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenador</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.3</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Divisão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.2</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Serviço</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEPARTAMENTO DE IDENTIFICAÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>E DOCUMENTAÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Diretor</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.4</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102.1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenação</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenador</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.3</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Divisão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.2</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEPARTAMENTO DE PROTEÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Diretor</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.4</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102.1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenação</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenador</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.3</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Divisão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.2</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DEPARTAMENTO DE PROMOÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Diretor</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.4</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenação</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenador</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.3</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Divisão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.2</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUPERINTENDÊNCIAS REGIONAIS</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Superintendente</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.3</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Divisão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.2</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Sub-regional</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>19</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Diretor</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>UNIDADE</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARGOS/ FUNÇÕES/ Nº</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DENOMINAÇÃO CARGO/FUNÇÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS/ FG</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>UNIDADES ESPECIAIS</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Museu, Arquivo e Centro Cultural</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>12</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Diretor</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.3</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Divisão</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.2</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Serviço</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>24</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>45</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FG-1</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>56</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FG-2</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>75</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FG-3</span></p></td></tr></tbody></table>
+UNIDADE
+
+CARGOS/ FUNÇÕES/ Nº
+
+DENOMINAÇÃO CARGO/FUNÇÃO
+
+DAS/ FG
+
+1
+
+Presidente
+
+101.6
+
+1
+
+Assistente
+
+102.2
+
+GABINETE
+
+1
+
+Chefe
+
+101.4
+
+1
+
+Auxiliar
+
+102.1
+
+PROCURADORIA JURÍDICA
+
+1
+
+Procurador Jurídico
+
+101.4
+
+1
+
+Auxiliar
+
+102.1
+
+DEPARTAMENTO DE PLANEJAMENTO
+
+E ADMINISTRAÇÃO
+
+1
+
+Diretor
+
+101.4
+
+1
+
+Auxiliar
+
+102.1
+
+Coordenação
+
+3
+
+Coordenador
+
+101.3
+
+Divisão
+
+8
+
+Chefe
+
+101.2
+
+Serviço
+
+2
+
+Chefe
+
+101.1
+
+DEPARTAMENTO DE IDENTIFICAÇÃO
+
+E DOCUMENTAÇÃO
+
+1
+
+Diretor
+
+101.4
+
+1
+
+Auxiliar
+
+102.1
+
+Coordenação
+
+2
+
+Coordenador
+
+101.3
+
+Divisão
+
+1
+
+Chefe
+
+101.2
+
+DEPARTAMENTO DE PROTEÇÃO
+
+1
+
+Diretor
+
+101.4
+
+1
+
+Auxiliar
+
+102.1
+
+Coordenação
+
+2
+
+Coordenador
+
+101.3
+
+Divisão
+
+5
+
+Chefe
+
+101.2
+
+DEPARTAMENTO DE PROMOÇÃO
+
+1
+
+Diretor
+
+101.4
+
+Coordenação
+
+3
+
+Coordenador
+
+101.3
+
+Divisão
+
+1
+
+Chefe
+
+101.2
+
+SUPERINTENDÊNCIAS REGIONAIS
+
+15
+
+Superintendente
+
+101.3
+
+Divisão
+
+30
+
+Chefe
+
+101.2
+
+Sub-regional
+
+19
+
+Diretor
+
+101.1
+
+UNIDADE
+
+CARGOS/ FUNÇÕES/ Nº
+
+DENOMINAÇÃO CARGO/FUNÇÃO
+
+DAS/ FG
+
+UNIDADES ESPECIAIS
+
+Museu, Arquivo e Centro Cultural
+
+12
+
+Diretor
+
+101.3
+
+Divisão
+
+1
+
+Chefe
+
+101.2
+
+Serviço
+
+24
+
+Chefe
+
+101.1
+
+45
+
+FG-1
+
+56
+
+FG-2
+
+75
+
+FG-3
 
 b)
 
 QUADRO RESUM\`O DE CUSTOS DE CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL - IPHAN
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CÓDIGO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS- UNITÁRIO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SITUAÇÃO ATUAL</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SITUAÇÃO NOVA</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>QTDE.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALOR TOTAL</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>QTDE.</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALOR TOTAL</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.6 DAS 101.4 DAS 101.3 DAS 101.2 DAS 101.1 DAS 102.2 DAS 102.1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6,52 3,08 1,24 1,11 1,00 1,11 1,00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1 6 36 44 45 1 5</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6,52 18,48 44,64 48,84 45,00 1,11 5,00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1 6 37 46 45 1 5</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6,52 18,48 45,88 51,06 45,00 1,11 5,00</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUBTOTAL (1)</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>138</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>169,59</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>141</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>173,05</span></p></td><td style="border-right-style:solid; border-right-width:0.75pt; padding:0.75pt 0.38pt 0.75pt 0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FG - 1 FG - 2 FG - 3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,31 0,24 0,19</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>45 56 75</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>13,95 13,44 14,25</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>45 56 75</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>13,95 13,44 14,25</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUBTOTAL (2)</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>176</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>41,64</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>176</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>41,64</span></p></td><td style="border-right-style:solid; border-right-width:0.75pt; padding:0.75pt 0.38pt 0.75pt 0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL (1+2)</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>314</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>211,23</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>317</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>214,69</span></p></td><td style="border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.38pt 0.38pt 0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:0pt"><td style="width:135.5pt"></td><td style="width:79.25pt"></td><td style="width:64.6pt"></td><td style="width:87.4pt"></td><td style="width:45.8pt"></td><td style="width:75.4pt"></td></tr></tbody></table>
+CÓDIGO
+
+DAS- UNITÁRIO
+
+SITUAÇÃO ATUAL
+
+SITUAÇÃO NOVA
+
+QTDE.
+
+VALOR TOTAL
+
+QTDE.
+
+VALOR TOTAL
+
+DAS 101.6 DAS 101.4 DAS 101.3 DAS 101.2 DAS 101.1 DAS 102.2 DAS 102.1
+
+6,52 3,08 1,24 1,11 1,00 1,11 1,00
+
+1 6 36 44 45 1 5
+
+6,52 18,48 44,64 48,84 45,00 1,11 5,00
+
+1 6 37 46 45 1 5
+
+6,52 18,48 45,88 51,06 45,00 1,11 5,00
+
+SUBTOTAL (1)
+
+138
+
+169,59
+
+141
+
+173,05
+
+FG - 1 FG - 2 FG - 3
+
+0,31 0,24 0,19
+
+45 56 75
+
+13,95 13,44 14,25
+
+45 56 75
+
+13,95 13,44 14,25
+
+SUBTOTAL (2)
+
+176
+
+41,64
+
+176
+
+41,64
+
+TOTAL (1+2)
+
+314
+
+211,23
+
+317
+
+214,69

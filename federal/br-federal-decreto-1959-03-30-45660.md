@@ -1,5 +1,3 @@
-###DEC-045660-0-000-30-03-1959@@@
-
 DECRETO Nº 45.660, DE 30 DE MARÇO DE 1959.
 
 Dispõe sôbre o funcionamento do Escritório Técnico de Coordenação dos Projetos e Ajustes Administrativos do Ponto IV.

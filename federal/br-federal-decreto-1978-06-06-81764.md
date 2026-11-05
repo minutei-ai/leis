@@ -1,5 +1,3 @@
-###DEC-081764-0-000-06-06-1978@@@
-
 Decreto nº 81.764, de 6 de junho de 1978.
 
 Autoriza a conversão do curso de Matemática, em curso de Ciências da Faculdade de Filosofia, Ciências e Letras Anderson, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

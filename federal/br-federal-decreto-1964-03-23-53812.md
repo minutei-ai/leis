@@ -1,5 +1,3 @@
-###DEC-053812-0-000-23-03-1964@@@
-
 Decreto nº 53.812, de 23 de março de 1964.
 
 Autoriza o cidadão brasileiro Romeu Bamberg a pesquisar pedras coradas no município de Carlos Chagas, Estado de Minas Gerais.

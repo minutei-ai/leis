@@ -1,5 +1,3 @@
-###DEC-072159-0-000-30-04-1973@@@
-
 DECRETO Nº 72.159, DE 30 DE ABRIL DE 1973.
 
 Torna sem efeito aproveitamento de disponível no Ministério da Marinha e dá outras providências.

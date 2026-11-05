@@ -1,6 +1,10 @@
 > **LEI Nº 4.767, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Inclui as atividades de Rodeio e as Atividades Equestres no Calendário Oficial de Eventos do Estado e estabelece diretrizes para sua promoção e fiscalização.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Inclui as atividades de Rodeio e as Atividades Equestres no Calendário Oficial de Eventos do Estado e estabelece diretrizes para sua promoção e fiscalização.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

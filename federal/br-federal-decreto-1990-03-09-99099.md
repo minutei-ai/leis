@@ -1,7 +1,3 @@
-1
-
-###DEC-099099-0-000-09-03-1990@@@
-
 # DECRETO Nº 99.099, DE 9 DE MARÇO DE 1990
 
 Homologa a demarcação administrati­va da Área Indígena Cuiari, no Estado do Amazonas.

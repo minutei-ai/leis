@@ -1,5 +1,3 @@
-###DEL-002023-0-000-18-05-1983@@@
-
 # Decreto-lei nº 2.023, de 18 de maio de 1983
 
 Autoriza a conversão dos créditos que especifica em ações de sociedades de economia mista ou empresas públicas.

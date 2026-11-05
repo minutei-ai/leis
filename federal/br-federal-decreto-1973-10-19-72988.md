@@ -1,5 +1,3 @@
-###DEC-072988-0-000-19-10-1973@@@
-
 DECRETO Nº 72.988, DE 19 DE OUTUBRO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-067336-0-000-05-10-1970@@@
-
 DECRETO Nº 67.336, DE 5 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 53.186, de 11 de dezembro de 1963.

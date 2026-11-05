@@ -1,5 +1,3 @@
-###DEC-003042-0-000-04-05-1999@@@
-
 DECRETO Nº 3.042, DE 4 DE MAIO DE 1999.
 
 Dispõe sobre a suspensão, até 31 de dezembro de 1999, de cessão de servidores da Administração Federal direta, das autarquias e das fundações públicas do Poder Executivo da União, para outras esferas de Governo e outros Poderes.

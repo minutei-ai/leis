@@ -1,5 +1,3 @@
-###DEL-005045-0-000-05-12-1942@@@
-
 DECRETO-LEI N. 5.045 – DE 05 DE DEZEMBRO DE 1942
 
 Fixa a organização da Direção Nacional da Juventude Brasileira e dá outras providências

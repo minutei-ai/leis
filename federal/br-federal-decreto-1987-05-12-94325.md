@@ -1,7 +1,3 @@
-1
-
-###DEC-094325-0-000-12-05-1987@@@
-
 # DECRETO Nº 94.325, DE 12 DE MAIO DE 1987
 
 Aprova alterações introduzidas no Estatuto da Petróleo Brasileiro S.A. - Petrobrás.

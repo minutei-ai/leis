@@ -1,6 +1,10 @@
 > **LEI Nº 3.739, DE 11 DE JUNHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a conceder, em condições especiais, o parcelamento de débitos tributários de empresas em processo de recuperação judicial.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a conceder, em condições especiais, o parcelamento de débitos tributários de empresas em processo de recuperação judicial.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

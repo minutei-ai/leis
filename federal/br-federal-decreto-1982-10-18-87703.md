@@ -1,5 +1,3 @@
-###DEC-087703-0-000-18-10-1982@@@
-
 Decreto nº 87.703, de 18 de outubro de 1982
 
 Autoriza a ULTRAFÉRTIL S.A. Indústria e Comércio de Fertilizantes a proceder ao aumento do limite de seu Capital Social.

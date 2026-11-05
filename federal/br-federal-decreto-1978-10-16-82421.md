@@ -1,5 +1,3 @@
-###DEC-082421-0-000-16-10-1978@@@
-
 Decreto n º 82.421, de 16 de outubro de 1978
 
 Concede à Mineração Urandi S.A o direito de lavrar minério de manganês no Município de Santana do Pirapama, Estado de Minas Gerais.

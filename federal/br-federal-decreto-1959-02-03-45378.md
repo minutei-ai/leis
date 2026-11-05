@@ -1,5 +1,3 @@
-###DEC-045378-0-000-03-02-1959@@@
-
 DECRETO Nº 45.378, DE 3 DE FEVEREIRO DE 1959.
 
 Autoriza estrangeira a adquirir fração ideal do domínio útil do terreno de marinha que menciona, situado no Distrito Federal.

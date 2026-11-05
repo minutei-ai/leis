@@ -1,24 +1,22 @@
-###DEC-027000-0-000-02-08-1949@@@
+**DECRETO Nº 27.000, DE 2 DE AGÔSTO DE 1949.**
 
-<strong>DECRETO Nº 27.000, DE 2 DE AGÔSTO DE 1949.</strong>
+***Outorga concessão à Rádio Relógio Federal, Limitada, para estabelecer nesta Capital uma estação Rádiodifusora em ondas tropical e média.***
 
-<em><strong>Outorga concessão à Rádio Relógio Federal, Limitada, para estabelecer nesta Capital uma estação Rádiodifusora em ondas tropical e média.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Relógio Federal, Limitada, e tendo em vista o disposto na Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Relógio Federal, Limitada, e tendo em vista o disposto na Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão à Rádio Relógio Federal, Limitada, nos têrmos do artigo 11, do Decreto nº 24.655, de 11 de julho de 1934, para estabelecer nesta Capital sem direito de exclusividade uma estação Rádiodifusora constituída de dois transmissores de onda tropical e média para funcionamento simultâneo, destinada a executar serviços de radiodifusão, de acôrdo com as cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro de 60 dias a contar da data da publicação dêste Decreto no <em>Diário Oficial</em>, sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro de 60 dias a contar da data da publicação dêste Decreto no *Diário Oficial*, sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 21 de julho de 1949; 128º da Independência e 61º, da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clóvis Pestana.
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 27.000, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 27.000, DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá, pelo órgão fiscalizado, impor à concessionária multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*.
 
 VII
 
@@ -86,9 +84,9 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização.
 
-a) se, em tôdo tempo fôr verificada inobservância das disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d,</em> <em>e,</em> (<em>in fine</em>), <em>j</em>, <em>k</em>, <em>l</em>, da cláusula III.
+a) se, em tôdo tempo fôr verificada inobservância das disposições contidas nas alíneas *a*, *b*, *c*, *d,e,* (*in fine*), *j*, *k*, *l*, da cláusula III.
 
-b) se não forem pagas dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea <em>e</em> da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
+b) se não forem pagas dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea *e* da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
 c) se, em qualquer tempo, se verificar o emprêgo da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 2 de agôsto de 1949.
 
-<strong>CLÓVIS PESTANA</strong>
+**CLÓVIS PESTANA**

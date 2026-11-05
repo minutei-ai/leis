@@ -1,5 +1,3 @@
-###DEC-049281-0-000-17-11-1960@@@
-
 DECRETO Nº 49.281, DE 17 DE NOVEMBRO DE 1960.
 
 Outorga concessão à Rádio Cultura de Campos Limitada, para estabelecer uma estação radiodifusora de ondas médias.

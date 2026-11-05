@@ -1,5 +1,3 @@
-###DEL-008898-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.898 – DE 24 DE JANEIRO DE 1946
 
 Concede aforamento ao Automóvel Clube do Brasil, sociedade civil, com sede na cidade do Rio de Janeiro, dos lotes 1 e 2, Quadra 12, B, na Avenida Perimetral, Esplanada do Castelo.

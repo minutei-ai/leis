@@ -1,5 +1,3 @@
-###DEL-008097-0-000-16-10-1945@@@
-
 DECRETO-LEI N. 8.097 – DE 16 DE OUTUBRO DE 1945
 
 Fixa normas para a movimentação dos oficiais subalternos do Exército e dá outras providências.

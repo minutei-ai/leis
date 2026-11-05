@@ -1,7 +1,3 @@
-1
-
-###DEC-095860-0-000-22-03-1988@@@
-
 DECRETO N° 95.860, DE 22 DE MARÇO DE 1988
 
 Altera alíquota do Imposto sobre Produtos Industrializados (IPI).

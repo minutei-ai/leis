@@ -1,5 +1,3 @@
-###DEC-050602-0-000-16-05-1961@@@
-
 Decreto nº 50.602, de 16 de maio de 1961.
 
 Altera dispositivos do Decreto número 43.285, de 25 de fevereiro de 1958 e dá outras providências.

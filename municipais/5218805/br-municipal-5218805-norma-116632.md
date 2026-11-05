@@ -1,10 +1,7 @@
-<br>
 **LEI Nº 7.020, DE 03 DE DEZEMBRO DE 2019**
 
-<br>
 Altera Lei 5.907/2011 que define as obrigações de pequeno valor.
 
-<br>
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
 
 Art. 1º Fica alterado o art. 2o da Lei 5.907, de 22 de março de 2011, que definiu as obrigações de pequeno valor, oriundas de sentenças judiciais para pagamento pela Fazenda Pública, passando a viger com a seguinte redação:

@@ -1,5 +1,3 @@
-###DEC-056534-0-000-05-07-1965@@@
-
 Decreto nº 56.534, de 5 de julho de 1965.
 
 Regulamenta a Lei nº 4.617, de 15 de abril de 1965, que cria o Fundo do Exército.

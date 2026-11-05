@@ -1,5 +1,3 @@
-###DEC-089454-0-000-20-03-1984@@@
-
 Decreto nº 89.454, de 20 de março de 1984
 
 Autoriza o funcionamento dos cursos de Fisioterapia e de Terapia Ocupacional do Centro Educacional de Realengo, Estado do Rio de Janeiro.

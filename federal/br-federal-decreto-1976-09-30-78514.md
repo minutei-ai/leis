@@ -1,5 +1,3 @@
-###DEC-078514-0-000-30-09-1976@@@
-
 DECRET0 Nº 78.514, DE 30 DE SETEMBRO 1976.
 
 Concede reconhecimento aos cursos de Pedagogia e de Letras, das Faculdades da Zona Leste de São Paulo, com sede na Cidade de São Paulo, Estado de São Paulo.

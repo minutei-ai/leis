@@ -1,5 +1,3 @@
-###DEC-078676-0-000-08-11-1976@@@
-
 DECRETO Nº 78.676, DE 8 DE NOVEMBRO DE 1976.
 
 Regulamenta a Lei número 6.321, de 14 de abril de 1976, que dispõe sobre a dedução, do lucro tributável para fins do imposto de renda das pessoas jurídicas do dobro das despesas realizadas em programas de alimentação do trabalhador e dá outras providências.

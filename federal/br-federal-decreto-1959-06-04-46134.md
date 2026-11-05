@@ -1,5 +1,3 @@
-###DEC-046134-0-000-04-06-1959@@@
-
 DECRETO Nº 46.134, DE 4 DE JUNHO DE 1959.
 
 Concede reconhecimento aos cursos de letras neolatinas e pedagogia da Faculdade “Auxilium” de Filosofia, Ciências e Letras.

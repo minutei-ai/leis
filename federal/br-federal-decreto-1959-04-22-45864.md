@@ -1,5 +1,3 @@
-###DEC-045864-0-000-22-04-1959@@@
-
 DECRETO Nº 45.864, DE 22 DE ABRIL DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

@@ -1,5 +1,3 @@
-###DEC-048313-0-000-20-06-1960@@@
-
 Decreto nº 48.313, de 20 de junho de 1960.
 
 Autoriza o cidadão brasileiro Nilo Riffald, a pesquisar granada e areias ilmeniticas, nos municípios de Casimiro de Abreu e Cabo Frio, no Estado do Rio de Janeiro.

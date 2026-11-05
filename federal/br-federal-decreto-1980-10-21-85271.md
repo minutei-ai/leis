@@ -1,5 +1,3 @@
-###DEC-085271-0-000-21-10-1980@@@
-
 Decreto nº 85.271, de 21 de outubro de 1980
 
 Autoriza o aumento da potência da RÁDIO JORNAL DE ASSIS CHATEAUBRIAND LTDA., na cidade de Assis Chateaubriand, Estado do Paraná.

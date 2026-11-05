@@ -1,5 +1,3 @@
-###DEC-052438-0-000-03-09-1963@@@
-
 DECRETO Nº 52.438, DE 3 DE SETEMBRO DE 1963.
 
 Aprova a transformação da “Nova América”, Sociedade Mútua de Seguros Gerais em sociedade anônima, com a denominação de “Nova América”, Companhia de Seguros Gerais.

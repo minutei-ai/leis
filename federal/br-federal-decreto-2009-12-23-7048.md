@@ -1,5 +1,3 @@
-###DEC-007048-0-000-23-12-2009@@@
-
 DECRETO Nº 7.048 DE 23 DE DEZEMBRO DE 2009.
 
 Dá nova redação ao art. 115 do Decreto no 6.323, de 27 de dezembro de 2007, que regulamenta a Lei no 10.831, de 23 de dezembro de 2003, que dispõe sobre a agricultura orgânica.

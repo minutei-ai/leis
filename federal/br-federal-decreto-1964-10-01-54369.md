@@ -1,5 +1,3 @@
-###DEC-054369-0-000-01-10-1964@@@
-
 DECRETO Nº 54.369, DE 1º DE OUTUBRO DE 1964.
 
 Dá nova redação ao Nº 1, do parágrafo 4º, do artigo 473, do Regulamento Interno e dos Serviços Gerais - RISG - (Decreto número 42.018-57).

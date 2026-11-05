@@ -1,5 +1,3 @@
-###DEC-047782-0-000-10-02-1960@@@
-
 DECRETO Nº 47.782 DE 10 DE FEVEREIRO DE 1960.
 
 Retifica o art. 1º do Decreto número 47.132, de 27 de outubro de 1959.

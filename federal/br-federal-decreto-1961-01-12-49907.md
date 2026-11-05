@@ -1,5 +1,3 @@
-###DEC-049907-0-000-12-01-1961@@@
-
 DECRETO Nº 49.907, DE 12 DE Janeiro DE 1961.
 
 Altera dispositivo do regulamento da Lei número 1.411, de 13 de agôsto de 1951.

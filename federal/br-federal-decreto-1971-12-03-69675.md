@@ -1,5 +1,3 @@
-###DEC-069675-0-000-03-12-1971@@@
-
 DECRETO Nº 69.675 - DE 3 DE DEZEMBRO de 1971
 
 Redistribui, com os respectivos ocupantes, cargos do Quadro de Pessoal Extinto da Fundação Brasil-Central para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e dá outras providências.

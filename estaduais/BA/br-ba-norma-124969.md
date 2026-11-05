@@ -170,10 +170,12 @@ A prova desta riqueza não se resume à elevada participação, mas, sobretudo, 
 
 Desta maneira, acreditando no processo de diálogo e participação social como o melhor método para a construção de políticas públicas, a exemplo da Conferência e do Conselho Estadual de Juventude, o Governo do Estado da Bahia tem certeza que a proposta que agora se apresenta é a mais verdadeira expressão da vontade plural da juventude baiana.
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DOS OBJETIVOS ESTRATÉGICOS, DIRETRIZES GERAIS E PRIORIDADES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS OBJETIVOS ESTRATÉGICOS
 
 Art. 1º - São objetivos estratégicos do Plano Estadual de Juventude:
@@ -192,7 +194,8 @@ VI - garantir os direitos da juventude, considerando gênero, orientação sexua
 
 VII - apontar diretrizes e metas para que o jovem possa ser o sujeito principal em todas as etapas de elaboração das ações setoriais e intersetoriais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS DIRETRIZES GERAIS DE AÇÃO
 
 Art. 2º - Constituem diretrizes gerais de ação para implementação do Plano Estadual de Juventude:
@@ -211,7 +214,8 @@ VI - inserir esporte e cultura como elementos fundamentais na prevenção à vio
 
 VII - ampliar os investimentos em políticas públicas que fortaleçam a estrutura e as necessidades básicas das famílias.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS PRIORIDADES
 
 Art. 3º - A implementação do Plano Estadual de Juventude observará as seguintes prioridades:
@@ -270,13 +274,16 @@ XXVI - ampliar o número de Centros Tecnológicos nas escolas estaduais de ensin
 
 XXVII -fortalecer as ações de qualificação para elaboração e gestão de projetos e captação de recursos nos territórios de identidade.
 
-TÍTULO II<br>
+TÍTULO II
+
 DAS AÇÕES PROGRAMÁTICAS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA EMANCIPAÇÃO E AUTONOMIA JUVENIL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 INCENTIVO PERMANENTE À EDUCAÇÃO
 
 Art. 4º - A diretriz específica de incentivo permanente à educação possui as seguintes ações programáticas:
@@ -327,7 +334,8 @@ XXII - promover a implementação no currículo do Ensino Médio das diretrizes 
 
 XXIII - estimular a criação de Grêmio Livre, Conselho Escolar paritário e deliberativo, com ampla política de articulação escola-comunidade.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 FORMAÇÃO PARA O TRABALHO E GARANTIA DE EMPREGO E RENDA
 
 Art. 5º - A diretriz específica de formação para o trabalho e garantia de emprego e renda possui as seguintes ações programáticas:
@@ -374,10 +382,12 @@ XX - discutir, em parceria com a Agenda Bahia do Trabalho Decente, a implementa�
 
 XXI - reprimir a prática do turismo sexual, notadamente visando a crianças e adolescentes.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO BEM-ESTAR JUVENIL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 PROMOÇÃO DA SAÚDE INTEGRAL DO JOVEM
 
 Art. 6º - A diretriz específica de promoção da saúde integral do jovem possui as seguintes ações programáticas:
@@ -416,7 +426,8 @@ XVI - apoiar a criação, expansão e fortalecimento de centros permanentes espe
 
 XVII - equipar as unidades de saúde e formar profissionais para atendimento e prevenção dos casos de acidentes e agravos por intoxicação e envenenamento de jovens nas áreas rurais.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 VIDA SEGURA
 
 Art. 7º - A diretriz específica de vida segura do jovem possui as seguintes ações programáticas:
@@ -429,7 +440,8 @@ III - estimular, no âmbito das políticas públicas de segurança, ações de p
 
 IV - fomentar a observância do Estatuto da Criança e do Adolescente.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 INCENTIVO AO DESPORTO, ACESSO AO LAZER E PRESERVAÇÃO DO MEIO AMBIENTE ECOLOGICAMENTE EQUILIBRADO
 
 Art. 8º - A diretriz específica de incentivo ao desporto, acesso ao lazer e preservação do meio ambiente ecologicamente equilibrado possui as seguintes ações programáticas:
@@ -456,10 +468,12 @@ X - fomentar a constituição de organizações não-governamentais que atuem na
 
 XI - estimular a geração de projetos de Agenda 21 Jovem e proporcionar aos jovens educação ambiental, com ênfase no manejo agrícola.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO DESENVOLVIMENTO DA CIDADANIA E ORGANIZAÇÃO JUVENIL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 POLÍTICA E PARTICIPAÇÃO
 
 Art. 9º - A diretriz específica de política e participação possui as seguintes ações programáticas:
@@ -480,7 +494,8 @@ VII - articular as políticas públicas de juventude entre os entes governamenta
 
 VIII - garantir a participação juvenil na elaboração e acompanhamento das políticas públicas em nível estadual, promovendo seminários, fóruns e debates contemplando a diversidade juvenil.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 ENGAJAMENTO E ORGANIZAÇÃO JUVENIL
 
 Art. 10 - A diretriz específica de engajamento e organização juvenil possui as seguintes ações programáticas:
@@ -503,10 +518,12 @@ VIII - apoiar a criação de um sistema estadual de fomento à participação ju
 
 IX - apoiar a criação de fóruns territoriais de juventude que possibilitem comunicação mais eficiente com os municípios, no âmbito estadual.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO APOIO À CRIATIVIDADE JUVENIL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 ESTÍMULO À PRODUÇÃO CULTURAL E ACESSO AOS BENS DA CULTURA
 
 Art. 11 - A diretriz específica de estímulo à produção cultural e acesso aos bens da cultura possui as seguintes ações programáticas:
@@ -521,7 +538,8 @@ IV - trabalhar a arte como grande propulsora da criação social;
 
 V - incentivar projetos culturais que compreendam um programa de formação de plateia e criação de espaços públicos para produção cultural dos jovens, proporcionando a inclusão social de todos os segmentos juvenis nesses projetos.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DESENVOLVIMENTO TECNOLÓGICO E COMUNICAÇÃO
 
 Art. 12 - A diretriz específica de desenvolvimento tecnológico e comunicação possui as seguintes ações programáticas:
@@ -554,10 +572,12 @@ XIII - fomentar a aplicação de tecnologias voltadas ao atendimento das especif
 
 XIV - apoiar as iniciativas de inclusão dos jovens que moram na zona rural e nas comunidades tradicionais, enfocando os instrumentos tecnológicos como ferramentas a favor da produção de conhecimentos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO RECONHECIMENTO DAS DIVERSIDADES
 
-SEÇÃO I<br>
+SEÇÃO I
+
 JOVEM NEGRO E NEGRA
 
 Art. 13 - A diretriz específica de jovem negro e negra possui as seguintes ações programáticas:
@@ -592,7 +612,8 @@ XIV - investir na qualificação de gestores e servidores públicos estaduais pa
 
 XV - ampliar ações de qualificação profissional, desenvolvimento humano, participação política, combate à violência e de reforço à cidadania e identidade dos jovens negros, especialmente nas áreas de grande aglomeração urbana.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 JOVEM INDÍGENA
 
 Art. 14 - A diretriz específica de jovem indígena possui as seguintes ações programáticas:
@@ -625,7 +646,8 @@ XIII - melhorar o atendimento da saúde indígena com a presença das equipes m�
 
 XIV - realizar oficinas e seminários para formação dos jovens em políticas públicas.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 JOVEM RURAL
 
 Art. 15 - A diretriz específica de jovem rural possui as seguintes ações programáticas:
@@ -656,7 +678,8 @@ XII - promover a criação e ampliação de Escolas Familiares Rurais e Casas de
 
 XIII - viabilizar a formação técnica para jovens nas zonas rurais.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 JOVEM DEFICIENTE
 
 Art. 16 - A diretriz específica de jovem deficiente possui as seguintes ações programáticas:
@@ -677,7 +700,8 @@ VII - criar programas de apoio à família dos jovens portadores de deficiência
 
 VIII - criar programas institucionais que garantam maior diálogo e melhor acompanhamento da escola com a família do aluno com deficiência.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 JOVEM LÉSBICA, GAY, BISSEXUAL, TRAVESTI E TRANSEXUAL - LGBT
 
 Art. 17 - A diretriz específica de jovem LGBT possui as seguintes ações programáticas:
@@ -712,7 +736,8 @@ XIV - combater toda forma de exploração sexual contra os adolescentes e jovens
 
 XV - apoiar e divulgar produção de materiais educativos sobre orientação sexual e identidade de gênero para superação da homofobia.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 JOVEM MULHER
 
 Art. 18 - A diretriz específica de jovem mulher possui as seguintes ações programáticas:
@@ -749,7 +774,8 @@ XV - implementar políticas públicas de promoção dos direitos sexuais e direi
 
 XVI - combater todas as práticas de violência contra as jovens mulheres: violência de gênero, moral, sexual, física, racial, patrimonial, doméstica, de orientação sexual e psicológica.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 JOVEM EM CONFLITO COM A LEI OU EM RESTRIÇÃO DE LIBERDADE
 
 Art. 19 - A diretriz específica de jovem em conflito com a lei ou em restrição de liberdade possui as seguintes ações programáticas:
@@ -758,7 +784,8 @@ I - ampliar e fortalecer ações e programas para adolescentes e jovens que este
 
 II - intermediar as relações com a sociedade civil e as políticas setoriais, durante e após cumprimento de medidas sócio-educativas ou penas.
 
-TÍTULO III<br>
+TÍTULO III
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 20 - As representações institucionais e as representações juvenis de toda a Bahia deverão reunir-se para, em conjunto e em regime de conferência, proceder o controle social e a construção de demandas legitimamente apresentadas, a fim de consolidar o Estado Social e Democrático de Direito.

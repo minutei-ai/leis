@@ -1,7 +1,3 @@
-1
-
-###DEC-095703-0-000-05-02-1988@@@
-
 DECRETO Nº 95.703, DE 5 DE FEVEREIRO DE 1988
 
 Autoriza a transferência direta da concessão outorgada a AGIL - RADIODIFUSÃO LTDA. para a TRIDIO-RADIODIFUSÃO LTDA.

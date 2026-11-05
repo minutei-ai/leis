@@ -1,5 +1,3 @@
-###DEC-051973-A-000-26-04-1963@@@
-
 Decreto nº 51.973-A, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Calixto José Soares a pesquisar mica e pedras coradas no município de Galiléia, Estado de Minas Gerais.

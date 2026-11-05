@@ -1,5 +1,3 @@
-###DEC-087102-0-000-19-04-1982@@@
-
 DECRETO Nº 87.102, DE 19 DE ABRIL DE 1982
 
 Concede à Companhia Brasileira do Cobre - CBC autorização para proceder a aumento do seu capital autorizado.

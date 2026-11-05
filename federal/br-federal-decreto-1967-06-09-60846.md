@@ -1,5 +1,3 @@
-###DEC-060846-0-000-09-06-1967@@@
-
 Decreto nº 60.846, de 9 de junho de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

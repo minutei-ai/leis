@@ -1,5 +1,3 @@
-###DEC-096231-0-000-27-06-1988@@@
-
 DECRETO N° 96.231, DE 27 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SÃO JOSÉ DO QUEB”Ó - PARTE, também conhecido como “GLEBA COQUEIRAL”, “SESMARIAS QUEBÓ” e “CAMBAIUVAL", classificado como “latifúndio por exploração”, situado nos Municípios de Nobres e Rosário Oeste, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 02 de maio de 1986, e dá outras providências.

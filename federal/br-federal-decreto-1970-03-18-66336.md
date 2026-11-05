@@ -1,5 +1,3 @@
-###DEC-066336-0-000-18-03-1970@@@
-
 DECRETO Nº 66.336 - DE 18 DE MARÇO DE 1970
 
 Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que menciona.

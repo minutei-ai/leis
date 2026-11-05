@@ -1,5 +1,3 @@
-###DEC-081304-0-000-02-02-1978@@@
-
 Decreto nº 81.304, de 2 de fevereiro de 1978.
 
 Concede à Irmãos Preto & Cia. Ltda. o direito de lavrar feldspato e quartzo nos Municípios de Socorro e Pinhalzinho, Estado de São Paulo.

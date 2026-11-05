@@ -1,5 +1,3 @@
-###DEC-046226-0-000-16-06-1959@@@
-
 DECRETO Nº 46.226, DE 16 DE Junho DE 1959.
 
 Outorga concessão à Rádio Paulista Limitada para instalar uma estação radiodifusora.

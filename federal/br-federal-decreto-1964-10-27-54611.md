@@ -1,5 +1,3 @@
-###DEC-054611-0-000-27-10-1964@@@
-
 DECRETO Nº 54.611, DE 27 DE OUTUBRO DE 1964.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros Nictheroy, inclusive aumento do capital social e extensão das operações ao Ramo Vida.

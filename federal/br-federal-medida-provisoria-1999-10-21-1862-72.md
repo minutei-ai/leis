@@ -1,5 +1,3 @@
-###MPV-001862-0-072-21-10-1999@@@
-
 medida provisória nº 1.862-72, de 21 de outubro de 1999.
 
 Dispõe sobre títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

@@ -16,7 +16,8 @@ Art. 1º A [Lei nº 10.654, de 27 de novembro de 1991](https://legis.alepe.pe.go
 
 § 1º ...................................................................................................................
 
-I - a ciência da Notificação de Débito ou da Notificação de Débito sem Penalidade será dada ao sujeito passivo, por meio de publicação de edital no Diário Oficial do Estado, quando emitidas pela unidade fazendária competente; (NR)<br>
+I - a ciência da Notificação de Débito ou da Notificação de Débito sem Penalidade será dada ao sujeito passivo, por meio de publicação de edital no Diário Oficial do Estado, quando emitidas pela unidade fazendária competente; (NR)
+
 ..........................................................................................................................
 
 Art. 2º-A. O ICMS declarado pelo sujeito passivo e não recolhido, inclusive quando devido por substituição tributária, dispensa lançamento de ofício, sendo considerado constituído e em mora desde a data do seu vencimento. (AC)
@@ -43,8 +44,7 @@ IV - destacado em documento fiscal eletrônico emitido de forma avulsa pela Sefa
 
 Art. 26. Considera-se iniciado o procedimento de apuração das ações ou omissões contrárias à legislação relativa a tributos estaduais, para o fim único de excluir a espontaneidade do sujeito passivo da obrigação tributária, respeitado o disposto no art. 19 e observada a ressalva prevista no art. 26-A: (NR)
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 Art. 26-A. O disposto nos incisos I e V do art. 26 não se aplica à situação em que a Secretaria da Fazenda - Sefaz, em ação de monitoramento, identifique irregularidades quanto ao cumprimento de obrigação tributária e oportunize a autorregularização do sujeito passivo. (AC)
 
@@ -110,8 +110,7 @@ d) na hipótese de pagamento parcelado, no valor correspondente aos seguintes pe
 
 3\. 25% (vinte e cinco por cento), no parcelamento de 7 (sete) a 10 (dez) parcelas.(AC)
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 Art. 86. .............................................................................................................
 
@@ -125,7 +124,8 @@ Art. 90. .......................................................................
 
 ..........................................................................................................................
 
-III - à taxa equivalente à diferença positiva entre a taxa SELIC, fixada para os títulos federais, e o valor utilizado para atualização monetária prevista no art.86. (AC)<br>
+III - à taxa equivalente à diferença positiva entre a taxa SELIC, fixada para os títulos federais, e o valor utilizado para atualização monetária prevista no art.86. (AC)
+
 ..........................................................................................................................
 
 § 4º Os juros de que trata o _caput_ incidirão a partir do mês subsequente àquele em que tenha expirado o prazo de recolhimento do tributo. (AC)
@@ -134,15 +134,17 @@ III - à taxa equivalente à diferença positiva entre a taxa SELIC, fixada para
 
 Art. 2º A [Lei nº 10.849, de 28 de dezembro de 1992](https://legis.alepe.pe.gov.br/?lo108491992), passa a vigorar com as seguintes modificações:
 
-**“CAPÍTULO I****<br>
-**DA DISPOSIÇÃO PRELIMINAR**** (AC)
+**“CAPÍTULO I
+
+**DA DISPOSIÇÃO PRELIMINAR (AC)
 
 Art. 1º O disciplinamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA passa a ser regido nos termos desta Lei. (NR)
 
 ..........................................................................................................................
 
-**CAPÍTULO II****<br>
-**DA INCIDÊNCIA DO IMPOSTO**** (AC)
+**CAPÍTULO II
+
+**DA INCIDÊNCIA DO IMPOSTO (AC)
 
 Art. 2º-A. O IPVA incide anualmente sobre a propriedade de veículo automotor. (AC)
 
@@ -168,10 +170,12 @@ II - relativamente às autarquias e às fundações instituídas e mantidas pelo
 
 § 5º Os entes relacionados no _caput_ devem prestar as informações necessárias à implementação da não incidência do imposto pela Secretaria da Fazenda - Sefaz, na forma prevista em decreto do Poder Executivo. (AC)
 
-**CAPÍTULO III****<br>
-**DO FATO GERADOR****
+**CAPÍTULO III
 
-**Seção I** (AC)<br>
+**DO FATO GERADOR
+
+**Seção I** (AC)
+
 **Do Momento da Ocorrência do Fato Gerador** (AC)
 
 Art. 2º-C. O fato gerador do IPVA ocorre: (AC)
@@ -198,8 +202,9 @@ VI - na data em que o proprietário deixar de preencher a condição que fundame
 
 VII - na data da aquisição do veículo em licitação pública, observado o disposto no art. 15-B. (AC)
 
-**Seção II****<br>
-**Do Local da Ocorrência do Fato Gerador**** (AC)
+**Seção II
+
+**Do Local da Ocorrência do Fato Gerador (AC)
 
 Art. 2º-D. O IPVA é devido a este Estado: (AC)
 
@@ -221,11 +226,13 @@ II - caso exerça profissão em mais de um local, o endereço constante da Decla
 
 ..........................................................................................................................
 
-**CAPÍTULO IV****<br>
-**DO SUJEITO PASSIVO**** (AC)
+**CAPÍTULO IV
 
-**Seção I****<br>
-**Do Contribuinte**** (AC)
+**DO SUJEITO PASSIVO (AC)
+
+**Seção I
+
+**Do Contribuinte (AC)
 
 Art. 9º ...............................................................................................................
 
@@ -233,8 +240,9 @@ Parágrafo único. Na hipótese de pessoa jurídica, considera-se contribuinte c
 
 ..........................................................................................................................
 
-**Seção II****<br>
-**Do Responsável**** (AC)
+**Seção II
+
+**Do Responsável (AC)
 
 Art. 10-A. São responsáveis, solidariamente, pelo pagamento do IPVA e acréscimos legais: (AC)
 
@@ -266,11 +274,13 @@ XI - todo aquele que efetivamente concorrer para o não pagamento do imposto. (A
 
 ..........................................................................................................................
 
-**CAPÍTULO V****<br>
-**DO CÁLCULO DO IMPOSTO**** (AC)
+**CAPÍTULO V
 
-**Seção I****<br>
-**Da Base de Cálculo**** (AC)
+**DO CÁLCULO DO IMPOSTO (AC)
+
+**Seção I
+
+**Da Base de Cálculo (AC)
 
 Art. 12-A. A base de cálculo do IPVA é: (AC)
 
@@ -286,8 +296,9 @@ b) adquirido a empresa revendedora de veículo que o tenha importado, o valor co
 
 Parágrafo único. Na hipótese em que o valor venal do veículo usado não conste no decreto mencionado no inciso II do _caput_, a base de cálculo deve ser atribuída pela autoridade fazendária, observado o preço de mercado. (AC)
 
-**Seção II****<br>
-**Da Alíquota**** (AC)
+**Seção II
+
+**Da Alíquota (AC)
 
 Art. 12-B. As alíquotas do IPVA são: (AC)
 
@@ -307,8 +318,9 @@ III - 2,4% (dois vírgula quatro por cento), para veículo automotor não inclu�
 
 Parágrafo único. Na hipótese de adequação do veículo para utilização de GNV a partir de 1º de janeiro de 2024, a alíquota prevista no inciso II do _caput_ somente se aplica a partir do exercício seguinte ao da comprovação, por meio da apresentação de documento fiscal ao órgão de trânsito competente, de que a aquisição do material necessário e a adaptação do veículo ocorreram neste Estado. (AC)
 
-**Seção III****<br>
-**Do Valor do Imposto**** (AC)
+**Seção III
+
+**Do Valor do Imposto (AC)
 
 Art. 12-C. O valor do IPVA resulta da aplicação da alíquota correspondente sobre a respectiva base de cálculo. (AC)
 
@@ -338,14 +350,17 @@ II - R$ 120,00 (cento e vinte reais), para os demais veículos.
 
 ..........................................................................................................................
 
-**CAPÍTULO VI** **<br>
-**DOS BENEFÍCIOS FISCAIS**** (AC)
+**CAPÍTULO VI** **
 
-**Seção I****<br>
-**Das Disposições Iniciais**** (AC)
+**DOS BENEFÍCIOS FISCAIS (AC)
 
-**Subseção I****<br>
-**Das Disposições Gerais**** (AC)
+**Seção I
+
+**Das Disposições Iniciais (AC)
+
+**Subseção I
+
+**Das Disposições Gerais (AC)
 
 Art. 13-A. Para efeito de fruição, os benefícios fiscais previstos neste Capítulo: (AC)
 
@@ -357,8 +372,9 @@ b) concedidos quando o sujeito passivo estiver adimplente, até o prazo indicado
 
 II - aplicam-se ainda que o beneficiário não seja o proprietário do veículo, desde que detenha sua posse em decorrência de contrato de arrendamento mercantil. (AC)
 
-**Subseção II****<br>
-**Das Disposições Relativas às Locadoras de Veículos**** (AC)
+**Subseção II
+
+**Das Disposições Relativas às Locadoras de Veículos (AC)
 
 Art. 13-B. Os benefícios fiscais previstos neste Capítulo relativos à empresa locadora de veículos somente se aplicam à empresa que: (AC)
 
@@ -368,8 +384,9 @@ II - detenha alvará de funcionamento expedido pelo Município de sua sede, para
 
 III - possua frota, com registro no cadastro da autarquia de trânsito do Estado de Pernambuco, de no mínimo 30 (trinta) veículos. (AC)
 
-**Seção II****<br>
-**Da Isenção do Imposto**** (AC)
+**Seção II
+
+**Da Isenção do Imposto (AC)
 
 Art. 13-C. É isenta do IPVA a propriedade de veículo, nas hipóteses a seguir relacionadas: (AC)
 
@@ -419,8 +436,9 @@ I - aplica-se inclusive quando a propriedade do veículo a ser beneficiado, ou s
 
 II - fica condicionada, nos termos de decreto do Poder Executivo, à comprovação, pelo beneficiário, seu representante legal ou, sucessivamente, seu cônjuge, ascendente ou descendente, da disponibilidade financeira ou patrimonial para a aquisição e manutenção do veículo. (AC)
 
-**Seção III****<br>
-**Da Redução de Base de Cálculo**** (AC)
+**Seção III
+
+**Da Redução de Base de Cálculo (AC)
 
 Art. 13-D. A base de cálculo do IPVA fica reduzida ao montante resultante da aplicação dos seguintes percentuais sobre o valor da base de cálculo originalmente estabelecida, nas hipóteses a seguir relacionadas: (AC)
 
@@ -432,8 +450,9 @@ b) ônibus que integre o Sistema de Transporte Complementar de Passageiros da Re
 
 II - 75% (setenta e cinco por cento), relativamente a veículo destinado à locação, pertencente a empresa locadora de veículos. (AC)
 
-**Seção IV****<br>
-**Da Alíquota Reduzida**** (AC)
+**Seção IV
+
+**Da Alíquota Reduzida (AC)
 
 Art. 13-E. A alíquota do IPVA fica reduzida ao percentual de 1% (um por cento), na hipótese de veículo destinado à locação e pertencente a empresa locadora de veículos, desde que: (AC)
 
@@ -445,8 +464,9 @@ Parágrafo único. Na hipótese de descumprimento da condição prevista no inci
 
 ..........................................................................................................................
 
-**CAPÍTULO VII****<br>
-**DA CIÊNCIA DO LANÇAMENTO DO IMPOSTO**** (AC)
+**CAPÍTULO VII
+
+**DA CIÊNCIA DO LANÇAMENTO DO IMPOSTO (AC)
 
 Art. 14-A.  A ciência do lançamento ocorre, alternativamente: (AC)
 
@@ -462,11 +482,13 @@ III - pela publicação de edital no Diário Oficial do Estado - DOE, informando
 
 ..........................................................................................................................
 
-**CAPÍTULO VIII****<br>
-**DO RECOLHIMENTO DO IMPOSTO**** (AC)
+**CAPÍTULO VIII
 
-**Seção I****<br>
-**Das Disposições Gerais**** (AC)
+**DO RECOLHIMENTO DO IMPOSTO (AC)
+
+**Seção I
+
+**Das Disposições Gerais (AC)
 
 Art. 15-A. Decreto do Poder Executivo deve fixar, anualmente, calendário para pagamento do IPVA, que pode ser recolhido em cota única ou em até 10 (dez) cotas mensais e sucessivas. (AC)
 
@@ -478,8 +500,9 @@ Art. 15-B. O IPVA efetivamente recolhido é vinculado ao veículo, não se exigi
 
 Art. 15-C. O imposto não recolhido integralmente na data do vencimento deve ser atualizado e acrescido de juros, conforme o disposto em lei específica que discipline o processo administrativo-tributário do Estado. (AC)
 
-**Seção II****<br>
-**Do Parcelamento**** (AC)
+**Seção II
+
+**Do Parcelamento (AC)
 
 Art. 15-D. O crédito tributário do IPVA não recolhido até a data de vencimento pode ser recolhido de forma parcelada, aplicando-se as normas previstas para o parcelamento do crédito tributário do ICMS. (AC)
 
@@ -487,8 +510,9 @@ Parágrafo único. Decreto do Poder Executivo pode definir valor mínimo das par
 
 ..........................................................................................................................
 
-**CAPÍTULO IX****<br>
-**DAS PENALIDADES**** (AC)
+**CAPÍTULO IX
+
+**DAS PENALIDADES (AC)
 
 Art. 17-A. A inobservância dos dispositivos desta Lei sujeita o infrator às seguintes multas: (AC)
 
@@ -500,18 +524,21 @@ III - 40% (quarenta por cento) do valor do imposto não recolhido após o prazo 
 
 § 1º Nas hipóteses previstas nos incisos II e III do _caput_, deve ser lavrado o correspondente Auto de Infração. (AC)
 
-§ 2º O recolhimento do imposto efetuado após a intimação prevista no inciso III do _caput_ e antes do término do prazo ali mencionado deve ocorrer com a multa prevista no inciso I, bem como com os demais acréscimos previstos no art. 15-C. (AC)<br>
+§ 2º O recolhimento do imposto efetuado após a intimação prevista no inciso III do _caput_ e antes do término do prazo ali mencionado deve ocorrer com a multa prevista no inciso I, bem como com os demais acréscimos previstos no art. 15-C. (AC)
+
 ..........................................................................................................................
 
-**CAPÍTULO X****<br>
-**DA INSCRIÇÃO EM DÍVIDA ATIVA**** (AC)
+**CAPÍTULO X
+
+**DA INSCRIÇÃO EM DÍVIDA ATIVA (AC)
 
 Art. 18-A. O IPVA lançado e não recolhido no prazo deve ser inscrito na Dívida Ativa do Estado, juntamente com seus acréscimos legais. (AC)
 
 ..........................................................................................................................
 
-**CAPÍTULO XI****<br>
-**DAS DISPOSIÇÕES FINAIS**** (AC)
+**CAPÍTULO XI
+
+**DAS DISPOSIÇÕES FINAIS (AC)
 
 Art. 20. ............................................................................................................
 
@@ -557,8 +584,7 @@ III - ..........................................................................
 
 k) ......................................................................................................................
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 2\. falta de registro ou registro inverídico, pelo destinatário, dos eventos relativos à confirmação, não realização ou desconhecimento da operação ou prestação descritas nos referidos documentos fiscais: R$ 150,00 (cento e cinquenta reais), por documento; (NR)
 
@@ -644,8 +670,7 @@ Art. 6º A [Lei nº 15.730, de 17 de março de 2016](https://legis.alepe.pe.gov.
 
 III - ...................................................................................................................
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 c) montagem: a que consista na reunião dos produtos, peças ou partes, de que resulte obtenção de um novo produto ou unidade autônoma, ainda que sob a mesma classificação na NCM; (NR)
 
@@ -743,12 +768,15 @@ Parágrafo único. O disposto no _caput_ aplica-se inclusive em relação à ope
 
 ..........................................................................................................................
 
-**CAPÍTULO IX****<br>
-**DA APURAÇÃO E DO RECOLHIMENTO DO IMPOST****O<br>
+**CAPÍTULO IX
+
+**DA APURAÇÃO E DO RECOLHIMENTO DO IMPOSTO
+
 .........................................................................................................................
 
-**Seção III****<br>
-**Do recolhimento parcelado do crédito tributário**** (AC)
+**Seção III
+
+**Do recolhimento parcelado do crédito tributário (AC)
 
 Art. 31-A. O disciplinamento do recolhimento parcelado de crédito tributário relativo ao ICMS passa a ser regido nos termos do Anexo 7. (AC)
 
@@ -764,8 +792,9 @@ a) os procedimentos previstos em decreto do Poder Executivo relativos à correç
 
 b) o recolhimento do imposto devido, atualizado monetariamente e com os acréscimos legais cabíveis, no prazo de 15 (quinze) dias contados da ciência da decisão administrativa contrária, na hipótese de já ter havido a compensação do imposto antecipado. (AC)
 
-**CAPÍTULO XI-A****<br>
-**DO REGIME DE TRIBUTAÇÃO MONOFÁSICA**** (AC)
+**CAPÍTULO XI-A
+
+**DO REGIME DE TRIBUTAÇÃO MONOFÁSICA (AC)
 
 Art. 40-B. Deve ser aplicado o regime de tributação monofásica do imposto estabelecido pela Lei Complementar Federal nº 192, de 11 de março de 2022, nas operações com as seguintes mercadorias: (AC)
 
@@ -827,8 +856,9 @@ IV - terceiros cujos atos ou omissões concorram para o não recolhimento do imp
 
 Art. 40-H. Deliberação das UFs, por meio de Convênio ICMS celebrado no âmbito do CONFAZ, deve regulamentar o regime de tributação monofásica do imposto de que trata este Capítulo. (AC)
 
-**CAPÍTULO XI-B****<br>
-**DO PROGRAMA DE AUTORREGULARIZAÇÃO E CONFORMIDADE TRIBUTÁRIA - COOPERA**** (AC)
+**CAPÍTULO XI-B
+
+**DO PROGRAMA DE AUTORREGULARIZAÇÃO E CONFORMIDADE TRIBUTÁRIA - COOPERA (AC)
 
 Art. 40-I. Fica instituído o Programa de Autorregularização e Conformidade Tributária - Coopera, nos termos previstos no Anexo 8. (AC)
 
@@ -852,19 +882,18 @@ Art. 7º Em decorrência do disposto no art. 6º, a [Lei nº 11.675, de 11 de ou
 
 “Art. 9º .............................................................................................................
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 II - ....................................................................................................................
 
 a) ......................................................................................................................
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 3\. ......................................................................................................................
 
-3.1. superior a 12% (doze por cento) e inferior ou igual a 17% (dezessete por cento), no período de 3 de outubro de 2001 a 31 de dezembro de 2015; (NR)<br>
+3.1. superior a 12% (doze por cento) e inferior ou igual a 17% (dezessete por cento), no período de 3 de outubro de 2001 a 31 de dezembro de 2015; (NR)
+
 ..........................................................................................................................
 
 3.3. superior a 12% (doze por cento) e inferior ou igual a 20,5% (vinte vírgula cinco por cento), a partir de 1º de janeiro de 2024; e (AC)
@@ -873,10 +902,10 @@ a) .............................................................................
 
 4.1. 17% (dezessete por cento), no período de 3 de outubro de 2001 a 31 de dezembro de 2015; (NR)
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
-4.3. 20,5% (vinte vírgula cinco por cento), a partir de 1º de janeiro de 2024; e (NR)<br>
+4.3. 20,5% (vinte vírgula cinco por cento), a partir de 1º de janeiro de 2024; e (NR)
+
 ........................................................................................................................”.
 
 Art. 8º Em decorrência do disposto no art. 6º, a [Lei nº 12.234, de 26 de junho de 2002](https://legis.alepe.pe.gov.br/?lo122342002), passa a vigorar com a seguinte modificação:
@@ -895,7 +924,8 @@ a) .............................................................................
 
 Art. 9º Em decorrência do disposto no art. 6º, a [Lei nº 12.240, de 28 de junho de 2002](https://legis.alepe.pe.gov.br/?lo122402002), passa a vigorar com a seguinte modificação:
 
-“Art. 1º .............................................................................................................<br>
+“Art. 1º .............................................................................................................
+
 ..........................................................................................................................
 
 III - 15,5% (quinze vírgula cinco por cento), quando a alíquota aplicável à operação for 20,5% (vinte vírgula cinco por cento). (AC)
@@ -942,8 +972,7 @@ b) .............................................................................
 
 1\. ......................................................................................................................
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 1.3. 17,5% (dezessete vírgula cinco por cento) do valor da operação, quando a alíquota aplicável for 20,5% (vinte vírgula cinco por cento); e (AC)
 
@@ -973,8 +1002,7 @@ b) .............................................................................
 
 II - ....................................................................................................................
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 c) ......................................................................................................................
 
@@ -992,7 +1020,8 @@ c) .............................................................................
 
 ..........................................................................................................................
 
-2.3. 20,5% (vinte vírgula cinco por cento), a partir de 1º de janeiro de 2024. (AC)<br>
+2.3. 20,5% (vinte vírgula cinco por cento), a partir de 1º de janeiro de 2024. (AC)
+
 ........................................................................................................................”.
 
 Art. 14. Em decorrência do disposto no art. 6º, a [Lei nº 14.277, de 25 de março de 2011](https://legis.alepe.pe.gov.br/?lo142772011), passa a vigorar com as seguintes modificações:
@@ -1011,14 +1040,14 @@ Art. 15. Em decorrência do disposto no art. 6º, a [Lei nº 14.721, de 4 de jul
 
 “Art. 2º .............................................................................................................
 
-..........................................................................................................................<br>
-<br>
+..........................................................................................................................
 
 VII - .................................................................................................................
 
 a) ......................................................................................................................
 
-4\. 6,15% (seis vírgula quinze por cento), quando a mercadoria estiver sujeita à alíquota interna de 20,5% (vinte vírgula cinco por cento); e (AC)<br>
+4\. 6,15% (seis vírgula quinze por cento), quando a mercadoria estiver sujeita à alíquota interna de 20,5% (vinte vírgula cinco por cento); e (AC)
+
 .........................................................................................................................
 
 Art. 3º ..............................................................................................................
@@ -1115,94 +1144,7 @@ BIANCA FERREIRA TEIXEIRA
 
 **(inciso I do art. 18-A)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:8.65pt"><td style="border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.65pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">ITEM</p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:8.65pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">SUBITEM</p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:8.65pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">DESCRIÇÃO</p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:8.65pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">CLASSIFICAÇÃO NCM</p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:8.65pt"><p align="center" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:0cm;
-  margin-left:0cm;margin-bottom:.0001pt;text-align:center">ALÍQUOTA</p><p align="center" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:0cm;
-  margin-left:0cm;margin-bottom:.0001pt;text-align:center">(%)</p></td></tr><tr style="height:12.85pt"><td rowspan="4" style="border:solid windowtext 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm;height:12.85pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1</p><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">&nbsp;</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:12.85pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1.1</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:12.85pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Charutos, cigarrilhas e cigarros, de tabaco ou dos seus sucedâneos</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:12.85pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2402</p></td><td rowspan="4" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:12.85pt"><p align="center" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:0cm;
-  margin-left:0cm;margin-bottom:.0001pt;text-align:center">29</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1.2</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Armas</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9302, 9303 e 9304</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1.3</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Partes e acessórios de revólveres e pistolas</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9305</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1.4</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bombas, granadas, torpedos, minas, mísseis, cartuchos e outras munições e projéteis e suas partes, incluídos os zagalotes, chumbos de caça e buchas para cartuchos</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9306</p></td></tr><tr><td rowspan="9" style="border:solid windowtext 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2</p><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">&nbsp;</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.1</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bebidas alcoólicas, exceto aguardente de cana-de-açúcar ou de melaço e cerveja acondicionada em embalagem retornável e que contenha em sua composição, no mínimo, 20% (vinte por cento) de fécula de mandioca</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2203 a 2208</p></td><td rowspan="9" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">27</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.2</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Balões, dirigíveis, planadores, asas voadoras e outros veículos aéreos, não concebidos para propulsão com motor</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8801.00.00</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.3</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículo aéreo para propulsão com motor, do tipo “ultraleve”</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8802</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.4</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Iates e outros barcos e embarcações de recreio ou de esporte, barcos a remo, canoas e&nbsp;<em>jet-skis</em></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8903</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.5</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Motocicletas com motor de pistão alternativo de cilindrada superior a 250 cm³</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8711</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.6</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Artefatos de joalheria e suas partes, de metais preciosos ou de metais folheados ou chapeados de metais preciosos</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">7113</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.7</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Artefatos de ourivesaria e suas partes, de metais preciosos ou de metais folheados ou chapeados de metais preciosos</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">7114</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.8</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Obras de pérolas naturais ou cultivadas, de pedras preciosas ou semipreciosas, de pedras sintéticas ou reconstituídas</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">7116</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2.9</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bijuterias</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">7117</p></td></tr><tr><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">&nbsp;</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Álcool Etílico Hidratado Combustível - AEHC</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2207</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">15,52</p></td></tr><tr style="height:15.1pt"><td rowspan="9" style="border:solid windowtext 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm;height:15.1pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:15.1pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.1</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:15.1pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Refrigerante</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:15.1pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2202.10.00</p></td><td rowspan="9" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:15.1pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">22,5</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.2</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Extrato concentrado para a elaboração de refrigerante</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2106.90.10</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.3</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Água mineral em embalagem descartável</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2201.10.00</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.4</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bebidas hidroeletrolíticas (isotônicas)</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2202.99.00</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.5</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Aguardente de cana-de-açúcar ou de melaço</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2208.40.00</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.6</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Saco plástico</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3923.2</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.7</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Copo plástico descartável</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3924.10.00</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.8</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Canudo plástico descartável</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3917.32.29</p></td></tr><tr><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4.9</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Explosivos preparados</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3602.00.00</p></td></tr><tr><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">5</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">&nbsp;</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cerveja acondicionada em embalagem retornável e que contenha em sua composição, no mínimo, 20% (vinte por cento) de fécula de mandioca</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2203.00.00</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">18</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> ITEM </td><td> SUBITEM </td><td> DESCRIÇÃO </td><td> CLASSIFICAÇÃO NCM </td><td> ALÍQUOTA (%) </td></tr><tr><td rowspan="4"> 1 &nbsp; </td><td> 1.1 </td><td> Charutos, cigarrilhas e cigarros, de tabaco ou dos seus sucedâneos </td><td> 2402 </td><td rowspan="4"> 29 </td></tr><tr><td> 1.2 </td><td> Armas </td><td> 9302, 9303 e 9304 </td></tr><tr><td> 1.3 </td><td> Partes e acessórios de revólveres e pistolas </td><td> 9305 </td></tr><tr><td> 1.4 </td><td> Bombas, granadas, torpedos, minas, mísseis, cartuchos e outras munições e projéteis e suas partes, incluídos os zagalotes, chumbos de caça e buchas para cartuchos </td><td> 9306 </td></tr><tr><td rowspan="9"> 2 &nbsp; </td><td> 2.1 </td><td> Bebidas alcoólicas, exceto aguardente de cana-de-açúcar ou de melaço e cerveja acondicionada em embalagem retornável e que contenha em sua composição, no mínimo, 20% (vinte por cento) de fécula de mandioca </td><td> 2203 a 2208 </td><td rowspan="9"> 27 </td></tr><tr><td> 2.2 </td><td> Balões, dirigíveis, planadores, asas voadoras e outros veículos aéreos, não concebidos para propulsão com motor </td><td> 8801.00.00 </td></tr><tr><td> 2.3 </td><td> Veículo aéreo para propulsão com motor, do tipo “ultraleve” </td><td> 8802 </td></tr><tr><td> 2.4 </td><td> Iates e outros barcos e embarcações de recreio ou de esporte, barcos a remo, canoas e&nbsp;*jet-skis* </td><td> 8903 </td></tr><tr><td> 2.5 </td><td> Motocicletas com motor de pistão alternativo de cilindrada superior a 250 cm³ </td><td> 8711 </td></tr><tr><td> 2.6 </td><td> Artefatos de joalheria e suas partes, de metais preciosos ou de metais folheados ou chapeados de metais preciosos </td><td> 7113 </td></tr><tr><td> 2.7 </td><td> Artefatos de ourivesaria e suas partes, de metais preciosos ou de metais folheados ou chapeados de metais preciosos </td><td> 7114 </td></tr><tr><td> 2.8 </td><td> Obras de pérolas naturais ou cultivadas, de pedras preciosas ou semipreciosas, de pedras sintéticas ou reconstituídas </td><td> 7116 </td></tr><tr><td> 2.9 </td><td> Bijuterias </td><td> 7117 </td></tr><tr><td> 3 </td><td> &nbsp; </td><td> Álcool Etílico Hidratado Combustível - AEHC </td><td> 2207 </td><td> 15,52 </td></tr><tr><td rowspan="9"> 4 </td><td> 4.1 </td><td> Refrigerante </td><td> 2202.10.00 </td><td rowspan="9"> 22,5 </td></tr><tr><td> 4.2 </td><td> Extrato concentrado para a elaboração de refrigerante </td><td> 2106.90.10 </td></tr><tr><td> 4.3 </td><td> Água mineral em embalagem descartável </td><td> 2201.10.00 </td></tr><tr><td> 4.4 </td><td> Bebidas hidroeletrolíticas (isotônicas) </td><td> 2202.99.00 </td></tr><tr><td> 4.5 </td><td> Aguardente de cana-de-açúcar ou de melaço </td><td> 2208.40.00 </td></tr><tr><td> 4.6 </td><td> Saco plástico </td><td> 3923.2 </td></tr><tr><td> 4.7 </td><td> Copo plástico descartável </td><td> 3924.10.00 </td></tr><tr><td> 4.8 </td><td> Canudo plástico descartável </td><td> 3917.32.29 </td></tr><tr><td> 4.9 </td><td> Explosivos preparados </td><td> 3602.00.00 </td></tr><tr><td> 5 </td><td> &nbsp; </td><td> Cerveja acondicionada em embalagem retornável e que contenha em sua composição, no mínimo, 20% (vinte por cento) de fécula de mandioca </td><td> 2203.00.00 </td><td> 18 </td></tr></tbody></table>
 
 ”
 
@@ -1214,115 +1156,139 @@ BIANCA FERREIRA TEIXEIRA
 
 **(inciso II do art. 18-A)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:7.85pt"><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;background:
-  #F2F2F2;padding:0cm 0cm 0cm 0cm;height:7.85pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">ITEM</span></strong></p></td><td width="303" style="width:226.9pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm;height:7.85pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">DESCRIÇÃO</span></strong></p></td><td width="178" style="width:133.15pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm;height:7.85pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">CLASSIFICAÇÃO</span></strong></p><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">NCM</span></strong></p></td></tr><tr style="height:57.6pt"><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:57.6pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:57.6pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com motor de pistão, de ignição por compressão (diesel ou semidiesel), com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:57.6pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8702.10.00</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³ e inferior a 9 m³</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8702.90.00</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros com motor de pistão alternativo, de ignição por centelha, de cilindrada não superior a 1000 cm³</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.21.00</p></td></tr><tr style="height:71.65pt"><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:71.65pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:71.65pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto o destinado ao transporte de prisioneiros (carro celular), com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1000 cm³ e igual ou inferior a 1500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:71.65pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.22.10</p></td></tr><tr style="height:70.55pt"><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:70.55pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">5</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:70.55pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1000 cm³ e inferior a 1500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:70.55pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.22.90</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">6</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1500 cm³ e igual ou inferior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.23.10</p></td></tr><tr style="height:65.25pt"><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:65.25pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">7</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:65.25pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1500 cm³ e igual ou inferior a 3000 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:65.25pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.23.90</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.24.10</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.24.90</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">10</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), as ambulâncias e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 1500 cm³ e igual ou inferior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.32.10</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">11</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), as ambulâncias e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 1500 cm³ e igual ou inferior a 2500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.32.90</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">12</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular) e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.33.10</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">13</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular) e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.33.90</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">14</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, chassis com motor e cabina</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21.10</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">15</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, com caixa basculante</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21.20</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">16</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, frigoríficos ou isotérmicos</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21.30</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">17</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, exceto carro forte destinado a transporte de valores, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21.90</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">18</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, chassis com motor e cabina</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31.10</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">19</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, com caixa basculante</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31.20</p></td></tr><tr style="height:46.55pt"><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:46.55pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">20</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:46.55pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, frigoríficos ou isotérmicos</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:46.55pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31.30</p></td></tr><tr><td width="83" style="width:62.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">21</p></td><td width="303" style="width:226.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, exceto carro forte destinado a transporte de valores, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas</p></td><td width="178" style="width:133.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31.90</p></td></tr></tbody></table>
+**ITEM**
+
+**DESCRIÇÃO**
+
+**CLASSIFICAÇÃO**
+
+**NCM**
+
+1
+
+Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com motor de pistão, de ignição por compressão (diesel ou semidiesel), com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³
+
+8702.10.00
+
+2
+
+Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³ e inferior a 9 m³
+
+8702.90.00
+
+3
+
+Automóveis de passageiros com motor de pistão alternativo, de ignição por centelha, de cilindrada não superior a 1000 cm³
+
+8703.21.00
+
+4
+
+Automóveis de passageiros, exceto o destinado ao transporte de prisioneiros (carro celular), com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1000 cm³ e igual ou inferior a 1500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.22.10
+
+5
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1000 cm³ e inferior a 1500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.22.90
+
+6
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1500 cm³ e igual ou inferior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.23.10
+
+7
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1500 cm³ e igual ou inferior a 3000 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.23.90
+
+8
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.24.10
+
+9
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.24.90
+
+10
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), as ambulâncias e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 1500 cm³ e igual ou inferior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.32.10
+
+11
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), as ambulâncias e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 1500 cm³ e igual ou inferior a 2500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.32.90
+
+12
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular) e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.33.10
+
+13
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular) e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.33.90
+
+14
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, chassis com motor e cabina
+
+8704.21.10
+
+15
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, com caixa basculante
+
+8704.21.20
+
+16
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, frigoríficos ou isotérmicos
+
+8704.21.30
+
+17
+
+Veículos automóveis para transporte de mercadorias, exceto carro forte destinado a transporte de valores, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas
+
+8704.21.90
+
+18
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, chassis com motor e cabina
+
+8704.31.10
+
+19
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, com caixa basculante
+
+8704.31.20
+
+20
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, frigoríficos ou isotérmicos
+
+8704.31.30
+
+21
+
+Veículos automóveis para transporte de mercadorias, exceto carro forte destinado a transporte de valores, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas
+
+8704.31.90
 
 ”
 
@@ -1334,115 +1300,139 @@ BIANCA FERREIRA TEIXEIRA
 
 **(art. 18-B)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;background:
-  #F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">ITEM</span></strong></p></td><td width="376" style="width:282.05pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">DESCRIÇÃO</span></strong></p></td><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">CLASSIFICAÇÃO</span></strong></p><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">NCM</span></strong></p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com motor de pistão, de ignição por compressão (diesel ou semidiesel), com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8702.10.00</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³ e inferior a 9 m³</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8702.90.00</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros com motor de pistão alternativo, de ignição por centelha, de cilindrada não superior a 1000 cm³</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.21.00</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto o destinado ao transporte de prisioneiros (carro celular), com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1000 cm³ e igual ou inferior a 1500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.22.10</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">5</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1000 cm³ e inferior a 1500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.22.90</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">6</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerário e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1500 cm³ e igual ou inferior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.23.10</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">7</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerário e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1500 cm³ e igual ou inferior a 3000 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.23.90</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.24.10</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.24.90</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">10</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), as ambulâncias e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 1500 cm³ e igual ou inferior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.32.10</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">11</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), as ambulâncias e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 1500 cm³ e igual ou inferior a 2500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.32.90</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">12</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular) e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.33.10</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">13</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular) e os funerário, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.33.90</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">14</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, chassis com motor e cabina</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21.10</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">15</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, com caixa basculante</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21.20</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">16</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, frigoríficos ou isotérmicos</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21.30</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">17</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, exceto carro forte destinado a transporte de valores, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21.90</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">17</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, chassis com motor e cabina</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31.10</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">19</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, com caixa basculante</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31.20</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">20</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, frigoríficos ou isotérmicos</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31.30</p></td></tr><tr style="height:1.15pt"><td width="47" style="width:35.45pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">21</p></td><td width="376" style="width:282.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos automóveis para transporte de mercadorias, exceto carro forte destinado a transporte de valores, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas</p></td><td width="148" valign="top" style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31.90</p></td></tr></tbody></table>
+**ITEM**
+
+**DESCRIÇÃO**
+
+**CLASSIFICAÇÃO**
+
+**NCM**
+
+1
+
+Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com motor de pistão, de ignição por compressão (diesel ou semidiesel), com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³
+
+8702.10.00
+
+2
+
+Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³ e inferior a 9 m³
+
+8702.90.00
+
+3
+
+Automóveis de passageiros com motor de pistão alternativo, de ignição por centelha, de cilindrada não superior a 1000 cm³
+
+8703.21.00
+
+4
+
+Automóveis de passageiros, exceto o destinado ao transporte de prisioneiros (carro celular), com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1000 cm³ e igual ou inferior a 1500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.22.10
+
+5
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1000 cm³ e inferior a 1500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.22.90
+
+6
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerário e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1500 cm³ e igual ou inferior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.23.10
+
+7
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerário e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 1500 cm³ e igual ou inferior a 3000 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.23.90
+
+8
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.24.10
+
+9
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), os funerários e os de corrida, com motor de pistão alternativo, de ignição por centelha, de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.24.90
+
+10
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), as ambulâncias e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 1500 cm³ e igual ou inferior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.32.10
+
+11
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular), as ambulâncias e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 1500 cm³ e igual ou inferior a 2500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.32.90
+
+12
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular) e os funerários, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o motorista
+
+8703.33.10
+
+13
+
+Automóveis de passageiros, exceto os destinados ao transporte de prisioneiros (carro celular) e os funerário, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas superior a 6 e inferior a 10, incluído o motorista
+
+8703.33.90
+
+14
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, chassis com motor e cabina
+
+8704.21.10
+
+15
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, com caixa basculante
+
+8704.21.20
+
+16
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas, frigoríficos ou isotérmicos
+
+8704.21.30
+
+17
+
+Veículos automóveis para transporte de mercadorias, exceto carro forte destinado a transporte de valores, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 3,9 toneladas
+
+8704.21.90
+
+17
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, chassis com motor e cabina
+
+8704.31.10
+
+19
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, com caixa basculante
+
+8704.31.20
+
+20
+
+Veículos automóveis para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas, frigoríficos ou isotérmicos
+
+8704.31.30
+
+21
+
+Veículos automóveis para transporte de mercadorias, exceto carro forte destinado a transporte de valores, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 3,9 toneladas
+
+8704.31.90
 
 ”
 
@@ -1454,100 +1444,7 @@ BIANCA FERREIRA TEIXEIRA
 
 **(alínea “b” do inciso III do art. 15)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;background:
-  #F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">ITEM</span></strong></p></td><td width="380" style="width:284.95pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">DESCRIÇÃO DO PRODUTO</span></strong></p></td><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">CLASSIFICAÇÃO</span></strong></p><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">NCM</span></strong></p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tabaco não manufaturado e desperdícios de tabaco.</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2401</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Produtos de tabaco e seus sucedâneos, exceto os compreendidos na posição 2402 da NCM, manufaturados, tabaco homogeneizado ou reconstituído, extratos e molhos de tabaco</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2403</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Perfumes e águas de colônia</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3303.00</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Produtos de beleza ou de maquiagem preparados</p></td><td width="148" rowspan="4" style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3304</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">5</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Preparações para conservação ou cuidados da pele, exceto medicamentos e preparações antissolares</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">6</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bronzeadores</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">7</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Preparações para manicuros e pedicuros</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Preparações capilares, exceto aquelas com propriedades profiláticas e terapêuticas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3305</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Preparações para barbear (antes, durante ou após)</p></td><td width="148" rowspan="5" style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3307</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">10</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Sais perfumados e outras preparações para banhos</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">11</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Desodorantes (desodorizantes) de ambiente preparados, mesmo não perfumados, com ou sem propriedades desinfetantes</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">12</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Antiperspirantes ou desodorantes corporais</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">13</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Produtos de toucador preparados para animais</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">14</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Fogos de artifício</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3604</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">15</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Armas de guerra (exceto revólveres), sabres, espadas, baionetas, lanças e outras armas brancas, suas partes e bainhas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9301 e 9307</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">16</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Partes e acessórios de armas das posições 9301 a 9304, exceto de revólveres e pistolas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9305</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">17</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Consoles e máquinas de jogos de vídeo, artigos para jogos de salão, incluindo os jogos com motor ou outro mecanismo, os bilhares, as mesas especiais para jogos de cassino e os jogos de balizas automáticos</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9504</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">18</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Esquis aquáticos, pranchas de surfe, pranchas a vela e outros equipamentos para a prática de esportes aquáticos</p></td><td width="148" rowspan="4" style="width:110.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9506</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">19</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tacos, bolas e outros equipamentos para golfe</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">20</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Raquetes de tênis, mesmo não encordoadas.</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">21</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bolas de tênis</p></td></tr><tr style="height:1.15pt"><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">22</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cachimbos (incluídos os seus fornilhos) e piteiras (boquilhas) para charutos e cigarros e suas partes</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9614</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> **ITEM** </td><td> **DESCRIÇÃO DO PRODUTO** </td><td> **CLASSIFICAÇÃONCM** </td></tr><tr><td> 1 </td><td> Tabaco não manufaturado e desperdícios de tabaco. </td><td> 2401 </td></tr><tr><td> 2 </td><td> Produtos de tabaco e seus sucedâneos, exceto os compreendidos na posição 2402 da NCM, manufaturados, tabaco homogeneizado ou reconstituído, extratos e molhos de tabaco </td><td> 2403 </td></tr><tr><td> 2 </td><td> Perfumes e águas de colônia </td><td> 3303.00 </td></tr><tr><td> 4 </td><td> Produtos de beleza ou de maquiagem preparados </td><td rowspan="4"> 3304 </td></tr><tr><td> 5 </td><td> Preparações para conservação ou cuidados da pele, exceto medicamentos e preparações antissolares </td></tr><tr><td> 6 </td><td> Bronzeadores </td></tr><tr><td> 7 </td><td> Preparações para manicuros e pedicuros </td></tr><tr><td> 8 </td><td> Preparações capilares, exceto aquelas com propriedades profiláticas e terapêuticas </td><td> 3305 </td></tr><tr><td> 9 </td><td> Preparações para barbear (antes, durante ou após) </td><td rowspan="5"> 3307 </td></tr><tr><td> 10 </td><td> Sais perfumados e outras preparações para banhos </td></tr><tr><td> 11 </td><td> Desodorantes (desodorizantes) de ambiente preparados, mesmo não perfumados, com ou sem propriedades desinfetantes </td></tr><tr><td> 12 </td><td> Antiperspirantes ou desodorantes corporais </td></tr><tr><td> 13 </td><td> Produtos de toucador preparados para animais </td></tr><tr><td> 14 </td><td> Fogos de artifício </td><td> 3604 </td></tr><tr><td> 15 </td><td> Armas de guerra (exceto revólveres), sabres, espadas, baionetas, lanças e outras armas brancas, suas partes e bainhas </td><td> 9301 e 9307 </td></tr><tr><td> 16 </td><td> Partes e acessórios de armas das posições 9301 a 9304, exceto de revólveres e pistolas </td><td> 9305 </td></tr><tr><td> 17 </td><td> Consoles e máquinas de jogos de vídeo, artigos para jogos de salão, incluindo os jogos com motor ou outro mecanismo, os bilhares, as mesas especiais para jogos de cassino e os jogos de balizas automáticos </td><td> 9504 </td></tr><tr><td> 18 </td><td> Esquis aquáticos, pranchas de surfe, pranchas a vela e outros equipamentos para a prática de esportes aquáticos </td><td rowspan="4"> 9506 </td></tr><tr><td> 19 </td><td> Tacos, bolas e outros equipamentos para golfe </td></tr><tr><td> 20 </td><td> Raquetes de tênis, mesmo não encordoadas. </td></tr><tr><td> 21 </td><td> Bolas de tênis </td></tr><tr><td> 22 </td><td> Cachimbos (incluídos os seus fornilhos) e piteiras (boquilhas) para charutos e cigarros e suas partes </td><td> 9614 </td></tr></tbody></table>
 
 **ANEXO 5**
 
@@ -1557,25 +1454,31 @@ BIANCA FERREIRA TEIXEIRA
 
 **(alínea "b" do inciso VI do art. 15)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;background:
-  #F2F2F2;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">ITEM</span></strong></p></td><td width="380" style="width:284.95pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">DESCRIÇÃO DO PRODUTO</span></strong></p></td><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">CLASSIFICAÇÃO</span></strong></p><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">NCM</span></strong></p></td></tr><tr><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Gipsita.</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2520.10.1</p></td></tr><tr><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Gesso, diverso daquele compreendido na subposição 2520.20 da NCM</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2520.20.90</p></td></tr><tr><td width="92" style="width:69.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3</p></td><td width="380" style="width:284.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Chapas, placas, painéis, ladrilhos e semelhantes, não ornamentados, à base de gesso</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">6809.1</p></td></tr></tbody></table>
+**ITEM**
+
+**DESCRIÇÃO DO PRODUTO**
+
+**CLASSIFICAÇÃO**
+
+**NCM**
+
+1
+
+Gipsita.
+
+2520.10.1
+
+2
+
+Gesso, diverso daquele compreendido na subposição 2520.20 da NCM
+
+2520.20.90
+
+3
+
+Chapas, placas, painéis, ladrilhos e semelhantes, não ornamentados, à base de gesso
+
+6809.1
 
 ”
 
@@ -1587,55 +1490,67 @@ BIANCA FERREIRA TEIXEIRA
 
 (alínea “a” do inciso I do art. 18)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;background:
-  #F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">ITEM</span></strong></p></td><td width="379" style="width:284.3pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">DESCRIÇÃO DO PRODUTO</span></strong></p></td><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-left:
-  none;background:#F2F2F2;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">CLASSIFICAÇÃO</span></strong></p><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center"><strong><span style="font-weight:normal">NCM</span></strong></p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">1</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tratores rodoviários para semirreboques</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8701.2</p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">2</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Caminhão para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 5 toneladas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.21</p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">3</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Caminhão para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima superior a 5 toneladas, mas não superior a 20 toneladas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.22</p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">4</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Caminhão para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima superior a 20 toneladas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.23</p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">5</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Caminhão para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 5 toneladas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.31</p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">6</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Veículos para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima superior a 5 toneladas</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8704.32</p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">7</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Chassis com motor para os veículos automóveis da posição 8702 da NCM</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8706.00.10</p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Chassis com motor para caminhões</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8706.00.90</p></td></tr><tr style="height:1.15pt"><td width="91" style="width:68.55pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">9</p></td><td width="379" style="width:284.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Automóveis de passageiros com motor de pistão alternativo, de ignição por centelha, de cilindrada não superior a 1000 cm³</p></td><td width="148" style="width:110.7pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center">8703.21.00</p></td></tr></tbody></table>
+**ITEM**
+
+**DESCRIÇÃO DO PRODUTO**
+
+**CLASSIFICAÇÃO**
+
+**NCM**
+
+1
+
+Tratores rodoviários para semirreboques
+
+8701.2
+
+2
+
+Caminhão para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima não superior a 5 toneladas
+
+8704.21
+
+3
+
+Caminhão para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima superior a 5 toneladas, mas não superior a 20 toneladas
+
+8704.22
+
+4
+
+Caminhão para transporte de mercadorias, com motor de pistão, de ignição por compressão (diesel ou semidiesel), de peso em carga máxima superior a 20 toneladas
+
+8704.23
+
+5
+
+Caminhão para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima não superior a 5 toneladas
+
+8704.31
+
+6
+
+Veículos para transporte de mercadorias, com motor de pistão, de ignição por centelha, de peso em carga máxima superior a 5 toneladas
+
+8704.32
+
+7
+
+Chassis com motor para os veículos automóveis da posição 8702 da NCM
+
+8706.00.10
+
+8
+
+Chassis com motor para caminhões
+
+8706.00.90
+
+9
+
+Automóveis de passageiros com motor de pistão alternativo, de ignição por centelha, de cilindrada não superior a 1000 cm³
+
+8703.21.00
 
 ”
 

@@ -1,5 +1,3 @@
-###DEC-075295-0-000-27-01-1975@@@
-
 DECRETO Nº 75.295, DE 27 DE JANEIRO DE 1975.
 
 Amplia a área prioritária, para fins de Reforma Agrária, assim declarada pelo artigo 1º, do Decreto número 67.557, de 12 de novembro de 1970, e prorroga o prazo de intervenção governamental na área ora ampliada.

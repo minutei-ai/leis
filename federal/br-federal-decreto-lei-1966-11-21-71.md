@@ -1,5 +1,3 @@
-###DEL-000071-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 71, DE 21 DE NOVEMBRO DE 1966
 
 Suprime os cargos de Ministro de Assuntos Comerciais do Quadro de Pessoal do Ministério das Relações Exteriores.

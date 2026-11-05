@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cea26d1f-2028-416a-8924-fa6964ef7d78/texto#nowhere)
 
-###DEL-001267-0-000-12-04-1973@@@
-
 # DECRETO-LEI Nº 1.267, DE 12 DE ABRIL DE 1973
 
 Dispõe sobre a “contribuição para análise e fiscalização”, prevista no art. 21, da Lei nº 5.508, de 11 de outubro de 1968, e dá outras providências.

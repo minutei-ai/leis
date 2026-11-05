@@ -1,5 +1,3 @@
-###DEC-057579-0-000-04-01-1966@@@
-
 DECRETO Nº 57.579, DE 4 DE JANEIRO DE 1966.
 
 Revoga o artigo 11 do Regulamento aprovado pelo Decreto nº 49.096, de 10 de outubro de 1960.

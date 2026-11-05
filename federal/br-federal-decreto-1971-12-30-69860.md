@@ -1,5 +1,3 @@
-###DEC-069860-0-000-30-12-1971@@@
-
 Decreto nº 69.860 - de 30 de dezembro de 1971
 
 Aproveita, no Quadro de Pessoal do Ministério da Marinha, servidores em disponibilidade e dá outras providências.

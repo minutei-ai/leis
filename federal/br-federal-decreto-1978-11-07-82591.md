@@ -1,5 +1,3 @@
-###DEC-082591-0-000-07-11-1978@@@
-
 Decreto nº 82.591, de 07 de novembro de 1978.
 
 Concede reconhecimento ao Curso de Bacharelado em Física, ministrado pelo Instituto de São Paulo, com sede em São Carlos, Estado de São Paulo.

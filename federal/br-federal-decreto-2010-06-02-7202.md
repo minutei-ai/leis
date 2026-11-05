@@ -1,5 +1,3 @@
-###DEC-007202-0-000-02-06-2010@@@
-
 DECRETO Nº 7.202, DE 2 DE JUNHO DE 2010.
 
 Dispõe sobre a criação da Embaixada do Brasil em Honiara, nas Ilhas Salomão, cumulativa com a Embaixada em Camberra.

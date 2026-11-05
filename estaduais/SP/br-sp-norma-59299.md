@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59299)
-
 # LEI Nº 12.143, DE 08 DE DEZEMBRO DE 2005
 
 ## ( PL 1159/2003 - Maria Lúcia Amary)

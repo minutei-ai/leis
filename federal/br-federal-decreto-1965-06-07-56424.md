@@ -1,5 +1,3 @@
-###DEC-056424-0-000-07-06-1965@@@
-
 DECRETO Nº 56.424, DE 7 DE JUNHO DE 1965.
 
 Concede à Companhia Adriática de Seguros autorização para aumentar o capital destinado às sua operações de seguros no Brasil.

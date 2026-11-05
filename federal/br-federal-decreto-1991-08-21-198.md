@@ -1,5 +1,3 @@
-###DEC-000198-0-000-21-08-1991@@@
-
 DECRETO Nº 198, DE 21 DE AGOSTO DE 1991
 
 Aprova o Regimento Interno da Comissão Executiva de Licitação de Serviços de Publicidade.

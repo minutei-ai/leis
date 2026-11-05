@@ -1,5 +1,3 @@
-###DEL-004207-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.207 – DE 27 DE MARÇO DE 1942
 
 Abre ao Ministério das Relações Exteriores um crédito especial de réis 350:000$0 para atender às despesas com a Missão Especial que vai ao Chile

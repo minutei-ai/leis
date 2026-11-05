@@ -1,5 +1,3 @@
-###DEC-085525-0-000-16-12-1980@@@
-
 Decreto nº 85.525, de 16 de dezembro de 1980.
 
 Aprova alterações introduzidas no Estatuto da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

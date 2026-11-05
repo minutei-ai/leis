@@ -1,5 +1,3 @@
-###MPV-002082-0-039-27-12-2000@@@
-
 medida provisória nº 2.082-39, de 27 de dezembro de 2000.
 
 Dispõe sobre a instituição de sociedade de crédito ao microempreendedor, altera dispositivos das Leis nos 6.404, de 15 de dezembro de 1976, 8.029, de 12 de abril de 1990, e 8.934, de 18 de novembro de 1994, e dá outras providências.

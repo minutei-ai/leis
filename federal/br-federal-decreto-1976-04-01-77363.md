@@ -1,5 +1,3 @@
-###DEC-077363-0-000-01-04-1976@@@
-
 DECRETO Nº 77.363 - DE 1º DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Ciências Sociais, do Centro de Ciências Humanas, Letras e Artes da Universidade Federal do Rio Grande do Norte.

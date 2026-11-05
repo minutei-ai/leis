@@ -1,5 +1,3 @@
-###DEL-000093-0-000-21-12-1937@@@
-
 DECRETO-LEI N. 93 – DE 21 DE DEZEMBRO DE 1937
 
 Crêa o Instituto Nacional do Livro

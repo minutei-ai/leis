@@ -1,5 +1,3 @@
-###DEC-062422-0-000-18-03-1968@@@
-
 DECRETO Nº 62.422, DE 18 DE MARÇO DE 1968.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Fazenda, cargos oriundos do extinto Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076583-0-000-10-11-1975@@@
-
 DECRETO Nº 76.583, DE 10 DE NOVEMBRO DE 1975.
 
 Autoriza estrangeiro a adquirir direitos sobre o terreno que menciona.

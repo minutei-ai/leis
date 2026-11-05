@@ -1,5 +1,3 @@
-###DEC-088269-0-000-02-05-1983@@@
-
 Decreto nº 88.269, de 02 de maio de 1983
 
 Retifica o Decreto nº 84 858, de 01 de julho de 1980 que concedeu autorização de funcionamento do curso de Psicologia da Sociedade Civil Colégio Moderno, no Estado do Pará.

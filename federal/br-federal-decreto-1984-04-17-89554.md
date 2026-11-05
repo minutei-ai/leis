@@ -1,5 +1,3 @@
-###DEC-089554-0-000-17-04-1984@@@
-
 Decreto nº 89.554, de 17 de abril de 1984
 
 Dispõe sobre o Departamento de Ensino da Aeronáutica e dá outras providências.

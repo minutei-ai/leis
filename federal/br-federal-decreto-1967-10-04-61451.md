@@ -1,5 +1,3 @@
-###DEC-061451-0-000-04-10-1967@@@
-
 DECRETO Nº 61.451, DE 4 DE OUTUBRO DE 1967.
 
 Autoriza a Companhia Sul Mineira de Eletricidade a construir linha de transmissão.

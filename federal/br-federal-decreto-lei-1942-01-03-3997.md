@@ -1,5 +1,3 @@
-###DEL-003997-0-000-03-01-1942@@@
-
 DECRETO-LEI N. 3.997 – DE 3 DE JANEIRO DE 1942
 
 Revoga o art. 1º do decreto n. 24.766, de 1934, e dá outras providências

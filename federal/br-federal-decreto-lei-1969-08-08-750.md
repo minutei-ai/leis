@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/842157a8-96ec-498b-a379-af399f8bce42/texto#nowhere)
 
-###DEL-000750-0-000-08-08-1969@@@
-
 decreto-LEI Nº 750, de 8 de agôsto de 1969
 
 Provê sôbre a transformação da Universidade Federal Rural do Rio Grande do Sul na Universidade Federal de Pelotas (UFPEL), e dá outras providências.

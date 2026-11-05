@@ -1,5 +1,3 @@
-###DEC-070661-0-000-30-05-1972@@@
-
 DECRETO Nº 70.661, DE 30 DE MAIO DE 1972.
 
 Regulamenta o parágrafo único do art. da Lei nº 5.692 de 11 de agosto de 1971, que dispõe sobre o ensino de 1º e 2º graus.

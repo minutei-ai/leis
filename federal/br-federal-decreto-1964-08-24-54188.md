@@ -1,5 +1,3 @@
-###DEC-054188-0-000-24-08-1964@@@
-
 DECRETO Nº 54.188, DE 24 DE AGÔSTO DE 1964.
 
 Institui a Semana Nacional da Criança Excepcional.

@@ -1,5 +1,3 @@
-###DEC-072175-0-000-07-05-1973@@@
-
 DECRETO Nº 72.175, DE 7 DE MAIO DE 1973.
 
 Concede reconhecimento ao curso de Administração de Empresas da Faculdade de Administração e Estatística, mantida pela Instituição Educacional "Pais de Barros" concede na cidade de São Paulo, Estado de São Paulo.

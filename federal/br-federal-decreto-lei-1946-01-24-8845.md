@@ -1,5 +1,3 @@
-###DEL-008845-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.845 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre o aumento de salário dos contratados

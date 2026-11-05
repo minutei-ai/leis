@@ -1,5 +1,3 @@
-###DEC-048818-0-000-12-08-1960@@@
-
 DECRETO Nº 48.818, DE 12 DE AGôSTO DE 1960.
 
 Restringe a zona de concessão da Rio Light S.A. - Serviços de Eletricidade e Carris, no Estado do Rio de Janeiro, amplia a do Govêrno Estadual, e dá outras providências.

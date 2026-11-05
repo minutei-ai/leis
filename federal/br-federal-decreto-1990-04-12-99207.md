@@ -1,7 +1,3 @@
-1
-
-###DEC-099207-0-000-12-04-1990@@@
-
 DECRETO N° 99.207, DE 12 DE ABRIL DE 1990
 
 Dispõe sobre a composição do Conselho Monetário Nacional (CMN) e dá outras providencias.

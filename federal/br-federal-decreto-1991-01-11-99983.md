@@ -1,7 +1,3 @@
-1
-
-###DEC-099983-0-000-11-01-1991@@@
-
 # DECRETO Nº 99.983, DE 11 DE JANEIRO DE 1991.
 
 Declara de utilidade pública, para fins de instituição de servidão administrativa em favor da Empresa de Energia Elétrica de Mato Grosso do Sul - ENERSUL, as áreas de terra que menciona.

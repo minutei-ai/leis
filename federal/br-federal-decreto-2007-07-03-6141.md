@@ -1,5 +1,3 @@
-###DEC-006141-0-000-03-07-2007@@@
-
 DECRETO Nº 6.141, DE 3 DE JULHO DE 2007.
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República do Sudão, celebrado em Brasília, em 11 de maio de 2005.
@@ -24,11 +22,7 @@ Brasília, 3 de julho de 2007; 186º da Independência e 119º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Ruy Nunes Pinto Nogueira
-
-Este texto não substitui o publicado no DOU de 4.7.2007
-
-ACORDO DE COOPERAÇÃO TÉCNICA ENTRE O GOVERNO DA REPÚBLICA
+Ruy Nunes Pinto NogueiraACORDO DE COOPERAÇÃO TÉCNICA ENTRE O GOVERNO DA REPÚBLICA
 
 FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO SUDÃO
 

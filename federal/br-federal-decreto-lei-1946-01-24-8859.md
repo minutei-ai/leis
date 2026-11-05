@@ -1,5 +1,3 @@
-###DEL-008859-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.859 – DE 24 DE JANEIRO DE 1946
 
 Abre o crédito suplementar ao Ministério da Viação e Obras  Públicas, à verba. que especifica.

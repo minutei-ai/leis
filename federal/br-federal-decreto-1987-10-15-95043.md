@@ -1,5 +1,3 @@
-###DEC-095043-0-000-15-10-1987@@@
-
 DECRETO Nº 95.043, DE 15 DE OUTUBRO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Ciências e Informática.

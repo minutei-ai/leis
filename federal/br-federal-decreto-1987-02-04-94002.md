@@ -1,5 +1,3 @@
-###DEC-094002-0-000-04-02-1987@@@
-
 DECRETO Nº 94.002, DE 04 DE FEVEREIRO DE 1987
 
 Dispõe sobre a concessão de obra pública, para construção, conservação e exploração de rodovias e obras rodoviárias federais, e dá outras providências.

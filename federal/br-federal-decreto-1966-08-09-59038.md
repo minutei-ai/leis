@@ -1,5 +1,3 @@
-###DEC-059038-0-000-09-08-1966@@@
-
 DECRETO Nº 59.038, de 9 de agôsto de 1966.
 
 Suspende o funcionamento da Associação dos Vigilantes Portuários do Brasil.

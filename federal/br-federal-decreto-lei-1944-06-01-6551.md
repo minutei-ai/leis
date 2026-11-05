@@ -1,5 +1,3 @@
-###DEL-006551-0-000-01-06-1944@@@
-
 DECRETO-LEI N. 6.551 – DE 1 DE JUNHO DE 1944
 
 Abre ao Ministério do Trabalho, Industria e Comércio o crédito especial de Cr$ 3.517.485,30 para indenização às instituições que menciona

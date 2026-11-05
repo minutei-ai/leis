@@ -1,5 +1,3 @@
-###DEC-048952-0-000-16-09-1960@@@
-
 DECRETO Nº 48.952, DE 16 DE setembro DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 35.551, de 24-5-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas da área de terreno necessária à construção do açude público SUMÉ, no Município de Sumé, Estado da Paraíba.

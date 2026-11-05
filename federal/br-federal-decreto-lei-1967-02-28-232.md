@@ -1,5 +1,3 @@
-###DEL-000232-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 232, DE 28 DE FEVEREIRO DE 1967
 
 Faz doação à Academia Brasileira de Letras do imóvel situado na avenida Presidente Wilson nº 231, no Estado da Guanabara.

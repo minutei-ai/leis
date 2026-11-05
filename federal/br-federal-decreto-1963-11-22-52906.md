@@ -1,5 +1,3 @@
-###DEC-052906-0-000-22-11-1963@@@
-
 Decreto nº 52.906, de 22 de novembro de 1963.
 
 Declara de utilidade pública a Sociedade de Literatura e Beneficência, com sede em Santo Angelo, Estado do Rio Grande do Sul.

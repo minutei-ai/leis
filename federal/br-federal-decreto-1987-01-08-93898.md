@@ -1,5 +1,3 @@
-###DEC-093898-0-000-08-01-1987@@@
-
 # DECRETO Nº 93.898, DE 08 DE JANEIRO DE 1987
 
 Renova a concessão outorgada à RÁDIO DIFUSORA CARDEAL ARCOVERDE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Arcoverde, Estado de Pernambuco.

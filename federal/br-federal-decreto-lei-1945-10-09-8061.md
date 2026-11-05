@@ -1,5 +1,3 @@
-###DEL-008061-0-000-09-10-1945@@@
-
 DECRETO-LEI N. 8.061 – DE 9 DE OUTUBRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 16.000,00 à verba que especifica

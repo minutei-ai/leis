@@ -1,5 +1,3 @@
-###DEC-060675-0-000-03-05-1967@@@
-
 DECRETO Nº 60.675, DE 3 DE MAIO DE 1967.
 
 Concede incorporação do Instituto de Belas Artes de Goiás à Universidade Federal de Goiás.

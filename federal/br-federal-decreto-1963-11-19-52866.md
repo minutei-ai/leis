@@ -1,5 +1,3 @@
-###DEC-052866-0-000-19-11-1963@@@
-
 DECRETO Nº 52.866, DE 19 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia Hidro-Elétrica do São Francisco a constituir penhor industrial a favor do Banco Nacional do Desenvolvimento Econômico.
@@ -21,8 +19,6 @@ Brasília, 19 de novembro de 1963, 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-052866-0-000-19-11-1963@@@RET01+++
 
 decreto nº 52.866, de 19 de novembro de 1963.
 

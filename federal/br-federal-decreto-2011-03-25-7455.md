@@ -1,5 +1,3 @@
-###DEC-007455-0-000-25-03-2011-PUB-01@@@
-
 DECRETO Nº7.455, DE 25 DE MARÇO DE 2011
 
 Altera o Decreto nº 6.707, de 23 de dezembro de 2008, que dispõe sobre a incidência do IPI, da Contribuição para o PIS/PASEP e da COFINS sobre produtos dos Capítulos 21 e 22 da TIPI, e o Decreto nºo 5.062, de 30 de abril de 2004, que dispõe sobre o coeficiente para redução das alíquotas específicas da Contribuição para o PIS/PASEP e da COFINS de que  tratam os arts. 51 e 52 da Lei nº 10.833, de 29 de dezembro de 2003.

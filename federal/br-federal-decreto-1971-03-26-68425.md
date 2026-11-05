@@ -1,5 +1,3 @@
-###DEC-068425-0-000-26-03-1971@@@
-
 DECRETO Nº 68.425, DE 26 DE MARÇO DE 1971.
 
 Dispõe sobre aproveitamento de pessoal dos extintos Territórios Federais de Ponta Porã e de Iguaçu.

@@ -1,5 +1,3 @@
-###MPV-002084-0-070-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.084-70, DE 27 DE DEZEMBRO DE 2000.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-079853-0-000-23-06-1977@@@
-
 DECRETO Nº 79.853, DE 23 DE junho DE 1977.
 
 Concede reconhecimento ao curso de Educação Física, da Universidade Católica de Salvador, com sede na cidade de Salvador, Estado da Bahia.

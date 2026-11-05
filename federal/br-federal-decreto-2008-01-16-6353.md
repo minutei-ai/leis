@@ -1,5 +1,3 @@
-###DEC-006353-0-000-16-01-2008@@@
-
 DECRETO Nº 6.353, DE 16 DE JANEIRO DE 2008.
 
 Regulamenta a contratação de energia de reserva de que trata o § 3o do art. 3o e o art. 3o-A da Lei no 10.848, de 15 de março de 2004, altera o art. 44 do Decreto no 5.163, de 30 de junho de 2004, e o art. 2o do Decreto no 5.177, de 12 de agosto de 2004, e dá outras providências.
@@ -103,5 +101,3 @@ Brasília, 16 de janeiro de 2008; 187º da Independência e 120º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson José Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 17.1.2008

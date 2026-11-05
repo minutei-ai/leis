@@ -1,5 +1,3 @@
-###DEC-047090-0-000-23-10-1959@@@
-
 DECRETO Nº 47.090, DE 23 DE OUTUBRO DE 1959.
 
 Altera a letra “c” do número 9) do art. 2º do Regulamento da Diretoria do Pessoal da Ativa (R-157), aprovado pelo Decreto nº 46.681, de 18 de agôsto de 1959.

@@ -1,5 +1,3 @@
-###DEL-003602-0-000-09-09-1941@@@
-
 DECRETO-LEI N. 3.602 – DE 9 DE SETEMBRO DE 1941
 
 Dispõe sobre a contagem dos prazos em processos ou causas de natureza fiscal ou administrativa

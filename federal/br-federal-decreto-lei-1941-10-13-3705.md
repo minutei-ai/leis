@@ -1,5 +1,3 @@
-###DEL-003705-0-000-13-10-1941@@@
-
 DECRETO-LEI N. 3.705 – DE 13 DE OUTUBRO DE 1941
 
 Altera tabelas explicativas que acompanham o decreto-lei nº 3.150, de 26 de março de 1941

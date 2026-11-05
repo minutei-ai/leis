@@ -1,5 +1,3 @@
-###DEC-001823-0-000-29-02-1996@@@
-
 DECRETO Nº 1.823, DE 29 DE FEVEREIRO DE 1996
 
 Transfere ao Ministério da Previdência e Assistência Social competência para análise e aprovação das prestações de contas de processos oriundos da extinta Fundação Legião Brasileira de Assistência e dá outras providências.

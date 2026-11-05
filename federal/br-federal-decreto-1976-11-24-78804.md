@@ -1,5 +1,3 @@
-###DEC-078804-0-000-24-11-1976@@@
-
 DECRETO Nº 78.804, DE 24 DE NOVEMBRO DE 1976.
 
 Concede à Mineração São Braz S.A. o direito de lavrar minério de chumbo no Município de Adrianópolis, Estado do Paraná.

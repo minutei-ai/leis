@@ -1,5 +1,3 @@
-###MPV-001943-0-047-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.943-47, DE 9 DE DEZEMBRO DE 1999.
 
 Altera a legislação do imposto de renda e a outras providência.

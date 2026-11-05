@@ -94,7 +94,25 @@ V - nenhum ônus financeiro será atribuído aos contribuintes relativamente aos
 
 VI - os itens 16 e 17 ao [anexo I](https://www.legislabahia.ba.gov.br/documentos/lei-no-4825-de-27-de-janeiro-de-1989#LO_4_825_ANEXO_I_) :
 
-<table style="margin-left: 31.85pt; border-collapse: collapse;" width="529" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 48.85pt; border: 1pt solid windowtext; padding: 0cm 3.5pt;" valign="top" width="65"><p class="Tabela-Texto">ITEM</p></td><td style="width: 156.7pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="209"><p class="Tabela-Texto">MERCADORIA/PRODUTO</p></td><td style="width: 191.35pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p class="Tabela-Texto"><span>&nbsp;&nbsp;&nbsp; </span>PERCENTUAIS</p><p class="Tabela-Texto">NA INDÚSTRIA E NO ATACADO</p></td></tr><tr><td style="width: 48.85pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="65"><p class="Tabela-Texto"><span>&nbsp;&nbsp;&nbsp; </span>16</p></td><td style="width: 156.7pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="209"><p class="Tabela-Texto">Pneumáticos, câmaras de ar e protetores de borrachas, classificados nos códigos 4011, 4012, 90.0000 e 4013 da NBM/SH...............................</p></td><td style="width: 191.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="255"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">50<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>50</p></td></tr><tr><td style="width: 48.85pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="65"><p class="Tabela-Texto"><span>&nbsp;&nbsp;&nbsp; </span>17</p></td><td style="width: 156.7pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="209"><p class="Tabela-Texto">medicamentos inclusive derivados de plantas medicinais, soros, vacinas, absorventes higiênicos, fraldas,algodão, gazes, esparadrapos, ataduras, mamadeiras, preservativos, seringas, escovas e pastas dentifrícias..............................</p></td><td style="width: 191.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="255"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">42,85<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>42,85</p></td></tr></tbody></table>
+ITEM
+
+MERCADORIA/PRODUTO
+
+PERCENTUAIS
+
+NA INDÚSTRIA E NO ATACADO
+
+16
+
+Pneumáticos, câmaras de ar e protetores de borrachas, classificados nos códigos 4011, 4012, 90.0000 e 4013 da NBM/SH...............................
+
+50                     50
+
+17
+
+medicamentos inclusive derivados de plantas medicinais, soros, vacinas, absorventes higiênicos, fraldas,algodão, gazes, esparadrapos, ataduras, mamadeiras, preservativos, seringas, escovas e pastas dentifrícias..............................
+
+42,85                  42,85
 
 Art. 3º - O [parágrafo único do art. 12, da Lei nº 4.825, de 27 de janeiro de 1989](https://www.legislabahia.ba.gov.br/documentos/lei-no-4825-de-27-de-janeiro-de-1989#LO_4_825_Art__12_P__1) , passa a constituir o seu § 1º, acrescentando-se-lhe o seguinte parágrafo:
 

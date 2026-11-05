@@ -1,7 +1,3 @@
-1
-
-###DEC-097680-0-000-20-04-1989@@@
-
 DECRETO Nº 97.680, DE 20 DE ABRIL DE 1989
 
 Revoga o § 2° do art. 4º do Decreto n° 91.952, de 19 de novembro de 1985, e dá outras providências.

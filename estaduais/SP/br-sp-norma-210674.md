@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210674)<br>
-
 # DECRETO N° 69.387, DE 26 DE FEVEREIRO DE 2025
 
 ### _Autoriza a outorga de uso, à Associação dos Amigos dos Animais de Nova Odessa - AAANO, de parte do imóvel que especifica, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-003074-0-000-31-05-1999@@@
-
 DECRETO Nº 3.074, DE 31 DE MAIO DE 1999.
 
 Dá nova redação ao art. 6º do Decreto nº 2.848, de 25 de novembro de 1998, que dispõe sobre a Ordem Nacional do Mérito Científico.

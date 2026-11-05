@@ -1,5 +1,3 @@
-###DEL-007083-0-000-27-11-1944@@@
-
 DECRETO-LEI N. 7.083 – DE 27 DE NOVEMBRO DE 1944
 
 Dá nova redação ao art. 1O6 e respectivos parágrafos do Decreto-lei número 5.893, de 19 de outubro de 1943

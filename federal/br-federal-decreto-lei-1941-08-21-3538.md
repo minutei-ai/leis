@@ -1,5 +1,3 @@
-###DEL-003538-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.538 – DE 21 DE AGOSTO DE 1941
 
 Concede a Mamede Jordão da Silva Vargas a pensão deixada por seu filho Arí Vargas, soldado do Exército

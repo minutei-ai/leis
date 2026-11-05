@@ -1,5 +1,3 @@
-###DEC-073989-0-000-26-04-1974@@@
-
 DECRETO Nº 73.989, DE 26 DE ABRIL DE 1974.
 
 Concede autorização à Companhia Dowell Schlumberger Corporation, para executar trabalhos de estimulação e cimentação de poços dos campos submarinos na plataforma continental, a serviço da Petróleo Brasileiro S.A., PETROBRÁS.

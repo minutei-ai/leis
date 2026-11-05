@@ -1,7 +1,3 @@
-1
-
-###DEC-001171-0-000-22-06-1994@@@
-
 DECRETO N° 1.171, DE 22 DE JUNHO DE 1994
 
 Aprova o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal.

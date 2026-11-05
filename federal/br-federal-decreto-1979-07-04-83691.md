@@ -1,5 +1,3 @@
-###DEC-083691-0-000-04-07-1979@@@
-
 Decreto nº 83.691, de 04 de julho de 1979
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação dos terrenos que menciona, situados no Município de Itabaiana, Estado da Paraíba.

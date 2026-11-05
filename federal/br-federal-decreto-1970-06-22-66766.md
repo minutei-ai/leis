@@ -1,5 +1,3 @@
-###DEC-066766-0-000-22-06-1970@@@
-
 Decreto nº 66.766 - de 22 de junho de 1970
 
 Suspende o trabalho no dia 23 de junho de 1970, em todo o território nacional.

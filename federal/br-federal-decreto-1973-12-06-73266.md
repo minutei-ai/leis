@@ -1,5 +1,3 @@
-###DEC-073266-0-000-06-12-1973@@@
-
 DECRETO Nº 73.266 - DE 6 DE DEZEMBRO DE 1973
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de uma área de terreno de 160.188,6884 m2, localizada nas imediações da cidade de Manaus, Estado do Amazonas.

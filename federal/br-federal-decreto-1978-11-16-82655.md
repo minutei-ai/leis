@@ -1,5 +1,3 @@
-###DEC-082655-0-000-16-11-1978@@@
-
 Decreto nº 82.655, de 16 de novembro de 1978.
 
 Declara de utilidade pública para fins de desapropriação, o terreno que menciona, situado no Município de São José dos Campos, no Estado de São Paulo, necessário ao Ministério da Aeronáutica.

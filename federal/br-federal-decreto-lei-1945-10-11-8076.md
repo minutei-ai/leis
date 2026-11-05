@@ -1,5 +1,3 @@
-###DEL-008076-0-000-11-10-1945@@@
-
 DECRETO-LEI N. 8.076 – DE 11 DE OUTUBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar o Instituto Hahnemaniano do Brasil dos emolumentos que menciona.

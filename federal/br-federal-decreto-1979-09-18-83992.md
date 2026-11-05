@@ -1,5 +1,3 @@
-###DEC-083992-0-000-18-09-1979@@@
-
 Decreto nº 83.992 de 18 de setembro de 1979
 
 Dispõe sobre a revisão de preços em contratos de obras ou serviços a cargo do Governo Federal, de que trata o Decreto-lei nº 185, de 23 de fevereiro de 1967, e dá outras providências.

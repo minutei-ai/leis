@@ -1,5 +1,3 @@
-###MPV-002139-0-066-24-05-2001@@@
-
 MEDIDA  PROVISÓRIA Nº 2.139‑66, DE 24 DE MAIO DE 2001.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

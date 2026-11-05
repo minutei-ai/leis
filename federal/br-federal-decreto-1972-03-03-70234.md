@@ -1,5 +1,3 @@
-###DEC-070234-0-000-03-03-1972@@@
-
 DECRETO Nº 70.234, DE 3 DE MARÇO DE 1972.
 
 Declara de utilidade pública para efeito de desapropriação, os imóveis constitutivos da área que menciona, no Município de Santos, Estado de São Paulo, e dá outras providências.
@@ -33,8 +31,6 @@ Brasília, 3 de março de 1972, 151º da Independência e 84º da República.
 Emílio G. Médici
 
 Mario David Andreazza
-
-###DEC-070234-0-000-03-03-1972@@@
 
 DECRETO Nº 70.234, DE 3 DE MARÇO DE 1972.
 

@@ -1,5 +1,3 @@
-###DEC-075481-0-000-17-03-1975@@@
-
 DECRETO Nº 75.481, DE 17 DE MARÇO DE 1975.
 
 Declara de utilidade pública e interesse social área de terra abrangida pelo Projeto de Irrigação "Banabuiu-Morada Nova", nos Municípios de Quixadá, Morada Nova e Limoeiro do Norte, Estado do Ceará.

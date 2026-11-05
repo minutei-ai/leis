@@ -122,4 +122,32 @@ ANEXO ÚNICO
 
 QUADRO DE CARGOS EM COMISSÃO DA ASSESSORIA ESPECIAL DA SECRETARIA EXECUTIVA DO CONSELHO DE DESENVOLVIMENTO ECONÔMICO E SOCIAL ? CODES, VINCULADO À SECRETARIA DE RELAÇÕES INSTITUCIONAIS
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 194.4pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="259"><p class="Tabela-Texto">CARGO</p></td><td style="width: 90.0pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">SÍMBOLO</p></td><td style="width: 112.4pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="150"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 194.4pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="259"><p class="Tabela-Texto">COORDENADOR EXECUTIVO</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-2B</p></td><td style="width: 112.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="150"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.4pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="259"><p class="Tabela-Texto">ASSESSOR ESPECIAL</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 112.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="150"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 194.4pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="259"><p class="Tabela-Texto">ASSESSOR TÉCNICO</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 112.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="150"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.4pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="259"><p class="Tabela-Texto">COORDENADOR III</p></td><td style="width: 90.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="120"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 112.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="150"><p class="Tabela-Texto">04</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+COORDENADOR EXECUTIVO
+
+DAS-2B
+
+01
+
+ASSESSOR ESPECIAL
+
+DAS-2C
+
+02
+
+ASSESSOR TÉCNICO
+
+DAS-3
+
+01
+
+COORDENADOR III
+
+DAI-4
+
+04

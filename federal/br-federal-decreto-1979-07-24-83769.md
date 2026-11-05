@@ -1,5 +1,3 @@
-###DEC-083769-0-000-24-07-1979@@@
-
 Decreto nº 83.769, de 24 de julho de 1979.
 
 Autoriza a cessão , sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Paranaguá, Estado do Paraná.

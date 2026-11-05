@@ -1,5 +1,3 @@
-###DEC-089258-0-000-28-12-1983@@@
-
 Decreto nº 89.258, de 28 de dezembro de 1983
 
 Declara de ocupação dos silvícolas área de terras, no Município de Ponta Porã, no Estado de Mato Grosso do Sul, e dá outras providências.

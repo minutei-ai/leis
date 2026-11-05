@@ -1,5 +1,3 @@
-###DEC-078921-0-000-07-12-1976@@@
-
 DECRETO Nº 78.921, DE 7 DE DEZEMBRO DE 1976.
 
 Altera o Decreto nº 70.568 de 18 de maio de 1972, que criou o Conselho Nacional de Comunicações-- CNC.

@@ -1,14 +1,12 @@
-###DEC-037546-0-000-30-06-1955@@@
+**DECRETO Nº 37.546, DE 30 DE JUNHO DE 1955.**
 
-<strong>DECRETO Nº 37.546, DE 30 DE JUNHO DE 1955.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário mensalista, do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário mensalista, do Ministério da Aeronáutica, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário mensalista abaixo indicadas:
 
 I - uma função de Trabalhador, ref. 15, ocupada por Apolonio Bernardo de Oliveira, da Tabela do Quartel General da 2º Zona Aérea para a da Base Aérea de Santa Cruz, aprovadas, respectivamente, pelos Decretos ns. 32.875, de 27 de maio de 1953, e 32.940, de 3 de junho de 1953;
 
@@ -20,6 +18,6 @@ IV - uma função de Artífice, referência 20, ocupada por Adelberto Pereira de
 
 Rio de Janeiro, 30 de junho de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

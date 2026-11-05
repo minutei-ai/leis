@@ -1,5 +1,3 @@
-###DEL-001748-0-000-28-12-1979@@@
-
 # decreto-lei nº 1.748, de 28 de dezembro de 1979
 
 Dispõe sobre o valor da contribuição para a Pensão Militar.

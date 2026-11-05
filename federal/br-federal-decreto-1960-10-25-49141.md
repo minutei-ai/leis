@@ -1,5 +1,3 @@
-###DEC-049141-0-000-25-10-1960@@@
-
 DECRETO Nº 49.141, DE 25 DE OUTUBRO DE 1960.
 
 Dispõe sôbre apresentação de resumo de atividade dos Ministérios, e dos órgãos subordinados à Presidência da República.

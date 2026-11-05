@@ -1,5 +1,3 @@
-###DEC-082930-0-000-21-12-1978@@@
-
 Decreto nº 82.930, de 21 de dezembro de 1978.
 
 Concede à Ferreira, Fernandes & Cia. o direito de lavrar argila no Município de Satuba, Estado de Alagoas.

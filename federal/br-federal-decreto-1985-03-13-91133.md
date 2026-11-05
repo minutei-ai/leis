@@ -1,5 +1,3 @@
-###DEC-091133-0-000-13-03-1985@@@
-
 DecREtO nº 91.133, de 13 de março dE 1985
 
 Outorga concessão à REDE TOCANTINS DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Porto Nacional, Estado de Goiás.

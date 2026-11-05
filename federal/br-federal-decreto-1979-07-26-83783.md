@@ -1,5 +1,3 @@
-###DEC-083783-0-000-26-07-1979@@@
-
 decreto nº 83.783, de 26 de julho de 1979.
 
 Dispõe sobre a reversão à Comissão Nacional de Energia Nuclear - CNEN, do Instituto de Radioproteção e Dosimetria - IRD e do Instituto de Engenharia Nuclear - IEN, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083903-0-000-27-08-1979@@@
-
 Decreto n 83.903 de 27 de agosto de 1979
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo das Faculdades Integradas Isabela Hendrix, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

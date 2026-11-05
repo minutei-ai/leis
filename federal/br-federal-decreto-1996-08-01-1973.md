@@ -1,5 +1,3 @@
-###DEC-001973-0-000-01-08-1996@@@
-
 DECRETO Nº 1.973, DE 1º DE AGOSTO DE 1996.
 
 Promulga a Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher, concluída em Belém do Pará, em 9 de junho de 1994.

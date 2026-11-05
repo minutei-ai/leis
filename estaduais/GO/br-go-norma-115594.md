@@ -4,7 +4,8 @@ Portaria Orçamentária nº 203/2026 - Economia
 
 **RESOLVE:**
 
-Art. 1º Ficam abertos à AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA, SECRETARIA DE ESTADO DA INFRAESTRUTURA, créditos suplementares no valor global de R$ 21.546.032,90 (vinte e um milhões quinhentos e quarenta e seis mil trinta e dois reais e noventa centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Ficam abertos à AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA, SECRETARIA DE ESTADO DA INFRAESTRUTURA, créditos suplementares no valor global de R$ 21.546.032,90 (vinte e um milhões quinhentos e quarenta e seis mil trinta e dois reais e noventa centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19135). 
 
 Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
@@ -19,32 +20,296 @@ RENATA LACERDA NOLETO
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px; padding:.73px .73px .73px .73px; height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px; padding:.73px .73px .73px .73px;   "><b>4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA</b><br>4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>AÇÃO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>FONTE</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>GRUPO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">CONSTRUÇÃO DE OBRAS DE ARTE ESPECIAIS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">26 782 1055 3324</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15000100</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">4 - INVESTIMENTOS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 4.200.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 2.046.032,90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 6.246.032,90</td></tr></tbody></table>
+**4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA**
+4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px; padding:.73px .73px .73px .73px; height:19px;   "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>AÇÃO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>FONTE</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>GRUPO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">26 781 1055 2537</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15010100</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">4 - INVESTIMENTOS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 14.914.727,49</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 3.200.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 18.114.727,49</td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">26 782 1055 2538</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15010100</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 0,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 10.000.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 10.000.000,00</td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">MONITORAMENTO DE FAIXAS DE ROLAMENTO - GOINFRA - GOIÁS EM MOVIMENTO</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">26 782 1055 2540</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">17520125</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 478.811,75</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 6.300.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 6.778.811,75</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px; padding:.73px .73px .73px .73px; height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px; padding:.73px .73px .73px .73px; height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px; padding:.73px .73px .73px .73px; height:19px;   ">R$ 2.046.032,90</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 13.200.000,00</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   ">17520125 - RECURSOS VINCULADOS AO TRÂNSITO</td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 6.300.000,00</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 21.546.032,90</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO DE OBRAS DE ARTE ESPECIAIS
+
+26 782 1055 3324
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 4.200.000,00
+
+R$ 2.046.032,90
+
+R$ 6.246.032,90
+
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO
+
+26 781 1055 2537
+
+15010100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 14.914.727,49
+
+R$ 3.200.000,00
+
+R$ 18.114.727,49
+
+MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2538
+
+15010100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000.000,00
+
+R$ 10.000.000,00
+
+MONITORAMENTO DE FAIXAS DE ROLAMENTO - GOINFRA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2540
+
+17520125
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 478.811,75
+
+R$ 6.300.000,00
+
+R$ 6.778.811,75
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.046.032,90
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 13.200.000,00
+
+17520125 - RECURSOS VINCULADOS AO TRÂNSITO
+
+R$ 6.300.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 21.546.032,90
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px; padding:.73px .73px .73px .73px; height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px; padding:.73px .73px .73px .73px;   "><b>4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA</b><br>4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>AÇÃO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>FONTE</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>GRUPO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">MANUTENÇÃO E RECUPERAÇÃO DE OBRAS DE ARTE ESPECIAIS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">26 782 1055 2539</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15000100</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 119.008,43</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 119.008,43</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 119.008,43</td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15 451 1055 3351</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15000100</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">4 - INVESTIMENTOS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 1.027.024,47</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 827.024,47</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 827.024,47</td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE EDIFICAÇÕES PÚBLICAS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15 451 1055 3350</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15000100</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">4 - INVESTIMENTOS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 1.000.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 200.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 200.000,00</td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">ELABORAÇÃO DE PROJETOS DE ANEL VIÁRIO NOS MUNICÍPIOS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15 451 1055 3376</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15000100</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">4 - INVESTIMENTOS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 900.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 900.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 900.000,00</td></tr></tbody></table>
+**4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA**
+4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px; padding:.73px .73px .73px .73px; height:19px;   "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>AÇÃO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>FONTE</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>GRUPO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px; padding:.73px .73px .73px .73px; height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">26 782 1055 2538</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">17520125</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">4 - INVESTIMENTOS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 23.185.550,66</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 6.300.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 6.300.000,00</td></tr><tr><td style=" width:85px; padding:.73px .73px .73px .73px;   ">MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">26 782 1055 2538</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">15010100</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">90</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">4 - INVESTIMENTOS</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 90.532.565,49</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 13.200.000,00</td><td style=" width:85px; padding:.73px .73px .73px .73px;   ">R$ 13.200.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px; padding:.73px .73px .73px .73px; height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px; padding:.73px .73px .73px .73px; height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px; padding:.73px .73px .73px .73px; height:19px;   ">R$ 2.046.032,90</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 13.200.000,00</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   ">17520125 - RECURSOS VINCULADOS AO TRÂNSITO</td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 6.300.000,00</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   "><b>TOTAL</b></td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 21.546.032,90</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px; padding:.73px .73px .73px .73px; height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px; padding:.73px .73px .73px .73px; height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px; padding:.73px .73px .73px .73px; height:19px;   ">R$ 2.046.032,90</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 13.200.000,00</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   ">17520125 - RECURSOS VINCULADOS AO TRÂNSITO</td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 6.300.000,00</td></tr><tr><td style=" width:340px; padding:.73px .73px .73px .73px;   "><b>TOTAL</b></td><td style=" width:340px; padding:.73px .73px .73px .73px;   ">R$ 21.546.032,90</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+MANUTENÇÃO E RECUPERAÇÃO DE OBRAS DE ARTE ESPECIAIS
+
+26 782 1055 2539
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 119.008,43
+
+R$ 119.008,43
+
+R$ 119.008,43
+
+CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS
+
+15 451 1055 3351
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.027.024,47
+
+R$ 827.024,47
+
+R$ 827.024,47
+
+AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE EDIFICAÇÕES PÚBLICAS
+
+15 451 1055 3350
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.000.000,00
+
+R$ 200.000,00
+
+R$ 200.000,00
+
+ELABORAÇÃO DE PROJETOS DE ANEL VIÁRIO NOS MUNICÍPIOS
+
+15 451 1055 3376
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 900.000,00
+
+R$ 900.000,00
+
+R$ 900.000,00
+
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2538
+
+17520125
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 23.185.550,66
+
+R$ 6.300.000,00
+
+R$ 6.300.000,00
+
+MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2538
+
+15010100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 90.532.565,49
+
+R$ 13.200.000,00
+
+R$ 13.200.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.046.032,90
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 13.200.000,00
+
+17520125 - RECURSOS VINCULADOS AO TRÂNSITO
+
+R$ 6.300.000,00
+
+**TOTAL**
+
+R$ 21.546.032,90
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.046.032,90
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 13.200.000,00
+
+17520125 - RECURSOS VINCULADOS AO TRÂNSITO
+
+R$ 6.300.000,00
+
+**TOTAL**
+
+R$ 21.546.032,90

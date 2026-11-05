@@ -1,14 +1,12 @@
-###DEC-022418-0-000-09-01-1947@@@
+**DECRETO Nº 22.418, DE 9 DE JANEIRO DE 1947.**
 
-<strong>DECRETO Nº 22.418, DE 9 DE JANEIRO DE 1947.</strong>
+***Dá nova redação aos artigos 1º, 12, 13, 50, 51, 54, 55, 56, 60, 61, e 66 do Regulamento para o Colégio Militar.***
 
-<em><strong>Dá nova redação aos artigos 1º, 12, 13, 50, 51, 54, 55, 56, 60, 61, e 66 do Regulamento para o Colégio Militar.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Colégio Militar é um instituto destinado a ministrar o ensino secundário, de acôrdo com os ciclos e programas do Ministério da Educação e Saúde, aos órfãos dos militares do Exército, da Marinha e da Aeronáutica.
+**Art**. 1º O Colégio Militar é um instituto destinado a ministrar o ensino secundário, de acôrdo com os ciclos e programas do Ministério da Educação e Saúde, aos órfãos dos militares do Exército, da Marinha e da Aeronáutica.
 
 § 1º Terão ainda ingresso no Colégio Militar os filhos de militares da ativa, da reserva remunerada ou reformados do Exército, da Marinha e da Aeronáutica, nas condições estabelecidas neste Regulamento
 
@@ -68,7 +66,7 @@ b) .............................................................................
 
 c) .............................................................................................................................................
 
-Parágrafo único. Ficam dispensados das exigências das letras <em>a</em> e <em>c</em> do presente artigo, os órfãos de militares e filhos de militares incapacitados em virtude de operações de guerra, do Exército, da Marinha e da Aeronáutica, para os quais o limite máximo será de 16 anos de idade, referido ao dia 1 de março do ano da matrícula.
+Parágrafo único. Ficam dispensados das exigências das letras *a* e *c* do presente artigo, os órfãos de militares e filhos de militares incapacitados em virtude de operações de guerra, do Exército, da Marinha e da Aeronáutica, para os quais o limite máximo será de 16 anos de idade, referido ao dia 1 de março do ano da matrícula.
 
 Art. 56. ....................................................................................................................................
 
@@ -96,10 +94,10 @@ Art. 66. Findo o exame de admissão ao Curso Ginasial ou Cientifico a Direção 
 
 5º - contribuintes de que trata o § 3º do artigo 51.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
 Rio de Janeiro, 9 de janeiro de 1946, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

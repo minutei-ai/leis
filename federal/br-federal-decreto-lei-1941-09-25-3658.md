@@ -1,5 +1,3 @@
-###DEL-003658-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.658 – DE 25 DE SETEMBRO DE 1941
 
 Cria uma coletoria federal no Município de Barra Longa, Estado de Minas Gerais, e dá outras providências

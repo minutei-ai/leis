@@ -1,5 +1,3 @@
-###DEC-081654-0-000-11-05-1978@@@
-
 decreto nº 81.654, de 11 de maio de 1978.
 
 Altera o Regulamento do Magistério do Exército, aprovado pelo Decreto nº 70.219, de 1º de março de 1972.

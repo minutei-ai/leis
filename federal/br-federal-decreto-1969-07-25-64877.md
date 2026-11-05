@@ -1,5 +1,3 @@
-###DEC-064877-0-000-25-07-1969@@@
-
 DECRETO Nº 64.877 - DE 25 DE JULHO 1969.
 
 Declara caduco o Decreto número 29.821, de 27 de julho de 1951.

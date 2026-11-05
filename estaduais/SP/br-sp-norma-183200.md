@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/183200)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2017/compilacao-lei-16525-15.09.2017.html)
 
 # LEI N° 16.525, DE 15 DE SETEMBRO DE 2017

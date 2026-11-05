@@ -1,5 +1,3 @@
-###DEC-096754-0-000-22-09-1988@@@
-
 DECRETO N° 96.754, DE 22 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO COLMÉIA DE MANDAGUAÇU LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Mandaguaçu, Estado do Paraná.

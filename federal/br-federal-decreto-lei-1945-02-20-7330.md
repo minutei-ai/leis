@@ -1,5 +1,3 @@
-###DEL-007330-0-000-20-02-1945@@@
-
 DECRETO-LEI N. 7.330 – DE 20 DE FEVEREIRO DE 1945
 
 Dispõe sôbre os prazos para a  revisão da nomenclatura das estações ferroviárias e para a apresentação dos novos mapas  municipais

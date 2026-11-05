@@ -1,5 +1,3 @@
-###DEC-046656-0-000-17-08-1959@@@
-
 DECRETO Nº 46.656, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza a Cia. de Mineração Novalimense a lavrar minério de ferro no município de Itabirito, Estado de Minas Gerais.

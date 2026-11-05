@@ -1,5 +1,3 @@
-###DEC-053000-0-000-27-11-1963@@@
-
 DECRETO Nº 53.000, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Geraldo Almeida Nascente a pesquisar quartzo e mica, no município de Coroaci, Estado de Minas Gerais.

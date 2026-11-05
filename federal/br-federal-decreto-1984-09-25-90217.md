@@ -1,5 +1,3 @@
-###DEC-090217-0-000-25-09-1984@@@
-
 Decreto nº 90.217, de 25 de setembro de 1984
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia a ser ministrado pela Faculdade de Enfermagem de Teresópolis, Estado do Rio de Janeiro.

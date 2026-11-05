@@ -12,7 +12,89 @@ I - Para custeio do déficit atuarial, do 1º período ao 5º período, fica ins
 
 II - Para custeio do déficit atuarial total, fica instituída alíquota suplementar a cargo do ente a ser cobrada de forma escalonada conforme descrito na tabela a seguir:
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:16%;  height:76px;    "><b>Período</b></td><td style=" width:16%;  height:76px;    "><b>Aliquota Custo Normal e Taxa de AdministraçãoTotal Mensal</b></td><td style=" width:16%;  height:76px;    "><b>Alíquota Contribuição - Custo Suplementar Total Mensal</b></td><td style=" width:16%;  height:76px;    "><b>Alíquota - Total Mensal</b></td><td style=" width:18%;  height:76px;    "><b>Alíquota Ente/Prefeitura - Total Mensal</b></td><td style=" width:15%;  height:76px;    "><b>Alíquota de do Servidor - Total Mensal</b></td></tr><tr><td style=" width:16%;  height:17px;   ">1º ao 5º ano</td><td style=" width:16%;  height:17px;   ">19,24%</td><td style=" width:16%;  height:17px;   ">2,76%</td><td style=" width:16%;  height:17px;   ">22,00%</td><td style=" width:18%;  height:17px;   ">11,00%</td><td style=" width:15%;  height:17px;   ">11,00%</td></tr><tr><td style=" width:16%;  height:17px;   ">6º ao 10º ano</td><td style=" width:16%;  height:17px;   ">19,24%</td><td style=" width:16%;  height:17px;   ">2,76%</td><td style=" width:16%;  height:17px;   ">22,00%</td><td style=" width:18%;  height:17px;   ">11,00%</td><td style=" width:15%;  height:17px;   ">11,00%</td></tr><tr><td style=" width:16%;  height:17px;   ">11º ao 15º ano</td><td style=" width:16%;  height:17px;   ">19,24%</td><td style=" width:16%;  height:17px;   ">3,76%</td><td style=" width:16%;  height:17px;   ">23,00%</td><td style=" width:18%;  height:17px;   ">12,00%</td><td style=" width:15%;  height:17px;   ">11,00%</td></tr><tr><td style=" width:16%;  height:18px;   ">16º ao 20º ano</td><td style=" width:16%;  height:18px;   ">19,24%</td><td style=" width:16%;  height:18px;   ">5,56%</td><td style=" width:16%;  height:18px;   ">24,80%</td><td style=" width:18%;  height:18px;   ">13,80%</td><td style=" width:15%;  height:18px;   ">11,00%</td></tr><tr><td style=" width:16%;  height:18px;   ">21º ao 25º ano</td><td style=" width:16%;  height:18px;   ">19,24%</td><td style=" width:16%;  height:18px;   ">5,76%</td><td style=" width:16%;  height:18px;   ">25,00%</td><td style=" width:18%;  height:18px;   ">14,00%</td><td style=" width:15%;  height:18px;   ">11,00%</td></tr><tr><td style=" width:16%;  height:18px;   ">26º ao 33º ano</td><td style=" width:16%;  height:18px;   ">19,24%</td><td style=" width:16%;  height:18px;   ">6,27%</td><td style=" width:16%;  height:18px;   ">25,51%</td><td style=" width:18%;  height:18px;   ">14,51%</td><td style=" width:15%;  height:18px;   ">11,00%</td></tr></tbody></table>
+**Período**
+
+**Aliquota Custo Normal e Taxa de AdministraçãoTotal Mensal**
+
+**Alíquota Contribuição - Custo Suplementar Total Mensal**
+
+**Alíquota - Total Mensal**
+
+**Alíquota Ente/Prefeitura - Total Mensal**
+
+**Alíquota de do Servidor - Total Mensal**
+
+1º ao 5º ano
+
+19,24%
+
+2,76%
+
+22,00%
+
+11,00%
+
+11,00%
+
+6º ao 10º ano
+
+19,24%
+
+2,76%
+
+22,00%
+
+11,00%
+
+11,00%
+
+11º ao 15º ano
+
+19,24%
+
+3,76%
+
+23,00%
+
+12,00%
+
+11,00%
+
+16º ao 20º ano
+
+19,24%
+
+5,56%
+
+24,80%
+
+13,80%
+
+11,00%
+
+21º ao 25º ano
+
+19,24%
+
+5,76%
+
+25,00%
+
+14,00%
+
+11,00%
+
+26º ao 33º ano
+
+19,24%
+
+6,27%
+
+25,51%
+
+14,51%
+
+11,00%
 
 III - As contribuições correspondentes às alíquotas normal e suplementar, relativas ao exercício de 2013, totalizando 22,00%, serão exigidas a partir do primeiro dia do mês seguinte ao da publicação desta lei.
 
@@ -24,11 +106,14 @@ Art. 2º – Esta Lei Complementar entrará em vigor na data de sua publicação
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 08 dias do mês de outubro do ano de dois mil e treze.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário de Governo e Integração Institucional
 
-ELI DE FARIA<br>
-         Presidente do Aparecidaprev<br>
+ELI DE FARIA
+
+         Presidente do Aparecidaprev

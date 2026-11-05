@@ -4,10 +4,12 @@ Disciplina as normas de licitações e contratos administrativos aplicáveis no 
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I<br>
+TÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO ÂMBITO DE APLICAÇÃO DESTA LEI
 
 **Art. 1º** - Esta Lei disciplina as normas de licitações e contratos administrativos aplicáveis no âmbito da Administração Pública do Estado da Bahia, abrangendo:
@@ -22,7 +24,8 @@ DO ÂMBITO DE APLICAÇÃO DESTA LEI
 
 **§ 2**º - Aos consórcios públicos dos quais o Estado da Bahia faça parte será aplicado o disposto na Lei Federal nº 11.107, de 06 de abril de 2005, e as condições pactuadas nos respectivos contratos de constituição.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS NORMAS DE LICITAÇÕES E CONTRATOS ADMINISTRATIVOS APLICÁVEIS NOS TERMOS DESTA LEI
 
 **Art. 2º** - Aplica-se a Lei Federal nº 14.133, de 01 de abril de 2021, que estabelece as normas gerais de licitação e contratação, aos órgãos e entidades da Administração Pública do Estado da Bahia abrangidos pelo art. 1º desta Lei.
@@ -67,21 +70,26 @@ DAS NORMAS DE LICITAÇÕES E CONTRATOS ADMINISTRATIVOS APLICÁVEIS NOS TERMOS DE
 
 **Art. 4º** - Serão objeto de disposições legais complementares à Lei Federal nº 14.133, de 01 de abril de 2021, na forma do disposto no § 3º do art. 2º desta Lei, o preenchimento de lacunas normativas ou o regramento de peculiaridades locais.
 
-TÍTULO II<br>
+TÍTULO II
+
 MATÉRIAS DE COMPETÊNCIA ESTADUAL
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA ORGANIZAÇÃO ADMINISTRATIVA ESTADUAL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Disposições Gerais sobre Agentes Públicos
 
 **Art. 5º** - Na designação dos agentes públicos incumbidos do desempenho das funções essenciais à execução desta Lei deverão ser observados os requisitos e condições estabelecidos no art. 7º da Lei Federal nº 14.133, de 01 de abril de 2021, e o disposto neste Capítulo.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Dos Agentes Públicos Responsáveis pela Condução da Licitação
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Agente de Contratação
 
 **Art. 6º** - A licitação será conduzida por agente de contratação, pessoa designada pela autoridade competente, preferencialmente entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, para tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação.
@@ -90,7 +98,8 @@ Do Agente de Contratação
 
 **§ 2**º - Em licitação na modalidade pregão, o agente responsável pela condução do certame será designado pregoeiro.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Da Comissão de Contratação
 
 **Art. 7º** - A comissão de contratação, composta por, no mínimo, 03 (três) agentes públicos indicados pela Administração, em caráter permanente ou especial, observados os requisitos estabelecidos no art. 7º da Lei Federal nº 14.133, de 01 de abril de 2021, terá a função de:
@@ -105,12 +114,14 @@ Da Comissão de Contratação
 
 **§ 2**º - Os membros da comissão de contratação responderão solidariamente por todos os atos praticados pela comissão, ressalvado o membro que expressar posição individual divergente fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Da Equipe de Apoio
 
 **Art. 8º** - A equipe de apoio e os respectivos substitutos serão designados pela autoridade competente, observados os requisitos estabelecidos no art. 7º da Lei Federal nº 14.133, de 01 de abril de 2021, para auxiliar o agente de contratação ou a comissão de contratação na licitação.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Da Assistência à Condução da Licitação
 
 **Art. 9º** - Em licitação que envolva bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela Administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar os agentes públicos responsáveis pela condução da licitação.
@@ -119,24 +130,28 @@ Da Assistência à Condução da Licitação
 
 **§ 2**º - Os profissionais contratados para os fins deste artigo assinarão termo de confidencialidade e se absterão de atividades que possam configurar conflito de interesses.
 
-SUBSEÇÃO V<br>
+SUBSEÇÃO V
+
 Da Banca
 
 **Art. 10** - A banca incumbida da avaliação de quesitos de natureza qualitativa terá no mínimo 03 (três) membros e será composta, preferencialmente, de servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração Pública.
 
 **Parágrafo único -** Será admitida a composição da banca por profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital, desde que seus trabalhos sejam supervisionados por profissionais designados conforme o disposto no art. 5º desta Lei.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Dos Agentes Públicos Responsáveis Pela Gestão e Fiscalização do Contrato
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Gestor do Contrato
 
 **Art. 11** - A gestão do contrato deverá ser realizada por 01 (um) representante da Administração especialmente designado ou pelo respectivo substituto, conforme os requisitos estabelecidos no art. 7º da Lei Federal nº 14.133, de 01 de abril de 2021.
 
 **Parágrafo único -** O gestor do contrato coordenará as atividades relacionadas à ?scalização do contrato e à instrução processual das ocorrências relacionadas à sua execução.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Do Fiscal do Contrato
 
 **Art. 12** - A execução do contrato deverá ser acompanhada e fiscalizada por 01 (um) ou mais fiscais do contrato, representantes da Administração ou pelos respectivos substitutos, especialmente designados, conforme os requisitos estabelecidos no art. 7º da Lei Federal nº 14.133, de 01 de abril de 2021.
@@ -147,7 +162,8 @@ Do Fiscal do Contrato
 
 **§ 3**º - O fiscal do contrato será auxiliado pelos órgãos de assessoramento jurídico e de controle interno da Administração, que deverão dirimir dúvidas e subsidiá-lo com informações relevantes para prevenir riscos na execução contratual.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Da Assistência à Fiscalização do Contrato
 
 **Art. 13** - O fiscal de contrato poderá ser assistido ou subsidiado por terceiros contratados pela Administração, hipótese em que:
@@ -156,45 +172,54 @@ Da Assistência à Fiscalização do Contrato
 
 **II -** a contratação de terceiros não eximirá de responsabilidade o fiscal do contrato, nos limites das informações recebidas do terceiro contratado.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Dos Agentes Públicos Responsáveis pelo Recebimento do Objeto
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Recebimento Provisório do Objeto
 
 **Art. 14** - Caberá ao fiscal do contrato proceder ao recebimento provisório do objeto.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Do Recebimento Definitivo do Objeto
 
 **Art. 15** - O recebimento definitivo do objeto será feito por servidor ou comissão designada pela autoridade competente, preferencialmente entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, conforme critérios de vulto e complexidade definidos em ato normativo do titular de Poder ou de órgão dotado de autonomia constitucional.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Dos Agentes Públicos Responsáveis pela Avaliação de Bens Públicos
 
 **Art. 16** - A elaboração ou aprovação da avaliação de bens públicos estaduais, para efeito de alienação, competirá a comissão permanente ou especial, composta de, no mínimo, 03 (três) membros, designados pela autoridade competente, juntamente com os respectivos substitutos, observados os requisitos estabelecidos no art. 7º da Lei Federal nº 14.133, de 01 de abril de 2021.
 
 **Parágrafo único -** A comissão a que se refere o _caput_ deste artigo poderá ser assistida ou subsidiada por terceiros contratados pela Administração para a avaliação de bens públicos.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Dos Agentes Públicos Responsáveis pela Condução do Processo Administrativo Sancionatório
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Agente Processante
 
 **Art. 17** - A apuração de conduta infrativa sujeita exclusivamente à sanção de advertência ou de multa, isoladas ou cumuladas entre si, será realizada em processo sancionatório simplificado a ser conduzido por 01 (um) ou mais agentes processantes, designados pela autoridade competente, conforme os requisitos estabelecidos no art. 7º da Lei Federal nº 14.133, de 01 de abril de 2021.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Da Comissão Processante
 
 **Art. 18** - A apuração de conduta infrativa sujeita à sanção de impedimento de licitar e contratar ou de declaração de inidoneidade para licitar ou contratar será realizada em processo de responsabilização, a ser conduzido por comissão processante, composta de 02 (dois) ou mais servidores estáveis.
 
 **Parágrafo único -** Em órgão ou entidade da Administração Pública cujo quadro funcional não seja formado de servidores estatutários, a comissão a que se refere o _caput_ deste artigo será composta de 02 (dois) ou mais empregados públicos pertencentes aos seus quadros permanentes, preferencialmente com, no mínimo, 03 (três) anos de tempo de serviço no órgão ou entidade.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 Das Unidades Internas De Controle
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Órgão de Assessoramento Jurídico
 
 **Art. 19** - O órgão de assessoramento jurídico, respeitadas as atribuições funcionais, a forma de provimento de seu quadro e competência estabelecidos em lei, realizará controle prévio de legalidade:
@@ -223,19 +248,22 @@ Do Órgão de Assessoramento Jurídico
 
 **§ 2**º - A alteração das cláusulas padronizadas dos instrumentos referidos no inciso IV do § 1º deste artigo deverá ser justificada por escrito e previamente submetida ao órgão de assessoramento jurídico.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Do Órgão de Controle Interno
 
 **Art. 20** - As atividades de controle interno previstas na Lei Federal nº 14.133, de 01 de abril de 2021, serão exercidas pela unidade administrativa incumbida das funções de acompanhamento, controle e fiscalização da execução orçamentária, financeira e patrimonial do órgão ou entidade.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 Das Disposições Setoriais Comuns
 
 **Art. 21** - Serão dispostas em Regulamento as regras relativas à atuação e atribuições de agentes públicos, a composição e a competência de órgãos e comissões necessários ao desempenho das funções essenciais à execução desta Lei.
 
 **Parágrafo único -** Os órgãos de assessoramento jurídico e de controle interno prestarão aos agentes públicos referidos neste artigo o apoio necessário ao desempenho de suas funções.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS SISTEMAS DE TECNOLOGIA DE COMUNICAÇÃO E INFORMAÇÃO
 
 **Art. 22** - O titular de Poder ou de órgão dotado de autonomia constitucional definirá os sistemas de tecnologia de comunicação e informação a serem utilizados no processamento das respectivas licitações e contratações.
@@ -250,20 +278,24 @@ DOS SISTEMAS DE TECNOLOGIA DE COMUNICAÇÃO E INFORMAÇÃO
 
 **Art. 23** - As informações e os serviços de governo digital deverão ser disponibilizados, sempre que possível, em sítio eletrônico oficial, com divulgação centralizada ou mediante a disponibilização dos meios de acesso ao seu conteúdo.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS LIMITES DE VALOR, ALÇADA, VULTO E CONGÊNERES
 
 **Art. 24** - O titular de Poder ou de órgão dotado de autonomia constitucional poderá, por ato normativo, fixar limites de valor, alçada, vulto e congêneres aplicáveis às suas licitações e contratações, desde que não ultrapassem os que tenham sido estabelecidos para situação idêntica pela União.
 
 **Parágrafo único -** Na ausência da expedição do ato normativo a que se refere o _caput_ deste artigo, prevalecerão os limites previstos na Lei Federal nº 14.133, de 01 de abril de 2021.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA ALIENAÇÃO DE BENS PÚBLICOS ESTADUAIS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Da Alienação de Bem Imóvel
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Das Espécies de Alienação
 
 **Art. 25** - A alienação de bem imóvel dos órgãos e entidades da Administração Pública abrangidos pelo art. 1º desta Lei, subordinada à existência de interesse público devidamente justificado, poderá ser realizada mediante: 
@@ -300,7 +332,8 @@ Das Espécies de Alienação
 
 **§ 9**º - Os requisitos e condições para a alienação mediante dação em pagamento serão objeto de Regulamento.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Dos Requisitos para Alienação
 
 **Art. 26** - A alienação de bem imóvel dependerá de:
@@ -329,7 +362,8 @@ Dos Requisitos para Alienação
 
 **VI -** na alienação gratuita ou onerosa de bens imóveis comerciais de âmbito local, com área de até 250m² (duzentos e cinquenta metros quadrados) e destinados a programas de regularização fundiária de interesse social desenvolvidos por órgão ou entidade da Administração Pública.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Das Regras Aplicáveis à Licitação para Venda de Bem Imóvel
 
 **Art. 27** - A licitação para venda de bem imóvel observará o que se segue:
@@ -354,15 +388,18 @@ Das Regras Aplicáveis à Licitação para Venda de Bem Imóvel
 
 **§ 6**º - Infrutífera a alienação após exauridas as providências dos §§3º a 5º deste artigo, o bem poderá ser colocado em venda direta, até o prazo de 12 (doze) meses da conclusão do último certame, na forma do Regulamento, mediante justificativa e autorização prévia da autoridade máxima do órgão ou entidade.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Das Regras Aplicáveis à Licitação para Doação de Bem Imóvel
 
 **Art. 28** - A licitação para doação de bem imóvel com encargo obedecerá ao disposto em edital, que disporá sobre os critérios para seleção de proposta que melhor se adeque ao interesse público, observado o disposto no inciso I do _caput_ e no § 1º, ambos do art. 27 desta Lei.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Alienação de Bens Móveis
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Das Espécies de Alienação
 
 **Art. 29** - A alienação de bem móvel dos órgãos e entidades da Administração Pública abrangidos pelo art. 1º desta Lei, subordinada à existência de interesse público devidamente justificado, poderá ser realizada, conforme o caso, mediante: 
@@ -377,7 +414,8 @@ Das Espécies de Alienação
 
 **Parágrafo único -** A doação de bens móveis obedecerá às disposições legais pertinentes, devendo constar obrigatoriamente de seu termo o prazo de seu cumprimento, a cláusula de reversão e, quando cabível, o encargo, sob pena de nulidade.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Dos Requisitos para Alienação
 
 **Art. 30** - A alienação de bem móvel dependerá de:
@@ -410,7 +448,8 @@ Dos Requisitos para Alienação
 
 **IV -** na negociação de títulos, na forma da legislação pertinente.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Das Regras Aplicáveis à Licitação para Venda de Bem Móvel
 
 **Art. 31** - A licitação para venda de bem móvel observará o que se segue:
@@ -427,22 +466,26 @@ Das Regras Aplicáveis à Licitação para Venda de Bem Móvel
 
 **§ 3**º - Na hipótese da alienação de navios e aeronaves, será aplicado o disposto nos §§2º a 5º do art. 27 desta Lei.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Das Regras Aplicáveis à Licitação para Doação de Bem Móvel
 
 **Art. 32** - A licitação para doação de bem móvel com encargo obedecerá ao disposto em edital, que disporá sobre os critérios para seleção de proposta que melhor se adeque ao interesse público, observado o disposto no inciso I do _caput_ e no § 1º, ambos do art. 31 desta Lei.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Do Produto da Alienação
 
 **Art. 33** - O produto da alienação dos bens móveis e imóveis do Estado será recolhido à conta única do Tesouro Estadual, integrante do Sistema de Caixa Única do Estado, constituindo-se em receita do Tesouro, a qual poderá ser revertida para fundo especial definido em lei específica.
 
 **Parágrafo único -** O valor oriundo das alienações dos bens de que trata o _caput_ deste artigo será classificado como receita de capital, sendo vedada a sua aplicação em despesas correntes, exceto quando se destinar ao Fundo Financeiro da Previdência Social dos Servidores Públicos do Estado da Bahia.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA OUTORGA DE USO DE BENS PÚBLICOS A TERCEIROS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Espécies de Outorga
 
 **Art. 34** - O uso de bem móvel ou imóvel estadual poderá ser outorgado a terceiros, atendido o interesse público, mediante:
@@ -459,7 +502,8 @@ Das Espécies de Outorga
 
 **Parágrafo único -** Tratando-se de bens móveis de consumo ou de bens móveis de natureza permanente, cujos custos com controle sejam superiores à natural depreciação ou ao risco de perda, extravio ou destruição, conforme justificativa escrita e fundamentada, a alienação deverá preferir à outorga de uso a terceiros.
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Da Concessão de Direito Real de Uso
 
 **Art. 35** - A concessão de direito real de uso será outorgada por escritura pública, para transferir a terceiros bem público imóvel, como direito real resolúvel, _inter vivos_ ou _mortis causa_, na forma da legislação pertinente, observados os seguintes requisitos:
@@ -486,7 +530,8 @@ Da Concessão de Direito Real de Uso
 
 **§ 3**º - A escritura pública da concessão de direito real de uso será registrada no competente Cartório de Registro de Imóveis, na forma da legislação pertinente.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Da Concessão de Uso
 
 **Art. 36** - A concessão de uso de bem público será outorgada por contrato administrativo para a utilização ou exploração exclusiva por um particular, observados os seguintes requisitos:
@@ -501,7 +546,8 @@ Da Concessão de Uso
 
 **Parágrafo único -** Será dispensada a licitação para a concessão de uso de bem público de qualquer natureza às organizações sociais, em decorrência de celebração de contrato de gestão, exclusivamente quanto aos bens necessários à sua execução e que tenham sido explicitamente relacionados no edital.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Da Permissão de Uso
 
 **Art. 37** - A permissão de uso de bem público será outorgada a título precário, por ato administrativo ou por contrato administrativo, hipótese em que será clausulada, observados os seguintes requisitos:
@@ -520,7 +566,8 @@ Da Permissão de Uso
 
 **§ 2**º - A permissão de uso de bem público poderá ser extinta pela Administração, unilateralmente, a qualquer tempo.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Da Cessão de Uso
 
 **Art. 38** - A cessão de uso de bem público será outorgada por termo administrativo a órgão ou entidade da Administração Pública, dispensada a licitação, observados os seguintes requisitos:
@@ -531,7 +578,8 @@ Da Cessão de Uso
 
 **III -** destinação específica para utilização pelo próprio cessionário.
 
-SUBSEÇÃO V<br>
+SUBSEÇÃO V
+
 Da Autorização de Uso
 
 **Art. 39** - A autorização de uso de bem público será outorgada por ato administrativo, a título precário, observados os seguintes requisitos:
@@ -542,7 +590,8 @@ Da Autorização de Uso
 
 **Parágrafo único -** A autorização de uso de bem público poderá ser extinta pela Administração, unilateralmente, a qualquer tempo.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Formalização da Outorga de Uso a Terceiros
 
 **Art. 40** - Os requisitos para a outorga de uso a terceiros serão definidos em Regulamento, que deverá dispor sobre:
@@ -565,10 +614,12 @@ Da Formalização da Outorga de Uso a Terceiros
 
 **Parágrafo único -** Poderá ser dispensada a manifestação do órgão de assessoramento jurídico no processo administrativo de outorga de bens a terceiros, na forma do § 1º do art. 19 desta Lei.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DOS CONVÊNIOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Disposições Gerais
 
 **Art. 41** - A celebração de convênio entre a Administração Pública e outros órgãos ou entidades públicas ou privadas, destinado à consecução de finalidades de interesse público, em regime de mútua colaboração, observará o estabelecido neste Capítulo e o disposto em Regulamento.
@@ -577,10 +628,12 @@ Das Disposições Gerais
 
 **§ 2**º - A pactuação que não envolver a transferência de recursos financeiros, ainda que firmada entre órgãos desprovidos de personalidade jurídica, será instrumentalizada, preferencialmente, por termo de cooperação técnica.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Dos Pressupostos e das Diretrizes da Celebração de Convênios e Instrumentos Congêneres
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Dos Pressupostos
 
 **Art. 42** - A celebração de convênios e instrumentos congêneres pressupõe:
@@ -595,7 +648,8 @@ Dos Pressupostos
 
 **V -** a responsabilidade dos partícipes limitada, exclusivamente, às obrigações contraídas durante o ajuste.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Das Diretrizes
 
 **Art. 43** - A celebração de convênios ou instrumentos congêneres deverá ser orientada pelas seguintes diretrizes:
@@ -620,7 +674,8 @@ Das Diretrizes
 
 **X -** vedação à realização de despesas de taxa de administração, de gerência ou de outras formas de remuneração do partícipe.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Formalização de Convênios e Instrumentos Congêneres
 
 **Art. 44** - Os requisitos para a celebração de convênios e instrumentos congêneres serão definidos em Regulamento, que deverá dispor sobre:
@@ -659,7 +714,8 @@ Da Formalização de Convênios e Instrumentos Congêneres
 
 **§ 5**º - Poderá ser dispensada a manifestação do órgão de assessoramento jurídico no processo administrativo de celebração de convênio ou instrumento congênere, na forma do § 1º do art. 19 desta Lei.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Das Alterações
 
 **Art. 45** - A alteração do convênio ou instrumento congênere dependerá de revisão do plano de trabalho e de expressa e motivada autorização da autoridade competente, sendo vedada a modificação do objeto original.
@@ -668,17 +724,20 @@ Das Alterações
 
 **§ 2**º - Em caso de impedimento, suspensão ou atraso no repasse dos recursos, o cronograma de execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Da Prestação de Contas
 
 **Art. 46** - Os recursos financeiros repassados em razão de convênio e instrumentos congêneres não perdem a natureza de dinheiro público, ficando a sua utilização vinculada aos termos previstos no ajuste, devendo o responsável, obrigatoriamente, prestar contas ao ente repassador e ao Tribunal de Contas.
 
 **Parágrafo único -** A omissão ou as irregularidades constatadas na prestação de contas poderão ensejar a inscrição do convenente em cadastro de inadimplente, inclusive como medida acautelatória, na forma da legislação de regência.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS E DO PROCESSO ADMINISTRATIVO SANCIONATÓRIO DE LICITANTES E CONTRATADOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Infrações Administrativas
 
 **Art. 47** - Ficam adotadas como infrações administrativas as condutas constantes do art. 155 da Lei Federal nº 14.133, de 01 de abril de 2021.
@@ -693,7 +752,8 @@ Das Infrações Administrativas
 
 **§ 3**º - Os atos previstos como infrações administrativas nesta Lei ou em outras leis de licitações e contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei Federal nº 12.846, de 01 de agosto de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e a autoridade competente definidos na referida lei.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Sanções Administrativas
 
 **Art. 48** - Aos responsáveis pelo cometimento de infrações administrativas serão aplicadas as sanções previstas nos incisos I a IV do _caput_ do art. 156 da Lei Federal nº 14.133, de 01 de abril de 2021.
@@ -704,7 +764,8 @@ Das Sanções Administrativas
 
 **§ 3**º - Os efeitos da imposição das sanções ao infrator que também participa dos procedimentos auxiliares previstos no art. 78 da Lei Federal nº 14.133, de 01 de abril de 2021, serão estabelecidos em Regulamento.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Dos Critérios para Dosimetria
 
 **Art. 49** - Na aplicação das sanções administrativas serão observados os critérios estabelecidos nos §§1º a 5º e 7º do art. 156 da Lei Federal nº 14.133, de 01 de abril de 2021, na forma do Regulamento.
@@ -715,7 +776,8 @@ Dos Critérios para Dosimetria
 
 **§ 3**º - Nas hipóteses em que não houver valor contratado, a sanção de multa poderá ter como base o valor correspondente ao objeto adjudicado ou, quando for o caso, da estimativa da contratação.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Do Processo Administrativo Sancionatório
 
 **Art. 50** - A apuração das infrações administrativas será realizada em processo administrativo sancionatório, com a observância das garantias da ampla defesa e do contraditório, na forma do Regulamento.
@@ -730,7 +792,8 @@ Do Processo Administrativo Sancionatório
 
 **§ 3**º - O valor da retenção provisória a que se refere o § 2º deste artigo não poderá exceder ao limite máximo estabelecido no § 3º do art. 156 da Lei Federal nº 14.133, de 01 de abril de 2021. 
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Processo Sancionatório Simplificado
 
 **Art. 51** - A apuração de conduta infrativa sujeita exclusivamente à sanção de advertência ou de multa, isoladas ou cumuladas entre si, será realizada em processo sancionatório simplificado a ser conduzido por um ou mais agentes processantes.
@@ -747,7 +810,8 @@ Do Processo Sancionatório Simplificado
 
 **§ 6**º - Fica dispensada a manifestação do órgão de assessoramento jurídico no processo sancionatório simplificado, salvo relevante indagação jurídica ou na hipótese de recurso contra a decisão que impuser sanção.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Do Processo de Responsabilização
 
 **Art. 52** - A apuração de conduta infrativa sujeita à sanção de impedimento de licitar e contratar ou de declaração de inidoneidade para licitar ou contratar será realizada em processo de responsabilização, a ser conduzido por comissão processante.
@@ -770,7 +834,8 @@ Do Processo de Responsabilização
 
 **§ 6**º - Concluída a instrução do processo, a comissão processante, no prazo de 30 (trinta) dias úteis, elaborará o relatório final e remeterá os autos para deliberação da autoridade competente, após o pronunciamento do órgão de assessoramento jurídico, ressalvadas as hipóteses em que poderá ser dispensada a manifestação, na forma do § 1º do art. 19 desta Lei.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Da Competência Para Aplicação das Sanções Administrativas
 
 **Art. 53** - São competentes para aplicar:
@@ -779,14 +844,16 @@ Da Competência Para Aplicação das Sanções Administrativas
 
 **II -** a sanção de declaração de inidoneidade para licitar ou contratar com a Administração Pública: os titulares de Poder ou de órgão dotado de autonomia constitucional, admitida a delegação.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Dos Recursos e do Pedido de Reconsideração
 
 **Art. 54** - Ficam adotados, quanto ao processamento de recurso e de pedido de reconsideração, o disposto nos arts. 166 a 168 da Lei Federal nº 14.133, de 01 de abril de 2021.
 
 **Parágrafo único -** Havendo justo receio de prejuízo de difícil ou incerta reparação, decorrente do efeito suspensivo legal da decisão recorrida, a autoridade a quem incumbir o conhecimento do recurso poderá, de ofício ou a pedido, motivadamente, determinar a execução provisória da decisão.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 Das Sanções Aplicadas
 
 **Art. 55** - Transitada em julgado a decisão do processo administrativo sancionatório, será procedido ao registro imediato da sanção no cadastro de fornecedores.
@@ -799,7 +866,8 @@ Das Sanções Aplicadas
 
 **§ 4**º - Os valores das sanções das multas aplicadas serão recolhidos e apropriados na forma da legislação contábil de regência, constituindo receita pública, a qual poderá ser revertida para fundo especial definido em lei específica.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 Da Prescrição
 
 **Art. 56** - A prescrição ocorrerá em 05 (cinco) anos, contados da ciência da infração pela Administração, e será:
@@ -814,7 +882,8 @@ Da Prescrição
 
 **§ 1**º - A contas as causas suspensivas previstas nos incisos II, III e IV do _caput_ deste artigo, a prescrição voltará a correr pelo prazo remanescente.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 Da Desconsideração da Personalidade Jurídica
 
 **Art. 57** - A personalidade jurídica poderá ser desconsiderada sempre que tenha sido utilizada com abuso do direito para:
@@ -827,14 +896,16 @@ Da Desconsideração da Personalidade Jurídica
 
 **§ 2**º - Em todos os casos de desconsideração da personalidade jurídica deverão ser observados o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia, na forma do Regulamento.
 
-SEÇÃO X<br>
+SEÇÃO X
+
 Da Reparação do Dano
 
 **Art. 58** - A aplicação das sanções previstas nesta Lei não exclui a obrigação de reparação integral do dano causado à Administração Pública.
 
 **Parágrafo único -** Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente, na forma da legislação pertinente.
 
-SEÇÃO XI<br>
+SEÇÃO XI
+
 Da Transação Administrativa
 
 **Art. 59** - As sanções de impedimento de licitar e contratar e de declaração de inidoneidade para licitar ou contratar poderão ser atenuadas ou comutadas, observados os requisitos e condições estabelecidos em Regulamento.
@@ -843,12 +914,14 @@ Da Transação Administrativa
 
 **§ 2**º - A celebração do Termo de Transação Administrativa compete à autoridade incumbida de aplicar a sanção, admitida a delegação.
 
-SEÇÃO XII<br>
+SEÇÃO XII
+
 Da Reabilitação
 
 **Art. 60** - A reabilitação do sancionado fica condicionada ao cumprimento dos requisitos do art. 163 da Lei Federal nº 14.133, de 01 de abril de 2021.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS FALTAS DISCIPLINARES DE AGENTES PÚBLICOS
 
 **Art. 61** - Constitui falta disciplinar a prática das seguintes condutas por agente público:
@@ -915,7 +988,8 @@ DAS FALTAS DISCIPLINARES DE AGENTES PÚBLICOS
 
 **§ 2**º - A sanção administrativa disciplinar será agravada quando o infrator for titular de cargo de provimento em comissão ou função de confiança, de direção, chefia ou assessoramento em órgão ou entidade da Administração Pública Estadual.
 
-TÍTULO III<br>
+TÍTULO III
+
 DISPOSIÇÕES LEGAIS COMPLEMENTARES
 
 **Art. 63** - Não havendo disposição convencional diversa, o requerimento de restabelecimento do equilíbrio econômico-financeiro inicial do contrato nas hipóteses da alínea "d” do inciso II do art. 124 ou do art. 135, todos da Lei Federal nº 14.133, de 01 de abril de 2021, deverá ser formulado pelo interessado no prazo máximo de 01 (um) ano do fato que o ensejou, sob pena de decadência, em consonância com o art. 211 da Lei Federal nº 10.406, de 10 de janeiro de 2002.
@@ -950,7 +1024,8 @@ DISPOSIÇÕES LEGAIS COMPLEMENTARES
 
 **§ 2**º - Não se inclui na vedação do _caput_ desde artigo a prestação de serviços em caráter eventual, de consultoria técnica, treinamento e aperfeiçoamento, bem como a participação em comissões examinadoras de concursos, no âmbito da Administração Pública.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 71** - Aplicam-se as disposições desta Lei, no que couber e na ausência de norma específica, aos ajustes firmados pelos órgãos e entidades abrangidos pelo art. 1º desta Lei, em que haja um acordo de vontades para a formação de vínculo e a estipulação de obrigações recíprocas, seja qual for a denominação utilizada.

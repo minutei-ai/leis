@@ -1,5 +1,3 @@
-###DEC-077705-0-000-31-05-1976@@@
-
 DECRETO Nº 77.705 - DE 31 DE MAIO DE 1976
 
 Retifica a concessão de lavrar outorgada à Empresa de Caolim Ltda., pelo Decreto nº 68.956, de 20 de julho de 1971.

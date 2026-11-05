@@ -1,5 +1,3 @@
-###DEC-000565-0-000-10-06-1992@@@
-
 DECRETO Nº 565, DE 10 DE JUNHO DE 1992
 
 Aprova o Regulamento do Quadro de Oficiais Especialistas da Aeronáutica QOEA.

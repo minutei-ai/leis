@@ -1,5 +1,3 @@
-###DEC-045601-0-000-23-03-1959@@@
-
 DECRETO Nº 45.601, DE 23 DE MARÇO DE 1959.
 
 Concede permissão, em caráter permanente, às filiais da Sociedade Algodeira do Nordeste Brasileiro S.A., “Sanbra”, para funcionarem aos domingos e nos feriados civis ou religioso.

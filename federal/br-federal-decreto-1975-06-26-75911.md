@@ -1,5 +1,3 @@
-###DEC-075911-0-000-26-06-1975@@@
-
 DECRETO Nº 75.911, DE 26 DE JUNHO DE 1975.
 
 Fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006534-0-000-26-05-1944@@@
-
 DECRETO-LEI N. 6.534 – DE 26 DE MAIO DE 1944
 
 Retifica o art. 1º do Decreto-lei n. 4.833, de 15 de outubro de 1942

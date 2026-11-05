@@ -1,5 +1,3 @@
-###DEC-005541-0-000-19-09-2005@@@
-
 DECRETO Nº 5.541, DE 19 DE SETEMBRO DE 2005
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia sobre Facilitação para o Ingresso e Trânsito de seus Nacionais em seus Territórios, de 8 de julho de 2004.

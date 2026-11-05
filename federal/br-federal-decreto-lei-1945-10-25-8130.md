@@ -1,5 +1,3 @@
-###DEL-008130-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.130 – DE 25 DE OUTUBRO DE 1945
 
 Dispõe sôbre o pagamento de taxas referentes ao segundo período do último ano dos cursos de ensino superior.

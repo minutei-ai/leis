@@ -1,5 +1,3 @@
-###DEC-057029-0-000-11-10-1965@@@
-
 DECRETO Nº 57.029, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza Nestor Afonso de Campos, a comprar pedras preciosas.

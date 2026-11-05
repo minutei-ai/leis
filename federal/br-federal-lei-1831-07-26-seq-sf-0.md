@@ -1,5 +1,3 @@
-###LEI-000000-0-000-26-07-1831@@@
-
 LEI - DE 26 DE JULHO DE 1831
 
 Extingue as Provedorias de Seguros das Provincias do Imperio.

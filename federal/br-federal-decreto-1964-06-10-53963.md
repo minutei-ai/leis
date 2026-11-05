@@ -1,5 +1,3 @@
-###DEC-053963-0-000-10-06-1964@@@
-
 DECRETO Nº 53.963, DE 10 DE JUNHO DE1964.
 
 Altera os artigos 33 e 34 do Regulamento da Escola Superior de Guerra, aprovado pelo Decreto nº 53.080,de 4 de dezembro de 1963.

@@ -1,5 +1,3 @@
-###MPV-002040-0-009-25-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.040-9, DE 25 DE agosto DE 2000.
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamento, e dá outras providencias.

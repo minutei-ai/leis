@@ -1,5 +1,3 @@
-###DEC-066072-0-000-14-01-1970@@@
-
 Decreto nº 66.072 - de 14 de janeiro de 1970
 
 Declara de utilidade pública a Associação de Estudos, Orientação e Assistência Rural (Assesoar) com sede em Francisco Beltrão, Estado do Paraná.

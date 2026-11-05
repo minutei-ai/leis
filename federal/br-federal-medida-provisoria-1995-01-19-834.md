@@ -1,7 +1,3 @@
-1
-
-###MPV-000834-0-000-19-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 834, DE 19 DE JANEIRO DE 1995
 
 Dá nova redação ao art. 1º da Lei nº 6.150, de 3 de dezembro de 1974, que dispõe sobre a obrigatoriedade da iodação do sal destinado ao consumo humano, seu controle pelos órgãos sanitários e dá outras providências.

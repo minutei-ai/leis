@@ -1,5 +1,3 @@
-###DEC-001890-0-000-29-04-1996@@@
-
 DECRET0 Nº 1.890, DE 29 DE ABRIL DE 1996.
 
 Altera a alíquota do imposto de importação dos produtos que especifica.

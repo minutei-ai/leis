@@ -1,5 +1,3 @@
-###DEC-003804-0-000-24-04-2001@@@
-
 DECRETO Nº 3.804, DE 24 DE ABRIL DE 2001
 
 Dispõe sobre a execução do Vigésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 29 de dezembro de 2000.
@@ -23,10 +21,6 @@ Brasília, 24 de abril de 2001; 180º da Independência e 113º da República.
 FERNANDO HENRIQUE CARDOSO
 
 Celso Lafer
-
-<br>
-
-<br>
 
 ANEXO
 

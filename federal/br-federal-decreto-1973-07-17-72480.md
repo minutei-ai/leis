@@ -1,5 +1,3 @@
-###DEC-072480-0-000-17-07-1973@@@
-
 DECRETO Nº 72.480, DE 17 DE JULHO DE 1973.
 
 Declara sem efeito o Decreto número 29.592, de 28 de maio de 1951.

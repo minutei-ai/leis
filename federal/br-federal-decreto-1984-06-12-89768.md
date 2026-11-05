@@ -1,5 +1,3 @@
-###DEC-089768-0-000-12-06-1984@@@
-
 Decreto nº 89.768, de 12 de junho de 1984
 
 Altera dispositivo do Decreto nº 79.966, de 14 de julho de 1977, que dispõe sobre a concessão de Indenização de Transporte.

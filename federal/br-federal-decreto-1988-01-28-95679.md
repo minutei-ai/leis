@@ -1,7 +1,3 @@
-1
-
-###DEC-095679-0-000-28-01-1988@@@
-
 DECRETO N° 95.679, DE 28 DE JANEIRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Ciências Exatas e Humanas Santos Dumont, São Paulo.

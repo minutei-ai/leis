@@ -1,5 +1,3 @@
-###DEC-061927-0-000-21-12-1967@@@
-
 decreto Nº 61.927, DE 21 DE DEZEMBRO DE 1967.
 
 Concede reconhecimento à Faculdade de Direito de Santo Ângelo - RGS.

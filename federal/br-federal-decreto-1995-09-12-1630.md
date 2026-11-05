@@ -1,7 +1,3 @@
-1
-
-###DEC-001630-0-000-12-09-1995@@@
-
 DECRETO Nº 1.630, DE 12 DE SETEMBRO DE 1995.
 
 Dispõe sobre a atualização do valor fixado no art. 1º da Lei nº 8.197, de 27 de junho de 1991, que disciplina a transação nas causas de interesse da União, suas autarquias, fundações e empresas públicas federais, e dá outras providências.

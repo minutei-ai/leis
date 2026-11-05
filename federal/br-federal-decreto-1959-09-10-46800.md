@@ -1,5 +1,3 @@
-###DEC-046800-0-000-10-09-1959@@@
-
 DECRETO Nº 46.800, DE 10 DE SETEMBRO DE 1959.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-002008-0-004-11-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.008-4, de 11 de ABRIL de 2000.
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamento, e dá outras providências.

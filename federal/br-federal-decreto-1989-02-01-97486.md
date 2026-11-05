@@ -1,5 +1,3 @@
-###DEC-097486-0-000-01-02-1989@@@
-
 DECRETO N° 97.486, DE 1° DE FEVEREIRO DE 1989
 
 Altera redação dos artigos 10, l6 e 18 do Estatuto da Empresa Brasileira de Correios e Telégrafos - ECT.

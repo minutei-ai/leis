@@ -1,5 +1,3 @@
-###DEC-006387-0-000-05-03-2008@@@
-
 DECRETO Nº 6.387, DE 5 DE MARÇO DE 2008.
 
 Aprova o II Plano Nacional de Políticas para as Mulheres - II PNPM, e dá outras providências.
@@ -20,11 +18,7 @@ Brasília, 5 de março de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 6.3.2008
-
-ANEXO
+Dilma RousseffANEXO
 
 OBJETIVOS DO II PLANO NACIONAL DE POLÍTICAS PARA AS MULHERES
 

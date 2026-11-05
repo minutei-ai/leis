@@ -1,62 +1,60 @@
-###DEC-020541-0-000-28-01-1946@@@
+**DECRETO Nº 20.541, 28 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.541, 28 DE JANEIRO DE 1946.</strong>
+***Aprova o regulamento do pessoal do Serviço de Navegação Bacia do Prata.***
 
-<em><strong>Aprova o regulamento do pessoal do Serviço de Navegação Bacia do Prata.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a* da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em> da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovada, de conformidade com o disposto no art. 5º do decreto-lei nº 8.959, de 28-1-46, do Regulamento do Pessoal do Serviço de Navegação da Bacia do Prata (SNBP) que, assinado pelo Ministro de Estado da Viação e Obras Públicas, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovada, de conformidade com o disposto no art. 5º do decreto-lei nº 8.959, de 28-1-46, do Regulamento do Pessoal do Serviço de Navegação da Bacia do Prata (SNBP) que, assinado pelo Ministro de Estado da Viação e Obras Públicas, com êste baixa.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Maurício Joppert da Silva
 
-<strong>REGULAMENTO DO PESSOAL DO SERVIÇO DE NAVEGAÇÃO DA BACIA DO PRATA</strong>
+**REGULAMENTO DO PESSOAL DO SERVIÇO DE NAVEGAÇÃO DA BACIA DO PRATA**
 
 DISPOSIÇÕES PRELIMINARES
 
-<strong>Art</strong>. 1º O pessoal do SNBP compro-se á de mensalistas, contratados, diaristas e tarefeiros.
+**Art**. 1º O pessoal do SNBP compro-se á de mensalistas, contratados, diaristas e tarefeiros.
 
 Parágrafo único. Os mensalistas e os diaristas corresponderão às tabelas que forem aprovadas de acôrdo com a legislação em vigor.
 
-<strong>Art</strong>. 2º Às funções de direção serão desempenhadas pelo pessoal do quadro do SNBP ou em comissão quando estranhos ao mesmo.
+**Art**. 2º Às funções de direção serão desempenhadas pelo pessoal do quadro do SNBP ou em comissão quando estranhos ao mesmo.
 
-<strong>Art</strong>. 3º Mensalista e a pessoa admitida para desempenho de função prescrita na séries funcionais ou de funções isoladas.
+**Art**. 3º Mensalista e a pessoa admitida para desempenho de função prescrita na séries funcionais ou de funções isoladas.
 
-<strong>Art</strong>. 4º Contratado é o admitido mediante a assinatura de um contrato bilateral, para o desempenho da função reconhecidamente especializada, e para qual, não haja nas tabelas pessoal devidamente habilitado e disponível.
+**Art**. 4º Contratado é o admitido mediante a assinatura de um contrato bilateral, para o desempenho da função reconhecidamente especializada, e para qual, não haja nas tabelas pessoal devidamente habilitado e disponível.
 
-<strong>Art</strong>. 5º Diarista é a pessoa admitida para o desempenho de funções braçais subalternas.
+**Art**. 5º Diarista é a pessoa admitida para o desempenho de funções braçais subalternas.
 
-<strong>Art</strong>. 6º Tarefeiro é a pessoa que executa trabalhos que são pagos, em produção sistematizada, à base de unidade.
+**Art**. 6º Tarefeiro é a pessoa que executa trabalhos que são pagos, em produção sistematizada, à base de unidade.
 
-<strong>Art</strong>. 7º Tabela numérica é o conjunto de funções com indicação do número de mensalistas ou diaristas para cada natureza de trabalho.
+**Art**. 7º Tabela numérica é o conjunto de funções com indicação do número de mensalistas ou diaristas para cada natureza de trabalho.
 
 Parágrafo único. Nas tabelas numéricas de mensalistas, as funções serão indicadas em séries funcionais ou em funções isoladas.
 
-<strong>Art</strong>. 8º Série funcional é o agrupamento de funções da mesma natureza de trabalho, escalonadas pelas referências dos salários; funções isoladas são as que não se pode integrar em séries e correspondem a certa e determinada função.
+**Art**. 8º Série funcional é o agrupamento de funções da mesma natureza de trabalho, escalonadas pelas referências dos salários; funções isoladas são as que não se pode integrar em séries e correspondem a certa e determinada função.
 
-<strong>Art</strong>. 9º Referência é o índice dos salários correspondentes às funções
+**Art**. 9º Referência é o índice dos salários correspondentes às funções
 
-<strong>Art</strong>. 10. As atribuições inerentes a uma série funcional podem ser cometidas, indistintamente, aos mensalistas de qualquer das suas referências.
+**Art**. 10. As atribuições inerentes a uma série funcional podem ser cometidas, indistintamente, aos mensalistas de qualquer das suas referências.
 
-<strong>Art</strong>. 11. Os atos de admissão, melhoria, transferências e dispensa do pessoal do SNBP são de competência do Diretor.
+**Art**. 11. Os atos de admissão, melhoria, transferências e dispensa do pessoal do SNBP são de competência do Diretor.
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Das admissões</em>
+*Das admissões*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FUNÇÃO EM COMISSÃO</em>
+*DA FUNÇÃO EM COMISSÃO*
 
-<strong>Art</strong>. 12. O Diretor será nomeado, em comissão, pelo Presidente da República; a designação para as funções em comissão, previstas na respectiva tabela, será de livre escolha do Diretor.
+**Art**. 12. O Diretor será nomeado, em comissão, pelo Presidente da República; a designação para as funções em comissão, previstas na respectiva tabela, será de livre escolha do Diretor.
 
 § 1º As funções em comissão, que poderão ser desempenhadas por pessoas estranhas ao SNBP, são as seguintes:
 
@@ -82,21 +80,21 @@ Comandante
 
 § 2º Os atuais empregados cujos cargos não forem em comissão e que tiverem mais de dois anos de serviço, serão considerados já efetivados em suas respectivas funções.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA FUNÇÃO DE CHEFIA</em>
+*DA FUNÇÃO DE CHEFIA*
 
-<strong>Art</strong>. 13. As funções de chefia, que não forem desempenhadas em comissão, serão cometida a mensalistas, mediante, também livre designação do Diretor.
+**Art**. 13. As funções de chefia, que não forem desempenhadas em comissão, serão cometida a mensalistas, mediante, também livre designação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO MENSALISTA</em>
+*DO MENSALISTA*
 
-<strong>Art</strong>. 14. A admissão do mensalista será feita inicialmente na função de menor salário de cada série funcional salvo necessidade comprovada do serviço, e tendo em vista o estipulado no art. 12.
+**Art**. 14. A admissão do mensalista será feita inicialmente na função de menor salário de cada série funcional salvo necessidade comprovada do serviço, e tendo em vista o estipulado no art. 12.
 
-<strong>Art</strong>. 15. A admissão do mensalista de terra, e, de qualquer série funcional, dependerá da prestação de prova, na forma que fôr estabelecida, salvo para o pessoal que tiver mais de dois anos de exercício na autarquia, que, nesse caso, será considerado automaticamente efetivo, na forma do art. 12.
+**Art**. 15. A admissão do mensalista de terra, e, de qualquer série funcional, dependerá da prestação de prova, na forma que fôr estabelecida, salvo para o pessoal que tiver mais de dois anos de exercício na autarquia, que, nesse caso, será considerado automaticamente efetivo, na forma do art. 12.
 
-<strong>Art</strong>. 16. São condições essenciais para o ingresso em qualquer série funcional de mensalista de terra:
+**Art**. 16. São condições essenciais para o ingresso em qualquer série funcional de mensalista de terra:
 
 a) prova de quitação com o serviço militar;
 
@@ -108,7 +106,7 @@ d) atestado de sanidade e capacidade física para a função;
 
 e) habilitação em prova salvo quando se tratar de função inicial.
 
-<strong>Art</strong>. 17. A admissão de mensalista de mar (tripulante) será feita por escrito, pelo Diretor, mediante a apresentação das seguintes exigências:
+**Art**. 17. A admissão de mensalista de mar (tripulante) será feita por escrito, pelo Diretor, mediante a apresentação das seguintes exigências:
 
 a) ser brasileiro;
 
@@ -130,11 +128,11 @@ i) saber ler e escrever;
 
 j) não ter nota na Caderneta de Matrícula da Capitania do Pôrto, de delito ou crime, embriaguês, briga ou conflito, roubo ou furto e indisciplina, cometidos a bordo.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO CONTRATADO</em>
+*DO CONTRATADO*
 
-<strong>Art</strong>. 18. A admissão do contratado será feita mediante os seguintes documentos:
+**Art**. 18. A admissão do contratado será feita mediante os seguintes documentos:
 
 a) prova de capacidade técnica para a função;
 
@@ -146,17 +144,17 @@ d) atestado de vacina;
 
 e) atestado de sanidade e capacidade física para o desempenho da função.
 
-Parágrafo único. As exigências das alíneas <em>b</em>, <em>c</em> e <em>e</em> não se estenderão aos estrangeiros não residentes no país, e as da alínea <em>c</em>, não se aplicam aos estrangeiros residentes do país.
+Parágrafo único. As exigências das alíneas *b*, *c* e *e* não se estenderão aos estrangeiros não residentes no país, e as da alínea *c*, não se aplicam aos estrangeiros residentes do país.
 
-<strong>Art</strong>. 19. Dos contratos constarão, obrigatoriamente, as condições de locação, salário e o prazo de validade.
+**Art**. 19. Dos contratos constarão, obrigatoriamente, as condições de locação, salário e o prazo de validade.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO DIARISTA</em>
+*DO DIARISTA*
 
-<strong>Art</strong>. 20. A admissão do diarista será sempre feita em função constante da tabela numérica, aprovada para essa modalidade de empregado.
+**Art**. 20. A admissão do diarista será sempre feita em função constante da tabela numérica, aprovada para essa modalidade de empregado.
 
-<strong>Art</strong>. 21. São condições essenciais para a admissão em qualquer função de diarista:
+**Art**. 21. São condições essenciais para a admissão em qualquer função de diarista:
 
 a) prova de quitação com o serviço militar;
 
@@ -166,19 +164,19 @@ c) atestado de sanidade e capacidade física para a função;
 
 d) atestado de bons antecedentes fornecido pela Polícia Civil.
 
-<strong>Art</strong>. 22. A admissão de menores de dezoito anos nas funções cujo desempenho lhes seja permitido, prescinde da prova de quitação com o serviço militar.
+**Art**. 22. A admissão de menores de dezoito anos nas funções cujo desempenho lhes seja permitido, prescinde da prova de quitação com o serviço militar.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO TAREFEIRO</em>
+*DO TAREFEIRO*
 
-<strong>Art</strong>. 23. Os trabalhos dos tarefeiros remunerados na base da unidade de produção, obedecido o limite mínimo fixado para cada caso.
+**Art**. 23. Os trabalhos dos tarefeiros remunerados na base da unidade de produção, obedecido o limite mínimo fixado para cada caso.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO CONCURSO</em>
+*DO CONCURSO*
 
-<strong>Art</strong>. 24. Os concursos serão provas, ou de provas e títulos, de acôrdo com as instruções baixadas pelo Diretor.
+**Art**. 24. Os concursos serão provas, ou de provas e títulos, de acôrdo com as instruções baixadas pelo Diretor.
 
 § 1º Os editais de concurso deverão ser publicados dois dias seguidos num dos jornais da cidade de Corumbá Estado de Mato Grosso.
 
@@ -188,19 +186,19 @@ d) atestado de bons antecedentes fornecido pela Polícia Civil.
 
 § 4º Nas funções para as quais pela sua natureza subalterna, não se exija concurso, será necessário, mesmo assim, que o candidato seja alfabetizado.
 
-<strong>Art</strong>. 25. As admissões dos mensalistas serão feitas a título provisório decorridos três meses de efetivo exercício dos cargos o empregado será reduzido ou dispensado, conforma aptidão ou inaptidão que demonstrar perante os chefes de serviço, e a juízo da Diretoria. Decorridos dois anos no exercício de qualquer função do quadro, será o empregado automàticamente efetivado no quadro do “SNBP”, salvo nas funções em comissão.
+**Art**. 25. As admissões dos mensalistas serão feitas a título provisório decorridos três meses de efetivo exercício dos cargos o empregado será reduzido ou dispensado, conforma aptidão ou inaptidão que demonstrar perante os chefes de serviço, e a juízo da Diretoria. Decorridos dois anos no exercício de qualquer função do quadro, será o empregado automàticamente efetivado no quadro do “SNBP”, salvo nas funções em comissão.
 
-<strong>Art</strong>. 26. Nas admissões dos tripulantes deverá constar se os mesmos gozam ou não do direito de estabilidade.
+**Art**. 26. Nas admissões dos tripulantes deverá constar se os mesmos gozam ou não do direito de estabilidade.
 
-<strong>Art</strong>. 27. Os cargos de Comandantes serão, preferencialmente, exercidos por oficiais de Marinha Mercante, de preferência, com carta de prático dos rios, observado o Regulamento das Capitanias.
+**Art**. 27. Os cargos de Comandantes serão, preferencialmente, exercidos por oficiais de Marinha Mercante, de preferência, com carta de prático dos rios, observado o Regulamento das Capitanias.
 
-<strong>Art</strong>. 28. Admitido, o empregado deverá ser identificado pelo Serviço do Pessoal, antes de se apresentar no lugar para que fôr designado.
+**Art**. 28. Admitido, o empregado deverá ser identificado pelo Serviço do Pessoal, antes de se apresentar no lugar para que fôr designado.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DA FIANÇA</em>
+*DA FIANÇA*
 
-<strong>Art</strong>. 29. Os empregados que desempenharem as funções abaixo indicadas, serão obrigadas a prestar as seguintes fianças:
+**Art**. 29. Os empregados que desempenharem as funções abaixo indicadas, serão obrigadas a prestar as seguintes fianças:
 
 a) tesoureiro ........................................................................................................... 15.000,00
 
@@ -220,63 +218,63 @@ III - em apólices de seguros de fidelidade emitidas por institutos oficiais ou 
 
 § 2º A fiança só será levantada depois da competente tomada de contas.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Direitos e vantagens</em>
+*Direitos e vantagens*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO SALÁRIO E DA SOLDADA</em>
+*DO SALÁRIO E DA SOLDADA*
 
-<strong>Art</strong>. 30. Salário ou soldada é a retribuição paga pelo desempenho da função ou execução do trabalho.
+**Art**. 30. Salário ou soldada é a retribuição paga pelo desempenho da função ou execução do trabalho.
 
-<strong>Art</strong>. 31. Os empregados perceberão os salários ou as soldadas constantes das tabelas respectivas, que só poderão ser majoradas na forma prevista na legislação em vigor.
+**Art**. 31. Os empregados perceberão os salários ou as soldadas constantes das tabelas respectivas, que só poderão ser majoradas na forma prevista na legislação em vigor.
 
-<strong>Art</strong>. 32. O regimento fixará o período mínimo obrigatório para cada natureza de trabalho, respeitado, porém, o limite de duzentos horas mensais para os serviços industriais e de vigilância e de trinta e nove semanais para os de escritório.
+**Art**. 32. O regimento fixará o período mínimo obrigatório para cada natureza de trabalho, respeitado, porém, o limite de duzentos horas mensais para os serviços industriais e de vigilância e de trinta e nove semanais para os de escritório.
 
 § 1º O salário ou soldada corresponderá sempre ao limite mensal e semanal referido neste artigo, independentemente das fases do dia ou da noite dentro do qual o trabalho se realize.
 
 § 2º A qualquer título, mesmo eventualmente, é vedado trabalhar consecutivamente mais de dezesseis horas.
 
-<strong>Art</strong>. 33. As escalas de serviços dos diaristas serão organizadas de maneira que o total de diárias, em cada mês, não exceda o número de dias úteis correspondentes nem o total anual seja superior a 300 dias.
+**Art**. 33. As escalas de serviços dos diaristas serão organizadas de maneira que o total de diárias, em cada mês, não exceda o número de dias úteis correspondentes nem o total anual seja superior a 300 dias.
 
-<strong>Art</strong>. 34. A remuneração das funções obedecerá às referências constantes das respectivas tabelas.
+**Art**. 34. A remuneração das funções obedecerá às referências constantes das respectivas tabelas.
 
-<strong>Art</strong>. 35. Quando designado para função em comissão, o empregado poderá optar pelo salário correspondente a esta função ou pelo que percebe na função que normalmente desempenha.
+**Art**. 35. Quando designado para função em comissão, o empregado poderá optar pelo salário correspondente a esta função ou pelo que percebe na função que normalmente desempenha.
 
-<strong>Art</strong>. 36. Além das vantagens previstas em lei ou regulamento que de forma expressa a êle se refiram, o pessoal do “SNBP” não poderá perceber quaisquer outras vantagens pecuniárias.
+**Art**. 36. Além das vantagens previstas em lei ou regulamento que de forma expressa a êle se refiram, o pessoal do “SNBP” não poderá perceber quaisquer outras vantagens pecuniárias.
 
-<strong>Art</strong>. 37. O salário ou soldada do pessoal do “SNBP” não poderá ser objeto de arresto, seqüestro ou penhora, salvo quando se tratar:
+**Art**. 37. O salário ou soldada do pessoal do “SNBP” não poderá ser objeto de arresto, seqüestro ou penhora, salvo quando se tratar:
 
 a) de dívidas por impostos e taxas para com a Fazenda Nacional, em face da cobrança judicial.
 
-<strong>Art</strong>. 38. Só se admitirá procuração para efeito de recebimento de salário ou quaisquer outras vantagens do pessoal do “S.N.B.P.” quando o empregado se encontrar fora da respectiva sede de trabalho ou estiver, comprovadamente, impossibilitado de locomo-ver-se.
+**Art**. 38. Só se admitirá procuração para efeito de recebimento de salário ou quaisquer outras vantagens do pessoal do “S.N.B.P.” quando o empregado se encontrar fora da respectiva sede de trabalho ou estiver, comprovadamente, impossibilitado de locomo-ver-se.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA GRATIFICAÇÃO, AJUDA DE CUSTO E DIÁRIA</em>
+*DA GRATIFICAÇÃO, AJUDA DE CUSTO E DIÁRIA*
 
-<strong>Art</strong>. 39. Em qualquer hipótese, quando o trabalho diário exceder o período normal de seis horas e meia ou de oito, conforme o caso, o mesmo será remunerado na base do salário-hora ordinário, acrescido de vinte e cinco por cento (25%), se, com a prorrogação, o trabalho não passar de dez horas seguidas.
+**Art**. 39. Em qualquer hipótese, quando o trabalho diário exceder o período normal de seis horas e meia ou de oito, conforme o caso, o mesmo será remunerado na base do salário-hora ordinário, acrescido de vinte e cinco por cento (25%), se, com a prorrogação, o trabalho não passar de dez horas seguidas.
 
 § 1º Se, com a prorrogação, o trabalho passar das 10 horas mencionadas até o limite de dezesseis, o aumento será feito na base do salário-hora ordinário, acrescido de 50%.
 
 § 2º Os acréscimos dêste artigo somente serão concedidos tendo em vista a duração do trabalho, independentemente das fases do dia ou da noite dentro do qual o mesmo se realiza.
 
-<strong>Art</strong>. 40. Tendo em vista as condições do trabalho, o Diretor poderá conceder aos empregados gratificações até o máximo de mil cruzeiros (Cr$1.000,00) - num mês.
+**Art**. 40. Tendo em vista as condições do trabalho, o Diretor poderá conceder aos empregados gratificações até o máximo de mil cruzeiros (Cr$1.000,00) - num mês.
 
-<strong>Art</strong>. 41. Ao Pessoal Servidor do “SNBP”, serão distribuídos, anualmente, a título de gratificação, 10% do saldo líquido da exploração, que se verificar na apuração final de contas pela DC. e após sua aprovação pelo M.V.O.P., na proporção dos respectivos salários ou soldadas ordinárias, e do tempo de serviço dentro do período do ano em aprêço, vencidos no ano correspondente.
+**Art**. 41. Ao Pessoal Servidor do “SNBP”, serão distribuídos, anualmente, a título de gratificação, 10% do saldo líquido da exploração, que se verificar na apuração final de contas pela DC. e após sua aprovação pelo M.V.O.P., na proporção dos respectivos salários ou soldadas ordinárias, e do tempo de serviço dentro do período do ano em aprêço, vencidos no ano correspondente.
 
-<strong>Art</strong>. 42. Os empregados quando designados para exercerem funções de Agente ou outras fora da sede perceberão, além dos seus salários, mais uma importância mensal, variável de acôrdo com a função e a região a título de representação, a critério do Diretor.
+**Art**. 42. Os empregados quando designados para exercerem funções de Agente ou outras fora da sede perceberão, além dos seus salários, mais uma importância mensal, variável de acôrdo com a função e a região a título de representação, a critério do Diretor.
 
-<strong>Art</strong>. 43 O Diretor e os empregados de terra que se afastarem da sede em objeto de serviço e em caráter temporário, terão a diária correspondente à tabela que fôr aprovada pelo Ministério da Viação e Obras Públicas.
+**Art**. 43 O Diretor e os empregados de terra que se afastarem da sede em objeto de serviço e em caráter temporário, terão a diária correspondente à tabela que fôr aprovada pelo Ministério da Viação e Obras Públicas.
 
-<strong>Art</strong>. 44 Os empregados transferidos por conveniência do serviço ou que forem designados para exercerem comissões temporárias fora da sede e desde que estas ultrapassem de 60 dias, terão direito a uma ajuda de sutas variável de 1 a 3 meses, a critério da Diretoria, além da passagem e despesas de viagem para si no primeiro caso e para si e sua família no segundo.
+**Art**. 44 Os empregados transferidos por conveniência do serviço ou que forem designados para exercerem comissões temporárias fora da sede e desde que estas ultrapassem de 60 dias, terão direito a uma ajuda de sutas variável de 1 a 3 meses, a critério da Diretoria, além da passagem e despesas de viagem para si no primeiro caso e para si e sua família no segundo.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS FÉRIAS</em>
+*DAS FÉRIAS*
 
-<strong>Art</strong>. 45. Depois de um ano de trabalho continuado, o pessoal do “SNBP”, terá direito a 20 dias consecutivos de férias a serem concedidas no mesmo exercício, de acôrdo com a conveniência do serviço.
+**Art**. 45. Depois de um ano de trabalho continuado, o pessoal do “SNBP”, terá direito a 20 dias consecutivos de férias a serem concedidas no mesmo exercício, de acôrdo com a conveniência do serviço.
 
 § 1º Não podem ser levadas a conta de férias quaisquer faltas ao trabalho.
 
@@ -284,15 +282,15 @@ a) de dívidas por impostos e taxas para com a Fazenda Nacional, em face da cobr
 
 § 3º É facultado o gôzo das férias onde convier ao empregado, desde que haja comunicação prévia ao chefe direto, do respectivo enderêço.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS LICENÇAS</em>
+*DAS LICENÇAS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 46. O pessoal em geral será licenciado:
+**Art**. 46. O pessoal em geral será licenciado:
 
 a) quando acidentado no desempenho das funções;
 
@@ -306,41 +304,41 @@ e) para tratamento da própria saúde;
 
 f) para tratar de interêsses particulares.
 
-Parágrafo único. Ao empregado diarista não será concedida a licença especificada na alínea <em>f</em> dêsse artigo.
+Parágrafo único. Ao empregado diarista não será concedida a licença especificada na alínea *f* dêsse artigo.
 
-<strong>Art</strong>. 47 As licenças serão concedidas pelo Diretor do S.N.B.P.
+**Art**. 47 As licenças serão concedidas pelo Diretor do S.N.B.P.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Acidente no desempenho das funções</em>
+*Acidente no desempenho das funções*
 
-<strong>Art</strong>. 48. Ao empregado do S.N.B.P., vítima de acidente do trabalho no desempenho das funções, aplicar-se-á a legislação em vigor correspondente, além do tratamento e dos socorros imediatos que lhe devam ser prestados.
+**Art**. 48. Ao empregado do S.N.B.P., vítima de acidente do trabalho no desempenho das funções, aplicar-se-á a legislação em vigor correspondente, além do tratamento e dos socorros imediatos que lhe devam ser prestados.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Serviço Militar</em>
+*Serviço Militar*
 
-<strong>Art</strong>. 49 O empregado do S.N.B.P., quando convocado para prestação de serviço militar ou de qualquer outro serviço obrigatório, em virtude de disposição legal, será licenciado sem prejuízo de quaisquer direitos ou vantagens, devendo optar pelo vencimento do pôsto ou pelo salário, a que tiver direito como empregado.
+**Art**. 49 O empregado do S.N.B.P., quando convocado para prestação de serviço militar ou de qualquer outro serviço obrigatório, em virtude de disposição legal, será licenciado sem prejuízo de quaisquer direitos ou vantagens, devendo optar pelo vencimento do pôsto ou pelo salário, a que tiver direito como empregado.
 
-<strong>SEÇ</strong><em><strong>Ã</strong></em><strong>O IV</strong>
+**SEÇ*Ã*O IV**
 
-<em>Casos de tuberculose ativa, alienação mental, neoplasia maligna, cegueira, lepra ou paralisia</em>
+*Casos de tuberculose ativa, alienação mental, neoplasia maligna, cegueira, lepra ou paralisia*
 
-<strong>Art</strong>. 50. O empregado do “SNBP” que fôr atacado de tuberculose ativa, alienação mental, neoplasia maligna, cegueira, lepra ou paralisia, será compulsòriamente licenciado com salário integral até conseqüente aposentadoria.
+**Art**. 50. O empregado do “SNBP” que fôr atacado de tuberculose ativa, alienação mental, neoplasia maligna, cegueira, lepra ou paralisia, será compulsòriamente licenciado com salário integral até conseqüente aposentadoria.
 
 Parágrafo único. A licença poderá ser convertida em aposentadoria quando, após dois anos consecutivos de licença para tratamento de saúde, ficar provada a invalidez definitiva do emprego.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Servidora gestante</em>
+*Servidora gestante*
 
-<strong>Art</strong>. 51. À gestante será concedida, mediante inspeção médica, licença, por três meses, sem prejuízo do salário.
+**Art**. 51. À gestante será concedida, mediante inspeção médica, licença, por três meses, sem prejuízo do salário.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Tratamento de saúde</em>
+*Tratamento de saúde*
 
-<strong>Art</strong>. 52. A licença para tratamento de saúde será concedida:
+**Art**. 52. A licença para tratamento de saúde será concedida:
 
 a) a pedido do empregado;
 
@@ -350,29 +348,29 @@ b) ‘’ex-officio‘’.
 
 § 2° As licenças serão concedidas pelos prazos consignados nos laudos ou atestados médicos fôrnecidos pelo I.A.P.M.
 
-<strong>Art</strong>. 53. A licença poderá ser prorrogada <em>ex-officio</em> ou mediante solicitação do interessado.
+**Art**. 53. A licença poderá ser prorrogada *ex-officio* ou mediante solicitação do interessado.
 
-<strong>Art</strong>. 54. Quando licenciado para tratamento de saúde, o empregado perceberá o salário integral nos primeiros doze meses: excedendo êste prazo, sofrerá o desconto de um terço, do décimo terceiro ao decimo oitavo meses, e de dois terços nos seis meses seguintes.
+**Art**. 54. Quando licenciado para tratamento de saúde, o empregado perceberá o salário integral nos primeiros doze meses: excedendo êste prazo, sofrerá o desconto de um terço, do décimo terceiro ao decimo oitavo meses, e de dois terços nos seis meses seguintes.
 
-<strong>Art</strong>. 55. Permanecendo licenciado por 24 meses, o empregado será submetido a inspeção médica, e, julgando incapaz, será aposentado nos termos das legislação em vigor.
+**Art**. 55. Permanecendo licenciado por 24 meses, o empregado será submetido a inspeção médica, e, julgando incapaz, será aposentado nos termos das legislação em vigor.
 
-<strong>Art</strong>. 56. As licenças concedidas dentro de sessenta dias, contados da terminação da anterior, serão consideradas em prorrogação, para os efeitos do art. 54.
+**Art**. 56. As licenças concedidas dentro de sessenta dias, contados da terminação da anterior, serão consideradas em prorrogação, para os efeitos do art. 54.
 
-<strong>Art</strong>. 57. Sob pena de demissão, o empregado, quando licenciado para tratamento de saúde, não poderá dedicar-se a qualquer outra ocupação de aufira vantagens pecuniárias.
+**Art**. 57. Sob pena de demissão, o empregado, quando licenciado para tratamento de saúde, não poderá dedicar-se a qualquer outra ocupação de aufira vantagens pecuniárias.
 
-<strong>Art</strong>. 58. Quando em gozo de licença remunerada, ao empregado do ‘’SNBP’’ não se atribuirá a gratificação que recebia em razão de determinadas funções.
+**Art**. 58. Quando em gozo de licença remunerada, ao empregado do ‘’SNBP’’ não se atribuirá a gratificação que recebia em razão de determinadas funções.
 
-<strong>Art</strong>. 59. Salvo caso de prorrogação, o emprego deverá assumir imediatamente as respectivas funções, quando terminar o prazo de licença.
+**Art**. 59. Salvo caso de prorrogação, o emprego deverá assumir imediatamente as respectivas funções, quando terminar o prazo de licença.
 
 Parágrafo único. Em hipótese contrária ao disposto nêste artigo, a falta ao serviço importara na perda total do salário, e, se a ausência exceder de 30 dias, caberá a demissão, por abandono das respectivas funções.
 
-<strong>Art</strong>. 60. Em gozo de licença, o empregado não contará tempo para nenhum efeito, exceto quando se tratar de afastamento nos termos dos artigos 46, 49, 51.
+**Art**. 60. Em gozo de licença, o empregado não contará tempo para nenhum efeito, exceto quando se tratar de afastamento nos termos dos artigos 46, 49, 51.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Licença para tratar de interêsses particulares</em>
+*Licença para tratar de interêsses particulares*
 
-<strong>Art</strong>. 61. Depois de dois anos de serviço efetivo o empregado do ‘’SNBP’’ poderá obter licença, sem direito salário para tratar de interêsses particulares.
+**Art**. 61. Depois de dois anos de serviço efetivo o empregado do ‘’SNBP’’ poderá obter licença, sem direito salário para tratar de interêsses particulares.
 
 § 1° A licença poderá ser negada quando o afastamento do emprego fôr inconveniente ao interêsse do serviço.
 
@@ -384,51 +382,51 @@ Parágrafo único. Em hipótese contrária ao disposto nêste artigo, a falta ao
 
 § 5° A licença de que trata êste artigo será concedida até o prazo máximo de dois anos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS CONCESSÕES</em>
+*DAS CONCESSÕES*
 
-<strong>Art</strong>. 62. O empregado poderá faltar ao serviço, sem prejuízo do salário, até oito dias consecutivos, por motivo de:
+**Art**. 62. O empregado poderá faltar ao serviço, sem prejuízo do salário, até oito dias consecutivos, por motivo de:
 
 a) casamento, e
 
 b) falecimento do cônjuge, filho pais ou irmãos.
 
-<strong>Art</strong>. 63. O empregado que, por doença, não puder comparecer ao serviço, ficas obrigado a fazer pronta comunicação do seu estado ao chefe direto, que providenciará a comprovação do fato.
+**Art**. 63. O empregado que, por doença, não puder comparecer ao serviço, ficas obrigado a fazer pronta comunicação do seu estado ao chefe direto, que providenciará a comprovação do fato.
 
 Parágrafo único. Se ficar comprovada a impossibilidade de comparecimento ao serviço o empregado não sofrerá desconto em seu salário do dia, desde que as faltas não excedam a três durante o mês, caso em que caberá licença para tratamento de saúde.
 
-<strong>Art</strong>. 64. A consignação em fôlha de pagamento é restrita aos descontos obrigatórios e aos autorizados conforme Decreto-lei n° 1.133, de 3-3-39. Aos tripulantes porem, cabe o direito de consignar, em fôlha de pagamento, a pessoas de sua família ou procurador, na sede, até 70% de suas soldadas, desde que não tenham compromissos com o ‘’SNBP’’, ou outras consignações, caso em que poderão consignar apenas uma quota tal que o conjunto dos descontos não ultrapasse aquêle limite.
+**Art**. 64. A consignação em fôlha de pagamento é restrita aos descontos obrigatórios e aos autorizados conforme Decreto-lei n° 1.133, de 3-3-39. Aos tripulantes porem, cabe o direito de consignar, em fôlha de pagamento, a pessoas de sua família ou procurador, na sede, até 70% de suas soldadas, desde que não tenham compromissos com o ‘’SNBP’’, ou outras consignações, caso em que poderão consignar apenas uma quota tal que o conjunto dos descontos não ultrapasse aquêle limite.
 
 § 1° Os descontos autorizados só podem ser feitos a favor de institutos oficiais de crédito.
 
 § 2° O total de descontos obrigatórios e autorizados não poderá exceder de 30% dos salários correspondentes, salvo quando se destinarem à aquisição de terreno ou casa de moradia, hipótese em que êsse total poderá ser elevado a 50%.
 
-<strong>Art</strong>. 65. Ao pessoal em geral, bem como os membros de sua família ou pessoas sob sua responsabilidade será concedido o abatimento de 50% sôbre os preços das passagens respectivas nos navios do ‘’SBNP’’.
+**Art**. 65. Ao pessoal em geral, bem como os membros de sua família ou pessoas sob sua responsabilidade será concedido o abatimento de 50% sôbre os preços das passagens respectivas nos navios do ‘’SBNP’’.
 
 Parágrafo único. Para o gôzo de vantagem disposta neste artigo, os interessados deverão fazer prova, com documentos hábeis, relativamente aos membros de sua família, e apresentar declaração escrita, do Comandante do navio ou chefe de Seção a que pertencerem, de que estão em efetivo exercício.
 
-<strong>Art</strong>. 66. Ao pessoal em geral será concedida assistência judiciária quando, agindo com comprovada prudência na defesa dos interêsses do serviço, causar ferimento ou morte a terceiros.
+**Art**. 66. Ao pessoal em geral será concedida assistência judiciária quando, agindo com comprovada prudência na defesa dos interêsses do serviço, causar ferimento ou morte a terceiros.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DA MELHORIA</em>
+*DA MELHORIA*
 
-<strong>Art</strong>. 67. A melhoria de salário dos empregados do ‘’SBNP’’ obedecerá sempre ao critério alternado de merecimento e antiguidade.
+**Art**. 67. A melhoria de salário dos empregados do ‘’SBNP’’ obedecerá sempre ao critério alternado de merecimento e antiguidade.
 
-<strong>Art</strong>. 68. O merecimento será apurado à vista dos assentamentos dos empregados, das informações que em cada caso forem prestadas pelos chefes de serviço relativamente à honestidade, disciplina, competência e desvêlo.
+**Art**. 68. O merecimento será apurado à vista dos assentamentos dos empregados, das informações que em cada caso forem prestadas pelos chefes de serviço relativamente à honestidade, disciplina, competência e desvêlo.
 
 § 1° Para a referência final, a melhoria será fiscalizada exclusivamente pelo critério de merecimento.
 
 § 2° À melhoria por merecimento só poderão concorrer os empregados colocados nos dois primeiros terços por ordem de antiguidade, contada na referência do salário, e que tenham, no mínimo um ano de exercício na função.
 
-<strong>Art</strong>. 69. A melhoria por antiguidade será feita à vista da antiguidade na classe, em caso de empate, pela antiguidade absoluta.
+**Art**. 69. A melhoria por antiguidade será feita à vista da antiguidade na classe, em caso de empate, pela antiguidade absoluta.
 
-<strong>Art</strong>. 70. O mensalista não poderá ter o salário melhorado antes de decorridos dois anos do desempenho da função nem melhorias sucessivas sem o interstício de igual prazo, execetuada a hipótese de, na mesma referência, não haver outro mensalista com tal período de exercício.
+**Art**. 70. O mensalista não poderá ter o salário melhorado antes de decorridos dois anos do desempenho da função nem melhorias sucessivas sem o interstício de igual prazo, execetuada a hipótese de, na mesma referência, não haver outro mensalista com tal período de exercício.
 
-<strong>Art</strong>. 71. A melhoria só ocorrerá quando haver vaga imediatamente superior na tabela numérica correspondente.
+**Art**. 71. A melhoria só ocorrerá quando haver vaga imediatamente superior na tabela numérica correspondente.
 
-<strong>Art</strong>. 72. Não serão descontadas os dias em que o empregado do ‘’SBNP’’ não comparecer ao serviço por motivo de:
+**Art**. 72. Não serão descontadas os dias em que o empregado do ‘’SBNP’’ não comparecer ao serviço por motivo de:
 
 a) férias;
 
@@ -442,19 +440,19 @@ e) licença à gestante;
 
 f) casamento ou luto na forma do artigo 64.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DA TRANSFERÊNCIA</em>
+*DA TRANSFERÊNCIA*
 
-<strong>Art</strong>. 73. O empregado do S.N.B.P. poderá ser transferido de uma para outra série funcional, ou de uma função isolada para uma série funcional, desde que se verifique a existência de vaga deva ser preenchida por merecimento ou conveniência do serviço a juízo do Diretor.
+**Art**. 73. O empregado do S.N.B.P. poderá ser transferido de uma para outra série funcional, ou de uma função isolada para uma série funcional, desde que se verifique a existência de vaga deva ser preenchida por merecimento ou conveniência do serviço a juízo do Diretor.
 
-<strong>Art</strong>. 74. A transferência far-se-á:
+**Art**. 74. A transferência far-se-á:
 
 I - a pedido do empregado, atendendo-se à conveniência do serviço;
 
 II - ex-ofìcio, no interêsse do serviço;
 
-<strong>Art</strong>. 75. A transferência somente ocorrerá para a mesma referência de salário.
+**Art**. 75. A transferência somente ocorrerá para a mesma referência de salário.
 
 Parágrafo único. São condições indispensáveis para a transferência:
 
@@ -462,11 +460,11 @@ a) parecer dos dois chefes de serviço interessados, e
 
 b) satisfazer dos requisitos exigidos para a nova função para a nova função, salvo no caso previsto no art. 73, a juízo do Diretor.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DA READAPTAÇÃO</em>
+*DA READAPTAÇÃO*
 
-<strong>Art</strong>. 76. O empregado do S.N.B.P. poderá ser readaptado em outras funções, independentemente de curso, verificando-se alguma das condições seguintes:
+**Art**. 76. O empregado do S.N.B.P. poderá ser readaptado em outras funções, independentemente de curso, verificando-se alguma das condições seguintes:
 
 a) quando o seu estado de saúde prejudicar o desempenho da função;
 
@@ -476,31 +474,31 @@ c) quando a sua habilitação profissional for deficiente prejudicando a marcha 
 
 d) quando os seus pendores forem mais bem, aproveitados em outras funções.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DA READMISSÃO</em>
+*DA READMISSÃO*
 
-<strong>Art</strong>. 77. Readmissão é o ato pelo qual, a critério do Diretor do S.N.B.P., o empregado dispensado reingressa no serviço na antiga ou em outra função de salário igual ou inferior ao da anterior, com direito, apenas, a contagem do serviço anterior à dispensa, para efeito da aposentadoria.
+**Art**. 77. Readmissão é o ato pelo qual, a critério do Diretor do S.N.B.P., o empregado dispensado reingressa no serviço na antiga ou em outra função de salário igual ou inferior ao da anterior, com direito, apenas, a contagem do serviço anterior à dispensa, para efeito da aposentadoria.
 
 Parágrafo único. Em nenhum caso, poderá efetuar-se a readmissão sem que, mediante inspeção médica fique provada a capacidade para o desempenho da função.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DA APOSENTADORIA E PENSÃO</em>
+*DA APOSENTADORIA E PENSÃO*
 
-<strong>Art</strong>. 78. O empregado do S.N.B.P. terá aposentadoria e pensões na forma da legislação em vigor.
+**Art**. 78. O empregado do S.N.B.P. terá aposentadoria e pensões na forma da legislação em vigor.
 
 Parágrafo único. O empregado do S.N.B.P., que fôr aposentado em conseqüência das doenças especificadas no art. 50 ou decorrente de acidente que o invalidem para qualquer serviço, perceberá, pelos cofres do S.N.B.P., a diferença entre seus salários efetivos e os proventos que lhe forem pagos pelo I.A.P.M. em virtude da aposentadoria.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da ação disciplinar</em>
+*Da ação disciplinar*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS DEVERES</em>
+*DOS DEVERES*
 
-<strong>Art</strong>. 79. São deveres do empregado do S.N.B.P., além dos que lhe cabem pela função:
+**Art**. 79. São deveres do empregado do S.N.B.P., além dos que lhe cabem pela função:
 
 I - comparecer ao serviço às horas de trabalho ordinário e às extraordinário, quando convocado, executando as atribuições que lhe competirem;
 
@@ -532,7 +530,7 @@ XIV - substituir os seus imediatos ou iguais nas faltas, impedimentos ou férias
 
 XV - abster-se de prática de jogos de azar.
 
-<strong>Art</strong>. 80. Aos oficiais e tripulantes em geral, inclusive práticos destacados pelo 6° Distrito Naval, cabe, além do disposto no art. 79:
+**Art**. 80. Aos oficiais e tripulantes em geral, inclusive práticos destacados pelo 6° Distrito Naval, cabe, além do disposto no art. 79:
 
 I - estar a bordo nos dias de partida do navio pelo menos duas horas antes, salvo os que estiverem de serviço que entrarão na hora que lhes fôr designada; e nos respectivos postos por ocasião de manobras, vistorias e exercício;
 
@@ -574,7 +572,7 @@ XIX - manter nos alojamentos a maior ordem, respeito e silêncio;
 
 XX - observar, fielmente, no que lhe diz respeito, êste Regulamento e o das Capitanias dos Portos.
 
-<strong>Art</strong>. 81. Aos comandantes, em particular, incubem, como delegados que são da Diretoria:
+**Art**. 81. Aos comandantes, em particular, incubem, como delegados que são da Diretoria:
 
 I - determinar e orientar a navegação, de comum acôrdo com os práticos dos rios, responsáveis pela mesma;
 
@@ -620,7 +618,7 @@ XX - fiscalizar e fazer cumprir tôdas as ordens de serviço emanadas da Diretor
 
 XXI - zelar pela perfeição e economia dos serviços de bordo.
 
-<strong>Art</strong>. 82. Ao empregado do “SNBP” é proibido:
+**Art**. 82. Ao empregado do “SNBP” é proibido:
 
 I - fazer contrato de natureza comercial ou industrial com o Govêrno, por si, ou como representante de terceiros.
 
@@ -662,11 +660,11 @@ XIX - receber estipêndios de firmas fornecedoras ou de entidades fiscalizadas, 
 
 XX - valer se de sua qualidade de em pregado do “SNBP”, para melhor desempenhar atividades estranhas às funções ou para lograr qualquer provento direta ou indiretamente, por si ou interposta pessoa.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA RESPONSABILIDADE</em>
+*DA RESPONSABILIDADE*
 
-<strong>Art</strong>. 83. O empregado do “SNBP” é responsável:
+**Art**. 83. O empregado do “SNBP” é responsável:
 
 I - pelos prejuízos que causar ao patrimônio ao “SNBP”, por dolo, ignorância, indolência, negligência ou omissão;
 
@@ -678,15 +676,15 @@ IV - por qualquer êrro ou engano que decorra prejuízo ao patrimônio do “SNB
 
 V - responder pelas ações ou missões que praticar;
 
-<strong>Art</strong>. 84. Nos casos de indenização, o empregado do “SNBP” será obrigado a repor a importância do prejuízo causado, embora, ajuízo do Diretor, a mesma possa ser de seu salário em parcela mensais.
+**Art**. 84. Nos casos de indenização, o empregado do “SNBP” será obrigado a repor a importância do prejuízo causado, embora, ajuízo do Diretor, a mesma possa ser de seu salário em parcela mensais.
 
-<strong>Art</strong>. 85. A responsabilidade administrativa não exclue a penal ou criminal enm exime o empregado da pena disciplinar.
+**Art**. 85. A responsabilidade administrativa não exclue a penal ou criminal enm exime o empregado da pena disciplinar.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS PENALIDADES</em>
+*DAS PENALIDADES*
 
-<strong>Art</strong>. 86. Aplicam-se aos empregados do “SNBP” as seguintes penas disciplinares:
+**Art**. 86. Aplicam-se aos empregados do “SNBP” as seguintes penas disciplinares:
 
 I - advertência
 
@@ -700,21 +698,21 @@ V - demissão, e
 
 VI - demissão a bem do serviço.
 
-<strong>Art</strong>. 87. A pena de advertência será aplicada verbalmente, em caso de negligência.
+**Art**. 87. A pena de advertência será aplicada verbalmente, em caso de negligência.
 
-<strong>Art</strong>. 88. A pena de repreensão será aplicada, por escrito, nos caso de desobediência ou falta de cumprimento dos deveres.
+**Art**. 88. A pena de repreensão será aplicada, por escrito, nos caso de desobediência ou falta de cumprimento dos deveres.
 
-<strong>Art</strong>. 89. A pena de suspensão em caso de falta grave, em que não caiba a demissão, desrespeito as proibições legais ou reincidência em faltas já punidas com repreensão, não devendo exceder de noventa dias.
+**Art**. 89. A pena de suspensão em caso de falta grave, em que não caiba a demissão, desrespeito as proibições legais ou reincidência em faltas já punidas com repreensão, não devendo exceder de noventa dias.
 
 Parágrafo único. O empregado suspenso perderá todas as vantagens e direitos decorrentes do desempenho da função.
 
-<strong>Art</strong>. 90. Aplicar-se-á pena de multas aos caso que se houver prejuízo ao “SNBP”.
+**Art**. 90. Aplicar-se-á pena de multas aos caso que se houver prejuízo ao “SNBP”.
 
 Parágrafo único. A multa de que trata êste artigo deverá corresponder sempre ao prejuízo causado, descontando-se até o limite o limite de 10% do salário mensal.
 
-<strong>Art</strong>. 91. Sempre que convier ao serviço, a pena de suspensão poderá ser convertida em multa continuando o empregado em trabalho e percebendo apenas 50% do salário.
+**Art**. 91. Sempre que convier ao serviço, a pena de suspensão poderá ser convertida em multa continuando o empregado em trabalho e percebendo apenas 50% do salário.
 
-<strong>Art</strong>. 92. Será aplicada a pena de demissão nos casos de:
+**Art**. 92. Será aplicada a pena de demissão nos casos de:
 
 I - abandono da função;
 
@@ -728,7 +726,7 @@ IV - aplicação indevida de dinheiros públicos.
 
 § 2.º Considerar-se abandono da função o não comparecimento ao serviço, sem causa justificada, durante trinta dias consecutivos pelos mensalista ou contratados e 15 dias pelos diarista ou tarefeiros.
 
-<strong>Art</strong>. 93. Será aplicada a pena de demissão a bem do serviço ao empregado que:
+**Art**. 93. Será aplicada a pena de demissão a bem do serviço ao empregado que:
 
 I - For convencido de incontinência pública e escandalosa, de vícios, de jogos proibidos e de embriaguês habitual no desempenho de suas atribuições;
 
@@ -744,68 +742,68 @@ VI - receber propina, comissões, presentes ou vantagens de qualquer espécie ou
 
 VII - pedir por empréstimo, dinheiro ou quaisquer valores a pessoas que tratem de interêsse ou que tenham no “SNBP”, ou seja sujeitas à sua fiscalização.
 
-<strong>Art</strong>. 94. A primeira infração e de acôrdo com a sua gravidade, poderá ser aplicada qualquer das penas do artigo 88 independente da gradação.
+**Art**. 94. A primeira infração e de acôrdo com a sua gravidade, poderá ser aplicada qualquer das penas do artigo 88 independente da gradação.
 
-<strong>Art</strong>. 95. O em pregado, preso preventivamente, pronunciado em crime comum ou funcional, ou condenado por crime inafiançável em processo no qual não haja pronúncia, será afastado desempenho da função até a condenação ou absolvição passada a ser julgado.
+**Art**. 95. O em pregado, preso preventivamente, pronunciado em crime comum ou funcional, ou condenado por crime inafiançável em processo no qual não haja pronúncia, será afastado desempenho da função até a condenação ou absolvição passada a ser julgado.
 
 Parágrafo único. durante o tratamento, o empregado perderá um terço do salário, tendo direito a diferença se for afinal absolvido.
 
-<strong>Art</strong>. 96. Os dispositivos dêste capítulo não se estendem aos tripulantes, aos quais será aplicado o regulamento das Capitanias dos Portos.
+**Art**. 96. Os dispositivos dêste capítulo não se estendem aos tripulantes, aos quais será aplicado o regulamento das Capitanias dos Portos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO INQUÉRITO ADMINISTRATIVO</em>
+*DO INQUÉRITO ADMINISTRATIVO*
 
-<strong>Art</strong>. 97. A autoridade do “SNBP” que tiver ciência ou notícia da ocorrência no serviço ou de qualquer infração dêste Regulamento é obrigado a promover a sua apuração imediata, por meios sumários ou mediante inquérito administrativo.
+**Art**. 97. A autoridade do “SNBP” que tiver ciência ou notícia da ocorrência no serviço ou de qualquer infração dêste Regulamento é obrigado a promover a sua apuração imediata, por meios sumários ou mediante inquérito administrativo.
 
-<strong>Art</strong>. 98. A instauração do inquérito é determinado pelo Diretor ou superior hieráquico quando sua necessidade se verificar fora da sede.
+**Art**. 98. A instauração do inquérito é determinado pelo Diretor ou superior hieráquico quando sua necessidade se verificar fora da sede.
 
-<strong>Art</strong>. 99. O inquérito administrativo será realizado por uma comissão designada  pela autoridade competente e será composta de três empregados.
+**Art**. 99. O inquérito administrativo será realizado por uma comissão designada  pela autoridade competente e será composta de três empregados.
 
 Parágrafo único. a autoridade que designar a comissão, determinará no ato da designação, quem deverá dirigir os trabalhos da comissão.
 
-<strong>Art</strong>. 100. Os membros da comissão dedicarão todo o seu tempo ao trabalho da mesma, ficando, isso automaticamente, dispensados dos serviços de sua seção durante a realização das diligências que se tornará necessárias.
+**Art**. 100. Os membros da comissão dedicarão todo o seu tempo ao trabalho da mesma, ficando, isso automaticamente, dispensados dos serviços de sua seção durante a realização das diligências que se tornará necessárias.
 
-<strong>Art</strong>. 101. O inquérito administrativo deverá ser iniciado dentro do prazo improrrogável de três dias, contando da data de designação dos membros da comissão no de sessenta dias, também improrrogável, a contar da data de seu início.
+**Art**. 101. O inquérito administrativo deverá ser iniciado dentro do prazo improrrogável de três dias, contando da data de designação dos membros da comissão no de sessenta dias, também improrrogável, a contar da data de seu início.
 
-<strong>Art</strong>. 102. A comissão procederá a tôdas as diligências que julgar convenientes, ouvindo, quando julgar necessário a opinião de técnicos ou peritos.
+**Art**. 102. A comissão procederá a tôdas as diligências que julgar convenientes, ouvindo, quando julgar necessário a opinião de técnicos ou peritos.
 
-<strong>Art</strong>. 103. A comissão fará citar o acusado, quando houver, para depor e, no prazo de 10 dias, apresentar a defesa.
+**Art**. 103. A comissão fará citar o acusado, quando houver, para depor e, no prazo de 10 dias, apresentar a defesa.
 
 Parágrafo único. Achando-se o acusado em lugar incerto, a citação será feita por edital, com prazo de oito dias.
 
-<strong>Art</strong>. 104. No caso de revelia, será designado “ex-ofício”, pela autoridade, um empregado para acompanhar o processo e se incumbir da defesa.
+**Art**. 104. No caso de revelia, será designado “ex-ofício”, pela autoridade, um empregado para acompanhar o processo e se incumbir da defesa.
 
-<strong>Art</strong>. 105. A comissão deverá fundamentar o seu parecer, propondo à aplicação da penalidade que couber.
+**Art**. 105. A comissão deverá fundamentar o seu parecer, propondo à aplicação da penalidade que couber.
 
-<strong>Art</strong>. 106. Ultimando o processo, será emitido com relatório da comissão do Diretor.
+**Art**. 106. Ultimando o processo, será emitido com relatório da comissão do Diretor.
 
-<strong>Art</strong>. 107. O Diretor julgará o processo dentro do prazo, improrrogável, de vinte dias.
+**Art**. 107. O Diretor julgará o processo dentro do prazo, improrrogável, de vinte dias.
 
 Parágrafo único. não sendo julgado no prazo indicado neste artigo, o acusado assumirá a função e aguardará o julgado.
 
-<strong>Art</strong>. 108. Quando o empregado do “SNBP” se imputar crime, praticado na esfera administrativa ou não, o Diretor, além da instauração do inquérito administrativo, providenciará para que se instaure simultâneamente o inquérito policial.
+**Art**. 108. Quando o empregado do “SNBP” se imputar crime, praticado na esfera administrativa ou não, o Diretor, além da instauração do inquérito administrativo, providenciará para que se instaure simultâneamente o inquérito policial.
 
 Parágrafo único. Quando se tratar de tripulante a autoridade providenciará o inquérito policial logo que o navio chegue à sede.
 
-<strong>Art</strong>. 109. As autoridades administrativa e policiais se auxiliarão para que ambos os processos  se incluam dentro dos prazos fixado no presente Regulamento.
+**Art**. 109. As autoridades administrativa e policiais se auxiliarão para que ambos os processos  se incluam dentro dos prazos fixado no presente Regulamento.
 
-<strong>Art</strong>. 110. Não cabe a realização de inquérito administrativo para a dispensa de empregado do “SNBP”, faltoso, ineficiente, desnecessário ou que tenha abandonado o trabalho, qualquer que seja  o tempo de serviço.
+**Art**. 110. Não cabe a realização de inquérito administrativo para a dispensa de empregado do “SNBP”, faltoso, ineficiente, desnecessário ou que tenha abandonado o trabalho, qualquer que seja  o tempo de serviço.
 
 DISPOSIÇÕES GERAIS
 
-<strong>Art</strong>. 111. Ao empregado do “SNBP”, aplicam-se os dispositivos regulamentares do I. A. P. M. sòmente na parte relativa a empréstimos aposentadorias, pensões assistência médico cirúrgica funeral.
+**Art**. 111. Ao empregado do “SNBP”, aplicam-se os dispositivos regulamentares do I. A. P. M. sòmente na parte relativa a empréstimos aposentadorias, pensões assistência médico cirúrgica funeral.
 
-<strong>Art</strong>. 112. Dos atos funcionais prescritos nêste Regulamento haverá um único recurso para o superior imediato; dos atos dêste sucessivamente até o Diretor até os atos do Diretor para o Ministro da Viação e obras Públicas com ciência do recorrido.
+**Art**. 112. Dos atos funcionais prescritos nêste Regulamento haverá um único recurso para o superior imediato; dos atos dêste sucessivamente até o Diretor até os atos do Diretor para o Ministro da Viação e obras Públicas com ciência do recorrido.
 
-<strong>Art</strong>. 113. Os caso omissos dêste Regulamento cuja solução não se enquadre nas atribuições do Diretor prevista no Regulamento do “SNBP”, serão submetidas à deliberação do Ministro de Viação e obras Públicas.
+**Art**. 113. Os caso omissos dêste Regulamento cuja solução não se enquadre nas atribuições do Diretor prevista no Regulamento do “SNBP”, serão submetidas à deliberação do Ministro de Viação e obras Públicas.
 
 DISPOSIÇÕES TRANSITÓRIAS
 
-<strong>Art</strong>. 114. Os atuais empregados que forem promovidos ou dispensados para cargos afiançados e que não puderem prestar desde logo a fiança respectiva, ficam sujeitos ao desconto mensal de 10 por cento dos seus vencimentos, até a integração da fiança.
+**Art**. 114. Os atuais empregados que forem promovidos ou dispensados para cargos afiançados e que não puderem prestar desde logo a fiança respectiva, ficam sujeitos ao desconto mensal de 10 por cento dos seus vencimentos, até a integração da fiança.
 
-<strong>Art</strong>. 115. Para o enquadramento dos atuais empregados serão feitas as necessárias adaptações e permutas entre o pessoal.
+**Art**. 115. Para o enquadramento dos atuais empregados serão feitas as necessárias adaptações e permutas entre o pessoal.
 
 Rio de Janeiro, 28 de julho de 1946.
 
-<strong>MAURÍCIO JOPPERT DA SILVA</strong>
+**MAURÍCIO JOPPERT DA SILVA**

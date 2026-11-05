@@ -1,5 +1,3 @@
-###DEL-006432-0-000-17-04-1944@@@
-
 DECRETO-LEI N. 6.432 – DE 17 DE ABRIL DE 1944
 
 Autoriza providências relativas à eletrificação da Estrada de Ferro Central do Brasil

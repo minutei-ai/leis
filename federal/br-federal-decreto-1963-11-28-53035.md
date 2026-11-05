@@ -1,5 +1,3 @@
-###DEC-053035-0-000-28-11-1963@@@
-
 decreto nº 53.035, de 28 de novembro de 1963.
 
 Autoriza o cidadão brasileiro Eurico Ferreira Santos a pesquisar galena, no município de Altamira, Estado do Pará.

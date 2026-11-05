@@ -1,5 +1,3 @@
-###DEC-056027-0-000-23-04-1965@@@
-
 DECRETO Nº 56.027, DE 23 DE ABRIL DE 1965.
 
 Transfere da Companhia Paranaense de Energia Elétrica para a Central Elétrica Capivari - Cachoeira S.A. - concessão para aproveitamento e energia hidrálica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098792-0-000-04-01-1990@@@
-
 DECRETO Nº 98.792, DE 4 DE JANEIRO DE 1990
 
 Fixa os Efetivos de Oficiais da Marinha para 1990.
@@ -12,7 +8,277 @@ DECRETA:
 
 Art. 1º São fixados os efetivos de Oficiais dos seguintes Corpos e Quadros da Marinha para vigorarem em 1990:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:56.7pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Corpo da Armada</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Almirantes-de-Esquadra ............................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>5</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Vice-Almirantes .........................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>16</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Contra-Almirantes .....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>28</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Mar-e-Guerra.........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>184</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata ..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>391</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta .................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>532</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes.....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>690</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>395</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Segundos-Tenentes...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>300</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Corpo de Fuzileiros Navais</span></p><p class="Artigo" style="margin-top:6pt"><span>Almirante-de-Esquadra .............................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span>1</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Vice-Almirantes.........................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>2</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Contra-Almirantes......................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>4</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Mar-e-Guerra.........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>47</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata ..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>85</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta .................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>125</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes ....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>160</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes ...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>142</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Segundos-Tenentes ...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>80</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Corpo de Engenheiros e Técnicos Navais</span></p><p class="Artigo" style="margin-top:6pt"><span>Vice-Almirante ..........................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span>1</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Contra-Almirantes......................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>3</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Mar-e-Guerra .........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>25</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata ..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>55</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta .................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>80</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes.....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>150</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes ...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>70</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Corpo de Intendentes da Marinha</span></p><p class="Artigo" style="margin-top:6pt"><span>Vice-Almirante ..........................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span>1</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Contra-Almirantes .....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>4</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Mar-e-Guerra.........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>47</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata .................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>106</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta .................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>163</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes ....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>215</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes ...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>174</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Segundos-Tenentes ..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>100</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Corpo de Saúde da Marinha</span></p><p class="Artigo" style="margin-top:6pt"><span>Quadro de Médicos</span></p><p class="Artigo" style="margin-top:6pt"><span>Vice-Almirante ...........................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span>1</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Contra-Almirantes .....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>4</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Mar-e-Guerra ........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>30</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata ..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>65</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>95</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes.....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>140</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes ...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>125</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Quadro de Cirurgiões-Dentistas</span></p><p class="Artigo" style="margin-top:6pt"><span>Capitães-de-Mar-e-Guerra .........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span>6</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata ..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>20</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>51</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes.....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>77</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>55</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Quadro de Farmacêuticos</span></p><p class="Artigo" style="margin-top:6pt"><span>Capitães-de-Mar-e-Guerra..........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span>3</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>6</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>24</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes.....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>35</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes.....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>30</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Quadro de Oficiais Auxiliares da Marinha</span></p><p class="Artigo" style="margin-top:6pt"><span>Quadro de Oficiais Auxiliares da Armada</span></p><p class="Artigo" style="margin-top:6pt"><span>Capitães-de-Mar-e-Guerra .........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span>3</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>12</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>60</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes......................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>145</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes.....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>100</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Segundos-Tenentes....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>100</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Quadro de Oficiais Auxiliares do Corpo</span></p><p class="Artigo" style="margin-top:6pt"><span>de Fuzileiros Navais</span></p><p class="Artigo" style="margin-top:6pt"><span>Capitão-de-Mar-e-Guerra...........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt"><span>1</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Fragata ..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>4</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-de-Corveta ..................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>23</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Capitães-Tenentes......................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>40</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Primeiros-Tenentes.....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>47</span></p></td></tr><tr><td style="width:333.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Segundos-Tenentes ...................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>50</span></p></td></tr></tbody></table>
+Corpo da Armada
+
+Almirantes-de-Esquadra ............................................................................
+
+5
+
+Vice-Almirantes .........................................................................................
+
+16
+
+Contra-Almirantes .....................................................................................
+
+28
+
+Capitães-de-Mar-e-Guerra.........................................................................
+
+184
+
+Capitães-de-Fragata ..................................................................................
+
+391
+
+Capitães-de-Corveta .................................................................................
+
+532
+
+Capitães-Tenentes.....................................................................................
+
+690
+
+Primeiros-Tenentes...................................................................................
+
+395
+
+Segundos-Tenentes...................................................................................
+
+300
+
+Corpo de Fuzileiros Navais
+
+Almirante-de-Esquadra .............................................................................
+
+1
+
+Vice-Almirantes.........................................................................................
+
+2
+
+Contra-Almirantes......................................................................................
+
+4
+
+Capitães-de-Mar-e-Guerra.........................................................................
+
+47
+
+Capitães-de-Fragata ..................................................................................
+
+85
+
+Capitães-de-Corveta .................................................................................
+
+125
+
+Capitães-Tenentes ....................................................................................
+
+160
+
+Primeiros-Tenentes ...................................................................................
+
+142
+
+Segundos-Tenentes ...................................................................................
+
+80
+
+Corpo de Engenheiros e Técnicos Navais
+
+Vice-Almirante ..........................................................................................
+
+1
+
+Contra-Almirantes......................................................................................
+
+3
+
+Capitães-de-Mar-e-Guerra .........................................................................
+
+25
+
+Capitães-de-Fragata ..................................................................................
+
+55
+
+Capitães-de-Corveta .................................................................................
+
+80
+
+Capitães-Tenentes.....................................................................................
+
+150
+
+Primeiros-Tenentes ...................................................................................
+
+70
+
+Corpo de Intendentes da Marinha
+
+Vice-Almirante ..........................................................................................
+
+1
+
+Contra-Almirantes .....................................................................................
+
+4
+
+Capitães-de-Mar-e-Guerra.........................................................................
+
+47
+
+Capitães-de-Fragata .................................................................................
+
+106
+
+Capitães-de-Corveta .................................................................................
+
+163
+
+Capitães-Tenentes ....................................................................................
+
+215
+
+Primeiros-Tenentes ...................................................................................
+
+174
+
+Segundos-Tenentes ..................................................................................
+
+100
+
+Corpo de Saúde da Marinha
+
+Quadro de Médicos
+
+Vice-Almirante ...........................................................................................
+
+1
+
+Contra-Almirantes .....................................................................................
+
+4
+
+Capitães-de-Mar-e-Guerra ........................................................................
+
+30
+
+Capitães-de-Fragata ..................................................................................
+
+65
+
+Capitães-de-Corveta...................................................................................
+
+95
+
+Capitães-Tenentes.....................................................................................
+
+140
+
+Primeiros-Tenentes ...................................................................................
+
+125
+
+Quadro de Cirurgiões-Dentistas
+
+Capitães-de-Mar-e-Guerra .........................................................................
+
+6
+
+Capitães-de-Fragata ..................................................................................
+
+20
+
+Capitães-de-Corveta..................................................................................
+
+51
+
+Capitães-Tenentes.....................................................................................
+
+77
+
+Primeiros-Tenentes....................................................................................
+
+55
+
+Quadro de Farmacêuticos
+
+Capitães-de-Mar-e-Guerra..........................................................................
+
+3
+
+Capitães-de-Fragata...................................................................................
+
+6
+
+Capitães-de-Corveta...................................................................................
+
+24
+
+Capitães-Tenentes.....................................................................................
+
+35
+
+Primeiros-Tenentes.....................................................................................
+
+30
+
+Quadro de Oficiais Auxiliares da Marinha
+
+Quadro de Oficiais Auxiliares da Armada
+
+Capitães-de-Mar-e-Guerra .........................................................................
+
+3
+
+Capitães-de-Fragata...................................................................................
+
+12
+
+Capitães-de-Corveta...................................................................................
+
+60
+
+Capitães-Tenentes......................................................................................
+
+145
+
+Primeiros-Tenentes.....................................................................................
+
+100
+
+Segundos-Tenentes....................................................................................
+
+100
+
+Quadro de Oficiais Auxiliares do Corpo
+
+de Fuzileiros Navais
+
+Capitão-de-Mar-e-Guerra...........................................................................
+
+1
+
+Capitães-de-Fragata ..................................................................................
+
+4
+
+Capitães-de-Corveta ..................................................................................
+
+23
+
+Capitães-Tenentes......................................................................................
+
+40
+
+Primeiros-Tenentes.....................................................................................
+
+47
+
+Segundos-Tenentes ...................................................................................
+
+50
 
 Art. 2º Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

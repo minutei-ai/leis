@@ -1,5 +1,3 @@
-###DEC-052071-0-000-27-05-1963@@@
-
 DECRETO Nº 52.071, de 27 de maio de 1963.
 
 Declara de utilidade pública a Sociedade Bach de São Paulo, com sede em São Paulo, Estado de São Paulo.

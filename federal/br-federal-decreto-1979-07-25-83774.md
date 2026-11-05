@@ -1,5 +1,3 @@
-###DEC-083774-0-000-25-07-1979@@@
-
 Decreto nº 83.774, de 25 dE julho dE 1979.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Maceió, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-075075-0-000-11-12-1974@@@
-
 DECRETO Nº 75.075, DE 11 DE DEZEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Vale do Jaguaribe, cuja denominação foi alterada para Sociedade Rádio Vale do Jaguaribe Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Limoeiro do Norte, Estado do Ceará.

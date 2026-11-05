@@ -1,5 +1,3 @@
-###DEC-073714-0-000-01-03-1974@@@
-
 DECRETO Nº 73.714, DE 1 DE MARÇO DE 1974.
 
 Altera o art. 10 do Regulamento de Uniformes do Exército, aprovado pelo Decreto número 67.042, de 12 de agosto de 1970.

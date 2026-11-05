@@ -1,7 +1,3 @@
-1
-
-###DEC-001580-0-000-03-08-1995@@@
-
 DECRETO Nº 1.580, DE 3 DE AGOSTO DE 1995.
 
 Dispõe sobre a estrutura da lotação dos cargos efetivos integrantes do quadro geral de pessoa civil do Poder Executivo da União.

@@ -1,5 +1,3 @@
-###DEC-057987-0-000-14-03-1966@@@
-
 DECRETO Nº 57.987, DE 14 DE MARÇO DE 1966.
 
 Retifica o art. 1º do Decreto nº 56.063, de 26 de abril de 1965.

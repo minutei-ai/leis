@@ -1,5 +1,3 @@
-###DEC-075626-0-000-18-04-1975@@@
-
 DECRETO Nº 75.626, DE 18 DE ABRIL DE 1975.
 
 Decreta intervenção federal no Município de Rio Branco, Estado do Acre, e dá outras providências.

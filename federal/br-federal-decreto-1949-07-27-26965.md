@@ -1,20 +1,18 @@
-###DEC-026965-0-000-27-07-1949@@@
+**DECRETO Nº 26.965, DE 27 DE JULHO DE 1949.**
 
-<strong>DECRETO Nº 26.965, DE 27 DE JULHO DE 1949.</strong>
+***Outorga a Augusto Freire de Matos Barreto Filho, ou sociedade que organizar, concessão para o aproveitamento progressivo da energia hidráulica da cachoeira denominada dos Macacos, no rio Araguari, situado entre os municípios de Perdizes Sacramento, Estado de Minas Gerais.***
 
-<em><strong>Outorga a Augusto Freire de Matos Barreto Filho, ou sociedade que organizar, concessão para o aproveitamento progressivo da energia hidráulica da cachoeira denominada dos Macacos, no rio Araguari, situado entre os municípios de Perdizes Sacramento, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e nos têrmos do art. 150 do Código de Águas ( Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e nos têrmos do art. 150 do Código de Águas ( Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros é outorgada a Augusto Freire de Matos Barreto Filho, ou sociedade que organizar, concessão para o aproveitamento progressivo da energia hidráulica da cachoeira dos Macacos, no rio Araguari, situada entre os municípios de Perdizes e Sacramento, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros é outorgada a Augusto Freire de Matos Barreto Filho, ou sociedade que organizar, concessão para o aproveitamento progressivo da energia hidráulica da cachoeira dos Macacos, no rio Araguari, situada entre os municípios de Perdizes e Sacramento, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à utilização de energia para consumo exclusivo do concessionário.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se o concessionário não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se o concessionário não satisfazer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro do prazo de trinta (30) dias após a sua publicação.
 
@@ -46,26 +44,26 @@ V - Apresentar o mesmo contrato à Divisão de Águas, para fins de registro, at
 
 Parágrafo único, Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações linimétricas e medições de descargas do curso d’água que vai utilizar, a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 4º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações linimétricas e medições de descargas do curso d’água que vai utilizar, a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivos contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivos contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão, tôda a propriedade do concessionário que, no momento, existir em função exclusiva e permanente da utilização da energia referente ao aproveitamento concedido, revertera ao Estado de Minas Gerais, mediante indenizado do custo histórico isto é, do capital efetivamente gasto menos a depreciação.
+**Art**. 6º Findo o prazo da concessão, tôda a propriedade do concessionário que, no momento, existir em função exclusiva e permanente da utilização da energia referente ao aproveitamento concedido, revertera ao Estado de Minas Gerais, mediante indenizado do custo histórico isto é, do capital efetivamente gasto menos a depreciação.
 
 § 1º Se o Estado de Minas Gerais não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que o respectivo contrato deverá estar prevista.
 
 § 2º Para os efeitos do parágrafo anterior, fica o concessionário obrigado a dar conhecimento ao Govêrno Federal e a entrar com o requerimento de prorrogação de concessão ou de desistência desta, até seis (6) mêses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 7º O concessionário gozará desde a data do registro de que trata o nº III do art. 2º, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 7º O concessionário gozará desde a data do registro de que trata o nº III do art. 2º, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 8º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 8º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 27 de julho de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Souza Duarte

@@ -1,5 +1,3 @@
-###DEC-055706-0-000-02-02-1965@@@
-
 DECRETO Nº 55.706, DE 2 DE FEVEREIRO DE 1965.
 
 Dá nova redação ao Decreto número 54.954, de 6 de novembro de 1964, que declara de utilidade pública, para fins de desapropriação em favor da Companhia Vale do Rio Doce, as áreas de terras que menciona.

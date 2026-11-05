@@ -1,5 +1,3 @@
-###DEC-057214-0-000-10-11-1965@@@
-
 DECRETO Nº 57.214, DE 10 DE NOVEMBRO DE 1965.
 
 Fica autorizado o cidadão brasileiro José Patrus de Souza a pesquisar bauxita, no município de Sêrro, Estado de Minas Gerais.

@@ -3,16 +3,16 @@
   "issue": "#83",
   "escopo": "federal/ — contagem por espécie candidata do caminho; sem certificar conteúdo.",
   "publicados_por_especie_caminho": {
-    "caminho-nao-classificado": 10,
-    "constituicao": 1,
-    "decreto": 76404,
-    "decreto-lei": 9647,
-    "emenda-constitucional": 180,
-    "lei": 6429,
+    "caminho-nao-classificado": 135,
+    "constituicao": 8,
+    "decreto": 76840,
+    "decreto-lei": 9772,
+    "emenda-constitucional": 181,
+    "lei": 6708,
     "lei-complementar": 240,
-    "lei-delegada": 1,
-    "medida-provisoria": 4744,
-    "resolucao": 771
+    "lei-delegada": 13,
+    "medida-provisoria": 5073,
+    "resolucao": 772
   },
   "edicoes_alternativas_em_federal_edicoes": 7,
   "errata_complemento_senado_totais": {
@@ -23,15 +23,16 @@
   "leituras": [
     {
       "especie": "decreto-lei",
-      "publicados": 9647,
+      "publicados": 9772,
       "errata_correspondencia_inversa": 9647,
-      "nota": "Igualdade de contagem não certifica colação de conteúdo (#96 permanece)."
+      "delta_arquivos_vs_errata": 125,
+      "nota": "A contagem atual inclui lotes posteriores ao snapshot; presença não certifica colação de conteúdo (#96 permanece)."
     },
     {
       "especie": "lei",
-      "publicados": 6429,
+      "publicados": 6708,
       "errata_correspondencia_inversa": 6333,
-      "delta_arquivos_vs_errata": 96,
+      "delta_arquivos_vs_errata": 375,
       "nota": "Delta inclui atos admitidos após o snapshot da errata e não prova cobertura do catálogo Senado nem ausência de candidatos sem arquivo."
     }
   ],

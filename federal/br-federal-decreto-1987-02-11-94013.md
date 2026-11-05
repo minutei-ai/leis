@@ -1,5 +1,3 @@
-###DEC-094013-0-000-11-02-1987@@@
-
 DECRETO Nº 94.013, DE 11 DE FEVEREIRO DE 1987
 
 Homologa a demarcação administrativa da ÁREA INDÍGENA MENKÜ, no Município de Diamantino, no Estado de Mato Grosso, e dá outras providências.

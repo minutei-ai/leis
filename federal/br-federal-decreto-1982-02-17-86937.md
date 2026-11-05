@@ -1,5 +1,3 @@
-###DEC-086937-0-000-17-02-1982@@@
-
 Decreto nº 86.937, de17 de fevereiro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO TAMOIO S.A., e autoriza a transferência direta para a TELEVIAÃO VERDES MARES LTDA., que passará a executar serviço de radiodifusão sonora de ondas médias, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

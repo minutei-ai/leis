@@ -1,5 +1,3 @@
-###DEC-083836-0-000-13-08-1979@@@
-
 Decreto nº 83.836, de 13 de agosto de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação das subestações de Saltinho, Monte Mór e Capivari, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

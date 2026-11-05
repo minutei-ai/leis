@@ -1,5 +1,3 @@
-###MPV-001756-0-010-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.756-10, DE 11 DE FEVEREIRO DE 1999.
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

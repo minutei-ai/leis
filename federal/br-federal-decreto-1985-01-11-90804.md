@@ -1,5 +1,3 @@
-###DEC-090804-0-000-11-01-1985@@@
-
 Decreto nº 90.804 de 11 de janeiro de 1985
 
 Inclui o Aeroporto Internacional de São Paulo/Guarulhos entre os aeroportos internacionais do Brasil estabelecidos pelo Decreto nº 74.924, de 21 de novembro de 1974.

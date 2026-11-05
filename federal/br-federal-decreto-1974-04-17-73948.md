@@ -1,5 +1,3 @@
-###DEC-073948-0-000-17-04-1974@@@
-
 DECRETO Nº 73.948, DE 17 DE ABRIL DE 1974.
 
 Concede reconhecimento ao curso de Formação de Professores para as Disciplinas Profissionais do Ensino Técnico da Universidade Católica de Minas Gerais, em convênio com o CENAFOR, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

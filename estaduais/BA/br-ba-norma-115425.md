@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 Art. 1º -  Fica o Poder Executivo autorizado a garantir, em nome do Estado da Bahia, operações de crédito a serem celebradas entre o Banco Nacional do Desenvolvimento Econômico e o Consórcio Rodoviário Intermunicipal da Bahia S. A. - Consórcio Rodoviário até o montante de Cr$8.737.000,00 para financiamento das obras de construção e melhoria de estradas vicinais do Recôncavo e Litoral Norte Baianos.
 
-Redação de acordo com a Lei nº 2.903 de 12 de fevereiro de 1971.<br>
+Redação de acordo com a Lei nº 2.903 de 12 de fevereiro de 1971.
+
 Redação original: "Art. 1º - Fica o Poder Executivo autorizado a garantir em nome do Estado da Bahia, operação de crédito, a ser celebrada entre o Banco Nacional do Desenvolvimento Econômico e o Consórcio Rodoviário Intermunicipal da Bahia S. A. - Consórcio Rodoviário, até o montante de NCr$6.737.000,00 (seis milhões setecentos e trinta e sete mil cruzeiros novos) para financiamento das obras de reparo e melhoria das estradas vicinais no Recôncavo Baiano."
 
 &nbs
@@ -33,4 +34,4 @@ Francisco Benjamin Fonseca de Carvalho
 
 Boris Tabacof
 
-* * *
+ *

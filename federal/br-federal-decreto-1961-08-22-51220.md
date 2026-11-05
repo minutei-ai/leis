@@ -1,5 +1,3 @@
-###DEC-051220-0-000-22-08-1961@@@
-
 DECRETO Nº 51.220, DE 22 DE AGÔSTO DE 1961.
 
 Regulamenta os artigos 36, 37, 38 e 39 do Decreto nº 23.793, de 23 de janeiro de 1934, e dá outras providências.

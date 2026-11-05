@@ -1,5 +1,3 @@
-###DEC-082367-0-000-04-10-1978@@@
-
 Decreto nº 82 367, de 04 de outubro de 1978.
 
 Concede à Mineração Nova Era Ltda. o direito de lavrar calcário no Município de Taguaraçu de Minas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-062058-0-000-05-01-1968@@@
-
 Decreto nº 62.058, de 5 de janeiro de 1968.
 
 Decreta de utilidade pública o “Circulo de Trabalhadores Cristãos de Vila Prudente” – com sede em São Paulo, Estado de São Paulo.

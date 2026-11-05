@@ -1,5 +1,3 @@
-###DEL-006033-0-000-25-11-1943@@@
-
 DECRETO-LEI N. 6.033 – DE 25 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 400.000,00 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-049330-0-000-24-11-1960@@@
-
 DECRETO Nº 49.330, DE 24 DE novembro DE 1960.
 
 Altera o item II, do art. 2º do Decreto nº 48.524, de 14 de julho de 1960, e dá outras providências.

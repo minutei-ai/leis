@@ -1,5 +1,3 @@
-###DEC-090920-0-000-06-02-1985@@@
-
 Decreto nº 90.920, de 06 de fevereiro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação subestação de Cafelândia da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

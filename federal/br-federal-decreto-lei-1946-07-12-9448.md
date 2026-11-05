@@ -1,5 +1,3 @@
-###DEL-009448-0-000-12-07-1946@@@
-
 DECRETO-LEI N. 9.448 – DE 12 DE JULHO DE 1946
 
 Faz doação de bens pertencentes ao domínio da União, situados no Estado do Rio Grande do Norte.

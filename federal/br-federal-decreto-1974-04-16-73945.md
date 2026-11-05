@@ -1,5 +1,3 @@
-###DEC-073945-0-000-16-04-1974@@@
-
 DECRETO Nº 73.945, DE 16 DE ABRIL DE 1974.
 
 Declara sem efeito o Decreto número 851, de 7 de abril de 1962.

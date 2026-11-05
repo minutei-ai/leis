@@ -1,5 +1,3 @@
-###DEC-068041-0-000-12-01-1971@@@
-
 DECRETO Nº 68.041, de 12 de Janeiro de 1971.
 
 Redistribui cargo, com o respectivo ocupante, para a Universidade Federal de Goiás e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-046907-0-000-25-09-1959@@@
-
 DECRETO Nº 46.907, de 25 DE SETEMBRO DE 1959.
 
 Concede à Federação Nacional dos Trabalhadores em Emprêsas Comerciais de Minérios e combustíveis Minerais autorização para filiar-se a uma organização internacional.

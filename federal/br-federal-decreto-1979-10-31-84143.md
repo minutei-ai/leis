@@ -1,5 +1,3 @@
-###DEC-084143-0-000-31-10-1979@@@
-
 Decreto nº 84.143, de 31 de outubro de 1979.
 
 Regulamenta a Lei nº 6.683, de 28 de agosto de 1979, que concede anistia e dá outras providências.

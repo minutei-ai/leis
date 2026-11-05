@@ -1,7 +1,3 @@
-1
-
-###DEC-001183-0-000-07-07-1994@@@
-
 DECRETO N° 1.183, DE 7 DE JULHO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão no âmbito do Estado-Maior das Forças Armadas e dá outras providências.

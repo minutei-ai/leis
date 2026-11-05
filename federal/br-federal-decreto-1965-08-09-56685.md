@@ -1,5 +1,3 @@
-###DEC-056685-0-000-09-08-1965@@@
-
 DECRETO Nº 56.685, DE 9 DE AGÔSTO DE 1965.
 
 Declara sem efeito o Decreto nº 51.771, de 4 de março de 1963.

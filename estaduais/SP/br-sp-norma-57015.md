@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/57015)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2005/compilacao-lei-11973-25.08.2005.html)
 
 # LEI N° 11.973, DE 25 DE AGOSTO DE 2005

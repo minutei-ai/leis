@@ -1,5 +1,3 @@
-###DEC-075444-0-000-06-03-1975@@@
-
 Decreto nº 75.444, de 6 de março de 1975.
 
 Dispõe sobre a estrutura básica do Ministério do Interior e dá outras providências.

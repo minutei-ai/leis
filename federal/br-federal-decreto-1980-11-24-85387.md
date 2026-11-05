@@ -1,5 +1,3 @@
-###DEC-085387-0-000-24-11-1980@@@
-
 Decreto nº 85.387, de 24 de novembro de 1980.
 
 Dispõe sobre a composição, competência e funcionamento do Conselho Interministerial do Programa Grande Carajás e dá outras providências.

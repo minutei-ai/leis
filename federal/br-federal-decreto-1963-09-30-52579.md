@@ -1,5 +1,3 @@
-###DEC-052579-0-000-30-09-1963@@@
-
 DECRETO Nº 52.579, DE 30 DE SETEMBRO DE 1963.
 
 Outorga a Centrais Elétricas de Goiás S.A. CELG concessão para distribuir energia elétrica nos Municípios de Aragarças, Balisa, Ivolândia e Mateira.

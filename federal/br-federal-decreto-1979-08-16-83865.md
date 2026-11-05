@@ -1,5 +1,3 @@
-###DEC-083865-0-000-16-08-1979@@@
-
 decreto nº 83.865, de 16 de agosto de 1979.
 
 Cassa a concessão outorgada à Rádio Inharé Ltda., para estabelecer na cidade de Santa Cruz, Estado do Rio Grande do Norte, uma estação de radiodifusão sonora em onda média de âmbito regional.

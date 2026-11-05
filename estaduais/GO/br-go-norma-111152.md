@@ -200,7 +200,8 @@ c) art. 4º deste Decreto;
 
 V – 1º de setembro de 2025, em relação ao inciso VIII do § 1º do art. 356– C do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997; e
 
-VI - 4 de maio de 2026, em relação aos seguintes dispositivos do Decreto nº 4.852, de 1997:<br>
+VI - 4 de maio de 2026, em relação aos seguintes dispositivos do Decreto nº 4.852, de 1997:
+
  - [Redação dada pelo Decreto nº 10.873, de 12-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113544), com efeitos retroativos a 1º-2-2026.
 
 ~~VI – 3 de novembro de 2025, em relação aos seguintes dispositivos do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997:~~

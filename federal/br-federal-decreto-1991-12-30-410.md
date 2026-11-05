@@ -1,5 +1,3 @@
-###DEC-000410-0-000-30-12-1991@@@
-
 DECRETO Nº 410, DE 30 DE DEZEMBRO DE 1991
 
 Dispõe sobre as condições de suprimento de álcool etílico para as indústrias alcoolquímicas da Região Nordeste.

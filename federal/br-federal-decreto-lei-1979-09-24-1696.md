@@ -1,5 +1,3 @@
-###DEL-001696-0-000-24-09-1979@@@
-
 # Decreto-lei nº 1.696, de 24 de setembro de 1979
 
 Dispõe sobre a aplicação dos recursos atribuídos à Companhia de Pesquisa de Recursos Minerais - CPRM na alínea “j” do item II do artigo 13 da Lei nº 4.452, de 05 de novembro de 1964.

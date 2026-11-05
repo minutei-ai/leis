@@ -1,5 +1,3 @@
-###DEC-064530-0-000-19-05-1969@@@
-
 DECRETO Nº 64.530, DE 19 DE MAIO DE 1969.
 
 Concede autorização a Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

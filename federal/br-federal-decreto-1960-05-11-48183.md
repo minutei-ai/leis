@@ -1,5 +1,3 @@
-###DEC-048183-0-000-11-05-1960@@@
-
 Decreto nº 48.183, de 11 de maio de 1960.
 
 Autoriza a Mineração do Matapi Limitada a pesquisar minérios de alumínio no município de Amapá, Território Federal do Amapá.

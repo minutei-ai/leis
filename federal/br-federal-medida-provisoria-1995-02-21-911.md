@@ -1,7 +1,3 @@
-1
-
-###MPV-000911-0-000-21-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 911, DE  21 DE  FEVEREIRO  DE 1995
 
 Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do Real e os critérios para conversão das obrigações para o Real, e dá outras providências.

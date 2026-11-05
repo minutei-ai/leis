@@ -1,5 +1,3 @@
-###DEC-097407-0-000-22-12-1988@@@
-
 DECRETO Nº 97.407, DE 22 DE DEZEMBRO DE 1988
 
 Cria a Zona de Processamento de Exportação - ZPE de SUAPE, no Estado de Pernambuco.

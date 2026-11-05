@@ -1,5 +1,3 @@
-###DEC-068054-0-000-13-01-1971@@@
-
 DECRETO Nº 68.054, de 13 de Janeiro de 1971.
 
 Regulamenta o Regime de Entreposto Industrial previsto no Capítulo V do Decreto-lei nº 37, de 18 de Novembro de 1966.

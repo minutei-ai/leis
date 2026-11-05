@@ -1,5 +1,3 @@
-###DEC-072816-0-000-21-09-1973@@@
-
 Decreto nº 72.816, de 21 de setembro de 1973.
 
 Autoriza o funcionamento da Faculdade de Música "Mozarteum", mantida pela Sociedade Civil Estabelecimento de Ensino Superior "Mozarteum", com sede na cidade de São Paulo, Estado de São Paulo.

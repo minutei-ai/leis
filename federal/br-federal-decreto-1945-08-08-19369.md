@@ -1,14 +1,12 @@
-###DEC-019369-0-000-08-08-1945@@@
+**DECRETO Nº 19.369, DE 8 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.369, DE 8 DE AGÔSTO DE 1945.</strong>
+***Altera a lotação dos Ministérios que especifica.***
 
-<em><strong>Altera a lotação dos Ministérios que especifica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA** , usando da atribuição que lhe confere o artigo 74, letra ‘’*a’’*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong> , usando da atribuição que lhe confere o artigo 74, letra ‘’<em>a’’</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam introduzidas as seguintes alterações na lotação numérica dos Ministérios abaixo relacionados:
+**Art**. 1º Ficam introduzidas as seguintes alterações na lotação numérica dos Ministérios abaixo relacionados:
 
 I - Ministério da Viação e Obra Pública (Quadro I):
 
@@ -32,11 +30,11 @@ b) diminui-se para 4 a lotação suplementar dos cargos isolados, efetivos, de D
 
 c) passa a lotação numérica do Ministério a figurar com um total de 1.884 cargos, sendo 1.707 na lotação permanente e 177 na lotação suplementar.
 
-<strong>Art</strong>. 2º Êste Decreto entrara em vigor na data de sua publicação, revogadas as disposições em contrario.
+**Art**. 2º Êste Decreto entrara em vigor na data de sua publicação, revogadas as disposições em contrario.
 
 Rio de Janeiro, 8 de agôsto de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João de Mendonça Lima
 

@@ -1,5 +1,3 @@
-###DEC-064588-0-000-27-05-1969@@@
-
 decreto nº 64.588, de 27 de maio de 1969.
 
 Cancela a autorização para funcionamento concedida à "Visconde de Itaboraí" - Companhia de Seguros Gerais.

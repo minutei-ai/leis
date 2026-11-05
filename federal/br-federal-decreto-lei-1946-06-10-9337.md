@@ -1,5 +1,3 @@
-###DEL-009337-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.337 – DE 10 DE JUNHO DE 1946
 
 Cria, no Q. P. do Ministério da Guerra, o cargo isolado de Subprocurador-Geral (J. M.), padrão P, e abre crédito especial.

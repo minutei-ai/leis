@@ -1,5 +1,3 @@
-###DEC-006872-0-000-04-06-2009@@@
-
 DECRETO Nº 6.872, DE 4 DE JUNHO DE 2009.
 
 Aprova o Plano Nacional de Promoção da Igualdade Racial - PLANAPIR, e institui o seu Comitê de Articulação e Monitoramento.

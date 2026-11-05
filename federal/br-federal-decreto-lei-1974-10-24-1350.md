@@ -1,5 +1,3 @@
-###DEL-001350-0-000-24-10-1974@@@
-
 # DECRETO-LEI Nº 1.350, DE 24 DE OUTUBRO DE 1974
 
 institui regime de tributação simplificada do imposto de renda para as pessoas jurídicas de reduzida receita bruta.

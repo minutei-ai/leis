@@ -1,7 +1,3 @@
-1
-
-###DEC-099979-0-000-04-01-1991@@@
-
 DECRETO Nº 99.979, DE 4 DE JANEIRO DE 1991.
 
 Outorga à Cooperativa de Energia Elétrica Santa Maria de Responsabilidade Limitada concessão para o aproveitamento de energia hidráulica, para uso exclusivo, no Rio Benedito, no Estado de Santa Catarina, no trecho que menciona.

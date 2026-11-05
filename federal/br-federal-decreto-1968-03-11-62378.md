@@ -1,5 +1,3 @@
-###DEC-062378-0-000-11-03-1968@@@
-
 DECRETO Nº 62.378, DE 11 DE MARÇO DE 1968.
 
 Declara de utilidade pública o “Externato Nossa Senhora Auxiliadora”com sede em Belo Horizonte, Estado de Minas Gerais.

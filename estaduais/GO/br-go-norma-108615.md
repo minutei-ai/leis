@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 13 dias do mês de Março de 2024.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 QUADRO 1
@@ -23,7 +21,7 @@ QUADRO 1
 |
 **2800 - SECRETARIA DA SAÚDE**
 
-**2****801 - GABINETE DO SECRETÁRIO DA SAÚDE**
+**2801 - GABINETE DO SECRETÁRIO DA SAÚDE**
 
  |
 | **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |

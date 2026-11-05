@@ -1,5 +1,3 @@
-###DEC-052069-0-000-27-05-1963@@@
-
 DECRETO Nº 52.026, DE 27 DE MAIO DE 1963.
 
 Declara de utilidade pública a Santa Casa de Misericórdia da Itatiba, com sede em Itatiba, Estado de São Paulo.
@@ -17,8 +15,6 @@ João Goulart
 João Mangabeira
 
 (Nº 29.336 - 25-7-63 - Cr$918,00).
-
-###DEC-052069-0-000-27-05-1963@@@RET01+++
 
 Decreto nº 52.069, de 27 de maio de 1963.
 

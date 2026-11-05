@@ -1,5 +1,3 @@
-###DEC-079479-0-000-05-04-1977@@@
-
 DECRETO Nº 79.479, DE 5 DE ABRIL DE 1977.
 
 Concede à Itabira Agro Industrial S. A. o direito de lavrar calcário e argila no Município de Capão Bonito, Estado de São Paulo.

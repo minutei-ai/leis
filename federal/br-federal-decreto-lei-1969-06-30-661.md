@@ -1,5 +1,3 @@
-###DEL-000661-0-000-30-06-1969@@@
-
 DECRETO-LEI Nº 661, DE 30 DE JUNHO DE 1969
 
 Aprova o Acôrdo Básico de Cooperação Técnica entre o Brasil e a Confederação Suíça, assinada em 26 de abril de 1968.

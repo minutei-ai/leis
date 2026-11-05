@@ -1,5 +1,3 @@
-###MPV-001794-0-014-17-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.794-14, DE 17 DE JUNHO DE 1999.
 
 Altera as Leis nºs 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049699-0-000-31-12-1960@@@
-
 decreto nº 49.699, de 31 de dezembro de 1960.
 
 Concede à Mineração Itaitu Ltda. autorização para funcionar como emprêsa de mineração.

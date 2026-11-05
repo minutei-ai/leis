@@ -1,7 +1,3 @@
-1
-
-###DEC-000784-0-000-25-03-1993@@@
-
 DECRETO Nº 784, DE 25 DE MARCO DE 1993
 
 Altera dispositivos do Decreto nº 191, de 16 de agosto de 1991, que regulamenta para a Aeronáutica, a Lei n° 5.821, de 10 de novembro de 1972, que dispõe sobre as Promoções dos Oficiais da Ativa das Forças Armadas.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001017-0-000-23-12-1993@@@
-
 DECRETO Nº 1.017, DE 23 DE DEZEMBRO DE 1993
 
 Dispõe sobre a arrecadação e o recolhimento da parcela do seguro obrigatório de que trata o parágrafo único do art. 27 da Lei nº 8.212, de 24 de julho de 1991.

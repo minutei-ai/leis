@@ -1,5 +1,3 @@
-###DEC-091988-0-000-27-11-1985@@@
-
 Decreto nº 91.988, de 27 de novembro de 1985
 
 Autoriza o funcionamento do curso de História, da Faculdade de Filosofia, Ciências e Letras de Alegrete.

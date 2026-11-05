@@ -1,5 +1,3 @@
-###DEC-006897-0-000-14-07-2009@@@
-
 DECRETO Nº 6.897, DE 14 DE JULHO DE 2009.
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da República de Moçambique na Área de Biocombustíveis, firmado em Brasília, em 6 de setembro de 2007.

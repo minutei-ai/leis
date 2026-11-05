@@ -1,5 +1,3 @@
-###DEC-006260-0-000-20-11-2007@@@
-
 DECRETO Nº 6.260, DE 20 DE NOVEMBRO DE 2007.
 
 Dispõe sobre a exclusão do lucro líquido, para efeito de apuração do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido - CSLL, dos dispêndios efetivados em projeto de pesquisa científica e tecnológica e de inovação tecnológica a ser executado por Instituição Científica e Tecnológica - ICT.
@@ -155,5 +153,3 @@ Fernando Haddad
 Miguel Jorge
 
 Sérgio Machado Rezende
-
-Este texto não substitui o publicado no DOU de 21.11.2007

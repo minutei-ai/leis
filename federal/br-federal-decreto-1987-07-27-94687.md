@@ -1,5 +1,3 @@
-###DEC-094687-0-000-27-07-1987@@@
-
 DECRETO N° 94.687, DE 27 DE JULHO DE 1987
 
 Declara de utilidade pública para fins de desapropriação, imóvel situado em Belém, Estado do Pará.

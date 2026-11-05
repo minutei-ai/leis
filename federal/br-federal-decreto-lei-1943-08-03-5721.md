@@ -1,5 +1,3 @@
-###DEL-005721-0-000-03-08-1943@@@
-
 DECRETO‑LEI N. 5.721 – DE 3 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 45.000,00 para despesas com os funcionários da Polícia Civil do Distrito Federal, designados para prestar serviços no estrangeiro

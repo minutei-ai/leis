@@ -1,5 +1,3 @@
-###DEC-080744-0-000-14-11-1977@@@
-
 Decreto nº 80.744, de 14 de novembro de 1977.
 
 Outorga concessão à Rádio Cultura de Aracatí Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de Aracatí, Estado do Ceará.

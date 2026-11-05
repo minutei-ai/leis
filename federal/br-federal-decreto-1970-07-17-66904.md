@@ -1,5 +1,3 @@
-###DEC-066904-0-000-17-07-1970@@@
-
 Decreto nº 66.904, de 17 de julho de 1970.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Campo Grande, GB.

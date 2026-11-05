@@ -1,5 +1,3 @@
-###DEC-048261-0-000-02-06-1960@@@
-
 DECRETO Nº 48.261, DE 2 DE JUNHO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da “A Fortaleza Companhia Nacional de Seguros”.
@@ -17,8 +15,6 @@ Brasília, 2 de junho de 1960; 139º da Independência e 72º da República.
 JUSCELINO KUBITSCHEK
 
 João Batista Ramos
-
-###DEC-048261-0-000-02-06-1960@@@RET01+++
 
 decreto nº 48.261, de 2 de junho de 1960.
 

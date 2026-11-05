@@ -1,5 +1,3 @@
-###DEL-001184-0-000-12-08-1971@@@
-
 # DECRETO-LEI Nº 1.184, DE 12 DE AGÔSTO DE 1971
 
 Dispõe sôbre a liquidação dos débitos fiscais de emprêsas em difícil situação financeira, estabelece normas sôbre parcelamento, e dá outras providências.

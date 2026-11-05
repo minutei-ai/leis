@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183081)
-
 # DECRETO Nº 62.817, DE 04 DE SETEMBRO DE 2017
 
 ### _Regulamenta a Lei federal nº 10.973, de 2 de dezembro de 2004, no tocante a normas gerais aplicáveis ao Estado, assim como a Lei Complementar nº 1.049, de 19 de junho de 2008, e dispõe sobre outras medidas em matéria da política estadual de ciência, tecnologia e inovação_
@@ -650,20 +648,36 @@ Palácio dos Bandeirantes, 4 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-David Everson Uip<br>
-Secretário da Saúde<br>
-Maurício Benedini Brusadin<br>
-Secretário do Meio Ambiente<br>
-Márcio Luiz França Gomes<br>
-Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação<br>
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Arnaldo Calil Pereira Jardim
+
+Secretário de Agricultura e Abastecimento
+
+David Everson Uip
+
+Secretário da Saúde
+
+Maurício Benedini Brusadin
+
+Secretário do Meio Ambiente
+
+Márcio Luiz França Gomes
+
+Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação
+
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 4 de setembro de 2017.

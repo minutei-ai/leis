@@ -1,5 +1,3 @@
-###DEL-001584-0-000-29-11-1977@@@
-
 # Decreto-lei nº 1584, de 29 de novembro de 1977
 
 Altera a legislação do Imposto de Renda e dá outras providências.

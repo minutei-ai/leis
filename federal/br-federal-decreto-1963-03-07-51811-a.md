@@ -1,5 +1,3 @@
-###DEC-051811-A-000-07-03-1963@@@
-
 decreto nº 51.811-A, de 7 de março de 1963.
 
 Reorganiza o Corpo de Fuzileiros Navais e dá outras providências.

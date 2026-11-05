@@ -1,5 +1,3 @@
-###DEC-007930-0-000-18-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.930, DE 18 DE FEVEREIRO DE 2013
 
 Altera o Decreto nº 7.689, de 2 de março de 2012, para dispor sobre a competência para a concessão de diárias de colaboradores eventuais da ANVISA em inspeções internacionais.

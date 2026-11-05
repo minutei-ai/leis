@@ -1,5 +1,3 @@
-###DEC-046661-0-000-17-08-1959@@@
-
 DECRETO Nº 46.661, DE 17 DE AGÔSTO DE 1959.
 
 Renova o Decreto nº 37.141, de 5 de abril de 1955

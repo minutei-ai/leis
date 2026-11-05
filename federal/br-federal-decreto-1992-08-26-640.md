@@ -1,7 +1,3 @@
-1
-
-###DEC-000640-0-000-26-08-1992@@@
-
 DECRETO Nº 640, DE 26 DE AGOSTO DE 1992
 
 Autoriza a Caixa Econômica Federal a utilizar o Fundo de Desenvolvimento Social (FDS), para saldar compromissos de desembolso decorrentes de contratos de financiamento de habitação popular, saneamento básico e infra-estrutura urbana, sob sua administração.

@@ -1,5 +1,3 @@
-###DEC-004790-0-000-21-07-2003@@@
-
 DECRETO Nº 4.790, DE 21 DE JULHO DE 2003.
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas \- FCT para o Ministério da Defesa.       
@@ -16,10 +14,12 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 21 de julho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
-José Viegas Filho<br>
+José Viegas Filho
+
 Guido Mantega
 
 ANEXO

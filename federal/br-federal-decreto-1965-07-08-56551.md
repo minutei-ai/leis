@@ -1,5 +1,3 @@
-###DEC-056551-0-000-08-07-1965@@@
-
 DECRETO Nº 56.551, DE 8 DE JULHO DE 1965.
 
 Institui estímulos ao desenvolvimento da Indústria de Produtos Alimentares.

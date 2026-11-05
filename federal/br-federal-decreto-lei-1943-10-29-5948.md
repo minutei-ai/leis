@@ -1,5 +1,3 @@
-###DEL-005948-0-000-29-10-1943@@@
-
 DECRETO‑LEI N. 5.948 – DE 29 DE OUTUBRO DE 1943
 
 Cria, a título provisório, um Hospital Militar de 4ª classe em Teófilo Otoni

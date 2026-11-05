@@ -1,5 +1,3 @@
-###DEC-046096-0-000-19-05-1959@@@
-
 DECRETO Nº 46.096, DE 19 DE MAIO DE 1959.
 
 Autoriza a Emprêsa Elétrica Cambraia Ltda. a ampliar suas instalações.

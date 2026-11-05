@@ -1,5 +1,3 @@
-###DEL-008813-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.813 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre serviços extraordinários do pessoal encarregado da  inspeção sanitária nos estabelecimentos snjeitos à fiscalização do Ministério da Agricultura.

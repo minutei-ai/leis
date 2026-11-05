@@ -1,5 +1,3 @@
-###DEC-075859-0-000-11-06-1975@@@
-
 DECRETO Nº 75.859, DE 11 DE JUNHO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Mecânica da Escola de Engenharia Industrial de São José dos Campos, mantida pela Associação Joseense de Ensino, com sede na cidade de São José dos Campos, Estado de São Paulo.

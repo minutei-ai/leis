@@ -1,5 +1,3 @@
-###DEL-009184-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.184 – DE 15 DE ABRIL DE 1946
 
 Altera sem aumento de despesa o atual orçamento do Ministério da Agricultura, para o corrente exercício.

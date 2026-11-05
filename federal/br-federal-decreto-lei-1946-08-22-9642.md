@@ -1,5 +1,3 @@
-###DEL-009642-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.642 – DE 22 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 10.541,90,para pagamento de gratificação de magistério.

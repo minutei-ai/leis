@@ -1,5 +1,3 @@
-###DEC-052686-0-000-14-10-1963@@@
-
 DECRETO N.º 52.686, DE 14 DE OUTUBRO DE 1963.
 
 Acresce número ao item II do artigo 1º e modifica o parágrafo 1º do artigo 9º do Decreto nº 52.040, de 22 de maio de 1963.

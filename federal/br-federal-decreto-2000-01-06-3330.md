@@ -1,5 +1,3 @@
-###DEC-003330-0-000-06-01-2000@@@
-
 DECRETO Nº 3.330, DE 6 DE JANEIRO DE 2000.
 
 Dispõe sobre a redução do consumo de energia elétrica em prédios públicos da Administração Pública Federal e dá outras providências.

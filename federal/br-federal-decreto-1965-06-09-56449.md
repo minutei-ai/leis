@@ -1,5 +1,3 @@
-###DEC-056449-0-000-09-06-1965@@@
-
 Decreto nº 56.449, de 9 de junho de 1965.
 
 Concede a Jangada - Indústria e Comércio S.A. autorização para funcionar como emprêsa de mineração.

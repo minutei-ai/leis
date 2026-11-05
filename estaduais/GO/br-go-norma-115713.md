@@ -28,8 +28,10 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 22 de junho de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-KARLOS CABRAL<br>
+KARLOS CABRAL
+
 Deputado Estadual

@@ -1,5 +1,3 @@
-###DEC-064791-0-000-09-07-1969@@@
-
 DECRETO Nº 64.791 - DE 9 DE JULHO DE 1969.
 
 Autoriza o Ministério da Fazenda, por intermédio do Serviço do Patrimônio da União, a ceder, gratuitamente, à Fundação Nacional do Índio, imóvel que menciona.

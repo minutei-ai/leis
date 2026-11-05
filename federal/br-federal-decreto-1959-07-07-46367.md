@@ -1,5 +1,3 @@
-###DEC-046367-0-000-07-07-1959@@@
-
 DECRETO Nº 46.367, DE 7 DE JULHO DE 1959.
 
 Dispõe o plano de aproveitamento da bacia hidrográfica do rio Mamanguape, no Estado da paraíba, visando a exploração agropecuária e assistência às emprêsas agrícolas do vale.

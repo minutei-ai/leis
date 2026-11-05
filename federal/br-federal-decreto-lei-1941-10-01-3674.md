@@ -1,5 +1,3 @@
-###DEL-003674-0-000-01-10-1941@@@
-
 DECRETO-LEI N. 3.674 – DE 1 de oUTUBRO DE 1941
 
 Autoriza o Governo do Estado do Rio de janeiro, para fins especiais, a utilizar terrenos de marinha e seus acrescidos situados naquele Estado e dá outras providências

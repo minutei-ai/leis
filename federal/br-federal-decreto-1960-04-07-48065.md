@@ -1,5 +1,3 @@
-###DEC-048065-0-000-07-04-1960@@@
-
 DECRETO Nº 48.065, DE 7 DE ABRIL DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Ferro, a faixa de terreno e benfeitorias atingidas pela ligação da Estrada de Ferro Santa Catarina ao cais do Porto de Itajaí, no Estado de Santa Catarina.

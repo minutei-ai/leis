@@ -1,5 +1,3 @@
-###DEC-070095-0-000-02-02-1972@@@
-
 DECRETO Nº 70.095, DE 2 DE FEVEREIRO DE 1972.
 
 Concede reconhecimento a Faculdade de Filosofia, Ciências e Letras de Adamantina, com os Cursos de Pedagogia, Letras, Estudos Sociais (Licenciatura de 1º Ciclo) e Ciências (Licenciatura de 1º Ciclo).

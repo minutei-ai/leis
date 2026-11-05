@@ -1,7 +1,3 @@
-1
-
-###DEC-000857-0-000-05-07-1993@@@
-
 DECRETO N° 857, DE 5 DE JULHO DE 1993
 
 Altera dispositivo do Plano Geral de Convocação para o Serviço Militar Inicial das Forças Armadas em 1994 - Classe 1975 e dá outras providências.
@@ -20,7 +16,69 @@ Exército
 
 Período    Local Período  Local        Data           Local Período  Local
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">Gpt “A”</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">28 Fev</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">Gpt “A”</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">3 Jan</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">A</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">a</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">OM</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">OM</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">1º Jan</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">a</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">JSM</span></p></td></tr><tr><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">a</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">Cargo</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">6 Mar</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">de</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">7 Mar</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">de</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">30 Abr</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">Gpt “B”</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">25 Jul</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">Gpt “B”</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">1º Ago</span></p></td><td style="width:47pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:47pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">4 Fev</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">DA RM</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">a</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">31 Jul</span></p></td><td style="width:47pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">Destino</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">1º Ago</span></p></td><td style="width:47pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">Destino</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:47pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">a</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">30 Set</span></p></td><td style="width:47pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt">CS</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:8pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Gpt “A”
+
+28 Fev
+
+Gpt “A”
+
+3 Jan
+
+A
+
+a
+
+OM
+
+OM
+
+1º Jan
+
+a
+
+JSM
+
+a
+
+Cargo
+
+6 Mar
+
+de
+
+7 Mar
+
+de
+
+30 Abr
+
+Gpt “B”
+
+25 Jul
+
+Gpt “B”
+
+1º Ago
+
+4 Fev
+
+DA RM
+
+a
+
+31 Jul
+
+Destino
+
+1º Ago
+
+Destino
+
+a
+
+30 Set
+
+CS
 
  Art. 2º  Este Decreto entra em vigor na data de sua publicação.
 

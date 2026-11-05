@@ -1,5 +1,3 @@
-###DEC-006121-0-000-13-06-2007@@@
-
 DECRETO Nº 6.121, DE 13 DE JUNHO DE 2007.
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Complementação Econômica no 53, entre os Governos da República Federativa do Brasil e dos Estados Unidos Mexicanos, de 4 de maio de 2007.
@@ -22,11 +20,7 @@ Brasília, 13 de junho de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 14.6.2007.
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 53 ENTRE A REPUBLICA FEDERATIVA DO BRASIL E OS ESTADOS UNIDOS MEXICANOS
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 53 ENTRE A REPUBLICA FEDERATIVA DO BRASIL E OS ESTADOS UNIDOS MEXICANOS
 
  Terceiro Protocolo Adicional
 

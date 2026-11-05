@@ -1,5 +1,3 @@
-###DEC-084638-0-000-16-04-1980@@@
-
 decreto nº 84.638, de 16 de abril de 1980
 
 Aprova novo Estatuto para a Fundação Nacional do Índio - FUNAI.

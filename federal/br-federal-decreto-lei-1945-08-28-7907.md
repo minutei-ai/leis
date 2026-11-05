@@ -1,5 +1,3 @@
-###DEL-007907-0-000-28-08-1945@@@
-
 DECRETO-LEI N. 7.907 – DE 28 DE AGÔSTO DE 1945
 
 Estingue o 1º Grupo de Aviação com sede normal em Natal e cria o 5º Grupo de Bombardeio Médio.

@@ -1,5 +1,3 @@
-###DEC-003584-0-000-04-09-2000@@@
-
 DECRETO Nº 3.584, DE 4 DE SETEMBRO DE 2000.
 
 Dispõe sobre a administração dos imóveis residenciais da União que menciona, altera a redação de dispositivo do Decreto nº 980, de 11 de novembro de 1993, e dá outras providências.

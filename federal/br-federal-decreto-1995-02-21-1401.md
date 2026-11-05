@@ -1,7 +1,3 @@
-1
-
-###DEC-001401-0-000-21-02-1995@@@
-
 DECRETO Nº 1.401, DE 21 DE FEVEREIRO DE 1995
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 27, entre o Brasil e a Venezuela, de 15 de novembro de 1994.

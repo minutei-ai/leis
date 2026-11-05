@@ -1,5 +1,3 @@
-###DEL-008652-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.652 – DE 11 DE JANEIRO DE 1946
 
 Prorroga a  vigência do crédito especial aberto no Ministério da Fazenda pelo Decreto-lei nº 6.338, de 10 de março de 1944.

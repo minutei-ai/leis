@@ -1,6 +1,10 @@
 > **LEI Nº 4.773, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação do Programa de Apoio Psicológico a mulheres vítimas de violência doméstica no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação do Programa de Apoio Psicológico a mulheres vítimas de violência doméstica no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

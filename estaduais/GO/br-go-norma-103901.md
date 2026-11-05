@@ -134,22 +134,26 @@ Art. 3º Os dispositivos adiante enumerados do Anexo XIII do Decreto nº 4.852, 
 
 § 4º Nas operações de retorno ou devolução dos bilhetes LOTEX entre os estabelecimentos do distribuidor e a concessionária, deve ser emitida NF-e, nos termos do art. 78, indicando no campo de identificação do destinatário a razão social e o CNPJ do distribuidor ou da concessionária, conforme o caso.” (NR)
 
-~~Art. 4º O Anexo IV do Decreto nº [4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, passa a vigorar com a redação dada pelo Anexo I deste Decreto (Ajuste SINIEF 16/20, cláusula primeira).~~<br>
+~~Art. 4º O Anexo IV do Decreto nº [4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, passa a vigorar com a redação dada pelo Anexo I deste Decreto (Ajuste SINIEF 16/20, cláusula primeira).~~
+
 \- [Revogado pelo Decreto nº 10.150, de 30-09-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106175/decreto-10150).
 
 Art. 5º O Anexo V–B do Decreto nº [4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, passa a vigorar com as alterações dadas pelo Anexo II deste Decreto (Convênio ICMS 72/20, cláusula primeira).
 
-Art. 6º  Fica, excepcionalmente, estabelecido o prazo de 360 (trezentos e sessenta) dias, contados da remessa do etanol hidratado combustível - EHC e do álcool anidro combustível - EAC para armazenagem no sistema dutoviário realizada no ano de 2021, em substituição ao prazo de 180 (cento e oitenta) dias previsto na alínea ‘b’ do inciso CXLIV do art. 6º do Anexo IX e no § 2º do art. 190 do Anexo XII, ambos do RCTE (Protocolo ICMS 14/20, cláusula primeira).<br>
+Art. 6º  Fica, excepcionalmente, estabelecido o prazo de 360 (trezentos e sessenta) dias, contados da remessa do etanol hidratado combustível - EHC e do álcool anidro combustível - EAC para armazenagem no sistema dutoviário realizada no ano de 2021, em substituição ao prazo de 180 (cento e oitenta) dias previsto na alínea ‘b’ do inciso CXLIV do art. 6º do Anexo IX e no § 2º do art. 190 do Anexo XII, ambos do RCTE (Protocolo ICMS 14/20, cláusula primeira).
+
 [\- Redação dada pelo Decreto nº 10.003, de 16-12-2021, art. 4º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104695/decreto-10003) [D.O de 16-12-2021 - (Suplemento).](https://diariooficial.abc.go.gov.br/portal/visualizacoes/jornal/4987/#/p:1/e:4987)
 
 ~~Art. 6º Fica, excepcionalmente, estabelecido o prazo de 360 (trezentos e sessenta) dias, contados da remessa do etanol hidratado combustível – EHC e do álcool anidro combustível – EAC para armazenagem no sistema dutoviário realizada no ano de 2020, em substituição ao prazo de 180 (cento e oitenta) dias previsto na alínea “b” do inciso CXLIV do art. 6º do Anexo IX e no § 2º do art. 190 do Anexo XII, ambos do RCTE (Protocolo ICMS 14/20, cláusula primeira).~~
 
-Parágrafo único. Na aplicação do prazo de 360 (trezentos e sessenta) dias para o atendimento da condição prevista na alínea ‘b’ do inciso CXLIV do art. 6º do Anexo IX e no § 2º do art. 190 do Anexo XII, ambos do RCTE, o retorno do EHC e do EAC ao estabelecimento depositante não poderá ultrapassar 31 de dezembro de 2022.<br>
+Parágrafo único. Na aplicação do prazo de 360 (trezentos e sessenta) dias para o atendimento da condição prevista na alínea ‘b’ do inciso CXLIV do art. 6º do Anexo IX e no § 2º do art. 190 do Anexo XII, ambos do RCTE, o retorno do EHC e do EAC ao estabelecimento depositante não poderá ultrapassar 31 de dezembro de 2022.
+
 [\- Redação dada pelo Decreto nº 10.003, de 16-12-2021, art. 4º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104695/decreto-10003) [D.O de 16-12-2021 - (Suplemento).](https://diariooficial.abc.go.gov.br/portal/visualizacoes/jornal/4987/#/p:1/e:4987)
 
 ~~Parágrafo único. Na aplicação do prazo de 360 (trezentos e sessenta) dias para o atendimento da condição prevista na alínea “b” do inciso CXLIV do art. 6º do Anexo IX e no § 2º do art. 190 do Anexo XII, ambos do RCTE, o retorno do EHC e do EAC ao estabelecimento depositante não poderá ultrapassar 31 de dezembro de 2020.~~
 
-Art. 7º  Fica convalidada a substituição do prazo, nos termos previstos no art. 6º deste Decreto, na hipótese em que o prazo original de 180 (cento e oitenta) dias para a armazenagem de EHC e EAC no sistema dutoviário realizada no ano de 2021 tenha exaurido até 3 de agosto de 2020 (Protocolo ICMS 14/20, cláusula segunda).<br>
+Art. 7º  Fica convalidada a substituição do prazo, nos termos previstos no art. 6º deste Decreto, na hipótese em que o prazo original de 180 (cento e oitenta) dias para a armazenagem de EHC e EAC no sistema dutoviário realizada no ano de 2021 tenha exaurido até 3 de agosto de 2020 (Protocolo ICMS 14/20, cláusula segunda).
+
 [\- Redação dada pelo Decreto nº 10.003, de 16-12-2021, art. 4º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104695/decreto-10003) [D.O de 16-12-2021 - (Suplemento).](https://diariooficial.abc.go.gov.br/portal/visualizacoes/jornal/4987/#/p:1/e:4987)
 
 ~~Art. 7º Fica convalidada a substituição do prazo, nos termos previstos no art. 4º deste Decreto, na hipótese em que o prazo original de 180 (cento e oitenta) dias para a armazenagem de EHC e EAC no sistema dutoviário realizada no ano de 2020 tenha exaurido até 3 de agosto de 2020 (Protocolo ICMS 14/20, cláusula segunda).~~
@@ -188,14 +192,13 @@ a) ao inciso XIII do art. 167-C do RCTE; e
 
 b) ao inciso XII do art. 167-S-E do RCTE ; e
 
-V – 3 de abril de 2023, quanto ao Anexo IV do RCTE.<br>
+V – 3 de abril de 2023, quanto ao Anexo IV do RCTE.
+
 [\- Redação dada pelo Decreto nº 10.003, de 16-12-2021, art. 4º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104695/decreto-10003) [D.O de 16-12-2021 - (Suplemento).](https://diariooficial.abc.go.gov.br/portal/visualizacoes/jornal/4987/#/p:1/e:4987)
 
 ~~V – 1º de janeiro de 2022, quanto ao Anexo IV do RCTE.~~
 
 Goiânia, 18 de março de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

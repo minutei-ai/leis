@@ -1,5 +1,3 @@
-###DEC-059730-0-000-15-12-1966@@@
-
 DECRETO Nº 59.730, DE 15 DE DEZEMBRO DE 1966.
 
 Concede à Águas Minerais Vontobel Ltda., autorização para funcionar como emprêsa de mineração.

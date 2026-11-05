@@ -1,6 +1,7 @@
 LEI Nº 11.617 DE 24 DE NOVEMBRO DE 2009
 
-Ver também:<br>
+Ver também:
+
 Lei [13.969](https://www.legislabahia.ba.gov.br/documentos/lei-no-13969-de-14-de-junho-de-2018) de 14 de junho de 2018 - Altera a estrutura do Quadro de Cargos em Comissão do Ministério Público do Estado da Bahia, constante do Anexo II da Lei nº 11.617, de 24 de novembro de 2009.
 
 Realinha a estrutura de vencimentos, gratificações e proventos dos servidores, e dos cargos em comissão do Ministério Público do Estado da Bahia, e dá outras providências.
@@ -51,570 +52,168 @@ VIGÊNCIA: 1º DE SETEMBRO DE 2009
 
 ANALISTA TÉCNICO
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr><td style="width:81.65pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto">Classe<quebra></quebra></p></td><td colspan="2" style="width:264.95pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="353"><p class="Tabela-Texto">Vencimento (R$)<quebra></quebra></p></td></tr><tr><td style="width:81.65pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:175.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="234"><p class="Tabela-Texto">30 horas<quebra></quebra></p></td><td style="width:89.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="120"><p class="Tabela-Texto">40 horas<quebra></quebra></p></td></tr><tr><td style="width:81.65pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="109"><p class="Tabela-Texto">I<quebra></quebra></p></td><td style="width:175.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="234"><p class="Tabela-Texto">1.850,04<quebra></quebra></p></td><td style="width:89.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="120"><p class="Tabela-Texto">2.466,65<quebra></quebra></p></td></tr><tr><td style="width:81.65pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="109"><p class="Tabela-Texto">II<quebra></quebra></p></td><td style="width:175.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="234"><p class="Tabela-Texto">2.127,54<quebra></quebra></p></td><td style="width:89.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="120"><p class="Tabela-Texto">2.836,65<quebra></quebra></p></td></tr><tr><td style="width:81.65pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="109"><p class="Tabela-Texto">III<quebra></quebra></p></td><td style="width:175.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="234"><p class="Tabela-Texto">2.446,67<quebra></quebra></p></td><td style="width:89.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="120"><p class="Tabela-Texto">3.262,15<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;page-break-inside:avoid;
-  height:12.75pt"><td style="width:81.65pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="109"><p class="Tabela-Texto">IV<quebra></quebra></p></td><td style="width:175.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="234"><p class="Tabela-Texto">2.813,67<quebra></quebra></p></td><td style="width:89.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="120"><p class="Tabela-Texto">3.751,48<quebra></quebra></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> Classe<quebra></quebra> </td><td colspan="2" valign="top"> Vencimento (R$)<quebra></quebra> </td></tr><tr><td valign="top"> <quebra></quebra> </td><td valign="top"> 30 horas<quebra></quebra> </td><td valign="top"> 40 horas<quebra></quebra> </td></tr><tr><td valign="top"> I<quebra></quebra> </td><td valign="top"> 1.850,04<quebra></quebra> </td><td valign="top"> 2.466,65<quebra></quebra> </td></tr><tr><td valign="top"> II<quebra></quebra> </td><td valign="top"> 2.127,54<quebra></quebra> </td><td valign="top"> 2.836,65<quebra></quebra> </td></tr><tr><td valign="top"> III<quebra></quebra> </td><td valign="top"> 2.446,67<quebra></quebra> </td><td valign="top"> 3.262,15<quebra></quebra> </td></tr><tr><td valign="top"> IV<quebra></quebra> </td><td valign="top"> 2.813,67<quebra></quebra> </td><td valign="top"> 3.751,48<quebra></quebra> </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr><td style="width:62.5pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="83"><p class="Tabela-Texto">Classe<quebra></quebra></p></td><td colspan="3" style="width:285.65pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="381"><p class="Tabela-Texto">Gratificação por Competência (R$)<quebra></quebra></p></td></tr><tr><td style="width:62.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="83"><p class="Tabela-Texto"><quebra></quebra></p></td><td colspan="3" style="width:285.65pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="381"><p class="Tabela-Texto">Nível<quebra></quebra></p></td></tr><tr><td style="width:62.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="83"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="127"><p class="Tabela-Texto">1<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="127"><p class="Tabela-Texto">2<quebra></quebra></p></td><td style="width:95.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="127"><p class="Tabela-Texto">3<quebra></quebra></p></td></tr><tr><td style="width:62.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="83"><p class="Tabela-Texto">I<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">1.051,03<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">1.156,12<quebra></quebra></p></td><td style="width:95.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">1.635,09<quebra></quebra></p></td></tr><tr><td style="width:62.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="83"><p class="Tabela-Texto">II<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">1.962,11<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">2.158,31<quebra></quebra></p></td><td style="width:95.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">2.374,14<quebra></quebra></p></td></tr><tr><td style="width:62.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="83"><p class="Tabela-Texto">III<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">2.848,98<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">3.133,89<quebra></quebra></p></td><td style="width:95.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">3.447,25<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;page-break-inside:avoid;
-  height:12.75pt"><td style="width:62.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="83"><p class="Tabela-Texto">IV<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">4.136,73<quebra></quebra></p></td><td style="width:95.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">4.550,39<quebra></quebra></p></td><td style="width:95.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">5.005,43<quebra></quebra></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> Classe<quebra></quebra> </td><td colspan="3" valign="top"> Gratificação por Competência (R$)<quebra></quebra> </td></tr><tr><td valign="top"> <quebra></quebra> </td><td colspan="3" valign="top"> Nível<quebra></quebra> </td></tr><tr><td valign="top"> <quebra></quebra> </td><td valign="top"> 1<quebra></quebra> </td><td valign="top"> 2<quebra></quebra> </td><td valign="top"> 3<quebra></quebra> </td></tr><tr><td valign="top"> I<quebra></quebra> </td><td valign="top"> 1.051,03<quebra></quebra> </td><td valign="top"> 1.156,12<quebra></quebra> </td><td valign="top"> 1.635,09<quebra></quebra> </td></tr><tr><td valign="top"> II<quebra></quebra> </td><td valign="top"> 1.962,11<quebra></quebra> </td><td valign="top"> 2.158,31<quebra></quebra> </td><td valign="top"> 2.374,14<quebra></quebra> </td></tr><tr><td valign="top"> III<quebra></quebra> </td><td valign="top"> 2.848,98<quebra></quebra> </td><td valign="top"> 3.133,89<quebra></quebra> </td><td valign="top"> 3.447,25<quebra></quebra> </td></tr><tr><td valign="top"> IV<quebra></quebra> </td><td valign="top"> 4.136,73<quebra></quebra> </td><td valign="top"> 4.550,39<quebra></quebra> </td><td valign="top"> 5.005,43<quebra></quebra> </td></tr></tbody></table>
 
 ASSISTENTE TÉCNICO-ADMINISTRATIVO E MOTORISTA
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr><td style="width:112.6pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="150"><p class="Tabela-Texto">Classe<quebra></quebra></p></td><td colspan="2" style="width:253.5pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="338"><p class="Tabela-Texto">Vencimento<quebra></quebra></p></td></tr><tr><td style="width:112.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="150"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:133.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="178"><p class="Tabela-Texto">30 horas<quebra></quebra></p></td><td style="width:120.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="160"><p class="Tabela-Texto">40 horas<quebra></quebra></p></td></tr><tr><td style="width:112.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="150"><p class="Tabela-Texto">I<quebra></quebra></p></td><td style="width:133.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="178"><p class="Tabela-Texto">1.015,42<quebra></quebra></p></td><td style="width:120.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="160"><p class="Tabela-Texto">1.353,85<quebra></quebra></p></td></tr><tr><td style="width:112.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="150"><p class="Tabela-Texto">II<quebra></quebra></p></td><td style="width:133.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="178"><p class="Tabela-Texto">1.116,96<quebra></quebra></p></td><td style="width:120.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="160"><p class="Tabela-Texto">1.489,24<quebra></quebra></p></td></tr><tr><td style="width:112.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="150"><p class="Tabela-Texto">III<quebra></quebra></p></td><td style="width:133.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="178"><p class="Tabela-Texto">1.228,65<quebra></quebra></p></td><td style="width:120.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="160"><p class="Tabela-Texto">1.638,16<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;page-break-inside:avoid;
-  height:12.75pt"><td style="width:112.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="150"><p class="Tabela-Texto">IV<quebra></quebra></p></td><td style="width:133.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="178"><p class="Tabela-Texto">1.351,52<quebra></quebra></p></td><td style="width:120.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="160"><p class="Tabela-Texto">1.801,98<quebra></quebra></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> Classe<quebra></quebra> </td><td colspan="2" valign="top"> Vencimento<quebra></quebra> </td></tr><tr><td valign="top"> <quebra></quebra> </td><td valign="top"> 30 horas<quebra></quebra> </td><td valign="top"> 40 horas<quebra></quebra> </td></tr><tr><td valign="top"> I<quebra></quebra> </td><td valign="top"> 1.015,42<quebra></quebra> </td><td valign="top"> 1.353,85<quebra></quebra> </td></tr><tr><td valign="top"> II<quebra></quebra> </td><td valign="top"> 1.116,96<quebra></quebra> </td><td valign="top"> 1.489,24<quebra></quebra> </td></tr><tr><td valign="top"> III<quebra></quebra> </td><td valign="top"> 1.228,65<quebra></quebra> </td><td valign="top"> 1.638,16<quebra></quebra> </td></tr><tr><td valign="top"> IV<quebra></quebra> </td><td valign="top"> 1.351,52<quebra></quebra> </td><td valign="top"> 1.801,98<quebra></quebra> </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr><td colspan="2" style="width:74.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="99"><p class="Tabela-Texto"><quebra></quebra></p></td><td colspan="5" style="width:301.55pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="402"><p class="Tabela-Texto">Gratificação por Competência (R$)<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:74.25pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="99"><p class="Tabela-Texto">Classe<quebra></quebra></p></td><td colspan="5" style="width:301.55pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="402"><p class="Tabela-Texto">Nível<quebra></quebra></p></td></tr><tr><td style="width:73.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="98"><p class="Tabela-Texto"><quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="127"><p class="Tabela-Texto">1<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="127"><p class="Tabela-Texto">2<quebra></quebra></p></td><td style="width:111.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="149"><p class="Tabela-Texto">3<quebra></quebra></p></td></tr><tr><td style="width:73.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="98"><p class="Tabela-Texto">I<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp; </span>598,84<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp; </span>718,60<quebra></quebra></p></td><td style="width:111.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="149"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>862,33<quebra></quebra></p></td></tr><tr><td style="width:73.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="98"><p class="Tabela-Texto">II<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">1.034,80<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">1.138,28<quebra></quebra></p></td><td style="width:111.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="149"><p class="Tabela-Texto">1.252,11<quebra></quebra></p></td></tr><tr><td style="width:73.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="98"><p class="Tabela-Texto">III<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">1.502,53<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">1.652,78<quebra></quebra></p></td><td style="width:111.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="149"><p class="Tabela-Texto">1.818,05<quebra></quebra></p></td></tr><tr><td style="width:73.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="98"><p class="Tabela-Texto">IV<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">2.181,68<quebra></quebra></p></td><td colspan="2" style="width:95.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="127"><p class="Tabela-Texto">2.399,84<quebra></quebra></p></td><td style="width:111.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:12.75pt" valign="top" width="149"><p class="Tabela-Texto">2.639,82<quebra></quebra></p></td></tr><tr><td colspan="4" style="width:218.25pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="291"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td colspan="2" style="width:157.15pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="210"><p class="Tabela-Texto">VENCIMENTO(R$)<quebra></quebra></p></td></tr><tr><td colspan="4" style="width:218.25pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="291"><p class="Tabela-Texto">AUXILIAR SERVIÇOS GERAIS<quebra></quebra></p></td><td colspan="2" style="width:157.15pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="210"><p class="Tabela-Texto">629,55<quebra></quebra></p></td></tr><tr></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> <quebra></quebra> </td><td colspan="5" valign="top"> Gratificação por Competência (R$)<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Classe<quebra></quebra> </td><td colspan="5" valign="top"> Nível<quebra></quebra> </td></tr><tr><td valign="top"> <quebra></quebra> </td><td colspan="2" valign="top"> 1<quebra></quebra> </td><td colspan="2" valign="top"> 2<quebra></quebra> </td><td valign="top"> 3<quebra></quebra> </td></tr><tr><td valign="top"> I<quebra></quebra> </td><td colspan="2" valign="top"> &nbsp; 598,84<quebra></quebra> </td><td colspan="2" valign="top"> &nbsp; 718,60<quebra></quebra> </td><td valign="top"> &nbsp;&nbsp; 862,33<quebra></quebra> </td></tr><tr><td valign="top"> II<quebra></quebra> </td><td colspan="2" valign="top"> 1.034,80<quebra></quebra> </td><td colspan="2" valign="top"> 1.138,28<quebra></quebra> </td><td valign="top"> 1.252,11<quebra></quebra> </td></tr><tr><td valign="top"> III<quebra></quebra> </td><td colspan="2" valign="top"> 1.502,53<quebra></quebra> </td><td colspan="2" valign="top"> 1.652,78<quebra></quebra> </td><td valign="top"> 1.818,05<quebra></quebra> </td></tr><tr><td valign="top"> IV<quebra></quebra> </td><td colspan="2" valign="top"> 2.181,68<quebra></quebra> </td><td colspan="2" valign="top"> 2.399,84<quebra></quebra> </td><td valign="top"> 2.639,82<quebra></quebra> </td></tr><tr><td colspan="4" valign="top"> CARGO<quebra></quebra> </td><td colspan="2" valign="top"> VENCIMENTO(R$)<quebra></quebra> </td></tr><tr><td colspan="4" valign="top"> AUXILIAR SERVIÇOS GERAIS<quebra></quebra> </td><td colspan="2" valign="top"> 629,55<quebra></quebra> </td></tr><tr></tr></tbody></table>
 
 CARGOS EM COMISSÃO
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto">Símbolo<quebra></quebra></p></td><td style="width:203.7pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Cargo<quebra></quebra></p></td><td style="width:77.3pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto">Vencimento (R$)<quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto">CMP ? 7<quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Superintendente<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto">5.146,94<quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor de Gabinete<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto">CMP ? 6<quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assistente Militar<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto">4.053,22<quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Coordenador Executivo<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Ajudante de Ordens <a name="DDE_LINK" id="DDE_LINK"></a>/#DDE_LINK#/<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor Jurídico<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto">CMP ? 5<quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor Técnico Jurídico<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto">2.947,79<quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor Técnico Pericial<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor Técnico de Inteligência I<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Coordenador Técnico<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor de Comunicação Social II<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto">CMP ? 4<quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Assessor Técnico de Inteligência II<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto">2.263,79<quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Coordenador Administrativo I<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Gerente<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Coordenador Administrativo II<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto">CMP ? 3<quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Gerente Administrativo Regional<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto">1.733,70<quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Oficial Administrativo I<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto">CMP ? 2<quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Coordenador Administrativo III<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto">866,71<quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto"><quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Oficial Administrativo II<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto"><quebra></quebra></p></td></tr><tr><td style="width:82.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="110"><p class="Tabela-Texto">CMP ? 1<quebra></quebra></p></td><td style="width:203.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="272"><p class="Tabela-Texto">Oficial Administrativo III<quebra></quebra></p></td><td style="width:77.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm;height:18.0pt" valign="top" width="103"><p class="Tabela-Texto">520,02<quebra></quebra></p></td></tr></tbody></table>
+Símbolo<quebra></quebra>
+
+Cargo<quebra></quebra>
+
+Vencimento (R$)<quebra></quebra>
+
+CMP ? 7<quebra></quebra>
+
+Superintendente<quebra></quebra>
+
+5.146,94<quebra></quebra>
+
+<quebra></quebra>
+
+Assessor de Gabinete<quebra></quebra>
+
+<quebra></quebra>
+
+CMP ? 6<quebra></quebra>
+
+Assistente Militar<quebra></quebra>
+
+4.053,22<quebra></quebra>
+
+<quebra></quebra>
+
+Coordenador Executivo<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Ajudante de Ordens /#DDE_LINK#/<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Assessor Jurídico<quebra></quebra>
+
+<quebra></quebra>
+
+CMP ? 5<quebra></quebra>
+
+Assessor Técnico Jurídico<quebra></quebra>
+
+2.947,79<quebra></quebra>
+
+<quebra></quebra>
+
+Assessor Técnico Pericial<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Assessor Técnico de Inteligência I<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Coordenador Técnico<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Assessor de Comunicação Social II<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+<quebra></quebra>
+
+CMP ? 4<quebra></quebra>
+
+Assessor Técnico de Inteligência II<quebra></quebra>
+
+2.263,79<quebra></quebra>
+
+<quebra></quebra>
+
+Coordenador Administrativo I<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Gerente<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Coordenador Administrativo II<quebra></quebra>
+
+<quebra></quebra>
+
+CMP ? 3<quebra></quebra>
+
+Gerente Administrativo Regional<quebra></quebra>
+
+1.733,70<quebra></quebra>
+
+<quebra></quebra>
+
+Oficial Administrativo I<quebra></quebra>
+
+<quebra></quebra>
+
+CMP ? 2<quebra></quebra>
+
+Coordenador Administrativo III<quebra></quebra>
+
+866,71<quebra></quebra>
+
+<quebra></quebra>
+
+Oficial Administrativo II<quebra></quebra>
+
+<quebra></quebra>
+
+CMP ? 1<quebra></quebra>
+
+Oficial Administrativo III<quebra></quebra>
+
+520,02<quebra></quebra>
 
 ANEXO II
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr><td style="width:81.55pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td style="width:234.65pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;mso-pattern:
-  solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="313"><p class="Tabela-Texto">NOMENCLATURA<quebra></quebra></p></td><td style="width:68.9pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;mso-pattern:
-  solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">QT<quebra></quebra></p></td></tr><tr><td style="width:81.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto">CMP-7<quebra></quebra></p></td><td style="width:234.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="313"><p class="Tabela-Texto">Superintendente<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:316.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;mso-shading:windowtext;mso-pattern:solid #D9D9D9;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="422"><p class="Tabela-Texto">Subtotal<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr><td style="width:81.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto">CMP-6<quebra></quebra></p></td><td style="width:234.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="313"><p class="Tabela-Texto">Assessor de Gabinete Assistente Militar Coordenador Executivo Diretor<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">05 01 01 07<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:316.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;mso-shading:windowtext;mso-pattern:solid #D9D9D9;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="422"><p class="Tabela-Texto">Subtotal<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">14<quebra></quebra></p></td></tr><tr><td style="width:81.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto">CMP-5<quebra></quebra></p></td><td style="width:234.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="313"><p class="Tabela-Texto">Ajudante de Ordens Assessor de Comunicação Social I Assessor Jurídico Assessor Técnico Jurídico Assessor Técnico Pericial Assessor Técnico de Inteligência I Coordenador Técnico<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">01 01 47 01 09 01 10<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:316.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;mso-shading:windowtext;mso-pattern:solid #D9D9D9;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="422"><p class="Tabela-Texto">Subtotal<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">70<quebra></quebra></p></td></tr><tr><td style="width:81.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto">CMP-4<quebra></quebra></p></td><td style="width:234.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="313"><p class="Tabela-Texto">Assessor de Comunicação Social II Assessor Administrativo Assessor Técnico Assessor Técnico de Inteligência II Coordenador Administrativo I Gerente<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">01 05 05 01 10 12<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:316.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;mso-shading:windowtext;mso-pattern:solid #D9D9D9;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="422"><p class="Tabela-Texto">Subtotal<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">34<quebra></quebra></p></td></tr><tr><td style="width:81.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto">CMP-3<quebra></quebra></p></td><td style="width:234.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="313"><p class="Tabela-Texto">Coordenador Administrativo II Gerente Administrativo Regional Oficial Administrativo I<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">23 29 17<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:316.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;mso-shading:windowtext;mso-pattern:solid #D9D9D9;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="422"><p class="Tabela-Texto">Subtotal<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">69<quebra></quebra></p></td></tr><tr><td style="width:81.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>CMP-2<quebra></quebra></p></td><td style="width:234.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="313"><p class="Tabela-Texto">Coordenador Administrativo III Oficial Administrativo II<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">32 56<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:316.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;mso-shading:windowtext;mso-pattern:solid #D9D9D9;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="422"><p class="Tabela-Texto">Subtotal<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">88<quebra></quebra></p></td></tr><tr><td style="width:81.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="109"><p class="Tabela-Texto">CMP-1<quebra></quebra></p></td><td style="width:234.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="313"><p class="Tabela-Texto">Oficial Administrativo III<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">52<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:316.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;mso-shading:windowtext;mso-pattern:solid #D9D9D9;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="422"><p class="Tabela-Texto">Subtotal<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">52<quebra></quebra></p></td></tr><tr><td colspan="2" style="width:316.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;mso-shading:windowtext;mso-pattern:solid #D9D9D9;
-  padding:0cm 0cm 0cm 0cm" valign="top" width="422"><p class="Tabela-Texto">TOTAL DE CARGOS<quebra></quebra></p></td><td style="width:68.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-shading:windowtext;
-  mso-pattern:solid #D9D9D9;padding:0cm 0cm 0cm 0cm" valign="top" width="92"><p class="Tabela-Texto">328<quebra></quebra></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> SÍMBOLO<quebra></quebra> </td><td valign="top"> NOMENCLATURA<quebra></quebra> </td><td valign="top"> QT<quebra></quebra> </td></tr><tr><td valign="top"> CMP-7<quebra></quebra> </td><td valign="top"> Superintendente<quebra></quebra> </td><td valign="top"> 01<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Subtotal<quebra></quebra> </td><td valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> CMP-6<quebra></quebra> </td><td valign="top"> Assessor de Gabinete Assistente Militar Coordenador Executivo Diretor<quebra></quebra> </td><td valign="top"> 05 01 01 07<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Subtotal<quebra></quebra> </td><td valign="top"> 14<quebra></quebra> </td></tr><tr><td valign="top"> CMP-5<quebra></quebra> </td><td valign="top"> Ajudante de Ordens Assessor de Comunicação Social I Assessor Jurídico Assessor Técnico Jurídico Assessor Técnico Pericial Assessor Técnico de Inteligência I Coordenador Técnico<quebra></quebra> </td><td valign="top"> 01 01 47 01 09 01 10<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Subtotal<quebra></quebra> </td><td valign="top"> 70<quebra></quebra> </td></tr><tr><td valign="top"> CMP-4<quebra></quebra> </td><td valign="top"> Assessor de Comunicação Social II Assessor Administrativo Assessor Técnico Assessor Técnico de Inteligência II Coordenador Administrativo I Gerente<quebra></quebra> </td><td valign="top"> 01 05 05 01 10 12<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Subtotal<quebra></quebra> </td><td valign="top"> 34<quebra></quebra> </td></tr><tr><td valign="top"> CMP-3<quebra></quebra> </td><td valign="top"> Coordenador Administrativo II Gerente Administrativo Regional Oficial Administrativo I<quebra></quebra> </td><td valign="top"> 23 29 17<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Subtotal<quebra></quebra> </td><td valign="top"> 69<quebra></quebra> </td></tr><tr><td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp; CMP-2<quebra></quebra> </td><td valign="top"> Coordenador Administrativo III Oficial Administrativo II<quebra></quebra> </td><td valign="top"> 32 56<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Subtotal<quebra></quebra> </td><td valign="top"> 88<quebra></quebra> </td></tr><tr><td valign="top"> CMP-1<quebra></quebra> </td><td valign="top"> Oficial Administrativo III<quebra></quebra> </td><td valign="top"> 52<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Subtotal<quebra></quebra> </td><td valign="top"> 52<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> TOTAL DE CARGOS<quebra></quebra> </td><td valign="top"> 328<quebra></quebra> </td></tr></tbody></table>

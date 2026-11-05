@@ -1,5 +1,3 @@
-###DEC-069827-0-000-22-12-1971@@@
-
 decreto nº 69.827 - de 22 DE DEZEMBRO de 1971
 
 Delega competência ao Ministro da Indústria e do Comércio para aprovar alterações nos atos que regem o funcionamento das sociedades estrangeiras.

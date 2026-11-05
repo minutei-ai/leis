@@ -1,5 +1,3 @@
-###DEC-058680-0-000-21-06-1966@@@
-
 Decreto nº 58.680, de 21 de junho de 1966.
 
 Altera as alíneas d e e do Art. 1º do Decreto nº 57.624, de 13 de janeiro de 1956.
@@ -21,8 +19,6 @@ Zilmar de Araripe
 Arthur da Costa e Silva
 
 Eduardo Gomes
-
-###DEC-058680-0-000-21-06-1966@@@RET01+++
 
 DECRETO Nº 58.680, DE 21 DE JUNHO DE 1966.
 

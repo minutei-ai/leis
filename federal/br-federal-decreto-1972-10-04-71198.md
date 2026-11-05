@@ -1,5 +1,3 @@
-###DEC-071198-0-000-04-10-1972@@@
-
 DECRETO Nº 71.198, de 4 de Outubro de 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas de Uruguaiana, no Estado do Rio Grande do Sul.

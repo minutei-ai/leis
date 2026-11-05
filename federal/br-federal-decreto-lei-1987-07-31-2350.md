@@ -1,7 +1,3 @@
-1
-
-###DEL-002350-0-000-31-07-1987@@@
-
 # DECRETO-LEI Nº 2.350, DE 31 DE JULHO DE 1987
 
 Dispõe sobre o incentivo fiscal a que se refere a Lei nº 7.554, de 16 de dezembro de 1986, concedido às empresas controladas pela Siderurgia Brasileira S.A. - Siderbrás (Grupo Siderbrás).

@@ -1,5 +1,3 @@
-###DEC-006642-0-000-18-11-2008@@@
-
 DECRETO Nº 6.631, DE 18 DE NOVEMBRO DE 2008.
 
 Acrescenta o art. 1o\-A ao Decreto no 2.014, de 26 de setembro de 1996, que delega competência para nomeação das autoridades que menciona.

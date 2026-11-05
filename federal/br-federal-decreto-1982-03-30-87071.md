@@ -1,5 +1,3 @@
-###DEC-087071-0-000-30-03-1982@@@
-
 Decreto nº 87.071, de 30 de março de 1982
 
 Autoriza o aumento de potência da RÁDIO CLUBE DE ITARARÉ LTDA., na cidade de Itararé, Estado de são Paulo.

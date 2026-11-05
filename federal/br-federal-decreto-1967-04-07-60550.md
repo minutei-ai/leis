@@ -1,5 +1,3 @@
-###DEC-060550-0-000-07-04-1967@@@
-
 DECRETO Nº 60.550, DE 7 DE ABRIL DE 1967.
 
 Declara de utilidade pública a “Sociedade Propagadora de Cultura Feminina”, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-000272-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 272, DE 28 DE FEVEREIRO DE 1967
 
 Dá nova redação ao art. 1º do Decreto-lei nº 149, de 8 de fevereiro de 1967.

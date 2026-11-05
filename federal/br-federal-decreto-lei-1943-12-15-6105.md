@@ -1,5 +1,3 @@
-###DEL-006105-0-000-15-12-1943@@@
-
 DECRETO‑LEI N. 6.105 – DE 15 DE DEZEMBRO DE 1943
 
 Transfere para a propriedade da União, denominada "Saltinho", no Estado de Pernambuco, o Hôrto Florestal de Ubajara, no Estado do Ceará

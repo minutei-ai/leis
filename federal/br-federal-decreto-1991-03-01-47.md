@@ -1,5 +1,3 @@
-###DEC-000047-0-000-01-03-1991@@@
-
 DECRETO Nº 47, DE 1º DE MARÇO DE 1991
 
 Dispõe sobre a execução do Vigésimo Quinto Protocolo Adicional ao Acordo Comercial nº 16, no Setor da Indústria Petroquímica entre o Brasil, a Argentina, o Chile, o México e o Uruguai.

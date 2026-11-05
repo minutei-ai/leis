@@ -1,5 +1,3 @@
-###DEC-052844-0-000-18-11-1963@@@
-
 DECRETO Nº 52.844, DE 18 DE NOVEMBRO DE 1963.
 
 Concede à Belcal - Industria e Comércio Ltda. autorização para funcionar como emprêsa de mineração.

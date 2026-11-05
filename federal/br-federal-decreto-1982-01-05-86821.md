@@ -1,5 +1,3 @@
-###DEC-086821-0-000-05-01-1982@@@
-
 Decreto nº 86.821, de 05 de janeirO de 1982.
 
 Cria a 12ª Região Militar e seu respectivo Comando, no Ministério do Exército, e dá outras providências.

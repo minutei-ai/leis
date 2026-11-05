@@ -1,5 +1,3 @@
-###DEC-044968-0-000-01-12-1958@@@
-
 decreto nº 44.968, de 1 de dezembro de 1958.
 
 Autoriza a Mineração Hanna do Brasil Ltda. a pesquisar minério de ferro nos municípios de Brumadinho e Nova Lima, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-073563-0-000-24-01-1974@@@
-
 DECRETO Nº 7.563, DE 24 DE JANEIRO DE 1974.
 
 Altera os limites do parque Indígena do Aripuanã e dá outras providências.

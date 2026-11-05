@@ -1,5 +1,3 @@
-###DEC-085121-0-000-03-09-1980@@@
-
 Decreto nº 85.121, de 03 de setembro de 1980.
 
 Concede autorização à empresa ELFAQUITAINE BRÊSIL, para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A.- PETROBRÁS.

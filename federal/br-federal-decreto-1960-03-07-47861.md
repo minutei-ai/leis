@@ -1,5 +1,3 @@
-###DEC-047861-0-000-07-03-1960@@@
-
 DECRETO Nº 47.861, DE 7 DE MARÇO DE 1960.
 
 Autoriza o cidadão brasileiro Mário de Mattos a pesquisar calcário no município de Arcos, Estado de Minas Gerais.

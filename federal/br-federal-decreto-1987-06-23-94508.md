@@ -1,5 +1,3 @@
-###DEC-094508-0-000-23-06-1987@@@
-
 DECRETO N° 94.508, DE 23 DE JUNHO DE 1987.
 
 Altera o Decreto n° 91.469, de 24 de julho de 1985, que dispõe sobre o Conselho Nacional de Defesa do Consumidor, e dá outras providências.

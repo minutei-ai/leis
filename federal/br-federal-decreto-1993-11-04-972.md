@@ -1,7 +1,3 @@
-1
-
-###DEC-000972-0-000-04-11-1993@@@
-
 DECRETO N° 972, DE 4 DE NOVEMBRO DE 1993
 
 Promulga o Tratado sobre o Registro Internacional de Obras Audiovisuais, concluído em Genebra, em 18 de abril de 1989.

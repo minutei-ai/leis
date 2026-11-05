@@ -1,5 +1,3 @@
-###DEC-003184-0-000-27-09-1999@@@
-
 DECRETO Nº 3.184, DE 27 DE SETEMBRO DE 1999.
 
 Dispõe sobre a concessão de indenização de transporte aos servidores públicos da Administração direta, autárquica e fundacional do Poder Executivo da União.

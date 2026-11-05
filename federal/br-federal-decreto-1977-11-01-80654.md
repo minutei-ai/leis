@@ -1,5 +1,3 @@
-###DEC-080654-0-000-01-11-1977@@@
-
 DECRETO Nº 80.654, DE 01 DE novembro DE 1977.
 
 Concede à CINCAPEL - Comércio e Indústria de Calcinação Pedra Grande Ltda. o direito de lavrar calcário no Município de Sete Lagoas, Estado de Minas Gerais.

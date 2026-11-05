@@ -1,7 +1,3 @@
-1
-
-###DEC-000914-0-000-06-09-1993@@@
-
 DECRETO Nº 914, DE 6 DE SETEMBRO DE 1993
 
 Institui a Política Nacional para a Integração da Pessoa Portadora de Deficiência, e dá outras providências.

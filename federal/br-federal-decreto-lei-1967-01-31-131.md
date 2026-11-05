@@ -1,5 +1,3 @@
-###DEL-000131-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 131, DE 31 DE JANEIRO DE 1937
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$32.358.800, para o fim que especifica.

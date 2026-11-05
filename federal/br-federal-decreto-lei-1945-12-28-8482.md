@@ -1,5 +1,3 @@
-###DEL-008482-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.482 – DE 28 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a reorganização da Inspetoria Geral de Iluminação (I.G.I.), que passa a denominar-se Departamento Nacional de Iluminação e Gás (D.K.I.G.), e dá outras providências.

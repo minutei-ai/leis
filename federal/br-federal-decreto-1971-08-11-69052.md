@@ -1,5 +1,3 @@
-###DEC-069052-0-000-11-08-1971@@@
-
 decreto nº 69.052, de 11 de agÔsto de 1971.
 
 Declara de utilidade pública a Obra de Missão Social Casa da Mãe Sem Lar, com sede no Estado da Guanabara.

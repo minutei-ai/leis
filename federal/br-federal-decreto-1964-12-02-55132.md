@@ -1,5 +1,3 @@
-###DEC-055132-0-000-02-12-1964@@@
-
 DECRETO Nº 55.132, DE 2 DE DEZEMBRO DE 1964.
 
 Retifica o Decreto nº 54.285, de 14 de setembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-072026-0-000-29-03-1973@@@
-
 DECRETO Nº 72.026, DE 29 DE MARÇO DE 1973.
 
 Concede a Indústrias Brasileiras de Artigos Refratários S.A. - I.B.A.R. o direito de lavrar filito no Município de Itapeva, Estado de São Paulo.

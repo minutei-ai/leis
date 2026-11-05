@@ -1,5 +1,3 @@
-###DEC-052153-0-000-25-06-1963@@@
-
 DECRETO Nº 52.153, DE 25 DE JUNHO DE 1963.
 
 Altera os preços básicos mínimos para o financiamento ou aquisição de amendoim da safra, da sêca, de 1962-63, constantes do Decreto número 1.356, de 3 de setembro de 1962.

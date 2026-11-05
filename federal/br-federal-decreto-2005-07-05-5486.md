@@ -1,5 +1,3 @@
-###DEC-005486-0-000-05-07-2005@@@
-
 DECRETO N o 5.486, DE 5 DE JULHO DE 2005
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Tunísia sobre Cooperação entre os Institutos Diplomáticos de Ambos os Países, celebrado em Brasília, em 13 de março de 2002.

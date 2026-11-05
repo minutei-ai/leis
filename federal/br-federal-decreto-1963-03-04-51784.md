@@ -1,5 +1,3 @@
-###DEC-051784-0-000-04-03-1963@@@
-
 DECRETO Nº 51.784, DE 4 DE MARÇO DE 1963.
 
 Desvincula da concessão de que é titular a Companhia Prada de Eletricidade, as usinas hidroelétricas da Caverna e do Rio Bonito, e dá outras providências.
@@ -25,8 +23,6 @@ Brasília, 4 de março de 1963; 142º da Independência e 75º da República.
 João goulart
 
 Eliezer Batista da Silva
-
-###DEC-051784-0-000-04-03-1963@@@RET01+++
 
 DECRETO Nº 51.784, DE 4 DE MARÇO DE 1963.
 

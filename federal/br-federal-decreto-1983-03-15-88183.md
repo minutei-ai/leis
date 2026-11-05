@@ -1,5 +1,3 @@
-###DEC-088183-0-000-15-03-1983@@@
-
 DECRETO nº 88.183, de 15 de março de 1983.
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5.821, de 10 de novembro de 1972.

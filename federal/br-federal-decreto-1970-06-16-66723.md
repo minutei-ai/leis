@@ -1,5 +1,3 @@
-###DEC-066723-0-000-16-06-1970@@@
-
 DECRETO Nº 66.723, DE 16 DE JUNHO DE 1970.
 
 Concede reconhecimento à Faculdade de Ciências Contábeis de Itapetininga, no Estado de São Paulo.

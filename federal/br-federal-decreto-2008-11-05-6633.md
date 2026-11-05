@@ -1,5 +1,3 @@
-###DEC-006633-0-000-05-11-2008@@@
-
 DECRETO Nº 6.633, DE 5 DE NOVEMBRO DE 2008.
 
 Altera e acresce dispositivos ao Regulamento do Serviço Nacional de Aprendizagem Comercial - SENAC, aprovado pelo Decreto no 61.843, de 5 de dezembro de 1967.

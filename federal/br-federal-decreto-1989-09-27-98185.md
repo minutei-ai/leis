@@ -1,7 +1,3 @@
-1
-
-###DEC-098185-0-000-27-09-1989@@@
-
 DECRETO Nº 98.185, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “FAZENDAS CONTENDAS e BOQUEIRÃO”, situados no Município de Massapê, no Estado do Ceará, e dá outras providências.

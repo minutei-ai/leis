@@ -1,5 +1,3 @@
-###DEL-007218-0-000-30-12-1944@@@
-
 DECRETO-LEI N. 7.218 – DE 30 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Viação e 0bras Públicas o crédito especial de Cr$ 391.140.000,00, para aquisição de locomotivas e de material metálico, e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-008978-0-000-14-02-1946@@@
-
 DECRETO-LEI N. 8.978 – DE 14 DE FEVEREIRO DE 1946
 
 Cria, no Ministério  da Guerra, a 1º Companha de Depósito de Materal de Intendência

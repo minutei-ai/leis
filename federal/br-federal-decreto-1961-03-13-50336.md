@@ -1,5 +1,3 @@
-###DEC-050336-0-000-13-03-1961@@@
-
 DECRETO Nº 50.336, DE 13 DE MARÇO DE 1961.
 
 Institui o Corpo de Policiamento Especial Feminino em Brasília.

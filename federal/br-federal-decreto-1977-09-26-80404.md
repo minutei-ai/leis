@@ -1,5 +1,3 @@
-###DEC-080404-0-000-26-09-1977@@@
-
 DECRETO Nº 80.404, DE 26 DE SETEMBRO DE 1977.
 
 Altera dispositivos do Regulamento para o exercício da profissão de Estatístico, aprovado pelo Decreto nº 62.497, de 1º de abril de 1968.

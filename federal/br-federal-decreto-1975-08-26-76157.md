@@ -1,5 +1,3 @@
-###DEC-076157-0-000-26-08-1975@@@
-
 DECRETO Nº 76.157, DE 26 DE AGOSTO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado em Varginha, Estado de Minas Gerais.

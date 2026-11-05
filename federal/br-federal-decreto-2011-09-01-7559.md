@@ -1,5 +1,3 @@
-###DEC-007559-0-000-01-09-2011-PUB-01@@@
-
 DECRETO Nº 7.559, DE 1o- DE SETEMBRO DE 2011
 
 Dispõe sobre o Plano Nacional do Livro e Leitura - PNLL e dá outras providências.

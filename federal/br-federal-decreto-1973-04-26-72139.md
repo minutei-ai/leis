@@ -1,5 +1,3 @@
-###DEC-072139-0-000-26-04-1973@@@
-
 decreto nº 72.139, de 26 de abril de 1973.
 
 Autoriza o funcionamento da habilitação em Moral e Cívica do curso de Estudos Sociais do Instituto de Ciências São Marcos, mantido pela Sociedade Civil de Educação São Marcos, com sede na cidade de São Marcos, S.P.
@@ -17,8 +15,6 @@ Brasília, 26 de abril de 1973; 152º da Independência e 85º da República.
 emílio g. médici
 
 Jarbas G. Passarinho
-
-###DEC-072139-0-000-26-04-1973@@@
 
 decreto nº 72.139, de 26 de abril de 1973.
 

@@ -1,5 +1,3 @@
-###DEC-058566-0-000-02-06-1966@@@
-
 DECRETO Nº 58.566, DE 2 DE JUNHO DE 1966.
 
 Concede à sociedade L. Figueiredo Navegação S.A., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

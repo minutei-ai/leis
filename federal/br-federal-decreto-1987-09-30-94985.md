@@ -1,5 +1,3 @@
-###DEC-094985-0-000-30-09-1987@@@
-
 DECRETO Nº 94.985, DE 30 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências da Computação Cristo-Rei, em Ponta Grossa, Paraná.

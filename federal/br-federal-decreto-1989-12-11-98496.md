@@ -1,5 +1,3 @@
-###DEC-098496-0-000-11-12-1989@@@
-
 DECRETO N° 98.496, DE 11 DE DEZEMBRO DE 1989
 
 Altera dispositivo do Decreto n° 92.857, de 27 de junho de 1986.

@@ -1,5 +1,3 @@
-###DEL-008066-0-000-10-10-1945@@@
-
 DECRETO-LEI N. 8.066 – DE 10 DE OUTUBRO DE 1945
 
 Revoga o Decreto-lei nº 7.801, de 30 julho de 1945

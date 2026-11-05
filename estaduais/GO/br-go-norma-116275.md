@@ -42,11 +42,29 @@ a) Embaixadores:
 
 b) Encarregada de negócios das embaixadas:
 
-<table style="width: 70%;"><thead></thead><tbody><tr><td style="text-align:center">Nº</td><td>NOME</td></tr><tr><td style="text-align:center">1</td><td>RASHA ATHAMNI - ENCARREGADA DE NEGÓCIOS DE ISRAEL</td></tr></tbody></table>
+Nº
+
+NOME
+
+1
+
+RASHA ATHAMNI - ENCARREGADA DE NEGÓCIOS DE ISRAEL
 
 c) Demais autoridades:
 
-<table style="width: 70%;"><thead></thead><tbody><tr><td style="text-align:center">Nº</td><td>NOME</td></tr><tr><td style="text-align:center">1</td><td>RONALDO RAMOS CAIADO<br>Ex-Governador</td></tr><tr><td style="text-align:center">2</td><td>ELIZABETH MARIA DA SILVA<br>Desembargadora, Presidente do TRE</td></tr></tbody></table>
+Nº
+
+NOME
+
+1
+
+RONALDO RAMOS CAIADO
+Ex-Governador
+
+2
+
+ELIZABETH MARIA DA SILVA
+Desembargadora, Presidente do TRE
 
 II – GRAU: “GRANDE-OFICIAL”
 
@@ -75,7 +93,85 @@ c) Procuradora de Justiça:
 
 d) Promotores de Justiça do Ministério Público do Estado de Goiás – MPGO:
 
-<table style="width: 70%;"><thead></thead><tbody><tr><td style="text-align:center">Nº</td><td>NOME</td></tr><tr><td style="text-align:center">1</td><td>ANDRÉ LOBO ALCÂNTARA NEVES</td></tr><tr><td style="text-align:center">2</td><td>ÂNGELA ACOSTA GIOVANINI DE MOURA</td></tr><tr><td style="text-align:center">3</td><td>ARNALDO MACHADO DO PRADO</td></tr><tr><td style="text-align:center">4</td><td>CARLOS ALEXANDRE MARQUES</td></tr><tr><td style="text-align:center">5</td><td>CEJANA LOUZA FERREIRA BATISTA VELOSO</td></tr><tr><td style="text-align:center">6</td><td>EUDES LEONARDO BOMTEMPO</td></tr><tr><td style="text-align:center">7</td><td>FABIO SANTESSO BONNAS</td></tr><tr><td style="text-align:center">8</td><td>FABRÍCIO LAMAS BORGES DA SILVA</td></tr><tr><td style="text-align:center">9</td><td>FERNANDO GOMES ROSA</td></tr><tr><td style="text-align:center">10</td><td>FRANCISCO BORGES MILANEZ</td></tr><tr><td style="text-align:center">11</td><td>ISABELA MACHADO JUNQUEIRA VAZ</td></tr><tr><td style="text-align:center">12</td><td>MANUELA BOTELHO PORTUGAL</td></tr><tr><td style="text-align:center">13</td><td>MARIA BERNADETE RAMOS CRISPIM</td></tr><tr><td style="text-align:center">14</td><td>MEIRE CRISTINI ALBANESI</td></tr><tr><td style="text-align:center">15</td><td>PAULO CÉSAR TORRES</td></tr><tr><td style="text-align:center">16</td><td>SÁVIO FRAGA E GRECO</td></tr><tr><td style="text-align:center">17</td><td>SILVIA MARIA APOSTÓLICO ALVES REIS</td></tr><tr><td style="text-align:center">18</td><td>TARCILA SANTOS BRITTO GOMES</td></tr><tr><td style="text-align:center">19</td><td>TOMMASO LEONARDI</td></tr></tbody></table>
+Nº
+
+NOME
+
+1
+
+ANDRÉ LOBO ALCÂNTARA NEVES
+
+2
+
+ÂNGELA ACOSTA GIOVANINI DE MOURA
+
+3
+
+ARNALDO MACHADO DO PRADO
+
+4
+
+CARLOS ALEXANDRE MARQUES
+
+5
+
+CEJANA LOUZA FERREIRA BATISTA VELOSO
+
+6
+
+EUDES LEONARDO BOMTEMPO
+
+7
+
+FABIO SANTESSO BONNAS
+
+8
+
+FABRÍCIO LAMAS BORGES DA SILVA
+
+9
+
+FERNANDO GOMES ROSA
+
+10
+
+FRANCISCO BORGES MILANEZ
+
+11
+
+ISABELA MACHADO JUNQUEIRA VAZ
+
+12
+
+MANUELA BOTELHO PORTUGAL
+
+13
+
+MARIA BERNADETE RAMOS CRISPIM
+
+14
+
+MEIRE CRISTINI ALBANESI
+
+15
+
+PAULO CÉSAR TORRES
+
+16
+
+SÁVIO FRAGA E GRECO
+
+17
+
+SILVIA MARIA APOSTÓLICO ALVES REIS
+
+18
+
+TARCILA SANTOS BRITTO GOMES
+
+19
+
+TOMMASO LEONARDI
 
 e) Juízes de Direito:
 
@@ -119,28 +215,39 @@ h) Secretários de Estado:
 
 | **Nº** | **NOME** |
 | --- | --- |
-| 1 | ADEMAR PEREIRA LEAL FILHO<br>
+| 1 | ADEMAR PEREIRA LEAL FILHO
+
 Agricultura, Pecuária e Abastecimento |
-| 2 | BRUNO MORAES FARIA MONTEIRO BELEM<br>
+| 2 | BRUNO MORAES FARIA MONTEIRO BELEM
+
 Casa Civil |
-| 3 | CORONEL MARCO AURÉLIO GODINHO<br>
+| 3 | CORONEL MARCO AURÉLIO GODINHO
+
 Casa Militar |
-| 4 | BRUNO CARVALHO DA ROCHA LIMA<br>
+| 4 | BRUNO CARVALHO DA ROCHA LIMA
+
 Comunicação |
-| 5 | RENATA LACERDA NOLETO<br>
+| 5 | RENATA LACERDA NOLETO
+
 Economia |
-| 6 | HELENA DA COSTA BEZERRA<br>
+| 6 | HELENA DA COSTA BEZERRA
+
 Educação |
-| 7 | RAFAEL HENRIQUE DA SILVA LUSTOSA<br>
+| 7 | RAFAEL HENRIQUE DA SILVA LUSTOSA
+
 Entorno do DF |
-| 8 | WELLINGTON PEIXOTO MOURA<br>
+| 8 | WELLINGTON PEIXOTO MOURA
+
 Esporte e Lazer |
-| 9 | RICARDO DE OLIVEIRA SILVA<br>
+| 9 | RICARDO DE OLIVEIRA SILVA
+
 Infraestrutura |
 
 i) Secretária-Executiva de Políticas Sociais:
 
-<table style="width: 70%;"><thead></thead><tbody><tr><td style="text-align:center">1</td><td>PAULA STELLA ROSA COELHO</td></tr></tbody></table>
+1
+
+PAULA STELLA ROSA COELHO
 
 j) Presidentes:
 
@@ -153,11 +260,14 @@ k) Demais autoridades:
 
 | **Nº** | **NOME** |
 | --- | --- |
-| 1 | VILMAR PERIN ZANCHIN<br>
+| 1 | VILMAR PERIN ZANCHIN
+
 Presidente da União Nacional dos Legisladores e Legislativos Estaduais, Deputado Estadual do RS |
-| 2 | GIVAGO ARAUJO VALADARES<br>
+| 2 | GIVAGO ARAUJO VALADARES
+
 Deputado Estadual |
-| 3 | CASIMIRO DE ARAÚJO NETO<br>
+| 3 | CASIMIRO DE ARAÚJO NETO
+
 Delegado Adjunto da Receita Federal em Goiás |
 
 III – GRAU “COMENDADOR”
@@ -275,8 +385,10 @@ c) Demais autoridades:
 | 57 | MAURA CAMPOS DOMICIANA - ADVOGADA DA AGU GOIÁS |
 | 58 | MILENE COUTINHO - SERVIDORA PÚBLICO DO MINISTÉRIO PÚBLICO |
 | 59 | MIZAIR JEFFERSON DA SILVA - EX-VEREADOR DE GOIÂNIA |
-| 60 | MURILLO MARQUES DE SOUZA - ASSESSOR DE GABINETE DA PREFEITURA DE GOIÂNIA<br>
-\- [Redação dada pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625).<br>
+| 60 | MURILLO MARQUES DE SOUZA - ASSESSOR DE GABINETE DA PREFEITURA DE GOIÂNIA
+
+\- [Redação dada pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625).
+
 ~~MURILO MARQUES DE SOUZA - ASSESSOR DE GABINETE DA PREFEITURA DE GOIÂNIA~~ |
 | 61 | NARA CRISTINA MORAIS SIQUEIRA - VEREADORA POR VILA PROPÍCIO |
 | 62 | OLIVAR VIEIRA DE SOUZA JÚNIOR - ASSESSOR DA GOVERNADORIA |
@@ -367,8 +479,10 @@ d) Policiais Militares:
 | 59 | 1º SARGENTO PM | DIEGO PEIXOTO NOEL |
 | 60 | 1º SARGENTO PM | EDGAR PEREIRA DOS SANTOS |
 | 61 | 1º SARGENTO PM | EDSON PEREIRA |
-| 62 | 1º SARGENTO PM | EMERSON DANTAS DE ARAUJO<br>
-\- [Redação dada pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625).<br>
+| 62 | 1º SARGENTO PM | EMERSON DANTAS DE ARAUJO
+
+\- [Redação dada pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625).
+
 ~~EMERSON DANTAS DE ARAUO~~ |
 | 63 | 1º SARGENTO PM | FERNANDO ANGELI DE OLIVEIRA |
 | 64 | 1º SARGENTO PM | FLORISMAR BATISTA SANTOS |
@@ -507,7 +621,8 @@ d) Policiais Militares:
 | 197 | CABO PM | GABRIEL MACHADO PELLIZZER |
 | 198 | CABO PM | GISELLE SILVA BARBOSA |
 | 199 | CABO PM | GUSTAVO KUBITSCHEK BORGES |
-| ~~200~~ | ~~CABO PM~~ | ~~HEWERTTON DENNYS GEBRIM RODRIGUES~~<br>
+| ~~200~~ | ~~CABO PM~~ | ~~HEWERTTON DENNYS GEBRIM RODRIGUES~~
+
 \- [Revogado pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625), art. 2º. |
 | 201 | CABO PM | ISLAN DA CRUZ FERREIRA |
 | 202 | CABO PM | JOÃO VICTOR FERREIRA DA SILVA |
@@ -532,22 +647,29 @@ d) Policiais Militares:
 | 221 | CABO PM | WAGNER FERNANDES GOMES MOURÃO |
 | 222 | SOLDADO PM | BRUNO SANTOS DE SOUSA |
 | 223 | SOLDADO PM | DALTON DREIZER DUARTE DE SOUSA |
-| 224 | TENENTE PMDF<br>
-\- [Redação dada pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625).<br>
+| 224 | TENENTE PMDF
+
+\- [Redação dada pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625).
+
 ~~SOLDADO PM~~ | ERLAN BRAYANN ZAMBRANA SALAZAR |
 | 225 | SOLDADO PM | GABRIEL MOURA LOPES |
 | 226 | SOLDADO PM | JERRIAN BATISTA DA SILVA FILHO |
 | 227 | SOLDADO PM | RHUAN MOREIRA ALVES |
 | 228 | SOLDADO PM | VINICIUS FERNANDO DE OLIVEIRA SOUZA |
-| 229 | 1º SARGENTO PM | PAULO ROBERTO SOARES SOBRINHO<br>
+| 229 | 1º SARGENTO PM | PAULO ROBERTO SOARES SOBRINHO
+
 \- [Acrescido pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625). |
-| 230 | 2º SARGENTO PM | SAULO INACIO DE LIMA<br>
+| 230 | 2º SARGENTO PM | SAULO INACIO DE LIMA
+
 \- [Acrescido pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625). |
-| 231 | CABO PM | CLEYTON FLORES DA SILVA<br>
+| 231 | CABO PM | CLEYTON FLORES DA SILVA
+
 \- [Acrescido pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625). |
-| 232 | CABO PM | FLAVIANE BARBOSA DE OLIVEIRA E SOUZA<br>
+| 232 | CABO PM | FLAVIANE BARBOSA DE OLIVEIRA E SOUZA
+
 \- [Acrescido pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625). |
-| 233 | SOLDADO PM | NICKERSON ROBERT NOGUEIRA JÚNIOR<br>
+| 233 | SOLDADO PM | NICKERSON ROBERT NOGUEIRA JÚNIOR
+
 \- [Acrescido pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625). |
 
 e) Bombeiros Militares:
@@ -587,7 +709,8 @@ e) Bombeiros Militares:
 | 31 | CABO BM | JHENIPHER BORGES BATISTA |
 | 32 | CABO BM | PAULO TAVARES FERNANDES |
 | 33 | SOLDADO BM | ELIFFER KARITA DE LIMA BATISTA |
-| 34 | CABO BM | HEWERTTON DENNYS GEBRIM RODRIGUES<br>
+| 34 | CABO BM | HEWERTTON DENNYS GEBRIM RODRIGUES
+
 \- [Acrescido pelo Decreto nº 10.972, de 11-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116625). |
 
 f) Polícia Civil:

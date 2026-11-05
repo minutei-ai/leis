@@ -1,5 +1,3 @@
-###MPV-000567-0-000-03-05-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°567, DE 3 DE MAIO DE 2012
 
 Altera o art. 12 da Lei n° 8.177, de 1° de março de 1991, que estabelece regras para a desindexação da economia, e dá outras providências.

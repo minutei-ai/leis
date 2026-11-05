@@ -1,5 +1,3 @@
-###DEC-093926-0-000-14-01-1987@@@
-
 DECRETO Nº 93.926, DE 14 DE JANEIRO DE 1987
 
 Autoriza o funcionamento do curso de História da Faculdade Integrada do Noroeste de Minas.

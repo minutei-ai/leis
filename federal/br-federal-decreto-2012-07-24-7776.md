@@ -1,5 +1,3 @@
-###DEC-007776-0-000-24-07-2012-PUB-01@@@
-
 DECRETO Nº 7.776, DE 24 DE JULHO DE 2012
 
 Altera o Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963, e o Regulamento do Serviço de Retransmissão de Televisão e do Serviço de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens, aprovado pelo Decreto 5.371, de 17 de fevereiro de 2005.

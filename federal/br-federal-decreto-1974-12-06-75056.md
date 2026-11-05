@@ -1,5 +1,3 @@
-###DEC-075056-0-000-06-12-1974@@@
-
 DECRETO Nº 75.056, DE 6 DE DEZEMBRO DE 1974.
 
 Concede à Cimento Aratu S.A. o direito de lavrar argila no Município de Simões Filho, Estado da Bahia.

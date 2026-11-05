@@ -1,5 +1,3 @@
-###DEC-084029-0-000-26-09-1979@@@
-
 Decreto nº 84.029, de 26 de setembro de 1979.
 
 Altera dispositivo do Regulamento do Custeio da Previdência Social, aprovado pelo Decreto nº 83081, de 24 de janeiro de 1979.

@@ -1,5 +1,3 @@
-###DEL-009690-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.690 – DE 2 DE SETEMBRO DE 1946
 
 Reorganiza o Departamento Nacional de Seguros Privados e Capitalização, do Ministério do Trabalho, Indústria e Comércio e dá outras providências.

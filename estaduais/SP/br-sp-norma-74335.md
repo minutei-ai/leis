@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/74335)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12732-11.10.2007.html)
 
 # LEI N° 12.732, DE 11 DE OUTUBRO DE 2007

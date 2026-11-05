@@ -1,7 +1,3 @@
-1
-
-###DEC-000320-0-000-01-11-1991@@@
-
 DECRETO Nº 320, DE 1º DE NOVEMBRO DE 1991
 
 Estabelece limites, a partir de 1º de janeiro de 1992, para a realização de despesas dos órgãos e entidades do Poder Executivo integrantes dos Orçamentos Fiscal e da Seguridade Social, e dá outras providências.

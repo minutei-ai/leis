@@ -1,5 +1,3 @@
-###DEC-007720-0-000-16-04-2012-PUB-01@@@
-
 DECRETO Nº 7.720, DE 16 DE ABRIL DE 2012
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória.

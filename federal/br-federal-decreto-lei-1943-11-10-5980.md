@@ -1,5 +1,3 @@
-###DEL-005980-0-000-10-11-1943@@@
-
 DECRETO‑LEI N. 5.980 – DE 10 DE NOVEMBRO DE 1943
 
 Extingue o imposto Sôbre carnes, a que se refere o art. 41 do decreto le­gislativo n. 121, de 14 de novembro de 1936, do Distrito Federal

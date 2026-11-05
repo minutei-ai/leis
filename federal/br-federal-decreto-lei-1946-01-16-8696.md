@@ -1,5 +1,3 @@
-###DEL-008696-0-000-16-01-1946@@@
-
 DECRETO-LEI 8.696 – DE 16 DE JANEIRO DE 1946
 
 Altera carreiras no Quadro Permanente do Ministério do trabalho, Indústria e Comércio e dá outras providências.

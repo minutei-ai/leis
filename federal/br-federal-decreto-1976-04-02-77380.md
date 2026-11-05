@@ -1,5 +1,3 @@
-###DEC-077380-0-000-02-04-1976@@@
-
 DECRETO Nº 77.380 - DE 2 DE ABRIL DE 1976
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

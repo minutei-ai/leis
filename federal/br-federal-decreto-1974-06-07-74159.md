@@ -1,5 +1,3 @@
-###DEC-074159-0-000-07-06-1974@@@
-
 DECRETO Nº 74.159, DE 7 DE JUNHO DE 1974.
 
 Dispõe sobre a Embaixada do Brasil na República da Indonésia.

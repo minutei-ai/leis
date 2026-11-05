@@ -1,5 +1,3 @@
-###LEI-000000-0-002-04-12-1830@@@
-
 LEI - DE 4 DE DEZEMBRO DE 1830
 
 Extingue a Chancellaria-mór do Imperio e a Superentendencia dos novos direitos.

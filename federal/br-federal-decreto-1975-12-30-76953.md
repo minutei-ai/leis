@@ -1,5 +1,3 @@
-###DEC-076953-0-000-30-12-1975@@@
-
 decreto nº 76.953, de 30 de dezembro de 1975.
 
 Estabelece as proporções a serem observadas na fixação do número mínimo de vagas para promoção no Exército, nos Quadros de Oficiais das Armas, Serviços, de Material Bélico, de Administração e Especialistas, no ano de 1975.

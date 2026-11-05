@@ -1,5 +1,3 @@
-###DEC-050215-0-000-28-01-1961@@@
-
 DECRETO Nº 50.215, DE 28 DE JANEIRO DE 1961.
 
 Promulga a Convenção relativa ao Estatuto dos Refugiados, concluída em Genebra, em 28 de julho de 1951.

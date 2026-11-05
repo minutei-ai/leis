@@ -1,5 +1,3 @@
-###DEC-055432-0-000-31-12-1964@@@
-
 DECRETO Nº 55.432, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia Siderúrgica Nacional a lavrar minério de ferro, no município de Ouro Preto, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-006687-0-000-13-07-1944@@@
-
 DECRETO-LEI N. 6.687 – DE 13 DE JULHO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 3.200,00, à verba que especifica

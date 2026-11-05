@@ -1,5 +1,3 @@
-###DEC-055854-0-000-22-03-1965@@@
-
 DECRETO Nº 55.854, DE 22 DE MARÇO DE 1965.
 
 Altera o Regulamento da Diretoria do Pessoal da Aeronáutica.

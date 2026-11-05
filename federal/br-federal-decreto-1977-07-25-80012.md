@@ -1,5 +1,3 @@
-###DEC-080012-0-000-25-07-1977@@@
-
 DECRETO Nº 80.012, DE 25 DE JULHO DE 1977.
 
 Adota medidas para a execução da Lei n° 6.430, de 7 de julho de 1977, que extingue o SASSE, dispõe sobre a transferência dos enconomiários para o regime da Lei n° 3.807, de 26 de agosto de 1960, e dá outras providências.

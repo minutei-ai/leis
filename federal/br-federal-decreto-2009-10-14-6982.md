@@ -1,5 +1,3 @@
-###DEC-006982-0-000-14-10-2009@@@
-
 DECRETO Nº 6.982, DE 14 DE OUTUBRO DE 2009.
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória.
@@ -28,4 +26,470 @@ Brasília, 14 de outubro de 2009; 188o da Independência e 121o da República.
 
 A N E X O
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FUNCIONAL PROGRAMÁTICA</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NOME</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00607</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Salvador/BA - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00608</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Paulista/PE - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00610</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - São Leopoldo/RS - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00615</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Boa Vista/RR - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00621</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Matinhos/PR - Contenção de Erosão Marítima</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00625</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Paraíso do Tocantins/TO - Sistema de Drenagem Pluvial</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00626</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Miracema do Tocantins/TO - Sistema de Drenagem Pluvial</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00627</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Formoso do Araguaia/TO - Sistema de Drenagem Pluvial</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0033</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00609</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Baixada Campista/RJ - Recuperação Sistema de Drenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00611</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Itajaí/SC - Dragagem Rio Itajaí</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00611</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Itajaí/SC - Dragagem Rio Itajaí</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00612</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Rio do Oeste/SC - Dragagem Rio das Pombas</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00612</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Rio do Oeste/SC - Dragagem Rio das Pombas</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00613</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Ribeirão da Velha</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00613</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Ribeirão da Velha</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00614</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Ribeirão Garcia</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00614</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Ribeirão Garcia</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00616</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Bacia do Ribeirão Itoupava</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00616</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Bacia do Ribeirão Itoupava</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00617</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Ilhota/SC - Sistema de Drenagem Pluvial</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00617</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Ilhota/SC - Sistema de Drenagem Pluvial</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00618</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Joinville/SC - Dragagem Rio Cubatão</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00618</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Joinville/SC - Dragagem Rio Cubatão</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00619</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Luis Alves/SC - Sistema de Drenagem Pluvial</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00619</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Luis Alves/SC - Sistema de Drenagem Pluvial</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00620</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Navegantes/SC - Dragagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00620</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Navegantes/SC - Dragagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00622</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Pomerode/SC - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00622</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Pomerode/SC - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00623</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Timbó/SC - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00623</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Timbó/SC - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0042</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00624</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Joinville/SC - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1138.10SG.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00624</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Drenagem - Joinville/SC - Macrodrenagem</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.607.0379.7M16.0043</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00601</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Perímetro de Irrigação Arroio Duro em Costa Doce</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.784.1459.7L86.0022</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SEP.00031</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Porto de Luís Correia - Obras de Infraestrutura</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.784.1461.122O.0041</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SEP.00019</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Porto de Paranaguá - Dragagem de Aprofundamento do Canal de Acesso</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.784.1459.122H.0026</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">SEP.00010</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Porto de Suape - Dragagem de Aprofundamento do Canal de Acesso</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.784.1456.123M.0015</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00821</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Hidrovia do Tocantins</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01218</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/GO - Assentamentos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01220</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/MA - Assentamentos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01222</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/PR - Assentamentos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01224</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/RN - Assentamentos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01227</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/SC - Assentamentos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01228</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/SE - Assentamentos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01231</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/AL - Quilombos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01234</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/CE - Quilombos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01237</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/MG - Quilombos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01239</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/PB - Quilombos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01245</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/RS - Quilombos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01247</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/SC - Quilombos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01249</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/SE - Quilombos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01337</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Esgotamento Sanitário/SE - Quilombos</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01252</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/AC - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01253</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/AC - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01254</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/AL - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01255</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/AL - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01258</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/BA - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01263</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/MG - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01264</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/MG - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01265</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/MS - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01266</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/MT - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01267</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/PA - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01268</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/PA - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01269</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/PB - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01270</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/PB - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01271</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/RJ - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01272</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/RJ - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01273</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/RN - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01274</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/RN - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01277</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/RS - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01309</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/RS - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01278</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/SC - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01310</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/SC - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01279</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/SE - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01280</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água/SP - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.511.1287.7656.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01312</span></p></td><td style="width:128.52pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Melhorias Sanitárias Domiciliares/SP - Comunidades Rurais</span></p></td></tr><tr><td style="width:111.95pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.512.0122.20AF.0001</span></p></td><td style="width:53.02pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MS.01325</span></p></td><td style="width:128.52pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Sistema de Monitoramento da Água - construção de laboratório e aquisição de equipamentos/PA</span></p></td></tr></tbody></table>
+FUNCIONAL PROGRAMÁTICA
+
+CÓDIGO
+
+NOME
+
+17.512.1138.10SG.0001
+
+MI.00607
+
+Drenagem - Salvador/BA - Macrodrenagem
+
+17.512.1138.10SG.0001
+
+MI.00608
+
+Drenagem - Paulista/PE - Macrodrenagem
+
+17.512.1138.10SG.0001
+
+MI.00610
+
+Drenagem - São Leopoldo/RS - Macrodrenagem
+
+17.512.1138.10SG.0001
+
+MI.00615
+
+Drenagem - Boa Vista/RR - Macrodrenagem
+
+17.512.1138.10SG.0001
+
+MI.00621
+
+Drenagem - Matinhos/PR - Contenção de Erosão Marítima
+
+17.512.1138.10SG.0001
+
+MI.00625
+
+Drenagem - Paraíso do Tocantins/TO - Sistema de Drenagem Pluvial
+
+17.512.1138.10SG.0001
+
+MI.00626
+
+Drenagem - Miracema do Tocantins/TO - Sistema de Drenagem Pluvial
+
+17.512.1138.10SG.0001
+
+MI.00627
+
+Drenagem - Formoso do Araguaia/TO - Sistema de Drenagem Pluvial
+
+17.512.1138.10SG.0033
+
+MI.00609
+
+Drenagem - Baixada Campista/RJ - Recuperação Sistema de Drenagem
+
+17.512.1138.10SG.0042
+
+MI.00611
+
+Drenagem - Itajaí/SC - Dragagem Rio Itajaí
+
+17.512.1138.10SG.0001
+
+MI.00611
+
+Drenagem - Itajaí/SC - Dragagem Rio Itajaí
+
+17.512.1138.10SG.0042
+
+MI.00612
+
+Drenagem - Rio do Oeste/SC - Dragagem Rio das Pombas
+
+17.512.1138.10SG.0001
+
+MI.00612
+
+Drenagem - Rio do Oeste/SC - Dragagem Rio das Pombas
+
+17.512.1138.10SG.0042
+
+MI.00613
+
+Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Ribeirão da Velha
+
+17.512.1138.10SG.0001
+
+MI.00613
+
+Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Ribeirão da Velha
+
+17.512.1138.10SG.0042
+
+MI.00614
+
+Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Ribeirão Garcia
+
+17.512.1138.10SG.0001
+
+MI.00614
+
+Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Ribeirão Garcia
+
+17.512.1138.10SG.0042
+
+MI.00616
+
+Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Bacia do Ribeirão Itoupava
+
+17.512.1138.10SG.0001
+
+MI.00616
+
+Drenagem - Blumenau/SC - Recuperação Sistema de Drenagem Bacia do Ribeirão Itoupava
+
+17.512.1138.10SG.0042
+
+MI.00617
+
+Drenagem - Ilhota/SC - Sistema de Drenagem Pluvial
+
+17.512.1138.10SG.0001
+
+MI.00617
+
+Drenagem - Ilhota/SC - Sistema de Drenagem Pluvial
+
+17.512.1138.10SG.0042
+
+MI.00618
+
+Drenagem - Joinville/SC - Dragagem Rio Cubatão
+
+17.512.1138.10SG.0001
+
+MI.00618
+
+Drenagem - Joinville/SC - Dragagem Rio Cubatão
+
+17.512.1138.10SG.0042
+
+MI.00619
+
+Drenagem - Luis Alves/SC - Sistema de Drenagem Pluvial
+
+17.512.1138.10SG.0001
+
+MI.00619
+
+Drenagem - Luis Alves/SC - Sistema de Drenagem Pluvial
+
+17.512.1138.10SG.0042
+
+MI.00620
+
+Drenagem - Navegantes/SC - Dragagem
+
+17.512.1138.10SG.0001
+
+MI.00620
+
+Drenagem - Navegantes/SC - Dragagem
+
+17.512.1138.10SG.0042
+
+MI.00622
+
+Drenagem - Pomerode/SC - Macrodrenagem
+
+17.512.1138.10SG.0001
+
+MI.00622
+
+Drenagem - Pomerode/SC - Macrodrenagem
+
+17.512.1138.10SG.0042
+
+MI.00623
+
+Drenagem - Timbó/SC - Macrodrenagem
+
+17.512.1138.10SG.0001
+
+MI.00623
+
+Drenagem - Timbó/SC - Macrodrenagem
+
+17.512.1138.10SG.0042
+
+MI.00624
+
+Drenagem - Joinville/SC - Macrodrenagem
+
+17.512.1138.10SG.0001
+
+MI.00624
+
+Drenagem - Joinville/SC - Macrodrenagem
+
+20.607.0379.7M16.0043
+
+MI.00601
+
+Perímetro de Irrigação Arroio Duro em Costa Doce
+
+26.784.1459.7L86.0022
+
+SEP.00031
+
+Porto de Luís Correia - Obras de Infraestrutura
+
+26.784.1461.122O.0041
+
+SEP.00019
+
+Porto de Paranaguá - Dragagem de Aprofundamento do Canal de Acesso
+
+26.784.1459.122H.0026
+
+SEP.00010
+
+Porto de Suape - Dragagem de Aprofundamento do Canal de Acesso
+
+26.784.1456.123M.0015
+
+MT.00821
+
+Hidrovia do Tocantins
+
+10.511.1287.7656.0001
+
+MS.01218
+
+Abastecimento de Água/GO - Assentamentos
+
+10.511.1287.7656.0001
+
+MS.01220
+
+Abastecimento de Água/MA - Assentamentos
+
+10.511.1287.7656.0001
+
+MS.01222
+
+Abastecimento de Água/PR - Assentamentos
+
+10.511.1287.7656.0001
+
+MS.01224
+
+Abastecimento de Água/RN - Assentamentos
+
+10.511.1287.7656.0001
+
+MS.01227
+
+Abastecimento de Água/SC - Assentamentos
+
+10.511.1287.7656.0001
+
+MS.01228
+
+Melhorias Sanitárias Domiciliares/SE - Assentamentos
+
+10.511.1287.7656.0001
+
+MS.01231
+
+Abastecimento de Água/AL - Quilombos
+
+10.511.1287.7656.0001
+
+MS.01234
+
+Melhorias Sanitárias Domiciliares/CE - Quilombos
+
+10.511.1287.7656.0001
+
+MS.01237
+
+Abastecimento de Água/MG - Quilombos
+
+10.511.1287.7656.0001
+
+MS.01239
+
+Melhorias Sanitárias Domiciliares/PB - Quilombos
+
+10.511.1287.7656.0001
+
+MS.01245
+
+Abastecimento de Água/RS - Quilombos
+
+10.511.1287.7656.0001
+
+MS.01247
+
+Abastecimento de Água/SC - Quilombos
+
+10.511.1287.7656.0001
+
+MS.01249
+
+Abastecimento de Água/SE - Quilombos
+
+10.511.1287.7656.0001
+
+MS.01337
+
+Esgotamento Sanitário/SE - Quilombos
+
+10.511.1287.7656.0001
+
+MS.01252
+
+Abastecimento de Água/AC - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01253
+
+Melhorias Sanitárias Domiciliares/AC - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01254
+
+Abastecimento de Água/AL - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01255
+
+Melhorias Sanitárias Domiciliares/AL - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01258
+
+Melhorias Sanitárias Domiciliares/BA - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01263
+
+Abastecimento de Água/MG - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01264
+
+Melhorias Sanitárias Domiciliares/MG - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01265
+
+Melhorias Sanitárias Domiciliares/MS - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01266
+
+Melhorias Sanitárias Domiciliares/MT - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01267
+
+Abastecimento de Água/PA - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01268
+
+Melhorias Sanitárias Domiciliares/PA - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01269
+
+Abastecimento de Água/PB - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01270
+
+Melhorias Sanitárias Domiciliares/PB - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01271
+
+Abastecimento de Água/RJ - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01272
+
+Melhorias Sanitárias Domiciliares/RJ - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01273
+
+Abastecimento de Água/RN - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01274
+
+Melhorias Sanitárias Domiciliares/RN - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01277
+
+Abastecimento de Água/RS - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01309
+
+Melhorias Sanitárias Domiciliares/RS - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01278
+
+Abastecimento de Água/SC - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01310
+
+Melhorias Sanitárias Domiciliares/SC - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01279
+
+Abastecimento de Água/SE - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01280
+
+Abastecimento de Água/SP - Comunidades Rurais
+
+10.511.1287.7656.0001
+
+MS.01312
+
+Melhorias Sanitárias Domiciliares/SP - Comunidades Rurais
+
+10.512.0122.20AF.0001
+
+MS.01325
+
+Sistema de Monitoramento da Água - construção de laboratório e aquisição de equipamentos/PA

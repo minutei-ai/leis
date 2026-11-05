@@ -1,8 +1,6 @@
-###DEC-029806-0-000-25-07-1951@@@
+**DECRETO N.**  **29.806 – DE**  **25 DE JULHO DE 1951**
 
-<strong>DECRETO N.</strong>  <strong>29.806 – DE</strong>  <strong>25 DE JULHO DE 1951</strong>
-
-<em><strong>Cria a Comissão de Desenvolvimento Industrial.</strong></em>
+***Cria a Comissão de Desenvolvimento Industrial.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e    
 
@@ -18,11 +16,11 @@ Considerando que os recurso naturais do país devem ser tanto quanto possível i
 
 Considerando a necessidade de coordenar a industrialização com desenvolvimento das outras atividades econômicas,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Fica criada a Comissão de Desenvolvimento Industrial, com a finalidade de estudar e propor providências de ordem econômica, financeira e administrativa indispensáveis ao estabelecimento de novas indústrias no país ou à ampliação das já existentes.
+**Art.** 1º Fica criada a Comissão de Desenvolvimento Industrial, com a finalidade de estudar e propor providências de ordem econômica, financeira e administrativa indispensáveis ao estabelecimento de novas indústrias no país ou à ampliação das já existentes.
 
-<strong>Art.</strong> 2º À Comissão incumbe:
+**Art.** 2º À Comissão incumbe:
 
 I – Propor ao Presidente da República normas gerais de ordem economico-financeira destinadas:
 
@@ -42,21 +40,21 @@ a) segundo a conjuntura cambial e econômica, as normas seguidas para a execuç�
 
 b) as entidades creditícias de que o Govêrno participa sigam uma política uniforme de crédito seletivo, financiando a indústria sob as prioridades aprovadas pelo Presidente da República.
 
-<strong>Art.</strong> 3º A Comissão será constituída do Ministro da Fazenda, que será seu Presidente, do Presidente do Banco do Brasil S.A., que será seu vice-Presidente, de representantes dos Ministérios do Trabalho, Indústria e Comércio, da Agricultura, da Viação e Obras Públicas, das Relações Exteriores e da Aeronáutica, das Carteiras de Exportação e Importação e de Crédito Agrícola e Industrial do Banco do Brasil S.A., do Conselho Técnico de Economia e Finanças e da Comissão de Financiamento da Produção do Ministério da Fazenda, do Presidente da Seção Brasileira da Comissão Mista Brasil-Estados Unidos e de dois representantes da Confederação Nacional da Indústria, por esta indicados.
+**Art.** 3º A Comissão será constituída do Ministro da Fazenda, que será seu Presidente, do Presidente do Banco do Brasil S.A., que será seu vice-Presidente, de representantes dos Ministérios do Trabalho, Indústria e Comércio, da Agricultura, da Viação e Obras Públicas, das Relações Exteriores e da Aeronáutica, das Carteiras de Exportação e Importação e de Crédito Agrícola e Industrial do Banco do Brasil S.A., do Conselho Técnico de Economia e Finanças e da Comissão de Financiamento da Produção do Ministério da Fazenda, do Presidente da Seção Brasileira da Comissão Mista Brasil-Estados Unidos e de dois representantes da Confederação Nacional da Indústria, por esta indicados.
 
-<strong>Art.</strong> 4º Não havendo pronunciamento sôbre os assuntos objeto de sua apreciação, a Comissão ouvirá, sempre que possível e no que lhes disser respeito, os diversos órgãos ou entidades federais, estaduais, municipais ou aqueles nos quais o Govêrno tenha participação.
+**Art.** 4º Não havendo pronunciamento sôbre os assuntos objeto de sua apreciação, a Comissão ouvirá, sempre que possível e no que lhes disser respeito, os diversos órgãos ou entidades federais, estaduais, municipais ou aqueles nos quais o Govêrno tenha participação.
 
-<strong>Art.</strong> 5º A Comissão entender-se-á, outrossim, com os órgãos ou entidades próprios, no sentido de articular medidas e de facilitar a adoção das normas já existentes na legislação ou aprovadas pelo Presidente.
+**Art.** 5º A Comissão entender-se-á, outrossim, com os órgãos ou entidades próprios, no sentido de articular medidas e de facilitar a adoção das normas já existentes na legislação ou aprovadas pelo Presidente.
 
-<strong>Art.</strong> 6º Os interessados na instalação de novas indústrias ou na ampliação das já existentes poderão recorrer à Comissão, visando a submeter-lhes planos de modificação das normas relativas a determinado setor de atividade industrial.
+**Art.** 6º Os interessados na instalação de novas indústrias ou na ampliação das já existentes poderão recorrer à Comissão, visando a submeter-lhes planos de modificação das normas relativas a determinado setor de atividade industrial.
 
-<strong>Art.</strong> 7º A Comissão organizará sua secretaria técnica utilizando os serviços de órgãos já existentes e de especialistas postos à sua disposição por órgãos públicos e privados.
+**Art.** 7º A Comissão organizará sua secretaria técnica utilizando os serviços de órgãos já existentes e de especialistas postos à sua disposição por órgãos públicos e privados.
 
-<strong>Art.</strong> 8º Este decreto entrará, em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 8º Este decreto entrará, em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 25 de julho de 1951; 130º da Independência e 63º da RepúbIica.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Francisco Negrão de Lima.
 

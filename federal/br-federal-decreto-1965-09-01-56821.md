@@ -1,5 +1,3 @@
-###DEC-056821-0-000-01-09-1965@@@
-
 DECRETO Nº 56.821, DE 1º DE SETEMBRO DE 1965.
 
 Dispõe sôbre pagamento de gratificação pela Representação de Gabinete na Comissão de Financiamento da Produção.

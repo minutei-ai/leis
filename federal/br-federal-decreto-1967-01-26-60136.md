@@ -1,5 +1,3 @@
-###DEC-060136-0-000-26-01-1967@@@
-
 decreto nº 60.136, de 26 de janeiro de 1967.
 
 Declara caduco o Decreto nº 30.215, de 28 de novembro de 1951.

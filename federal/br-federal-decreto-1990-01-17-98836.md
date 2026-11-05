@@ -1,7 +1,3 @@
-1
-
-###DEC-098836-0-000-17-01-1990@@@
-
 DECRETO Nº 98.836, DE 17 DE JANEIRO DE 1990
 
 Dispõe sobre a execução da Regulamentação das Disposições Referentes à Certificação da Origem, do Acordo 91, entre o Brasil e a Associação Latino‑Americana de Integração - ALADI.

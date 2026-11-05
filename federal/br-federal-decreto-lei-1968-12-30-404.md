@@ -1,5 +1,3 @@
-###DEL-000404-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 404, DE 30 DE DEZEMBRO DE 1968
 
 Autoriza o Poder Executivo a abrir ao Poder Judiciário, em favor da Justiça Federal de Primeira lnstância, o crédito especial de NCr$227.521,20.

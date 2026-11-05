@@ -1,5 +1,3 @@
-###DEC-070478-0-000-04-05-1972@@@
-
 DECRETO Nº 70.478, DE 4 DE MAIO DE 1972.
 
 Concede autorização às companhias holandesas Adriaan Volker Internacional N.V., Van Hattum en Blankevoort N.V. e Hollandesche Aaneming Maatschappij N.V. para operarem em águas brasileiras com embarcações estrangeiras, nos serviços que especifica.

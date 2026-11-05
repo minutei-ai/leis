@@ -1,5 +1,3 @@
-###DEC-005840-0-000-13-07-2006@@@
-
 DECRETO Nº 5.840, DE 13 DE JULHO DE 2006.
 
 Institui, no âmbito federal, o Programa Nacional de Integração da Educação Profissional com a Educação Básica na Modalidade de Educação de Jovens e Adultos - PROEJA, e dá outras providências.
@@ -77,5 +75,3 @@ Brasília, 13 de  julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Fernando Haddad
-
-Este texto não substitui o publicado no D.O.U. de 14.7.2006

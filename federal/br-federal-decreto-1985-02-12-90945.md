@@ -1,5 +1,3 @@
-###DEC-090945-0-000-12-02-1985@@@
-
 DECRETO nº 90.945, de 12 de fevereiro de 1985
 
 Outorga concessão à RADIO DIFUSORA DE SÃO MATEUS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Mateus, Estado do Espirito Santo.

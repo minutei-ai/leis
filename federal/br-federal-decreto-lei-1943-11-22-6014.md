@@ -1,5 +1,3 @@
-###DEL-006014-0-000-22-11-1943@@@
-
 DECRETO‑LEI N. 6.014 – DE 22 DE NOVEMBRO DE 1943
 
 Dá nova redação ao artigo único do decreto‑lei n. 4.192, de 19 de março de 1942

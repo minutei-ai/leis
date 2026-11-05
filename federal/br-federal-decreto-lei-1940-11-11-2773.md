@@ -1,5 +1,3 @@
-###DEL-002773-0-000-11-11-1940@@@
-
 DECRETO-LEI N. 2.773 – DE 11 DE NOVEMBRO DE 1940
 
 Determina as normas brasileiras para cálculo e execução das obras de concreto armado

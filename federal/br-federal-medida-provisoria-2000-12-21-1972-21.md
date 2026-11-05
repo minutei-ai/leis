@@ -1,5 +1,3 @@
-###MPV-001972-0-021-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.972-21, De 21 de dezembro DE 2000.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

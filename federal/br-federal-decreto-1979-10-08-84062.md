@@ -1,5 +1,3 @@
-###DEC-084062-0-000-08-10-1979@@@
-
 Decreto nº 84.062, de 08 de outubro de 1979.
 
 Altera a redação do Artigo 2º do Decreto número 84.028, de 25 de setembro de 1979.

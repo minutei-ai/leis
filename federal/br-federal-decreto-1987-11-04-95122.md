@@ -1,5 +1,3 @@
-###DEC-095122-0-000-04-11-1987@@@
-
 DECRETO Nº 95.122, DE 4 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Música Santa Cecília.

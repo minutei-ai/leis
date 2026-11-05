@@ -1,5 +1,3 @@
-###DEC-056289-0-000-17-03-1965@@@
-
 DECRETO Nº 56.289, DE 17 DE MARÇO DE 1965.
 
 Outorga concessão à Sociedade Radiodifusão Planalto Ltda., para instalar uma estação de radiodifusão sonora.

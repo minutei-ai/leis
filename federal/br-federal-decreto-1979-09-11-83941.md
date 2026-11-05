@@ -1,5 +1,3 @@
-###DEC-083941-0-000-11-09-1979@@@
-
 Decreto n 83.941, de 11 de setembro de 1979
 
 Declara luto oficial.

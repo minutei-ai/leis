@@ -1,7 +1,3 @@
-1
-
-###MPV-000955-0-000-24-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 955, DE 24 DE MARÇO DE 1995
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

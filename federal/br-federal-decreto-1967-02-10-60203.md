@@ -1,5 +1,3 @@
-###DEC-060203-0-000-10-02-1967@@@
-
 DECRETO Nº 60.203, de 10 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública a “Santa Casa de Misericórdia de São Sebastião do Paraíso”, com sede em São Sebastião do Paraíso, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-088260-0-000-27-04-1983@@@
-
 # Decreto nº 88.260, de 27 de abril de 1983
 
 Revoga o Decreto nº 33.284, de 14 de junho de 1953 que outorgou concessão para exploração do serviço de radiodifusão sonora em onda tropical, na cidade de Juiz de Fora, Estado de Minas Gerais, outorga esta transferida à SOCIEDADE MINEIRA DE RADIODIFUSÃO LTDA., através do Decreto nº 85.261, de 16 de outubro de 1980.

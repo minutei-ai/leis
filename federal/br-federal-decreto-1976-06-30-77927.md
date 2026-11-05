@@ -1,5 +1,3 @@
-###DEC-077927-0-000-30-06-1976@@@
-
 DECRETO Nº 77.927, DE 30 DE JUNHO DE 1976.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado de Pernambuco.

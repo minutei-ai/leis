@@ -1,5 +1,3 @@
-###DEC-076705-0-000-02-12-1975@@@
-
 DECRETO Nº 76.705, DE 2 DE DEZEMBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Anhanguera, Difusora e Televisora S.A., cuja de denominação foi, posteriormente alterada para Rádio Anhanguera, S.A., para executar serviço de radiodifusão sonora em onda de media de âmbito regional, na cidade de Goiânia, Estado de Goiás.

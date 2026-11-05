@@ -1,5 +1,3 @@
-###DEC-059489-0-000-09-11-1966@@@
-
 DECRETO Nº 59.489, de 9 de novembro de 1966.
 
 Autoriza o cidadão brasileiro Mário Ferreira Guimarães a pesquisar ouro e diamantes, nos municípios de Vargem Bonita e São Roque de Minas, Estado de Minas Gerais.

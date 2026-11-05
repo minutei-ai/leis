@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69283)
-
 # LEI Nº 12.408, DE 21 DE DEZEMBRO DE 2006
 
 ### _Autoriza a Fazenda do Estado a transmitir, por cessão gratuita, à Universidade Federal de São Paulo - UNIFESP, os direitos possessórios que detém sobre imóvel que especifica_

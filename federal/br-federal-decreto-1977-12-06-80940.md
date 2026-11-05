@@ -1,5 +1,3 @@
-###DEC-080940-0-000-06-12-1977@@@
-
 Decreto nº 80.940, de 06 de dezembro de 1977
 
 Concede a Itapessoca Agro-Industrial S.A., o direito de lavrar calcário no Município de Goiana, Estado de Pernambuco.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001236-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.236, DE 14 DE DEZEMBRO DE 1995.
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.

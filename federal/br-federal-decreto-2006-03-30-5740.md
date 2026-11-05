@@ -1,5 +1,3 @@
-###DEC-005740-0-000-30-03-2006@@@
-
 DECRETO Nº 5.740, DE 30 DE MARÇO DE 2006.
 
 Promulga o Acordo sobre Isenção Parcial de Vistos em Passaportes Comuns entre o Governo da República Federativa do Brasil e o Governo da República de Honduras, celebrado em Tegucigalpa, em 12 de agosto de 2004.

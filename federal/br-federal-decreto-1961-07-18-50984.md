@@ -1,5 +1,3 @@
-###DEC-050984-0-000-18-07-1961@@@
-
 DECRETO Nº 50.984, de 18 DE julho DE 1961.
 
 Declara públicas de uso comum do domínio da União, as águas do curso denominado Prado, Prado ou Jucuruçu e Jucuruçu do Norte Jucuruçu, respectivamente nos seus trechos superior médio e inferior.

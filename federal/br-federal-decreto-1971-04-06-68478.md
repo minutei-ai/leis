@@ -1,5 +1,3 @@
-###DEC-068478-0-000-06-04-1971@@@
-
 DECRETO Nº 68.478 - DE 6 DE ABRIL DE 1971.
 
 Revoga o Decreto nº 28.195, de 7 de junho de 1950, e outorga concessão às Centrais Elétricas de Goiás S. A. para o aproveitamento hidroelétrico de Ribeirão Grande, em Tocantinópolis, Estado de Goiás.

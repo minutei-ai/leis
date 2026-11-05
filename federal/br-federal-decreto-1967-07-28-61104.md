@@ -1,5 +1,3 @@
-###DEC-061104-0-000-28-07-1967@@@
-
 DECRETO Nº 61.104, DE 28 DE JULHO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar nacional, neste descritos e consignados à emprêsa “Renda Priori & Cia Ltda.” e Recife (PE).
@@ -14,7 +12,77 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar nacional, a seguir descritos e consignados à emprêsa “Renda, Priori & Cia Ltda.”, de Recife, Pernambuco:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item – Especificação</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>importada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1. Máquina operatriz automática, sem motor elétrico, para fazer latas, marca OSAI, modêlo FO3, dos fabricantes OSAI Napoli, Itália </span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2. Instalações completas marca DAREX, acompanhada dos motores acoplados, constando de:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>a) Máquina de colocar gacheta em alta velocidade marca DAREX modêlo CRD ......................................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>b) Estufa DAREX, modêlo 100 PH, poder calorífico para a seção principal e o pré-aquecimento, respectivamente – 175.000 a 60.000 BTU/hora ............................................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>c) Bomba DAREX, modêlo SE, unidade totalmente fechada ............</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="text-transform:uppercase">TOTAL ...............................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">4</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>34,252</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>58.982</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>20.958</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">6.798</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>120.000</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Item – Especificação
+
+</td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Quantidade
+
+a ser
+
+importada
+
+</td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Valor Total CIF US$
+
+</td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+1. Máquina operatriz automática, sem motor elétrico, para fazer latas, marca OSAI, modêlo FO3, dos fabricantes OSAI Napoli, Itália
+
+2. Instalações completas marca DAREX, acompanhada dos motores acoplados, constando de:
+
+a) Máquina de colocar gacheta em alta velocidade marca DAREX modêlo CRD ......................................................................................
+
+b) Estufa DAREX, modêlo 100 PH, poder calorífico para a seção principal e o pré-aquecimento, respectivamente – 175.000 a 60.000 BTU/hora ............................................................................................
+
+c) Bomba DAREX, modêlo SE, unidade totalmente fechada ............
+
+TOTAL ...............................................................................................
+
+</td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+1
+
+&nbsp;
+
+&nbsp;
+
+4
+
+&nbsp;
+
+2
+
+4
+
+-
+
+</td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+34,252
+
+&nbsp;
+
+&nbsp;
+
+58.982
+
+&nbsp;
+
+20.958
+
+6.798
+
+120.000
+
+</td></tr></tbody></table>
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria fica sua similaridade, para efeito de isenção de que trata o presente Decreto para ser encaminhada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1959 do Sr. Ministro da Fazenda.
 

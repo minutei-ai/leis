@@ -1,5 +1,3 @@
-###MPV-002198-0-003-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.198‑3, DE 28 DE JUNHO DE 2001
 
 Cria e instala a Câmara de Gestão da Crise de Energia Elétrica, do Conselho de Governo, estabelece diretrizes para programas de enfrentamento da crise de energia elétrica e dá outras providências.
@@ -41,8 +39,6 @@ XII ‑ impor restrições ao uso de recursos hídricos não destinados ao consu
 XIII ‑ propor, observado o disposto na Lei Complementar nº 101, de 4 de maio de 2000, o ajustamento dos limites de investimentos do setor elétrico estatal federal;
 
 XIV ‑ adotar outras medidas para a redução do consumo e ampliação da transmissão e da oferta de energia elétrica;
-
-<br>
 
 XV ‑ estabelecer negociações com setores específicos de consumidores para maior economia de consumo de energia elétrica;
 

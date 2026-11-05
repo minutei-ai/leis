@@ -18,8 +18,6 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação e produz efeito
 
 Goiânia, 29 de maio de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

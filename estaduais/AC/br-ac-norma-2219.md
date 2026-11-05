@@ -1,6 +1,10 @@
 > **LEI Nº 3.462, DE 26 DE DEZEMBRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera o art. 29 da Lei nº 2.308, de 22 de outubro de 2010.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera o art. 29 da Lei nº 2.308, de 22 de outubro de 2010.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

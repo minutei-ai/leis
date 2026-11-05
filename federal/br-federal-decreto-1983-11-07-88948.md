@@ -1,6 +1,4 @@
-###DEC-088948-0-000-07-11-1983@@@
-
-        decreto nº 88.948, de 07 de novembro de 1983.
+decreto nº 88.948, de 07 de novembro de 1983.
 
 Promulga o Acordo de Cooperação Econômica e Industrial, entre o Governo da República Federativa do Brasil e o Governo da República da Finlândia.
 
@@ -74,4 +72,20 @@ Em fé do quê, os abaixo assinados, devidamente autorizados para esse fim, assi
 
 Feito em Brasília, aos 5 dias do mês de novembro de 1981, em dois exemplares originais, nos idiomas português, finlandês e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência quanto à interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DA FINLÂNDIA:</span></p></td></tr><tr><td style="width:210.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:210.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Martti Lintulahti)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA&nbsp;&nbsp; FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DA FINLÂNDIA:
+
+</td></tr><tr><td style="width:210.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top">
+
+(Ramiro Saraiva Guerreiro)
+
+</td><td style="width:210.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top">
+
+(Martti Lintulahti)
+
+</td></tr></tbody></table>

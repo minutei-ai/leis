@@ -1,5 +1,3 @@
-###DEL-000334-0-000-12-10-1967@@@
-
 DECRETO-LEI Nº 334, DE 12 DE OUTUBRO DE 1967
 
 Dispõe sôbre o impôsto único sôbre minerais do País, alterando, em parte, a Lei nº 4.425, de 8 de outubro de 1964, e dá outras providências.

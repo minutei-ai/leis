@@ -1,5 +1,3 @@
-###DEC-051981-A-000-02-05-1963@@@
-
 DECRETO Nº 51.981-A, DE 2 DE MAIO dE 1963
 
 Dispõe sôbre os cargos em comissão de Diretores de Departamento, de Delegados Regionais e de Agentes Especiais dos órgãos de Previdência Social.

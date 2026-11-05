@@ -168,8 +168,6 @@ II – 1º de abril de 2021, quanto aos demais dispositivos.
 
 Goiânia, 6 de agosto de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

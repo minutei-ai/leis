@@ -1,5 +1,3 @@
-###DEC-004169-0-000-15-03-2002@@@
-
 DECRETO Nº  4.169, DE 15 DE MARÇO DE 2002
 
 Revoga o Decreto nº 4.146, de 27 de fevereiro de 2002, que dispõe sobre a descentralização de dotações orçamentárias destinadas ao pagamento de sentenças transitadas em julgado, e dá outras providências.

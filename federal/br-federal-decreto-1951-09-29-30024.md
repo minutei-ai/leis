@@ -1,20 +1,18 @@
-###DEC-030024-0-000-29-09-1951@@@
+**DECRETO Nº 30.024, DE 29 DE SETEMBRO DE 1951.**
 
-<strong>DECRETO Nº 30.024, DE 29 DE SETEMBRO DE 1951.</strong>
+***Outorga a indústrias Wagner Limitada concessão para aproveitamento de energia hidráulica do salto Rio Branco, existente no rio do Patos, município de Prudentópolis, estado do Paraná.***
 
-<em><strong>Outorga a indústrias Wagner Limitada concessão para aproveitamento de energia hidráulica do salto Rio Branco, existente no rio do Patos, município de Prudentópolis, estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso l, da Constituição, e nos têrmos do art. 150 do Código de Água (Decreto n. 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso l, da Constituição, e nos têrmos do art. 150 do Código de Água (Decreto n. 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É outorgada a Indústrias Wagner Limitada concessão para aproveitamento de energia hidráulica do salto Rio Branco, existente no rio dos Patos distrito de Prudentópolis, município de igual nome, estado do Paraná.
+**Art**. 1º É outorgada a Indústrias Wagner Limitada concessão para aproveitamento de energia hidráulica do salto Rio Branco, existente no rio dos Patos distrito de Prudentópolis, município de igual nome, estado do Paraná.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinados a altura da queda a aproveitar a descarga da derivação e a potência.
 
 § 2º O aproveitamento destina-se à utilização da energia para consumo exclusivo da concessionária, que não poderá ceder energia a terceiro, mesmo a título gratuito, excluída todavia, desta proibição, as vilas operárias da concessionária, desde que seja gratuito o fornecimento de energia que lhe fôr feito.
 
-<strong>Art</strong>. 2º Caducará o presente título independente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título independente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
 
 I - Registrá-lo na divisão Águas, do Departamento Nacional da Produção Mineral do Ministério da Agricultura, dentro de trinta (30) dias contados da data de sua publicação.
 
@@ -100,22 +98,22 @@ V - iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações pluviométricas e medições de descargas do curso d'água que vai utilizar, de acôrdo com a instrução da mesma Divisão.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações pluviométricas e medições de descargas do curso d'água que vai utilizar, de acôrdo com a instrução da mesma Divisão.
 
-<strong>Art</strong>. 4º Findo prazo da concessão, todos os bens de instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado do Paraná, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
+**Art**. 4º Findo prazo da concessão, todos os bens de instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado do Paraná, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
 
 § 1º A concessionária poderá requerer ao Gôverno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado do Paraná não se opõe à utilização dos bens objetos da reversão.
 
 § 2º A concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendo-se, se o não fazer, que não pretende a renovação.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contando da data do registro do respectivo contrato no Tribunal de Contas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contando da data do registro do respectivo contrato no Tribunal de Contas.
 
-<strong>Art</strong>. 6º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 29 de setembro de 1951; 130º da Independência, e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

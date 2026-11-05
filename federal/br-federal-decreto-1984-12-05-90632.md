@@ -1,5 +1,3 @@
-###DEC-090632-0-000-05-12-1984@@@
-
 Decreto nº 90.632, de 05 de dezembro de 1984
 
 Outorga concessão à RÁDIO SINAL DE ARACATI LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Aracati, Estado do Ceará.

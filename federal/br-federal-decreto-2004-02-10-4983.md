@@ -1,5 +1,3 @@
-###DEC-004983-0-000-10-02-2004@@@
-
 DECRETO Nº 4.983,  DE 10 DE FEVEREIRO DE 2004.
 
 Estabelece os pontos apropriados para o traçado das Linhas de Base Retas ao longo da costa brasileira e dá outras providências.

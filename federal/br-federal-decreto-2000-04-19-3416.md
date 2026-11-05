@@ -1,5 +1,3 @@
-###DEC-003416-0-000-19-04-2000@@@
-
 DECRETO Nº 3.416, DE 19 DE ABRIL DE 2000.
 
 Altera o art. 4º do Regulamento da Comissão Nacional para Assuntos Antárticos - CONANTAR, aprovado pelo Decreto nº 123, de 20 de maio de 1991.

@@ -1,5 +1,3 @@
-###DEC-066186-0-000-06-02-1970@@@
-
 decreto nº 66.186 - de 6 de fevereiro de 1970
 
 Declara de utilidade pública a Prelazia de Balsas, com sede em Balsas, Estado do Maranhão.

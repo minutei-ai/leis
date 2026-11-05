@@ -1,5 +1,3 @@
-###DEC-094967-0-000-25-09-1987@@@
-
 DECRETO Nº 94.967, DE 25 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "LOTEAMENTO FAZENDA SERRA - GLEBA I, LOTES NºS 99-A e 99-B", classificado no Cadastro de Imóveis Rurais do INCRA como “latifúndio por exploração”, situado nos Municípios de Itaguatins e Sítio Novo de Goiás, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

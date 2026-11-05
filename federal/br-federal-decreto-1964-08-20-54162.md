@@ -1,5 +1,3 @@
-###DEC-054162-0-000-20-08-1964@@@
-
 DECRETO Nº 54.162, DE 20 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública uma gleba de terra situada no Município de Resende, Estado do Rio de Janeiro, e autoriza a Companhia Hidrelétrica do Vale do Paraíba a desapropriá-la.

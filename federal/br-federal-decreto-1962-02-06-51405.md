@@ -1,5 +1,3 @@
-###DEC-051405-0-000-06-02-1962@@@
-
 DECRETO Nº 51.405, DE 6 de fevereiro DE 1962.
 
 Altera a redação do art. 2º do Decreto nº 49.355, de 28 de novembro de 1960, e dá outras providências.

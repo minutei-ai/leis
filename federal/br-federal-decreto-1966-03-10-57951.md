@@ -1,5 +1,3 @@
-###DEC-057951-0-000-10-03-1966@@@
-
 DECRETO Nº 57.951, DE 10 DE MARÇO DE 1966.
 
 Concede à Sociedade Mineira de Exportação Ltda. autorização para funcionar como emprêsa de mineração.

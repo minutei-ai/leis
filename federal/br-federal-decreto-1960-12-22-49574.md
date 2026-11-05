@@ -1,5 +1,3 @@
-###DEC-049574-0-000-22-12-1960@@@
-
 DECRETO Nº 49.574, de 22 DE DEZEMBRO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar as doações que fazem o Município de Miranda, no Estado de Mato Grosso e o Senhor Miguel Lopes Valle, de duas áreas de terreno necessárias ao Ministério da Guerra.

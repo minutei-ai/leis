@@ -1,5 +1,3 @@
-###MPV-002134-0-028-27-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.134-28, DE 27 DE MARÇO DE 2001
 
 Altera dispositivos das Leis nº 9.782, de 26 de janeiro de 1999, que define o Sistema Nacional de Vigilância Sanitária e cria a Agência Nacional de Vigilância Sanitária, e nº 6.437, de 20 de agosto de 1977, que configura infrações à legislação sanitária federal e estabelece as sanções respectivas, e dá outras providências.

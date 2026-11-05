@@ -1,5 +1,3 @@
-###DEC-073392-0-000-31-12-1973@@@
-
 DECRETO Nº 73.392 - 31 DE DEZEMBRO DE 1973
 
 Retifica redistribuição de cargo, com o respectivo ocupante, constante do Decreto nº 70.111, de 3 de fevereiro de 1972.

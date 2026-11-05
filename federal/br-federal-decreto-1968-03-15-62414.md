@@ -1,5 +1,3 @@
-###DEC-062414-0-000-15-03-1968@@@
-
 DECRETO Nº 62.414, DE 15 DE MARÇO DE 1968.
 
 Dispõe sôbre a reestruturação da Universidade Federal Fluminense.

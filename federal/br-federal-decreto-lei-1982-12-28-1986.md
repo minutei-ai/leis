@@ -1,5 +1,3 @@
-###DEL-001986-0-000-28-12-1982@@@
-
 # DECRETO-LEI Nº 1.986, de 28 de dezembro de 1982
 
 Dispõe sobre a tributação das sociedades de investimento de cujo capital social participem pessoas físicas ou jurídicas, residentes ou domiciliadas no exterior, e dá outras providências.
@@ -24,7 +22,21 @@ Art. 2º Os dividendos e bonificações em dinheiro distribuídos pelas sociedad
 
 Art. 3º O imposto de renda na fonte sobre os rendimentos referidos no artigo anterior, produzidos por investimentos ingressados até a data da entrada em vigor deste Decreto-lei e mantidos integralmente no país pelos prazos abaixo, contados da data do respectivo registro do investimento inicial, será devido, após completado o sexto ano de permanência sem que tenha havido qualquer retorno do investimento, de acordo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Prazo de permanência</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Alíquota</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Acima de 6 e até 7 anos</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>12%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Acima de 7 e até 8 anos</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>10%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Acima de 8 anos</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>8%</span></p></td></tr></tbody></table>
+Prazo de permanência
+
+Alíquota
+
+Acima de 6 e até 7 anos
+
+12%
+
+Acima de 7 e até 8 anos
+
+10%
+
+Acima de 8 anos
+
+8%
 
 Art. 4º Ficam isentas do imposto suplementar de renda de que trata o artigo 43 da Lei nº 4.131, de 3 de setembro de 1962, modificado pelo artigo 1º da Lei nº 4.390, de 29 de agosto de 1964, as remessas para o exterior, dos rendimentos referidos no artigo 2º deste Decreto-lei.
 

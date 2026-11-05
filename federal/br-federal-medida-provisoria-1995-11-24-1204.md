@@ -1,7 +1,3 @@
-1
-
-###MPV-001204-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.204, DE 24 DE NOVEMBRO DE 1995.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

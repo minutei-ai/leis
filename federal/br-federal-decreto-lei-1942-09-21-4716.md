@@ -1,5 +1,3 @@
-###DEL-004716-0-000-21-09-1942@@@
-
 DECRETO-LEI N. 4.716 – DE 21 DE SETEMBRO DE 1942
 
 Dispõe sobre a criação e organização da Diretoria Nacional do Serviço de Defesa Passiva Anti-Aérea, com sede no Distrito Federal, e dá outras providências

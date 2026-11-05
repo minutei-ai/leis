@@ -1,5 +1,3 @@
-###DEL-009417-0-000-28-06-1946@@@
-
 DECRETO-LEI N. 9.417 – DE 28 DE JUNHO DE 1946
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

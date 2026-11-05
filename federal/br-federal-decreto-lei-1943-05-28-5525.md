@@ -1,5 +1,3 @@
-###DEL-005525-0-000-28-05-1943@@@
-
 DECRETO‑LEI N. 5.525 – DE 28 DE MAIO DE 1943
 
 Cria uma coletoria federal no Município de Pontal, no Estado de São Paulo, e dá outras providências
@@ -14,7 +12,15 @@ Art. 2º Ficam criados e incluidos nas respectivas carreiras do Quadro Permanent
 
 Art. 3º Para atender à despesa decorrente deste decreto‑lei, fica aberto o crédito suplementar de nove mil, trezentos e noventa e nove cruzeiros e sessenta centavos (Cr$ 9.399,60), em reforço da Verba 1 – Pessoal, do vigente orçamento do referido Ministério (Anexo n. 14 do decreto‑lei nú­mero 5.120, de 19 de dezembro de 1942), como segue:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:482.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VERBA 1 – PESSOAL</span></p></td></tr><tr><td style="width:482.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Consignação I – Pessoal Permanente</span></p></td></tr><tr><td style="width:482.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>S/c. n. 01 Pessoal Permanente ..................................................................................................... Cr$ 2.799,60</span></p></td></tr><tr><td style="width:482.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>S/c. n. 02 Percentagens</span><span style="-aw-import:spaces">&nbsp; </span><span>................................................................................................................Cr$ </span><span style="text-decoration:underline">6.600,00</span></p></td></tr><tr><td style="width:482.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ </span><span style="text-decoration:underline">9.399,60</span></p></td></tr></tbody></table>
+VERBA 1 – PESSOAL
+
+Consignação I – Pessoal Permanente
+
+S/c. n. 01 Pessoal Permanente ..................................................................................................... Cr$ 2.799,60
+
+S/c. n. 02 Percentagens  ................................................................................................................Cr$ 6.600,00
+
+Cr$ 9.399,60
 
 Art. 4º O presente decreto‑lei entrará em vigor na data de sua publi­cação, revogadas as disposições em contrário.
 

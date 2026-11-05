@@ -1,5 +1,3 @@
-###DEL-006616-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.616 – DE 22 DE Junho DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 25.504,50, à verba que especifica

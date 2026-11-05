@@ -1,5 +1,3 @@
-###DEC-084109-0-000-23-10-1979@@@
-
 Decreto nº 84.109, de 23 de outubro de 1979
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação e ampliação de subestações da Companhia Paulista de Força e Luz CPFL, no Estado de São Paulo.

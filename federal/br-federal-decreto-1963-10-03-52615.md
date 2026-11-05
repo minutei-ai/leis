@@ -1,5 +1,3 @@
-###DEC-052615-0-000-03-10-1963@@@
-
 Decreto Nº 52.615, DE 3 DE OUTUBRO DE 1963.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição de amendoim da safra de 1963-64.

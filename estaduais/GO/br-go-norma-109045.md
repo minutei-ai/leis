@@ -10,8 +10,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 25 de junho de 2024; 136º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em Exercício

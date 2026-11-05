@@ -1,5 +1,3 @@
-###DEC-045632-0-000-25-03-1959@@@
-
 Decreto nº 45.632, de 25 de março de 1959.
 
 Autoriza Fosforita Olinda S.A. ”Fasa” a pesquisar fosfato no município de Iguaraçu, Estado de Pernambuco.

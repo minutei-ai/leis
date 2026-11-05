@@ -1,5 +1,3 @@
-###DEC-056968-0-000-01-10-1965@@@
-
 DECRETO Nº 56.968, DE 1º DE OUTUBRO DE 1965.
 
 Concede autorização para o funcionamento da Faculdade de Direito Riopretense, de São José do Rio Prêto, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-082068-0-000-03-08-1978@@@
-
 DECRETO Nº 82.068, DE 03 DE AGOSTO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

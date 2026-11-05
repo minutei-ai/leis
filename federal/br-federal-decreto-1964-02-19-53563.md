@@ -1,5 +1,3 @@
-###DEC-053563-0-000-19-02-1964@@@
-
 decreto nº 53.563, de 19 de fevereiro de 1964.
 
 Dá a denominação histórica de Batalhão Marechal Zenóbio da Costa, ao 1º BTL P E.

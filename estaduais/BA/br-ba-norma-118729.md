@@ -1,6 +1,7 @@
 LEI Nº 6.360 DE 30 DE DEZEMBRO DE 1991
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.631](https://www.legislabahia.ba.gov.br/documentos/lei-no-12631-de-07-de-janeiro-de-2013#LO%2012.631) de 07 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Bacia do Paramirim, na forma da Lei nº 12.057/2011, a saber: Botuporã, Boquira, Caturama, Érico Cardoso, Ibipitanga, Macaúbas, Paramirim, Rio do Pires e Tanque Novo.
 
 &nbs

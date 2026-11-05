@@ -1,5 +1,3 @@
-###MPV-000327-0-000-31-10-2006@@@
-
 MEDIDA PROVISÓRIA Nº 327, DE 31 DE OUTUBRO DE 2006.
 
 Dispõe sobre o plantio de organismos geneticamente modificados em unidades de conservação, acrescenta dispositivos à Lei no 9.985, de 18 de julho de 2000, e dá outras providências.
@@ -39,5 +37,3 @@ LUIZ INÁCIO LULA DA SILVA
            Luís Carlos Guedes Pinto
 
     Marina Silva
-
-Este texto não substitui o publicado no D.O.U. de 1º.11.2006

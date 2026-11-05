@@ -1,5 +1,3 @@
-###MPV-001718-0-003-30-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.718-3, DE 30 DE DEZEMBRO DE 1998
 
 Acresce parágrafo ao art. 4º da Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099009-0-000-02-03-1990@@@
-
 DECRETO Nº 99.009, DE 2 DE MARÇO DE 1990
 
 Autoriza o funcionamento da habilitação em Professor para as Séries Iniciais da Escolarização e Disciplinas de Formação Especial da habilitação Magistério de 2º Grau da Faculdade de Filosofia, Ciências e Letras de São Borja.

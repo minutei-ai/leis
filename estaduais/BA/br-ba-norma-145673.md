@@ -4,7 +4,8 @@ Institui a Política de Consensualidade no âmbito do Estado da Bahia, e dá out
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Fica instituída a Política de Consensualidade no âmbito do Estado da Bahia, em consonância com as disposições das Leis Federais nº 13.105, de 16 de março de 2015 - Código de Processo Civil, e nº 13.140, de 26 de junho de 2015, e com o disposto nos incisos VII do art. 2º, e XIII do art. 32, ambos da Lei Complementar nº 34, de 06 de fevereiro de 2009, bem como das leis que vierem a substituí-las, com o objetivo de estimular a consensualidade e a redução da litigiosidade, administrativa e judicial.
@@ -33,7 +34,8 @@ DISPOSIÇÕES PRELIMINARES
 
 **Art. 4º** - A transação resolutiva de litígios relativos à cobrança de créditos da Fazenda Pública, de natureza tributária ou não tributária inscritos em dívida ativa, será regulamentada por lei específica, aplicando-se subsidiariamente esta Lei, naquilo que for compatível.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PRINCÍPIOS E OBJETIVOS
 
 **Art. 5º** - Na aplicação da Política de Consensualidade serão observados, dentre outros, os princípios da legalidade, impessoalidade, imparcialidade, eficiência, supremacia do interesse público, autonomia da vontade, isonomia, transparência, moralidade, duração razoável dos processos.
@@ -86,10 +88,12 @@ DOS PRINCÍPIOS E OBJETIVOS
 
 **§ 2**º - Os prognósticos de precedentes judiciais e administrativos a que se refere o inciso V do _caput_ deste artigo, bem como a avaliação a que se refere o § 1º deste artigo, poderão ser obtidos por meio de dados, informações e estatísticas decorrentes da utilização de programas e ferramentas tecnológicas alinhadas ao objetivo previsto no inciso XI do _caput_ deste artigo.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS MEDIDAS PARA A REDUÇÃO DA LITIGIOSIDADE E DO SISTEMA DE AUTOCOMPOSIÇÃO NO ÂMBITO DO ESTADO DA BAHIA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Disposições Gerais
 
 **Art. 8º** - Aplicam-se as medidas para redução da litigiosidade, com submissão ao sistema de autocomposição previsto nesta Lei:
@@ -128,7 +132,8 @@ Disposições Gerais
 
 **Art. 15** - Os agentes públicos que participarem de processo de autocomposição, extrajudicial ou judicial, somente poderão ser responsabilizados civil, administrativa ou criminalmente, inclusive perante os órgãos públicos de controle interno e externo, quando agirem com dolo ou fraude para obter vantagem indevida para si ou para outrem, observado, quanto aos Advogados Públicos, o art. 184 da Lei Federal nº 13.105, de 16 de março de 2015 - Código de Processo Civil.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Dos Instrumentos de Solução Adequada de Controvérsias
 
 **Art. 16** - Na busca pela autocomposição, os órgãos e as entidades estaduais podem se valer de um ou mais instrumentos de solução adequada de controvérsias, típicos ou atípicos, no intuito de prevenir ou resolver total ou parcialmente conflito.
@@ -137,7 +142,8 @@ Dos Instrumentos de Solução Adequada de Controvérsias
 
 **Art. 18** - A controvérsia poderá ser submetida a outros órgãos ou entidades, públicas ou privadas, que tenham por finalidade a realização de autocomposição, e a plataformas digitais de solução de conflitos, a exemplo dos centros judiciários vinculados ao Poder Judiciário, mediante motivação.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Dos Acordos
 
 **Art. 19** - A PGE atuará na resolução de conflitos de interesses, sempre que possível, de forma consensual, pelos instrumentos previstos em lei.
@@ -184,7 +190,8 @@ Dos Acordos
 
 **Art. 29** - Ato interno do Procurador-Geral do Estado estabelecerá as condições e os requisitos mínimos para a celebração de acordos para a solução consensual das controvérsias, bem como as cláusulas obrigatórias dos Termos de Acordo celebrados pelo Estado.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Dos Métodos Extrajudiciais de Solução de Controvérsias - MESCs
 
 **Art. 30** - Nos contratos administrativos, convênios, parcerias, contratos de gestão e instrumentos congêneres, poderão ser pactuados Métodos Extrajudiciais de Solução de Controvérsias - MESCs, notadamente, negociação, conciliação, mediação, comitê de resolução de disputas e a arbitragem.
@@ -197,7 +204,8 @@ Dos Métodos Extrajudiciais de Solução de Controvérsias - MESCs
 
 **Art. 31** - O comitê de resolução de disputas poderá ter natureza revisora, adjudicativa ou híbrida, a depender dos poderes que Ihe forem outorgados pelo contrato celebrado.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Da Transação por Adesão
 
 **Art. 32** - As controvérsias jurídicas de caráter repetitivo que envolvam o Estado, suas autarquias e fundações públicas poderão ser objeto de transação por adesão, com fundamento em uma das seguintes hipoteses:
@@ -218,7 +226,8 @@ Da Transação por Adesão
 
 **Art. 33** - A fim de viabilizar a transação por adesão, a PGE poderá firmar instrumentos de cooperação com o Poder Judiciário ou outros órgãos e entidades, públicas ou privadas, que poderão ser objeto de disciplina própria, a cada instrumento administrativo formalizado.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Da Rescisão do Acordo
 
 **Art. 34** - Implica rescisão do acordo:
@@ -241,7 +250,8 @@ Da Rescisão do Acordo
 
 **IV -** dedução do valor referido no inciso III do parágrafo único deste artigo das prestações pagas, com acréscimos legais até a data da rescisão.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 Da Advocacia Pública Resolutiva
 
 **Art. 35** - Sem prejuízo de outras autorizações normativas específicas, fica a PGE autorizada a reconhecer a procedência do pedido, abster-se de oferecer defesa, recorrer e desistir dos recursos já interpostos, quando, inexistente outro fundamento relevante, a pretensão deduzida ou a decisão judicial estiver de acordo com:
@@ -252,7 +262,8 @@ Da Advocacia Pública Resolutiva
 
 **Parágrafo único -** Ato do Procurador-Geral do Estado poderá dispor sobre a forma de exercício da autorização prevista nesta Seção, inclusive quanto à possibilidade de delegação e a previsão de hipóteses especiais e simplificadas de atuação, considerando a existência de justificado interesse processual ou estratégico.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 36** - A PGE e a SEFAZ poderão celebrar instrumentos de cooperação com os demais órgãos e entidades do Estado, com a finalidade de garantir previsão orçamentária que permita o cumprimento planejado das obrigações decorrentes de Termos de Acordo decorrentes da aplicação desta Lei e que importem em despesas públicas para a Administração Estadual.
@@ -393,7 +404,8 @@ André Nascimento Curvello
 
 Secretário de Comunicação Social
 
-Luís Maurício Bacellar Batista<br>
+Luís Maurício Bacellar Batista
+
 Secretário de Turismo
 
 José Vieira Leal Neto

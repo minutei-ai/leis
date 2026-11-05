@@ -1,5 +1,3 @@
-###DEC-050825-0-000-22-06-1961@@@
-
 decreto nº 50.825, de 22 de junho de 1961.
 
 Proíbe pelo prazo de dois anos, o exercício da pesca no rio Mogí-Guaçu e seus afluentes.

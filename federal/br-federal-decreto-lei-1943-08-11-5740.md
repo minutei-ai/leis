@@ -1,5 +1,3 @@
-###DEL-005740-0-000-11-08-1943@@@
-
 DECRETO-LEI N. 5.740 – DE 11 DE AGÔSTO DE 1943
 
 Altera o decreto–lei n. 3.937, de 13 de dezembro de 1941 o dá outras providências

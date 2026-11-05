@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69327)
-
 # LEI Nº 12.438, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 863/2005, do Deputado Edson Aparecido)

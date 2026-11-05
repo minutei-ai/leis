@@ -1,5 +1,3 @@
-###DEC-074633-0-000-02-10-1974@@@
-
 DECRETO Nº 74.633, DE 2 DE OUTUBRO DE 1974.
 
 Outorga concessão à Centrais Elétricas de Minas Gerais S.A. para distribuir energia elétrica no Município de Morada Nova de Minas e dá outras providências.

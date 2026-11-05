@@ -1,5 +1,3 @@
-###DEC-058951-0-000-01-08-1966@@@
-
 DECRETO Nº 58.951, DE 1º DE AGÔSTO DE 1966.
 
 Altera, em cumprimento de decisão judicial, enquadramento de funcionária incluída na série de classes de Revisor, do Quadro de Pessoal do Departamento Administrativo do Serviço Público, e dá outras providências.

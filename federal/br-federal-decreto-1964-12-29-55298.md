@@ -1,5 +1,3 @@
-###DEC-055298-0-000-29-12-1964@@@
-
 DECRETO Nº 55.298,DE 29 DE Dezembro DE 1964.
 
 Declara de utilidade pública, para desapropriação imóvel que menciona, situado em Curitiba, no Estado do Paraná.

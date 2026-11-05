@@ -1,5 +1,3 @@
-###DEC-068632-0-000-20-05-1971@@@
-
 DECRETO Nº 68.632 - DE 20 DE MAIO DE 1971.
 
 Dispõe sôbre distribuição e redistribuição de servidor do extinto Serviço de Alimentação da Previdência Social.

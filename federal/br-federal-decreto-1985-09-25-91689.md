@@ -1,5 +1,3 @@
-###DEC-091689-0-000-25-09-1985@@@
-
 Decreto nº 91.689, de 25 de setembro de 1985
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem em favor da Petróleo Brasileiro S/A - PETROBRÁS - imóveis de propriedade particular constituídos de terras e benfeitorias que menciona.

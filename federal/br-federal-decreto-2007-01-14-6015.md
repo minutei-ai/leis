@@ -1,5 +1,3 @@
-###DEC-006015-0-000-14-01-2007@@@
-
 DECRETO Nº 6.015, DE 14 DE JANEIRO DE 2007.
 
 Fixa para a Marinha do Brasil, para o ano-base 2006, o número de vagas para promoção obrigatória de Oficiais, nos Corpos e Quadros que menciona.
@@ -111,5 +109,3 @@ Fixa para a Marinha do Brasil, para o ano-base 2006, o número de vagas para pro
 LUIZ INÁCIO LULA DA SILVA
 
      Waldir Pires
-
-Este texto não substitui o publicado no DOU de 15.1.2007 - Edição extra

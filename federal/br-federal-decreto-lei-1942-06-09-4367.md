@@ -1,5 +1,3 @@
-###DEL-004367-0-000-09-06-1942@@@
-
 DECRETO-LEI N. 4.367 – DE 9 DE JUNHO DE 1942
 
 Abre crédito suplementar para atender à despesa de gratificação de representação ao Conselho Nacional de Minas e Metalurgia

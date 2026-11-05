@@ -1,5 +1,3 @@
-###DEC-068210-0-000-11-02-1971@@@
-
 DECRETO Nº 68.210, DE 11 DE FEVEREIRO DE 1971.
 
 Concede à Sociedade Carbonífera Monte Negro Ltda. o direito de lavrar carvão mineral, no município de Orleans, Estado de Santa Catarina.

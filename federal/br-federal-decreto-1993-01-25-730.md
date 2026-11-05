@@ -1,7 +1,3 @@
-1
-
-###DEC-000730-0-000-25-01-1993@@@
-
 DECRETO N° 730, DE 25 DE JANEIRO DE 1993
 
 Altera o Decreto n° 92.503, de 26 de março de 1986, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz.

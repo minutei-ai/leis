@@ -1,5 +1,3 @@
-###DEC-052696-0-000-17-10-1963@@@
-
 DECRETO Nº 52.696, DE 17 DE OUTUBRO DE 1963.
 
 Autoriza o Ministro da Fazenda a dar a garantia do Tesouro Nacional a empréstimo a ser realizado pela Companhia Vale do Rio Doce S.A.

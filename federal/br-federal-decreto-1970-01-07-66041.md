@@ -1,5 +1,3 @@
-###DEC-066041-0-000-07-01-1970@@@
-
 decreto nº 66.041 - de 7 de janeiro de 1970
 
 Declara de utilidade pública o Conselho Particular da Sociedade de São Vicente de Paulo de Uberlândia, com sede em Uberlândia, Estado de Minas Gerais, e as congregadas que enumera.

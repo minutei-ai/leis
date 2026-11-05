@@ -1,5 +1,3 @@
-###DEL-005103-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.103 – DE 17 DE DEZEMBRO DE 1942
 
 Dispõe sobre o crédito suplementar aberto pelo decreto-lei n. 4.926, de 6 de novembro de 1942

@@ -1,5 +1,3 @@
-###DEC-096533-0-000-17-08-1988@@@
-
 DECRETO N° 96.533, DE 17 DE AGOSTO DE 1988
 
 Fixa normas para o concurso vestibular e propõe medidas de articulação do ensino superior com o primeiro e o segundo graus.

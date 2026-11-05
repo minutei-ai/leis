@@ -1,28 +1,26 @@
-###DEC-022031-0-000-07-11-1946@@@
+**DECRETO N. 22.031 – DE 7 DE NOVEMBRO DE 1946**
 
-<strong>DECRETO N. 22.031 – DE 7 DE NOVEMBRO DE 1946</strong>
-
-<em><strong>Aprova o Regulamento do Serviço de Remonta e Veterinária</strong></em>
+***Aprova o Regulamento do Serviço de Remonta e Veterinária***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, n.º 1, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Serviço de Remonta e Veterinária, que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, Ministro da Guerra.
+**Art**. 1º Fica aprovado o Regulamento do Serviço de Remonta e Veterinária, que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, Ministro da Guerra.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 7 de Novembro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G.</strong>  <strong>DUTRA.</strong>
+**EURICO G.**  **DUTRA.**
 
 Canrobert P. da Costa.
 
-<h1 style="margin-top:6pt; margin-bottom:18pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGULAMENTO DO SERVIÇO DE REMONTA E VETERINÁRIA</strong></span></span></h1>
+# **REGULAMENTO DO SERVIÇO DE REMONTA E VETERINÁRIA**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Do Serviço do Remonta e Veterinária</em>
+*Do Serviço do Remonta e Veterinária*
 
 Êste serviço incumbe-se:
 
@@ -48,15 +46,15 @@ c) da conservação dos animais.
 
 7\) Preparação do Pessoal.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Diretoria de Remonta e Veterinária</em>
+*Da Diretoria de Remonta e Veterinária*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º A Diretoria de Remonta e Veterinária (D. R. V.), subordinada diretamente ao Departamento Geral de Administração, e o órgão de direção do Serviço de Remonta e Veterinária, responsável pela coordenação e contrôle de sua execução.
+**Art**. 1º A Diretoria de Remonta e Veterinária (D. R. V.), subordinada diretamente ao Departamento Geral de Administração, e o órgão de direção do Serviço de Remonta e Veterinária, responsável pela coordenação e contrôle de sua execução.
 
 Compete-lhe:
 
@@ -104,13 +102,13 @@ XIX – elaborar os cadernos de encargos do material veterinário e de ferradori
 
 XX – orientar e controlar o ensino na Escola de Veterinária do Exército.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O Diretor de Remota e Veterinária é um Coronel da Arma de Cavalaria.
+**Art**. 2º O Diretor de Remota e Veterinária é um Coronel da Arma de Cavalaria.
 
-<strong>Art</strong>. 3º Para o exercício de suas funções o Diretor de Remota e Veterinária dispõe dos seguintes órgãos:
+**Art**. 3º Para o exercício de suas funções o Diretor de Remota e Veterinária dispõe dos seguintes órgãos:
 
 A) Gabinete e Órgãos Auxiliares:
 
@@ -120,9 +118,9 @@ B) Subdiretorias Especializadas:
 
 2\) Subdiretoria de Veterinária.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>DO GABINETE E ÓRGÃOS AUXILIARES</span></span></h2>
+## DO GABINETE E ÓRGÃOS AUXILIARES
 
-<strong>Art</strong>. 4º Ao Gabinete incumbe:
+**Art**. 4º Ao Gabinete incumbe:
 
 I – auxiliar a coordenação das atividades da D. R. V., estabelecendo as ligações entre seus diferentes órgãos e promovendo, em nome do Diretor, as ligações externas que se fizerem necessárias;
 
@@ -138,9 +136,9 @@ VI – organizar as fôlhas de alterações do pessoal combatente da Diretoria;
 
 VII – propor as classificações e transferências de oficiais e praças combatentes que não sejam da competência das Subdiretorias.
 
-<strong>Art</strong>. 5º  A Chefia do Gabinete é exercida por um Tenente Coronel da Arma de Cavalaria.
+**Art**. 5º  A Chefia do Gabinete é exercida por um Tenente Coronel da Arma de Cavalaria.
 
-<strong>Art</strong>. 6º O Gabinete compõe-se de:
+**Art**. 6º O Gabinete compõe-se de:
 
 – Chefe;
 
@@ -226,9 +224,9 @@ XIV – organizar, no início de cada ano, um plano de desportos hípicos de Rem
 
 XV – manter estreito contato com as associações civis que praticam os desportos hípicos, incentivando as iniciativas que tragam proveito às finalidades da Remonta.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>DA SUBDIRETORIA DE REMONTA</span></span></h2>
+## DA SUBDIRETORIA DE REMONTA
 
-<strong>Art</strong>. 7º A  Subdiretoria de Remonta (S.D.R) incumbe:
+**Art**. 7º A  Subdiretoria de Remonta (S.D.R) incumbe:
 
 I – receber, depositar e distribuir solípedes para o Exército:
 
@@ -262,9 +260,9 @@ XV – organizar boletins técnicos de informações, bem como instruções gera
 
 XVI –  colaborar no relatório da Diretoria.
 
-<strong>Art</strong>. 8º O Subdiretor de Remonta é um Coronel da Arma de Cavalharia.
+**Art**. 8º O Subdiretor de Remonta é um Coronel da Arma de Cavalharia.
 
-<strong>Art</strong>. 9º Para o exercício de suas funções o Subdiretor de Remonta dispõe de:
+**Art**. 9º Para o exercício de suas funções o Subdiretor de Remonta dispõe de:
 
 – um adjunto – oficial de cavalaria;
 
@@ -272,7 +270,7 @@ XVI –  colaborar no relatório da Diretoria.
 
 – 2ª Divisão (D2) – Criação e melhoramento do rebanho equino.
 
-<strong>Art</strong>. 10. A 1ª Divisão dispõe de um Chefe e adjuntos, oficiais de arma montada.
+**Art**. 10. A 1ª Divisão dispõe de um Chefe e adjuntos, oficiais de arma montada.
 
 Incumbe-lhe:
 
@@ -292,7 +290,7 @@ VII – estudar e propor as medidas referentes às instalações e  condições
 
 VIII – organizar e manter em dia fichários ou mapas relativos aos animais de serviço distribuídos ou em depósitos.
 
-<strong>Art</strong>. 11. A 2ª Divisão dispõe de um Chefe e adjuntos, oficiais de arma montada e do quadro de veterinária.
+**Art**. 11. A 2ª Divisão dispõe de um Chefe e adjuntos, oficiais de arma montada e do quadro de veterinária.
 
 Incumbe-lhe:
 
@@ -322,9 +320,9 @@ XI – conhecer o trabalho e rendimento dos produtos da Remonta e tanto quanto p
 
 XII – organizar e manter em dia fichários ou mapas relativos aos animais nas fazendas de criação e postos de Serviço bem como dados globais sôbre rebanhos cavalares e muares, zonas de pastagens e etc.,
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>DA SUBDIRETORIA DE VETERINÁRIA</span></span></h2>
+## DA SUBDIRETORIA DE VETERINÁRIA
 
-<strong>Art</strong>. 12. A SubDiretoria de Veterinária (S. D. V.), órgão de direção especializada com autonomia administrativa e diretamente subordinado à Diretoria de Remonta e Veterinária, incumbe:
+**Art**. 12. A SubDiretoria de Veterinária (S. D. V.), órgão de direção especializada com autonomia administrativa e diretamente subordinado à Diretoria de Remonta e Veterinária, incumbe:
 
 I – receber, armazenar e distribuir o material de veterinária e de ferradoria para o Exército;
 
@@ -392,9 +390,9 @@ XXXI – colaborar com o Serviço de Saúde:
 
 – na higiene e profilaxia dos quartéis, alojamento, áreas e zonas de  ocupação de movimentação de tropa, bem como no combate aos animais portadores ou transmissores de moléstia contagiosa ou infecto contagiosa.
 
-<strong>Art</strong>. 13. O Subdiretor de Veterinária é um Coronel Veterinário.
+**Art**. 13. O Subdiretor de Veterinária é um Coronel Veterinário.
 
-<strong>Art</strong>. 14. Para o exercício de suas funções, O Subdiretor de Veterinária dispõe de:
+**Art**. 14. Para o exercício de suas funções, O Subdiretor de Veterinária dispõe de:
 
 – 2 (dois) Adjuntos – Capitães Veterinários. Um deles é o Fiscal Administrativo;
 
@@ -404,7 +402,7 @@ XXXI – colaborar com o Serviço de Saúde:
 
 – Tesouraria.
 
-<strong>Art</strong>. 15. À 3ª Divisão, chefiada por um Tenente Coronel Veterinário e com adjuntos do mesmo Quadro, incumbe:
+**Art**. 15. À 3ª Divisão, chefiada por um Tenente Coronel Veterinário e com adjuntos do mesmo Quadro, incumbe:
 
 I – organizar as propostas para classificações, transferências, agregações, reversões e reformas dos oficiais veterinários;
 
@@ -460,7 +458,7 @@ XXVI – informar e dar parecer sôbre os pedidos do D.C. M. V. e dos D.R. M. V.
 
 XXVII – controlar do consumo de entorpecentes nos Depósitos, Corpos e Estabelecimentos, de acôrdo com as Instruções e Leis especiais em vigor.
 
-<strong>Art</strong>. 16 À 4ª Divisão, chefiada por um Tenente Coronel Veterinário com adjuntos do mesmo Quadro,
+**Art**. 16 À 4ª Divisão, chefiada por um Tenente Coronel Veterinário com adjuntos do mesmo Quadro,
 
 incumbe:
 
@@ -518,17 +516,17 @@ XVIII – colher todos os dados referente ao cultivo e produção das espécies 
 
 XIX – propôr meios e instruções para o intercâmbio com os órgãos Federais e Estaduais correlatos, no que concerne às suas atividades ou atribuições.
 
-<strong>Art</strong>. 17. A Tesouraria terá como chefe um 1º Tenente Intendente do Exército.
+**Art**. 17. A Tesouraria terá como chefe um 1º Tenente Intendente do Exército.
 
 Competem-lhe as atribuições previstas no art. 35 do Regulamento nº 3 (R.A.E.)
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>ATRIBUIÇÕES DO PESSOAL</em>
+*ATRIBUIÇÕES DO PESSOAL*
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>Do Diretor</span></span></h2>
+## Do Diretor
 
-<strong>Art</strong>. 18. Ao Diretor de Remonta e Veterinária compete:
+**Art**. 18. Ao Diretor de Remonta e Veterinária compete:
 
 I – responsabilizar-se perante o Chefe do Departamento Geral de Administração pelo funcionamento eficiente dos órgãos da Diretoria e do Serviço;
 
@@ -570,9 +568,9 @@ XIX – superintender e fiscalizar o ensino da Escola Veterinária do Exército;
 
 XX – transferir as praças da D.R.V. de um estabelecimento para outro.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>Do Chefe do Gabinete</span></span></h2>
+## Do Chefe do Gabinete
 
-<strong>Art</strong>. 19. Ao Chefe do Gabinete incumbe:
+**Art**. 19. Ao Chefe do Gabinete incumbe:
 
 I – coordenar  e fiscalizar os trabalhos dos órgãos constitutivos do Gabinete e auxiliar a coordenação das atividades da Diretoria de Remonta e Veterinária (D.R.V.), estabelecendo as ligações entre os seus diferentes órgãos e promovendo em nome do Diretor as ligações externas que se fizerem  necessárias;
 
@@ -592,9 +590,9 @@ VIII – encerrar diariamente o livro de ponto dos funcionários civis, apresent
 
 IX – exercer, por delegação do Diretor, as funções de Agente Diretor.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>Do Subdiretor de Remonta</span></span></h2>
+## Do Subdiretor de Remonta
 
-<strong>Art</strong>. 20. – Ao Subdiretor de Remonta incumbe:
+**Art**. 20. – Ao Subdiretor de Remonta incumbe:
 
 I – a responsabilidade pela execução dos encargos afetos aos órgãos que dirige;
 
@@ -616,9 +614,9 @@ IX – indicar ao Diretor os oficiais que convenham ao serviço da Subdiretoria;
 
 X – distribuir pelas Divisões as praças e civis que forem designados para servir na Subdiretoria.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>Do Subdiretor de Veterinária</span></span></h2>
+## Do Subdiretor de Veterinária
 
-<strong>Art</strong>. 21. Ao Subdiretor de Veterinária incumbe:
+**Art**. 21. Ao Subdiretor de Veterinária incumbe:
 
 I – estudar e resolver os assuntos de sua Subdiretoria, submetendo à consideração do Diretor d Remonta e Veterinária aqueles cujas soluções estejam fora da sua alçada;
 
@@ -658,9 +656,9 @@ XVIII – manter ligação com os órgãos correlatos Federais e Estaduais sôbr
 
 XIX – informar às autoridades civis o aparecimento de epizootias nos animais do Exército e vizinhanças das Guarnições.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>Dos Chefes de Divisões</span></span></h2>
+## Dos Chefes de Divisões
 
-<strong>Art</strong>. 22. São atribuições de Chefe de Divisão:
+**Art**. 22. São atribuições de Chefe de Divisão:
 
 I – responsabilizar-se pela fiel execução dos trabalhos afetos à sua Divisão;
 
@@ -674,9 +672,9 @@ V – fiscalizar freqüentemente a escrituração de todos os serviços da Divis
 
 VI – solicitar ao Subdiretor os meios necessários ao bom andamento da Divisão.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>Dos Adjuntos</span></span></h2>
+## Dos Adjuntos
 
-<strong>Art</strong>. 23. Os Adjuntos são auxiliares dos respectivos Chefes.
+**Art**. 23. Os Adjuntos são auxiliares dos respectivos Chefes.
 
 Incumbe-lhes:
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-000448-0-000-14-02-1992@@@
-
 DECRETO N° 448, DE 14 DE FEVEREIRO DE 1992
 
 Regulamenta dispositivos da Lei n° 8.181, de 28 de março de 1991, dispõe sobre a Política Nacional de Turismo e dá outras providências.

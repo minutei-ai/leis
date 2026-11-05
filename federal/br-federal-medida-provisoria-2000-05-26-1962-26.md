@@ -1,5 +1,3 @@
-###MPV-001962-0-026-26-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.962-26, DE 26 DE maio DE 2000.
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

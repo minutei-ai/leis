@@ -1,5 +1,3 @@
-###DEC-068669-0-000-24-05-1971@@@
-
 DECRETO Nº 68.669 - DE 24 DE MAIO DE 1971.
 
 Declara de utilidade pública a Santa Casa de Caridade Machado, com sede em Machado, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208882)<br>
-
 # DECRETO N° 68.142, DE 05 DE DEZEMBRO DE 2023
 
 ### _Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2024 e o percentual de desconto para pagamento integral, e dá outras providências._

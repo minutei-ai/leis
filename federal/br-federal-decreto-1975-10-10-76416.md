@@ -1,5 +1,3 @@
-###DEC-076416-0-000-10-10-1975@@@
-
 DECRETO Nº 76.416, DE 10 DE OUTUBRO DE 1975.
 
 Concede reconhecimento ao curso de Medicina da Fundação Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

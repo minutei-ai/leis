@@ -1,5 +1,3 @@
-###DEC-088432-0-000-21-06-1983@@@
-
 Decreto nº 88.432, de 21 de junho de 1983
 
 Outorga concessão à RÁDIO CULTURA DO GURGUEIA LTDA., para explorar serviço de  radiodifusão sonora em onda média de âmbito regional, na cidade de Bom Jesus, Estado do Piauí.

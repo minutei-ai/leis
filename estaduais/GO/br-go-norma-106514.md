@@ -12,7 +12,8 @@ I – crédito tributário favorecido: o montante obtido pela soma dos valores d
 
 II – crédito não tributário favorecido: o montante obtido pela soma dos valores do débito (principal) reduzido, da multa moratória reduzida, dos juros de mora reduzidos e da atualização monetária reduzida, apurado na data do pagamento à vista ou da primeira parcela.
 
-§ 2º A adesão às medidas facilitadores previstas nesta Lei, quanto a créditos tributários se limitará a 31 de dezembro de 2022.<br>
+§ 2º A adesão às medidas facilitadores previstas nesta Lei, quanto a créditos tributários se limitará a 31 de dezembro de 2022.
+
 \- [Vide Art. 2º da Lei nº 22.001, de 7-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107216/lei-22001).
 
 § 3º A Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos – AGR fica obrigada a enviar notificação da abertura do procedimento de que trata esta Lei em até 72 (setenta e duas) horas após ser sancionada a todas as pessoas físicas e jurídicas com débitos de natureza tributária.
@@ -107,19 +108,20 @@ Art. 12. A [Lei nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legisla
 
 ..........................................................................................................................” (NR)
 
-Art. 13. Esta Lei entra em vigor na data de sua publicação e terá vigência até 31 de dezembro de 2023.<br>
+Art. 13. Esta Lei entra em vigor na data de sua publicação e terá vigência até 31 de dezembro de 2023.
+
 \- [Redação dada pela Lei nº 22.001, de 7-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107216/lei-22001).
 
 ~~Art. 13. Esta Lei entra em vigor na data de sua publicação e terá vigência de 180 (cento e oitenta) dias.~~
 
-§1º ~~Parágrafo único.~~ Para garantir a ampla publicidade das medidas instituídas por esta Lei, a Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos – AGR fica obrigada a divulgá-las por meio do sítio eletrônico da autarquia, comunicação eletrônica via _e-mail_ e chamamento no Diário Oficial do Estado de Goiás.<br>
+§1º ~~Parágrafo único.~~ Para garantir a ampla publicidade das medidas instituídas por esta Lei, a Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos – AGR fica obrigada a divulgá-las por meio do sítio eletrônico da autarquia, comunicação eletrônica via _e-mail_ e chamamento no Diário Oficial do Estado de Goiás.
+
 \- [Constituído § 1º pela Lei nº 21.770, de 04-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106683/lei-21770).
 
-§ 2º O prazo de vigência previsto no _caput_ deste artigo não se aplica ao disposto no art. 12.<br>\- [Acrescido pela Lei nº 21.770, de 04-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106683/lei-21770).
+§ 2º O prazo de vigência previsto no _caput_ deste artigo não se aplica ao disposto no art. 12.
+\- [Acrescido pela Lei nº 21.770, de 04-01-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106683/lei-21770).
 
 Goiânia, 22 de dezembro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

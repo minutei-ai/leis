@@ -1,5 +1,3 @@
-###DEC-049051-0-000-05-10-1960@@@
-
 DECRETO Nº 49.051, DE 5 DE OUTUBRO DE 1960.
 
 Renova o Decreto nº 42.595, de 7 de novembro de 1957.

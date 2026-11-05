@@ -1,5 +1,3 @@
-###DEC-000156-0-000-27-06-1991@@@
-
 DECRETO N° 156, DE 27 DE JUNHO DE 1991
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo Comercial n° 15, no Setor da Indústria Químico-Farmacêutica, entre o Brasil, a Argentina e o México.

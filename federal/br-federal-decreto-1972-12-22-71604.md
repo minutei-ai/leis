@@ -1,5 +1,3 @@
-###DEC-071604-0-000-22-12-1972@@@
-
 DECRETO nº 71.604 - de 22 de dezembro de 1972
 
 Concede reconhecimento à Faculdade de Administração de Empresas do Alto Vale do ITAJAÍ - SC.

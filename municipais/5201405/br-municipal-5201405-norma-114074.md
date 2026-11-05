@@ -276,13 +276,16 @@ Art. 22 Além do disposto neste Regulamento, os servidores fiscais estão sujeit
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 10 de outubro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-ALANNA RITIELLE P. DE ARAÚJO<br>
+ALANNA RITIELLE P. DE ARAÚJO
+
 Secretária de Governo
 
-BRUNO HERNANDEZ A. DE ARAÚJO<br>
+BRUNO HERNANDEZ A. DE ARAÚJO
+
 Secretário de Saúde
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18828)

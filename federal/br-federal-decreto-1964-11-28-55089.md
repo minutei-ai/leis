@@ -1,5 +1,3 @@
-###DEC-055089-0-000-28-11-1964@@@
-
 DECRETO Nº 55.089, DE 28 DE NOVEMBRO DE 1964.
 
 Concede nacionalização à sociedade Standard Brands of Brazil, Inc., sob a nova forma social de Produtos Alimentícios Fleischmann e Royal Ltda.

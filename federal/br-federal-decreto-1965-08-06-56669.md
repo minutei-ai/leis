@@ -1,5 +1,3 @@
-###DEC-056669-0-000-06-08-1965@@@
-
 Decreto nº 56.669, de 6 de agÔsto de 1965.
 
 Outorga à Companhia Agrícola Fibrasil concessão para o aproveitamento de um desnível existente no município de Pilar do Sul, Estado de São Paulo, para uso exclusivo.

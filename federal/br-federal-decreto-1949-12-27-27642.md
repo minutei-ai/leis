@@ -1,20 +1,18 @@
-###DEC-027642-0-000-27-12\-1949@@@
+**DECRETO Nº 27.642, DE 27 DE DEZEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.642, DE 27 DE DEZEMBRO DE 1949.</strong>
+***Revalida, com modificações, o Decreto nº 24.093, de 20 de novembro de 1947, que outorgou concessão à Companhia Industrial Belo Horizonte, sociedade anônima, para o aproveitamento da energia hidráulica de um desnível existente no ribeirão Riacho, no distrito de Riacho Fundo, município de Jaboticatubas, Estado de Minas Gerais.***
 
-<em><strong>Revalida, com modificações, o Decreto nº 24.093, de 20 de novembro de 1947, que outorgou concessão à Companhia Industrial Belo Horizonte, sociedade anônima, para o aproveitamento da energia hidráulica de um desnível existente no ribeirão Riacho, no distrito de Riacho Fundo, município de Jaboticatubas, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuição que lhe confere artigo 87, inciso I, da Constituição, e tendo em vista o parecer do Conselho Nacional de Águas e Energia Elétrica,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuição que lhe confere artigo 87, inciso I, da Constituição, e tendo em vista o parecer do Conselho Nacional de Águas e Energia Elétrica,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica revalido o Decreto nº 24.093, de 20 de novembro de 1947, modificado pelo Decreto número 26.598, de 19 de abril de 1949, que outorgou concessão à Companhia Industrial Belo Horizonte, sociedade anônima, para o aproveitamento da energia hidráulica de um desnível existente no Riacho Fundo, município de Jaboticatubas, Estado de Minas Gerais.
+**Art**. 1º Fica revalido o Decreto nº 24.093, de 20 de novembro de 1947, modificado pelo Decreto número 26.598, de 19 de abril de 1949, que outorgou concessão à Companhia Industrial Belo Horizonte, sociedade anônima, para o aproveitamento da energia hidráulica de um desnível existente no Riacho Fundo, município de Jaboticatubas, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga da derivação e a potência.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviço público, de utilidade pública e para comércio de energia no município de Pedro Leopoldo, Estado de Minas Gerais.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declamatório, se a concessionária não satisfazer as a condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declamatório, se a concessionária não satisfazer as a condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Ministério da Agricultura dentro dee trinta (30) dias, contados da data de sua publicação.
 
@@ -100,30 +98,30 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º - A concessionária fica obrigada a concluir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias à observações fluviometricas e medições de descargas do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º - A concessionária fica obrigada a concluir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias à observações fluviometricas e medições de descargas do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º Capital a remunerar será o efetivamente invertido nas instalações da concessionária, em função da indústria, concorrendo, de forma permanente, para a produção, elétrica.
+**Art**. 4º Capital a remunerar será o efetivamente invertido nas instalações da concessionária, em função da indústria, concorrendo, de forma permanente, para a produção, elétrica.
 
-<strong>Art</strong>. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trivialmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trivialmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital a que se refere o art. 4º , será criado um fundo de reserva que proverá às renovação ou impostas por acidentes.
+**Art**. 6º Para a manutenção da integridade do capital a que se refere o art. 4º , será criado um fundo de reserva que proverá às renovação ou impostas por acidentes.
 
 Parágrafo Índico. - A constituição dêsse fundo que se denominará reserva de renovação, será realizada por quota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Esta quota será determinada do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trivialmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterão ao Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante a indenização, na base do custo histórico, do capital não amortizado, deduzidas a reserva de renovação a que se refere o parágrafo único do art.6º.
+**Art**. 7º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterão ao Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante a indenização, na base do custo histórico, do capital não amortizado, deduzidas a reserva de renovação a que se refere o parágrafo único do art.6º.
 
 § 1º - A concessionária poderá requerer ao Governo Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado de Minas Gerais não se opõe à utilização dos bens da reversão.
 
 § 2º - A concessionária deverá entrar com pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, atendendo-se, o não fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 8º A presente concessão vigorara pelo prazo de cinqüenta (50) anos, contando dá data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 8º A presente concessão vigorara pelo prazo de cinqüenta (50) anos, contando dá data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 9º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 9º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 10.º Revogam-se as disposições em contrário.
+**Art**. 10.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 27 de dezembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DULTRA</strong>
+**EURICO G. DULTRA**
 
 Daniel de Carvalho

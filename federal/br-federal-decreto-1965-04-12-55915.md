@@ -1,5 +1,3 @@
-###DEC-055915-0-000-12-04-1965@@@
-
 decreto nº 55.915, de 12 de abril de 1965.
 
 Declara de utilidade pública a Associação das Irmãs Missionárias Zeladoras do Sagrado Coração de Jesus, com sede em São Paulo, Estado de São Paulo.
@@ -15,8 +13,6 @@ Brasília, 12 de abril de 1965; 144º da Independência e 77º da República.
 h. castello Branco
 
 Milton Campos
-
-###DEC-055915-0-000-12-04-1965@@@RET01+++
 
 DECRETO Nº 55.915, DE 12 DE ABRIL DE 1965
 

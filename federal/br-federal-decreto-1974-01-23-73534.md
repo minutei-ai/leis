@@ -1,5 +1,3 @@
-###DEC-073534-0-000-23-01-1974@@@
-
 DECRETO Nº 73.534 DE 23 DE JANEIRO DE 1974.
 
 Concede reconhecimento à Faculdades de Direito de Cruz Alta, mantida pela Associação de Professores de Cruz Alta, com sede na cidade de Cruz Alta, Estado do Rio Grande do Sul.

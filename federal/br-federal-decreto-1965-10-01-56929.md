@@ -1,5 +1,3 @@
-###DEC-056929-0-000-01-10-1965@@@
-
 DECRETO Nº 56.929, DE 1º de OUTUBRO de 1965.
 
 Autoriza o cidadão brasileiro Décio Vendramel a pesquisar galena no Município de Iporanga, Estado de São Paulo.

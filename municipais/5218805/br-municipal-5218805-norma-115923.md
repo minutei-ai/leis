@@ -96,7 +96,35 @@ VI - os fundos de vale e cursos d’água que estejam na área do loteamento em 
 
 ~~VII - Os projetos das vias de circulação de loteamento deverão obedecer às dimensões mínimas estabelecidas na tabela abaixo:~~
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><s>Extensão</s></td><td style="text-align:center"><s>Largura total(metros)</s></td><td style="text-align:center"><s>Passeio esq.(metros)</s></td><td style="text-align:center"><s>Pista (metros)</s></td><td style="text-align:center"><s>Passeio dir.(metros)</s></td></tr><tr><td style="text-align:center"><s>50 m a 800 m</s></td><td style="text-align:center"><s>12,00</s></td><td style="text-align:center"><s>2,00</s></td><td style="text-align:center"><s>8,00</s></td><td style="text-align:center"><s>2,00</s></td></tr><tr><td style="text-align:center"><s>&gt;800 m</s></td><td style="text-align:center"><s>15,00</s></td><td style="text-align:center"><s>2,50</s></td><td style="text-align:center"><s>10,00</s></td><td style="text-align:center"><s>2,50</s></td></tr></tbody></table>
+~~Extensão~~
+
+~~Largura total(metros)~~
+
+~~Passeio esq.(metros)~~
+
+~~Pista (metros)~~
+
+~~Passeio dir.(metros)~~
+
+~~50 m a 800 m~~
+
+~~12,00~~
+
+~~2,00~~
+
+~~8,00~~
+
+~~2,00~~
+
+~~&gt;800 m~~
+
+~~15,00~~
+
+~~2,50~~
+
+~~10,00~~
+
+~~2,50~~
 
 VII - Os projetos das vias de circulação de loteamento deverão obedecer às dimensões mínimas estabelecidas na tabela abaixo:
 
@@ -106,25 +134,93 @@ VII - Os projetos das vias de circulação de loteamento deverão obedecer às d
 
 (Redação dada pela Lei Complementar n. 361, de 26 de agosto de 2024)
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Largura total (metros)</td><td style="text-align:center">Passeio esq. (metros)</td><td style="text-align:center">Pista (metros)</td><td style="text-align:center">Passeio dir. (metros)</td></tr><tr><td style="text-align:center">13,00</td><td style="text-align:center">2,50</td><td style="text-align:center">8,00</td><td style="text-align:center">2,50</td></tr></tbody></table>
+Largura total (metros)
+
+Passeio esq. (metros)
+
+Pista (metros)
+
+Passeio dir. (metros)
+
+13,00
+
+2,50
+
+8,00
+
+2,50
 
 ~~1\. Ruas~~
 
 ~~(Inserida pela Lei Complementar n. 200, de 30 de março de 2021)~~
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><s>Largura total (metros)</s></td><td style="text-align:center"><s>Passeio esq. (metros)</s></td><td style="text-align:center"><s>Pista (metros)</s></td><td style="text-align:center"><s>Passeio dir. (metros)</s></td></tr><tr><td style="text-align:center"><s>14,00</s></td><td style="text-align:center"><s>3,00</s></td><td style="text-align:center"><s>8,00</s></td><td style="text-align:center"><s>3,00</s></td></tr></tbody></table>
+~~Largura total (metros)~~
+
+~~Passeio esq. (metros)~~
+
+~~Pista (metros)~~
+
+~~Passeio dir. (metros)~~
+
+~~14,00~~
+
+~~3,00~~
+
+~~8,00~~
+
+~~3,00~~
 
 2\. Avenidas
 
 (Redação dada pela Lei Complementar n. 361, de 26 de agosto de 2024)
 
-<table><thead></thead><tbody><tr><td style="text-align: center;">Largura total (metros)</td><td style="text-align: center;">Passeio esq. (metros)</td><td style="text-align: center;">Pista dir. (metros)</td><td style="text-align: center;">Pista esq. (metros)</td><td style="text-align: center;">Canteiro central (metros)</td><td style="text-align: center;">Passeio dir. (metros)</td></tr><tr><td style="text-align: center;">28,50</td><td style="text-align: center;">3,00</td><td style="text-align: center;">10,00</td><td style="text-align: center;">10,00</td><td style="text-align: center;">2,50</td><td style="text-align: center;">3,00</td></tr></tbody></table>
+Largura total (metros)
+
+Passeio esq. (metros)
+
+Pista dir. (metros)
+
+Pista esq. (metros)
+
+Canteiro central (metros)
+
+Passeio dir. (metros)
+
+28,50
+
+3,00
+
+10,00
+
+10,00
+
+2,50
+
+3,00
 
 ~~2\. Avenidas~~
 
 ~~(Inserida pela Lei Complementar n. 200, de 30 de março de 2021)~~
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><s>Largura total (metros)</s></td><td style="text-align:center"><s>Passeio esq. (metros)</s></td><td style="text-align:center"><s>Pistas (metros)</s></td><td style="text-align:center"><s>Canteiro central (metros)</s></td><td style="text-align:center"><s>Passeio dir. (metros)</s></td></tr><tr><td style="text-align:center"><s>28,50</s></td><td style="text-align:center"><s>6,50</s></td><td style="text-align:center"><s>8,50</s></td><td style="text-align:center"><s>2,00</s></td><td style="text-align:center"><s>3,00</s></td></tr></tbody></table>
+~~Largura total (metros)~~
+
+~~Passeio esq. (metros)~~
+
+~~Pistas (metros)~~
+
+~~Canteiro central (metros)~~
+
+~~Passeio dir. (metros)~~
+
+~~28,50~~
+
+~~6,50~~
+
+~~8,50~~
+
+~~2,00~~
+
+~~3,00~~
 
 VIII - as vias de circulação quando destinadas exclusivamente a pedestres, deverão ter largura mínima de (cinco metros);
 
@@ -362,7 +458,35 @@ III - os projetos das vias de circulação do conjunto residencial fechado dever
 
 ~~b) a via particular de circulação de veículos deverá ter largura mínima de (sete metros) de via e (um metro e cinquenta centímetros) de calçada.~~
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Extensão</td><td style="text-align:center">Largura total (metros)</td><td style="text-align:center">Passeio esq.(metros)</td><td style="text-align:center">Pista (metros)</td><td style="text-align:center">Passeio dir.(metros)</td></tr><tr><td style="text-align:center">50 m a 800 m</td><td style="text-align:center">12,00</td><td style="text-align:center">2,00</td><td style="text-align:center">8,00</td><td style="text-align:center">2,00</td></tr><tr><td style="text-align:center">&gt;800 m</td><td style="text-align:center">15,00</td><td style="text-align:center">2,50</td><td style="text-align:center">10,00</td><td style="text-align:center">2,50</td></tr></tbody></table>
+Extensão
+
+Largura total (metros)
+
+Passeio esq.(metros)
+
+Pista (metros)
+
+Passeio dir.(metros)
+
+50 m a 800 m
+
+12,00
+
+2,00
+
+8,00
+
+2,00
+
+&gt;800 m
+
+15,00
+
+2,50
+
+10,00
+
+2,50
 
 (Inserida pela Lei Complementar n. 185, de 03 de junho de 2020)
 

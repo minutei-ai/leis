@@ -1,5 +1,3 @@
-###DEC-052371-0-000-19-08-1963@@@
-
 DECRETO Nº 52.371, DE 19 DE AGÔSTO DE 1963.
 
 Complementa o artigo 26 do Regulamento Orgânico do Ministério das Relações Exteriores, criando no Departamento de Administração da Secretária de Estado das Relações Exteriores, a Divisão de Organização.

@@ -1,5 +1,3 @@
-###DEL-003836-0-000-18-11-1941@@@
-
 DECRETO-LEI N. 3.836 – DE 18 DE NOVEMBRO DE 1941
 
 Cria no Ministério da Aeronáutica o Quadro de Oficiais Aviadores do Corpo de Oficiais de Aeronáutica

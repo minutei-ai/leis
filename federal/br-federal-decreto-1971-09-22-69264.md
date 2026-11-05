@@ -1,5 +1,3 @@
-###DEC-069264-0-000-22-09-1971@@@
-
 DECRETO Nº 69.264, DE 22 DE SETEMBRO DE 1971.
 
 Retifica os Decretos números 51.340, de 28 de outubro de 1961, e 65.481, de 21 de outubro de 1969, que dispõem sobre o enquadramento do Hospital dos Servidores do Estado - HSE, do Instituto de Previdência e Assistência dos Servidores do Estado.

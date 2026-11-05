@@ -1,5 +1,3 @@
-###DEC-054926-0-000-04-11-1964@@@
-
 DECRETO Nº 54.926, DE 4 DE NOVEMBRO DE 1964.
 
 Concede à Companhia Mineração do Cajati autorização para funcionar como emprêsa de mineração.

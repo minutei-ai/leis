@@ -1,7 +1,3 @@
-1
-
-###DEC-098893-0-000-29-01-1990@@@
-
 DECRETO Nº 98.893, DE 29 DE JANEIRO DE 1990
 
 Dispõe sobre a tabela de Pessoal do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis IBAMA, e dá outras providências.

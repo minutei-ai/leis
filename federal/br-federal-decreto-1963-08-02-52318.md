@@ -1,5 +1,3 @@
-###DEC-052318-0-000-02-08-1963@@@
-
 DECRETO Nº 52.318, DE 2 DE AGôSTO DE 1963.
 
 Concede à Cal Jaraguá Indústria e Comércio Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-083413-0-000-04-05-1979@@@
-
 Decreto nº 83.413, de 04 de maio de 1979
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Francisco Duarte pelo Decreto nº  54.901, de 04 de novembro de 1964.

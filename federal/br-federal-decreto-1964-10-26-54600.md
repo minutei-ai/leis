@@ -1,5 +1,3 @@
-###DEC-054600-0-000-26-10-1964@@@
-
 DECRETO Nº 54.600, de 26 de outubro de 1964.
 
 Renova a autorização contida no decreto nº 48.574, de 22 de julho de 1960.

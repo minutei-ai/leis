@@ -168,33 +168,330 @@ Guido Mantega
 
 Paulo Bernardo Silva
 
-<br>
 ANEXO I
 
 Ações a serem desvinculadas do FND e disponibilizadas para capitalização no FGCN.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:146.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>EMPRESAS</span></p></td><td style="width:144.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>AÇÕES/ ESPÉCIE/ CLASSE</span></p></td><td style="width:149pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>QUANTIDADE</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>BANCO DO BRASIL</span></p></td><td style="width:144.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>30.000.000</span></p></td></tr></tbody></table>
+EMPRESAS
+
+AÇÕES/ ESPÉCIE/ CLASSE
+
+QUANTIDADE
+
+BANCO DO BRASIL
+
+ON
+
+30.000.000
 
 ANEXO II
 
 Ações a serem desvinculadas do FAD e disponibilizadas para capitalização no FGCN.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:146.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>EMPRESAS</span></p></td><td style="width:144.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>AÇÕES/ ESPÉCIE/ CLASSE</span></p></td><td style="width:149pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>QUANTIDADE</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>TELEMAR NORTE LESTE</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PNA</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>120</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>TIM</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>343</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>1.886</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>VIVO</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>103</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:144.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>121</span></p></td></tr></tbody></table>
+EMPRESAS
+
+AÇÕES/ ESPÉCIE/ CLASSE
+
+QUANTIDADE
+
+TELEMAR NORTE LESTE
+
+PNA
+
+120
+
+TIM
+
+ON
+
+343
+
+PN
+
+1.886
+
+VIVO
+
+ON
+
+103
+
+PN
+
+121
 
 ANEXO III
 
 Ações reservadas ao FGP disponibilizadas para capitalização no FGCN
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:146.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>EMPRESAS</span></p></td><td style="width:144.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>AÇÕES/ ESPÉCIE/ CLASSE</span></p></td><td style="width:149pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>QUANTIDADE</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>BANCO DO BRASIL</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>15.000.000</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>CELPE</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>38.267</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PNA</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>122.911</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>COELBA</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>140.042</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>COMGÁS</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>72.315</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>VALE</span></p></td><td style="width:144.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>56.712</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>M&amp;G POLIÉSTER</span></p></td><td style="width:144.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>336.285</span></p></td></tr></tbody></table>
+EMPRESAS
+
+AÇÕES/ ESPÉCIE/ CLASSE
+
+QUANTIDADE
+
+BANCO DO BRASIL
+
+ON
+
+15.000.000
+
+CELPE
+
+ON
+
+38.267
+
+PNA
+
+122.911
+
+COELBA
+
+ON
+
+140.042
+
+COMGÁS
+
+ON
+
+72.315
+
+VALE
+
+ON
+
+56.712
+
+M&amp;G POLIÉSTER
+
+ON
+
+336.285
 
 ANEXO IV
 
 Ações livres disponibilizadas para capitalização no FGCN
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:151.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>EMPRESAS</span></p></td><td style="width:141.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>AÇÕES/ ESPÉCIE/ CLASSE</span></p></td><td style="width:146.9pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>QUANTIDADE</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>AFLUENTE</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>14.538</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>BANESE</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>226</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>BRASIL TELECOM</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>1.562</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>12.973</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>CEEE-D</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>193</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>302</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>CEEE-GT</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>193</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>302</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>CEMAR</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>53.667</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>COELBA</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>5.339</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>CONTAX</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>101</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>10</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>COPASA</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>172</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>COPEL</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PNA</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>2.428</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>COSERN</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>65.387</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PNA</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>12.418</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PNB</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>12.885</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>EMBRATEL</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>3.910.001</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>2.970.719</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PARANAPANEMA</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>43.556</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>QGN</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>7.961.380</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>RANDON</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>2.520</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>SANTANDER</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>433.357</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>TELEMAR NORTE LESTE</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>69</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PNA</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>1.181</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>TELE NORTE CELULAR</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>12</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>22</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>TELE NORTE LESTE</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>2.023</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>211</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>TELESP</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>651</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>1.204</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>TIM</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>4.579</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>60.179</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>TRACTEBEL</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>356</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>VICUNHA TÊXTIL</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PNA</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>258</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PNB</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>1.023</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>VIVO</span></p></td><td style="width:141.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>546</span></p></td></tr><tr><td style="width:151.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:141.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>PN</span></p></td><td style="width:146.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>7.132</span></p></td></tr></tbody></table>
+EMPRESAS
+
+AÇÕES/ ESPÉCIE/ CLASSE
+
+QUANTIDADE
+
+AFLUENTE
+
+ON
+
+14.538
+
+BANESE
+
+ON
+
+226
+
+BRASIL TELECOM
+
+ON
+
+1.562
+
+PN
+
+12.973
+
+CEEE-D
+
+ON
+
+193
+
+PN
+
+302
+
+CEEE-GT
+
+ON
+
+193
+
+PN
+
+302
+
+CEMAR
+
+ON
+
+53.667
+
+COELBA
+
+ON
+
+5.339
+
+CONTAX
+
+ON
+
+101
+
+PN
+
+10
+
+COPASA
+
+ON
+
+172
+
+COPEL
+
+PNA
+
+2.428
+
+COSERN
+
+ON
+
+65.387
+
+PNA
+
+12.418
+
+PNB
+
+12.885
+
+EMBRATEL
+
+ON
+
+3.910.001
+
+PN
+
+2.970.719
+
+PARANAPANEMA
+
+ON
+
+43.556
+
+QGN
+
+PN
+
+7.961.380
+
+RANDON
+
+ON
+
+2.520
+
+SANTANDER
+
+PN
+
+433.357
+
+TELEMAR NORTE LESTE
+
+ON
+
+69
+
+PNA
+
+1.181
+
+TELE NORTE CELULAR
+
+ON
+
+12
+
+PN
+
+22
+
+TELE NORTE LESTE
+
+ON
+
+2.023
+
+PN
+
+211
+
+TELESP
+
+ON
+
+651
+
+PN
+
+1.204
+
+TIM
+
+ON
+
+4.579
+
+PN
+
+60.179
+
+TRACTEBEL
+
+ON
+
+356
+
+VICUNHA TÊXTIL
+
+PNA
+
+258
+
+PNB
+
+1.023
+
+VIVO
+
+ON
+
+546
+
+PN
+
+7.132
 
 ANEXO V
 
 Ações a serem desvinculadas do FND que permanecem na titularidade do Tesouro Nacional
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:146.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>EMPRESAS</span></p></td><td style="width:144.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>AÇÕES/ ESPÉCIE/ CLASSE</span></p></td><td style="width:149pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>QUANTIDADE</span></p></td></tr><tr><td style="width:146.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>BANCO DO BRASIL</span></p></td><td style="width:144.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>ON</span></p></td><td style="width:149pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="margin-bottom:0pt; text-align:justify; widows:0; orphans:0; font-size:10pt"><span>30.000.000</span></p></td></tr></tbody></table>
+EMPRESAS
+
+AÇÕES/ ESPÉCIE/ CLASSE
+
+QUANTIDADE
+
+BANCO DO BRASIL
+
+ON
+
+30.000.000

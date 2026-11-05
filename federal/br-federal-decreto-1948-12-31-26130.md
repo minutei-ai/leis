@@ -1,14 +1,12 @@
-###DEC-026130-0-000-31-12-1948@@@
+**DECRETO Nº 25.914, DE 2 DE DEZEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.914, DE 2 DE DEZEMBRO DE 1948.</strong>
+***Altera a lotação do Ministério da Justiça e Negócios Interiores.***
 
-<em><strong>Altera a lotação do Ministério da Justiça e Negócios Interiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º O Gabinete do Consultor Jurídico do Ministério da Justiça e Negócios Interiores, terá a seguinte lotação:
+**Art**. 1.º O Gabinete do Consultor Jurídico do Ministério da Justiça e Negócios Interiores, terá a seguinte lotação:
 
 LOTAÇÃO PERMANENTE
 
@@ -30,7 +28,7 @@ Cargo de carreira
 
 1 Contínuo.
 
-<strong>Art</strong>. 2.º Ficam reduzidas na forma abaixo discriminadas as lotações dos seguintes órgãos
+**Art**. 2.º Ficam reduzidas na forma abaixo discriminadas as lotações dos seguintes órgãos
 
 GABINETE DO MINISTRO
 
@@ -48,10 +46,10 @@ DIVISÃO DO MATERIAL DO DEPARTAMENTO DE ADMINISTRAÇÃO
 
 1 Contínuo (Suplementar).
 
-<strong>Art</strong>. 3.º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário
+**Art**. 3.º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário
 
 Rio de Janeiro, 31 de dezembro de 1948; 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adroaldo Mesquita da Costa

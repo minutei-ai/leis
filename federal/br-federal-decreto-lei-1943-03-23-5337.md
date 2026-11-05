@@ -1,5 +1,3 @@
-###DEL-005337-0-000-23-03-1943@@@
-
 DECRETO‑LEI N. 5.337 – DE 23 DE MARÇO DE 1943
 
 Prorroga o prazo previsto no art 3º do decreto‑lei n. 5.219, de 22 de janeiro de 1943

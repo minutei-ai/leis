@@ -1,7 +1,3 @@
-1
-
-###DEC-097896-0-000-03-07-1989@@@
-
 DECRETO N° 97.896, DE 3 DE JULHO DE 1989
 
 Abre ao Ministério do Interior, em favor da Superintendência do Desenvolvimento do Nordeste, o crédito suplementar de NCz$ 432.000,00, para reforço de dotação consignada no vigente Orçamento.

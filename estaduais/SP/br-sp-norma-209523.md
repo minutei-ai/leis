@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209523)<br>
 [Texto com alterações](https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68577-05.06.2024.html)
 
 # DECRETO N° 68.577, DE 05 DE JUNHO DE 2024

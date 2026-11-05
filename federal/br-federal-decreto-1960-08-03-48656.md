@@ -1,5 +1,3 @@
-###DEC-048656-0-000-03-08-1960@@@
-
 DECRETO Nº 48.656, DE 3 DE AGÔSTO DE 1960.
 
 Regulamenta o disposto nos arts. 8º e 9º da Lei nº 3.756, de 20 de abril de 1960.

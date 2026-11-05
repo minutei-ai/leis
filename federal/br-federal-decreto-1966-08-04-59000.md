@@ -1,5 +1,3 @@
-###DEC-059000-0-000-04-08-1966@@@
-
 DECRETO Nº 59.000, DE 4 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Silvestre Duarte a pesquisar minério de manganês no Município de Entre Rios de Minas, Estado de Minas Gerais.

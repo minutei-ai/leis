@@ -1,5 +1,3 @@
-###DEC-070176-0-000-21-02-1972@@@
-
 DECRETO Nº 70.176, DE 21 DE FEVEREIRO DE 1972.
 
 Autoriza a transferência para o patrimônio da Empresa Brasileira de Aeronáutica S. A. - EMBRAER, do imóvel que menciona, situado em São José dos Campos, no Estado de São Paulo.

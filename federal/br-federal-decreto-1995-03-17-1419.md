@@ -1,7 +1,3 @@
-1
-
-###DEC-001419-0-000-17-03-1995@@@
-
 DECRETO Nº 1.419, DE 17 DE MARÇO DE 1995
 
 Cria o Conselho Coordenador das Ações Federais no Estado do Rio de Janeiro e dá outras providências.
@@ -81,8 +77,6 @@ Brasília, 17 de março de 1995; 174º da Independência e 107º da República.
 FERNANDO HENRIQUE CARDOSO
 
 José Serra
-
-###DEC-001419-0-000-17-03-1995@@@RET01+++
 
 # DECRETO Nº 1.419, DE 17 DE MARÇO DE 1995
 

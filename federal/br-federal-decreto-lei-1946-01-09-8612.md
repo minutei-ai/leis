@@ -1,5 +1,3 @@
-###DEL-008612-0-000-09-01-1946@@@
-
 DECRETO-LEI N. 8.612 – DE 9 DE JANEIRO DE 1946
 
 Cria cinco cargos isolados, de provimento efetivo, de Professor catedrático da Faculdade Nacional de Farmácia da Universidade do Brasil.

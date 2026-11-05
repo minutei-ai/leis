@@ -1,5 +1,3 @@
-###DEC-048282-0-000-09-06-1960@@@
-
 DECRETO Nº 48.282, DE 9 DE JUNHO DE 1960.
 
 Concede autorização à Sociedade Cooperativa de Crédito Popular União Brasileira, com sede na cidade de São Paulo, para modificar seu estatuto social.

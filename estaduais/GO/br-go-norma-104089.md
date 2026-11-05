@@ -40,8 +40,6 @@ Parágrafo único. Esta Lei não se aplica aos exames vestibulares e concursos p
 
 Goiânia, 22 de junho de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

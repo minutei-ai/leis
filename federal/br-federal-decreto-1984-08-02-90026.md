@@ -1,5 +1,3 @@
-###DEC-090026-0-000-02-08-1984@@@
-
 DECRETO Nº 90.026, de 02 de agosto de 1984
 
 Renova a concessão outorgada à RÁDIO LIBERDADE DE SERGIPE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Aracaju, Estado de Sergipe.

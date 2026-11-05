@@ -1,5 +1,3 @@
-###DEL-008025-0-000-02-10-1945@@@
-
 DECRETO-LEI N. 8.025 – DE 2 DE OUTUBRO DE 1945
 
 Cria cargos de Conselheiro Comercial no Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060994-0-000-12-07-1967@@@
-
 DECRETO Nº 60.994, DE 12 DE JULHO DE 1967.
 
 Dispõe sôbre aplicação dos atos do Poder Executivo que protejam e regulem o transporte marítimo de mercadorias de e para portos brasileiros.

@@ -1,5 +1,3 @@
-###DEC-092490-0-000-24-03-1986@@@
-
 DECRETO Nº 92.490, DE 24 DE MARÇO DE 1986
 
 Altera dispositivos do estatuto da Empresa Brasileira de Filmes S.A. - EMBRAFILME.

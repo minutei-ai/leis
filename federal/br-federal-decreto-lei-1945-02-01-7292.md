@@ -1,5 +1,3 @@
-###DEL-007292-0-000-01-02-1945@@@
-
 DECRETO-LEI N. 7.292 – DE 1 DE FEVEREIRO DE 1945
 
 Concede pensão especial à mãe viúva de um suboficial da Armada

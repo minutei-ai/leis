@@ -1,5 +1,3 @@
-###DEC-003964-0-000-10-10-2001@@@
-
 DECRETO Nº 3.964, DE 10 DE OUTUBRO DE 2001
 
 Dispõe sobre o Fundo Nacional de Saúde e dá outras providências.

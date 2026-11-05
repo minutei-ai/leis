@@ -1,7 +1,3 @@
-1
-
-###DEC-095767-0-000-02-03-1988@@@
-
 DECRETO N° 95.767, DE 2 MARÇO DE 1988
 
 Autoriza a doação do imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEC-047239-0-000-16-11-1959@@@
-
 DECRETO Nº 47.239, DE 16 DE NOVEMBRO DE 1959.
 
 Autoriza a São Paulo Light S.A.- Serviços de Eletricidade a construir um ramal de linha de transmissão.

@@ -1,52 +1,50 @@
-###DEC-050343-0-000-15-03-1961@@@
+**DECRETO Nº 50.343, DE 15 DE MARÇO DE 1961.**
 
-<strong>DECRETO Nº 50.343, DE 15 DE MARÇO DE 1961.</strong>
+***Aprova o estatuto da universidade do Rio de Janeiro.***
 
-<em><strong>Aprova o estatuto da universidade do Rio de Janeiro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Estatuto da Universidade do Rio de Janeiro, que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
 
-<strong>Art</strong>. 1º Fica aprovado o Estatuto da Universidade do Rio de Janeiro, que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Brasília, em 15 de março de 1961; 140º da Independência e 73º da república.
 
-<strong>JÂNIO QUADROS</strong>
+**JÂNIO QUADROS**
 
 Brígido Tinoco
 
-<strong>ESTATUTO DA UNIVERSIDADE DO RIO DE JANEIRO</strong>
+**ESTATUTO DA UNIVERSIDADE DO RIO DE JANEIRO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>DISPOSIÇÕES PRELIMINARES</em>
+*DISPOSIÇÕES PRELIMINARES*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Instituição</em>
+*Da Instituição*
 
-<strong>Art</strong>. 1º A Universidade do Rio de Janeiro (U.R.J.), restabelecida pela Lei Municipal nº 547, de 4 de dezembro de 1950, e reconhecida pelo Govêrno Federal, nos têrmos do Decreto nº 32.886, de 28 de maio de 1953, é pessoa jurídica, definida de acôrdo com a legislação a que estão sujeitas as instituições brasileiras congêneres de ensino superior, gozando de autonomia administrativa, financeira, didática e disciplinar.
+**Art**. 1º A Universidade do Rio de Janeiro (U.R.J.), restabelecida pela Lei Municipal nº 547, de 4 de dezembro de 1950, e reconhecida pelo Govêrno Federal, nos têrmos do Decreto nº 32.886, de 28 de maio de 1953, é pessoa jurídica, definida de acôrdo com a legislação a que estão sujeitas as instituições brasileiras congêneres de ensino superior, gozando de autonomia administrativa, financeira, didática e disciplinar.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Sede e do Fôro</em>
+*Da Sede e do Fôro*
 
-<strong>Art</strong>. 2º A U. R. J. tem, como sede e fôro, a cidade do Rio de Janeiro.
+**Art**. 2º A U. R. J. tem, como sede e fôro, a cidade do Rio de Janeiro.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Duração</em>
+*Da Duração*
 
-<strong>Art</strong>. 3º A U.R.J. durará por tempo indeterminado.
+**Art**. 3º A U.R.J. durará por tempo indeterminado.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Finalidades</em>
+*Das Finalidades*
 
-<strong>Art</strong>. 4º A U.R.J., como instituição destinada à educação, ao ensino e à pesquisa, tem por finalidade:
+**Art**. 4º A U.R.J., como instituição destinada à educação, ao ensino e à pesquisa, tem por finalidade:
 
 a) contribuir para a ampliação, a intensificação e a difusão dos conhecimentos humanos;
 
@@ -56,11 +54,11 @@ c) formar e aperfeiçoar profissionais para o exercício de atividades que deman
 
 d) desenvolver o espírito universitário.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Composição</em>
+*Da Composição*
 
-<strong>Art</strong>. 5º A U.R.J. é constituída pelos seguintes estabelecimentos de ensino superior:
+**Art**. 5º A U.R.J. é constituída pelos seguintes estabelecimentos de ensino superior:
 
 I - Faculdade de Direito;
 
@@ -86,21 +84,21 @@ III - Instituto de Física, bem como outros que venham a ser criados na forma do
 
 § 5º O Diretor de cada Instituto ou instituição técnico-científica será designado pelo Reitor, mediante lista tríplice de nomes organizada pelo Conselho Universitário, com mandato de três anos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Dos Símbolos</em>
+*Dos Símbolos*
 
-<strong>Art</strong>. 6º A U.R.J. possuirá símbolos e escudo, que serão aprovados e reconhecidos por ato do Conselho Universitário.
+**Art**. 6º A U.R.J. possuirá símbolos e escudo, que serão aprovados e reconhecidos por ato do Conselho Universitário.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DOS ÓRGÃSO SUPERIORES</em>
+*DOS ÓRGÃSO SUPERIORES*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Discriminação</em>
+*Da Discriminação*
 
-<strong>Art</strong>. 7º São órgãos superiores da U.R.J.
+**Art**. 7º São órgãos superiores da U.R.J.
 
 I) a Reitoria;
 
@@ -110,11 +108,11 @@ III) o Conselho de Curadores; e
 
 IV) a Assembléia Universitária.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Reitoria</em>
+*Da Reitoria*
 
-<strong>Art</strong>. 8º A Reitoria, representada na pessoa do Reitor, é órgão executivo central da universidade, cabendo-lhe a direção administrativa e o exercício das funções que lhe são inerentes na U.R.J.
+**Art**. 8º A Reitoria, representada na pessoa do Reitor, é órgão executivo central da universidade, cabendo-lhe a direção administrativa e o exercício das funções que lhe são inerentes na U.R.J.
 
 § 1º O Reitor exercerá mandato por três anos e será um dos professôres catedráticos, de nacionalidade brasileira, pertencente à Congregação de qualquer dos estabelecimentos da U.R.J.
 
@@ -150,7 +148,7 @@ XIII) nomear e contratar professôres para os cursos a cargo da Reitoria;
 
 XIV) designar os Diretores das unidades universitárias, nos têrmos da lei e dêste Estatuto, e empossá-los, bem como dar posse aos professôres catedráticos dos mesmos estabelecimentos;
 
-XV) submeter, até 30 de novembro à aprovação do Conselho de Curadores, o orçamento da U.R.J. para o exercício financeiro imediato, organizado pelo Conselho Universitário, e determinar sua publicação no <em>Diário Estadual</em>, depois de aprovado.
+XV) submeter, até 30 de novembro à aprovação do Conselho de Curadores, o orçamento da U.R.J. para o exercício financeiro imediato, organizado pelo Conselho Universitário, e determinar sua publicação no *Diário Estadual*, depois de aprovado.
 
 XVI) submeter, com sua assinatura e a do contador responsável, à aprovação do Conselho de Curadores, dentro do primeiro trimestre de cada exercício financeiro, o balanço e a conta de lucros e perdas do exercício anterior, juntamente com o relatório geral da Administração da U.R.J., correspondente ao mesmo período;
 
@@ -166,7 +164,7 @@ XIX) exercer quaisquer outras atribuições inerentes à administração da U.R.
 
 § 6º O Reitor terá direito de voto no Conselho de Curadores.
 
-<strong>Art</strong>. 9º O Reitor será substituído, nos seus impedimentos ou no caso de vacância do cargo, pelo Vice-Presidente do Conselho Universitário. Nessa última hipótese, a interinidade perdurará enquanto não se proceder à nomeação do seu sucessor.
+**Art**. 9º O Reitor será substituído, nos seus impedimentos ou no caso de vacância do cargo, pelo Vice-Presidente do Conselho Universitário. Nessa última hipótese, a interinidade perdurará enquanto não se proceder à nomeação do seu sucessor.
 
 § 1º O Vice-Presidente do Conselho Universitário, ao assumir a Reitoria em caráter interino, dará disso conhecimento ao Governador do Estado da Guanabara e aos demais órgãos superiores da U.R.J., e, em caso de vacância, promoverá, dentro de trinta dias, a organização da lista tríplice a que se refere o § 2º do art. 8º, para efeito de provimento definitivo do cargo.
 
@@ -174,11 +172,11 @@ XIX) exercer quaisquer outras atribuições inerentes à administração da U.R.
 
 § 3º O Vice-Presidente do Conselho Universitário não poderá provir da Congregação a que pertencer o Reitor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Conselho Universitário</em>
+*Do Conselho Universitário*
 
-<strong>Art</strong>. 10. O Conselho Universitário é órgão da jurisdição superior consultivo e deliberativo da U.R.J.
+**Art**. 10. O Conselho Universitário é órgão da jurisdição superior consultivo e deliberativo da U.R.J.
 
 § 1º O Conselho Universitário, presidido pelo Reitor, compõe-se:
 
@@ -194,7 +192,7 @@ V - de um representante da Associação dos Diplomados dos estabelecimentos refe
 
 § 2º O Conselho Universitário realizará uma reunião ordinária em cada mês e reunir-se-á extraordináriamente, mediante conhecimento da matéria a ser considerada, quando convocado pelo Reitor ou a requerimento de pelo menos dois terços dos seus membros.
 
-§ 3º As deliberações do Conselho Universitário resultarão da maioria dos votantes presentes à respectiva reunião, ressalvados os casos em que se exija <em>quorum</em> especial.
+§ 3º As deliberações do Conselho Universitário resultarão da maioria dos votantes presentes à respectiva reunião, ressalvados os casos em que se exija *quorum* especial.
 
 § 4º O Vice-Presidente do Conselho Universitário, eleito por um ano, será um de seus membros com a qualidade de professor catedrático, na U.R.J., respeitada a legislação em vigor;
 
@@ -204,9 +202,9 @@ V - de um representante da Associação dos Diplomados dos estabelecimentos refe
 
 § 7º A participação do Conselho Universitário de qualquer de seus membros será remunerada e será preferencial em relação a qualquer outra atividade na U.R.J.
 
-<strong>Art</strong>. 11. Aos membros dos corpos docentes, discentes e administrativos, citados em processo sujeito ao julgamento do Conselho Universitário é assegurado o direito de comparecimento à reunião em que a matéria fôr discutida para fins de defesa, inclusive através de procuradores regularmente constituídos.
+**Art**. 11. Aos membros dos corpos docentes, discentes e administrativos, citados em processo sujeito ao julgamento do Conselho Universitário é assegurado o direito de comparecimento à reunião em que a matéria fôr discutida para fins de defesa, inclusive através de procuradores regularmente constituídos.
 
-<strong>Art</strong>. 12. Ao Conselho Universitário compete:
+**Art**. 12. Ao Conselho Universitário compete:
 
 I - Exercer, como órgão deliberativo, a jurisdição superior da U.R.J., respeitado o disposto na legislação vigente e neste Estatuto;
 
@@ -224,7 +222,7 @@ VII - deliberar, em grau de recurso e conforme o disposto na legislação, sôbr
 
 VIII - deliberar, por iniciativa própria ou em face de indicação dos estabelecimentos que constituem a Universidade, sôbre assuntos que interessem à disciplina didática das atividades universitárias, inclusive mediante aprovação de novos métodos a serem implantados no regime escolar, compreendendo trabalhos de pesquisas;
 
-IX - deliberar sôbre a concessão do título de Doutor ou de Professor “<em>honoris causa</em>” por proposta de, pelo menos dois terços dos seus membros e mediante parecer da Comissão Permanente;
+IX - deliberar sôbre a concessão do título de Doutor ou de Professor “*honoris causa*” por proposta de, pelo menos dois terços dos seus membros e mediante parecer da Comissão Permanente;
 
 X - instituir prêmios honoríficos pecuniários ou bôlsas de estudo, destinados a estimular e recompensar atividades universitárias, e deliberar sôbre a sua concessão êstes últimos mediante pronunciamento do Conselho de Curadores;
 
@@ -252,11 +250,11 @@ XXI - praticar outros atos implicitamente deferidos às suas atribuições, resp
 
 XXII - pronuciar-se sôbre a aceitação de legados e doações, observado o disposto no § 4º do art. 40.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Conselho de Curadores</em>
+*Do Conselho de Curadores*
 
-<strong>Art</strong>. 13. O Conselho de Curadores é o órgão de fiscalização financeiro-patrimonial da U.R.J.
+**Art**. 13. O Conselho de Curadores é o órgão de fiscalização financeiro-patrimonial da U.R.J.
 
 § 1º Os Curadores, de livre escolha do Governador e de comprovada competência, serão nomeados pelo prazo de três anos.
 
@@ -302,17 +300,17 @@ XVIII - verificar, antes de aprovar as contas referidas no item IV, que nenhuma 
 
 XIX - exercer quaisquer outras atribuições inerentes à fiscalização da administração financeira da U.R.J.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Assembléia Universitária</em>
+*Da Assembléia Universitária*
 
-<strong>Art</strong>. 14. O Governador do Estado da Guanabara é o Chanceler da U.R.J. e assiste-lhe qualidade no uso dessa prerrogativa, para resolver quaisquer divergências que afetarem as relações entre os órgãos superiores da instituição, assim como para presidir às solenidades e à Assembléia Universitária a que comparecer.
+**Art**. 14. O Governador do Estado da Guanabara é o Chanceler da U.R.J. e assiste-lhe qualidade no uso dessa prerrogativa, para resolver quaisquer divergências que afetarem as relações entre os órgãos superiores da instituição, assim como para presidir às solenidades e à Assembléia Universitária a que comparecer.
 
-<strong>Art</strong>. 15 Integram a Assembléia Universitária o Chanceler, o Reitor, os membros do Conselho Universitário, do Conselho de Curadores e das Congregações dos estabelecimentos, os Presidentes do Diretório Central dos Estudantes e dos Diretórios Acadêmicos, os Secretários da Reitoria e das unidades universitárias e o representante da Associação dos Diplomados.
+**Art**. 15 Integram a Assembléia Universitária o Chanceler, o Reitor, os membros do Conselho Universitário, do Conselho de Curadores e das Congregações dos estabelecimentos, os Presidentes do Diretório Central dos Estudantes e dos Diretórios Acadêmicos, os Secretários da Reitoria e das unidades universitárias e o representante da Associação dos Diplomados.
 
 Parágrafo único. O Reitor é o Vice-Presidente da Assembléia Universitária e o Secretário da U.R.J. é o Secretário do mesmo órgão.
 
-<strong>Art</strong>. 16. A Assembléia Universitária, realizará uma reunião anual em caráter solene, competindo-lhe:
+**Art**. 16. A Assembléia Universitária, realizará uma reunião anual em caráter solene, competindo-lhe:
 
 I - tomar conhecimento, por exposição do Reitor dos principais aspectos e ocorrências da vida universitária;
 
@@ -324,19 +322,19 @@ III - ouvir o professor designado pelo Conselho Universitário para dissertar s�
 
 § 2º O Reitor poderá convocar a Assembléia Universitária em casos excepcionais mediante aprovação de pelo menos dois têrços dos membros do Conselho Universitário para reunir-se extraordinàriamente, a fim de pronunciar-se sôbre assunto de relevância, de interêsse da vida universitária.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>A Vida Universitária</em>
+*A Vida Universitária*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Estabelecimentos que constituem a Universidade</em>
+*Dos Estabelecimentos que constituem a Universidade*
 
-<strong>Art</strong>. 17. Os estabelecimentos que constituem a U.R.J. são os definidos no art. 5º.
+**Art**. 17. Os estabelecimentos que constituem a U.R.J. são os definidos no art. 5º.
 
 Parágrafo único. Não se fará a incorporação de novo estabelecimento ou instituição sem que o respectivo patrimônio seja transferido para a URJ, mediante a celebração dos atos jurídicos que tiverem cabimento.
 
-<strong>Art</strong>. 18. A direção e a administração de cada estabelecimento ou instituição, respeitados os princípios gerais de uniformidade, obedecerão ao disposto nos respectivos Regimentos Internos, que estão aprovados pelo Conselho Universitário.
+**Art**. 18. A direção e a administração de cada estabelecimento ou instituição, respeitados os princípios gerais de uniformidade, obedecerão ao disposto nos respectivos Regimentos Internos, que estão aprovados pelo Conselho Universitário.
 
 § 1º Nenhum estabelecimento que constitui a Universidade poderá majorar a remuneração de pessoal a seu serviço, inclusive a do corpo docente, sem que a majoração seja simultâneamente estendida ao pessoal de categorias idêntica dos demais estabelecimentos.
 
@@ -344,33 +342,33 @@ Parágrafo único. Não se fará a incorporação de novo estabelecimento ou ins
 
 § 3º Os corpos docentes e administrativos que constituem a U.R.J. terão remuneração unificada de acôrdo com a respectiva categoria fracional.
 
-<strong>Art</strong>. 19. O ensino ministrado nos estabelecimentos que constituem a U.R.J. será gratuito, nos têrmos do concedido pela Universidade do Brasil.
+**Art**. 19. O ensino ministrado nos estabelecimentos que constituem a U.R.J. será gratuito, nos têrmos do concedido pela Universidade do Brasil.
 
 Parágrafo único. O aluno matriculado por mais de dois anos letivos na mesma série perderá a gratuidade e ficará obrigado ao pagamento da anuidade que fôr fixada pelo Conselho Universitário, pagamento êsse que poderá ser dispensado, desde que a repetência haja sido motivada por doença.
 
-<strong>Art</strong>. 20. As demais taxas, pagas diretamente pelo aluno, serão fixadas pelo Conselho Universitário, obedecendo ao critério de uniformidade;
+**Art**. 20. As demais taxas, pagas diretamente pelo aluno, serão fixadas pelo Conselho Universitário, obedecendo ao critério de uniformidade;
 
-<strong>Art</strong>. 21. Os estabelecimentos que constituem a U.R.J. não poderão adquirir bens patrimoniais subvenção ou auxílio concedido pelo Estado da Guanabara, inclusive com construção, ampliação ou reforma de prédios, pavilhões ou qualquer aumento dos mesmos.
+**Art**. 21. Os estabelecimentos que constituem a U.R.J. não poderão adquirir bens patrimoniais subvenção ou auxílio concedido pelo Estado da Guanabara, inclusive com construção, ampliação ou reforma de prédios, pavilhões ou qualquer aumento dos mesmos.
 
 Parágrafo único. Nenhum estabelecimento da U.R.J. nem entidade com personalidade jurídica ao mesmo vinculado poderá distribuir rendas em remuneração de capital ou pagamento de dividendos, ressalvados os juros de empréstimos.
 
-<strong>Art</strong>. 22. A direção de cada estabelecimento dotado de congregação será exercida por um Diretor, designado pelo Reitor, com a prévia aprovação do Chanceler da Universidade, dentre os professôres catedráticos efetivos eleitos em lista tríplice, por votação uninominal da referida Congregação.
+**Art**. 22. A direção de cada estabelecimento dotado de congregação será exercida por um Diretor, designado pelo Reitor, com a prévia aprovação do Chanceler da Universidade, dentre os professôres catedráticos efetivos eleitos em lista tríplice, por votação uninominal da referida Congregação.
 
-<strong>Art</strong>. 23. O regime didático obedecerá aos padrões firmados na lei federal.
+**Art**. 23. O regime didático obedecerá aos padrões firmados na lei federal.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Dos órgãos auxiliares</em>
+*Dos órgãos auxiliares*
 
-<strong>Art</strong>. 24. A U.R.J. terá órgãos auxiliares de serviços.
+**Art**. 24. A U.R.J. terá órgãos auxiliares de serviços.
 
-<strong>Art</strong>. 25. O Diretor de órgãos auxiliares será designado pelo Reitor, pelo período de três anos, podendo ser reconduzido.
+**Art**. 25. O Diretor de órgãos auxiliares será designado pelo Reitor, pelo período de três anos, podendo ser reconduzido.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Dos Cursos Universitários</em>
+*Dos Cursos Universitários*
 
-<strong>Art</strong>. 26. A U.R.J. manterá Cursos de Formação, Cursos de Livros, Curso de Extensão Universitária, Curso de Pós-Graduação e outros que resolver instituir.
+**Art**. 26. A U.R.J. manterá Cursos de Formação, Cursos de Livros, Curso de Extensão Universitária, Curso de Pós-Graduação e outros que resolver instituir.
 
 § 1º Os Cursos de Formação compreendem:
 
@@ -390,11 +388,11 @@ II - cursos de especialização, destinados a aprofundar, em ensino intensivo e 
 
 III - cursos de doutorado, previstos em lei ou criados pela U.R.J.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Carreira de Professor</em>
+*Da Carreira de Professor*
 
-<strong>Art</strong>. 27. A carreira de professor obedecerá à seguinte classificação:
+**Art**. 27. A carreira de professor obedecerá à seguinte classificação:
 
 I - Professor Catedrático.
 
@@ -418,11 +416,11 @@ c) Instrutor.
 
 § 6º O Assistente de Ensino, auxiliar da imediata confiança do Professor Catedrático, com participação direta no ensino e na prática da disciplina, deverá submeter-se a concurso para docência livre até dois anos após sua nomeação, sob pena de perda automática do cargo e de não poder voltar a exercê-lo, na mesma ou em outra Cadeira, sem que haja obtido, prèviamente o respectivo título.
 
-<strong>Art</strong>. 28. O Professor Catedrático, responsável direto pela respectiva Cadeira no Curso de Formação, será escolhido de acôrdo com a legislação em vigor.
+**Art**. 28. O Professor Catedrático, responsável direto pela respectiva Cadeira no Curso de Formação, será escolhido de acôrdo com a legislação em vigor.
 
 Parágrafo único. Aos Professôres Catedráticos dos estabelecimentos da U.R.J., reconhecidos pelo Ministério da Educação e Cultura, são asseguradas tôdas as garantias inerentes aos respectivos cargos, nos têrmos da legislação vigente.
 
-<strong>Art</strong>. 29. Farão parte do corpo docente, além dos titulares mencionados no artigo anterior:
+**Art**. 29. Farão parte do corpo docente, além dos titulares mencionados no artigo anterior:
 
 I - Professor Emérito.
 
@@ -440,27 +438,27 @@ IV - Professor contratado.
 
 § 4º Professor contratado respeitado o direito de preferência do Docente livre da Cadeira, será o profissional de reconhecido saber cujos serviços vierem a ser ajustados em ato Jurídico próprio, por proposta do Conselho Técnico-Administrativo, à Congregação do estabelecimento. O contrato será estabelecido por um ano, com a aquiescência da Reitoria, sendo permitida a renovação.
 
-<strong>Art</strong>. 30. O Professor Catedrático poderá ser dispensado temporàriamente do exercício da Cadeira de que seja titular, a pedido, depois de vinte e cinco anos de atividade no magistério, ou em função diretiva da U.R.J. ou de qualquer dos seus estabelecimentos ou instituições, sem prejuízo de direitos, vantagens e regalias e com aproveitamento na forma do § 1º do artigo 29.
+**Art**. 30. O Professor Catedrático poderá ser dispensado temporàriamente do exercício da Cadeira de que seja titular, a pedido, depois de vinte e cinco anos de atividade no magistério, ou em função diretiva da U.R.J. ou de qualquer dos seus estabelecimentos ou instituições, sem prejuízo de direitos, vantagens e regalias e com aproveitamento na forma do § 1º do artigo 29.
 
 Parágrafo único. O pedido só poderá ser deferido mediante aprovação por dois têrços, pelo menos, de votos da respectiva Congregação, e desde que o ato de aprovação seja homologado pelo Conselho Universitário, por idêntico número mínimo de votos.
 
-<strong>Art</strong>. 31. O regime jurídico dos professôres e servidores da U.R.J. obedecerá a condições fixadas pelo Conselho Universitário.
+**Art**. 31. O regime jurídico dos professôres e servidores da U.R.J. obedecerá a condições fixadas pelo Conselho Universitário.
 
-<strong>Art</strong>. 32. É reconhecido o direito de transferência de professôres obedecidas as disposições legais, quando da conveniência da Universidade.
+**Art**. 32. É reconhecido o direito de transferência de professôres obedecidas as disposições legais, quando da conveniência da Universidade.
 
-<strong>Art</strong>. 33. A U.R.J. reconhecerá aos membros do corpo docente os direitos à aposentaria e a licença remunerada por iniciativa da instituição a que se refere o art. 55, se a lei não os amparar condignamente.
+**Art**. 33. A U.R.J. reconhecerá aos membros do corpo docente os direitos à aposentaria e a licença remunerada por iniciativa da instituição a que se refere o art. 55, se a lei não os amparar condignamente.
 
-<strong>Art</strong>. 34. O Professor Catedrático será aposentado compulsória e automàticamente ao completar setenta anos de idade, sendo-lhe assegurados todos os direitos e vantagens inerentes ao cargo, à conta dos recursos a que se refere o art. 56, ressalvado o disposto na parte final do art. 33.
+**Art**. 34. O Professor Catedrático será aposentado compulsória e automàticamente ao completar setenta anos de idade, sendo-lhe assegurados todos os direitos e vantagens inerentes ao cargo, à conta dos recursos a que se refere o art. 56, ressalvado o disposto na parte final do art. 33.
 
-<strong>Art</strong>. 35. O sistema de provimento de cargos no magistério obedecerá a legislação federal, sem prejuízo das exigências complementares que a U.R.J. julgar cabíveis.
+**Art**. 35. O sistema de provimento de cargos no magistério obedecerá a legislação federal, sem prejuízo das exigências complementares que a U.R.J. julgar cabíveis.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Regime Escolar e Disciplinar</em>
+*Do Regime Escolar e Disciplinar*
 
-<strong>Art</strong>. 36. O regime escolar, sem prejuízo do disposto na legislação federal, será prescrito nos Regimentos da U.R.J. e de seus estabelecimentos.
+**Art**. 36. O regime escolar, sem prejuízo do disposto na legislação federal, será prescrito nos Regimentos da U.R.J. e de seus estabelecimentos.
 
-<strong>Art</strong>. 37. O regime disciplinar, sem prejuízo do disposto na legislação federal, será prescrito nos Regimentos da U.R.J. e de seus estabelecimentos, a ambos sujeitando-se o pessoal docente, discente e administrativo.
+**Art**. 37. O regime disciplinar, sem prejuízo do disposto na legislação federal, será prescrito nos Regimentos da U.R.J. e de seus estabelecimentos, a ambos sujeitando-se o pessoal docente, discente e administrativo.
 
 § 1º Nos Regimentos referidos neste artigo prescrever-se-ão as seguintes penas disciplinares, que serão aplicadas na forma dos mesmos Regimentos:
 
@@ -478,21 +476,21 @@ V - Destituição.
 
 Parágrafo único. A pena de destituição para o corpo discente será substituída pela de expulsão.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Ajuda ao Universitário</em>
+*Da Ajuda ao Universitário*
 
-<strong>Art</strong>. 38. Os estudantes sob a jurisdição escolar da U.R.J., além da gratuidade de ensino que a lei lhes assegura serão beneficiados com serviços assistenciais.
+**Art**. 38. Os estudantes sob a jurisdição escolar da U.R.J., além da gratuidade de ensino que a lei lhes assegura serão beneficiados com serviços assistenciais.
 
 Parágrafo único. O serviços referidos neste artigo serão implantados de acôrdo com os recursos disponíveis da U.R.J.
 
-<strong>Art</strong>. 39. A U.R.J. dará prioridade à implantação dos seguintes benefícios assistenciais:
+**Art**. 39. A U.R.J. dará prioridade à implantação dos seguintes benefícios assistenciais:
 
 I) restaurantes, a serem instalados nas unidades universitárias;
 
 II) serviço central médico-odontológico;
 
-III) biblioteca destinada a empréstimo de livros necessários ao estudos dos universitários ou a consulta <em>in loco</em>;
+III) biblioteca destinada a empréstimo de livros necessários ao estudos dos universitários ou a consulta *in loco*;
 
 IV) imprensa universitária centralizada para a publicação de livros didátivos e revistas de caráter técnico ou científico, a serem distribuídos à venda a preços de custo; e
 
@@ -500,15 +498,15 @@ V) construção de ginásio destinado à prática de desportos universitário.
 
 Parágrafo único. Serão instituídas concessões financeiras para os estudantes, em caso de falta ou insuficiência de recursos próprios, levando-se em conta, na distribuição de vantagens, o grau de merecimento e aproveitamento dos que concorrerem à ajuda. Os auxílios referidos neste parágrafo obedecerão a normas sujeitas à aprovação dos Conselhos Universitários e de Curadores.
 
-<strong>TÍTULOS IV</strong>
+**TÍTULOS IV**
 
-<em>Da Administração Financeira</em>
+*Da Administração Financeira*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Patrimônio</em>
+*Do Patrimônio*
 
-<strong>Art</strong>. 40. O patrimônio da U.R.J. resultará dos seguintes bens próprios:
+**Art**. 40. O patrimônio da U.R.J. resultará dos seguintes bens próprios:
 
 I) bens móveis e imóveis incorporados ao seu acêrvo;
 
@@ -524,11 +522,11 @@ III) saldos das rendas próprias e das rendas das unidades universitárias trans
 
 § 4º Nenhuma das operações patrimoniais que resultarem da aplicação dêste artigo poderá realizar-se sem pronunciamento favoráveis dos Conselhos Universitário e de Curadores.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Receita</em>
+*Da Receita*
 
-<strong>Art</strong>. 41. São recursos financeiros da U.R.J.:
+**Art**. 41. São recursos financeiros da U.R.J.:
 
 I) as subvenções que, sob qualquer título, que forem concedidas;
 
@@ -542,33 +540,33 @@ V) todos os bens atribuídos ao Govêrno do Estado, em virtude do Decreto Federa
 
 Parágrafo único. Tôda receita será recolhida aos cofres da U.R.J., diretamente ou por intermédio do Banco do Estado da Guanabara S.A.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Despesa</em>
+*Da Despesa*
 
-<strong>Art</strong>. 42. O custeio das atividades e dos encargos da U.R.J. constituirá a despesa.
+**Art**. 42. O custeio das atividades e dos encargos da U.R.J. constituirá a despesa.
 
 Parágrafo único. As despesas relativas ao custeio do ensino e eficiente funcionamento didático e administrativo das unidades universitárias constarão do orçamento da U.R.J.
 
-<strong>Art</strong>. 43. Além dos quantitativos destinados ao custeio de suas atividades e encargos a U.R.J. considerará, no total da sua despesa de cada exercício financeiro, os investimentos que tenha previsto, inclusive para incorporação de bens pertencentes a estabelecimentos que a constituem, assim como o montante pecuniário das transferências a que estiver sujeita para constituição do fundo destinado à implantação do serviço indicado no art. 55.
+**Art**. 43. Além dos quantitativos destinados ao custeio de suas atividades e encargos a U.R.J. considerará, no total da sua despesa de cada exercício financeiro, os investimentos que tenha previsto, inclusive para incorporação de bens pertencentes a estabelecimentos que a constituem, assim como o montante pecuniário das transferências a que estiver sujeita para constituição do fundo destinado à implantação do serviço indicado no art. 55.
 
 § 1º As operações de despesas que resultarem da aplicação dêste artigo só se realizarão mediante pronunciamento favoráveis dos Conselhos Universitário e de Curadores.
 
 § 2º Tôda despesa será paga diretamente pelo U.R.J. ou por intermédio do Banco do Estado da Guanabara S.A.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Orçamento</em>
+*Do Orçamento*
 
-<strong>Art</strong>. 44. A elaboração do orçamento da U.R.J. obedecerá aos princípios relativos à unicidade, anuidade e universalmente, além de observar quanto à despesa, o critério referente à discriminação.
+**Art**. 44. A elaboração do orçamento da U.R.J. obedecerá aos princípios relativos à unicidade, anuidade e universalmente, além de observar quanto à despesa, o critério referente à discriminação.
 
 Parágrafo único. O orçamento obedecerá às normas e aos padrões que forem indicados pelo Conselho de Curadores e sujeitar-se-á, quando aplicáveis, às regras em vigor na legislação financeira adotada pelo Estado da Guanabara.
 
-<strong>Art</strong>. 45. Cada orçamento corresponderá a um exercício financeiro e todo exercício financeiro iniciar-se-á em 1º de abril de cada ano e extinguir-se-á em 31 de março do ano seguinte.
+**Art**. 45. Cada orçamento corresponderá a um exercício financeiro e todo exercício financeiro iniciar-se-á em 1º de abril de cada ano e extinguir-se-á em 31 de março do ano seguinte.
 
 Parágrafo único. São admissíveis os créditos adicionais que não poderão ser abertos, todacia, sem a existência de recursos disponíveis e sem pronunciamentos favoráveis do Conselho Universitário e do Conselho de Curadores.
 
-<strong>Art</strong>. 46. A proposta orçamentária de cada exercício, elaborada pelo Conselho Universitário, à vista dos elementos oferecidos pelo Reitor, será justificada mediante à indicação dos planos de trabalho e a demonstração dos encargos de custeio os investimentos programados.
+**Art**. 46. A proposta orçamentária de cada exercício, elaborada pelo Conselho Universitário, à vista dos elementos oferecidos pelo Reitor, será justificada mediante à indicação dos planos de trabalho e a demonstração dos encargos de custeio os investimentos programados.
 
 § 1º O orçamento será pôsto em execução depois de aprovado pelo Conselho de Curadores.
 
@@ -580,61 +578,61 @@ Parágrafo único. São admissíveis os créditos adicionais que não poderão s
 
 § 5º Se o Conselho de Curadores não receber o orçamento que lhe cumpre aprovar, relativo ao exercício imediato, antes de extinguir-se o penúltimo mês do exercício em curso ou, o recebendo, não o aprovar no prazo estatuário, considerar-se-á automàticamente prorrogado o orçamento em vigor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Dos responsáveis</em>
+*Dos responsáveis*
 
-<strong>Art</strong>. 47. O Conselho de Curadores definirá perante as leis de administração financeira e contabilidade pública em vigor no Estado da Guanabara, a responsabilidade dos que têm a seu cargo, na U.R.J., em seus estabelecimentos, a administração ou a guarda de valores e bens públicos.
+**Art**. 47. O Conselho de Curadores definirá perante as leis de administração financeira e contabilidade pública em vigor no Estado da Guanabara, a responsabilidade dos que têm a seu cargo, na U.R.J., em seus estabelecimentos, a administração ou a guarda de valores e bens públicos.
 
 § 1º A responsabilidade a que se refere êste artigo será definida em disposições, de modo a ser evitada qualquer irregularidade sujeita às sanções do contrôle jurisdicional a cargo do Tribunal de Contas do Estado da Guanabara.
 
 § 2º Da prestação de contas dos estabelecimentos que constituem a U.R.J. constará a justificação das despesas, obrigatòriamente, relativas ao custeio do ensino, ao eficiente funcionamento didático e administrativo e ao quantitativo da gratuidade do aluno.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 48. A U.R.J., mediante autorização do órgão competente, poderá requisitar servidor público julgado útil a realização dos seus fins.
+**Art**. 48. A U.R.J., mediante autorização do órgão competente, poderá requisitar servidor público julgado útil a realização dos seus fins.
 
-<strong>Art</strong>. 49. Ao professor e ao estudante é assegurada, nos têrmos da lei, para melhor ensino e para aprendizagem mais eficiente, a freqüência aos hospitais, escolas e outras entidades do Estado da Guanabara.
+**Art**. 49. Ao professor e ao estudante é assegurada, nos têrmos da lei, para melhor ensino e para aprendizagem mais eficiente, a freqüência aos hospitais, escolas e outras entidades do Estado da Guanabara.
 
 Parágrafo único. A U.R.J., firmará convênio com a Santa Casa da Misericórdia ou com o Govêrno do Estado, por intermédio da Secretaria de Saúde e Assistência, para a aparelhagem do Hospital de Clínicas da Faculdade de Ciências Médicas.
 
-<strong>Art</strong>. 50. O Diretório Central de Estudantes é reconhecido pela U.R.J. com o órgão de defesa dos interêsses estudantis, de incentivo à cultura e do fomento ao intercâmbio social e desportivo.
+**Art**. 50. O Diretório Central de Estudantes é reconhecido pela U.R.J. com o órgão de defesa dos interêsses estudantis, de incentivo à cultura e do fomento ao intercâmbio social e desportivo.
 
-<strong>Art</strong>. 51. O Regimento da U.R.J. será aprovado pelo Conselho Universitário, com a colaboração do Conselho de Curadores, na parte que lhe fôr pertinentes.
+**Art**. 51. O Regimento da U.R.J. será aprovado pelo Conselho Universitário, com a colaboração do Conselho de Curadores, na parte que lhe fôr pertinentes.
 
 § 1º O Regimento regulará, em títulos próprios, as normas autônomas que forem aprovadas pelo Conselho de Curadores, quanto ao exercício de suas atribuições e também as normas análogas que o Conselho Universitário estabelecer.
 
 § 2º As normas aprovadas pelo Conselho de Curadores, quanto ao exercício de suas atribuições, poderão ser revistas pelo mesmo órgão.
 
-<strong>Art</strong>. 52. Os casos omissos neste Estatuto serão resolvidos pelo Conselho Universitário, em vista de parecer da Comissão Permanente, a que se refere o § 5º do art. 10, consultado o Conselho de Curadores, quando a matéria lhe fôr peculiar.
+**Art**. 52. Os casos omissos neste Estatuto serão resolvidos pelo Conselho Universitário, em vista de parecer da Comissão Permanente, a que se refere o § 5º do art. 10, consultado o Conselho de Curadores, quando a matéria lhe fôr peculiar.
 
-<strong>Art</strong>. 53. Êste Estatuto só poderá ser alterado por fôrça de lei ou por proposta e voto de pelo menos dois têrços dos membros do Conselho Universitário. As alterações que vierem a ser admitidas só entrará em vigor depois de aprovadas na forma da legislação vigente.
+**Art**. 53. Êste Estatuto só poderá ser alterado por fôrça de lei ou por proposta e voto de pelo menos dois têrços dos membros do Conselho Universitário. As alterações que vierem a ser admitidas só entrará em vigor depois de aprovadas na forma da legislação vigente.
 
-<strong>Art</strong>. 54. A U.R.J. praticará sob sua exclusiva responsabilidade todos os atos peculiares a seu funcionamento.
+**Art**. 54. A U.R.J. praticará sob sua exclusiva responsabilidade todos os atos peculiares a seu funcionamento.
 
-<strong>Art</strong>. 55. A U.R.J. promoverá a instituição de entidade a que se associe todo o pessoal por ela direta ou indiretamente remunerado, destinada a garantir amparo pecuniário, ao mesmo pessoal, em caso de doença, invalidez ou velhice.
+**Art**. 55. A U.R.J. promoverá a instituição de entidade a que se associe todo o pessoal por ela direta ou indiretamente remunerado, destinada a garantir amparo pecuniário, ao mesmo pessoal, em caso de doença, invalidez ou velhice.
 
 Parágrafo único. A entidade a ser instituída na forma dêste artigo será auxiliada mediante contribuição da U.R.J. e visará a proporcionar a seus associados as mesmas garantias assistenciais reconhecidas aos servidores públicos do Estado da Guanabara, mantendo-se em funcionamento enquanto a legislação não comtemplar os referidos associados com direitos idênticos aos que possuem os mencionados servidores públicos.
 
-<strong>Art</strong>. 56. Nenhum aumento de remuneração, beneficiando uma ou mais categorias funcionais poderá ser feito por uma unidade da U.R.J., sem que abranja as demais unidades e estender-se-á aos quadros da Reitoria. A iniciativa de tais majorações poderá ser tomadas pelos estabelecimentos que constituem a U.R.J., mas a concessões do benefício caberá exclusivamente à Reitoria.
+**Art**. 56. Nenhum aumento de remuneração, beneficiando uma ou mais categorias funcionais poderá ser feito por uma unidade da U.R.J., sem que abranja as demais unidades e estender-se-á aos quadros da Reitoria. A iniciativa de tais majorações poderá ser tomadas pelos estabelecimentos que constituem a U.R.J., mas a concessões do benefício caberá exclusivamente à Reitoria.
 
-<strong>Art</strong>. 57. Fará parte integrante do pessoal docente e administrativo da Faculdade da Filosofia, Ciências e Letras os professôres e demais servidores administrativos do Ginásio de Aplicação da mesma Faculdade, ressalvados os direitos dos atuais titulares.
+**Art**. 57. Fará parte integrante do pessoal docente e administrativo da Faculdade da Filosofia, Ciências e Letras os professôres e demais servidores administrativos do Ginásio de Aplicação da mesma Faculdade, ressalvados os direitos dos atuais titulares.
 
-<strong>Art</strong>. 58. O Conselho Universitário estabelecerá o regime jurídico dos professôres e servidores da U.R.J. no prazo de trinta dias a partir da vigência dêste Estatuto.
+**Art**. 58. O Conselho Universitário estabelecerá o regime jurídico dos professôres e servidores da U.R.J. no prazo de trinta dias a partir da vigência dêste Estatuto.
 
-<strong>Art</strong>. 59. A reeleição para qualquer cargo efetivo na U.R.J. obedece ao que determinar a lei estadual vigente.
+**Art**. 59. A reeleição para qualquer cargo efetivo na U.R.J. obedece ao que determinar a lei estadual vigente.
 
-<strong>Art</strong>. 60. O disposto no art. 33 vigorará a partir do momento em que a lei estadual assegurar aposentadoria e numerário necessário a seu custeio. Enquanto isso não ocorrer a aposentadoria ficará condicionada aos recursos de que trata o art. 55.
+**Art**. 60. O disposto no art. 33 vigorará a partir do momento em que a lei estadual assegurar aposentadoria e numerário necessário a seu custeio. Enquanto isso não ocorrer a aposentadoria ficará condicionada aos recursos de que trata o art. 55.
 
-<strong>Art</strong>. 61. Haverá sessão conjunta dos Conselhos Universitário e de Curadores, quando convocada pelo Reitor ou mediante solicitação de dois terços menos da totalidade dos membros de qualquer dos referidos órgãos.
+**Art**. 61. Haverá sessão conjunta dos Conselhos Universitário e de Curadores, quando convocada pelo Reitor ou mediante solicitação de dois terços menos da totalidade dos membros de qualquer dos referidos órgãos.
 
-<strong>Art</strong>. 62. A aplicação do Fundo de Desenvolvimento Cultural e Material obedecerá a regulamento a ser elaborado pelos Conselhos Universitários e de Curadores.
+**Art**. 62. A aplicação do Fundo de Desenvolvimento Cultural e Material obedecerá a regulamento a ser elaborado pelos Conselhos Universitários e de Curadores.
 
-<strong>Art</strong>. 63. A U. R. J. assegurará às universitárias os imóveis e o material necessário à instalação e ao equipamento dos serviços que lhes são exigidos.
+**Art**. 63. A U. R. J. assegurará às universitárias os imóveis e o material necessário à instalação e ao equipamento dos serviços que lhes são exigidos.
 
-<strong>Art</strong>. 64. Sòmente serão considerados estabelecimentos que constituem a U. R. J., para efeito das prerrogativas de que goza a mesma, nos têrços da lei, os previstos do art. 5º e seus parágrafos, ou os que, na forma dêstes, venham a ser criados ou incorporados.
+**Art**. 64. Sòmente serão considerados estabelecimentos que constituem a U. R. J., para efeito das prerrogativas de que goza a mesma, nos têrços da lei, os previstos do art. 5º e seus parágrafos, ou os que, na forma dêstes, venham a ser criados ou incorporados.
 
 § 1º Aplicar-se aos estabelecimentos que constituem a U. R. J. o disposto na lei e neste Estatuto, em tudo que se refere a regime educativo financeiro, didático, pedagógico e disciplinar.
 
@@ -644,14 +642,14 @@ Parágrafo único. A entidade a ser instituída na forma dêste artigo será aux
 
 § 4º Os estabelecimentos mencionados no parágrafo anterior terão preferência para a incorporação à U. R. J., na forma do art. 5º, concomitantemente com uma Faculdade de Engenharia e o Instituto de Belas Artes do Estado da Guanabara.
 
-<strong>Art</strong>. 65. As alterações do Regimento da Universidade serão efetivadas pelo Conselho Universitário, colaborando o Conselho de Curadores no que se relacionar com as suas atribuições.
+**Art**. 65. As alterações do Regimento da Universidade serão efetivadas pelo Conselho Universitário, colaborando o Conselho de Curadores no que se relacionar com as suas atribuições.
 
-<strong>Art</strong>. 66. A Associação dos Diplomados da U. R. J. congregará os diplomados das unidades que constituem a U. R. J.
+**Art**. 66. A Associação dos Diplomados da U. R. J. congregará os diplomados das unidades que constituem a U. R. J.
 
 § 1º O Estatuto da Associação aludida será aprovado pelo Conselho Universitário.
 
 § 2º A Associação dos Diplomados terá um quadro de no mínimo, 500 sócios efetivos, e, ao submeter o seu Estatuto à aprovação do Conselho Universitário, comprovará as suas atividades.
 
-<strong>Art</strong>. 67. O Regimento de cada unidade universitária deverá ser revisto e adaptado a êste Estatuto dentro do prazo de 60 (sessenta) dias, a contar da data de sua publicação.
+**Art**. 67. O Regimento de cada unidade universitária deverá ser revisto e adaptado a êste Estatuto dentro do prazo de 60 (sessenta) dias, a contar da data de sua publicação.
 
-<strong>BRÍGIDO TINOCO</strong>
+**BRÍGIDO TINOCO**

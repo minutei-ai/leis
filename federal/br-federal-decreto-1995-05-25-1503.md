@@ -1,5 +1,3 @@
-###DEC-001503-0-000-25-05-1995@@@
-
 DECRETO Nº 1.503, DE 25 DE MAIO DE 1995
 
 Inclui empresas no Programa Nacional de Desestatização PND.

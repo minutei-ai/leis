@@ -1,5 +1,3 @@
-###DEL-000056-0-000-10-12-1937@@@
-
 DECRETO-LEI N. 56 – DE 10 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério das Relações Exteriores, o crédito suplementar de 960:000$000 às verbas que especifica

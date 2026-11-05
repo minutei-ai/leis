@@ -1,5 +1,3 @@
-###DEC-064462-0-000-05-05-1969@@@
-
 DECRETO Nº 64.462, DE 5 DE MAIO DE 1969.
 
 Aprova o Regulamento para a Diretoria-Geral do Material da Marinha.

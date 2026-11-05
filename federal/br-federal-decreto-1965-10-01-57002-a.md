@@ -1,5 +1,3 @@
-###DEC-057002-A-000-01-10-1965@@@
-
 DECRETO Nº 57002-A, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a prestação de aval pelo Tesouro Nacional a empréstimos que menciona.

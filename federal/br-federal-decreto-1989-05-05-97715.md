@@ -1,7 +1,3 @@
-1
-
-###DEC-097715-0-000-05-05-1989@@@
-
 DECRETO Nº 97.715, DE 05 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de História da Faculdade de Ciências Sociais de Cuiabá.

@@ -1,5 +1,3 @@
-###DEC-065140-0-000-11-09-1969@@@
-
 DECRETO Nº 65.140 - DE 11 DE SETEMBRO DE 1969.
 
 Dá nova redação ao artigo 19 do Regulamento para a Formação de Oficiais Engenheiros e o Ingresso no Corpo de Engenheiros e Técnicos Navais, aprovado pelo Decreto nº 52.163, de 28 de junho de 1963 e alterado pelo de nº 57.302, de 22 de novembro de 1965.

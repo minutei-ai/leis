@@ -1,5 +1,3 @@
-###DEC-049358-0-000-28-11-1960@@@
-
 DECRETO Nº 49.358, DE 28 DE NOVEMBRO DE 1960.
 
 Altera o Quadro do Hospital dos Servidores do Estado, Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212173)<br>
-
 # LEI N° 18.388, DE 22 DE JANEIRO DE 2026
 
 ## (Projeto de lei n° 793/2021, do Deputado Agente Federal Danilo Balas - PL)

@@ -1,5 +1,3 @@
-###DEC-073661-0-000-15-02-1974@@@
-
 DECRETO Nº 73.661, DE 15 DE FEVEREIRO DE 1974.
 
 Torna sem efeito aproveitamento de disponível na Universidade Federal do Rio de Janeiro, e cancela a sua disponibilidade.

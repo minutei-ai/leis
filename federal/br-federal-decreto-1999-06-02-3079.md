@@ -1,5 +1,3 @@
-###DEC-003079-0-000-02-06-1999@@@
-
 DECRETO Nº 3.079, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre a cobrança do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF, relativo a operações de crédito não liquidadas no vencimento.

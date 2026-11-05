@@ -1,5 +1,3 @@
-###DEC-080757-0-000-16-11-1977@@@
-
 Decreto nº 80.757, de 16 de novembro de 1977.
 
 Declara de utilidade pública, para efeito de desapropriação, os imóveis situados à avenida Júlio de Castilhos, nºs 152, 160 e 162, com fundos para a avenida Mauá nº 1.621, em Porto Alegre, Estado do Rio Grande do Sul.

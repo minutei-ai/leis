@@ -1,5 +1,3 @@
-###DEL-007966-0-000-18-09-1945@@@
-
 DECRETO-LEI N. 7.966 – DE 18 DE  SETEMBRO DE 1945
 
 Transfere gratuitamente à Associação dos Servidores Civis de São Paulo o domínio pleno do terreno que menciona, situado na cidade de São Paulo, e da outras providências

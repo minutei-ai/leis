@@ -1,5 +1,3 @@
-###DEC-079857-0-000-23-06-1977@@@
-
 DECRETO Nº 79.857, DE 23 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Estudos Sociais, da Universidade Católica do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

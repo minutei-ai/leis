@@ -1,5 +1,3 @@
-###DEC-076446-0-000-16-10-1975@@@
-
 Decreto nº 76.446, DE 16 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública e interesse social para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, DNOC'S, área de terra abrangida pelo Projeto de Irrigação "Paraipaba" no Vale do Curu, no Município de Paracuru, no Estado do Ceará.

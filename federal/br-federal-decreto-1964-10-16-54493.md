@@ -1,5 +1,3 @@
-###DEC-054493-0-000-16-10-1964@@@
-
 DECRETO Nº 54.493, DE 16 DE OUTUBRO DE 1964.
 
 Altera o lotação numérica do Ministério da Fazenda.

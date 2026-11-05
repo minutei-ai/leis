@@ -1,5 +1,3 @@
-###DEL-008877-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.877 – DE 24 DE JANEIRO DE 1946
 
 Extingue a Tesouraria da Caixa Amortização e cria, em substituição, as Tesourarias da Divida Pública Interna e Fundada e a Tesouraria do Meio Circulante e da outras providências.

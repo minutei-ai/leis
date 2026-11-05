@@ -1,5 +1,3 @@
-###DEC-057904-0-000-03-03-1966@@@
-
 DECRETO Nº 57.904, DE 3 DE MARÇO DE 1966.
 
 Declara de utilidade pública a “Associação Civil das Servas de Maria, do Brasil”, com sede no Estado da Guanabara.

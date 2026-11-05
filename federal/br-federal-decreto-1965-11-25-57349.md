@@ -1,5 +1,3 @@
-###DEC-057349-0-000-25-11-1965@@@
-
 DECRETO Nº 57.349, DE 25 DE NOVEMBRO DE 1965.
 
 Inclui a indústria da cerveja entre as atividades em que é permitido o trabalho aos domingos e feriados.

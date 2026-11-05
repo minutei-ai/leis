@@ -1,5 +1,3 @@
-###DEC-049620-A-000-29-12-1960@@@
-
 DECRETO Nº 49.620-A, DE 29 DE DEZEMBRO DE 1960.
 
 Cria o Consulado Honorário do Brasil em San Antônio, Chile.

@@ -1,5 +1,3 @@
-###MPV-002078-0-036-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.078-36, DE 25 DE JANEIRO DE 2001
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

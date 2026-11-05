@@ -1,5 +1,3 @@
-###DEC-059122-0-000-24-08-1966@@@
-
 Decreto nº 59.122, de 24 de agôsto de 1966.
 
 Dá nova redação aos arts. 3º e 19 e acrescenta parágrafo ao art. 13 do Regulamento do salário - Família do trabalhador.

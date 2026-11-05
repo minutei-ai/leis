@@ -1,5 +1,3 @@
-###DEC-058276-0-000-28-04-1966@@@
-
 DECRETO Nº 58.276, DE 28 DE ABRIL DE 1966.
 
 Concede à Mineradora Montita Limitada autorização para funcionar como emprêsa de mineração.

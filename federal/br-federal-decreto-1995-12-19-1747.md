@@ -1,7 +1,3 @@
-1
-
-###DEC-001747-0-000-19-12-1995@@@
-
 DECRETO Nº 1.747, DE 19 DE DEZEMBRO DE 1995.
 
 Altera o Regulamento, para a Marinha, da Lei de Promoções dos Oficiais da Ativa das Forças Armadas, aprovado pelo Decreto nº 107, de 29 de abril de 1991.

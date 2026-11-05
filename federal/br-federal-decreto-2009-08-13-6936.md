@@ -1,5 +1,3 @@
-###DEC-006936-0-000-13-08-2009@@@
-
 DECRETO Nº 6.936, DE 13 DE AGOSTO DE 2009.
 
 Dispõe sobre a execução no Território Nacional da Resolução n~~º~~ 1.854, de 19 de dezembro de 2008, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a Libéria.

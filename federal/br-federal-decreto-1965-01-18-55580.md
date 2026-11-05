@@ -1,5 +1,3 @@
-###DEC-055580-0-000-18-01-1965@@@
-
 DECRETO Nº 55.580, DE 18 DE JANEIRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Brasil Companhia de Seguros Gerais, inclusive aumento do capital social.

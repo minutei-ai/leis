@@ -20,11 +20,14 @@ Art. 3º Ficam remanejados os recursos orçamentários dos programas e ações m
 
 Art. 4º Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
-Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 11 dias do mês de janeiro do ano de 2017.<br>
+Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 11 dias do mês de janeiro do ano de 2017.
+
                 
 
-GUSTAVO MENDANHA MELO<br>
-Prefeito Municipal<br>
+GUSTAVO MENDANHA MELO
+
+Prefeito Municipal
+
  
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19022)

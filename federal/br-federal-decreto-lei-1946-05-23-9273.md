@@ -1,5 +1,3 @@
-###DEL-009273-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.273 – 23 DE MAIO DE 1946
 
 Dispõe sôbre prazo para a realização de prova de habilitação para aproveitamento do pessoal da extinta Censura Postal e Telegráfica no Departamento dos Correios e Telégrafos.

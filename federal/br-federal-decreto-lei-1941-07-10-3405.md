@@ -1,5 +1,3 @@
-###DEL-003405-0-000-10-07-1941@@@
-
 DECRETO-LEI N. 3.405 – DE 10 DE JULHO DE 1941
 
 Regula a distribuição dos feitos na primeira instância da Justiça do Distrito Federal

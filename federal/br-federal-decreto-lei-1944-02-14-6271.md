@@ -1,5 +1,3 @@
-###DEL-006271-0-000-14-02-1944@@@
-
 DECRETO-LEI N. 6.271 – DE 14 DE FEVEREIRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a vender, em concorrência pública, o imóvel que menciona

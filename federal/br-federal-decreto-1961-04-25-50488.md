@@ -1,5 +1,3 @@
-###DEC-050488-0-000-25-04-1961@@@
-
 DECRETO Nº 50.488, DE 25 DE ABRIL DE 1961.
 
 Cria o Conselho Nacional de Planejamento da Habitação Popular, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048164-0-000-10-05-1960@@@
-
 DECRETO Nº 48.164, DE 10 DE MAIO DE 1960.
 
 Concede à Sociedade Comercial de Minérios Ltda. - Somil - autorização para funcionar como emprêsa de mineração.

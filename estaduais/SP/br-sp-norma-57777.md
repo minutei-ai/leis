@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/57777)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2005/compilacao-lei-12049-21.09.2005.html)
 
 # LEI N° 12.049, DE 21 DE SETEMBRO DE 2005

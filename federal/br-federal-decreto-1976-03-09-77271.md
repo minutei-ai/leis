@@ -1,5 +1,3 @@
-###DEC-077271-0-000-09-03-1976@@@
-
 DECRETO Nº 77.271, DE 9 DE MARÇO DE 1976.
 
 Autoriza o funcionamento do curso de Engenharia Agrícola da Escola Superior de Agricultura de Lavras, com sede na Cidade de Lavras, Estado de Minas Gerais.

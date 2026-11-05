@@ -1,5 +1,3 @@
-###DEC-091163-0-000-19-03-1985@@@
-
 Decreto nº 91.163 de 19 de março de 1985.
 
 Altera a redação do artigo 17, do Decreto nº 87.737, de 20 de outubro de 1982, que dispõe sobre o Regulamento do Estado-Maior das Forças Armadas.

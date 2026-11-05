@@ -1,5 +1,3 @@
-###DEC-094576-0-000-09-07-1987@@@
-
 DECRETO N° 94.576, DE 9 DE JULHO DE 1987
 
 Promulga o Acordo para a Criação de uma Comissão Mista Brasileiro-Egípcia de Coordenação.

@@ -1,5 +1,3 @@
-###DEC-003287-0-000-14-12-1999@@@
-
 DECRETO Nº 3.287, DE 14 DE DEZEMBRO DE 1999.
 
 Dispõe sobre o Certificado Financeiro do Tesouro - CFT, definindo-lhe as características gerais.

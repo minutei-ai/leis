@@ -1,5 +1,3 @@
-###DEC-083697-0-000-05-07-1979@@@
-
 Decreto nº 83.697, de 05 de julho de 1979.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão, em favor de Petróleo Brasileiro S.A - PETROBRÁS, imóveis constituídos de terras e benfeitorias, que menciona.

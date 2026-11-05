@@ -1,5 +1,3 @@
-###DEC-052590-0-000-01-10-1963@@@
-
 DECRETO Nº 52.590, DE 1 DE OUTUBRO DE 1963.
 
 Outorga à Companhia Paranaense de Energia Elétrica - COPEL - concessão para distribuir energia elétrica, no município de Santa Isabel do Ivaí, Estado do Paraná.
@@ -39,8 +37,6 @@ Brasília, 1 de outubro de 1963, 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-052590-0-000-01-10-1963@@@
 
 DECRETO nº 52.590, DE 1 DE OUTUBRO DE 1963.
 

@@ -1,5 +1,3 @@
-###DEC-073762-0-000-07-03-1974@@@
-
 DECRETO Nº 73.762, DE 7 DE MARÇO DE 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

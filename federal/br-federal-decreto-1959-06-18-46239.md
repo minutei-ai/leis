@@ -1,5 +1,3 @@
-###DEC-046239-0-000-18-06-1959@@@
-
 DECRETO Nº 46.239, DE 18 DE JUNHO DE 1959.
 
 Nomeia os membros da Comissão Incorporadora da Companhia Hidrelétrica de Campo Grande.

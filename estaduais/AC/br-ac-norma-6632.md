@@ -1,6 +1,10 @@
 > **LEI Nº 4.747, DE 29 DE DEZEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a doação de um bem imóvel ao Departamento Nacional de Infraestrutura de Transportes - DNIT.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a doação de um bem imóvel ao Departamento Nacional de Infraestrutura de Transportes - DNIT.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

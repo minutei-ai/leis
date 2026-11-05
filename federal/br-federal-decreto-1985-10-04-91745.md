@@ -1,5 +1,3 @@
-###DEC-091745-0-000-04-10-1985@@@
-
 Decreto nº 91.745, de 04 de outubro de 1985
 
 Cancela a autorização para funcionamento das habilitações de Tradutor e de Intérprete das Faculdades Metropolitanas Unidas.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/199100)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.da.mesa/2021/compilacao-ato.da.mesa-21-15.07.2021.html)
 
 # ATO DA MESA N° 21, DE 15 DE JULHO DE 2021

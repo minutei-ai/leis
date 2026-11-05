@@ -1,5 +1,3 @@
-###DEL-009444-0-000-11-07-1946@@@
-
 DECRETO-LEI N. 9.444 – DE 11 DE JULHO DE 1946
 
 Abra ao Ministério da Fazenda o crédito suplementar de Cr$ 120.000,00, à verba que especifica.

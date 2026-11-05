@@ -1,5 +1,3 @@
-###DEC-003070-0-000-27-05-1999@@@
-
 DECRETO Nº 3.070, DE 27 DE MAIO DE 1999.
 
 Dispõe sobre regime de tributação dos cigarros.

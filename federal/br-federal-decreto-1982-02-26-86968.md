@@ -1,5 +1,3 @@
-###DEC-086968-0-000-26-02-1982@@@
-
 Decreto nº 86.968, de 26 de fevereiro de 1982
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Jaguariúna da CESP-Companhia Energética de São Paulo, no Estado de São Paulo.

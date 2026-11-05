@@ -1,5 +1,3 @@
-###DEC-083320-0-000-10-04-1979@@@
-
 DECRETO Nº 83.320, DE 10 DE ABRIL DE 1979.
 
 Promulga o Convênio de Amizade e Cooperação entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela.

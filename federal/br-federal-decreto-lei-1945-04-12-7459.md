@@ -1,5 +1,3 @@
-###DEL-007459-0-000-12-04-1945@@@
-
 DECRETO-LEI N. 7.459 – DE 12 DE ABRIL DE 1945
 
 Dispõe sôbre a transferência dos serviços públicos de águas e esgotos na Capital Federal, da União para a Prefeitura do Distrito Federal

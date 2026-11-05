@@ -1,5 +1,3 @@
-###DEC-090280-0-000-03-10-1984@@@
-
 Decreto nº 90.280, de 03 de Outubro de 1984
 
 Outorga concessão à TV ARAUCÁRIA LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão) na cidade de Guarapuava, Estado do Paraná.

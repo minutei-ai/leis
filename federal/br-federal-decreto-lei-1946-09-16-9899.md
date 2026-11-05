@@ -1,5 +1,3 @@
-###DEL-009899-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.899 – DE 16 DE SETEMBRO DE 1946
 
 Autoriza a Fundação Darci Vargas a transferir bens à Fundação Abrigo do Cristo Redentor.

@@ -1,5 +1,3 @@
-###DEC-052735-0-000-23-10-1963@@@
-
 DECRETO Nº 52.735, DE 23 DE OUTUBRO DE 1963.
 
 Autoriza a construção de uma linha de transmissão, subestação e sistema de distribuição servindo à cidade de Jussara, e dá outras providências.

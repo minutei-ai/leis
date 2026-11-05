@@ -1,5 +1,3 @@
-###DEC-045673-0-000-31-03-1959@@@
-
 DECRETO Nº 45.673, DE 31 DE MARÇO DE 1959.
 
 Transfere, sem aumento de despesa, função de contínuo, referência 23, da Tabela Única de Extranumerário-Mensalista do Ministério da Agricultura para idêntica Tabela do Departamento Administrativo do Serviço Público, e dá outras providências.

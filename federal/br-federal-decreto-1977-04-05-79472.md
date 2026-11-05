@@ -1,5 +1,3 @@
-###DEC-079472-0-000-05-04-1977@@@
-
 DECRETO Nº 79.472, DE 5 DE ABRIL DE 1977.
 
 Concede à CALSETE - Indústria de Calcinação Sete Lagoas Ltda. o direito de lavrar calcário no Município de Sete Lagoas, Estado de Minas Gerais.

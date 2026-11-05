@@ -1,5 +1,3 @@
-###DEC-044966-0-000-01-12-1958@@@
-
 DECRETO Nº 44.966, DE 1 DE dezembro DE 1958.
 
 Autoriza o cidadão brasileiro Victor Dequeah a pesquisar quartzo no município de Tubarão, Estado de Santa Catarina.

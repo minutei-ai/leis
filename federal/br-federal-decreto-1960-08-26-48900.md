@@ -1,5 +1,3 @@
-###DEC-048900-0-000-26-08-1960@@@
-
 DECRETO Nº 48.900, DE 26 DE AGÔSTO DE 1960.
 
 Altera a redação do art. 2º alínea “f” do Decreto nº 29.850, de 6 de agôsto de 1951, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008350-0-000-11-12-1945@@@
-
 DECRETO-LEI N. 8.350 – DE 11 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios, Interiores o crédito especial de Cr$ 2.500,00, para o fim que específica.

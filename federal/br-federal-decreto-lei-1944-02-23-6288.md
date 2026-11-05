@@ -1,5 +1,3 @@
-###DEL-006288-0-000-23-02-1944@@@
-
 DECRETO-LEI  N. 6.288 – DE 23 DE FEVEREIRO DE 1944
 
 Eleva a gratificação de função dos Chefes de Seção de Fomento Agrícola que superintendem serviços articulados, mantidos sob regime de “Acôrdo”, e dá outras providências

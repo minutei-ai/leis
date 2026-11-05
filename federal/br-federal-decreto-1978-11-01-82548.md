@@ -1,5 +1,3 @@
-###DEC-082548-0-000-01-11-1978@@@
-
 Decreto nº 82.548, de 01 de novembro de 1978.
 
 Concede à Paraná Comércio Administração S.A. o direito de lavrar calcário nos Municípios de Campo Largo e Ponta Grossa, Estado do Paraná.

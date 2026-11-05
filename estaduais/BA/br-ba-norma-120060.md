@@ -6,7 +6,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuiç�
 
 Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO PESTALOZZI DE CATU, com sede e foro no município de Catu.
 
-Redação de acordo com o art. 1º da Lei nº [10.423](javascript: openDoc\() , de 09 de novembro de 2006.<br>
+Redação de acordo com o art. 1º da Lei nº [10.423](javascript: openDoc\() , de 09 de novembro de 2006.
+
 Redação original: "Art. 1º - Fica declarada de utilidade pública a SOCIEDADE PESTALOZZI DE CATÚ - BA, com sede e foro no município de Catú."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.

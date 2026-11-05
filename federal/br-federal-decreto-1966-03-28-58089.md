@@ -1,5 +1,3 @@
-###DEC-058089-0-000-28-03-1966@@@
-
 DECRETO Nº 58.089, DE 28 DE MARÇO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da A Inconfidência Companhia Nacional de Seguros Gerais, inclusive aumento do capital social.

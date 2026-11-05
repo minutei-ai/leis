@@ -1,5 +1,3 @@
-###DEC-067129-0-000-01-09-1970@@@
-
 DECRETO Nº 67.129, DE 1 DE SETEMBRO DE 1970.
 
 Modifica a subordinação da Diretoria do Serviço Geográfico e da outras providencias.

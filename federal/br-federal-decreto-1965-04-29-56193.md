@@ -1,5 +1,3 @@
-###DEC-056193-0-000-29-04-1965@@@
-
 DECRETO Nº 56.193, DE 29 DE ABRIL DE 1965.
 
 Autoriza do Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir linha de transmissão de energia elétrica.

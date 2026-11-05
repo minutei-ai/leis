@@ -1,5 +1,3 @@
-###DEC-058894-0-000-20-07-1966@@@
-
 DECRETO Nº 58.894, DE 20 DE JULHO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

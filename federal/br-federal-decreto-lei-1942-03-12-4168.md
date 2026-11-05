@@ -1,5 +1,3 @@
-###DEL-004168-0-000-12-03-1942@@@
-
 DECRETO-LEI N. 4.168 – DE 12 DE MARÇO DE 1942
 
 Abre, pelo Ministério da viação e Obras Públicas, o crédito especial de 420:627$2, destinado á Rede de Viação Cearense, para pagamento de despesas de combustíveis, etc., efetuadas no exercício de 1941,

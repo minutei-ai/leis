@@ -1,5 +1,3 @@
-###DEC-070349-0-000-29-03-1972@@@
-
 DECRETO Nº 70.349, DE 29 DE MARÇO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério da Aeronáutica, cargo da extinta Comissão do Vale do São Francisco, e dá outras providências.

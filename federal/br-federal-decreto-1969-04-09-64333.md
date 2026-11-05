@@ -1,5 +1,3 @@
-###DEC-064333-0-000-09-04-1969@@@
-
 DECRETO Nº 64.333, DE 9 DE ABRIL DE 1969.
 
 Declara caduco o Decreto nº 13.416 de 15 de setembro de 1943.

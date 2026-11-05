@@ -1,5 +1,3 @@
-###DEC-049242-0-000-16-11-1960@@@
-
 DECRETO Nº 49.242, DE 16 DE NOVEMBRO DE 1960.
 
 Declara de utilidade pública a CASA DA CRIANÇA com sede no Estado da Guanabara.

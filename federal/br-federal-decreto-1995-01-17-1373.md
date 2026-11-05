@@ -1,7 +1,3 @@
-1
-
-###DEC-001373-0-000-17-01-1995@@@
-
 DECRETO N° 1.373, DE 17 DE JANEIRO DE 1995
 
 Cria o Consulado‑Geral do Brasil em Tóquio.

@@ -1,5 +1,3 @@
-###DEC-069852-0-000-29-12-1971@@@
-
 Decreto Nº 69.852 - de 29 de dezembro de 1971
 
 Declara de utilidade pública, para fins de constituição de servidão faixas de terra destinadas à passagem de linhas de transmissão nos municípios de Iporá e Piranhas, no Estado de Goiás.

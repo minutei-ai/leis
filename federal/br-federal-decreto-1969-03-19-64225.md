@@ -1,5 +1,3 @@
-###DEC-064225-0-000-19-03-1969@@@
-
 DECRETO Nº 64.225, DE 19 DE MARÇO DE 1969.
 
 Retifica o Decreto nº 55.464, de 5 de janeiro de 1965.

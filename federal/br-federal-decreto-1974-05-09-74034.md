@@ -1,5 +1,3 @@
-###DEC-074034-0-000-09-05-1974@@@
-
 DECRETO Nº 74.034, DE 9 DE MAIO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão no Estado de São Paulo.

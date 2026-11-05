@@ -1,5 +1,3 @@
-###DEC-074743-0-000-22-10-1974@@@
-
 DECRETO Nº 74.743, DE 22 DE OUTUBRO DE 1974.
 
 Concede a Indústria Floriano Bianchini S.A., o direito de lavrar calcário dolomítico no Município de Rio das Pedras, Estado de São Paulo.

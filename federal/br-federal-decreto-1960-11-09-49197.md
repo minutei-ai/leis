@@ -1,5 +1,3 @@
-###DEC-049197-0-000-09-11-1960@@@
-
 DECRETO Nº 49.197, DE 09 DE NOVEMBRO DE 1960.
 
 Altera a lotação numérica das repartições atendidas pelo Quadro Permanente do Ministério da Aeronáutica.

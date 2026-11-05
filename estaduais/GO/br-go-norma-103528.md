@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 23-10-2020
+
+<!-- nota-edicao:fim -->
+
 LEI Nº 20.886, DE 23 DE OUTUBRO DE 2020
 
 [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-)
@@ -22,8 +28,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 23 de outubro de 2020, 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -31,7 +35,4 @@ Governador do Estado
 KARLOS CABRAL
 
 Deputado Estadual
-
-Este texto não substitui o publicado no Suplemento do D.O. de 23-10-2020
-
 .

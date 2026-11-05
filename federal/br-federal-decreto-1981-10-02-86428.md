@@ -1,5 +1,3 @@
-###DEC-086428-0-000-02-10-1981@@@
-
 Decreto nº 86.428, de 02 de outubro de 1981.
 
 Concede autorização à empresa PECTEN BRAZIL BAHIA EXPLORATION COMPANY para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

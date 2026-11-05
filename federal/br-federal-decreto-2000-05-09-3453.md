@@ -1,5 +1,3 @@
-###DEC-003453-0-000-09-05-2000@@@
-
 Decreto nº 3.453, de 9 de maio de 2000.
 
 Delega competência ao Ministro de Estado da Justiça para declarar a perda e a reaquisição da nacionalidade brasileira, na forma dos arts. 12, § 4º, da Constituição, e 22, incisos I e III, e 36 da Lei nº 818, de 18 de setembro de 1949.

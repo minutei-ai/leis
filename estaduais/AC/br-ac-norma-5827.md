@@ -1,6 +1,10 @@
 > **LEI Nº 4.266, DE 08 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de utilidade pública o Centro Espírita Beneficente União do Vegetal - Núcleo Rio Jordão.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de utilidade pública o Centro Espírita Beneficente União do Vegetal - Núcleo Rio Jordão.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

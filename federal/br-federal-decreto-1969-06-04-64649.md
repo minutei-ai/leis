@@ -1,5 +1,3 @@
-###DEC-064649-0-000-04-06-1969@@@
-
 DECRETO Nº 64.649, DE 4 DE JUNHO DE 1969.
 
 Retifica o art. 1º do Decreto número 2.187, de 22 de janeiro de 1963.

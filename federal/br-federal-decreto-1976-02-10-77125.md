@@ -1,5 +1,3 @@
-###DEC-077125-0-000-10-02-1976@@@
-
 DECRETO Nº 77.125, DE 10 DE FEVEREIRO DE 1976
 
 Autoriza Gianna Estella Fatio, de nacionalidade suíça, a adquirir imóvel rural.

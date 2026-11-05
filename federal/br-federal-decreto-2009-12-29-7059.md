@@ -1,5 +1,3 @@
-###DEC-007059-0-000-29-12-2009@@@
-
 DECRETO Nº 7.059 DE 29 DE DEZEMBRO DE 2009.
 
 Aprova os percentuais e valores máximos da subvenção ao prêmio do seguro rural para o triênio 2010 a 2012.
@@ -32,4 +30,38 @@ PERCENTAGENS DE SUBVENÇÃO AO PRÊMIO DO SEGURO RURAL
 
 PARA O TRIÊNIO 2010 A 2012
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:116.75pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Modalidades de Seguro</span></p></td><td style="width:177.15pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupos de culturas</span></p></td><td style="width:147.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Percentuais de Subvenção %</span></p></td></tr><tr><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Agrícola</span></p></td><td style="width:177.15pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Feijão, milho segunda safra e trigo.</span></p></td><td style="width:147.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70</span></p></td></tr><tr><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:177.15pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ameixa, aveia, canola, caqui, cevada, centeio, figo, kiwi, linho, maçã, nectarina, pêra, pêssego, sorgo, triticale e uva.</span></p></td><td style="width:147.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td></tr><tr><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:177.15pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Algodão, arroz, milho e soja.</span></p></td><td style="width:147.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50</span></p></td></tr><tr><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:176.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abacate, abacaxi, abóbora, abobrinha, alface, alho, amendoim, atemoia, banana, batata, berinjela, beterraba, cacau, café, caju, cana-de-açúcar, cebola, cenoura, cherimoia, chuchu, couve-flor, ervilha, escarola (chicoria), fava, girassol, goiaba, graviola, jiló, laranja, lichia, lima, limão e demais cítricos, mamão, mamona, mandioca, manga, maracujá, melancia, melão, morango, pepino, pimentão, pinha, quiabo, repolho, sisal, tangerina, tomate, vagem e demais hortaliças e legumes.</span></p></td><td style="width:147.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40</span></p></td></tr><tr><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pecuário</span></p></td><td style="width:176.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:147.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30</span></p></td></tr><tr><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De Florestas</span></p></td><td style="width:176.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:147.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30</span></p></td></tr><tr><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:1.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Aquícola</span></p></td><td style="width:176.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:1.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:147.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:1.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30</span></p></td></tr></tbody></table>
+Modalidades de Seguro
+
+Grupos de culturas
+
+Percentuais de Subvenção %
+
+Agrícola
+
+Feijão, milho segunda safra e trigo.
+
+70
+
+Ameixa, aveia, canola, caqui, cevada, centeio, figo, kiwi, linho, maçã, nectarina, pêra, pêssego, sorgo, triticale e uva.
+
+60
+
+Algodão, arroz, milho e soja.
+
+50
+
+Abacate, abacaxi, abóbora, abobrinha, alface, alho, amendoim, atemoia, banana, batata, berinjela, beterraba, cacau, café, caju, cana-de-açúcar, cebola, cenoura, cherimoia, chuchu, couve-flor, ervilha, escarola (chicoria), fava, girassol, goiaba, graviola, jiló, laranja, lichia, lima, limão e demais cítricos, mamão, mamona, mandioca, manga, maracujá, melancia, melão, morango, pepino, pimentão, pinha, quiabo, repolho, sisal, tangerina, tomate, vagem e demais hortaliças e legumes.
+
+40
+
+Pecuário
+
+30
+
+De Florestas
+
+30
+
+Aquícola
+
+30

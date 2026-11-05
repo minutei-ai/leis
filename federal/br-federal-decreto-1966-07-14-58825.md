@@ -1,5 +1,3 @@
-###DEC-058825-0-000-14-07-1966@@@
-
 DECRETO Nº 58.825, DE 14 DE JULHO DE 1966.
 
 Promulga a Convenção nº 108 concernente às carteiras de Identidade-Nacionais dos Marítimos.

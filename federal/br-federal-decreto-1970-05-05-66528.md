@@ -1,5 +1,3 @@
-###DEC-066528-0-000-05-05-1970@@@
-
 DECRETO Nº 66.528, DE 5 DE MAIO DE 1970.
 
 Concede à Emprêsa Mineradora Planalto Ltda., o direito de lavrar quartzito, no município de Mogi das Cruzes, Estado de São Paulo

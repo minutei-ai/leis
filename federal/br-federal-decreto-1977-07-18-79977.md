@@ -1,5 +1,3 @@
-###DEC-079977-0-000-18-07-1977@@@
-
 DECRETO Nº 79.977, de 18 DE JULHO DE 1977
 
 Delega competência ao Ministro da Educação e Cultura para aprovar os estatutos das Universidades.

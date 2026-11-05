@@ -76,8 +76,6 @@ b) ao art. 1º deste Decreto.
 
 Goiânia, 16 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

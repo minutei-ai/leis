@@ -1,5 +1,3 @@
-###DEL-003930-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.930 – DE 11 DE DEZEMBRO DE 1941
 
 Cria seis Companhias de Infantaria de Guarda na Força Aérea Brasileira

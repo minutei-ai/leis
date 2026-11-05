@@ -1,5 +1,3 @@
-###DEC-073982-0-000-24-04-1974@@@
-
 DECRETO Nº 73.982, DE 24 DE ABRIL DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências e Letras de Campo Mourão, mantida pela Fundação de Ensino Superior de Campo Mourão, Estado do Paraná.

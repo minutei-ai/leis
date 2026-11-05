@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f59f3d14-4a4a-462c-93f3-574e91b4d4c7/texto#nowhere)
 
-###DEL-000824-0-000-05-09-1969@@@
-
 DECRETO-LEI Nº 824, DE 5 DE SETEMBRO DE 1969
 
 Dispõe sôbre a remessa de obras impressas ao Instituto Nacional do Livro.

@@ -1,5 +1,3 @@
-###MPV-001900-0-044-25-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.900-44, DE 25 DE NOVEMBRO DE 1999.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

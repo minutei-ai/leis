@@ -1,5 +1,3 @@
-###DEC-005934-0-000-18-10-2006@@@
-
 DECRETO Nº 5.934, DE 18 DE OUTUBRO DE 2006.
 
 Estabelece mecanismos e critérios a serem adotados na aplicação do disposto no art. 40 da Lei no 10.741, de 1o de outubro de 2003 (Estatuto do Idoso), e dá outras providências.
@@ -95,5 +93,3 @@ Brasília, 18 de outubro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
           Paulo Sergio Oliveira Passos
-
-Este texto não substitui o publicado no DOU de 19.10.2006

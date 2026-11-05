@@ -1,5 +1,3 @@
-###DEC-056783-0-000-24-08-1965@@@
-
 DECRETO Nº 56.783, DE 24 DE AGôSTO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Mercantil Companhia Nacional de Seguros, inclusive aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-059672-0-000-06-12-1966@@@
-
 Decreto Nº 59.672, DE 6 DE DEZEMBRO DE 1966.
 
 Abre pelo Ministério da Fazenda o crédito suplementar de Cr$ 17.900.000, para atender as despesas da Auditoria de Justiça Militar e Corpo de Bombeiros do Estado da Guanabara.
@@ -10,7 +8,33 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério da Fazenda o crédito suplementar de Cr$17.900.000 (dezessete milhões e novecentos mil cruzeiros) em refôrço à seguinte dotação do vigente orçamento:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.07.00..................................................................................................</span></p></td><td style="width:117.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Fazenda</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.07.22..................................................................................................</span></p></td><td style="width:117.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Diretoria de Despesa Pública (Encargos Gerais)</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.0.0.0...................................................................................................</span></p></td><td style="width:117.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2.0.0...................................................................................................</span></p></td><td style="width:117.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Transferências Correntes</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2.9.0...................................................................................................</span></p></td><td style="width:117.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Diversas Transferências Correntes</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2.9.3...................................................................................................</span></p></td><td style="width:117.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Entidades Estaduais</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>k-11</span></p></td><td style="width:117.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Guanabara</span></p></td></tr></tbody></table>
+4.07.00..................................................................................................
+
+Ministério da Fazenda
+
+4.07.22..................................................................................................
+
+- Diretoria de Despesa Pública (Encargos Gerais)
+
+3.0.0.0...................................................................................................
+
+- Despesas Correntes
+
+3.2.0.0...................................................................................................
+
+- Transferências Correntes
+
+3.2.9.0...................................................................................................
+
+- Diversas Transferências Correntes
+
+3.2.9.3...................................................................................................
+
+- Entidades Estaduais
+
+k-11
+
+- Guanabara
 
 2\) Para atender a encargos de pessoal, de acôrdo com a Lei nº 3.752, de 12.4.1960.
 

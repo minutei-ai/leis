@@ -1,5 +1,3 @@
-###DEC-051070-0-000-28-07-1961@@@
-
 decreto nº 51.070, de 28 de julho de 1961.
 
 Altera o art. 1º do Regimento da Comissão Brasileira de Turismo.

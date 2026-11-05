@@ -1,5 +1,3 @@
-###DEC-003452-0-000-09-05-2000@@@
-
 Decreto nº 3.452, de 9 de maio de 2000.
 
 Altera o Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999.

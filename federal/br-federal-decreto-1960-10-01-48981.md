@@ -1,5 +1,3 @@
-###DEC-048981-0-000-01-10-1960@@@
-
 DECRETO Nº 48.981, DE 1º DE OUTUBRO DE 1960.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Angra dos Reis (RJ).

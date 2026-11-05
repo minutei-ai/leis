@@ -1,5 +1,3 @@
-###DEC-072279-0-000-17-05-1973@@@
-
 DECRETO Nº 72.279, DE 17 DE MAIO DE 1973
 
 Cria a Estação Rádio de Rio Grande, e dá outras providências.

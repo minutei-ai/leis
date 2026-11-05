@@ -1,5 +1,3 @@
-###DEL-002171-0-000-13-11-1984@@@
-
 # Decreto-lei nº 2.171, de 13 de novembro De 1984
 
 Dispõe sobre o reajuste dos benefícios da Previdência Social.
@@ -27,8 +25,6 @@ Brasília, em 13 de novembro de 1984; 163º da Independência e 96º da Repúbli
 JOÃO FIGUEIREDO
 
 Jarbas Passarinho
-
-###DEL-002171-0-000-13-11-1984@@@RET01+++
 
 # DECRETO-lei Nº 2.171, DE 13 DE NOVEMBRO DE 1984.
 

@@ -1,5 +1,3 @@
-###DEC-051954-0-000-26-04-1963@@@
-
 DECRETO Nº 51.954, DE 26 DE ABRIL DE 1963.
 
 Concede à sociedade Navegação Setentrional Brasileira Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

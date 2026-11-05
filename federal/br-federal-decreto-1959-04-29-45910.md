@@ -1,5 +1,3 @@
-###DEC-045910-0-000-29-04-1959@@@
-
 DECRETO Nº 45.910, DE 29 DE ABRIL DE 1959.
 
 Concede à sociedade anônima Société de Sucreries Brésiliennes autorização para continuar a funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-097210-0-000-12-12-1988@@@
-
 DECRETO Nº 97.210, DE 12 DE DEZEMBRO DE 1988
 
 Promulga o Acordo Comercial entre a República Federativa do Brasil e a República Gabonesa.

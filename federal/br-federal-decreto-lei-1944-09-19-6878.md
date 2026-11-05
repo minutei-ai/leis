@@ -1,5 +1,3 @@
-###DEL-006878-0-000-19-09-1944@@@
-
 DECRETO-LEI N. 6.878 – DE 19 DE SETEMBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Educação e Saúde e dá outras providências

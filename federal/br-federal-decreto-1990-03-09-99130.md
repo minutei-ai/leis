@@ -1,7 +1,3 @@
-1
-
-###DEC-099130-0-000-09-03-1990@@@
-
 DECRETO Nº 99.130, DE 9 DE MARÇO DE 1990
 
 Outorga concessão à Empresa de RADIODIFUSÃO CAMPOGRANDENSE LTDA., para ex­plorar serviço de radiodifusão sonora em onda média, na Cidade de Campo Grande, Estado do Mato Grosso do Sul.

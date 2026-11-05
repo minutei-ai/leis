@@ -1,5 +1,3 @@
-###DEC-072623-0-000-16-08-1973@@@
-
 decreto Nº 72.623, de 16 de agosto de 1973.
 
 Concede à Empresa de Mineração Joseph Nigri Ltda. o direito de lavrar caulim e argila no Município de Santo André, Estado de São Paulo.

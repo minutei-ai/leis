@@ -1,5 +1,3 @@
-###DEC-090735-0-000-19-12-1984@@@
-
 Decreto nº 90.735, de 19 de dezembro de 1984
 
 Outorga concessão à TV TROPICAL DA BAHIA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Feira Santana, Estado da Bahia.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212979)<br>
-
 # DECRETO N° 70.876, DE 16 DE SETEMBRO DE 2026
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Sete Barras, que declarou Situação de Emergência em áreas do Município._

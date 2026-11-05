@@ -1,5 +1,3 @@
-###DEL-003590-0-000-04-09-1941@@@
-
 DECRETO-LEI N. 3.590 – DE 4 DE SETEMBRO DE 1941
 
 Extingue a Coletoria Federal de Barra do Mendes, Estado da Baía

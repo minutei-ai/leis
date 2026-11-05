@@ -1,5 +1,3 @@
-###DEC-056658-0-000-06-08-1965@@@
-
 Decreto nº 56.658, de 6 de agôsto de 1965.
 
 Autoriza a cessão sob a forma de utilização gratuita, do imóvel que menciona, situado no Estado da Guanabara.

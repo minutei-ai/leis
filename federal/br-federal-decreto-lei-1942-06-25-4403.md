@@ -1,5 +1,3 @@
-###DEL-004403-0-000-25-06-1942@@@
-
 DECRETO-LEI N. 4.403 – DE 25 DE JUNHO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de 30:000$0 para despesas com a mudança e instalação do Serviço de Estatística Demográfica, Moral e Política, e dá outras providências.

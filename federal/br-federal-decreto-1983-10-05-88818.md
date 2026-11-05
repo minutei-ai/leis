@@ -1,5 +1,3 @@
-###DEC-088818-0-000-05-10-1983@@@
-
 Decreto nº 88.818, de 05 de outubro de 1983
 
 Declara de utilidades pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Jerusalém, da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

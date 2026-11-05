@@ -1,5 +1,3 @@
-###DEC-004613-0-000-11-03-2003@@@
-
 DECRETO Nº 4.613, DE 11 DE MARÇO DE 2003.
 
        Regulamenta o Conselho Nacional de Recursos Hídricos, e dá outras providências.

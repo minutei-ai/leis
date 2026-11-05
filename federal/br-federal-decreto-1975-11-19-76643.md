@@ -1,5 +1,3 @@
-###DEC-076643-0-000-19-11-1975@@@
-
 DECRETO Nº 76.643, DE 19 DE NOVEMBRO DE 1975.
 
 Outorga à Companhia Fiação e Tecelagem São Pedro, concessão para o aproveitamento hidráulico de um trecho do Rio Tietê no Estado de São Paulo, para uso exclusivo.

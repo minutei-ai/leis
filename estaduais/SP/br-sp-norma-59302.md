@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/59302)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2005/compilacao-lei-12146-09.12.2005.html)
 
 # LEI N° 12.146, DE 09 DE DEZEMBRO DE 2005

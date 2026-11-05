@@ -1,7 +1,3 @@
-1
-
-###DEC-098029-0-000-08-08-1989@@@
-
 DECRETO N° 98.029, DE 8 DE AGOSTO DE 1989
 
 Renova a concessão outorgada à RÁDIO CULTURA DE VÁRZEA ALEGRE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Várzea Alegre, Estado do Ceará.

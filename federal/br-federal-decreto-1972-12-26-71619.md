@@ -1,5 +1,3 @@
-###DEC-071619-0-000-26-12-1972@@@
-
 DECRETO Nº 71.619 - DE 26 DE DEZEMBRO DE 1972
 
 Declara de utilidade pública as instituições que menciona.

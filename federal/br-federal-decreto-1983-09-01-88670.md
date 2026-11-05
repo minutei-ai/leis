@@ -1,5 +1,3 @@
-###DEC-088670-0-000-01-09-1983@@@
-
 Decreto nº 88.670, de 01 de setembro de 1983
 
 Concede à "The Wesleyan Church Corporation" (Missão dos Wesleyanos do Brasil) autorização para funcionar no Brasil.

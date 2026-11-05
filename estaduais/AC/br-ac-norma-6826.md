@@ -1,6 +1,10 @@
 > **LEI Nº 4.811, DE 09 DE JUNHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivo da Lei nº 1.422, de 18 de dezembro de 2001, que institui o Regimento de Custas Judiciais do Estado do Acre, para alterar o prazo de pagamento das custas judiciais após a extinção do processo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivo da Lei nº 1.422, de 18 de dezembro de 2001, que institui o Regimento de Custas Judiciais do Estado do Acre, para alterar o prazo de pagamento das custas judiciais após a extinção do processo.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

@@ -329,7 +329,3 @@ ANEXO II
 ÓRGÃOS DE APOIO ADMINISTRATIVO
 
 I – Gabinete do Procurador-Geral de Justiça II – Gabinete do Procurador-Geral Adjunto III – Diretoria-Geral IV – Superintendência Administrativa V – Superintendência Judiciária VI – Superintendência de Finanças
-
-\===================
-
-Data da última atualização: 20/12/2005.

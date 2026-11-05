@@ -1,5 +1,3 @@
-###DEC-061889-0-000-11-12-1967@@@
-
 decreto Nº 61.889, de 11 de dezembro de 1967.
 
 Concede reconhecimento à Faculdade de Filosofia “Bernardo Sayão”, de Anápolis - Estado de Goiás.

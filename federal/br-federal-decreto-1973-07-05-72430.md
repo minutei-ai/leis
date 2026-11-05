@@ -1,5 +1,3 @@
-###DEC-072430-0-000-05-07-1973@@@
-
 DECRETO Nº 72.430, DE 5 DE JULHO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, destacada de área maior, situada na Rua Brigadeiro Galvão, s/nº, Bairro da Barra Funda, Município de São Paulo, Estado de São Paulo, destinada à aplicação da Estação Telefônica denominada "Palmeiras", pela Telecomunicações de São Paulo S.A. - TELESP.

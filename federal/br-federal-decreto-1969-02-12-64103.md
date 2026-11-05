@@ -1,5 +1,3 @@
-###DEC-064103-0-000-12-02-1969@@@
-
 DECRETO Nº 64.103, DE 12 DE FEVEREIRO DE 1969.
 
 Declara de utilidade pública, a Congregação de Madres Agostinianas Terceiras Missionárias de Ultramar, com sede em São Paulo, Estado de São Paulo.

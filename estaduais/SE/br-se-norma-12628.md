@@ -34,6 +34,4 @@ Cristiano Barreto Guimarães
 
 Secretário Especial de Governo
 
-_Iniciativa do Deputado Marcelo Sobral – União_
-
-Este texto não substitui o publicado no D.O.E. de 29.09.2026.
+_Iniciativa do Deputado Marcelo Sobral – União

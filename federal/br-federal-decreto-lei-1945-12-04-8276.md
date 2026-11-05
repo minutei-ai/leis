@@ -1,5 +1,3 @@
-###DEL-008276-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.276 – DE 4 DE DEZEMBRO DE 1945
 
 Modifica o Decreto-lei n. 7.977, de 20 de setembro de 1945

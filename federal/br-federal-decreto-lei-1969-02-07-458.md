@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e275623d-f875-427e-8e00-4f7919179ce7/texto#nowhere)
 
-###DEL-000458-0-000-07-02-1969@@@
-
 DECRETO-LEI Nº 458, DE 7 DE FEVEREIRO DE 1969
 
 Autoriza a elevação do capital do Banco do Brasil S. A. e dá outras providências.

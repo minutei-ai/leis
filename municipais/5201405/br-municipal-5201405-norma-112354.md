@@ -24,15 +24,18 @@ Art. 6° - O município proporcionará a proteção jurídico-social aos que del
 
 Art. 7° - Caberá ao Conselho Municipal dos Direitos da Criança e do Adolescente, expedir normas para a organização e o funcionamento dos serviços criados nos termos dos artigos 4°, 5° e 6°, desta Lei.
 
-TÍTULO II<br>
+TÍTULO II
+
 DA POLÍTICA DE ATENDIMENTO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 8° - Fica criado o Conselho Municipal dos Direitos da Criança e do Adolescente, como órgão autônomo, deliberativo e controlador das ações em todos os níveis, vinculado ao Gabinete do Prefeito.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA COMPETÊNCIA DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE.
 
 Art. 9° - Compete ao Conselho Municipal dos Direitos da Criança e do Adolescente.
@@ -75,12 +78,14 @@ XI - Assessorar os Poderes Executivo e Legislativo Municipal, nas alterações p
 
 XII - Regulamentar, através de resolução, organizar, coordenar, bem como adotar todas as providências que julgar cabíveis para a eleição e posse do Conselho Municipal dos Direitos da Criança e do Adolescente e Conselhos Tutelares do Município.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DOS MEMBROS DO CONSELHO, ORGANIZAÇÃO DO CONSELHO
 
 Art. 10 - O Conselho Municipal dos Direitos da Criança e do Adolescente é um órgão colegiado de composição paritária, é composto de 10 (dez) membros, sendo:
 
- I - 10 (dez) representantes do poder Executivo Municipal, abaixo discriminados indicados pelos seus respectivos titulares e nomeados pelo Prefeito Municipal, no prazo de 08 (oito) dias contados da solicitação para nomeação e posse pelo CMDCA:<br>
+ I - 10 (dez) representantes do poder Executivo Municipal, abaixo discriminados indicados pelos seus respectivos titulares e nomeados pelo Prefeito Municipal, no prazo de 08 (oito) dias contados da solicitação para nomeação e posse pelo CMDCA:
+
 (Redação alterada pela Lei Ordinária nº 3.177, de 9 de outubro de 2014).
 
 ~~I - 05 (cinco) representantes do Poder Executivo Municipal; abaixo discriminados, indicados por seus respectivos titulares e nomeados pelo Prefeito Municipal, no prazo de 08 (oito) dias contados da solicitação para nomeação e posse pelo CMDCA:~~
@@ -93,22 +98,28 @@ c) - 01 (um) representante da Secretaria Municipal da Saúde e seu suplente;
 
 d) - 01 (um) representante da Secretaria Municipal de Desporto e Lazer e seu suplente;
 
-e – 01 (um) representante da Secretaria Municipal de Cultura e Turismo;<br>
+e – 01 (um) representante da Secretaria Municipal de Cultura e Turismo;
+
 (Redação acrescentada pela Lei Ordinária nº 3.177, de 9 de outubro de 2014).
 
-f – 01 (um) representante da Secretaria Municipal de Administração;<br>
+f – 01 (um) representante da Secretaria Municipal de Administração;
+
 (Redação acrescentada pela Lei Ordinária nº 3.177, de 9 de outubro de 2014).
 
-g – 01 (um) representante da Secretaria de Habitação e Regularização Fundiária.<br>
+g – 01 (um) representante da Secretaria de Habitação e Regularização Fundiária.
+
 (Redação acrescentada pela Lei Ordinária nº 3.177, de 9 de outubro de 2014).
 
-h – 01 (um) representante da Secretaria de Fazenda;<br>
+h – 01 (um) representante da Secretaria de Fazenda;
+
 (Redação acrescentada pela Lei Ordinária nº 3.177, de 9 de outubro de 2014).
 
-i – 01 (um) representante da Secretaria de Trabalho, Emprego e Renda.<br>
+i – 01 (um) representante da Secretaria de Trabalho, Emprego e Renda.
+
 (Redação acrescentada pela Lei Ordinária nº 3.177, de 9 de outubro de 2014).
 
-II – 10 (dez) membros representantes de entidades não governamentais de defesa ou atendimento dos direitos de criança e do adolescente e/ou entidades de classe que possam contribuir efetivamente para o atendimento dos direitos de que trata esta Lei. <br>
+II – 10 (dez) membros representantes de entidades não governamentais de defesa ou atendimento dos direitos de criança e do adolescente e/ou entidades de classe que possam contribuir efetivamente para o atendimento dos direitos de que trata esta Lei. 
+
 (Redação alterada pela Lei Ordinária nº 3.177, de 9 de outubro de 2014).
 
 ~~II - 05 (cinco) membros representantes de entidades não governamentais de defesa ou atendimento dos direitos da criança e do adolescente e/ou de entidades de classe que possam contribuir efetivamente para o atendimento dos direitos de que trata esta Lei.~~
@@ -147,7 +158,8 @@ Art. 14 - O Executivo Municipal destinará espaço físico para instalação e f
 
 Art. 15 - Perderá o mandato o Conselheiro que não comparecer à 03 (três) sessões consecutivas ou a 10 (dez) alternadas, ou se for condenado por sentença irrecorrigível, por crime ou contravenção penal, conforme dispuser o Regime Interno que, disciplinará a substituição, com estrita observância das normas desta seção.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO CONSELHO TUTELAR DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE DAS DISPOSIÇÕES GERAIS
 
 Art. 16 - Fica criado o Conselho Tutelar, órgão permanente e autônomo, não jurisdicional, encarregado de zelar pelo cumprimento dos direitos da criança e do adolescente, composto por 05 (cinco) membros, para mandato de 03 (três) anos, permitida uma reeleição.
@@ -170,7 +182,8 @@ Parágrafo único - Podem votar os maiores de 16 (dezesseis) anos, inscritos com
 
 Art. 18 - O processo de escolha será organizado mediante a elaboração de regimento que disciplinará e formará a comissão de escolha, sob a responsabilidade e coordenação do Conselho Municipal dos Direitos da Criança e do Adolescente.
 
-Seção I<br>
+Seção I
+
 DOS REQUISITOS E DO REGISTRO DAS CANDIDATURAS
 
 Art. 19 - A candidatura é individual e sem vinculação a partido político.
@@ -197,7 +210,8 @@ VIII - ser aprovado em prova de conhecimentos gerais sobre o Estatuto da Crianç
 
 § 2° - Somente serão admitidos a fazer as provas os candidatos que preencherem os demais requisitos acima.
 
-§ 3º- O candidato que for aprovado na prova de conhecimentos gerais sobre o Estatuto da Criança e do Adolescente, será submetido a uma avaliação psicológica, de caráter eliminatório, a ser realizada por profissionais indicados pela comissão eleitoral.<br>
+§ 3º- O candidato que for aprovado na prova de conhecimentos gerais sobre o Estatuto da Criança e do Adolescente, será submetido a uma avaliação psicológica, de caráter eliminatório, a ser realizada por profissionais indicados pela comissão eleitoral.
+
 (Redação acrescentada pela Lei Ordinária nº 2.818, de 4 de junho de 2019).
 
 Art. 21 - A candidatura deve ser registrada no prazo regulamentar mediante apresentação de requerimento endereçado ao Presidente da Junta Eleitoral, acompanhado de prova de preenchimento dos requisitos estabelecidos no artigo anterior.
@@ -212,7 +226,8 @@ Art. 24 - Das decisões relativas às impugnações caberá recurso ao President
 
 Art. 25 - Vencidas as fases de impugnação e recurso o Presidente do Conselho Municipal de Direitos, publicará o edital com os nomes dos candidatos habilitados ao pleito.
 
-Seção II<br>
+Seção II
+
 DA REALIZAÇÃO DO PLEITO
 
 Art. 26 - O processo de escolha será publicado pelo Presidente da Junta Eleitoral, mediante edital, na imprensa local, 03 (três) meses antes do término dos mandatos dos membros do Conselho Tutelar.
@@ -229,7 +244,8 @@ Art. 31 - À medida em que os votos forem sendo apurados poderão os candidatos 
 
 Parágrafo único - Todo o processo de candidatura e escolha dos membros do Conselho Tutelar será desenvolvido sob a fiscalização de um membro do Ministério Público.
 
-Seção III<br>
+Seção III
+
 DA PROCLAMAÇÃO, NOMEAÇÃO E POSSE DOS ELEITOS
 
 Art. 32 - Concluída a apuração dos votos, o Presidente da Junta Eleitoral, proclamará o resultado da votação, mandando publicar os nomes dos candidatos e o número de sufrágios recebidos.
@@ -242,14 +258,16 @@ Art. 32 - Concluída a apuração dos votos, o Presidente da Junta Eleitoral, pr
 
 § 4° - Ocorrendo a vacância do cargo, assumirá o suplente que houver obtido o maior número de votos.
 
-Seção IV<br>
+Seção IV
+
 DOS IMPEDIMENTOS
 
 Art. 33 - São impedidos de servir ao mesmo Conselho marido ou mulher, ascendentes, sogro, genro e nora, irmãos, cunhados, durante o cunhado, tios e sobrinhos, padrasto ou madrasta e enteado.
 
 Parágrafo único - Da mesma forma estão impedidos de servir os representantes do Poder Judiciário e Membros do Ministério Público.
 
-Seção V<br>
+Seção V
+
 DAS ATRIBUIÇÕES E FUNCIONAMENTO DO CONSELHO
 
 Art. 34 - Compete ao Conselho Tutelar exercer as atribuições constantes dos artigos 96 e 136, da Lei Federal n.° 8.069/90.
@@ -268,7 +286,8 @@ Art. 38 - As sessões serão realizadas em dias úteis.
 
 Art. 39 - O Conselho manterá uma Secretaria Geral, destinada ao suporte administrativo necessário ao seu funcionamento, utilizando-se de instalações e funcionários cedidos pela Prefeitura Municipal.
 
-Seção VI<br>
+Seção VI
+
 DA COMPETÊNCIA
 
 Art. 40 - A competência será determinada:
@@ -281,10 +300,12 @@ II - Pelo lugar onde se encontre a criança ou adolescente, à falta dos pais ou
 
 § 2° - A execução das medidas de proteção poderá ser delegada ao Conselho Tutelar da residência dos pais ou responsável, ou local onde sediar-se a entidade que abrigar a criança e o adolescente.
 
-Seção VII<br>
+Seção VII
+
 DA REMUNERAÇÃO
 
-Art. 41 – A remuneração dos Conselheiros Tutelares e Conselheiro Presidente será equivalente à remuneração de Assessor Especial -1 (AES-1), prevista na Lei Municipal n.º 2.519, de 19 de julho de 2005, ou outro cargo equivalente, em caso de mudança na Estrutura Administrativa Municipal.<br>
+Art. 41 – A remuneração dos Conselheiros Tutelares e Conselheiro Presidente será equivalente à remuneração de Assessor Especial -1 (AES-1), prevista na Lei Municipal n.º 2.519, de 19 de julho de 2005, ou outro cargo equivalente, em caso de mudança na Estrutura Administrativa Municipal.
+
 (Redação alterada pela Lei Ordinária nº 2.818, de 4 de junho de 2019).
 
 ~~Art. 41 - Remuneração de cada Conselheiro será equivalente à remuneração dos cargos comissionados de CC-2 e o Conselheiro Presidente terá a remuneração de Coordenador CC-l, previsto na Lei Municipal n.° 2.519, de 19 de julho de 2005, ou outro cargo equivalente, em caso de mudança na Estrutura Administrativa Municipal;~~
@@ -295,17 +316,20 @@ Art. 41 – A remuneração dos Conselheiros Tutelares e Conselheiro Presidente 
 
 Art. 42 - Os recursos necessários ao pagamento da remuneração dos membros do Conselho Tutelar, terão origem no tesouro municipal sendo pagos através do Gabinete do Prefeito.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO FUNDO MUNICIPAL DA INFÂNCIA E DA ADOLESCÊNCIA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA CRIAÇÃO E NATUREZA DO FUNDO
 
 Art. 43 - Fica criado o Fundo Municipal para a Infância e Adolescência, de acordo com o que estabelece a Constituição Federal e a Lei n.° 4.320/64, como captador e aplicador de recursos a serem utilizados segundo as deliberações do Conselho Municipal dos Direitos da Criança e do Adolescente, ao qual é órgão vinculado.
 
 Parágrafo único - O Fundo Municipal da Criança e da Adolescência, será regulamentado pelo Executivo Municipal.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA CONSTITUIÇÃO E COMPETÊNCIA DO FUNDO
 
 Art. 44 - O Fundo Municipal para a Infância e Adolescência será constituído de:
@@ -318,7 +342,8 @@ Art. 45 - O Fundo Municipal para a Infância e Adolescência, será administrado
 
 Art. 46 - O Fundo Municipal da Criança e Adolescente, bem como o CMDCA funcionará em espaço físico anexo à Secretária do Bem Estar Social.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA COMISSÃO DISCIPLINAR
 
 Art. 47 - Fica criada uma Comissão Disciplinar, com o objetivo de julgar administrativamente as faltas funcionais, e conduta inadequada, cometidas pelos Conselheiros Tutelares e Conselheiros Municipais de Direitos.
@@ -355,7 +380,8 @@ II - Advertência.
 
 Art. 57 – Concluída a apuração dos fatos articulados na representação serão extraídas cópias e encaminhada ao Ministério Público, para propositura da ação competente.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 58 - Será realizada eleições para o Conselho Tutelar no 1° Sábado do mês de março de 2006 e a partir desta data a cada 03 (três) anos, conforme artigo 17 e seguintes, sempre no 10 sábado de março.
@@ -368,11 +394,14 @@ Art. 61 - Esta Lei entrará em vigor na data de sua publicação, revogando-se q
 
 Gabinete do Prefeito Municipal de Aparcida de Goiânia, aos vinte e um dias do mês de dezembro de dois mil e cinco.
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-APARECIDA PEREIRA SILVA ARAÚJO<br>
+APARECIDA PEREIRA SILVA ARAÚJO
+
 1ª DAMA / SEC. DO BEM ESTAR SOCIAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO

@@ -1,5 +1,3 @@
-###DEC-085688-0-000-02-02-1981@@@
-
 Decreto nº 85.688, de 02 de fevereiro de 1981
 
 Concede à Telecomunicações de Pernambuco S.A. - TELEPE, empresa controlada da Telecomunicações Brasileiras S.A. - TELEBRÁS, autorização para promover o aumento do seu capital social.

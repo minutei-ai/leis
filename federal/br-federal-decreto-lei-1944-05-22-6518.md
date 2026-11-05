@@ -1,5 +1,3 @@
-###DEL-006518-0-000-22-05-1944@@@
-
 DECRETO-LEI N. 6.518 –  DE 22 DE MAIO DE 1944
 
 Cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

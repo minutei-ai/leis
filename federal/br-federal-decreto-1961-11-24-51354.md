@@ -1,5 +1,3 @@
-###DEC-051354-0-000-24-11-1961@@@
-
 Decreto nº 51.354, de 24 de novembro de 1961.
 
 Cria cargos em comissão e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Industriários e dá outras providências.

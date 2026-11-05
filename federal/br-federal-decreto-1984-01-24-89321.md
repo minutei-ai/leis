@@ -1,5 +1,3 @@
-###DEC-089321-0-000-24-01-1984@@@
-
 Decreto nº 89.321, de 24 de janeiro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trecho de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

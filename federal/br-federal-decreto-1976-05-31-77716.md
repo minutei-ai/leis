@@ -1,5 +1,3 @@
-###DEC-077716-0-000-31-05-1976@@@
-
 Decreto nº 77.716 - de 31 de maio de 1976
 
 Autoriza a Universidade Federal do Ceará a alienar bens e imóveis de sua propriedade e dá outras providências.

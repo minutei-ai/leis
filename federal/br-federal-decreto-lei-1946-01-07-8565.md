@@ -1,5 +1,3 @@
-###DEL-008565-0-000-07-01-1946@@@
-
 DECRETO-LEI N. 8.565 – DE 7 DE JANEIRO DE 1946
 
 Dispõe sôbre as carreiras de Dactilógrafo, Escriturário e Oficial Administrativo dos Quadros Permanente, Suplementar e Especial do Ministério da Educação e Saúde.

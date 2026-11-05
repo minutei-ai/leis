@@ -1,5 +1,3 @@
-###MPV-002043-0-022-26-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.043-22, DE 26 DE SETEMBRO DE 2000.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

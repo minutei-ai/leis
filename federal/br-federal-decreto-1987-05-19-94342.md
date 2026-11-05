@@ -1,5 +1,3 @@
-###DEC-094342-0-000-19-05-1987@@@
-
 DECRETO Nº 94.342, DE 19 DE MAIO DE 1987.
 
 Concede à SIDERURGIA BRASILEIRA S.A. - SIDERBRÁS (GRUPO SIDERBRÁS), autorização para proceder a aumento de seu capital autorizado, bem como do capital social.

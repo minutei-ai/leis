@@ -1,5 +1,3 @@
-###DEC-056694-0-000-09-08-1965@@@
-
 Decreto nº 56.694, de 9 de agôsto de 1965.
 
 Outorga à Centrais Elétricas do Pará S.A. concessão para distribuir energia elétrica.

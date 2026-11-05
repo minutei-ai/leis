@@ -1,5 +1,3 @@
-###DEC-045550-0-000-05-03-1959@@@
-
 Decreto nº 45.550, de 5 de março de 1959.
 
 Autoriza a Companhia de Mineração Novalimense a lavrar ocre no município de Belo Horizonte, Estado de Minas Gerais.

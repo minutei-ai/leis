@@ -1,14 +1,12 @@
-###DEC-037223-0-000-27-04-1955@@@
+**DECRETO Nº 37.223, DE 27 DE ABRIL DE 1955.**
 
-<strong>DECRETO Nº 37.223, DE 27 DE ABRIL DE 1955.</strong>
+***Altera o Regulamento para a Diretoria de Eletrônica da Marinha.***
 
-<em><strong>Altera o Regulamento para a Diretoria de Eletrônica da Marinha.</strong></em>
+**O PRESIDENTE DA CÂMARA DOS DEPUTADOS**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA CÂMARA DOS DEPUTADOS</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado o Regulamento para a Diretoria de Eletrônica da Marinha, aprovado pelo Decreto nº 32.848, de 25 de maio de 1953, para o fim de dar a seguinte redação às alíneas <em>d</em> e <em>g</em> do art. 19:
+**Art**. 1º Fica alterado o Regulamento para a Diretoria de Eletrônica da Marinha, aprovado pelo Decreto nº 32.848, de 25 de maio de 1953, para o fim de dar a seguinte redação às alíneas *d* e *g* do art. 19:
 
 “Art. 19 - ..................................................................................................................................
 
@@ -20,10 +18,10 @@ g) tantos oficiais superiores e capitães-tenentes, da ativa dos diversos Corpos
 
 ............................................................................................................................................................................................................................................................................................................
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 27 de abril de 1955; 134º da Independência e 67º da República.
 
-<strong>CARLOS COIMBRA DA LUZ</strong>
+**CARLOS COIMBRA DA LUZ**
 
 Salalino Coelho

@@ -1,5 +1,3 @@
-###DEL-001336-0-000-18-07-1974@@@
-
 # DECRETO-LEI Nº 1.336, DE 18 DE JULhO DE 1974
 
 Acrescenta parágrafo ao artigo 11 do Decreto-lei nº 1.312, de 15 de  fevereiro de 1974.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208607)<br>
-
 # LEI N° 17.777, DE 02 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 443/2022, da Deputada Carla Morando - PSDB)

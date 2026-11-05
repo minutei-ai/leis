@@ -1,5 +1,3 @@
-###DEC-058007-0-000-15-03-1966@@@
-
 DECRETO Nº 58.007, DE 15 DE MARÇO DE 1966.
 
 Cria departamentos de ensino na Escola Nacional de Saúde Pública do Ministério da Saúde.

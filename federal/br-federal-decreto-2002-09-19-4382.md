@@ -1,5 +1,3 @@
-###DEC-004382-0-000-19-09-2002@@@
-
 DECRETO Nº 4.382, DE 19 DE SETEMBRO DE 2002
 
 Regulamenta a tributação, fiscalização, arrecadação e administração do Imposto sobre a Propriedade Territorial Rural - ITR.

@@ -1,5 +1,3 @@
-###DEL-009630-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.630 – DE 22 DE AGÔSTO DE 1946
 
 Autoriza a Administração do Pôrto do Rio de Janeiro a suprimir funções em sua Tabela Numérica de Mensalistas e dá outras providências.

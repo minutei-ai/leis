@@ -1,5 +1,3 @@
-###DEC-051924-0-000-26-04-1963@@@
-
 DECRETO Nº 51.924, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Joaquim Pinheiro dos Santos a comprar pedras preciosas.

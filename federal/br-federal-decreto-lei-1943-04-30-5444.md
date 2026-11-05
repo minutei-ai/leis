@@ -1,5 +1,3 @@
-###DEL-005444-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.444 – DE 30 DE ABRIL DE 1943
 
 Dispõe sobre promoção de Aspirantes Intendentes do Exército

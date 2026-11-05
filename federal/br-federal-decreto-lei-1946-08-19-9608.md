@@ -1,5 +1,3 @@
-###DEL-009608-0-000-19-08-1946@@@
-
 dECRETO-LEI N. 9.608 – DE 19 DE AGÔSTO DE 1946
 
 Dispõe sôbre a organização do Ministério Público Federal e dá outras providências

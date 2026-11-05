@@ -1,7 +1,3 @@
-1
-
-###DEC-000229-0-000-11-10-1991@@@
-
 DECRETO N° 229, DE 11 DE OUTUBRO DE 1991
 
 Aprova a Estrutura Regimental do Instituto Nacional de Assistência Médica da Previdência Social, e dá outras providencias.

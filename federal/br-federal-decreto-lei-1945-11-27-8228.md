@@ -1,5 +1,3 @@
-###DEL-008228-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.228 – DE 27 DE NOVEMBRO DE 1945
 
 Regula a situação dos oficiais da extinta Polícia do Território do Acre e sua inclusão nos Quadros da Polícia Militar do Distrito Federal.

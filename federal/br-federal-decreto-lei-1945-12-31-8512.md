@@ -1,5 +1,3 @@
-###DEL-008512-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.512 – DE 31 DE DEZEMBRO DE 1945
 
 Concede aumento geral aos servidores civis, militares, reformados inativos e pensionistas, e da outras providências

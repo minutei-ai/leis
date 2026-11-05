@@ -1,5 +1,3 @@
-###DEL-004205-0-000-26-03-1942@@@
-
 DECRETO-LEI N. 4.205 – DE 26 DE MARÇO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores, o crédito especial de 1.553:000$0 para pagamento de débitos da Administração do Território do Acre, contraídos em exercícios anteriores.

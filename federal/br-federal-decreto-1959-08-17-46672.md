@@ -1,5 +1,3 @@
-###DEC-046672-0-000-17-08-1959@@@
-
 decreto nº 46.672, de 17 de agôsto de 1959.
 
 Declara urgência de desapropriação por utilidade pública.

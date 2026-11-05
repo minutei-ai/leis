@@ -1,5 +1,3 @@
-###DEC-006023-0-000-22-01-2007@@@
-
 DECRETO Nº 6.023, DE 22 DE JANEIRO DE 2007.
 
 Altera o art. 2o do Decreto no 5.602, de 6 de dezembro de 2005, que regulamenta o Programa de Inclusão Digital instituído pela Lei no 11.196, de 21 de novembro de 2005.
@@ -27,5 +25,3 @@ Brasília, 22 de janeiro de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Guido Mantega
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

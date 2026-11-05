@@ -1,5 +1,3 @@
-###DEC-046738-0-000-26-08-1959@@@
-
 DECRETO Nº 46.738, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Hugo França Zanotti a pesquisar águas marinhas e quartzo no município de Itaguaçu, Estado de Espírito Santo.

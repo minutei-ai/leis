@@ -1,5 +1,3 @@
-###DEC-004679-0-000-24-04-2003@@@
-
 DECRETO Nº 4.679, DE 24 DE ABRIL DE 2003.
 
 Dispõe sobre a competência para adequar a Tabela de Incidência do Imposto sobre Produtos Industrializados (IPI) em decorrência de alterações promovidas na Nomenclatura Comum do Mercosul (NCM).

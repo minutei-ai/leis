@@ -1,5 +1,3 @@
-###DEC-068748-0-000-15-06-1971@@@
-
 DECRETO Nº 68.748 - DE 15 DE JUNHO DE 1971.
 
 Altera para Financiadora de Estudos e Projetos S.A. - FINEP - a denominação da empresa pública criada pelo Decreto nº 61.056, de 24 de julho de 1967, e dá outras providências.

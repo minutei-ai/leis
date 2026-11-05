@@ -1,5 +1,3 @@
-###DEC-003217-0-000-22-10-1999@@@
-
 DECRETO Nº 3.217, DE 22 DE OUTUBRO DE 1999.
 
 Altera dispositivos do Decreto nº 3.112, de 6 de julho de 1999.

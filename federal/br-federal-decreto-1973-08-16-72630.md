@@ -1,5 +1,3 @@
-###DEC-072630-0-000-16-08-1973@@@
-
 DECRETO Nº 72.630, DE 16 DE AGOSTO DE 1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Alegrete, mantida pela Fundação Educacional de Alegrete, com sede na Cidade de Alegrete, Estado do Rio Grande do Sul.

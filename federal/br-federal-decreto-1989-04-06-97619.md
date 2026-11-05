@@ -1,7 +1,3 @@
-1
-
-###DEC-097619-0-000-06-04-1989@@@
-
 DECRETO N° 97.619, DE 06 DE ABRIL DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “Lotes n°s 03 (parte), 11, 12, 13, 14 e 38 do Setor 3 da Gleba Corumbiara”, e Lotes n°s 89, 100 e parte do Lote 90 do Setor 02 da Gleba Corumbiara, classificados como “latifúndio por exploração”000, situados nos Municípios de Pimenta Bueno e Espigão D'Oeste, no Estado de Rondônia, compreendidos na zona prioritária, fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras providências.

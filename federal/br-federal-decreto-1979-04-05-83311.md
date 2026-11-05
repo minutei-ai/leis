@@ -1,5 +1,3 @@
-###DEC-083311-0-000-05-04-1979@@@
-
 DECRETO Nº 83.311, DE 05 DE ABRIL DE 1979.
 
 Altera o § 1º do artigo 3º, do Decreto nº 81.601, de 25 de abril de 1978.

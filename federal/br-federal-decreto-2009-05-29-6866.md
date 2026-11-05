@@ -1,5 +1,3 @@
-###DEC-006866-0-000-29-05-2009@@@
-
 DECRETO Nº 6.866, DE 29 DE MAIO DE 2009.
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT, do Ministério da Cultura para o Ministério do Planejamento, Orçamento e Gestão.

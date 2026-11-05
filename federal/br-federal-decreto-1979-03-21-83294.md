@@ -1,5 +1,3 @@
-###DEC-083294-0-000-21-03-1979@@@
-
 Decreto nº 83.294, de 21 de março de 1979.
 
 Revoga o Decreto nº 75.193, de 07 de janeiro de 1975.

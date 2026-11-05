@@ -1,5 +1,3 @@
-###DEC-052322-0-000-06-08-1963@@@
-
 DECRETO Nº 52.322, de 6 de agôsto de 1963.
 
 Dispõe sôbre a importação de barrilha.

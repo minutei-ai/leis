@@ -1,5 +1,3 @@
-###DEL-005517-0-000-24-05-1943@@@
-
 DECRETO-LEI N. 5.517 – DE 24 DE MAIO DE 1943
 
 Cria funções gratificadas no Ministério da Aeronáutica e dá outras providências

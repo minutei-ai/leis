@@ -1,5 +1,3 @@
-###DEC-061716-0-000-22-11-1967@@@
-
 DECRETO Nº 61.716, DE 22 DE NOVEMBRO DE 1967.
 
 Transfere da Prefeitura Municipal de Frutal para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município de Planura, Estado de Minas Gerais e dá outras providências.

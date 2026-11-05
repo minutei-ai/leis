@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e35560f9-7286-4498-818e-b608409fa0d0/texto#nowhere)
 
-###DEL-001817-0-000-11-12-1980@@@
-
 # Decreto-lei nº 1.817, de 11 de dezembro de 1980
 
 Dispõe sobre a execução no Território Federal de Rondônia, do Plano Nacional de Habitação Popular (PLANHAP), e dá outras providências.

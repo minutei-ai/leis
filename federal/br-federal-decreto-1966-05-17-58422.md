@@ -1,5 +1,3 @@
-###DEC-058422-0-000-17-05-1966@@@
-
 decreto nº 58.422, de 17 de maio de 1966.
 
 Declara de utilidade pública “Sociedade Hospital de Caridade Sant’Anna”, com sede em Bom Retiro do Sul, Estado do Rio Grande do Sul.

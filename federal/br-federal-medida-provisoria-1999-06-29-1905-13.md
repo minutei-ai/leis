@@ -1,5 +1,3 @@
-###MPV-001905-0-013-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.905-13, DE 29 DE JUNHO DE 1999.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

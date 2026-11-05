@@ -1,5 +1,3 @@
-###DEL-006669-0-000-10-07-1944@@@
-
 DECRETO-LEI N. 6.669 – DE 10 DE JULHO DE 1944
 
 Cria cargo em comissão no Quadro Permanente do Ministério da Agricultura, e dá outras providências

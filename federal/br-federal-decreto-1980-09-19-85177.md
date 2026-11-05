@@ -1,5 +1,3 @@
-###DEC-085177-0-000-19-09-1980@@@
-
 Decreto nº 85.177 de 19 de setembro de 1980
 
 Dispõe sobre o Grupo - Direção e Assessoramento Superiores dos Territórios Federais, a que se refere o art. 29 da Lei nº 6.550, de 05 de julho de 1978.

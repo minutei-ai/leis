@@ -1,5 +1,3 @@
-###DEC-066728-0-000-16-06-1970@@@
-
 DECRETO Nº 66.728, DE 16 DE JUNHO DE 1970.
 
 Revoga os Decretos de nº 48.088, de 8 de abril de 1960 e de nº 49.538, de 15 de dezembro do mesmo ano.

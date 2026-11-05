@@ -68,4 +68,4 @@ JAIR MESSIAS BOLSONARO
 
 Fernando Azevedo e Silva
 
-Ernesto Henrique Fraga Araújo<br>
+Ernesto Henrique Fraga Araújo

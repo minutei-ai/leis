@@ -1,5 +1,3 @@
-###DEC-002069-0-000-12-11-1996@@@
-
 DECRETO Nº 2.069, DE 12 DE NOVEMBRO DE 1996.
 
 Dá nova redação aos arts. 81, 82 e 83 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.

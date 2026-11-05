@@ -1,5 +1,3 @@
-###DEL-003803-0-000-06-11-1941@@@
-
 DECRETO-LEI N. 3.803 – DE 6 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 375:000$0, para despesas com atividades culturais e dá outras providências

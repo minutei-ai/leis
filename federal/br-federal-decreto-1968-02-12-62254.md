@@ -1,5 +1,3 @@
-###DEC-062254-0-000-12-02-1968@@@
-
 DECRETO Nº 62.254, DE 12 DE FEVEREIRO DE 1968.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, a fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

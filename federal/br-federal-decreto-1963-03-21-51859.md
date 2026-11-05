@@ -1,5 +1,3 @@
-###DEC-051859-0-000-21-03-1963@@@
-
 DECRETO Nº 51.859, DE 21 DE MARÇO DE 1963.
 
 Institui a Semana da Educação e dá outras providências.

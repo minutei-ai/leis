@@ -1,5 +1,3 @@
-###DEC-049364-0-000-29-11-1960@@@
-
 DECRETO Nº 49.364, DE 29 DE NOVEMBRO DE 1960.
 
 Autoriza estrangeiro a adquiri, em transferencia de aforamento fração ideal do terreno de acrescido de marinha que menciona, no Estado da Guanabara.

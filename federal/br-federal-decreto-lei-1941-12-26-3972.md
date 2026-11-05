@@ -1,5 +1,3 @@
-###DEL-003972-0-000-26-12-1941@@@
-
 DECRETO-LEI N. 3.972 – DE 26 DE DEZEMBRO DE 1941
 
 Transfere gratuitamente à Prefeitura Municipal da cidade de Curitiba, Capital do Estado do Paraná, para fins de logradouro. público, o domínio pleno de terreno nacional interior situado na mesma cidade e dá outras providências.

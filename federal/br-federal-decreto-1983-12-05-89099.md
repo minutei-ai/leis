@@ -1,5 +1,3 @@
-###DEC-089099-0-000-05-12-1983@@@
-
 DECRETO Nº 89.099, de 05 de dezembro de 1983.
 
 Cria o 4º Grupo de Artilharia Antiaérea e o 11º Grupo de Artilharia Antiaérea, no Ministério do Exército, e dá outras providências.

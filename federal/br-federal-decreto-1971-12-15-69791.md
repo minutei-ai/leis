@@ -1,5 +1,3 @@
-###DEC-069791-0-000-15-12-1971@@@
-
 DECRETO Nº 69.791 - DE 15 DE DEZEMBRO DE 1971
 
 Autoriza o funcionamento do Curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Santos, mantida pela Sociedade Visconde de São Leopoldo, na cidade de Santos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-086819-0-000-05-01-1982@@@
-
 decreto nº 86.819, de 05 de janeiro de 1982.
 
 Extingue o Comando Militar da Amazônia e 12ª Região Militar, no Ministério do Exército e dá outras providências.

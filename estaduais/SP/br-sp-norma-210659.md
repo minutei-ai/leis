@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210659)<br>
-
 # LEI N° 18.092, DE 26 DE FEVEREIRO DE 2025
 
 ## (Projeto de lei n° 922/2023, do Deputado Carlos Cezar - PL)

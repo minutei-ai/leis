@@ -1,7 +1,3 @@
-1
-
-###LCP-000031-0-000-11-10-1977@@@
-
 # LEI COMPLEMENTAR Nº 31, DE 11 OUTUBRO DE 1977
 
 Cria o Estado de Mato Grosso do Sul, e dá outras providências

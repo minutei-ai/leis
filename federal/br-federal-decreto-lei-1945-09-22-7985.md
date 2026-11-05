@@ -1,5 +1,3 @@
-###DEL-007985-0-000-22-09-1945@@@
-
 DECRETO-LEI N. 7.985 – DE 22 DE SETEMBRO DE 1945
 
 Cria as 2ª e 3ª Companhias de Manutenção

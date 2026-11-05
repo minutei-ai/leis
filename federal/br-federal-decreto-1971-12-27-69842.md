@@ -1,5 +1,3 @@
-###DEC-069842-0-000-27-12-1971@@@
-
 decreto nº 69.842 - de 27 DE DEZEMBRO de 1971
 
 Altera a organização do Departamento-Geral de Serviços e dá outras providências.

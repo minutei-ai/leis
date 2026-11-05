@@ -1,5 +1,3 @@
-###DEC-074865-0-000-11-11-1974@@@
-
 DECRETO Nº 74865, DE 11 DE NOVEMBRO DE 1974.
 
 Outorga concessão à Rádio TV do Amazonas Ltda., para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade de Macapá, Território Federal do Amapá.

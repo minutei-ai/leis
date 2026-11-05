@@ -1,5 +1,3 @@
-###DEC-045626-0-000-24-03-1959@@@
-
 DECRETO Nº 45.626, DE 24 DE MARÇO DE 1959.
 
 Autoriza a firma Pedrex Limitada a comprar pedras preciosas.

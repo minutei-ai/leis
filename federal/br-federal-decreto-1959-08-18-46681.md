@@ -1,5 +1,3 @@
-###DEC-046681-0-000-18-08-1959@@@
-
 DECRETO Nº 46.681, DE 18 DE AGÔSTO DE 1959.
 
 Aprova o Regulamento da Diretoria do Pessoal da Ativa.

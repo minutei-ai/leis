@@ -1,5 +1,3 @@
-###DEC-085881-0-000-08-04-1981@@@
-
 Decreto nº 85.881, de 08 de abril de 1981.
 
 Dispõe sobre a recondução de membro do Conselho Federal de Cultura.

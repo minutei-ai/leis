@@ -1,5 +1,3 @@
-###DEC-087122-0-000-26-04-1982@@@
-
 Decreto nº 87.122, de 26 de abril de 1982
 
 Declara de utilidade pública as instituições que menciona.

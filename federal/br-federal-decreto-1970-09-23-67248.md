@@ -1,5 +1,3 @@
-###DEC-067248-0-000-23-09-1970@@@
-
 Decreto nº 67.248, de 23 de setembro de 1970.
 
 Declara sem efeito o Decreto nº 54.862 de 3 de novembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-055989-0-000-22-04-1965@@@
-
 DECRETO Nº 55.989, DE 22 DE ABRIL DE 1965.
 
 Outorga à Bandeirante de Eletricidade S.A. concessão para distribuir energia elétrica, e dá outras providências.

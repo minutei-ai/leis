@@ -1,5 +1,3 @@
-###DEC-096672-0-000-09-09-1988@@@
-
 DECRETO N° 96.672, DE 9 DE SETEMBRO DE 1988
 
 Outorga concessão ao Chiru Comunicações Ltda. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Palmitinho, Estado do Rio Grande do Sul.

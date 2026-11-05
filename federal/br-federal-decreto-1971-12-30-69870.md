@@ -1,5 +1,3 @@
-###DEC-069870-0-000-30-12-1971@@@
-
 Decreto nº 69.870 - de 30 de dezembro de 1971
 
 Concede à ARMISA - Arditti Minérios S. A. Comércio, Indústria e Exportação o direito de lavrar minério de manganês no município de Licinio de Almeida Estado da Bahia.

@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.352, DE 20 DE ABRIL DE 2017.<br>
+LEI MUNICIPAL Nº 3.352, DE 20 DE ABRIL DE 2017.
+
 (Revogada pela Lei Ordinária nº 3.548, de 6 de abril de 2020)
 
 ~~Altera a Lei Municipal nº 1.523/1996, que institui o Fundo Municipal de Assistência Social.~~
@@ -17,8 +18,10 @@ LEI MUNICIPAL Nº 3.352, DE 20 DE ABRIL DE 2017.<br>
 
 ~~Gabinete do Prefeito de Aparecida de Goiânia-GO, 20 de abril de 2017.~~
 
-~~GUSTAVO MENDANHA MELO<br>
+~~GUSTAVO MENDANHA MELO
+
 Prefeito Municipal~~
 
-~~AFONSO BOAVENTURA<br>
+~~AFONSO BOAVENTURA
+
 Chefe da Casa Civil~~

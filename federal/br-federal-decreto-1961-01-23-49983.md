@@ -1,5 +1,3 @@
-###DEC-049983-0-000-23-01-1961@@@
-
 DECRETO Nº 49.983, DE 23 DE JANEIRO DE 1961.
 
 Cria a Delegação do Brasil junto à Comunidade Econômica Européia (C.E.E.).

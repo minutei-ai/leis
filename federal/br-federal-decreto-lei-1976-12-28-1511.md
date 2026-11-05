@@ -1,7 +1,3 @@
-1
-
-###DEL-001511-0-000-28-12-1976@@@
-
 # DECRETO-LEI Nº 1.511, DE 28 DE DEZEMBRO DE 1976
 
 Altera a redação do artigo 1º do Decreto-lei nº 343, de 28 de dezembro de 1967.
@@ -51,8 +47,6 @@ J. Araripe Macedo
 Shigeaki Ueki
 
 João Paulo dos Reis Velloso
-
-###DEL-001511-0-000-28-12-1976@@@REP01+++
 
 # (\*) DECRETO-LEI Nº 1.511, DE 28 DE DEZEMBRO DE 1976
 

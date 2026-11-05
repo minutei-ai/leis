@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59919)
-
 # LEI Nº 12.230, DE 13 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 242/2005, do Deputado Mauro Bragato - PSDB)

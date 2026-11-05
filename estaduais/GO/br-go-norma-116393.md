@@ -18,25 +18,183 @@ RENATA LACERDA NOLETO
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA ASSISTÊNCIA FARMACÊUTICA - DECISÕES JUDICIAIS</td><td style=" width:85px;    ">10 303 1043 2600</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 24.016.703,08</td><td style=" width:85px;    ">R$ 24.016.703,08</td></tr><tr><td style=" width:85px;    ">GESTÃO DA ASSISTÊNCIA FARMACÊUTICA - DECISÕES JUDICIAIS</td><td style=" width:85px;    ">10 303 1043 2600</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 27.283.296,92</td><td style=" width:85px;    ">R$ 27.283.296,92</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 24.016.703,08</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 27.283.296,92</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 51.300.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<br>
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DA ASSISTÊNCIA FARMACÊUTICA - DECISÕES JUDICIAIS
+
+10 303 1043 2600
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 24.016.703,08
+
+R$ 24.016.703,08
+
+GESTÃO DA ASSISTÊNCIA FARMACÊUTICA - DECISÕES JUDICIAIS
+
+10 303 1043 2600
+
+27610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 27.283.296,92
+
+R$ 27.283.296,92
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 24.016.703,08
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 27.283.296,92
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 51.300.000,00
+
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE UNIFORME ESCOLAR PARA ALUNOS DO ENSINO MÉDIO</td><td style=" width:85px;    ">12 362 1008 2295</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 34.285.844,22</td><td style=" width:85px;    ">R$ 18.029.599,32</td><td style=" width:85px;    ">R$ 18.029.599,32</td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE UNIFORME ESCOLAR PARA ALUNOS DA EDUCAÇÃO DE JOVENS E ADULTOS</td><td style=" width:85px;    ">12 366 1008 2292</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 11.211.890,23</td><td style=" width:85px;    ">R$ 5.987.103,76</td><td style=" width:85px;    ">R$ 5.987.103,76</td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE UNIFORME ESCOLAR PARA ALUNOS DO ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 1008 2294</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 50.975.553,19</td><td style=" width:85px;    ">R$ 23.021.955,02</td><td style=" width:85px;    ">R$ 23.021.955,02</td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE ALIMENTAÇÃO ESCOLAR</td><td style=" width:85px;    ">12 306 1008 2019</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 105.827.656,47</td><td style=" width:85px;    ">R$ 4.261.341,90</td><td style=" width:85px;    ">R$ 4.261.341,90</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 24.016.703,08</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 27.283.296,92</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 51.300.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 24.016.703,08</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 27.283.296,92</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 51.300.000,00</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FORNECIMENTO DE UNIFORME ESCOLAR PARA ALUNOS DO ENSINO MÉDIO
+
+12 362 1008 2295
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 34.285.844,22
+
+R$ 18.029.599,32
+
+R$ 18.029.599,32
+
+FORNECIMENTO DE UNIFORME ESCOLAR PARA ALUNOS DA EDUCAÇÃO DE JOVENS E ADULTOS
+
+12 366 1008 2292
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 11.211.890,23
+
+R$ 5.987.103,76
+
+R$ 5.987.103,76
+
+FORNECIMENTO DE UNIFORME ESCOLAR PARA ALUNOS DO ENSINO FUNDAMENTAL
+
+12 361 1008 2294
+
+27610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 50.975.553,19
+
+R$ 23.021.955,02
+
+R$ 23.021.955,02
+
+FORNECIMENTO DE ALIMENTAÇÃO ESCOLAR
+
+12 306 1008 2019
+
+27610156
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 105.827.656,47
+
+R$ 4.261.341,90
+
+R$ 4.261.341,90
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 24.016.703,08
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 27.283.296,92
+
+**TOTAL**
+
+R$ 51.300.000,00
+
+**TOTAL POR FONTE**
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 24.016.703,08
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 27.283.296,92
+
+**TOTAL**
+
+R$ 51.300.000,00

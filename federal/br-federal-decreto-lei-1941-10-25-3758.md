@@ -1,5 +1,3 @@
-###DEL-003758-0-000-25-10-1941@@@
-
 DECRETO-LEI N. 3.758 – DE 25 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 500:00$0, para atender às despesas de representação do Brasil.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210672)<br>
-
 # LEI N° 18.101, DE 26 DE FEVEREIRO DE 2025
 
 ## (Projeto de lei n° 28/2024, do Deputado Itamar Borges - MDB)

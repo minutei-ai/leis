@@ -1,5 +1,3 @@
-###DEC-077992-0-000-08-07-1976@@@
-
 DECRETO N.º 77.992, DE 8 DE JULHO DE 1976.
 
 Declara perempta a concessão outorgada á Radio Difusora do Amazonas Ltda. para executar serviço de radiodifusão sonora em onda curta, na cidade de Manaus, Estado do Amazonas.

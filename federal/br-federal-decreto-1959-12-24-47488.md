@@ -1,5 +1,3 @@
-###DEC-047488-0-000-24-12-1959@@@
-
 Decreto nº 47.488, de 24 de dezembro de 1959.
 
 Aprova o Regulamento do Departamento de Produção e Obras (DPO).

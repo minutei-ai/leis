@@ -1,5 +1,3 @@
-###DEC-078724-0-000-12-11-1976@@@
-
 DECRETO Nº 78.724, DE 12 DE NOVEMBRO DE 1976.
 
 Aprova o Regulamento do Departamento-Geral do Pessoal do Ministério do Exército e dá outras providências.

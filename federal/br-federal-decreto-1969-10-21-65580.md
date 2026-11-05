@@ -1,20 +1,18 @@
-###DEC-065580-0-000-21-10-1969@@@
+**DECRETO Nº 65.580, DE 21 DE OUTUBRO DE 1969.**
 
-<strong>DECRETO Nº 65.580, DE 21 DE OUTUBRO DE 1969.</strong>
+***Aprova o Estatuto da Universidade Federal Rural de Pernambuco.***
 
-<em><strong>Aprova o Estatuto da Universidade Federal Rural de Pernambuco.</strong></em>
+**OS MINISTROS DA MARINHA DE GUERRA**, **DO EXÉRCITO E DA AERONÁUTICA MILITAR**, usando das atribuições que lhes confere o artigo 3º do Ato Institucional nº 16, de 14 de outubro de 1969, e na forma do disposto no Parágrafo único do artigo 14 da Lei número 5.540, de 28 de novembro de 1968,
 
-<strong>OS MINISTROS DA MARINHA DE GUERRA</strong>, <strong>DO EXÉRCITO E DA AERONÁUTICA MILITAR</strong>, usando das atribuições que lhes confere o artigo 3º do Ato Institucional nº 16, de 14 de outubro de 1969, e na forma do disposto no Parágrafo único do artigo 14 da Lei número 5.540, de 28 de novembro de 1968,
+**DECRETAM:**
 
-<strong>DECRETAM:</strong>
+**Art**. 1º Fica aprovado o Estatuto da Universidade Federal Rural de Pernambuco, que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
 
-<strong>Art</strong>. 1º Fica aprovado o Estatuto da Universidade Federal Rural de Pernambuco, que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor à data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor à data de sua publicação.
 
 Brasília, 21 de outubro de 1969; 148º da Independência e 81º da República.
 
-<strong>AUGUSTO HAMANN RADEMAKER GRÜNEWALD</strong>
+**AUGUSTO HAMANN RADEMAKER GRÜNEWALD**
 
 Aurélio de Lyra Tavares
 
@@ -22,19 +20,19 @@ Márcio de Souza e Mello
 
 Tarso Dutra
 
-<strong>ESTATUTO DA UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO</strong>
+**ESTATUTO DA UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Universidade e seus Objetivos</em>
+*Da Universidade e seus Objetivos*
 
-<strong>Art</strong>. 1º A Universidade Federal Rural de Pernambuco, criada pelo Decreto Estadual nº 1.741, de 24 de julho de 1947, transformada em autarquia federal pela Lei nº 2.424, de 4 de julho de 1955, vinculada ao Ministério da Educação e Cultura, pelo Decreto nº 60.731, de 19 de maio de 1967, e reestruturada pelo Decreto número 64.067, de 5 de fevereiro de 1969, nos têrmos dos Decretos-leis número 53 e 252, respectivamente, de 18 de novembro de 1966 e 28 de fevereiro de 1967, Leis números 5.539 de 27 de novembro de 1968 e 5.540 de 28 de novembro de 1968, e Decretos-Leis números 464 e 465, ambos de 11 de fevereiro de 1969, é uma instituição de ensino, pesquisa e extensão, com personalidade jurídica, gozando de autonomia administrativa, didático-científica, econômico-financeira e disciplinar, a ser exercida na forma da lei, do presente Estatuto, do seu Regimento Geral, e das Resoluções de seus Órgãos Deliberativos Superiores.
+**Art**. 1º A Universidade Federal Rural de Pernambuco, criada pelo Decreto Estadual nº 1.741, de 24 de julho de 1947, transformada em autarquia federal pela Lei nº 2.424, de 4 de julho de 1955, vinculada ao Ministério da Educação e Cultura, pelo Decreto nº 60.731, de 19 de maio de 1967, e reestruturada pelo Decreto número 64.067, de 5 de fevereiro de 1969, nos têrmos dos Decretos-leis número 53 e 252, respectivamente, de 18 de novembro de 1966 e 28 de fevereiro de 1967, Leis números 5.539 de 27 de novembro de 1968 e 5.540 de 28 de novembro de 1968, e Decretos-Leis números 464 e 465, ambos de 11 de fevereiro de 1969, é uma instituição de ensino, pesquisa e extensão, com personalidade jurídica, gozando de autonomia administrativa, didático-científica, econômico-financeira e disciplinar, a ser exercida na forma da lei, do presente Estatuto, do seu Regimento Geral, e das Resoluções de seus Órgãos Deliberativos Superiores.
 
 Parágrafo único. A Universidade Federal Rural de Pernambuco, neste Estatuto, denominada abreviadamente, Universidade, tem sua sede no arrebalde de Dois Irmãos, na cidade do Recife, e âmbito em todo o Estado de Pernambuco.
 
-<strong>Art</strong>. 2º A Universidade é uma comunidade de professôres, pesquisadores, extensionistas, servidores técnicos e administrativos, e alunos, todos ligados pelo ideal comum de promover o desenvolvimento rural do Nordeste brasileiro, através da educação da pesquisa e da criação de cultura geral, a serviço do País, do entendimento entre nações e dos superiores interêsses da humanidade.
+**Art**. 2º A Universidade é uma comunidade de professôres, pesquisadores, extensionistas, servidores técnicos e administrativos, e alunos, todos ligados pelo ideal comum de promover o desenvolvimento rural do Nordeste brasileiro, através da educação da pesquisa e da criação de cultura geral, a serviço do País, do entendimento entre nações e dos superiores interêsses da humanidade.
 
-<strong>Art</strong>. 3º No atendimento de seus objetivos, a Universidade promoverá:
+**Art**. 3º No atendimento de seus objetivos, a Universidade promoverá:
 
 I - A formação de profissionais, no âmbito das ciências agronômicas veterinárias e domésticas, e de outras que concorrem ou venham a concorrer para o desenvolvimento do meio rural, não somente no grau superior, como também, no médio;
 
@@ -48,9 +46,9 @@ V - A formação de professôres agrícolas para o ensino do segundo grau; e
 
 VI - A formação de especialistas em educação.
 
-<strong>Art</strong>. 4º A Universidade integrar-se-á em sua região geo-econômica participando na solução dos seus problemas e dando assistência, dentro de suas possibilidades aos podêres públicos e à iniciativa particular.
+**Art**. 4º A Universidade integrar-se-á em sua região geo-econômica participando na solução dos seus problemas e dando assistência, dentro de suas possibilidades aos podêres públicos e à iniciativa particular.
 
-<strong>Art</strong>. 5º As atividades da Universidade, serão objetivadas através de ensino, de pesquisa e de extensão rural, realizadas nos seus dois <em>campus</em> universitários, localizados nos municípios do Recife e de São Loureço da Mata, no Estado de Pernambuco, em seus escritórios regionais, em quaisquer outras entidades que cooperem ou venham a cooperar em planos de trabalho comuns ou em outros locais de sua livre escolha, e desenvolver-se-ão, respeitada a:
+**Art**. 5º As atividades da Universidade, serão objetivadas através de ensino, de pesquisa e de extensão rural, realizadas nos seus dois *campus* universitários, localizados nos municípios do Recife e de São Loureço da Mata, no Estado de Pernambuco, em seus escritórios regionais, em quaisquer outras entidades que cooperem ou venham a cooperar em planos de trabalho comuns ou em outros locais de sua livre escolha, e desenvolver-se-ão, respeitada a:
 
 I - Unidade de patrimônio e administração;
 
@@ -62,13 +60,13 @@ IV - Organização racional, que assegure plena utilização dos seus recursos m
 
 V - Universalidade de campo, pelo cultivo das áreas fundamentais dos conhecimentos humanos, estudados em si mesmos ou em razão de ulteriores, aplicações, e, entre as técnico-profissionais, obrigatoriamente, aquelas ligadas diretamente ao desenvolvimento do meio rural.
 
-<strong>Art</strong>. 6º Para a realização de seus objetivos, a Universidade, além dos recursos provenientes do Govêrno Federal e de sua renda própria, promoverá a obtenção de auxílios de govêrnos estaduais e municipais, e de outras entidades, pessoas físicas e órgãos, que se interessem pelas suas patrióticas finalidades.
+**Art**. 6º Para a realização de seus objetivos, a Universidade, além dos recursos provenientes do Govêrno Federal e de sua renda própria, promoverá a obtenção de auxílios de govêrnos estaduais e municipais, e de outras entidades, pessoas físicas e órgãos, que se interessem pelas suas patrióticas finalidades.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Dos sistemas de ensino e pesquisa</em>
+*Dos sistemas de ensino e pesquisa*
 
-<strong>Art</strong>. 7º A Universidade é constituída por entidades grupadas em três (3) sistemas:
+**Art**. 7º A Universidade é constituída por entidades grupadas em três (3) sistemas:
 
 I - Sistema Comum de Ensino e Pesquisa Básicos;
 
@@ -76,7 +74,7 @@ II - Sistema de Formação Profissional e Pesquisa Aplicada; e
 
 III - Sistema Suplementar.
 
-<strong>Art</strong>. 8º O Sistema Comum de Ensino e Pesquisa Básicos, que servirá a tôda a Universidade é formado pelos seguintes Institutos:
+**Art**. 8º O Sistema Comum de Ensino e Pesquisa Básicos, que servirá a tôda a Universidade é formado pelos seguintes Institutos:
 
 I - Instituto de Ciências Exatas;
 
@@ -92,7 +90,7 @@ II - Ciências biológicas; e
 
 III - Ciências humanas, geo-ciências, filosofia, letras e artes.
 
-<strong>Art</strong>. 9º Ao Sistema Comum de Ensino e Pesquisa Básicos, ficam vinculada as disciplinas correlatas às áreas citadas no parágrafo único do artigo anterior e constantes da parte básica e geral dos currículos dos cursos de:
+**Art**. 9º Ao Sistema Comum de Ensino e Pesquisa Básicos, ficam vinculada as disciplinas correlatas às áreas citadas no parágrafo único do artigo anterior e constantes da parte básica e geral dos currículos dos cursos de:
 
 I - Formação profissional;
 
@@ -108,9 +106,9 @@ V - Especialistas em educação.
 
 § 2º O ensino ulterior ao básico e correlato às disciplinas integrantes do Sistema Comum de Ensino e Pesquisa Básicos, será também de sua responsabilidade, inclusive nos níveis de graduação e pós-graduação.
 
-<strong>Art</strong>. 10. As disciplinas profissionais dos currículos dos cursos citados no artigo 9º serão lecionadas nas entidades do Sistema de Formação Profissional e Pesquisa Aplicada e/ou do Sistema Suplementar.
+**Art**. 10. As disciplinas profissionais dos currículos dos cursos citados no artigo 9º serão lecionadas nas entidades do Sistema de Formação Profissional e Pesquisa Aplicada e/ou do Sistema Suplementar.
 
-<strong>Art</strong>. 11. O Sistema de Formação Profissional e Pesquisa Aplicada, constituído por Unidades próprias, uma para cada área ou conjunto de áreas afins, incluídas no plano de trabalho da Universidade, é formado de:
+**Art**. 11. O Sistema de Formação Profissional e Pesquisa Aplicada, constituído por Unidades próprias, uma para cada área ou conjunto de áreas afins, incluídas no plano de trabalho da Universidade, é formado de:
 
 I - Escola Superior de Agricultura, destinada à formação de engenheiros-agrônomos;
 
@@ -120,7 +118,7 @@ III - Escola Superior de Ciências Domésticas, destinada à formação de econo
 
 Parágrafo único. Os Cursos Profissionais, que se relacionem com os objetivos da Universidade, tenham sido estruturados pelo Conselho de Ensino e Pesquisa e mereçam a aprovação do Conselho Universitário, serão vinculados às Unidades citadas neste artigo, de acôrdo com a afinidade das respectivas áreas, e, quando não a houver, constituir-se-ão como Unidades independentes.
 
-<strong>Art</strong>. 12. O Sistema Suplementar que inclui tôdas as entidades que são ou venham a ser necessárias aos objetivos da Universidade, e que não se classifiquem como Unidades ou Departamentos, é formado de:
+**Art**. 12. O Sistema Suplementar que inclui tôdas as entidades que são ou venham a ser necessárias aos objetivos da Universidade, e que não se classifiquem como Unidades ou Departamentos, é formado de:
 
 I - Centro de Formação e Treinamento de Professôres Agrícolas;
 
@@ -136,15 +134,15 @@ VI - Imprensa Universitária.
 
 Parágrafo único. O Regimento Geral da Universidade disciplinará as finalidades das entidades citadas neste artigo, assim como o seu desdobramento em divisões, seções, serviços e setores, e as atribuições do seu pessoal.
 
-<strong>Art</strong>. 13. A Universidade poderá, mediante alteração dêste Estatuto, criar outros órgãos suplementares ou readaptar os existentes, podendo ainda fundí-los, desdobrá-los ou extingui-los.
+**Art**. 13. A Universidade poderá, mediante alteração dêste Estatuto, criar outros órgãos suplementares ou readaptar os existentes, podendo ainda fundí-los, desdobrá-los ou extingui-los.
 
-<strong>Art</strong>. 14. As Unidades Universitárias são as entidades relacionadas nos artigos 8º e 11, dêste Estatuto, e constituintes dos Sistemas Comuns de Ensino e Pesquisa Básicos, e de Formação Profissional e Pesquisa Aplicada.
+**Art**. 14. As Unidades Universitárias são as entidades relacionadas nos artigos 8º e 11, dêste Estatuto, e constituintes dos Sistemas Comuns de Ensino e Pesquisa Básicos, e de Formação Profissional e Pesquisa Aplicada.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da administração superior da Universidade</em>
+*Da administração superior da Universidade*
 
-<strong>Art</strong>. 15. A Administração Superior da Universidade será exercida pelos seguintes órgãos:
+**Art**. 15. A Administração Superior da Universidade será exercida pelos seguintes órgãos:
 
 I - Órgãos Deliberativos Superiores:
 
@@ -160,11 +158,11 @@ II - Órgão Executivo Superior:
 
 e) Reitoria.
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Assembléia Universitária</em>
+*Da Assembléia Universitária*
 
-<strong>Art</strong>. 16. A Assembléia Universitária, compõe-se:
+**Art**. 16. A Assembléia Universitária, compõe-se:
 
 I - Do Reitor, como presidente;
 
@@ -192,7 +190,7 @@ XII - Do Presidente da Associação dos ex-Alunos da Universidade.
 
 Parágrafo único. Os representantes citados nos itens VI, VII e IX, serão escolhidos pelos seus pares, em reunião convocada e presidida pelo Diretor da Unidade, e terão mandato de dois (2), anos, vedado o exercício de dois mandatos consecutivos.
 
-<strong>Art</strong>. 17. Compete à Assembléia Universitária:
+**Art**. 17. Compete à Assembléia Universitária:
 
 I - Tomar conhecimento do relatório anual do Reitor, sôbre as principais ocorrências da vida universitária, no ano anterior, e programas de trabalho para o ano em curso bem como sôbre o progresso e aperfeiçoamento alcançados pela Univesidade.
 
@@ -200,15 +198,15 @@ II - Deliberar sôbre assuntos de alta relevância, que interessem à vida de qu
 
 III - Assistir à entrega de títulos honoríficos outorgados pela Universidade.
 
-<strong>Art</strong>. 18. A Assembléia Universitária reunir-se-á ordinariamente, convocada pelo Reitor, uma vez por ano ou extraordinariamente, quando convocada pelo Reitor, ou requerido pelo Conselho Universitário.
+**Art**. 18. A Assembléia Universitária reunir-se-á ordinariamente, convocada pelo Reitor, uma vez por ano ou extraordinariamente, quando convocada pelo Reitor, ou requerido pelo Conselho Universitário.
 
 Parágrafo único. O Regimento Geral da Universidade estabelecerá as normas de funcionamento da Assembléia Universitária.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Conselho Univesitário</em>
+*Do Conselho Univesitário*
 
-<strong>Art</strong>. 19. O Conselho Universitário, órgão de cúpula da Universidade, deliberativo, normativo e consultivo em matéria de política e planejamento universitário, administração superior e finanças, tem a seguinte constituição:
+**Art**. 19. O Conselho Universitário, órgão de cúpula da Universidade, deliberativo, normativo e consultivo em matéria de política e planejamento universitário, administração superior e finanças, tem a seguinte constituição:
 
 I - O Reitor, como seu Presidente;
 
@@ -242,7 +240,7 @@ XV - Dois (2) representantes do corpo discente da Universidade, escolhidos na fo
 
 Parágrafo único. Os representantes citados no item V, serão escolhidos entre os seus pares, em reunião da respectiva Congregação, convocada e presidida pelo Diretor da Unidade, e terão mandato de dois (2) anos, vedado o exercício de dois (2) mandatos consecutivos; os representantes citados nos itens Vi, VII, VIII, IX e X, serão eleitos pelos seus pares, em reunião convocada e presidida pelo Vice-Reitor, e terão mandato de dois (2) anos vedado o exercício de dois (2) mandatos consecutivos; os representantes citados nos itens XI, XII, XIII e XIV, serão de livre escolha das respectivas entidades e terão mandato de dois (2) anos.
 
-<strong>Art</strong>. 20. O Conselho Universitário será estruturado em Câmaras, entre as quais, obrigatoriamente, as seguintes:
+**Art**. 20. O Conselho Universitário será estruturado em Câmaras, entre as quais, obrigatoriamente, as seguintes:
 
 I - Câmara para Assuntos de Política e Planejamento Universitário;
 
@@ -252,9 +250,9 @@ III - Câmara para Assuntos de Pessoal.
 
 Parágrafo único. O Regimento Geral da Universidade e o Regimento do Conselho Universitário, estabelecerão as normas de funcionamento do Colegiado e a estrutura e sistema de trabalho de suas Câmaras.
 
-<strong>Art</strong>. 21. O Conselho Universitário reunir-se-á, ordinariamente, uma vez por mês, convocado pelo Reitor, e, extraordinariamente, por êste ou pela maioria dos membros do Conselho de Ensino e Pesquisa.
+**Art**. 21. O Conselho Universitário reunir-se-á, ordinariamente, uma vez por mês, convocado pelo Reitor, e, extraordinariamente, por êste ou pela maioria dos membros do Conselho de Ensino e Pesquisa.
 
-<strong>Art</strong>. 22. Ao Conselho Universitário compete:
+**Art**. 22. Ao Conselho Universitário compete:
 
 I - Exercer, como órgão deliberativo, normativo e consultivo, a jurisdição superior da Universidade;
 
@@ -308,7 +306,7 @@ XXV - Tomar conhecimento das nomeações feitas pelo Reitor, para cargos de dire
 
 XXVI - Organizar, mediante votação uninominal, em escrutínios secretos e sucessivos, necessários à obtenção de maioria absoluta, em reunião conjunta com o Conselho de Ensino e Pesquisa, a lista de seis (6) nomes, para indicação e nomeação, pelo Presidente da República, do Reitor da Universidade;
 
-XXVII - Organizar, na forma do <em>caput</em> do item XXVI, dêste artigo, a lista de seis (6) nomes, para indicação e nomeação, pelo Presidente da República, do Vice-Reitor da mesma;
+XXVII - Organizar, na forma do *caput* do item XXVI, dêste artigo, a lista de seis (6) nomes, para indicação e nomeação, pelo Presidente da República, do Vice-Reitor da mesma;
 
 XXVIII - Criar, por proposta da Reitoria, ouvido o Conselho de Curadores, fundos especiais, destinados ao custeio de determinadas atividades ou programas específicos;
 
@@ -322,13 +320,13 @@ XXXII - Deliberar sôbre outras matérias que lhe sejam atribuídas, ou sôbre q
 
 Parágrafo único. As deliberações do Conselho Universitário que implicarem em despesas não previstas no Orçamento Interno da Universidade, serão encaminhadas ao Conselho de Curadores, para estudo da possibilidade de sua execução.
 
-<strong>Art</strong>. 23. O Conselho universitário só deliberará com a presença da maioria dos seus membros, sob a presidência do Reitor ou do seu substituto legal.
+**Art**. 23. O Conselho universitário só deliberará com a presença da maioria dos seus membros, sob a presidência do Reitor ou do seu substituto legal.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Conselho de Ensino e Pesquisa</em>
+*Do Conselho de Ensino e Pesquisa*
 
-<strong>Art</strong>. 24. O Conselho de Ensino e Pesquisa, órgão superior deliberativo, normativo e consultivo, para questões de ensino, pesquisa e extensão, é constituído:
+**Art**. 24. O Conselho de Ensino e Pesquisa, órgão superior deliberativo, normativo e consultivo, para questões de ensino, pesquisa e extensão, é constituído:
 
 I - Pelo Reitor, como seu Presidente;
 
@@ -366,9 +364,9 @@ II - Comissão Coordenadora de Cursos.
 
 § 2º O Regimento Geral da Universidade, estabelecerá a constituição, normas de funcionamento e atribuições, das Comissões citadas no § 2º dêste artigo.
 
-<strong>Art</strong>. 25. O Conselho de Ensino e Pesquisa, reunir-se-á, ordinàriamente, uma vez por mês, convocado, pelo Reitor, e, extraordinàriamente, por êste convocado, ou pela maioria dos seus membros, ou ainda pelo Conselho Universitário.
+**Art**. 25. O Conselho de Ensino e Pesquisa, reunir-se-á, ordinàriamente, uma vez por mês, convocado, pelo Reitor, e, extraordinàriamente, por êste convocado, ou pela maioria dos seus membros, ou ainda pelo Conselho Universitário.
 
-<strong>Art</strong>. 26. Ao Conselho de Ensino e Pesquisa, compete:
+**Art**. 26. Ao Conselho de Ensino e Pesquisa, compete:
 
 I - Elaborar, anualmente, o Plano de Trabalho a ser executado nas áreas do ensino, da pesquisa e da extensão rural, pelos Departamentos das Unidades, Centros e Instituições de Grau Médio, com a cooperação de órgãos do Sistema Suplementar aqui não referidos, submetendo-o à homologação pelo Conselho Universitário;
 
@@ -376,9 +374,9 @@ II - Promover a coordenação de cursos afetos a várias Unidades e a cooperaç�
 
 III - Deliberar sôbre assuntos didáticos de ordem geral, respeitados os limites em que se exercita a autonomia universitária;
 
-IV - Deliberar sôbre providências preventivas, corretivas ou repressivas de atos de indisciplina coletiva do corpo discente, <em>ad referendum</em> do Conselho Universitário;
+IV - Deliberar sôbre providências preventivas, corretivas ou repressivas de atos de indisciplina coletiva do corpo discente, *ad referendum* do Conselho Universitário;
 
-V - Deliberar sôbre a suspensão temporária de cursos, de qualquer natureza inclusive sôbre a intervenção em entidades universitárias, quando solicitada por dois terços (2/3) dos membros do respectivo Colegiado, <em>ad referendum</em> do Conselho Universitário;
+V - Deliberar sôbre a suspensão temporária de cursos, de qualquer natureza inclusive sôbre a intervenção em entidades universitárias, quando solicitada por dois terços (2/3) dos membros do respectivo Colegiado, *ad referendum* do Conselho Universitário;
 
 VI - Estabelecer as áreas de atividades das entidades de ensino, pesquisas e extensão da Universidade;
 
@@ -404,19 +402,19 @@ XVI - Propor ao Conselho Universitário, a concessão de dignidades universitár
 
 XVII - Homologar a distribuição dos docentes, regentes de disciplinas, propostas pelos Conselhos Departamentais;
 
-XVIII - Elaborar o seu próprio Regimento, <em>ad referendum</em> do Conselho Universitário, e emitir parecer em matéria de sua competência, sôbre Regimentos de Unidades e outras Entidades universitárias de ensino, pesquisa e extensão;
+XVIII - Elaborar o seu próprio Regimento, *ad referendum* do Conselho Universitário, e emitir parecer em matéria de sua competência, sôbre Regimentos de Unidades e outras Entidades universitárias de ensino, pesquisa e extensão;
 
 XIX - Requerer a convocação do Conselho Universitário, e do Conselho de Curadores, por dois terços (2/3) dos seus membros, quando julgado oportuna e conveniente, e,
 
 XX - Reunir-se, conjuntamente com o Conselho Universitário, para a organização das listas para escolha e nomeação, pelo Presidente da República, do Reitor e do Vice-Reitor, na forma do que estabelecem os itens XXVI e XXVII do artigo 22, dêste Estatuto.
 
-<strong>Art</strong>. 27. O Conselho de Ensino e Pesquisa, só deliberará com a presença da maioria dos seus membros sob a presidência do Reitor, ou do seu substituto legal.
+**Art**. 27. O Conselho de Ensino e Pesquisa, só deliberará com a presença da maioria dos seus membros sob a presidência do Reitor, ou do seu substituto legal.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Conselho de Curadores</em>
+*Do Conselho de Curadores*
 
-<strong>Art</strong>. 28. O Conselho de Curadores, órgão consultivo e deliberativo para questões de fiscalização econômico-financeira da Universidade, compõe-se:
+**Art**. 28. O Conselho de Curadores, órgão consultivo e deliberativo para questões de fiscalização econômico-financeira da Universidade, compõe-se:
 
 I - Do Reitor, como membro nato, com direito a voz, sem voto;
 
@@ -438,11 +436,11 @@ VII - Pelo representante das pessoas físicas e jurídicas que tenham feito doa�
 
 § 3º Os representantes citados nos itens IV, V, VI e VII, dêste artigo, serão de livre escolha das respectivas entidades ou doadores, e terão mandato de dois (2) anos; o representante citado no item II dêste artigo, será eleito pela Congregação da Unidade com mandato de dois (2) anos, vedado o exercício de dois (2) mandatos consecutivos.
 
-<strong>Art</strong>. 29. O Conselho de Curadores reunir-se-á, ordinàriamente, uma vez por mês, mediante convocação do Reitor e, extraordinàriamente, quando convocado por êste, ou pelos Conselhos Universitários ou de Ensino e Pesquisa.
+**Art**. 29. O Conselho de Curadores reunir-se-á, ordinàriamente, uma vez por mês, mediante convocação do Reitor e, extraordinàriamente, quando convocado por êste, ou pelos Conselhos Universitários ou de Ensino e Pesquisa.
 
-<strong>Art</strong>. 30. Ao Conselho de Curadores compete:
+**Art**. 30. Ao Conselho de Curadores compete:
 
-I - Elaborar o seu próprio Regimento, <em>ad referendum</em> do Conselho Universitário;
+I - Elaborar o seu próprio Regimento, *ad referendum* do Conselho Universitário;
 
 II - Aprovar a Proposta Orçamentária e o Orçamento Interno da Universidade;
 
@@ -452,29 +450,29 @@ IV - Aprovar a abertura de créditos especiais e suplementares, dando conhecimen
 
 V - Autorizar as despesas extraordinárias, não previstas no Orçamento Interno;
 
-VI - Autorizar as despesas com agregações, incorporações, convênios, acordos, mandatos e outras formas de colaboração entre entidades públicas ou privadas e a Universidade, ouvido o Conselho de Ensino e Pesquisa, <em>ad referendum</em> do Conselho Universitário;
+VI - Autorizar as despesas com agregações, incorporações, convênios, acordos, mandatos e outras formas de colaboração entre entidades públicas ou privadas e a Universidade, ouvido o Conselho de Ensino e Pesquisa, *ad referendum* do Conselho Universitário;
 
 VII - Opinar sôbre a criação de fundos patrimoniais, de provisão e especiais, sob regime de gestão pelo Reitor;
 
-VIII - Opinar sôbre a aceitação de legados, doações e alienações de qualquer natureza, <em>ad referendum</em> do Conselho Universitário;
+VIII - Opinar sôbre a aceitação de legados, doações e alienações de qualquer natureza, *ad referendum* do Conselho Universitário;
 
 IX - Vincular, por proposta da Reitoria, os saldos verificados no encerramento do exercício financeiro, em seu todo ou em parte aos fundos patrimoniais, de provisão e especiais;
 
 X - Opinar sôbre qualquer subvenção ou auxílio, porventura concedido pelo Govêrno Federal.
 
-<strong>Art</strong>. 31. O Conselho de Curadores, deliberará com a maioria dos seus membros.
+**Art**. 31. O Conselho de Curadores, deliberará com a maioria dos seus membros.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Reitoria</em>
+*Da Reitoria*
 
-<strong>Art</strong>. 32. A Reitoria, órgão executivo central, que coordena, fiscaliza e superintende tôdas as atividades universitárias, é exercida pelo Reitor, com a cooperação direta e efetiva do Vice-Reitor.
+**Art**. 32. A Reitoria, órgão executivo central, que coordena, fiscaliza e superintende tôdas as atividades universitárias, é exercida pelo Reitor, com a cooperação direta e efetiva do Vice-Reitor.
 
 § 1º Os mandatos do Reitor e do Vice-Reitor, serão de quatro (4) anos, vedada a sua recondução;
 
 § 2º O Regimento Geral da Universidade, e o Regimento da Reitoria, estabelecerão as normas para a escolha e nomeação do Reitor e do Vice-Reitor, de acôrdo com o que estabelecem os itens XXVI e XXVII do artigo 22 dêste Estatuto, assim como, a estrutura e funcionamento da Reitoria e Vice-Reitoria.
 
-<strong>Art</strong>. 33. Compete ao Reitor:
+**Art**. 33. Compete ao Reitor:
 
 I - Representar a Universidade, em Juízo e fora dêle, administrá-la e fiscalizar as suas atividades;
 
@@ -538,17 +536,17 @@ XXX - Propor ao Conselho Universitário, ouvido o Conselho de Curadores, a cria�
 
 XXXI - Desempenhar tôdas as demais funções não especificadas neste Estatuto, ou no Regimento Geral da Universidade, inerentes ao cargo de acôrdo com as normas do sistema universitário.
 
-<strong>Art</strong>. 34. O Reitor poderá vetar as Resoluções dos Órgãos Deliberativos Superiores, devendo apresentar as razões do veto, dentro do prazo de oito (8) dias.
+**Art**. 34. O Reitor poderá vetar as Resoluções dos Órgãos Deliberativos Superiores, devendo apresentar as razões do veto, dentro do prazo de oito (8) dias.
 
 Parágrafo único. A rejeição do veto, pelos votos de dois têrços (2/3) dos membros do Colegiado, importará na aprovação definitiva da Resolução vetada.
 
-<strong>Art</strong>. 35. O Reitor, em situação de emergência, poderá tomar decisões que dependam de autorização dos Órgãos Deliberativos Superiores, convocando-os porém, em sessão conjunta e sob sua presidência, dentro de quarenta e oito (48) horas, para a devida apreciação e homologação da matéria.
+**Art**. 35. O Reitor, em situação de emergência, poderá tomar decisões que dependam de autorização dos Órgãos Deliberativos Superiores, convocando-os porém, em sessão conjunta e sob sua presidência, dentro de quarenta e oito (48) horas, para a devida apreciação e homologação da matéria.
 
-<strong>Art</strong>. 36. É facultado ao Reitor, eximir-se das obrigações de regente de disciplina.
+**Art**. 36. É facultado ao Reitor, eximir-se das obrigações de regente de disciplina.
 
 Parágrafo único. O Reitor exercerá suas funções em regime de dedicação exclusiva.
 
-<strong>Art</strong>. 37. Compete ao Vice-Reitor:
+**Art**. 37. Compete ao Vice-Reitor:
 
 I - Substituir o Reitor em suas faltas e impedimentos;
 
@@ -560,17 +558,17 @@ IV - Cooperar com o Reitor na administração, recebendo do mesmo, a competente 
 
 V - Administrar com plenos podêres a Universidade, no caso de vacância da Reitoria, mantendo-se no exercício do cargo de Reitor, até a nomeação do nôvo titular, a quem deverá dar posse, perante os Órgãos Deliberativos Superiores, em reunião conjunta e especialmente convocada para tal fim.
 
-<strong>Art</strong>. 38. O Vice-Reitor exercerá as funções em regime de dedicação exclusiva, como o Reitor, podendo também eximir-se de suas obrigações de regente de disciplina.
+**Art**. 38. O Vice-Reitor exercerá as funções em regime de dedicação exclusiva, como o Reitor, podendo também eximir-se de suas obrigações de regente de disciplina.
 
 § 1º O Vice-Reitor será substituído em suas faltas e impedimentos, pelo professor-titular, membro do Conselho Universitário mais antigo no exercício do magistério.
 
 § 2º O Vice-Reitor poderá desempenhar funções administrativas complementares, na forma do que dispuser o Regimento Geral da Universidade.
 
-<strong>SEÇÃO ÚNICA</strong>
+**SEÇÃO ÚNICA**
 
-<em>Dos Órgãos Auxiliares da Reitoria</em>
+*Dos Órgãos Auxiliares da Reitoria*
 
-<strong>Art</strong>. 39. Subordinados diretamente à Reitoria, funcionarão os seguintes Órgãos:
+**Art**. 39. Subordinados diretamente à Reitoria, funcionarão os seguintes Órgãos:
 
 I - Secretaria Geral;
 
@@ -586,17 +584,17 @@ VI - Diretoria de Planejamento e Obras, e,
 
 VII - Diretoria de Educação e Cultura.
 
-<strong>Art</strong>. 40. O Regimento Geral da Universidade e o Regimento da Reitoria disciplinarão as finalidades das entidades citadas no artigo 39, dêste Estatuto, assim como o seu desdobramento em divisões, seções, serviços e setores, e as atribuições de seu pessoal.
+**Art**. 40. O Regimento Geral da Universidade e o Regimento da Reitoria disciplinarão as finalidades das entidades citadas no artigo 39, dêste Estatuto, assim como o seu desdobramento em divisões, seções, serviços e setores, e as atribuições de seu pessoal.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Da Administração das Entidades Universitárias</em>
+*Da Administração das Entidades Universitárias*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Das Unidades Universitárias</em>
+*Das Unidades Universitárias*
 
-<strong>Art</strong>. 41. As Unidades Universitárias classificadas nos Sistemas Comum de Ensino e Pesquisa Básicos, e de Formação Profissional e Pesquisa Aplicada, serão administradas pelos seguintes órgãos:
+**Art**. 41. As Unidades Universitárias classificadas nos Sistemas Comum de Ensino e Pesquisa Básicos, e de Formação Profissional e Pesquisa Aplicada, serão administradas pelos seguintes órgãos:
 
 I - Congregação;
 
@@ -604,7 +602,7 @@ II - Conselho Departamental, e,
 
 III - Diretoria.
 
-<strong>Art</strong>. 42. A Congregação, órgão da administração superior da Unidade, é constituída:
+**Art**. 42. A Congregação, órgão da administração superior da Unidade, é constituída:
 
 I - Pelo Diretor, como seu Presidente;
 
@@ -626,7 +624,7 @@ IX - Pelo representante do corpo-discente, escolhido na forma da Lei.
 
 Parágrafo único. O número mínimo para a constituição da congregação é de sete (7) membros.
 
-<strong>Art</strong>. 43. Compete à Congregação:
+**Art**. 43. Compete à Congregação:
 
 I - Eleger os componentes das listas de seis (6) nomes, para escolha e nomeação pelo Presidente da República, do Diretor e do Vice-Diretor da Unidade, de acôrdo com as normas estabelecidas no Regimento Geral da Universidade e no Regimento da Unidade;
 
@@ -640,7 +638,7 @@ V - Escolher o representante dos docentes-livres da Unidade à Assembléia Unive
 
 VI - Escolher dois (2) nomes dos seus professôres-titulares para compor as Comissões Examinadoras de Concursos para professôres da carreira de magistério superior, deliberando sôbre a realização dos referidos concursos e julgando o Parecer das mesmas Comissões;
 
-VII - Deliberar sôbre a dispensa temporária das obrigações de magistério do pessoal docente da Unidade, ouvindo o Conselho Departamental, <em>ad</em> <em>referendum</em> do Conselho de Ensino e Pesquisa.
+VII - Deliberar sôbre a dispensa temporária das obrigações de magistério do pessoal docente da Unidade, ouvindo o Conselho Departamental, *adreferendum* do Conselho de Ensino e Pesquisa.
 
 VIII - Deliberar sôbre a destituição de membros do magistério com exercício em Departamento da Unidade;
 
@@ -654,21 +652,21 @@ XII - Aplicar as penalidades de sua competência;
 
 XIII - Assitir às provas de concurso para professor e à concessão de títulos honoríficos e graus acadêmicos;
 
-XIV - Aprovar a distribuição nos Departamentos, do pessoal docente, técnico, administrativo e auxiliar, elaborado pelo Conselho Departamental, <em>ad</em> <em>referendum</em> do Conselho de Ensino e Pesquisa;
+XIV - Aprovar a distribuição nos Departamentos, do pessoal docente, técnico, administrativo e auxiliar, elaborado pelo Conselho Departamental, *adreferendum* do Conselho de Ensino e Pesquisa;
 
-XV - Homologar o Calendário Escolar da Unidade, Organizado pelo Conselho Departamental, <em>ad</em> <em>referendum</em> do Conselho de Ensino e Pesquisa;
+XV - Homologar o Calendário Escolar da Unidade, Organizado pelo Conselho Departamental, *adreferendum* do Conselho de Ensino e Pesquisa;
 
-XVI - Homologar os programas de ensino e pesquisa, aprovados pelo Conselho Departamental, <em>ad</em> <em>referendum</em> do Conselho de Ensino e Pesquisa;
+XVI - Homologar os programas de ensino e pesquisa, aprovados pelo Conselho Departamental, *adreferendum* do Conselho de Ensino e Pesquisa;
 
 XVII - Aprovar o Regimento do Diretório Acadêmico da Unidade; e
 
-XVIII - Resolver os casos omissos, <em>ad</em> <em>referendum</em> do órgão Deliberativo Superior competente.
+XVIII - Resolver os casos omissos, *adreferendum* do órgão Deliberativo Superior competente.
 
 Parágrafo único. A Congregação reunir-se-á, ordinariamente, quatro (4) vêzes por ano, convocada e presidida pelo Diretor ou pelo seu substituto legal, e extraordinariamente, por convocação dos mesmos ou quando requerida por dois terços (2/3), dos seus membros.
 
-<strong>Art</strong>. 44. A Congregação deliberará com a presença da maioria dos seus membros, respeitada a legislação específica vigente.
+**Art**. 44. A Congregação deliberará com a presença da maioria dos seus membros, respeitada a legislação específica vigente.
 
-<strong>Art</strong>. 45. O Conselho Departamental, órgão deliberativo e consultivo da Unidade, para o estudo e solução das questões administrativas, didático-científica e de distribuição de pessoal, no âmbito do Departamento, é constituído:
+**Art**. 45. O Conselho Departamental, órgão deliberativo e consultivo da Unidade, para o estudo e solução das questões administrativas, didático-científica e de distribuição de pessoal, no âmbito do Departamento, é constituído:
 
 I - Pelo Diretor da Unidade, como seu Presidente;
 
@@ -678,7 +676,7 @@ III - Pelos Chefes dos Departamentos da Unidade; e
 
 IV - Pelo representante do corpo discente, indicado na forma da lei.
 
-<strong>Art</strong>. 46. Compete ao Conselho Departamental:
+**Art**. 46. Compete ao Conselho Departamental:
 
 I - Aprovar os programas de ensino e pesquisa elaborados pelos Departamentos da Unidade;
 
@@ -700,11 +698,11 @@ IX - Submeter ao Conselho de Ensino e Pesquisa, os Planos de Ensino das discipli
 
 X - Promover o estudo e a elaboração de novos Planos, quando solicitado.
 
-<strong>Art</strong>. 47. Os Chefes dos Departamentos, serão eleitos pelo pessoal docente com exercício nos mesmos, em reunião convocada e presidida pelo Diretor da Unidade, e escolhido entre os professôres-titulares, professôres contratados como titulares ou professôres-adjuntos do Departamento, indicados pelo Diretor, para nomeação pelo Reitor, com mandato de dois (2) anos.
+**Art**. 47. Os Chefes dos Departamentos, serão eleitos pelo pessoal docente com exercício nos mesmos, em reunião convocada e presidida pelo Diretor da Unidade, e escolhido entre os professôres-titulares, professôres contratados como titulares ou professôres-adjuntos do Departamento, indicados pelo Diretor, para nomeação pelo Reitor, com mandato de dois (2) anos.
 
 Parágrafo único. O Chefe do Departamento exercerá as suas funções em regime de vinte e duas (22) horas semanais de trabalho efetivo, em turno completo, devendo, porém, exercê-las em Regime de Dedicação Exclusiva, quando o mesmo lhe fôr outorgado pela Universidade.
 
-<strong>Art</strong>. 48. Compete ao Chefe do Departamento:
+**Art**. 48. Compete ao Chefe do Departamento:
 
 I - Convocar e presidir, pelo menos, uma (1) reunião mensal do pessoal docente lotado no Departamento, na qual serão discutidos assuntos de ordem didático-científica, de interêsse do mesmo;
 
@@ -718,17 +716,17 @@ V - Encaminhar ao Conselho Departamental, os pedidos de dispensa temporária das
 
 VI - Promover o estudo e elaboração de novos Planos de Ensino para novas disciplinas, quando solicitado pelo Conselho Departamental.
 
-<strong>Art</strong>. 49. O Departamento é a menor fração da estrutura universitária para todos os efeitos de organização administrativa, didático-científica e de distribuição de pessoal.
+**Art**. 49. O Departamento é a menor fração da estrutura universitária para todos os efeitos de organização administrativa, didático-científica e de distribuição de pessoal.
 
-<strong>Art</strong>. 50. A Diretoria, exercida pelo Diretor, com a cooperação direta e efetiva do Vice-Diretor, é o órgão executivo que coordena, fiscaliza e superintende tôdas as atividades da Unidade.
+**Art**. 50. A Diretoria, exercida pelo Diretor, com a cooperação direta e efetiva do Vice-Diretor, é o órgão executivo que coordena, fiscaliza e superintende tôdas as atividades da Unidade.
 
-<strong>Art</strong>. 51. Em sessão especialmente convocada para tal fim, a Congregação organizará listas de seis (6) nomes, mediante votação uninominal, em escrutínios secretos, e sucessivos, necessários à obtenção de maioria absoluta, para indicação e nomeação pelo Presidente da República do Diretor e do Vice-Diretor da Unidade.
+**Art**. 51. Em sessão especialmente convocada para tal fim, a Congregação organizará listas de seis (6) nomes, mediante votação uninominal, em escrutínios secretos, e sucessivos, necessários à obtenção de maioria absoluta, para indicação e nomeação pelo Presidente da República do Diretor e do Vice-Diretor da Unidade.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das Entidades Suplementares</em>
+*Das Entidades Suplementares*
 
-<strong>Art</strong>. 52. As Entidades classificadas no Sistema Suplementar da Universidade, serão estruturadas em:
+**Art**. 52. As Entidades classificadas no Sistema Suplementar da Universidade, serão estruturadas em:
 
 I - Centros Universitários:
 
@@ -748,21 +746,21 @@ a) Diretoria, órgão executivo e fiscal.
 
 Parágrafo único. Os Diretores das Entidades do Sistema Suplementar são de livre escolha e nomeação pelo Reitor.
 
-<strong>Art</strong>. 53. A constituição e as atribuições dos órgãos suplementares, serão fixados no Regimento Geral da Universidade e nos respectivos Regimentos.
+**Art**. 53. A constituição e as atribuições dos órgãos suplementares, serão fixados no Regimento Geral da Universidade e nos respectivos Regimentos.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Dos Órgãos Auxiliares da Reitoria</em>
+*Dos Órgãos Auxiliares da Reitoria*
 
-<strong>Art</strong>. 54. Os Órgãos Auxiliares da Reitoria e demais Dependências universitárias, serão dirigidos por Diretores ou Chefes, de livre escolha e nomeação pelo Reitor.
+**Art**. 54. Os Órgãos Auxiliares da Reitoria e demais Dependências universitárias, serão dirigidos por Diretores ou Chefes, de livre escolha e nomeação pelo Reitor.
 
-<strong>Art</strong>. 55. O Regimento Geral da Universidade fixará as normas de funcionamento, desdobramento e atribuições do pessoal das Dependências universitárias.
+**Art**. 55. O Regimento Geral da Universidade fixará as normas de funcionamento, desdobramento e atribuições do pessoal das Dependências universitárias.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 56. O pessoal da Universidade classifica-se em:
+**Art**. 56. O pessoal da Universidade classifica-se em:
 
 I - Docente;
 
@@ -772,7 +770,7 @@ III - Administrativo; e
 
 IV - Auxiliar.
 
-<strong>Art</strong>. 57. O pessoal da Universidade classifica-se nas seguintes categorias:
+**Art**. 57. O pessoal da Universidade classifica-se nas seguintes categorias:
 
 I - Funcionário - ocupante de cargo público, integrante do Quadro de Pessoal, invertindo na forma da lei, e pago por dotação específica, consignada no Orçamento da União;
 
@@ -786,7 +784,7 @@ II - Servidor contratado - regido pela Consolidação da Leis do Trabalho, e em 
 
 § 4º As entidades da Universidade, integrantes do Sistema Suplementar, e os Órgãos Auxiliares da Reitoria, encaminharão ao Reitor, sua propostas para admissão de pessoal sujeito à C.L.T., as quais, uma vez aprovadas pelo Conselho Universitário, constarão de Tabelas que deverão ser encaminhadas à sanção ministerial.
 
-<strong>Art</strong>. 58. O pessoal Docente da Universidade, compreenderá:
+**Art**. 58. O pessoal Docente da Universidade, compreenderá:
 
 I - Ocupantes de cargos de magistério superior;
 
@@ -798,7 +796,7 @@ IV - Ocupantes de cargos de magistério de nível médio;
 
 V - Ocupantes de cargos de magistério de nível primário.
 
-<strong>Art</strong>. 59. Os cargos de magistério compreendem:
+**Art**. 59. Os cargos de magistério compreendem:
 
 I - Em nível superior;
 
@@ -826,9 +824,9 @@ a) professor de ensino primário e pré-primário.
 
 Parágrafo único. O Regimento Geral da Universidade e os Regimentos das Entidades de Ensino, Pesquisa e Extensão, estabelecerão as atribuições do seu pessoal docente, seus diretores e regime de trabalho.
 
-<strong>Art</strong>. 60. O Reitor submeterá à Comissão Coordenação do Regime de Dedicação Exclusiva, criada junto Ministério da Educação e Cultura, os processos de concessão de tempo integral e dedicação exclusiva do pessoal do magistério superior, aprovados pela Comissão Permanente do Regime de Tempo Integral e Dedicação Exclusiva (COPERTIDE), instituída junto ao Conselho de Ensino e Pesquisa da Universidade.
+**Art**. 60. O Reitor submeterá à Comissão Coordenação do Regime de Dedicação Exclusiva, criada junto Ministério da Educação e Cultura, os processos de concessão de tempo integral e dedicação exclusiva do pessoal do magistério superior, aprovados pela Comissão Permanente do Regime de Tempo Integral e Dedicação Exclusiva (COPERTIDE), instituída junto ao Conselho de Ensino e Pesquisa da Universidade.
 
-<strong>Art</strong>. 61. O provimento do cargo de professor-titular será feito mediante concurso público de títulos e provas, a que poderão concorrer professôres-adjuntos, docentes-livres ou pessoas de alta qualificação científicas, a juízo do Colegiado universitário competente, pelo voto de dois terços (2/3) de seus membros.
+**Art**. 61. O provimento do cargo de professor-titular será feito mediante concurso público de títulos e provas, a que poderão concorrer professôres-adjuntos, docentes-livres ou pessoas de alta qualificação científicas, a juízo do Colegiado universitário competente, pelo voto de dois terços (2/3) de seus membros.
 
 § 1º Dentro de trinta (30) dias a partir da vacância do cargo, será aberta a inscrição para o concurso previsto neste artigo.
 
@@ -836,17 +834,17 @@ Parágrafo único. O Regimento Geral da Universidade e os Regimentos das Entidad
 
 § 3º A Partir de seis (6) anos da data de aprovação dêste Estatuto, o título de doutor, obtido em curso credenciado de pós-graduação, será obrigatório, para a inscrição no concurso para professor-titular, devendo o Regimento Geral da Universidade e o Regimento da Unidade, disciplinarem as demais Normas para realização do mesmo, atribuindo valor preponderante ao “curriculum vitae” e ao teor cientifico dos trabalhos apresentados pelos candidatos.
 
-<strong>Art</strong>. 62. O provimento do cargo de professor-adjunto, será feito mediante concurso público de títulos a que poderão concorrer os professôres-assistentes, dando-se preferência, em igualdade de condições, aos que possuírem o diploma de doutor, obtido em curso credenciado de pós-graduação.
+**Art**. 62. O provimento do cargo de professor-adjunto, será feito mediante concurso público de títulos a que poderão concorrer os professôres-assistentes, dando-se preferência, em igualdade de condições, aos que possuírem o diploma de doutor, obtido em curso credenciado de pós-graduação.
 
 § 1º Ocorrida a vaga de professor-adjunto dentro de trinta dias será aberta a inscrição para o concurso previsto neste artigo.
 
 § 2º O prazo de enscrição no concurso será de seis (6) meses, devendo ser realizado dentro de três (3) meses, a contar da data de encerramento das inscrições.
 
-<strong>Art</strong>. 63. A partir de seis (6) anos da aprovação dêste Estatuto, será exigido do professor-assistente, o titulo de doutor, obtido em curso credenciado de pós-graduação, para habilitação ao cargo de professor-adjunto, respeitados direitos adquiridos pelos atuais ocupantes do cargo de professor-assistente.
+**Art**. 63. A partir de seis (6) anos da aprovação dêste Estatuto, será exigido do professor-assistente, o titulo de doutor, obtido em curso credenciado de pós-graduação, para habilitação ao cargo de professor-adjunto, respeitados direitos adquiridos pelos atuais ocupantes do cargo de professor-assistente.
 
 Parágrafo único. O título de doutor, obtido em curso credenciado de pós-graduação, permite ao professor-assistente, ser professor-adjunto, com direito a gratificação relativa a diferença entre essas duas situações funcionais, até que haja vaga ou seja criado nôvo cargo.
 
-<strong>Art</strong>. 64. O provimento do cargo de professor-assistente será feito mediante concurso público de títulos e provas a que poderão concorrer graduados que possuam cursos de especialização ou aperfeiçoamento no setor correspondente de estudos constituindo títulos preferenciais e diploma de mestre e o estágio probatório de auxiliar de ensino.
+**Art**. 64. O provimento do cargo de professor-assistente será feito mediante concurso público de títulos e provas a que poderão concorrer graduados que possuam cursos de especialização ou aperfeiçoamento no setor correspondente de estudos constituindo títulos preferenciais e diploma de mestre e o estágio probatório de auxiliar de ensino.
 
 § 1º A partir de seis (6) anos da data da aprovação dêste Estatuto, será obrigatório a apresentação do título Mestre, obtido em curso credenciado de pós-graduação, para a candidatura ao cargo de Professor-assistente.
 
@@ -854,11 +852,11 @@ Parágrafo único. O título de doutor, obtido em curso credenciado de pós-grad
 
 § 3º Será de seis (6) meses o prazo de inscrição no concurso, o qual deverá ser realizado dentro de três (3) meses, a contar da data do encerramento das inscrições.
 
-<strong>Art</strong>. 65. Os concursos para provimento dos cargos de professor-titular, professor adjunto e professor-assistente, serão regulamentados no Regimento Geral da Universidade da mesma.
+**Art**. 65. Os concursos para provimento dos cargos de professor-titular, professor adjunto e professor-assistente, serão regulamentados no Regimento Geral da Universidade da mesma.
 
-<strong>Art</strong>. 66. Aos professôres do magistério superior, aplicam-se o regime jurídico do Estatuto do Magistério Superior, a regulamentação especifica que couber e, subsidiariamente, o Estatuto dos Funcionários Civis da União.
+**Art**. 66. Aos professôres do magistério superior, aplicam-se o regime jurídico do Estatuto do Magistério Superior, a regulamentação especifica que couber e, subsidiariamente, o Estatuto dos Funcionários Civis da União.
 
-<strong>Art</strong>. 67. Os professôres contratados, serão regidos exclusivamente pela legislação trabalhista, e sua admissão far-se-á observando-se os requisitos de titulação fixados para diversas classes da carreira de magistério superior.
+**Art**. 67. Os professôres contratados, serão regidos exclusivamente pela legislação trabalhista, e sua admissão far-se-á observando-se os requisitos de titulação fixados para diversas classes da carreira de magistério superior.
 
 § 1º Os candidatos à função de professor contratado, serão selecionados mediante concurso de títulos cujas normas serão estabelecidas no Regimento Geral da Universidade e nos Regimentos de suas Unidades.
 
@@ -868,13 +866,13 @@ Parágrafo único. O título de doutor, obtido em curso credenciado de pós-grad
 
 § 4º A relação do emprêgo do professor contratado é extinta, independentemente de indenização, quando da aposentadoria compulsória por limite de idade.
 
-<strong>Art</strong>. 68. Os auxiliares de ensino serão admitidos em caracter probatório, regidos pela Consolidação das Leis do Trabalho, e deverão possuir diploma de cursos de nível superior.
+**Art**. 68. Os auxiliares de ensino serão admitidos em caracter probatório, regidos pela Consolidação das Leis do Trabalho, e deverão possuir diploma de cursos de nível superior.
 
 § 1º A admissão será feita pelo prazo de dois (2) anos, mediante concurso de títulos e provas, cujas normas serão estabelecidas no Regimento Geral da Universidade e nos Regimentos das Universidades.
 
 § 2º O contrato de admissão citado no parágrafo anterior, poderá ser renovado por igual período. Para nova redução, após quatro (4) anos de exercício, o auxiliar de ensino deverá apresentar certificado de aprovação em curso de pós-graduação.
 
-<strong>Art</strong>. 69. É criada a função remunerada de monitor, para a qual poderá ser designado aluno de curso de graduação, que se submeta a provas especiais, nas quais demonstre capacidade de desempenho em atividade tecnico-didática de determinada disciplina.
+**Art**. 69. É criada a função remunerada de monitor, para a qual poderá ser designado aluno de curso de graduação, que se submeta a provas especiais, nas quais demonstre capacidade de desempenho em atividade tecnico-didática de determinada disciplina.
 
 § 1º A função de monitor é considerada título para posterior ingresso na carreira de magistério superior.
 
@@ -882,29 +880,29 @@ Parágrafo único. O título de doutor, obtido em curso credenciado de pós-grad
 
 § 3º O Regimento Geral da Universidade e os Regimentos de suas Unidades, disciplinarão as provas especiais previstas neste artigo.
 
-<strong>Art</strong>. 70. O provimento do cargo de magistério de nível médio e de nível primário, será feito mediante concurso público de títulos e provas a que poderão concorrer professôres registrados no órgão competente.
+**Art**. 70. O provimento do cargo de magistério de nível médio e de nível primário, será feito mediante concurso público de títulos e provas a que poderão concorrer professôres registrados no órgão competente.
 
-<strong>Art</strong>. 71. Poderá ser também contratado professor para o ensino médio ou primário, de acôrdo com a Consolidação das Leis do Trabalho.
+**Art**. 71. Poderá ser também contratado professor para o ensino médio ou primário, de acôrdo com a Consolidação das Leis do Trabalho.
 
 Parágrafo único. A contratação a que se refere êste artigo, terá validade de dois (2) anos e dependerá da prestação de concursos de títulos e provas, regulamentado no Regimento Geral da Universidade e nos Regimentos de suas Entidades respectivas.
 
-<strong>Art</strong>. 72. O pessoal técnico, administrativo, e auxiliar será classificado nas diversas categorias profissionais na forma da legislação em vigor e será regido pelo Estatuto dos Funcionários Civis da União.
+**Art**. 72. O pessoal técnico, administrativo, e auxiliar será classificado nas diversas categorias profissionais na forma da legislação em vigor e será regido pelo Estatuto dos Funcionários Civis da União.
 
-<strong>Art</strong>. 73. A admissão de pessoal técnico, administrativo, e auxiliar, será feita através de concurso, na foram da legislação vigente.
+**Art**. 73. A admissão de pessoal técnico, administrativo, e auxiliar, será feita através de concurso, na foram da legislação vigente.
 
 Parágrafo único. As funções constantes da Tabela de Pessoal, enviada pelo Reitor para sanção ministerial, serão ocupados por candidatos aprovados em concurso público e regidas pela Consolidação das Leis Trabalho.
 
-<strong>Art</strong>. 74. Os funcionários da Universidade poderão colaborar, mediante solicitação e acôrdo, em assuntos de ensino, pesquisa e extensão, ou estudo e aperfeiçoamento dos serviços públicos, em órgãos da administração direta ou indireta da União, na forma do que estabelecer o Regimento Geral da Universidade.
+**Art**. 74. Os funcionários da Universidade poderão colaborar, mediante solicitação e acôrdo, em assuntos de ensino, pesquisa e extensão, ou estudo e aperfeiçoamento dos serviços públicos, em órgãos da administração direta ou indireta da União, na forma do que estabelecer o Regimento Geral da Universidade.
 
-<strong>Art</strong>. 75. O pessoal docente da Universidade terá direito a quarenta e cinco (45) dias de férias anuais, feitas as competentes escalas de férias, de modo a permitir que, entre os períodos letivos regulares sejam executados programas de ensino e pesquisa que assegurem o funcionamento contínuo das entidades universitárias responsáveis por estas atividades.
+**Art**. 75. O pessoal docente da Universidade terá direito a quarenta e cinco (45) dias de férias anuais, feitas as competentes escalas de férias, de modo a permitir que, entre os períodos letivos regulares sejam executados programas de ensino e pesquisa que assegurem o funcionamento contínuo das entidades universitárias responsáveis por estas atividades.
 
 Parágrafo único. O Regimento Geral da Universidade e os Regimentos das Entidades de Ensino, Pesquisa e Extensão, da mesma, estabelecerão as normas para implantação dos programas citados neste artigo.
 
-<strong>SEÇÃO ÚNICA</strong>
+**SEÇÃO ÚNICA**
 
-<em>Do corpo Discente</em>
+*Do corpo Discente*
 
-<strong>Art</strong>. 76. Os estudantes matriculados nos diversos cursos da Universidade, constituem o seu Corpo Discente.
+**Art**. 76. Os estudantes matriculados nos diversos cursos da Universidade, constituem o seu Corpo Discente.
 
 § Para efeito de identificação e comprovação da qualidade do estudante, serão expedidas carteiras visadas pelo Diretor da Divisão de Expediente Escolar da Diretoria de Educação e Cultura, das quais constarão obrigatòriamente, o nível de ensino recebido, o período de validade, a Entidade responsável pelo Curso em que o aluno está inscrito, a denominação do mesmo e a classificação estudantil.
 
@@ -918,7 +916,7 @@ III - Alunos especiais, matriculados nos demais Cursos que dão direito a Certif
 
 § 3º O ato da matrícula, em qualquer curso mantido pela Universidade, implica em compromisso formal de respeito a êste Estatuto, ao Regimento Geral da Universidade e aos demais Regimentos de Entidades Universitárias, às Resoluções dos órgãos Deliberativos Superiores, bem como ao que determinarem as Autoridades Universitárias, constituindo falta punível, o seu não atendimento ou transgressão.
 
-<strong>Art</strong>. 77. No sentido de integrar o Corpo Discente na comunidade, a Universidade suplementará suas atividades curriculares especificas:
+**Art**. 77. No sentido de integrar o Corpo Discente na comunidade, a Universidade suplementará suas atividades curriculares especificas:
 
 I - Estimulando a educação física, moral e cívica;
 
@@ -928,33 +926,33 @@ III - Incentivando programas culturais, artísticos, cívicos e desportivos, por
 
 IV - Proporcionando aos discentes, através de cursos e serviços de extensão, a oportunidade de participação em projetos, visando ao aprimoramento comunitário e o desenvolvimento regional e nacional.
 
-<strong>Art</strong>. 78. O regimento Geral da Universidade estabelecerá as anuidades a cobrar de seus alunos assim como as necessárias reduções e até mesmo isenções compatíveis com a insuficiência de recursos financeiros dos mesmos.
+**Art**. 78. O regimento Geral da Universidade estabelecerá as anuidades a cobrar de seus alunos assim como as necessárias reduções e até mesmo isenções compatíveis com a insuficiência de recursos financeiros dos mesmos.
 
-<strong>Art</strong>. 79. Regimento Geral da Universidade discriminará os diversos tipos de bôlsas escolares, assim como a forma de retribuição dos serviços prestados por alunos através das especificas par tal fim.
+**Art**. 79. Regimento Geral da Universidade discriminará os diversos tipos de bôlsas escolares, assim como a forma de retribuição dos serviços prestados por alunos através das especificas par tal fim.
 
-<strong>Art</strong>. 80 O Corpo Discente terá representação com direito a voz e voto nos órgãos Colegiados e Comissões Universitárias, na forma do que estabelecer o Regimento Geral da Universidade.
+**Art**. 80 O Corpo Discente terá representação com direito a voz e voto nos órgãos Colegiados e Comissões Universitárias, na forma do que estabelecer o Regimento Geral da Universidade.
 
 Parágrafo único. A representação estudantil visa à cooperação necessária do Corpo Discente, com a Administração e os Corpos Docente, Técnico e Administrativo da Universidade.
 
-<strong>Art</strong>. 81. Os órgãos de representação estudantil são o Diretório Central de Estudantes (D.C.E.) da Universidade e dos Diretórios Acadêmicos – (D.A.) das Unidades de Ensino Superior da mesma.
+**Art**. 81. Os órgãos de representação estudantil são o Diretório Central de Estudantes (D.C.E.) da Universidade e dos Diretórios Acadêmicos – (D.A.) das Unidades de Ensino Superior da mesma.
 
-<strong>Art</strong>. 82. O processo de escolha da representação estudantil e os requisitos exigidos dos representantes nos Departamentos, Órgãos Colegiados e Comissões Universitárias serão disciplinados no Regimento Geral da Universidade na forma da Legislação vigente.
+**Art**. 82. O processo de escolha da representação estudantil e os requisitos exigidos dos representantes nos Departamentos, Órgãos Colegiados e Comissões Universitárias serão disciplinados no Regimento Geral da Universidade na forma da Legislação vigente.
 
-<strong>Art</strong>. 83. Os mandatos estudantis são de um (1) ano, vedada a redução.
+**Art**. 83. Os mandatos estudantis são de um (1) ano, vedada a redução.
 
 Parágrafo único. O exercício de mandato estudantil não exonera o aluno do cumprimento de seus deveres escolares.
 
-<strong>Art</strong>. 84. Os Diretórios Acadêmicos das Unidades de Ensino Superior e o Diretório Central de Estudantes, organizados com a finalidade de congregar os membros dos respectivos corpos discentes, submeterão seus regimentos à aprovação da instância escolar ou universitária competente.
+**Art**. 84. Os Diretórios Acadêmicos das Unidades de Ensino Superior e o Diretório Central de Estudantes, organizados com a finalidade de congregar os membros dos respectivos corpos discentes, submeterão seus regimentos à aprovação da instância escolar ou universitária competente.
 
 Parágrafo único. O Regimento Geral da Universidade disciplinará os objetivos e normas de constituição e funcionamento dos órgãos referidos neste artigo.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Regime Disciplinar</em>
+*Do Regime Disciplinar*
 
-<strong>Art</strong>. 85. O Regimento Geral da Universidade e os Regimentos de cada Entidade, respeitada a legislação específica vigente, e aplicável à matéria, disporão sôbre o regime disciplinar a que ficará sujeito o seu respectivo pessoal.
+**Art**. 85. O Regimento Geral da Universidade e os Regimentos de cada Entidade, respeitada a legislação específica vigente, e aplicável à matéria, disporão sôbre o regime disciplinar a que ficará sujeito o seu respectivo pessoal.
 
-<strong>Art</strong>. 86. São as seguintes, as penas aplicáveis ao pessoal docente, técnico, administrativo e auxiliar:
+**Art**. 86. São as seguintes, as penas aplicáveis ao pessoal docente, técnico, administrativo e auxiliar:
 
 I - Repreensão;
 
@@ -984,7 +982,7 @@ c) ao Reitor, após pronunciamento favorável do Conselho Universitário ou do C
 
 § 3º Ao professor que, sem motivo justificado, não cumprir o programa de seu Plano de Ensino, dentro do respectivo período escolar, ou que deixar de comparecer às aulas de sua responsabilidade, ressalvadas as faltas previamente justificadas, será aplicada a pena de suspensão do exercício, sem vencimentos, por período de trinta (30) a noventa (90) dias, conforme a gravidade da falta, mediante ato da Congregação, assegurada ao mesmo ampla defesa, em processo administrativo a que responderá, importando a reincidência na falta, em perda do cargo, na forma da lei.
 
-<strong>Art</strong>. 87. São as seguintes as penas aplicáveis aso discentes:
+**Art**. 87. São as seguintes as penas aplicáveis aso discentes:
 
 I - Advertência, de competência do professor;
 
@@ -994,7 +992,7 @@ III - Suspensão, até oito (8) dias, de competência do Diretor e, acima de oit
 
 IV - expulsão, de competência do Conselho Universitário , ouvido o Conselho de Ensino e Pesquisa.
 
-<strong>Art</strong>. 88 Comete infração disciplinar, punida na forma da lei, o professor, aluno, funcionário ou empregado da Universidade que:
+**Art**. 88 Comete infração disciplinar, punida na forma da lei, o professor, aluno, funcionário ou empregado da Universidade que:
 
 I - Alicie ou incite à deflagração de movimento que tenha por finalidade a paralisação de atividade escolar, ou participe nesse movimento;
 
@@ -1008,13 +1006,13 @@ V - Seqüestro ou mantenha em cárcere privado, diretor, membro do corpo docente
 
 VI - Use dependência ou recinto escolar para fins de subvenção ou para praticar ato contrário à moral ou à ordem pública.
 
-<strong>Art</strong>. 89. Dos atos que impuserem penalidades disciplinares, caberá recurso para a autoridade imediatamente superior, sendo a última instância o Conselho Universitário.
+**Art**. 89. Dos atos que impuserem penalidades disciplinares, caberá recurso para a autoridade imediatamente superior, sendo a última instância o Conselho Universitário.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das Atividades Universitárias</em>
+*Das Atividades Universitárias*
 
-<strong>Art</strong>. 90. As atividades universitárias, compreenderão tôda forma de expressão de cultura, em todos os seus graus e modalidades, compatíveis com, as finalidades a que se propõe a Universidade, e serão objetivadas através de:
+**Art**. 90. As atividades universitárias, compreenderão tôda forma de expressão de cultura, em todos os seus graus e modalidades, compatíveis com, as finalidades a que se propõe a Universidade, e serão objetivadas através de:
 
 I - Cursos de graduação;
 
@@ -1032,15 +1030,15 @@ VI - Cursos colegiais orientados.
 
 § 2º A Universidade estruturará seus cursos profissionais em dois (2) ciclos de estudos de duração variável; um ciclo básico e geral, sob a responsabilidade dos Institutos e um ciclo profissional sobe a responsabilidade do Sistema de Formação Profissional e Pesquisa Aplicada e/ou do Sistema Suplementar.
 
-<strong>Art</strong>. 91. A unidade letiva normal será o semestre, correspondente a 15 (quinze) semanas de 6 (seis) dias úteis, podendo no entanto, em casos especiais haver cursos programados com atividades didáticas de menor duração total.
+**Art**. 91. A unidade letiva normal será o semestre, correspondente a 15 (quinze) semanas de 6 (seis) dias úteis, podendo no entanto, em casos especiais haver cursos programados com atividades didáticas de menor duração total.
 
 Parágrafo único. Entre os períodos letivos semestrais regulares, serão executados programas de ensino e pesquisa a cargo dos Departamentos universitários, visando a continuidade das atividades escolares.
 
-<strong>Art</strong>. 92. As pesquisas científicas, básicas e aplicadas, e as atividades culturais em geral, serão indissociáveis de qualquer atividade didática.
+**Art**. 92. As pesquisas científicas, básicas e aplicadas, e as atividades culturais em geral, serão indissociáveis de qualquer atividade didática.
 
-<strong>Art</strong>. 93. Na organização e métodos pedagógicos adotados pelas Entidades universitárias, será atendido, a um tempo, o duplo objetivo de ministrar ensino eficiente e de estimular o espírito de investigação, indispensável ao progresso profissional.
+**Art**. 93. Na organização e métodos pedagógicos adotados pelas Entidades universitárias, será atendido, a um tempo, o duplo objetivo de ministrar ensino eficiente e de estimular o espírito de investigação, indispensável ao progresso profissional.
 
-<strong>Art</strong>. 94. Para atender os objetivos assinalados no artigo 93, deve constituir máximo empenho, das Entidades universitárias:
+**Art**. 94. Para atender os objetivos assinalados no artigo 93, deve constituir máximo empenho, das Entidades universitárias:
 
 I - Seleção de docentes que ofereçam as mais seguras garantias de devotamento ao magistério e à pesquisa, elevada cultura, capacidade didática e predicados morais, obedecido o critério de seleção por concurso, visando a formação efetiva da carreira do magistério;
 
@@ -1048,7 +1046,7 @@ II - Flexibilidade dos currículos, permitindo a extinção de disciplinas dispe
 
 III - Programação harmônica das atividades, através da atuação departamental.
 
-<strong>Art</strong>. 95. Do Regimento Geral da Universidade e dos Regimentos das Entidades de Ensino, Pesquisa e Extensão, constarão:
+**Art**. 95. Do Regimento Geral da Universidade e dos Regimentos das Entidades de Ensino, Pesquisa e Extensão, constarão:
 
 I - Lista e classificação das disciplinas cuja lecionação é de responsabilidade da Entidade;
 
@@ -1108,15 +1106,15 @@ XXVIII - Representação estudantil em órgãos colegiados.
 
 Parágrafo único. Os itens I, II, III, IV e V serão estabelecidos apenas nos Regimentos das Entidades de Ensino, Pesquisas e Extensão.
 
-<strong>Art</strong>. 96. A Universidade publicará anualmente o seu Catálogo de Cursos, elaborado pelo Conselho de Ensino e Pesquisa, do qual constará o calendário escolar.
+**Art**. 96. A Universidade publicará anualmente o seu Catálogo de Cursos, elaborado pelo Conselho de Ensino e Pesquisa, do qual constará o calendário escolar.
 
-<strong>Art</strong>. 97. Será obrigatória, em cada Entidade de Ensino e Pesquisa, a freqüência de professôres e alunos, bem como a integral realização dos Planos de Ensino, Pesquisa e Extensão.
+**Art**. 97. Será obrigatória, em cada Entidade de Ensino e Pesquisa, a freqüência de professôres e alunos, bem como a integral realização dos Planos de Ensino, Pesquisa e Extensão.
 
 § 1º Será recusada nova matrícula ao aluno reprovado em disciplinas que ultrapassem, quanto às horas prescritas de trabalho escolar, um quinto (1/5) do primeiro ciclo, ou um décimo (1/10) do curso completo.
 
 § 2º Será privado do direito de prestar exames o aluno que deixar de aparecer a um mínimo de oitenta (oitenta) por cento das aulas e exercícios previstos nos Regimentos, para cada semestre letivo.
 
-<strong>Art</strong>. 98. O Centro de Aperfeiçoamento, Especialização e Extensão além de cooperar com Entidades dos Sistemas de Ensino e Pesquisa da Universidade, e ministrar cursos regulares sua competência oferecerá curso e serviços especiais à comunidade em geral, assim como a grupos sociais, entidades públicas ou privada com o objetivo, também, de servir àqueles que não se beneficiam diretamente com as atividades acadêmicas.
+**Art**. 98. O Centro de Aperfeiçoamento, Especialização e Extensão além de cooperar com Entidades dos Sistemas de Ensino e Pesquisa da Universidade, e ministrar cursos regulares sua competência oferecerá curso e serviços especiais à comunidade em geral, assim como a grupos sociais, entidades públicas ou privada com o objetivo, também, de servir àqueles que não se beneficiam diretamente com as atividades acadêmicas.
 
 § 1º O CAEE é a Entidade Suplementar responsável pelo Serviço de Extensão Rural da Universidade, e cooperá estreitamente com o Instituto de Ciências Humanas.
 
@@ -1124,7 +1122,7 @@ Parágrafo único. Os itens I, II, III, IV e V serão estabelecidos apenas nos R
 
 § 3º O Orçamento Interno da Universidade, consignará dotação específica para os Serviços de Extensão.
 
-<strong>Art</strong>. 99. O Concurso Vestibular, abrangerá os conhecimentos comuns às diversas formas de educação do segundo grau, sem ultrapassar êste nível de conhecimento em relação à sua complexidade.
+**Art**. 99. O Concurso Vestibular, abrangerá os conhecimentos comuns às diversas formas de educação do segundo grau, sem ultrapassar êste nível de conhecimento em relação à sua complexidade.
 
 § 1º O Concurso Vestibular será idêntico em seu conteúdo, para todos os cursos ou áreas de conhecimentos afins, e unificado no âmbito da Universidade em sua execução.
 
@@ -1132,27 +1130,27 @@ Parágrafo único. Os itens I, II, III, IV e V serão estabelecidos apenas nos R
 
 § 3º O Regimento Geral estabelecerá as normas para matrículas.
 
-<strong>Art</strong>. 100. Com exceção das reuniões dos Órgãos Deliberativos Superiores, as atividades extracurriculares serão realizadas, evitando-se prejuízo de aulas, devendo os docentes ou discentes, quando convocados, reunir-se fora do horário escolar.
+**Art**. 100. Com exceção das reuniões dos Órgãos Deliberativos Superiores, as atividades extracurriculares serão realizadas, evitando-se prejuízo de aulas, devendo os docentes ou discentes, quando convocados, reunir-se fora do horário escolar.
 
-<strong>SEÇÃO ÚNICA</strong>
+**SEÇÃO ÚNICA**
 
-<em>Da Vida Social Universitária</em>
+*Da Vida Social Universitária*
 
-<strong>Art</strong>. 101. Para a maior eficiência e prestígio das instituições universitárias, são adotados meios de acentuar a união e a solidariedade entre docentes, servidores, antigos e atuais alunos.
+**Art**. 101. Para a maior eficiência e prestígio das instituições universitárias, são adotados meios de acentuar a união e a solidariedade entre docentes, servidores, antigos e atuais alunos.
 
-<strong>Art</strong>. 102. A vida social universitário tem como organização fundamental as Associações de Docentes, Ex-Alunos e Servidores.
+**Art**. 102. A vida social universitário tem como organização fundamental as Associações de Docentes, Ex-Alunos e Servidores.
 
 Parágrafo único. O Regimento Geral da Universidade, disciplinará a estrutura e as finalidades das Associações citadas neste artigo.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Do Patrimônio, Recursos e Regime Financeiro</em>
+*Do Patrimônio, Recursos e Regime Financeiro*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Patrimônio</em>
+*Do Patrimônio*
 
-<strong>Art</strong>. 103. Constituem o Patrimônio da Universidade:
+**Art**. 103. Constituem o Patrimônio da Universidade:
 
 I - Os bens imóveis, móveis e semoventes, títulos e diretos com que a Universidade passou à jurisdição federal, por fôrça da Lei nº 2.524, de 4 de julho de 1955;
 
@@ -1166,11 +1164,11 @@ V - Os saldos dos exercícios financeiros, transferidos para a conta patrimonial
 
 VI - As rendas de qualquer natureza.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Dos Recursos</em>
+*Dos Recursos*
 
-<strong>Art</strong>. 104. Os recursos para a manutenção e desenvolvimento da Universidade são provenientes:
+**Art**. 104. Os recursos para a manutenção e desenvolvimento da Universidade são provenientes:
 
 I - Das dotações orçamentárias que, a qualquer título, lhe forem atribuídas os Orçamentos da União, dos Estados e dos Municípios;
 
@@ -1184,45 +1182,45 @@ V - Da receita eventual;
 
 VI - De taxas e emolumentos.
 
-<strong>Art</strong>. 105. A Universidade sòmente poderá utilizar os seus bens e direitos na realização dos seus objetivos, podendo no entanto, promover inversões que visem a valorização patrimonial e obtenção de rendas aplicáveis à consecução daqueles.
+**Art**. 105. A Universidade sòmente poderá utilizar os seus bens e direitos na realização dos seus objetivos, podendo no entanto, promover inversões que visem a valorização patrimonial e obtenção de rendas aplicáveis à consecução daqueles.
 
 Parágrafo único. As aquisições de bens e valôres por parte da Universidade, independem de aprovação do Governo Federal, mas a alienação e a oneração dos seus bens imóveis, somente poderão ser efetivados após autorização expressa do Presidente da República, ouvido o Ministério da Educação e Cultura.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Regime Financeiro</em>
+*Do Regime Financeiro*
 
-<strong>Art</strong>. 106. O exercício financeiro da Universidade, coincidirá com o ano civil.
+**Art**. 106. O exercício financeiro da Universidade, coincidirá com o ano civil.
 
-<strong>Art</strong>. 107. O Orçamento da Universidade será uno.
+**Art**. 107. O Orçamento da Universidade será uno.
 
 Parágrafo único. Os fundos especiais de que trata o item IV do artigo 95, dêste Estatuto, serão vinculados e incorporados ao Orçamento Geral da Universidade, regendo-se a sua gestão pelas normas dêste Capítulo, no que lhes fôrem aplicáveis.
 
-<strong>Art</strong>. 108. O Calendário de Execução da Proposta Orçamentária é regulado pelo Ministério da Educação e Cultura.
+**Art**. 108. O Calendário de Execução da Proposta Orçamentária é regulado pelo Ministério da Educação e Cultura.
 
-<strong>Art</strong>. 109. A Proposta Orçamentária da Universidade, uma vez estudada e aprovada pelos Conselhos Universitários e de Curadores, ouvido o Conselho de Ensino e Pesquisa no que couber, será enviada dentro do Calendário estabelecido pelo Ministério da Educação e Cultura, aos órgãos competentes, a fim de servir de base à fixação do auxílio financeiro da União.
+**Art**. 109. A Proposta Orçamentária da Universidade, uma vez estudada e aprovada pelos Conselhos Universitários e de Curadores, ouvido o Conselho de Ensino e Pesquisa no que couber, será enviada dentro do Calendário estabelecido pelo Ministério da Educação e Cultura, aos órgãos competentes, a fim de servir de base à fixação do auxílio financeiro da União.
 
-<strong>Art</strong>. 110. Com base no valor das dotações que o Orçamento-Geral da União efetivamente conceder, a Reitoria promoverá o reajustamento dos quantitativos constantes da sua proposta geral anteriormente aprovada, constituindo o documento resultante, o Orçamento Interno da Universidade, que será submetido à aprovação dos Conselhos Universitários e de Curadores, até o dia trinta e um (31) de dezembro.
+**Art**. 110. Com base no valor das dotações que o Orçamento-Geral da União efetivamente conceder, a Reitoria promoverá o reajustamento dos quantitativos constantes da sua proposta geral anteriormente aprovada, constituindo o documento resultante, o Orçamento Interno da Universidade, que será submetido à aprovação dos Conselhos Universitários e de Curadores, até o dia trinta e um (31) de dezembro.
 
-<strong>Art</strong>. 111. O Reitor poderá delegar competência aos Diretores das entidades universitárias para aplicação das verbas dos seus respectivos orçamentos.
+**Art**. 111. O Reitor poderá delegar competência aos Diretores das entidades universitárias para aplicação das verbas dos seus respectivos orçamentos.
 
-<strong>Art</strong>. 112. Os limites de aprovação para as concorrências públicas e coletas de preços, são regulados pelo Código de Contabilidade da União e legislação subseqüênte em vigor.
+**Art**. 112. Os limites de aprovação para as concorrências públicas e coletas de preços, são regulados pelo Código de Contabilidade da União e legislação subseqüênte em vigor.
 
-<strong>Art</strong>. 113. É vedada a retenção de renda, para qualquer aplicação, por parte das entidades universitárias, devendo o produto de tôda a arrecadação, ser recolhido ao órgão central de tesouraria, bem como escriturado na receita geral da Universidade.
+**Art**. 113. É vedada a retenção de renda, para qualquer aplicação, por parte das entidades universitárias, devendo o produto de tôda a arrecadação, ser recolhido ao órgão central de tesouraria, bem como escriturado na receita geral da Universidade.
 
-<strong>Art</strong>. 114. No decorrer do exercício, poderão ser abertos créditos adicionais, quando o exigirem as necessidades do serviço, pelo conselho de Curadores, podendo os mesmos ser suplementares ou especiais, devendo ser dado conhecimento da referida abertura ao Conselho Universitário.
+**Art**. 114. No decorrer do exercício, poderão ser abertos créditos adicionais, quando o exigirem as necessidades do serviço, pelo conselho de Curadores, podendo os mesmos ser suplementares ou especiais, devendo ser dado conhecimento da referida abertura ao Conselho Universitário.
 
 § 1º Os créditos suplementares perderão a vigência no último dia do exercício, e os créditos especiais terão sua vigência fixada no ato da respectiva abertura.
 
 § 2º Os créditos suplementares proverão aos serviços, como refôrço, quando da manifesta insuficiência da dotação orçamentária correspondente, e os créditos especiais proverão a objetivos não previstos no orçamento.
 
-<strong>Art</strong>. 115. Mediante proposta da Reitoria ao Conselho Universitário, ouvido o Conselho de Curadores, poderão ser criados fundos especiais, destinados ao custeio de determinadas atividades ou programas específicos, cabendo a gestão de seus recursos ao Reitor, ou a quem o mesmo delegar competência.
+**Art**. 115. Mediante proposta da Reitoria ao Conselho Universitário, ouvido o Conselho de Curadores, poderão ser criados fundos especiais, destinados ao custeio de determinadas atividades ou programas específicos, cabendo a gestão de seus recursos ao Reitor, ou a quem o mesmo delegar competência.
 
 Parágrafo único. Êsses fundos, cujo regime contábil será o de gestão, poderão ser constituídos por dotações para tal fim, expressamente consignadas no Orçamento da Universidade, por parcela ou totalidade de saldo no exercício financeiro, ou por dotações ou legados regularmente aceitos.
 
-<strong>Art</strong>. 116. A escrituração da receita, da despesa e do patrimônio, será centralizada na Reitoria.
+**Art**. 116. A escrituração da receita, da despesa e do patrimônio, será centralizada na Reitoria.
 
-<strong>Art</strong>. 117. Os saldos verificados no encerramento do exercício financeiro, poderão por proposta da Reitoria ao Conselho de Curadores, ser vinculados em seu todo ou em parte, aos seguintes fundos:
+**Art**. 117. Os saldos verificados no encerramento do exercício financeiro, poderão por proposta da Reitoria ao Conselho de Curadores, ser vinculados em seu todo ou em parte, aos seguintes fundos:
 
 a) patrimonial;
 
@@ -1230,9 +1228,9 @@ b) de provisão; e
 
 c) especial.
 
-<strong>Art</strong>. 118. Para a realização de planos, cuja execução possa exceder um exercício, as despesas serão aprovadas globalmente, consignando-se nos orçamentos anuais, as respectivas dotações parciais.
+**Art**. 118. Para a realização de planos, cuja execução possa exceder um exercício, as despesas serão aprovadas globalmente, consignando-se nos orçamentos anuais, as respectivas dotações parciais.
 
-<strong>Art</strong>. 119. A prestação de contas anual deverá ser encaminhada ao Ministério da Educação e Cultura, dentro do prazo de noventa (90) dias, a contar do encerramento do exercício financeiro, e contará, além de outros, os seguintes elementos peculiares à sua condição especial:
+**Art**. 119. A prestação de contas anual deverá ser encaminhada ao Ministério da Educação e Cultura, dentro do prazo de noventa (90) dias, a contar do encerramento do exercício financeiro, e contará, além de outros, os seguintes elementos peculiares à sua condição especial:
 
 I - Relatório do Reitor;
 
@@ -1254,77 +1252,77 @@ IX - Parecer sôbre a prestação de contas, por membro do Conselho de Curadores
 
 X - Ato de aprovação dos Balanços e Contas, pelo Conselho de Curadores, homolado pelo Conselho Universitário.
 
-<strong>Art</strong>. 120. As dotações necessárias ao pagamento do pessoal, bem como as de material, encargos, serviços, obras e equipamentos, indispensáveis ao funcionamento regular e manutenção da Universidade, serão fixados no Orçamento da União.
+**Art**. 120. As dotações necessárias ao pagamento do pessoal, bem como as de material, encargos, serviços, obras e equipamentos, indispensáveis ao funcionamento regular e manutenção da Universidade, serão fixados no Orçamento da União.
 
 § 1º As dotações destinadas a material, encargos, serviços, obras e equipamento da Universidade, serão depositadas, no início de cada exercício financeiro, em estabelecimento de crédito oficial, à disposição do Reitor o qual movimentará a respectiva conta, por meio de cheques, à medida das necessidades.
 
-§ 2º Qualquer subvenção ou auxílio, porventura concedido a estabelecimento da Universidade, não mantido pelo Govêrno Federal, será consignado por verba global, para distribuição pelo Reitor, ouvido o Conselho de Curadores, <em>ad referendum</em> do Conselho Universitário.
+§ 2º Qualquer subvenção ou auxílio, porventura concedido a estabelecimento da Universidade, não mantido pelo Govêrno Federal, será consignado por verba global, para distribuição pelo Reitor, ouvido o Conselho de Curadores, *ad referendum* do Conselho Universitário.
 
-<strong>TÍTULO IX</strong>
+**TÍTULO IX**
 
-<em>Das dignidades universitárias</em>
+*Das dignidades universitárias*
 
-<strong>Art</strong>. 121. A Universidade poderá distinguir personalidades eminentes, nacionais e estrangeiras, conferindo-lhes diplomas honoríficos.
+**Art**. 121. A Universidade poderá distinguir personalidades eminentes, nacionais e estrangeiras, conferindo-lhes diplomas honoríficos.
 
 Parágrafo único. Os diplomas a que se refere êste artigo, são:
 
-I - Doutor <em>honoris causa</em>;
+I - Doutor *honoris causa*;
 
-II - Professor <em>honoris causa</em>.
+II - Professor *honoris causa*.
 
-<strong>Art</strong>. 122. As Concessões de títulos honoríficos serão homologadas pelo Conselho Universitário, devendo a proposta partir de Congregação de Unidade universitária, votada por dois têrços (2/3) dos seus membros, e aprovada pelo Conselho de Ensino e Pesquisa.
+**Art**. 122. As Concessões de títulos honoríficos serão homologadas pelo Conselho Universitário, devendo a proposta partir de Congregação de Unidade universitária, votada por dois têrços (2/3) dos seus membros, e aprovada pelo Conselho de Ensino e Pesquisa.
 
 § 1º A Congregação votará a concessão da dignidade após parecer de Comissão constituída por três (3) professôres titulares, membros da mesma.
 
 § 2º As personalidades distinguidas deverão possuir reputação ilibada.
 
-<strong>Art</strong>. 123. O diploma de Doutor <em>honoris causa</em>, poderá ser atribuído:
+**Art**. 123. O diploma de Doutor *honoris causa*, poderá ser atribuído:
 
 I - A cientistas e técnicos, nacionais ou estrangeiros, que tenham contribuído notavelmente, com inventos e publicações, para o desenvolvimento e o progresso do ensino e das pesquisas que constituem objetivos da Universidade;
 
 II - Aos que tenham beneficiado de forma excepcional a humanidade ou o País, ou tenham prestado relevantes serviços à Universidade.
 
-<strong>Art</strong>. 124. O título de Professor <em>honoris causa</em> da Universidade, que constitui a sua mais alta dignidade honorífica será conferido a professôres de excepcionais méritos que, a juízo da Congregação proponente e homologação dos Conselhos Universitários e de Ensino e Pesquisa, mereçam, por suas realizações em prol dos objetivos daquela, a admiração incondicional, de todos os seus membros.
+**Art**. 124. O título de Professor *honoris causa* da Universidade, que constitui a sua mais alta dignidade honorífica será conferido a professôres de excepcionais méritos que, a juízo da Congregação proponente e homologação dos Conselhos Universitários e de Ensino e Pesquisa, mereçam, por suas realizações em prol dos objetivos daquela, a admiração incondicional, de todos os seus membros.
 
-<strong>Art</strong>. 125. As dignidades universitárias serão conferidas sempre, em sessão solene da Assembléia Universitária, com a presença do diplomado ou do seu representante legal.
+**Art**. 125. As dignidades universitárias serão conferidas sempre, em sessão solene da Assembléia Universitária, com a presença do diplomado ou do seu representante legal.
 
-<strong>Art</strong>. 126. Aos professôres-titulares aposentados, cujos serviços ao magistério forem considerados de excepcional relevância, será conferido pelo Conselho de Ensino e Pesquisa, <em>ad referendum</em> do Conselho Universitário, o título de Professor Emérito.
+**Art**. 126. Aos professôres-titulares aposentados, cujos serviços ao magistério forem considerados de excepcional relevância, será conferido pelo Conselho de Ensino e Pesquisa, *ad referendum* do Conselho Universitário, o título de Professor Emérito.
 
 Parágrafo único. O Regimento-Geral da Universidade estabelecerá o ritual permanente a ser empregado nas cerimônias de conferição dos títulos honofíficos, bem como as vestes e insígnias do Reitor, Vice-Reitor, Diretores, Vice-Diretores e Professôres.
 
-<strong>TÍTULO X</strong>
+**TÍTULO X**
 
-<em>Das disposições gerais e transitórias</em>
+*Das disposições gerais e transitórias*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Das disposições gerais</em>
+*Das disposições gerais*
 
-<strong>Art</strong>. 127. Os novos órgãos de ensino, pesquisa e extensão, assim como os administrativos, instituídos pelo Plano de Reestruturação da Universidade, serão implantados gradativamente, em função dos recursos e conveniências da Universidade, mediante Resolução do Conselho Universitário, decorrente de propostas da Reitoria ou do Conselho de Ensino e Pesquisa.
+**Art**. 127. Os novos órgãos de ensino, pesquisa e extensão, assim como os administrativos, instituídos pelo Plano de Reestruturação da Universidade, serão implantados gradativamente, em função dos recursos e conveniências da Universidade, mediante Resolução do Conselho Universitário, decorrente de propostas da Reitoria ou do Conselho de Ensino e Pesquisa.
 
-<strong>Art</strong>. 128. Os cargos em comissão e as funções gratificadas, essenciais a direção e realização dos trabalhos administrativos das Unidades e órgãos dos diversos Sistemas da Universidade, constarão do seu Quadro Único de Pessoal.
+**Art**. 128. Os cargos em comissão e as funções gratificadas, essenciais a direção e realização dos trabalhos administrativos das Unidades e órgãos dos diversos Sistemas da Universidade, constarão do seu Quadro Único de Pessoal.
 
-<strong>Art</strong>. 129. Todos os docentes admitidos na vigência dêste Estatuto, assumem o compromisso de cumprir o regime de trabalho em dedicação exclusiva, logo que êste lhe seja outorgado pela Universidade.
+**Art**. 129. Todos os docentes admitidos na vigência dêste Estatuto, assumem o compromisso de cumprir o regime de trabalho em dedicação exclusiva, logo que êste lhe seja outorgado pela Universidade.
 
-<strong>Art</strong>. 130. O comparecimento às reuniões dos órgãos colegiados e demais tarefas decorrentes da função do magistério, constituem deveres a que não se pode eximir nenhum membro do corpo docente da Universidade, incorrendo em falta, sujeito a desconto nos vencimentos o docente ou servidor implicado, que não a tenha previamente justificado.
+**Art**. 130. O comparecimento às reuniões dos órgãos colegiados e demais tarefas decorrentes da função do magistério, constituem deveres a que não se pode eximir nenhum membro do corpo docente da Universidade, incorrendo em falta, sujeito a desconto nos vencimentos o docente ou servidor implicado, que não a tenha previamente justificado.
 
-<strong>Art</strong>. 131. Em tôdas as comissões, de qualquer natureza e finalidade, o professor mais antigo no exercício do magistério, que delas faça parte, será o seu Presidente, exceto quando das mesmas participe Diretor de Unidade, ao qual caberá a presidência.
+**Art**. 131. Em tôdas as comissões, de qualquer natureza e finalidade, o professor mais antigo no exercício do magistério, que delas faça parte, será o seu Presidente, exceto quando das mesmas participe Diretor de Unidade, ao qual caberá a presidência.
 
-<strong>Art</strong>. 132. O comparecimento às reuniões de qualquer órgão colegiado, é obrigatório e pretere qualquer outra função ou encargo.
+**Art**. 132. O comparecimento às reuniões de qualquer órgão colegiado, é obrigatório e pretere qualquer outra função ou encargo.
 
-<strong>Art</strong>. 133. Nas eleições procedidas nos diversos órgãos colegiados da Universidade, com a finalidade de escolher representantes, serão eleitos na mesma ocasião, em escrutínios distintos, com o mesmo mandato e pelo mesmo processo, suplentes que substituirão os titulares nas suas faltas e impedimentos.
+**Art**. 133. Nas eleições procedidas nos diversos órgãos colegiados da Universidade, com a finalidade de escolher representantes, serão eleitos na mesma ocasião, em escrutínios distintos, com o mesmo mandato e pelo mesmo processo, suplentes que substituirão os titulares nas suas faltas e impedimentos.
 
 Parágrafo único. Verificada a vacância do mandato de titular ou de suplente, o Colegiado procederá dentro do prazo de setenta e duas (72) horas a eleição de nôvo suplente que completará o mandato de substituído.
 
-<strong>Art</strong>. 134. O <em>quorum</em> para qualquer reunião de órgão colegiado, será computado pelo número de cargos ou mandatos preenchidos e cujos titulares se encontrarem em efetivo exercício.
+**Art**. 134. O *quorum* para qualquer reunião de órgão colegiado, será computado pelo número de cargos ou mandatos preenchidos e cujos titulares se encontrarem em efetivo exercício.
 
-Parágrafo único. Quando dois cargos forem ocupados por uma mesma pessoa somente um (1) será contado para o <em>quorum</em>.
+Parágrafo único. Quando dois cargos forem ocupados por uma mesma pessoa somente um (1) será contado para o *quorum*.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das disposições transitórias</em>
+*Das disposições transitórias*
 
-<strong>Art</strong>. 135. Dentro do prazo de noventa (90) dias, a contar da data da publicação dêste Estatuto, o Conselho Universitário organizará o Regimento-Geral da Universidade e o encaminhará para aprovação ao Conselho Federal de Educação.
+**Art**. 135. Dentro do prazo de noventa (90) dias, a contar da data da publicação dêste Estatuto, o Conselho Universitário organizará o Regimento-Geral da Universidade e o encaminhará para aprovação ao Conselho Federal de Educação.
 
 Parágrafo único. O Regimento-Geral da Universidade estabelecerá, entre outros tópicos julgados convenientes pelo Conselho Universitário, e além dos já citados no art. 95 dêste Estatuto, os seguintes:
 
@@ -1342,20 +1340,20 @@ VI - Eleições; e
 
 VII - Taxas e emolumentos.
 
-<strong>Art</strong>. 136. Os professôres de disciplinas específicas dos cursos técnicos de nível médio, mantidos pela Universidade, que se encontravam em exercício na data da publicação da Lei nº 5.540, de 28 de novembro de 1968, sem preencher os requisitos mínimos para o exercício do magistério em nível superior, deverão regularizar a sua situação dentro de cinco (5) anos a contar da mesma.
+**Art**. 136. Os professôres de disciplinas específicas dos cursos técnicos de nível médio, mantidos pela Universidade, que se encontravam em exercício na data da publicação da Lei nº 5.540, de 28 de novembro de 1968, sem preencher os requisitos mínimos para o exercício do magistério em nível superior, deverão regularizar a sua situação dentro de cinco (5) anos a contar da mesma.
 
-<strong>Art</strong>. 137. As Entidades Universitárias, elaborarão os seus Regimentos, submetendo-os à aprovação do Conselho Universitário, ouvido o Conselho de Ensino e Pesquisa, no caso de entidades de Ensino, Pesquisa e Extensão.
+**Art**. 137. As Entidades Universitárias, elaborarão os seus Regimentos, submetendo-os à aprovação do Conselho Universitário, ouvido o Conselho de Ensino e Pesquisa, no caso de entidades de Ensino, Pesquisa e Extensão.
 
 Parágrafo único. A elaboração dos Regimentos citados neste artigo, será feita dentro do prazo de noventa (90) dias, a contar da data da aprovação do Regimento-Geral da Universidade, pelo Conselho Federal de Educação.
 
-<strong>Art</strong>. 138. O atual Colégio Universitário da UFRPe, será mantido apenas durante o ano letivo de 1969.
+**Art**. 138. O atual Colégio Universitário da UFRPe, será mantido apenas durante o ano letivo de 1969.
 
-<strong>Art</strong>. 139. Êste Estatuto entrará em vigor, na data de sua publicação salvo em relação às normas dependentes de atos do Conselho Federal de Educação ou de Resoluções do Órgãos Deliberativos Superiores da Universidade, as quais vigorarão à medida que se verifiquem aquelas condições.
+**Art**. 139. Êste Estatuto entrará em vigor, na data de sua publicação salvo em relação às normas dependentes de atos do Conselho Federal de Educação ou de Resoluções do Órgãos Deliberativos Superiores da Universidade, as quais vigorarão à medida que se verifiquem aquelas condições.
 
 Aprovado pelo Parecer nº 718-69 da Câmara de Ensino Superior do Conselho Federal de Educação em 7 de outubro de 1969.
 
 Brasília, 21 de outubro de 1969.
 
-<strong>TARSO DUTRA</strong>
+**TARSO DUTRA**
 
 MINISTRO DA EDUCAÇÃO E CULTURA

@@ -1,5 +1,3 @@
-###DEC-082598-0-000-07-11-1978@@@
-
 Decreto nº 82.598, de 07 de novembro de 1978.
 
 Concede reconhecimento ao Curso de Administração do Centro de Ensino Superior de Erexim, com sede na cidade de Erexim, Rio Grande do Sul.

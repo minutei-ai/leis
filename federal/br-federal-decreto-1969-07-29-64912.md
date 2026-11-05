@@ -1,5 +1,3 @@
-###DEC-064912-0-000-29-07-1969@@@
-
 DECRETO Nº 64.912 - DE 29 DE JULHO DE 1969.
 
 Regulamento o abastecimento nacional de petróleo, que trata o artigo 3º da Lei nº 2.004, de 3 de outubro de 1953, no que diz respeito à produção de óleos brancos, derivados do petróleo.

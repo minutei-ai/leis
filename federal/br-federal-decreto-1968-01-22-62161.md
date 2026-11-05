@@ -1,5 +1,3 @@
-###DEC-062161-0-000-22-01-1968@@@
-
 DECRETO Nº 62.161, DE 22 DE JANEIRO DE 1968.
 
 Retifica o Decreto nº 58.465, de 17 de maio de 1966, que declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Teresópolis, Estado do Rio de Janeiro.

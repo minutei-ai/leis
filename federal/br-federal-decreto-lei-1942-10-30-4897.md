@@ -1,5 +1,3 @@
-###DEL-004897-0-000-30-10-1942@@@
-
 DECRETO-LEI N. 4.897 – DE 30 DE OUTUBRO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 13:200$0, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-058848-0-000-15-07-1966@@@
-
 DECRETO Nº 58.848, DE 15 DE JULHO DE 1966.
 
 Autoriza a cidadã brasileira Blandina Antunes de Souza a lavrar mica e pedras coradas no município de Conselheiro Pena, Estado de Minas Gerais.

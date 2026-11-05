@@ -1,5 +1,3 @@
-###DEC-084305-0-000-17-12-1979@@@
-
 Decreto nº 84.305, de 17 de dezembro de 1979.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos municípios do Rio de Janeiro e de Mangaratiba, Estado do Rio de Janeiro, Fortaleza, Estado do Ceará e Ipojuca, Estado de Pernambuco.

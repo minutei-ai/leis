@@ -1,5 +1,3 @@
-###DEC-071325-0-000-07-11-1972@@@
-
 DECRETO Nº 71.325 - DE 7 DE NOVEmBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação Física de Bagé - R. S.

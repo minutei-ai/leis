@@ -1,5 +1,3 @@
-###DEC-091808-0-000-18-10-1985@@@
-
 DECRETO Nº 91.808, DE 18 DE OUTUBRO DE 1985
 
 Dispõe sobre o pagamento da remuneração dos servidores da Administração Federal direta e das autarquias federais, requisitados nos termos do Decreto nº 84.033, de 26 de setembro de 1979, e dá outras providências.
@@ -57,8 +55,6 @@ Brasília, em 18 de outubro de 1985; 164º da Independência e 97º da Repúblic
 JOSÉ SARNEY
 
 Aluizio Alves
-
-###DEC-091808-0-000-18-10-1985@@@REP01+++
 
 \*Decreto nº 91.808 de 18 de outubro de 1985
 
@@ -119,8 +115,6 @@ JOSé SARNEY
 Aluizio Alves
 
 (\*) Republicado por ter saído com omissão no D.O. de 23.10.85.
-
-###DEC-091808-0-000-18-10-1985@@@RET01+++
 
 DECRETO Nº 91.808, DE 18 DE OUTUBRO DE 1985
 

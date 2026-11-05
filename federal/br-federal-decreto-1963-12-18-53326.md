@@ -1,5 +1,3 @@
-###DEC-053326-0-000-18-12-1963@@@
-
 DECRETO Nº 53.326, DE 18 DE DEZEMBRO DE 1963.
 
 Autoriza a criação de escolas técnicas de hotelaria e dá outras providências.

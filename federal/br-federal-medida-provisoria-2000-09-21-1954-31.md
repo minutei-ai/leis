@@ -1,5 +1,3 @@
-###MPV-001954-0-031-21-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.954-31, DE 21 DE setembro de 2000.
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098158-0-000-21-09-1989@@@
-
 DECRETO Nº 98.158, DE 21 DE SETEMBRO DE 1989
 
 Regulamenta o provimento dos cargos das Carreiras de Finanças e Controle e de Orçamento, criados pelos Decretos-Leis nºs 2.346 e 2.347, de 23 de julho de 1987.

@@ -1,5 +1,3 @@
-###DEL-005007-0-000-27-11-1942@@@
-
 DECRETO-LEI N. 5.007 – DE 27 DE NOVEMBRO DE 1942
 
 Cria o cargo, em comissão, de Administrador do Núcleo Colonial Agro-lndustrial São Francisco, e dá outras providências

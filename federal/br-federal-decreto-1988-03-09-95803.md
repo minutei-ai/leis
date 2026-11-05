@@ -1,7 +1,3 @@
-1
-
-###DEC-095803-0-000-09-03-1988@@@
-
 DECRETO N° 95.803, DE 9 DE MARÇO DE 1988
 
 Altera o decreto que regulamenta o ingresso e a promoção no Quadro Auxiliar de Oficiais (RIPQAO).

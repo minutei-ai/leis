@@ -1,5 +1,3 @@
-###DEL-003846-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.846 – DE 20 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 60:000$0, à verba que especifica

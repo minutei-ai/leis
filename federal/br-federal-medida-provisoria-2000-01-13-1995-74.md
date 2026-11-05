@@ -1,5 +1,3 @@
-###MPV-001995-0-074-13-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.995-74, DE 13 de janeiro de 2000.
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal, e dá outras providências.

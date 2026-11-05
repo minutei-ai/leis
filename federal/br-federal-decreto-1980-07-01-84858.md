@@ -1,5 +1,3 @@
-###DEC-084858-0-000-01-07-1980@@@
-
 Decreto nº 84.858, de 01 de julho de 1980.
 
 Autoriza o funcionamento do curso de Psicologia, Licenciatura e Formação de Psicólogos, da Sociedade Civil Colégio Moderno, em Belém, Estado do Pará.

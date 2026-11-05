@@ -1,5 +1,3 @@
-###DEC-056279-0-000-13-05-1965@@@
-
 DECRETO Nº 56.279, DE 13 DE MAIO DE 1965.
 
 Autoriza a cessão, sob a forma da utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

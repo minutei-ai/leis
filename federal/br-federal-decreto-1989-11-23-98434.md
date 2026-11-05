@@ -1,7 +1,3 @@
-1
-
-###DEC-098434-0-000-23-11-1989@@@
-
 DECRETO Nº 98.434, DE 23 DE NOVEMBRO DE 1989
 
 Renova a concessão outorgada a RÁDIO CURRAIS NOVOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Currais Novos, Estado do Rio Grande do Norte.

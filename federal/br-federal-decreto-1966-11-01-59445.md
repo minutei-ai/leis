@@ -1,5 +1,3 @@
-###DEC-059445-0-000-01-11-1966@@@
-
 DECRETO nº 59.445, DE 1º DE NOVEMBRO DE 1966.
 
 Autoriza estrangeiros a adquirirem o domínio pleno do terreno que menciona, situado no Estado da Guanabara.

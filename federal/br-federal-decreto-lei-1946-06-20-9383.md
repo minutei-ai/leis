@@ -1,5 +1,3 @@
-###DEL-009383-0-000-20-06-1946@@@
-
 DECRETO-LEI N. 9.383 – DE 20 DE JUNHO DE 1946
 
 Declara de utilidade pública a desapropriação de um lote de terreno contíguo à Fábrica de Bonsucesso.

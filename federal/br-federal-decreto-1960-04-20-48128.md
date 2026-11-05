@@ -1,5 +1,3 @@
-###DEC-048128-0-000-20-04-1960@@@
-
 DECRETO Nº 48.128, DE 20 DE ABRIL DE 1960.
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito de Cr$3.833.979,50 para os fins que especifica.

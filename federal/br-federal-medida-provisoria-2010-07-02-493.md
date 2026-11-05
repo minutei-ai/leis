@@ -1,5 +1,3 @@
-###MPV-000493-0-000-02-07-2010@@@
-
 MEDIDA PROVISÓRIA Nº 493, DE 2 DE JULHO DE 2010.
 
 Altera o Anexo I da Lei no 11.440, de 29 de dezembro de 2006, para modificar a divisão por níveis da Carreira de Diplomata, extingue cargos de Assistente de Chancelaria e autoriza a prorrogação de contratos por tempo determinado
@@ -36,8 +34,76 @@ ANEXO I
 
 QUANTITATIVO DE CARGOS DO QUADRO ORDINÁRIO DA CARREIRA DE DIPLOMATA
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:280.77pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DENOMINAÇÃO</span></p></td><td style="width:160.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">No DE CARGOS</span></p></td></tr><tr><td style="width:280.77pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministro de Primeira Classe</span></p></td><td style="width:160.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">130</span></p></td></tr><tr><td style="width:280.77pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministro de Segunda Classe</span></p></td><td style="width:160.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">169</span></p></td></tr><tr><td style="width:280.77pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Conselheiro</span></p></td><td style="width:160.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">226</span></p></td></tr><tr><td style="width:280.77pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiro-Secretário Segundo-Secretário Terceiro-Secretário</span></p></td><td style="width:160.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">880</span></p></td></tr><tr><td style="width:280.77pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL</span></p></td><td style="width:160.6pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.405</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+No DE CARGOS
+
+Ministro de Primeira Classe
+
+130
+
+Ministro de Segunda Classe
+
+169
+
+Conselheiro
+
+226
+
+Primeiro-Secretário Segundo-Secretário Terceiro-Secretário
+
+880
+
+TOTAL
+
+1.405
 
 ANEXO II
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:181.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ÓRGÃO/ENTIDADE</span></p></td><td style="width:201.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PROJETOS</span></p></td><td style="width:57.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">QUANT.</span></p></td></tr><tr><td style="width:181.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério do Meio Ambiente</span></p></td><td style="width:201.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- BRA OEA 00/002</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">- BRA/01/022 - BRA/00/022 - BRA/00/021 - BRA/00/020 - BRA/00/010</span></p></td><td style="width:57.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">127</span></p></td></tr><tr><td style="width:181.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério do Desenvolvimento Social e Combate à Fome</span></p></td><td style="width:201.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- PRODOC 914/BRA/3026 - UNESCO</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">- PRODOC BRA 04/046 - PNUD - PRODOC BRA 04/028 - PNUD - PRODOC-UFT/BRA/064/BRA - FAO - PRODOC BRA 05/028 - PNUD</span></p></td><td style="width:57.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15</span></p></td></tr><tr><td style="width:181.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério da Educação</span></p></td><td style="width:201.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 914/BRA/03/004</span></p></td><td style="width:57.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td></tr><tr><td style="width:181.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Fundo Nacional de Desenvolvimento da Educação - FNDE</span></p></td><td style="width:201.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 914/BRA/1065 - PROMED</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">- 914/BRA/1111 - FUNDESCOLA - BRA/03/032 - PROEP</span></p></td><td style="width:57.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">91</span></p></td></tr><tr><td style="width:181.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA</span></p></td><td style="width:201.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- BRA 02/011 - LICENCIAMENTO AMBIENTAL</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">- BRA 01/037 - USO SUSTENTÁVEL DA BIODIVERSIDADE E FLORESTAS</span></p></td><td style="width:57.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39</span></p></td></tr><tr><td style="width:181.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes</span></p></td><td style="width:201.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- BRA 00/009 - CONSERVAÇÃO E MANEJO DOS ECOSSISTEMAS BRASILEIROS - PROECOS</span></p></td><td style="width:57.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18</span></p></td></tr><tr><td style="width:181.82pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP</span></p></td><td style="width:201.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- BRA/04/049</span></p></td><td style="width:57.55pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7</span></p></td></tr></tbody></table>
+ÓRGÃO/ENTIDADE
+
+PROJETOS
+
+QUANT.
+
+Ministério do Meio Ambiente
+
+- BRA OEA 00/002  - BRA/01/022 - BRA/00/022 - BRA/00/021 - BRA/00/020 - BRA/00/010
+
+127
+
+Ministério do Desenvolvimento Social e Combate à Fome
+
+- PRODOC 914/BRA/3026 - UNESCO  - PRODOC BRA 04/046 - PNUD - PRODOC BRA 04/028 - PNUD - PRODOC-UFT/BRA/064/BRA - FAO - PRODOC BRA 05/028 - PNUD
+
+15
+
+Ministério da Educação
+
+- 914/BRA/03/004
+
+4
+
+Fundo Nacional de Desenvolvimento da Educação - FNDE
+
+- 914/BRA/1065 - PROMED  - 914/BRA/1111 - FUNDESCOLA - BRA/03/032 - PROEP
+
+91
+
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA
+
+- BRA 02/011 - LICENCIAMENTO AMBIENTAL  - BRA 01/037 - USO SUSTENTÁVEL DA BIODIVERSIDADE E FLORESTAS
+
+39
+
+Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes
+
+- BRA 00/009 - CONSERVAÇÃO E MANEJO DOS ECOSSISTEMAS BRASILEIROS - PROECOS
+
+18
+
+Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP
+
+- BRA/04/049
+
+7

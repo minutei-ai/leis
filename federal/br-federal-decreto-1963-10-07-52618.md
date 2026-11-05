@@ -1,5 +1,3 @@
-###DEC-052618-0-000-07-10-1963@@@
-
 DECRETO Nº 52.618, DE 7 DE OUTUBRO DE 1963.
 
 Outorga à Companhia de Eletricidade de Alagoas (CEAL) concessão para distribuir energia elétrica no município de Cajueiro.

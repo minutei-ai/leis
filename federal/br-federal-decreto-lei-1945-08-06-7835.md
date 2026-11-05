@@ -1,6 +1,4 @@
-###DEL-007835-0-000-06-08-1945@@@
-
-   DECRETO-LEI N. 7.835 – DE 6 DE AGÔSTO DE 1945
+DECRETO-LEI N. 7.835 – DE 6 DE AGÔSTO DE 1945
 
 Determina a majoração das prestações de benefícios concedidos pelos Institutos e Caixas de Aposentadoria e Pensões, estabelece limites máximos e mínimos para as mesmas, e dá outras providências.
 

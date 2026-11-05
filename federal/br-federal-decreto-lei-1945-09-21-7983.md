@@ -1,5 +1,3 @@
-###DEL-007983-0-000-21-09-1945@@@
-
 DECRETO-LEI N. 7.983 – DE 21 DE SETEMBRO DE 1945
 
 Concede à Associação dos Servidores Civis do Brasil aforamentodo terreno acrescido de marinha que menciona e dá outras providências

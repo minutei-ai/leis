@@ -26,7 +26,8 @@ Autoriza o Poder Executivo a destinar recursos para pagamento de auxílio financ
 
 **Art. 2º** - O auxílio financeiro previsto nesta Lei será creditado em conta ou disponibilizado para saque, em parcela única de R$ 500,00 (quinhentos reais), no 14º (décimo quarto) dia de permanência nos Centros de Acolhimento e Acompanhamento Clínico do Estado da Bahia.
 
-Redação de acordo com o art. 1 da Lei nº [14.273](https://www.legislabahia.ba.gov.br/documentos/lei-no-14273-de-22-de-julho-de-2020) de 22 de julho de 2020.<br>
+Redação de acordo com o art. 1 da Lei nº [14.273](https://www.legislabahia.ba.gov.br/documentos/lei-no-14273-de-22-de-julho-de-2020) de 22 de julho de 2020.
+
 Redação original: "art. 2 - O auxílio financeiro previsto nesta Lei será creditado em conta, em 02 (duas) parcelas iguais de R$250,00 (duzentos e cinquenta reais), sendo a primeira no 7º (sétimo) dia e a segunda no 14º (décimo quarto) dia de permanência nos Centros de Acolhimento e Acompanhamento Clínico do Estado da Bahia."
 
 **§ 1**º - Os Municípios do Estado da Bahia, mediante lei autorizativa própria, poderão participar do custeio do auxílio financeiro destinado a seus munícipes.

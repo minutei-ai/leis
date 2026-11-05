@@ -1,5 +1,3 @@
-###DEC-095242-0-000-13-11-1987@@@
-
 DECRETO N° 95.242, DE 13 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Tecnólogo em Processamento de Dados, Barretos-SP.

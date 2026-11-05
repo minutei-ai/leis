@@ -1,5 +1,3 @@
-###DEC-090773-0-000-28-12-1984@@@
-
 DECRETO Nº 90.773, DE 28 DE DEZEMBRO DE 1984.
 
 Autoriza a permuta de Imóveis que menciona, situados no Distrito Federal.

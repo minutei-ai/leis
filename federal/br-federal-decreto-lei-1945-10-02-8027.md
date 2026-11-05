@@ -1,5 +1,3 @@
-###DEL-008027-0-000-02-10-1945@@@
-
 DECRETO-LEI N. 8.027 – DE 2 DE OUTUBRO DE 1945
 
 Aumenta o número de membros da Junta Especial instituída pelo Decreto-lei nº 7.401, de 20 de março de 1945

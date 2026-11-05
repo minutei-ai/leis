@@ -1,5 +1,3 @@
-###DEC-061888-0-000-11-12-1967@@@
-
 decreto Nº 61.888, de 11 de dezembro de 1967.
 
 Declara de utilidade pública a “Missão dos Padres Redentoristas da Amazônia” com sede em Manaus, Estado do Amazonas.

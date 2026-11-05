@@ -1,5 +1,3 @@
-###DEC-075187-0-000-06-01-1975@@@
-
 DECRETO Nº 75.187, DE 6 DE JANEIRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado no Distrito de Belém Novo, município de Porto Alegre, Estado do Rio Grande do Sul, necessário ao Ministério da Aeronáutica.

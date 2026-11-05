@@ -1,5 +1,3 @@
-###DEC-002457-0-000-14-01-1998@@@
-
 DECRETO Nº 2.457, DE 14 DE JANEIRO DE 1998
 
 Dispõe sobre a estrutura e funcionamento do Conselho Nacional de Política Energética - CNPE e dá outras providências.

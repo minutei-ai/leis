@@ -1,5 +1,3 @@
-###DEC-084163-0-000-08-11-1979@@@
-
 Decreto nº 84.163, de 8 de novembro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias necessária à implantação do reservatório da Usina Hidroelétrica Foz do Areia, da Companhia Paranaense de Energia Elétrica (COPEL), e dá outras providências.

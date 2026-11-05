@@ -1,5 +1,3 @@
-###DEC-062400-0-000-14-03-1968@@@
-
 DECRETO Nº 62.400, DE 14 DE MARÇO DE 1968.
 
 Cria a 1ª Companhia do 34º Batalhão de Infantaria, com sede em Macapá.

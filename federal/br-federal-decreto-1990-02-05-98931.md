@@ -1,7 +1,3 @@
-1
-
-###DEC-098931-0-000-05-02-1990@@@
-
 DECRETO Nº 98.931, DE 5 DE FEVEREIRO DE 1990
 
 Outorga concessão à RÁDIO GLOBO IJUÍ LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Ijuí, Estado do Rio Grande do Sul.

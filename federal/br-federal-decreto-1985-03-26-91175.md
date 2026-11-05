@@ -1,5 +1,3 @@
-###DEC-091175-0-000-26-03-1985@@@
-
 DECRETO Nº 91.175, de 26 de março de 1985.
 
 Altera dispositivo do Regimento dos Gabinetes da Presidência da República, aprovado pelo Decreto nº 83.500, de 28 de maio de 1979.

@@ -1,5 +1,3 @@
-###DEC-051550-0-000-13-09-1962@@@
-
 DECRETO Nº 51.550, DE 13 DE SETEMBRO DE 1962.
 
 Cria o Grupo Executivo da Ajuda à Baixada da Guanabara e dá outras providências.

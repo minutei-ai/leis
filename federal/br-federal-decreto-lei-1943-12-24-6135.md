@@ -1,5 +1,3 @@
-###DEL-006135-0-000-24-12-1943@@@
-
 DECRETO‑LEI N. 6.135 – DE 24 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Fazenda a crédito especial de Cr$ 102.192.601,20, para classificação de despesa decorrente dos "Acordos Financeiros de 1940".

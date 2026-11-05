@@ -1,5 +1,3 @@
-###DEC-069342-0-000-08-10-1971@@@
-
 DECRETO Nº 69.342, DE 8 DE OUTUBRO DE 1971.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Industria e do Comércio , cargo originário da Extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providencias.

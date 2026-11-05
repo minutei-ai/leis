@@ -1,6 +1,10 @@
 > **LEI Nº 3.350, DE 18 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.697, de 16 de janeiro de 2006 que “Autoriza o Poder Executivo a alienar e ceder os imóveis adquiridos pelo Estado do Acre do Banco do Estado do Acre S/A – BANACRE”.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.697, de 16 de janeiro de 2006 que “Autoriza o Poder Executivo a alienar e ceder os imóveis adquiridos pelo Estado do Acre do Banco do Estado do Acre S/A – BANACRE”.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

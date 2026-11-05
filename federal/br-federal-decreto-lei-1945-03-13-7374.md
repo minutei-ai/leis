@@ -1,5 +1,3 @@
-###DEL-007374-0-000-13-03-1945@@@
-
 DECRETO-LEI N. 7.374 – DE 13 DE MARÇO DE 1945
 
 Regula a situação dos militares considerados prisioneiros, desaparecidos ou extraviados, concede pensão a seus herdeiros e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-092770-0-000-10-06-1986@@@
-
 DECRETO Nº 92.770, DE 10 DE JUNHO DE 1986
 
 Altera o Regulamento do Programa de Assistência ao Trabalhador Rural, aprovado pelo Decreto nº 73.617, de 12 de fevereiro de 1974.
@@ -39,8 +37,6 @@ Brasília, 10 de junho de 1986; 165º da Independência e 98º da República.
 JOSÉ SaRNEY
 
 Raphael de Almeida Magalhães
-
-###DEC-092770-0-000-10-06-1986@@@RET01+++
 
 # DECRETO Nº 92.770, DE 10 DE JUNHO DE 1986
 

@@ -1,5 +1,3 @@
-###DEC-073387-0-000-28-12-1973@@@
-
 DECRETO Nº 73.387 - DE 28 DE DEZEMBRO DE 1973
 
 Renova, por 10 (dez) anos, a concessão outorgada à Fundação Cultural do Espírito Santo para executar serviço de radiodifusão sonora em onda tropical, na cidade de Vitória, Estado do Espírito Santo.

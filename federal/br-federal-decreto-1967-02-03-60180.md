@@ -1,5 +1,3 @@
-###DEC-060180-0-000-03-02-1967@@@
-
 DECRETO nº 60.180, DE 3 DE FEVEREIRO DE 1967.
 
 Declara caduco o Decreto n° 53.821, de 24 de março de 1964.

@@ -1,20 +1,18 @@
-###DEC-034652-0-000-18-11-1953@@@
+**DECRETO Nº 34.652, DE 18 DE NOVEMBRO DE 1953.**
 
-<strong>DECRETO Nº 34.652, DE 18 DE NOVEMBRO DE 1953.</strong>
+***Outorga a Hamleto Magnavacca concessão para o aproveitamento de energia hidráulica da cachoeira Fragosa, no ribeirão Sarzedo, município de Betim, Estado de Minas Gerais.***
 
-<em><strong>Outorga a Hamleto Magnavacca concessão para o aproveitamento de energia hidráulica da cachoeira Fragosa, no ribeirão Sarzedo, município de Betim, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É outorgada a <em>Hamleto Magnavacca</em> concessão para o aproveitamento de energia hidráulica da cachoeira Fragosa, situada no ribeirão Sarzedo, município de Betim, Estado de Minas Gerais.
+**Art**. 1º É outorgada a *Hamleto Magnavacca* concessão para o aproveitamento de energia hidráulica da cachoeira Fragosa, situada no ribeirão Sarzedo, município de Betim, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga de derivação e a potência.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica, para uso próprio do concessionário e para serviço público, de utilidade pública e para comércio de energia no distrito de Sarzedo, município de Betim, Estado de Minas Gerais.
 
-<strong>Art</strong>. 2º Caducará o presente título, independentemente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título, independentemente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
 
 I - Assinar o contrato disciplinar da concessão, dentro do prazo de trinta (30) dias, a contar da data em que fôr publicada a respectiva aprovação pelo Ministério da Agricultura.
 
@@ -96,30 +94,30 @@ III - Iniciar e concluir as obras nos prazos que forem determinados pelo Minist�
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º O concessionário fica obrigado a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º O concessionário fica obrigado a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunerar será o efetivamente investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a remunerar será o efetivamente investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º As tabelas de preço de energia serão fixadas e trienalmente revistas pelo Ministério da Agricultura.
+**Art**. 5º As tabelas de preço de energia serão fixadas e trienalmente revistas pelo Ministério da Agricultura.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital, a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para a manutenção da integridade do capital, a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por quota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Findo o prazo da concessão, todos os bens e instalações que no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterão ao Estado de Minas Gerais, de conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
+**Art**. 7º Findo o prazo da concessão, todos os bens e instalações que no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterão ao Estado de Minas Gerais, de conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
 
 § 1º O concessionário poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipulados, desde que faça a prova de que o Estado de Minas Gerais não se opõe à utilização dos bens objeto da reversão.
 
 § 2º O concessionário deverá entrar com o pedido a que se refere o parágrafo anterior, até seis meses antes de findar o prazo de vigência da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 8º A presente concessão vigorará pelo prazo de trinta (30) anos.
+**Art**. 8º A presente concessão vigorará pelo prazo de trinta (30) anos.
 
-<strong>Art</strong>. 9º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 9º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 10. Revogam-se as disposições em contrário.
+**Art**. 10. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 18 de novembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

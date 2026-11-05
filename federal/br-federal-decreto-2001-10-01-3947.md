@@ -1,5 +1,3 @@
-###DEC-003947-0-000-01-10-2001@@@
-
 DECRETO Nº 3.947, DE 1º DE OUTUBRO DE 2001
 
 Dispõe sobre a estrutura do Comando do Exército e dá outras providências.

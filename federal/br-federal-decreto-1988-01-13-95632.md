@@ -1,7 +1,3 @@
-1
-
-###DEC-095632-0-000-13-01-1988@@@
-
 DECRETO N° 95.632, DE 13 DE JANEIRO DE 1988
 
 Outorga concessão ao Sistema de Comunicação de Juara Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Juara, Estado do Mato Grosso.

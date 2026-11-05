@@ -1,5 +1,3 @@
-###DEC-069697-0-000-03-12-1971@@@
-
 DECRETO Nº 69.697 - DE 3 DE DEZEMBRO DE 1971
 
 Reconhece a Faculdade de Ciências Econômicas e Administração de Ponta Grossa, Estado do Paraná.

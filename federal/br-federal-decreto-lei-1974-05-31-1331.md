@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6c72416a-d7e3-4d1b-8447-f344fa2ec9a6/texto#nowhere)
 
-###DEL-001331-0-000-31-05-1974@@@
-
 # DECRETO-LEI Nº 1.331, DE 31 DE MAIO DE 1974
 
 Concede isenção do Imposto sobre Produtos Industrializados aos produtos empregados no sistema de telefonia, adquiridos pela TELEBRÁS e empresas autorizadas ou concessionárias de serviços de telecomunicações.

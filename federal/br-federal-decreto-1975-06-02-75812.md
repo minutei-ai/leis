@@ -1,5 +1,3 @@
-###DEC-075812-0-000-02-06-1975@@@
-
 DECRETO Nº 75.812, DE 2 DE JUNHO DE 1975.
 
 Concede reconhecimento ao curso de História, da Faculdade Dom Aquino de Filosofia, Ciências e Letras de Campo Grande, mantida pela Missão Salesiana de Mato Grosso, com sede na cidade de Campo Grande, Estado de Mato Grosso.

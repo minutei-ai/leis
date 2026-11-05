@@ -1,5 +1,3 @@
-###DEC-051292-0-000-25-08-1961@@@
-
 DECRETO Nº 51.292, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza a Centrais Elétricas de Goiás S.A. - CELG a ampliar suas instalações e instalar duas subestações abaixadoras.

@@ -1,5 +1,3 @@
-###DEC-074146-0-000-04-06-1974@@@
-
 DECRETO Nº 74.146, DE 4 DE JUNHO DE 1974.
 
 Concede reconhecimento ao curso de Letras do Instituto de Ensino Superior do Alto Uruguai, mantido pela Fundação de Ensino Superior do Alto Uruguai (FESAU), com sede na Cidade de Frederico Westphalen, Estado do Rio Grande do Sul.

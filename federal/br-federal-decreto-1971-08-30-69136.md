@@ -1,5 +1,3 @@
-###DEC-069136-0-000-30-08-1971@@@
-
 DECRETO Nº 69.136, DE 30 DE AGôSTO DE 1971.
 
 Concede à firma individual Sinésio Borges o direito de lavrar argila no município de Poços de Caldas, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-062233-0-000-06-02-1968@@@
-
 DECRETO Nº 62.233, DE 6 DE FEVEREIRO DE 1968.
 
 Delega competência ao Ministro da Fazenda para extinguir Exatoria Federal ou transfeir sua sede.

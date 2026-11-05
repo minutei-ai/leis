@@ -1,5 +1,3 @@
-###DEC-051788-0-000-04-03-1963@@@
-
 DECRETO Nº 51.788, DE 4 DE MARÇO DE 1963.
 
 Autoriza a Rio Light S. A. - Serviço de Eletricidade e Carris a transferir em doação um terreno à Prefeitura Municipal de Paraíbuna, Estado de São Paulo.

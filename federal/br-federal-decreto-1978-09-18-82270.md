@@ -1,5 +1,3 @@
-###DEC-082270-0-000-18-09-1978@@@
-
 Decreto nº 82.270, de 18 de setembro de 1978.
 
 Estabelece normas para a execução da Lei nº 6.550, de 5 de julho de 1978, e dá outras providências.

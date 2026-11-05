@@ -1,5 +1,3 @@
-###DEC-048986-0-000-01-10-1960@@@
-
 DECRETO Nº 48.986, DE 1º DE OUTUBRO DE 1960.
 
 Declara de utilidade pública, para desapropriação, imóvel que menciona em Barbacena (MG), necessário ao Ministério da Aeronáutica.

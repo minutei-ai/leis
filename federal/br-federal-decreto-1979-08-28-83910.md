@@ -1,5 +1,3 @@
-###DEC-083910-0-000-28-08-1979@@@
-
 decreto nº 83.910, de 28 de agosto de 1979.
 
 Altera o Decreto nº 83.669, de 2 de julho de 1979.

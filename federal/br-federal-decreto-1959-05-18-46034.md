@@ -1,5 +1,3 @@
-###DEC-046034-0-000-18-05-1959@@@
-
 Decreto nº 46.034, de 18 de maio de 1959.
 
 Retifica o Decreto nº 39.884, de 3 de setembro de 1959.

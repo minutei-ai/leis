@@ -1,5 +1,3 @@
-###DEL-009640-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.640 – DE 22 DE AGÔSTO DE 1946
 
 Aceita a doação feita à União de um imóvel, terreno e prédio, situado na Vila, de Guaimbé, Município de Getulina, Estado de São Paulo, e dá outras providências.

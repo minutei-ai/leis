@@ -1,5 +1,3 @@
-###DEC-073879-0-000-01-04-1974@@@
-
 DECRETO Nº 73.879, DE 1 DE ABRIL DE 1974.
 
 Concede reconhecimento aos cursos de Instrumento (Piano e Violino) de Canto da Faculdade de Música "Augusta de Souza França", mantida pelo Conservatório de Música de Bonsucesso, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

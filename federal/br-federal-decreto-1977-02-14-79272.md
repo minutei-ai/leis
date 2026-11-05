@@ -1,5 +1,3 @@
-###DEC-079272-0-000-14-02-1977@@@
-
 decreto nº 79.272, de 14 de fevereiro de 1977.
 
 Concede reconhecimento aos cursos de Administração, de Ciências Econômicas e de Direito, do Centro de Estudos Superiores do Estado do Pará, com sede na cidade de Belém, Estado do Pará.

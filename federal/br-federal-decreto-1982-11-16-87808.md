@@ -1,5 +1,3 @@
-###DEC-087808-0-000-16-11-1982@@@
-
 Decreto nº 87.808, de 16 de novembro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado do Maranhão.

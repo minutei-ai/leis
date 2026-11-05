@@ -1,5 +1,3 @@
-###DEC-049637-0-000-30-12-1960@@@
-
 DECRETO Nº 49.637, DE 30 DE DEZEMBRO DE 1960.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$5.500.000,00 destinado ao pagamento da dívida contraía pela Liga Baiana Contra o Câncer em Salvador Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-052688-0-000-14-10-1963@@@
-
 DECRETO Nº 52.688, DE 14 DE OUTUBRO DE 1963.
 
 Reduz a gratificação, por serviço no estrangeiro, de Servidores do Ministério das Relações Exteriores.

@@ -1,5 +1,3 @@
-###DEC-047557-0-000-30-12-1959@@@
-
 DECRETO Nº 47.557, DE 30 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Diogo Bethonico a pesquisar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

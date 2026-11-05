@@ -1,5 +1,3 @@
-###DEC-083555-0-000-06-06-1979@@@
-
 DECRETO Nº 83.555, DE 06 DE JUNHO DE 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora Três Passos Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Três Passos, Estado do Rio Grande do Sul.

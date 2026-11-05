@@ -1,5 +1,3 @@
-###DEC-072722-0-000-30-08-1973@@@
-
 DECRETO Nº 72.722, DE 30 DE AGOSTO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra rural e respectiva faixa de acesso, sem benfeitorias, situadas no lugar denominado "Morro dos Cachorros", município de Blumenau, Estado de Santa Catarina, destinadas à instalação de uma estação repetidora de microondas, torre e serviços afins, pela Companhia Catarinense de Telecomunicações - COTESC.

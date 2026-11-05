@@ -1,7 +1,3 @@
-1
-
-###DEC-000407-0-000-27-12-1991@@@
-
 DECRETO Nº 407, DE 27 DE DEZEMBRO DE 1991
 
 Regulamenta o Fundo de Defesa de Direitos Difusos, de que tratam o art. 13 da Lei nº 7.347, de 24 de julho de 1985, a Lei nº 7.853, de 24 de outubro de 1989, os arts. 57, 99 e 100, parágrafo único da Lei nº 8.078, de 11 de setembro de 1990, e 12, § 3º, da Lei nº 8.158, de 8 de janeiro de 1991.

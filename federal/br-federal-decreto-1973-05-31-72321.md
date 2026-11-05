@@ -1,5 +1,3 @@
-###DEC-072321-0-000-31-05-1973@@@
-
 DECRETO N.º 72.321, DE 31 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à construção de uma subestação no município de São Paulo, estado de São Paulo.
@@ -23,8 +21,6 @@ Brasília, 31 de maio de 1973; 152º da Independência e 85º da República.
 Emílio G. Médici
 
 Antônio Dias leite Júnior
-
-###DEC-072321-0-000-31-05-1973@@@
 
 DECRETO N.º 72.321, DE 31 DE MAIO DE 1973.
 

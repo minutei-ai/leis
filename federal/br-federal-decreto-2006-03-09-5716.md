@@ -1,5 +1,3 @@
-###DEC-005716-0-000-09-03-2006@@@
-
 DECRETO Nº 5.716, DE 9 DE MARÇO DE 2006.
 
 Dispõe sobre a execução do Trigésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica no 14, entre os Governos da República Federativa do Brasil e da República Argentina, de 1o de março de 2006.

@@ -1,5 +1,3 @@
-###DEC-064207-0-000-18-03-1969@@@
-
 DECRETO Nº 64.207, DE 18 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Sociedade Inteligência e Coração, com sede em Belo Horizonte, Estado de Minas Gerais.

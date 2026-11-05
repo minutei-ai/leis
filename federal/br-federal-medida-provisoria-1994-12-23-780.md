@@ -1,7 +1,3 @@
-1
-
-###MPV-000780-0-000-23-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 780, DE 23 DE  DEZEMBRO DE 1994
 
 Autoriza o Poder Executivo a contratar com a Itaipu pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, denominados "BRAZIL INVESTMENT BOND (BIB)", em valor correspondente a até US$ 92,800,000.00 (noventa e dois milhões e oitocentos dólares dos Estados Unidos da América).

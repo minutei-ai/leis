@@ -1,5 +1,3 @@
-###DEC-078904-0-000-07-12-1976@@@
-
 DECRETO Nº 78.904, DE 7 DE DEZEMBRO DE 1976.
 
 Declara de utilidade pública para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, necessários à construção dos oleodutos e gasodutos de Sergipe e Alagoas, linhas de transmissão e adutora ligando Pirambu a Carmópolis, no Estado de Sergipe.

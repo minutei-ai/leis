@@ -1,5 +1,3 @@
-###DEC-070787-0-000-04-07-1972@@@
-
 DECRETO Nº 70.787, DE 4 DE JULHO DE 1972.
 
 Concede à Cerâmica Martini S.A. o direito de lavrar argila no município de Mogi-Guaçu, Estado de São Paulo.

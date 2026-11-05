@@ -1,5 +1,3 @@
-###DEC-069290-0-000-27-09-1971@@@
-
 decreto nº 69.290, de 27 de setembro de 1971.
 
 Aprova o Regulamento da Diretoria de Administração Financeira, do Ministério do Exército.

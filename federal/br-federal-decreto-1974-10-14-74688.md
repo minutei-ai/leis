@@ -1,5 +1,3 @@
-###DEC-074688-0-000-14-10-1974@@@
-
 DECRETO Nº 74.688, DE 14 DE OUTUBRO DE 1974.
 
 Torna sem efeito o Decreto número 72.968, de 19 de outubro de 1973.

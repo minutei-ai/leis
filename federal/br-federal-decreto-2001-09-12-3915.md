@@ -1,5 +1,3 @@
-###DEC-003915-0-000-12-09-2001@@@
-
 DECRETO Nº 3.915, DE 12 DE SETEMBRO DE 2001
 
  Regulamenta a Lei nº 9.994, de 24 de julho de 2000, que institui o Programa de Desenvolvimento Científico e Tecnológico do setor espacial, e dá outras providências.

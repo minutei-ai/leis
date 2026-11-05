@@ -1,5 +1,3 @@
-###DEC-051099-0-000-01-08-1961@@@
-
 DECRETO Nº 51.099, DE 1º DE AGÔSTO DE 1961.
 
 Declara pública, de uso comum, do domínio da União, as águas do rio “Apidiá” (Pimenta Bueno)”, “Ji-Paraná” e “Ji-Paraná”, respectivamente nos seus trechos superior, médio e inferior.

@@ -1,5 +1,3 @@
-###DEC-051882-0-000-02-04-1963@@@
-
 DECRETO Nº 51.882, DE 2 DE ABRIL DE 1963.
 
 Assegura preços mínimos à produção de juta e malva da Bacia Amazônica, da safra de 1963.

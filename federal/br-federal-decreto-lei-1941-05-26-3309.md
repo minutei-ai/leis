@@ -1,5 +1,3 @@
-###DEL-003309-0-000-26-05-1941@@@
-
 DECRETO-LEI N. 3.309 – DE 26 DE MAIO DE 1941
 
 Cria um Distrito no Departamento Nacional de Obras de Saneamento e dá outras providências

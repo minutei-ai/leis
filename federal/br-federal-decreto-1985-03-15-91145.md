@@ -1,5 +1,3 @@
-###DEC-091145-0-000-15-03-1985@@@
-
 DECRETO Nº 91.145, DE 15 DE MARÇO DE 1985
 
 Cria o Ministério do Desenvolvimento Urbano e Meio Ambiente, dispõe sobre sua estrutura, transferindo-lhe os órgãos que menciona, e dá outras providências.

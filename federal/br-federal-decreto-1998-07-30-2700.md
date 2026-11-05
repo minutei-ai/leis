@@ -1,5 +1,3 @@
-###DEC-002700-0-000-30-07-1998@@@
-
 DECRETO Nº 2.700, DE 30 DE JULHO DE 1998
 
 Promulga o Ajuste Complementar ao Acordo de Cooperação Científica, Técnica e Tecnológica para Cooperação na Área de Transportes, celebrado entre o Governo da República Federativa do Brasil e o Governo da República de Cuba, em Havana, em 30 de janeiro de 1996.
@@ -80,4 +78,14 @@ Disposições Finais
 
 Feito em Havana, aos 30 dias do mês de janeiro de 1996, em dois exemplares originais, nas línguas portuguesa e espanhola, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:166.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:121.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República de Cuba</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Odacir Klein</span></p></td><td style="width:166.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:121.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Senén Casas</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado dos Transportes</span></p></td><td style="width:166.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:121.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Transportes</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República de Cuba
+
+Odacir Klein
+
+Senén Casas
+
+Ministro de Estado dos Transportes
+
+Ministro de Transportes

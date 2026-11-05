@@ -1,5 +1,3 @@
-###DEC-058789-0-000-11-07-1966@@@
-
 decreto nº 58.789, de 11 de julho de 1966.
 
 Regulamentar os arts. 27, 28, 54 e 55, da Lei nº 5.025, de 10-6-1966.

@@ -1,5 +1,3 @@
-###DEC-052689-0-000-15-10-1963@@@
-
 DECRETO Nº 52.689, DE 15 DE OUTUBRO DE 1963.
 
 Concedo a “Lineas Aéreas Paraguayas LAP” autorização para funcionar no Brasil.

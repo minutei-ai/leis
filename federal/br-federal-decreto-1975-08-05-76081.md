@@ -1,5 +1,3 @@
-###DEC-076081-0-000-05-08-1975@@@
-
 DECRETO Nº 76.081 - DE 5 DE AGOSTO DE 1975
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado em Teresina, Estado do Piauí.

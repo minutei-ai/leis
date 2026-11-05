@@ -1,5 +1,3 @@
-###DEC-080187-0-000-17-08-1977@@@
-
 DECRETO Nº 80.187, DE 17 DE AGOSTO DE 1977.
 
 Concede à Ferro de Belo Horizonte S. A. - FERROBEL o direito de lavrar minério de ferro no Município de Belo Horizonte, Estado de Minas Gerais.

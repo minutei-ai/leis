@@ -1,5 +1,3 @@
-###DEC-070476-0-000-04-05-1972@@@
-
 decreto nº 70.476, de 4 de maio de 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Registro - Estado de São Paulo.

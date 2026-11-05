@@ -1,5 +1,3 @@
-###DEC-067618-0-000-19-11-1970@@@
-
 DECRETO Nº 67.618, DE 19 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública o Albergue Santa Luiza de Marillac, com sede em Maringá, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-061399-0-000-22-09-1967@@@
-
 DECRETO Nº 61.399, DE 22 DE SETEMBRO DE 1967.
 
 Altera o Regimento do Serviço de documentação do Ministério da Educação e Cultura, aprovado pelo Decreto nº 57.481, de 24 de dezembro de 1965.

@@ -1,5 +1,3 @@
-###DEC-095176-0-000-10-11-1987@@@
-
 DECRETO N° 95.176, DE 10 DE NOVEMBRO DE 1987
 
 Amplia o limite global das importações através da Zona Franca de Manaus, no exercício de 1987, e dá outras providências.

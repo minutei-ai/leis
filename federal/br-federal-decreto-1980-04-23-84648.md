@@ -1,5 +1,3 @@
-###DEC-084648-0-000-23-04-1980@@@
-
 Decreto nº 84.648, de 23 de abril de 1980
 
 Autoriza o funcionamento do curso de Direito da Faculdade de Direito de Joinville, Estado de Santa Catarina.

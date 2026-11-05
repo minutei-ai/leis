@@ -1,5 +1,3 @@
-###DEL-009615-0-000-20-08-1946@@@
-
 DECRETO-LEI N. 9.615 – DE 20 DE AGÔSTO DE 1946
 
 Dá nova redação ao art. 594 da Consolidação das Leis do Trabalho

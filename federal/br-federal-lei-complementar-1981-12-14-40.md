@@ -1,7 +1,3 @@
-1
-
-###LCP-000040-0-000-14-12-1981@@@
-
 # LEI COMPLEMENTAR Nº 40, DE 14 DE DEZEMBRO DE 1981
 
 Estabelece normas gerais a serem adotadas na organização do Ministério Público estadual.

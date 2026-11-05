@@ -1,5 +1,3 @@
-###DEC-052836-0-000-18-11-1963@@@
-
 DECRETO Nº 52.836, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza a Empresa Fôrça e Luz Santa Catarina S.A. a construir ramais de linha de transmissão.

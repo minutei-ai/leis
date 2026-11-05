@@ -1,8 +1,11 @@
 LEI Nº 2.404 DE 30 DE NOVEMBRO DE 1966
 
-Ver também:<br>
-Art. 1º e inciso IV da Lei nº 3.580, de 30 de junho de 1977: Art. 1º - Art. 1º - As pensões especiais instituídas pelas Leis abaixo indicadas passam a ter por base o valor atribuído ao menor nível 1 (um), da Tabela de Vencimentos do Pessoal Civil do Poder Executivo e serão calculadas na forma a seguir:<br>
-...................<br>
+Ver também:
+
+Art. 1º e inciso IV da Lei nº 3.580, de 30 de junho de 1977: Art. 1º - Art. 1º - As pensões especiais instituídas pelas Leis abaixo indicadas passam a ter por base o valor atribuído ao menor nível 1 (um), da Tabela de Vencimentos do Pessoal Civil do Poder Executivo e serão calculadas na forma a seguir:
+
+...................
+
 IV - IV -     Lei nº 2.404, de 30 de novembro de 1966 - 10 (dez) vezes o valor do nível 1;
 
 &nbs
@@ -29,4 +32,4 @@ Boris Tabacof
 
 Cruz Rios
 
-* * *
+ *

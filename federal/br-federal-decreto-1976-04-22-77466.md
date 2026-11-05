@@ -1,5 +1,3 @@
-###DEC-077466-0-000-22-04-1976@@@
-
 DECRETO N.º 77.466 - DE 22 DE ABRIL DE 1976
 
  Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A.- ESCELSA, no Estado do Espírito Santo.

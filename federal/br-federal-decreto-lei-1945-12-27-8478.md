@@ -1,5 +1,3 @@
-###DEL-008478-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.478 – DE 27 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 54.000.000,00, para classificação de despesa.

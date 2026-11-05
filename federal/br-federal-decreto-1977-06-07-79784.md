@@ -1,5 +1,3 @@
-###DEC-079784-0-000-07-06-1977@@@
-
 Decreto nº 79.784 , de 7 de junho de 1977
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado na Cidade de Belém, Estado do Pará.

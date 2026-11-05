@@ -1,5 +1,3 @@
-###DEC-088325-0-000-23-05-1983@@@
-
 Decreto nº 88.325, de 23 de maio de 1983
 
 Autoriza o Lloyds Bank International Limited, como sucessor do Bank of London & South America Limited, a funcionar no Brasil e dá outras providências.

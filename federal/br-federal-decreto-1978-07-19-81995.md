@@ -1,5 +1,3 @@
-###DEC-081995-0-000-19-07-1978@@@
-
 Decreto nº 81.995, de 19 de julho de 1978.
 
 Aprova o Regulamento do Comando-Geral de Apoio e dá outras providências.

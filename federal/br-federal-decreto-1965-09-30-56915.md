@@ -1,5 +1,3 @@
-###DEC-056915-0-000-30-09-1965@@@
-
 DECRETO Nº 56.915, DE 30 DE SETEMBRO DE 1965.
 
 Concede à aliança de Goiás Companhia de Seguros autorização para funcionar e aprova os seus Estatutos.

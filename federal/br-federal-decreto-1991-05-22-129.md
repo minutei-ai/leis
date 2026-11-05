@@ -1,5 +1,3 @@
-###DEC-000129-0-000-22-05-1991@@@
-
 DECRETO N° 129, DE 22 DE MAIO DE 1991
 
 Promulga a Convenção nº 159, da Organização Internacional do Trabalho - OIT, sobre Reabilitação Profissional e Emprego de Pessoas Deficientes.

@@ -1,5 +1,3 @@
-###DEC-096650-0-000-05-09-1988@@@
-
 DECRETO N° 96.650, DE 5 DE SETEMBRO DE 1988
 
 Altera dispositivos do Decreto n ° 94.536, de as de junho de 1987.

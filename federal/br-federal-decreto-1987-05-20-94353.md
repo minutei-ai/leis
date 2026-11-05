@@ -1,5 +1,3 @@
-###DEC-094353-0-000-20-05-1987@@@
-
 DECRETO Nº 94.353, DE 20 DE MAIO DE 1987.
 
 Restabelece, post mortem, as condecorações nacionais que foram retiradas ao Senhor CARLOS FREDERICO WERNECK DE LACERDA, e determina a sua reinclusão nos Quadros das Ordens dos quais tenha sido excluído.

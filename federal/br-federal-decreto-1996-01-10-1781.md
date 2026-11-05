@@ -1,5 +1,3 @@
-###DEC-001781-0-000-10-01-1996@@@
-
 DECRETO Nº 1.781, DE 10 DE JANEIRO DE 1996
 
 Homologa o Contrato Internacional de Concessão, firmado pela República Federativa do Brasil e pela República Argentina com o Consórcio Impregilo-Iglys-Cigla-Convap.

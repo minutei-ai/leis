@@ -1,5 +1,3 @@
-###DEC-070418-0-000-17-04-1972@@@
-
 DECRETO Nº 70.418, DE 17 DE ABRIL DE 1972.
 
 Declara de utilidades pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de Goiás.

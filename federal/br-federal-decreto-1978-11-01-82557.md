@@ -1,5 +1,3 @@
-###DEC-082557-0-000-01-11-1978@@@
-
 Decreto nº 82.557, de 01 de novembro de 1978.
 
 Concede à Companhia Nacional de Álcalis o direito de lavrar calcário no Município de Laranjeiras, Estado de Sergipe.

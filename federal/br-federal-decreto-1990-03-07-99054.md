@@ -1,7 +1,3 @@
-1
-
-###DEC-099054-0-000-07-03-1990@@@
-
 DECRETO N° 99.054, DE 07 DE MARÇO DE 1990.
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “CEDRINHO” ou CASTANHAL CEDRINHO”, situado no Município de Marabá, Estado do Pará, e dá outras providências.

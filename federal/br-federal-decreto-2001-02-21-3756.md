@@ -1,5 +1,3 @@
-###DEC-003756-0-000-21-02-2001@@@
-
 DECRETO Nº 3.756, DE 21 DE FEVEREIRO DE 2001
 
 Dispõe sobre a CAMEX - Câmara de Comércio Exterior e dá outras providências.

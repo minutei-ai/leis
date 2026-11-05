@@ -1,5 +1,3 @@
-###DEC-003181-0-000-23-09-1999@@@
-
 DECRETO Nº 3.181, DE 23 DE SETEMBRO DE 1999.
 
 Regulamenta a Lei nº 9.787, de 10 de fevereiro de 1999, que dispõe sobre a Vigilância Sanitária, estabelece o medicamento genérico, dispõe sobre a utilização de nomes genéricos em produtos farmacêuticos e dá outras providências.

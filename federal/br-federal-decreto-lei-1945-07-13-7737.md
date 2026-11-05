@@ -1,5 +1,3 @@
-###DEL-007737-0-000-13-07-1945@@@
-
 DECRETO-LEI N. 7.737 – DE 13 DE JULHO DE 1945
 
 Concede aforamento à sociedade civil “Aloisianum” do terreno acrescido de marinha que menciona, e dá outras providências.

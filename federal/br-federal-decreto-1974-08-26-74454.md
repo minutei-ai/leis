@@ -1,5 +1,3 @@
-###DEC-074454-0-000-26-08-1974@@@
-
 DECRETO Nº 74.454 - DE 26 DE AGOSTO DE 1974.
 
 Transfere a sede da Capitania de Portos do Estado de Santa Catarina, da Cidade de Florianópolis para a de Itajaí, no mesmo Estado, e dá outras providências.

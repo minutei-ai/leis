@@ -1,5 +1,3 @@
-###DEC-057548-0-000-29-12-1965@@@
-
 Decreto nº 57.548, de 29 de dezembro de 1965.
 
 Abre crédito especial autorizado pela Lei nº 4.308, de 23-12-63.

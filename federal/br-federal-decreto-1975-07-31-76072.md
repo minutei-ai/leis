@@ -1,5 +1,3 @@
-###DEC-076072-0-000-31-07-1975@@@
-
 DECRETO Nº 76.072, DE 31 DE JULHO DE 1975.
 
 Concede à Mineração Alto Bonito Limitada, o direito de lavrar gipsita no Município de Ipubi, Estado de Pernambuco.

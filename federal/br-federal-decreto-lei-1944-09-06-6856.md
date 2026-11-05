@@ -1,5 +1,3 @@
-###DEL-006856-0-000-06-09-1944@@@
-
 DECRETO-LEI N. 6.856 – DE 6 DE SETEMBRO DE 1944
 
 Torna sem aplicação a importância de Cr$ 2.965.000,00 de crédito orçamentário do Ministério da Educação e Saúde e abre o crédito especial de idêntica importância

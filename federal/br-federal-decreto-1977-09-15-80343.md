@@ -1,5 +1,3 @@
-###DEC-080343-0-000-15-09-1977@@@
-
 DECRETO Nº 80.343, DE 15 DE SETEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Benedito Leite, Estado do Maranhão.

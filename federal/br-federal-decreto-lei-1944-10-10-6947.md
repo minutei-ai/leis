@@ -1,5 +1,3 @@
-###DEL-006947-0-000-10-10-1944@@@
-
 DECRETO-LEI N. 6.947 – DE 10 DE OUTUBRO DE 1944
 
 Cria no Quadro Permanente do Ministério da Agricultura o cargo em comissão de Administrador da Colônia Agrícola NacionaI do Piauí e abre créditos ao mesmo Ministério.

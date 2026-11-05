@@ -1,5 +1,3 @@
-###DEC-099548-0-000-25-09-1990@@@
-
 DECRETO N° 99.548, DE 25 DE SETEMBRO DE 1990
 
 Altera o Decreto n ° 93.408, de 10 de outubro de 1986, que dispõe sobre a instituição de creches e demais serviços de assistência pré-escolar para os filhos de servidores dos órgãos e entidades da Administração Pública Federal.

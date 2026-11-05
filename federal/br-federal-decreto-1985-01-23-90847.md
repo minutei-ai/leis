@@ -1,5 +1,3 @@
-###DEC-090847-0-000-23-01-1985@@@
-
 Decreto nº 90.847, de 23 de janeiro de 1985
 
 Outorga concessão à RÁDIO ARARIPE DO IPU LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade do Ipu, Estado do Ceará.

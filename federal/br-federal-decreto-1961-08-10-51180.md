@@ -1,5 +1,3 @@
-###DEC-051180-0-000-10-08-1961@@@
-
 decreto nº 51.189, de 10 de agôsto de 1961.
 
 Outorga concessão à Rádio Emissôra Rural A Voz do São Francisco Limitada para estabelecer uma estação radiodifusora de ondas tropicais.

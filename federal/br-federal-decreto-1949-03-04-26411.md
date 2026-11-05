@@ -1,20 +1,18 @@
-###DEC-026411-0-000-04-03-1949@@@
+**DECRETO Nº 26.411, DE 4 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.411, DE 4 DE MARÇO DE 1949.</strong>
+***Açúcar e Álcool concessão para o aproveitamento de energia hidráulica de uma queda dágua situada no rio Gulangi, município de Muricí, Estado de Alagoas, para uso exclusivo.***
 
-<em><strong>Açúcar e Álcool concessão para o aproveitamento de energia hidráulica de uma queda dágua situada no rio Gulangi, município de Muricí, Estado de Alagoas, para uso exclusivo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal, e nos têrmos do art. 150 do Código de Águas ( Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal, e nos têrmos do art. 150 do Código de Águas ( Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos é outorgada à S. A. Usina Alegria - Açúcar e Álcool concessão para o aproveitamento da energia hidráulica de uma queda dágua situada no rio Gulangi, município de Murici, Estado de Alagoas.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos é outorgada à S. A. Usina Alegria - Açúcar e Álcool concessão para o aproveitamento da energia hidráulica de uma queda dágua situada no rio Gulangi, município de Murici, Estado de Alagoas.
 
 § 1º Em portaria do Ministro da Agricultura por ocasião da aprovação dos projetos serão determinadas a altura da queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção e transmissão de energia elétrica para consumo exclusivo da concessionária, que não poderá ceder qualquer parcela de energia a terceiro, mesmo a título gratuito, ficando, todavia, excluída dessa proibição as vilas operarias da concessionária, desde que seja gratuito o seu fornecimento.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
 
 I - Registrá-lo na Divisão de Águas dentro de trinta (30) dias, após sua publicação.
 
@@ -64,26 +62,26 @@ V - Obedecer, em todos, às prescrições de ordem técnica determinadas pela Di
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descargas, e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descargas, e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A minuta de contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetidas à provação do Ministro da Agricultura.
+**Art**. 4º A minuta de contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetidas à provação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato da Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato da Divisão de Águas.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanece da produção transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Alagoas, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, isto é, do capital efetivamente invertido menos a depreciação.
+**Art**. 6º Findo o prazo da concessão tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanece da produção transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Alagoas, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, isto é, do capital efetivamente invertido menos a depreciação.
 
 § 1º Se o Estado de Alagoas não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º - dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Alagoas e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 7º A concessionária gozará, desde a data do registro de que se trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 7º A concessionária gozará, desde a data do registro de que se trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>.  8º O presente decreto entra em vigor na data da sua publicação
+**Art**.  8º O presente decreto entra em vigor na data da sua publicação
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 4 de março de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

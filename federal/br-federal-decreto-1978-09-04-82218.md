@@ -1,5 +1,3 @@
-###DEC-082218-0-000-04-09-1978@@@
-
 Decreto nº 82.218, de 04 de setembro de 1978.
 
 Autoriza a conversão dos cursos de Matemática, Física e Ciências Biológicas em Curso de Ciências, ministrado pela Universidade Católica de Goiás, com sede na cidade de Goiânia, Estado de Goiás.

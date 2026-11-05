@@ -1,5 +1,3 @@
-###DEC-005722-0-000-13-03-2006@@@
-
 DECRETO Nº 5.722, DE 13 DE MARÇO DE 2006.
 
 Promulga o Acordo Multilateral de Seguridade Social do Mercado Comum do Sul e seu Regulamento Administrativo, de 15 de dezembro de 1997.
@@ -232,7 +230,13 @@ ARTIGO 19
 
         Feito em Montevidéu, em 15 de dezembro de 1997, em um original, nos idiomas português e espanhol, sendo ambos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:224.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">GUIDO DI TELLA Ministro de Relaciones Exteriores y Culto República Argentina</span></p></td><td style="width:224.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">LUIZ FELIPE LAMPREIA Ministro de Relaciones Exteriores</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">República Federativa del Brasil</span></p></td></tr><tr><td style="width:224.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RUBEN MELGAREJO LANZONI Ministro de Relaciones Exteriores</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">República del Paraguay</span></p></td><td style="width:224.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CARLOS PEREZ DEL CASTILLO Ministro (i) de Relaciones Exteriores</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Uruguay</span></p></td></tr></tbody></table>
+GUIDO DI TELLA Ministro de Relaciones Exteriores y Culto República Argentina
+
+LUIZ FELIPE LAMPREIA Ministro de Relaciones Exteriores  República Federativa del Brasil
+
+RUBEN MELGAREJO LANZONI Ministro de Relaciones Exteriores  República del Paraguay
+
+CARLOS PEREZ DEL CASTILLO Ministro (i) de Relaciones Exteriores  Uruguay
 
 REGULAMENTO ADMINISTRATIVO PARA A APLICAÇÃO DO ACORDO MULTILATERAL DE SEGURIDADE SOCIAL DO MERCADO COMUM DO SUL
 
@@ -378,4 +382,10 @@ ARTIGO 14
 
         Feito em Montevidéu, em 15 de dezembro de 1997, em um original, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:224.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">GUIDO DI TELLA Ministro de Relaciones Exteriores y Culto República Argentina</span></p></td><td style="width:224.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">LUIZ FELIPE LAMPREIA Ministro de Relaciones Exteriores</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">República Federativa del Brasil</span></p></td></tr><tr><td style="width:224.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RUBEN MELGAREJO LANZONI Ministro de Relaciones Exteriores</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">República del Paraguay</span></p></td><td style="width:224.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CARLOS PEREZ DEL CASTILLO Ministro (i) de Relaciones Exteriores</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Uruguay</span></p></td></tr></tbody></table>
+GUIDO DI TELLA Ministro de Relaciones Exteriores y Culto República Argentina
+
+LUIZ FELIPE LAMPREIA Ministro de Relaciones Exteriores  República Federativa del Brasil
+
+RUBEN MELGAREJO LANZONI Ministro de Relaciones Exteriores  República del Paraguay
+
+CARLOS PEREZ DEL CASTILLO Ministro (i) de Relaciones Exteriores  Uruguay

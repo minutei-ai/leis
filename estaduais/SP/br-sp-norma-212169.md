@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212169)<br>
-
 # DECRETO N° 70.342, DE 20 DE JANEIRO DE 2026
 
 ### _Altera dispositivo do Decreto n° 65.520, de 12 de fevereiro de 2021, que transfere, da Secretaria de Agricultura e Abastecimento para a Procuradoria Geral do Estado, a administração de parte do imóvel que especifica, localizado no Município de Campinas, e dá providências correlatas._

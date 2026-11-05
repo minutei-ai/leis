@@ -1,5 +1,3 @@
-###MPV-002044-0-059-21-12-2000@@@
-
 Medida Provisória nº 2.044-59, de 21 de dezembro de 2000.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

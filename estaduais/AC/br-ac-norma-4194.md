@@ -1,12 +1,14 @@
 > **LEI Nº 3.680, DE 31 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece o percentual máximo de profissionais de segurança pública que podem atuar fora das corporações.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece o percentual máximo de profissionais de segurança pública que podem atuar fora das corporações.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
-
-<br>
 
 **Art. 1º** Fica estabelecido em três por cento o percentual máximo de profissionais das polícias militares, polícias civis, corpos de bombeiros militares e polícias técnico-científica que atuam fora de suas respectivas corporações ou órgãos.
 
@@ -31,8 +33,6 @@ V - forças tarefas, no âmbito dos Ministérios Públicos - MP, e nos grupos de
 **Parágrafo único**. Os órgãos de que trata o art. 1º encaminharão à SEJUSP, trimestralmente, o percentual de profissionais de segurança pública que se encontram atuando fora de suas respectivas corporações.
 
 **Art. 4º** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 Rio Branco-Acre, 31 de dezembro de 2020, 132º da República, 118º do Tratado de Petrópolis e 59º do Estado do Acre.
 

@@ -1,5 +1,3 @@
-###DEC-068906-0-000-13-07-1971@@@
-
 decreto nº 68.906, de 13 de julho de 1971.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Pindamonhangaba, com sede em Pindamonhangaba, Estado de São Paulo.

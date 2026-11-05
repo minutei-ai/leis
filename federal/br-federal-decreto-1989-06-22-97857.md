@@ -1,7 +1,3 @@
-1
-
-###DEC-097857-0-000-22-06-1989@@@
-
 DECRETO Nº 97.857, DE 22 DE JUNHO DE 1989(\*)
 
 Abre ao Ministério da Educação, em favor de diversas Entidades Supervisionadas, créditos adicionais no valor de NCz$ 591 497.680,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-###DEC-052228-0-000-09-07-1963@@@
-
 Decreto Nº 52.228, DE 9 DE JULHO DE 1963.
 
 Autoriza o cidadão brasileiro Luiz Gonzaga Machado Barreio a pesquisar amianto no município de Batalha, Estado de Alagoas.
